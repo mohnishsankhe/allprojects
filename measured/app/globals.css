@@ -1,0 +1,159 @@
+@import 'tailwindcss';
+
+/*
+ * A lab report art-directed by a luxury house.
+ *
+ * The accent is rationed on purpose: International Klein Blue appears only on
+ * measured numbers, status chips and the brand dot. Everywhere else is paper
+ * and ink. Accent creep is the fastest way to lose the feel.
+ */
+@theme {
+  --color-paper: #faf9f6;
+  --color-ink: #111111;
+  --color-accent: #0b3bec;
+
+  /*
+   * Ink at reduced presence. Named for the job, not the percentage, because
+   * the percentages are chosen by contrast rather than by eye:
+   *   muted 6.9:1 and soft 4.9:1 both clear WCAG AA for normal text on paper,
+   *   decor is aria-hidden ornament only, and line/wash never carry text.
+   */
+  --color-ink-muted: color-mix(in srgb, #111111 70%, #faf9f6);
+  --color-ink-soft: color-mix(in srgb, #111111 60%, #faf9f6);
+  --color-ink-decor: color-mix(in srgb, #111111 38%, #faf9f6);
+  --color-ink-line: color-mix(in srgb, #111111 18%, #faf9f6);
+  --color-ink-wash: color-mix(in srgb, #111111 8%, #faf9f6);
+
+  /* Status chips. Amber is the only colour outside the palette, and it earns
+     its place by meaning exactly one thing: committed but not yet done. */
+  --color-status-measured: #0b3bec;
+  --color-status-planned: #8a5a00;
+  --color-status-provisional: #55524c;
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-display: var(--font-fraunces), ui-serif, Georgia, 'Times New Roman', serif;
+
+  --text-hero: clamp(2.75rem, 11vw, 6.5rem);
+  --text-section: clamp(1.75rem, 6vw, 3rem);
+  --text-serif-body: clamp(1.0625rem, 3.4vw, 1.375rem);
+
+  --tracking-label: 0.16em;
+}
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  font-synthesis-weight: none;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Numbers are the boast, so they are always tabular and never reflow. */
+.num {
+  font-variant-numeric: tabular-nums lining-nums;
+  font-feature-settings: 'tnum' 1, 'lnum' 1;
+}
+
+.label {
+  font-size: 0.6875rem;
+  letter-spacing: var(--tracking-label);
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.rule {
+  border-top: 1px solid var(--color-ink-line);
+}
+
+/*
+ * Specimen-label surface for the SKU cards: paper with a hairline grid, no
+ * photography. The gradients are cheap to paint and cost nothing at LCP.
+ */
+.specimen {
+  background-image:
+    linear-gradient(to bottom, color-mix(in srgb, #111111 3%, transparent), transparent 38%),
+    repeating-linear-gradient(
+      to bottom,
+      transparent,
+      transparent 27px,
+      color-mix(in srgb, #111111 4%, transparent) 27px,
+      color-mix(in srgb, #111111 4%, transparent) 28px
+    );
+}
+
+/* Abstract macro in place of stock perfume photography: glass edge, liquid
+   meniscus and condensation, all drawn with gradients. */
+.macro-glass {
+  background-image:
+    radial-gradient(120% 80% at 78% 8%, color-mix(in srgb, #0b3bec 16%, transparent), transparent 62%),
+    radial-gradient(90% 60% at 12% 92%, color-mix(in srgb, #111111 12%, transparent), transparent 70%),
+    linear-gradient(104deg, transparent 46%, color-mix(in srgb, #ffffff 85%, transparent) 49%, transparent 52%);
+}
+
+.dotted-underline {
+  text-decoration: underline dotted currentColor;
+  text-underline-offset: 0.35em;
+  text-decoration-thickness: 1px;
+}
+
+/* Focus ring: visible, on-brand, and never removed. */
+:where(a, button, summary, input, select, [tabindex]):focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+/*
+ * Invoice bar fill.
+ *
+ * The collapsed state is gated on `.js`, which layout.tsx sets before paint.
+ * With JavaScript off the rule never applies and the bars render full and to
+ * scale; with it on they start collapsed and transition in on intersect;
+ * under reduced motion they are simply shown.
+ */
+.bar-seg {
+  transform-origin: left;
+  transition:
+    transform 700ms cubic-bezier(0.22, 1, 0.36, 1),
+    opacity 700ms ease-out;
+}
+
+.js .bar-seg {
+  transform: scaleX(0);
+  opacity: 0;
+}
+
+.js [data-inview='true'] .bar-seg {
+  transform: scaleX(1);
+  opacity: 1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .js .bar-seg {
+    transform: none;
+    opacity: 1;
+  }
+}

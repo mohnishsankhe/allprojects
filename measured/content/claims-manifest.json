@@ -1,0 +1,10 @@
+[
+  {"id":"oil-20","claim":"Hero SKUs disclose fragrance-oil concentration (18–22%)","status":"PROVISIONAL","note":"Final % printed per batch at launch"},
+  {"id":"climate-test","claim":"Longevity measured at 34°C / 75% RH before launch","status":"PLANNED","target":"pre-launch"},
+  {"id":"panel","claim":"Blind on-skin preference panel decides which compositions ship","status":"PLANNED","target":"pre-launch"},
+  {"id":"street-test","claim":"Public blind test (Bandra) filmed and published uncut","status":"PLANNED","target":"config.eventWindow","conditional":"streetTestPlanned"},
+  {"id":"invoice","claim":"Cost structure (invoice) published at launch; juice ≥25% of MRP cost base","status":"PLANNED","target":"launch"},
+  {"id":"guarantee","claim":"Compliments Guarantee — complimented in 30 days or refunded","status":"PLANNED","target":"launch"},
+  {"id":"names","claim":"Product names carry lab-measured numbers, rounded down","status":"PROVISIONAL","note":"Names finalize after measurement"},
+  {"id":"catalog","claim":"Catalog capped at 4 SKUs until each new SKU wins a panel","status":"MEASURED","note":"True by construction today"}
+]

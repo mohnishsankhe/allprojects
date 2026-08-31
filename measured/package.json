@@ -1,0 +1,39 @@
+{
+  "name": "measured",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "check:claims": "node scripts/check-claims.mjs",
+    "check:schema": "node scripts/check-no-review-schema.mjs",
+    "lighthouse": "node scripts/lighthouse.mjs",
+    "verify": "npm run typecheck && npm run lint && npm run check:claims && npm run test && npm run build && npm run check:schema"
+  },
+  "dependencies": {
+    "next": "16.3.3",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^22.20.0",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.5",
+    "chrome-launcher": "^1.2.1",
+    "eslint": "^9.20.0",
+    "eslint-config-next": "16.3.3",
+    "lighthouse": "^13.4.1",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^5.9.3",
+    "vitest": "^4.1.11"
+  }
+}
