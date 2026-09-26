@@ -371,7 +371,7 @@ def probe(domain: str, timeout: float = 10) -> dict:
 _BLOCK_TAGS = {"p", "div", "br", "li", "ul", "ol", "h1", "h2", "h3", "h4", "h5", "h6", "tr", "td", "th",
                "table", "section", "article", "header", "footer", "blockquote", "pre", "hr", "dd", "dt", "dl",
                "nav", "aside", "main", "form", "fieldset", "figure", "figcaption", "title"}
-_SKIP_TAGS = {"script", "style", "noscript", "template", "svg", "head"}
+_SKIP_TAGS = {"script", "style", "noscript", "template", "svg"}
 
 
 class _TextExtractor(HTMLParser):
@@ -404,13 +404,7 @@ def html_to_text(html: str) -> str:
     parser.close()
     raw = "".join(parser.parts)
     lines = [re.sub(r"[ \t\r\f\v ]+", " ", ln).strip() for ln in raw.split("\n")]
-    out: list[str] = []
-    for ln in lines:
-        if ln:
-            out.append(ln)
-        elif out and out[-1] != "":
-            out.append("")
-    return "\n".join(out).strip()
+    return "\n".join(ln for ln in lines if ln)
 
 
 # --------------------------------------------------------------------------- dates
@@ -446,12 +440,10 @@ def url_date_info(url: str) -> tuple:
             continue
         if i == 2:
             d = _valid_date(m.group(1), m.group(2), "01")
-            if d:
-                return d, "month"
-        else:
-            d = _valid_date(m.group(1), m.group(2), m.group(3))
-            if d:
-                return d, "day"
+            return (d, "month") if d else (None, None)
+        # a full date pattern with an impossible day is not a date at all
+        d = _valid_date(m.group(1), m.group(2), m.group(3))
+        return (d, "day") if d else (None, None)
     return None, None
 
 

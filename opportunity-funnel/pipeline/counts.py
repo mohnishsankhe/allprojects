@@ -318,6 +318,7 @@ def cmd_saturation(args) -> int:
     data.setdefault("final", False)
     if args.final:
         if args.stop_reason == "saturated" and not entry["saturated"]:
+            common.write_json(out, data)  # the round's verdict is still recorded; the stop reason is refused
             raise common.ValidationErrors([
                 f"{common.rel(out)}: stop reason 'saturated' needs the last round to be saturated, but round "
                 f"{round_no} is not (new pains: {', '.join(entry['new_pains']) or 'none'}; rank changes: "
