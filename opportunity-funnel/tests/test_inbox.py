@@ -153,8 +153,9 @@ def test_ingest_closed_groups_stores_anonymized_records_only(run, froot):
     ios = recs[f"inbox://closed_groups/{ROOM}/WhatsApp_Chat_with_[name].txt#2"]
     assert ios["text"] == "Hi [name], has anyone here paid for the Magoosh course?\nI paid ₹15,000 and I am still stuck\non quant."
     assert ios["date"] == "2024-05-13" and ios["source"] == "inbox:closed_groups"
+    # files are read in sorted path order: ChatExport_2024/result.json (2 records) comes first
     assert ios["meta"] == {"kind": "chat_message", "format": "whatsapp", "file": "WhatsApp_Chat_with_[name].txt", "inbox": "closed_groups",
-                           "line": 2, "round": 1, "order": [1, 0, 2], "date_from": "file"}
+                           "line": 2, "round": 1, "order": [1, 0, 3], "date_from": "file"}
     assert recs[f"inbox://closed_groups/{ROOM}/WhatsApp_Chat_with_[name].txt#7"]["text"] == "same here, wasted money on coaching, call me on [phone]"
     assert recs[f"inbox://closed_groups/{ROOM}/WhatsApp_Chat_with_[name].txt#10"]["text"] == "ask [name] about the refund, she got one"
     assert f"inbox://closed_groups/{ROOM}/WhatsApp_Chat_with_[name].txt#6" not in recs  # "ok" is under 3 words
@@ -182,9 +183,10 @@ def test_ingest_closed_groups_stores_anonymized_records_only(run, froot):
     s2 = sources.ingest_inbox(run, ROOM)
     assert s2["records_new"] == 0 and s2["duplicates"] == 13
     assert records.source_file(run, ROOM, "inbox:closed_groups").read_bytes() == before
-    # the room's batches accept these records
+    # the room's batches accept these records; the 2024 chat dates fall outside the 24-month lookback
     m = records.make_batches(run, ROOM)
-    assert m["filters"]["kept"] == 13 and sorted(m["batches"]) == ["batch_r1_001"]
+    assert m["filters"]["loaded"] == 13 and m["filters"]["dropped_old"] == 8 and m["filters"]["kept"] == 5
+    assert sorted(m["batches"]) == ["batch_r1_001"]
 
 
 def test_cli_prints_counts_but_never_names_or_text(run, froot, cli):
@@ -243,7 +245,7 @@ def test_known_names_reach_every_file_and_file_labels_are_safe(run, froot):
     (d / "Chat with Rahul Sharma.txt").write_text("13/05/2024, 10:01 - Priya Mehta: Rahul, the Delhi fee is 40k now\n", encoding="utf-8")
     (d / "other notes.md").write_text("Priya Mehta said the Hyderabad centre refunded her fully.\n", encoding="utf-8")
     s = sources.ingest_inbox(run, ROOM)
-    assert s["records_new"] == 2 and s["senders_removed"] == 1
+    assert s["records_new"] == 2 and s["senders_removed"] == 2  # the sender, plus the contact named in the file name
     recs = {r["url"]: r for r in records.load_records(run, ROOM)}
     assert f"inbox://closed_groups/{ROOM}/Chat_with_[name].txt#1" in recs
     md = recs[f"inbox://closed_groups/{ROOM}/other_notes.md#p1"]

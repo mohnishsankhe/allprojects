@@ -107,19 +107,26 @@ def _events(run):
 
 
 # --------------------------------------------------------------------------- config/sources.md enforcement
-def test_real_sources_md_refuses_every_full_text_adapter(run):
+def test_real_sources_md_parses(run):
     info = sources.parse_sources_md()
     assert {r["adapter"] for r in info["rows"]} >= {"stackexchange", "hackernews", "reddit", "youtube", "apple_reviews", "web", "discourse"}
-    assert len(info["decisions"]) == 5 and info["decisions"][1]["source"] == "Reddit Data API"
+    assert all(r["status"] and common.is_date(r["checked"]) for r in info["rows"])
+    assert len(info["decisions"]) >= 1 and all(common.is_date(d["date"]) and d["status"] for d in info["decisions"])
+    assert sources.api_source_check("apple")["source"] == "Apple App Store reviews feed"  # `apple` finds the apple_reviews row
+
+
+def test_unallowed_statuses_are_refused_and_logged(froot, run):
+    write_sources_md(froot, statuses={"stackexchange": "blocked-by-network", "reddit": "skip", "youtube": "unchecked"})
     se = sources.api_source_check("stackexchange")
     assert se["ok"] is False and se["status"] == "blocked-by-network" and "not a terms decision" in se["problem"]
     assert "funnel source-decision" in se["problem"]
-    assert sources.api_source_check("reddit")["status"] == "skip"
-    assert sources.api_source_check("apple")["source"] == "Apple App Store reviews feed"
+    assert sources.api_source_check("reddit")["ok"] is False and sources.api_source_check("reddit")["status"] == "skip"
+    assert sources.api_source_check("hackernews")["ok"] is True
     with pytest.raises(sources.SourceNotAllowed) as e:
         sources.ensure_allowed(run, "youtube")
-    assert e.value.code == 1 and "config/sources.md" in str(e.value)
-    assert any(ev["kind"] == "skip" and ev["source"] == "youtube" for ev in _events(run))
+    assert e.value.code == 1 and "config/sources.md" in str(e.value) and "`unchecked`" in str(e.value)
+    assert any(ev["kind"] == "skip" and ev["source"] == "youtube" and ev["domain"] == "www.googleapis.com" for ev in _events(run))
+    assert sources.api_source_check("nosuch")["ok"] is False and "no table row" in sources.api_source_check("nosuch")["problem"]
     d = sources.domain_decision_check("forum.example.org")
     assert d["ok"] is False and "no decision-log line for the domain forum.example.org" in d["problem"]
     with pytest.raises(sources.SourceNotAllowed):
@@ -148,7 +155,8 @@ def test_decisions_expire_after_90_days_and_latest_domain_line_wins(froot, run):
     assert sources.domain_decision_check("https://blog.test/page")["ok"] is True
 
 
-def test_cli_fetch_refused_by_sources_md_exits_1(run, cli):
+def test_cli_fetch_refused_by_sources_md_exits_1(froot, run, cli):
+    write_sources_md(froot, statuses={"stackexchange": "blocked-by-network"})
     r = cli("fetch", "stackexchange", "--room", ROOM, "--site", "academia", "--query", "GRE", "--run", RUN)
     assert r.returncode == 1, r.stderr
     assert "1. config/sources.md" in r.stderr and "Stack Exchange API" in r.stderr

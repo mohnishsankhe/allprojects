@@ -452,6 +452,10 @@ def _guarded(run, adapter: str, coll: _Collector | None = None, command: str = "
         _store_partial(coll, command)
         common.log_event(run, STAGE, command, "blocked", source=adapter, domain=e.domain, reason=str(e))
         raise
+    except common.Blocked as e:  # raised by an adapter itself, e.g. refused API credentials
+        _store_partial(coll, command)
+        common.log_event(run, STAGE, command, "blocked", source=adapter, domain=API_DOMAINS.get(adapter), reason=str(e))
+        raise
     except netfetch.RobotsDisallowed as e:
         _store_partial(coll, command)
         common.log_event(run, STAGE, command, "skip", source=adapter, domain=common.domain_of(e.url), reason=str(e))
@@ -878,8 +882,6 @@ def fetch_youtube(run, room: str, videos=(), search: str | None = None, videos_k
                 if older or not page_token:
                     break
         if ids and stats["refused"] and len(stats["refused"]) == len(ids):
-            common.log_event(run, STAGE, command, "blocked", source="youtube", domain=API_DOMAINS["youtube"],
-                             reason="every comment request was refused with HTTP 403")
             raise common.Blocked(f"{API_DOMAINS['youtube']} refused every comment request (HTTP 403): comments are "
                                  f"disabled on these videos, or the key in YOUTUBE_API_KEY or its quota was refused.")
     common.log_event(run, STAGE, command, "cost", room=room, source="youtube", api="youtube", units=stats["units"],
@@ -1326,6 +1328,15 @@ def _safe_label(rel_path: str, known_names) -> str:
     return re.sub(r"[^A-Za-z0-9._/\[\]-]+", "_", label)
 
 
+_CHAT_WITH_RE = re.compile(r"^(?:whatsapp\s+)?chat\s+with\s+(.+?)\s*$", re.IGNORECASE)
+
+
+def _names_from_filename(path: Path) -> set:
+    """WhatsApp names an export "WhatsApp Chat with <contact>": that contact is a known name too."""
+    m = _CHAT_WITH_RE.match(path.stem)
+    return {m.group(1).strip()} if m and len(m.group(1).strip()) >= 2 else set()
+
+
 def _parse_inbox_file(path: Path) -> dict | None:
     ext = path.suffix.lower()
     try:
@@ -1367,6 +1378,7 @@ def ingest_inbox(run, room: str, customers: bool = False, round_no: int = 1, com
             summary["files_skipped"] += 1
             continue
         known |= {s for s in result["senders"] if isinstance(s, str) and len(s.strip()) >= 2}
+        known |= _names_from_filename(p)
         parsed.append((p, result))
     if not parsed:
         reason = (f"no chat exports in {common.rel(folder)}/ (WhatsApp .txt, Telegram result.json, .csv with "
