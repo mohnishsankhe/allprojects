@@ -238,8 +238,11 @@ def process_rooms(run, rooms: list, rules=None) -> dict:
     errors: list = []
     warnings: list = []
 
-    for i, room in enumerate(rooms, 1):
-        where = f"{room.get('_part') or '01_rooms.json'}: room {i} ({room.get('slug', '?')})"
+    index_in_part: dict = {}
+    for room in rooms:
+        part = room.get("_part") or "01_rooms.json"
+        index_in_part[part] = index_in_part.get(part, 0) + 1
+        where = f"{part}: room {index_in_part[part]} ({room.get('slug', '?')})"
         errors.extend(validate_room(room, where, venture_ids, lenses))
         part = room.get("_part") or ""
         stem = Path(part).stem
