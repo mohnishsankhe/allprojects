@@ -1,6 +1,6 @@
 ---
 name: funnel-audit
-description: Opportunity Funnel audit intake. Reads the outside auditor's findings from inbox/audit_results/, adds a "Case against" section to each survivor in SHORTLIST.md, and re-ranks if the evidence warrants it, explaining each rank change in one line.
+description: Opportunity Funnel audit intake. Reads the outside auditor's findings from inbox/audit_results/, updates the "Case against" section of each survivor in SHORTLIST.md, and re-ranks if the evidence warrants it, explaining each rank change in one line.
 argument-hint: "[--run YYYY-MM-DD] (default: the latest run with a shortlist)"
 disable-model-invocation: true
 ---

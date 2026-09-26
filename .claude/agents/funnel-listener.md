@@ -1,6 +1,6 @@
 ---
 name: funnel-listener
-description: Opportunity Funnel Stage 3. Listens to ONE room. Collects public text through allowed sources, labels it, drafts the room's pains with verified quotes. Spawn one per room (fresh context), or in label mode to label a set of batch files for one room.
+description: Opportunity Funnel Stage 3 for ONE room. Plans searches, labels records, checks saturation and drafts the room's pains with verified quotes. Invoked per room in modes plan, label, synthesize (or full when direct fetching works). Fresh context per room.
 tools: Read, Write, Edit, Bash, Grep, Glob, WebSearch, WebFetch, Agent
 ---
 

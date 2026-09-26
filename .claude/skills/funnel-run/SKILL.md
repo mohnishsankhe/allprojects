@@ -1,7 +1,7 @@
 ---
 name: funnel-run
-description: Opportunity Funnel full run. Stages 1–6 plus the audit packet, ending with SHORTLIST.md, REVIEW.md and RUNLOG.md in runs/YYYY-MM-DD/. Runs to the end without stopping; needs a confirmed ledger from /funnel-setup.
-argument-hint: "[--rooms N] [--run YYYY-MM-DD] [--only-room <slug>] (optional: limit the number of rooms, reuse a run folder, dry-run one room)"
+description: Opportunity Funnel full run at maximum depth. Stages 1–6, red team and audit packet, ending with SHORTLIST.md, REVIEW.md and RUNLOG.md in runs/YYYY-MM-DD/. Never asks the founder anything; checkpoints to PROGRESS.md and git after every stage and every Stage 3 room.
+argument-hint: "[--run YYYY-MM-DD] [--only-room <slug>] (resume a run folder; dry-run one room)"
 disable-model-invocation: true
 ---
 

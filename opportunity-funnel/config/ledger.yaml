@@ -1,0 +1,95 @@
+# Machine-readable transcription of config/ledger.md. ledger.md wins if they ever differ.
+# Every `text` field must appear word for word in ledger.md (checked by `funnel ledger-check`).
+# Where the founder's wording needed a number or a wall ID, the mapping is stated in `note`.
+
+source: config/ledger.md
+transcribed: 2026-09-26
+currency: INR
+
+reach:
+  warm:
+    - id: w1
+      text: "Indian engineers preparing for the GRE to study abroad: through my GRE product and its users, and a test-prep company I'm discussing a partnership with."
+      covers: "Indian engineers and students preparing for the GRE to study abroad"
+      assumed: true
+    - id: w2
+      text: "Investment banking, private equity and finance professionals: through current and past colleagues."
+      covers: "investment banking, private equity and finance professionals"
+    - id: w3
+      text: "Industrial and logistics real estate (warehouse developers, investors, advisers): through my private-equity network."
+      covers: "warehouse and logistics real estate developers, investors and advisers"
+    - id: w4
+      text: "Energy and infrastructure companies in Southeast Asia (power, renewables, chemicals, oil & gas): through my work."
+      covers: "energy and infrastructure companies in Southeast Asia"
+      note: "Overlaps the founder's job: the employer-rules exclusion must be checked before pursuing."
+    - id: w5
+      text: "Businesses with large call volumes (call centres, lenders' and insurers' tele-sales, hospitals, ed-tech, D2C brands, restaurants, salons) in India and the Gulf: through my AI company TinyAI."
+      covers: "businesses with large call volumes in India and the Gulf"
+      assumed: true
+      note: "Mostly cold unless they are existing clients. Treated as warm only for existing TinyAI clients."
+  search:
+    - id: s1
+      text: "Any room, anywhere in the world, that already buys this kind of product through search, app stores or public marketplaces."
+      note: "Search reach suits self-serve products. Products that need trust need warm reach."
+
+depth:
+  - {id: d1, text: "GRE quant and verbal (strong)", domain: "GRE quant and verbal", strength: strong}
+  - {id: d2, text: "Corporate finance, valuation, deal documents and transactions (strong)", domain: "corporate finance, valuation, deal documents and transactions", strength: strong}
+  - {id: d3, text: "Industrial and logistics real estate (strong)", domain: "industrial and logistics real estate", strength: strong}
+  - {id: d4, text: "Energy sector: power, renewables, chemicals, oil & gas (strong)", domain: "energy: power, renewables, chemicals, oil and gas", strength: strong}
+  - {id: d5, text: "Building AI products for businesses: voice agents, WhatsApp agents, call auditing, AI search visibility (strong)", domain: "AI products for businesses: voice agents, WhatsApp agents, call auditing, AI search visibility", strength: strong}
+  - {id: d6, text: "Consulting case interviews (moderate)", domain: "consulting case interviews", strength: moderate}
+  - {id: d7, text: "Options trading (moderate)", domain: "options trading", strength: moderate}
+  - {id: d8, text: "Fragrance (moderate, as an enthusiast)", domain: "fragrance", strength: moderate}
+
+supply:
+  can_be:
+    - {id: c1, text: "Accountability: coaching and cohorts", wall: W20, rooms: [any]}
+    - {id: c2, text: "Judgment: in the domains above where my depth is strong", wall: W19, rooms: [any], depth_strength_required: strong,
+       note: "Only for rooms whose Stage 2 depth match is a strong domain (d1-d5)."}
+    - {id: c3, text: "Risk transfer: small conditional guarantees only", wall: W17, rooms: [any],
+       note: "Small only: total guarantee exposure must fit the reserve."}
+    - {id: c4, text: "Peers: running cohorts", wall: W25, rooms: [any]}
+  can_rent:
+    - {id: r1, text: "License (accountants, lawyers, registered advisers, doctors)", wall: W18, via: "accountants, lawyers, registered advisers, doctors"}
+    - {id: r2, text: "Source (creators or respected brands)", wall: W29, via: "creators or respected brands"}
+    - {id: r3, text: "Atoms (vendors)", wall: W22, via: "vendors"}
+  cannot:
+    text: "Cannot supply: large-capital risk transfer, Ritual, Advocacy that needs a licence."
+    walls: [W27]
+    also: ["large-capital risk transfer (W17 beyond the reserve)", "advocacy that needs a licence (W21)"]
+  not_mentioned:
+    walls: [W21, W23, W24, W26, W28]
+    note: "The ledger does not say the founder can be these. Treated as not supplied (conservative). Listed in REVIEW.md."
+
+constraints:
+  hours_per_week: {text: "Full-time investment banking job. Roughly 8–12 hours a week for a new opportunity, shared with my existing ventures.", low: 8, high: 12, use: 8, assumed: true,
+                   note: "Capacity checks use the low end, 8 hours (conservative)."}
+  runway: {text: "No runway pressure: I have a salary.", runway_months: null}
+  guarantee_reserve: {text: "Cash I could hold as a reserve for guarantees: ₹1,00,000.", value: 100000, assumed: true}
+  hour_value: {text: "Value of one of my hours: ₹1,500.", value: 1500, assumed: true}
+
+geography:
+  text: "None. Search rooms worldwide. Geography must come out of reach and the numbers, never go in as a preference."
+  filter: none
+  compare_currency: USD
+
+practical_limits:
+  languages: {text: "I can deliver in English and Hindi.", values: [en, hi], assumed: true}
+  payments: {text: "I can accept international payments through PayPal or a merchant-of-record service such as Paddle.", international: true, assumed: true}
+  live_delivery: {text: "Anything I deliver live must fit my evenings and weekends, India time.", window: "evenings and weekends, IST (UTC+5:30)", assumed: true}
+
+exclusions:
+  - {id: x1, text: "Anything that needs a licence I don't hold in the customer's country: medical, legal, regulated investment advice."}
+  - {id: x2, text: "Anything that uses my employer's clients, deals or confidential information.", assumed: true}
+
+existing_ventures:
+  - {id: v1, text: "GRE business: the GRE product and app"}
+  - {id: v2, text: "Proper Noun: a women's beauty brand starting with perfume"}
+  - {id: v3, text: "A product that applies non-default frames to painful life problems"}
+  - {id: v4, text: "TinyAI: AI products for businesses"}
+  - {id: v5, text: "AI Insight Generator: cross-dataset insight packages", assumed: true}
+
+year_four:
+  text: "Ambitious students and young professionals; founders and business owners; finance professionals."
+  assumed: true

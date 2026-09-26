@@ -28,6 +28,18 @@ Ranking order when urgency is compared: deadline or rule > acute pain > fear > e
 - **Trade:** machine walls only. Allowed only if the build takes 2 weeks or less, payment is upfront, there are no subscriptions, and an exit date is written from day one. (It will melt, so take the cash and leave on schedule.)
 - **Partner:** needs a human wall the founder can't supply. Rent it from a partner for a share of revenue, or kill it.
 
+**Lenses (Stage 1).** Six ways of slicing people into rooms, so the list isn't one-dimensional: `life_stage`, `profession`, `transition` (an event: exams, moves, new parenthood, first job, illness in the family), `obligation` (a deadline or rule: compliance, applications, renewals), `business_type` (small and mid-sized businesses, by industry) and `identity_community` (people who gather around who they are or what they love).
+
+**Reach kinds (Stage 2).**
+- **Warm reach:** the room matches one of the founder's warm paths in the ledger. Needed for products that need trust.
+- **Search reach:** the room already buys this kind of product through search, app stores or public marketplaces, anywhere in the world. Suits self-serve products.
+
+**Saturation (Stage 3).** We keep collecting until more data stops changing the answer: the last 300 new records add no new pain and change no pain's rank.
+
+**Voice (Stage 3 labels).** Who wrote a record: `member` (someone in the room), `seller` (someone selling a fix), `media` (news, blogs about the room), `other`. Pain counts use member records only. Seller records are evidence that money changes hands.
+
+**US dollars per hour.** What one hour of the founder's time earns in an opportunity: cash left per customer after cash costs, divided by the founder's hours per customer (delivery plus winning the sale). Compared against the ledger's value of an hour.
+
 **Other terms used in outputs**
 - **Record:** one stored piece of public text (a post, comment, review, page section or chat message), anonymized, with an ID, URL and date.
 - **record_id:** a stable fingerprint (hash) of a record's URL and text. The same text at the same URL always gets the same ID.

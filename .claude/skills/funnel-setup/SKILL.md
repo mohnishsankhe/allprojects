@@ -1,6 +1,6 @@
 ---
 name: funnel-setup
-description: Opportunity Funnel Stage 0. Interviews the founder one question at a time and writes config/ledger.md (reach, depth, supply, constraints, geography, exclusions, year-four test). Run once, then refresh quarterly. The only stage that waits for the founder.
+description: Opportunity Funnel Stage 0. Checks config/ledger.md without interviewing the founder, refreshes its machine-readable transcription config/ledger.yaml, and lists every [assumed] item, default and gap for REVIEW.md. Never asks the founder anything.
 disable-model-invocation: true
 ---
 

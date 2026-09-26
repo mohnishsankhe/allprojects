@@ -1,6 +1,6 @@
 ---
 name: funnel-loop
-description: Opportunity Funnel loop mode. Reruns Stages 3–6 inside ONE room already kept by an earlier run, adding the founder's customer messages from inbox/customers/<room>/ as Listen input. Use once you have customers in a room.
+description: Opportunity Funnel loop mode. Reruns Stages 3–6 (plus red team) inside ONE room already kept by an earlier run, adding the founder's customer messages from inbox/customers/<room>/ as Listen input. Use once you have customers in a room.
 argument-hint: "<room-slug>"
 arguments: [room]
 disable-model-invocation: true

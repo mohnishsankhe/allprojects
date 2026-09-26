@@ -1,6 +1,6 @@
 ---
 name: funnel-loop
-description: Opportunity Funnel loop mode. Reruns Stages 3–6 inside ONE room already kept by an earlier run, adding the founder's customer messages from inbox/customers/<room>/ as Listen input. Use once you have customers in a room.
+description: Opportunity Funnel loop mode. Reruns Stages 3–6 (plus red team) inside ONE room already kept by an earlier run, adding the founder's customer messages from inbox/customers/<room>/ as Listen input. Use once you have customers in a room.
 argument-hint: "<room-slug>"
 arguments: [room]
 disable-model-invocation: true
@@ -8,16 +8,13 @@ disable-model-invocation: true
 
 # /funnel-loop <room>: Stages 3–6 inside one room
 
-Room slug: `$ARGUMENTS`. If it is empty, run `funnel rooms-known` to list rooms from earlier runs, and stop with that list.
+Room slug: `$ARGUMENTS`. If empty, run `funnel rooms-known`, show the list and stop.
+`funnel` means `python3 <repo>/opportunity-funnel/pipeline/funnel.py --run RUN`. Stay inside `opportunity-funnel/`. Never ask the founder anything; follow the standing rules of `/funnel-run` (conservative choices logged, strongest model, checkpoints, resume from `PROGRESS.md`).
 
-`funnel` means `python3 <repo>/opportunity-funnel/pipeline/funnel.py`. Stay inside `opportunity-funnel/`. Do not stop to ask the founder anything.
-
-1. `funnel loop-init --room <slug>`. It creates `runs/YYYY-MM-DD-loop-<slug>/`. It copies this room's entries from the latest run that kept it (`01_rooms.json`, `02_mask.json`), snapshots `config/` and checks the ledger. It prints the new `RUN` path. Use it for every command below. If the room was never kept, or is in the graveyard with no new evidence, it stops and says why.
-2. Spawn one **`funnel-listener`** agent, mode `full`, `customers: yes`, with `RUN` and the slug. It also runs `funnel ingest-inbox --room <slug> --customers`, which anonymizes `inbox/customers/<slug>/` before anything reads it. Customer messages count as Listen input like any other source (`source` = `inbox:customers`).
-3. `funnel pains`.
-4. One **`funnel-walker`** per kept pain, mode `walk`, in parallel. Then `funnel walks` and `funnel pairs`.
-5. One **`funnel-walker`** per pair survivor, mode `numbers`, in parallel. Then `funnel price-check --stage 6` and `funnel numbers`.
-6. `funnel audit-packet`, `funnel shortlist`, `funnel review`, `funnel runlog`.
-7. `funnel compare --with latest`. It writes a short "what changed since the last run in this room" section into `RUNLOG.md`: pains added or dropped, count changes, and survivor rank changes.
-8. Commit only this folder, with the message from `funnel commit-message`.
-9. Tell the founder in five lines: records in (customer messages among them), pains found, survivors, the top hypothesis, and the biggest change since the last run.
+1. `funnel loop-init --room <slug>` → prints the new `RUN` (`runs/YYYY-MM-DD-loop-<slug>/`) with the room's Stage 1–2 entries copied from the latest run that kept it. Copy that run's `fx_rates.json` if it is less than 7 days old; otherwise refresh the rates.
+2. `funnel ingest-inbox --room <slug> --customers` (anonymizes `inbox/customers/<slug>/` before anything reads it; source `inbox:customers`). Also `funnel ingest-inbox --room <slug>` for closed-group exports.
+3. Stage 3 exactly as in `/funnel-run` for this one room (plan → harvest → label rounds until saturated, then synthesize), then `funnel pains`.
+4. Stages 4–6, red team and outputs exactly as in `/funnel-run`.
+5. `funnel compare --with latest` adds "What changed since the last run in this room" to `RUNLOG.md`.
+6. Commit with `funnel commit-message`, push.
+7. Tell the founder in five lines: records in (customer messages among them), pains found, survivors, the top hypothesis, the biggest change since the last run.

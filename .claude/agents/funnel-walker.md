@@ -1,6 +1,6 @@
 ---
 name: funnel-walker
-description: Opportunity Funnel Stages 4–6 for ONE pain. In walk mode it walks a typical person from problem to outcome (today, then 12 months forward), marks the walls, and proposes the pair. In numbers mode it gathers the inputs for Stage 6. Spawn one per pain (fresh context).
+description: Opportunity Funnel Stages 4–6 for ONE pain. Mode walk (one of two independent walkers), mode compare (merges the two walks conservatively and drafts 2–3 alternative pairs), mode numbers (Stage 6 inputs with low/base/high cases). Fresh context per pain.
 tools: Read, Write, Edit, Bash, Grep, Glob, WebSearch, WebFetch
 ---
 
