@@ -1,0 +1,63 @@
+# Kill rules. These are defaults; the founder may edit them.
+# The scripts in pipeline/ read this file. Nothing here is hard-coded elsewhere.
+# Values marked "(spec)" come from the founder's brief. Values marked "(default)"
+# were added to make a rule mechanical; change them freely.
+
+stage1:
+  rooms_min: 40                 # (spec) generate 40–60 rooms
+  rooms_max: 60                 # (spec)
+  lenses: [life_stage, profession, transition, obligation]   # (spec) four lenses
+  min_rooms_per_lens: 6         # (default) so no lens is token-sized
+  min_ladder_steps_listed: 1    # (default) every room lists at least one paid problem
+
+stage2:
+  max_rooms: 10                 # (spec) keep at most 10 rooms
+  warn_below_rooms: 5           # (spec) fewer than 5 survivors -> say so in REVIEW.md
+  min_ladder_steps: 3           # (spec) at least 3 paid problems in sequence
+  require_measured_spend: true  # (spec) at least one concrete price, [measured] with a URL
+  # Tie-break when more than max_rooms survive: (spec) longest ladder, then strongest spend
+  # evidence. Spend strength = number of price points the script found on their pages.
+  rank_by: [ladder_steps, spend_points_verified, spend_points]
+
+stage3:
+  lookback_months: 24           # (spec) records from the last 24 months
+  max_records_per_room: 1000    # (spec) "up to about 1,000"
+  include_undated_records: false  # (default) a record with no date can't pass a date filter
+  # Drop test A (spec): money_mentions = 0 AND failed_spend_mentions = 0 AND urgency = none
+  drop_if_no_money_no_failed_spend_no_urgency: true
+  min_verified_quotes: 2        # (spec) drop test B: fewer than 2 verified quotes
+  quotes_per_pain_min: 3        # (spec) 3–5 verbatim quotes
+  quotes_per_pain_max: 5        # (spec)
+  quote_min_words: 5            # (default) a quote shorter than this proves nothing
+  thin_below_records: 15        # (spec) fewer supporting records -> tag [thin], don't kill
+  max_pains_total: 15           # (spec) across all rooms
+  rank_by: [failed_spend_mentions, money_mentions, urgency, record_count]   # (spec)
+  urgency_order: [deadline_or_rule, acute_pain, fear, expiring_gain, none]  # (spec) best first
+
+stage4:
+  # (spec) kill only if their own AI already gets them to the OUTCOME today, not just the answer.
+  kill_only_if_outcome_reached_today: true
+  unsure_counts_as: melts       # (spec)
+  # (spec) if every wall melts within 12 months, the pain moves to the trade lane.
+
+stage5:
+  min_entry_walls: 3            # (spec) 3 or more machine walls
+  # (default) "next to each other": the entry walls must sit inside a run of steps no longer
+  # than (number of entry walls + slack). The hold wall must sit within `slack` steps of that run.
+  adjacency_slack_steps: 1
+  trade:                        # (spec) conditions for a clean trade
+    max_build_weeks: 2
+    payment_upfront: true
+    subscriptions_allowed: false
+    exit_date_required: true
+
+stage6:
+  max_survivors: 3              # (spec)
+  # (default) "numbers work inside the ledger" means ALL of these hold:
+  min_margin_after_my_hours: 0.0   # price minus delivery cost (my hours x my hourly value + cash costs) must be > this
+  cash30_must_cover_acquisition: low   # first-30-day cash per customer >= acquisition cost (low end). Use "high" to be strict.
+  max_days_to_first_payment: 60     # also capped by the ledger's runway
+  first_cohort_customers: 5         # the first test cohort must fit in the ledger's hours per week
+  guarantee_exposure_within_reserve: true   # refunds owed if every first-cohort customer claims must fit the reserve
+  rank_by: [opens_ladder, days_to_first_payment, evidence_strength]   # (spec)
+  opens_ladder_max_position: 1      # (default) "opens the ladder" = this pain is step 1 of the room's ladder

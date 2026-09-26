@@ -1,0 +1,10 @@
+# Secrets and other people's raw text never reach GitHub (rule 11).
+.env
+inbox/
+runs/*/03_listen/raw/
+cache/
+
+# Python and test clutter
+__pycache__/
+*.pyc
+.pytest_cache/
