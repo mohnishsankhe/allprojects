@@ -1,0 +1,407 @@
+{
+  "rooms": [
+    {
+      "slug": "ib-analysts-years-1-3",
+      "name": "Investment banking analysts in their first three years",
+      "lens": "profession",
+      "origin": "generated",
+      "who": "Junior bankers (analyst 1 to analyst 3) at bulge-bracket, elite boutique and mid-market banks. They work 70-85 hour weeks, learn modelling on the job, and start planning their exit to private equity, a hedge fund or an MBA within 12-18 months of starting.",
+      "where": [
+        {"name": "Wall Street Oasis, Investment Banking forum", "url": "https://www.wallstreetoasis.com/forum/investment-banking"},
+        {"name": "Wall Street Oasis thread: How to survive IB analyst years", "url": "https://www.wallstreetoasis.com/forum/investment-banking/how-to-survive-ib-analyst-years"},
+        {"name": "Mergers & Inquisitions (careers blog with comment threads)", "url": "https://mergersandinquisitions.com/investment-banking-career-path/"}
+      ],
+      "who_pays": "The analyst pays personally for modelling courses, interview prep, GMAT prep and admissions consulting. Base pay of $100K-$125K at large banks makes $500-$5,000 purchases routine.",
+      "size": {"value": 15000, "unit": "analysts in years 1-3 worldwide", "tag": "estimate", "reasoning": "A Wall Street Oasis thread (https://www.wallstreetoasis.com/forum/investment-banking/how-many-investment-banking-analyst-are-there-in-us) puts US first-year IB analysts at roughly 1,500 a year including boutiques. Three analyst classes give about 4,500 in the US. London, Hong Kong, Singapore, Mumbai, Dubai and continental Europe together are assumed to be two to three times the US, giving 12,000-18,000. Thin: no global count was found."},
+      "ladder": [
+        {"step": 1, "problem": "Get up to speed on financial modelling before or during year 1", "price_text": "$499", "url": "https://www.wallstreetoasis.com/forum/investment-banking/wall-street-prep-premium-package-worth-it", "seen_via": "search"},
+        {"step": 2, "problem": "Prepare for private equity on-cycle recruiting (LBO modelling tests, headhunter interviews) in year 1-2", "price_text": null, "url": "https://www.peakframeworks.com/private-equity-recruiting-course", "seen_via": "search"},
+        {"step": 3, "problem": "Take the GMAT for a top MBA in year 2-3", "price_text": "US $275", "url": "https://www.gmatninja.com/blog/what-is-the-gmat/how-much-does-the-gmat-cost/", "seen_via": "search"},
+        {"step": 4, "problem": "Hire an MBA admissions consultant for a multi-school application", "price_text": "$12,250", "url": "https://vantagepointmba.com/pricing/mba-admissions-consulting-prices/", "seen_via": "search"}
+      ],
+      "geography": ["GLOBAL"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "A tight, self-identifying group with its own forum, its own slang and a predictable 2-3 year path of paid problems. The founder is one of them, so the warm path (finance colleagues) is direct and the domain depth (corporate finance, valuation, deal documents) is strong. The employer-rules exclusion needs checking before any product touches live deals.",
+      "confidence": "high"
+    },
+    {
+      "slug": "pe-associate-candidates-on-cycle",
+      "name": "Bankers and consultants recruiting for private equity associate roles",
+      "lens": "profession",
+      "origin": "generated",
+      "who": "First- and second-year IB analysts and MBB consultants going through on-cycle or off-cycle private equity recruiting. They face headhunter screens, paper LBOs, 90-minute modelling tests and case studies, often with 72 hours from first call to offer.",
+      "where": [
+        {"name": "Wall Street Oasis, Private Equity forum", "url": "https://www.wallstreetoasis.com/forum/private-equity"},
+        {"name": "Wall Street Oasis, Private Equity recruiting section", "url": "https://www.wallstreetoasis.com/forum/private-equity/recruiting"},
+        {"name": "Private Equity Insider (LinkedIn community, 107,761 followers)", "url": "https://www.linkedin.com/company/peinsider"}
+      ],
+      "who_pays": "The candidate pays personally for recruiting courses, modelling test packs and mock interviews. Forum posts show analysts splitting course costs with peers.",
+      "size": {"value": 4000, "unit": "active PE associate candidates per recruiting cycle worldwide", "tag": "estimate", "reasoning": "Most US first-year analysts (about 1,500 a year per the WSO thread cited in the IB room) attempt PE recruiting, plus a share of second-years, consultants and non-US bankers. 3,000-5,000 candidates per cycle is a conservative guess. Thin: no published count."},
+      "ladder": [
+        {"step": 1, "problem": "Learn LBO modelling and pass timed modelling tests", "price_text": "$499", "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/", "seen_via": "search"},
+        {"step": 2, "problem": "Buy a dedicated PE recruiting course (headhunter prep, case studies, paper LBOs)", "price_text": null, "url": "https://www.peakframeworks.com/private-equity-recruiting-course", "seen_via": "search"},
+        {"step": 3, "problem": "Mock interviews and case-study coaching before on-cycle launches", "price_text": null, "url": "https://mergersandinquisitions.com/on-cycle-private-equity-recruiting/", "seen_via": "search"},
+        {"step": 4, "problem": "After landing the role: MBA applications or VP-track skills (fund modelling, portfolio ops)", "price_text": "$5,800", "url": "https://www.admitadvantage.com/mba/pricing/", "seen_via": "search"}
+      ],
+      "geography": ["GLOBAL"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "This is a deadline-driven sub-room of junior finance with clear failed spend (people buy several prep products) and an annual recruiting calendar. Warm path through colleagues and strong depth in valuation and LBO modelling. Peak Frameworks pricing could not be read from a search result, so step 2 has no price yet.",
+      "confidence": "high"
+    },
+    {
+      "slug": "sell-side-equity-research-associates",
+      "name": "Sell-side equity research associates and CFA candidates",
+      "lens": "profession",
+      "origin": "generated",
+      "who": "Research associates at brokers and banks who build models, write initiation reports and support a senior analyst. Most are sitting CFA levels 1-3 while working, and plan a move to the buy side or into the industry they cover after 3-4 years.",
+      "where": [
+        {"name": "Wall Street Oasis, Equity Research forum", "url": "https://www.wallstreetoasis.com/forum/equity-research"},
+        {"name": "AnalystForum, CFA Level I board", "url": "https://www.analystforum.com/c/cfa-exam-level-i/5"},
+        {"name": "300Hours CFA Level 1 forum", "url": "https://300hours.com/f/cfa/level-1/"}
+      ],
+      "who_pays": "The associate pays for CFA registration and prep (some employers reimburse on passing), for modelling courses and later for buy-side interview prep.",
+      "size": {"value": 26752, "unit": "CFA Level I candidates who sat the November 2025 window (a proxy for the flow into this room)", "tag": "measured", "url": "https://www.cfainstitute.org/about/press-room/2026/cfa-program-results-level-i-november-2025", "reasoning": "This counts one exam window of all Level I candidates, not only research associates. The associate population itself is an estimate: perhaps 8,000-12,000 sell-side associates worldwide. [thin]"},
+      "ladder": [
+        {"step": 1, "problem": "Register for CFA Level I", "price_text": "USD 1,140", "url": "https://300hours.com/cfa-exam-cost/", "seen_via": "search"},
+        {"step": 2, "problem": "Buy a structured CFA prep package", "price_text": "$1,499", "url": "https://www.schweser.com/cfa/level-1/study-packages", "seen_via": "search"},
+        {"step": 3, "problem": "Build full three-statement and DCF models to own coverage names", "price_text": "$499", "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/", "seen_via": "search"},
+        {"step": 4, "problem": "Prepare for buy-side (hedge fund or asset manager) interviews and stock pitches after 3-4 years", "price_text": null, "url": "https://www.wallstreetoasis.com/forum/equity-research/advice-for-equity-research-associates-part-i", "seen_via": "search"}
+      ],
+      "geography": ["GLOBAL"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "A distinct profession with its own forum threads, an exam calendar that forces spending, and a 3-4 year exit ladder. Depth in valuation is strong and the warm path through finance colleagues applies. CFA prep is crowded, so the interesting steps are 3 and 4.",
+      "confidence": "high"
+    },
+    {
+      "slug": "fpa-analysts-corporate",
+      "name": "FP&A and corporate finance analysts inside companies",
+      "lens": "profession",
+      "origin": "generated",
+      "who": "Financial planning and analysis (budgeting and forecasting) analysts and senior analysts at operating companies. They live in Excel, fight with planning tools, and want to move to manager or into strategic finance. Many hold no finance certification and feel this holds them back.",
+      "where": [
+        {"name": "FP&A Trends Group (runs the FP&A Club LinkedIn group, 56K+ members)", "url": "https://uk.linkedin.com/company/fp-a-trends-group"},
+        {"name": "Off the Ledger Slack community (6,000+ finance and accounting members, #fp-and-a channel)", "url": "https://www.paylocity.com/products/finance/off-the-ledger/"},
+        {"name": "Finance Alliance Slack community", "url": "https://www.financealliance.io/community/"}
+      ],
+      "who_pays": "The analyst pays personally for certifications and courses; employers sometimes reimburse. Certification bodies and course sellers publish prices in the $500-$1,500 range.",
+      "size": {"value": 56000, "unit": "members of the FP&A Club LinkedIn group", "tag": "measured", "url": "https://uk.linkedin.com/company/fp-a-trends-group", "reasoning": "The 56K figure was shown in a search result for this page. The total FP&A analyst population is far larger; this is the findable gathered part."},
+      "ladder": [
+        {"step": 1, "problem": "Get a modelling credential to move from analyst to senior analyst", "price_text": "$497", "url": "https://corporatefinanceinstitute.com/pricing/", "seen_via": "search"},
+        {"step": 2, "problem": "Pass an advanced modelling exam", "price_text": "$695", "url": "https://fminstitute.com/afm/", "seen_via": "search"},
+        {"step": 3, "problem": "Earn the FPAC certification to qualify for manager roles", "price_text": "$1,025", "url": "https://fpacert.financialprofessionals.org/about-exam/deadlines", "seen_via": "search"},
+        {"step": 4, "problem": "Learn a planning tool or BI stack (Power BI, Anaplan) as the team modernises", "price_text": null, "url": "https://www.thefpandaguy.com/fmi-advanced-financial-modeler", "seen_via": "search"}
+      ],
+      "geography": ["GLOBAL"],
+      "venture_overlap": ["v5"],
+      "duplicate_of": null,
+      "reasoning": "A large, self-organised profession with paid certifications in sequence. The founder's corporate finance depth covers it. Reach is search-based rather than warm, since FP&A analysts sit outside the banking network. v5 (insight generator) overlaps with their reporting pain.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "project-finance-analysts-energy-infra",
+      "name": "Project finance analysts and modellers in energy and infrastructure",
+      "lens": "profession",
+      "origin": "generated",
+      "who": "Analysts and associates at banks, developers, infrastructure funds and Big 4 advisory teams who build project finance models for power plants, solar and wind farms, roads and ports. They need to master debt sculpting, covenants and sensitivity cases, and want to move to an infrastructure fund or developer.",
+      "where": [
+        {"name": "Wall Street Oasis, Infrastructure Finance forum", "url": "https://www.wallstreetoasis.com/forums/infrastructure-finance"},
+        {"name": "Wall Street Oasis thread: Infrastructure / Project Finance career path", "url": "https://www.wallstreetoasis.com/forum/other/infrastructure-project-finance-career-path"},
+        {"name": "IPFA, International Project Finance Association (LinkedIn, 15,508 followers)", "url": "https://uk.linkedin.com/company/ipfa-global"}
+      ],
+      "who_pays": "The analyst pays personally for modelling courses when the employer will not; employers pay for team training. Course sellers publish prices of $800-$3,000.",
+      "size": {"value": 15000, "unit": "project finance analysts and associates worldwide", "tag": "estimate", "reasoning": "IPFA's LinkedIn following of 15,508 (seen in a search result for https://uk.linkedin.com/company/ipfa-global) mixes seniors and juniors. Roughly 10,000-20,000 juniors worldwide is a guess based on the number of banks, funds, developers and advisory teams with project finance desks. [thin]"},
+      "ladder": [
+        {"step": 1, "problem": "Learn project finance modelling from scratch", "price_text": "USD$800", "url": "https://pivotal180.com/course-type/project-finance-modeling/", "seen_via": "search"},
+        {"step": 2, "problem": "Take a best-practice project finance modelling class (often employer-paid)", "price_text": null, "url": "https://financialmodelling.mazars.com/course-schedule/best-practice-project-finance-modelling/", "seen_via": "search"},
+        {"step": 3, "problem": "Get a modelling credential to move to a fund or developer", "price_text": "$695", "url": "https://fminstitute.com/afm/", "seen_via": "search"},
+        {"step": 4, "problem": "Renewables-specific modelling (PPAs, curtailment, battery storage) as the deal mix shifts", "price_text": null, "url": "https://groups.gsb.columbia.edu/web/rsvp_boot?id=124152", "seen_via": "search"}
+      ],
+      "geography": ["GLOBAL"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "This room sits exactly where two of the founder's strong depths meet: energy sector and deal modelling. Warm paths exist through both finance colleagues and Southeast Asian energy companies. The room is smaller than general IB but the ladder is specific and paid.",
+      "confidence": "high"
+    },
+    {
+      "slug": "cre-analysts-underwriting",
+      "name": "Commercial real estate acquisitions and underwriting analysts",
+      "lens": "profession",
+      "origin": "generated",
+      "who": "Analysts and associates at real estate private equity funds, developers, REITs and brokerages who underwrite deals in Excel and ARGUS. They pay for modelling courses, ARGUS certification and later the CCIM designation to move up or move to the buy side.",
+      "where": [
+        {"name": "Wall Street Oasis, Real Estate forum", "url": "https://www.wallstreetoasis.com/forum/real-estate"},
+        {"name": "Adventures in CRE, Accelerator Q&A forum", "url": "https://www.adventuresincre.com/acre-qa-forum-financial-modeling/"},
+        {"name": "BiggerPockets commercial real estate forum (example thread on CoStar cost)", "url": "https://www.biggerpockets.com/forums/32/topics/1097759-costar-cost-any-alternatives"}
+      ],
+      "who_pays": "The analyst pays personally for courses and certifications; some employers reimburse ARGUS training. Prices seen range from $570 to $11,810.",
+      "size": {"value": 25000, "unit": "CRE acquisitions and underwriting analysts worldwide", "tag": "estimate", "reasoning": "The WSO real estate forum shows 242 pages of threads (seen in the search result for https://www.wallstreetoasis.com/forum/real-estate?page=1). The US alone has thousands of funds, developers, REITs and brokerage analyst desks; 20,000-30,000 juniors worldwide is a rough guess. [thin]"},
+      "ladder": [
+        {"step": 1, "problem": "Learn real estate financial modelling to get or keep an analyst seat", "price_text": "$4,800", "url": "https://www.adventuresincre.com/pricing/", "seen_via": "search"},
+        {"step": 2, "problem": "Get ARGUS Enterprise certified", "price_text": "$999", "url": "https://www.creanalyst.com/argustraining", "seen_via": "search"},
+        {"step": 3, "problem": "Earn a finance credential (REFAI)", "price_text": "$1,499", "url": "https://courses.getrefm.com/shop/training-courses/refai-certification-registration/", "seen_via": "search"},
+        {"step": 4, "problem": "Pursue the CCIM designation to move into senior or principal roles", "price_text": "$8,286", "url": "https://www.ccim.com/education/pursue-ccim-designation/designation-program-time-cost", "seen_via": "search"}
+      ],
+      "geography": ["GLOBAL"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "A profession with a clear, expensive and sequenced ladder of paid credentials. The founder's industrial and logistics real estate depth is strong and the private equity network gives a warm path. Industrial-focused underwriting (clear heights, dock doors, rent growth) is a niche inside this room where the founder can stand out.",
+      "confidence": "high"
+    },
+    {
+      "slug": "industrial-brokers-and-developers",
+      "name": "Industrial and logistics real estate brokers and developers",
+      "lens": "profession",
+      "origin": "generated",
+      "who": "Brokers, leasing agents and small developers who specialise in warehouses, logistics parks and light industrial. They pay for data subscriptions, association memberships and designations, and need underwriting, capital raising and tenant intelligence to close bigger deals.",
+      "where": [
+        {"name": "SIOR, Society of Industrial and Office Realtors", "url": "https://www.sior.com/index.html"},
+        {"name": "NAIOP, Commercial Real Estate Development Association (membership)", "url": "https://www.naiop.org/membership"},
+        {"name": "Wall Street Oasis thread: Industrial Acquisitions", "url": "https://www.wallstreetoasis.com/forum/real-estate/industrial-acquisitions"}
+      ],
+      "who_pays": "The broker or developer pays from commission income or the firm's budget. Association dues, designations and data subscriptions are recurring costs.",
+      "size": {"value": 3600, "unit": "SIOR members worldwide (November 2025)", "tag": "measured", "url": "https://finance.yahoo.com/news/society-industrial-office-realtors-inducts-205000648.html", "reasoning": "SIOR is the top designation; the wider room of industrial brokers and small developers is many times larger. This is the findable, gathered core."},
+      "ladder": [
+        {"step": 1, "problem": "Pay for market data to find and price deals", "price_text": "$300–$450 per month per user", "url": "https://propertyscout360.com/blog/costar-subscription-cost", "seen_via": "search"},
+        {"step": 2, "problem": "Join SIOR as a candidate to build a network and credentials", "price_text": "$450", "url": "https://www.sior.com/docs/default-source/membership-docs/4-candidate-membership-flyer.pdf?sfvrsn=0", "seen_via": "search"},
+        {"step": 3, "problem": "Earn the CCIM designation for investment deals", "price_text": "$8,286", "url": "https://www.ccim.com/education/pursue-ccim-designation/designation-program-time-cost", "seen_via": "search"},
+        {"step": 4, "problem": "Move from brokerage to principal deals: underwriting, capital raising, developer JV terms", "price_text": "$1,345", "url": "https://www.sior.com/docs/default-source/membership-docs/2-designation-requirements-flyer.pdf?sfvrsn=0", "seen_via": "search"}
+      ],
+      "geography": ["GLOBAL"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "This matches a ledger warm path word for word (warehouse developers, investors, advisers through the PE network) and a strong depth. Brokers earn commission and pay for anything that closes deals faster. Real estate licensing applies to brokerage itself but not to analysis, training or capital-markets help.",
+      "confidence": "high"
+    },
+    {
+      "slug": "solar-wind-project-developers",
+      "name": "Utility-scale solar and wind project developers",
+      "lens": "profession",
+      "origin": "generated",
+      "who": "Development managers, engineers and small developer founders who originate, permit, design and finance solar and wind projects. Many work in Asia (India, Vietnam, Philippines, Indonesia) where the founder has an energy warm path. They buy design software, certifications, financial modelling training and lender-grade yield data.",
+      "where": [
+        {"name": "Energy Central communities (250K power professionals)", "url": "https://energycentral.com/community/energy-biz/socializing-customers"},
+        {"name": "SEIA, Solar Energy Industries Association (LinkedIn, 103,906 followers)", "url": "https://www.linkedin.com/company/solarindustry"},
+        {"name": "Solar Power World (LinkedIn, 49,166 followers)", "url": "https://www.linkedin.com/company/solarpowerworld"}
+      ],
+      "who_pays": "The developer company pays for software, data and modelling; individuals pay for certifications and courses to get hired or promoted.",
+      "size": {"value": 200000, "unit": "people in solar and wind project development roles worldwide", "tag": "estimate", "reasoning": "IRENA counts 7.2 million solar PV jobs in 2024 (seen in a search result for https://www.irena.org/News/pressreleases/2026/Jan/Renewables-Jobs-See-First-Slowdown-Amid-Global-Deployment-Growth), but most are manufacturing and installation. Development, engineering and finance roles are guessed at 2-3% of that. [thin]"},
+      "ladder": [
+        {"step": 1, "problem": "License PV design and yield software", "price_text": "CHF 700", "url": "https://www.heavengreenenergy.com/blog/pvsyst-price", "seen_via": "search"},
+        {"step": 2, "problem": "Get certified to sign off on installations or win bids", "price_text": "$375", "url": "https://www.nabcep.org/certifications/requirements-fees/", "seen_via": "search"},
+        {"step": 3, "problem": "Learn renewables project finance modelling to raise debt", "price_text": "USD$800", "url": "https://pivotal180.com/course-type/project-finance-modeling/", "seen_via": "search"},
+        {"step": 4, "problem": "Buy lender-grade weather data and manage the financing process (term sheets, covenants)", "price_text": null, "url": "https://www.pvsyst.com/en/shop/", "seen_via": "search"}
+      ],
+      "geography": ["GLOBAL"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "Energy is a strong ledger depth and there is a warm path into Southeast Asian energy companies. Developers spend real money in a set order: design, certification, financing. The physical parts (installation, EPC) are outside the founder's supply, but the financing and deal-structuring steps are squarely inside it. Employer-rules exclusion must be checked.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "oil-gas-engineers-mid-career",
+      "name": "Oil and gas engineers facing layoffs or a switch to energy transition roles",
+      "lens": "profession",
+      "origin": "generated",
+      "who": "Petroleum, process and facilities engineers with 5-20 years of experience. Their industry cuts jobs in every downturn. They pay for certifications, safety credentials and project management exams to stay employable, and increasingly look at renewables, hydrogen, carbon capture or energy finance.",
+      "where": [
+        {"name": "Society of Petroleum Engineers (LinkedIn, 127,000 members in 145 countries)", "url": "https://www.linkedin.com/company/society-of-petroleum-engineers"},
+        {"name": "SPE Connect member community (via SPE join page)", "url": "https://www.spe.org/en/join/"},
+        {"name": "Rigzone employment news and worker surveys", "url": "https://www.rigzone.com/news/topic/employment/"}
+      ],
+      "who_pays": "The engineer pays personally for memberships, certifications and exam prep, especially between jobs. Employers pay when the person is on staff.",
+      "size": {"value": 127000, "unit": "SPE members worldwide", "tag": "measured", "url": "https://www.linkedin.com/company/society-of-petroleum-engineers", "reasoning": "SPE membership is a floor for the profession; many engineers are not members."},
+      "ladder": [
+        {"step": 1, "problem": "Keep the professional membership and network alive", "price_text": "USD 25–150 per year", "url": "https://www.spe.org/en/join/", "seen_via": "search"},
+        {"step": 2, "problem": "Add a safety credential that contractors and Gulf employers ask for", "price_text": "$800 to $1,200", "url": "https://www.hsestudyguide.com/nebosh-oil-and-gas/", "seen_via": "search"},
+        {"step": 3, "problem": "Pass the PMP to move into project management roles", "price_text": "$445", "url": "https://trainingcamp.com/articles/pmp-exam-cost-requirements-and-eligibility-the-complete-2026-guide/", "seen_via": "search"},
+        {"step": 4, "problem": "Reskill into renewables or energy finance after a layoff", "price_text": "USD$800", "url": "https://pivotal180.com/course-type/project-finance-modeling/", "seen_via": "search"}
+      ],
+      "geography": ["GLOBAL"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "A large, well-gathered profession with an urgency cycle tied to oil prices and layoffs. Energy is a strong ledger depth and the warm path into Southeast Asian oil and gas companies exists. The weak point is that many of their paid problems (safety, engineering credentials) sit outside the founder's judgment; the finance and transition steps are where the founder fits.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "contact-centre-ops-managers",
+      "name": "Contact centre operations and quality managers",
+      "lens": "profession",
+      "origin": "generated",
+      "who": "Operations managers, team leaders and QA managers running 50-2,000 seat contact centres for banks, lenders, insurers, telecoms, BPOs and e-commerce, heavily concentrated in India and the Philippines. They are measured on quality scores, handle time and attrition, and are being told to bring in AI.",
+      "where": [
+        {"name": "ICMI Contact Center Community", "url": "https://www.icmi.com/resources/icmi-contact-center-community"},
+        {"name": "ICMI (LinkedIn)", "url": "https://www.linkedin.com/company/icmi"},
+        {"name": "Call Centre Helper (industry site with reader discussion)", "url": "https://www.callcentrehelper.com/icmi-contact-center-demo-130401.htm"}
+      ],
+      "who_pays": "The company pays for software, training and certification out of the operations or CX budget. Managers pay personally for their own management certifications when chasing promotion.",
+      "size": {"value": 50000, "unit": "contact centre managers and team leaders in India and the Philippines", "tag": "estimate", "reasoning": "The Philippines BPO industry employs around 1.9 million people (seen in a search result for https://fullscale.io/blog/bpo-industry-philippines/) and India's IT-BPM sector 5.8 million. If roughly 2 million of these are voice agents and there is one manager or team lead per 40 agents, that gives about 50,000. [thin]"},
+      "ladder": [
+        {"step": 1, "problem": "Score and audit agent calls at scale (QA software)", "price_text": "from $35 per user per month", "url": "https://www.guideflow.com/blog/contact-center-quality-assurance-software", "seen_via": "search"},
+        {"step": 2, "problem": "Get a management certification to run a bigger site", "price_text": "$1,200-$1,500", "url": "https://www.tealhq.com/certifications/call-center-manager", "seen_via": "search"},
+        {"step": 3, "problem": "Deploy AI in the centre (AI QA, voice agents) without wrecking quality scores", "price_text": "$1,799", "url": "https://www.icmi.com/training", "seen_via": "search"},
+        {"step": 4, "problem": "Prepare for a COPC or site certification audit demanded by clients", "price_text": null, "url": "https://www.copc.com/what-we-do/certification/", "seen_via": "search"}
+      ],
+      "geography": ["IN", "PH", "GLOBAL"],
+      "venture_overlap": ["v4"],
+      "duplicate_of": null,
+      "reasoning": "This is TinyAI's market, so the room overlaps v4 directly and the ledger lists call auditing and voice agents as a strong depth. The warm path is tagged as mostly cold unless they are existing clients. Prices are public and recurring. The buyer is the company, not the person, which makes this a B2B room rather than a personal-ladder room.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "indie-perfumers-launching-brands",
+      "name": "Independent perfumers and small fragrance brand founders",
+      "lens": "profession",
+      "origin": "generated",
+      "who": "Self-taught and school-trained perfumers who make and sell their own fragrances or are about to. They move from DIY kits to formal training, then face compliance (IFRA, safety data), sourcing bottles and juice at small minimums, and selling online.",
+      "where": [
+        {"name": "Basenotes, Fragrance DIY forum", "url": "https://basenotes.com/forums/fragrance-diy/"},
+        {"name": "Perfumemaking Facebook group", "url": "https://www.facebook.com/groups/Perfumemaking/"},
+        {"name": "Indie Perfumers Guild", "url": "https://www.indieperfumersguild.org/"}
+      ],
+      "who_pays": "The perfumer pays out of pocket, from a few hundred dollars for kits to thousands for schools and first production runs.",
+      "size": {"value": 20000, "unit": "active indie perfumers and would-be brand founders worldwide", "tag": "estimate", "reasoning": "The Basenotes DIY forum alone runs past 600 pages of threads (a page-622 listing was seen at https://basenotes.com/community/forums/fragrance-diy/page-622). Facebook and Discord groups add more. Perhaps 10,000-30,000 people are actively making and selling or planning to. [thin]"},
+      "ladder": [
+        {"step": 1, "problem": "Buy a starter kit of materials", "price_text": "$95", "url": "https://boisdejasmin.com/2023/12/smell-training-and-perfume-making-kits.html", "seen_via": "search"},
+        {"step": 2, "problem": "Take formal perfumery training", "price_text": "€3,300", "url": "http://frenchperfume.school/intensetechnicaltraining", "seen_via": "search"},
+        {"step": 3, "problem": "Get IFRA-compliant formulas and safety documents before selling", "price_text": "$150–$1,000", "url": "https://www.packamor.com/blogs/knowledge-hub/how-much-does-it-cost-to-start-a-perfume-brand", "seen_via": "search"},
+        {"step": 4, "problem": "Source bottles and contract filling at small minimum order quantities", "price_text": "$0.50–$2 per unit", "url": "https://www.zuofun.com/private-label-perfume-manufacturers-compared-ifra-moq-guide/", "seen_via": "search"},
+        {"step": 5, "problem": "Get found and sell online (marketplaces, AI search, content)", "price_text": null, "url": "https://basenotes.com/threads/getting-into-diy-perfumery.527247/", "seen_via": "search"}
+      ],
+      "geography": ["GLOBAL"],
+      "venture_overlap": ["v2", "v4"],
+      "duplicate_of": null,
+      "reasoning": "A real gathered room with a long, priced ladder. It overlaps v2 (Proper Noun perfume brand), so the founder is walking this ladder himself, and v4 for the AI search visibility step. Fragrance depth is only moderate and the compliance and manufacturing steps need atoms and partners the founder would rent. Reach is search-based.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "active-retail-options-traders",
+      "name": "Active retail options traders",
+      "lens": "profession",
+      "origin": "generated",
+      "who": "Self-directed traders who trade options weekly or daily as a serious side income or full-time. They pay for analytics tools, alert communities, education and sometimes funded-trader evaluations, and most of them lose money and keep buying.",
+      "where": [
+        {"name": "Elite Trader, Options forum", "url": "https://www.elitetrader.com/et/forums/options.12/"},
+        {"name": "Whop list of options trading Discord servers (September 2026)", "url": "https://whop.com/blog/options-trading-guide-discord-servers/"},
+        {"name": "Options Trading Club Discord", "url": "https://www.optionstradingclub.com/"}
+      ],
+      "who_pays": "The trader pays personally, monthly, for tools and communities in the $30-$225 range.",
+      "size": {"value": 15200000000, "unit": "options contracts traded in 2025 (activity proxy, not a headcount)", "tag": "measured", "url": "https://www.cboe.com/insights/posts/the-state-of-the-options-industry-2025", "reasoning": "Volume, not people. A headcount of active retail options traders was not found; several million accounts is the working assumption. [thin]"},
+      "ladder": [
+        {"step": 1, "problem": "Learn strategies and see trade ideas (paid Discord or alert service)", "price_text": "$47 to $224 monthly", "url": "https://whop.com/blog/options-trading-guide-discord-servers/", "seen_via": "search"},
+        {"step": 2, "problem": "Visualise and manage positions (analytics tool)", "price_text": "$39.99/month", "url": "https://optionstrat.com/membership", "seen_via": "search"},
+        {"step": 3, "problem": "Automate and backtest a strategy", "price_text": "$99/month", "url": "https://optionalpha.com/pricing", "seen_via": "search"},
+        {"step": 4, "problem": "Trade other people's capital through a funded-trader evaluation", "price_text": null, "url": "https://discord.com/invite/trade-etf", "seen_via": "search"}
+      ],
+      "geography": ["GLOBAL"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "The task named this profession and the ledger lists options trading as a moderate depth. The room is huge, gathers in findable places, and pays monthly. The risk is the exclusion on regulated investment advice: anything that looks like trade recommendations needs a licence. Education, process and journaling products stay clear of it.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "mbb-case-interview-candidates",
+      "name": "Candidates preparing for MBB and tier-2 consulting case interviews",
+      "lens": "profession",
+      "origin": "generated",
+      "who": "MBA students, undergraduates and experienced hires preparing for McKinsey, BCG, Bain and tier-2 case interviews. They practise cases with peers, buy coaching by the hour and follow a fixed recruiting calendar.",
+      "where": [
+        {"name": "PrepLounge (case partner matching and forum)", "url": "https://www.preplounge.com/en"},
+        {"name": "Management Consulted", "url": "https://managementconsulted.com/"},
+        {"name": "Wall Street Oasis consulting forum thread: Case Partner Match Discord", "url": "https://www.wallstreetoasis.com/forum/consulting/case-partner-match-discord-channel"},
+        {"name": "Management Consulted YouTube channel", "url": "https://www.youtube.com/managementconsulted"}
+      ],
+      "who_pays": "The candidate pays personally: memberships from $69, coaching from $149 an hour, packages into the thousands.",
+      "size": {"value": 150000, "unit": "serious consulting applicants per year worldwide", "tag": "estimate", "reasoning": "Management Consulted says it has helped over 15,000 candidates over its life (seen in a search result for https://managementconsulted.com/). MBB together hire a few thousand a year from applicant pools reported at roughly 1% acceptance, which implies well over 100,000 applicants a year. [thin]"},
+      "ladder": [
+        {"step": 1, "problem": "Find case partners and structured practice", "price_text": "$69", "url": "https://www.preplounge.com/en/pricing", "seen_via": "search"},
+        {"step": 2, "problem": "Buy one-to-one coaching from ex-consultants", "price_text": "149 USD per hour", "url": "https://www.preplounge.com/en/shop/coaching-packages-5", "seen_via": "search"},
+        {"step": 3, "problem": "Bundle membership and coaching before final rounds", "price_text": "$199", "url": "https://www.preplounge.com/en/shop/premium-memberships-1/premium-coaching", "seen_via": "search"},
+        {"step": 4, "problem": "After the offer: first-year consultant skills (Excel, slides, models) and exit to PE or corporate strategy", "price_text": "$499", "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/", "seen_via": "search"}
+      ],
+      "geography": ["GLOBAL"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "A classic deadline room with proven hourly prices and a crowded coaching market. The ledger lists case interviews as a moderate depth and coaching and cohorts as human walls the founder can supply. Reach is search-based; the warm path to finance colleagues only partly covers it.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "seo-agency-owners-ai-search",
+      "name": "SEO freelancers and agency owners adapting to AI search",
+      "lens": "profession",
+      "origin": "generated",
+      "who": "Owners of small SEO agencies and freelance SEOs whose clients now ask why they do not show up in ChatGPT, Perplexity and Google AI Overviews. They buy tools, join paid communities and need a way to sell and report on AI visibility.",
+      "where": [
+        {"name": "Traffic Think Tank (paid SEO community with Slack)", "url": "https://trafficthinktank.com/"},
+        {"name": "List of SEO Facebook groups including SEO Signals Lab (77,500+ members)", "url": "https://influencermarketinghub.com/seo-communities/"},
+        {"name": "Ahrefs guide to SEO Slack communities", "url": "https://ahrefs.com/blog/seo-slack-communities"}
+      ],
+      "who_pays": "The agency owner pays monthly for tools and communities and passes tool costs to clients.",
+      "size": {"value": 77500, "unit": "members of the SEO Signals Lab Facebook group", "tag": "measured", "url": "https://influencermarketinghub.com/seo-communities/", "reasoning": "The number was shown in a search result for this listing page, not on the group page itself. Agency owners are a subset of the group."},
+      "ladder": [
+        {"step": 1, "problem": "Keep up with search changes in a peer community", "price_text": "$99", "url": "https://trafficthinktank.com/", "seen_via": "search"},
+        {"step": 2, "problem": "Track client visibility in AI answers", "price_text": "$95/month", "url": "https://visible.seranking.com/blog/peec-ai-review/", "seen_via": "search"},
+        {"step": 3, "problem": "Scale AI visibility tracking across several engines and clients", "price_text": "$99 a month", "url": "https://www.tryprofound.com/pricing", "seen_via": "search"},
+        {"step": 4, "problem": "Package and sell an AI-visibility service to clients (pricing, reporting, retention)", "price_text": null, "url": "https://trafficthinktank.com/academy/", "seen_via": "search"}
+      ],
+      "geography": ["GLOBAL"],
+      "venture_overlap": ["v4"],
+      "duplicate_of": null,
+      "reasoning": "AI search visibility is a strong ledger depth via TinyAI, and this profession buys through search and app-style subscriptions, so search reach applies. The problem is new, prices are public and monthly, and the ladder runs from learning to tooling to selling. Overlaps v4.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "ai-agent-builders-freelance",
+      "name": "Freelancers and small agencies building voice and WhatsApp AI agents for clients",
+      "lens": "profession",
+      "origin": "generated",
+      "who": "Solo developers and 2-10 person agencies who build AI voice agents, WhatsApp bots and automations for local businesses. They pay per-minute platform fees, join paid Skool or Discord communities to learn, and struggle to price, sell and keep clients.",
+      "where": [
+        {"name": "Vapi Discord community (26,499 members)", "url": "https://discord.vapi.ai/"},
+        {"name": "n8n Community forum (example thread on an n8n plus Retell voice agent)", "url": "https://community.n8n.io/t/end-to-end-ai-voice-agent-scheduling-automation-n8n-retell/223985"},
+        {"name": "AI Automation (A-Z) community on Skool", "url": "https://skoolmakers.com/communities/ai-automation-a-z/"}
+      ],
+      "who_pays": "The builder pays platform usage fees and community subscriptions personally or through the agency, then bills clients.",
+      "size": {"value": 26499, "unit": "members of the Vapi Discord", "tag": "measured", "url": "https://discord.vapi.ai/", "reasoning": "The count was shown in a search result for Vapi's community pages. The wider room (all voice and WhatsApp agent builders across platforms) is several times larger."},
+      "ladder": [
+        {"step": 1, "problem": "Learn to build agents in a paid community", "price_text": "$7 a month", "url": "https://skoolmakers.com/communities/ai-automation-a-z/", "seen_via": "search"},
+        {"step": 2, "problem": "Pay platform usage as the first agents go live", "price_text": "$0.05 per minute", "url": "https://vapi.ai/pricing", "seen_via": "search"},
+        {"step": 3, "problem": "Join an agency-building program to learn to price and sell", "price_text": "$184/month", "url": "https://skoolmakers.com/communities/maker-school/", "seen_via": "search"},
+        {"step": 4, "problem": "Deliver call quality and compliance that keeps enterprise clients (call auditing, evaluation, handoffs)", "price_text": null, "url": "https://www.cekura.ai/blogs/vapi-ai-pricing", "seen_via": "search"}
+      ],
+      "geography": ["GLOBAL"],
+      "venture_overlap": ["v4"],
+      "duplicate_of": null,
+      "reasoning": "The founder has built exactly these products through TinyAI, so the depth is strong and the room overlaps v4. The room gathers in large, public, searchable communities and pays monthly. A risk is that many members are hobbyists, not paying professionals, so the paid-professional core may be smaller than the counts suggest.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "indian-cas-moving-to-finance",
+      "name": "Indian chartered accountants moving from audit into investment banking or corporate finance",
+      "lens": "profession",
+      "origin": "generated",
+      "who": "Newly qualified and early-career Indian CAs (often from Big 4 audit) who want deal, valuation or corporate finance roles. They lack modelling skills, buy expensive investment banking courses, and consider CFA or an MBA to make the switch.",
+      "where": [
+        {"name": "CAclubindia (3 million+ members) article: Best investment banking roles for CAs moving from audit", "url": "https://www.caclubindia.com/articles/best-investment-banking-roles-for-chartered-accountants-moving-from-audit-54396.asp"},
+        {"name": "CAclubindia home", "url": "https://www.caclubindia.com/"},
+        {"name": "ICAI on LinkedIn (528,312 followers)", "url": "https://in.linkedin.com/school/theicai/"},
+        {"name": "Bombay Chartered Accountants' Society (LinkedIn)", "url": "https://in.linkedin.com/company/bombay-chartered-accountants-society"}
+      ],
+      "who_pays": "The CA pays personally, often on EMI, for courses priced from about ₹1 lakh to over ₹4 lakh, and for CFA registration.",
+      "size": {"value": 11466, "unit": "newly qualified CAs in the September 2025 ICAI exam cycle", "tag": "measured", "url": "https://www.businessupturn.com/sectors/education/ca-results-september-2025-icai-announces-11466-new-chartered-accountants/", "reasoning": "About 20,000-25,000 new CAs qualify each year across two cycles, and ICAI has 4,07,629 members in total (seen in a search result for https://finance.careers360.com/articles/icai-student-and-member-report-2025). Perhaps a fifth of new CAs seriously try to move into finance roles."},
+      "ladder": [
+        {"step": 1, "problem": "Learn financial modelling and valuation to be interview-ready", "price_text": "₹1,50,000 to ₹3,00,000", "url": "https://imarticus.org/blog/investment-banking-courses-fees/", "seen_via": "search"},
+        {"step": 2, "problem": "Buy a placement-linked investment banking program", "price_text": "₹4,28,000", "url": "https://collegedunia.com/institute/1288-imarticus-learning-mumbai/courses-fees", "seen_via": "search"},
+        {"step": 3, "problem": "Register for CFA Level I to signal finance intent", "price_text": "USD 1,140", "url": "https://300hours.com/cfa-exam-cost/", "seen_via": "search"},
+        {"step": 4, "problem": "Prepare for IB and corporate finance interviews (deal walk-throughs, technicals)", "price_text": "$499", "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/", "seen_via": "search"}
+      ],
+      "geography": ["IN"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "A large, deadline-driven room (results twice a year, campus placements) that already spends heavily and reports failed spend on courses that do not lead to jobs. The founder's valuation and deal depth is strong and Indian finance colleagues give a warm path. Geography is descriptive here; the ledger has no regional preference.",
+      "confidence": "high"
+    }
+  ]
+}
