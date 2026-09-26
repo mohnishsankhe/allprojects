@@ -434,19 +434,30 @@ def _valid_date(y: str, m: str, d: str) -> str | None:
         return None
 
 
-def date_from_url(url: str) -> str | None:
-    """A date in the URL path: /YYYY/MM/DD/, YYYY-MM-DD, or /YYYY/MM/ (day set to 01)."""
+def url_date_info(url: str) -> tuple:
+    """(date, precision) from the URL path: /YYYY/MM/DD/ or YYYY-MM-DD give ("YYYY-MM-DD", "day");
+    /YYYY/MM/ gives the first of that month with precision "month"; otherwise (None, None)."""
     if not url:
-        return None
+        return None, None
     path = urlsplit(str(url)).path or ""
     for i, rx in enumerate(_URL_DATE_RES):
         m = rx.search(path)
         if not m:
             continue
         if i == 2:
-            return _valid_date(m.group(1), m.group(2), "01")
-        return _valid_date(m.group(1), m.group(2), m.group(3))
-    return None
+            d = _valid_date(m.group(1), m.group(2), "01")
+            if d:
+                return d, "month"
+        else:
+            d = _valid_date(m.group(1), m.group(2), m.group(3))
+            if d:
+                return d, "day"
+    return None, None
+
+
+def date_from_url(url: str) -> str | None:
+    """A date in the URL path: /YYYY/MM/DD/, YYYY-MM-DD, or /YYYY/MM/ (day set to 01)."""
+    return url_date_info(url)[0]
 
 
 def _date_from_string(s: str) -> str | None:
