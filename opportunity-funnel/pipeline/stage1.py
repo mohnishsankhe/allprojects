@@ -310,6 +310,7 @@ def process_rooms(run, rooms: list, rules=None) -> dict:
         kept.append(room)
     if errors:
         raise common.ValidationErrors(errors)
+    removed.sort(key=lambda x: (x["slug"], x["status"]))
 
     near: list = []
     for i in range(len(kept)):

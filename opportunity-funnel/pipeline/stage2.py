@@ -24,6 +24,7 @@ Public API
 """
 from __future__ import annotations
 
+import datetime as _dt
 import re
 from pathlib import Path
 
@@ -60,7 +61,7 @@ def validate_fx(run) -> tuple:
     if not common.is_date(as_of):
         errors.append(f"{common.rel(p)}: 'as_of' must be a date YYYY-MM-DD (got {as_of!r}).")
     else:
-        age = (common.run_date(run) - __import__("datetime").date.fromisoformat(as_of)).days
+        age = (common.run_date(run) - _dt.date.fromisoformat(as_of)).days
         if age > 7:
             warnings.append(f"fx_rates.json is {age} days older than the run date. Refresh the rates if you can.")
     for code, entry in sorted(data["rates"].items()):

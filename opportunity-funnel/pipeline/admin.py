@@ -26,8 +26,11 @@ Public API
 from __future__ import annotations
 
 import datetime as _dt
+import random
 import re
 import shutil
+import sys
+import unicodedata
 from pathlib import Path
 
 import common
@@ -542,8 +545,11 @@ def loop_init(room: str) -> dict:
         g = next((e for e in common.parse_graveyard() if e["item"] == item and e["status"] == "dead"), {})
         raise common.ValidationErrors([f"room {room} is dead in graveyard.md ({g.get('date', '?')}, {g.get('stage', '?')}: "
                                        f"{g.get('reason', '')}). Add an indented `- new evidence YYYY-MM-DD: ...` line under it first."])
+    name = f"{common.today().isoformat()}-loop-{room}"
     source = None
     for rd in _run_dirs():
+        if rd.name == name:
+            continue  # never copy a loop run from itself
         kept = _mask_kept(rd)
         if room in kept:
             source = rd
@@ -557,7 +563,6 @@ def loop_init(room: str) -> dict:
         raise common.MissingInput(f"{common.rel(source / '01_rooms.json')} has no entry for {room}.")
     mask_data = common.read_json(source / "02_mask.json")
     mask_entry = _mask_kept(source)[room]
-    name = f"{common.today().isoformat()}-loop-{room}"
     new = common.funnel_root() / "runs" / name
     new.mkdir(parents=True, exist_ok=True)
     common.write_json(new / "01_rooms.json", {"status": "loop", "loop_room": room, "source_run": source.name,
@@ -752,7 +757,7 @@ def cmd_show(args) -> int:
             member_ids = sorted(((cdata.get("pains") or {}).get(key) or {}).get("member_record_ids") or [])
         limit = max(0, int(args.limit))
         if member_ids:
-            rng = common.rng_for_run(f"{common.run_name(run)}:{pid}")
+            rng = random.Random(f"{common.run_name(run)}:{pid}")
             sample = member_ids if len(member_ids) <= limit else sorted(rng.sample(member_ids, limit))
             print(f"## Member records: {len(sample)} of {len(member_ids)} (a fixed random sample, seeded by the run name)")
             print()
@@ -786,7 +791,7 @@ def cmd_show(args) -> int:
 
 def excerpt(text: str, start: str, end: str) -> str:
     """The exact original substring from `start` to the end of `end`. Matching is whitespace-normalized."""
-    original = __import__("unicodedata").normalize("NFC", str(text or ""))
+    original = unicodedata.normalize("NFC", str(text or ""))
     collapsed: list = []
     index_map: list = []
     in_space = True  # strip leading whitespace
@@ -819,8 +824,6 @@ def excerpt(text: str, start: str, end: str) -> str:
 
 
 def cmd_excerpt(args) -> int:
-    import sys
-
     run = common.run_dir(args.run)
     room = common.check_slug(args.room, "room")
     rec = records.records_by_id(run, room).get(args.id)
