@@ -166,7 +166,7 @@ Scripts: `walks` (Stage 4 kills, renders `RUN/04_walks/<pain-id>.md`), then `pai
 ```json
 {"pain_id": "...",
  "price_anchor": {"what": "Private IELTS tutor, 10 hours", "price_text": "...", "amount": 0, "currency": "INR", "unit": "package", "url": "https://...", "reasoning": "...", "confidence": "moderate"},
- "proposed_price": {"amount": 0, "billing": "one_off", "months": 1, "reasoning": "...", "confidence": "low"},
+ "proposed_price": {"amount": 0, "billing": "one_off", "months": 1, "payment_days_after_sale": 0, "reasoning": "...", "confidence": "low"},
  "delivery": {"my_hours_per_customer": {"value": 3, "tag": "estimate", "reasoning": "..."},
               "cash_cost_per_customer": {"value": 0, "tag": "estimate", "reasoning": "..."},
               "delivery_weeks": {"value": 2, "tag": "estimate", "reasoning": "..."}},
@@ -175,7 +175,6 @@ Scripts: `walks` (Stage 4 kills, renders `RUN/04_walks/<pain-id>.md`), then `pai
    "touches_per_sale": {"low": 5, "high": 20, "reasoning": "..."},
    "minutes_per_touch": {"low": 5, "high": 15, "reasoning": "..."},
    "cash_per_touch": {"low": 0, "high": 0, "reasoning": "..."}},
- "cash_first_30_days": {"value": 0, "tag": "estimate", "reasoning": "..."},
  "revenue_horizon": {"boredom_months": {"value": 6, "tag": "estimate", "reasoning": "..."},
                      "melt_months": {"value": null, "tag": "estimate", "reasoning": "hold wall persists"}},
  "ladder_test": {"position": 1, "urgent": true, "provable_outcome": {"value": true, "how": "...", "reasoning": "...", "confidence": "moderate"}},
@@ -183,7 +182,8 @@ Scripts: `walks` (Stage 4 kills, renders `RUN/04_walks/<pain-id>.md`), then `pai
  "guarantee": {"offered": false, "refund_per_customer": 0},
  "test": {"n": 20, "who": "room members", "how": "reached how", "offer": "...", "days": 14}}
 ```
-`billing`: `one_off` or `monthly`. `trust`: `high` (warm one-to-one), `medium` (teaching content), `low` (cold ads).
+`billing`: `one_off` or `monthly` (`months` = expected months paid). `payment_days_after_sale`: 0 = paid upfront. `trust`: `high` (warm one-to-one), `medium` (teaching content), `low` (cold ads).
+The script computes every derived number: delivery cost, margin, acquisition cost range, first-30-day cash, revenue horizon, days to first payment, hours per week for the first cohort, guarantee exposure.
 Scripts: `price-check --stage 6`, then `numbers`. They write `RUN/06_numbers.csv`, `RUN/06_numbers.md` and `RUN/06_survivors.json`.
 
 ## Stage 7 prep and audit
