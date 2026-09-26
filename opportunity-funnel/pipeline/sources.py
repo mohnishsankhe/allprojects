@@ -654,7 +654,7 @@ def fetch_hackernews(run, room: str, query: str, max_records: int = DEFAULT_MAX,
 # --------------------------------------------------------------------------- Reddit
 def _reddit_token(keys: dict) -> str:
     """An app-only OAuth token (client credentials). Never cached, never printed."""
-    domain = common.domain_of(REDDIT_TOKEN_URL)
+    domain = urlsplit(REDDIT_TOKEN_URL).hostname or "www.reddit.com"
     if netfetch.offline():
         raise netfetch.NetworkBlocked(domain, "FUNNEL_OFFLINE=1")
     headers = {"User-Agent": keys["REDDIT_USER_AGENT"]}
