@@ -361,8 +361,11 @@ def mask(run, merge_parts_flag: bool = False, max_rooms=None) -> dict:
     errors: list = []
     warnings: list = list(fx_warnings)
     by_slug: dict = {}
-    for i, entry in enumerate(entries, 1):
-        where = f"{entry.get('_part') or '02_mask_input.json'}: room {i} ({entry.get('slug', '?')})"
+    index_in_part: dict = {}
+    for entry in entries:
+        part = entry.get("_part") or "02_mask_input.json"
+        index_in_part[part] = index_in_part.get(part, 0) + 1
+        where = f"{part}: room {index_in_part[part]} ({entry.get('slug', '?')})"
         slug = entry.get("slug")
         if not common.is_slug(slug):
             errors.append(f"{where}: 'slug' must be a valid slug.")

@@ -1,0 +1,291 @@
+{
+  "lens": "life_stage",
+  "origin": "gap_pass",
+  "note": "Gap pass for the life_stage lens. Grounding limit: this session's web-search budget was already spent (200 of 200 searches) when this pass ran, and the network blocks direct page fetches. So every URL below is one that was actually seen in a search result earlier in this run (it appears in one of the six lens part files), reused here where the same place or price applies to the new room. No URL was invented. Where no seen URL fits, the fact has no URL: sizes are tagged estimate with reasoning, and ladder steps carry no price. Prices are as shown in search results (seen_via search). List this limit in REVIEW.md; a rerun with search budget should re-ground these rooms.",
+  "rooms": [
+    {
+      "slug": "ib-associates-vps-leaving-banking",
+      "name": "Investment banking associates and VPs (4 to 10 years in) planning to leave banking",
+      "lens": "life_stage",
+      "origin": "gap_pass",
+      "who": "Mid-career bankers who have done the analyst years and one or two promotions. They are 28 to 38, often married or about to be, and tired of the hours. In the next 1 to 3 years they want to move to corporate development, a startup finance role, a family office, a small fund, an MBA, or their own business. Their gap is that recruiting at this level is quiet and unstructured: no on-cycle, no headhunter calendar, and their skills are wide but their story is unclear.",
+      "where": [
+        {
+          "name": "Wall Street Oasis, Investment Banking forum (exit and burnout threads sit here)",
+          "url": "https://www.wallstreetoasis.com/forum/investment-banking"
+        },
+        {
+          "name": "Wall Street Oasis thread: How to survive IB analyst years (the same people, two years later)",
+          "url": "https://www.wallstreetoasis.com/forum/investment-banking/how-to-survive-ib-analyst-years"
+        },
+        {
+          "name": "r/FinancialCareers (over 741,000 members; described here, reddit.com not reachable)",
+          "url": "https://emeritus.org/blog/best-finance-jobs-reddit/"
+        },
+        {
+          "name": "Private Equity Insider (LinkedIn community, 107,761 followers)",
+          "url": "https://www.linkedin.com/company/peinsider"
+        }
+      ],
+      "who_pays": "The banker, from a high salary and bonus. Some employers pay for an MBA or a management course.",
+      "size": {
+        "value": 30000,
+        "unit": "associates and VPs at investment banks worldwide who are actively planning an exit in a given year",
+        "tag": "estimate",
+        "reasoning": "r/FinancialCareers has over 741,000 members [measured, superset]. Bulge-bracket, elite-boutique and mid-market banks together employ on the order of 100,000 front-office bankers worldwide; associates and VPs are roughly a third of that, and forum threads suggest a large minority are looking at any time. Treat the number as a rough order of magnitude.",
+        "confidence": "low"
+      },
+      "ladder": [
+        {
+          "step": 1,
+          "problem": "Pick the exit and rebuild the story: interview prep for the target role (the price seen is WSO's investment banking interview course; corporate development and fund interviews reuse the same technicals)",
+          "price_text": "$199.99",
+          "url": "https://www.wallstreetoasis.com/courses/interview-prep/investment-banking"
+        },
+        {
+          "step": 2,
+          "problem": "Refresh modelling for a buy-side or corporate development test after years of pitch work",
+          "price_text": "$499",
+          "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/"
+        },
+        {
+          "step": 3,
+          "problem": "The MBA route as a reset: GMAT registration",
+          "price_text": "US $275",
+          "url": "https://test-ninjas.com/gmat-registration-fees-and-cost"
+        },
+        {
+          "step": 4,
+          "problem": "Admissions consulting for a multi-school MBA application",
+          "price_text": "$5,800",
+          "url": "https://www.admitadvantage.com/mba/pricing/"
+        },
+        {
+          "step": 5,
+          "problem": "The own-business route: value a company to buy, or price fractional CFO work to sell (what startups pay for a fractional CFO is the benchmark)",
+          "price_text": "$5,000 and $10,000 per month",
+          "url": "https://pilot.com/blog/fractional-cfo-cost-guide"
+        }
+      ],
+      "geography": ["GLOBAL", "US", "GB", "IN", "SG", "AE"],
+      "venture_overlap": [],
+      "reasoning": "One life stage with a shared, dated pressure (promotion or leave; bonus timing; a family forming) and named forums where the same people post. The founder's warmest path is current and former banking colleagues, and corporate finance is a strong depth domain. Existing rooms cover analysts recruiting for PE and consultants moving into finance; nobody covers mid-level bankers moving out.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "mid-career-searchers-buying-small-business",
+      "name": "Mid-career professionals leaving a corporate job to buy a small business (self-funded searchers)",
+      "lens": "life_stage",
+      "origin": "gap_pass",
+      "who": "People in their 30s and 40s, many from banking, consulting or corporate finance, who want to own and run a company rather than start one. Over 12 to 24 months they search listings for a business worth $0.5M to $10M, value it, get a loan, close, and then run it. Most have never bought anything bigger than a house and are afraid of overpaying or buying a business that depends on its owner.",
+      "where": [
+        {
+          "name": "BizBuySell (the marketplace they search every day; retiring-owner listings page)",
+          "url": "https://www.bizbuysell.com/retiring-owner-businesses-for-sale/"
+        },
+        {
+          "name": "r/smallbusiness (2.5M members; stats page), where buyers ask owners what to check before buying",
+          "url": "https://gummysearch.com/r/smallbusiness/"
+        },
+        {
+          "name": "Wall Street Oasis, Investment Banking forum (bankers weighing an exit into buying a business)",
+          "url": "https://www.wallstreetoasis.com/forum/investment-banking"
+        }
+      ],
+      "who_pays": "The buyer, from savings and later from the business itself. A bank or SBA-type loan pays most of the purchase price.",
+      "size": {
+        "value": 20000,
+        "unit": "active individual buyers of small businesses in the US in a year",
+        "tag": "estimate",
+        "reasoning": "BizBuySell reports 2,340,000 boomer-owned small businesses in the US [measured, supply side]. Only a small share change hands each year, and individual buyers (as opposed to companies and funds) are one slice of those deals; tens of thousands is a conservative order of magnitude. Other countries add to it.",
+        "confidence": "low"
+      },
+      "ladder": [
+        {
+          "step": 1,
+          "problem": "Learn how small deals work and decide what to buy (courses, paid communities; no price seen this run)"
+        },
+        {
+          "step": 2,
+          "problem": "Value the target and sanity-check the seller's numbers (an independent valuation; the same service sellers buy)",
+          "price_text": "$3,000 to $10,000",
+          "url": "https://www.websiteclosers.com/resources/how-much-does-a-business-valuation-cost/"
+        },
+        {
+          "step": 3,
+          "problem": "Negotiate the deal: the broker's commission is built into the price",
+          "price_text": "8% and 12%",
+          "url": "https://ctacquisitions.com/average-business-broker-commission/"
+        },
+        {
+          "step": 4,
+          "problem": "Finance and close: loan application, quality-of-earnings review, legal documents (licensed partners; no price seen this run)"
+        },
+        {
+          "step": 5,
+          "problem": "Run it after closing: bookkeeping, cash planning and a fractional CFO",
+          "price_text": "$5,000 and $10,000 per month",
+          "url": "https://pilot.com/blog/fractional-cfo-cost-guide"
+        },
+        {
+          "step": 6,
+          "problem": "Grow it without hiring: an AI voice or chat agent to answer every call (platform usage)",
+          "price_text": "$0.05 per minute",
+          "url": "https://vapi.ai/pricing"
+        }
+      ],
+      "geography": ["US", "GLOBAL"],
+      "venture_overlap": ["v4"],
+      "reasoning": "A clear life stage (the year or two between quitting and closing) with big, sequential paid problems. The run already has the sellers (retiring owners) and the brokers, but not the buyers. The founder's valuation and deal-document depth is strong, and many searchers come from his banking and PE network. Step 6 touches TinyAI.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "iim-isb-first-years-finance-consulting-placements",
+      "name": "First-year students at IIMs, ISB and other top Indian B-schools preparing for finance and consulting summer placements",
+      "lens": "life_stage",
+      "origin": "gap_pass",
+      "who": "Students who just joined a two-year MBA at an IIM, XLRI, FMS or similar, or the one-year ISB programme. Within 8 to 12 weeks of arriving they face summer placement week, where banks, PE funds and consulting firms interview on day zero and day one. They must learn valuation, guesstimates and case interviews from scratch while carrying a full course load and a large loan. Final placements repeat the cycle a year later.",
+      "where": [
+        {
+          "name": "InsideIIM (the news and community site for Indian B-school students; page seen this run)",
+          "url": "https://insideiim.com/community-spotlight-how-r-catpreparation-is-helping-aspirants"
+        },
+        {
+          "name": "PaGaLGuY forum (college pages and threads where admits and students gather; the forum has over 400,000 users)",
+          "url": "https://www.pagalguy.com/colleges/indian-institute-of-management-iim-ahmedabad"
+        },
+        {
+          "name": "Management Consulted YouTube channel (case interview prep)",
+          "url": "https://www.youtube.com/managementconsulted"
+        }
+      ],
+      "who_pays": "The student, mostly on an education loan, sometimes with parents' money. The fee already committed makes a good placement feel non-negotiable.",
+      "size": {
+        "value": 8000,
+        "unit": "students joining the IIMs, ISB and the top ten other Indian B-schools each year",
+        "tag": "estimate",
+        "reasoning": "CAT 2025 had 295,000 registrations [measured]. The twenty-one IIMs together admit several thousand students a year, ISB about 900, and the next tier a few thousand more; roughly 8,000 a year enter the schools where finance and consulting firms recruit. Not every student targets those firms, but most sit the prep.",
+        "confidence": "low"
+      },
+      "ladder": [
+        {
+          "step": 1,
+          "problem": "Fund the programme before joining: the fee at a top IIM",
+          "price_text": "₹27.5 lakh",
+          "url": "https://www.pagalguy.com/colleges/indian-institute-of-management-iim-ahmedabad"
+        },
+        {
+          "step": 2,
+          "problem": "Education loan for the fee",
+          "price_text": "10.25% per annum",
+          "url": "https://www.icici.bank.in/personal-banking/loans/education-loan/interest-rates"
+        },
+        {
+          "step": 3,
+          "problem": "Case interview coaching from ex-consultants before summer placement week",
+          "price_text": "149 USD per hour",
+          "url": "https://www.preplounge.com/en/shop/coaching-packages-5"
+        },
+        {
+          "step": 4,
+          "problem": "Finance technicals for bank and PE interviews: an interview guide and question bank",
+          "price_text": "$199.99",
+          "url": "https://www.wallstreetoasis.com/courses/interview-prep/investment-banking"
+        },
+        {
+          "step": 5,
+          "problem": "Financial modelling before the summer internship and final placements",
+          "price_text": "$499",
+          "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/"
+        },
+        {
+          "step": 6,
+          "problem": "Signal finance intent with CFA Level I registration",
+          "price_text": "USD 1,140",
+          "url": "https://300hours.com/cfa-exam-cost/"
+        },
+        {
+          "step": 7,
+          "problem": "If placements miss: a placement-linked investment banking programme",
+          "price_text": "₹4,28,000",
+          "url": "https://collegedunia.com/institute/1288-imarticus-learning-mumbai/courses-fees"
+        }
+      ],
+      "geography": ["IN"],
+      "venture_overlap": [],
+      "reasoning": "The run has CAT aspirants (before admission) and US MBA students switching into banking, but not the Indian B-school cohort itself, whose placement process is its own fixed-date event. Indian investment banking teams are full of IIM and ISB alumni, so the founder's colleague network reaches them warmly, and corporate finance and case interviews are ledger depth domains.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "first-finance-hires-funded-startups",
+      "name": "Ex-bankers and ex-consultants in their first year as the first finance hire at a funded startup",
+      "lens": "life_stage",
+      "origin": "gap_pass",
+      "who": "People 3 to 8 years into banking, consulting or Big 4 who just joined a seed-to-Series-B startup as head of finance, finance lead or chief of staff for finance. They are the only finance person. In their first year they must build the fundraising model and data room, fix the books, set up board reporting, run the next round's diligence, and hire the first analyst, none of which they have done before.",
+      "where": [
+        {
+          "name": "r/startups (2.1M members; stats page), where finance hires and founders ask what a finance function needs",
+          "url": "https://gummysearch.com/r/startups/"
+        },
+        {
+          "name": "FP&A Club LinkedIn group (56K+ members, run by FP&A Trends Group)",
+          "url": "https://uk.linkedin.com/company/fp-a-trends-group"
+        },
+        {
+          "name": "Wall Street Oasis, Investment Banking forum (threads on leaving banking for a startup finance role)",
+          "url": "https://www.wallstreetoasis.com/forum/investment-banking"
+        }
+      ],
+      "who_pays": "The startup pays for tools, advisers and outsourced finance; the person pays for their own courses and coaching.",
+      "size": {
+        "value": 10000,
+        "unit": "people worldwide who start as the first finance hire at a funded startup in a year",
+        "tag": "estimate",
+        "reasoning": "r/startups has 2.1M members [measured, superset]. A few thousand startups raise a seed or Series A each year in the US alone and most make a first finance hire between seed and Series B; with India, Europe and Southeast Asia added, low tens of thousands a year is a reasonable order of magnitude.",
+        "confidence": "low"
+      },
+      "ladder": [
+        {
+          "step": 1,
+          "problem": "Build the fundraising model and investor deck for the next round",
+          "price_text": "$2,000–$5,000",
+          "url": "https://www.spectup.com/resource-hub/how-much-does-a-pitch-deck-cost"
+        },
+        {
+          "step": 2,
+          "problem": "Decide what to outsource: the fractional CFO and bookkeeping benchmark they must beat or buy",
+          "price_text": "$5,000 and $10,000 per month",
+          "url": "https://pilot.com/blog/fractional-cfo-cost-guide"
+        },
+        {
+          "step": 3,
+          "problem": "Get deal-ready for the round: three-statement and DCF modelling refresher",
+          "price_text": "$499",
+          "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/"
+        },
+        {
+          "step": 4,
+          "problem": "Annual compliance of the entity they now own: registered agent and franchise tax (US example)",
+          "price_text": "$100 Renewal",
+          "url": "https://sparklaun.ch/compare/stripe-atlas"
+        },
+        {
+          "step": 5,
+          "problem": "Cut cost centres they now own: AI voice and WhatsApp agents for support and sales calls (platform usage)",
+          "price_text": "$0.05 per minute",
+          "url": "https://vapi.ai/pricing"
+        },
+        {
+          "step": 6,
+          "problem": "Grow into CFO: hire and manage the first analyst (first-time manager training)",
+          "price_text": "$5,400.00",
+          "url": "https://executive.berkeley.edu/programs/new-manager-boot-camp"
+        }
+      ],
+      "geography": ["GLOBAL", "US", "IN"],
+      "venture_overlap": ["v4"],
+      "reasoning": "A one-year life stage with a fixed sequence of first-time tasks (model, books, board pack, next round) that people in it describe the same way. The founder's colleagues who left banking for startups are a direct warm path, and valuation, deal documents and investor reporting are strong depth. FP&A analysts (profession lens) and first-time founders are already listed; the first finance hire between them is not. Gathering places are partly supersets, so confidence is lower.",
+      "confidence": "low"
+    }
+  ]
+}
