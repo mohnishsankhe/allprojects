@@ -1,0 +1,304 @@
+{
+  "rooms": [
+    {
+      "slug": "gre-engineers-india",
+      "name": "Indian engineers preparing for the GRE to study abroad",
+      "lens": "transition",
+      "origin": "generated",
+      "who": "Engineering students and young engineers in India who will sit the GRE in the next 3 to 12 months, mostly to apply for a master's in the US, Canada or Europe. They juggle college or a first job with 2 to 4 months of prep.",
+      "where": [
+        {"name": "r/GRE (Reddit; stats page seen)", "url": "https://gummysearch.com/r/GRE/"},
+        {"name": "r/GRE (Reddit Charts stats page)", "url": "https://redditcharts.com/r/gre"},
+        {"name": "Yocket community feed (Indian study-abroad forum)", "url": "https://yocket.com/feed"},
+        {"name": "Careers360 GRE question boards", "url": "https://www.careers360.com/question-gre-or-gate"},
+        {"name": "Collegedunia list of GRE forums", "url": "https://s4.collegedunia.com/news/e-483-gre-forums-for-gre-preparation"}
+      ],
+      "who_pays": "The student, usually with parents' money. Coaching is paid up front. The exam fee goes to ETS.",
+      "size": {"value": 110000, "unit": "r/GRE members (worldwide, all fields)", "tag": "measured", "url": "https://gummysearch.com/r/GRE/", "reasoning": "Seen in a search result for the r/GRE stats page. The Indian-engineer share is not measured; it is a large slice but smaller than this number."},
+      "ladder": [
+        {"step": 1, "problem": "GRE prep: an online-live coaching course or self-study plan", "price_text": "₹15,000–₹30,000", "url": "https://www.wikatiedu.com/blog/ielts-gre-sat-2026-coaching-fees-exam-guide/"},
+        {"step": 2, "problem": "GRE exam registration (plus reschedule and extra score reports)", "price_text": "₹22,550", "url": "https://eecglobal.com/blog/gre-fee-registration-india-2026"},
+        {"step": 3, "problem": "University shortlisting and SOP/LOR help from a counsellor"},
+        {"step": 4, "problem": "Education loan for tuition and living costs", "price_text": "10.25% per annum", "url": "https://www.icici.bank.in/personal-banking/loans/education-loan/interest-rates"},
+        {"step": 5, "problem": "F-1 visa interview and pre-departure setup (forex, insurance, housing)"},
+        {"step": 6, "problem": "OPT work permit application after graduating", "price_text": "$470", "url": "https://immiva.com/blog/i-765-opt-filing-fee-2026-complete-cost-breakdown"}
+      ],
+      "geography": ["IN"],
+      "venture_overlap": ["v1"],
+      "duplicate_of": null,
+      "reasoning": "Same situation, same exam date, same forums. Coaching, exam and loan prices are public. The founder's GRE product already sells into this room, so reach is warm.",
+      "confidence": "high"
+    },
+    {
+      "slug": "ms-abroad-applicants-india",
+      "name": "Indian students applying for a master's abroad after getting their test scores",
+      "lens": "transition",
+      "origin": "generated",
+      "who": "Indian students, mostly engineers, who already have a GRE and IELTS/TOEFL score and are now shortlisting universities, writing SOPs, filing applications, arranging a loan and a visa for a master's in the US, Canada, UK or Germany. Deadlines run from October to March.",
+      "where": [
+        {"name": "r/gradadmissions (Reddit; stats page seen)", "url": "https://gummysearch.com/r/gradadmissions/"},
+        {"name": "Yocket community feed", "url": "https://yocket.com/feed"},
+        {"name": "Yocket app (Google Play listing)", "url": "https://play.google.com/store/apps/details?id=in.yocket&hl=en_IN"},
+        {"name": "Careers360 study-abroad question boards", "url": "https://www.careers360.com/question-is-there-any-agency-to-process-admission-after-getting-required-gre-tofel-and-sop-lor/amp"}
+      ],
+      "who_pays": "The student and parents pay counsellors, editors and application fees. Banks and lenders fund the degree itself.",
+      "size": {"value": 150000, "unit": "Indian master's applicants abroad per year", "tag": "estimate", "reasoning": "[thin] Not measured here. r/GRE alone has 110k members and Yocket sells to this room at scale, so the yearly Indian applicant pool is in the low hundreds of thousands. Treat as a rough guess."},
+      "ladder": [
+        {"step": 1, "problem": "SOP and application essay editing", "price_text": "$100", "url": "https://scholarmemory.gumroad.com/l/Editing"},
+        {"step": 2, "problem": "University shortlisting, application fees and a counsellor package"},
+        {"step": 3, "problem": "Education loan for tuition and living costs", "price_text": "10.25% per annum", "url": "https://www.icici.bank.in/personal-banking/loans/education-loan/interest-rates"},
+        {"step": 4, "problem": "Visa interview prep and pre-departure setup (forex, insurance, housing)"},
+        {"step": 5, "problem": "First semester abroad: housing, bank account, part-time work"},
+        {"step": 6, "problem": "OPT work permit application after graduating", "price_text": "$470", "url": "https://immiva.com/blog/i-765-opt-filing-fee-2026-complete-cost-breakdown"}
+      ],
+      "geography": ["IN"],
+      "venture_overlap": ["v1"],
+      "duplicate_of": null,
+      "reasoning": "This is the step after the GRE in the same people's lives, with its own deadlines and its own paid helpers (editors, counsellors, lenders). The founder's GRE users flow straight into it. Kept separate from the GRE room because the problems and sellers differ.",
+      "confidence": "high"
+    },
+    {
+      "slug": "opt-grads-h1b-job-hunt-us",
+      "name": "International graduates in the US on OPT hunting for an H-1B sponsor",
+      "lens": "transition",
+      "origin": "generated",
+      "who": "Foreign students, many of them Indian, who just finished a US degree, are working or job-hunting on an OPT work permit, and must find an employer who will file an H-1B before the permit and the 90-day unemployment limit run out.",
+      "where": [
+        {"name": "Blind thread: job searching on H-1B", "url": "https://www.teamblind.com/post/job-searching-on-h1b-qyhkxn3v"},
+        {"name": "Blind F1 visa search results", "url": "https://www.teamblind.com/search/F1Visa"},
+        {"name": "r/h1b (Reddit; stats page seen)", "url": "https://gummysearch.com/r/h1b/"},
+        {"name": "University of Washington career page listing H-1B sponsor databases", "url": "https://careers.uw.edu/resources/h1-b-sponsor-databases-target-employers-for-international-students/"},
+        {"name": "Syracuse University resources page for international students", "url": "https://answers.atlassian.syr.edu/wiki/x/MgjzC"}
+      ],
+      "who_pays": "The graduate pays filing fees, premium processing, resume and job-search tools. The employer pays most H-1B petition fees, but many graduates pay premium processing themselves.",
+      "size": {"value": 137000, "unit": "r/h1b members", "tag": "measured", "url": "https://gummysearch.com/r/h1b/", "reasoning": "Seen in a search result for the r/h1b stats page. Includes current H-1B holders, so the OPT slice is smaller."},
+      "ladder": [
+        {"step": 1, "problem": "OPT work permit application (Form I-765)", "price_text": "$470", "url": "https://immiva.com/blog/i-765-opt-filing-fee-2026-complete-cost-breakdown"},
+        {"step": 2, "problem": "Premium processing so the permit arrives before the job start date", "price_text": "$1,780", "url": "https://immiva.com/blog/i-765-premium-processing-opt-worth-it-2026"},
+        {"step": 3, "problem": "Finding employers that sponsor: sponsor databases, resume, interview prep"},
+        {"step": 4, "problem": "STEM OPT extension to buy two more years"},
+        {"step": 5, "problem": "H-1B petition with premium processing", "price_text": "$2,965", "url": "https://www.vorys.com/publication-uscis-announces-increases-to-premium-processing-fees"},
+        {"step": 6, "problem": "Visa stamping abroad, then green card sponsorship"}
+      ],
+      "geography": ["US", "IN"],
+      "venture_overlap": ["v1"],
+      "duplicate_of": null,
+      "reasoning": "One shared clock (OPT expiry), one shared goal (a sponsor) and busy shared forums. Government fees are fixed and public. The founder's GRE users become this room two years later, so reach is plausible; depth in job search and immigration is not on the ledger, so Stage 2 may cut it.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "h1b-workers-new-to-us",
+      "name": "H-1B workers newly settling in the United States",
+      "lens": "transition",
+      "origin": "generated",
+      "who": "Workers, mostly Indian IT and engineering staff, who moved to the US on an H-1B in the last year or are about to: visa stamping appointment, first apartment, bank account and credit history, first US tax return, then extensions, transfers and the green card queue.",
+      "where": [
+        {"name": "r/h1b (Reddit; stats page seen; members discuss stamping, appointments, interviews and recommend bank accounts)", "url": "https://gummysearch.com/r/h1b/"},
+        {"name": "Blind H-1B threads", "url": "https://www.teamblind.com/post/job-searching-on-h1b-qyhkxn3v"}
+      ],
+      "who_pays": "The worker pays stamping travel, tax filing, deposits and often premium processing. The employer pays base petition fees.",
+      "size": {"value": 137000, "unit": "r/h1b members", "tag": "measured", "url": "https://gummysearch.com/r/h1b/", "reasoning": "Same page as the OPT room; the two rooms overlap in membership but not in situation."},
+      "ladder": [
+        {"step": 1, "problem": "Visa stamping appointment and interview prep"},
+        {"step": 2, "problem": "Landing setup: SSN, bank account, credit card with no credit history, apartment deposit"},
+        {"step": 3, "problem": "First US tax return as a new arrival"},
+        {"step": 4, "problem": "H-1B extension or transfer with premium processing", "price_text": "$2,965", "url": "https://www.vorys.com/publication-uscis-announces-increases-to-premium-processing-fees"},
+        {"step": 5, "problem": "Green card process (PERM, I-140) and the long wait"}
+      ],
+      "geography": ["US", "IN"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "[thin] A real moving-countries transition with a large forum, but only one price was seen before the search budget ran out. Depth is not on the ledger. Kept because the r/h1b page itself shows the room's talk (stamping, appointments, bank accounts).",
+      "confidence": "low"
+    },
+    {
+      "slug": "mba-applicants-gmat-global",
+      "name": "MBA applicants preparing for the GMAT and applying to business schools",
+      "lens": "transition",
+      "origin": "generated",
+      "who": "Working professionals worldwide, with India the largest source, who are studying for the GMAT or GRE and applying to MBA programs in the next 6 to 18 months, then borrowing to pay for them and recruiting for finance or consulting once in.",
+      "where": [
+        {"name": "GMAT Club forum", "url": "https://gmatclub.com/forum/"},
+        {"name": "GMAT Club admissions consultant reviews", "url": "https://gmatclub.com/reviews/admissions_consultants"},
+        {"name": "r/MBA (Reddit; stats page seen)", "url": "https://gummysearch.com/r/MBA/"},
+        {"name": "Beat The GMAT forum", "url": "https://www.beatthegmat.com/best-admission-consultants-for-mba-with-pricing-t119031.html"}
+      ],
+      "who_pays": "The applicant pays for prep, the exam and consultants out of savings. Lenders such as Prodigy Finance fund the degree.",
+      "size": {"value": 332000, "unit": "r/MBA members", "tag": "measured", "url": "https://gummysearch.com/r/MBA/", "reasoning": "Seen in a search result for the r/MBA stats page. GMAT Club's forum page was also seen and claims over 1 million members."},
+      "ladder": [
+        {"step": 1, "problem": "GMAT prep course", "price_text": "$99 per month", "url": "https://e-student.org/target-test-prep-gmat/"},
+        {"step": 2, "problem": "GMAT exam registration", "price_text": "$275 USD", "url": "https://test-ninjas.com/gmat-registration-fees-and-cost"},
+        {"step": 3, "problem": "Admissions consulting for essays and school choice", "price_text": "$3,000 for the first school and $1,000 for each additional school", "url": "https://gmatclub.com/forum/admissions-consulting-fees-362841.html"},
+        {"step": 4, "problem": "MBA loan without a co-signer", "price_text": "11.99%", "url": "https://prodigyfinance.com/courses/mba-programmes/"},
+        {"step": 5, "problem": "Relocation and student visa"},
+        {"step": 6, "problem": "Recruiting for investment banking or consulting during the MBA", "price_text": "$199.99", "url": "https://www.wallstreetoasis.com/courses/interview-prep/investment-banking"}
+      ],
+      "geography": ["GLOBAL", "IN", "US"],
+      "venture_overlap": ["v1"],
+      "duplicate_of": null,
+      "reasoning": "A long, well-priced ladder from prep to loans to recruiting, with two big forums. Many MBA programs accept the GRE, so the founder's GRE product touches step 1, and the finance recruiting step sits in the founder's strongest depth.",
+      "confidence": "high"
+    },
+    {
+      "slug": "cat-aspirants-india",
+      "name": "Indian graduates preparing for the CAT to enter an IIM or a top Indian MBA",
+      "lens": "transition",
+      "origin": "generated",
+      "who": "Final-year students and young professionals in India preparing for the CAT held each November, then the GD-PI-WAT interview rounds in January to March, to join a two-year MBA in India.",
+      "where": [
+        {"name": "PaGaLGuY forum (URL seen is the Wikipedia page about it; the forum has over 400,000 users)", "url": "https://en.wikipedia.org/wiki/PaGaLGuY"},
+        {"name": "Careers360 CAT question boards", "url": "https://www.careers360.com/question-which-sites-are-best-to-prepare-for-cat16"},
+        {"name": "MBAUniverse CAT hub (news and coaching comparisons)", "url": "https://www.mbauniverse.com/cat"}
+      ],
+      "who_pays": "The aspirant and parents pay coaching and mock fees up front. Banks fund the MBA fees later.",
+      "size": {"value": 295000, "unit": "candidates registered for CAT 2025", "tag": "measured", "url": "https://cracku.in/cat-2025-registered-candidates/", "reasoning": "Seen in a search result: 2.95 lakh registered, about 2.58 lakh appeared."},
+      "ladder": [
+        {"step": 1, "problem": "CAT coaching (classroom at TIME, IMS or Career Launcher)", "price_text": "Rs 55,000–75,000", "url": "https://www.mbauniverse.com/cat/coaching"},
+        {"step": 2, "problem": "Mock test series in the last 3 months", "price_text": "Rs 7,450", "url": "https://www.mbarendezvous.com/articles/ims-cat-coaching-institute-fees/"},
+        {"step": 3, "problem": "GD-PI-WAT interview prep after results"},
+        {"step": 4, "problem": "MBA fees and an education loan"},
+        {"step": 5, "problem": "Summer internship and final placement prep (finance and consulting interviews)"}
+      ],
+      "geography": ["IN"],
+      "venture_overlap": ["v1"],
+      "duplicate_of": null,
+      "reasoning": "A measured pool of about 3 lakh people on one exam date who pay for coaching and mocks, then interviews, then placements. Quant and verbal overlap with the founder's GRE depth; the placement step touches finance depth.",
+      "confidence": "high"
+    },
+    {
+      "slug": "ib-analyst-recruiting-students",
+      "name": "Students and recent graduates recruiting for investment banking analyst roles",
+      "lens": "transition",
+      "origin": "generated",
+      "who": "Undergraduates, master's students and career changers worldwide preparing for investment banking summer analyst and full-time interviews: technical questions, modeling tests, networking and resume rounds on a fixed recruiting calendar.",
+      "where": [
+        {"name": "Wall Street Oasis forum (thread on IB prep courses)", "url": "https://www.wallstreetoasis.com/forum/investment-banking/best-online-ib-prep-course"},
+        {"name": "Mergers & Inquisitions (blog hub with reader comments)", "url": "https://mergersandinquisitions.com/breaking-into-wall-street-biws/"},
+        {"name": "IGotAnOffer (prep site with comparison pages)", "url": "https://igotanoffer.com/en/advice/wall-street-prep-alternatives"}
+      ],
+      "who_pays": "The candidate pays for guides, courses and coaching from savings or parents. Nobody else pays until they are hired.",
+      "size": {"value": 50000, "unit": "active IB candidates per recruiting cycle, worldwide", "tag": "estimate", "reasoning": "[thin] No measured number was seen. WSO is the main global forum and several vendors sell to this room; the yearly candidate pool is in the tens of thousands."},
+      "ladder": [
+        {"step": 1, "problem": "Interview prep guide and question bank", "price_text": "$199.99", "url": "https://www.wallstreetoasis.com/courses/interview-prep/investment-banking"},
+        {"step": 2, "problem": "Financial modeling training before modeling tests", "price_text": "$497", "url": "https://breakingintowallstreet.com/platinum/"},
+        {"step": 3, "problem": "Networking, resume review and mock interviews with a coach"},
+        {"step": 4, "problem": "First-year analyst survival: live deal modeling and long hours"},
+        {"step": 5, "problem": "Exit recruiting for private equity or an MBA"}
+      ],
+      "geography": ["GLOBAL", "US", "GB", "IN"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "One goal, one recruiting calendar, one big forum, and vendors with public prices. The founder's depth (corporate finance, valuation) and warm path (banking colleagues) fit. Distinct from the profession-lens analyst room: these people are not yet in the job.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "laid-off-tech-workers",
+      "name": "Tech workers laid off in the last 90 days",
+      "lens": "transition",
+      "origin": "generated",
+      "who": "Software engineers, product and operations staff worldwide who just lost their jobs in the 2026 tech layoffs and must find the next role fast. A slice are on H-1B visas with a 60-day clock to find a new sponsor.",
+      "where": [
+        {"name": "Blind layoffs threads", "url": "https://www.teamblind.com/post/total-known-count-of-tech-layoffs-o0rzobrk"},
+        {"name": "Blind company layoff boards", "url": "https://www.teamblind.com/company/Reddit/posts/reddit-layoffs"},
+        {"name": "Layoffs.fyi tracker", "url": "https://layoffs.fyi/"},
+        {"name": "TrueUp layoffs tracker", "url": "https://www.trueup.io/layoffs"},
+        {"name": "r/h1b (Reddit; stats page seen) for the visa slice", "url": "https://gummysearch.com/r/h1b/"}
+      ],
+      "who_pays": "The laid-off worker pays from severance and savings for resumes, coaching and, on a visa, premium processing.",
+      "size": {"value": 128536, "unit": "tech employees laid off at 299 companies in 2026 by 10 September", "tag": "measured", "url": "https://layoffs.fyi/2026-layoffs/", "reasoning": "Seen in a search result for the Layoffs.fyi 2026 page. TrueUp counts more (190,058)."},
+      "ladder": [
+        {"step": 1, "problem": "Resume rewrite for the new search", "price_text": "$179", "url": "https://kinetk.io/blog/resume-writer-cost-2026/"},
+        {"step": 2, "problem": "Career coaching and interview prep", "price_text": "$75–$200 per hour", "url": "https://www.resumeble.com/career-advice/resume-services-cost"},
+        {"step": 3, "problem": "Health cover, severance and unemployment decisions"},
+        {"step": 4, "problem": "For visa holders: H-1B transfer with premium processing inside 60 days", "price_text": "$2,965", "url": "https://www.vorys.com/publication-uscis-announces-increases-to-premium-processing-fees"},
+        {"step": 5, "problem": "Upskilling for the next role (AI tooling, new stack)"}
+      ],
+      "geography": ["GLOBAL", "US", "IN"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "A sharp shared event with a public count, active gathering places and clear paid steps. The ledger's depth list has no job-search domain, so Stage 2 may cut it; included because reach (search) and spend are plain.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "first-time-managers",
+      "name": "Individual contributors newly promoted to their first manager role",
+      "lens": "transition",
+      "origin": "generated",
+      "who": "People, often engineers and analysts, promoted in the last year to manage a team for the first time. They struggle with 1:1s, feedback, hiring, firing, and losing their own hands-on work.",
+      "where": [
+        {"name": "r/managers (Reddit; stats page seen)", "url": "https://gummysearch.com/r/managers/"},
+        {"name": "Rands Leadership Slack (Hive Index listing)", "url": "https://thehiveindex.com/communities/rands-leadership-slack/"},
+        {"name": "Rands Leadership Slack (welcome page)", "url": "https://randsinrepose.com/welcome-to-rands-leadership-slack/"}
+      ],
+      "who_pays": "Usually the employer's training budget for bootcamps and coaching; the manager pays for books, courses and some coaching personally.",
+      "size": {"value": 271000, "unit": "r/managers members", "tag": "measured", "url": "https://gummysearch.com/r/managers/", "reasoning": "Seen in a search result for the r/managers stats page. Rands Leadership Slack lists about 16K members on the Hive Index page."},
+      "ladder": [
+        {"step": 1, "problem": "New-manager bootcamp or course in the first 90 days", "price_text": "$500 per person", "url": "https://www.evolution2revolution.com/new-manager-bootcamp"},
+        {"step": 2, "problem": "Business-school manager program in the first year", "price_text": "$5,400.00", "url": "https://executive.berkeley.edu/programs/new-manager-boot-camp"},
+        {"step": 3, "problem": "1:1 leadership coaching through hiring, performance and firing decisions"},
+        {"step": 4, "problem": "Managing managers: senior manager or director transition program"},
+        {"step": 5, "problem": "Executive education when moving to director or VP"}
+      ],
+      "geography": ["GLOBAL"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "A clear event with a large, active forum and paid programs at every level. Management is not on the ledger's depth list, but the founder's supply (accountability coaching, cohorts) matches how this room buys. Stage 2 decides.",
+      "confidence": "high"
+    },
+    {
+      "slug": "first-time-founders-pre-seed",
+      "name": "First-time founders setting up a company and raising a first round",
+      "lens": "transition",
+      "origin": "generated",
+      "who": "People who left or are leaving a job to start a software or online business, worldwide. In the first two years they incorporate, find first customers, and decide whether and how to raise a pre-seed round.",
+      "where": [
+        {"name": "r/indiehackers (Reddit; guide page seen)", "url": "https://redditagency.com/subreddits/r/indiehackers"},
+        {"name": "Hacker News", "url": "https://news.ycombinator.com/item?id=19975525"},
+        {"name": "DEV Community thread on where founders get feedback", "url": "https://dev.to/uuki/what-are-some-great-websites-to-get-feedback-on-startup-ideas-34pc"},
+        {"name": "MiniStartup community (Gumroad listing)", "url": "https://avinashvagh.gumroad.com/l/MiniStartup-Community"},
+        {"name": "Stripe Atlas (marketplace they buy from)", "url": "https://stripe.com/atlas"}
+      ],
+      "who_pays": "The founder pays from savings for incorporation, legal templates and advice until investors fund the company.",
+      "size": {"value": 100000, "unit": "first-time software founders incorporating per year, worldwide", "tag": "estimate", "reasoning": "[thin] No measured number was seen. Stripe Atlas and its competitors sell incorporation at scale and several large forums exist; the yearly pool is in the low hundreds of thousands at most."},
+      "ladder": [
+        {"step": 1, "problem": "Incorporation (US Delaware C-corp or LLC from anywhere)", "price_text": "$500", "url": "https://sparklaun.ch/compare/stripe-atlas"},
+        {"step": 2, "problem": "Yearly compliance: registered agent renewal and Delaware franchise tax", "price_text": "$100 Renewal", "url": "https://sparklaun.ch/compare/stripe-atlas"},
+        {"step": 3, "problem": "First customers and launch feedback"},
+        {"step": 4, "problem": "Pre-seed raise: pitch deck, SAFE terms, valuation and investor list"},
+        {"step": 5, "problem": "Accounting, tax filings and first hires"}
+      ],
+      "geography": ["GLOBAL"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "A clear event (starting a company) with public prices at the first steps and big forums. The fundraising step sits in the founder's strongest depth (valuation, deal documents). Prices for legal and deck help were not seen before the search budget ran out.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "first-time-d2c-brand-founders",
+      "name": "People launching their first consumer product brand online",
+      "lens": "transition",
+      "origin": "generated",
+      "who": "First-time sellers worldwide launching a physical product brand on Shopify or Amazon in the next year: sourcing samples, setting up the store or seller account, trademark and brand registry, ads, and fulfilment.",
+      "where": [
+        {"name": "r/ecommerce (Reddit; listed on SubredditAnalyzer's ecommerce page)", "url": "https://www.subredditanalyzer.com/best-subreddits-for/ecommerce"},
+        {"name": "r/shopify (Reddit; same listing)", "url": "https://www.subredditanalyzer.com/best-subreddits-for/ecommerce"},
+        {"name": "r/FulfillmentByAmazon (Reddit; same listing)", "url": "https://www.subredditanalyzer.com/best-subreddits-for/ecommerce"},
+        {"name": "r/DTCmarketing (Reddit; same listing)", "url": "https://www.subredditanalyzer.com/best-subreddits-for/ecommerce"}
+      ],
+      "who_pays": "The founder pays from savings for samples, store fees, trademark filing, ads and agencies.",
+      "size": {"value": 50000, "unit": "first-time brand launches per year, worldwide", "tag": "estimate", "reasoning": "[thin] No measured number was seen. Four active subreddits serve this room; the yearly pool of first-time launches is in the tens of thousands."},
+      "ladder": [
+        {"step": 1, "problem": "Product sourcing and samples from a manufacturer"},
+        {"step": 2, "problem": "Store or seller account setup (Shopify plan, Amazon professional account)"},
+        {"step": 3, "problem": "Trademark filing and Amazon Brand Registry"},
+        {"step": 4, "problem": "Paid ads and creative, often through an agency"},
+        {"step": 5, "problem": "Fulfilment and returns (3PL or FBA)"}
+      ],
+      "geography": ["GLOBAL"],
+      "venture_overlap": ["v2"],
+      "duplicate_of": null,
+      "reasoning": "[thin] A real transition with named gathering places, but no prices were seen before the search budget ran out, and all four places share one source URL. Kept because it touches the founder's perfume brand (v2) and the profession-lens perfumer room is only a subset of it.",
+      "confidence": "low"
+    }
+  ]
+}
