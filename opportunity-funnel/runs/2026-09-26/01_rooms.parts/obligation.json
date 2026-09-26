@@ -1,0 +1,393 @@
+{
+  "lens": "obligation",
+  "origin": "generated",
+  "grounding_note": "[thin] Written 2026-09-26 with NO live web grounding: the session's WebSearch budget was exhausted (200 of 200) before this pass ran, and every domain tried through WebFetch was blocked by the network egress proxy. Every 'where' entry carries 'seen_via': 'search (this run)' means the URL appeared in a web-search result during this run (captured by the life_stage or profession pass) and was reused as-is; 'unverified' means a well-known community root written from memory and NOT seen this session. Every price_text and every 'measured' size reuses a URL seen in this run's search results; nothing else is called measured. A re-grounding pass with a fresh search budget should verify every 'unverified' URL, add prices, and replace estimates. Listed for REVIEW.md.",
+  "rooms": [
+    {
+      "slug": "h1b-workers-status-clock",
+      "name": "H-1B workers in the US facing extensions, transfers and the 60-day grace clock",
+      "lens": "obligation",
+      "origin": "generated",
+      "who": "People working in the US on H-1B status, a large share of them Indian engineers. Their status has an expiry date. They must file an extension before it, move the visa to a new employer within 60 days if they lose a job, and re-enter the March lottery if they are still on OPT. Missing a date means leaving the country.",
+      "where": [
+        {"name": "r/h1b (137k members; stats page)", "url": "https://gummysearch.com/r/h1b/", "seen_via": "search (this run)"},
+        {"name": "Blind: F1Visa and H-1B discussion (topic search page)", "url": "https://www.teamblind.com/search/F1Visa", "seen_via": "search (this run)"},
+        {"name": "OPTnation job board (OPT and H-1B sponsor jobs)", "url": "https://www.optnation.com/", "seen_via": "search (this run)"}
+      ],
+      "who_pays": "The worker pays when the employer will not: lawyer fees for a transfer, premium processing to beat a deadline, and fallback programs (Day 1 CPT) when status is about to lapse. Employers pay the base petition fees.",
+      "size": {"value": 137000, "unit": "members of r/h1b", "tag": "measured", "url": "https://gummysearch.com/r/h1b/", "reasoning": "The subreddit count is a proxy seen on a stats page in this run's search results. The real room (H-1B holders in the US) is several hundred thousand people; a large share are Indian [estimate]."},
+      "ladder": [
+        {"step": 1, "problem": "Get registered in the H-1B lottery through the employer before the March window closes", "price_text": "$215", "url": "https://www.immi-usa.com/h1b-lottery-timeline-application-registration-fees/"},
+        {"step": 2, "problem": "File an extension or a transfer petition before the current status expires (lawyer fees plus USCIS fees; premium processing when the date is close)"},
+        {"step": 3, "problem": "Find a new sponsor inside the 60-day grace period: US resume, LinkedIn and a sponsor target list", "price_text": "from $99", "url": "https://profileelevate.com/for/international-students/"},
+        {"step": 4, "problem": "Fallback when no sponsor is found in time: change status to a student program (Day 1 CPT)", "price_text": "$18,000 to over $50,000 per program", "url": "https://cptdog.com/day-1-cpt-cost"},
+        {"step": 5, "problem": "Start the green card (PERM, I-140) and keep it alive through job moves, with the six-year H-1B limit as the outer deadline"}
+      ],
+      "geography": ["US", "IN"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "A hard-deadline room: status expiry, the 60-day grace period and the annual lottery force action on fixed dates, and the people gather on r/h1b and Blind to compare timelines and lawyers. Many are former Indian GRE takers three to six years on, so it sits downstream of the founder's warm path, but the core filings need a licensed immigration lawyer, which the founder can only rent. Distinct from the OPT job-hunt room (life_stage): this room already holds the visa.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "indian-fno-traders-itr3-tax-audit",
+      "name": "Indian F&O traders facing ITR-3 filing and tax-audit deadlines",
+      "lens": "obligation",
+      "origin": "generated",
+      "who": "Retail traders in India who trade futures and options. The tax office treats it as business income. They must file ITR-3 by the due date, get a tax audit when turnover or loss rules require it, pay advance tax each quarter, and file on time or lose the right to carry forward losses. Most learn this after their first loss-making year.",
+      "where": [
+        {"name": "TradingQnA (Zerodha's public trading Q&A forum)", "url": "https://tradingqna.com/", "seen_via": "unverified"},
+        {"name": "r/IndianStreetBets", "url": "https://www.reddit.com/r/IndianStreetBets/", "seen_via": "unverified"},
+        {"name": "CAclubindia forum (3 million+ members; article seen in this run)", "url": "https://www.caclubindia.com/articles/best-investment-banking-roles-for-chartered-accountants-moving-from-audit-54396.asp", "seen_via": "search (this run)"}
+      ],
+      "who_pays": "The trader pays a chartered accountant for the ITR-3 and the audit, and pays brokers or tax sites for paid tax reports. Late filing costs a penalty plus the lost loss carry-forward.",
+      "size": {"value": 3000000, "unit": "individual F&O traders in India per year", "tag": "estimate", "reasoning": "SEBI studies since 2023 have described the individual F&O trader base as several million people per year; the subset that must file ITR-3 with an audit is smaller but still in the hundreds of thousands. No page was reachable this session to cite, so this is an estimate."},
+      "ladder": [
+        {"step": 1, "problem": "Work out F&O turnover and file ITR-3 (business income) before the due date"},
+        {"step": 2, "problem": "Tax audit under section 44AB when turnover or a loss with low presumptive income triggers it (CA audit fee)"},
+        {"step": 3, "problem": "Quarterly advance tax and loss set-off so the carry-forward is not lost"},
+        {"step": 4, "problem": "Answer income-tax notices and AIS mismatches after filing"},
+        {"step": 5, "problem": "Trade with better records: paid analytics and journal tools that also feed the tax file"}
+      ],
+      "geography": ["IN"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "An obligation slice of the retail options-trader room (profession lens): the same people, but at the point where a filing date and an audit rule force them to pay. They already gather on TradingQnA and r/IndianStreetBets and ask the same tax questions each July. The founder has moderate depth in options trading, not in Indian tax; filings need a CA, which the ledger says can be rented. [thin] Two of three places are unverified this session.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "nri-indian-tax-filers",
+      "name": "NRIs with Indian income filing Indian tax returns and moving money abroad",
+      "lens": "obligation",
+      "origin": "generated",
+      "who": "Indians living abroad, many of whom left for a master's or a job, who still earn in India: rent, deposits, shares, or a property sale. They must file an Indian return by the due date, recover high TDS, get CA certificates to send money out of an NRO account, and stay inside FEMA rules. The deadlines repeat every year.",
+      "where": [
+        {"name": "r/nri", "url": "https://www.reddit.com/r/nri/", "seen_via": "unverified"},
+        {"name": "r/IndiaTax", "url": "https://www.reddit.com/r/IndiaTax/", "seen_via": "unverified"},
+        {"name": "CAclubindia (3 million+ members; home page seen in this run)", "url": "https://www.caclubindia.com/", "seen_via": "search (this run)"}
+      ],
+      "who_pays": "The NRI pays a CA or an online NRI tax-filing service for the return, the Form 15CA/15CB certificates and the lower-TDS certificate; buyers of their property withhold tax that they must then claim back.",
+      "size": {"value": 1500000, "unit": "NRIs filing Indian returns per year", "tag": "estimate", "reasoning": "The Indian diaspora is above 30 million; the share with taxable Indian income who file each year is a fraction. Estimate, no page reachable this session."},
+      "ladder": [
+        {"step": 1, "problem": "File the Indian return as a non-resident and claim the TDS refund before the due date"},
+        {"step": 2, "problem": "Get a lower or nil TDS certificate (Form 13) or DTAA relief so less is withheld next year"},
+        {"step": 3, "problem": "Move money from NRO to NRE or abroad with Form 15CA and a CA's 15CB certificate"},
+        {"step": 4, "problem": "Sell Indian property: buyer's TDS, capital gains, reinvestment exemptions, and repatriating the proceeds"},
+        {"step": 5, "problem": "Return-to-India planning: RNOR status and foreign asset disclosure"}
+      ],
+      "geography": ["IN", "GLOBAL"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "Same people, every year, same fixed date, and they gather on r/nri and r/IndiaTax to ask the same questions. Many are the founder's GRE users five to ten years on. The filings need a CA (rentable); tax is not in the ledger's depth list, so Stage 2 may fail it on depth. [thin] Two of three places are unverified this session.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "indian-pvt-ltd-annual-roc-compliance",
+      "name": "Founders of Indian private limited companies facing annual ROC, audit and GST deadlines",
+      "lens": "obligation",
+      "origin": "generated",
+      "who": "Founders and directors of small Indian private limited companies and LLPs. Every year they must get a statutory audit, file AOC-4 and MGT-7 with the Registrar of Companies, file DIR-3 KYC for each director, and file GST returns monthly or quarterly. Penalties run per day of delay, and directors can be disqualified.",
+      "where": [
+        {"name": "CAclubindia (3 million+ members; home page seen in this run)", "url": "https://www.caclubindia.com/", "seen_via": "search (this run)"},
+        {"name": "r/StartUpIndia", "url": "https://www.reddit.com/r/StartUpIndia/", "seen_via": "unverified"},
+        {"name": "r/startups (2.1M members; stats page; global founders)", "url": "https://gummysearch.com/r/startups/", "seen_via": "search (this run)"},
+        {"name": "Indie Hackers community (global founders)", "url": "https://www.indiehackers.com/", "seen_via": "search (this run)"}
+      ],
+      "who_pays": "The company pays a CA or CS firm, or an online compliance service, a yearly package for the filings and audit, plus penalties when late.",
+      "size": {"value": 1500000, "unit": "active companies registered with the MCA", "tag": "estimate", "reasoning": "MCA monthly bulletins have put active companies above 1.5 million for several years; most are small private limited companies with the same annual filings. Estimate, no page reachable this session."},
+      "ladder": [
+        {"step": 1, "problem": "First-year setup: auditor appointment, commencement filing, GST registration"},
+        {"step": 2, "problem": "Annual ROC filings (AOC-4, MGT-7) and the statutory audit before the due dates"},
+        {"step": 3, "problem": "Monthly or quarterly GST returns and reconciliation with vendors"},
+        {"step": 4, "problem": "Raising a round: pitch deck, valuation report and share-allotment filings", "price_text": "$2,000–$5,000", "url": "https://www.spectup.com/resource-hub/how-much-does-a-pitch-deck-cost"},
+        {"step": 5, "problem": "Finance function as the company grows: MIS, fractional CFO, investor reporting", "price_text": "$5,000 and $10,000 per month", "url": "https://pilot.com/blog/fractional-cfo-cost-guide"}
+      ],
+      "geography": ["IN"],
+      "venture_overlap": ["v4"],
+      "duplicate_of": null,
+      "reasoning": "Every Indian company faces the same dated filings each year and founders swap CA recommendations and penalty stories on CAclubindia and r/StartUpIndia. TinyAI's client base is Indian businesses, so there is a warm-ish path, and the later steps (valuation, investor reporting) sit in the founder's corporate-finance depth; the compliance core needs a CA or CS, which is rentable. The two seen global founder places are weaker evidence than the Indian ones.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "uae-businesses-corporate-tax-filing",
+      "name": "UAE small and mid-sized businesses facing corporate tax registration and first returns",
+      "lens": "obligation",
+      "origin": "generated",
+      "who": "Owners and finance leads of mainland and free-zone companies in the UAE. Since the 9% corporate tax began, each company must register by a set date, keep books good enough to file, submit the return within nine months of year end, and keep filing VAT returns. Free-zone firms must prove qualifying income to keep the 0% rate. Late registration and late filing carry fixed penalties.",
+      "where": [
+        {"name": "r/dubai", "url": "https://www.reddit.com/r/dubai/", "seen_via": "unverified"},
+        {"name": "r/UAE", "url": "https://www.reddit.com/r/UAE/", "seen_via": "unverified"}
+      ],
+      "who_pays": "The company pays a registered tax agent or an accounting firm for registration, bookkeeping clean-up, the return and transfer-pricing disclosures, and pays penalties when late.",
+      "size": {"value": 500000, "unit": "licensed businesses in the UAE", "tag": "estimate", "reasoning": "UAE authorities have reported hundreds of thousands of business licences across mainland and free zones; nearly all fall under corporate tax registration. Estimate, no page reachable this session."},
+      "ladder": [
+        {"step": 1, "problem": "Corporate tax registration and choosing the tax period before the registration deadline"},
+        {"step": 2, "problem": "First corporate tax return with transfer-pricing disclosures, nine months after year end"},
+        {"step": 3, "problem": "Audited financial statements where required, and free-zone qualifying-income tests"},
+        {"step": 4, "problem": "Quarterly VAT returns, refunds and voluntary disclosures"},
+        {"step": 5, "problem": "Economic substance, UBO and AML filings for the same company"}
+      ],
+      "geography": ["AE"],
+      "venture_overlap": ["v4"],
+      "duplicate_of": null,
+      "reasoning": "A new, dated obligation for every UAE company, with a visible rush before each deadline, and business owners already ask on r/dubai and r/UAE who to hire. TinyAI's Gulf clients give a partial warm path and corporate finance depth covers the bookkeeping side; the return itself needs a registered tax agent (rentable). [thin] Both places are unverified this session and no price was seen.",
+      "confidence": "low"
+    },
+    {
+      "slug": "nism-certification-renewers-india",
+      "name": "Indian mutual fund distributors, advisers and analysts facing NISM certification and SEBI renewals",
+      "lens": "obligation",
+      "origin": "generated",
+      "who": "Mutual fund distributors (ARN holders), SEBI-registered investment advisers and research analysts, and people applying to become one. They must pass a NISM exam to enter, renew the certificate every three years or do continuing education, keep the SEBI or AMFI registration alive with fees and paperwork, and (advisers and analysts) pass a yearly compliance audit. Miss a date and they cannot legally earn.",
+      "where": [
+        {"name": "r/IndiaInvestments", "url": "https://www.reddit.com/r/IndiaInvestments/", "seen_via": "unverified"},
+        {"name": "Cafemutual (news and discussion site for mutual fund distributors)", "url": "https://www.cafemutual.com/", "seen_via": "unverified"},
+        {"name": "CAclubindia (3 million+ members; home page seen in this run)", "url": "https://www.caclubindia.com/", "seen_via": "search (this run)"}
+      ],
+      "who_pays": "The individual pays exam and CPE fees, registration and renewal fees, and a compliance auditor; small firms pay a compliance officer or consultant.",
+      "size": {"value": 150000, "unit": "ARN holders plus SEBI-registered advisers and analysts", "tag": "estimate", "reasoning": "AMFI has reported well over a hundred thousand ARN holders; SEBI-registered advisers and analysts add a few thousand. Estimate, no page reachable this session."},
+      "ladder": [
+        {"step": 1, "problem": "Pass the NISM exam (Series V-A for distributors, X-A/X-B for advisers, XV for analysts): prep and exam fee"},
+        {"step": 2, "problem": "Get registered: ARN with AMFI or a SEBI registration, with fees and documents"},
+        {"step": 3, "problem": "Renew the certificate every three years or complete CPE before it lapses"},
+        {"step": 4, "problem": "Annual compliance audit and industry-body membership (advisers and analysts)"},
+        {"step": 5, "problem": "Tools to run the practice: client onboarding, KYC, reporting"}
+      ],
+      "geography": ["IN"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "A recurring, rule-driven obligation for a defined group that gathers around the exam and the renewals. The founder's finance depth helps with exam content, and serving intermediaries' exams and compliance is not itself regulated advice, but the ledger's exclusion on regulated investment advice must be respected at product design. [thin] Two of three places unverified; room size on the advisory side is small.",
+      "confidence": "low"
+    },
+    {
+      "slug": "finra-series-79-sie-new-hires",
+      "name": "New investment banking hires who must pass the SIE and Series 79 within their firm's window",
+      "lens": "obligation",
+      "origin": "generated",
+      "who": "First-year analysts and associates at US broker-dealers, and overseas hires moved into US-registered roles. Within a fixed number of days of starting (often around 120), they must pass FINRA's SIE, the Series 79 and usually the Series 63. Until they pass they cannot work on live deals; failing twice can cost the job. Every year after that, a continuing-education deadline returns.",
+      "where": [
+        {"name": "r/FinancialCareers (over 741,000 members; described here)", "url": "https://emeritus.org/blog/best-finance-jobs-reddit/", "seen_via": "search (this run)"},
+        {"name": "Wall Street Oasis, Investment Banking forum", "url": "https://www.wallstreetoasis.com/forum/investment-banking", "seen_via": "search (this run)"}
+      ],
+      "who_pays": "The firm usually pays the exam fee and a standard prep package; the hire pays for extra question banks and tutoring, and pays with the job if they fail.",
+      "size": {"value": 8000, "unit": "new US investment banking hires per year", "tag": "estimate", "reasoning": "Bulge-bracket, elite boutique and middle-market banks together hire several thousand analysts and associates a year in the US, and nearly all must register. Estimate, no page reachable this session."},
+      "ladder": [
+        {"step": 1, "problem": "Pass the SIE and Series 79 inside the firm's window: question banks, cram plans, tutoring"},
+        {"step": 2, "problem": "Series 63 and state registration right after"},
+        {"step": 3, "problem": "Get deal-ready fast: three-statement and DCF modelling before the first live mandate", "price_text": "$499", "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/"},
+        {"step": 4, "problem": "Yearly FINRA continuing education (Regulatory Element) before the December 31 deadline"},
+        {"step": 5, "problem": "Add the CFA for the next move (Level I registration)", "price_text": "US$1,140", "url": "https://finance.uworld.com/cfa/registration-cost-fees/"}
+      ],
+      "geography": ["US", "GLOBAL"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "A dated, job-critical exam for a group the founder can reach warmly (investment banking colleagues) and whose content sits inside corporate-finance depth. Both places were seen in this run. It is an obligation slice of the IB analysts room (profession lens), not a duplicate: the exam deadline is the trigger.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "frm-candidates-exam-windows",
+      "name": "FRM candidates racing registration deadlines and exam windows",
+      "lens": "obligation",
+      "origin": "generated",
+      "who": "Risk, treasury, audit and finance staff, many in India and East Asia, who have registered for GARP's FRM Part I or Part II. The exams run in fixed windows (May, August, November), early registration is cheaper than standard, and Part II must be passed within four years of Part I or the candidate starts over.",
+      "where": [
+        {"name": "AnalystForum (CFA and FRM candidate forum)", "url": "https://www.analystforum.com/", "seen_via": "search (this run)"},
+        {"name": "r/FRM", "url": "https://www.reddit.com/r/FRM/", "seen_via": "unverified"},
+        {"name": "r/CFA (216k members; stats page; FRM threads appear here too)", "url": "https://gummysearch.com/r/CFA/", "seen_via": "search (this run)"}
+      ],
+      "who_pays": "The candidate pays GARP's enrolment and exam fees and a prep provider; some employers reimburse on passing.",
+      "size": {"value": 60000, "unit": "FRM exam registrations per year", "tag": "estimate", "reasoning": "GARP has described tens of thousands of candidates per exam year across both parts, with India and China the largest sources. Estimate, no page reachable this session."},
+      "ladder": [
+        {"step": 1, "problem": "Part I: register before the early deadline and prepare (quant methods, markets, valuation)"},
+        {"step": 2, "problem": "Part II: register and prepare within the four-year limit"},
+        {"step": 3, "problem": "Certification: submit two years of risk work experience and pay GARP membership"},
+        {"step": 4, "problem": "Next credential for the desired role, often the CFA (Level I registration)", "price_text": "US$1,140", "url": "https://finance.uworld.com/cfa/registration-cost-fees/"}
+      ],
+      "geography": ["GLOBAL", "IN"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "A fixed-window exam with fee deadlines and a four-year clock, and candidates gather on AnalystForum and r/FRM. Finance professionals are a warm path and much of Part I is corporate finance and quant, which the founder can judge; risk management itself is not in the depth list. Distinct from the CFA Level I room (life_stage): different exam, overlapping people.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "dpdp-compliance-indian-data-businesses",
+      "name": "Indian businesses holding customer data facing DPDP Act compliance deadlines",
+      "lens": "obligation",
+      "origin": "generated",
+      "who": "Lenders, hospitals, ed-tech firms, D2C brands and call centres in India that hold personal data. The Digital Personal Data Protection Act and its rules set a phased timeline: consent notices, breach reporting, grievance handling, data deletion after use, and extra duties for large data fiduciaries, with fines that can reach hundreds of crores. Most have no one who owns this.",
+      "where": [
+        {"name": "r/developersIndia (1,594,432 members; stats page)", "url": "https://reddapi.dev/subreddits/developersindia/insights", "seen_via": "search (this run)"},
+        {"name": "r/StartUpIndia", "url": "https://www.reddit.com/r/StartUpIndia/", "seen_via": "unverified"},
+        {"name": "IAPP (privacy professionals' body with India chapters)", "url": "https://iapp.org/", "seen_via": "unverified"}
+      ],
+      "who_pays": "The business pays a law firm or consultant for a gap assessment and policies, a vendor for consent management, and a data protection officer or outsourced equivalent when it is a significant data fiduciary.",
+      "size": {"value": 100000, "unit": "Indian businesses with meaningful personal-data volumes", "tag": "estimate", "reasoning": "Every Indian company processing personal data is covered; the set with enough customer records to need a project (lenders, hospitals, ed-tech, D2C, BPOs) is in the tens to low hundreds of thousands. Estimate, no page reachable this session."},
+      "ladder": [
+        {"step": 1, "problem": "Gap assessment and rewrite of privacy notices and consent flows before the rules bite"},
+        {"step": 2, "problem": "Consent management and data-retention deletion built into the systems"},
+        {"step": 3, "problem": "Breach-response and grievance process, plus a DPO for significant data fiduciaries"},
+        {"step": 4, "problem": "Consent and disclosure in call recordings, WhatsApp bots and voice agents"},
+        {"step": 5, "problem": "Yearly audit and data-protection impact assessments for significant data fiduciaries"}
+      ],
+      "geography": ["IN"],
+      "venture_overlap": ["v4"],
+      "duplicate_of": null,
+      "reasoning": "A new law with dated obligations for exactly the businesses TinyAI already sells to (call-heavy lenders, hospitals, ed-tech, D2C), so warm reach exists, and step 4 sits squarely in the founder's voice-agent and call-auditing depth. Legal sign-off needs a lawyer (rentable). [thin] Two of three places unverified this session.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "trai-dlt-160-series-outbound-callers",
+      "name": "Indian businesses making outbound calls and SMS facing TRAI's DLT and 160-series rules",
+      "lens": "obligation",
+      "origin": "generated",
+      "who": "Businesses in India that run outbound sales and service calls at scale: lenders, insurers, ed-tech, D2C brands, hospitals, real estate. TRAI's rules make them register on the DLT platform, register headers and message templates, move promotional and transactional calls to 140 and 160-series numbers, keep consent records, and stay under spam-complaint limits or get their numbers blocked.",
+      "where": [
+        {"name": "ICMI Contact Center Community", "url": "https://www.icmi.com/resources/icmi-contact-center-community", "seen_via": "search (this run)"},
+        {"name": "Call Centre Helper (industry site with reader discussion)", "url": "https://www.callcentrehelper.com/icmi-contact-center-demo-130401.htm", "seen_via": "search (this run)"},
+        {"name": "r/developersIndia (1,594,432 members; stats page)", "url": "https://reddapi.dev/subreddits/developersindia/insights", "seen_via": "search (this run)"}
+      ],
+      "who_pays": "The business pays telecom operators and aggregators for DLT registration and 160-series numbers, CPaaS vendors for compliant routing, and QA or call-auditing vendors to prove consent.",
+      "size": {"value": 30000, "unit": "Indian businesses registered as principal entities on DLT", "tag": "estimate", "reasoning": "Industry reports describe tens of thousands of principal entities on the DLT platforms; the subset with large call volumes matches TinyAI's target list. Estimate, no page reachable this session."},
+      "ladder": [
+        {"step": 1, "problem": "DLT entity, header and template registration, with consent templates"},
+        {"step": 2, "problem": "Migrate calls to 160-series numbers and dialers that respect the rules"},
+        {"step": 3, "problem": "Record and audit calls to prove consent and avoid blacklisting (QA software)", "price_text": "from $35 per user per month", "url": "https://www.guideflow.com/blog/contact-center-quality-assurance-software"},
+        {"step": 4, "problem": "Deploy AI callers that log consent and disclosures by design (platform usage)", "price_text": "$0.05 per minute", "url": "https://vapi.ai/pricing"},
+        {"step": 5, "problem": "Contact-centre quality certification demanded by enterprise clients"}
+      ],
+      "geography": ["IN"],
+      "venture_overlap": ["v4"],
+      "duplicate_of": null,
+      "reasoning": "A rule that bites the exact businesses in the founder's TinyAI warm path, and the fix lives in his strongest depth (voice agents, call auditing). The three places are global or developer communities where these rules get discussed, all seen this run; an India-specific telemarketer community was not verified. Distinct from the contact-centre ops managers room (profession): here the trigger is the regulator's deadline.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "eu-ai-act-deadline-ai-product-teams",
+      "name": "Teams building or deploying AI systems that face EU AI Act deadlines",
+      "lens": "obligation",
+      "origin": "generated",
+      "who": "Founders, product leads and agencies whose AI products (chatbots, voice agents, hiring or credit tools) are sold to or used in the EU, from anywhere in the world. Transparency and general-purpose AI duties apply from 2025 to 2026 and high-risk system rules from 2026 to 2027, with fines up to 7% of turnover. They must classify each system, document it, add disclosures and keep logs.",
+      "where": [
+        {"name": "r/AI_Agents (425,179 members; stats page)", "url": "https://prowlo.com/tools/subreddit-stats/ai_agents", "seen_via": "search (this run)"},
+        {"name": "Vapi Discord community (26,499 members)", "url": "https://discord.vapi.ai/", "seen_via": "search (this run)"},
+        {"name": "n8n Community forum", "url": "https://community.n8n.io/t/n8n-ai-automation-freelancer-for-digital-agency/79602", "seen_via": "search (this run)"},
+        {"name": "Indie Hackers community", "url": "https://www.indiehackers.com/", "seen_via": "search (this run)"}
+      ],
+      "who_pays": "The company pays lawyers or consultants for classification and documentation, compliance software, and notified bodies for high-risk conformity assessment; agencies pay because enterprise clients demand it in the contract.",
+      "size": {"value": 50000, "unit": "companies selling AI systems into the EU", "tag": "estimate", "reasoning": "The four seen communities together hold hundreds of thousands of AI builders; the share with EU customers and systems that fall under the Act's duties is a fraction. Estimate, no page reachable this session."},
+      "ladder": [
+        {"step": 1, "problem": "Classify each system by risk and train staff (AI literacy duty)"},
+        {"step": 2, "problem": "Transparency notices, technical documentation and logging for chatbots and voice agents"},
+        {"step": 3, "problem": "High-risk systems: quality management system, conformity assessment, CE marking"},
+        {"step": 4, "problem": "Post-market monitoring and incident reporting"},
+        {"step": 5, "problem": "Customer security and AI questionnaires, ISO 42001 or similar certification"}
+      ],
+      "geography": ["EU", "GLOBAL"],
+      "venture_overlap": ["v4", "v5"],
+      "duplicate_of": null,
+      "reasoning": "A dated law that lands on the founder's own trade (AI products for businesses), so he can judge what a compliant voice or WhatsApp agent looks like, and the builders already gather in the four seen communities. Legal opinions need a lawyer (rentable). Search reach is plausible: compliance software and guides are bought through search.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "eu-uk-cosmetics-allergen-labelling-beauty-brands",
+      "name": "Small perfume and beauty brands selling in the EU or UK facing new allergen labelling deadlines",
+      "lens": "obligation",
+      "origin": "generated",
+      "who": "Indie perfumers and small beauty brands whose products reach EU or UK customers. EU rules add 56 more fragrance allergens that must be named on the label: new products from 31 July 2026, all products by 31 July 2028. Each product also needs a safety assessment (CPSR), a product information file, a CPNP notification and, separately since Brexit, a UK notification. Miss it and the product cannot be sold.",
+      "where": [
+        {"name": "Basenotes, Fragrance DIY forum", "url": "https://basenotes.com/forums/fragrance-diy/", "seen_via": "search (this run)"},
+        {"name": "Indie Perfumers Guild", "url": "https://www.indieperfumersguild.org/", "seen_via": "search (this run)"},
+        {"name": "Perfumemaking Facebook group", "url": "https://www.facebook.com/groups/Perfumemaking/", "seen_via": "search (this run)"}
+      ],
+      "who_pays": "The brand pays a safety assessor per product, pays for IFRA and allergen documentation per formula, pays a responsible person in the EU or UK, and pays for relabelling and repacking.",
+      "size": {"value": 20000, "unit": "small fragrance and beauty brands selling into the EU or UK", "tag": "estimate", "reasoning": "The indie fragrance and small beauty segment in Europe, the UK and exporters to them runs to tens of thousands of brands; each has several products to relabel. Estimate, no page reachable this session."},
+      "ladder": [
+        {"step": 1, "problem": "IFRA certificate and allergen declaration for each formula", "price_text": "$150–$1,000", "url": "https://www.packamor.com/blogs/knowledge-hub/how-much-does-it-cost-to-start-a-perfume-brand"},
+        {"step": 2, "problem": "Safety assessment (CPSR) and product information file per product"},
+        {"step": 3, "problem": "CPNP and UK notification with a responsible person"},
+        {"step": 4, "problem": "Relabel and repack existing stock before the 2028 cut-off"},
+        {"step": 5, "problem": "Next markets: US MoCRA listing, India import registration"}
+      ],
+      "geography": ["EU", "GB", "GLOBAL"],
+      "venture_overlap": ["v2"],
+      "duplicate_of": null,
+      "reasoning": "A fixed-date rule hitting every small fragrance brand at once, in communities all seen this run, and it touches the founder's own perfume brand (v2) and his fragrance depth (moderate). Safety assessments need a qualified assessor (rentable). It is an obligation slice of the indie perfumers room (profession), not a duplicate.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "cbam-exporters-steel-aluminium-eu",
+      "name": "Exporters of steel, aluminium, cement and fertiliser to the EU facing CBAM's definitive phase",
+      "lens": "obligation",
+      "origin": "generated",
+      "who": "Export managers and plant sustainability staff at mills and plants outside the EU (India, Turkey, Southeast Asia and elsewhere), plus their EU importers. From 1 January 2026 the EU's Carbon Border Adjustment Mechanism moves from reporting to the definitive phase: importers must be authorised, declare verified embedded emissions and, from 2027, buy certificates. An exporter that cannot supply verified data gets costly default values or loses the order.",
+      "where": [
+        {"name": "Energy Central communities (250K power professionals)", "url": "https://energycentral.com/community/energy-biz/socializing-customers", "seen_via": "search (this run)"},
+        {"name": "r/supplychain", "url": "https://www.reddit.com/r/supplychain/", "seen_via": "unverified"}
+      ],
+      "who_pays": "The exporter pays verifiers and consultants for monitoring and verified emissions data; the importer pays certificates and pushes the cost down the chain in price negotiations.",
+      "size": {"value": 10000, "unit": "non-EU installations exporting CBAM goods to the EU", "tag": "estimate", "reasoning": "CBAM covers a handful of sectors, but each has thousands of exporting installations worldwide and many more importers. Estimate, no page reachable this session."},
+      "ladder": [
+        {"step": 1, "problem": "Installation-level emissions monitoring methodology accepted by EU importers"},
+        {"step": 2, "problem": "Third-party verification and data sharing with each importer"},
+        {"step": 3, "problem": "Model the certificate cost and renegotiate prices with EU buyers"},
+        {"step": 4, "problem": "Cut the levy: energy efficiency and renewable power at the plant"}
+      ],
+      "geography": ["IN", "TR", "EU", "GLOBAL"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "A dated regulation with a clear payer, and the technical core (plant emissions, energy costs, cost modelling) sits in the founder's energy and corporate-finance depth. Reach is the weak point: the exporters' gathering places were not verified this session and the warm path (Southeast Asian energy and chemicals companies) runs through the founder's employer, which the ledger flags for a rules check. [thin]",
+      "confidence": "low"
+    },
+    {
+      "slug": "uk-commercial-landlords-mees-epc-deadline",
+      "name": "UK commercial and industrial landlords facing MEES energy-rating deadlines",
+      "lens": "obligation",
+      "origin": "generated",
+      "who": "Owners and asset managers of UK commercial property (warehouses, offices, retail). Minimum energy efficiency rules already stop them letting a building rated below EPC E, and the government's proposed path raises the bar to C in 2027 and B in 2030. Each building needs an assessment, a retrofit plan, money to do the works and a new certificate, or it becomes unlettable and fines apply.",
+      "where": [
+        {"name": "Property118 (UK landlord forum and news)", "url": "https://www.property118.com/", "seen_via": "unverified"},
+        {"name": "Property Tribes (UK landlord forum)", "url": "https://www.propertytribes.com/", "seen_via": "unverified"},
+        {"name": "r/CommercialRealEstate (mostly US, with UK threads)", "url": "https://www.reddit.com/r/CommercialRealEstate/", "seen_via": "unverified"}
+      ],
+      "who_pays": "The landlord pays EPC assessors, engineers and contractors, sometimes consultants to sequence works across a portfolio; tenants pay a share through green leases and service charges.",
+      "size": {"value": 500000, "unit": "UK non-domestic buildings rated below EPC C", "tag": "estimate", "reasoning": "Industry commentary puts a large share of the UK's roughly 1.3 million non-domestic buildings below C. Estimate, no page reachable this session; the 2027 and 2030 dates are proposals whose status must be re-checked."},
+      "ladder": [
+        {"step": 1, "problem": "EPC assessment and a portfolio gap review against the coming thresholds"},
+        {"step": 2, "problem": "Retrofit plan with costed measures per building"},
+        {"step": 3, "problem": "Financing the works and renegotiating leases to share costs"},
+        {"step": 4, "problem": "Works, re-certification and lender or investor ESG reporting"}
+      ],
+      "geography": ["GB"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "A dated rule that combines the founder's two strong depths, industrial and logistics real estate and energy, and his warm path into industrial real estate investors and advisers. But the gathering places are landlord forums that skew residential and none was verified this session, and the future deadline dates are still proposals. [thin]",
+      "confidence": "low"
+    },
+    {
+      "slug": "us-tcpa-ai-voice-outbound-callers",
+      "name": "US businesses and agencies using AI voice or auto-dialers for outbound calls facing TCPA and FCC rules",
+      "lens": "obligation",
+      "origin": "generated",
+      "who": "US businesses, and the agencies that build for them, that place outbound calls or texts with AI voices or automated dialers. The FCC treats AI-generated voices as artificial under the TCPA, so they need prior express written consent, must honour do-not-call lists, must disclose the AI, and face per-call statutory damages and class actions. Most learn this from a demand letter.",
+      "where": [
+        {"name": "r/AI_Agents (425,179 members; stats page)", "url": "https://prowlo.com/tools/subreddit-stats/ai_agents", "seen_via": "search (this run)"},
+        {"name": "Vapi Discord community (26,499 members)", "url": "https://discord.vapi.ai/", "seen_via": "search (this run)"},
+        {"name": "n8n Community forum (example thread on an n8n plus Retell voice agent)", "url": "https://community.n8n.io/t/end-to-end-ai-voice-agent-scheduling-automation-n8n-retell/223985", "seen_via": "search (this run)"}
+      ],
+      "who_pays": "The business pays TCPA lawyers, DNC and litigator scrubbing services, consent-capture tools and insurance; agencies pay when a client gets sued and blames the build.",
+      "size": {"value": 50000, "unit": "US businesses and agencies running AI outbound calling", "tag": "estimate", "reasoning": "The seen AI-agent communities hold hundreds of thousands of builders; the share running outbound voice in the US is a fraction, but every one of them is exposed. Estimate, no page reachable this session."},
+      "ladder": [
+        {"step": 1, "problem": "Consent capture, AI disclosure scripting and opt-out handling in the call flow"},
+        {"step": 2, "problem": "DNC and litigator-list scrubbing, call recording and consent logs (platform usage)", "price_text": "$0.05 per minute", "url": "https://vapi.ai/pricing"},
+        {"step": 3, "problem": "Compliance review and written policies from a TCPA lawyer"},
+        {"step": 4, "problem": "Monitoring and QA of live calls to catch violations", "price_text": "from $35 per user per month", "url": "https://www.guideflow.com/blog/contact-center-quality-assurance-software"},
+        {"step": 5, "problem": "Defence or settlement when a demand letter or class action arrives"}
+      ],
+      "geography": ["US"],
+      "venture_overlap": ["v4"],
+      "duplicate_of": null,
+      "reasoning": "A rule-driven room in the founder's strongest depth (voice agents, call auditing), with search reach: agencies and businesses look for TCPA tools and guides when they start outbound AI calling. All three places were seen this run. Legal advice needs a US lawyer (rentable). The Indian twin of this room is the TRAI DLT room; different regulator, different places.",
+      "confidence": "moderate"
+    }
+  ]
+}
