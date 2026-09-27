@@ -72,7 +72,7 @@ Stage 3 per room:
 | lender-insurer-telesales-floors-india | 2 | 1721 | 1684 | round 2: 1684 records, not saturated, stopped: exhausted | yes | 0 pass / 0 fail (self-check) |
 | outbound-lead-gen-appointment-setting-agencies | 2 | 2090 | 2034 | round 1: 984 records, not saturated | no | not checked |
 | salon-spa-owners-india-global | 3 | 3054 | 2255 | round 2: 2255 records, not saturated | no | not checked |
-| small-business-owners-reddit-community | 3 | 3505 | 2260 | round 2: 2180 records, not saturated | no | not checked |
+| small-business-owners-reddit-community | 3 | 3505 | 2420 | round 2: 2180 records, not saturated | no | not checked |
 | small-industrial-property-investors | 2 | 1784 | 1748 | round 2: 1748 records, not saturated | no | not checked |
 | startup-founders-409a-83b-deadlines | 3 | 2614 | 1636 | round 2: 1636 records, not saturated | no | not checked |
 
