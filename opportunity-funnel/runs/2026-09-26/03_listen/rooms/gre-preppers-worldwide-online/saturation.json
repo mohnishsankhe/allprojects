@@ -153,6 +153,112 @@
       "window": 300,
       "window_member_records": 531,
       "window_used": 972
+    },
+    {
+      "evaluable": true,
+      "new_pains": [
+        "awa-struggle"
+      ],
+      "new_records": 1025,
+      "rank_changes": [
+        {
+          "key": "consultant-or-sop-worth-it",
+          "rank_after": 10,
+          "rank_before": 11
+        },
+        {
+          "key": "gre-fees-add-up",
+          "rank_after": 8,
+          "rank_before": 7
+        },
+        {
+          "key": "gre-worth-taking",
+          "rank_after": 13,
+          "rank_before": 12
+        },
+        {
+          "key": "mock-vs-real-score",
+          "rank_after": 14,
+          "rank_before": 15
+        },
+        {
+          "key": "no-time-to-prepare",
+          "rank_after": 5,
+          "rank_before": 6
+        },
+        {
+          "key": "prep-too-expensive",
+          "rank_after": 9,
+          "rank_before": 8
+        },
+        {
+          "key": "quant-struggle",
+          "rank_after": 6,
+          "rank_before": 5
+        },
+        {
+          "key": "retake-or-not",
+          "rank_after": 12,
+          "rank_before": 10
+        },
+        {
+          "key": "score-enough-for-target",
+          "rank_after": 11,
+          "rank_before": 9
+        },
+        {
+          "key": "score-not-improving",
+          "rank_after": 15,
+          "rank_before": 13
+        },
+        {
+          "key": "scores-late-for-deadline",
+          "rank_after": 7,
+          "rank_before": 17
+        },
+        {
+          "key": "test-anxiety-or-burnout",
+          "rank_after": 17,
+          "rank_before": 16
+        },
+        {
+          "key": "verbal-struggle",
+          "rank_after": 16,
+          "rank_before": 14
+        }
+      ],
+      "records": 2921,
+      "round": 3,
+      "saturated": false,
+      "taxonomy_added": [
+        "awa-struggle"
+      ],
+      "taxonomy_keys": [
+        "awa-struggle",
+        "consultant-or-sop-worth-it",
+        "gre-fees-add-up",
+        "gre-worth-taking",
+        "mock-vs-real-score",
+        "no-time-to-prepare",
+        "prep-too-expensive",
+        "quant-struggle",
+        "refund-after-cancelling",
+        "registration-or-payment-trouble",
+        "retake-or-not",
+        "score-enough-for-target",
+        "score-not-improving",
+        "score-reporting-mistakes",
+        "scores-held-or-cancelled",
+        "scores-late-for-deadline",
+        "silly-mistakes",
+        "test-anxiety-or-burnout",
+        "test-day-worse-than-practice",
+        "verbal-struggle",
+        "which-prep-worth-paying-for"
+      ],
+      "window": 300,
+      "window_member_records": 602,
+      "window_used": 1025
     }
   ],
   "stop_reason": null,
