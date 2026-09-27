@@ -53,12 +53,24 @@ Checks (each returns a list of plain-English error strings, empty when fine)
 
 Graveyard (FUNNEL_ROOT/graveyard.md)
     parse_graveyard() -> list[dict]    [{"date", "stage", "item", "reason", "status": "dead"|"revived", "revivals": [...]}]
-    dead_items(kind=None) -> set[str]  items still dead ("room:<slug>", "pain:<id>"); kind filters the prefix
+    dead_items(kind=None) -> set[str]  items still dead ("room:<slug>", "pain:<id>"); kind filters the prefix.
+                                       An item's LAST line in file order decides: a kill line after a revival
+                                       kills it again; a revival note under the last kill line revives it.
+    dead_entries(kind=None, ignore_date=None) -> dict[item -> entry]
+                                       the last kill line of every item still dead, ignoring lines dated
+                                       `ignore_date` (a run's own later kills) for the decision as well
     is_dead(item) -> bool
     append_graveyard(date, stage, item, reason) -> bool   True if the file changed; never duplicates a line
+    sync_graveyard(date, stage, scope, kills) -> dict
+                                       make the lines dated `date` for `stage` match `kills` (item -> reason)
+                                       for every item in `scope`: add missing lines, fix reasons, drop lines of
+                                       items the rerun keeps (a line with a revival note is kept). Never writes
+                                       in a dry run.
 
 Events and secrets
-    log_event(run, stage, command, kind, **fields) -> dict   appends to RUN/runlog.jsonl
+    log_event(run, stage, command, kind, create_run=True, **fields) -> dict | None
+                                       appends to RUN/runlog.jsonl; with create_run False it writes nothing
+                                       (and returns None) when the run folder does not exist yet
     get_key(name) -> str | None        environment first, then FUNNEL_ROOT/.env; never printed
     set_dry_run(flag), is_dry_run()    the global --dry-run switch
 
@@ -106,7 +118,9 @@ MACHINE_WALLS = range(1, 17)
 HUMAN_WALLS = range(17, 30)
 
 _SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
-_RUN_NAME_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})(?:-loop-[a-z0-9]+(?:-[a-z0-9]+)*)?$")
+# A run is `YYYY-MM-DD`, a loop run `YYYY-MM-DD-loop-<room>` or a dry run `YYYY-MM-DD-dry-<room>` (a one-room
+# dry run of Stages 3-6 that must not be mistaken for the real run: rooms-known, compare and audit-status skip it).
+_RUN_NAME_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})(?:-(?:loop|dry)-[a-z0-9]+(?:-[a-z0-9]+)*)?$")
 _DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 _CURRENCY_RE = re.compile(r"^[A-Z]{3}$")
 
@@ -218,7 +232,8 @@ def run_name(run=None) -> str:
         s = s[len("runs/"):]
     if not _RUN_NAME_RE.match(s):
         raise ValidationErrors(
-            [f"--run {run!r}: a run is `runs/YYYY-MM-DD`, `YYYY-MM-DD` or `YYYY-MM-DD-loop-<room-slug>`."]
+            [f"--run {run!r}: a run is `runs/YYYY-MM-DD`, `YYYY-MM-DD`, `YYYY-MM-DD-loop-<room-slug>` or, for a "
+             f"one-room dry run, `YYYY-MM-DD-dry-<room-slug>`."]
         )
     return s
 
@@ -555,16 +570,28 @@ def parse_graveyard() -> list:
     return entries
 
 
+def _last_entries(kind: str | None = None, ignore_date: str | None = None) -> dict:
+    """item -> its last graveyard entry in file order (lines dated `ignore_date` left out)."""
+    last: dict = {}
+    for e in parse_graveyard():
+        if ignore_date is not None and e["date"] == ignore_date:
+            continue
+        if kind and not e["item"].startswith(kind + ":"):
+            continue
+        last[e["item"]] = e
+    return last
+
+
+def dead_entries(kind: str | None = None, ignore_date: str | None = None) -> dict:
+    """item -> the kill line that keeps it dead. The last line of an item decides (rule 7): a revival note
+    revives only the line it sits under, so a later kill line kills the item again. Lines dated
+    `ignore_date` are left out of the decision (a run's own later kills must not change an earlier stage)."""
+    return {item: e for item, e in _last_entries(kind, ignore_date).items() if e["status"] == "dead"}
+
+
 def dead_items(kind: str | None = None) -> set:
     """Items still dead. `kind` ("room" or "pain") keeps only items with that prefix."""
-    dead: set[str] = set()
-    revived: set[str] = set()
-    for e in parse_graveyard():
-        (revived if e["status"] == "revived" else dead).add(e["item"])
-    dead -= revived
-    if kind:
-        dead = {i for i in dead if i.startswith(kind + ":")}
-    return dead
+    return set(dead_entries(kind))
 
 
 def is_dead(item: str) -> bool:
@@ -611,10 +638,79 @@ def append_graveyard(date, stage, item: str, reason: str) -> bool:
     return True
 
 
+def sync_graveyard(date, stage, scope, kills: dict) -> dict:
+    """Make the lines dated `date` for `stage` say exactly what this run of the stage killed.
+
+    `scope` holds every item the stage judged this time; `kills` maps the killed ones to their reason.
+    A killed item gets its line added (or its reason fixed in place, revival notes kept). An item in
+    `scope` that is not killed loses its line from an earlier rerun on the same date, so a kill the
+    model has since fixed does not stay on record; a line the founder revived is kept. Lines of other
+    dates, stages or items are never touched. A dry run writes nothing (its kills are not kills).
+    Returns {"added", "updated", "removed"}.
+    """
+    out = {"added": 0, "updated": 0, "removed": 0}
+    if is_dry_run():
+        return out
+    stage_s = str(stage)
+    if not stage_s.startswith("stage"):
+        stage_s = f"stage {stage_s}"
+    date_s = str(date)
+    scope_set = {str(i) for i in scope}
+    wanted = {str(item): format_graveyard_line(date_s, stage_s, str(item), reason) for item, reason in kills.items()}
+    p = graveyard_path()
+    lines = read_text(p).splitlines() if p.exists() else ["# Graveyard", ""]
+    kept: list = []
+    seen: set = set()
+    i = 0
+    while i < len(lines):
+        raw = lines[i]
+        m = _GRAVE_LINE_RE.match(raw)
+        if not m or m.group(1) != date_s or m.group(2).strip() != stage_s:
+            kept.append(raw)
+            i += 1
+            continue
+        item = m.group(3).strip()
+        children: list = []
+        j = i + 1
+        while j < len(lines) and lines[j].startswith((" ", "\t")):
+            children.append(lines[j])
+            j += 1
+        revived = any(_REVIVE_LINE_RE.match(c) for c in children)
+        if item in wanted and item not in seen:
+            if raw != wanted[item]:
+                out["updated"] += 1
+            kept.append(wanted[item])
+            kept.extend(children)
+            seen.add(item)
+        elif item in wanted:
+            out["removed"] += 1  # a second line for the same date, stage and item: never meant to exist
+        elif item in scope_set and not revived:
+            out["removed"] += 1
+        else:
+            kept.append(raw)
+            kept.extend(children)
+        i = j
+    for item, line in wanted.items():
+        if item not in seen:
+            kept.append(line)
+            out["added"] += 1
+    if out["added"] or out["updated"] or out["removed"] or not p.exists():
+        while kept and not kept[-1].strip():
+            kept.pop()
+        write_text(p, "\n".join(kept))
+    return out
+
+
 # --------------------------------------------------------------------------- events and secrets
-def log_event(run, stage, command: str, kind: str, **fields) -> dict:
-    """Append one event to RUN/runlog.jsonl. The only place a timestamp is written."""
+def log_event(run, stage, command: str, kind: str, create_run: bool = True, **fields):
+    """Append one event to RUN/runlog.jsonl. The only place a timestamp is written.
+
+    With `create_run` False nothing is written (None is returned) when the run folder does not
+    exist: commands that need no run folder must not leave an empty runs/<today>/ behind.
+    """
     rd = run_dir(run)
+    if not create_run and not rd.exists():
+        return None
     rd.mkdir(parents=True, exist_ok=True)
     event = {
         "ts": _dt.datetime.now(_dt.timezone.utc).replace(microsecond=0).isoformat(),

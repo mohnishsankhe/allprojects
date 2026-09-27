@@ -43,3 +43,4 @@
 {"command": "log", "kind": "note", "review": true, "stage": 2, "text": "w5 (TinyAI call-volume businesses in India and the Gulf) was treated as a warm path because the founder listed it under warm paths, although the ledger says it is mostly cold unless the business is an existing TinyAI client. Six kept rooms rely on it.", "ts": "2026-09-27T02:27:17+00:00"}
 {"command": "log", "kind": "note", "review": true, "stage": 2, "text": "Every Stage 2 price was seen in web-search results; no price page could be opened (network), so all spend is [measured, page not checked] and spend_points_verified is 0 for every room.", "ts": "2026-09-27T02:27:17+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T02:27:55+00:00"}
+{"command": "listen-status", "dated": 0, "kind": "ran", "per_round": {}, "per_source": {}, "records": 0, "room": "gre-engineers-india", "stage": 3, "ts": "2026-09-27T02:30:19+00:00", "undated": 0}

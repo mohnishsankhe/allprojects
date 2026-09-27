@@ -8,14 +8,33 @@ Public API
         Never changes prices, years, dates, times, percentages, scores or numbers glued to units.
     anonymize_record(record, known_names=()) -> dict
         Same, applied to record["text"] (a copy is returned).
+    is_profile_url(url) -> bool
+        True for a person's profile or channel page (reddit /user/, x.com/<handle>, linkedin /in/,
+        youtube /@ /channel/ /c/ /user/, instagram, facebook, tiktok, medium, quora /profile/,
+        stack exchange /users/, HN user?id=, github.com/<user>, t.me, wa.me, threads). A post, video,
+        tweet, answer or repository under such a site is not a profile. Rule 5: only the post's own
+        URL may be stored, so a profile page is never stored as a record.
+    known_name_patterns(known_names) -> list[re.Pattern]
+        The patterns the name pass applies for known (sender) names; see the rules below.
     PLACEHOLDERS: tuple[str, ...]
         The five placeholders above.
     LIMIT_NOTE: str
         The known limit, for the run log: names in running text without a cue may survive.
+
+Known names (sender names from chat exports, usernames from forums) are removed like this:
+  - the whole name, in any letter case, with spaces, underscores, dots or hyphens between its parts
+    ("Priya Mehta", "priya_mehta", "PRIYA MEHTA");
+  - its first part (the given name) in any letter case ("priya", "Priya");
+  - every other part only with its own capital letter ("Mehta", not "mehta"), and never a part that is
+    all capitals (an acronym such as GRE), a part that is not capitalised in the sender string, a part of
+    fewer than three letters, or a role, place or family word (tutor, sir, coaching, centre, delhi, bhai...).
+    A saved contact like "Rahul GRE Tutor" therefore removes "Rahul" but leaves "GRE" and "tutor" in
+    every other member's message, so the evidence text stays whole.
 """
 from __future__ import annotations
 
 import re
+from urllib.parse import parse_qs, urlsplit
 
 PLACEHOLDERS = ("[email]", "[profile link]", "[phone]", "[user]", "[name]")
 LIMIT_NOTE = ("Anonymizer limit: names in running text without a cue (honorific, greeting, "
