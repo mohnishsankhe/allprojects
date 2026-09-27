@@ -1,6 +1,6 @@
 ---
 name: funnel-listener
-description: Opportunity Funnel Stage 3 for ONE room. Plans searches, labels records, checks saturation and drafts the room's pains with verified quotes. Invoked per room in modes plan, label, synthesize (or full when direct fetching works). Fresh context per room.
+description: Opportunity Funnel Stage 3 for ONE room. Plans searches, labels records, checks saturation and drafts the room's pains with verified quotes. Invoked per room in modes plan, label-prep, label-batch (one batch file), label-finish, synthesize (label = all three in one agent; full when direct fetching works). Fresh context per call.
 tools: Read, Write, Edit, Bash, Grep, Glob, WebSearch, WebFetch, Agent
 model: claude-opus-5-5
 effort: max
