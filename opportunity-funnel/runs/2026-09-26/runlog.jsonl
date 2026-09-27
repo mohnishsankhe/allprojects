@@ -1051,3 +1051,12 @@
 {"command": "saturation", "kind": "count", "new_pains": [], "new_records": 849, "rank_changes": 0, "records": 1684, "room": "lender-insurer-telesales-floors-india", "round": 2, "saturated": false, "stage": 3, "stop_reason": null, "ts": "2026-09-27T15:55:25+00:00"}
 {"command": "listen-status", "dated": 23, "kind": "ran", "per_round": {"1": 858, "2": 863}, "per_source": {"websearch": 1721}, "records": 1721, "room": "lender-insurer-telesales-floors-india", "stage": 3, "ts": "2026-09-27T15:55:26+00:00", "undated": 1698}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T15:56:21+00:00"}
+{"command": "show", "ids": 4, "kind": "ran", "missing": [], "room": "bpo-contact-centre-operators-india-philippines", "stage": 3, "ts": "2026-09-27T15:57:31+00:00"}
+{"command": "show", "ids": 7, "kind": "ran", "missing": [], "room": "startup-founders-409a-83b-deadlines", "stage": 3, "ts": "2026-09-27T15:57:49+00:00"}
+{"command": "listen-status", "dated": 15, "kind": "ran", "per_round": {"1": 871, "2": 923}, "per_source": {"websearch": 1794}, "records": 1794, "room": "indie-perfumers-launching-brands", "stage": 3, "ts": "2026-09-27T15:58:57+00:00", "undated": 1779}
+{"command": "show", "ids": 4, "kind": "ran", "missing": [], "room": "small-industrial-property-investors", "stage": 3, "ts": "2026-09-27T15:58:59+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "small-industrial-property-investors", "stage": 3, "ts": "2026-09-27T15:59:15+00:00"}
+{"command": "listen-status", "dated": 32, "kind": "ran", "per_round": {"1": 922, "2": 83}, "per_source": {"websearch": 1005}, "records": 1005, "room": "business-brokers-ma-boutiques", "stage": 3, "ts": "2026-09-27T16:00:07+00:00", "undated": 973}
+{"command": "show", "ids": 6, "kind": "ran", "missing": [], "room": "d2c-brands-scaling-past-launch", "stage": 3, "ts": "2026-09-27T16:00:08+00:00"}
+{"command": "show", "ids": 19, "kind": "ran", "missing": [], "room": "d2c-brands-scaling-past-launch", "stage": 3, "ts": "2026-09-27T16:00:54+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T16:01:24+00:00"}
