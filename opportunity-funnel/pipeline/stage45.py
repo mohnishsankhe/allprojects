@@ -988,7 +988,8 @@ def evaluate_pair(pair: dict, index: int, ctx: dict, rules: dict, supply: dict, 
             reasons["trade"] = "; ".join(t_problems)
         else:
             lanes_ok.append("trade")
-            reasons["trade"] = (f"no holding wall; build {bw} week(s), paid upfront, no subscription, exit "
+            reasons["trade"] = (f"no holding wall; build {bw} week(s), payment {'upfront' if tr.get('payment_upfront') else 'not upfront'}, "
+                                f"{'a subscription' if tr.get('subscription') else 'no subscription'}, exit "
                                 f"{tr.get('exit_date') or 'not required'}")
     if ctx.get("lane_hint") == "trade":
         for lane in ("business", "partner"):
