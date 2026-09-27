@@ -1,0 +1,332 @@
+{
+  "ladders": {
+    "mid-career-searchers-buying-small-business": [
+      {
+        "step": 1,
+        "problem": "Learn how small deals work and get the search toolkit: a paid searcher community or accelerator (Acquisition Lab lifetime membership; Searchfunder sells monthly, annual and lifetime plans)",
+        "price_text": "$10,000",
+        "url": "https://acquisitionlab.com/the-lab/pricing",
+        "seen_via": "search",
+        "note": "Seen as 'The Lab offers a lifetime membership for $10,000'. Searchfunder's own plan prices were not shown in results. Common first spend; many searchers buy one or the other."
+      },
+      {
+        "step": 2,
+        "problem": "Finance the purchase: the SBA 7(a) upfront guaranty fee and lender closing costs the buyer carries",
+        "price_text": "On a $1M+ acquisition loan, expect to pay $25,000-$35,000 in guarantee fees",
+        "url": "https://ebitcommunity.com/p/sba-7-a-acquisition-loan-rates-and-fees-in-2026",
+        "seen_via": "search",
+        "note": "Replaces the old 'equity injection' step, which is capital, not a fee paid to solve a problem. The same page says the fee adds 2-3.5% at closing and is usually financed into the loan."
+      },
+      {
+        "step": 3,
+        "problem": "Value the target for the lender: an independent, SBA-format business valuation",
+        "price_text": "$3,000 to $7,500",
+        "url": "https://www.bizworth.com/blog/how-much-does-a-business-valuation-cost",
+        "seen_via": "search",
+        "note": "Reused from the current ladder. Lenders require it on most SBA acquisition loans, so nearly every buyer pays."
+      },
+      {
+        "step": 4,
+        "problem": "Check the seller's numbers before signing: a quality of earnings report",
+        "price_text": "$15,000-$25,000 for sub-$3M EBITDA businesses",
+        "url": "https://ctacquisitions.com/quality-of-earnings/",
+        "seen_via": "search",
+        "note": "Reused from the current ladder. Standard buyer diligence spend on deals of this size."
+      },
+      {
+        "step": 5,
+        "problem": "Close the deal: an attorney for legal diligence, the purchase agreement and closing documents",
+        "price_text": "fixed fees of $2,000-$5,000",
+        "url": "https://www.duedilio.com/legal-costs-in-small-business-acquisitions-fixed-fee-vs-hourly-billing/",
+        "seen_via": "search",
+        "note": "This figure is the limited-scope initial engagement that DueDilio describes; the same search pass showed full-deal fixed fees 'from $20,000' in a blended summary without a clear source page. Replaces the old $1,290 template price, which was a document template, not a lawyer. The old 'broker commission' step is dropped: the seller pays the broker."
+      },
+      {
+        "step": 6,
+        "problem": "Run it after closing: outsourced bookkeeping and monthly accounts for the business",
+        "price_text": "$160 to $2,000 per month",
+        "url": "https://cocountant.com/blog/bookkeeping/outsourced-bookkeeping-costs-2026-pricing-guide/",
+        "seen_via": "search",
+        "note": "Replaces the old fractional CFO step: the searcher is the CFO, but almost all pay a bookkeeper or CPA. The old 'AI voice agent' step is dropped as not a common paid problem for this room."
+      }
+    ],
+    "iim-isb-first-years-finance-consulting-placements": [
+      {
+        "step": 1,
+        "problem": "Practise case interviews with peers and coaches before summer placement week (PrepLounge Premium, one year)",
+        "price_text": "USD $69",
+        "url": "https://www.preplounge.com/en/premium-membership",
+        "seen_via": "search",
+        "note": "Seen as a one-time payment for one year. Premium + Coaching packages start at USD $199 on the same site. Consulting is the largest recruiter at these schools, and paid case practice is common."
+      },
+      {
+        "step": 2,
+        "problem": "Learn valuation, financial modelling and finance interview technicals for bank and PE profiles (instructor-led course, India)",
+        "price_text": "Rs. 50,000 plus GST",
+        "url": "https://www.thewallstreetschool.com/financial-modeling-course/",
+        "seen_via": "search",
+        "note": "Seen as the training fee for The WallStreet School's Financial Modelling and Valuations course; a self-paced version was listed at Rs. 24,000 plus GST. Folds the old separate 'interview guide' step into one problem: pass the finance interviews."
+      },
+      {
+        "step": 3,
+        "problem": "Signal finance intent with the CFA Level I registration (early registration, 2026)",
+        "price_text": "US$1,140",
+        "url": "https://300hours.com/cfa-exam-cost/",
+        "seen_via": "search",
+        "note": "Reused from the current ladder; a 2026 result confirmed USD 1,140 early and USD 1,490 standard, with the old enrolment fee removed. Common among students targeting finance roles. The old fee and education-loan steps are dropped: they are paid before joining and belong to the admits room. The old 'if placements miss' programme is dropped as an edge case at these schools."
+      }
+    ],
+    "first-finance-hires-funded-startups": [
+      {
+        "step": 1,
+        "problem": "Fix the books: outsourced bookkeeping and monthly close for a funded startup (Pilot, priced by monthly expenses)",
+        "price_text": "$599/mo",
+        "url": "https://pilot.com/pricing",
+        "seen_via": "search",
+        "note": "Seen as 'Pilot starts at $599/mo for businesses with expenses up to $30,000'. Almost every seed-to-Series-B startup pays a bookkeeping firm before or as the first finance hire arrives."
+      },
+      {
+        "step": 2,
+        "problem": "Manage the cap table and get a 409A valuation for option grants (Carta paid plan or a standalone 409A)",
+        "price_text": null,
+        "url": null,
+        "seen_via": "search",
+        "note": "Kept without a price: results showed Carta's Starter plan 'at $2,800 per year' with 409A included and standalone 409A 'roughly $2,000 to $5,000 per valuation', but in a blended summary spanning spendflo.com, justpricing.com and vcbeast.com, so no single source URL could be named. Funded US startups must do this to grant options."
+      },
+      {
+        "step": 3,
+        "problem": "Set up the model, budget and board reporting in an FP&A tool instead of spreadsheets (Runway, early-stage contracts)",
+        "price_text": "$500–$1,500 per month ($6,000–$18,000 per year)",
+        "url": "https://metapraxis.com/runway-implementation-cost",
+        "seen_via": "search",
+        "note": "Seen for early-stage and Series A teams. Board-ready monthly packages are what investors expect from this hire, and a planning tool is a common purchase in year one."
+      },
+      {
+        "step": 4,
+        "problem": "File the annual corporate tax return and claim the R&D payroll tax credit (US example)",
+        "price_text": "fixed fee of 15% of the anticipated captured credit amount with a minimum fee of $1,000",
+        "url": "https://kruzeconsulting.com/rd-tax-credits/",
+        "seen_via": "search",
+        "note": "Seen as one firm's R&D credit study fee; other results put a study at $4,000–$6,000. Annual and recurring for every venture-backed US startup."
+      },
+      {
+        "step": 5,
+        "problem": "Hire the first analyst or accountant through a contingency recruiter",
+        "price_text": "Standard contingency rates range from 15% to 25% of the hire's first-year salary, with 20% being the most common benchmark according to SHRM",
+        "url": "https://www.pin.com/blog/negotiate-recruiter-fees/",
+        "seen_via": "search",
+        "note": "Replaces the old 'new-manager training' step: startups more often pay a recruiter than send this hire on a course. The old pitch-deck, fractional-CFO benchmark, registered-agent, AI-voice-agent and modelling-refresher steps are dropped: they belong to founders or bankers, or are not common paid problems for this person."
+      }
+    ],
+    "valuation-analysts-pursuing-bv-credentials": [
+      {
+        "step": 1,
+        "problem": "Complete the required training before the credential exam (US: NACVA CVA self-study training package; India: 50-hour RVO course at Rs. 20,000 to 25,000)",
+        "price_text": "$2,975.00",
+        "url": "http://web.nacva.com/TL-Website/Files/BV_University/CVA_Standard_Pricing.pdf",
+        "seen_via": "search",
+        "note": "Reused from the current ladder. The old US and India alternatives are merged into one step; the India price (taxguru.in) is kept in this note rather than as a separate step."
+      },
+      {
+        "step": 2,
+        "problem": "Sit the credential exam (NACVA CVA exam; India: IBBI valuation exam at Rs. 5,900 per attempt on the old ladder's source)",
+        "price_text": "$625.00",
+        "url": "http://web.nacva.com/TL-Website/Files/BV_University/CVA_Standard_Pricing.pdf",
+        "seen_via": "search",
+        "note": "Reused from the current ladder; the old separate IBBI exam step is merged here."
+      },
+      {
+        "step": 3,
+        "problem": "Apply for and register the designation",
+        "price_text": "$100",
+        "url": "https://www.nacva.com/cvaapplication",
+        "seen_via": "search",
+        "note": "Reused from the current ladder."
+      },
+      {
+        "step": 4,
+        "problem": "Buy the transaction data needed to do valuation work (DealStats annual subscription)",
+        "price_text": "$1,050 per year",
+        "url": "https://searchfunder.com/post/searchfunder-announces-partnership-with-bvr-dealstats",
+        "seen_via": "search",
+        "note": "Seen as 'an annual subscription to DealStats currently costs $1,050 per year'. Replaces the old $725-per-month 'Ultimate' bundle, which is one vendor's top tier rather than the common spend. Comparable-transaction data is bought by nearly every practising valuer."
+      },
+      {
+        "step": 5,
+        "problem": "Keep the credential: continuing education and the three-year recertification fee",
+        "price_text": "$400 recertification fee",
+        "url": "https://www.nacva.com/recertification",
+        "seen_via": "search",
+        "note": "Seen as 'NACVA will waive the entire $400 recertification fee for designees that complete at least 30 hours of NACVA courses', so the spend is either the fee or the courses. Replaces the old unpriced recertify step."
+      }
+    ],
+    "finance-pros-starting-fractional-cfo-practice": [
+      {
+        "step": 1,
+        "problem": "Set up the entity so clients can pay you (incorporation from anywhere; yearly registered agent follows)",
+        "price_text": "$500",
+        "url": "https://sparklaun.ch/compare/stripe-atlas",
+        "seen_via": "search",
+        "note": "Reused from the current ladder. The old separate $100-per-year registered agent step is folded in here as ongoing cost of the same problem."
+      },
+      {
+        "step": 2,
+        "problem": "Insure the practice: professional liability (E&O) cover before signing the first client",
+        "price_text": "costs averaging $164 monthly",
+        "url": "https://theexpertcfo.com/set-up-a-fractional-cfo-firm-legally/",
+        "seen_via": "search",
+        "note": "New step. Seen on a page written for people setting up a fractional CFO firm; clients and engagement letters commonly require it."
+      },
+      {
+        "step": 3,
+        "problem": "Join a practitioner community for pricing data, templates and referrals (Fractional Connections Accelerator level; the Inner Circle for fractional CFOs was seen at $49 for the first month)",
+        "price_text": "$49 per month",
+        "url": "https://fractionals.ai/fccommunity/",
+        "seen_via": "search",
+        "note": "Reused from the current ladder; the Inner Circle's regular price was not shown in results."
+      },
+      {
+        "step": 4,
+        "problem": "Deliver client reporting without a team: a multi-client reporting and forecasting tool (Fathom or similar)",
+        "price_text": null,
+        "url": null,
+        "seen_via": "search",
+        "note": "Kept without a price: results showed Fathom 'starts at $65 per month for one entity on the Starter plan' and another listing at '$50 per month', in a blended summary spanning fathomhq.com, capterra.com and metapraxis.com, so no single source URL could be named. Fractional CFOs commonly pay for such a tool per client."
+      },
+      {
+        "step": 5,
+        "problem": "Win the first clients: paid outreach tooling (LinkedIn Sales Navigator Core)",
+        "price_text": "US$119.99 per month/license",
+        "url": "https://business.linkedin.com/sell/sales-navigator/compare-plans",
+        "seen_via": "search",
+        "note": "New step replacing the old AI-search-visibility tool, which is not a common purchase. The old modelling-refresher and FPAC-credential steps are dropped: people with 6 to 15 years in finance rarely buy them at this point."
+      }
+    ],
+    "independent-sponsors-small-pe-firms": [
+      {
+        "step": 1,
+        "problem": "Source deals: a paid lower-middle-market deal network membership (Axial)",
+        "price_text": "from a few thousand dollars per month up to $8,000 or more",
+        "url": "https://duedilio.com/axial-is-it-the-best-deal-sourcing-platform-for-small-business-buyers/",
+        "seen_via": "search",
+        "note": "New step. Seen as 'the service can range from a few thousand dollars per month up to $8,000 or more'; Axial does not publish pricing. Most sponsors pay for at least one sourcing platform."
+      },
+      {
+        "step": 2,
+        "problem": "Find the equity for each deal: the independent-sponsor conference circuit and forum memberships, or a placement agent",
+        "price_text": null,
+        "url": null,
+        "seen_via": "search",
+        "note": "Kept without a price: iGlobal Forum's Independent Sponsors Summit has a pricing page (events.iglobalforum.com/independent-sponsors-summit-pricing) but no figure appeared in results, and placement fees of about '2% for the capital that is raised' appeared only in a blended summary. Sponsors must raise equity deal by deal, and the conferences report 550+ paying attendees."
+      },
+      {
+        "step": 3,
+        "problem": "Check the seller's numbers before signing: a quality-of-earnings report",
+        "price_text": "$10,000 to $20,000 for a focused QoE Lite scope, and $25,000 to $50,000 for a full-scope engagement",
+        "url": "https://systemsix.com/what-does-a-quality-of-earnings-report-cost-pricing-by-deal-size/",
+        "seen_via": "search",
+        "note": "Reused from the current ladder."
+      },
+      {
+        "step": 4,
+        "problem": "Hold the investors' money: form and administer the deal SPV (formation, banking, investor onboarding, annual admin)",
+        "price_text": null,
+        "url": null,
+        "seen_via": "search",
+        "note": "Kept without a price: results showed 'SPV pricing ranges from $3,000 to $10,000+' and set-up fees of '$6,000 to $10,000' with '$2,000-$5,000' annual administration, in a blended summary spanning carta.com, polibit.io, allocations.com and spvhub.com, so no single source URL could be named. Every deal-by-deal raise needs a vehicle."
+      },
+      {
+        "step": 5,
+        "problem": "Close: buyer's counsel for the purchase agreement, financing documents and disclosure schedules",
+        "price_text": null,
+        "url": null,
+        "seen_via": "search",
+        "note": "Kept without a price: 'For mid-market deals, legal fees run $50K to $250K' appeared in a blended summary spanning sharevault.com, dealroom.net and mnacommunity.com, so no single source URL could be named. No deal closes without counsel."
+      },
+      {
+        "step": 6,
+        "problem": "After closing: the portfolio company's finance function (fractional CFO) and investor reporting",
+        "price_text": "between $3,000 and $12,000 per month",
+        "url": "https://pilot.com/blog/fractional-cfo-cost-guide",
+        "seen_via": "search",
+        "note": "Reused from the current ladder. The old investor-deck, modelling-course and AI-voice-agent steps are dropped: sponsors write their own decks, the fund pays for any training, and the voice agent is not a common paid problem here."
+      }
+    ],
+    "laid-off-finance-professionals": [
+      {
+        "step": 1,
+        "problem": "Review the severance agreement, garden leave and non-compete with an employment lawyer (flat-fee review)",
+        "price_text": "$420 on a flat fee basis",
+        "url": "https://www.contractscounsel.com/b/severance-agreement-review-cost",
+        "seen_via": "search",
+        "note": "Seen as the average flat fee for a severance agreement review; firm examples ran $700 to $1,000. Prices the old unpriced step 1."
+      },
+      {
+        "step": 2,
+        "problem": "Rewrite the resume and the story for the new search (executive level)",
+        "price_text": "$350 - $700",
+        "url": "https://topresume.com/career-advice/how-much-does-a-professional-resume-writing-service-cost",
+        "seen_via": "search",
+        "note": "Reused from the current ladder."
+      },
+      {
+        "step": 3,
+        "problem": "Run the search: LinkedIn Premium Career for InMail and applicant insights",
+        "price_text": "US$39.99 per month",
+        "url": "https://premium.linkedin.com/careers/career",
+        "seen_via": "search",
+        "note": "New step. Seen as the Premium Career price for new subscribers. A common purchase in the first weeks of a job search."
+      },
+      {
+        "step": 4,
+        "problem": "Career coaching and interview practice by the hour",
+        "price_text": "$75 to $200 per hour",
+        "url": "https://www.noomii.com/article/cost-hire-career-coach",
+        "seen_via": "search",
+        "note": "Reused from the current ladder."
+      },
+      {
+        "step": 5,
+        "problem": "Pass the technical interview and the modelling test again (interview guide plus modelling course)",
+        "price_text": "$499",
+        "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+        "seen_via": "search",
+        "note": "Reused; the old separate $199.99 interview-guide step is merged here because it is the same problem. The old visa-transfer step is dropped as a slice of the room rather than a common step."
+      },
+      {
+        "step": 6,
+        "problem": "The reset route: GMAT for an MBA application (test centre)",
+        "price_text": "US $275",
+        "url": "https://test-ninjas.com/gmat-registration-fees-and-cost",
+        "seen_via": "search",
+        "note": "Reused from the current ladder. The MBA is one of the three standard exits for laid-off analysts and associates."
+      }
+    ],
+    "new-pe-associates-first-year": [
+      {
+        "step": 1,
+        "problem": "Before day one: a private equity and LBO modelling course so the first live model holds up without a VP checking it (BIWS bundle)",
+        "price_text": "$497",
+        "url": "https://breakingintowallstreet.com/private-equity-signup-options/",
+        "seen_via": "search",
+        "note": "Reused from the current ladder. The old separate $499 Wall Street Prep refresher is merged here as the same problem."
+      },
+      {
+        "step": 2,
+        "problem": "Year 2: decide on the MBA route and sit the GMAT (test centre)",
+        "price_text": "US $275",
+        "url": "https://test-ninjas.com/gmat-registration-fees-and-cost",
+        "seen_via": "search",
+        "note": "Reused from the current ladder."
+      },
+      {
+        "step": 3,
+        "problem": "Admissions consulting for a multi-school MBA application (comprehensive package)",
+        "price_text": "$6,950 for 1 school, $8,950 for 2 schools, and $10,950 for 3 schools",
+        "url": "https://www.personalmbacoach.com/product/comprehensive-packages/",
+        "seen_via": "search",
+        "note": "Reused from the current ladder. The old live-deal and portfolio-reporting steps are dropped because nobody pays to solve them (learned on the job), and the new-manager training step is dropped because the fund, not the associate, pays for that. Three steps is the honest length for this room."
+      }
+    ]
+  }
+}

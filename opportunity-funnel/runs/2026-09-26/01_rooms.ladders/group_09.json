@@ -1,0 +1,194 @@
+{
+  "ladders": {
+    "active-retail-options-traders": [
+      {
+        "step": 1,
+        "problem": "Learn options properly: a paid course or structured program",
+        "price_text": "$500 to $1,000",
+        "url": "https://www.profitsrun.com/options-trading-course-cost/",
+        "seen_via": "search",
+        "note": "New step. Price guide shows Udemy/Coursera courses at $20 to $99 and mid-range programs at $500 to $1,000; mid-range copied. Free courses exist, but serious traders commonly pay for a program before or soon after they start."
+      },
+      {
+        "step": 2,
+        "problem": "See trade ideas and learn from others: paid Discord or alert service",
+        "price_text": "$47 to $224 monthly",
+        "url": "https://whop.com/blog/options-trading-guide-discord-servers/",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 1."
+      },
+      {
+        "step": 3,
+        "problem": "Charting and real-time data subscription",
+        "price_text": "$14.95 per month",
+        "url": "https://www.stockbrokers.com/review/tools/tradingview",
+        "seen_via": "search",
+        "note": "New step. TradingView Essential plan price seen in a StockBrokers.com review; nearly every active trader pays for charting or data beyond the free broker feed."
+      },
+      {
+        "step": 4,
+        "problem": "Visualise and manage option positions (options analytics tool)",
+        "price_text": "$39.99/month",
+        "url": "https://optionstrat.com/membership",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 2. Distinct purchase from charting: it models spreads, Greeks and P&L."
+      },
+      {
+        "step": 5,
+        "problem": "Find out why the account is bleeding: trade journal and analytics",
+        "price_text": "$30 a month",
+        "url": "https://www.stockbrokers.com/review/tools/tradersync",
+        "seen_via": "search",
+        "note": "New step. TraderSync lowest tier price from a StockBrokers.com review; Tradervue is priced the same. Bought after months of inconsistent results."
+      },
+      {
+        "step": 6,
+        "problem": "Backtest and automate a strategy",
+        "price_text": "$99/month",
+        "url": "https://optionalpha.com/pricing",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 3."
+      },
+      {
+        "step": 7,
+        "problem": "Trade other people's capital: funded-trader evaluation fee",
+        "price_text": "$50 to $300",
+        "url": "https://www.quantvps.com/blog/funded-options-accounts",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 4, now priced. Result says monthly evaluation fees for funded options accounts typically range $50 to $300, starting as low as $32.50."
+      },
+      {
+        "step": 8,
+        "problem": "File taxes on hundreds of trades and wash sales: trader tax software or CPA",
+        "price_text": "$324/year",
+        "url": "https://journalplus.co/best/trading-tax-software/",
+        "seen_via": "search",
+        "note": "New step. TradeLog price seen in a best-of list (the vendor page hides prices behind login). Bites at the first tax season after a full year of active trading."
+      }
+    ],
+    "small-business-owners-reddit-community": [
+      {
+        "step": 1,
+        "problem": "Keep the books: accounting software",
+        "price_text": "$38 per month",
+        "url": "https://www.certumsolutions.com/library/quickbooks-price-increase-august-2026",
+        "seen_via": "search",
+        "note": "New step. QuickBooks Online Simple Start after the August 2026 price rise. The most common recurring software cost for this room."
+      },
+      {
+        "step": 2,
+        "problem": "Insure the business: general liability policy",
+        "price_text": "$123 per month",
+        "url": "https://www.moneygeek.com/insurance/business/general-liability/cost/",
+        "seen_via": "search",
+        "note": "New step. MoneyGeek 2026 benchmark for a general liability policy; landlords, clients and licences usually force this purchase."
+      },
+      {
+        "step": 3,
+        "problem": "Get found by customers online: local SEO, Google profile and listings",
+        "price_text": "$500-$2,000 per month",
+        "url": "https://www.seo.com/blog/local-seo-pricing/",
+        "seen_via": "search",
+        "note": "Replaces old step 2 (AI-assistant visibility tool at $95 per month). Local SEO retainers are the broader, established spend; AI-answer visibility is now sold as part of them."
+      },
+      {
+        "step": 4,
+        "problem": "Answer every call without hiring: AI receptionist or answering service",
+        "price_text": "$99/mo",
+        "url": "https://www.myaifrontdesk.com/pricing",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 1."
+      },
+      {
+        "step": 5,
+        "problem": "File business taxes: CPA or tax preparer",
+        "price_text": "$500 to $5,000+ per year",
+        "url": "https://www.skfinancial.com/blog/how-much-does-a-cpa-cost-for-a-small-business",
+        "seen_via": "search",
+        "note": "New step. Range for small business CPA fees; tax-return projects in the same result start around $1,200. Recurs every year."
+      },
+      {
+        "step": 6,
+        "problem": "Hire the first employees: payroll service",
+        "price_text": "$49/mo + $6/mo per person",
+        "url": "https://gusto.com/product/pricing",
+        "seen_via": "search",
+        "note": "New step. Gusto Simple plan price from the vendor pricing page. Triggered by the first hire, usually in years 1 to 3."
+      },
+      {
+        "step": 7,
+        "problem": "Value the business before a sale or a partner buy-in",
+        "price_text": "$2,500 to $5,000",
+        "url": "https://www.bizworth.com/blog/valuation-costs-what-small-business-owners-should-expect-in-2026",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 3."
+      },
+      {
+        "step": 8,
+        "problem": "Sell the business: broker commission",
+        "price_text": "8% to 12%",
+        "url": "https://www.baton.com/resources/own/average-commission-for-business-broker",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 4. Only a minority reach this rung within 3 years, but it is the largest single payment."
+      }
+    ],
+    "solar-wind-project-developers": [
+      {
+        "step": 1,
+        "problem": "Find and screen sites: siting and land-data software",
+        "price_text": "$10,000 to $20,000 a year",
+        "url": "https://www.heavengreenenergy.com/blog/pvcase-review",
+        "seen_via": "search",
+        "note": "New step. PVcase (Prospect, formerly Anderson Optimization) publishes no price; the review reports industry-observed enterprise deals at this level. LandGate also sells developer subscriptions with no public price. Moderate confidence in attribution."
+      },
+      {
+        "step": 2,
+        "problem": "Buy solar or wind resource data for pre-feasibility",
+        "price_text": "EUR 1,800 per year",
+        "url": "https://solargis.com/pricing/prospect",
+        "seen_via": "search",
+        "note": "New step. Solargis Prospect Basic plan from the vendor pricing page (Professional is EUR 3,600 per year). Every project needs bankable-grade resource data before design and financing."
+      },
+      {
+        "step": 3,
+        "problem": "License PV or wind design and yield software",
+        "price_text": "CHF 700",
+        "url": "https://www.heavengreenenergy.com/blog/pvsyst-price",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 1. Wind equivalent seen in the same task: windPRO BASIS module EUR 1,700.00 standard license (https://www.emd-international.com/software/windpro/pricing)."
+      },
+      {
+        "step": 4,
+        "problem": "Enter the grid interconnection queue: application fee and study deposits",
+        "price_text": "$7,600",
+        "url": "https://www.misoenergy.org/planning/resource-utilization/generator-interconnection/",
+        "seen_via": "search",
+        "note": "New step. MISO flat non-refundable D1 application fee effective June 2026; study deposits on top ($8,000 per MW at MISO; PJM $10,000 plus $100 per MW). US figures, but every grid operator charges study fees."
+      },
+      {
+        "step": 5,
+        "problem": "Clear permitting: Phase I environmental site assessment and studies",
+        "price_text": "$2,200–$4,000",
+        "url": "https://a3e.com/4-factors-in-the-average-cost-of-phase-i-environmental/",
+        "seen_via": "search",
+        "note": "New step. Per-parcel Phase I ESA price; utility-scale sites with many parcels run to $20,000 or more. Almost all conditional use permits and lenders require it."
+      },
+      {
+        "step": 6,
+        "problem": "Learn renewables project finance modelling to raise debt",
+        "price_text": "USD$800",
+        "url": "https://pivotal180.com/course-type/project-finance-modeling/",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 3. Paid by individuals to move into or up in development and finance roles."
+      },
+      {
+        "step": 7,
+        "problem": "Get a lender-grade energy yield report and independent engineer review to reach financial close",
+        "price_text": "$15,000 or more",
+        "url": "https://heavendesigns.in/blog/pvsyst-report-service/",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 4 (was unpriced), narrowed to the yield report. Result: bid-stage PVsyst reports from about $1,500, lender-grade reports on utility-scale projects $15,000 or more. Old step 2 (NABCEP certification, $375) dropped: it is an installer credential, a different room."
+      }
+    ]
+  }
+}
