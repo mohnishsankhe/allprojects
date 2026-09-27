@@ -3,7 +3,8 @@ export const meta = {
   description: 'Stage 3: listen to saturation, one listener per room (plan -> harvest -> label-prep -> one labeler per batch -> label-finish rounds, then synthesize, then checkpoint)',
   phases: [{ title: 'Listen', detail: 'per room: rounds until saturated, exhausted or max rounds' }],
 }
-// args = { rooms: [slug, ...], r1: { <slug>: { queries: N, kinds: [...] } } }
+// args = { rooms: [slug, ...], searched: { <slug>: { round: N, queries: Q, kinds: [...] } } }
+//   (older form: r1: { <slug>: { queries: Q, kinds: [...] } } = searched with round 1)
 const F = '/home/user/allprojects/opportunity-funnel'
 const RUNREL = 'runs/2026-09-26'
 const MIN_RECORDS = 500, EXHAUSTED = 50, MAX_ROUNDS = 8, CHUNK = 50
@@ -11,10 +12,10 @@ const MIN_RECORDS = 500, EXHAUSTED = 50, MAX_ROUNDS = 8, CHUNK = 50
 // Model policy (founder, 2026-09-27): Claude Opus 5.5 at max effort for every agent, including search runners,
 // bulk labeling and helpers. Nothing uses Fable or a smaller model.
 const OPUS = { model: 'claude-opus-5-5', effort: 'max' }
-// args.r1 lists rooms whose round 1 was already planned (queries.jsonl) and searched (results in the session
-// transcripts) before the model switch. Those rooms start at the round-1 label step: harvest-search reads the
-// earlier searches, so no plan or search agent runs again. The workflow cache is not relied on for this.
-const R1 = args.r1 || {}
+// args.searched lists, per room, the last round whose queries were all planned (queries.jsonl) and searched (results in
+// the session transcripts) by an earlier run. That room starts at that round's label step: harvest-search reads the
+// earlier searches, so no plan or search agent runs again for it. The workflow cache is not relied on for this.
+const SEARCHED = Object.assign({}, ...Object.entries(args.r1 || {}).map(([k, v]) => ({ [k]: { round: 1, ...v } })), args.searched || {})
 
 const PLAN = { type: 'object', properties: {
   round: { type: 'integer' }, queries: { type: 'array', items: { type: 'string' } },
@@ -72,14 +73,15 @@ async function labelRound(slug, round, suggestions) {
 }
 
 async function listen(slug) {
-  let round = 1, stop = null, suggestions = []
+  const pre = SEARCHED[slug] || null
+  const first = pre ? pre.round : 1
+  let round = first, stop = null, suggestions = []
   const history = []
   while (true) {
     let nq, kinds
-    const pre = round === 1 ? R1[slug] : null
-    if (pre) {
+    if (pre && round === first) {
       nq = pre.queries; kinds = pre.kinds
-      log(`${slug} r1: planned and searched before the model switch (${nq} queries); labeling on Opus`)
+      log(`${slug} r${round}: planned and searched by an earlier run (${nq} queries); labeling on Opus`)
     } else {
       const plan = await agent(`${base(slug)}\nMODE: plan. ROUND: ${round}. ${round > 1 ? `Earlier rounds so far: ${JSON.stringify(history)}. Aim new queries at what is missing (source kinds, pains, money and failed-spend language, deadlines).` : ''}\nAppend this round's queries to queries.jsonl and return them in the queries field exactly as written there.`,
         { agentType: 'funnel-listener', ...OPUS, schema: PLAN, label: `plan:${slug}:r${round}`, phase: 'Listen' })
@@ -96,9 +98,10 @@ async function listen(slug) {
     suggestions = lr.suggested
     history.push({ round, queries: nq, kinds, records_total: lab.records_total, new_records: lab.new_records, member_records: lab.member_records, pains: lab.pains, saturated: lab.saturated, new_pains: lab.new_pains, rank_changes: lab.rank_changes.length, unmatched: lab.unmatched_queries, batches_labeled: lr.labeled, taxonomy_changed: lr.prep.taxonomy_changed, suggested_pains: suggestions.length })
     log(`${slug} r${round}: ${lab.records_total} records (+${lab.new_records}), ${lab.pains} pains, ${lr.labeled} batches labeled, saturated=${lab.saturated}, suggested pains=${suggestions.length}`)
-    // A labeler's suggested pain means the latest records may hold a pain the taxonomy lacks: not saturated yet.
-    if (lab.saturated && lab.records_total >= MIN_RECORDS && suggestions.length === 0) { stop = 'saturated'; break }
-    if (round > 1 && lab.new_records < EXHAUSTED) { stop = 'exhausted'; break }
+    // Saturated only from round 2, with every planned query searched (an interrupted harvest leaves unmatched queries),
+    // and with no pain a labeler suggested (the latest records may hold a pain the taxonomy lacks).
+    if (lab.saturated && lab.records_total >= MIN_RECORDS && round >= 2 && lab.unmatched_queries === 0 && suggestions.length === 0) { stop = 'saturated'; break }
+    if (round > 1 && round > first && lab.new_records < EXHAUSTED) { stop = 'exhausted'; break }
     if (round >= MAX_ROUNDS) { stop = 'max_rounds'; break }
     round++
   }
