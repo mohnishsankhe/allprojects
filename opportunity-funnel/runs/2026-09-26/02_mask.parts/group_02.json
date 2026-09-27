@@ -1,0 +1,591 @@
+{
+  "rooms": [
+    {
+      "slug": "industrial-brokers-and-developers",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w3",
+        "evidence_url": null,
+        "reasoning": "Warehouse and logistics brokers, leasing agents and small developers are exactly the people w3 covers (warehouse developers, investors, advisers through the private-equity network). Search reach also exists: this room buys underwriting courses online, e.g. the Udemy CRE underwriting course at https://www.udemy.com/course/beginner-to-advanced-cre-acquisition-underwriting-strategies/ and CCIM's online tuition page at https://www.ccim.com/education/ccim-institute-student-tools/tuition.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d3",
+        "reasoning": "The core paid problems are pricing deals, underwriting, capital raising and JV terms in industrial and logistics real estate, which is d3 (strong); d2 (valuation and deal documents) covers the underwriting step too.",
+        "confidence": "high"
+      },
+      "spend": [
+        {
+          "what": "CoStar market data subscription, per user",
+          "price_text": "$300–$450 per month per user",
+          "amount": 300,
+          "currency": "USD",
+          "unit": "month",
+          "url": "https://propertyscout360.com/blog/costar-subscription-cost",
+          "seen_via": "search"
+        },
+        {
+          "what": "CCIM CI 101 Financial Analysis course, member tuition (2026)",
+          "price_text": "$1,299",
+          "amount": 1299,
+          "currency": "USD",
+          "unit": "course",
+          "url": "https://www.ccim.com/education/ccim-institute-student-tools/tuition",
+          "seen_via": "search"
+        },
+        {
+          "what": "SIOR candidate membership, annual dues",
+          "price_text": "$450",
+          "amount": 450,
+          "currency": "USD",
+          "unit": "year",
+          "url": "https://www.sior.com/docs/default-source/membership-docs/4-candidate-membership-flyer.pdf?sfvrsn=0",
+          "seen_via": "search"
+        },
+        {
+          "what": "SIOR active member annual dues",
+          "price_text": "$1,345",
+          "amount": 1345,
+          "currency": "USD",
+          "unit": "year",
+          "url": "https://www.sior.com/docs/default-source/membership-docs/2-designation-requirements-flyer.pdf?sfvrsn=0",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "The core pains need judgment on deals, underwriting help and a network, not capital, ritual or licensed advocacy. Brokerage itself needs a real estate licence, but analysis, training and deal help do not.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "No licence is needed for analysis or training. Employer overlap: the warm path runs through the founder's private-equity network, so any developer or investor who is the employer's client or counterparty must be left out; that limits reach but does not exclude the room.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "The likely product is B2B help on underwriting, capital raising or deal terms at a high price; brokers and developers buy that from people they know and rate.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "solar-wind-project-developers",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w4",
+        "evidence_url": null,
+        "reasoning": "Developers in Vietnam, the Philippines, Indonesia and the rest of Southeast Asia are energy companies w4 reaches through the founder's work; the rest of this global room is not covered by a warm path. Search reach also applies worldwide: the room buys PVsyst licences from the web shop (https://www.pvsyst.com/en/shop/, CHF 700/Yr) and Udemy's Project Finance Modeling for Renewable Energy course with student reviews (https://www.udemy.com/course/financial-modeling-for-renewable-energy/).",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d4",
+        "reasoning": "Yield design, certification, project finance modelling and lender terms are the energy sector (power and renewables), a strong depth; d2 covers the financing and term-sheet steps as well.",
+        "confidence": "high"
+      },
+      "spend": [
+        {
+          "what": "PVsyst professional licence, per year",
+          "price_text": "CHF 700/Yr",
+          "amount": 700,
+          "currency": "CHF",
+          "unit": "year",
+          "url": "https://www.heavengreenenergy.com/blog/pvsyst-price",
+          "seen_via": "search"
+        },
+        {
+          "what": "NABCEP certification exam fee",
+          "price_text": "$375",
+          "amount": 375,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://www.nabcep.org/certifications/requirements-fees/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Pivotal180 project finance modelling course, self-paced",
+          "price_text": "USD$800",
+          "amount": 800,
+          "currency": "USD",
+          "unit": "course",
+          "url": "https://pivotal180.com/course-type/project-finance-modeling/",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "The finance and deal-structuring pains need judgment and models. Installation and EPC are physical work outside the ledger, but they are not the founder's product and vendors can be rented.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Employer overlap: w4 runs through the founder's investment banking job in Southeast Asian energy, so any developer that is an employer client, deal or source of confidential information is off limits and the employer's outside-business rules must be checked first. Serving developers who are not employer clients does not by itself use employer information.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "Help with financing, models and lender terms is a B2B service tied to large project decisions; buyers need to trust the person.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "oil-gas-engineers-mid-career",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.udemy.com/topic/oil-and-gas-industry/",
+        "reasoning": "Engineers in this room already buy courses through marketplaces: Udemy's oil and gas topic page lists bestsellers rated 4.5 with 3,599 and 1,804 students, and NEBOSH fee comparison sites (https://courses.laimoon.com/india/health-and-safety/nebosh/nebosh-oil-and-gas/fees) show them shopping for credentials by search. w4 reaches energy companies in Southeast Asia, not these engineers as individuals with personal career problems, so it is not a warm match.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d4",
+        "reasoning": "The room's defining problem is where to go next inside energy (renewables, hydrogen, energy finance) after a layoff, which is d4 (strong) with d2 for the finance route. The safety (NEBOSH) and PMP credential steps sit outside any ledger depth, so only part of the ladder is covered.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {
+          "what": "SPE professional membership, annual dues by country",
+          "price_text": "USD 25–150 per year",
+          "amount": 25,
+          "currency": "USD",
+          "unit": "year",
+          "url": "https://www.spe.org/en/join/",
+          "seen_via": "search"
+        },
+        {
+          "what": "NEBOSH Oil and Gas certificate course",
+          "price_text": "$800 to $1,200",
+          "amount": 800,
+          "currency": "USD",
+          "unit": "course",
+          "url": "https://www.hsestudyguide.com/nebosh-oil-and-gas/",
+          "seen_via": "search"
+        },
+        {
+          "what": "PMP exam fee, PMI member (from August 2026)",
+          "price_text": "$445",
+          "amount": 445,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://trainingcamp.com/articles/pmp-exam-cost-requirements-and-eligibility-the-complete-2026-guide/",
+          "seen_via": "search"
+        },
+        {
+          "what": "PMP exam fee, non-member (2026)",
+          "price_text": "$675",
+          "amount": 675,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://www.examcert.app/blog/pmp-exam-cost-2026/",
+          "seen_via": "search"
+        },
+        {
+          "what": "NEBOSH course fees in India, range across qualifications",
+          "price_text": "₹25,000 to ₹85,000",
+          "amount": 25000,
+          "currency": "INR",
+          "unit": "course",
+          "url": "https://m2yacademy.com/nebosh-fees/",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Career transition help needs judgment, accountability and peers, all of which the ledger says the founder can be. No capital, ritual or licensed advocacy is at the core.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "No licence is needed for career or skills products. Employer overlap: the room overlaps Southeast Asian oil and gas, so engineers at the employer's clients would have to be served without using any client or deal information; that is a boundary, not an exclusion.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "A reskilling or transition programme is a personal outcome at several hundred dollars during a layoff, and buyers weigh who is guiding them; self-serve courses are the cheap end only.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "contact-centre-ops-managers",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w5",
+        "evidence_url": null,
+        "reasoning": "Contact centres in India are businesses with large call volumes, which w5 covers through TinyAI; the ledger notes this is mostly cold except for existing TinyAI clients, and the Philippine and global parts of the room are not covered. Search reach also exists: QA tools are bought self-serve with public pricing and reviews (Scorebuddy at https://www.softwareadvice.com/review-management/scorebuddy-profile/ and https://www.softwaresuggest.com/scorebuddy/pricing) and a COPC course sells on Udemy (https://www.udemy.com/course/copc-cx-standard-for-contact-centers-a-training-course/).",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d5",
+        "reasoning": "Scoring and auditing calls at scale and deploying AI agents without hurting quality are the call auditing and voice agent work listed under d5 (strong). Management certifications and COPC audits are adjacent but the AI and QA steps are the core.",
+        "confidence": "high"
+      },
+      "spend": [
+        {
+          "what": "Contact centre QA software, entry price per user",
+          "price_text": "from $35 per user per month",
+          "amount": 35,
+          "currency": "USD",
+          "unit": "month",
+          "url": "https://www.guideflow.com/blog/contact-center-quality-assurance-software",
+          "seen_via": "search"
+        },
+        {
+          "what": "Scorebuddy Starter plan",
+          "price_text": "USD 165 per month",
+          "amount": 165,
+          "currency": "USD",
+          "unit": "month",
+          "url": "https://www.softwaresuggest.com/scorebuddy/pricing",
+          "seen_via": "search"
+        },
+        {
+          "what": "Call centre manager certification programme",
+          "price_text": "$1,200-$1,500",
+          "amount": 1200,
+          "currency": "USD",
+          "unit": "course",
+          "url": "https://www.tealhq.com/certifications/call-center-manager",
+          "seen_via": "search"
+        },
+        {
+          "what": "ICMI contact centre training course",
+          "price_text": "$1,799",
+          "amount": 1799,
+          "currency": "USD",
+          "unit": "course",
+          "url": "https://www.icmi.com/training",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "The core pains need software, judgment on AI deployment and training, all within the founder's supply through TinyAI. No capital, ritual or licensed advocacy is needed.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "No licence applies to QA software or operations training. The room is not investment banking, private equity or Southeast Asian energy, so there is no employer overlap; it does overlap the founder's own venture v4, which is tagged, not excluded.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "The buyer is a company putting AI or QA scoring on live customer calls, a B2B service with a procurement decision and a manager's reputation on the line.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "indie-perfumers-launching-brands",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.udemy.com/course/the-ultimate-online-perfume-course/",
+        "reasoning": "This room buys through marketplaces and search: Udemy's best-selling perfume courses are bought by aspiring indie perfumers, Amazon lists perfume making kits with 600+ units bought in recent months (https://www.amazon.com/perfume-making-kit/s?k=perfume+making+kit), and compliance shops sell IFRA certificates and CPSRs online (https://thefragrancefoundry.com/products/ifra-certificate-allergens-certificate-cpsr). No ledger warm path covers hobbyist or indie perfumers.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d8",
+        "reasoning": "Fragrance (moderate, as an enthusiast) covers formulation, materials and scent judgment, which are the training and product steps. Compliance paperwork, contract filling and selling online are brand-building problems that no ledger depth names, though the founder is walking this ladder with v2.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {
+          "what": "Perfume making starter kit",
+          "price_text": "$95",
+          "amount": 95,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://boisdejasmin.com/2023/12/smell-training-and-perfume-making-kits.html",
+          "seen_via": "search"
+        },
+        {
+          "what": "Formal perfumery training programme",
+          "price_text": "€3,300",
+          "amount": 3300,
+          "currency": "EUR",
+          "unit": "course",
+          "url": "http://frenchperfume.school/intensetechnicaltraining",
+          "seen_via": "search"
+        },
+        {
+          "what": "IFRA-compliant formulas and safety documents before selling",
+          "price_text": "$150–$1,000",
+          "amount": 150,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://www.packamor.com/blogs/knowledge-hub/how-much-does-it-cost-to-start-a-perfume-brand",
+          "seen_via": "search"
+        },
+        {
+          "what": "IFRA certificate, allergens certificate and CPSR for one fragrance (The Fragrance Foundry, base cost)",
+          "price_text": "£299.99 (ex. VAT)",
+          "amount": 299.99,
+          "currency": "GBP",
+          "unit": "one-off",
+          "url": "https://thefragrancefoundry.com/products/ifra-certificate-allergens-certificate-cpsr",
+          "seen_via": "search"
+        },
+        {
+          "what": "Online perfumery training, from a basic course to a full programme with live support",
+          "price_text": "£50 for a basic online course to £2,500 for a comprehensive programme with live support",
+          "amount": 50,
+          "currency": "GBP",
+          "unit": "course",
+          "url": "https://www.karengilbert.co.uk/getting-into-the-fragrance-industry",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "The compliance step needs a qualified safety assessor, a licence the ledger says can be rented (r1), and bottles and filling come from vendors (r3). No large capital, ritual or licensed advocacy sits at the core.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Safety assessment must be signed by a qualified assessor in the customer's market, but that is a rented partner, not the founder's product. No employer overlap; the room overlaps the founder's own venture v2, which is tagged only.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": false,
+        "reasoning": "The room already buys kits, courses and compliance documents self-serve at tens to a few hundred dollars from strangers on marketplaces, so a self-serve guide or toolkit fits search reach; a live cohort would need more trust.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "active-retail-options-traders",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://optionstrat.com/membership",
+        "reasoning": "This room buys tools and courses self-serve: OptionStrat sells paid plans from $39.99/month with a free trial, Udemy's options trading topic page shows instructors with 112,000+ students (https://www.udemy.com/topic/options-trading/), and a $49 options course sells on Gumroad (https://loyalitalian.gumroad.com/l/options-trading-course). w2 covers finance professionals, not retail traders.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d7",
+        "reasoning": "Strategy education, position management, backtesting and trade process are options trading, a moderate ledger depth; the founder can tell good from bad in this domain but not at a strong level.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {
+          "what": "Paid options trading Discord or alert community",
+          "price_text": "$47 to $224 monthly",
+          "amount": 47,
+          "currency": "USD",
+          "unit": "month",
+          "url": "https://whop.com/blog/options-trading-guide-discord-servers/",
+          "seen_via": "search"
+        },
+        {
+          "what": "OptionStrat paid membership (Live Tools)",
+          "price_text": "$39.99/month",
+          "amount": 39.99,
+          "currency": "USD",
+          "unit": "month",
+          "url": "https://optionstrat.com/membership",
+          "seen_via": "search"
+        },
+        {
+          "what": "Option Alpha automation and backtesting plan",
+          "price_text": "$99/month",
+          "amount": 99,
+          "currency": "USD",
+          "unit": "month",
+          "url": "https://optionalpha.com/pricing",
+          "seen_via": "search"
+        },
+        {
+          "what": "Options trading course sold on Gumroad",
+          "price_text": "$49",
+          "amount": 49,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://loyalitalian.gumroad.com/l/options-trading-course",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Education, analytics and process coaching need judgment and accountability. Funded-trader capital is step 4 of the ladder and is supplied by prop firms, not the founder, so large capital is not a core need.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Trade alerts, options tips or portfolio advice would be regulated investment advice (a SEBI research analyst licence in India, adviser rules elsewhere) and are off the table under x1; education, analytics tools and process or journaling coaching do not need a licence, so the core product must stay on that side. No employer overlap.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": false,
+        "reasoning": "Tools and courses at $15 to $100 a month are bought on free trials and reviews without knowing the maker; the exception is advice, which is excluded anyway.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "mbb-case-interview-candidates",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.preplounge.com/en/premium-membership",
+        "reasoning": "Candidates buy prep through search and marketplaces: PrepLounge sells a USD 69 one-year premium membership and coaching from USD 199 online, and RocketBlocks sells ex-MBB coaching by the hour at $200 per hour (https://www.rocketblocks.me/coaches/booking/intro.php). w2 covers finance professionals; a few switch to consulting but they are not this room's core.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d6",
+        "reasoning": "Case practice, coaching and final-round preparation are consulting case interviews, a moderate ledger depth. The step-4 first-year skills and PE exit sit closer to d2 but are not the core.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {
+          "what": "PrepLounge premium membership, one year",
+          "price_text": "$69",
+          "amount": 69,
+          "currency": "USD",
+          "unit": "year",
+          "url": "https://www.preplounge.com/en/pricing",
+          "seen_via": "search"
+        },
+        {
+          "what": "PrepLounge one-to-one coaching from ex-consultants",
+          "price_text": "149 USD per hour",
+          "amount": 149,
+          "currency": "USD",
+          "unit": "hour",
+          "url": "https://www.preplounge.com/en/shop/coaching-packages-5",
+          "seen_via": "search"
+        },
+        {
+          "what": "PrepLounge premium plus coaching bundle",
+          "price_text": "$199",
+          "amount": 199,
+          "currency": "USD",
+          "unit": "package",
+          "url": "https://www.preplounge.com/en/shop/premium-memberships-1/premium-coaching",
+          "seen_via": "search"
+        },
+        {
+          "what": "RocketBlocks expert coaching, a la carte",
+          "price_text": "$200 per hour",
+          "amount": 200,
+          "currency": "USD",
+          "unit": "hour",
+          "url": "https://www.rocketblocks.me/coaches/booking/intro.php",
+          "seen_via": "search"
+        },
+        {
+          "what": "Wall Street Prep premium package, first-year skills",
+          "price_text": "$499",
+          "amount": 499,
+          "currency": "USD",
+          "unit": "package",
+          "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Coaching, cohorts, peers and small conditional guarantees are exactly what the ledger says the founder can be; nothing here needs capital, ritual or a licence.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "No licence applies to interview coaching. The room is consulting, not investment banking or private equity, so no employer overlap; the founder's own background is finance rather than MBB, which is a credibility question, not an exclusion.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "Coaching by the hour for a career-defining interview is a personal outcome at $149 to $200 an hour; candidates pick coaches on MBB credentials and reviews, so a marketplace listing would have to supply the trust.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "seo-agency-owners-ai-search",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.g2.com/products/otterlyai/reviews",
+        "reasoning": "Agency owners buy AI visibility tools self-serve from search: Otterly.AI has 42 G2 reviews (4.8 of 5) and public plans from $29/month (https://otterly.ai/pricing), and Peec AI sells starter plans with a free trial at https://peec.ai/pricing. No ledger warm path covers SEO agencies.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d5",
+        "reasoning": "Tracking and improving visibility in AI answers is the AI search visibility work named under d5 (strong); packaging it as a client service is the same domain from the seller's side.",
+        "confidence": "high"
+      },
+      "spend": [
+        {
+          "what": "Traffic Think Tank paid SEO community",
+          "price_text": "$99",
+          "amount": 99,
+          "currency": "USD",
+          "unit": "month",
+          "url": "https://trafficthinktank.com/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Peec AI starter plan",
+          "price_text": "$95/month",
+          "amount": 95,
+          "currency": "USD",
+          "unit": "month",
+          "url": "https://visible.seranking.com/blog/peec-ai-review/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Profound AI visibility tracking, entry plan",
+          "price_text": "$99 a month",
+          "amount": 99,
+          "currency": "USD",
+          "unit": "month",
+          "url": "https://www.tryprofound.com/pricing",
+          "seen_via": "search"
+        },
+        {
+          "what": "Otterly.AI Lite plan (15 search prompts)",
+          "price_text": "$29/month",
+          "amount": 29,
+          "currency": "USD",
+          "unit": "month",
+          "url": "https://otterly.ai/pricing",
+          "seen_via": "search"
+        },
+        {
+          "what": "Otterly.AI Standard plan (100 search prompts)",
+          "price_text": "$189/month",
+          "amount": 189,
+          "currency": "USD",
+          "unit": "month",
+          "url": "https://otterly.ai/pricing",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "The pains need tooling, judgment on what moves AI answers and a way to sell and report; none needs capital, ritual or a licence.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "No licence applies and there is no employer overlap. The room overlaps the founder's own venture v4 (TinyAI's AI search visibility work), which is tagged, not excluded.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": false,
+        "reasoning": "Tools and playbooks at $29 to $189 a month are bought on trial and reviews; a done-for-you service to agencies would need trust, but the likely first product is self-serve.",
+        "confidence": "moderate"
+      }
+    }
+  ]
+}

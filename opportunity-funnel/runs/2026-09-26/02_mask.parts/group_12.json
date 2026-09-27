@@ -1,0 +1,306 @@
+{"rooms": [
+{
+  "slug": "non-target-students-breaking-into-finance",
+  "reach": {
+    "kind": "search",
+    "ledger_id": "s1",
+    "evidence_url": "https://www.udemy.com/topic/investment-banking/",
+    "reasoning": "The room's people are students and fresh graduates, not the finance professionals w2 covers, so no warm path reaches them directly. They already buy this kind of product through search and marketplaces: Udemy's investment-banking topic page lists paid courses with 43,869 and 34,271 reviews, BIWS sells its interview guide at $197 with a public reviews page (https://breakingintowallstreet.com/reviews/), and WSO Academy sells a $7,000 program aimed at non-targets.",
+    "confidence": "high"
+  },
+  "depth": {
+    "ledger_id": "d2",
+    "reasoning": "The core paid problems are IB technical interviews and modelling tests (valuation, DCF, LBO, deal mechanics), which sit squarely in the ledger's corporate finance, valuation and transactions depth. Networking and cold-email pains are adjacent and not covered, but the paid rungs are technical.",
+    "confidence": "high"
+  },
+  "spend": [
+    {"what": "BIWS Investment Banking Interview Guide", "price_text": "$197", "amount": 197, "currency": "USD", "unit": "one-off", "url": "https://breakingintowallstreet.com/investment-banking-interview-guide/", "seen_via": "search"},
+    {"what": "Wall Street Prep Premium Package (financial modelling)", "price_text": "$499", "amount": 499, "currency": "USD", "unit": "one-off", "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/", "seen_via": "search"},
+    {"what": "WSO Academy recruiting program for non-targets (news report of the price)", "price_text": "$7,000", "amount": 7000, "currency": "USD", "unit": "package", "url": "https://www.aol.com/articles/wall-streeters-didnt-target-schools-090002000.html", "seen_via": "search"},
+    {"what": "WSO Mentors mock interview, 1 hour", "price_text": "$149", "amount": 149, "currency": "USD", "unit": "hour", "url": "https://www.wallstreetoasis.com/career-services/mentors", "seen_via": "search"}
+  ],
+  "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "The pains need judgment on technicals, mock interviews, accountability and peers, all of which the ledger says the founder can be. No large capital, ritual or licensed advocacy sits at the core; a placement guarantee like WSO's $11,000 tier would be large-capital risk transfer, but it is optional, not the core.",
+    "confidence": "high"
+  },
+  "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "Interview and modelling coaching needs no licence anywhere. Employer overlap: the room targets investment banking, the founder's own industry, so the employer's outside-business rules must be checked, but coaching students does not itself use the employer's clients, deals or confidential information.",
+    "confidence": "moderate"
+  },
+  "trust_needed": {
+    "value": true,
+    "reasoning": "The outcome is a personal career break and the ladder runs from a $197 guide to a $7,000 mentored program, so buyers want to know the coach is a real banker; only the cheapest self-study rung is trust-light.",
+    "confidence": "moderate"
+  }
+},
+{
+  "slug": "consultants-planning-exit-to-finance",
+  "reach": {
+    "kind": "search",
+    "ledger_id": "s1",
+    "evidence_url": "https://breakingintowallstreet.com/private-equity-signup-options/",
+    "reasoning": "The room's people are management consultants, not the IB, PE or finance professionals w2 covers; the founder's PE colleagues are the hiring side, not the room, so no warm path reaches them. They already buy this kind of product through search: BIWS sells its PE modelling course through a public sign-up page (Platinum bundle $1,497), Peak Frameworks sells a PE recruiting course (WSO users report buying it, https://www.wallstreetoasis.com/forum/private-equity/peak-frameworks-pe-course-1), and WSO Mentors sells mock interviews from $149 an hour.",
+    "confidence": "moderate"
+  },
+  "depth": {
+    "ledger_id": "d2",
+    "reasoning": "The core paid problems are LBO modelling tests, paper LBOs and PE case studies, which are corporate finance, valuation and transactions, a strong ledger depth. Case-interview depth (d6) is adjacent but this room has already passed those.",
+    "confidence": "high"
+  },
+  "spend": [
+    {"what": "Wall Street Prep Premium Package (LBO and modelling)", "price_text": "$499", "amount": 499, "currency": "USD", "unit": "one-off", "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/", "seen_via": "search"},
+    {"what": "BIWS Platinum bundle including the Private Equity Modeling course", "price_text": "$1,497", "amount": 1497, "currency": "USD", "unit": "one-off", "url": "https://breakingintowallstreet.com/private-equity-signup-options/", "seen_via": "search"},
+    {"what": "WSO Mentors mock interview, 1 hour", "price_text": "$149", "amount": 149, "currency": "USD", "unit": "hour", "url": "https://www.wallstreetoasis.com/career-services/mentors", "seen_via": "search"},
+    {"what": "MBA admissions consulting, multi-school package", "price_text": "$5,800", "amount": 5800, "currency": "USD", "unit": "package", "url": "https://www.admitadvantage.com/mba/pricing/", "seen_via": "search"}
+  ],
+  "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "The pains need judgment on modelling and deal work, mock case studies, accountability before on-cycle recruiting and peers; none needs large capital, ritual or licensed advocacy.",
+    "confidence": "high"
+  },
+  "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "Modelling and interview coaching needs no licence. Employer overlap: the room is trying to enter private equity, which sits next to the founder's banking job and PE network, so employer rules must be checked; teaching modelling does not itself use employer clients, deals or confidential information.",
+    "confidence": "moderate"
+  },
+  "trust_needed": {
+    "value": true,
+    "reasoning": "The buyer is paying personally for a career move with one recruiting window a year and prices from $149 an hour to $1,497, so they want proof the coach has done PE deals.",
+    "confidence": "moderate"
+  }
+},
+{
+  "slug": "gre-preppers-worldwide-online",
+  "reach": {
+    "kind": "warm",
+    "ledger_id": "w1",
+    "evidence_url": null,
+    "reasoning": "Indian engineers preparing for the GRE are the largest slice of this worldwide room and w1 reaches them through the founder's GRE product and its users; the rest of the room is reached only by search. Search reach clearly applies too: the Magoosh GRE app has 4.8 stars from 10.9K App Store ratings with in-app purchases (https://apps.apple.com/us/app/gre-prep-practice-by-magoosh/id522118003), GregMat sells at $11.99 per month, and r/GRE threads recommend paying for them.",
+    "confidence": "moderate"
+  },
+  "depth": {
+    "ledger_id": "d1",
+    "reasoning": "The core paid problem is GRE quant and verbal preparation, the ledger's first strong depth; only the application rung at the end of the ladder falls outside it.",
+    "confidence": "high"
+  },
+  "spend": [
+    {"what": "GregMat+ monthly subscription", "price_text": "$11.99 per month", "amount": 11.99, "currency": "USD", "unit": "month", "url": "https://www.gregmat.com/pricing", "seen_via": "search"},
+    {"what": "Magoosh GRE self-study plan", "price_text": "$179", "amount": 179, "currency": "USD", "unit": "one-off", "url": "https://gre.magoosh.com/plans", "seen_via": "search"},
+    {"what": "Target Test Prep GRE Flexible Preparation, month to month", "price_text": "$179 per month", "amount": 179, "currency": "USD", "unit": "month", "url": "https://gre.targettestprep.com/plans", "seen_via": "search"},
+    {"what": "GRE exam registration", "price_text": "$220", "amount": 220, "currency": "USD", "unit": "one-off", "url": "https://magoosh.com/gre/gre-exam-fee-and-cost/", "seen_via": "search"}
+  ],
+  "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "The pains need practice content, judgment on quant and verbal, accountability to a test date and study peers; no large capital, ritual or licensed advocacy is involved.",
+    "confidence": "high"
+  },
+  "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "Test prep needs no licence in any country and has nothing to do with the founder's employer. It overlaps the founder's own GRE venture (v1), which the ledger says to tag, not exclude.",
+    "confidence": "high"
+  },
+  "trust_needed": {
+    "value": false,
+    "reasoning": "This room buys self-serve prep at $8 to $179 from app stores and search on the strength of reviews, so the likely product is low-price and self-serve; a live cohort or tutoring rung would need more trust.",
+    "confidence": "moderate"
+  }
+},
+{
+  "slug": "f1-international-students-us-community",
+  "reach": {
+    "kind": "search",
+    "ledger_id": "s1",
+    "evidence_url": "https://www.trustpilot.com/review/www.sprintax.com",
+    "reasoning": "No warm path covers them: w1 reaches Indian engineers while they prepare for the GRE, and these people are two years past it in the US. They already buy F-1 status products online: Sprintax, a paid nonresident tax tool, has around 250 pages of Trustpilot reviews with F-1 students calling it the best platform for F-1 students, and resume services for F-1, OPT and H-1B candidates sell from $99 through search (https://profileelevate.com/for/international-students/).",
+    "confidence": "moderate"
+  },
+  "depth": {
+    "ledger_id": null,
+    "reasoning": "The core paid problems are OPT and H-1B rules, filings, timing and finding a sponsoring employer; none is a ledger depth domain, and GRE depth is adjacent only.",
+    "confidence": "high"
+  },
+  "spend": [
+    {"what": "SEVIS I-901 fee", "price_text": "$350", "amount": 350, "currency": "USD", "unit": "one-off", "url": "https://www.ice.gov/sevis/i901/faq", "seen_via": "search"},
+    {"what": "OPT work permit application, Form I-765", "price_text": "$470", "amount": 470, "currency": "USD", "unit": "one-off", "url": "https://immiva.com/blog/i-765-opt-filing-fee-2026-complete-cost-breakdown", "seen_via": "search"},
+    {"what": "Sprintax federal nonresident tax return, regular price quoted on a university page", "price_text": "$35.95", "amount": 35.95, "currency": "USD", "unit": "one-off", "url": "https://isldev.uga.edu/taxes", "seen_via": "search"},
+    {"what": "Profile Elevate US resume and coaching for F-1, OPT and H-1B candidates, starting price", "price_text": "$99", "amount": 99, "currency": "USD", "unit": "one-off", "url": "https://profileelevate.com/for/international-students/", "seen_via": "search"}
+  ],
+  "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "The core pains need guidance on rules and deadlines, a job hunt with visa constraints and accountability; the student files OPT with the school's DSO and the employer's lawyer files the H-1B, so representation before USCIS is not obviously the core. The licence question is handled under exclusions.",
+    "confidence": "moderate"
+  },
+  "excluded": {
+    "is_excluded": true,
+    "exclusion_id": "x1",
+    "reasoning": "The customers are in the US, where advising on immigration status and filings is legal advice restricted to licensed attorneys and accredited representatives, and four of the five ladder rungs are immigration filings; the founder holds no such licence. Only the job-hunt slice (resumes, sponsor lists) could be served without one, and that is not the room's core.",
+    "confidence": "moderate"
+  },
+  "trust_needed": {
+    "value": true,
+    "reasoning": "The outcome is the right to stay and work in the US, with dated filings and family money at stake, so buyers want someone accountable and qualified.",
+    "confidence": "high"
+  }
+},
+{
+  "slug": "btech-students-india-reddit-community",
+  "reach": {
+    "kind": "warm",
+    "ledger_id": "w1",
+    "evidence_url": null,
+    "reasoning": "The founder's GRE product users are Indian engineering students, so w1 enters this room, but only through the study-abroad slice; the placement, coding and GATE majority is not what the warm path covers. Search reach also applies: PrepInsta Prime sells a placement-prep subscription online at ₹3,333 a year (https://prepinsta.com/prime/purchase) and Scaler sells bootcamps at ₹3.99 lakh through search.",
+    "confidence": "moderate"
+  },
+  "depth": {
+    "ledger_id": "d1",
+    "reasoning": "GRE quant and verbal covers the study-abroad rungs (steps 4 and 5) but not the room's main paid problems, which are placement aptitude prep, coding bootcamps and GATE; the match is real but partial, so the depth id is given with low confidence.",
+    "confidence": "low"
+  },
+  "spend": [
+    {"what": "PrepInsta Prime one-year subscription (placement prep), discounted price", "price_text": "₹3,333", "amount": 3333, "currency": "INR", "unit": "year", "url": "https://prepinsta.com/prime/purchase", "seen_via": "search"},
+    {"what": "Scaler Academy coding and DSA program", "price_text": "₹3.99 lakh", "amount": 399000, "currency": "INR", "unit": "package", "url": "https://www.collegesimplified.in/post/is-scaler-worth-it-in-2026-complete-review-with-placements-fees", "seen_via": "search"},
+    {"what": "Made Easy GATE classroom coaching (low end of the range)", "price_text": "₹82,500 to ₹1,13,000", "amount": 82500, "currency": "INR", "unit": "package", "url": "https://www.madeeasy.in/fee-structure", "seen_via": "search"},
+    {"what": "GregMat+ monthly subscription for GRE prep", "price_text": "$11.99 per month", "amount": 11.99, "currency": "USD", "unit": "month", "url": "https://www.gregmat.com/pricing", "seen_via": "search"}
+  ],
+  "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "The pains need practice content, judgment, accountability and peers; no large capital, ritual or licensed advocacy is at the core.",
+    "confidence": "high"
+  },
+  "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "Test and placement prep needs no licence in India and does not touch the founder's employer. The room overlaps the founder's GRE venture (v1), which is tagged, not excluded.",
+    "confidence": "high"
+  },
+  "trust_needed": {
+    "value": false,
+    "reasoning": "The likely product for the founder is GRE-side prep, which this room buys self-serve at ₹3,333 a year or $11.99 a month on the strength of reviews; trust matters only on the ₹3.99 lakh bootcamp rung, which is outside the founder's depth.",
+    "confidence": "moderate"
+  }
+},
+{
+  "slug": "cfa-candidates-community",
+  "reach": {
+    "kind": "warm",
+    "ledger_id": "w2",
+    "evidence_url": null,
+    "reasoning": "CFA candidates hold finance jobs, so they are the finance professionals w2 covers, and a banker's current and past colleagues include candidates at all three levels. Search reach also applies: Kaplan Schweser sells Level I packages at $379 to $1,449 (https://www.schweser.com/cfa/level-1/study-packages) and Mark Meldrum sells self-study video packages online, both bought through search.",
+    "confidence": "moderate"
+  },
+  "depth": {
+    "ledger_id": "d2",
+    "reasoning": "Corporate finance, valuation and financial reporting are a large share of the CFA curriculum and the ledger's strong d2 depth, but the exam also tests ethics, portfolio management, fixed income, derivatives and economics, which the ledger does not list, so the match is partial.",
+    "confidence": "moderate"
+  },
+  "spend": [
+    {"what": "CFA Level I registration, early fee", "price_text": "USD 1,140", "amount": 1140, "currency": "USD", "unit": "one-off", "url": "https://finance.uworld.com/cfa/registration-cost-fees/", "seen_via": "search"},
+    {"what": "Kaplan Schweser Level I Premium package", "price_text": "$1,049", "amount": 1049, "currency": "USD", "unit": "package", "url": "https://www.schweser.com/cfa/level-1/study-packages", "seen_via": "search"},
+    {"what": "Kaplan Schweser Level I Essential self-study package", "price_text": "$749", "amount": 749, "currency": "USD", "unit": "package", "url": "https://www.schweser.com/cfa/level-1/study-packages", "seen_via": "search"},
+    {"what": "Mark Meldrum 2026 Level I Self-Study package (reported price)", "price_text": "$440", "amount": 440, "currency": "USD", "unit": "package", "url": "https://www.markmeldrum.com/product/2026-l1-self-study/", "seen_via": "search"}
+  ],
+  "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "The pains need study structure, judgment on hard topics, accountability to fixed exam windows and study peers; none needs large capital, ritual or licensed advocacy.",
+    "confidence": "high"
+  },
+  "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "Exam prep is not regulated investment advice and needs no licence. Employer overlap: the room is finance professionals, many in banking and research next to the founder's job, so employer rules should be checked, but teaching the curriculum uses no employer clients, deals or confidential information.",
+    "confidence": "moderate"
+  },
+  "trust_needed": {
+    "value": true,
+    "reasoning": "A pass-or-fail outcome with a $1,140 registration at stake and prep prices of $440 to $1,449 means buyers check who is behind a course or cohort, even though big brands sell self-serve from search.",
+    "confidence": "moderate"
+  }
+},
+{
+  "slug": "small-business-owners-reddit-community",
+  "reach": {
+    "kind": "search",
+    "ledger_id": "s1",
+    "evidence_url": "https://smith.ai/pricing/receptionists",
+    "reasoning": "w5 covers high-call-volume businesses in India and the Gulf and, per the ledger note, only existing TinyAI clients count as warm, while this room is mostly US and global owners, so it is not warm. Search reach is strong: owners buy AI receptionists from public pricing pages such as Smith.ai (AI plan $95/month), comparison guides list 15 such services priced $25 to $899 a month (https://bubblyphone.com/hub/ai-receptionist-pricing-compared), and Rosie reports over 1,900 businesses using it.",
+    "confidence": "high"
+  },
+  "depth": {
+    "ledger_id": "d5",
+    "reasoning": "The room's top paid problems, missed calls and being found when customers ask AI assistants, are AI voice agents and AI search visibility, a strong ledger depth; valuation at a sale (d2) covers a later rung, and staff and cash-flow pains are not covered.",
+    "confidence": "moderate"
+  },
+  "spend": [
+    {"what": "My AI Front Desk AI receptionist", "price_text": "$99/mo", "amount": 99, "currency": "USD", "unit": "month", "url": "https://www.myaifrontdesk.com/pricing", "seen_via": "search"},
+    {"what": "Smith.ai AI Receptionist starter plan", "price_text": "$95/month", "amount": 95, "currency": "USD", "unit": "month", "url": "https://smith.ai/pricing/receptionists", "seen_via": "search"},
+    {"what": "Rosie AI answering service, Professional tier", "price_text": "$49/mo", "amount": 49, "currency": "USD", "unit": "month", "url": "https://serviceagent.ai/blogs/rosie-ai-pricing/", "seen_via": "search"},
+    {"what": "Small business valuation before a sale (low end of the range)", "price_text": "$2,500 to $5,000", "amount": 2500, "currency": "USD", "unit": "one-off", "url": "https://www.bizworth.com/blog/valuation-costs-what-small-business-owners-should-expect-in-2026", "seen_via": "search"}
+  ],
+  "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "The core pains need a working AI product, judgment on setup and accountability; vendors (atoms) can be rented. Selling the business later may need a licensed broker in some US states, but that rung is not the core.",
+    "confidence": "high"
+  },
+  "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "AI call handling and search visibility need no licence, and small business owners are not the founder's employer's clients or deals; no employer overlap. Valuation opinions for a sale should stay informational to avoid regulated advice.",
+    "confidence": "high"
+  },
+  "trust_needed": {
+    "value": true,
+    "reasoning": "It is a B2B service where the product speaks to the owner's customers, so a wrong answer costs them business; even at $49 to $199 a month they want a vendor they can call, which is why comparison guides lean on reviews.",
+    "confidence": "moderate"
+  }
+},
+{
+  "slug": "women-in-finance-professional-networks",
+  "reach": {
+    "kind": "warm",
+    "ledger_id": "w2",
+    "evidence_url": null,
+    "reasoning": "Women in banking, asset management and private equity are the finance professionals w2 covers, and the founder's current and past colleagues include them, though the warm slice is small and the founder is not himself a member of these networks. Search reach also exists: memberships are bought online at USD $150 (100 Women in Finance) and about $40 a month (Ellevate).",
+    "confidence": "moderate"
+  },
+  "depth": {
+    "ledger_id": null,
+    "reasoning": "The core paid problems are networking, sponsorship, promotion and pay negotiation, which no ledger depth covers; corporate finance (d2) is adjacent and touches only the CFA rung.",
+    "confidence": "moderate"
+  },
+  "spend": [
+    {"what": "100 Women in Finance global member access fee", "price_text": "USD $150", "amount": 150, "currency": "USD", "unit": "year", "url": "https://100women.org/membership/", "seen_via": "search"},
+    {"what": "Ellevate Network individual membership (reported monthly price)", "price_text": "$40 per month", "amount": 40, "currency": "USD", "unit": "month", "url": "https://womenceo.co/article/chief-vs-ellevate-vs-womenceo/", "seen_via": "search"},
+    {"what": "WiBF Australia individual membership", "price_text": "$440 incl GST", "amount": 440, "currency": "AUD", "unit": "year", "url": "https://wibf.org.au/individual-membership/", "seen_via": "search"},
+    {"what": "Executive coaching for promotion or pay negotiation (low end of the range)", "price_text": "$300–$1,000 per session", "amount": 300, "currency": "USD", "unit": "session", "url": "https://simply.coach/blog/guide-to-executive-coaching-pricing/", "seen_via": "search"}
+  ],
+  "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "The pains need peers, accountability and sponsorship, which are not large capital, ritual or licensed advocacy; but the credibility of a male banker supplying peer and accountability walls for this room is an open question for later stages.",
+    "confidence": "moderate"
+  },
+  "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "Networking and career coaching need no licence. Employer overlap: the room is finance professionals including bankers, so employer rules apply, but the product would not use the employer's clients, deals or confidential information.",
+    "confidence": "moderate"
+  },
+  "trust_needed": {
+    "value": true,
+    "reasoning": "Coaching for a promotion or pay is personal, sold at $300 to $1,000 a session, and this room chooses its guides carefully, so trust is essential.",
+    "confidence": "high"
+  }
+}
+]}
