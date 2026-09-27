@@ -481,3 +481,10 @@
 {"command": "listen-status", "dated": 23, "kind": "ran", "per_round": {"1": 1283}, "per_source": {"websearch": 1283}, "records": 1283, "room": "bpo-contact-centre-operators-india-philippines", "stage": 3, "ts": "2026-09-27T10:20:57+00:00", "undated": 1260}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T10:23:33+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T10:28:35+00:00"}
+{"command": "show", "ids": 3, "kind": "ran", "missing": [], "room": "d2c-brands-scaling-past-launch", "stage": 3, "ts": "2026-09-27T10:28:39+00:00"}
+{"command": "show", "ids": 5, "kind": "ran", "missing": [], "room": "outbound-lead-gen-appointment-setting-agencies", "stage": 3, "ts": "2026-09-27T10:30:58+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "outbound-lead-gen-appointment-setting-agencies", "stage": 3, "ts": "2026-09-27T10:31:23+00:00"}
+{"command": "listen-status", "dated": 15, "kind": "ran", "per_round": {"1": 978}, "per_source": {"websearch": 978}, "records": 978, "room": "small-industrial-property-investors", "stage": 3, "ts": "2026-09-27T10:32:11+00:00", "undated": 963}
+{"command": "show", "ids": 4, "kind": "ran", "missing": [], "room": "outbound-lead-gen-appointment-setting-agencies", "stage": 3, "ts": "2026-09-27T10:32:16+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "outbound-lead-gen-appointment-setting-agencies", "stage": 3, "ts": "2026-09-27T10:32:25+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T10:33:37+00:00"}

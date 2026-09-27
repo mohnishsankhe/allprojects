@@ -138,3 +138,114 @@
 {"round": 1, "query": "how to get a US process for my call center", "kind": "phrasing"}
 {"round": 1, "query": "call center client not paying invoice what to do", "kind": "phrasing"}
 {"round": 1, "query": "call center clients asking for AI what should BPO owner do", "kind": "phrasing"}
+{"round": 2, "query": "site:vicidial.org forum caller ID showing spam likely rotate DIDs", "kind": "forum"}
+{"round": 2, "query": "site:vicidial.org forum STIR SHAKEN attestation calls not answered", "kind": "forum"}
+{"round": 2, "query": "site:vicidial.org forum DNC list scrub TCPA compliance", "kind": "forum"}
+{"round": 2, "query": "site:vicidial.org forum drop rate 3 percent abandon rule safe harbor", "kind": "forum"}
+{"round": 2, "query": "site:vicidial.org forum call recordings quality control scoring agents", "kind": "forum"}
+{"round": 2, "query": "site:vicidial.org forum PCI compliance pause recording credit card payments", "kind": "forum"}
+{"round": 2, "query": "site:vicidial.org forum server hacked toll fraud huge carrier bill", "kind": "forum"}
+{"round": 2, "query": "site:vicidial.org forum paid someone to install vicidial still not working", "kind": "forum"}
+{"round": 2, "query": "site:vicidial.org forum remote agents work from home WebRTC audio problems", "kind": "forum"}
+{"round": 2, "query": "site:vicidial.org forum AI voice bot integration replace agents", "kind": "forum"}
+{"round": 2, "query": "site:vicidial.org forum cheap SIP trunk termination rates India call center", "kind": "forum"}
+{"round": 2, "query": "site:vicidial.org forum agents waiting long time between calls dial level", "kind": "forum"}
+{"round": 2, "query": "site:vicidial.org forum answering machine detection hanging up live calls", "kind": "forum"}
+{"round": 2, "query": "site:vicidial.org forum agent pause codes productivity adherence report", "kind": "forum"}
+{"round": 2, "query": "site:vicidial.org forum India VoIP legal DoT licence international call center", "kind": "forum"}
+{"round": 2, "query": "site:vicidial.org forum client SLA service level report inbound queue", "kind": "forum"}
+{"round": 2, "query": "site:vicidial.org forum Philippines internet outage agents disconnected latency", "kind": "forum"}
+{"round": 2, "query": "site:community.freepbx.org call center outbound calls marked spam", "kind": "forum"}
+{"round": 2, "query": "site:community.freepbx.org call center agents Philippines India SIP trunk", "kind": "forum"}
+{"round": 2, "query": "site:community.asterisk.org toll fraud hacked PBX international calls bill", "kind": "forum"}
+{"round": 2, "query": "site:community.spiceworks.com call center BPO client security audit requirements", "kind": "forum"}
+{"round": 2, "query": "site:forums.digitalpoint.com call center seats available looking for campaigns", "kind": "forum"}
+{"round": 2, "query": "site:forums.digitalpoint.com BPO projects fraud upfront fee", "kind": "forum"}
+{"round": 2, "query": "site:warriorforum.com offshore call center owner looking for clients", "kind": "forum"}
+{"round": 2, "query": "site:blackhatworld.com call center seats campaign client not paying", "kind": "forum"}
+{"round": 2, "query": "site:pinoyexchange.com small call center business owner problems", "kind": "forum"}
+{"round": 2, "query": "site:goautodial.org call center dialer problem Philippines", "kind": "forum"}
+{"round": 2, "query": "site:callcentersindia.com beware fraud process provider cheated", "kind": "forum"}
+{"round": 2, "query": "site:callcentersindia.com payment pending client not paying call center", "kind": "forum"}
+{"round": 2, "query": "site:callcentersindia.com looking for process seats ready immediate start", "kind": "forum"}
+{"round": 2, "query": "site:caclubindia.com GST refund export of services BPO call centre", "kind": "forum"}
+{"round": 2, "query": "site:caclubindia.com call centre foreign client payment LUT export invoice", "kind": "forum"}
+{"round": 2, "query": "site:quora.com how do I stop my call center numbers showing spam likely", "kind": "qa"}
+{"round": 2, "query": "site:quora.com how to remove my business number from spam on Truecaller for telecalling", "kind": "qa"}
+{"round": 2, "query": "site:quora.com do I need TRAI registration to start a telecalling business", "kind": "qa"}
+{"round": 2, "query": "site:quora.com how to get a 140 series number for my call center", "kind": "qa"}
+{"round": 2, "query": "site:quora.com what licenses are needed to start a call center in India OSP", "kind": "qa"}
+{"round": 2, "query": "site:quora.com is PEZA registration worth it for a small BPO in the Philippines", "kind": "qa"}
+{"round": 2, "query": "site:quora.com what is the monthly running cost per seat of a call center in India", "kind": "qa"}
+{"round": 2, "query": "site:quora.com I invested in a call center business and lost money", "kind": "qa"}
+{"round": 2, "query": "site:quora.com my client is not paying my BPO company what should I do", "kind": "qa"}
+{"round": 2, "query": "site:quora.com how should a small BPO company survive AI voice bots", "kind": "qa"}
+{"round": 2, "query": "site:quora.com has anyone used AI voice bots in their call center did it work", "kind": "qa"}
+{"round": 2, "query": "site:quora.com clients asking BPO for lower rate per hour how to compete", "kind": "qa"}
+{"round": 2, "query": "site:quora.com do I need ISO 27001 certification to get international BPO projects", "kind": "qa"}
+{"round": 2, "query": "site:quora.com how to make a call center PCI DSS compliant", "kind": "qa"}
+{"round": 2, "query": "site:quora.com how do I calculate how many agents my call center needs", "kind": "qa"}
+{"round": 2, "query": "site:quora.com how to reduce absenteeism and shrinkage in a call center", "kind": "qa"}
+{"round": 2, "query": "site:quora.com how to improve quality scores of call center agents for client audit", "kind": "qa"}
+{"round": 2, "query": "site:quora.com is call center QA software worth it for a small BPO", "kind": "qa"}
+{"round": 2, "query": "site:quora.com paid a BPO process provider but got no project refund", "kind": "qa"}
+{"round": 2, "query": "site:quora.com is this BPO project provider genuine or fraud", "kind": "qa"}
+{"round": 2, "query": "site:quora.com how do Philippine call centers handle brownouts and internet outages", "kind": "qa"}
+{"round": 2, "query": "site:quora.com is DRA certification mandatory for collection call center agents", "kind": "qa"}
+{"round": 2, "query": "site:quora.com how to monitor work from home call center agents data security", "kind": "qa"}
+{"round": 2, "query": "site:quora.com how do I hire and retain agents for my small call center", "kind": "qa"}
+{"round": 2, "query": "site:quora.com night shift cab facility cost for female employees call center rules", "kind": "qa"}
+{"round": 2, "query": "site:quora.com how can a small BPO in the Philippines compete with big BPOs for clients", "kind": "qa"}
+{"round": 2, "query": "site:hi.quora.com कॉल सेंटर के लिए प्रोसेस कहाँ से मिलेगा", "kind": "qa"}
+{"round": 2, "query": "site:hi.quora.com बीपीओ प्रोजेक्ट के नाम पर धोखा पैसे वापस", "kind": "qa"}
+{"round": 2, "query": "site:hi.quora.com कॉल सेंटर बिजनेस में नुकसान क्यों होता है", "kind": "qa"}
+{"round": 2, "query": "site:consumercomplaints.in Knowlarity refund not given", "kind": "reviews"}
+{"round": 2, "query": "site:consumercomplaints.in Exotel billing complaint", "kind": "reviews"}
+{"round": 2, "query": "site:consumercomplaints.in MyOperator complaint refund", "kind": "reviews"}
+{"round": 2, "query": "site:consumercomplaints.in cloud telephony dialer service not working refund", "kind": "reviews"}
+{"round": 2, "query": "site:consumercomplaints.in BPO project security deposit not refunded", "kind": "reviews"}
+{"round": 2, "query": "site:justdial.com BPO project provider reviews fraud", "kind": "reviews"}
+{"round": 2, "query": "site:mouthshut.com BPO project provider fraud review", "kind": "reviews"}
+{"round": 2, "query": "site:complaintboard.in call center project fraud", "kind": "reviews"}
+{"round": 2, "query": "site:trustpilot.com ReadyMode dialer reviews", "kind": "reviews"}
+{"round": 2, "query": "site:trustpilot.com Truecaller business number marked spam review", "kind": "reviews"}
+{"round": 2, "query": "site:trustpilot.com seat leasing Philippines reviews", "kind": "reviews"}
+{"round": 2, "query": "site:youtube.com how I lost money in my call center business", "kind": "video"}
+{"round": 2, "query": "site:youtube.com call center business me loss kyu hota hai", "kind": "video"}
+{"round": 2, "query": "site:youtube.com telecalling numbers blocked TRAI new rules business", "kind": "video"}
+{"round": 2, "query": "site:ph.jobstreet.com real time analyst workforce BPO", "kind": "jobs"}
+{"round": 2, "query": "site:ph.jobstreet.com data privacy officer BPO", "kind": "jobs"}
+{"round": 2, "query": "site:naukri.com information security ISO 27001 compliance BPO", "kind": "jobs"}
+{"round": 2, "query": "site:linkedin.com/jobs AI voice bot implementation BPO India", "kind": "jobs"}
+{"round": 2, "query": "Truecaller for Business verified badge price India", "kind": "pricing"}
+{"round": 2, "query": "Numeracle pricing branded caller ID", "kind": "pricing"}
+{"round": 2, "query": "Hiya Connect branded call pricing", "kind": "pricing"}
+{"round": 2, "query": "TRAI DLT telemarketer registration fee Jio Airtel Vodafone", "kind": "pricing"}
+{"round": 2, "query": "PEZA IT-BPM registration fees application processing", "kind": "pricing"}
+{"round": 2, "query": "injixo pricing per agent workforce management", "kind": "pricing"}
+{"round": 2, "query": "Convin AI call audit pricing per agent", "kind": "pricing"}
+{"round": 2, "query": "DPDP Act compliance consultant cost India small company", "kind": "pricing"}
+{"round": 2, "query": "IBPAP membership fee IT-BPM company", "kind": "pricing"}
+{"round": 2, "query": "site:indiamart.com BPO project provider registration fee inbound outbound", "kind": "pricing"}
+{"round": 2, "query": "DPDP Rules 2025 notified phased compliance timeline 18 months", "kind": "official"}
+{"round": 2, "query": "TRAI TCCCPR amendment 2025 unregistered telemarketers disconnection penalty", "kind": "official"}
+{"round": 2, "query": "1600 series numbers mandatory banks insurers service calls deadline", "kind": "official"}
+{"round": 2, "query": "new labour codes India November 2025 IT ITES night shift women employers", "kind": "official"}
+{"round": 2, "query": "FIRB rules work from home IT-BPM registered business enterprises 2025", "kind": "official"}
+{"round": 2, "query": "FCC TCPA revoke all rule delay April 2026 call centers", "kind": "official"}
+{"round": 2, "query": "FTC Telemarketing Sales Rule 2024 amendment business to business calls", "kind": "official"}
+{"round": 2, "query": "NPC Philippines circular registration of personal data processing systems deadline", "kind": "official"}
+{"round": 2, "query": "RBI recovery agents calling hours 8 am 7 pm collection agencies outsourcing", "kind": "official"}
+{"round": 2, "query": "GST LUT export of services due date BPO", "kind": "official"}
+{"round": 2, "query": "site:linkedin.com/pulse challenges of running a small BPO in India", "kind": "blog"}
+{"round": 2, "query": "site:linkedin.com/pulse why small call centers shut down Philippines owner", "kind": "blog"}
+{"round": 2, "query": "site:medium.com running a call center in India lessons owner", "kind": "blog"}
+{"round": 2, "query": "DoT disconnected telemarketing numbers businesses blacklisted 2025 call centres", "kind": "blog"}
+{"round": 2, "query": "BIR VAT refund delay BPO Philippines zero rated", "kind": "blog"}
+{"round": 2, "query": "how to remove spam tag from my business number truecaller", "kind": "phrasing"}
+{"round": 2, "query": "140 series number kaise le telecalling business", "kind": "phrasing"}
+{"round": 2, "query": "is it worth getting ISO 27001 for a small BPO", "kind": "phrasing"}
+{"round": 2, "query": "how to collect unpaid invoice from US client BPO", "kind": "phrasing"}
+{"round": 2, "query": "client wants to cut our rate per hour call center what to do", "kind": "phrasing"}
+{"round": 2, "query": "paano kumuha ng US client para sa maliit na call center", "kind": "phrasing"}
+{"round": 2, "query": "BPO project security deposit refund nahi mila", "kind": "phrasing"}
