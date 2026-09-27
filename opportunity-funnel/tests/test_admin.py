@@ -31,7 +31,8 @@ def test_ledger_check_passes_on_the_real_config(froot):
     assert r["warnings"] == []
 
 
-def test_ledger_check_detects_text_drift(froot, cli):
+def test_ledger_check_detects_text_drift(froot, run, cli):
+    # `run` creates runs/2026-09-26: ledger-check logs into a run folder that exists and never creates one
     md = _ledger_md(froot)
     text = md.read_text(encoding="utf-8")
     assert "Value of one of my hours: ₹1,500." in text

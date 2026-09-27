@@ -15,6 +15,15 @@ Spend check: distinct domains across `spend_evidence` (a record's domain comes
 from its URL); fewer than `spend_sources_min` -> tagged [spend: N source(s)].
 [titles only] when every supporting record is a web-search title (source
 `websearch`); [undated share: X%] always.
+Every alternative's price goes through the price checker (prices.check_items),
+exactly as the mask does for spend items: `seen_via: page` is `[measured]` only
+when the page was opened and shows the price text; a page the network blocks,
+or a price read in a search result, is `[measured, page not checked]`. The
+status, tag and detail are stored on the alternative in pains.json and every
+renderer prints the checker's tag, never the model's claim (rule 8).
+The graveyard lines dated on the run date for stage 3 say exactly what this run
+of `pains` dropped or cut (common.sync_graveyard): a pain a rerun keeps loses
+its stale line.
 
 Public API
 ----------
@@ -41,6 +50,7 @@ from __future__ import annotations
 from pathlib import Path
 
 import common
+import prices
 import quote_check
 import records
 
@@ -348,13 +358,7 @@ def dead_pains_from_other_runs(run) -> dict:
     (this stage on an earlier rerun, or a later stage), and rerunning `pains`
     must give the same answer whatever ran after it.
     """
-    dead = common.dead_items("pain")
-    run_day = common.run_date(run).isoformat()
-    out: dict = {}
-    for e in common.parse_graveyard():
-        if e["item"] in dead and e["date"] != run_day and e["item"] not in out:
-            out[e["item"]] = e
-    return out
+    return common.dead_entries("pain", ignore_date=common.run_date(run).isoformat())
 
 
 # --------------------------------------------------------------------------- the stage
@@ -399,6 +403,7 @@ def pains(run) -> dict:
     all_pains: list = []
     csv_rows: list = []
     room_info: dict = {}
+    alt_items: list = []
     quotes_pass = quotes_fail = 0
     for room in rooms:
         draft = load_draft(run, room)
@@ -462,6 +467,9 @@ def pains(run) -> dict:
                     url = (stored.get(it.get("record_id")) or {}).get("url") if isinstance(it.get("record_id"), str) else None
                 it["domain"] = common.domain_of(url or "")
                 spend_out.append(it)
+            alternatives = [dict(a) for a in (pain.get("alternatives") or [])]
+            for i_alt, a in enumerate(alternatives, 1):
+                alt_items.append((f"{pid} alternative {i_alt}", a))
             entry = {
                 "pain_id": pid, "room": room, "pain_key": key,
                 "status": "kept", "rank": None, "drop_reason": None,
@@ -469,7 +477,7 @@ def pains(run) -> dict:
                 "description": pain.get("description"),
                 "urgency": dict(pain["urgency"]), "urgency_type": utype,
                 "who_pays": dict(pain["who_pays"]),
-                "alternatives": list(pain.get("alternatives") or []),
+                "alternatives": alternatives,
                 "sellers": list(pain.get("sellers") or []),
                 "spend_evidence": spend_out,
                 "spend_domains": domains, "spend_sources": len(domains),
@@ -520,6 +528,16 @@ def pains(run) -> dict:
     if errors:
         raise common.ValidationErrors(errors)
 
+    # the price checker on every alternative (offline -> blocked_by_network, shown as [measured, page not checked])
+    checked = prices.check_items(run, STAGE, "pains", alt_items)
+    price_by_where = {r["where"]: r for r in checked["items"]}
+    for p in all_pains:
+        for i_alt, a in enumerate(p["alternatives"], 1):
+            r = price_by_where[f"{p['pain_id']} alternative {i_alt}"]
+            a["price_status"] = r["status"]
+            a["price_tag"] = r["tag"]
+            a["price_detail"] = r["detail"]
+
     survivors = sorted((p for p in all_pains if p["status"] != "dropped"), key=lambda p: rank_key(p, rank_by, urgency_order))
     for i, p in enumerate(survivors, 1):
         p["rank"] = i
@@ -531,19 +549,24 @@ def pains(run) -> dict:
         room_info[p["room"]][f"pains_{p['status']}"] += 1
 
     date = common.run_date(run)
+    kills: dict = {}
     for p in dropped:
         if p.get("graveyard_line_added") is False:
             continue  # already dead in the graveyard; no second line
-        common.append_graveyard(date, STAGE, f"pain:{p['pain_id']}", p["drop_reason"])
-        p["graveyard_line_added"] = True
+        kills[f"pain:{p['pain_id']}"] = p["drop_reason"]
+        p["graveyard_line_added"] = not common.is_dry_run()
     for p in cut:
         p["drop_reason"] = (f"cut: ranked {p['rank']} of {len(survivors)} survivors and max_pains_total is {max_keep}; "
                             f"failed spend {p['failed_spend_mentions']}, money {p['money_mentions']}, urgency "
                             f"{p['urgency_type']}, member records {p['record_count']}")
-        common.append_graveyard(date, STAGE, f"pain:{p['pain_id']}", p["drop_reason"])
-        p["graveyard_line_added"] = True
+        kills[f"pain:{p['pain_id']}"] = p["drop_reason"]
+        p["graveyard_line_added"] = not common.is_dry_run()
     for p in kept:
         p["graveyard_line_added"] = False
+    # the graveyard says exactly what this run of `pains` dropped or cut: a pain a rerun keeps loses its same-date line
+    common.sync_graveyard(date, STAGE, [f"pain:{p['pain_id']}" for p in all_pains], kills)
+    if common.is_dry_run() and kills:
+        info_notes.append("dry run: no graveyard line was written for " + ", ".join(sorted(kills)) + ".")
 
     needs_calls_rooms = sorted(r for r, info in room_info.items() if info["needs_calls"] is True)
     if needs_calls_rooms:
@@ -585,6 +608,7 @@ def pains(run) -> dict:
         "needs_calls": needs_calls_rooms,
         "review_notes": review_notes,
         "notes": info_notes,
+        "price_check": {"counts": checked["counts"], "blocked_domains": checked["blocked_domains"]},
         "tag_meaning": TAG_MEANING,
     }
     ldir = common.listen_dir(run)
@@ -604,10 +628,15 @@ def _cell(s) -> str:
     return common.normalize_ws(str(s if s is not None else "")).replace("|", "/")
 
 
+def price_tag_of(item: dict) -> str:
+    """The price checker's tag for an alternative; without a check on record the page counts as not checked."""
+    tag = item.get("price_tag") if isinstance(item, dict) else None
+    return tag if isinstance(tag, str) and tag else prices.TAG_NOT_CHECKED
+
+
 def _price_line(item: dict) -> str:
     return (f"{_cell(item.get('what'))}: {_cell(item.get('price_text'))} ({item.get('currency')} {item.get('amount')} "
-            f"per {item.get('unit')}) [measured{', page not checked' if item.get('seen_via') == 'search' else ''}] "
-            f"<{item.get('url')}>")
+            f"per {item.get('unit')}) {price_tag_of(item)} <{item.get('url')}>")
 
 
 def _pain_section(p: dict, heading: str) -> list:
@@ -731,6 +760,14 @@ def render_md(result: dict, run) -> str:
     if result["notes"]:
         lines += ["", "## Notes", ""]
         lines += [f"- {n}" for n in result["notes"]]
+    pc = result.get("price_check") or {}
+    lines += ["", "## Price checks on the alternatives", "",
+              "Counts: " + (", ".join(f"{k} {v}" for k, v in sorted((pc.get("counts") or {}).items())) or "no alternatives") + ". "
+              "`[measured]` = the page was opened and shows the price text; `[measured, page not checked]` = the price was "
+              "read in a search result or the page could not be opened; `[not found on page]` = the page was opened and "
+              "does not show it."]
+    if pc.get("blocked_domains"):
+        lines.append("Domains to allow so the price pages can be opened: " + ", ".join(pc["blocked_domains"]) + ".")
     return "\n".join(lines) + "\n"
 
 
@@ -760,6 +797,8 @@ def cmd_pains(args) -> int:
         print(f"review: {n}")
     for n in result["notes"]:
         print(f"note: {n}")
+    if result["price_check"]["blocked_domains"]:
+        print("Domains to allow for the alternatives' price pages: " + ", ".join(result["price_check"]["blocked_domains"]))
     ldir = common.listen_dir(run)
     print(f"Wrote {common.rel(ldir / 'pains.json')}, {common.rel(ldir / 'pains.md')}, "
           f"{common.rel(ldir / 'quote_check.csv')} and graveyard.md")
@@ -769,4 +808,4 @@ def cmd_pains(args) -> int:
 def register(subparsers) -> None:
     p = subparsers.add_parser("pains", help="Join every room's pains draft with its counts, check quotes, apply the drop rules, "
                                             "rank and keep at most max_pains_total; write pains.json, pains.md and quote_check.csv.")
-    p.set_defaults(func=cmd_pains)
+    p.set_defaults(func=cmd_pains, stage_no=STAGE)

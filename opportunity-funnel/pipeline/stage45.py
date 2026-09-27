@@ -6,7 +6,16 @@
 reject a merged file that is less conservative (naming the exact field), kill a
 pain whose merged outcome is reached today, hint `trade` when every wall melts,
 render `04_walks/<pain-id>.md` and write `04_walks/_stage4.json`.
-`walks --check PAIN_ID` validates one pain's files and writes nothing.
+`walks --check PAIN_ID` validates one pain's files and writes nothing; with
+`--walker a|b` it validates only that walker's own file and says nothing about
+the other walker's file (not even whether it exists), so the two walkers stay
+independent (rule 3). Without `--walker` (the comparator's check) it also
+requires alternative_pairs_min..max alternatives on a kept pain, the same rule
+`pairs` applies, so the comparator fixes the count before it exits.
+With no kept pain in pains.json, `walks` writes an empty `_stage4.json` and
+exits 0 (as `pairs` does with no Stage 4 survivor and `numbers` with no Stage 5
+survivor), so a run in which everything dies early still reaches SHORTLIST.md
+and its five closest candidates.
 
 Conservative merge (config/kill_rules.yaml, stage4): the outcome is reached
 today if EITHER walker says so; a wall persists only if BOTH say it persists
@@ -37,7 +46,7 @@ Public API
     derive_merge(a, b, reconciled_ids, unsure_as="melts") -> dict
     check_conservative(merged, derived, where, unsure_as="melts") -> list[str]
     effective_forward(merged, derived, unsure_as="melts") -> dict[wall -> persists|melts]
-    walks(run, check=None) -> dict             the _stage4.json content (or the check report)
+    walks(run, check=None, walker=None) -> dict   the _stage4.json content (or the check report)
     render_walk_md(entry, merged, a, b, walls, run) -> str
     ledger_supply(ledger=None) -> dict         {"can_be", "can_rent", "cannot", "not_mentioned"}
     depth_strength_by_room(run, ledger=None) -> dict[slug -> {"depth_ledger_id", "strength"}]
@@ -724,7 +733,35 @@ def _check_one(run, pid: str, room: str, walls: dict, supply: dict, rules4: dict
             "derived": derived, "present": present, "paths": paths}
 
 
-def walks(run, check=None) -> dict:
+def _check_walker_only(run, pid: str, walker: str, walls: dict, stored: dict) -> dict:
+    """Validate one walker's own file and nothing else: the other walker's file is never read or named."""
+    if walker not in ("a", "b"):
+        raise common.ValidationErrors([f"--walker must be a or b (got {walker!r})."])
+    path = walk_paths(run, pid)[walker]
+    if not path.exists():
+        raise common.MissingInput(f"{common.rel(path)} is missing. Walker {walker} writes it in mode walk.")
+    data, err = _read(path)
+    errors = [err] if err else validate_walk(data, common.rel(path), pid, walls, letter=walker, stored=stored)
+    notes = [] if stored else [f"{common.split_pain_id(pid)[0]}: no stored records found; persona record_ids were not checked."]
+    common.log_event(run, STAGE4, "walks", "check", pain=pid, walker=walker, errors=len(errors))
+    return {"pain_id": pid, "walker": walker, "present": {walker: True}, "errors": errors, "notes": notes,
+            "derived": None, "pair_checks": []}
+
+
+def _empty_stage4(run, rules4: dict, unsure_as: str, note: str) -> dict:
+    result = {
+        "rules": {"unsure_counts_as": unsure_as, "kill_only_if_outcome_reached_today": bool(rules4.get("kill_only_if_outcome_reached_today", True)),
+                  "conservative_merge": bool(rules4.get("conservative_merge", True))},
+        "counts": {"in": 0, "walked": 0, "kept": 0, "killed": 0, "lane_hint_trade": 0},
+        "kept": [], "killed": [], "lane_hint_trade": [], "pains": [], "notes": [note],
+    }
+    common.write_json(walks_dir(run) / "_stage4.json", result)
+    common.log_event(run, STAGE4, "walks", "note", note=note, review=False)
+    common.log_event(run, STAGE4, "walks", "count", pains_in=0, walked=0, kept=0, killed=0, lane_hint_trade=[])
+    return result
+
+
+def walks(run, check=None, walker=None) -> dict:
     rd = common.run_dir(run)
     rules = common.load_kill_rules()
     rules4 = rules.get("stage4") or {}
@@ -736,6 +773,8 @@ def walks(run, check=None) -> dict:
         pid = check
         room, _key = common.split_pain_id(pid)
         stored = records.records_by_id(run, room)
+        if walker:
+            return _check_walker_only(run, pid, walker, walls, stored)
         r = _check_one(run, pid, room, walls, supply, rules4, stored)
         if not any(r["present"].values()):
             raise common.MissingInput(f"No walk files for {pid} in {common.rel(walks_dir(run))}/: expected {pid}.a.json, "
@@ -751,12 +790,26 @@ def walks(run, check=None) -> dict:
                 report["lane_hint"] = entry["lane_hint"]
                 report["status"] = entry["status"]
                 report["pair_checks"] = _pair_checks_for(run, entry, r["merged"], rules, supply, walls)
-        common.log_event(run, STAGE4, "walks", "check", pain=pid, files=r["present"], errors=len(r["errors"]))
+                if entry["status"] == "kept":
+                    # the same count rule `pairs` applies, so the comparator fixes it before it exits
+                    s5 = rules.get("stage5") or {}
+                    alt_min, alt_max = int(s5.get("alternative_pairs_min", 2)), int(s5.get("alternative_pairs_max", 3))
+                    n_alts = len(r["merged"].get("pairs") or [])
+                    if not alt_min <= n_alts <= alt_max:
+                        msg = (f"{common.rel(r['paths']['merged'])}: {n_alts} alternative pair(s); the comparator drafts "
+                               f"{alt_min} to {alt_max} (alternative_pairs_min/max).")
+                        if common.is_dry_run():
+                            report["notes"].append(f"dry run: {msg}")
+                        else:
+                            report["errors"].append(msg)
+        common.log_event(run, STAGE4, "walks", "check", pain=pid, files=r["present"], errors=len(report["errors"]))
         return report
 
     kept = load_kept_pains(run)
     if not kept:
-        raise common.MissingInput(f"No kept pains in {common.rel(common.listen_dir(run) / 'pains.json')}. Nothing to walk.")
+        return _empty_stage4(run, rules4, unsure_as,
+                             f"No kept pains in {common.rel(common.listen_dir(run) / 'pains.json')}: nothing to walk. "
+                             f"Stage 4 has no survivors; the shortlist will list the closest candidates instead.")
     errors: list = []
     missing: list = []
     notes: list = []
@@ -792,15 +845,20 @@ def walks(run, check=None) -> dict:
         raise common.ValidationErrors(errors)
 
     out_pains: list = []
+    kills: dict = {}
     for pain, r in entries:
         pid = pain["pain_id"]
         entry = _stage4_entry(pid, pain.get("room") or common.split_pain_id(pid)[0], r["merged"], r["a"], r["b"], r["derived"], rules4)
         entry["stage3_rank"] = pain.get("rank")
         entry["tags"] = list(pain.get("tags") or [])
         if entry["status"] == "killed":
-            common.append_graveyard(date, STAGE4, f"pain:{pid}", entry["kill_reason"])
+            kills[f"pain:{pid}"] = entry["kill_reason"]
         common.write_text(r["paths"]["md"], render_walk_md(entry, r["merged"], r["a"], r["b"], walls, run))
         out_pains.append(entry)
+    # the graveyard says exactly what this run of the walk killed: a pain a rerun keeps loses its same-date line
+    common.sync_graveyard(date, STAGE4, [f"pain:{e['pain_id']}" for e in out_pains], kills)
+    if common.is_dry_run() and kills:
+        notes.append("dry run: no graveyard line was written for " + ", ".join(sorted(kills)) + ".")
     kept_ids = [e["pain_id"] for e in out_pains if e["status"] == "kept"]
     killed_ids = [e["pain_id"] for e in out_pains if e["status"] == "killed"]
     trade_hints = [e["pain_id"] for e in out_pains if e["status"] == "kept" and e["lane_hint"] == "trade"]
@@ -1062,13 +1120,16 @@ def pairs(run) -> dict:
     common.require_file(p4, "Run `funnel walks` first.")
     stage4 = common.read_json(p4)
     entries = [e for e in (stage4.get("pains") or []) if isinstance(e, dict) and e.get("status") == "kept"]
-    if not entries:
-        raise common.MissingInput(f"No Stage 4 survivors in {common.rel(p4)}. Nothing to pair.")
 
     errors: list = []
     warnings: list = []
     out: list = []
+    notes: list = []
+    kills: dict = {}
     date = common.run_date(run)
+    if not entries:
+        notes.append(f"No Stage 4 survivors in {common.rel(p4)}: nothing to pair. Stage 5 has no survivors; the shortlist "
+                     f"will list the closest candidates instead.")
     for entry in entries:
         pid = entry["pain_id"]
         mp = walk_paths(run, pid)["merged"]
@@ -1135,16 +1196,22 @@ def pairs(run) -> dict:
                 parts.append(f"alternative {a['index']} (rank {a['rank']}): {fails}")
             item["kill_reason"] = ("no pair, no clean trade, no plausible partner: " + " / ".join(parts)) if parts \
                 else "no pair, no clean trade, no plausible partner: no alternative pairs were drafted"
-            common.append_graveyard(date, STAGE5, f"pain:{pid}", item["kill_reason"])
+            kills[f"pain:{pid}"] = item["kill_reason"]
         out.append(item)
     if errors:
         raise common.ValidationErrors(errors)
+    # the graveyard says exactly what this run of the pairing killed: a pain a rerun keeps loses its same-date line
+    common.sync_graveyard(date, STAGE5, [f"pain:{x['pain_id']}" for x in out], kills)
+    if common.is_dry_run() and kills:
+        notes.append("dry run: no graveyard line was written for " + ", ".join(sorted(kills)) + ".")
     out.sort(key=lambda x: (x["stage3_rank"] if _is_int(x.get("stage3_rank")) else 10 ** 9, x["pain_id"]))
     kept_ids = [x["pain_id"] for x in out if x["status"] == "kept"]
     killed_ids = [x["pain_id"] for x in out if x["status"] == "killed"]
     by_lane = {lane: sum(1 for x in out if x["lane"] == lane) for lane in lane_pref}
     for w in warnings:
         common.log_event(run, STAGE5, "pairs", "note", note=w, review=False)
+    for n in notes:
+        common.log_event(run, STAGE5, "pairs", "note", note=n, review=False)
     result = {
         "lane_preference": lane_pref,
         "rules": {"min_entry_walls": int(s5.get("min_entry_walls", 3)), "adjacency_slack_steps": int(s5.get("adjacency_slack_steps", 1)),
@@ -1154,6 +1221,7 @@ def pairs(run) -> dict:
         "killed": killed_ids,
         "pains": out,
         "warnings": warnings,
+        "notes": notes,
         "check_meaning": CHECK_MEANING,
         "lane_meaning": LANE_MEANING,
     }
@@ -1237,6 +1305,9 @@ def render_pairs_md(result: dict, run, walls=None) -> str:
             lines.append(f"- crux: {_cell(a['crux'])}")
             lines.append(f"- credibility question: {_cell(a['credibility_question'])}")
             lines.append(f"- comparator: {_cell(a['reasoning'])} (confidence {a['confidence']})")
+    if result.get("notes"):
+        lines += ["", "## Notes", ""]
+        lines += [f"- {n}" for n in result["notes"]]
     if result["warnings"]:
         lines += ["", "## Warnings", ""]
         lines += [f"- {w}" for w in result["warnings"]]
@@ -1246,9 +1317,20 @@ def render_pairs_md(result: dict, run, walls=None) -> str:
 # --------------------------------------------------------------------------- commands
 def cmd_walks(args) -> int:
     run = common.run_dir(args.run)
+    if args.walker and not args.check:
+        raise common.ValidationErrors(["--walker goes with --check PAIN_ID: `funnel walks --check <pain_id> --walker a|b`."])
     if args.check:
-        report = walks(run, check=args.check)
+        report = walks(run, check=args.check, walker=args.walker)
         pid = report["pain_id"]
+        if args.walker:
+            # only this walker's own file: nothing about the other walker's file is read or printed (rule 3)
+            print(f"{pid}.{args.walker}.json: present")
+            for n in report["notes"]:
+                print(f"note: {n}")
+            if report["errors"]:
+                raise common.ValidationErrors(report["errors"])
+            print(f"{pid}.{args.walker}.json: no errors. Nothing was written.")
+            return 0
         for k, name in (("a", f"{pid}.a.json"), ("b", f"{pid}.b.json"), ("merged", f"{pid}.json")):
             print(f"{name}: {'present' if report['present'][k] else 'missing'}")
         d = report.get("derived")
@@ -1301,6 +1383,8 @@ def cmd_pairs(args) -> int:
     for x in result["pains"]:
         if x["status"] == "killed":
             print(f"  killed: {x['pain_id']}: {x['kill_reason']}")
+    for n in result.get("notes") or []:
+        print(f"note: {n}")
     for w in result["warnings"]:
         print(f"warning: {w}")
     print(f"Wrote {common.rel(run / '05_pairs.json')}, {common.rel(run / '05_pairs.md')} and graveyard.md")
@@ -1311,7 +1395,9 @@ def register(subparsers) -> None:
     w = subparsers.add_parser("walks", help="Validate the walker and comparator files, re-derive the conservative merge, "
                                             "kill pains whose outcome is reached today; write 04_walks/<pain-id>.md and _stage4.json.")
     w.add_argument("--check", metavar="PAIN_ID", default=None, help="validate one pain's files and exit (nothing written)")
-    w.set_defaults(func=cmd_walks)
+    w.add_argument("--walker", choices=("a", "b"), default=None,
+                   help="with --check: validate only this walker's own file and say nothing about the other walker's")
+    w.set_defaults(func=cmd_walks, stage_no=STAGE4)
     p = subparsers.add_parser("pairs", help="Check every alternative pair mechanically, keep the strongest valid one per pain; "
                                             "write 05_pairs.json and 05_pairs.md.")
-    p.set_defaults(func=cmd_pairs)
+    p.set_defaults(func=cmd_pairs, stage_no=STAGE5)
