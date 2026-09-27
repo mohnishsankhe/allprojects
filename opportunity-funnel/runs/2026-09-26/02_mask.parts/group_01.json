@@ -1,0 +1,320 @@
+{
+  "rooms": [
+    {
+      "slug": "iim-isb-first-years-finance-consulting-placements",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.preplounge.com/en/premium-membership",
+        "reasoning": "The room is B-school students, not yet finance professionals, so the colleague path w2 reaches them only two hops away through IIM and ISB alumni and is not counted. They already buy placement prep through search: PrepLounge Premium (USD $69 a year, 400,000+ peers, coaching packages from USD $199) and India-specific paid bootcamps such as BTribe's MBA Placement Bootcamp '26 with ten one-on-one mock interviews (https://www.btribe.in/courses/MBA-Placement-Bootcamp26-Summer-Internship-Final-Placement-prep-69c4a30587d3de68dbc8f280).",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d2",
+        "reasoning": "The finance side of placement prep (valuation, DCF, finance technicals, modelling) sits inside corporate finance and valuation (d2, strong); the consulting side is case interviews (d6, moderate). The room's core problems straddle both, and d2 is listed as the strong one.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {"what": "Case interview coaching from ex-consultants, per session", "price_text": "$100 to $250 per session", "amount": 100, "currency": "USD", "unit": "session", "url": "https://igotanoffer.com/en/advice/preplounge-alternatives", "seen_via": "search"},
+        {"what": "Wall Street Oasis investment banking interview course (guide and question bank)", "price_text": "$199.99", "amount": 199.99, "currency": "USD", "unit": "one-off", "url": "https://www.wallstreetoasis.com/courses/interview-prep/investment-banking", "seen_via": "search"},
+        {"what": "Wall Street Prep Premium Package (financial modelling)", "price_text": "$499", "amount": 499, "currency": "USD", "unit": "one-off", "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/", "seen_via": "search"},
+        {"what": "Placement-linked investment banking operations programme in India (Imarticus fee range)", "price_text": "₹1 and ₹2 lakhs", "amount": 100000, "currency": "INR", "unit": "programme", "url": "https://imarticus.org/blog/investment-banking-courses-fees/", "seen_via": "search"},
+        {"what": "PrepLounge Premium membership, one year of case interview practice with peers", "price_text": "USD $69", "amount": 69, "currency": "USD", "unit": "year", "url": "https://www.preplounge.com/en/premium-membership", "seen_via": "search"},
+        {"what": "PrepLounge Premium + Coaching package (membership plus up to 5 coaching sessions)", "price_text": "USD $199", "amount": 199, "currency": "USD", "unit": "package", "url": "https://www.preplounge.com/en/shop/premium-memberships-1/premium-coaching", "seen_via": "search"},
+        {"what": "Financial modelling certification course in India with placement support (EY certification price in the 2026 fees list)", "price_text": "₹39,999", "amount": 39999, "currency": "INR", "unit": "course", "url": "https://quintedge.com/blog/financial-modeling-course-fees-india", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Placement prep needs judgment on finance technicals, accountability and peer cohorts, all of which the founder can be. No capital, ritual or licensed advocacy is involved.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "No licence is needed to coach interviews and modelling. Employer overlap: the room recruits into investment banks like the founder's, but a prep product uses no employer clients, deals or confidential information; the founder should still check outside-business rules before coaching candidates his own bank interviews.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "The likely product is placement coaching or a cohort with a personal, high-stakes outcome and a price well above an app, so buyers need to trust the coach. Search reach plus trust is a weakness for this room.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "first-finance-hires-funded-startups",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w2",
+        "evidence_url": null,
+        "reasoning": "These are ex-bankers and ex-consultants 3 to 8 years in, so the bankers among them are the founder's past colleagues who left for startups, which is the finance-professionals path w2; the ex-consultant and Big 4 share is reached less directly. Search evidence also exists: they buy fundraising models on public marketplaces such as eFinancialModels (https://www.efinancialmodels.com/downloads/saas-financial-model-193/) and Foresight's SaaS Financial Model at $149 (https://www.openvc.app/blog/startup-financial-model).",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d2",
+        "reasoning": "Fundraising models, data rooms, diligence and investor reporting are corporate finance, valuation and deal documents (d2, strong). Bookkeeping and tax are outside it and would need a rented accountant.",
+        "confidence": "high"
+      },
+      "spend": [
+        {"what": "Seed-stage pitch deck design for the next round", "price_text": "$4,000–$8,000", "amount": 4000, "currency": "USD", "unit": "project", "url": "https://www.whitepage.studio/blog/pitch-deck-design-cost", "seen_via": "search"},
+        {"what": "Fractional CFO retainer, the benchmark the first finance hire must beat or buy", "price_text": "$3,000-$12,000/month", "amount": 3000, "currency": "USD", "unit": "month", "url": "https://eightx.co/blog/fractional-cfo-cost-pricing-guide", "seen_via": "search"},
+        {"what": "Wall Street Prep Premium Package (three-statement and DCF modelling refresher)", "price_text": "$499", "amount": 499, "currency": "USD", "unit": "one-off", "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/", "seen_via": "search"},
+        {"what": "Fundraising consultant retainer to run the round", "price_text": "retainers ($5K-$50K)", "amount": 5000, "currency": "USD", "unit": "retainer", "url": "https://freestartupfunding.com/costs/fundraising-consultant", "seen_via": "search"},
+        {"what": "New-manager bootcamp for hiring and managing the first analyst", "price_text": "$500 per person", "amount": 500, "currency": "USD", "unit": "person", "url": "https://www.evolution2revolution.com/new-manager-bootcamp", "seen_via": "search"},
+        {"what": "Foresight (Taylor Davidson) SaaS Financial Model template with fundraising and valuation tabs", "price_text": "$149", "amount": 149, "currency": "USD", "unit": "one-off", "url": "https://www.openvc.app/blog/startup-financial-model", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "The core pains (model, round, board pack, first hire) need judgment and accountability, which the founder can be. Bookkeeping or tax sign-off would need an accountant, which the ledger says can be rented (r1), so nothing is blocked.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Skills and coaching for finance leads at startups use no employer clients or deals, though a startup that is also a client of the founder's bank would have to be avoided. Employer overlap: the warm path runs through past colleagues in investment banking. Tax or audit sign-off would need a licence, so the product must stop short of it.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "A finance lead staking their first-year reputation on a fundraising model or board pack pays for advice from someone they trust; the price is high and the outcome is personal and visible to the board.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "ib-analysts-years-1-3",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w2",
+        "evidence_url": null,
+        "reasoning": "Junior bankers are the founder's current and past colleagues, the exact people w2 names. Search evidence too: they buy Wall Street Prep Premium ($499, Trustpilot 4.5 per https://theprivateequiteer.com/wall-street-prep-premium-package-review/), BIWS Premium ($497, https://breakingintowallstreet.com/biws-premium/) and coaches on the Leland marketplace from search.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d2",
+        "reasoning": "Financial modelling, valuation and deal work are the founder's day job and the ledger's d2 (strong). GMAT prep and MBA admissions on the later ladder steps are not covered, but the first two steps are.",
+        "confidence": "high"
+      },
+      "spend": [
+        {"what": "Wall Street Prep Premium Package (financial modelling), discussed by analysts on WSO", "price_text": "$499", "amount": 499, "currency": "USD", "unit": "one-off", "url": "https://www.wallstreetoasis.com/forum/investment-banking/wall-street-prep-premium-package-worth-it", "seen_via": "search"},
+        {"what": "GMAT exam fee for a top MBA", "price_text": "US $275", "amount": 275, "currency": "USD", "unit": "exam", "url": "https://www.gmatninja.com/blog/what-is-the-gmat/how-much-does-the-gmat-cost/", "seen_via": "search"},
+        {"what": "MBA admissions consultant, multi-school package", "price_text": "$12,250", "amount": 12250, "currency": "USD", "unit": "package", "url": "https://vantagepointmba.com/pricing/mba-admissions-consulting-prices/", "seen_via": "search"},
+        {"what": "Breaking Into Wall Street Premium (one-year access to the modelling course library)", "price_text": "$497", "amount": 497, "currency": "USD", "unit": "year", "url": "https://breakingintowallstreet.com/biws-premium/", "seen_via": "search"},
+        {"what": "Investment banking career coach on the Leland marketplace, hourly rate example", "price_text": "$259/hr", "amount": 259, "currency": "USD", "unit": "hour", "url": "https://www.joinleland.com/search/career/investment-banking", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Modelling judgment, PE-prep accountability and peer cohorts are all things the founder can be. Nothing here needs capital, ritual or a licence.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Employer overlap: this is the founder's own workplace room, so any product must avoid the bank's deals and confidential material and must pass its outside-business rules; a skills or career product needs none of them. No licence is involved.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "Courses in this room sell self-serve, but the likely edge over Wall Street Prep is coaching or a cohort tied to a career outcome, which needs trust in the coach.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "pe-associate-candidates-on-cycle",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w2",
+        "evidence_url": null,
+        "reasoning": "Candidates are first- and second-year analysts at banks like the founder's and MBB consultants, the finance professionals w2 reaches through colleagues. Search evidence: they pre-order 10X EBITDA's PE interview course ($99 now, $599 after launch, https://courses.10xebitda.com/products/courses/private-equity-interview-course) and buy Peak Frameworks' course, with WSO users splitting the cost (https://www.wallstreetoasis.com/forum/private-equity/peak-frameworks-pe-course-1).",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d2",
+        "reasoning": "LBO modelling tests, paper LBOs and case studies are valuation and transactions (d2, strong), the founder's daily work.",
+        "confidence": "high"
+      },
+      "spend": [
+        {"what": "Wall Street Prep Premium Package (LBO and modelling tests)", "price_text": "$499", "amount": 499, "currency": "USD", "unit": "one-off", "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/", "seen_via": "search"},
+        {"what": "Private equity mock interview and case-study tutoring, hourly", "price_text": "$800/hour", "amount": 800, "currency": "USD", "unit": "hour", "url": "https://theprivateequiteer.com/wall-street-prep-premium-package-review/", "seen_via": "search"},
+        {"what": "MBA admissions consulting package after landing the role", "price_text": "$5,800", "amount": 5800, "currency": "USD", "unit": "package", "url": "https://www.admitadvantage.com/mba/pricing/", "seen_via": "search"},
+        {"what": "10X EBITDA Private Equity Interview Course, pre-order price", "price_text": "$99", "amount": 99, "currency": "USD", "unit": "one-off", "url": "https://courses.10xebitda.com/products/courses/private-equity-interview-course", "seen_via": "search"},
+        {"what": "10X EBITDA Private Equity Interview Course, price after launch", "price_text": "$599", "amount": 599, "currency": "USD", "unit": "one-off", "url": "https://courses.10xebitda.com/products/courses/private-equity-interview-course", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Mock modelling tests, feedback and accountability before on-cycle need judgment and coaching only, both of which the founder can be.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Employer overlap: candidates come from the founder's bank and its peers and headhunters run the process; a prep product needs no employer deals or confidential information, but the founder must check outside-business rules. No licence is involved.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "72-hour on-cycle windows and $800-an-hour tutoring show buyers pay for a trusted coach's judgment on their modelling and interviews, not only a self-serve pack.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "sell-side-equity-research-associates",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w2",
+        "evidence_url": null,
+        "reasoning": "Research associates sit in the same banks and brokers as the founder's colleagues and are finance professionals under w2, though the path is one step less direct than deal teams. Search evidence: they buy Schweser CFA packages ($379 to $1,449, https://www.schweser.com/cfa/level-1/study-packages) and Wall Street Prep courses from search and Amazon.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d2",
+        "reasoning": "Building models, initiation reports and stock pitches is valuation (d2, strong). CFA prep (ethics, economics, fixed income) is wider than d2, so only the modelling and pitch steps are covered.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {"what": "CFA Level I registration, early fee", "price_text": "USD 1,140", "amount": 1140, "currency": "USD", "unit": "exam registration", "url": "https://300hours.com/cfa-exam-cost/", "seen_via": "search"},
+        {"what": "Kaplan Schweser CFA Level 1 study package (ladder price)", "price_text": "$1,499", "amount": 1499, "currency": "USD", "unit": "package", "url": "https://www.schweser.com/cfa/level-1/study-packages", "seen_via": "search"},
+        {"what": "Wall Street Prep Premium Package (three-statement and DCF models)", "price_text": "$499", "amount": 499, "currency": "USD", "unit": "one-off", "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/", "seen_via": "search"},
+        {"what": "Kaplan Schweser CFA Level 1 basic study package, 2026", "price_text": "$379", "amount": 379, "currency": "USD", "unit": "package", "url": "https://www.schweser.com/cfa/level-1/study-packages", "seen_via": "search"},
+        {"what": "Kaplan Schweser CFA Level 1 top study package, 2026", "price_text": "$1,449", "amount": 1449, "currency": "USD", "unit": "package", "url": "https://www.schweser.com/cfa/level-1/study-packages", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Model reviews, pitch feedback and exam accountability need judgment and coaching only. No capital, ritual or licensed advocacy.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Teaching how to model and pitch a stock is education, not regulated investment advice; the product must never give stock recommendations, which would trigger x1. Employer overlap: the same banks as the founder's colleagues, but no employer research, deals or confidential information is needed.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "CFA prep is bought self-serve, but the room's own valuable step (buy-side pitch coaching, model reviews) is personal and judged on outcome, so trust is needed.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "fpa-analysts-corporate",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.udemy.com/course/fpa-financial-planning-analysis-foundations/",
+        "reasoning": "FP&A analysts sit inside operating companies, outside the investment-banking colleague network, so w2 is not counted even though they are finance professionals in a loose sense. They already buy FP&A training through marketplaces and search: Udemy FP&A courses (Foundations at $14.99 with bestseller listings) and CFI subscriptions ($497 a year, https://corporatefinanceinstitute.com/pricing/).",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d2",
+        "reasoning": "Budgeting, forecasting and variance analysis are corporate finance (d2), but the founder's strong depth is on the deal and valuation side, so the match is partial.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {"what": "CFI self-study subscription including the FMVA modelling credential", "price_text": "$497", "amount": 497, "currency": "USD", "unit": "year", "url": "https://corporatefinanceinstitute.com/pricing/", "seen_via": "search"},
+        {"what": "FMI Advanced Financial Modeler exam", "price_text": "$695", "amount": 695, "currency": "USD", "unit": "exam", "url": "https://fminstitute.com/afm/", "seen_via": "search"},
+        {"what": "FPAC certification (AFP) for manager roles", "price_text": "$1,025", "amount": 1025, "currency": "USD", "unit": "certification", "url": "https://fpacert.financialprofessionals.org/about-exam/deadlines", "seen_via": "search"},
+        {"what": "Wall Street Prep Certification in Financial Planning & Analysis Modeling (CFPAM)", "price_text": "$499", "amount": 499, "currency": "USD", "unit": "one-off", "url": "https://www.wallstreetprep.com/self-study-programs/financial-planning-and-analysis-modeling-certification/", "seen_via": "search"},
+        {"what": "Udemy FP&A Financial Planning & Analysis Foundations course", "price_text": "$14.99", "amount": 14.99, "currency": "USD", "unit": "course", "url": "https://www.prophix.com/blog/8-of-the-best-fp-a-courses-you-need-to-know/", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Courses, model reviews and accountability toward a certification need judgment and coaching only.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "No licence is needed for modelling training. No employer overlap: these are operating-company finance teams, not the bank's clients or deals.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": false,
+        "reasoning": "The room's proven spend is self-serve certifications and courses at $15 to $1,025, which suits search reach; only a coaching product would need trust.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "project-finance-analysts-energy-infra",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w2",
+        "evidence_url": null,
+        "reasoning": "Project finance analysts at banks, funds and Big 4 teams are finance professionals reached through colleagues (w2); developers in Southeast Asia are also reachable through w4, but w4 overlaps the founder's job. Search evidence: they buy Pivotal180 online courses (USD$800, https://pivotal180.com/course-type/project-finance-modeling/), Financial Edge project finance courses and Udemy renewable project finance courses (https://www.udemy.com/course/financial-modeling-for-renewable-energy/).",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d2",
+        "reasoning": "Debt sculpting, covenants and sensitivity cases are deal modelling and transaction work (d2, strong), and the energy domain itself is d4 (strong). d2 is listed because the core paid problem is the modelling skill.",
+        "confidence": "high"
+      },
+      "spend": [
+        {"what": "Pivotal180 project finance modelling course, online", "price_text": "USD$800", "amount": 800, "currency": "USD", "unit": "course", "url": "https://pivotal180.com/course-type/project-finance-modeling/", "seen_via": "search"},
+        {"what": "FMI Advanced Financial Modeler exam", "price_text": "$695", "amount": 695, "currency": "USD", "unit": "exam", "url": "https://fminstitute.com/afm/", "seen_via": "search"},
+        {"what": "Gridlines Project Finance Modelling Masterclass, three days", "price_text": "€2,750", "amount": 2750, "currency": "EUR", "unit": "course", "url": "https://www.gridlines.com/project-finance-modelling-masterclass/", "seen_via": "search"},
+        {"what": "Gridlines Advanced Project Finance Theory & Modelling, five days, regular price", "price_text": "€5,808", "amount": 5808, "currency": "EUR", "unit": "course", "url": "https://learn.gridlines.com/advanced-project-finance-theory-modelling", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Model reviews, modelling cohorts and accountability need judgment and coaching only. No capital, ritual or licensed advocacy.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Employer overlap: Southeast Asian energy deals are the founder's job, so no live deal, client model or confidential term sheet can be used as teaching material, and outside-business rules must be checked. Generic modelling training needs none of it, and no licence is involved.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "Modelling courses sell self-serve, but a model review or coaching product for an analyst's live work is judged on a personal outcome and needs trust.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "cre-analysts-underwriting",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w3",
+        "evidence_url": null,
+        "reasoning": "The industrial and logistics slice of this room (analysts at warehouse developers, investors and advisers) is exactly w3 through the founder's private-equity network, and analysts at real estate PE funds are also finance professionals under w2; the rest of CRE (office, retail, multifamily) is not directly covered. Search evidence: they buy A.CRE Accelerator memberships and the $599 models bundle (https://www.adventuresincre.com/product/acre-financial-models-bundle/), ARGUS certification from the Altus webstore (https://store.altusgroup.com/collections/argus-software-certification) and REFAI from REFM's shop.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d3",
+        "reasoning": "Underwriting industrial and logistics deals is d3 (strong) and the Excel and valuation work is d2. The founder's judgment is credible for the industrial niche, less so for other asset classes.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {"what": "A.CRE Accelerator real estate financial modelling programme", "price_text": "$4,800", "amount": 4800, "currency": "USD", "unit": "programme", "url": "https://www.adventuresincre.com/pricing/", "seen_via": "search"},
+        {"what": "ARGUS Enterprise training and certification (CRE Analyst)", "price_text": "$999", "amount": 999, "currency": "USD", "unit": "course", "url": "https://www.creanalyst.com/argustraining", "seen_via": "search"},
+        {"what": "REFAI certification, self-paced", "price_text": "$1,499", "amount": 1499, "currency": "USD", "unit": "certification", "url": "https://courses.getrefm.com/shop/training-courses/refai-certification-registration/", "seen_via": "search"},
+        {"what": "CCIM designation programme cost", "price_text": "$8,286", "amount": 8286, "currency": "USD", "unit": "designation", "url": "https://www.ccim.com/education/pursue-ccim-designation/designation-program-time-cost", "seen_via": "search"},
+        {"what": "A.CRE Financial Models Bundle, 36 models with lifetime updates", "price_text": "$599", "amount": 599, "currency": "USD", "unit": "one-off", "url": "https://www.adventuresincre.com/product/acre-financial-models-bundle/", "seen_via": "search"},
+        {"what": "ICSC ARGUS certificate training for students, flat rate", "price_text": "$450", "amount": 450, "currency": "USD", "unit": "course", "url": "https://www.icsc.com/find-and-connect/student-resources/student-learning-opportunities/argus-certificate-training", "seen_via": "search"},
+        {"what": "REFAI certification, cohort enrollment", "price_text": "$2,499", "amount": 2499, "currency": "USD", "unit": "cohort", "url": "https://courses.getrefm.com/shop/training-courses/refai-cohort/", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Underwriting reviews, modelling cohorts and accountability need judgment and coaching only. No capital, ritual or licensed advocacy.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "No licence is needed for modelling and underwriting training (brokerage licensing is not the product). Employer overlap: real estate PE contacts come through the founder's PE network and may touch the bank's clients; a skills product needs none of their deals.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "The proven spend is $450 to $8,286 for courses and designations, and an underwriting review or cohort is judged on whether the analyst's deal memo holds up, so trust matters.",
+        "confidence": "moderate"
+      }
+    }
+  ]
+}

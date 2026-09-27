@@ -1,0 +1,546 @@
+{
+  "rooms": [
+    {
+      "slug": "first-time-d2c-brand-founders",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.udemy.com/course/private-label-products-with-amazon-fba-masterclass/",
+        "reasoning": "No warm path covers first-time brand founders worldwide: w5 names D2C brands only as call-volume businesses in India and the Gulf and is warm only for existing TinyAI clients. The room already buys launch help through public marketplaces and search: Udemy sells paid courses such as 'Launch Your First Private Label Product | Amazon FBA', and Jungle Scout ($49/month) and Helium 10 (from $99/mo) are paid tools with review pages found in search.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": null,
+        "reasoning": "Sourcing, store setup, trademark, ads and fulfilment are not in the ledger's depth list. d8 (fragrance) covers only the perfume slice of the room and d5 (AI search visibility) is a side channel, not the core.",
+        "confidence": "high"
+      },
+      "spend": [
+        {
+          "what": "Jungle Scout Starter plan, an Amazon product-research tool new sellers pay for",
+          "price_text": "$49/month",
+          "amount": 49,
+          "currency": "USD",
+          "unit": "month",
+          "url": "https://www.junglescout.com/pricing/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Helium 10 Platinum plan, the cheapest paid tier of the Amazon seller toolkit",
+          "price_text": "From $99/mo",
+          "amount": 99,
+          "currency": "USD",
+          "unit": "month",
+          "url": "https://revenuegeeks.com/helium-10-pricing/",
+          "seen_via": "search"
+        },
+        {
+          "what": "USPTO trademark base application fee per class (needed for Amazon Brand Registry)",
+          "price_text": "$350 USPTO Fee",
+          "amount": 350,
+          "currency": "USD",
+          "unit": "per class",
+          "url": "https://tmarkmetric.com/insights/how-much-does-a-trademark-cost",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "The core pains need judgment on products, ads and logistics plus vendors (atoms, rentable r3); nothing here needs large capital, ritual or licensed advocacy from the founder.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Trademark filing is a legal step, but the core product (launch guidance and tools) is not legal, medical or investment advice, and there is no overlap with the employer's clients or deals. It overlaps the founder's own perfume brand (v2), which is a tag, not an exclusion.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": false,
+        "reasoning": "The room already buys self-serve courses and monthly tools at $49 to $129 without a relationship. A coaching product would need trust, but the likely self-serve product does not.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "indians-moving-uae-jobs",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.udemy.com/course/find-a-job-in-dubai/",
+        "reasoning": "No warm path covers individual job-seekers; w5 is businesses in India and the Gulf, not the people moving. The room buys job-hunt help on public marketplaces and through search: Udemy sells 'Get a Job in Dubai: Work, Live and Relocate to Dubai', Gumroad lists an 'Ultimate Dubai Job Guide 2026' toolkit, and CV-writing services from 250 Dhs and job-seeker visas at AED 1,495 to AED 1,815 are sold from search results.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": null,
+        "reasoning": "Gulf job search, visas and degree attestation are not in the ledger's depth list. The founder's finance depth touches only the small finance-sector slice of the room, not its core paperwork chain.",
+        "confidence": "high"
+      },
+      "spend": [
+        {
+          "what": "UAE job seeker visa from India (low end of the range shown)",
+          "price_text": "AED 1,495 to AED 1,815",
+          "amount": 1495,
+          "currency": "AED",
+          "unit": "one-off",
+          "url": "https://www.y-axis.com/migrate/uae-job-seeker-visa/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Professional CV writing service in Dubai (starting price)",
+          "price_text": "from 250 Dhs",
+          "amount": 250,
+          "currency": "AED",
+          "unit": "one-off",
+          "url": "https://www.perfectcv.ae/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Dubai visit visa bought from an Indian travel agent to job-hunt in person (ladder step 1)",
+          "price_text": "Rs.3,499",
+          "amount": 3499,
+          "currency": "INR",
+          "unit": "one-off",
+          "url": "https://www.akbartravels.com/visa/dubai-visa",
+          "seen_via": "search"
+        },
+        {
+          "what": "Degree certificate attestation for the UAE employment visa (low end of the range shown; ladder step 2)",
+          "price_text": "AED 700 to AED 1,200",
+          "amount": 700,
+          "currency": "AED",
+          "unit": "one-off",
+          "url": "https://quickattest.com/blog/degree-attestation-uae-cost/",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "The core pains are paperwork, a Gulf-format CV and job-search coaching; attestation agents and typing centres are rentable vendors (r3). No large capital, ritual or licensed advocacy is needed.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "UAE employment visas are filed by the employer and a job-search guide is not regulated immigration advice, so no licence is needed at the core; placing workers with employers would need a UAE recruitment licence, so the product must stay on the job-seeker's side. No employer overlap.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": false,
+        "reasoning": "Guides, CV services and visas sell self-serve at AED 250 to 1,800 on reviews alone. Only a placement-style promise ('we get you the job') would need trust.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "canada-express-entry-applicants",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.udemy.com/course/canadianexpressentry/",
+        "reasoning": "No warm path covers Express Entry applicants; w1 is GRE preppers, a different step of life even when they are the same people. The room buys this kind of product through public marketplaces and search: Udemy lists several paid Express Entry courses (for example 'How to Immigrate to Canada Using Express Entry', 5+ hours of video), a DIY kit sells at diybycics.com, and RCIC packages at CAD$2,500 to CAD$5,000 are sold from search.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": null,
+        "reasoning": "Immigration paperwork, CRS strategy and language tests are not in the ledger's depth list. The founder's GRE verbal depth is adjacent to IELTS at best, and adjacent is not enough.",
+        "confidence": "high"
+      },
+      "spend": [
+        {
+          "what": "Full Express Entry permanent residence application handled by a licensed consultant (low end of the range shown)",
+          "price_text": "CAD$2,500 to CAD$5,000",
+          "amount": 2500,
+          "currency": "CAD",
+          "unit": "package",
+          "url": "https://onthemovecanada.com/pr-consulting-fees/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Initial paid consultation with a Canadian immigration consultant (low end of the range shown)",
+          "price_text": "CAD$50 to CAD$250",
+          "amount": 50,
+          "currency": "CAD",
+          "unit": "one-off",
+          "url": "https://onthemovecanada.com/pr-consulting-fees/",
+          "seen_via": "search"
+        },
+        {
+          "what": "RCIC profile strategy and CRS improvement package (ladder step 3)",
+          "price_text": "$3,300",
+          "amount": 3300,
+          "currency": "CAD",
+          "unit": "package",
+          "url": "https://cipcanada.com/pricing/",
+          "seen_via": "search"
+        },
+        {
+          "what": "WES educational credential assessment (ladder step 2)",
+          "price_text": "$264 CAD",
+          "amount": 264,
+          "currency": "CAD",
+          "unit": "one-off",
+          "url": "https://www.wes.org/ca/evaluations-and-fees/eca/",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Most applicants self-file, so the core pain does not obviously need advocacy; where a licensed representative is wanted, an RCIC is a registered adviser the ledger says can be rented (r1). No large capital or ritual.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": true,
+        "exclusion_id": "x1",
+        "reasoning": "In Canada anyone charging a fee to advise on or represent a visa or PR application must hold a CICC (RCIC) or law licence, and the room's core paid problem is exactly that advice (profile strategy, CRS, filing). Generic education and IELTS prep escape the rule, but neither is the core.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "A PR outcome with thousands of dollars in fees and a 60-day filing clock is a personal, high-stakes outcome; people pay CAD$2,500 and up to a licensed human for it.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "nris-returning-to-india",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://indiafornri.com/tax/india",
+        "reasoning": "No warm path covers returning NRI families: w1 is GRE preppers years earlier and w2 is finance colleagues, not movers. The room buys this kind of help from search: indiafornri.com sells a $110 CA consultation for returning NRIs, nrinivesh.ai sells an RNOR-planning membership with CA access, and movers quote $5,000 to $7,000 containers online.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": null,
+        "reasoning": "Personal cross-border tax (RNOR, DTAA, 401(k)), international moving and school choice are not in the ledger's depth list. d2 is corporate finance and deal documents, not personal tax.",
+        "confidence": "high"
+      },
+      "spend": [
+        {
+          "what": "Online chartered-accountant consultation for NRIs (credited against filing fees)",
+          "price_text": "$110 CA consultation",
+          "amount": 110,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://indiafornri.com/tax/india",
+          "seen_via": "search"
+        },
+        {
+          "what": "Shipping a 20-foot container of household goods from the USA to India (low end of the range shown, before customs duties)",
+          "price_text": "$5,000–$7,000",
+          "amount": 5000,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://air7seas.com/blog/usa-to-india-moving-costs-what-different-shipping-options-actually-charge",
+          "seen_via": "search"
+        },
+        {
+          "what": "Shipping household goods by sea, USA to India (low end of the range shown; ladder step 2)",
+          "price_text": "$3,000 to $8,000",
+          "amount": 3000,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://www.sflworldwide.com/blog/shipping-household-goods-from-usa-to-india-guide",
+          "seen_via": "search"
+        },
+        {
+          "what": "Mid-range international school fees in Bangalore (low end of the range shown; ladder step 3)",
+          "price_text": "INR 3L–8L/year",
+          "amount": 300000,
+          "currency": "INR",
+          "unit": "year",
+          "url": "https://www.tutopiya.com/blog/international-school-fees/international-school-fees-bangalore-guide/",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "The core pains need a chartered accountant's sign-off (rentable, r1) and movers (atoms, r3); no large capital, ritual or licensed advocacy is needed.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": true,
+        "exclusion_id": "x1",
+        "reasoning": "The room's first and defining paid problem is tax and asset advice (RNOR timing, what to do with 401(k)s and foreign assets, Indian filings), which needs a CA for sign-off and a registered adviser for portfolio calls in India or the US. A logistics-only relocation planner would escape this, but it is not the core; conservative call, listed for REVIEW.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "Tax and asset decisions worth lakhs, plus a family move, are personal high-stakes outcomes; people pay a named CA or adviser for them.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "skilled-workers-relocating-germany",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.udemy.com/course/berlin-relocation-guide/",
+        "reasoning": "No warm path covers people relocating to Germany. The room buys this kind of product through marketplaces and search: Udemy sells a paid 'Berlin Relocation Guide' course, relocation agencies found via search charge between €1,500 and €5,000 per package, and Goethe exam slots are booked online at ₹10,000-12,000.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": null,
+        "reasoning": "German language, degree recognition, visas, housing and health insurance are not in the ledger's depth list; nothing in d1 to d8 is even adjacent.",
+        "confidence": "high"
+      },
+      "spend": [
+        {
+          "what": "Standard expat relocation package in Germany: flat hunt, Anmeldung, visa paperwork, bank account (low end of the range shown)",
+          "price_text": "between €1,500 and €5,000",
+          "amount": 1500,
+          "currency": "EUR",
+          "unit": "package",
+          "url": "https://liveingermany.de/relocation-services-germany/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Goethe-Zertifikat B1 exam at Goethe-Institut centres in India (low end of the range shown)",
+          "price_text": "₹10,000-12,000",
+          "amount": 10000,
+          "currency": "INR",
+          "unit": "one-off",
+          "url": "https://bookgermantest.com/goethe/fees",
+          "seen_via": "search"
+        },
+        {
+          "what": "Goethe A1 exam fee in India (ladder step 1)",
+          "price_text": "INR 7,500",
+          "amount": 7500,
+          "currency": "INR",
+          "unit": "one-off",
+          "url": "https://deutschexam.ai/blog/goethe-a1-cost-in-inr-2026-full-indian-pricing-breakdown/",
+          "seen_via": "search"
+        },
+        {
+          "what": "ZAB Statement of Comparability for degree recognition (ladder step 2)",
+          "price_text": "€208",
+          "amount": 208,
+          "currency": "EUR",
+          "unit": "one-off",
+          "url": "https://chatscontrol.com/blog/zeugnisbewertung-zab-cost-processing-time-germany",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Relocation agencies do this work without a licence; language schools and sworn translators are rentable vendors (r3). No large capital, ritual or licensed advocacy is needed.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Relocation help (flat, registration, insurance, language) is not licensed work, but Germany's Legal Services Act reserves case-specific immigration legal advice to lawyers, so the visa steps must stay informational or be rented from a lawyer (r1). No employer overlap. Ambiguous, listed for REVIEW.",
+        "confidence": "low"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "Packages at €1,500 to €5,000 for a family move are a personal outcome bought from a named agency; a self-serve guide alone needs less trust, but the likely product is more than a guide.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "sat-us-undergrad-india",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://play.google.com/store/apps/details?id=com.magoosh.sat.lessons&hl=en_IN",
+        "reasoning": "w1 covers Indian GRE preppers, a different exam taken four years later, so the room is not warm even though the founder's test-prep partner may also teach the SAT (not in the ledger). The room buys SAT prep through app stores and search: the Magoosh SAT app sells a premium tier on Google Play (India listing) and the App Store with user reviews, UWorld sells SAT subscriptions, and Delhi coaching at ₹8,000 to ₹50,000 is found via Collegedunia.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d1",
+        "reasoning": "SAT math and reading draw on the same skills as GRE quant and verbal, and d1 is the only ledger domain that covers step 1 (coaching), but the ledger names the GRE, the SAT also tests grammar and easier math, and steps 2 to 5 (counselling, loans, visa) are not covered at all. Nearest match, weakly held; flagged for REVIEW.",
+        "confidence": "low"
+      },
+      "spend": [
+        {
+          "what": "SAT coaching in Delhi, classroom or online (low end of the range shown)",
+          "price_text": "₹8,000 to ₹50,000",
+          "amount": 8000,
+          "currency": "INR",
+          "unit": "package",
+          "url": "https://collegedunia.com/exams/sat/sat-preparation-classes-in-delhi",
+          "seen_via": "search"
+        },
+        {
+          "what": "SAT coaching in Mumbai (low end of the range shown; ladder step 1)",
+          "price_text": "₹20,000 to ₹60,000",
+          "amount": 20000,
+          "currency": "INR",
+          "unit": "package",
+          "url": "https://collegedunia.com/exams/sat/sat-preparation-classes-in-mumbai",
+          "seen_via": "search"
+        },
+        {
+          "what": "SAT registration from India, base fee plus international fee and GST (ladder step 2)",
+          "price_text": "$130.98 (~₹12,548)",
+          "amount": 130.98,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://eecglobal.com/blog/sat-fee-india-2026",
+          "seen_via": "search"
+        },
+        {
+          "what": "Study-abroad counselling, shortlisting and essays (low end of the range shown; ladder step 3)",
+          "price_text": "INR 30,000 and INR 1.5 lakh",
+          "amount": 30000,
+          "currency": "INR",
+          "unit": "package",
+          "url": "https://leapscholar.com/blog/how-much-do-study-abroad-consultants-charge-in-india/",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Prep and coaching need judgment, accountability and peers, all in the ledger's can_be list; no large capital, ritual or licensed advocacy is needed.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Test prep and admissions guidance need no licence, and education-loan choice is not regulated investment advice. No employer overlap. Overlaps v1 (the GRE business), which is a tag, not an exclusion.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": false,
+        "reasoning": "Parents buy apps and courses self-serve at ₹8,000 to ₹60,000 on reviews and score claims. A premium counselling product would need trust, but the founder's likely product (a GRE-style practice app for the SAT) does not.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "founders-selling-first-online-business",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://acquire.com/seller-pricing/",
+        "reasoning": "w2 covers finance professionals as colleagues, not indie founders, so there is no warm path into the room (w2 may supply buyers and partners, not customers). Search reach is clear: the room lists on public marketplaces and pays their fees (Acquire.com: a $25-100 monthly listing fee plus a 6-8% closing fee; Flippa success fees) and buys valuation and exit-advisory help found via search (FE International, Empire Flippers).",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d2",
+        "reasoning": "Valuation, due-diligence preparation, deal structure and the sale agreement are corporate finance, valuation, deal documents and transactions, the founder's strong d2. Only the tax step at the end falls outside it.",
+        "confidence": "high"
+      },
+      "spend": [
+        {
+          "what": "Acquire.com monthly listing fee while a startup is on the marketplace (low end of the band shown)",
+          "price_text": "$25-100 monthly listing fee",
+          "amount": 25,
+          "currency": "USD",
+          "unit": "month",
+          "url": "https://acquire.com/seller-pricing/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Independent business valuation before listing (low end of the range shown; ladder step 1)",
+          "price_text": "$2,000 to $15,000",
+          "amount": 2000,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://www.baton.com/resources/own/business-valuation-cost",
+          "seen_via": "search"
+        },
+        {
+          "what": "Lawyer-drafted asset purchase agreement for the sale (ladder step 4)",
+          "price_text": "$1,290",
+          "amount": 1290,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://buyouts.ai/alternatives/asset-purchase-agreement",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "The founder can be judgment (d2 is strong), accountability and small guarantees; lawyers and accountants for the agreement and the tax are rentable (r1). No large capital, ritual or licensed advocacy is needed.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Coaching a founder on valuation, buyer diligence and deal terms needs no licence when a lawyer drafts the agreement and an accountant handles the tax (both rentable), and small online businesses sold as asset sales through marketplaces do not trigger broker-dealer rules. Employer overlap: M&A advice is investment-banking work, so the founder must check outside-business rules, though these micro-deals use none of the employer's clients, deals or information.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "A six- or seven-figure personal sale judged by an adviser is high-stakes and personal; the room pays advisers 10-15% success fees for exactly this trust.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "brands-leasing-first-warehouse",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.contractscounsel.com/b/commercial-lease-review-cost",
+        "reasoning": "w3 covers landlords, investors and advisers, not the tenants in this room, and w5 is warm only for existing TinyAI clients in India and the Gulf, so there is no warm path (w3 gives partners and market knowledge, not customers). Search reach holds: tenants buy commercial lease reviews on the ContractsCounsel marketplace (average $730 flat fee, platform data), rent small units month to month from ReadySpaces and RISE found via search, and pay lease-review services such as LeaseRef.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d3",
+        "reasoning": "Choosing, negotiating and later buying industrial space is industrial and logistics real estate, the founder's strong d3; the 3PL-versus-own-space decision and the fit-out sit inside it too. d5 covers only the customer-call step.",
+        "confidence": "high"
+      },
+      "spend": [
+        {
+          "what": "Flat-fee lawyer review of a commercial lease, average on the ContractsCounsel marketplace",
+          "price_text": "$730",
+          "amount": 730,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://www.contractscounsel.com/b/commercial-lease-review-cost",
+          "seen_via": "search"
+        },
+        {
+          "what": "Attorney review of a first industrial lease (low end of the range shown; ladder step 2)",
+          "price_text": "$600–$2,000",
+          "amount": 600,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://leaselens.org/commercial-lease-review-cost",
+          "seen_via": "search"
+        },
+        {
+          "what": "Pallet racking for the fit-out (low end of the range shown; ladder step 3)",
+          "price_text": "$50 to $500 per pallet position",
+          "amount": 50,
+          "currency": "USD",
+          "unit": "per pallet position",
+          "url": "https://warehousingcosts.com/guides/pallet-racking-costs",
+          "seen_via": "search"
+        },
+        {
+          "what": "Cloud warehouse management system for a small e-commerce operation (low end of the range shown; ladder step 4)",
+          "price_text": "$150–$500/month",
+          "amount": 150,
+          "currency": "USD",
+          "unit": "month",
+          "url": "https://warego.co/blog/ecommerce-wms-cost/",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Lease review needs a lawyer (rentable, r1) and racking and fit-out need vendors (r3); the founder's judgment on space and lease terms is d3-strong. The tenant, not the founder, signs the lease and pays the deposit, so no large capital, ritual or licensed advocacy is needed.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Advising a tenant on space and lease terms is not licensed work as long as the founder neither acts as a broker for commission nor gives legal advice (both rentable). Employer overlap is possible only if the founder's bank covers industrial real estate; small e-commerce tenants are not its clients or deals.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "A multi-year lease and fit-out is a B2B service with a large, hard-to-reverse outcome; buyers want a named adviser, not a self-serve tool.",
+        "confidence": "high"
+      }
+    }
+  ]
+}

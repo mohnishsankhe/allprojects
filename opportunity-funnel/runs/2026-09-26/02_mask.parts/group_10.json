@@ -1,0 +1,308 @@
+{
+  "rooms": [
+    {
+      "slug": "dental-practice-owners-clinics",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.capterra.com/p/141842/Weave/reviews/",
+        "reasoning": "Dentists already buy practice phone, reminder and AI-receptionist products through search and review marketplaces: Weave has verified paid-user reviews on Capterra, and G2 lists a dental practice-management category (Open Dental, Curve, Dentisoft) with prices. The ledger's w5 path names hospitals in India and the Gulf, not dental practices, and this room is mostly US, UK and global, so it is not a warm path.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d5",
+        "reasoning": "The room's core paid problems in its ladder are missed calls, no-shows and patient recall, which d5 (voice agents, call auditing) covers; dentistry itself is outside the ledger and the later practice-sale step is d2 territory but not the core.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {"what": "Weave practice phone, texting and reminder system (Stage 1 ladder price)", "price_text": "$249/mo", "amount": 249, "currency": "USD", "unit": "month", "url": "https://costbench.com/software/business-phone/weave/", "seen_via": "search"},
+        {"what": "Weave pricing range quoted by a dental no-show cost tracker", "price_text": "$300 to $500 Per Month", "amount": 300, "currency": "USD", "unit": "month", "url": "https://noshowcost.com/tools/weave-pricing", "seen_via": "search"},
+        {"what": "TensorLinks AI dental receptionist, Starter tier (inbound voice)", "price_text": "$399/month", "amount": 399, "currency": "USD", "unit": "month", "url": "https://www.tensorlinks.com/blog/ai-dental-receptionist-pricing-comparison-2026/", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Phone answering, reminders and recall products need no licence, large capital or ritual; clinical work is out of scope and stays with the dentist.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "The likely product schedules and answers calls in the practice's name and gives no medical advice, so x1 does not apply as long as the agent never triages symptoms; no employer overlap.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "An AI receptionist speaks to a practice's patients and costs a few hundred dollars a month plus setup, so owners buy after demos and references even when they find it by search; this is a B2B service, not a self-serve app.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "private-hospitals-india-ahpi",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w5",
+        "evidence_url": null,
+        "reasoning": "The ledger's TinyAI path names hospitals in India by name and this room is Indian private hospitals with appointment lines and follow-up calls. The ledger note says the path is mostly cold unless they are existing TinyAI clients, so it is warm only for the client subset.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d5",
+        "reasoning": "The room's core call-volume pains (appointment lines, reminders, discharge follow-up, WhatsApp confirmations) sit in d5; hospital software, NABH accreditation and empanelment are outside the ledger.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {"what": "Cloud hospital management software, per year (Stage 1 ladder price)", "price_text": "₹50,000-₹3,00,000 annually", "amount": 50000, "currency": "INR", "unit": "year", "url": "https://www.secuodsoft.com/blog/software-development/cost-of-hospital-management-software-in-india-complete-pricing-guide.php", "seen_via": "search"},
+        {"what": "AI voice agent minutes for hospital calls in India (Stage 1 ladder price)", "price_text": "₹2–12/Minute", "amount": 2, "currency": "INR", "unit": "minute", "url": "https://caller.digital/voice-ai-pricing-india", "seen_via": "search"},
+        {"what": "Hospital management software subscription in India, monthly range (Cufront pricing guide)", "price_text": "₹2K–₹25K/mo", "amount": 2000, "currency": "INR", "unit": "month", "url": "https://www.cufront.com/blog/hospital-management-software-pricing-india", "seen_via": "search"},
+        {"what": "HelloHospital WhatsApp-first clinic platform with patient reminders, entry plan", "price_text": "₹999/month", "amount": 999, "currency": "INR", "unit": "month", "url": "https://hellohospital.in/blog/clinic-ke-liye-whatsapp-software/", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Appointment, reminder and follow-up agents need no licence, capital or ritual; NABH consulting and anything clinical would need licensed partners (r1) but is not the core call-volume problem.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Scheduling and follow-up agents are administrative, not medical practice, so x1 does not apply; any product that triaged symptoms or gave clinical guidance would cross it, so scope must stay administrative and patient data must be handled under DPDP.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "A hospital lets a vendor speak to its patients and handle their data only after demos, references and a promoter's sign-off; this is a B2B service bought on trust.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "restaurant-owners-india-cloud-kitchens",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w5",
+        "evidence_url": null,
+        "reasoning": "The ledger's TinyAI path names restaurants in India and this room is Indian restaurant and cloud-kitchen owners taking orders by phone and WhatsApp; the path is mostly cold except for existing TinyAI clients. Search reach also exists: Petpooja is listed with reviews and prices on G2, Capterra and Techjockey (https://www.g2.com/products/petpooja-poss/pricing).",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d5",
+        "reasoning": "WhatsApp ordering, reservation handling and AI phone answering during rush hours are d5; POS, aggregator commissions and kitchen operations are outside the ledger.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {"what": "Petpooja POS and billing per outlet (Stage 1 ladder price)", "price_text": "₹1,000-1,500/month", "amount": 1000, "currency": "INR", "unit": "month", "url": "https://www.dineopen.com/blog/petpooja-pricing-plans-2026.html", "seen_via": "search"},
+        {"what": "NRAI membership, one year, by number of outlets", "price_text": "INR 11,000 to 8,40,000", "amount": 11000, "currency": "INR", "unit": "year", "url": "https://blog.petpooja.com/industry-business-guides/what-is-nrai/", "seen_via": "search"},
+        {"what": "AiSensy WhatsApp Business API platform for restaurant ordering, entry plan", "price_text": "₹1,500/month", "amount": 1500, "currency": "INR", "unit": "month", "url": "https://m.aisensy.com/blog/whatsapp-for-food-delivery/", "seen_via": "search"},
+        {"what": "RagLeap AI chatbot for Indian restaurants (phone orders, table booking, menu questions)", "price_text": "₹16,500/month", "amount": 16500, "currency": "INR", "unit": "month", "url": "https://ragleap.com/industries/restaurant-ai-chatbot/", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Order-taking and reservation agents need no licence, large capital or ritual; food and premises are the owner's physical work, not something the product supplies.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "No licence is needed to answer a restaurant's phone or WhatsApp, and there is no employer overlap.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "An agent that takes a restaurant's orders handles its revenue on thin margins, and Indian POS vendors sell after demos rather than self-serve, so an owner needs a demo and a referral before switching; trust is needed but the low price band keeps it moderate.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "salon-spa-owners-india-global",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w5",
+        "evidence_url": null,
+        "reasoning": "The ledger's TinyAI path names salons in India, which covers the Indian half of this room; the path is mostly cold except for existing TinyAI clients. Search reach also holds worldwide: Fresha for Business has thousands of app-store ratings from salon owners (https://apps.apple.com/us/app/fresha-for-business/id1455346253?see-all=reviews&platform=iphone) and MioSalon is listed with prices on Capterra and SoftwareSuggest.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d5",
+        "reasoning": "WhatsApp reminders, rebooking and an AI receptionist for missed calls are d5; the services, staff and expansion steps are outside the ledger.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {"what": "Salon booking, billing and GST software, Indian entry plan (Stage 1 ladder price)", "price_text": "from ₹799/mo", "amount": 799, "currency": "INR", "unit": "month", "url": "https://salonboost.online/compare-salon-softwares", "seen_via": "search"},
+        {"what": "EaseSeat Elite plan: appointments, billing, CRM and own WhatsApp Business number", "price_text": "₹849 per month", "amount": 849, "currency": "INR", "unit": "month", "url": "https://easeseat.com/", "seen_via": "search"},
+        {"what": "SalonBoost Premium plan with WhatsApp automation, payroll and marketing", "price_text": "₹1,499 per month", "amount": 1499, "currency": "INR", "unit": "month", "url": "https://salonboost.online/pricing", "seen_via": "search"},
+        {"what": "MioSalon salon and spa software, starting price in India", "price_text": "INR 2,500", "amount": 2500, "currency": "INR", "unit": "month", "url": "https://www.softwaresuggest.com/miosalon", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Booking, reminder and missed-call products need no licence, large capital or ritual; the salon's own services are physical work the owner already supplies.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "No licence is needed for booking or reminder tools and there is no employer overlap.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": false,
+        "reasoning": "This room already buys booking and WhatsApp reminder software self-serve from app stores and pricing pages at ₹799 to ₹2,500 a month, so a low-priced reminder or rebooking product can sell without trust; a voice agent that answers the salon's phone would need more.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "dubai-real-estate-brokerages-telesales",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w5",
+        "evidence_url": null,
+        "reasoning": "The ledger's TinyAI path covers businesses with large call volumes in the Gulf, including tele-sales floors, and Dubai brokerages are the Gulf's largest tele-sales floors; the path is mostly cold except for existing TinyAI clients, and brokerages are not named in the ledger's examples, so the match is by category rather than by name.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d5",
+        "reasoning": "Qualifying portal leads and following up by voice and WhatsApp within the calling rules is d5; portal listings, RERA compliance and brokerage itself are outside the ledger, and d3 is industrial real estate, not residential brokerage.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {"what": "Portal listing packages on Property Finder and Bayut per brokerage (Stage 1 ladder price)", "price_text": "Dh10,000-Dh30,000 each month", "amount": 10000, "currency": "AED", "unit": "month", "url": "https://gulfnews.com/business/property/covid-19-spurned-on-ad-rates-uae-brokers-hit-back-at-property-portal-1.70973709", "seen_via": "search"},
+        {"what": "Property Finder listing cost per listing (premium portal, as quoted in a portal comparison)", "price_text": "AED 500-2,000+ per listing", "amount": 500, "currency": "AED", "unit": "per listing", "url": "https://joinoliva.com/en/learn/blog/bayut-vs-property-finder-which-to-use", "seen_via": "search"},
+        {"what": "RERA broker card renewal (AED 500 fee plus AED 10 knowledge and AED 10 innovation fees)", "price_text": "AED 520", "amount": 520, "currency": "AED", "unit": "year", "url": "https://egsh.ae/insights/rera-professional-practice-card-dubai", "seen_via": "search"},
+        {"what": "Real estate CRM for a Dubai brokerage (Stage 1 ladder price)", "price_text": "AED 200-1,500/mo", "amount": 200, "currency": "AED", "unit": "month", "url": "https://codingclave.com/blog/real-estate-crm-dubai", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Inbound lead qualification and consented follow-up agents need no licence, large capital or ritual; brokerage itself needs a RERA licence the brokerage already holds, and outbound cold-calling is now regulated in the UAE, so the product must stay on inbound and permitted follow-up.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "A RERA brokerage licence is a real-estate licence, not the medical, legal or investment-advice licences in x1, and the product handles leads rather than brokering; the UAE telemarketing rules are a legal risk for outbound calling to record for the red team, not an exclusion. No employer overlap.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "The agent would touch leads the brokerage pays AED 10,000 to 30,000 a month for, and could expose it to regulator fines if it calls wrongly, so owners buy after demos and referrals; a B2B service.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "small-3pl-fulfilment-warehouse-operators",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://fulfilldotcom.gumroad.com/l/3plgrowth",
+        "reasoning": "3PL owners already buy growth resources and software through public marketplaces and search: a $99 a month 3PL growth community sells on Gumroad with 9 five-star ratings, and 3PL Warehouse Manager has 131 verified reviews on Capterra. The ledger's w3 path covers warehouse developers, investors and advisers, not the operator-tenants, so introductions through landlords would be second-hand, not a warm path.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d3",
+        "reasoning": "Leasing and fitting out industrial space is one of the operator's biggest cost lines and sits squarely in d3 (industrial and logistics real estate), with d5 covering the order-status call step; the rest of the ladder (WMS, client acquisition, SOC 2) is outside the ledger, so the match is on one core problem, not the whole business.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {"what": "Zenventory Starter WMS for a small 3PL (Stage 1 ladder price)", "price_text": "$499/month", "amount": 499, "currency": "USD", "unit": "month", "url": "https://www.zenventory.com/blog/best-wms-for-small-3pls-2026-real-pricing-no-per-user-fees", "seen_via": "search"},
+        {"what": "Third Party Logistics Premium Growth Community and Resources on Gumroad (Stage 1 ladder price)", "price_text": "$99 a month", "amount": 99, "currency": "USD", "unit": "month", "url": "https://fulfilldotcom.gumroad.com/l/3plgrowth", "seen_via": "search"},
+        {"what": "3PL Warehouse Manager (Extensiv) starting price on Capterra", "price_text": "$599.00 per user per month", "amount": 599, "currency": "USD", "unit": "month", "url": "https://www.capterra.com/p/86175/3PL-Warehouse-Manager/reviews/", "seen_via": "search"},
+        {"what": "First SOC 2 audit for brand security questionnaires (Stage 1 ladder price)", "price_text": "$10,000 to $50,000", "amount": 10000, "currency": "USD", "unit": "one-off", "url": "https://www.vanta.com/collection/soc-2/soc-2-audit-cost", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Lease advice and call-handling tools need no licence, ritual or capital from the founder; the warehouse capital is the operator's own, and the founder would advise on terms rather than broker for a commission, which would need a real estate licence in most US states.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "No medical, legal or investment-advice licence is needed for lease negotiation advice or call tools. The ledger lists the industrial real estate path as the founder's private-equity network rather than his employer's work, so no employer overlap is stated; if that network is in fact employer clients, x2 would need checking.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "Advice on a multi-year lease with a personal guarantee is a high-stakes personal outcome bought from someone the operator trusts; only a self-serve template product could sell on search alone.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "independent-sponsors-small-pe-firms",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w2",
+        "evidence_url": null,
+        "reasoning": "Independent sponsors and small PE firms are private equity and finance professionals, often ex-bankers, reachable through the founder's current and past colleagues, which is exactly the w2 path.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d2",
+        "reasoning": "Checking a seller's numbers, building the LBO model and lender package, writing the investor memo and closing documents are corporate finance, valuation and deal documents, the founder's strongest domain.",
+        "confidence": "high"
+      },
+      "spend": [
+        {"what": "Quality-of-earnings report on a lower-middle-market deal (Stage 1 ladder price)", "price_text": "$10,000 to $20,000 for a focused QoE Lite scope, and $25,000 to $50,000 for a full-scope engagement", "amount": 10000, "currency": "USD", "unit": "one-off", "url": "https://systemsix.com/what-does-a-quality-of-earnings-report-cost-pricing-by-deal-size/", "seen_via": "search"},
+        {"what": "Wall Street Prep Premium Package for modelling training (Stage 1 ladder price)", "price_text": "$499", "amount": 499, "currency": "USD", "unit": "one-off", "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/", "seen_via": "search"},
+        {"what": "iGlobal Forum 2026 Independent Sponsors Summit New York, standard independent sponsor pass", "price_text": "$849", "amount": 849, "currency": "USD", "unit": "ticket", "url": "https://conference.iglobalforum.com/independent-sponsors-conference/register", "seen_via": "search"},
+        {"what": "Quality-of-earnings cost for a sub-$3M EBITDA business, 2026", "price_text": "$15,000-$25,000", "amount": 15000, "currency": "USD", "unit": "one-off", "url": "https://www.bedrockqoe.com/insights/quality-of-earnings-report-cost", "seen_via": "search"},
+        {"what": "Fractional CFO for the portfolio company after closing (Stage 1 ladder price)", "price_text": "between $3,000 and $12,000 per month", "amount": 3000, "currency": "USD", "unit": "month", "url": "https://pilot.com/blog/fractional-cfo-cost-guide", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Modelling, diligence review and investor materials need judgment the founder can supply; closing documents need lawyers who can be rented (r1). Soliciting investors for a fee would need a broker-dealer licence in the US, so the product must stop at materials and analysis, not placement.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Employer overlap: this room is investment banking and private equity work on live deals, the founder's day job, and the ledger says outside-business rules must be checked before pursuing it. It is not excluded under x2 because serving sponsors on their own deals uses none of the employer's clients, deals or confidential information, but any deal that touches the employer's pipeline would be.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "Deal work priced in the thousands to tens of thousands of dollars, with the sponsor's reputation with lenders and investors on the line, is bought only from someone they trust.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "small-ca-firms-india",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.shiksha.com/online-courses/gst-certification-course-course-cacll1",
+        "reasoning": "Small CA firms already buy training and practice tools through search and public course marketplaces: CAclubindia's paid GST certification course is listed with its fee on Shiksha, and QwikCA's practice software claims 5,000+ Indian CA firms on its pricing pages (https://www.qwikca.in/ca-practice-management-software/). Not warm: w2 reaches investment banking and PE professionals through colleagues, and small-practice proprietors in Indian cities are not the founder's colleagues.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d2",
+        "reasoning": "The firm's day job (tax, GST, audit, ROC filings) is outside the ledger, but two of its stated paid problems sit in strong domains: the transaction-advisory line it wants to add (valuation reports, fundraising models, due diligence) is d2, and document-chasing over WhatsApp is d5. The match is partial and rests on the growth step, not the compliance core.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {"what": "QwikCA Starter practice management plan, 10 users (Stage 1 ladder price)", "price_text": "₹7,500/year", "amount": 7500, "currency": "INR", "unit": "year", "url": "https://www.qwikca.in/pricing/", "seen_via": "search"},
+        {"what": "Turia CA practice management, Basic plan for up to 5 users", "price_text": "₹6,999/year", "amount": 6999, "currency": "INR", "unit": "year", "url": "https://turia.in/", "seen_via": "search"},
+        {"what": "CAclubindia live GST certification course, 40 hours", "price_text": "Rs. 9,999", "amount": 9999, "currency": "INR", "unit": "one-off", "url": "https://www.caclubindia.com/coaching/gst-certification-course.asp", "seen_via": "search"},
+        {"what": "SCDL and PwC Certificate in Financial Analysis, Modelling and Valuation, 3 months online", "price_text": "₹30,000", "amount": 30000, "currency": "INR", "unit": "one-off", "url": "https://www.scdl.net/blog/finance/financial-modelling-valuation-course-fees-india", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Modelling training, valuation know-how and document-chasing tools need no licence, capital or ritual from the founder; signed valuation reports for Companies Act or FEMA purposes need a Registered Valuer or merchant banker, which the firm can arrange or rent (r1).",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Tax and audit sign-off need the CA's own licence, which the firm holds; the founder's product would be training, modelling support and client-communication tools that sign nothing, so x1 does not apply. Minor employer overlap only in the sense that finance skills are involved.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "A CA firm adopting a new advisory line or letting a tool message its clients puts its professional name on the line, so it buys from a peer it trusts; software at ₹7,000 a year is self-serve, but that is not the founder's product.",
+        "confidence": "moderate"
+      }
+    }
+  ]
+}

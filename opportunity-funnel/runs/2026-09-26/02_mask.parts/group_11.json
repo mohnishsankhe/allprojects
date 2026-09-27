@@ -1,0 +1,573 @@
+{
+ "rooms": [
+  {
+   "slug": "mba-admissions-consulting-boutiques",
+   "reach": {
+    "kind": "search",
+    "ledger_id": "s1",
+    "evidence_url": "https://www.collegeplannerpro.com/plans",
+    "reasoning": "No warm path covers admissions consulting firms (w1 is GRE students, not the firms). Admissions consultants already buy practice software self-serve through search: CollegePlannerPro sells month-to-month plans from $66/month with a 30-day trial and is listed with reviews on SourceForge and SoftwareSuggest; the evidence is for the college-consultant segment of the same business type, and GMAT Club's marketplace shows MBA firms paying for CPM advertising, so search reach is likely but not proven for MBA boutiques specifically.",
+    "confidence": "moderate"
+   },
+   "depth": {
+    "ledger_id": null,
+    "reasoning": "The firms' core paid problems are winning applicants, packaging essay and interview services and pricing against mbaMission; admissions consulting is not a ledger depth. d5 covers only the AI-search-visibility and enquiry-agent rungs (steps 4 and 5), which are adjacent tooling rather than the core, so no depth id is claimed.",
+    "confidence": "moderate"
+   },
+   "spend": [
+    {
+     "what": "AI search visibility tracking, Profound Starter plan (what a firm pays to stay visible in AI answers)",
+     "price_text": "$99.00 per month",
+     "amount": 99,
+     "currency": "USD",
+     "unit": "month",
+     "url": "https://thatmarketingbuddy.com/pricing/profound",
+     "seen_via": "search"
+    },
+    {
+     "what": "CollegePlannerPro practice software for admissions consultants, plan for up to 10 active students",
+     "price_text": "$66/month",
+     "amount": 66,
+     "currency": "USD",
+     "unit": "month",
+     "url": "https://www.collegeplannerpro.com/plans",
+     "seen_via": "search"
+    },
+    {
+     "what": "Vapi voice-agent platform fee for enquiry calls",
+     "price_text": "$0.05-per-minute platform fee",
+     "amount": 0.05,
+     "currency": "USD",
+     "unit": "minute",
+     "url": "https://www.happyrobot.ai/hub/vapi-ai-pricing",
+     "seen_via": "search"
+    }
+   ],
+   "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "Tooling and marketing for small consulting firms needs no large capital, ritual or licensed advocacy.",
+    "confidence": "high"
+   },
+   "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "Selling software or visibility services to admissions consultants needs no licence and does not touch the founder's employer, its clients or deals.",
+    "confidence": "high"
+   },
+   "trust_needed": {
+    "value": true,
+    "reasoning": "A B2B tool or service sold to a firm owner who lives on reputation needs trust, even at $66-$99 a month; only a purely self-serve tracker would not.",
+    "confidence": "moderate"
+   }
+  },
+  {
+   "slug": "outbound-lead-gen-appointment-setting-agencies",
+   "reach": {
+    "kind": "warm",
+    "ledger_id": "w5",
+    "evidence_url": null,
+    "reasoning": "These agencies are outbound calling teams, exactly the call centres and tele-sales businesses w5 names, but w5 reaches only the India and Gulf slice of a room that is mostly US, UK and Philippines, and the ledger notes it is mostly cold unless they are existing TinyAI clients. Search reach also holds: agency owners buy dialers and AI setters through review marketplaces (Mojo Dialer reviews and Appointwise pricing on G2, https://www.g2.com/products/mojo-dialer/reviews and https://www.g2.com/products/appointwise/pricing).",
+    "confidence": "moderate"
+   },
+   "depth": {
+    "ledger_id": "d5",
+    "reasoning": "The room's core paid problems are dialing, call recording and QA, and cutting cost per appointment with AI callers; voice agents and call auditing are named strong domains in d5.",
+    "confidence": "high"
+   },
+   "spend": [
+    {
+     "what": "DialedIn Small Business dialer seat",
+     "price_text": "$79/user/month (annual) or $99/user/month (month-to-month), with a $495/month minimum",
+     "amount": 79,
+     "currency": "USD",
+     "unit": "user per month",
+     "url": "https://prospeo.io/s/dialedin-pricing-reviews-pros-and-cons",
+     "seen_via": "search"
+    },
+    {
+     "what": "NumberBroom TCPA litigator scrub, batch screening",
+     "price_text": "$0.20 per Number",
+     "amount": 0.2,
+     "currency": "USD",
+     "unit": "number",
+     "url": "https://numberbroom.com/tcpa-litigator-scrub",
+     "seen_via": "search"
+    },
+    {
+     "what": "Appointwise AI appointment setter for agencies, Starter plan",
+     "price_text": "$97/month",
+     "amount": 97,
+     "currency": "USD",
+     "unit": "month",
+     "url": "https://www.g2.com/products/appointwise/pricing",
+     "seen_via": "search"
+    },
+    {
+     "what": "Mojo Dialer Agent Access licence (before the $89/month single-line dialer licence)",
+     "price_text": "$10 per user per month",
+     "amount": 10,
+     "currency": "USD",
+     "unit": "user per month",
+     "url": "https://www.ringover.com/blog/mojo-dialer-pricing",
+     "seen_via": "search"
+    },
+    {
+     "what": "Vapi voice-agent platform fee for AI first-touch calls",
+     "price_text": "$0.05-per-minute platform fee",
+     "amount": 0.05,
+     "currency": "USD",
+     "unit": "minute",
+     "url": "https://www.happyrobot.ai/hub/vapi-ai-pricing",
+     "seen_via": "search"
+    }
+   ],
+   "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "Dialers, scrubbing, call QA and AI calling are software and judgment; do-not-call compliance is a scrub tool, not licensed advocacy, and nothing here needs large capital or ritual.",
+    "confidence": "high"
+   },
+   "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "No licence is needed to sell calling tools or call auditing to agencies, and the room has nothing to do with the founder's employer, its clients or deals.",
+    "confidence": "high"
+   },
+   "trust_needed": {
+    "value": true,
+    "reasoning": "An agency puts client accounts at risk when it changes how calls are made, and B2B retainers or AI-agent builds run to hundreds of dollars a month, so the buyer needs to trust the seller.",
+    "confidence": "high"
+   }
+  },
+  {
+   "slug": "fragrance-enthusiasts-online-forums",
+   "reach": {
+    "kind": "search",
+    "ledger_id": "s1",
+    "evidence_url": "https://apps.apple.com/us/app/scentbird-perfume-box/id1444093439?see-all=reviews&platform=iphone",
+    "reasoning": "No warm path covers hobbyists. The room already buys this kind of product through app stores and search: Scentbird's $16.95-a-month subscription app has 40,000+ App Store reviews at 4.8 stars, and decant shops such as scentdecant.com carry 590 Trustpilot reviews (https://www.trustpilot.com/review/scentdecant.com).",
+    "confidence": "high"
+   },
+   "depth": {
+    "ledger_id": "d8",
+    "reasoning": "The room's core paid problems are choosing, sampling and buying perfume and, for a minority, starting to make it; that is the fragrance domain, which the ledger lists at moderate strength only.",
+    "confidence": "moderate"
+   },
+   "spend": [
+    {
+     "what": "Scentbird monthly fragrance subscription, one vial",
+     "price_text": "$16.95 a Month",
+     "amount": 16.95,
+     "currency": "USD",
+     "unit": "month",
+     "url": "https://www.fashionbeans.com/article/scentbird-reviews/",
+     "seen_via": "search"
+    },
+    {
+     "what": "Fragrance decants of expensive bottles, typical price range",
+     "price_text": "between $5 and $30",
+     "amount": 5,
+     "currency": "USD",
+     "unit": "one-off",
+     "url": "https://decantanddiscover.com/journal/how-much-do-fragrance-decants-cost",
+     "seen_via": "search"
+    },
+    {
+     "what": "Scent Decant sample vials, starting price (listing text: Sample vials start at just $0.99)",
+     "price_text": "$0.99",
+     "amount": 0.99,
+     "currency": "USD",
+     "unit": "one-off",
+     "url": "https://www.trustpilot.com/review/scentdecant.com",
+     "seen_via": "search"
+    },
+    {
+     "what": "Starter perfume-making kit",
+     "price_text": "$189.95",
+     "amount": 189.95,
+     "currency": "USD",
+     "unit": "one-off",
+     "url": "https://en.lovebox.love/products/starter-perfume-making-kit",
+     "seen_via": "search"
+    }
+   ],
+   "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "Discovery, sampling and learning products need no large capital, ritual or licence; physical kits and decants are atoms a vendor can supply.",
+    "confidence": "high"
+   },
+   "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "Consumer fragrance products need no licence and have no connection to the founder's employer.",
+    "confidence": "high"
+   },
+   "trust_needed": {
+    "value": false,
+    "reasoning": "The room buys $1 samples and $17 subscriptions self-serve from strangers; the likely product is low-price and self-serve, so a relationship is not needed.",
+    "confidence": "high"
+   }
+  },
+  {
+   "slug": "indian-retail-fno-traders-community",
+   "reach": {
+    "kind": "search",
+    "ledger_id": "s1",
+    "evidence_url": "https://play.google.com/store/apps/details?id=com.sensibull.mobile&hl=en_US",
+    "reasoning": "No warm path covers retail traders. They already buy this kind of product through app stores and search: Sensibull's options app is on Google Play and the App Store with paid plans from INR 800 a month, and Udemy lists many paid Indian options courses (https://www.udemy.com/topic/options-trading/).",
+    "confidence": "high"
+   },
+   "depth": {
+    "ledger_id": "d7",
+    "reasoning": "The room's core paid problems are learning options trading and analysing positions; the ledger lists options trading at moderate strength. The year-end tax-filing rung is a CA's domain, not a depth.",
+    "confidence": "moderate"
+   },
+   "spend": [
+    {
+     "what": "Upsurge Club options trading course",
+     "price_text": "₹499",
+     "amount": 499,
+     "currency": "INR",
+     "unit": "one-off",
+     "url": "https://www.upsurge.club/courses/options-trading",
+     "seen_via": "search"
+    },
+    {
+     "what": "Sensibull options analytics subscription (Pro, from its help page)",
+     "price_text": "Rs 1300/month",
+     "amount": 1300,
+     "currency": "INR",
+     "unit": "month",
+     "url": "https://sensibull.freshdesk.com/support/solutions/articles/43000586718-what-are-the-charges-of-sensibull-",
+     "seen_via": "search"
+    },
+    {
+     "what": "Sensibull paid plan, starting price as listed by Techjockey",
+     "price_text": "INR 800 per month",
+     "amount": 800,
+     "currency": "INR",
+     "unit": "month",
+     "url": "https://www.techjockey.com/detail/sensibull",
+     "seen_via": "search"
+    },
+    {
+     "what": "Quantsapp options analytics and backtesting subscription",
+     "price_text": "Rs 1229 monthly",
+     "amount": 1229,
+     "currency": "INR",
+     "unit": "month",
+     "url": "https://www.topstockmarketbroker.com/2026/08/quantsapp-review-2026-app-features.html",
+     "seen_via": "search"
+    }
+   ],
+   "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "Courses, analytics and accountability cohorts need no capital, ritual or licence; any guarantee on trading results would be large-capital risk transfer and must stay out of the product.",
+    "confidence": "moderate"
+   },
+   "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "Education, tooling and cohorts need no SEBI registration, but buy or sell calls, live-market tips or portfolio advice would be regulated investment advice (x1), so the product must stay strictly on the education side; SEBI's 2025 rules on educators using live market data narrow that line further.",
+    "confidence": "moderate"
+   },
+   "trust_needed": {
+    "value": true,
+    "reasoning": "The outcome is the trader's own money after most have already lost some; a Rs 499 course is self-serve, but mentorship or a cohort after losses needs trust in the teacher.",
+    "confidence": "moderate"
+   }
+  },
+  {
+   "slug": "indie-hackers-bootstrapped-founders",
+   "reach": {
+    "kind": "search",
+    "ledger_id": "s1",
+    "evidence_url": "https://www.g2.com/products/peec-ai/reviews",
+    "reasoning": "No warm path covers indie hackers. They already buy this kind of product self-serve through search and review marketplaces: Peec AI, an AI-search-visibility tool at $80-$420 a month, carries 18 G2 reviews at 4.8/5, and Indie Hackers threads review paying $500 for Stripe Atlas (https://www.indiehackers.com/post/using-stripe-atlas-a-review-888b19a126).",
+    "confidence": "high"
+   },
+   "depth": {
+    "ledger_id": "d5",
+    "reasoning": "The room's core paid problem is getting a small software product found and sold, and AI search visibility is a named strong domain in d5; d5 does not cover the incorporation, merchant-of-record or annual-tax rungs, so the match is partial.",
+    "confidence": "moderate"
+   },
+   "spend": [
+    {
+     "what": "Stripe Atlas incorporation, one-off",
+     "price_text": "$500",
+     "amount": 500,
+     "currency": "USD",
+     "unit": "one-off",
+     "url": "https://sparklaun.ch/compare/stripe-atlas",
+     "seen_via": "search"
+    },
+    {
+     "what": "Peec AI Starter, AI search visibility, billed monthly",
+     "price_text": "$95 per month",
+     "amount": 95,
+     "currency": "USD",
+     "unit": "month",
+     "url": "https://visible.seranking.com/blog/peec-ai-review/",
+     "seen_via": "search"
+    },
+    {
+     "what": "Peec AI Starter, AI search visibility, annual billing",
+     "price_text": "$80/month",
+     "amount": 80,
+     "currency": "USD",
+     "unit": "month",
+     "url": "https://trakkr.ai/reviews/peec-review",
+     "seen_via": "search"
+    },
+    {
+     "what": "Paid Skool community to learn to sell and price",
+     "price_text": "$97 per month",
+     "amount": 97,
+     "currency": "USD",
+     "unit": "month",
+     "url": "https://aifunnelinsider.com/skool-communities/",
+     "seen_via": "search"
+    }
+   ],
+   "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "Visibility tools, insight products and peer cohorts need no capital, ritual or licence.",
+    "confidence": "high"
+   },
+   "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "Selling software or cohorts to bootstrapped founders needs no licence and has nothing to do with the founder's employer, its clients or deals.",
+    "confidence": "high"
+   },
+   "trust_needed": {
+    "value": false,
+    "reasoning": "This room buys $80-$500 self-serve tools from strangers after reading reviews; the likely product is a self-serve tool, so trust matters less, though a cohort would need it.",
+    "confidence": "moderate"
+   }
+  },
+  {
+   "slug": "indian-startup-founders-community",
+   "reach": {
+    "kind": "search",
+    "ledger_id": "s1",
+    "evidence_url": "https://www.smartcustomer.com/reviews/indiafilings.com",
+    "reasoning": "w5 covers only the slice of founders running call-heavy businesses (ed-tech, D2C) and only as TinyAI clients, so the room as a whole is not a warm path. Indian founders already buy this kind of product through search: IndiaFilings, a compliance and filing marketplace, carries 783 customer reviews and sells annual compliance packages around INR 14,999, and valuation-report vendors quote prices online (https://businesssetup.in/grow/valuation-report-for-startups/).",
+    "confidence": "moderate"
+   },
+   "depth": {
+    "ledger_id": "d2",
+    "reasoning": "Raising a round, with its valuation, term sheets and deal documents, is the room's central paid problem and sits inside d2 (corporate finance, valuation, deal documents and transactions), a strong domain; d5 covers the AI-agent and AI-visibility rungs, while ROC compliance is a CA's domain, not a depth.",
+    "confidence": "moderate"
+   },
+   "spend": [
+    {
+     "what": "Annual compliance for a private limited company: ROC filings, GST, audit",
+     "price_text": "Rs. 50,000 to Rs. 80,000",
+     "amount": 50000,
+     "currency": "INR",
+     "unit": "year",
+     "url": "https://www.incorpx.io/blog/annual-compliance-cost-startups-2026",
+     "seen_via": "search"
+    },
+    {
+     "what": "Registered valuer report for a fundraise",
+     "price_text": "Rs 25,000",
+     "amount": 25000,
+     "currency": "INR",
+     "unit": "one-off",
+     "url": "https://businesssetup.in/grow/valuation-report-for-startups/",
+     "seen_via": "search"
+    },
+    {
+     "what": "Merchant banker valuation report for a fundraise, starting price",
+     "price_text": "Rs. 65,000",
+     "amount": 65000,
+     "currency": "INR",
+     "unit": "one-off",
+     "url": "https://businesssetup.in/grow/valuation-report-for-startups/",
+     "seen_via": "search"
+    },
+    {
+     "what": "Peec AI Starter, AI search visibility",
+     "price_text": "$95 per month",
+     "amount": 95,
+     "currency": "USD",
+     "unit": "month",
+     "url": "https://visible.seranking.com/blog/peec-ai-review/",
+     "seen_via": "search"
+    }
+   ],
+   "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "Fundraising preparation, AI tooling and cohorts need no large capital, ritual or licensed advocacy; a valuation report's sign-off needs an IBBI registered valuer and ROC filings need a CA, both rentable (r1).",
+    "confidence": "moderate"
+   },
+   "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "Employer overlap: helping startups prepare a raise is investment-banking-adjacent work, but it would not use the founder's employer's clients, deals or confidential information, and coaching on a raise needs no licence as long as the valuer or merchant banker signs the report; the founder must check outside-business rules first.",
+    "confidence": "moderate"
+   },
+   "trust_needed": {
+    "value": true,
+    "reasoning": "A founder hands over cap-table and fundraising details and pays tens of thousands of rupees, so the seller must be trusted.",
+    "confidence": "high"
+   }
+  },
+  {
+   "slug": "indian-developers-moving-into-ai",
+   "reach": {
+    "kind": "search",
+    "ledger_id": "s1",
+    "evidence_url": "https://www.udemy.com/course/the-complete-ai-agents-ai-automation-course-2025-n8n/",
+    "reasoning": "No warm path covers Indian developers (w1 is GRE students, w5 is businesses). They already buy this kind of product through marketplaces and search: a paid n8n AI-agents course on Udemy has 49,339 students, AI Automation Society Plus has 3,700+ paying members (https://www.skool.com/ai-automation-society/ai-automation-society-plus), and 100xEngineers sells a Rs 29,500 GenAI cohort to Indian developers online.",
+    "confidence": "high"
+   },
+   "depth": {
+    "ledger_id": "d5",
+    "reasoning": "The room's core paid problem is learning to build and sell AI agents and automations for businesses, which is exactly the strong d5 domain (voice agents, WhatsApp agents, call auditing).",
+    "confidence": "high"
+   },
+   "spend": [
+    {
+     "what": "AI Automation Society Plus paid Skool community (price on its about page)",
+     "price_text": "$94 monthly",
+     "amount": 94,
+     "currency": "USD",
+     "unit": "month",
+     "url": "https://www.skool.com/ai-automation-society-plus/about",
+     "seen_via": "search"
+    },
+    {
+     "what": "AI Automation Society Plus, current price as reviewed",
+     "price_text": "$129/month",
+     "amount": 129,
+     "currency": "USD",
+     "unit": "month",
+     "url": "https://aifunnelinsider.com/ai-automation-society-plus-skool-review/",
+     "seen_via": "search"
+    },
+    {
+     "what": "100xEngineers generative AI cohort for developers, first cohort fee",
+     "price_text": "Rs. 29,500",
+     "amount": 29500,
+     "currency": "INR",
+     "unit": "one-off",
+     "url": "https://www.crazyengineers.com/news/100x-engineers-cohort",
+     "seen_via": "search"
+    },
+    {
+     "what": "n8n automation platform, cloud plans",
+     "price_text": "$24–$800/month",
+     "amount": 24,
+     "currency": "USD",
+     "unit": "month",
+     "url": "https://costbench.com/software/ai-automation/n8n/",
+     "seen_via": "search"
+    },
+    {
+     "what": "Maker School agency-building program",
+     "price_text": "$184/month",
+     "amount": 184,
+     "currency": "USD",
+     "unit": "month",
+     "url": "https://skoolmakers.com/communities/maker-school/",
+     "seen_via": "search"
+    }
+   ],
+   "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "Teaching, judgment on agent builds and accountability cohorts need no capital, ritual or licence.",
+    "confidence": "high"
+   },
+   "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "Skills and career products for developers need no licence and do not touch the founder's employer, its clients or deals.",
+    "confidence": "high"
+   },
+   "trust_needed": {
+    "value": true,
+    "reasoning": "The outcome is the developer's own career and the price of a cohort runs to tens of thousands of rupees; cheap Udemy courses are self-serve, but a cohort with the founder's judgment needs trust.",
+    "confidence": "moderate"
+   }
+  },
+  {
+   "slug": "energy-transition-career-switchers",
+   "reach": {
+    "kind": "warm",
+    "ledger_id": "w2",
+    "evidence_url": null,
+    "reasoning": "The finance slice of the room, bankers and analysts who want infrastructure and renewables deals and gather on Wall Street Oasis, are the finance professionals w2 reaches through colleagues; the oil-and-gas engineer slice on Energy Central and SPE has no warm path (w4 reaches companies, not individuals). Search reach also holds: switchers buy project-finance and renewables courses through search, such as BIWS at $247 and a Udemy renewables course with 850+ engineers (https://www.udemy.com/course/renewable-energy-specialist-wind-hydrogen-battetteries/). Employer overlap: the room overlaps investment banking and Southeast Asian energy.",
+    "confidence": "moderate"
+   },
+   "depth": {
+    "ledger_id": "d4",
+    "reasoning": "The core paid problem is learning the energy sector, renewables project finance and its credentials well enough to be hired into it; the energy sector is a strong depth (d4) and project finance also sits in d2. Career coaching itself is not a depth, so the match is on the subject, not the switch.",
+    "confidence": "moderate"
+   },
+   "spend": [
+    {
+     "what": "BIWS project finance modelling course",
+     "price_text": "$247",
+     "amount": 247,
+     "currency": "USD",
+     "unit": "one-off",
+     "url": "https://breakingintowallstreet.com/project-finance-signup-options/",
+     "seen_via": "search"
+    },
+    {
+     "what": "Pivotal180 renewable energy project finance modelling course, annual renewal after the first 12 months",
+     "price_text": "$100 per year",
+     "amount": 100,
+     "currency": "USD",
+     "unit": "year",
+     "url": "https://pivotal180.com/course-type/renewable-energy-project-finance-modeling/",
+     "seen_via": "search"
+    },
+    {
+     "what": "NABCEP solar credential exam fee",
+     "price_text": "$375 exam fee",
+     "amount": 375,
+     "currency": "USD",
+     "unit": "one-off",
+     "url": "https://www.nabcep.org/certifications/nabcep-fees/",
+     "seen_via": "search"
+    },
+    {
+     "what": "GARP Sustainability and Climate Risk certificate, non-member fee",
+     "price_text": "USD 750 for non-members",
+     "amount": 750,
+     "currency": "USD",
+     "unit": "one-off",
+     "url": "https://www.garp.org/scr",
+     "seen_via": "search"
+    }
+   ],
+   "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "Courses, judgment on the sector and accountability cohorts need no large capital, ritual or licensed advocacy; credentials are issued by third parties the switcher pays directly.",
+    "confidence": "high"
+   },
+   "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "Employer overlap: the room overlaps investment banking and Southeast Asian energy, but skills and career products for switchers would not use the employer's clients, deals or confidential information, and no licence is needed; the founder must check outside-business rules before pursuing it.",
+    "confidence": "moderate"
+   },
+   "trust_needed": {
+    "value": true,
+    "reasoning": "A career switch is a personal outcome and coaching or a cohort costs hundreds of dollars; buyers need to trust the coach's sector judgment.",
+    "confidence": "high"
+   }
+  }
+ ]
+}
