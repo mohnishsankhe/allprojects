@@ -77,7 +77,12 @@ _GITHUB_RE = re.compile(
 )
 
 # ---------------------------------------------------------------- phones
-_PHONE_RE = re.compile(r"(?<![\w.,/-])\+?\(?\d(?:[\s().-]*\d){8,14}(?![\w%])")
+# A run of 9-15 digits with spaces, dots, dashes or brackets between them. A run glued to a colon
+# (`2024-12-05 18:30`) is never a phone number: the lookahead refuses it, so the match backtracks to
+# the 8-digit date, which is below the minimum.
+_PHONE_RE = re.compile(r"(?<![\w.,/-])\+?\(?\d(?:[\s().-]*\d){8,14}(?![\w%:])")
+# A date (`2024-12-05`, `05.12.2024`, `26-09-2026`), optionally followed by an hour (`2024-12-05 18`).
+_DATE_TIME_RE = re.compile(r"^(?:\d{4}[-./]\d{1,2}[-./]\d{1,2}|\d{1,2}[-./]\d{1,2}[-./]\d{2,4})(?:[\s,]+\d{1,2})?$")
 _PHONE_BEFORE_RE = re.compile(
     r"(?:[$₹€£¥]|\b(?:rs|inr|usd|eur|gbp|aed|sgd|price|priced|cost|costs|fee|fees|paid|pay|salary|ctc|budget|"
     r"score|scored|scores|gre|gmat|ielts|toefl|sat|rank|marks|views|invoice|isbn|worth|around|approx))\.?\s*$",
@@ -96,18 +101,26 @@ def _looks_like_years(s: str) -> bool:
     return all(len(g) == 4 and 1900 <= int(g) <= 2099 for g in groups)
 
 
+def _looks_like_version_or_ip(s: str) -> bool:
+    """`10.0.19041.1234`, `192.168.1.100`: three or more dot-separated groups of digits."""
+    return s.count(".") >= 3 and re.fullmatch(r"\d+(?:\.\d+){3,}", s.strip()) is not None
+
+
 def _phone_sub(m: re.Match) -> str:
     text = m.string
     before = text[max(0, m.start() - 14):m.start()]
     after = text[m.end():m.end() + 14]
-    if _PHONE_BEFORE_RE.search(before) or _PHONE_AFTER_RE.match(after) or _looks_like_years(m.group(0)):
-        return m.group(0)
+    run = m.group(0)
+    if (_PHONE_BEFORE_RE.search(before) or _PHONE_AFTER_RE.match(after) or _looks_like_years(run)
+            or _DATE_TIME_RE.match(run) or _looks_like_version_or_ip(run)):
+        return run
     return "[phone]"
 
 
 # ---------------------------------------------------------------- usernames
 _REDDIT_USER_RE = re.compile(r"(?<![\w./@])/?u/[A-Za-z0-9_-]{2,30}\b")
-_HANDLE_RE = re.compile(r"(?<![\w.])@[A-Za-z0-9_][\w.]{1,29}(?<!\.)")
+# A handle starts with a letter or underscore: `@2pm` and `@10:30` are times, not people.
+_HANDLE_RE = re.compile(r"(?<![\w.])@[A-Za-z_][\w.]{1,29}(?<!\.)")
 
 # ---------------------------------------------------------------- names
 _CAP = r"[A-Z][a-z'’-]+"
@@ -138,10 +151,34 @@ _SIGNOFF_RE = re.compile(
     r"\s*[,!.]?\s*(?:\n\s*)?(?:[-–—]\s*)?(" + _CAP + r"(?:\s+" + _CAP + r")?)\b"
 )
 _MY_NAME_RE = re.compile(r"\b([Mm]y name(?:'s|’s| is))\s+(" + _CAP_ANY + r"(?:\s+" + _CAP_ANY + r"){0,2})")
+# Web-search titles of social pages carry the person's name in a fixed shape. The name is 1-4
+# capitalised words; `_name_sub` still refuses a first word from _NOT_NAMES (so "How To ... on X:"
+# survives). The bare "<Name> - YouTube" and "<Name> | Facebook" shapes are NOT cued: a video or page
+# title has the same shape, and the profile pages themselves are never stored (is_profile_url).
+_NAME_1_4 = _CAP_ANY + r"(?:\s+" + _CAP_ANY + r"){0,3}"
+_NAME_2_4 = _CAP_ANY + r"(?:\s+" + _CAP_ANY + r"){1,3}"
+_SOCIAL_TITLE_RES = (
+    re.compile(r"^()(" + _NAME_1_4 + r") (?:on|auf) (?:LinkedIn|X|Twitter|Instagram|Threads|Facebook|TikTok):"),
+    re.compile(r"^()(" + _NAME_1_4 + r")(?:'|’)s answer to\b"),
+    re.compile(r"^()(" + _NAME_1_4 + r") \((?:@|\[user\])"),
+    re.compile(r"\b(by )(" + _NAME_1_4 + r") \| Medium\b"),
+    re.compile(r"^()(" + _NAME_2_4 + r") - .*\| LinkedIn$"),
+)
+# Words that are part of a saved contact name but are not the person: roles, places, family words.
 _KNOWN_TOKEN_STOP = {
     "will", "may", "june", "april", "august", "mark", "price", "sunny", "rose", "bill", "guy", "art", "ray",
     "hope", "grace", "joy", "max", "sky", "king", "young", "long", "man", "the", "and", "for", "you", "not",
+    "grant", "jack", "chase", "dean", "frank", "penny", "summer", "dawn", "faith", "hunter", "jade", "lily", "pearl",
+    "ruby", "star", "cash", "rich", "rob", "sue", "gene", "pat", "cliff", "wade", "lance", "miles", "sandy", "honey",
+    "sir", "madam", "maam", "miss", "mrs", "tutor", "teacher", "coach", "coaching", "mentor", "trainer", "faculty",
+    "centre", "center", "class", "classes", "batch", "group", "team", "admin", "office", "support", "help", "desk",
+    "sales", "hr", "manager", "boss", "client", "customer", "student", "students", "senior", "junior", "new", "old",
+    "mummy", "mom", "mum", "dad", "papa", "bhai", "bhaiya", "didi", "uncle", "aunty", "auntie", "bro", "sis",
+    "home", "work", "gym", "school", "college", "university", "institute", "academy", "prep", "test", "exam",
+    "delhi", "mumbai", "bangalore", "bengaluru", "hyderabad", "chennai", "kolkata", "pune", "noida", "gurgaon",
+    "india", "dubai", "singapore", "london", "york", "usa", "canada", "australia", "germany",
 }
+_SEP = r"[\s_.\-]+"
 
 
 def _replace_name_group(m: re.Match, group: int = 2) -> str:
@@ -159,20 +196,38 @@ def _name_sub(m: re.Match) -> str:
     return _replace_name_group(m, 2)
 
 
-def _known_names_patterns(known_names) -> list:
-    patterns = []
+def known_name_patterns(known_names) -> list:
+    """Patterns for known (sender) names, longest names first so "Zubin Mistry" goes before "zubin"."""
+    names = []
     for name in known_names or ():
         if not isinstance(name, str):
             continue
         name = name.strip()
-        if len(name) < 2:
+        if len(name) >= 2 and name not in names:
+            names.append(name)
+    names.sort(key=lambda n: (-len(n), n))
+    patterns = []
+    for name in names:
+        tokens = [t for t in re.split(_SEP, name) if t]
+        if not tokens:
             continue
-        patterns.append(re.compile(r"(?<!\w)" + re.escape(name) + r"(?!\w)", re.IGNORECASE))
-        for token in re.findall(r"[^\W\d_]{3,}", name):
-            if token.lower() in _KNOWN_TOKEN_STOP:
+        # the whole name, any case, parts joined by spaces, underscores, dots or hyphens
+        whole = _SEP.join(re.escape(t) for t in tokens)
+        patterns.append(re.compile(r"(?<![^\W_])" + whole + r"(?![^\W_])", re.IGNORECASE))
+        for i, token in enumerate(tokens):
+            word = re.sub(r"[^\w'’]", "", token)
+            if len(re.findall(r"[^\W\d_]", word)) < 3 or word.lower() in _KNOWN_TOKEN_STOP:
                 continue
-            patterns.append(re.compile(r"(?<!\w)" + re.escape(token) + r"(?!\w)", re.IGNORECASE))
+            if len(word) > 1 and word.isupper():
+                continue  # an acronym such as GRE
+            if not word[0].isupper():
+                continue  # not a capitalised part of the contact name
+            # every part in any letter case: "SHARMA" and "sharma" are still the person (rule 5 first)
+            patterns.append(re.compile(r"(?<![^\W_])" + re.escape(word) + r"(?![^\W_])", re.IGNORECASE))
     return patterns
+
+
+_known_names_patterns = known_name_patterns
 
 
 def anonymize(text: str, known_names=()) -> str:
@@ -196,7 +251,9 @@ def anonymize(text: str, known_names=()) -> str:
     s = _GREETING_RE.sub(_name_sub, s)
     s = _SIGNOFF_RE.sub(_name_sub, s)
     s = _MY_NAME_RE.sub(_name_sub, s)
-    for pat in _known_names_patterns(known_names):
+    for pat in _SOCIAL_TITLE_RES:
+        s = pat.sub(_name_sub, s)
+    for pat in known_name_patterns(known_names):
         s = pat.sub("[name]", s)
     return s
 
@@ -205,3 +262,78 @@ def anonymize_record(record: dict, known_names=()) -> dict:
     out = dict(record)
     out["text"] = anonymize(record.get("text", ""), known_names)
     return out
+
+
+# ---------------------------------------------------------------- profile pages
+_TWITTER_RESERVED = {"i", "search", "home", "explore", "hashtag", "intent", "share", "settings", "login", "signup",
+                     "messages", "notifications", "compose", "privacy", "tos", "about", "help"}
+_INSTAGRAM_RESERVED = {"p", "reel", "reels", "explore", "stories", "accounts", "direct", "about", "legal"}
+_FACEBOOK_RESERVED = {"groups", "pages", "events", "marketplace", "watch", "help", "photo", "photos", "share", "sharer",
+                      "story.php", "login", "home.php", "search", "policies", "privacy", "terms", "people", "public"}
+_GITHUB_RESERVED = {"orgs", "topics", "features", "about", "pricing", "explore", "marketplace", "sponsors", "settings",
+                    "login", "search", "apps", "site", "security", "enterprise", "collections", "events", "trending",
+                    "new", "join", "contact", "blog"}
+_PROFILE_SUBPAGES = {"", "with_replies", "media", "likes", "highlights", "articles", "videos", "shorts", "streams",
+                     "playlists", "community", "about", "featured", "posts", "answers", "questions", "followers",
+                     "following", "recent-activity", "details", "saved", "tagged", "reels"}
+
+
+def _host_is(host: str, *names) -> bool:
+    return any(host == n or host.endswith("." + n) for n in names)
+
+
+def is_profile_url(url) -> bool:
+    """True when the URL is a person's profile or channel page rather than a post (see the module doc)."""
+    s = str(url or "").strip()
+    if not s:
+        return False
+    if "://" not in s:
+        s = "https://" + s
+    try:
+        parts = urlsplit(s)
+    except ValueError:
+        return False
+    host = (parts.hostname or "").lower()
+    if host.startswith("www."):
+        host = host[4:]
+    segs = [x for x in parts.path.split("/") if x]
+    n = len(segs)
+    first = segs[0] if segs else ""
+    rest = segs[1:]
+
+    def only_subpages(tail) -> bool:
+        return all(x in _PROFILE_SUBPAGES for x in tail)
+
+    if _host_is(host, "reddit.com"):
+        return n >= 2 and first in ("user", "u")
+    if _host_is(host, "twitter.com", "x.com", "threads.net", "threads.com"):
+        handle = first.lstrip("@")
+        return n >= 1 and handle.lower() not in _TWITTER_RESERVED and only_subpages(rest)
+    if _host_is(host, "instagram.com"):
+        return n >= 1 and first.lower() not in _INSTAGRAM_RESERVED and only_subpages(rest)
+    if _host_is(host, "facebook.com"):
+        if first == "profile.php":
+            return "id" in parse_qs(parts.query)
+        return n >= 1 and first.lower() not in _FACEBOOK_RESERVED and only_subpages(rest)
+    if _host_is(host, "linkedin.com"):
+        return n >= 2 and first == "in"
+    if _host_is(host, "youtube.com"):
+        if first.startswith("@"):
+            return only_subpages(rest)
+        return n >= 2 and first in ("channel", "c", "user") and only_subpages(segs[2:])
+    if _host_is(host, "tiktok.com"):
+        return n >= 1 and first.startswith("@") and only_subpages(rest)
+    if _host_is(host, "medium.com"):
+        return n >= 1 and first.startswith("@") and only_subpages(rest)
+    if _host_is(host, "quora.com"):
+        return n >= 2 and first == "profile"
+    if _host_is(host, "stackoverflow.com", "stackexchange.com", "superuser.com", "serverfault.com", "askubuntu.com",
+                "mathoverflow.net"):
+        return n >= 2 and first == "users"
+    if host == "news.ycombinator.com":
+        return first == "user" and "id" in parse_qs(parts.query)
+    if host in ("t.me", "wa.me"):
+        return n >= 1
+    if host == "github.com":
+        return n == 1 and first.lower() not in _GITHUB_RESERVED
+    return False
