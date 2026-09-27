@@ -1,73 +1,77 @@
 {
   "lens": "business_type",
   "origin": "gap_pass",
-  "note": "[thin] Gap pass for the business_type lens, written 2026-09-26 with NO fresh web grounding: the session's web-search budget was already spent (200 of 200) when this pass ran, and every page fetch tried (dentaltown.com, zenoti.com, petpooja.com, wcaworld.com, reddit.com, gummysearch.com) was blocked by the network egress proxy. Every 'where' URL, every 'measured' number and every price below was seen in this run's search results by a sibling lens agent and is credited to the part file it came from; no URL was invented. Steps with no price seen carry no price. Sizes not seen are estimates with reasoning. Each room is tagged [thin]. Four further business_type rooms are genuinely missing but could not be written for lack of any seen gathering URL: private dental and multi-specialty clinics in India and the Gulf (hospitals are on the TinyAI warm path), restaurants and cloud kitchens in India and the Gulf (on the warm path), salon and spa chains in India and the Gulf (on the warm path), and small freight forwarders and customs brokers (logistics operators; industrial real estate depth). Rerun this pass with search budget to ground them, and to re-ground the five rooms here. Listed for REVIEW.md.",
+  "note": "Gap pass for the business_type lens, re-grounded on 2026-09-27 with live web search (the 2026-09-26 draft had reused sibling URLs without search). Every 'where' URL, every 'measured' number and every price below was seen in a WebSearch result in this re-grounding pass; page fetches stay blocked by the egress proxy (WebFetch to bedrockqoe.com refused), so no page text was read and prices are copied as the search results printed them. Steps with no price seen carry no price. All five rooms were kept: each now has 2 or more search-seen gathering places. Still open, for REVIEW.md: no forum could be found for the four business_type rooms named missing on 2026-09-26 (dental and multi-specialty clinics, restaurants and cloud kitchens, salon chains, freight forwarders) because no search was spent on them in this pass; Reddit is not reachable by the search crawler, so no subreddit appears as a place in this file.",
   "rooms": [
     {
       "slug": "small-3pl-fulfilment-warehouse-operators",
       "name": "Small third-party logistics (3PL) and e-commerce fulfilment warehouse operators",
       "lens": "business_type",
       "origin": "gap_pass",
-      "who": "Owners of fulfilment businesses that run one to five leased warehouses (10,000 to 200,000 square feet) and pick, pack and ship orders for online brands, in the US, UK, India, Australia and elsewhere. They lease industrial space, buy racking and warehouse software, win brand clients on price and speed, and field a stream of 'where is my order' calls and messages from their clients' customers. (3PL = a company that stores and ships goods for other businesses.)",
+      "who": "Owners of fulfilment businesses that run one to five leased warehouses (10,000 to 200,000 square feet) and pick, pack and ship orders for online brands, in the US, UK, India, Australia and elsewhere. They lease industrial space, buy racking and warehouse software, win brand clients on price and speed, and field a stream of 'where is my order' calls and messages from their clients' customers. Brands switch 3PLs often, so keeping clients is as hard as winning them. (3PL = a company that stores and ships goods for other businesses.)",
       "where": [
-        {"name": "r/FulfillmentByAmazon (Reddit; listed on SubredditAnalyzer's ecommerce page; 3PL operators answer sellers here and sellers compare 3PLs)", "url": "https://www.subredditanalyzer.com/best-subreddits-for/ecommerce", "seen_via": "search (this run; reused from transition.json)"},
-        {"name": "r/ecommerce (Reddit; same listing; brands ask which 3PL to use and 3PL owners reply)", "url": "https://www.subredditanalyzer.com/best-subreddits-for/ecommerce", "seen_via": "search (this run; reused from transition.json)"},
-        {"name": "r/shopify (Reddit; same listing)", "url": "https://www.subredditanalyzer.com/best-subreddits-for/ecommerce", "seen_via": "search (this run; reused from transition.json)"},
-        {"name": "Wall Street Oasis thread: Industrial Acquisitions (the investor side of the same warehouses; 3PL tenants are discussed here)", "url": "https://www.wallstreetoasis.com/forum/real-estate/industrial-acquisitions", "seen_via": "search (this run; reused from profession.json)"}
+        {"name": "IWLA Fulfillment Forum (the warehouse trade association's forum for fulfilment service providers)", "url": "https://iwla.com/iwla-fulfillment-forum/", "seen_via": "search"},
+        {"name": "Fulfill.com 3PL Growth community (paid community and resource library for 3PL owners, run by a former 3PL founder)", "url": "https://fulfilldotcom.gumroad.com/l/3plgrowth", "seen_via": "search"},
+        {"name": "Fulfill.com 3PL directory (2,700+ 3PLs listed by state and specialty; where small operators list to be found by brands)", "url": "https://www.fulfill.com/3pl", "seen_via": "search"},
+        {"name": "Shopify Community thread: issues with a 3PL company you've had (the brand side, where 3PLs are compared and lose clients)", "url": "https://community.shopify.com/t/issues-with-a-3pl-third-party-logistics-company-youve-had/190937", "seen_via": "search"}
       ],
-      "who_pays": "The operator pays from thin per-order margins: rent and deposits to a landlord, racking and software, staff, insurance, and tools to win and keep brand clients. Brand clients pay per order and per pallet stored.",
+      "who_pays": "The operator pays from thin per-order margins: rent and deposits to a landlord, racking and warehouse software, staff, insurance, and tools and communities that help win and keep brand clients. Brand clients pay per order and per pallet stored.",
       "size": {
-        "value": 20000,
-        "unit": "small 3PL and e-commerce fulfilment warehouse operators worldwide",
-        "tag": "estimate",
-        "reasoning": "No count was seen in this run. A sibling room estimates 100,000 consumer brands past $100k a year in online sales worldwide, and most outsource fulfilment to a small 3PL at some point; the US alone has thousands of such operators and the UK, India and Australia add more. Order of magnitude only. [thin]"
+        "value": 72937,
+        "unit": "third-party logistics businesses in the US in 2024 (IBISWorld count; a superset that includes freight brokers and transport-only firms)",
+        "tag": "measured",
+        "url": "https://redstagfulfillment.com/how-many-3pls-are-there/",
+        "reasoning": "The US count was seen in this pass. The fulfilment-focused slice is smaller: the Fulfill.com directory lists 2,700+ 3PLs by state and specialty [measured, same pass]. Worldwide, small fulfilment operators in the UK, India, Australia and Europe add a few thousand more [estimate]."
       },
       "ladder": [
-        {"step": 1, "problem": "Find and price the next warehouse: market data and listings (the price seen is CoStar, the data tool used to find and price industrial space)", "price_text": "$300–$450 per month per user", "url": "https://propertyscout360.com/blog/costar-subscription-cost", "seen_via": "search"},
-        {"step": 2, "problem": "Negotiate the industrial lease (term, rent steps, fit-out allowance, personal guarantee), then fit out racking and a warehouse management system (no price seen this run)"},
-        {"step": 3, "problem": "Win brand clients who now ask AI assistants which 3PL to use: AI search visibility tracking", "price_text": "$99 a month", "url": "https://www.tryprofound.com/pricing", "seen_via": "search"},
-        {"step": 4, "problem": "Handle the clients' customers' 'where is my order' calls and WhatsApp messages without adding staff: AI voice and chat agents (platform usage)", "price_text": "$0.05 per minute", "url": "https://vapi.ai/pricing", "seen_via": "search"},
-        {"step": 5, "problem": "Pass the security and data questionnaires bigger brands send before signing (no price seen this run; see the small-vendors-first-soc2-iso27001-audit room)"},
-        {"step": 6, "problem": "Two to three years on: buy the building or a second one, which means underwriting the purchase in a proper real estate model", "price_text": "$697", "url": "https://www.adventuresincre.com/pricing/", "seen_via": "search"}
+        {"step": 1, "problem": "Warehouse management system for a small 3PL (Zenventory Starter plan: up to 10,000 shipments, one warehouse)", "price_text": "$499/month", "url": "https://www.zenventory.com/blog/best-wms-for-small-3pls-2026-real-pricing-no-per-user-fees", "seen_via": "search"},
+        {"step": 2, "problem": "Win brand clients: contract templates, ad playbooks and a peer community for 3PL owners", "price_text": "$99 a month", "url": "https://fulfilldotcom.gumroad.com/l/3plgrowth", "seen_via": "search"},
+        {"step": 3, "problem": "Stay visible as brands ask AI assistants which 3PL to use: AI search visibility tracking (Profound Starter)", "price_text": "$99.00 per month", "url": "https://thatmarketingbuddy.com/pricing/profound", "seen_via": "search"},
+        {"step": 4, "problem": "Handle the clients' customers' 'where is my order' calls and messages without adding staff: AI voice agent platform usage (Vapi platform fee; speech and model costs extra)", "price_text": "$0.05-per-minute platform fee", "url": "https://www.happyrobot.ai/hub/vapi-ai-pricing", "seen_via": "search"},
+        {"step": 5, "problem": "Negotiate the next industrial lease (term, rent steps, fit-out allowance, personal guarantee) and fit out racking (no price seen this pass)"},
+        {"step": 6, "problem": "Pass the security questionnaires bigger brands send before signing: a first SOC 2 audit", "price_text": "$10,000 to $50,000", "url": "https://www.vanta.com/collection/soc-2/soc-2-audit-cost", "seen_via": "search"}
       ],
       "geography": ["GLOBAL", "US", "GB", "IN", "AU"],
       "venture_overlap": ["v4"],
       "duplicate_of": null,
-      "reasoning": "The lens names logistics operators and no listed room is one: the industrial real estate rooms are landlords, investors and brokers, and the gap-pass transition room is the brand taking its first warehouse, not the 3PL that serves it. The founder's industrial and logistics real estate depth covers the lease and the buy decision, and the call volumes fit TinyAI's voice and WhatsApp agents. Reach would be search (they buy software and data through search) or warm through the warehouse investors whose tenants they are. [thin] The places seen are brand forums where 3PLs sell, not a 3PL-owner forum, and three of the four share one listing URL; no fit-out or warehouse software price was seen this run.",
-      "confidence": "low"
+      "reasoning": "The lens names logistics operators and no listed room is one: the industrial real estate rooms are landlords, investors and brokers, and the gap-pass transition room is the brand taking its first warehouse, not the 3PL that serves it. This pass found the operators' own places (the IWLA fulfilment forum and a paid 3PL-owner community) and a measured US count. The founder's industrial and logistics real estate depth covers the lease decision, and the call volumes fit TinyAI's voice and WhatsApp agents; reach is search (they buy software and communities through search) or warm through the warehouse investors whose tenants they are. [thin] on the size of the fulfilment-only slice worldwide; no lease or fit-out price was seen.",
+      "confidence": "moderate"
     },
     {
       "slug": "independent-sponsors-small-pe-firms",
       "name": "Independent sponsors and small private equity firms buying lower-middle-market companies",
       "lens": "business_type",
       "origin": "gap_pass",
-      "who": "Two-to-ten-person deal firms, many started by ex-bankers and ex-consultants, that buy companies worth $2M to $50M one deal at a time, raising equity from family offices and high-net-worth investors deal by deal rather than from a blind-pool fund. Each deal means sourcing through brokers and marketplaces, valuing the target, building the lender package and investor deck, closing with lawyers, and then running the company's finance function. (An independent sponsor is a deal firm without a committed fund.)",
+      "who": "Two-to-ten-person deal firms, many started by ex-bankers and ex-consultants, that buy companies worth $2M to $50M one deal at a time, raising equity from family offices and high-net-worth investors deal by deal rather than from a blind-pool fund. Each deal means sourcing, checking the seller's numbers, building the lender package and investor deck, closing with lawyers, and then running the company's finance function. They meet capital providers at a circuit of independent-sponsor conferences and forums. (An independent sponsor is a deal firm without a committed fund.)",
       "where": [
-        {"name": "Wall Street Oasis, Private Equity forum (independent sponsor and lower-middle-market threads sit here)", "url": "https://www.wallstreetoasis.com/forum/private-equity", "seen_via": "search (this run; reused from profession.json)"},
-        {"name": "Private Equity Insider (LinkedIn community, 107,761 followers)", "url": "https://www.linkedin.com/company/peinsider", "seen_via": "search (this run; reused from profession.json)"},
-        {"name": "BizBuySell (the marketplace they source small deals from; retiring-owner listings page)", "url": "https://www.bizbuysell.com/retiring-owner-businesses-for-sale/", "seen_via": "search (this run; reused from life_stage.json)"},
-        {"name": "Wall Street Oasis, Investment Banking forum (bankers leaving to start a deal firm post here)", "url": "https://www.wallstreetoasis.com/forum/investment-banking", "seen_via": "search (this run; reused from profession.json)"}
+        {"name": "Independent Sponsor Forum (SBIA): the membership community built by and for independent sponsors, with invite-only Deal Series events", "url": "https://sbia.org/independent-sponsor-forum/", "seen_via": "search"},
+        {"name": "Independent Sponsors Conference, New York, 28–29 September 2026 (iGlobal Forum; 550+ attendees, one-to-one meeting slots)", "url": "https://conference.iglobalforum.com/independent-sponsors-conference", "seen_via": "search"},
+        {"name": "Independent Sponsors Summit, Dallas (iGlobal Forum; sponsors, capital providers, family offices and lenders)", "url": "https://events.iglobalforum.com/independent-sponsors-summit-dallas", "seen_via": "search"},
+        {"name": "ISF Emerging Independent Sponsor Boot Camp (SBIA event for first-time sponsors)", "url": "https://members.sbia.org/events/Details/isf-emerging-independent-sponsor-boot-camp-1151888?sourceTypeId=Hub", "seen_via": "search"},
+        {"name": "CapitalPad's independent sponsor conference list (the circuit, in one place)", "url": "https://capitalpad.com/independent-sponsor-conferences/", "seen_via": "search"},
+        {"name": "Axial forum: 2025 Independent Sponsor Report (the deal marketplace where they source, with its sponsor survey)", "url": "https://www.axial.net/forum/axials-2025-independent-sponsor-report/", "seen_via": "search"}
       ],
-      "who_pays": "The firm pays out of pocket until a deal closes, then recovers costs through closing fees and management fees: data and marketplace access, valuation and quality-of-earnings work, modelling and training, deck and legal costs, and later the portfolio company's finance and operations tools.",
+      "who_pays": "The firm pays out of pocket until a deal closes, then recovers costs through closing fees and management fees: diligence and quality-of-earnings work, modelling and training, deck costs, conference and forum fees, legal costs, and later the portfolio company's finance and operations tools.",
       "size": {
-        "value": 5000,
-        "unit": "independent sponsors and small private equity firms worldwide doing lower-middle-market deals",
-        "tag": "estimate",
-        "reasoning": "No count was seen in this run. Private Equity Insider has 107,761 LinkedIn followers [measured, superset] and BizBuySell reports 2.34 million boomer-owned US small businesses on the supply side [measured]. Industry directories list a few thousand independent sponsors in the US alone and a similar number of small PE firms; a few thousand worldwide is the working order of magnitude. [thin]"
+        "value": 1500,
+        "unit": "active independent sponsors in the US (industry-tracker count; CapitalPad puts the range at 1,200 to 1,600 and notes no census exists)",
+        "tag": "measured",
+        "url": "https://capitalpad.com/independent-sponsor-statistics/",
+        "reasoning": "The US count was seen in this pass, described there as roughly double the count of five years earlier. Europe has well over 500 active independent sponsors by a 2025 law-firm survey seen in the same pass (https://www.addleshawgoddard.com/en/insights/insights-briefings/2025/corporate/independent-sponsor-deal-terms-survey-2025/), and small PE firms with a fund add more; a few thousand worldwide is the working order of magnitude [estimate]."
       },
       "ladder": [
-        {"step": 1, "problem": "Source deals through brokers and marketplaces; the broker's commission is built into every price", "price_text": "8% and 12%", "url": "https://ctacquisitions.com/average-business-broker-commission/", "seen_via": "search"},
-        {"step": 2, "problem": "Value the target and check the seller's numbers (an independent valuation is the benchmark)", "price_text": "$3,000 to $10,000", "url": "https://www.websiteclosers.com/resources/how-much-does-a-business-valuation-cost/", "seen_via": "search"},
-        {"step": 3, "problem": "Build the LBO model and lender package; train new associates to model", "price_text": "$499", "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/", "seen_via": "search"},
-        {"step": 4, "problem": "Raise the equity deal by deal: an investor deck and memo", "price_text": "$2,000–$5,000", "url": "https://www.spectup.com/resource-hub/how-much-does-a-pitch-deck-cost", "seen_via": "search"},
-        {"step": 5, "problem": "Close: purchase agreement, financing documents, SPV setup (licensed lawyers; no price seen this run)"},
-        {"step": 6, "problem": "After closing: the portfolio company's finance function (fractional CFO benchmark) and reporting to investors", "price_text": "$5,000 and $10,000 per month", "url": "https://pilot.com/blog/fractional-cfo-cost-guide", "seen_via": "search"},
-        {"step": 7, "problem": "Grow the portfolio company without adding staff: AI voice and chat agents for its customer calls (platform usage)", "price_text": "$0.05 per minute", "url": "https://vapi.ai/pricing", "seen_via": "search"}
+        {"step": 1, "problem": "Check the seller's numbers before signing: a quality-of-earnings report on a lower-middle-market deal", "price_text": "$10,000 to $20,000 for a focused QoE Lite scope, and $25,000 to $50,000 for a full-scope engagement", "url": "https://systemsix.com/what-does-a-quality-of-earnings-report-cost-pricing-by-deal-size/", "seen_via": "search"},
+        {"step": 2, "problem": "Build the LBO model and lender package; train new associates to model (Wall Street Prep Premium Package)", "price_text": "$499", "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/", "seen_via": "search"},
+        {"step": 3, "problem": "Raise the equity deal by deal: an investor deck and memo", "price_text": "$2,000–$5,000", "url": "https://www.spectup.com/resource-hub/how-much-does-a-pitch-deck-cost", "seen_via": "search"},
+        {"step": 4, "problem": "Meet capital providers: ISF membership and Deal Series registration, and the New York and Dallas conferences (membership is included with Deal Series registration; no ticket price seen this pass)", "price_text": null, "url": "https://sbia.org/independent-sponsor-forum/", "seen_via": "search"},
+        {"step": 5, "problem": "Close: purchase agreement, financing documents, SPV setup (licensed lawyers; no price seen this pass)"},
+        {"step": 6, "problem": "After closing: the portfolio company's finance function (fractional CFO benchmark) and reporting to investors", "price_text": "between $3,000 and $12,000 per month", "url": "https://pilot.com/blog/fractional-cfo-cost-guide", "seen_via": "search"},
+        {"step": 7, "problem": "Grow the portfolio company without adding staff: AI voice agents for its customer calls (Vapi platform fee)", "price_text": "$0.05-per-minute platform fee", "url": "https://www.happyrobot.ai/hub/vapi-ai-pricing", "seen_via": "search"}
       ],
       "geography": ["GLOBAL", "US", "IN"],
       "venture_overlap": ["v4"],
       "duplicate_of": null,
-      "reasoning": "A business type with a repeating, priced ladder per deal, sitting in the founder's strongest depth (valuation, deal documents, transactions) and reachable warmly through his private equity and banking network. The listed rooms cover the sell side (business brokers), individual operator-buyers (self-funded searchers) and PE employees; nobody covers the small deal firm as a business. [thin] The places seen are general PE and IB forums plus the marketplace, not an independent-sponsor community; no data-subscription or legal price was seen this run. The employer-rules exclusion must be checked before any work near live deals.",
+      "reasoning": "A business type with a repeating, priced ladder per deal, sitting in the founder's strongest depth (valuation, deal documents, transactions) and reachable warmly through his private equity and banking network. This pass found the sponsors' own community (the SBIA Independent Sponsor Forum), a conference circuit with attendance figures, and a tracker count of active US sponsors. The listed rooms cover the sell side (business brokers), individual operator-buyers (self-funded searchers) and PE employees; nobody covers the small deal firm as a business. The employer-rules exclusion must be checked before any work near live deals. [thin] on the count outside the US and on legal costs.",
       "confidence": "moderate"
     },
     {
@@ -75,33 +79,35 @@
       "name": "Small chartered accountancy firms in India (1 to 20 staff)",
       "lens": "business_type",
       "origin": "gap_pass",
-      "who": "Proprietors and partners of small CA practices in Indian cities that do bookkeeping, GST returns, tax filings, audits and ROC compliance for hundreds of small-business clients each. They run on articled trainees, chase clients for documents on WhatsApp all season, fight fee pressure from online filing platforms, and want higher-value work such as valuations, fundraising support and transaction advisory. (A CA firm is India's equivalent of a small accounting practice.)",
+      "who": "Proprietors and partners of small CA practices in Indian cities that do bookkeeping, GST returns, tax filings, audits and ROC compliance for hundreds of small-business clients each. They run on articled trainees, chase clients for documents on WhatsApp all season, argue about fee levels on their own forums, fight fee pressure from online filing platforms, and want higher-value work such as valuations, fundraising support and transaction advisory. (A CA firm is India's equivalent of a small accounting practice.)",
       "where": [
-        {"name": "CAclubindia (3 million+ members; the forum where practising CAs discuss practice, fees, software and clients)", "url": "https://www.caclubindia.com/", "seen_via": "search (this run; reused from obligation.json)"},
-        {"name": "CAclubindia article: investment banking roles for CAs moving from audit (the practice-versus-industry debate the same firms' partners follow)", "url": "https://www.caclubindia.com/articles/best-investment-banking-roles-for-chartered-accountants-moving-from-audit-54396.asp", "seen_via": "search (this run; reused from profession.json)"},
-        {"name": "ICAI on LinkedIn (528,312 followers)", "url": "https://in.linkedin.com/school/theicai/", "seen_via": "search (this run; reused from profession.json)"},
-        {"name": "Bombay Chartered Accountants' Society (LinkedIn)", "url": "https://in.linkedin.com/company/bombay-chartered-accountants-society", "seen_via": "search (this run; reused from profession.json)"}
+        {"name": "CAclubindia discussion forum (3 million+ members; practising CAs discuss practice, fees, software and clients)", "url": "https://www.caclubindia.com/forum/", "seen_via": "search"},
+        {"name": "CAclubindia thread: Tax Audit Fees (practitioners comparing what they charge)", "url": "https://www.caclubindia.com/forum/tax-audit-fees-100819.asp", "seen_via": "search"},
+        {"name": "CAclubindia article: Job or Practice? A dilemma every first-generation CA faces", "url": "https://www.caclubindia.com/articles/job-or-practice-a-dilemma-every-first-generation-ca-faces-56034.asp", "seen_via": "search"},
+        {"name": "CA Forums (Business & Accounting Forum India)", "url": "https://caforums.in/", "seen_via": "search"},
+        {"name": "PDICAI forum (question-and-answer board for practising CAs)", "url": "https://www.pdicai.org/forumAns_Display.aspx?queId=44467", "seen_via": "search"},
+        {"name": "Quora: best discussion forums and groups for chartered accountants in practice", "url": "https://www.quora.com/What-are-the-best-discussion-forums-groups-available-for-chartered-accountants-in-practice", "seen_via": "search"}
       ],
-      "who_pays": "The firm pays from fee income: practice and filing software, staff and trainee stipends, training for new service lines, tools that cut document-chasing and client calls, and marketing to win clients. Clients pay fixed annual fees per filing.",
+      "who_pays": "The firm pays from fee income: practice-management and filing software (flat yearly plans priced by user count), staff and trainee stipends, training for new service lines, tools that cut document-chasing and client calls, and marketing to win clients. Clients pay fixed annual fees per filing.",
       "size": {
-        "value": 407629,
-        "unit": "ICAI members (a superset; roughly a third are in practice, and firms are fewer still)",
+        "value": 100000,
+        "unit": "CA firms registered with ICAI (ICAI data; over 72% are sole proprietorships)",
         "tag": "measured",
-        "url": "https://finance.careers360.com/articles/icai-student-and-member-report-2025",
-        "reasoning": "The member count was seen in this run's search results (recorded in profession.json). ICAI's own registers list on the order of 90,000 firms, most of them proprietorships and small partnerships [estimate, from memory, not seen this run]. [thin]"
+        "url": "https://thefinancestory.com/mid-sized-indian-ca-firms-employing-20-percent-audit-workforce",
+        "reasoning": "The firm count was seen in this pass as '1,00,000+ CA firms' from ICAI data, with sole proprietorships over 72% of registered entities. Firms with 1 to 20 staff are the large majority of that number."
       },
       "ladder": [
-        {"step": 1, "problem": "Practice management, GST and income-tax filing software, and portal logins for hundreds of clients (no price seen this run)"},
-        {"step": 2, "problem": "Chase clients for documents and answer status calls in filing season without adding staff: WhatsApp and voice agents (platform usage)", "price_text": "$0.05 per minute", "url": "https://vapi.ai/pricing", "seen_via": "search"},
+        {"step": 1, "problem": "Practice management software for task, client and deadline tracking (QwikCA Starter plan, 10 users; rivals seen this pass price the same tier between ₹5,000 and ₹8,000 a year)", "price_text": "₹7,500/year", "url": "https://www.qwikca.in/pricing/", "seen_via": "search"},
+        {"step": 2, "problem": "Chase clients for documents and answer status calls in filing season without adding staff: WhatsApp and voice agents (Vapi platform fee)", "price_text": "$0.05-per-minute platform fee", "url": "https://www.happyrobot.ai/hub/vapi-ai-pricing", "seen_via": "search"},
         {"step": 3, "problem": "Add a transaction advisory line (valuation reports, fundraising models, due diligence): train partners and staff in financial modelling", "price_text": "$499", "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/", "seen_via": "search"},
         {"step": 4, "problem": "Serve clients' fundraising: the pitch deck and valuation work a startup client otherwise buys elsewhere", "price_text": "$2,000–$5,000", "url": "https://www.spectup.com/resource-hub/how-much-does-a-pitch-deck-cost", "seen_via": "search"},
-        {"step": 5, "problem": "Get found by founders and NRIs who now ask AI assistants for a CA: AI search visibility tracking", "price_text": "$99 a month", "url": "https://www.tryprofound.com/pricing", "seen_via": "search"},
-        {"step": 6, "problem": "Peer review, UDIN discipline and the firm's own DPDP data-protection duties for client data (no price seen this run)"}
+        {"step": 5, "problem": "Get found by founders and NRIs who now ask AI assistants for a CA: AI search visibility tracking (Profound Starter)", "price_text": "$99.00 per month", "url": "https://thatmarketingbuddy.com/pricing/profound", "seen_via": "search"},
+        {"step": 6, "problem": "Peer review, UDIN discipline and the firm's own DPDP data-protection duties for client data (no price seen this pass)"}
       ],
       "geography": ["IN"],
       "venture_overlap": ["v4"],
       "duplicate_of": null,
-      "reasoning": "A large, self-organised business type with its own forum (CAclubindia is where practising CAs talk to each other), whose clients are the Indian companies, founders and NRIs already listed as rooms. The listed CA room is individuals leaving audit for banking; nobody covers the firm as a business. The founder's corporate finance and valuation depth lets him judge the transaction-advisory step, TinyAI fits the document-chasing and call volumes, and finance colleagues include CAs, so reach is partly warm and partly search. Tax and audit themselves are outside the ledger's depth and need the CA's own licence, which the firm already holds. [thin] No practice-software price was seen this run, and the two LinkedIn places are association pages rather than discussion boards.",
+      "reasoning": "A large, self-organised business type with its own forums (CAclubindia, CA Forums, PDICAI are where practising CAs talk to each other about fees and practice), a measured firm count, and a priced software ladder seen this pass. The listed CA room is individuals leaving audit for banking; nobody covers the firm as a business. The founder's corporate finance and valuation depth lets him judge the transaction-advisory step, TinyAI fits the document-chasing and call volumes, and finance colleagues include CAs, so reach is partly warm and partly search. Tax and audit themselves are outside the ledger's depth and need the CA's own licence, which the firm already holds.",
       "confidence": "moderate"
     },
     {
@@ -109,32 +115,35 @@
       "name": "Boutique MBA admissions consulting firms",
       "lens": "business_type",
       "origin": "gap_pass",
-      "who": "Founders of admissions consulting firms with one to twenty consultants, mostly ex-admissions officers and top-school alumni, in the US, India, Europe and Asia. They sell essay, school-selection and interview packages to MBA applicants, live by the two or three application rounds each year, and win clients through reviews on GMAT Club, referrals and search. They now compete with AI essay tools and with each other on price.",
+      "who": "Founders of admissions consulting firms with one to twenty consultants, mostly ex-admissions officers and top-school alumni, in the US, India, Europe and Asia. They sell essay, school-selection and interview packages to MBA applicants, live by the two or three application rounds each year, win clients through reviews on GMAT Club and referrals, and gather as a profession in AIGAC, their own association with an annual conference and a members-only LinkedIn group. They now compete with AI essay tools and with each other on price.",
       "where": [
-        {"name": "GMAT Club admissions consultant reviews (the page where these firms are rated and win or lose clients)", "url": "https://gmatclub.com/reviews/admissions_consultants", "seen_via": "search (this run; reused from transition.json)"},
-        {"name": "Beat The GMAT: ask an admissions consultant (the forum where consultants answer applicants to win business)", "url": "https://www.beatthegmat.com/ask-an-mba-admissions-consultant-f40.html", "seen_via": "search (this run; reused from life_stage.json)"},
-        {"name": "GMAT Club thread on admissions consulting fees (where applicants compare the firms' prices)", "url": "https://gmatclub.com/forum/admissions-consulting-fees-362841.html", "seen_via": "search (this run; reused from transition.json)"},
-        {"name": "r/MBA (332k members; stats page; applicants ask which consultant to hire)", "url": "https://gummysearch.com/r/MBA/", "seen_via": "search (this run; reused from life_stage.json)"}
+        {"name": "GMAT Club admissions consultant reviews (the page where these firms are rated and win or lose clients)", "url": "https://gmatclub.com/reviews/admissions_consultants", "seen_via": "search"},
+        {"name": "GMAT Club blog: understanding MBA admissions consulting prices (where applicants learn the going rates)", "url": "https://gmatclub.com/blog/understanding-mba-admissions-consulting-prices/", "seen_via": "search"},
+        {"name": "AIGAC, Association of International Graduate Admissions Consultants (the firms' own association: 190+ members from 20+ countries, annual conference, consultants-only LinkedIn group)", "url": "https://aigac.org/about/", "seen_via": "search"},
+        {"name": "AIGAC on LinkedIn", "url": "https://www.linkedin.com/company/association-of-international-graduate-admissions-consultants", "seen_via": "search"},
+        {"name": "mbaMission reviews on GMAT Club (how the market leader is rated)", "url": "https://gmatclub.com/reviews/mbamission-10", "seen_via": "search"},
+        {"name": "MyMbaCircle: are the top ten MBA admissions consultants worth their fees (applicant-side price comparison)", "url": "https://mymbacircle.com/top-ten-mba-admission-consultants-pricing/", "seen_via": "search"}
       ],
-      "who_pays": "The firm pays from package fees: listing and review presence on the applicant forums, consultant and editor pay, a CRM and international payment tools, marketing to stay visible as applicants move to AI answers, and partnerships with test-prep providers. Applicants pay the firm in the thousands of dollars per school.",
+      "who_pays": "The firm pays from package fees: review presence on the applicant forums, association membership and conference travel, consultant and editor pay, a CRM and international payment tools, and marketing to stay visible as applicants move to AI answers. Applicants pay the firm in the thousands of dollars per school.",
       "size": {
-        "value": 1500,
-        "unit": "MBA admissions consulting firms and solo consultants worldwide",
-        "tag": "estimate",
-        "reasoning": "No count was seen in this run. GMAT Club's review page rates dozens of firms, the GMAT saw 93,196 exams in testing year 2025 [measured, demand side], and many applicants use a consultant, which supports several hundred firms plus a long tail of solo consultants. Order of magnitude only. [thin]"
+        "value": 190,
+        "unit": "AIGAC member consultants and firms (over 190 representatives from 20+ countries; the vetted core of the profession)",
+        "tag": "measured",
+        "url": "https://aigac.org/about/",
+        "reasoning": "The association count was seen in this pass, with 10–20% yearly growth. GMAT Club's review page rates dozens of firms beyond AIGAC and a long tail of solo consultants sells on referrals, so the whole room is several hundred firms plus solo consultants worldwide [estimate]."
       },
       "ladder": [
-        {"step": 1, "problem": "Win clients: get listed, reviewed and active on GMAT Club and Beat The GMAT before each application round (no listing price seen this run)"},
-        {"step": 2, "problem": "Price and package against rivals: the benchmarks applicants compare on the forums", "price_text": "$3,000 for the first school and $1,000 for each additional school", "url": "https://gmatclub.com/forum/admissions-consulting-fees-362841.html", "seen_via": "search"},
-        {"step": 3, "problem": "Package the full service the big firms sell, and hire and train editors and interview coaches to deliver it", "price_text": "$6,600", "url": "https://shop.mbamission.com/products/complete-start-to-finish-package", "seen_via": "search"},
-        {"step": 4, "problem": "Stay visible as applicants ask ChatGPT which consultant to hire: AI search visibility tracking", "price_text": "$99 a month", "url": "https://www.tryprofound.com/pricing", "seen_via": "search"},
-        {"step": 5, "problem": "Add a test-prep partnership so applicants score before they apply (the partner product's price)", "price_text": "$99 per month", "url": "https://e-student.org/target-test-prep-gmat/", "seen_via": "search"},
-        {"step": 6, "problem": "Handle enquiry calls and WhatsApp follow-ups across time zones in season: AI voice and chat agents (platform usage)", "price_text": "$0.05 per minute", "url": "https://vapi.ai/pricing", "seen_via": "search"}
+        {"step": 1, "problem": "Win clients: get listed, reviewed and active on GMAT Club before each application round (no listing price seen this pass)"},
+        {"step": 2, "problem": "Price and package against the market leader (mbaMission Complete Start-to-Finish, flat fee, unlimited revisions)", "price_text": "$6,600 per school", "url": "https://shop.mbamission.com/products/complete-start-to-finish-package", "seen_via": "search"},
+        {"step": 3, "problem": "Sell a low-ticket entry product to rejected applicants who reapply (mbaMission's ding review)", "price_text": "$100", "url": "https://www.mbamission.com/blog/mba-reapplication-strategy-support-special-offer/", "seen_via": "search"},
+        {"step": 4, "problem": "Stay visible as applicants ask ChatGPT which consultant to hire: AI search visibility tracking (Profound Starter)", "price_text": "$99.00 per month", "url": "https://thatmarketingbuddy.com/pricing/profound", "seen_via": "search"},
+        {"step": 5, "problem": "Handle enquiry calls and WhatsApp follow-ups across time zones in season: AI voice and chat agents (Vapi platform fee)", "price_text": "$0.05-per-minute platform fee", "url": "https://www.happyrobot.ai/hub/vapi-ai-pricing", "seen_via": "search"},
+        {"step": 6, "problem": "Join the profession: AIGAC membership, the members-only annual conference and directory listing (no fee seen this pass)", "price_text": null, "url": "https://aigac.org/membershipinfo/", "seen_via": "search"}
       ],
       "geography": ["GLOBAL", "US", "IN"],
       "venture_overlap": ["v1", "v4"],
       "duplicate_of": null,
-      "reasoning": "A business type whose whole market gathers on two applicant forums the run already saw, with public price benchmarks and a fixed seasonal cycle. The listed consultancy room is Indian study-abroad agents paid by universities; MBA boutiques worldwide sell fee-for-service packages and are not listed. The founder's GRE product (v1) sits one step upstream (many MBA programs take the GRE), and AI search visibility and enquiry automation are TinyAI depths; admissions consulting itself is not a ledger depth, so Stage 2 may fail it there. Reach is search or through the test-prep partner. [thin] Steps 2 and 3 are price benchmarks the firms sell at, not their costs; no listing or CRM price was seen this run.",
+      "reasoning": "A business type whose whole market gathers on one applicant review site and in its own association, with public price benchmarks and a fixed seasonal cycle; this pass found the association (AIGAC) and a measured member count, which the 2026-09-26 draft lacked. The listed consultancy room is Indian study-abroad agents paid by universities; MBA boutiques worldwide sell fee-for-service packages and are not listed. The founder's GRE product (v1) sits one step upstream (many MBA programs take the GRE), and AI search visibility and enquiry automation are TinyAI depths; admissions consulting itself is not a ledger depth, so Stage 2 may fail it there. Reach is search or through a test-prep partner. [thin] Steps 2 and 3 are prices the firms sell at, not their costs; no listing or CRM price was seen.",
       "confidence": "low"
     },
     {
@@ -142,33 +151,34 @@
       "name": "Outsourced lead-generation and appointment-setting agencies running outbound call teams",
       "lens": "business_type",
       "origin": "gap_pass",
-      "who": "Owners of agencies with 5 to 100 callers, in the US, UK, India, the Philippines and elsewhere, that book sales meetings for B2B software firms, solar installers, insurance agents, real estate brokers and lenders, paid per appointment or on a monthly retainer. They buy contact data and dialers, live under calling rules (TCPA in the US, TRAI's DLT rules in India), lose clients when appointment quality slips, and are now told to replace or augment callers with AI.",
+      "who": "Owners of agencies with 5 to 100 callers, in the US, UK, India, the Philippines and elsewhere, that book sales meetings for B2B software firms, solar installers, insurance agents, real estate brokers and lenders, paid per appointment or on a monthly retainer. They buy dialer seats and contact data, scrub lists against do-not-call and litigator registers, lose clients when appointment quality slips, hire and lose setters constantly, and are now told to replace or augment callers with AI. They gather in agency-owner communities on Skool.",
       "where": [
-        {"name": "ICMI Contact Center Community (outbound and sales-floor managers post here)", "url": "https://www.icmi.com/resources/icmi-contact-center-community", "seen_via": "search (this run; reused from profession.json)"},
-        {"name": "Call Centre Helper (industry site with reader discussion on dialers and outbound)", "url": "https://www.callcentrehelper.com/icmi-contact-center-demo-130401.htm", "seen_via": "search (this run; reused from profession.json)"},
-        {"name": "Vapi Discord community (26,499 members; agencies building AI outbound callers)", "url": "https://discord.vapi.ai/", "seen_via": "search (this run; reused from profession.json)"},
-        {"name": "Maker School on Skool (agency-building program where lead-gen and AI agencies learn to price and sell)", "url": "https://skoolmakers.com/communities/maker-school/", "seen_via": "search (this run; reused from profession.json)"},
-        {"name": "r/AI_Agents (425,179 members; stats page; AI SDR and outbound-calling threads)", "url": "https://prowlo.com/tools/subreddit-stats/ai_agents", "seen_via": "search (this run; reused from life_stage.json)"}
+        {"name": "Appointment Setting community on Skool (business owners looking for setters and setters looking for roles)", "url": "https://www.skool.com/appointment-setting-community/about", "seen_via": "search"},
+        {"name": "Agency Network on Skool (free agency-owner group; appointment-setter hiring threads)", "url": "https://www.skool.com/the-agency-club-1175/looking-for-a-job-as-an-appointment-setter-cold-calling", "seen_via": "search"},
+        {"name": "Agency World on Skool, thread: cold calling software (owners comparing dialers)", "url": "https://www.skool.com/agencyworld/cold-calling-software", "seen_via": "search"},
+        {"name": "Agency Owners community on Skool", "url": "https://www.skool.com/agencyowners/about", "seen_via": "search"},
+        {"name": "Sales Community for Closers on Skool, Cold Calling section", "url": "https://www.skool.com/sales-community-for-closers-1459?c=dfb3112bc7f94d5397024ad042f5d2b4", "seen_via": "search"},
+        {"name": "ListKit's Cold Email Community on Skool, thread: calling all agency owners", "url": "https://www.skool.com/listkit/calling-all-agency-owners", "seen_via": "search"}
       ],
-      "who_pays": "The agency pays from per-appointment and retainer income: contact data, dialers and numbers, compliance scrubbing, QA and call recording, AI calling platform usage, and programs that teach it to sell retainers. Clients pay per booked meeting or per month.",
+      "who_pays": "The agency pays from per-appointment and retainer income: dialer seats and numbers, contact data, do-not-call and litigator scrubbing, QA and call recording, AI calling platform usage, setter playbooks and training, and paid communities that teach it to sell retainers. Clients pay per booked meeting or per month.",
       "size": {
         "value": 20000,
         "unit": "outsourced lead-generation and appointment-setting agencies worldwide with their own calling teams",
         "tag": "estimate",
-        "reasoning": "No count was seen in this run. The Vapi Discord has 26,499 members and r/AI_Agents 425,179 [measured, supersets of the AI-calling slice]; the US alone has thousands of appointment-setting agencies serving solar, insurance, real estate and software, and India and the Philippines host thousands more. Order of magnitude only. [thin]"
+        "reasoning": "No agency count was seen in this pass. Six separate Skool communities for agency owners and setters were seen, and the pricing guides seen list dozens of named agencies charging $3,000-$8,000 a month or $150-$750 per appointment; the US alone has thousands of such agencies serving solar, insurance, real estate and software, and India and the Philippines host thousands more. Order of magnitude only. [thin]"
       },
       "ladder": [
-        {"step": 1, "problem": "Contact data, a dialer and calling numbers for each new client campaign (no price seen this run)"},
-        {"step": 2, "problem": "Stay legal before dialing: TCPA consent and do-not-call scrubbing in the US, DLT and 160-series registration in India (no price seen this run)"},
-        {"step": 3, "problem": "Keep clients by proving appointment quality: score and audit calls (QA software)", "price_text": "from $35 per user per month", "url": "https://www.guideflow.com/blog/contact-center-quality-assurance-software", "seen_via": "search"},
-        {"step": 4, "problem": "Cut cost per appointment with AI callers for first-touch and qualification (platform usage)", "price_text": "$0.05 per minute", "url": "https://vapi.ai/pricing", "seen_via": "search"},
-        {"step": 5, "problem": "Learn to price and sell retainers instead of per-appointment work: an agency-building program", "price_text": "$184/month", "url": "https://skoolmakers.com/communities/maker-school/", "seen_via": "search"},
-        {"step": 6, "problem": "Win enterprise clients: security questionnaires and a contact-centre site certification", "price_text": null, "url": "https://www.copc.com/what-we-do/certification/", "seen_via": "search"}
+        {"step": 1, "problem": "Dialer seats for each new caller (DialedIn Small Business tier; cheaper SMB dialers seen this pass sit at $25-50 per user a month)", "price_text": "$79/user/month (annual) or $99/user/month (month-to-month), with a $495/month minimum", "url": "https://prospeo.io/s/dialedin-pricing-reviews-pros-and-cons", "seen_via": "search"},
+        {"step": 2, "problem": "Stay legal before dialing: scrub lists against TCPA litigator and do-not-call registers (batch screening, no subscription)", "price_text": "$0.20 per Number", "url": "https://numberbroom.com/tcpa-litigator-scrub", "seen_via": "search"},
+        {"step": 3, "problem": "Price the service against the market: what agencies charge clients per month or per booked meeting", "price_text": "$3,000-$8,000/month or $150-$750 per appointment", "url": "https://prospeo.io/s/appointment-setting-pricing", "seen_via": "search"},
+        {"step": 4, "problem": "Cut cost per appointment with AI callers for first-touch and qualification (Vapi platform fee)", "price_text": "$0.05-per-minute platform fee", "url": "https://www.happyrobot.ai/hub/vapi-ai-pricing", "seen_via": "search"},
+        {"step": 5, "problem": "Hire and train setters who stay: paid setter playbooks sold to this room (no price seen this pass)", "price_text": null, "url": "https://381241504101.gumroad.com/l/artofsetting", "seen_via": "search"},
+        {"step": 6, "problem": "Win enterprise clients: security questionnaires and a first SOC 2 audit", "price_text": "$10,000 to $50,000", "url": "https://www.vanta.com/collection/soc-2/soc-2-audit-cost", "seen_via": "search"}
       ],
       "geography": ["GLOBAL", "US", "GB", "IN", "PH"],
       "venture_overlap": ["v4"],
       "duplicate_of": null,
-      "reasoning": "Businesses with large outbound call volumes are the ledger's TinyAI warm path, and voice agents and call auditing are a strong depth; these agencies buy dialers, QA and AI through search, so search reach applies too. The listed BPO room is seat-based contact centres in India and the Philippines serving banks and telecoms; the AI-agent rooms are the builders; nobody covers the sales-focused lead-gen agency that is the most likely early buyer of AI calling. The profession gap pass flagged outbound sales team leads as missing and could not write them. [thin] The places seen are contact-centre and AI-builder communities, not a lead-gen-agency forum; no data or dialer price was seen this run.",
+      "reasoning": "Businesses with large outbound call volumes are the ledger's TinyAI warm path, and voice agents and call auditing are a strong depth; these agencies buy dialers, scrubbing and AI through search, so search reach applies too. This pass found six agency-owner and setter communities on Skool and priced the dialer, scrubbing and client-fee steps, which the 2026-09-26 draft could not. The listed BPO room is seat-based contact centres serving banks and telecoms; the AI-agent rooms are the builders; nobody covers the sales-focused lead-gen agency that is the most likely early buyer of AI calling. [thin] on the agency count; no contact-data price was seen.",
       "confidence": "moderate"
     }
   ]
