@@ -1299,3 +1299,10 @@
 {"command": "listen-status", "dated": 35, "kind": "ran", "per_round": {"1": 1150, "2": 1159, "3": 1217}, "per_source": {"websearch": 3526}, "records": 3526, "room": "active-retail-options-traders", "stage": 3, "ts": "2026-09-27T18:06:32+00:00", "undated": 3491}
 {"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "gre-preppers-worldwide-online", "stage": 3, "ts": "2026-09-27T18:07:06+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T18:07:30+00:00"}
+{"command": "show", "ids": 9, "kind": "ran", "missing": [], "room": "outbound-lead-gen-appointment-setting-agencies", "stage": 3, "ts": "2026-09-27T18:08:36+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "gre-preppers-worldwide-online", "stage": 3, "ts": "2026-09-27T18:09:00+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "small-business-owners-reddit-community", "stage": 3, "ts": "2026-09-27T18:10:25+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "gre-preppers-worldwide-online", "stage": 3, "ts": "2026-09-27T18:11:12+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "gre-preppers-worldwide-online", "stage": 3, "ts": "2026-09-27T18:12:15+00:00"}
+{"already_checked": 0, "command": "relabel-pack", "keys": ["options-tax-filing-other-countries", "not-allowed-to-trade-options", "trading-hurts-family"], "kind": "ran", "packs": 8, "room": "active-retail-options-traders", "round": 3, "stage": 3, "ts": "2026-09-27T18:12:25+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T18:12:33+00:00"}

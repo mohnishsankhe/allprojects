@@ -95,7 +95,25 @@
       "label": "Should I take a personal loan to trade? I borrowed to trade and now I'm in debt",
       "definition": "Trading with borrowed money: personal loans, credit cards or loans against property taken to fund options or F&O trading or to win back losses; asking whether borrowing to trade is a good idea; debt left after trading losses. Losing one's own savings with no debt belongs to blew-up-account. A small account with no borrowing belongs to small-account-pdt.",
       "added_round": 2
+    },
+    {
+      "key": "options-tax-filing-other-countries",
+      "label": "How do I report my options and day trades on my tax return in Canada, Australia or elsewhere outside the US and India?",
+      "definition": "Traders outside the US and India unsure how to file their trading: whether frequent trading counts as business income or capital gains (Canada's CRA and form T2125, Australia's ATO share-trader status), whether option losses are deductible or can be carried forward, how writing options is taxed, and fear of a tax audit for trading too much. US filing belongs to us-options-tax-mess; Indian filing belongs to fo-loss-itr-audit.",
+      "added_round": 3
+    },
+    {
+      "key": "not-allowed-to-trade-options",
+      "label": "Am I even allowed to trade options? My broker won't approve me, F&O activation needs income proof, or my job or visa limits my trading",
+      "definition": "Being blocked from trading options, or unsure one is allowed to: US brokers' options approval levels (spreads, selling puts) refused or hard to get; Indian brokers' F&O segment activation that needs income proof (students, the unemployed, low balances); brokers that block some contracts (such as deep out-of-the-money options); employer personal-trading rules (no options on company stock, pre-clearance) and visa worries (day trading on an H-1B work visa or F-1 student visa). Traders ask how to get approved, why they were refused and which broker allows it. Rule changes to margin, lot sizes or expiries belong to sebi-rules-squeeze; the day-trade limit and too little capital belong to small-account-pdt; a broker closing or restricting positions after a margin problem belongs to assignment-margin-surprise.",
+      "added_round": 3
+    },
+    {
+      "key": "trading-hurts-family",
+      "label": "My trading is hurting my marriage or family: I hid my losses from my spouse, we fight about my trading, or my partner can't stop trading",
+      "definition": "Trading and the family: the writer hid trading losses from a spouse or family, trading causes fights, separation or divorce, the spouse is against the trading, or a spouse or relative writes that their partner keeps trading in secret or compulsively after big losses. The trader's own compulsion belongs to revenge-trading-gambling and their own grief to devastated-after-loss; a record may carry one of those keys as well.",
+      "added_round": 3
     }
   ],
-  "reviewed_rounds": [2]
+  "reviewed_rounds": [2, 3]
 }

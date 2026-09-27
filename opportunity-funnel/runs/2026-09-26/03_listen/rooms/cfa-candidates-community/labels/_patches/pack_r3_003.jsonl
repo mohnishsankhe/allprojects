@@ -1,0 +1,80 @@
+{"record_id": "4e5349989449f7f7", "pain_keys": ["failed-what-next", "rules-and-deadlines"], "reasoning": "Asks whether failing Level 2 means repeating Level 1, a rule question after a fail. It shows no exam-day slip and no stress, so no new pain applies.", "confidence": "high"}
+{"record_id": "4752952b49c33163", "pain_keys": ["study-with-full-time-job"], "reasoning": "A write-up on passing Level 2 in under 300 study hours. It shows no exam-day mistake and no stress or anxiety.", "confidence": "high"}
+{"record_id": "da720ed47fa995f5", "pain_keys": ["study-with-full-time-job"], "reasoning": "Asks how many weekly hours Level 2 needs next to a full-time job. Finding hours stays under study-with-full-time-job, and no stress or exam-day slip shows.", "confidence": "high"}
+{"record_id": "ebdb294672ca2442", "pain_keys": ["study-with-full-time-job"], "reasoning": "Asks how many hours Level 2 prep needs. It shows no exam-day mistake and no stress or anxiety.", "confidence": "high"}
+{"record_id": "1b85e0e26454eed1", "pain_keys": ["which-prep-provider", "total-fees"], "reasoning": "Asks about a coaching class's fees and syllabus coverage. Neither new pain shows in the title.", "confidence": "high"}
+{"record_id": "41de650e8f8172fa", "pain_keys": ["total-fees", "rules-and-deadlines"], "reasoning": "Asks whether the Level 1 enrollment fee is mandatory. It is a fee rule, not an exam-day slip or stress.", "confidence": "high"}
+{"record_id": "d490cda133b6b8ee", "pain_keys": ["how-to-study"], "reasoning": "A post on how the writer cleared Level 1 with a high score. It shows no exam-day mistake and no stress or anxiety.", "confidence": "high"}
+{"record_id": "82b3dd07e15d49bb", "pain_keys": [], "reasoning": "A profile-style title that only names a person and Level 1. No pain shows, including neither new pain.", "confidence": "high"}
+{"record_id": "3f84a0bea3dd4913", "pain_keys": ["study-with-full-time-job"], "reasoning": "A post on passing Level 1 with a full-time job. It shows no exam-day mistake and no stress or anxiety.", "confidence": "high"}
+{"record_id": "e9d486c32d54b1f3", "pain_keys": ["study-with-full-time-job"], "reasoning": "A post on passing Level 1 on a short timeline. Neither an exam-day slip nor stress shows.", "confidence": "high"}
+{"record_id": "1754f0a0225033a5", "pain_keys": ["study-with-full-time-job"], "reasoning": "A post on passing Level 1 in three months. Neither an exam-day slip nor stress shows.", "confidence": "high"}
+{"record_id": "b3f17c3a87aa8ca9", "pain_keys": ["study-with-full-time-job"], "reasoning": "Asks for time-management help to study next to work with three months left. Finding hours stays under study-with-full-time-job; no stress or exam-day slip is stated.", "confidence": "high"}
+{"record_id": "5d3be4adc5b6120c", "pain_keys": ["study-with-full-time-job"], "reasoning": "Asks how to pass Level 1 in three months next to a 50-70 hour work week. Finding hours stays under study-with-full-time-job; no stress or exam-day slip is stated.", "confidence": "high"}
+{"record_id": "e43c0b152abe98f9", "pain_keys": ["rules-and-deadlines"], "reasoning": "Asks whether the three levels must be passed in consecutive years. A timing rule, not an exam-day mistake or stress.", "confidence": "high"}
+{"record_id": "50c14ab5e67d38c6", "pain_keys": ["prep-not-enough", "which-prep-provider"], "reasoning": "Reports issues with a prep package and asks for reviews. It shows no exam-day slip and no stress.", "confidence": "high"}
+{"record_id": "c27f6aaa7213fbf1", "pain_keys": [], "reasoning": "Asks who sat Level 1 and Level 2 six months apart. No exam-day mistake or stress shows.", "confidence": "high"}
+{"record_id": "c398875da1e59607", "pain_keys": [], "reasoning": "Asks what maths and finance knowledge the CFA needs. Neither new pain shows.", "confidence": "high"}
+{"record_id": "59f9cfe4606a528e", "pain_keys": ["failed-what-next"], "reasoning": "A band 10 fail asking about retabulation. It is about the result, not an exam-day slip, and no stress is stated.", "confidence": "high"}
+{"record_id": "b8bd17b72ccc6b5e", "pain_keys": [], "reasoning": "The title only says post-exam thoughts. It shows no exam-day mistake and no stress, so no new pain applies.", "confidence": "moderate"}
+{"record_id": "83b178f6ef522e42", "pain_keys": ["worth-it"], "reasoning": "Weighs the CFA together with a finance master's. Neither new pain shows.", "confidence": "high"}
+{"record_id": "1537525c0caefcc3", "pain_keys": ["prep-not-enough"], "reasoning": "Blames the prep provider if the writer fails. The complaint is about prep quality, not stress or an exam-day slip.", "confidence": "high"}
+{"record_id": "43f609d79cff6bf0", "pain_keys": ["failed-what-next"], "reasoning": "A thread for Level 2 retakers. It shows no exam-day mistake and no stress.", "confidence": "high"}
+{"record_id": "6019b5ce95058d2c", "pain_keys": [], "reasoning": "Asks whether a prep provider's website is down. Neither new pain shows.", "confidence": "high"}
+{"record_id": "3675313d5e89a3b6", "pain_keys": ["which-prep-provider"], "reasoning": "Asks which notes to use for Level 3. Neither new pain shows.", "confidence": "high"}
+{"record_id": "381406b019d3e6cf", "pain_keys": ["failed-what-next", "which-prep-provider"], "reasoning": "After failing, asks whether to buy new books. No exam-day slip or stress is stated.", "confidence": "high"}
+{"record_id": "ee62d9ebeb968007", "pain_keys": [], "reasoning": "Asks about curriculum changes between years. Neither new pain shows.", "confidence": "high"}
+{"record_id": "589c774a04d76424", "pain_keys": ["which-prep-provider"], "reasoning": "Compares two class formats from one provider. Neither new pain shows.", "confidence": "high"}
+{"record_id": "7e3e80239ae65e82", "pain_keys": ["which-prep-provider"], "reasoning": "Asks for feedback on live online classes from several providers. Neither new pain shows.", "confidence": "high"}
+{"record_id": "ff467dc5c32d3991", "pain_keys": ["which-prep-provider"], "reasoning": "Asks which prep package suits Level 1. Neither new pain shows.", "confidence": "high"}
+{"record_id": "6e91ffec73aa9105", "pain_keys": ["which-prep-provider"], "reasoning": "Asks whether a $300 question bank is worth buying. Neither new pain shows.", "confidence": "high"}
+{"record_id": "94eeba1cd85d1d73", "pain_keys": ["which-prep-provider"], "reasoning": "Asks whether a paid three-day review workshop is worth it. Neither new pain shows.", "confidence": "high"}
+{"record_id": "279b345113b79a8a", "pain_keys": ["which-prep-provider"], "reasoning": "Asks which crash course to take. Neither new pain shows.", "confidence": "high"}
+{"record_id": "970e6454470df797", "pain_keys": ["which-prep-provider"], "reasoning": "Compares mock exams and question banks from two providers. Neither new pain shows.", "confidence": "high"}
+{"record_id": "8b70eedbf56748c7", "pain_keys": [], "reasoning": "Asks when the rest of a provider's guides will come out. Neither new pain shows.", "confidence": "high"}
+{"record_id": "41ede6bb42a10c78", "pain_keys": [], "reasoning": "A review of a provider's print materials. Neither new pain shows.", "confidence": "high"}
+{"record_id": "e4a91be1abbd5985", "pain_keys": ["failed-what-next"], "reasoning": "Asks how score retabulation works. It concerns the result, not an exam-day slip or stress.", "confidence": "high"}
+{"record_id": "dca8fea9f2f0312e", "pain_keys": ["failed-what-next"], "reasoning": "Asks whether retabulation ever changes a result. Neither new pain shows.", "confidence": "high"}
+{"record_id": "8b8328eb0b15f680", "pain_keys": ["failed-what-next"], "reasoning": "Wonders why they failed and whether to ask for retabulation. No exam-day slip or stress is stated.", "confidence": "high"}
+{"record_id": "d8d59e81f67061c2", "pain_keys": ["failed-what-next"], "reasoning": "Asks whether their result is worth a retabulation. Neither new pain shows.", "confidence": "high"}
+{"record_id": "52d2f8195b4d3069", "pain_keys": ["failed-what-next"], "reasoning": "Asks for retabulation advice after a band 9 fail. Neither new pain shows.", "confidence": "high"}
+{"record_id": "e0102e1b0c96caa2", "pain_keys": ["failed-what-next"], "reasoning": "A Level 3 retabulation thread. Neither new pain shows.", "confidence": "high"}
+{"record_id": "588c8b3b37794b01", "pain_keys": ["failed-what-next"], "reasoning": "Asks how score retabulation works. It concerns the result, not an exam-day slip or stress.", "confidence": "high"}
+{"record_id": "670fe79d7c83fa62", "pain_keys": ["rules-and-deadlines"], "reasoning": "Missed the registration deadline. That is a registration rule, not a slip on exam day, and no stress is described.", "confidence": "high"}
+{"record_id": "04bd404b58d34701", "pain_keys": ["rules-and-deadlines"], "reasoning": "Missed a registration deadline. It happened before exam day, so exam-day-mistakes does not apply, and the title does not ask how to cope with stress.", "confidence": "high"}
+{"record_id": "156e6723790c8ab6", "pain_keys": ["exam-day-mistakes"], "reasoning": "The candidate missed filling in answer ovals on the paper exam, answers left blank or entered wrongly that can cost the pass. This is the exam-day-mistakes pain.", "confidence": "high"}
+{"record_id": "1d18a304ef220fa3", "pain_keys": [], "reasoning": "A Level 3 curriculum question about trading costs. Missed here is a finance term, not a candidate's mistake.", "confidence": "high"}
+{"record_id": "f8d7071303888bf5", "pain_keys": ["failed-what-next"], "reasoning": "Asks for a strategy after narrowly failing. Neither new pain shows.", "confidence": "high"}
+{"record_id": "80fe9e1504a40929", "pain_keys": ["rules-and-deadlines", "exam-day-mistakes"], "reasoning": "The candidate asks whether they were reported to CFA Institute for a violation, the proctor report the exam-day-mistakes pain describes. The current key stays, since the record ends with only two keys.", "confidence": "high"}
+{"record_id": "c3d83d0d259e7fc8", "pain_keys": [], "reasoning": "Asks about Prometric test centres in one US area. It shows no exam-day mistake and no stress.", "confidence": "high"}
+{"record_id": "9850f1f2d21a133f", "pain_keys": [], "reasoning": "Shares the experience of a computer-based Level 3 exam. The title shows no slip and no stress.", "confidence": "moderate"}
+{"record_id": "f487404b48151e53", "pain_keys": ["test-centre-problems"], "reasoning": "The exam was cancelled. That is a test-centre problem, not the candidate's own mistake or stress.", "confidence": "high"}
+{"record_id": "53e6468d39496d60", "pain_keys": [], "reasoning": "Asks whether exams are moving to computer-based testing. Neither new pain shows.", "confidence": "high"}
+{"record_id": "897944bfad90f504", "pain_keys": ["test-centre-problems"], "reasoning": "Argues CFA Institute should drop Prometric. A test-centre complaint, not an exam-day slip or stress.", "confidence": "high"}
+{"record_id": "7e101caf803a1249", "pain_keys": [], "reasoning": "Asks where the simulation mock exam is. Neither new pain shows.", "confidence": "high"}
+{"record_id": "bc3681f1956969e2", "pain_keys": [], "reasoning": "Asks what exam day is like. It shows no mistake, no fear of breaking a rule and no stated stress, so no new pain applies.", "confidence": "moderate"}
+{"record_id": "8d3da841ed59b43e", "pain_keys": [], "reasoning": "Asks about the computer-based exam format. Neither new pain shows.", "confidence": "high"}
+{"record_id": "8eb137a971a27862", "pain_keys": ["test-centre-problems", "rules-and-deadlines"], "reasoning": "Cannot register for a computer-based sitting. Neither new pain shows.", "confidence": "high"}
+{"record_id": "37383721bc7ea53c", "pain_keys": [], "reasoning": "A thread on notes for the computer-based exam. The title does not show a rule breach, a fear of one or stress.", "confidence": "moderate"}
+{"record_id": "5681b80968feb5c3", "pain_keys": [], "reasoning": "Asks about the computer-based exam. Neither new pain shows.", "confidence": "high"}
+{"record_id": "c9771a90faf65a71", "pain_keys": [], "reasoning": "Asks about the computer-based exam for Level 2. Neither new pain shows.", "confidence": "high"}
+{"record_id": "f7700d4166537e02", "pain_keys": ["test-centre-problems"], "reasoning": "Asks how to do scratch work in the computer-based exam, which test-centre-problems covers. No slip or stress is stated.", "confidence": "high"}
+{"record_id": "6eea0d81e42dd696", "pain_keys": [], "reasoning": "Questions about an e-book platform. Neither new pain shows.", "confidence": "high"}
+{"record_id": "f28a3579c379589b", "pain_keys": [], "reasoning": "Asks for help with the mock exam on the CFA Institute website. It shows no exam-day mistake and no stress.", "confidence": "high"}
+{"record_id": "11c720f907fab6ce", "pain_keys": ["prep-not-enough", "which-prep-provider"], "reasoning": "Asks whether to give up on a prep provider. Giving up refers to the provider, not the program, and no stress or exam-day slip shows.", "confidence": "high"}
+{"record_id": "9e24716228ae591d", "pain_keys": [], "reasoning": "Asks why multiple-choice exams are not computer-based, for faster results. Neither new pain shows.", "confidence": "high"}
+{"record_id": "4a7021e806930b89", "pain_keys": ["prep-not-enough"], "reasoning": "Reports a problem with a provider's video CDs. Neither new pain shows.", "confidence": "high"}
+{"record_id": "f8134d545dc779fa", "pain_keys": ["postpone-or-refund"], "reasoning": "Asks how to move a May exam to August. Rescheduling stays under postpone-or-refund; no new pain shows.", "confidence": "high"}
+{"record_id": "c3cd4f94bb2c4f87", "pain_keys": [], "reasoning": "Asks about the eligibility number. Neither new pain shows.", "confidence": "high"}
+{"record_id": "73f6d1f4ed2066b5", "pain_keys": ["test-centre-problems"], "reasoning": "Wants to change test centre. Neither new pain shows.", "confidence": "high"}
+{"record_id": "27926b76d3be119a", "pain_keys": ["postpone-or-refund"], "reasoning": "Asks to defer Level 3 for a medical reason. Deferral stays under postpone-or-refund; no new pain shows.", "confidence": "high"}
+{"record_id": "7d0b99f0ce5573ca", "pain_keys": [], "reasoning": "The title only says stage of life. It shows no exam-day slip and no stress, so no new pain applies.", "confidence": "moderate"}
+{"record_id": "3792274c54c2b80e", "pain_keys": ["postpone-or-refund"], "reasoning": "A Level 3 deferral question. Neither new pain shows.", "confidence": "high"}
+{"record_id": "f8a1553edd5e9935", "pain_keys": ["postpone-or-refund"], "reasoning": "Asks about deferral after a death in the family. Deferral stays under postpone-or-refund, and the title does not ask how to cope with exam stress.", "confidence": "high"}
+{"record_id": "3f39b129c38a7fea", "pain_keys": ["postpone-or-refund"], "reasoning": "Asks whether an exam can be deferred for medical reasons. Neither new pain shows.", "confidence": "high"}
+{"record_id": "889a352f2ff597c6", "pain_keys": ["postpone-or-refund"], "reasoning": "Asks to defer Level 1 by six months due to illness. Neither new pain shows.", "confidence": "high"}
+{"record_id": "ad8d5040024aaa35", "pain_keys": ["postpone-or-refund"], "reasoning": "Asks about deferring the exam. Neither new pain shows.", "confidence": "high"}
+{"record_id": "607cffa234fa12a1", "pain_keys": ["mock-scores-readiness"], "reasoning": "Asks how to tell when one is ready to pass Level 1. Readiness stays under mock-scores-readiness, and no stress is stated.", "confidence": "high"}
+{"record_id": "e8d5b24a26edb30e", "pain_keys": [], "reasoning": "A thread on Level 3 mock exam session scores. Neither new pain shows.", "confidence": "high"}
+{"record_id": "50dac1229f150da4", "pain_keys": ["mock-scores-readiness"], "reasoning": "Asks what a safe mock score is. Neither new pain shows.", "confidence": "high"}
+{"record_id": "14964937b26af425", "pain_keys": ["mock-scores-readiness", "prep-not-enough"], "reasoning": "Alarmed at a large gap between two providers' mock scores. Low mock scores stay under mock-scores-readiness, and the two current keys fit better than stress-and-anxiety.", "confidence": "moderate"}
