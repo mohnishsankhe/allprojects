@@ -798,3 +798,6 @@
 {"command": "show", "ids": 2, "kind": "ran", "missing": [], "room": "gre-engineers-india", "stage": 3, "ts": "2026-09-27T12:57:43+00:00"}
 {"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "gre-engineers-india", "stage": 3, "ts": "2026-09-27T12:57:49+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T12:59:49+00:00"}
+{"command": "show", "ids": 20, "kind": "ran", "missing": [], "room": "indie-perfumers-launching-brands", "stage": 3, "ts": "2026-09-27T13:02:32+00:00"}
+{"command": "show", "ids": 60, "kind": "ran", "missing": [], "room": "indie-perfumers-launching-brands", "stage": 3, "ts": "2026-09-27T13:02:54+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T13:04:52+00:00"}
