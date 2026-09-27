@@ -1008,3 +1008,9 @@
 {"command": "show", "ids": 25, "kind": "ran", "missing": [], "room": "gre-engineers-india", "stage": 3, "ts": "2026-09-27T15:20:44+00:00"}
 {"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T15:20:46+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T15:21:03+00:00"}
+{"command": "show", "ids": 4, "kind": "ran", "missing": [], "room": "small-business-owners-reddit-community", "stage": 3, "ts": "2026-09-27T15:21:16+00:00"}
+{"command": "show", "ids": 6, "kind": "ran", "missing": [], "room": "gre-engineers-india", "stage": 3, "ts": "2026-09-27T15:21:50+00:00"}
+{"command": "show", "ids": 57, "kind": "ran", "missing": [], "room": "small-business-owners-reddit-community", "stage": 3, "ts": "2026-09-27T15:23:04+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "gre-engineers-india", "stage": 3, "ts": "2026-09-27T15:25:16+00:00"}
+{"command": "show", "ids": 33, "kind": "ran", "missing": [], "room": "gre-engineers-india", "stage": 3, "ts": "2026-09-27T15:25:44+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T15:26:06+00:00"}
