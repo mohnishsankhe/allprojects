@@ -1,0 +1,612 @@
+{
+  "labeled": 845,
+  "notes": [],
+  "pains": {
+    "bottles-small-quantity": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "where to get quality bottles in small qty",
+      "media_record_ids": [
+        "c506039a225d4c10",
+        "cfa8465ea4cb4602",
+        "f149befb81b35663"
+      ],
+      "media_records": 3,
+      "member_record_ids": [
+        "3f55d3768fdd3e50",
+        "87b1011054fc7888",
+        "8d44f9cb3ce338b0",
+        "bb347d700cac3c1f",
+        "bcf361210194e2c1"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 5,
+      "seller_record_ids": [
+        "70175ccd1c7a9f6f",
+        "815c8c50784cf68b"
+      ],
+      "seller_records": 2
+    },
+    "clueless-how-to-start": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Tasked with starting a perfume brand, completely clueless",
+      "media_record_ids": [
+        "06487d28711f2674",
+        "201bec31a3312781",
+        "2164e387bea7d429",
+        "26e56ccbfc92ce0f",
+        "2afacb21dbcb8b3d",
+        "30e5adb3882bbdc8",
+        "380e8f7c49cc88c7",
+        "4a0989212826698e",
+        "5d54ec85049829dc",
+        "5d5b672840f20a2b",
+        "5fc47f1991c7578f",
+        "7b2f736430a0d952",
+        "7ef69de45457cf79",
+        "88f3f0ae75f850c2",
+        "92ddd5d4b96e2a82",
+        "9c79a5d6a3c74774",
+        "a4f9e9a85a813bf8",
+        "ac68c5b76bf10d8c",
+        "ad6c5618a1933004",
+        "b7edf8d2d3598e97",
+        "bf316b12142da56e",
+        "c1e6511ffc323e74",
+        "c28481410cc75ec2",
+        "c388d2ad51656229",
+        "cc9231808f174203",
+        "de30dcacca540e87",
+        "df519184e9480f7f",
+        "e11dc0263280788d",
+        "e80637b62de0e800",
+        "ea89c4d0a566e5c3",
+        "ed04e6199862ba62",
+        "f131be8f3b511c8b",
+        "fde6e705d8c73cc8"
+      ],
+      "media_records": 33,
+      "member_record_ids": [
+        "2c13444db4945ed4",
+        "2e02ba0d54babc3c",
+        "431e9930614f7f0c",
+        "446cdca17b54f95a",
+        "464d34b9abd06466",
+        "6cac85a17dc3d236",
+        "6db56745562fe107",
+        "94c2c242c7b09aa6",
+        "9a6c32c6ea91c2b3",
+        "a045aaf7eaaabcc3",
+        "b78e0493e58a7122",
+        "d652a84b0f0a677b",
+        "d880f4c09b779ee6",
+        "f457ca696f67b340",
+        "fb65632ef218383e"
+      ],
+      "money_mentions": 1,
+      "money_record_ids": [
+        "446cdca17b54f95a"
+      ],
+      "record_count": 15,
+      "seller_record_ids": [
+        "01495024318d675e",
+        "22315a07082a633e",
+        "22a2f459b1c159fa",
+        "22ce2d6018ce7cab",
+        "35f9b620f65e20ea",
+        "439988ca48b468fc",
+        "4904596b3a32b238",
+        "573e03bc146f22c9",
+        "59df6576aba4b1e8",
+        "5bafda14ef85cc34",
+        "6b6282c103d55732",
+        "7410e44c1193e1b4",
+        "8e2f811f1722447d",
+        "945c445d0f88a34e",
+        "a955726aaeccfbee",
+        "ae64bf90003be752",
+        "d1b05247c58a33bf",
+        "d66d6ba6239dc444",
+        "d874303dc7c36e79",
+        "eccaa00448f491fc",
+        "f089210daeeacc26",
+        "f16584e2931e557e",
+        "f951043e14eb80aa"
+      ],
+      "seller_records": 23
+    },
+    "first-perfume-beginner": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Want to make my first perfume",
+      "media_record_ids": [
+        "2164e387bea7d429",
+        "2fc250cf1807891a",
+        "44ae7a9db8d4d0c6",
+        "602a530e6c3950cc",
+        "a6b9e85fe8169b6e",
+        "b393c9f523c307cd",
+        "c1d08cfdb1a32fe5",
+        "c616b75d462183c7"
+      ],
+      "media_records": 8,
+      "member_record_ids": [
+        "2076ca8c5e741c50",
+        "31207aa6eb70b8a4",
+        "4970a0e64d146082",
+        "7faff813ac4289f0",
+        "b341f36ece5dc258",
+        "c7bdd2007d62d752",
+        "caa318a27bc6cc21"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 7,
+      "seller_record_ids": [],
+      "seller_records": 0
+    },
+    "hire-a-perfumer": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Looking to hire a perfumer",
+      "media_record_ids": [
+        "3367378e0d0bfe37"
+      ],
+      "media_records": 1,
+      "member_record_ids": [
+        "2aba8b3780519a21",
+        "59373adb3a086910",
+        "631a22e0089b142d",
+        "fe7f262958d57076"
+      ],
+      "money_mentions": 2,
+      "money_record_ids": [
+        "2aba8b3780519a21",
+        "fe7f262958d57076"
+      ],
+      "record_count": 4,
+      "seller_record_ids": [
+        "00b6826e6cc32580",
+        "bcb16adbb6c5f6db"
+      ],
+      "seller_records": 2
+    },
+    "ifra-rules-confusing": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Newbie here, confused about IFRA rules",
+      "media_record_ids": [
+        "0fb09e4c477e994a",
+        "1f86eb8c176911a2",
+        "2314435db044670f",
+        "2527c2a685f50005",
+        "4d8f855fe81f94d8",
+        "509dbf56f675a054",
+        "5b0b52f2c6a03b01",
+        "c07e6dc4f6493f5a",
+        "c11c7e049e409912",
+        "ceffb9520f108d4c",
+        "d8d44f34f9951f08"
+      ],
+      "media_records": 11,
+      "member_record_ids": [
+        "039efdd376c0673c",
+        "0a80eaf01246fa00",
+        "227c45c0d6f30493",
+        "42405a753d4f6abb",
+        "506b68d98d2b41eb",
+        "529cdb85999dddd3",
+        "6bde8ad85900d257",
+        "9257d082be11e92f",
+        "a2737817ce11d497",
+        "e8aea0408cfd8e03"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 10,
+      "seller_record_ids": [
+        "32656f8a37f4c027",
+        "350281031a8e546b",
+        "5e2dd1d28293aee7",
+        "6c45bc1fb763becb",
+        "73fa4b321e363d18",
+        "7e80c189878d7351",
+        "8e8db2669e7cdd81",
+        "933aab8be4141a71",
+        "93e6977560379aad",
+        "9891040541139ccc",
+        "9cd85ce7c64a6002",
+        "aab52476ff128e37",
+        "c5edca07c83ee3ef",
+        "ddbbb6dcf36a6592",
+        "fc1a361ed972b9d4"
+      ],
+      "seller_records": 15
+    },
+    "liability-insurance": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Product liability insurance for small sellers",
+      "media_record_ids": [
+        "e8cb5f6e266b85ba"
+      ],
+      "media_records": 1,
+      "member_record_ids": [
+        "c8239d2b79204df8"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 1,
+      "seller_record_ids": [
+        "3dd402c9b14701db",
+        "69615c03dcc3e4fe",
+        "696c52f94b366ec4",
+        "fe650c055bb38d89"
+      ],
+      "seller_records": 4
+    },
+    "licence-and-safety-paperwork": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Do I need any license for selling my home-made fragrance?",
+      "media_record_ids": [
+        "27d7000f52c03f98",
+        "497a5281fba7c4c4",
+        "4c174c18be97f8f8",
+        "dc4a530f0f7a6277",
+        "df3da149705a6a27"
+      ],
+      "media_records": 5,
+      "member_record_ids": [
+        "039efdd376c0673c",
+        "1c841f0e036d33e0",
+        "42be1b5e44d2c2e4",
+        "4a5eb1d8c317d59b",
+        "506b68d98d2b41eb",
+        "7dfd7333b346b54f",
+        "8478688ffc7fe665",
+        "bd239f500b6f149d",
+        "c2f748f8cff0977d",
+        "cc2e34d997c34e41",
+        "fe7fec438375356b"
+      ],
+      "money_mentions": 1,
+      "money_record_ids": [
+        "1c841f0e036d33e0"
+      ],
+      "record_count": 11,
+      "seller_record_ids": [
+        "001bb920d224753b",
+        "0505d95db4e7e476",
+        "05b530d8879e3a04",
+        "08cab775c9960d93",
+        "0ba8ebb983d27474",
+        "0d90950c3aaab55c",
+        "0fa5d8b19e1b89da",
+        "126469e1d8c57e3c",
+        "131d70c9c62bae4d",
+        "147f71d7623cf351",
+        "17509a0aa06dd96f",
+        "1df00a41584a69ce",
+        "2339aca62636e62d",
+        "23978bf321fcce26",
+        "2a92422cb7bbc566",
+        "31829d257666c838",
+        "32656f8a37f4c027",
+        "376f53e545f02b47",
+        "436bef3fc4ae82e7",
+        "442b80bf9cc9b615",
+        "503892237e64d4ed",
+        "50a85f369e4c7883",
+        "56ba51f8b42d6e10",
+        "6311afbae6239047",
+        "641d339bbac1bbcc",
+        "6763d4fbd6b49cfe",
+        "6c45bc1fb763becb",
+        "6cecb49359a4d57c",
+        "71042367ded1c809",
+        "7451b990a91466a2",
+        "7a434ffe7613eae8",
+        "81a0240e9622442f",
+        "8b129eb54c07158a",
+        "8fa098083402c72b",
+        "8fb97c2cf2615b4f",
+        "981157c96cd6b26f",
+        "98c1421f21c83902",
+        "9c0677ca0937dfec",
+        "9d311d21e3a794a3",
+        "9ff10a9828c06c58",
+        "a3856fedace1bb51",
+        "a3f87164f5a63e6f",
+        "aab52476ff128e37",
+        "ac525797e8178da3",
+        "acbcac7b3063e13b",
+        "b4672ce773eaf686",
+        "bf4132097abb4792",
+        "c1bd41c59b3e4a6a",
+        "c9075e1c1605fc88",
+        "cb6e72c1a80a5454",
+        "d014f63fe10cc9d6",
+        "ddbbb6dcf36a6592",
+        "e24f1f82609a4af3",
+        "ea388710f03d6d4a",
+        "f0a85a6ce9efb210",
+        "f16584e2931e557e",
+        "f7c0d46a23ffbaf5",
+        "fadadc48afb0c370",
+        "fcd1c65be15ece8a",
+        "fe7ffd1295d4382f"
+      ],
+      "seller_records": 60
+    },
+    "materials-cost-and-sourcing": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Expen$ive Materials in Perfumery; from where will I get raw materials?",
+      "media_record_ids": [
+        "5d5b672840f20a2b",
+        "b393c9f523c307cd"
+      ],
+      "media_records": 2,
+      "member_record_ids": [
+        "2e02ba0d54babc3c",
+        "40b90e11055ea667",
+        "4970a0e64d146082"
+      ],
+      "money_mentions": 1,
+      "money_record_ids": [
+        "40b90e11055ea667"
+      ],
+      "record_count": 3,
+      "seller_record_ids": [
+        "d05e7ceb63aacd4f"
+      ],
+      "seller_records": 1
+    },
+    "shipping-hazmat": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Shipping perfume counts as HAZMAT",
+      "media_record_ids": [
+        "8d374d217aa3af5d",
+        "e7daa8c3b8481556"
+      ],
+      "media_records": 2,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "011fe39eceb5162b",
+        "1045c9eb16a5d6a4",
+        "19f244fb8a802e2e",
+        "4427f38461fd4706",
+        "53fe502e9837aa86",
+        "55275bed2447b585",
+        "6ea6669d4c5ffe4e",
+        "6f08687558d9d161",
+        "6f4e1633cc5e4fae",
+        "7e80b43c215c54fd",
+        "b47180bfe04be8d8",
+        "d976518b7f640915",
+        "e616122024cc3e07"
+      ],
+      "seller_records": 13
+    },
+    "small-batch-production": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "I Want to Mass Produce my own Perfume - How do I do it?",
+      "media_record_ids": [
+        "06487d28711f2674",
+        "18f0fdff4c293120",
+        "1c782d0bb453d6ba",
+        "68b59e22d6500e51",
+        "96946b3b37e81fe0",
+        "f62041628e10faef"
+      ],
+      "media_records": 6,
+      "member_record_ids": [
+        "5616c97c05e37a8b",
+        "59373adb3a086910",
+        "8e517e9b88d2729e",
+        "94c2c242c7b09aa6",
+        "bb0f7cec7f5f7f6c",
+        "f457ca696f67b340"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 6,
+      "seller_record_ids": [
+        "0a48989013b41d24",
+        "1690d6e83a67f964",
+        "1ac18de7ad7ced3c",
+        "1f35c0ce82b4537d",
+        "2088095cbc10aed1",
+        "34a3e4c9ebfaf013",
+        "5c9d03ec42e43e30",
+        "612aab359287358c",
+        "6b0b39ecc64613a7",
+        "810d118bf826b70e",
+        "82aad721ebb8294d",
+        "8d67847a8a6990e4",
+        "8e9fe9f074885832",
+        "945c445d0f88a34e",
+        "9a976febb3e42a59",
+        "d417a25c95da84c7",
+        "d9247e5c4838cd3b",
+        "ddd3438e7b03ae86",
+        "dfcfd3d09704c957",
+        "e78af91d6966a348",
+        "ef1897b9a1c0c8c8"
+      ],
+      "seller_records": 21
+    },
+    "startup-cost-unknown": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "How much will the start up cost?",
+      "media_record_ids": [
+        "201bec31a3312781",
+        "2afacb21dbcb8b3d",
+        "3b7ec4cfa7a6e30b",
+        "5fc47f1991c7578f",
+        "9fda19f18b2e47cc",
+        "ad6c5618a1933004",
+        "df519184e9480f7f",
+        "ea89c4d0a566e5c3"
+      ],
+      "media_records": 8,
+      "member_record_ids": [
+        "1c841f0e036d33e0",
+        "2aba8b3780519a21",
+        "318b67205ab2e6c4",
+        "446cdca17b54f95a",
+        "68a7f91fbf7ae793",
+        "a02a87a17049930f",
+        "aab470ddfbfca4fa",
+        "b525709b3bfd84e4",
+        "fc5f72f89001a761"
+      ],
+      "money_mentions": 9,
+      "money_record_ids": [
+        "1c841f0e036d33e0",
+        "2aba8b3780519a21",
+        "318b67205ab2e6c4",
+        "446cdca17b54f95a",
+        "68a7f91fbf7ae793",
+        "a02a87a17049930f",
+        "aab470ddfbfca4fa",
+        "b525709b3bfd84e4",
+        "fc5f72f89001a761"
+      ],
+      "record_count": 9,
+      "seller_record_ids": [
+        "048fa88d7ff5b40a",
+        "131d70c9c62bae4d",
+        "1ac18de7ad7ced3c",
+        "2e4536807742416d",
+        "436bef3fc4ae82e7",
+        "44c78a56bf0de08d",
+        "4f39c21ead2fde19",
+        "59df6576aba4b1e8",
+        "5a288b65458ae02c",
+        "5b19673e96bc4a91",
+        "70175ccd1c7a9f6f",
+        "a87d60802fb337df",
+        "aa52dcaeea91ca1b",
+        "adefdd2275348b1d",
+        "b272bf01b262e68a",
+        "b55fc533e7a99dd0",
+        "c3c0006405ad2699",
+        "e5e2e3d149f75c5d",
+        "f4874634e7b61c08",
+        "fbbd53fd4b762a8f"
+      ],
+      "seller_records": 20
+    },
+    "training-worth-it": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Seeking opinion for perfumery training",
+      "media_record_ids": [
+        "5fe5b6ac6b5be71b",
+        "669b7d1a0bc842dc",
+        "6ac564286ae70ef4",
+        "860b9a6e835e9f11",
+        "974edaddc7b85e5c",
+        "ce831958ebd8b4da"
+      ],
+      "media_records": 6,
+      "member_record_ids": [
+        "0faa16ed8be2a912",
+        "113bf6418a29781f",
+        "1978393ab9f77d40",
+        "60413630c367c23d",
+        "6c6b18b989243d61",
+        "763012ff6950da24",
+        "881ce7826041f220",
+        "b0581f50a76a794b",
+        "c2b9985921a65304",
+        "cd88c33f06df4cbd",
+        "f3013c2ad4114197",
+        "fcf6760b1fa5840f"
+      ],
+      "money_mentions": 1,
+      "money_record_ids": [
+        "6c6b18b989243d61"
+      ],
+      "record_count": 12,
+      "seller_record_ids": [],
+      "seller_records": 0
+    },
+    "will-it-pay": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "How much could I potentially earn, and is it worth it?",
+      "media_record_ids": [
+        "834849fb719d6b9f",
+        "bd7e8dbf5cb9bdf2",
+        "f08d6a270785e9bf"
+      ],
+      "media_records": 3,
+      "member_record_ids": [
+        "0fbc9cde9d84c928",
+        "3251b8bdc70ff47d",
+        "f39d55ed5feb440c"
+      ],
+      "money_mentions": 1,
+      "money_record_ids": [
+        "0fbc9cde9d84c928"
+      ],
+      "record_count": 3,
+      "seller_record_ids": [
+        "048fa88d7ff5b40a",
+        "5703396d3594ac12",
+        "aa52dcaeea91ca1b",
+        "b82ee806c2b9688b"
+      ],
+      "seller_records": 4
+    }
+  },
+  "records_in_manifest": 845,
+  "room": "indie-perfumers-launching-brands",
+  "totals": {
+    "by_kind": {
+      "blog_or_site": 475,
+      "forum": 91,
+      "jobs": 51,
+      "news": 2,
+      "official": 14,
+      "qa": 54,
+      "reviews": 57,
+      "social": 1,
+      "video": 100
+    },
+    "by_source": {
+      "websearch": 845
+    },
+    "by_voice": {
+      "media": 114,
+      "member": 92,
+      "other": 316,
+      "seller": 323
+    },
+    "failed_spend_mentions": 0,
+    "member_records": 92,
+    "member_records_with_pain": 76,
+    "money_mentions": 14,
+    "source_kind_min_records": 5,
+    "source_kinds": [
+      "blog_or_site",
+      "forum",
+      "jobs",
+      "official",
+      "qa",
+      "reviews",
+      "video"
+    ]
+  }
+}

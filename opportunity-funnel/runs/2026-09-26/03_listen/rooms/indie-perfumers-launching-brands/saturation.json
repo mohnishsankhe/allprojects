@@ -1,0 +1,35 @@
+{
+  "final": false,
+  "room": "indie-perfumers-launching-brands",
+  "rounds": [
+    {
+      "evaluable": false,
+      "new_pains": [],
+      "new_records": 845,
+      "note": "not evaluable: round 1 builds the pain list; saturation is tested on the records of round 2 and later",
+      "rank_changes": [],
+      "records": 845,
+      "round": 1,
+      "saturated": false,
+      "taxonomy_keys": [
+        "bottles-small-quantity",
+        "clueless-how-to-start",
+        "first-perfume-beginner",
+        "hire-a-perfumer",
+        "ifra-rules-confusing",
+        "liability-insurance",
+        "licence-and-safety-paperwork",
+        "materials-cost-and-sourcing",
+        "shipping-hazmat",
+        "small-batch-production",
+        "startup-cost-unknown",
+        "training-worth-it",
+        "will-it-pay"
+      ],
+      "window": 300,
+      "window_used": 845
+    }
+  ],
+  "stop_reason": null,
+  "window": 300
+}

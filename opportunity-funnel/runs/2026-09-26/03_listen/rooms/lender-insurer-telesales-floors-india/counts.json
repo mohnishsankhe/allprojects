@@ -1,0 +1,420 @@
+{
+  "labeled": 835,
+  "notes": [],
+  "pains": {
+    "call-scripts-and-training": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "New callers don't know what to say: we need scripts and training for sales and collection calls",
+      "media_record_ids": [
+        "02a5b9907d7c951c",
+        "12c486d3654c2c56",
+        "2626ed410541b7d7",
+        "2966f47a76a6b28e",
+        "4492c7acbdfea8dd",
+        "5d7dab9fa15acf46",
+        "92575ef7d51b870c",
+        "9462dc9f3c16d9d2",
+        "991c391b5aac27fb",
+        "bc44bc9f9f451026",
+        "c0b00fc306d3c7d7",
+        "c1522853fd941a17",
+        "e2b41bc9dfb22763",
+        "fa73b33ebf9c0666"
+      ],
+      "media_records": 14,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "1086a156b129a3f8",
+        "23a13f1b90095c82",
+        "28845af1e927fab6",
+        "2cb2208b573c9254",
+        "880a0e2453e45ba8",
+        "a15f9f3b4baff0fa"
+      ],
+      "seller_records": 6
+    },
+    "calls-marked-spam-low-pickup": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Customers don't pick up: our numbers show as spam, get blocked, or look like scam calls",
+      "media_record_ids": [
+        "16fc32c139136f5d",
+        "1861ea40a0f63965",
+        "1ea35a2cf7f9fcd6",
+        "3c1515adc0919950",
+        "e06151549e9bfcfe",
+        "f7564262b25560cd"
+      ],
+      "media_records": 6,
+      "member_record_ids": [
+        "65848df679c37769"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 1,
+      "seller_record_ids": [
+        "162398d58d334d45",
+        "42e86f232ef86345",
+        "456beb5e8fd53571",
+        "52a1e3a30a5cc80a",
+        "ac05e900aa7fd942",
+        "f8f6b17356769f66"
+      ],
+      "seller_records": 6
+    },
+    "dialer-costs-hidden-fees": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Dialers and cloud calling cost more than they look: per-seat, per-minute and hidden fees",
+      "media_record_ids": [
+        "1843b187ae11745d",
+        "2f362b47b95278fa",
+        "9c0ee03566bacfed",
+        "e42ec1814ad2e286",
+        "ed9dd9e5288eee04"
+      ],
+      "media_records": 5,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "2bda4268b9b88273",
+        "65a1f784456c6698",
+        "6bfc3ebfd9f71eb6",
+        "ba48e925703ed70e"
+      ],
+      "seller_records": 4
+    },
+    "dlt-template-rejections": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "DLT registration: our headers and SMS or consent templates get rejected, so reminders don't go out",
+      "media_record_ids": [
+        "23d9a9857f3c30f6",
+        "29188037d1f8b6db",
+        "4ab9e05469cf77f5",
+        "590f13988f0f796b",
+        "5cf8ea7a71266376",
+        "66fd21fff6731e84",
+        "8190da3a995ad2b1",
+        "915ca25bc850fe02",
+        "b276cc05d442d628",
+        "ffbd6b3ac38c193e"
+      ],
+      "media_records": 10,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "15fb751db35b7ea3",
+        "23035981ba85c586",
+        "239bf7a68dc2098a",
+        "2c93acdb410766fa",
+        "41fcf7fae81d03f0",
+        "44441622e5953fe6",
+        "4942106eb74319c7",
+        "4e95520a8beaae18",
+        "559b0b84a89fe7ba",
+        "6fd2d944ccad9262",
+        "7fb7cec4367fbd71",
+        "83262ca0e2358529",
+        "86314db572bfecc8",
+        "8637be2fd818a591",
+        "8bb4dee716d88abd",
+        "8dd48a81eecbe945",
+        "908f50e78537e56c",
+        "a539d27fd4041f65",
+        "a8f600b78e3b02db",
+        "b2f0dd287153fab8",
+        "b3b8ca0dcdce7c20",
+        "b5adbb3486e54916",
+        "ca9bcc69e16457fe",
+        "d5e0313ea91b953c",
+        "ef5ec7c9d90cfa79",
+        "f6a6feda9a39780c"
+      ],
+      "seller_records": 26
+    },
+    "dra-certification": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Every collections caller needs the IIBF DRA certificate before calling",
+      "media_record_ids": [
+        "1ca00bf28205fb39",
+        "2d8734419d5b0334",
+        "6be74bc24b19b953",
+        "994c7b4439bf620a",
+        "b79c2a1e37447454",
+        "f0bf25870d8f7a58"
+      ],
+      "media_records": 6,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "69b5e30e8ef23844",
+        "7437567d17845d43",
+        "7e9f0235dfd33ad0",
+        "825296b9677660b6",
+        "9d96f1801512aaa6",
+        "b21a6714945c1871",
+        "d1a6f53b92501edc"
+      ],
+      "seller_records": 7
+    },
+    "mis-selling-on-sales-calls": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Mis-selling on tele-sales calls: IRDAI tightens the rules and we must prove what was said",
+      "media_record_ids": [
+        "4ab268c852baa42c",
+        "92683b51f7d38a06"
+      ],
+      "media_records": 2,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "3b073a3d29bf7eb1",
+        "f5edd43e9de68145",
+        "f9633e5054b92ef2"
+      ],
+      "seller_records": 3
+    },
+    "outsourced-agency-accountability": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "RBI holds us responsible for what our outsourced calling and recovery agencies do",
+      "media_record_ids": [
+        "11be834961753436",
+        "506394fd1d23e064",
+        "69a9d787e0805869",
+        "7a9327e0cf6fcdbb",
+        "7f589852600da977"
+      ],
+      "media_records": 5,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "45931d3144f86c09",
+        "ff9562f2f6ba063b"
+      ],
+      "seller_records": 2
+    },
+    "recovery-harassment-rbi-penalties": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Collection calls that cross RBI's lines (odd hours, threats, calling friends and family) bring complaints and RBI fines",
+      "media_record_ids": [
+        "12c486d3654c2c56",
+        "320f54860e2fa79e",
+        "7de489fe7df47d6a",
+        "a4a60fa0dbe55676",
+        "a8962b604e8ada86",
+        "d843cec626dd1093",
+        "f28a64217f7ae537",
+        "f5aab562a7ef6003"
+      ],
+      "media_records": 8,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "880a0e2453e45ba8",
+        "b7f71e3588438f19"
+      ],
+      "seller_records": 2
+    },
+    "telecaller-attrition": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Telecallers and collection staff quit within months, so we are always hiring and training",
+      "media_record_ids": [
+        "09de04071b4b6665",
+        "f58b33f257e8c387",
+        "fbdbf4f364f00384"
+      ],
+      "media_records": 3,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "00a2966598c01ebc",
+        "1dfba3a5527bdec8",
+        "2abf583758a6d077",
+        "33dc04a1c3e3f55d",
+        "3b226718fa505ebb",
+        "3d3a592590ec1b04",
+        "73ad1df65f4da6f2",
+        "8fb2908c44e554c4",
+        "a84e5070990e4d52",
+        "e173708232795655"
+      ],
+      "seller_records": 10
+    },
+    "too-many-reminder-calls": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Too many borrowers and policyholders to call before the EMI or renewal date, and more telecallers cost too much",
+      "media_record_ids": [],
+      "media_records": 0,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "075e16fea7ea413d",
+        "0b17388151a1e7e8",
+        "0f7574961828ff95",
+        "11e6801718c3da7a",
+        "1ce0fc681a211a90",
+        "287cd4dffbf68bba",
+        "4bbf93e4cde23894",
+        "5c34f2f031a07537",
+        "a16cf13f5700353a",
+        "aa48e03105a702ad",
+        "b9b2d8e0cf3ae8c5",
+        "c3f9457852f77484",
+        "c53462d9fef8d26c",
+        "c79db30a3bea4afc"
+      ],
+      "seller_records": 14
+    },
+    "trai-calling-rules-1600-series": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "TRAI's new calling rules: move to 140 and 1600-series numbers by the deadline, take consent, or get our numbers blacklisted",
+      "media_record_ids": [
+        "0865070e158233cc",
+        "102ff0584896ca92",
+        "15035db012cdbf0c",
+        "16fc32c139136f5d",
+        "177b8d9cfa5d40ec",
+        "1ca6b897a856c190",
+        "1da579520a24100a",
+        "243b11737b1902eb",
+        "2858f9f313f3bd51",
+        "4396c382f0647112",
+        "4431d311696c55f4",
+        "4586a2ddbac13f36",
+        "4d3fb463362048a0",
+        "4d5394450989e964",
+        "5aad85c172eef3c8",
+        "5bffaffde14e9f5c",
+        "743dbc69fdf5f304",
+        "74b2091238af470c",
+        "76aa97da9b43a320",
+        "9449661ff807aab4",
+        "970604fb8b8a4acc",
+        "9ccdb1aac3f80e72",
+        "a36f8baa13fc8cee",
+        "ae3a19bd356b6541",
+        "af3b00d1d1a707f2",
+        "c06ebe9cea9f0567",
+        "c4d05a3394293ae8",
+        "cf65fd2d209ec95d",
+        "de409e741d6cc525",
+        "e06151549e9bfcfe",
+        "e422fabcf882ad24",
+        "ff0dc0243b859e8f"
+      ],
+      "media_records": 32,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "0cc8a6f15cac6915",
+        "0fffc0bdd092d66c",
+        "1bc1d67de5cdfda7",
+        "1c31481efb9eeb2c",
+        "230a8b2b9af72b72",
+        "27e2071d36cf869d",
+        "33d5bf0c0b504525",
+        "468e62e973e0507c",
+        "4b0bf1630a3b1dd4",
+        "617c0253af448ed3",
+        "800096895de2b4b5",
+        "82f105c82ec1ec37",
+        "88050f5d4ab891a3",
+        "90af6b9fa590755c",
+        "a330535acfc5c300",
+        "a91ea27bf74ef2e9",
+        "cc26bddfe2921885",
+        "d6453a74bfbdb942",
+        "df26145e358ef61f",
+        "e3abeb9afd2212f1",
+        "f92c5f2d7cc0ed93"
+      ],
+      "seller_records": 21
+    },
+    "voice-bot-pilots-fail": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Voice-bot pilots don't deliver: the bot falls short in the pilot and the ROI never shows",
+      "media_record_ids": [],
+      "media_records": 0,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "5b092ffd3e456fa4",
+        "68c62f5f27d39749",
+        "bc911052e6838ade",
+        "c06fbbd4f51c9ead"
+      ],
+      "seller_records": 4
+    }
+  },
+  "records_in_manifest": 835,
+  "room": "lender-insurer-telesales-floors-india",
+  "totals": {
+    "by_kind": {
+      "blog_or_site": 373,
+      "jobs": 91,
+      "news": 29,
+      "official": 26,
+      "qa": 73,
+      "reviews": 134,
+      "social": 39,
+      "video": 70
+    },
+    "by_source": {
+      "websearch": 835
+    },
+    "by_voice": {
+      "media": 134,
+      "member": 2,
+      "other": 369,
+      "seller": 330
+    },
+    "failed_spend_mentions": 0,
+    "member_records": 2,
+    "member_records_with_pain": 1,
+    "money_mentions": 0,
+    "source_kind_min_records": 5,
+    "source_kinds": [
+      "blog_or_site",
+      "jobs",
+      "news",
+      "official",
+      "qa",
+      "reviews",
+      "social",
+      "video"
+    ]
+  }
+}

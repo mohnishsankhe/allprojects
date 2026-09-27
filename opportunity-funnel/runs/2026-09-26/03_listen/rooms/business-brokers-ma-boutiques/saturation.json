@@ -1,0 +1,36 @@
+{
+  "final": false,
+  "room": "business-brokers-ma-boutiques",
+  "rounds": [
+    {
+      "evaluable": false,
+      "new_pains": [],
+      "new_records": 896,
+      "note": "not evaluable: round 1 builds the pain list; saturation is tested on the records of round 2 and later",
+      "rank_changes": [],
+      "records": 896,
+      "round": 1,
+      "saturated": false,
+      "taxonomy_keys": [
+        "bad-office-management",
+        "broker-reputation",
+        "buyer-financing-fails",
+        "cut-out-of-commission",
+        "deals-die-after-loi",
+        "fee-pushback",
+        "licensing-rules",
+        "listing-site-complaints",
+        "listings-never-sell",
+        "tire-kicker-buyers",
+        "tool-costs",
+        "unrealistic-seller-expectations",
+        "valuation-doesnt-hold-up",
+        "winning-listings"
+      ],
+      "window": 300,
+      "window_used": 896
+    }
+  ],
+  "stop_reason": null,
+  "window": 300
+}

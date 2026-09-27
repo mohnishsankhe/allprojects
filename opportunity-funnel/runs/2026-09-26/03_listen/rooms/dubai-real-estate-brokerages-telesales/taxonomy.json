@@ -1,0 +1,84 @@
+{
+  "pains": [
+    {
+      "key": "cold-calling-ban",
+      "label": "Cold calling now costs the firm a Dh50,000 fine and agents a suspension",
+      "definition": "RERA and the UAE telemarketing rules now punish unsolicited calls to owners and buyers. Firms are fined (AED 50,000 and more), agents are suspended, numbers are cut, and residents report or block broker calls. The calling floor has to change how it prospects. Includes the rules themselves and talk of leaving cold calling behind because of them.",
+      "added_round": 1,
+      "reasoning": "Round 1 holds dozens of titles on RERA fining a brokerage AED 50,000 and suspending nine brokers for cold calling, plus the federal telemarketing fines. It is the problem the room's records name most often.",
+      "confidence": "high"
+    },
+    {
+      "key": "listing-ad-rules",
+      "label": "Remove illegal ads or face fines: permits, sold and stale listings",
+      "definition": "DLD advertising rules for every listing and ad: a Trakheesi permit per ad, removing sold listings, updating listings within 3 days, at most three brokers per listing, and the crackdown on fake listings. Includes the fines on brokers who break these rules.",
+      "added_round": 1,
+      "reasoning": "News and DLD releases report fines on 256 brokers and on groups of 10 and 30 firms for breaking advertising rules, and new rules on listings. It is a separate rule from the calling ban.",
+      "confidence": "high"
+    },
+    {
+      "key": "portal-costs",
+      "label": "Brokers hit with portal ad rate hikes",
+      "definition": "Property Finder, Bayut and dubizzle raise listing prices or change packages. Brokers complain, push back, or launch their own portal to depend less on the big two.",
+      "added_round": 1,
+      "reasoning": "Titles report brokers hit with ad rate hikes, brokers hitting back at a portal over ad rates, and brokerages launching their own portal. The portal is a step on the room's ladder.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "lead-cost-quality",
+      "label": "Struggling to get quality leads at a cost per lead that pays back",
+      "definition": "The cost per lead from portals, Google or Meta ads and lead vendors is high or unpredictable. Leads are fake, spam or never convert. The brokerage cannot tell which lead source pays back.",
+      "added_round": 1,
+      "reasoning": "Several sellers frame their offers around high or unpredictable cost per lead and fake leads in Dubai real estate. So far no room member says it in their own words.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "leads-lost-follow-up",
+      "label": "Losing leads and deals between enquiry and follow-up",
+      "definition": "Enquiries go cold because nobody answers, calls back or follows up in time. Deals leak between the lead and the viewing. Lead management and hand-offs between agents fail.",
+      "added_round": 1,
+      "reasoning": "Vendor and LinkedIn titles ask why Dubai firms are losing leads and where brokerages lose deals. It is a different problem from what leads cost.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "not-enough-leads-listings",
+      "label": "Can't get enough listings and clients to work",
+      "definition": "Agents and brokerages ask how to get listings, find more clients or generate leads in Dubai, and how to reach owners (for example, an owner's contact from a title deed) because their lead flow is thin.",
+      "added_round": 1,
+      "reasoning": "The few member questions in round 1 ask how to get listings, find more clients and generate leads in Dubai. It is the room's own everyday problem.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "agent-churn",
+      "label": "Agents fail and leave; retention rates remain weak",
+      "definition": "New agents struggle to close and quit within months. Failure rates are high, retention stays weak, and firms keep re-hiring in a fight for talent.",
+      "added_round": 1,
+      "reasoning": "News says Dubai firms hire more brokers but retention stays weak and agent failure rates are too high, and recruiters write about a hiring arms race.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "commission-squeeze",
+      "label": "Commission cut, skipped or left unpaid",
+      "definition": "Sellers and buyers try to cut out the broker or push the fee down. Clients refuse to pay commission until a court orders it. Brokers absorb costs such as VAT, or lose commission they expected.",
+      "added_round": 1,
+      "reasoning": "Titles cover sellers out to cut the middleman, a court-ordered Dh100,000 unpaid commission, a low-fee rival, and an agent who lost 75k euros in commission. Commission is the brokerage's only income.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "licence-card-renewals",
+      "label": "Yearly licence and broker-card renewals, with an annual test and fines if late",
+      "definition": "The brokerage's trade licence and RERA registration, and each agent's broker card, must be renewed every year. There is an annual test, tougher screening, fees, and fines for late renewal.",
+      "added_round": 1,
+      "reasoning": "A DLD release says brokers need an annual test to renew, news says screening got tougher, and setup firms sell renewals and warn of fines. Only sellers and media show it so far.",
+      "confidence": "low"
+    },
+    {
+      "key": "brokerage-squeeze",
+      "label": "Brokerage firms feel the squeeze: lay-offs, shakeout, closures",
+      "definition": "Slow sales, war and downturns squeeze brokerages. Lay-offs, bankruptcies, thousands of agencies expected to disappear, and small brokers pushed out or forced to seek business overseas.",
+      "added_round": 1,
+      "reasoning": "News titles report lay-offs in broker firms, a brokerage bankruptcy, a shakeout that may close thousands of agencies, and brokers going overseas because of war. They name brokerages, not only the market.",
+      "confidence": "moderate"
+    }
+  ]
+}

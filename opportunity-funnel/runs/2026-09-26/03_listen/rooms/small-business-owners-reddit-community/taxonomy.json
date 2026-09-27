@@ -1,0 +1,148 @@
+{
+  "pains": [
+    {
+      "key": "missing-calls-losing-customers",
+      "label": "My business keeps missing calls, and we lose the customers",
+      "definition": "Owners can't pick up every call: they are busy on the job, it is after hours, or no one mans the phone 24/7. Callers who get voicemail go to a competitor.",
+      "added_round": 1,
+      "reasoning": "Owners ask this in their own words on Quora (\"My business keeps missing calls. What should I do?\", \"My small business keeps missing calls after hours\"), and many sellers price the loss.",
+      "confidence": "high"
+    },
+    {
+      "key": "ai-answering-doubts",
+      "label": "Did the AI answering service actually save money, or do customers just get annoyed talking to a bot?",
+      "definition": "Owners doubt paid call answering (AI receptionists and answering services): is it reliable, will callers hate the bot, and is it worth the monthly fee?",
+      "added_round": 1,
+      "reasoning": "Owner questions ask whether AI call answering is reliable and worth the money, and sellers answer with 'is it worth it' pages, so the doubt about the fix is its own problem.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "accounting-software-price-hikes",
+      "label": "Deeply disappointed by QuickBooks pricing and forced migration",
+      "definition": "Accounting software keeps getting more expensive (the QuickBooks Online price rise) or is discontinued (QuickBooks Desktop), so owners must pay more or move their books to another tool.",
+      "added_round": 1,
+      "reasoning": "A QuickBooks Community post uses these words, other owners ask whether to convert from Desktop to Online, and several pages report the August 2026 price rise.",
+      "confidence": "high"
+    },
+    {
+      "key": "bookkeeping-accountant-cost",
+      "label": "How much should bookkeeping cost my small business?",
+      "definition": "Owners can't keep their own books or handle business taxes alone, so they must pay a bookkeeper, accountant or CPA, and they don't know what is fair or find the fees high.",
+      "added_round": 1,
+      "reasoning": "Many owner questions ask what bookkeeping and an accountant should cost, and job boards show thousands of paid bookkeeper roles.",
+      "confidence": "high"
+    },
+    {
+      "key": "customers-dont-pay",
+      "label": "Customer won't pay the bill; late payments fuel stress and cash flow problems",
+      "definition": "Customers pay late or not at all. The owner is owed money, cash runs tight, and chasing invoices costs time and stress.",
+      "added_round": 1,
+      "reasoning": "Contractors post \"Customer won't pay bill\", and the UK Small Business Commissioner reports that three in five businesses are owed money from late payments.",
+      "confidence": "high"
+    },
+    {
+      "key": "not-showing-on-google",
+      "label": "My business doesn't show up on Google Maps or search",
+      "definition": "Customers can't find the business online: it doesn't appear on Google Maps or in search (and now in AI assistants' answers), even with a verified profile.",
+      "added_round": 1,
+      "reasoning": "Seven owner questions describe a business missing from Google Maps or search, and many sellers offer fixes, including new 'get found in ChatGPT' services.",
+      "confidence": "high"
+    },
+    {
+      "key": "google-profile-suspended",
+      "label": "My business profile was suspended, and I lost the appeal",
+      "definition": "Google suspends or restricts the Business Profile. The business disappears from Maps and search until an appeal succeeds.",
+      "added_round": 1,
+      "reasoning": "Owners post suspension cries for help on the Shopify and Google Business Profile communities, and a whole seller niche offers reinstatement.",
+      "confidence": "high"
+    },
+    {
+      "key": "ads-seo-waste-money",
+      "label": "Google Ads are a waste of money; SEO agencies scam small businesses",
+      "definition": "Owners pay for Google Ads, Yelp ads, SEO agencies or lead services and get few customers. Costs per lead rise, agencies overpromise, and owners look for ways to get customers without paying for ads.",
+      "added_round": 1,
+      "reasoning": "An owner thread is titled \"Google Ads are a waste of money\", owners ask whether Yelp advertising is worth it, and many videos warn of local SEO scams.",
+      "confidence": "high"
+    },
+    {
+      "key": "review-sites-hurt-business",
+      "label": "Yelp bullies businesses into paying; fake reviews hurt the business",
+      "definition": "Owners feel review sites hold their reputation hostage: Yelp pushes them to buy ads, fake reviews attack them, and new rules fine businesses over fake reviews.",
+      "added_round": 1,
+      "reasoning": "News titles report Yelp accused of bullying businesses into paying for better reviews and scammers attacking a small business with fake Google reviews; no owner post shows it yet.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "filing-deadlines-penalties",
+      "label": "Late fees and penalties for missed filings (GST returns, Form 941, sales tax)",
+      "definition": "Tax and filing rules (GST returns, payroll tax Form 941, estimated tax, sales tax nexus, BOI, worker classification) bring deadlines, late fees and penalties that owners dread or get hit with.",
+      "added_round": 1,
+      "reasoning": "Indian news calls GST a pain for small e-merchants, and many sellers write about Form 941 and GST late fees; the records are rules and seller pages, not owner posts.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "finding-reliable-help",
+      "label": "Too busy to hire help, and hires don't work out",
+      "definition": "Owners struggle to hire and keep reliable workers or assistants: candidates ghost, hires no-show, virtual assistants disappoint, and the owner is too busy to hire.",
+      "added_round": 1,
+      "reasoning": "A small business owner writes to an advice column \"I'm too busy to hire help!\", and news and seller titles cover employers jilted by job seekers and virtual assistant disasters.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "first-employee-payroll",
+      "label": "Hiring my first employee: what does payroll cost, and how do I avoid payroll mistakes?",
+      "definition": "The first hires bring payroll, payroll taxes and compliance. Payroll services charge per month and per person, and mistakes bring penalties.",
+      "added_round": 1,
+      "reasoning": "Owner questions ask for affordable or the cheapest payroll for a small business, and many payroll sellers publish first-hire and payroll-mistake guides.",
+      "confidence": "high"
+    },
+    {
+      "key": "insurance-cost-cover",
+      "label": "Finding the least expensive business insurance while insurance costs keep climbing",
+      "definition": "Owners need liability, business and health insurance, but premiums are high and rising, affordable and reputable cover is hard to find, and claims get denied.",
+      "added_round": 1,
+      "reasoning": "Owner questions ask where to find the least expensive or affordable business and health insurance, and a news title says small business insurance costs keep climbing.",
+      "confidence": "high"
+    },
+    {
+      "key": "selling-business-fees",
+      "label": "Can I sell my business without paying a business broker 10% at closing?",
+      "definition": "Owners who want to sell face broker commissions, legal fees and costly mistakes, and they don't know what the business is worth.",
+      "added_round": 1,
+      "reasoning": "Two owner questions use these words about the broker's 10%, another asks what legal fees sellers paid, and many sellers publish broker-fee and valuation pages.",
+      "confidence": "high"
+    },
+    {
+      "key": "owner-burnout-always-on",
+      "label": "Small business owners feel 'always on' and burn out",
+      "definition": "The business runs through the owner. Calls and messages after hours leave no time off, and the owner burns out.",
+      "added_round": 1,
+      "reasoning": "Sellers of phone and answering services write about owners feeling 'always on', and one owner says they are too busy to hire help; owner posts are thin so far.",
+      "confidence": "low"
+    },
+    {
+      "key": "wasted-subscriptions",
+      "label": "Wasted megabucks on subscriptions: the subscription trap",
+      "definition": "Monthly software and tool subscriptions pile up. Owners pay for tools they don't use and struggle to cut them.",
+      "added_round": 1,
+      "reasoning": "A journalist writes that they wasted megabucks on tech subscriptions, and newsletters describe the subscription trap and software stack audits; no owner post shows it yet.",
+      "confidence": "low"
+    },
+    {
+      "key": "chargebacks-payment-outages",
+      "label": "Chargebacks and payment outages cost us thousands in lost revenue",
+      "definition": "Card processors hit owners with fraudulent disputes, chargebacks and outages that cost them sales.",
+      "added_round": 1,
+      "reasoning": "A news title reports a Square outage costing small-business owners thousands, and Stripe and Square sell chargeback protection; no owner post shows it yet.",
+      "confidence": "low"
+    },
+    {
+      "key": "business-loan-approval",
+      "label": "What could sink my SBA loan application?",
+      "definition": "Owners who need funding struggle to get a small business loan approved: rules change, and lenders want credit, revenue and documents.",
+      "added_round": 1,
+      "reasoning": "A Kiplinger title warns that changed SBA loan rules could sink an application, and many lenders publish requirement guides; no owner post shows it yet.",
+      "confidence": "low"
+    }
+  ]
+}

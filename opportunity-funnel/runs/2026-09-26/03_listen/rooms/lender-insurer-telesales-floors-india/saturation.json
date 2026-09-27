@@ -1,0 +1,34 @@
+{
+  "final": false,
+  "room": "lender-insurer-telesales-floors-india",
+  "rounds": [
+    {
+      "evaluable": false,
+      "new_pains": [],
+      "new_records": 835,
+      "note": "not evaluable: round 1 builds the pain list; saturation is tested on the records of round 2 and later",
+      "rank_changes": [],
+      "records": 835,
+      "round": 1,
+      "saturated": false,
+      "taxonomy_keys": [
+        "call-scripts-and-training",
+        "calls-marked-spam-low-pickup",
+        "dialer-costs-hidden-fees",
+        "dlt-template-rejections",
+        "dra-certification",
+        "mis-selling-on-sales-calls",
+        "outsourced-agency-accountability",
+        "recovery-harassment-rbi-penalties",
+        "telecaller-attrition",
+        "too-many-reminder-calls",
+        "trai-calling-rules-1600-series",
+        "voice-bot-pilots-fail"
+      ],
+      "window": 300,
+      "window_used": 835
+    }
+  ],
+  "stop_reason": null,
+  "window": 300
+}

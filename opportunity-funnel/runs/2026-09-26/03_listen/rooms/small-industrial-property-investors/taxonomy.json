@@ -1,0 +1,140 @@
+{
+  "pains": [
+    {
+      "key": "market-data-cost",
+      "label": "CoStar costs too much: is there a cheaper alternative, and is it worth the money?",
+      "definition": "The investor needs comps, market and owner data to find and price deals, but CoStar (and paid LoopNet, Crexi Intelligence or Reonomy plans) costs too much for a small investor, so they ask what it costs, whether it is worth it, and what cheaper or free alternative exists.",
+      "added_round": 1,
+      "reasoning": "Many BiggerPockets and Wall Street Oasis threads ask for CoStar alternatives, its cost, and whether paid data plans are worth it.",
+      "confidence": "high"
+    },
+    {
+      "key": "finding-deals",
+      "label": "How do I find off-market warehouse and commercial deals?",
+      "definition": "The investor cannot find good properties to buy, especially off-market ones before other buyers, and asks how to search for commercial property for sale.",
+      "added_round": 1,
+      "reasoning": "Q&A threads ask how to find off-market commercial deals and how to search for commercial property for sale.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "new-to-industrial",
+      "label": "New to warehouses: is it a good buy, what will I earn, and where do I start?",
+      "definition": "A new or would-be investor does not know whether buying, building or converting a warehouse, godown or flex building pays off, what rent or return to expect, or how to get started (including what to do right after a first purchase).",
+      "added_round": 1,
+      "reasoning": "Forum and Quora threads ask whether warehouses are good to buy, whether flex development is still viable, what a warehouse earns, and where to start.",
+      "confidence": "high"
+    },
+    {
+      "key": "underwriting-deals",
+      "label": "How do I underwrite this deal: NOI, cap rate, returns, and can I trust the numbers?",
+      "definition": "The investor struggles to analyse a specific deal: what goes into NOI, what cap rate or return is good, whether the income is real, or underwriting takes too long; includes paying for a modelling course to learn it.",
+      "added_round": 1,
+      "reasoning": "Threads ask for help looking at a NNN deal, what to put in NOI, what cap rates are good, and complain that underwriting takes too long.",
+      "confidence": "high"
+    },
+    {
+      "key": "due-diligence",
+      "label": "What to check before closing so the deal does not blow up (environmental, lease, building)",
+      "definition": "Before closing, the buyer must check the site and the lease: a Phase I environmental report, NNN lease diligence, appraisal and building condition, which cost money and can uncover problems that kill the deal.",
+      "added_round": 1,
+      "reasoning": "Forum threads ask about Phase I environmental assessments and absolute NNN diligence; many seller pages price these reports.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "getting-financing",
+      "label": "Getting a commercial loan: approval, lenders, down payment and refinancing",
+      "definition": "The investor has trouble getting a lender to finance a warehouse or commercial purchase or build: pre-approval obstacles, finding lenders for NNN property, down payment, loan structure, or refinancing a maturing loan.",
+      "added_round": 1,
+      "reasoning": "Forum threads report pre-approval obstacles with commercial loans and ask for lenders for NNN properties and how to get a loan to build.",
+      "confidence": "high"
+    },
+    {
+      "key": "raising-capital",
+      "label": "How do I raise the money for my deal: investors, partners, no money down?",
+      "definition": "The investor or would-be syndicator lacks the equity and does not know how to find investors or raise money for a commercial deal, including raising capital for someone else's syndication.",
+      "added_round": 1,
+      "reasoning": "Threads ask how to raise money for commercial real estate, how to start with no money down, and how to raise capital for syndications.",
+      "confidence": "high"
+    },
+    {
+      "key": "raising-capital-legally",
+      "label": "Is my capital raise legal? SEC rules, Reg D filings and the broker licence question",
+      "definition": "The syndicator is unsure whether raising money for their own or someone else's syndication, or collecting fees for it, is legal without a broker-dealer licence, and how the SEC exemptions (Reg D 506(b) and 506(c)), Form D and state blue-sky filings apply.",
+      "added_round": 1,
+      "reasoning": "Threads ask how to raise capital for syndications legally and whether a broker licence is needed to collect fees; official pages set the filing rules.",
+      "confidence": "high"
+    },
+    {
+      "key": "syndication-legal-docs",
+      "label": "Syndication paperwork: the PPM, operating agreement and what the attorney costs",
+      "definition": "Setting up a syndication or fund needs a private placement memorandum (PPM), operating agreement and term sheet; the sponsor worries about the up-front attorney cost, when to get them, and whether a cheaper template will do.",
+      "added_round": 1,
+      "reasoning": "Threads ask about syndication attorney costs, startup costs of a syndication, buying a PPM template and when to get the PPM and operating agreement.",
+      "confidence": "high"
+    },
+    {
+      "key": "structuring-the-deal",
+      "label": "How do I structure the terms: GP/LP split, JV or finder's fee, partners on the loan?",
+      "definition": "The sponsor or partner does not know how to split the deal: syndication terms, the sponsor and capital-raiser relationship, a JV versus a finder's fee, the operating agreement, or how partners sit on the loan.",
+      "added_round": 1,
+      "reasoning": "Threads ask how to structure syndication terms, whether to JV or take a finder's fee, and how to structure a loan with partners.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "first-syndication",
+      "label": "How do I start my first syndication?",
+      "definition": "A would-be sponsor does not know the steps to put together a first syndication, from forming it to getting documents in place.",
+      "added_round": 1,
+      "reasoning": "Threads ask how to start a first syndication and what the steps are to form one.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "syndication-failure",
+      "label": "Why syndications fail, and the fear that mine will",
+      "definition": "Sponsors and would-be sponsors worry that syndications fail or go bad, and look for the reasons and stories before they raise money.",
+      "added_round": 1,
+      "reasoning": "Forum threads ask why syndications fail and for stories of bad or failed deals; many videos and blogs sell advice on avoiding these mistakes.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "investor-admin",
+      "label": "Tracking investors, commitments, distributions and K-1s: which software?",
+      "definition": "Once there are outside investors, the sponsor struggles to track commitments, send updates, pay distributions and produce K-1s, and asks which syndication or investor-relations software to use.",
+      "added_round": 1,
+      "reasoning": "Many forum threads ask for syndication and investor-relations software suggestions, some with a plea for help.",
+      "confidence": "high"
+    },
+    {
+      "key": "cost-seg-worth-it",
+      "label": "Is a cost segregation study worth the fee?",
+      "definition": "After a purchase the owner weighs whether a paid cost segregation study (faster depreciation, lower taxes) is worth its fee for their property size.",
+      "added_round": 1,
+      "reasoning": "Several forum threads ask when a cost segregation study is worth it and at what price point.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "1031-exchange-rules",
+      "label": "1031 exchange deadlines and rules when I sell and buy",
+      "definition": "The investor must meet the 1031 exchange rules and deadlines (45 days to identify, 180 days to close) and understand what a 1031 condition means when buying or moving from residential into commercial.",
+      "added_round": 1,
+      "reasoning": "Forum threads ask about the 45 versus 180 day deadline, nominating property, and exchanging residential for commercial.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "vacancy-and-tenants",
+      "label": "Finding tenants: the warehouse sits empty but the mortgage is due",
+      "definition": "The owner cannot find a tenant or a good rent for a warehouse or godown, or cannot cover the mortgage without leasing it out; includes tenants who stop paying.",
+      "added_round": 1,
+      "reasoning": "Owners write that they cannot afford the warehouse mortgage and ask where to find tenants and how to lease a godown at a good rate.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "nnn-fees-cam",
+      "label": "What management fee to charge on NNN industrial, and passing it to tenants through CAM",
+      "definition": "The owner of a triple-net (NNN) industrial or flex property is unsure what management fee to charge or pay and whether it can be passed through to tenants in CAM charges.",
+      "added_round": 1,
+      "reasoning": "Forum threads ask about including management fees in NNN, CAM charges and industrial management fees.",
+      "confidence": "moderate"
+    }
+  ]
+}
