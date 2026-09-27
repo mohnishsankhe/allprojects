@@ -1306,3 +1306,7 @@
 {"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "gre-preppers-worldwide-online", "stage": 3, "ts": "2026-09-27T18:12:15+00:00"}
 {"already_checked": 0, "command": "relabel-pack", "keys": ["options-tax-filing-other-countries", "not-allowed-to-trade-options", "trading-hurts-family"], "kind": "ran", "packs": 8, "room": "active-retail-options-traders", "round": 3, "stage": 3, "ts": "2026-09-27T18:12:25+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T18:12:33+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "indie-perfumers-launching-brands", "stage": 3, "ts": "2026-09-27T18:14:39+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "gre-preppers-worldwide-online", "stage": 3, "ts": "2026-09-27T18:15:22+00:00"}
+{"command": "show", "ids": 51, "kind": "ran", "missing": [], "room": "gre-preppers-worldwide-online", "stage": 3, "ts": "2026-09-27T18:16:25+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T18:17:36+00:00"}
