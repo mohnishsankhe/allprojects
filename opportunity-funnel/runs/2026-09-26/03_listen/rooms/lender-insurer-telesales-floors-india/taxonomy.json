@@ -1,0 +1,103 @@
+{
+  "room": "lender-insurer-telesales-floors-india",
+  "round": 1,
+  "note": "Round 1 records are search-result titles. Almost none are written by floor heads or callers, so most pains are shown by sellers, news and regulators, not by members yet.",
+  "pains": [
+    {
+      "key": "calls-marked-spam-low-pickup",
+      "label": "Customers don't pick up: our numbers show as spam, get blocked, or look like scam calls",
+      "definition": "The floor's outbound calls go unanswered because apps like Truecaller label the numbers as spam, customers or telcos block them, or people take them for fraud calls. Contact rates (the share of calls that reach the right person) fall.",
+      "added_round": 1,
+      "reasoning": "A creditor says debtors mark his collection number as spam, people ask how to get numbers off spam lists, and news tells borrowers how to block loan calls. Sellers resell Truecaller's verified business caller ID as an anti-spam fix and pitch contact-rate tools.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "trai-calling-rules-1600-series",
+      "label": "TRAI's new calling rules: move to 140 and 1600-series numbers by the deadline, take consent, or get our numbers blacklisted",
+      "definition": "Under TRAI's 2025 amendments to the calling rules (TCCCPR), banks, NBFCs and insurers must make service and transaction calls from 1600-series numbers and sales calls from 140-series numbers, take recorded consent, and risk disconnection or a blacklist after customer complaints. Phased deadlines force the move.",
+      "added_round": 1,
+      "reasoning": "Dozens of vendor guides, news items, law-firm notes and TRAI pages cover the 140 and 1600 series, consent and blacklisting, with phased deadlines for banks and lenders. A consultancy asks whether the 1600 move is a burden.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "dlt-template-rejections",
+      "label": "DLT registration: our headers and SMS or consent templates get rejected, so reminders don't go out",
+      "definition": "Before sending business SMS or registered calls, the lender must register its entity, sender headers and message and consent templates on each telco's DLT portal (DLT = the telecom registry TRAI requires). Templates get rejected or fail matching checks, and registrations carry fees and renewals.",
+      "added_round": 1,
+      "reasoning": "Many vendor blogs and how-to videos deal with DLT template rejections, consent uploads and registration fees, and senders ask how to get templates approved or skip slow registration.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "recovery-harassment-rbi-penalties",
+      "label": "Collection calls that cross RBI's lines (odd hours, threats, calling friends and family) bring complaints and RBI fines",
+      "definition": "RBI rules limit how recovery calls are made: only between 8 am and 7 pm, no threats or abuse, no calls to relatives or friends. Breaches by in-house or agency callers bring borrower complaints, bad press and RBI penalties.",
+      "added_round": 1,
+      "reasoning": "News of an RBI fine of Rs 2.5 crore on a lender for recovery harassment, RBI's direction against intimidation, and many borrower complaints and rights guides about recovery calls show the lender's exposure.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "mis-selling-on-sales-calls",
+      "label": "Mis-selling on tele-sales calls: IRDAI tightens the rules and we must prove what was said",
+      "definition": "Tele-sales callers mis-sell insurance or loans. IRDAI (the insurance regulator) tightens telemarketing, commission and mis-selling rules, so floors need recordings, verification and call audits to show each sale was compliant.",
+      "added_round": 1,
+      "reasoning": "News and vendor pages cover IRDAI's tighter mis-selling and telemarketing rules and call verification or speech analytics to catch mis-selling. Few records so far.",
+      "confidence": "low"
+    },
+    {
+      "key": "telecaller-attrition",
+      "label": "Telecallers and collection staff quit within months, so we are always hiring and training",
+      "definition": "High staff turnover on NBFC and insurance sales and collections floors means constant hiring, training and lost output.",
+      "added_round": 1,
+      "reasoning": "A lending-software vendor says NBFC attrition is over 75%, articles discuss high NBFC attrition, and many contact-centre vendors write about cutting agent turnover.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "too-many-reminder-calls",
+      "label": "Too many borrowers and policyholders to call before the EMI or renewal date, and more telecallers cost too much",
+      "definition": "The floor cannot reach every customer for EMI reminders, early collections or premium renewals with the staff it has, and the cost per call and per rupee recovered with human callers is high. (EMI = monthly loan instalment.)",
+      "added_round": 1,
+      "reasoning": "Many voice-AI vendors pitch automating EMI calls without hiring more agents, and cutting collections cost by 40% to 71%, which shows the reach and cost problem they sell against.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "voice-bot-pilots-fail",
+      "label": "Voice-bot pilots don't deliver: the bot falls short in the pilot and the ROI never shows",
+      "definition": "Lenders try AI voice bots for reminders or collections, but pilots fail or the return on the money spent is hard to prove, so money and time go in without a working rollout.",
+      "added_round": 1,
+      "reasoning": "A few vendor pages explain why voice-AI pilots fail and offer frameworks to prove ROI in a pilot. It could become failed-spend evidence if members confirm it.",
+      "confidence": "low"
+    },
+    {
+      "key": "dialer-costs-hidden-fees",
+      "label": "Dialers and cloud calling cost more than they look: per-seat, per-minute and hidden fees",
+      "definition": "Prices for dialers, cloud telephony, calling CRMs and voice AI are hard to compare. Seat, minute, number and add-on fees add up, and buyers hunt for cheaper options.",
+      "added_round": 1,
+      "reasoning": "Pricing reviews warn of hidden costs in Ozonetel, MyOperator and Ameyo plans, rival vendors pitch lower per-minute voice-AI prices, and buyers ask what dialers cost and which are cheap.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "dra-certification",
+      "label": "Every collections caller needs the IIBF DRA certificate before calling",
+      "definition": "RBI requires recovery agents, including tele-callers, to pass the IIBF Debt Recovery Agent (DRA) exam, so floors must get new staff certified (exam slots, fees, training hours) before they can work.",
+      "added_round": 1,
+      "reasoning": "IIBF pages, exam guides that list fees, study-material sellers and exam videos all serve the DRA certificate, including a DRA exam for tele-callers.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "outsourced-agency-accountability",
+      "label": "RBI holds us responsible for what our outsourced calling and recovery agencies do",
+      "definition": "RBI's 2025 outsourcing directions make the lender answerable for its vendors' conduct, contracts and data, so floors must check, contract and audit their outsourced tele-calling and recovery agencies.",
+      "added_round": 1,
+      "reasoning": "Law-firm and news analyses of RBI's 2025 outsourcing directions for NBFCs and banks, plus compliance software sellers, show the new accountability rule. None names calling floors directly yet.",
+      "confidence": "low"
+    },
+    {
+      "key": "call-scripts-and-training",
+      "label": "New callers don't know what to say: we need scripts and training for sales and collection calls",
+      "definition": "Telecallers need scripts and coaching to convert leads or get a promise to pay without a harsh tone, so floors look for scripts, courses and training material.",
+      "added_round": 1,
+      "reasoning": "Many videos offer insurance and loan telecalling scripts, vendors publish collection-call scripts, and a course for NBFC collectors teaches ethical calling.",
+      "confidence": "low"
+    }
+  ]
+}

@@ -295,3 +295,6 @@
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T09:00:17+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T09:01:19+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T09:02:54+00:00"}
+{"by_kind": {"blog_or_site": 373, "forum": 84, "jobs": 41, "news": 12, "official": 65, "qa": 73, "reviews": 64, "social": 11, "video": 82}, "by_source": {"websearch": 805}, "by_voice": {"media": 148, "member": 174, "other": 206, "seller": 277}, "command": "count", "kind": "count", "labeled": 805, "pains": 15, "room": "cfa-candidates-community", "source_kinds": 9, "stage": 3, "ts": "2026-09-27T09:07:46+00:00"}
+{"command": "saturation", "kind": "count", "new_pains": [], "new_records": 805, "rank_changes": 0, "records": 805, "room": "cfa-candidates-community", "round": 1, "saturated": false, "stage": 3, "stop_reason": null, "ts": "2026-09-27T09:07:50+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T09:07:56+00:00"}

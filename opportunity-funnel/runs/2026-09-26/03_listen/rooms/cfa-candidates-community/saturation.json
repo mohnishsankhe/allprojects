@@ -1,0 +1,37 @@
+{
+  "final": false,
+  "room": "cfa-candidates-community",
+  "rounds": [
+    {
+      "evaluable": false,
+      "new_pains": [],
+      "new_records": 805,
+      "note": "not evaluable: round 1 builds the pain list; saturation is tested on the records of round 2 and later",
+      "rank_changes": [],
+      "records": 805,
+      "round": 1,
+      "saturated": false,
+      "taxonomy_keys": [
+        "failed-what-next",
+        "giving-up",
+        "hardest-topics",
+        "how-to-study",
+        "job-without-charter",
+        "level3-essays",
+        "mock-scores-readiness",
+        "postpone-or-refund",
+        "prep-not-enough",
+        "rules-and-deadlines",
+        "scholarship-essay",
+        "study-with-full-time-job",
+        "total-fees",
+        "which-prep-provider",
+        "worth-it"
+      ],
+      "window": 300,
+      "window_used": 805
+    }
+  ],
+  "stop_reason": null,
+  "window": 300
+}

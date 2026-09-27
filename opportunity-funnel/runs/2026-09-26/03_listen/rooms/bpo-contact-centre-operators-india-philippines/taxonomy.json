@@ -1,0 +1,82 @@
+{
+  "pains": [
+    {
+      "key": "finding-clients",
+      "label": "How do I get clients, a genuine process, for my call centre?",
+      "definition": "The call centre has seats but not enough client work (a 'process' or 'project'). Owners ask how to win clients directly, often from the US, UK or Australia, and pay business developers or process providers to find it.",
+      "added_round": 1
+    },
+    {
+      "key": "middlemen-upfront-fees",
+      "label": "Process consultants take upfront money and give a fake process, or none",
+      "definition": "Middlemen (process providers, consultants, brokers) sell client projects for an upfront or onboarding fee. Many projects are fake or never start, so owners search for a 'genuine process without upfront' and 'direct client'.",
+      "added_round": 1
+    },
+    {
+      "key": "dialer-and-carrier-problems",
+      "label": "Our dialer drops calls, gives dead air or won't ring agents",
+      "definition": "The dialer or the telephony carrier (often VICIdial over SIP trunks) drops calls, plays dead air, fails to ring agents or mis-routes international calls, and setting it up or fixing it needs outside help.",
+      "added_round": 1
+    },
+    {
+      "key": "dialer-cost-and-choice",
+      "label": "Which dialer is good and affordable for a small call centre?",
+      "definition": "Choosing a dialer, VoIP line or call-centre software without overpaying: per-seat fees, hidden costs, and 'free' VICIdial that still costs money to host and run.",
+      "added_round": 1
+    },
+    {
+      "key": "numbers-flagged-spam",
+      "label": "Our outbound numbers show as 'spam likely' or get blocked",
+      "definition": "Outbound calling numbers get labelled spam or blocked by carriers and caller-ID apps (Truecaller in India, STIR/SHAKEN labels in the US), so fewer people answer.",
+      "added_round": 1
+    },
+    {
+      "key": "agent-attrition-and-hiring",
+      "label": "Agents quit fast, so we keep hiring and training",
+      "definition": "High agent attrition (staff turnover) means constant hiring and training. Hiring itself is hard: new hires fail to show up and some candidates are fake.",
+      "added_round": 1
+    },
+    {
+      "key": "ai-and-seat-price-pressure",
+      "label": "Clients cut the price per seat or replace agents with AI",
+      "definition": "Clients push per-seat rates down, ask for pay-per-result pricing, or move calls to AI voice agents, so the operator's seats and margins shrink.",
+      "added_round": 1
+    },
+    {
+      "key": "client-quality-audits",
+      "label": "Clients audit our calls and SLAs, so every agent's calls must be scored",
+      "definition": "Clients grade the operator on quality scores and service levels (SLAs: agreed targets such as answer times) and can penalise misses, so the operator pays QA staff and tools to audit agents' calls.",
+      "added_round": 1
+    },
+    {
+      "key": "wfm-staffing",
+      "label": "Getting the right number of agents on every shift",
+      "definition": "Forecasting call volumes, scheduling agents and covering shrinkage (absence, breaks, training time) and seat use. Operators hire WFM (workforce management) analysts and buy scheduling software for it.",
+      "added_round": 1
+    },
+    {
+      "key": "data-security-compliance",
+      "label": "Clients and new laws want proof we protect data (ISO 27001, PCI DSS, DPDP, NPC)",
+      "definition": "Enterprise clients ask for ISO 27001 or PCI DSS (card-payment security) before handing over work, both standards moved to new versions with deadlines, and privacy laws (India's DPDP Act, registration with the Philippine National Privacy Commission) add duties.",
+      "added_round": 1
+    },
+    {
+      "key": "telemarketing-rules",
+      "label": "Telemarketing rules limit how we can call (TRAI 140/160 series, DLT, TCPA consent)",
+      "definition": "Rules on outbound calling carry penalties and change how campaigns dial: India's TRAI rules (the TCCCPR regulations, the 140 and 160 number series, DLT registration of senders) and the US TCPA consent rules for US campaigns.",
+      "added_round": 1
+    },
+    {
+      "key": "registration-and-licences",
+      "label": "Registering the call centre and keeping its licences (PEZA, DoT OSP)",
+      "definition": "Setting up the legal entity and its registrations (PEZA or BOI in the Philippines for tax incentives; the DoT 'Other Service Provider' regime in India) and following their rules, such as PEZA's limits on work from home.",
+      "added_round": 1
+    },
+    {
+      "key": "seat-setup-cost",
+      "label": "Setting up or adding seats costs a lot before any client pays",
+      "definition": "Space, computers, dialer licences and setup cost money up front, and owners cannot tell if the seats will pay back. Renting ready seats (seat leasing) is the common workaround.",
+      "added_round": 1
+    }
+  ]
+}

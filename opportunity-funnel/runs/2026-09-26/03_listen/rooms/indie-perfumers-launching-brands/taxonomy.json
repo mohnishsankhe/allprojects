@@ -1,0 +1,108 @@
+{
+  "pains": [
+    {
+      "key": "clueless-how-to-start",
+      "label": "Tasked with starting a perfume brand, completely clueless",
+      "definition": "The person wants to start a perfume brand or business and asks how to begin: the steps, tips or advice. They do not yet have a roadmap.",
+      "added_round": 1,
+      "reasoning": "Many Basenotes, Fragrantica and Quora threads ask how to start a perfume business or line, often saying they need help or are clueless.",
+      "confidence": "high"
+    },
+    {
+      "key": "startup-cost-unknown",
+      "label": "How much will the start up cost?",
+      "definition": "The person does not know what launching will cost: the startup budget, a production budget, the cost to make a perfume or a bottle, or the investment needed.",
+      "added_round": 1,
+      "reasoning": "Members ask about the cost to open a business, a full production budget and the investment needed, and one owner breaks down every cost of their fragrance business.",
+      "confidence": "high"
+    },
+    {
+      "key": "will-it-pay",
+      "label": "How much could I potentially earn, and is it worth it?",
+      "definition": "The person doubts that a perfume brand will make money or that their perfume will sell, and asks if it is profitable or worth it.",
+      "added_round": 1,
+      "reasoning": "A few Quora questions ask whether a perfume brand is profitable or whether their perfume will sell. Support is thin so far.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "ifra-rules-confusing",
+      "label": "Newbie here, confused about IFRA rules",
+      "definition": "The person does not understand the IFRA standards (the fragrance industry's safety limits for materials): whether a small seller must comply, how to read an IFRA certificate and its maximum percentages, or what a new amendment changes.",
+      "added_round": 1,
+      "reasoning": "IFRA is the most frequent compliance topic in Basenotes threads: must small sellers comply, how to read the certificate, beginners confused.",
+      "confidence": "high"
+    },
+    {
+      "key": "licence-and-safety-paperwork",
+      "label": "Do I need any license for selling my home-made fragrance?",
+      "definition": "The person does not know the legal steps before selling perfume: licences, a safety assessment (CPSR, the EU and UK cosmetic product safety report), safety data sheets (MSDS), product notification or registration, and label rules such as allergen lists.",
+      "added_round": 1,
+      "reasoning": "Members ask which licence they need (India, Illinois, retail), report CPSR problems in the UK and ask about legal requirements in the Netherlands.",
+      "confidence": "high"
+    },
+    {
+      "key": "liability-insurance",
+      "label": "Product liability insurance for small sellers",
+      "definition": "The person needs product liability insurance to sell perfume (at markets, to shops or online) and asks where to get it or whether they need it.",
+      "added_round": 1,
+      "reasoning": "One Basenotes thread asks about product liability insurance for small US sellers, and several insurers target makers. Support is thin so far.",
+      "confidence": "low"
+    },
+    {
+      "key": "small-batch-production",
+      "label": "I Want to Mass Produce my own Perfume - How do I do it?",
+      "definition": "The person needs their perfume produced and filled beyond hand-blending, often in small runs, and asks how to find a manufacturer, private-label house or filler they can trust.",
+      "added_round": 1,
+      "reasoning": "Members ask how to find a manufacturer for their fragrance line and how to mass produce, and a manufacturer relays that brands had bad experiences with previous suppliers.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "hire-a-perfumer",
+      "label": "Looking to hire a perfumer",
+      "definition": "The person wants a professional perfumer or fragrance house to create their scent and asks where to find one or what it costs.",
+      "added_round": 1,
+      "reasoning": "A Basenotes member is looking to hire a perfumer, a freelance job seeks formulation and production, and a member asks what a fragrance house charges.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "bottles-small-quantity",
+      "label": "where to get quality bottles in small qty",
+      "definition": "The person cannot find perfume bottles, caps or packaging of good quality at the small quantities they need, and asks who supplies them.",
+      "added_round": 1,
+      "reasoning": "Several Basenotes threads ask where to get bottles, need a crimped bottle supplier, or want quality bottles in small quantities.",
+      "confidence": "high"
+    },
+    {
+      "key": "materials-cost-and-sourcing",
+      "label": "Expen$ive Materials in Perfumery; from where will I get raw materials?",
+      "definition": "Raw materials (aroma chemicals and naturals) are costly, and the person struggles to decide which ones to buy or where to buy them.",
+      "added_round": 1,
+      "reasoning": "Members discuss expensive materials, ask for a beginner's list of raw materials and ask where to get raw materials in India.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "first-perfume-beginner",
+      "label": "Want to make my first perfume",
+      "definition": "A beginner wants to start making perfume and asks how: what to buy first, how many materials a formula needs, how to recreate a scent, or whether it is safe.",
+      "added_round": 1,
+      "reasoning": "Basenotes newcomers say they want to make their first perfume, have questions, or ask how safe it is and how many materials a formula needs.",
+      "confidence": "high"
+    },
+    {
+      "key": "training-worth-it",
+      "label": "Seeking opinion for perfumery training",
+      "definition": "The person is choosing how to learn perfumery (a school, a course or a degree) and asks which one, whether a degree is needed, or whether an expensive course is worth the money.",
+      "added_round": 1,
+      "reasoning": "Members seek opinions on training, doubt a school offer, ask if a degree is needed, and one perfumer asks if 5,000 dollars of certification was worth it.",
+      "confidence": "high"
+    },
+    {
+      "key": "shipping-hazmat",
+      "label": "Shipping perfume counts as HAZMAT",
+      "definition": "The person struggles to ship or list perfume because alcohol-based perfume counts as a hazardous material (dangerous goods): carrier limits such as ground-only shipping, and marketplace dangerous-goods programs.",
+      "added_round": 1,
+      "reasoning": "Perfume sellers on eBay and Amazon discuss hazmat rules and a packaging seller writes a hazmat guide for small perfume brands. No record yet shows an indie perfumer saying it, so member support is absent in round 1.",
+      "confidence": "low"
+    }
+  ]
+}

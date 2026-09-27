@@ -1,0 +1,5 @@
+{"record_id": "8467fd706413905f", "voice": "seller", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A prep provider's explainer on Level 1 topics and weights. No problem stated.", "confidence": "high"}
+{"record_id": "b192ce8b24cda703", "voice": "media", "pain_keys": [], "money": true, "failed_spend": false, "reasoning": "An education portal's Level 1 overview covering structure, fees and pass rate. No single problem stated.", "confidence": "moderate"}
+{"record_id": "37a87727546dfd62", "voice": "media", "pain_keys": ["how-to-study"], "money": false, "failed_spend": false, "reasoning": "A CFA site's article on the best order to study Level 1 topics.", "confidence": "high"}
+{"record_id": "ef668c19edd3a34d", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "CFA Institute's Level 1 exam page. Official information.", "confidence": "high"}
+{"record_id": "ffcc4fabdc52eda3", "voice": "seller", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A directory listing for a Level 1 program. Names a product only.", "confidence": "high"}
