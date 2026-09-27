@@ -356,3 +356,5 @@
 {"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T09:48:16+00:00"}
 {"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T09:53:18+00:00"}
 {"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T09:58:21+00:00"}
+{"code": 1, "command": "count", "errors": ["'batch_r9_001' is not a batch of room cfa-candidates-community. Batches: batch_r1_001, batch_r1_002, batch_r1_003, batch_r1_004, batch_r1_005, batch_r1_006, batch_r1_007, batch_r1_008, batch_r1_009, batch_r1_010, batch_r1_011."], "kind": "error", "stage": 3, "ts": "2026-09-27T10:01:29+00:00"}
+{"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T10:03:23+00:00"}

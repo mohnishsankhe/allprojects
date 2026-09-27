@@ -366,3 +366,48 @@ def test_count_reports_source_kinds_with_a_minimum_per_kind(run, h, cli):
     assert t["by_kind"] == {"qa": 5, "reviews": 4, "video": 5} and len(ids) == 14
     assert t["source_kinds"] == ["qa", "video"]  # reviews has 4 records, below the minimum of 5
     assert "Kinds with at least 5 records: 2 (the rule asks for 3)" in r.stdout
+
+
+# --------------------------------------------------------------------------- per-batch labeling
+def _two_batches(run, h):
+    ids = _ids(run, 6)
+    records.make_batches(run, ROOM, size=3)
+    h.write_taxonomy(run, ROOM, ["a", "b"])
+    m = common.read_json(records.manifest_path(run, ROOM))
+    return ids, m["batches"]
+
+
+def test_label_todo_lists_missing_partial_and_stale_batches(run, h, cli):
+    ids, batches = _two_batches(run, h)
+    names = sorted(batches)
+    assert counts.label_todo(run, ROOM) == names  # nothing labeled yet
+    h.write_labels(run, ROOM, names[0], [h.label(rid, keys=["a"]) for rid in batches[names[0]]])
+    assert counts.label_todo(run, ROOM) == [names[1]]
+    h.write_labels(run, ROOM, names[1], [h.label(rid, keys=["b"]) for rid in batches[names[1]][:2]])  # one record short
+    assert counts.label_todo(run, ROOM) == [names[1]]
+    h.write_labels(run, ROOM, names[1], [h.label(rid, keys=["b"]) for rid in batches[names[1]]])
+    assert counts.label_todo(run, ROOM) == []
+    h.write_taxonomy(run, ROOM, ["a", "c"])  # key b was renamed: its batch is stale
+    assert counts.label_todo(run, ROOM) == [names[1]]
+    assert counts.label_todo(run, ROOM, all_batches=True) == names
+    r = cli("label-todo", "--room", ROOM, "--run", "2026-09-26")
+    assert r.returncode == 0 and f"TODO: {names[1]}" in r.stdout and "2 batches; 1 need labels" in r.stdout
+
+
+def test_count_batch_checks_one_batch_and_writes_nothing(run, h, cli):
+    ids, batches = _two_batches(run, h)
+    names = sorted(batches)
+    h.write_labels(run, ROOM, names[0], [h.label(rid, keys=["a"]) for rid in batches[names[0]]])
+    r = cli("count", "--room", ROOM, "--run", "2026-09-26", "--batch", names[0])
+    assert r.returncode == 0, r.stderr
+    assert f"{names[0]}: 3 records, 3 labels, no errors (member 3" in r.stdout
+    assert not (common.room_dir(run, ROOM) / "counts.json").exists()
+    # a record of the other batch in this file, and a missing record, are errors
+    other = batches[names[1]][0]
+    h.write_labels(run, ROOM, names[0], [h.label(rid, keys=["a"]) for rid in batches[names[0]][:2]] + [h.label(other, keys=["a"])])
+    r = cli("count", "--room", ROOM, "--run", "2026-09-26", "--batch", names[0])
+    assert r.returncode == 1 and "unknown record_id" in r.stderr and "have no label" in r.stderr
+    r = cli("count", "--room", ROOM, "--run", "2026-09-26", "--batch", names[1])
+    assert r.returncode == 2 and "No label file" in r.stderr
+    r = cli("count", "--room", ROOM, "--run", "2026-09-26", "--batch", "batch_r9_001")
+    assert r.returncode == 1 and "is not a batch of room" in r.stderr

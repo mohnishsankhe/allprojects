@@ -66,13 +66,26 @@ def _label_signature(label: dict) -> tuple:
     return (label.get("voice"), tuple(sorted(label.get("pain_keys") or [])), label.get("money"), label.get("failed_spend"))
 
 
-def load_labels(run, room: str, manifest: dict, taxonomy: dict) -> tuple:
-    """Every label of the room, validated. Returns (labels_by_id, notes)."""
+def load_labels(run, room: str, manifest: dict, taxonomy: dict, only_batch=None) -> tuple:
+    """Every label of the room, validated. Returns (labels_by_id, notes).
+
+    `only_batch`: validate just labels/<batch>.jsonl against that batch's records (a per-batch labeler's check)."""
     ldir = common.room_dir(run, room) / "labels"
-    files = sorted(ldir.glob("*.jsonl")) if ldir.exists() else []
-    if not files:
-        raise common.MissingInput(f"No label files in {common.rel(ldir)}/. The listener writes labels/<batch>.jsonl.")
-    manifest_ids = manifest_record_ids(manifest)
+    if only_batch is not None:
+        batches = manifest.get("batches") or {}
+        if only_batch not in batches:
+            raise common.ValidationErrors([f"{only_batch!r} is not a batch of room {room}. "
+                                           f"Batches: {', '.join(sorted(batches)) or 'none'}."])
+        p = ldir / f"{only_batch}.jsonl"
+        if not p.exists():
+            raise common.MissingInput(f"No label file {common.rel(p)}. Write one line per record of {only_batch}.md.")
+        files = [p]
+        manifest_ids = list(batches[only_batch])
+    else:
+        files = sorted(ldir.glob("*.jsonl")) if ldir.exists() else []
+        if not files:
+            raise common.MissingInput(f"No label files in {common.rel(ldir)}/. The listener writes labels/<batch>.jsonl.")
+        manifest_ids = manifest_record_ids(manifest)
     id_to_batch = {rid: name for name, ids in (manifest.get("batches") or {}).items() for rid in ids}
     known = set(manifest_ids)
     labels: dict = {}
@@ -211,9 +224,65 @@ def compute_counts(run, room: str) -> dict:
     }
 
 
+def label_todo(run, room: str, all_batches: bool = False) -> list:
+    """Batches that need labels: no labels file, a file that misses records of its batch or cannot be read, or a
+    pain key that is not in the taxonomy. With all_batches, every batch (after a taxonomy change)."""
+    manifest = load_manifest(run, room)
+    batches = manifest.get("batches") or {}
+    if all_batches:
+        return sorted(batches)
+    tax_path = common.room_dir(run, room) / "taxonomy.json"
+    keys = None
+    if tax_path.exists():
+        try:
+            keys = set(load_taxonomy(run, room))
+        except (common.FunnelError, ValueError):
+            keys = None
+    if keys is None:
+        return sorted(batches)
+    ldir = common.room_dir(run, room) / "labels"
+    todo = []
+    for name in sorted(batches):
+        p = ldir / f"{name}.jsonl"
+        if not p.exists():
+            todo.append(name)
+            continue
+        try:
+            rows = [r for r in common.read_jsonl(p) if isinstance(r, dict)]
+        except (common.FunnelError, ValueError):
+            todo.append(name)
+            continue
+        ids = {r.get("record_id") for r in rows}
+        stale = any(k not in keys for r in rows for k in (r.get("pain_keys") or []) if isinstance(k, str))
+        if not set(batches[name]) <= ids or stale:
+            todo.append(name)
+    return todo
+
+
+def cmd_label_todo(args) -> int:
+    run = common.run_dir(args.run)
+    room = common.check_slug(args.room, "room")
+    total = len(load_manifest(run, room).get("batches") or {})
+    todo = label_todo(run, room, all_batches=args.all)
+    why = "every batch (--all)" if args.all else "no labels, missing records, or unknown pain keys"
+    print(f"Room {room}: {total} batches; {len(todo)} need labels ({why}).")
+    print("TODO: " + (" ".join(todo) if todo else "none"))
+    return 0
+
+
 def cmd_count(args) -> int:
     run = common.run_dir(args.run)
     room = common.check_slug(args.room, "room")
+    if args.batch:
+        manifest = load_manifest(run, room)
+        labels, notes = load_labels(run, room, manifest, load_taxonomy(run, room), only_batch=args.batch)
+        by_voice = {v: sum(1 for x in labels.values() if x.get("voice") == v) for v in VOICES}
+        print(f"{args.batch}: {len(manifest['batches'][args.batch])} records, {len(labels)} labels, no errors "
+              f"(member {by_voice['member']}, seller {by_voice['seller']}, media {by_voice['media']}, "
+              f"other {by_voice['other']}). counts.json was not written (batch check only).")
+        for note in notes:
+            print(f"note: {note}")
+        return 0
     counts = compute_counts(run, room)
     out = common.room_dir(run, room) / "counts.json"
     common.write_json(out, counts)
@@ -406,7 +475,12 @@ def cmd_saturation(args) -> int:
 def register(subparsers) -> None:
     p = subparsers.add_parser("count", help="Validate a room's labels and write counts.json.")
     p.add_argument("--room", required=True, help="room slug")
+    p.add_argument("--batch", default=None, help="check only labels/<batch>.jsonl against that batch (writes nothing)")
     p.set_defaults(func=cmd_count, stage_no=STAGE)
+    t = subparsers.add_parser("label-todo", help="List the batches of a room that still need labels.")
+    t.add_argument("--room", required=True, help="room slug")
+    t.add_argument("--all", action="store_true", help="every batch (after the taxonomy changed)")
+    t.set_defaults(func=cmd_label_todo, stage_no=STAGE)
     s = subparsers.add_parser("saturation", help="Decide whether a room's last window of records changed the answer.")
     s.add_argument("--room", required=True, help="room slug")
     s.add_argument("--final", action="store_true", help="record why the room stopped (with --stop-reason)")

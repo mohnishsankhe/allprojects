@@ -1,6 +1,6 @@
 export const meta = {
   name: 'funnel-stage3-listen',
-  description: 'Stage 3: listen to saturation, one listener per room (plan -> harvest -> label rounds, then synthesize, then checkpoint)',
+  description: 'Stage 3: listen to saturation, one listener per room (plan -> harvest -> label-prep -> one labeler per batch -> label-finish rounds, then synthesize, then checkpoint)',
   phases: [{ title: 'Listen', detail: 'per room: rounds until saturated, exhausted or max rounds' }],
 }
 // args = { rooms: [slug, ...], r1: { <slug>: { queries: N, kinds: [...] } } }
@@ -25,6 +25,15 @@ const LABEL = { type: 'object', properties: {
   pains: { type: 'integer' }, saturated: { type: 'boolean' }, new_pains: { type: 'array', items: { type: 'string' } },
   rank_changes: { type: 'array', items: { type: 'string' } }, unmatched_queries: { type: 'integer' }, notes: { type: 'string' } },
   required: ['records_total', 'new_records', 'member_records', 'pains', 'saturated', 'new_pains', 'rank_changes', 'unmatched_queries', 'notes'] }
+const PREP = { type: 'object', properties: {
+  records_total: { type: 'integer' }, new_records: { type: 'integer' }, unmatched_queries: { type: 'integer' },
+  batches_to_label: { type: 'array', items: { type: 'string' } }, taxonomy_changed: { type: 'boolean' },
+  pains: { type: 'integer' }, added_pains: { type: 'array', items: { type: 'string' } }, notes: { type: 'string' } },
+  required: ['records_total', 'new_records', 'unmatched_queries', 'batches_to_label', 'taxonomy_changed', 'pains', 'added_pains', 'notes'] }
+const LBATCH = { type: 'object', properties: {
+  batch: { type: 'string' }, records: { type: 'integer' }, labels: { type: 'integer' }, member_records: { type: 'integer' },
+  check_passed: { type: 'boolean' }, suggested_pains: { type: 'array', items: { type: 'string' } }, notes: { type: 'string' } },
+  required: ['batch', 'records', 'labels', 'member_records', 'check_passed', 'suggested_pains', 'notes'] }
 const SYN = { type: 'object', properties: {
   pains_drafted: { type: 'integer' }, quotes_passing: { type: 'integer' }, records_by_kind: { type: 'string' },
   thin: { type: 'array', items: { type: 'string' } }, spend_gaps: { type: 'array', items: { type: 'string' } },
@@ -43,8 +52,27 @@ Use no other tool. Do not analyse or summarise the results. When all are done, r
 ${qs.map((q, i) => `${i + 1}. ${q}`).join('\n')}`
 }
 
+// One round of labeling: label-prep (scripts + taxonomy + which batches need labels), one labeler per batch in
+// parallel (a small fresh context each), then label-finish (count + saturation). Labelers never edit the taxonomy:
+// they suggest missing pains, and the next round's label-prep decides.
+async function labelRound(slug, round, suggestions) {
+  const prep = await agent(`${base(slug)}\nMODE: label-prep. ROUND: ${round}.${suggestions.length ? ` Pains the labelers suggested last round: ${JSON.stringify(suggestions)}.` : ''}`,
+    { agentType: 'funnel-listener', ...OPUS, schema: PREP, label: `prep:${slug}:r${round}`, phase: 'Listen' })
+  if (!prep) return null
+  const todo = (prep.batches_to_label || []).filter(b => /^batch_r\d+_\d+$/.test(b))
+  const kind = prep.taxonomy_changed ? 'relabel' : 'label'
+  const done = await parallel(todo.map(b => () => agent(`${base(slug)}\nMODE: label-batch. ROUND: ${round}. BATCH: ${b}.`,
+    { agentType: 'funnel-listener', ...OPUS, schema: LBATCH, label: `${kind}:${slug}:r${round}:${b}`, phase: 'Listen' })))
+  const failed = todo.filter((b, i) => !done[i] || !done[i].check_passed)
+  const suggested = [...new Set(done.filter(Boolean).flatMap(x => x.suggested_pains || []))]
+  const lab = await agent(`${base(slug)}\nMODE: label-finish. ROUND: ${round}.${failed.length ? ` These batches have no checked labels (their labeler failed); label them first: ${failed.join(', ')}.` : ''}`,
+    { agentType: 'funnel-listener', ...OPUS, schema: LABEL, label: `finish:${slug}:r${round}`, phase: 'Listen' })
+  if (!lab) return null
+  return { prep, lab, labeled: todo.length, failed, suggested }
+}
+
 async function listen(slug) {
-  let round = 1, stop = null
+  let round = 1, stop = null, suggestions = []
   const history = []
   while (true) {
     let nq, kinds
@@ -62,18 +90,20 @@ async function listen(slug) {
       for (let i = 0; i < plan.queries.length; i += CHUNK) chunks.push(plan.queries.slice(i, i + CHUNK))
       await parallel(chunks.map((qs, ci) => () => agent(harvestPrompt(qs), { ...OPUS, label: `harvest:${slug}:r${round}:${ci}`, phase: 'Listen' })))
     }
-    const lab = await agent(`${base(slug)}\nMODE: label. ROUND: ${round}. Run harvest-search, batches, label every new batch (relabel all batches if the taxonomy changed), then count and saturation. Report the numbers exactly as the scripts printed them.`,
-      { agentType: 'funnel-listener', ...OPUS, schema: LABEL, label: `label:${slug}:r${round}`, phase: 'Listen' })
-    if (!lab) { stop = 'error'; break }
-    history.push({ round, queries: nq, kinds, records_total: lab.records_total, new_records: lab.new_records, member_records: lab.member_records, pains: lab.pains, saturated: lab.saturated, new_pains: lab.new_pains, rank_changes: lab.rank_changes.length, unmatched: lab.unmatched_queries })
-    log(`${slug} r${round}: ${lab.records_total} records (+${lab.new_records}), ${lab.pains} pains, saturated=${lab.saturated}`)
-    if (lab.saturated && lab.records_total >= MIN_RECORDS) { stop = 'saturated'; break }
+    const lr = await labelRound(slug, round, suggestions)
+    if (!lr) { stop = 'error'; break }
+    const lab = lr.lab
+    suggestions = lr.suggested
+    history.push({ round, queries: nq, kinds, records_total: lab.records_total, new_records: lab.new_records, member_records: lab.member_records, pains: lab.pains, saturated: lab.saturated, new_pains: lab.new_pains, rank_changes: lab.rank_changes.length, unmatched: lab.unmatched_queries, batches_labeled: lr.labeled, taxonomy_changed: lr.prep.taxonomy_changed, suggested_pains: suggestions.length })
+    log(`${slug} r${round}: ${lab.records_total} records (+${lab.new_records}), ${lab.pains} pains, ${lr.labeled} batches labeled, saturated=${lab.saturated}, suggested pains=${suggestions.length}`)
+    // A labeler's suggested pain means the latest records may hold a pain the taxonomy lacks: not saturated yet.
+    if (lab.saturated && lab.records_total >= MIN_RECORDS && suggestions.length === 0) { stop = 'saturated'; break }
     if (round > 1 && lab.new_records < EXHAUSTED) { stop = 'exhausted'; break }
     if (round >= MAX_ROUNDS) { stop = 'max_rounds'; break }
     round++
   }
   // A failed step is not a finished room: skip the synthesis so the room can be resumed from where it stopped.
-  const syn = stop === 'error' ? null : await agent(`${base(slug)}\nMODE: synthesize. STOP REASON: ${stop} (use it in funnel saturation --final --stop-reason; if the script refuses 'saturated', use what it accepts and say so). Rounds: ${JSON.stringify(history)}.`,
+  const syn = stop === 'error' ? null : await agent(`${base(slug)}\nMODE: synthesize. STOP REASON: ${stop} (use it in funnel saturation --final --stop-reason; if the script refuses 'saturated', use what it accepts and say so). Rounds: ${JSON.stringify(history)}.${suggestions.length ? ` Pains the labelers suggested in the last round that the taxonomy does not have: ${JSON.stringify(suggestions)}. List them in sources.json under "suggested_pains_not_added", one line each, so the founder sees them.` : ''}`,
     { agentType: 'funnel-listener', ...OPUS, schema: SYN, label: `synth:${slug}`, phase: 'Listen' })
   const cp = await agent(`Run exactly this shell command once and reply with its output only:\nbash ${F}/pipeline/checkpoint.sh ${RUNREL} "Stage 3 room ${slug} (${stop}, ${history.length} rounds)"`,
     { ...OPUS, label: `checkpoint:${slug}`, phase: 'Listen' })
