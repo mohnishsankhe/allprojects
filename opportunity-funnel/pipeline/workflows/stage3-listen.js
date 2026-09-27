@@ -28,9 +28,12 @@ const LABEL = { type: 'object', properties: {
   required: ['records_total', 'new_records', 'member_records', 'pains', 'saturated', 'new_pains', 'rank_changes', 'unmatched_queries', 'notes'] }
 const PREP = { type: 'object', properties: {
   records_total: { type: 'integer' }, new_records: { type: 'integer' }, unmatched_queries: { type: 'integer' },
-  batches_to_label: { type: 'array', items: { type: 'string' } }, taxonomy_changed: { type: 'boolean' },
-  pains: { type: 'integer' }, added_pains: { type: 'array', items: { type: 'string' } }, notes: { type: 'string' } },
-  required: ['records_total', 'new_records', 'unmatched_queries', 'batches_to_label', 'taxonomy_changed', 'pains', 'added_pains', 'notes'] }
+  batches_to_label: { type: 'array', items: { type: 'string' } }, packs_to_check: { type: 'array', items: { type: 'string' } },
+  taxonomy_changed: { type: 'boolean' }, pains: { type: 'integer' }, added_pains: { type: 'array', items: { type: 'string' } }, notes: { type: 'string' } },
+  required: ['records_total', 'new_records', 'unmatched_queries', 'batches_to_label', 'packs_to_check', 'taxonomy_changed', 'pains', 'added_pains', 'notes'] }
+const LPACK = { type: 'object', properties: {
+  pack: { type: 'string' }, records: { type: 'integer' }, changed: { type: 'integer' }, check_passed: { type: 'boolean' }, notes: { type: 'string' } },
+  required: ['pack', 'records', 'changed', 'check_passed', 'notes'] }
 const LBATCH = { type: 'object', properties: {
   batch: { type: 'string' }, records: { type: 'integer' }, labels: { type: 'integer' }, member_records: { type: 'integer' },
   check_passed: { type: 'boolean' }, suggested_pains: { type: 'array', items: { type: 'string' } }, notes: { type: 'string' } },
@@ -53,23 +56,31 @@ Use no other tool. Do not analyse or summarise the results. When all are done, r
 ${qs.map((q, i) => `${i + 1}. ${q}`).join('\n')}`
 }
 
-// One round of labeling: label-prep (scripts + taxonomy + which batches need labels), one labeler per batch in
-// parallel (a small fresh context each), then label-finish (count + saturation). Labelers never edit the taxonomy:
+// One round of labeling: label-prep (scripts + taxonomy + which batches need labels), one labeler per new batch and
+// one re-check labeler per pack of earlier member records (when pains were added) in parallel, each with a small fresh
+// context, then label-finish (apply the re-check patches, count, saturation). Labelers never edit the taxonomy:
 // they suggest missing pains, and the next round's label-prep decides.
 async function labelRound(slug, round, suggestions) {
-  const prep = await agent(`${base(slug)}\nMODE: label-prep. ROUND: ${round}.${suggestions.length ? ` Pains the labelers suggested last round: ${JSON.stringify(suggestions)}.` : ''}`,
+  const prep = await agent(`${base(slug)}\nMODE: label-prep. ROUND: ${round}. PACKS: yes.${suggestions.length ? ` Pains the labelers suggested last round: ${JSON.stringify(suggestions)}.` : ''}`,
     { agentType: 'funnel-listener', ...OPUS, schema: PREP, label: `prep:${slug}:r${round}`, phase: 'Listen' })
   if (!prep) return null
   const todo = (prep.batches_to_label || []).filter(b => /^batch_r\d+_\d+$/.test(b))
-  const kind = prep.taxonomy_changed ? 'relabel' : 'label'
-  const done = await parallel(todo.map(b => () => agent(`${base(slug)}\nMODE: label-batch. ROUND: ${round}. BATCH: ${b}.`,
-    { agentType: 'funnel-listener', ...OPUS, schema: LBATCH, label: `${kind}:${slug}:r${round}:${b}`, phase: 'Listen' })))
-  const failed = todo.filter((b, i) => !done[i] || !done[i].check_passed)
+  const packs = (prep.packs_to_check || []).filter(b => /^pack_r\d+_\d+$/.test(b))
+  const kind = prep.taxonomy_changed && packs.length === 0 ? 'relabel' : 'label'
+  const jobs = [
+    ...todo.map(b => () => agent(`${base(slug)}\nMODE: label-batch. ROUND: ${round}. BATCH: ${b}.`,
+      { agentType: 'funnel-listener', ...OPUS, schema: LBATCH, label: `${kind}:${slug}:r${round}:${b}`, phase: 'Listen' })),
+    ...packs.map(k => () => agent(`${base(slug)}\nMODE: label-pack. ROUND: ${round}. PACK: ${k}.`,
+      { agentType: 'funnel-listener', ...OPUS, schema: LPACK, label: `recheck:${slug}:r${round}:${k}`, phase: 'Listen' })),
+  ]
+  const results = await parallel(jobs)
+  const done = results.slice(0, todo.length), checked = results.slice(todo.length)
+  const failed = [...todo.filter((b, i) => !done[i] || !done[i].check_passed), ...packs.filter((k, i) => !checked[i] || !checked[i].check_passed)]
   const suggested = [...new Set(done.filter(Boolean).flatMap(x => x.suggested_pains || []))]
-  const lab = await agent(`${base(slug)}\nMODE: label-finish. ROUND: ${round}.${failed.length ? ` These batches have no checked labels (their labeler failed); label them first: ${failed.join(', ')}.` : ''}`,
+  const lab = await agent(`${base(slug)}\nMODE: label-finish. ROUND: ${round}.${failed.length ? ` These batches or packs have no checked labels or patch (their labeler failed); do them first: ${failed.join(', ')}.` : ''}`,
     { agentType: 'funnel-listener', ...OPUS, schema: LABEL, label: `finish:${slug}:r${round}`, phase: 'Listen' })
   if (!lab) return null
-  return { prep, lab, labeled: todo.length, failed, suggested }
+  return { prep, lab, labeled: todo.length, rechecked: packs.length, failed, suggested }
 }
 
 async function listen(slug) {
@@ -96,7 +107,7 @@ async function listen(slug) {
     if (!lr) { stop = 'error'; break }
     const lab = lr.lab
     suggestions = lr.suggested
-    history.push({ round, queries: nq, kinds, records_total: lab.records_total, new_records: lab.new_records, member_records: lab.member_records, pains: lab.pains, saturated: lab.saturated, new_pains: lab.new_pains, rank_changes: lab.rank_changes.length, unmatched: lab.unmatched_queries, batches_labeled: lr.labeled, taxonomy_changed: lr.prep.taxonomy_changed, suggested_pains: suggestions.length })
+    history.push({ round, queries: nq, kinds, records_total: lab.records_total, new_records: lab.new_records, member_records: lab.member_records, pains: lab.pains, saturated: lab.saturated, new_pains: lab.new_pains, rank_changes: lab.rank_changes.length, unmatched: lab.unmatched_queries, batches_labeled: lr.labeled, packs_rechecked: lr.rechecked, taxonomy_changed: lr.prep.taxonomy_changed, suggested_pains: suggestions.length })
     log(`${slug} r${round}: ${lab.records_total} records (+${lab.new_records}), ${lab.pains} pains, ${lr.labeled} batches labeled, saturated=${lab.saturated}, suggested pains=${suggestions.length}`)
     // Saturated only from round 2, with every planned query searched (an interrupted harvest leaves unmatched queries),
     // and with no pain a labeler suggested (the latest records may hold a pain the taxonomy lacks).

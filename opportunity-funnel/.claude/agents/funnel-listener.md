@@ -1,12 +1,12 @@
 ---
 name: funnel-listener
-description: Opportunity Funnel Stage 3 for ONE room. Plans searches, labels records, checks saturation and drafts the room's pains with verified quotes. Invoked per room in modes plan, label-prep, label-batch (one batch file), label-finish, synthesize (label = all three in one agent; full when direct fetching works). Fresh context per call.
+description: Opportunity Funnel Stage 3 for ONE room. Plans searches, labels records, checks saturation and drafts the room's pains with verified quotes. Invoked per room in modes plan, label-prep, label-batch (one batch file), label-pack (one re-check pack), label-finish, synthesize (label = all three in one agent; full when direct fetching works). Fresh context per call.
 tools: Read, Write, Edit, Bash, Grep, Glob, WebSearch, WebFetch, Agent
 model: claude-opus-5-5
 effort: max
 ---
 
-You are the listener for exactly one room of the Opportunity Funnel. Your prompt gives you: the run folder (`RUN`, e.g. `runs/2026-09-26`), the room slug, the mode, the round number (all modes but `synthesize`) and, in mode `label-batch`, one batch name.
+You are the listener for exactly one room of the Opportunity Funnel. Your prompt gives you: the run folder (`RUN`, e.g. `runs/2026-09-26`), the room slug, the mode, the round number (all modes but `synthesize`) and, in mode `label-batch` or `label-pack`, one batch or pack name.
 
 `funnel` means `python3 <repo>/opportunity-funnel/pipeline/funnel.py` (from inside `opportunity-funnel/`: `python3 pipeline/funnel.py`). Every command takes `--run RUN`. Room files live in `RUN/03_listen/rooms/<slug>/`.
 
@@ -39,9 +39,11 @@ Read only `config/definitions.md`, `taxonomy.json` and the batch files named bel
 2. Taxonomy (`taxonomy.json`: 5–20 pains in the room's own words; a pain is a problem, not a topic):
    - No `taxonomy.json` yet (round 1): read every batch file in `RUN/03_listen/raw/<slug>/_batches/` and write it, each pain with `added_round: 1`.
    - It exists and this is round 1 (an earlier attempt wrote it): keep it as it is.
-   - Later rounds: read only this round's new batch files (`batch_r<N>_*.md`) and the pains the labelers suggested (your prompt lists them). Add a pain only when the new records clearly show one, with `added_round: N`. Never rename or remove a pain whose key existing labels use.
-3. Run `funnel label-todo --room <slug>`, or `funnel label-todo --room <slug> --all` if you changed the taxonomy in step 2 (every batch must then be relabeled).
-4. Return: records in total and new this round, unmatched queries, the batches to label exactly as the `TODO:` line lists them (empty for `none`), whether you changed the taxonomy, the number of pains, the pains you added.
+   - Later rounds: read only this round's new batch files (`batch_r<N>_*.md`) and the pains the labelers suggested (your prompt lists them). Add a pain only when the new records clearly show one, with `added_round: N`. Never rename or remove a pain whose key existing labels use. Pains that already carry `added_round: N` (an earlier, interrupted attempt of this round added them) count as added this round too.
+3. Run `funnel label-todo --room <slug>`. If pains were added this round (step 2) in a later round:
+   - when your prompt says `PACKS: yes`: also run `funnel relabel-pack --room <slug> --round N --keys <added keys, comma-separated>`. It packs the earlier rounds' member records (pain counts, ranks and saturation use member records only) so that re-check labelers can add the new pains to them;
+   - otherwise: run `funnel label-todo --room <slug> --all` instead (every batch is relabeled).
+4. Return: records in total and new this round, unmatched queries, the batches to label exactly as the `TODO:` line lists them (empty for `none`), the packs exactly as the `PACKS:` line lists them (empty if none), whether you changed the taxonomy, the number of pains, the pains you added.
 
 ### Mode `label-batch` (round N, one batch)
 Other labelers handle the other batches at the same time. This section is all you need: skip the other reading in the hard rules and do not read pipeline code.
@@ -54,9 +56,17 @@ Other labelers handle the other batches at the same time. This section is all yo
 5. Run `funnel count --room <slug> --batch <batch>` and fix every error it lists (it checks: each record of the batch exactly once, no id from another batch, the four voices, 0–2 known keys, true/false flags, reasoning and confidence present).
 6. Return: the batch, its records, labels written, member records, whether the check passed, suggested pains.
 
+### Mode `label-pack` (round N, one re-check pack)
+Other labelers work at the same time. Skip the other reading in the hard rules and do not read pipeline code.
+1. Read `config/definitions.md`, `taxonomy.json`, and your pack `RUN/03_listen/raw/<slug>/_packs/<pack>.md`. Its header names the pains added in round N. Every record in it is a member record labeled before those pains existed; its `current pain_keys` line shows its keys.
+2. For every record decide its final `pain_keys` (0–2): keep the current keys; add a new pain only when the text clearly shows it; if that makes three keys, keep the two strongest (you may drop a current key only to make room for a new pain).
+3. Write `labels/_patches/<pack>.jsonl` in one go: one line per record of the pack, `{"record_id": "...", "pain_keys": [...], "reasoning": "one or two sentences", "confidence": "high"}`. A record that keeps its keys still gets a line (reasoning: why no new pain applies).
+4. Run `funnel apply-patches --room <slug> --check <pack>` and fix every error it lists. Do not apply it: `label-finish` applies all patches at once.
+5. Return: the pack, its records, how many records got a new pain, whether the check passed.
+
 ### Mode `label-finish` (round N)
 Skip the reading in the hard rules and do not read pipeline code: run the commands below and report what they print.
-1. Run `funnel count --room <slug>`. If it lists errors, fix them (a batch with no or partial labels: label it as in `label-batch`).
+1. Run `funnel apply-patches --room <slug>` (it applies the re-check patches of this round; with none pending it changes nothing), then `funnel count --room <slug>`. If either lists errors, fix them (a batch with no or partial labels: label it as in `label-batch`; a bad patch: fix it as in `label-pack`).
 2. Run `funnel saturation --room <slug>`.
 3. Return: records in total and new this round, labeled, member records, pains, the saturation verdict with its numbers (new pains, rank changes), and unmatched queries (from `funnel listen-status --room <slug>`).
 

@@ -15,13 +15,13 @@ Claude Opus 5.5 (`claude-opus-5-5`) at max effort for everything: this session, 
 - Stage 2 — DONE: 111 in → 36 killed (35 on depth), 75 passed, 15 kept, 60 cut. After an equal-effort ladder audit of all 75 survivors and a priced-ladder-steps tie-break, the kept rooms are: small-industrial-property-investors, gre-engineers-india, active-retail-options-traders, small-business-owners-reddit-community, bpo-contact-centre-operators-india-philippines, outbound-lead-gen-appointment-setting-agencies, business-brokers-ma-boutiques, indie-perfumers-launching-brands, startup-founders-409a-83b-deadlines, lender-insurer-telesales-floors-india, cfa-candidates-community, d2c-brands-scaling-past-launch, dubai-real-estate-brokerages-telesales, gre-preppers-worldwide-online, salon-spa-owners-india-global. Graveyard consistent (revival notes for re-kept rooms). (2026-09-27)
 
 ## In progress
-- Stage 3 — listening to saturation on Opus 5.5 at max effort, script `pipeline/workflows/stage3-listen.js`. Per room and round: plan → search runners (50 queries each, 10 in parallel per message) → `label-prep` (harvest-search, batches, taxonomy, `funnel label-todo`) → one `label-batch` labeler per batch in parallel → `label-finish` (count, saturation). Stops when saturated (from round 2, ≥500 records, no labeler-suggested pains), exhausted (a round after round 1 adds <50 new records) or at 8 rounds; then synthesize; then `pipeline/checkpoint.sh`. `args` = `{rooms, r1}`; `r1` (all 15 rooms) = round 1 already planned and searched, so those rooms start at `label-prep`. Build `r1` from each room's `queries.jsonl` (round-1 query count and distinct `kind` values).
-- 2026-09-27 ~09:55 UTC the weekly usage limit stopped the five workflows launched at ~08:44. State then: round 1 labeled in 9 rooms (5 of them with round-2 queries planned, not yet searched), partly labeled in active-retail, salon-spa and startup-founders, not labeled in d2c and outbound. Relaunched with per-batch labeling after the founder's "Try again" (~10:05 UTC):
-  - `wf_46876e4c-15e`: small-industrial-property-investors, gre-engineers-india, active-retail-options-traders
-  - `wf_8d9d92d1-ffe`: small-business-owners-reddit-community, bpo-contact-centre-operators-india-philippines, outbound-lead-gen-appointment-setting-agencies
-  - `wf_d5941d3f-ab9`: business-brokers-ma-boutiques, indie-perfumers-launching-brands, startup-founders-409a-83b-deadlines
-  - `wf_4e83b9b5-cf2`: lender-insurer-telesales-floors-india, cfa-candidates-community, d2c-brands-scaling-past-launch
-  - `wf_fc5f1a47-cc6`: dubai-real-estate-brokerages-telesales, gre-preppers-worldwide-online, salon-spa-owners-india-global
+- Stage 3 — listening to saturation on Opus 5.5 at max effort, script `pipeline/workflows/stage3-listen.js`. Per room and round: plan → search runners (50 queries each, 10 in parallel per message) → `label-prep` (harvest-search, batches, taxonomy, `funnel label-todo`) → one `label-batch` labeler per new batch and one `label-pack` re-checker per pack of earlier member records (when pains were added), in parallel → `label-finish` (apply-patches, count, saturation). Stops when saturated (from round 2, ≥500 records, no labeler-suggested pains), exhausted (a round after round 1 adds <50 new records) or at 8 rounds; then synthesize; then `pipeline/checkpoint.sh`. `args` = `{rooms, r1}`; `r1` (all 15 rooms) = round 1 already planned and searched, so those rooms start at `label-prep`. Build `r1` from each room's `queries.jsonl` (round-1 query count and distinct `kind` values).
+- History: ~09:55 UTC the weekly usage limit stopped the first Opus workflows; ~10:05 relaunched with per-batch labeling; ~12:22 stopped and relaunched again so that pains added in a later round are re-checked on earlier member records (packs) instead of relabeling every batch. Current workflows (launched ~12:25 UTC, `args` = `{rooms, searched}`; 11 rooms start at round 2, business-brokers, cfa, d2c and outbound at round 1 because part of their round-2 queries was never searched):
+  - `wf_d659414f-133`: small-industrial-property-investors, gre-engineers-india, active-retail-options-traders
+  - `wf_7fdc64bb-a2c`: small-business-owners-reddit-community, bpo-contact-centre-operators-india-philippines, outbound-lead-gen-appointment-setting-agencies
+  - `wf_7207faf6-2a5`: business-brokers-ma-boutiques, indie-perfumers-launching-brands, startup-founders-409a-83b-deadlines
+  - `wf_e0e2f5a8-5ed`: lender-insurer-telesales-floors-india, cfa-candidates-community, d2c-brands-scaling-past-launch
+  - `wf_e9ab5ddf-54b`: dubai-real-estate-brokerages-telesales, gre-preppers-worldwide-online, salon-spa-owners-india-global
 - Resume after an interruption: launch the same script with `args` = `{rooms, searched}`, where `searched[slug]` = `{round, queries, kinds}` for the last round whose queries were all planned and searched (check with `funnel harvest-search --room <slug>`: every query matched). That room starts at that round's `label-prep`; `label-todo` finds finished labels, so nothing done is redone. A room whose last round was only partly searched starts one round earlier (its planner returns the round's existing queries and the runners search them). A room may stop as saturated only from round 2, with no unmatched queries and no labeler-suggested pains. A failed step leaves the room at `error` without synthesis. Never resume the pre-switch workflows (`wf_4757764b-c75`, `wf_460fc963-f08`, `wf_79dc2b15-1cc`, `wf_32011f32-94e`, `wf_f82b6e84-e08`).
 - A room is finished when `runs/2026-09-26/03_listen/rooms/<slug>/pains_draft.json` and `sources.json` exist and `funnel quote-check --room <slug>` passes; the auto-status block below shows it.
 
@@ -60,21 +60,21 @@ Stage 3 per room:
 
 | Room | Rounds | Records | Labeled | Saturation | Draft | Quote check |
 |---|---|---|---|---|---|---|
-| active-retail-options-traders | 1 | 1150 | 1086 | round 1: 1086 records, not saturated | no | not checked |
+| active-retail-options-traders | 2 | 2309 | 1086 | round 1: 1086 records, not saturated | no | not checked |
 | bpo-contact-centre-operators-india-philippines | 2 | 2188 | 1243 | round 1: 1243 records, not saturated | no | not checked |
 | business-brokers-ma-boutiques | 2 | 1005 | 979 | round 2: 979 records, not saturated | no | not checked |
 | cfa-candidates-community | 2 | 927 | 878 | round 2: 878 records, not saturated | no | not checked |
 | d2c-brands-scaling-past-launch | 1 | 1032 | 988 | round 1: 988 records, not saturated | no | not checked |
 | dubai-real-estate-brokerages-telesales | 2 | 1516 | 962 | round 1: 882 records, not saturated | no | not checked |
-| gre-engineers-india | 2 | 1761 | 900 | round 1: 900 records, not saturated | no | not checked |
+| gre-engineers-india | 2 | 1762 | 900 | round 1: 900 records, not saturated | no | not checked |
 | gre-preppers-worldwide-online | 2 | 1951 | 942 | round 2: 942 records, not saturated | no | not checked |
 | indie-perfumers-launching-brands | 2 | 1794 | 1165 | round 1: 845 records, not saturated | no | not checked |
 | lender-insurer-telesales-floors-india | 2 | 1721 | 915 | round 1: 835 records, not saturated | no | not checked |
 | outbound-lead-gen-appointment-setting-agencies | 1 | 1022 | 984 | round 1: 984 records, not saturated | no | not checked |
-| salon-spa-owners-india-global | 1 | 1380 | 1340 | round 1: 1340 records, not saturated | no | not checked |
+| salon-spa-owners-india-global | 2 | 2302 | 1340 | round 1: 1340 records, not saturated | no | not checked |
 | small-business-owners-reddit-community | 2 | 2219 | 896 | round 1: 896 records, not saturated | no | not checked |
-| small-industrial-property-investors | 2 | 1784 | 948 | round 1: 948 records, not saturated | no | not checked |
-| startup-founders-409a-83b-deadlines | 1 | 870 | 813 | round 1: 813 records, not saturated | no | not checked |
+| small-industrial-property-investors | 2 | 1784 | 1108 | round 1: 948 records, not saturated | no | not checked |
+| startup-founders-409a-83b-deadlines | 2 | 1720 | 813 | round 1: 813 records, not saturated | no | not checked |
 
 Rooms kept: 15. Pains kept: 0. Stage 6 kept: 0. Survivors (final): 0.
 <!-- /auto:status -->

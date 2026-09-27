@@ -37,9 +37,9 @@ Arguments: `$ARGUMENTS`. `--run` reuses a run folder (resume). `--only-room <slu
 For each kept room, loop over rounds r = 1, 2, … until saturated, exhausted (a round adds fewer than `exhausted_round_new_records`) or `max_rounds`:
 1. `funnel-listener`, mode `plan`, round r → new queries in `queries.jsonl`.
 2. Harvest: split the round's queries into groups of about 50; one plain agent per group runs each query with WebSearch exactly as written, 10 in parallel per message (nothing else). Their results land in the session transcripts.
-3. `funnel-listener`, mode `label-prep`, round r → `harvest-search`, `batches`, the taxonomy, and the batches to label (`funnel label-todo`).
-4. One `funnel-listener` per listed batch, mode `label-batch`, in parallel → `labels/<batch>.jsonl`, checked with `funnel count --room R --batch B`. Labelers never edit the taxonomy; they suggest missing pains.
-5. `funnel-listener`, mode `label-finish`, round r → `count`, `saturation`. A round in which labelers suggested a pain is not saturated; the next `label-prep` decides on the suggestions.
+3. `funnel-listener`, mode `label-prep`, round r → `harvest-search`, `batches`, the taxonomy, the batches to label (`funnel label-todo`) and, when it added pains in a later round, packs of earlier member records to re-check (`funnel relabel-pack`).
+4. One `funnel-listener` per listed batch, mode `label-batch`, and one per pack, mode `label-pack`, in parallel → `labels/<batch>.jsonl` (checked with `funnel count --room R --batch B`) and `labels/_patches/<pack>.jsonl` (checked with `funnel apply-patches --room R --check P`). Labelers never edit the taxonomy; they suggest missing pains.
+5. `funnel-listener`, mode `label-finish`, round r → `apply-patches`, `count`, `saturation`. A round in which labelers suggested a pain is not saturated; the next `label-prep` decides on the suggestions.
 Then `funnel-listener`, mode `synthesize` (with the stop reason) → `pains_draft.json`, `sources.json`, quotes checked. Checkpoint after each room. The workflow `pipeline/workflows/stage3-listen.js` runs all of this per room.
 When all rooms are done: `funnel pains`. Checkpoint.
 
