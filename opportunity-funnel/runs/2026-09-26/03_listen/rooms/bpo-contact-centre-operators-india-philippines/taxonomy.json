@@ -1,0 +1,115 @@
+{
+  "room": "bpo-contact-centre-operators-india-philippines",
+  "pains": [
+    {
+      "key": "genuine-projects-no-upfront",
+      "label": "Finding genuine projects from direct clients, without upfront fees or brokers",
+      "definition": "Small operators hunting for real voice or non-voice campaigns. Most offers come through middlemen or ask for upfront money. Forum posts, Quora questions and 'how to get international clients' videos.",
+      "added_round": 1
+    },
+    {
+      "key": "fake-projects-and-consultants",
+      "label": "Fake project providers and consultants take upfront money and vanish",
+      "definition": "Operators who paid a consultancy or 'direct client' for a process that turned out fake, and want their money back. Includes questions about how to tell fraud projects from real ones.",
+      "added_round": 1
+    },
+    {
+      "key": "client-not-paying",
+      "label": "Client pays late or doesn't pay for seats already worked",
+      "definition": "Delayed or missing payouts from the client after the campaign ran. Chasing invoices, wanting a fixed payout, the stress of late payment.",
+      "added_round": 1
+    },
+    {
+      "key": "numbers-flagged-spam",
+      "label": "Outbound numbers show as 'Spam Likely' or get blocked, so nobody picks up",
+      "definition": "Carrier labels, Truecaller, STIR/SHAKEN and TRAI 140/160-series rules cut contact rates on outbound campaigns. Operators ask how to un-flag numbers.",
+      "added_round": 1
+    },
+    {
+      "key": "agent-attrition",
+      "label": "Agents keep leaving; hiring, training and absenteeism eat the margin",
+      "definition": "High attrition and shrinkage on the floor, first-day ghosting, the cost of replacing agents. Site heads call it a nightmare.",
+      "added_round": 1
+    },
+    {
+      "key": "dialer-dropped-calls-setup",
+      "label": "Dialer trouble: dropped calls, dead air, carrier disconnects, setup and configuration",
+      "definition": "Technical failures on VICIdial and similar dialers that stop the floor: random disconnects, 0-second drops, agent phone not ringing, dial-plan issues, fresh setup for a new centre.",
+      "added_round": 1
+    },
+    {
+      "key": "dialer-telephony-cost",
+      "label": "Choosing a dialer or cloud telephony and knowing what it really costs",
+      "definition": "Which dialer, VoIP or cloud contact-centre software to buy in India, per-seat pricing, hidden costs, hosted versus self-hosted, whether it is worth it.",
+      "added_round": 1
+    },
+    {
+      "key": "passing-client-qa-audits",
+      "label": "Scoring calls and passing the client's quality audits",
+      "definition": "Manual call audits in Excel, agents failing QA, scorecards and metrics, hiring quality analysts, buying QA or auto-QA software so the client's audit passes.",
+      "added_round": 1
+    },
+    {
+      "key": "clients-want-ai-or-lower-price",
+      "label": "Clients ask for AI or a lower price per seat; AI voice agents threaten the seat model",
+      "definition": "Pressure to add AI voice agents or auto-QA, move to outcome-based pricing, or lose the contract. Fear that AI replaces call centres and BPO jobs.",
+      "added_round": 1
+    },
+    {
+      "key": "setup-cost-and-margin",
+      "label": "Setup cost, cost per seat and whether the margin is worth it",
+      "definition": "What it costs to set up or run a centre in India or the Philippines, seat leasing and office cost, profit per seat, pricing models, is the business still profitable.",
+      "added_round": 1
+    },
+    {
+      "key": "iso-pci-certification",
+      "label": "ISO 27001 or PCI DSS certification clients demand: cost, consultants and deadlines",
+      "definition": "Certification cost in India and the Philippines, which standard applies, PCI DSS v4.0 future-dated requirements and the ISO 27001:2022 transition deadline, PCI-compliant payment handling on calls.",
+      "added_round": 1
+    },
+    {
+      "key": "licences-and-registration",
+      "label": "Licences, registrations and rule changes: OSP/DoT, TRAI DLT, PEZA, NPC/DPO, DPDP Act, TCPA consent, work-from-home limits",
+      "definition": "The paperwork and rules an operator must follow to run legally or keep incentives: OSP registration, TRAI DLT and telemarketing rules, PEZA registration and WFH share, NPC/DPO registration, DPDP Act readiness, US TCPA consent rules.",
+      "added_round": 1
+    },
+    {
+      "key": "night-pay-and-labour-rules",
+      "label": "Night differential, labour-law compliance and unpaid-staff accusations",
+      "definition": "Labour Code obligations such as night shift differential, DOLE probes into call-centre labour violations, staff left unpaid when a centre closes.",
+      "added_round": 1
+    },
+    {
+      "key": "scam-stigma-distrust",
+      "label": "Scam call centres tarnish the industry; clients and customers distrust offshore centres",
+      "definition": "Reputational damage from scam busts and fraud news, stereotypes about Indian and Filipino call centres, buyers who hate overseas support.",
+      "added_round": 1
+    },
+    {
+      "key": "insider-fraud-data-theft",
+      "label": "Agents or fake hires steal data or money; clients demand fraud controls",
+      "definition": "Insider fraud, hiring fraud, data theft and social engineering inside the centre, fraud-risk assessment and prevention that clients expect.",
+      "added_round": 1
+    },
+    {
+      "key": "sla-penalties-and-outages",
+      "label": "Missing client SLAs and paying penalties when internet or power drops or staffing falls short",
+      "definition": "SLA metrics and penalty clauses, internet and power outages in the Philippines, downtime communication, business continuity.",
+      "added_round": 1
+    },
+    {
+      "key": "wfm-scheduling-shrinkage",
+      "label": "Forecasting, scheduling and shrinkage: keeping seats filled to hit client hours",
+      "definition": "Workforce management software, seat utilisation, shrinkage formulas, hiring WFM and real-time analysts.",
+      "added_round": 1
+    },
+    {
+      "key": "nasscom-ccap-membership",
+      "label": "Joining NASSCOM or CCAP to be seen by enterprise buyers: fees and paperwork",
+      "definition": "Industry body membership fee slabs, eligibility and application process, consultants who help get the certificate.",
+      "added_round": 1
+    }
+  ],
+  "reasoning": "Pains are drawn from the 1175 round-1 search titles. Each is a problem the operator faces, phrased the way the forum, Quora and vendor titles phrase it. Topics with no problem behind them (industry overviews, agent job guides, wrong-CCAP pages) got no pain.",
+  "confidence": "moderate"
+}

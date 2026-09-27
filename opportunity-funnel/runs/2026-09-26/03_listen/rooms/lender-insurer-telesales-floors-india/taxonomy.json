@@ -1,0 +1,119 @@
+{
+  "room": "lender-insurer-telesales-floors-india",
+  "round_written": 1,
+  "note": "Pains in the floor heads' own words. Records this round are web-search titles only, so most voices are seller, media or other; member voice is thin and comes mainly from lenders' and insurers' own job posts and a few Quora questions.",
+  "pains": [
+    {
+      "key": "number-flagged-spam",
+      "label": "Our calling numbers get marked spam and blocked",
+      "definition": "Truecaller and phone apps flag the floor's numbers as spam and telcos block them, so borrowers and prospects do not pick up. Heads pay for a verified business caller ID to fix it.",
+      "added_round": 1,
+      "reasoning": "A Quora asker collecting dues says debtors mark his number spam; resellers price Truecaller Verified Business Caller ID at Rs 1,000 to Rs 20,000; TRAI news covers apps blocking business calls.",
+      "confidence": "high"
+    },
+    {
+      "key": "contact-rate-low",
+      "label": "Borrowers don't pick up; contact rate keeps falling",
+      "definition": "Reminder, renewal and collection calls go unanswered. Right-party contact and answer rates fall, so recovery and conversion fall with them.",
+      "added_round": 1,
+      "reasoning": "Vendor and LinkedIn pieces on pick-up rates, connect rates and right-party contact for collections; borrower-side content on dodging loan calls is the other side of it.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "160-series-mandate",
+      "label": "We must move every call to 160/1600 numbers by TRAI's deadline",
+      "definition": "TRAI banned 10-digit numbers for business calls. Lenders and insurers must get 160 or 1600-series numbers, move their dialers and meet phased deadlines, and the how-to is unclear.",
+      "added_round": 1,
+      "reasoning": "Many vendor guides aimed at banks, NBFCs and insurers on getting 160/1600 numbers and phased deadlines; news that 10-digit numbers are banned; a consultancy asks if the mandate is a burden.",
+      "confidence": "high"
+    },
+    {
+      "key": "dlt-consent-approval",
+      "label": "DLT registration, templates and consent keep getting rejected",
+      "definition": "Registering the entity, headers, SMS templates and consent templates on each telco's DLT portal is slow and confusing; templates get rejected; each operator charges; consent must be recorded and proved.",
+      "added_round": 1,
+      "reasoning": "Several vendor posts on why DLT templates are rejected and how to fix them, charge breakdowns, consent-template how-to videos, and Quora askers stuck on registration.",
+      "confidence": "high"
+    },
+    {
+      "key": "trai-complaints-blacklist",
+      "label": "A few spam complaints can get our numbers cut off",
+      "definition": "Under TRAI's amended calling rules, subscriber complaints trigger disconnection and a blacklist of up to a year; telcos have blocked lakhs of numbers; per-call charges and fines are proposed.",
+      "added_round": 1,
+      "reasoning": "News that telcos blocked 2.75 lakh numbers of 50 firms, that 3 complaints can trigger action, a vendor on the one-year blacklist risk for BFSI, and the amended regulation itself.",
+      "confidence": "high"
+    },
+    {
+      "key": "recovery-conduct-penalties",
+      "label": "Our recovery calls draw harassment complaints and RBI fines",
+      "definition": "Callers and agencies call after hours, threaten or shame borrowers. RBI fines lenders and directs conduct; borrowers post about harassment and how to complain.",
+      "added_round": 1,
+      "reasoning": "News of RBI fining Bajaj Finance Rs 2.5 crore for recovery harassment, RBI conduct directions, a borrower suicide story, and many borrower-side posts on harassment and calling-hour rules.",
+      "confidence": "high"
+    },
+    {
+      "key": "mis-selling-call-audit",
+      "label": "We can't audit every sales call for mis-selling and consent",
+      "definition": "IRDAI is tightening mis-selling and telemarketing rules. Insurers and lenders must check calls for consent and mis-selling, so they hire call-audit analysts or buy speech analytics.",
+      "added_round": 1,
+      "reasoning": "IRDAI mis-selling and telemarketing rule news, speech-analytics vendors pitching mis-selling detection, and job-board counts of call-audit quality analysts.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "floor-hiring-attrition",
+      "label": "Telecallers and collection staff keep quitting; we are always hiring",
+      "definition": "Attrition on lending floors runs very high. Heads post jobs without pause for telecallers, collection managers, dialer managers and QA staff, and retrain every new batch.",
+      "added_round": 1,
+      "reasoning": "A vendor cites NBFC attrition over 75 percent; LinkedIn discussions on NBFC attrition; dozens of lender and insurer job posts and job-board counts in the thousands for telecallers and collection managers.",
+      "confidence": "high"
+    },
+    {
+      "key": "high-cost-per-call",
+      "label": "Calling costs too much for what it collects",
+      "definition": "The per-seat, per-minute and telecaller cost of reminder and collection calls is high against what it recovers. Heads price dialers, seats, outsourcing and AI callers per minute to bring it down.",
+      "added_round": 1,
+      "reasoning": "Vendor rate cards at Rs 2 to 12 per minute, cost-per-seat and cost-per-minute guides, and AI-versus-telecaller cost comparisons aimed at NBFCs.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "voice-bot-pilot-doubt",
+      "label": "Not sure an AI voice bot will actually work on our borrowers",
+      "definition": "Voice-bot pilots fail, borrowers hang up, and the bot must handle Hindi and regional languages and RBI and TRAI rules. Heads look for ROI and pilot frameworks before buying.",
+      "added_round": 1,
+      "reasoning": "Vendor pieces on why voice AI pilots fail, pilot and ROI frameworks for NBFCs, voice-bot pitfalls and how to measure a bot; seller voice only so far.",
+      "confidence": "low"
+    },
+    {
+      "key": "dialer-choice-hidden-fees",
+      "label": "Picking a dialer or cloud telephony and getting stung by hidden costs",
+      "definition": "Heads compare Exotel, Ozonetel, Ameyo, Knowlarity, MyOperator and dialer apps on price. Reviews and complaints cite hidden fees, billing and support problems.",
+      "added_round": 1,
+      "reasoning": "Quora askers on dialer cost, rival vendors' 'hidden costs' pricing pages for Ozonetel, MyOperator and Ameyo, complaint-site pages for Knowlarity, and many price-comparison pages.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "dra-certification",
+      "label": "Every collections caller needs the IIBF DRA certificate first",
+      "definition": "RBI requires DRA certification for recovery staff and tele-callers. Exam dates, fees, training and certificate downloads for a churning floor.",
+      "added_round": 1,
+      "reasoning": "IIBF's DRA exam pages, exam-date and fee guides, prep videos, and job listings asking for DRA-certified collection staff.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "caller-scripts-training",
+      "label": "Callers don't know what to say on the call",
+      "definition": "Heads and callers look for telecalling, EMI reminder and collection scripts in Hindi and English and for training on handling borrowers and prospects.",
+      "added_round": 1,
+      "reasoning": "Many Hindi YouTube videos of insurance and loan telecalling scripts, a Hindi blog on collection scripts, and vendor script libraries for collections.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "agency-payout-control",
+      "label": "What to pay recovery agencies and how to keep control of them",
+      "definition": "Lenders pay agencies a share of collections and must manage them under RBI's outsourcing directions. Payout structures and commission rates are opaque.",
+      "added_round": 1,
+      "reasoning": "Law-firm notes on RBI's 2025 outsourcing directions for NBFCs, an outsourcing vendor's pitch, and agency-fee explainers (mostly US). Thin and mostly media.",
+      "confidence": "low"
+    }
+  ]
+}
