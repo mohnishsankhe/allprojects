@@ -384,7 +384,7 @@ def section(text: str, heading: str, level: str = "## ") -> str:
     return text[m.start():] if nxt < 0 else text[m.start():nxt]
 
 
-def check_pass_one(flow: Flow) -> None:
+def check_pass_one(flow: Flow, first_pass: bool = True) -> None:
     run, root, out = flow.run, flow.root, flow.out
     # preflight: offline, every listed domain is blocked and named
     pre = read_json(run / "preflight.json")
@@ -403,10 +403,16 @@ def check_pass_one(flow: Flow) -> None:
     assert by_slug[DEAD_LADDER]["failed_tests"] == ["ladder"] and by_slug[DEAD_SUPPLY]["failed_tests"] == ["supply"]
     assert by_slug[R2]["trust_flag"] is True and by_slug[R1]["venture_overlap"] == ["v1"]
     assert all(it["price_status"] == "seen_via_search" for v in mask["rooms"] for it in v["spend"])
-    # Stage 3: harvest counts, both transcript forms, lookback, dedupe, junk titles, anonymized text
-    assert "Records new: 8. Duplicates: 1. Skipped junk titles: 3." in out[f"harvest1:{R1}"].stdout
-    assert "Records new: 4." in out[f"harvest2:{R1}"].stdout
-    assert "Records new: 5." in out[f"harvest1:{R2}"].stdout and "Records new: 3." in out[f"harvest2:{R2}"].stdout
+    # Stage 3: harvest counts (first pass: new records; second pass: every URL is already stored)
+    if first_pass:
+        assert "Links seen: 12. Records new: 8. Duplicates: 1. Skipped junk titles: 3." in out[f"harvest1:{R1}"].stdout
+        assert "Records new: 4." in out[f"harvest2:{R1}"].stdout
+        assert "Records new: 5." in out[f"harvest1:{R2}"].stdout and "Records new: 3." in out[f"harvest2:{R2}"].stdout
+    else:
+        for key in (f"harvest1:{R1}", f"harvest2:{R1}", f"harvest1:{R2}", f"harvest2:{R2}"):
+            assert "Records new: 0." in out[key].stdout, key
+    assert "2 matched a search result in 2 transcript file(s)" in out[f"harvest1:{R1}"].stdout, "both transcript forms were read"
+    # both transcript forms, lookback, dedupe, junk titles, anonymized text
     stored = {room: records.records_by_id(run, room) for room in (R1, R2)}
     assert len(stored[R1]) == 12 and len(stored[R2]) == 8
     assert stored[R1][rid("r6")]["text"] == "Call [phone] or mail [email] for GRE quant coaching in Pune"
@@ -587,7 +593,7 @@ def test_full_run_twice_through_the_cli(froot, cli, tmp_path, monkeypatch):
 
     second = Flow(froot, cli)
     second.run_pass()
-    check_pass_one(second)
+    check_pass_one(second, first_pass=False)
     again = snapshot(second)
     assert sorted(again) == sorted(first), (sorted(set(again) ^ set(first)))
     changed = [k for k in first if first[k] != again[k]]
