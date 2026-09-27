@@ -68,7 +68,7 @@ Stage 3 per room:
 | dubai-real-estate-brokerages-telesales | 2 | 1516 | 882 | round 1: 882 records, not saturated | no | not checked |
 | gre-engineers-india | 2 | 1761 | 900 | round 1: 900 records, not saturated | no | not checked |
 | gre-preppers-worldwide-online | 2 | 1951 | 942 | round 2: 942 records, not saturated | no | not checked |
-| indie-perfumers-launching-brands | 2 | 1794 | 925 | round 1: 845 records, not saturated | no | not checked |
+| indie-perfumers-launching-brands | 2 | 1794 | 1005 | round 1: 845 records, not saturated | no | not checked |
 | lender-insurer-telesales-floors-india | 2 | 1721 | 835 | round 1: 835 records, not saturated | no | not checked |
 | outbound-lead-gen-appointment-setting-agencies | 1 | 1022 | 984 | round 1: 984 records, not saturated | no | not checked |
 | salon-spa-owners-india-global | 1 | 1380 | 1340 | round 1: 1340 records, not saturated | no | not checked |

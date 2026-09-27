@@ -629,3 +629,11 @@
 {"command": "show", "ids": 14, "kind": "ran", "missing": [], "room": "small-business-owners-reddit-community", "stage": 3, "ts": "2026-09-27T11:58:57+00:00"}
 {"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T11:59:20+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T12:04:22+00:00"}
+{"command": "show", "ids": 3, "kind": "ran", "missing": [], "room": "small-industrial-property-investors", "stage": 3, "ts": "2026-09-27T12:04:41+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "small-industrial-property-investors", "stage": 3, "ts": "2026-09-27T12:05:02+00:00"}
+{"command": "show", "ids": 5, "kind": "ran", "missing": [], "room": "dubai-real-estate-brokerages-telesales", "stage": 3, "ts": "2026-09-27T12:05:28+00:00"}
+{"command": "show", "ids": 5, "kind": "ran", "missing": [], "room": "small-business-owners-reddit-community", "stage": 3, "ts": "2026-09-27T12:06:02+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "small-business-owners-reddit-community", "stage": 3, "ts": "2026-09-27T12:06:09+00:00"}
+{"command": "show", "ids": 2, "kind": "ran", "missing": [], "room": "small-industrial-property-investors", "stage": 3, "ts": "2026-09-27T12:07:40+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "small-industrial-property-investors", "stage": 3, "ts": "2026-09-27T12:07:50+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T12:09:24+00:00"}
