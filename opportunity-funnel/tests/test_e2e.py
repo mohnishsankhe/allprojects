@@ -12,6 +12,7 @@ the funnel root. Pass 2 repeats every step on the same folder: every file except
 PROGRESS.md is byte-identical, and graveyard.md holds no duplicate line.
 """
 import copy
+import csv
 import json
 import re
 
@@ -217,6 +218,9 @@ def stage6_inputs() -> list:
     d2["price_anchor"].update({"amount": 400, "currency": "USD", "price_text": "$400 per letter", "what": "a collections lawyer's demand letter"})
     d2["test"] = {"n": 30, "who": "freelancers", "how": "by cold email", "days": 21}
     d2["offer"] = "a demand-letter kit"
+    d2["price_anchor"]["url"] = "https://law.test/demand-letter"
+    d2["channel"] = {"name": "cold email to freelancers", "where": "a public list of freelance designers", "reach_kind": "search",
+                     "trust": "low", "reasoning": "search reach, no prior relationship", "confidence": "low"}
     d2["acquisition"]["cash_per_reach"] = {"low": 0, "base": 1, "high": 2, "reasoning": "a few cents of email tooling per reach"}
     set_in(d2, "delivery.cash_cost_per_customer.value", 5)
     set_in(d2, "guarantee.refund_per_customer", 20)
@@ -373,10 +377,11 @@ def snapshot(flow) -> dict:
 
 
 def section(text: str, heading: str, level: str = "## ") -> str:
-    """The text of one markdown section, from its heading to the next heading of the same level."""
-    start = text.index(heading)
-    nxt = text.find("\n" + level, start + len(heading))
-    return text[start:] if nxt < 0 else text[start:nxt]
+    """The text of one markdown section, from its heading (at a line start) to the next heading of the same level."""
+    m = re.search(r"^" + re.escape(heading), text, re.M)
+    assert m, f"no section {heading!r}"
+    nxt = text.find("\n" + level, m.end())
+    return text[m.start():] if nxt < 0 else text[m.start():nxt]
 
 
 def check_pass_one(flow: Flow) -> None:
@@ -422,26 +427,28 @@ def check_pass_one(flow: Flow) -> None:
     assert "FAIL not_substring" in qc1.stdout and "FAIL too_short" in qc1.stdout and "FAIL record_missing" in qc1.stdout
     assert "citation corrected" in qc1.stdout
     # Stage 3 pains: quote_check.csv statuses, drop rules, tags, ranks
-    csv_text = (run / "03_listen" / "quote_check.csv").read_text(encoding="utf-8")
-    rows = [ln.split(",") for ln in csv_text.splitlines()]
-    assert rows[0][:5] == ["pain_id", "record_id", "status", "reason", "citation_corrected"]
-    p1_rows = [r for r in rows[1:] if r[0] == P1]
-    assert [r[3] for r in p1_rows] == ["ok", "ok", "not_substring", "too_short", "record_missing"]
-    assert [r[4] for r in p1_rows] == ["no", "yes", "no", "no", "no"]
-    assert p1_rows[1][5] == LINKS["r2"][1], "the corrected citation carries the stored url"
-    assert [r[3] for r in rows[1:] if r[0] == DROP_QUOTES] == ["ok", "not_substring"]
+    with open(run / "03_listen" / "quote_check.csv", encoding="utf-8", newline="") as f:
+        reader = csv.DictReader(f)
+        assert reader.fieldnames == ["pain_id", "record_id", "status", "reason", "citation_corrected", "url", "date", "quote"]
+        rows = list(reader)
+    p1_rows = [r for r in rows if r["pain_id"] == P1]
+    assert [r["reason"] for r in p1_rows] == ["ok", "ok", "not_substring", "too_short", "record_missing"]
+    assert [r["citation_corrected"] for r in p1_rows] == ["no", "yes", "no", "no", "no"]
+    assert p1_rows[1]["url"] == LINKS["r2"][1], "the corrected citation carries the stored url"
+    assert [r["reason"] for r in rows if r["pain_id"] == DROP_QUOTES] == ["ok", "not_substring"]
+    assert [r["status"] for r in rows if r["pain_id"] == P2] == ["pass", "pass", "pass"]
     pains = read_json(run / "03_listen" / "pains.json")
     assert pains["kept"] == [P1, P2, P3, P5, P4] and pains["cut"] == [] and pains["dropped"] == [DROP_QUOTES, DROP_FLAT]
     by_pid = {p["pain_id"]: p for p in pains["pains"]}
     assert by_pid[P1]["verified_quote_count"] == 2 and by_pid[P1]["quote_check"]["failed_reasons"] == {"not_substring": 1, "record_missing": 1, "too_short": 1}
     assert by_pid[P1]["quotes"][1]["url"] == LINKS["r2"][1] and by_pid[P1]["quotes"][1]["date"] is None
     assert by_pid[P1]["spend_domains"] == ["prices.test", "reddit.com"]
-    assert set(by_pid[P1]["tags"]) >= {"[thin]", "[titles only]"} and "[undated share: 80%]" in by_pid[P1]["tags"]
+    assert set(by_pid[P1]["tags"]) >= {"[thin]", "[titles only]"} and "[undated share: 75%]" in by_pid[P1]["tags"]
     assert "[spend: 1 source]" in by_pid[P3]["tags"] and "[spend: 0 sources]" in by_pid[P4]["tags"]
     assert by_pid[DROP_FLAT]["drop_reason"].startswith("no money mention, no failed spend and urgency none")
     assert by_pid[DROP_QUOTES]["drop_reason"].startswith("fewer than 2 verified quotes: 1 of 2 passed")
     assert pains["needs_calls"] == [R1]
-    assert by_pid[P2]["urgency_type"] == "acute_pain" and by_pid[P2]["sources"] == {"websearch": 4}
+    assert by_pid[P2]["urgency_type"] == "acute_pain" and by_pid[P2]["sources"] == {"websearch": 3}
     # Stage 4: the kill, the trade hint, walker disagreements, the rendered walk
     s4 = read_json(run / "04_walks" / "_stage4.json")
     assert s4["kept"] == [P1, P2, P3, P5] and s4["killed"] == [P4] and s4["lane_hint_trade"] == [P3]

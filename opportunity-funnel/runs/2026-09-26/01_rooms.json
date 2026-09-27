@@ -1,49 +1,47 @@
 {
-  "count_problems": [
-    "01_rooms.json: 123 rooms kept; the maximum is 120. Merge near-duplicates with duplicate_of or drop the weakest rooms, then rerun."
-  ],
+  "count_problems": [],
   "counts": {
     "by_lens": {
       "business_type": 19,
       "identity_community": 21,
-      "life_stage": 20,
+      "life_stage": 10,
       "obligation": 19,
       "profession": 22,
-      "transition": 22
+      "transition": 20
     },
     "by_origin": {
       "external": 0,
       "gap_pass": 32,
-      "generated": 91
+      "generated": 79
     },
-    "in": 123,
-    "kept": 123,
+    "in": 111,
+    "kept": 111,
     "min_rooms_per_lens": 8,
-    "near_duplicates": 60,
-    "removed": 0,
+    "near_duplicates": 48,
+    "removed": 12,
     "rooms_max": 120,
     "rooms_min": 80
   },
   "near_duplicates": [
     {
+      "a": "admitted-us-masters-predeparture-india",
+      "b": "gre-engineers-india",
+      "why": "same place: yocket.com/connect"
+    },
+    {
       "a": "ai-agent-builders-freelance",
       "b": "eu-ai-act-deadline-ai-product-teams",
-      "why": "same place: discord.vapi.ai"
+      "why": "same place: discord.vapi.ai, prowlo.com/tools/subreddit-stats/ai_agents"
+    },
+    {
+      "a": "ai-agent-builders-freelance",
+      "b": "indian-developers-moving-into-ai",
+      "why": "same place: skool.com/ai-automation-society"
     },
     {
       "a": "ai-agent-builders-freelance",
       "b": "us-tcpa-ai-voice-outbound-callers",
-      "why": "same place: discord.vapi.ai"
-    },
-    {
-      "a": "cfa-level1-early-career",
-      "b": "cfa-candidates-community",
-      "why": "same place: analystforum.com, gummysearch.com/r/cfa"
-    },
-    {
-      "a": "consulting-case-interview-candidates",
-      "b": "consultants-planning-exit-to-finance",
-      "why": "same place: gummysearch.com/r/consulting"
+      "why": "same place: discord.vapi.ai, prowlo.com/tools/subreddit-stats/ai_agents"
     },
     {
       "a": "cre-analysts-underwriting",
@@ -106,7 +104,7 @@
       "why": "same place: financealliance.io/community"
     },
     {
-      "a": "first-time-founders-first-raise",
+      "a": "first-time-founders-pre-seed",
       "b": "indie-hackers-bootstrapped-founders",
       "why": "same place: indiehackers.com"
     },
@@ -118,27 +116,12 @@
     {
       "a": "gre-engineers-india",
       "b": "gre-preppers-worldwide-online",
-      "why": "same place: gummysearch.com/r/gre, redditcharts.com/r/gre"
+      "why": "same place: gre.myprepclub.com/forum, gummysearch.com/r/gre, redditcharts.com/r/gre"
     },
     {
       "a": "gre-engineers-india",
       "b": "ms-abroad-applicants-india",
       "why": "same place: yocket.com/feed"
-    },
-    {
-      "a": "gre-final-year-engineers-india",
-      "b": "admitted-us-masters-predeparture-india",
-      "why": "same place: yocket.com/connect"
-    },
-    {
-      "a": "gre-final-year-engineers-india",
-      "b": "gre-engineers-india",
-      "why": "same place: gummysearch.com/r/gre"
-    },
-    {
-      "a": "gre-final-year-engineers-india",
-      "b": "gre-preppers-worldwide-online",
-      "why": "same place: gre.myprepclub.com/forum, gummysearch.com/r/gre"
     },
     {
       "a": "h1b-workers-new-to-us",
@@ -149,16 +132,6 @@
       "a": "h1b-workers-new-to-us",
       "b": "laid-off-tech-workers",
       "why": "same place: gummysearch.com/r/h1b"
-    },
-    {
-      "a": "ib-analysts-pe-oncycle",
-      "b": "finra-series-79-sie-new-hires",
-      "why": "same place: emeritus.org/blog/best-finance-jobs-reddit"
-    },
-    {
-      "a": "ib-analysts-pe-oncycle",
-      "b": "non-target-students-breaking-into-finance",
-      "why": "same place: emeritus.org/blog/best-finance-jobs-reddit"
     },
     {
       "a": "ib-associates-vps-leaving-banking",
@@ -177,17 +150,12 @@
     },
     {
       "a": "ib-summer-analyst-recruits",
-      "b": "ib-analyst-recruiting-students",
-      "why": "names share 0.60 of their words"
-    },
-    {
-      "a": "ib-summer-analyst-recruits",
-      "b": "ib-analysts-pe-oncycle",
+      "b": "non-target-students-breaking-into-finance",
       "why": "same place: emeritus.org/blog/best-finance-jobs-reddit"
     },
     {
       "a": "ib-summer-analyst-recruits",
-      "b": "non-target-students-breaking-into-finance",
+      "b": "pe-associate-candidates-on-cycle",
       "why": "same place: emeritus.org/blog/best-finance-jobs-reddit"
     },
     {
@@ -246,39 +214,9 @@
       "why": "same place: gummysearch.com/r/mba"
     },
     {
-      "a": "mba-ib-associate-switchers",
-      "b": "pre-mba-applicants-gmat-gre",
-      "why": "same place: gummysearch.com/r/mba"
-    },
-    {
-      "a": "mid-career-ai-agency-starters",
-      "b": "eu-ai-act-deadline-ai-product-teams",
-      "why": "same place: prowlo.com/tools/subreddit-stats/ai_agents"
-    },
-    {
-      "a": "mid-career-ai-agency-starters",
-      "b": "indian-developers-moving-into-ai",
-      "why": "same place: skool.com/ai-automation-society"
-    },
-    {
-      "a": "mid-career-ai-agency-starters",
-      "b": "us-tcpa-ai-voice-outbound-callers",
-      "why": "same place: prowlo.com/tools/subreddit-stats/ai_agents"
-    },
-    {
-      "a": "opt-grads-h1b-job-hunt-us",
-      "b": "h1b-workers-new-to-us",
-      "why": "same place: gummysearch.com/r/h1b, teamblind.com/post/job-searching-on-h1b-qyhkxn3v"
-    },
-    {
-      "a": "opt-grads-h1b-job-hunt-us",
-      "b": "h1b-workers-status-clock",
-      "why": "same place: gummysearch.com/r/h1b"
-    },
-    {
-      "a": "opt-grads-h1b-job-hunt-us",
-      "b": "laid-off-tech-workers",
-      "why": "same place: gummysearch.com/r/h1b"
+      "a": "mbb-case-interview-candidates",
+      "b": "consultants-planning-exit-to-finance",
+      "why": "same place: gummysearch.com/r/consulting"
     },
     {
       "a": "opt-grads-us-job-hunt",
@@ -288,7 +226,7 @@
     {
       "a": "opt-grads-us-job-hunt",
       "b": "h1b-workers-new-to-us",
-      "why": "same place: gummysearch.com/r/h1b"
+      "why": "same place: gummysearch.com/r/h1b, teamblind.com/post/job-searching-on-h1b-qyhkxn3v"
     },
     {
       "a": "opt-grads-us-job-hunt",
@@ -301,14 +239,14 @@
       "why": "same place: gummysearch.com/r/h1b"
     },
     {
-      "a": "opt-grads-us-job-hunt",
-      "b": "opt-grads-h1b-job-hunt-us",
-      "why": "same place: gummysearch.com/r/h1b, teamblind.com/search/f1visa"
+      "a": "pe-associate-candidates-on-cycle",
+      "b": "finra-series-79-sie-new-hires",
+      "why": "same place: emeritus.org/blog/best-finance-jobs-reddit"
     },
     {
-      "a": "pre-mba-applicants-gmat-gre",
-      "b": "mba-applicants-gmat-global",
-      "why": "same place: gmatclub.com/forum, gummysearch.com/r/mba"
+      "a": "pe-associate-candidates-on-cycle",
+      "b": "non-target-students-breaking-into-finance",
+      "why": "same place: emeritus.org/blog/best-finance-jobs-reddit"
     },
     {
       "a": "retiring-owners-selling-business",
@@ -340,77 +278,129 @@
     "gap_business_type.json",
     "gap_identity_community.json"
   ],
-  "removed": [],
-  "rooms": [
+  "removed": [
     {
-      "confidence": "high",
-      "duplicate_of": "gre-engineers-india",
-      "geography": [
-        "IN"
-      ],
-      "ladder": [
-        {
-          "price_text": "₹15,000–₹30,000",
-          "problem": "GRE coaching or self-study course",
-          "step": 1,
-          "url": "https://eecglobal.com/blog/gre-complete-guide-india-2026"
-        },
-        {
-          "price_text": "₹22,550",
-          "problem": "GRE exam registration",
-          "step": 2,
-          "url": "https://eecglobal.com/blog/gre-fee-registration-india-2026"
-        },
-        {
-          "problem": "University shortlisting, SOP and LOR help (Yocket Premium; price not seen)",
-          "step": 3,
-          "url": "https://yocket.com/premium"
-        },
-        {
-          "price_text": "9.99% to 13%",
-          "problem": "Education loan for tuition",
-          "step": 4,
-          "url": "https://www.studentcover.in/mpower-education-loan-interest-rate/"
-        },
-        {
-          "price_text": "$350",
-          "problem": "Visa: SEVIS fee and F-1 interview",
-          "step": 5,
-          "url": "https://www.ice.gov/sevis/i901"
-        }
-      ],
+      "lens": "life_stage",
+      "name": "Working professionals in India (1 to 3 years in) preparing for CAT and IIM admission",
+      "of": "cat-aspirants-india",
+      "origin": "generated",
+      "part": null,
+      "reason": "marked duplicate_of cat-aspirants-india",
+      "slug": "cat-aspirants-working-professionals-india",
+      "status": "duplicate_of"
+    },
+    {
+      "lens": "life_stage",
+      "name": "Early-career finance staff sitting CFA Level I",
+      "of": "cfa-candidates-community",
+      "origin": "generated",
+      "part": null,
+      "reason": "marked duplicate_of cfa-candidates-community",
+      "slug": "cfa-level1-early-career",
+      "status": "duplicate_of"
+    },
+    {
+      "lens": "life_stage",
+      "name": "Students and MBAs preparing for consulting case interviews",
+      "of": "mbb-case-interview-candidates",
+      "origin": "generated",
+      "part": null,
+      "reason": "marked duplicate_of mbb-case-interview-candidates",
+      "slug": "consulting-case-interview-candidates",
+      "status": "duplicate_of"
+    },
+    {
+      "lens": "life_stage",
+      "name": "New graduates and junior analysts breaking into commercial real estate finance",
+      "of": "cre-analysts-underwriting",
+      "origin": "generated",
+      "part": null,
+      "reason": "marked duplicate_of cre-analysts-underwriting",
+      "slug": "early-career-cre-analysts",
+      "status": "duplicate_of"
+    },
+    {
+      "lens": "life_stage",
+      "name": "Early-career analysts entering renewable energy project finance",
+      "of": "project-finance-analysts-energy-infra",
+      "origin": "generated",
+      "part": null,
+      "reason": "marked duplicate_of project-finance-analysts-energy-infra",
+      "slug": "early-career-renewables-project-finance",
+      "status": "duplicate_of"
+    },
+    {
+      "lens": "life_stage",
+      "name": "First-time founders raising their first pre-seed or seed round",
+      "of": "first-time-founders-pre-seed",
+      "origin": "generated",
+      "part": null,
+      "reason": "marked duplicate_of first-time-founders-pre-seed",
+      "slug": "first-time-founders-first-raise",
+      "status": "duplicate_of"
+    },
+    {
       "lens": "life_stage",
       "name": "Final-year engineering students in India preparing for the GRE and US master's applications",
+      "of": "gre-engineers-india",
       "origin": "generated",
-      "reasoning": "Same stage (final year), same fixed deadlines (exam dates, application rounds), and they gather in named forums. The founder's GRE product gives a direct warm path. Duplicate of gre-engineers-india: the same Indian engineering students preparing for the GRE to study abroad, seen through the life-stage lens; the transition room has more seen places and a longer priced ladder, and this room's two extra places and its $350 SEVIS fee were copied into it.",
-      "size": {
-        "tag": "measured",
-        "unit": "GRE test takers from India, July 2020 to June 2021",
-        "url": "https://yocket.com/blog/indians-among-top-gre-test-takers",
-        "value": 70136
-      },
+      "part": null,
+      "reason": "marked duplicate_of gre-engineers-india",
       "slug": "gre-final-year-engineers-india",
-      "status": "kept",
-      "venture_overlap": [
-        "v1"
-      ],
-      "where": [
-        {
-          "name": "r/GRE (110k members; stats page)",
-          "url": "https://gummysearch.com/r/GRE/"
-        },
-        {
-          "name": "GRE Prep Club forum",
-          "url": "https://gre.myprepclub.com/forum/"
-        },
-        {
-          "name": "Yocket community (admits and aspirants)",
-          "url": "https://yocket.com/connect"
-        }
-      ],
-      "who": "Third- and final-year B.Tech students in India who plan a US master's. In the next 12 months they must take the GRE and TOEFL, shortlist universities, write SOPs, and apply before winter deadlines.",
-      "who_pays": "The student, usually with parents' money. They pay for coaching, the exam, counselling and later a loan."
+      "status": "duplicate_of"
     },
+    {
+      "lens": "transition",
+      "name": "Students and recent graduates recruiting for investment banking analyst roles",
+      "of": "ib-summer-analyst-recruits",
+      "origin": "generated",
+      "part": null,
+      "reason": "marked duplicate_of ib-summer-analyst-recruits",
+      "slug": "ib-analyst-recruiting-students",
+      "status": "duplicate_of"
+    },
+    {
+      "lens": "life_stage",
+      "name": "First- and second-year investment banking analysts recruiting for private equity",
+      "of": "pe-associate-candidates-on-cycle",
+      "origin": "generated",
+      "part": null,
+      "reason": "marked duplicate_of pe-associate-candidates-on-cycle",
+      "slug": "ib-analysts-pe-oncycle",
+      "status": "duplicate_of"
+    },
+    {
+      "lens": "life_stage",
+      "name": "Mid-career professionals starting an AI automation or voice-agent agency",
+      "of": "ai-agent-builders-freelance",
+      "origin": "generated",
+      "part": null,
+      "reason": "marked duplicate_of ai-agent-builders-freelance",
+      "slug": "mid-career-ai-agency-starters",
+      "status": "duplicate_of"
+    },
+    {
+      "lens": "transition",
+      "name": "International graduates in the US on OPT hunting for an H-1B sponsor",
+      "of": "opt-grads-us-job-hunt",
+      "origin": "generated",
+      "part": null,
+      "reason": "marked duplicate_of opt-grads-us-job-hunt",
+      "slug": "opt-grads-h1b-job-hunt-us",
+      "status": "duplicate_of"
+    },
+    {
+      "lens": "life_stage",
+      "name": "Young professionals applying to full-time MBA programs",
+      "of": "mba-applicants-gmat-global",
+      "origin": "generated",
+      "part": null,
+      "reason": "marked duplicate_of mba-applicants-gmat-global",
+      "slug": "pre-mba-applicants-gmat-gre",
+      "status": "duplicate_of"
+    }
+  ],
+  "rooms": [
     {
       "confidence": "high",
       "duplicate_of": null,
@@ -637,68 +627,6 @@
       "who_pays": "Students and parents pay for prep subscriptions and bootcamps. Some colleges pay for training."
     },
     {
-      "confidence": "moderate",
-      "duplicate_of": "cat-aspirants-india",
-      "geography": [
-        "IN"
-      ],
-      "ladder": [
-        {
-          "price_text": "₹25,450",
-          "problem": "CAT coaching (online, working-professional batch)",
-          "step": 1,
-          "url": "https://cracku.in/cracku-vs-ims-cat-online-coaching/"
-        },
-        {
-          "price_text": "Rs 10,000 to Rs 30,000",
-          "problem": "GD-PI-WAT coaching after the score",
-          "step": 2,
-          "url": "https://www.mbauniverse.com/gd-pi-wat-coaching-courses"
-        },
-        {
-          "price_text": "₹27.5 lakh",
-          "problem": "IIM programme fees",
-          "step": 3,
-          "url": "https://www.pagalguy.com/colleges/indian-institute-of-management-iim-ahmedabad"
-        },
-        {
-          "problem": "Education loan for the fees",
-          "step": 4
-        },
-        {
-          "problem": "Summer placement prep: consulting cases and finance interviews (links to the case-interview room)",
-          "step": 5
-        }
-      ],
-      "lens": "life_stage",
-      "name": "Working professionals in India (1 to 3 years in) preparing for CAT and IIM admission",
-      "origin": "generated",
-      "reasoning": "Same stage and one exam date. A large paid-prep market. The founder's GRE quant and verbal depth transfers in part; case-interview depth covers a later step. Duplicate of cat-aspirants-india: the same CAT aspirants on the same November exam date and the same coaching, mocks, interviews and fees ladder; the working-professional slice adds nothing distinct for reach, ladder or who pays, so its two places and its GD-PI-WAT and IIM fee prices were copied into the broader transition room.",
-      "size": {
-        "tag": "measured",
-        "unit": "CAT 2025 registrations (2.95 lakh)",
-        "url": "https://bschool.careers360.com/articles/cat-2025-registrations-drop-by-10-percent-only-295-lakh-candidates-registered-admit-card-delayed-to-november-12",
-        "value": 295000
-      },
-      "slug": "cat-aspirants-working-professionals-india",
-      "status": "kept",
-      "venture_overlap": [
-        "v1"
-      ],
-      "where": [
-        {
-          "name": "r/CATpreparation (about 350,449 members; spotlight page)",
-          "url": "https://insideiim.com/community-spotlight-how-r-catpreparation-is-helping-aspirants"
-        },
-        {
-          "name": "PaGaLGuY CAT 2026 preparation thread",
-          "url": "https://www.pagalguy.com/t/cat-exam-2026-preparation-discussion-mock-test/4127380"
-        }
-      ],
-      "who": "Early-career engineers and graduates who study evenings and weekends for CAT in November, then face WAT/PI rounds, then IIM fees and loans.",
-      "who_pays": "The aspirant from salary. Parents and banks fund the IIM fees."
-    },
-    {
       "confidence": "high",
       "duplicate_of": null,
       "geography": [
@@ -775,71 +703,6 @@
       "who_pays": "The student, or parents, for guides, courses and coaching."
     },
     {
-      "confidence": "high",
-      "duplicate_of": "pe-associate-candidates-on-cycle",
-      "geography": [
-        "GLOBAL"
-      ],
-      "ladder": [
-        {
-          "problem": "LBO modeling and PE interview course (Peak Frameworks; price not seen in search)",
-          "step": 1,
-          "url": "https://www.peakframeworks.com/private-equity-recruiting-course"
-        },
-        {
-          "price_text": "$499",
-          "problem": "Full modeling package as backup prep",
-          "step": 2,
-          "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/"
-        },
-        {
-          "price_text": "$800/hour",
-          "problem": "Live tutoring before modeling tests",
-          "step": 3,
-          "url": "https://theprivateequiteer.com/wall-street-prep-premium-package-review/"
-        },
-        {
-          "price_text": "US $275",
-          "problem": "After the offer or a miss: MBA applications (GMAT)",
-          "step": 4,
-          "url": "https://test-ninjas.com/gmat-registration-fees-and-cost"
-        },
-        {
-          "problem": "Associate-level modeling and deal skills at the fund",
-          "step": 5
-        }
-      ],
-      "lens": "life_stage",
-      "name": "First- and second-year investment banking analysts recruiting for private equity",
-      "origin": "generated",
-      "reasoning": "Same stage, a compressed deadline set by headhunters, and proven paid prep. This is the founder's own path and network. The employer's outside-business rules must be checked. Duplicate of pe-associate-candidates-on-cycle: the same first- and second-year analysts going through the same headhunter-driven PE recruiting; the profession room also covers the consultants in the same process and states who pays more clearly, and this room's three places and its $800-an-hour tutoring price were copied into it.",
-      "size": {
-        "reasoning": "Roughly 40 bulge-bracket and elite-boutique banks each hire about 100 to 400 analysts a year; most first-years consider PE recruiting.",
-        "tag": "estimate",
-        "unit": "IB analysts per class year worldwide",
-        "value": 8000
-      },
-      "slug": "ib-analysts-pe-oncycle",
-      "status": "kept",
-      "venture_overlap": [],
-      "where": [
-        {
-          "name": "Wall Street Oasis PE forum: Peak Frameworks PE course thread",
-          "url": "https://www.wallstreetoasis.com/forum/private-equity/peak-frameworks-pe-course-1"
-        },
-        {
-          "name": "Wall Street Oasis PE forum: prep materials for PE",
-          "url": "https://www.wallstreetoasis.com/forum/private-equity/prep-materials-for-pe"
-        },
-        {
-          "name": "r/FinancialCareers (over 741,000 members; described here, reddit.com not reachable)",
-          "url": "https://emeritus.org/blog/best-finance-jobs-reddit/"
-        }
-      ],
-      "who": "Analysts 0 to 18 months into IB. Headhunters trigger on-cycle PE recruiting with little notice; they must be ready for LBO modeling tests and case studies while working long hours.",
-      "who_pays": "The analyst, from salary or bonus."
-    },
-    {
       "confidence": "moderate",
       "duplicate_of": null,
       "geography": [
@@ -896,295 +759,6 @@
       ],
       "who": "First-year MBA students from non-finance backgrounds recruiting for IB summer associate roles in the first fall and winter. They must learn technicals, network and talk deals fast.",
       "who_pays": "The student, usually on loans. Some student clubs buy group training."
-    },
-    {
-      "confidence": "high",
-      "duplicate_of": "mbb-case-interview-candidates",
-      "geography": [
-        "GLOBAL"
-      ],
-      "ladder": [
-        {
-          "problem": "Case practice platform (PrepLounge Premium; price not seen in search)",
-          "step": 1,
-          "url": "https://www.preplounge.com/en/premium-membership"
-        },
-        {
-          "price_text": "$350 per 60-minute session",
-          "problem": "One-to-one case coaching",
-          "step": 2,
-          "url": "https://prepmatter.com/blog/best-case-interview-coaching-services"
-        },
-        {
-          "price_text": "$2,100-$4,500",
-          "problem": "Coaching packages before final rounds",
-          "step": 3,
-          "url": "https://prepmatter.com/blog/best-case-interview-coaching-services"
-        },
-        {
-          "problem": "After the offer: consulting toolkit (Excel, slides, first-project survival)",
-          "step": 4
-        },
-        {
-          "problem": "Exit planning two years later: PE, industry or MBA",
-          "step": 5
-        }
-      ],
-      "lens": "life_stage",
-      "name": "Students and MBAs preparing for consulting case interviews",
-      "origin": "generated",
-      "reasoning": "Same stage, a dated interview, high paid prices and huge communities. The founder's case-interview depth is moderate; search reach is clear. Duplicate of mbb-case-interview-candidates: the same students, MBAs and experienced hires preparing for the same case interviews; the profession room has more seen places, four priced steps and a clearer who-pays, and this room's two places were copied into it (its measured PrepLounge size of 578,000 members stays recorded here).",
-      "size": {
-        "tag": "measured",
-        "unit": "PrepLounge members",
-        "url": "https://www.preplounge.com/en/shop/premium-membership",
-        "value": 578000
-      },
-      "slug": "consulting-case-interview-candidates",
-      "status": "kept",
-      "venture_overlap": [],
-      "where": [
-        {
-          "name": "PrepLounge case library and practice partners",
-          "url": "https://www.preplounge.com/en/management-consulting-cases"
-        },
-        {
-          "name": "r/consulting (341k members; stats page)",
-          "url": "https://gummysearch.com/r/consulting/"
-        }
-      ],
-      "who": "Final-year undergraduates, MBA students and some experienced hires with McKinsey, BCG, Bain or Big 4 interviews in 4 to 12 weeks. They practise cases and fit questions daily.",
-      "who_pays": "The candidate."
-    },
-    {
-      "confidence": "high",
-      "duplicate_of": "cfa-candidates-community",
-      "geography": [
-        "GLOBAL"
-      ],
-      "ladder": [
-        {
-          "price_text": "US$1,140",
-          "problem": "Level I registration",
-          "step": 1,
-          "url": "https://finance.uworld.com/cfa/registration-cost-fees/"
-        },
-        {
-          "price_text": "$1,049",
-          "problem": "Prep package",
-          "step": 2,
-          "url": "https://www.schweser.com/cfa/level-1/study-packages"
-        },
-        {
-          "problem": "Level II and Level III (same fees again, harder material)",
-          "step": 3
-        },
-        {
-          "problem": "Job move after the charter: resume and interview prep",
-          "step": 4
-        }
-      ],
-      "lens": "life_stage",
-      "name": "Early-career finance staff sitting CFA Level I",
-      "origin": "generated",
-      "reasoning": "Exam-dated, paid at four figures, and gathered in large forums. The founder's corporate-finance and valuation depth covers much of Levels I and II. Duplicate of cfa-candidates-community: Level I candidates are the first stage of the same candidate community, gathering in the same forums with the same registration and prep prices; the identity room already holds every place and price seen here and adds Levels II and III.",
-      "size": {
-        "tag": "measured",
-        "unit": "Level I candidates in the November 2025 window (one of four windows a year)",
-        "url": "https://www.cfainstitute.org/about/press-room/2026/cfa-program-results-level-i-november-2025",
-        "value": 26752
-      },
-      "slug": "cfa-level1-early-career",
-      "status": "kept",
-      "venture_overlap": [],
-      "where": [
-        {
-          "name": "r/CFA (216k members; stats page)",
-          "url": "https://gummysearch.com/r/CFA/"
-        },
-        {
-          "name": "AnalystForum",
-          "url": "https://www.analystforum.com/"
-        }
-      ],
-      "who": "Analysts and graduates 0 to 4 years into finance who register for a CFA Level I window and study about 300 hours around a full-time job.",
-      "who_pays": "The candidate. Some employers reimburse after a pass."
-    },
-    {
-      "confidence": "low",
-      "duplicate_of": "project-finance-analysts-energy-infra",
-      "geography": [
-        "GLOBAL"
-      ],
-      "ladder": [
-        {
-          "price_text": "$247",
-          "problem": "Project finance modeling course",
-          "step": 1,
-          "url": "https://breakingintowallstreet.com/project-finance-signup-options/"
-        },
-        {
-          "problem": "Renewable-specific modeling (tax equity, PPAs; WSO or Pivotal180 course, price not seen in search)",
-          "step": 2,
-          "url": "https://www.wallstreetoasis.com/courses/financial-modeling-certification/renewable-energy-project-finance"
-        },
-        {
-          "problem": "Excel modeling test prep for job moves",
-          "step": 3
-        },
-        {
-          "problem": "Move to infrastructure PE or developer business development",
-          "step": 4
-        }
-      ],
-      "lens": "life_stage",
-      "name": "Early-career analysts entering renewable energy project finance",
-      "origin": "generated",
-      "reasoning": "The founder has strong energy-sector depth and warm reach into Southeast Asian energy companies. The room is real but scattered: the only open gathering places found are WSO threads and an event community. [thin] Duplicate of project-finance-analysts-energy-infra: the same 0-to-3-year analysts at developers, banks and funds learning the same project finance modelling; the profession room has high confidence and two priced steps against this room's one, and this room's three places were copied into it.",
-      "size": {
-        "reasoning": "Thousands of developers, IPPs, banks and funds in the US, EU, India and Southeast Asia each run small analyst teams. No measured figure was found. [thin]",
-        "tag": "estimate",
-        "unit": "early-career renewables finance analysts worldwide",
-        "value": 15000
-      },
-      "slug": "early-career-renewables-project-finance",
-      "status": "kept",
-      "venture_overlap": [],
-      "where": [
-        {
-          "name": "Wall Street Oasis: starting a renewable energy PE analyst job",
-          "url": "https://www.wallstreetoasis.com/forum/private-equity/starting-renewable-energy-pe-analyst-job-what-to-expect"
-        },
-        {
-          "name": "Wall Street Oasis: renewable energy commercial analyst thread",
-          "url": "https://www.wallstreetoasis.com/forum/job-search/renewable-energy-commercial-analyst"
-        },
-        {
-          "name": "Infralogic Investors Forum: Renewable Energy (event community)",
-          "url": "https://community.ionanalytics.com/infralogic-investors-forum-renewable-energy-2023"
-        }
-      ],
-      "who": "Graduates and 0 to 3-year analysts at developers, banks and infrastructure funds. To get or keep the job they must learn project finance modeling: debt sizing, tax equity, PPAs.",
-      "who_pays": "The analyst for self-study; employers for team training."
-    },
-    {
-      "confidence": "high",
-      "duplicate_of": "ai-agent-builders-freelance",
-      "geography": [
-        "GLOBAL"
-      ],
-      "ladder": [
-        {
-          "price_text": "$997",
-          "problem": "Agency course or paid community",
-          "step": 1,
-          "url": "https://ippei.com/best-ai-agency-courses/"
-        },
-        {
-          "price_text": "$4.99+",
-          "problem": "Cheap starter kits and templates",
-          "step": 2,
-          "url": "https://pennyfieldchronicles.gumroad.com/l/AI_Automation_Agency_2025_Course"
-        },
-        {
-          "problem": "Winning the first paying client: proposals, pricing, contracts",
-          "step": 3,
-          "url": "https://n8nlearn.gumroad.com/l/n8n-freelancer-starter-kit"
-        },
-        {
-          "problem": "Delivering reliably: voice-agent quality, call auditing, client reporting",
-          "step": 4
-        },
-        {
-          "problem": "Scaling: hiring, white-label tools, retainers",
-          "step": 5
-        }
-      ],
-      "lens": "life_stage",
-      "name": "Mid-career professionals starting an AI automation or voice-agent agency",
-      "origin": "generated",
-      "reasoning": "Career switchers at one stage, gathered in huge communities and already buying. The founder's TinyAI depth (voice and WhatsApp agents, call auditing) fits the delivery steps directly. Duplicate of ai-agent-builders-freelance: the same people selling AI voice agents and automations to small businesses, from first client to delivery; the profession room is more specific to the founder's voice and WhatsApp depth and has three priced steps, and this room's three places (including the 425,179-member r/AI_Agents stats page) and its starter-kit price were copied into it.",
-      "size": {
-        "tag": "measured",
-        "unit": "r/AI_Agents members, August 2026",
-        "url": "https://prowlo.com/tools/subreddit-stats/ai_agents",
-        "value": 425179
-      },
-      "slug": "mid-career-ai-agency-starters",
-      "status": "kept",
-      "venture_overlap": [
-        "v4"
-      ],
-      "where": [
-        {
-          "name": "r/AI_Agents (425,179 members; stats page)",
-          "url": "https://prowlo.com/tools/subreddit-stats/ai_agents"
-        },
-        {
-          "name": "n8n community forum (jobs and freelancer threads)",
-          "url": "https://community.n8n.io/t/n8n-ai-automation-freelancer-for-digital-agency/79602"
-        },
-        {
-          "name": "Skool: AI Automation Society",
-          "url": "https://www.skool.com/ai-automation-society"
-        }
-      ],
-      "who": "People in their 30s and 40s leaving corporate or agency jobs, or side-hustling, to sell AI agents, n8n workflows and voice bots to small businesses. They need a first client, pricing and a way to deliver.",
-      "who_pays": "The starter pays for courses and communities. Later their small-business clients pay them."
-    },
-    {
-      "confidence": "moderate",
-      "duplicate_of": "first-time-founders-pre-seed",
-      "geography": [
-        "GLOBAL"
-      ],
-      "ladder": [
-        {
-          "price_text": "$2,000–$5,000",
-          "problem": "Investor pitch deck",
-          "step": 1,
-          "url": "https://www.spectup.com/resource-hub/how-much-does-a-pitch-deck-cost"
-        },
-        {
-          "price_text": "$5,000 and $10,000 per month",
-          "problem": "Financial model and fractional CFO help",
-          "step": 2,
-          "url": "https://pilot.com/blog/fractional-cfo-cost-guide"
-        },
-        {
-          "problem": "Term sheet, SAFE and legal docs (needs a licensed lawyer)",
-          "step": 3
-        },
-        {
-          "problem": "After the raise: hiring, finance operations, board reporting",
-          "step": 4
-        }
-      ],
-      "lens": "life_stage",
-      "name": "First-time founders raising their first pre-seed or seed round",
-      "origin": "generated",
-      "reasoning": "A real stage with money already spent on decks and models. The founder's valuation and deal-document depth fits steps 1 and 2; the legal step needs a partner. Duplicate of first-time-founders-pre-seed: the same first-time founders who left a job to start a company, at the raise step of the same ladder; the transition room has more seen places, and this room's two places and its pitch-deck and financial-model prices were copied into it.",
-      "size": {
-        "reasoning": "Carta reported about 3,400 sub-$1M rounds in Q1 2025 on its US platform (https://developmentcorporate.com/saas/seed-funding-trends-2025-carta-report/). Annualised and adjusted for non-Carta and non-US founders, the order of magnitude is 10,000 to 15,000.",
-        "tag": "estimate",
-        "unit": "first-round raises per year, worldwide",
-        "value": 12000
-      },
-      "slug": "first-time-founders-first-raise",
-      "status": "kept",
-      "venture_overlap": [],
-      "where": [
-        {
-          "name": "r/startups (2.1M members; stats page)",
-          "url": "https://gummysearch.com/r/startups/"
-        },
-        {
-          "name": "Indie Hackers community",
-          "url": "https://www.indiehackers.com/"
-        }
-      ],
-      "who": "Professionals who left a job to start a company. Within a few months they need a deck, a financial model, a view on valuation and terms, and an investor list.",
-      "who_pays": "The founder, from savings or the round itself."
     },
     {
       "confidence": "moderate",
@@ -1244,120 +818,6 @@
       ],
       "who": "Owners aged 55 and over of businesses worth about $0.5M to $10M who plan to exit in 1 to 3 years. They need a valuation, clean books, a broker, buyer due diligence and tax planning.",
       "who_pays": "The owner, from the sale proceeds."
-    },
-    {
-      "confidence": "high",
-      "duplicate_of": "mba-applicants-gmat-global",
-      "geography": [
-        "GLOBAL"
-      ],
-      "ladder": [
-        {
-          "price_text": "US $275",
-          "problem": "GMAT or GRE prep and exam",
-          "step": 1,
-          "url": "https://test-ninjas.com/gmat-registration-fees-and-cost"
-        },
-        {
-          "price_text": "$6,600",
-          "problem": "Admissions consulting for essays and interviews",
-          "step": 2,
-          "url": "https://shop.mbamission.com/products/complete-start-to-finish-package"
-        },
-        {
-          "problem": "Loans and scholarships for tuition",
-          "step": 3
-        },
-        {
-          "problem": "Pre-MBA prep for IB or consulting recruiting (links to the switcher and case rooms)",
-          "step": 4
-        }
-      ],
-      "lens": "life_stage",
-      "name": "Young professionals applying to full-time MBA programs",
-      "origin": "generated",
-      "reasoning": "Same stage, application rounds as deadlines, and consulting prices in the thousands of dollars. The founder's GRE depth applies (GRE is accepted for MBA) and finance colleagues are a warm path. Duplicate of mba-applicants-gmat-global: the same working professionals taking the GMAT or GRE and applying to MBA programs; the transition room has more seen places and five priced steps, and this room's extra Beat The GMAT place was copied into it.",
-      "size": {
-        "tag": "measured",
-        "unit": "GMAT exams taken worldwide, testing year 2025",
-        "url": "https://poetsandquants.com/2025/10/29/global-gmat-test-volume-fell-19-in-2025-gmac-confirms/",
-        "value": 93196
-      },
-      "slug": "pre-mba-applicants-gmat-gre",
-      "status": "kept",
-      "venture_overlap": [
-        "v1"
-      ],
-      "where": [
-        {
-          "name": "GMAT Club forum",
-          "url": "https://gmatclub.com/forum/"
-        },
-        {
-          "name": "r/MBA (332k members; stats page)",
-          "url": "https://gummysearch.com/r/MBA/"
-        },
-        {
-          "name": "Beat The GMAT: ask an admissions consultant",
-          "url": "https://www.beatthegmat.com/ask-an-mba-admissions-consultant-f40.html"
-        }
-      ],
-      "who": "25 to 30-year-olds with 3 to 6 years of work. Over 12 to 18 months they take the GMAT or GRE, write essays, choose schools, interview and fund tuition.",
-      "who_pays": "The applicant."
-    },
-    {
-      "confidence": "moderate",
-      "duplicate_of": "cre-analysts-underwriting",
-      "geography": [
-        "GLOBAL"
-      ],
-      "ladder": [
-        {
-          "price_text": "$697",
-          "problem": "Real estate financial modeling course",
-          "step": 1,
-          "url": "https://www.adventuresincre.com/pricing/"
-        },
-        {
-          "price_text": "$1,350",
-          "problem": "ARGUS software certification",
-          "step": 2,
-          "url": "https://learn.naiop.org/argus-software-certification-asc-enterprise-bundle-2"
-        },
-        {
-          "problem": "Interview and modeling-test prep for an acquisitions move",
-          "step": 3
-        },
-        {
-          "problem": "Later: CFA or MBA, or a move to industrial and logistics specialist funds",
-          "step": 4
-        }
-      ],
-      "lens": "life_stage",
-      "name": "New graduates and junior analysts breaking into commercial real estate finance",
-      "origin": "generated",
-      "reasoning": "The founder has strong industrial and logistics real estate depth and warm reach through a private-equity network. The room gathers on WSO and A.CRE and pays four figures for skills. Duplicate of cre-analysts-underwriting: the same junior analysts buying the same Excel, ARGUS and credential ladder to move into acquisitions; the profession room has high confidence and four priced steps, and this room's two places were copied into it.",
-      "size": {
-        "reasoning": "Large brokerages, lenders and REPE funds hire thousands of analysts a year across the US, Europe, Gulf and Asia. No measured figure was found.",
-        "tag": "estimate",
-        "unit": "early-career CRE finance analysts worldwide",
-        "value": 20000
-      },
-      "slug": "early-career-cre-analysts",
-      "status": "kept",
-      "venture_overlap": [],
-      "where": [
-        {
-          "name": "Wall Street Oasis real estate forum: breaking into acquisitions",
-          "url": "https://www.wallstreetoasis.com/forum/real-estate/breaking-into-acquisitions"
-        },
-        {
-          "name": "Adventures in CRE (A.CRE) community and courses",
-          "url": "https://www.adventuresincre.com/"
-        }
-      ],
-      "who": "Graduates and 0 to 2-year brokerage or lending analysts who need Excel and ARGUS underwriting skills to move into acquisitions, asset management or real estate private equity.",
-      "who_pays": "The analyst; employers often pay for ARGUS."
     },
     {
       "confidence": "moderate",
@@ -3910,86 +3370,6 @@
       "who_pays": "The student and parents pay counsellors, editors and application fees. Banks and lenders fund the degree itself."
     },
     {
-      "confidence": "moderate",
-      "duplicate_of": "opt-grads-us-job-hunt",
-      "geography": [
-        "US",
-        "IN"
-      ],
-      "ladder": [
-        {
-          "price_text": "$470",
-          "problem": "OPT work permit application (Form I-765)",
-          "step": 1,
-          "url": "https://immiva.com/blog/i-765-opt-filing-fee-2026-complete-cost-breakdown"
-        },
-        {
-          "price_text": "$1,780",
-          "problem": "Premium processing so the permit arrives before the job start date",
-          "step": 2,
-          "url": "https://immiva.com/blog/i-765-premium-processing-opt-worth-it-2026"
-        },
-        {
-          "problem": "Finding employers that sponsor: sponsor databases, resume, interview prep",
-          "step": 3
-        },
-        {
-          "problem": "STEM OPT extension to buy two more years",
-          "step": 4
-        },
-        {
-          "price_text": "$2,965",
-          "problem": "H-1B petition with premium processing",
-          "step": 5,
-          "url": "https://www.vorys.com/publication-uscis-announces-increases-to-premium-processing-fees"
-        },
-        {
-          "problem": "Visa stamping abroad, then green card sponsorship",
-          "step": 6
-        }
-      ],
-      "lens": "transition",
-      "name": "International graduates in the US on OPT hunting for an H-1B sponsor",
-      "origin": "generated",
-      "reasoning": "One shared clock (OPT expiry), one shared goal (a sponsor) and busy shared forums. Government fees are fixed and public. The founder's GRE users become this room two years later, so reach is plausible; depth in job search and immigration is not on the ledger, so Stage 2 may cut it. Duplicate of opt-grads-us-job-hunt: the same OPT graduates hunting for an H-1B sponsor under the same 90-day clock; the life-stage room has a directly measured size and high confidence, and this room's three extra places and three priced steps (OPT application, premium processing, H-1B petition) were copied into it.",
-      "size": {
-        "reasoning": "Seen in a search result for the r/h1b stats page. Includes current H-1B holders, so the OPT slice is smaller.",
-        "tag": "measured",
-        "unit": "r/h1b members",
-        "url": "https://gummysearch.com/r/h1b/",
-        "value": 137000
-      },
-      "slug": "opt-grads-h1b-job-hunt-us",
-      "status": "kept",
-      "venture_overlap": [
-        "v1"
-      ],
-      "where": [
-        {
-          "name": "Blind thread: job searching on H-1B",
-          "url": "https://www.teamblind.com/post/job-searching-on-h1b-qyhkxn3v"
-        },
-        {
-          "name": "Blind F1 visa search results",
-          "url": "https://www.teamblind.com/search/F1Visa"
-        },
-        {
-          "name": "r/h1b (Reddit; stats page seen)",
-          "url": "https://gummysearch.com/r/h1b/"
-        },
-        {
-          "name": "University of Washington career page listing H-1B sponsor databases",
-          "url": "https://careers.uw.edu/resources/h1-b-sponsor-databases-target-employers-for-international-students/"
-        },
-        {
-          "name": "Syracuse University resources page for international students",
-          "url": "https://answers.atlassian.syr.edu/wiki/x/MgjzC"
-        }
-      ],
-      "who": "Foreign students, many of them Indian, who just finished a US degree, are working or job-hunting on an OPT work permit, and must find an employer who will file an H-1B before the permit and the 90-day unemployment limit run out.",
-      "who_pays": "The graduate pays filing fees, premium processing, resume and job-search tools. The employer pays most H-1B petition fees, but many graduates pay premium processing themselves."
-    },
-    {
       "confidence": "low",
       "duplicate_of": null,
       "geography": [
@@ -4208,71 +3588,6 @@
       ],
       "who": "Final-year students and young professionals in India preparing for the CAT held each November, then the GD-PI-WAT interview rounds in January to March, to join a two-year MBA in India.",
       "who_pays": "The aspirant and parents pay coaching and mock fees up front. Banks fund the MBA fees later."
-    },
-    {
-      "confidence": "moderate",
-      "duplicate_of": "ib-summer-analyst-recruits",
-      "geography": [
-        "GLOBAL",
-        "US",
-        "GB",
-        "IN"
-      ],
-      "ladder": [
-        {
-          "price_text": "$199.99",
-          "problem": "Interview prep guide and question bank",
-          "step": 1,
-          "url": "https://www.wallstreetoasis.com/courses/interview-prep/investment-banking"
-        },
-        {
-          "price_text": "$497",
-          "problem": "Financial modeling training before modeling tests",
-          "step": 2,
-          "url": "https://breakingintowallstreet.com/platinum/"
-        },
-        {
-          "problem": "Networking, resume review and mock interviews with a coach",
-          "step": 3
-        },
-        {
-          "problem": "First-year analyst survival: live deal modeling and long hours",
-          "step": 4
-        },
-        {
-          "problem": "Exit recruiting for private equity or an MBA",
-          "step": 5
-        }
-      ],
-      "lens": "transition",
-      "name": "Students and recent graduates recruiting for investment banking analyst roles",
-      "origin": "generated",
-      "reasoning": "One goal, one recruiting calendar, one big forum, and vendors with public prices. The founder's depth (corporate finance, valuation) and warm path (banking colleagues) fit. Distinct from the profession-lens analyst room: these people are not yet in the job. Duplicate of ib-summer-analyst-recruits: the same students preparing for the same IB analyst recruiting calendar with the same guides and courses; the life-stage room has high confidence and three priced steps, and this room's three places were copied into it.",
-      "size": {
-        "reasoning": "[thin] No measured number was seen. WSO is the main global forum and several vendors sell to this room; the yearly candidate pool is in the tens of thousands.",
-        "tag": "estimate",
-        "unit": "active IB candidates per recruiting cycle, worldwide",
-        "value": 50000
-      },
-      "slug": "ib-analyst-recruiting-students",
-      "status": "kept",
-      "venture_overlap": [],
-      "where": [
-        {
-          "name": "Wall Street Oasis forum (thread on IB prep courses)",
-          "url": "https://www.wallstreetoasis.com/forum/investment-banking/best-online-ib-prep-course"
-        },
-        {
-          "name": "Mergers & Inquisitions (blog hub with reader comments)",
-          "url": "https://mergersandinquisitions.com/breaking-into-wall-street-biws/"
-        },
-        {
-          "name": "IGotAnOffer (prep site with comparison pages)",
-          "url": "https://igotanoffer.com/en/advice/wall-street-prep-alternatives"
-        }
-      ],
-      "who": "Undergraduates, master's students and career changers worldwide preparing for investment banking summer analyst and full-time interviews: technical questions, modeling tests, networking and resume rounds on a fixed recruiting calendar.",
-      "who_pays": "The candidate pays for guides, courses and coaching from savings or parents. Nobody else pays until they are hired."
     },
     {
       "confidence": "moderate",
@@ -10631,6 +9946,6 @@
       "who_pays": "The professional pays personally for association dues and certificates; employers with a learning budget sometimes pay for a credential once the person is in role."
     }
   ],
-  "status": "counts_out_of_range",
+  "status": "ok",
   "warnings": []
 }
