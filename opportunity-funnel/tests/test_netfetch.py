@@ -165,3 +165,49 @@ def test_html_to_text_and_dates():
 def test_date_from_url(url, expected):
     assert netfetch.url_date_info(url) == expected
     assert netfetch.date_from_url(url) == expected[0]
+
+
+# --------------------------------------------------------------------------- rate limits shared across processes
+_RATE_SCRIPT = """
+import json, sys
+sys.path.insert(0, sys.argv[1])
+import netfetch
+sleeps = []
+netfetch._sleep = lambda s: sleeps.append(s)
+if sys.argv[2] == "domain":
+    waited = netfetch._rate_limit("api.test")
+else:
+    waited = netfetch.shared_window_wait("reddit", 2)
+print(json.dumps({"waited": waited, "sleeps": sleeps}))
+"""
+
+
+def test_rate_limit_and_reddit_window_are_shared_across_processes(froot, tmp_path):
+    """Rule 4: the listeners run one process per room against the same APIs. The per-domain interval and the
+    Reddit sliding window live in cache/ratelimit/ under a file lock, so a second process waits for the first."""
+    import subprocess
+    import sys
+    from conftest import PIPELINE
+
+    def run_once(mode, interval="3"):
+        env = dict(os.environ, FUNNEL_ROOT_OVERRIDE=str(froot), FUNNEL_MIN_INTERVAL=interval, FUNNEL_OFFLINE="1")
+        r = subprocess.run([sys.executable, "-c", _RATE_SCRIPT, str(PIPELINE), mode], capture_output=True, text=True, env=env, cwd=str(tmp_path))
+        assert r.returncode == 0, r.stderr
+        return json.loads(r.stdout)
+
+    first = run_once("domain")
+    second = run_once("domain")
+    assert first["waited"] == 0.0 and first["sleeps"] == []
+    assert 2.0 < second["waited"] <= 3.0 and second["sleeps"] == [second["waited"]]
+    assert (froot / "cache" / "ratelimit" / "domain-api.test.json").exists()
+    assert (froot / "cache" / "ratelimit" / "domain-api.test.lock").exists()
+    # the Reddit window: 2 a minute for ALL processes together, so the third process waits close to 60 s
+    w1, w2, w3 = run_once("window"), run_once("window"), run_once("window")
+    assert w1["waited"] == 0.0 and w2["waited"] == 0.0
+    assert 55.0 < w3["waited"] <= 60.0 and w3["sleeps"] == [w3["waited"]]
+    state = json.loads((froot / "cache" / "ratelimit" / "window-reddit.json").read_text(encoding="utf-8"))
+    assert state["per_minute"] == 2 and len(state["times"]) == 2
+    # interval 0 (tests) keeps the fast path and never touches the file for a new domain
+    assert run_once("domain", interval="0")["waited"] == 0.0
+    import sources
+    assert sources._REDDIT_GATE.name == "reddit" and sources._REDDIT_GATE.per_minute == 60

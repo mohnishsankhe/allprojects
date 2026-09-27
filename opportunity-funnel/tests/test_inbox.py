@@ -298,3 +298,28 @@ def test_file_names_that_are_people_never_reach_any_output(run, froot, cli):
     assert json.loads(index.read_text(encoding="utf-8"))[sources.inbox_label("Anita Desai.txt")]["path"] == "Anita Desai.txt"
     gitignore = (Path(__file__).resolve().parent.parent / ".gitignore").read_text(encoding="utf-8")
     assert "runs/*/03_listen/raw/" in gitignore
+
+
+def test_contact_descriptors_never_strip_ordinary_words_from_other_messages(run, froot):
+    """A saved contact "Rahul GRE Tutor" removes Rahul (and the whole contact name) from every message, but
+    GRE, tutor, coaching and the file label stay whole: the evidence text is what the quotes must match."""
+    d = froot / "inbox" / "closed_groups" / ROOM
+    d.mkdir(parents=True)
+    (d / "gre-batch.txt").write_text(
+        "13/05/2024, 10:01 - Rahul GRE Tutor: GRE prep is expensive, my tutor charged 40k\n"
+        "13/05/2024, 10:02 - Priya Mehta: my GRE tutor was worse, I paid 50k and got 300\n"
+        "13/05/2024, 10:03 - Priya Mehta: Rahul GRE Tutor and rahul both said the coaching centre in Delhi is fine\n"
+        "13/05/2024, 10:04 - Amit Sir Coaching: sir, the GRE coaching fee is 30k at our centre\n", encoding="utf-8")
+    s = sources.ingest_inbox(run, ROOM)
+    assert s["records_new"] == 4 and s["senders_removed"] == 3
+    texts = [r["text"] for r in sorted(records.load_records(run, ROOM), key=lambda r: r["meta"]["order"])]
+    assert texts == [
+        "GRE prep is expensive, my tutor charged 40k",
+        "my GRE tutor was worse, I paid 50k and got 300",
+        "[name] and [name] both said the coaching centre in Delhi is fine",
+        "sir, the GRE coaching fee is 30k at our centre",
+    ]
+    raw = _raw_text(run)
+    for needle in ("Rahul", "rahul", "Priya", "Mehta", "Amit", "gre-batch"):
+        assert needle not in raw, needle
+    assert "[name]-batch" not in raw and sources.inbox_label("gre-batch.txt") in raw

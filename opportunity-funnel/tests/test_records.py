@@ -226,3 +226,108 @@ def test_walls_ledger_and_checks(froot):
     assert common.check_price(price, "p") == []
     assert common.check_price(dict(price, seen_via="guess"), "p")
     assert common.check_price(dict(price, currency="usd"), "p")
+
+
+# --------------------------------------------------------------------------- graveyard: the last line decides
+def test_graveyard_item_killed_again_after_a_revival_is_dead(froot):
+    """Rule 7: a revival note revives only the line it sits under. A later kill line kills the item again;
+    a revival under the LAST kill line revives it. The old `dead -= revived` set logic got this wrong."""
+    (froot / "graveyard.md").write_text(
+        "# Graveyard\n\n"
+        "- 2026-08-01 | stage 3 | pain:room-a--fee-shock | fewer than 2 verified quotes\n"
+        "  - new evidence 2026-08-15: 3 verified quotes now, see record 1234abcd\n"
+        "- 2026-09-01 | stage 6 | pain:room-a--fee-shock | numbers fail in the base case: usd_per_hour\n"
+        "- 2026-08-01 | stage 2 | room:twice-dead | no reach\n"
+        "- 2026-09-01 | stage 2 | room:twice-dead | no reach again\n"
+        "  - new evidence 2026-09-10: a warm path https://x.test/t\n"
+        "- 2026-08-01 | stage 2 | room:plain-dead | no reach\n", encoding="utf-8")
+    entries = common.parse_graveyard()
+    assert [e["status"] for e in entries] == ["revived", "dead", "dead", "revived", "dead"]
+    assert common.dead_items("pain") == {"pain:room-a--fee-shock"}
+    assert common.dead_items("room") == {"room:plain-dead"}
+    assert common.is_dead("pain:room-a--fee-shock") and not common.is_dead("room:twice-dead")
+    last = common.dead_entries("pain")["pain:room-a--fee-shock"]
+    assert last["date"] == "2026-09-01" and last["stage"] == "stage 6"
+    # a run's own later kills are left out of the decision
+    assert "pain:room-a--fee-shock" not in common.dead_entries("pain", ignore_date="2026-09-01")
+    assert "room:plain-dead" in common.dead_entries("room", ignore_date="2026-09-01")
+    # the stage helpers and the admin checks share the rule
+    import admin
+    import stage1
+    import stage3
+    run = froot / "runs" / "2026-09-26"
+    assert "pain:room-a--fee-shock" in stage3.dead_pains_from_other_runs(run)
+    assert set(stage1.dead_rooms_from_other_runs(run)) == {"room:plain-dead"}
+    with pytest.raises(common.ValidationErrors) as e:
+        admin.loop_init("plain-dead")
+    assert "dead in graveyard.md (2026-08-01, stage 2: no reach)" in str(e.value)
+
+
+def test_sync_graveyard_drops_stale_same_date_lines_and_keeps_revived_ones(froot):
+    """A stage rerun on the same date makes its lines say exactly what it killed this time: an item the rerun
+    keeps loses its stale line (a later run must not kill it for a fixed mistake); a line the founder revived,
+    other dates, other stages and other items are never touched; a dry run writes nothing."""
+    gy = froot / "graveyard.md"
+    gy.write_text("# Graveyard\n\n"
+                  "- 2026-09-26 | stage 2 | room:life-stage-0 | failed spend: no spend item\n"
+                  "- 2026-09-26 | stage 2 | room:revived-room | failed reach: no reach entry matches\n"
+                  "  - new evidence 2026-09-26: warm path w1 confirmed https://x.test/t\n"
+                  "- 2026-09-26 | stage 2 | room:still-dead | failed depth: old reason\n"
+                  "- 2026-09-26 | stage 3 | pain:life-stage-0--p | fewer than 2 verified quotes\n"
+                  "- 2026-09-20 | stage 2 | room:other-run | failed depth\n", encoding="utf-8")
+    out = common.sync_graveyard("2026-09-26", 2, ["room:life-stage-0", "room:revived-room", "room:still-dead", "room:new-kill"],
+                                {"room:still-dead": "failed depth: new reason", "room:new-kill": "failed ladder"})
+    assert out == {"added": 1, "updated": 1, "removed": 1}
+    text = gy.read_text(encoding="utf-8")
+    assert "room:life-stage-0" not in text
+    assert "- 2026-09-26 | stage 2 | room:still-dead | failed depth: new reason" in text and "old reason" not in text
+    assert "- 2026-09-26 | stage 2 | room:new-kill | failed ladder" in text and text.count("room:new-kill") == 1
+    assert ("- 2026-09-26 | stage 2 | room:revived-room | failed reach: no reach entry matches\n"
+            "  - new evidence 2026-09-26: warm path w1 confirmed https://x.test/t") in text
+    assert "- 2026-09-26 | stage 3 | pain:life-stage-0--p | fewer than 2 verified quotes" in text
+    assert "- 2026-09-20 | stage 2 | room:other-run | failed depth" in text
+    assert text.endswith("\n") and not text.endswith("\n\n")
+    # a later run sees only the real kills
+    later = froot / "runs" / "2026-10-03"
+    import stage1
+    dead = stage1.dead_rooms_from_other_runs(later)
+    assert "room:life-stage-0" not in dead and "room:revived-room" not in dead
+    assert set(dead) == {"room:still-dead", "room:new-kill", "room:other-run"}
+    # idempotent, and a dry run never writes
+    before = gy.read_bytes()
+    assert common.sync_graveyard("2026-09-26", 2, ["room:still-dead", "room:new-kill"],
+                                 {"room:still-dead": "failed depth: new reason", "room:new-kill": "failed ladder"}) == {"added": 0, "updated": 0, "removed": 0}
+    assert gy.read_bytes() == before
+    common.set_dry_run(True)
+    try:
+        assert common.sync_graveyard("2026-09-26", 2, ["room:still-dead"], {}) == {"added": 0, "updated": 0, "removed": 0}
+    finally:
+        common.set_dry_run(False)
+    assert gy.read_bytes() == before
+
+
+# --------------------------------------------------------------------------- lookback: month-precision URL dates
+def test_month_precision_url_dates_are_dropped_by_month_not_by_the_first(run, h):
+    """A /YYYY/MM/ URL only shows the month. In the cutoff month it does not show a date older than the
+    lookback, so the record is kept (and counted); an earlier month is dropped; a day-precision date is
+    still compared by day."""
+    import harvest
+    q = {"query": "q", "kind": "blog", "round": 1, "query_index": 1}
+    recs = [
+        harvest.link_to_record({"title": "a post from late September in the cutoff month", "url": "https://blog.test/2024/09/post-from-late-september"}, q, 1),
+        harvest.link_to_record({"title": "a post from the month before the cutoff", "url": "https://blog.test/2024/08/older-post"}, q, 2),
+        harvest.link_to_record({"title": "a day dated post just before the cutoff", "url": "https://blog.test/2024/09/25/day-post"}, q, 3),
+        harvest.link_to_record({"title": "a day dated post on the cutoff day itself", "url": "https://blog.test/2024/09/26/edge-post"}, q, 4),
+    ]
+    assert recs[0]["date"] == "2024-09-01" and recs[0]["meta"]["date_precision"] == "month"
+    assert recs[2]["date"] == "2024-09-25" and recs[2]["meta"]["date_precision"] == "day"
+    h.store(run, ROOM, recs)
+    m = records.make_batches(run, ROOM)
+    f = m["filters"]
+    assert f["lookback_cutoff"] == "2024-09-26"
+    assert f["loaded"] == 4 and f["kept"] == 2 and f["dropped_old"] == 2 and f["kept_month_at_cutoff"] == 1
+    ids = m["batches"]["batch_r1_001"]
+    assert common.record_id(recs[0]["url"], recs[0]["text"]) in ids
+    assert common.record_id(recs[3]["url"], recs[3]["text"]) in ids
+    assert common.record_id(recs[1]["url"], recs[1]["text"]) not in ids
+    assert common.record_id(recs[2]["url"], recs[2]["text"]) not in ids

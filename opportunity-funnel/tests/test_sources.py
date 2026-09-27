@@ -627,3 +627,39 @@ def test_partial_results_are_kept_when_a_later_page_is_blocked(froot, run, monke
     assert len(records.load_records(run, ROOM)) == 1
     notes = [ev for ev in _events(run) if ev["kind"] == "note" and "before the source failed" in ev.get("note", "")]
     assert len(notes) == 1
+
+
+# --------------------------------------------------------------------------- Discourse quote headers (rule 5)
+QUOTED_COOKED = ('<aside class="quote no-group" data-username="priya_s" data-post="3" data-topic="55">'
+                 '<div class="title"><div class="quote-controls"></div><img class="avatar" src="/u/a.png"> priya_s:</div>'
+                 '<blockquote><p>I paid 40k and still scored 300</p></blockquote></aside>'
+                 '<p>Same here, <a class="mention" href="/u/rahul_v">@rahul_v</a> told me the same.</p>')
+
+
+def test_discourse_quote_headers_never_keep_the_quoted_username(froot, run, monkeypatch):
+    html, users = sources.strip_quote_headers(QUOTED_COOKED)
+    assert users == ["priya_s"] and "priya_s" not in html and '<div class="title">[user]:</div>' in html
+    text = anonymize_text = __import__("anonymize").anonymize(netfetch.html_to_text(html), known_names=users)
+    assert text == "[user]:\nI paid 40k and still scored 300\nSame here, [user] told me the same."
+    assert sources.strip_quote_headers(None) == ("", []) and sources.strip_quote_headers("<p>plain</p>") == ("<p>plain</p>", [])
+    # through the adapter: the quoted member's username reaches neither the text nor the meta
+    write_sources_md(froot, decisions=["- 2026-09-20 | forum.test | allowed | terms allow reading public posts | https://forum.test/tos"])
+    topic = {"id": 77, "title": "Quoted reply", "slug": "quoted-reply",
+             "post_stream": {"posts": [
+                 {"id": 970, "name": "Ann Lee", "username": "ann_lee", "created_at": "2025-04-01T10:00:00.000Z", "cooked": QUOTED_COOKED,
+                  "post_number": 1, "post_type": 1, "topic_id": 77, "user_id": 3},
+                 {"id": 971, "name": "Priya S", "username": "priya_s", "created_at": "2025-04-02T10:00:00.000Z",
+                  "cooked": "<p>priya_s here again, I got a refund.</p>", "post_number": 2, "post_type": 1, "topic_id": 77, "user_id": 4}],
+                 "stream": [970, 971]}}
+    router = Router().add(lambda u, p: u == "https://forum.test/t/77.json", _json(topic))
+    _online(monkeypatch, router)
+    s = sources.fetch_discourse(run, ROOM, "https://forum.test", topics=["https://forum.test/t/quoted-reply/77"])
+    assert s["records_new"] == 2
+    recs = {r["url"]: r for r in records.load_records(run, ROOM)}
+    assert recs["https://forum.test/t/quoted-reply/77/1"]["text"] == \
+        "Quoted reply\n\n[user]:\nI paid 40k and still scored 300\nSame here, [user] told me the same."
+    assert recs["https://forum.test/t/quoted-reply/77/2"]["text"] == "[name] here again, I got a refund."
+    raw = _raw(run, "discourse")
+    for needle in ("priya_s", "rahul_v", "Priya S", "Ann Lee", "ann_lee", "data-username"):
+        assert needle not in raw, needle
+    _assert_no_author_fields(raw)
