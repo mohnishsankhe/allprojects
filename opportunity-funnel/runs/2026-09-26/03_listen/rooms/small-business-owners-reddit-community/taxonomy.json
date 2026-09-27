@@ -1,0 +1,109 @@
+{
+  "room": "small-business-owners-reddit-community",
+  "round_written": 1,
+  "note": "Pains are problems in the room's own words, taken from round-1 records (search-result titles). Keys are slugs. A record gets at most two keys.",
+  "pains": [
+    {
+      "key": "missed-calls",
+      "label": "We miss calls, especially after hours, and lose the customer",
+      "definition": "The owner cannot answer every call and has nobody on the phone 24/7. Missed calls and voicemail hang-ups mean lost leads and lost revenue.",
+      "added_round": 1
+    },
+    {
+      "key": "answering-service-worth-it",
+      "label": "Is an answering service or AI receptionist worth the money, or will it annoy customers?",
+      "definition": "Doubt before or after paying for a human or AI call-answering service: does it save money, is it reliable, do customers hate talking to a bot.",
+      "added_round": 1
+    },
+    {
+      "key": "quickbooks-price-hikes",
+      "label": "QuickBooks keeps raising prices and forcing us online; time to switch?",
+      "definition": "Price increases, hidden fees and the forced move from QuickBooks Desktop to Online. Owners ask whether to convert or leave for an alternative.",
+      "added_round": 1
+    },
+    {
+      "key": "bookkeeper-cpa-fees",
+      "label": "Bookkeeping and tax prep fees feel too high and we don't know what's fair",
+      "definition": "What a bookkeeper, accountant or CPA should cost, sticker shock at the bill, and bad experiences with the one we paid.",
+      "added_round": 1
+    },
+    {
+      "key": "cash-flow-tight",
+      "label": "Profitable on paper but broke: cash runs tight and loans are hard to get",
+      "definition": "Cash-flow crunches, staying afloat in tough times, and getting a loan approved.",
+      "added_round": 1
+    },
+    {
+      "key": "clients-wont-pay",
+      "label": "Customers pay late or won't pay the invoice at all",
+      "definition": "Unpaid invoices, late payments and what to do when a client refuses to pay.",
+      "added_round": 1
+    },
+    {
+      "key": "not-found-on-google",
+      "label": "Google Business Profile suspended or not showing; customers can't find us",
+      "definition": "Profile suspensions and failed appeals, business not appearing on Maps or Search, website not showing on Google, and what it costs to fix with local SEO or profile management.",
+      "added_round": 1
+    },
+    {
+      "key": "not-in-ai-answers",
+      "label": "Customers now ask ChatGPT and AI search for local businesses and we aren't recommended",
+      "definition": "Being cited or recommended by AI assistants and Google AI Mode when customers look for a local business.",
+      "added_round": 1
+    },
+    {
+      "key": "paid-marketing-no-results",
+      "label": "Paid for ads, an SEO agency, Yelp or lead sites and got nothing back",
+      "definition": "Wasted ad spend, SEO agency scams and red flags, Yelp ad pressure, lead-gen sites that sell junk leads, and the wish to get customers without paying for ads.",
+      "added_round": 1
+    },
+    {
+      "key": "fake-reviews",
+      "label": "Fake or manipulated reviews hurt the business, and buying reviews now brings fines",
+      "definition": "Fake negative reviews by scammers or competitors, review manipulation by platforms, and the FTC rule against buying reviews.",
+      "added_round": 1
+    },
+    {
+      "key": "insurance-cost",
+      "label": "Business insurance costs keep climbing; can't find affordable cover or the claim is denied",
+      "definition": "The cost of general liability and other business cover, affordable health insurance for the owner and staff, and denied claims.",
+      "added_round": 1
+    },
+    {
+      "key": "deadlines-and-rules",
+      "label": "Tax deadlines, late fees and filings we can be fined for",
+      "definition": "Quarterly estimated taxes, Form 941, sales-tax nexus, GST returns and late fees in India, BOI reporting, contractor misclassification and rules for AI calling.",
+      "added_round": 1
+    },
+    {
+      "key": "staffing-first-hire",
+      "label": "Can't find or keep staff; the first hire and payroll are a minefield",
+      "definition": "Finding staff, no-shows, being too busy to hire, hiring the first employee, payroll mistakes and what payroll services cost.",
+      "added_round": 1
+    },
+    {
+      "key": "selling-the-business",
+      "label": "Don't know what the business is worth, and the broker wants 10% at closing",
+      "definition": "Valuing the business, broker commissions and legal fees on a sale, and whether a broker is worth it.",
+      "added_round": 1
+    },
+    {
+      "key": "always-on-burnout",
+      "label": "Always on: after-hours calls, no time off, burnout",
+      "definition": "The owner cannot switch off; the business runs through them.",
+      "added_round": 1
+    },
+    {
+      "key": "subscription-creep",
+      "label": "Wasting money on software subscriptions we don't use",
+      "definition": "Too many tools on auto-renew; money wasted on tech the business does not need.",
+      "added_round": 1
+    },
+    {
+      "key": "payment-tools-fail",
+      "label": "Payment processor outages, chargebacks and fraud disputes cost real money",
+      "definition": "Card-processor outages that stop sales, chargebacks and dispute fees.",
+      "added_round": 1
+    }
+  ]
+}
