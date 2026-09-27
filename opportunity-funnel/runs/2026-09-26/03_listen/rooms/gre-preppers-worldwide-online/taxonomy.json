@@ -1,0 +1,103 @@
+{
+  "room": "gre-preppers-worldwide-online",
+  "round_written": 1,
+  "note": "Round 1 records are web-search titles only. Pains are written in the words the titles use. A pain is a problem, not a topic; product names and rule pages carry no pain.",
+  "pains": [
+    {
+      "key": "score_not_improving",
+      "label": "My score is stuck or going down despite intense prep",
+      "definition": "The person has studied for weeks and the practice or real score has stopped rising, or is falling. Titles: 'Why is my GRE score not improving?', 'score stagnant or going down despite extremely intense prep', 'stuck at a particular score', 'GRE score plateau'.",
+      "added_round": 1
+    },
+    {
+      "key": "test_day_below_practice",
+      "label": "I scored lower on the real test than on PowerPrep or my mocks",
+      "definition": "The official score came in below practice-test scores; the person crumbled under pressure, made careless errors on the day, or found the real test harder than every practice paper. Titles: 'Why was my official GRE score lower than my practice scores?', 'scored a consistent 312+ in the Manhattan tests, but somehow I crumbled', 'GRE at home quant much harder than any practice paper'.",
+      "added_round": 1
+    },
+    {
+      "key": "quant_struggle",
+      "label": "Quant is hard for me, or I keep losing easy points to careless errors",
+      "definition": "Trouble with the quantitative section itself: a non-maths background, 'PLEASE HELP - GRE QUANT', 'why don't my scores improve in quant', careless mistakes, or being stuck below 165 or 170 in quant.",
+      "added_round": 1
+    },
+    {
+      "key": "verbal_vocab_struggle",
+      "label": "Verbal and vocabulary are hard, especially as a non-native English speaker",
+      "definition": "Trouble with the verbal section: reading comprehension, word lists, 'what should I do to improve verbal', 'how can a non-English speaking person crack GRE', 'how difficult is the GRE for non-native English speakers'.",
+      "added_round": 1
+    },
+    {
+      "key": "no_time_to_prep",
+      "label": "I work full time or my exam is in weeks; is one month enough?",
+      "definition": "Too little time to prepare: studying while working full time, 'is 10 days enough', 'can I get 300 in 1 month', 'how long does it take to prepare', 21-day retake plans.",
+      "added_round": 1
+    },
+    {
+      "key": "test_anxiety_burnout",
+      "label": "Exam anxiety, stress and burnout during prep or on the day",
+      "definition": "Mental and emotional strain: test anxiety, 'stress', 'nightmare of a GRE session', burnout while applying, the mental spiral before the exam.",
+      "added_round": 1
+    },
+    {
+      "key": "prep_worth_the_money",
+      "label": "Is coaching, a course or a tutor worth it, or should I self-study? I cannot afford a class",
+      "definition": "Whether to pay for prep at all: 'are GRE prep courses worth it', 'is a GRE tutor worth it', 'should you buy the GregMat subscription', 'is it necessary to take coaching', 'I cannot afford to take a class', 'cheapest way to study', a 22K INR video-only course. Includes a seller's 'is it worth it' review of a named course.",
+      "added_round": 1
+    },
+    {
+      "key": "which_prep_to_pick",
+      "label": "Magoosh or GregMat or Kaplan or TTP? Which book, course or coaching should I trust?",
+      "definition": "Choosing between named prep options or coaching centres: 'GregMat vs Magoosh', 'which subscription is best for 2 months', 'which is the best GRE coaching centre in Hyderabad', 'is Jamboree really good or just marketing', 'best books for quant'. Ranking and comparison pages carry this pain as the question they answer.",
+      "added_round": 1
+    },
+    {
+      "key": "exam_and_fees_too_high",
+      "label": "The exam fee, score-report fees and total cost are too high; how do I save?",
+      "definition": "The cost of the GRE itself and its add-ons: 'the GRE costs $195, why is the cost so high, is there a way to avoid such high fees', 'cost of sending GRE score reports has increased', fee-reduction vouchers, 'how much money is needed after cracking GRE for MS', coaching fee questions. Pages that only list fees answer this question.",
+      "added_round": 1
+    },
+    {
+      "key": "refund_or_cancel_trouble",
+      "label": "I cancelled or rescheduled and the refund never came; how do I cancel?",
+      "definition": "Cancelling or rescheduling a test or a prep subscription and getting the money back: 'I have cancelled my GRE exam, when will I get my refund', 'it's been around 2 years and ETS didn't return the refund', 'how to cancel my GRE', a course's refund policy.",
+      "added_round": 1
+    },
+    {
+      "key": "retake_or_not",
+      "label": "Should I retake, what does a retake cost, and how much can I gain?",
+      "definition": "Deciding on a second or third attempt: 'should I retake it or not', 'walk of shame... retaking GRE', 'how much does it cost to retake', 'can the score be improved by 20 points in the retake', how often one may retake, the 21-day rule.",
+      "added_round": 1
+    },
+    {
+      "key": "low_score_admission_worry",
+      "label": "With my low score can I still get into an MS in the US? Is my score good enough?",
+      "definition": "Fear that the score will sink the application: 'if my GRE score is low I can not study MS in US or Canada?', 'how to tackle a low GRE score', 'is 155 in quant good enough for an engineering master's', 'what score do top universities need', applying with a low score.",
+      "added_round": 1
+    },
+    {
+      "key": "at_home_test_trouble",
+      "label": "At-home test problems: internet drop, flagged by the proctor, score card not available",
+      "definition": "Trouble with the GRE at home: 'if the internet connection is lost in the middle of the test', 'scores unavailable issue', 'score card not available', 'candidates are getting flagged', 'what happens if my exam ends early', delays, whether to test at home or at a centre.",
+      "added_round": 1
+    },
+    {
+      "key": "score_cancelled_or_on_hold",
+      "label": "ETS cancelled my score or put it on hold",
+      "definition": "A score the person earned was cancelled or held by ETS after the test: 'GRE scores canceled - what's next', 'GRE score card was cancelled, why', 'why are my GRE scores on hold', 'if the difference between two scores is too large will it be cancelled'.",
+      "added_round": 1
+    },
+    {
+      "key": "is_gre_needed_at_all",
+      "label": "Do I even need the GRE now that programs are test-optional? Is it a waste of money?",
+      "definition": "Not knowing whether to spend on the GRE at all: 'is GRE required', 'should I take the GRE if it's optional', 'is GRE mandatory for MS in USA', 'should I take the GRE or is it a waste of money', 'which programs waived it', GRE vs GMAT choice.",
+      "added_round": 1
+    },
+    {
+      "key": "score_reporting_mistakes",
+      "label": "I sent, withheld or cancelled a score by mistake and want to fix it",
+      "definition": "Trouble with reporting scores after the test: 'mistakenly opted not to report score', 'how to withdraw from sending my score to a university', 'canceled the GRE score right after the test, should I reinstate', score reinstatement.",
+      "added_round": 1
+    }
+  ]
+}
