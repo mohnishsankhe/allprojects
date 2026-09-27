@@ -1,0 +1,35 @@
+{
+  "final": false,
+  "room": "bpo-contact-centre-operators-india-philippines",
+  "rounds": [
+    {
+      "evaluable": false,
+      "new_pains": [],
+      "new_records": 1243,
+      "note": "not evaluable: round 1 builds the pain list; saturation is tested on the records of round 2 and later",
+      "rank_changes": [],
+      "records": 1243,
+      "round": 1,
+      "saturated": false,
+      "taxonomy_keys": [
+        "agent-attrition-and-hiring",
+        "ai-and-seat-price-pressure",
+        "client-quality-audits",
+        "data-security-compliance",
+        "dialer-and-carrier-problems",
+        "dialer-cost-and-choice",
+        "finding-clients",
+        "middlemen-upfront-fees",
+        "numbers-flagged-spam",
+        "registration-and-licences",
+        "seat-setup-cost",
+        "telemarketing-rules",
+        "wfm-staffing"
+      ],
+      "window": 300,
+      "window_used": 1243
+    }
+  ],
+  "stop_reason": null,
+  "window": 300
+}

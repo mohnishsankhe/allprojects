@@ -1,0 +1,88 @@
+{
+  "pains": [
+    {
+      "key": "blew-up-account",
+      "label": "Blew up my account or lost a big chunk of my savings on options: how do I make it back?",
+      "definition": "The writer (or the thread) reports losing a large sum, the whole account or their savings trading options (0DTE, Bank Nifty option buying, selling premium) and often asks how to recover it.",
+      "added_round": 1
+    },
+    {
+      "key": "keep-losing-dont-know-why",
+      "label": "I keep losing money on options and don't know what I'm doing wrong",
+      "definition": "Ongoing losses rather than one blow-up: the writer asks why they (or most traders, or option buyers) always lose, what mistakes they make and how to stop losing.",
+      "added_round": 1
+    },
+    {
+      "key": "devastated-after-loss",
+      "label": "Devastated and full of regret after a trading loss: how do you cope?",
+      "definition": "The emotional aftermath of trading losses: regret, feeling sad or stupid, can't enjoy life, asking how others stay calm or cope.",
+      "added_round": 1
+    },
+    {
+      "key": "revenge-trading-gambling",
+      "label": "Can't control my emotions: revenge trading, overtrading, trading like gambling",
+      "definition": "Discipline and compulsion problems: revenge trades after a loss, overtrading, greed and fear, options trading that feels like a gambling addiction.",
+      "added_round": 1
+    },
+    {
+      "key": "paid-help-not-worth-it",
+      "label": "Is this course, Discord or mentor worth the money, or a scam? I paid for one that didn't help",
+      "definition": "Doubts about, or bad experiences with, paid options education, mentorship, Discord communities and alert services: is it worth it, which one to pick, fake gurus, scams, wasted money.",
+      "added_round": 1
+    },
+    {
+      "key": "telegram-tips-scam",
+      "label": "Lost money to Telegram tips channels, fake advisers and copy-trading scams",
+      "definition": "Tips or signal channels on Telegram or WhatsApp, unregistered advisers, impersonators and copy-trading schemes that take traders' money; how to tell which channel is genuine.",
+      "added_round": 1
+    },
+    {
+      "key": "assignment-margin-surprise",
+      "label": "Assignment, margin calls or my broker's actions cost me money by surprise",
+      "definition": "Surprises from options mechanics and broker actions: early assignment or exercise, physical settlement, margin shortfall penalties, margin calls, forced liquidation and broker errors that leave the trader owing money or losing positions.",
+      "added_round": 1
+    },
+    {
+      "key": "us-options-tax-mess",
+      "label": "Taxes on active options trading are a mess: wash sales, 1099-B, trader tax status (US)",
+      "definition": "US tax pain from many trades: wash sales that disallow losses, confusing 1099-B forms, trader tax status and the section 475 election deadline, needing special software or a CPA.",
+      "added_round": 1
+    },
+    {
+      "key": "fo-loss-itr-audit",
+      "label": "How do I show my F&O loss in the ITR, and do I need a tax audit? (India)",
+      "definition": "Indian F&O traders unsure how to file: which ITR form, how turnover is counted, when a tax audit is compulsory, carrying losses forward, penalties for not reporting.",
+      "added_round": 1
+    },
+    {
+      "key": "sebi-rules-squeeze",
+      "label": "SEBI's new F&O rules (bigger lots, fewer weekly expiries, more margin) hit small traders (India)",
+      "definition": "Rule changes by SEBI and the exchanges that raise capital needs, add margin, cut weekly expiries, collect option premium upfront or regulate retail algos; traders ask how they are affected.",
+      "added_round": 1
+    },
+    {
+      "key": "small-account-pdt",
+      "label": "Small account: the $25,000 pattern day trader rule and too little capital hold me back",
+      "definition": "Traders with small accounts blocked by the pattern day trader rule's day-trade limit or by too little capital, and looking for a way around it (US regulators scrapped the $25,000 minimum in 2026).",
+      "added_round": 1
+    },
+    {
+      "key": "trade-for-a-living-doubt",
+      "label": "Can options trading replace my job? Quitting to trade full time backfired",
+      "definition": "Whether trading can realistically become the main income, whether to keep the job and trade alongside it, when to quit, and regret after quitting to trade full time.",
+      "added_round": 1
+    },
+    {
+      "key": "tool-data-costs-add-up",
+      "label": "Paying for data, charting, analytics, journals and backtesting adds up: which are worth it?",
+      "definition": "The cost of real-time options data, charting and analytics subscriptions, trade journals and historical data for backtesting; hidden fees; whether a paid tool is worth it or a free way exists.",
+      "added_round": 1
+    },
+    {
+      "key": "prop-firm-fees-no-payout",
+      "label": "Paid prop-firm evaluation fees, then failed or got the payout denied",
+      "definition": "Funded-trader programs: repeated evaluation fees, rule traps, denied payouts and prop-firm scams.",
+      "added_round": 1
+    }
+  ]
+}

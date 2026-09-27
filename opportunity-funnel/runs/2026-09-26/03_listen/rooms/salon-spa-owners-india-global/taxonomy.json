@@ -1,0 +1,106 @@
+{
+  "pains": [
+    {
+      "key": "no-shows-late-cancellations",
+      "label": "Clients not turning up or cancelling at the last minute",
+      "definition": "Clients who don't show, forget their appointment or cancel at the last minute, leaving an empty paid slot. Includes the owner's struggle over whether to charge a no-show or cancellation fee, take a deposit, or word a cancellation policy.",
+      "added_round": 1
+    },
+    {
+      "key": "missed-calls-out-of-hours",
+      "label": "Missed calls while with a client; clients ringing and texting out of hours",
+      "definition": "Calls and messages the owner can't answer while working on a client or after closing, so bookings are lost or the owner answers the phone in the evening and on Sundays.",
+      "added_round": 1
+    },
+    {
+      "key": "booking-payment-systems",
+      "label": "Which booking system? Going over to computer bookings and taking card payments",
+      "definition": "Choosing, switching to or living with an online booking system or salon software (moving off the paper diary), and choosing how to take card payments, with problems in the system they have.",
+      "added_round": 1
+    },
+    {
+      "key": "software-fees-commissions",
+      "label": "'Free' booking software with hidden fees and a cut on new clients",
+      "definition": "What salon software and booking marketplaces really cost: monthly plans, a commission on new clients, card-processing fees and hidden costs that eat into takings, and whether the software is worth the money.",
+      "added_round": 1
+    },
+    {
+      "key": "getting-new-clients",
+      "label": "No clients: how to get more clients",
+      "definition": "Not enough clients to fill the diary or the chairs, especially for new, home-based or mobile salons and newly rented rooms; how to attract new clients.",
+      "added_round": 1
+    },
+    {
+      "key": "paid-listings-no-return",
+      "label": "Paying for Justdial, deals and ads that bring fake leads, not clients",
+      "definition": "Money spent on paid listings (Justdial), deal sites (Groupon, nearbuy, magicpin) and online ads that bring fake leads, bargain hunters or no clients, and paid plans that are hard to stop.",
+      "added_round": 1
+    },
+    {
+      "key": "staff-taking-clients",
+      "label": "Staff taking salon clients",
+      "definition": "Stylists or therapists doing salon clients at home on the side, or taking the client list with them when they leave.",
+      "added_round": 1
+    },
+    {
+      "key": "staff-hiring-quitting",
+      "label": "Can't find or keep good staff; staff quit",
+      "definition": "Hard to find and hire skilled stylists and therapists, staff quitting often (turnover), and the owner losing control of the team.",
+      "added_round": 1
+    },
+    {
+      "key": "licences-gst-rules",
+      "label": "Which licences and registrations, and GST: what's needed and what it costs",
+      "definition": "Which licences, registrations and rules a salon or spa must meet (trade or health licence, shop registration, fire NOC, staff insurance and provident fund, spa rules, health and safety, closure orders), how to get them, and the GST rate, registration and burden.",
+      "added_round": 1
+    },
+    {
+      "key": "unhappy-clients-refunds",
+      "label": "Client wants a refund, or won't pay",
+      "definition": "Clients unhappy with a service who demand a refund, refuse to pay, dispute the card charge (chargeback), make a scene or post a bad review.",
+      "added_round": 1
+    },
+    {
+      "key": "chair-room-rent",
+      "label": "Am I paying too much to rent a chair or room?",
+      "definition": "Chair and room rent inside a salon: what to pay or charge, what the rent covers, what renters and owners owe each other, and how long a rented room takes to pay off.",
+      "added_round": 1
+    },
+    {
+      "key": "setting-prices",
+      "label": "What to charge, and raising prices without losing clients",
+      "definition": "Setting prices for services (home versus salon prices, new services, rate lists), raising prices, discounting, and clients complaining about fees.",
+      "added_round": 1
+    },
+    {
+      "key": "opening-costs",
+      "label": "How much it costs to open a salon or parlour, and will it pay back",
+      "definition": "The budget needed to open a salon, parlour or spa (fit-out, interiors, equipment), costly mistakes when starting, and whether the money put in will come back as profit.",
+      "added_round": 1
+    },
+    {
+      "key": "losing-money-failing",
+      "label": "Salon losing money, in debt or failing",
+      "definition": "A salon that isn't making a profit, runs short of cash, goes into debt or closes; why salons fail.",
+      "added_round": 1
+    },
+    {
+      "key": "losing-regulars",
+      "label": "Losing clients; regulars not coming back",
+      "definition": "Existing clients drifting away or not rebooking, and how to keep clients coming back.",
+      "added_round": 1
+    },
+    {
+      "key": "owner-burnout",
+      "label": "Salon owner burnout",
+      "definition": "The owner worn out from working in the chair and running the business at the same time, with no time off.",
+      "added_round": 1
+    },
+    {
+      "key": "franchise-worth-it",
+      "label": "Is a salon franchise worth it?",
+      "definition": "Whether to buy a salon franchise (Lakme, Naturals, Jawed Habib, Green Trends and others) or open one's own, and whether the fee, royalty and investment pay back.",
+      "added_round": 1
+    }
+  ]
+}

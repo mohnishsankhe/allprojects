@@ -61,7 +61,7 @@ Stage 3 per room:
 | Room | Rounds | Records | Labeled | Saturation | Draft | Quote check |
 |---|---|---|---|---|---|---|
 | active-retail-options-traders | 1 | 1150 | 0 | not evaluated | no | not checked |
-| bpo-contact-centre-operators-india-philippines | 1 | 1283 | 1120 | not evaluated | no | not checked |
+| bpo-contact-centre-operators-india-philippines | 1 | 1283 | 1243 | round 1: 1243 records, not saturated | no | not checked |
 | business-brokers-ma-boutiques | 1 | 922 | 896 | round 1: 896 records, not saturated | no | not checked |
 | cfa-candidates-community | 1 | 850 | 805 | round 1: 805 records, not saturated | no | not checked |
 | d2c-brands-scaling-past-launch | 1 | 1032 | 0 | not evaluated | no | not checked |
@@ -72,8 +72,8 @@ Stage 3 per room:
 | lender-insurer-telesales-floors-india | 1 | 858 | 835 | round 1: 835 records, not saturated | no | not checked |
 | outbound-lead-gen-appointment-setting-agencies | 1 | 1022 | 0 | not evaluated | no | not checked |
 | salon-spa-owners-india-global | 1 | 1380 | 0 | not evaluated | no | not checked |
-| small-business-owners-reddit-community | 1 | 926 | 240 | not evaluated | no | not checked |
-| small-industrial-property-investors | 1 | 978 | 240 | not evaluated | no | not checked |
+| small-business-owners-reddit-community | 1 | 926 | 800 | not evaluated | no | not checked |
+| small-industrial-property-investors | 1 | 978 | 480 | not evaluated | no | not checked |
 | startup-founders-409a-83b-deadlines | 1 | 870 | 0 | not evaluated | no | not checked |
 
 Rooms kept: 15. Pains kept: 0. Stage 6 kept: 0. Survivors (final): 0.
