@@ -36,7 +36,7 @@ stage3:
   quotes_per_pain_max: 5        # (spec)
   quote_min_words: 5            # (default)
   thin_below_records: 15        # (spec) fewer member records -> [thin]
-  spend_sources_min: 2          # (spec) spending evidence confirmed by at least 2 independent sources (distinct domains); fewer -> tagged [spend: 1 source], not killed
+  spend_sources_min: 2          # (spec) spending evidence confirmed by at least 2 independent sources (distinct domains); fewer -> tagged [spend: N source(s)] with the real count, not killed
   max_pains_total: 25           # (spec) keep up to 25 pains across all rooms
   rank_by: [failed_spend_mentions, money_mentions, urgency, record_count]   # (spec)
   urgency_order: [deadline_or_rule, acute_pain, fear, expiring_gain, none]  # (spec) best first

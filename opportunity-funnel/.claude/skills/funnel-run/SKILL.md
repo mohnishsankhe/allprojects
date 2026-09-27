@@ -7,7 +7,7 @@ disable-model-invocation: true
 
 # /funnel-run: Stages 1–6, red team, audit packet
 
-Arguments: `$ARGUMENTS`. `--run` reuses a run folder (resume). `--only-room <slug>` is a dry run of Stages 3–6 on one room (add `--dry-run` to every `funnel` command).
+Arguments: `$ARGUMENTS`. `--run` reuses a run folder (resume). `--only-room <slug>` is a dry run of Stages 3–6 on one room: it needs a run whose `01_rooms.json` and `02_mask.json` keep that room, it runs in its own folder `runs/<date>-dry-<slug>` (pass `--run <date>-dry-<slug>` to every command, plus `--dry-run`), and its outputs are never the real run (`rooms-known`, `compare` and `audit-status` skip such folders; `funnel status` marks them `(dry run)`).
 `funnel` means `python3 <repo>/opportunity-funnel/pipeline/funnel.py --run RUN`. Stay inside `opportunity-funnel/`.
 
 **Standing rules for the whole run**
@@ -40,7 +40,7 @@ Then `funnel-listener`, mode `synthesize` (with the stop reason) → `pains_draf
 When all rooms are done: `funnel pains`. Checkpoint.
 
 ## Stage 4: Walk (two independent walkers + a comparator per pain)
-For each kept pain, in parallel: two `funnel-walker` agents in mode `walk` (letters `a` and `b`, neither sees the other), then one in mode `compare` (merges conservatively and drafts 2–3 alternative pairs). Then `funnel walks`. Checkpoint.
+For each kept pain, in parallel: two `funnel-walker` agents in mode `walk` (letters `a` and `b`, neither sees the other; each checks its own file with `funnel walks --check <pain_id> --walker <letter>`), then one in mode `compare` (merges conservatively and drafts 2–3 alternative pairs). Then `funnel walks`. Checkpoint.
 
 ## Stage 5: Pair
 `funnel pairs` (keeps the strongest valid alternative per pain; kills pains with none). Checkpoint.

@@ -9,7 +9,7 @@ Run any script with `python3 pipeline/funnel.py <command> --run RUN`; it finds t
 ## Shared rules
 - **Judgment objects** carry `"reasoning"` (one or two sentences) and `"confidence"` (`"high"`, `"moderate"` or `"low"`). Scripts reject files that lack them.
 - **Numbers** the model supplies are objects: `{"value": 120, "tag": "measured", "url": "https://..."}` or `{"value": 120, "tag": "estimate", "reasoning": "..."}`. A `measured` number needs a URL or `record_ids`.
-- **Prices:** `{"what": "...", "price_text": "$49/month", "amount": 49, "currency": "USD", "unit": "month", "url": "https://...", "seen_via": "page|search"}`. `price_text` is copied exactly as the source shows it. `seen_via: "search"` means the price was read in a web-search result, not on a page the script could open; it is shown as `[measured, page not checked]`.
+- **Prices:** `{"what": "...", "price_text": "$49/month", "amount": 49, "currency": "USD", "unit": "month", "url": "https://...", "seen_via": "page|search"}`. `price_text` is copied exactly as the source shows it. `seen_via: "search"` means the price was read in a web-search result, not on a page the script could open; it is shown as `[measured, page not checked]`. A `seen_via: "page"` price is `[measured]` only when the script opened the page and found the price text; a page the network blocks is also shown as `[measured, page not checked]`, and a page opened without the price as `[not found on page]`. Stage 3 stores the checker's status and tag on each alternative in pains.json.
 - **Currencies:** ISO codes (`USD`, `INR`, `AED`, `SGD`...). The script converts to USD with `RUN/fx_rates.json`.
 - **Slugs:** lowercase letters, digits, hyphens. Pain ID = `<room-slug>--<pain-key>`.
 - **Walls:** IDs `W1`–`W29` from `config/walls.md`.
@@ -21,6 +21,7 @@ Run any script with `python3 pipeline/funnel.py <command> --run RUN`; it finds t
 ## Graveyard: `graveyard.md` (S appends; M may add revival notes)
 `- 2026-09-26 | stage 2 | room:us-masters-engineers | no reach entry matches`
 Revive with an indented line directly under it: `  - new evidence 2026-12-01: <what changed, with a URL or record_id>`.
+A revival note revives only the line it sits under: a later kill line for the same item kills it again unless a new note is written under that later line. A stage's lines dated on the run's own date always say what its latest run killed, so a rerun that keeps an item removes its earlier same-date line; `rooms` and `pains` ignore lines dated on the run's own date (this run's later kills), so reruns are idempotent.
 
 ## FX rates: `RUN/fx_rates.json` (M, before Stage 2)
 ```json
@@ -75,7 +76,7 @@ Records (S): `RUN/03_listen/raw/<room>/<source>.jsonl`, one per line:
 {"record_id": "9f2c...", "source": "websearch", "url": "https://...", "date": null,
  "text": "anonymized text", "meta": {"kind": "search_title", "query": "...", "domain": "reddit.com", "date_from": "url|page|api|none"}}
 ```
-`record_id` = first 16 hex characters of SHA-256 over `url + "\n" + text` (whitespace normalized).
+`record_id` = first 16 hex characters of SHA-256 over `url + "\n" + text` (whitespace normalized). An inbox message's URL is `inbox://<kind>/<room>/file_<12 hex>#<fragment>` (a content-free file label; the label → file map lives in the gitignored `RUN/03_listen/raw/<room>/_inbox_index.json`).
 
 Per room, in `RUN/03_listen/rooms/<room>/`:
 - `queries.jsonl` (M): one line per web search the harvesters ran: `{"round": 1, "query": "...", "kind": "forum|video|reviews|qa|blog|pricing|jobs|official|phrasing"}`. `harvest-search` matches these queries against the session transcripts and stores their results as records.
@@ -100,7 +101,7 @@ Per room, in `RUN/03_listen/rooms/<room>/`:
   "quotes": [{"record_id": "...", "url": "...", "date": null, "text": "exact words copied from the record"}]
 }]}
 ```
-The script checks that `spend_evidence` spans at least `spend_sources_min` distinct domains; otherwise the pain is tagged `[spend: 1 source]`.
+The script checks that `spend_evidence` spans at least `spend_sources_min` distinct domains; otherwise the pain is tagged `[spend: N source(s)]` with the real count (`[spend: 1 source]`, `[spend: 0 sources]`). quote_check.csv reason values: ok, record_missing, not_substring, too_short, empty, duplicate (the same words, or a part of them, already quoted from the same record; one piece of evidence counts once).
 Global (S): `RUN/03_listen/pains.json`, `pains.md`, `quote_check.csv`.
 
 ## Stage 4 (two walkers and a comparator per pain)
@@ -119,6 +120,7 @@ Global (S): `RUN/03_listen/pains.json`, `pains.md`, `quote_check.csv`.
  "disagreements": ["one line each"],
  "pairs": [ PAIR, PAIR, PAIR ]}
 ```
+`forward_12m` must list exactly the walls on that file's today path; `agreement.walls_one` must list exactly the walls only one walker met; a kept pain's comparator file must hold 2 to 3 alternative pairs (`funnel walks --check` and `funnel pairs` reject it otherwise). Walkers check their own file with `funnel walks --check <pain_id> --walker <a|b>`.
 The merge must follow the conservative rule: outcome reached if either walker says so; a wall `persists` only if both say `persists`; a wall is in `walls_both` only if both walkers put it (or a reconciled equivalent) on the path. `walks` re-derives these from the `.a`/`.b` files and rejects a merged file that is less conservative.
 
 ## Stage 5: pairs (inside the comparator's file)
@@ -168,7 +170,7 @@ The script computes everything else (see `pipeline/README.md`), in the room's cu
  "points": [{"kind": "competitor", "claim": "...", "url": "https://...", "severity": "high", "reasoning": "..."}],
  "verdict": {"new_rank_hint": "keep|down|kill", "reasoning": "...", "confidence": "moderate"}}
 ```
-`kind`: `competitor` | `failed_attempt` | `not_paid_for` | `legal_or_platform`.
+`kind`: `competitor` | `failed_attempt` | `not_paid_for` | `legal_or_platform`. `redteam` writes `RUN/07_red_team/_redteam.json`; `compare` writes `RUN/compare.json`. case_against.json points may carry `origin` (`red_team` | `outside_audit`), shown in the shortlist as e.g. `competitor (high; red_team)`.
 - `RUN/07_audit_packet/case_against.json` (M, written after reading the red-team files or, later, `inbox/audit_results/`): `{"survivors": [{"pain_id": "...", "points": [...], "new_rank": 1, "rank_change_reason": "one line", "reasoning": "...", "confidence": "moderate"}]}`. `new_rank: null` kills the survivor (graveyard).
 - `audit-packet` (S) writes `RUN/07_audit_packet/AUDIT_PROMPT.md` and `evidence.md`.
 
