@@ -1,0 +1,83 @@
+{
+  "room_note": "Who is in this room: outsourced lead-generation and appointment-setting agencies that run outbound calling teams and book sales meetings for clients (B2B software, solar, insurance, real estate, lenders), paid per appointment or by monthly retainer, in the US, UK, India, the Philippines and elsewhere. Member: the owners, managers, setters and cold callers of such an agency (including solo setters who sell setting as a service, and people starting an agency) when they describe or ask about their own work; their posts often sit in agency and setter communities such as Skool groups. The same people marketing their services are seller. Not members: businesses that buy lead-gen or appointment-setting services (the agencies' clients), in-house sales teams and others cold calling for their own business, and people only asking how to become a setter or find a setter job (all other); vendors, coaches, course sellers and lead sellers (seller); blogs, news and law-firm articles (media). Job ads and job-board pages are other: add hiring-and-keeping-setters when the ad is for setters or callers (and money when it states pay), because a company hiring for the problem already pays for it. Patient, salon and visa appointments are not this room.",
+  "pains": [
+    {
+      "key": "contact-data-costly-and-wrong",
+      "label": "Contact data burns credits and too many numbers are wrong",
+      "definition": "Buying contact data and lead lists for each client campaign costs a lot, and much of it is bad. Databases such as Apollo, ZoomInfo, Lusha and Cognism charge per seat and per credit, with phone numbers costing extra. Wrong, outdated or fake numbers waste dials. Not for dialer costs (dialer-cost-and-choice).",
+      "added_round": 1
+    },
+    {
+      "key": "dialer-cost-and-choice",
+      "label": "Which dialer? Seat prices, minimums and hidden fees add up",
+      "definition": "Choosing and paying for a dialer and calling stack for every caller: power, parallel or predictive dialers, calling CRMs such as GoHighLevel, phone numbers and per-minute usage. The problem is per-seat prices, line minimums and hidden fees, and dialers that connect badly or don't fit the team. AI callers that talk for you go to ai-setter-not-working.",
+      "added_round": 1
+    },
+    {
+      "key": "dnc-tcpa-fines-lawsuits",
+      "label": "One wrong dial can mean a TCPA lawsuit or a do-not-call fine",
+      "definition": "Staying legal on every call. Lists must be scrubbed against do-not-call (DNC) registries and known TCPA litigators (people who sue callers for profit; the TCPA is the US law on telemarketing calls). Consent, calling-hour and abandoned-call rules keep changing, registry fees rise, and mistakes bring lawsuits and fines. Covers the US (TCPA, Telemarketing Sales Rule, National DNC Registry), the UK (TPS, Ofcom) and India (TRAI DND, telemarketer registration). Rules that apply only because the voice is AI go to ai-calls-consent-rules.",
+      "added_round": 1
+    },
+    {
+      "key": "numbers-flagged-spam",
+      "label": "Our numbers show 'Spam Likely' and nobody picks up",
+      "definition": "Outbound numbers get labeled 'Spam Likely' or 'Scam Likely' after some dialing, so answer and connect rates fall. Agencies rotate or register numbers, pay caller-ID reputation services, or fight carrier attestation problems (STIR/SHAKEN is the carriers' system for checking caller ID).",
+      "added_round": 1
+    },
+    {
+      "key": "hiring-and-keeping-setters",
+      "label": "We go through setter after setter with no luck",
+      "definition": "Finding, vetting, paying and keeping appointment setters and cold callers: commission-only versus base pay, offshore hires in the Philippines or India, onboarding. Setters flake, quit or never book, so the agency keeps rehiring. Not for how well a working setter handles calls (setter-calls-dont-book).",
+      "added_round": 1
+    },
+    {
+      "key": "setter-calls-dont-book",
+      "label": "Setters dial all day but the calls don't turn into meetings",
+      "definition": "Calls don't convert into booked meetings: weak scripts and openers, objections the setter can't handle, and little coaching or call review (listening to recorded calls and scoring them, often called QA). Not for finding or keeping setters (hiring-and-keeping-setters).",
+      "added_round": 1
+    },
+    {
+      "key": "booked-meetings-no-show",
+      "label": "Booked meetings no-show, cancel or reschedule",
+      "definition": "Prospects don't show up to the sales meetings the agency booked for its clients, or they cancel or reschedule. Show rates fall, the client complains, and under pay-per-appointment deals the agency may not get paid. Patient, salon and other service-booking no-shows are not this room.",
+      "added_round": 1
+    },
+    {
+      "key": "clients-churn-over-results",
+      "label": "Clients leave after month one: too few meetings or 'garbage' ones",
+      "definition": "Clients cancel the retainer early, dispute meetings as unqualified, or say the campaign failed, and the agency struggles to show a return on the client's money. Also covers buyers saying an agency they paid delivered nothing or garbage leads (the client's side of the same failure).",
+      "added_round": 1
+    },
+    {
+      "key": "winning-agency-clients",
+      "label": "Getting clients for our own agency when buyers ask 'is it a scam?'",
+      "definition": "Filling the agency's own pipeline: landing the first or next paying clients, knowing where to find them, and selling to buyers who ask whether lead generation or appointment setting is a scam or worth it. Not for keeping clients once signed (clients-churn-over-results).",
+      "added_round": 1
+    },
+    {
+      "key": "pay-per-appointment-risk",
+      "label": "Clients only want to pay per appointment, so we carry the risk",
+      "definition": "Pricing the service so it wins clients and still leaves a margin: per appointment, retainer, hybrid or pay on results. When clients pay only per booked meeting, the agency carries the cost of dials, data and no-shows. Setter pay goes to hiring-and-keeping-setters.",
+      "added_round": 1
+    },
+    {
+      "key": "ai-setter-not-working",
+      "label": "Our AI appointment setter misses things and per-minute costs add up",
+      "definition": "Building, buying or running an AI appointment setter, AI voice agent or AI dialer (Vapi, Retell, Bland, Synthflow, GoHighLevel AI and similar) that actually books meetings. Builds break, the AI misses things, and the all-in cost per minute is hard to pin down. Legal rules for AI calls go to ai-calls-consent-rules.",
+      "added_round": 1
+    },
+    {
+      "key": "ai-calls-consent-rules",
+      "label": "Is outbound AI calling even legal? Consent and disclosure rules",
+      "definition": "Rules that apply because the voice is AI. The FCC ruled that AI voices count as 'artificial' voices under the TCPA, so AI calls need prior consent. AI cold calls have already drawn class actions, and disclosure rules and other countries' rules (for example India's TRAI) add more. Rules for every call (DNC lists, litigators) go to dnc-tcpa-fines-lawsuits.",
+      "added_round": 1
+    },
+    {
+      "key": "ai-replacing-agencies",
+      "label": "AI SDRs are replacing appointment-setting agencies",
+      "definition": "Fear that clients will swap the agency and its human setters for AI SDRs or AI setters (an SDR is a sales development rep, the person who books meetings): 'the appointment setting industry is dead'. The agency must change its model or lose clients. Not for making an AI setter work (ai-setter-not-working).",
+      "added_round": 1
+    }
+  ]
+}
