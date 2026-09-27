@@ -1034,3 +1034,7 @@
 {"command": "show", "ids": 27, "kind": "ran", "missing": [], "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T15:38:42+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T15:41:13+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T15:43:08+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "small-industrial-property-investors", "stage": 3, "ts": "2026-09-27T15:44:04+00:00"}
+{"command": "show", "ids": 11, "kind": "ran", "missing": [], "room": "small-industrial-property-investors", "stage": 3, "ts": "2026-09-27T15:44:26+00:00"}
+{"command": "show", "ids": 10, "kind": "ran", "missing": [], "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T15:46:01+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T15:46:16+00:00"}
