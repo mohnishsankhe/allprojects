@@ -62,7 +62,7 @@ Stage 3 per room:
 | cfa-candidates-community | 1 | 850 | 0 | not evaluated | no | not checked |
 | d2c-brands-scaling-past-launch | 0 | 0 | 0 | not evaluated | no | not checked |
 | dubai-real-estate-brokerages-telesales | 1 | 912 | 0 | not evaluated | no | not checked |
-| gre-engineers-india | 1 | 880 | 0 | not evaluated | no | not checked |
+| gre-engineers-india | 1 | 920 | 0 | not evaluated | no | not checked |
 | gre-preppers-worldwide-online | 1 | 948 | 0 | not evaluated | no | not checked |
 | indie-perfumers-launching-brands | 1 | 871 | 0 | not evaluated | no | not checked |
 | lender-insurer-telesales-floors-india | 1 | 858 | 320 | not evaluated | no | not checked |
@@ -70,7 +70,7 @@ Stage 3 per room:
 | salon-spa-owners-india-global | 0 | 0 | 0 | not evaluated | no | not checked |
 | small-business-owners-reddit-community | 1 | 926 | 0 | not evaluated | no | not checked |
 | small-industrial-property-investors | 1 | 978 | 0 | not evaluated | no | not checked |
-| startup-founders-409a-83b-deadlines | 0 | 0 | 0 | not evaluated | no | not checked |
+| startup-founders-409a-83b-deadlines | 1 | 870 | 0 | not evaluated | no | not checked |
 
 Rooms kept: 15. Pains kept: 0. Stage 6 kept: 0. Survivors (final): 0.
 <!-- /auto:status -->

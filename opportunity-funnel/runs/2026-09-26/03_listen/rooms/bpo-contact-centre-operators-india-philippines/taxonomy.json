@@ -110,6 +110,6 @@
       "added_round": 1
     }
   ],
-  "reasoning": "Pains are drawn from the 1175 round-1 search titles. Each is a problem the operator faces, phrased the way the forum, Quora and vendor titles phrase it. Topics with no problem behind them (industry overviews, agent job guides, wrong-CCAP pages) got no pain.",
+  "reasoning": "Pains are drawn from the 1175 round-1 search titles. Each is a problem the operator faces, phrased the way the forum, Quora and vendor titles phrase it. Topics with no problem behind them (industry overviews, agent job guides, wrong-CCAP pages) got no pain. Reviewed again by the labeling listener after reading all 15 batch files: no pain added or removed; keys unchanged.",
   "confidence": "moderate"
 }
