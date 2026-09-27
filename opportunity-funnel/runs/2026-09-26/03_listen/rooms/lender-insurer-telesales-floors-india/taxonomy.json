@@ -1,7 +1,7 @@
 {
   "room": "lender-insurer-telesales-floors-india",
-  "round": 1,
-  "note": "Round 1 records are search-result titles. Almost none are written by floor heads or callers, so most pains are shown by sellers, news and regulators, not by members yet.",
+  "round": 2,
+  "note": "Round 1 records are search-result titles. Almost none are written by floor heads or callers, so most pains are shown by sellers, news and regulators, not by members yet. Round 2 (Quora, LinkedIn, job boards, reviews) added three pains from new clusters: unreachable borrowers (skip cases), sales leads that don't convert, and the DPDP Act's consent rules. Round 2 records are still mostly questions from borrowers and the public, sellers, job posts and news.",
   "pains": [
     {
       "key": "calls-marked-spam-low-pickup",
@@ -98,6 +98,30 @@
       "added_round": 1,
       "reasoning": "Many videos offer insurance and loan telecalling scripts, vendors publish collection-call scripts, and a course for NBFC collectors teaches ethical calling.",
       "confidence": "low"
+    },
+    {
+      "key": "borrowers-unreachable-skip-tracing",
+      "label": "Borrowers switch off their phones, change numbers or move, so we can't reach the right person and have to trace them",
+      "definition": "In skip cases the borrower's phone is switched off, the number is changed or wrong, or the borrower has moved without telling the lender. Calls never reach the right person (right party contact, or RPC, is the share of calls that do). Callers end up ringing references or strangers, and floors pay for skip tracers and tracing data. Calls that ring but are ignored or blocked as spam belong to calls-marked-spam-low-pickup.",
+      "added_round": 2,
+      "reasoning": "Round 2 brought skip-tracing job posts for bank collections, including a skip tracing unit at Axis Bank, and collection vendors selling higher right party contact. It also brought a question on tracing a debtor who left no address, a family whose borrower switched off his phone and left home, and people called because someone gave their number as an alternate.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "poor-leads-low-conversion",
+      "label": "Our sales leads don't convert: bought or shared leads are poor and too few calls end in a policy or loan",
+      "definition": "Insurance and loan tele-sales floors buy or receive lead lists and data that are poor or unqualified. Few calls turn into a sale, and the money spent on leads is wasted. This pain is about lead quality and conversion rates. What callers say on the call belongs to call-scripts-and-training.",
+      "added_round": 2,
+      "reasoning": "Round 2 brought many questions on why leads don't convert, how to get personal-loan leads or data, and how to get more conversions from telecallers. Lead sellers warn that low-conversion loan leads waste money, and AI vendors pitch higher loan conversion.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "dpdp-consent-deadlines",
+      "label": "DPDP Act: we need valid notice and consent for every customer we call or message, before the phased deadlines",
+      "definition": "India's Digital Personal Data Protection Act, 2023 and the DPDP Rules, 2025 require a clear notice and valid consent before personal data is used. They hold the lender answerable for the vendors that handle its data. Calling lists and lead data fall under them, with phased deadlines into 2026-27 and penalties for breaches. TRAI's calling rules and DLT registration belong to trai-calling-rules-1600-series and dlt-template-rejections.",
+      "added_round": 2,
+      "reasoning": "Round 2 brought law-firm and consent-vendor pages on what the DPDP Act means for telemarketing and for lenders, and many posts on its consent and notice rules. It also brought several timelines of phased compliance deadlines published after the DPDP Rules, 2025 were notified.",
+      "confidence": "moderate"
     }
   ]
 }

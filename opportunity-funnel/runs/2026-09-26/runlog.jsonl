@@ -582,3 +582,8 @@
 {"batches": 22, "command": "batches", "dropped_duplicate_text": 28, "dropped_old": 9, "dropped_undated": 0, "include_undated_records": true, "kept": 1684, "kept_month_at_cutoff": 0, "kind": "count", "loaded": 1721, "lookback_cutoff": "2024-09-26", "lookback_months": 24, "room": "lender-insurer-telesales-floors-india", "stage": 3, "ts": "2026-09-27T11:16:51+00:00", "undated_kept": 1670}
 {"command": "show", "ids": 7, "kind": "ran", "missing": [], "room": "small-industrial-property-investors", "stage": 3, "ts": "2026-09-27T11:17:52+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T11:18:59+00:00"}
+{"command": "show", "ids": 5, "kind": "ran", "missing": [], "room": "outbound-lead-gen-appointment-setting-agencies", "stage": 3, "ts": "2026-09-27T11:20:41+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "outbound-lead-gen-appointment-setting-agencies", "stage": 3, "ts": "2026-09-27T11:20:48+00:00"}
+{"command": "show", "ids": 5, "kind": "ran", "missing": [], "room": "dubai-real-estate-brokerages-telesales", "stage": 3, "ts": "2026-09-27T11:23:04+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "dubai-real-estate-brokerages-telesales", "stage": 3, "ts": "2026-09-27T11:23:15+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T11:24:02+00:00"}
