@@ -720,3 +720,5 @@
 {"command": "harvest-search", "kind": "source", "note": "titles and URLs only; the search summary is never stored", "records_new": 0, "room": "cfa-candidates-community", "source": "websearch", "stage": 3, "ts": "2026-09-27T12:24:23+00:00"}
 {"batches": 12, "command": "batches", "dropped_duplicate_text": 47, "dropped_old": 2, "dropped_undated": 0, "include_undated_records": true, "kept": 878, "kept_month_at_cutoff": 0, "kind": "count", "loaded": 927, "lookback_cutoff": "2024-09-26", "lookback_months": 24, "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T12:24:28+00:00", "undated_kept": 878}
 {"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T12:24:29+00:00"}
+{"command": "listen-status", "dated": 39, "kind": "ran", "per_round": {"1": 926, "2": 1293}, "per_source": {"websearch": 2219}, "records": 2219, "room": "small-business-owners-reddit-community", "stage": 3, "ts": "2026-09-27T12:24:30+00:00", "undated": 2180}
+{"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T12:24:32+00:00"}
