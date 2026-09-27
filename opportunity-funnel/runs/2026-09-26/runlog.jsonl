@@ -1229,3 +1229,7 @@
 {"already_checked": 0, "command": "relabel-pack", "keys": ["exam-day-mistakes", "stress-and-anxiety"], "kind": "ran", "packs": 9, "room": "cfa-candidates-community", "round": 3, "stage": 3, "ts": "2026-09-27T17:20:21+00:00"}
 {"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T17:21:45+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T17:22:06+00:00"}
+{"command": "show", "ids": 4, "kind": "ran", "missing": [], "room": "indie-perfumers-launching-brands", "stage": 3, "ts": "2026-09-27T17:24:16+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "indie-perfumers-launching-brands", "stage": 3, "ts": "2026-09-27T17:24:27+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "outbound-lead-gen-appointment-setting-agencies", "stage": 3, "ts": "2026-09-27T17:25:26+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T17:27:09+00:00"}
