@@ -130,6 +130,17 @@ def _list_of_dicts(obj, key):
     return [x for x in v if isinstance(x, dict)] if isinstance(v, list) else []
 
 
+def _wall_num(w) -> int:
+    try:
+        return int(str(w)[1:])
+    except ValueError:
+        return 10 ** 6
+
+
+def _sorted_walls(ws) -> list:
+    return sorted({w for w in ws if isinstance(w, str)}, key=_wall_num)
+
+
 def _wall_label(w, walls) -> str:
     name = (walls.get(w) or {}).get("name") if isinstance(w, str) else None
     return f"{w} {name}" if name else str(w)
@@ -463,13 +474,13 @@ def _walk_lines(b: dict, pid: str) -> list:
     if not s4:
         return ["- No walk summary: 04_walks/_stage4.json has no entry for this pain."]
     fwd = s4.get("forward_12m") or {}
-    persists = [w for w, s in fwd.items() if s == "persists"]
-    melts = [w for w, s in fwd.items() if s != "persists"]
+    persists = _sorted_walls(w for w, s in fwd.items() if s == "persists")
+    melts = _sorted_walls(w for w, s in fwd.items() if s != "persists")
     lines = [f"- Outcome they want: {_cell(s4.get('outcome'))}",
              f"- Today: {s4.get('steps')} step(s); outcome reached today with their own AI: "
              f"{'yes' if s4.get('outcome_reached_today') else 'no'}. {_cell(s4.get('outcome_reasoning'))}",
-             f"- Walls both walkers met: {', '.join(_wall_label(w, walls) for w in s4.get('walls_both') or []) or 'none'}. "
-             f"Walls only one met: {', '.join(s4.get('walls_one') or []) or 'none'}.",
+             f"- Walls both walkers met: {', '.join(_wall_label(w, walls) for w in _sorted_walls(s4.get('walls_both') or [])) or 'none'}. "
+             f"Walls only one met: {', '.join(_sorted_walls(s4.get('walls_one') or [])) or 'none'}.",
              f"- Twelve months: persists {', '.join(_wall_label(w, walls) for w in persists) or 'none'}; melts "
              f"{', '.join(melts) or 'none'}."]
     dis = s4.get("disagreements") or {}
@@ -1462,6 +1473,9 @@ def compare(run, with_run: str = "latest") -> dict:
         if pa[pid] != pb[pid]:
             changes.append(f"pain rank {pid}: {pb[pid]} -> {pa[pid]}")
     sa, sb = a["survivors"], b["survivors"]
+    if loop_room:
+        sa = {pid: v for pid, v in sa.items() if pid.startswith(loop_room + "--")}
+        sb = {pid: v for pid, v in sb.items() if pid.startswith(loop_room + "--")}
     for pid in sorted(set(sa) - set(sb)):
         changes.append(f"new survivor: {pid} (rank {sa[pid]['rank']}, USD {sa[pid]['usd_per_hour']:,.2f} per hour)")
     for pid in sorted(set(sb) - set(sa)):

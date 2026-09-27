@@ -866,7 +866,7 @@ def evaluate_pair(pair: dict, index: int, ctx: dict, rules: dict, supply: dict, 
     if hold is not None and hold not in walls_both:
         wb_problems.append(f"hold wall {hold} is not in walls_both")
     checks["walls_both"] = {"pass": not wb_problems, "reason": "; ".join(wb_problems) if wb_problems
-                            else "every entry wall" + (" and the hold wall" if hold else "") + " sit in walls_both"}
+                            else ("every entry wall and the hold wall sit in walls_both" if hold else "every entry wall sits in walls_both")}
 
     adj_problems = []
     steps = [first[w] for w in entry if w in first and isinstance(first[w], int)]
