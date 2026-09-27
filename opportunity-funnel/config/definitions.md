@@ -34,7 +34,7 @@ Ranking order when urgency is compared: deadline or rule > acute pain > fear > e
 - **Warm reach:** the room matches one of the founder's warm paths in the ledger. Needed for products that need trust.
 - **Search reach:** the room already buys this kind of product through search, app stores or public marketplaces, anywhere in the world. Suits self-serve products.
 
-**Saturation (Stage 3).** We keep collecting until more data stops changing the answer: the last 300 new records add no new pain and change no pain's rank.
+**Saturation (Stage 3).** We keep collecting until more data stops changing the answer: the last 300 new records add no new pain and change no pain's rank. Three conservative readings apply (logged in REVIEW.md): round 1 builds the pain list, so saturation is tested only from round 2 ("at least 500 records, then continue"); when the latest round brings more than 300 records, the whole round is the window (the order inside a round is only query order); and a window with fewer than 30 member records cannot show a new pain, so the room keeps listening.
 
 **Voice (Stage 3 labels).** Who wrote a record: `member` (someone in the room), `seller` (someone selling a fix), `media` (news, blogs about the room), `other`. Pain counts use member records only. Seller records are evidence that money changes hands.
 

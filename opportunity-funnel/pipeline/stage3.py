@@ -318,7 +318,9 @@ def saturation_verdict(run, room: str) -> dict:
     if not rounds:
         verdict = "saturation.json has no round entries"
     elif not last.get("evaluable", True):
-        verdict = f"not evaluable after round {last.get('round')}: {last.get('records')} records (needs window + 1)"
+        why = str(last.get("note") or "needs window + 1").removeprefix("not evaluable: ")
+        why = why.removeprefix(f"{last.get('records')} records, ")
+        verdict = f"not evaluable after round {last.get('round')}: {last.get('records')} records ({why})"
     else:
         verdict = (f"round {last.get('round')}: {last.get('records')} records; "
                    f"{'saturated' if saturated else 'not saturated'}")

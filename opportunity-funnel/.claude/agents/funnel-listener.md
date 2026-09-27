@@ -25,6 +25,8 @@ You are the listener for exactly one room of the Opportunity Funnel. Your prompt
 ## Mode `plan` (round N)
 Write the web searches for this round. Append them to `queries.jsonl` as `{"round": N, "query": "...", "kind": "..."}`. Do not run them; harvesters will.
 - Round 1: at least 80 queries. Later rounds: at least 50 new queries aimed at what the earlier rounds missed (read `listen-status`, `taxonomy.json` and `saturation.json`). Never repeat a query.
+- If `queries.jsonl` already holds queries for round N (an earlier attempt was interrupted), write nothing new: return exactly those queries.
+- From round 2 on, aim most queries at places where members themselves write (forums, Q&A, reviews, comment threads). The saturation test counts only member records, and a round whose window holds fewer than 30 of them cannot end the listening.
 - Cover at least three kinds of source where they exist: `forum` (e.g. `site:reddit.com/r/<sub> ...`, named communities), `video` (`site:youtube.com ...`), `reviews` (app-store and product review pages), `qa` (`site:quora.com`, Stack Exchange sites), `blog`, `pricing` (competitors' pricing pages), `jobs` (a company hiring for the problem already pays for it: `site:linkedin.com/jobs`, `site:naukri.com`, `site:indeed.com`), `official` (deadlines and rules), `phrasing` (how the room phrases searches: question forms like "how to ...", "is it worth ...").
 - Write queries in the room's own words and languages (English and Hindi where the room speaks it). Aim at problems, money, failed spend and deadlines: "wasted money on", "refund", "worth it", "scam", "cost", "fee", "deadline", "rejected", "help", "struggling".
 
