@@ -1044,3 +1044,10 @@
 {"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "startup-founders-409a-83b-deadlines", "stage": 3, "ts": "2026-09-27T15:47:31+00:00"}
 {"command": "show", "ids": 8, "kind": "ran", "missing": [], "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T15:47:39+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T15:51:18+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "startup-founders-409a-83b-deadlines", "stage": 3, "ts": "2026-09-27T15:54:54+00:00"}
+{"changed": 0, "command": "apply-patches", "kind": "ran", "patches": [], "room": "lender-insurer-telesales-floors-india", "stage": 3, "ts": "2026-09-27T15:55:13+00:00"}
+{"by_kind": {"blog_or_site": 577, "forum": 35, "jobs": 154, "news": 40, "official": 36, "qa": 319, "reviews": 223, "social": 138, "video": 162}, "by_source": {"websearch": 1684}, "by_voice": {"media": 256, "member": 0, "other": 938, "seller": 490}, "command": "count", "kind": "count", "labeled": 1684, "pains": 15, "room": "lender-insurer-telesales-floors-india", "source_kinds": 9, "stage": 3, "ts": "2026-09-27T15:55:17+00:00"}
+{"command": "show", "ids": 14, "kind": "ran", "missing": [], "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T15:55:18+00:00"}
+{"command": "saturation", "kind": "count", "new_pains": [], "new_records": 849, "rank_changes": 0, "records": 1684, "room": "lender-insurer-telesales-floors-india", "round": 2, "saturated": false, "stage": 3, "stop_reason": null, "ts": "2026-09-27T15:55:25+00:00"}
+{"command": "listen-status", "dated": 23, "kind": "ran", "per_round": {"1": 858, "2": 863}, "per_source": {"websearch": 1721}, "records": 1721, "room": "lender-insurer-telesales-floors-india", "stage": 3, "ts": "2026-09-27T15:55:26+00:00", "undated": 1698}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T15:56:21+00:00"}

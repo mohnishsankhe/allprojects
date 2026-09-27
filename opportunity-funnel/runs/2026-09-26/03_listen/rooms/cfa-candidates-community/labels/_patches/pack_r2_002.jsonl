@@ -1,0 +1,80 @@
+{"record_id": "e1f3edaa018627b0", "pain_keys": ["study-with-full-time-job"], "reasoning": "A study routine next to a full-time job. The job is about finding study time, not the charter's work-experience rule, and no test centre or jobless charterholder appears.", "confidence": "high"}
+{"record_id": "5388edc0ff317b60", "pain_keys": ["how-to-study"], "reasoning": "A Level 2 study plan. It shows no work-experience rule, test centre problem or charterholder without a job.", "confidence": "high"}
+{"record_id": "5dd2537b3a510ba4", "pain_keys": ["failed-what-next"], "reasoning": "A working equity research analyst explains a Level 3 fail. They have a job and have not passed all three levels, so charter-no-job does not fit, and no test centre or work-experience rule is named.", "confidence": "high"}
+{"record_id": "a4e06cf43232fb50", "pain_keys": [], "reasoning": "The title only asks whether Level 3 was failed or passed. It shows none of the round 2 pains.", "confidence": "high"}
+{"record_id": "6fab8228f18f9df2", "pain_keys": ["how-to-study", "total-fees"], "reasoning": "Passing Level 1 with free resources. No work-experience rule, test centre or jobless charterholder appears.", "confidence": "high"}
+{"record_id": "62cf64e68254e21e", "pain_keys": ["worth-it"], "reasoning": "Regret about doing the CFA, but the title does not say the writer passed all three levels and cannot find a job. charter-no-job is not clearly shown.", "confidence": "moderate"}
+{"record_id": "71c359a31ad731f4", "pain_keys": ["giving-up", "worth-it"], "reasoning": "Quitting after passing Level 1. charter-no-job needs all three levels passed, and no test centre or work-experience rule is named.", "confidence": "high"}
+{"record_id": "11b3e7930dd4ae32", "pain_keys": ["giving-up", "worth-it"], "reasoning": "Quitting after passing one exam. It shows none of the round 2 pains.", "confidence": "high"}
+{"record_id": "2643adb935ced63c", "pain_keys": ["worth-it"], "reasoning": "Asks whether the CFA is worth the time. No work-experience rule, test centre or jobless charterholder appears.", "confidence": "high"}
+{"record_id": "cb20eb9333cdf154", "pain_keys": ["which-prep-provider"], "reasoning": "A discussion of Mark Meldrum videos for Level 1. It is about choosing prep, not any round 2 pain.", "confidence": "high"}
+{"record_id": "24494d3e57d09b0d", "pain_keys": ["which-prep-provider"], "reasoning": "Reviews of AnalystPrep as a prep provider. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "6d621b4eaab82fab", "pain_keys": ["which-prep-provider"], "reasoning": "Asks for reviews of Fintree coaching. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "9a442cc5fad7f604", "pain_keys": ["which-prep-provider"], "reasoning": "Asks about a coaching class in Kolkata for CFA and FRM. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "4b1a35951e4b9870", "pain_keys": ["which-prep-provider"], "reasoning": "Asks whether IMS Proschool is good. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "d8ab77a6d40aaa9c", "pain_keys": ["which-prep-provider"], "reasoning": "Asks about Zell Education for CFA prep. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "0cd4693628cc42de", "pain_keys": ["failed-what-next"], "reasoning": "A Level 1 fail and what to do next. No work-experience rule, test centre or three-level passer appears.", "confidence": "high"}
+{"record_id": "3a0a69566b7abe8b", "pain_keys": ["failed-what-next"], "reasoning": "Restarting after a Level 1 fail. None of the round 2 pains is shown.", "confidence": "high"}
+{"record_id": "efef22ad126ed21b", "pain_keys": ["failed-what-next"], "reasoning": "Asks what happens after a Level 1 fail. None of the round 2 pains is shown.", "confidence": "high"}
+{"record_id": "03b9d86c531e616f", "pain_keys": ["failed-what-next"], "reasoning": "Failed Level 1 twice and asks what is next. None of the round 2 pains is shown.", "confidence": "high"}
+{"record_id": "ae803378a692e371", "pain_keys": ["job-without-charter", "failed-what-next"], "reasoning": "A candidate who failed Level 1 asks about finance jobs. charter-no-job leaves failed attempts under job-without-charter, so the keys stay.", "confidence": "high"}
+{"record_id": "044fc1c8148ef8cb", "pain_keys": ["failed-what-next"], "reasoning": "Asks why people failed Level 1. None of the round 2 pains is shown.", "confidence": "high"}
+{"record_id": "30f046d9787d52d1", "pain_keys": ["failed-what-next", "postpone-or-refund"], "reasoning": "Weighs failing against rescheduling. Rescheduling because of not being ready stays under postpone-or-refund, not test-centre-problems.", "confidence": "high"}
+{"record_id": "48190605368afe6d", "pain_keys": ["failed-what-next", "total-fees"], "reasoning": "Asks the cost and steps to retake Level 1 after a fail. None of the round 2 pains is shown.", "confidence": "high"}
+{"record_id": "07f22dc8a04c52ab", "pain_keys": ["failed-what-next"], "reasoning": "Asks for stories of failing Level 1 and recovering. None of the round 2 pains is shown.", "confidence": "high"}
+{"record_id": "96270cfc3b5a0d22", "pain_keys": ["failed-what-next", "giving-up"], "reasoning": "Whether to retry Level 1 after failing twice. None of the round 2 pains is shown.", "confidence": "high"}
+{"record_id": "78eca935959f1f96", "pain_keys": ["total-fees"], "reasoning": "Complains that the Level 1 fee is too high for India. The cost of running the exam is a price point, not a test centre seat or format problem.", "confidence": "high"}
+{"record_id": "9e08d95b3e23b62b", "pain_keys": ["total-fees"], "reasoning": "Asks the full cost of the three exams plus tuition in India. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "6fb305f54670a144", "pain_keys": ["total-fees"], "reasoning": "Asks the CFA fee structure in India. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "c2d83ee3033bbf2f", "pain_keys": ["total-fees"], "reasoning": "Asks the Level 1 fee in rupees. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "2819744d121ed1df", "pain_keys": ["total-fees"], "reasoning": "Asks what the CFA Program costs. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "9aeed0f605f18d41", "pain_keys": ["total-fees"], "reasoning": "Asks the total CFA fee in rupees. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "cbaa1dd8f4ffdaf5", "pain_keys": ["total-fees"], "reasoning": "Asks the total CFA fees. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "4df72c1231f0e18f", "pain_keys": ["total-fees"], "reasoning": "Asks the cost of the Level 1 exam in India. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "f46aad6c6985b573", "pain_keys": ["total-fees"], "reasoning": "Asks the first-time Level 1 registration cost in rupees. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "05578b71a1233c54", "pain_keys": ["total-fees"], "reasoning": "Asks the cost of Level 1 in India. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "4e5b1099f879c217", "pain_keys": ["total-fees"], "reasoning": "Asks the cost of a CFA and FRM course in India. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "e3cbfbd5f3df834d", "pain_keys": ["hardest-topics"], "reasoning": "Asks for the toughest Level 2 topics. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "2d664b0e854cbc47", "pain_keys": ["hardest-topics"], "reasoning": "Asks how hard Level 2 questions are. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "4332e339429ad88f", "pain_keys": ["hardest-topics"], "reasoning": "Asks which level is the most difficult. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "944980baab8edc8f", "pain_keys": ["hardest-topics"], "reasoning": "Asks how hard Level 2 is. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "e13a94b0c4cd4ea3", "pain_keys": ["hardest-topics"], "reasoning": "Asks for the most difficult Level 2 subject. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "2839ee88cab42b50", "pain_keys": ["hardest-topics"], "reasoning": "Asks which of the three levels is the hardest. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "aa4733d04481891f", "pain_keys": ["hardest-topics", "prep-not-enough"], "reasoning": "Compares the real Level 2 exam with official and Schweser practice. It is about difficulty and prep, not the test centre or computer format.", "confidence": "high"}
+{"record_id": "fa5434ceb04ec177", "pain_keys": ["hardest-topics", "how-to-study"], "reasoning": "Asks how hard Level 1 is and for advice. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "cf1fc25477267940", "pain_keys": ["hardest-topics"], "reasoning": "Asks how much harder Level 2 is than Level 1. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "18f156e7896a1f21", "pain_keys": ["how-to-study"], "reasoning": "Asks how to study for Level 2. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "36424930f5608fff", "pain_keys": ["which-prep-provider"], "reasoning": "Choosing between Mark Meldrum and IFT videos for Level 1. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "fa7cc6287be1b5b8", "pain_keys": ["which-prep-provider"], "reasoning": "Asks for the best online coaching for Level 1. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "18264aed7ff460cc", "pain_keys": ["which-prep-provider"], "reasoning": "Choosing a Level 2 prep provider among Kaplan, Wiley and Mark Meldrum. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "35fc9ff3a2214fa2", "pain_keys": ["which-prep-provider"], "reasoning": "Asks how good Mark Meldrum videos are for Level 1. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "935cd3e198cca7b9", "pain_keys": ["which-prep-provider"], "reasoning": "Choosing between the official curriculum and Schweser without an accounting background. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "811649e7ce4a0adf", "pain_keys": ["which-prep-provider"], "reasoning": "Choosing between two video lecturers for Level 1. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "cd4f80064fd4cb93", "pain_keys": ["total-fees"], "reasoning": "Looks for free CFA materials to save money. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "0063e315a5dd3a3a", "pain_keys": ["which-prep-provider"], "reasoning": "Choosing between paid Mark Meldrum and Wiley Gold for Level 1. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "0bbe3bc485e35d77", "pain_keys": ["which-prep-provider"], "reasoning": "Asks how useful Kaplan Schweser is for Level 1. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "4f5a8741673595f7", "pain_keys": ["which-prep-provider"], "reasoning": "Choosing between Schweser and the curriculum for Level 1. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "58c8f9b86784baf1", "pain_keys": ["which-prep-provider"], "reasoning": "Asks for the best Level 3 class in Mumbai. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "af9b258db8b0f3dd", "pain_keys": ["which-prep-provider"], "reasoning": "Asks for the best coaching centre in Delhi. A coaching centre is a prep class, not an exam test centre.", "confidence": "high"}
+{"record_id": "be60e4b0b009f719", "pain_keys": ["which-prep-provider"], "reasoning": "Asks whether to join coaching for the CFA. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "b719430af93f21aa", "pain_keys": ["which-prep-provider"], "reasoning": "Asks whether coaching is needed for Level 1. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "47d143b7c1b3e334", "pain_keys": ["which-prep-provider"], "reasoning": "Asks for the best online CFA coaching in India. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "28822437343e1c8d", "pain_keys": ["which-prep-provider"], "reasoning": "Asks for the best CFA coaching institute in India. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "27d462c500d971b1", "pain_keys": ["which-prep-provider"], "reasoning": "Asks for the best place for CFA in India, which reads as where to get coaching. It does not describe a test centre problem.", "confidence": "moderate"}
+{"record_id": "5a8df73709633e1f", "pain_keys": ["which-prep-provider"], "reasoning": "Asks for the best Level 1 coaching class in Delhi. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "4650a433ee5f9390", "pain_keys": ["job-without-charter", "failed-what-next"], "reasoning": "Job hunting after failing the CFA. charter-no-job leaves failed attempts under job-without-charter, so the keys stay.", "confidence": "high"}
+{"record_id": "4dda6e0ced1aec6d", "pain_keys": ["study-with-full-time-job"], "reasoning": "Asks whether the CFA can be done next to a job, which is about study time. It is not about the charter's work-experience rule.", "confidence": "high"}
+{"record_id": "197195769c7d8dcc", "pain_keys": ["total-fees"], "reasoning": "Asks whether SEBI pays back the CFA cost. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "952b2b31377ab904", "pain_keys": ["failed-what-next", "total-fees"], "reasoning": "Asks whether the first exam fee covers a second try after a Level 1 fail. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "6c8d438b71ea963a", "pain_keys": ["postpone-or-refund"], "reasoning": "Asks about refunds for the exams. No test centre problem or other round 2 pain is shown.", "confidence": "high"}
+{"record_id": "2ce6cafcea473184", "pain_keys": ["postpone-or-refund"], "reasoning": "Asks how much money comes back when skipping Level 1 after enrolling. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "2c17afcfdda7f161", "pain_keys": ["how-to-study"], "reasoning": "Asks for a strategy to clear all three levels. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "3d7866a5354136f1", "pain_keys": ["how-to-study"], "reasoning": "Asks how best to prepare for Level 3. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "5871e4ae2d17a7f4", "pain_keys": ["rules-and-deadlines"], "reasoning": "Asks whether Level 3 can be taken first, a rule about exam order. It is not about work experience for the charter.", "confidence": "high"}
+{"record_id": "c285a6f89d5605a2", "pain_keys": ["level3-essays"], "reasoning": "Asks what graders expect in Level 3 essays. It does not mention typing answers on screen or test centres.", "confidence": "high"}
+{"record_id": "3f493ac13e6edbd6", "pain_keys": ["level3-essays"], "reasoning": "Asks for tips and time management on the Level 3 morning essay section. It does not mention the computer format or test centres.", "confidence": "high"}
+{"record_id": "5f5859407e1753eb", "pain_keys": ["scholarship-essay"], "reasoning": "Asks how to write a scholarship essay for Level 1. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "c272b5e496a5f49e", "pain_keys": ["scholarship-essay"], "reasoning": "Asks how to write a personal statement for CFA scholarships. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "6d765b8e79e3e9f5", "pain_keys": ["how-to-study"], "reasoning": "Asks what to know before sitting a Level 3 exam. It does not describe a test centre or screen problem.", "confidence": "moderate"}
+{"record_id": "1772cfd6e8a07171", "pain_keys": ["how-to-study"], "reasoning": "Asks the best way to study for and clear Level 3. No round 2 pain applies.", "confidence": "high"}
+{"record_id": "8907b2703cdfb969", "pain_keys": ["level3-essays", "how-to-study"], "reasoning": "Level 3 tips for Indian candidates with limited English. No test centre, work-experience rule or jobless charterholder appears.", "confidence": "high"}
