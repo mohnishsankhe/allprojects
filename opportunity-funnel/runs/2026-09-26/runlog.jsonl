@@ -1484,3 +1484,5 @@
 {"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "d2c-brands-scaling-past-launch", "stage": 3, "ts": "2026-09-27T22:31:15+00:00"}
 {"command": "show", "ids": 12, "kind": "ran", "missing": [], "room": "gre-engineers-india", "stage": 3, "ts": "2026-09-27T22:32:10+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T22:32:43+00:00"}
+{"command": "show", "ids": 3, "kind": "ran", "missing": [], "room": "startup-founders-409a-83b-deadlines", "stage": 3, "ts": "2026-09-27T22:34:58+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T22:37:46+00:00"}
