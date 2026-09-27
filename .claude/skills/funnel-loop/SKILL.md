@@ -4,6 +4,8 @@ description: Opportunity Funnel loop mode. Reruns Stages 3–6 (plus red team) i
 argument-hint: "<room-slug>"
 arguments: [room]
 disable-model-invocation: true
+model: claude-opus-5-5
+effort: max
 ---
 
 <!-- Pointer file. The real instructions live in opportunity-funnel/.claude/. It exists so the command works when Claude Code is opened at the repo root. -->
