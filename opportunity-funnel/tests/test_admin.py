@@ -453,3 +453,54 @@ def test_every_documented_admin_command_and_flag_exists(cli):
         help_text = cli(cmd, "--help").stdout
         for flag in flags:
             assert flag in help_text, f"{cmd} {flag}"
+
+
+# =========================================================================== no stray run folders; dry-run folders
+def test_commands_that_need_no_run_folder_never_create_one(froot, cli):
+    """rooms-known, graveyard, ledger-check and init run without --run on any day (the skills call them so);
+    they must not leave an empty runs/<today>/ behind, which would be listed, committed and mistaken for a run.
+    A command that fails on a missing input must not create the folder either."""
+    later = froot / "runs" / "2026-10-03"
+    env = {"FUNNEL_TODAY": "2026-10-03"}
+    for args in (("rooms-known",), ("graveyard",), ("ledger-check",), ("init",)):
+        r = cli(*args, env=env)
+        assert r.returncode == 0, (args, r.stderr)
+        assert not later.exists(), args
+    for args in (("shortlist",), ("review",), ("runlog",), ("pains",), ("status",), ("walks",), ("audit-status",), ("numbers",)):
+        r = cli(*args, env=env)
+        assert r.returncode == 2, (args, r.stdout, r.stderr)
+        assert not later.exists(), args
+    assert sorted(p.name for p in (froot / "runs").iterdir()) == []
+    # once the run folder exists, the same commands log into it
+    later.mkdir()
+    r = cli("rooms-known", env=env)
+    assert r.returncode == 0, r.stderr
+    assert [(e["command"], e["kind"], e["stage"]) for e in common.read_jsonl(later / "runlog.jsonl")] == [("rooms-known", "ran", 0)]
+
+
+def test_dry_run_folders_are_accepted_and_kept_apart(froot, cli):
+    """A one-room dry run of Stages 3-6 lives in runs/<date>-dry-<room>/ so its files are never mistaken for
+    the real run: rooms-known and audit-status skip it, `status` says (dry run) once a --dry-run command ran."""
+    dry = f"2026-09-26-dry-{ROOM}"
+    r = cli("log", "--stage", "3", "--note", "one-room dry run", "--run", dry)
+    assert r.returncode == 0, r.stderr
+    rd = froot / "runs" / dry
+    assert (rd / "runlog.jsonl").exists()
+    r = cli("log", "--stage", "3", "--note", "x", "--run", "2026-09-26-dry")
+    assert r.returncode == 1 and "one-room dry run, `YYYY-MM-DD-dry-<room-slug>`" in r.stderr
+    _old_run(froot, "2026-09-20", ROOM)
+    common.write_json(rd / "02_mask.json", {"rooms": [{"slug": "dry-only-room", "name": "x", "status": "kept", "rank": 1}]})
+    (rd / "SHORTLIST.md").write_text("# Shortlist\n", encoding="utf-8")
+    r = cli("rooms-known")
+    assert r.returncode == 0, r.stderr
+    assert "dry-only-room" not in r.stdout and ROOM in r.stdout
+    r = cli("audit-status")
+    assert r.returncode == 2 and "No run has a SHORTLIST.md yet" in r.stderr
+    r = cli("status", "--run", dry)
+    assert r.returncode == 0, r.stderr
+    assert f"Run runs/{dry}:" in r.stdout and "(dry run)" not in r.stdout
+    r = cli("log", "--stage", "3", "--note", "y", "--run", dry, "--dry-run")
+    assert r.returncode == 0, r.stderr
+    r = cli("status", "--run", dry)
+    assert f"Run runs/{dry} (dry run):" in r.stdout
+    assert "Dry run: log ran with --dry-run in this folder. Their outputs are not a finished run" in r.stdout

@@ -501,3 +501,108 @@ def test_helpers(run, h):
                            stage3.DEFAULT_RANK_BY, stage3.DEFAULT_URGENCY_ORDER) == (-1, -2, 2, -7, "a--b")
     assert stage3.rank_key({"failed_spend_mentions": 0, "money_mentions": 0, "urgency_type": "odd", "record_count": 0, "pain_id": "a--b"},
                            ["urgency"], stage3.DEFAULT_URGENCY_ORDER) == (5, "a--b")
+
+
+# --------------------------------------------------------------------------- one piece of evidence counts once
+def test_a_quote_listed_twice_does_not_reach_min_verified_quotes(froot, run, h):
+    """Rule 1: at least two verified quotes means two pieces of evidence. The same quote twice (or a part of it)
+    verifies once, so the pain is dropped, and quote_check.csv names the later copies `duplicate`. The same
+    words from two records are two pieces of evidence."""
+    setup_room(run, h, pains=[
+        pain("quant-plateau", [quote("r1"), quote("r1"), quote("r1", "I paid 45k for a premium GRE course")],
+             urgency=judged("applications close in the fall", "deadline_or_rule", [rid("r6")])),
+        pain("fees", [quote("r4", "60k for classes that do not help"), quote("r5"), quote("r4", "60k for classes that do not help")]),
+    ])
+    result = stage3.pains(run)
+    p = by_id(result)
+    qp = p[f"{ROOM}--quant-plateau"]
+    assert qp["status"] == "dropped" and qp["verified_quote_count"] == 1 and len(qp["quotes"]) == 1
+    assert qp["drop_reason"] == "fewer than 2 verified quotes: 1 of 3 passed the quote check (duplicate 2)"
+    assert qp["quote_check"] == {"checked": 3, "passed": 1, "failed": 2, "citations_corrected": 0, "failed_reasons": {"duplicate": 2}}
+    assert "2 quote(s) failed the quote check and were deleted: duplicate 2." in qp["notes"]
+    fees = p[f"{ROOM}--fees"]
+    assert fees["status"] == "kept" and fees["verified_quote_count"] == 2 and fees["quote_check"]["failed_reasons"] == {"duplicate": 1}
+    assert result["counts"]["quotes_pass"] == 3 and result["counts"]["quotes_fail"] == 3
+    with open(common.listen_dir(run) / "quote_check.csv", newline="", encoding="utf-8") as f:
+        rows = list(csv.DictReader(f))
+    assert [r["reason"] for r in rows if r["pain_id"] == f"{ROOM}--quant-plateau"] == ["ok", "duplicate", "duplicate"]
+    assert [r["reason"] for r in rows if r["pain_id"] == f"{ROOM}--fees"] == ["ok", "ok", "duplicate"]
+    assert f"- {DATE} | stage 3 | pain:{ROOM}--quant-plateau | fewer than 2 verified quotes: 1 of 3 passed the quote check (duplicate 2)" in graveyard(froot)
+    md = (common.listen_dir(run) / "pains.md").read_text(encoding="utf-8")
+    assert md.count('"60k for classes that do not help"') == 1
+
+
+# --------------------------------------------------------------------------- the graveyard says what the run finally decided
+def test_rerun_that_keeps_a_pain_removes_its_stale_same_date_line(froot, run, h, cli):
+    """A pain cut by the first run of `pains` (a line dated today) and kept by a rerun after the limit was
+    raised loses its line, so a later run keeps it too instead of dropping it for a kill that was never final.
+    The run's real drops keep their lines and still apply later."""
+    setup_room(run, h)
+    h.set_rule(froot, "stage3", "max_pains_total", 1)
+    r = cli("pains", "--run", DATE)
+    assert r.returncode == 0, r.stderr
+    assert f"- {DATE} | stage 3 | pain:{ROOM}--fees | cut: ranked 2 of 2 survivors and max_pains_total is 1;" in graveyard(froot)
+    h.set_rule(froot, "stage3", "max_pains_total", 25)
+    r = cli("pains", "--run", DATE)
+    assert r.returncode == 0, r.stderr
+    assert by_id(pains_json(run))[f"{ROOM}--fees"]["status"] == "kept"
+    gy = graveyard(froot)
+    assert f"pain:{ROOM}--fees" not in gy
+    assert gy.count(f"pain:{ROOM}--no-evidence") == 1 and gy.count(f"pain:{ROOM}--flat") == 1
+    later = froot / "runs" / "2026-10-03"
+    later.mkdir()
+    setup_room(later, h)
+    p = by_id(stage3.pains(later))
+    assert p[f"{ROOM}--fees"]["status"] == "kept" and p[f"{ROOM}--quant-plateau"]["status"] == "kept"
+    assert p[f"{ROOM}--flat"]["status"] == "dropped" and "dead in graveyard.md since 2026-09-26 (stage 3)" in p[f"{ROOM}--flat"]["drop_reason"]
+
+
+def test_pain_killed_again_after_a_revival_stays_dropped(froot, run, h):
+    """Rule 7: a revival note revives only the line it sits under; a later kill line kills the pain again."""
+    setup_room(run, h)
+    gy = froot / "graveyard.md"
+    gy.write_text(gy.read_text(encoding="utf-8")
+                  + f"- 2026-08-01 | stage 3 | pain:{ROOM}--fees | fewer than 2 verified quotes\n"
+                  f"  - new evidence 2026-08-15: 3 verified quotes now, see record {rid('r4')}\n"
+                  f"- 2026-09-01 | stage 6 | pain:{ROOM}--fees | numbers fail in the base case: usd_per_hour\n", encoding="utf-8")
+    p = by_id(stage3.pains(run))
+    assert p[f"{ROOM}--fees"]["status"] == "dropped"
+    assert p[f"{ROOM}--fees"]["drop_reason"] == ("dead in graveyard.md since 2026-09-01 (stage 6): numbers fail in the base case: "
+                                                "usd_per_hour. Revive it with a new-evidence line first.")
+    text = gy.read_text(encoding="utf-8")
+    assert text.count(f"pain:{ROOM}--fees") == 2  # no third line for a pain that is already dead
+    gy.write_text(text.replace("usd_per_hour\n", "usd_per_hour\n  - new evidence 2026-09-20: a cheaper delivery, see record x\n"), encoding="utf-8")
+    assert by_id(stage3.pains(run))[f"{ROOM}--fees"]["status"] == "kept"
+
+
+# --------------------------------------------------------------------------- alternatives carry the checker's tag
+def test_alternatives_carry_the_price_checkers_tag_not_the_models_claim(run, h, monkeypatch):
+    """Rule 8: `seen_via: page` is [measured] only when the page was opened and shows the price text. Offline it
+    is [measured, page not checked] (and the domain is listed); a page without the price is [not found on page]."""
+    import netfetch
+    alt = {"what": "a private tutor", "price_text": "$49/month", "amount": 49, "currency": "USD", "unit": "month",
+           "url": "https://x.test/pricing", "seen_via": "page"}
+    setup_room(run, h, pains=[pain("quant-plateau", [quote("r1"), quote("r2", "Stuck at 160 quant after three months")],
+                                   urgency=judged("applications close in the fall", "deadline_or_rule", [rid("r6")]),
+                                   alternatives=[alt, price()])])
+    result = stage3.pains(run)
+    alts = by_id(result)[f"{ROOM}--quant-plateau"]["alternatives"]
+    assert [a["price_status"] for a in alts] == ["blocked_by_network", "seen_via_search"]
+    assert [a["price_tag"] for a in alts] == ["[measured, page not checked]", "[measured, page not checked]"]
+    assert alts[0]["price_detail"] == "the network blocks x.test; the page was not opened"
+    assert result["price_check"] == {"counts": {"blocked_by_network": 1, "seen_via_search": 1}, "blocked_domains": ["x.test"]}
+    md = (common.listen_dir(run) / "pains.md").read_text(encoding="utf-8")
+    assert "  - a private tutor: $49/month (USD 49 per month) [measured, page not checked] <https://x.test/pricing>" in md
+    assert "[measured] <" not in md
+    assert "Domains to allow so the price pages can be opened: x.test." in md
+    assert any(e["kind"] == "blocked" and e["domain"] == "x.test" and e["command"] == "pains" for e in common.read_jsonl(run / "runlog.jsonl"))
+    pages = {"https://x.test/pricing": "<html><body><h1>Plans</h1><p>from $49/month</p></body></html>"}
+    monkeypatch.setattr(netfetch, "fetch", lambda url, **kw: {"url": url, "status": 200, "text": pages[url], "headers": {}, "from_cache": False})
+    a = by_id(stage3.pains(run))[f"{ROOM}--quant-plateau"]["alternatives"][0]
+    assert a["price_status"] == "found" and a["price_tag"] == "[measured]"
+    assert "  - a private tutor: $49/month (USD 49 per month) [measured] <https://x.test/pricing>" in (common.listen_dir(run) / "pains.md").read_text(encoding="utf-8")
+    pages["https://x.test/pricing"] = "<html><body>Contact us for pricing</body></html>"
+    a = by_id(stage3.pains(run))[f"{ROOM}--quant-plateau"]["alternatives"][0]
+    assert a["price_status"] == "not_found" and a["price_tag"] == "[not found on page]"
+    assert "[not found on page] <https://x.test/pricing>" in (common.listen_dir(run) / "pains.md").read_text(encoding="utf-8")
+    assert stage3.price_tag_of({"seen_via": "page"}) == "[measured, page not checked]"

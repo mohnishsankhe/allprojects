@@ -812,3 +812,152 @@ def test_ledger_supply_and_depth_lookup(run):
     common.write_json(run / "02_mask.json", {"rooms": [{"slug": ROOM, "depth_ledger_id": None, "depth_strength": None}, {"slug": "bad slug"}]})
     assert stage45.depth_strength_by_room(run) == {ROOM: {"depth_ledger_id": None, "strength": None}}
     assert stage45.load_kept_pains(run)[0]["pain_id"] == PID and len(stage45.load_kept_pains(run)) == 1
+
+
+# =========================================================================== walker independence, the count check, empty runs, error stages
+def test_walker_check_says_nothing_about_the_other_walker(run, cli):
+    """Rule 3: two independent walkers. `walks --check <pain> --walker a` validates a's own file and prints
+    nothing derived from b's file, not even whether it exists, so the second walker to finish never sees the
+    first one's walls or verdicts."""
+    ids = setup(run)[ROOM]
+    a = walk(PID, "a", STD_STEPS, STD_FWD, persona_ids=ids)
+    b = walk(PID, "b", [["W2"], ["W5"], ["W9"], ["W20"]], {"W2": "melts", "W5": "persists", "W9": "unsure", "W20": "unsure"},
+             reached=True, persona_ids=ids)
+    common.write_json(stage45.walk_paths(run, PID)["a"], a)
+    common.write_json(stage45.walk_paths(run, PID)["b"], b)
+    r = cli("walks", "--check", PID, "--walker", "a", "--run", DATE)
+    assert r.returncode == 0, r.stderr
+    assert r.stdout.splitlines() == [f"{PID}.a.json: present", f"{PID}.a.json: no errors. Nothing was written."]
+    for leak in ("b.json", "Conservative merge", "disagreement", "walls", "W5", "persists", "reached", "verdict", "pair"):
+        assert leak not in r.stdout + r.stderr, leak
+    r = cli("walks", "--check", PID, "--walker", "b", "--run", DATE)
+    assert r.returncode == 0, r.stderr
+    assert r.stdout.splitlines() == [f"{PID}.b.json: present", f"{PID}.b.json: no errors. Nothing was written."]
+    assert "a.json" not in r.stdout
+    # errors in the walker's own file are listed; the other file is still never mentioned
+    common.write_json(stage45.walk_paths(run, PID)["a"], walk(PID, "a", STD_STEPS, {"W2": "melts", "W4": "melts", "W9": "melts"}, persona_ids=ids))
+    r = cli("walks", "--check", PID, "--walker", "a", "--run", DATE)
+    assert r.returncode == 1
+    assert f"{where(PID, '.a.json')}: forward_12m does not cover every wall in today: missing W20." in r.stderr
+    assert "b.json" not in r.stdout + r.stderr and "walker b" not in r.stdout + r.stderr
+    assert not (run / "04_walks" / "_stage4.json").exists() and not (run / "04_walks" / f"{PID}.md").exists()
+    stage45.walk_paths(run, PID)["b"].unlink()
+    r = cli("walks", "--check", PID, "--walker", "b", "--run", DATE)
+    assert r.returncode == 2 and f"{where(PID, '.b.json')} is missing. Walker b writes it in mode walk." in r.stderr
+    r = cli("walks", "--walker", "a", "--run", DATE)
+    assert r.returncode == 1 and "--walker goes with --check PAIN_ID" in r.stderr
+    r = cli("walks", "--check", PID, "--walker", "c", "--run", DATE)
+    assert r.returncode == 2 and "invalid choice" in r.stderr
+    checks = [e for e in common.read_jsonl(run / "runlog.jsonl") if e["command"] == "walks" and e["kind"] == "check"]
+    assert checks[0]["pain"] == PID and checks[0]["walker"] == "a" and checks[0]["errors"] == 0 and "files" not in checks[0]
+    # the comparator's check (no --walker) still shows the merge
+    common.write_json(stage45.walk_paths(run, PID)["a"], a)
+    common.write_json(stage45.walk_paths(run, PID)["b"], b)
+    r = cli("walks", "--check", PID, "--run", DATE)
+    assert r.returncode == 0 and "Conservative merge from the walker files: outcome reached today yes" in r.stdout
+
+
+def test_check_rejects_an_alternative_count_that_pairs_would_reject(run, cli):
+    """The comparator's own check applies alternative_pairs_min/max, the rule `pairs` applies, so the count is
+    fixed before the comparator exits instead of `funnel pairs` failing later for every such pain."""
+    ids = setup(run)[ROOM]
+    write_walk_set(run, PID, ids, pairs=[pair(1, ["W2", "W4", "W9"], "W20", supply="c1")])
+    r = cli("walks", "--check", PID, "--run", DATE)
+    assert r.returncode == 1
+    assert f"{where(PID)}: 1 alternative pair(s); the comparator drafts 2 to 3 (alternative_pairs_min/max)." in r.stderr
+    assert "  pair 1 (rank 1): valid, lane business" in r.stdout
+    write_walk_set(run, PID, ids, pairs=[pair(i, ["W2", "W4", "W9"], "W20", supply="c1") for i in range(1, 5)])
+    r = cli("walks", "--check", PID, "--run", DATE)
+    assert r.returncode == 1 and "4 alternative pair(s); the comparator drafts 2 to 3" in r.stderr
+    r = cli("walks", "--check", PID, "--run", DATE, "--dry-run")
+    assert r.returncode == 0, r.stderr
+    assert f"note: dry run: {where(PID)}: 4 alternative pair(s); the comparator drafts 2 to 3 (alternative_pairs_min/max)." in r.stdout
+    write_walk_set(run, PID, ids)
+    r = cli("walks", "--check", PID, "--run", DATE)
+    assert r.returncode == 0, r.stderr
+    # a pain the walk kills needs no alternatives
+    write_walk_set(run, PID, ids, pairs=[], a_kw={"reached": True})
+    r = cli("walks", "--check", PID, "--run", DATE)
+    assert r.returncode == 0, r.stderr
+    assert "Stage 4 verdict: killed." in r.stdout
+    assert not (run / "04_walks" / "_stage4.json").exists()
+
+
+def _dropped(pid, reason, counts=(1, 2, 4)):
+    room, key = common.split_pain_id(pid)
+    return {"pain_id": pid, "room": room, "pain_key": key, "status": "dropped", "rank": None, "drop_reason": reason,
+            "failed_spend_mentions": counts[0], "money_mentions": counts[1], "record_count": counts[2]}
+
+
+def _finish(cli):
+    out = {}
+    for cmd in ("walks", "pairs", "numbers", "redteam", "audit-packet", "shortlist", "review", "runlog", "status", "progress"):
+        r = cli(cmd, "--run", DATE)
+        assert r.returncode == 0, f"{cmd}: {r.stdout}{r.stderr}"
+        out[cmd] = r
+    return out
+
+
+def test_stage_3_dropping_every_pain_still_reaches_the_shortlist(froot, run, cli):
+    """A thin run where every drafted pain ends with fewer than 2 verified quotes: walks, pairs and numbers
+    write empty files and exit 0, the run finishes, and SHORTLIST.md says so plainly with the closest
+    candidates and exactly what killed each."""
+    import re
+    setup(run)
+    fees = f"{ROOM}--fees"
+    common.write_json(common.listen_dir(run) / "pains.json", {"pains": [
+        _dropped(PID, "fewer than 2 verified quotes: 1 of 2 passed the quote check (duplicate 1)"),
+        _dropped(fees, "fewer than 2 verified quotes: 0 of 3 passed the quote check (not_substring 3)", counts=(0, 1, 2)),
+    ], "kept": [], "cut": [], "dropped": [PID, fees], "rooms": {}, "needs_calls": [], "review_notes": [], "notes": []})
+    out = _finish(cli)
+    assert "nothing to walk" in out["walks"].stdout and "nothing to pair" in out["pairs"].stdout
+    assert stage4(run)["pains"] == [] and pairs_json(run)["pains"] == []
+    s6 = json.loads((run / "06_survivors.json").read_text(encoding="utf-8"))
+    assert s6["pains"] == [] and (run / "06_numbers.csv").exists() and (run / "06_numbers.md").exists()
+    assert "Shortlist: no survivor." in out["shortlist"].stdout
+    md = (run / "SHORTLIST.md").read_text(encoding="utf-8")
+    assert "## No survivor" in md and "## The five closest candidates" in md
+    assert (f"1. {PID}: killed at stage 3 (pains). fewer than 2 verified quotes: 1 of 2 passed the quote check (duplicate 1). "
+            f"Evidence: failed spend 1, money 2, member records 4.") in md
+    assert f"2. {fees}: killed at stage 3 (pains). fewer than 2 verified quotes: 0 of 3 passed the quote check (not_substring 3)." in md
+    assert "There is no candidate to audit" in (run / "07_audit_packet" / "AUDIT_PROMPT.md").read_text(encoding="utf-8")
+    for stage in ("stage 4 walks", "stage 5 pairs", "stage 6 numbers", "stage 7 shortlist"):
+        assert re.search(stage + r"\s+done", out["status"].stdout), stage
+    assert "Next without an output: walks" not in out["status"].stdout
+    assert cli("commit-message", "--run", DATE).stdout.strip().endswith("0 pains, 0 survivors")
+    assert graveyard(froot).count("stage 4") == 0 and graveyard(froot).count("stage 5") == 0
+
+
+def test_stage_4_killing_every_pain_still_reaches_the_shortlist(froot, run, cli):
+    ids = setup(run)[ROOM]
+    write_walk_set(run, PID, ids, pairs=[], a_kw={"reached": True})
+    out = _finish(cli)
+    assert stage4(run)["killed"] == [PID] and pairs_json(run)["pains"] == [] and "nothing to pair" in out["pairs"].stdout
+    assert json.loads((run / "06_survivors.json").read_text(encoding="utf-8"))["pains"] == []
+    md = (run / "SHORTLIST.md").read_text(encoding="utf-8")
+    assert "## No survivor" in md
+    assert (f"1. {PID}: killed at stage 4 (walks). outcome reached today with their own AI (walker a and the comparator say so): "
+            f"judged from the walk.") in md
+    assert f"2. {ROOM}--dropped-one: killed at stage 3 (pains)." in md
+    assert f"- {DATE} | stage 4 | pain:{PID} | outcome reached today with their own AI" in graveyard(froot)
+    assert "Shortlist: no survivor." in out["shortlist"].stdout
+
+
+def test_failed_commands_are_logged_under_their_own_stage(run, cli):
+    """RUNLOG.md attributes errors to the stage of the command that failed, not to stage 0."""
+    ids = setup(run)[ROOM]
+    a, b, m = write_walk_set(run, PID, ids)
+    m["agreement"]["walls_one"] = ["W9"]
+    common.write_json(stage45.walk_paths(run, PID)["merged"], m)
+    assert cli("walks", "--run", DATE).returncode == 1
+    assert cli("pairs", "--run", DATE).returncode == 2
+    assert cli("numbers", "--run", DATE).returncode == 2
+    errors = [e for e in common.read_jsonl(run / "runlog.jsonl") if e["kind"] == "error"]
+    assert [(e["stage"], e["command"], e["code"]) for e in errors] == [(4, "walks", 1), (5, "pairs", 2), (6, "numbers", 2)]
+    r = cli("runlog", "--run", DATE)
+    assert r.returncode == 0, r.stderr
+    md = (run / "RUNLOG.md").read_text(encoding="utf-8")
+    assert "- stage 4 (walks, exit 1): " in md
+    assert f"{where(PID)}: agreement.walls_one must list exactly the walls only one walker put on the path: none (got W9)." in md
+    assert "- stage 5 (pairs, exit 2): " in md and "- stage 6 (numbers, exit 2): " in md
+    assert "stage 0 (walks" not in md and "stage 0 (pairs" not in md and "stage 0 (numbers" not in md

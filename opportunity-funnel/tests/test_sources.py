@@ -9,6 +9,7 @@ import funnel
 import netfetch
 import records
 import sources
+from anonymize import anonymize
 
 ROOM = "gre-engineers-india"
 RUN = "2026-09-26"
@@ -639,7 +640,7 @@ QUOTED_COOKED = ('<aside class="quote no-group" data-username="priya_s" data-pos
 def test_discourse_quote_headers_never_keep_the_quoted_username(froot, run, monkeypatch):
     html, users = sources.strip_quote_headers(QUOTED_COOKED)
     assert users == ["priya_s"] and "priya_s" not in html and '<div class="title">[user]:</div>' in html
-    text = anonymize_text = __import__("anonymize").anonymize(netfetch.html_to_text(html), known_names=users)
+    text = anonymize(netfetch.html_to_text(html), known_names=users)
     assert text == "[user]:\nI paid 40k and still scored 300\nSame here, [user] told me the same."
     assert sources.strip_quote_headers(None) == ("", []) and sources.strip_quote_headers("<p>plain</p>") == ("<p>plain</p>", [])
     # through the adapter: the quoted member's username reaches neither the text nor the meta

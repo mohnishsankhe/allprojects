@@ -253,3 +253,25 @@ def test_lens_mismatch_is_a_warning_and_external_origin_is_accepted(run, cli):
     data = json.loads((run / "01_rooms.json").read_text(encoding="utf-8"))
     assert data["counts"]["by_origin"] == {"generated": len(rooms), "gap_pass": 1, "external": 1}
     assert data["counts"]["by_lens"]["transition"] == 15
+
+
+def test_room_killed_again_after_a_revival_is_removed(froot, run, cli):
+    """Rule 7: a revival note revives only the line it sits under. A room killed, revived and killed again is
+    dead; a room whose latest kill line carries the revival note is alive."""
+    write_full_set(run)
+    gy = froot / "graveyard.md"
+    gy.write_text(gy.read_text(encoding="utf-8")
+                  + "- 2026-08-01 | stage 2 | room:profession-3 | no reach entry matches\n"
+                  "  - new evidence 2026-08-15: a warm path through a colleague https://x.test/t\n"
+                  "- 2026-09-01 | stage 2 | room:profession-3 | failed depth: no ledger depth domain matches this room\n"
+                  "- 2026-08-01 | stage 2 | room:transition-2 | dead once\n"
+                  "- 2026-09-01 | stage 2 | room:transition-2 | dead twice\n"
+                  "  - new evidence 2026-09-20: revived under the latest line https://x.test/u\n", encoding="utf-8")
+    assert set(stage1.dead_rooms_from_other_runs(run)) == {"room:profession-3"}
+    r = cli("rooms", "--merge-parts", "--run", "2026-09-26")
+    assert r.returncode == 0, r.stderr
+    data = json.loads((run / "01_rooms.json").read_text(encoding="utf-8"))
+    kept = {x["slug"] for x in data["rooms"]}
+    assert "profession-3" not in kept and "transition-2" in kept
+    removed = {x["slug"]: x for x in data["removed"]}
+    assert removed["profession-3"]["reason"].startswith("dead in graveyard.md since 2026-09-01 (stage 2): failed depth")

@@ -308,3 +308,28 @@ def test_priced_ladder_steps_breaks_ties_before_slug():
     rank_by = ["ladder_steps", "spend_points_verified", "spend_points", "priced_ladder_steps", "warm_reach"]
     ranked = sorted([a, b], key=lambda v: stage2.rank_key(v, rank_by))
     assert [v["slug"] for v in ranked] == ["b-room", "a-room"]
+
+
+def test_a_room_the_rerun_keeps_loses_its_stale_graveyard_line(froot, run, cli):
+    """`mask` kills bravo (no spend item) and writes its line. The model adds a price and reruns `mask`: bravo
+    is kept and its same-date line goes, so a later run's `rooms` keeps bravo instead of killing it for a
+    fixed mistake. The real kill (charlie, one ladder step) stays and still applies later."""
+    from test_stage1 import make_room, write_part
+    write_rooms(run, ["alpha", "bravo", "charlie"], ladder={"charlie": 1})
+    write_parts(run, [entry("alpha"), entry("bravo", spend_items=[]), entry("charlie")])
+    r = cli("mask", "--merge-parts", "--run", "2026-09-26")
+    assert r.returncode == 0, r.stderr
+    assert "- 2026-09-26 | stage 2 | room:bravo | failed spend: no spend item: no concrete price with a URL was given" in graveyard(froot)
+    write_parts(run, [entry("alpha"), entry("bravo"), entry("charlie")])
+    r = cli("mask", "--merge-parts", "--run", "2026-09-26")
+    assert r.returncode == 0, r.stderr
+    assert mask_json(run)["kept"] == ["alpha", "bravo"]
+    gy = graveyard(froot)
+    assert "room:bravo" not in gy and gy.count("room:charlie") == 1
+    later = froot / "runs" / "2026-10-03"
+    write_part(later, "profession.json", [make_room("alpha", "profession"), make_room("bravo", "profession"), make_room("charlie", "profession")])
+    r = cli("rooms", "--merge-parts", "--run", "2026-10-03", "--dry-run")
+    assert r.returncode == 0, r.stderr
+    data = json.loads((later / "01_rooms.json").read_text(encoding="utf-8"))
+    assert {x["slug"] for x in data["rooms"]} == {"alpha", "bravo"}
+    assert "removed charlie: graveyard (dead in graveyard.md since 2026-09-26 (stage 2): failed ladder" in r.stdout

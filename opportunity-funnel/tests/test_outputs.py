@@ -588,3 +588,30 @@ def test_all_outputs_are_byte_identical_on_a_second_run(froot, run, h, cli):
     evs = events(run)
     assert any(e["kind"] == "count" and e["command"] == "shortlist" and e["order"] == [P2, P1] for e in evs)
     assert any(e["kind"] == "ran" and e["command"] == "audit-packet" for e in evs)
+
+
+# --------------------------------------------------------------------------- the audit runs days later
+def test_outputs_refuse_a_folder_where_nothing_ran_and_audit_status_names_the_run(froot, run, h, cli):
+    """An audit is done days after the run. Without --run the output commands would hit runs/<today>/: they
+    refuse (exit 2) and create nothing, and audit-status says which --run to pass."""
+    build_run(froot, run, h)
+    assert cli("shortlist", "--run", "2026-09-26").returncode == 0
+    env = {"FUNNEL_TODAY": "2026-10-03"}
+    stray = froot / "runs" / "2026-10-03"
+    r = cli("review", env=env)
+    assert r.returncode == 2
+    assert "runs/2026-10-03 has no stage output: nothing ran in this folder. Pass `--run` with the run to review (see `funnel audit-status`)." in r.stderr
+    r = cli("runlog", env=env)
+    assert r.returncode == 2 and "runs/2026-10-03/runlog.jsonl is missing" in r.stderr
+    r = cli("shortlist", env=env)
+    assert r.returncode == 2 and "runs/2026-10-03/06_survivors.json is missing" in r.stderr
+    assert not stray.exists()
+    r = cli("audit-status", env=env)
+    assert r.returncode == 0, r.stderr
+    assert "Run: runs/2026-09-26 (SHORTLIST.md present" in r.stdout
+    assert "Pass `--run 2026-09-26` to shortlist, review and runlog when you apply the audit." in r.stdout
+    assert not stray.exists()
+    for cmd in ("shortlist", "review", "runlog"):
+        r = cli(cmd, "--run", "2026-09-26", env=env)
+        assert r.returncode == 0, (cmd, r.stderr)
+    assert sorted(p.name for p in (froot / "runs").iterdir()) == ["2026-09-26"]
