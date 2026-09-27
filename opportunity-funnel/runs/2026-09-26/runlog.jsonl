@@ -1214,3 +1214,9 @@
 {"by_kind": {"blog_or_site": 816, "forum": 252, "jobs": 97, "news": 34, "official": 47, "qa": 176, "reviews": 270, "social": 41, "video": 94}, "by_source": {"websearch": 1827}, "by_voice": {"media": 255, "member": 314, "other": 648, "seller": 610}, "command": "count", "kind": "count", "labeled": 1827, "pains": 20, "room": "d2c-brands-scaling-past-launch", "source_kinds": 9, "stage": 3, "ts": "2026-09-27T17:11:43+00:00"}
 {"command": "listen-status", "dated": 20, "kind": "ran", "per_round": {"1": 1032, "2": 852}, "per_source": {"websearch": 1884}, "records": 1884, "room": "d2c-brands-scaling-past-launch", "stage": 3, "ts": "2026-09-27T17:11:49+00:00", "undated": 1864}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T17:12:01+00:00"}
+{"command": "show", "ids": 5, "kind": "ran", "missing": [], "room": "outbound-lead-gen-appointment-setting-agencies", "stage": 3, "ts": "2026-09-27T17:12:03+00:00"}
+{"command": "show", "ids": 5, "kind": "ran", "missing": [], "room": "gre-preppers-worldwide-online", "stage": 3, "ts": "2026-09-27T17:12:05+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "outbound-lead-gen-appointment-setting-agencies", "stage": 3, "ts": "2026-09-27T17:12:11+00:00"}
+{"already_checked": 0, "command": "relabel-pack", "keys": ["llc-to-c-corp-conversion", "startup-legal-fees", "entity-and-state-choice"], "kind": "ran", "packs": 5, "room": "startup-founders-409a-83b-deadlines", "round": 3, "stage": 3, "ts": "2026-09-27T17:12:17+00:00"}
+{"command": "listen-status", "dated": 76, "kind": "ran", "per_round": {"1": 870, "2": 850, "3": 894}, "per_source": {"websearch": 2614}, "records": 2614, "room": "startup-founders-409a-83b-deadlines", "stage": 3, "ts": "2026-09-27T17:12:26+00:00", "undated": 2538}
+{"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T17:14:38+00:00"}

@@ -135,7 +135,31 @@
       "added_round": 2,
       "reasoning": "Round-2 members ask 'What does one do if one forgets to file SEC Form D after the 15 day limit for private security sales?', 'Do I need a lawyer to file form D for startup company?' and 'Do initial startup founders need to file Form D or any other form with the SEC?'. [thin]: about six member questions, all on Quora.",
       "confidence": "moderate"
+    },
+    {
+      "key": "llc-to-c-corp-conversion",
+      "label": "converting our LLC or existing company into a Delaware C-corp",
+      "definition": "The founders already run an LLC, or a company in another state or country, and want a Delaware C-corp, usually before raising money. They ask how to convert (a statutory conversion, where one state filing changes the company's type; a merger into a new C-corp; or a 'Delaware flip', where a new Delaware parent takes over a non-US company), how long it takes, what a lawyer or service charges, and what it triggers: taxes, a new 83(b), keeping the name. Moving an existing company to another state counts too. Choosing the entity before anything is formed stays under entity-and-state-choice.",
+      "added_round": 3,
+      "reasoning": "About 15 [estimate] round-3 member records ask it, often with a price: 'Has anyone converted a Delaware LLC to a Delaware C-Corp? How was your experience? How long did it take? How much did it cost?', 'When converting a Delaware LLC to C-corp, what happens to 83(b)?' and 'Can you suggest an affordable service to convert a Delaware LLC to Delaware C-corp?'. Round-2 labelers suggested it from three more records.",
+      "confidence": "high"
+    },
+    {
+      "key": "startup-legal-fees",
+      "label": "not sure what startup legal work should cost, or whether we need a lawyer yet",
+      "definition": "Founders ask what a startup lawyer should charge and whether one is worth hiring yet: for forming the company, co-founder agreements, a friends-and-family, SAFE, convertible-note or seed round, a Series A, or a monthly retainer. They ask whether a quote is fair, who pays a round's legal fees, whether to pay a lawyer in equity or defer the fees, and whether templates will do for now. Comparing formation services (Stripe Atlas, Clerky, LegalZoom, doola) with each other stays under incorporation-service-worth-it; when a question weighs a lawyer against such a service or doing it yourself, both keys may apply. A lawyer who made a mistake stays under paid-service-got-it-wrong.",
+      "added_round": 3,
+      "reasoning": "About 14 [estimate] round-3 member records ask it: 'Ask HN: $10k in legal fees for a seed round – is that a joke?', 'How much will the average startup spend in legal fees to raise a seed round of $100k?' and 'Ask HN: My lawyer has asked for 5% equity. Is that fair?'. Law-firm pages answer with flat-fee packages, so money changes hands.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "entity-and-state-choice",
+      "label": "not sure whether to form an LLC or a C-corp, in which state, or when",
+      "definition": "Before or while forming the company, founders ask whether to be an LLC or a Delaware C-corp (or an S-corp), whether Delaware is worth it compared with their home state, Wyoming or Nevada, which structure suits a founder living outside the US, and when to incorporate (before revenue, before an accelerator, before a co-founder joins). Choosing a paid service to do the filing stays under incorporation-service-worth-it; converting a company that already exists stays under llc-to-c-corp-conversion; taxes owed by a company already formed stay under corp-tax-return-confusion; 83(b), SSN and ITIN questions of non-US founders stay under non-us-founder-paperwork.",
+      "added_round": 3,
+      "reasoning": "About 8 [estimate] round-3 member records ask it: 'What are the advantages and disadvantages of forming a Delaware LLC compared to a C corporation?', 'When should you incorporate Delaware C-Corp?' and 'Ask HN: Next best to incorporate other than Delaware?'. Two round-2 labelers suggested the same pain separately (entity-and-state-choice, entity-choice-and-timing).",
+      "confidence": "moderate"
     }
   ],
-  "reviewed_rounds": [2]
+  "reviewed_rounds": [2, 3]
 }
