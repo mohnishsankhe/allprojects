@@ -268,3 +268,154 @@
 {"round": 2, "query": "is Thumbtack worth it for contractors", "kind": "phrasing"}
 {"round": 2, "query": "site:medium.com I wasted money on SEO for my small business", "kind": "blog"}
 {"round": 2, "query": "site:medium.com lessons from selling my small business broker", "kind": "blog"}
+{"round": 3, "query": "site:contractortalk.com missed calls lost jobs", "kind": "forum"}
+{"round": 3, "query": "site:lawnsite.com can't answer phone while working", "kind": "forum"}
+{"round": 3, "query": "site:electriciantalk.com missed calls answering service", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk missed calls lost business", "kind": "forum"}
+{"round": 3, "query": "site:salongeek.com phone ringing while with clients", "kind": "forum"}
+{"round": 3, "query": "site:dentaltown.com missed calls new patients", "kind": "forum"}
+{"round": 3, "query": "site:facebook.com/groups missed calls losing jobs", "kind": "forum"}
+{"round": 3, "query": "site:pressurewashingresource.com missed calls", "kind": "forum"}
+{"round": 3, "query": "site:quora.com losing customers missed phone calls", "kind": "qa"}
+{"round": 3, "query": "site:plumbingzone.com missed calls losing work", "kind": "forum"}
+{"round": 3, "query": "site:contractortalk.com AI receptionist", "kind": "forum"}
+{"round": 3, "query": "site:lawnsite.com AI answering service", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk AI receptionist", "kind": "forum"}
+{"round": 3, "query": "site:salongeek.com AI receptionist", "kind": "forum"}
+{"round": 3, "query": "site:dentaltown.com AI phone answering", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk answering service cancelled contract", "kind": "forum"}
+{"round": 3, "query": "site:facebook.com/groups answering service waste of money", "kind": "forum"}
+{"round": 3, "query": "site:quora.com answering service not worth it", "kind": "qa"}
+{"round": 3, "query": "site:forums.mikeholt.com AI answering service", "kind": "forum"}
+{"round": 3, "query": "site:contractortalk.com virtual receptionist cost", "kind": "forum"}
+{"round": 3, "query": "site:facebook.com/groups Xero price increase", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk Sage price increase", "kind": "forum"}
+{"round": 3, "query": "site:quickbooks.intuit.com Desktop 2023 discontinued", "kind": "forum"}
+{"round": 3, "query": "site:quickbooks.intuit.com still charged after cancelled", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk accountant mistake penalty", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk accountant missed deadline", "kind": "forum"}
+{"round": 3, "query": "site:contractortalk.com bookkeeper mess", "kind": "forum"}
+{"round": 3, "query": "site:quickbooks.intuit.com bookkeeper messed up books", "kind": "forum"}
+{"round": 3, "query": "site:quora.com accountant mistake business tax penalty", "kind": "qa"}
+{"round": 3, "query": "site:avvo.com accountant mistake penalty", "kind": "qa"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk debt collection agency fees", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk won small claims still not paid", "kind": "forum"}
+{"round": 3, "query": "site:contractortalk.com mechanics lien deadline", "kind": "forum"}
+{"round": 3, "query": "site:lawnsite.com customers not paying", "kind": "forum"}
+{"round": 3, "query": "site:support.google.com/business/thread paid SEO still not showing", "kind": "forum"}
+{"round": 3, "query": "site:support.google.com/business/thread AI Overview wrong information", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk not showing on Google Maps", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk ChatGPT recommend my business", "kind": "forum"}
+{"round": 3, "query": "site:contractortalk.com Google Maps ranking dropped", "kind": "forum"}
+{"round": 3, "query": "site:hi.quora.com गूगल मैप पर दुकान नहीं दिख रही", "kind": "qa"}
+{"round": 3, "query": "site:support.google.com/business/thread suspended losing business", "kind": "forum"}
+{"round": 3, "query": "site:support.google.com/business/thread suspended again after reinstated", "kind": "forum"}
+{"round": 3, "query": "site:support.google.com/business/thread paid someone to reinstate", "kind": "forum"}
+{"round": 3, "query": "site:support.google.com/business/thread scam call claiming Google", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk Google business profile suspended", "kind": "forum"}
+{"round": 3, "query": "site:facebook.com/groups Google business profile suspended", "kind": "forum"}
+{"round": 3, "query": "site:contractortalk.com Google listing suspended", "kind": "forum"}
+{"round": 3, "query": "site:pressurewashingresource.com Google business profile suspended", "kind": "forum"}
+{"round": 3, "query": "site:quora.com Google business listing suspended", "kind": "qa"}
+{"round": 3, "query": "site:support.google.com/google-ads/thread Local Services Ads spam leads charged", "kind": "forum"}
+{"round": 3, "query": "site:community.thumbtack.com lead refund", "kind": "forum"}
+{"round": 3, "query": "site:consumercomplaints.in Sulekha leads", "kind": "reviews"}
+{"round": 3, "query": "site:support.google.com/business/thread review extortion", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk Trustpilot charging", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk review removal service", "kind": "forum"}
+{"round": 3, "query": "site:salongeek.com fake bad review", "kind": "forum"}
+{"round": 3, "query": "site:complaintsboard.com Yelp extortion", "kind": "reviews"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk Companies House late filing penalty", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk Making Tax Digital income tax", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk VAT penalty points", "kind": "forum"}
+{"round": 3, "query": "site:community.shopify.com sales tax notice penalty", "kind": "forum"}
+{"round": 3, "query": "site:quora.com California LLC $800 franchise tax penalty", "kind": "qa"}
+{"round": 3, "query": "site:quora.com UAE corporate tax registration penalty", "kind": "qa"}
+{"round": 3, "query": "site:hi.quora.com जीएसटी रजिस्ट्रेशन रद्द रिटर्न नहीं भरा", "kind": "qa"}
+{"round": 3, "query": "site:forums.moneysavingexpert.com Companies House late filing penalty", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk recruitment agency fees waste", "kind": "forum"}
+{"round": 3, "query": "site:salongeek.com can't find staff", "kind": "forum"}
+{"round": 3, "query": "site:lawnsite.com can't find good help", "kind": "forum"}
+{"round": 3, "query": "site:facebook.com/groups paid Indeed no applicants", "kind": "forum"}
+{"round": 3, "query": "site:dentaltown.com front desk turnover", "kind": "forum"}
+{"round": 3, "query": "site:hi.quora.com दुकान के कर्मचारी काम छोड़ देते हैं", "kind": "qa"}
+{"round": 3, "query": "site:electriciantalk.com can't find good help", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk first employee PAYE", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk payroll company mistake", "kind": "forum"}
+{"round": 3, "query": "site:community.squareup.com payroll tax penalty", "kind": "forum"}
+{"round": 3, "query": "site:quickbooks.intuit.com payroll price increase", "kind": "forum"}
+{"round": 3, "query": "site:contractortalk.com payroll company problems", "kind": "forum"}
+{"round": 3, "query": "site:facebook.com/groups Gusto payroll problems", "kind": "forum"}
+{"round": 3, "query": "site:quora.com payroll mistakes penalty small business", "kind": "qa"}
+{"round": 3, "query": "site:contractortalk.com insurance claim denied", "kind": "forum"}
+{"round": 3, "query": "site:lawnsite.com insurance claim denied", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk insurer refused claim", "kind": "forum"}
+{"round": 3, "query": "site:contractortalk.com workers comp audit bill", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk business broker upfront fee", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk selling my business valuation", "kind": "forum"}
+{"round": 3, "query": "site:facebook.com/groups business broker upfront fee", "kind": "forum"}
+{"round": 3, "query": "site:lawnsite.com selling my business", "kind": "forum"}
+{"round": 3, "query": "site:dentaltown.com practice broker fees", "kind": "forum"}
+{"round": 3, "query": "site:quora.com buyer stopped paying seller financing business", "kind": "qa"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk burnt out running business", "kind": "forum"}
+{"round": 3, "query": "site:contractortalk.com burned out", "kind": "forum"}
+{"round": 3, "query": "site:lawnsite.com burnout", "kind": "forum"}
+{"round": 3, "query": "site:salongeek.com burnt out salon owner", "kind": "forum"}
+{"round": 3, "query": "site:facebook.com/groups business owner burnout", "kind": "forum"}
+{"round": 3, "query": "site:community.shopify.com charged after uninstalling app", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk software subscriptions cost", "kind": "forum"}
+{"round": 3, "query": "site:community.squareup.com charged after cancelling subscription", "kind": "forum"}
+{"round": 3, "query": "site:consumercomplaints.in Vyapar subscription refund", "kind": "reviews"}
+{"round": 3, "query": "site:quora.com cancel business software subscription still charged", "kind": "qa"}
+{"round": 3, "query": "site:community.shopify.com charged after closing store", "kind": "forum"}
+{"round": 3, "query": "site:consumercomplaints.in IndiaMART auto debit", "kind": "reviews"}
+{"round": 3, "query": "site:community.squareup.com outage lost sales", "kind": "forum"}
+{"round": 3, "query": "site:community.etsy.com chargeback case lost", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk chargeback lost", "kind": "forum"}
+{"round": 3, "query": "site:paypal-community.com chargeback seller lost", "kind": "forum"}
+{"round": 3, "query": "site:salongeek.com chargeback", "kind": "forum"}
+{"round": 3, "query": "site:quora.com chargeback lost small business", "kind": "qa"}
+{"round": 3, "query": "site:consumercomplaints.in Razorpay settlement on hold", "kind": "reviews"}
+{"round": 3, "query": "site:consumercomplaints.in PhonePe merchant settlement", "kind": "reviews"}
+{"round": 3, "query": "site:community.shopify.com Shopify Payments payouts paused", "kind": "forum"}
+{"round": 3, "query": "site:community.ebay.com payout on hold", "kind": "forum"}
+{"round": 3, "query": "site:salongeek.com last minute cancellations", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk no shows appointments", "kind": "forum"}
+{"round": 3, "query": "site:dentaltown.com no show fee", "kind": "forum"}
+{"round": 3, "query": "site:community.squareup.com no show fee", "kind": "forum"}
+{"round": 3, "query": "site:facebook.com/groups clients no show deposit", "kind": "forum"}
+{"round": 3, "query": "site:quora.com charging no-show fee clients", "kind": "qa"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk bank refused business loan", "kind": "forum"}
+{"round": 3, "query": "site:ukbusinessforums.co.uk merchant cash advance", "kind": "forum"}
+{"round": 3, "query": "site:community.shopify.com Shopify Capital declined", "kind": "forum"}
+{"round": 3, "query": "site:contractortalk.com business loan denied", "kind": "forum"}
+{"round": 3, "query": "site:quora.com SBA loan denied", "kind": "qa"}
+{"round": 3, "query": "site:hi.quora.com मुद्रा लोन नहीं मिला", "kind": "qa"}
+{"round": 3, "query": "site:facebook.com/groups merchant cash advance regret", "kind": "forum"}
+{"round": 3, "query": "site:forums.moneysavingexpert.com business loan refused", "kind": "forum"}
+{"round": 3, "query": "Making Tax Digital for Income Tax April 2026 sign up threshold", "kind": "official"}
+{"round": 3, "query": "Companies House late filing penalties amounts", "kind": "official"}
+{"round": 3, "query": "UAE corporate tax registration late penalty waiver", "kind": "official"}
+{"round": 3, "query": "California LLC annual tax $800 due date penalty", "kind": "official"}
+{"round": 3, "query": "GST registration cancelled non filing revocation time limit", "kind": "official"}
+{"round": 3, "query": "Fresha no-show protection fee pricing", "kind": "pricing"}
+{"round": 3, "query": "ADP RUN payroll pricing small business 2026", "kind": "pricing"}
+{"round": 3, "query": "Xero pricing 2026 plans price increase", "kind": "pricing"}
+{"round": 3, "query": "business broker commission UK small business percentage", "kind": "pricing"}
+{"round": 3, "query": "Chargeflow pricing chargeback recovery fee", "kind": "pricing"}
+{"round": 3, "query": "site:upwork.com/freelance-jobs chase unpaid invoices", "kind": "jobs"}
+{"round": 3, "query": "site:upwork.com/freelance-jobs remove fake Google reviews", "kind": "jobs"}
+{"round": 3, "query": "site:upwork.com/freelance-jobs payroll setup first employee", "kind": "jobs"}
+{"round": 3, "query": "site:indeed.com salon receptionist answering phones", "kind": "jobs"}
+{"round": 3, "query": "site:youtube.com Square froze my account small business", "kind": "video"}
+{"round": 3, "query": "site:youtube.com Yelp extortion small business owner", "kind": "video"}
+{"round": 3, "query": "site:youtube.com scammed by marketing agency small business", "kind": "video"}
+{"round": 3, "query": "site:youtube.com why I cancelled my answering service", "kind": "video"}
+{"round": 3, "query": "why is Square holding my money", "kind": "phrasing"}
+{"round": 3, "query": "can I charge a no-show fee to clients", "kind": "phrasing"}
+{"round": 3, "query": "how to get a small business loan after being denied", "kind": "phrasing"}
+{"round": 3, "query": "is Gusto worth it for one employee", "kind": "phrasing"}
+{"round": 3, "query": "dukaan ke liye loan reject ho gaya kya kare", "kind": "phrasing"}
+{"round": 3, "query": "मुद्रा लोन कैसे मिलेगा दुकान के लिए", "kind": "phrasing"}
+{"round": 3, "query": "site:medium.com I tried an AI receptionist for my business", "kind": "blog"}
+{"round": 3, "query": "site:medium.com my Google Business Profile was suspended", "kind": "blog"}

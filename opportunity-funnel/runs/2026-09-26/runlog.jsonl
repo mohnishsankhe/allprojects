@@ -1107,3 +1107,10 @@
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T16:31:40+00:00"}
 {"command": "listen-status", "dated": 38, "kind": "ran", "per_round": {"1": 1283, "2": 905}, "per_source": {"websearch": 2188}, "records": 2188, "room": "bpo-contact-centre-operators-india-philippines", "stage": 3, "ts": "2026-09-27T16:32:07+00:00", "undated": 2150}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T16:36:43+00:00"}
+{"command": "show", "ids": 5, "kind": "ran", "missing": [], "room": "salon-spa-owners-india-global", "stage": 3, "ts": "2026-09-27T16:37:48+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "salon-spa-owners-india-global", "stage": 3, "ts": "2026-09-27T16:37:54+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "salon-spa-owners-india-global", "stage": 3, "ts": "2026-09-27T16:38:03+00:00"}
+{"command": "show", "ids": 10, "kind": "ran", "missing": [], "room": "d2c-brands-scaling-past-launch", "stage": 3, "ts": "2026-09-27T16:39:12+00:00"}
+{"command": "show", "ids": 20, "kind": "ran", "missing": [], "room": "d2c-brands-scaling-past-launch", "stage": 3, "ts": "2026-09-27T16:39:52+00:00"}
+{"command": "show", "ids": 50, "kind": "ran", "missing": [], "room": "d2c-brands-scaling-past-launch", "stage": 3, "ts": "2026-09-27T16:40:31+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T16:41:45+00:00"}
