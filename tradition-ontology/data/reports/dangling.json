@@ -1,0 +1,1897 @@
+{
+ "total_distinct": 259,
+ "by_prefix": {
+  "src": 90,
+  "tch": 56,
+  "tea": 70,
+  "lin": 17,
+  "ult": 5,
+  "pth": 3,
+  "trm": 18
+ },
+ "top": [
+  {
+   "id": "tch:madhva",
+   "refs": 43,
+   "e.g.": [
+    "src:anuvyakhyana",
+    "src:brahma-sutra-bhasya-madhva",
+    "src:nyayavivarana"
+   ]
+  },
+  {
+   "id": "tch:somananda",
+   "refs": 5,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:pratyabhijna",
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "src:brahma-sutra",
+   "refs": 4,
+   "e.g.": [
+    "src:anuvyakhyana",
+    "src:brahma-sutra-bhasya-madhva",
+    "src:nyayavivarana"
+   ]
+  },
+  {
+   "id": "tch:vasugupta",
+   "refs": 4,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "tch:abhinavagupta",
+   "refs": 4,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:pratyabhijna",
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "tch:ksemaraja",
+   "refs": 4,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:pratyabhijna",
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "pth:kashmir-four-upayas",
+   "refs": 4,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:pratyabhijna",
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "tch:padmanabha-tirtha",
+   "refs": 3,
+   "e.g.": [
+    "lin:dvaita",
+    "lin:uttaradi-matha"
+   ]
+  },
+  {
+   "id": "lin:mantramarga",
+   "refs": 3,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "tch:utpaladeva",
+   "refs": 3,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:pratyabhijna"
+   ]
+  },
+  {
+   "id": "tch:jayaratha",
+   "refs": 3,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:krama",
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "src:bhagavad-gita",
+   "refs": 2,
+   "e.g.": [
+    "src:gita-bhasya-madhva",
+    "src:gita-tatparya-nirnaya"
+   ]
+  },
+  {
+   "id": "lin:vedanta",
+   "refs": 2,
+   "e.g.": [
+    "lin:dvaita"
+   ]
+  },
+  {
+   "id": "tch:narahari-tirtha",
+   "refs": 2,
+   "e.g.": [
+    "lin:dvaita",
+    "lin:uttaradi-matha"
+   ]
+  },
+  {
+   "id": "tch:aksobhya-tirtha",
+   "refs": 2,
+   "e.g.": [
+    "lin:dvaita",
+    "lin:uttaradi-matha"
+   ]
+  },
+  {
+   "id": "tch:jayatirtha",
+   "refs": 2,
+   "e.g.": [
+    "lin:dvaita",
+    "lin:uttaradi-matha"
+   ]
+  },
+  {
+   "id": "tch:vyasatirtha",
+   "refs": 2,
+   "e.g.": [
+    "lin:dvaita",
+    "lin:vyasaraja-matha"
+   ]
+  },
+  {
+   "id": "tch:vadiraja-tirtha",
+   "refs": 2,
+   "e.g.": [
+    "lin:dvaita",
+    "lin:udupi-asta-matha"
+   ]
+  },
+  {
+   "id": "tch:vijayindra-tirtha",
+   "refs": 2,
+   "e.g.": [
+    "lin:dvaita",
+    "lin:raghavendra-matha"
+   ]
+  },
+  {
+   "id": "tch:raghuttama-tirtha",
+   "refs": 2,
+   "e.g.": [
+    "lin:dvaita",
+    "lin:uttaradi-matha"
+   ]
+  },
+  {
+   "id": "tch:raghavendra-tirtha",
+   "refs": 2,
+   "e.g.": [
+    "lin:dvaita",
+    "lin:raghavendra-matha"
+   ]
+  },
+  {
+   "id": "tch:vijayadhvaja-tirtha",
+   "refs": 2,
+   "e.g.": [
+    "lin:dvaita",
+    "lin:udupi-asta-matha"
+   ]
+  },
+  {
+   "id": "tch:satyadharma-tirtha",
+   "refs": 2,
+   "e.g.": [
+    "lin:dvaita",
+    "lin:uttaradi-matha"
+   ]
+  },
+  {
+   "id": "src:nyayasudha",
+   "refs": 2,
+   "e.g.": [
+    "lin:dvaita",
+    "lin:uttaradi-matha"
+   ]
+  },
+  {
+   "id": "src:tattvaprakasika",
+   "refs": 2,
+   "e.g.": [
+    "lin:dvaita",
+    "lin:uttaradi-matha"
+   ]
+  },
+  {
+   "id": "src:nyayamrta",
+   "refs": 2,
+   "e.g.": [
+    "lin:dvaita",
+    "lin:vyasaraja-matha"
+   ]
+  },
+  {
+   "id": "src:tarkatandava",
+   "refs": 2,
+   "e.g.": [
+    "lin:dvaita",
+    "lin:vyasaraja-matha"
+   ]
+  },
+  {
+   "id": "src:tatparyacandrika",
+   "refs": 2,
+   "e.g.": [
+    "lin:dvaita",
+    "lin:vyasaraja-matha"
+   ]
+  },
+  {
+   "id": "src:yuktimallika",
+   "refs": 2,
+   "e.g.": [
+    "lin:dvaita",
+    "lin:udupi-asta-matha"
+   ]
+  },
+  {
+   "id": "src:nyayasudha-parimala",
+   "refs": 2,
+   "e.g.": [
+    "lin:dvaita",
+    "lin:raghavendra-matha"
+   ]
+  },
+  {
+   "id": "lin:lakshmanjoo",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism"
+   ]
+  },
+  {
+   "id": "tch:kallata",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "tch:laksmanagupta",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:pratyabhijna"
+   ]
+  },
+  {
+   "id": "tch:yogaraja",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "tch:bhaskara-kashmir",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "tch:rajanaka-ramakantha",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "tch:utpala-vaisnava",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "tch:sivopadhyaya",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "tch:sahib-kaul",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "tch:bhaskarakantha",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:pratyabhijna"
+   ]
+  },
+  {
+   "id": "src:siva-sutra",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "src:spanda-karika",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "src:sivadrsti",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:pratyabhijna"
+   ]
+  },
+  {
+   "id": "src:isvarapratyabhijna-karika",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:pratyabhijna"
+   ]
+  },
+  {
+   "id": "src:isvarapratyabhijna-vimarsini",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:pratyabhijna"
+   ]
+  },
+  {
+   "id": "src:isvarapratyabhijna-vivrti-vimarsini",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:pratyabhijna"
+   ]
+  },
+  {
+   "id": "src:tantraloka",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "src:tantrasara",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "src:paratrisika-vivarana",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "src:pratyabhijnahrdayam",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:pratyabhijna"
+   ]
+  },
+  {
+   "id": "src:vijnana-bhairava-tantra",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "src:malinivijayottara-tantra",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "src:paramarthasara",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "lin:kaula",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "lin:vyakarana",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:pratyabhijna"
+   ]
+  },
+  {
+   "id": "lin:pramana-buddhist",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:pratyabhijna"
+   ]
+  },
+  {
+   "id": "lin:srividya",
+   "refs": 2,
+   "e.g.": [
+    "lin:kashmir-saivism",
+    "lin:krama"
+   ]
+  },
+  {
+   "id": "tch:jnananetra",
+   "refs": 2,
+   "e.g.": [
+    "lin:krama"
+   ]
+  },
+  {
+   "id": "trm:anuttara",
+   "refs": 2,
+   "e.g.": [
+    "ult:kashmir-saivism",
+    "ult:trika"
+   ]
+  },
+  {
+   "id": "trm:bhairava",
+   "refs": 2,
+   "e.g.": [
+    "ult:kashmir-saivism",
+    "ult:trika"
+   ]
+  },
+  {
+   "id": "trm:citi",
+   "refs": 2,
+   "e.g.": [
+    "ult:kashmir-saivism",
+    "ult:pratyabhijna"
+   ]
+  },
+  {
+   "id": "trm:mahesvara",
+   "refs": 2,
+   "e.g.": [
+    "ult:kashmir-saivism",
+    "ult:pratyabhijna"
+   ]
+  },
+  {
+   "id": "trm:hrdaya",
+   "refs": 2,
+   "e.g.": [
+    "ult:kashmir-saivism",
+    "ult:trika"
+   ]
+  },
+  {
+   "id": "trm:spanda",
+   "refs": 2,
+   "e.g.": [
+    "ult:kashmir-saivism",
+    "ult:spanda"
+   ]
+  },
+  {
+   "id": "tea:vijnana-bhairava-tantra:14-16",
+   "refs": 2,
+   "e.g.": [
+    "ult:kashmir-saivism",
+    "ult:trika"
+   ]
+  },
+  {
+   "id": "trm:kalasankarsini",
+   "refs": 2,
+   "e.g.": [
+    "ult:krama",
+    "ult:trika"
+   ]
+  },
+  {
+   "id": "tea:brahma-sutra-bhasya-madhva:1.1.1",
+   "refs": 1,
+   "e.g.": [
+    "src:brahma-sutra-bhasya-madhva"
+   ]
+  },
+  {
+   "id": "tea:brahma-sutra-bhasya-madhva:1.1.1/5",
+   "refs": 1,
+   "e.g.": [
+    "src:brahma-sutra-bhasya-madhva"
+   ]
+  },
+  {
+   "id": "tea:brahma-sutra-bhasya-madhva:1.1.2",
+   "refs": 1,
+   "e.g.": [
+    "src:brahma-sutra-bhasya-madhva"
+   ]
+  },
+  {
+   "id": "tea:brahma-sutra-bhasya-madhva:4.4.19",
+   "refs": 1,
+   "e.g.": [
+    "src:brahma-sutra-bhasya-madhva"
+   ]
+  },
+  {
+   "id": "tea:anuvyakhyana:1.4.95-98",
+   "refs": 1,
+   "e.g.": [
+    "src:anuvyakhyana"
+   ]
+  },
+  {
+   "id": "tea:anuvyakhyana:1.4.99-103",
+   "refs": 1,
+   "e.g.": [
+    "src:anuvyakhyana"
+   ]
+  },
+  {
+   "id": "tea:anuvyakhyana:2.2.241",
+   "refs": 1,
+   "e.g.": [
+    "src:anuvyakhyana"
+   ]
+  },
+  {
+   "id": "tea:anuvyakhyana:4.4.15",
+   "refs": 1,
+   "e.g.": [
+    "src:anuvyakhyana"
+   ]
+  },
+  {
+   "id": "tea:anubhasya-madhva:1.1",
+   "refs": 1,
+   "e.g.": [
+    "src:anubhasya-madhva"
+   ]
+  },
+  {
+   "id": "tea:gita-bhasya-madhva:intro",
+   "refs": 1,
+   "e.g.": [
+    "src:gita-bhasya-madhva"
+   ]
+  },
+  {
+   "id": "tea:gita-tatparya-nirnaya:intro.1-2",
+   "refs": 1,
+   "e.g.": [
+    "src:gita-tatparya-nirnaya"
+   ]
+  },
+  {
+   "id": "src:isa-upanisad",
+   "refs": 1,
+   "e.g.": [
+    "src:isa-upanisad-bhasya-madhva"
+   ]
+  },
+  {
+   "id": "src:kena-upanisad",
+   "refs": 1,
+   "e.g.": [
+    "src:kena-upanisad-bhasya-madhva"
+   ]
+  },
+  {
+   "id": "src:katha-upanisad",
+   "refs": 1,
+   "e.g.": [
+    "src:katha-upanisad-bhasya-madhva"
+   ]
+  },
+  {
+   "id": "src:mundaka-upanisad",
+   "refs": 1,
+   "e.g.": [
+    "src:mundaka-upanisad-bhasya-madhva"
+   ]
+  },
+  {
+   "id": "src:prasna-upanisad",
+   "refs": 1,
+   "e.g.": [
+    "src:prasna-upanisad-bhasya-madhva"
+   ]
+  },
+  {
+   "id": "src:mandukya-upanisad",
+   "refs": 1,
+   "e.g.": [
+    "src:mandukya-upanisad-bhasya-madhva"
+   ]
+  },
+  {
+   "id": "tea:mandukya-upanisad-bhasya-madhva:3-7",
+   "refs": 1,
+   "e.g.": [
+    "src:mandukya-upanisad-bhasya-madhva"
+   ]
+  },
+  {
+   "id": "tea:mandukya-upanisad-bhasya-madhva:2.9",
+   "refs": 1,
+   "e.g.": [
+    "src:mandukya-upanisad-bhasya-madhva"
+   ]
+  },
+  {
+   "id": "src:taittiriya-upanisad",
+   "refs": 1,
+   "e.g.": [
+    "src:taittiriya-upanisad-bhasya-madhva"
+   ]
+  },
+  {
+   "id": "src:aitareya-upanisad",
+   "refs": 1,
+   "e.g.": [
+    "src:aitareya-upanisad-bhasya-madhva"
+   ]
+  },
+  {
+   "id": "src:chandogya-upanisad",
+   "refs": 1,
+   "e.g.": [
+    "src:chandogya-upanisad-bhasya-madhva"
+   ]
+  },
+  {
+   "id": "tea:chandogya-upanisad-bhasya-madhva:6.8.7",
+   "refs": 1,
+   "e.g.": [
+    "src:chandogya-upanisad-bhasya-madhva"
+   ]
+  },
+  {
+   "id": "src:brhadaranyaka-upanisad",
+   "refs": 1,
+   "e.g.": [
+    "src:brhadaranyaka-upanisad-bhasya-madhva"
+   ]
+  },
+  {
+   "id": "src:rgveda",
+   "refs": 1,
+   "e.g.": [
+    "src:rgbhasya-madhva"
+   ]
+  },
+  {
+   "id": "tea:rgbhasya-madhva:intro",
+   "refs": 1,
+   "e.g.": [
+    "src:rgbhasya-madhva"
+   ]
+  },
+  {
+   "id": "tea:rgbhasya-madhva:1.1",
+   "refs": 1,
+   "e.g.": [
+    "src:rgbhasya-madhva"
+   ]
+  },
+  {
+   "id": "tea:pramanalaksana-madhva:kevala-anupramana",
+   "refs": 1,
+   "e.g.": [
+    "src:pramanalaksana-madhva"
+   ]
+  },
+  {
+   "id": "tea:pramanalaksana-madhva:pratyaksa",
+   "refs": 1,
+   "e.g.": [
+    "src:pramanalaksana-madhva"
+   ]
+  },
+  {
+   "id": "tea:kathalaksana:2",
+   "refs": 1,
+   "e.g.": [
+    "src:kathalaksana"
+   ]
+  },
+  {
+   "id": "tea:upadhikhandana:1-2",
+   "refs": 1,
+   "e.g.": [
+    "src:upadhikhandana"
+   ]
+  },
+  {
+   "id": "tea:mayavadakhandana:1",
+   "refs": 1,
+   "e.g.": [
+    "src:mayavadakhandana"
+   ]
+  },
+  {
+   "id": "tea:prapancamithyatvanumanakhandana:1",
+   "refs": 1,
+   "e.g.": [
+    "src:prapancamithyatvanumanakhandana"
+   ]
+  },
+  {
+   "id": "tea:tattvasankhyana:1",
+   "refs": 1,
+   "e.g.": [
+    "src:tattvasankhyana"
+   ]
+  },
+  {
+   "id": "tea:tattvasankhyana:3-4",
+   "refs": 1,
+   "e.g.": [
+    "src:tattvasankhyana"
+   ]
+  },
+  {
+   "id": "tea:tattvasankhyana:5-7",
+   "refs": 1,
+   "e.g.": [
+    "src:tattvasankhyana"
+   ]
+  },
+  {
+   "id": "tea:tattvasankhyana:10-11",
+   "refs": 1,
+   "e.g.": [
+    "src:tattvasankhyana"
+   ]
+  },
+  {
+   "id": "tea:tattvaviveka:1",
+   "refs": 1,
+   "e.g.": [
+    "src:tattvaviveka"
+   ]
+  },
+  {
+   "id": "tea:tattvaviveka:4-7",
+   "refs": 1,
+   "e.g.": [
+    "src:tattvaviveka"
+   ]
+  },
+  {
+   "id": "tea:tattvaviveka:10-12",
+   "refs": 1,
+   "e.g.": [
+    "src:tattvaviveka"
+   ]
+  },
+  {
+   "id": "tea:tattvaviveka:13",
+   "refs": 1,
+   "e.g.": [
+    "src:tattvaviveka"
+   ]
+  },
+  {
+   "id": "tea:tattvoddyota:1",
+   "refs": 1,
+   "e.g.": [
+    "src:tattvoddyota"
+   ]
+  },
+  {
+   "id": "tea:karmanirnaya:1",
+   "refs": 1,
+   "e.g.": [
+    "src:karmanirnaya"
+   ]
+  },
+  {
+   "id": "tea:visnutattvavinirnaya:1",
+   "refs": 1,
+   "e.g.": [
+    "src:visnutattvavinirnaya"
+   ]
+  },
+  {
+   "id": "tea:visnutattvavinirnaya:1/2",
+   "refs": 1,
+   "e.g.": [
+    "src:visnutattvavinirnaya"
+   ]
+  },
+  {
+   "id": "tea:visnutattvavinirnaya:1/4",
+   "refs": 1,
+   "e.g.": [
+    "src:visnutattvavinirnaya"
+   ]
+  },
+  {
+   "id": "tea:visnutattvavinirnaya:2",
+   "refs": 1,
+   "e.g.": [
+    "src:visnutattvavinirnaya"
+   ]
+  },
+  {
+   "id": "tea:visnutattvavinirnaya:3",
+   "refs": 1,
+   "e.g.": [
+    "src:visnutattvavinirnaya"
+   ]
+  },
+  {
+   "id": "src:mahabharata",
+   "refs": 1,
+   "e.g.": [
+    "src:mahabharata-tatparya-nirnaya"
+   ]
+  },
+  {
+   "id": "tea:mahabharata-tatparya-nirnaya:1.68-71",
+   "refs": 1,
+   "e.g.": [
+    "src:mahabharata-tatparya-nirnaya"
+   ]
+  },
+  {
+   "id": "tea:mahabharata-tatparya-nirnaya:1.85",
+   "refs": 1,
+   "e.g.": [
+    "src:mahabharata-tatparya-nirnaya"
+   ]
+  },
+  {
+   "id": "tea:mahabharata-tatparya-nirnaya:1.86-90",
+   "refs": 1,
+   "e.g.": [
+    "src:mahabharata-tatparya-nirnaya"
+   ]
+  },
+  {
+   "id": "tea:mahabharata-tatparya-nirnaya:32.120",
+   "refs": 1,
+   "e.g.": [
+    "src:mahabharata-tatparya-nirnaya"
+   ]
+  },
+  {
+   "id": "tea:mahabharata-tatparya-nirnaya:32.162-166",
+   "refs": 1,
+   "e.g.": [
+    "src:mahabharata-tatparya-nirnaya"
+   ]
+  },
+  {
+   "id": "src:bhagavata-purana",
+   "refs": 1,
+   "e.g.": [
+    "src:bhagavata-tatparya-nirnaya"
+   ]
+  },
+  {
+   "id": "tea:dvadasastotra:1.1",
+   "refs": 1,
+   "e.g.": [
+    "src:dvadasastotra"
+   ]
+  },
+  {
+   "id": "tea:krsnamrtamaharnava:1-3",
+   "refs": 1,
+   "e.g.": [
+    "src:krsnamrtamaharnava"
+   ]
+  },
+  {
+   "id": "tea:krsnamrtamaharnava:126-152",
+   "refs": 1,
+   "e.g.": [
+    "src:krsnamrtamaharnava"
+   ]
+  },
+  {
+   "id": "tea:tantrasarasangraha-madhva:1.3-4",
+   "refs": 1,
+   "e.g.": [
+    "src:tantrasarasangraha-madhva"
+   ]
+  },
+  {
+   "id": "tea:tantrasarasangraha-madhva:1.5-10",
+   "refs": 1,
+   "e.g.": [
+    "src:tantrasarasangraha-madhva"
+   ]
+  },
+  {
+   "id": "tea:sadacarasmrti-madhva:1-2",
+   "refs": 1,
+   "e.g.": [
+    "src:sadacarasmrti-madhva"
+   ]
+  },
+  {
+   "id": "tea:jayantinirnaya:1-3",
+   "refs": 1,
+   "e.g.": [
+    "src:jayantinirnaya"
+   ]
+  },
+  {
+   "id": "tch:trivikrama-panditacarya",
+   "refs": 1,
+   "e.g.": [
+    "lin:dvaita"
+   ]
+  },
+  {
+   "id": "tch:sripadaraja",
+   "refs": 1,
+   "e.g.": [
+    "lin:dvaita"
+   ]
+  },
+  {
+   "id": "src:pramanapaddhati",
+   "refs": 1,
+   "e.g.": [
+    "lin:dvaita"
+   ]
+  },
+  {
+   "id": "src:vadavali",
+   "refs": 1,
+   "e.g.": [
+    "lin:dvaita"
+   ]
+  },
+  {
+   "id": "src:sumadhvavijaya",
+   "refs": 1,
+   "e.g.": [
+    "lin:dvaita"
+   ]
+  },
+  {
+   "id": "src:harikathamrtasara",
+   "refs": 1,
+   "e.g.": [
+    "lin:dvaita"
+   ]
+  },
+  {
+   "id": "lin:upanisadic",
+   "refs": 1,
+   "e.g.": [
+    "lin:dvaita"
+   ]
+  },
+  {
+   "id": "lin:pancaratra",
+   "refs": 1,
+   "e.g.": [
+    "lin:dvaita"
+   ]
+  },
+  {
+   "id": "lin:epic-teaching",
+   "refs": 1,
+   "e.g.": [
+    "lin:dvaita"
+   ]
+  },
+  {
+   "id": "lin:puranic",
+   "refs": 1,
+   "e.g.": [
+    "lin:dvaita"
+   ]
+  },
+  {
+   "id": "lin:mimamsa",
+   "refs": 1,
+   "e.g.": [
+    "lin:dvaita"
+   ]
+  },
+  {
+   "id": "lin:nyaya",
+   "refs": 1,
+   "e.g.": [
+    "lin:dvaita"
+   ]
+  },
+  {
+   "id": "lin:haridasa-karnataka",
+   "refs": 1,
+   "e.g.": [
+    "lin:dvaita"
+   ]
+  },
+  {
+   "id": "lin:gaudiya-vaisnava",
+   "refs": 1,
+   "e.g.": [
+    "lin:dvaita"
+   ]
+  },
+  {
+   "id": "ult:dvaita",
+   "refs": 1,
+   "e.g.": [
+    "lin:dvaita"
+   ]
+  },
+  {
+   "id": "pth:dvaita-sadhana-krama",
+   "refs": 1,
+   "e.g.": [
+    "lin:dvaita"
+   ]
+  },
+  {
+   "id": "pth:dvaita-moksa-krama",
+   "refs": 1,
+   "e.g.": [
+    "lin:dvaita"
+   ]
+  },
+  {
+   "id": "tch:madhava-tirtha",
+   "refs": 1,
+   "e.g.": [
+    "lin:uttaradi-matha"
+   ]
+  },
+  {
+   "id": "tch:vidyadhiraja-tirtha",
+   "refs": 1,
+   "e.g.": [
+    "lin:uttaradi-matha"
+   ]
+  },
+  {
+   "id": "tch:satyanatha-tirtha",
+   "refs": 1,
+   "e.g.": [
+    "lin:uttaradi-matha"
+   ]
+  },
+  {
+   "id": "tch:satyadhyana-tirtha",
+   "refs": 1,
+   "e.g.": [
+    "lin:uttaradi-matha"
+   ]
+  },
+  {
+   "id": "src:sattarkadipavali",
+   "refs": 1,
+   "e.g.": [
+    "lin:uttaradi-matha"
+   ]
+  },
+  {
+   "id": "src:brhadaranyaka-bhasya-bhavabodha",
+   "refs": 1,
+   "e.g.": [
+    "lin:uttaradi-matha"
+   ]
+  },
+  {
+   "id": "ult:uttaradi-matha",
+   "refs": 1,
+   "e.g.": [
+    "lin:uttaradi-matha"
+   ]
+  },
+  {
+   "id": "tch:sudhindra-tirtha",
+   "refs": 1,
+   "e.g.": [
+    "lin:raghavendra-matha"
+   ]
+  },
+  {
+   "id": "tch:surendra-tirtha",
+   "refs": 1,
+   "e.g.": [
+    "lin:raghavendra-matha"
+   ]
+  },
+  {
+   "id": "src:tattvaprakasika-bhavadipa",
+   "refs": 1,
+   "e.g.": [
+    "lin:raghavendra-matha"
+   ]
+  },
+  {
+   "id": "src:tantradipika",
+   "refs": 1,
+   "e.g.": [
+    "lin:raghavendra-matha"
+   ]
+  },
+  {
+   "id": "ult:raghavendra-matha",
+   "refs": 1,
+   "e.g.": [
+    "lin:raghavendra-matha"
+   ]
+  },
+  {
+   "id": "tch:brahmanya-tirtha",
+   "refs": 1,
+   "e.g.": [
+    "lin:vyasaraja-matha"
+   ]
+  },
+  {
+   "id": "ult:vyasaraja-matha",
+   "refs": 1,
+   "e.g.": [
+    "lin:vyasaraja-matha"
+   ]
+  },
+  {
+   "id": "tch:hrsikesa-tirtha",
+   "refs": 1,
+   "e.g.": [
+    "lin:udupi-asta-matha"
+   ]
+  },
+  {
+   "id": "tch:narasimha-tirtha-adamaru",
+   "refs": 1,
+   "e.g.": [
+    "lin:udupi-asta-matha"
+   ]
+  },
+  {
+   "id": "tch:janardana-tirtha",
+   "refs": 1,
+   "e.g.": [
+    "lin:udupi-asta-matha"
+   ]
+  },
+  {
+   "id": "tch:upendra-tirtha",
+   "refs": 1,
+   "e.g.": [
+    "lin:udupi-asta-matha"
+   ]
+  },
+  {
+   "id": "tch:vamana-tirtha",
+   "refs": 1,
+   "e.g.": [
+    "lin:udupi-asta-matha"
+   ]
+  },
+  {
+   "id": "tch:visnu-tirtha",
+   "refs": 1,
+   "e.g.": [
+    "lin:udupi-asta-matha"
+   ]
+  },
+  {
+   "id": "tch:rama-tirtha-kaniyur",
+   "refs": 1,
+   "e.g.": [
+    "lin:udupi-asta-matha"
+   ]
+  },
+  {
+   "id": "tch:adhoksaja-tirtha",
+   "refs": 1,
+   "e.g.": [
+    "lin:udupi-asta-matha"
+   ]
+  },
+  {
+   "id": "tch:visvesa-tirtha",
+   "refs": 1,
+   "e.g.": [
+    "lin:udupi-asta-matha"
+   ]
+  },
+  {
+   "id": "src:tirthaprabandha",
+   "refs": 1,
+   "e.g.": [
+    "lin:udupi-asta-matha"
+   ]
+  },
+  {
+   "id": "src:padaratnavali",
+   "refs": 1,
+   "e.g.": [
+    "lin:udupi-asta-matha"
+   ]
+  },
+  {
+   "id": "ult:udupi-asta-matha",
+   "refs": 1,
+   "e.g.": [
+    "lin:udupi-asta-matha"
+   ]
+  },
+  {
+   "id": "tch:lal-ded",
+   "refs": 1,
+   "e.g.": [
+    "lin:kashmir-saivism"
+   ]
+  },
+  {
+   "id": "tch:rupa-bhavani",
+   "refs": 1,
+   "e.g.": [
+    "lin:kashmir-saivism"
+   ]
+  },
+  {
+   "id": "tch:lakshmanjoo",
+   "refs": 1,
+   "e.g.": [
+    "lin:kashmir-saivism"
+   ]
+  },
+  {
+   "id": "src:svacchanda-tantra",
+   "refs": 1,
+   "e.g.": [
+    "lin:kashmir-saivism"
+   ]
+  },
+  {
+   "id": "src:netra-tantra",
+   "refs": 1,
+   "e.g.": [
+    "lin:kashmir-saivism"
+   ]
+  },
+  {
+   "id": "src:lalla-vakyani",
+   "refs": 1,
+   "e.g.": [
+    "lin:kashmir-saivism"
+   ]
+  },
+  {
+   "id": "lin:alankara",
+   "refs": 1,
+   "e.g.": [
+    "lin:kashmir-saivism"
+   ]
+  },
+  {
+   "id": "tch:varadaraja",
+   "refs": 1,
+   "e.g.": [
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "src:spanda-vrtti",
+   "refs": 1,
+   "e.g.": [
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "src:spanda-vivrti",
+   "refs": 1,
+   "e.g.": [
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "src:spanda-pradipika",
+   "refs": 1,
+   "e.g.": [
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "src:spanda-nirnaya",
+   "refs": 1,
+   "e.g.": [
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "src:spanda-sandoha",
+   "refs": 1,
+   "e.g.": [
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "src:siva-sutra-vimarsini",
+   "refs": 1,
+   "e.g.": [
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "src:siva-sutra-varttika-bhaskara",
+   "refs": 1,
+   "e.g.": [
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "src:siva-sutra-varttika-varadaraja",
+   "refs": 1,
+   "e.g.": [
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "src:siva-sutra-vrtti",
+   "refs": 1,
+   "e.g.": [
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "src:siva-sutra-vrtti-sahib-kaul",
+   "refs": 1,
+   "e.g.": [
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "src:tattvarthacintamani",
+   "refs": 1,
+   "e.g.": [
+    "lin:spanda"
+   ]
+  },
+  {
+   "id": "src:sivadrsti-vrtti",
+   "refs": 1,
+   "e.g.": [
+    "lin:pratyabhijna"
+   ]
+  },
+  {
+   "id": "src:isvarapratyabhijna-vrtti",
+   "refs": 1,
+   "e.g.": [
+    "lin:pratyabhijna"
+   ]
+  },
+  {
+   "id": "src:isvarapratyabhijna-vivrti",
+   "refs": 1,
+   "e.g.": [
+    "lin:pratyabhijna"
+   ]
+  },
+  {
+   "id": "src:siddhitrayi",
+   "refs": 1,
+   "e.g.": [
+    "lin:pratyabhijna"
+   ]
+  },
+  {
+   "id": "src:ajadapramatrsiddhi",
+   "refs": 1,
+   "e.g.": [
+    "lin:pratyabhijna"
+   ]
+  },
+  {
+   "id": "src:isvarasiddhi",
+   "refs": 1,
+   "e.g.": [
+    "lin:pratyabhijna"
+   ]
+  },
+  {
+   "id": "src:sambandhasiddhi",
+   "refs": 1,
+   "e.g.": [
+    "lin:pratyabhijna"
+   ]
+  },
+  {
+   "id": "src:sivastotravali",
+   "refs": 1,
+   "e.g.": [
+    "lin:pratyabhijna"
+   ]
+  },
+  {
+   "id": "src:bhaskari",
+   "refs": 1,
+   "e.g.": [
+    "lin:pratyabhijna"
+   ]
+  },
+  {
+   "id": "tch:sambhunatha",
+   "refs": 1,
+   "e.g.": [
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "tch:anandabhatta",
+   "refs": 1,
+   "e.g.": [
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "tch:rajanaka-laksmirama",
+   "refs": 1,
+   "e.g.": [
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "src:siddhayogesvarimata",
+   "refs": 1,
+   "e.g.": [
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "src:tantrasadbhava",
+   "refs": 1,
+   "e.g.": [
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "src:trisirobhairava",
+   "refs": 1,
+   "e.g.": [
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "src:devyayamala",
+   "refs": 1,
+   "e.g.": [
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "src:paratrisika",
+   "refs": 1,
+   "e.g.": [
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "src:tantravatadhanika",
+   "refs": 1,
+   "e.g.": [
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "src:paratrisika-laghuvrtti",
+   "refs": 1,
+   "e.g.": [
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "src:malinislokavarttika",
+   "refs": 1,
+   "e.g.": [
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "src:tantraloka-viveka",
+   "refs": 1,
+   "e.g.": [
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "src:vijnana-bhairava-vivrti-sivopadhyaya",
+   "refs": 1,
+   "e.g.": [
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "src:vijnana-kaumudi",
+   "refs": 1,
+   "e.g.": [
+    "lin:trika"
+   ]
+  },
+  {
+   "id": "tch:mahesvarananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:krama"
+   ]
+  },
+  {
+   "id": "tch:sitikantha",
+   "refs": 1,
+   "e.g.": [
+    "lin:krama"
+   ]
+  },
+  {
+   "id": "tch:anantasaktipada",
+   "refs": 1,
+   "e.g.": [
+    "lin:krama"
+   ]
+  },
+  {
+   "id": "src:jayadrathayamala",
+   "refs": 1,
+   "e.g.": [
+    "lin:krama"
+   ]
+  },
+  {
+   "id": "src:kalikulapancasataka",
+   "refs": 1,
+   "e.g.": [
+    "lin:krama"
+   ]
+  },
+  {
+   "id": "src:kramasadbhava",
+   "refs": 1,
+   "e.g.": [
+    "lin:krama"
+   ]
+  },
+  {
+   "id": "src:maharthamanjari",
+   "refs": 1,
+   "e.g.": [
+    "lin:krama"
+   ]
+  },
+  {
+   "id": "src:maharthamanjari-parimala",
+   "refs": 1,
+   "e.g.": [
+    "lin:krama"
+   ]
+  },
+  {
+   "id": "src:mahanayaprakasa-sitikantha",
+   "refs": 1,
+   "e.g.": [
+    "lin:krama"
+   ]
+  },
+  {
+   "id": "src:mahanayaprakasa",
+   "refs": 1,
+   "e.g.": [
+    "lin:krama"
+   ]
+  },
+  {
+   "id": "src:vatulanatha-sutra",
+   "refs": 1,
+   "e.g.": [
+    "lin:krama"
+   ]
+  },
+  {
+   "id": "src:kramastotra-abhinavagupta",
+   "refs": 1,
+   "e.g.": [
+    "lin:krama"
+   ]
+  },
+  {
+   "id": "src:cidgaganacandrika",
+   "refs": 1,
+   "e.g.": [
+    "lin:krama"
+   ]
+  },
+  {
+   "id": "src:chummasanketaprakasa",
+   "refs": 1,
+   "e.g.": [
+    "lin:krama"
+   ]
+  },
+  {
+   "id": "lin:kalikula",
+   "refs": 1,
+   "e.g.": [
+    "lin:krama"
+   ]
+  },
+  {
+   "id": "trm:paramasiva",
+   "refs": 1,
+   "e.g.": [
+    "ult:kashmir-saivism"
+   ]
+  },
+  {
+   "id": "tea:siva-sutra:1.1",
+   "refs": 1,
+   "e.g.": [
+    "ult:kashmir-saivism"
+   ]
+  },
+  {
+   "id": "tea:pratyabhijnahrdayam:1",
+   "refs": 1,
+   "e.g.": [
+    "ult:kashmir-saivism"
+   ]
+  },
+  {
+   "id": "tea:pratyabhijnahrdayam:2",
+   "refs": 1,
+   "e.g.": [
+    "ult:kashmir-saivism"
+   ]
+  },
+  {
+   "id": "tea:isvarapratyabhijna-karika:1.5.11",
+   "refs": 1,
+   "e.g.": [
+    "ult:kashmir-saivism"
+   ]
+  },
+  {
+   "id": "trm:sankara-deity",
+   "refs": 1,
+   "e.g.": [
+    "ult:spanda"
+   ]
+  },
+  {
+   "id": "trm:svabhava",
+   "refs": 1,
+   "e.g.": [
+    "ult:spanda"
+   ]
+  },
+  {
+   "id": "trm:samanya-spanda",
+   "refs": 1,
+   "e.g.": [
+    "ult:spanda"
+   ]
+  },
+  {
+   "id": "tea:spanda-karika:1.1",
+   "refs": 1,
+   "e.g.": [
+    "ult:spanda"
+   ]
+  },
+  {
+   "id": "tea:spanda-karika:1.2",
+   "refs": 1,
+   "e.g.": [
+    "ult:spanda"
+   ]
+  },
+  {
+   "id": "tea:spanda-karika:1.5",
+   "refs": 1,
+   "e.g.": [
+    "ult:spanda"
+   ]
+  },
+  {
+   "id": "tea:spanda-karika:1.14-16",
+   "refs": 1,
+   "e.g.": [
+    "ult:spanda"
+   ]
+  },
+  {
+   "id": "trm:paramatman",
+   "refs": 1,
+   "e.g.": [
+    "ult:pratyabhijna"
+   ]
+  },
+  {
+   "id": "trm:para-vak",
+   "refs": 1,
+   "e.g.": [
+    "ult:pratyabhijna"
+   ]
+  },
+  {
+   "id": "tea:isvarapratyabhijna-karika:1.1.2",
+   "refs": 1,
+   "e.g.": [
+    "ult:pratyabhijna"
+   ]
+  },
+  {
+   "id": "tea:isvarapratyabhijna-karika:1.5.13",
+   "refs": 1,
+   "e.g.": [
+    "ult:pratyabhijna"
+   ]
+  },
+  {
+   "id": "tea:isvarapratyabhijna-karika:1.5.14",
+   "refs": 1,
+   "e.g.": [
+    "ult:pratyabhijna"
+   ]
+  },
+  {
+   "id": "tea:isvarapratyabhijna-karika:4.17",
+   "refs": 1,
+   "e.g.": [
+    "ult:pratyabhijna"
+   ]
+  },
+  {
+   "id": "trm:para-devi",
+   "refs": 1,
+   "e.g.": [
+    "ult:trika"
+   ]
+  },
+  {
+   "id": "tea:paratrisika:24",
+   "refs": 1,
+   "e.g.": [
+    "ult:trika"
+   ]
+  },
+  {
+   "id": "tea:vijnana-bhairava-tantra:17-19",
+   "refs": 1,
+   "e.g.": [
+    "ult:trika"
+   ]
+  },
+  {
+   "id": "tea:tantraloka:1.18",
+   "refs": 1,
+   "e.g.": [
+    "ult:trika"
+   ]
+  },
+  {
+   "id": "trm:kali-krama",
+   "refs": 1,
+   "e.g.": [
+    "ult:krama"
+   ]
+  },
+  {
+   "id": "trm:anakhya",
+   "refs": 1,
+   "e.g.": [
+    "ult:krama"
+   ]
+  },
+  {
+   "id": "trm:samvit",
+   "refs": 1,
+   "e.g.": [
+    "ult:krama"
+   ]
+  },
+  {
+   "id": "tea:tantraloka:4.148-172",
+   "refs": 1,
+   "e.g.": [
+    "ult:krama"
+   ]
+  },
+  {
+   "id": "tea:tantraloka:4.173",
+   "refs": 1,
+   "e.g.": [
+    "ult:krama"
+   ]
+  },
+  {
+   "id": "tea:kramastotra-abhinavagupta:15-27",
+   "refs": 1,
+   "e.g.": [
+    "ult:krama"
+   ]
+  },
+  {
+   "id": "trm:svasambodha",
+   "refs": 1,
+   "e.g.": [
+    "ult:mata"
+   ]
+  },
+  {
+   "id": "tea:tantraloka:4.262-263",
+   "refs": 1,
+   "e.g.": [
+    "ult:mata"
+   ]
+  },
+  {
+   "id": "tea:tantraloka:4.268-270",
+   "refs": 1,
+   "e.g.": [
+    "ult:mata"
+   ]
+  }
+ ]
+}

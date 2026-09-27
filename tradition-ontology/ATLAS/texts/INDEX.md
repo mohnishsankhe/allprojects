@@ -1,0 +1,44 @@
+# Texts (40)
+
+skeleton: 40
+
+- [Aitareyopaniṣad-bhāṣya (Madhva)](aitareya-upanisad-bhasya-madhva.md) — `skeleton`
+- [Anuvyākhyāna](anuvyakhyana.md) — `skeleton`
+- [Aṇubhāṣya (Madhva)](anubhasya-madhva.md) — `skeleton`
+- [Bhāgavata-tātparya-nirṇaya](bhagavata-tatparya-nirnaya.md) — `skeleton`
+- [Brahmasūtrabhāṣya (Madhva)](brahma-sutra-bhasya-madhva.md) — `skeleton`
+- [Bṛhadāraṇyakopaniṣad-bhāṣya (Madhva)](brhadaranyaka-upanisad-bhasya-madhva.md) — `skeleton`
+- [Chāndogyopaniṣad-bhāṣya (Madhva)](chandogya-upanisad-bhasya-madhva.md) — `skeleton`
+- [Dvādaśastotra](dvadasastotra.md) — `skeleton`
+- [Gītābhāṣya (Madhva)](gita-bhasya-madhva.md) — `skeleton`
+- [Gītātātparyanirṇaya](gita-tatparya-nirnaya.md) — `skeleton`
+- [Jayantīnirṇaya](jayantinirnaya.md) — `skeleton`
+- [Kandukastuti](kandukastuti.md) — `skeleton`
+- [Karmanirṇaya](karmanirnaya.md) — `skeleton`
+- [Kathālakṣaṇa](kathalaksana.md) — `skeleton`
+- [Kāṭhakopaniṣad-bhāṣya (Madhva)](katha-upanisad-bhasya-madhva.md) — `skeleton`
+- [Kṛṣṇāmṛtamahārṇava](krsnamrtamaharnava.md) — `skeleton`
+- [Mahābhārata-tātparya-nirṇaya](mahabharata-tatparya-nirnaya.md) — `skeleton`
+- [Māyāvādakhaṇḍana](mayavadakhandana.md) — `skeleton`
+- [Māṇḍūkyopaniṣad-bhāṣya (Madhva)](mandukya-upanisad-bhasya-madhva.md) — `skeleton`
+- [Narasiṃhanakhastuti](narasimhanakhastuti.md) — `skeleton`
+- [Nyāyavivaraṇa](nyayavivarana.md) — `skeleton`
+- [Pramāṇalakṣaṇa](pramanalaksana-madhva.md) — `skeleton`
+- [Prapañcamithyātvānumānakhaṇḍana](prapancamithyatvanumanakhandana.md) — `skeleton`
+- [Sadācārasmṛti (Madhva)](sadacarasmrti-madhva.md) — `skeleton`
+- [Sannyāsapaddhati (attributed to Madhva)](sannyasapaddhati-madhva.md) — `skeleton`
+- [Taittirīyopaniṣad-bhāṣya (Madhva)](taittiriya-upanisad-bhasya-madhva.md) — `skeleton`
+- [Talavakāropaniṣad-bhāṣya (Madhva)](kena-upanisad-bhasya-madhva.md) — `skeleton`
+- [Tantrasārasaṅgraha (Madhva)](tantrasarasangraha-madhva.md) — `skeleton`
+- [Tattvasaṅkhyāna](tattvasankhyana.md) — `skeleton`
+- [Tattvaviveka](tattvaviveka.md) — `skeleton`
+- [Tattvoddyota](tattvoddyota.md) — `skeleton`
+- [Tithinirṇaya (attributed to Madhva)](tithinirnaya-madhva.md) — `skeleton`
+- [Upādhikhaṇḍana](upadhikhandana.md) — `skeleton`
+- [Viṣṇutattvavinirṇaya](visnutattvavinirnaya.md) — `skeleton`
+- [Yamakabhārata](yamakabharata.md) — `skeleton`
+- [Yatipraṇavakalpa](yatipranavakalpa.md) — `skeleton`
+- [Ātharvaṇopaniṣad-bhāṣya (Madhva)](mundaka-upanisad-bhasya-madhva.md) — `skeleton`
+- [Īśāvāsyopaniṣad-bhāṣya (Madhva)](isa-upanisad-bhasya-madhva.md) — `skeleton`
+- [Ṛgbhāṣya (Madhva)](rgbhasya-madhva.md) — `skeleton`
+- [Ṣaṭpraśnopaniṣad-bhāṣya (Madhva)](prasna-upanisad-bhasya-madhva.md) — `skeleton`

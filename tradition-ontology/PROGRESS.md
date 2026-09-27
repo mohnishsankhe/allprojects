@@ -81,7 +81,7 @@ Prepared verse-level segments (sources_raw/prepared/, git-ignored) as of 2026-09
 - [x] yoga-sutra (195 sūtras + Vyāsa bhāṣya; GRETIL, Āgāśe ed.) — 4 chunks (pādas)
 - [x] principal Upaniṣads (Advaita Śāradā mūla, traditional numbering): īśa 18, kena 35, kaṭha 120, praśna 67, muṇḍaka 65, taittirīya 48 units, aitareya 33, chāndogya 629, bṛhadāraṇyaka 441, śvetāśvatara 113, kauṣītaki 51; māṇḍūkya 12 (GRETIL) — maitrī pending (eBhāratī)
 - [x] Pali (bilara-data, CC0 with Sujato): DN 22 (22 sections), MN 10 (41), MN 118 (43), SN 56.11 (14), Dhammapada (423 verses)
-- [x] sāṃkhya-kārikā (72; GRETIL/Jayamaṅgalā ed.), māṇḍūkya-kārikā (214; GRETIL), vijñāna-bhairava (162), śiva-sūtra (75 of 77 — 2 markers missing), spanda-kārikā (53)
+- [x] sāṃkhya-kārikā (72; GRETIL/Jayamaṅgalā ed.), māṇḍūkya-kārikā (214; GRETIL), vijñāna-bhairava (162), śiva-sūtra (75 in Bhāskara's recension = 77 in Kṣemarāja's; refs to be given in Kṣemarāja's numbering), spanda-kārikā (53)
 - [ ] pratyabhijñāhṛdayam, haṭha-yoga-pradīpikā, heart & diamond (Sanskrit), mūlamadhyamakakārikā, aṣṭāvakra, avadhūta, platform sūtra (CBETA T2008), tattvārtha-sūtra (not in local corpora), Saraha/Tilopa/lojong (Tibetan — not in local corpora)
 
 ## Morning report (07:00 IST)

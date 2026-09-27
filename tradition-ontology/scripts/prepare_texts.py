@@ -424,7 +424,54 @@ def buddhist_and_advaita_gitas():
     dcs_chapters("Aṣṭāvakragīta", "astavakra-gita", "src:astavakra-gita", [["1-10"], ["11-20"]], "")
 
 
-HANDLERS = {"bhagavad-gita": bhagavad_gita, "yoga-sutra": yoga_sutra, "pali": pali_suttas, "upanisads": upanisads, "mandukya": mandukya, "kashmir_samkhya": kashmir_and_samkhya, "hatha_gitas": hatha_and_gitas, "mmk_astavakra": buddhist_and_advaita_gitas}
+def cbeta_text(tno, slug, source_id, edition_note):
+    """CBETA TEI P5: segment by paragraph (<p>/<lg>) within <cb:mulu> sections; keep Taishō line refs (lb n)."""
+    import xml.etree.ElementTree as ET
+    f = os.path.join(RAW, "cbeta", "T", tno[:3], f"{tno}.xml")
+    raw = open(f, encoding="utf-8").read()
+    body = raw.split("<body>", 1)[1].split("</body>", 1)[0]
+    body = re.sub(r"<note[^>]*>.*?</note>", "", body, flags=re.S)
+    body = re.sub(r"<app>.*?<lem[^>]*>(.*?)</lem>.*?</app>", r"\1", body, flags=re.S)
+    segs, sec, secname, n = [], 0, "", 0
+    tokens = re.split(r"(<cb:mulu[^>]*>.*?</cb:mulu>|<p[ >].*?</p>|<lg[ >].*?</lg>)", body, flags=re.S)
+    for t in tokens:
+        if t.startswith("<cb:mulu"):
+            name = re.sub(r"<[^>]+>", "", t).strip()
+            if name:
+                sec += 1; n = 0; secname = name
+            continue
+        if t.startswith("<p") or t.startswith("<lg"):
+            lbs = re.findall(r'<lb[^>]*n="([^"]+)"', t)
+            txt = re.sub(r"<[^>]+>", "", t)
+            txt = re.sub(r"\s+", "", txt)
+            if not txt:
+                continue
+            n += 1
+            segs.append({"ref": f"{max(sec,1)}.{n}", "chapter": str(max(sec, 1)), "chapter_title": secname, "verse": str(n),
+                         "zh": txt, "taisho_lines": [lbs[0], lbs[-1]] if lbs else []})
+    write(slug, segs, {"source": source_id, "edition": f"CBETA XML P5, Taishō {tno}. {edition_note}", "licence": "CBETA (CC BY-NC-SA) — quotations with attribution",
+                       "unit": "one segment per paragraph/verse group within each section (cb:mulu); taisho_lines give the Taishō page-register-line citations",
+                       "chunks": [["all"]]})
+
+
+def platform_sutra():
+    cbeta_text("T48n2008", "platform-sutra", "src:platform-sutra", "六祖大師法寶壇經, the Zongbao edition (1291) — the version transmitted in the living Chan/Zen traditions.")
+    cbeta_text("T48n2007", "platform-sutra-dunhuang", "src:platform-sutra-dunhuang", "南宗頓教最上大乘摩訶般若波羅蜜經六祖惠能大師於韶州大梵寺施法壇經, the Dunhuang version (the earliest extant).")
+
+
+def heart_diamond():
+    cbeta_text("T08n0235", "vajracchedika", "src:vajracchedika", "金剛般若波羅蜜經, Kumārajīva's Chinese translation (402) — the version transmitted in East Asia. The Sanskrit is not in the local corpora (see GAPS).")
+    cbeta_text("T08n0251", "prajnaparamita-hrdaya", "src:prajnaparamita-hrdaya", "般若波羅蜜多心經, Xuanzang's Chinese translation (649).")
+    f = os.path.join(RAW, "raw_etexts", "mixed", "gretil_devanAgarI", "1_sanskr", "4_rellit", "buddh", "prajnaparamitahrdayasutra_samksiptamatrka.md")
+    body = open(f, encoding="utf-8").read().split("## पाठः", 1)[1]
+    body = re.sub(r"\(वैद्य [^)]*\)", "", body)
+    sents = [x.strip() for x in re.split(r"॥", re.sub(r"\s+", " ", body)) if x.strip()]
+    segs = [{"ref": f"s{i}", "chapter": "1", "verse": str(i), "deva": t, "iast": iast(t)} for i, t in enumerate(sents, 1)]
+    write("prajnaparamita-hrdaya-sanskrit-short", segs, {"source": "src:prajnaparamita-hrdaya", "edition": "GRETIL e-text of the shorter Sanskrit recension (after Vaidya, Mahāyāna-sūtra-saṃgraha I, p. 97), Devanāgarī mirror",
+        "licence": "Root text public domain; GRETIL CC BY-NC-SA 4.0", "unit": "one segment per sentence (daṇḍa-delimited)", "chunks": [["all"]]})
+
+
+HANDLERS = {"bhagavad-gita": bhagavad_gita, "yoga-sutra": yoga_sutra, "pali": pali_suttas, "upanisads": upanisads, "mandukya": mandukya, "kashmir_samkhya": kashmir_and_samkhya, "hatha_gitas": hatha_and_gitas, "mmk_astavakra": buddhist_and_advaita_gitas, "platform": platform_sutra, "heart_diamond": heart_diamond}
 
 if __name__ == "__main__":
     if len(sys.argv) < 2 or sys.argv[1] == "list":

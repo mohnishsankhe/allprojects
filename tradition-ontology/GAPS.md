@@ -20,3 +20,9 @@ Updated as the run proceeds. Three kinds of gap: (1) never written down, (2) wri
 ## 3. Licence-restricted
 - 84000 translations (readable, but not openly licensed): references and our own paraphrase only.
 - Modern copyrighted translations (e.g. Jaideva Singh, Bhikkhu Bodhi, Garfield, Conze): references only.
+
+### Texts of the verified core not obtainable in this environment (as of 2026-09-28 05:00 IST)
+- **Tattvārtha Sūtra (Sanskrit)** — not in the downloaded corpora; the sites that host it (jainqq.org, wisdomlib, archive.org, nikkyjain.github.io) are blocked by the egress policy. Its teachings remain at skeleton/sourced level until a text is reachable.
+- **Vajracchedikā in Sanskrit** — not in the local GRETIL mirror; Kumārajīva's Chinese (CBETA T235) is used instead, and Kamalaśīla's Sanskrit ṭīkā (GRETIL) can supply the Sanskrit sūtra passages it quotes.
+- **Saraha's dohās (Apabhraṃśa), Tilopa's Gaṅgā Mahāmudrā, Chekawa's lojong root text (Tibetan)** — not in the local corpora (the Tibetan Tengyur repositories are cloneable from GitHub; Saraha's and Tilopa's works are in the Tengyur — to be fetched in Wave 1; Chekawa's root text is a Tibetan-authored work outside the Tengyur).
+- **Maitrī Upaniṣad** — only an OCR'd book (eBhāratī, Deccan College) is available locally; needs cleaning before extraction.

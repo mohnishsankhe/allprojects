@@ -1,0 +1,54 @@
+# Pratyabhijñā (the philosophy of recognition)
+
+`lin:pratyabhijna` · `skeleton` · confidence high
+
+**Family:** vedic
+**Alternate names:** Pratyabhijñāśāstra, Īśvarapratyabhijñā, Īśvarādvayavāda
+**Parent:** [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](kashmir-saivism.md)
+**Founders:** `tch:somananda`, `tch:utpaladeva`
+**Key teachers:** `tch:somananda`, `tch:utpaladeva`, `tch:laksmanagupta`, `tch:abhinavagupta`, `tch:ksemaraja`, `tch:bhaskarakantha`
+**Regions:** Kashmir
+**Dates:** Scholarly account: Somānanda c. 900-950; Utpaladeva c. 925-975; Abhinavagupta's Vimarśinī dated Laukika 90 (c. 1014/15 CE); Kṣemarāja c. 1000-1050.; (confidence moderate)
+**Status:** absorbed
+
+The philosophical school founded by Somānanda (Śivadṛṣṭi) and systematized by Utpaladeva (Īśvarapratyabhijñākārikā with his two commentaries), commented on by Abhinavagupta and summarized by Kṣemarāja (Pratyabhijñāhṛdaya). It argues, in dialogue with Buddhist logicians, grammarians, Naiyāyikas and Vedāntins, that the individual can recognize himself as Maheśvara, and that this recognition itself is liberation.
+
+## Distinctive positions
+- Liberation is the recognition that one's own self is the Lord (Īśvara), endowed with the powers of knowing and acting; the Lord cannot be proved or denied since he is the ever-established knower (ĪPK 1.1.2-3).
+- Consciousness is essentially reflexive awareness (pratyavamarśa), 'supreme speech arising of itself', and this is the Lord's freedom and sovereignty (ĪPK 1.5.13-14).
+- Memory, cognition and exclusion (jñāna, smṛti, apohana) are possible only if a single conscious subject contains the diverse within itself (ĪPK 1.3.7, 1.4.3) - against the Buddhist denial of an enduring self.
+- Objects are manifestations (ābhāsa) of consciousness shown as if external by the power of māyā.
+- The ultimate is not the grammarians' paśyantī (Śivadṛṣṭi 2.1ff.).
+- Devotion (bhakti) is the enjoyment of the identity with Śiva already recognized (Utpaladeva's Śivastotrāvalī).
+
+**Transmissions received:** 
+  - `lin:pramana-buddhist` — what: the logical-epistemological idiom of Dharmakīrti's school, answered polemically; evidence: ĪPK 1.2-1.7; 2.3
+  - `lin:vyakarana` — what: the idea that awareness is intrinsically verbal (vāc); critique of paśyantī as ultimate; evidence: Śivadṛṣṭi ch. 2; ĪPK 1.5.13
+
+## The ultimate in this lineage
+`skeleton` · confidence high
+
+**Names:** Maheśvara / Īśvara (the Lord), Paramātman, Citi, Parā vāk (supreme speech)
+**Descriptions:** consciousness whose essence is reflexive awareness, supreme speech arising of itself; this is the Lord's primary freedom and sovereignty (ĪPK 1.5.13); throbbing (sphurattā), the great being (mahāsattā), unconditioned by space and time, the Heart of the Supreme (ĪPK 1.5.14); the knower and doer, already established (ĪPK 1.1.2)
+**Negations:** cannot be established or denied by any means of knowledge, since it is the knower itself (ĪPK 1.1.2)
+**Relation to self:** The Lord is one's own self, present but unrecognized, as an unrecognized lover gives no delight (ĪPK 4.17); recognition (pratyabhijñā) reveals it.
+**Relation to world:** Objects are the Lord's manifestations, shown as if separate by his power of māyā while resting within him.
+**Caveat:** The Pratyabhijñā insists on an enduring conscious subject against the Buddhist denial of self, and on the reality of the Lord's powers of knowing and acting against Vedāntic and grammarian monisms.
+
+## Texts
+`src:ajadapramatrsiddhi`, `src:bhaskari`, `src:isvarapratyabhijna-karika`, `src:isvarapratyabhijna-vimarsini`, `src:isvarapratyabhijna-vivrti`, `src:isvarapratyabhijna-vivrti-vimarsini`, `src:isvarapratyabhijna-vrtti`, `src:isvarasiddhi`, `src:pratyabhijnahrdayam`, `src:sambandhasiddhi`, `src:siddhitrayi`, `src:sivadrsti`, `src:sivadrsti-vrtti`, `src:sivastotravali`
+
+## Teachers
+`tch:abhinavagupta`, `tch:bhaskarakantha`, `tch:ksemaraja`, `tch:laksmanagupta`, `tch:somananda`, `tch:utpaladeva`
+
+## Practices
+_none recorded_
+
+## Path maps
+`pth:kashmir-four-upayas`
+
+## Debates
+_none recorded_
+
+---
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 04:53 IST._

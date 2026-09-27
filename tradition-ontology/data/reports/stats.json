@@ -1,0 +1,52 @@
+{
+ "generated": "2026-09-28 04:53 IST",
+ "entities": {
+  "sources": {
+   "skeleton": 40,
+   "total": 40
+  },
+  "lineages": {
+   "skeleton": 11,
+   "total": 11
+  },
+  "teachers": {
+   "total": 0
+  },
+  "teachings": {
+   "total": 0
+  },
+  "terms": {
+   "total": 0
+  },
+  "concepts": {
+   "total": 0
+  },
+  "ultimate": {
+   "skeleton": 6,
+   "total": 6
+  },
+  "obstacles": {
+   "total": 0
+  },
+  "practices": {
+   "total": 0
+  },
+  "paths": {
+   "total": 0
+  },
+  "phenomenology": {
+   "total": 0
+  },
+  "disputes": {
+   "total": 0
+  },
+  "borrowings": {
+   "total": 0
+  }
+ },
+ "sourcing_checks": {},
+ "queue": 0,
+ "interpretation_log": 0,
+ "conflicts": 0,
+ "dangling_refs": 259
+}

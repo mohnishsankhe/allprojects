@@ -1,0 +1,842 @@
+[
+ {
+  "entity": "lin:kashmir-saivism",
+  "label": "Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)",
+  "account": "scholarly",
+  "from": 850,
+  "to": null,
+  "text": "c. 850 CE (Vasugupta, Kallaṭa) - 11th c. classical period (Utpaladeva, Abhinavagupta, Kṣemarāja); commentarial and devotional continuation to the 18th-19th c.; revived in the 20th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:spanda",
+  "label": "Spanda (the doctrine of vibration)",
+  "account": "scholarly",
+  "from": 850,
+  "to": 1050,
+  "text": "c. 850-900 CE (Vasugupta and Kallaṭa; Kallaṭa is placed under King Avantivarman, 855-883, by the Rājataraṅgiṇī); commentaries to Kṣemarāja (c. 1000-1050) and later.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:pratyabhijna",
+  "label": "Pratyabhijñā (the philosophy of recognition)",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1050,
+  "text": "Somānanda c. 900-950; Utpaladeva c. 925-975; Abhinavagupta's Vimarśinī dated Laukika 90 (c. 1014/15 CE); Kṣemarāja c. 1000-1050.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:brahma-sutra-bhasya-madhva",
+  "label": "Brahmasūtrabhāṣya (Madhva)",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:anuvyakhyana",
+  "label": "Anuvyākhyāna",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nyayavivarana",
+  "label": "Nyāyavivaraṇa",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:anubhasya-madhva",
+  "label": "Aṇubhāṣya (Madhva)",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:gita-bhasya-madhva",
+  "label": "Gītābhāṣya (Madhva)",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:gita-tatparya-nirnaya",
+  "label": "Gītātātparyanirṇaya",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:isa-upanisad-bhasya-madhva",
+  "label": "Īśāvāsyopaniṣad-bhāṣya (Madhva)",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kena-upanisad-bhasya-madhva",
+  "label": "Talavakāropaniṣad-bhāṣya (Madhva)",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:katha-upanisad-bhasya-madhva",
+  "label": "Kāṭhakopaniṣad-bhāṣya (Madhva)",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mundaka-upanisad-bhasya-madhva",
+  "label": "Ātharvaṇopaniṣad-bhāṣya (Madhva)",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:prasna-upanisad-bhasya-madhva",
+  "label": "Ṣaṭpraśnopaniṣad-bhāṣya (Madhva)",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mandukya-upanisad-bhasya-madhva",
+  "label": "Māṇḍūkyopaniṣad-bhāṣya (Madhva)",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:taittiriya-upanisad-bhasya-madhva",
+  "label": "Taittirīyopaniṣad-bhāṣya (Madhva)",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:aitareya-upanisad-bhasya-madhva",
+  "label": "Aitareyopaniṣad-bhāṣya (Madhva)",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:chandogya-upanisad-bhasya-madhva",
+  "label": "Chāndogyopaniṣad-bhāṣya (Madhva)",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:brhadaranyaka-upanisad-bhasya-madhva",
+  "label": "Bṛhadāraṇyakopaniṣad-bhāṣya (Madhva)",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:rgbhasya-madhva",
+  "label": "Ṛgbhāṣya (Madhva)",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:pramanalaksana-madhva",
+  "label": "Pramāṇalakṣaṇa",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kathalaksana",
+  "label": "Kathālakṣaṇa",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:upadhikhandana",
+  "label": "Upādhikhaṇḍana",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mayavadakhandana",
+  "label": "Māyāvādakhaṇḍana",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:prapancamithyatvanumanakhandana",
+  "label": "Prapañcamithyātvānumānakhaṇḍana",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tattvasankhyana",
+  "label": "Tattvasaṅkhyāna",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tattvaviveka",
+  "label": "Tattvaviveka",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tattvoddyota",
+  "label": "Tattvoddyota",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:karmanirnaya",
+  "label": "Karmanirṇaya",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:visnutattvavinirnaya",
+  "label": "Viṣṇutattvavinirṇaya",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mahabharata-tatparya-nirnaya",
+  "label": "Mahābhārata-tātparya-nirṇaya",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:bhagavata-tatparya-nirnaya",
+  "label": "Bhāgavata-tātparya-nirṇaya",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:yamakabharata",
+  "label": "Yamakabhārata",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:dvadasastotra",
+  "label": "Dvādaśastotra",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:narasimhanakhastuti",
+  "label": "Narasiṃhanakhastuti",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:krsnamrtamaharnava",
+  "label": "Kṛṣṇāmṛtamahārṇava",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tantrasarasangraha-madhva",
+  "label": "Tantrasārasaṅgraha (Madhva)",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sadacarasmrti-madhva",
+  "label": "Sadācārasmṛti (Madhva)",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:yatipranavakalpa",
+  "label": "Yatipraṇavakalpa",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:jayantinirnaya",
+  "label": "Jayantīnirṇaya",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kandukastuti",
+  "label": "Kandukastuti",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tithinirnaya-madhva",
+  "label": "Tithinirṇaya (attributed to Madhva)",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sannyasapaddhati-madhva",
+  "label": "Sannyāsapaddhati (attributed to Madhva)",
+  "account": "tradition",
+  "from": 1199,
+  "to": 1317,
+  "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:brahma-sutra-bhasya-madhva",
+  "label": "Brahmasūtrabhāṣya (Madhva)",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:anuvyakhyana",
+  "label": "Anuvyākhyāna",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nyayavivarana",
+  "label": "Nyāyavivaraṇa",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:anubhasya-madhva",
+  "label": "Aṇubhāṣya (Madhva)",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:gita-bhasya-madhva",
+  "label": "Gītābhāṣya (Madhva)",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:gita-tatparya-nirnaya",
+  "label": "Gītātātparyanirṇaya",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:isa-upanisad-bhasya-madhva",
+  "label": "Īśāvāsyopaniṣad-bhāṣya (Madhva)",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kena-upanisad-bhasya-madhva",
+  "label": "Talavakāropaniṣad-bhāṣya (Madhva)",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:katha-upanisad-bhasya-madhva",
+  "label": "Kāṭhakopaniṣad-bhāṣya (Madhva)",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mundaka-upanisad-bhasya-madhva",
+  "label": "Ātharvaṇopaniṣad-bhāṣya (Madhva)",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:prasna-upanisad-bhasya-madhva",
+  "label": "Ṣaṭpraśnopaniṣad-bhāṣya (Madhva)",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mandukya-upanisad-bhasya-madhva",
+  "label": "Māṇḍūkyopaniṣad-bhāṣya (Madhva)",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:taittiriya-upanisad-bhasya-madhva",
+  "label": "Taittirīyopaniṣad-bhāṣya (Madhva)",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:aitareya-upanisad-bhasya-madhva",
+  "label": "Aitareyopaniṣad-bhāṣya (Madhva)",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:chandogya-upanisad-bhasya-madhva",
+  "label": "Chāndogyopaniṣad-bhāṣya (Madhva)",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:brhadaranyaka-upanisad-bhasya-madhva",
+  "label": "Bṛhadāraṇyakopaniṣad-bhāṣya (Madhva)",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:rgbhasya-madhva",
+  "label": "Ṛgbhāṣya (Madhva)",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:pramanalaksana-madhva",
+  "label": "Pramāṇalakṣaṇa",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kathalaksana",
+  "label": "Kathālakṣaṇa",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:upadhikhandana",
+  "label": "Upādhikhaṇḍana",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mayavadakhandana",
+  "label": "Māyāvādakhaṇḍana",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:prapancamithyatvanumanakhandana",
+  "label": "Prapañcamithyātvānumānakhaṇḍana",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tattvasankhyana",
+  "label": "Tattvasaṅkhyāna",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tattvaviveka",
+  "label": "Tattvaviveka",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tattvoddyota",
+  "label": "Tattvoddyota",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:karmanirnaya",
+  "label": "Karmanirṇaya",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:visnutattvavinirnaya",
+  "label": "Viṣṇutattvavinirṇaya",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mahabharata-tatparya-nirnaya",
+  "label": "Mahābhārata-tātparya-nirṇaya",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:bhagavata-tatparya-nirnaya",
+  "label": "Bhāgavata-tātparya-nirṇaya",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:yamakabharata",
+  "label": "Yamakabhārata",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:dvadasastotra",
+  "label": "Dvādaśastotra",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:narasimhanakhastuti",
+  "label": "Narasiṃhanakhastuti",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:krsnamrtamaharnava",
+  "label": "Kṛṣṇāmṛtamahārṇava",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tantrasarasangraha-madhva",
+  "label": "Tantrasārasaṅgraha (Madhva)",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sadacarasmrti-madhva",
+  "label": "Sadācārasmṛti (Madhva)",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:yatipranavakalpa",
+  "label": "Yatipraṇavakalpa",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:jayantinirnaya",
+  "label": "Jayantīnirṇaya",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kandukastuti",
+  "label": "Kandukastuti",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tithinirnaya-madhva",
+  "label": "Tithinirṇaya (attributed to Madhva)",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sannyasapaddhati-madhva",
+  "label": "Sannyāsapaddhati (attributed to Madhva)",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1317,
+  "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:dvaita",
+  "label": "Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)",
+  "account": "scholarly",
+  "from": 1238,
+  "to": null,
+  "text": "founded by Madhva in the 13th c. CE; living",
+  "confidence": "moderate",
+  "level": "skeleton"
+ }
+]

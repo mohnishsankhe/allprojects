@@ -1,0 +1,2764 @@
+[
+ {
+  "id": "src:aitareya-upanisad-bhasya-madhva",
+  "title": "Aitareyopaniṣad-bhāṣya (Madhva)",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "bhāṣya",
+  "commentary_on": "src:aitareya-upanisad",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); Madhva's commentary on the Aitareya Upaniṣad, reading it as teaching Viṣṇu's supremacy and his difference from souls and matter, often by etymological explanation of names and by quotations from other scriptures. The tradition remembers the Aitareya as the text Madhva was expounding when he passed from view at Uḍupi.",
+  "key_teachings": [],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:anubhasya-madhva",
+  "title": "Aṇubhāṣya (Madhva)",
+  "title_original": "अणुभाष्यम्",
+  "alt_titles": [
+   "Aṇubhāṣya",
+   "Aṇuvyākhyāna (sometimes)"
+  ],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "summary in verse",
+  "commentary_on": "src:brahma-sutra",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "structure": {
+   "description": "verse; 4 adhyāyas (30 numbered verses in the local copy: 7+7+7+9)",
+   "chapters": 4
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); a very short verse summary of the whole Brahmasūtras in Madhva's reading, traditionally recited daily.",
+  "key_teachings": [
+   "tea:anubhasya-madhva:1.1"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "Disambiguated from src:anubhasya (Vallabha's Aṇubhāṣya, owned by U16). Often described as 32 verses; the local copy numbers 30 — checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:anuvyakhyana",
+  "title": "Anuvyākhyāna",
+  "title_original": "अनुव्याख्यानम्",
+  "alt_titles": [
+   "Anuvyākhyānam",
+   "Brahmasūtrānuvyākhyāna"
+  ],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "vyākhyāna (verse)",
+  "commentary_on": "src:brahma-sutra",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "structure": {
+   "description": "verse; 4 adhyāyas × 4 pādas",
+   "chapters": 4
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); a long verse work that re-expounds the Brahmasūtras adhikaraṇa by adhikaraṇa, supplementing the Brahmasūtrabhāṣya with extended argument against Advaita, Buddhist, Jain, Nyāya-Vaiśeṣika, Sāṃkhya and other positions; it defends the reality of the world through the witness (sākṣin) and ends with Madhva's verse naming himself Vāyu's third form. Jayatīrtha's Nyāyasudhā is its great commentary.",
+  "key_teachings": [
+   "tea:anuvyakhyana:1.4.95-98",
+   "tea:anuvyakhyana:1.4.99-103",
+   "tea:anuvyakhyana:2.2.241",
+   "tea:anuvyakhyana:4.4.15"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "Verses cited here checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions; the raw_etexts copy is incomplete in 2.4 and 3.1.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:bhagavata-tatparya-nirnaya",
+  "title": "Bhāgavata-tātparya-nirṇaya",
+  "title_original": "भागवततात्पर्यनिर्णयः",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "tātparya-nirṇaya",
+  "commentary_on": "src:bhagavata-purana",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "structure": {
+   "description": "selected verses of the 12 skandhas"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); a commentary on selected verses of the Bhāgavata Purāṇa across its twelve books, determining their purport in line with Dvaita doctrine and supporting it with quotations.",
+  "key_teachings": [],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:brahma-sutra-bhasya-madhva",
+  "title": "Brahmasūtrabhāṣya (Madhva)",
+  "title_original": "ब्रह्मसूत्रभाष्यम्",
+  "alt_titles": [
+   "Sūtrabhāṣya",
+   "Madhvabhāṣya"
+  ],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "bhāṣya",
+  "commentary_on": "src:brahma-sutra",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "structure": {
+   "description": "4 adhyāyas × 4 pādas, following Madhva's reading of the sūtras",
+   "chapters": 4
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); Madhva's concise commentary on Bādarāyaṇa's Brahmasūtras, reading them as establishing Viṣṇu, full of qualities and free of defects, as the Brahman they inquire into, and as teaching difference, gradation of souls and liberation by grace won through knowledge. It supports its readings with many quotations from Vedic, Pañcarātra and Purāṇic sources.",
+  "key_teachings": [
+   "tea:brahma-sutra-bhasya-madhva:1.1.1",
+   "tea:brahma-sutra-bhasya-madhva:1.1.1/5",
+   "tea:brahma-sutra-bhasya-madhva:1.1.2",
+   "tea:brahma-sutra-bhasya-madhva:4.4.19"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "Opening verse and 1.1.1–1.1.2, 3.1.8, 4.2.16–17, 4.3.10–15, 4.4.19 checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:brhadaranyaka-upanisad-bhasya-madhva",
+  "title": "Bṛhadāraṇyakopaniṣad-bhāṣya (Madhva)",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "bhāṣya",
+  "commentary_on": "src:brhadaranyaka-upanisad",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); Madhva's commentary on the Bṛhadāraṇyaka Upaniṣad, reading it as teaching Viṣṇu's supremacy and his difference from souls and matter, often by etymological explanation of names and by quotations from other scriptures.",
+  "key_teachings": [],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:chandogya-upanisad-bhasya-madhva",
+  "title": "Chāndogyopaniṣad-bhāṣya (Madhva)",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "bhāṣya",
+  "commentary_on": "src:chandogya-upanisad",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); Madhva's commentary on the Chāndogya Upaniṣad, reading it as teaching Viṣṇu's supremacy and his difference from souls and matter, often by etymological explanation of names and by quotations from other scriptures. On 6.8.7 it glosses 'aitadātmya' as being under the Lord's control and warns against the conceit of identity with Viṣṇu.",
+  "key_teachings": [
+   "tea:chandogya-upanisad-bhasya-madhva:6.8.7"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:dvadasastotra",
+  "title": "Dvādaśastotra",
+  "title_original": "द्वादशस्तोत्रम्",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "stotra",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "structure": {
+   "description": "12 stotras",
+   "chapters": 12
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); twelve hymns (adhyāyas) to Viṣṇu and Lakṣmī, sung in the daily worship of the Mādhva maṭhas, beginning 'vande vandyaṃ sadānandaṃ vāsudevaṃ nirañjanam'.",
+  "key_teachings": [
+   "tea:dvadasastotra:1.1"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "Twelve colophons and first verse checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:gita-bhasya-madhva",
+  "title": "Gītābhāṣya (Madhva)",
+  "title_original": "गीताभाष्यम्",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "bhāṣya",
+  "commentary_on": "src:bhagavad-gita",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); a commentary on selected verses of the Bhagavad Gītā. Its introduction says Vyāsa composed the Mahābhārata out of compassion so that women, śūdras and others not entitled to the Veda might also reach liberation through dharma and knowledge; it reads the Gītā as teaching Kṛṣṇa's supremacy, difference and devoted action.",
+  "key_teachings": [
+   "tea:gita-bhasya-madhva:intro"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "Introduction checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:gita-tatparya-nirnaya",
+  "title": "Gītātātparyanirṇaya",
+  "title_original": "गीतातात्पर्यनिर्णयः",
+  "alt_titles": [
+   "Gītātātparya"
+  ],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "tātparya-nirṇaya",
+  "commentary_on": "src:bhagavad-gita",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); a fuller treatment of the purport of the Gītā, chapter by chapter, opening with the claim that the Bhārata is the essence of all śāstras and that within it the Viṣṇusahasranāma and Kṛṣṇa's Gītā are its essence.",
+  "key_teachings": [
+   "tea:gita-tatparya-nirnaya:intro.1-2"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "Opening checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:isa-upanisad-bhasya-madhva",
+  "title": "Īśāvāsyopaniṣad-bhāṣya (Madhva)",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "bhāṣya",
+  "commentary_on": "src:isa-upanisad",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); Madhva's commentary on the Īśāvāsya Upaniṣad, reading it as teaching Viṣṇu's supremacy and his difference from souls and matter, often by etymological explanation of names and by quotations from other scriptures.",
+  "key_teachings": [],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:jayantinirnaya",
+  "title": "Jayantīnirṇaya",
+  "title_original": "जयन्तीनिर्णयः",
+  "alt_titles": [
+   "Jayantīkalpa"
+  ],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "kalpa (vrata manual)",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "traditional"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "moderate"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); a short work on the observance of Kṛṣṇa's birthday: when the eighth day of the dark fortnight falls with the Rohiṇī asterism at midnight it is called Jayantī, and it is to be kept by fasting by all, especially by Hari's devotees.",
+  "key_teachings": [
+   "tea:jayantinirnaya:1-3"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "The local copy's colophon names it 'Jayantīkalpa'; opening checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:kandukastuti",
+  "title": "Kandukastuti",
+  "title_original": "कन्दुकस्तुतिः",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "stotra",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "traditional"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva, in his boyhood (tradition)",
+   "scholarly": "attribution traditional; not examined here",
+   "confidence": "moderate"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "summary": "A short hymn to Kṛṣṇa in a bouncing metre that the tradition says Madhva composed as a boy while playing ball (kanduka). Not usually counted among the thirty-seven.",
+  "key_teachings": [],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:karmanirnaya",
+  "title": "Karmanirṇaya",
+  "title_original": "कर्मनिर्णयः",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "prakaraṇa",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "structure": {
+   "description": "prakaraṇa 9 of 10 (the local edition numbers Tattvasaṅkhyāna 6th, Tattvaviveka 7th, Tattvoddyota 8th)"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); the ninth of the ten short treatises (daśa-prakaraṇa); it interprets the ritual Mahānāmnī verses to show that the 'great names' of the ritual texts (Indra and the rest) designate the supreme Brahman, full of all qualities, and rejects the view that Brahman is without qualities — i.e., that even the ritual portion of the Veda has Viṣṇu as its purport.",
+  "key_teachings": [
+   "tea:karmanirnaya:1"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:katha-upanisad-bhasya-madhva",
+  "title": "Kāṭhakopaniṣad-bhāṣya (Madhva)",
+  "alt_titles": [
+   "Kaṭhopaniṣad-bhāṣya"
+  ],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "bhāṣya",
+  "commentary_on": "src:katha-upanisad",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); Madhva's commentary on the Kāṭhaka Upaniṣad, reading it as teaching Viṣṇu's supremacy and his difference from souls and matter, often by etymological explanation of names and by quotations from other scriptures.",
+  "key_teachings": [],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:kathalaksana",
+  "title": "Kathālakṣaṇa",
+  "title_original": "कथालक्षणम्",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "prakaraṇa",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "structure": {
+   "description": "prakaraṇa 2 of 10 (the local edition numbers Tattvasaṅkhyāna 6th, Tattvaviveka 7th, Tattvoddyota 8th)"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); the second of the ten short treatises (daśa-prakaraṇa); it defines the three kinds of debate among the learned — vāda, jalpa and vitaṇḍā — and the rules by which truth-directed debate (vāda) is to be conducted.",
+  "key_teachings": [
+   "tea:kathalaksana:2"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:kena-upanisad-bhasya-madhva",
+  "title": "Talavakāropaniṣad-bhāṣya (Madhva)",
+  "alt_titles": [
+   "Kenopaniṣad-bhāṣya"
+  ],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "bhāṣya",
+  "commentary_on": "src:kena-upanisad",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); Madhva's commentary on the Talavakāra (Kena) Upaniṣad, reading it as teaching Viṣṇu's supremacy and his difference from souls and matter, often by etymological explanation of names and by quotations from other scriptures.",
+  "key_teachings": [],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:krsnamrtamaharnava",
+  "title": "Kṛṣṇāmṛtamahārṇava",
+  "title_original": "कृष्णामृतमहार्णवम्",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "compilation (nibandha)",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "traditional"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "moderate"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); a compilation of verses (largely from Purāṇas) on devotion to Kṛṣṇa, the necessity of receiving Hari's initiation and worship, the name, and the observance of vows, especially the Ekādaśī fast in both fortnights and its rules when the day is overlapped (viddhā).",
+  "key_teachings": [
+   "tea:krsnamrtamaharnava:1-3",
+   "tea:krsnamrtamaharnava:126-152"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "Opening and Ekādaśī verses checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:mahabharata-tatparya-nirnaya",
+  "title": "Mahābhārata-tātparya-nirṇaya",
+  "title_original": "महाभारततात्पर्यनिर्णयः",
+  "alt_titles": [
+   "MBTN",
+   "Bhāratatātparyanirṇaya"
+  ],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "tātparya-nirṇaya (verse narrative and doctrine)",
+  "commentary_on": "src:mahabharata",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "structure": {
+   "description": "32 adhyāyas (1 sarva-śāstra-tātparya-nirṇaya; 2 vākyoddhāra; 3 creation; 4–9 Rāma; 10 Vyāsa; 11–32 Kṛṣṇa and the Pāṇḍavas)",
+   "chapters": 32
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); a verse work in thirty-two chapters: the first sets out the purport of all scripture (Viṣṇu's supremacy, the five differences, the gradation of souls, bhakti as the means); the second the principles of interpretation, including the threefold meaning of the Mahābhārata; the third creation; and the rest retell the Rāmāyaṇa and the Mahābhārata, including Kṛṣṇa's life, in the light of that purport. It closes with the author naming himself the third form of Vāyu, born when 4,300 years of Kali had passed.",
+  "key_teachings": [
+   "tea:mahabharata-tatparya-nirnaya:1.68-71",
+   "tea:mahabharata-tatparya-nirnaya:1.85",
+   "tea:mahabharata-tatparya-nirnaya:1.86-90",
+   "tea:mahabharata-tatparya-nirnaya:32.120",
+   "tea:mahabharata-tatparya-nirnaya:32.162-166"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "Chapter structure and the verses cited checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:mandukya-upanisad-bhasya-madhva",
+  "title": "Māṇḍūkyopaniṣad-bhāṣya (Madhva)",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "bhāṣya",
+  "commentary_on": "src:mandukya-upanisad",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); Madhva's commentary on the Māṇḍūkya Upaniṣad, reading it as teaching Viṣṇu's supremacy and his difference from souls and matter, often by etymological explanation of names and by quotations from other scriptures. Madhva's text of the Upaniṣad includes the verses that Advaita attributes to Gauḍapāda's Kārikā (read by him as śruti); he explains Viśva, Taijasa, Prājña and Turīya as four forms of Viṣṇu, and the tradition's account of its origin is Varuṇa, as a frog, praising the fourfold Nārāyaṇa.",
+  "key_teachings": [
+   "tea:mandukya-upanisad-bhasya-madhva:3-7",
+   "tea:mandukya-upanisad-bhasya-madhva:2.9"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:mayavadakhandana",
+  "title": "Māyāvādakhaṇḍana",
+  "title_original": "मायावादखण्डनम्",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "prakaraṇa",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "structure": {
+   "description": "prakaraṇa 4 of 10 (the local edition numbers Tattvasaṅkhyāna 6th, Tattvaviveka 7th, Tattvoddyota 8th)"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); the fourth of the ten short treatises (daśa-prakaraṇa); it a short refutation of the doctrine of māyā (Advaita): if the self is self-luminous and without attributes, nothing in it is unknown for ignorance to cover, so the ignorance on which the doctrine rests is impossible.",
+  "key_teachings": [
+   "tea:mayavadakhandana:1"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:mundaka-upanisad-bhasya-madhva",
+  "title": "Ātharvaṇopaniṣad-bhāṣya (Madhva)",
+  "alt_titles": [
+   "Muṇḍakopaniṣad-bhāṣya"
+  ],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "bhāṣya",
+  "commentary_on": "src:mundaka-upanisad",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); Madhva's commentary on the Ātharvaṇa (Muṇḍaka) Upaniṣad, reading it as teaching Viṣṇu's supremacy and his difference from souls and matter, often by etymological explanation of names and by quotations from other scriptures.",
+  "key_teachings": [],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:narasimhanakhastuti",
+  "title": "Narasiṃhanakhastuti",
+  "title_original": "नरसिंहनखस्तुतिः",
+  "alt_titles": [
+   "Narasiṃhanakhastotra"
+  ],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "stotra",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "structure": {
+   "description": "2 verses"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); two verses praising the claws of Narasiṃha; the tradition recites them at the beginning and end of Trivikrama Paṇḍitācārya's Vāyustuti.",
+  "key_teachings": [],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "The tradition's account that Madhva added these verses to his disciple's Vāyustuti is recorded at low confidence.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:nyayavivarana",
+  "title": "Nyāyavivaraṇa",
+  "title_original": "न्यायविवरणम्",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "prakaraṇa on the Brahmasūtras",
+  "commentary_on": "src:brahma-sutra",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); a short prose work setting out, adhikaraṇa by adhikaraṇa, the reasoning (nyāya) by which Madhva reads the Brahmasūtras.",
+  "key_teachings": [],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:pramanalaksana-madhva",
+  "title": "Pramāṇalakṣaṇa",
+  "title_original": "प्रमाणलक्षणम्",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "prakaraṇa",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "structure": {
+   "description": "prakaraṇa 1 of 10 (the local edition numbers Tattvasaṅkhyāna 6th, Tattvaviveka 7th, Tattvoddyota 8th)"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); the first of the ten short treatises (daśa-prakaraṇa); it defines valid knowledge (pramāṇa) as what accords with its object (yathārtha), divides it into knowledge itself (kevala-pramāṇa — of the Lord, of Lakṣmī, of yogins, of others) and the means of knowledge (anupramāṇa — perception, inference, authoritative word), counts perception as sevenfold (the witness plus six senses), subsumes presumption and comparison under inference, holds memory valid, and sets out the faults of argument.",
+  "key_teachings": [
+   "tea:pramanalaksana-madhva:kevala-anupramana",
+   "tea:pramanalaksana-madhva:pratyaksa"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "Disambiguated with '-madhva' because other works share the title.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:prapancamithyatvanumanakhandana",
+  "title": "Prapañcamithyātvānumānakhaṇḍana",
+  "title_original": "प्रपञ्चमिथ्यात्वानुमानखण्डनम्",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "prakaraṇa",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "structure": {
+   "description": "prakaraṇa 5 of 10 (the local edition numbers Tattvasaṅkhyāna 6th, Tattvaviveka 7th, Tattvoddyota 8th)"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); the fifth of the ten short treatises (daśa-prakaraṇa); it refutes the Advaita inference 'the world is false because it is perceivable, like the silver seen in mother-of-pearl', showing faults in its subject, probans and example, and arguing that the world's reality is established by perception, scripture and the witness.",
+  "key_teachings": [
+   "tea:prapancamithyatvanumanakhandana:1"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "The full title is Prapañca-mithyātvānumāna-khaṇḍana (the task list's 'Mithyātvānumānakhaṇḍana' is a short form).",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:prasna-upanisad-bhasya-madhva",
+  "title": "Ṣaṭpraśnopaniṣad-bhāṣya (Madhva)",
+  "alt_titles": [
+   "Praśnopaniṣad-bhāṣya"
+  ],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "bhāṣya",
+  "commentary_on": "src:prasna-upanisad",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); Madhva's commentary on the Ṣaṭpraśna (Praśna) Upaniṣad, reading it as teaching Viṣṇu's supremacy and his difference from souls and matter, often by etymological explanation of names and by quotations from other scriptures.",
+  "key_teachings": [],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:rgbhasya-madhva",
+  "title": "Ṛgbhāṣya (Madhva)",
+  "title_original": "ऋग्भाष्यम्",
+  "alt_titles": [
+   "Ṛgveda-bhāṣya (Madhva)"
+  ],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "bhāṣya (verse)",
+  "commentary_on": "src:rgveda",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "structure": {
+   "description": "Ṛgveda 1.1–1.40",
+   "chapters": 40
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); a verse commentary on the first forty hymns of the Ṛgveda (1.1–1.40), opening with the claim that Nārāyaṇa alone is the meaning of all the Vedas, all śāstras and all words, and explaining names such as Agni as primarily designating Janārdana.",
+  "key_teachings": [
+   "tea:rgbhasya-madhva:intro",
+   "tea:rgbhasya-madhva:1.1"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "Coverage of sūktas 1–40 and the opening verses checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:sadacarasmrti-madhva",
+  "title": "Sadācārasmṛti (Madhva)",
+  "title_original": "सदाचारस्मृतिः",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "smṛti (conduct manual)",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "traditional"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "moderate"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); a short verse manual of daily conduct for a Vaiṣṇava: rising while remembering Hari, purification, bathing, worship, and the dedication of all acts to Acyuta.",
+  "key_teachings": [
+   "tea:sadacarasmrti-madhva:1-2"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "Opening verses checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:sannyasapaddhati-madhva",
+  "title": "Sannyāsapaddhati (attributed to Madhva)",
+  "title_original": "सन्न्यासपद्धतिः",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "conduct manual",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "traditional"
+   }
+  ],
+  "attribution": {
+   "tradition": "its closing verse names Pūrṇaprajña (Madhva) as author",
+   "scholarly": "not examined",
+   "confidence": "low"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "structure": {
+   "description": "13 verses"
+  },
+  "summary": "A thirteen-verse summary of the conduct of the renunciant, drawn (it says) from Vyāsa's words, closing with the statement that the sage Pūrṇaprajña composed it; not in the usual list of thirty-seven.",
+  "key_teachings": [],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "Closing verse checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:taittiriya-upanisad-bhasya-madhva",
+  "title": "Taittirīyopaniṣad-bhāṣya (Madhva)",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "bhāṣya",
+  "commentary_on": "src:taittiriya-upanisad",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); Madhva's commentary on the Taittirīya Upaniṣad, reading it as teaching Viṣṇu's supremacy and his difference from souls and matter, often by etymological explanation of names and by quotations from other scriptures.",
+  "key_teachings": [],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:tantrasarasangraha-madhva",
+  "title": "Tantrasārasaṅgraha (Madhva)",
+  "title_original": "तन्त्रसारसङ्ग्रहः",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "tantra-nibandha",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "structure": {
+   "description": "4 adhyāyas",
+   "chapters": 4
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); a manual in four chapters on the Lord's mantras and their derivation from the eightfold praṇava, the fifty letters as designating fifty forms of Viṣṇu, and on worship, images and temples, drawing on Pañcarātra material.",
+  "key_teachings": [
+   "tea:tantrasarasangraha-madhva:1.3-4",
+   "tea:tantrasarasangraha-madhva:1.5-10"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "Disambiguated from the Kerala Tantrasārasaṅgraha (Viṣanārāyaṇīya). Chapter count and opening verses checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:tattvasankhyana",
+  "title": "Tattvasaṅkhyāna",
+  "title_original": "तत्त्वसङ्ख्यानम्",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "prakaraṇa",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "structure": {
+   "description": "prakaraṇa 6 of 10 (the local edition numbers Tattvasaṅkhyāna 6th, Tattvaviveka 7th, Tattvoddyota 8th)"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); the sixth of the ten short treatises (daśa-prakaraṇa); it an eleven-verse enumeration of all reality: independent (Viṣṇu) and dependent; the dependent as positive and negative; sentient beings by their relation to sorrow and fitness for liberation; the insentient as eternal, eternal-and-non-eternal, and non-eternal; and Viṣṇu as the agent of creation, sustenance, dissolution, control, ignorance, knowledge, bondage and release of all of it.",
+  "key_teachings": [
+   "tea:tattvasankhyana:1",
+   "tea:tattvasankhyana:3-4",
+   "tea:tattvasankhyana:5-7",
+   "tea:tattvasankhyana:10-11"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "All eleven verses checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions; Jayatīrtha's ṭīkā is src:tattvasankhyana-tika.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:tattvaviveka",
+  "title": "Tattvaviveka",
+  "title_original": "तत्त्वविवेकः",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "prakaraṇa",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "structure": {
+   "description": "prakaraṇa 7 of 10 (the local edition numbers Tattvasaṅkhyāna 6th, Tattvaviveka 7th, Tattvoddyota 8th)"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); the seventh of the ten short treatises (daśa-prakaraṇa); it a thirteen-verse discrimination of realities: independent and dependent; Śrī as eternally free; souls graded in liberation and in bondage; eternal and non-eternal insentient things; and the relation of a thing to its properties (no difference for lasting properties; difference-and-identity for temporary ones). It ends: one who knows all this dependent reality to be always under Hari's control is freed from saṃsāra.",
+  "key_teachings": [
+   "tea:tattvaviveka:1",
+   "tea:tattvaviveka:4-7",
+   "tea:tattvaviveka:10-12",
+   "tea:tattvaviveka:13"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "All thirteen verses checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:tattvoddyota",
+  "title": "Tattvoddyota",
+  "title_original": "तत्त्वोद्योतः",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "prakaraṇa",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "structure": {
+   "description": "prakaraṇa 8 of 10 (the local edition numbers Tattvasaṅkhyāna 6th, Tattvaviveka 7th, Tattvoddyota 8th)"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); the eighth of the ten short treatises (daśa-prakaraṇa); it a polemical prose treatise against Advaita, opening with the inference that the liberated soul is different (from Brahman) and arguing that the 'indeterminable' (anirvacanīya) is established by no means of knowledge and is not taught by scripture (not even by the Nāsadīya hymn).",
+  "key_teachings": [
+   "tea:tattvoddyota:1"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:tithinirnaya-madhva",
+  "title": "Tithinirṇaya (attributed to Madhva)",
+  "title_original": "तिथिनिर्णयः",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "vrata manual",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "doubtful"
+   }
+  ],
+  "attribution": {
+   "tradition": "ascribed to Madhva in the manuscript/e-text colophon",
+   "scholarly": "not examined; possibly later",
+   "confidence": "low"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "summary": "A short verse work on determining lunar days for fasting, carried under Madhva's name in the local e-text; not in the usual list of thirty-seven.",
+  "key_teachings": [],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "Several works share the title; disambiguated with '-madhva'.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:upadhikhandana",
+  "title": "Upādhikhaṇḍana",
+  "title_original": "उपाधिखण्डनम्",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "prakaraṇa",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "structure": {
+   "description": "prakaraṇa 3 of 10 (the local edition numbers Tattvasaṅkhyāna 6th, Tattvaviveka 7th, Tattvoddyota 8th)"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); the third of the ten short treatises (daśa-prakaraṇa); it refutes the Advaita explanation of the individual soul as Brahman limited by adjuncts (upādhi): ignorance cannot belong to the all-knowing, and adjuncts cannot account for it.",
+  "key_teachings": [
+   "tea:upadhikhandana:1-2"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:visnutattvavinirnaya",
+  "title": "Viṣṇutattvavinirṇaya",
+  "title_original": "विष्णुतत्त्वविनिर्णयः",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "prakaraṇa",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "structure": {
+   "description": "prakaraṇa 10 of 10 (the local edition numbers Tattvasaṅkhyāna 6th, Tattvaviveka 7th, Tattvoddyota 8th)"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); the tenth of the ten short treatises (daśa-prakaraṇa); it Madhva's chief independent treatise, in three chapters: the valid scriptures (sadāgama), their authorless and intrinsically valid character, and their teaching of difference (including the reading 'atat tvam asi'); the Lord's supremacy over the perishable (Brahmā, Śiva and the gods) and the imperishable (Lakṣmī); and Viṣṇu's freedom from all defects, even in his avatāras, and the identity of his qualities with his nature.",
+  "key_teachings": [
+   "tea:visnutattvavinirnaya:1",
+   "tea:visnutattvavinirnaya:1/2",
+   "tea:visnutattvavinirnaya:1/4",
+   "tea:visnutattvavinirnaya:2",
+   "tea:visnutattvavinirnaya:3"
+  ],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "Three paricchedas checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:yamakabharata",
+  "title": "Yamakabhārata",
+  "title_original": "यमकभारतम्",
+  "alt_titles": [],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "kāvya / stotra",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "accepted"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "high"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); a short devotional poem in the yamaka style (repeated syllable-groups with different meanings) retelling the story of Kṛṣṇa and the Pāṇḍavas.",
+  "key_teachings": [],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "src:yatipranavakalpa",
+  "title": "Yatipraṇavakalpa",
+  "title_original": "यतिप्रणवकल्पः",
+  "alt_titles": [
+   "Praṇavakalpa"
+  ],
+  "language": [
+   "Sanskrit"
+  ],
+  "script": [
+   "Devanāgarī",
+   "Kannada",
+   "Tuḷu-Malayāḷam (manuscripts)"
+  ],
+  "family": "vedic",
+  "lineages": [
+   "lin:dvaita"
+  ],
+  "genre": "kalpa (ritual manual)",
+  "authors": [
+   {
+    "teacher": "tch:madhva",
+    "role": "author",
+    "attribution": "traditional"
+   }
+  ],
+  "attribution": {
+   "tradition": "Madhva (Ānandatīrtha), counted among his thirty-seven works",
+   "scholarly": "accepted as Madhva's",
+   "confidence": "moderate"
+  },
+  "dating": {
+   "tradition": {
+    "text": "composed by Madhva (Ānandatīrtha); the tradition dates his life to 1199–1278 or 1238–1317",
+    "from": 1199,
+    "to": 1317
+   },
+   "scholarly": {
+    "text": "13th – early 14th c. CE (Madhva c. 1238–1317)",
+    "from": 1238,
+    "to": 1317
+   },
+   "confidence": "moderate"
+  },
+  "summary": "one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); a short manual on the praṇava for renunciants — its initiation and use in the ascetic's practice.",
+  "key_teachings": [],
+  "availability": "digitized-original",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A6"
+  ],
+  "notes": "The local copy's colophon names it 'Praṇavakalpa'.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ }
+]
