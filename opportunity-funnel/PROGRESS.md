@@ -59,7 +59,7 @@ Stage 3 per room:
 
 | Room | Rounds | Records | Labeled | Saturation | Draft | Quote check |
 |---|---|---|---|---|---|---|
-| active-retail-options-traders | 0 | 0 | 0 | not evaluated | no | not checked |
+| active-retail-options-traders | 1 | 1150 | 0 | not evaluated | no | not checked |
 | bpo-contact-centre-operators-india-philippines | 1 | 1211 | 0 | not evaluated | no | not checked |
 | business-brokers-ma-boutiques | 1 | 922 | 0 | not evaluated | no | not checked |
 | cfa-candidates-community | 1 | 850 | 0 | not evaluated | no | not checked |
@@ -70,7 +70,7 @@ Stage 3 per room:
 | indie-perfumers-launching-brands | 1 | 871 | 0 | not evaluated | no | not checked |
 | lender-insurer-telesales-floors-india | 1 | 858 | 560 | not evaluated | no | not checked |
 | outbound-lead-gen-appointment-setting-agencies | 0 | 0 | 0 | not evaluated | no | not checked |
-| salon-spa-owners-india-global | 0 | 0 | 0 | not evaluated | no | not checked |
+| salon-spa-owners-india-global | 1 | 1380 | 0 | not evaluated | no | not checked |
 | small-business-owners-reddit-community | 1 | 926 | 0 | not evaluated | no | not checked |
 | small-industrial-property-investors | 1 | 978 | 0 | not evaluated | no | not checked |
 | startup-founders-409a-83b-deadlines | 1 | 870 | 240 | not evaluated | no | not checked |

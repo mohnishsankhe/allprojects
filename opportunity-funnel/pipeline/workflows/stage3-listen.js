@@ -3,23 +3,18 @@ export const meta = {
   description: 'Stage 3: listen to saturation, one listener per room (plan -> harvest -> label rounds, then synthesize, then checkpoint)',
   phases: [{ title: 'Listen', detail: 'per room: rounds until saturated, exhausted or max rounds' }],
 }
+// args = { rooms: [slug, ...], r1: { <slug>: { queries: N, kinds: [...] } } }
 const F = '/home/user/allprojects/opportunity-funnel'
 const RUNREL = 'runs/2026-09-26'
-const MIN_RECORDS = 500, EXHAUSTED = 50, MAX_ROUNDS = 8, CHUNK = 25
+const MIN_RECORDS = 500, EXHAUSTED = 50, MAX_ROUNDS = 8, CHUNK = 50
 
 // Model policy (founder, 2026-09-27): Claude Opus 5.5 at max effort for every agent, including search runners,
 // bulk labeling and helpers. Nothing uses Fable or a smaller model.
 const OPUS = { model: 'claude-opus-5-5', effort: 'max' }
-// args.legacy = labels of agents that already COMPLETED under the earlier model policy (read them from this
-// workflow's journal.jsonl before resuming). They keep their original options so the workflow cache replays
-// their stored results instead of running them again; every agent that actually runs uses OPUS.
-const LEGACY = new Set(args.legacy || [])
-function modelOpts(kind, label, round) {
-  if (!LEGACY.has(label)) return OPUS
-  if (kind === 'harvest') return { model: round === 1 ? 'sonnet' : 'haiku' }
-  if (kind === 'checkpoint') return { model: 'haiku' }
-  return { model: 'fable' }
-}
+// args.r1 lists rooms whose round 1 was already planned (queries.jsonl) and searched (results in the session
+// transcripts) before the model switch. Those rooms start at the round-1 label step: harvest-search reads the
+// earlier searches, so no plan or search agent runs again. The workflow cache is not relied on for this.
+const R1 = args.r1 || {}
 
 const PLAN = { type: 'object', properties: {
   round: { type: 'integer' }, queries: { type: 'array', items: { type: 'string' } },
@@ -38,17 +33,8 @@ const SYN = { type: 'object', properties: {
 
 const base = (slug) => `Opportunity Funnel, Stage 3. RUN = ${RUNREL} (folder ${F}/${RUNREL}). Room slug: ${slug}. Follow your agent instructions (funnel-listener) exactly. Commands: python3 ${F}/pipeline/funnel.py --run ${RUNREL} <command> ...`
 
-// Round 1 keeps its original prompt so completed round-1 harvests replay from the workflow cache.
-// Later rounds batch the searches (10 parallel WebSearch calls per message): harvesting is mechanical,
-// and batching avoids re-reading a growing context once per search.
-function harvestPrompt(qs, round) {
-  if (round === 1) {
-    return `Run each of the web searches below with the WebSearch tool, in order, one WebSearch call per line.
-Copy each query string EXACTLY as written (same words, quotes, site: operators, capitalization, spacing). Do not rephrase, fix, merge or skip any.
-Use no other tool. Do not analyse or summarise the results. When all are done, reply only: DONE <number of searches you ran>.
-
-${qs.map((q, i) => `${i + 1}. ${q}`).join('\n')}`
-  }
+// Harvesting is mechanical: batching 10 parallel searches per message avoids re-reading a growing context once per search.
+function harvestPrompt(qs) {
   return `Run every web search below with the WebSearch tool.
 Send them in parallel: put 10 WebSearch tool calls in a single message, wait for those results, then send the next 10, until all are done.
 Copy each query string EXACTLY as written (same words, quotes, site: operators, capitalization, spacing). Do not rephrase, fix, merge or skip any.
@@ -61,27 +47,36 @@ async function listen(slug) {
   let round = 1, stop = null
   const history = []
   while (true) {
-    const plan = await agent(`${base(slug)}\nMODE: plan. ROUND: ${round}. ${round > 1 ? `Earlier rounds so far: ${JSON.stringify(history)}. Aim new queries at what is missing (source kinds, pains, money and failed-spend language, deadlines).` : ''}\nAppend this round's queries to queries.jsonl and return them in the queries field exactly as written there.`,
-      { agentType: 'funnel-listener', ...modelOpts('plan', `plan:${slug}:r${round}`), schema: PLAN, label: `plan:${slug}:r${round}`, phase: 'Listen' })
-    if (!plan || !plan.queries || plan.queries.length === 0) { stop = 'exhausted'; break }
-    const chunks = []
-    const size = round === 1 ? CHUNK : 50
-    for (let i = 0; i < plan.queries.length; i += size) chunks.push(plan.queries.slice(i, i + size))
-    await parallel(chunks.map((qs, ci) => () => agent(harvestPrompt(qs, round), { ...modelOpts('harvest', `harvest:${slug}:r${round}:${ci}`, round), label: `harvest:${slug}:r${round}:${ci}`, phase: 'Listen' })))
+    let nq, kinds
+    const pre = round === 1 ? R1[slug] : null
+    if (pre) {
+      nq = pre.queries; kinds = pre.kinds
+      log(`${slug} r1: planned and searched before the model switch (${nq} queries); labeling on Opus`)
+    } else {
+      const plan = await agent(`${base(slug)}\nMODE: plan. ROUND: ${round}. ${round > 1 ? `Earlier rounds so far: ${JSON.stringify(history)}. Aim new queries at what is missing (source kinds, pains, money and failed-spend language, deadlines).` : ''}\nAppend this round's queries to queries.jsonl and return them in the queries field exactly as written there.`,
+        { agentType: 'funnel-listener', ...OPUS, schema: PLAN, label: `plan:${slug}:r${round}`, phase: 'Listen' })
+      if (!plan) { stop = 'error'; break }
+      if (!plan.queries || plan.queries.length === 0) { stop = 'exhausted'; break }
+      nq = plan.queries.length; kinds = plan.kinds_covered
+      const chunks = []
+      for (let i = 0; i < plan.queries.length; i += CHUNK) chunks.push(plan.queries.slice(i, i + CHUNK))
+      await parallel(chunks.map((qs, ci) => () => agent(harvestPrompt(qs), { ...OPUS, label: `harvest:${slug}:r${round}:${ci}`, phase: 'Listen' })))
+    }
     const lab = await agent(`${base(slug)}\nMODE: label. ROUND: ${round}. Run harvest-search, batches, label every new batch (relabel all batches if the taxonomy changed), then count and saturation. Report the numbers exactly as the scripts printed them.`,
-      { agentType: 'funnel-listener', ...modelOpts('label', `label:${slug}:r${round}`), schema: LABEL, label: `label:${slug}:r${round}`, phase: 'Listen' })
+      { agentType: 'funnel-listener', ...OPUS, schema: LABEL, label: `label:${slug}:r${round}`, phase: 'Listen' })
     if (!lab) { stop = 'error'; break }
-    history.push({ round, queries: plan.queries.length, kinds: plan.kinds_covered, records_total: lab.records_total, new_records: lab.new_records, member_records: lab.member_records, pains: lab.pains, saturated: lab.saturated, new_pains: lab.new_pains, rank_changes: lab.rank_changes.length, unmatched: lab.unmatched_queries })
+    history.push({ round, queries: nq, kinds, records_total: lab.records_total, new_records: lab.new_records, member_records: lab.member_records, pains: lab.pains, saturated: lab.saturated, new_pains: lab.new_pains, rank_changes: lab.rank_changes.length, unmatched: lab.unmatched_queries })
     log(`${slug} r${round}: ${lab.records_total} records (+${lab.new_records}), ${lab.pains} pains, saturated=${lab.saturated}`)
     if (lab.saturated && lab.records_total >= MIN_RECORDS) { stop = 'saturated'; break }
     if (round > 1 && lab.new_records < EXHAUSTED) { stop = 'exhausted'; break }
     if (round >= MAX_ROUNDS) { stop = 'max_rounds'; break }
     round++
   }
-  const syn = await agent(`${base(slug)}\nMODE: synthesize. STOP REASON: ${stop} (use it in funnel saturation --final --stop-reason; if the script refuses 'saturated', use what it accepts and say so). Rounds: ${JSON.stringify(history)}.`,
-    { agentType: 'funnel-listener', ...modelOpts('synth', `synth:${slug}`), schema: SYN, label: `synth:${slug}`, phase: 'Listen' })
+  // A failed step is not a finished room: skip the synthesis so the room can be resumed from where it stopped.
+  const syn = stop === 'error' ? null : await agent(`${base(slug)}\nMODE: synthesize. STOP REASON: ${stop} (use it in funnel saturation --final --stop-reason; if the script refuses 'saturated', use what it accepts and say so). Rounds: ${JSON.stringify(history)}.`,
+    { agentType: 'funnel-listener', ...OPUS, schema: SYN, label: `synth:${slug}`, phase: 'Listen' })
   const cp = await agent(`Run exactly this shell command once and reply with its output only:\nbash ${F}/pipeline/checkpoint.sh ${RUNREL} "Stage 3 room ${slug} (${stop}, ${history.length} rounds)"`,
-    { ...modelOpts('checkpoint', `checkpoint:${slug}`), label: `checkpoint:${slug}`, phase: 'Listen' })
+    { ...OPUS, label: `checkpoint:${slug}`, phase: 'Listen' })
   return { slug, stop, rounds: history.length, history, synth: syn, checkpoint: cp }
 }
 
