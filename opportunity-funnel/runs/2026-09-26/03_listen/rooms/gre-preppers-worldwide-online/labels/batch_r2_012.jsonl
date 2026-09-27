@@ -1,3 +1,4 @@
+{"confidence": "moderate", "failed_spend": false, "money": true, "pain_keys": [], "reasoning": "A tutoring company's post on a rival tutoring company's cost. It mentions price but states no problem.", "record_id": "325d5417c720a99b", "voice": "seller"}
 {"confidence": "high", "failed_spend": false, "money": false, "pain_keys": [], "reasoning": "Varsity Tutors' own page selling GRE prep classes. It names no problem.", "record_id": "97154cb8cc01bae6", "voice": "seller"}
 {"confidence": "high", "failed_spend": false, "money": false, "pain_keys": [], "reasoning": "Varsity Tutors' page selling GRE tutors. A product title with no problem stated.", "record_id": "d53949ab642235c0", "voice": "seller"}
 {"confidence": "high", "failed_spend": false, "money": false, "pain_keys": [], "reasoning": "Varsity Tutors' GRE course and tutoring page. A product title with no problem stated.", "record_id": "05af962f535b4438", "voice": "seller"}
@@ -77,4 +78,3 @@
 {"confidence": "high", "failed_spend": false, "money": false, "pain_keys": [], "reasoning": "A YouTube Short with a song or drama line. Unrelated to the GRE.", "record_id": "37c003f877dca2d1", "voice": "other"}
 {"confidence": "high", "failed_spend": false, "money": false, "pain_keys": [], "reasoning": "An Instagram reel with a song line. Unrelated to the GRE.", "record_id": "2defdba83b8c6d01", "voice": "other"}
 {"confidence": "high", "failed_spend": false, "money": false, "pain_keys": [], "reasoning": "A Hindi Khatabook blog on how to start a coaching centre. It is about running a coaching business, not GRE prep.", "record_id": "48412df1f42fcd7f", "voice": "other"}
-{"confidence": "moderate", "failed_spend": false, "money": false, "pain_keys": ["score-enough-for-target"], "reasoning": "Magoosh article on the GRE score range and what a good score is. Seller content on the score-enough question.", "record_id": "70c1e52d9ddc8a5a", "voice": "seller"}
