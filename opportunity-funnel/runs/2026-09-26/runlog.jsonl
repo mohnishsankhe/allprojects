@@ -1547,3 +1547,6 @@
 {"command": "show", "ids": 14, "kind": "ran", "missing": [], "room": "gre-engineers-india", "stage": 3, "ts": "2026-09-27T23:15:29+00:00"}
 {"command": "show", "ids": 21, "kind": "ran", "missing": [], "room": "gre-engineers-india", "stage": 3, "ts": "2026-09-27T23:15:40+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T23:18:07+00:00"}
+{"command": "show", "ids": 15, "kind": "ran", "missing": [], "room": "startup-founders-409a-83b-deadlines", "stage": 3, "ts": "2026-09-27T23:20:09+00:00"}
+{"command": "show", "ids": 6, "kind": "ran", "missing": [], "room": "startup-founders-409a-83b-deadlines", "stage": 3, "ts": "2026-09-27T23:20:50+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T23:23:09+00:00"}
