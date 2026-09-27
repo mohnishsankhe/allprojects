@@ -1239,3 +1239,9 @@
 {"command": "show", "ids": 12, "kind": "ran", "missing": [], "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T17:33:07+00:00"}
 {"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T17:34:02+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T17:37:14+00:00"}
+{"command": "show", "ids": 8, "kind": "ran", "missing": [], "room": "active-retail-options-traders", "stage": 3, "ts": "2026-09-27T17:39:41+00:00"}
+{"command": "show", "ids": 4, "kind": "ran", "missing": [], "room": "active-retail-options-traders", "stage": 3, "ts": "2026-09-27T17:41:00+00:00"}
+{"command": "show", "ids": 42, "kind": "ran", "missing": [], "room": "active-retail-options-traders", "stage": 3, "ts": "2026-09-27T17:41:05+00:00"}
+{"changed": 1, "command": "apply-patches", "kind": "ran", "patches": ["pack_r2_001", "pack_r2_002", "pack_r2_003"], "room": "gre-engineers-india", "stage": 3, "ts": "2026-09-27T17:42:11+00:00"}
+{"by_kind": {"blog_or_site": 722, "forum": 167, "jobs": 76, "news": 3, "official": 30, "qa": 399, "reviews": 120, "social": 37, "video": 172}, "by_source": {"websearch": 1726}, "by_voice": {"media": 299, "member": 566, "other": 383, "seller": 478}, "command": "count", "kind": "count", "labeled": 1726, "pains": 20, "room": "gre-engineers-india", "source_kinds": 8, "stage": 3, "ts": "2026-09-27T17:42:14+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T17:42:17+00:00"}
