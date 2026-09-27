@@ -73,6 +73,7 @@ import collections
 import contextlib
 import csv
 import datetime as _dt
+import hashlib
 import html as _html
 import io
 import json
@@ -376,13 +377,20 @@ _now = time.monotonic
 
 
 class RateGate:
-    """At most `per_minute` calls in any 60-second window. Extra calls wait (netfetch._sleep)."""
+    """At most `per_minute` calls in any 60-second window. Extra calls wait (netfetch._sleep).
 
-    def __init__(self, per_minute: int):
+    With a `name` the window is shared by every process (cache/ratelimit/window-<name>.json under a
+    file lock), so parallel room listeners do not each get their own 60 a minute (rule 4).
+    """
+
+    def __init__(self, per_minute: int, name: str | None = None):
         self.per_minute = int(per_minute)
+        self.name = name
         self.times: collections.deque = collections.deque()
 
     def wait(self) -> float:
+        if self.name:
+            return netfetch.shared_window_wait(self.name, self.per_minute)
         now = _now()
         while self.times and now - self.times[0] >= 60.0:
             self.times.popleft()
@@ -396,7 +404,7 @@ class RateGate:
         return waited
 
 
-_REDDIT_GATE = RateGate(REDDIT_PER_MINUTE)
+_REDDIT_GATE = RateGate(REDDIT_PER_MINUTE, name="reddit")
 
 
 # --------------------------------------------------------------------------- http helpers
@@ -432,13 +440,16 @@ class _Collector:
     def __len__(self) -> int:
         return len(self.records)
 
-    def add(self, rec: dict, author=None) -> bool:
+    def add(self, rec: dict, author=None, known_names=()) -> bool:
         text = str(rec.get("text") or "")
         if not common.normalize_ws(text):
             self.skipped_empty += 1
             return False
+        names = [str(n) for n in (known_names or ()) if isinstance(n, str) and len(n.strip()) >= 2]
         if author and looks_like_person_name(author):
-            text = anonymize(text, known_names=(str(author),))  # only this author's own record; idempotent
+            names.append(str(author))
+        if names:
+            text = anonymize(text, known_names=tuple(names))  # only this record; idempotent
             self.names_applied += 1
         meta = dict(rec.get("meta") or {})
         meta.setdefault("domain", common.domain_of(rec.get("url") or ""))
@@ -986,6 +997,19 @@ def discourse_topic_id(s) -> int:
     raise common.ValidationErrors([f"fetch discourse: {s!r} is not a topic id or a topic URL like https://forum.example/t/slug/123."])
 
 
+_QUOTE_TITLE_RE = re.compile(r'(<aside\b[^>]*class="[^"]*\bquote\b[^"]*"[^>]*>\s*)<div\b[^>]*class="[^"]*\btitle\b[^"]*"[^>]*>.*?</div>',
+                             re.IGNORECASE | re.DOTALL)
+_DATA_USERNAME_RE = re.compile(r'data-username="([^"]+)"', re.IGNORECASE)
+
+
+def strip_quote_headers(cooked) -> tuple:
+    """(html without quote title divs, usernames named by data-username). See the module doc."""
+    html = str(cooked or "")
+    usernames = sorted({_html.unescape(u).strip() for u in _DATA_USERNAME_RE.findall(html) if u.strip()})
+    html = _QUOTE_TITLE_RE.sub(r'\1<div class="title">[user]:</div>', html)
+    return html, usernames
+
+
 def _forum_base(forum: str) -> str:
     t = str(forum or "").strip().rstrip("/")
     if not t:
@@ -1060,17 +1084,23 @@ def fetch_discourse(run, room: str, forum: str, query: str | None = None, topics
                 if p.get("post_type") not in (None, 1):
                     continue  # small actions, whispers and moderator notes are not discussion
                 stats["seen"] += 1
-                text = netfetch.html_to_text(str(p.get("cooked") or "")).strip()
+                cooked, quoted_users = strip_quote_headers(p.get("cooked"))
+                text = netfetch.html_to_text(cooked).strip()
                 if p.get("post_number") == 1 and title:
                     text = f"{title}\n\n{text}" if text else title
                 date = date_from_iso(p.get("created_at"))
                 if date and date < cutoff.isoformat():
                     stats["dropped_old"] += 1
                     continue
+                known = list(quoted_users)
+                for field in ("username", "name"):
+                    v = p.get(field)
+                    if isinstance(v, str) and len(v.strip()) >= 2:
+                        known.append(v.strip())
                 coll.add({"url": f"{base}/t/{slug}/{tid}/{p.get('post_number')}", "text": text, "date": date,
                           "meta": {"kind": "post", "forum": domain, "topic_id": tid, "post_id": p.get("id"),
                                    "post_number": p.get("post_number"), "query": query, "date_from": "api" if date else "none"}},
-                         author=p.get("name"))
+                         author=p.get("name"), known_names=known)
                 if len(coll) >= max_records:
                     break
     return _summary("discourse", coll, stats, requests_made, from_cache, forum=base, domain=domain, query=query,
@@ -1334,11 +1364,13 @@ def inbox_dir(room: str, customers: bool = False) -> Path:
     return common.funnel_root() / "inbox" / kind / common.check_slug(room, "room")
 
 
-def _safe_label(rel_path: str, known_names) -> str:
-    """A file label safe to store and print: sender names removed, odd characters replaced."""
-    label = anonymize(rel_path, known_names=sorted(known_names))
-    label = re.sub(r"\s+", "_", label)
-    return re.sub(r"[^A-Za-z0-9._/\[\]-]+", "_", label)
+def inbox_label(rel_path: str) -> str:
+    """A content-free file label: nothing of the file name (often a person's name) survives in it."""
+    return "file_" + hashlib.sha256(str(rel_path).encode("utf-8")).hexdigest()[:12]
+
+
+def inbox_index_path(run, room: str) -> Path:
+    return common.raw_dir(run, room) / "_inbox_index.json"
 
 
 _CHAT_WITH_RE = re.compile(r"^(?:whatsapp\s+)?chat\s+with\s+(.+?)\s*$", re.IGNORECASE)
@@ -1371,8 +1403,9 @@ def _parse_inbox_file(path: Path) -> dict | None:
 def ingest_inbox(run, room: str, customers: bool = False, round_no: int = 1, command: str = "ingest-inbox") -> dict:
     """Parse every export in inbox/<kind>/<room>/, anonymize with sender names as known names, store.
 
-    Sender names never reach disk, the run log or the screen. Messages under 3 words and
-    system lines are dropped. Returns counts only.
+    Sender names and file names never reach the records, the run log or the screen: every file is
+    known only by its content-free label (inbox_label); the label -> path map goes to the gitignored
+    raw/<room>/_inbox_index.json. Messages under 3 words and system lines are dropped. Returns counts only.
     """
     room = common.check_slug(room, "room")
     kind = "customers" if customers else "closed_groups"
@@ -1403,8 +1436,11 @@ def ingest_inbox(run, room: str, customers: bool = False, round_no: int = 1, com
     all_records: list = []
     base = len(records.load_records(run, room))
     seq = 0
+    index: dict = {}
     for p, result in parsed:
-        label = _safe_label(p.relative_to(folder).as_posix(), known)
+        rel_path = p.relative_to(folder).as_posix()
+        label = inbox_label(rel_path)
+        index[label] = {"path": rel_path, "format": result["format"], "kind": kind}
         fmt = result["format"]
         entry = {"file": label, "format": fmt, "messages": len(result["messages"]), "dropped_system": result["system_dropped"],
                  "dropped_short": 0, "records": 0, "date_order": result["date_order"], "detected_by": result["detected_by"]}
@@ -1436,8 +1472,14 @@ def ingest_inbox(run, room: str, customers: bool = False, round_no: int = 1, com
             common.log_event(run, STAGE, command, "note", room=room, source=source, file=label, review=False,
                              date_order=result["date_order"], note=f"Dates read as {result['date_order']}: {result['detected_by']}.")
     stored = records.store_records(run, room, source, all_records, known_names=sorted(known), command=command)
+    ip = inbox_index_path(run, room)
+    existing = common.read_json(ip) if ip.exists() else {}
+    if not isinstance(existing, dict):
+        existing = {}
+    existing.update(index)
+    common.write_json(ip, existing)
     summary.update(records_new=stored["new"], duplicates=stored["duplicates"], senders_removed=len(known),
-                   new_ids=stored["new_ids"], file=stored["file"])
+                   new_ids=stored["new_ids"], file=stored["file"], index=common.rel(ip))
     return summary
 
 
@@ -1539,6 +1581,7 @@ def cmd_ingest_inbox(args) -> int:
               f"{f['dropped_short']} messages under 3 words dropped, {f['records']} kept.{order}")
     print(f"Sender names removed from every message: {s['senders_removed']} distinct (never stored or printed).")
     print(f"Records new: {s['records_new']}. Duplicates: {s['duplicates']}. Source {s['source']}, stored in {s['file']}.")
+    print(f"File labels are content-free; the label-to-file map is in {s['index']} (kept out of git with the raw records).")
     common.log_event(run, STAGE, "ingest-inbox", "source", room=room, source=s["source"], files=s["files_read"],
                      files_skipped=s["files_skipped"], formats=s["formats"], messages=s["messages"],
                      dropped_system=s["dropped_system"], dropped_short=s["dropped_short"], records_new=s["records_new"],
@@ -1593,10 +1636,10 @@ def register(subparsers) -> None:
     wb.add_argument("--room", required=True, help="room slug")
     wb.add_argument("--url", nargs="+", required=True, help="page URL(s)")
     wb.add_argument("--round", type=int, default=1, help="the Stage 3 round these records belong to (default 1)")
-    p.set_defaults(func=cmd_fetch)
+    p.set_defaults(func=cmd_fetch, stage_no=STAGE)
 
     ii = subparsers.add_parser("ingest-inbox", help="Anonymize and store the founder's chat exports from inbox/.")
     ii.add_argument("--room", required=True, help="room slug")
     ii.add_argument("--customers", action="store_true", help="read inbox/customers/<room>/ instead of inbox/closed_groups/<room>/")
     ii.add_argument("--round", type=int, default=1, help="the Stage 3 round these records belong to (default 1)")
-    ii.set_defaults(func=cmd_ingest_inbox)
+    ii.set_defaults(func=cmd_ingest_inbox, stage_no=STAGE)

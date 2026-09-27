@@ -221,13 +221,7 @@ def dead_rooms_from_other_runs(run) -> dict:
     give the same 01_rooms.json whatever ran after it (rule 6). A room dead from an
     earlier run stays out unless a new-evidence line revives it (rule 7).
     """
-    dead = common.dead_items("room")
-    run_day = common.run_date(run).isoformat()
-    out: dict = {}
-    for e in common.parse_graveyard():
-        if e["item"] in dead and e["date"] != run_day and e["item"] not in out:
-            out[e["item"]] = e
-    return out
+    return common.dead_entries("room", ignore_date=common.run_date(run).isoformat())
 
 
 def _sort_key(room: dict, lenses, order_index: int) -> tuple:
@@ -543,4 +537,4 @@ def cmd_rooms(args) -> int:
 def register(subparsers) -> None:
     p = subparsers.add_parser("rooms", help="Merge, validate and dedupe the Stage 1 rooms; write 01_rooms.json and 01_rooms.md.")
     p.add_argument("--merge-parts", action="store_true", help="read RUN/01_rooms.parts/*.json (otherwise re-check 01_rooms.json)")
-    p.set_defaults(func=cmd_rooms)
+    p.set_defaults(func=cmd_rooms, stage_no=STAGE)

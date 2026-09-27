@@ -473,14 +473,18 @@ def mask(run, merge_parts_flag: bool = False, max_rooms=None) -> dict:
     cut = [v for v in survivors if v["status"] == "cut"]
 
     date = common.run_date(run)
+    kills: dict = {}
     for v in killed:
-        reason = "failed " + "; ".join(f"{t}: {v['tests'][t]['reason']}" for t in v["failed_tests"])
-        common.append_graveyard(date, STAGE, f"room:{v['slug']}", reason)
+        kills[f"room:{v['slug']}"] = "failed " + "; ".join(f"{t}: {v['tests'][t]['reason']}" for t in v["failed_tests"])
     for v in cut:
-        reason = (f"cut: ranked {v['rank']} of {len(survivors)} survivors and max_rooms is {max_keep}; "
-                  f"passed every test (ladder {v['ladder_steps']}, spend {v['spend_points_verified']}/{v['spend_points']}, "
-                  f"reach {v['reach_kind']})")
-        common.append_graveyard(date, STAGE, f"room:{v['slug']}", reason)
+        kills[f"room:{v['slug']}"] = (f"cut: ranked {v['rank']} of {len(survivors)} survivors and max_rooms is {max_keep}; "
+                                     f"passed every test (ladder {v['ladder_steps']}, spend {v['spend_points_verified']}/{v['spend_points']}, "
+                                     f"reach {v['reach_kind']})")
+    # the graveyard says exactly what this run of the mask killed: a room a rerun keeps loses its same-date line
+    common.sync_graveyard(date, STAGE, [f"room:{v['slug']}" for v in verdicts], kills)
+    if common.is_dry_run() and kills:
+        common.log_event(run, STAGE, "mask", "note", review=False, dry_run=True,
+                         note="dry run: no graveyard line was written for " + ", ".join(sorted(kills)))
 
     review_notes: list = []
     if len(survivors) < warn_below:
@@ -652,8 +656,8 @@ def cmd_mask(args) -> int:
 
 def register(subparsers) -> None:
     f = subparsers.add_parser("fx", help="Validate RUN/fx_rates.json and print the table.")
-    f.set_defaults(func=cmd_fx)
+    f.set_defaults(func=cmd_fx, stage_no=STAGE)
     m = subparsers.add_parser("mask", help="Apply the Stage 2 tests, rank rooms, keep at most max_rooms; write 02_mask.json and 02_mask.md.")
     m.add_argument("--merge-parts", action="store_true", help="read RUN/02_mask.parts/*.json into 02_mask_input.json first")
     m.add_argument("--max-rooms", type=int, default=None, help="keep at most this many rooms (default: kill_rules stage2.max_rooms)")
-    m.set_defaults(func=cmd_mask)
+    m.set_defaults(func=cmd_mask, stage_no=STAGE)

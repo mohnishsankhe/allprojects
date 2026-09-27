@@ -914,14 +914,20 @@ def numbers(run) -> dict:
     cut = [e for e in survivors if e["status"] == "cut"]
 
     date = common.run_date(run)
+    kills: dict = {}
     for e in killed:
-        reason = "numbers fail in the base case: " + "; ".join(f"{c}: {e['checks'][c]['reason']}" for c in e["failed_checks"])
-        common.append_graveyard(date, STAGE, f"pain:{e['pain_id']}", reason)
+        kills[f"pain:{e['pain_id']}"] = ("numbers fail in the base case: "
+                                        + "; ".join(f"{c}: {e['checks'][c]['reason']}" for c in e["failed_checks"]))
     for e in cut:
-        reason = (f"cut: ranked {e['rank']} of {len(survivors)} survivors and max_survivors is {max_keep}; passed every check "
-                  f"(opens ladder {'yes' if e['opens_ladder'] else 'no'}, first payment day {e['days_to_first_payment']}, "
-                  f"USD {e['cases']['base']['usd_per_hour']:,.2f} per hour, evidence {e['evidence']})")
-        common.append_graveyard(date, STAGE, f"pain:{e['pain_id']}", reason)
+        kills[f"pain:{e['pain_id']}"] = (f"cut: ranked {e['rank']} of {len(survivors)} survivors and max_survivors is {max_keep}; "
+                                        f"passed every check (opens ladder {'yes' if e['opens_ladder'] else 'no'}, first payment day "
+                                        f"{e['days_to_first_payment']}, USD {e['cases']['base']['usd_per_hour']:,.2f} per hour, "
+                                        f"evidence {e['evidence']})")
+    # the graveyard says exactly what this run of the numbers killed: a pain a rerun keeps loses its same-date line
+    common.sync_graveyard(date, STAGE, [f"pain:{e['pain_id']}" for e in entries], kills)
+    if common.is_dry_run() and kills:
+        common.log_event(run, STAGE, "numbers", "note", review=False, dry_run=True,
+                         note="dry run: no graveyard line was written for " + ", ".join(sorted(kills)))
 
     for n in notes:
         common.log_event(run, STAGE, "numbers", "note", note=n, review=True)
@@ -1214,4 +1220,4 @@ def cmd_numbers(args) -> int:
 def register(subparsers) -> None:
     p = subparsers.add_parser("numbers", help="Compute every Stage 6 figure, apply the base-case checks, rank and keep survivors.")
     p.add_argument("--check", metavar="PAIN_ID", default=None, help="validate and compute one pain's 06_inputs file; write nothing")
-    p.set_defaults(func=cmd_numbers)
+    p.set_defaults(func=cmd_numbers, stage_no=STAGE)

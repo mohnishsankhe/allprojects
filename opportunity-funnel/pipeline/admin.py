@@ -235,7 +235,7 @@ def cmd_ledger_check(args) -> int:
     run = common.run_dir(args.run)
     r = ledger_check()
     _print_ledger_report(r)
-    common.log_event(run, STAGE, "ledger-check", "check", ok=r["ok"], texts_checked=r["texts_checked"],
+    common.log_event(run, STAGE, "ledger-check", "check", create_run=False, ok=r["ok"], texts_checked=r["texts_checked"],
                      assumed=len(r["assumed"]), errors=len(r["errors"]), warnings=r["warnings"])
     if not r["ok"]:
         raise common.ValidationErrors(r["errors"])
@@ -429,7 +429,7 @@ def cmd_init(args) -> int:
         print(f"API keys set (names only): {', '.join(have) or 'none'}. Not set: "
               f"{', '.join(k for k in keys if k not in have) or 'none'}.")
     print(f".env: {'present' if (root / '.env').exists() else 'absent (environment variables are used)'}.")
-    common.log_event(common.run_dir(args.run), STAGE, "init", "ran", created=made, ledger=status)
+    common.log_event(common.run_dir(args.run), STAGE, "init", "ran", create_run=False, created=made, ledger=status)
     return 0
 
 
@@ -512,14 +512,15 @@ def _mask_kept(rd: Path) -> dict:
 
 def known_rooms() -> list:
     dead = common.dead_items("room")
-    revived = {e["item"] for e in common.parse_graveyard() if e["status"] == "revived"}
+    in_graveyard = {e["item"] for e in common.parse_graveyard()}
     seen: dict = {}
     for rd in _run_dirs():
         for slug, v in _mask_kept(rd).items():
             if slug not in seen:
                 item = f"room:{slug}"
+                # the item's last graveyard line decides (common.dead_items): dead, or revived, or never killed
                 seen[slug] = {"slug": slug, "name": v.get("name", slug), "run": rd.name, "rank": v.get("rank"),
-                              "graveyard": "dead" if item in dead else ("revived" if item in revived else "no")}
+                              "graveyard": "dead" if item in dead else ("revived" if item in in_graveyard else "no")}
     rooms = sorted(seen.values(), key=lambda x: x["slug"])
     rooms.sort(key=lambda x: x["run"], reverse=True)
     return rooms
@@ -534,15 +535,16 @@ def cmd_rooms_known(args) -> int:
         for r in rooms:
             note = "" if r["graveyard"] == "no" else f" [graveyard: {r['graveyard']}]"
             print(f"  {r['slug']:40} run {r['run']}  rank {r['rank']}  {r['name']}{note}")
-    common.log_event(common.run_dir(args.run), STAGE, "rooms-known", "ran", rooms=len(rooms))
+    # needs no run folder: logged only into a run folder that already exists (never creates runs/<today>/)
+    common.log_event(common.run_dir(args.run), STAGE, "rooms-known", "ran", create_run=False, rooms=len(rooms))
     return 0
 
 
 def loop_init(room: str) -> dict:
     room = common.check_slug(room, "room")
     item = f"room:{room}"
-    if common.is_dead(item):
-        g = next((e for e in common.parse_graveyard() if e["item"] == item and e["status"] == "dead"), {})
+    g = common.dead_entries("room").get(item)
+    if g is not None:
         raise common.ValidationErrors([f"room {room} is dead in graveyard.md ({g.get('date', '?')}, {g.get('stage', '?')}: "
                                        f"{g.get('reason', '')}). Add an indented `- new evidence YYYY-MM-DD: ...` line under it first."])
     name = f"{common.today().isoformat()}-loop-{room}"
@@ -613,7 +615,8 @@ def cmd_graveyard(args) -> int:
         print(f"  {e['date']} | {e['stage']} | {e['item']} | {e['reason']} [{mark}]")
         for rv in e["revivals"]:
             print(f"      {rv}")
-    common.log_event(common.run_dir(args.run), STAGE, "graveyard", "ran", entries=len(entries), dead=len(dead), revived=len(revived))
+    common.log_event(common.run_dir(args.run), STAGE, "graveyard", "ran", create_run=False, entries=len(entries),
+                     dead=len(dead), revived=len(revived))
     return 0
 
 
@@ -646,7 +649,7 @@ def cmd_robots(args) -> int:
     cache = netfetch.robots_dir() / f"{domain}.txt"
     print(f"{url}: {'allowed' if allowed else 'NOT allowed'} for user agent '{netfetch.user_agent().split('/')[0]}' "
           f"by https://{domain}/robots.txt (cached at {common.rel(cache)}).")
-    common.log_event(run, STAGE, "robots", "check", url=url, domain=domain, allowed=bool(allowed))
+    common.log_event(run, STAGE, "robots", "check", create_run=False, url=url, domain=domain, allowed=bool(allowed))
     return 0
 
 
@@ -931,24 +934,24 @@ def cmd_listen_status(args) -> int:
 # =========================================================================== register
 def register(subparsers) -> None:
     p = subparsers.add_parser("init", help="Create the inbox, runs and cache folders; print the ledger status.")
-    p.set_defaults(func=cmd_init)
+    p.set_defaults(func=cmd_init, stage_no=STAGE)
 
     p = subparsers.add_parser("preflight", help="Snapshot config, check the ledger, list keys set, probe every source domain.")
     p.add_argument("--network-only", action="store_true", help="only probe the domains")
-    p.set_defaults(func=cmd_preflight)
+    p.set_defaults(func=cmd_preflight, stage_no=STAGE)
 
     p = subparsers.add_parser("ledger-check", help="Check config/ledger.yaml against config/ledger.md; list [assumed] items.")
-    p.set_defaults(func=cmd_ledger_check)
+    p.set_defaults(func=cmd_ledger_check, stage_no=STAGE)
 
     p = subparsers.add_parser("loop-init", help="Create runs/<today>-loop-<room>/ from the latest run that kept the room.")
     p.add_argument("--room", required=True, help="room slug")
-    p.set_defaults(func=cmd_loop_init)
+    p.set_defaults(func=cmd_loop_init, stage_no=STAGE)
 
     p = subparsers.add_parser("rooms-known", help="List rooms kept by earlier runs.")
-    p.set_defaults(func=cmd_rooms_known)
+    p.set_defaults(func=cmd_rooms_known, stage_no=STAGE)
 
     p = subparsers.add_parser("graveyard", help="Print graveyard.md entries and their status.")
-    p.set_defaults(func=cmd_graveyard)
+    p.set_defaults(func=cmd_graveyard, stage_no=STAGE)
 
     p = subparsers.add_parser("log", help="Append an error, note or cost event to RUN/runlog.jsonl.")
     p.add_argument("--stage", type=int, required=True, help="stage number (0 for setup)")
@@ -964,31 +967,31 @@ def register(subparsers) -> None:
     p.add_argument("--status", required=True, choices=SOURCE_STATUSES)
     p.add_argument("--reason", required=True, help="the decision and why, in one sentence")
     p.add_argument("--url", default="", help="URL of the terms clause read")
-    p.set_defaults(func=cmd_source_decision)
+    p.set_defaults(func=cmd_source_decision, stage_no=STAGE)
 
     p = subparsers.add_parser("robots", help="Say whether robots.txt allows fetching a URL.")
     p.add_argument("url", help="full URL")
-    p.set_defaults(func=cmd_robots)
+    p.set_defaults(func=cmd_robots, stage_no=STAGE)
 
     p = subparsers.add_parser("purge-expired", help="Remove stored records of a source fetched more than N days ago (meta.fetched_at).")
     p.add_argument("--source", required=True, help="source name, for example reddit")
     p.add_argument("--days", type=int, required=True, help="keep records fetched within this many days")
-    p.set_defaults(func=cmd_purge_expired)
+    p.set_defaults(func=cmd_purge_expired, stage_no=3)
 
     p = subparsers.add_parser("show", help="Print records in full (--room R --ids a,b) or a pain with quotes and sample records (--pain P).")
     p.add_argument("--room", default=None, help="room slug")
     p.add_argument("--ids", default=None, help="comma-separated record ids")
     p.add_argument("--pain", default=None, help="pain id <room>--<key>")
     p.add_argument("--limit", type=int, default=15, help="member records to show with --pain (default 15)")
-    p.set_defaults(func=cmd_show)
+    p.set_defaults(func=cmd_show, stage_no=3)
 
     p = subparsers.add_parser("excerpt", help="Print the exact original text of a record between two phrases.")
     p.add_argument("--room", required=True, help="room slug")
     p.add_argument("--id", required=True, help="record id")
     p.add_argument("--start", required=True, help="first words of the excerpt")
     p.add_argument("--end", required=True, help="last words of the excerpt")
-    p.set_defaults(func=cmd_excerpt)
+    p.set_defaults(func=cmd_excerpt, stage_no=3)
 
     p = subparsers.add_parser("listen-status", help="Records per source and round, dated/undated, batches, labels, saturation for a room.")
     p.add_argument("--room", required=True, help="room slug")
-    p.set_defaults(func=cmd_listen_status)
+    p.set_defaults(func=cmd_listen_status, stage_no=3)
