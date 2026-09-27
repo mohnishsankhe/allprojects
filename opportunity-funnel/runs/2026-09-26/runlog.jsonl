@@ -294,3 +294,4 @@
 {"command": "log", "kind": "note", "review": false, "stage": 3, "text": "The rule 'at least 3 source kinds per room' was in the config but never checked, and every record's source is 'websearch'. It is now checked by the kind of site each record points to (config/source_kinds.yaml: forum, qa, video, reviews, jobs, official, news, social, blog_or_site; a kind counts with at least 5 records). Round-1 records already span 7-9 kinds in every room. A room below 3 kinds has its pains tagged [source kinds: N] and is listed for review. 437 tests pass.", "ts": "2026-09-27T09:00:17+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T09:00:17+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T09:01:19+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T09:02:54+00:00"}

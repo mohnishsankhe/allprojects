@@ -1,0 +1,124 @@
+{
+  "pains": [
+    {
+      "key": "which-coaching",
+      "label": "Confused between Jamboree and Princeton Review: which GRE coaching is best, and what are the fees?",
+      "definition": "The writer is choosing a GRE coaching institute or prep course and cannot tell which one is good, which is only marketing, or what it costs.",
+      "added_round": 1,
+      "reasoning": "Dozens of member questions ask which GRE coaching to join in a city, compare Jamboree, Princeton Review and others, or ask a coaching's fees. One asks if a brand is good or just marketing.",
+      "confidence": "high"
+    },
+    {
+      "key": "coaching-or-self-study",
+      "label": "Do we really need to join a coaching class to take the GRE, or is self-study enough?",
+      "definition": "The writer is unsure whether paying for GRE coaching is necessary or whether preparing alone will do.",
+      "added_round": 1,
+      "reasoning": "Several members ask whether coaching is necessary or whether self-study is enough. Sellers and videos answer the same question.",
+      "confidence": "high"
+    },
+    {
+      "key": "paid-course-did-not-help",
+      "label": "Paid for GRE coaching that was a waste",
+      "definition": "The writer paid for GRE coaching, a course or a prep product that did not help, or wants the money back.",
+      "added_round": 1,
+      "reasoning": "One customer complaint calls a GRE coaching brand a waste. Support is one record so far; it is kept because failed spend is the strongest kind of evidence.",
+      "confidence": "low"
+    },
+    {
+      "key": "self-study-plan",
+      "label": "How should I start preparation on my own, and which books should I follow?",
+      "definition": "The writer wants to prepare, often without coaching, but does not know how hard the GRE is, when to start, how long it takes, what to study, or which books, sites and mocks to use.",
+      "added_round": 1,
+      "reasoning": "Many members, often B.Tech students, ask when and where to start, how long prep takes, and which books or resources to follow.",
+      "confidence": "high"
+    },
+    {
+      "key": "working-no-time",
+      "label": "How to prepare for the GRE while working a 9-5 job",
+      "definition": "A full-time job (or the B.Tech course load) leaves the writer too little time or energy to prepare.",
+      "added_round": 1,
+      "reasoning": "Many members ask how to prepare while working full time, some naming long hours, commutes and heavy work pressure.",
+      "confidence": "high"
+    },
+    {
+      "key": "verbal-weak",
+      "label": "Struggling with GRE verbal and essay writing: vocabulary, RC and a low verbal score",
+      "definition": "The writer's verbal or writing section (vocabulary, reading comprehension, sentence completion, essays) is weak or stuck, or they fear a low verbal score.",
+      "added_round": 1,
+      "reasoning": "Members say they are struggling with verbal, RC and essays, report low verbal scores and ask how to raise them fast.",
+      "confidence": "high"
+    },
+    {
+      "key": "score-too-low-retake",
+      "label": "Scored 310 and not satisfied: should I retake the GRE?",
+      "definition": "The writer's score is below what their target universities want, or did not rise after hard study, and they are unsure whether it is good enough or whether to retake.",
+      "added_round": 1,
+      "reasoning": "Many members give their score and ask whether it is enough or whether to retake; one studied a lot and still could not pass 320.",
+      "confidence": "high"
+    },
+    {
+      "key": "which-universities-for-my-profile",
+      "label": "Which universities can I get into with a 300 GRE score and my GPA?",
+      "definition": "The writer does not know which universities to apply to given their GRE score, GPA, branch or gap years, or whether a weak part of the profile will sink them.",
+      "added_round": 1,
+      "reasoning": "Members list their scores, GPA or gap years and ask which universities they can get into or ask for a profile evaluation.",
+      "confidence": "high"
+    },
+    {
+      "key": "application-help",
+      "label": "Which agency to trust for admission counselling: university selection, SOP, LOR, visa?",
+      "definition": "The writer needs help with applications (shortlisting, SOP, LOR, visa) and cannot judge which counsellor or agency to trust, or whether to handle it alone.",
+      "added_round": 1,
+      "reasoning": "Several members ask which agency to use for admission counselling, ask for reviews of counselling firms, or ask whether they can handle applications alone.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "is-gre-needed",
+      "label": "Is GRE mandatory for MS in the US, or can I get admission without it?",
+      "definition": "The writer is unsure whether they need to take the GRE at all, since many universities waive it, or whether it is still worth it.",
+      "added_round": 1,
+      "reasoning": "Many members ask whether the GRE is compulsory or worth it; sellers publish lists of universities that waive it.",
+      "confidence": "high"
+    },
+    {
+      "key": "gre-or-other-path",
+      "label": "GATE or GRE, which is best? (or CAT, GMAT, or a job)",
+      "definition": "The writer cannot decide between the GRE (a master's abroad) and another path: GATE (M.Tech in India), CAT or GMAT, or a job.",
+      "added_round": 1,
+      "reasoning": "Engineers from ECE, mechanical and civil branches ask whether to take the GRE or GATE (or CAT), and one weighs a job against higher studies.",
+      "confidence": "high"
+    },
+    {
+      "key": "gre-fee-cost",
+      "label": "The GRE costs roughly Rs. 12000: why so high, and what else will I pay?",
+      "definition": "The writer finds the GRE fee high or does not know the full cost (dollars or rupees, retakes, rescheduling, score reports) or how to pay or cut it.",
+      "added_round": 1,
+      "reasoning": "Members ask what the GRE costs, whether to pay in dollars or rupees, what a second attempt costs, and one asks why the fee is so high and how to avoid it.",
+      "confidence": "high"
+    },
+    {
+      "key": "at-home-or-centre",
+      "label": "Should I take the GRE at home or at a test centre?",
+      "definition": "The writer is unsure where to take the test (at home or at a centre) or ran into at-home rules, risks and test-day surprises.",
+      "added_round": 1,
+      "reasoning": "Members ask whether to test at home or at a centre, and test takers describe at-home surprises and things they did not know before.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "real-test-harder-than-practice",
+      "label": "GRE quant much harder than any practice paper",
+      "definition": "The writer found the real test harder than their practice material, so their mocks did not prepare them or predict their score.",
+      "added_round": 1,
+      "reasoning": "One member says the at-home quant section was much harder than any practice paper. Support is one record so far.",
+      "confidence": "low"
+    },
+    {
+      "key": "exam-date-and-deadlines",
+      "label": "When should I take the GRE, and can I reschedule it before deadlines?",
+      "definition": "The writer is unsure when to book the test or whether they can move it, so that scores arrive before application deadlines.",
+      "added_round": 1,
+      "reasoning": "Members ask whether they can reschedule and when they can take the exam; many seller guides map test dates to application deadlines. Member support is thin so far.",
+      "confidence": "low"
+    }
+  ]
+}
