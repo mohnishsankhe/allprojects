@@ -1,5 +1,5 @@
 {
-  "final": false,
+  "final": true,
   "room": "lender-insurer-telesales-floors-india",
   "rounds": [
     {
@@ -64,6 +64,6 @@
       "window_used": 849
     }
   ],
-  "stop_reason": null,
+  "stop_reason": "exhausted",
   "window": 300
 }

@@ -33,6 +33,102 @@
       ],
       "window": 300,
       "window_used": 988
+    },
+    {
+      "evaluable": true,
+      "new_pains": [
+        "app-tool-bills-rising",
+        "cash-crunch",
+        "channel-fees-margin",
+        "compliance-rules",
+        "emails-land-in-spam",
+        "support-overload"
+      ],
+      "new_records": 839,
+      "rank_changes": [
+        {
+          "key": "ad-account-disabled",
+          "rank_after": 13,
+          "rank_before": 6
+        },
+        {
+          "key": "ad-tracking-broken",
+          "rank_after": 16,
+          "rank_before": 11
+        },
+        {
+          "key": "agency-no-results",
+          "rank_after": 12,
+          "rank_before": 7
+        },
+        {
+          "key": "amazon-account-suspended",
+          "rank_after": 6,
+          "rank_before": 8
+        },
+        {
+          "key": "chargebacks-fraud",
+          "rank_after": 7,
+          "rank_before": 5
+        },
+        {
+          "key": "cod-settings-shopify",
+          "rank_after": 10,
+          "rank_before": 3
+        },
+        {
+          "key": "courier-aggregator-failures",
+          "rank_after": 11,
+          "rank_before": 9
+        },
+        {
+          "key": "search-traffic-loss",
+          "rank_after": 18,
+          "rank_before": 12
+        },
+        {
+          "key": "shipping-costs-confusing",
+          "rank_after": 8,
+          "rank_before": 4
+        },
+        {
+          "key": "whatsapp-order-updates",
+          "rank_after": 14,
+          "rank_before": 9
+        }
+      ],
+      "records": 1827,
+      "round": 2,
+      "saturated": false,
+      "taxonomy_added": [
+        "app-tool-bills-rising",
+        "emails-land-in-spam"
+      ],
+      "taxonomy_keys": [
+        "ad-account-disabled",
+        "ad-tracking-broken",
+        "ads-cost-more-return-less",
+        "agency-no-results",
+        "amazon-account-suspended",
+        "app-tool-bills-rising",
+        "cash-crunch",
+        "channel-fees-margin",
+        "chargebacks-fraud",
+        "cod-settings-shopify",
+        "compliance-rules",
+        "courier-aggregator-failures",
+        "emails-land-in-spam",
+        "no-path-to-profit",
+        "rto-cod-returns",
+        "search-traffic-loss",
+        "shipping-costs-confusing",
+        "support-overload",
+        "whatsapp-costs-rising",
+        "whatsapp-order-updates"
+      ],
+      "window": 300,
+      "window_member_records": 239,
+      "window_used": 839
     }
   ],
   "stop_reason": null,

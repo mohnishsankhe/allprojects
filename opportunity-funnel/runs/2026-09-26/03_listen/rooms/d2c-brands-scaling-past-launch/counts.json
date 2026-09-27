@@ -1,5 +1,5 @@
 {
-  "labeled": 988,
+  "labeled": 1827,
   "notes": [],
   "pains": {
     "ad-account-disabled": {
@@ -12,7 +12,9 @@
       ],
       "media_records": 2,
       "member_record_ids": [
+        "115e0bd46b3bd6b8",
         "142f77735abf14f5",
+        "170cf50164ce84dd",
         "24a3374e57c84d30",
         "3d6c9f609253a385",
         "41045603faac6dfa",
@@ -24,25 +26,43 @@
         "87c3948eddf3be35",
         "8ac20466ee0a9765",
         "8ad1d10f26740ba3",
+        "a385dedbb20ac3c4",
+        "a6746d51be061d76",
+        "b2fa9289f621b349",
         "bc34210ecc094a0c",
+        "d6813de55b06d4be",
+        "d9764a742acd84c4",
+        "da1a82ed6b0cbd33",
         "f18c76fda23ed2df",
+        "f18f0c3ca9e008e4",
+        "f1d9d7bb047b0f2b",
         "f64d2a90d65be060",
+        "fcd2d4b087fcbcae",
         "ff9a8771442bda1e"
       ],
       "money_mentions": 1,
       "money_record_ids": [
         "4d4dd8bf6be38a6b"
       ],
-      "record_count": 16,
+      "record_count": 27,
       "seller_record_ids": [
         "2dd21893ff471509",
+        "3a827135e92cd7f7",
+        "41cbc3b8cca6666b",
+        "42f52d76b461038e",
         "56630671f92e3abe",
+        "5a9e6bbf417d3fcd",
         "9defce78ef2bd75a",
         "a48108eecd3b3704",
+        "a57996a60fe4ba6a",
+        "b6a7772c1954a04f",
+        "c831af023a2ce3a7",
         "cd59541da5997180",
+        "d0ac6ea1b742a415",
+        "dfc8d1f15c8f8c6d",
         "e8cebe7a646b2389"
       ],
-      "seller_records": 6
+      "seller_records": 15
     },
     "ad-tracking-broken": {
       "failed_spend_mentions": 0,
@@ -52,59 +72,119 @@
       "media_records": 0,
       "member_record_ids": [
         "03261ee3e16e7035",
+        "04dc35382a73129e",
+        "1e263166f6156e49",
         "40c2bec21d935c9f",
+        "4cfbdbd5370fb4e5",
         "59e842f86dc5f522",
-        "e1d76613b31f70e8"
+        "5df7b4fedcaa965b",
+        "7081b6d3b93efd0b",
+        "72410526e6e38a6c",
+        "7ac151d70203de2b",
+        "addc70096b86989e",
+        "bee85ca8663fcc6b",
+        "cff76c7f7e1f52a4",
+        "e1d76613b31f70e8",
+        "e2df73fdf1b399e4",
+        "fb28744f142d012d",
+        "fc450abd1f96b918",
+        "fef17be5b52b6900"
       ],
       "money_mentions": 0,
       "money_record_ids": [],
-      "record_count": 4,
-      "seller_record_ids": [],
-      "seller_records": 0
+      "record_count": 18,
+      "seller_record_ids": [
+        "0a84f4ff7fd1afcf",
+        "1f2c1a5d90b3833d",
+        "27f3cfca7d76cb82",
+        "7b0f1ce381d705f5",
+        "85cedaeb340bbc9d",
+        "b077c0029c7c7c8c",
+        "bd3a99db010ff4ef",
+        "e358ae5994dc5799",
+        "e7a36fe88b15fe72"
+      ],
+      "seller_records": 9
     },
     "ads-cost-more-return-less": {
-      "failed_spend_mentions": 2,
+      "failed_spend_mentions": 5,
       "failed_spend_record_ids": [
+        "2d8130b2be799762",
+        "43386a648350361e",
         "72981b20b6b0a989",
+        "96f01021d1ed40a0",
         "ce1237eba3c51314"
       ],
       "label": "Ads cost more and return less",
       "media_record_ids": [
+        "29f1892ccbfec438",
         "371c5e7fb02c9f8d",
         "3ec56389e34cd3dc",
+        "467026a0c569dcdb",
         "5ce27878e0b3ea2e",
+        "8503126efbc5e599",
+        "b4a455d970bb3da5",
         "f9d7d45d3b1b1eb1"
       ],
-      "media_records": 4,
+      "media_records": 8,
       "member_record_ids": [
+        "299b67782d6dbcbe",
+        "2d8130b2be799762",
+        "43386a648350361e",
+        "4885029e5390a78d",
+        "596027b1f50ad9f1",
+        "693d0fc6eb90b640",
+        "6eb9cb42dab2c657",
+        "70137d0982516e03",
         "72981b20b6b0a989",
+        "96f01021d1ed40a0",
         "b3ca21b019c9b859",
-        "ce1237eba3c51314"
+        "c683c57843c2d174",
+        "cd9335be2557a445",
+        "ce1237eba3c51314",
+        "cf9ecd35dec54819",
+        "ee4502ee6440af91"
       ],
-      "money_mentions": 2,
+      "money_mentions": 15,
       "money_record_ids": [
+        "299b67782d6dbcbe",
+        "2d8130b2be799762",
+        "43386a648350361e",
+        "4885029e5390a78d",
+        "596027b1f50ad9f1",
+        "693d0fc6eb90b640",
+        "6eb9cb42dab2c657",
+        "70137d0982516e03",
         "72981b20b6b0a989",
-        "ce1237eba3c51314"
+        "96f01021d1ed40a0",
+        "c683c57843c2d174",
+        "cd9335be2557a445",
+        "ce1237eba3c51314",
+        "cf9ecd35dec54819",
+        "ee4502ee6440af91"
       ],
-      "record_count": 3,
+      "record_count": 16,
       "seller_record_ids": [
         "18eb57ed3f3352e0",
         "2882952c4403d4ba",
         "36f5fb6dc3feb702",
+        "3ad0598f9dfb9fea",
         "48a8425507839052",
         "4b8801ef716e596b",
         "67068bd37d310173",
         "7555ba7e912863f3",
         "7de04c111a1aa130",
+        "a4e25e2987032ea8",
         "a546cae172048448",
         "c345a3bc4f4a9583",
         "cd5a8657092b2841",
         "d1381bc651b546f9",
         "dbd1353908315bd4",
         "dbd21b20a144dada",
+        "dc36a199e1633e08",
         "ec97350b56b54a2e"
       ],
-      "seller_records": 15
+      "seller_records": 18
     },
     "agency-no-results": {
       "failed_spend_mentions": 0,
@@ -112,19 +192,24 @@
       "label": "Agencies charge a lot and many don't deliver",
       "media_record_ids": [
         "2b1de32da3e1d440",
+        "3380bd51ed7c7bc4",
         "94e8fd38381df26c",
         "c5444cdeb44ff50a"
       ],
-      "media_records": 3,
+      "media_records": 4,
       "member_record_ids": [
+        "286fd483e8ed6ac0",
+        "28d744dd54e83542",
         "36cdfcd95b4e5c2d",
+        "3ffa5be407b19d6e",
         "e5f8129e54b17c98"
       ],
-      "money_mentions": 1,
+      "money_mentions": 2,
       "money_record_ids": [
+        "28d744dd54e83542",
         "36cdfcd95b4e5c2d"
       ],
-      "record_count": 2,
+      "record_count": 5,
       "seller_record_ids": [
         "0a4a1391dce699d4",
         "2522eebb38e6c754",
@@ -150,57 +235,185 @@
         "0c7ed42785cc5294",
         "26fc1aa4a229784f",
         "328087ca4206a394",
+        "3acc4a3242420660",
         "4f2d69a64f5f06ce",
+        "4f47898ead1d73c5",
         "66b854aee54e8c5b",
+        "66f52f3c9200f338",
+        "7a6eeb805a642498",
+        "849321f882e27f80",
+        "84ff4ce478800ff6",
         "8531c8600efa4221",
         "8bd5b7958c3e971b",
+        "8cf5b8f94e03d46b",
         "a3a7aae98ec3791f",
+        "a64a5e46ea612083",
         "b3d43fcceaf2ec10",
         "bb7fdda9620a5865",
         "d4272fd3561f2aa2",
         "d8021a1606a01fb8",
-        "f09d2c00b3994f2e"
+        "f09d2c00b3994f2e",
+        "f0d5082951343da7",
+        "f73804a1c7508400",
+        "fc80e1c83f0b43a3"
       ],
-      "money_mentions": 0,
-      "money_record_ids": [],
-      "record_count": 14,
+      "money_mentions": 9,
+      "money_record_ids": [
+        "3acc4a3242420660",
+        "4f47898ead1d73c5",
+        "66f52f3c9200f338",
+        "7a6eeb805a642498",
+        "849321f882e27f80",
+        "8cf5b8f94e03d46b",
+        "a64a5e46ea612083",
+        "f0d5082951343da7",
+        "fc80e1c83f0b43a3"
+      ],
+      "record_count": 25,
       "seller_record_ids": [
+        "02b0b9511bc17eb8",
         "1421fc6fa53eafc0",
         "1bcafb1b34ed1da3",
         "27060ca5686b2cea",
+        "2da27169d9593243",
+        "3526a0fba7867eb2",
+        "3ce27f0143438c05",
         "492904f5b2c2eea5",
+        "4a6291336199a9f0",
+        "868eba9282a712c4",
+        "8a498ed0438794ac",
         "9b0d78edbb9cb164",
+        "9dee2371cf6c22c5",
+        "aab9e59ae4ac3edc",
         "b35b88e29abc9a09",
         "b47a57d0c97bd3f9",
+        "b9f1582d9d2c53d2",
         "c8984a5b2dcaa9db",
         "d83464c33bebf80a",
         "ed7c40c073e9eed7",
+        "f699cdbd6de16c09",
         "fbccfe8a784097a8"
       ],
-      "seller_records": 11
+      "seller_records": 22
+    },
+    "app-tool-bills-rising": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "App and tool bills keep climbing, even after we cancel",
+      "media_record_ids": [],
+      "media_records": 0,
+      "member_record_ids": [
+        "00bbf76c16b13379",
+        "1287ebb8924e17df",
+        "4664a9a8f1829172",
+        "540643146f3229f9",
+        "5567328d3e4acb3d",
+        "7b7a116edc60d75b",
+        "86bccf85c3bd0d05",
+        "8c034d5529c5cdfa",
+        "c407ba16f5d62331",
+        "eb4123f713d2b51d",
+        "f348557b17cbb13f"
+      ],
+      "money_mentions": 10,
+      "money_record_ids": [
+        "00bbf76c16b13379",
+        "4664a9a8f1829172",
+        "540643146f3229f9",
+        "5567328d3e4acb3d",
+        "7b7a116edc60d75b",
+        "86bccf85c3bd0d05",
+        "8c034d5529c5cdfa",
+        "c407ba16f5d62331",
+        "eb4123f713d2b51d",
+        "f348557b17cbb13f"
+      ],
+      "record_count": 11,
+      "seller_record_ids": [
+        "1b52fd10e25247a1",
+        "3df66f5b4dd03494"
+      ],
+      "seller_records": 2
     },
     "cash-crunch": {
       "failed_spend_mentions": 0,
       "failed_spend_record_ids": [],
       "label": "Cash is stuck in stock, ads and payouts",
       "media_record_ids": [
-        "69b4f53b7ed00767"
+        "69b4f53b7ed00767",
+        "b872a4b93a2377ec"
       ],
-      "media_records": 1,
-      "member_record_ids": [],
-      "money_mentions": 0,
-      "money_record_ids": [],
-      "record_count": 0,
+      "media_records": 2,
+      "member_record_ids": [
+        "088b6d97b86acc6d",
+        "0c2c8459f9f133f7",
+        "3acc4a3242420660",
+        "49d7b29ea9338378",
+        "4b3e83e87b95194f",
+        "4f47898ead1d73c5",
+        "66f52f3c9200f338",
+        "7908bdfada933be8",
+        "7a6eeb805a642498",
+        "8cf5b8f94e03d46b",
+        "91ed945a0e3a2935",
+        "94f76c4858f854fa",
+        "996d01033ab0a87c",
+        "a64a5e46ea612083",
+        "adc1475c491bfbcc",
+        "b60a1660f059605d",
+        "bed683427f3e2250",
+        "c1775240867ce377",
+        "cc27830f65971555",
+        "da9e9dd74040d279",
+        "eda9ef82f5af00a3",
+        "f0d5082951343da7",
+        "f33cabd0fa477f6c",
+        "fc80e1c83f0b43a3"
+      ],
+      "money_mentions": 24,
+      "money_record_ids": [
+        "088b6d97b86acc6d",
+        "0c2c8459f9f133f7",
+        "3acc4a3242420660",
+        "49d7b29ea9338378",
+        "4b3e83e87b95194f",
+        "4f47898ead1d73c5",
+        "66f52f3c9200f338",
+        "7908bdfada933be8",
+        "7a6eeb805a642498",
+        "8cf5b8f94e03d46b",
+        "91ed945a0e3a2935",
+        "94f76c4858f854fa",
+        "996d01033ab0a87c",
+        "a64a5e46ea612083",
+        "adc1475c491bfbcc",
+        "b60a1660f059605d",
+        "bed683427f3e2250",
+        "c1775240867ce377",
+        "cc27830f65971555",
+        "da9e9dd74040d279",
+        "eda9ef82f5af00a3",
+        "f0d5082951343da7",
+        "f33cabd0fa477f6c",
+        "fc80e1c83f0b43a3"
+      ],
+      "record_count": 24,
       "seller_record_ids": [
         "07a7053c5fe9a271",
+        "150fd5717077c644",
+        "16a581af7524ce92",
         "280a92c14ed02676",
+        "4a255e5d32ab3740",
         "aeb48ff58d481d7a",
+        "b68eec101af8abae",
         "cf02a1f75b1bf72c",
         "d0960f24d81eba1c",
         "d0ba333a844e3437",
-        "d5cd8227c12c3278"
+        "d5cd8227c12c3278",
+        "e5808a1367f3084d",
+        "e734c63014889c7f"
       ],
-      "seller_records": 7
+      "seller_records": 13
     },
     "channel-fees-margin": {
       "failed_spend_mentions": 0,
@@ -211,51 +424,117 @@
         "428c47e4533f7e82",
         "429db4edb9bf1ccb",
         "4b19ff10927123cc",
+        "7a0a46239189983d",
         "908dd832ab254626",
         "96ba0e86ecc63be8",
+        "bb80ccd75d5842a7",
         "e2f34b5aa2858e97",
         "fd4edc1de895d800"
       ],
-      "media_records": 8,
-      "member_record_ids": [],
-      "money_mentions": 0,
-      "money_record_ids": [],
-      "record_count": 0,
+      "media_records": 10,
+      "member_record_ids": [
+        "2f2a041be4614586",
+        "3031047c01787864",
+        "3d952549225030a9",
+        "412f77e86079fd60",
+        "53602d5996bbca42",
+        "6424269a8d8077c1",
+        "65fd2842adba4e46",
+        "ae741e5064fffe44",
+        "cda10c10a4160bb0",
+        "ce30f04a5c1cb928",
+        "d779e1482251133f",
+        "df21a44fe05f0300",
+        "ff66328e52c0dfe3"
+      ],
+      "money_mentions": 13,
+      "money_record_ids": [
+        "2f2a041be4614586",
+        "3031047c01787864",
+        "3d952549225030a9",
+        "412f77e86079fd60",
+        "53602d5996bbca42",
+        "6424269a8d8077c1",
+        "65fd2842adba4e46",
+        "ae741e5064fffe44",
+        "cda10c10a4160bb0",
+        "ce30f04a5c1cb928",
+        "d779e1482251133f",
+        "df21a44fe05f0300",
+        "ff66328e52c0dfe3"
+      ],
+      "record_count": 13,
       "seller_record_ids": [
         "096b9a0abd7b6801",
         "263aef7bdd4c27ba",
         "2bde5cd7a88b7946",
         "55989e3e9b3701bc",
+        "56296e89b149aee5",
         "58a52043559223f4",
+        "66e6e40d4bbb35dd",
         "6bba7143caf384f1",
         "6de015a131e8a072",
         "881845e15aca74fb",
         "90ec7d0f1ef9b3ba",
         "91e75a53a9cf8cf7",
+        "96cae7f2306bae5d",
+        "96e877b38f87d800",
         "b0b04cbb84e919a1",
+        "b8904732bb05ebec",
         "c7aae67e26de5df3",
+        "dd5ea47cccfb1988",
+        "ec86adc722cc2838",
         "fe4fe9704e42c0c5"
       ],
-      "seller_records": 13
+      "seller_records": 20
     },
     "chargebacks-fraud": {
       "failed_spend_mentions": 0,
       "failed_spend_record_ids": [],
       "label": "We lose chargebacks to scammers",
-      "media_record_ids": [],
-      "media_records": 0,
+      "media_record_ids": [
+        "5ea090d2b9c1902e"
+      ],
+      "media_records": 1,
       "member_record_ids": [
         "025746bdd487cb66",
-        "08452450ef75535f"
+        "03d1dad9c6be1e24",
+        "08452450ef75535f",
+        "0864e72b9b1f7306",
+        "1dcfc8c685f08904",
+        "48a0dec295d5ae21",
+        "8851ae2863a91591",
+        "8fc363bcfb4f1e6a",
+        "a73708cbd7c017f8",
+        "abfd0094eb165959",
+        "b2265d3640cc70be",
+        "b90a28477bdef034",
+        "e0d6e970e7081e59",
+        "e6e0b5955fe363da",
+        "f4f459f82ae9bdce"
       ],
-      "money_mentions": 2,
+      "money_mentions": 9,
       "money_record_ids": [
         "025746bdd487cb66",
-        "08452450ef75535f"
+        "08452450ef75535f",
+        "0864e72b9b1f7306",
+        "1dcfc8c685f08904",
+        "48a0dec295d5ae21",
+        "8851ae2863a91591",
+        "a73708cbd7c017f8",
+        "abfd0094eb165959",
+        "b2265d3640cc70be"
       ],
-      "record_count": 2,
-      "seller_record_ids": [],
-      "seller_records": 0
+      "record_count": 15,
+      "seller_record_ids": [
+        "878d32f176735df7",
+        "8bbc72b4cbd6d4df",
+        "b39ff1b315ef8a1b",
+        "c23b8ddc1ceaefde",
+        "e8d5521029ff3fac",
+        "f9781db32526642c"
+      ],
+      "seller_records": 6
     },
     "cod-settings-shopify": {
       "failed_spend_mentions": 0,
@@ -264,60 +543,130 @@
       "media_record_ids": [],
       "media_records": 0,
       "member_record_ids": [
+        "0185b199a966befe",
+        "0b30afd3c9d1b057",
+        "194895d896551cbc",
+        "382a559885bc88b2",
         "409beceabd941f04",
         "5b828d8fc9ab04b5",
+        "611d932d95d1d604",
+        "6f00d3dca891af13",
+        "7500aaa6e1ecbc4f",
+        "805e125e218d6fee",
+        "963806d8a57135ed",
+        "ab2d716e56008848",
         "aefb9824ad10f07f",
+        "b1fccbe926ab0146",
         "c50a02a96415acb0",
+        "ce772e0b04d6dd82",
         "d4baa91e7e69e14d",
         "e6f384210e91f522",
-        "e9c6580270af1c37"
+        "e9c6580270af1c37",
+        "faff0a7f212b7879"
       ],
-      "money_mentions": 3,
+      "money_mentions": 5,
       "money_record_ids": [
+        "0b30afd3c9d1b057",
+        "ab2d716e56008848",
         "c50a02a96415acb0",
         "e6f384210e91f522",
         "e9c6580270af1c37"
       ],
-      "record_count": 7,
+      "record_count": 20,
       "seller_record_ids": [
         "87856d296b1e5b28",
+        "c2f01cd774ac4dbd",
         "c7a8a45b8f9d1210"
       ],
-      "seller_records": 2
+      "seller_records": 3
     },
     "compliance-rules": {
       "failed_spend_mentions": 0,
       "failed_spend_record_ids": [],
       "label": "New e-commerce rules to comply with (labels, GST)",
       "media_record_ids": [
+        "0c0d39dc5925c5fe",
         "1c4def12fae04273",
+        "2e876a4579cbda2d",
+        "2f84de8934e3e924",
+        "52198a306c3a23a5",
         "572b5fabd32b6508",
         "6f32516a1a1cd2a0",
         "7705d9c7eaffea7a",
         "8f2903269486a3b0",
+        "8fa2cabc30ecae68",
         "9b44b0b498564e41",
-        "a6682127d8442980"
+        "a6682127d8442980",
+        "afb1eb9da38d8f44",
+        "b7ea0d8ad51ecaeb",
+        "bb7b244d4ebe8d4d",
+        "c905f1cef8204f3e",
+        "cc874997c89e2954",
+        "e0509051f4f0d710",
+        "f9f93d35e8648d0d",
+        "fe5145577e60679a"
       ],
-      "media_records": 7,
-      "member_record_ids": [],
-      "money_mentions": 0,
-      "money_record_ids": [],
-      "record_count": 0,
+      "media_records": 20,
+      "member_record_ids": [
+        "25bc62a9852765c0",
+        "44f4125c3dfb77e9",
+        "48c4de5d99c76653",
+        "76e861d13c85db3c",
+        "7d30577435398e2d",
+        "9ce1fc6bb9797cd2",
+        "bbdc50de0ae1bba1",
+        "bce0d51b798e3db6",
+        "c32807c0f55fc70e",
+        "dcc5be5971f90f58",
+        "f2e45436a8c626ca",
+        "fc1c3856b51bf39c"
+      ],
+      "money_mentions": 6,
+      "money_record_ids": [
+        "25bc62a9852765c0",
+        "48c4de5d99c76653",
+        "7d30577435398e2d",
+        "c32807c0f55fc70e",
+        "dcc5be5971f90f58",
+        "f2e45436a8c626ca"
+      ],
+      "record_count": 12,
       "seller_record_ids": [
+        "08970e20b70403c2",
+        "126fad3e5504e415",
+        "2172549ebbcd6338",
         "27d6592d589b7e0f",
+        "35a2d95dd7886c89",
+        "3ff1de4b922d3595",
         "4685a2a04e9e8ac0",
+        "5490452afbce67d6",
+        "720199399f976c15",
         "80e17b8517986597",
+        "81cb5e2ad338b84a",
         "8b25442c4bc7099c",
         "8ccebb1133c0040a",
         "919f55aa59bcc897",
+        "95f60dd30fa427e4",
         "963e44a64053083d",
+        "9babf1e3599fdb7a",
+        "a15f612dde8824d6",
+        "a190bcec75769ff9",
         "a7538907edcf8a8a",
+        "ad1fb442c8a5ab22",
+        "afd030dadf3154ce",
+        "bca8bce45bd587fe",
+        "bd8aeb5639909e42",
+        "c534967636995431",
         "cb52c1f18eea12ee",
+        "d1b26afac1b9b8f6",
+        "d6173005dd0c536e",
         "dc8c9dc145a3103b",
+        "e04fd04660021505",
         "e770c1fef89b4631",
+        "eef6a9984d5995f5",
         "f688baa69273253d"
       ],
-      "seller_records": 12
+      "seller_records": 33
     },
     "courier-aggregator-failures": {
       "failed_spend_mentions": 0,
@@ -328,17 +677,55 @@
       "member_record_ids": [
         "06d646e4a20f7a8f",
         "0cd11805cfbe6a27",
+        "299573d1a7c1ed9b",
+        "321afe08ddee765a",
+        "4c9805638c90a269",
+        "609e682ce86d1b8e",
         "715fd68e600aea43",
+        "81676bebce38b436",
         "a1077f5e8ec43ec6",
-        "ea964890c23928a7"
+        "d688dce9963b8692",
+        "ea964890c23928a7",
+        "eb7d8217ea11ea77"
       ],
-      "money_mentions": 0,
-      "money_record_ids": [],
-      "record_count": 5,
+      "money_mentions": 2,
+      "money_record_ids": [
+        "81676bebce38b436",
+        "d688dce9963b8692"
+      ],
+      "record_count": 12,
       "seller_record_ids": [
         "d2597ffb74c4c683"
       ],
       "seller_records": 1
+    },
+    "emails-land-in-spam": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Our emails land in spam and open rates keep dropping",
+      "media_record_ids": [],
+      "media_records": 0,
+      "member_record_ids": [
+        "3d4f8c13bfa5394e",
+        "400326181d7b0df7",
+        "47acd1286faa3490",
+        "4ae6f3ae94765114",
+        "51d4b83ae95f5876",
+        "7033e44f26baa74f",
+        "709c7336bddaba11",
+        "777952a505d005ea",
+        "7a26e64da4da48b0",
+        "7b2f0510316d97fc",
+        "a32b2349a0521523",
+        "ed229618aa13c7b0",
+        "f03ee2f0bac0abd3",
+        "f5bf391ab152d89f"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 14,
+      "seller_record_ids": [],
+      "seller_records": 0
     },
     "no-path-to-profit": {
       "failed_spend_mentions": 0,
@@ -350,13 +737,18 @@
         "1ea0f5175485e387",
         "265c66ad29d76d08",
         "43077dc2d6aaed2e",
+        "619c9d3febeb980f",
+        "7a4fadf816f169ad",
+        "90183f2b70c05970",
         "945903a145f07c25",
         "a29c125615c0f86b",
         "b3f3dcee171ee7aa",
+        "b50c70359fc8affe",
+        "bc23416c003e1934",
         "c06da1d8f468958d",
         "db48ef1e93d9a9ca"
       ],
-      "media_records": 10,
+      "media_records": 15,
       "member_record_ids": [],
       "money_mentions": 0,
       "money_record_ids": [],
@@ -391,16 +783,18 @@
       ],
       "media_records": 13,
       "member_record_ids": [
+        "299573d1a7c1ed9b",
         "72981b20b6b0a989",
         "8994ae0d835a2fa8",
         "a000d2d4b412cbe9",
+        "ea571ead87b8ada7",
         "f18f92e0a5037512"
       ],
       "money_mentions": 1,
       "money_record_ids": [
         "72981b20b6b0a989"
       ],
-      "record_count": 4,
+      "record_count": 6,
       "seller_record_ids": [
         "005f71e42127c456",
         "063866b9719a6c2a",
@@ -408,6 +802,7 @@
         "13c31cafa26ac513",
         "145dc9b0b9f4d9b8",
         "1f7f78e303277052",
+        "2a80dd646e42eced",
         "31f4f6ac45099743",
         "330f10350d2bda6c",
         "33c062792d9d1383",
@@ -454,7 +849,7 @@
         "faa89c60c064ce44",
         "fac212c42e83684f"
       ],
-      "seller_records": 51
+      "seller_records": 52
     },
     "search-traffic-loss": {
       "failed_spend_mentions": 0,
@@ -467,19 +862,21 @@
         "5ba3d01c3bf2e2f7",
         "71170800c28bb989",
         "7283d78b3b2be3b0",
+        "a5832e21d13063be",
         "a6207f2878179c86",
         "aab3d4b368376086",
         "c756d5e26f7fc4be",
         "c7f20ef209b7d925",
         "fe6e8bc1df17aa06"
       ],
-      "media_records": 11,
+      "media_records": 12,
       "member_record_ids": [
-        "75301f92731f9b2d"
+        "75301f92731f9b2d",
+        "d46d53a49ee77d5f"
       ],
       "money_mentions": 0,
       "money_record_ids": [],
-      "record_count": 1,
+      "record_count": 2,
       "seller_record_ids": [
         "12e3f1237e964656",
         "15f3ffab77f6c520",
@@ -495,11 +892,12 @@
         "80ba6631e6e183f5",
         "afa3bb71dd065738",
         "bc9deb10e70ab4db",
+        "ca670b09340000e3",
         "de5971b6accb553d",
         "e54bb64d38a289d3",
         "fab2740b7a1a374d"
       ],
-      "seller_records": 17
+      "seller_records": 18
     },
     "shipping-costs-confusing": {
       "failed_spend_mentions": 0,
@@ -508,17 +906,25 @@
       "media_record_ids": [],
       "media_records": 0,
       "member_record_ids": [
+        "2b83136d80e81425",
+        "48c4de5d99c76653",
+        "4f389be1ea1dc886",
         "5ad2b03aec3f0415",
         "6ecde067389682ce",
-        "87c36eb5f4d52b0a"
+        "87c36eb5f4d52b0a",
+        "d688dce9963b8692"
       ],
-      "money_mentions": 3,
+      "money_mentions": 7,
       "money_record_ids": [
+        "2b83136d80e81425",
+        "48c4de5d99c76653",
+        "4f389be1ea1dc886",
         "5ad2b03aec3f0415",
         "6ecde067389682ce",
-        "87c36eb5f4d52b0a"
+        "87c36eb5f4d52b0a",
+        "d688dce9963b8692"
       ],
-      "record_count": 3,
+      "record_count": 7,
       "seller_record_ids": [],
       "seller_records": 0
     },
@@ -531,10 +937,16 @@
         "bf7f5b5f8d62dae0"
       ],
       "media_records": 2,
-      "member_record_ids": [],
-      "money_mentions": 0,
-      "money_record_ids": [],
-      "record_count": 0,
+      "member_record_ids": [
+        "1274158b89297cbe",
+        "3e2f833c4fa569b4",
+        "c36ea4ed2921c2b9"
+      ],
+      "money_mentions": 1,
+      "money_record_ids": [
+        "c36ea4ed2921c2b9"
+      ],
+      "record_count": 3,
       "seller_record_ids": [
         "00e9bd08d528c312",
         "066dfbd84ad33f6c",
@@ -567,6 +979,8 @@
       "seller_record_ids": [
         "0cfb8706a1c62f8e",
         "46cee82ff9c2e686",
+        "64198e03b438c4f1",
+        "6bcfa7a18460e420",
         "80f5bf8a06791044",
         "811868c798bcfcaa",
         "82a30c275bae871d",
@@ -580,7 +994,7 @@
         "e5d2a69262c1d1b7",
         "f496dc18a5c35ea3"
       ],
-      "seller_records": 14
+      "seller_records": 16
     },
     "whatsapp-order-updates": {
       "failed_spend_mentions": 0,
@@ -590,14 +1004,21 @@
       "media_records": 0,
       "member_record_ids": [
         "041d71a90432fd16",
+        "05857884021c7591",
+        "0aa858a7d3bb28d5",
         "18e2a21b7323430b",
         "6477aa84a63e26ab",
         "65b5fc41b3323265",
-        "6eb9975d8c270695"
+        "6eb9975d8c270695",
+        "714d21683fbd9ba1",
+        "9e633e035a371c2b",
+        "b36e6a103125d1cb"
       ],
-      "money_mentions": 0,
-      "money_record_ids": [],
-      "record_count": 5,
+      "money_mentions": 1,
+      "money_record_ids": [
+        "0aa858a7d3bb28d5"
+      ],
+      "record_count": 10,
       "seller_record_ids": [
         "03fc5341b4a04220",
         "1228aa3519979089",
@@ -618,38 +1039,44 @@
       "seller_records": 15
     }
   },
-  "records_in_manifest": 988,
+  "records_in_manifest": 1827,
   "room": "d2c-brands-scaling-past-launch",
   "totals": {
     "by_kind": {
-      "blog_or_site": 465,
-      "forum": 54,
-      "jobs": 71,
-      "news": 33,
-      "qa": 68,
-      "reviews": 188,
-      "social": 26,
-      "video": 83
+      "blog_or_site": 816,
+      "forum": 252,
+      "jobs": 97,
+      "news": 34,
+      "official": 47,
+      "qa": 176,
+      "reviews": 270,
+      "social": 41,
+      "video": 94
     },
     "by_source": {
-      "websearch": 988
+      "websearch": 1827
     },
     "by_voice": {
-      "media": 175,
-      "member": 75,
-      "other": 310,
-      "seller": 428
+      "media": 255,
+      "member": 314,
+      "other": 648,
+      "seller": 610
     },
-    "failed_spend_mentions": 2,
-    "member_records": 75,
-    "member_records_with_pain": 65,
-    "money_mentions": 12,
+    "failed_spend_mentions": 5,
+    "member_records": 314,
+    "member_records_by_round": {
+      "1": 75,
+      "2": 239
+    },
+    "member_records_with_pain": 228,
+    "money_mentions": 114,
     "source_kind_min_records": 5,
     "source_kinds": [
       "blog_or_site",
       "forum",
       "jobs",
       "news",
+      "official",
       "qa",
       "reviews",
       "social",
