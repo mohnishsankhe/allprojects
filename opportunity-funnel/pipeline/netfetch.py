@@ -6,12 +6,22 @@ cache/robots/), retries on 429 and 5xx with Retry-After, no retries on 401/403.
 API keys never reach the cache: query parameters named key, api_key, access_token,
 client_secret and token are stripped from cache keys and stored URLs.
 
+The rate limits are shared across processes: the listeners run one process per
+room in parallel against the same APIs, so the last request time per domain and
+the Reddit sliding window live in cache/ratelimit/<name>.json, read and updated
+under a file lock (fcntl.flock). A process that arrives inside the interval waits
+while holding the lock, so N parallel rooms together send one request per interval.
+
 Public API
 ----------
     class FetchError(Exception)          .url, .status (HTTP status or None)
     class NetworkBlocked(common.Blocked, FetchError)   .domain; exit code 3
     class RobotsDisallowed(FetchError)   .url
     offline() -> bool                    FUNNEL_OFFLINE == "1"
+    shared_window_wait(name, per_minute) -> float
+        the cross-process sliding window (at most per_minute calls in any 60 s, over every process);
+        returns the seconds waited
+    ratelimit_dir() -> Path              cache/ratelimit/
     strip_key_params(url) -> str         the URL without secret query parameters
     cache_key(url, params=None) -> str   sha256 hex of the stripped URL (+ params)
     cache_path(url, params=None) -> Path cache/http/<key>.json
@@ -33,6 +43,7 @@ Tests replace `_http_get` and `_sleep`.
 """
 from __future__ import annotations
 
+import contextlib
 import datetime as _dt
 import email.utils
 import hashlib
@@ -49,6 +60,11 @@ from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 import requests
 
 import common
+
+try:
+    import fcntl
+except ImportError:  # pragma: no cover - not a POSIX system; the limits then hold per process only
+    fcntl = None
 
 SECRET_PARAMS = frozenset({"key", "api_key", "access_token", "client_secret", "token"})
 RETRY_STATUSES = frozenset({429, 500, 502, 503, 504})
@@ -204,16 +220,80 @@ def _response_is_proxy_block(resp) -> bool:
     return "agentproxy" in body or "egress policy" in body
 
 
-# --------------------------------------------------------------------------- rate limit
-def _rate_limit(domain: str) -> None:
+# --------------------------------------------------------------------------- rate limit (shared across processes)
+def ratelimit_dir() -> Path:
+    return common.funnel_root() / "cache" / "ratelimit"
+
+
+def _safe_name(name: str) -> str:
+    return re.sub(r"[^a-z0-9._-]+", "_", str(name or "").lower()).strip("_") or "default"
+
+
+@contextlib.contextmanager
+def _locked_state(name: str):
+    """Yield (state dict, save) for cache/ratelimit/<name>.json while holding its lock file."""
+    d = ratelimit_dir()
+    d.mkdir(parents=True, exist_ok=True)
+    data_path = d / f"{_safe_name(name)}.json"
+    lock_path = d / f"{_safe_name(name)}.lock"
+    with open(lock_path, "a+", encoding="utf-8") as lock:
+        if fcntl is not None:
+            fcntl.flock(lock.fileno(), fcntl.LOCK_EX)
+        try:
+            try:
+                state = json.loads(data_path.read_text(encoding="utf-8"))
+                if not isinstance(state, dict):
+                    state = {}
+            except (OSError, json.JSONDecodeError):
+                state = {}
+
+            def save(new_state: dict) -> None:
+                data_path.write_text(json.dumps(new_state, sort_keys=True) + "\n", encoding="utf-8")
+
+            yield state, save
+        finally:
+            if fcntl is not None:
+                fcntl.flock(lock.fileno(), fcntl.LOCK_UN)
+
+
+def _rate_limit(domain: str) -> float:
+    """Wait until `interval` seconds have passed since the last request to `domain` by ANY process.
+    The wait happens while the lock is held, so parallel processes take turns. Returns the seconds waited."""
     interval = _min_interval()
-    last = _last_request_at.get(domain)
-    now = time.monotonic()
-    if last is not None and interval > 0:
-        wait = interval - (now - last)
-        if wait > 0:
-            _sleep(wait)
+    if interval <= 0:
+        _last_request_at[domain] = time.monotonic()
+        return 0.0
+    waited = 0.0
+    with _locked_state(f"domain-{domain}") as (state, save):
+        last = state.get("last")
+        now = time.time()
+        if isinstance(last, (int, float)):
+            wait = interval - (now - float(last))
+            if wait > 0:
+                _sleep(wait)
+                waited = wait
+        save({"last": time.time(), "domain": domain})
     _last_request_at[domain] = time.monotonic()
+    return waited
+
+
+def shared_window_wait(name: str, per_minute: int) -> float:
+    """At most `per_minute` calls in any 60-second window across every process (a sliding window kept
+    in cache/ratelimit/<name>.json). Extra calls wait while holding the lock. Returns the seconds waited."""
+    per_minute = max(1, int(per_minute))
+    waited = 0.0
+    with _locked_state(f"window-{name}") as (state, save):
+        now = time.time()
+        times = [float(t) for t in (state.get("times") or []) if isinstance(t, (int, float))]
+        times = [t for t in times if now - t < 60.0]
+        if len(times) >= per_minute:
+            waited = max(0.0, 60.0 - (now - times[0]))
+            _sleep(waited)
+            now = time.time()
+            times = times[1:]
+        times.append(now)
+        save({"name": name, "per_minute": per_minute, "times": times[-per_minute:]})
+    return waited
 
 
 def _retry_after_seconds(headers, attempt: int) -> float:

@@ -348,9 +348,9 @@ def cmd_saturation(args) -> int:
 def register(subparsers) -> None:
     p = subparsers.add_parser("count", help="Validate a room's labels and write counts.json.")
     p.add_argument("--room", required=True, help="room slug")
-    p.set_defaults(func=cmd_count)
+    p.set_defaults(func=cmd_count, stage_no=STAGE)
     s = subparsers.add_parser("saturation", help="Decide whether a room's last window of records changed the answer.")
     s.add_argument("--room", required=True, help="room slug")
     s.add_argument("--final", action="store_true", help="record why the room stopped (with --stop-reason)")
     s.add_argument("--stop-reason", choices=STOP_REASONS, default=None, help="saturated, exhausted or max_rounds")
-    s.set_defaults(func=cmd_saturation)
+    s.set_defaults(func=cmd_saturation, stage_no=STAGE)

@@ -5,17 +5,22 @@ normalize_ws(quote) is a substring of normalize_ws(record.text), and it has at
 least quote_min_words words. Case, punctuation, curly quotes and dashes must
 match. A quote may be the whole record (a title). If the quote's url or date
 differs from the record, the stored values replace them (citation corrected).
+One piece of evidence counts once: a quote that repeats an earlier verified
+quote of the same record, or is contained in it (or contains it), fails with
+reason `duplicate` and does not count toward min_verified_quotes.
 
 Public API
 ----------
-    REASONS = ("ok", "record_missing", "not_substring", "too_short", "empty")
+    REASONS = ("ok", "record_missing", "not_substring", "too_short", "empty", "duplicate")
     CSV_COLUMNS                       the quote_check.csv columns
     count_words(text) -> int
     check_quote(quote, records_by_id, min_words) -> dict
         {"status": "pass"|"fail", "reason", "citation_corrected": bool, "record_id", "url", "date", "quote"}
         url and date are the stored record's when it exists.
+    is_duplicate_quote(record_id, text, verified) -> bool
+        the quote repeats, contains or sits inside an already verified quote of the same record
     check_quotes(pain_id, quotes, records_by_id, min_words) -> (verified, rows)
-        verified: quotes that pass, as {"record_id", "url", "date", "text"} with corrected citations
+        verified: distinct quotes that pass, as {"record_id", "url", "date", "text"} with corrected citations
         rows: one CSV row dict per quote (pain_id, record_id, status, reason, citation_corrected, url, date, quote)
     write_csv(path, rows) -> None
     min_words_from_rules(rules=None) -> int
@@ -30,7 +35,7 @@ import common
 import records
 
 STAGE = 3
-REASONS = ("ok", "record_missing", "not_substring", "too_short", "empty")
+REASONS = ("ok", "record_missing", "not_substring", "too_short", "empty", "duplicate")
 CSV_COLUMNS = ["pain_id", "record_id", "status", "reason", "citation_corrected", "url", "date", "quote"]
 
 
@@ -78,11 +83,25 @@ def check_quote(quote, records_by_id: dict, min_words: int) -> dict:
     }
 
 
+def is_duplicate_quote(record_id: str, text: str, verified) -> bool:
+    """True when `text` repeats an earlier verified quote of the same record, contains it or sits inside it."""
+    norm = common.normalize_ws(text)
+    for v in verified or []:
+        if v.get("record_id") != record_id:
+            continue
+        prev = common.normalize_ws(v.get("text") or "")
+        if norm == prev or norm in prev or prev in norm:
+            return True
+    return False
+
+
 def check_quotes(pain_id: str, quotes, records_by_id: dict, min_words: int) -> tuple:
     verified = []
     rows = []
     for q in quotes or []:
         r = check_quote(q, records_by_id, min_words)
+        if r["status"] == "pass" and is_duplicate_quote(r["record_id"], r["quote"], verified):
+            r["status"], r["reason"], r["citation_corrected"] = "fail", "duplicate", False
         rows.append({
             "pain_id": pain_id,
             "record_id": r["record_id"],
@@ -118,6 +137,9 @@ def _explain(reason: str, rid: str, room: str) -> str:
                 f"`funnel show --room {room} --ids {rid}`.")
     if reason == "too_short":
         return "too few words. Quote a longer passage."
+    if reason == "duplicate":
+        return (f"the same words (or a part of them) were already quoted from record {rid}. One piece of evidence "
+                f"counts once: quote a different passage or a different record.")
     return reason
 
 
@@ -165,4 +187,4 @@ def cmd_quote_check(args) -> int:
 def register(subparsers) -> None:
     p = subparsers.add_parser("quote-check", help="Check every quote in a room's pains_draft.json against stored records.")
     p.add_argument("--room", required=True, help="room slug")
-    p.set_defaults(func=cmd_quote_check)
+    p.set_defaults(func=cmd_quote_check, stage_no=STAGE)

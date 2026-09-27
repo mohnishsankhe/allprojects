@@ -70,11 +70,36 @@ def build_parser(modules=None) -> argparse.ArgumentParser:
     return parser
 
 
+def _stage_of(args) -> int:
+    """The stage a command belongs to, for the run log: the subparser's stage_no, else its --stage, else 0."""
+    stage = getattr(args, "stage_no", None)
+    if isinstance(stage, int) and not isinstance(stage, bool):
+        return stage
+    stage = getattr(args, "stage", None)
+    if isinstance(stage, int) and not isinstance(stage, bool):
+        return stage
+    return 0
+
+
 def _log_failure(args, err: common.FunnelError) -> None:
+    """Record the error under the command's own stage. Never creates the run folder: a command that
+    failed before anything ran must not leave an empty runs/<today>/ behind."""
     try:
         run = common.run_dir(getattr(args, "run", None))
-        common.log_event(run, 0, getattr(args, "command", "?"), "error", code=err.code, errors=err.error_lines())
+        common.log_event(run, _stage_of(args), getattr(args, "command", "?"), "error", create_run=False,
+                         code=err.code, errors=err.error_lines())
     except Exception:  # noqa: BLE001 - logging must never hide the real error
+        pass
+
+
+def _log_dry_run(args) -> None:
+    """Mark the run log when a command ran with --dry-run, so `status` and `progress` can say so."""
+    try:
+        run = common.run_dir(getattr(args, "run", None))
+        common.log_event(run, _stage_of(args), getattr(args, "command", "?"), "note", create_run=False, dry_run=True,
+                         review=False, note=f"{getattr(args, 'command', '?')} ran with --dry-run: count ranges were "
+                                            f"warnings and missing inputs were skipped; its outputs are not a finished run")
+    except Exception:  # noqa: BLE001 - a marker must never break the command
         pass
 
 
@@ -91,6 +116,8 @@ def main(argv=None) -> int:
     common.set_dry_run(args.dry_run)
     try:
         rc = args.func(args)
+        if args.dry_run:
+            _log_dry_run(args)
         return int(rc or 0)
     except common.FunnelError as e:
         _log_failure(args, e)

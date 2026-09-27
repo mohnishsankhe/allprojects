@@ -14,12 +14,21 @@ Public API
         queries.jsonl lines validated; each gets "query_index" (1-based line position)
     parse_tool_result_text(text) -> dict | None
         {"query", "links": [{"title", "url"}]} from a tool_result string, or None
-    parse_transcript_line(line) -> list[dict]
-        every search result on one transcript line, in either form
-    iter_search_results(root) -> iterator of (path, result)   files sorted, lines in order
+    scan_transcript_line(line, tool_names) -> (results, skipped_non_search)
+        every search result on one transcript line, in either form. `tool_names` (a dict the caller keeps per
+        transcript file) collects every assistant `tool_use` block's id -> tool name; the text form is accepted
+        only when the block's tool_use_id belongs to WebSearch, and a line whose `toolUseResult` is not the
+        search shape (a Bash result with stdout/stderr, a file read, an error string) is skipped outright.
+        Rule 1: the model can type a search-shaped text through Bash, but it cannot forge the tool's identity.
+    parse_transcript_line(line, tool_names=None) -> list[dict]
+        the results only; with tool_names None the identity check is skipped (for parsing a bare string)
+    iter_search_results(root, stats=None) -> iterator of (path, result)
+        files sorted, lines in order; one tool_names map per file; stats["skipped_non_search"] is counted
     is_junk_title(title) -> bool     empty, a bare domain or URL, or fewer than 3 words
     link_to_record(link, query, rank) -> dict   the record to store (before anonymizing)
     harvest(run, room, transcripts=None) -> dict   summary counts (see cmd)
+        A link whose URL is a person's profile or channel page (anonymize.is_profile_url) is never stored:
+        rule 5 keeps only the URL of the post itself. Counted as skipped_profile_pages.
     register(subparsers)             adds `harvest-search`
 """
 from __future__ import annotations
@@ -31,10 +40,12 @@ from pathlib import Path
 
 import common
 import records
+from anonymize import is_profile_url
 from netfetch import url_date_info
 
 STAGE = 3
 SOURCE = "websearch"
+SEARCH_TOOL = "WebSearch"
 QUERY_KINDS = ("forum", "video", "reviews", "qa", "blog", "pricing", "jobs", "official", "phrasing")
 SEARCH_PREFIX = 'Web search results for query: "'
 _LINKS_MARK = "Links: "
@@ -116,26 +127,42 @@ def parse_tool_result_text(text: str):
     return {"query": query, "links": _links_from_array(arr if isinstance(arr, list) else [])}
 
 
-def parse_transcript_line(line: str) -> list:
-    """Search results on one transcript line. A line with both forms is read once (the structured one)."""
-    if SEARCH_PREFIX[:-1] not in line and '"toolUseResult"' not in line:
-        return []
+def _is_search_shape(tur) -> bool:
+    return isinstance(tur, dict) and isinstance(tur.get("query"), str) and isinstance(tur.get("results"), list)
+
+
+def scan_transcript_line(line: str, tool_names) -> tuple:
+    """(search results, skipped_non_search) for one line. See the module doc for the identity check.
+
+    A line with both forms is read once (the structured one). An assistant line adds its `tool_use`
+    ids to `tool_names` and yields nothing.
+    """
+    strict = tool_names is not None
+    if (SEARCH_PREFIX[:-1] not in line and '"toolUseResult"' not in line
+            and not (strict and '"tool_use"' in line)):
+        return [], 0
     try:
         d = json.loads(line)
     except json.JSONDecodeError:
-        return []
+        return [], 0
     if not isinstance(d, dict):
-        return []
+        return [], 0
+    msg = d.get("message")
+    content = msg.get("content") if isinstance(msg, dict) else None
+    if strict and d.get("type") == "assistant":
+        for block in content if isinstance(content, list) else []:
+            if isinstance(block, dict) and block.get("type") == "tool_use" and isinstance(block.get("id"), str):
+                tool_names[block["id"]] = str(block.get("name") or "")
+        return [], 0
     tur = d.get("toolUseResult")
-    if isinstance(tur, dict) and isinstance(tur.get("query"), str) and isinstance(tur.get("results"), list):
+    if _is_search_shape(tur):
         links = []
         for item in tur["results"]:
             if isinstance(item, dict) and isinstance(item.get("content"), list):
                 links.extend(_links_from_array(item["content"]))
-        return [{"query": tur["query"], "links": links}]
+        return [{"query": tur["query"], "links": links}], 0
     out = []
-    msg = d.get("message")
-    content = msg.get("content") if isinstance(msg, dict) else None
+    skipped = 0
     if isinstance(content, list):
         for block in content:
             if not isinstance(block, dict) or block.get("type") != "tool_result":
@@ -150,18 +177,31 @@ def parse_transcript_line(line: str) -> list:
                         texts.append(t["text"])
             for t in texts:
                 parsed = parse_tool_result_text(t)
-                if parsed:
-                    out.append(parsed)
-    return out
+                if not parsed:
+                    continue
+                if strict and (tur is not None or tool_names.get(block.get("tool_use_id")) != SEARCH_TOOL):
+                    skipped += 1  # another tool's output shaped like a search result: never a record
+                    continue
+                out.append(parsed)
+    return out, skipped
 
 
-def iter_search_results(root: Path):
+def parse_transcript_line(line: str, tool_names=None) -> list:
+    """Search results on one transcript line (the identity check runs only with a `tool_names` map)."""
+    return scan_transcript_line(line, tool_names)[0]
+
+
+def iter_search_results(root: Path, stats=None):
     files = sorted(p for p in Path(root).rglob("*.jsonl") if p.is_file())
     for p in files:
+        tool_names: dict = {}
         try:
             with open(p, encoding="utf-8", errors="replace") as f:
                 for line in f:
-                    for result in parse_transcript_line(line):
+                    results, skipped = scan_transcript_line(line, tool_names)
+                    if stats is not None and skipped:
+                        stats["skipped_non_search"] = stats.get("skipped_non_search", 0) + skipped
+                    for result in results:
                         yield p, result
         except OSError:
             continue
@@ -212,9 +252,11 @@ def harvest(run, room: str, transcripts=None) -> dict:
     links_seen = 0
     duplicates = 0
     skipped_junk = 0
+    skipped_profile = 0
     results_seen = 0
     files: set = set()
-    for path, result in iter_search_results(root):
+    stats: dict = {"skipped_non_search": 0}
+    for path, result in iter_search_results(root, stats):
         q = by_text.get(result["query"].strip())
         if q is None:
             continue
@@ -230,6 +272,9 @@ def harvest(run, room: str, transcripts=None) -> dict:
             if not url:
                 skipped_junk += 1
                 continue
+            if is_profile_url(url):
+                skipped_profile += 1  # a person's page, not a post: never stored (rule 5)
+                continue
             if url in seen_urls or url in existing_urls:
                 duplicates += 1
                 continue
@@ -237,6 +282,7 @@ def harvest(run, room: str, transcripts=None) -> dict:
             new_records.append(link_to_record(link, q, rank))
     stored = records.store_records(run, room, SOURCE, new_records, command="harvest-search")
     duplicates += stored["duplicates"]
+    skipped_profile += stored.get("skipped_profile", 0)
     unmatched = [q["query"] for q in queries if q["query"].strip() not in matched]
     return {
         "room": room,
@@ -249,6 +295,8 @@ def harvest(run, room: str, transcripts=None) -> dict:
         "records_new": stored["new"],
         "duplicates": duplicates,
         "skipped_junk": skipped_junk,
+        "skipped_profile_pages": skipped_profile,
+        "skipped_non_search_results": stats["skipped_non_search"],
         "new_ids": stored["new_ids"],
     }
 
@@ -264,11 +312,14 @@ def cmd_harvest(args) -> int:
         for q in s["queries_unmatched"]:
             print(f"  - {q}")
     print(f"Links seen: {s['links_seen']}. Records new: {s['records_new']}. Duplicates: {s['duplicates']}. "
-          f"Skipped junk titles: {s['skipped_junk']}.")
+          f"Skipped junk titles: {s['skipped_junk']}. Skipped profile pages: {s['skipped_profile_pages']} "
+          f"(a person's page is never stored). Skipped non-search results: {s['skipped_non_search_results']} "
+          f"(search-shaped text from another tool).")
     common.log_event(run, STAGE, "harvest-search", "count", room=s["room"], queries=s["queries"],
                      queries_matched=s["queries_matched"], queries_unmatched=s["queries_unmatched"],
                      links_seen=s["links_seen"], records_new=s["records_new"], duplicates=s["duplicates"],
-                     skipped_junk=s["skipped_junk"])
+                     skipped_junk=s["skipped_junk"], skipped_profile_pages=s["skipped_profile_pages"],
+                     skipped_non_search_results=s["skipped_non_search_results"])
     common.log_event(run, STAGE, "harvest-search", "source", room=s["room"], source=SOURCE,
                      records_new=s["records_new"], note="titles and URLs only; the search summary is never stored")
     return 0
@@ -278,4 +329,4 @@ def register(subparsers) -> None:
     p = subparsers.add_parser("harvest-search", help="Store web-search results from session transcripts as records.")
     p.add_argument("--room", required=True, help="room slug")
     p.add_argument("--transcripts", default=None, help="transcripts folder (default ~/.claude/projects or FUNNEL_TRANSCRIPTS_DIR)")
-    p.set_defaults(func=cmd_harvest)
+    p.set_defaults(func=cmd_harvest, stage_no=STAGE)

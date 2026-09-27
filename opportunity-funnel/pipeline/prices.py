@@ -225,4 +225,4 @@ def cmd_price_check(args) -> int:
 def register(subparsers) -> None:
     p = subparsers.add_parser("price-check", help="Check every price item of a stage against its page (seen_via page only).")
     p.add_argument("--stage", type=int, required=True, choices=(2, 3, 6), help="2 = mask spend, 3 = pain alternatives, 6 = price anchors")
-    p.set_defaults(func=cmd_price_check)
+    p.set_defaults(func=cmd_price_check)  # the stage for the run log is --stage itself

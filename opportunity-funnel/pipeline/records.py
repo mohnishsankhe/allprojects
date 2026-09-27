@@ -13,8 +13,10 @@ Public API
     store_records(run, room, source, records, known_names=(), command="store") -> dict
         Anonymizes each record's text (known_names are always removed), computes
         record_id(url, text), skips ids already stored in the room, appends the rest.
+        A record whose url is a person's profile or channel page (anonymize.is_profile_url)
+        is refused: rule 5 keeps only the URL of the post itself (counted in skipped_profile).
         Each input record: {"url", "text", "date": "YYYY-MM-DD"|None, "meta": {...}}.
-        Returns {"new", "duplicates", "skipped_empty", "new_ids", "file"}.
+        Returns {"new", "duplicates", "skipped_empty", "skipped_profile", "new_ids", "file"}.
     load_records(run, room) -> list[dict]
         All records of the room in collection order (files by name, then line order).
     records_by_id(run, room) -> dict[str, dict]
@@ -28,6 +30,10 @@ Public API
         include_undated_records, normalized-text duplicates dropped keeping the first
         in collection order), orders by meta.order (else newest first), writes
         batch_r<round>_<NNN>.md files and the manifest; removes stale batch files.
+        A record dated only by month (meta.date_precision "month", from a /YYYY/MM/ URL)
+        is dropped only when its whole month lies before the cutoff: a URL that shows
+        only the cutoff month does not show a date older than the lookback (kept and
+        counted in kept_month_at_cutoff; the conservative reading of the kill rule).
     register(subparsers)              adds the `batches` command
 """
 from __future__ import annotations
@@ -38,7 +44,7 @@ import re
 from pathlib import Path
 
 import common
-from anonymize import LIMIT_NOTE, anonymize
+from anonymize import LIMIT_NOTE, anonymize, is_profile_url
 
 RECORD_FIELDS = ("record_id", "source", "url", "date", "text", "meta")
 STAGE = 3
@@ -110,11 +116,15 @@ def store_records(run, room: str, source: str, records, known_names=(), command:
     new_ids: list = []
     duplicates = 0
     skipped_empty = 0
+    skipped_profile = 0
     rows: list = []
     for i, rec in enumerate(records):
         if not isinstance(rec, dict):
             raise common.ValidationErrors([f"store_records: record {i} is not an object."])
         url = str(rec.get("url") or "").strip()
+        if is_profile_url(url):
+            skipped_profile += 1  # a person's page is not a post: never stored (rule 5)
+            continue
         text = anonymize(rec.get("text") or "", known_names)
         if not common.normalize_ws(text):
             skipped_empty += 1
@@ -138,7 +148,7 @@ def store_records(run, room: str, source: str, records, known_names=(), command:
                 f.write(common.dumps_jsonl_row(row))
         common.log_event(run, STAGE, command, "note", room=room, source=source, note=LIMIT_NOTE, review=False)
     return {"new": len(new_ids), "duplicates": duplicates, "skipped_empty": skipped_empty,
-            "new_ids": new_ids, "file": common.rel(path)}
+            "skipped_profile": skipped_profile, "new_ids": new_ids, "file": common.rel(path)}
 
 
 # --------------------------------------------------------------------------- batches
@@ -200,11 +210,19 @@ def make_batches(run, room: str, size: int = 80, chars: int = 1500) -> dict:
     kept: list = []
     seen_text: set = set()
     counts = {"loaded": len(loaded), "dropped_old": 0, "dropped_undated": 0, "undated_kept": 0,
-              "dropped_duplicate_text": 0, "kept": 0}
+              "dropped_duplicate_text": 0, "kept_month_at_cutoff": 0, "kept": 0}
+    cutoff_s = cutoff.isoformat()
     for rec in loaded:  # collection order: the first copy of a text wins
         date = rec.get("date")
         if date:
-            if date < cutoff.isoformat():
+            month_only = (rec.get("meta") or {}).get("date_precision") == "month"
+            if month_only:
+                if date[:7] < cutoff_s[:7]:
+                    counts["dropped_old"] += 1
+                    continue
+                if date < cutoff_s:
+                    counts["kept_month_at_cutoff"] += 1  # the URL shows only the cutoff month: not shown to be old
+            elif date < cutoff_s:
                 counts["dropped_old"] += 1
                 continue
         elif not include_undated:
@@ -279,6 +297,12 @@ def cmd_batches(args) -> int:
     else:
         print(f"Dropped {f['dropped_undated']} undated records.")
     print(f"Dropped {f['dropped_duplicate_text']} duplicate texts. {f['kept']} records kept.")
+    if f.get("kept_month_at_cutoff"):
+        note = (f"Room {room}: {f['kept_month_at_cutoff']} record(s) dated only by month (a /YYYY/MM/ URL) fall in the "
+                f"cutoff month {f['lookback_cutoff'][:7]} and were kept: the URL does not show a date older than the "
+                f"lookback, so the conservative reading keeps them.")
+        print(f"note: {note}")
+        common.log_event(run, STAGE, "batches", "note", room=room, note=note, review=True)
     for rnd, info in manifest["rounds"].items():
         print(f"Round {rnd}: {info['records']} records in {len(info['batches'])} batch file(s): "
               f"{', '.join(info['batches'])}")
@@ -293,4 +317,4 @@ def register(subparsers) -> None:
     p.add_argument("--room", required=True, help="room slug")
     p.add_argument("--size", type=int, default=80, help="records per batch (default 80)")
     p.add_argument("--chars", type=int, default=1500, help="cut each record's text at this many characters (default 1500)")
-    p.set_defaults(func=cmd_batches)
+    p.set_defaults(func=cmd_batches, stage_no=STAGE)
