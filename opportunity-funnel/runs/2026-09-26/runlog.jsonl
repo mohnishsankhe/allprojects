@@ -852,3 +852,10 @@
 {"command": "show", "ids": 4, "kind": "ran", "missing": [], "room": "gre-engineers-india", "stage": 3, "ts": "2026-09-27T13:33:17+00:00"}
 {"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "gre-engineers-india", "stage": 3, "ts": "2026-09-27T13:33:23+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T13:35:06+00:00"}
+{"command": "show", "ids": 2, "kind": "ran", "missing": [], "room": "startup-founders-409a-83b-deadlines", "stage": 3, "ts": "2026-09-27T13:35:52+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "startup-founders-409a-83b-deadlines", "stage": 3, "ts": "2026-09-27T13:35:56+00:00"}
+{"command": "show", "ids": 4, "kind": "ran", "missing": [], "room": "dubai-real-estate-brokerages-telesales", "stage": 3, "ts": "2026-09-27T13:36:02+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "startup-founders-409a-83b-deadlines", "stage": 3, "ts": "2026-09-27T13:38:19+00:00"}
+{"command": "show", "ids": 2, "kind": "ran", "missing": [], "room": "dubai-real-estate-brokerages-telesales", "stage": 3, "ts": "2026-09-27T13:38:54+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "dubai-real-estate-brokerages-telesales", "stage": 3, "ts": "2026-09-27T13:39:00+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T13:40:09+00:00"}
