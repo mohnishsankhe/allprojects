@@ -31,7 +31,16 @@ Public API
     epoch_of(date) -> int
     date_from_epoch(x) / date_from_iso(s) -> "YYYY-MM-DD" | None
     looks_like_person_name(s) -> bool
-    class RateGate(per_minute)                a sliding-window request gate (Reddit: 60 per minute)
+    class RateGate(per_minute, name=None)     a sliding-window request gate. With a name the window is shared
+                                              across processes through netfetch.shared_window_wait (Reddit:
+                                              60 per minute for ALL parallel room listeners together); without
+                                              a name it is a plain in-process gate.
+    strip_quote_headers(cooked) -> (html, usernames)
+        Discourse renders a quoted post as <aside class="quote" data-username="..."><div class="title">
+        ... <username>:</div>...: the title div is replaced with `[user]:` and every data-username is
+        returned as a known name, so a quoted member's username never reaches the stored text (rule 5).
+    inbox_label(rel_path) -> str              the content-free label of an inbox file: "file_" + 12 hex
+                                              characters of sha256 over its path inside the room folder
     fetch_stackexchange(run, room, site, query, tagged=None, answers=False, max_records=500, round_no=1)
     fetch_hackernews(run, room, query, max_records=500, round_no=1)
     fetch_reddit(run, room, subreddit, query=None, max_records=500, round_no=1)
@@ -47,6 +56,10 @@ Public API
     parse_csv_chat(text) -> same shape (key "row") or None if the columns are missing
     parse_paragraphs(text) -> same shape (key "paragraph"); undated
     ingest_inbox(run, room, customers=False, round_no=1) -> summary dict
+        Files are named after people all the time ("Anita Desai.txt", "priya_sharma_feedback.csv"), so
+        no file name ever reaches a record URL, meta, the run log or the screen: every file gets the
+        content-free label inbox_label(path). The label -> path map is written to
+        RUN/03_listen/raw/<room>/_inbox_index.json, which .gitignore keeps out of git with the raw records.
     register(subparsers)                      adds `fetch <adapter>` and `ingest-inbox`
 
 Stored record shape (see config/formats.md, Stage 3): url, text, date, meta. Every fetched
