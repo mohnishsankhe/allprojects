@@ -488,3 +488,7 @@
 {"command": "show", "ids": 4, "kind": "ran", "missing": [], "room": "outbound-lead-gen-appointment-setting-agencies", "stage": 3, "ts": "2026-09-27T10:32:16+00:00"}
 {"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "outbound-lead-gen-appointment-setting-agencies", "stage": 3, "ts": "2026-09-27T10:32:25+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T10:33:37+00:00"}
+{"command": "listen-status", "dated": 2, "kind": "ran", "per_round": {"1": 923}, "per_source": {"websearch": 923}, "records": 923, "room": "gre-engineers-india", "stage": 3, "ts": "2026-09-27T10:35:27+00:00", "undated": 921}
+{"code": 2, "command": "count", "errors": ["No label file runs/2026-09-26/03_listen/rooms/salon-spa-owners-india-global/labels/batch_r1_015.jsonl. Write one line per record of batch_r1_015.md."], "kind": "error", "stage": 3, "ts": "2026-09-27T10:37:23+00:00"}
+{"command": "listen-status", "dated": 8, "kind": "ran", "per_round": {"1": 871}, "per_source": {"websearch": 871}, "records": 871, "room": "indie-perfumers-launching-brands", "stage": 3, "ts": "2026-09-27T10:37:29+00:00", "undated": 863}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T10:38:39+00:00"}
