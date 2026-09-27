@@ -3,7 +3,13 @@ export const meta = {
   description: 'Stage 3: listen to saturation, one listener per room (plan -> harvest -> label-prep -> one labeler per batch -> label-finish rounds, then synthesize, then checkpoint)',
   phases: [{ title: 'Listen', detail: 'per room: rounds until saturated, exhausted or max rounds' }],
 }
-// args = { rooms: [slug, ...], searched: { <slug>: { round: N, queries: Q, kinds: [...] } } }
+// args = { rooms: [slug, ...], searched: { <slug>: { round: N, queries: Q, kinds: [...], pending: [query, ...] } } }
+//   pending = that round's queries (exact strings from queries.jsonl) that no search has matched yet: they are searched
+//   before the round's label step, instead of planning or searching the whole round again.
+//   pending_file + pending_count: the same list in a JSON file under the funnel folder (a list of exact query strings),
+//   so long lists need not travel in args; each search runner reads its own slice.
+//   suggested = pains labelers suggested in the interrupted run (that round and the one before): the first label-prep
+//   judges them, and they count against a saturated stop in that round (conservative).
 //   (older form: r1: { <slug>: { queries: Q, kinds: [...] } } = searched with round 1)
 const F = '/home/user/allprojects/opportunity-funnel'
 const RUNREL = 'runs/2026-09-26'
@@ -83,16 +89,38 @@ async function labelRound(slug, round, suggestions) {
   return { prep, lab, labeled: todo.length, rechecked: packs.length, failed, suggested }
 }
 
+function harvestFilePrompt(file, a, b) {
+  return `The file ${file} holds a JSON list of web-search queries. Read it, and take items ${a} to ${b} (counting from 1; ${b - a + 1} queries).
+Run each of those queries with the WebSearch tool.
+Send them in parallel: put 10 WebSearch tool calls in a single message, wait for those results, then send the next 10, until all are done.
+Copy each query string EXACTLY as it is in the file (same words, quotes, site: operators, capitalization, spacing). Do not rephrase, fix, merge or skip any.
+Use no other tool after reading the file. Do not analyse or summarise the results. When all are done, reply only: DONE <number of searches you ran>.`
+}
+
 async function listen(slug) {
   const pre = SEARCHED[slug] || null
   const first = pre ? pre.round : 1
-  let round = first, stop = null, suggestions = []
+  const carried = pre && Array.isArray(pre.suggested) ? pre.suggested.filter(x => typeof x === 'string') : []
+  let round = first, stop = null, suggestions = carried
   const history = []
   while (true) {
     let nq, kinds
     if (pre && round === first) {
       nq = pre.queries; kinds = pre.kinds
-      log(`${slug} r${round}: planned and searched by an earlier run (${nq} queries); labeling on Opus`)
+      const pending = (pre.pending || []).filter(q => typeof q === 'string' && q.trim())
+      if (pending.length) {
+        const chunks = []
+        for (let i = 0; i < pending.length; i += CHUNK) chunks.push(pending.slice(i, i + CHUNK))
+        await parallel(chunks.map((qs, ci) => () => agent(harvestPrompt(qs), { ...OPUS, label: `harvest:${slug}:r${round}:p${ci}`, phase: 'Listen' })))
+      }
+      const nfile = pre.pending_file && pre.pending_count > 0 ? pre.pending_count : 0
+      if (nfile) {
+        const slices = []
+        for (let a = 1; a <= nfile; a += CHUNK) slices.push([a, Math.min(a + CHUNK - 1, nfile)])
+        await parallel(slices.map(([a, b], ci) => () => agent(harvestFilePrompt(`${F}/${pre.pending_file}`, a, b),
+          { ...OPUS, label: `harvest:${slug}:r${round}:f${ci}`, phase: 'Listen' })))
+      }
+      log(`${slug} r${round}: planned by an earlier run (${nq} queries, ${pending.length + nfile} searched now); labeling on Opus`)
     } else {
       const plan = await agent(`${base(slug)}\nMODE: plan. ROUND: ${round}. ${round > 1 ? `Earlier rounds so far: ${JSON.stringify(history)}. Aim new queries at what is missing (source kinds, pains, money and failed-spend language, deadlines).` : ''}\nAppend this round's queries to queries.jsonl and return them in the queries field exactly as written there.`,
         { agentType: 'funnel-listener', ...OPUS, schema: PLAN, label: `plan:${slug}:r${round}`, phase: 'Listen' })
@@ -106,7 +134,7 @@ async function listen(slug) {
     const lr = await labelRound(slug, round, suggestions)
     if (!lr) { stop = 'error'; break }
     const lab = lr.lab
-    suggestions = lr.suggested
+    suggestions = [...new Set([...lr.suggested, ...(round === first ? carried : [])])]
     history.push({ round, queries: nq, kinds, records_total: lab.records_total, new_records: lab.new_records, member_records: lab.member_records, pains: lab.pains, saturated: lab.saturated, new_pains: lab.new_pains, rank_changes: lab.rank_changes.length, unmatched: lab.unmatched_queries, batches_labeled: lr.labeled, packs_rechecked: lr.rechecked, taxonomy_changed: lr.prep.taxonomy_changed, suggested_pains: suggestions.length })
     log(`${slug} r${round}: ${lab.records_total} records (+${lab.new_records}), ${lab.pains} pains, ${lr.labeled} batches labeled, saturated=${lab.saturated}, suggested pains=${suggestions.length}`)
     // Saturated only from round 2, with every planned query searched (an interrupted harvest leaves unmatched queries),
