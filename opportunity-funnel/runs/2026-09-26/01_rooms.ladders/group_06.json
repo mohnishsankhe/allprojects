@@ -1,0 +1,356 @@
+{
+  "ladders": {
+    "indian-retail-fno-traders-community": [
+      {
+        "step": 1,
+        "problem": "Learn options basics from a cheap course before the first trades",
+        "price_text": "₹499",
+        "url": "https://www.upsurge.club/courses/options-trading",
+        "seen_via": "search",
+        "note": "Reused from the old ladder. Entry-level course price on the vendor's own page."
+      },
+      {
+        "step": 2,
+        "problem": "See and manage positions: an options analytics subscription plus paid charting (Sensibull, TradingView)",
+        "price_text": "Rs 1300/month",
+        "url": "https://sensibull.freshdesk.com/support/solutions/articles/43000586718-what-are-the-charges-of-sensibull-",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (vendor support page). TradingView Essential was seen this pass at ₹1,295 monthly (https://mrchartist.com/learn/tradingview/pricing-and-plans); folded in because both solve 'analyse the market', and traders often pay for both."
+      },
+      {
+        "step": 3,
+        "problem": "Backtest and automate strategies on a no-code algo platform after discretionary trading loses money (AlgoTest, Quantsapp, Tradetron)",
+        "price_text": "₹499 per month",
+        "url": "https://algotest.in/blog/algo-trading-software-price/",
+        "seen_via": "search",
+        "note": "AlgoTest starter plan seen this pass on the vendor's blog. Replaces the old Quantsapp price (Rs 1229 monthly) that came from a third-party review page. Same problem as old step 3, renamed to say why traders reach it."
+      },
+      {
+        "step": 4,
+        "problem": "Pay for a mentorship program or premium community after losing money on their own",
+        "price_text": "₹94,400",
+        "url": "https://www.elearnmarkets.com/trading-mentorship-program",
+        "seen_via": "search",
+        "note": "Six-month Trading Mentorship Program price seen in search this pass. The old step had no price (Kundan Kishore page). Paid Telegram call groups sit in the same step; they are unregistered advice, so only education-style mentorship is counted."
+      },
+      {
+        "step": 5,
+        "problem": "File ITR-3 at year end, with a Section 44AB tax audit if turnover or losses require it",
+        "price_text": "Rs 2,499 for ITR-3 without audit and Rs 14,999 with Section 44AB tax audit",
+        "url": "https://www.patronaccounting.com/itr-for-fno-trader",
+        "seen_via": "search",
+        "note": "Reused from the old ladder. Every trader with F&O turnover must file ITR-3; those with losses to carry forward usually pay a CA."
+      }
+    ],
+    "indian-startup-founders-community": [
+      {
+        "step": 1,
+        "problem": "Incorporate the private limited company (CA or online filing service, including government fees and stamp duty)",
+        "price_text": "Rs 7,000-25,000 all-inclusive",
+        "url": "https://www.patronaccounting.com/blog/private-limited-company-registration-cost-breakdown-government-fees",
+        "seen_via": "search",
+        "note": "New step. Incorporation is the first thing founders pay for; the old ladder folded it into annual compliance. Range seen for a standard 2-director company."
+      },
+      {
+        "step": 2,
+        "problem": "Protect the brand: trademark filing (government fee per class plus a filing agent)",
+        "price_text": "₹4,500 per class",
+        "url": "https://www.intepat.com/blog/trademark-registration-fees-india",
+        "seen_via": "search",
+        "note": "New step. Government fee for startups and MSMEs with a DPIIT or Udyam certificate; the same page range shows professional fees of ₹1,499 to ₹30,000 on top."
+      },
+      {
+        "step": 3,
+        "problem": "Stay compliant every year: ROC filings, GST returns, statutory audit and ITR through a CA",
+        "price_text": "Rs. 50,000 to Rs. 80,000",
+        "url": "https://www.incorpx.io/blog/annual-compliance-cost-startups-2026",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (old step 1, now narrowed to the recurring annual cost)."
+      },
+      {
+        "step": 4,
+        "problem": "Run customer support and sales follow-up on the WhatsApp Business API (Wati, Interakt, AiSensy), later with AI agents on top",
+        "price_text": "₹2,499 per month",
+        "url": "https://www.flowcart.ai/blog/wati-pricing",
+        "seen_via": "search",
+        "note": "Replaces the old 'AI voice and WhatsApp agents' step priced at Vapi's $0.05 per minute. The WhatsApp API subscription is the purchase Indian startups commonly make today; AI agents ride on it. Per-conversation charges apply on top."
+      },
+      {
+        "step": 5,
+        "problem": "Hire the first team: paid job postings and recruiter packages (Naukri, LinkedIn)",
+        "price_text": "₹850",
+        "url": "https://internshala.com/blog/employer-naukri-job-posting-price/",
+        "seen_via": "search",
+        "note": "New step. Classified job posting price per job seen this pass. Nearly every startup that grows past the founders pays for at least postings."
+      },
+      {
+        "step": 6,
+        "problem": "Raise a round: a valuation report from a registered valuer and the shareholders' agreement",
+        "price_text": "Rs 25,000",
+        "url": "https://businesssetup.in/grow/valuation-report-for-startups/",
+        "seen_via": "search",
+        "note": "Reused valuation-report price from the old ladder. Shareholders' agreement drafting was seen this pass at Rs. 8,000 to Rs. 25,000 (https://www.registerkaro.in/shareholders-agreement); folded in because both are the same problem, closing the round."
+      },
+      {
+        "step": 7,
+        "problem": "After the raise: set up an ESOP pool and policy to hire with equity",
+        "price_text": "Rs 75,000",
+        "url": "https://www.patronaccounting.com/esop-for-tech-startups",
+        "seen_via": "search",
+        "note": "New step. ESOP scheme design price seen this pass. Only funded startups reach it, but nearly all of them do. The old step 4 (AI-search visibility at $95 per month) and step 5 (community events, no price) were dropped: neither is a common paid spend for this room yet."
+      }
+    ],
+    "study-abroad-consultancies-india": [
+      {
+        "step": 1,
+        "problem": "Get student enquiries in season: paid Google and Meta ads or bought lead packs",
+        "price_text": "₹300–₹900 per Google Ads lead",
+        "url": "https://oyenishant.com/google-ads-study-abroad",
+        "seen_via": "search",
+        "note": "New step, placed first because leads come before the CRM. Meta leads were seen at ₹80–₹400 in the same search; lead vendors sell prepaid packs (IndiaStudyChannel takes pre-payment in multiples of Rs 10,000)."
+      },
+      {
+        "step": 2,
+        "problem": "Track and follow up hundreds of enquiries: a study-abroad CRM with WhatsApp API messaging",
+        "price_text": "₹4,999/month",
+        "url": "https://smartxcrm.com/study-abroad-crm-comparison-guide/",
+        "seen_via": "search",
+        "note": "Reused CRM price from the old ladder. Old step 3 (WhatsApp API, ₹3,499 at https://www.zoko.io/post/interakt-pricing-guide) folded in: one problem, enquiry follow-up."
+      },
+      {
+        "step": 3,
+        "problem": "Be recognised by universities: join the agents' association (annual fee)",
+        "price_text": "Rs. 2,000.00",
+        "url": "https://aaeri.org.in/moa",
+        "seen_via": "search",
+        "note": "Reused from the old ladder. AAERI covers Australia-focused agents; AAEC is the newer general association."
+      },
+      {
+        "step": 4,
+        "problem": "Certify counsellors so universities and visa offices accept the agency (EATC or IATC exam)",
+        "price_text": "€295",
+        "url": "https://www.icef.com/academy/courses/education-agent-training-course-eatc/",
+        "seen_via": "search",
+        "note": "New step. Exam fee seen this pass; the same page shows €99 for AAERI members. Australian providers require a qualified counsellor, and other destinations increasingly ask for ICEF training."
+      },
+      {
+        "step": 5,
+        "problem": "Sign more university contracts by attending agent workshops and fairs (ICEF)",
+        "price_text": "€595 (plus VAT where applicable)",
+        "url": "https://www.icef.com/agent-terms-and-conditions/",
+        "seen_via": "search",
+        "note": "New step. Participation fee for semi-sponsored agents seen this pass. Old steps 4 (test-prep partnership) and 5 (loan referrals) dropped: they earn the consultancy commission rather than cost it money."
+      }
+    ],
+    "excel-financial-modellers-competition-community": [
+      {
+        "step": 1,
+        "problem": "Compete: enter Financial Modeling World Cup stages and the Excel esports season",
+        "price_text": "$25 for the Open age group and $15 for the U-25 age group",
+        "url": "https://fmworldcup.com/rules/",
+        "seen_via": "search",
+        "note": "Reused from the old ladder. Old step 2 (Microsoft Excel World Championship, $50 for the season 2025, https://fmworldcup.com/microsoft-excel-world-championship/rules/) folded in: same problem, competing, run by the same organiser."
+      },
+      {
+        "step": 2,
+        "problem": "Get faster and better: a modellers' training community or course subscription (Full Stack Modeller, CFI)",
+        "price_text": "£48 a month",
+        "url": "https://www.fullstackmodeller.com/full-stack-membership",
+        "seen_via": "search",
+        "note": "Price seen this pass for the base subscription (lifetime £2,500). CFI's $497 billed annually (old step 4) is the same problem and is folded in."
+      },
+      {
+        "step": 3,
+        "problem": "Prove it with letters: sit an accreditation exam (FMI Advanced Financial Modeler or FMVA)",
+        "price_text": "$725 USD",
+        "url": "https://fminstitute.com/afm/",
+        "seen_via": "search",
+        "note": "Reused from the old ladder. FMVA is the alternative credential; its exam comes inside the CFI subscription in step 2."
+      },
+      {
+        "step": 4,
+        "problem": "Go in person: a training camp tied to the live finals",
+        "price_text": "$1,449",
+        "url": "https://theactivecell.com/",
+        "seen_via": "search",
+        "note": "New step. Training camp ticket seen this pass; it includes access to the Microsoft Excel World Championship finals. Only the committed core travels, so this is the top of the ladder, not a step for everyone. Old step 5 (Full Stack bundle, no price) merged into step 2."
+      }
+    ],
+    "finra-series-79-sie-new-hires": [
+      {
+        "step": 1,
+        "problem": "Pass the SIE and Series 79 inside the firm's window: a prep package, question bank and, if needed, tutoring",
+        "price_text": "$630",
+        "url": "https://www.certfuel.com/series-79/best-prep/",
+        "seen_via": "search",
+        "note": "Knopman Marks Series 79 prep starting price seen this pass. The $395 exam fee per attempt (old price, https://www.certfuel.com/series-79/getting-started/what-is-series-79/) is usually paid by the firm; the hire pays for extra prep."
+      },
+      {
+        "step": 2,
+        "problem": "Series 63 and state registration right after",
+        "price_text": "$147",
+        "url": "https://www.certfuel.com/series-63/getting-started/what-is-series-63/",
+        "seen_via": "search",
+        "note": "Exam fee seen this pass; the old step had no price."
+      },
+      {
+        "step": 3,
+        "problem": "Get deal-ready fast: three-statement, DCF and LBO modelling before the first live mandate",
+        "price_text": "$499",
+        "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+        "seen_via": "search",
+        "note": "Premium Package price seen on the vendor page this pass; the old step had no price."
+      },
+      {
+        "step": 4,
+        "problem": "Yearly FINRA continuing education (Regulatory Element) before the December 31 deadline",
+        "price_text": "$18",
+        "url": "https://www.finra.org/rules-guidance/rulebooks/corporate-organization/section-4-fees",
+        "seen_via": "search",
+        "note": "Session fee per completion seen in FINRA's fee schedule this pass; small, but a recurring rule-driven payment."
+      },
+      {
+        "step": 5,
+        "problem": "Add the CFA for the next move (Level I registration)",
+        "price_text": "US$1,140 during early registration or US$1,490 during standard registration",
+        "url": "https://finance.uworld.com/cfa/registration-cost-fees/",
+        "seen_via": "search",
+        "note": "2026 fee seen this pass; the old step had no price. A minority of analysts take it, mostly those aiming at the buy side, but it is a well-trodden route."
+      }
+    ],
+    "dental-practice-owners-clinics": [
+      {
+        "step": 1,
+        "problem": "Stop losing patients to missed calls: a practice phone, texting and reminder system, plus after-hours answering (human service or AI receptionist)",
+        "price_text": "$249/mo",
+        "url": "https://costbench.com/software/business-phone/weave/",
+        "seen_via": "search",
+        "note": "Reused Weave price from the old ladder. Old step 3 (AI receptionist at $0.05 per minute on Vapi) folded in: dental answering services were seen this pass at $200 and $500 per month (https://www.getviva.ai/dental-answering-service-cost/), which is the same problem."
+      },
+      {
+        "step": 2,
+        "problem": "Clinic management software for appointments, records and billing",
+        "price_text": "₹179/month",
+        "url": "https://appointik.in/",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (India price). US practices pay far more for Dentrix or Open Dental hosting; no US price was pinned this pass."
+      },
+      {
+        "step": 3,
+        "problem": "Fill the chairs: a dental marketing agency for local SEO and Google Ads",
+        "price_text": "$1,000 and $2,500 per month",
+        "url": "https://blog.titanwebagency.com/dental-seo-services-cost",
+        "seen_via": "search",
+        "note": "New step. Typical monthly SEO spend seen this pass; the same page shows a $750 to $5,000 range and separate Google Ads budgets."
+      },
+      {
+        "step": 4,
+        "problem": "Get paid by insurers without a full-time coordinator: outsourced dental billing",
+        "price_text": "4% to 10% of collections",
+        "url": "https://www.verimedix.com/dental-billing-company-pricing-models/",
+        "seen_via": "search",
+        "note": "New step, US-specific. Percentage-of-collections pricing seen this pass; flat fees of $1,000 to $5,000 per month also seen."
+      },
+      {
+        "step": 5,
+        "problem": "Keep the licence and stay current: association dues and continuing education",
+        "price_text": "$627",
+        "url": "https://adanews.ada.org/ada-news/2025/september/ada-board-recommends-dues-increase-for-2026/",
+        "seen_via": "search",
+        "note": "ADA national dues for 2026 seen this pass; state and local dues come on top. The old step cited the Indian Dental Association page with no price."
+      },
+      {
+        "step": 6,
+        "problem": "Buy a second practice or sell to a group: broker commission on the deal",
+        "price_text": "6% and 12%",
+        "url": "https://dentaltransitions.com/articles/dental-practice-broker-commission-rates/",
+        "seen_via": "search",
+        "note": "Commission range seen this pass; the old step had no price. Valuation and financing sit inside the same transaction."
+      }
+    ],
+    "eu-ai-act-deadline-ai-product-teams": [
+      {
+        "step": 1,
+        "problem": "Meet the AI literacy duty: train staff with a certificate course",
+        "price_text": "from €9.90 per employee",
+        "url": "https://www.provimedia.de/en/ai-certificate",
+        "seen_via": "search",
+        "note": "Vendor price seen this pass; the old step had no price. Deeper open courses were seen at €49 to €1,395 per person in the same search."
+      },
+      {
+        "step": 2,
+        "problem": "Classify each system and get a gap assessment from a specialist law firm or consultant",
+        "price_text": "3,000 to 15,000 euros",
+        "url": "https://www.aiactblog.nl/en/posts/what-does-eu-ai-act-compliance-cost-realistic-numbers",
+        "seen_via": "search",
+        "note": "New step, split out of old step 1 because classification is bought from a professional while training is bought per seat. Fixed-price examples were seen at €1,250 per system and EUR 9,900 for a readiness sprint (https://embedai.nl/en/diensten/ai-act-software-of-consultant)."
+      },
+      {
+        "step": 3,
+        "problem": "Keep the paperwork alive: compliance software for transparency notices, technical documentation, logging and post-market monitoring",
+        "price_text": "€39.00/month",
+        "url": "https://www.setaicomply.com/pricing",
+        "seen_via": "search",
+        "note": "Reused SME tier from the old ladder. Old step 3 (portfolio platform at €199/month, https://complymates.com/pricing) and old step 4 (post-market monitoring) folded in: one problem, ongoing compliance records, at different scales."
+      },
+      {
+        "step": 4,
+        "problem": "High-risk systems (hiring, credit, biometrics): third-party conformity assessment by a notified body",
+        "price_text": "€50,000 to €150,000 per high-risk AI system",
+        "url": "https://www.softwareseni.com/budgeting-for-eu-ai-act-compliance-cost-models-for-smb-tech-companies-by-use-case/",
+        "seen_via": "search",
+        "note": "Range seen this pass. Only the high-risk slice of the room reaches this step, but for them it is mandatory."
+      },
+      {
+        "step": 5,
+        "problem": "Pass enterprise buyers' AI questionnaires: ISO 42001 certification",
+        "price_text": "$7,000–$20,000",
+        "url": "https://www.vanta.com/collection/iso-42001/iso-42001-certification-cost",
+        "seen_via": "search",
+        "note": "Initial certification audit cost seen this pass; the old step had no price. Surveillance audits of $3,500–$9,000 a year follow."
+      }
+    ],
+    "retiring-owners-selling-business": [
+      {
+        "step": 1,
+        "problem": "Find out what the business is worth: a formal valuation",
+        "price_text": "$3,000 to $10,000",
+        "url": "https://www.websiteclosers.com/resources/how-much-does-a-business-valuation-cost/",
+        "seen_via": "search",
+        "note": "Reused from the old ladder."
+      },
+      {
+        "step": 2,
+        "problem": "Get sale-ready: an exit planning advisor to clean up financials, reduce owner dependence and time the exit",
+        "price_text": "$1,500 to $5,000 per month",
+        "url": "https://certifiedexitplanners.com/how-much-does-a-certified-exit-planner-cost/",
+        "seen_via": "search",
+        "note": "Retainer range seen this pass; the old step had no price. Larger sellers add a sell-side quality of earnings report, seen at $15,000-$25,000 for sub-$3M EBITDA businesses (https://ctacquisitions.com/quality-of-earnings-report-seller-deep-dive/)."
+      },
+      {
+        "step": 3,
+        "problem": "Find a buyer: broker commission on the sale",
+        "price_text": "8% and 12%",
+        "url": "https://ctacquisitions.com/average-business-broker-commission/",
+        "seen_via": "search",
+        "note": "Reused from the old ladder."
+      },
+      {
+        "step": 4,
+        "problem": "Close the deal: an M&A attorney for the purchase agreement and a CPA for tax structuring",
+        "price_text": "$7,500 to $50,000+",
+        "url": "https://ctacquisitions.com/attorney-fees-for-selling-a-business/",
+        "seen_via": "search",
+        "note": "Seller-side attorney fee range seen this pass; the old step had no price. Flat fees of $7,500-$20,000 were seen for asset sales under $1M-$2M."
+      },
+      {
+        "step": 5,
+        "problem": "After the sale: a financial adviser manages the proceeds",
+        "price_text": "around 1% of assets annually",
+        "url": "https://www.nerdwallet.com/financial-advisors/learn/how-much-does-a-financial-advisor-cost",
+        "seen_via": "search",
+        "note": "Typical AUM fee seen this pass; the old step had no price. Needs a licensed adviser, so this is a partner step."
+      }
+    ]
+  }
+}
