@@ -130,3 +130,134 @@
 {"round": 1, "query": "paid for 409A valuation twice", "kind": "phrasing"}
 {"round": 1, "query": "83b election rejected by IRS", "kind": "phrasing"}
 {"round": 1, "query": "409A valuation rejected by auditor", "kind": "phrasing"}
+{"round": 2, "query": "site:quora.com Delaware franchise tax bill huge startup", "kind": "qa"}
+{"round": 2, "query": "site:quora.com Delaware franchise tax authorized shares method too high", "kind": "qa"}
+{"round": 2, "query": "site:quora.com forgot to pay Delaware franchise tax penalty", "kind": "qa"}
+{"round": 2, "query": "site:quora.com Form 3921 startup employees exercised options", "kind": "qa"}
+{"round": 2, "query": "site:quora.com Carta alternatives cap table cheaper", "kind": "qa"}
+{"round": 2, "query": "site:quora.com Carta price increase startup", "kind": "qa"}
+{"round": 2, "query": "site:quora.com 409A valuation after SAFE round needed", "kind": "qa"}
+{"round": 2, "query": "site:quora.com how often does a startup need a 409A valuation", "kind": "qa"}
+{"round": 2, "query": "site:quora.com granted stock options without 409A valuation", "kind": "qa"}
+{"round": 2, "query": "site:quora.com 409A valuation too high strike price employees", "kind": "qa"}
+{"round": 2, "query": "site:quora.com 409A valuation audit IRS safe harbor challenged", "kind": "qa"}
+{"round": 2, "query": "site:quora.com how much did you pay for 409A valuation", "kind": "qa"}
+{"round": 2, "query": "site:quora.com 83b election proof certified mail", "kind": "qa"}
+{"round": 2, "query": "site:quora.com 83b election deadline weekend holiday postmark", "kind": "qa"}
+{"round": 2, "query": "site:quora.com 83b election revoke mistake wrong number of shares", "kind": "qa"}
+{"round": 2, "query": "site:quora.com is Clerky worth it for incorporation", "kind": "qa"}
+{"round": 2, "query": "site:quora.com doola vs Stripe Atlas vs Firstbase", "kind": "qa"}
+{"round": 2, "query": "site:quora.com Form 5472 foreign owned Delaware C corp penalty", "kind": "qa"}
+{"round": 2, "query": "site:quora.com Indian founder Delaware C corp annual compliance cost", "kind": "qa"}
+{"round": 2, "query": "site:quora.com ESOP for Indian employees of US parent company 409A", "kind": "qa"}
+{"round": 2, "query": "site:quora.com cofounder left unvested shares 83b election", "kind": "qa"}
+{"round": 2, "query": "site:quora.com founder shares never issued Delaware C corp fix", "kind": "qa"}
+{"round": 2, "query": "site:quora.com Form D filing SAFE round deadline", "kind": "qa"}
+{"round": 2, "query": "site:quora.com QSBS 83b election founder stock", "kind": "qa"}
+{"round": 2, "query": "site:quora.com paid lawyer incorporation mistake startup", "kind": "qa"}
+{"round": 2, "query": "site:quora.com 409A valuation provider recommendation seed stage", "kind": "qa"}
+{"round": 2, "query": "site:avvo.com 409A valuation stock options startup", "kind": "qa"}
+{"round": 2, "query": "site:avvo.com Delaware franchise tax penalty startup", "kind": "qa"}
+{"round": 2, "query": "site:avvo.com Form 5472 penalty foreign owned corporation", "kind": "qa"}
+{"round": 2, "query": "site:avvo.com lawyer failed to file 83(b) election malpractice", "kind": "qa"}
+{"round": 2, "query": "site:avvo.com cofounder vesting repurchase unvested shares 83(b)", "kind": "qa"}
+{"round": 2, "query": "site:avvo.com stock options granted without board approval fix", "kind": "qa"}
+{"round": 2, "query": "site:avvo.com Stripe Atlas Delaware C corp", "kind": "qa"}
+{"round": 2, "query": "site:avvo.com Form D filing late SAFE", "kind": "qa"}
+{"round": 2, "query": "site:justanswer.com 409A valuation startup options", "kind": "qa"}
+{"round": 2, "query": "site:justanswer.com Delaware franchise tax bill", "kind": "qa"}
+{"round": 2, "query": "site:justanswer.com Form 3921 late filing penalty", "kind": "qa"}
+{"round": 2, "query": "site:justanswer.com Form 5472 penalty 25000", "kind": "qa"}
+{"round": 2, "query": "site:justanswer.com 83b election foreign national ITIN", "kind": "qa"}
+{"round": 2, "query": "site:justanswer.com CPA missed 83b election", "kind": "qa"}
+{"round": 2, "query": "site:justanswer.com founder restricted stock vesting taxable no 83b", "kind": "qa"}
+{"round": 2, "query": "site:justanswer.com 83(b) postmark 30th day", "kind": "qa"}
+{"round": 2, "query": "site:ttlc.intuit.com founder stock vesting no 83b election taxable income", "kind": "qa"}
+{"round": 2, "query": "site:ttlc.intuit.com Delaware franchise tax C corporation", "kind": "qa"}
+{"round": 2, "query": "site:ttlc.intuit.com Form 1120 startup no revenue Delaware", "kind": "qa"}
+{"round": 2, "query": "site:ttlc.intuit.com 83b election copy attach return", "kind": "qa"}
+{"round": 2, "query": "site:answers.justia.com 83(b) election", "kind": "qa"}
+{"round": 2, "query": "site:answers.justia.com 409A valuation", "kind": "qa"}
+{"round": 2, "query": "site:answers.justia.com Delaware franchise tax", "kind": "qa"}
+{"round": 2, "query": "site:answers.startups.com 83b election", "kind": "qa"}
+{"round": 2, "query": "site:answers.startups.com 409A valuation", "kind": "qa"}
+{"round": 2, "query": "site:caclubindia.com Delaware company Indian founder tax compliance", "kind": "qa"}
+{"round": 2, "query": "site:caclubindia.com ESOP US parent company Indian employees", "kind": "qa"}
+{"round": 2, "query": "site:news.ycombinator.com Delaware franchise tax bill", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com Ask HN Delaware franchise tax authorized shares", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com Form 3921", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com leaving Carta cap table", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com Carta price increase", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com Carta alternatives Pulley AngelList", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com Ask HN 409A valuation provider", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com 409A valuation SAFE refresh", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com 409A valuation too high options", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com Show HN 409A", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com we paid for a 409A valuation", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com 83(b) election lost mail IRS", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com 83(b) election certified mail proof", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com Stripe Atlas regret", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com Clerky support mistake", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com Firstbase incorporation experience", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com doola experience", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com Form 5472 penalty foreign founder", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com Ask HN shutting down Delaware C corp cost", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com Form D SAFE filing", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com QSBS 83b founder", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com startup lawyer fees incorporation worth it", "kind": "forum"}
+{"round": 2, "query": "site:bogleheads.org 83(b) election founder shares", "kind": "forum"}
+{"round": 2, "query": "site:bogleheads.org startup founder 409A options QSBS", "kind": "forum"}
+{"round": 2, "query": "site:quickbooks.intuit.com Form 3921 file", "kind": "forum"}
+{"round": 2, "query": "site:linkedin.com/posts forgot 83b election founder", "kind": "forum"}
+{"round": 2, "query": "site:linkedin.com/posts Delaware franchise tax bill founders", "kind": "forum"}
+{"round": 2, "query": "site:linkedin.com/posts Carta price increase founders", "kind": "forum"}
+{"round": 2, "query": "site:x.com 83b election forgot founder", "kind": "forum"}
+{"round": 2, "query": "site:x.com Delaware franchise tax bill startup", "kind": "forum"}
+{"round": 2, "query": "reddit r/startups 409A valuation cost", "kind": "forum"}
+{"round": 2, "query": "reddit 83b election missed founder", "kind": "forum"}
+{"round": 2, "query": "site:upwork.com/freelance-jobs 409A valuation startup", "kind": "jobs"}
+{"round": 2, "query": "site:upwork.com/freelance-jobs cap table Carta", "kind": "jobs"}
+{"round": 2, "query": "site:upwork.com/freelance-jobs Delaware franchise tax", "kind": "jobs"}
+{"round": 2, "query": "site:upwork.com/freelance-jobs Form 5472", "kind": "jobs"}
+{"round": 2, "query": "site:upwork.com/freelance-jobs 83b election", "kind": "jobs"}
+{"round": 2, "query": "site:upwork.com/freelance-jobs startup valuation SAFE", "kind": "jobs"}
+{"round": 2, "query": "site:upwork.com/freelance-jobs Form 1120 C corporation startup", "kind": "jobs"}
+{"round": 2, "query": "site:freelancer.com 409A valuation", "kind": "jobs"}
+{"round": 2, "query": "site:medium.com I forgot to file my 83(b) election", "kind": "blog"}
+{"round": 2, "query": "site:medium.com Delaware franchise tax surprise startup", "kind": "blog"}
+{"round": 2, "query": "site:medium.com our first 409A valuation lessons founder", "kind": "blog"}
+{"round": 2, "query": "site:medium.com Stripe Atlas experience non-US founder taxes", "kind": "blog"}
+{"round": 2, "query": "site:dev.to Stripe Atlas Delaware C corp experience", "kind": "blog"}
+{"round": 2, "query": "why is my Delaware franchise tax so high", "kind": "phrasing"}
+{"round": 2, "query": "Delaware franchise tax 200000 notice startup", "kind": "phrasing"}
+{"round": 2, "query": "how to recalculate Delaware franchise tax assumed par value", "kind": "phrasing"}
+{"round": 2, "query": "forgot to file Form 3921 what happens", "kind": "phrasing"}
+{"round": 2, "query": "do we need to file Form 3921 for early exercise", "kind": "phrasing"}
+{"round": 2, "query": "is 83b deadline 30 days from grant or signing", "kind": "phrasing"}
+{"round": 2, "query": "what if the IRS lost my 83b election", "kind": "phrasing"}
+{"round": 2, "query": "can we grant options before the 409A is done", "kind": "phrasing"}
+{"round": 2, "query": "how to switch from Carta to Pulley", "kind": "phrasing"}
+{"round": 2, "query": "is a 409A valuation required for a company with no revenue", "kind": "phrasing"}
+{"round": 2, "query": "do I need to file Form 5472 for my Delaware C corp", "kind": "phrasing"}
+{"round": 2, "query": "overpaid Delaware franchise tax refund", "kind": "phrasing"}
+{"round": 2, "query": "Delaware company ka franchise tax kitna lagta hai", "kind": "phrasing"}
+{"round": 2, "query": "startup CPA Form 1120 price Delaware C corp", "kind": "pricing"}
+{"round": 2, "query": "Delaware franchise tax filing service fee", "kind": "pricing"}
+{"round": 2, "query": "Form 5472 preparation fee foreign owned corporation", "kind": "pricing"}
+{"round": 2, "query": "Sharp 409A pricing", "kind": "pricing"}
+{"round": 2, "query": "Kruze Consulting tax pricing startup", "kind": "pricing"}
+{"round": 2, "query": "Inkle pricing Delaware C corp tax filing", "kind": "pricing"}
+{"round": 2, "query": "Carta Launch free 409A eligibility", "kind": "pricing"}
+{"round": 2, "query": "certified mail 83b election service price", "kind": "pricing"}
+{"round": 2, "query": "Delaware franchise tax late penalty interest annual report", "kind": "official"}
+{"round": 2, "query": "IRS Form 5472 penalty foreign owned US corporation", "kind": "official"}
+{"round": 2, "query": "SEC Form D filing deadline 15 days first sale", "kind": "official"}
+{"round": 2, "query": "FinCEN BOI reporting domestic companies exempt 2025", "kind": "official"}
+{"round": 2, "query": "IRS information return penalty Form 3921 late", "kind": "official"}
+{"round": 2, "query": "site:g2.com/products/carta/reviews expensive", "kind": "reviews"}
+{"round": 2, "query": "site:g2.com/products/pulley/reviews 409A", "kind": "reviews"}
+{"round": 2, "query": "site:g2.com/products/eqvista/reviews 409A valuation", "kind": "reviews"}
+{"round": 2, "query": "site:trustpilot.com/reviews Stripe Atlas 83b", "kind": "reviews"}
+{"round": 2, "query": "site:youtube.com Delaware franchise tax startup founders explained", "kind": "video"}
+{"round": 2, "query": "site:youtube.com US company Indian founder Delaware C corp compliance Hindi", "kind": "video"}
+{"round": 2, "query": "site:youtube.com I forgot my 83b election story", "kind": "video"}

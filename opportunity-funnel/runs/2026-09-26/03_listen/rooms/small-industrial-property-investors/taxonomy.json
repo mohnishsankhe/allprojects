@@ -135,6 +135,30 @@
       "added_round": 1,
       "reasoning": "Forum threads ask about including management fees in NNN, CAM charges and industrial management fees.",
       "confidence": "moderate"
+    },
+    {
+      "key": "paid-coaching-worth-it",
+      "label": "Are coaching and mentorship programs even worth it, or a scam?",
+      "definition": "A new or would-be investor or syndicator is sold an expensive coaching, mentorship or seminar program (sometimes paid as a share of future deals) and cannot tell whether it is worth the money or a scam; includes people who paid and say it did not help. Financial-modelling courses stay under underwriting-deals.",
+      "added_round": 2,
+      "reasoning": "Round 2 brought many forum threads asking whether coaching and syndication mentorship programs are worth the money, calling some of them scams, and telling beginners not to pay for mentorship.",
+      "confidence": "high"
+    },
+    {
+      "key": "managing-the-property",
+      "label": "Property managers: are they worth it, and what software fits a small commercial portfolio?",
+      "definition": "The owner of a few commercial or industrial buildings must decide whether to pay a property manager or self-manage, has trouble with a negligent or dishonest manager, or cannot find property-management software that fits a small commercial portfolio. The fee to charge on NNN leases and passing it through CAM stays under nnn-fees-cam.",
+      "added_round": 2,
+      "reasoning": "Round 2 brought forum threads asking whether property managers are worth it, how to hold a negligent one to account, and which software suits a small commercial portfolio; running the buildings is also the last step of the room's ladder.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "taxes-insurance-jump",
+      "label": "Property taxes doubled after purchase and insurance is through the roof",
+      "definition": "After a purchase the property tax is reassessed on the new price, or the insurance premium jumps, so running costs come in far above the owner's budget and eat the cash flow; includes estimating these two costs before buying and appealing the assessment. General questions about what goes into NOI stay under underwriting-deals.",
+      "added_round": 2,
+      "reasoning": "Round 2 brought forum threads on property taxes doubling or being reassessed after purchase and on commercial insurance costs going through the roof, plus many sellers of contingency-fee tax appeals and insurance quotes.",
+      "confidence": "moderate"
     }
   ]
 }

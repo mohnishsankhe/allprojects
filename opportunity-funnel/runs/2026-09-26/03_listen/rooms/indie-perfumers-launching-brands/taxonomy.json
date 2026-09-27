@@ -103,6 +103,46 @@
       "added_round": 1,
       "reasoning": "Perfume sellers on eBay and Amazon discuss hazmat rules and a packaging seller writes a hazmat guide for small perfume brands. No record yet shows an indie perfumer saying it, so member support is absent in round 1.",
       "confidence": "low"
+    },
+    {
+      "key": "perfumers-alcohol-hard-to-find",
+      "label": "Having a difficulty finding alcohol: where can we get perfumers alcohol?",
+      "definition": "The person cannot get or choose the alcohol that perfume is diluted in: where to buy perfumer's alcohol, whether denatured, undenatured or food-grade ethanol is suitable, and the permits or tax rules for buying it (for example a US TTB permit or a UK HMRC authorisation). The aroma materials themselves belong to materials-cost-and-sourcing.",
+      "added_round": 2,
+      "reasoning": "Round 2 brought many Basenotes threads and a Quora question asking where to get perfumer's alcohol, which kind to use and whether a permit is needed. One member calls a UK perfumer's alcohol 'completely unsuitable for perfumes', and permit pages and alcohol sellers answer the same need.",
+      "confidence": "high"
+    },
+    {
+      "key": "blend-goes-wrong",
+      "label": "Formula help: my perfume blending gets cloudy, smells harsh or doesn't last",
+      "definition": "The person has made a blend and something is wrong with it: it turns cloudy, smells harsh or flat, always ends up smelling the same, loses its top notes or does not last. They ask how to fix the formula. Starting from zero (what to buy, how to begin) belongs to first-perfume-beginner.",
+      "added_round": 2,
+      "reasoning": "Round 2 brought many Basenotes threads from makers whose blends went wrong: cloudy blends, weak longevity, a perfume that smells too harsh, and naturals that always end with the same smell.",
+      "confidence": "high"
+    },
+    {
+      "key": "dupes-legal-risk",
+      "label": "How to legally sell dupes? Are smell-alikes counterfeits?",
+      "definition": "The person sells or wants to sell smell-alikes (dupes, clones, 'inspired by' oils) or re-bottled decants of designer perfumes and asks whether it is legal: what they may call it, what the label may say, and whether it counts as counterfeit or trademark infringement. Safety rules and licences belong to licence-and-safety-paperwork.",
+      "added_round": 2,
+      "reasoning": "Round 2 brought member questions on Avvo, JustAnswer, Parfumo and Basenotes asking whether selling replica fragrance oils, smell-alikes or re-bottled decants is legal, and what they can do as far as labeling and name.",
+      "confidence": "high"
+    },
+    {
+      "key": "hard-to-get-customers",
+      "label": "Got a perfume made but it's difficult to get leads",
+      "definition": "The person already has a perfume or a store but struggles to sell it: how to promote it on a small budget, where to sell, how to get into shops, and how to price it for direct sale or wholesale. Doubts before launch about whether a brand can pay belong to will-it-pay.",
+      "added_round": 2,
+      "reasoning": "Round 2 brought perfume founders asking how to promote their brand online, how to boost sales, for feedback on a new fragrance store and what discount to give retail stores. One says they got a perfume made but it is difficult to get leads.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "brand-name-trademark",
+      "label": "Where to find out registered perfume names? How to trademark a name",
+      "definition": "The person wants a brand or perfume name they can safely use and own: whether a name is already registered or too close to another, whether they may use it, and how to register it as a trademark or otherwise protect their brand. Selling smell-alikes of other brands belongs to dupes-legal-risk.",
+      "added_round": 2,
+      "reasoning": "Round 2 brought a few perfume-specific member questions about names (where to find registered perfume names, whether 'Elsa' can be a perfume name, how different a name must be) and several pages selling trademark registration. Support is still modest.",
+      "confidence": "moderate"
     }
   ]
 }
