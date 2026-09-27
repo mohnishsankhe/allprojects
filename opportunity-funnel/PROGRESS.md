@@ -61,11 +61,11 @@ Stage 3 per room:
 | Room | Rounds | Records | Labeled | Saturation | Draft | Quote check |
 |---|---|---|---|---|---|---|
 | active-retail-options-traders | 2 | 2309 | 1086 | round 1: 1086 records, not saturated | no | not checked |
-| bpo-contact-centre-operators-india-philippines | 2 | 2188 | 1243 | round 1: 1243 records, not saturated | no | not checked |
+| bpo-contact-centre-operators-india-philippines | 2 | 2188 | 1323 | round 1: 1243 records, not saturated | no | not checked |
 | business-brokers-ma-boutiques | 2 | 1005 | 979 | round 2: 979 records, not saturated | no | not checked |
-| cfa-candidates-community | 2 | 1814 | 1285 | round 2: 878 records, not saturated | no | not checked |
+| cfa-candidates-community | 2 | 1814 | 1445 | round 2: 878 records, not saturated | no | not checked |
 | d2c-brands-scaling-past-launch | 2 | 1884 | 988 | round 1: 988 records, not saturated | no | not checked |
-| dubai-real-estate-brokerages-telesales | 2 | 1516 | 1362 | round 1: 882 records, not saturated | no | not checked |
+| dubai-real-estate-brokerages-telesales | 2 | 1516 | 1472 | round 1: 882 records, not saturated | no | not checked |
 | gre-engineers-india | 2 | 1762 | 1726 | round 1: 900 records, not saturated | no | not checked |
 | gre-preppers-worldwide-online | 2 | 1951 | 1896 | round 2: 1896 records, not saturated | no | not checked |
 | indie-perfumers-launching-brands | 2 | 1794 | 1728 | round 2: 1728 records, not saturated | no | not checked |

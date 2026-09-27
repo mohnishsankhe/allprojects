@@ -1019,3 +1019,14 @@
 {"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "bpo-contact-centre-operators-india-philippines", "stage": 3, "ts": "2026-09-27T15:29:38+00:00"}
 {"command": "show", "ids": 17, "kind": "ran", "missing": [], "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T15:31:02+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T15:31:08+00:00"}
+{"command": "show", "ids": 24, "kind": "ran", "missing": [], "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T15:31:25+00:00"}
+{"command": "show", "ids": 30, "kind": "ran", "missing": [], "room": "dubai-real-estate-brokerages-telesales", "stage": 3, "ts": "2026-09-27T15:32:27+00:00"}
+{"command": "show", "ids": 5, "kind": "ran", "missing": [], "room": "bpo-contact-centre-operators-india-philippines", "stage": 3, "ts": "2026-09-27T15:34:47+00:00"}
+{"command": "show", "ids": 10, "kind": "ran", "missing": [], "room": "startup-founders-409a-83b-deadlines", "stage": 3, "ts": "2026-09-27T15:34:47+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "bpo-contact-centre-operators-india-philippines", "stage": 3, "ts": "2026-09-27T15:34:56+00:00"}
+{"command": "show", "ids": 98, "kind": "ran", "missing": [], "room": "small-industrial-property-investors", "stage": 3, "ts": "2026-09-27T15:34:59+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "startup-founders-409a-83b-deadlines", "stage": 3, "ts": "2026-09-27T15:35:04+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "startup-founders-409a-83b-deadlines", "stage": 3, "ts": "2026-09-27T15:35:06+00:00"}
+{"command": "listen-status", "dated": 8, "kind": "ran", "per_round": {"1": 961, "2": 990}, "per_source": {"websearch": 1951}, "records": 1951, "room": "gre-preppers-worldwide-online", "stage": 3, "ts": "2026-09-27T15:35:16+00:00", "undated": 1943}
+{"command": "show", "ids": 21, "kind": "ran", "missing": [], "room": "dubai-real-estate-brokerages-telesales", "stage": 3, "ts": "2026-09-27T15:35:17+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T15:36:11+00:00"}
