@@ -132,6 +132,123 @@
       "window": 300,
       "window_member_records": 472,
       "window_used": 946
+    },
+    {
+      "evaluable": true,
+      "new_pains": [
+        "exam-day-mistakes",
+        "stress-and-anxiety"
+      ],
+      "new_records": 717,
+      "rank_changes": [
+        {
+          "key": "failed-what-next",
+          "rank_after": 8,
+          "rank_before": 7
+        },
+        {
+          "key": "giving-up",
+          "rank_after": 14,
+          "rank_before": 11
+        },
+        {
+          "key": "hardest-topics",
+          "rank_after": 13,
+          "rank_before": 11
+        },
+        {
+          "key": "job-without-charter",
+          "rank_after": 9,
+          "rank_before": 8
+        },
+        {
+          "key": "mock-scores-readiness",
+          "rank_after": 15,
+          "rank_before": 14
+        },
+        {
+          "key": "postpone-or-refund",
+          "rank_after": 7,
+          "rank_before": 5
+        },
+        {
+          "key": "prep-not-enough",
+          "rank_after": 1,
+          "rank_before": 16
+        },
+        {
+          "key": "rules-and-deadlines",
+          "rank_after": 6,
+          "rank_before": 3
+        },
+        {
+          "key": "scholarship-essay",
+          "rank_after": 4,
+          "rank_before": 2
+        },
+        {
+          "key": "study-with-full-time-job",
+          "rank_after": 11,
+          "rank_before": 9
+        },
+        {
+          "key": "test-centre-problems",
+          "rank_after": 17,
+          "rank_before": 16
+        },
+        {
+          "key": "total-fees",
+          "rank_after": 2,
+          "rank_before": 1
+        },
+        {
+          "key": "which-prep-provider",
+          "rank_after": 5,
+          "rank_before": 6
+        },
+        {
+          "key": "work-experience-charter",
+          "rank_after": 12,
+          "rank_before": 13
+        },
+        {
+          "key": "worth-it",
+          "rank_after": 3,
+          "rank_before": 4
+        }
+      ],
+      "records": 2468,
+      "round": 3,
+      "saturated": false,
+      "taxonomy_added": [
+        "exam-day-mistakes",
+        "stress-and-anxiety"
+      ],
+      "taxonomy_keys": [
+        "charter-no-job",
+        "exam-day-mistakes",
+        "failed-what-next",
+        "giving-up",
+        "hardest-topics",
+        "how-to-study",
+        "job-without-charter",
+        "level3-essays",
+        "mock-scores-readiness",
+        "postpone-or-refund",
+        "prep-not-enough",
+        "rules-and-deadlines",
+        "scholarship-essay",
+        "stress-and-anxiety",
+        "study-with-full-time-job",
+        "test-centre-problems",
+        "total-fees",
+        "which-prep-provider",
+        "work-experience-charter",
+        "worth-it"
+      ],
+      "window": 300,
+      "window_member_records": 377,
+      "window_used": 717
     }
   ],
   "stop_reason": null,

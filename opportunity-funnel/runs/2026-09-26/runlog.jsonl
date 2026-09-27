@@ -1310,3 +1310,10 @@
 {"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "gre-preppers-worldwide-online", "stage": 3, "ts": "2026-09-27T18:15:22+00:00"}
 {"command": "show", "ids": 51, "kind": "ran", "missing": [], "room": "gre-preppers-worldwide-online", "stage": 3, "ts": "2026-09-27T18:16:25+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T18:17:36+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "small-business-owners-reddit-community", "stage": 3, "ts": "2026-09-27T18:20:06+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "indie-perfumers-launching-brands", "stage": 3, "ts": "2026-09-27T18:20:09+00:00"}
+{"changed": 5, "command": "apply-patches", "kind": "ran", "patches": ["pack_r3_001", "pack_r3_002", "pack_r3_003", "pack_r3_004", "pack_r3_005", "pack_r3_006", "pack_r3_007", "pack_r3_008", "pack_r3_009"], "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T18:20:29+00:00"}
+{"by_kind": {"blog_or_site": 746, "forum": 660, "jobs": 97, "news": 15, "official": 106, "qa": 482, "reviews": 143, "social": 52, "video": 167}, "by_source": {"websearch": 2468}, "by_voice": {"media": 297, "member": 1023, "other": 713, "seller": 435}, "command": "count", "kind": "count", "labeled": 2468, "pains": 20, "room": "cfa-candidates-community", "source_kinds": 9, "stage": 3, "ts": "2026-09-27T18:20:32+00:00"}
+{"command": "saturation", "kind": "count", "new_pains": ["exam-day-mistakes", "stress-and-anxiety"], "new_records": 717, "rank_changes": 15, "records": 2468, "room": "cfa-candidates-community", "round": 3, "saturated": false, "stage": 3, "stop_reason": null, "ts": "2026-09-27T18:20:36+00:00"}
+{"command": "listen-status", "dated": 4, "kind": "ran", "per_round": {"1": 850, "2": 964, "3": 728}, "per_source": {"websearch": 2542}, "records": 2542, "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T18:20:39+00:00", "undated": 2538}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T18:20:47+00:00"}
