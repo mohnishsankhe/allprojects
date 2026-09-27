@@ -105,9 +105,14 @@ def test_competition_rank():
 
 
 # --------------------------------------------------------------------------- saturation
-def _sat(run, froot, h, spec, window=4, extra_round=None):
-    """spec: list of (keys, money, failed) per member record in collection order."""
+def _sat(run, froot, h, spec, window=4, extra_round=None, from_round=1, whole_round=False, min_members=0):
+    """spec: list of (keys, money, failed) per member record in collection order.
+
+    The window rules default to the plain "last W records" test; the run's own rules are tested separately below."""
     h.set_rule(froot, "stage3", "saturation_window", window)
+    h.set_rule(froot, "stage3", "saturation_from_round", from_round)
+    h.set_rule(froot, "stage3", "saturation_window_whole_round", whole_round)
+    h.set_rule(froot, "stage3", "saturation_min_member_records", min_members)
     ids = _ids(run, len(spec))
     if extra_round:
         ids += _ids(run, len(extra_round), round=2)
@@ -219,3 +224,69 @@ def test_saturation_orders_by_meta_order_not_storage_order(run, froot, h):
     labels = {ids[0]: h.label(ids[0], keys=["b"]), ids[1]: h.label(ids[1], keys=["a"]), ids[2]: h.label(ids[2], keys=["a"])}
     e = counts.saturation_entry(ordered, labels, 2, 1, 3)
     assert e["new_pains"] == ["b"]  # rank 3 (stored first) is in the last window
+
+
+# --------------------------------------------------------------------------- the run's saturation rules
+def test_saturation_round_one_is_never_evaluable_with_run_rules(run, froot, h, cli):
+    # 8 round-1 records would pass a plain last-4 test; round 1 builds the pain list, so it is not evaluable.
+    _sat(run, froot, h, [(["a"], False, False)] * 8, window=4, from_round=2, whole_round=True)
+    r = cli("saturation", "--room", ROOM, "--run", "2026-09-26")
+    assert r.returncode == 0, r.stderr
+    assert "Not evaluable yet: round 1 builds the pain list; saturation is tested from round 2" in r.stdout
+    e = _sat_file(run)["rounds"][0]
+    assert e["evaluable"] is False and e["saturated"] is False and "round 1 builds the pain list" in e["note"]
+    r = cli("saturation", "--room", ROOM, "--run", "2026-09-26", "--final", "--stop-reason", "saturated")
+    assert r.returncode == 1 and "needs the last round to be saturated" in r.stderr
+
+
+def test_saturation_whole_latest_round_is_the_window(run, froot, h, cli):
+    # Round 2 brings 6 records; its first one shows a new pain b. A last-4 window would miss it (saturated);
+    # the whole-round window sees it (not saturated).
+    r1 = [(["a"], False, False)] * 4
+    r2 = [(["b"], False, False)] + [(["a"], False, False)] * 5
+    _sat(run, froot, h, r1, window=4, extra_round=r2, from_round=2, whole_round=True)
+    r = cli("saturation", "--room", ROOM, "--run", "2026-09-26")
+    assert r.returncode == 0, r.stderr
+    e = _sat_file(run)["rounds"][0]
+    assert e["round"] == 2 and e["window_used"] == 6 and e["window"] == 4
+    assert e["evaluable"] and e["new_pains"] == ["b"] and e["saturated"] is False
+    assert "New pains in the last 6: b" in r.stdout
+
+
+def test_saturation_plain_last_window_would_miss_the_same_pain(run, froot, h, cli):
+    r1 = [(["a"], False, False)] * 4
+    r2 = [(["b"], False, False)] + [(["a"], False, False)] * 5
+    _sat(run, froot, h, r1, window=4, extra_round=r2, from_round=2, whole_round=False)
+    assert cli("saturation", "--room", ROOM, "--run", "2026-09-26").returncode == 0
+    e = _sat_file(run)["rounds"][0]
+    assert e["window_used"] == 4 and e["new_pains"] == [] and e["saturated"] is True
+
+
+def test_saturation_short_latest_round_keeps_the_last_window(run, froot, h, cli):
+    # Round 2 brings only 2 records: the window stays the last 4 records (2 from round 2, 2 from round 1).
+    _sat(run, froot, h, [(["a"], False, False)] * 6, window=4, extra_round=[(["a"], False, False)] * 2,
+         from_round=2, whole_round=True)
+    assert cli("saturation", "--room", ROOM, "--run", "2026-09-26").returncode == 0
+    e = _sat_file(run)["rounds"][0]
+    assert e["round"] == 2 and e["new_records"] == 2 and e["window_used"] == 4 and e["saturated"] is True
+
+
+def test_saturation_window_needs_enough_member_records(run, h):
+    ids = _ids(run, 8)
+    stored = records.records_by_id(run, ROOM)
+    ordered = counts.order_records(ids, stored)
+    labels = {rid: h.label(rid, keys=["a"]) for rid in ordered[:4]}
+    # the last 4 records: 2 member records, 2 seller records
+    labels.update({ordered[4]: h.label(ordered[4], keys=["a"]), ordered[5]: h.label(ordered[5], keys=["a"]),
+                   ordered[6]: h.label(ordered[6], voice="seller", keys=[]), ordered[7]: h.label(ordered[7], voice="seller", keys=[])})
+    e = counts.saturation_entry(ordered, labels, 4, 1, 8, min_member_records=3)
+    assert e["evaluable"] is False and e["saturated"] is False and e["window_member_records"] == 2
+    assert "fewer than 3" in e["note"]
+    e = counts.saturation_entry(ordered, labels, 4, 1, 8, min_member_records=2)
+    assert e["evaluable"] is True and e["saturated"] is True
+
+
+def test_run_rules_set_the_conservative_saturation_reading():
+    rules = common.load_kill_rules()["stage3"]
+    assert rules["saturation_from_round"] == 2 and rules["saturation_window_whole_round"] is True
+    assert rules["saturation_min_member_records"] == 30 and rules["saturation_window"] == 300

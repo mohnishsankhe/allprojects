@@ -270,13 +270,34 @@ def member_pain_stats(record_ids, labels_by_id: dict) -> dict:
     return stats
 
 
-def saturation_entry(ordered_ids, labels_by_id: dict, window: int, round_no: int, new_records: int) -> dict:
+def saturation_entry(ordered_ids, labels_by_id: dict, window: int, round_no: int, new_records: int,
+                     from_round: int = 1, whole_round: bool = False, min_member_records: int = 0) -> dict:
+    """One round's saturation verdict over records in collection order.
+
+    `from_round`: earlier rounds are not evaluable (round 1 builds the pain list, so its own tail cannot test it).
+    `whole_round`: when the latest round brought more than `window` records, the window is that whole round, because
+    the order inside a round is only query order. `min_member_records`: a window with fewer member records cannot
+    show a new pain, so it is not evaluable.
+    """
     n = len(ordered_ids)
-    entry = {"round": round_no, "records": n, "new_records": new_records, "window": window,
-             "evaluable": n >= window + 1, "new_pains": [], "rank_changes": [], "saturated": False}
-    if not entry["evaluable"]:
-        entry["note"] = f"not evaluable: {n} records, need at least {window + 1} (window {window} + 1)"
+    w = max(window, new_records) if whole_round else window
+    entry = {"round": round_no, "records": n, "new_records": new_records, "window": window, "window_used": w,
+             "evaluable": False, "new_pains": [], "rank_changes": [], "saturated": False}
+    if round_no < from_round:
+        entry["note"] = (f"not evaluable: round {round_no} builds the pain list; saturation is tested on the records "
+                         f"of round {from_round} and later")
         return entry
+    if n < w + 1:
+        entry["note"] = f"not evaluable: {n} records, need at least {w + 1} (window {w} + 1)"
+        return entry
+    members = sum(1 for rid in ordered_ids[n - w:] if (labels_by_id.get(rid) or {}).get("voice") == "member")
+    entry["window_member_records"] = members
+    if members < min_member_records:
+        entry["note"] = (f"not evaluable: the last {w} records hold {members} member records, fewer than "
+                         f"{min_member_records}, too few to show a new pain")
+        return entry
+    entry["evaluable"] = True
+    window = w
     before = member_pain_stats(ordered_ids[: n - window], labels_by_id)
     after = member_pain_stats(ordered_ids, labels_by_id)
     entry["new_pains"] = sorted(k for k in after if k not in before)
@@ -304,7 +325,10 @@ def cmd_saturation(args) -> int:
     rounds = [records.record_round(stored[rid]) for rid in ids if rid in stored]
     round_no = max(rounds) if rounds else 0
     new_records = sum(1 for r in rounds if r == round_no)
-    entry = saturation_entry(ordered, labels, window, round_no, new_records)
+    entry = saturation_entry(ordered, labels, window, round_no, new_records,
+                             from_round=int(rules.get("saturation_from_round", 1)),
+                             whole_round=bool(rules.get("saturation_window_whole_round", False)),
+                             min_member_records=int(rules.get("saturation_min_member_records", 0)))
 
     out = common.room_dir(run, room) / "saturation.json"
     data = common.read_json(out) if out.exists() else {}
@@ -327,14 +351,22 @@ def cmd_saturation(args) -> int:
         data["final"] = True
     common.write_json(out, data)
 
+    w = entry["window_used"]
     if not entry["evaluable"]:
+        if round_no < int(rules.get("saturation_from_round", 1)):
+            why = f"round {round_no} builds the pain list; saturation is tested from round {rules.get('saturation_from_round')}"
+        elif entry["records"] < w + 1:
+            why = f"need at least {w + 1}"
+        else:
+            why = (f"the last {w} records hold only {entry.get('window_member_records', 0)} member records "
+                   f"(need {rules.get('saturation_min_member_records')})")
         verdict = (f"Round {round_no}: {entry['records']} records ({new_records} new). Not evaluable yet: "
-                   f"need at least {window + 1}. Saturated: no.")
+                   f"{why}. Saturated: no.")
     else:
         changes = "; ".join(f"{c['key']} ({c['rank_before']} -> {c['rank_after']})" for c in entry["rank_changes"])
         verdict = (f"Round {round_no}: {entry['records']} records ({new_records} new). "
                    f"Saturated: {'yes' if entry['saturated'] else 'no'}. "
-                   f"New pains in the last {window}: {', '.join(entry['new_pains']) or 'none'}. "
+                   f"New pains in the last {w}: {', '.join(entry['new_pains']) or 'none'}. "
                    f"Rank changes: {changes or 'none'}.")
     if args.final:
         verdict += f" Stopped: {args.stop_reason}."

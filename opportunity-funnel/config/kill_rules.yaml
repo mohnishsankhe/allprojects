@@ -26,6 +26,9 @@ stage3:
   lookback_months: 24           # (spec, earlier brief) the last 24 months
   min_records_per_room: 500     # (spec) at least 500 where available
   saturation_window: 300        # (spec) stop when the last 300 new records add no new pain and change no pain's rank
+  saturation_from_round: 2      # (conservative reading, logged) "at least 500 records, then continue until...": round 1 builds the pain list, so saturation is tested only on records collected after it
+  saturation_window_whole_round: true   # (conservative reading, logged) when the latest round adds more than saturation_window records, the window is that whole round (the order inside a round is only query order)
+  saturation_min_member_records: 30     # (conservative reading, logged) a window with fewer member records cannot show a new pain, so it is not evaluable and the room keeps listening
   max_rounds: 8                 # (default) safety stop; hitting it is logged as "not saturated"
   exhausted_round_new_records: 50   # (default) a round of new queries that adds fewer records than this = source exhausted (logged)
   min_source_kinds: 3           # (spec) at least three kinds of source per room where they exist
