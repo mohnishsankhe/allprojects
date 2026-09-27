@@ -1,0 +1,555 @@
+{
+  "rooms": [
+    {
+      "slug": "uae-businesses-corporate-tax-filing",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.fastlanecareer.com/corporate-tax",
+        "reasoning": "UAE company owners already buy corporate tax filing through search: an FTA-registered agent sells returns from AED 249 on a page built for the search query, and UAE-edition accounting software (Zoho Books, Wafeq) is compared on GetApp/Capterra UAE. The warm path w5 (large-call-volume businesses in India and the Gulf via TinyAI) covers only a small subset of UAE companies, not this room as a whole, so it is not claimed.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": null,
+        "reasoning": "The core paid problems are tax registration, bookkeeping to filing standard, the corporate tax return, transfer-pricing disclosures and VAT returns; that is tax compliance and accounting, not corporate finance or valuation (d2). Adjacent only.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {
+          "what": "Self-serve corporate tax return filing by an FTA-registered agent (revenue under AED 3 million)",
+          "price_text": "AED 249",
+          "amount": 249,
+          "currency": "AED",
+          "unit": "return",
+          "url": "https://www.fastlanecareer.com/corporate-tax",
+          "seen_via": "search"
+        },
+        {
+          "what": "Corporate tax filing cost guide, entry tier",
+          "price_text": "AED 249",
+          "amount": 249,
+          "currency": "AED",
+          "unit": "return",
+          "url": "https://www.fastlanecareer.com/blog/corporate-tax-filing-cost-uae",
+          "seen_via": "search"
+        },
+        {
+          "what": "Accountant-led corporate tax return with bookkeeping clean-up",
+          "price_text": "AED 5,000 to AED 10,000",
+          "amount": 5000,
+          "currency": "AED",
+          "unit": "return",
+          "url": "https://finanshels.com/blog/accountant-fee-in-uae-for-corporate-tax-return",
+          "seen_via": "search"
+        },
+        {
+          "what": "Zoho Books UAE edition, Standard plan (VAT and corporate tax accounting software)",
+          "price_text": "AED 60/month",
+          "amount": 60,
+          "currency": "AED",
+          "unit": "month",
+          "url": "https://www.zoho.com/ae/books/pricing",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "The pains need bookkeeping, deadline tracking and a registered tax agent's filing. The licence is rentable through an accountant (r1); no ritual, large capital or licensed advocacy sits at the core.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": true,
+        "exclusion_id": "x1",
+        "reasoning": "The room's core paid problem is the filed corporate tax return, which in the UAE means tax sign-off by an FTA-registered tax agent, a licence the founder does not hold in the customer's country. A guidance-only product would avoid this, but it is not what the room pays for.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "A company hands over its books and relies on the filing being right, with a Dh10,000 penalty and FTA inspections behind it; that is a B2B service with a costly outcome.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "nism-certification-renewers-india",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.udemy.com/course/nism-series-v-a-mutual-fund-distributors-certification-class/",
+        "reasoning": "Distributors already buy NISM prep through public marketplaces and search: Udemy lists several paid NISM V-A courses (one saying over 54,000 students) and Pass4sure sells mock tests at Rs. 499 plus GST. No warm path fits: w2 covers investment banking, private equity and finance professionals reached through colleagues, and mutual fund distributors are mostly independent agents outside that network.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": null,
+        "reasoning": "The exams and renewals test SEBI and AMFI rules, mutual fund products, KYC and distribution practice; corporate finance and valuation (d2) covers only a slice of the Series XV analyst syllabus, so the room's core problems are adjacent, not covered.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {
+          "what": "NISM Series V-A exam fee",
+          "price_text": "₹1,500 plus 18% GST",
+          "amount": 1500,
+          "currency": "INR",
+          "unit": "attempt",
+          "url": "https://www.wealthy.in/partner-desk/partner-blog/nism-series-5a-exam-fees-validity-attempts-523",
+          "seen_via": "search"
+        },
+        {
+          "what": "AMFI ARN registration fee",
+          "price_text": "₹3,000 plus GST",
+          "amount": 3000,
+          "currency": "INR",
+          "unit": "one-off",
+          "url": "https://www.wealthy.in/partner-desk/partner-blog/amfi-arn-registration-step-by-step-guide-524",
+          "seen_via": "search"
+        },
+        {
+          "what": "NISM eCPE renewal for mutual fund distributors",
+          "price_text": "Rs.2500",
+          "amount": 2500,
+          "currency": "INR",
+          "unit": "renewal",
+          "url": "https://cafemutual.com/news/industry/19313-good-news-nism-launches-ecpe-for-mf-distributors",
+          "seen_via": "search"
+        },
+        {
+          "what": "Pass4sure NISM mutual fund distributor mock test subscription",
+          "price_text": "Rs. 499/= (+GST)",
+          "amount": 499,
+          "currency": "INR",
+          "unit": "subscription",
+          "url": "https://pass4sure.in/exam/nism-series-v-mutual-fund-distributors-certification-exam-10.aspx",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Exam prep, renewal reminders and registration paperwork need content, accountability and checklists; nothing at the core needs large capital, ritual or licensed advocacy.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Helping intermediaries pass exams and keep registrations alive is not regulated investment advice; the exclusion would only bite if the product gave portfolio or stock advice to their clients. No employer overlap.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": false,
+        "reasoning": "The likely product is low-priced self-serve prep (hundreds to a few thousand rupees) bought on marketplaces, which people already do without a trusted source.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "finra-series-79-sie-new-hires",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w2",
+        "evidence_url": null,
+        "reasoning": "First-year analysts and associates at broker-dealers are investment banking professionals, and the founder's current and past colleagues are exactly how w2 reaches them. Search reach also exists: Kaplan sells a Series 79 course page (https://www.kaplanfinancial.com/securities/series-79), CertFuel's comparison shows Knopman Marks from $630, and the App Store lists Series 79 test-prep apps.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d2",
+        "reasoning": "The Series 79 tests M&A, valuation, financial statements, registration and deal documents, which is the founder's strong corporate finance, valuation and transactions domain; the SIE and Series 63 rules parts are smaller and closely related.",
+        "confidence": "high"
+      },
+      "spend": [
+        {
+          "what": "Series 79 exam fee per attempt",
+          "price_text": "$395",
+          "amount": 395,
+          "currency": "USD",
+          "unit": "attempt",
+          "url": "https://www.certfuel.com/series-79/getting-started/what-is-series-79/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Knopman Marks Series 79 prep, starting price",
+          "price_text": "$630",
+          "amount": 630,
+          "currency": "USD",
+          "unit": "package",
+          "url": "https://www.certfuel.com/series-79/best-prep/",
+          "seen_via": "search"
+        },
+        {
+          "what": "CertFuel Series 79 adaptive question bank, 12 months",
+          "price_text": "$170",
+          "amount": 170,
+          "currency": "USD",
+          "unit": "package",
+          "url": "https://www.certfuel.com/series-79/best-prep/",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Passing inside the firm's window needs a study plan, question practice and someone to hold the hire to it; that is accountability and judgment, no licence, capital or ritual.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Exam coaching uses public syllabus content, not the employer's clients, deals or confidential information, so x2 does not apply; employer overlap: the room is investment banking, so the founder's outside-business rules must be checked before pursuing it.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "The outcome is personal and job-critical (fail twice and lose the job) and the likely product is coaching or a cohort, which a hire only buys from someone credible.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "frm-candidates-exam-windows",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w2",
+        "evidence_url": null,
+        "reasoning": "FRM candidates are finance professionals (risk, treasury, audit staff), the group w2 names, but the founder's colleagues are in investment banking, so only part of this room sits inside that path. Search reach is the stronger reach: AnalystPrep sells an FRM Part I course at $349 with a 4.9 rating from 61 reviews (https://analystprep.com/shop/frm-part-1-complete-course-by-analystprep/), and Bionic Turtle and Kaplan Schweser sell through search too.",
+        "confidence": "low"
+      },
+      "depth": {
+        "ledger_id": null,
+        "reasoning": "The core paid problem is passing a risk-management credential: VaR, credit and operational risk, and Part II is entirely risk. Corporate finance (d2) and options trading (d7) cover only the valuation and derivatives parts of Part I, so they are adjacent, not covering.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {
+          "what": "GARP FRM one-time enrolment fee",
+          "price_text": "USD 400",
+          "amount": 400,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://www.zelleducation.com/blog/frm-registration-fees/",
+          "seen_via": "search"
+        },
+        {
+          "what": "FRM Part I exam fee, early registration",
+          "price_text": "USD 600",
+          "amount": 600,
+          "currency": "USD",
+          "unit": "exam",
+          "url": "https://www.zelleducation.com/blog/frm-registration-fees/",
+          "seen_via": "search"
+        },
+        {
+          "what": "FRM exam fee per part, standard registration",
+          "price_text": "USD 800",
+          "amount": 800,
+          "currency": "USD",
+          "unit": "exam",
+          "url": "https://www.zelleducation.com/blog/frm-registration-fees/",
+          "seen_via": "search"
+        },
+        {
+          "what": "AnalystPrep FRM Part I Practice package, 12 months",
+          "price_text": "$349",
+          "amount": 349,
+          "currency": "USD",
+          "unit": "package",
+          "url": "https://analystprep.com/shop/frm-part-1-complete-course-by-analystprep/",
+          "seen_via": "search"
+        },
+        {
+          "what": "AnalystPrep FRM Part I Learn + Practice package, 12 months",
+          "price_text": "$499",
+          "amount": 499,
+          "currency": "USD",
+          "unit": "package",
+          "url": "https://analystprep.com/shop/frm-part-1-complete-course-by-analystprep/",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Candidates need a study plan, practice and accountability before fixed windows; nothing at the core needs large capital, ritual or licensed advocacy.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Exam prep for a risk credential is not regulated advice and uses no employer clients, deals or confidential information.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "The prep spend is $349 to $949 per part with a personal career outcome, and the product this founder could supply (a cohort or coaching) is bought on credibility rather than picked from a search page.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "dpdp-compliance-indian-data-businesses",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w5",
+        "evidence_url": null,
+        "reasoning": "The room is lenders, hospitals, ed-tech, D2C brands and call centres in India, the same list w5 names for TinyAI, so the warm path fits; the ledger notes it is mostly cold beyond existing TinyAI clients. Search reach exists as well: ConsentOS sells DPDP consent software from ₹2,999/month on a public pricing page (https://consentos.in/pricing/).",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": null,
+        "reasoning": "The core paid problems are a privacy-law gap assessment, consent notices and flows, breach and grievance processes and data deletion; the founder's AI-products domain (d5) covers only step 4 (consent in call recordings and voice agents), which is adjacent to the core, not the core.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {
+          "what": "DPDP gap assessment and implementation roadmap by boutique and mid-market consultants",
+          "price_text": "₹1.5 lakh and ₹4 lakh",
+          "amount": 150000,
+          "currency": "INR",
+          "unit": "project",
+          "url": "https://www.tcsa.in/resources/top-dpdp-consultants-india",
+          "seen_via": "search"
+        },
+        {
+          "what": "Typical startup spend on privacy notices, consent flows and consent management",
+          "price_text": "₹50,000 to ₹2 lakh",
+          "amount": 50000,
+          "currency": "INR",
+          "unit": "project",
+          "url": "https://www.consently.in/blog/dpdp-act-compliance-cost-india-2026",
+          "seen_via": "search"
+        },
+        {
+          "what": "ConsentOS DPDP compliance software, entry plan",
+          "price_text": "₹2,999/month",
+          "amount": 2999,
+          "currency": "INR",
+          "unit": "month",
+          "url": "https://consentos.in/pricing/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Secure Privacy consent management, Business tier (lists India's DPDP Act)",
+          "price_text": "$59/month",
+          "amount": 59,
+          "currency": "USD",
+          "unit": "month",
+          "url": "https://secureprivacy.ai/blog/best-cmp-2026",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "The pains need assessment, policies, consent tooling and someone to own the deadline; legal sign-off can be rented from a lawyer (r1). No large capital, ritual or licensed advocacy at the core.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Compliance assessment and consent tooling are not reserved to licensed lawyers in India; only formal legal opinions would need one, and those are rentable. No employer overlap.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "A business hands over its data practices and relies on the work standing up to penalties of up to ₹250 crore; that is a B2B service priced in lakhs.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "trai-dlt-160-series-outbound-callers",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w5",
+        "evidence_url": null,
+        "reasoning": "Businesses running outbound calls at scale in India (lenders, insurers, ed-tech, D2C, hospitals) are exactly the large-call-volume businesses w5 names, reached through TinyAI; the ledger notes this is mostly cold beyond existing clients. Search reach exists too: 160-series numbers are sold on IndiaMart at ₹10,000/month (https://m.indiamart.com/azimtechnologysolutions) and DLT registration guides sell aggregator services from search.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d5",
+        "reasoning": "Recording and auditing calls to prove consent and deploying AI callers that log disclosures are call auditing and voice agents, the founder's strong d5 domain; DLT and template registration (steps 1 and 2) are telecom paperwork a voice-agent builder in India handles for clients, but they are the thinner part of the match.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {
+          "what": "DLT principal entity registration, one-time fee",
+          "price_text": "₹5,900",
+          "amount": 5900,
+          "currency": "INR",
+          "unit": "one-off",
+          "url": "https://frejun.com/how-to-get-160-series-number-bank-nbfc-india/",
+          "seen_via": "search"
+        },
+        {
+          "what": "DLT registration fee for principal entities",
+          "price_text": "₹5,900 (inclusive of 18% GST)",
+          "amount": 5900,
+          "currency": "INR",
+          "unit": "one-off",
+          "url": "https://www.smsgatewayhub.com/dlt-registration",
+          "seen_via": "search"
+        },
+        {
+          "what": "160-series number rental (IndiaMart listing)",
+          "price_text": "₹10,000/month",
+          "amount": 10000,
+          "currency": "INR",
+          "unit": "month",
+          "url": "https://m.indiamart.com/azimtechnologysolutions",
+          "seen_via": "search"
+        },
+        {
+          "what": "Contact-centre quality assurance software",
+          "price_text": "around $35 per user per month",
+          "amount": 35,
+          "currency": "USD",
+          "unit": "user per month",
+          "url": "https://www.guideflow.com/blog/contact-center-quality-assurance-software",
+          "seen_via": "search"
+        },
+        {
+          "what": "AI voice-agent platform usage (Vapi)",
+          "price_text": "$0.05 per minute",
+          "amount": 0.05,
+          "currency": "USD",
+          "unit": "minute",
+          "url": "https://www.cloudtalk.io/blog/vapi-ai-pricing/",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "The pains need registration know-how, compliant routing from vendors (r3, rentable) and call auditing; no large capital, ritual or licensed advocacy at the core.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Telecom compliance and call auditing need no licence the founder lacks and use nothing from the employer; no employer overlap.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "The buyer is a business whose numbers get blocked if the work is wrong, and the likely product is a B2B service or deployment, bought on credibility.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "eu-ai-act-deadline-ai-product-teams",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.capterra.com/p/10045882/EuroComply/",
+        "reasoning": "AI product teams already buy AI Act compliance through public marketplaces and search: EuroComply is listed on Capterra with a Starter plan at €41 per month, SetAIComply and Complymates publish monthly prices, and Udemy lists paid AI Act compliance masterclasses with certificates (https://www.udemy.com/course/the-eu-ai-act-compliance-masterclass-2024/). No warm path covers AI builders worldwide; TinyAI is a venture, not a listed warm path.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d5",
+        "reasoning": "Transparency disclosures, technical documentation and logging for chatbots and voice agents are product-building work in the founder's strong d5 domain, so he can tell a sound technical file from a weak one; risk classification, conformity assessment and CE marking are legal and process work outside it, so the match is partial.",
+        "confidence": "low"
+      },
+      "spend": [
+        {
+          "what": "SetAIComply SME compliance software",
+          "price_text": "€39.00/month",
+          "amount": 39,
+          "currency": "EUR",
+          "unit": "month",
+          "url": "https://www.setaicomply.com/pricing",
+          "seen_via": "search"
+        },
+        {
+          "what": "Complymates compliance platform, up to 25 AI systems",
+          "price_text": "€199/month",
+          "amount": 199,
+          "currency": "EUR",
+          "unit": "month",
+          "url": "https://complymates.com/pricing",
+          "seen_via": "search"
+        },
+        {
+          "what": "EuroComply Starter plan (AI Act risk classification and EU compliance scans)",
+          "price_text": "€41 per month",
+          "amount": 41,
+          "currency": "EUR",
+          "unit": "month",
+          "url": "https://www.capterra.com/p/10045882/EuroComply/",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "The pains need classification, documentation, disclosures and logs, with legal opinions rentable from a lawyer (r1) and notified bodies only for high-risk systems; no large capital, ritual or licensed advocacy at the core.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Compliance documentation and technical measures are not licensed activities in the EU; formal legal opinions would need a lawyer and can be rented. No employer overlap.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "Cheap self-serve software exists, but the product this founder could supply is a B2B compliance pack or service for agencies facing fines and contract demands, which is bought on credibility.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "eu-uk-cosmetics-allergen-labelling-beauty-brands",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://thefragrancefoundry.com/products/ifra-certificate-allergens-certificate-cpsr",
+        "reasoning": "Small perfume brands already buy this exact service online through search: The Fragrance Foundry sells IFRA certificate, allergen certificate and CPSR as a product listing at £299.99 ex. VAT, Naturally Balmy sells a single-product CPSR as a shop item, and Oxford Biosciences publishes £189 per CPSR. No ledger warm path reaches indie perfumers; the founder's own perfume brand (v2) is a venture, not a warm path.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": null,
+        "reasoning": "The core paid problems are allergen declarations, safety assessments, notifications and relabelling, which is cosmetics regulation and toxicology; the founder's fragrance depth (d8) is moderate and as an enthusiast, so it is adjacent, not covering.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {
+          "what": "Cosmetic product safety report (CPSR) per product",
+          "price_text": "£180 to £700 per product",
+          "amount": 180,
+          "currency": "GBP",
+          "unit": "product",
+          "url": "https://phoenixcosmeticsafety.com/blogs/regulatory-compliance/how-much-does-a-cpsr-cost",
+          "seen_via": "search"
+        },
+        {
+          "what": "IFRA certificate, allergens certificate and CPSR for one fragrance formula (The Fragrance Foundry)",
+          "price_text": "£299.99 (ex. VAT)",
+          "amount": 299.99,
+          "currency": "GBP",
+          "unit": "formula",
+          "url": "https://thefragrancefoundry.com/products/ifra-certificate-allergens-certificate-cpsr",
+          "seen_via": "search"
+        },
+        {
+          "what": "CPSR by Oxford Biosciences",
+          "price_text": "£189 per CPSR",
+          "amount": 189,
+          "currency": "GBP",
+          "unit": "product",
+          "url": "https://oxfordbiosciences.com/safety/cost/",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "The CPSR must be signed by a qualified safety assessor and notifications need a responsible person, both rentable from a partner (r1-style licence); relabelling needs vendors (r3). No large capital, ritual or licensed advocacy at the core.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Labelling guidance and document preparation are not medical, legal or investment advice; the qualified-assessor sign-off is a professional qualification that a partner can supply. No employer overlap.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "A brand cannot sell the product if the paperwork is wrong and the buyer is a business paying hundreds of pounds per product, so the likely product is a B2B service bought on credibility.",
+        "confidence": "moderate"
+      }
+    }
+  ]
+}
