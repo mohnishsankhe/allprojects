@@ -290,3 +290,44 @@ def test_run_rules_set_the_conservative_saturation_reading():
     rules = common.load_kill_rules()["stage3"]
     assert rules["saturation_from_round"] == 2 and rules["saturation_window_whole_round"] is True
     assert rules["saturation_min_member_records"] == 30 and rules["saturation_window"] == 300
+
+
+def _taxonomy(run, pains):
+    common.write_json(common.room_dir(run, ROOM) / "taxonomy.json",
+                      {"pains": [{"key": k, "label": k, "definition": k, "added_round": r} for k, r in pains]})
+
+
+def test_saturation_counts_a_pain_added_this_round_even_after_relabeling(run, froot, h, cli):
+    # Round 2 reveals pain c; relabeling then also finds c in a round-1 record, so the label stats alone
+    # would call round 2 saturated. The taxonomy says c was added in round 2: that is a new pain.
+    r1 = [(["a"], False, False)] * 3 + [(["c"], False, False)]
+    r2 = [(["a"], False, False)] * 3 + [(["c"], False, False)]
+    _sat(run, froot, h, r1, window=4, extra_round=r2, from_round=2, whole_round=True)
+    _taxonomy(run, [("a", 1), ("b", 1), ("c", 2)])
+    r = cli("saturation", "--room", ROOM, "--run", "2026-09-26")
+    assert r.returncode == 0, r.stderr
+    e = _sat_file(run)["rounds"][0]
+    assert e["round"] == 2 and e["taxonomy_added"] == ["c"] and e["new_pains"] == ["c"] and e["saturated"] is False
+    assert e["taxonomy_keys"] == ["a", "b", "c"]
+
+
+def test_saturation_detects_an_added_pain_without_added_round(run, froot, h, cli):
+    r1 = [(["a"], False, False)] * 5
+    _sat(run, froot, h, r1, window=4, from_round=1, whole_round=True)
+    _taxonomy(run, [("a", 1), ("b", 1)])
+    assert cli("saturation", "--room", ROOM, "--run", "2026-09-26").returncode == 0
+    assert _sat_file(run)["rounds"][0]["taxonomy_keys"] == ["a", "b"]
+    # round 2: the labeler adds pain d but forgets added_round (it says 1); relabeling puts d on a round-1 record
+    ids2 = _ids(run, 5, round=2)
+    records.make_batches(run, ROOM)
+    _taxonomy(run, [("a", 1), ("b", 1), ("d", 1)])
+    m = records.load_manifest(run, ROOM) if hasattr(records, "load_manifest") else common.read_json(records.manifest_path(run, ROOM))
+    first = next(iter(m["batches"]))
+    rows = common.read_jsonl(common.room_dir(run, ROOM) / "labels" / f"{first}.jsonl")
+    rows[0]["pain_keys"] = ["d"]
+    h.write_labels(run, ROOM, first, rows)
+    h.write_labels(run, ROOM, "batch_r2_001", [h.label(rid, keys=["a"]) for rid in ids2[:4]] + [h.label(ids2[4], keys=["d"])])
+    r = cli("saturation", "--room", ROOM, "--run", "2026-09-26")
+    assert r.returncode == 0, r.stderr
+    e2 = _sat_file(run)["rounds"][1]
+    assert e2["round"] == 2 and e2["taxonomy_added"] == ["d"] and "d" in e2["new_pains"] and e2["saturated"] is False

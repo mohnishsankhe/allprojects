@@ -271,18 +271,22 @@ def member_pain_stats(record_ids, labels_by_id: dict) -> dict:
 
 
 def saturation_entry(ordered_ids, labels_by_id: dict, window: int, round_no: int, new_records: int,
-                     from_round: int = 1, whole_round: bool = False, min_member_records: int = 0) -> dict:
+                     from_round: int = 1, whole_round: bool = False, min_member_records: int = 0,
+                     taxonomy_added=()) -> dict:
     """One round's saturation verdict over records in collection order.
 
     `from_round`: earlier rounds are not evaluable (round 1 builds the pain list, so its own tail cannot test it).
     `whole_round`: when the latest round brought more than `window` records, the window is that whole round, because
     the order inside a round is only query order. `min_member_records`: a window with fewer member records cannot
-    show a new pain, so it is not evaluable.
+    show a new pain, so it is not evaluable. `taxonomy_added`: pains the taxonomy gained this round; they count as
+    new pains even when relabeling found them in earlier records too (the new records are what revealed them).
     """
     n = len(ordered_ids)
     w = max(window, new_records) if whole_round else window
     entry = {"round": round_no, "records": n, "new_records": new_records, "window": window, "window_used": w,
              "evaluable": False, "new_pains": [], "rank_changes": [], "saturated": False}
+    if taxonomy_added:
+        entry["taxonomy_added"] = sorted(taxonomy_added)
     if round_no < from_round:
         entry["note"] = (f"not evaluable: round {round_no} builds the pain list; saturation is tested on the records "
                          f"of round {from_round} and later")
@@ -300,7 +304,7 @@ def saturation_entry(ordered_ids, labels_by_id: dict, window: int, round_no: int
     window = w
     before = member_pain_stats(ordered_ids[: n - window], labels_by_id)
     after = member_pain_stats(ordered_ids, labels_by_id)
-    entry["new_pains"] = sorted(k for k in after if k not in before)
+    entry["new_pains"] = sorted({k for k in after if k not in before} | set(taxonomy_added))
     rb, ra = competition_rank(before), competition_rank(after)
     entry["rank_changes"] = [{"key": k, "rank_before": rb[k], "rank_after": ra[k]}
                              for k in sorted(before) if k in after and rb[k] != ra[k]]
@@ -325,15 +329,26 @@ def cmd_saturation(args) -> int:
     rounds = [records.record_round(stored[rid]) for rid in ids if rid in stored]
     round_no = max(rounds) if rounds else 0
     new_records = sum(1 for r in rounds if r == round_no)
-    entry = saturation_entry(ordered, labels, window, round_no, new_records,
-                             from_round=int(rules.get("saturation_from_round", 1)),
-                             whole_round=bool(rules.get("saturation_window_whole_round", False)),
-                             min_member_records=int(rules.get("saturation_min_member_records", 0)))
 
     out = common.room_dir(run, room) / "saturation.json"
     data = common.read_json(out) if out.exists() else {}
     if not isinstance(data, dict):
         data = {}
+    # Pains the taxonomy gained this round: marked added_round = this round, or missing from the last earlier
+    # round's key list (so a forgotten added_round cannot hide a new pain).
+    added = set()
+    if round_no > 1:
+        added = {k for k, e in taxonomy.items() if isinstance(e, dict) and e.get("added_round") == round_no}
+        earlier = sorted((e for e in (data.get("rounds") or []) if isinstance(e, dict)
+                          and isinstance(e.get("round"), int) and e["round"] < round_no), key=lambda e: e["round"])
+        if earlier and isinstance(earlier[-1].get("taxonomy_keys"), list):
+            added |= set(taxonomy) - set(earlier[-1]["taxonomy_keys"])
+    entry = saturation_entry(ordered, labels, window, round_no, new_records,
+                             from_round=int(rules.get("saturation_from_round", 1)),
+                             whole_round=bool(rules.get("saturation_window_whole_round", False)),
+                             min_member_records=int(rules.get("saturation_min_member_records", 0)),
+                             taxonomy_added=sorted(added))
+    entry["taxonomy_keys"] = sorted(taxonomy)
     entries = [e for e in (data.get("rounds") or []) if isinstance(e, dict) and e.get("round") != round_no]
     entries.append(entry)
     entries.sort(key=lambda e: e.get("round", 0))
