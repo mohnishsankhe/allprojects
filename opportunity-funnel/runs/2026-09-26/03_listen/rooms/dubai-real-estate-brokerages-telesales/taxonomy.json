@@ -79,6 +79,14 @@
       "added_round": 1,
       "reasoning": "News titles report lay-offs in broker firms, a brokerage bankruptcy, a shakeout that may close thousands of agencies, and brokers going overseas because of war. They name brokerages, not only the market.",
       "confidence": "moderate"
+    },
+    {
+      "key": "aml-goaml-compliance",
+      "label": "goAML registration deadlines and money-laundering fines for real estate brokers",
+      "definition": "UAE anti-money-laundering (AML) law covers real estate brokers as DNFBPs (non-financial businesses the law must watch). Brokers must register on goAML, the government's reporting system, by a deadline and follow the AML rules. The Ministry of Economy inspects firms and fines those that break the rules, including real estate firms. Includes the rules, the deadlines and penalties, and paying consultants to register or stay compliant.",
+      "added_round": 2,
+      "reasoning": "Round 2 brings 24 records on goAML registration and AML rules: guides for real estate agents and brokers, consultants selling registration with deadlines and penalties, and Ministry of Economy fines on DNFBP firms, including real estate firms. No existing pain covers this rule; only sellers, media and official pages show it so far.",
+      "confidence": "moderate"
     }
   ]
 }

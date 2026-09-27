@@ -1,0 +1,40 @@
+{
+  "final": false,
+  "room": "d2c-brands-scaling-past-launch",
+  "rounds": [
+    {
+      "evaluable": false,
+      "new_pains": [],
+      "new_records": 988,
+      "note": "not evaluable: round 1 builds the pain list; saturation is tested on the records of round 2 and later",
+      "rank_changes": [],
+      "records": 988,
+      "round": 1,
+      "saturated": false,
+      "taxonomy_keys": [
+        "ad-account-disabled",
+        "ad-tracking-broken",
+        "ads-cost-more-return-less",
+        "agency-no-results",
+        "amazon-account-suspended",
+        "cash-crunch",
+        "channel-fees-margin",
+        "chargebacks-fraud",
+        "cod-settings-shopify",
+        "compliance-rules",
+        "courier-aggregator-failures",
+        "no-path-to-profit",
+        "rto-cod-returns",
+        "search-traffic-loss",
+        "shipping-costs-confusing",
+        "support-overload",
+        "whatsapp-costs-rising",
+        "whatsapp-order-updates"
+      ],
+      "window": 300,
+      "window_used": 988
+    }
+  ],
+  "stop_reason": null,
+  "window": 300
+}

@@ -20,7 +20,7 @@ You are the listener for exactly one room of the Opportunity Funnel. Your prompt
 - Never write records yourself. Records come only from the scripts (`harvest-search`, `fetch`, `ingest-inbox`). A web-search summary or a WebFetch answer is never a record and never a quote.
 - Counting, dedupe, dates and saturation are the scripts' job. You label.
 - Every judgment carries `reasoning` (one or two sentences) and `confidence` (high / moderate / low). Plain English, short sentences.
-- Before anything else, read `config/definitions.md`, the Stage 3 part of `config/formats.md`, `config/kill_rules.yaml` (stage3), and your room's entries in `RUN/01_rooms.json` and `RUN/02_mask.json` (large files: extract only your room, e.g. with a short python one-liner). Mode `label-batch` reads less (see there).
+- Before anything else, read `config/definitions.md`, the Stage 3 part of `config/formats.md`, `config/kill_rules.yaml` (stage3), and your room's entries in `RUN/01_rooms.json` and `RUN/02_mask.json` (large files: extract only your room, e.g. with a short python one-liner). Modes `label-prep`, `label-batch` and `label-finish` read less (see there). No mode needs to read the pipeline's source code: the commands print what you need.
 
 ## Mode `plan` (round N)
 Write the web searches for this round. Append them to `queries.jsonl` as `{"round": N, "query": "...", "kind": "..."}`. Do not run them; harvesters will.
@@ -34,6 +34,7 @@ Write the web searches for this round. Append them to `queries.jsonl` as `{"roun
 The workflow labels each round in three steps so that no agent has to hold a whole room in its context: one `label-prep`, then one `label-batch` per batch file (in parallel), then one `label-finish`.
 
 ### Mode `label-prep` (round N)
+Read only `config/definitions.md`, `taxonomy.json` and the batch files named below; skip the other reading in the hard rules.
 1. Run `funnel harvest-search --room <slug>`, then `funnel batches --room <slug>`. Note the counts: records in total, new this round, unmatched queries.
 2. Taxonomy (`taxonomy.json`: 5–20 pains in the room's own words; a pain is a problem, not a topic):
    - No `taxonomy.json` yet (round 1): read every batch file in `RUN/03_listen/raw/<slug>/_batches/` and write it, each pain with `added_round: 1`.
@@ -43,14 +44,18 @@ The workflow labels each round in three steps so that no agent has to hold a who
 4. Return: records in total and new this round, unmatched queries, the batches to label exactly as the `TODO:` line lists them (empty for `none`), whether you changed the taxonomy, the number of pains, the pains you added.
 
 ### Mode `label-batch` (round N, one batch)
-Other labelers handle the other batches at the same time.
-1. Read only: `config/definitions.md` (voices, pains, failed spend), `taxonomy.json`, and your batch file `RUN/03_listen/raw/<slug>/_batches/<batch>.md`. Skip the other reading in the hard rules.
-2. Write `labels/<batch>.jsonl` (overwrite it if it exists): one line per record of the batch, in the batch's order: `record_id`, `voice` (member / seller / media / other), `pain_keys` (0–2 keys from `taxonomy.json`), `money`, `failed_spend`, `reasoning`, `confidence`. Label what the text says, not what you guess. A title that only names a product or site is `seller` or `other` with no pain.
-3. Never edit `taxonomy.json` or another batch's labels. If records clearly show a pain the taxonomy lacks, label them without it and return it in `suggested_pains` (`key: one line`).
-4. Run `funnel count --room <slug> --batch <batch>` and fix every error it lists.
-5. Return: the batch, its records, labels written, member records, whether the check passed, suggested pains.
+Other labelers handle the other batches at the same time. This section is all you need: skip the other reading in the hard rules and do not read pipeline code.
+1. Read `config/definitions.md` (voices, pains, failed spend), `taxonomy.json`, and your batch file `RUN/03_listen/raw/<slug>/_batches/<batch>.md`. Each record there starts with `### <record_id> | <source> | <date> | <domain>`, followed by its text.
+2. Label every record. `voice`: `member` (someone in the room speaking for themself), `seller` (someone selling a fix, including a product or course page), `media` (news and blogs about the room), `other` (anything else, e.g. an unrelated page). These follow `config/definitions.md`; if they ever differ, the definitions win. `pain_keys`: 0–2 keys from `taxonomy.json`, only when the text shows that problem. `money`: the text mentions money or a price. `failed_spend`: the writer paid for something that did not solve the problem (then `money` is true too). Label what the text says, not what you guess; a title that only names a product or site is `seller` or `other` with no pain.
+3. Write `labels/<batch>.jsonl` in one go (overwrite it if it exists), one line per record of the batch, in the batch's order, exactly these keys:
+   `{"record_id": "...", "voice": "member", "pain_keys": ["key"], "money": false, "failed_spend": false, "reasoning": "one or two sentences", "confidence": "high"}`
+   `confidence` is `high`, `moderate` or `low`. If you use a helper script, put it in `cache/tmp/<slug>/` with your batch name in its file name.
+4. Never edit `taxonomy.json` or another batch's labels. If records clearly show a pain the taxonomy lacks, label them without it and return it in `suggested_pains` (`key: one line`).
+5. Run `funnel count --room <slug> --batch <batch>` and fix every error it lists (it checks: each record of the batch exactly once, no id from another batch, the four voices, 0–2 known keys, true/false flags, reasoning and confidence present).
+6. Return: the batch, its records, labels written, member records, whether the check passed, suggested pains.
 
 ### Mode `label-finish` (round N)
+Skip the reading in the hard rules and do not read pipeline code: run the commands below and report what they print.
 1. Run `funnel count --room <slug>`. If it lists errors, fix them (a batch with no or partial labels: label it as in `label-batch`).
 2. Run `funnel saturation --room <slug>`.
 3. Return: records in total and new this round, labeled, member records, pains, the saturation verdict with its numbers (new pains, rank changes), and unmatched queries (from `funnel listen-status --room <slug>`).

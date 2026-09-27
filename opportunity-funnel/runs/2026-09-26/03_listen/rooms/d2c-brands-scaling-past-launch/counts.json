@@ -1,0 +1,659 @@
+{
+  "labeled": 988,
+  "notes": [],
+  "pains": {
+    "ad-account-disabled": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Our ad account got disabled and appeals go nowhere",
+      "media_record_ids": [
+        "26263d30617f47e4",
+        "2ae23316c7f953f4"
+      ],
+      "media_records": 2,
+      "member_record_ids": [
+        "142f77735abf14f5",
+        "24a3374e57c84d30",
+        "3d6c9f609253a385",
+        "41045603faac6dfa",
+        "4d4dd8bf6be38a6b",
+        "678bd9b91d1a5a21",
+        "7b175b1ba96beffc",
+        "8040ec4d1905de23",
+        "847752b36f719e90",
+        "87c3948eddf3be35",
+        "8ac20466ee0a9765",
+        "8ad1d10f26740ba3",
+        "bc34210ecc094a0c",
+        "f18c76fda23ed2df",
+        "f64d2a90d65be060",
+        "ff9a8771442bda1e"
+      ],
+      "money_mentions": 1,
+      "money_record_ids": [
+        "4d4dd8bf6be38a6b"
+      ],
+      "record_count": 16,
+      "seller_record_ids": [
+        "2dd21893ff471509",
+        "56630671f92e3abe",
+        "9defce78ef2bd75a",
+        "a48108eecd3b3704",
+        "cd59541da5997180",
+        "e8cebe7a646b2389"
+      ],
+      "seller_records": 6
+    },
+    "ad-tracking-broken": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Ad clicks and purchases don't show up",
+      "media_record_ids": [],
+      "media_records": 0,
+      "member_record_ids": [
+        "03261ee3e16e7035",
+        "40c2bec21d935c9f",
+        "59e842f86dc5f522",
+        "e1d76613b31f70e8"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 4,
+      "seller_record_ids": [],
+      "seller_records": 0
+    },
+    "ads-cost-more-return-less": {
+      "failed_spend_mentions": 2,
+      "failed_spend_record_ids": [
+        "72981b20b6b0a989",
+        "ce1237eba3c51314"
+      ],
+      "label": "Ads cost more and return less",
+      "media_record_ids": [
+        "371c5e7fb02c9f8d",
+        "3ec56389e34cd3dc",
+        "5ce27878e0b3ea2e",
+        "f9d7d45d3b1b1eb1"
+      ],
+      "media_records": 4,
+      "member_record_ids": [
+        "72981b20b6b0a989",
+        "b3ca21b019c9b859",
+        "ce1237eba3c51314"
+      ],
+      "money_mentions": 2,
+      "money_record_ids": [
+        "72981b20b6b0a989",
+        "ce1237eba3c51314"
+      ],
+      "record_count": 3,
+      "seller_record_ids": [
+        "18eb57ed3f3352e0",
+        "2882952c4403d4ba",
+        "36f5fb6dc3feb702",
+        "48a8425507839052",
+        "4b8801ef716e596b",
+        "67068bd37d310173",
+        "7555ba7e912863f3",
+        "7de04c111a1aa130",
+        "a546cae172048448",
+        "c345a3bc4f4a9583",
+        "cd5a8657092b2841",
+        "d1381bc651b546f9",
+        "dbd1353908315bd4",
+        "dbd21b20a144dada",
+        "ec97350b56b54a2e"
+      ],
+      "seller_records": 15
+    },
+    "agency-no-results": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Agencies charge a lot and many don't deliver",
+      "media_record_ids": [
+        "2b1de32da3e1d440",
+        "94e8fd38381df26c",
+        "c5444cdeb44ff50a"
+      ],
+      "media_records": 3,
+      "member_record_ids": [
+        "36cdfcd95b4e5c2d",
+        "e5f8129e54b17c98"
+      ],
+      "money_mentions": 1,
+      "money_record_ids": [
+        "36cdfcd95b4e5c2d"
+      ],
+      "record_count": 2,
+      "seller_record_ids": [
+        "0a4a1391dce699d4",
+        "2522eebb38e6c754",
+        "6c421b63f116850f",
+        "89a21b9c7f82bc06",
+        "b7ac276177d5eeb3"
+      ],
+      "seller_records": 5
+    },
+    "amazon-account-suspended": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Amazon suspended or deactivated our seller account",
+      "media_record_ids": [
+        "015ed48bcb62c043",
+        "45b2f42317dcdfce",
+        "7117835af6fa285d",
+        "8189788f69d339ce"
+      ],
+      "media_records": 4,
+      "member_record_ids": [
+        "03434d6b1306fc07",
+        "0c7ed42785cc5294",
+        "26fc1aa4a229784f",
+        "328087ca4206a394",
+        "4f2d69a64f5f06ce",
+        "66b854aee54e8c5b",
+        "8531c8600efa4221",
+        "8bd5b7958c3e971b",
+        "a3a7aae98ec3791f",
+        "b3d43fcceaf2ec10",
+        "bb7fdda9620a5865",
+        "d4272fd3561f2aa2",
+        "d8021a1606a01fb8",
+        "f09d2c00b3994f2e"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 14,
+      "seller_record_ids": [
+        "1421fc6fa53eafc0",
+        "1bcafb1b34ed1da3",
+        "27060ca5686b2cea",
+        "492904f5b2c2eea5",
+        "9b0d78edbb9cb164",
+        "b35b88e29abc9a09",
+        "b47a57d0c97bd3f9",
+        "c8984a5b2dcaa9db",
+        "d83464c33bebf80a",
+        "ed7c40c073e9eed7",
+        "fbccfe8a784097a8"
+      ],
+      "seller_records": 11
+    },
+    "cash-crunch": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Cash is stuck in stock, ads and payouts",
+      "media_record_ids": [
+        "69b4f53b7ed00767"
+      ],
+      "media_records": 1,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "07a7053c5fe9a271",
+        "280a92c14ed02676",
+        "aeb48ff58d481d7a",
+        "cf02a1f75b1bf72c",
+        "d0960f24d81eba1c",
+        "d0ba333a844e3437",
+        "d5cd8227c12c3278"
+      ],
+      "seller_records": 7
+    },
+    "channel-fees-margin": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Marketplace and quick-commerce fees eat our margin",
+      "media_record_ids": [
+        "28075e478d3f567d",
+        "428c47e4533f7e82",
+        "429db4edb9bf1ccb",
+        "4b19ff10927123cc",
+        "908dd832ab254626",
+        "96ba0e86ecc63be8",
+        "e2f34b5aa2858e97",
+        "fd4edc1de895d800"
+      ],
+      "media_records": 8,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "096b9a0abd7b6801",
+        "263aef7bdd4c27ba",
+        "2bde5cd7a88b7946",
+        "55989e3e9b3701bc",
+        "58a52043559223f4",
+        "6bba7143caf384f1",
+        "6de015a131e8a072",
+        "881845e15aca74fb",
+        "90ec7d0f1ef9b3ba",
+        "91e75a53a9cf8cf7",
+        "b0b04cbb84e919a1",
+        "c7aae67e26de5df3",
+        "fe4fe9704e42c0c5"
+      ],
+      "seller_records": 13
+    },
+    "chargebacks-fraud": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "We lose chargebacks to scammers",
+      "media_record_ids": [],
+      "media_records": 0,
+      "member_record_ids": [
+        "025746bdd487cb66",
+        "08452450ef75535f"
+      ],
+      "money_mentions": 2,
+      "money_record_ids": [
+        "025746bdd487cb66",
+        "08452450ef75535f"
+      ],
+      "record_count": 2,
+      "seller_record_ids": [],
+      "seller_records": 0
+    },
+    "cod-settings-shopify": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Can't control cash on delivery on Shopify",
+      "media_record_ids": [],
+      "media_records": 0,
+      "member_record_ids": [
+        "409beceabd941f04",
+        "5b828d8fc9ab04b5",
+        "aefb9824ad10f07f",
+        "c50a02a96415acb0",
+        "d4baa91e7e69e14d",
+        "e6f384210e91f522",
+        "e9c6580270af1c37"
+      ],
+      "money_mentions": 3,
+      "money_record_ids": [
+        "c50a02a96415acb0",
+        "e6f384210e91f522",
+        "e9c6580270af1c37"
+      ],
+      "record_count": 7,
+      "seller_record_ids": [
+        "87856d296b1e5b28",
+        "c7a8a45b8f9d1210"
+      ],
+      "seller_records": 2
+    },
+    "compliance-rules": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "New e-commerce rules to comply with (labels, GST)",
+      "media_record_ids": [
+        "1c4def12fae04273",
+        "572b5fabd32b6508",
+        "6f32516a1a1cd2a0",
+        "7705d9c7eaffea7a",
+        "8f2903269486a3b0",
+        "9b44b0b498564e41",
+        "a6682127d8442980"
+      ],
+      "media_records": 7,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "27d6592d589b7e0f",
+        "4685a2a04e9e8ac0",
+        "80e17b8517986597",
+        "8b25442c4bc7099c",
+        "8ccebb1133c0040a",
+        "919f55aa59bcc897",
+        "963e44a64053083d",
+        "a7538907edcf8a8a",
+        "cb52c1f18eea12ee",
+        "dc8c9dc145a3103b",
+        "e770c1fef89b4631",
+        "f688baa69273253d"
+      ],
+      "seller_records": 12
+    },
+    "courier-aggregator-failures": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Our shipping partner lets us down: late pickups, weight disputes, no support",
+      "media_record_ids": [],
+      "media_records": 0,
+      "member_record_ids": [
+        "06d646e4a20f7a8f",
+        "0cd11805cfbe6a27",
+        "715fd68e600aea43",
+        "a1077f5e8ec43ec6",
+        "ea964890c23928a7"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 5,
+      "seller_record_ids": [
+        "d2597ffb74c4c683"
+      ],
+      "seller_records": 1
+    },
+    "no-path-to-profit": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Revenue grows but profit doesn't come",
+      "media_record_ids": [
+        "14571fca0d568877",
+        "196eb2c6ac201244",
+        "1ea0f5175485e387",
+        "265c66ad29d76d08",
+        "43077dc2d6aaed2e",
+        "945903a145f07c25",
+        "a29c125615c0f86b",
+        "b3f3dcee171ee7aa",
+        "c06da1d8f468958d",
+        "db48ef1e93d9a9ca"
+      ],
+      "media_records": 10,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "8505c3ce1df4572d",
+        "bfac4f941a14d7cc",
+        "e27180b495aad65f"
+      ],
+      "seller_records": 3
+    },
+    "rto-cod-returns": {
+      "failed_spend_mentions": 1,
+      "failed_spend_record_ids": [
+        "72981b20b6b0a989"
+      ],
+      "label": "RTO is killing us: COD orders get refused, returned or are fake",
+      "media_record_ids": [
+        "1a84dfb3a26a685f",
+        "25bd6f4896379d68",
+        "4977ce18e3f35934",
+        "549683c4d5d999c9",
+        "5f616f747f8939e0",
+        "67aa9f1528c5c116",
+        "7454f84b21656eb9",
+        "78d05231c1b13b38",
+        "7dca5dd3f1f362de",
+        "9f50975beef3646a",
+        "af2bfb8ffbc79bc5",
+        "bd4512f4a44c1130",
+        "e2a2767635291bd8"
+      ],
+      "media_records": 13,
+      "member_record_ids": [
+        "72981b20b6b0a989",
+        "8994ae0d835a2fa8",
+        "a000d2d4b412cbe9",
+        "f18f92e0a5037512"
+      ],
+      "money_mentions": 1,
+      "money_record_ids": [
+        "72981b20b6b0a989"
+      ],
+      "record_count": 4,
+      "seller_record_ids": [
+        "005f71e42127c456",
+        "063866b9719a6c2a",
+        "0f02ecdd1c57cb5b",
+        "13c31cafa26ac513",
+        "145dc9b0b9f4d9b8",
+        "1f7f78e303277052",
+        "31f4f6ac45099743",
+        "330f10350d2bda6c",
+        "33c062792d9d1383",
+        "369d5e07d685f29a",
+        "3804fd0e217eb5c2",
+        "3956f364c1f46bdc",
+        "3dc4ffd39e87b1d5",
+        "3de62fd27f7541ce",
+        "4185e77e01d222a4",
+        "426c3b7c06fcba84",
+        "432c0223c2eedd68",
+        "53214374be9ee704",
+        "554ca9c9e034802e",
+        "55ed1787ec88654f",
+        "5925cc6701e53b01",
+        "683dfc8f45a2fbe2",
+        "76ce7fb68e1d2b51",
+        "7c640f0bb4ff6bce",
+        "7da77b507658c752",
+        "84b936b4598cd27e",
+        "88eb4d62da79b7fb",
+        "8b7ef406a09557fb",
+        "8c7ef2873c13bedb",
+        "99cf51f14403a764",
+        "9f202512d6a266d6",
+        "a25befd1ba6a2a23",
+        "a5fc4da6652652ab",
+        "a70b29421568a3ee",
+        "a8225c9ec8a6666d",
+        "ac43a8abc2a2d83c",
+        "b65ea4c3c8a0ab09",
+        "b76a894dc965bf84",
+        "c32e9b1b301dd81e",
+        "c8db476bbbed47d3",
+        "d0b70d6695a0c65d",
+        "d37bbb40e3e6aeea",
+        "d3c64fffb5254a9b",
+        "dc2315c7f0c165ff",
+        "dff3f7cddf8ebdf3",
+        "e810e0c72f071264",
+        "e990c8ed504684bb",
+        "ed209eef481f88df",
+        "f753db06c4db0cd4",
+        "faa89c60c064ce44",
+        "fac212c42e83684f"
+      ],
+      "seller_records": 51
+    },
+    "search-traffic-loss": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Our search traffic dropped (AI answers take the clicks)",
+      "media_record_ids": [
+        "12de72893ab8a667",
+        "24aff740206fbd9e",
+        "297188e89702d5ae",
+        "5ba3d01c3bf2e2f7",
+        "71170800c28bb989",
+        "7283d78b3b2be3b0",
+        "a6207f2878179c86",
+        "aab3d4b368376086",
+        "c756d5e26f7fc4be",
+        "c7f20ef209b7d925",
+        "fe6e8bc1df17aa06"
+      ],
+      "media_records": 11,
+      "member_record_ids": [
+        "75301f92731f9b2d"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 1,
+      "seller_record_ids": [
+        "12e3f1237e964656",
+        "15f3ffab77f6c520",
+        "16c5a12ebc8ccf82",
+        "1f2b7bb501846ae7",
+        "235026dec45d85bf",
+        "48836b402cf107e3",
+        "532ddf8da7e21fc9",
+        "650047aa426829e0",
+        "67e254ca1ef6ed03",
+        "6c147ef99859e2f1",
+        "7436a29ef20275f2",
+        "80ba6631e6e183f5",
+        "afa3bb71dd065738",
+        "bc9deb10e70ab4db",
+        "de5971b6accb553d",
+        "e54bb64d38a289d3",
+        "fab2740b7a1a374d"
+      ],
+      "seller_records": 17
+    },
+    "shipping-costs-confusing": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Shipping and COD charges are high and confusing",
+      "media_record_ids": [],
+      "media_records": 0,
+      "member_record_ids": [
+        "5ad2b03aec3f0415",
+        "6ecde067389682ce",
+        "87c36eb5f4d52b0a"
+      ],
+      "money_mentions": 3,
+      "money_record_ids": [
+        "5ad2b03aec3f0415",
+        "6ecde067389682ce",
+        "87c36eb5f4d52b0a"
+      ],
+      "record_count": 3,
+      "seller_record_ids": [],
+      "seller_records": 0
+    },
+    "support-overload": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Support load grows faster than the team",
+      "media_record_ids": [
+        "6a830d86151bd25c",
+        "bf7f5b5f8d62dae0"
+      ],
+      "media_records": 2,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "00e9bd08d528c312",
+        "066dfbd84ad33f6c",
+        "11b6c30e12b39f09",
+        "1e304f043aca936d",
+        "3bdeb4a21c1cdefc",
+        "4b5eea9ac968aff7",
+        "4feca9bf6168d616",
+        "8248fe73736b0448",
+        "8b51ad71646b8f05",
+        "95965859a49d9ac6",
+        "b3ad2171dc8ea85d",
+        "cf0807eaea6be8b6",
+        "df049177ba6ed2e3"
+      ],
+      "seller_records": 13
+    },
+    "whatsapp-costs-rising": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "WhatsApp messaging costs keep going up",
+      "media_record_ids": [
+        "b8c683a7c9bf808f"
+      ],
+      "media_records": 1,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "0cfb8706a1c62f8e",
+        "46cee82ff9c2e686",
+        "80f5bf8a06791044",
+        "811868c798bcfcaa",
+        "82a30c275bae871d",
+        "a0bc46d2d33e3208",
+        "a298e13b63be914a",
+        "c71a2a9a92fda69a",
+        "caefe13f0fbcc810",
+        "d1e893a1b20d2b14",
+        "d42b8f1a089d074a",
+        "dd5fdcb0ce6824c2",
+        "e5d2a69262c1d1b7",
+        "f496dc18a5c35ea3"
+      ],
+      "seller_records": 14
+    },
+    "whatsapp-order-updates": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Need order confirmations and updates sent on WhatsApp",
+      "media_record_ids": [],
+      "media_records": 0,
+      "member_record_ids": [
+        "041d71a90432fd16",
+        "18e2a21b7323430b",
+        "6477aa84a63e26ab",
+        "65b5fc41b3323265",
+        "6eb9975d8c270695"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 5,
+      "seller_record_ids": [
+        "03fc5341b4a04220",
+        "1228aa3519979089",
+        "1398af7ba3040dba",
+        "1537969aa567aedc",
+        "1f7f78e303277052",
+        "3844127081dd0909",
+        "4f006883b782bbf5",
+        "55ed1787ec88654f",
+        "6a1b68398732bd18",
+        "7364e2285a6336a9",
+        "8f0ce3032585b134",
+        "9de125fd4973fca7",
+        "a22cbc6b4ce3c5a4",
+        "ea7cdef6f3624c5e",
+        "f92a71b8f620fa4d"
+      ],
+      "seller_records": 15
+    }
+  },
+  "records_in_manifest": 988,
+  "room": "d2c-brands-scaling-past-launch",
+  "totals": {
+    "by_kind": {
+      "blog_or_site": 465,
+      "forum": 54,
+      "jobs": 71,
+      "news": 33,
+      "qa": 68,
+      "reviews": 188,
+      "social": 26,
+      "video": 83
+    },
+    "by_source": {
+      "websearch": 988
+    },
+    "by_voice": {
+      "media": 175,
+      "member": 75,
+      "other": 310,
+      "seller": 428
+    },
+    "failed_spend_mentions": 2,
+    "member_records": 75,
+    "member_records_with_pain": 65,
+    "money_mentions": 12,
+    "source_kind_min_records": 5,
+    "source_kinds": [
+      "blog_or_site",
+      "forum",
+      "jobs",
+      "news",
+      "qa",
+      "reviews",
+      "social",
+      "video"
+    ]
+  }
+}
