@@ -345,6 +345,7 @@
       "5e8a894d61adba69",
       "8ecac8fda23e6ec6",
       "19b4588fba12753b",
+      "084ca7532f966773",
       "96aa0cc79f370b30",
       "c4cd7f18c4bd5f12",
       "e7f4c898b61da371",
@@ -407,10 +408,10 @@
       "6fc3a410e8b2e7ff",
       "f4df34dc972e7d86",
       "e2ee0d1decac8507",
-      "a6c6edc6706fdda7",
-      "cf6279120594efe0"
+      "a6c6edc6706fdda7"
     ],
     "batch_r1_006": [
+      "cf6279120594efe0",
       "bf4a635cb69a0c4b",
       "f8eda49cd61a059a",
       "e50e080641e50d04",
@@ -489,10 +490,10 @@
       "f9b888f061fbc54e",
       "192d47705c65128d",
       "def6e00899334ff3",
-      "40663b5aa06ef2f0",
-      "4d718a6a8cd0c175"
+      "40663b5aa06ef2f0"
     ],
     "batch_r1_007": [
+      "4d718a6a8cd0c175",
       "d2c24bc5285a3734",
       "9afcf069c8a00462",
       "2f6a417ade3d2704",
@@ -571,10 +572,10 @@
       "b71bdf2b52b5879c",
       "e0827e459acb83a3",
       "954d789dd50c2840",
-      "5761250c4720758b",
-      "fad78c461dbf2693"
+      "5761250c4720758b"
     ],
     "batch_r1_008": [
+      "fad78c461dbf2693",
       "358360ac8672eb1b",
       "742fe6c7552e3502",
       "f632888a49da9f5f",
@@ -653,10 +654,10 @@
       "1783c4becaf40c94",
       "84b8fe0a17ee0ca9",
       "4480158d37563bbd",
-      "b068f5f351b358d6",
-      "c3bef5644027d062"
+      "b068f5f351b358d6"
     ],
     "batch_r1_009": [
+      "c3bef5644027d062",
       "4f02a6d8827476f8",
       "44c1ff6afd28d0ea",
       "0eb7972905f4fb15",
@@ -735,10 +736,10 @@
       "9d96d061a3a211f0",
       "50de1e2b6d857554",
       "2ecedae7b982fc6a",
-      "b340c75c3abeef02",
-      "7a8e074699a733dd"
+      "b340c75c3abeef02"
     ],
     "batch_r1_010": [
+      "7a8e074699a733dd",
       "15e825f14c762f1a",
       "f6774a1a5209e486",
       "dade42cd2d9f1923",
@@ -817,10 +818,10 @@
       "8f64a049ce1af376",
       "5133f522105b0721",
       "7a907b27823487f6",
-      "80c225e2791f605d",
-      "f45c3045821146b1"
+      "80c225e2791f605d"
     ],
     "batch_r1_011": [
+      "f45c3045821146b1",
       "22b8c788b0f2af17",
       "e86e69298ded543b",
       "14af736ac395f5e3",
@@ -899,10 +900,10 @@
       "5304744822de5e31",
       "acd015976d755338",
       "b6630b5c831abd60",
-      "1dde1b42f9bb7095",
-      "f81ebca9db03138f"
+      "1dde1b42f9bb7095"
     ],
     "batch_r1_012": [
+      "f81ebca9db03138f",
       "0dd8d96f580ae7ed",
       "3492291a88eb9bf5",
       "58c086b039c8a6d8",
@@ -1778,12 +1779,12 @@
     "dropped_old": 8,
     "dropped_undated": 0,
     "include_undated_records": true,
-    "kept": 1725,
+    "kept": 1726,
     "kept_month_at_cutoff": 0,
-    "loaded": 1761,
+    "loaded": 1762,
     "lookback_cutoff": "2024-09-26",
     "lookback_months": 24,
-    "undated_kept": 1724
+    "undated_kept": 1725
   },
   "room": "gre-engineers-india",
   "rounds": {
@@ -1802,7 +1803,7 @@
         "batch_r1_011",
         "batch_r1_012"
       ],
-      "records": 900
+      "records": 901
     },
     "2": {
       "batches": [
@@ -1879,6 +1880,7 @@
     "0803ea4b5cd0abca",
     "082f11cbe0271093",
     "084b8de7426fe1cb",
+    "084ca7532f966773",
     "085a7e4cec18107d",
     "087144a494671d57",
     "0876fcc5d1b2490d",
