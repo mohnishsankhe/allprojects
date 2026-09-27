@@ -781,3 +781,9 @@
 {"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T12:34:37+00:00"}
 {"command": "show", "ids": 10, "kind": "ran", "missing": [], "room": "indie-perfumers-launching-brands", "stage": 3, "ts": "2026-09-27T12:38:37+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T12:39:39+00:00"}
+{"command": "show", "ids": 8, "kind": "ran", "missing": [], "room": "gre-preppers-worldwide-online", "stage": 3, "ts": "2026-09-27T12:41:30+00:00"}
+{"command": "show", "ids": 3, "kind": "ran", "missing": [], "room": "small-business-owners-reddit-community", "stage": 3, "ts": "2026-09-27T12:41:37+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "small-business-owners-reddit-community", "stage": 3, "ts": "2026-09-27T12:41:44+00:00"}
+{"command": "show", "ids": 3, "kind": "ran", "missing": [], "room": "lender-insurer-telesales-floors-india", "stage": 3, "ts": "2026-09-27T12:42:24+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "gre-engineers-india", "stage": 3, "ts": "2026-09-27T12:44:33+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T12:44:42+00:00"}
