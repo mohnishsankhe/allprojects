@@ -1,6 +1,8 @@
 """Tests for `ingest-inbox`: WhatsApp (iOS and Android), Telegram, CSV and plain-text exports are parsed,
 anonymized with sender names as known names, stored once, and never printed."""
 import json
+import re
+from pathlib import Path
 
 import common
 import funnel
@@ -136,36 +138,44 @@ def test_ingest_closed_groups_stores_anonymized_records_only(run, froot):
     assert s["formats"] == {"csv": 1, "telegram": 1, "text": 1, "whatsapp": 3}
     assert s["messages"] == 18 and s["dropped_system"] == 7 and s["dropped_short"] == 5
     assert s["records_new"] == 13 and s["duplicates"] == 0 and s["senders_removed"] == 3
+    # every file is known only by a content-free label: nothing of the file name (often a person) survives
+    L = {name: sources.inbox_label(name) for name in ("ChatExport_2024/result.json", "WhatsApp Chat with Priya Mehta.txt",
+                                                       "customer-notes.csv", "gre-batch.txt", "notes.md", "small-group.txt")}
+    assert all(re.fullmatch(r"file_[0-9a-f]{12}", lab) for lab in L.values()) and len(set(L.values())) == 6
     by_file = {f["file"]: f for f in s["files"]}
-    assert set(by_file) == {"ChatExport_2024/result.json", "WhatsApp_Chat_with_[name].txt", "customer-notes.csv",
-                            "gre-batch.txt", "notes.md", "small-group.txt"}
-    assert by_file["WhatsApp_Chat_with_[name].txt"]["date_order"] == "month-first"
-    assert by_file["gre-batch.txt"]["date_order"] == "day-first" and by_file["gre-batch.txt"]["records"] == 2
-    assert by_file["small-group.txt"]["detected_by"].endswith("(the default)")
-    assert by_file["notes.md"]["date_order"] is None and by_file["notes.md"]["records"] == 3
+    assert set(by_file) == set(L.values())
+    WA, GB, SG, NM, TG, CSVF = (L["WhatsApp Chat with Priya Mehta.txt"], L["gre-batch.txt"], L["small-group.txt"], L["notes.md"],
+                                L["ChatExport_2024/result.json"], L["customer-notes.csv"])
+    assert by_file[WA]["date_order"] == "month-first"
+    assert by_file[GB]["date_order"] == "day-first" and by_file[GB]["records"] == 2
+    assert by_file[SG]["detected_by"].endswith("(the default)")
+    assert by_file[NM]["date_order"] is None and by_file[NM]["records"] == 3
+    index = json.loads(sources.inbox_index_path(run, ROOM).read_text(encoding="utf-8"))
+    assert index[WA] == {"path": "WhatsApp Chat with Priya Mehta.txt", "format": "whatsapp", "kind": "closed_groups"}
+    assert set(index) == set(L.values()) and "raw" in s["index"]
 
     raw = _raw_text(run)
     _assert_private(raw)
-    for phrase in ("sender", "Rahul Sharma", "GRE Batch 2026"):
+    for phrase in ("sender", "Rahul Sharma", "GRE Batch 2026", "WhatsApp", "gre-batch", "customer-notes", "notes.md", ".txt", ".csv"):
         assert phrase not in raw
     recs = {r["url"]: r for r in records.load_records(run, ROOM)}
     assert set(json.loads(raw.splitlines()[0])) == set(records.RECORD_FIELDS)
-    ios = recs[f"inbox://closed_groups/{ROOM}/WhatsApp_Chat_with_[name].txt#2"]
+    ios = recs[f"inbox://closed_groups/{ROOM}/{WA}#2"]
     assert ios["text"] == "Hi [name], has anyone here paid for the Magoosh course?\nI paid ₹15,000 and I am still stuck\non quant."
     assert ios["date"] == "2024-05-13" and ios["source"] == "inbox:closed_groups"
     # files are read in sorted path order: ChatExport_2024/result.json (2 records) comes first
-    assert ios["meta"] == {"kind": "chat_message", "format": "whatsapp", "file": "WhatsApp_Chat_with_[name].txt", "inbox": "closed_groups",
+    assert ios["meta"] == {"kind": "chat_message", "format": "whatsapp", "file": WA, "inbox": "closed_groups",
                            "line": 2, "round": 1, "order": [1, 0, 3], "date_from": "file"}
-    assert recs[f"inbox://closed_groups/{ROOM}/WhatsApp_Chat_with_[name].txt#7"]["text"] == "same here, wasted money on coaching, call me on [phone]"
-    assert recs[f"inbox://closed_groups/{ROOM}/WhatsApp_Chat_with_[name].txt#10"]["text"] == "ask [name] about the refund, she got one"
-    assert f"inbox://closed_groups/{ROOM}/WhatsApp_Chat_with_[name].txt#6" not in recs  # "ok" is under 3 words
-    tg = recs[f"inbox://closed_groups/{ROOM}/ChatExport_2024/result.json#2"]
+    assert recs[f"inbox://closed_groups/{ROOM}/{WA}#7"]["text"] == "same here, wasted money on coaching, call me on [phone]"
+    assert recs[f"inbox://closed_groups/{ROOM}/{WA}#10"]["text"] == "ask [name] about the refund, she got one"
+    assert f"inbox://closed_groups/{ROOM}/{WA}#6" not in recs  # "ok" is under 3 words
+    tg = recs[f"inbox://closed_groups/{ROOM}/{TG}#2"]
     assert tg["text"] == "Paid ₹20,000 for coaching, [user] what now?" and tg["meta"]["msg_id"] == 2 and tg["date"] == "2024-05-13"
-    assert recs[f"inbox://closed_groups/{ROOM}/ChatExport_2024/result.json#4"]["text"] == "Ask for a refund, [name] got one last week"
-    csv1 = recs[f"inbox://closed_groups/{ROOM}/customer-notes.csv#r1"]
+    assert recs[f"inbox://closed_groups/{ROOM}/{TG}#4"]["text"] == "Ask for a refund, [name] got one last week"
+    csv1 = recs[f"inbox://closed_groups/{ROOM}/{CSVF}#r1"]
     assert csv1["text"] == "Asked for the fee, said 15k is too much" and csv1["date"] == "2025-01-05" and csv1["meta"]["row"] == 1
-    assert recs[f"inbox://closed_groups/{ROOM}/customer-notes.csv#r3"]["date"] == "2025-02-06"
-    md = recs[f"inbox://closed_groups/{ROOM}/notes.md#p2"]
+    assert recs[f"inbox://closed_groups/{ROOM}/{CSVF}#r3"]["date"] == "2025-02-06"
+    md = recs[f"inbox://closed_groups/{ROOM}/{NM}#p2"]
     assert md["text"] == "Three people said the coaching fee was wasted." and md["date"] is None and md["meta"]["date_from"] == "none"
     assert all(r["record_id"] == common.record_id(r["url"], r["text"]) for r in recs.values())
     orders = [r["meta"]["order"] for r in records.load_records(run, ROOM)]
@@ -173,10 +183,11 @@ def test_ingest_closed_groups_stores_anonymized_records_only(run, froot):
 
     events = common.read_jsonl(run / "runlog.jsonl")
     _assert_private(json.dumps(events, ensure_ascii=False))
+    assert "WhatsApp" not in json.dumps(events) and "gre-batch" not in json.dumps(events)
     notes = {e["file"]: e for e in events if e["kind"] == "note" and e.get("date_order")}
-    assert notes["WhatsApp_Chat_with_[name].txt"]["date_order"] == "month-first"
-    assert notes["gre-batch.txt"]["date_order"] == "day-first" and notes["customer-notes.csv"]["date_order"] == "day-first"
-    assert "small-group.txt" in notes and "notes.md" not in notes and "ChatExport_2024/result.json" not in notes
+    assert notes[WA]["date_order"] == "month-first"
+    assert notes[GB]["date_order"] == "day-first" and notes[CSVF]["date_order"] == "day-first"
+    assert SG in notes and NM not in notes and TG not in notes
 
     # rerun: nothing new, byte-identical file
     before = records.source_file(run, ROOM, "inbox:closed_groups").read_bytes()
@@ -198,7 +209,11 @@ def test_cli_prints_counts_but_never_names_or_text(run, froot, cli):
     for phrase in TEXTS:
         assert phrase not in out
     assert "6 file(s) read" in out and "1 skipped" in out and "Records new: 13" in out
-    assert "WhatsApp_Chat_with_[name].txt: whatsapp, 4 messages, 4 system lines dropped, 1 messages under 3 words dropped, 3 kept." in out
+    wa = sources.inbox_label("WhatsApp Chat with Priya Mehta.txt")
+    assert f"{wa}: whatsapp, 4 messages, 4 system lines dropped, 1 messages under 3 words dropped, 3 kept." in out
+    for name in ("WhatsApp", "gre-batch", "customer-notes", "small-group", "notes.md", "ChatExport"):
+        assert name not in out, name  # file names never reach the screen
+    assert "label-to-file map" in out and "_inbox_index.json" in out
     assert "Dates read as month-first" in out and "Dates read as day-first" in out
     assert "Sender names removed from every message: 3 distinct (never stored or printed)." in out
     assert "inbox_closed_groups.jsonl" in out
@@ -219,7 +234,8 @@ def test_customers_folder_and_source(run, froot, cli):
     recs = records.load_records(run, ROOM)
     assert len(recs) == 2 and all(r["source"] == "inbox:customers" for r in recs)
     assert records.source_file(run, ROOM, "inbox:customers").name == "inbox_customers.jsonl"
-    assert recs[0]["url"] == f"inbox://customers/{ROOM}/messages.csv#r1" and recs[0]["meta"]["round"] == 2
+    assert recs[0]["url"] == f"inbox://customers/{ROOM}/{sources.inbox_label('messages.csv')}#r1" and recs[0]["meta"]["round"] == 2
+    assert "messages.csv" not in r.stdout
     assert recs[0]["meta"]["order"] == [2, 0, 1]
     # closed_groups is untouched and empty: skipped, not an error
     r = cli("ingest-inbox", "--room", ROOM, "--run", RUN)
@@ -247,9 +263,38 @@ def test_known_names_reach_every_file_and_file_labels_are_safe(run, froot):
     s = sources.ingest_inbox(run, ROOM)
     assert s["records_new"] == 2 and s["senders_removed"] == 2  # the sender, plus the contact named in the file name
     recs = {r["url"]: r for r in records.load_records(run, ROOM)}
-    assert f"inbox://closed_groups/{ROOM}/Chat_with_[name].txt#1" in recs
-    md = recs[f"inbox://closed_groups/{ROOM}/other_notes.md#p1"]
+    chat, other = sources.inbox_label("Chat with Rahul Sharma.txt"), sources.inbox_label("other notes.md")
+    assert f"inbox://closed_groups/{ROOM}/{chat}#1" in recs
+    md = recs[f"inbox://closed_groups/{ROOM}/{other}#p1"]
     assert md["text"] == "[name] said the Hyderabad centre refunded her fully."  # a sender from another file
-    wa = recs[f"inbox://closed_groups/{ROOM}/Chat_with_[name].txt#1"]
+    wa = recs[f"inbox://closed_groups/{ROOM}/{chat}#1"]
     assert wa["text"] == "[name], the Delhi fee is 40k now"
     _assert_private(_raw_text(run))
+    assert "Chat" not in _raw_text(run) and "other" not in _raw_text(run)
+
+
+def test_file_names_that_are_people_never_reach_any_output(run, froot, cli):
+    """A customers folder is where files are naturally named after the customer (rule 5)."""
+    d = froot / "inbox" / "customers" / ROOM
+    d.mkdir(parents=True)
+    (d / "Anita Desai.txt").write_text("The coaching fee was a waste for me.\n\nI still want the refund they promised.\n", encoding="utf-8")
+    (d / "priya_sharma_feedback.csv").write_text('date,sender,text\n2025-03-01,Priya Sharma,"Priya Sharma here, 15k for nothing"\n', encoding="utf-8")
+    r = cli("ingest-inbox", "--room", ROOM, "--customers", "--run", RUN)
+    assert r.returncode == 0, r.stderr
+    stored = records.load_records(run, ROOM)
+    assert len(stored) == 3
+    labels = {sources.inbox_label("Anita Desai.txt"), sources.inbox_label("priya_sharma_feedback.csv")}
+    assert {rec["meta"]["file"] for rec in stored} == labels
+    raw = _raw_text(run, "inbox:customers")
+    runlog = json.dumps(common.read_jsonl(run / "runlog.jsonl"), ensure_ascii=False)
+    for needle in ("Anita", "Desai", "priya", "Priya", "sharma", "Sharma", "feedback", ".txt", ".csv"):
+        assert needle not in raw, needle
+        assert needle not in r.stdout + r.stderr, needle
+        assert needle not in runlog, needle
+    assert next(rec for rec in stored if rec["url"].endswith("#r1"))["text"] == "[name] here, 15k for nothing"
+    # the map from label to file lives only under raw/, which .gitignore keeps out of git
+    index = sources.inbox_index_path(run, ROOM)
+    assert index.exists() and "03_listen/raw/" in common.rel(index)
+    assert json.loads(index.read_text(encoding="utf-8"))[sources.inbox_label("Anita Desai.txt")]["path"] == "Anita Desai.txt"
+    gitignore = (Path(__file__).resolve().parent.parent / ".gitignore").read_text(encoding="utf-8")
+    assert "runs/*/03_listen/raw/" in gitignore

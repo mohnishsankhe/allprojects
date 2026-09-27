@@ -465,8 +465,13 @@ def test_check_one_pain_and_missing_files(run, cli):
     r = cli("walks", "--run", DATE)
     assert r.returncode == 2 and "pains.json is missing. Run `funnel pains` first." in r.stderr
     common.write_json(common.listen_dir(run) / "pains.json", {"pains": []})
+    # no kept pain: an empty _stage4.json and exit 0, so a run in which Stage 3 dropped everything still finishes
     r = cli("walks", "--run", DATE)
-    assert r.returncode == 2 and "No kept pains" in r.stderr
+    assert r.returncode == 0, r.stderr
+    assert "nothing to walk" in r.stdout and "Walks: 0 kept pain(s) in, 0 walked, 0 kept, 0 killed" in r.stdout
+    s4 = stage4(run)
+    assert s4["counts"] == {"in": 0, "walked": 0, "kept": 0, "killed": 0, "lane_hint_trade": 0} and s4["pains"] == [] and s4["kept"] == []
+    assert any("No kept pains" in n for n in s4["notes"])
 
 
 def test_walks_rerun_is_byte_identical(froot, run, cli):
@@ -767,8 +772,13 @@ def test_pairs_alternative_count_shape_errors_and_missing_inputs(run, cli):
     assert r.returncode == 2 and "02_mask.json is missing. Run `funnel mask` first" in r.stderr
     common.write_json(run / "04_walks" / "_stage4.json", {"pains": [{"pain_id": PID, "status": "killed"}]})
     common.write_json(run / "02_mask.json", {"rooms": []})
+    # no Stage 4 survivor: an empty 05_pairs.json and exit 0, so `numbers` and `shortlist` can still run
     r = cli("pairs", "--run", DATE)
-    assert r.returncode == 2 and "No Stage 4 survivors" in r.stderr
+    assert r.returncode == 0, r.stderr
+    assert "No Stage 4 survivors" in r.stdout and "Pairs: 0 pain(s) in, 0 kept, 0 killed." in r.stdout
+    data = pairs_json(run)
+    assert data["pains"] == [] and data["kept"] == [] and data["killed"] == [] and data["counts"]["in"] == 0
+    assert any("nothing to pair" in n for n in data["notes"]) and "## Notes" in (run / "05_pairs.md").read_text(encoding="utf-8")
 
 
 def test_pairs_rerun_is_byte_identical(froot, run, cli):

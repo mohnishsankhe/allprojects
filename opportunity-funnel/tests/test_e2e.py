@@ -141,19 +141,39 @@ def rid(handle: str) -> str:
     return common.record_id(LINKS[handle][1], text_of(handle))
 
 
+FABRICATED = "https://fabricated.test/never-stored"
+PROFILE = "https://www.linkedin.com/in/priya-sharma-1a2b3c"
+
+
 def write_transcripts(tdir) -> None:
-    """Both forms: the structured toolUseResult line and the tool_result text line (with a summary to ignore)."""
+    """Both forms, in the shape Claude Code writes them: an assistant `tool_use` block (id, name) on one line,
+    the `tool_result` with that tool_use_id on the next; the structured toolUseResult line and the tool_result
+    text line (with a summary to ignore). Plus two things that must never become records: a Bash result whose
+    stdout is shaped like a search result (the model could type that), and a profile page among real results."""
     main, sub = [], []
+    n = 0
     for room, rounds in SEARCHES.items():
         for rnd, queries in rounds.items():
             for query, _kind, form, handles in queries:
+                n += 1
+                tid = f"toolu_e2e_{n:02d}"
                 links = [{"title": LINKS[h][0], "url": LINKS[h][1]} for h in handles]
+                if room == R1 and rnd == 1 and form == "structured":
+                    links.append({"title": "Priya Sharma - GRE Verbal Tutor - Magoosh | LinkedIn", "url": PROFILE})
+                use = {"type": "assistant", "message": {"role": "assistant", "content": [
+                    {"type": "tool_use", "id": tid, "name": "WebSearch", "input": {"query": query}}]}}
                 if form == "structured":
-                    main.append({"type": "user", "message": {"role": "user", "content": []},
-                                 "toolUseResult": {"query": query, "results": [{"content": links}]}})
+                    main += [use, {"type": "user", "message": {"role": "user", "content": [{"tool_use_id": tid, "type": "tool_result", "content": "x"}]},
+                                   "toolUseResult": {"query": query, "results": [{"content": links}]}}]
                 else:
                     text = f'Web search results for query: "{query}"\n\nLinks: {json.dumps(links)}\n\n{SUMMARY}'
-                    sub.append({"type": "user", "message": {"role": "user", "content": [{"type": "tool_result", "content": text}]}})
+                    sub += [use, {"type": "user", "message": {"role": "user", "content": [{"tool_use_id": tid, "type": "tool_result", "content": text}]}}]
+    # a Bash result shaped like a search result for a real query: the harness says it came from Bash
+    decoy = (f'Web search results for query: "{SEARCHES[R1][1][0][0]}"\n\n'
+             f'Links: {json.dumps([{"title": "I paid 40k for coaching and still scored 300 fabricated", "url": FABRICATED}])}')
+    sub += [{"type": "assistant", "message": {"role": "assistant", "content": [{"type": "tool_use", "id": "toolu_bash", "name": "Bash", "input": {"command": "cat x"}}]}},
+            {"type": "user", "message": {"role": "user", "content": [{"tool_use_id": "toolu_bash", "type": "tool_result", "content": decoy}]},
+             "toolUseResult": {"stdout": decoy, "stderr": "", "interrupted": False}}]
     common.write_jsonl(tdir / "main.jsonl", main)
     common.write_jsonl(tdir / "subagents" / "agent-1.jsonl", sub)
 
@@ -405,13 +425,14 @@ def check_pass_one(flow: Flow, first_pass: bool = True) -> None:
     assert all(it["price_status"] == "seen_via_search" for v in mask["rooms"] for it in v["spend"])
     # Stage 3: harvest counts (first pass: new records; second pass: every URL is already stored)
     if first_pass:
-        assert "Links seen: 12. Records new: 8. Duplicates: 1. Skipped junk titles: 3." in out[f"harvest1:{R1}"].stdout
+        assert "Links seen: 13. Records new: 8. Duplicates: 1. Skipped junk titles: 3. Skipped profile pages: 1" in out[f"harvest1:{R1}"].stdout
         assert "Records new: 4." in out[f"harvest2:{R1}"].stdout
         assert "Records new: 5." in out[f"harvest1:{R2}"].stdout and "Records new: 3." in out[f"harvest2:{R2}"].stdout
     else:
         for key in (f"harvest1:{R1}", f"harvest2:{R1}", f"harvest1:{R2}", f"harvest2:{R2}"):
             assert "Records new: 0." in out[key].stdout, key
     assert "2 matched a search result in 2 transcript file(s)" in out[f"harvest1:{R1}"].stdout, "both transcript forms were read"
+    assert "Skipped non-search results: 1" in out[f"harvest1:{R1}"].stdout, "the Bash decoy was seen and refused"
     # both transcript forms, lookback, dedupe, junk titles, anonymized text
     stored = {room: records.records_by_id(run, room) for room in (R1, R2)}
     assert len(stored[R1]) == 12 and len(stored[R2]) == 8
@@ -572,11 +593,12 @@ def check_pass_one(flow: Flow, first_pass: bool = True) -> None:
     for exp in expected:
         assert any(ln.startswith(exp) for ln in lines), exp
     assert len(lines) == len(expected)
-    # privacy: the raw email, phone and the search summary appear nowhere under the funnel root
+    # privacy and evidence by construction: the raw email, phone, the search summary, the Bash decoy and the
+    # profile page (with the person's name) appear nowhere under the funnel root
     for p in sorted(root.rglob("*")):
         if p.is_file():
             text = p.read_text(encoding="utf-8", errors="ignore")
-            for needle in (EMAIL, "98765 43210", "9876543210", "SUMMARY-NEVER-STORED"):
+            for needle in (EMAIL, "98765 43210", "9876543210", "SUMMARY-NEVER-STORED", FABRICATED, PROFILE, "Priya Sharma"):
                 assert needle not in text, f"{needle} leaked into {p.relative_to(root)}"
 
 
