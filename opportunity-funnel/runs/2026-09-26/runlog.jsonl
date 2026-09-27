@@ -191,3 +191,4 @@
 {"command": "log", "kind": "note", "review": false, "stage": 3, "text": "At 08:31 UTC the account's Fable usage limit was reached. Every Fable agent still running in the five listening workflows failed at once (label, plan and synthesize steps), so those workflows end early; their search runners (Sonnet/Haiku) finish their searches. No Fable labels were written after the switch. Each workflow is resumed on Opus 5.5 once it ends.", "ts": "2026-09-27T08:37:09+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T08:37:20+00:00"}
 {"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T08:37:28+00:00"}
+{"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T08:37:36+00:00"}
