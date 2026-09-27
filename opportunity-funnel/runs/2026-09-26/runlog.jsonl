@@ -181,3 +181,4 @@
 {"command": "log", "kind": "note", "review": false, "stage": 3, "text": "Listener and walker instructions now keep temporary files in cache/tmp/<unit>/ (git-ignored), because parallel agents shared one scratchpad folder and could overwrite each other's helper files. Label writers check record ids against the room's batch list, so a collision fails loudly instead of mixing rooms.", "ts": "2026-09-27T08:30:43+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T08:32:00+00:00"}
 {"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T08:32:09+00:00"}
+{"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T08:32:39+00:00"}
