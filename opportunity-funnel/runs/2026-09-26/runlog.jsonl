@@ -1226,3 +1226,6 @@
 {"batches": 32, "command": "batches", "dropped_duplicate_text": 71, "dropped_old": 3, "dropped_undated": 0, "include_undated_records": true, "kept": 2468, "kept_month_at_cutoff": 0, "kind": "count", "loaded": 2542, "lookback_cutoff": "2024-09-26", "lookback_months": 24, "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T17:15:15+00:00", "undated_kept": 2467}
 {"command": "listen-status", "dated": 4, "kind": "ran", "per_round": {"1": 850, "2": 964, "3": 728}, "per_source": {"websearch": 2542}, "records": 2542, "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T17:15:21+00:00", "undated": 2538}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T17:17:04+00:00"}
+{"already_checked": 0, "command": "relabel-pack", "keys": ["exam-day-mistakes", "stress-and-anxiety"], "kind": "ran", "packs": 9, "room": "cfa-candidates-community", "round": 3, "stage": 3, "ts": "2026-09-27T17:20:21+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T17:21:45+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T17:22:06+00:00"}

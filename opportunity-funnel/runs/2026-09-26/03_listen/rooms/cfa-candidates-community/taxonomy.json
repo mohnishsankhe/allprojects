@@ -1,7 +1,7 @@
 {
   "room": "cfa-candidates-community",
-  "round": 2,
-  "note": "Round 1 records are search-result titles only (no post bodies). Pains are drawn from member titles on AnalystForum, 300Hours, Quora, Blind and careers360. No reddit.com result came back in round 1. Round 2 records are titles only too, again with no reddit.com result; round 2 added work-experience-charter, test-centre-problems and charter-no-job. Where other round 2 themes belong: score retabulation after a fail is failed-what-next; 'is it too late at my age' is worth-it; loans, instalments, card payments, employer sponsorship and charterholder dues are total-fees; passport and ID rules are rules-and-deadlines; deferral for illness or a death in the family is postpone-or-refund.",
+  "round": 3,
+  "note": "Round 1 records are search-result titles only (no post bodies). Pains are drawn from member titles on AnalystForum, 300Hours, Quora, Blind and careers360. No reddit.com result came back in round 1. Round 2 records are titles only too, again with no reddit.com result; round 2 added work-experience-charter, test-centre-problems and charter-no-job. Where other round 2 themes belong: score retabulation after a fail is failed-what-next; 'is it too late at my age' is worth-it; loans, instalments, card payments, employer sponsorship and charterholder dues are total-fees; passport and ID rules are rules-and-deadlines; deferral for illness or a death in the family is postpone-or-refund. Round 3 records are titles only too, now also from Fishbowl, The Student Room, Nairaland, RedFlagDeals, Whirlpool, GMAT Club, Bogleheads, HardwareZone and Lowyat, and again with no reddit.com result; round 3 added exam-day-mistakes and stress-and-anxiety. Where other round 3 themes belong: employer reimbursement and pass bonuses, ways to pay (declined cards, wire transfers, paying in US dollars) and reusing old prep books to save money are total-fees; quitting a job to study is study-with-full-time-job; forgetting what was read is how-to-study; a non-finance or engineering background is hardest-topics, how-to-study or worth-it, by what the post asks; testing accommodations for a disability or a religious date are rules-and-deadlines; a no-show or a withdrawal is postpone-or-refund; computer failures during the exam are test-centre-problems.",
   "pains": [
     {
       "key": "failed-what-next",
@@ -146,9 +146,26 @@
       "added_round": 2,
       "reasoning": "Round 2 shows about seven member posts from three-level passers and charterholders who are still jobless (AnalystForum, Wall Street Oasis, Quora). job-without-charter covers people without the charter, so these posts had no fitting pain.",
       "confidence": "moderate"
+    },
+    {
+      "key": "exam-day-mistakes",
+      "label": "I got reported but haven't received any letter yet, what should i do?",
+      "definition": "On exam day the candidate broke a rule, fears breaking one, or made a slip that can cost the pass: writing before the start or after time is called, a phone or notes in the room, answers left blank or entered wrongly. A report by the exam supervisor (proctor) starts a Professional Conduct (PCP) investigation, CFA Institute's process for rule breaches; the candidate waits for a letter and fears a voided result or a ban. Computer failures at the test centre stay under test-centre-problems; not turning up stays under postpone-or-refund.",
+      "added_round": 3,
+      "reasoning": "Round 3 holds about five member titles on exam-day reports and slips, four of them on AnalystForum, e.g. 'I got reported but haven't received any letter yet, what should i do?', 'PCP Investigation' and 'Start writing before exam starts'. Round 2 labelers suggested this pain from two more titles, and no existing pain covers a candidate's own exam-day mistake.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "stress-and-anxiety",
+      "label": "How to handle the stress related to the CFA",
+      "definition": "Years of study and the high stakes of each exam bring stress, anxiety or panic. The candidate cannot focus, fears sitting mock exams, freaks out in the last days before the exam, or feels the study straining relationships, and asks how to cope. Weighing whether to quit stays under giving-up; finding hours next to a job stays under study-with-full-time-job; low mock scores stay under mock-scores-readiness.",
+      "added_round": 3,
+      "reasoning": "Round 3 holds about five CFA member titles on stress and fear, e.g. 'How to handle the stress related to the CFA' and 'I have completed my CFA L1 curriculum but have a fear of giving mocks'. Round 2 labelers suggested this pain from two titles on strained relationships and pressure. Support is thin, but no existing pain covers coping with the strain itself.",
+      "confidence": "low"
     }
   ],
   "reviewed_rounds": [
-    2
+    2,
+    3
   ]
 }

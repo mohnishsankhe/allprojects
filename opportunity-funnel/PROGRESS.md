@@ -67,10 +67,10 @@ Stage 3 per room:
 | d2c-brands-scaling-past-launch | 2 | 1884 | 1827 | round 2: 1827 records, not saturated | no | not checked |
 | dubai-real-estate-brokerages-telesales | 2 | 1516 | 1472 | round 2: 1472 records, not saturated, stopped: exhausted | yes | 17 pass / 0 fail (self-check) |
 | gre-engineers-india | 2 | 1762 | 1726 | round 1: 900 records, not saturated | no | not checked |
-| gre-preppers-worldwide-online | 3 | 2997 | 2056 | round 2: 1896 records, not saturated | no | not checked |
-| indie-perfumers-launching-brands | 3 | 2740 | 1728 | round 2: 1728 records, not saturated | no | not checked |
+| gre-preppers-worldwide-online | 3 | 2997 | 2136 | round 2: 1896 records, not saturated | no | not checked |
+| indie-perfumers-launching-brands | 3 | 2740 | 1808 | round 2: 1728 records, not saturated | no | not checked |
 | lender-insurer-telesales-floors-india | 2 | 1721 | 1684 | round 2: 1684 records, not saturated, stopped: exhausted | yes | 0 pass / 0 fail (self-check) |
-| outbound-lead-gen-appointment-setting-agencies | 2 | 2090 | 1144 | round 1: 984 records, not saturated | no | not checked |
+| outbound-lead-gen-appointment-setting-agencies | 2 | 2090 | 1224 | round 1: 984 records, not saturated | no | not checked |
 | salon-spa-owners-india-global | 2 | 2302 | 2255 | round 2: 2255 records, not saturated | no | not checked |
 | small-business-owners-reddit-community | 3 | 3505 | 2180 | round 2: 2180 records, not saturated | no | not checked |
 | small-industrial-property-investors | 2 | 1784 | 1748 | round 1: 948 records, not saturated | no | not checked |
