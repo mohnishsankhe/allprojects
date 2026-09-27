@@ -1263,3 +1263,9 @@
 {"by_kind": {"blog_or_site": 906, "forum": 514, "jobs": 85, "news": 80, "official": 30, "qa": 264, "reviews": 178, "social": 20, "video": 139}, "by_source": {"websearch": 2216}, "by_voice": {"media": 486, "member": 629, "other": 622, "seller": 479}, "command": "count", "kind": "count", "labeled": 2216, "pains": 16, "room": "active-retail-options-traders", "source_kinds": 9, "stage": 3, "ts": "2026-09-27T17:47:05+00:00"}
 {"command": "listen-status", "dated": 27, "kind": "ran", "per_round": {"1": 1150, "2": 1159}, "per_source": {"websearch": 2309}, "records": 2309, "room": "active-retail-options-traders", "stage": 3, "ts": "2026-09-27T17:47:09+00:00", "undated": 2282}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T17:47:20+00:00"}
+{"command": "show", "ids": 6, "kind": "ran", "missing": [], "room": "indie-perfumers-launching-brands", "stage": 3, "ts": "2026-09-27T17:49:39+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "indie-perfumers-launching-brands", "stage": 3, "ts": "2026-09-27T17:49:54+00:00"}
+{"command": "quote-check", "kind": "check", "quotes_fail": 0, "quotes_pass": 17, "room": "dubai-real-estate-brokerages-telesales", "stage": 3, "ts": "2026-09-27T17:50:46+00:00"}
+{"command": "quote-check", "kind": "check", "quotes_fail": 0, "quotes_pass": 0, "room": "lender-insurer-telesales-floors-india", "stage": 3, "ts": "2026-09-27T17:50:47+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T17:50:47+00:00"}
+{"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T17:50:48+00:00"}

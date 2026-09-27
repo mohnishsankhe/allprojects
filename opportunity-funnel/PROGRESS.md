@@ -63,7 +63,7 @@ Stage 3 per room:
 | active-retail-options-traders | 2 | 2309 | 2216 | round 2: 2216 records, not saturated | no | not checked |
 | bpo-contact-centre-operators-india-philippines | 3 | 3272 | 2130 | round 2: 2130 records, not saturated | no | not checked |
 | business-brokers-ma-boutiques | 2 | 1646 | 1603 | round 2: 1603 records, not saturated | no | not checked |
-| cfa-candidates-community | 3 | 2542 | 2151 | round 2: 1751 records, not saturated | no | not checked |
+| cfa-candidates-community | 3 | 2542 | 2231 | round 2: 1751 records, not saturated | no | not checked |
 | d2c-brands-scaling-past-launch | 2 | 1884 | 1827 | round 2: 1827 records, not saturated | no | not checked |
 | dubai-real-estate-brokerages-telesales | 2 | 1516 | 1472 | round 2: 1472 records, not saturated, stopped: exhausted | yes | 17 pass / 0 fail (self-check) |
 | gre-engineers-india | 2 | 1762 | 1726 | round 2: 1726 records, not saturated | no | not checked |
