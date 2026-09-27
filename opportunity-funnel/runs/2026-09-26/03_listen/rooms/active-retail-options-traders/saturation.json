@@ -29,6 +29,91 @@
       ],
       "window": 300,
       "window_used": 1086
+    },
+    {
+      "evaluable": true,
+      "new_pains": [
+        "borrowed-to-trade",
+        "prop-firm-fees-no-payout",
+        "tool-data-costs-add-up",
+        "trading-charges-eat-profits"
+      ],
+      "new_records": 1130,
+      "rank_changes": [
+        {
+          "key": "assignment-margin-surprise",
+          "rank_after": 12,
+          "rank_before": 4
+        },
+        {
+          "key": "blew-up-account",
+          "rank_after": 4,
+          "rank_before": 3
+        },
+        {
+          "key": "devastated-after-loss",
+          "rank_after": 13,
+          "rank_before": 6
+        },
+        {
+          "key": "keep-losing-dont-know-why",
+          "rank_after": 7,
+          "rank_before": 6
+        },
+        {
+          "key": "revenge-trading-gambling",
+          "rank_after": 9,
+          "rank_before": 13
+        },
+        {
+          "key": "sebi-rules-squeeze",
+          "rank_after": 16,
+          "rank_before": 11
+        },
+        {
+          "key": "small-account-pdt",
+          "rank_after": 11,
+          "rank_before": 9
+        },
+        {
+          "key": "trade-for-a-living-doubt",
+          "rank_after": 14,
+          "rank_before": 12
+        },
+        {
+          "key": "trading-charges-eat-profits",
+          "rank_after": 6,
+          "rank_before": 10
+        }
+      ],
+      "records": 2216,
+      "round": 2,
+      "saturated": false,
+      "taxonomy_added": [
+        "borrowed-to-trade",
+        "trading-charges-eat-profits"
+      ],
+      "taxonomy_keys": [
+        "assignment-margin-surprise",
+        "blew-up-account",
+        "borrowed-to-trade",
+        "devastated-after-loss",
+        "fo-loss-itr-audit",
+        "keep-losing-dont-know-why",
+        "paid-help-not-worth-it",
+        "prop-firm-fees-no-payout",
+        "revenge-trading-gambling",
+        "sebi-rules-squeeze",
+        "small-account-pdt",
+        "telegram-tips-scam",
+        "tool-data-costs-add-up",
+        "trade-for-a-living-doubt",
+        "trading-charges-eat-profits",
+        "us-options-tax-mess"
+      ],
+      "window": 300,
+      "window_member_records": 507,
+      "window_used": 1130
     }
   ],
   "stop_reason": null,

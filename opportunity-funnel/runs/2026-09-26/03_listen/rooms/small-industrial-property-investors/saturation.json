@@ -32,6 +32,130 @@
       ],
       "window": 300,
       "window_used": 948
+    },
+    {
+      "evaluable": true,
+      "new_pains": [
+        "managing-the-property",
+        "paid-coaching-worth-it",
+        "taxes-insurance-jump"
+      ],
+      "new_records": 800,
+      "rank_changes": [
+        {
+          "key": "1031-exchange-rules",
+          "rank_after": 14,
+          "rank_before": 12
+        },
+        {
+          "key": "cost-seg-worth-it",
+          "rank_after": 10,
+          "rank_before": 6
+        },
+        {
+          "key": "due-diligence",
+          "rank_after": 17,
+          "rank_before": 18
+        },
+        {
+          "key": "finding-deals",
+          "rank_after": 17,
+          "rank_before": 16
+        },
+        {
+          "key": "first-syndication",
+          "rank_after": 16,
+          "rank_before": 14
+        },
+        {
+          "key": "getting-financing",
+          "rank_after": 2,
+          "rank_before": 8
+        },
+        {
+          "key": "investor-admin",
+          "rank_after": 15,
+          "rank_before": 10
+        },
+        {
+          "key": "managing-the-property",
+          "rank_after": 20,
+          "rank_before": 16
+        },
+        {
+          "key": "new-to-industrial",
+          "rank_after": 4,
+          "rank_before": 5
+        },
+        {
+          "key": "raising-capital",
+          "rank_after": 5,
+          "rank_before": 4
+        },
+        {
+          "key": "raising-capital-legally",
+          "rank_after": 11,
+          "rank_before": 9
+        },
+        {
+          "key": "structuring-the-deal",
+          "rank_after": 6,
+          "rank_before": 13
+        },
+        {
+          "key": "syndication-failure",
+          "rank_after": 17,
+          "rank_before": 14
+        },
+        {
+          "key": "syndication-legal-docs",
+          "rank_after": 7,
+          "rank_before": 2
+        },
+        {
+          "key": "underwriting-deals",
+          "rank_after": 13,
+          "rank_before": 11
+        },
+        {
+          "key": "vacancy-and-tenants",
+          "rank_after": 9,
+          "rank_before": 7
+        }
+      ],
+      "records": 1748,
+      "round": 2,
+      "saturated": false,
+      "taxonomy_added": [
+        "managing-the-property",
+        "paid-coaching-worth-it",
+        "taxes-insurance-jump"
+      ],
+      "taxonomy_keys": [
+        "1031-exchange-rules",
+        "cost-seg-worth-it",
+        "due-diligence",
+        "finding-deals",
+        "first-syndication",
+        "getting-financing",
+        "investor-admin",
+        "managing-the-property",
+        "market-data-cost",
+        "new-to-industrial",
+        "nnn-fees-cam",
+        "paid-coaching-worth-it",
+        "raising-capital",
+        "raising-capital-legally",
+        "structuring-the-deal",
+        "syndication-failure",
+        "syndication-legal-docs",
+        "taxes-insurance-jump",
+        "underwriting-deals",
+        "vacancy-and-tenants"
+      ],
+      "window": 300,
+      "window_member_records": 153,
+      "window_used": 800
     }
   ],
   "stop_reason": null,

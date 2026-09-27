@@ -30,6 +30,129 @@
       ],
       "window": 300,
       "window_used": 900
+    },
+    {
+      "evaluable": true,
+      "new_pains": [
+        "exam-stress",
+        "mock-score-accuracy",
+        "ms-worth-it",
+        "name-id-mismatch",
+        "paying-for-the-ms"
+      ],
+      "new_records": 825,
+      "rank_changes": [
+        {
+          "key": "application-help",
+          "rank_after": 5,
+          "rank_before": 12
+        },
+        {
+          "key": "at-home-or-centre",
+          "rank_after": 15,
+          "rank_before": 14
+        },
+        {
+          "key": "coaching-or-self-study",
+          "rank_after": 17,
+          "rank_before": 13
+        },
+        {
+          "key": "exam-date-and-deadlines",
+          "rank_after": 6,
+          "rank_before": 15
+        },
+        {
+          "key": "exam-stress",
+          "rank_after": 19,
+          "rank_before": 16
+        },
+        {
+          "key": "gre-or-other-path",
+          "rank_after": 13,
+          "rank_before": 10
+        },
+        {
+          "key": "is-gre-needed",
+          "rank_after": 8,
+          "rank_before": 4
+        },
+        {
+          "key": "ms-worth-it",
+          "rank_after": 7,
+          "rank_before": 16
+        },
+        {
+          "key": "paying-for-the-ms",
+          "rank_after": 3,
+          "rank_before": 5
+        },
+        {
+          "key": "real-test-harder-than-practice",
+          "rank_after": 20,
+          "rank_before": 16
+        },
+        {
+          "key": "score-too-low-retake",
+          "rank_after": 10,
+          "rank_before": 8
+        },
+        {
+          "key": "self-study-plan",
+          "rank_after": 10,
+          "rank_before": 6
+        },
+        {
+          "key": "verbal-weak",
+          "rank_after": 12,
+          "rank_before": 7
+        },
+        {
+          "key": "which-coaching",
+          "rank_after": 4,
+          "rank_before": 3
+        },
+        {
+          "key": "working-no-time",
+          "rank_after": 16,
+          "rank_before": 11
+        }
+      ],
+      "records": 1726,
+      "round": 2,
+      "saturated": false,
+      "taxonomy_added": [
+        "exam-stress",
+        "mock-score-accuracy",
+        "ms-worth-it",
+        "name-id-mismatch",
+        "paying-for-the-ms"
+      ],
+      "taxonomy_keys": [
+        "application-help",
+        "at-home-or-centre",
+        "coaching-or-self-study",
+        "exam-date-and-deadlines",
+        "exam-stress",
+        "gre-fee-cost",
+        "gre-or-other-path",
+        "is-gre-needed",
+        "mock-score-accuracy",
+        "ms-worth-it",
+        "name-id-mismatch",
+        "paid-course-did-not-help",
+        "paying-for-the-ms",
+        "real-test-harder-than-practice",
+        "score-too-low-retake",
+        "self-study-plan",
+        "verbal-weak",
+        "which-coaching",
+        "which-universities-for-my-profile",
+        "working-no-time"
+      ],
+      "window": 300,
+      "window_member_records": 373,
+      "window_used": 825
     }
   ],
   "stop_reason": null,

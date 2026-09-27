@@ -1,5 +1,5 @@
 {
-  "labeled": 948,
+  "labeled": 1748,
   "notes": [],
   "pains": {
     "1031-exchange-rules": {
@@ -7,18 +7,50 @@
       "failed_spend_record_ids": [],
       "label": "1031 exchange deadlines and rules when I sell and buy",
       "media_record_ids": [
-        "6f385a1fee6742d8"
+        "2588743e4e023283",
+        "68c3985dd82e43c1",
+        "6f385a1fee6742d8",
+        "7aeaf4304d302b24",
+        "81c5c423d246d380",
+        "99341fad2afcf419",
+        "a1a31564f33ca2fa",
+        "a9b04d45e8d5c7ea",
+        "bed74cfe66653569",
+        "c42a95e96b40ea5a",
+        "c9f75b7ec9a399fb",
+        "d665be1c07a9fe8b",
+        "dea72de5239f46b9",
+        "ec418029dd4bcb10"
       ],
-      "media_records": 1,
+      "media_records": 14,
       "member_record_ids": [
         "00a5e6fe0f89ac89",
-        "b16b64c6aee65fce"
+        "10fce0b5dd7633bb",
+        "161fb0bfd2b4adae",
+        "224503d63585b9d0",
+        "3b7750fa25031322",
+        "86e0208312de9da0",
+        "9605cda0be980ba6",
+        "b16b64c6aee65fce",
+        "d828b0d1ab480301",
+        "fdffe61ffe87689b"
       ],
       "money_mentions": 0,
       "money_record_ids": [],
-      "record_count": 2,
-      "seller_record_ids": [],
-      "seller_records": 0
+      "record_count": 10,
+      "seller_record_ids": [
+        "05e58171ec9a4161",
+        "0af3e50ec4ebdb89",
+        "296d87a04d30cdb1",
+        "3ed51985954891ff",
+        "513088269d1e6a50",
+        "78544318a56daf26",
+        "a92af0a5d8de62fa",
+        "bb6f0a490a52d757",
+        "bdd68845bea7f05e",
+        "c3f5411cfe4cc008"
+      ],
+      "seller_records": 10
     },
     "cost-seg-worth-it": {
       "failed_spend_mentions": 0,
@@ -29,22 +61,34 @@
       ],
       "media_records": 1,
       "member_record_ids": [
-        "81dfabd62b3a7742"
+        "747bb93b7441e5ed",
+        "7a523e3daaacd368",
+        "7ac53459c606721b",
+        "81dfabd62b3a7742",
+        "88c109733579bc7d",
+        "acead9cfd21623eb",
+        "bad303488d996655",
+        "dc0473684a15c978"
       ],
-      "money_mentions": 0,
-      "money_record_ids": [],
-      "record_count": 1,
+      "money_mentions": 2,
+      "money_record_ids": [
+        "acead9cfd21623eb",
+        "bad303488d996655"
+      ],
+      "record_count": 8,
       "seller_record_ids": [
+        "05326b599fce7f15",
         "068dd0f380b10357",
         "0d3844f5e11b12a5",
         "1a9fd20c147600da",
         "4234e222a9dc37a3",
         "5d72bd892c016845",
         "5e09fe4c3e381c59",
+        "947854e5ccb75a73",
         "bee0efbae39c586f",
         "cbc60016513e74c8"
       ],
-      "seller_records": 8
+      "seller_records": 10
     },
     "due-diligence": {
       "failed_spend_mentions": 0,
@@ -66,12 +110,15 @@
       ],
       "media_records": 12,
       "member_record_ids": [
-        "14df89359bc285bb",
-        "4ef9f32214247b7f"
+        "251ee0c715a2f208",
+        "2ebfb6aaf3b5bdcb",
+        "4ef9f32214247b7f",
+        "bb75447760c50ddf",
+        "d0aadbc90b2bc088"
       ],
       "money_mentions": 0,
       "money_record_ids": [],
-      "record_count": 2,
+      "record_count": 5,
       "seller_record_ids": [
         "0af1e78392cadd31",
         "2731ec6ee4e6fae3",
@@ -100,17 +147,25 @@
       "failed_spend_record_ids": [],
       "label": "How do I find off-market warehouse and commercial deals?",
       "media_record_ids": [
+        "5bca142f8eadfbcd",
+        "5edb12b0b7ff8e7c",
         "8d5622506b9b443d",
-        "e96b76d642b18221"
+        "93fa80318eedc5ee",
+        "c9c51170a5f60bf2",
+        "e967388e54d435d3",
+        "ea3864565ae7ab1c"
       ],
-      "media_records": 2,
+      "media_records": 7,
       "member_record_ids": [
         "1a5f83afc024af1b",
-        "327137c33eae676d"
+        "327137c33eae676d",
+        "44e2300d9ccfb035",
+        "47491f64d824f4af",
+        "f1431c07db1c37aa"
       ],
       "money_mentions": 0,
       "money_record_ids": [],
-      "record_count": 2,
+      "record_count": 5,
       "seller_record_ids": [
         "1b998d27cae6c60c",
         "25ae88dd9aacd458",
@@ -126,37 +181,39 @@
       "media_record_ids": [
         "1a0021cc5de2c550",
         "8cbc91319bf9bbb5",
-        "8e87892e8931dd07"
+        "8e87892e8931dd07",
+        "9bd70d0e4abb4c74"
       ],
-      "media_records": 3,
+      "media_records": 4,
       "member_record_ids": [
         "4891269ddc0fbc91",
         "739c57ea2733f791",
+        "90d65cace4d13bf9",
         "ac223b303acdd6ce",
-        "af7408d260eb2164"
+        "b77eb97b4490da02",
+        "d8040d2cc92d77d8"
       ],
       "money_mentions": 0,
       "money_record_ids": [],
-      "record_count": 4,
+      "record_count": 6,
       "seller_record_ids": [
         "01b27ff4c609fd4e",
         "53be35307ab56666",
         "8211ecda5754a428",
         "869888579fbb9aba",
         "89b720c75bf36f2b",
-        "9bd70d0e4abb4c74",
         "afae3c596e45d8da",
         "cca0cd0ab3215642",
         "cf8a3cd3496aa2c0"
       ],
-      "seller_records": 9
+      "seller_records": 8
     },
     "getting-financing": {
       "failed_spend_mentions": 0,
       "failed_spend_record_ids": [],
       "label": "Getting a commercial loan: approval, lenders, down payment and refinancing",
       "media_record_ids": [
-        "1c4a61f979fb1816",
+        "0df649b2849b04c0",
         "39d105906d98276a",
         "7b1f6b4a02d74239",
         "be9f64aea603beb3",
@@ -164,21 +221,53 @@
       ],
       "media_records": 5,
       "member_record_ids": [
+        "08b709b13506cca9",
+        "10e2e9e265ed43a7",
+        "111c74fcd95c5410",
         "12310aebac2b5b4c",
         "1502b6b352b98b0f",
+        "1854097fc4d732a2",
+        "1f8fc15002799af2",
+        "2255549dd52d4425",
+        "30a4cd06c019d332",
+        "3310c4b61ca0eff7",
         "37b8b211dbafdd81",
+        "42189558c47e8e71",
         "4cf6a1227ad936fc",
+        "4fb23b3ac2fa6a21",
         "5cfd0358aa31a494",
+        "65a4b64b088d90df",
         "698d3fbfa2507436",
-        "7216f72c8db39435"
+        "7216f72c8db39435",
+        "929d719be495d52a",
+        "a04075d8256da491",
+        "a79a590e5f971b62",
+        "ab020e61267f504b",
+        "aef82b3f7909905e",
+        "b596dea5a234f657",
+        "b6659908d745a9cf",
+        "b72407381609ebcc",
+        "bf57c5959408bbea",
+        "c1c53b30a2314732",
+        "d26cf2ff6ae4e92d",
+        "d961d94949aa2886",
+        "e6a20b3a54b18df6"
       ],
-      "money_mentions": 1,
+      "money_mentions": 8,
       "money_record_ids": [
-        "4cf6a1227ad936fc"
+        "42189558c47e8e71",
+        "4cf6a1227ad936fc",
+        "4fb23b3ac2fa6a21",
+        "65a4b64b088d90df",
+        "a04075d8256da491",
+        "ab020e61267f504b",
+        "d961d94949aa2886",
+        "e6a20b3a54b18df6"
       ],
-      "record_count": 7,
+      "record_count": 31,
       "seller_record_ids": [
         "011441fa1e02fdac",
+        "1c4a61f979fb1816",
         "1fb072a1eaddf5b7",
         "32a6a8c855af4a2b",
         "35aaa1426956c4c7",
@@ -187,7 +276,6 @@
         "5ea55a3f9c55a858",
         "6143cf04efc8996a",
         "629c069fa4bcb0a8",
-        "68b3744953ea388f",
         "6ac41cbe8d6c75a6",
         "71067a9cdcca02e0",
         "7691fd0e4d972564",
@@ -208,15 +296,41 @@
         "1229c79c01c2547e",
         "2ac8792b983af303",
         "6a397630e1a82a61",
+        "7fdd7b7d70cba24a",
         "8058837aa88a2903",
-        "81a281c529d5b844",
-        "9c9df2eb32a09b07"
+        "972b9f71d02b93c8",
+        "9c9df2eb32a09b07",
+        "f49aabccc041e35a"
       ],
       "money_mentions": 0,
       "money_record_ids": [],
-      "record_count": 6,
+      "record_count": 8,
       "seller_record_ids": [
-        "5d10db498e6c2971"
+        "a3de848d8da00009",
+        "c8d1f9ab6424d402"
+      ],
+      "seller_records": 2
+    },
+    "managing-the-property": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Property managers: are they worth it, and what software fits a small commercial portfolio?",
+      "media_record_ids": [
+        "384691386d012449",
+        "4293752642b069cd"
+      ],
+      "media_records": 2,
+      "member_record_ids": [
+        "235ef06e56a610c8",
+        "2ac8792b983af303",
+        "7c2f2ebb29020a91",
+        "f219da240724ff98"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 4,
+      "seller_record_ids": [
+        "30fcc35b22858163"
       ],
       "seller_records": 1
     },
@@ -225,42 +339,54 @@
       "failed_spend_record_ids": [],
       "label": "CoStar costs too much: is there a cheaper alternative, and is it worth the money?",
       "media_record_ids": [
-        "01af237123f0c70a",
-        "7705ab418fa624b8",
+        "62064a47e0360bc3",
         "9c15d50a00b6166a",
         "f4626ba49cb94a94",
         "feec5946e39e4fe8"
       ],
-      "media_records": 5,
+      "media_records": 4,
       "member_record_ids": [
         "107fea922b2f904b",
+        "1836a794d9e3ea0a",
         "1ef35b1b9c957d2f",
         "2319d4fc7b8f4977",
         "2c8d0ae2df7c0408",
+        "48d3de338b2b70c2",
         "5f9fc71cda4286d7",
+        "6b010809d221a345",
         "6d75bb8579dea801",
         "7fc897333d28e200",
+        "acf2a05d18391395",
+        "b6a793d0deaf0010",
         "bca2629ea38973b6",
         "d0ede63fb227060c",
+        "d99847a65c8d5327",
         "e51340c676159516",
         "e90946f932d2b920",
-        "eefc5547d9b5df9d"
+        "eb8051b56dfac67b",
+        "eefc5547d9b5df9d",
+        "f761d2559e482dfa"
       ],
-      "money_mentions": 8,
+      "money_mentions": 13,
       "money_record_ids": [
         "1ef35b1b9c957d2f",
         "2c8d0ae2df7c0408",
+        "48d3de338b2b70c2",
         "5f9fc71cda4286d7",
+        "6b010809d221a345",
         "6d75bb8579dea801",
         "7fc897333d28e200",
+        "acf2a05d18391395",
         "e51340c676159516",
         "e90946f932d2b920",
-        "eefc5547d9b5df9d"
+        "eb8051b56dfac67b",
+        "eefc5547d9b5df9d",
+        "f761d2559e482dfa"
       ],
-      "record_count": 12,
+      "record_count": 20,
       "seller_record_ids": [
         "2b65a797cd62b58d",
-        "483213c8f4997eee"
+        "c84f0f5f33ad1b65"
       ],
       "seller_records": 2
     },
@@ -271,52 +397,79 @@
       "media_record_ids": [
         "0da443ccf8b84c7b",
         "1c7a32ab6ee9ff89",
+        "1efd7e884c3e737f",
         "24e2bfe66ea9117c",
+        "30d3c3491d70b9c5",
         "3de4b5bfd4cc1881",
+        "53699bffcdc5cb6a",
         "5ee0e3cbee5efadf",
         "82f5c2a4323378f4",
+        "8f2ec0452446b5aa",
         "916f41c244eb4f83",
+        "b2f86872a2053974",
         "b4b509f9bc5d00e6",
+        "c765d7f998f74b10",
         "d8fc97681a0a0c40",
         "e6ade112aca61067",
+        "e8628f6e58f1cf9d",
+        "e8e46da618fba35b",
         "eda0cf4b2687d325",
         "f05aca5c76d963e3",
         "f3a16dec40d92e06"
       ],
-      "media_records": 13,
+      "media_records": 21,
       "member_record_ids": [
+        "0e0ef973f76ce101",
+        "17b6cd006dc4d5e8",
         "18a9c5021d6f2545",
+        "1face3ace7eb295d",
+        "26eb7dc6cc873dff",
+        "2a3be14df360efef",
+        "403d1e87efb57da3",
         "438a178910d52242",
         "4d8624f975b20633",
         "5804f5ac1a7ca926",
         "589bfb9f56611577",
         "628404d6bb60d0b4",
         "6bef0246711e0a38",
+        "6c54697e8561e53a",
+        "7731b0021f006535",
+        "82735ba61ad1e32f",
+        "8bfd104ac83a3f56",
+        "925ddac501a09d9d",
+        "a1421bd1206878a3",
         "a7c60b70f6731b11",
         "ae3307cd2158f635",
         "c2f02e106d816c3f",
+        "c355e0ba4e0d0d63",
         "d52289a803e5c4ef",
+        "d71035f7fd618b7f",
         "dc37026fc91c009f",
+        "e8a509c4aba0497c",
+        "ecda82199f22214a",
+        "fb12f7e134fc36d8",
         "fcef787ce23f8f50"
       ],
-      "money_mentions": 3,
+      "money_mentions": 5,
       "money_record_ids": [
         "18a9c5021d6f2545",
+        "2a3be14df360efef",
         "438a178910d52242",
-        "ae3307cd2158f635"
+        "a1421bd1206878a3",
+        "fb12f7e134fc36d8"
       ],
-      "record_count": 13,
+      "record_count": 30,
       "seller_record_ids": [
         "0c333647994514db",
         "1bb6774a094edee7",
         "1bd8278418a8b53c",
-        "1efd7e884c3e737f",
+        "2e71b105fdccb07d",
         "2e7aff56ed6c1cf5",
-        "30d3c3491d70b9c5",
         "6d0a4e5e8824a790",
         "6fc541a62c4ccc9f",
         "b9187a29a5fbc053",
-        "e40f171bd18168fa"
+        "e40f171bd18168fa",
+        "f2a0db70d257cfe3"
       ],
       "seller_records": 10
     },
@@ -328,80 +481,107 @@
       "media_records": 0,
       "member_record_ids": [
         "03d562828105fdee",
-        "235ef06e56a610c8",
         "2f8f122cb6ccad7e",
         "5b3894750cd5711c",
-        "94c97c27e48a2162"
+        "94c97c27e48a2162",
+        "c765efbcaf4d0e15",
+        "f1aff9048577aa6a"
       ],
-      "money_mentions": 4,
+      "money_mentions": 6,
       "money_record_ids": [
         "03d562828105fdee",
         "2f8f122cb6ccad7e",
         "5b3894750cd5711c",
-        "94c97c27e48a2162"
+        "94c97c27e48a2162",
+        "c765efbcaf4d0e15",
+        "f1aff9048577aa6a"
       ],
-      "record_count": 5,
+      "record_count": 6,
       "seller_record_ids": [
         "30fcc35b22858163",
         "a2f54e4ddefa5007"
       ],
       "seller_records": 2
     },
+    "paid-coaching-worth-it": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Are coaching and mentorship programs even worth it, or a scam?",
+      "media_record_ids": [
+        "ef0e6b6d41c8e337"
+      ],
+      "media_records": 1,
+      "member_record_ids": [
+        "3eb47b31816dab13"
+      ],
+      "money_mentions": 1,
+      "money_record_ids": [
+        "3eb47b31816dab13"
+      ],
+      "record_count": 1,
+      "seller_record_ids": [],
+      "seller_records": 0
+    },
     "raising-capital": {
       "failed_spend_mentions": 0,
       "failed_spend_record_ids": [],
       "label": "How do I raise the money for my deal: investors, partners, no money down?",
       "media_record_ids": [
-        "0b05926f7704ddfe",
-        "1c4a61f979fb1816",
-        "36750e558d73d6dd",
-        "44015329aaaf0a01",
         "4670da290fac3cde",
         "72305e5da9f10879",
         "899118ca7b8578d7",
+        "9bd70d0e4abb4c74",
         "acbea589c917fac7",
-        "db45d341bb3641bf"
+        "db45d341bb3641bf",
+        "ef8f25d2c98c3664"
       ],
-      "media_records": 9,
+      "media_records": 7,
       "member_record_ids": [
-        "1cb9babf9b067a8e",
+        "013aa55a98556f10",
+        "03d515f69f3df163",
+        "13e862d948089d1c",
+        "1b50fea8e61c3d93",
         "1d5fadfee4370c89",
+        "32b12285993ebd67",
+        "39d25fb16c49f57d",
+        "3b77cccf101cf726",
+        "4cd711ed381f3fa3",
         "4cf6a1227ad936fc",
-        "4d2653ebb1245c00",
         "564b75f6a6238296",
-        "5705efc5e1de913f",
+        "5d15024ad86c0c1d",
         "5e230efb32aff881",
-        "8b4a1161556542b8",
-        "bb191ea1e65f7f8f"
+        "5fef306063f17bc8",
+        "b6ff4c80484a6b1c",
+        "bb191ea1e65f7f8f",
+        "ecac2a433aabacfe"
       ],
-      "money_mentions": 9,
+      "money_mentions": 5,
       "money_record_ids": [
-        "1cb9babf9b067a8e",
+        "1b50fea8e61c3d93",
         "1d5fadfee4370c89",
         "4cf6a1227ad936fc",
-        "4d2653ebb1245c00",
-        "564b75f6a6238296",
-        "5705efc5e1de913f",
         "5e230efb32aff881",
-        "8b4a1161556542b8",
-        "bb191ea1e65f7f8f"
+        "ecac2a433aabacfe"
       ],
-      "record_count": 9,
+      "record_count": 17,
       "seller_record_ids": [
         "01b27ff4c609fd4e",
+        "0b05926f7704ddfe",
+        "1c4a61f979fb1816",
         "2b1b388cd0381d35",
+        "36750e558d73d6dd",
         "3a97c06f9ed7e2f9",
+        "44015329aaaf0a01",
         "50b90f01db62bf11",
-        "5d10db498e6c2971",
         "715562ecaf8fc020",
         "742182bf4eb52922",
-        "9bd70d0e4abb4c74",
         "b8e511ec182b8f9f",
         "b8ffd558baccb49d",
         "ba63e14144f9e840",
+        "e2f53cb28c01e14e",
         "efdac722a57de7f5"
       ],
-      "seller_records": 12
+      "seller_records": 15
     },
     "raising-capital-legally": {
       "failed_spend_mentions": 0,
@@ -409,24 +589,31 @@
       "label": "Is my capital raise legal? SEC rules, Reg D filings and the broker licence question",
       "media_record_ids": [
         "a2c29deecc9d0348",
-        "dd99688f8c6887b2",
+        "ae2ea6977fc3a57e",
         "e9240529887f8f0b"
       ],
       "media_records": 3,
       "member_record_ids": [
+        "0adcef7aad53fe9b",
         "1cb9babf9b067a8e",
+        "250532ae6e59ac2f",
+        "38137c2d95f9e815",
         "4d2653ebb1245c00",
         "5705efc5e1de913f",
-        "5c87b03226e6425a"
+        "5c87b03226e6425a",
+        "5d15024ad86c0c1d",
+        "7cf1c153be17d298",
+        "97af1dcdd297322b",
+        "9ea9d00bb5e758ce",
+        "caf088458524d51f",
+        "d8040d2cc92d77d8",
+        "eefe7d72193d8da0"
       ],
-      "money_mentions": 4,
+      "money_mentions": 1,
       "money_record_ids": [
-        "1cb9babf9b067a8e",
-        "4d2653ebb1245c00",
-        "5705efc5e1de913f",
         "5c87b03226e6425a"
       ],
-      "record_count": 4,
+      "record_count": 14,
       "seller_record_ids": [
         "006b0290a2e121d2",
         "0329f9d297c0c022",
@@ -435,6 +622,7 @@
         "0fca74011bc4be01",
         "16bc62c2537a76a7",
         "1c2e266189d3a2cc",
+        "2a3ad4efd49118b7",
         "2bc7e2c5d759649e",
         "31fe8d1dc6aa4203",
         "3ce0ed2870a3384c",
@@ -448,10 +636,12 @@
         "c2023700019b3072",
         "c2ee41c42a60279a",
         "d35b4c4fc07523a9",
+        "dd99688f8c6887b2",
         "e453e4176760b987",
-        "eed9503c5e2384f6"
+        "eed9503c5e2384f6",
+        "f0158020f5bfce66"
       ],
-      "seller_records": 22
+      "seller_records": 25
     },
     "structuring-the-deal": {
       "failed_spend_mentions": 0,
@@ -461,37 +651,64 @@
       "media_records": 0,
       "member_record_ids": [
         "1502b6b352b98b0f",
+        "19c5f2d3660fdd49",
+        "250532ae6e59ac2f",
+        "286d20c1668fd7a8",
+        "66575c9647377c9f",
         "6874bd0c98cac426",
+        "70c74ddc8b62388e",
+        "89210e75336d9480",
         "8b4a1161556542b8",
-        "98037f12352be361",
+        "b72407381609ebcc",
+        "b7a2d310af88853b",
+        "e4131fbf92cfe6b3",
+        "e9788d62ace28b82",
+        "eb4abe2e609c3056",
         "eb5e55d70640bbc9"
       ],
-      "money_mentions": 1,
+      "money_mentions": 4,
       "money_record_ids": [
-        "8b4a1161556542b8"
+        "66575c9647377c9f",
+        "70c74ddc8b62388e",
+        "b7a2d310af88853b",
+        "e4131fbf92cfe6b3"
       ],
-      "record_count": 5,
-      "seller_record_ids": [],
-      "seller_records": 0
+      "record_count": 15,
+      "seller_record_ids": [
+        "1838230948ceaace"
+      ],
+      "seller_records": 1
     },
     "syndication-failure": {
       "failed_spend_mentions": 0,
       "failed_spend_record_ids": [],
       "label": "Why syndications fail, and the fear that mine will",
       "media_record_ids": [
+        "19d53997137146de",
+        "2d05ac56cf2b1b8c",
+        "366816252d26629b",
         "4293752642b069cd",
+        "4d137180c5ad4963",
         "4ec0d83d2120e2c2",
         "64dc5b0188ff5521",
         "8cbc91319bf9bbb5",
         "94e097e2e8758468",
         "a0f788dcc6f0ed05",
-        "e2eb9497d15a181f"
+        "e2eb9497d15a181f",
+        "e4e5d4ce1c8c2eb6",
+        "f43970d85289fac9"
       ],
-      "media_records": 7,
-      "member_record_ids": [],
+      "media_records": 13,
+      "member_record_ids": [
+        "41bba19093d02d0d",
+        "48982eafd7c6bac2",
+        "527af660a882d7c9",
+        "84dfb0678952ba7f",
+        "f6455377c8324af2"
+      ],
       "money_mentions": 0,
       "money_record_ids": [],
-      "record_count": 0,
+      "record_count": 5,
       "seller_record_ids": [
         "60e092bab5a236c1"
       ],
@@ -507,7 +724,7 @@
       "media_records": 1,
       "member_record_ids": [
         "04dc93a3626c28b6",
-        "51cc56e85cf3b533",
+        "5edfff662165697a",
         "6fca8aeba0e68e92",
         "76e4d3bcdeb86a9c",
         "98037f12352be361",
@@ -524,9 +741,50 @@
       ],
       "record_count": 8,
       "seller_record_ids": [
-        "a1c22d8d99990233"
+        "7662eff7ed362318",
+        "98890f11a272632e",
+        "a1c22d8d99990233",
+        "f0158020f5bfce66"
       ],
-      "seller_records": 1
+      "seller_records": 4
+    },
+    "taxes-insurance-jump": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Property taxes doubled after purchase and insurance is through the roof",
+      "media_record_ids": [
+        "1550dfc0a3eb3afa",
+        "27fb665fc5c6e901",
+        "383f447902b5e614",
+        "3a7659aec8190d11",
+        "73855e96ed0ae961"
+      ],
+      "media_records": 5,
+      "member_record_ids": [
+        "378b5ffd9e864407",
+        "4abf0c25ec6c84c9",
+        "94ba843a3dca2b29",
+        "abc36f1a737b9f77"
+      ],
+      "money_mentions": 3,
+      "money_record_ids": [
+        "378b5ffd9e864407",
+        "94ba843a3dca2b29",
+        "abc36f1a737b9f77"
+      ],
+      "record_count": 4,
+      "seller_record_ids": [
+        "008a1a41efe61dd0",
+        "1b9047b8872f0d48",
+        "259d6d08be547f33",
+        "429d7a74c31953d7",
+        "6c76e71877bbc6e1",
+        "7189238de2fd5299",
+        "7f100c24ee92bea1",
+        "80433b5242325252",
+        "b2f94b36faed1ad3"
+      ],
+      "seller_records": 9
     },
     "underwriting-deals": {
       "failed_spend_mentions": 0,
@@ -535,60 +793,75 @@
       "media_record_ids": [
         "0051c3d4e75cae25",
         "0bbf426c0262d6e4",
-        "1aecb42a9eff8f97",
         "1ec9d1dfcdc532cd",
         "1fd0d59ace9a6492",
         "26bbbe03091c051b",
         "2dd7d6095db1e821",
-        "3191a644352d2323",
         "4f90c5e9158dda5b",
         "5d6b83e13f583958",
-        "70342eb0ba52160c",
         "803dfbd462d4fe05",
         "9b043d33e6c488ab",
         "ba79797afc3594c4",
         "c710b182668dcc67",
-        "ea14c0e7a7dcdcc4",
         "fae7aa352adb118a"
       ],
-      "media_records": 17,
+      "media_records": 13,
       "member_record_ids": [
         "1301b92a6bad6771",
+        "2adb8b695bfe1d85",
         "4adfa1a0bb940139",
+        "89210e75336d9480",
         "8dbe84d737464a84",
+        "92f468fd81e8123f",
         "ace8d3a4a6e45d96",
+        "b62448137a2b385a",
+        "bd0931b70180b680",
+        "c355e0ba4e0d0d63",
+        "c99cc48ef23cf53a",
         "e2a99f53f40b52a8"
       ],
-      "money_mentions": 1,
-      "money_record_ids": [
-        "1301b92a6bad6771"
-      ],
-      "record_count": 5,
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 12,
       "seller_record_ids": [
         "0d0b9c90f20f7ddb",
         "12c03ef056a7c977",
+        "1aecb42a9eff8f97",
+        "3191a644352d2323",
         "471063746d22e628",
         "4a53b5b0322d728e",
+        "5e940368b44847fc",
+        "70342eb0ba52160c",
+        "b0038edae6df55fe",
         "ecd10e34bfb1fbc7",
         "faef4b08bc9720e3"
       ],
-      "seller_records": 6
+      "seller_records": 11
     },
     "vacancy-and-tenants": {
       "failed_spend_mentions": 0,
       "failed_spend_record_ids": [],
       "label": "Finding tenants: the warehouse sits empty but the mortgage is due",
       "media_record_ids": [
-        "2bf7a0f78b78ba2a",
         "4581622d9fb4ef01",
         "56c625eae2b242d0",
         "a49ff6a648558460",
-        "b7008188e325b589"
+        "b7008188e325b589",
+        "cec8d2570754999e",
+        "e60d4720192ea0a1"
       ],
-      "media_records": 5,
+      "media_records": 6,
       "member_record_ids": [
+        "1515c1ed032fbd3a",
+        "9004c0ea15e26d79",
+        "9edd4eb168e49ed5",
+        "a33a9f0dfe75b674",
         "a46ffacaa6289cf5",
+        "aa2fa3427c669638",
+        "bef2f3631fadd16c",
         "d0a2e0371ffb5111",
+        "d1ca2749f0145fe5",
+        "dcd8b8638d5bce81",
         "dd4c7a15c948cd48",
         "eab2ac3d377520e9"
       ],
@@ -597,46 +870,50 @@
         "a46ffacaa6289cf5",
         "eab2ac3d377520e9"
       ],
-      "record_count": 4,
+      "record_count": 12,
       "seller_record_ids": [
         "4b5db9116f1a55f3",
+        "5b97757f5b75cc4e",
         "b65dfc2864fb6570",
         "bbd83580a9a045d1",
         "cbbff7cf46cff943",
         "ce53246323971587",
-        "cec8d2570754999e",
         "fb4e56c738d70b67"
       ],
       "seller_records": 7
     }
   },
-  "records_in_manifest": 948,
+  "records_in_manifest": 1748,
   "room": "small-industrial-property-investors",
   "totals": {
     "by_kind": {
-      "blog_or_site": 411,
-      "forum": 144,
-      "jobs": 70,
-      "news": 45,
-      "official": 61,
-      "qa": 49,
-      "reviews": 78,
-      "social": 3,
-      "video": 87
+      "blog_or_site": 579,
+      "forum": 576,
+      "jobs": 105,
+      "news": 49,
+      "official": 98,
+      "qa": 138,
+      "reviews": 90,
+      "social": 6,
+      "video": 107
     },
     "by_source": {
-      "websearch": 948
+      "websearch": 1748
     },
     "by_voice": {
-      "media": 177,
-      "member": 97,
-      "other": 422,
-      "seller": 252
+      "media": 250,
+      "member": 264,
+      "other": 903,
+      "seller": 331
     },
     "failed_spend_mentions": 0,
-    "member_records": 97,
-    "member_records_with_pain": 80,
-    "money_mentions": 32,
+    "member_records": 264,
+    "member_records_by_round": {
+      "1": 111,
+      "2": 153
+    },
+    "member_records_with_pain": 211,
+    "money_mentions": 61,
     "source_kind_min_records": 5,
     "source_kinds": [
       "blog_or_site",
@@ -646,6 +923,7 @@
       "official",
       "qa",
       "reviews",
+      "social",
       "video"
     ]
   }
