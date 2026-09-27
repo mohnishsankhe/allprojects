@@ -1,0 +1,591 @@
+{
+  "rooms": [
+    {
+      "slug": "admitted-us-masters-predeparture-india",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w1",
+        "evidence_url": null,
+        "reasoning": "These are the founder's GRE product users a few months after the test, so w1 (the GRE product and its users) reaches the same people, though they are no longer 'preparing for the GRE'. Search reach also applies: Yocket Premium at ₹60K–₹120K (https://yocket.com/premium) and an IndiaMart listing for F1 visa interview prep at ₹ 1000/hour (https://www.indiamart.com/proddetail/us-f1-visa-interview-preparation-2852169378688.html) show the room already buying through search and marketplaces.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": null,
+        "reasoning": "The core paid problems are education loans, SEVIS and the F-1 visa interview, housing, forex and insurance. None is a ledger depth domain; GRE quant and verbal is adjacent only.",
+        "confidence": "high"
+      },
+      "spend": [
+        {
+          "what": "SEVIS I-901 fee",
+          "price_text": "$350",
+          "amount": 350,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://www.ice.gov/sevis/i901",
+          "seen_via": "search"
+        },
+        {
+          "what": "F-1 visa application (MRV) fee",
+          "price_text": "$185",
+          "amount": 185,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://globalscholarsguide.com/usa-student-visa-2026-f1-interview-sevis-fee/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Yocket Premium counselling package (includes visa mock interviews)",
+          "price_text": "₹60K–₹120K",
+          "amount": 60000,
+          "currency": "INR",
+          "unit": "package",
+          "url": "https://yocket.com/premium",
+          "seen_via": "search"
+        },
+        {
+          "what": "US F1 visa interview preparation, hourly (IndiaMart listing)",
+          "price_text": "₹ 1000/hour",
+          "amount": 1000,
+          "currency": "INR",
+          "unit": "hour",
+          "url": "https://www.indiamart.com/proddetail/us-f1-visa-interview-preparation-2852169378688.html",
+          "seen_via": "search"
+        },
+        {
+          "what": "InterviewBuddy expert human coaching for the F-1 visa interview",
+          "price_text": "$23.99",
+          "amount": 23.99,
+          "currency": "USD",
+          "unit": "session",
+          "url": "https://permito.ai/blog/best-ai-mock-interview-tools-visa-2026",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "The pains need guidance, checklists and accountability before fixed dates. Loans and insurance come from vendors; no ritual, large capital or licensed advocacy sits at the core.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Visa interview coaching and pre-departure guidance are sold by unlicensed consultants in India, the customer's country, and the founder would not represent anyone before US immigration. Loan help must stay informational, not regulated financial advice.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "The outcome is personal (a visa, a loan) and parents pay; packages run from ₹1,000 an hour to over a lakh, so buyers want a credible guide.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "opt-grads-us-job-hunt",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.trustpilot.com/review/optnation.com",
+        "reasoning": "OPT graduates already pay for job-search products found through search: OPTnation resume analysis at $100 has Trustpilot reviews, Profile Elevate sells sponsor target lists from $99, and TrackMyOPT Pro is $4.99/month. w1 covers Indians preparing for the GRE; these people are two to three years past that and in the US, so warm would be a stretch.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": null,
+        "reasoning": "The core paid problems are the US job search, resumes, sponsor targeting and OPT/H-1B rules. None is in the ledger's depth list.",
+        "confidence": "high"
+      },
+      "spend": [
+        {
+          "what": "OPT work permit application (Form I-765)",
+          "price_text": "$470",
+          "amount": 470,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://immiva.com/blog/i-765-opt-filing-fee-2026-complete-cost-breakdown",
+          "seen_via": "search"
+        },
+        {
+          "what": "Premium processing for the OPT permit",
+          "price_text": "$1,780",
+          "amount": 1780,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://immiva.com/blog/i-765-premium-processing-opt-worth-it-2026",
+          "seen_via": "search"
+        },
+        {
+          "what": "Profile Elevate resume, LinkedIn and sponsor target list for F-1/OPT candidates",
+          "price_text": "from $99",
+          "amount": 99,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://profileelevate.com/for/international-students/",
+          "seen_via": "search"
+        },
+        {
+          "what": "OPTnation resume analysis and improvement (reviewed on Trustpilot)",
+          "price_text": "$100",
+          "amount": 100,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://www.trustpilot.com/review/optnation.com",
+          "seen_via": "search"
+        },
+        {
+          "what": "TrackMyOPT Pro (OPT deadline tracking and career tools)",
+          "price_text": "$4.99/month",
+          "amount": 4.99,
+          "currency": "USD",
+          "unit": "month",
+          "url": "https://www.trackmyopt.com/pricing",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Job-search coaching needs accountability, judgment and peers, all of which the founder can be. Immigration filings need a lawyer, which is rentable (r1), and are not the core of the job-hunt pain.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Job-search coaching needs no licence. Advice on OPT or H-1B status is regulated immigration advice in the US, so the product must stay on the job-search side and hand status questions to lawyers.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "The likely product is coaching toward a sponsoring job, a personal outcome on a 90-day clock; resume tools are self-serve but coaching needs a trusted guide.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "final-year-btech-placements-india",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://play.google.com/store/apps/details?id=com.testbook.tbapp.tcsnqt&hl=en_IN",
+        "reasoning": "Students already buy placement prep through search and the Play Store: Testbook's TCS NQT app and its yearly Pass, and PrepInsta Prime (prepinsta.com/prime/purchase) with student reviews. w1 covers Indians preparing for the GRE; only a minority of this room will sit the GRE later, so warm does not cover the room.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": null,
+        "reasoning": "The core paid problems are company aptitude tests, coding and DSA rounds and interviews. Aptitude quant is adjacent to GRE quant (d1) but the biggest spend is coding and DSA, which is outside the ledger, and adjacent is not enough.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {
+          "what": "Coding and DSA interview prep bootcamp",
+          "price_text": "₹2,75,000 plus GST",
+          "amount": 275000,
+          "currency": "INR",
+          "unit": "package",
+          "url": "https://logicmojo.com/affordable-scaler-academy-alternatives/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Testbook Yearly Pass Pro (mock tests incl. TCS NQT), coupon price",
+          "price_text": "Rs.439",
+          "amount": 439,
+          "currency": "INR",
+          "unit": "year",
+          "url": "https://www.indiafreestuff.in/testbook-lifetime-3-year-pass--rs-100-cashback-rs-499-testbook",
+          "seen_via": "search"
+        },
+        {
+          "what": "GRE registration fee in India (ladder step 4)",
+          "price_text": "₹22,550",
+          "amount": 22550,
+          "currency": "INR",
+          "unit": "one-off",
+          "url": "https://eecglobal.com/blog/gre-fee-registration-india-2026",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Prep needs practice material, accountability and peers, all supplied or self-serve. No capital, ritual or licensed advocacy is involved.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Test and interview prep needs no licence in India and has no overlap with the founder's employer.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": false,
+        "reasoning": "The room buys self-serve mock tests and courses at a few hundred rupees a year; the entry product is low-price and self-serve, though bootcamps at lakhs need trust.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "ib-summer-analyst-recruits",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.wallstreetoasis.com/courses/interview-prep/investment-banking",
+        "reasoning": "Students already buy IB prep through search: the WSO IB Interview Course ($197), the BIWS Interview Guide ($197, 56,763+ students), and IGotAnOffer coaching at $100–$250 per session. w2 covers finance professionals; these are university students who are not yet professionals, so the warm path reaches their future hirers, not them.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d2",
+        "reasoning": "The technicals they pay to learn are accounting, valuation, DCF, LBO and M&A, which is corporate finance and valuation (d2, strong). The founder can tell a good answer from a bad one.",
+        "confidence": "high"
+      },
+      "spend": [
+        {
+          "what": "BIWS Investment Banking Interview Guide",
+          "price_text": "$197",
+          "amount": 197,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://breakingintowallstreet.com/investment-banking-interview-guide/",
+          "seen_via": "search"
+        },
+        {
+          "what": "WSO Investment Banking Interview Course",
+          "price_text": "$197",
+          "amount": 197,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://www.wallstreetoasis.com/courses/interview-prep/investment-banking",
+          "seen_via": "search"
+        },
+        {
+          "what": "Wall Street Prep Premium Package (financial modeling)",
+          "price_text": "$499",
+          "amount": 499,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+          "seen_via": "search"
+        },
+        {
+          "what": "IGotAnOffer IB mock interview / coaching session",
+          "price_text": "$100–$250 per session",
+          "amount": 100,
+          "currency": "USD",
+          "unit": "session",
+          "url": "https://igotanoffer.com/en/advice/best-investment-banking-interview-coaching-services",
+          "seen_via": "search"
+        },
+        {
+          "what": "One-to-one IB tutoring (Wall Street Prep, as reported)",
+          "price_text": "$800/hour",
+          "amount": 800,
+          "currency": "USD",
+          "unit": "hour",
+          "url": "https://theprivateequiteer.com/wall-street-prep-premium-package-review/",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Coaching, mock interviews and cohorts need judgment, accountability and peers, which the founder can be. No capital, ritual or licence is needed.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Employer overlap: the room recruits into investment banking, but interview and skills products use the founder's own knowledge, not his employer's clients, deals or confidential information. He must not use his bank's recruiting process or internal materials.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "Guides are self-serve, but the likely product is coaching toward an offer, a personal outcome at $100–$800 an hour, where buyers want a credible banker.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "mba-ib-associate-switchers",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.10xebitda.com/investment-banking-interview-coaching/",
+        "reasoning": "MBA switchers already buy through search: 10X EBITDA sells summer associate coaching at $249–$289/hr with 10-hour packs at $2,490, BIWS reviews cite MBA students with zero finance experience, and IGotAnOffer coaches career switchers. w2 covers finance professionals; first-year MBAs from non-finance backgrounds are not yet that group.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d2",
+        "reasoning": "Associate recruiting tests the same technicals as analyst recruiting: valuation, accounting, M&A and LBO basics, all corporate finance and valuation (d2, strong).",
+        "confidence": "high"
+      },
+      "spend": [
+        {
+          "what": "BIWS Investment Banking Interview Guide",
+          "price_text": "$197",
+          "amount": 197,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://breakingintowallstreet.com/investment-banking-interview-guide/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Wall Street Prep Premium Package (financial modeling)",
+          "price_text": "$499",
+          "amount": 499,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+          "seen_via": "search"
+        },
+        {
+          "what": "10X EBITDA IB interview coaching, hourly",
+          "price_text": "$249–$289/hr",
+          "amount": 249,
+          "currency": "USD",
+          "unit": "hour",
+          "url": "https://www.10xebitda.com/investment-banking-interview-coaching/",
+          "seen_via": "search"
+        },
+        {
+          "what": "10X EBITDA 10-hour coaching pack",
+          "price_text": "$2,490",
+          "amount": 2490,
+          "currency": "USD",
+          "unit": "package",
+          "url": "https://www.10xebitda.com/investment-banking-interview-coaching/",
+          "seen_via": "search"
+        },
+        {
+          "what": "IGotAnOffer IB mock interview / coaching session",
+          "price_text": "$100–$250 per session",
+          "amount": 100,
+          "currency": "USD",
+          "unit": "session",
+          "url": "https://igotanoffer.com/en/advice/best-investment-banking-interview-coaching-services",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Coaching, mock interviews and small cohorts need judgment, accountability and peers, which the founder can be. Nothing at the core needs capital, ritual or a licence.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Employer overlap: the room recruits into investment banking, but skills and interview products do not use the employer's clients, deals or confidential information; the founder must keep his bank's recruiting and internal materials out of it.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "Packages run $500–$3,000 and the outcome is a career switch on loans, so buyers want a coach with real banking credentials.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "retiring-owners-selling-business",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.foxbusiness.com/features/2-online-valuation-tools-for-small-business",
+        "reasoning": "Owners already buy valuation and exit products online: BizEquity sells a $365-per-year valuation subscription to owners, and KeyeStrategies sells a $499 Business Transition Readiness course (https://keyestrategies.com/services/business-owner-program/). No warm path covers small business owners; w5 is call-volume businesses in India and the Gulf and mostly cold.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d2",
+        "reasoning": "Valuation, sale readiness, deal terms and deal documents are the core paid problems, and corporate finance, valuation, deal documents and transactions is a strong ledger domain (d2).",
+        "confidence": "high"
+      },
+      "spend": [
+        {
+          "what": "Business valuation for a sale",
+          "price_text": "$3,000 to $10,000",
+          "amount": 3000,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://www.websiteclosers.com/resources/how-much-does-a-business-valuation-cost/",
+          "seen_via": "search"
+        },
+        {
+          "what": "BizEquity online valuation subscription (17-page report, unlimited use)",
+          "price_text": "$365 per year",
+          "amount": 365,
+          "currency": "USD",
+          "unit": "year",
+          "url": "https://www.foxbusiness.com/features/2-online-valuation-tools-for-small-business",
+          "seen_via": "search"
+        },
+        {
+          "what": "KeyeStrategies Business Transition Readiness online course (5 modules, 60 days)",
+          "price_text": "$499",
+          "amount": 499,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://keyestrategies.com/services/business-owner-program/",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Valuation and sale readiness need judgment and accountability, which the founder can be. Legal drafting, tax sign-off and brokerage (licensed in some US states) are later steps rentable through partners (r1), not the core.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "A valuation opinion for a sale and sale-readiness coaching need no licence in the US; legal, tax and post-sale investment advice do and would go to licensed partners. No employer overlap unless a target is the bank's client.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "The owner's life savings ride on the sale and the service is B2B at thousands of dollars, so trust in the adviser is essential. Search reach plus trust is a mismatch to flag.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "ib-associates-vps-leaving-banking",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w2",
+        "evidence_url": null,
+        "reasoning": "These are investment banking professionals, exactly the current and past colleagues w2 names. Search evidence exists too: IGotAnOffer sells career coaching to bankers at $100–$250 per session (https://igotanoffer.com/en/career-coaching/investment-banking) and Leland lists IB exit coaches at $50–$400+/hr.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d2",
+        "reasoning": "The paid steps (corporate development and fund interview technicals, a modelling refresh, pricing fractional CFO work) sit in corporate finance and valuation (d2, strong). The pivot-story coaching itself is not a ledger domain, so the match is partial.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {
+          "what": "WSO Investment Banking Interview Course (technicals reused for corp dev and fund interviews)",
+          "price_text": "$197",
+          "amount": 197,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://www.wallstreetoasis.com/courses/interview-prep/investment-banking",
+          "seen_via": "search"
+        },
+        {
+          "what": "Wall Street Prep Premium Package (modelling refresh)",
+          "price_text": "$499",
+          "amount": 499,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Career coach by the hour",
+          "price_text": "$75 to $200 per hour",
+          "amount": 75,
+          "currency": "USD",
+          "unit": "hour",
+          "url": "https://www.noomii.com/article/cost-hire-career-coach",
+          "seen_via": "search"
+        },
+        {
+          "what": "IGotAnOffer investment banking career coaching session",
+          "price_text": "$100–$250 per session",
+          "amount": 100,
+          "currency": "USD",
+          "unit": "session",
+          "url": "https://igotanoffer.com/en/career-coaching/investment-banking",
+          "seen_via": "search"
+        },
+        {
+          "what": "Leland IB career coaches, hourly range by tier",
+          "price_text": "$50–$400+/hr",
+          "amount": 50,
+          "currency": "USD",
+          "unit": "hour",
+          "url": "https://igotanoffer.com/en/advice/leland-alternatives",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "A pivot needs judgment on the story, accountability through a quiet search, and peers going through the same move; the founder can be all three. No capital, ritual or licence is needed.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Employer overlap: the room is the founder's own colleagues and peers at other banks. A career product uses skills, not the employer's clients, deals or confidential information, but the founder must check his employer's outside-business rules before coaching people at his own bank.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "A career exit is a personal, high-stakes outcome and these buyers are well paid and sceptical; they will only pay a peer they trust.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "mid-career-searchers-buying-small-business",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://acquisitionlab.com/pricing/",
+        "reasoning": "Searchers already buy through search: Acquisition Lab sells a $10,000 lifetime membership and reports 1,200+ members, Searchfunder sells monthly, annual and lifetime memberships, and a Duedilio review page compares paid buyer programs. Many searchers come from banking and PE, so w2 reaches a subset, but the room as defined (mid-career professionals from consulting and corporate jobs too) is wider than finance professionals.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d2",
+        "reasoning": "Valuing the target, checking the seller's numbers, structuring the deal and reading the purchase agreement are corporate finance, valuation and deal documents (d2, strong).",
+        "confidence": "high"
+      },
+      "spend": [
+        {
+          "what": "Acquisition Lab lifetime membership (buyer program)",
+          "price_text": "$10,000",
+          "amount": 10000,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://acquisitionlab.com/pricing/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Independent SBA-format business valuation",
+          "price_text": "$3,000 to $7,500",
+          "amount": 3000,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://www.bizworth.com/blog/how-much-does-a-business-valuation-cost",
+          "seen_via": "search"
+        },
+        {
+          "what": "Quality of earnings report on the target",
+          "price_text": "$15,000-$25,000 for sub-$3M EBITDA businesses",
+          "amount": 15000,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://ctacquisitions.com/quality-of-earnings/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Lawyer-drafted asset purchase agreement",
+          "price_text": "$1,290",
+          "amount": 1290,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://buyouts.ai/alternatives/asset-purchase-agreement",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "The equity injection and SBA loan are the buyer's own capital, not risk the founder carries. Valuation, diligence and structuring need judgment and accountability; legal and lending steps are rentable licences (r1).",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Valuation, diligence coaching and deal structuring for a buyer need no licence in the US; contract drafting and loan brokerage go to licensed partners. No employer overlap unless a target is one of the bank's deals.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "The buyer is risking savings on a $0.5M to $10M purchase and buys advice at thousands of dollars; only a trusted adviser gets that money. Search reach plus trust is a mismatch to flag.",
+        "confidence": "high"
+      }
+    }
+  ]
+}
