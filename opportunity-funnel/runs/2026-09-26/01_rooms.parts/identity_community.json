@@ -77,8 +77,12 @@
           "seen_via": "search"
         }
       ],
-      "geography": ["GLOBAL"],
-      "venture_overlap": ["v2"],
+      "geography": [
+        "GLOBAL"
+      ],
+      "venture_overlap": [
+        "v2"
+      ],
       "duplicate_of": null,
       "reasoning": "A real identity room: people gather around loving perfume, not around a job, in named forums and a 2.4M-member subreddit, and they already pay through search for decants, subscriptions and kits. It matters for v2 (Proper Noun) because these are the loudest buyers and reviewers; fragrance depth is only moderate, and the making end overlaps the profession room indie-perfumers-launching-brands. All places, the size and the prices were re-grounded in fresh searches this task.",
       "confidence": "moderate"
@@ -155,7 +159,9 @@
           "seen_via": "search"
         }
       ],
-      "geography": ["IN"],
+      "geography": [
+        "IN"
+      ],
       "venture_overlap": [],
       "duplicate_of": null,
       "reasoning": "A huge, loud identity community with a clear paid ladder, and options trading is a moderate depth in the ledger; both gathering places were seen in search this task, and the prices are Indian this time. SEBI's own press release on losses was seen (https://www.sebi.gov.in/media-and-notifications/press-releases/sep-2024/updated-sebi-study-reveals-93-of-individual-traders-incurred-losses-in-equity-fando-between-fy22-and-fy24-aggregate-losses-exceed-1-8-lakh-crores-over-three-years_86906.html). Anything that looks like tips or advice needs a SEBI registration the founder does not hold; education and tooling do not. The tax step is the obligation lens's room indian-fno-traders-itr3-tax-audit, and the profession room active-retail-options-traders is the global cousin. The two subscription prices come from review pages in the search result, not the vendors' own pages.",
@@ -233,8 +239,13 @@
           "seen_via": "search"
         }
       ],
-      "geography": ["GLOBAL"],
-      "venture_overlap": ["v4", "v5"],
+      "geography": [
+        "GLOBAL"
+      ],
+      "venture_overlap": [
+        "v4",
+        "v5"
+      ],
       "duplicate_of": null,
       "reasoning": "A strong identity room: they call themselves indie hackers, gather in named places, and buy self-serve tools through search, which is exactly the ledger's search reach. AI search visibility is a strong depth and overlaps TinyAI (v4); the insight product (v5) could serve them too. Distinct from the fundraising founder rooms in the transition and life-stage lenses because this room rejects investors. Places, size and prices were re-grounded in fresh searches this task.",
       "confidence": "high"
@@ -311,8 +322,13 @@
           "seen_via": "search"
         }
       ],
-      "geography": ["IN"],
-      "venture_overlap": ["v4", "v5"],
+      "geography": [
+        "IN"
+      ],
+      "venture_overlap": [
+        "v4",
+        "v5"
+      ],
       "duplicate_of": null,
       "reasoning": "Indian founders are a self-identified community and the founder can enter it two ways: TinyAI already sells AI agents to Indian businesses, and valuation for a raise is a strong depth. The compliance rung is the obligation lens's room indian-pvt-ltd-annual-roc-compliance; this room is the wider identity around it. All places were seen in search this task, and the compliance and valuation prices are Indian quotes now.",
       "confidence": "moderate"
@@ -394,8 +410,12 @@
           "seen_via": "search"
         }
       ],
-      "geography": ["IN"],
-      "venture_overlap": ["v4"],
+      "geography": [
+        "IN"
+      ],
+      "venture_overlap": [
+        "v4"
+      ],
       "duplicate_of": null,
       "reasoning": "A very large, self-identified community with a fear-driven reason to pay, and building AI agents for businesses is a strong depth (TinyAI). Reach is search plus the founder's Indian business network. The ladder overlaps the profession room ai-agent-builders-freelance and the life-stage room mid-career-ai-agency-starters, but the identity slice (Indian developers as a community) is distinct and much bigger. Places, size and prices were re-grounded in fresh searches this task.",
       "confidence": "moderate"
@@ -470,7 +490,9 @@
           "seen_via": "search"
         }
       ],
-      "geography": ["GLOBAL"],
+      "geography": [
+        "GLOBAL"
+      ],
       "venture_overlap": [],
       "duplicate_of": null,
       "reasoning": "Energy is a strong depth and the founder has a warm path into Southeast Asian energy companies (with the employer-rules caveat in the ledger). The identity here is the transition itself: people who gather in energy communities and finance forums because they want in. It overlaps the profession rooms oil-gas-engineers-mid-career and solar-wind-project-developers and the life-stage room early-career-renewables-project-finance, but cuts across them. The Pivotal180 search showed only its $100-per-year renewal, not the course price, so that step has no price.",
@@ -548,7 +570,12 @@
           "seen_via": "search"
         }
       ],
-      "geography": ["US", "GB", "IN", "GLOBAL"],
+      "geography": [
+        "US",
+        "GB",
+        "IN",
+        "GLOBAL"
+      ],
       "venture_overlap": [],
       "duplicate_of": null,
       "reasoning": "Non-target is a genuine self-identity with its own pains (no on-campus recruiting, cold outreach, credibility) and the founder has warm reach through banking colleagues and strong depth in corporate finance. It overlaps the life-stage room ib-summer-analyst-recruits and the transition room ib-analyst-recruiting-students; the merge may fold it. Places, size and prices were re-grounded in fresh searches this task; the $6,000 to $9,000 program price is a reviewer's report, since the vendor does not publish it.",
@@ -626,7 +653,9 @@
           "seen_via": "search"
         }
       ],
-      "geography": ["GLOBAL"],
+      "geography": [
+        "GLOBAL"
+      ],
       "venture_overlap": [],
       "duplicate_of": null,
       "reasoning": "Consultants are a tight identity community and the founder has warm reach through private equity and banking colleagues plus strong depth in valuation and deal work, which is precisely what consultants lack when they try to exit. It is the post-entry mirror of the profession room mbb-case-interview-candidates. Places, size and prices were re-grounded in fresh searches this task; a WSO thread put the PE course at roughly $400 (two analysts splitting it for about $200), but no listed price was seen, so that step has none.",
@@ -704,8 +733,14 @@
           "seen_via": "search"
         }
       ],
-      "geography": ["GLOBAL", "IN", "US"],
-      "venture_overlap": ["v1"],
+      "geography": [
+        "GLOBAL",
+        "IN",
+        "US"
+      ],
+      "venture_overlap": [
+        "v1"
+      ],
       "duplicate_of": null,
       "reasoning": "This is the worldwide community around the founder's own GRE product (v1), reached by search and app stores rather than only by the Indian warm path, and GRE quant and verbal is a strong depth. It is a superset of the transition room gre-engineers-india and the life-stage room gre-final-year-engineers-india; the merge may fold it. Places, size and prices were re-grounded in fresh searches this task, and the prices are now US-dollar list prices that apply worldwide; the exam fee rises to $249 from August 2026 per the same page.",
       "confidence": "moderate"
@@ -777,8 +812,13 @@
           "seen_via": "search"
         }
       ],
-      "geography": ["US", "GLOBAL"],
-      "venture_overlap": ["v1"],
+      "geography": [
+        "US",
+        "GLOBAL"
+      ],
+      "venture_overlap": [
+        "v1"
+      ],
       "duplicate_of": null,
       "reasoning": "A large community held together by one shared status, with a long, dated, priced ladder. Many are the founder's GRE users two years on (v1). The pains are immigration rules, which need a licensed lawyer for filings the founder cannot supply, so Stage 2 may fail it on supply; coaching and planning around the rules do not need a licence. Superset of the life-stage room opt-grads-us-job-hunt. Places, size and prices were re-grounded in fresh searches this task; only three places were seen, all on the job-hunt side.",
       "confidence": "moderate"
@@ -855,8 +895,12 @@
           "seen_via": "search"
         }
       ],
-      "geography": ["IN"],
-      "venture_overlap": ["v1"],
+      "geography": [
+        "IN"
+      ],
+      "venture_overlap": [
+        "v1"
+      ],
       "duplicate_of": null,
       "reasoning": "The identity is the community itself (the subreddit's name is the badge) and it is the top of the founder's GRE funnel (v1) with a warm path through the GRE product. Younger years have no deadline yet, so urgency is lower than in the final-year room; this is a superset of the life-stage room final-year-btech-placements-india and the merge may fold it. Places, size and prices were re-grounded in fresh searches this task; the PrepInsta price was not shown in the search result.",
       "confidence": "moderate"
@@ -933,7 +977,10 @@
           "seen_via": "search"
         }
       ],
-      "geography": ["GLOBAL", "IN"],
+      "geography": [
+        "GLOBAL",
+        "IN"
+      ],
       "venture_overlap": [],
       "duplicate_of": null,
       "reasoning": "A multi-year identity with fixed exam windows, a priced ladder and strong ledger depth in corporate finance and valuation; the founder's finance colleagues are a warm path. It is a superset of the life-stage room cfa-level1-early-career (Level I only) and overlaps the profession room sell-side-equity-research-associates; the merge may fold it. Places, size and prices were re-grounded in fresh searches this task; the Level I standard-deadline fee seen was USD 1,490.",
@@ -1004,8 +1051,14 @@
           "seen_via": "search"
         }
       ],
-      "geography": ["GLOBAL", "US", "IN"],
-      "venture_overlap": ["v4"],
+      "geography": [
+        "GLOBAL",
+        "US",
+        "IN"
+      ],
+      "venture_overlap": [
+        "v4"
+      ],
       "duplicate_of": null,
       "reasoning": "The ledger's TinyAI warm path names restaurants, salons and other high-call-volume small businesses in India and the Gulf, and AI voice agents and AI search visibility are strong depths; valuation is too. The community is real and huge, though broad: the merge may prefer the sharper business-type rooms and the life-stage room retiring-owners-selling-business for the last two rungs. Places, size and prices were re-grounded in fresh searches this task.",
       "confidence": "moderate"
@@ -1080,7 +1133,9 @@
           "seen_via": "search"
         }
       ],
-      "geography": ["GLOBAL"],
+      "geography": [
+        "GLOBAL"
+      ],
       "venture_overlap": [],
       "duplicate_of": null,
       "reasoning": "A real identity room with named gathering places, paid memberships and a clear paid ladder; the founder's warm path is finance colleagues and the depth is corporate finance. The open question for later stages is credibility: whether this room would accept a male banker as the person supplying accountability or peer walls, which is why confidence is low even though the grounding is solid. The 10,000-member figure is attributed to the 100 Women in Finance homepage as it appeared in the search result. [thin]",
@@ -1158,7 +1213,9 @@
           "seen_via": "search"
         }
       ],
-      "geography": ["GLOBAL"],
+      "geography": [
+        "GLOBAL"
+      ],
       "venture_overlap": [],
       "duplicate_of": null,
       "reasoning": "Valuation is a strong ledger depth and this room already buys tools and research through search, which is the ledger's search reach. Anything that looks like personal investment advice needs a licence the founder does not hold and is excluded; valuation education and tooling do not. It is a different identity from the profession room active-retail-options-traders (patient stock-pickers rather than traders) and from the Indian F&O community above.",

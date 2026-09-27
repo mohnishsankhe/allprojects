@@ -10,11 +10,31 @@
       "origin": "gap_pass",
       "who": "People who built a small software product, app or content site, alone or with a co-founder, and have decided to sell it in the next 6 to 12 months. Most have never sold a company. They must work out what it is worth, choose a marketplace or a broker, answer buyer due diligence, sign a sale agreement and handle the tax on the money. The Indie Hackers threads below are founders describing exactly this: six-figure and seven-figure first sales and 'the weird stuff I had to go through'.",
       "where": [
-        {"name": "Indie Hackers post: Just sold our SaaS for 6 figures, honest lessons I wish I knew", "url": "https://www.indiehackers.com/post/just-sold-our-saas-for-6-figures-honest-lessons-i-wish-i-knew-would-have-saved-me-time-4213fd05c8", "seen_via": "search"},
-        {"name": "Indie Hackers post: The weird sh*t I had to go through when I sold my startup for 7 figures", "url": "https://www.indiehackers.com/post/the-weird-sh-t-i-had-to-go-through-when-i-sold-my-startup-for-7-figures-a7c468adfc", "seen_via": "search"},
-        {"name": "Indie Hackers post: He sold his SaaS for $128,000", "url": "https://www.indiehackers.com/post/he-sold-his-saas-for-128-000-7c2e596325", "seen_via": "search"},
-        {"name": "Acquire.com, the marketplace where they list (monthly listing fee $25–$100 plus a closing fee)", "url": "https://acquire.com/", "seen_via": "search"},
-        {"name": "Flippa pricing page (success fee 10% on sales under $50,000, 7.5% on sales between $50,000 and $100,000, and 5% on sales above $100,000)", "url": "https://flippa.com/pricing", "seen_via": "search"}
+        {
+          "name": "Indie Hackers post: Just sold our SaaS for 6 figures, honest lessons I wish I knew",
+          "url": "https://www.indiehackers.com/post/just-sold-our-saas-for-6-figures-honest-lessons-i-wish-i-knew-would-have-saved-me-time-4213fd05c8",
+          "seen_via": "search"
+        },
+        {
+          "name": "Indie Hackers post: The weird sh*t I had to go through when I sold my startup for 7 figures",
+          "url": "https://www.indiehackers.com/post/the-weird-sh-t-i-had-to-go-through-when-i-sold-my-startup-for-7-figures-a7c468adfc",
+          "seen_via": "search"
+        },
+        {
+          "name": "Indie Hackers post: He sold his SaaS for $128,000",
+          "url": "https://www.indiehackers.com/post/he-sold-his-saas-for-128-000-7c2e596325",
+          "seen_via": "search"
+        },
+        {
+          "name": "Acquire.com, the marketplace where they list (monthly listing fee $25–$100 plus a closing fee)",
+          "url": "https://acquire.com/",
+          "seen_via": "search"
+        },
+        {
+          "name": "Flippa pricing page (success fee 10% on sales under $50,000, 7.5% on sales between $50,000 and $100,000, and 5% on sales above $100,000)",
+          "url": "https://flippa.com/pricing",
+          "seen_via": "search"
+        }
       ],
       "who_pays": "The founder pays, mostly out of the sale money: a valuation, a marketplace's closing fee or a broker's commission, a lawyer for the sale agreement and an accountant for the tax.",
       "size": {
@@ -25,14 +45,54 @@
         "confidence": "low"
       },
       "ladder": [
-        {"step": 1, "problem": "Find out what the business is worth before listing it (an independent valuation)", "price_text": "$2,000 to $15,000", "url": "https://www.baton.com/resources/own/business-valuation-cost", "seen_via": "search"},
-        {"step": 2, "problem": "List it and reach buyers through a marketplace, paid by a closing fee on the sale price", "price_text": "8% under $250K, 7% up to $1M, and 6% above $1M", "url": "https://help.acquire.com/how-much-does-it-cost-to-sell", "seen_via": "search"},
-        {"step": 3, "problem": "Clean the books and survive buyer due diligence (the fractional CFO benchmark is what founders otherwise pay for this help)", "price_text": "$3,000-$12,000/month", "url": "https://eightx.co/blog/fractional-cfo-cost-pricing-guide", "seen_via": "search"},
-        {"step": 4, "problem": "Sign the sale agreement: a lawyer drafts the asset purchase agreement (licensed partner)", "price_text": "$1,290", "url": "https://buyouts.ai/alternatives/asset-purchase-agreement", "seen_via": "search"},
-        {"step": 5, "problem": "Seller-side legal for a bigger or messier deal (earnouts, seller financing)", "price_text": "$5,000 and $50,000+", "url": "https://ctacquisitions.com/attorney-fees-for-selling-a-business/", "seen_via": "search"},
-        {"step": 6, "problem": "Pay the tax on the proceeds and set up the next company (incorporation from anywhere)", "price_text": "$500", "url": "https://sparklaun.ch/compare/stripe-atlas", "seen_via": "search"}
+        {
+          "step": 1,
+          "problem": "Find out what the business is worth before listing it (an independent valuation)",
+          "price_text": "$2,000 to $15,000",
+          "url": "https://www.baton.com/resources/own/business-valuation-cost",
+          "seen_via": "search"
+        },
+        {
+          "step": 2,
+          "problem": "List it and reach buyers through a marketplace, paid by a closing fee on the sale price",
+          "price_text": "8% under $250K, 7% up to $1M, and 6% above $1M",
+          "url": "https://help.acquire.com/how-much-does-it-cost-to-sell",
+          "seen_via": "search"
+        },
+        {
+          "step": 3,
+          "problem": "Clean the books and survive buyer due diligence (the fractional CFO benchmark is what founders otherwise pay for this help)",
+          "price_text": "$3,000-$12,000/month",
+          "url": "https://eightx.co/blog/fractional-cfo-cost-pricing-guide",
+          "seen_via": "search"
+        },
+        {
+          "step": 4,
+          "problem": "Sign the sale agreement: a lawyer drafts the asset purchase agreement (licensed partner)",
+          "price_text": "$1,290",
+          "url": "https://buyouts.ai/alternatives/asset-purchase-agreement",
+          "seen_via": "search"
+        },
+        {
+          "step": 5,
+          "problem": "Seller-side legal for a bigger or messier deal (earnouts, seller financing)",
+          "price_text": "$5,000 and $50,000+",
+          "url": "https://ctacquisitions.com/attorney-fees-for-selling-a-business/",
+          "seen_via": "search"
+        },
+        {
+          "step": 6,
+          "problem": "Pay the tax on the proceeds and set up the next company (incorporation from anywhere)",
+          "price_text": "$500",
+          "url": "https://sparklaun.ch/compare/stripe-atlas",
+          "seen_via": "search"
+        }
       ],
-      "geography": ["GLOBAL", "US", "IN"],
+      "geography": [
+        "GLOBAL",
+        "US",
+        "IN"
+      ],
       "venture_overlap": [],
       "duplicate_of": null,
       "reasoning": "Selling a first company is a one-off transition with a fixed order of paid steps, and founders write long public post-mortems about it on Indie Hackers. The listed rooms cover retiring owners and the brokers, not founders of small online businesses who sell through marketplaces. The founder's valuation and deal-document depth fits steps 1 to 5. The marketplaces' own fee pages were seen this run, so the earlier [thin] tag is lifted.",
@@ -45,10 +105,26 @@
       "origin": "gap_pass",
       "who": "Founders and operations leads of online brands doing roughly $1M to $10M a year who have outgrown a spare room, a third-party warehouse (3PL) or Amazon-only fulfilment. In the next 6 to 12 months they must decide whether to lease their own space, find a small warehouse, negotiate a first industrial lease, fit it out with racking and software, hire packers and insure the stock. One landlord's guide puts the line at 'steady, growing volume'; a Shopify guide says 3PLs suit brands at 50 to 500 orders a month.",
       "where": [
-        {"name": "Shopify Community thread: Upgrading our in-house fulfillment process", "url": "https://community.shopify.com/t/upgrading-our-in-house-fulfillment-process/348252", "seen_via": "search"},
-        {"name": "Shopify Community thread: Should I use a 3PL service or handle shipping and assembly in-house?", "url": "https://community.shopify.com/t/should-i-use-a-3pl-service-or-handle-shipping-and-assembly-in-house/343206", "seen_via": "search"},
-        {"name": "Amazon Seller Forums thread: Standard FBA vs transitioning to Amazon Warehousing & Distribution (the same sellers weighing where stock should sit)", "url": "https://sellercentral.amazon.com/seller-forums/discussions/t/dcf64b7f-9440-4e85-b686-f0a9fbb4e905", "seen_via": "search"},
-        {"name": "Forkliftaction forums: Warehouse and 3PL discussion board", "url": "https://www.forkliftaction.com/forum/warehouse-and-3pl.aspx?q=128464", "seen_via": "search"}
+        {
+          "name": "Shopify Community thread: Upgrading our in-house fulfillment process",
+          "url": "https://community.shopify.com/t/upgrading-our-in-house-fulfillment-process/348252",
+          "seen_via": "search"
+        },
+        {
+          "name": "Shopify Community thread: Should I use a 3PL service or handle shipping and assembly in-house?",
+          "url": "https://community.shopify.com/t/should-i-use-a-3pl-service-or-handle-shipping-and-assembly-in-house/343206",
+          "seen_via": "search"
+        },
+        {
+          "name": "Amazon Seller Forums thread: Standard FBA vs transitioning to Amazon Warehousing & Distribution (the same sellers weighing where stock should sit)",
+          "url": "https://sellercentral.amazon.com/seller-forums/discussions/t/dcf64b7f-9440-4e85-b686-f0a9fbb4e905",
+          "seen_via": "search"
+        },
+        {
+          "name": "Forkliftaction forums: Warehouse and 3PL discussion board",
+          "url": "https://www.forkliftaction.com/forum/warehouse-and-3pl.aspx?q=128464",
+          "seen_via": "search"
+        }
       ],
       "who_pays": "The brand pays: deposit and rent to a landlord, a lawyer to review the lease, fit-out contractors, warehouse software, insurance and staff. A tenant-rep broker is usually paid out of the landlord's commission.",
       "size": {
@@ -59,15 +135,57 @@
         "confidence": "low"
       },
       "ladder": [
-        {"step": 1, "problem": "Decide between a 3PL, Amazon fulfilment and own space with real numbers (no price seen this run)", "price_text": null},
-        {"step": 2, "problem": "Review and negotiate the first industrial lease: attorney review of the lease (licensed partner)", "price_text": "$600–$2,000", "url": "https://leaselens.org/commercial-lease-review-cost", "seen_via": "search"},
-        {"step": 3, "problem": "Fit it out: pallet racking, priced per pallet position", "price_text": "$50 to $500 per pallet position", "url": "https://warehousingcosts.com/guides/pallet-racking-costs", "seen_via": "search"},
-        {"step": 4, "problem": "Run it: a cloud warehouse management system for a small e-commerce operation", "price_text": "$150–$500/month", "url": "https://warego.co/blog/ecommerce-wms-cost/", "seen_via": "search"},
-        {"step": 5, "problem": "Handle the customer calls and messages that come with owning fulfilment: AI voice agents (platform base fee)", "price_text": "$0.05/min", "url": "https://www.cloudtalk.io/blog/vapi-ai-pricing/", "seen_via": "search"},
-        {"step": 6, "problem": "Two years on: expand, sublease or buy the building, which means underwriting the purchase in a proper model (A.CRE Accelerator; price not shown in results)", "price_text": null, "url": "https://www.adventuresincre.com/pricing/", "seen_via": "search"}
+        {
+          "step": 1,
+          "problem": "Decide between a 3PL, Amazon fulfilment and own space with real numbers (no price seen this run)",
+          "price_text": null
+        },
+        {
+          "step": 2,
+          "problem": "Review and negotiate the first industrial lease: attorney review of the lease (licensed partner)",
+          "price_text": "$600–$2,000",
+          "url": "https://leaselens.org/commercial-lease-review-cost",
+          "seen_via": "search"
+        },
+        {
+          "step": 3,
+          "problem": "Fit it out: pallet racking, priced per pallet position",
+          "price_text": "$50 to $500 per pallet position",
+          "url": "https://warehousingcosts.com/guides/pallet-racking-costs",
+          "seen_via": "search"
+        },
+        {
+          "step": 4,
+          "problem": "Run it: a cloud warehouse management system for a small e-commerce operation",
+          "price_text": "$150–$500/month",
+          "url": "https://warego.co/blog/ecommerce-wms-cost/",
+          "seen_via": "search"
+        },
+        {
+          "step": 5,
+          "problem": "Handle the customer calls and messages that come with owning fulfilment: AI voice agents (platform base fee)",
+          "price_text": "$0.05/min",
+          "url": "https://www.cloudtalk.io/blog/vapi-ai-pricing/",
+          "seen_via": "search"
+        },
+        {
+          "step": 6,
+          "problem": "Two years on: expand, sublease or buy the building, which means underwriting the purchase in a proper model (A.CRE Accelerator; price not shown in results)",
+          "price_text": null,
+          "url": "https://www.adventuresincre.com/pricing/",
+          "seen_via": "search"
+        }
       ],
-      "geography": ["GLOBAL", "US", "GB", "IN", "AU"],
-      "venture_overlap": ["v4"],
+      "geography": [
+        "GLOBAL",
+        "US",
+        "GB",
+        "IN",
+        "AU"
+      ],
+      "venture_overlap": [
+        "v4"
+      ],
       "duplicate_of": null,
       "reasoning": "Taking a first warehouse is a one-time move with a clear order of paid steps, and the threads sit in e-commerce operator forums (Shopify Community, Amazon Seller Forums). Every listed industrial real estate room is on the landlord, investor or broker side; the tenant's first lease is missing. The founder's industrial real estate depth applies directly to the lease and the buy decision. [thin] Reddit, where much of this talk happens, could not be searched; the forum threads seen are about fulfilment choices rather than the lease itself.",
       "confidence": "moderate"
@@ -79,13 +197,41 @@
       "origin": "gap_pass",
       "who": "Bankers, FP&A managers, controllers and Big 4 alumni with 6 to 15 years of experience who are leaving, or have just left, a full-time job to sell part-time CFO work to startups and small businesses. In the first year they must set up an entity, price a retainer, win the first two or three clients, choose tools and deliver board-ready numbers alone. Practitioner communities sell them pricing data, tech-stack tips and client referrals.",
       "where": [
-        {"name": "The Inner Circle, private Slack community and group coaching for 350+ fractional CFOs", "url": "https://www.thecfoaccelerator.com/innercircle", "seen_via": "search"},
-        {"name": "Fractional Connections Community (Accelerator level $49 per month)", "url": "https://fractionals.ai/fccommunity/", "seen_via": "search"},
-        {"name": "Tenzing Search fractional CFO community (invite-only)", "url": "https://www.tenzingsearch.com/fractional-cfo-community", "seen_via": "search"},
-        {"name": "Council of Fractional CXOs, global network for fractional leaders", "url": "https://www.cfcxo.org/", "seen_via": "search"},
-        {"name": "Finance Alliance, fractional CFO articles and Slack community", "url": "https://www.financealliance.io/tag/fractional-cfo/", "seen_via": "search"},
-        {"name": "The CFO Club: 16 best CFO communities (free and paid) to join in 2026", "url": "https://thecfoclub.com/career/best-cfo-communities/", "seen_via": "search"},
-        {"name": "Wall Street Oasis thread: Associate and VP Exit Options (where bankers weigh going independent)", "url": "https://www.wallstreetoasis.com/forum/investment-banking/associate-and-vp-exit-options", "seen_via": "search"}
+        {
+          "name": "The Inner Circle, private Slack community and group coaching for 350+ fractional CFOs",
+          "url": "https://www.thecfoaccelerator.com/innercircle",
+          "seen_via": "search"
+        },
+        {
+          "name": "Fractional Connections Community (Accelerator level $49 per month)",
+          "url": "https://fractionals.ai/fccommunity/",
+          "seen_via": "search"
+        },
+        {
+          "name": "Tenzing Search fractional CFO community (invite-only)",
+          "url": "https://www.tenzingsearch.com/fractional-cfo-community",
+          "seen_via": "search"
+        },
+        {
+          "name": "Council of Fractional CXOs, global network for fractional leaders",
+          "url": "https://www.cfcxo.org/",
+          "seen_via": "search"
+        },
+        {
+          "name": "Finance Alliance, fractional CFO articles and Slack community",
+          "url": "https://www.financealliance.io/tag/fractional-cfo/",
+          "seen_via": "search"
+        },
+        {
+          "name": "The CFO Club: 16 best CFO communities (free and paid) to join in 2026",
+          "url": "https://thecfoclub.com/career/best-cfo-communities/",
+          "seen_via": "search"
+        },
+        {
+          "name": "Wall Street Oasis thread: Associate and VP Exit Options (where bankers weigh going independent)",
+          "url": "https://www.wallstreetoasis.com/forum/investment-banking/associate-and-vp-exit-options",
+          "seen_via": "search"
+        }
       ],
       "who_pays": "The new practitioner pays: incorporation and yearly compliance, a community membership, software, a modelling refresher, a credential and marketing. Their clients pay the monthly retainer that sets the practice's ceiling.",
       "size": {
@@ -96,16 +242,68 @@
         "confidence": "low"
       },
       "ladder": [
-        {"step": 1, "problem": "Price the retainer and shape the offer (what companies pay a fractional CFO is the benchmark)", "price_text": "$3,000-$12,000/month", "url": "https://eightx.co/blog/fractional-cfo-cost-pricing-guide", "seen_via": "search"},
-        {"step": 2, "problem": "Set up the entity so clients can pay you (incorporation from anywhere)", "price_text": "$500", "url": "https://sparklaun.ch/compare/stripe-atlas", "seen_via": "search"},
-        {"step": 3, "problem": "Keep it compliant every year: registered agent after year one", "price_text": "$100 per year", "url": "https://sparklaun.ch/compare/stripe-atlas", "seen_via": "search"},
-        {"step": 4, "problem": "Join a practitioner community for pricing data, templates and referrals", "price_text": "$49 per month", "url": "https://fractionals.ai/fccommunity/", "seen_via": "search"},
-        {"step": 5, "problem": "Refresh the toolkit clients pay for: three-statement, DCF and fundraising models", "price_text": "$499", "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/", "seen_via": "search"},
-        {"step": 6, "problem": "Add a credential that opens corporate clients (FPAC exam, AFP member early deadline)", "price_text": "$1,025", "url": "https://fpacert.financialprofessionals.org/about-exam/deadlines", "seen_via": "search"},
-        {"step": 7, "problem": "Get found by founders who now ask AI assistants for a fractional CFO (AI search visibility tracking, starter plan)", "price_text": "$99.00 per month", "url": "https://thatmarketingbuddy.com/pricing/profound", "seen_via": "search"}
+        {
+          "step": 1,
+          "problem": "Price the retainer and shape the offer (what companies pay a fractional CFO is the benchmark)",
+          "price_text": "$3,000-$12,000/month",
+          "url": "https://eightx.co/blog/fractional-cfo-cost-pricing-guide",
+          "seen_via": "search"
+        },
+        {
+          "step": 2,
+          "problem": "Set up the entity so clients can pay you (incorporation from anywhere)",
+          "price_text": "$500",
+          "url": "https://sparklaun.ch/compare/stripe-atlas",
+          "seen_via": "search"
+        },
+        {
+          "step": 3,
+          "problem": "Keep it compliant every year: registered agent after year one",
+          "price_text": "$100 per year",
+          "url": "https://sparklaun.ch/compare/stripe-atlas",
+          "seen_via": "search"
+        },
+        {
+          "step": 4,
+          "problem": "Join a practitioner community for pricing data, templates and referrals",
+          "price_text": "$49 per month",
+          "url": "https://fractionals.ai/fccommunity/",
+          "seen_via": "search"
+        },
+        {
+          "step": 5,
+          "problem": "Refresh the toolkit clients pay for: three-statement, DCF and fundraising models",
+          "price_text": "$499",
+          "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+          "seen_via": "search"
+        },
+        {
+          "step": 6,
+          "problem": "Add a credential that opens corporate clients (FPAC exam, AFP member early deadline)",
+          "price_text": "$1,025",
+          "url": "https://fpacert.financialprofessionals.org/about-exam/deadlines",
+          "seen_via": "search"
+        },
+        {
+          "step": 7,
+          "problem": "Get found by founders who now ask AI assistants for a fractional CFO (AI search visibility tracking, starter plan)",
+          "price_text": "$99.00 per month",
+          "url": "https://thatmarketingbuddy.com/pricing/profound",
+          "seen_via": "search"
+        }
       ],
-      "geography": ["GLOBAL", "US", "GB", "IN", "AE", "SG"],
-      "venture_overlap": ["v4", "v5"],
+      "geography": [
+        "GLOBAL",
+        "US",
+        "GB",
+        "IN",
+        "AE",
+        "SG"
+      ],
+      "venture_overlap": [
+        "v4",
+        "v5"
+      ],
       "duplicate_of": null,
       "reasoning": "Going independent is a one-off transition with a clear paid order, the founder can reach it through finance colleagues, and corporate finance depth lets him judge the work. The listed rooms cover bankers planning exits, first finance hires and the startups that buy fractional CFOs, but not the people setting up the practice. Fractional-CFO-specific communities were seen this run, so the earlier [thin] tag is lifted.",
       "confidence": "moderate"
@@ -117,14 +315,46 @@
       "origin": "gap_pass",
       "who": "Engineers and project staff from India, Pakistan, the Philippines, Egypt and elsewhere who hold an offer, or are chasing one, from an oil and gas, power, petrochemical or construction employer in Saudi Arabia, the UAE or Qatar. In the 6 to 12 months around the move they must pass employer screening, get degree certificates attested, register with the local engineering council, get the visa and residence permit, open bank accounts, and sort out tax and family status back home. Forum posters say Abu Dhabi's oil and gas hiring runs through ADNOC group companies and that recruiters want prior sector experience.",
       "where": [
-        {"name": "Expat.com Dubai forum thread: Oil and gas expat jobs", "url": "https://www.expat.com/forum/viewtopic.php?id=837797", "seen_via": "search"},
-        {"name": "Expat.com UAE forum thread: Any engineers here?", "url": "https://www.expat.com/en/forum/middle-east/united-arab-emirates/452424-any-engineers-here.html", "seen_via": "search"},
-        {"name": "ExpatForum.com thread: Engineer/Manager oil and gas UAE", "url": "https://www.expatforum.com/threads/engineer-manager-oil-and-gas-uae.289425/", "seen_via": "search"},
-        {"name": "ExpatForum.com thread: Thinking of accepting job in Dubai, questions to ask", "url": "https://www.expatforum.com/threads/thinking-of-accepting-job-in-dubai-questions-to-ask.161174/", "seen_via": "search"},
-        {"name": "ExpatForum.com sticky: Salary and offer/package questions, post yours here", "url": "https://www.expatforum.com/threads/salary-and-offer-package-questions-post-yours-here-part-1.74339/", "seen_via": "search"},
-        {"name": "ExpatWoman Dubai forum thread: Interview and salary questions", "url": "https://www.expatwoman.com/dubai/forum/dubai-northern-emirates/interview-and-salary-questions", "seen_via": "search"},
-        {"name": "SPE Community (SPE Connect technical discussion communities for petroleum engineers)", "url": "https://www.spe.org/en/community/", "seen_via": "search"},
-        {"name": "Rigzone oil and gas jobs in Saudi Arabia (where the hiring is followed)", "url": "https://www.rigzone.com/b-saudi-arabia-jobs/", "seen_via": "search"}
+        {
+          "name": "Expat.com Dubai forum thread: Oil and gas expat jobs",
+          "url": "https://www.expat.com/forum/viewtopic.php?id=837797",
+          "seen_via": "search"
+        },
+        {
+          "name": "Expat.com UAE forum thread: Any engineers here?",
+          "url": "https://www.expat.com/en/forum/middle-east/united-arab-emirates/452424-any-engineers-here.html",
+          "seen_via": "search"
+        },
+        {
+          "name": "ExpatForum.com thread: Engineer/Manager oil and gas UAE",
+          "url": "https://www.expatforum.com/threads/engineer-manager-oil-and-gas-uae.289425/",
+          "seen_via": "search"
+        },
+        {
+          "name": "ExpatForum.com thread: Thinking of accepting job in Dubai, questions to ask",
+          "url": "https://www.expatforum.com/threads/thinking-of-accepting-job-in-dubai-questions-to-ask.161174/",
+          "seen_via": "search"
+        },
+        {
+          "name": "ExpatForum.com sticky: Salary and offer/package questions, post yours here",
+          "url": "https://www.expatforum.com/threads/salary-and-offer-package-questions-post-yours-here-part-1.74339/",
+          "seen_via": "search"
+        },
+        {
+          "name": "ExpatWoman Dubai forum thread: Interview and salary questions",
+          "url": "https://www.expatwoman.com/dubai/forum/dubai-northern-emirates/interview-and-salary-questions",
+          "seen_via": "search"
+        },
+        {
+          "name": "SPE Community (SPE Connect technical discussion communities for petroleum engineers)",
+          "url": "https://www.spe.org/en/community/",
+          "seen_via": "search"
+        },
+        {
+          "name": "Rigzone oil and gas jobs in Saudi Arabia (where the hiring is followed)",
+          "url": "https://www.rigzone.com/b-saudi-arabia-jobs/",
+          "seen_via": "search"
+        }
       ],
       "who_pays": "The engineer pays, before the first Gulf salary arrives: attestation and council registration fees, safety and project credentials, relocation costs, and later fees to accountants and banks for non-resident status and money transfers. Employers pay the visa.",
       "size": {
@@ -135,15 +365,61 @@
         "confidence": "low"
       },
       "ladder": [
-        {"step": 1, "problem": "Get shortlisted: a Gulf-format CV, job boards and recruiter screening (no price seen this run)", "price_text": null},
-        {"step": 2, "problem": "Hold the safety credential Gulf employers and contractors ask for (NEBOSH in India, by format)", "price_text": "₹25,000 to ₹85,000", "url": "https://m2yacademy.com/nebosh-fees/", "seen_via": "search"},
-        {"step": 3, "problem": "Add a project management credential for site and project roles (PMP exam, from 6 August 2026)", "price_text": "$445 for PMI members and $675 for non-members", "url": "https://www.simpliaxis.com/resources/pmp-exam-fee-increase", "seen_via": "search"},
-        {"step": 4, "problem": "Attest the degree for the UAE (Indian certificates: HRD, MEA, UAE embassy and MOFA chain)", "price_text": "between AED 900 and AED 2,200+", "url": "https://quickattest.com/blog/degree-attestation-uae-cost/", "seen_via": "search"},
-        {"step": 5, "problem": "Register with the engineering council before the work visa (Saudi Council of Engineers, by experience level)", "price_text": "500–1,250 SAR", "url": "https://allksago.com/sce-membership-saudi-arabia/", "seen_via": "search"},
-        {"step": 6, "problem": "Land: residence permit, bank account, housing, family visas and schooling (no price seen this run)", "price_text": null},
-        {"step": 7, "problem": "Money back home: the Indian return as a non-resident, filed by a chartered accountant (NRI package)", "price_text": "₹4,999", "url": "https://virtualauditor.in/learn/income-tax-filing-cost-india/", "seen_via": "search"}
+        {
+          "step": 1,
+          "problem": "Get shortlisted: a Gulf-format CV, job boards and recruiter screening (no price seen this run)",
+          "price_text": null
+        },
+        {
+          "step": 2,
+          "problem": "Hold the safety credential Gulf employers and contractors ask for (NEBOSH in India, by format)",
+          "price_text": "₹25,000 to ₹85,000",
+          "url": "https://m2yacademy.com/nebosh-fees/",
+          "seen_via": "search"
+        },
+        {
+          "step": 3,
+          "problem": "Add a project management credential for site and project roles (PMP exam, from 6 August 2026)",
+          "price_text": "$445 for PMI members and $675 for non-members",
+          "url": "https://www.simpliaxis.com/resources/pmp-exam-fee-increase",
+          "seen_via": "search"
+        },
+        {
+          "step": 4,
+          "problem": "Attest the degree for the UAE (Indian certificates: HRD, MEA, UAE embassy and MOFA chain)",
+          "price_text": "between AED 900 and AED 2,200+",
+          "url": "https://quickattest.com/blog/degree-attestation-uae-cost/",
+          "seen_via": "search"
+        },
+        {
+          "step": 5,
+          "problem": "Register with the engineering council before the work visa (Saudi Council of Engineers, by experience level)",
+          "price_text": "500–1,250 SAR",
+          "url": "https://allksago.com/sce-membership-saudi-arabia/",
+          "seen_via": "search"
+        },
+        {
+          "step": 6,
+          "problem": "Land: residence permit, bank account, housing, family visas and schooling (no price seen this run)",
+          "price_text": null
+        },
+        {
+          "step": 7,
+          "problem": "Money back home: the Indian return as a non-resident, filed by a chartered accountant (NRI package)",
+          "price_text": "₹4,999",
+          "url": "https://virtualauditor.in/learn/income-tax-filing-cost-india/",
+          "seen_via": "search"
+        }
       ],
-      "geography": ["AE", "SA", "QA", "IN", "PK", "PH", "EG"],
+      "geography": [
+        "AE",
+        "SA",
+        "QA",
+        "IN",
+        "PK",
+        "PH",
+        "EG"
+      ],
       "venture_overlap": [],
       "duplicate_of": null,
       "reasoning": "Moving countries for a job is a one-off transition with a fixed order of paid steps, and expatriate engineers gather in the Dubai and UAE expat forums and in the petroleum engineers' society. The listed rooms cover the US visa moves and oil and gas engineers facing layoffs, not the move to the Gulf, which is the largest engineer migration in the energy sector. The founder's energy depth fits the job side; the paperwork side is admin, not energy judgment. Attestation and council fees were seen this run, so the earlier [thin] tag is lifted.",
@@ -156,11 +432,31 @@
       "origin": "gap_pass",
       "who": "People who just moved from investment banking or consulting into a private equity associate seat, in their first 12 months on the buy side. They must run a live deal model without a VP checking every cell, read and mark up deal documents, build portfolio-company reporting, and start choosing between the MBA route and the VP track. The threads below say the shock is that 'your work is not checked before going external' and the model is 'very loosely checked before going to IC'.",
       "where": [
-        {"name": "Wall Street Oasis thread: Advice for first year in PE", "url": "https://www.wallstreetoasis.com/forum/private-equity/advice-for-first-year-in-pe", "seen_via": "search"},
-        {"name": "Wall Street Oasis thread: Day 1 PE associate advice", "url": "https://www.wallstreetoasis.com/forum/private-equity/day-1-pe-associate-advice", "seen_via": "search"},
-        {"name": "Wall Street Oasis thread: Do's and don'ts, 1st year private equity associate", "url": "https://www.wallstreetoasis.com/forum/private-equity/dos-donts-1st-year-private-equity-associate", "seen_via": "search"},
-        {"name": "Wall Street Oasis thread: My first year as a private equity associate in large-cap PE (long post)", "url": "https://www.wallstreetoasis.com/forum/private-equity/my-first-year-as-a-private-equity-associate-in-large-cap-private-equity-long", "seen_via": "search"},
-        {"name": "Wall Street Oasis thread: First year PE associates, how have you been?", "url": "https://www.wallstreetoasis.com/forum/private-equity/first-year-pe-associates-how-have-you-been", "seen_via": "search"}
+        {
+          "name": "Wall Street Oasis thread: Advice for first year in PE",
+          "url": "https://www.wallstreetoasis.com/forum/private-equity/advice-for-first-year-in-pe",
+          "seen_via": "search"
+        },
+        {
+          "name": "Wall Street Oasis thread: Day 1 PE associate advice",
+          "url": "https://www.wallstreetoasis.com/forum/private-equity/day-1-pe-associate-advice",
+          "seen_via": "search"
+        },
+        {
+          "name": "Wall Street Oasis thread: Do's and don'ts, 1st year private equity associate",
+          "url": "https://www.wallstreetoasis.com/forum/private-equity/dos-donts-1st-year-private-equity-associate",
+          "seen_via": "search"
+        },
+        {
+          "name": "Wall Street Oasis thread: My first year as a private equity associate in large-cap PE (long post)",
+          "url": "https://www.wallstreetoasis.com/forum/private-equity/my-first-year-as-a-private-equity-associate-in-large-cap-private-equity-long",
+          "seen_via": "search"
+        },
+        {
+          "name": "Wall Street Oasis thread: First year PE associates, how have you been?",
+          "url": "https://www.wallstreetoasis.com/forum/private-equity/first-year-pe-associates-how-have-you-been",
+          "seen_via": "search"
+        }
       ],
       "who_pays": "The associate pays for what the fund does not: a modelling course before day one, later the GMAT and admissions consulting for the MBA route, and training when they take on their first analyst. Funds pay for formal training.",
       "size": {
@@ -171,15 +467,60 @@
         "confidence": "low"
       },
       "ladder": [
-        {"step": 1, "problem": "Before day one: a private equity and LBO modelling course (BIWS bundle with Excel and core modelling)", "price_text": "$497", "url": "https://breakingintowallstreet.com/private-equity-signup-options/", "seen_via": "search"},
-        {"step": 2, "problem": "Full three-statement, DCF and LBO refresher after months of pitch work", "price_text": "$499", "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/", "seen_via": "search"},
-        {"step": 3, "problem": "First live deal: read and mark up the purchase agreement, financing terms and diligence reports (learned on the job; no price seen this run)", "price_text": null},
-        {"step": 4, "problem": "Portfolio work: monthly reporting packs and board decks for portfolio companies (no price seen this run)", "price_text": null},
-        {"step": 5, "problem": "Year 2: decide on the MBA route (GMAT registration, test centre)", "price_text": "US $275", "url": "https://test-ninjas.com/gmat-registration-fees-and-cost", "seen_via": "search"},
-        {"step": 6, "problem": "Admissions consulting for a multi-school MBA application (comprehensive package)", "price_text": "$6,950 for 1 school, $8,950 for 2 schools, and $10,950 for 3 schools", "url": "https://www.personalmbacoach.com/product/comprehensive-packages/", "seen_via": "search"},
-        {"step": 7, "problem": "Year 2 to 3: manage the first analyst (new-manager training)", "price_text": "$500 per person", "url": "https://www.evolution2revolution.com/new-manager-bootcamp", "seen_via": "search"}
+        {
+          "step": 1,
+          "problem": "Before day one: a private equity and LBO modelling course (BIWS bundle with Excel and core modelling)",
+          "price_text": "$497",
+          "url": "https://breakingintowallstreet.com/private-equity-signup-options/",
+          "seen_via": "search"
+        },
+        {
+          "step": 2,
+          "problem": "Full three-statement, DCF and LBO refresher after months of pitch work",
+          "price_text": "$499",
+          "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+          "seen_via": "search"
+        },
+        {
+          "step": 3,
+          "problem": "First live deal: read and mark up the purchase agreement, financing terms and diligence reports (learned on the job; no price seen this run)",
+          "price_text": null
+        },
+        {
+          "step": 4,
+          "problem": "Portfolio work: monthly reporting packs and board decks for portfolio companies (no price seen this run)",
+          "price_text": null
+        },
+        {
+          "step": 5,
+          "problem": "Year 2: decide on the MBA route (GMAT registration, test centre)",
+          "price_text": "US $275",
+          "url": "https://test-ninjas.com/gmat-registration-fees-and-cost",
+          "seen_via": "search"
+        },
+        {
+          "step": 6,
+          "problem": "Admissions consulting for a multi-school MBA application (comprehensive package)",
+          "price_text": "$6,950 for 1 school, $8,950 for 2 schools, and $10,950 for 3 schools",
+          "url": "https://www.personalmbacoach.com/product/comprehensive-packages/",
+          "seen_via": "search"
+        },
+        {
+          "step": 7,
+          "problem": "Year 2 to 3: manage the first analyst (new-manager training)",
+          "price_text": "$500 per person",
+          "url": "https://www.evolution2revolution.com/new-manager-bootcamp",
+          "seen_via": "search"
+        }
       ],
-      "geography": ["GLOBAL", "US", "GB", "IN", "SG", "AE"],
+      "geography": [
+        "GLOBAL",
+        "US",
+        "GB",
+        "IN",
+        "SG",
+        "AE"
+      ],
       "venture_overlap": [],
       "duplicate_of": null,
       "reasoning": "The first year on the buy side is a distinct transition: the recruiting rooms end at the offer, and the profession rooms cover analysts still in banking. Five separate 'first year in PE' threads were seen on the WSO private equity forum, so the gathering is no longer thin. The founder can reach these people through private equity colleagues and judge deal work with strong depth. The paid steps are still mostly reused from the exit ladders.",
@@ -192,13 +533,41 @@
       "origin": "gap_pass",
       "who": "Analysts, associates and VPs at banks, funds and corporate finance teams who lost their job in a round of cuts in the last three months, anywhere in the world. They must negotiate severance and garden leave, rebuild the resume and the story, work headhunters, prepare for technical and modelling tests again, and decide whether to change lanes to corporate development, a startup or an MBA. A slice are on work visas with a short clock. In 2026 the forums carry live threads on Goldman Sachs, Bank of America, Morgan Stanley and UBS cuts.",
       "where": [
-        {"name": "Wall Street Oasis thread: GS layoffs", "url": "https://www.wallstreetoasis.com/forum/investment-banking/gs-layoffs-1", "seen_via": "search"},
-        {"name": "Wall Street Oasis thread: BofA layoffs 2026", "url": "https://www.wallstreetoasis.com/forum/investment-banking/bofa-layoffs-2026", "seen_via": "search"},
-        {"name": "Wall Street Oasis thread: Recent layoff strategy", "url": "https://www.wallstreetoasis.com/forum/investment-banking/recent-layoff-strategy", "seen_via": "search"},
-        {"name": "Wall Street Oasis thread: More layoffs / struggles coming for IB?", "url": "https://www.wallstreetoasis.com/forum/investment-banking/more-layoffs-struggles-coming-for-ib", "seen_via": "search"},
-        {"name": "eFinancialCareers: I was just laid off from my banking job, it was a complete surprise", "url": "https://www.efinancialcareers.com/news/2023/10/laid-off-by-a-bank", "seen_via": "search"},
-        {"name": "eFinancialCareers: I lost my banking job and recruiters think I was a poor performer", "url": "https://www.efinancialcareers.com/news/2023/07/laid-off-banking-cant-get-a-new-job", "seen_via": "search"},
-        {"name": "Blind post: need to leave IB but don't know what to do (Blind's investment banking board)", "url": "https://www.teamblind.com/post/need-to-leave-ib-but-dont-know-what-to-do-5ubmzq1n", "seen_via": "search"}
+        {
+          "name": "Wall Street Oasis thread: GS layoffs",
+          "url": "https://www.wallstreetoasis.com/forum/investment-banking/gs-layoffs-1",
+          "seen_via": "search"
+        },
+        {
+          "name": "Wall Street Oasis thread: BofA layoffs 2026",
+          "url": "https://www.wallstreetoasis.com/forum/investment-banking/bofa-layoffs-2026",
+          "seen_via": "search"
+        },
+        {
+          "name": "Wall Street Oasis thread: Recent layoff strategy",
+          "url": "https://www.wallstreetoasis.com/forum/investment-banking/recent-layoff-strategy",
+          "seen_via": "search"
+        },
+        {
+          "name": "Wall Street Oasis thread: More layoffs / struggles coming for IB?",
+          "url": "https://www.wallstreetoasis.com/forum/investment-banking/more-layoffs-struggles-coming-for-ib",
+          "seen_via": "search"
+        },
+        {
+          "name": "eFinancialCareers: I was just laid off from my banking job, it was a complete surprise",
+          "url": "https://www.efinancialcareers.com/news/2023/10/laid-off-by-a-bank",
+          "seen_via": "search"
+        },
+        {
+          "name": "eFinancialCareers: I lost my banking job and recruiters think I was a poor performer",
+          "url": "https://www.efinancialcareers.com/news/2023/07/laid-off-banking-cant-get-a-new-job",
+          "seen_via": "search"
+        },
+        {
+          "name": "Blind post: need to leave IB but don't know what to do (Blind's investment banking board)",
+          "url": "https://www.teamblind.com/post/need-to-leave-ib-but-dont-know-what-to-do-5ubmzq1n",
+          "seen_via": "search"
+        }
       ],
       "who_pays": "The person pays, out of severance: a resume rewrite, coaching by the hour, interview and modelling prep, and for visa holders the transfer filing. Employers sometimes pay for outplacement.",
       "size": {
@@ -209,15 +578,62 @@
         "confidence": "low"
       },
       "ladder": [
-        {"step": 1, "problem": "Severance, garden leave and non-compete terms (needs a licensed lawyer in many countries; no price seen this run)", "price_text": null},
-        {"step": 2, "problem": "Resume rewrite for the new search (executive level)", "price_text": "$350 - $700", "url": "https://topresume.com/career-advice/how-much-does-a-professional-resume-writing-service-cost", "seen_via": "search"},
-        {"step": 3, "problem": "Career coaching and interview prep by the hour", "price_text": "$75 to $200 per hour", "url": "https://www.noomii.com/article/cost-hire-career-coach", "seen_via": "search"},
-        {"step": 4, "problem": "Interview guide and technicals before the next process", "price_text": "$199.99", "url": "https://www.wallstreetoasis.com/courses/interview-prep/investment-banking", "seen_via": "search"},
-        {"step": 5, "problem": "Modelling test refresher for buy-side and corporate development processes", "price_text": "$499", "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/", "seen_via": "search"},
-        {"step": 6, "problem": "For visa holders: move the work visa to a new employer inside the grace period (US example, premium processing from 1 March 2026)", "price_text": "$2,965", "url": "https://ogletree.com/insights-resources/blog-posts/uscis-premium-processing-fees-will-increase-on-march-1-2026/", "seen_via": "search"},
-        {"step": 7, "problem": "The reset route: GMAT for an MBA (test centre)", "price_text": "US $275", "url": "https://test-ninjas.com/gmat-registration-fees-and-cost", "seen_via": "search"}
+        {
+          "step": 1,
+          "problem": "Severance, garden leave and non-compete terms (needs a licensed lawyer in many countries; no price seen this run)",
+          "price_text": null
+        },
+        {
+          "step": 2,
+          "problem": "Resume rewrite for the new search (executive level)",
+          "price_text": "$350 - $700",
+          "url": "https://topresume.com/career-advice/how-much-does-a-professional-resume-writing-service-cost",
+          "seen_via": "search"
+        },
+        {
+          "step": 3,
+          "problem": "Career coaching and interview prep by the hour",
+          "price_text": "$75 to $200 per hour",
+          "url": "https://www.noomii.com/article/cost-hire-career-coach",
+          "seen_via": "search"
+        },
+        {
+          "step": 4,
+          "problem": "Interview guide and technicals before the next process",
+          "price_text": "$199.99",
+          "url": "https://www.wallstreetoasis.com/courses/interview-prep/investment-banking",
+          "seen_via": "search"
+        },
+        {
+          "step": 5,
+          "problem": "Modelling test refresher for buy-side and corporate development processes",
+          "price_text": "$499",
+          "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+          "seen_via": "search"
+        },
+        {
+          "step": 6,
+          "problem": "For visa holders: move the work visa to a new employer inside the grace period (US example, premium processing from 1 March 2026)",
+          "price_text": "$2,965",
+          "url": "https://ogletree.com/insights-resources/blog-posts/uscis-premium-processing-fees-will-increase-on-march-1-2026/",
+          "seen_via": "search"
+        },
+        {
+          "step": 7,
+          "problem": "The reset route: GMAT for an MBA (test centre)",
+          "price_text": "US $275",
+          "url": "https://test-ninjas.com/gmat-registration-fees-and-cost",
+          "seen_via": "search"
+        }
       ],
-      "geography": ["GLOBAL", "US", "GB", "IN", "SG", "AE"],
+      "geography": [
+        "GLOBAL",
+        "US",
+        "GB",
+        "IN",
+        "SG",
+        "AE"
+      ],
       "venture_overlap": [],
       "duplicate_of": null,
       "reasoning": "Job loss is a listed transition and the only job-loss room is tech workers. Bankers and finance staff face cuts in every downturn, gather in the bank-specific layoff threads on the finance forums the founder's colleagues read, and buy resume, coaching and interview products. Layoff-specific threads and first-person laid-off accounts were seen this run, so confidence rises from low to moderate.",

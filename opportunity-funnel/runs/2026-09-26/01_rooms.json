@@ -344,7 +344,7 @@
   "rooms": [
     {
       "confidence": "high",
-      "duplicate_of": null,
+      "duplicate_of": "gre-engineers-india",
       "geography": [
         "IN"
       ],
@@ -382,7 +382,7 @@
       "lens": "life_stage",
       "name": "Final-year engineering students in India preparing for the GRE and US master's applications",
       "origin": "generated",
-      "reasoning": "Same stage (final year), same fixed deadlines (exam dates, application rounds), and they gather in named forums. The founder's GRE product gives a direct warm path.",
+      "reasoning": "Same stage (final year), same fixed deadlines (exam dates, application rounds), and they gather in named forums. The founder's GRE product gives a direct warm path. Duplicate of gre-engineers-india: the same Indian engineering students preparing for the GRE to study abroad, seen through the life-stage lens; the transition room has more seen places and a longer priced ladder, and this room's two extra places and its $350 SEVIS fee were copied into it.",
       "size": {
         "tag": "measured",
         "unit": "GRE test takers from India, July 2020 to June 2021",
@@ -483,36 +483,54 @@
       ],
       "ladder": [
         {
+          "price_text": "$470",
+          "problem": "OPT work permit application (Form I-765)",
+          "step": 1,
+          "url": "https://immiva.com/blog/i-765-opt-filing-fee-2026-complete-cost-breakdown"
+        },
+        {
+          "price_text": "$1,780",
+          "problem": "Premium processing so the permit arrives before the job start date",
+          "step": 2,
+          "url": "https://immiva.com/blog/i-765-premium-processing-opt-worth-it-2026"
+        },
+        {
           "price_text": "from $99",
           "problem": "US resume, LinkedIn and sponsor target list",
-          "step": 1,
+          "step": 3,
           "url": "https://profileelevate.com/for/international-students/"
         },
         {
           "problem": "Interview prep and job-search coaching aimed at sponsoring employers",
-          "step": 2
+          "step": 4
         },
         {
           "price_text": "$215",
           "problem": "H-1B registration through the employer",
-          "step": 3,
+          "step": 5,
           "url": "https://www.immi-usa.com/h1b-lottery-timeline-application-registration-fees/"
+        },
+        {
+          "price_text": "$2,965",
+          "problem": "H-1B petition with premium processing",
+          "step": 6,
+          "url": "https://www.vorys.com/publication-uscis-announces-increases-to-premium-processing-fees"
         },
         {
           "price_text": "$18,000 to over $50,000 per program",
           "problem": "Fallback if not selected: Day 1 CPT program",
-          "step": 4,
+          "step": 7,
           "url": "https://cptdog.com/day-1-cpt-cost"
         },
         {
           "problem": "Green card or other status filings (needs a licensed lawyer)",
-          "step": 5
+          "step": 8
         }
       ],
       "lens": "life_stage",
       "name": "International new graduates in the US on OPT looking for a sponsoring job",
       "origin": "generated",
-      "reasoning": "Same stage, hard rules (OPT clock, lottery dates), heavy forum traffic. Job-search pains need no licence; immigration filings do. Downstream of the founder's GRE users.",
+      "reasoning": "Same stage, hard rules (OPT clock, lottery dates), heavy forum traffic. Job-search pains need no licence; immigration filings do. Downstream of the founder's GRE users. Merged from opt-grads-h1b-job-hunt-us (Stage 1 dedupe): copied a Blind thread and two university sponsor-database pages, and the priced OPT application, premium processing and H-1B petition steps.",
       "size": {
         "tag": "measured",
         "unit": "international students on OPT in the US, 2024/25",
@@ -540,6 +558,18 @@
         {
           "name": "OPTnation job board",
           "url": "https://www.optnation.com/"
+        },
+        {
+          "name": "Blind thread: job searching on H-1B",
+          "url": "https://www.teamblind.com/post/job-searching-on-h1b-qyhkxn3v"
+        },
+        {
+          "name": "University of Washington career page listing H-1B sponsor databases",
+          "url": "https://careers.uw.edu/resources/h1-b-sponsor-databases-target-employers-for-international-students/"
+        },
+        {
+          "name": "Syracuse University resources page for international students",
+          "url": "https://answers.atlassian.syr.edu/wiki/x/MgjzC"
         }
       ],
       "who": "Recent US master's graduates on F-1 OPT or STEM OPT, many from India. They have a 90-day unemployment clock, must find an employer that sponsors H-1B, then face the lottery.",
@@ -608,7 +638,7 @@
     },
     {
       "confidence": "moderate",
-      "duplicate_of": null,
+      "duplicate_of": "cat-aspirants-india",
       "geography": [
         "IN"
       ],
@@ -643,7 +673,7 @@
       "lens": "life_stage",
       "name": "Working professionals in India (1 to 3 years in) preparing for CAT and IIM admission",
       "origin": "generated",
-      "reasoning": "Same stage and one exam date. A large paid-prep market. The founder's GRE quant and verbal depth transfers in part; case-interview depth covers a later step.",
+      "reasoning": "Same stage and one exam date. A large paid-prep market. The founder's GRE quant and verbal depth transfers in part; case-interview depth covers a later step. Duplicate of cat-aspirants-india: the same CAT aspirants on the same November exam date and the same coaching, mocks, interviews and fees ladder; the working-professional slice adds nothing distinct for reach, ladder or who pays, so its two places and its GD-PI-WAT and IIM fee prices were copied into the broader transition room.",
       "size": {
         "tag": "measured",
         "unit": "CAT 2025 registrations (2.95 lakh)",
@@ -705,7 +735,7 @@
       "lens": "life_stage",
       "name": "University students recruiting for investment banking summer analyst roles",
       "origin": "generated",
-      "reasoning": "A sharp stage with a hiring-season deadline and a proven paid market. The founder is a banker with strong corporate-finance depth and warm reach through colleagues.",
+      "reasoning": "A sharp stage with a hiring-season deadline and a proven paid market. The founder is a banker with strong corporate-finance depth and warm reach through colleagues. Merged from ib-analyst-recruiting-students (Stage 1 dedupe): copied the WSO prep-course thread, Mergers & Inquisitions and IGotAnOffer places.",
       "size": {
         "reasoning": "Each large bank gets tens of thousands of applications; the group doing serious prep across US, UK and Asia is likely in the tens of thousands per cycle. No single measured figure was found.",
         "tag": "estimate",
@@ -727,6 +757,18 @@
         {
           "name": "r/FinancialCareers (over 741,000 members; described here, reddit.com not reachable)",
           "url": "https://emeritus.org/blog/best-finance-jobs-reddit/"
+        },
+        {
+          "name": "Wall Street Oasis forum (thread on IB prep courses)",
+          "url": "https://www.wallstreetoasis.com/forum/investment-banking/best-online-ib-prep-course"
+        },
+        {
+          "name": "Mergers & Inquisitions (blog hub with reader comments)",
+          "url": "https://mergersandinquisitions.com/breaking-into-wall-street-biws/"
+        },
+        {
+          "name": "IGotAnOffer (prep site with comparison pages)",
+          "url": "https://igotanoffer.com/en/advice/wall-street-prep-alternatives"
         }
       ],
       "who": "Second- and third-year university students (US, UK, India, Asia) networking, learning technicals and sitting superdays for IB summer analyst seats. Processes now start 18 months before the internship.",
@@ -734,7 +776,7 @@
     },
     {
       "confidence": "high",
-      "duplicate_of": null,
+      "duplicate_of": "pe-associate-candidates-on-cycle",
       "geography": [
         "GLOBAL"
       ],
@@ -770,7 +812,7 @@
       "lens": "life_stage",
       "name": "First- and second-year investment banking analysts recruiting for private equity",
       "origin": "generated",
-      "reasoning": "Same stage, a compressed deadline set by headhunters, and proven paid prep. This is the founder's own path and network. The employer's outside-business rules must be checked.",
+      "reasoning": "Same stage, a compressed deadline set by headhunters, and proven paid prep. This is the founder's own path and network. The employer's outside-business rules must be checked. Duplicate of pe-associate-candidates-on-cycle: the same first- and second-year analysts going through the same headhunter-driven PE recruiting; the profession room also covers the consultants in the same process and states who pays more clearly, and this room's three places and its $800-an-hour tutoring price were copied into it.",
       "size": {
         "reasoning": "Roughly 40 bulge-bracket and elite-boutique banks each hire about 100 to 400 analysts a year; most first-years consider PE recruiting.",
         "tag": "estimate",
@@ -857,7 +899,7 @@
     },
     {
       "confidence": "high",
-      "duplicate_of": null,
+      "duplicate_of": "mbb-case-interview-candidates",
       "geography": [
         "GLOBAL"
       ],
@@ -891,7 +933,7 @@
       "lens": "life_stage",
       "name": "Students and MBAs preparing for consulting case interviews",
       "origin": "generated",
-      "reasoning": "Same stage, a dated interview, high paid prices and huge communities. The founder's case-interview depth is moderate; search reach is clear.",
+      "reasoning": "Same stage, a dated interview, high paid prices and huge communities. The founder's case-interview depth is moderate; search reach is clear. Duplicate of mbb-case-interview-candidates: the same students, MBAs and experienced hires preparing for the same case interviews; the profession room has more seen places, four priced steps and a clearer who-pays, and this room's two places were copied into it (its measured PrepLounge size of 578,000 members stays recorded here).",
       "size": {
         "tag": "measured",
         "unit": "PrepLounge members",
@@ -916,7 +958,7 @@
     },
     {
       "confidence": "high",
-      "duplicate_of": null,
+      "duplicate_of": "cfa-candidates-community",
       "geography": [
         "GLOBAL"
       ],
@@ -945,7 +987,7 @@
       "lens": "life_stage",
       "name": "Early-career finance staff sitting CFA Level I",
       "origin": "generated",
-      "reasoning": "Exam-dated, paid at four figures, and gathered in large forums. The founder's corporate-finance and valuation depth covers much of Levels I and II.",
+      "reasoning": "Exam-dated, paid at four figures, and gathered in large forums. The founder's corporate-finance and valuation depth covers much of Levels I and II. Duplicate of cfa-candidates-community: Level I candidates are the first stage of the same candidate community, gathering in the same forums with the same registration and prep prices; the identity room already holds every place and price seen here and adds Levels II and III.",
       "size": {
         "tag": "measured",
         "unit": "Level I candidates in the November 2025 window (one of four windows a year)",
@@ -970,7 +1012,7 @@
     },
     {
       "confidence": "low",
-      "duplicate_of": null,
+      "duplicate_of": "project-finance-analysts-energy-infra",
       "geography": [
         "GLOBAL"
       ],
@@ -998,7 +1040,7 @@
       "lens": "life_stage",
       "name": "Early-career analysts entering renewable energy project finance",
       "origin": "generated",
-      "reasoning": "The founder has strong energy-sector depth and warm reach into Southeast Asian energy companies. The room is real but scattered: the only open gathering places found are WSO threads and an event community. [thin]",
+      "reasoning": "The founder has strong energy-sector depth and warm reach into Southeast Asian energy companies. The room is real but scattered: the only open gathering places found are WSO threads and an event community. [thin] Duplicate of project-finance-analysts-energy-infra: the same 0-to-3-year analysts at developers, banks and funds learning the same project finance modelling; the profession room has high confidence and two priced steps against this room's one, and this room's three places were copied into it.",
       "size": {
         "reasoning": "Thousands of developers, IPPs, banks and funds in the US, EU, India and Southeast Asia each run small analyst teams. No measured figure was found. [thin]",
         "tag": "estimate",
@@ -1027,7 +1069,7 @@
     },
     {
       "confidence": "high",
-      "duplicate_of": null,
+      "duplicate_of": "ai-agent-builders-freelance",
       "geography": [
         "GLOBAL"
       ],
@@ -1061,7 +1103,7 @@
       "lens": "life_stage",
       "name": "Mid-career professionals starting an AI automation or voice-agent agency",
       "origin": "generated",
-      "reasoning": "Career switchers at one stage, gathered in huge communities and already buying. The founder's TinyAI depth (voice and WhatsApp agents, call auditing) fits the delivery steps directly.",
+      "reasoning": "Career switchers at one stage, gathered in huge communities and already buying. The founder's TinyAI depth (voice and WhatsApp agents, call auditing) fits the delivery steps directly. Duplicate of ai-agent-builders-freelance: the same people selling AI voice agents and automations to small businesses, from first client to delivery; the profession room is more specific to the founder's voice and WhatsApp depth and has three priced steps, and this room's three places (including the 425,179-member r/AI_Agents stats page) and its starter-kit price were copied into it.",
       "size": {
         "tag": "measured",
         "unit": "r/AI_Agents members, August 2026",
@@ -1092,7 +1134,7 @@
     },
     {
       "confidence": "moderate",
-      "duplicate_of": null,
+      "duplicate_of": "first-time-founders-pre-seed",
       "geography": [
         "GLOBAL"
       ],
@@ -1121,7 +1163,7 @@
       "lens": "life_stage",
       "name": "First-time founders raising their first pre-seed or seed round",
       "origin": "generated",
-      "reasoning": "A real stage with money already spent on decks and models. The founder's valuation and deal-document depth fits steps 1 and 2; the legal step needs a partner.",
+      "reasoning": "A real stage with money already spent on decks and models. The founder's valuation and deal-document depth fits steps 1 and 2; the legal step needs a partner. Duplicate of first-time-founders-pre-seed: the same first-time founders who left a job to start a company, at the raise step of the same ladder; the transition room has more seen places, and this room's two places and its pitch-deck and financial-model prices were copied into it.",
       "size": {
         "reasoning": "Carta reported about 3,400 sub-$1M rounds in Q1 2025 on its US platform (https://developmentcorporate.com/saas/seed-funding-trends-2025-carta-report/). Annualised and adjusted for non-Carta and non-US founders, the order of magnitude is 10,000 to 15,000.",
         "tag": "estimate",
@@ -1205,7 +1247,7 @@
     },
     {
       "confidence": "high",
-      "duplicate_of": null,
+      "duplicate_of": "mba-applicants-gmat-global",
       "geography": [
         "GLOBAL"
       ],
@@ -1234,7 +1276,7 @@
       "lens": "life_stage",
       "name": "Young professionals applying to full-time MBA programs",
       "origin": "generated",
-      "reasoning": "Same stage, application rounds as deadlines, and consulting prices in the thousands of dollars. The founder's GRE depth applies (GRE is accepted for MBA) and finance colleagues are a warm path.",
+      "reasoning": "Same stage, application rounds as deadlines, and consulting prices in the thousands of dollars. The founder's GRE depth applies (GRE is accepted for MBA) and finance colleagues are a warm path. Duplicate of mba-applicants-gmat-global: the same working professionals taking the GMAT or GRE and applying to MBA programs; the transition room has more seen places and five priced steps, and this room's extra Beat The GMAT place was copied into it.",
       "size": {
         "tag": "measured",
         "unit": "GMAT exams taken worldwide, testing year 2025",
@@ -1265,7 +1307,7 @@
     },
     {
       "confidence": "moderate",
-      "duplicate_of": null,
+      "duplicate_of": "cre-analysts-underwriting",
       "geography": [
         "GLOBAL"
       ],
@@ -1294,7 +1336,7 @@
       "lens": "life_stage",
       "name": "New graduates and junior analysts breaking into commercial real estate finance",
       "origin": "generated",
-      "reasoning": "The founder has strong industrial and logistics real estate depth and warm reach through a private-equity network. The room gathers on WSO and A.CRE and pays four figures for skills.",
+      "reasoning": "The founder has strong industrial and logistics real estate depth and warm reach through a private-equity network. The room gathers on WSO and A.CRE and pays four figures for skills. Duplicate of cre-analysts-underwriting: the same junior analysts buying the same Excel, ARGUS and credential ladder to move into acquisitions; the profession room has high confidence and four priced steps, and this room's two places were copied into it.",
       "size": {
         "reasoning": "Large brokerages, lenders and REPE funds hire thousands of analysts a year across the US, Europe, Gulf and Asia. No measured figure was found.",
         "tag": "estimate",
@@ -1836,11 +1878,11 @@
           "url": "https://www.peakframeworks.com/private-equity-recruiting-course"
         },
         {
-          "price_text": null,
+          "price_text": "$800/hour",
           "problem": "Mock interviews and case-study coaching before on-cycle launches",
           "seen_via": "search",
           "step": 3,
-          "url": "https://mergersandinquisitions.com/on-cycle-private-equity-recruiting/"
+          "url": "https://theprivateequiteer.com/wall-street-prep-premium-package-review/"
         },
         {
           "price_text": "$5,800",
@@ -1853,7 +1895,7 @@
       "lens": "profession",
       "name": "Bankers and consultants recruiting for private equity associate roles",
       "origin": "generated",
-      "reasoning": "This is a deadline-driven sub-room of junior finance with clear failed spend (people buy several prep products) and an annual recruiting calendar. Warm path through colleagues and strong depth in valuation and LBO modelling. Peak Frameworks pricing could not be read from a search result, so step 2 has no price yet.",
+      "reasoning": "This is a deadline-driven sub-room of junior finance with clear failed spend (people buy several prep products) and an annual recruiting calendar. Warm path through colleagues and strong depth in valuation and LBO modelling. Peak Frameworks pricing could not be read from a search result, so step 2 has no price yet. Merged from ib-analysts-pe-oncycle (Stage 1 dedupe): copied two WSO PE threads and the r/FinancialCareers description page, and the $800-an-hour tutoring price onto the coaching step.",
       "size": {
         "reasoning": "Most US first-year analysts (about 1,500 a year per the WSO thread cited in the IB room) attempt PE recruiting, plus a share of second-years, consultants and non-US bankers. 3,000-5,000 candidates per cycle is a conservative guess. Thin: no published count.",
         "tag": "estimate",
@@ -1875,6 +1917,18 @@
         {
           "name": "Private Equity Insider (LinkedIn community, 107,761 followers)",
           "url": "https://www.linkedin.com/company/peinsider"
+        },
+        {
+          "name": "Wall Street Oasis PE forum: Peak Frameworks PE course thread",
+          "url": "https://www.wallstreetoasis.com/forum/private-equity/peak-frameworks-pe-course-1"
+        },
+        {
+          "name": "Wall Street Oasis PE forum: prep materials for PE",
+          "url": "https://www.wallstreetoasis.com/forum/private-equity/prep-materials-for-pe"
+        },
+        {
+          "name": "r/FinancialCareers (over 741,000 members; described here, reddit.com not reachable)",
+          "url": "https://emeritus.org/blog/best-finance-jobs-reddit/"
         }
       ],
       "who": "First- and second-year IB analysts and MBB consultants going through on-cycle or off-cycle private equity recruiting. They face headhunter screens, paper LBOs, 90-minute modelling tests and case studies, often with 72 hours from first call to offer.",
@@ -2055,7 +2109,7 @@
       "lens": "profession",
       "name": "Project finance analysts and modellers in energy and infrastructure",
       "origin": "generated",
-      "reasoning": "This room sits exactly where two of the founder's strong depths meet: energy sector and deal modelling. Warm paths exist through both finance colleagues and Southeast Asian energy companies. The room is smaller than general IB but the ladder is specific and paid.",
+      "reasoning": "This room sits exactly where two of the founder's strong depths meet: energy sector and deal modelling. Warm paths exist through both finance colleagues and Southeast Asian energy companies. The room is smaller than general IB but the ladder is specific and paid. Merged from early-career-renewables-project-finance (Stage 1 dedupe): copied two WSO renewable-energy threads and the Infralogic forum page.",
       "size": {
         "reasoning": "IPFA's LinkedIn following of 15,508 (seen in a search result for https://uk.linkedin.com/company/ipfa-global) mixes seniors and juniors. Roughly 10,000-20,000 juniors worldwide is a guess based on the number of banks, funds, developers and advisory teams with project finance desks. [thin]",
         "tag": "estimate",
@@ -2077,6 +2131,18 @@
         {
           "name": "IPFA, International Project Finance Association (LinkedIn, 15,508 followers)",
           "url": "https://uk.linkedin.com/company/ipfa-global"
+        },
+        {
+          "name": "Wall Street Oasis: starting a renewable energy PE analyst job",
+          "url": "https://www.wallstreetoasis.com/forum/private-equity/starting-renewable-energy-pe-analyst-job-what-to-expect"
+        },
+        {
+          "name": "Wall Street Oasis: renewable energy commercial analyst thread",
+          "url": "https://www.wallstreetoasis.com/forum/job-search/renewable-energy-commercial-analyst"
+        },
+        {
+          "name": "Infralogic Investors Forum: Renewable Energy (event community)",
+          "url": "https://community.ionanalytics.com/infralogic-investors-forum-renewable-energy-2023"
         }
       ],
       "who": "Analysts and associates at banks, developers, infrastructure funds and Big 4 advisory teams who build project finance models for power plants, solar and wind farms, roads and ports. They need to master debt sculpting, covenants and sensitivity cases, and want to move to an infrastructure fund or developer.",
@@ -2121,7 +2187,7 @@
       "lens": "profession",
       "name": "Commercial real estate acquisitions and underwriting analysts",
       "origin": "generated",
-      "reasoning": "A profession with a clear, expensive and sequenced ladder of paid credentials. The founder's industrial and logistics real estate depth is strong and the private equity network gives a warm path. Industrial-focused underwriting (clear heights, dock doors, rent growth) is a niche inside this room where the founder can stand out.",
+      "reasoning": "A profession with a clear, expensive and sequenced ladder of paid credentials. The founder's industrial and logistics real estate depth is strong and the private equity network gives a warm path. Industrial-focused underwriting (clear heights, dock doors, rent growth) is a niche inside this room where the founder can stand out. Merged from early-career-cre-analysts (Stage 1 dedupe): copied the WSO breaking-into-acquisitions thread and the A.CRE community page.",
       "size": {
         "reasoning": "The WSO real estate forum shows 242 pages of threads (seen in the search result for https://www.wallstreetoasis.com/forum/real-estate?page=1). The US alone has thousands of funds, developers, REITs and brokerage analyst desks; 20,000-30,000 juniors worldwide is a rough guess. [thin]",
         "tag": "estimate",
@@ -2143,6 +2209,14 @@
         {
           "name": "BiggerPockets commercial real estate forum (example thread on CoStar cost)",
           "url": "https://www.biggerpockets.com/forums/32/topics/1097759-costar-cost-any-alternatives"
+        },
+        {
+          "name": "Wall Street Oasis real estate forum: breaking into acquisitions",
+          "url": "https://www.wallstreetoasis.com/forum/real-estate/breaking-into-acquisitions"
+        },
+        {
+          "name": "Adventures in CRE (A.CRE) community and courses",
+          "url": "https://www.adventuresincre.com/"
         }
       ],
       "who": "Analysts and associates at real estate private equity funds, developers, REITs and brokerages who underwrite deals in Excel and ARGUS. They pay for modelling courses, ARGUS certification and later the CCIM designation to move up or move to the buy side.",
@@ -2600,7 +2674,7 @@
       "lens": "profession",
       "name": "Candidates preparing for MBB and tier-2 consulting case interviews",
       "origin": "generated",
-      "reasoning": "A classic deadline room with proven hourly prices and a crowded coaching market. The ledger lists case interviews as a moderate depth and coaching and cohorts as human walls the founder can supply. Reach is search-based; the warm path to finance colleagues only partly covers it.",
+      "reasoning": "A classic deadline room with proven hourly prices and a crowded coaching market. The ledger lists case interviews as a moderate depth and coaching and cohorts as human walls the founder can supply. Reach is search-based; the warm path to finance colleagues only partly covers it. Merged from consulting-case-interview-candidates (Stage 1 dedupe): copied the PrepLounge case library and r/consulting places; that room's measured size was 578,000 PrepLounge members.",
       "size": {
         "reasoning": "Management Consulted says it has helped over 15,000 candidates over its life (seen in a search result for https://managementconsulted.com/). MBB together hire a few thousand a year from applicant pools reported at roughly 1% acceptance, which implies well over 100,000 applicants a year. [thin]",
         "tag": "estimate",
@@ -2626,6 +2700,14 @@
         {
           "name": "Management Consulted YouTube channel",
           "url": "https://www.youtube.com/managementconsulted"
+        },
+        {
+          "name": "PrepLounge case library and practice partners",
+          "url": "https://www.preplounge.com/en/management-consulting-cases"
+        },
+        {
+          "name": "r/consulting (341k members; stats page)",
+          "url": "https://gummysearch.com/r/consulting/"
         }
       ],
       "who": "MBA students, undergraduates and experienced hires preparing for McKinsey, BCG, Bain and tier-2 case interviews. They practise cases with peers, buy coaching by the hour and follow a fixed recruiting calendar.",
@@ -2715,31 +2797,37 @@
           "url": "https://skoolmakers.com/communities/ai-automation-a-z/"
         },
         {
+          "price_text": "$4.99+",
+          "problem": "Cheap starter kits and templates",
+          "step": 2,
+          "url": "https://pennyfieldchronicles.gumroad.com/l/AI_Automation_Agency_2025_Course"
+        },
+        {
           "price_text": "$0.05 per minute",
           "problem": "Pay platform usage as the first agents go live",
           "seen_via": "search",
-          "step": 2,
+          "step": 3,
           "url": "https://vapi.ai/pricing"
         },
         {
           "price_text": "$184/month",
           "problem": "Join an agency-building program to learn to price and sell",
           "seen_via": "search",
-          "step": 3,
+          "step": 4,
           "url": "https://skoolmakers.com/communities/maker-school/"
         },
         {
           "price_text": null,
           "problem": "Deliver call quality and compliance that keeps enterprise clients (call auditing, evaluation, handoffs)",
           "seen_via": "search",
-          "step": 4,
+          "step": 5,
           "url": "https://www.cekura.ai/blogs/vapi-ai-pricing"
         }
       ],
       "lens": "profession",
       "name": "Freelancers and small agencies building voice and WhatsApp AI agents for clients",
       "origin": "generated",
-      "reasoning": "The founder has built exactly these products through TinyAI, so the depth is strong and the room overlaps v4. The room gathers in large, public, searchable communities and pays monthly. A risk is that many members are hobbyists, not paying professionals, so the paid-professional core may be smaller than the counts suggest.",
+      "reasoning": "The founder has built exactly these products through TinyAI, so the depth is strong and the room overlaps v4. The room gathers in large, public, searchable communities and pays monthly. A risk is that many members are hobbyists, not paying professionals, so the paid-professional core may be smaller than the counts suggest. Merged from mid-career-ai-agency-starters (Stage 1 dedupe): copied the r/AI_Agents stats page, an n8n freelancer thread and the Skool AI Automation Society, and the priced starter-kit step; that room's measured size was 425,179 r/AI_Agents members.",
       "size": {
         "reasoning": "The count was shown in a search result for Vapi's community pages. The wider room (all voice and WhatsApp agent builders across platforms) is several times larger.",
         "tag": "measured",
@@ -2764,6 +2852,18 @@
         {
           "name": "AI Automation (A-Z) community on Skool",
           "url": "https://skoolmakers.com/communities/ai-automation-a-z/"
+        },
+        {
+          "name": "r/AI_Agents (425,179 members; stats page)",
+          "url": "https://prowlo.com/tools/subreddit-stats/ai_agents"
+        },
+        {
+          "name": "n8n community forum (jobs and freelancer threads)",
+          "url": "https://community.n8n.io/t/n8n-ai-automation-freelancer-for-digital-agency/79602"
+        },
+        {
+          "name": "Skool: AI Automation Society",
+          "url": "https://www.skool.com/ai-automation-society"
         }
       ],
       "who": "Solo developers and 2-10 person agencies who build AI voice agents, WhatsApp bots and automations for local businesses. They pay per-minute platform fees, join paid Skool or Discord communities to learn, and struggle to price, sell and keep clients.",
@@ -3674,8 +3774,10 @@
           "url": "https://www.icici.bank.in/personal-banking/loans/education-loan/interest-rates"
         },
         {
+          "price_text": "$350",
           "problem": "F-1 visa interview and pre-departure setup (forex, insurance, housing)",
-          "step": 5
+          "step": 5,
+          "url": "https://www.ice.gov/sevis/i901"
         },
         {
           "price_text": "$470",
@@ -3687,7 +3789,7 @@
       "lens": "transition",
       "name": "Indian engineers preparing for the GRE to study abroad",
       "origin": "generated",
-      "reasoning": "Same situation, same exam date, same forums. Coaching, exam and loan prices are public. The founder's GRE product already sells into this room, so reach is warm.",
+      "reasoning": "Same situation, same exam date, same forums. Coaching, exam and loan prices are public. The founder's GRE product already sells into this room, so reach is warm. Merged from gre-final-year-engineers-india (Stage 1 dedupe): copied the GRE Prep Club and Yocket Connect places and the $350 SEVIS fee onto the visa step.",
       "size": {
         "reasoning": "Seen in a search result for the r/GRE stats page. The Indian-engineer share is not measured; it is a large slice but smaller than this number.",
         "tag": "measured",
@@ -3720,6 +3822,14 @@
         {
           "name": "Collegedunia list of GRE forums",
           "url": "https://s4.collegedunia.com/news/e-483-gre-forums-for-gre-preparation"
+        },
+        {
+          "name": "GRE Prep Club forum",
+          "url": "https://gre.myprepclub.com/forum/"
+        },
+        {
+          "name": "Yocket community (admits and aspirants)",
+          "url": "https://yocket.com/connect"
         }
       ],
       "who": "Engineering students and young engineers in India who will sit the GRE in the next 3 to 12 months, mostly to apply for a master's in the US, Canada or Europe. They juggle college or a first job with 2 to 4 months of prep.",
@@ -3801,7 +3911,7 @@
     },
     {
       "confidence": "moderate",
-      "duplicate_of": null,
+      "duplicate_of": "opt-grads-us-job-hunt",
       "geography": [
         "US",
         "IN"
@@ -3841,7 +3951,7 @@
       "lens": "transition",
       "name": "International graduates in the US on OPT hunting for an H-1B sponsor",
       "origin": "generated",
-      "reasoning": "One shared clock (OPT expiry), one shared goal (a sponsor) and busy shared forums. Government fees are fixed and public. The founder's GRE users become this room two years later, so reach is plausible; depth in job search and immigration is not on the ledger, so Stage 2 may cut it.",
+      "reasoning": "One shared clock (OPT expiry), one shared goal (a sponsor) and busy shared forums. Government fees are fixed and public. The founder's GRE users become this room two years later, so reach is plausible; depth in job search and immigration is not on the ledger, so Stage 2 may cut it. Duplicate of opt-grads-us-job-hunt: the same OPT graduates hunting for an H-1B sponsor under the same 90-day clock; the life-stage room has a directly measured size and high confidence, and this room's three extra places and three priced steps (OPT application, premium processing, H-1B petition) were copied into it.",
       "size": {
         "reasoning": "Seen in a search result for the r/h1b stats page. Includes current H-1B holders, so the OPT slice is smaller.",
         "tag": "measured",
@@ -3984,7 +4094,7 @@
       "lens": "transition",
       "name": "MBA applicants preparing for the GMAT and applying to business schools",
       "origin": "generated",
-      "reasoning": "A long, well-priced ladder from prep to loans to recruiting, with two big forums. Many MBA programs accept the GRE, so the founder's GRE product touches step 1, and the finance recruiting step sits in the founder's strongest depth.",
+      "reasoning": "A long, well-priced ladder from prep to loans to recruiting, with two big forums. Many MBA programs accept the GRE, so the founder's GRE product touches step 1, and the finance recruiting step sits in the founder's strongest depth. Merged from pre-mba-applicants-gmat-gre (Stage 1 dedupe): copied the Beat The GMAT admissions-consultant board.",
       "size": {
         "reasoning": "Seen in a search result for the r/MBA stats page. GMAT Club's forum page was also seen and claims over 1 million members.",
         "tag": "measured",
@@ -4013,6 +4123,10 @@
         {
           "name": "Beat The GMAT forum",
           "url": "https://www.beatthegmat.com/best-admission-consultants-for-mba-with-pricing-t119031.html"
+        },
+        {
+          "name": "Beat The GMAT: ask an admissions consultant",
+          "url": "https://www.beatthegmat.com/ask-an-mba-admissions-consultant-f40.html"
         }
       ],
       "who": "Working professionals worldwide, with India the largest source, who are studying for the GMAT or GRE and applying to MBA programs in the next 6 to 18 months, then borrowing to pay for them and recruiting for finance or consulting once in.",
@@ -4038,12 +4152,16 @@
           "url": "https://www.mbarendezvous.com/articles/ims-cat-coaching-institute-fees/"
         },
         {
+          "price_text": "Rs 10,000 to Rs 30,000",
           "problem": "GD-PI-WAT interview prep after results",
-          "step": 3
+          "step": 3,
+          "url": "https://www.mbauniverse.com/gd-pi-wat-coaching-courses"
         },
         {
+          "price_text": "₹27.5 lakh",
           "problem": "MBA fees and an education loan",
-          "step": 4
+          "step": 4,
+          "url": "https://www.pagalguy.com/colleges/indian-institute-of-management-iim-ahmedabad"
         },
         {
           "problem": "Summer internship and final placement prep (finance and consulting interviews)",
@@ -4053,7 +4171,7 @@
       "lens": "transition",
       "name": "Indian graduates preparing for the CAT to enter an IIM or a top Indian MBA",
       "origin": "generated",
-      "reasoning": "A measured pool of about 3 lakh people on one exam date who pay for coaching and mocks, then interviews, then placements. Quant and verbal overlap with the founder's GRE depth; the placement step touches finance depth.",
+      "reasoning": "A measured pool of about 3 lakh people on one exam date who pay for coaching and mocks, then interviews, then placements. Quant and verbal overlap with the founder's GRE depth; the placement step touches finance depth. Merged from cat-aspirants-working-professionals-india (Stage 1 dedupe): copied the r/CATpreparation spotlight and PaGaLGuY thread places, and the GD-PI-WAT coaching and IIM fee prices onto steps 3 and 4.",
       "size": {
         "reasoning": "Seen in a search result: 2.95 lakh registered, about 2.58 lakh appeared.",
         "tag": "measured",
@@ -4078,6 +4196,14 @@
         {
           "name": "MBAUniverse CAT hub (news and coaching comparisons)",
           "url": "https://www.mbauniverse.com/cat"
+        },
+        {
+          "name": "r/CATpreparation (about 350,449 members; spotlight page)",
+          "url": "https://insideiim.com/community-spotlight-how-r-catpreparation-is-helping-aspirants"
+        },
+        {
+          "name": "PaGaLGuY CAT 2026 preparation thread",
+          "url": "https://www.pagalguy.com/t/cat-exam-2026-preparation-discussion-mock-test/4127380"
         }
       ],
       "who": "Final-year students and young professionals in India preparing for the CAT held each November, then the GD-PI-WAT interview rounds in January to March, to join a two-year MBA in India.",
@@ -4085,7 +4211,7 @@
     },
     {
       "confidence": "moderate",
-      "duplicate_of": null,
+      "duplicate_of": "ib-summer-analyst-recruits",
       "geography": [
         "GLOBAL",
         "US",
@@ -4121,7 +4247,7 @@
       "lens": "transition",
       "name": "Students and recent graduates recruiting for investment banking analyst roles",
       "origin": "generated",
-      "reasoning": "One goal, one recruiting calendar, one big forum, and vendors with public prices. The founder's depth (corporate finance, valuation) and warm path (banking colleagues) fit. Distinct from the profession-lens analyst room: these people are not yet in the job.",
+      "reasoning": "One goal, one recruiting calendar, one big forum, and vendors with public prices. The founder's depth (corporate finance, valuation) and warm path (banking colleagues) fit. Distinct from the profession-lens analyst room: these people are not yet in the job. Duplicate of ib-summer-analyst-recruits: the same students preparing for the same IB analyst recruiting calendar with the same guides and courses; the life-stage room has high confidence and three priced steps, and this room's three places were copied into it.",
       "size": {
         "reasoning": "[thin] No measured number was seen. WSO is the main global forum and several vendors sell to this room; the yearly candidate pool is in the tens of thousands.",
         "tag": "estimate",
@@ -4310,18 +4436,26 @@
           "step": 3
         },
         {
+          "price_text": "$5,000 and $10,000 per month",
+          "problem": "Financial model and fractional CFO help",
+          "step": 4,
+          "url": "https://pilot.com/blog/fractional-cfo-cost-guide"
+        },
+        {
+          "price_text": "$2,000–$5,000",
           "problem": "Pre-seed raise: pitch deck, SAFE terms, valuation and investor list",
-          "step": 4
+          "step": 5,
+          "url": "https://www.spectup.com/resource-hub/how-much-does-a-pitch-deck-cost"
         },
         {
           "problem": "Accounting, tax filings and first hires",
-          "step": 5
+          "step": 6
         }
       ],
       "lens": "transition",
       "name": "First-time founders setting up a company and raising a first round",
       "origin": "generated",
-      "reasoning": "A clear event (starting a company) with public prices at the first steps and big forums. The fundraising step sits in the founder's strongest depth (valuation, deal documents). Prices for legal and deck help were not seen before the search budget ran out.",
+      "reasoning": "A clear event (starting a company) with public prices at the first steps and big forums. The fundraising step sits in the founder's strongest depth (valuation, deal documents). Prices for legal and deck help were not seen before the search budget ran out. Merged from first-time-founders-first-raise (Stage 1 dedupe): copied the r/startups and Indie Hackers places, the priced financial-model step and the pitch-deck price onto the raise step.",
       "size": {
         "reasoning": "[thin] No measured number was seen. Stripe Atlas and its competitors sell incorporation at scale and several large forums exist; the yearly pool is in the low hundreds of thousands at most.",
         "tag": "estimate",
@@ -4351,6 +4485,14 @@
         {
           "name": "Stripe Atlas (marketplace they buy from)",
           "url": "https://stripe.com/atlas"
+        },
+        {
+          "name": "r/startups (2.1M members; stats page)",
+          "url": "https://gummysearch.com/r/startups/"
+        },
+        {
+          "name": "Indie Hackers community",
+          "url": "https://www.indiehackers.com/"
         }
       ],
       "who": "People who left or are leaving a job to start a software or online business, worldwide. In the first two years they incorporate, find first customers, and decide whether and how to raise a pre-seed round.",

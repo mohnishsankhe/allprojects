@@ -26,6 +26,14 @@
         {
           "name": "Collegedunia list of GRE forums",
           "url": "https://s4.collegedunia.com/news/e-483-gre-forums-for-gre-preparation"
+        },
+        {
+          "name": "GRE Prep Club forum",
+          "url": "https://gre.myprepclub.com/forum/"
+        },
+        {
+          "name": "Yocket community (admits and aspirants)",
+          "url": "https://yocket.com/connect"
         }
       ],
       "who_pays": "The student, usually with parents' money. Coaching is paid up front. The exam fee goes to ETS.",
@@ -61,7 +69,9 @@
         },
         {
           "step": 5,
-          "problem": "F-1 visa interview and pre-departure setup (forex, insurance, housing)"
+          "problem": "F-1 visa interview and pre-departure setup (forex, insurance, housing)",
+          "price_text": "$350",
+          "url": "https://www.ice.gov/sevis/i901"
         },
         {
           "step": 6,
@@ -77,7 +87,7 @@
         "v1"
       ],
       "duplicate_of": null,
-      "reasoning": "Same situation, same exam date, same forums. Coaching, exam and loan prices are public. The founder's GRE product already sells into this room, so reach is warm.",
+      "reasoning": "Same situation, same exam date, same forums. Coaching, exam and loan prices are public. The founder's GRE product already sells into this room, so reach is warm. Merged from gre-final-year-engineers-india (Stage 1 dedupe): copied the GRE Prep Club and Yocket Connect places and the $350 SEVIS fee onto the visa step.",
       "confidence": "high"
     },
     {
@@ -228,8 +238,8 @@
       "venture_overlap": [
         "v1"
       ],
-      "duplicate_of": null,
-      "reasoning": "One shared clock (OPT expiry), one shared goal (a sponsor) and busy shared forums. Government fees are fixed and public. The founder's GRE users become this room two years later, so reach is plausible; depth in job search and immigration is not on the ledger, so Stage 2 may cut it.",
+      "duplicate_of": "opt-grads-us-job-hunt",
+      "reasoning": "One shared clock (OPT expiry), one shared goal (a sponsor) and busy shared forums. Government fees are fixed and public. The founder's GRE users become this room two years later, so reach is plausible; depth in job search and immigration is not on the ledger, so Stage 2 may cut it. Duplicate of opt-grads-us-job-hunt: the same OPT graduates hunting for an H-1B sponsor under the same 90-day clock; the life-stage room has a directly measured size and high confidence, and this room's three extra places and three priced steps (OPT application, premium processing, H-1B petition) were copied into it.",
       "confidence": "moderate"
     },
     {
@@ -311,6 +321,10 @@
         {
           "name": "Beat The GMAT forum",
           "url": "https://www.beatthegmat.com/best-admission-consultants-for-mba-with-pricing-t119031.html"
+        },
+        {
+          "name": "Beat The GMAT: ask an admissions consultant",
+          "url": "https://www.beatthegmat.com/ask-an-mba-admissions-consultant-f40.html"
         }
       ],
       "who_pays": "The applicant pays for prep, the exam and consultants out of savings. Lenders such as Prodigy Finance fund the degree.",
@@ -366,7 +380,7 @@
         "v1"
       ],
       "duplicate_of": null,
-      "reasoning": "A long, well-priced ladder from prep to loans to recruiting, with two big forums. Many MBA programs accept the GRE, so the founder's GRE product touches step 1, and the finance recruiting step sits in the founder's strongest depth.",
+      "reasoning": "A long, well-priced ladder from prep to loans to recruiting, with two big forums. Many MBA programs accept the GRE, so the founder's GRE product touches step 1, and the finance recruiting step sits in the founder's strongest depth. Merged from pre-mba-applicants-gmat-gre (Stage 1 dedupe): copied the Beat The GMAT admissions-consultant board.",
       "confidence": "high"
     },
     {
@@ -387,6 +401,14 @@
         {
           "name": "MBAUniverse CAT hub (news and coaching comparisons)",
           "url": "https://www.mbauniverse.com/cat"
+        },
+        {
+          "name": "r/CATpreparation (about 350,449 members; spotlight page)",
+          "url": "https://insideiim.com/community-spotlight-how-r-catpreparation-is-helping-aspirants"
+        },
+        {
+          "name": "PaGaLGuY CAT 2026 preparation thread",
+          "url": "https://www.pagalguy.com/t/cat-exam-2026-preparation-discussion-mock-test/4127380"
         }
       ],
       "who_pays": "The aspirant and parents pay coaching and mock fees up front. Banks fund the MBA fees later.",
@@ -412,11 +434,15 @@
         },
         {
           "step": 3,
-          "problem": "GD-PI-WAT interview prep after results"
+          "problem": "GD-PI-WAT interview prep after results",
+          "price_text": "Rs 10,000 to Rs 30,000",
+          "url": "https://www.mbauniverse.com/gd-pi-wat-coaching-courses"
         },
         {
           "step": 4,
-          "problem": "MBA fees and an education loan"
+          "problem": "MBA fees and an education loan",
+          "price_text": "₹27.5 lakh",
+          "url": "https://www.pagalguy.com/colleges/indian-institute-of-management-iim-ahmedabad"
         },
         {
           "step": 5,
@@ -430,7 +456,7 @@
         "v1"
       ],
       "duplicate_of": null,
-      "reasoning": "A measured pool of about 3 lakh people on one exam date who pay for coaching and mocks, then interviews, then placements. Quant and verbal overlap with the founder's GRE depth; the placement step touches finance depth.",
+      "reasoning": "A measured pool of about 3 lakh people on one exam date who pay for coaching and mocks, then interviews, then placements. Quant and verbal overlap with the founder's GRE depth; the placement step touches finance depth. Merged from cat-aspirants-working-professionals-india (Stage 1 dedupe): copied the r/CATpreparation spotlight and PaGaLGuY thread places, and the GD-PI-WAT coaching and IIM fee prices onto steps 3 and 4.",
       "confidence": "high"
     },
     {
@@ -493,8 +519,8 @@
         "IN"
       ],
       "venture_overlap": [],
-      "duplicate_of": null,
-      "reasoning": "One goal, one recruiting calendar, one big forum, and vendors with public prices. The founder's depth (corporate finance, valuation) and warm path (banking colleagues) fit. Distinct from the profession-lens analyst room: these people are not yet in the job.",
+      "duplicate_of": "ib-summer-analyst-recruits",
+      "reasoning": "One goal, one recruiting calendar, one big forum, and vendors with public prices. The founder's depth (corporate finance, valuation) and warm path (banking colleagues) fit. Distinct from the profession-lens analyst room: these people are not yet in the job. Duplicate of ib-summer-analyst-recruits: the same students preparing for the same IB analyst recruiting calendar with the same guides and courses; the life-stage room has high confidence and three priced steps, and this room's three places were copied into it.",
       "confidence": "moderate"
     },
     {
@@ -659,6 +685,14 @@
         {
           "name": "Stripe Atlas (marketplace they buy from)",
           "url": "https://stripe.com/atlas"
+        },
+        {
+          "name": "r/startups (2.1M members; stats page)",
+          "url": "https://gummysearch.com/r/startups/"
+        },
+        {
+          "name": "Indie Hackers community",
+          "url": "https://www.indiehackers.com/"
         }
       ],
       "who_pays": "The founder pays from savings for incorporation, legal templates and advice until investors fund the company.",
@@ -687,10 +721,18 @@
         },
         {
           "step": 4,
-          "problem": "Pre-seed raise: pitch deck, SAFE terms, valuation and investor list"
+          "problem": "Financial model and fractional CFO help",
+          "price_text": "$5,000 and $10,000 per month",
+          "url": "https://pilot.com/blog/fractional-cfo-cost-guide"
         },
         {
           "step": 5,
+          "problem": "Pre-seed raise: pitch deck, SAFE terms, valuation and investor list",
+          "price_text": "$2,000–$5,000",
+          "url": "https://www.spectup.com/resource-hub/how-much-does-a-pitch-deck-cost"
+        },
+        {
+          "step": 6,
           "problem": "Accounting, tax filings and first hires"
         }
       ],
@@ -699,7 +741,7 @@
       ],
       "venture_overlap": [],
       "duplicate_of": null,
-      "reasoning": "A clear event (starting a company) with public prices at the first steps and big forums. The fundraising step sits in the founder's strongest depth (valuation, deal documents). Prices for legal and deck help were not seen before the search budget ran out.",
+      "reasoning": "A clear event (starting a company) with public prices at the first steps and big forums. The fundraising step sits in the founder's strongest depth (valuation, deal documents). Prices for legal and deck help were not seen before the search budget ran out. Merged from first-time-founders-first-raise (Stage 1 dedupe): copied the r/startups and Indie Hackers places, the priced financial-model step and the pitch-deck price onto the raise step.",
       "confidence": "moderate"
     },
     {

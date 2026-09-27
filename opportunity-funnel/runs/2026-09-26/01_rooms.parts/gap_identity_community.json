@@ -75,7 +75,11 @@
           "seen_via": "search"
         }
       ],
-      "geography": ["GLOBAL", "US", "IN"],
+      "geography": [
+        "GLOBAL",
+        "US",
+        "IN"
+      ],
       "venture_overlap": [],
       "duplicate_of": null,
       "reasoning": "No existing room covers people whose identity is 'aspiring quant'; the non-target, CFA and consultant rooms are about banking, the charter and consulting exits. The founder has warm reach through finance colleagues, strong depth in corporate finance and moderate depth in options trading, which is the pricing maths this room drills; every place, the size and every price were seen in search this task, and the CQF figure is a reviewer's range because the vendor does not list a price.",
@@ -163,8 +167,12 @@
           "seen_via": "search"
         }
       ],
-      "geography": ["GLOBAL"],
-      "venture_overlap": ["v4"],
+      "geography": [
+        "GLOBAL"
+      ],
+      "venture_overlap": [
+        "v4"
+      ],
       "duplicate_of": null,
       "reasoning": "A new self-named identity (the subreddit is 19 months old and already at 349k) that the indie-hacker and founder rooms miss because these people are not developers and mostly not founders yet; they buy tools through search and app stores, which is the ledger's search reach, and building AI products is a strong depth that overlaps TinyAI (v4). The 'rescue' rungs show a priced market for human judgment after the machine tools fail; all places, the size and every price were seen in search this task.",
       "confidence": "high"
@@ -236,8 +244,13 @@
           "seen_via": "search"
         }
       ],
-      "geography": ["IN", "GLOBAL"],
-      "venture_overlap": ["v2"],
+      "geography": [
+        "IN",
+        "GLOBAL"
+      ],
+      "venture_overlap": [
+        "v2"
+      ],
       "duplicate_of": null,
       "reasoning": "The existing fragrance room is the global, dollar-priced hobby; this is the Indian community with its own subreddit (a tenth the size of r/fragrance but 'huge' by the stats page), its own attar culture and rupee prices, and it is the loudest set of reviewers and early buyers for Proper Noun (v2). Fragrance depth is moderate; the subreddit itself was not reachable, so its size comes from a stats page seen in search, and the two forum threads are smaller gathering places than the subreddit. [thin] on places beyond the subreddit.",
       "confidence": "moderate"
@@ -319,7 +332,9 @@
           "seen_via": "search"
         }
       ],
-      "geography": ["GLOBAL"],
+      "geography": [
+        "GLOBAL"
+      ],
       "venture_overlap": [],
       "duplicate_of": null,
       "reasoning": "Modelling as a craft identity cuts across the profession rooms (IB analysts, FP&A, project finance) and nobody had it; corporate finance and valuation is the founder's strongest depth and finance colleagues are a warm path. The gathering places are the competition's own channels plus one paid community, not an open forum, and the measured core of competitors is only a few hundred a year, so the merge may judge it too small. [thin] Every place and price was seen in search this task; the bundle price was not shown.",
@@ -407,7 +422,12 @@
           "seen_via": "search"
         }
       ],
-      "geography": ["US", "CA", "AU", "GLOBAL"],
+      "geography": [
+        "US",
+        "CA",
+        "AU",
+        "GLOBAL"
+      ],
       "venture_overlap": [],
       "duplicate_of": null,
       "reasoning": "The existing solar rooms are installers and developers; this is the hobbyist identity that buys hardware and paid design reviews through search, which is the ledger's search reach. Energy is a strong depth, but the ledger's depth is sector-level (power, renewables, project finance), not household wiring, so Stage 2 may judge the depth match weak; anything that signs off electrical work needs a licensed electrician the founder cannot be. All places, the size and every price were seen in search this task; the kit price is a reviewer's round figure.",
@@ -488,7 +508,12 @@
           "seen_via": "search"
         }
       ],
-      "geography": ["GLOBAL", "SG", "MY", "IN"],
+      "geography": [
+        "GLOBAL",
+        "SG",
+        "MY",
+        "IN"
+      ],
       "venture_overlap": [],
       "duplicate_of": null,
       "reasoning": "The obligation lens has the companies facing ISSB reporting and the identity lens has energy-career switchers, but nobody had the people who already identify as sustainability professionals and buy credentials through search; energy and climate reporting sits inside the founder's strong energy depth and the Southeast Asian energy warm path (with the ledger's employer-rules caveat). The ladder is long and every rung has a listed price, but the room is diffuse across many small networks, so the size is one network's count rather than the whole; all places and prices were seen in search this task.",
