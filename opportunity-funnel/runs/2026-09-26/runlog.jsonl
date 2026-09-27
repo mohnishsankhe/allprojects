@@ -1069,3 +1069,6 @@
 {"command": "show", "ids": 116, "kind": "ran", "missing": [], "room": "d2c-brands-scaling-past-launch", "stage": 3, "ts": "2026-09-27T16:03:34+00:00"}
 {"command": "listen-status", "dated": 59, "kind": "ran", "per_round": {"1": 870, "2": 850}, "per_source": {"websearch": 1720}, "records": 1720, "room": "startup-founders-409a-83b-deadlines", "stage": 3, "ts": "2026-09-27T16:06:19+00:00", "undated": 1661}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T16:06:26+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "small-industrial-property-investors", "stage": 3, "ts": "2026-09-27T16:09:57+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "small-industrial-property-investors", "stage": 3, "ts": "2026-09-27T16:10:31+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T16:11:29+00:00"}
