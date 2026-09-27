@@ -772,3 +772,10 @@
 {"command": "show", "ids": 16, "kind": "ran", "missing": [], "room": "small-business-owners-reddit-community", "stage": 3, "ts": "2026-09-27T12:28:35+00:00"}
 {"command": "relabel-pack", "keys": ["paid-coaching-worth-it", "managing-the-property", "taxes-insurance-jump"], "kind": "ran", "packs": 2, "room": "small-industrial-property-investors", "round": 2, "stage": 3, "ts": "2026-09-27T12:29:28+00:00"}
 {"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T12:29:34+00:00"}
+{"command": "relabel-pack", "keys": ["staff-pay-commission", "buying-selling-salon"], "kind": "ran", "packs": 2, "room": "salon-spa-owners-india-global", "round": 2, "stage": 3, "ts": "2026-09-27T12:31:28+00:00"}
+{"command": "listen-status", "dated": 26, "kind": "ran", "per_round": {"1": 1380, "2": 922}, "per_source": {"websearch": 2302}, "records": 2302, "room": "salon-spa-owners-india-global", "stage": 3, "ts": "2026-09-27T12:31:35+00:00", "undated": 2276}
+{"command": "relabel-pack", "keys": ["trading-charges-eat-profits"], "kind": "ran", "packs": 2, "room": "active-retail-options-traders", "round": 2, "stage": 3, "ts": "2026-09-27T12:32:21+00:00"}
+{"command": "listen-status", "dated": 27, "kind": "ran", "per_round": {"1": 1150, "2": 1159}, "per_source": {"websearch": 2309}, "records": 2309, "room": "active-retail-options-traders", "stage": 3, "ts": "2026-09-27T12:32:27+00:00", "undated": 2282}
+{"command": "show", "ids": 10, "kind": "ran", "missing": [], "room": "gre-engineers-india", "stage": 3, "ts": "2026-09-27T12:32:33+00:00"}
+{"command": "relabel-pack", "keys": ["form-5472-foreign-owner", "corp-tax-return-confusion", "closing-dead-company", "founder-stock-setup", "sec-form-d-filing"], "kind": "ran", "packs": 2, "room": "startup-founders-409a-83b-deadlines", "round": 2, "stage": 3, "ts": "2026-09-27T12:33:09+00:00"}
+{"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T12:34:37+00:00"}

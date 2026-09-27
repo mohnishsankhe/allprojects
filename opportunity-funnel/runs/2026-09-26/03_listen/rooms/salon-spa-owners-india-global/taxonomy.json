@@ -101,6 +101,18 @@
       "label": "Is a salon franchise worth it?",
       "definition": "Whether to buy a salon franchise (Lakme, Naturals, Jawed Habib, Green Trends and others) or open one's own, and whether the fee, royalty and investment pay back.",
       "added_round": 1
+    },
+    {
+      "key": "staff-pay-commission",
+      "label": "How much commission or wage to pay staff, and can they be self-employed?",
+      "definition": "What to pay the stylists and therapists who work in the salon (commission percentage, wages, 60/40 splits, commission on product sales, perks), and whether they can count as self-employed under tax and employment rules, with the right contract. Chair or room rent belongs to chair-room-rent; finding and keeping staff belongs to staff-hiring-quitting.",
+      "added_round": 2
+    },
+    {
+      "key": "buying-selling-salon",
+      "label": "Buying or selling an established salon: how much, and what's the goodwill worth?",
+      "definition": "Buying an existing salon or taking over its lease, or selling one: what price to pay or ask, what the goodwill (the part of the price paid for the name and the clients) is really worth, what to check before buying, and whether clients and staff stay after the sale. Opening a new salon from scratch belongs to opening-costs; closing one belongs to losing-money-failing.",
+      "added_round": 2
     }
   ]
 }

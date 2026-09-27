@@ -83,6 +83,12 @@
       "label": "Paid prop-firm evaluation fees, then failed or got the payout denied",
       "definition": "Funded-trader programs: repeated evaluation fees, rule traps, denied payouts and prop-firm scams.",
       "added_round": 1
+    },
+    {
+      "key": "trading-charges-eat-profits",
+      "label": "Brokerage, commissions, STT and hidden charges eat my profits: why are my trading costs so high?",
+      "definition": "The per-trade costs of active options trading: broker commissions and brokerage, India's STT (securities transaction tax, charged on each trade), including the 'STT trap' on in-the-money options held to expiry, exchange transaction charges, stamp duty and other fees. Traders ask why their charges are so high, how to calculate them, how to cut them or which broker is cheapest. Data, charting and tool subscriptions belong to tool-data-costs-add-up. Filing income tax belongs to the tax pains.",
+      "added_round": 2
     }
   ]
 }

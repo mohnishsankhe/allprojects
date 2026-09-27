@@ -95,6 +95,46 @@
       "added_round": 1,
       "reasoning": "Only seller and media pages show it in round 1 ('Remember to file IRS Form 3921 for Employee ISO Exercises', 'Deadlines, AMT & Penalties'). [thin]: no member record yet.",
       "confidence": "low"
+    },
+    {
+      "key": "form-5472-foreign-owner",
+      "label": "Form 5472 as a non-US owner of a US company, and the $25,000 penalty",
+      "definition": "A US corporation or LLC owned by a non-US founder must file Form 5472 (an IRS report of its dealings with the foreign owner) every year, even with no revenue, usually with a Form 1120 used as a cover sheet. Founders ask whether they must file, what counts as a reportable transaction, how to file late or after closing the company, and how to get the $25,000 penalty removed. 83(b), SSN and ITIN problems at set-up stay under non-us-founder-paperwork.",
+      "added_round": 2,
+      "reasoning": "Round-2 members ask it in their own words: 'I incorporated my C Corp via Stripe as a non-resident alien ... Am I required to file 5472 if its already late?' and 'missed the due date to file form 5472'. Job posts pay for it: 'Penalty appeal IRS Form 5472', 'CPA needed for filing 1120 + 5472'.",
+      "confidence": "high"
+    },
+    {
+      "key": "corp-tax-return-confusion",
+      "label": "which tax returns our small C-corp must file, even with no revenue",
+      "definition": "A small or pre-revenue C-corp (often a Delaware company run from another state) must file a federal return (Form 1120) and state returns or minimum taxes (such as California's $800) every year. Founders ask whether they must file with zero revenue, in which states, whether they can file without an accountant, how start-up costs count, and what filing late costs. The Delaware franchise tax stays under delaware-franchise-tax-shock; Form 5472 stays under form-5472-foreign-owner.",
+      "added_round": 2,
+      "reasoning": "Round-2 members ask 'I started my own business (C-Corp) with no revenue and no FTEs, but $20K in costs. What do I need to do for taxes?', 'Does pre-revenue c corp startup need to file form 1120 in its first calendar year?' and 'How to e-file Corp Income taxes for Delaware C-Corp without accountant?'.",
+      "confidence": "high"
+    },
+    {
+      "key": "closing-dead-company",
+      "label": "closing down a company we no longer use, or walking away from it",
+      "definition": "The startup is dead or dormant. Founders ask how to dissolve the Delaware company and file its final returns, whether they must still pay back franchise taxes and fees, and what happens to them personally if they stop paying and the state voids the company.",
+      "added_round": 2,
+      "reasoning": "Round-2 members ask 'What's the simplest way to kill a Delaware C Corp?', 'What are the risks of walking away from a Delaware LLC (and ignoring the franchise tax bills)?' and 'My Delaware corporation was voided, what do i have to do?'; a job post asks for 'Delaware LLC Dissolution + Franchise Tax Filing (Dormant LLC)'.",
+      "confidence": "high"
+    },
+    {
+      "key": "founder-stock-setup",
+      "label": "not sure how to issue our founder shares: how many, at what price, with what vesting",
+      "definition": "At or soon after incorporation, founders do not know how many shares to authorize and issue, at what price, how to split them between co-founders, how to put them on a vesting schedule, or what to do when shares were never issued or a co-founder leaves. The 83(b) itself stays under 83b-filing-confusion; a franchise tax bill caused by the share count stays under delaware-franchise-tax-shock.",
+      "added_round": 2,
+      "reasoning": "Round-2 members ask 'How many shares should be authorized when forming a Delaware corporation?', 'Is it a problem if my new Delaware corporation has been operating for a little while without having issued any shares, even to myself?' and 'How does the vesting come into play then?'.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "sec-form-d-filing",
+      "label": "not sure if or how to file SEC Form D after raising money, and its 15-day deadline",
+      "definition": "A startup that sells shares, SAFEs or notes under the usual SEC exemption (Regulation D) files Form D, a short notice to the SEC, within 15 days of the first sale. Founders ask whether they must file at all (founder-only money, SAFE rounds), whether they need a lawyer for it, and what to do after missing the deadline.",
+      "added_round": 2,
+      "reasoning": "Round-2 members ask 'What does one do if one forgets to file SEC Form D after the 15 day limit for private security sales?', 'Do I need a lawyer to file form D for startup company?' and 'Do initial startup founders need to file Form D or any other form with the SEC?'. [thin]: about six member questions, all on Quora.",
+      "confidence": "moderate"
     }
   ]
 }
