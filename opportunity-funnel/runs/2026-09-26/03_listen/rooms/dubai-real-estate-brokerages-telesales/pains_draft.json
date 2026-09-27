@@ -1,0 +1,168 @@
+{
+  "pains": [
+    {
+      "pain_key": "not-enough-leads-listings",
+      "description": "How do I get listings in real estate in Dubai? Agents ask how to generate leads, how to find more clients, and how to reach an owner when all they have is a title deed number. With no listings and no leads, a commission-only agent earns nothing.",
+      "urgency": {
+        "type": "acute_pain",
+        "evidence": "Agents ask how to get listings, generate leads and find more clients in Dubai. Job ads for commission-only agents show that no leads means no pay.",
+        "record_ids": ["9adbb59ab470a903", "65cc6dcb53a6013a", "9d4577c5aad18be8", "f38f1c7e616847bc"],
+        "reasoning": "A thin lead flow blocks income now, because agents are paid only when a deal closes. The evidence is four question titles, so how much it hurts is not shown.",
+        "confidence": "low"
+      },
+      "who_pays": {
+        "text": "The brokerage pays the portals for listings and pays lead sellers, ad agencies and telesales staff. Commission-only agents pay with unpaid time.",
+        "reasoning": "Job posts show brokerages hiring telesales and lead-generation staff, and portal and lead prices are quoted per listing and per lead. Commission-only job ads show that agents earn only from closed deals.",
+        "confidence": "moderate"
+      },
+      "alternatives": [
+        {"what": "Paid listings on Property Finder and Bayut (price per listing)", "price_text": "AED 500-2,000+ per listing", "amount": 500, "currency": "AED", "unit": "listing", "url": "https://joinoliva.com/en/learn/blog/property-finder-vs-bayut-platform-comparison-2026", "seen_via": "search"},
+        {"what": "Verified off-plan buyer leads bought from a lead seller (Dubai Property Leads)", "price_text": "150 AED to 350 AED per lead", "amount": 150, "currency": "AED", "unit": "lead", "url": "https://dubaipropertyleads.ae/blog/best-lead-generation-for-dubai-brokers", "seen_via": "search"},
+        {"what": "Meta and Google ad campaigns for real estate leads: cost per lead", "price_text": "AED 20 to AED 150", "amount": 20, "currency": "AED", "unit": "lead", "url": "https://www.bmmarketing.ae/real-estate-lead-generation-in-dubai-strategies-that-actually-work/", "seen_via": "search"},
+        {"what": "Lead-generation agency service fee, ad spend paid on top (BM Digital Marketing)", "price_text": "AED 3000 per month, excluding ad spend", "amount": 3000, "currency": "AED", "unit": "month", "url": "https://www.bmmarketing.ae/lead-generation-services-in-dubai-how-it-works-what-businesses-should-expect/", "seen_via": "search"},
+        {"what": "Human substitute: an in-house telecaller or property consultant who finds leads (job ad salary, plus commission)", "price_text": "AED 4K - 5K/Month + Commission", "amount": 4000, "currency": "AED", "unit": "month", "url": "https://dubaijobfinder.org/job/telecaller-telesales-executive-real-estate", "seen_via": "search"}
+      ],
+      "sellers": [
+        {"name": "Property Finder and Bayut (the two big listing portals)", "url": "https://www.propertyfinder.ae/", "complaints": ["Brokers are hit with ad rate hikes, and brokers have hit back at a portal over ad rates.", "Brokerages launch their own listing portals to take on the big two."], "complaint_record_ids": ["3a80091886f113f2", "ec725bbe981d8616", "959d60fd9d8e9635"]},
+        {"name": "dubizzle (property listing subscription for agencies)", "url": "https://dubai.dubizzle.com/property-listing-packages/", "complaints": [], "complaint_record_ids": []},
+        {"name": "Lead-generation sellers: ad agencies and lead marketplaces (e.g. BM Digital Marketing, Dubai Property Leads)", "url": "https://www.bmmarketing.ae/dubai-real-estate-lead-generation-campaigns-why-cost-per-lead-is-not-always-predictable/", "complaints": ["A seller's own page says cost per lead is not always predictable.", "Sellers pitch 'no spam, no fake leads' and warn of dud leads, which shows buyers fear fake and poor leads."], "complaint_record_ids": ["71d4dac2840a9fb4", "24e7ee1ae71089fc", "6867e1f3a6873143", "e853fde29cf5f0a9"]}
+      ],
+      "spend_evidence": [
+        {"kind": "record", "record_id": "ad447c6d2dcc667d"},
+        {"kind": "record", "record_id": "71d4dac2840a9fb4"},
+        {"kind": "job_posting", "record_id": "d1f64810aa310b62"},
+        {"kind": "job_posting", "record_id": "38fe1f3049ee427e"},
+        {"kind": "job_posting", "record_id": "512ef7c5b37ae27c"},
+        {"kind": "price", "url": "https://dubaipropertyleads.ae/blog/best-lead-generation-for-dubai-brokers"},
+        {"kind": "price", "url": "https://joinoliva.com/en/learn/blog/property-finder-vs-bayut-platform-comparison-2026"}
+      ],
+      "ladder_position": 4,
+      "quotes": [
+        {"record_id": "9adbb59ab470a903", "url": "https://www.quora.com/How-do-I-get-listings-in-real-estate-in-Dubai", "date": null, "text": "How do I get listings in real estate in Dubai?"},
+        {"record_id": "65cc6dcb53a6013a", "url": "https://www.quora.com/How-do-I-generate-leads-for-real-estate-sales-in-Dubai", "date": null, "text": "How to generate leads for real estate sales in Dubai"},
+        {"record_id": "9d4577c5aad18be8", "url": "https://www.quora.com/How-can-I-find-more-real-estate-clients-in-Dubai", "date": null, "text": "How to find more real estate clients in Dubai"},
+        {"record_id": "a72317d262ad8677", "url": "https://www.quora.com/How-can-we-find-the-owner-s-name-and-contact-number-of-land-in-Dubai-if-we-have-only-the-title-deed-number-or-property-number", "date": null, "text": "How can we find the owner’s name and contact number of land in Dubai if we have only the title deed number or property number?"}
+      ]
+    },
+    {
+      "pain_key": "commission-squeeze",
+      "description": "You will never get paid on time. Agents beg for their commission, one agent lost €75k in commission, and a brokerage had to go to court to collect Dh100,000 of unpaid commission. Sellers try to cut out the middleman.",
+      "urgency": {
+        "type": "acute_pain",
+        "evidence": "An agent lost €75k in commission. A review says agents are never paid on time and must beg for their commission. A court had to order an investor to pay Dh100,000 of unpaid brokerage commission.",
+        "record_ids": ["b28eb932775a696c", "a7f5a3889c4d9f9d", "abfb22ce9261a370"],
+        "reasoning": "The money is already lost or late, so it hurts now. Only two member records show it; the rest are news titles.",
+        "confidence": "moderate"
+      },
+      "who_pays": {
+        "text": "The brokerage and its agents carry the loss. To recover it, they pay lawyers and court fees themselves.",
+        "reasoning": "Commission is the brokerage's only income and the agent's pay. A search result puts lawyer fees for a civil case in Dubai from AED 20,000.",
+        "confidence": "moderate"
+      },
+      "alternatives": [
+        {"what": "Human substitute: a Dubai lawyer to bring a civil case, e.g. to recover unpaid commission (lawyer fees at the start)", "price_text": "AED 20,000", "amount": 20000, "currency": "AED", "unit": "case", "url": "https://hhslawyers.com/blog/lawyer-cost-dubai-legal-fees/", "seen_via": "search"},
+        {"what": "A first legal consultation with a Dubai lawyer", "price_text": "between AED 500 and AED 1,500", "amount": 500, "currency": "AED", "unit": "consultation", "url": "https://hhslawyers.com/blog/lawyer-cost-dubai-legal-fees/", "seen_via": "search"}
+      ],
+      "sellers": [
+        {"name": "Co-broke (digital agent-to-agent contracts that secure commission splits)", "url": "https://co-broke.app/", "complaints": [], "complaint_record_ids": []},
+        {"name": "Dubai law firms that take commission claims (e.g. HHS Lawyers)", "url": "https://hhslawyers.com/blog/lawyer-cost-dubai-legal-fees/", "complaints": [], "complaint_record_ids": []}
+      ],
+      "spend_evidence": [
+        {"kind": "record", "record_id": "b28eb932775a696c"},
+        {"kind": "record", "record_id": "a7f5a3889c4d9f9d"},
+        {"kind": "record", "record_id": "abfb22ce9261a370"},
+        {"kind": "record", "record_id": "573780f020fbb3c8"},
+        {"kind": "price", "url": "https://hhslawyers.com/blog/lawyer-cost-dubai-legal-fees/"}
+      ],
+      "ladder_position": 7,
+      "quotes": [
+        {"record_id": "a7f5a3889c4d9f9d", "url": "https://www.glassdoor.com/Reviews/Employee-Review-AX-CAPITAL-Real-Estate-E5247079-RVW74527329.htm", "date": null, "text": "You will never get paid on time (ideal company for those who loves bagging for their commission)"},
+        {"record_id": "b28eb932775a696c", "url": "https://www.youtube.com/watch?v=-jS_E4lUL-o", "date": null, "text": "How I Lost €75k in Commission as a Real Estate Agent in Dubai"},
+        {"record_id": "abfb22ce9261a370", "url": "https://gulfnews.com/uae/crime/dubai-court-orders-investor-to-pay-dh100000-for-unpaid-burj-khalifa-brokerage-commission-1.500372548", "date": null, "text": "Dubai Court orders investor to pay Dh100,000 for unpaid Burj Khalifa brokerage commission"},
+        {"record_id": "47b6310647295a4f", "url": "https://gulfnews.com/amp/story/uae%2Fask-the-law%2Fdo-employers-have-the-right-to-withhold-real-estate-brokers-commission-in-dubai-1.500273365", "date": null, "text": "When can employers legally withhold real estate commissions in Dubai"},
+        {"record_id": "d5a65813499adba9", "url": "https://gulfnews.com/business/property/dubais-property-sellers-out-to-cut-the-middleman-1.1565337", "date": null, "text": "Dubai’s property sellers out to cut the middleman"}
+      ]
+    },
+    {
+      "pain_key": "agent-churn",
+      "description": "Why I failed in Dubai real estate. New agents struggle to close and quit. Firms hire more brokers, but retention rates remain weak, so they keep re-hiring in a talent war.",
+      "urgency": {
+        "type": "acute_pain",
+        "evidence": "A first-person video on failing in Dubai real estate. National news says Dubai firms hire more brokers but retention rates remain weak, and that agent failure rates are way too high.",
+        "record_ids": ["c19a25506fbdd11d", "2bde480ffa644194", "e4b82cf8fc8eb1bd"],
+        "reasoning": "Each agent who fails leaves the floor short, and the firm pays again to hire and license a replacement. Only one member record shows it; the rest are news and recruiter titles.",
+        "confidence": "low"
+      },
+      "who_pays": {
+        "text": "The brokerage pays to replace each agent who leaves: the visa, the RERA course and card, and recruiting. Agents who fail pay with months of unpaid time.",
+        "reasoning": "A search result says the employer bears the visa cost under UAE labour law. A recruiter's page and a relocation job post show firms pay to refill the floor.",
+        "confidence": "moderate"
+      },
+      "alternatives": [
+        {"what": "RERA training course, exam and broker card for each new agent", "price_text": "around AED 3,900", "amount": 3900, "currency": "AED", "unit": "agent", "url": "https://dxbtraining.ae/blog/article/12/rera-course-dubai-price-in-2026-official-fees,-hidden-costs,-and-what-you-actually-pay", "seen_via": "search"},
+        {"what": "Two-year employment visa, medical and Emirates ID for each new agent (the employer pays)", "price_text": "AED 3,500-6,000", "amount": 3500, "currency": "AED", "unit": "agent", "url": "https://setupdubai.business/2-year-dubai-employment-visa-price/", "seen_via": "search"},
+        {"what": "Sales and closing skills course for agents (Innovation Experts Real Estate Institute)", "price_text": "AED 1,600", "amount": 1600, "currency": "AED", "unit": "course", "url": "https://ierei.ae/en/courses", "seen_via": "search"}
+      ],
+      "sellers": [
+        {"name": "Axe Recruiting (recruits agents for Dubai brokerages)", "url": "https://axerecruiting.com/dubai-brokerage-hiring-arms-race-2025/", "complaints": [], "complaint_record_ids": []},
+        {"name": "RERA training institutes (e.g. DX Broker Training)", "url": "https://dxbtraining.ae/", "complaints": [], "complaint_record_ids": []},
+        {"name": "Sales training for agents (e.g. Innovation Experts Real Estate Institute)", "url": "https://ierei.ae/en/courses", "complaints": [], "complaint_record_ids": []}
+      ],
+      "spend_evidence": [
+        {"kind": "record", "record_id": "023e9197cf62141d"},
+        {"kind": "record", "record_id": "9bffbff544c49d56"},
+        {"kind": "job_posting", "record_id": "fcc02127c84f9b1e"},
+        {"kind": "price", "url": "https://dxbtraining.ae/blog/article/12/rera-course-dubai-price-in-2026-official-fees,-hidden-costs,-and-what-you-actually-pay"},
+        {"kind": "price", "url": "https://setupdubai.business/2-year-dubai-employment-visa-price/"}
+      ],
+      "ladder_position": 3,
+      "quotes": [
+        {"record_id": "c19a25506fbdd11d", "url": "https://www.youtube.com/watch?v=lckCz_I66hQ", "date": null, "text": "Why I Failed in Dubai Real Estate"},
+        {"record_id": "2bde480ffa644194", "url": "https://www.thenationalnews.com/business/money/2025/10/30/dubai-real-estate-agents-salaries/", "date": "2025-10-30", "text": "Dubai real estate companies increase hiring of brokers, but retention rates remain weak"},
+        {"record_id": "e4b82cf8fc8eb1bd", "url": "https://gulfnews.com/business/property/failure-rates-among-dubais-estate-agents-are-way-too-high-1.1605502111556", "date": null, "text": "failure rates among dubais estate agents are way too high"},
+        {"record_id": "023e9197cf62141d", "url": "https://axerecruiting.com/dubai-brokerage-hiring-arms-race-2025/", "date": null, "text": "Dubai’s Brokerage Hiring Arms Race: How Real Estate Firms Can Still Win the Talent War"}
+      ]
+    },
+    {
+      "pain_key": "listing-ad-rules",
+      "description": "The new DLD rule to get Trakheesi: every ad needs a permit. Listings must be updated within 3 days, and sold ones removed. Brokers who break the ad rules are fined: the DLD fined 256 brokers in six months and warns of fines up to Dh50,000.",
+      "urgency": {
+        "type": "deadline_or_rule",
+        "evidence": "Every ad needs a DLD Trakheesi permit. Listings must be updated within 3 days. The DLD fined 256 brokers in six months and warns brokers to remove illegal ads or face fines up to Dh50,000.",
+        "record_ids": ["2e499c85cbf6ac0e", "4e8da7491412cabf", "82ba6d8c4260150b", "286e704d6675031d"],
+        "reasoning": "A regulator's rule, enforced with fines, forces action on every listing. The rule is well documented by the DLD and news, but only one member record asks about it.",
+        "confidence": "high"
+      },
+      "who_pays": {
+        "text": "The brokerage pays a Trakheesi permit fee for each ad, any DLD fines, and CRM tools that check permit numbers.",
+        "reasoning": "The DLD issues ad permits to licensed brokers and firms and fines both brokers and firms that break the ad rules.",
+        "confidence": "moderate"
+      },
+      "alternatives": [
+        {"what": "Trakheesi advertising permit from the DLD (sources conflict: this guide and allrealestate.ae give about AED 1,000 plus fees; the next item gives AED 220)", "price_text": "AED 1,020 per ad type", "amount": 1020, "currency": "AED", "unit": "permit", "url": "https://egsh.ae/insights/trakheesi-permit-dubai-advertising-compliance", "seen_via": "search"},
+        {"what": "Trakheesi listing permit, lower figure from another guide (sources conflict)", "price_text": "AED 220 per listing permit", "amount": 220, "currency": "AED", "unit": "listing", "url": "https://realestateclubdubai.com/blog/property-management/trakheesi-permit-in-dubai-what-it-is-how-to-get-it-and-why-short-term-landlords-need-one", "seen_via": "search"},
+        {"what": "CRM that checks Trakheesi permit numbers before listings go to the portals (PropSpace Broker, price per user)", "price_text": "AED 176 per user per month", "amount": 176, "currency": "AED", "unit": "month", "url": "https://www.propspace.com/pricing", "seen_via": "search"}
+      ],
+      "sellers": [
+        {"name": "Property Finder and Bayut (portals that enforce the DLD ad rules)", "url": "https://support.propertyfinder.ae/hc/en-us/articles/24640519664530-How-to-Apply-for-a-Trakheesi-Permit", "complaints": ["Portals raised ad rates for brokers over the new Land Department rules."], "complaint_record_ids": ["3a80091886f113f2"]},
+        {"name": "PropSpace (CRM that validates Trakheesi permit numbers)", "url": "https://www.propspace.com/pricing", "complaints": [], "complaint_record_ids": []},
+        {"name": "EGSH (DLD service centre that applies for Trakheesi permits)", "url": "https://egsh.ae/services/real-estate-advertising-permit-in-dubai", "complaints": [], "complaint_record_ids": []}
+      ],
+      "spend_evidence": [
+        {"kind": "record", "record_id": "4d00abebb4edaba9"},
+        {"kind": "record", "record_id": "2bf9a1d9ddbc7efb"},
+        {"kind": "price", "url": "https://egsh.ae/insights/trakheesi-permit-dubai-advertising-compliance"},
+        {"kind": "price", "url": "https://allrealestate.ae/guides/trakheesi-permit-cost-dubai"},
+        {"kind": "price", "url": "https://realestateclubdubai.com/blog/property-management/trakheesi-permit-in-dubai-what-it-is-how-to-get-it-and-why-short-term-landlords-need-one"},
+        {"kind": "price", "url": "https://www.propspace.com/pricing"}
+      ],
+      "ladder_position": 5,
+      "quotes": [
+        {"record_id": "2e499c85cbf6ac0e", "url": "https://www.facebook.com/groups/dubairealestatemarketbuysellrent/posts/24665955176394295/", "date": null, "text": "If anyone has an idea about new dld rule to get trakheesi"},
+        {"record_id": "82ba6d8c4260150b", "url": "https://dubailand.gov.ae/en/news-media/dubai-land-department-fines-256-brokers-for-failing-to-comply-with-advertising-terms-and-conditions-over-the-past-six-months/", "date": null, "text": "Dubai Land Department fines 256 brokers for failing to comply with advertising terms and conditions over the past six months"},
+        {"record_id": "4e8da7491412cabf", "url": "https://gulfnews.com/business/property/dubai-real-estate-brokers-must-update-listings-within-3-days-rera-1.1707920052911", "date": null, "text": "Dubai real estate brokers must update listings within 3 days: RERA"},
+        {"record_id": "286e704d6675031d", "url": "https://gulfnews.com/business/property/remove-illegal-ads-or-face-fines-up-to-dh50000-dubai-property-brokers-warned-1.1714362262485", "date": null, "text": "remove illegal ads or face fines up to dh50000 dubai property brokers warned"}
+      ]
+    }
+  ]
+}

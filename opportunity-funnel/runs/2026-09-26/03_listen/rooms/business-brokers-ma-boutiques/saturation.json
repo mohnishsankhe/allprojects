@@ -31,12 +31,64 @@
       "window_used": 896
     },
     {
-      "evaluable": false,
-      "new_pains": [],
-      "new_records": 83,
-      "note": "not evaluable: the last 300 records hold 27 member records, fewer than 30, too few to show a new pain",
-      "rank_changes": [],
-      "records": 979,
+      "evaluable": true,
+      "new_pains": [
+        "buyer-financing-fails"
+      ],
+      "new_records": 707,
+      "rank_changes": [
+        {
+          "key": "bad-office-management",
+          "rank_after": 2,
+          "rank_before": 7
+        },
+        {
+          "key": "broker-reputation",
+          "rank_after": 3,
+          "rank_before": 7
+        },
+        {
+          "key": "cut-out-of-commission",
+          "rank_after": 11,
+          "rank_before": 9
+        },
+        {
+          "key": "deals-die-after-loi",
+          "rank_after": 7,
+          "rank_before": 3
+        },
+        {
+          "key": "licensing-rules",
+          "rank_after": 8,
+          "rank_before": 9
+        },
+        {
+          "key": "listings-never-sell",
+          "rank_after": 8,
+          "rank_before": 5
+        },
+        {
+          "key": "tire-kicker-buyers",
+          "rank_after": 8,
+          "rank_before": 5
+        },
+        {
+          "key": "unrealistic-seller-expectations",
+          "rank_after": 4,
+          "rank_before": 2
+        },
+        {
+          "key": "valuation-doesnt-hold-up",
+          "rank_after": 11,
+          "rank_before": 9
+        },
+        {
+          "key": "winning-listings",
+          "rank_after": 6,
+          "rank_before": 4
+        }
+      ],
+      "records": 1603,
       "round": 2,
       "saturated": false,
       "taxonomy_keys": [
@@ -56,8 +108,8 @@
         "winning-listings"
       ],
       "window": 300,
-      "window_member_records": 27,
-      "window_used": 300
+      "window_member_records": 55,
+      "window_used": 707
     }
   ],
   "stop_reason": null,

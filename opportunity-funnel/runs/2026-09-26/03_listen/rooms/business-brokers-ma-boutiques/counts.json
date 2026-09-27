@@ -1,5 +1,5 @@
 {
-  "labeled": 979,
+  "labeled": 1603,
   "notes": [],
   "pains": {
     "bad-office-management": {
@@ -9,12 +9,24 @@
       "media_record_ids": [],
       "media_records": 0,
       "member_record_ids": [
+        "04f9d1c1c904d0b8",
+        "0982fa5bb601ace6",
+        "1138a61ad2d0555e",
+        "1baf52e8fbe17bd8",
         "395420794d14c057",
-        "825b74e6f544f68b"
+        "4ebfd9798abec63b",
+        "661b6d5633e2f2d2",
+        "73b060eeb2a8ace3",
+        "825b74e6f544f68b",
+        "a17cad840128abca",
+        "d02b24f4e6106328",
+        "f8e59b35467423fb"
       ],
-      "money_mentions": 0,
-      "money_record_ids": [],
-      "record_count": 2,
+      "money_mentions": 1,
+      "money_record_ids": [
+        "1138a61ad2d0555e"
+      ],
+      "record_count": 12,
       "seller_record_ids": [],
       "seller_records": 0
     },
@@ -23,6 +35,7 @@
       "failed_spend_record_ids": [],
       "label": "The industry's terrible reputation ('used car salesmen', 'scam')",
       "media_record_ids": [
+        "1727d3c4a69d6837",
         "1b40e0e19be2c098",
         "36aeacbd1131246f",
         "38a1213c648dfc82",
@@ -37,16 +50,23 @@
         "e59750d48a328dc2",
         "f03cd031a45828d7",
         "f0ec3993bca12065",
-        "f61d57088683569f"
+        "f61d57088683569f",
+        "fcc0c435bc15f8cb",
+        "ff0f88ef60196b47"
       ],
-      "media_records": 15,
+      "media_records": 18,
       "member_record_ids": [
+        "1138a61ad2d0555e",
+        "4ebfd9798abec63b",
+        "a17cad840128abca",
         "be01f556399cd7f3",
         "e009fb5b61f50f60"
       ],
-      "money_mentions": 0,
-      "money_record_ids": [],
-      "record_count": 2,
+      "money_mentions": 1,
+      "money_record_ids": [
+        "1138a61ad2d0555e"
+      ],
+      "record_count": 5,
       "seller_record_ids": [],
       "seller_records": 0
     },
@@ -56,20 +76,34 @@
       "label": "Buyer financing falls through (stricter SBA rules, banks say no)",
       "media_record_ids": [
         "09b71f9ba90169a0",
+        "1aeebe00a8417761",
+        "22265c4a20743f6b",
+        "234c1950e2c4ce3e",
+        "4ced70fb5022683f",
+        "4d3a5d0ec0034f4b",
+        "71a0d9f6601956da",
+        "9529cdcfc4ae159d",
         "aaf945eb4e10e00d",
         "afcca4d3137ef994",
-        "c01782a4acb155ac",
+        "c024b09646f82d5f",
+        "d6beb6c9a583c119",
+        "d87f4e1bc0e8b269",
         "e55aa91a3080da6c"
       ],
-      "media_records": 5,
-      "member_record_ids": [],
-      "money_mentions": 0,
-      "money_record_ids": [],
-      "record_count": 0,
-      "seller_record_ids": [
-        "ac5cd6b850630fb6"
+      "media_records": 14,
+      "member_record_ids": [
+        "09343b5e33aebece"
       ],
-      "seller_records": 1
+      "money_mentions": 1,
+      "money_record_ids": [
+        "09343b5e33aebece"
+      ],
+      "record_count": 1,
+      "seller_record_ids": [
+        "495bb0f7aa60c137",
+        "f15d66f1d59f3d63"
+      ],
+      "seller_records": 2
     },
     "cut-out-of-commission": {
       "failed_spend_mentions": 0,
@@ -77,9 +111,10 @@
       "label": "Getting cut out of deals and commissions",
       "media_record_ids": [
         "15b53905272ff74a",
-        "7cef424bc32e9c0f"
+        "7cef424bc32e9c0f",
+        "ca93e143e8cbedc9"
       ],
-      "media_records": 2,
+      "media_records": 3,
       "member_record_ids": [
         "41f61ecdf40c8305"
       ],
@@ -94,6 +129,7 @@
       "failed_spend_record_ids": [],
       "label": "Deals fall apart after the LOI (deal killers, retrades, deal fatigue)",
       "media_record_ids": [
+        "013b69d7c59309ab",
         "064b4f5213ad1d01",
         "16b5141177d0d953",
         "18a502027268284a",
@@ -103,9 +139,10 @@
         "9234b99427dc0765",
         "c71377437fc531c7",
         "ce452e34ea8b602f",
-        "d36f1187c5349811"
+        "d36f1187c5349811",
+        "ff0f88ef60196b47"
       ],
-      "media_records": 10,
+      "media_records": 12,
       "member_record_ids": [
         "10419b6aa80d7e8b",
         "1b7bea88b2b1fc4e",
@@ -128,11 +165,17 @@
       "media_record_ids": [
         "0496ef3eb2238c4d",
         "2ba33474333ab04a",
+        "63cef1d26b34ec13",
+        "63f1f3d7aa16da03",
+        "71d73cccbb587432",
         "75456c9b56426d06",
+        "7751a8182ded8e94",
         "7cb5a528efb16e02",
+        "92145d8396002ad9",
+        "b72b3edfcc403045",
         "eb7d6512f3476f40"
       ],
-      "media_records": 5,
+      "media_records": 11,
       "member_record_ids": [
         "23949cfee1349c74",
         "8110b1ab3f167ef6",
@@ -158,11 +201,13 @@
       "media_record_ids": [],
       "media_records": 0,
       "member_record_ids": [
-        "5f39f06be6677e1a"
+        "5f39f06be6677e1a",
+        "6a1fe498c0ebd64f",
+        "b1d8efd19ec41b7a"
       ],
       "money_mentions": 0,
       "money_record_ids": [],
-      "record_count": 1,
+      "record_count": 3,
       "seller_record_ids": [],
       "seller_records": 0
     },
@@ -216,9 +261,10 @@
       "failed_spend_record_ids": [],
       "label": "Tire kickers and unqualified buyers who never close",
       "media_record_ids": [
-        "7b11ff7cd0752630"
+        "7b11ff7cd0752630",
+        "f7fff65a96f5a5fb"
       ],
-      "media_records": 1,
+      "media_records": 2,
       "member_record_ids": [
         "05b2fe019360a408",
         "9b66287baa79daa1",
@@ -228,7 +274,7 @@
       "money_record_ids": [],
       "record_count": 3,
       "seller_record_ids": [
-        "ac5cd6b850630fb6"
+        "5e2bd68b86b73843"
       ],
       "seller_records": 1
     },
@@ -280,10 +326,11 @@
       "failed_spend_record_ids": [],
       "label": "Valuations and add-backs that buyers and lenders strip",
       "media_record_ids": [
+        "295af50a6d9b8e88",
         "5ebae6eae218f7e6",
         "ef4673cbf3316d36"
       ],
-      "media_records": 2,
+      "media_records": 3,
       "member_record_ids": [
         "4780e8da4a942aee"
       ],
@@ -306,48 +353,58 @@
       "media_records": 2,
       "member_record_ids": [
         "03b93f10e04006f2",
+        "0f93f6df6a8aaf85",
         "494a0c8249c8856f",
+        "4c41d9bc82524298",
         "5c18816cbee7d99f",
         "72a12124181a99e4",
-        "d7d0ec27400031a6"
+        "8b930c14969cd3cd",
+        "d7d0ec27400031a6",
+        "f676245433c95183"
       ],
       "money_mentions": 0,
       "money_record_ids": [],
-      "record_count": 5,
+      "record_count": 9,
       "seller_record_ids": [
+        "0c1e10e9b44dd818",
         "0d0b5e59f2465041",
+        "8b140e15f3dc9e63",
         "d3c3a5e272772c79"
       ],
-      "seller_records": 2
+      "seller_records": 4
     }
   },
-  "records_in_manifest": 979,
+  "records_in_manifest": 1603,
   "room": "business-brokers-ma-boutiques",
   "totals": {
     "by_kind": {
-      "blog_or_site": 509,
-      "forum": 99,
-      "jobs": 80,
-      "news": 10,
-      "official": 27,
-      "qa": 41,
-      "reviews": 88,
-      "social": 28,
-      "video": 97
+      "blog_or_site": 772,
+      "forum": 106,
+      "jobs": 135,
+      "news": 16,
+      "official": 49,
+      "qa": 94,
+      "reviews": 146,
+      "social": 71,
+      "video": 214
     },
     "by_source": {
-      "websearch": 979
+      "websearch": 1603
     },
     "by_voice": {
-      "media": 214,
-      "member": 88,
-      "other": 501,
-      "seller": 176
+      "media": 331,
+      "member": 142,
+      "other": 888,
+      "seller": 242
     },
     "failed_spend_mentions": 0,
-    "member_records": 88,
-    "member_records_with_pain": 32,
-    "money_mentions": 15,
+    "member_records": 142,
+    "member_records_by_round": {
+      "1": 87,
+      "2": 55
+    },
+    "member_records_with_pain": 49,
+    "money_mentions": 21,
     "source_kind_min_records": 5,
     "source_kinds": [
       "blog_or_site",

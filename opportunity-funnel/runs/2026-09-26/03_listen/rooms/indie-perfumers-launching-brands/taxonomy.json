@@ -143,9 +143,18 @@
       "added_round": 2,
       "reasoning": "Round 2 brought a few perfume-specific member questions about names (where to find registered perfume names, whether 'Elsa' can be a perfume name, how different a name must be) and several pages selling trademark registration. Support is still modest.",
       "confidence": "moderate"
+    },
+    {
+      "key": "clone-a-perfume",
+      "label": "Had GC/MS done on a scent. Got the results back, how do I recreate it?",
+      "definition": "The person wants to copy one specific existing perfume (clone it) and cannot get a working formula: how to reverse-engineer it, whether to pay for a GC-MS analysis (a lab test that lists the molecules in a perfume) or a scent-matching service, which lab to use, and how to turn the results into a formula that smells right. Paying a lab, a matching service or a perfumer to copy a perfume belongs here; hiring a perfumer for an original scent belongs to hire-a-perfumer. Whether selling the copy is legal belongs to dupes-legal-risk. A beginner who asks how to copy a perfume may carry both this pain and first-perfume-beginner.",
+      "added_round": 3,
+      "reasoning": "Round 3 brought about ten Basenotes threads from makers trying to clone a perfume: comparing paid GC-MS services, asking how to turn GC-MS data into a formula, and one member who had GC/MS done, got the results back and asks how to recreate it.",
+      "confidence": "high"
     }
   ],
   "reviewed_rounds": [
-    2
+    2,
+    3
   ]
 }

@@ -1,0 +1,92 @@
+{
+  "used": [
+    {
+      "source": "Web search (Claude's built-in search tool): result titles and URLs only",
+      "adapter": "harvest-search",
+      "status": "allowed-with-limits (config/sources.md)",
+      "queries": 219,
+      "queries_by_round": {"1": 111, "2": 108},
+      "queries_by_kind": {"qa": 43, "forum": 37, "reviews": 25, "pricing": 22, "phrasing": 22, "video": 21, "blog": 17, "official": 17, "jobs": 15},
+      "records_stored": 1721,
+      "records_labeled": 1684,
+      "records_left_out_by_batches": {"duplicate_text": 28, "older_than_24_months": 9},
+      "records_labeled_by_round": {"1": 835, "2": 849},
+      "records_labeled_by_query_kind": {"qa": 358, "forum": 271, "reviews": 199, "video": 188, "pricing": 164, "phrasing": 144, "jobs": 137, "official": 113, "blog": 110},
+      "records_by_site_kind": {"blog_or_site": 577, "qa": 319, "reviews": 223, "video": 162, "jobs": 154, "social": 138, "news": 40, "official": 36, "forum": 35},
+      "source_kinds_with_5_or_more_records": 9,
+      "records_by_voice": {"member": 0, "seller": 490, "media": 256, "other": 938},
+      "voice_by_site_kind": {
+        "blog_or_site": {"seller": 313, "other": 152, "media": 112},
+        "qa": {"other": 311, "seller": 8},
+        "reviews": {"seller": 117, "other": 106},
+        "video": {"other": 90, "media": 59, "seller": 13},
+        "jobs": {"other": 153, "media": 1},
+        "social": {"media": 63, "other": 47, "seller": 28},
+        "news": {"media": 21, "other": 19},
+        "official": {"other": 31, "seller": 5},
+        "forum": {"other": 29, "seller": 6}
+      },
+      "domains": 436,
+      "dated_labeled_records": 14,
+      "undated_labeled_records": 1670,
+      "note": "Only search-result titles are stored, so every record is thin evidence [titles only]. Most queries asked forums and Q&A sites, but the forum and Q&A titles came from borrowers, job seekers and people outside India's lender and insurer floors, never from a floor head speaking for themself."
+    }
+  ],
+  "skipped": [
+    {
+      "source": "Calls with sales and collections heads at Indian lenders and insurers (the founder's warm path w5)",
+      "reason": "Listeners never contact anyone (rule). Public text held no member voice, so only the founder can get it.",
+      "would_add": "The room's own words for the 15 taxonomy pains. Start with those that have the most seller and media text: TRAI's 1600- and 140-series calling rules (25 seller, 48 media records), RBI's recovery-call conduct rules and fines (11 seller, 29 media), DLT template rejections (26 seller, 10 media) and DPDP consent (12 seller, 15 media). Calls would also show what floors already pay for dialers, voice bots and call audits, and which of those buys failed."
+    },
+    {
+      "source": "Industry summits where the room gathers (Credit & Collections Summit India, Bharat Collection Summit, ET Edge NBFC NXT Summit)",
+      "reason": "Offline events. Their talks are not public text, and going there means contacting people.",
+      "would_add": "Floor heads' own statements of problems on panels. Talk recordings, if posted, reach the pipeline only as search titles."
+    },
+    {
+      "source": "Founder's chat exports (inbox/closed_groups/lender-insurer-telesales-floors-india/)",
+      "reason": "No inbox records are stored for this room: every record came from web search.",
+      "would_add": "Messages from existing TinyAI clients or contacts who run calling floors at lenders or insurers. This is the most likely source of member voice in writing."
+    },
+    {
+      "source": "Public web pages, full text (G2 and Capterra review bodies, pricing pages, job posts, Quora answers)",
+      "reason": "Blocked by the network in this environment (config/sources.md: blocked-by-network).",
+      "would_add": "The text behind the 1,684 titles. G2 and Capterra reviews of Ozonetel, Exotel, LeadSquared and Convin show each reviewer's industry and company size, so some would be floor heads' own complaints. Pricing pages could be confirmed on the page, and the duties in the 154 job-board records would be readable."
+    },
+    {
+      "source": "LinkedIn posts and comments (full text)",
+      "reason": "LinkedIn's terms forbid automated collection. Posts reach the pipeline only as search titles (135 labeled LinkedIn post records: 62 media, 45 other, 28 seller, none from a member).",
+      "would_add": "Likely the public place where Indian collections and tele-sales heads write most about targets, contact rates and the new calling rules."
+    },
+    {
+      "source": "YouTube Data API v3 (comments)",
+      "reason": "No API key was given (config/sources.md: skip).",
+      "would_add": "Dated comments under the 162 video records (collection-call training, telecalling, TRAI rules). Likely mostly staff and trainers, with some managers."
+    },
+    {
+      "source": "Reddit Data API",
+      "reason": "No key was given, and Reddit requires pre-approval for all API access (config/sources.md: skip).",
+      "would_add": "Full text of Indian workplace and personal-finance threads. The 9 Reddit-aimed searches returned no reddit.com result at all, so Reddit is unheard in this room. Its threads likely carry borrowers' and floor staff's voices more than floor heads'."
+    },
+    {
+      "source": "Google Play reviews",
+      "reason": "No official API, and Google's terms forbid scraping (config/sources.md: skip).",
+      "would_add": "Reviews of the telecalling and dialer apps seen in search (GoDial, Runo, Telecrm, NeoDove, Calley) by managers and callers who use them."
+    },
+    {
+      "source": "Apple App Store reviews feed",
+      "reason": "Blocked by the network (config/sources.md: blocked-by-network).",
+      "would_add": "A few dated reviews of telecalling CRMs listed there (for example Telecrm)."
+    },
+    {
+      "source": "Stack Exchange API and Hacker News (Algolia) API",
+      "reason": "Blocked by the network (config/sources.md: blocked-by-network).",
+      "would_add": "Little for this room. The Hacker News titles seen in search were unrelated to Indian lender or insurer floors."
+    }
+  ],
+  "needs_calls": {
+    "value": true,
+    "reasoning": "The room is businesses whose sales and collections heads meet at summits, not in public forums, and 1,684 public records held no member voice (0 member, 490 seller, 256 media, 938 other). Calls with floor heads are the only way to hear these pains in their own words and to confirm what they already pay for.",
+    "confidence": "high"
+  }
+}

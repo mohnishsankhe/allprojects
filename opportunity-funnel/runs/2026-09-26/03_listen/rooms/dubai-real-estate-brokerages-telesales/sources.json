@@ -1,0 +1,44 @@
+{
+  "used": [
+    {
+      "source": "Web search (the built-in search tool); titles and URLs stored as records by harvest-search",
+      "queries": 213,
+      "queries_by_round": {"1": 123, "2": 90},
+      "queries_by_kind": {"forum": 49, "phrasing": 29, "qa": 25, "video": 24, "reviews": 20, "pricing": 19, "blog": 18, "official": 15, "jobs": 14},
+      "records_stored": 1516,
+      "records_labeled": 1472,
+      "records_by_site_kind": {"blog_or_site": 614, "jobs": 165, "video": 141, "qa": 139, "news": 121, "social": 111, "reviews": 103, "official": 52, "forum": 26},
+      "source_kinds_with_5_or_more_records": 9,
+      "records_by_voice": {"member": 29, "seller": 290, "media": 296, "other": 857},
+      "member_records_by_round": {"1": 21, "2": 8},
+      "records_from_room_places": {"linkedin.com": 162, "quora.com (incl. subdomains)": 140, "youtube.com": 118, "glassdoor": 51, "trustpilot": 35, "facebook.com": 29, "expatforum.com": 26, "tiktok.com": 23, "x.com": 6, "groups.google.com": 1, "reddit.com": 0},
+      "note": "Titles only: no page text, and almost no dates (1494 of 1516 records are undated). Counts come from funnel count and listen-status; stored minus labeled is the scripts' own filtering."
+    },
+    {
+      "source": "Web search for prices during synthesis (not stored as records)",
+      "queries": 33,
+      "use": "Alternatives' price_text, copied from search results (seen_via search). One page fetch to confirm a price (dubaipropertyleads.ae) was blocked by the network, so no price is confirmed on its page."
+    }
+  ],
+  "skipped": [
+    {"source": "Public web pages, full text (web adapter)", "reason": "blocked-by-network: the egress proxy blocks page fetches (config/sources.md).", "would_add": "Full text of Gulf News, Khaleej Times and DLD articles, review bodies and forum threads, and a price check on each price page (every price here is [measured, page not checked])."},
+    {"source": "Reddit Data API", "reason": "skip: no key, and Reddit requires pre-approval for API access since November 2025 (config/sources.md). Web search found no Reddit records for this room.", "would_add": "First-person threads from Dubai expat and property subreddits on commission-only pay, leads and the calling rules."},
+    {"source": "YouTube Data API (comments)", "reason": "skip: no API key given (config/sources.md).", "would_add": "Dated comments under the agent videos already found (118 titles, e.g. 'Why I Failed in Dubai Real Estate', 'How I Lost €75k in Commission'), where agents describe their own problems."},
+    {"source": "Facebook groups (Dubai real estate buy/sell/rent and Dubai career groups)", "reason": "skip: full posts and replies need a login, which rule 4 forbids; 29 post titles came through web search.", "would_add": "Brokers' own questions with peer answers and dates, such as the question on the new DLD Trakheesi rule."},
+    {"source": "LinkedIn posts and comments", "reason": "skip: full text needs a login; job boards and LinkedIn forbid scraping; 162 titles came through web search.", "would_add": "Brokerage owners' and sales directors' own posts on hiring, agent turnover, the cold-calling rules and portal costs. The room's owners write mostly here."},
+    {"source": "Glassdoor and Indeed review text", "reason": "skip: their terms forbid scraping; titles only (51 Glassdoor titles).", "would_add": "Agents' reviews of brokerages on pay, late commission and why they leave."},
+    {"source": "Trustpilot review pages (Bayut, PropSpace, lead sellers)", "reason": "blocked-by-network (public web pages); 35 titles only, with no review text.", "would_add": "Dated complaints about portals, CRMs and lead vendors. The sellers' complaints in pains_draft.json are thin without them."},
+    {"source": "Apple App Store reviews (Property Finder and Bayut agent apps)", "reason": "blocked-by-network (config/sources.md). Google Play is skipped: no official API, and scraping is forbidden.", "would_add": "Dated agent complaints about the portals' agent apps and lead handling."},
+    {"source": "Closed WhatsApp and Telegram broker groups", "reason": "skip: private groups; only the founder's own exports in inbox/ may be used, and this room has none (all 1516 records are web search).", "would_add": "The room's daily talk on co-broking, leads, listings, permits and the calling rules. This is where Dubai brokers mostly talk to each other."},
+    {"source": "Dubai Property Forum (Google Groups)", "reason": "blocked-by-network (public web pages); web search surfaced 1 record.", "would_add": "Dated first-person threads by brokers and investors."},
+    {"source": "Dubai Real Estate Brokerage and Property Management Group (business group under Dubai Chambers)", "reason": "skip: a members' business group with events; no public discussion was found.", "would_add": "Owners' shared positions on regulation, portal costs and hiring."}
+  ],
+  "needs_calls": {
+    "value": true,
+    "reasoning": "The room is businesses: brokerage owners and sales directors who talk in closed WhatsApp groups, on LinkedIn and at industry events, not in public forums. Public search gave 29 member records out of 1,472, and round 2 added only 8, so the room stopped as exhausted, not saturated; the calling-rule, lead follow-up and AML pains have no member voice at all.",
+    "confidence": "high"
+  },
+  "suggested_pains_not_added": [
+    "rera-exam-first-card: New agents must pay for a RERA course and pass the RERA exam before they get a first broker card and may work. 7 records in this batch show it (course cost pages, exam guides), all sellers and media, no member voice yet. The existing licence-card-renewals pain covers only yearly renewals, and earlier labelers kept first-card records out of it."
+  ]
+}
