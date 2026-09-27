@@ -1,0 +1,37 @@
+{
+  "final": false,
+  "room": "gre-engineers-india",
+  "rounds": [
+    {
+      "evaluable": false,
+      "new_pains": [],
+      "new_records": 900,
+      "note": "not evaluable: round 1 builds the pain list; saturation is tested on the records of round 2 and later",
+      "rank_changes": [],
+      "records": 900,
+      "round": 1,
+      "saturated": false,
+      "taxonomy_keys": [
+        "application-help",
+        "at-home-or-centre",
+        "coaching-or-self-study",
+        "exam-date-and-deadlines",
+        "gre-fee-cost",
+        "gre-or-other-path",
+        "is-gre-needed",
+        "paid-course-did-not-help",
+        "real-test-harder-than-practice",
+        "score-too-low-retake",
+        "self-study-plan",
+        "verbal-weak",
+        "which-coaching",
+        "which-universities-for-my-profile",
+        "working-no-time"
+      ],
+      "window": 300,
+      "window_used": 900
+    }
+  ],
+  "stop_reason": null,
+  "window": 300
+}

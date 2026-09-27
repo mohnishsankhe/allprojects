@@ -1,0 +1,80 @@
+{"record_id": "ae08830bea817d56", "voice": "seller", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A software directory's list of predictive dialers.", "confidence": "high"}
+{"record_id": "d3177afa028661c4", "voice": "seller", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A dialer vendor's page that only names its hosted dialer.", "confidence": "high"}
+{"record_id": "8d9b2c69d6262192", "voice": "seller", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A trade directory of dialer providers.", "confidence": "high"}
+{"record_id": "00e8ab212f90d550", "voice": "seller", "pain_keys": [], "money": true, "failed_spend": false, "reasoning": "A dialer vendor's pricing page. It names prices, not a problem.", "confidence": "high"}
+{"record_id": "a490d30904f5ef9b", "voice": "other", "pain_keys": [], "money": true, "failed_spend": false, "reasoning": "A document of loan-agent commission rates. It shows payouts, not a floor problem.", "confidence": "moderate"}
+{"record_id": "5b815b81188ae1fb", "voice": "other", "pain_keys": [], "money": true, "failed_spend": false, "reasoning": "A document of loan-agent payout rates. It shows payouts, not a floor problem.", "confidence": "moderate"}
+{"record_id": "be6afd4a809e6927", "voice": "other", "pain_keys": [], "money": true, "failed_spend": false, "reasoning": "A US collection agency's fee explainer, outside this Indian room.", "confidence": "moderate"}
+{"record_id": "974ed1a25a0cbb15", "voice": "seller", "pain_keys": [], "money": true, "failed_spend": false, "reasoning": "An advisory firm offers debt-recovery advice to NBFCs. It names a service.", "confidence": "moderate"}
+{"record_id": "6be74bc24b19b953", "voice": "media", "pain_keys": ["dra-certification"], "money": false, "failed_spend": false, "reasoning": "An exam site's schedule for the DRA exam that recovery staff must pass.", "confidence": "high"}
+{"record_id": "1ca00bf28205fb39", "voice": "media", "pain_keys": ["dra-certification"], "money": false, "failed_spend": false, "reasoning": "An exam site's guide to DRA exam dates and registration.", "confidence": "high"}
+{"record_id": "a08fc2485a8c78eb", "voice": "seller", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "The certifying body's home page. It only names the site.", "confidence": "high"}
+{"record_id": "69b5e30e8ef23844", "voice": "seller", "pain_keys": ["dra-certification"], "money": false, "failed_spend": false, "reasoning": "The certifying body's page for the DRA exam that recovery staff must pass.", "confidence": "high"}
+{"record_id": "994c7b4439bf620a", "voice": "media", "pain_keys": ["dra-certification"], "money": true, "failed_spend": false, "reasoning": "An exam site on the DRA exam's pass marks, fees and eligibility.", "confidence": "high"}
+{"record_id": "7437567d17845d43", "voice": "seller", "pain_keys": ["dra-certification"], "money": true, "failed_spend": false, "reasoning": "A study-material seller's guide to DRA exam dates, fees and syllabus.", "confidence": "high"}
+{"record_id": "d1a6f53b92501edc", "voice": "seller", "pain_keys": ["dra-certification"], "money": false, "failed_spend": false, "reasoning": "The exam platform's page for DRA exams.", "confidence": "moderate"}
+{"record_id": "825296b9677660b6", "voice": "seller", "pain_keys": ["dra-certification"], "money": false, "failed_spend": false, "reasoning": "A study-material seller's guide to the DRA exam for recovery agents and tele-callers.", "confidence": "high"}
+{"record_id": "84b4013dd83031cc", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job ad for an NBFC telecaller. It names a role, not a problem.", "confidence": "moderate"}
+{"record_id": "ea9e0bb32ca85eda", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job ad for NBFC tele-sales in collections. It names a role, not a problem.", "confidence": "moderate"}
+{"record_id": "5fbcf8e6d7245524", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "eb7add4cbdb17ede", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "676ae545470c05b4", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "1a6e192bcb4a1a65", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "a5b1cf6714eeed69", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "0b35102a69e9ba30", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "14a20cf988283f72", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "62f9b858471f6438", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "29446712bf5a65d7", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job ad for an NBFC collection manager. It names a role, not a problem.", "confidence": "moderate"}
+{"record_id": "7bf008f099a44541", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "218a0ae178e7a419", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job ad for an NBFC collection manager. It names a role, not a problem.", "confidence": "moderate"}
+{"record_id": "551e4149bfa8c21f", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job ad for a call-centre collection manager. It names a role, not a problem.", "confidence": "moderate"}
+{"record_id": "fed6681a62b30444", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "2cff16a684c46658", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "f717ad667ca1e764", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "809cab99a1d59b65", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job ad for insurance tele-sales. It names a role, not a problem.", "confidence": "moderate"}
+{"record_id": "5f35563521a2db49", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job ad for insurance tele-sales. It names a role, not a problem.", "confidence": "moderate"}
+{"record_id": "1e390ff012eb5c55", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job ad for motor-insurance tele-sales. It names a role, not a problem.", "confidence": "moderate"}
+{"record_id": "60a73adeed3deae0", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job ad for insurance tele-sales. It names a role, not a problem.", "confidence": "moderate"}
+{"record_id": "b53b8e285519ebdd", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job ad for insurance tele-sales. It names a role, not a problem.", "confidence": "moderate"}
+{"record_id": "3729c7161de826f6", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job ad for insurance tele-sales. It names a role, not a problem.", "confidence": "moderate"}
+{"record_id": "35c5d166cf6f1bab", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "79b99339fadf162b", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job ad for tele-sales. It names a role, not a problem.", "confidence": "moderate"}
+{"record_id": "2513ad21578b29a9", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "7be97d76ed565707", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page for Dubai, outside this room.", "confidence": "high"}
+{"record_id": "77e0965dd29cfbfd", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A US job-board listing page.", "confidence": "high"}
+{"record_id": "f78ee93d2ca08c95", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A recruiter's job ad for an NBFC's chief collections officer. It names a role, not a problem.", "confidence": "moderate"}
+{"record_id": "bad6edf99c132c4e", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job ad for a collections specialist. It names a role.", "confidence": "high"}
+{"record_id": "048b8f28d0070851", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A UK job ad for a collections adviser, outside this room.", "confidence": "high"}
+{"record_id": "f7e5f7cc96810df9", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-search landing page.", "confidence": "high"}
+{"record_id": "4ede76426e1142b4", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job ad for a collections specialist with no place given.", "confidence": "high"}
+{"record_id": "c8eb507b3eb648c8", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A UK job-board listing page.", "confidence": "high"}
+{"record_id": "879605023571a768", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A US job-board listing page.", "confidence": "high"}
+{"record_id": "9c032ff687a035a6", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A US job-board listing page.", "confidence": "high"}
+{"record_id": "5ea5f1c4a7053fc3", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A US job-board listing page.", "confidence": "high"}
+{"record_id": "c0efc55dbfe01611", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board page for call-audit analysts. It names jobs, not a problem.", "confidence": "high"}
+{"record_id": "2a6cb5185262aeea", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job ad for a junior call-audit analyst. It names a role, not a problem.", "confidence": "moderate"}
+{"record_id": "fdfb79d9a2325321", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "3f277dad97a94f40", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "3bba77f75d02a07c", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "b5aaf00316997878", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "fc9e265ac8383100", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board page for call-quality analysts. It names jobs, not a problem.", "confidence": "high"}
+{"record_id": "cd5b95abf17f4e4d", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job ad for a BPO quality analyst. It names a role, not a problem.", "confidence": "moderate"}
+{"record_id": "ebbf95bd0b8cf565", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "b2b3208f8f002ef9", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "ab0b48f3afe43c71", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A digital lender's job ad for a collections dialer manager. It shows the floor runs a dialer but states no problem.", "confidence": "moderate"}
+{"record_id": "3d6b7f9222174111", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "55cd56d43ca1e3f4", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "a643008597c3ce56", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A US job-board listing page.", "confidence": "high"}
+{"record_id": "7c9c4427095c61fb", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A US job-board listing page.", "confidence": "high"}
+{"record_id": "b3dd526bc0174abf", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A UK job-board listing page.", "confidence": "high"}
+{"record_id": "5ed9de9fd9b65771", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A US job-board listing page.", "confidence": "high"}
+{"record_id": "2b57f81c1d662afc", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A US job-board listing page.", "confidence": "high"}
+{"record_id": "3bc0de592a51074a", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A US job-board listing page.", "confidence": "high"}
+{"record_id": "4676162615ba2764", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A US job-board listing page.", "confidence": "high"}
+{"record_id": "70285030b5341f10", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "1b94706db718bd1d", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "506fd1a946771316", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "2a314e1c42eaa35e", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "549aaf7fbee7053e", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "5d26221b0c4efccc", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
+{"record_id": "3adfd1ff90532279", "voice": "other", "pain_keys": [], "money": false, "failed_spend": false, "reasoning": "A job-board listing page.", "confidence": "high"}
