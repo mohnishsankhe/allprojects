@@ -4,20 +4,24 @@ Read this first when resuming ("continue"). Never redo a step marked done.
 Current run folder: `runs/2026-09-26/`
 
 ## Done
-- Step 0 — Permissions: the session runs in auto mode, so no settings change was needed. (2026-09-26)
-- Step C — `config/ledger.md` written exactly as the founder gave it; `config/ledger.yaml` is its machine-readable transcription. (2026-09-26)
-- Step B — new rules made permanent: `CLAUDE.md`, `config/kill_rules.yaml`, `config/formats.md`, `config/definitions.md`, `config/sources.md`, the four skills, both subagents, `pipeline/README.md`. (commit c1eae44)
+- Step 0 — Permissions: the session runs in auto mode, so no permission change was needed. The web-search cap (default 200 per session) was raised to 20000 with `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION` in the repo-root `.claude/settings.json` (a project-settings change the founder authorized in Step 0). (2026-09-27)
+- Step C — `config/ledger.md` written exactly as given; `config/ledger.yaml` is its transcription. (2026-09-26)
+- Step B — new rules made permanent (commit c1eae44).
+- Step A (part) — core, sources, admin, prices, stage1, stage2 built; 130 core tests pass.
+- Stage 1 (part) — six lens files and four gap files written; FX rates in `runs/2026-09-26/fx_rates.json` (read from the npm-hosted currency-api dataset, dated 2026-09-26, because FX sites are blocked).
 
-## In progress
-- Step A — pipeline build workflow `funnel-build-pipeline-v2` (run id `wf_4a614d5e-c00`): core → 4 parallel modules → integration → 4 reviews → fixes. If interrupted, resume it with the Workflow tool (`resumeFromRunId`); finished agents are cached.
-- Stage 1 — rooms workflow `funnel-stage1-rooms` (run id `wf_b92d470f-599`): six lens agents → six gap-pass agents, plus FX rates. Outputs: `runs/2026-09-26/01_rooms.parts/*.json`, `runs/2026-09-26/fx_rates.json`. Merge with `funnel rooms --merge-parts` once the build lands.
+## In progress (workflows; resume with the Workflow tool and `resumeFromRunId` if interrupted)
+- Step A finish — `funnel-build-finish` (run `wf_51b992ab-f05`): finish stage3/stage45/stage6/outputs → integration → 4 reviews → fixes.
+- Stage 1 grounding A — `funnel-stage1-ground-a` (run `wf_e87b0e72-48a`): re-ground and top up business_type, identity_community, obligation, transition.
+- Stage 1 grounding B — `funnel-stage1-ground-b` (run `wf_a0f83bc8-726`): re-ground gap files, redo gap_profession, add gap_identity_community.
+- Why: the first Stage 1 pass hit the 200-search cap; later agents reused sibling URLs instead of searching. Nothing was invented, but the rooms were thin.
 
 ## Next
-1. Record build test results in the run's RUNLOG.md; commit.
-2. Stage 1 merge and dedupe (80–120 rooms) → checkpoint.
+1. Record build test results in the run's RUNLOG.md (`funnel log`), commit.
+2. `funnel rooms --merge-parts` (80–120 rooms), resolve near-duplicates → checkpoint.
 3. Stage 2 mask (≤15 rooms) → checkpoint.
-4. Stage 3 listen to saturation, one listener per room, rooms in parallel → checkpoint after each room → `funnel pains` → checkpoint.
-5. Stage 4 (two walkers + comparator per pain) → Stage 5 pairs → Stage 6 numbers → red team → audit packet → outputs → final commit, push, pull request.
+4. Stage 3 listen to saturation, one listener per room → checkpoint per room → `funnel pains` → checkpoint.
+5. Stages 4–6, red team, audit packet, outputs → final commit, push, pull request.
 6. Step E — final output in chat.
 
 ## Known blockers
