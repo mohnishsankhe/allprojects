@@ -63,14 +63,14 @@ Stage 3 per room:
 | active-retail-options-traders | 2 | 2309 | 2126 | round 1: 1086 records, not saturated | no | not checked |
 | bpo-contact-centre-operators-india-philippines | 3 | 3272 | 2130 | round 2: 2130 records, not saturated | no | not checked |
 | business-brokers-ma-boutiques | 2 | 1646 | 1603 | round 2: 1603 records, not saturated | no | not checked |
-| cfa-candidates-community | 3 | 2542 | 1911 | round 2: 1751 records, not saturated | no | not checked |
+| cfa-candidates-community | 3 | 2542 | 1991 | round 2: 1751 records, not saturated | no | not checked |
 | d2c-brands-scaling-past-launch | 2 | 1884 | 1827 | round 2: 1827 records, not saturated | no | not checked |
 | dubai-real-estate-brokerages-telesales | 2 | 1516 | 1472 | round 2: 1472 records, not saturated, stopped: exhausted | yes | 17 pass / 0 fail (self-check) |
 | gre-engineers-india | 2 | 1762 | 1726 | round 1: 900 records, not saturated | no | not checked |
-| gre-preppers-worldwide-online | 3 | 2997 | 2296 | round 2: 1896 records, not saturated | no | not checked |
-| indie-perfumers-launching-brands | 3 | 2740 | 1888 | round 2: 1728 records, not saturated | no | not checked |
+| gre-preppers-worldwide-online | 3 | 2997 | 2456 | round 2: 1896 records, not saturated | no | not checked |
+| indie-perfumers-launching-brands | 3 | 2740 | 2048 | round 2: 1728 records, not saturated | no | not checked |
 | lender-insurer-telesales-floors-india | 2 | 1721 | 1684 | round 2: 1684 records, not saturated, stopped: exhausted | yes | 0 pass / 0 fail (self-check) |
-| outbound-lead-gen-appointment-setting-agencies | 2 | 2090 | 1304 | round 1: 984 records, not saturated | no | not checked |
+| outbound-lead-gen-appointment-setting-agencies | 2 | 2090 | 1464 | round 1: 984 records, not saturated | no | not checked |
 | salon-spa-owners-india-global | 2 | 2302 | 2255 | round 2: 2255 records, not saturated | no | not checked |
 | small-business-owners-reddit-community | 3 | 3505 | 2180 | round 2: 2180 records, not saturated | no | not checked |
 | small-industrial-property-investors | 2 | 1784 | 1748 | round 1: 948 records, not saturated | no | not checked |
