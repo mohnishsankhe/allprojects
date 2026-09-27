@@ -119,6 +119,46 @@
       "added_round": 1,
       "reasoning": "Members ask whether they can reschedule and when they can take the exam; many seller guides map test dates to application deadlines. Member support is thin so far.",
       "confidence": "low"
+    },
+    {
+      "key": "mock-score-accuracy",
+      "label": "How accurate are the scores from PowerPrep and mock tests? Can I expect the same on the actual GRE?",
+      "definition": "Before the test, the writer cannot tell whether their mock or PowerPrep scores predict their real GRE score, or which practice tests are accurate, so they cannot judge whether they are ready. A real score that came in below the mocks, after the test, is real-test-harder-than-practice.",
+      "added_round": 2,
+      "reasoning": "Round 2 brought about 18 member questions on Quora, GRE Prep Club and Yocket asking how accurate PowerPrep, Jamboree, Manhattan, Kaplan, TCY or KMF mocks are, or what real score to expect a few days before the test. Sellers publish pages on the same question.",
+      "confidence": "high"
+    },
+    {
+      "key": "name-id-mismatch",
+      "label": "My GRE registration name is different from my passport name: will ETS change it?",
+      "definition": "The writer's ETS registration or account details (given name, middle name, surname order, a second account) do not match their passport, or they are unsure which ID the test needs, and they fear being turned away on test day.",
+      "added_round": 2,
+      "reasoning": "About 10 member questions in round 2 ask what happens when the GRE registration name differs from the passport (middle names, given name versus surname), whether a passport is needed to register, or how to fix a duplicate ETS account. ETS and sellers publish ID-requirement pages.",
+      "confidence": "high"
+    },
+    {
+      "key": "exam-stress",
+      "label": "I get stressed a lot: what can I do so that stress does not ruin my GRE exam?",
+      "definition": "Stress, nerves or discouragement hurt the writer's preparation or test day: dread of the exam, panic in the last days, the mind going blank during the test, crumbling under pressure, or losing motivation after bad mock scores.",
+      "added_round": 2,
+      "reasoning": "Round 2 has about 10 member questions about GRE anxiety, stress before the exam, the mind going blank, crumbling under pressure and lost motivation to study, plus several expert posts on managing GRE test anxiety.",
+      "confidence": "high"
+    },
+    {
+      "key": "paying-for-the-ms",
+      "label": "Can I get full financial assistance or an education loan for a master's in the US?",
+      "definition": "The writer worries about paying for the master's abroad: what it will cost (application fees, tuition, living costs), what GRE score or GPA wins a scholarship or assistantship, or how to get an education loan (collateral, CIBIL score, marks, a bank's rejection).",
+      "added_round": 2,
+      "reasoning": "Round 2 brought about 17 member questions on funding: education loans (collateral, CIBIL score, minimum marks, a loan rejected by a bank), the GRE score or GPA that wins a scholarship or full funding, and what an MS or its applications cost. The loan is step 6 of the room's ladder.",
+      "confidence": "high"
+    },
+    {
+      "key": "ms-worth-it",
+      "label": "Is it worth doing an MS in the US after the recent developments in the H-1B visa?",
+      "definition": "The writer doubts that a master's abroad is still worth its cost: they fear ending up in debt without a US job or work visa (H-1B, OPT), or ask whether a good job at home is the better bet. A plain choice between exams or paths (GATE, CAT, GMAT) stays gre-or-other-path.",
+      "added_round": 2,
+      "reasoning": "Round 2 brought about 20 member posts on Quora, Blind and Grapevine asking whether an MS in the US is still worth it given H-1B limits, the job market and the cost, often weighed against a job at FAANG or in India. Round 1 had one such record. It overlaps gre-or-other-path only where a post weighs the MS against a job.",
+      "confidence": "moderate"
     }
   ]
 }
