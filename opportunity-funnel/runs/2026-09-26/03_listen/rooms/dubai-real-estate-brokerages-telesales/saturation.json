@@ -1,5 +1,5 @@
 {
-  "final": false,
+  "final": true,
   "room": "dubai-real-estate-brokerages-telesales",
   "rounds": [
     {
@@ -56,6 +56,6 @@
       "window_used": 590
     }
   ],
-  "stop_reason": null,
+  "stop_reason": "exhausted",
   "window": 300
 }

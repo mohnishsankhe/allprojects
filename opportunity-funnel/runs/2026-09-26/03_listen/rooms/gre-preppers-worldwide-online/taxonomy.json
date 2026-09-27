@@ -159,7 +159,15 @@
       "added_round": 2,
       "reasoning": "Round 2 brought many member posts on Quora and Nairaland about failed GRE payments, cards that do not work, money deducted without a booking, and registration names that do not match the passport. They share one problem, getting a valid booking, and no existing pain covers it.",
       "confidence": "moderate"
+    },
+    {
+      "key": "awa-struggle",
+      "label": "Struggling with the GRE essay (Analytical Writing, AWA): a low essay score, or no one to grade my practice essays",
+      "definition": "The writer finds the Analytical Writing section (the timed essay part of the GRE, scored 0 to 6, called AWA) hard: their AWA score is low or fell, they say they are bad at writing or structuring the essays, they ask how to raise the essay score or whether a low one will hurt their application, or they ask someone to grade a practice essay because they cannot tell what it would score (\"Lousy AWA score, what to do?\", \"good gre scores (170q, 160v), but low awa (3)...\", \"How should I prepare for the GRE AWA if I am extremely bad at writing and articulating my thoughts?\", \"Can someone please evaluate my AWA argument essay and give a score ?\"). Reading, vocabulary and the verbal score belong to verbal-struggle. A fear that a low AWA will sink an application may also carry score-enough-for-target. A plain request for sample essays, topics or AWA tips, with no weakness, low score or grading need named, is not this pain.",
+      "added_round": 3,
+      "reasoning": "Round 3 brought many member posts on GradCafe, GRE Prep Club, Quora and pre-PA forums about a low or falling AWA score, being bad at the essays, and asking others to grade practice essays; essay-grading sellers target it. No existing pain covers the essay section: verbal-struggle covers reading and vocabulary only. This makes 21 pains, one over the 5-20 range, because leaving out a clearly shown pain would hide it from the saturation test.",
+      "confidence": "high"
     }
   ],
-  "reviewed_rounds": [2]
+  "reviewed_rounds": [2, 3]
 }
