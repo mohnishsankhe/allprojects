@@ -63,6 +63,8 @@ TAG_MEANING = {
     "[spend: N source(s)]": "spending evidence comes from fewer distinct websites (domains) than spend_sources_min",
     "[titles only]": "every supporting record is a web-search title; no full text was read",
     "[undated share: X%]": "the share of supporting records that carry no date",
+    "[source kinds: N]": "the room's records come from fewer kinds of site (forums, Q&A, video, reviews, jobs, "
+                         "official, news, social, other sites) than min_source_kinds",
 }
 STATUS_ORDER = {"kept": 0, "cut": 1, "dropped": 2}
 

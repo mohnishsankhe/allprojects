@@ -18,6 +18,15 @@ from conftest import Helpers
 ROOM = "gre-engineers-india"
 DATE = "2026-09-26"
 
+
+import pytest
+
+
+@pytest.fixture(autouse=True)
+def _one_record_makes_a_kind(froot, h):
+    """The fixture room is tiny: a kind of source counts from one record here (the run's rule is 5)."""
+    h.set_rule(froot, "stage3", "source_kind_min_records", 1)
+
 # url, text, date
 RECS = {
     "r1": ("https://www.reddit.com/r/GRE/comments/1/", "I paid 45k for a premium GRE course and my quant score did not move at all", "2025-02-03"),
@@ -606,3 +615,17 @@ def test_alternatives_carry_the_price_checkers_tag_not_the_models_claim(run, h, 
     assert a["price_status"] == "not_found" and a["price_tag"] == "[not found on page]"
     assert "[not found on page] <https://x.test/pricing>" in (common.listen_dir(run) / "pains.md").read_text(encoding="utf-8")
     assert stage3.price_tag_of({"seen_via": "page"}) == "[measured, page not checked]"
+
+
+def test_room_with_too_few_source_kinds_is_tagged_and_noted(froot, run, h):
+    # with 5 records needed per kind, the fixture room has one kind (forum: 4 reddit posts and one forum.* page)
+    h.set_rule(froot, "stage3", "source_kind_min_records", 5)
+    setup_room(run, h)
+    result = stage3.pains(run)
+    info = result["rooms"][ROOM]
+    assert info["source_kinds"] == ["forum"] and info["by_kind"]["forum"] == 5
+    for p in result["pains"]:
+        if p["status"] != "dropped" or p.get("tags"):
+            assert "[source kinds: 1]" in p["tags"]
+    events = [json.loads(l) for l in (run / "runlog.jsonl").read_text(encoding="utf-8").splitlines() if l.strip()]
+    assert any("Rooms with fewer than 3 kinds of source" in (e.get("note") or "") and e.get("review") for e in events)

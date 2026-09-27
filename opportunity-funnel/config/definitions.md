@@ -34,6 +34,8 @@ Ranking order when urgency is compared: deadline or rule > acute pain > fear > e
 - **Warm reach:** the room matches one of the founder's warm paths in the ledger. Needed for products that need trust.
 - **Search reach:** the room already buys this kind of product through search, app stores or public marketplaces, anywhere in the world. Suits self-serve products.
 
+**Source kind (Stage 3).** The kind of site a record points to: forum, Q&A, video, reviews, jobs, official, news, social, or other sites (blogs, vendors, reference). All records arrive through web search, so the kind comes from the URL (`config/source_kinds.yaml`). A room needs at least 3 kinds, each with at least 5 records; fewer is tagged `[source kinds: N]`.
+
 **Saturation (Stage 3).** We keep collecting until more data stops changing the answer: the last 300 new records add no new pain and change no pain's rank. Three conservative readings apply (logged in REVIEW.md): round 1 builds the pain list, so saturation is tested only from round 2 ("at least 500 records, then continue"); when the latest round brings more than 300 records, the whole round is the window (the order inside a round is only query order); a window with fewer than 30 member records cannot show a new pain, so the room keeps listening; and a pain the taxonomy gains in a round counts as new in that round, even when relabeling also finds it in earlier records.
 
 **Voice (Stage 3 labels).** Who wrote a record: `member` (someone in the room), `seller` (someone selling a fix), `media` (news, blogs about the room), `other`. Pain counts use member records only. Seller records are evidence that money changes hands.

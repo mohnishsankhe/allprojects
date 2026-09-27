@@ -67,7 +67,7 @@ Stage 3 per room:
 | d2c-brands-scaling-past-launch | 1 | 1032 | 0 | not evaluated | no | not checked |
 | dubai-real-estate-brokerages-telesales | 1 | 912 | 0 | not evaluated | no | not checked |
 | gre-engineers-india | 1 | 923 | 0 | not evaluated | no | not checked |
-| gre-preppers-worldwide-online | 1 | 961 | 160 | not evaluated | no | not checked |
+| gre-preppers-worldwide-online | 1 | 961 | 240 | not evaluated | no | not checked |
 | indie-perfumers-launching-brands | 1 | 871 | 0 | not evaluated | no | not checked |
 | lender-insurer-telesales-floors-india | 1 | 858 | 0 | not evaluated | no | not checked |
 | outbound-lead-gen-appointment-setting-agencies | 1 | 1022 | 0 | not evaluated | no | not checked |

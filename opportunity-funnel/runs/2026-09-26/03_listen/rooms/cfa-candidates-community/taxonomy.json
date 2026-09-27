@@ -1,0 +1,127 @@
+{
+  "room": "cfa-candidates-community",
+  "round": 1,
+  "note": "Round 1 records are search-result titles only (no post bodies). Pains are drawn from member titles on AnalystForum, 300Hours, Quora, Blind and careers360. No reddit.com result came back in round 1.",
+  "pains": [
+    {
+      "key": "failed-what-next",
+      "label": "I failed to clear CFA Level 1, what should I do next?",
+      "definition": "A candidate failed a level, sometimes twice or with a high band, and is stuck on why they failed, whether to retake, what a retake costs, and how to pass next time.",
+      "added_round": 1,
+      "reasoning": "Failing and asking what to do next is the most repeated member problem across AnalystForum, 300Hours and Quora titles.",
+      "confidence": "high"
+    },
+    {
+      "key": "giving-up",
+      "label": "Signing up for next year level 3 or giving up",
+      "definition": "After failing, repeated attempts or years of study, the candidate is losing motivation and weighs quitting the program, or regrets starting it.",
+      "added_round": 1,
+      "reasoning": "Several member titles talk about giving up or quitting, separate from how to retake.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "worth-it",
+      "label": "Is it worth preparing for the CFA to advance in my career?",
+      "definition": "A candidate or would-be candidate doubts that years of study and the fees will pay off in a finance job, a switch into finance, a promotion or a higher salary, compared with an MBA, CPA or CMA, FRM, coding prep or nothing.",
+      "added_round": 1,
+      "reasoning": "Many member titles on Blind and Quora ask whether the charter is worth it for their own situation.",
+      "confidence": "high"
+    },
+    {
+      "key": "job-without-charter",
+      "label": "If you fail the CFA level 1, can you still get a job in finance?",
+      "definition": "Candidates without the charter struggle to turn passed levels, or a failed attempt, into a finance job: what a Level 1 or 2 pass is worth to employers, how to show it on a resume, and how to job hunt meanwhile.",
+      "added_round": 1,
+      "reasoning": "A few member titles ask what a level is worth to employers now, which differs from whether to do the CFA at all.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "total-fees",
+      "label": "What is the total fees of CFA in India?",
+      "definition": "Registration, enrollment, prep, retake and rescheduling fees add up to a large bill (members cite about 1 lakh rupees for Level 1). Candidates ask for the full cost and how to pay it, look for ways to cut it (free material, employer reimbursement), and complain it is too high.",
+      "added_round": 1,
+      "reasoning": "Cost questions are the largest group of member money mentions, mostly from India on Quora and careers360.",
+      "confidence": "high"
+    },
+    {
+      "key": "which-prep-provider",
+      "label": "L3 prep provider, who is best?",
+      "definition": "There are many prep providers, coaching classes and materials (Schweser, Mark Meldrum, UWorld, IFT, Wiley, the official curriculum, local coaching in India). The candidate cannot tell which one is worth paying for, which to study from, or whether they need coaching at all.",
+      "added_round": 1,
+      "reasoning": "Member titles repeatedly ask which provider or coaching class is best, at every level.",
+      "confidence": "high"
+    },
+    {
+      "key": "prep-not-enough",
+      "label": "Schweser Notes Not Enough?",
+      "definition": "Prep the candidate bought or used disappoints: it is easier than the real exam, the videos or classes are poor, or the provider is not reputable, so the candidate worries the money and time were wasted.",
+      "added_round": 1,
+      "reasoning": "A handful of member titles complain about or doubt prep they already use, which is the nearest thing to failed spend in title-only data.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "study-with-full-time-job",
+      "label": "How can I pass CFA level one in 3 months while having a full-time job?",
+      "definition": "The candidate cannot find the hundreds of study hours around a full-time job, falls behind schedule, and asks how many hours or months they really need.",
+      "added_round": 1,
+      "reasoning": "Members ask again and again how many hours they need and whether a few months next to a job is enough.",
+      "confidence": "high"
+    },
+    {
+      "key": "how-to-study",
+      "label": "How should I study for CFA level 2?",
+      "definition": "The candidate does not know how to plan their study (what to study, in what order, how to review and practise) to pass a level.",
+      "added_round": 1,
+      "reasoning": "Members ask for a way to study a level, separate from how many hours they have.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "hardest-topics",
+      "label": "Which is the most difficult subject in the CFA Level 2?",
+      "definition": "The candidate finds a level or specific topics very hard, is worried by low pass rates, and looks for help on the hardest parts.",
+      "added_round": 1,
+      "reasoning": "Many member questions ask how hard a level is and which topics are toughest, most often for Level 2.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "level3-essays",
+      "label": "What does CFA institute exactly expect in essay writing in level 3 exams?",
+      "definition": "Level 3 candidates lose points on constructed-response (essay) answers: they do not know what graders want, run out of time, or struggle with English.",
+      "added_round": 1,
+      "reasoning": "Level 3 essays show up as their own problem in member questions and in videos about why candidates fail.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "mock-scores-readiness",
+      "label": "Help Needed..How far am I?",
+      "definition": "Practice or mock exam scores are low or not improving near the exam, and the candidate cannot tell whether they are ready to pass.",
+      "added_round": 1,
+      "reasoning": "Many videos address low mock scores, but only one member title in round 1 shows it, so member support is thin.",
+      "confidence": "low"
+    },
+    {
+      "key": "postpone-or-refund",
+      "label": "Am I allowed to postpone my exam? Can I get a refund for the CFA exams?",
+      "definition": "The candidate is not ready or cannot sit the exam and runs into strict deferral and rescheduling rules, rescheduling fees and limited refunds.",
+      "added_round": 1,
+      "reasoning": "Members ask whether they can move their exam date and how much money they get back; the rules and fees force a decision by a date.",
+      "confidence": "high"
+    },
+    {
+      "key": "rules-and-deadlines",
+      "label": "When can i give CFA level 2",
+      "definition": "The candidate is confused by exam windows, registration deadlines and fee tiers, eligibility, the Practical Skills Modules and the order and timing rules between levels, and risks missing a deadline or paying more.",
+      "added_round": 1,
+      "reasoning": "Several member questions ask about timing, sequence and enrollment rules rather than content.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "scholarship-essay",
+      "label": "How to write a personal statement (essay) for CFA scholarships",
+      "definition": "The candidate needs a CFA Institute scholarship (Access or university) to afford the fee and struggles with the application essay or personal statement.",
+      "added_round": 1,
+      "reasoning": "Two member questions ask how to write the scholarship essay, a distinct task with money at stake.",
+      "confidence": "moderate"
+    }
+  ]
+}

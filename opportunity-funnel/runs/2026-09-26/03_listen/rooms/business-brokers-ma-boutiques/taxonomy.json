@@ -1,0 +1,88 @@
+{
+  "pains": [
+    {
+      "key": "winning-listings",
+      "label": "Getting business owners to list with us (why new brokers fail)",
+      "definition": "Brokers struggle to find owners who are ready to sell and to win listing agreements (their 'inventory'). New brokers often fail before they land enough listings, and firms pay for seller leads.",
+      "added_round": 1
+    },
+    {
+      "key": "unrealistic-seller-expectations",
+      "label": "Sellers with unrealistic price expectations",
+      "definition": "Owners expect more than the business can fetch, mostly on price. Brokers must reset expectations, turn the listing down, or carry an overpriced listing that will not sell.",
+      "added_round": 1
+    },
+    {
+      "key": "listings-never-sell",
+      "label": "Most businesses brought to market never sell",
+      "definition": "A large share of listed businesses never close ('80% don't sell'). Brokers are paid mostly on success, so months of work on an unsold listing can earn nothing.",
+      "added_round": 1
+    },
+    {
+      "key": "deals-die-after-loi",
+      "label": "Deals fall apart after the LOI (deal killers, retrades, deal fatigue)",
+      "definition": "After the letter of intent (LOI), due diligence drags or turns up problems. Buyers cut the price (a 'retrade') or walk away, and the deal dies before closing.",
+      "added_round": 1
+    },
+    {
+      "key": "tire-kicker-buyers",
+      "label": "Tire kickers and unqualified buyers who never close",
+      "definition": "Many buyers sign NDAs and ask for information but lack the money or intent to close. They take up the broker's time, so brokers must screen for qualified buyers.",
+      "added_round": 1
+    },
+    {
+      "key": "buyer-financing-fails",
+      "label": "Buyer financing falls through (stricter SBA rules, banks say no)",
+      "definition": "Most small deals need an SBA or bank loan. Stricter or changed SBA rules (such as SOP 50 10 8 and seller notes on full standby) and loan denials stop buyers from closing.",
+      "added_round": 1
+    },
+    {
+      "key": "valuation-doesnt-hold-up",
+      "label": "Valuations and add-backs that buyers and lenders strip",
+      "definition": "The earnings, add-backs and multiples used to price a business get challenged or removed by buyers and SBA lenders, and comparable-sales data is hard to trust, so the asking price is hard to justify.",
+      "added_round": 1
+    },
+    {
+      "key": "cut-out-of-commission",
+      "label": "Getting cut out of deals and commissions",
+      "definition": "Buyers and sellers go around the broker, or the commission becomes disputed after the sale, so the broker is not paid for work already done.",
+      "added_round": 1
+    },
+    {
+      "key": "fee-pushback",
+      "label": "Owners ask whether brokers are worth the fee",
+      "definition": "Owners question the commission, negotiate fees down or resist retainers, so brokers must justify how and how much they are paid.",
+      "added_round": 1
+    },
+    {
+      "key": "broker-reputation",
+      "label": "The industry's terrible reputation ('used car salesmen', 'scam')",
+      "definition": "Owners and buyers distrust brokers and complain about dishonest or unprofessional ones. That distrust makes it harder for every broker to win listings and keep buyers engaged.",
+      "added_round": 1
+    },
+    {
+      "key": "licensing-rules",
+      "label": "Licensing rules and unlicensed activity",
+      "definition": "Some states require a real-estate licence to broker a business sale, and securities rules limit M&A brokers. A broker who gets this wrong is doing unlicensed activity.",
+      "added_round": 1
+    },
+    {
+      "key": "bad-office-management",
+      "label": "Bad management at the brokerage office",
+      "definition": "Brokers who work at a franchise or brokerage office complain about poor or dishonest management by the office owner.",
+      "added_round": 1
+    },
+    {
+      "key": "tool-costs",
+      "label": "Software and data that cost too much or don't fit (CRMs, data rooms)",
+      "definition": "Small firms pay for CRMs, virtual data rooms and data services. Generic tools do not fit brokerage work, and prices and hidden fees add up.",
+      "added_round": 1
+    },
+    {
+      "key": "listing-site-complaints",
+      "label": "Paid listing sites that disappoint (BizBuySell complaints)",
+      "definition": "Brokers pay marketplaces such as BizBuySell to list businesses, and users complain about the site's service and results.",
+      "added_round": 1
+    }
+  ]
+}

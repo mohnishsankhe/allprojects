@@ -85,7 +85,7 @@ Per room, in `RUN/03_listen/rooms/<room>/`:
 - `labels/batch_NNN.jsonl` (M), one per batch file `RUN/03_listen/raw/<room>/_batches/batch_NNN.md`:
   `{"record_id": "...", "voice": "member", "pain_keys": ["..."], "money": true, "failed_spend": false, "reasoning": "...", "confidence": "high"}`.
   `voice`: `member` | `seller` | `media` | `other`. `pain_keys`: 0–2 keys. `money` = mentions money or a price. `failed_spend` = the writer paid for something that did not solve the problem.
-- `counts.json` (S): per pain key: member `record_count`, `money_mentions`, `failed_spend_mentions` (with record_ids), plus `seller_records` and `media_records`.
+- `counts.json` (S): per pain key: member `record_count`, `money_mentions`, `failed_spend_mentions` (with record_ids), plus `seller_records` and `media_records`. Totals include `by_kind` (records per kind of site, from `config/source_kinds.yaml`) and `source_kinds` (kinds with at least `source_kind_min_records` records; the rule asks for `min_source_kinds`).
 - `saturation.json` (S): per round: records in, the window used (`window_used`: the last `saturation_window` records, or the whole latest round when it is larger), member records in it, new pains in the window, rank changes in the window, `evaluable` (false in round 1 and when the window holds fewer than `saturation_min_member_records` member records, with a `note`), `taxonomy_added` (pains the taxonomy gained this round: `added_round` = this round, or missing from the previous round's `taxonomy_keys`; they count as new pains), `taxonomy_keys`, `saturated` true/false, and why the room stopped (`saturated`, `exhausted`, `max_rounds`).
 - `pains_draft.json` (M):
 ```json
