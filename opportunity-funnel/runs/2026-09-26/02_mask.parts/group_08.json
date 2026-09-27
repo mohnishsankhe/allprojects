@@ -1,0 +1,591 @@
+{
+  "rooms": [
+    {
+      "slug": "uk-commercial-landlords-mees-epc-deadline",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w3",
+        "evidence_url": null,
+        "reasoning": "w3 covers warehouse and logistics developers, investors and advisers, and the warehouse-owning slice of this room is those people; the ledger gives w3 no geography, but it does not say the founder's private-equity network reaches UK landlords, and the room's forums skew to offices, retail and residential, so the match is partial. Search reach also applies: landlords already buy commercial EPCs and MEES advice from search, e.g. Easy EPC's MEES consultancy from £49.95 + VAT (https://www.easyepc.org/minimum-energy-efficiency-standards) and Fast EPC's commercial EPC price page (https://www.fast-epc.co.uk/commercial-epc-prices-2025/).",
+        "confidence": "low"
+      },
+      "depth": {
+        "ledger_id": "d3",
+        "reasoning": "The paying decisions for a warehouse owner (spend on the retrofit, sell, or pass costs through the lease; what a stranded rating does to value) sit in industrial and logistics real estate. The EPC assessment and the retrofit engineering are building-services work outside the ledger, and offices and retail are outside d3.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {
+          "what": "Commercial EPC assessment, small unit to large building (EPC Rate price guide)",
+          "price_text": "£145–£300",
+          "amount": 145,
+          "currency": "GBP",
+          "unit": "one-off",
+          "url": "https://epcrate.co.uk/epc-london/commercial-epc-pricing-in-2026-small-units-vs-large-commercial-buildings/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Commercial EPC for a large or complex building needing dynamic simulation (EPC Rate price guide)",
+          "price_text": "£500–£1,500+",
+          "amount": 500,
+          "currency": "GBP",
+          "unit": "one-off",
+          "url": "https://epcrate.co.uk/epc-london/commercial-epc-pricing-in-2026-small-units-vs-large-commercial-buildings/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Commercial EPC, Fast EPC price page (small unit to 1,000 sqm)",
+          "price_text": "from £159 for small units up to £550 for large 1000 sqm units",
+          "amount": 159,
+          "currency": "GBP",
+          "unit": "one-off",
+          "url": "https://www.fast-epc.co.uk/commercial-epc-prices-2025/",
+          "seen_via": "search"
+        },
+        {
+          "what": "MEES consultancy and improvement report for a commercial property (Easy EPC)",
+          "price_text": "from £49.95 + VAT",
+          "amount": 49.95,
+          "currency": "GBP",
+          "unit": "one-off",
+          "url": "https://www.easyepc.org/minimum-energy-efficiency-standards",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "The core pains need an accredited EPC assessor and building contractors (rentable as licence and vendors) and the landlord's own capital for the works. Nothing needs the founder's large capital, a ritual or licensed advocacy.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Retrofit sequencing and portfolio planning need no licence; the certificate itself must come from an accredited assessor, which is rentable. No employer overlap: UK landlords are not the founder's employer's clients.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "A portfolio retrofit plan is a B2B advisory sale at four-figure prices to asset managers who will commit capital on it; they buy from people they trust.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "us-tcpa-ai-voice-outbound-callers",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://ringscrub.com/pricing.html",
+        "reasoning": "No warm path: w5 is India and the Gulf and this room is US. The room already buys TCPA tools through search: RingScrub sells litigator and DNC scrubbing at $130/month from a public pricing page (https://ringscrub.com/pricing.html), NumberBroom at $0.20 per number (https://numberbroom.com/tcpa-litigator-scrub) and TextP2P at 1¢ per number (https://textp2p.com/contact-scrubs/).",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d5",
+        "reasoning": "Consent capture and AI disclosure inside the call flow, running the calls on a voice-agent platform and auditing live calls for violations are voice-agent and call-auditing work, the founder's strong domain. The TCPA law itself and the litigation step are not.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {
+          "what": "Voice-agent platform usage (Vapi) per minute of calling",
+          "price_text": "$0.05 per minute",
+          "amount": 0.05,
+          "currency": "USD",
+          "unit": "minute",
+          "url": "https://www.cloudtalk.io/blog/vapi-ai-pricing/",
+          "seen_via": "search"
+        },
+        {
+          "what": "RingScrub DNC and litigator scrubbing subscription",
+          "price_text": "$130/month",
+          "amount": 130,
+          "currency": "USD",
+          "unit": "month",
+          "url": "https://ringscrub.com/pricing.html",
+          "seen_via": "search"
+        },
+        {
+          "what": "NumberBroom batch TCPA litigator screening",
+          "price_text": "$0.20 per Number",
+          "amount": 0.2,
+          "currency": "USD",
+          "unit": "per number",
+          "url": "https://numberbroom.com/tcpa-litigator-scrub",
+          "seen_via": "search"
+        },
+        {
+          "what": "Contact-centre QA software to monitor live calls",
+          "price_text": "around $35 per user per month",
+          "amount": 35,
+          "currency": "USD",
+          "unit": "user per month",
+          "url": "https://www.guideflow.com/blog/contact-center-quality-assurance-software",
+          "seen_via": "search"
+        },
+        {
+          "what": "TextP2P TCPA litigator and DNC contact scrub (minimum $5.00 per scrub)",
+          "price_text": "1¢ per number checked",
+          "amount": 0.01,
+          "currency": "USD",
+          "unit": "per number",
+          "url": "https://textp2p.com/contact-scrubs/",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Compliant builds and call audits need judgment and vendors; legal defence needs a licensed lawyer, which is rentable. Insurance against uncapped per-call damages would be large-capital risk transfer the founder cannot supply, but it is not the core product.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Building and auditing compliant call flows needs no licence. The compliance-review and defence steps are legal advice in the US and must be rented from a TCPA lawyer, never given by the founder. No employer overlap.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "The buyer is a business exposed to statutory damages of $500 to $1,500 per call and is paying for a B2B audit or build; it has to trust the auditor.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "f1-opt-students-us-nonresident-tax-filing",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.trustpilot.com/review/www.sprintax.com?page=4",
+        "reasoning": "w1 covers people preparing for the GRE in India; this room is the same people two to four years later, in the US, and the ledger's path does not reach them as tax filers, so no warm id is claimed (past GRE users are a partial warm route worth noting). Search reach is clear: Sprintax, a paid nonresident filing tool, carries 250 pages of Trustpilot reviews (https://www.trustpilot.com/review/www.sprintax.com?page=4), sells state returns at $49.95 (https://blog.sprintax.com/prepare-state-tax-only-sprintax/), and universities route students to it; F1TaxReturn competes on price.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": null,
+        "reasoning": "US nonresident tax filing (Form 8843, 1040-NR, Forms 843 and 8316, FBAR) is not in the ledger. GRE quant and verbal is adjacent only through the same people, and corporate finance does not cover personal tax.",
+        "confidence": "high"
+      },
+      "spend": [
+        {
+          "what": "Sprintax federal and state nonresident return fees (as quoted by a competitor's comparison)",
+          "price_text": "$54.95 for federal returns and an additional $49.95 for state returns",
+          "amount": 54.95,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://www.f1taxreturn.com/blog/free-tax-filing-international-student-comparison",
+          "seen_via": "search"
+        },
+        {
+          "what": "F1TaxReturn optional state return add-on",
+          "price_text": "$30 state returns",
+          "amount": 30,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://f1taxreturn.com/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Sprintax state tax return preparation (Sprintax's own blog)",
+          "price_text": "$49.95",
+          "amount": 49.95,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://blog.sprintax.com/prepare-state-tax-only-sprintax/",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Form preparation and guidance need no capital, ritual or licensed advocacy. A signed return or representation before the IRS can be rented from a CPA or enrolled agent.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "A self-serve guide or tool for Form 8843 and 1040-NR needs no licence (Sprintax is software, not a preparer). Preparing and signing returns for pay needs a US preparer registration and IRS representation needs a CPA, EA or attorney, so the founder must not do those himself but can rent them (r1). Nothing here is immigration advice.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": false,
+        "reasoning": "The room already buys $30 to $55 self-serve filing tools through search and university referrals, so a self-serve product needs little trust. A done-for-you fix of a wrongly filed 1040 would need more, but that is not the entry product.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "small-vendors-first-soc2-iso27001-audit",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://g2.com/products/vanta/reviews",
+        "reasoning": "The room's gathering places (Hacker News, Indie Hackers, Blind) hold mostly US and global SaaS founders, who are not a ledger warm path; w5 covers only the Indian call-centre slice, and the ledger note treats it as warm only for existing TinyAI clients. Search reach is clear: Vanta, a compliance platform at about $10,000 a year, is bought through search and carries hundreds of G2 reviews (https://g2.com/products/vanta/reviews), and audit firms publish their prices for search (https://soc2auditors.org/soc-2-audit-cost/).",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": null,
+        "reasoning": "SOC 2 and ISO 27001 are information-security controls, policies and audit evidence. The ledger's AI-products depth is adjacent (the founder sells to the same buyers and may have faced the questionnaire himself) but does not cover security compliance.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {
+          "what": "Vanta Core, entry tier of a compliance automation platform for one framework",
+          "price_text": "$10,000 per year",
+          "amount": 10000,
+          "currency": "USD",
+          "unit": "year",
+          "url": "https://www.complyjet.com/blog/vanta-pricing-guide-2025",
+          "seen_via": "search"
+        },
+        {
+          "what": "CPA firm's SOC 2 audit fee for a first report (Vanta guide)",
+          "price_text": "$10,000 to $50,000",
+          "amount": 10000,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://www.vanta.com/collection/soc-2/soc-2-audit-cost",
+          "seen_via": "search"
+        },
+        {
+          "what": "Penetration test, scoped web-app assessment at seed stage",
+          "price_text": "$5,000 for a scoped web app assessment",
+          "amount": 5000,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://getautonoma.com/blog/penetration-testing-cost",
+          "seen_via": "search"
+        },
+        {
+          "what": "SOC 2 Type 2 audit fee, September 2026 (audit-firm price page)",
+          "price_text": "$15,500–$50,000",
+          "amount": 15500,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://soc2auditors.org/soc-2-audit-cost/",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Readiness work needs judgment, templates and accountability. The audit opinion must come from a CPA firm and the pen test from a vendor, both rentable; no large capital, ritual or licensed advocacy.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "The SOC 2 report is an audit sign-off only a licensed CPA firm can issue, so the founder cannot be the auditor; readiness and evidence preparation need no licence and the audit is rented (r1). No employer overlap.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "A five-figure B2B engagement under deal pressure, bought by a founder who cannot judge the work until the auditor does.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "india-beauty-brands-cdsco-legal-metrology-epr",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.indiamart.com/proddetail/cosmetic-manufacturing-license-services-2850664087273.html",
+        "reasoning": "w5 names 'D2C brands' in India, but its people are businesses with large call volumes reached through TinyAI, and a pre-launch skincare or perfume brand is not one, so w5 is not claimed; the founder's own perfume brand (v2) makes him a peer, which is a venture, not a ledger warm path. The room already buys this kind of product on a public marketplace: IndiaMart lists cosmetic manufacturing licence services at ₹ 10000/month (https://www.indiamart.com/proddetail/cosmetic-manufacturing-license-services-2850664087273.html) and at ₹ 250000/certificate (https://www.indiamart.com/proddetail/cosmetics-manufacturing-licensing-services-20110144273.html), and consultants publish Legal Metrology and EPR fees for search.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": null,
+        "reasoning": "Cosmetics licensing, Legal Metrology labelling and plastic EPR are regulatory filings. Fragrance (d8, moderate) covers the product, not the paperwork, and no ledger domain covers Indian regulatory compliance.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {
+          "what": "Cosmetics manufacturing licence in Form 32, Tamil Nadu government fee",
+          "price_text": "Rs. 3,500/-",
+          "amount": 3500,
+          "currency": "INR",
+          "unit": "one-off",
+          "url": "https://drugscontrol.tn.gov.in/guidelines_cosmetics_manufacturing_licence_form32.html",
+          "seen_via": "search"
+        },
+        {
+          "what": "Legal Metrology packer registration (consultant's fee page)",
+          "price_text": "₹500 – ₹750 (state-specific)",
+          "amount": 500,
+          "currency": "INR",
+          "unit": "one-off",
+          "url": "https://crspl.in/registrations/legal-metrology-registration",
+          "seen_via": "search"
+        },
+        {
+          "what": "CPCB EPR brand-owner registration fee by plastic volume (consultant's page)",
+          "price_text": "₹10,000 to ₹50,000+",
+          "amount": 10000,
+          "currency": "INR",
+          "unit": "one-off",
+          "url": "https://www.agileregulatory.com/service/cpcb-epr-registration-certificate",
+          "seen_via": "search"
+        },
+        {
+          "what": "Compliance stack for a first skincare SKU (trademark, labels, GST) per a D2C playbook",
+          "price_text": "₹15,000 to ₹25,000 and two to three weeks for the full compliance stack",
+          "amount": 15000,
+          "currency": "INR",
+          "unit": "one-off",
+          "url": "https://d2c-acquisitionlab.com/playbooks/how-to-start-a-skincare-brand-india",
+          "seen_via": "search"
+        },
+        {
+          "what": "Cosmetic manufacturing licence consultancy, IndiaMart listing (Regal Guru, New Delhi)",
+          "price_text": "₹ 10000/month",
+          "amount": 10000,
+          "currency": "INR",
+          "unit": "month",
+          "url": "https://www.indiamart.com/proddetail/cosmetic-manufacturing-license-services-2850664087273.html",
+          "seen_via": "search"
+        },
+        {
+          "what": "Cosmetics manufacturing licensing service, IndiaMart listing (Regular Pharma Consultant, New Delhi)",
+          "price_text": "₹ 250000/certificate",
+          "amount": 250000,
+          "currency": "INR",
+          "unit": "one-off",
+          "url": "https://www.indiamart.com/proddetail/cosmetics-manufacturing-licensing-services-20110144273.html",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Filings, label checks and registrations need judgment and a consultant or CA, which is rentable. No large capital, ritual or licensed advocacy.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Regulatory consultants file Form 32, LMPC and EPR applications in India without a licence; nothing here is medical, legal or investment advice. No employer overlap. It overlaps the founder's own venture v2, which is a tag, not an exclusion.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "A founder hands launch-gating filings and label sign-off to someone else, a B2B service on a deadline. The marketplace listings show they buy it, but from named consultants they can check.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "startup-founders-409a-83b-deadlines",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://eqvista.com/409a-valuation/what-is-cost-of-409a-valuation/",
+        "reasoning": "Founders are not the investment-banking, PE or finance professionals w2 covers. The room already buys 409A valuations and 83(b) filing through search: Eqvista sells unlimited 409A valuations from $990 a year on a public pricing page (https://eqvista.com/409a-valuation/what-is-cost-of-409a-valuation/), Carta bundles one into its plans, and Clerky sells a managed 83(b) add-on pitched on Hacker News.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d2",
+        "reasoning": "A 409A is a valuation of common stock, and the raise needs a defended valuation and a term sheet, which is corporate finance and deal documents. The 83(b) election and the Delaware filings are tax and corporate procedure outside d2.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {
+          "what": "Stripe Atlas incorporation of a Delaware C-corp (one-time fee)",
+          "price_text": "$500",
+          "amount": 500,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://sparklaun.ch/compare/stripe-atlas",
+          "seen_via": "search"
+        },
+        {
+          "what": "First 409A valuation, early-stage pricing (Cake Equity guide)",
+          "price_text": "$1,000 to $3,000",
+          "amount": 1000,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://www.cakeequity.com/guides/409a-valuation-cost",
+          "seen_via": "search"
+        },
+        {
+          "what": "Pitch deck and model for the raise",
+          "price_text": "$2,000–$5,000",
+          "amount": 2000,
+          "currency": "USD",
+          "unit": "one-off",
+          "url": "https://www.spectup.com/resource-hub/how-much-does-a-pitch-deck-cost",
+          "seen_via": "search"
+        },
+        {
+          "what": "Eqvista unlimited 409A valuations for 12 months, starting tier",
+          "price_text": "$990",
+          "amount": 990,
+          "currency": "USD",
+          "unit": "year",
+          "url": "https://eqvista.com/409a-valuation/what-is-cost-of-409a-valuation/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Stripe Atlas yearly registered-agent renewal",
+          "price_text": "$100 Renewal",
+          "amount": 100,
+          "currency": "USD",
+          "unit": "year",
+          "url": "https://sparklaun.ch/compare/stripe-atlas",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "A safe-harbour 409A needs an independent appraiser, a qualification rather than a licence, which the founder can be or rent. Nothing needs large capital, ritual or licensed advocacy.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "US 409A appraisals and 83(b) reminders need no licence; US tax advice on the election itself is rented from a CPA, not given by the founder. No employer overlap in the room, but paid valuation work is the founder's day-job skill, so his employer's outside-business rules should be checked (REVIEW).",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "A 409A is a document the company, its auditors and later acquirers rely on, so buyers pick an appraiser they trust, even though it sells at $990 to $3,000 through search.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "sea-energy-companies-issb-climate-reporting",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w4",
+        "evidence_url": null,
+        "reasoning": "w4 is energy and infrastructure companies in Southeast Asia through the founder's work; the room's finance and sustainability managers at power, renewables, chemicals and oil and gas firms in Singapore, Malaysia and the region are exactly those people. Search reach also exists for the training step: ISCA sells the IFRS S1/S2 workshop at S$654.00 (https://www.isca.org.sg/iscaacademy/courses/sustainability/esg025) and a Malaysian training marketplace lists public classes at RM1,500–RM2,250 (https://corporatetrainingmalaysia.com/categories/esg-sustainability-training).",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d4",
+        "reasoning": "Climate risk, transition plans, scenario analysis and carbon-cost modelling for power, renewables, chemicals and oil and gas firms sit in the founder's energy-sector depth, with corporate finance (d2) for the modelling. The disclosure mechanics of IFRS S1 and S2 and greenhouse-gas accounting are a reporting discipline the ledger does not list.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {
+          "what": "ISCA workshop on applying IFRS S1 and S2 (run with SGX RegCo)",
+          "price_text": "S$654.00 (inclusive of GST)",
+          "amount": 654,
+          "currency": "SGD",
+          "unit": "one-off",
+          "url": "https://www.isca.org.sg/iscaacademy/courses/sustainability/esg025",
+          "seen_via": "search"
+        },
+        {
+          "what": "tCO2e carbon accounting software for Singapore SMEs, founding plan",
+          "price_text": "S$3,000/year",
+          "amount": 3000,
+          "currency": "SGD",
+          "unit": "year",
+          "url": "https://tc02e.com/",
+          "seen_via": "search"
+        },
+        {
+          "what": "One-day ESG and IFRS S1/S2 awareness class in Malaysia, public-class rate per participant (training marketplace, verified August 2026)",
+          "price_text": "~RM1,500–RM2,250",
+          "amount": 1500,
+          "currency": "MYR",
+          "unit": "participant",
+          "url": "https://corporatetrainingmalaysia.com/categories/esg-sustainability-training",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Gap assessments, first reports and transition plans need judgment and accountability. Assurance must come from an accredited provider, which is rentable; no large capital, ritual or licensed advocacy.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Employer overlap: the warm path w4 runs through the founder's job, and x2 (assumed) bars using employer clients, deals or confidential information. Serving companies that are not employer clients, using public information, would not trigger x2, but the founder must check his employer's outside-business rules before any approach; flagged for REVIEW. Preparing a climate disclosure needs no licence.",
+        "confidence": "low"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "A first mandatory disclosure that the board signs and an assurer later checks, bought by a CFO as a B2B engagement on trust.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "bpo-contact-centre-operators-india-philippines",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w5",
+        "evidence_url": null,
+        "reasoning": "Call centres in India are the first item in w5, so the Indian half of the room is exactly the businesses TinyAI sells to; the ledger note says the path is mostly cold unless they are existing clients, and the Philippines is outside w5's geography. Search reach also applies: operators buy dialers and QA tools from search and review sites, e.g. Bonvoice cloud telephony plans from ₹999/mo (https://bonvoice.com/pricing-plans/), Ozonetel on G2 and Capterra, and Enthu.ai call QA at $59 per agent per month (https://enthu.ai/pricing/).",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d5",
+        "reasoning": "Dialers, call auditing and AI voice agents are the founder's strong domain of AI products for businesses; voice agents and call auditing are named in it.",
+        "confidence": "high"
+      },
+      "spend": [
+        {
+          "what": "Ozonetel cloud telephony and dialer, Starter plan per agent seat",
+          "price_text": "$25/user/month",
+          "amount": 25,
+          "currency": "USD",
+          "unit": "user per month",
+          "url": "https://bonvoice.com/insights/ozonetel-pricing-in-india/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Zendesk QA software to score and audit agent calls",
+          "price_text": "$35 per agent, per month, billed annually",
+          "amount": 35,
+          "currency": "USD",
+          "unit": "agent per month",
+          "url": "https://www.zendesk.com/service/quality-assurance/customer-service-quality-assurance-software/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Vapi AI voice-agent platform usage",
+          "price_text": "$0.05 per minute",
+          "amount": 0.05,
+          "currency": "USD",
+          "unit": "minute",
+          "url": "https://vapi.ai/pricing",
+          "seen_via": "search"
+        },
+        {
+          "what": "Enthu.ai conversation intelligence and auto-QA, starting price",
+          "price_text": "$59 per agent per month",
+          "amount": 59,
+          "currency": "USD",
+          "unit": "agent per month",
+          "url": "https://enthu.ai/pricing/",
+          "seen_via": "search"
+        },
+        {
+          "what": "Bonvoice cloud telephony plans in India, entry plan",
+          "price_text": "From ₹999/mo",
+          "amount": 999,
+          "currency": "INR",
+          "unit": "month",
+          "url": "https://bonvoice.com/pricing-plans/",
+          "seen_via": "search"
+        }
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Tooling, call audits and supervisor training need judgment, vendors and accountability. No large capital, ritual or licensed advocacy.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "No licence is needed and no employer clients are involved. It overlaps the founder's own TinyAI venture (v4), which is a tag, not an exclusion.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "A B2B sale to an operator whose client contracts depend on quality scores; they buy from vendors they trust.",
+        "confidence": "high"
+      }
+    }
+  ]
+}
