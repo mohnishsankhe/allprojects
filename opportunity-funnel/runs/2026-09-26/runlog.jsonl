@@ -1270,3 +1270,14 @@
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T17:50:47+00:00"}
 {"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T17:50:48+00:00"}
 {"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T17:52:23+00:00"}
+{"command": "show", "ids": 10, "kind": "ran", "missing": [], "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T17:52:25+00:00"}
+{"command": "show", "ids": 18, "kind": "ran", "missing": [], "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T17:52:47+00:00"}
+{"command": "show", "ids": 18, "kind": "ran", "missing": [], "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T17:52:47+00:00"}
+{"command": "show", "ids": 19, "kind": "ran", "missing": [], "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T17:52:48+00:00"}
+{"command": "show", "ids": 15, "kind": "ran", "missing": [], "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T17:52:48+00:00"}
+{"command": "show", "ids": 10, "kind": "ran", "missing": [], "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T17:54:18+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T17:55:18+00:00"}
+{"command": "show", "ids": 15, "kind": "ran", "missing": [], "room": "gre-preppers-worldwide-online", "stage": 3, "ts": "2026-09-27T17:55:27+00:00"}
+{"by_kind": {"blog_or_site": 579, "forum": 576, "jobs": 105, "news": 49, "official": 98, "qa": 138, "reviews": 90, "social": 6, "video": 107}, "by_source": {"websearch": 1748}, "by_voice": {"media": 250, "member": 264, "other": 903, "seller": 331}, "command": "count", "kind": "count", "labeled": 1748, "pains": 20, "room": "small-industrial-property-investors", "source_kinds": 9, "stage": 3, "ts": "2026-09-27T17:56:44+00:00"}
+{"command": "listen-status", "dated": 20, "kind": "ran", "per_round": {"1": 978, "2": 806}, "per_source": {"websearch": 1784}, "records": 1784, "room": "small-industrial-property-investors", "stage": 3, "ts": "2026-09-27T17:56:45+00:00", "undated": 1764}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T17:57:25+00:00"}
