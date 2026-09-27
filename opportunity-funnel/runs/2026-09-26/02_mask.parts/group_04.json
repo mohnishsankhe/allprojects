@@ -1,0 +1,557 @@
+{
+ "rooms": [
+  {
+   "slug": "gre-engineers-india",
+   "reach": {
+    "kind": "warm",
+    "ledger_id": "w1",
+    "evidence_url": null,
+    "reasoning": "This room is word for word the people w1 covers: Indian engineers preparing for the GRE to study abroad, reached through the founder's GRE product and its users. Search reach also holds: Magoosh sells a 30-day GRE Premium plan at $149 through search (https://gre.magoosh.com/register/premium-30-days) and its GRE book is listed on Flipkart (https://www.flipkart.com/gre-prep-magoosh/p/itmev76vpyxzgymb).",
+    "confidence": "high"
+   },
+   "depth": {
+    "ledger_id": "d1",
+    "reasoning": "The core paid problem is GRE quant and verbal prep, which is the ledger's d1 (strong). Later steps (registration, counsellors, loans, visa) are outside depth but are not the room's first paid problem.",
+    "confidence": "high"
+   },
+   "spend": [
+    {
+     "what": "GRE online-live coaching programme in India (2026 range)",
+     "price_text": "₹15,000–₹30,000",
+     "amount": 15000,
+     "currency": "INR",
+     "unit": "package",
+     "url": "https://www.wikatiedu.com/blog/ielts-gre-sat-2026-coaching-fees-exam-guide/",
+     "seen_via": "search"
+    },
+    {
+     "what": "GRE exam registration fee in India",
+     "price_text": "₹22,550",
+     "amount": 22550,
+     "currency": "INR",
+     "unit": "one-off",
+     "url": "https://eecglobal.com/blog/gre-fee-registration-india-2026",
+     "seen_via": "search"
+    },
+    {
+     "what": "EEC online live + pre-recorded GRE programme",
+     "price_text": "₹7,500",
+     "amount": 7500,
+     "currency": "INR",
+     "unit": "package",
+     "url": "https://eecglobal.com/blog/best-gre-coaching-online-india-2026",
+     "seen_via": "search"
+    },
+    {
+     "what": "Magoosh GRE 1-Month Premium self-study plan",
+     "price_text": "$149",
+     "amount": 149,
+     "currency": "USD",
+     "unit": "month",
+     "url": "https://testprepinsight.com/reviews/magoosh-gre-review/",
+     "seen_via": "search"
+    }
+   ],
+   "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "GRE prep needs judgment, practice and accountability before a fixed test date. No large capital, ritual or licensed advocacy is at the core.",
+    "confidence": "high"
+   },
+   "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "Test prep needs no licence in India and touches nothing from the founder's employer. The room overlaps the founder's own GRE venture (v1), which is tagged, not excluded.",
+    "confidence": "high"
+   },
+   "trust_needed": {
+    "value": true,
+    "reasoning": "Self-serve apps sell at $149 without trust, but the likely product here (coaching or a cohort at ₹7,500 to ₹30,000, paid by parents before an exam date) needs a credible guide. Warm reach covers that.",
+    "confidence": "moderate"
+   }
+  },
+  {
+   "slug": "ms-abroad-applicants-india",
+   "reach": {
+    "kind": "warm",
+    "ledger_id": "w1",
+    "evidence_url": null,
+    "reasoning": "These are the founder's GRE product users a few months later, applying to the master's they took the GRE for, so w1 (the GRE product and its users, and the test-prep partner) reaches the same people; the warm text says 'preparing for the GRE', so this is a step past it and confidence is moderate. Search reach also applies: Yocket Premium counselling sells at ₹60,000–₹120,000 through search (https://yocket.com/premium), Yocket's app is on Google Play (https://play.google.com/store/apps/details?id=in.yocket) and SOP editing sells on Gumroad at $100 (https://scholarmemory.gumroad.com/l/Editing).",
+    "confidence": "moderate"
+   },
+   "depth": {
+    "ledger_id": null,
+    "reasoning": "The core paid problems are SOP and essay editing, university shortlisting, education loans and the visa. None is a ledger depth domain; GRE quant and verbal (d1) is the step before, not this one.",
+    "confidence": "high"
+   },
+   "spend": [
+    {
+     "what": "SOP and application essay editing (Gumroad listing)",
+     "price_text": "$100",
+     "amount": 100,
+     "currency": "USD",
+     "unit": "one-off",
+     "url": "https://scholarmemory.gumroad.com/l/Editing",
+     "seen_via": "search"
+    },
+    {
+     "what": "Yocket Premium study-abroad counselling package",
+     "price_text": "₹60,000–₹120,000",
+     "amount": 60000,
+     "currency": "INR",
+     "unit": "package",
+     "url": "https://yocket.com/premium",
+     "seen_via": "search"
+    },
+    {
+     "what": "Full study-abroad counselling package with SOP/LOR guidance, shortlisting and visa support (India range)",
+     "price_text": "Rs 10,000 to Rs 50,000",
+     "amount": 10000,
+     "currency": "INR",
+     "unit": "package",
+     "url": "https://www.edushaale.com/post/sop-and-lor-help-for-study-abroad",
+     "seen_via": "search"
+    }
+   ],
+   "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "The pains need editing judgment, shortlisting and accountability against October-to-March deadlines. Loans come from banks and visas from consulates; no large capital, ritual or licensed advocacy sits at the core.",
+    "confidence": "high"
+   },
+   "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "SOP editing and shortlisting are sold by unlicensed counsellors in India, the customer's country. Loan help must stay informational and nobody would be represented before a foreign immigration office, so x1 does not bite; no employer overlap.",
+    "confidence": "moderate"
+   },
+   "trust_needed": {
+    "value": true,
+    "reasoning": "The outcome is personal (an admit, a loan, a visa), parents pay, and packages run from ₹10,000 to over a lakh, so buyers want a guide they believe.",
+    "confidence": "high"
+   }
+  },
+  {
+   "slug": "h1b-workers-new-to-us",
+   "reach": {
+    "kind": "search",
+    "ledger_id": "s1",
+    "evidence_url": "https://permito.ai/",
+    "reasoning": "No warm path covers H-1B workers in the US. The room does buy self-serve tools through search: Permito sells H-1B stamping mock interviews at $19 for 3, $29 for 10 and $59 for an unlimited plan, found by searching for visa interview practice. The bigger spends (attorneys, premium processing) go through employers and lawyers, not search, so confidence is moderate.",
+    "confidence": "moderate"
+   },
+   "depth": {
+    "ledger_id": null,
+    "reasoning": "The core problems are visa stamping, US immigration filings, credit history and a first US tax return. None is a ledger depth domain.",
+    "confidence": "high"
+   },
+   "spend": [
+    {
+     "what": "H-1B extension or transfer with premium processing",
+     "price_text": "$2,965",
+     "amount": 2965,
+     "currency": "USD",
+     "unit": "one-off",
+     "url": "https://www.vorys.com/publication-uscis-announces-increases-to-premium-processing-fees",
+     "seen_via": "search"
+    },
+    {
+     "what": "Permito unlimited H-1B mock interview plan",
+     "price_text": "$59",
+     "amount": 59,
+     "currency": "USD",
+     "unit": "one-off",
+     "url": "https://permito.ai/",
+     "seen_via": "search"
+    },
+    {
+     "what": "MRV visa application fee for H-1B stamping in India",
+     "price_text": "$185",
+     "amount": 185,
+     "currency": "USD",
+     "unit": "one-off",
+     "url": "https://www.beyondborderglobal.com/resources/h1b-visa-india-guide",
+     "seen_via": "search"
+    }
+   ],
+   "supply": {
+    "blocked": true,
+    "needs": [
+     "licensed_advocacy"
+    ],
+    "reasoning": "Three of the five ladder steps (stamping, extension or transfer, green card) are immigration filings where the real help is a licensed attorney acting for the worker, which the ledger lists under 'advocacy that needs a licence'. Landing setup and interview practice do not need it, but they are not what the room gathers around.",
+    "confidence": "moderate"
+   },
+   "excluded": {
+    "is_excluded": true,
+    "exclusion_id": "x1",
+    "reasoning": "In the US, the customer's country, immigration advice is regulated: only licensed attorneys or accredited representatives may give it. A product built around visa status would need a licence the founder does not hold; interview practice and settling-in checklists alone would not, but they are not the core.",
+    "confidence": "moderate"
+   },
+   "trust_needed": {
+    "value": true,
+    "reasoning": "Visa status and the right to stay are personal, high-stakes outcomes; people follow lawyers and peers they trust, and search reach plus trust is a poor fit.",
+    "confidence": "high"
+   }
+  },
+  {
+   "slug": "mba-applicants-gmat-global",
+   "reach": {
+    "kind": "search",
+    "ledger_id": "s1",
+    "evidence_url": "https://gmatclub.com/marketplace/admission-consulting",
+    "reasoning": "No warm path covers MBA applicants as a room: w1 is Indian engineers taking the GRE for a master's abroad and w2 is finance professionals as colleagues, each only a slice here. The room plainly buys through public marketplaces and search: GMAT Club's marketplace sells admissions-consulting packages with verified reviews (Admissionado from $3,250) and Target Test Prep sells GMAT plans at $99 per month (https://gmat.targettestprep.com/plans).",
+    "confidence": "high"
+   },
+   "depth": {
+    "ledger_id": null,
+    "reasoning": "The core paid problems are GMAT prep, admissions essays and loans; the ledger lists GRE quant and verbal (d1), not the GMAT, and the GRE-track applicants are a minority of the room. Step 6 (investment banking recruiting) is d2, but it is the last step, not the core. Not stretching d1 to cover the GMAT.",
+    "confidence": "moderate"
+   },
+   "spend": [
+    {
+     "what": "Target Test Prep GMAT Monthly Flex plan",
+     "price_text": "$99 per month",
+     "amount": 99,
+     "currency": "USD",
+     "unit": "month",
+     "url": "https://e-student.org/target-test-prep-gmat/",
+     "seen_via": "search"
+    },
+    {
+     "what": "MBA admissions consulting, per-school pricing (GMAT Club thread)",
+     "price_text": "$3,000 for the first school and $1,000 for each additional school",
+     "amount": 3000,
+     "currency": "USD",
+     "unit": "package",
+     "url": "https://gmatclub.com/forum/admissions-consulting-fees-362841.html",
+     "seen_via": "search"
+    },
+    {
+     "what": "Admissionado Basic Package (GMAT Club reviews, 4.9/5)",
+     "price_text": "$3,250",
+     "amount": 3250,
+     "currency": "USD",
+     "unit": "package",
+     "url": "https://gmatclub.com/reviews/admissionado-12?page=20",
+     "seen_via": "search"
+    },
+    {
+     "what": "Admit Advantage Select tier MBA consulting",
+     "price_text": "$3,500",
+     "amount": 3500,
+     "currency": "USD",
+     "unit": "package",
+     "url": "https://www.admitadvantage.com/mba/pricing/",
+     "seen_via": "search"
+    },
+    {
+     "what": "GMAT exam registration",
+     "price_text": "$275 USD",
+     "amount": 275,
+     "currency": "USD",
+     "unit": "one-off",
+     "url": "https://test-ninjas.com/gmat-registration-fees-and-cost",
+     "seen_via": "search"
+    }
+   ],
+   "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "Prep, essays and interview practice need judgment and accountability against round deadlines. Loans come from lenders such as Prodigy; nothing at the core needs large capital, ritual or licensed advocacy.",
+    "confidence": "high"
+   },
+   "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "Test prep and admissions consulting need no licence anywhere; loan help must stay informational. Employer overlap: the recruiting step (investment banking and consulting interviews) touches the founder's industry, but coaching applicants on skills uses no employer clients, deals or confidential information.",
+    "confidence": "moderate"
+   },
+   "trust_needed": {
+    "value": true,
+    "reasoning": "Test-prep plans at $99 a month sell self-serve, but consulting at $3,000 and up for a personal admit outcome is bought on reputation and verified reviews. Search reach plus trust is flagged.",
+    "confidence": "moderate"
+   }
+  },
+  {
+   "slug": "cat-aspirants-india",
+   "reach": {
+    "kind": "search",
+    "ledger_id": "s1",
+    "evidence_url": "https://cracku.in/cat-2026-course",
+    "reasoning": "No warm path covers CAT aspirants; w1 is GRE-specific. The room buys CAT courses and mock series online through search: Cracku sells CAT 2026 courses from Rs 1,699 and a 25-mock series at ₹999 (https://cracku.in/group-offer/catmocks), and IMS and TIME sell online programmes the same way.",
+    "confidence": "high"
+   },
+   "depth": {
+    "ledger_id": null,
+    "reasoning": "The core paid problems are CAT quant, verbal, data interpretation and logical reasoning, then GD-PI-WAT rounds. The ledger's d1 is GRE quant and verbal, an adjacent exam, so it does not cover the CAT; the placement step touches d2 but is step 5.",
+    "confidence": "moderate"
+   },
+   "spend": [
+    {
+     "what": "CAT classroom coaching at TIME, IMS or Career Launcher",
+     "price_text": "Rs 55,000–75,000",
+     "amount": 55000,
+     "currency": "INR",
+     "unit": "package",
+     "url": "https://www.mbauniverse.com/cat/coaching",
+     "seen_via": "search"
+    },
+    {
+     "what": "IMS CAT mock test series",
+     "price_text": "Rs 7,450",
+     "amount": 7450,
+     "currency": "INR",
+     "unit": "package",
+     "url": "https://www.mbarendezvous.com/articles/ims-cat-coaching-institute-fees/",
+     "seen_via": "search"
+    },
+    {
+     "what": "Cracku CAT 2026 All India Test Series, 25 mocks with solutions (flash sale)",
+     "price_text": "₹999",
+     "amount": 999,
+     "currency": "INR",
+     "unit": "package",
+     "url": "https://cracku.in/group-offer/catmocks",
+     "seen_via": "search"
+    },
+    {
+     "what": "IMS CAT online coaching programme (starting fee)",
+     "price_text": "Rs 25,000",
+     "amount": 25000,
+     "currency": "INR",
+     "unit": "package",
+     "url": "https://www.mbauniverse.com/cat/coaching",
+     "seen_via": "search"
+    }
+   ],
+   "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "CAT prep needs teaching judgment, mocks and accountability before a November exam date. No large capital, ritual or licensed advocacy is at the core.",
+    "confidence": "high"
+   },
+   "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "Exam coaching needs no licence in India and uses nothing from the founder's employer. Loan help at step 4 must stay informational.",
+    "confidence": "high"
+   },
+   "trust_needed": {
+    "value": true,
+    "reasoning": "Mock series at ₹999 sell self-serve, but the likely product from this founder (a cohort or coaching at ₹7,450 to ₹25,000, paid by parents) needs a credible teacher. Search reach plus trust is flagged.",
+    "confidence": "moderate"
+   }
+  },
+  {
+   "slug": "laid-off-tech-workers",
+   "reach": {
+    "kind": "search",
+    "ledger_id": "s1",
+    "evidence_url": "https://topresume.com/plans",
+    "reasoning": "No warm path covers tech workers; w2 reaches finance professionals, not this room. Laid-off workers buy resume and coaching services through search: TopResume sells packages at $179 to $599 from its plans page, and coaches advertise laid-off rates such as $195 per session (https://www.headgloballlc.com/store/career-coaching-executive).",
+    "confidence": "high"
+   },
+   "depth": {
+    "ledger_id": null,
+    "reasoning": "The core paid problems are resumes, interview prep, job search and, for a slice, an H-1B transfer. The ledger has no job-search or tech-career domain.",
+    "confidence": "high"
+   },
+   "spend": [
+    {
+     "what": "Professional resume rewrite (2026 typical price)",
+     "price_text": "$179",
+     "amount": 179,
+     "currency": "USD",
+     "unit": "one-off",
+     "url": "https://kinetk.io/blog/resume-writer-cost-2026/",
+     "seen_via": "search"
+    },
+    {
+     "what": "Career coaching and interview prep, hourly range",
+     "price_text": "$75–$200 per hour",
+     "amount": 75,
+     "currency": "USD",
+     "unit": "hour",
+     "url": "https://www.resumeble.com/career-advice/resume-services-cost",
+     "seen_via": "search"
+    },
+    {
+     "what": "Head Global career coaching, laid-off or furloughed rate",
+     "price_text": "$195 per session",
+     "amount": 195,
+     "currency": "USD",
+     "unit": "session",
+     "url": "https://www.headgloballlc.com/store/career-coaching-executive",
+     "seen_via": "search"
+    },
+    {
+     "what": "Timothy Thomas tech career coaching, single 60-minute session (first two)",
+     "price_text": "$225",
+     "amount": 225,
+     "currency": "USD",
+     "unit": "session",
+     "url": "https://timothythomas.com/coaching-sessions-rates/",
+     "seen_via": "search"
+    }
+   ],
+   "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "Resumes, interview practice and accountability through a job hunt need judgment and coaching, not capital, ritual or a licence. The H-1B transfer slice needs an immigration attorney, which is one step, not the core.",
+    "confidence": "high"
+   },
+   "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "Career coaching and resume work need no licence. The visa step must stay with licensed attorneys and severance or health-cover questions must stay informational, which keeps the core clear of x1; no employer overlap.",
+    "confidence": "high"
+   },
+   "trust_needed": {
+    "value": true,
+    "reasoning": "Resume rewrites at $179 are bought self-serve, but coaching at $195 to $225 a session for a personal outcome under a 60-day visa clock is bought on trust. Search reach plus trust is flagged.",
+    "confidence": "moderate"
+   }
+  },
+  {
+   "slug": "first-time-managers",
+   "reach": {
+    "kind": "search",
+    "ledger_id": "s1",
+    "evidence_url": "https://maven.com/dave-kline/mgmt-fundamentals",
+    "reasoning": "No warm path covers newly promoted managers; a few are finance colleagues (w2) but the room is global and cross-industry. They buy this kind of product on public marketplaces and through search: Maven's MGMT Fundamentals cohort for managers in their first 0 to 18 months sells at $2,500, and Udemy lists many paid new-manager courses (https://www.udemy.com/topic/manager-training/).",
+    "confidence": "high"
+   },
+   "depth": {
+    "ledger_id": null,
+    "reasoning": "The core paid problems are people management: 1:1s, feedback, hiring and firing. Management is not on the ledger's depth list, even though the founder's supply (accountability, cohorts) fits how the room buys.",
+    "confidence": "high"
+   },
+   "spend": [
+    {
+     "what": "New-manager bootcamp in the first 90 days",
+     "price_text": "$500 per person",
+     "amount": 500,
+     "currency": "USD",
+     "unit": "package",
+     "url": "https://www.evolution2revolution.com/new-manager-bootcamp",
+     "seen_via": "search"
+    },
+    {
+     "what": "Berkeley Executive Education New Manager Boot Camp",
+     "price_text": "$5,400.00",
+     "amount": 5400,
+     "currency": "USD",
+     "unit": "package",
+     "url": "https://executive.berkeley.edu/programs/new-manager-boot-camp",
+     "seen_via": "search"
+    },
+    {
+     "what": "Maven MGMT Fundamentals, 6-week live cohort for new managers",
+     "price_text": "$2,500",
+     "amount": 2500,
+     "currency": "USD",
+     "unit": "package",
+     "url": "https://skillscouter.com/best-online-management-courses/",
+     "seen_via": "search"
+    },
+    {
+     "what": "Kapable Leadership Training For New Managers, 14-week programme",
+     "price_text": "$2,400",
+     "amount": 2400,
+     "currency": "USD",
+     "unit": "package",
+     "url": "https://kapable.club/blog/leadership/best-leadership-training-for-new-managers/",
+     "seen_via": "search"
+    }
+   ],
+   "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "The pains need coaching, peers and accountability, which the ledger says the founder can be (c1, c4). No large capital, ritual or licensed advocacy is involved.",
+    "confidence": "high"
+   },
+   "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "Management training needs no licence and uses nothing from the founder's employer; only firing or HR-law questions would need a rented lawyer, and they are not the product.",
+    "confidence": "high"
+   },
+   "trust_needed": {
+    "value": true,
+    "reasoning": "Cohorts and coaching at $2,400 to $5,400, often on an employer's budget, are bought on the instructor's credibility; a $20 Udemy course is the only self-serve tier. Search reach plus trust is flagged.",
+    "confidence": "high"
+   }
+  },
+  {
+   "slug": "first-time-founders-pre-seed",
+   "reach": {
+    "kind": "search",
+    "ledger_id": "s1",
+    "evidence_url": "https://stripe.com/atlas",
+    "reasoning": "No warm path covers first-time founders; the founder's finance and private-equity contacts (w2) are investors, not this room. Founders buy this kind of product through search and public marketplaces at scale: Stripe Atlas incorporates companies for a flat $500, Clerky sells incorporation at $427 (https://sparklaun.ch/compare/clerky) and Slidebean sells pitch-deck software and design from $7 a month to $799 (https://slidebean.com/pricing).",
+    "confidence": "high"
+   },
+   "depth": {
+    "ledger_id": "d2",
+    "reasoning": "Half of the room's definition is raising a first round: pitch deck, SAFE terms, valuation and the financial model, which sit inside d2 (corporate finance, valuation, deal documents). Incorporation, compliance and first customers are outside depth, so the match is partial.",
+    "confidence": "moderate"
+   },
+   "spend": [
+    {
+     "what": "Stripe Atlas incorporation, one-time fee",
+     "price_text": "$500",
+     "amount": 500,
+     "currency": "USD",
+     "unit": "one-off",
+     "url": "https://sparklaun.ch/compare/stripe-atlas",
+     "seen_via": "search"
+    },
+    {
+     "what": "Professional pitch deck for a pre-seed raise (typical spend)",
+     "price_text": "$2,000–$5,000",
+     "amount": 2000,
+     "currency": "USD",
+     "unit": "one-off",
+     "url": "https://www.spectup.com/resource-hub/how-much-does-a-pitch-deck-cost",
+     "seen_via": "search"
+    },
+    {
+     "what": "Clerky incorporation, pay per filing",
+     "price_text": "$427",
+     "amount": 427,
+     "currency": "USD",
+     "unit": "one-off",
+     "url": "https://sparklaun.ch/compare/clerky",
+     "seen_via": "search"
+    },
+    {
+     "what": "Slidebean Accelerate plan (pitch deck writing and financial-model help)",
+     "price_text": "$99 per month",
+     "amount": 99,
+     "currency": "USD",
+     "unit": "month",
+     "url": "https://www.toolsforhumans.ai/ai-tools/slidebean",
+     "seen_via": "search"
+    }
+   ],
+   "supply": {
+    "blocked": false,
+    "needs": [],
+    "reasoning": "Deck, terms and model review need judgment (c2 in d2) and accountability; legal filings come from vendors like Stripe Atlas or a rented lawyer (r1). Raising the money itself is the investors' capital, not the founder's, as long as no placement fee is taken.",
+    "confidence": "moderate"
+   },
+   "excluded": {
+    "is_excluded": false,
+    "exclusion_id": null,
+    "reasoning": "Advising a founder on valuation and SAFE terms for a flat fee needs no licence; taking a success fee for finding investors in the US would need a broker-dealer licence, so the product must stay advisory. Employer overlap: the founder's bank does not work pre-seed rounds, but its investor relationships must not be used.",
+    "confidence": "moderate"
+   },
+   "trust_needed": {
+    "value": true,
+    "reasoning": "Incorporation at $500 is bought self-serve, but deck and terms advice at $2,000 and up shapes a founder's ownership and is bought on credibility. Search reach plus trust is flagged.",
+    "confidence": "high"
+   }
+  }
+ ]
+}
