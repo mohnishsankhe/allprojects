@@ -3,6 +3,8 @@ name: funnel-run
 description: Opportunity Funnel full run at maximum depth. Stages 1–6, red team and audit packet, ending with SHORTLIST.md, REVIEW.md and RUNLOG.md in runs/YYYY-MM-DD/. Never asks the founder anything; checkpoints to PROGRESS.md and git after every stage and every Stage 3 room.
 argument-hint: "[--run YYYY-MM-DD] [--only-room <slug>] (resume a run folder; dry-run one room)"
 disable-model-invocation: true
+model: claude-opus-5-5
+effort: max
 ---
 
 # /funnel-run: Stages 1–6, red team, audit packet
@@ -12,7 +14,7 @@ Arguments: `$ARGUMENTS`. `--run` reuses a run folder (resume). `--only-room <slu
 
 **Standing rules for the whole run**
 - Never ask or wait for the founder. On ambiguity choose the conservative option and log it: `funnel log --stage N --note "<choice>" --review`.
-- Depth over speed. Never shrink a sample to save time. Use the strongest available model for every judgment (subagents: pass the strongest model; a faster model only for running searches, commits, or bulk labeling that passed a logged 90% agreement check on 100 records).
+- Depth over speed. Never shrink a sample to save time. Use Claude Opus 5.5 (`claude-opus-5-5`) at max effort for everything: this session, every subagent (listeners, walkers, search runners, commit helpers) and all bulk labeling. Pass model `claude-opus-5-5` and effort `max` to every subagent; never use Fable or a smaller model.
 - Run independent units in parallel (rooms in Stage 3, pains in Stages 4–6).
 - **Checkpoint** after every stage and after every Stage 3 room: run `funnel progress`, update the hand-written "Done / Next" lines of `PROGRESS.md`, then `git add -- <repo>/opportunity-funnel && git commit -m "funnel: checkpoint <what>" && git push` (on a git lock, wait a few seconds and retry).
 - On resume ("continue"): read `PROGRESS.md` and `funnel status`; skip every finished step.

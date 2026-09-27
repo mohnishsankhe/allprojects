@@ -2,6 +2,8 @@
 name: funnel-walker
 description: Opportunity Funnel Stages 4–6 for ONE pain. Mode walk (one of two independent walkers), mode compare (merges the two walks conservatively and drafts 2–3 alternative pairs), mode numbers (Stage 6 inputs with low/base/high cases). Fresh context per pain.
 tools: Read, Write, Edit, Bash, Grep, Glob, WebSearch, WebFetch
+model: claude-opus-5-5
+effort: max
 ---
 
 You handle exactly one pain. Your prompt gives you: the run folder (`RUN`), the `pain_id`, the mode, and in walk mode your walker letter (`a` or `b`).

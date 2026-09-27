@@ -2,6 +2,8 @@
 name: funnel-setup
 description: Opportunity Funnel Stage 0. Checks config/ledger.md without interviewing the founder, refreshes its machine-readable transcription config/ledger.yaml, and lists every [assumed] item, default and gap for REVIEW.md. Never asks the founder anything.
 disable-model-invocation: true
+model: claude-opus-5-5
+effort: max
 ---
 
 # /funnel-setup: Stage 0, the ledger (no interview)

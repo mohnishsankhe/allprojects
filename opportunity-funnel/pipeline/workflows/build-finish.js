@@ -41,7 +41,8 @@ const FINDINGS = {
   }, required: ['title', 'file', 'severity', 'description', 'failure_scenario', 'suggested_fix'] } } },
   required: ['findings'],
 }
-const M = 'fable'
+// Model policy (founder, 2026-09-27): Claude Opus 5.5 at max effort for every agent.
+const M = { model: 'claude-opus-5-5', effort: 'max' }
 
 phase('Modules')
 const JOBS = [
@@ -53,7 +54,7 @@ Do NOT edit core or already-finished modules (common, anonymize, netfetch, recor
 
 YOUR JOB: ${j.prompt}
 
-Make all your tests pass. Put the final pytest output verbatim in test_result.`, { label: `module:${j.key}`, phase: 'Modules', schema: REPORT, model: M })))
+Make all your tests pass. Put the final pytest output verbatim in test_result.`, { label: `module:${j.key}`, phase: 'Modules', schema: REPORT, ...M })))
 const modReports = JOBS.map((j, i) => ({ key: j.key, report: modules[i] }))
 log(`Modules: ${modReports.map(m => `${m.key}=${m.report ? 'ok' : 'FAILED'}`).join(', ')}`)
 
@@ -66,7 +67,7 @@ Also note: sources.py, admin.py, prices.py, stage1.py and stage2.py were built b
 2. Write tests/test_e2e.py: a full synthetic run through the CLI in subprocesses (FUNNEL_ROOT_OVERRIDE to a tmp copy with the real config; FUNNEL_OFFLINE=1; FUNNEL_TRANSCRIPTS_DIR to a tmp dir holding synthetic transcript lines in both forms): preflight, rooms --merge-parts --dry-run (small parts incl. a gap part), fx, mask --merge-parts, then 2 rooms: queries.jsonl for 2 rounds -> harvest-search -> batches -> taxonomy + labels -> count -> saturation, then pains_draft files (some quotes exact, some altered) -> pains; walks with .a/.b/merged files exercising a kill, a trade hint, a rejected less-conservative merge (exit 1) then a corrected one, and business/partner alternatives; pairs; 06_inputs exercising a numbers kill and at least 2 survivors; redteam files + case_against.json re-ranking; audit-packet, shortlist, review, runlog, progress, status, commit-message. Assert key contents (quote_check statuses, graveyard lines, lanes, survivor order, SHORTLIST section order and 'Case against', REVIEW sections incl. [assumed] items, no raw emails/phones under runs/ outside raw/). Run the sequence a SECOND time on the same folder: every output except runlog.jsonl, RUNLOG.md and PROGRESS.md byte-identical; no duplicate graveyard lines.
 3. Write tests/test_docs_cli_sync.py: parse ${F}/.claude/skills/*/SKILL.md and ${F}/.claude/agents/*.md for every 'funnel <command> [--flags]' usage and assert the CLI has that command and those flags. Fix the CLI when they disagree; list doc fixes in needed_changes_elsewhere.
 4. Check 'python3 ${F}/pipeline/funnel.py --help' works from /tmp and from ${F}.
-5. Full suite green. Final pytest output (verbatim, last 30 lines) in test_result.`, { label: 'integrate', phase: 'Integrate', schema: REPORT, model: M })
+5. Full suite green. Final pytest output (verbatim, last 30 lines) in test_result.`, { label: 'integrate', phase: 'Integrate', schema: REPORT, ...M })
 log(`Integration: ${integ ? integ.test_result.split('\n').filter(Boolean).slice(-1)[0] : 'FAILED'}`)
 
 phase('Review')
@@ -79,7 +80,7 @@ const LENSES = [
 const reviews = await parallel(LENSES.map(l => () => agent(`${RULES}
 You are an independent reviewer. Do NOT edit any file (scratch files under /tmp only). Report only real, verified problems with a concrete failure scenario. No style nits.
 
-LENS: ${l.prompt}`, { label: `review:${l.key}`, phase: 'Review', schema: FINDINGS, model: M })))
+LENS: ${l.prompt}`, { label: `review:${l.key}`, phase: 'Review', schema: FINDINGS, ...M })))
 const all = []
 reviews.forEach((r, i) => { if (r) r.findings.forEach(f => all.push({ lens: LENSES[i].key, ...f })) })
 const seen = new Set()
@@ -92,6 +93,6 @@ You may edit any file under ${F}/pipeline and ${F}/tests (not .claude/, config/,
 Independent reviewers reported these findings. For EACH: verify first (reproduce with a test or script). If real, fix the root cause and add a regression test. If not real, reject it in one line. Never weaken or delete an existing test.
 FINDINGS: ${JSON.stringify(deduped, null, 1)}
 Integration open items: ${JSON.stringify(integ ? { needed: integ.needed_changes_elsewhere, open: integ.open_issues } : 'integration failed — run the full suite and fix everything', null, 1)}
-Finish with the full suite green (cd ${F} && python3 -m pytest -q). In summary list each finding as 'FIXED: title' or 'REJECTED: title — reason'. Final pytest output (verbatim, last 30 lines) in test_result.`, { label: 'fix', phase: 'Fix', schema: REPORT, model: M })
+Finish with the full suite green (cd ${F} && python3 -m pytest -q). In summary list each finding as 'FIXED: title' or 'REJECTED: title — reason'. Final pytest output (verbatim, last 30 lines) in test_result.`, { label: 'fix', phase: 'Fix', schema: REPORT, ...M })
 
 return { modules: modReports, integrate: integ, findings: deduped, fix }
