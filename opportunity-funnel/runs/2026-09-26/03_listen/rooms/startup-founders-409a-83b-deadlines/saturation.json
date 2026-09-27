@@ -1,0 +1,34 @@
+{
+  "final": false,
+  "room": "startup-founders-409a-83b-deadlines",
+  "rounds": [
+    {
+      "evaluable": false,
+      "new_pains": [],
+      "new_records": 813,
+      "note": "not evaluable: round 1 builds the pain list; saturation is tested on the records of round 2 and later",
+      "rank_changes": [],
+      "records": 813,
+      "round": 1,
+      "saturated": false,
+      "taxonomy_keys": [
+        "409a-low-but-defensible",
+        "409a-too-expensive",
+        "409a-when-needed",
+        "83b-filing-confusion",
+        "83b-no-proof-of-filing",
+        "cap-table-tool-too-expensive",
+        "delaware-franchise-tax-shock",
+        "form-3921-deadline",
+        "incorporation-service-worth-it",
+        "missed-83b-deadline",
+        "non-us-founder-paperwork",
+        "paid-service-got-it-wrong"
+      ],
+      "window": 300,
+      "window_used": 813
+    }
+  ],
+  "stop_reason": null,
+  "window": 300
+}

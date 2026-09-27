@@ -1,0 +1,582 @@
+{
+  "labeled": 813,
+  "notes": [],
+  "pains": {
+    "409a-low-but-defensible": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "we want a low 409A that still holds up with the IRS and auditors",
+      "media_record_ids": [
+        "45ad30fad7f00877",
+        "5acf8e308a0716f1",
+        "6633e5117401d5f2",
+        "82a6caf1e5071320"
+      ],
+      "media_records": 4,
+      "member_record_ids": [
+        "91202eabc8637a9c",
+        "94ae64929379c7fd",
+        "cf2ed396ecdfcb90"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 3,
+      "seller_record_ids": [
+        "0dcc2363a50da44d",
+        "10de92b2fde58610",
+        "13cbf1ff2ef7c77a",
+        "1906349341fbf9a2",
+        "29b9f728696fecdb",
+        "2bcbf875fc3b1512",
+        "3510c85d9f635a8a",
+        "3bd9605c930b8a76",
+        "4f99cda1a521a657",
+        "548759ca88770aa4",
+        "623c67f7b0f59859",
+        "63ca33ce8ea426dc",
+        "89b2b9290d9c94b2",
+        "8e172ca632894a89",
+        "90e0b2e8e73e551e",
+        "95016faa6f832a29",
+        "aebaff81b59f741d",
+        "b4aa5a6d357dc6c7",
+        "b4f98a4488eadee9",
+        "cb125accd5eb6baf",
+        "d7d3dd885b4c4ccc",
+        "db6d1057ec163930",
+        "e263619578b41051",
+        "f292f1eaaec07785",
+        "f362e548fb6c726e",
+        "ff36037ad31eb655"
+      ],
+      "seller_records": 26
+    },
+    "409a-too-expensive": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "a 409A costs too much for us; looking for a cheaper provider we can trust",
+      "media_record_ids": [
+        "56318f121eaf73f6",
+        "6da07c7f3835fb7d",
+        "6e98d768a2b62de5"
+      ],
+      "media_records": 3,
+      "member_record_ids": [
+        "17d61ccd491dcfc7",
+        "2ace8258a4333830",
+        "6c540663c5a2a0e8",
+        "797a3a31950d21d8",
+        "7ffa9c0c268eeb9c",
+        "dad470fba0c715b1",
+        "ee1ef71258651866"
+      ],
+      "money_mentions": 6,
+      "money_record_ids": [
+        "17d61ccd491dcfc7",
+        "2ace8258a4333830",
+        "6c540663c5a2a0e8",
+        "797a3a31950d21d8",
+        "7ffa9c0c268eeb9c",
+        "dad470fba0c715b1"
+      ],
+      "record_count": 7,
+      "seller_record_ids": [
+        "100a328f9250cfb7",
+        "10f59d83dcd21d02",
+        "2ed2b490b9fe02df",
+        "3480531b9fa1856e",
+        "3561f33fbb43a217",
+        "383575aa3592e9d1",
+        "4e1a6c0c8ae779ee",
+        "52d1574e9afbe519",
+        "5612a58ce6c0152e",
+        "5737f5943f218dde",
+        "608cbf8fb2522ac7",
+        "661c36bcc3f2f380",
+        "68d297f5cebe6c2c",
+        "6c7a9fd3d3d7b244",
+        "6e0b9bf97a9b3c9d",
+        "7125a981b5fc5f42",
+        "7b44e4b79a687b55",
+        "81cad0561b22c772",
+        "8854836d1d3ebfc3",
+        "88abaff22cbf294b",
+        "8a57ba92d70d6035",
+        "8e172ca632894a89",
+        "970f404557d50c36",
+        "a24dcd91413f66d4",
+        "a89c4c17a79ee3c7",
+        "ac6a9d3c3dc5895d",
+        "aebaff81b59f741d",
+        "b1df42fd83ad40da",
+        "b7e23616cf26fbc6",
+        "baa5dd9e8b7fbaaa",
+        "c65134d9ec837c8e",
+        "c7c1f4b43703ecf4",
+        "d309512c0e044500",
+        "dad2287e89a893c4",
+        "dadfb232c53ec0d6",
+        "dcf55ded31eb0b9d",
+        "e263619578b41051",
+        "ebe11c1824d2b6ba",
+        "f362e548fb6c726e",
+        "fa039c612c37a5bb",
+        "fe42108cd67695e7"
+      ],
+      "seller_records": 41
+    },
+    "409a-when-needed": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "not sure when we need a 409A or when to refresh it",
+      "media_record_ids": [
+        "544f29bee4035222",
+        "558705fad5349c4c",
+        "571540d8f6ec381e",
+        "631f5d6834b82eda"
+      ],
+      "media_records": 4,
+      "member_record_ids": [
+        "6424ab9f78a7ee5d",
+        "797a3a31950d21d8",
+        "a3beb84a5f2e41af"
+      ],
+      "money_mentions": 1,
+      "money_record_ids": [
+        "797a3a31950d21d8"
+      ],
+      "record_count": 3,
+      "seller_record_ids": [
+        "068e618c59862346",
+        "13c5b4b6d58563b7",
+        "2a38bb39b07b2107",
+        "2cfab405ba6b43f1",
+        "344bb3f97676b535",
+        "7b5d46386032c663",
+        "8b05616fbccb6e58",
+        "8b344541eae5e99b",
+        "8b4c554f1d8d8eb8",
+        "8db0668702b0d9d7",
+        "bcae1dabb3e3324b",
+        "c3155b95bc23e728",
+        "c47cc871639e1b39",
+        "d32e35178e2c5985",
+        "f6db823d88dd4664"
+      ],
+      "seller_records": 15
+    },
+    "83b-filing-confusion": {
+      "failed_spend_mentions": 1,
+      "failed_spend_record_ids": [
+        "25e94390dbf6a38a"
+      ],
+      "label": "not sure how to fill out, send or report the 83(b)",
+      "media_record_ids": [
+        "0eb6a6b131fe1992",
+        "16117251588bdd9f",
+        "18ccf33b48e79978",
+        "21ab08ab0c543adc",
+        "32e0f4cc61db46d7",
+        "33480ca631b35e5f",
+        "5689586ce5a4f6c1",
+        "575887d48cd9f989",
+        "66908a7d8ca25e6e",
+        "6cef5cdd61853ac1",
+        "6e942c079cf7e9ea",
+        "8cff3f8a609ffe87",
+        "9061eabfc9c2735e",
+        "a680285e8843ebe2",
+        "b69484da8a42c104",
+        "be9c640c70f04c21"
+      ],
+      "media_records": 16,
+      "member_record_ids": [
+        "06d9b3eba49ed894",
+        "1f8e522ce4320152",
+        "25e94390dbf6a38a",
+        "404be88f0aeab6f2",
+        "4aa0db41617298df",
+        "4ee5dba57e7f34f7",
+        "6dab127526747141",
+        "804b0bc3b5271ac7",
+        "8e20d2d7c14732e3",
+        "8f82c2e80e0eda42",
+        "a4df52ebcf48a9ea",
+        "ac7f53b7686f9dd3",
+        "b3521af512b7765f",
+        "b953286441ae02da",
+        "ba8786a4598d950b",
+        "c2ee07fc74db89c1",
+        "c8ea1db00725c18c",
+        "cd77a6f56606f845",
+        "d2b94af5dbd41f29",
+        "d41b0d74f08b0190",
+        "dd96ae4bede93cec",
+        "e5e3b3111ad87798",
+        "e8fb3bd87345ee9b",
+        "eb4a6fe1746a0f17",
+        "ec35c1d30a75c31f",
+        "f6383931f208dcad"
+      ],
+      "money_mentions": 2,
+      "money_record_ids": [
+        "25e94390dbf6a38a",
+        "6dab127526747141"
+      ],
+      "record_count": 26,
+      "seller_record_ids": [
+        "0918e7c36b6d4eea",
+        "2acad1f77c1e1764",
+        "3f4dd530d89af5ff",
+        "479ef1b4e50e2e1c",
+        "48c4a88b886c33d7",
+        "52aebac51a0d8a74",
+        "5e15c31cb78ed324",
+        "62fcda47af831d79",
+        "6394631095b44c35",
+        "7e330079685cff9e",
+        "81d2fd53d949bec6",
+        "849ed2664e66b66f",
+        "85ee94c68e176410",
+        "968cf44c4bd1cafa",
+        "9e61467a8a5d8daa",
+        "a4a0accd23ab20aa",
+        "c6f74374e0d17ae9",
+        "c725ae4dc8e9f415",
+        "cbc58e31585dd725",
+        "ce641af9620f913e",
+        "cf28fc9b99ef775c",
+        "d32a5b25da8534c5",
+        "da0206a63a010556",
+        "da77acdd64ab1527",
+        "dc4c5c23b23d2a6b",
+        "e60720c1d7c018e1",
+        "e8a348a088835bf8",
+        "f0bd2ca735cd7a4e",
+        "f799404b490159b7"
+      ],
+      "seller_records": 29
+    },
+    "83b-no-proof-of-filing": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "no proof the IRS got my 83(b)",
+      "media_record_ids": [
+        "3045fe14903a814c"
+      ],
+      "media_records": 1,
+      "member_record_ids": [
+        "08de67d7099eceae",
+        "2a4be59f7671157e",
+        "3fd59239193ccb12",
+        "4ddbdb6fa0d305db",
+        "6d72018858c55cc2",
+        "f987e31d09aa09b4"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 6,
+      "seller_record_ids": [
+        "1fdca36db8728ba0",
+        "4b73cb62122f004f",
+        "6f31292efd5bc20e",
+        "878958d0b13bcba3",
+        "a60f105bf0c6e24a",
+        "cfd743b5a4473a4e",
+        "d99192177f98b46d",
+        "da0206a63a010556",
+        "dcff2776d4b34866"
+      ],
+      "seller_records": 9
+    },
+    "cap-table-tool-too-expensive": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Carta or another cap-table tool costs too much for us",
+      "media_record_ids": [
+        "566b4506f567f495",
+        "6ac1f42608c4fa77",
+        "7a11af616195d29e",
+        "8444b14e9415b234",
+        "88737860359bd8a5",
+        "f1ab40b7af1eb38c"
+      ],
+      "media_records": 6,
+      "member_record_ids": [
+        "17d61ccd491dcfc7"
+      ],
+      "money_mentions": 1,
+      "money_record_ids": [
+        "17d61ccd491dcfc7"
+      ],
+      "record_count": 1,
+      "seller_record_ids": [
+        "834210e42682916d",
+        "f6b6ca31cf43bd1e"
+      ],
+      "seller_records": 2
+    },
+    "delaware-franchise-tax-shock": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "a scary Delaware franchise tax bill and the March 1 deadline",
+      "media_record_ids": [],
+      "media_records": 0,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "11d00e79b3c49e0d",
+        "36aac21441074974",
+        "86213214f529aae0",
+        "92e563564f77cac6",
+        "ba1f60a2d7d458e8",
+        "f48ecc3268342dbc"
+      ],
+      "seller_records": 6
+    },
+    "form-3921-deadline": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "remembering to file Form 3921 when employees exercise ISOs",
+      "media_record_ids": [
+        "237f1f1aef5a65ad"
+      ],
+      "media_records": 1,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "1ace49a454d8aefb",
+        "34ecfb9bac6b6376",
+        "44c41c6e5746a1c6",
+        "4648d613d321a753",
+        "a9168c3bb53cf90e",
+        "bfc7cf0085f2996f",
+        "c5a2d02c302d05e0",
+        "d367b11d39e457b0"
+      ],
+      "seller_records": 8
+    },
+    "incorporation-service-worth-it": {
+      "failed_spend_mentions": 1,
+      "failed_spend_record_ids": [
+        "cdba236052d69de7"
+      ],
+      "label": "is Stripe Atlas or Clerky worth paying for, or will free tools do?",
+      "media_record_ids": [
+        "1bf033f4224af3ea",
+        "3bd5bba38bbfa934",
+        "3cfa9cca6d6173fb",
+        "3f398cc92896a92a",
+        "55d1c53a7befcb5b",
+        "6941b26203fde07e",
+        "75367bc06a2c33de",
+        "789b47fe5ebabd1c",
+        "7aa7089a5bc22329",
+        "94101797d510c860",
+        "99e61b3338208ac4",
+        "9c1f0dd784c6e94a",
+        "9ddb4e3ee799a366",
+        "a212ef9909a9ffcf",
+        "c203278915a262d9",
+        "c376ab410472f822",
+        "ce7ee181e78783b3",
+        "dfd75667823a5d9d",
+        "e5e5e983f9ad9fe8",
+        "f558261a3639aa99",
+        "fa519081a22f7d8f",
+        "fc2040cd4a424110"
+      ],
+      "media_records": 22,
+      "member_record_ids": [
+        "3a203322e163b3b8",
+        "3a8f5552ec52b659",
+        "84561ea4197bd86a",
+        "8b408f29ef8b1dad",
+        "bf2f9e94923f39cc",
+        "cdba236052d69de7",
+        "fec593e5512c928c"
+      ],
+      "money_mentions": 2,
+      "money_record_ids": [
+        "8b408f29ef8b1dad",
+        "cdba236052d69de7"
+      ],
+      "record_count": 7,
+      "seller_record_ids": [
+        "031402eccceed23e",
+        "25df9f2830dd988a",
+        "4f296017c301bfb6",
+        "641525c5bfca2ec2",
+        "be62981176c6048e"
+      ],
+      "seller_records": 5
+    },
+    "missed-83b-deadline": {
+      "failed_spend_mentions": 1,
+      "failed_spend_record_ids": [
+        "d04f2f6ee9e6164d"
+      ],
+      "label": "missed the 30-day 83(b) deadline",
+      "media_record_ids": [
+        "0eb6a6b131fe1992",
+        "19f9e7d67f0cc6f8",
+        "27f479c8caf3e0d8",
+        "49ad5e83b2c950bd",
+        "4c7de3d01b23e6ed",
+        "5fbbf6e29a33030f",
+        "6ae275ced2d6b6ea",
+        "92e2034881ef48e2",
+        "b69484da8a42c104",
+        "e7111bf99c6d6bf3",
+        "ee7a073a5104c42e"
+      ],
+      "media_records": 11,
+      "member_record_ids": [
+        "2824e5085e741bc1",
+        "2a4be59f7671157e",
+        "669d8437f8352f5b",
+        "737f59e7c6c7fb55",
+        "74b187d9d03561ed",
+        "81627e6b3c5e0d64",
+        "8a0c6df81a25ac75",
+        "8a9e9b46f2eb18ca",
+        "d04f2f6ee9e6164d"
+      ],
+      "money_mentions": 1,
+      "money_record_ids": [
+        "d04f2f6ee9e6164d"
+      ],
+      "record_count": 9,
+      "seller_record_ids": [
+        "254a4a8ad5edf424",
+        "2db2904cf21e5145",
+        "3fbcb8d2f4f6ad2d",
+        "46ed9f459333ed3d",
+        "5ed071c715a09b09",
+        "61135468ead3301c",
+        "7f7f206b496066cb",
+        "aa73e33b83176703",
+        "adc3f623ea38478c",
+        "b0f36696fe33dcd3",
+        "b917ef28f8d85ca6",
+        "dbd809d01b0211bd",
+        "e9db99bf3c15f30a",
+        "f0d8fc7ab4334e60"
+      ],
+      "seller_records": 14
+    },
+    "non-us-founder-paperwork": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "83(b) and US paperwork as a non-US founder with no SSN or ITIN",
+      "media_record_ids": [
+        "2c49cd51dc741a4d",
+        "f558261a3639aa99"
+      ],
+      "media_records": 2,
+      "member_record_ids": [
+        "240731e9873b400e",
+        "3a8f5552ec52b659",
+        "41a53b4247f3fb0c",
+        "6aaee904590cca4f",
+        "86028bc3a873e2fc",
+        "87b88b28ff01c857",
+        "94c413dca2c32789",
+        "a24e5ac02e2435e3",
+        "eb4a6fe1746a0f17",
+        "ee404e62c548ca1f"
+      ],
+      "money_mentions": 1,
+      "money_record_ids": [
+        "240731e9873b400e"
+      ],
+      "record_count": 10,
+      "seller_record_ids": [
+        "1abdbf3597494901",
+        "641525c5bfca2ec2",
+        "7dee449ce93b297b",
+        "7f2c7b0f360d8ac0",
+        "92a433ade4b75193",
+        "b77a5e43f4410f79",
+        "b8c80330e63dddb9",
+        "bfb3a4222b045cf5",
+        "c2ef6b8b596568c2",
+        "f63127fbcd87f192"
+      ],
+      "seller_records": 10
+    },
+    "paid-service-got-it-wrong": {
+      "failed_spend_mentions": 3,
+      "failed_spend_record_ids": [
+        "25e94390dbf6a38a",
+        "cdba236052d69de7",
+        "d04f2f6ee9e6164d"
+      ],
+      "label": "the service or lawyer we paid got it wrong",
+      "media_record_ids": [
+        "01a2a01302563e5e",
+        "5689586ce5a4f6c1"
+      ],
+      "media_records": 2,
+      "member_record_ids": [
+        "25e94390dbf6a38a",
+        "51d1646cd7fbe9c7",
+        "87b88b28ff01c857",
+        "cdba236052d69de7",
+        "d04f2f6ee9e6164d"
+      ],
+      "money_mentions": 3,
+      "money_record_ids": [
+        "25e94390dbf6a38a",
+        "cdba236052d69de7",
+        "d04f2f6ee9e6164d"
+      ],
+      "record_count": 5,
+      "seller_record_ids": [],
+      "seller_records": 0
+    }
+  },
+  "records_in_manifest": 813,
+  "room": "startup-founders-409a-83b-deadlines",
+  "totals": {
+    "by_kind": {
+      "blog_or_site": 417,
+      "forum": 87,
+      "jobs": 75,
+      "news": 8,
+      "official": 22,
+      "qa": 58,
+      "reviews": 99,
+      "social": 4,
+      "video": 43
+    },
+    "by_source": {
+      "websearch": 813
+    },
+    "by_voice": {
+      "media": 135,
+      "member": 87,
+      "other": 282,
+      "seller": 309
+    },
+    "failed_spend_mentions": 3,
+    "member_records": 87,
+    "member_records_with_pain": 68,
+    "money_mentions": 20,
+    "source_kind_min_records": 5,
+    "source_kinds": [
+      "blog_or_site",
+      "forum",
+      "jobs",
+      "news",
+      "official",
+      "qa",
+      "reviews",
+      "video"
+    ]
+  }
+}

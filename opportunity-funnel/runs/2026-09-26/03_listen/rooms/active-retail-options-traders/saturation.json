@@ -1,0 +1,36 @@
+{
+  "final": false,
+  "room": "active-retail-options-traders",
+  "rounds": [
+    {
+      "evaluable": false,
+      "new_pains": [],
+      "new_records": 1086,
+      "note": "not evaluable: round 1 builds the pain list; saturation is tested on the records of round 2 and later",
+      "rank_changes": [],
+      "records": 1086,
+      "round": 1,
+      "saturated": false,
+      "taxonomy_keys": [
+        "assignment-margin-surprise",
+        "blew-up-account",
+        "devastated-after-loss",
+        "fo-loss-itr-audit",
+        "keep-losing-dont-know-why",
+        "paid-help-not-worth-it",
+        "prop-firm-fees-no-payout",
+        "revenge-trading-gambling",
+        "sebi-rules-squeeze",
+        "small-account-pdt",
+        "telegram-tips-scam",
+        "tool-data-costs-add-up",
+        "trade-for-a-living-doubt",
+        "us-options-tax-mess"
+      ],
+      "window": 300,
+      "window_used": 1086
+    }
+  ],
+  "stop_reason": null,
+  "window": 300
+}
