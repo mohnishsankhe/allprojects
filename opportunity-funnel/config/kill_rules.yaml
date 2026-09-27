@@ -31,7 +31,8 @@ stage3:
   saturation_min_member_records: 30     # (conservative reading, logged) a window with fewer member records cannot show a new pain, so it is not evaluable and the room keeps listening
   max_rounds: 8                 # (default) safety stop; hitting it is logged as "not saturated"
   exhausted_round_new_records: 50   # (default) a round of new queries that adds fewer records than this = source exhausted (logged)
-  min_source_kinds: 3           # (spec) at least three kinds of source per room where they exist
+  min_source_kinds: 3           # (spec) at least three kinds of source per room where they exist; a record's kind is the kind of site its URL points to (config/source_kinds.yaml); fewer -> the room's pains are tagged [source kinds: N], not killed
+  source_kind_min_records: 5    # (default, logged) a kind counts for a room only with at least this many records, so one stray link is not a kind
   include_undated_records: true # (default, logged) search-result records usually carry no date; they are kept and tagged [undated]. Records whose URL shows a date older than the lookback are dropped.
   drop_if_no_money_no_failed_spend_no_urgency: true   # (spec) drop test A
   min_verified_quotes: 2        # (spec) drop test B

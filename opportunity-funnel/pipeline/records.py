@@ -42,6 +42,7 @@ import calendar
 import datetime as _dt
 import re
 from pathlib import Path
+from urllib.parse import urlsplit
 
 import common
 from anonymize import LIMIT_NOTE, anonymize, is_profile_url
@@ -103,6 +104,53 @@ def record_round(rec: dict) -> int:
     if isinstance(order, list) and order and isinstance(order[0], int):
         return order[0]
     return 0
+
+
+# --------------------------------------------------------------------------- source kinds
+_KIND_CONFIG: dict = {}
+
+
+def source_kinds_config() -> dict:
+    """config/source_kinds.yaml (cached per path)."""
+    p = common.config_dir() / "source_kinds.yaml"
+    key = str(p)
+    if key not in _KIND_CONFIG:
+        import yaml
+
+        with open(p, encoding="utf-8") as f:
+            _KIND_CONFIG[key] = yaml.safe_load(f) or {}
+    return _KIND_CONFIG[key]
+
+
+def _host_matches(host: str, domain: str) -> bool:
+    domain = str(domain).lower()
+    return host == domain or host.endswith("." + domain)
+
+
+def source_kind(url: str) -> str:
+    """The kind of site a record's URL points to: path rules, then domains, then official suffixes, then host
+    prefixes (config/source_kinds.yaml); anything else is the default kind (blog_or_site)."""
+    cfg = source_kinds_config()
+    default = str(cfg.get("default") or "blog_or_site")
+    try:
+        parts = urlsplit(str(url or ""))
+        host = (parts.hostname or "").lower()
+    except ValueError:
+        return default
+    host = host.removeprefix("www.")
+    path = (parts.path or "").lower()
+    for rule in cfg.get("path_rules") or []:
+        if _host_matches(host, rule["domain"]) and path.startswith(str(rule["path_prefix"]).lower()):
+            return str(rule["kind"])
+    for kind, domains in (cfg.get("domains") or {}).items():
+        if any(_host_matches(host, d) for d in domains or []):
+            return str(kind)
+    if any(host.endswith(str(suffix).lower()) for suffix in cfg.get("official_suffixes") or []):
+        return "official"
+    for kind, prefixes in (cfg.get("host_prefixes") or {}).items():
+        if any(host.startswith(str(prefix).lower()) for prefix in prefixes or []):
+            return str(kind)
+    return default
 
 
 # --------------------------------------------------------------------------- store

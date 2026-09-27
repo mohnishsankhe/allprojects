@@ -1,0 +1,53 @@
+# Kinds of source, for the Stage 3 rule "at least 3 source kinds per room" (kill_rules.yaml: stage3.min_source_kinds).
+# Every record arrives through web search, so a record's kind is the kind of site its URL points to.
+# Matching (records.source_kind): a host matches a domain when it equals it or ends with "." + domain.
+# Order: path rules, then domains, then official suffixes, then host prefixes. Anything else is blog_or_site
+# (blogs, vendor and product sites, reference pages), which is a kind too.
+# A kind counts for a room only when it holds at least stage3.source_kind_min_records records.
+
+path_rules:
+  - {domain: linkedin.com, path_prefix: /jobs, kind: jobs}
+  - {domain: glassdoor.com, path_prefix: /job, kind: jobs}
+  - {domain: glassdoor.co.in, path_prefix: /job, kind: jobs}
+  - {domain: facebook.com, path_prefix: /groups, kind: forum}
+  - {domain: shiksha.com, path_prefix: /ask, kind: qa}
+
+domains:
+  forum: [reddit.com, news.ycombinator.com, teamblind.com, indiehackers.com, biggerpockets.com, myprepclub.com,
+          gmatclub.com, analystforum.com, 300hours.com, basenotes.com, fragrantica.com, salongeek.com, skool.com,
+          team-bhp.com, pagalguy.com, warriorforum.com, elitetrader.com, tradingqna.com, traderji.com,
+          wallstreetoasis.com, searchfunder.com, askamanager.org, stocktwits.com, whirlpool.net.au, mumsnet.com,
+          tradingview.com]
+  qa: [quora.com, stackexchange.com, stackoverflow.com, superuser.com, serverfault.com, justanswer.com, avvo.com,
+       brainly.com, brainly.in, ask.shiksha.com, answers.com]
+  video: [youtube.com, youtu.be, vimeo.com, tiktok.com, dailymotion.com]
+  reviews: [g2.com, capterra.com, capterra.in, capterra.ae, trustpilot.com, play.google.com, apps.apple.com,
+            apps.shopify.com, mouthshut.com, softwaresuggest.com, getapp.com, softwareadvice.com, justdial.com,
+            glassdoor.com, glassdoor.co.in, ambitionbox.com, sitejabber.com, yelp.com, goodreads.com, producthunt.com,
+            trustradius.com, bbb.org, consumercomplaints.in, alternativeto.net, saasworthy.com, clutch.co,
+            techjockey.com, edureviewer.com, selecthub.com, itqlick.com, softwarefinder.com, technologycounter.com,
+            sourceforge.net]
+  jobs: [naukri.com, indeed.com, indeed.ae, monster.com, foundit.in, iimjobs.com, instahyre.com, wellfound.com,
+         upwork.com, freelancer.com, workindia.in, shine.com, apna.co, bayt.com, gulftalent.com, naukrigulf.com,
+         ziprecruiter.com, simplyhired.com, careerbuilder.com, onlinejobs.ph, jobstreet.com, builtin.com]
+  official: [sec.gov, irs.gov, ets.org, cfainstitute.org, rbi.org.in, sebi.gov.in, irdai.gov.in, dubailand.gov.ae,
+             trai.gov.in, tdra.gov.ae, ftc.gov, fcc.gov, sba.gov, justice.gov, fincen.gov, federalregister.gov,
+             ofcom.org.uk, iibf.org.in, epa.gov, dre.ca.gov]
+  news: [gulfnews.com, business-standard.com, techcrunch.com, businesswire.com, prnewswire.com, globenewswire.com,
+         economictimes.indiatimes.com, livemint.com, moneycontrol.com, thehindu.com, hindustantimes.com, forbes.com,
+         reuters.com, bloomberg.com, cnbc.com, khaleejtimes.com, thenationalnews.com, inc42.com, yourstory.com,
+         entrepreneur.com, inc.com, wsj.com, ft.com, nytimes.com, bbc.com, bbc.co.uk, arabianbusiness.com, zawya.com,
+         rappler.com, inquirer.net, philstar.com, benzinga.com, deccanherald.com, tribuneindia.com, nbcnews.com,
+         cbsnews.com, foxnews.com, medianama.com, pressreader.com, emarketer.com, fool.com, seekingalpha.com,
+         nasdaq.com, finance.yahoo.com, cbc.ca, credaily.com, whalesbook.com, newsonair.gov.in]
+  social: [linkedin.com, facebook.com, instagram.com, x.com, twitter.com, threads.net, pinterest.com]
+
+# Hosts ending in one of these are official (governments and public bodies).
+official_suffixes: [.gov, .gov.in, .nic.in, .gov.ae, .gov.uk, .gov.au, .gov.sg, .gov.ph, .gc.ca, .europa.eu, .mil]
+
+# Hosts starting with one of these are forums or Q&A boards on otherwise unknown sites.
+host_prefixes:
+  forum: [forum., forums., community., discuss., discussion., boards., talk.]
+  qa: [answers., ask.]
+
+default: blog_or_site

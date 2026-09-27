@@ -385,6 +385,7 @@ def pains(run) -> dict:
     drop_flat = bool(s3.get("drop_if_no_money_no_failed_spend_no_urgency", True))
     thin_below = int(s3.get("thin_below_records", 15))
     spend_min = int(s3.get("spend_sources_min", 2))
+    min_kinds = int(s3.get("min_source_kinds", 3))
     max_keep = int(s3.get("max_pains_total", 25))
     q_min = int(s3.get("quotes_per_pain_min", 3))
     q_max = int(s3.get("quotes_per_pain_max", 5))
@@ -412,6 +413,7 @@ def pains(run) -> dict:
         counts = load_counts(run, room)
         cpains = counts["pains"]
         stored = records.records_by_id(run, room)
+        room_kinds = list((counts.get("totals") or {}).get("source_kinds") or [])
         draft_rel = common.rel(common.room_dir(run, room) / "pains_draft.json")
         seen_keys: set = set()
         room_pains: list = []
@@ -451,6 +453,8 @@ def pains(run) -> dict:
             failed = int(c.get("failed_spend_mentions", 0))
             utype = pain["urgency"].get("type")
             tags = _tags_for(record_count, thin_below, len(domains), spend_min, sources, pct, total)
+            if len(room_kinds) < min_kinds:
+                tags.append(f"[source kinds: {len(room_kinds)}]")
             notes: list = []
             if len(quotes) < q_min:
                 notes.append(f"{len(quotes)} quote(s) drafted; the target is {q_min} to {q_max}.")
@@ -523,6 +527,8 @@ def pains(run) -> dict:
             "labeled": int(counts.get("labeled", 0)),
             "member_records": int(totals.get("member_records", 0)),
             "by_source": dict(totals.get("by_source") or {}),
+            "by_kind": dict(totals.get("by_kind") or {}),
+            "source_kinds": list(totals.get("source_kinds") or []),
             "pains_drafted": len(draft), "pains_kept": 0, "pains_cut": 0, "pains_dropped": 0,
             "needs_calls": nc_value, "needs_calls_reasoning": nc_reasoning,
             "saturation": sat,
@@ -582,6 +588,12 @@ def pains(run) -> dict:
     if not_sat:
         review_notes.append("Rooms that stopped before saturation: "
                             + "; ".join(f"{r} ({room_info[r]['saturation']['verdict']})" for r in not_sat) + ".")
+    few_kinds = sorted(r for r, info in room_info.items() if len(info["source_kinds"]) < min_kinds)
+    if few_kinds:
+        review_notes.append(f"Rooms with fewer than {min_kinds} kinds of source (kinds with at least "
+                            f"{int(s3.get('source_kind_min_records', 5))} records): "
+                            + "; ".join(f"{r} ({', '.join(room_info[r]['source_kinds']) or 'none'})" for r in few_kinds)
+                            + ". Their pains are tagged [source kinds: N].")
     thin = [p["pain_id"] for p in kept if "[thin]" in p["tags"]]
     if thin:
         info_notes.append(f"Kept pains tagged [thin] (fewer than {thin_below} member records): {', '.join(thin)}.")

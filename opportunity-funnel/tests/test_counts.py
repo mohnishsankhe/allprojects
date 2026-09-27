@@ -331,3 +331,38 @@ def test_saturation_detects_an_added_pain_without_added_round(run, froot, h, cli
     assert r.returncode == 0, r.stderr
     e2 = _sat_file(run)["rounds"][1]
     assert e2["round"] == 2 and e2["taxonomy_added"] == ["d"] and "d" in e2["new_pains"] and e2["saturated"] is False
+
+
+# --------------------------------------------------------------------------- source kinds
+def test_source_kind_classification(froot):
+    cases = {
+        "https://www.youtube.com/watch?v=x": "video", "https://in.linkedin.com/jobs/view/1": "jobs",
+        "https://www.linkedin.com/posts/abc": "social", "https://gre.myprepclub.com/forum/x": "forum",
+        "https://community.shopify.com/c/x": "forum", "https://uk.trustpilot.com/review/x": "reviews",
+        "https://www.irs.gov/x": "official", "https://www.dubailand.gov.ae/x": "official",
+        "https://newsonair.gov.in/x": "news", "https://forums.anandtech.com/x": "forum",
+        "https://medium.com/x": "blog_or_site", "https://www.glassdoor.co.in/Job/x": "jobs",
+        "https://www.glassdoor.co.in/Reviews/x": "reviews", "https://ask.shiksha.com/x": "qa",
+        "https://www.facebook.com/groups/x": "forum", "https://www.quora.com/What": "qa",
+        "https://notgov.example.com/x": "blog_or_site", "not a url": "blog_or_site", "": "blog_or_site",
+    }
+    for url, kind in cases.items():
+        assert records.source_kind(url) == kind, url
+
+
+def test_count_reports_source_kinds_with_a_minimum_per_kind(run, h, cli):
+    urls = ([f"https://www.youtube.com/watch?v={i}" for i in range(5)] + [f"https://www.quora.com/q{i}" for i in range(5)]
+            + [f"https://www.g2.com/p{i}" for i in range(4)])
+    recs = [Helpers.make_record(u, f"title {i} with enough words", qi=1, rank=i) for i, u in enumerate(urls, 1)]
+    ids = records.store_records(run, ROOM, "websearch", recs)["new_ids"]
+    records.make_batches(run, ROOM)
+    h.write_taxonomy(run, ROOM, ["a"])
+    m = common.read_json(records.manifest_path(run, ROOM))
+    for name, bids in m["batches"].items():
+        h.write_labels(run, ROOM, name, [h.label(rid, keys=["a"]) for rid in bids])
+    r = cli("count", "--room", ROOM, "--run", "2026-09-26")
+    assert r.returncode == 0, r.stderr
+    t = common.read_json(common.room_dir(run, ROOM) / "counts.json")["totals"]
+    assert t["by_kind"] == {"qa": 5, "reviews": 4, "video": 5} and len(ids) == 14
+    assert t["source_kinds"] == ["qa", "video"]  # reviews has 4 records, below the minimum of 5
+    assert "Kinds with at least 5 records: 2 (the rule asks for 3)" in r.stdout

@@ -141,6 +141,7 @@ def compute_counts(run, room: str) -> dict:
     labels, notes = load_labels(run, room, manifest, taxonomy)
     stored = records.records_by_id(run, room)
     ids = manifest_record_ids(manifest)
+    kind_min = int(common.load_kill_rules().get("stage3", {}).get("source_kind_min_records", 5))
 
     pains: dict = {}
     for key, entry in taxonomy.items():
@@ -154,6 +155,7 @@ def compute_counts(run, room: str) -> dict:
         }
     by_voice = {v: 0 for v in VOICES}
     by_source: dict = {}
+    by_kind: dict = {}
     member_with_pain = money_total = failed_total = 0
     for rid in ids:
         label = labels[rid]
@@ -161,6 +163,8 @@ def compute_counts(run, room: str) -> dict:
         by_voice[voice] += 1
         src = (stored.get(rid) or {}).get("source", "unknown")
         by_source[src] = by_source.get(src, 0) + 1
+        kind = records.source_kind((stored.get(rid) or {}).get("url", ""))
+        by_kind[kind] = by_kind.get(kind, 0) + 1
         keys = label["pain_keys"]
         if voice == "member":
             if keys:
@@ -195,6 +199,9 @@ def compute_counts(run, room: str) -> dict:
         "totals": {
             "by_voice": by_voice,
             "by_source": dict(sorted(by_source.items())),
+            "by_kind": dict(sorted(by_kind.items())),
+            "source_kinds": sorted(k for k, n in by_kind.items() if n >= kind_min),
+            "source_kind_min_records": kind_min,
             "member_records": by_voice["member"],
             "member_records_with_pain": member_with_pain,
             "money_mentions": money_total,
@@ -215,6 +222,9 @@ def cmd_count(args) -> int:
     print(f"Room {room}: {counts['labeled']} labeled records "
           f"(member {bv['member']}, seller {bv['seller']}, media {bv['media']}, other {bv['other']}).")
     print("Sources: " + ", ".join(f"{k} {v}" for k, v in t["by_source"].items()))
+    need = int(common.load_kill_rules().get("stage3", {}).get("min_source_kinds", 3))
+    print("Source kinds (kind of site each record points to): " + ", ".join(f"{k} {v}" for k, v in t["by_kind"].items())
+          + f". Kinds with at least {t['source_kind_min_records']} records: {len(t['source_kinds'])} (the rule asks for {need}).")
     print(f"{'pain key':32} {'members':>8} {'money':>6} {'failed':>7} {'sellers':>8} {'media':>6}")
     for key in sorted(counts["pains"], key=lambda k: (-counts["pains"][k]["failed_spend_mentions"],
                                                      -counts["pains"][k]["money_mentions"],
@@ -226,7 +236,8 @@ def cmd_count(args) -> int:
         print(f"note: {note}")
     print(f"Wrote {common.rel(out)}")
     common.log_event(run, STAGE, "count", "count", room=room, labeled=counts["labeled"], by_voice=bv,
-                     by_source=t["by_source"], pains=len(counts["pains"]))
+                     by_source=t["by_source"], by_kind=t["by_kind"], source_kinds=len(t["source_kinds"]),
+                     pains=len(counts["pains"]))
     return 0
 
 

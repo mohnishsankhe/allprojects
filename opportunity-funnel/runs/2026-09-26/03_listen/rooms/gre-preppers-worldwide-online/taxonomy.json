@@ -1,0 +1,124 @@
+{
+  "pains": [
+    {
+      "key": "score-not-improving",
+      "label": "My GRE score is not improving: stuck at a particular score, going down, or short of my target",
+      "definition": "The writer's practice or real scores are stuck, falling, or below the score they need despite studying, and they ask how to raise them (\"trying a lot to improve but not able to improve\", \"stuck at a particular score\", \"scores keep decreasing\").",
+      "added_round": 1,
+      "reasoning": "Many member posts on GRE Prep Club and Quora say their score is stagnant or dropping despite prep. It is the room's most repeated problem.",
+      "confidence": "high"
+    },
+    {
+      "key": "test-day-worse-than-practice",
+      "label": "I scored lower on the real test than on my practice tests (it felt harder, I crumbled under pressure)",
+      "definition": "The writer did worse on test day than in practice, found the real test harder than the mocks, or had a test session go badly (\"consistent 312+ in the Manhattan tests, but somehow I crumbled\", \"much harder than any practice paper\", \"a nightmare of a GRE session\").",
+      "added_round": 1,
+      "reasoning": "Members report real-test scores and difficulty that do not match their mocks, and sellers write many posts on this gap. It is distinct from a plateau because practice was going well.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "quant-struggle",
+      "label": "Struggling with GRE quant: hard for a non-maths background, or cannot get quant to 165-170",
+      "definition": "The writer finds the quant section hard or cannot raise their quant score to their target (\"PLEASE HELP - GRE QUANT\", \"How hard is the GRE quant for non-maths background students?\", \"161 to 170\").",
+      "added_round": 1,
+      "reasoning": "Several member posts ask for help with quant specifically, both from weak-maths writers and from high scorers chasing 170.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "verbal-struggle",
+      "label": "Struggling with GRE verbal and vocabulary, especially as a non-native English speaker",
+      "definition": "The writer finds verbal, reading or vocabulary hard or cannot raise their verbal score, often as a non-native speaker (\"How can a non-English speaking person crack GRE?\", \"improve gre score especially verbal\").",
+      "added_round": 1,
+      "reasoning": "Members ask how to improve verbal and how non-native speakers can cope. This is a separate problem from quant.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "silly-mistakes",
+      "label": "Losing marks to stupid, careless mistakes",
+      "definition": "The writer loses points to careless or 'dumb' mistakes and asks how to stop (\"Minimizing 'dumb' mistakes\", \"the best way to avoid stupid mistakes on the GRE\").",
+      "added_round": 1,
+      "reasoning": "Two member posts name it directly and many seller posts target it. Member evidence is thin in round 1.",
+      "confidence": "low"
+    },
+    {
+      "key": "which-prep-worth-paying-for",
+      "label": "Is this coaching or course worth the money, or is self-study enough?",
+      "definition": "The writer cannot tell which course, coaching centre, subscription or tutor is worth paying for, asks their fees to compare, or asks whether self-study is enough (\"Is Jamboree really a good coaching center... Or is it just the marketing strategies?\", \"charge 22K INR for it. Is it worth it\").",
+      "added_round": 1,
+      "reasoning": "Many member questions on Quora and Careers360 compare coaching centres, courses and self-study and ask their fees. The fear is paying for prep that does not work.",
+      "confidence": "high"
+    },
+    {
+      "key": "prep-too-expensive",
+      "label": "I cannot afford a prep course or coaching; what is the cheapest way to study?",
+      "definition": "The writer says prep costs more than they can pay or looks for the cheapest way to prepare (\"I cannot afford to take a class\", \"without spending too much money\").",
+      "added_round": 1,
+      "reasoning": "A few members say plainly that they cannot afford classes. It is a different problem from choosing between options.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "gre-fees-add-up",
+      "label": "The GRE itself costs a lot: the exam fee, retakes and score reports",
+      "definition": "The writer asks about or complains about what the test itself costs: registration, a second attempt, extra score reports (\"The GRE costs $195, or roughly Rs. 12000. Why is the cost so high?\").",
+      "added_round": 1,
+      "reasoning": "Members, many in India, repeatedly ask what the exam and a retake cost, and one complains the fee is too high.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "refund-after-cancelling",
+      "label": "I cancelled or rescheduled my GRE and still have not got my refund",
+      "definition": "The writer cancelled or rescheduled a test booking and lost part of the fee, or is waiting for a refund from ETS (\"I still did not receive refund money\", \"they didn't return back the refund\").",
+      "added_round": 1,
+      "reasoning": "Several members report refunds that never came or ask when they will. Money is lost directly.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "scores-held-or-cancelled",
+      "label": "At-home test trouble: scores unavailable, on hold or cancelled by ETS",
+      "definition": "The writer's test at home broke down, or ETS held or cancelled their scores, or they fear it will (\"Scores Unavailable Issue\", \"GRE Scores Canceled - What's next?\", \"internet connection lost ... what will be the consequences?\").",
+      "added_round": 1,
+      "reasoning": "Members and video makers describe cancelled or withheld at-home scores and glitches during the test. It hits after the fee is paid.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "score-reporting-mistakes",
+      "label": "I cancelled or did not report my score by mistake, or want to hide a bad score: can I undo it?",
+      "definition": "The writer made a score-reporting choice at the test end or after it (cancel, not report, send to a school) that they regret or want to reverse (\"Mistakenly opted not to report score\", \"canceled the GRE score right after the test. Should I reinstate?\").",
+      "added_round": 1,
+      "reasoning": "A handful of members ask how to reinstate, withdraw or delete scores. Member evidence is thin in round 1.",
+      "confidence": "low"
+    },
+    {
+      "key": "retake-or-not",
+      "label": "Should I retake the GRE? Will it help, how often can I, what does it cost, how do schools see it?",
+      "definition": "The writer is weighing a retake after a disappointing score: whether it will raise the score, the retake rules, the retake fee, or how schools view several attempts (\"Low GRE score - Should I retake it or not??\", \"Walk of shame... retaking GRE\").",
+      "added_round": 1,
+      "reasoning": "Retake questions are among the most frequent member questions on Quora and the GRE forums.",
+      "confidence": "high"
+    },
+    {
+      "key": "score-enough-for-target",
+      "label": "Is my score good enough for my target programs, or will a low score ruin my application?",
+      "definition": "The writer fears their score is too low for their target schools or asks what score they need (\"If my GRE score is low I can not study MS in US or Canada?\", \"is it advisable to apply with the low gre score\").",
+      "added_round": 1,
+      "reasoning": "Members ask whether a given or low score is enough for MS or PhD admission. The fear is about the application, not the test.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "no-time-to-prepare",
+      "label": "Not enough time to prepare: working full time, or the exam is only weeks away",
+      "definition": "The writer has little time before the test or must study around a full-time job, and asks if the time is enough or how to fit it in (\"Is 10 days enough to study for GRE?\", \"How to study for GRE while working full time?\").",
+      "added_round": 1,
+      "reasoning": "Members ask whether one month or ten days is enough and how to study while working. The exam date forces the timing.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "gre-worth-taking",
+      "label": "Is the GRE even worth taking, or a waste of money, now that many programs do not require it?",
+      "definition": "The writer doubts whether they need the GRE at all, whether it is required, or whether taking it is worth the money (\"Should I take the GRE or is it a waste of money?\", \"Is GRE required for 2023?\").",
+      "added_round": 1,
+      "reasoning": "Members question whether the test is still needed as programs go test-optional, and sellers write many posts arguing it still is.",
+      "confidence": "moderate"
+    }
+  ]
+}
