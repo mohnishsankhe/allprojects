@@ -29,6 +29,35 @@
       ],
       "window": 300,
       "window_used": 896
+    },
+    {
+      "evaluable": false,
+      "new_pains": [],
+      "new_records": 83,
+      "note": "not evaluable: the last 300 records hold 27 member records, fewer than 30, too few to show a new pain",
+      "rank_changes": [],
+      "records": 979,
+      "round": 2,
+      "saturated": false,
+      "taxonomy_keys": [
+        "bad-office-management",
+        "broker-reputation",
+        "buyer-financing-fails",
+        "cut-out-of-commission",
+        "deals-die-after-loi",
+        "fee-pushback",
+        "licensing-rules",
+        "listing-site-complaints",
+        "listings-never-sell",
+        "tire-kicker-buyers",
+        "tool-costs",
+        "unrealistic-seller-expectations",
+        "valuation-doesnt-hold-up",
+        "winning-listings"
+      ],
+      "window": 300,
+      "window_member_records": 27,
+      "window_used": 300
     }
   ],
   "stop_reason": null,

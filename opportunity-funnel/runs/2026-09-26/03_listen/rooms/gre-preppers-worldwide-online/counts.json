@@ -1,5 +1,5 @@
 {
-  "labeled": 924,
+  "labeled": 942,
   "notes": [],
   "pains": {
     "gre-fees-add-up": {
@@ -685,28 +685,28 @@
       "seller_records": 21
     }
   },
-  "records_in_manifest": 924,
+  "records_in_manifest": 942,
   "room": "gre-preppers-worldwide-online",
   "totals": {
     "by_kind": {
       "blog_or_site": 440,
       "forum": 46,
-      "jobs": 54,
+      "jobs": 60,
       "news": 3,
       "official": 60,
       "qa": 109,
-      "reviews": 97,
+      "reviews": 109,
       "social": 3,
       "video": 112
     },
     "by_source": {
-      "websearch": 924
+      "websearch": 942
     },
     "by_voice": {
       "media": 184,
       "member": 160,
-      "other": 183,
-      "seller": 397
+      "other": 196,
+      "seller": 402
     },
     "failed_spend_mentions": 2,
     "member_records": 160,

@@ -30,6 +30,36 @@
       ],
       "window": 300,
       "window_used": 924
+    },
+    {
+      "evaluable": false,
+      "new_pains": [],
+      "new_records": 18,
+      "note": "not evaluable: the last 300 records hold 19 member records, fewer than 30, too few to show a new pain",
+      "rank_changes": [],
+      "records": 942,
+      "round": 2,
+      "saturated": false,
+      "taxonomy_keys": [
+        "gre-fees-add-up",
+        "gre-worth-taking",
+        "no-time-to-prepare",
+        "prep-too-expensive",
+        "quant-struggle",
+        "refund-after-cancelling",
+        "retake-or-not",
+        "score-enough-for-target",
+        "score-not-improving",
+        "score-reporting-mistakes",
+        "scores-held-or-cancelled",
+        "silly-mistakes",
+        "test-day-worse-than-practice",
+        "verbal-struggle",
+        "which-prep-worth-paying-for"
+      ],
+      "window": 300,
+      "window_member_records": 19,
+      "window_used": 300
     }
   ],
   "stop_reason": null,

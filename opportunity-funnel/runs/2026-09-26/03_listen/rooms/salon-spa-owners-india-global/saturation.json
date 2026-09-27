@@ -1,0 +1,39 @@
+{
+  "final": false,
+  "room": "salon-spa-owners-india-global",
+  "rounds": [
+    {
+      "evaluable": false,
+      "new_pains": [],
+      "new_records": 1340,
+      "note": "not evaluable: round 1 builds the pain list; saturation is tested on the records of round 2 and later",
+      "rank_changes": [],
+      "records": 1340,
+      "round": 1,
+      "saturated": false,
+      "taxonomy_keys": [
+        "booking-payment-systems",
+        "chair-room-rent",
+        "franchise-worth-it",
+        "getting-new-clients",
+        "licences-gst-rules",
+        "losing-money-failing",
+        "losing-regulars",
+        "missed-calls-out-of-hours",
+        "no-shows-late-cancellations",
+        "opening-costs",
+        "owner-burnout",
+        "paid-listings-no-return",
+        "setting-prices",
+        "software-fees-commissions",
+        "staff-hiring-quitting",
+        "staff-taking-clients",
+        "unhappy-clients-refunds"
+      ],
+      "window": 300,
+      "window_used": 1340
+    }
+  ],
+  "stop_reason": null,
+  "window": 300
+}
