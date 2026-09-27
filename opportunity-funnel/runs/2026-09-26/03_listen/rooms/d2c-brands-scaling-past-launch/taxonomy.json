@@ -20,5 +20,6 @@
     {"key": "compliance-rules", "label": "New e-commerce rules to comply with (labels, GST)", "definition": "New or changing rules (Legal Metrology labelling and country of origin, consumer protection e-commerce rules, GST and TCS for sellers) force changes to listings and filings.", "added_round": 1},
     {"key": "emails-land-in-spam", "label": "Our emails land in spam and open rates keep dropping", "definition": "Marketing and order emails sent through Shopify Email, Klaviyo and similar tools go to spam or junk. Open rates fall below normal and campaigns can get stopped. The brand can't find the cause or fix it.", "added_round": 2},
     {"key": "app-tool-bills-rising", "label": "App and tool bills keep climbing, even after we cancel", "definition": "Shopify apps and tools such as Klaviyo cost more than expected. Apps keep charging after they are uninstalled, email tools bill by active profiles and raise prices, and the billing rules are hard to follow. WhatsApp message fees belong to whatsapp-costs-rising.", "added_round": 2}
-  ]
+  ],
+  "reviewed_rounds": [2]
 }

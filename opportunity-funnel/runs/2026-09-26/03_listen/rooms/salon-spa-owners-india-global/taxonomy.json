@@ -113,6 +113,15 @@
       "label": "Buying or selling an established salon: how much, and what's the goodwill worth?",
       "definition": "Buying an existing salon or taking over its lease, or selling one: what price to pay or ask, what the goodwill (the part of the price paid for the name and the clients) is really worth, what to check before buying, and whether clients and staff stay after the sale. Opening a new salon from scratch belongs to opening-costs; closing one belongs to losing-money-failing.",
       "added_round": 2
+    },
+    {
+      "key": "new-treatment-worth-it",
+      "label": "Is it worth adding laser or another new treatment? Which machine, and will it pay back?",
+      "definition": "Whether to add a new treatment or service to earn more (laser hair removal, slimming machines, microblading, waxing and the like): which machine to buy, whether to rent one or buy a cheap import, and whether the machine and the training will pay back. Opening a new salon from scratch belongs to opening-costs; a franchise belongs to franchise-worth-it.",
+      "added_round": 2
     }
+  ],
+  "reviewed_rounds": [
+    2
   ]
 }

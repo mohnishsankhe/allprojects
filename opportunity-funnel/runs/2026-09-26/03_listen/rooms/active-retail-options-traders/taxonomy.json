@@ -89,6 +89,13 @@
       "label": "Brokerage, commissions, STT and hidden charges eat my profits: why are my trading costs so high?",
       "definition": "The per-trade costs of active options trading: broker commissions and brokerage, India's STT (securities transaction tax, charged on each trade), including the 'STT trap' on in-the-money options held to expiry, exchange transaction charges, stamp duty and other fees. Traders ask why their charges are so high, how to calculate them, how to cut them or which broker is cheapest. Data, charting and tool subscriptions belong to tool-data-costs-add-up. Filing income tax belongs to the tax pains.",
       "added_round": 2
+    },
+    {
+      "key": "borrowed-to-trade",
+      "label": "Should I take a personal loan to trade? I borrowed to trade and now I'm in debt",
+      "definition": "Trading with borrowed money: personal loans, credit cards or loans against property taken to fund options or F&O trading or to win back losses; asking whether borrowing to trade is a good idea; debt left after trading losses. Losing one's own savings with no debt belongs to blew-up-account. A small account with no borrowing belongs to small-account-pdt.",
+      "added_round": 2
     }
-  ]
+  ],
+  "reviewed_rounds": [2]
 }

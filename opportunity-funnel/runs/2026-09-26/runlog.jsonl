@@ -983,3 +983,12 @@
 {"command": "saturation", "kind": "count", "new_pains": ["blend-goes-wrong", "brand-name-trademark", "dupes-legal-risk", "hard-to-get-customers", "perfumers-alcohol-hard-to-find", "shipping-hazmat"], "new_records": 883, "rank_changes": 10, "records": 1728, "room": "indie-perfumers-launching-brands", "round": 2, "saturated": false, "stage": 3, "stop_reason": null, "ts": "2026-09-27T15:00:25+00:00"}
 {"command": "listen-status", "dated": 15, "kind": "ran", "per_round": {"1": 871, "2": 923}, "per_source": {"websearch": 1794}, "records": 1794, "room": "indie-perfumers-launching-brands", "stage": 3, "ts": "2026-09-27T15:00:30+00:00", "undated": 1779}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T15:00:53+00:00"}
+{"already_checked": 0, "command": "relabel-pack", "keys": ["emails-land-in-spam", "app-tool-bills-rising"], "kind": "ran", "packs": 1, "room": "d2c-brands-scaling-past-launch", "round": 2, "stage": 3, "ts": "2026-09-27T15:01:38+00:00"}
+{"already_checked": 0, "command": "relabel-pack", "keys": ["trading-charges-eat-profits", "borrowed-to-trade"], "kind": "ran", "packs": 2, "room": "active-retail-options-traders", "round": 2, "stage": 3, "ts": "2026-09-27T15:01:41+00:00"}
+{"command": "listen-status", "dated": 27, "kind": "ran", "per_round": {"1": 1150, "2": 1159}, "per_source": {"websearch": 2309}, "records": 2309, "room": "active-retail-options-traders", "stage": 3, "ts": "2026-09-27T15:01:48+00:00", "undated": 2282}
+{"already_checked": 0, "command": "relabel-pack", "keys": ["staff-pay-commission", "buying-selling-salon", "new-treatment-worth-it"], "kind": "ran", "packs": 2, "room": "salon-spa-owners-india-global", "round": 2, "stage": 3, "ts": "2026-09-27T15:02:33+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "small-business-owners-reddit-community", "stage": 3, "ts": "2026-09-27T15:02:34+00:00"}
+{"command": "show", "ids": 4, "kind": "ran", "missing": [], "room": "startup-founders-409a-83b-deadlines", "stage": 3, "ts": "2026-09-27T15:04:34+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "startup-founders-409a-83b-deadlines", "stage": 3, "ts": "2026-09-27T15:04:57+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "dubai-real-estate-brokerages-telesales", "stage": 3, "ts": "2026-09-27T15:05:23+00:00"}
+{"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T15:05:55+00:00"}
