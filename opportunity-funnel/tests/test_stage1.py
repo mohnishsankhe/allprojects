@@ -133,6 +133,23 @@ def test_graveyard_removes_dead_rooms_unless_revived(froot, run, cli):
     assert "## Removed rooms (2)" in (run / "01_rooms.md").read_text(encoding="utf-8")
 
 
+def test_rooms_killed_later_in_the_same_run_are_not_removed_on_a_rerun(froot, run, cli):
+    """A room this run's own Stage 2 sent to the graveyard (a line dated on the run date) stays in 01_rooms.json,
+    so `rooms --merge-parts` after `mask` gives the same file (rule 6). A kill from an earlier run still removes it."""
+    write_full_set(run)
+    common.append_graveyard("2026-09-26", 2, "room:profession-3", "failed ladder: 2 ladder step(s); needs at least 3")
+    common.append_graveyard("2026-09-01", 2, "room:profession-4", "no reach entry matches")
+    common.append_graveyard("2026-09-26", 2, "room:profession-4", "failed ladder: 2 ladder step(s); needs at least 3")
+    assert set(stage1.dead_rooms_from_other_runs(run)) == {"room:profession-4"}
+    r = cli("rooms", "--merge-parts", "--run", "2026-09-26")
+    assert r.returncode == 0, r.stderr
+    data = json.loads((run / "01_rooms.json").read_text(encoding="utf-8"))
+    kept = {x["slug"] for x in data["rooms"]}
+    assert "profession-3" in kept and "profession-4" not in kept
+    removed = {x["slug"]: x for x in data["removed"]}
+    assert removed["profession-4"]["status"] == "graveyard" and "since 2026-09-01" in removed["profession-4"]["reason"]
+
+
 def test_exact_duplicates_keep_first_by_lens_then_origin(run, cli):
     write_full_set(run)
     # same slug in a later lens's generated file and an earlier lens's gap file: lens order wins

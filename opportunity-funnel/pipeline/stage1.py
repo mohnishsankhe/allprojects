@@ -2,7 +2,9 @@
 
 Rooms are written by the model in RUN/01_rooms.parts/<lens>.json, gap_<lens>.json
 and external.json. This script merges them, checks every field against
-config/formats.md, removes rooms dead in graveyard.md (unless revived), removes
+config/formats.md, removes rooms dead in graveyard.md from an earlier run (unless
+revived; lines dated on this run's own date are this run's later kills and are
+ignored, so a rerun after `mask` gives the same file), removes
 exact duplicates and rooms marked `duplicate_of`, lists near-duplicates, checks
 the counts (80–120 rooms, a minimum per lens) and writes 01_rooms.json and
 01_rooms.md. Geography is never checked against anything (rule 14).
@@ -19,6 +21,7 @@ Public API
     name_tokens(name) -> set[str]                 words of the normalized name without stopwords
     jaccard(a, b) -> float
     normalize_url(url) -> str                     for the shared-`where` check
+    dead_rooms_from_other_runs(run) -> dict[item -> graveyard entry]   same-date lines (this run's own kills) ignored
     process_rooms(run, rooms, rules=None) -> dict  graveyard, duplicates, near-duplicates, counts (no files written)
     render_md(result, run) -> str
     rooms_command(run, merge_parts) -> dict       process and write 01_rooms.json + 01_rooms.md
@@ -210,6 +213,23 @@ def _venture_ids(ledger=None) -> list:
 
 
 # --------------------------------------------------------------------------- processing
+def dead_rooms_from_other_runs(run) -> dict:
+    """room item -> its graveyard entry, for rooms still dead in graveyard.md.
+
+    Lines dated on this run's own date are ignored: they are this run's own kills
+    (Stage 2 of this run, or an earlier rerun of it), and rerunning `rooms` must
+    give the same 01_rooms.json whatever ran after it (rule 6). A room dead from an
+    earlier run stays out unless a new-evidence line revives it (rule 7).
+    """
+    dead = common.dead_items("room")
+    run_day = common.run_date(run).isoformat()
+    out: dict = {}
+    for e in common.parse_graveyard():
+        if e["item"] in dead and e["date"] != run_day and e["item"] not in out:
+            out[e["item"]] = e
+    return out
+
+
 def _sort_key(room: dict, lenses, order_index: int) -> tuple:
     lens_i = lenses.index(room["lens"]) if room.get("lens") in lenses else len(lenses)
     origin_i = ORIGINS.index(room["origin"]) if room.get("origin") in ORIGINS else len(ORIGINS)
@@ -256,12 +276,8 @@ def process_rooms(run, rooms: list, rules=None) -> dict:
     ordered_rooms = [r for _, r in ordered]
     all_slugs = {r["slug"] for r in ordered_rooms}
 
-    dead = common.dead_items("room")
-    dead_slugs = {item.split(":", 1)[1] for item in dead}
-    grave_by_item = {}
-    for e in common.parse_graveyard():
-        if e["item"] in dead:
-            grave_by_item.setdefault(e["item"], e)
+    grave_by_item = dead_rooms_from_other_runs(run)
+    dead_slugs = {item.split(":", 1)[1] for item in grave_by_item}
 
     removed: list = []
     kept: list = []
