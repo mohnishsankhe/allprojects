@@ -28,6 +28,77 @@
       ],
       "window": 300,
       "window_used": 1243
+    },
+    {
+      "evaluable": true,
+      "new_pains": [
+        "ai-and-seat-price-pressure",
+        "data-security-compliance",
+        "dialer-hacked-toll-fraud",
+        "numbers-flagged-spam",
+        "registration-and-licences",
+        "seat-setup-cost",
+        "telemarketing-rules",
+        "wfm-staffing"
+      ],
+      "new_records": 887,
+      "rank_changes": [
+        {
+          "key": "agent-attrition-and-hiring",
+          "rank_after": 10,
+          "rank_before": 6
+        },
+        {
+          "key": "client-quality-audits",
+          "rank_after": 8,
+          "rank_before": 5
+        },
+        {
+          "key": "dialer-and-carrier-problems",
+          "rank_after": 6,
+          "rank_before": 4
+        },
+        {
+          "key": "dialer-cost-and-choice",
+          "rank_after": 4,
+          "rank_before": 2
+        },
+        {
+          "key": "finding-clients",
+          "rank_after": 3,
+          "rank_before": 1
+        },
+        {
+          "key": "middlemen-upfront-fees",
+          "rank_after": 1,
+          "rank_before": 2
+        }
+      ],
+      "records": 2130,
+      "round": 2,
+      "saturated": false,
+      "taxonomy_added": [
+        "dialer-hacked-toll-fraud"
+      ],
+      "taxonomy_keys": [
+        "agent-attrition-and-hiring",
+        "ai-and-seat-price-pressure",
+        "client-quality-audits",
+        "data-security-compliance",
+        "dialer-and-carrier-problems",
+        "dialer-cost-and-choice",
+        "dialer-hacked-toll-fraud",
+        "finding-clients",
+        "middlemen-upfront-fees",
+        "numbers-flagged-spam",
+        "registration-and-licences",
+        "seat-setup-cost",
+        "telemarketing-rules",
+        "wfm-staffing"
+      ],
+      "window": 300,
+      "window_member_records": 152,
+      "window_used": 887
     }
   ],
   "stop_reason": null,

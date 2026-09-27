@@ -33,6 +33,113 @@
       ],
       "window": 300,
       "window_used": 896
+    },
+    {
+      "evaluable": true,
+      "new_pains": [
+        "business-loan-approval",
+        "chargebacks-payment-outages",
+        "client-no-shows",
+        "filing-deadlines-penalties",
+        "payment-funds-held",
+        "review-sites-hurt-business",
+        "wasted-subscriptions"
+      ],
+      "new_records": 1284,
+      "rank_changes": [
+        {
+          "key": "accounting-software-price-hikes",
+          "rank_after": 2,
+          "rank_before": 7
+        },
+        {
+          "key": "ai-answering-doubts",
+          "rank_after": 11,
+          "rank_before": 8
+        },
+        {
+          "key": "bookkeeping-accountant-cost",
+          "rank_after": 7,
+          "rank_before": 2
+        },
+        {
+          "key": "customers-dont-pay",
+          "rank_after": 3,
+          "rank_before": 6
+        },
+        {
+          "key": "finding-reliable-help",
+          "rank_after": 19,
+          "rank_before": 12
+        },
+        {
+          "key": "first-employee-payroll",
+          "rank_after": 10,
+          "rank_before": 2
+        },
+        {
+          "key": "google-profile-suspended",
+          "rank_after": 18,
+          "rank_before": 11
+        },
+        {
+          "key": "insurance-cost-cover",
+          "rank_after": 6,
+          "rank_before": 5
+        },
+        {
+          "key": "missing-calls-losing-customers",
+          "rank_after": 20,
+          "rank_before": 10
+        },
+        {
+          "key": "not-showing-on-google",
+          "rank_after": 15,
+          "rank_before": 9
+        },
+        {
+          "key": "owner-burnout-always-on",
+          "rank_after": 17,
+          "rank_before": 12
+        },
+        {
+          "key": "selling-business-fees",
+          "rank_after": 8,
+          "rank_before": 4
+        }
+      ],
+      "records": 2180,
+      "round": 2,
+      "saturated": false,
+      "taxonomy_added": [
+        "client-no-shows",
+        "payment-funds-held"
+      ],
+      "taxonomy_keys": [
+        "accounting-software-price-hikes",
+        "ads-seo-waste-money",
+        "ai-answering-doubts",
+        "bookkeeping-accountant-cost",
+        "business-loan-approval",
+        "chargebacks-payment-outages",
+        "client-no-shows",
+        "customers-dont-pay",
+        "filing-deadlines-penalties",
+        "finding-reliable-help",
+        "first-employee-payroll",
+        "google-profile-suspended",
+        "insurance-cost-cover",
+        "missing-calls-losing-customers",
+        "not-showing-on-google",
+        "owner-burnout-always-on",
+        "payment-funds-held",
+        "review-sites-hurt-business",
+        "selling-business-fees",
+        "wasted-subscriptions"
+      ],
+      "window": 300,
+      "window_member_records": 592,
+      "window_used": 1284
     }
   ],
   "stop_reason": null,
