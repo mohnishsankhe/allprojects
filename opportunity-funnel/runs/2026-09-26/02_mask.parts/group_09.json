@@ -1,0 +1,308 @@
+{
+  "rooms": [
+    {
+      "slug": "lender-insurer-telesales-floors-india",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w5",
+        "evidence_url": null,
+        "reasoning": "The w5 text names lenders' and insurers' tele-sales word for word, and this room is in India, so its people are the people the TinyAI path covers; the w5 note says the path is mostly cold unless they are existing clients. Search reach also applies: the floors buy dialers through search, for example Ozonetel is listed with prices and reviews on Capterra India (https://www.capterra.in/software/1023229/ozonetel) and voice-AI vendors publish per-minute rate cards for NBFC collections (https://caller.digital/voice-ai-pricing-india).",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d5",
+        "reasoning": "The core paid problems are dialers, AI voice bots for reminders and first-bucket collections, and call auditing for mis-selling and consent; d5 names voice agents and call auditing directly. Only the outsourced recovery agencies at the end of the ladder sit outside it.",
+        "confidence": "high"
+      },
+      "spend": [
+        {"what": "AI voice bot for collections and reminders, per minute (Caller Digital rate card)", "price_text": "₹2–12/Minute", "amount": 2, "currency": "INR", "unit": "minute", "url": "https://caller.digital/voice-ai-pricing-india", "seen_via": "search"},
+        {"what": "Ozonetel cloud contact-centre seat, Starter plan", "price_text": "$25/user/month", "amount": 25, "currency": "USD", "unit": "user per month", "url": "https://bonvoice.com/insights/ozonetel-pricing-in-india/", "seen_via": "search"},
+        {"what": "Zendesk QA call-auditing software, per agent", "price_text": "$35 per agent, per month, billed annually", "amount": 35, "currency": "USD", "unit": "agent per month", "url": "https://www.zendesk.com/service/quality-assurance/customer-service-quality-assurance-software/", "seen_via": "search"},
+        {"what": "DLT entity registration fee before outbound calling or SMS (one-time, first platform)", "price_text": "Rs. 5,900", "amount": 5900, "currency": "INR", "unit": "one-off", "url": "https://crm.smsgatewayhub.com/knowledge-base/article/dlt-registration-charges-cost-breakdown-in-india", "seen_via": "search"},
+        {"what": "Vistara AI voicebot for NBFC loan collections, starting rate per minute", "price_text": "₹2.00/min", "amount": 2, "currency": "INR", "unit": "minute", "url": "https://www.vistaraai.in/voicebot-for-nbfc", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "The core pains need software, call-auditing judgment and a compliant calling process. Recovery agencies are vendors the lender already hires, and the product is not the collection itself. No large capital, ritual or licensed advocacy is needed.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Selling a dialer, voice bot or QA tool to a lender needs no licence; RBI and TRAI rules bind the lender, not the vendor. The buyers are operations heads on calling floors, not banking deal teams, so there is no employer overlap on its face. Overlaps the founder's own TinyAI (v4): tagged, not excluded.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "A B2B deployment that speaks to a regulated lender's borrowers, priced per seat or per minute across thousands of calls, is bought on references and pilots, not self-serve.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "rooftop-solar-installers-epc",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.g2.com/products/aurora-solar/reviews",
+        "reasoning": "No warm path fits: w4 is energy companies in Southeast Asia and these are small installers in the US, India, Australia and Europe; w3 is warehouses. The room already buys this kind of product through search and marketplaces: Aurora Solar's design and proposal software has 121 user reviews on G2 at $135-$220/User/Mo, and installers buy homeowner leads from public marketplaces such as SolarReviews and EnergySage at $25 to $300 a lead (https://www.solarreviews.com/solar-leads).",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d4",
+        "reasoning": "Renewables is a strong depth and covers yield studies, system economics and financing for commercial rooftops (ladder steps 3 and 4). But the room's most-paid problems are leads, quoting software, certification and physical installation, which are sales-ops and trade problems the energy depth only partly covers, so the match is real but partial.",
+        "confidence": "low"
+      },
+      "spend": [
+        {"what": "NABCEP installer certification fee", "price_text": "$375", "amount": 375, "currency": "USD", "unit": "one-off", "url": "https://www.nabcep.org/certifications/nabcep-fees/", "seen_via": "search"},
+        {"what": "Aurora Solar design and proposal software, per user (annual billing)", "price_text": "$135-$220/User/Mo", "amount": 135, "currency": "USD", "unit": "user per month", "url": "https://www.heavengreenenergy.com/blog/aurora-solar-pricing", "seen_via": "search"},
+        {"what": "Homeowner solar leads bought from the SolarReviews marketplace, per lead", "price_text": "$25 and $300", "amount": 25, "currency": "USD", "unit": "lead", "url": "https://www.solarreviews.com/solar-leads", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Installation and hardware are atoms from vendors and the installer's own crews (rentable, r3); leads, quoting, financing paperwork and yield studies need judgment and process. Customer loans come from lenders, not the founder. No large capital, ritual or licensed advocacy at the core.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Fitting a system needs electrical licences and certifications, but a product for installers (quoting, financing, yield review) needs none. The room is small installers worldwide, not Southeast Asian energy companies, so no employer overlap on its face.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "The likely product is a B2B service for a small firm (a bankable yield review or financing help on a commercial job), which is bought on credibility; a self-serve quoting calculator would need less trust. The PVsyst CHF price on the ladder was left out of spend because the run's FX table has no CHF rate.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "ci-solar-developers-ipps-southeast-asia",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w4",
+        "evidence_url": null,
+        "reasoning": "Small solar developers and IPPs in the Philippines, Vietnam, Indonesia, Thailand and Malaysia are energy companies in Southeast Asia (power, renewables), which is exactly what w4 covers through the founder's work. The w4 note says the employer-rules exclusion must be checked before the path is used.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d4",
+        "reasoning": "The core paid problems are bankable yield studies, lender-grade project finance models, raising debt and equity, and offtaker contracts; d4 (renewables) covers them and d2 (deal documents and transactions) covers the financing side as well.",
+        "confidence": "high"
+      },
+      "spend": [
+        {"what": "Solargis Evaluate: PV simulation and bankable energy yield assessment, starting price", "price_text": "€12,000/year", "amount": 12000, "currency": "EUR", "unit": "year", "url": "https://solargis.com/pricing/evaluate", "seen_via": "search"},
+        {"what": "Pivotal180 renewable energy project finance modeling course, subscription renewal after the first 12 months", "price_text": "$100 per year", "amount": 100, "currency": "USD", "unit": "year", "url": "https://pivotal180.com/course-type/renewable-energy-project-finance-modeling/", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "The developers need models, model reviews and negotiation help; the debt and equity itself comes from lenders and investors, and the founder would not supply capital. Lawyers for term sheets and PPAs are a rentable licence (r1). The initial Pivotal180 course price and PSSEA dues were not shown in search results, and the PVsyst CHF price was left out because the FX table has no CHF rate.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Employer overlap: the warm path itself runs through the founder's investment-banking job in Southeast Asian energy, and the x2 note says he must check his employer's outside-business rules before pursuing this room. Not excluded on its face, because small C&I developers are unlikely to be the employer's clients or deals and modelling help needs no licence, but any contact made through employer work is a live risk and this needs REVIEW.",
+        "confidence": "low"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "Lender-grade model reviews and financing advice on a company's own project are high-price B2B services bought on reputation.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "small-industrial-property-investors",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w3",
+        "evidence_url": null,
+        "reasoning": "Owners and syndicators of warehouses and light-industrial buildings are the investors w3 names (warehouse developers, investors, advisers) through the founder's private-equity network. Search reach applies too: the room pays published prices for CoStar, Crexi Intelligence ($249 per month, https://www.trustradius.com/products/crexi/pricing) and A.CRE modelling courses (https://www.adventuresincre.com/pricing/).",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d3",
+        "reasoning": "The core paid problems are finding, underwriting, financing and managing industrial property; d3 (industrial and logistics real estate) is a strong depth and d2 covers the valuation and deal documents.",
+        "confidence": "high"
+      },
+      "spend": [
+        {"what": "CoStar market data subscription", "price_text": "$15,000 annually", "amount": 15000, "currency": "USD", "unit": "year", "url": "https://www.vendr.com/buyer-guides/costar", "seen_via": "search"},
+        {"what": "A.CRE Accelerator real estate financial modeling course", "price_text": "$697", "amount": 697, "currency": "USD", "unit": "package", "url": "https://www.adventuresincre.com/pricing/", "seen_via": "search"},
+        {"what": "ARGUS software certification bundle", "price_text": "$900", "amount": 900, "currency": "USD", "unit": "package", "url": "https://learn.credaglobal.org/products/argus-software-certification-asc-enterprise-bundle", "seen_via": "search"},
+        {"what": "Crexi Intelligence property data and comps, starting plan", "price_text": "$249 per month", "amount": 249, "currency": "USD", "unit": "month", "url": "https://www.trustradius.com/products/crexi/pricing", "seen_via": "search"},
+        {"what": "Reg D private placement memorandum from a flat-fee securities firm (syndication capital raise)", "price_text": "$12,000 to $25,000", "amount": 12000, "currency": "USD", "unit": "package", "url": "https://ppmlawyers.com/reg-d-ppm-cost/", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Underwriting, lender packages and JV terms need judgment and process; securities lawyers for the PPM are a rentable licence (r1); the capital itself comes from lenders and investors, not the founder. No large capital, ritual or licensed advocacy at the core.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Helping a firm underwrite a deal, package a loan or structure a JV needs no licence; only raising money as a broker-dealer or advising the passive investors would, and that stays outside the product. The reach runs through the founder's private-equity network, so employer overlap should be checked lightly, but small warehouse owners are not investment-banking deals.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "Deal judgment and capital-raising help on million-dollar buildings is a high-price, personal B2B service.",
+        "confidence": "high"
+      }
+    },
+    {
+      "slug": "business-brokers-ma-boutiques",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.bizbuysell.com/brokers/Rates.aspx",
+        "reasoning": "w2 covers investment banking, private equity and finance professionals through colleagues; US business brokers selling $0.5M–$50M companies are a different trade and only a few boutique M&A advisers would be ex-colleagues, so warm is not claimed. The room already buys through search and public marketplaces: BizBuySell publishes a BrokerWorks rate card for broker listings, ValuSource and BizEquity sell valuation software by subscription (BizEquity ~$999/mo, https://deliverables.ai/guides/ai-tools-for-business-brokers-2026), and IBBA University sells the CBI course online.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d2",
+        "reasoning": "The core paid problems are valuation, information memorandums, buyer outreach and due diligence; d2 (corporate finance, valuation, deal documents and transactions) covers them directly and is strong.",
+        "confidence": "high"
+      },
+      "spend": [
+        {"what": "IBBA membership dues", "price_text": "$475", "amount": 475, "currency": "USD", "unit": "year", "url": "https://en.wikipedia.org/wiki/International_Business_Broker's_Association", "seen_via": "search"},
+        {"what": "BizBuySell listing plans, per listing", "price_text": "$66–$200 per month", "amount": 66, "currency": "USD", "unit": "month", "url": "https://investors.club/how-much-does-bizbuysell-cost/", "seen_via": "search"},
+        {"what": "IBBA University CBI credential course", "price_text": "$2,089", "amount": 2089, "currency": "USD", "unit": "package", "url": "https://ibbauniversity.org/topclass/topclass.do?expand-OfferingDetails-viaTC=1-offeringId%3D296609-viaTC%3D1", "seen_via": "search"},
+        {"what": "IBBA Master's program (advanced deal training)", "price_text": "$2,300", "amount": 2300, "currency": "USD", "unit": "package", "url": "https://www.ibba.org/event/ibba-masters-program/", "seen_via": "search"},
+        {"what": "BizEquity valuation platform subscription used by brokers for lead-generation valuations", "price_text": "~$999/mo", "amount": 999, "currency": "USD", "unit": "month", "url": "https://deliverables.ai/guides/ai-tools-for-business-brokers-2026", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Valuation, memorandums and deal-process judgment are what the room needs; lawyers and accountants for due diligence are rentable licences (r1). No large capital, ritual or licensed advocacy at the core.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Helping brokers value and package businesses needs no licence (some US states license brokers, but the product is for the broker, not brokering). Employer overlap: sell-side M&A advice is the founder's own investment-banking trade, so the employer's outside-business rules must be checked, even though small-business brokers are not the employer's clients or deals.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "Valuation and memorandum work on a broker's client business is a B2B service sold on credibility, though a self-serve valuation or memo tool would need less.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "d2c-brands-scaling-past-launch",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w5",
+        "evidence_url": null,
+        "reasoning": "D2C brands are named in the w5 text, and the room's gathering places (D2C Insider, DTC Developers, Bharat Brands) are Indian, so the Indian half of the room sits on the TinyAI path; the note says mostly cold unless existing clients, and the worldwide part is not covered. Search reach applies too: the room buys through app stores, for example Gorgias sells its helpdesk on the Shopify App Store with 700+ reviews (https://apps.shopify.com/helpdesk) and Wati sells WhatsApp API plans from ₹2,499 per month. The founder also runs a D2C brand himself (v2), an insider path the ledger does not list as warm.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d5",
+        "reasoning": "The core paid problems past launch are WhatsApp support and cash-on-delivery confirmation, AI voice order calls, and being cited in AI answers; d5 names WhatsApp agents, voice agents and AI search visibility. Paid ads and marketplace expansion sit outside it.",
+        "confidence": "high"
+      },
+      "spend": [
+        {"what": "Interakt WhatsApp Business API plan", "price_text": "₹3,499", "amount": 3499, "currency": "INR", "unit": "month", "url": "https://www.zoko.io/post/interakt-pricing-guide", "seen_via": "search"},
+        {"what": "Vapi AI voice platform usage, per minute", "price_text": "$0.05 per minute", "amount": 0.05, "currency": "USD", "unit": "minute", "url": "https://vapi.ai/pricing", "seen_via": "search"},
+        {"what": "Peec AI visibility tracking (brand citations in AI answers)", "price_text": "$95 per month", "amount": 95, "currency": "USD", "unit": "month", "url": "https://visible.seranking.com/blog/peec-ai-review/", "seen_via": "search"},
+        {"what": "Wati WhatsApp API Growth plan, India", "price_text": "₹2,499 per month", "amount": 2499, "currency": "INR", "unit": "month", "url": "https://www.heltar.com/blogs/wati-pricing-in-india-explained-comprehensive-breakdown-2025", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Support automation, voice calls and AI visibility are software and judgment; ad agencies and logistics are vendors. No large capital, ritual or licensed advocacy at the core.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "No licence is needed and consumer brands are not investment-banking clients, so no employer overlap. Overlaps the founder's own ventures TinyAI (v4) and Proper Noun (v2): tagged, not excluded.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "A voice or WhatsApp agent that talks to a brand's customers is a B2B deployment judged on returns avoided and support quality; a self-serve AI-visibility tracker would need less trust.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "test-prep-coaching-institutes-india",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w5",
+        "evidence_url": null,
+        "reasoning": "The w5 text lists ed-tech among businesses with large call volumes in India, and coaching institutes run admission-season enquiry and counsellor call floors, so the TinyAI path covers them; the note says mostly cold unless existing clients. w1 adds one warm contact (the test-prep company the founder is discussing a partnership with) but not a path to the room. Search reach applies too: institute owners shop for Classplus and Teachmint on Techjockey and SoftwareSuggest, where Classplus is listed with prices and reviews (https://www.techjockey.com/detail/classplus).",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d5",
+        "reasoning": "The institutes pay for enquiry handling, follow-up and counsellor calls; d5 (WhatsApp agents, voice agents, call auditing) covers those steps of the ladder. d1 (GRE) covers content only for the GRE slice of the room, and the institute app itself is outside any depth.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {"what": "Classplus institute app and management platform, annual plan", "price_text": "Rs 19,999", "amount": 19999, "currency": "INR", "unit": "year", "url": "https://www.softwaresuggest.com/classplus", "seen_via": "search"},
+        {"what": "Interakt WhatsApp Business API plan", "price_text": "₹3,499", "amount": 3499, "currency": "INR", "unit": "month", "url": "https://www.zoko.io/post/interakt-pricing-guide", "seen_via": "search"},
+        {"what": "AI voice agent minutes for enquiry calls (Caller Digital rate card)", "price_text": "₹2–12/Minute", "amount": 2, "currency": "INR", "unit": "minute", "url": "https://caller.digital/voice-ai-pricing-india", "seen_via": "search"},
+        {"what": "Classplus quote-based annual pricing range plus commission (comparison page)", "price_text": "₹8,000–₹50,000/yr", "amount": 8000, "currency": "INR", "unit": "year", "url": "https://allcoaching.in/vs/classplus", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Enquiry automation, follow-up and content need software and judgment; no large capital, ritual or licensed advocacy is needed.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "No licence is needed to sell enquiry tools or content to an institute, and there is no employer overlap. Overlaps the founder's own GRE venture (v1) and TinyAI (v4): tagged, not excluded.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "An institute handing its admission-season enquiries to a voice or WhatsApp agent is buying a B2B service judged on batch fill; a self-serve tool would need less.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "study-abroad-consultancies-india",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.capterra.in/software/1106587/Study-Abroad-Agents-CRM",
+        "reasoning": "No warm path fits without stretching: w5 lists ed-tech and call-heavy businesses, but a consultancy handling hundreds of enquiries a season is not a large-call-volume business, and w1 reaches GRE students, not the consultancies. The room already buys this kind of product through search: study-abroad CRMs are listed with prices and reviews on Capterra India, SmartX sells plans from ₹4,999/month to consultancies (https://smartxcrm.com/study-abroad-crm-comparison-guide/), and Study CRM sells seats at $7/user/month.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d5",
+        "reasoning": "The consultancies' recurring paid problems are leads, enquiry follow-up and document collection on WhatsApp and phone, which d5 (WhatsApp agents, voice agents) covers. Their core service, counselling, applications and visas, sits outside every ledger depth, and d1 (GRE) is only adjacent.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {"what": "SmartX study-abroad CRM, Starter plan", "price_text": "₹4,999/month", "amount": 4999, "currency": "INR", "unit": "month", "url": "https://smartxcrm.com/study-abroad-crm-comparison-guide/", "seen_via": "search"},
+        {"what": "AAERI annual membership fee (head office)", "price_text": "Rs. 2,000.00", "amount": 2000, "currency": "INR", "unit": "year", "url": "https://aaeri.org.in/moa", "seen_via": "search"},
+        {"what": "Interakt WhatsApp Business API plan", "price_text": "₹3,499", "amount": 3499, "currency": "INR", "unit": "month", "url": "https://www.zoko.io/post/interakt-pricing-guide", "seen_via": "search"},
+        {"what": "Study CRM for education agents, Standard plan per user (billed annually, 5-user minimum)", "price_text": "$7/user/month", "amount": 7, "currency": "USD", "unit": "user per month", "url": "https://softwarefinder.com/crm/study", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Enquiry handling and follow-up are software and process; universities pay the commissions and loans come from lenders. No large capital, ritual or licensed advocacy at the core.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Visa filing can need registration in the destination country (for example Australia's agent qualification or Canada's regulated immigration consultants), but the product would serve the consultancy's enquiry handling, not give immigration advice, so x1 does not bite as long as the product stays out of visa advice. No employer overlap. Overlaps v1 and v4: tagged, not excluded.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "A consultancy letting an agent answer its student enquiries is buying a B2B service judged on conversions in season; a self-serve CRM add-on would need less trust.",
+        "confidence": "moderate"
+      }
+    }
+  ]
+}
