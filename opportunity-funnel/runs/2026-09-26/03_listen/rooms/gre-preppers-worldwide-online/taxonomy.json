@@ -160,5 +160,6 @@
       "reasoning": "Round 2 brought many member posts on Quora and Nairaland about failed GRE payments, cards that do not work, money deducted without a booking, and registration names that do not match the passport. They share one problem, getting a valid booking, and no existing pain covers it.",
       "confidence": "moderate"
     }
-  ]
+  ],
+  "reviewed_rounds": [2]
 }

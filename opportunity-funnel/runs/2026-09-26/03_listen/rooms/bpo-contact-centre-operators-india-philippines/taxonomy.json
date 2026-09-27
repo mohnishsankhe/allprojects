@@ -84,5 +84,8 @@
       "definition": "Break-ins on self-hosted dialers and phone servers (VICIdial and other Asterisk-based systems), usually through weak passwords or ports left open to the internet. Intruders run international calls that the carrier bills to the operator (toll fraud) or take over the server, so owners need firewalls and outside help to lock it down. This is a break-in, not a call-quality fault.",
       "added_round": 2
     }
+  ],
+  "reviewed_rounds": [
+    2
   ]
 }

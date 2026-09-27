@@ -1,7 +1,7 @@
 {
   "room": "lender-insurer-telesales-floors-india",
   "round": 2,
-  "note": "Round 1 records are search-result titles. Almost none are written by floor heads or callers, so most pains are shown by sellers, news and regulators, not by members yet. Round 2 (Quora, LinkedIn, job boards, reviews) added three pains from new clusters: unreachable borrowers (skip cases), sales leads that don't convert, and the DPDP Act's consent rules. Round 2 records are still mostly questions from borrowers and the public, sellers, job posts and news.",
+  "note": "Round 1 records are search-result titles. Almost none are written by floor heads or callers, so most pains are shown by sellers, news and regulators, not by members yet. Round 2 (Quora, LinkedIn, job boards, reviews) added three pains from new clusters: unreachable borrowers (skip cases), sales leads that don't convert, and the DPDP Act's consent rules. Round 2 records are still mostly questions from borrowers and the public, sellers, job posts and news. The round 2 review found no further pain. Two small clusters were left out: callers abused by angry customers, and managers asking how to motivate callers to hit targets. Both are generic call-centre questions that name no lender or insurer. Later rounds should look for floor heads saying this in their own words.",
   "pains": [
     {
       "key": "calls-marked-spam-low-pickup",
@@ -123,5 +123,6 @@
       "reasoning": "Round 2 brought law-firm and consent-vendor pages on what the DPDP Act means for telemarketing and for lenders, and many posts on its consent and notice rules. It also brought several timelines of phased compliance deadlines published after the DPDP Rules, 2025 were notified.",
       "confidence": "moderate"
     }
-  ]
+  ],
+  "reviewed_rounds": [2]
 }

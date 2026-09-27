@@ -32,34 +32,127 @@
       "window_used": 924
     },
     {
-      "evaluable": false,
-      "new_pains": [],
-      "new_records": 18,
-      "note": "not evaluable: the last 300 records hold 19 member records, fewer than 30, too few to show a new pain",
-      "rank_changes": [],
-      "records": 942,
+      "evaluable": true,
+      "new_pains": [
+        "consultant-or-sop-worth-it",
+        "mock-vs-real-score",
+        "registration-or-payment-trouble",
+        "scores-late-for-deadline",
+        "test-anxiety-or-burnout"
+      ],
+      "new_records": 972,
+      "rank_changes": [
+        {
+          "key": "consultant-or-sop-worth-it",
+          "rank_after": 11,
+          "rank_before": 17
+        },
+        {
+          "key": "gre-fees-add-up",
+          "rank_after": 7,
+          "rank_before": 3
+        },
+        {
+          "key": "gre-worth-taking",
+          "rank_after": 12,
+          "rank_before": 6
+        },
+        {
+          "key": "no-time-to-prepare",
+          "rank_after": 6,
+          "rank_before": 11
+        },
+        {
+          "key": "prep-too-expensive",
+          "rank_after": 8,
+          "rank_before": 4
+        },
+        {
+          "key": "quant-struggle",
+          "rank_after": 5,
+          "rank_before": 8
+        },
+        {
+          "key": "retake-or-not",
+          "rank_after": 10,
+          "rank_before": 5
+        },
+        {
+          "key": "score-enough-for-target",
+          "rank_after": 9,
+          "rank_before": 8
+        },
+        {
+          "key": "score-not-improving",
+          "rank_after": 13,
+          "rank_before": 7
+        },
+        {
+          "key": "score-reporting-mistakes",
+          "rank_after": 19,
+          "rank_before": 14
+        },
+        {
+          "key": "scores-held-or-cancelled",
+          "rank_after": 4,
+          "rank_before": 12
+        },
+        {
+          "key": "silly-mistakes",
+          "rank_after": 20,
+          "rank_before": 15
+        },
+        {
+          "key": "test-anxiety-or-burnout",
+          "rank_after": 16,
+          "rank_before": 17
+        },
+        {
+          "key": "test-day-worse-than-practice",
+          "rank_after": 18,
+          "rank_before": 13
+        },
+        {
+          "key": "verbal-struggle",
+          "rank_after": 14,
+          "rank_before": 10
+        }
+      ],
+      "records": 1896,
       "round": 2,
       "saturated": false,
+      "taxonomy_added": [
+        "consultant-or-sop-worth-it",
+        "mock-vs-real-score",
+        "registration-or-payment-trouble",
+        "scores-late-for-deadline",
+        "test-anxiety-or-burnout"
+      ],
       "taxonomy_keys": [
+        "consultant-or-sop-worth-it",
         "gre-fees-add-up",
         "gre-worth-taking",
+        "mock-vs-real-score",
         "no-time-to-prepare",
         "prep-too-expensive",
         "quant-struggle",
         "refund-after-cancelling",
+        "registration-or-payment-trouble",
         "retake-or-not",
         "score-enough-for-target",
         "score-not-improving",
         "score-reporting-mistakes",
         "scores-held-or-cancelled",
+        "scores-late-for-deadline",
         "silly-mistakes",
+        "test-anxiety-or-burnout",
         "test-day-worse-than-practice",
         "verbal-struggle",
         "which-prep-worth-paying-for"
       ],
       "window": 300,
-      "window_member_records": 19,
-      "window_used": 300
+      "window_member_records": 531,
+      "window_used": 972
     }
   ],
   "stop_reason": null,

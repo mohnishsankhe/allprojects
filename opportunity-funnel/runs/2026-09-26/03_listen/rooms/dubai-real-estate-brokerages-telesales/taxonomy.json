@@ -88,5 +88,8 @@
       "reasoning": "Round 2 brings 24 records on goAML registration and AML rules: guides for real estate agents and brokers, consultants selling registration with deadlines and penalties, and Ministry of Economy fines on DNFBP firms, including real estate firms. No existing pain covers this rule; only sellers, media and official pages show it so far.",
       "confidence": "moderate"
     }
+  ],
+  "reviewed_rounds": [
+    2
   ]
 }

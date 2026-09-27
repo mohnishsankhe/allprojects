@@ -28,6 +28,103 @@
       ],
       "window": 300,
       "window_used": 845
+    },
+    {
+      "evaluable": true,
+      "new_pains": [
+        "blend-goes-wrong",
+        "brand-name-trademark",
+        "dupes-legal-risk",
+        "hard-to-get-customers",
+        "perfumers-alcohol-hard-to-find",
+        "shipping-hazmat"
+      ],
+      "new_records": 883,
+      "rank_changes": [
+        {
+          "key": "bottles-small-quantity",
+          "rank_after": 8,
+          "rank_before": 10
+        },
+        {
+          "key": "dupes-legal-risk",
+          "rank_after": 9,
+          "rank_before": 12
+        },
+        {
+          "key": "first-perfume-beginner",
+          "rank_after": 11,
+          "rank_before": 9
+        },
+        {
+          "key": "hire-a-perfumer",
+          "rank_after": 10,
+          "rank_before": 6
+        },
+        {
+          "key": "ifra-rules-confusing",
+          "rank_after": 12,
+          "rank_before": 8
+        },
+        {
+          "key": "liability-insurance",
+          "rank_after": 17,
+          "rank_before": 13
+        },
+        {
+          "key": "licence-and-safety-paperwork",
+          "rank_after": 6,
+          "rank_before": 4
+        },
+        {
+          "key": "materials-cost-and-sourcing",
+          "rank_after": 4,
+          "rank_before": 7
+        },
+        {
+          "key": "small-batch-production",
+          "rank_after": 12,
+          "rank_before": 11
+        },
+        {
+          "key": "training-worth-it",
+          "rank_after": 7,
+          "rank_before": 5
+        }
+      ],
+      "records": 1728,
+      "round": 2,
+      "saturated": false,
+      "taxonomy_added": [
+        "blend-goes-wrong",
+        "brand-name-trademark",
+        "dupes-legal-risk",
+        "hard-to-get-customers",
+        "perfumers-alcohol-hard-to-find"
+      ],
+      "taxonomy_keys": [
+        "blend-goes-wrong",
+        "bottles-small-quantity",
+        "brand-name-trademark",
+        "clueless-how-to-start",
+        "dupes-legal-risk",
+        "first-perfume-beginner",
+        "hard-to-get-customers",
+        "hire-a-perfumer",
+        "ifra-rules-confusing",
+        "liability-insurance",
+        "licence-and-safety-paperwork",
+        "materials-cost-and-sourcing",
+        "perfumers-alcohol-hard-to-find",
+        "shipping-hazmat",
+        "small-batch-production",
+        "startup-cost-unknown",
+        "training-worth-it",
+        "will-it-pay"
+      ],
+      "window": 300,
+      "window_member_records": 228,
+      "window_used": 883
     }
   ],
   "stop_reason": null,
