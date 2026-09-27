@@ -143,6 +143,22 @@
       "added_round": 1,
       "reasoning": "A Kiplinger title warns that changed SBA loan rules could sink an application, and many lenders publish requirement guides; no owner post shows it yet.",
       "confidence": "low"
+    },
+    {
+      "key": "payment-funds-held",
+      "label": "Why won't Square release my funds? Payment processors hold our money",
+      "definition": "Payment processors and marketplaces (Square, PayPal, Stripe, Etsy) hold money the owner has already earned. Payouts and deposits are delayed or go missing, reserves keep back part of each sale, and accounts get limited, frozen or closed, often with no clear reason. Cash runs tight while the owner waits.",
+      "added_round": 2,
+      "reasoning": "Round 2 brought many owner posts in the Square, PayPal and Etsy communities and on Quora about held money, such as \"WHY won’t square RELEASE MY FUNDS?\", \"Funds held for no known reason.\" and \"payment account reserve 75% !!!!\". The chargebacks pain covers disputes and outages, not held funds or closed accounts.",
+      "confidence": "high"
+    },
+    {
+      "key": "client-no-shows",
+      "label": "Clients not turning up for appointments: to charge or not to charge?",
+      "definition": "Clients book an appointment, then don't turn up or cancel at the last minute, often without calling. The owner loses the time slot and its income, and must decide whether to take deposits, keep card details or charge a cancellation fee without driving clients away.",
+      "added_round": 2,
+      "reasoning": "Salon owners post \"Clients not turning up\", \"How do you deal with clients that dont turn up?\" and \"Missed Appointments - To Charge or Not to Charge\", and service providers ask \"How to deal with no-show appointments\" on Quora. No existing pain covers lost appointment slots.",
+      "confidence": "moderate"
     }
   ]
 }

@@ -77,6 +77,12 @@
       "label": "Setting up or adding seats costs a lot before any client pays",
       "definition": "Space, computers, dialer licences and setup cost money up front, and owners cannot tell if the seats will pay back. Renting ready seats (seat leasing) is the common workaround.",
       "added_round": 1
+    },
+    {
+      "key": "dialer-hacked-toll-fraud",
+      "label": "Our dialer server got hacked and is making calls we never placed",
+      "definition": "Break-ins on self-hosted dialers and phone servers (VICIdial and other Asterisk-based systems), usually through weak passwords or ports left open to the internet. Intruders run international calls that the carrier bills to the operator (toll fraud) or take over the server, so owners need firewalls and outside help to lock it down. This is a break-in, not a call-quality fault.",
+      "added_round": 2
     }
   ]
 }

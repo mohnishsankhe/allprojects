@@ -612,3 +612,7 @@
 {"batches": 28, "command": "batches", "dropped_duplicate_text": 34, "dropped_old": 24, "dropped_undated": 0, "include_undated_records": true, "kept": 2130, "kept_month_at_cutoff": 0, "kind": "count", "loaded": 2188, "lookback_cutoff": "2024-09-26", "lookback_months": 24, "room": "bpo-contact-centre-operators-india-philippines", "stage": 3, "ts": "2026-09-27T11:37:37+00:00", "undated_kept": 2116}
 {"command": "listen-status", "dated": 38, "kind": "ran", "per_round": {"1": 1283, "2": 905}, "per_source": {"websearch": 2188}, "records": 2188, "room": "bpo-contact-centre-operators-india-philippines", "stage": 3, "ts": "2026-09-27T11:37:44+00:00", "undated": 2150}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T11:39:09+00:00"}
+{"command": "listen-status", "dated": 25, "kind": "ran", "per_round": {"1": 1022}, "per_source": {"websearch": 1022}, "records": 1022, "room": "outbound-lead-gen-appointment-setting-agencies", "stage": 3, "ts": "2026-09-27T11:41:26+00:00", "undated": 997}
+{"command": "show", "ids": 4, "kind": "ran", "missing": [], "room": "small-business-owners-reddit-community", "stage": 3, "ts": "2026-09-27T11:43:04+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "small-business-owners-reddit-community", "stage": 3, "ts": "2026-09-27T11:43:11+00:00"}
+{"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T11:44:13+00:00"}
