@@ -1008,6 +1008,18 @@ def choose_alternative(alternatives, lane_preference):
                                         a["rank"] if _is_int(a["rank"]) else 10 ** 9, a["index"]))[0]
 
 
+PAIR_FIELDS = ("rank", "entry_walls", "hold_wall", "hold_supply_id", "partner_id", "partner_kind", "trade",
+               "one_liner", "crux", "credibility_question", "reasoning", "confidence")
+
+
+def _kept_pair(alt: dict) -> dict:
+    """The kept alternative as a PAIR object (plus its lane and index) for later stages."""
+    out = {k: alt.get(k) for k in PAIR_FIELDS}
+    out["lane"] = alt["lane"]
+    out["index"] = alt["index"]
+    return out
+
+
 def _pair_checks_for(run, entry: dict, merged: dict, rules: dict, supply: dict, walls: dict) -> list:
     """Evaluate the merged file's alternatives for one Stage 4 entry (used by `pairs` and `walks --check`)."""
     try:
@@ -1088,6 +1100,7 @@ def pairs(run) -> dict:
             "depth": depth,
             "kept_index": chosen["index"] if chosen else None,
             "kept_reason": None,
+            "kept": _kept_pair(chosen) if chosen else None,
             "alternatives": alts,
         }
         if chosen:

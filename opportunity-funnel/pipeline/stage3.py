@@ -670,7 +670,7 @@ def render_md(result: dict, run) -> str:
         f"1. fewer than {r['min_verified_quotes']} verified quotes (a quote needs at least {r['quote_min_words']} words);",
         "2. no money mention, no failed spend and urgency none"
         + ("" if r["drop_if_no_money_no_failed_spend_no_urgency"] else " (switched off in kill_rules.yaml)") + ";",
-        "3. a pain dead in graveyard.md stays dropped unless a new-evidence line revives it.",
+        "3. a pain that an earlier run sent to graveyard.md stays dropped unless a new-evidence line revives it.",
         "",
         "Tags:",
         "",
