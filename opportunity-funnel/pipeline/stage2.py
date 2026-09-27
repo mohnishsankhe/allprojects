@@ -315,8 +315,10 @@ def run_tests(entry: dict, room: dict, ids: dict, rules: dict, price_results: li
     else:
         tests["exclusions"] = {"pass": True, "reason": "no ledger exclusion applies"}
 
+    # Ladder steps that carry a price seen at a URL: evidence that the step is really paid.
+    priced = sum(1 for st in (room.get("ladder") or []) if st.get("price_text") and st.get("url"))
     points = {"ladder_steps": steps, "spend_points": n_spend, "spend_points_verified": n_verified,
-              "warm_reach": kind == "warm"}
+              "priced_ladder_steps": priced, "warm_reach": kind == "warm"}
     return tests, points
 
 
@@ -329,6 +331,8 @@ def rank_key(verdict: dict, rank_by) -> tuple:
             key.append(-int(verdict["spend_points_verified"]))
         elif name == "spend_points":
             key.append(-int(verdict["spend_points"]))
+        elif name == "priced_ladder_steps":
+            key.append(-int(verdict.get("priced_ladder_steps", 0)))
         elif name == "warm_reach":
             key.append(0 if verdict["reach_kind"] == "warm" else 1)
     key.append(verdict["slug"])
@@ -441,6 +445,7 @@ def mask(run, merge_parts_flag: bool = False, max_rooms=None) -> dict:
             "ladder_steps": points["ladder_steps"],
             "spend_points": points["spend_points"],
             "spend_points_verified": points["spend_points_verified"],
+            "priced_ladder_steps": points["priced_ladder_steps"],
             "spend": spend_out,
             "supply_blocked": bool(entry["supply"].get("blocked")),
             "supply_needs": list(entry["supply"].get("needs") or []),

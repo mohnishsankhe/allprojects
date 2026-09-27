@@ -1,491 +1,416 @@
 {
   "lens": "obligation",
-  "origin": "gap_pass",
   "note": "Gap pass for the obligation lens, re-grounded on 2026-09-27 with live web search (the 2026-09-26 draft had reused sibling URLs without search). Every 'where' URL, every 'measured' number and every price below was seen in a WebSearch result in this re-grounding pass; page fetches stay blocked by the egress proxy, so no page text was read and prices are copied as the search results printed them. Steps with no price seen carry no price. All five rooms were kept: each now has 2 or more search-seen gathering places. Reddit is not reachable by the search crawler, so no subreddit appears as a place in this file; Hacker News, Blind, Quora, Skool, Indie Hackers and association sites stand in. One step from the 2026-09-26 draft (the $215 H-1B registration fee) was removed because it was not seen again in this pass.",
+  "origin": "gap_pass",
   "rooms": [
     {
-      "slug": "f1-opt-students-us-nonresident-tax-filing",
-      "name": "International students and OPT workers in the US who must file US taxes as nonresidents each spring",
-      "lens": "obligation",
-      "origin": "gap_pass",
-      "who": "Students on F-1 and J-1 visas in the US, and recent graduates working on OPT, a large share of them Indian. Every spring, by the April deadline, each of them must file Form 8843. Anyone who earned money must also file a nonresident return (Form 1040-NR) and usually a state return. Ordinary tax software files the wrong form (a 1040), and the fix is an amended return that the same software cannot do. Many have Social Security and Medicare tax wrongly withheld on OPT wages and must claim it back with Forms 843 and 8316. After about five years, or once on H-1B, they become tax residents and must report Indian bank accounts and mutual funds. A missed filing can hurt later visa and green-card steps.",
-      "where": [
-        {
-          "name": "Blind thread: tax return, regular 1040 vs 1040NR for an F-1 OPT student",
-          "url": "https://www.teamblind.com/post/tax-return-regular-1040-vs-1040nr-for-f-1-opt-student-wc2ouwrg",
-          "seen_via": "search"
-        },
-        {
-          "name": "Blind thread: tax filing for OPT visa",
-          "url": "https://www.teamblind.com/post/tax-filing-for-opt-visa-ykuufdw0",
-          "seen_via": "search"
-        },
-        {
-          "name": "Blind thread: e-filing taxes on F1 visa",
-          "url": "https://www.teamblind.com/post/e-filing-taxes-on-f1-visa-eyr63qtr",
-          "seen_via": "search"
-        },
-        {
-          "name": "TurboTax community thread: I accidentally filed 1040 instead of 1040NR, I am an F1 visa student",
-          "url": "https://ttlc.intuit.com/community/taxes/discussion/i-accidentally-filed-1040-instead-1040nr-i-am-an-f1-visa-studnet/00/3353559",
-          "seen_via": "search"
-        },
-        {
-          "name": "JustAnswer: F1 OPT tax filing, 1040 vs 1040-NR (paid question-and-answer board)",
-          "url": "https://www.justanswer.com/tax/uofkq-f1-opt-tax-filing-1040-vs-1040nr.html",
-          "seen_via": "search"
-        },
-        {
-          "name": "Claimyr Q&A: filed 1040 instead of 1040NR by mistake, F1 OPT student seeking urgent help",
-          "url": "https://claimyr.com/government-services/irs/Filed-1040-instead-of-1040NR-by-mistake-F1-OPT-student-seeking-urgent-help/2025-04-11",
-          "seen_via": "search"
-        },
-        {
-          "name": "Columbia ISSO: filing your nonresident tax forms using Sprintax (the university office page that routes the room to a paid tool)",
-          "url": "https://isso.columbia.edu/content/filing-your-non-resident-tax-forms-using-sprintax-f-and-j",
-          "seen_via": "search"
-        }
-      ],
-      "who_pays": "The student or worker pays out of pocket: a nonresident tax-filing tool each spring (federal and state fees), a service or CPA to fix a wrongly filed 1040, help with the FICA refund claim, and later a CPA for the resident-alien year and the FBAR. Some universities buy access codes to a filing tool for their students.",
-      "size": {
-        "value": 294253,
-        "unit": "international students on OPT in the US, 2024/25 (the slice with wages; every one of them must file each spring)",
-        "tag": "measured",
-        "url": "https://www.iie.org/news/open-doors-2025-press-release/",
-        "reasoning": "The OPT count was seen in this pass (up 21% on the prior year), alongside 1,177,766 international students in total and 363,019 from India. The full room, every F-1 and J-1 student who must file Form 8843 whether or not they earned, is about a million people [estimate]. The OPT slice is the part with withholding, refunds and 1040-NR returns, so it is the paying part."
-      },
-      "ladder": [
-        {
-          "step": 1,
-          "problem": "File Form 8843, and Form 1040-NR if there was income, by the April deadline with a nonresident filing tool (Sprintax; F1TaxReturn offers free federal filing with optional $30 state returns)",
-          "price_text": "$54.95 for federal returns and an additional $49.95 for state returns",
-          "url": "https://www.f1taxreturn.com/blog/free-tax-filing-international-student-comparison",
-          "seen_via": "search"
-        },
-        {
-          "step": 2,
-          "problem": "State return for the state of the university or employer, and the India-US treaty claim (a cheaper filing tool's state add-on)",
-          "price_text": "$30 state returns",
-          "url": "https://f1taxreturn.com/",
-          "seen_via": "search"
-        },
-        {
-          "step": 3,
-          "problem": "Fix a wrongly filed 1040: prepare a 1040-NR and an amended Form 1040-X, which the consumer software cannot do (no price seen this pass)",
-          "price_text": null,
-          "url": "https://blog.sprintax.com/accidentally-filed-1040-instead-of-1040nr/",
-          "seen_via": "search"
-        },
-        {
-          "step": 4,
-          "problem": "OPT work permit application (Form I-765); wages and withholding start after it (premium processing adds $1,780)",
-          "price_text": "$470 online or $520 paper",
-          "url": "https://immiva.com/blog/i-765-opt-filing-fee-2026-complete-cost-breakdown",
-          "seen_via": "search"
-        },
-        {
-          "step": 5,
-          "problem": "Claim back Social Security and Medicare tax wrongly withheld on OPT wages: ask the employer first, then Forms 843 and 8316 with the visa, I-94 and I-20 attached; 6 to 9 months to process (no service price seen this pass)",
-          "price_text": null,
-          "url": "https://www.trackmyopt.com/blog/fica-tax-refund-f1-opt-forms-843-8316",
-          "seen_via": "search"
-        },
-        {
-          "step": 6,
-          "problem": "The year they become a tax resident: a dual-status return, then FBAR and Form 8938 for Indian bank accounts and the PFIC rules for Indian mutual funds, with heavy penalties for missing them (no price seen this pass)"
-        }
-      ],
+      "confidence": "moderate",
+      "duplicate_of": null,
       "geography": [
         "US",
         "IN"
       ],
+      "ladder": [
+        {
+          "price_text": "$54.95 for federal returns and an additional $49.95 for state returns",
+          "problem": "File Form 8843, and Form 1040-NR if there was income, by the April deadline with a nonresident filing tool (Sprintax; F1TaxReturn offers free federal filing with optional $30 state returns)",
+          "seen_via": "search",
+          "step": 1,
+          "url": "https://www.f1taxreturn.com/blog/free-tax-filing-international-student-comparison"
+        },
+        {
+          "price_text": "$30 state returns",
+          "problem": "State return for the state of the university or employer, and the India-US treaty claim (a cheaper filing tool's state add-on)",
+          "seen_via": "search",
+          "step": 2,
+          "url": "https://f1taxreturn.com/"
+        },
+        {
+          "price_text": null,
+          "problem": "Fix a wrongly filed 1040: prepare a 1040-NR and an amended Form 1040-X, which the consumer software cannot do (no price seen this pass)",
+          "seen_via": "search",
+          "step": 3,
+          "url": "https://blog.sprintax.com/accidentally-filed-1040-instead-of-1040nr/"
+        },
+        {
+          "price_text": "$470 online or $520 paper",
+          "problem": "OPT work permit application (Form I-765); wages and withholding start after it (premium processing adds $1,780)",
+          "seen_via": "search",
+          "step": 4,
+          "url": "https://immiva.com/blog/i-765-opt-filing-fee-2026-complete-cost-breakdown"
+        },
+        {
+          "price_text": null,
+          "problem": "Claim back Social Security and Medicare tax wrongly withheld on OPT wages: ask the employer first, then Forms 843 and 8316 with the visa, I-94 and I-20 attached; 6 to 9 months to process (no service price seen this pass)",
+          "seen_via": "search",
+          "step": 5,
+          "url": "https://www.trackmyopt.com/blog/fica-tax-refund-f1-opt-forms-843-8316"
+        },
+        {
+          "problem": "The year they become a tax resident: a dual-status return, then FBAR and Form 8938 for Indian bank accounts and the PFIC rules for Indian mutual funds, with heavy penalties for missing them (no price seen this pass)",
+          "step": 6
+        }
+      ],
+      "lens": "obligation",
+      "name": "International students and OPT workers in the US who must file US taxes as nonresidents each spring",
+      "origin": "gap_pass",
+      "reasoning": "A hard, recurring deadline (every April) that hits every F-1 student and OPT worker, and this pass found the same people asking the same question (1040 or 1040-NR, and how to fix a wrong filing) on Blind, the TurboTax community, JustAnswer and Claimyr, plus the paid tools they are routed to, with prices. It sits two to four years downstream of the founder's GRE users. Existing rooms cover the visa, the job hunt and the Indian-side NRI filing; none covers the US-side filing duty. The core filing is form work; a licensed preparer can be rented for the signed return. [thin] on the FICA-refund and amended-return service prices, which were not seen.",
+      "size": {
+        "reasoning": "The OPT count was seen in this pass (up 21% on the prior year), alongside 1,177,766 international students in total and 363,019 from India. The full room, every F-1 and J-1 student who must file Form 8843 whether or not they earned, is about a million people [estimate]. The OPT slice is the part with withholding, refunds and 1040-NR returns, so it is the paying part.",
+        "tag": "measured",
+        "unit": "international students on OPT in the US, 2024/25 (the slice with wages; every one of them must file each spring)",
+        "url": "https://www.iie.org/news/open-doors-2025-press-release/",
+        "value": 294253
+      },
+      "slug": "f1-opt-students-us-nonresident-tax-filing",
       "venture_overlap": [
         "v1"
       ],
-      "duplicate_of": null,
-      "reasoning": "A hard, recurring deadline (every April) that hits every F-1 student and OPT worker, and this pass found the same people asking the same question (1040 or 1040-NR, and how to fix a wrong filing) on Blind, the TurboTax community, JustAnswer and Claimyr, plus the paid tools they are routed to, with prices. It sits two to four years downstream of the founder's GRE users. Existing rooms cover the visa, the job hunt and the Indian-side NRI filing; none covers the US-side filing duty. The core filing is form work; a licensed preparer can be rented for the signed return. [thin] on the FICA-refund and amended-return service prices, which were not seen.",
-      "confidence": "moderate"
-    },
-    {
-      "slug": "small-vendors-first-soc2-iso27001-audit",
-      "name": "Small software vendors, AI agencies and BPOs facing a first SOC 2 or ISO 27001 audit to close an enterprise deal",
-      "lens": "obligation",
-      "origin": "gap_pass",
-      "who": "Founders and operations heads of small SaaS companies, AI voice and WhatsApp agent builders, and outsourced call centres (India, the Philippines and worldwide) that sell to banks, lenders, insurers, hospitals or large companies. The buyer's procurement team sends a security questionnaire and asks for a SOC 2 report or an ISO 27001 certificate before the contract is signed, often with a date on it. They have never been audited, have no security staff, and ask on Hacker News and Indie Hackers what to do when asked for SOC 2 and what the cheapest route is. (SOC 2 is an auditor's report on a company's security controls; ISO 27001 is the equivalent certificate.)",
       "where": [
         {
-          "name": "Hacker News: Ask HN: Why does SOC 2 feel so hard for early-stage startups? (January 2026)",
-          "url": "https://news.ycombinator.com/item?id=46706083",
-          "seen_via": "search"
+          "name": "Blind thread: tax return, regular 1040 vs 1040NR for an F-1 OPT student",
+          "seen_via": "search",
+          "url": "https://www.teamblind.com/post/tax-return-regular-1040-vs-1040nr-for-f-1-opt-student-wc2ouwrg"
         },
         {
-          "name": "Hacker News: Ask HN: What should I do when asked for SOC2? (a solo founder asked for a Type 2 report by a customer)",
-          "url": "https://news.ycombinator.com/item?id=24486697",
-          "seen_via": "search"
+          "name": "Blind thread: tax filing for OPT visa",
+          "seen_via": "search",
+          "url": "https://www.teamblind.com/post/tax-filing-for-opt-visa-ykuufdw0"
         },
         {
-          "name": "Hacker News: Ask HN: What's the cheapest way to become SOC2 compliant for a pre-seed startup?",
-          "url": "https://news.ycombinator.com/item?id=38021061",
-          "seen_via": "search"
+          "name": "Blind thread: e-filing taxes on F1 visa",
+          "seen_via": "search",
+          "url": "https://www.teamblind.com/post/e-filing-taxes-on-f1-visa-eyr63qtr"
         },
         {
-          "name": "Hacker News: Ask HN: What's still broken in SOC 2 readiness and audit prep? (December 2025)",
-          "url": "https://news.ycombinator.com/item?id=46396889",
-          "seen_via": "search"
+          "name": "TurboTax community thread: I accidentally filed 1040 instead of 1040NR, I am an F1 visa student",
+          "seen_via": "search",
+          "url": "https://ttlc.intuit.com/community/taxes/discussion/i-accidentally-filed-1040-instead-1040nr-i-am-an-f1-visa-studnet/00/3353559"
         },
         {
-          "name": "Indie Hackers: SOC2 as a solo founder",
-          "url": "https://www.indiehackers.com/post/soc2-as-a-solo-founder-868b173ed4",
-          "seen_via": "search"
+          "name": "JustAnswer: F1 OPT tax filing, 1040 vs 1040-NR (paid question-and-answer board)",
+          "seen_via": "search",
+          "url": "https://www.justanswer.com/tax/uofkq-f1-opt-tax-filing-1040-vs-1040nr.html"
         },
         {
-          "name": "Blind: SOC2 topic (employees of vendors going through it)",
-          "url": "https://www.teamblind.com/search/SOC2",
-          "seen_via": "search"
+          "name": "Claimyr Q&A: filed 1040 instead of 1040NR by mistake, F1 OPT student seeking urgent help",
+          "seen_via": "search",
+          "url": "https://claimyr.com/government-services/irs/Filed-1040-instead-of-1040NR-by-mistake-F1-OPT-student-seeking-urgent-help/2025-04-11"
+        },
+        {
+          "name": "Columbia ISSO: filing your nonresident tax forms using Sprintax (the university office page that routes the room to a paid tool)",
+          "seen_via": "search",
+          "url": "https://isso.columbia.edu/content/filing-your-non-resident-tax-forms-using-sprintax-f-and-j"
         }
       ],
-      "who_pays": "The vendor pays out of its own pocket, under deal pressure: a compliance automation platform, a readiness assessment or consultant, the audit firm's fee for Type 1 and then Type 2, a penetration test, and then the yearly renewal. The enterprise buyer pays nothing.",
-      "size": {
-        "value": 5000,
-        "unit": "to 7,000 organizations pursuing SOC 2 for the first time each year (a compliance vendor's 2026 estimate, mostly US and SaaS; total reports issued put at 15,000 to 20,000 a year)",
-        "tag": "measured",
-        "url": "https://blog.getagency.com/articles/soc-2-compliance-statistics-2026",
-        "reasoning": "The first-time-audit figure was seen in this pass on a vendor statistics page and is its own estimate, so treat it as an order of magnitude. ISO 27001 first-timers in India, the Philippines and Europe, and the AI-agency and BPO vendors that face questionnaires without ever reaching an audit, add to it [estimate]."
-      },
-      "ladder": [
-        {
-          "step": 1,
-          "problem": "Answer the first enterprise security questionnaire and sign a data-processing agreement (no price seen this pass)"
-        },
-        {
-          "step": 2,
-          "problem": "Buy a compliance automation platform and write the policies it needs (Vanta Core, the entry tier for one framework)",
-          "price_text": "$10,000 per year",
-          "url": "https://www.complyjet.com/blog/vanta-pricing-guide-2025",
-          "seen_via": "search"
-        },
-        {
-          "step": 3,
-          "problem": "Readiness assessment, then the CPA firm's SOC 2 audit fee for the first report",
-          "price_text": "$10,000 to $50,000",
-          "url": "https://www.vanta.com/collection/soc-2/soc-2-audit-cost",
-          "seen_via": "search"
-        },
-        {
-          "step": 4,
-          "problem": "Penetration test the auditor and the customer expect (a scoped web-app assessment at seed stage; $15,000-$35,000 for a Series A web app and API test)",
-          "price_text": "$5,000 for a scoped web app assessment",
-          "url": "https://getautonoma.com/blog/penetration-testing-cost",
-          "seen_via": "search"
-        },
-        {
-          "step": 5,
-          "problem": "SOC 2 Type 2 after the observation window (the report most enterprise buyers actually ask for)",
-          "price_text": "roughly $30,000 to $60,000",
-          "url": "https://www.vanta.com/collection/soc-2/soc-2-audit-cost",
-          "seen_via": "search"
-        },
-        {
-          "step": 6,
-          "problem": "Yearly re-audit, plus the next asks as they arrive: ISO 27001 for non-US buyers, ISO 42001 for AI systems, PCI DSS for card payments over the phone, and a site certification for call centres (no price seen this pass)"
-        }
-      ],
+      "who": "Students on F-1 and J-1 visas in the US, and recent graduates working on OPT, a large share of them Indian. Every spring, by the April deadline, each of them must file Form 8843. Anyone who earned money must also file a nonresident return (Form 1040-NR) and usually a state return. Ordinary tax software files the wrong form (a 1040), and the fix is an amended return that the same software cannot do. Many have Social Security and Medicare tax wrongly withheld on OPT wages and must claim it back with Forms 843 and 8316. After about five years, or once on H-1B, they become tax residents and must report Indian bank accounts and mutual funds. A missed filing can hurt later visa and green-card steps.",
+      "who_pays": "The student or worker pays out of pocket: a nonresident tax-filing tool each spring (federal and state fees), a service or CPA to fix a wrongly filed 1040, help with the FICA refund claim, and later a CPA for the resident-alien year and the FBAR. Some universities buy access codes to a filing tool for their students."
+    },
+    {
+      "confidence": "moderate",
+      "duplicate_of": null,
       "geography": [
         "GLOBAL",
         "IN",
         "PH",
         "US"
       ],
+      "ladder": [
+        {
+          "problem": "Answer the first enterprise security questionnaire and sign a data-processing agreement (no price seen this pass)",
+          "step": 1
+        },
+        {
+          "price_text": "$10,000 per year",
+          "problem": "Buy a compliance automation platform and write the policies it needs (Vanta Core, the entry tier for one framework)",
+          "seen_via": "search",
+          "step": 2,
+          "url": "https://www.complyjet.com/blog/vanta-pricing-guide-2025"
+        },
+        {
+          "price_text": "$10,000 to $50,000",
+          "problem": "Readiness assessment, then the CPA firm's SOC 2 audit fee for the first report",
+          "seen_via": "search",
+          "step": 3,
+          "url": "https://www.vanta.com/collection/soc-2/soc-2-audit-cost"
+        },
+        {
+          "price_text": "$5,000 for a scoped web app assessment",
+          "problem": "Penetration test the auditor and the customer expect (a scoped web-app assessment at seed stage; $15,000-$35,000 for a Series A web app and API test)",
+          "seen_via": "search",
+          "step": 4,
+          "url": "https://getautonoma.com/blog/penetration-testing-cost"
+        },
+        {
+          "price_text": "roughly $30,000 to $60,000",
+          "problem": "SOC 2 Type 2 after the observation window (the report most enterprise buyers actually ask for)",
+          "seen_via": "search",
+          "step": 5,
+          "url": "https://www.vanta.com/collection/soc-2/soc-2-audit-cost"
+        },
+        {
+          "problem": "Yearly re-audit, plus the next asks as they arrive: ISO 27001 for non-US buyers, ISO 42001 for AI systems, PCI DSS for card payments over the phone, and a site certification for call centres (no price seen this pass)",
+          "step": 6
+        }
+      ],
+      "lens": "obligation",
+      "name": "Small software vendors, AI agencies and BPOs facing a first SOC 2 or ISO 27001 audit to close an enterprise deal",
+      "origin": "gap_pass",
+      "reasoning": "A contract-driven deadline: the deal does not close until the report exists, and this pass found the people who face it asking exactly that on Hacker News (four Ask HN threads), Indie Hackers and Blind, with platform, audit and pen-test prices from named vendors. It sits on the founder's TinyAI path (AI vendors and call centres selling to lenders, insurers and hospitals) and on a strong depth domain (building AI products for businesses). The EU AI Act and TCPA rooms cover law-driven duties; no room covers the buyer-driven security audit. [thin] on the size, which is a vendor's estimate, and on BPO-specific certification prices.",
+      "size": {
+        "reasoning": "The first-time-audit figure was seen in this pass on a vendor statistics page and is its own estimate, so treat it as an order of magnitude. ISO 27001 first-timers in India, the Philippines and Europe, and the AI-agency and BPO vendors that face questionnaires without ever reaching an audit, add to it [estimate].",
+        "tag": "measured",
+        "unit": "to 7,000 organizations pursuing SOC 2 for the first time each year (a compliance vendor's 2026 estimate, mostly US and SaaS; total reports issued put at 15,000 to 20,000 a year)",
+        "url": "https://blog.getagency.com/articles/soc-2-compliance-statistics-2026",
+        "value": 5000
+      },
+      "slug": "small-vendors-first-soc2-iso27001-audit",
       "venture_overlap": [
         "v4"
       ],
-      "duplicate_of": null,
-      "reasoning": "A contract-driven deadline: the deal does not close until the report exists, and this pass found the people who face it asking exactly that on Hacker News (four Ask HN threads), Indie Hackers and Blind, with platform, audit and pen-test prices from named vendors. It sits on the founder's TinyAI path (AI vendors and call centres selling to lenders, insurers and hospitals) and on a strong depth domain (building AI products for businesses). The EU AI Act and TCPA rooms cover law-driven duties; no room covers the buyer-driven security audit. [thin] on the size, which is a vendor's estimate, and on BPO-specific certification prices.",
-      "confidence": "moderate"
-    },
-    {
-      "slug": "india-beauty-brands-cdsco-legal-metrology-epr",
-      "name": "Small Indian beauty and perfume brands facing cosmetics licensing, Legal Metrology labelling and plastic EPR registration",
-      "lens": "obligation",
-      "origin": "gap_pass",
-      "who": "Founders of small skincare, haircare and perfume brands in India, selling on their own site, Amazon, Nykaa and quick-commerce apps. Before the first batch ships they need a cosmetics manufacturing licence (Form 32) from the state drug controller, or a loan licence (Form 32-A) through a contract manufacturer, or a CDSCO import registration for imported products. Every pack must carry Legal Metrology declarations and the brand needs a packer registration. A brand that puts plastic packaging on the market must register as a brand owner on the CPCB's EPR portal and file returns. Perfume adds flammable-goods courier rules. The dates come from the launch, the marketplace's document checks and the annual return deadlines. They gather in India's D2C founder communities, which began as WhatsApp groups. (CDSCO is India's drug and cosmetics regulator; EPR is the producer's duty to take back packaging waste.)",
       "where": [
         {
-          "name": "D2C Insider (India's D2C founder community, begun as a WhatsApp group in 2019; 7,000+ brand founders)",
-          "url": "https://www.d2cinsider.com/",
-          "seen_via": "search"
+          "name": "Hacker News: Ask HN: Why does SOC 2 feel so hard for early-stage startups? (January 2026)",
+          "seen_via": "search",
+          "url": "https://news.ycombinator.com/item?id=46706083"
         },
         {
-          "name": "D2C Insider on LinkedIn",
-          "url": "https://in.linkedin.com/company/d2c-insider",
-          "seen_via": "search"
+          "name": "Hacker News: Ask HN: What should I do when asked for SOC2? (a solo founder asked for a Type 2 report by a customer)",
+          "seen_via": "search",
+          "url": "https://news.ycombinator.com/item?id=24486697"
         },
         {
-          "name": "D2C Insider PRIME (paid membership with premium WhatsApp groups for D2C operators)",
-          "url": "https://d2cinsider.mojo.page/d2ci-prime",
-          "seen_via": "search"
+          "name": "Hacker News: Ask HN: What's the cheapest way to become SOC2 compliant for a pre-seed startup?",
+          "seen_via": "search",
+          "url": "https://news.ycombinator.com/item?id=38021061"
         },
         {
-          "name": "DTC Developers (invite-only WhatsApp community of 2,000+ D2C leaders in India)",
-          "url": "https://dtcdevelopers.org/",
-          "seen_via": "search"
+          "name": "Hacker News: Ask HN: What's still broken in SOC 2 readiness and audit prep? (December 2025)",
+          "seen_via": "search",
+          "url": "https://news.ycombinator.com/item?id=46396889"
         },
         {
-          "name": "Careers360 Q&A: I want to start a skincare brand and manufacture for my own brand (where first-time founders ask about licences)",
-          "url": "https://careers360.com/question-i-want-to-start-a-skincare-brand-i-want-to-manufacture-for-my-own-brand",
-          "seen_via": "search"
+          "name": "Indie Hackers: SOC2 as a solo founder",
+          "seen_via": "search",
+          "url": "https://www.indiehackers.com/post/soc2-as-a-solo-founder-868b173ed4"
+        },
+        {
+          "name": "Blind: SOC2 topic (employees of vendors going through it)",
+          "seen_via": "search",
+          "url": "https://www.teamblind.com/search/SOC2"
         }
       ],
-      "who_pays": "The founder pays from launch capital: state licence fees and a consultant or CA to file them, the contract manufacturer's private-label minimums, label design and the compliance stack, the Legal Metrology packer registration, and the EPR registration and returns. Marketplaces enforce it by refusing listings without the documents.",
-      "size": {
-        "value": 7000,
-        "unit": "brand founders in the D2C Insider community (all D2C categories, of which beauty and personal care is a large slice; other pages on the same site count 20,000+ brands)",
-        "tag": "measured",
-        "url": "https://www.d2cinsider.com/",
-        "reasoning": "The community count was seen in this pass. Beauty, skincare and perfume brands that need cosmetics licensing are a fraction of it, and the founders who launch each year and hit these steps for the first time number in the low thousands [estimate]."
-      },
-      "ladder": [
-        {
-          "step": 1,
-          "problem": "Cosmetics manufacturing licence in Form 32, or a loan licence in Form 32-A through a contract manufacturer, from the state drug controller before the first batch (Tamil Nadu fee; states vary; up to 10 products per category)",
-          "price_text": "Rs. 3,500/-",
-          "url": "https://drugscontrol.tn.gov.in/guidelines_cosmetics_manufacturing_licence_form32.html",
-          "seen_via": "search"
-        },
-        {
-          "step": 2,
-          "problem": "Private-label the first SKU at a licensed contract manufacturer and assemble the compliance stack (trademark, labels, GST); a serum runs ₹60 to ₹150 per unit at 500 to 1,000 units",
-          "price_text": "₹15,000 to ₹25,000 and two to three weeks for the full compliance stack",
-          "url": "https://d2c-acquisitionlab.com/playbooks/how-to-start-a-skincare-brand-india",
-          "seen_via": "search"
-        },
-        {
-          "step": 3,
-          "problem": "Legal Metrology packer registration and label declarations (name, net quantity, MRP, packer address, date, consumer care) before the marketplace approves the listing",
-          "price_text": "₹500 – ₹750 (state-specific)",
-          "url": "https://crspl.in/registrations/legal-metrology-registration",
-          "seen_via": "search"
-        },
-        {
-          "step": 4,
-          "problem": "EPR brand-owner registration on the CPCB plastic portal and its annual returns (government fee by plastic volume; micro and small brands may be exempt)",
-          "price_text": "₹10,000 to ₹50,000+",
-          "url": "https://www.agileregulatory.com/service/cpcb-epr-registration-certificate",
-          "seen_via": "search"
-        },
-        {
-          "step": 5,
-          "problem": "Importing finished products instead: CDSCO cosmetic import registration (Form COS-1) fees per site, category and variant",
-          "price_text": "USD 500 per manufacturing site, USD 1000 per cosmetic category, and USD 50 per cosmetic variant",
-          "url": "https://fdapals.com/cosmetic-registration-fees-updated/",
-          "seen_via": "search"
-        },
-        {
-          "step": 6,
-          "problem": "Selling abroad: EU and UK allergen labelling, CPNP notification and a responsible person (see the eu-uk-cosmetics-allergen-labelling-beauty-brands room) (no price seen this pass)"
-        }
-      ],
+      "who": "Founders and operations heads of small SaaS companies, AI voice and WhatsApp agent builders, and outsourced call centres (India, the Philippines and worldwide) that sell to banks, lenders, insurers, hospitals or large companies. The buyer's procurement team sends a security questionnaire and asks for a SOC 2 report or an ISO 27001 certificate before the contract is signed, often with a date on it. They have never been audited, have no security staff, and ask on Hacker News and Indie Hackers what to do when asked for SOC 2 and what the cheapest route is. (SOC 2 is an auditor's report on a company's security controls; ISO 27001 is the equivalent certificate.)",
+      "who_pays": "The vendor pays out of its own pocket, under deal pressure: a compliance automation platform, a readiness assessment or consultant, the audit firm's fee for Type 1 and then Type 2, a penetration test, and then the yearly renewal. The enterprise buyer pays nothing."
+    },
+    {
+      "confidence": "moderate",
+      "duplicate_of": null,
       "geography": [
         "IN"
       ],
+      "ladder": [
+        {
+          "price_text": "Rs. 3,500/-",
+          "problem": "Cosmetics manufacturing licence in Form 32, or a loan licence in Form 32-A through a contract manufacturer, from the state drug controller before the first batch (Tamil Nadu fee; states vary; up to 10 products per category)",
+          "seen_via": "search",
+          "step": 1,
+          "url": "https://drugscontrol.tn.gov.in/guidelines_cosmetics_manufacturing_licence_form32.html"
+        },
+        {
+          "price_text": "₹15,000 to ₹25,000 and two to three weeks for the full compliance stack",
+          "problem": "Private-label the first SKU at a licensed contract manufacturer and assemble the compliance stack (trademark, labels, GST); a serum runs ₹60 to ₹150 per unit at 500 to 1,000 units",
+          "seen_via": "search",
+          "step": 2,
+          "url": "https://d2c-acquisitionlab.com/playbooks/how-to-start-a-skincare-brand-india"
+        },
+        {
+          "price_text": "₹500 – ₹750 (state-specific)",
+          "problem": "Legal Metrology packer registration and label declarations (name, net quantity, MRP, packer address, date, consumer care) before the marketplace approves the listing",
+          "seen_via": "search",
+          "step": 3,
+          "url": "https://crspl.in/registrations/legal-metrology-registration"
+        },
+        {
+          "price_text": "₹10,000 to ₹50,000+",
+          "problem": "EPR brand-owner registration on the CPCB plastic portal and its annual returns (government fee by plastic volume; micro and small brands may be exempt)",
+          "seen_via": "search",
+          "step": 4,
+          "url": "https://www.agileregulatory.com/service/cpcb-epr-registration-certificate"
+        },
+        {
+          "price_text": "USD 500 per manufacturing site, USD 1000 per cosmetic category, and USD 50 per cosmetic variant",
+          "problem": "Importing finished products instead: CDSCO cosmetic import registration (Form COS-1) fees per site, category and variant",
+          "seen_via": "search",
+          "step": 5,
+          "url": "https://fdapals.com/cosmetic-registration-fees-updated/"
+        },
+        {
+          "problem": "Selling abroad: EU and UK allergen labelling, CPNP notification and a responsible person (see the eu-uk-cosmetics-allergen-labelling-beauty-brands room) (no price seen this pass)",
+          "step": 6
+        }
+      ],
+      "lens": "obligation",
+      "name": "Small Indian beauty and perfume brands facing cosmetics licensing, Legal Metrology labelling and plastic EPR registration",
+      "origin": "gap_pass",
+      "reasoning": "The founder's own perfume brand faces exactly these steps, so the judgment is first-hand, and fragrance is a moderate depth domain. This pass found the Indian D2C founder communities (D2C Insider, DTC Developers) that the 2026-09-26 draft lacked, and priced the licence, packer registration, EPR and private-label steps from state and consultant pages. Existing rooms cover EU and UK labelling for brands selling abroad and the launch of a consumer brand in general; none covers the Indian licensing and registration duties that gate the first sale. Licence filings can be rented from a consultant. [thin] on the beauty-only share of the community and on state-to-state fee variation.",
+      "size": {
+        "reasoning": "The community count was seen in this pass. Beauty, skincare and perfume brands that need cosmetics licensing are a fraction of it, and the founders who launch each year and hit these steps for the first time number in the low thousands [estimate].",
+        "tag": "measured",
+        "unit": "brand founders in the D2C Insider community (all D2C categories, of which beauty and personal care is a large slice; other pages on the same site count 20,000+ brands)",
+        "url": "https://www.d2cinsider.com/",
+        "value": 7000
+      },
+      "slug": "india-beauty-brands-cdsco-legal-metrology-epr",
       "venture_overlap": [
         "v2"
       ],
-      "duplicate_of": null,
-      "reasoning": "The founder's own perfume brand faces exactly these steps, so the judgment is first-hand, and fragrance is a moderate depth domain. This pass found the Indian D2C founder communities (D2C Insider, DTC Developers) that the 2026-09-26 draft lacked, and priced the licence, packer registration, EPR and private-label steps from state and consultant pages. Existing rooms cover EU and UK labelling for brands selling abroad and the launch of a consumer brand in general; none covers the Indian licensing and registration duties that gate the first sale. Licence filings can be rented from a consultant. [thin] on the beauty-only share of the community and on state-to-state fee variation.",
-      "confidence": "moderate"
-    },
-    {
-      "slug": "startup-founders-409a-83b-deadlines",
-      "name": "Founders of US-incorporated startups facing 83(b) election and 409A valuation deadlines",
-      "lens": "obligation",
-      "origin": "gap_pass",
-      "who": "Founders, from any country, who set up a Delaware C-corp to raise money or hire with stock options. Two dated rules catch them. The 83(b) election must be mailed within 30 days of receiving founder stock that vests; there is no extension, and missing it means tax on every vesting date. Before the first option grant, and again every 12 months or after each priced round, the company needs an independent 409A valuation, or the options are mispriced and employees face penalties. Many founders learn both from a Hacker News thread after the date has passed. (An 83(b) election tells the tax office to tax founder stock now, while it is worth little; a 409A valuation is an appraisal of the common stock that sets the option price.)",
       "where": [
         {
-          "name": "Hacker News: Tell HN: Please remember to fill out an 83(b) election after joining a startup (2023)",
-          "url": "https://news.ycombinator.com/item?id=37121439",
-          "seen_via": "search"
+          "name": "D2C Insider (India's D2C founder community, begun as a WhatsApp group in 2019; 7,000+ brand founders)",
+          "seen_via": "search",
+          "url": "https://www.d2cinsider.com/"
         },
         {
-          "name": "Hacker News: Forgot to file that 83b election?",
-          "url": "https://news.ycombinator.com/item?id=15318285",
-          "seen_via": "search"
+          "name": "D2C Insider on LinkedIn",
+          "seen_via": "search",
+          "url": "https://in.linkedin.com/company/d2c-insider"
         },
         {
-          "name": "Hacker News: Show HN: Managed 83(b) Elections from Clerky (a paid service pitched to this room)",
-          "url": "https://news.ycombinator.com/item?id=32899749",
-          "seen_via": "search"
+          "name": "D2C Insider PRIME (paid membership with premium WhatsApp groups for D2C operators)",
+          "seen_via": "search",
+          "url": "https://d2cinsider.mojo.page/d2ci-prime"
         },
         {
-          "name": "Hacker News: The 83B Election (2023)",
-          "url": "https://news.ycombinator.com/item?id=34788357",
-          "seen_via": "search"
+          "name": "DTC Developers (invite-only WhatsApp community of 2,000+ D2C leaders in India)",
+          "seen_via": "search",
+          "url": "https://dtcdevelopers.org/"
         },
         {
-          "name": "Quora: my startup needs a 409A valuation but even the Carta option is too expensive; is there a lower-cost resource?",
-          "url": "https://www.quora.com/My-startup-needs-to-get-a-409a-valuation-but-even-the-Carta-platform-option-is-too-expensive-for-us-now-Does-anyone-know-of-a-lower-cost-resource-for-this",
-          "seen_via": "search"
-        },
-        {
-          "name": "Stripe Atlas (the incorporation product many of them use, which sends the 83(b) reminder)",
-          "url": "https://stripe.com/atlas",
-          "seen_via": "search"
+          "name": "Careers360 Q&A: I want to start a skincare brand and manufacture for my own brand (where first-time founders ask about licences)",
+          "seen_via": "search",
+          "url": "https://careers360.com/question-i-want-to-start-a-skincare-brand-i-want-to-manufacture-for-my-own-brand"
         }
       ],
-      "who_pays": "The company pays for the 409A out of its first raise; cap-table software bundles one into a plan (free at the smallest tier). The founder pays personally for the 83(b) (a filing service, a lawyer or accountant to check it, and the tax bill if it is missed).",
-      "size": {
-        "value": 30000,
-        "unit": "US-incorporated startups per year that grant their first options and need a 409A",
-        "tag": "estimate",
-        "reasoning": "No yearly count was seen in this pass. Stripe Atlas incorporates startups from anywhere for a flat fee, cap-table vendors bundle a 409A into their smallest plans because nearly every option-granting startup needs one, and a large share of Delaware startups issue vesting founder stock (83(b)) and grant options within two years. Order of magnitude only. [thin]"
-      },
-      "ladder": [
-        {
-          "step": 1,
-          "problem": "Incorporate a Delaware C-corp from anywhere (Stripe Atlas: one-time fee covering filing, EIN and a year of registered agent)",
-          "price_text": "$500",
-          "url": "https://sparklaun.ch/compare/stripe-atlas",
-          "seen_via": "search"
-        },
-        {
-          "step": 2,
-          "problem": "Founder stock with vesting: file the 83(b) election within 30 days and keep proof of mailing, or pay a managed filing service (Clerky; no price seen this pass)",
-          "price_text": null,
-          "url": "https://news.ycombinator.com/item?id=32899749",
-          "seen_via": "search"
-        },
-        {
-          "step": 3,
-          "problem": "First 409A valuation before the first option grants, then every 12 months or after each priced round (early-stage pricing; Carta Launch includes it free for companies with under 25 stakeholders that have raised up to $1 million, per https://carta.com/plans/equity-management/)",
-          "price_text": "$1,000 to $3,000",
-          "url": "https://www.cakeequity.com/guides/409a-valuation-cost",
-          "seen_via": "search"
-        },
-        {
-          "step": 4,
-          "problem": "The raise itself: pitch deck, model and a defended valuation for the term sheet",
-          "price_text": "$2,000–$5,000",
-          "url": "https://www.spectup.com/resource-hub/how-much-does-a-pitch-deck-cost",
-          "seen_via": "search"
-        },
-        {
-          "step": 5,
-          "problem": "Yearly compliance of the entity: registered agent renewal and Delaware franchise tax",
-          "price_text": "$100 Renewal",
-          "url": "https://sparklaun.ch/compare/stripe-atlas",
-          "seen_via": "search"
-        },
-        {
-          "step": 6,
-          "problem": "As the team grows: option-grant hygiene, cap-table software and a fractional CFO for board reporting",
-          "price_text": "between $3,000 and $12,000 per month",
-          "url": "https://pilot.com/blog/fractional-cfo-cost-guide",
-          "seen_via": "search"
-        }
-      ],
+      "who": "Founders of small skincare, haircare and perfume brands in India, selling on their own site, Amazon, Nykaa and quick-commerce apps. Before the first batch ships they need a cosmetics manufacturing licence (Form 32) from the state drug controller, or a loan licence (Form 32-A) through a contract manufacturer, or a CDSCO import registration for imported products. Every pack must carry Legal Metrology declarations and the brand needs a packer registration. A brand that puts plastic packaging on the market must register as a brand owner on the CPCB's EPR portal and file returns. Perfume adds flammable-goods courier rules. The dates come from the launch, the marketplace's document checks and the annual return deadlines. They gather in India's D2C founder communities, which began as WhatsApp groups. (CDSCO is India's drug and cosmetics regulator; EPR is the producer's duty to take back packaging waste.)",
+      "who_pays": "The founder pays from launch capital: state licence fees and a consultant or CA to file them, the contract manufacturer's private-label minimums, label design and the compliance stack, the Legal Metrology packer registration, and the EPR registration and returns. Marketplaces enforce it by refusing listings without the documents."
+    },
+    {
+      "confidence": "moderate",
+      "duplicate_of": null,
       "geography": [
         "US",
         "GLOBAL",
         "IN"
       ],
-      "venture_overlap": [],
-      "duplicate_of": null,
-      "reasoning": "Two hard dates (30 days; 12 months) that every option-granting startup meets, and this pass found four Hacker News threads and a Quora question where founders warn each other, plus the prices of the incorporation, valuation and filing products they buy. Valuation is a strong depth domain for the founder, and a 409A is a valuation exercise. The existing founder rooms cover incorporation, the raise and franchise tax; none names the 409A or the 83(b) duty. A 409A that earns safe harbour must come from an independent appraiser, which the founder could be or rent. [thin] on the yearly count, which is an estimate.",
-      "confidence": "moderate"
-    },
-    {
-      "slug": "sea-energy-companies-issb-climate-reporting",
-      "name": "Energy and industrial companies in Southeast Asia facing mandatory ISSB-based climate reporting",
-      "lens": "obligation",
-      "origin": "gap_pass",
-      "who": "Finance and sustainability managers at listed and large private companies in Singapore, Malaysia, Indonesia, Thailand, Vietnam and the Philippines, with power, renewables, chemicals and oil and gas firms among the first in line. Malaysia's National Sustainability Reporting Framework requires Bursa-listed issuers and large private companies to report under IFRS S1 and S2 from FY2025 in three groups, with Scope 3 deferred one year and reasonable assurance on Scope 1 and 2 planned from FY2027 for Group 1. Singapore phased in Scope 1 and 2 reporting for listed companies from 2025, keeps mandatory Scope 3 for STI constituents from 2026, and requires limited assurance from FY2029. Most have never measured emissions or written a climate-risk statement, and their lenders and buyers now ask for the same numbers. (ISSB is the global body whose standards these exchanges copy; Scope 1, 2 and 3 are the three tiers of a company's emissions.)",
-      "where": [
-        {
-          "name": "ISCA ESG025 workshop: Sustainability Reporting, applying IFRS S1 and S2 (run with SGX RegCo; SGX subsidises the first two representatives of each listed company)",
-          "url": "https://www.isca.org.sg/iscaacademy/courses/sustainability/esg025",
-          "seen_via": "search"
-        },
-        {
-          "name": "ISCA and SGX RegCo launch sustainability reporting workshops for listed companies (news)",
-          "url": "https://www.theaccountant-online.com/news/isca-sgx-regco-launch-workshops/",
-          "seen_via": "search"
-        },
-        {
-          "name": "ESG Association of Malaysia on LinkedIn (1,691 followers; founded 2022 for knowledge sharing and capacity building)",
-          "url": "https://www.linkedin.com/company/esg-association-of-malaysia/",
-          "seen_via": "search"
-        },
-        {
-          "name": "ESG Malaysia (industry body for ESG practitioners and the ESG services industry in Malaysia)",
-          "url": "https://www.esgmalaysia.org.my/",
-          "seen_via": "search"
-        },
-        {
-          "name": "UN Global Compact Network Malaysia and Brunei: IFRS S2 climate reporting guide and company programmes",
-          "url": "https://www.ungcmbc.org/ifrs-s2-climate-reporting-malaysia-2026",
-          "seen_via": "search"
-        },
-        {
-          "name": "KPMG Malaysia ESG Symposium: adopting IFRS S1 and S2 (event for reporting companies)",
-          "url": "https://kpmg.com/my/en/home/events/2025/04/kpmg-esg-symposium-adopting-ifrs-s1-s2.html",
-          "seen_via": "search"
-        },
-        {
-          "name": "Unlocking Capital for Sustainability, Malaysia 2025 (event where reporting companies meet lenders and investors)",
-          "url": "https://www.unlockingcapitalforsustainability.com/malaysia/2025",
-          "seen_via": "search"
-        }
-      ],
-      "who_pays": "The company pays: training for the finance team, emissions-accounting software, a sustainability consultant for the first report, and an assurance provider once the phase requires it. Singapore co-funds part of a first report. Lenders sometimes price loans on the numbers, which makes the CFO the buyer.",
-      "size": {
-        "value": 1074,
-        "unit": "companies listed on Bursa Malaysia's Main Market as at 30 November 2025 (all in NSRF scope; SGX-listed and large private companies come on top)",
-        "tag": "measured",
-        "url": "https://resourcehub.bakermckenzie.com/en/resources/cross-border-listings-guide/asia-pacific/bursa-malaysia/topics/overview-of-exchange",
-        "reasoning": "The Bursa count was seen in this pass. Adding SGX-listed companies (about 600 [estimate; a listing count seen this pass without a pinned URL]), large private companies covered by both frameworks, and the exchanges of Indonesia, Thailand, Vietnam and the Philippines that are phasing in similar rules, the first waves are a few thousand companies across the region [estimate]; energy and industrial firms are a minority of them but the first to face assurance."
-      },
       "ladder": [
         {
+          "note": "Reused from the old ladder (Stripe Atlas).",
+          "price_text": "$500",
+          "problem": "Incorporate a Delaware C-corp from anywhere (one-time fee covering filing, EIN and a year of registered agent)",
+          "seen_via": "search",
           "step": 1,
-          "problem": "Gap assessment and training against IFRS S1 and S2 and the exchange's timeline (ISCA workshop fee for members and non-members; S$436.00 for SGX-subsidised representatives)",
-          "price_text": "S$654.00 (inclusive of GST)",
-          "url": "https://www.isca.org.sg/iscaacademy/courses/sustainability/esg025",
-          "seen_via": "search"
+          "url": "https://sparklaun.ch/compare/stripe-atlas"
         },
         {
+          "note": "Price of Clerky's Managed 83(b) Election add-on as seen in a review; Clerky's own help page says the add-on is paid because of manual labour and postage (https://help.clerky.com/article/2934-83b-election-add-on-cost). Old ladder had this step unpriced.",
+          "price_text": "$149",
+          "problem": "File the 83(b) election within 30 days of receiving vesting founder stock, with proof of mailing (a managed filing service)",
+          "seen_via": "search",
           "step": 2,
-          "problem": "Measure Scope 1 and 2 emissions and set up data collection across plants: carbon accounting software built for IFRS S2 (tCO2e founding plan for Singapore SMEs; about S$2,100 after the Sustainability Reporting Grant)",
-          "price_text": "S$3,000/year",
-          "url": "https://tc02e.com/",
-          "seen_via": "search"
+          "url": "https://www.rho.co/blog/clerky-review"
         },
         {
+          "note": "Clerky's post-incorporation package price seen in a pricing comparison; per-use option grants were seen at $49 each. A lawyer drafting an option agreement was seen at $590 average (https://www.contractscounsel.com/b/employee-stock-option-agreement-cost). New step.",
+          "price_text": "$299",
+          "problem": "Adopt a stock option plan and issue the first grants (board and stockholder approvals, grant paperwork)",
+          "seen_via": "search",
           "step": 3,
-          "problem": "Write the first climate-related disclosure: governance, strategy, risk, metrics and targets, with scenario analysis (consultant; no fee seen this pass; Singapore's grant covers up to 30 per cent of qualifying costs, capped at S$150,000, for a first report)",
-          "price_text": null,
-          "url": "https://www.eco-business.com/news/singapore-to-offset-a-third-of-climate-reporting-costs-for-large-non-listed-companies/",
-          "seen_via": "search"
+          "url": "https://sparklaun.ch/compare/clerky"
         },
         {
+          "note": "Reused from the old ladder (early-stage pricing; Carta Launch bundles one free for very small companies).",
+          "price_text": "$1,000 to $3,000",
+          "problem": "First 409A valuation before the first option grants, then every 12 months or after each priced round",
+          "seen_via": "search",
           "step": 4,
-          "problem": "Scope 3 and value-chain data from suppliers (Malaysia allows a one-year deferral; mandatory for STI constituents in Singapore from 2026): an SME emissions tool that tracks Scope 1, 2 and 3 (SAMESG Lite), plus the transition plan lenders ask for",
-          "price_text": "from $99/month",
-          "url": "https://samcorporate.com/en/samesg-lite-emission-reporting-tool/",
-          "seen_via": "search"
+          "url": "https://www.cakeequity.com/guides/409a-valuation-cost"
         },
         {
+          "note": "Pulley yearly plan prices seen in a comparison page; the Growth tier includes 409A valuations. Split out of the old step 6 (which mixed cap-table software with a fractional CFO the room rarely buys).",
+          "price_text": "$1,200 Startup, $3,500 Growth",
+          "problem": "Cap-table software once SAFEs and option grants exist (tracks the 409A, exercises and Form 3921)",
+          "seen_via": "search",
           "step": 5,
-          "problem": "Assurance over Scope 1 and 2 from an accredited provider once the phase requires it (Malaysia Group 1 from FY2027; Singapore listed companies from FY2029) (no price seen this pass)",
-          "price_text": null,
-          "url": "https://www.acra.gov.sg/regulations/sustainability-reporting/requirements-timeline/",
-          "seen_via": "search"
+          "url": "https://sparklaun.ch/compare/carta-pulley"
         },
         {
+          "note": "Delaware amounts seen in a 2026 filing guide. Registered agent renewal was seen at $100 (old ladder). No price was seen for a startup CPA preparing the Form 1120 in two searches.",
+          "price_text": "$400 under the assumed-par-value method, plus a $50 annual report fee",
+          "problem": "Keep the entity alive each year: Delaware franchise tax and annual report, registered agent renewal and the federal Form 1120 return",
+          "seen_via": "search",
           "step": 6,
-          "problem": "Model the cost of carbon pricing and of CBAM on exports, and the capital plan to cut it (no price seen this pass)"
+          "url": "https://www.graphitefinancial.com/blog/delaware-franchise-tax-deadline"
+        },
+        {
+          "note": "Priced seed round company-counsel range seen in a 2026 startup lawyer cost guide; SAFE rounds were seen at $3,000-$7,000. Replaces the old pitch-deck step (deck design belongs to the pre-seed room; the legal bill is what this room pays).",
+          "price_text": "$10,000–$30,000 per side",
+          "problem": "Legal for the first priced round, which also triggers a fresh 409A",
+          "seen_via": "search",
+          "step": 7,
+          "url": "https://www.acevedoventurelaw.com/articles/how-much-does-startup-lawyer-cost/"
         }
       ],
+      "lens": "obligation",
+      "name": "Founders of US-incorporated startups facing 83(b) election and 409A valuation deadlines",
+      "origin": "gap_pass",
+      "reasoning": "Two hard dates (30 days; 12 months) that every option-granting startup meets, and this pass found four Hacker News threads and a Quora question where founders warn each other, plus the prices of the incorporation, valuation and filing products they buy. Valuation is a strong depth domain for the founder, and a 409A is a valuation exercise. The existing founder rooms cover incorporation, the raise and franchise tax; none names the 409A or the 83(b) duty. A 409A that earns safe harbour must come from an independent appraiser, which the founder could be or rent. [thin] on the yearly count, which is an estimate.",
+      "size": {
+        "reasoning": "No yearly count was seen in this pass. Stripe Atlas incorporates startups from anywhere for a flat fee, cap-table vendors bundle a 409A into their smallest plans because nearly every option-granting startup needs one, and a large share of Delaware startups issue vesting founder stock (83(b)) and grant options within two years. Order of magnitude only. [thin]",
+        "tag": "estimate",
+        "unit": "US-incorporated startups per year that grant their first options and need a 409A",
+        "value": 30000
+      },
+      "slug": "startup-founders-409a-83b-deadlines",
+      "venture_overlap": [],
+      "where": [
+        {
+          "name": "Hacker News: Tell HN: Please remember to fill out an 83(b) election after joining a startup (2023)",
+          "seen_via": "search",
+          "url": "https://news.ycombinator.com/item?id=37121439"
+        },
+        {
+          "name": "Hacker News: Forgot to file that 83b election?",
+          "seen_via": "search",
+          "url": "https://news.ycombinator.com/item?id=15318285"
+        },
+        {
+          "name": "Hacker News: Show HN: Managed 83(b) Elections from Clerky (a paid service pitched to this room)",
+          "seen_via": "search",
+          "url": "https://news.ycombinator.com/item?id=32899749"
+        },
+        {
+          "name": "Hacker News: The 83B Election (2023)",
+          "seen_via": "search",
+          "url": "https://news.ycombinator.com/item?id=34788357"
+        },
+        {
+          "name": "Quora: my startup needs a 409A valuation but even the Carta option is too expensive; is there a lower-cost resource?",
+          "seen_via": "search",
+          "url": "https://www.quora.com/My-startup-needs-to-get-a-409a-valuation-but-even-the-Carta-platform-option-is-too-expensive-for-us-now-Does-anyone-know-of-a-lower-cost-resource-for-this"
+        },
+        {
+          "name": "Stripe Atlas (the incorporation product many of them use, which sends the 83(b) reminder)",
+          "seen_via": "search",
+          "url": "https://stripe.com/atlas"
+        }
+      ],
+      "who": "Founders, from any country, who set up a Delaware C-corp to raise money or hire with stock options. Two dated rules catch them. The 83(b) election must be mailed within 30 days of receiving founder stock that vests; there is no extension, and missing it means tax on every vesting date. Before the first option grant, and again every 12 months or after each priced round, the company needs an independent 409A valuation, or the options are mispriced and employees face penalties. Many founders learn both from a Hacker News thread after the date has passed. (An 83(b) election tells the tax office to tax founder stock now, while it is worth little; a 409A valuation is an appraisal of the common stock that sets the option price.)",
+      "who_pays": "The company pays for the 409A out of its first raise; cap-table software bundles one into a plan (free at the smallest tier). The founder pays personally for the 83(b) (a filing service, a lawyer or accountant to check it, and the tax bill if it is missed)."
+    },
+    {
+      "confidence": "moderate",
+      "duplicate_of": null,
       "geography": [
         "SG",
         "MY",
@@ -494,10 +419,102 @@
         "VN",
         "PH"
       ],
-      "venture_overlap": [],
-      "duplicate_of": null,
+      "ladder": [
+        {
+          "note": "Reused from current ladder (ISCA workshop; S$436.00 for SGX-subsidised representatives).",
+          "price_text": "S$654.00 (inclusive of GST)",
+          "problem": "Train the finance and sustainability team on IFRS S1 and S2 and the exchange's timeline",
+          "seen_via": "search",
+          "step": 1,
+          "url": "https://www.isca.org.sg/iscaacademy/courses/sustainability/esg025"
+        },
+        {
+          "note": "Reused from current ladder (tCO2e founding plan; about S$2,100 after the Sustainability Reporting Grant).",
+          "price_text": "S$3,000/year",
+          "problem": "Measure Scope 1 and 2 emissions across sites: carbon accounting software",
+          "seen_via": "search",
+          "step": 2,
+          "url": "https://tc02e.com/"
+        },
+        {
+          "note": "Kept unpriced after 2 searches: results only showed Singapore's grant (up to 30% of qualifying consultant costs, capped at S$150,000) and SME programme support (up to 70%). Confident it is paid: the grant exists precisely because companies pay external consultants for this.",
+          "problem": "Consultant to write the first climate disclosure: governance, strategy, scenario analysis, metrics and targets",
+          "step": 3
+        },
+        {
+          "note": "Reused from current ladder (SAMESG Lite).",
+          "price_text": "from $99/month",
+          "problem": "Scope 3 and supplier data once the deferral ends (Malaysia one-year deferral; STI constituents in Singapore from 2026)",
+          "seen_via": "search",
+          "step": 4,
+          "url": "https://samcorporate.com/en/samesg-lite-emission-reporting-tool/"
+        },
+        {
+          "note": "Replaces the old step 6 (CBAM modelling, which belongs to the exporter room). Moderate confidence that it is common: IFRS S2 requires target disclosure and validation is the paid route; not every company validates. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches.",
+          "price_text": "SMEs pay USD 1,000. Companies with revenue under USD 100 million pay USD 4,750. Companies with revenue over USD 100 million pay USD 9,500.",
+          "problem": "Set and validate emissions targets and a transition plan that lenders and the standard ask for (SBTi validation fee)",
+          "seen_via": "search",
+          "step": 5,
+          "url": "https://normative.io/insight/sbti/"
+        },
+        {
+          "note": "Kept unpriced after 2 searches: results gave the assurance timelines and standards (ISAE 3000 / ISSA 5000) but no fee. Confident it is paid: it is a mandatory external engagement.",
+          "problem": "Assurance over Scope 1 and 2 from an accredited provider once the phase requires it (Malaysia Group 1 from FY2027; Singapore listed from FY2029)",
+          "step": 6
+        }
+      ],
+      "lens": "obligation",
+      "name": "Energy and industrial companies in Southeast Asia facing mandatory ISSB-based climate reporting",
+      "origin": "gap_pass",
       "reasoning": "A dated regulatory duty phased in by exchange and financial year, landing first on the energy and industrial firms the founder reaches through work and knows well (energy is a strong depth domain). This pass found the places where the reporting companies are trained and gather (ISCA and SGX RegCo workshops, the two Malaysian ESG associations, the UN Global Compact network, the KPMG symposium), a measured count of companies in scope, and prices for training and software; consultant and assurance fees were not seen [thin]. The CBAM room covers exporters' carbon levies and the UK room covers landlords; no room covers the climate reporting duty itself. Any work here must respect the ledger's employer rule (no employer clients or confidential information).",
-      "confidence": "moderate"
+      "size": {
+        "reasoning": "The Bursa count was seen in this pass. Adding SGX-listed companies (about 600 [estimate; a listing count seen this pass without a pinned URL]), large private companies covered by both frameworks, and the exchanges of Indonesia, Thailand, Vietnam and the Philippines that are phasing in similar rules, the first waves are a few thousand companies across the region [estimate]; energy and industrial firms are a minority of them but the first to face assurance.",
+        "tag": "measured",
+        "unit": "companies listed on Bursa Malaysia's Main Market as at 30 November 2025 (all in NSRF scope; SGX-listed and large private companies come on top)",
+        "url": "https://resourcehub.bakermckenzie.com/en/resources/cross-border-listings-guide/asia-pacific/bursa-malaysia/topics/overview-of-exchange",
+        "value": 1074
+      },
+      "slug": "sea-energy-companies-issb-climate-reporting",
+      "venture_overlap": [],
+      "where": [
+        {
+          "name": "ISCA ESG025 workshop: Sustainability Reporting, applying IFRS S1 and S2 (run with SGX RegCo; SGX subsidises the first two representatives of each listed company)",
+          "seen_via": "search",
+          "url": "https://www.isca.org.sg/iscaacademy/courses/sustainability/esg025"
+        },
+        {
+          "name": "ISCA and SGX RegCo launch sustainability reporting workshops for listed companies (news)",
+          "seen_via": "search",
+          "url": "https://www.theaccountant-online.com/news/isca-sgx-regco-launch-workshops/"
+        },
+        {
+          "name": "ESG Association of Malaysia on LinkedIn (1,691 followers; founded 2022 for knowledge sharing and capacity building)",
+          "seen_via": "search",
+          "url": "https://www.linkedin.com/company/esg-association-of-malaysia/"
+        },
+        {
+          "name": "ESG Malaysia (industry body for ESG practitioners and the ESG services industry in Malaysia)",
+          "seen_via": "search",
+          "url": "https://www.esgmalaysia.org.my/"
+        },
+        {
+          "name": "UN Global Compact Network Malaysia and Brunei: IFRS S2 climate reporting guide and company programmes",
+          "seen_via": "search",
+          "url": "https://www.ungcmbc.org/ifrs-s2-climate-reporting-malaysia-2026"
+        },
+        {
+          "name": "KPMG Malaysia ESG Symposium: adopting IFRS S1 and S2 (event for reporting companies)",
+          "seen_via": "search",
+          "url": "https://kpmg.com/my/en/home/events/2025/04/kpmg-esg-symposium-adopting-ifrs-s1-s2.html"
+        },
+        {
+          "name": "Unlocking Capital for Sustainability, Malaysia 2025 (event where reporting companies meet lenders and investors)",
+          "seen_via": "search",
+          "url": "https://www.unlockingcapitalforsustainability.com/malaysia/2025"
+        }
+      ],
+      "who": "Finance and sustainability managers at listed and large private companies in Singapore, Malaysia, Indonesia, Thailand, Vietnam and the Philippines, with power, renewables, chemicals and oil and gas firms among the first in line. Malaysia's National Sustainability Reporting Framework requires Bursa-listed issuers and large private companies to report under IFRS S1 and S2 from FY2025 in three groups, with Scope 3 deferred one year and reasonable assurance on Scope 1 and 2 planned from FY2027 for Group 1. Singapore phased in Scope 1 and 2 reporting for listed companies from 2025, keeps mandatory Scope 3 for STI constituents from 2026, and requires limited assurance from FY2029. Most have never measured emissions or written a climate-risk statement, and their lenders and buyers now ask for the same numbers. (ISSB is the global body whose standards these exchanges copy; Scope 1, 2 and 3 are the three tiers of a company's emissions.)",
+      "who_pays": "The company pays: training for the finance team, emissions-accounting software, a sustainability consultant for the first report, and an assurance provider once the phase requires it. Singapore co-funds part of a first report. Lenders sometimes price loans on the numbers, which makes the CFO the buyer."
     }
   ]
 }

@@ -1,0 +1,420 @@
+{
+  "ladders": {
+    "corporate-development-associates-in-house-ma": [
+      {
+        "step": 1,
+        "problem": "Keep deal modelling sharp for the transactions the team runs (accretion/dilution, LBO, comps): a self-study modelling course",
+        "price_text": "$499",
+        "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 1). Bought by the associate, often reimbursed. Standard entry purchase for ex-consultants and anyone whose modelling has gone rusty."
+      },
+      {
+        "step": 2,
+        "problem": "Learn the buy-side playbook (sourcing, diligence, integration) from practitioners: an M&A practitioner membership with playbooks and templates",
+        "price_text": "$995/yr",
+        "url": "https://www.mascience.com/pricing",
+        "seen_via": "search",
+        "note": "Replaces the old step 2 price ($1,800 per year seen on a third-party blog). The vendor's own pricing page title shows Professional membership at $995/yr; the same search showed the newer DealPilot Practitioners tier at $1,995/year on mascience.com/membership. Employer usually pays."
+      },
+      {
+        "step": 3,
+        "problem": "Run live deals without spreadsheets and email: deal pipeline and diligence software (one project room)",
+        "price_text": "$1,250/month",
+        "url": "https://www.tryplox.com/blog/dealroom-pricing",
+        "seen_via": "search",
+        "note": "New step. Same page shows $1,000/month on annual billing ($12,000/year) and that the Pipeline plan is annual-only at $12,000/year. The company pays, but the associate or manager is the buyer who picks and runs it. Moderate confidence that small corp dev teams commonly pay; many still use Excel and the seller's data room."
+      },
+      {
+        "step": 4,
+        "problem": "Move up to manager or director: an executive M&A and corporate development course",
+        "price_text": "US$2,714",
+        "url": "https://online-execed.wharton.upenn.edu/mergers-acquisitions-corporate-development-strategies",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 3). Employer-funded in most cases."
+      },
+      {
+        "step": 5,
+        "problem": "The MBA pivot for the minority who reset: admissions consulting plus the GMAT",
+        "price_text": "$7,300 for 1 school",
+        "url": "https://poetsandquants.com/2023/05/31/what-it-now-costs-to-hire-an-mba-admissions-consultant/",
+        "seen_via": "search",
+        "note": "Old steps 4 and 5 (GMAT, admissions consultant) merged: they are one problem, getting into an MBA. GMAT fee seen at USD 275 at a test center or USD 300 online (https://test-ninjas.com/gmat-registration-fees-and-cost). Only a minority of the room takes this route."
+      }
+    ],
+    "desi-fragrance-addicts-india-community": [
+      {
+        "step": 1,
+        "problem": "Try designer and niche scents cheaply before committing: decants from an Indian decant seller",
+        "price_text": "Rs. 299 to Rs. 1,425",
+        "url": "https://www.sillageperfumes.in/collections/decants",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 1). The universal first purchase in this community."
+      },
+      {
+        "step": 2,
+        "problem": "Buy the first full bottle from an Indian niche house",
+        "price_text": "₹3,900-₹4,100",
+        "url": "https://www.definitelycurry.com/bombay-perfumery-review-indian-perfume-brand/",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 3), moved earlier because full bottles usually come before attars for people who enter through designer decants."
+      },
+      {
+        "step": 3,
+        "problem": "Go traditional: attars from Kannauj (rose-oud, 10 ml)",
+        "price_text": "₹899.00",
+        "url": "https://www.attarkannauj.com/product-page/rose-oud",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 2). Sale price; the regular price shown was ₹1,999.00."
+      },
+      {
+        "step": 4,
+        "problem": "Chase rarer juice: niche decants and bottle splits",
+        "price_text": "₹550 to ₹21,950",
+        "url": "https://splashfragrance.in/product-category/niche-perfumes-decants-online-india/",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 4)."
+      },
+      {
+        "step": 5,
+        "problem": "Import a bottle not sold in India and pay customs duty on it",
+        "price_text": "around 43% to 44% of the overall CIF value",
+        "url": "https://deepbeez.com/import-duty/import-duty-on-perfumes-in-india",
+        "seen_via": "search",
+        "note": "New step. Search showed the stack as 20% basic customs duty, a 10% social welfare surcharge on the duty, and 28% IGST on top (cusbuzz.com pages show 20.00% BCD for HSN 33030010/33030090). Paid by everyone who orders from abroad by post; a large minority of the room, since many others buy on Dubai trips or through relatives. Moderate confidence on 'commonly'."
+      },
+      {
+        "step": 6,
+        "problem": "Start blending: a perfume-making workshop, then a starter kit of oils and perfumer's alcohol",
+        "price_text": "₹2,500 for one participant",
+        "url": "https://troveexperiences.com/pages/perfume-making",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 5), widened to include the kit that follows: VedaOils Perfume Making Kit seen at ₹999 (regular price ₹2,000) at https://www.vedaoils.com/products/perfume-making-kit. Kept as one step because both solve 'make my own'."
+      }
+    ],
+    "gre-preppers-worldwide-online": [
+      {
+        "step": 1,
+        "problem": "Structured prep: a self-study course with practice questions and tests",
+        "price_text": "$179",
+        "url": "https://gre.magoosh.com/plans",
+        "seen_via": "search",
+        "note": "Old steps 1 and 2 merged: the cheap subscription (GregMat, $11.99 per month, https://www.gregmat.com/pricing) and the fuller course are substitutes for the same problem, not a sequence. Magoosh price reused from the old ladder."
+      },
+      {
+        "step": 2,
+        "problem": "Know the real score before test day: official ETS practice tests beyond the two free ones",
+        "price_text": "$44.95 per practice test",
+        "url": "https://www.ets.org/gre/test-takers/general-test/prepare/powerprep.html",
+        "seen_via": "search",
+        "note": "New step. POWERPREP PLUS Online; three paid tests exist. r/GRE treats them as the only trustworthy score predictor, so most serious preppers buy at least one."
+      },
+      {
+        "step": 3,
+        "problem": "Break a score plateau after self-study: hourly tutoring",
+        "price_text": "$117/hour",
+        "url": "https://testprepinsight.com/best/best-gre-tutors/",
+        "seen_via": "search",
+        "note": "New step. Kaplan's entry rate on a tutor comparison page; the same page shows Wyzant tutors from about $30/hour and Manhattan Prep at $270-$290 per hour. A minority of the room, but a large one given the volume of tutor offers in the community."
+      },
+      {
+        "step": 4,
+        "problem": "Sit the exam, and reschedule or retake when the score is short",
+        "price_text": "$249",
+        "url": "https://www.ets.org/gre/test-takers/general-test/register/fees.html",
+        "seen_via": "search",
+        "note": "Old steps 3 and 4 (registration, reschedule) merged: one problem, getting a usable score. Fee rose from $220 to $249 on 1 August 2026 per the search; the Magoosh fee page still showed $220 and a $55 rescheduling fee (https://magoosh.com/gre/gre-exam-fee-and-cost/). Retakes pay the full fee again."
+      },
+      {
+        "step": 5,
+        "problem": "Prove English for the same applications (non-native applicants, the majority of the room): TOEFL or IELTS",
+        "price_text": "INR 18,000",
+        "url": "https://www.manyagroup.com/blog/toefl/toefl-exam-fees/",
+        "seen_via": "search",
+        "note": "New step. TOEFL iBT fee in India (base INR 15,254 plus 18% GST). Applies to the non-native slice, which is most of the room; US applicants skip it."
+      },
+      {
+        "step": 6,
+        "problem": "Send scores and apply: additional score reports and application fees for each school beyond the four free recipients",
+        "price_text": "US$35 per score recipient",
+        "url": "https://www.in.ets.org/gre/test-takers/general-test/scores/send-scores.html",
+        "seen_via": "search",
+        "note": "Replaces the old step 5, whose price ($220) pointed at a prep-course page. Most applicants send to more than four schools. University application fees come on top; no single price cited here."
+      },
+      {
+        "step": 7,
+        "problem": "Get the essays right: SOP and LOR editing or an admissions counsellor",
+        "price_text": "INR 4000 to 5000",
+        "url": "https://sophelp.com/sop-charges-in-india/",
+        "seen_via": "search",
+        "note": "New step. Price for a college-admission SOP from an Indian SOP service; the same search showed US services at $30 to $150 per SOP. Commonly bought by the Indian slice; US applicants more often use free university writing centres."
+      }
+    ],
+    "indie-hackers-bootstrapped-founders": [
+      {
+        "step": 1,
+        "problem": "Get the product online: hosting for a production app (plus a domain)",
+        "price_text": "$20 per month per deploying seat",
+        "url": "https://vercel.com/docs/pricing",
+        "seen_via": "search",
+        "note": "New step. Vercel Pro is the most common host in this community; a domain adds roughly $10-15 a year (no single price cited). Small but universal."
+      },
+      {
+        "step": 2,
+        "problem": "Incorporate from anywhere so Stripe, customers and acquirers take you seriously",
+        "price_text": "$500 + $100 Renewal",
+        "url": "https://sparklaun.ch/compare/stripe-atlas",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 1); the page title now shows the renewal too. Stripe Atlas, one-time $500 covering state filing, EIN and first-year registered agent."
+      },
+      {
+        "step": 3,
+        "problem": "Keep the company alive and legal each year: Delaware annual tax, registered agent, and the foreign-owner tax filing",
+        "price_text": "$300 Annual Tax",
+        "url": "https://llcforge.com/llc-costs/delaware/",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 2), widened: most indie hackers are outside the US, so they also pay a Form 5472 filing service, seen at $299 flat (https://form5472.tax/), plus a registered agent at $60-$149 a year."
+      },
+      {
+        "step": 4,
+        "problem": "Sell worldwide without handling sales tax and VAT: a merchant of record",
+        "price_text": "5% + 50¢",
+        "url": "https://www.lemonsqueezy.com/pricing",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 3) with the vendor's own pricing page; Paddle charges the same headline rate."
+      },
+      {
+        "step": 5,
+        "problem": "Get found now that buyers ask ChatGPT and Google AI instead of browsing: SEO and AI-search visibility tooling",
+        "price_text": "$95 per month",
+        "url": "https://visible.seranking.com/blog/peec-ai-review/",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 4). Newer than the SEO tools this room already buys; moderate confidence that it is 'commonly' paid yet."
+      },
+      {
+        "step": 6,
+        "problem": "Learn to price, sell and not quit: a paid founder community with masterminds",
+        "price_text": "$49/month",
+        "url": "https://microconf.com/connect",
+        "seen_via": "search",
+        "note": "Replaces the old step 5 price ($97 per month from a generic Skool listing). MicroConf Connect, the bootstrapped-SaaS community; also $499/year."
+      },
+      {
+        "step": 7,
+        "problem": "Exit: sell the product on a startup marketplace",
+        "price_text": "4 percent",
+        "url": "https://acquire.com/seller-pricing/",
+        "seen_via": "search",
+        "note": "New step. Acquire.com closing fee on the purchase price; listing is free. Selling a small product is a normal end of the indie-hacker cycle, and this is the default venue."
+      }
+    ],
+    "non-target-students-breaking-into-finance": [
+      {
+        "step": 1,
+        "problem": "Learn the interview game: an investment banking interview guide",
+        "price_text": "$197",
+        "url": "https://breakingintowallstreet.com/investment-banking-interview-guide/",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 1)."
+      },
+      {
+        "step": 2,
+        "problem": "Pass the technicals: a financial modelling course",
+        "price_text": "$499",
+        "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 2)."
+      },
+      {
+        "step": 3,
+        "problem": "Reach alumni and bankers without on-campus recruiting: LinkedIn Premium for InMail and profile views",
+        "price_text": "US$39.99 per month",
+        "url": "https://premium.linkedin.com/careers/career",
+        "seen_via": "search",
+        "note": "New step. Cold outreach is the non-target's whole strategy; Premium Career is the common paid tool for it, usually after the free month."
+      },
+      {
+        "step": 4,
+        "problem": "Rehearse with someone who has sat on the other side: paid mock interviews and coaching with an ex-banker",
+        "price_text": "$100-$300",
+        "url": "https://www.wallstreetguide.net/post/top-10-places-to-find-an-investment-banking-career-coach",
+        "seen_via": "search",
+        "note": "Replaces the old step 3, whose $800/hour price pointed at a course page. Single mock-interview session price from a coaching comparison page; multi-session packages $500-$3,000 on the same page."
+      },
+      {
+        "step": 5,
+        "problem": "Buy a structured path: a mentored recruiting program built for non-targets",
+        "price_text": "$6,000 to $9,000",
+        "url": "https://www.bankersbyday.com/wso-academy-review/",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 4). Reviewer-reported price; the vendor does not publish it."
+      },
+      {
+        "step": 6,
+        "problem": "Add a credential the resume screen respects: CFA Level I",
+        "price_text": "US$1,140",
+        "url": "https://300hours.com/cfa-exam-cost/",
+        "seen_via": "search",
+        "note": "New step. Early registration price for 2026 exams; standard is US$1,490 and the separate enrollment fee was dropped from February 2026. A common non-target move, debated endlessly on WSO, so kept despite being a minority purchase."
+      },
+      {
+        "step": 7,
+        "problem": "If recruiting fails: the graduate-school reset (MSF or MBA), starting with the GMAT and often admissions help",
+        "price_text": "US $275",
+        "url": "https://test-ninjas.com/gmat-registration-fees-and-cost",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 5). Admissions consulting on top was seen at $7,300 for 1 school (https://poetsandquants.com/2023/05/31/what-it-now-costs-to-hire-an-mba-admissions-consultant/)."
+      }
+    ],
+    "self-directed-value-investors-community": [
+      {
+        "step": 1,
+        "problem": "Company financials, estimates and screens in one place: a data terminal subscription",
+        "price_text": "$24.95 per month",
+        "url": "https://www.tikr.com/pricing",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 1). Old step 3 (Koyfin, $39 per month) dropped as a substitute for the same problem, not a next step."
+      },
+      {
+        "step": 2,
+        "problem": "Research, ratings and other people's write-ups: a research subscription",
+        "price_text": "$299/year",
+        "url": "https://financer.com/invest/seeking-alpha-premium-review/",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 2). Seeking Alpha Premium."
+      },
+      {
+        "step": 3,
+        "problem": "Learn valuation the way bankers do it: DCF, comps and three-statement models",
+        "price_text": "$499",
+        "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 5), moved earlier: it usually follows the first year of paying for data and realising the numbers need a model."
+      },
+      {
+        "step": 4,
+        "problem": "Pay for ideas from a named analyst: a paid value-investing newsletter or private idea community",
+        "price_text": "$500/year or $50/month",
+        "url": "https://valuesits.substack.com/about",
+        "seen_via": "search",
+        "note": "Replaces the old step 4 price ($29.99 a month from an anonymous Gumroad club). Value Situations, a value-ideas Substack; the same search showed Morningstar StockInvestor at $199/year."
+      },
+      {
+        "step": 5,
+        "problem": "Track performance and capital gains across brokers for tax time: a portfolio tracker",
+        "price_text": "$7 per month (billed annually)",
+        "url": "https://www.sharesight.com/us/pricing/",
+        "seen_via": "search",
+        "note": "New step. Sharesight Starter; Standard $18 and Premium $23.25 per month on the same page. Bought once holdings outgrow the broker's own reports, typically in year two or three."
+      }
+    ],
+    "small-3pl-fulfilment-warehouse-operators": [
+      {
+        "step": 1,
+        "problem": "Fit out the space (and the next one) with pallet racking",
+        "price_text": "$55 to $200 per pallet position",
+        "url": "https://conesco.com/how-much-does-pallet-racking-cost/",
+        "seen_via": "search",
+        "note": "Replaces the old unpriced step 5 (lease and fit-out). Single-deep selective racking; used racking 30-50% cheaper on the same site. The lease itself is rent, not a product, and no lease-negotiation price was seen, so it is folded into this step's note only."
+      },
+      {
+        "step": 2,
+        "problem": "Run picking, packing and inventory for many brands at once: a warehouse management system built for small 3PLs",
+        "price_text": "$499/month",
+        "url": "https://www.zenventory.com/blog/best-wms-for-small-3pls-2026-real-pricing-no-per-user-fees",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 1). Zenventory Starter, up to 10,000 shipments, one warehouse."
+      },
+      {
+        "step": 3,
+        "problem": "Cover the brands' goods you hold: warehouse legal liability insurance, which every brand contract demands",
+        "price_text": "$500 to $5,000+ per year",
+        "url": "https://www.wexfordins.com/post/how-much-does-warehouse-legal-liability-cost-for-a-warehouse-business",
+        "seen_via": "search",
+        "note": "New step. Required for any 3PL holding others' goods; general liability and workers' comp sit on top."
+      },
+      {
+        "step": 4,
+        "problem": "Win brand clients: a 3PL-owner community with contract templates and ad playbooks, plus paid leads from directories",
+        "price_text": "$99 a month",
+        "url": "https://fulfilldotcom.gumroad.com/l/3plgrowth",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 2), widened. Directory lead fees were seen in search at $50 - $500 per lead with a $199 monthly listing fee (https://www.fulfill.com/3pl-network); another directory sells a one-time fee per 'opportunity to quote' (https://www.warehousingandfulfillment.com/become-a-vendor/)."
+      },
+      {
+        "step": 5,
+        "problem": "Staff the Q4 peak without hiring permanently: temp labour through a staffing agency",
+        "price_text": "25%-60%",
+        "url": "https://www.theresource.com/2025/10/27/average-staffing-agency-markup-in-2025/",
+        "seen_via": "search",
+        "note": "New step. Agency markup on W2 temp pay; another result said warehouse markups over 40% are rare (https://www.instawork.com/blog/staffing-agencies-fees). Nearly every e-commerce 3PL uses temps for the holiday peak."
+      },
+      {
+        "step": 6,
+        "problem": "Pass the security questionnaires bigger brands send before signing: a first SOC 2 audit",
+        "price_text": "$10,000 to $50,000",
+        "url": "https://www.vanta.com/collection/soc-2/soc-2-audit-cost",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 6). Old steps 3 (AI search visibility tracking) and 4 (AI voice agent platform) dropped: no evidence this room commonly pays for either yet."
+      }
+    ],
+    "rooftop-solar-installers-epc": [
+      {
+        "step": 1,
+        "problem": "Certify installers (NABCEP in the US) to qualify for incentives and win bids",
+        "price_text": "$375",
+        "url": "https://www.nabcep.org/certifications/nabcep-fees/",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 1). Search this pass showed the exam fee as $375 for members and $475 for non-members, with a $275 re-exam fee."
+      },
+      {
+        "step": 2,
+        "problem": "Quote accurately and fast: design and proposal software, paid per user",
+        "price_text": "$135-$220/User/Mo",
+        "url": "https://www.heavengreenenergy.com/blog/aurora-solar-pricing",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 2). Aurora Solar."
+      },
+      {
+        "step": 3,
+        "problem": "Fill the pipeline: buy homeowner leads from lead marketplaces",
+        "price_text": "between $25 and $300",
+        "url": "https://www.solarreviews.com/solar-leads",
+        "seen_via": "search",
+        "note": "Old step 3 split and priced: per-lead price now seen on the page the old ladder cited. Shared leads $50-$150, exclusive $150-$400 on the same page."
+      },
+      {
+        "step": 4,
+        "problem": "Offer customers a low-APR loan: the dealer fee the lender charges the installer on every financed system",
+        "price_text": "20% to 40%",
+        "url": "https://www.climatefirstbank.com/cfb-blog/what-are-solar-dealer-fees-and-why-should-i-care",
+        "seen_via": "search",
+        "note": "New step, carved out of the old step 3 (financing). Percentage of system cost; another result put the typical range at 15-30% (https://www.energysage.com/solar/solar-loans/understanding-solar-loan-fees/). The largest recurring cost in this ladder for US residential installers."
+      },
+      {
+        "step": 5,
+        "problem": "Get each job permitted: engineer-stamped plan sets for the permit office",
+        "price_text": "$150-$300",
+        "url": "https://www.solarpermitsolutions.com/blog/solar-pe-stamp-requirements-by-state",
+        "seen_via": "search",
+        "note": "New step. Residential electrical PE stamp; structural stamps $200-$400 and commercial $500-$1,500 on the same page. Paid per project by installers without an in-house engineer, which is most of the room."
+      },
+      {
+        "step": 6,
+        "problem": "Stay insurable for customers and lenders: contractor general liability insurance",
+        "price_text": "$7,879.00 per year",
+        "url": "https://robfreeman.com/solar-contractor-insurance-cost/",
+        "seen_via": "search",
+        "note": "New step. Example premium for a solar contractor with $1,000,000 in sales; small installer programs 'start at just under $2,000 a year' per https://gdiinsurance.com/contractors/solar-power-installers-insurance/."
+      },
+      {
+        "step": 7,
+        "problem": "Move up to commercial rooftops: bankable yield studies (PV simulation software)",
+        "price_text": "CHF 700/Yr",
+        "url": "https://www.heavengreenenergy.com/blog/pvsyst-price",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (step 4). PVsyst. Old step 5 (monitoring and maintenance contracts) dropped: no price seen and the installer sells rather than buys O&M."
+      }
+    ]
+  }
+}

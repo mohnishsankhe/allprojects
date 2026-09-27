@@ -17,9 +17,10 @@ stage2:
   require_measured_spend: true  # (spec) at least one concrete price with a URL
   reach_kinds: [warm, search]   # (spec) warm = matches a ledger warm path; search = already buys this kind of product via search, app stores or public marketplaces
   depth_must_match_ledger: true # (spec) its domain is in the ledger's depth list
-  # Tie-break when more than max_rooms survive: (spec, earlier brief) longest ladder, then strongest spend evidence,
+  # Tie-break when more than max_rooms survive: (spec, earlier brief) longest ladder, then strongest spend evidence
+  # (verified price points, then price points, then ladder steps that carry a seen price),
   # then (default) warm reach before search reach, then slug.
-  rank_by: [ladder_steps, spend_points_verified, spend_points, warm_reach]
+  rank_by: [ladder_steps, spend_points_verified, spend_points, priced_ladder_steps, warm_reach]
 
 stage3:
   lookback_months: 24           # (spec, earlier brief) the last 24 months

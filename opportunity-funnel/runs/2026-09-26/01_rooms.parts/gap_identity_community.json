@@ -1,523 +1,546 @@
 {
   "rooms": [
     {
-      "slug": "quant-aspirants-quantnet-community",
-      "name": "Quant aspirants: students and career-switchers who identify as future quants and gather on QuantNet and r/quant",
-      "lens": "identity_community",
-      "origin": "gap_pass",
-      "who": "Maths, physics, engineering and finance students, plus working bankers and developers, who want a quantitative trading or research job and call themselves aspiring quants. They post profile reviews, argue about which master's is worth it, grind interview brainteasers and mental-maths drills, and compare the C++ certificate, an MFE and the CQF as routes in.",
-      "where": [
-        {
-          "name": "r/quant (203k members; stats page)",
-          "url": "https://gummysearch.com/r/quant/",
-          "seen_via": "search"
-        },
-        {
-          "name": "r/quantfinance (76k members; stats page)",
-          "url": "https://gummysearch.com/r/quantfinance/",
-          "seen_via": "search"
-        },
-        {
-          "name": "QuantNet forum: Career Advice board",
-          "url": "https://quantnet.com/forum/career-advice.77/",
-          "seen_via": "search"
-        },
-        {
-          "name": "QuantNet thread: MFE 2026 Profile Review",
-          "url": "https://quantnet.com/threads/mfe-2026-profile-review.62943/",
-          "seen_via": "search"
-        },
-        {
-          "name": "QuantNet thread: Breaking into quant finance without a financial background",
-          "url": "https://quantnet.com/threads/breaking-into-quant-finance-without-a-financial-background.62693/",
-          "seen_via": "search"
-        },
-        {
-          "name": "QuantGuide discussion board: Is Premium worth it?",
-          "url": "https://www.quantguide.io/discussion/InterviewExperience/is-premium-worth-it",
-          "seen_via": "search"
-        }
-      ],
-      "who_pays": "The aspirant pays personally, or the family pays for the master's: prep subscriptions, the C++ certificate, then tuition or the CQF fee; an employer sometimes sponsors the CQF.",
-      "size": {
-        "value": 203000,
-        "unit": "members of r/quant (r/quantfinance adds 76k; aspirants are the majority of posters by the flairs seen: career advice, education)",
-        "tag": "measured",
-        "url": "https://gummysearch.com/r/quant/"
-      },
-      "ladder": [
-        {
-          "step": 1,
-          "problem": "Practise interview questions and mental maths on a quant prep platform",
-          "price_text": "$35 per month",
-          "url": "https://www.quantguide.io/pricing",
-          "seen_via": "search"
-        },
-        {
-          "step": 2,
-          "problem": "Earn the QuantNet and Baruch C++ for Financial Engineering certificate that MFE programs ask for",
-          "price_text": "$1,450",
-          "url": "https://quantnet.com/threads/what-is-the-price-of-c-certificate.12539/",
-          "seen_via": "search"
-        },
-        {
-          "step": 3,
-          "problem": "Do a master's in financial engineering (Baruch MFE, out-of-state and international tuition for the whole program)",
-          "price_text": "$45,090",
-          "url": "https://mfe.baruch.cuny.edu/about/",
-          "seen_via": "search"
-        },
-        {
-          "step": 4,
-          "problem": "Take the CQF instead, as the working-professional route",
-          "price_text": "£15,000 to £20,000",
-          "url": "https://www.quantt.co.uk/resources/cqf-review-guide",
-          "seen_via": "search"
-        }
-      ],
+      "confidence": "moderate",
+      "duplicate_of": null,
       "geography": [
         "GLOBAL",
         "US",
         "IN"
       ],
-      "venture_overlap": [],
-      "duplicate_of": null,
-      "reasoning": "No existing room covers people whose identity is 'aspiring quant'; the non-target, CFA and consultant rooms are about banking, the charter and consulting exits. The founder has warm reach through finance colleagues, strong depth in corporate finance and moderate depth in options trading, which is the pricing maths this room drills; every place, the size and every price were seen in search this task, and the CQF figure is a reviewer's range because the vendor does not list a price.",
-      "confidence": "moderate"
-    },
-    {
-      "slug": "vibe-coders-building-apps-with-ai",
-      "name": "Vibe coders: non-developers and hobbyists who build apps by prompting AI tools and gather in vibe-coding communities",
-      "lens": "identity_community",
-      "origin": "gap_pass",
-      "who": "Founders, marketers, product managers, students and hobbyists with little or no coding background who build websites and apps by describing them to Lovable, Cursor, Bolt or Claude Code, and who wear the 'vibe coder' label. They show off launches, ask why logins or payments broke, swap prompts, and hit a wall when the app must go live with real users.",
-      "where": [
-        {
-          "name": "r/vibecoding (349,412 members; stats page)",
-          "url": "https://reddapi.dev/subreddits/vibecoding/insights",
-          "seen_via": "search"
-        },
-        {
-          "name": "r/vibecoding (stats page)",
-          "url": "https://gummysearch.com/r/vibecoding/",
-          "seen_via": "search"
-        },
-        {
-          "name": "Lovable community (160K+ builders on its Discord and at local events)",
-          "url": "https://lovable.dev/community",
-          "seen_via": "search"
-        },
-        {
-          "name": "Hive Index: the vibe-coding Discord servers (Lovable, Bolt.new, House of Vibes and others)",
-          "url": "https://thehiveindex.com/topics/vibe-coding/platform/discord/",
-          "seen_via": "search"
-        },
-        {
-          "name": "Vibe Coding Club Discord (around 3,700 members who review each other's code)",
-          "url": "https://www.vibecodingclub.co/",
-          "seen_via": "search"
-        },
-        {
-          "name": "r/VibeCodeDevs (stats page)",
-          "url": "https://gummysearch.com/r/VibeCodeDevs/",
-          "seen_via": "search"
-        }
-      ],
-      "who_pays": "The builder pays from their own card: tool subscriptions by the month, then a one-off fee to a human engineer when the app breaks or must be made safe for customers.",
-      "size": {
-        "value": 349412,
-        "unit": "members of r/vibecoding (a subreddit created in February 2025; Lovable separately claims 160K+ builders in its community)",
-        "tag": "measured",
-        "url": "https://reddapi.dev/subreddits/vibecoding/insights"
-      },
       "ladder": [
         {
+          "price_text": "$35 per month",
+          "problem": "Practise interview questions and mental maths on a quant prep platform",
+          "seen_via": "search",
           "step": 1,
-          "problem": "Build the first app in a prompt-to-app tool: Lovable Pro",
-          "price_text": "$25/month",
-          "url": "https://lovable.dev/pricing",
-          "seen_via": "search"
+          "url": "https://www.quantguide.io/pricing"
         },
         {
+          "price_text": "$1,450",
+          "problem": "Earn the QuantNet and Baruch C++ for Financial Engineering certificate that MFE programs ask for",
+          "seen_via": "search",
           "step": 2,
-          "problem": "Add a real database and user logins: Supabase Pro",
-          "price_text": "$25",
-          "url": "https://www.nocode.mba/articles/supabase-pricing",
-          "seen_via": "search"
+          "url": "https://quantnet.com/threads/what-is-the-price-of-c-certificate.12539/"
         },
         {
+          "price_text": "$45,090",
+          "problem": "Do a master's in financial engineering (Baruch MFE, out-of-state and international tuition for the whole program)",
+          "seen_via": "search",
           "step": 3,
-          "problem": "Move into a code editor when the builder tool gets stuck: Cursor Pro",
-          "price_text": "$20",
-          "url": "https://omidsaffari.com/blog/cursor-pricing",
-          "seen_via": "search"
+          "url": "https://mfe.baruch.cuny.edu/about/"
         },
         {
+          "price_text": "£15,000 to £20,000",
+          "problem": "Take the CQF instead, as the working-professional route",
+          "seen_via": "search",
           "step": 4,
-          "problem": "Get the broken app diagnosed by a senior engineer within 48 hours",
-          "price_text": "$299",
-          "url": "https://vibecoderescue.dev/",
-          "seen_via": "search"
-        },
-        {
-          "step": 5,
-          "problem": "Pay for a rescue audit, then a stabilisation sprint, before real customers use it",
-          "price_text": "$3,000",
-          "url": "https://relux.works/en/vibe-code-rescue/",
-          "seen_via": "search"
+          "url": "https://www.quantt.co.uk/resources/cqf-review-guide"
         }
       ],
+      "lens": "identity_community",
+      "name": "Quant aspirants: students and career-switchers who identify as future quants and gather on QuantNet and r/quant",
+      "origin": "gap_pass",
+      "reasoning": "No existing room covers people whose identity is 'aspiring quant'; the non-target, CFA and consultant rooms are about banking, the charter and consulting exits. The founder has warm reach through finance colleagues, strong depth in corporate finance and moderate depth in options trading, which is the pricing maths this room drills; every place, the size and every price were seen in search this task, and the CQF figure is a reviewer's range because the vendor does not list a price.",
+      "size": {
+        "tag": "measured",
+        "unit": "members of r/quant (r/quantfinance adds 76k; aspirants are the majority of posters by the flairs seen: career advice, education)",
+        "url": "https://gummysearch.com/r/quant/",
+        "value": 203000
+      },
+      "slug": "quant-aspirants-quantnet-community",
+      "venture_overlap": [],
+      "where": [
+        {
+          "name": "r/quant (203k members; stats page)",
+          "seen_via": "search",
+          "url": "https://gummysearch.com/r/quant/"
+        },
+        {
+          "name": "r/quantfinance (76k members; stats page)",
+          "seen_via": "search",
+          "url": "https://gummysearch.com/r/quantfinance/"
+        },
+        {
+          "name": "QuantNet forum: Career Advice board",
+          "seen_via": "search",
+          "url": "https://quantnet.com/forum/career-advice.77/"
+        },
+        {
+          "name": "QuantNet thread: MFE 2026 Profile Review",
+          "seen_via": "search",
+          "url": "https://quantnet.com/threads/mfe-2026-profile-review.62943/"
+        },
+        {
+          "name": "QuantNet thread: Breaking into quant finance without a financial background",
+          "seen_via": "search",
+          "url": "https://quantnet.com/threads/breaking-into-quant-finance-without-a-financial-background.62693/"
+        },
+        {
+          "name": "QuantGuide discussion board: Is Premium worth it?",
+          "seen_via": "search",
+          "url": "https://www.quantguide.io/discussion/InterviewExperience/is-premium-worth-it"
+        }
+      ],
+      "who": "Maths, physics, engineering and finance students, plus working bankers and developers, who want a quantitative trading or research job and call themselves aspiring quants. They post profile reviews, argue about which master's is worth it, grind interview brainteasers and mental-maths drills, and compare the C++ certificate, an MFE and the CQF as routes in.",
+      "who_pays": "The aspirant pays personally, or the family pays for the master's: prep subscriptions, the C++ certificate, then tuition or the CQF fee; an employer sometimes sponsors the CQF."
+    },
+    {
+      "confidence": "high",
+      "duplicate_of": null,
       "geography": [
         "GLOBAL"
       ],
+      "ladder": [
+        {
+          "note": "Reused from the current ladder; a search this task also showed the Pro plan at $25 per month with 100 credits.",
+          "price_text": "$25/month",
+          "problem": "Build the first app in a prompt-to-app tool (Lovable Pro subscription)",
+          "seen_via": "search",
+          "step": 1,
+          "url": "https://lovable.dev/pricing"
+        },
+        {
+          "note": "New step. Designlab's 4-week Vibe Coding Camp is $999; a Maven bootcamp was shown at $799 and memberships at $97/month. Moderate confidence that a large share of the room pays; many learn free.",
+          "price_text": "$999",
+          "problem": "Learn to prompt and structure an app properly after the first builds stall (paid vibe-coding course or bootcamp)",
+          "seen_via": "search",
+          "step": 2,
+          "url": "https://designlab.com/advanced/vibe-coding-course"
+        },
+        {
+          "note": "Reused; confirmed this task: Pro is $25 per month with 100,000 monthly active users.",
+          "price_text": "$25",
+          "problem": "Add a real database and user logins (Supabase Pro)",
+          "seen_via": "search",
+          "step": 3,
+          "url": "https://www.nocode.mba/articles/supabase-pricing"
+        },
+        {
+          "note": "Price refreshed this task; Pro is $20 per month ($16 on annual billing).",
+          "price_text": "$20 per month",
+          "problem": "Move into an AI code editor when the builder tool gets stuck (Cursor Pro)",
+          "seen_via": "search",
+          "step": 4,
+          "url": "https://www.eesel.ai/blog/cursor-pricing"
+        },
+        {
+          "note": "Reused; confirmed this task: fixed $299 audit, senior engineer, 48 hours, for Lovable, Bolt, Cursor or Replit apps.",
+          "price_text": "$299",
+          "problem": "Get the broken app diagnosed by a senior engineer within 48 hours",
+          "seen_via": "search",
+          "step": 5,
+          "url": "https://vibecoderescue.dev/"
+        },
+        {
+          "note": "Reused. Other audit prices seen this task: from $199 (Valletta), from $1,500 CAD (Sherlock Forensics), from $4,000 (Galarza); full rebuilds quoted at $25,000+.",
+          "price_text": "$3,000",
+          "problem": "Pay for a security audit and stabilisation sprint before real customers or investors touch the app",
+          "seen_via": "search",
+          "step": 6,
+          "url": "https://relux.works/en/vibe-code-rescue/"
+        }
+      ],
+      "lens": "identity_community",
+      "name": "Vibe coders: non-developers and hobbyists who build apps by prompting AI tools and gather in vibe-coding communities",
+      "origin": "gap_pass",
+      "reasoning": "A new self-named identity (the subreddit is 19 months old and already at 349k) that the indie-hacker and founder rooms miss because these people are not developers and mostly not founders yet; they buy tools through search and app stores, which is the ledger's search reach, and building AI products is a strong depth that overlaps TinyAI (v4). The 'rescue' rungs show a priced market for human judgment after the machine tools fail; all places, the size and every price were seen in search this task.",
+      "size": {
+        "tag": "measured",
+        "unit": "members of r/vibecoding (a subreddit created in February 2025; Lovable separately claims 160K+ builders in its community)",
+        "url": "https://reddapi.dev/subreddits/vibecoding/insights",
+        "value": 349412
+      },
+      "slug": "vibe-coders-building-apps-with-ai",
       "venture_overlap": [
         "v4"
       ],
-      "duplicate_of": null,
-      "reasoning": "A new self-named identity (the subreddit is 19 months old and already at 349k) that the indie-hacker and founder rooms miss because these people are not developers and mostly not founders yet; they buy tools through search and app stores, which is the ledger's search reach, and building AI products is a strong depth that overlaps TinyAI (v4). The 'rescue' rungs show a priced market for human judgment after the machine tools fail; all places, the size and every price were seen in search this task.",
-      "confidence": "high"
-    },
-    {
-      "slug": "desi-fragrance-addicts-india-community",
-      "name": "Desi fragrance addicts: Indian and South Asian perfume lovers who gather in the r/DesiFragranceAddicts community and attar forums",
-      "lens": "identity_community",
-      "origin": "gap_pass",
-      "who": "Perfume lovers in India and the South Asian diaspora who buy decants of designer and niche scents in rupees, hunt clones and attars, argue over Kannauj and oud houses, and post hauls and reviews in a community whose name is the badge. A growing share moves from collecting to blending at workshops.",
       "where": [
         {
-          "name": "r/DesiFragranceAddicts (256k members; stats page)",
-          "url": "https://gummysearch.com/r/DesiFragranceAddicts/",
-          "seen_via": "search"
+          "name": "r/vibecoding (349,412 members; stats page)",
+          "seen_via": "search",
+          "url": "https://reddapi.dev/subreddits/vibecoding/insights"
         },
         {
-          "name": "Ouddict, the Artisanal Oud Community: Indian Artisanal Perfumers thread",
-          "url": "https://www.ouddict.com/threads/indian-artisanal-perfumers.10158/",
-          "seen_via": "search"
+          "name": "r/vibecoding (stats page)",
+          "seen_via": "search",
+          "url": "https://gummysearch.com/r/vibecoding/"
         },
         {
-          "name": "India Forum thread: Perfume Lovers Unite, exploring India's best fragrance brands",
-          "url": "https://indiaforum.in/forum/india-business-industry/shopping-and-services/149655-perfume-lovers-unite-exploring-india%E2%80%99s-best-fragrance-brands",
-          "seen_via": "search"
+          "name": "Lovable community (160K+ builders on its Discord and at local events)",
+          "seen_via": "search",
+          "url": "https://lovable.dev/community"
+        },
+        {
+          "name": "Hive Index: the vibe-coding Discord servers (Lovable, Bolt.new, House of Vibes and others)",
+          "seen_via": "search",
+          "url": "https://thehiveindex.com/topics/vibe-coding/platform/discord/"
+        },
+        {
+          "name": "Vibe Coding Club Discord (around 3,700 members who review each other's code)",
+          "seen_via": "search",
+          "url": "https://www.vibecodingclub.co/"
+        },
+        {
+          "name": "r/VibeCodeDevs (stats page)",
+          "seen_via": "search",
+          "url": "https://gummysearch.com/r/VibeCodeDevs/"
         }
       ],
-      "who_pays": "The enthusiast pays out of pocket in rupees: decants first, then attars and full bottles from Indian houses, then workshop fees if they start blending.",
-      "size": {
-        "value": 256000,
-        "unit": "members of r/DesiFragranceAddicts",
-        "tag": "measured",
-        "url": "https://gummysearch.com/r/DesiFragranceAddicts/"
-      },
-      "ladder": [
-        {
-          "step": 1,
-          "problem": "Try designer and niche scents cheaply: decants from an Indian decant seller",
-          "price_text": "Rs. 299 to Rs. 1,425",
-          "url": "https://www.sillageperfumes.in/collections/decants",
-          "seen_via": "search"
-        },
-        {
-          "step": 2,
-          "problem": "Go traditional: a 10 ml rose-oud attar from Kannauj (sale price; the regular price shown was ₹1,999.00)",
-          "price_text": "₹899.00",
-          "url": "https://www.attarkannauj.com/product-page/rose-oud",
-          "seen_via": "search"
-        },
-        {
-          "step": 3,
-          "problem": "Buy a full 100 ml bottle from an Indian niche house",
-          "price_text": "₹3,900-₹4,100",
-          "url": "https://www.definitelycurry.com/bombay-perfumery-review-indian-perfume-brand/",
-          "seen_via": "search"
-        },
-        {
-          "step": 4,
-          "problem": "Chase rarer juice: niche decants and bottle splits",
-          "price_text": "₹550 to ₹21,950",
-          "url": "https://splashfragrance.in/product-category/niche-perfumes-decants-online-india/",
-          "seen_via": "search"
-        },
-        {
-          "step": 5,
-          "problem": "Make your own at a perfume-making workshop",
-          "price_text": "₹2,500 for one participant",
-          "url": "https://troveexperiences.com/pages/perfume-making",
-          "seen_via": "search"
-        }
-      ],
+      "who": "Founders, marketers, product managers, students and hobbyists with little or no coding background who build websites and apps by describing them to Lovable, Cursor, Bolt or Claude Code, and who wear the 'vibe coder' label. They show off launches, ask why logins or payments broke, swap prompts, and hit a wall when the app must go live with real users.",
+      "who_pays": "The builder pays from their own card: tool subscriptions by the month, then a one-off fee to a human engineer when the app breaks or must be made safe for customers."
+    },
+    {
+      "confidence": "moderate",
+      "duplicate_of": null,
       "geography": [
         "IN",
         "GLOBAL"
       ],
+      "ladder": [
+        {
+          "note": "Reused from the old ladder (step 1). The universal first purchase in this community.",
+          "price_text": "Rs. 299 to Rs. 1,425",
+          "problem": "Try designer and niche scents cheaply before committing: decants from an Indian decant seller",
+          "seen_via": "search",
+          "step": 1,
+          "url": "https://www.sillageperfumes.in/collections/decants"
+        },
+        {
+          "note": "Reused from the old ladder (step 3), moved earlier because full bottles usually come before attars for people who enter through designer decants.",
+          "price_text": "₹3,900-₹4,100",
+          "problem": "Buy the first full bottle from an Indian niche house",
+          "seen_via": "search",
+          "step": 2,
+          "url": "https://www.definitelycurry.com/bombay-perfumery-review-indian-perfume-brand/"
+        },
+        {
+          "note": "Reused from the old ladder (step 2). Sale price; the regular price shown was ₹1,999.00.",
+          "price_text": "₹899.00",
+          "problem": "Go traditional: attars from Kannauj (rose-oud, 10 ml)",
+          "seen_via": "search",
+          "step": 3,
+          "url": "https://www.attarkannauj.com/product-page/rose-oud"
+        },
+        {
+          "note": "Reused from the old ladder (step 4).",
+          "price_text": "₹550 to ₹21,950",
+          "problem": "Chase rarer juice: niche decants and bottle splits",
+          "seen_via": "search",
+          "step": 4,
+          "url": "https://splashfragrance.in/product-category/niche-perfumes-decants-online-india/"
+        },
+        {
+          "note": "New step. Search showed the stack as 20% basic customs duty, a 10% social welfare surcharge on the duty, and 28% IGST on top (cusbuzz.com pages show 20.00% BCD for HSN 33030010/33030090). Paid by everyone who orders from abroad by post; a large minority of the room, since many others buy on Dubai trips or through relatives. Moderate confidence on 'commonly'.",
+          "price_text": "around 43% to 44% of the overall CIF value",
+          "problem": "Import a bottle not sold in India and pay customs duty on it",
+          "seen_via": "search",
+          "step": 5,
+          "url": "https://deepbeez.com/import-duty/import-duty-on-perfumes-in-india"
+        },
+        {
+          "note": "Reused from the old ladder (step 5), widened to include the kit that follows: VedaOils Perfume Making Kit seen at ₹999 (regular price ₹2,000) at https://www.vedaoils.com/products/perfume-making-kit. Kept as one step because both solve 'make my own'.",
+          "price_text": "₹2,500 for one participant",
+          "problem": "Start blending: a perfume-making workshop, then a starter kit of oils and perfumer's alcohol",
+          "seen_via": "search",
+          "step": 6,
+          "url": "https://troveexperiences.com/pages/perfume-making"
+        }
+      ],
+      "lens": "identity_community",
+      "name": "Desi fragrance addicts: Indian and South Asian perfume lovers who gather in the r/DesiFragranceAddicts community and attar forums",
+      "origin": "gap_pass",
+      "reasoning": "The existing fragrance room is the global, dollar-priced hobby; this is the Indian community with its own subreddit (a tenth the size of r/fragrance but 'huge' by the stats page), its own attar culture and rupee prices, and it is the loudest set of reviewers and early buyers for Proper Noun (v2). Fragrance depth is moderate; the subreddit itself was not reachable, so its size comes from a stats page seen in search, and the two forum threads are smaller gathering places than the subreddit. [thin] on places beyond the subreddit.",
+      "size": {
+        "tag": "measured",
+        "unit": "members of r/DesiFragranceAddicts",
+        "url": "https://gummysearch.com/r/DesiFragranceAddicts/",
+        "value": 256000
+      },
+      "slug": "desi-fragrance-addicts-india-community",
       "venture_overlap": [
         "v2"
       ],
-      "duplicate_of": null,
-      "reasoning": "The existing fragrance room is the global, dollar-priced hobby; this is the Indian community with its own subreddit (a tenth the size of r/fragrance but 'huge' by the stats page), its own attar culture and rupee prices, and it is the loudest set of reviewers and early buyers for Proper Noun (v2). Fragrance depth is moderate; the subreddit itself was not reachable, so its size comes from a stats page seen in search, and the two forum threads are smaller gathering places than the subreddit. [thin] on places beyond the subreddit.",
-      "confidence": "moderate"
-    },
-    {
-      "slug": "excel-financial-modellers-competition-community",
-      "name": "Financial modellers who compete in the Financial Modeling World Cup and Excel esports and gather in modelling communities",
-      "lens": "identity_community",
-      "origin": "gap_pass",
-      "who": "Analysts, accountants, consultants and students anywhere who identify as modellers rather than by their employer: they enter the Financial Modeling World Cup stages, watch the Excel esports finals, chase the AFM and FMVA letters, and buy bootcamps to get faster. Their conversation is about model design, keyboard speed and which accreditation employers respect.",
       "where": [
         {
-          "name": "FMWC, Financial Modeling World Cup (the competition and its player community)",
-          "url": "https://fmworldcup.com/",
-          "seen_via": "search"
+          "name": "r/DesiFragranceAddicts (256k members; stats page)",
+          "seen_via": "search",
+          "url": "https://gummysearch.com/r/DesiFragranceAddicts/"
         },
         {
-          "name": "Financial Modeling World Cup on LinkedIn (78,068 followers)",
-          "url": "https://www.linkedin.com/company/financial-modeling-world-cup",
-          "seen_via": "search"
+          "name": "Ouddict, the Artisanal Oud Community: Indian Artisanal Perfumers thread",
+          "seen_via": "search",
+          "url": "https://www.ouddict.com/threads/indian-artisanal-perfumers.10158/"
         },
         {
-          "name": "FMWC LinkedIn post: a call to the community of FMWC players to join case design",
-          "url": "https://lv.linkedin.com/posts/financial-modeling-world-cup_here-is-a-call-to-the-community-of-fmwc-activity-7021104243365273600-oknt",
-          "seen_via": "search"
-        },
-        {
-          "name": "Financial Modeling World Cup on Facebook",
-          "url": "https://www.facebook.com/financialmodelingworldcup/",
-          "seen_via": "search"
-        },
-        {
-          "name": "Full Stack Modeller (paid modellers' community with bootcamps and an accreditation programme)",
-          "url": "https://www.fullstackmodeller.com/",
-          "seen_via": "search"
+          "name": "India Forum thread: Perfume Lovers Unite, exploring India's best fragrance brands",
+          "seen_via": "search",
+          "url": "https://indiaforum.in/forum/india-business-industry/shopping-and-services/149655-perfume-lovers-unite-exploring-india%E2%80%99s-best-fragrance-brands"
         }
       ],
-      "who_pays": "The modeller pays personally for stage fees, accreditation exams and course subscriptions; some employers reimburse a passed exam.",
-      "size": {
-        "value": 78068,
-        "unit": "followers of the Financial Modeling World Cup on LinkedIn (Wikipedia reports 363 people actually competed in 2023, so paying competitors are a small core inside a large audience)",
-        "tag": "measured",
-        "url": "https://www.linkedin.com/company/financial-modeling-world-cup"
-      },
-      "ladder": [
-        {
-          "step": 1,
-          "problem": "Enter a stage of the Financial Modeling World Cup",
-          "price_text": "$25 for the Open age group and $15 for the U-25 age group",
-          "url": "https://fmworldcup.com/rules/",
-          "seen_via": "search"
-        },
-        {
-          "step": 2,
-          "problem": "Play the Excel esports season (Microsoft Excel World Championship)",
-          "price_text": "$50 for the season 2025",
-          "url": "https://fmworldcup.com/microsoft-excel-world-championship/rules/",
-          "seen_via": "search"
-        },
-        {
-          "step": 3,
-          "problem": "Get accredited: the FMI Advanced Financial Modeler exam with a year of learning resources",
-          "price_text": "$725 USD",
-          "url": "https://fminstitute.com/afm/",
-          "seen_via": "search"
-        },
-        {
-          "step": 4,
-          "problem": "A year of modelling courses and the FMVA certification",
-          "price_text": "$497, billed annually",
-          "url": "https://corporatefinanceinstitute.com/pricing/",
-          "seen_via": "search"
-        },
-        {
-          "step": 5,
-          "problem": "Join a paid modellers' community bundle with bootcamps, an exam sitting and a season pass",
-          "price_text": null,
-          "url": "https://www.fullstackmodeller.com/all-in-full-stack-bundle",
-          "seen_via": "search"
-        }
-      ],
+      "who": "Perfume lovers in India and the South Asian diaspora who buy decants of designer and niche scents in rupees, hunt clones and attars, argue over Kannauj and oud houses, and post hauls and reviews in a community whose name is the badge. A growing share moves from collecting to blending at workshops.",
+      "who_pays": "The enthusiast pays out of pocket in rupees: decants first, then attars and full bottles from Indian houses, then workshop fees if they start blending."
+    },
+    {
+      "confidence": "low",
+      "duplicate_of": null,
       "geography": [
         "GLOBAL"
       ],
-      "venture_overlap": [],
-      "duplicate_of": null,
-      "reasoning": "Modelling as a craft identity cuts across the profession rooms (IB analysts, FP&A, project finance) and nobody had it; corporate finance and valuation is the founder's strongest depth and finance colleagues are a warm path. The gathering places are the competition's own channels plus one paid community, not an open forum, and the measured core of competitors is only a few hundred a year, so the merge may judge it too small. [thin] Every place and price was seen in search this task; the bundle price was not shown.",
-      "confidence": "low"
-    },
-    {
-      "slug": "diy-solar-offgrid-builders-community",
-      "name": "DIY solar and off-grid builders who design and install their own solar systems and gather in DIY solar forums",
-      "lens": "identity_community",
-      "origin": "gap_pass",
-      "who": "Homeowners, cabin and RV owners, and preppers, mostly in the US, Canada and Australia, who size, buy and wire their own solar and battery systems instead of hiring an installer, and who identify as DIY solar people. They post wiring diagrams for review, compare inverters and server-rack batteries, ask about permits and inspections, and warn each other about vendors.",
-      "where": [
-        {
-          "name": "DIY Solar Power Forum: Off-grid Living Discussion",
-          "url": "https://diysolarforum.com/forums/off-grid-living-discussion.13/",
-          "seen_via": "search"
-        },
-        {
-          "name": "DIY Solar Power Forum: DIY Solar General Discussion",
-          "url": "https://diysolarforum.com/forums/diy-solar-general-discussion.2/",
-          "seen_via": "search"
-        },
-        {
-          "name": "r/SolarDIY (151,105 members; stats page)",
-          "url": "https://reddapi.dev/subreddits/solardiy/insights",
-          "seen_via": "search"
-        },
-        {
-          "name": "r/SolarDIY (stats page)",
-          "url": "https://gummysearch.com/r/SolarDIY/",
-          "seen_via": "search"
-        },
-        {
-          "name": "How To Go Solar: guide to DIY solar forums (puts the forum at 50K+ members)",
-          "url": "https://www.howtogosolar.org/diy-solar-forums/",
-          "seen_via": "search"
-        },
-        {
-          "name": "Forum thread: the forum's own DIY solar Facebook group",
-          "url": "https://diysolarforum.com/threads/now-have-a-diy-solar-facebook-group-for-the-forum-need-your-help.122306/",
-          "seen_via": "search"
-        }
-      ],
-      "who_pays": "The builder pays personally, in thousands of dollars of hardware, plus a course or a design review before buying and, in some counties, permit and plan-set fees.",
-      "size": {
-        "value": 151105,
-        "unit": "members of r/SolarDIY (the DIY Solar Power Forum is reported at 50K+ members)",
-        "tag": "measured",
-        "url": "https://reddapi.dev/subreddits/solardiy/insights"
-      },
       "ladder": [
         {
+          "note": "Reused from the old ladder. Old step 2 (Microsoft Excel World Championship, $50 for the season 2025, https://fmworldcup.com/microsoft-excel-world-championship/rules/) folded in: same problem, competing, run by the same organiser.",
+          "price_text": "$25 for the Open age group and $15 for the U-25 age group",
+          "problem": "Compete: enter Financial Modeling World Cup stages and the Excel esports season",
+          "seen_via": "search",
           "step": 1,
-          "problem": "Learn to size a system: an off-grid solar course",
-          "price_text": "$497.00",
-          "url": "https://www.theoffgridshop.com.au/collections/courses",
-          "seen_via": "search"
+          "url": "https://fmworldcup.com/rules/"
         },
         {
+          "note": "Price seen this pass for the base subscription (lifetime £2,500). CFI's $497 billed annually (old step 4) is the same problem and is folded in.",
+          "price_text": "£48 a month",
+          "problem": "Get faster and better: a modellers' training community or course subscription (Full Stack Modeller, CFI)",
+          "seen_via": "search",
           "step": 2,
-          "problem": "Get the design checked before buying: a paid off-grid system design",
-          "price_text": "$150",
-          "url": "https://www.gogreensolar.com/pages/off-grid-design-request",
-          "seen_via": "search"
+          "url": "https://www.fullstackmodeller.com/full-stack-membership"
         },
         {
+          "note": "Reused from the old ladder. FMVA is the alternative credential; its exam comes inside the CFI subscription in step 2.",
+          "price_text": "$725 USD",
+          "problem": "Prove it with letters: sit an accreditation exam (FMI Advanced Financial Modeler or FMVA)",
+          "seen_via": "search",
           "step": 3,
-          "problem": "Buy the kit: inverter, panels and server-rack batteries",
-          "price_text": "around $8,000",
-          "url": "https://www.thesolarlab.com/review/eg4-off-grid-solar-kit",
-          "seen_via": "search"
+          "url": "https://fminstitute.com/afm/"
         },
         {
+          "note": "New step. Training camp ticket seen this pass; it includes access to the Microsoft Excel World Championship finals. Only the committed core travels, so this is the top of the ladder, not a step for everyone. Old step 5 (Full Stack bundle, no price) merged into step 2.",
+          "price_text": "$1,449",
+          "problem": "Go in person: a training camp tied to the live finals",
+          "seen_via": "search",
           "step": 4,
-          "problem": "Expand storage: one more 48V 100Ah lithium server-rack battery",
-          "price_text": "$1,476.99",
-          "url": "https://offgridstores.com/products/eg4-lifepower4-v2-48v-100ah-lithium-server-rack-batteries-2-6-battery-bundles",
-          "seen_via": "search"
-        },
-        {
-          "step": 5,
-          "problem": "Permit-ready plans and engineering when the county asks for them",
-          "price_text": null,
-          "url": "https://ussolarsupplier.com/pages/power-plan-solar-design",
-          "seen_via": "search"
+          "url": "https://theactivecell.com/"
         }
       ],
+      "lens": "identity_community",
+      "name": "Financial modellers who compete in the Financial Modeling World Cup and Excel esports and gather in modelling communities",
+      "origin": "gap_pass",
+      "reasoning": "Modelling as a craft identity cuts across the profession rooms (IB analysts, FP&A, project finance) and nobody had it; corporate finance and valuation is the founder's strongest depth and finance colleagues are a warm path. The gathering places are the competition's own channels plus one paid community, not an open forum, and the measured core of competitors is only a few hundred a year, so the merge may judge it too small. [thin] Every place and price was seen in search this task; the bundle price was not shown.",
+      "size": {
+        "tag": "measured",
+        "unit": "followers of the Financial Modeling World Cup on LinkedIn (Wikipedia reports 363 people actually competed in 2023, so paying competitors are a small core inside a large audience)",
+        "url": "https://www.linkedin.com/company/financial-modeling-world-cup",
+        "value": 78068
+      },
+      "slug": "excel-financial-modellers-competition-community",
+      "venture_overlap": [],
+      "where": [
+        {
+          "name": "FMWC, Financial Modeling World Cup (the competition and its player community)",
+          "seen_via": "search",
+          "url": "https://fmworldcup.com/"
+        },
+        {
+          "name": "Financial Modeling World Cup on LinkedIn (78,068 followers)",
+          "seen_via": "search",
+          "url": "https://www.linkedin.com/company/financial-modeling-world-cup"
+        },
+        {
+          "name": "FMWC LinkedIn post: a call to the community of FMWC players to join case design",
+          "seen_via": "search",
+          "url": "https://lv.linkedin.com/posts/financial-modeling-world-cup_here-is-a-call-to-the-community-of-fmwc-activity-7021104243365273600-oknt"
+        },
+        {
+          "name": "Financial Modeling World Cup on Facebook",
+          "seen_via": "search",
+          "url": "https://www.facebook.com/financialmodelingworldcup/"
+        },
+        {
+          "name": "Full Stack Modeller (paid modellers' community with bootcamps and an accreditation programme)",
+          "seen_via": "search",
+          "url": "https://www.fullstackmodeller.com/"
+        }
+      ],
+      "who": "Analysts, accountants, consultants and students anywhere who identify as modellers rather than by their employer: they enter the Financial Modeling World Cup stages, watch the Excel esports finals, chase the AFM and FMVA letters, and buy bootcamps to get faster. Their conversation is about model design, keyboard speed and which accreditation employers respect.",
+      "who_pays": "The modeller pays personally for stage fees, accreditation exams and course subscriptions; some employers reimburse a passed exam."
+    },
+    {
+      "confidence": "moderate",
+      "duplicate_of": null,
       "geography": [
         "US",
         "CA",
         "AU",
         "GLOBAL"
       ],
-      "venture_overlap": [],
-      "duplicate_of": null,
-      "reasoning": "The existing solar rooms are installers and developers; this is the hobbyist identity that buys hardware and paid design reviews through search, which is the ledger's search reach. Energy is a strong depth, but the ledger's depth is sector-level (power, renewables, project finance), not household wiring, so Stage 2 may judge the depth match weak; anything that signs off electrical work needs a licensed electrician the founder cannot be. All places, the size and every price were seen in search this task; the kit price is a reviewer's round figure.",
-      "confidence": "moderate"
-    },
-    {
-      "slug": "esg-sustainability-professionals-networks",
-      "name": "Sustainability and ESG professionals who gather in ESG practitioner networks and chase sustainability credentials",
-      "lens": "identity_community",
-      "origin": "gap_pass",
-      "who": "People who hold, or want, a sustainability, ESG or climate-risk role in companies, banks, funds and consultancies, anywhere in the world, and who identify as sustainability professionals rather than by their industry. They join practitioner associations, ask which certificate to sit next, share reporting templates, and worry that the field is shrinking or being renamed.",
-      "where": [
-        {
-          "name": "SEPA, Sustainability & ESG Professionals Association (free global membership)",
-          "url": "https://global-sepa.org/",
-          "seen_via": "search"
-        },
-        {
-          "name": "The ESG Circle, global community for ESG and sustainability professionals",
-          "url": "https://esgcircle.co/",
-          "seen_via": "search"
-        },
-        {
-          "name": "ESGVoices forum and community",
-          "url": "https://www.esgvoices.com/",
-          "seen_via": "search"
-        },
-        {
-          "name": "Sustainability Reporting Professionals Group (LinkedIn showcase page)",
-          "url": "https://www.linkedin.com/showcase/environmental-social-governance-group/",
-          "seen_via": "search"
-        },
-        {
-          "name": "ISSP, International Society of Sustainability Professionals (members in 94 countries)",
-          "url": "https://www.sustainabilityprofessionals.org/",
-          "seen_via": "search"
-        },
-        {
-          "name": "ESG Business Institute (over 7,000 professionals, 35+ countries)",
-          "url": "https://www.esg-bi.org/",
-          "seen_via": "search"
-        }
-      ],
-      "who_pays": "The professional pays personally for association dues and certificates; employers with a learning budget sometimes pay for a credential once the person is in role.",
-      "size": {
-        "value": 7000,
-        "unit": "members of the ESG Business Institute (one network among several; EFFAS separately reports more than 8,600 certified ESG analysts and ISSP reports members in 94 countries)",
-        "tag": "measured",
-        "url": "https://www.esg-bi.org/"
-      },
       "ladder": [
         {
+          "price_text": "$497.00",
+          "problem": "Learn to size a system: an off-grid solar course",
+          "seen_via": "search",
           "step": 1,
-          "problem": "Join a professional society for the network and the title",
-          "price_text": "$150 USD",
-          "url": "https://member.sustainabilityprofessionals.org/membership-information",
-          "seen_via": "search"
+          "url": "https://www.theoffgridshop.com.au/collections/courses"
         },
         {
+          "price_text": "$150",
+          "problem": "Get the design checked before buying: a paid off-grid system design",
+          "seen_via": "search",
           "step": 2,
-          "problem": "Earn a climate-risk credential (GARP SCR)",
-          "price_text": "USD 750 for non-members",
-          "url": "https://www.garp.org/scr/program-exam",
-          "seen_via": "search"
+          "url": "https://www.gogreensolar.com/pages/off-grid-design-request"
         },
         {
+          "price_text": "around $8,000",
+          "problem": "Buy the kit: inverter, panels and server-rack batteries",
+          "seen_via": "search",
           "step": 3,
-          "problem": "Earn the CFA Institute Sustainable Investing Certificate for finance-side roles",
-          "price_text": "USD 890",
-          "url": "https://www.cfainstitute.org/programs/sustainable-investing-certificate/exam-info",
-          "seen_via": "search"
+          "url": "https://www.thesolarlab.com/review/eg4-off-grid-solar-kit"
         },
         {
+          "price_text": "$1,476.99",
+          "problem": "Expand storage: one more 48V 100Ah lithium server-rack battery",
+          "seen_via": "search",
           "step": 4,
-          "problem": "Get certified in GRI reporting to sign off sustainability reports",
-          "price_text": "€1250",
-          "url": "https://www.globalreporting.org/reporting-support/join-the-gri-community/",
-          "seen_via": "search"
+          "url": "https://offgridstores.com/products/eg4-lifepower4-v2-48v-100ah-lithium-server-rack-batteries-2-6-battery-bundles"
+        },
+        {
+          "price_text": null,
+          "problem": "Permit-ready plans and engineering when the county asks for them",
+          "seen_via": "search",
+          "step": 5,
+          "url": "https://ussolarsupplier.com/pages/power-plan-solar-design"
         }
       ],
+      "lens": "identity_community",
+      "name": "DIY solar and off-grid builders who design and install their own solar systems and gather in DIY solar forums",
+      "origin": "gap_pass",
+      "reasoning": "The existing solar rooms are installers and developers; this is the hobbyist identity that buys hardware and paid design reviews through search, which is the ledger's search reach. Energy is a strong depth, but the ledger's depth is sector-level (power, renewables, project finance), not household wiring, so Stage 2 may judge the depth match weak; anything that signs off electrical work needs a licensed electrician the founder cannot be. All places, the size and every price were seen in search this task; the kit price is a reviewer's round figure.",
+      "size": {
+        "tag": "measured",
+        "unit": "members of r/SolarDIY (the DIY Solar Power Forum is reported at 50K+ members)",
+        "url": "https://reddapi.dev/subreddits/solardiy/insights",
+        "value": 151105
+      },
+      "slug": "diy-solar-offgrid-builders-community",
+      "venture_overlap": [],
+      "where": [
+        {
+          "name": "DIY Solar Power Forum: Off-grid Living Discussion",
+          "seen_via": "search",
+          "url": "https://diysolarforum.com/forums/off-grid-living-discussion.13/"
+        },
+        {
+          "name": "DIY Solar Power Forum: DIY Solar General Discussion",
+          "seen_via": "search",
+          "url": "https://diysolarforum.com/forums/diy-solar-general-discussion.2/"
+        },
+        {
+          "name": "r/SolarDIY (151,105 members; stats page)",
+          "seen_via": "search",
+          "url": "https://reddapi.dev/subreddits/solardiy/insights"
+        },
+        {
+          "name": "r/SolarDIY (stats page)",
+          "seen_via": "search",
+          "url": "https://gummysearch.com/r/SolarDIY/"
+        },
+        {
+          "name": "How To Go Solar: guide to DIY solar forums (puts the forum at 50K+ members)",
+          "seen_via": "search",
+          "url": "https://www.howtogosolar.org/diy-solar-forums/"
+        },
+        {
+          "name": "Forum thread: the forum's own DIY solar Facebook group",
+          "seen_via": "search",
+          "url": "https://diysolarforum.com/threads/now-have-a-diy-solar-facebook-group-for-the-forum-need-your-help.122306/"
+        }
+      ],
+      "who": "Homeowners, cabin and RV owners, and preppers, mostly in the US, Canada and Australia, who size, buy and wire their own solar and battery systems instead of hiring an installer, and who identify as DIY solar people. They post wiring diagrams for review, compare inverters and server-rack batteries, ask about permits and inspections, and warn each other about vendors.",
+      "who_pays": "The builder pays personally, in thousands of dollars of hardware, plus a course or a design review before buying and, in some counties, permit and plan-set fees."
+    },
+    {
+      "confidence": "moderate",
+      "duplicate_of": null,
       "geography": [
         "GLOBAL",
         "SG",
         "MY",
         "IN"
       ],
-      "venture_overlap": [],
-      "duplicate_of": null,
+      "ladder": [
+        {
+          "price_text": "$150 USD",
+          "problem": "Join a professional society for the network and the title",
+          "seen_via": "search",
+          "step": 1,
+          "url": "https://member.sustainabilityprofessionals.org/membership-information"
+        },
+        {
+          "price_text": "USD 750 for non-members",
+          "problem": "Earn a climate-risk credential (GARP SCR)",
+          "seen_via": "search",
+          "step": 2,
+          "url": "https://www.garp.org/scr/program-exam"
+        },
+        {
+          "price_text": "USD 890",
+          "problem": "Earn the CFA Institute Sustainable Investing Certificate for finance-side roles",
+          "seen_via": "search",
+          "step": 3,
+          "url": "https://www.cfainstitute.org/programs/sustainable-investing-certificate/exam-info"
+        },
+        {
+          "price_text": "€1250",
+          "problem": "Get certified in GRI reporting to sign off sustainability reports",
+          "seen_via": "search",
+          "step": 4,
+          "url": "https://www.globalreporting.org/reporting-support/join-the-gri-community/"
+        }
+      ],
+      "lens": "identity_community",
+      "name": "Sustainability and ESG professionals who gather in ESG practitioner networks and chase sustainability credentials",
+      "origin": "gap_pass",
       "reasoning": "The obligation lens has the companies facing ISSB reporting and the identity lens has energy-career switchers, but nobody had the people who already identify as sustainability professionals and buy credentials through search; energy and climate reporting sits inside the founder's strong energy depth and the Southeast Asian energy warm path (with the ledger's employer-rules caveat). The ladder is long and every rung has a listed price, but the room is diffuse across many small networks, so the size is one network's count rather than the whole; all places and prices were seen in search this task.",
-      "confidence": "moderate"
+      "size": {
+        "tag": "measured",
+        "unit": "members of the ESG Business Institute (one network among several; EFFAS separately reports more than 8,600 certified ESG analysts and ISSP reports members in 94 countries)",
+        "url": "https://www.esg-bi.org/",
+        "value": 7000
+      },
+      "slug": "esg-sustainability-professionals-networks",
+      "venture_overlap": [],
+      "where": [
+        {
+          "name": "SEPA, Sustainability & ESG Professionals Association (free global membership)",
+          "seen_via": "search",
+          "url": "https://global-sepa.org/"
+        },
+        {
+          "name": "The ESG Circle, global community for ESG and sustainability professionals",
+          "seen_via": "search",
+          "url": "https://esgcircle.co/"
+        },
+        {
+          "name": "ESGVoices forum and community",
+          "seen_via": "search",
+          "url": "https://www.esgvoices.com/"
+        },
+        {
+          "name": "Sustainability Reporting Professionals Group (LinkedIn showcase page)",
+          "seen_via": "search",
+          "url": "https://www.linkedin.com/showcase/environmental-social-governance-group/"
+        },
+        {
+          "name": "ISSP, International Society of Sustainability Professionals (members in 94 countries)",
+          "seen_via": "search",
+          "url": "https://www.sustainabilityprofessionals.org/"
+        },
+        {
+          "name": "ESG Business Institute (over 7,000 professionals, 35+ countries)",
+          "seen_via": "search",
+          "url": "https://www.esg-bi.org/"
+        }
+      ],
+      "who": "People who hold, or want, a sustainability, ESG or climate-risk role in companies, banks, funds and consultancies, anywhere in the world, and who identify as sustainability professionals rather than by their industry. They join practitioner associations, ask which certificate to sit next, share reporting templates, and worry that the field is shrinking or being renamed.",
+      "who_pays": "The professional pays personally for association dues and certificates; employers with a learning budget sometimes pay for a credential once the person is in role."
     }
   ]
 }

@@ -1,11 +1,92 @@
 {
   "rooms": [
     {
-      "slug": "gre-engineers-india",
-      "name": "Indian engineers preparing for the GRE to study abroad",
+      "confidence": "high",
+      "duplicate_of": null,
+      "geography": [
+        "IN"
+      ],
+      "ladder": [
+        {
+          "note": "Reused from the old ladder.",
+          "price_text": "₹15,000–₹30,000",
+          "problem": "GRE prep: an online-live coaching course or self-study plan",
+          "seen_via": "search",
+          "step": 1,
+          "url": "https://www.wikatiedu.com/blog/ielts-gre-sat-2026-coaching-fees-exam-guide/"
+        },
+        {
+          "note": "Reused from the old ladder.",
+          "price_text": "₹22,550",
+          "problem": "GRE exam registration (plus reschedule and extra score reports)",
+          "seen_via": "search",
+          "step": 2,
+          "url": "https://eecglobal.com/blog/gre-fee-registration-india-2026"
+        },
+        {
+          "note": "TOEFL iBT fee in India for 2026, seen in a fee guide. New step: nearly every applicant in the room pays it a few weeks after the GRE.",
+          "price_text": "Rs. 18,000",
+          "problem": "The English test every university also asks for (TOEFL iBT or IELTS)",
+          "seen_via": "search",
+          "step": 3,
+          "url": "https://studyabroad.careers360.com/articles/toefl-exam-fee"
+        },
+        {
+          "note": "Yocket Premium's starting price seen on its own page (the forum this room gathers on). Consultants in general were seen at ₹30,000 to ₹1,00,000 (https://edvoy.com/faqs/consultants-charge-in-india-to-study-ms-in-us-uk-canada/). Old ladder had this step unpriced.",
+          "price_text": "₹50,000",
+          "problem": "University shortlisting, SOP and LOR help from a paid counsellor",
+          "seen_via": "search",
+          "step": 4,
+          "url": "https://yocket.com/premium"
+        },
+        {
+          "note": "One university's non-refundable graduate application fee, seen on its admissions page; UC Irvine was seen at $155.00 for international applicants. New step.",
+          "price_text": "$105",
+          "problem": "Application fees to 6 to 10 universities",
+          "seen_via": "search",
+          "step": 5,
+          "url": "https://gradschool.cornell.edu/admissions/apply/international"
+        },
+        {
+          "note": "Reused from the old ladder.",
+          "price_text": "10.25% per annum",
+          "problem": "Education loan for tuition and living costs",
+          "seen_via": "search",
+          "step": 6,
+          "url": "https://www.icici.bank.in/personal-banking/loans/education-loan/interest-rates"
+        },
+        {
+          "note": "Combined mandatory visa fees seen in a 2026 guide; a $250 visa integrity fee is now collected at some posts. Replaces the old step's SEVIS-only price.",
+          "price_text": "$350 SEVIS I-901 fee + $185 MRV appointment fee = $535",
+          "problem": "F-1 visa: SEVIS fee and visa appointment fee, then pre-departure setup (forex, insurance, housing)",
+          "seen_via": "search",
+          "step": 7,
+          "url": "https://www.shiksha.com/studyabroad/usa-student-visa-fee-articlepage-235493"
+        },
+        {
+          "note": "Reused from the old ladder; falls at the end of the 2-3 year window for a 2-year master's.",
+          "price_text": "$470",
+          "problem": "OPT work permit application after graduating",
+          "seen_via": "search",
+          "step": 8,
+          "url": "https://immiva.com/blog/i-765-opt-filing-fee-2026-complete-cost-breakdown"
+        }
+      ],
       "lens": "transition",
+      "name": "Indian engineers preparing for the GRE to study abroad",
       "origin": "generated",
-      "who": "Engineering students and young engineers in India who will sit the GRE in the next 3 to 12 months, mostly to apply for a master's in the US, Canada or Europe. They juggle college or a first job with 2 to 4 months of prep.",
+      "reasoning": "Same situation, same exam date, same forums. Coaching, exam and loan prices are public. The founder's GRE product already sells into this room, so reach is warm. Merged from gre-final-year-engineers-india (Stage 1 dedupe): copied the GRE Prep Club and Yocket Connect places and the $350 SEVIS fee onto the visa step.",
+      "size": {
+        "reasoning": "Seen in a search result for the r/GRE stats page. The Indian-engineer share is not measured; it is a large slice but smaller than this number.",
+        "tag": "measured",
+        "unit": "r/GRE members (worldwide, all fields)",
+        "url": "https://gummysearch.com/r/GRE/",
+        "value": 110000
+      },
+      "slug": "gre-engineers-india",
+      "venture_overlap": [
+        "v1"
+      ],
       "where": [
         {
           "name": "r/GRE (Reddit; stats page seen)",
@@ -36,66 +117,61 @@
           "url": "https://yocket.com/connect"
         }
       ],
-      "who_pays": "The student, usually with parents' money. Coaching is paid up front. The exam fee goes to ETS.",
-      "size": {
-        "value": 110000,
-        "unit": "r/GRE members (worldwide, all fields)",
-        "tag": "measured",
-        "url": "https://gummysearch.com/r/GRE/",
-        "reasoning": "Seen in a search result for the r/GRE stats page. The Indian-engineer share is not measured; it is a large slice but smaller than this number."
-      },
-      "ladder": [
-        {
-          "step": 1,
-          "problem": "GRE prep: an online-live coaching course or self-study plan",
-          "price_text": "₹15,000–₹30,000",
-          "url": "https://www.wikatiedu.com/blog/ielts-gre-sat-2026-coaching-fees-exam-guide/"
-        },
-        {
-          "step": 2,
-          "problem": "GRE exam registration (plus reschedule and extra score reports)",
-          "price_text": "₹22,550",
-          "url": "https://eecglobal.com/blog/gre-fee-registration-india-2026"
-        },
-        {
-          "step": 3,
-          "problem": "University shortlisting and SOP/LOR help from a counsellor"
-        },
-        {
-          "step": 4,
-          "problem": "Education loan for tuition and living costs",
-          "price_text": "10.25% per annum",
-          "url": "https://www.icici.bank.in/personal-banking/loans/education-loan/interest-rates"
-        },
-        {
-          "step": 5,
-          "problem": "F-1 visa interview and pre-departure setup (forex, insurance, housing)",
-          "price_text": "$350",
-          "url": "https://www.ice.gov/sevis/i901"
-        },
-        {
-          "step": 6,
-          "problem": "OPT work permit application after graduating",
-          "price_text": "$470",
-          "url": "https://immiva.com/blog/i-765-opt-filing-fee-2026-complete-cost-breakdown"
-        }
-      ],
+      "who": "Engineering students and young engineers in India who will sit the GRE in the next 3 to 12 months, mostly to apply for a master's in the US, Canada or Europe. They juggle college or a first job with 2 to 4 months of prep.",
+      "who_pays": "The student, usually with parents' money. Coaching is paid up front. The exam fee goes to ETS."
+    },
+    {
+      "confidence": "high",
+      "duplicate_of": null,
       "geography": [
         "IN"
       ],
+      "ladder": [
+        {
+          "price_text": "$100",
+          "problem": "SOP and application essay editing",
+          "step": 1,
+          "url": "https://scholarmemory.gumroad.com/l/Editing"
+        },
+        {
+          "problem": "University shortlisting, application fees and a counsellor package",
+          "step": 2
+        },
+        {
+          "price_text": "10.25% per annum",
+          "problem": "Education loan for tuition and living costs",
+          "step": 3,
+          "url": "https://www.icici.bank.in/personal-banking/loans/education-loan/interest-rates"
+        },
+        {
+          "problem": "Visa interview prep and pre-departure setup (forex, insurance, housing)",
+          "step": 4
+        },
+        {
+          "problem": "First semester abroad: housing, bank account, part-time work",
+          "step": 5
+        },
+        {
+          "price_text": "$470",
+          "problem": "OPT work permit application after graduating",
+          "step": 6,
+          "url": "https://immiva.com/blog/i-765-opt-filing-fee-2026-complete-cost-breakdown"
+        }
+      ],
+      "lens": "transition",
+      "name": "Indian students applying for a master's abroad after getting their test scores",
+      "origin": "generated",
+      "reasoning": "This is the step after the GRE in the same people's lives, with its own deadlines and its own paid helpers (editors, counsellors, lenders). The founder's GRE users flow straight into it. Kept separate from the GRE room because the problems and sellers differ.",
+      "size": {
+        "reasoning": "[thin] Not measured here. r/GRE alone has 110k members and Yocket sells to this room at scale, so the yearly Indian applicant pool is in the low hundreds of thousands. Treat as a rough guess.",
+        "tag": "estimate",
+        "unit": "Indian master's applicants abroad per year",
+        "value": 150000
+      },
+      "slug": "ms-abroad-applicants-india",
       "venture_overlap": [
         "v1"
       ],
-      "duplicate_of": null,
-      "reasoning": "Same situation, same exam date, same forums. Coaching, exam and loan prices are public. The founder's GRE product already sells into this room, so reach is warm. Merged from gre-final-year-engineers-india (Stage 1 dedupe): copied the GRE Prep Club and Yocket Connect places and the $350 SEVIS fee onto the visa step.",
-      "confidence": "high"
-    },
-    {
-      "slug": "ms-abroad-applicants-india",
-      "name": "Indian students applying for a master's abroad after getting their test scores",
-      "lens": "transition",
-      "origin": "generated",
-      "who": "Indian students, mostly engineers, who already have a GRE and IELTS/TOEFL score and are now shortlisting universities, writing SOPs, filing applications, arranging a loan and a visa for a master's in the US, Canada, UK or Germany. Deadlines run from October to March.",
       "where": [
         {
           "name": "r/gradadmissions (Reddit; stats page seen)",
@@ -114,61 +190,63 @@
           "url": "https://www.careers360.com/question-is-there-any-agency-to-process-admission-after-getting-required-gre-tofel-and-sop-lor/amp"
         }
       ],
-      "who_pays": "The student and parents pay counsellors, editors and application fees. Banks and lenders fund the degree itself.",
-      "size": {
-        "value": 150000,
-        "unit": "Indian master's applicants abroad per year",
-        "tag": "estimate",
-        "reasoning": "[thin] Not measured here. r/GRE alone has 110k members and Yocket sells to this room at scale, so the yearly Indian applicant pool is in the low hundreds of thousands. Treat as a rough guess."
-      },
-      "ladder": [
-        {
-          "step": 1,
-          "problem": "SOP and application essay editing",
-          "price_text": "$100",
-          "url": "https://scholarmemory.gumroad.com/l/Editing"
-        },
-        {
-          "step": 2,
-          "problem": "University shortlisting, application fees and a counsellor package"
-        },
-        {
-          "step": 3,
-          "problem": "Education loan for tuition and living costs",
-          "price_text": "10.25% per annum",
-          "url": "https://www.icici.bank.in/personal-banking/loans/education-loan/interest-rates"
-        },
-        {
-          "step": 4,
-          "problem": "Visa interview prep and pre-departure setup (forex, insurance, housing)"
-        },
-        {
-          "step": 5,
-          "problem": "First semester abroad: housing, bank account, part-time work"
-        },
-        {
-          "step": 6,
-          "problem": "OPT work permit application after graduating",
-          "price_text": "$470",
-          "url": "https://immiva.com/blog/i-765-opt-filing-fee-2026-complete-cost-breakdown"
-        }
-      ],
+      "who": "Indian students, mostly engineers, who already have a GRE and IELTS/TOEFL score and are now shortlisting universities, writing SOPs, filing applications, arranging a loan and a visa for a master's in the US, Canada, UK or Germany. Deadlines run from October to March.",
+      "who_pays": "The student and parents pay counsellors, editors and application fees. Banks and lenders fund the degree itself."
+    },
+    {
+      "confidence": "moderate",
+      "duplicate_of": "opt-grads-us-job-hunt",
       "geography": [
+        "US",
         "IN"
       ],
+      "ladder": [
+        {
+          "price_text": "$470",
+          "problem": "OPT work permit application (Form I-765)",
+          "step": 1,
+          "url": "https://immiva.com/blog/i-765-opt-filing-fee-2026-complete-cost-breakdown"
+        },
+        {
+          "price_text": "$1,780",
+          "problem": "Premium processing so the permit arrives before the job start date",
+          "step": 2,
+          "url": "https://immiva.com/blog/i-765-premium-processing-opt-worth-it-2026"
+        },
+        {
+          "problem": "Finding employers that sponsor: sponsor databases, resume, interview prep",
+          "step": 3
+        },
+        {
+          "problem": "STEM OPT extension to buy two more years",
+          "step": 4
+        },
+        {
+          "price_text": "$2,965",
+          "problem": "H-1B petition with premium processing",
+          "step": 5,
+          "url": "https://www.vorys.com/publication-uscis-announces-increases-to-premium-processing-fees"
+        },
+        {
+          "problem": "Visa stamping abroad, then green card sponsorship",
+          "step": 6
+        }
+      ],
+      "lens": "transition",
+      "name": "International graduates in the US on OPT hunting for an H-1B sponsor",
+      "origin": "generated",
+      "reasoning": "One shared clock (OPT expiry), one shared goal (a sponsor) and busy shared forums. Government fees are fixed and public. The founder's GRE users become this room two years later, so reach is plausible; depth in job search and immigration is not on the ledger, so Stage 2 may cut it. Duplicate of opt-grads-us-job-hunt: the same OPT graduates hunting for an H-1B sponsor under the same 90-day clock; the life-stage room has a directly measured size and high confidence, and this room's three extra places and three priced steps (OPT application, premium processing, H-1B petition) were copied into it.",
+      "size": {
+        "reasoning": "Seen in a search result for the r/h1b stats page. Includes current H-1B holders, so the OPT slice is smaller.",
+        "tag": "measured",
+        "unit": "r/h1b members",
+        "url": "https://gummysearch.com/r/h1b/",
+        "value": 137000
+      },
+      "slug": "opt-grads-h1b-job-hunt-us",
       "venture_overlap": [
         "v1"
       ],
-      "duplicate_of": null,
-      "reasoning": "This is the step after the GRE in the same people's lives, with its own deadlines and its own paid helpers (editors, counsellors, lenders). The founder's GRE users flow straight into it. Kept separate from the GRE room because the problems and sellers differ.",
-      "confidence": "high"
-    },
-    {
-      "slug": "opt-grads-h1b-job-hunt-us",
-      "name": "International graduates in the US on OPT hunting for an H-1B sponsor",
-      "lens": "transition",
-      "origin": "generated",
-      "who": "Foreign students, many of them Indian, who just finished a US degree, are working or job-hunting on an OPT work permit, and must find an employer who will file an H-1B before the permit and the 90-day unemployment limit run out.",
       "where": [
         {
           "name": "Blind thread: job searching on H-1B",
@@ -191,63 +269,53 @@
           "url": "https://answers.atlassian.syr.edu/wiki/x/MgjzC"
         }
       ],
-      "who_pays": "The graduate pays filing fees, premium processing, resume and job-search tools. The employer pays most H-1B petition fees, but many graduates pay premium processing themselves.",
-      "size": {
-        "value": 137000,
-        "unit": "r/h1b members",
-        "tag": "measured",
-        "url": "https://gummysearch.com/r/h1b/",
-        "reasoning": "Seen in a search result for the r/h1b stats page. Includes current H-1B holders, so the OPT slice is smaller."
-      },
-      "ladder": [
-        {
-          "step": 1,
-          "problem": "OPT work permit application (Form I-765)",
-          "price_text": "$470",
-          "url": "https://immiva.com/blog/i-765-opt-filing-fee-2026-complete-cost-breakdown"
-        },
-        {
-          "step": 2,
-          "problem": "Premium processing so the permit arrives before the job start date",
-          "price_text": "$1,780",
-          "url": "https://immiva.com/blog/i-765-premium-processing-opt-worth-it-2026"
-        },
-        {
-          "step": 3,
-          "problem": "Finding employers that sponsor: sponsor databases, resume, interview prep"
-        },
-        {
-          "step": 4,
-          "problem": "STEM OPT extension to buy two more years"
-        },
-        {
-          "step": 5,
-          "problem": "H-1B petition with premium processing",
-          "price_text": "$2,965",
-          "url": "https://www.vorys.com/publication-uscis-announces-increases-to-premium-processing-fees"
-        },
-        {
-          "step": 6,
-          "problem": "Visa stamping abroad, then green card sponsorship"
-        }
-      ],
+      "who": "Foreign students, many of them Indian, who just finished a US degree, are working or job-hunting on an OPT work permit, and must find an employer who will file an H-1B before the permit and the 90-day unemployment limit run out.",
+      "who_pays": "The graduate pays filing fees, premium processing, resume and job-search tools. The employer pays most H-1B petition fees, but many graduates pay premium processing themselves."
+    },
+    {
+      "confidence": "low",
+      "duplicate_of": null,
       "geography": [
         "US",
         "IN"
       ],
-      "venture_overlap": [
-        "v1"
+      "ladder": [
+        {
+          "problem": "Visa stamping appointment and interview prep",
+          "step": 1
+        },
+        {
+          "problem": "Landing setup: SSN, bank account, credit card with no credit history, apartment deposit",
+          "step": 2
+        },
+        {
+          "problem": "First US tax return as a new arrival",
+          "step": 3
+        },
+        {
+          "price_text": "$2,965",
+          "problem": "H-1B extension or transfer with premium processing",
+          "step": 4,
+          "url": "https://www.vorys.com/publication-uscis-announces-increases-to-premium-processing-fees"
+        },
+        {
+          "problem": "Green card process (PERM, I-140) and the long wait",
+          "step": 5
+        }
       ],
-      "duplicate_of": "opt-grads-us-job-hunt",
-      "reasoning": "One shared clock (OPT expiry), one shared goal (a sponsor) and busy shared forums. Government fees are fixed and public. The founder's GRE users become this room two years later, so reach is plausible; depth in job search and immigration is not on the ledger, so Stage 2 may cut it. Duplicate of opt-grads-us-job-hunt: the same OPT graduates hunting for an H-1B sponsor under the same 90-day clock; the life-stage room has a directly measured size and high confidence, and this room's three extra places and three priced steps (OPT application, premium processing, H-1B petition) were copied into it.",
-      "confidence": "moderate"
-    },
-    {
-      "slug": "h1b-workers-new-to-us",
-      "name": "H-1B workers newly settling in the United States",
       "lens": "transition",
+      "name": "H-1B workers newly settling in the United States",
       "origin": "generated",
-      "who": "Workers, mostly Indian IT and engineering staff, who moved to the US on an H-1B in the last year or are about to: visa stamping appointment, first apartment, bank account and credit history, first US tax return, then extensions, transfers and the green card queue.",
+      "reasoning": "[thin] A real moving-countries transition with a large forum, but only one price was seen before the search budget ran out. Depth is not on the ledger. Kept because the r/h1b page itself shows the room's talk (stamping, appointments, bank accounts).",
+      "size": {
+        "reasoning": "Same page as the OPT room; the two rooms overlap in membership but not in situation.",
+        "tag": "measured",
+        "unit": "r/h1b members",
+        "url": "https://gummysearch.com/r/h1b/",
+        "value": 137000
+      },
+      "slug": "h1b-workers-new-to-us",
+      "venture_overlap": [],
       "where": [
         {
           "name": "r/h1b (Reddit; stats page seen; members discuss stamping, appointments, interviews and recommend bank accounts)",
@@ -258,53 +326,68 @@
           "url": "https://www.teamblind.com/post/job-searching-on-h1b-qyhkxn3v"
         }
       ],
-      "who_pays": "The worker pays stamping travel, tax filing, deposits and often premium processing. The employer pays base petition fees.",
-      "size": {
-        "value": 137000,
-        "unit": "r/h1b members",
-        "tag": "measured",
-        "url": "https://gummysearch.com/r/h1b/",
-        "reasoning": "Same page as the OPT room; the two rooms overlap in membership but not in situation."
-      },
-      "ladder": [
-        {
-          "step": 1,
-          "problem": "Visa stamping appointment and interview prep"
-        },
-        {
-          "step": 2,
-          "problem": "Landing setup: SSN, bank account, credit card with no credit history, apartment deposit"
-        },
-        {
-          "step": 3,
-          "problem": "First US tax return as a new arrival"
-        },
-        {
-          "step": 4,
-          "problem": "H-1B extension or transfer with premium processing",
-          "price_text": "$2,965",
-          "url": "https://www.vorys.com/publication-uscis-announces-increases-to-premium-processing-fees"
-        },
-        {
-          "step": 5,
-          "problem": "Green card process (PERM, I-140) and the long wait"
-        }
-      ],
-      "geography": [
-        "US",
-        "IN"
-      ],
-      "venture_overlap": [],
-      "duplicate_of": null,
-      "reasoning": "[thin] A real moving-countries transition with a large forum, but only one price was seen before the search budget ran out. Depth is not on the ledger. Kept because the r/h1b page itself shows the room's talk (stamping, appointments, bank accounts).",
-      "confidence": "low"
+      "who": "Workers, mostly Indian IT and engineering staff, who moved to the US on an H-1B in the last year or are about to: visa stamping appointment, first apartment, bank account and credit history, first US tax return, then extensions, transfers and the green card queue.",
+      "who_pays": "The worker pays stamping travel, tax filing, deposits and often premium processing. The employer pays base petition fees."
     },
     {
-      "slug": "mba-applicants-gmat-global",
-      "name": "MBA applicants preparing for the GMAT and applying to business schools",
+      "confidence": "high",
+      "duplicate_of": null,
+      "geography": [
+        "GLOBAL",
+        "IN",
+        "US"
+      ],
+      "ladder": [
+        {
+          "price_text": "$99 per month",
+          "problem": "GMAT prep course",
+          "step": 1,
+          "url": "https://e-student.org/target-test-prep-gmat/"
+        },
+        {
+          "price_text": "$275 USD",
+          "problem": "GMAT exam registration",
+          "step": 2,
+          "url": "https://test-ninjas.com/gmat-registration-fees-and-cost"
+        },
+        {
+          "price_text": "$3,000 for the first school and $1,000 for each additional school",
+          "problem": "Admissions consulting for essays and school choice",
+          "step": 3,
+          "url": "https://gmatclub.com/forum/admissions-consulting-fees-362841.html"
+        },
+        {
+          "price_text": "11.99%",
+          "problem": "MBA loan without a co-signer",
+          "step": 4,
+          "url": "https://prodigyfinance.com/courses/mba-programmes/"
+        },
+        {
+          "problem": "Relocation and student visa",
+          "step": 5
+        },
+        {
+          "price_text": "$199.99",
+          "problem": "Recruiting for investment banking or consulting during the MBA",
+          "step": 6,
+          "url": "https://www.wallstreetoasis.com/courses/interview-prep/investment-banking"
+        }
+      ],
       "lens": "transition",
+      "name": "MBA applicants preparing for the GMAT and applying to business schools",
       "origin": "generated",
-      "who": "Working professionals worldwide, with India the largest source, who are studying for the GMAT or GRE and applying to MBA programs in the next 6 to 18 months, then borrowing to pay for them and recruiting for finance or consulting once in.",
+      "reasoning": "A long, well-priced ladder from prep to loans to recruiting, with two big forums. Many MBA programs accept the GRE, so the founder's GRE product touches step 1, and the finance recruiting step sits in the founder's strongest depth. Merged from pre-mba-applicants-gmat-gre (Stage 1 dedupe): copied the Beat The GMAT admissions-consultant board.",
+      "size": {
+        "reasoning": "Seen in a search result for the r/MBA stats page. GMAT Club's forum page was also seen and claims over 1 million members.",
+        "tag": "measured",
+        "unit": "r/MBA members",
+        "url": "https://gummysearch.com/r/MBA/",
+        "value": 332000
+      },
+      "slug": "mba-applicants-gmat-global",
+      "venture_overlap": [
+        "v1"
+      ],
       "where": [
         {
           "name": "GMAT Club forum",
@@ -327,68 +410,60 @@
           "url": "https://www.beatthegmat.com/ask-an-mba-admissions-consultant-f40.html"
         }
       ],
-      "who_pays": "The applicant pays for prep, the exam and consultants out of savings. Lenders such as Prodigy Finance fund the degree.",
-      "size": {
-        "value": 332000,
-        "unit": "r/MBA members",
-        "tag": "measured",
-        "url": "https://gummysearch.com/r/MBA/",
-        "reasoning": "Seen in a search result for the r/MBA stats page. GMAT Club's forum page was also seen and claims over 1 million members."
-      },
+      "who": "Working professionals worldwide, with India the largest source, who are studying for the GMAT or GRE and applying to MBA programs in the next 6 to 18 months, then borrowing to pay for them and recruiting for finance or consulting once in.",
+      "who_pays": "The applicant pays for prep, the exam and consultants out of savings. Lenders such as Prodigy Finance fund the degree."
+    },
+    {
+      "confidence": "high",
+      "duplicate_of": null,
+      "geography": [
+        "IN"
+      ],
       "ladder": [
         {
+          "price_text": "Rs 55,000–75,000",
+          "problem": "CAT coaching (classroom at TIME, IMS or Career Launcher)",
           "step": 1,
-          "problem": "GMAT prep course",
-          "price_text": "$99 per month",
-          "url": "https://e-student.org/target-test-prep-gmat/"
+          "url": "https://www.mbauniverse.com/cat/coaching"
         },
         {
+          "price_text": "Rs 7,450",
+          "problem": "Mock test series in the last 3 months",
           "step": 2,
-          "problem": "GMAT exam registration",
-          "price_text": "$275 USD",
-          "url": "https://test-ninjas.com/gmat-registration-fees-and-cost"
+          "url": "https://www.mbarendezvous.com/articles/ims-cat-coaching-institute-fees/"
         },
         {
+          "price_text": "Rs 10,000 to Rs 30,000",
+          "problem": "GD-PI-WAT interview prep after results",
           "step": 3,
-          "problem": "Admissions consulting for essays and school choice",
-          "price_text": "$3,000 for the first school and $1,000 for each additional school",
-          "url": "https://gmatclub.com/forum/admissions-consulting-fees-362841.html"
+          "url": "https://www.mbauniverse.com/gd-pi-wat-coaching-courses"
         },
         {
+          "price_text": "₹27.5 lakh",
+          "problem": "MBA fees and an education loan",
           "step": 4,
-          "problem": "MBA loan without a co-signer",
-          "price_text": "11.99%",
-          "url": "https://prodigyfinance.com/courses/mba-programmes/"
+          "url": "https://www.pagalguy.com/colleges/indian-institute-of-management-iim-ahmedabad"
         },
         {
-          "step": 5,
-          "problem": "Relocation and student visa"
-        },
-        {
-          "step": 6,
-          "problem": "Recruiting for investment banking or consulting during the MBA",
-          "price_text": "$199.99",
-          "url": "https://www.wallstreetoasis.com/courses/interview-prep/investment-banking"
+          "problem": "Summer internship and final placement prep (finance and consulting interviews)",
+          "step": 5
         }
       ],
-      "geography": [
-        "GLOBAL",
-        "IN",
-        "US"
-      ],
+      "lens": "transition",
+      "name": "Indian graduates preparing for the CAT to enter an IIM or a top Indian MBA",
+      "origin": "generated",
+      "reasoning": "A measured pool of about 3 lakh people on one exam date who pay for coaching and mocks, then interviews, then placements. Quant and verbal overlap with the founder's GRE depth; the placement step touches finance depth. Merged from cat-aspirants-working-professionals-india (Stage 1 dedupe): copied the r/CATpreparation spotlight and PaGaLGuY thread places, and the GD-PI-WAT coaching and IIM fee prices onto steps 3 and 4.",
+      "size": {
+        "reasoning": "Seen in a search result: 2.95 lakh registered, about 2.58 lakh appeared.",
+        "tag": "measured",
+        "unit": "candidates registered for CAT 2025",
+        "url": "https://cracku.in/cat-2025-registered-candidates/",
+        "value": 295000
+      },
+      "slug": "cat-aspirants-india",
       "venture_overlap": [
         "v1"
       ],
-      "duplicate_of": null,
-      "reasoning": "A long, well-priced ladder from prep to loans to recruiting, with two big forums. Many MBA programs accept the GRE, so the founder's GRE product touches step 1, and the finance recruiting step sits in the founder's strongest depth. Merged from pre-mba-applicants-gmat-gre (Stage 1 dedupe): copied the Beat The GMAT admissions-consultant board.",
-      "confidence": "high"
-    },
-    {
-      "slug": "cat-aspirants-india",
-      "name": "Indian graduates preparing for the CAT to enter an IIM or a top Indian MBA",
-      "lens": "transition",
-      "origin": "generated",
-      "who": "Final-year students and young professionals in India preparing for the CAT held each November, then the GD-PI-WAT interview rounds in January to March, to join a two-year MBA in India.",
       "where": [
         {
           "name": "PaGaLGuY forum (URL seen is the Wikipedia page about it; the forum has over 400,000 users)",
@@ -411,60 +486,56 @@
           "url": "https://www.pagalguy.com/t/cat-exam-2026-preparation-discussion-mock-test/4127380"
         }
       ],
-      "who_pays": "The aspirant and parents pay coaching and mock fees up front. Banks fund the MBA fees later.",
-      "size": {
-        "value": 295000,
-        "unit": "candidates registered for CAT 2025",
-        "tag": "measured",
-        "url": "https://cracku.in/cat-2025-registered-candidates/",
-        "reasoning": "Seen in a search result: 2.95 lakh registered, about 2.58 lakh appeared."
-      },
-      "ladder": [
-        {
-          "step": 1,
-          "problem": "CAT coaching (classroom at TIME, IMS or Career Launcher)",
-          "price_text": "Rs 55,000–75,000",
-          "url": "https://www.mbauniverse.com/cat/coaching"
-        },
-        {
-          "step": 2,
-          "problem": "Mock test series in the last 3 months",
-          "price_text": "Rs 7,450",
-          "url": "https://www.mbarendezvous.com/articles/ims-cat-coaching-institute-fees/"
-        },
-        {
-          "step": 3,
-          "problem": "GD-PI-WAT interview prep after results",
-          "price_text": "Rs 10,000 to Rs 30,000",
-          "url": "https://www.mbauniverse.com/gd-pi-wat-coaching-courses"
-        },
-        {
-          "step": 4,
-          "problem": "MBA fees and an education loan",
-          "price_text": "₹27.5 lakh",
-          "url": "https://www.pagalguy.com/colleges/indian-institute-of-management-iim-ahmedabad"
-        },
-        {
-          "step": 5,
-          "problem": "Summer internship and final placement prep (finance and consulting interviews)"
-        }
-      ],
-      "geography": [
-        "IN"
-      ],
-      "venture_overlap": [
-        "v1"
-      ],
-      "duplicate_of": null,
-      "reasoning": "A measured pool of about 3 lakh people on one exam date who pay for coaching and mocks, then interviews, then placements. Quant and verbal overlap with the founder's GRE depth; the placement step touches finance depth. Merged from cat-aspirants-working-professionals-india (Stage 1 dedupe): copied the r/CATpreparation spotlight and PaGaLGuY thread places, and the GD-PI-WAT coaching and IIM fee prices onto steps 3 and 4.",
-      "confidence": "high"
+      "who": "Final-year students and young professionals in India preparing for the CAT held each November, then the GD-PI-WAT interview rounds in January to March, to join a two-year MBA in India.",
+      "who_pays": "The aspirant and parents pay coaching and mock fees up front. Banks fund the MBA fees later."
     },
     {
-      "slug": "ib-analyst-recruiting-students",
-      "name": "Students and recent graduates recruiting for investment banking analyst roles",
+      "confidence": "moderate",
+      "duplicate_of": "ib-summer-analyst-recruits",
+      "geography": [
+        "GLOBAL",
+        "US",
+        "GB",
+        "IN"
+      ],
+      "ladder": [
+        {
+          "price_text": "$199.99",
+          "problem": "Interview prep guide and question bank",
+          "step": 1,
+          "url": "https://www.wallstreetoasis.com/courses/interview-prep/investment-banking"
+        },
+        {
+          "price_text": "$497",
+          "problem": "Financial modeling training before modeling tests",
+          "step": 2,
+          "url": "https://breakingintowallstreet.com/platinum/"
+        },
+        {
+          "problem": "Networking, resume review and mock interviews with a coach",
+          "step": 3
+        },
+        {
+          "problem": "First-year analyst survival: live deal modeling and long hours",
+          "step": 4
+        },
+        {
+          "problem": "Exit recruiting for private equity or an MBA",
+          "step": 5
+        }
+      ],
       "lens": "transition",
+      "name": "Students and recent graduates recruiting for investment banking analyst roles",
       "origin": "generated",
-      "who": "Undergraduates, master's students and career changers worldwide preparing for investment banking summer analyst and full-time interviews: technical questions, modeling tests, networking and resume rounds on a fixed recruiting calendar.",
+      "reasoning": "One goal, one recruiting calendar, one big forum, and vendors with public prices. The founder's depth (corporate finance, valuation) and warm path (banking colleagues) fit. Distinct from the profession-lens analyst room: these people are not yet in the job. Duplicate of ib-summer-analyst-recruits: the same students preparing for the same IB analyst recruiting calendar with the same guides and courses; the life-stage room has high confidence and three priced steps, and this room's three places were copied into it.",
+      "size": {
+        "reasoning": "[thin] No measured number was seen. WSO is the main global forum and several vendors sell to this room; the yearly candidate pool is in the tens of thousands.",
+        "tag": "estimate",
+        "unit": "active IB candidates per recruiting cycle, worldwide",
+        "value": 50000
+      },
+      "slug": "ib-analyst-recruiting-students",
+      "venture_overlap": [],
       "where": [
         {
           "name": "Wall Street Oasis forum (thread on IB prep courses)",
@@ -479,56 +550,58 @@
           "url": "https://igotanoffer.com/en/advice/wall-street-prep-alternatives"
         }
       ],
-      "who_pays": "The candidate pays for guides, courses and coaching from savings or parents. Nobody else pays until they are hired.",
-      "size": {
-        "value": 50000,
-        "unit": "active IB candidates per recruiting cycle, worldwide",
-        "tag": "estimate",
-        "reasoning": "[thin] No measured number was seen. WSO is the main global forum and several vendors sell to this room; the yearly candidate pool is in the tens of thousands."
-      },
-      "ladder": [
-        {
-          "step": 1,
-          "problem": "Interview prep guide and question bank",
-          "price_text": "$199.99",
-          "url": "https://www.wallstreetoasis.com/courses/interview-prep/investment-banking"
-        },
-        {
-          "step": 2,
-          "problem": "Financial modeling training before modeling tests",
-          "price_text": "$497",
-          "url": "https://breakingintowallstreet.com/platinum/"
-        },
-        {
-          "step": 3,
-          "problem": "Networking, resume review and mock interviews with a coach"
-        },
-        {
-          "step": 4,
-          "problem": "First-year analyst survival: live deal modeling and long hours"
-        },
-        {
-          "step": 5,
-          "problem": "Exit recruiting for private equity or an MBA"
-        }
-      ],
+      "who": "Undergraduates, master's students and career changers worldwide preparing for investment banking summer analyst and full-time interviews: technical questions, modeling tests, networking and resume rounds on a fixed recruiting calendar.",
+      "who_pays": "The candidate pays for guides, courses and coaching from savings or parents. Nobody else pays until they are hired."
+    },
+    {
+      "confidence": "moderate",
+      "duplicate_of": null,
       "geography": [
         "GLOBAL",
         "US",
-        "GB",
         "IN"
       ],
-      "venture_overlap": [],
-      "duplicate_of": "ib-summer-analyst-recruits",
-      "reasoning": "One goal, one recruiting calendar, one big forum, and vendors with public prices. The founder's depth (corporate finance, valuation) and warm path (banking colleagues) fit. Distinct from the profession-lens analyst room: these people are not yet in the job. Duplicate of ib-summer-analyst-recruits: the same students preparing for the same IB analyst recruiting calendar with the same guides and courses; the life-stage room has high confidence and three priced steps, and this room's three places were copied into it.",
-      "confidence": "moderate"
-    },
-    {
-      "slug": "laid-off-tech-workers",
-      "name": "Tech workers laid off in the last 90 days",
+      "ladder": [
+        {
+          "price_text": "$179",
+          "problem": "Resume rewrite for the new search",
+          "step": 1,
+          "url": "https://kinetk.io/blog/resume-writer-cost-2026/"
+        },
+        {
+          "price_text": "$75–$200 per hour",
+          "problem": "Career coaching and interview prep",
+          "step": 2,
+          "url": "https://www.resumeble.com/career-advice/resume-services-cost"
+        },
+        {
+          "problem": "Health cover, severance and unemployment decisions",
+          "step": 3
+        },
+        {
+          "price_text": "$2,965",
+          "problem": "For visa holders: H-1B transfer with premium processing inside 60 days",
+          "step": 4,
+          "url": "https://www.vorys.com/publication-uscis-announces-increases-to-premium-processing-fees"
+        },
+        {
+          "problem": "Upskilling for the next role (AI tooling, new stack)",
+          "step": 5
+        }
+      ],
       "lens": "transition",
+      "name": "Tech workers laid off in the last 90 days",
       "origin": "generated",
-      "who": "Software engineers, product and operations staff worldwide who just lost their jobs in the 2026 tech layoffs and must find the next role fast. A slice are on H-1B visas with a 60-day clock to find a new sponsor.",
+      "reasoning": "A sharp shared event with a public count, active gathering places and clear paid steps. The ledger's depth list has no job-search domain, so Stage 2 may cut it; included because reach (search) and spend are plain.",
+      "size": {
+        "reasoning": "Seen in a search result for the Layoffs.fyi 2026 page. TrueUp counts more (190,058).",
+        "tag": "measured",
+        "unit": "tech employees laid off at 299 companies in 2026 by 10 September",
+        "url": "https://layoffs.fyi/2026-layoffs/",
+        "value": 128536
+      },
+      "slug": "laid-off-tech-workers",
+      "venture_overlap": [],
       "where": [
         {
           "name": "Blind layoffs threads",
@@ -551,58 +624,54 @@
           "url": "https://gummysearch.com/r/h1b/"
         }
       ],
-      "who_pays": "The laid-off worker pays from severance and savings for resumes, coaching and, on a visa, premium processing.",
-      "size": {
-        "value": 128536,
-        "unit": "tech employees laid off at 299 companies in 2026 by 10 September",
-        "tag": "measured",
-        "url": "https://layoffs.fyi/2026-layoffs/",
-        "reasoning": "Seen in a search result for the Layoffs.fyi 2026 page. TrueUp counts more (190,058)."
-      },
-      "ladder": [
-        {
-          "step": 1,
-          "problem": "Resume rewrite for the new search",
-          "price_text": "$179",
-          "url": "https://kinetk.io/blog/resume-writer-cost-2026/"
-        },
-        {
-          "step": 2,
-          "problem": "Career coaching and interview prep",
-          "price_text": "$75–$200 per hour",
-          "url": "https://www.resumeble.com/career-advice/resume-services-cost"
-        },
-        {
-          "step": 3,
-          "problem": "Health cover, severance and unemployment decisions"
-        },
-        {
-          "step": 4,
-          "problem": "For visa holders: H-1B transfer with premium processing inside 60 days",
-          "price_text": "$2,965",
-          "url": "https://www.vorys.com/publication-uscis-announces-increases-to-premium-processing-fees"
-        },
-        {
-          "step": 5,
-          "problem": "Upskilling for the next role (AI tooling, new stack)"
-        }
-      ],
-      "geography": [
-        "GLOBAL",
-        "US",
-        "IN"
-      ],
-      "venture_overlap": [],
-      "duplicate_of": null,
-      "reasoning": "A sharp shared event with a public count, active gathering places and clear paid steps. The ledger's depth list has no job-search domain, so Stage 2 may cut it; included because reach (search) and spend are plain.",
-      "confidence": "moderate"
+      "who": "Software engineers, product and operations staff worldwide who just lost their jobs in the 2026 tech layoffs and must find the next role fast. A slice are on H-1B visas with a 60-day clock to find a new sponsor.",
+      "who_pays": "The laid-off worker pays from severance and savings for resumes, coaching and, on a visa, premium processing."
     },
     {
-      "slug": "first-time-managers",
-      "name": "Individual contributors newly promoted to their first manager role",
+      "confidence": "high",
+      "duplicate_of": null,
+      "geography": [
+        "GLOBAL"
+      ],
+      "ladder": [
+        {
+          "price_text": "$500 per person",
+          "problem": "New-manager bootcamp or course in the first 90 days",
+          "step": 1,
+          "url": "https://www.evolution2revolution.com/new-manager-bootcamp"
+        },
+        {
+          "price_text": "$5,400.00",
+          "problem": "Business-school manager program in the first year",
+          "step": 2,
+          "url": "https://executive.berkeley.edu/programs/new-manager-boot-camp"
+        },
+        {
+          "problem": "1:1 leadership coaching through hiring, performance and firing decisions",
+          "step": 3
+        },
+        {
+          "problem": "Managing managers: senior manager or director transition program",
+          "step": 4
+        },
+        {
+          "problem": "Executive education when moving to director or VP",
+          "step": 5
+        }
+      ],
       "lens": "transition",
+      "name": "Individual contributors newly promoted to their first manager role",
       "origin": "generated",
-      "who": "People, often engineers and analysts, promoted in the last year to manage a team for the first time. They struggle with 1:1s, feedback, hiring, firing, and losing their own hands-on work.",
+      "reasoning": "A clear event with a large, active forum and paid programs at every level. Management is not on the ledger's depth list, but the founder's supply (accountability coaching, cohorts) matches how this room buys. Stage 2 decides.",
+      "size": {
+        "reasoning": "Seen in a search result for the r/managers stats page. Rands Leadership Slack lists about 16K members on the Hive Index page.",
+        "tag": "measured",
+        "unit": "r/managers members",
+        "url": "https://gummysearch.com/r/managers/",
+        "value": 271000
+      },
+      "slug": "first-time-managers",
+      "venture_overlap": [],
       "where": [
         {
           "name": "r/managers (Reddit; stats page seen)",
@@ -617,54 +686,77 @@
           "url": "https://randsinrepose.com/welcome-to-rands-leadership-slack/"
         }
       ],
-      "who_pays": "Usually the employer's training budget for bootcamps and coaching; the manager pays for books, courses and some coaching personally.",
-      "size": {
-        "value": 271000,
-        "unit": "r/managers members",
-        "tag": "measured",
-        "url": "https://gummysearch.com/r/managers/",
-        "reasoning": "Seen in a search result for the r/managers stats page. Rands Leadership Slack lists about 16K members on the Hive Index page."
-      },
-      "ladder": [
-        {
-          "step": 1,
-          "problem": "New-manager bootcamp or course in the first 90 days",
-          "price_text": "$500 per person",
-          "url": "https://www.evolution2revolution.com/new-manager-bootcamp"
-        },
-        {
-          "step": 2,
-          "problem": "Business-school manager program in the first year",
-          "price_text": "$5,400.00",
-          "url": "https://executive.berkeley.edu/programs/new-manager-boot-camp"
-        },
-        {
-          "step": 3,
-          "problem": "1:1 leadership coaching through hiring, performance and firing decisions"
-        },
-        {
-          "step": 4,
-          "problem": "Managing managers: senior manager or director transition program"
-        },
-        {
-          "step": 5,
-          "problem": "Executive education when moving to director or VP"
-        }
-      ],
+      "who": "People, often engineers and analysts, promoted in the last year to manage a team for the first time. They struggle with 1:1s, feedback, hiring, firing, and losing their own hands-on work.",
+      "who_pays": "Usually the employer's training budget for bootcamps and coaching; the manager pays for books, courses and some coaching personally."
+    },
+    {
+      "confidence": "moderate",
+      "duplicate_of": null,
       "geography": [
         "GLOBAL"
       ],
-      "venture_overlap": [],
-      "duplicate_of": null,
-      "reasoning": "A clear event with a large, active forum and paid programs at every level. Management is not on the ledger's depth list, but the founder's supply (accountability coaching, cohorts) matches how this room buys. Stage 2 decides.",
-      "confidence": "high"
-    },
-    {
-      "slug": "first-time-founders-pre-seed",
-      "name": "First-time founders setting up a company and raising a first round",
+      "ladder": [
+        {
+          "note": "Reused from the old ladder.",
+          "price_text": "$500",
+          "problem": "Incorporation (US Delaware C-corp or LLC from anywhere)",
+          "seen_via": "search",
+          "step": 1,
+          "url": "https://sparklaun.ch/compare/stripe-atlas"
+        },
+        {
+          "note": "Basic terms-of-service and privacy-policy cost for a simple website, seen in a 2026 cost guide; founders-agreement review was seen at $660 flat (https://www.contractscounsel.com/b/founders-agreement-cost). New step.",
+          "price_text": "$500 to $1,500",
+          "problem": "The first legal documents: founder agreement, website terms of service and privacy policy",
+          "seen_via": "search",
+          "step": 2,
+          "url": "https://www.contractscounsel.com/b/terms-of-service-and-privacy-policy-cost"
+        },
+        {
+          "note": "Pilot's Bookkeeping Essentials starting price seen on its pricing page; human-reviewed startup providers were seen at $299 to $850 per month. Replaces the old unpriced 'accounting, tax filings and first hires' step (accounting half).",
+          "price_text": "$99/month",
+          "problem": "Keep the books from month one (a startup bookkeeping service)",
+          "seen_via": "search",
+          "step": 3,
+          "url": "https://pilot.com/pricing"
+        },
+        {
+          "note": "Reused from the old ladder. Delaware franchise tax for a typical startup was seen at $400 plus a $50 annual report fee (https://www.graphitefinancial.com/blog/delaware-franchise-tax-deadline).",
+          "price_text": "$100 Renewal",
+          "problem": "Yearly compliance: registered agent renewal, Delaware franchise tax and the corporate tax return",
+          "seen_via": "search",
+          "step": 4,
+          "url": "https://sparklaun.ch/compare/stripe-atlas"
+        },
+        {
+          "note": "Reused from the old ladder (deck). Legal for a SAFE round was seen at $3,000-$7,000 (https://www.acevedoventurelaw.com/articles/how-much-does-startup-lawyer-cost/). Old fractional-CFO step dropped: a pre-seed founder rarely buys $5,000-$10,000 a month of CFO time.",
+          "price_text": "$2,000–$5,000",
+          "problem": "Pre-seed raise: pitch deck and model, SAFE terms, valuation and investor list",
+          "seen_via": "search",
+          "step": 5,
+          "url": "https://www.spectup.com/resource-hub/how-much-does-a-pitch-deck-cost"
+        },
+        {
+          "note": "Gusto Simple plan price seen on its pricing page after the March 2026 increase. Replaces the 'first hires' half of the old unpriced step. Old 'first customers and launch feedback' step dropped: not consistently a paid problem.",
+          "price_text": "Simple at $49 + $6/employee",
+          "problem": "First hires: run payroll and contractor payments",
+          "seen_via": "search",
+          "step": 6,
+          "url": "https://gusto.com/product/pricing"
+        }
+      ],
       "lens": "transition",
+      "name": "First-time founders setting up a company and raising a first round",
       "origin": "generated",
-      "who": "People who left or are leaving a job to start a software or online business, worldwide. In the first two years they incorporate, find first customers, and decide whether and how to raise a pre-seed round.",
+      "reasoning": "A clear event (starting a company) with public prices at the first steps and big forums. The fundraising step sits in the founder's strongest depth (valuation, deal documents). Prices for legal and deck help were not seen before the search budget ran out. Merged from first-time-founders-first-raise (Stage 1 dedupe): copied the r/startups and Indie Hackers places, the priced financial-model step and the pitch-deck price onto the raise step.",
+      "size": {
+        "reasoning": "[thin] No measured number was seen. Stripe Atlas and its competitors sell incorporation at scale and several large forums exist; the yearly pool is in the low hundreds of thousands at most.",
+        "tag": "estimate",
+        "unit": "first-time software founders incorporating per year, worldwide",
+        "value": 100000
+      },
+      "slug": "first-time-founders-pre-seed",
+      "venture_overlap": [],
       "where": [
         {
           "name": "r/indiehackers (Reddit; guide page seen)",
@@ -695,61 +787,51 @@
           "url": "https://www.indiehackers.com/"
         }
       ],
-      "who_pays": "The founder pays from savings for incorporation, legal templates and advice until investors fund the company.",
-      "size": {
-        "value": 100000,
-        "unit": "first-time software founders incorporating per year, worldwide",
-        "tag": "estimate",
-        "reasoning": "[thin] No measured number was seen. Stripe Atlas and its competitors sell incorporation at scale and several large forums exist; the yearly pool is in the low hundreds of thousands at most."
-      },
-      "ladder": [
-        {
-          "step": 1,
-          "problem": "Incorporation (US Delaware C-corp or LLC from anywhere)",
-          "price_text": "$500",
-          "url": "https://sparklaun.ch/compare/stripe-atlas"
-        },
-        {
-          "step": 2,
-          "problem": "Yearly compliance: registered agent renewal and Delaware franchise tax",
-          "price_text": "$100 Renewal",
-          "url": "https://sparklaun.ch/compare/stripe-atlas"
-        },
-        {
-          "step": 3,
-          "problem": "First customers and launch feedback"
-        },
-        {
-          "step": 4,
-          "problem": "Financial model and fractional CFO help",
-          "price_text": "$5,000 and $10,000 per month",
-          "url": "https://pilot.com/blog/fractional-cfo-cost-guide"
-        },
-        {
-          "step": 5,
-          "problem": "Pre-seed raise: pitch deck, SAFE terms, valuation and investor list",
-          "price_text": "$2,000–$5,000",
-          "url": "https://www.spectup.com/resource-hub/how-much-does-a-pitch-deck-cost"
-        },
-        {
-          "step": 6,
-          "problem": "Accounting, tax filings and first hires"
-        }
-      ],
+      "who": "People who left or are leaving a job to start a software or online business, worldwide. In the first two years they incorporate, find first customers, and decide whether and how to raise a pre-seed round.",
+      "who_pays": "The founder pays from savings for incorporation, legal templates and advice until investors fund the company."
+    },
+    {
+      "confidence": "low",
+      "duplicate_of": null,
       "geography": [
         "GLOBAL"
       ],
-      "venture_overlap": [],
-      "duplicate_of": null,
-      "reasoning": "A clear event (starting a company) with public prices at the first steps and big forums. The fundraising step sits in the founder's strongest depth (valuation, deal documents). Prices for legal and deck help were not seen before the search budget ran out. Merged from first-time-founders-first-raise (Stage 1 dedupe): copied the r/startups and Indie Hackers places, the priced financial-model step and the pitch-deck price onto the raise step.",
-      "confidence": "moderate"
-    },
-    {
-      "slug": "first-time-d2c-brand-founders",
-      "name": "People launching their first consumer product brand online",
+      "ladder": [
+        {
+          "problem": "Product sourcing and samples from a manufacturer",
+          "step": 1
+        },
+        {
+          "problem": "Store or seller account setup (Shopify plan, Amazon professional account)",
+          "step": 2
+        },
+        {
+          "problem": "Trademark filing and Amazon Brand Registry",
+          "step": 3
+        },
+        {
+          "problem": "Paid ads and creative, often through an agency",
+          "step": 4
+        },
+        {
+          "problem": "Fulfilment and returns (3PL or FBA)",
+          "step": 5
+        }
+      ],
       "lens": "transition",
+      "name": "People launching their first consumer product brand online",
       "origin": "generated",
-      "who": "First-time sellers worldwide launching a physical product brand on Shopify or Amazon in the next year: sourcing samples, setting up the store or seller account, trademark and brand registry, ads, and fulfilment.",
+      "reasoning": "[thin] A real transition with named gathering places, but no prices were seen before the search budget ran out, and all four places share one source URL. Kept because it touches the founder's perfume brand (v2) and the profession-lens perfumer room is only a subset of it.",
+      "size": {
+        "reasoning": "[thin] No measured number was seen. Four active subreddits serve this room; the yearly pool of first-time launches is in the tens of thousands.",
+        "tag": "estimate",
+        "unit": "first-time brand launches per year, worldwide",
+        "value": 50000
+      },
+      "slug": "first-time-d2c-brand-founders",
+      "venture_overlap": [
+        "v2"
+      ],
       "where": [
         {
           "name": "r/ecommerce (Reddit; listed on SubredditAnalyzer's ecommerce page)",
@@ -768,515 +850,497 @@
           "url": "https://www.subredditanalyzer.com/best-subreddits-for/ecommerce"
         }
       ],
-      "who_pays": "The founder pays from savings for samples, store fees, trademark filing, ads and agencies.",
-      "size": {
-        "value": 50000,
-        "unit": "first-time brand launches per year, worldwide",
-        "tag": "estimate",
-        "reasoning": "[thin] No measured number was seen. Four active subreddits serve this room; the yearly pool of first-time launches is in the tens of thousands."
-      },
-      "ladder": [
-        {
-          "step": 1,
-          "problem": "Product sourcing and samples from a manufacturer"
-        },
-        {
-          "step": 2,
-          "problem": "Store or seller account setup (Shopify plan, Amazon professional account)"
-        },
-        {
-          "step": 3,
-          "problem": "Trademark filing and Amazon Brand Registry"
-        },
-        {
-          "step": 4,
-          "problem": "Paid ads and creative, often through an agency"
-        },
-        {
-          "step": 5,
-          "problem": "Fulfilment and returns (3PL or FBA)"
-        }
-      ],
-      "geography": [
-        "GLOBAL"
-      ],
-      "venture_overlap": [
-        "v2"
-      ],
-      "duplicate_of": null,
-      "reasoning": "[thin] A real transition with named gathering places, but no prices were seen before the search budget ran out, and all four places share one source URL. Kept because it touches the founder's perfume brand (v2) and the profession-lens perfumer room is only a subset of it.",
-      "confidence": "low"
+      "who": "First-time sellers worldwide launching a physical product brand on Shopify or Amazon in the next year: sourcing samples, setting up the store or seller account, trademark and brand registry, ads, and fulfilment.",
+      "who_pays": "The founder pays from savings for samples, store fees, trademark filing, ads and agencies."
     },
     {
-      "slug": "indians-moving-uae-jobs",
-      "name": "Indians moving to the UAE for white-collar jobs",
-      "lens": "transition",
-      "origin": "generated",
-      "who": "Indian graduates and mid-career professionals in sales, IT, finance, hospitality, admin and marketing who are hunting for a UAE employer in the next 6 to 12 months. Many fly to Dubai on a visit or job-seeker visa to interview in person. Once hired they get degrees attested, the employment visa and Emirates ID, a first flat, a bank account and a way to send money home.",
-      "where": [
-        {
-          "name": "r/dubaijobs (Reddit; stats page seen: 42,471 members)",
-          "url": "https://reddapi.dev/subreddits/dubaijobs/insights",
-          "seen_via": "search"
-        },
-        {
-          "name": "r/dubai (Reddit; stats page seen: 567,170 members)",
-          "url": "https://reddapi.dev/subreddits/dubai/insights",
-          "seen_via": "search"
-        },
-        {
-          "name": "Quora: I came to Dubai on a visit visa for a month, how can I get a job?",
-          "url": "https://www.quora.com/I-came-to-Dubai-on-a-visit-visa-for-a-month-How-can-I-get-a-job",
-          "seen_via": "search"
-        },
-        {
-          "name": "Quora: can I take a job seeker visa for Dubai without leaving my current job in India?",
-          "url": "https://www.quora.com/Can-I-take-a-job-seeker-visa-for-Dubai-without-living-a-current-job-in-India-Will-I-be-able-to-work-while-searching-for-jobs-in-the-UAE",
-          "seen_via": "search"
-        },
-        {
-          "name": "Tripadvisor Dubai forum thread: Job Situation",
-          "url": "https://www.tripadvisor.in/ShowTopic-g295424-i872-k998342-Job_Situation-Dubai_Emirate_of_Dubai.html",
-          "seen_via": "search"
-        },
-        {
-          "name": "Gumroad listing: Dubai/UAE jobs guide (a marketplace this room buys from)",
-          "url": "https://mushenee.gumroad.com/l/DubaiUAEJobsGuide",
-          "seen_via": "search"
-        }
-      ],
-      "who_pays": "The job-seeker pays the visit or job-seeker visa, flights, attestation, CV help and the first weeks in Dubai from savings. By UAE law the employer pays the employment visa, medical test and Emirates ID.",
-      "size": {
-        "value": 42471,
-        "unit": "r/dubaijobs members (all nationalities)",
-        "tag": "measured",
-        "url": "https://reddapi.dev/subreddits/dubaijobs/insights",
-        "reasoning": "Seen in a search result for the r/dubaijobs stats page. A Gulf News headline seen in search puts the Indian community in the UAE at 4.36 million (https://gulfnews.com/uae/people/indian-expat-population-in-uae-doubles-to-436-million-more-than-half-live-in-dubai-envoys-1.500129223), so the yearly flow of Indian job movers is far larger than this forum."
-      },
-      "ladder": [
-        {
-          "step": 1,
-          "problem": "Visit visa to job-hunt in person (travel-agent price seen)",
-          "price_text": "Rs.3,499",
-          "url": "https://www.akbartravels.com/visa/dubai-visa",
-          "seen_via": "search"
-        },
-        {
-          "step": 2,
-          "problem": "Degree certificate attestation (HRD, MEA, UAE embassy, MOFA) for the employment visa",
-          "price_text": "AED 700 to AED 1,200",
-          "url": "https://quickattest.com/blog/degree-attestation-uae-cost/",
-          "seen_via": "search"
-        },
-        {
-          "step": 3,
-          "problem": "Gulf-format CV, job-portal profiles and recruiter follow-ups (no price seen)",
-          "price_text": null
-        },
-        {
-          "step": 4,
-          "problem": "Employment visa, medical test and Emirates ID (employer pays by law)",
-          "price_text": "AED 3,500-6,000",
-          "url": "https://setupdubai.business/2-year-dubai-employment-visa-price/",
-          "seen_via": "search"
-        },
-        {
-          "step": 5,
-          "problem": "Landing setup: flat deposit, bank account, remittances home (no price seen)",
-          "price_text": null
-        },
-        {
-          "step": 6,
-          "problem": "Family sponsorship visa and school admission for children (no price seen)",
-          "price_text": null
-        }
-      ],
+      "confidence": "moderate",
+      "duplicate_of": null,
       "geography": [
         "AE",
         "IN"
       ],
-      "venture_overlap": [],
-      "duplicate_of": null,
-      "reasoning": "One shared move, one shared paperwork chain and two big Reddit rooms plus Quora threads where people ask the same questions. Prices for the visa, attestation and employment visa are public. Overlaps with the gap-pass room engineers-relocating-gulf-energy-jobs, but that room is engineers in energy and construction across the Gulf on expat forums; this one is every white-collar field, UAE only, gathering on Reddit and Quora. Job search and immigration are not on the ledger's depth list, so Stage 2 may cut it; reach is search (they buy visas and guides online).",
-      "confidence": "moderate"
-    },
-    {
-      "slug": "canada-express-entry-applicants",
-      "name": "Skilled workers applying to Canada through Express Entry",
-      "lens": "transition",
-      "origin": "generated",
-      "who": "Skilled workers worldwide, with India the largest source, who are building or holding an Express Entry profile for Canadian permanent residence over the next 12 to 18 months: language test, credential assessment, raising the CRS score, waiting for an invitation, then filing the PR application within 60 days, medicals, proof of funds and landing.",
-      "where": [
-        {
-          "name": "CanadaVisa forum, Express Entry section (99.6K threads, 1.7M messages seen)",
-          "url": "https://www.canadavisa.com/canada-immigration-discussion-board/forums/express-entry-expression-of-interest.54/",
-          "seen_via": "search"
-        },
-        {
-          "name": "CanadaVisa Canada Immigration Forum (main board)",
-          "url": "https://www.canadavisa.com/canada-immigration-discussion-board/",
-          "seen_via": "search"
-        },
-        {
-          "name": "Canada Immigration Forum (canadaimmigrationforum.ca)",
-          "url": "https://canadaimmigrationforum.ca/",
-          "seen_via": "search"
-        },
-        {
-          "name": "Immigroup Immigration Forum",
-          "url": "https://www.immigroup.com/forum/",
-          "seen_via": "search"
-        },
-        {
-          "name": "thevisa.ca Express Entry to Canada discussion board",
-          "url": "https://thevisa.ca/canada-immigration-law-discussion-board/express-entry-to-canada-f4/",
-          "seen_via": "search"
-        }
-      ],
-      "who_pays": "The applicant pays the language test, credential assessment, government fees and any consultant from savings. Nobody else pays.",
-      "size": {
-        "value": 114865,
-        "unit": "Express Entry invitations to apply issued in 2026 (a record, at the time of the article)",
-        "tag": "measured",
-        "url": "https://immigration.ca/express-entry-sets-new-annual-ita-record-2026/",
-        "reasoning": "Seen in a search result headline. A later headline seen in the same search says 2026 invitations crossed 131,000 (https://www.eiffelimmigration.com/express-entry-invitations-2026/). The pool of profiles waiting for an invitation is larger than the number invited."
-      },
       "ladder": [
         {
+          "price_text": "Rs.3,499",
+          "problem": "Visit visa to job-hunt in person (travel-agent price seen)",
+          "seen_via": "search",
           "step": 1,
-          "problem": "Language test (IELTS; India fee seen)",
-          "price_text": "₹19,000",
-          "url": "https://www.pw.live/study-abroad/ielts/exams/ielts-exam-fees",
-          "seen_via": "search"
+          "url": "https://www.akbartravels.com/visa/dubai-visa"
         },
         {
+          "price_text": "AED 700 to AED 1,200",
+          "problem": "Degree certificate attestation (HRD, MEA, UAE embassy, MOFA) for the employment visa",
+          "seen_via": "search",
           "step": 2,
-          "problem": "Educational credential assessment (WES ECA)",
-          "price_text": "$264 CAD",
-          "url": "https://www.wes.org/ca/evaluations-and-fees/eca/",
-          "seen_via": "search"
+          "url": "https://quickattest.com/blog/degree-attestation-uae-cost/"
         },
         {
-          "step": 3,
-          "problem": "Profile strategy and CRS improvement, often through a regulated consultant (RCIC)",
-          "price_text": "$3,300",
-          "url": "https://cipcanada.com/pricing/",
-          "seen_via": "search"
+          "price_text": null,
+          "problem": "Gulf-format CV, job-portal profiles and recruiter follow-ups (no price seen)",
+          "step": 3
         },
         {
+          "price_text": "AED 3,500-6,000",
+          "problem": "Employment visa, medical test and Emirates ID (employer pays by law)",
+          "seen_via": "search",
           "step": 4,
-          "problem": "PR application after the invitation: right of permanent residence fee (plus the processing fee)",
-          "price_text": "$600",
-          "url": "https://www.cicnews.com/2026/04/canada-hikes-permanent-resident-fees-0474769.html",
-          "seen_via": "search"
+          "url": "https://setupdubai.business/2-year-dubai-employment-visa-price/"
         },
         {
-          "step": 5,
-          "problem": "Biometrics, medical exam and police certificates",
-          "price_text": "$85",
-          "url": "https://www.cicnews.com/2025/11/how-much-does-it-cost-to-immigrate-through-express-entry-1162232.html",
-          "seen_via": "search"
+          "price_text": null,
+          "problem": "Landing setup: flat deposit, bank account, remittances home (no price seen)",
+          "step": 5
         },
         {
-          "step": 6,
-          "problem": "Landing: proof of funds, first Canadian job, housing and credit history (no price seen)",
-          "price_text": null
+          "price_text": null,
+          "problem": "Family sponsorship visa and school admission for children (no price seen)",
+          "step": 6
         }
       ],
+      "lens": "transition",
+      "name": "Indians moving to the UAE for white-collar jobs",
+      "origin": "generated",
+      "reasoning": "One shared move, one shared paperwork chain and two big Reddit rooms plus Quora threads where people ask the same questions. Prices for the visa, attestation and employment visa are public. Overlaps with the gap-pass room engineers-relocating-gulf-energy-jobs, but that room is engineers in energy and construction across the Gulf on expat forums; this one is every white-collar field, UAE only, gathering on Reddit and Quora. Job search and immigration are not on the ledger's depth list, so Stage 2 may cut it; reach is search (they buy visas and guides online).",
+      "size": {
+        "reasoning": "Seen in a search result for the r/dubaijobs stats page. A Gulf News headline seen in search puts the Indian community in the UAE at 4.36 million (https://gulfnews.com/uae/people/indian-expat-population-in-uae-doubles-to-436-million-more-than-half-live-in-dubai-envoys-1.500129223), so the yearly flow of Indian job movers is far larger than this forum.",
+        "tag": "measured",
+        "unit": "r/dubaijobs members (all nationalities)",
+        "url": "https://reddapi.dev/subreddits/dubaijobs/insights",
+        "value": 42471
+      },
+      "slug": "indians-moving-uae-jobs",
+      "venture_overlap": [],
+      "where": [
+        {
+          "name": "r/dubaijobs (Reddit; stats page seen: 42,471 members)",
+          "seen_via": "search",
+          "url": "https://reddapi.dev/subreddits/dubaijobs/insights"
+        },
+        {
+          "name": "r/dubai (Reddit; stats page seen: 567,170 members)",
+          "seen_via": "search",
+          "url": "https://reddapi.dev/subreddits/dubai/insights"
+        },
+        {
+          "name": "Quora: I came to Dubai on a visit visa for a month, how can I get a job?",
+          "seen_via": "search",
+          "url": "https://www.quora.com/I-came-to-Dubai-on-a-visit-visa-for-a-month-How-can-I-get-a-job"
+        },
+        {
+          "name": "Quora: can I take a job seeker visa for Dubai without leaving my current job in India?",
+          "seen_via": "search",
+          "url": "https://www.quora.com/Can-I-take-a-job-seeker-visa-for-Dubai-without-living-a-current-job-in-India-Will-I-be-able-to-work-while-searching-for-jobs-in-the-UAE"
+        },
+        {
+          "name": "Tripadvisor Dubai forum thread: Job Situation",
+          "seen_via": "search",
+          "url": "https://www.tripadvisor.in/ShowTopic-g295424-i872-k998342-Job_Situation-Dubai_Emirate_of_Dubai.html"
+        },
+        {
+          "name": "Gumroad listing: Dubai/UAE jobs guide (a marketplace this room buys from)",
+          "seen_via": "search",
+          "url": "https://mushenee.gumroad.com/l/DubaiUAEJobsGuide"
+        }
+      ],
+      "who": "Indian graduates and mid-career professionals in sales, IT, finance, hospitality, admin and marketing who are hunting for a UAE employer in the next 6 to 12 months. Many fly to Dubai on a visit or job-seeker visa to interview in person. Once hired they get degrees attested, the employment visa and Emirates ID, a first flat, a bank account and a way to send money home.",
+      "who_pays": "The job-seeker pays the visit or job-seeker visa, flights, attestation, CV help and the first weeks in Dubai from savings. By UAE law the employer pays the employment visa, medical test and Emirates ID."
+    },
+    {
+      "confidence": "moderate",
+      "duplicate_of": null,
       "geography": [
         "CA",
         "IN",
         "GLOBAL"
       ],
-      "venture_overlap": [],
-      "duplicate_of": null,
-      "reasoning": "One shared queue (the Express Entry pool), one shared clock (60 days to file after an invitation), the largest immigration forum online, and fixed public fees at every step. Immigration is not on the ledger's depth list, so Stage 2 may cut it; reach is search (they buy tests, assessments and consultants online). Many are the same Indian engineers who use the founder's GRE product a few years earlier.",
-      "confidence": "moderate"
-    },
-    {
-      "slug": "nris-returning-to-india",
-      "name": "NRIs moving back to India after years abroad",
-      "lens": "transition",
-      "origin": "generated",
-      "who": "Indians in the US, UK, Canada, Gulf and Singapore who have decided to move back to India in the next 6 to 18 months, often for ageing parents, visa fatigue or children's schooling. They must time RNOR tax status, decide what to do with foreign assets and retirement accounts, ship household goods, pick a city and school, convert bank accounts, and find a job or transfer in India.",
-      "where": [
-        {
-          "name": "r/returntoindia (Reddit; stats page seen: 39,477 members)",
-          "url": "https://reddapi.dev/subreddits/returntoindia/insights",
-          "seen_via": "search"
-        },
-        {
-          "name": "R2IClubForums (return-to-India forum, home page)",
-          "url": "https://r2iclubforums.com/",
-          "seen_via": "search"
-        },
-        {
-          "name": "R2IClubForums: Return To India (R2I) topics board",
-          "url": "https://r2iclubforums.com/viewforum.php?f=1&start=0",
-          "seen_via": "search"
-        },
-        {
-          "name": "Blind: search results for ReturntoIndia",
-          "url": "https://www.teamblind.com/search/ReturntoIndia",
-          "seen_via": "search"
-        },
-        {
-          "name": "Blind thread: Indians who moved back to India",
-          "url": "https://www.teamblind.com/post/indians-who-moved-back-to-india-yjmkvgab",
-          "seen_via": "search"
-        },
-        {
-          "name": "Blind thread: To NRIs in mid 30s",
-          "url": "https://www.teamblind.com/post/to-nris-in-mid-30s-irut005r",
-          "seen_via": "search"
-        }
-      ],
-      "who_pays": "The returning family pays from savings for tax advice, shipping, school fees and housing. Some employers pay relocation for an intra-company transfer.",
-      "size": {
-        "value": 39477,
-        "unit": "r/returntoindia members",
-        "tag": "measured",
-        "url": "https://reddapi.dev/subreddits/returntoindia/insights",
-        "reasoning": "Seen in a search result for the r/returntoindia stats page. R2IClubForums and Blind threads add more people; the yearly number who actually move was not measured this run."
-      },
       "ladder": [
         {
+          "price_text": "₹19,000",
+          "problem": "Language test (IELTS; India fee seen)",
+          "seen_via": "search",
           "step": 1,
-          "problem": "Pre-move tax planning with an NRI chartered accountant: RNOR timing, 401(k)/foreign assets, DTAA",
-          "price_text": "$110",
-          "url": "https://indiafornri.com/tax/india",
-          "seen_via": "search"
+          "url": "https://www.pw.live/study-abroad/ielts/exams/ielts-exam-fees"
         },
         {
+          "price_text": "$264 CAD",
+          "problem": "Educational credential assessment (WES ECA)",
+          "seen_via": "search",
           "step": 2,
-          "problem": "Shipping household goods by sea",
-          "price_text": "$3,000 to $8,000",
-          "url": "https://www.sflworldwide.com/blog/shipping-household-goods-from-usa-to-india-guide",
-          "seen_via": "search"
+          "url": "https://www.wes.org/ca/evaluations-and-fees/eca/"
         },
         {
+          "price_text": "$3,300",
+          "problem": "Profile strategy and CRS improvement, often through a regulated consultant (RCIC)",
+          "seen_via": "search",
           "step": 3,
-          "problem": "School admission for children at an international school (mid-range Bangalore fees seen)",
-          "price_text": "INR 3L–8L/year",
-          "url": "https://www.tutopiya.com/blog/international-school-fees/international-school-fees-bangalore-guide/",
-          "seen_via": "search"
+          "url": "https://cipcanada.com/pricing/"
         },
         {
+          "price_text": "$600",
+          "problem": "PR application after the invitation: right of permanent residence fee (plus the processing fee)",
+          "seen_via": "search",
           "step": 4,
-          "problem": "First-year filings in India: bank account conversion (NRE/NRO to resident, RFC), Indian return and foreign asset disclosure (no price seen)",
-          "price_text": null
+          "url": "https://www.cicnews.com/2026/04/canada-hikes-permanent-resident-fees-0474769.html"
         },
         {
+          "price_text": "$85",
+          "problem": "Biometrics, medical exam and police certificates",
+          "seen_via": "search",
           "step": 5,
-          "problem": "Job search or intra-company transfer to India and salary negotiation (no price seen)",
-          "price_text": null
+          "url": "https://www.cicnews.com/2025/11/how-much-does-it-cost-to-immigrate-through-express-entry-1162232.html"
         },
         {
-          "step": 6,
-          "problem": "Housing: buy or rent, and setting up the household (no price seen)",
-          "price_text": null
+          "price_text": null,
+          "problem": "Landing: proof of funds, first Canadian job, housing and credit history (no price seen)",
+          "step": 6
         }
       ],
+      "lens": "transition",
+      "name": "Skilled workers applying to Canada through Express Entry",
+      "origin": "generated",
+      "reasoning": "One shared queue (the Express Entry pool), one shared clock (60 days to file after an invitation), the largest immigration forum online, and fixed public fees at every step. Immigration is not on the ledger's depth list, so Stage 2 may cut it; reach is search (they buy tests, assessments and consultants online). Many are the same Indian engineers who use the founder's GRE product a few years earlier.",
+      "size": {
+        "reasoning": "Seen in a search result headline. A later headline seen in the same search says 2026 invitations crossed 131,000 (https://www.eiffelimmigration.com/express-entry-invitations-2026/). The pool of profiles waiting for an invitation is larger than the number invited.",
+        "tag": "measured",
+        "unit": "Express Entry invitations to apply issued in 2026 (a record, at the time of the article)",
+        "url": "https://immigration.ca/express-entry-sets-new-annual-ita-record-2026/",
+        "value": 114865
+      },
+      "slug": "canada-express-entry-applicants",
+      "venture_overlap": [],
+      "where": [
+        {
+          "name": "CanadaVisa forum, Express Entry section (99.6K threads, 1.7M messages seen)",
+          "seen_via": "search",
+          "url": "https://www.canadavisa.com/canada-immigration-discussion-board/forums/express-entry-expression-of-interest.54/"
+        },
+        {
+          "name": "CanadaVisa Canada Immigration Forum (main board)",
+          "seen_via": "search",
+          "url": "https://www.canadavisa.com/canada-immigration-discussion-board/"
+        },
+        {
+          "name": "Canada Immigration Forum (canadaimmigrationforum.ca)",
+          "seen_via": "search",
+          "url": "https://canadaimmigrationforum.ca/"
+        },
+        {
+          "name": "Immigroup Immigration Forum",
+          "seen_via": "search",
+          "url": "https://www.immigroup.com/forum/"
+        },
+        {
+          "name": "thevisa.ca Express Entry to Canada discussion board",
+          "seen_via": "search",
+          "url": "https://thevisa.ca/canada-immigration-law-discussion-board/express-entry-to-canada-f4/"
+        }
+      ],
+      "who": "Skilled workers worldwide, with India the largest source, who are building or holding an Express Entry profile for Canadian permanent residence over the next 12 to 18 months: language test, credential assessment, raising the CRS score, waiting for an invitation, then filing the PR application within 60 days, medicals, proof of funds and landing.",
+      "who_pays": "The applicant pays the language test, credential assessment, government fees and any consultant from savings. Nobody else pays."
+    },
+    {
+      "confidence": "moderate",
+      "duplicate_of": null,
       "geography": [
         "IN",
         "US",
         "GLOBAL"
       ],
-      "venture_overlap": [],
-      "duplicate_of": null,
-      "reasoning": "A one-time move with a fixed order of paid problems (tax timing, shipping, schools, housing) and dedicated forums where people ask the same questions. Distinct from the obligation-lens room nri-indian-tax-filers, which is NRIs staying abroad and filing every year. Tax and relocation are not on the ledger's depth list, so Stage 2 may cut it; reach is search (they buy CA consultations and movers online). Many are the founder's GRE users ten years on.",
-      "confidence": "moderate"
-    },
-    {
-      "slug": "skilled-workers-relocating-germany",
-      "name": "Skilled workers relocating to Germany on a Blue Card or skilled-worker visa",
-      "lens": "transition",
-      "origin": "generated",
-      "who": "Engineers, IT staff, nurses and other professionals, with Indians the largest group, who hold or are chasing a German job offer. In the 6 to 12 months around the move they must get their degree recognised, learn enough German, get the visa and residence permit, find a flat, register their address, get health insurance and bring family.",
-      "where": [
-        {
-          "name": "r/germany (Reddit; stats page seen: 1,163,456 members)",
-          "url": "https://reddapi.dev/subreddits/germany/insights",
-          "seen_via": "search"
-        },
-        {
-          "name": "r/cscareerquestionsEU (Reddit; stats page seen: 176,168 members)",
-          "url": "https://reddapi.dev/subreddits/cscareerquestionseu/insights",
-          "seen_via": "search"
-        },
-        {
-          "name": "Toytown Germany: Visas/permits forum",
-          "url": "https://www.toytowngermany.com/forum/forum/180-visaspermits/",
-          "seen_via": "search"
-        },
-        {
-          "name": "Expat.com Germany forum",
-          "url": "https://www.expat.com/en/forum/europe/germany/",
-          "seen_via": "search"
-        },
-        {
-          "name": "ExpatForum.com Germany forum",
-          "url": "https://www.expatforum.com/forums/germany-expat-forum-for-expats-living-in-germany.125/",
-          "seen_via": "search"
-        },
-        {
-          "name": "Expat Exchange Germany forum",
-          "url": "https://www.expatexchange.com/germany/liveingermany.html",
-          "seen_via": "search"
-        }
-      ],
-      "who_pays": "The worker pays language courses, degree recognition, visa fees, translations and the first flat from savings. Some employers pay relocation and the fast-track procedure.",
-      "size": {
-        "value": 41000,
-        "unit": "EU Blue Cards issued for the first time in Germany in 2023",
-        "tag": "measured",
-        "url": "https://www.bamf.de/EN/Themen/Statistik/BlaueKarteEU/blauekarteeu-node.html",
-        "reasoning": "Seen in a search result for the BAMF Blue Card statistics page, which also says more than a quarter went to Indian nationals. A subset of the room: skilled-worker visas and Opportunity Card holders are not counted."
-      },
       "ladder": [
         {
+          "price_text": "$110",
+          "problem": "Pre-move tax planning with an NRI chartered accountant: RNOR timing, 401(k)/foreign assets, DTAA",
+          "seen_via": "search",
           "step": 1,
-          "problem": "German language course and exam before or after arrival (Goethe A1 exam fee in India seen)",
-          "price_text": "INR 7,500",
-          "url": "https://deutschexam.ai/blog/goethe-a1-cost-in-inr-2026-full-indian-pricing-breakdown/",
-          "seen_via": "search"
+          "url": "https://indiafornri.com/tax/india"
         },
         {
+          "price_text": "$3,000 to $8,000",
+          "problem": "Shipping household goods by sea",
+          "seen_via": "search",
           "step": 2,
-          "problem": "Degree recognition: ZAB Statement of Comparability when the Anabin database is not enough",
-          "price_text": "€208",
-          "url": "https://chatscontrol.com/blog/zeugnisbewertung-zab-cost-processing-time-germany",
-          "seen_via": "search"
+          "url": "https://www.sflworldwide.com/blog/shipping-household-goods-from-usa-to-india-guide"
         },
         {
+          "price_text": "INR 3L–8L/year",
+          "problem": "School admission for children at an international school (mid-range Bangalore fees seen)",
+          "seen_via": "search",
           "step": 3,
-          "problem": "National visa at the embassy, then the Blue Card residence permit in Germany",
-          "price_text": "€75",
-          "url": "https://www.jobbatical.com/faq/blue-card-costs-germany",
-          "seen_via": "search"
+          "url": "https://www.tutopiya.com/blog/international-school-fees/international-school-fees-bangalore-guide/"
         },
         {
-          "step": 4,
-          "problem": "First month: finding a flat, address registration, health insurance, bank account (no price seen)",
-          "price_text": null
+          "price_text": null,
+          "problem": "First-year filings in India: bank account conversion (NRE/NRO to resident, RFC), Indian return and foreign asset disclosure (no price seen)",
+          "step": 4
         },
         {
-          "step": 5,
-          "problem": "Family reunion visa and the spouse's job search (no price seen)",
-          "price_text": null
+          "price_text": null,
+          "problem": "Job search or intra-company transfer to India and salary negotiation (no price seen)",
+          "step": 5
         },
         {
-          "step": 6,
-          "problem": "Settlement permit (permanent residence) after 21 to 33 months (no price seen)",
-          "price_text": null
+          "price_text": null,
+          "problem": "Housing: buy or rent, and setting up the household (no price seen)",
+          "step": 6
         }
       ],
+      "lens": "transition",
+      "name": "NRIs moving back to India after years abroad",
+      "origin": "generated",
+      "reasoning": "A one-time move with a fixed order of paid problems (tax timing, shipping, schools, housing) and dedicated forums where people ask the same questions. Distinct from the obligation-lens room nri-indian-tax-filers, which is NRIs staying abroad and filing every year. Tax and relocation are not on the ledger's depth list, so Stage 2 may cut it; reach is search (they buy CA consultations and movers online). Many are the founder's GRE users ten years on.",
+      "size": {
+        "reasoning": "Seen in a search result for the r/returntoindia stats page. R2IClubForums and Blind threads add more people; the yearly number who actually move was not measured this run.",
+        "tag": "measured",
+        "unit": "r/returntoindia members",
+        "url": "https://reddapi.dev/subreddits/returntoindia/insights",
+        "value": 39477
+      },
+      "slug": "nris-returning-to-india",
+      "venture_overlap": [],
+      "where": [
+        {
+          "name": "r/returntoindia (Reddit; stats page seen: 39,477 members)",
+          "seen_via": "search",
+          "url": "https://reddapi.dev/subreddits/returntoindia/insights"
+        },
+        {
+          "name": "R2IClubForums (return-to-India forum, home page)",
+          "seen_via": "search",
+          "url": "https://r2iclubforums.com/"
+        },
+        {
+          "name": "R2IClubForums: Return To India (R2I) topics board",
+          "seen_via": "search",
+          "url": "https://r2iclubforums.com/viewforum.php?f=1&start=0"
+        },
+        {
+          "name": "Blind: search results for ReturntoIndia",
+          "seen_via": "search",
+          "url": "https://www.teamblind.com/search/ReturntoIndia"
+        },
+        {
+          "name": "Blind thread: Indians who moved back to India",
+          "seen_via": "search",
+          "url": "https://www.teamblind.com/post/indians-who-moved-back-to-india-yjmkvgab"
+        },
+        {
+          "name": "Blind thread: To NRIs in mid 30s",
+          "seen_via": "search",
+          "url": "https://www.teamblind.com/post/to-nris-in-mid-30s-irut005r"
+        }
+      ],
+      "who": "Indians in the US, UK, Canada, Gulf and Singapore who have decided to move back to India in the next 6 to 18 months, often for ageing parents, visa fatigue or children's schooling. They must time RNOR tax status, decide what to do with foreign assets and retirement accounts, ship household goods, pick a city and school, convert bank accounts, and find a job or transfer in India.",
+      "who_pays": "The returning family pays from savings for tax advice, shipping, school fees and housing. Some employers pay relocation for an intra-company transfer."
+    },
+    {
+      "confidence": "moderate",
+      "duplicate_of": null,
       "geography": [
         "DE",
         "IN",
         "GLOBAL"
       ],
-      "venture_overlap": [],
-      "duplicate_of": null,
-      "reasoning": "Same paperwork sequence in the same order, fixed government fees, a measured count of arrivals, and very large forums. Immigration and relocation are not on the ledger's depth list, so Stage 2 may cut it; reach is search (they buy language courses, recognition and relocation help online).",
-      "confidence": "moderate"
-    },
-    {
-      "slug": "sat-us-undergrad-india",
-      "name": "Indian high-schoolers taking the SAT for a US undergraduate degree",
-      "lens": "transition",
-      "origin": "generated",
-      "who": "Class 11 and 12 students in India, and their parents, planning a US bachelor's degree: SAT prep and test dates, school shortlisting, Common App essays, financial aid, then the F-1 visa and paying for a degree that costs several lakh rupees a year. Application deadlines run from November (early) to January (regular).",
-      "where": [
-        {
-          "name": "r/Sat (Reddit; stats page seen: 679,369 members)",
-          "url": "https://reddapi.dev/subreddits/sat/insights",
-          "seen_via": "search"
-        },
-        {
-          "name": "r/Sat (GummySearch stats page)",
-          "url": "https://gummysearch.com/r/Sat/",
-          "seen_via": "search"
-        },
-        {
-          "name": "College Confidential: International Students forum",
-          "url": "https://talk.collegeconfidential.com/c/international-students/55",
-          "seen_via": "search"
-        },
-        {
-          "name": "College Confidential thread: Match me, international student (India), SAT 1550, seeking full-ride CS programs",
-          "url": "https://talk.collegeconfidential.com/t/match-me-pls-international-student-india-sat-1550-high-financial-need-seeking-full-ride-cs-programs/3692982",
-          "seen_via": "search"
-        },
-        {
-          "name": "College Confidential thread: India or USA (for undergrad)",
-          "url": "https://talk.collegeconfidential.com/t/india-or-usa-for-undergrad/1875704",
-          "seen_via": "search"
-        },
-        {
-          "name": "Quora: How much would SAT coaching for 2 years cost in India?",
-          "url": "https://www.quora.com/How-much-would-SAT-coaching-for-2-years-cost-in-India",
-          "seen_via": "search"
-        }
-      ],
-      "who_pays": "Parents pay coaching, the exam, counsellors and application fees up front. Banks and lenders fund the degree; some students get aid from the university.",
-      "size": {
-        "value": 25000,
-        "unit": "Indian students taking the SAT per year",
-        "tag": "measured",
-        "url": "https://www.tutelaprep.com/blog/why-is-the-sat-exam-booming-in-india/",
-        "reasoning": "Seen in a search result for a coaching company's blog that cites College Board data (over 25,000 a year). r/Sat has 679,369 members worldwide (https://reddapi.dev/subreddits/sat/insights). Not every Indian test-taker applies to the US; the same page says over 45 Indian universities now accept SAT scores."
-      },
       "ladder": [
         {
+          "price_text": "INR 7,500",
+          "problem": "German language course and exam before or after arrival (Goethe A1 exam fee in India seen)",
+          "seen_via": "search",
           "step": 1,
-          "problem": "SAT coaching, classroom or online (Mumbai range seen)",
-          "price_text": "₹20,000 to ₹60,000",
-          "url": "https://collegedunia.com/exams/sat/sat-preparation-classes-in-mumbai",
-          "seen_via": "search"
+          "url": "https://deutschexam.ai/blog/goethe-a1-cost-in-inr-2026-full-indian-pricing-breakdown/"
         },
         {
+          "price_text": "€208",
+          "problem": "Degree recognition: ZAB Statement of Comparability when the Anabin database is not enough",
+          "seen_via": "search",
           "step": 2,
-          "problem": "SAT registration from India (base fee plus international fee and GST)",
-          "price_text": "$130.98 (~₹12,548)",
-          "url": "https://eecglobal.com/blog/sat-fee-india-2026",
-          "seen_via": "search"
+          "url": "https://chatscontrol.com/blog/zeugnisbewertung-zab-cost-processing-time-germany"
         },
         {
+          "price_text": "€75",
+          "problem": "National visa at the embassy, then the Blue Card residence permit in Germany",
+          "seen_via": "search",
           "step": 3,
-          "problem": "College counselling, shortlisting and application essays",
-          "price_text": "INR 30,000 and INR 1.5 lakh",
-          "url": "https://leapscholar.com/blog/how-much-do-study-abroad-consultants-charge-in-india/",
-          "seen_via": "search"
+          "url": "https://www.jobbatical.com/faq/blue-card-costs-germany"
         },
         {
-          "step": 4,
-          "problem": "Paying for the degree: tuition and living costs, usually with an education loan",
-          "price_text": "₹25L–₹80L",
-          "url": "https://wp.eduquest.org.in/cost-of-studying-in-usa-from-india/",
-          "seen_via": "search"
+          "price_text": null,
+          "problem": "First month: finding a flat, address registration, health insurance, bank account (no price seen)",
+          "step": 4
         },
         {
-          "step": 5,
-          "problem": "F-1 visa interview and pre-departure setup (no price seen)",
-          "price_text": null
+          "price_text": null,
+          "problem": "Family reunion visa and the spouse's job search (no price seen)",
+          "step": 5
         },
         {
-          "step": 6,
-          "problem": "On campus: internships, transfers and OPT after graduating (no price seen)",
-          "price_text": null
+          "price_text": null,
+          "problem": "Settlement permit (permanent residence) after 21 to 33 months (no price seen)",
+          "step": 6
         }
       ],
+      "lens": "transition",
+      "name": "Skilled workers relocating to Germany on a Blue Card or skilled-worker visa",
+      "origin": "generated",
+      "reasoning": "Same paperwork sequence in the same order, fixed government fees, a measured count of arrivals, and very large forums. Immigration and relocation are not on the ledger's depth list, so Stage 2 may cut it; reach is search (they buy language courses, recognition and relocation help online).",
+      "size": {
+        "reasoning": "Seen in a search result for the BAMF Blue Card statistics page, which also says more than a quarter went to Indian nationals. A subset of the room: skilled-worker visas and Opportunity Card holders are not counted.",
+        "tag": "measured",
+        "unit": "EU Blue Cards issued for the first time in Germany in 2023",
+        "url": "https://www.bamf.de/EN/Themen/Statistik/BlaueKarteEU/blauekarteeu-node.html",
+        "value": 41000
+      },
+      "slug": "skilled-workers-relocating-germany",
+      "venture_overlap": [],
+      "where": [
+        {
+          "name": "r/germany (Reddit; stats page seen: 1,163,456 members)",
+          "seen_via": "search",
+          "url": "https://reddapi.dev/subreddits/germany/insights"
+        },
+        {
+          "name": "r/cscareerquestionsEU (Reddit; stats page seen: 176,168 members)",
+          "seen_via": "search",
+          "url": "https://reddapi.dev/subreddits/cscareerquestionseu/insights"
+        },
+        {
+          "name": "Toytown Germany: Visas/permits forum",
+          "seen_via": "search",
+          "url": "https://www.toytowngermany.com/forum/forum/180-visaspermits/"
+        },
+        {
+          "name": "Expat.com Germany forum",
+          "seen_via": "search",
+          "url": "https://www.expat.com/en/forum/europe/germany/"
+        },
+        {
+          "name": "ExpatForum.com Germany forum",
+          "seen_via": "search",
+          "url": "https://www.expatforum.com/forums/germany-expat-forum-for-expats-living-in-germany.125/"
+        },
+        {
+          "name": "Expat Exchange Germany forum",
+          "seen_via": "search",
+          "url": "https://www.expatexchange.com/germany/liveingermany.html"
+        }
+      ],
+      "who": "Engineers, IT staff, nurses and other professionals, with Indians the largest group, who hold or are chasing a German job offer. In the 6 to 12 months around the move they must get their degree recognised, learn enough German, get the visa and residence permit, find a flat, register their address, get health insurance and bring family.",
+      "who_pays": "The worker pays language courses, degree recognition, visa fees, translations and the first flat from savings. Some employers pay relocation and the fast-track procedure."
+    },
+    {
+      "confidence": "high",
+      "duplicate_of": null,
       "geography": [
         "IN",
         "US"
       ],
+      "ladder": [
+        {
+          "note": "Reused from current ladder (Mumbai range seen).",
+          "price_text": "₹20,000 to ₹60,000",
+          "problem": "SAT coaching, classroom or online, in Class 11 and 12",
+          "seen_via": "search",
+          "step": 1,
+          "url": "https://collegedunia.com/exams/sat/sat-preparation-classes-in-mumbai"
+        },
+        {
+          "note": "Reused from current ladder.",
+          "price_text": "$130.98 (~₹12,548)",
+          "problem": "SAT registration from India, usually two sittings (base fee plus international fee and GST)",
+          "seen_via": "search",
+          "step": 2,
+          "url": "https://eecglobal.com/blog/sat-fee-india-2026"
+        },
+        {
+          "note": "New step. Summary: fee in India 2026 is INR 18,000 for test centre and Home Edition (INR 15,254 plus 18% GST). Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches.",
+          "price_text": "INR 18,000",
+          "problem": "English proficiency test most US colleges ask of Indian applicants (TOEFL iBT, or IELTS or Duolingo)",
+          "seen_via": "search",
+          "step": 3,
+          "url": "https://collegedunia.com/exams/toefl/toefl-fees"
+        },
+        {
+          "note": "Reused from current ladder.",
+          "price_text": "INR 30,000 and INR 1.5 lakh",
+          "problem": "College counselling: shortlisting, Common App essays and aid strategy",
+          "seen_via": "search",
+          "step": 4,
+          "url": "https://leapscholar.com/blog/how-much-do-study-abroad-consultants-charge-in-india/"
+        },
+        {
+          "note": "New step. Same search also showed the CSS Profile at $25 for the first institution and $16 for each additional one (https://cssprofile.collegeboard.org/help-center/what-cost-css-profile-and-what-payment-methods-are-accepted); international fee waivers are rare. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches.",
+          "price_text": "roughly $50 per application",
+          "problem": "Application fees per college, plus the CSS Profile for financial aid (8 to 15 colleges is typical)",
+          "seen_via": "search",
+          "step": 5,
+          "url": "https://www.bestcolleges.com/research/college-application-fees-how-much-does-it-cost/"
+        },
+        {
+          "note": "Reused from current ladder. Price is the total cost the loan must cover.",
+          "price_text": "₹25L–₹80L",
+          "problem": "Paying for the degree: tuition and living costs, usually with an education loan",
+          "seen_via": "search",
+          "step": 6,
+          "url": "https://wp.eduquest.org.in/cost-of-studying-in-usa-from-india/"
+        },
+        {
+          "note": "Was unpriced in current ladder; now priced. Summary also noted a $250 Visa Integrity Fee collected at issuance from 2026. Dropped the old step 6 (internships, transfers, OPT): OPT comes 4 years later, outside the 2-3 year window. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches.",
+          "price_text": "$535 in required government fees: $350 for SEVIS and $185 for Form DS-160",
+          "problem": "F-1 visa: SEVIS I-901 fee and DS-160 visa fee before departure (plus a new visa integrity fee at issuance)",
+          "seen_via": "search",
+          "step": 7,
+          "url": "https://manifestlaw.com/blog/f1-visa-costs"
+        }
+      ],
+      "lens": "transition",
+      "name": "Indian high-schoolers taking the SAT for a US undergraduate degree",
+      "origin": "generated",
+      "reasoning": "One exam, fixed test and application dates, a measured yearly count, big forums and public prices at four steps. SAT math and verbal sit next to the founder's GRE quant and verbal depth, and the GRE product and the test-prep partner give a warm path into coaching institutes and parents. Distinct from the GRE rooms, which are master's applicants four years older.",
+      "size": {
+        "reasoning": "Seen in a search result for a coaching company's blog that cites College Board data (over 25,000 a year). r/Sat has 679,369 members worldwide (https://reddapi.dev/subreddits/sat/insights). Not every Indian test-taker applies to the US; the same page says over 45 Indian universities now accept SAT scores.",
+        "tag": "measured",
+        "unit": "Indian students taking the SAT per year",
+        "url": "https://www.tutelaprep.com/blog/why-is-the-sat-exam-booming-in-india/",
+        "value": 25000
+      },
+      "slug": "sat-us-undergrad-india",
       "venture_overlap": [
         "v1"
       ],
-      "duplicate_of": null,
-      "reasoning": "One exam, fixed test and application dates, a measured yearly count, big forums and public prices at four steps. SAT math and verbal sit next to the founder's GRE quant and verbal depth, and the GRE product and the test-prep partner give a warm path into coaching institutes and parents. Distinct from the GRE rooms, which are master's applicants four years older.",
-      "confidence": "high"
+      "where": [
+        {
+          "name": "r/Sat (Reddit; stats page seen: 679,369 members)",
+          "seen_via": "search",
+          "url": "https://reddapi.dev/subreddits/sat/insights"
+        },
+        {
+          "name": "r/Sat (GummySearch stats page)",
+          "seen_via": "search",
+          "url": "https://gummysearch.com/r/Sat/"
+        },
+        {
+          "name": "College Confidential: International Students forum",
+          "seen_via": "search",
+          "url": "https://talk.collegeconfidential.com/c/international-students/55"
+        },
+        {
+          "name": "College Confidential thread: Match me, international student (India), SAT 1550, seeking full-ride CS programs",
+          "seen_via": "search",
+          "url": "https://talk.collegeconfidential.com/t/match-me-pls-international-student-india-sat-1550-high-financial-need-seeking-full-ride-cs-programs/3692982"
+        },
+        {
+          "name": "College Confidential thread: India or USA (for undergrad)",
+          "seen_via": "search",
+          "url": "https://talk.collegeconfidential.com/t/india-or-usa-for-undergrad/1875704"
+        },
+        {
+          "name": "Quora: How much would SAT coaching for 2 years cost in India?",
+          "seen_via": "search",
+          "url": "https://www.quora.com/How-much-would-SAT-coaching-for-2-years-cost-in-India"
+        }
+      ],
+      "who": "Class 11 and 12 students in India, and their parents, planning a US bachelor's degree: SAT prep and test dates, school shortlisting, Common App essays, financial aid, then the F-1 visa and paying for a degree that costs several lakh rupees a year. Application deadlines run from November (early) to January (regular).",
+      "who_pays": "Parents pay coaching, the exam, counsellors and application fees up front. Banks and lenders fund the degree; some students get aid from the university."
     }
   ]
 }

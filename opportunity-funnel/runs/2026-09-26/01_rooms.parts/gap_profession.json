@@ -1,280 +1,144 @@
 {
   "lens": "profession",
-  "origin": "gap_pass",
   "note": "Profession gap pass, grounded on 2026-09-27 with 52 fresh web searches (the first version was empty: its agent had no search budget). Every 'where' URL and every price URL below appeared in a search result during this task (seen_via: search). Prices are copied exactly from the search-result text; the URL on each step is the result page that text is attributed to. Direct page fetches are blocked by the network egress proxy (seemindia.org and peakframeworks.com were tried), so no price was checked on the page itself; Stage 2 must verify each one. reddit.com did not appear in any result, so no Reddit places are listed. Sizes are estimates unless a URL is given; measured supersets are cited inside the reasoning. Candidates checked first, as the earlier agent listed: freelance GRE/GMAT tutors, energy managers pursuing CEM or BEE certification, Big 4 transaction services / FDD associates moving to IB or PE. Three more rooms were added where the founder's depth is strong: RICS APC candidates (real estate), corporate development associates (deals), and valuation analysts pursuing a credential (valuation). Not pursued for lack of budget, not dropped for lack of grounding: freelance financial modellers on Upwork, warehouse operations managers taking ASCM certifications, power and energy traders.",
+  "origin": "gap_pass",
   "rooms": [
     {
-      "slug": "freelance-gre-gmat-tutors",
-      "name": "Freelance GRE and GMAT tutors building a private tutoring practice",
-      "lens": "profession",
-      "origin": "gap_pass",
-      "who": "Independent tutors, often ex-test-prep-company instructors or high scorers, who sell GRE and GMAT tutoring by the hour through marketplaces (Wyzant, Upwork, Superprof, Preply) and their own referrals. They set their own rates, lose a quarter or a third of each lesson to platform fees, and try to move students onto their own site, scheduling and billing so they keep the whole fee. Many are in the US; a growing share are in India, Nigeria and the Middle East teaching online.",
-      "where": [
-        {
-          "name": "Wyzant, GRE tutors listing (hundreds of independent GRE tutors set their own rates)",
-          "url": "https://www.wyzant.com/GRE_tutors.aspx",
-          "seen_via": "search"
-        },
-        {
-          "name": "Wyzant, how it works for tutors",
-          "url": "https://www.wyzant.com/howitworks/tutors",
-          "seen_via": "search"
-        },
-        {
-          "name": "Upwork, freelance GRE tutors for hire",
-          "url": "https://www.upwork.com/hire/gre-tutors/",
-          "seen_via": "search"
-        },
-        {
-          "name": "Superprof, GMAT tutors in the United States (average price $31/hr)",
-          "url": "https://www.superprof.com/lessons/gmat/united-states/",
-          "seen_via": "search"
-        },
-        {
-          "name": "GMAT Club forum: GRE tutoring discussions (tutors and students post together)",
-          "url": "https://gmatclub.com/forum/gre-tutoring-449965.html",
-          "seen_via": "search"
-        },
-        {
-          "name": "GRE Prep Club forum: GRE private tutor needed thread",
-          "url": "https://gre.myprepclub.com/forum/gre-private-tutor-needed-to-increase-score-in-1-month-8281.html",
-          "seen_via": "search"
-        },
-        {
-          "name": "TPAPT, Association of Test Preparation, Admissions and Private Tutoring: membership page",
-          "url": "https://tpapt.mykajabi.com/membership",
-          "seen_via": "search"
-        },
-        {
-          "name": "TPAPT blog: average pay rates for academic and test prep tutors",
-          "url": "https://tpapt.mykajabi.com/blog/average-pay-rates-for-academic-and-test-prep-tutoring",
-          "seen_via": "search"
-        },
-        {
-          "name": "TPAPT on LinkedIn (test-prep professionals' association page)",
-          "url": "https://www.linkedin.com/company/test-prep-professionals",
-          "seen_via": "search"
-        },
-        {
-          "name": "Supatutor: Wyzant review for tutors (fees, pay, getting students)",
-          "url": "https://supatutor.in/wyzant-review-for-tutors/",
-          "seen_via": "search"
-        },
-        {
-          "name": "Kirsty Gibbs, coach and mentor for teachers and tutors (Profit Pathway programme, Tutoring Growth Membership)",
-          "url": "https://www.kirstygibbs.com/",
-          "seen_via": "search"
-        },
-        {
-          "name": "Tutorboss coaching programme for tutors (12 weekly coaching sessions, 362+ tutors)",
-          "url": "https://tutorboss.co/tutorboss-coaching-program-3-1",
-          "seen_via": "search"
-        }
-      ],
-      "who_pays": "The tutor pays out of lesson income: marketplace fees (Wyzant keeps a 25% platform fee; Preply takes between 18% and 33%), scheduling and invoicing software, a business course or coaching programme, and later agency software when they hire other tutors. Their students pay $35 to $60 an hour on Wyzant [measured, page not checked, https://blog.wyzant.com/how-much-does-tutoring-cost/] and $55 to $110 a session for GMAT [measured, page not checked, https://www.thumbtack.com/p/gmat-tutoring-cost], against $150 to $400 an hour at structured firms [measured, page not checked, https://menlocoaching.com/gre/best-gre-tutors/].",
-      "size": {
-        "value": 5000,
-        "unit": "freelance GRE and GMAT tutors actively selling lessons online, worldwide",
-        "tag": "estimate",
-        "reasoning": "Wyzant alone has over 65,000 registered tutors across all subjects [measured, page not checked, https://brighterly.com/blog/wyzant-reviews/] and 'hundreds of independent GRE tutors' [measured, page not checked, https://menlocoaching.com/gre/best-gre-tutors/]. Adding GMAT tutors and the Upwork, Superprof, Preply and GMAT Club listings, plus India-based tutors who sell to the same students online, a few thousand active freelancers is a coarse guess; no count of GRE/GMAT-specific tutors was found. [thin]",
-        "confidence": "low"
-      },
-      "ladder": [
-        {
-          "step": 1,
-          "problem": "Get the first students through a marketplace and pay its cut on every lesson",
-          "price_text": "25% Platform Fee",
-          "url": "https://support.wyzant.com/tutors/tutor-payments/what-is-the-fee-structure-for-tutors-listed-on-wyzant/",
-          "seen_via": "search"
-        },
-        {
-          "step": 2,
-          "problem": "Move students off the marketplace: scheduling, invoicing, a booking site and reminders",
-          "price_text": "$16.95/month",
-          "url": "https://www.tutorbird.com/affordable/",
-          "seen_via": "search"
-        },
-        {
-          "step": 3,
-          "problem": "Learn to price, market and structure the practice as a business",
-          "price_text": "$85",
-          "url": "https://cboular.gumroad.com/l/PuDut",
-          "seen_via": "search"
-        },
-        {
-          "step": 4,
-          "problem": "Join a professional association for referrals, job posts and a knowledge base",
-          "price_text": "free to independent tutors, IECs, and test prep professionals",
-          "url": "https://tpapt.mykajabi.com/membership",
-          "seen_via": "search"
-        },
-        {
-          "step": 5,
-          "problem": "Scale into an agency: hire other tutors and run payroll and client billing",
-          "price_text": "$30/month for the Pay as you go plan, plus 1% of revenue",
-          "url": "https://tutorcruncher.com/pricing/us",
-          "seen_via": "search"
-        },
-        {
-          "step": 6,
-          "problem": "Buy group coaching to grow revenue past the hourly ceiling",
-          "price_text": null,
-          "url": "https://tutorboss.co/tutorboss-coaching-program-3-1",
-          "seen_via": "search"
-        }
-      ],
+      "confidence": "moderate",
+      "duplicate_of": null,
       "geography": [
         "GLOBAL",
         "US",
         "IN",
         "GB"
       ],
+      "ladder": [
+        {
+          "price_text": "25% Platform Fee",
+          "problem": "Get the first students through a marketplace and pay its cut on every lesson",
+          "seen_via": "search",
+          "step": 1,
+          "url": "https://support.wyzant.com/tutors/tutor-payments/what-is-the-fee-structure-for-tutors-listed-on-wyzant/"
+        },
+        {
+          "price_text": "$16.95/month",
+          "problem": "Move students off the marketplace: scheduling, invoicing, a booking site and reminders",
+          "seen_via": "search",
+          "step": 2,
+          "url": "https://www.tutorbird.com/affordable/"
+        },
+        {
+          "price_text": "$85",
+          "problem": "Learn to price, market and structure the practice as a business",
+          "seen_via": "search",
+          "step": 3,
+          "url": "https://cboular.gumroad.com/l/PuDut"
+        },
+        {
+          "price_text": "free to independent tutors, IECs, and test prep professionals",
+          "problem": "Join a professional association for referrals, job posts and a knowledge base",
+          "seen_via": "search",
+          "step": 4,
+          "url": "https://tpapt.mykajabi.com/membership"
+        },
+        {
+          "price_text": "$30/month for the Pay as you go plan, plus 1% of revenue",
+          "problem": "Scale into an agency: hire other tutors and run payroll and client billing",
+          "seen_via": "search",
+          "step": 5,
+          "url": "https://tutorcruncher.com/pricing/us"
+        },
+        {
+          "price_text": null,
+          "problem": "Buy group coaching to grow revenue past the hourly ceiling",
+          "seen_via": "search",
+          "step": 6,
+          "url": "https://tutorboss.co/tutorboss-coaching-program-3-1"
+        }
+      ],
+      "lens": "profession",
+      "name": "Freelance GRE and GMAT tutors building a private tutoring practice",
+      "origin": "gap_pass",
+      "reasoning": "The generated lists cover GRE students and Indian coaching institutes but not the freelance tutors who sit between them, a room the founder can reach through the GRE product's users and a test-prep partner, and judge with strong GRE depth. Tutors already pay marketplaces, software and coaches, so the ladder is real; the group is fragmented, so size is thin.",
+      "size": {
+        "confidence": "low",
+        "reasoning": "Wyzant alone has over 65,000 registered tutors across all subjects [measured, page not checked, https://brighterly.com/blog/wyzant-reviews/] and 'hundreds of independent GRE tutors' [measured, page not checked, https://menlocoaching.com/gre/best-gre-tutors/]. Adding GMAT tutors and the Upwork, Superprof, Preply and GMAT Club listings, plus India-based tutors who sell to the same students online, a few thousand active freelancers is a coarse guess; no count of GRE/GMAT-specific tutors was found. [thin]",
+        "tag": "estimate",
+        "unit": "freelance GRE and GMAT tutors actively selling lessons online, worldwide",
+        "value": 5000
+      },
+      "slug": "freelance-gre-gmat-tutors",
       "venture_overlap": [
         "v1"
       ],
-      "duplicate_of": null,
-      "reasoning": "The generated lists cover GRE students and Indian coaching institutes but not the freelance tutors who sit between them, a room the founder can reach through the GRE product's users and a test-prep partner, and judge with strong GRE depth. Tutors already pay marketplaces, software and coaches, so the ladder is real; the group is fragmented, so size is thin.",
-      "confidence": "moderate"
-    },
-    {
-      "slug": "energy-managers-auditors-cem-bee-certification",
-      "name": "Energy managers and auditors pursuing CEM or BEE energy-auditor certification",
-      "lens": "profession",
-      "origin": "gap_pass",
-      "who": "Plant, facility and consultancy engineers who must pass a certification exam to sign energy audits or hold the energy-manager title: India's BEE National Certification Examination (four papers, run by the National Productivity Council, 26th edition in 2026, applications close 30 July 2026) or the Association of Energy Engineers' Certified Energy Manager (CEM), taken in the US, the Gulf, Southeast Asia and Europe. They buy prep courses, sit the exam, then must renew (CEM every three years with 10 CEUs; BEE with a mandatory refresher course) and often stack ISO 50001 auditor training on top.",
       "where": [
         {
-          "name": "NCE Exam portal (BEE National Certification Examination for Energy Managers and Energy Auditors)",
-          "url": "https://nceexam.in/",
-          "seen_via": "search"
+          "name": "Wyzant, GRE tutors listing (hundreds of independent GRE tutors set their own rates)",
+          "seen_via": "search",
+          "url": "https://www.wyzant.com/GRE_tutors.aspx"
         },
         {
-          "name": "NCE Exam FAQ page",
-          "url": "https://nceexam.in/faq",
-          "seen_via": "search"
+          "name": "Wyzant, how it works for tutors",
+          "seen_via": "search",
+          "url": "https://www.wyzant.com/howitworks/tutors"
         },
         {
-          "name": "SEA Energy: BEE Exam NCE 2026 eligibility criteria and guidelines (coaching provider's post)",
-          "url": "https://www.seaenergy.in/post/bee-exam-nce-2026-energy-manager-energy-auditor-energy-auditor-building-eligibility-criteri",
-          "seen_via": "search"
+          "name": "Upwork, freelance GRE tutors for hire",
+          "seen_via": "search",
+          "url": "https://www.upwork.com/hire/gre-tutors/"
         },
         {
-          "name": "YouTube: All About BEE Energy Manager & Auditor Exam 2026, orientation session and preparatory course",
-          "url": "https://www.youtube.com/watch?v=0jobfrZazv8",
-          "seen_via": "search"
+          "name": "Superprof, GMAT tutors in the United States (average price $31/hr)",
+          "seen_via": "search",
+          "url": "https://www.superprof.com/lessons/gmat/united-states/"
         },
         {
-          "name": "SEEM India, Society of Energy Engineers and Managers (national body of certified energy managers and auditors, 15 chapters)",
-          "url": "https://seemindia.org/",
-          "seen_via": "search"
+          "name": "GMAT Club forum: GRE tutoring discussions (tutors and students post together)",
+          "seen_via": "search",
+          "url": "https://gmatclub.com/forum/gre-tutoring-449965.html"
         },
         {
-          "name": "SEEM India individual membership page",
-          "url": "https://seemindia.org/membership-individual",
-          "seen_via": "search"
+          "name": "GRE Prep Club forum: GRE private tutor needed thread",
+          "seen_via": "search",
+          "url": "https://gre.myprepclub.com/forum/gre-private-tutor-needed-to-increase-score-in-1-month-8281.html"
         },
         {
-          "name": "SEEM India on LinkedIn",
-          "url": "https://in.linkedin.com/company/society-of-energy-engineers-and-managers-seem",
-          "seen_via": "search"
+          "name": "TPAPT, Association of Test Preparation, Admissions and Private Tutoring: membership page",
+          "seen_via": "search",
+          "url": "https://tpapt.mykajabi.com/membership"
         },
         {
-          "name": "AEE Education: CEM training programmes (Premier, Accelerated Online, On-Demand)",
-          "url": "https://education.aeecenter.org/CEM-trainings",
-          "seen_via": "search"
+          "name": "TPAPT blog: average pay rates for academic and test prep tutors",
+          "seen_via": "search",
+          "url": "https://tpapt.mykajabi.com/blog/average-pay-rates-for-academic-and-test-prep-tutoring"
         },
         {
-          "name": "AEE: Becoming a Certified Energy Manager",
-          "url": "https://www.aeecenter.org/certified-energy-manager/becoming-a-cem/",
-          "seen_via": "search"
+          "name": "TPAPT on LinkedIn (test-prep professionals' association page)",
+          "seen_via": "search",
+          "url": "https://www.linkedin.com/company/test-prep-professionals"
         },
         {
-          "name": "AEE Ireland chapter membership page",
-          "url": "https://aee.ie/membership/",
-          "seen_via": "search"
+          "name": "Supatutor: Wyzant review for tutors (fees, pay, getting students)",
+          "seen_via": "search",
+          "url": "https://supatutor.in/wyzant-review-for-tutors/"
         },
         {
-          "name": "Smart Buildings Center: CEM training 2026 (Pacific Northwest chapter discount)",
-          "url": "https://smartbuildingscenter.org/certified-energy-manager-cem-training-2026/",
-          "seen_via": "search"
+          "name": "Kirsty Gibbs, coach and mentor for teachers and tutors (Profit Pathway programme, Tutoring Growth Membership)",
+          "seen_via": "search",
+          "url": "https://www.kirstygibbs.com/"
         },
         {
-          "name": "Ensave Academy: BEE exam preparation e-learning",
-          "url": "https://courses.ensaveindia.in/",
-          "seen_via": "search"
-        },
-        {
-          "name": "Ergo E-Learning: BEE exam preparation 2026",
-          "url": "https://www.ergoelearning.com/courses/courses-for-bee-energy-audit-exam-2023-5ffc9dec0cf24fbaa4913fed",
-          "seen_via": "search"
+          "name": "Tutorboss coaching programme for tutors (12 weekly coaching sessions, 362+ tutors)",
+          "seen_via": "search",
+          "url": "https://tutorboss.co/tutorboss-coaching-program-3-1"
         }
       ],
-      "who_pays": "The engineer pays personally for the exam fee and the prep course; employers sometimes pay for CEM training when the firm needs a certified signatory. Renewal fees, refresher courses and professional-body dues come out of the engineer's pocket. Consultancies that audit under India's PAT scheme need accredited auditors on staff, so the credential has direct earning value.",
-      "size": {
-        "value": 8000,
-        "unit": "engineers preparing for a BEE or CEM exam in a year, worldwide",
-        "tag": "estimate",
-        "reasoning": "Over 40,000 professionals from over 100 countries have participated in AEE's CEM programme since 1981 [measured, page not checked, https://www.aeecenter.org/certified-energy-manager/], about 1,000 a year on average and more now that AEE runs monthly cohorts. BEE's exam is in its 26th edition with at least six paid coaching providers seen, which suggests several thousand candidates a year, but no BEE candidate count was found. [thin]",
-        "confidence": "low"
-      },
-      "ladder": [
-        {
-          "step": 1,
-          "problem": "Sit the national certification exam (BEE NCE fee by category)",
-          "price_text": "Rs. 5,500 to Rs. 18,500",
-          "url": "https://nceexam.in/storage/notifications/9IGMRFdiIuXy5K0fVWsyrlkMldcIvDQkr6RdV2RY.pdf",
-          "seen_via": "search"
-        },
-        {
-          "step": 2,
-          "problem": "Buy a preparatory course for the four papers",
-          "price_text": "Rs. 6,500/- plus 18% GST (Rs. 7,670/- inclusive of GST)",
-          "url": "https://www.seaenergy.in/post/bee-tarining",
-          "seen_via": "search"
-        },
-        {
-          "step": 3,
-          "problem": "Add the international credential: four-day CEM training with exam and application",
-          "price_text": "$2,395",
-          "url": "https://smartbuildingscenter.org/certified-energy-manager-cem-training-2026/",
-          "seen_via": "search"
-        },
-        {
-          "step": 4,
-          "problem": "Or take CEM training in the Gulf",
-          "price_text": "13,100 AED (plus VAT)",
-          "url": "https://www.buid.ac.ae/professional-training/energy-management-trainings-and-certifications/certified-energy-manager-cem/",
-          "seen_via": "search"
-        },
-        {
-          "step": 5,
-          "problem": "Pay the CEM application and exam fee separately from training",
-          "price_text": "$500",
-          "url": "https://www.ag5.com/certifications/cem/",
-          "seen_via": "search"
-        },
-        {
-          "step": 6,
-          "problem": "Renew every three years with 10 CEUs or PDHs",
-          "price_text": "$300",
-          "url": "https://www.ag5.com/certifications/cem/",
-          "seen_via": "search"
-        },
-        {
-          "step": 7,
-          "problem": "Join the national society of certified energy managers for networking and training discounts",
-          "price_text": null,
-          "url": "https://seemindia.org/membership-individual",
-          "seen_via": "search"
-        },
-        {
-          "step": 8,
-          "problem": "Move up to ISO 50001 lead auditor for management-system audits",
-          "price_text": null,
-          "url": "https://www.bsigroup.com/en-GB/training-courses/iso-50001-lead-auditor-course/",
-          "seen_via": "search"
-        }
-      ],
+      "who": "Independent tutors, often ex-test-prep-company instructors or high scorers, who sell GRE and GMAT tutoring by the hour through marketplaces (Wyzant, Upwork, Superprof, Preply) and their own referrals. They set their own rates, lose a quarter or a third of each lesson to platform fees, and try to move students onto their own site, scheduling and billing so they keep the whole fee. Many are in the US; a growing share are in India, Nigeria and the Middle East teaching online.",
+      "who_pays": "The tutor pays out of lesson income: marketplace fees (Wyzant keeps a 25% platform fee; Preply takes between 18% and 33%), scheduling and invoicing software, a business course or coaching programme, and later agency software when they hire other tutors. Their students pay $35 to $60 an hour on Wyzant [measured, page not checked, https://blog.wyzant.com/how-much-does-tutoring-cost/] and $55 to $110 a session for GMAT [measured, page not checked, https://www.thumbtack.com/p/gmat-tutoring-cost], against $150 to $400 an hour at structured firms [measured, page not checked, https://menlocoaching.com/gre/best-gre-tutors/]."
+    },
+    {
+      "confidence": "moderate",
+      "duplicate_of": null,
       "geography": [
         "IN",
         "US",
@@ -282,117 +146,150 @@
         "SG",
         "GLOBAL"
       ],
-      "venture_overlap": [],
-      "duplicate_of": null,
-      "reasoning": "A profession defined by a recurring exam, with fixed dates, mandatory renewals and several paid providers already selling to it; the founder's energy-sector depth is strong and Southeast Asian energy companies are a warm path. The existing lists have energy developers and project-finance analysts but no room for the plant and consultancy engineers who hold or chase these credentials.",
-      "confidence": "moderate"
-    },
-    {
-      "slug": "big4-transaction-services-fdd-associates-moving-to-ib-pe",
-      "name": "Big 4 transaction services and financial due diligence associates moving to investment banking or private equity",
-      "lens": "profession",
-      "origin": "gap_pass",
-      "who": "Associates and senior associates (2 to 5 years in) in the deals, transaction services or financial due diligence teams of Deloitte, PwC, EY and KPMG, usually ACA, CA or CPA qualified, who want to move to a bank's M&A team or a mid-market private equity fund. Forums tell them the gap is modelling and deal execution, that only smaller funds look at them, and that timing (analyst versus associate entry) decides the path.",
-      "where": [
-        {
-          "name": "Wall Street Oasis thread: Big 4 Transaction Services -> IBD",
-          "url": "https://www.wallstreetoasis.com/forum/investment-banking/big-4-transaction-services-ibd",
-          "seen_via": "search"
-        },
-        {
-          "name": "Wall Street Oasis thread: Big 4 Transaction Services (M&A Diligence) to IB plausible?",
-          "url": "https://www.wallstreetoasis.com/forum/investment-banking/big-4-transaction-services-ma-diligence-to-ib-plausible",
-          "seen_via": "search"
-        },
-        {
-          "name": "Wall Street Oasis thread: FDD to PE",
-          "url": "https://www.wallstreetoasis.com/forum/private-equity/fdd-to-pe",
-          "seen_via": "search"
-        },
-        {
-          "name": "Wall Street Oasis thread: Big 4 Strategy and Transactions exit opps",
-          "url": "https://www.wallstreetoasis.com/forum/private-equity/big-4-strategy-and-transactions-exit-opps",
-          "seen_via": "search"
-        },
-        {
-          "name": "Wall Street Oasis thread: Transaction Services (Financial Due Diligence), what did you exit into?",
-          "url": "https://www.wallstreetoasis.com/forum/corporate/transaction-services-financial-due-diligence-what-did-you-exit-into",
-          "seen_via": "search"
-        },
-        {
-          "name": "Wall Street Oasis Q&A: Big 4 TAS financial diligence",
-          "url": "https://www.wallstreetoasis.com/forum/other/qa-big-4-tas-financial-diligence",
-          "seen_via": "search"
-        },
-        {
-          "name": "Wall Street Oasis tag page: big 4",
-          "url": "https://www.wallstreetoasis.com/tag/big-4",
-          "seen_via": "search"
-        },
-        {
-          "name": "Mergers & Inquisitions: Big 4 Transaction Services careers, recruiting and exits (comment threads)",
-          "url": "https://mergersandinquisitions.com/big-4-transaction-services/",
-          "seen_via": "search"
-        },
-        {
-          "name": "Glassdoor community thread: FDD to private equity without a CPA?",
-          "url": "https://www.glassdoor.co.uk/Community/finance/is-it-possible-for-financial-due-diligence-to-transition-into-private-equity-without-a-cpa-im-considering-pursuing-an-mba-i2yi-5",
-          "seen_via": "search"
-        },
-        {
-          "name": "Quora: how to transition from financial due diligence to private equity",
-          "url": "https://www.quora.com/How-do-I-transition-from-financial-due-diligence-to-private-equity",
-          "seen_via": "search"
-        },
-        {
-          "name": "Medium: Big 4 Transaction Services to private equity, a viable mid-market pathway",
-          "url": "https://elitecareersstrategy.medium.com/why-transaction-services-big-4-is-a-viable-route-into-private-equity-616a129b2893",
-          "seen_via": "search"
-        },
-        {
-          "name": "eFinancialCareers: Deal advisory jobs in the Big Four",
-          "url": "https://www.efinancialcareers.com/news/2020/05/deal-advisory-jobs-big-four",
-          "seen_via": "search"
-        }
-      ],
-      "who_pays": "The associate pays personally: a modelling course to close the gap forums name first, an interview or LBO-test course, and if the direct move fails, the GMAT and an MBA admissions consultant. Big 4 pay is enough to make $300 to $500 purchases routine and a $7,000 consultant a considered one.",
-      "size": {
-        "value": 5000,
-        "unit": "Big 4 TS or FDD associates and seniors actively trying to move to IB or PE in a year, worldwide",
-        "tag": "estimate",
-        "reasoning": "The Big 4 employed over 1.5 million people in 2025 [measured, page not checked, https://caselane.ai/blog/what-are-big-4-consulting-firms], and deals advisory is a small slice of that; FDD teams worldwide are assumed at 15,000 to 25,000 professionals, with a quarter at the 2-to-5-year mark and a share of those recruiting each year. No team headcount was found. [thin]",
-        "confidence": "low"
-      },
       "ladder": [
         {
+          "price_text": "Rs. 5,500 to Rs. 18,500",
+          "problem": "Sit the national certification exam (BEE NCE fee by category)",
+          "seen_via": "search",
           "step": 1,
-          "problem": "Close the modelling gap that forums say blocks the move (three-statement, DCF, LBO, M&A)",
-          "price_text": "$499",
-          "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
-          "seen_via": "search"
+          "url": "https://nceexam.in/storage/notifications/9IGMRFdiIuXy5K0fVWsyrlkMldcIvDQkr6RdV2RY.pdf"
         },
         {
+          "price_text": "Rs. 6,500/- plus 18% GST (Rs. 7,670/- inclusive of GST)",
+          "problem": "Buy a preparatory course for the four papers",
+          "seen_via": "search",
           "step": 2,
-          "problem": "Prepare for private equity interviews, paper LBOs and modelling tests",
-          "price_text": null,
-          "url": "https://www.peakframeworks.com/private-equity-recruiting-course",
-          "seen_via": "search"
+          "url": "https://www.seaenergy.in/post/bee-tarining"
         },
         {
+          "price_text": "$2,395",
+          "problem": "Add the international credential: four-day CEM training with exam and application",
+          "seen_via": "search",
           "step": 3,
-          "problem": "If the direct move fails, take the GMAT for a top MBA",
-          "price_text": "USD 275 at a test center or USD 300 for the online option",
-          "url": "https://test-ninjas.com/gmat-registration-fees-and-cost",
-          "seen_via": "search"
+          "url": "https://smartbuildingscenter.org/certified-energy-manager-cem-training-2026/"
         },
         {
+          "price_text": "13,100 AED (plus VAT)",
+          "problem": "Or take CEM training in the Gulf",
+          "seen_via": "search",
           "step": 4,
-          "problem": "Hire an MBA admissions consultant for the re-brand into banking or PE",
-          "price_text": "$7,300 for 1 school",
-          "url": "https://poetsandquants.com/2023/05/31/what-it-now-costs-to-hire-an-mba-admissions-consultant/",
-          "seen_via": "search"
+          "url": "https://www.buid.ac.ae/professional-training/energy-management-trainings-and-certifications/certified-energy-manager-cem/"
+        },
+        {
+          "price_text": "$500",
+          "problem": "Pay the CEM application and exam fee separately from training",
+          "seen_via": "search",
+          "step": 5,
+          "url": "https://www.ag5.com/certifications/cem/"
+        },
+        {
+          "price_text": "$300",
+          "problem": "Renew every three years with 10 CEUs or PDHs",
+          "seen_via": "search",
+          "step": 6,
+          "url": "https://www.ag5.com/certifications/cem/"
+        },
+        {
+          "price_text": null,
+          "problem": "Join the national society of certified energy managers for networking and training discounts",
+          "seen_via": "search",
+          "step": 7,
+          "url": "https://seemindia.org/membership-individual"
+        },
+        {
+          "price_text": null,
+          "problem": "Move up to ISO 50001 lead auditor for management-system audits",
+          "seen_via": "search",
+          "step": 8,
+          "url": "https://www.bsigroup.com/en-GB/training-courses/iso-50001-lead-auditor-course/"
         }
       ],
+      "lens": "profession",
+      "name": "Energy managers and auditors pursuing CEM or BEE energy-auditor certification",
+      "origin": "gap_pass",
+      "reasoning": "A profession defined by a recurring exam, with fixed dates, mandatory renewals and several paid providers already selling to it; the founder's energy-sector depth is strong and Southeast Asian energy companies are a warm path. The existing lists have energy developers and project-finance analysts but no room for the plant and consultancy engineers who hold or chase these credentials.",
+      "size": {
+        "confidence": "low",
+        "reasoning": "Over 40,000 professionals from over 100 countries have participated in AEE's CEM programme since 1981 [measured, page not checked, https://www.aeecenter.org/certified-energy-manager/], about 1,000 a year on average and more now that AEE runs monthly cohorts. BEE's exam is in its 26th edition with at least six paid coaching providers seen, which suggests several thousand candidates a year, but no BEE candidate count was found. [thin]",
+        "tag": "estimate",
+        "unit": "engineers preparing for a BEE or CEM exam in a year, worldwide",
+        "value": 8000
+      },
+      "slug": "energy-managers-auditors-cem-bee-certification",
+      "venture_overlap": [],
+      "where": [
+        {
+          "name": "NCE Exam portal (BEE National Certification Examination for Energy Managers and Energy Auditors)",
+          "seen_via": "search",
+          "url": "https://nceexam.in/"
+        },
+        {
+          "name": "NCE Exam FAQ page",
+          "seen_via": "search",
+          "url": "https://nceexam.in/faq"
+        },
+        {
+          "name": "SEA Energy: BEE Exam NCE 2026 eligibility criteria and guidelines (coaching provider's post)",
+          "seen_via": "search",
+          "url": "https://www.seaenergy.in/post/bee-exam-nce-2026-energy-manager-energy-auditor-energy-auditor-building-eligibility-criteri"
+        },
+        {
+          "name": "YouTube: All About BEE Energy Manager & Auditor Exam 2026, orientation session and preparatory course",
+          "seen_via": "search",
+          "url": "https://www.youtube.com/watch?v=0jobfrZazv8"
+        },
+        {
+          "name": "SEEM India, Society of Energy Engineers and Managers (national body of certified energy managers and auditors, 15 chapters)",
+          "seen_via": "search",
+          "url": "https://seemindia.org/"
+        },
+        {
+          "name": "SEEM India individual membership page",
+          "seen_via": "search",
+          "url": "https://seemindia.org/membership-individual"
+        },
+        {
+          "name": "SEEM India on LinkedIn",
+          "seen_via": "search",
+          "url": "https://in.linkedin.com/company/society-of-energy-engineers-and-managers-seem"
+        },
+        {
+          "name": "AEE Education: CEM training programmes (Premier, Accelerated Online, On-Demand)",
+          "seen_via": "search",
+          "url": "https://education.aeecenter.org/CEM-trainings"
+        },
+        {
+          "name": "AEE: Becoming a Certified Energy Manager",
+          "seen_via": "search",
+          "url": "https://www.aeecenter.org/certified-energy-manager/becoming-a-cem/"
+        },
+        {
+          "name": "AEE Ireland chapter membership page",
+          "seen_via": "search",
+          "url": "https://aee.ie/membership/"
+        },
+        {
+          "name": "Smart Buildings Center: CEM training 2026 (Pacific Northwest chapter discount)",
+          "seen_via": "search",
+          "url": "https://smartbuildingscenter.org/certified-energy-manager-cem-training-2026/"
+        },
+        {
+          "name": "Ensave Academy: BEE exam preparation e-learning",
+          "seen_via": "search",
+          "url": "https://courses.ensaveindia.in/"
+        },
+        {
+          "name": "Ergo E-Learning: BEE exam preparation 2026",
+          "seen_via": "search",
+          "url": "https://www.ergoelearning.com/courses/courses-for-bee-energy-audit-exam-2023-5ffc9dec0cf24fbaa4913fed"
+        }
+      ],
+      "who": "Plant, facility and consultancy engineers who must pass a certification exam to sign energy audits or hold the energy-manager title: India's BEE National Certification Examination (four papers, run by the National Productivity Council, 26th edition in 2026, applications close 30 July 2026) or the Association of Energy Engineers' Certified Energy Manager (CEM), taken in the US, the Gulf, Southeast Asia and Europe. They buy prep courses, sit the exam, then must renew (CEM every three years with 10 CEUs; BEE with a mandatory refresher course) and often stack ISO 50001 auditor training on top.",
+      "who_pays": "The engineer pays personally for the exam fee and the prep course; employers sometimes pay for CEM training when the firm needs a certified signatory. Renewal fees, refresher courses and professional-body dues come out of the engineer's pocket. Consultancies that audit under India's PAT scheme need accredited auditors on staff, so the credential has direct earning value."
+    },
+    {
+      "confidence": "high",
+      "duplicate_of": null,
       "geography": [
         "GLOBAL",
         "US",
@@ -400,142 +297,137 @@
         "IN",
         "AE"
       ],
-      "venture_overlap": [],
-      "duplicate_of": null,
-      "reasoning": "The generated lists have bankers moving to PE and Indian CAs leaving audit, but not the deals-side accountants who already do due diligence and want the buy side or a bank; the founder is a banker with strong deal and valuation depth, reaches them through colleagues, and the forum threads show a repeated, self-described problem (no modelling, wrong seniority). Employer-rules exclusion applies to any product that touches live deals.",
-      "confidence": "high"
-    },
-    {
-      "slug": "rics-apc-candidates-commercial-property",
-      "name": "RICS APC candidates working toward chartered surveyor status",
-      "lens": "profession",
-      "origin": "gap_pass",
-      "who": "Graduate surveyors enrolled on the RICS Assessment of Professional Competence, mostly in the UK, the UAE and Saudi Arabia, in commercial property, valuation, quantity surveying and related pathways. Over two years of structured training they log experience, write a summary of experience and a case study, then face a 60-minute online final assessment interview that 41% fail. They pay RICS fees every year until they pass and buy coaching and mock interviews from a crowded market of ex-assessors.",
-      "where": [
-        {
-          "name": "RICS: candidate assessment information",
-          "url": "https://www.rics.org/candidates/assessment-information",
-          "seen_via": "search"
-        },
-        {
-          "name": "RICS: APC submissions and assessment",
-          "url": "https://www.rics.org/candidates/assessment-information/apc-submissions-assessment",
-          "seen_via": "search"
-        },
-        {
-          "name": "RICS Matrics International (early-career community for students, trainees and newly qualified)",
-          "url": "https://www.rics.org/get-involved/rics-matrics-international",
-          "seen_via": "search"
-        },
-        {
-          "name": "isurv: APC (candidates) section",
-          "url": "https://www.isurv.com/info/1440/apc_candidates",
-          "seen_via": "search"
-        },
-        {
-          "name": "The SOS APC Podcast: Surveyors Online Support (Spotify)",
-          "url": "https://open.spotify.com/show/3r1ZGUVjRpiBl8l7SLMDhm",
-          "seen_via": "search"
-        },
-        {
-          "name": "Property Elite: RICS APC Lifeline, mock interviews (coaching provider's candidate blog)",
-          "url": "https://www.property-elite.co.uk/post/rics-apc-lifeline-mock-interviews",
-          "seen_via": "search"
-        },
-        {
-          "name": "Property Elite: nightmare APC referral post",
-          "url": "https://www.property-elite.co.uk/post/rics-apc-lifeline-nightmare-apc-referral",
-          "seen_via": "search"
-        },
-        {
-          "name": "APC Guide resources: how difficult is the RICS APC, we asked 100 candidates",
-          "url": "https://resources.apcguide.com/how-difficult-is-the-rics-apc-we-asked-100-candidates/",
-          "seen_via": "search"
-        },
-        {
-          "name": "APC Guide resources: RICS APC interview process, full 60 minutes explained",
-          "url": "https://resources.apcguide.com/rics-apc-interview-process-full-60-minutes-explained/",
-          "seen_via": "search"
-        },
-        {
-          "name": "DeLever: RICS APC training and coaching",
-          "url": "https://www.delever.com/",
-          "seen_via": "search"
-        },
-        {
-          "name": "APCeye blog: APC mock interviews",
-          "url": "https://apceye.wordpress.com/tag/apc-mock-interviews/page/2/",
-          "seen_via": "search"
-        },
-        {
-          "name": "Eddisons: Confessions of an APC student",
-          "url": "https://www.eddisons.com/news/confessions-of-an-apc-student",
-          "seen_via": "search"
-        },
-        {
-          "name": "Construction Placements: top 30 RICS APC interview questions for QS",
-          "url": "https://www.constructionplacements.com/rics-apc-interview-questions-answers-quantity-surveyors/",
-          "seen_via": "search"
-        },
-        {
-          "name": "Surveyor Success: RICS APC guide for quantity surveyors",
-          "url": "https://www.surveyorsuccess.co.uk/article/rics-apc-guide",
-          "seen_via": "search"
-        }
-      ],
-      "who_pays": "Employers often pay RICS enrolment and annual candidate fees under structured training; candidates pay for coaching, mock interviews, presentation reviews and mentoring themselves, especially after a referral. The full route costs £1,525.00 in RICS fees alone on a two-year route passed first time [measured, page not checked, https://www.property-elite.co.uk/post/how-much-do-the-apc-and-assocrics-assessments-cost].",
-      "size": {
-        "value": 7644,
-        "unit": "candidates enrolled with RICS in 2024, all routes",
-        "tag": "measured",
-        "url": "https://www.rics.org/about-rics/corporate-governance/annual-review-and-remuneration-report/rics-annual-review-2024",
-        "reasoning": "RICS Annual Review 2024: 7,644 candidates enrolled in 2024, UK enrolments 4,832, 3,924 new members joined, global APC pass rate 59% [page not checked]. The active candidate stock is larger (two-year route), so the room is roughly 12,000 to 15,000 people at any time.",
-        "confidence": "moderate"
-      },
       "ladder": [
         {
+          "note": "Kept from old ladder step 1.",
+          "price_text": "$499",
+          "problem": "Close the modelling gap that forums say blocks the move (three-statement, DCF, LBO, M&A)",
+          "seen_via": "search",
           "step": 1,
-          "problem": "Enrol on the APC (registration, professional module and final assessment)",
-          "price_text": "£502.00",
-          "url": "https://www.property-elite.co.uk/post/how-much-do-the-apc-and-assocrics-assessments-cost",
-          "seen_via": "search"
+          "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/"
         },
         {
+          "note": "New step. WSO finance resume review price copied from a search result; reviewers cover IB, PE and accounting backgrounds.",
+          "price_text": "$199",
+          "problem": "Rewrite the CV in banking format so headhunters and banks read it",
+          "seen_via": "search",
           "step": 2,
-          "problem": "Pay the candidate subscription every year until qualified",
-          "price_text": "£167.00",
-          "url": "https://www.property-elite.co.uk/post/how-much-do-the-apc-and-assocrics-assessments-cost",
-          "seen_via": "search"
+          "url": "https://www.wallstreetoasis.com/career-services/resume-review-edits"
         },
         {
+          "note": "Old step 2 with a price added. Two searches for Peak Frameworks showed only a forum estimate (about $400), so the WSO PE Interview Course price is used.",
+          "price_text": "$297",
+          "problem": "Prepare for PE and IB interviews: paper LBOs, modelling tests, deal walk-throughs (course)",
+          "seen_via": "search",
           "step": 3,
-          "problem": "Hire an APC coach for the summary of experience and case study",
-          "price_text": "£165 per hour (£137.50 plus VAT per hour)",
-          "url": "https://www.delever.com/coaching",
-          "seen_via": "search"
+          "url": "https://www.wallstreetoasis.com/courses/interview-prep/private-equity"
         },
         {
+          "note": "New step. IGotAnOffer PE coaching pricing copied from a search result; specialist finance coaches were quoted at $300 to $500 per session in the same search.",
+          "price_text": "Each credit starts at $50, and coaches cost between 2 and 5 credits per hour",
+          "problem": "One-to-one mock interviews and coaching with ex-bankers before superdays",
+          "seen_via": "search",
           "step": 4,
-          "problem": "Buy a mock final assessment interview with an assessor",
-          "price_text": "£350.00 excluding VAT",
-          "url": "https://www.property-elite.co.uk/product-page/e-mock-interview",
-          "seen_via": "search"
+          "url": "https://igotanoffer.com/en/interview-coaching/private-equity"
         },
         {
+          "note": "Kept from old ladder step 3.",
+          "price_text": "USD 275 at a test center or USD 300 for the online option",
+          "problem": "If the direct move fails, take the GMAT for a top MBA",
+          "seen_via": "search",
           "step": 5,
-          "problem": "Pay the election fee on passing",
-          "price_text": "£131.00",
-          "url": "https://www.property-elite.co.uk/post/how-much-do-the-apc-and-assocrics-assessments-cost",
-          "seen_via": "search"
+          "url": "https://test-ninjas.com/gmat-registration-fees-and-cost"
         },
         {
+          "note": "Kept from old ladder step 4.",
+          "price_text": "$7,300 for 1 school",
+          "problem": "Hire an MBA admissions consultant for the re-brand into banking or PE",
+          "seen_via": "search",
           "step": 6,
-          "problem": "Pay the MRICS professional subscription every year after qualifying (rates rose 3.5% for 2026)",
-          "price_text": null,
-          "url": "https://www.rics.org/renew-my-membership/professional-fees",
-          "seen_via": "search"
+          "url": "https://poetsandquants.com/2023/05/31/what-it-now-costs-to-hire-an-mba-admissions-consultant/"
         }
       ],
+      "lens": "profession",
+      "name": "Big 4 transaction services and financial due diligence associates moving to investment banking or private equity",
+      "origin": "gap_pass",
+      "reasoning": "The generated lists have bankers moving to PE and Indian CAs leaving audit, but not the deals-side accountants who already do due diligence and want the buy side or a bank; the founder is a banker with strong deal and valuation depth, reaches them through colleagues, and the forum threads show a repeated, self-described problem (no modelling, wrong seniority). Employer-rules exclusion applies to any product that touches live deals.",
+      "size": {
+        "confidence": "low",
+        "reasoning": "The Big 4 employed over 1.5 million people in 2025 [measured, page not checked, https://caselane.ai/blog/what-are-big-4-consulting-firms], and deals advisory is a small slice of that; FDD teams worldwide are assumed at 15,000 to 25,000 professionals, with a quarter at the 2-to-5-year mark and a share of those recruiting each year. No team headcount was found. [thin]",
+        "tag": "estimate",
+        "unit": "Big 4 TS or FDD associates and seniors actively trying to move to IB or PE in a year, worldwide",
+        "value": 5000
+      },
+      "slug": "big4-transaction-services-fdd-associates-moving-to-ib-pe",
+      "venture_overlap": [],
+      "where": [
+        {
+          "name": "Wall Street Oasis thread: Big 4 Transaction Services -> IBD",
+          "seen_via": "search",
+          "url": "https://www.wallstreetoasis.com/forum/investment-banking/big-4-transaction-services-ibd"
+        },
+        {
+          "name": "Wall Street Oasis thread: Big 4 Transaction Services (M&A Diligence) to IB plausible?",
+          "seen_via": "search",
+          "url": "https://www.wallstreetoasis.com/forum/investment-banking/big-4-transaction-services-ma-diligence-to-ib-plausible"
+        },
+        {
+          "name": "Wall Street Oasis thread: FDD to PE",
+          "seen_via": "search",
+          "url": "https://www.wallstreetoasis.com/forum/private-equity/fdd-to-pe"
+        },
+        {
+          "name": "Wall Street Oasis thread: Big 4 Strategy and Transactions exit opps",
+          "seen_via": "search",
+          "url": "https://www.wallstreetoasis.com/forum/private-equity/big-4-strategy-and-transactions-exit-opps"
+        },
+        {
+          "name": "Wall Street Oasis thread: Transaction Services (Financial Due Diligence), what did you exit into?",
+          "seen_via": "search",
+          "url": "https://www.wallstreetoasis.com/forum/corporate/transaction-services-financial-due-diligence-what-did-you-exit-into"
+        },
+        {
+          "name": "Wall Street Oasis Q&A: Big 4 TAS financial diligence",
+          "seen_via": "search",
+          "url": "https://www.wallstreetoasis.com/forum/other/qa-big-4-tas-financial-diligence"
+        },
+        {
+          "name": "Wall Street Oasis tag page: big 4",
+          "seen_via": "search",
+          "url": "https://www.wallstreetoasis.com/tag/big-4"
+        },
+        {
+          "name": "Mergers & Inquisitions: Big 4 Transaction Services careers, recruiting and exits (comment threads)",
+          "seen_via": "search",
+          "url": "https://mergersandinquisitions.com/big-4-transaction-services/"
+        },
+        {
+          "name": "Glassdoor community thread: FDD to private equity without a CPA?",
+          "seen_via": "search",
+          "url": "https://www.glassdoor.co.uk/Community/finance/is-it-possible-for-financial-due-diligence-to-transition-into-private-equity-without-a-cpa-im-considering-pursuing-an-mba-i2yi-5"
+        },
+        {
+          "name": "Quora: how to transition from financial due diligence to private equity",
+          "seen_via": "search",
+          "url": "https://www.quora.com/How-do-I-transition-from-financial-due-diligence-to-private-equity"
+        },
+        {
+          "name": "Medium: Big 4 Transaction Services to private equity, a viable mid-market pathway",
+          "seen_via": "search",
+          "url": "https://elitecareersstrategy.medium.com/why-transaction-services-big-4-is-a-viable-route-into-private-equity-616a129b2893"
+        },
+        {
+          "name": "eFinancialCareers: Deal advisory jobs in the Big Four",
+          "seen_via": "search",
+          "url": "https://www.efinancialcareers.com/news/2020/05/deal-advisory-jobs-big-four"
+        }
+      ],
+      "who": "Associates and senior associates (2 to 5 years in) in the deals, transaction services or financial due diligence teams of Deloitte, PwC, EY and KPMG, usually ACA, CA or CPA qualified, who want to move to a bank's M&A team or a mid-market private equity fund. Forums tell them the gap is modelling and deal execution, that only smaller funds look at them, and that timing (analyst versus associate entry) decides the path.",
+      "who_pays": "The associate pays personally: a modelling course to close the gap forums name first, an interview or LBO-test course, and if the direct move fails, the GMAT and an MBA admissions consultant. Big 4 pay is enough to make $300 to $500 purchases routine and a $7,000 consultant a considered one."
+    },
+    {
+      "confidence": "moderate",
+      "duplicate_of": null,
       "geography": [
         "GB",
         "AE",
@@ -543,114 +435,142 @@
         "IE",
         "GLOBAL"
       ],
-      "venture_overlap": [],
-      "duplicate_of": null,
-      "reasoning": "A measured, deadline-driven room with yearly fees and a 59% pass rate that keeps a coaching market alive; the founder's industrial and logistics real estate depth fits the commercial property and valuation pathways, though he is not RICS-qualified and would need a chartered partner for assessor-grade judgment. No existing room covers surveyors at all.",
-      "confidence": "moderate"
-    },
-    {
-      "slug": "corporate-development-associates-in-house-ma",
-      "name": "Corporate development associates running in-house M&A",
-      "lens": "profession",
-      "origin": "gap_pass",
-      "who": "Associates and managers in the corporate development teams of acquisitive companies, usually ex-bankers or ex-consultants, who source targets, build models, run diligence and hand deals to integration. They compare notes on pay, deal flow and whether to stay, move up to director, or pivot back to banking or private equity; many weigh an MBA.",
-      "where": [
-        {
-          "name": "Wall Street Oasis: Corporate Finance, Development and Strategy forum",
-          "url": "https://www.wallstreetoasis.com/forum/corporate",
-          "seen_via": "search"
-        },
-        {
-          "name": "Wall Street Oasis thread: The Other Road, corporate development associate fielding questions",
-          "url": "https://www.wallstreetoasis.com/forum/corporate/the-other-road-corporate-development-associate-fielding-questions",
-          "seen_via": "search"
-        },
-        {
-          "name": "Wall Street Oasis: Corp Dev comp megathread",
-          "url": "https://www.wallstreetoasis.com/forum/investment-banking/corp-dev-comp-megathread",
-          "seen_via": "search"
-        },
-        {
-          "name": "Wall Street Oasis: corporate development questions (forum index)",
-          "url": "https://www.wallstreetoasis.com/forums/corporate-development-questions",
-          "seen_via": "search"
-        },
-        {
-          "name": "Wall Street Oasis thread: anyone actually like their corporate development job? (post-IB)",
-          "url": "https://www.wallstreetoasis.com/forum/corporate/anyone-actually-like-their-corporate-development-job-post-ib",
-          "seen_via": "search"
-        },
-        {
-          "name": "Wall Street Oasis thread: what can corporate development pivot into?",
-          "url": "https://www.wallstreetoasis.com/forum/corporate/what-can-corporate-development-pivot-into",
-          "seen_via": "search"
-        },
-        {
-          "name": "Wall Street Oasis thread: Corporate Development, my experiences and background",
-          "url": "https://www.wallstreetoasis.com/forum/corporate/corporate-development-my-experiences-and-background",
-          "seen_via": "search"
-        },
-        {
-          "name": "Mergers & Inquisitions: corporate development career path, salaries and exit opps (comment threads)",
-          "url": "https://mergersandinquisitions.com/corporate-development-careers/",
-          "seen_via": "search"
-        },
-        {
-          "name": "M&A Science: DealPilot membership (community and courses for buy-side M&A practitioners)",
-          "url": "https://www.mascience.com/membership",
-          "seen_via": "search"
-        },
-        {
-          "name": "DealRoom blog: corporate development career path",
-          "url": "https://dealroom.net/blog/corporate-development-career-path",
-          "seen_via": "search"
-        }
-      ],
-      "who_pays": "The associate pays for courses that keep modelling and deal skills current and for the GMAT and admissions help if they pivot; employers pay for executive education and practitioner memberships when the team is building a playbook. Base pay of $100K to $120K with bonuses of 20-30% at large companies in major financial centres [measured, page not checked, https://mergersandinquisitions.com/corporate-development-careers/].",
-      "size": {
-        "value": 8000,
-        "unit": "corporate development associates and managers with 2 to 6 years' experience, worldwide",
-        "tag": "estimate",
-        "reasoning": "Every large acquisitive company runs a corporate development team of roughly 3 to 15 people, and the WSO corporate forum has thousands of discussions on the role; with several thousand such teams in the US, Europe, India and the Gulf, a few thousand people sit at associate-to-manager level at any time. No headcount source was found. [thin]",
-        "confidence": "low"
-      },
       "ladder": [
         {
+          "price_text": "£502.00",
+          "problem": "Enrol on the APC (registration, professional module and final assessment)",
+          "seen_via": "search",
           "step": 1,
-          "problem": "Keep modelling sharp for the deals the team runs (M&A accretion/dilution, LBO, comps)",
-          "price_text": "$499",
-          "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
-          "seen_via": "search"
+          "url": "https://www.property-elite.co.uk/post/how-much-do-the-apc-and-assocrics-assessments-cost"
         },
         {
+          "price_text": "£167.00",
+          "problem": "Pay the candidate subscription every year until qualified",
+          "seen_via": "search",
           "step": 2,
-          "problem": "Learn the corporate development playbook from practitioners: sourcing, diligence, integration",
-          "price_text": "$1,800 per year ($150/month, billed annually)",
-          "url": "https://dealroom.net/blog/mergers-and-acquisitions-training-courses-and-certification",
-          "seen_via": "search"
+          "url": "https://www.property-elite.co.uk/post/how-much-do-the-apc-and-assocrics-assessments-cost"
         },
         {
+          "price_text": "£165 per hour (£137.50 plus VAT per hour)",
+          "problem": "Hire an APC coach for the summary of experience and case study",
+          "seen_via": "search",
           "step": 3,
-          "problem": "Take an executive course to move up to manager or director",
-          "price_text": "US$2,714",
-          "url": "https://online-execed.wharton.upenn.edu/mergers-acquisitions-corporate-development-strategies",
-          "seen_via": "search"
+          "url": "https://www.delever.com/coaching"
         },
         {
+          "price_text": "£350.00 excluding VAT",
+          "problem": "Buy a mock final assessment interview with an assessor",
+          "seen_via": "search",
           "step": 4,
-          "problem": "Take the GMAT for an MBA pivot",
-          "price_text": "USD 275 at a test center or USD 300 for the online option",
-          "url": "https://test-ninjas.com/gmat-registration-fees-and-cost",
-          "seen_via": "search"
+          "url": "https://www.property-elite.co.uk/product-page/e-mock-interview"
         },
         {
+          "price_text": "£131.00",
+          "problem": "Pay the election fee on passing",
+          "seen_via": "search",
           "step": 5,
-          "problem": "Hire an MBA admissions consultant",
-          "price_text": "$7,300 for 1 school",
-          "url": "https://poetsandquants.com/2023/05/31/what-it-now-costs-to-hire-an-mba-admissions-consultant/",
-          "seen_via": "search"
+          "url": "https://www.property-elite.co.uk/post/how-much-do-the-apc-and-assocrics-assessments-cost"
+        },
+        {
+          "price_text": null,
+          "problem": "Pay the MRICS professional subscription every year after qualifying (rates rose 3.5% for 2026)",
+          "seen_via": "search",
+          "step": 6,
+          "url": "https://www.rics.org/renew-my-membership/professional-fees"
         }
       ],
+      "lens": "profession",
+      "name": "RICS APC candidates working toward chartered surveyor status",
+      "origin": "gap_pass",
+      "reasoning": "A measured, deadline-driven room with yearly fees and a 59% pass rate that keeps a coaching market alive; the founder's industrial and logistics real estate depth fits the commercial property and valuation pathways, though he is not RICS-qualified and would need a chartered partner for assessor-grade judgment. No existing room covers surveyors at all.",
+      "size": {
+        "confidence": "moderate",
+        "reasoning": "RICS Annual Review 2024: 7,644 candidates enrolled in 2024, UK enrolments 4,832, 3,924 new members joined, global APC pass rate 59% [page not checked]. The active candidate stock is larger (two-year route), so the room is roughly 12,000 to 15,000 people at any time.",
+        "tag": "measured",
+        "unit": "candidates enrolled with RICS in 2024, all routes",
+        "url": "https://www.rics.org/about-rics/corporate-governance/annual-review-and-remuneration-report/rics-annual-review-2024",
+        "value": 7644
+      },
+      "slug": "rics-apc-candidates-commercial-property",
+      "venture_overlap": [],
+      "where": [
+        {
+          "name": "RICS: candidate assessment information",
+          "seen_via": "search",
+          "url": "https://www.rics.org/candidates/assessment-information"
+        },
+        {
+          "name": "RICS: APC submissions and assessment",
+          "seen_via": "search",
+          "url": "https://www.rics.org/candidates/assessment-information/apc-submissions-assessment"
+        },
+        {
+          "name": "RICS Matrics International (early-career community for students, trainees and newly qualified)",
+          "seen_via": "search",
+          "url": "https://www.rics.org/get-involved/rics-matrics-international"
+        },
+        {
+          "name": "isurv: APC (candidates) section",
+          "seen_via": "search",
+          "url": "https://www.isurv.com/info/1440/apc_candidates"
+        },
+        {
+          "name": "The SOS APC Podcast: Surveyors Online Support (Spotify)",
+          "seen_via": "search",
+          "url": "https://open.spotify.com/show/3r1ZGUVjRpiBl8l7SLMDhm"
+        },
+        {
+          "name": "Property Elite: RICS APC Lifeline, mock interviews (coaching provider's candidate blog)",
+          "seen_via": "search",
+          "url": "https://www.property-elite.co.uk/post/rics-apc-lifeline-mock-interviews"
+        },
+        {
+          "name": "Property Elite: nightmare APC referral post",
+          "seen_via": "search",
+          "url": "https://www.property-elite.co.uk/post/rics-apc-lifeline-nightmare-apc-referral"
+        },
+        {
+          "name": "APC Guide resources: how difficult is the RICS APC, we asked 100 candidates",
+          "seen_via": "search",
+          "url": "https://resources.apcguide.com/how-difficult-is-the-rics-apc-we-asked-100-candidates/"
+        },
+        {
+          "name": "APC Guide resources: RICS APC interview process, full 60 minutes explained",
+          "seen_via": "search",
+          "url": "https://resources.apcguide.com/rics-apc-interview-process-full-60-minutes-explained/"
+        },
+        {
+          "name": "DeLever: RICS APC training and coaching",
+          "seen_via": "search",
+          "url": "https://www.delever.com/"
+        },
+        {
+          "name": "APCeye blog: APC mock interviews",
+          "seen_via": "search",
+          "url": "https://apceye.wordpress.com/tag/apc-mock-interviews/page/2/"
+        },
+        {
+          "name": "Eddisons: Confessions of an APC student",
+          "seen_via": "search",
+          "url": "https://www.eddisons.com/news/confessions-of-an-apc-student"
+        },
+        {
+          "name": "Construction Placements: top 30 RICS APC interview questions for QS",
+          "seen_via": "search",
+          "url": "https://www.constructionplacements.com/rics-apc-interview-questions-answers-quantity-surveyors/"
+        },
+        {
+          "name": "Surveyor Success: RICS APC guide for quantity surveyors",
+          "seen_via": "search",
+          "url": "https://www.surveyorsuccess.co.uk/article/rics-apc-guide"
+        }
+      ],
+      "who": "Graduate surveyors enrolled on the RICS Assessment of Professional Competence, mostly in the UK, the UAE and Saudi Arabia, in commercial property, valuation, quantity surveying and related pathways. Over two years of structured training they log experience, write a summary of experience and a case study, then face a 60-minute online final assessment interview that 41% fail. They pay RICS fees every year until they pass and buy coaching and mock interviews from a crowded market of ex-assessors.",
+      "who_pays": "Employers often pay RICS enrolment and annual candidate fees under structured training; candidates pay for coaching, mock interviews, presentation reviews and mentoring themselves, especially after a referral. The full route costs £1,525.00 in RICS fees alone on a two-year route passed first time [measured, page not checked, https://www.property-elite.co.uk/post/how-much-do-the-apc-and-assocrics-assessments-cost]."
+    },
+    {
+      "confidence": "moderate",
+      "duplicate_of": null,
       "geography": [
         "US",
         "GB",
@@ -658,148 +578,244 @@
         "AE",
         "GLOBAL"
       ],
-      "venture_overlap": [],
-      "duplicate_of": null,
-      "reasoning": "The lists cover bankers leaving for corp dev and FP&A analysts, but not the people already inside corporate development, a group with its own WSO forum, its own pay megathread and paid practitioner memberships; the founder's deal depth is strong and colleagues are the warm path. Overlaps in spirit with ib-associates-vps-leaving-banking (the pipeline into this room) but is a different life situation.",
-      "confidence": "moderate"
-    },
-    {
-      "slug": "valuation-analysts-pursuing-bv-credentials",
-      "name": "Valuation analysts pursuing a business valuation credential (CVA, ABV, ASA or IBBI registered valuer)",
-      "lens": "profession",
-      "origin": "gap_pass",
-      "who": "Accountants and finance professionals who value private companies, shares and intangibles for deals, tax, disputes and insolvency, and who need a credential to sign reports: in the US the CVA (NACVA), ABV (AICPA) or ASA; in India the IBBI registered valuer licence for securities or financial assets, which needs 50 hours of mandatory training through a registered valuers organisation and an exam. They pay for training, exams, applications, memberships and data subscriptions, then recertify.",
-      "where": [
-        {
-          "name": "NACVA: classifications of membership (over 7,000 members and certificants)",
-          "url": "https://www.nacva.com/membership",
-          "seen_via": "search"
-        },
-        {
-          "name": "NACVA: apply for the CVA credential",
-          "url": "https://www.nacva.com/cvaapplication",
-          "seen_via": "search"
-        },
-        {
-          "name": "NACVA: recertification policies updated (third quarter 2025 member news)",
-          "url": "https://www.nacva.com/content.asp?contentid=1480",
-          "seen_via": "search"
-        },
-        {
-          "name": "Business Valuation Association: members forum resources",
-          "url": "https://businessvaluationassociation.org/members-forum/resources.html",
-          "seen_via": "search"
-        },
-        {
-          "name": "Business Valuation Resources (BVR): community, research and news for the BV profession",
-          "url": "https://www.bvresources.com/",
-          "seen_via": "search"
-        },
-        {
-          "name": "American Society of Appraisers: guide to ASA, NACVA, AICPA-ABV, CBV Institute and RICS credentials (PDF)",
-          "url": "https://www.appraisers.org/docs/default-source/6.-publications/vab6/ch-01-asa-nacva-aicpa-cbv-rics.pdf?sfvrsn=2874607d_5",
-          "seen_via": "search"
-        },
-        {
-          "name": "IBBI: registered valuers directory",
-          "url": "https://ibbi.gov.in/service-provider/rvs",
-          "seen_via": "search"
-        },
-        {
-          "name": "IBBI: valuation examination page",
-          "url": "https://ibbi.gov.in/examination/valuation-examination",
-          "seen_via": "search"
-        },
-        {
-          "name": "ICAI Registered Valuers Organisation",
-          "url": "https://icairvo.in/",
-          "seen_via": "search"
-        },
-        {
-          "name": "ICMAI RVO: format of the IBBI examination",
-          "url": "https://www.rvoicmai.in/format-of-examination",
-          "seen_via": "search"
-        },
-        {
-          "name": "Valuer World: list of registered valuer organisations in India",
-          "url": "https://www.valuerworld.com/2022/02/04/list-of-registered-valuer-organisations-rvos-as-per-ibbi-website/",
-          "seen_via": "search"
-        },
-        {
-          "name": "Taxguru: how to become a registered valuer under IBBI",
-          "url": "https://taxguru.in/corporate-law/registered-valuer-insolvency-bankruptcy-board-india-ibbi.html",
-          "seen_via": "search"
-        }
-      ],
-      "who_pays": "The professional pays: mandatory training, the exam, the application, then yearly membership and data or software subscriptions that the credential body bundles; small firms sometimes reimburse. In India the training alone is Rs. 20,000 to 25,000 before a Rs. 5,900 exam attempt [measured, page not checked, https://taxguru.in/corporate-law/registered-valuer-insolvency-bankruptcy-board-india-ibbi.html].",
-      "size": {
-        "value": 3000,
-        "unit": "professionals pursuing a business valuation credential in a year, US and India",
-        "tag": "estimate",
-        "reasoning": "NACVA has over 7,000 members and certificants [measured, page not checked, https://www.nacva.com/] and the IBBI register shows registration IDs up to at least 5,872 as of June 2025 [measured, page not checked, https://ibbi.gov.in/service-provider/rvs]. A stock of roughly 15,000 credentialed valuers across the two countries, with turnover and growth, implies a yearly inflow in the low thousands. [thin]",
-        "confidence": "low"
-      },
       "ladder": [
         {
+          "note": "Reused from the old ladder (step 1). Bought by the associate, often reimbursed. Standard entry purchase for ex-consultants and anyone whose modelling has gone rusty.",
+          "price_text": "$499",
+          "problem": "Keep deal modelling sharp for the transactions the team runs (accretion/dilution, LBO, comps): a self-study modelling course",
+          "seen_via": "search",
           "step": 1,
-          "problem": "Complete the mandatory or recommended training before the exam (India: 50 hours through an RVO)",
-          "price_text": "Rs. 20,000 to 25,000",
-          "url": "https://taxguru.in/corporate-law/registered-valuer-insolvency-bankruptcy-board-india-ibbi.html",
-          "seen_via": "search"
+          "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/"
         },
         {
+          "note": "Replaces the old step 2 price ($1,800 per year seen on a third-party blog). The vendor's own pricing page title shows Professional membership at $995/yr; the same search showed the newer DealPilot Practitioners tier at $1,995/year on mascience.com/membership. Employer usually pays.",
+          "price_text": "$995/yr",
+          "problem": "Learn the buy-side playbook (sourcing, diligence, integration) from practitioners: an M&A practitioner membership with playbooks and templates",
+          "seen_via": "search",
           "step": 2,
-          "problem": "Or buy the US self-study CVA training package",
-          "price_text": "$2,975.00",
-          "url": "http://web.nacva.com/TL-Website/Files/BV_University/CVA_Standard_Pricing.pdf",
-          "seen_via": "search"
+          "url": "https://www.mascience.com/pricing"
         },
         {
+          "note": "New step. Same page shows $1,000/month on annual billing ($12,000/year) and that the Pipeline plan is annual-only at $12,000/year. The company pays, but the associate or manager is the buyer who picks and runs it. Moderate confidence that small corp dev teams commonly pay; many still use Excel and the seller's data room.",
+          "price_text": "$1,250/month",
+          "problem": "Run live deals without spreadsheets and email: deal pipeline and diligence software (one project room)",
+          "seen_via": "search",
           "step": 3,
-          "problem": "Sit the credential exam",
-          "price_text": "$625.00",
-          "url": "http://web.nacva.com/TL-Website/Files/BV_University/CVA_Standard_Pricing.pdf",
-          "seen_via": "search"
+          "url": "https://www.tryplox.com/blog/dealroom-pricing"
         },
         {
+          "note": "Reused from the old ladder (step 3). Employer-funded in most cases.",
+          "price_text": "US$2,714",
+          "problem": "Move up to manager or director: an executive M&A and corporate development course",
+          "seen_via": "search",
           "step": 4,
-          "problem": "Or sit the IBBI valuation exam (per attempt)",
-          "price_text": "Rs. 5,900 per attempt",
-          "url": "https://taxguru.in/corporate-law/registered-valuer-insolvency-bankruptcy-board-india-ibbi.html",
-          "seen_via": "search"
+          "url": "https://online-execed.wharton.upenn.edu/mergers-acquisitions-corporate-development-strategies"
         },
         {
+          "note": "Old steps 4 and 5 (GMAT, admissions consultant) merged: they are one problem, getting into an MBA. GMAT fee seen at USD 275 at a test center or USD 300 online (https://test-ninjas.com/gmat-registration-fees-and-cost). Only a minority of the room takes this route.",
+          "price_text": "$7,300 for 1 school",
+          "problem": "The MBA pivot for the minority who reset: admissions consulting plus the GMAT",
+          "seen_via": "search",
           "step": 5,
-          "problem": "Apply for the designation",
-          "price_text": "$100",
-          "url": "https://www.nacva.com/cvaapplication",
-          "seen_via": "search"
-        },
-        {
-          "step": 6,
-          "problem": "Keep the credential and the toolkit: training, data and software subscription",
-          "price_text": "$725 per month",
-          "url": "https://www.nacva.com/ultimate",
-          "seen_via": "search"
-        },
-        {
-          "step": 7,
-          "problem": "Recertify every three years",
-          "price_text": null,
-          "url": "https://www.nacva.com/content.asp?contentid=1418",
-          "seen_via": "search"
+          "url": "https://poetsandquants.com/2023/05/31/what-it-now-costs-to-hire-an-mba-admissions-consultant/"
         }
       ],
+      "lens": "profession",
+      "name": "Corporate development associates running in-house M&A",
+      "origin": "gap_pass",
+      "reasoning": "The lists cover bankers leaving for corp dev and FP&A analysts, but not the people already inside corporate development, a group with its own WSO forum, its own pay megathread and paid practitioner memberships; the founder's deal depth is strong and colleagues are the warm path. Overlaps in spirit with ib-associates-vps-leaving-banking (the pipeline into this room) but is a different life situation.",
+      "size": {
+        "confidence": "low",
+        "reasoning": "Every large acquisitive company runs a corporate development team of roughly 3 to 15 people, and the WSO corporate forum has thousands of discussions on the role; with several thousand such teams in the US, Europe, India and the Gulf, a few thousand people sit at associate-to-manager level at any time. No headcount source was found. [thin]",
+        "tag": "estimate",
+        "unit": "corporate development associates and managers with 2 to 6 years' experience, worldwide",
+        "value": 8000
+      },
+      "slug": "corporate-development-associates-in-house-ma",
+      "venture_overlap": [],
+      "where": [
+        {
+          "name": "Wall Street Oasis: Corporate Finance, Development and Strategy forum",
+          "seen_via": "search",
+          "url": "https://www.wallstreetoasis.com/forum/corporate"
+        },
+        {
+          "name": "Wall Street Oasis thread: The Other Road, corporate development associate fielding questions",
+          "seen_via": "search",
+          "url": "https://www.wallstreetoasis.com/forum/corporate/the-other-road-corporate-development-associate-fielding-questions"
+        },
+        {
+          "name": "Wall Street Oasis: Corp Dev comp megathread",
+          "seen_via": "search",
+          "url": "https://www.wallstreetoasis.com/forum/investment-banking/corp-dev-comp-megathread"
+        },
+        {
+          "name": "Wall Street Oasis: corporate development questions (forum index)",
+          "seen_via": "search",
+          "url": "https://www.wallstreetoasis.com/forums/corporate-development-questions"
+        },
+        {
+          "name": "Wall Street Oasis thread: anyone actually like their corporate development job? (post-IB)",
+          "seen_via": "search",
+          "url": "https://www.wallstreetoasis.com/forum/corporate/anyone-actually-like-their-corporate-development-job-post-ib"
+        },
+        {
+          "name": "Wall Street Oasis thread: what can corporate development pivot into?",
+          "seen_via": "search",
+          "url": "https://www.wallstreetoasis.com/forum/corporate/what-can-corporate-development-pivot-into"
+        },
+        {
+          "name": "Wall Street Oasis thread: Corporate Development, my experiences and background",
+          "seen_via": "search",
+          "url": "https://www.wallstreetoasis.com/forum/corporate/corporate-development-my-experiences-and-background"
+        },
+        {
+          "name": "Mergers & Inquisitions: corporate development career path, salaries and exit opps (comment threads)",
+          "seen_via": "search",
+          "url": "https://mergersandinquisitions.com/corporate-development-careers/"
+        },
+        {
+          "name": "M&A Science: DealPilot membership (community and courses for buy-side M&A practitioners)",
+          "seen_via": "search",
+          "url": "https://www.mascience.com/membership"
+        },
+        {
+          "name": "DealRoom blog: corporate development career path",
+          "seen_via": "search",
+          "url": "https://dealroom.net/blog/corporate-development-career-path"
+        }
+      ],
+      "who": "Associates and managers in the corporate development teams of acquisitive companies, usually ex-bankers or ex-consultants, who source targets, build models, run diligence and hand deals to integration. They compare notes on pay, deal flow and whether to stay, move up to director, or pivot back to banking or private equity; many weigh an MBA.",
+      "who_pays": "The associate pays for courses that keep modelling and deal skills current and for the GMAT and admissions help if they pivot; employers pay for executive education and practitioner memberships when the team is building a playbook. Base pay of $100K to $120K with bonuses of 20-30% at large companies in major financial centres [measured, page not checked, https://mergersandinquisitions.com/corporate-development-careers/]."
+    },
+    {
+      "confidence": "low",
+      "duplicate_of": null,
       "geography": [
         "US",
         "IN",
         "CA",
         "GLOBAL"
       ],
-      "venture_overlap": [],
-      "duplicate_of": null,
+      "ladder": [
+        {
+          "note": "Reused from the current ladder. The old US and India alternatives are merged into one step; the India price (taxguru.in) is kept in this note rather than as a separate step.",
+          "price_text": "$2,975.00",
+          "problem": "Complete the required training before the credential exam (US: NACVA CVA self-study training package; India: 50-hour RVO course at Rs. 20,000 to 25,000)",
+          "seen_via": "search",
+          "step": 1,
+          "url": "http://web.nacva.com/TL-Website/Files/BV_University/CVA_Standard_Pricing.pdf"
+        },
+        {
+          "note": "Reused from the current ladder; the old separate IBBI exam step is merged here.",
+          "price_text": "$625.00",
+          "problem": "Sit the credential exam (NACVA CVA exam; India: IBBI valuation exam at Rs. 5,900 per attempt on the old ladder's source)",
+          "seen_via": "search",
+          "step": 2,
+          "url": "http://web.nacva.com/TL-Website/Files/BV_University/CVA_Standard_Pricing.pdf"
+        },
+        {
+          "note": "Reused from the current ladder.",
+          "price_text": "$100",
+          "problem": "Apply for and register the designation",
+          "seen_via": "search",
+          "step": 3,
+          "url": "https://www.nacva.com/cvaapplication"
+        },
+        {
+          "note": "Seen as 'an annual subscription to DealStats currently costs $1,050 per year'. Replaces the old $725-per-month 'Ultimate' bundle, which is one vendor's top tier rather than the common spend. Comparable-transaction data is bought by nearly every practising valuer.",
+          "price_text": "$1,050 per year",
+          "problem": "Buy the transaction data needed to do valuation work (DealStats annual subscription)",
+          "seen_via": "search",
+          "step": 4,
+          "url": "https://searchfunder.com/post/searchfunder-announces-partnership-with-bvr-dealstats"
+        },
+        {
+          "note": "Seen as 'NACVA will waive the entire $400 recertification fee for designees that complete at least 30 hours of NACVA courses', so the spend is either the fee or the courses. Replaces the old unpriced recertify step.",
+          "price_text": "$400 recertification fee",
+          "problem": "Keep the credential: continuing education and the three-year recertification fee",
+          "seen_via": "search",
+          "step": 5,
+          "url": "https://www.nacva.com/recertification"
+        }
+      ],
+      "lens": "profession",
+      "name": "Valuation analysts pursuing a business valuation credential (CVA, ABV, ASA or IBBI registered valuer)",
+      "origin": "gap_pass",
       "reasoning": "Valuation is the founder's strongest depth and this room pays a long, fixed sequence of credential costs already priced by the bodies themselves; no existing room touches valuers. The gathering evidence is weaker than the other rooms (association pages, one members' forum, RVO bodies, no open discussion thread seen), and any product must avoid giving licensed valuation opinions.",
-      "confidence": "low"
+      "size": {
+        "confidence": "low",
+        "reasoning": "NACVA has over 7,000 members and certificants [measured, page not checked, https://www.nacva.com/] and the IBBI register shows registration IDs up to at least 5,872 as of June 2025 [measured, page not checked, https://ibbi.gov.in/service-provider/rvs]. A stock of roughly 15,000 credentialed valuers across the two countries, with turnover and growth, implies a yearly inflow in the low thousands. [thin]",
+        "tag": "estimate",
+        "unit": "professionals pursuing a business valuation credential in a year, US and India",
+        "value": 3000
+      },
+      "slug": "valuation-analysts-pursuing-bv-credentials",
+      "venture_overlap": [],
+      "where": [
+        {
+          "name": "NACVA: classifications of membership (over 7,000 members and certificants)",
+          "seen_via": "search",
+          "url": "https://www.nacva.com/membership"
+        },
+        {
+          "name": "NACVA: apply for the CVA credential",
+          "seen_via": "search",
+          "url": "https://www.nacva.com/cvaapplication"
+        },
+        {
+          "name": "NACVA: recertification policies updated (third quarter 2025 member news)",
+          "seen_via": "search",
+          "url": "https://www.nacva.com/content.asp?contentid=1480"
+        },
+        {
+          "name": "Business Valuation Association: members forum resources",
+          "seen_via": "search",
+          "url": "https://businessvaluationassociation.org/members-forum/resources.html"
+        },
+        {
+          "name": "Business Valuation Resources (BVR): community, research and news for the BV profession",
+          "seen_via": "search",
+          "url": "https://www.bvresources.com/"
+        },
+        {
+          "name": "American Society of Appraisers: guide to ASA, NACVA, AICPA-ABV, CBV Institute and RICS credentials (PDF)",
+          "seen_via": "search",
+          "url": "https://www.appraisers.org/docs/default-source/6.-publications/vab6/ch-01-asa-nacva-aicpa-cbv-rics.pdf?sfvrsn=2874607d_5"
+        },
+        {
+          "name": "IBBI: registered valuers directory",
+          "seen_via": "search",
+          "url": "https://ibbi.gov.in/service-provider/rvs"
+        },
+        {
+          "name": "IBBI: valuation examination page",
+          "seen_via": "search",
+          "url": "https://ibbi.gov.in/examination/valuation-examination"
+        },
+        {
+          "name": "ICAI Registered Valuers Organisation",
+          "seen_via": "search",
+          "url": "https://icairvo.in/"
+        },
+        {
+          "name": "ICMAI RVO: format of the IBBI examination",
+          "seen_via": "search",
+          "url": "https://www.rvoicmai.in/format-of-examination"
+        },
+        {
+          "name": "Valuer World: list of registered valuer organisations in India",
+          "seen_via": "search",
+          "url": "https://www.valuerworld.com/2022/02/04/list-of-registered-valuer-organisations-rvos-as-per-ibbi-website/"
+        },
+        {
+          "name": "Taxguru: how to become a registered valuer under IBBI",
+          "seen_via": "search",
+          "url": "https://taxguru.in/corporate-law/registered-valuer-insolvency-bankruptcy-board-india-ibbi.html"
+        }
+      ],
+      "who": "Accountants and finance professionals who value private companies, shares and intangibles for deals, tax, disputes and insolvency, and who need a credential to sign reports: in the US the CVA (NACVA), ABV (AICPA) or ASA; in India the IBBI registered valuer licence for securities or financial assets, which needs 50 hours of mandatory training through a registered valuers organisation and an exam. They pay for training, exams, applications, memberships and data subscriptions, then recertify.",
+      "who_pays": "The professional pays: mandatory training, the exam, the application, then yearly membership and data or software subscriptions that the credential body bundles; small firms sometimes reimburse. In India the training alone is Rs. 20,000 to 25,000 before a Rs. 5,900 exam attempt [measured, page not checked, https://taxguru.in/corporate-law/registered-valuer-insolvency-bankruptcy-board-india-ibbi.html]."
     }
   ]
 }

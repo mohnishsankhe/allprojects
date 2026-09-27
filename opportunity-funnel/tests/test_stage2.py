@@ -296,3 +296,15 @@ def test_rerun_is_idempotent_and_never_duplicates_graveyard_lines(froot, run, cl
     assert gy1.count("room:bravo") == 1 and gy1.count("room:charlie") == 1
     kinds = [e["kind"] for e in common.read_jsonl(run / "runlog.jsonl") if e["command"] == "mask"]
     assert kinds.count("count") == 2
+
+
+def test_priced_ladder_steps_breaks_ties_before_slug():
+    """Two rooms tied on ladder length and spend points: the one with more priced ladder steps ranks first."""
+    import stage2
+    a = {"slug": "a-room", "ladder_steps": 7, "spend_points": 4, "spend_points_verified": 0,
+         "priced_ladder_steps": 6, "reach_kind": "warm"}
+    b = {"slug": "b-room", "ladder_steps": 7, "spend_points": 4, "spend_points_verified": 0,
+         "priced_ladder_steps": 7, "reach_kind": "warm"}
+    rank_by = ["ladder_steps", "spend_points_verified", "spend_points", "priced_ladder_steps", "warm_reach"]
+    ranked = sorted([a, b], key=lambda v: stage2.rank_key(v, rank_by))
+    assert [v["slug"] for v in ranked] == ["b-room", "a-room"]
