@@ -330,3 +330,6 @@
 {"command": "show", "ids": 3, "kind": "ran", "missing": [], "room": "startup-founders-409a-83b-deadlines", "stage": 3, "ts": "2026-09-27T09:16:34+00:00"}
 {"command": "listen-status", "dated": 32, "kind": "ran", "per_round": {"1": 922}, "per_source": {"websearch": 922}, "records": 922, "room": "business-brokers-ma-boutiques", "stage": 3, "ts": "2026-09-27T09:17:49+00:00", "undated": 890}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T09:18:01+00:00"}
+{"by_kind": {"blog_or_site": 371, "forum": 10, "jobs": 104, "news": 104, "official": 43, "qa": 75, "reviews": 81, "social": 36, "video": 58}, "by_source": {"websearch": 882}, "by_voice": {"media": 180, "member": 31, "other": 473, "seller": 198}, "command": "count", "kind": "count", "labeled": 882, "pains": 10, "room": "dubai-real-estate-brokerages-telesales", "source_kinds": 9, "stage": 3, "ts": "2026-09-27T09:22:09+00:00"}
+{"command": "saturation", "kind": "count", "new_pains": [], "new_records": 882, "rank_changes": 0, "records": 882, "room": "dubai-real-estate-brokerages-telesales", "round": 1, "saturated": false, "stage": 3, "stop_reason": null, "ts": "2026-09-27T09:22:13+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T09:23:04+00:00"}

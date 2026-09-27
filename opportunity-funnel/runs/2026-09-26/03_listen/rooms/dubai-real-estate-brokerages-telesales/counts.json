@@ -1,0 +1,298 @@
+{
+  "labeled": 882,
+  "notes": [],
+  "pains": {
+    "agent-churn": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Agents fail and leave; retention rates remain weak",
+      "media_record_ids": [
+        "2bde480ffa644194",
+        "5317e0a3cc5fa44c",
+        "d3c9121ee2575a08",
+        "e4b82cf8fc8eb1bd"
+      ],
+      "media_records": 4,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "023e9197cf62141d",
+        "e35b58d0e8e711f2"
+      ],
+      "seller_records": 2
+    },
+    "brokerage-squeeze": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Brokerage firms feel the squeeze: lay-offs, shakeout, closures",
+      "media_record_ids": [
+        "240dbac31bcc9a5c",
+        "2adb1df8eb0c9aa7",
+        "3ed76b9bf916d587",
+        "9d23cf1f6aea2c99",
+        "a58233d9b72cc45b",
+        "b41519013636c0b5",
+        "cc2defe77cd91492",
+        "e1cce4c372151060"
+      ],
+      "media_records": 8,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [],
+      "seller_records": 0
+    },
+    "cold-calling-ban": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Cold calling now costs the firm a Dh50,000 fine and agents a suspension",
+      "media_record_ids": [
+        "00a0638b442c5200",
+        "057ed7b37b63dc30",
+        "05fd1f8d1dc12b65",
+        "0dc0bf140ca69bdd",
+        "12ddec0aa3f1f1bc",
+        "2a8a8ab6afd28dea",
+        "2c561e0811f2f8bf",
+        "2de3d1eae3824de5",
+        "30c6c7781babb5f0",
+        "312136f21ed4e82f",
+        "3131f54d0def7e8f",
+        "31ee2f2ff7518111",
+        "3faa9fcf908c30b2",
+        "46998e34340ded56",
+        "53c2e1cd0b6c9396",
+        "58627736dcafc0fe",
+        "6128236565a2f294",
+        "6749853f364f60a0",
+        "684b8de19781b441",
+        "69d63f687364074f",
+        "6d29228164dcd136",
+        "6f9d5d15ea3854b0",
+        "7404be12c80c3d7e",
+        "7bf19c2eb573d37c",
+        "8ce49fcf24996cc9",
+        "8d635ec52fa87748",
+        "94ae226d5d8d034d",
+        "9a70d53a2fb12f97",
+        "9df22705eb3c8627",
+        "a9a4f7f12bf14a19",
+        "ab0face9bbcf75f0",
+        "bb73835d82b82461",
+        "c4f5edcec0c7d48d",
+        "d37922f3521d23fb",
+        "d5119a30df0ce742",
+        "d76d2b4bc8699cd1",
+        "d78beb8b97e140a4",
+        "df1bac7f946b7c6f",
+        "e0864037dcb8e075",
+        "e7e6885b30510ea1",
+        "e81fd27e6d102310",
+        "fa1bc37d5ddff883",
+        "fa33c848dc648aa4",
+        "fb2b833ad7e5416e"
+      ],
+      "media_records": 44,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "f7e750e62e5ea304"
+      ],
+      "seller_records": 1
+    },
+    "commission-squeeze": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Commission cut, skipped or left unpaid",
+      "media_record_ids": [
+        "679c8b12a3db6e86",
+        "8ea1a9e76474ef28",
+        "abfb22ce9261a370",
+        "d5a65813499adba9"
+      ],
+      "media_records": 4,
+      "member_record_ids": [
+        "b28eb932775a696c"
+      ],
+      "money_mentions": 1,
+      "money_record_ids": [
+        "b28eb932775a696c"
+      ],
+      "record_count": 1,
+      "seller_record_ids": [],
+      "seller_records": 0
+    },
+    "lead-cost-quality": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Struggling to get quality leads at a cost per lead that pays back",
+      "media_record_ids": [
+        "59f1d8f2afba344c"
+      ],
+      "media_records": 1,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "24e7ee1ae71089fc",
+        "71d4dac2840a9fb4",
+        "a29e3eccf41671d7",
+        "d49d9ee2a66e6825",
+        "e853fde29cf5f0a9"
+      ],
+      "seller_records": 5
+    },
+    "leads-lost-follow-up": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Losing leads and deals between enquiry and follow-up",
+      "media_record_ids": [
+        "ab14880768556996",
+        "c2ae38c3a77a88ac"
+      ],
+      "media_records": 2,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "46710865c8f4d7ca",
+        "8ae7db3df4a87fe4",
+        "8ca55a291cd28d45",
+        "b7071b0a67e102ca"
+      ],
+      "seller_records": 4
+    },
+    "licence-card-renewals": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Yearly licence and broker-card renewals, with an annual test and fines if late",
+      "media_record_ids": [
+        "3d795f4e01674b97",
+        "fb3ec5db62f8ffcb"
+      ],
+      "media_records": 2,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "0c9a0880db1c7d92",
+        "5944ea85ee984129",
+        "5c6f2ef7c659519c"
+      ],
+      "seller_records": 3
+    },
+    "listing-ad-rules": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Remove illegal ads or face fines: permits, sold and stale listings",
+      "media_record_ids": [
+        "286e704d6675031d",
+        "3d5969b9446a3732",
+        "48ac2f8fcfee7898",
+        "4e8da7491412cabf",
+        "510afa5447cfc38d",
+        "82ba6d8c4260150b",
+        "957985f05620c452",
+        "ae460127b3619c60",
+        "c653b1fd261abeb9",
+        "c9b0b04014786864",
+        "eb616debf1c8f1a9"
+      ],
+      "media_records": 11,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [],
+      "seller_records": 0
+    },
+    "not-enough-leads-listings": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Can't get enough listings and clients to work",
+      "media_record_ids": [],
+      "media_records": 0,
+      "member_record_ids": [
+        "65cc6dcb53a6013a",
+        "9adbb59ab470a903",
+        "9d4577c5aad18be8",
+        "a72317d262ad8677"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 4,
+      "seller_record_ids": [
+        "e853fde29cf5f0a9"
+      ],
+      "seller_records": 1
+    },
+    "portal-costs": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Brokers hit with portal ad rate hikes",
+      "media_record_ids": [
+        "3a80091886f113f2",
+        "8e14e66a5b66c110",
+        "959d60fd9d8e9635",
+        "c33808e343aa3e3b",
+        "c5edf78bf166140f",
+        "ec725bbe981d8616"
+      ],
+      "media_records": 6,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [],
+      "seller_records": 0
+    }
+  },
+  "records_in_manifest": 882,
+  "room": "dubai-real-estate-brokerages-telesales",
+  "totals": {
+    "by_kind": {
+      "blog_or_site": 371,
+      "forum": 10,
+      "jobs": 104,
+      "news": 104,
+      "official": 43,
+      "qa": 75,
+      "reviews": 81,
+      "social": 36,
+      "video": 58
+    },
+    "by_source": {
+      "websearch": 882
+    },
+    "by_voice": {
+      "media": 180,
+      "member": 31,
+      "other": 473,
+      "seller": 198
+    },
+    "failed_spend_mentions": 0,
+    "member_records": 31,
+    "member_records_with_pain": 5,
+    "money_mentions": 5,
+    "source_kind_min_records": 5,
+    "source_kinds": [
+      "blog_or_site",
+      "forum",
+      "jobs",
+      "news",
+      "official",
+      "qa",
+      "reviews",
+      "social",
+      "video"
+    ]
+  }
+}
