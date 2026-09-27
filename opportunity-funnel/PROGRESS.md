@@ -60,11 +60,11 @@ Stage 3 per room:
 
 | Room | Rounds | Records | Labeled | Saturation | Draft | Quote check |
 |---|---|---|---|---|---|---|
-| active-retail-options-traders | 3 | 3526 | 2456 | round 2: 2216 records, not saturated | no | not checked |
+| active-retail-options-traders | 3 | 3526 | 2536 | round 2: 2216 records, not saturated | no | not checked |
 | bpo-contact-centre-operators-india-philippines | 3 | 3272 | 2130 | round 2: 2130 records, not saturated | no | not checked |
 | business-brokers-ma-boutiques | 2 | 1646 | 1603 | round 2: 1603 records, not saturated | no | not checked |
 | cfa-candidates-community | 3 | 2542 | 2468 | round 3: 2468 records, not saturated | no | not checked |
-| d2c-brands-scaling-past-launch | 3 | 2709 | 1827 | round 2: 1827 records, not saturated | no | not checked |
+| d2c-brands-scaling-past-launch | 3 | 2709 | 1907 | round 2: 1827 records, not saturated | no | not checked |
 | dubai-real-estate-brokerages-telesales | 2 | 1516 | 1472 | round 2: 1472 records, not saturated, stopped: exhausted | yes | 17 pass / 0 fail (self-check) |
 | gre-engineers-india | 3 | 2678 | 1726 | round 2: 1726 records, not saturated | no | not checked |
 | gre-preppers-worldwide-online | 3 | 2997 | 2921 | round 3: 2921 records, not saturated | no | not checked |
@@ -72,7 +72,7 @@ Stage 3 per room:
 | lender-insurer-telesales-floors-india | 2 | 1721 | 1684 | round 2: 1684 records, not saturated, stopped: exhausted | yes | 0 pass / 0 fail (self-check) |
 | outbound-lead-gen-appointment-setting-agencies | 2 | 2090 | 2034 | round 1: 984 records, not saturated | no | not checked |
 | salon-spa-owners-india-global | 3 | 3054 | 2335 | round 2: 2255 records, not saturated | no | not checked |
-| small-business-owners-reddit-community | 3 | 3505 | 2420 | round 2: 2180 records, not saturated | no | not checked |
+| small-business-owners-reddit-community | 3 | 3505 | 2580 | round 2: 2180 records, not saturated | no | not checked |
 | small-industrial-property-investors | 2 | 1784 | 1748 | round 2: 1748 records, not saturated | no | not checked |
 | startup-founders-409a-83b-deadlines | 3 | 2614 | 1636 | round 2: 1636 records, not saturated | no | not checked |
 
