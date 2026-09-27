@@ -167,7 +167,39 @@
       "added_round": 3,
       "reasoning": "Round 3 brought many member posts on GradCafe, GRE Prep Club, Quora and pre-PA forums about a low or falling AWA score, being bad at the essays, and asking others to grade practice essays; essay-grading sellers target it. No existing pain covers the essay section: verbal-struggle covers reading and vocabulary only. This makes 21 pains, one over the 5-20 range, because leaving out a clearly shown pain would hide it from the saturation test.",
       "confidence": "high"
+    },
+    {
+      "key": "test-accommodations",
+      "label": "I have ADHD or a learning disability: how do I get extra time or other accommodations on the GRE, and will schools see them?",
+      "definition": "The writer has ADHD, a learning disability or another condition and asks whether or how to get GRE accommodations (changes ETS approves for a disability or health condition, such as extra time or extra breaks): which documents ETS wants, how long approval takes, whether requests succeed, whether accommodations are offered in their country, or whether they will show on the score report schools see (\"ETS/GRE Testing Accomodations for ADD/ADHD\", \"Anyone have experience with requesting extra time for GRE's\", \"Will my GRE accommodation be reflected on the test report that is sent to the universities?\", \"Accommodations in India\"). Accommodations for another test, such as the MCAT, are not this pain. Stress or anxiety with no accommodation request belongs to test-anxiety-or-burnout.",
+      "added_round": 4,
+      "reasoning": "Round 4 brought at least six member posts on the GregMat forum, Student Doctor Network and College Confidential's learning-differences board asking how to get GRE accommodations such as extra time, and whether they show on score reports. Labelers flagged the same gap in rounds 2 and 3, and no existing pain covers it.",
+      "confidence": "high"
+    },
+    {
+      "key": "gre-or-gmat-choice",
+      "label": "GRE or GMAT? I can't decide which test to take or send, and I fear business schools weigh the GRE less",
+      "definition": "The writer cannot decide whether to take or submit the GRE or another admission test (mostly the GMAT, for an MBA or other business program; sometimes the MCAT, the MAT (Miller Analogies Test) or France's TAGE MAGE business-school test), fears a school will value a GRE score less, or weighs switching tests after disappointing scores (\"Help: Which Test Score should I Submit, GRE or GMAT?\", \"[re-applicant] Should I retake the GMAT or switch to the GRE\", \"Anyone Accepted to Business School with a GRE Score?\", \"High GRE, worth taking the GMAT?\"). Whether to take any test at all belongs to gre-worth-taking. A plain factual question about how the tests differ, with no choice of the writer's own named, is not this pain.",
+      "added_round": 4,
+      "reasoning": "Round 4 brought at least six member posts on Beat The GMAT, Wall Street Oasis and Dcard from people stuck choosing between the GRE and the GMAT or unsure which score to send, and two round-3 labelers flagged it, citing about nine or ten member records each. It is a decision with stakes (admission odds, a second test fee), like retake-or-not; gre-worth-taking covers only whether to take the GRE at all.",
+      "confidence": "high"
+    },
+    {
+      "key": "time-pressure-in-test",
+      "label": "I run out of time on GRE sections: I can't finish, or I rush and make mistakes against the clock",
+      "definition": "The writer cannot finish GRE sections in time, is too slow on some question types or reading passages, makes many mistakes when timed, or asks for help with pacing and time management in the test (\"How do I improve timing for Quant section?\", \"Time management help\", \"Advice on improving timing for GRE\", \"Having massive difficulty in managing time\"). Too few days or weeks to study before the test date belongs to no-time-to-prepare. Careless mistakes with no time pressure named belong to silly-mistakes. A plain question about the test's time limits, with no trouble finishing or pacing named, is not this pain.",
+      "added_round": 4,
+      "reasoning": "Round 4 brought several member posts on GradCafe, the GregMat forum and Quora asking how to improve timing or manage time in quant and verbal, and prep sellers write posts aimed at it (\"Struggling with Timing on GRE Verbal?\"). Labelers flagged the same gap in rounds 2 and 3; the section pains cover finding the content hard, not running out of time.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "test-slot-or-centre-trouble",
+      "label": "I can't get a GRE test date or seat, my centre cancelled my test, or I fear where I test will hurt my score",
+      "definition": "The writer cannot find an open test date or seat (every centre nearby booked for months, no at-home time slots), had a test centre cancel their booked test, or fears the centre they must use or the at-home format will be badly run or make the test harder, for example a non-Prometric centre in India (Prometric is the company that runs many GRE test centres) (\"Every GRE test center is booked full for the next three months?\", \"No time slots available for home based exam\", \"Prometric cancelled my exam\", \"Which one is better for the GRE: Prometric or not Prometric test centres?\"). An at-home test that broke down, or scores ETS held or cancelled, belong to scores-held-or-cancelled. A failed payment or a name or ID mismatch belongs to registration-or-payment-trouble. A plain question about where the nearest centre is, how the at-home test works, or whether to test at home or at a centre, with no shortage, cancellation or worry named, is not this pain.",
+      "added_round": 4,
+      "reasoning": "Round 4 brought member posts on GradCafe, the GregMat forum, GRE Prep Club and PTT (Taiwan) about centres booked out for months, no at-home slots, a centre cancelling a booked test, and worry about non-Prometric centres. A round-3 labeler flagged the same gap, and no existing pain covers getting a seat or the test setting.",
+      "confidence": "moderate"
     }
   ],
-  "reviewed_rounds": [2, 3]
+  "reviewed_rounds": [2, 3, 4]
 }
