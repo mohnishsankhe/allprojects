@@ -14,6 +14,7 @@ Current run folder: `runs/2026-09-26/`
 - Step A finish — `funnel-build-finish` (run `wf_51b992ab-f05`): finish stage3/stage45/stage6/outputs → integration → 4 reviews → fixes.
 - Stage 2 — DONE: 111 in → 36 killed (35 on depth), 75 passed, 15 kept, 60 cut. After an equal-effort ladder audit of all 75 survivors and a priced-ladder-steps tie-break, the kept rooms are: small-industrial-property-investors, gre-engineers-india, active-retail-options-traders, small-business-owners-reddit-community, bpo-contact-centre-operators-india-philippines, outbound-lead-gen-appointment-setting-agencies, business-brokers-ma-boutiques, indie-perfumers-launching-brands, startup-founders-409a-83b-deadlines, lender-insurer-telesales-floors-india, cfa-candidates-community, d2c-brands-scaling-past-launch, dubai-real-estate-brokerages-telesales, gre-preppers-worldwide-online, salon-spa-owners-india-global. Graveyard consistent (revival notes for re-kept rooms). (2026-09-27)
 
+- Stage 3 PAUSED (2026-09-27, after the second usage-limit stop): round-1 plans are done for all 15 rooms and most round-1 harvests ran; 8 rooms have records stored by the unfixed harvester; no labels exist yet. Reviewers found harvest/anonymizer/quote-check problems, so the build's fix agent runs first (`wf_51b992ab-f05` resumed, script `pipeline/workflows/build-finish.js`). After it finishes and the suite is green: delete `runs/2026-09-26/03_listen/raw/*/*.jsonl` and `_batches/` (records only; keep queries.jsonl), then resume the five Stage 3 workflows with their run ids (plans and finished harvests replay from cache; labeling re-harvests with the fixed code). Rounds 2+ now batch searches 10 per message on haiku (mechanical step).
 - Stage 3 — listening to saturation, workflow script `pipeline/workflows/stage3-listen.js` (one listener per room: plan → sonnet harvesters run the searches verbatim → label → count → saturation; stops when saturated with ≥500 records, exhausted, or 8 rounds; then synthesize; then `pipeline/checkpoint.sh`). Five workflows, resume each with the Workflow tool (`scriptPath` above + `resumeFromRunId`; finished agents replay from cache):
   - `wf_4757764b-c75`: small-industrial-property-investors, gre-engineers-india, active-retail-options-traders
   - `wf_460fc963-f08`: small-business-owners-reddit-community, bpo-contact-centre-operators-india-philippines, outbound-lead-gen-appointment-setting-agencies
@@ -57,20 +58,20 @@ Stage 3 per room:
 | Room | Rounds | Records | Labeled | Saturation | Draft | Quote check |
 |---|---|---|---|---|---|---|
 | active-retail-options-traders | 0 | 0 | 0 | not evaluated | no | not checked |
-| bpo-contact-centre-operators-india-philippines | 0 | 0 | 0 | not started | no | not checked |
-| business-brokers-ma-boutiques | 0 | 0 | 0 | not started | no | not checked |
-| cfa-candidates-community | 0 | 0 | 0 | not started | no | not checked |
-| d2c-brands-scaling-past-launch | 0 | 0 | 0 | not started | no | not checked |
-| dubai-real-estate-brokerages-telesales | 0 | 0 | 0 | not started | no | not checked |
+| bpo-contact-centre-operators-india-philippines | 0 | 0 | 0 | not evaluated | no | not checked |
+| business-brokers-ma-boutiques | 1 | 876 | 0 | not evaluated | no | not checked |
+| cfa-candidates-community | 1 | 776 | 0 | not evaluated | no | not checked |
+| d2c-brands-scaling-past-launch | 0 | 0 | 0 | not evaluated | no | not checked |
+| dubai-real-estate-brokerages-telesales | 1 | 790 | 0 | not evaluated | no | not checked |
 | gre-engineers-india | 1 | 798 | 0 | not evaluated | no | not checked |
-| gre-preppers-worldwide-online | 0 | 0 | 0 | not started | no | not checked |
-| indie-perfumers-launching-brands | 0 | 0 | 0 | not started | no | not checked |
-| lender-insurer-telesales-floors-india | 0 | 0 | 0 | not started | no | not checked |
-| outbound-lead-gen-appointment-setting-agencies | 0 | 0 | 0 | not started | no | not checked |
-| salon-spa-owners-india-global | 0 | 0 | 0 | not started | no | not checked |
-| small-business-owners-reddit-community | 0 | 0 | 0 | not started | no | not checked |
-| small-industrial-property-investors | 0 | 0 | 0 | not evaluated | no | not checked |
-| startup-founders-409a-83b-deadlines | 0 | 0 | 0 | not started | no | not checked |
+| gre-preppers-worldwide-online | 1 | 862 | 0 | not evaluated | no | not checked |
+| indie-perfumers-launching-brands | 1 | 757 | 0 | not evaluated | no | not checked |
+| lender-insurer-telesales-floors-india | 1 | 853 | 0 | not evaluated | no | not checked |
+| outbound-lead-gen-appointment-setting-agencies | 0 | 0 | 0 | not evaluated | no | not checked |
+| salon-spa-owners-india-global | 0 | 0 | 0 | not evaluated | no | not checked |
+| small-business-owners-reddit-community | 0 | 0 | 0 | not evaluated | no | not checked |
+| small-industrial-property-investors | 1 | 900 | 0 | not evaluated | no | not checked |
+| startup-founders-409a-83b-deadlines | 0 | 0 | 0 | not evaluated | no | not checked |
 
 Rooms kept: 15. Pains kept: 0. Stage 6 kept: 0. Survivors (final): 0.
 <!-- /auto:status -->

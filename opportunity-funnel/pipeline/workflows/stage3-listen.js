@@ -24,13 +24,25 @@ const SYN = { type: 'object', properties: {
 
 const base = (slug) => `Opportunity Funnel, Stage 3. RUN = ${RUNREL} (folder ${F}/${RUNREL}). Room slug: ${slug}. Follow your agent instructions (funnel-listener) exactly. Commands: python3 ${F}/pipeline/funnel.py --run ${RUNREL} <command> ...`
 
-function harvestPrompt(qs) {
-  return `Run each of the web searches below with the WebSearch tool, in order, one WebSearch call per line.
+// Round 1 keeps its original prompt and model so completed round-1 harvests replay from the workflow cache.
+// Later rounds batch the searches (10 parallel WebSearch calls per message) on a cheaper model: harvesting is
+// mechanical (no judgment), and batching avoids re-reading a growing context once per search.
+function harvestPrompt(qs, round) {
+  if (round === 1) {
+    return `Run each of the web searches below with the WebSearch tool, in order, one WebSearch call per line.
+Copy each query string EXACTLY as written (same words, quotes, site: operators, capitalization, spacing). Do not rephrase, fix, merge or skip any.
+Use no other tool. Do not analyse or summarise the results. When all are done, reply only: DONE <number of searches you ran>.
+
+${qs.map((q, i) => `${i + 1}. ${q}`).join('\n')}`
+  }
+  return `Run every web search below with the WebSearch tool.
+Send them in parallel: put 10 WebSearch tool calls in a single message, wait for those results, then send the next 10, until all are done.
 Copy each query string EXACTLY as written (same words, quotes, site: operators, capitalization, spacing). Do not rephrase, fix, merge or skip any.
 Use no other tool. Do not analyse or summarise the results. When all are done, reply only: DONE <number of searches you ran>.
 
 ${qs.map((q, i) => `${i + 1}. ${q}`).join('\n')}`
 }
+const harvestModel = (round) => (round === 1 ? 'sonnet' : 'haiku')
 
 async function listen(slug) {
   let round = 1, stop = null
@@ -40,8 +52,9 @@ async function listen(slug) {
       { agentType: 'funnel-listener', model: 'fable', schema: PLAN, label: `plan:${slug}:r${round}`, phase: 'Listen' })
     if (!plan || !plan.queries || plan.queries.length === 0) { stop = 'exhausted'; break }
     const chunks = []
-    for (let i = 0; i < plan.queries.length; i += CHUNK) chunks.push(plan.queries.slice(i, i + CHUNK))
-    await parallel(chunks.map((qs, ci) => () => agent(harvestPrompt(qs), { model: 'sonnet', label: `harvest:${slug}:r${round}:${ci}`, phase: 'Listen' })))
+    const size = round === 1 ? CHUNK : 50
+    for (let i = 0; i < plan.queries.length; i += size) chunks.push(plan.queries.slice(i, i + size))
+    await parallel(chunks.map((qs, ci) => () => agent(harvestPrompt(qs, round), { model: harvestModel(round), label: `harvest:${slug}:r${round}:${ci}`, phase: 'Listen' })))
     const lab = await agent(`${base(slug)}\nMODE: label. ROUND: ${round}. Run harvest-search, batches, label every new batch (relabel all batches if the taxonomy changed), then count and saturation. Report the numbers exactly as the scripts printed them.`,
       { agentType: 'funnel-listener', model: 'fable', schema: LABEL, label: `label:${slug}:r${round}`, phase: 'Listen' })
     if (!lab) { stop = 'error'; break }
