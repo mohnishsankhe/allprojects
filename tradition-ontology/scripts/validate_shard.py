@@ -10,7 +10,7 @@ ENTITY_PREFIX = {
     "sources": "src", "lineages": "lin", "teachers": "tch", "teachings": "tea", "terms": "trm",
     "concepts": "cpt", "ultimate": "ult", "obstacles": "obs", "practices": "prc", "paths": "pth",
     "phenomenology": "phn", "disputes": "dsp", "borrowings": "brw", "interpretation_log": None,
-    "checks": None, "A": "tea", "B": "tea", "disagreements": None, "fidelity": None,
+    "checks": None, "A": "tea", "B": "tea", "disagreements": None, "fidelity": None, "skeleton_decisions": None,
 }
 REQUIRED = {
     "sources": ["id", "title", "language", "family", "lineages", "summary", "verification"],
@@ -41,7 +41,7 @@ TAG_NAYA = {None, "", "niscaya", "vyavahara", "naigama", "sangraha", "vyavahara-
 TAG_PATH = {"action", "knowledge", "devotion", "meditation", "body-breath", "ritual", "sound", "general"}
 TAG_STAGE = {"beginner", "intermediate", "advanced", "realized", "all", "unmarked"}
 TYPES = {"ultimate", "consciousness-mind", "body-layers", "practice", "ethics", "karma-liberation", "world-fate",
-         "powers-experiences", "teacher-transmission", "sound-language", "death-dying", "dispute"}
+         "powers-experiences", "teacher-transmission", "sound-language", "death-dying", "dispute", "narrative"}
 FAMILY = {"vedic", "ascetic", "shared"}
 CONCEPT_CAT = {"ultimate", "consciousness-states", "self", "mind", "body-energy", "matter-qualities", "obstacles",
                "ethics", "karma-rebirth", "stages-maps", "signs-powers", "teacher-transmission", "cosmology-time",

@@ -1,0 +1,11 @@
+{
+ "id": "ult:the-one",
+ "name": "The one truth (ekaṃ sat)",
+ "principle": "ekaṃ sad viprā bahudhā vadanti — \"Truth is one; the wise call it by many names.\" (Ṛgveda 1.164.46)",
+ "principle_source": {"source": "src:rgveda", "ref": "1.164.46", "rests_on": ["tea:rgveda:1.164.46"]},
+ "layer": "interpretation",
+ "status": "working hypothesis of this ontology (the user's first principle), not a claim any single tradition makes about all the others",
+ "how_to_read": "Each item in `views` records how one lineage names and describes what it takes to be ultimate (or why it posits none), in that lineage's own terms and with the text-layer teachings it rests on. The claim that these are views of one truth is made only here, in the interpretation layer, and always together with each tradition's own objections (the `caveat` and `tradition_denies_single_ultimate` fields). Traditions that reject a single ultimate — e.g. Madhyamaka (no ultimate entity), Theravāda (nibbāna is not a ground or a self), Dvaita (eternal difference), Nyāya and Jainism (many selves), Mīmāṃsā and Cārvāka (no such ultimate) — are recorded as rejecting it, not silently absorbed.",
+ "reconciliation_principles_used": ["P1-level", "P2-standpoint", "P3-path", "P4-stage", "P5-neyartha", "P6-upaya", "P7-arthavada", "P8-six-marks"],
+ "verification": {"level": "skeleton", "confidence": "high", "unverified": false, "checks": []}
+}
