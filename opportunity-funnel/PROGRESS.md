@@ -60,21 +60,21 @@ Stage 3 per room:
 
 | Room | Rounds | Records | Labeled | Saturation | Draft | Quote check |
 |---|---|---|---|---|---|---|
-| active-retail-options-traders | 1 | 1150 | 880 | not evaluated | no | not checked |
+| active-retail-options-traders | 1 | 1150 | 960 | not evaluated | no | not checked |
 | bpo-contact-centre-operators-india-philippines | 1 | 1283 | 1243 | round 1: 1243 records, not saturated | no | not checked |
 | business-brokers-ma-boutiques | 2 | 1005 | 896 | round 1: 896 records, not saturated | no | not checked |
 | cfa-candidates-community | 2 | 927 | 805 | round 1: 805 records, not saturated | no | not checked |
-| d2c-brands-scaling-past-launch | 1 | 1032 | 80 | not evaluated | no | not checked |
+| d2c-brands-scaling-past-launch | 1 | 1032 | 240 | not evaluated | no | not checked |
 | dubai-real-estate-brokerages-telesales | 1 | 912 | 882 | round 1: 882 records, not saturated | no | not checked |
 | gre-engineers-india | 1 | 923 | 900 | round 1: 900 records, not saturated | no | not checked |
 | gre-preppers-worldwide-online | 2 | 979 | 924 | round 1: 924 records, not saturated | no | not checked |
 | indie-perfumers-launching-brands | 1 | 871 | 845 | round 1: 845 records, not saturated | no | not checked |
 | lender-insurer-telesales-floors-india | 1 | 858 | 835 | round 1: 835 records, not saturated | no | not checked |
 | outbound-lead-gen-appointment-setting-agencies | 1 | 1022 | 0 | not evaluated | no | not checked |
-| salon-spa-owners-india-global | 1 | 1380 | 720 | not evaluated | no | not checked |
+| salon-spa-owners-india-global | 1 | 1380 | 880 | not evaluated | no | not checked |
 | small-business-owners-reddit-community | 1 | 926 | 896 | round 1: 896 records, not saturated | no | not checked |
 | small-industrial-property-investors | 1 | 978 | 948 | round 1: 948 records, not saturated | no | not checked |
-| startup-founders-409a-83b-deadlines | 1 | 870 | 560 | not evaluated | no | not checked |
+| startup-founders-409a-83b-deadlines | 1 | 870 | 640 | not evaluated | no | not checked |
 
 Rooms kept: 15. Pains kept: 0. Stage 6 kept: 0. Survivors (final): 0.
 <!-- /auto:status -->
