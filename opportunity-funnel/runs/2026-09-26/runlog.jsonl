@@ -348,3 +348,7 @@
 {"command": "status", "kind": "ran", "next": "preflight", "stage": 7, "ts": "2026-09-27T09:29:50+00:00"}
 {"command": "listen-status", "dated": 23, "kind": "ran", "per_round": {"1": 1283}, "per_source": {"websearch": 1283}, "records": 1283, "room": "bpo-contact-centre-operators-india-philippines", "stage": 3, "ts": "2026-09-27T09:29:53+00:00", "undated": 1260}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T09:33:09+00:00"}
+{"command": "listen-status", "dated": 15, "kind": "ran", "per_round": {"1": 912}, "per_source": {"websearch": 912}, "records": 912, "room": "dubai-real-estate-brokerages-telesales", "stage": 3, "ts": "2026-09-27T09:33:59+00:00", "undated": 897}
+{"command": "listen-status", "dated": 8, "kind": "ran", "per_round": {"1": 871}, "per_source": {"websearch": 871}, "records": 871, "room": "indie-perfumers-launching-brands", "stage": 3, "ts": "2026-09-27T09:36:48+00:00", "undated": 863}
+{"command": "listen-status", "dated": 16, "kind": "ran", "per_round": {"1": 858}, "per_source": {"websearch": 858}, "records": 858, "room": "lender-insurer-telesales-floors-india", "stage": 3, "ts": "2026-09-27T09:37:06+00:00", "undated": 842}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T09:38:11+00:00"}
