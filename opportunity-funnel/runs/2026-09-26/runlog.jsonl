@@ -1492,3 +1492,7 @@
 {"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "d2c-brands-scaling-past-launch", "stage": 3, "ts": "2026-09-27T22:41:23+00:00"}
 {"command": "show", "ids": 6, "kind": "ran", "missing": [], "room": "salon-spa-owners-india-global", "stage": 3, "ts": "2026-09-27T22:42:44+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T22:42:48+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "salon-spa-owners-india-global", "stage": 3, "ts": "2026-09-27T22:42:49+00:00"}
+{"code": 3, "command": "robots", "errors": ["Network blocked: cannot reach sellercentral.amazon.in. (proxy refused the tunnel) Allow the domain sellercentral.amazon.in or skip this source."], "kind": "error", "stage": 0, "ts": "2026-09-27T22:43:04+00:00"}
+{"command": "show", "ids": 10, "kind": "ran", "missing": [], "room": "gre-engineers-india", "stage": 3, "ts": "2026-09-27T22:43:12+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T22:47:51+00:00"}
