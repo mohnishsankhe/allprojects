@@ -27,6 +27,41 @@
       ],
       "window": 300,
       "window_used": 835
+    },
+    {
+      "evaluable": false,
+      "new_pains": [],
+      "new_records": 849,
+      "note": "not evaluable: the last 849 records hold 0 member records, fewer than 30, too few to show a new pain",
+      "rank_changes": [],
+      "records": 1684,
+      "round": 2,
+      "saturated": false,
+      "taxonomy_added": [
+        "borrowers-unreachable-skip-tracing",
+        "dpdp-consent-deadlines",
+        "poor-leads-low-conversion"
+      ],
+      "taxonomy_keys": [
+        "borrowers-unreachable-skip-tracing",
+        "call-scripts-and-training",
+        "calls-marked-spam-low-pickup",
+        "dialer-costs-hidden-fees",
+        "dlt-template-rejections",
+        "dpdp-consent-deadlines",
+        "dra-certification",
+        "mis-selling-on-sales-calls",
+        "outsourced-agency-accountability",
+        "poor-leads-low-conversion",
+        "recovery-harassment-rbi-penalties",
+        "telecaller-attrition",
+        "too-many-reminder-calls",
+        "trai-calling-rules-1600-series",
+        "voice-bot-pilots-fail"
+      ],
+      "window": 300,
+      "window_member_records": 0,
+      "window_used": 849
     }
   ],
   "stop_reason": null,

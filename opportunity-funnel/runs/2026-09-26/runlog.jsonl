@@ -825,3 +825,10 @@
 {"command": "show", "ids": 13, "kind": "ran", "missing": [], "room": "indie-perfumers-launching-brands", "stage": 3, "ts": "2026-09-27T13:19:55+00:00"}
 {"command": "listen-status", "dated": 13, "kind": "ran", "per_round": {"1": 1032}, "per_source": {"websearch": 1032}, "records": 1032, "room": "d2c-brands-scaling-past-launch", "stage": 3, "ts": "2026-09-27T13:19:58+00:00", "undated": 1019}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T13:19:59+00:00"}
+{"command": "listen-status", "dated": 32, "kind": "ran", "per_round": {"1": 922, "2": 83}, "per_source": {"websearch": 1005}, "records": 1005, "room": "business-brokers-ma-boutiques", "stage": 3, "ts": "2026-09-27T13:21:02+00:00", "undated": 973}
+{"changed": 0, "command": "apply-patches", "kind": "ran", "patches": [], "room": "lender-insurer-telesales-floors-india", "stage": 3, "ts": "2026-09-27T13:22:27+00:00"}
+{"by_kind": {"blog_or_site": 577, "forum": 35, "jobs": 154, "news": 40, "official": 36, "qa": 319, "reviews": 223, "social": 138, "video": 162}, "by_source": {"websearch": 1684}, "by_voice": {"media": 256, "member": 0, "other": 938, "seller": 490}, "command": "count", "kind": "count", "labeled": 1684, "pains": 15, "room": "lender-insurer-telesales-floors-india", "source_kinds": 9, "stage": 3, "ts": "2026-09-27T13:22:32+00:00"}
+{"command": "saturation", "kind": "count", "new_pains": [], "new_records": 849, "rank_changes": 0, "records": 1684, "room": "lender-insurer-telesales-floors-india", "round": 2, "saturated": false, "stage": 3, "stop_reason": null, "ts": "2026-09-27T13:22:37+00:00"}
+{"command": "listen-status", "dated": 23, "kind": "ran", "per_round": {"1": 858, "2": 863}, "per_source": {"websearch": 1721}, "records": 1721, "room": "lender-insurer-telesales-floors-india", "stage": 3, "ts": "2026-09-27T13:22:40+00:00", "undated": 1698}
+{"command": "show", "ids": 20, "kind": "ran", "missing": [], "room": "gre-preppers-worldwide-online", "stage": 3, "ts": "2026-09-27T13:23:46+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T13:25:01+00:00"}
