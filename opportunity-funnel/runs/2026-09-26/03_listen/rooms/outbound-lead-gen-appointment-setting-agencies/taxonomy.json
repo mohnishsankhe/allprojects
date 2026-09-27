@@ -78,9 +78,16 @@
       "label": "AI SDRs are replacing appointment-setting agencies",
       "definition": "Fear that clients will swap the agency and its human setters for AI SDRs or AI setters (an SDR is a sales development rep, the person who books meetings): 'the appointment setting industry is dead'. The agency must change its model or lose clients. Not for making an AI setter work (ai-setter-not-working).",
       "added_round": 1
+    },
+    {
+      "key": "a2p-texting-registration-rejected",
+      "label": "A2P registration keeps failing, so our texts get blocked",
+      "definition": "Registering business texting for the agency and for each client account. In the US, carriers make every business that texts from a local 10-digit number register its brand and campaign (A2P 10DLC: 'application-to-person' texting on ordinary local numbers). Registrations come back incomplete, failed or rejected, need the client's EIN (US business tax ID) and business details, and new requirements keep coming. Until they pass, texts such as lead follow-ups and appointment reminders are blocked or filtered. Calls labeled 'Spam Likely' go to numbers-flagged-spam; laws on calls and texts (TCPA, DNC lists, state telemarketer registration) go to dnc-tcpa-fines-lawsuits.",
+      "added_round": 2
     }
   ],
   "reviewed_rounds": [
-    1
+    1,
+    2
   ]
 }
