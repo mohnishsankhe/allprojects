@@ -1105,3 +1105,5 @@
 {"command": "listen-status", "dated": 39, "kind": "ran", "per_round": {"1": 926, "2": 1293}, "per_source": {"websearch": 2219}, "records": 2219, "room": "small-business-owners-reddit-community", "stage": 3, "ts": "2026-09-27T16:27:27+00:00", "undated": 2180}
 {"command": "listen-status", "dated": 25, "kind": "ran", "per_round": {"1": 1022}, "per_source": {"websearch": 1022}, "records": 1022, "room": "outbound-lead-gen-appointment-setting-agencies", "stage": 3, "ts": "2026-09-27T16:29:19+00:00", "undated": 997}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T16:31:40+00:00"}
+{"command": "listen-status", "dated": 38, "kind": "ran", "per_round": {"1": 1283, "2": 905}, "per_source": {"websearch": 2188}, "records": 2188, "room": "bpo-contact-centre-operators-india-philippines", "stage": 3, "ts": "2026-09-27T16:32:07+00:00", "undated": 2150}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T16:36:43+00:00"}
