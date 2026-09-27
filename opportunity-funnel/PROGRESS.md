@@ -73,7 +73,7 @@ Stage 3 per room:
 | salon-spa-owners-india-global | 0 | 0 | 0 | not evaluated | no | not checked |
 | small-business-owners-reddit-community | 1 | 926 | 0 | not evaluated | no | not checked |
 | small-industrial-property-investors | 1 | 978 | 0 | not evaluated | no | not checked |
-| startup-founders-409a-83b-deadlines | 1 | 870 | 80 | not evaluated | no | not checked |
+| startup-founders-409a-83b-deadlines | 1 | 870 | 160 | not evaluated | no | not checked |
 
 Rooms kept: 15. Pains kept: 0. Stage 6 kept: 0. Survivors (final): 0.
 <!-- /auto:status -->
