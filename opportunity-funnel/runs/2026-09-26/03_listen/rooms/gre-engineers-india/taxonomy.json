@@ -160,5 +160,8 @@
       "reasoning": "Round 2 brought about 20 member posts on Quora, Blind and Grapevine asking whether an MS in the US is still worth it given H-1B limits, the job market and the cost, often weighed against a job at FAANG or in India. Round 1 had one such record. It overlaps gre-or-other-path only where a post weighs the MS against a job.",
       "confidence": "moderate"
     }
+  ],
+  "reviewed_rounds": [
+    2
   ]
 }
