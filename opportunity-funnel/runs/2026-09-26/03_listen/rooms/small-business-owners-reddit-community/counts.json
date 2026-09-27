@@ -1,0 +1,839 @@
+{
+  "labeled": 896,
+  "notes": [],
+  "pains": {
+    "accounting-software-price-hikes": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Deeply disappointed by QuickBooks pricing and forced migration",
+      "media_record_ids": [
+        "5097af0a3f730107",
+        "9087073b95440030"
+      ],
+      "media_records": 2,
+      "member_record_ids": [
+        "376c8cc886a38860",
+        "4dbac7b40696c662",
+        "504fcbc6f37b5096",
+        "c48dd5c95d69508f",
+        "df7e55d10fffab30"
+      ],
+      "money_mentions": 1,
+      "money_record_ids": [
+        "504fcbc6f37b5096"
+      ],
+      "record_count": 5,
+      "seller_record_ids": [
+        "06ea213e02fa33c9",
+        "1cd5f207f0525120",
+        "2ace9b6c027f7c20",
+        "2da50fb4737293eb",
+        "479c0a2554788c71",
+        "58a0331eb6fd6457",
+        "6cb368654aa6b7d8",
+        "75973e4f4045b258",
+        "a686eb82a7f00205",
+        "c9ac79fda1b86f31",
+        "d4d422822b188ddc",
+        "d8f4b9af139bcd26",
+        "d9dc9ec4a1c124dd",
+        "db5cfbc66557e2cc"
+      ],
+      "seller_records": 14
+    },
+    "ads-seo-waste-money": {
+      "failed_spend_mentions": 1,
+      "failed_spend_record_ids": [
+        "0261be7de6ecf1f2"
+      ],
+      "label": "Google Ads are a waste of money; SEO agencies scam small businesses",
+      "media_record_ids": [
+        "0f8df083bb251b4c",
+        "840cd63f992e5eb7",
+        "86dea4effa43754f",
+        "b8ea5737a917c0fa",
+        "fbff43f8aed57400",
+        "fc158b25873ac8fa"
+      ],
+      "media_records": 6,
+      "member_record_ids": [
+        "0261be7de6ecf1f2",
+        "b2cccaa19f41ff6b",
+        "b2e98393422f5914",
+        "e7bcfef7544a0daa"
+      ],
+      "money_mentions": 3,
+      "money_record_ids": [
+        "0261be7de6ecf1f2",
+        "b2cccaa19f41ff6b",
+        "e7bcfef7544a0daa"
+      ],
+      "record_count": 4,
+      "seller_record_ids": [
+        "079cd5b6a192a3b5",
+        "140371814b9fef52",
+        "170f2e20298848c2",
+        "2fe3637125c60619",
+        "379e9b9b64c4673a",
+        "4646409dfc94349c",
+        "5220165bed4dbf82",
+        "563db88fdb2c1c9c",
+        "6d9906e57e9fcf40",
+        "6ff978076b3d0bbe",
+        "72034fbe54d0a197",
+        "87fb954fa4b08c20",
+        "8c730224efeca6b6",
+        "943c1c668526aadc",
+        "a47bfaadc2618b7c",
+        "ac71edb5e065acb7",
+        "b571639ff8cd509a",
+        "bd767525a2fc54e5",
+        "be605a79f5e32fe3",
+        "c2b79ae7fd740395",
+        "c803eea448cba7cc",
+        "cb3ed0ab39d07746",
+        "ce2c4728706cd20c",
+        "ce72644acbccf631",
+        "d65111441cb42ae7",
+        "dcf572b817d5ea9f",
+        "de8e2133525765a5",
+        "ee20c9460cbec9a0",
+        "eeb16c226899c50a",
+        "f8017d1e30943629",
+        "f98fb986070ed4fb",
+        "fa76a022a6b2fce2",
+        "ffaa5a0bd2d1a664"
+      ],
+      "seller_records": 33
+    },
+    "ai-answering-doubts": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Did the AI answering service actually save money, or do customers just get annoyed talking to a bot?",
+      "media_record_ids": [
+        "086ec2e9530ef706",
+        "1292bee0d5460679"
+      ],
+      "media_records": 2,
+      "member_record_ids": [
+        "57743fa2ab64ba32",
+        "5ea939732d5675ca",
+        "7f712568ae8594de"
+      ],
+      "money_mentions": 1,
+      "money_record_ids": [
+        "57743fa2ab64ba32"
+      ],
+      "record_count": 3,
+      "seller_record_ids": [
+        "46f9cbfac4033de6",
+        "4b1ea83344bc868e",
+        "c66089a49a271d43",
+        "eb51ecf8b59dc216",
+        "f0315b8724eebac9"
+      ],
+      "seller_records": 5
+    },
+    "bookkeeping-accountant-cost": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "How much should bookkeeping cost my small business?",
+      "media_record_ids": [
+        "0a7dc15e39e78bbc",
+        "1821a3404dad4193",
+        "3a494321051b57f6",
+        "3dc5c8cc2360f5db",
+        "4b2aa677c97ce134",
+        "662f44dac4158db0",
+        "77d493b53427b15d"
+      ],
+      "media_records": 7,
+      "member_record_ids": [
+        "152eb03b151328a2",
+        "29b0b8fb068b10d4",
+        "2bc2b29342487b94",
+        "4361c7df8a9d5a13",
+        "6cff6b8813efefaf",
+        "7a47d22aaaeeb60b",
+        "817a703da6fe248e",
+        "d6f2e834dc6f0638"
+      ],
+      "money_mentions": 7,
+      "money_record_ids": [
+        "152eb03b151328a2",
+        "29b0b8fb068b10d4",
+        "2bc2b29342487b94",
+        "4361c7df8a9d5a13",
+        "6cff6b8813efefaf",
+        "7a47d22aaaeeb60b",
+        "817a703da6fe248e"
+      ],
+      "record_count": 8,
+      "seller_record_ids": [
+        "064b84e65ad119c5",
+        "0e466e0248aca3e0",
+        "12403a38116c9cfb",
+        "233b206c17b85bc5",
+        "3b9f8fb4bf4480bd",
+        "3fd3145c40928d83",
+        "4324a6bc778772d1",
+        "4b9fb1aab5b37691",
+        "50c6b16df5b59032",
+        "7ac11a32c3cdbd60",
+        "85314c346f11c98d",
+        "8700eb590a275fb6",
+        "870355f94b09bd8e",
+        "8fd350512f5805da",
+        "a4727375e9dd4ad7",
+        "ab913837d448fe3f",
+        "bea63aab111d515f",
+        "db24b5e77cfbc24a",
+        "dc6d299ccdc45ee9",
+        "e10d9620ee77866c",
+        "ec34d8a23b90940c"
+      ],
+      "seller_records": 21
+    },
+    "business-loan-approval": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "What could sink my SBA loan application?",
+      "media_record_ids": [
+        "63e5a8e6c1f74457"
+      ],
+      "media_records": 1,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "2cd574beee3c76bf",
+        "37766986e3f7c05c",
+        "b77a010247983d89",
+        "b87ef69b115e5029",
+        "e0117c3b005ac6c5",
+        "e1e39bfedaddfdda",
+        "e430413930fffdbe",
+        "eab925389aa9f2f8"
+      ],
+      "seller_records": 8
+    },
+    "chargebacks-payment-outages": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Chargebacks and payment outages cost us thousands in lost revenue",
+      "media_record_ids": [
+        "b9610ad4f9dbdae4",
+        "f616a490e3501396"
+      ],
+      "media_records": 2,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "8a8e687770cae7b4",
+        "f9e5564575b6e2ce"
+      ],
+      "seller_records": 2
+    },
+    "customers-dont-pay": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Customer won't pay the bill; late payments fuel stress and cash flow problems",
+      "media_record_ids": [
+        "04e4d65ff00d5d57",
+        "0b57d936df0790bb",
+        "0f6f9f13e61a9b1d",
+        "10c69e9aa837c7c0",
+        "2b9e0a8ab52494b4",
+        "55863f4f33cde2dd",
+        "632bc31728329bd4",
+        "66a500c41621521c",
+        "68ba58924ca34fb2",
+        "82518ca9ce8a601a",
+        "8f3933055b82942e",
+        "bd08321fd68bc23e",
+        "c4d8305b84d16483",
+        "cd3504492ee43720",
+        "d1427440d708c230",
+        "e1c031aea52a9a0a",
+        "e98c34b0531bd989",
+        "f3e14b57df9f6489",
+        "fcb67a6e2d4f86de"
+      ],
+      "media_records": 19,
+      "member_record_ids": [
+        "3983216f97cede1a",
+        "543ba160e8762e9e"
+      ],
+      "money_mentions": 2,
+      "money_record_ids": [
+        "3983216f97cede1a",
+        "543ba160e8762e9e"
+      ],
+      "record_count": 2,
+      "seller_record_ids": [
+        "19d0e52f18346ef5",
+        "26b455bc596bce40",
+        "28c365e16607ccec",
+        "3bca61931d0342c9",
+        "4237c608528f5d90",
+        "43384f3cc30bc227",
+        "44baf28481e9295e",
+        "4ec160152b953b3e",
+        "4f202b99dcbb4690",
+        "627719a521dfcd44",
+        "764bfec915d13b00",
+        "77462d2debc7ba26",
+        "7ac07016b7d0c6ed",
+        "a790993dbdf62e24",
+        "ab23fb65eff0e041",
+        "b9bd18ef129ef504",
+        "ca0a9e24aae44956",
+        "df518362667be984",
+        "e21b70faa4c80fbd",
+        "e4fd41c20d4a2f8d",
+        "e9e0f5f99f7d6429",
+        "fa02165af6105999"
+      ],
+      "seller_records": 22
+    },
+    "filing-deadlines-penalties": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Late fees and penalties for missed filings (GST returns, Form 941, sales tax)",
+      "media_record_ids": [
+        "261b36523abd010f",
+        "28512a3aef5dbcef",
+        "39b18754f97f4212",
+        "3ad63a1bcab6df13",
+        "40db55c2d3281a7e",
+        "413b1dd3ac52c400",
+        "4ebd442e2688b32e",
+        "9c3bd572440def62",
+        "be27776a3fd18d6e",
+        "c5cf82e03449b9ec",
+        "c60ef8a64e410107",
+        "d9c1d34365ebf5de",
+        "d9daa45bf278ec7b",
+        "ed80317b98cf838d",
+        "ef33ad5b8c0fcfab"
+      ],
+      "media_records": 15,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "00c49778739a2f91",
+        "0f0a23728f76a442",
+        "1086ef6f42c77bb8",
+        "1095ad2ee3c3ae28",
+        "137ef6916ce3601f",
+        "153635d960bef45d",
+        "2041c9406047f561",
+        "20d69004648a9ef7",
+        "238f9c98674d8efa",
+        "311e4000fa693e19",
+        "364d3269c62e81b6",
+        "38a210fe9ab6acd0",
+        "38d104933e1a526f",
+        "397cabf3d9f9e245",
+        "3e7e2fec261714d4",
+        "4affa60a6acc0431",
+        "53c7fd8cda83cb4d",
+        "5673007fc00b0fdf",
+        "57fcc13d4bc8f142",
+        "5cda3b6ccf239751",
+        "5d8b4361aeaec120",
+        "6181ceb20b107b48",
+        "64fa4831be354f0c",
+        "68607bd012eeee48",
+        "6aadcd2234afc487",
+        "6aed0b22b124edd2",
+        "6afbc06cec07d0d2",
+        "76410f403d929e85",
+        "76a99235acb9d000",
+        "79d7e3bc04982a09",
+        "803439895a1114cd",
+        "85a7131daa5a5a9a",
+        "8a58f6005de7821b",
+        "8cc8906b823ccd70",
+        "8e31caf9cb585cfa",
+        "8ea8f5fb81df5cee",
+        "9202d44adbba1d6c",
+        "a3794849ff2175c5",
+        "a67ccd1891a51613",
+        "aad778494e4a0725",
+        "aaf9276d99084850",
+        "ab368f3c2680e3ea",
+        "affbf7fd826382d1",
+        "c2d791ce253e129a",
+        "d601a923b19cfb00",
+        "e3b2740a132b1665",
+        "e56f741a4152780a",
+        "e5efe9a2b28e8277",
+        "e7168f76ba528bba",
+        "e94b39dea6d31b4c",
+        "f044d6348356277c",
+        "f0dac90ca7a4f25f",
+        "fa2e033cd884f2a9",
+        "fc846d4947be3aae"
+      ],
+      "seller_records": 54
+    },
+    "finding-reliable-help": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Too busy to hire help, and hires don't work out",
+      "media_record_ids": [
+        "435770966b56ede7",
+        "4bb731e9d351dd17",
+        "5afc51b023eca231",
+        "870e1f46e551f536",
+        "ab8e9afe914161fa",
+        "f0ec28595ff1ca0b",
+        "fd40de02ff4433c6"
+      ],
+      "media_records": 7,
+      "member_record_ids": [
+        "7fcefa8fe60a88c7"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 1,
+      "seller_record_ids": [
+        "2faa46704450324f",
+        "e09e6e220b931f15"
+      ],
+      "seller_records": 2
+    },
+    "first-employee-payroll": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Hiring my first employee: what does payroll cost, and how do I avoid payroll mistakes?",
+      "media_record_ids": [
+        "d053b4cc3e378b59",
+        "daf143d7ae3414ab",
+        "ea968eac2be0a709"
+      ],
+      "media_records": 3,
+      "member_record_ids": [
+        "09936f1b2f155dbe",
+        "30dc118f7dd466fc",
+        "5703f77c4b7ba78d",
+        "5a50d2af74f7ed14",
+        "64984927838b16a1",
+        "b421b798a75480b1",
+        "ba3b3f6aa6650495"
+      ],
+      "money_mentions": 6,
+      "money_record_ids": [
+        "09936f1b2f155dbe",
+        "30dc118f7dd466fc",
+        "5a50d2af74f7ed14",
+        "64984927838b16a1",
+        "b421b798a75480b1",
+        "ba3b3f6aa6650495"
+      ],
+      "record_count": 7,
+      "seller_record_ids": [
+        "137ef6916ce3601f",
+        "1a08f47a74a1b1a5",
+        "2549c75a032f553f",
+        "34fcf4460f5c5d11",
+        "3f56cdd0e74fc7b9",
+        "4affa60a6acc0431",
+        "4f60070b03f30691",
+        "610a99301978fdbf",
+        "693c42eac27dbf4d",
+        "793415b686eabd73",
+        "7ad7d9926764b751",
+        "7b4b7323d02b6516",
+        "8688b1995552ac75",
+        "8edd7e0b1e8a5554",
+        "9202d44adbba1d6c",
+        "9a5dc780af2e8653",
+        "9b2dfdad6a4b3bac",
+        "9cb60e71fff700be",
+        "a0272105af32d7e6",
+        "c49accb8811279bf",
+        "c7fae02885a71087",
+        "c99965f15056f2c0",
+        "dd1fa4c93c8fb020",
+        "de52f06409767efd",
+        "e04dc81bf2333f0d",
+        "e5f6118ebc528252",
+        "fa6fec2a81a0e6cc"
+      ],
+      "seller_records": 27
+    },
+    "google-profile-suspended": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "My business profile was suspended, and I lost the appeal",
+      "media_record_ids": [
+        "544a261a9d514bcc",
+        "ea859028552be59e"
+      ],
+      "media_records": 2,
+      "member_record_ids": [
+        "353aee19b9da02a8",
+        "b6807343ee8482d8",
+        "e074b9cf40f8a714"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 3,
+      "seller_record_ids": [
+        "1ee55eb3668ef4de",
+        "6363a1624a14a598",
+        "9c3f5083cc540624",
+        "a89763e82cf5ece7",
+        "b43c90b87bfe0c0e",
+        "c70dd1725969b8c3",
+        "cccb52d94f217c20",
+        "d5b6f1162a4946be",
+        "f2a7d5625ac6fed8"
+      ],
+      "seller_records": 9
+    },
+    "insurance-cost-cover": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Finding the least expensive business insurance while insurance costs keep climbing",
+      "media_record_ids": [
+        "030c41041b64c716",
+        "1d17b6ebb3a2cc50",
+        "38dd0f812b8260bc",
+        "3e7cbea692778d45",
+        "bbae3e89683a20ef",
+        "de96e99cc84a4ff4"
+      ],
+      "media_records": 6,
+      "member_record_ids": [
+        "054121eac3b62b5c",
+        "20e13f485281271a",
+        "3c316386687c363e",
+        "daafefd775ab1508",
+        "e1528876073d65c4",
+        "ee07f680543b1f3c",
+        "efdaf358e6fd4a32"
+      ],
+      "money_mentions": 4,
+      "money_record_ids": [
+        "3c316386687c363e",
+        "daafefd775ab1508",
+        "ee07f680543b1f3c",
+        "efdaf358e6fd4a32"
+      ],
+      "record_count": 7,
+      "seller_record_ids": [
+        "03dc80a4c3100ae5",
+        "14aaf49fdb0dcc61",
+        "1f2b2a257b7ec73f",
+        "4bc1caeafec15860",
+        "633ce338156397b9",
+        "7fb2ef4f2abc27d1",
+        "dc8491ad22c59499",
+        "f7539519a0e04f02"
+      ],
+      "seller_records": 8
+    },
+    "missing-calls-losing-customers": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "My business keeps missing calls, and we lose the customers",
+      "media_record_ids": [],
+      "media_records": 0,
+      "member_record_ids": [
+        "048f71aef9c3443e",
+        "0a4c4280072cf8b7",
+        "0ef475fadd3ea149",
+        "2a3921e925fbcd2d",
+        "53a7d484594acbff",
+        "9d7b6085dbb5eeaa",
+        "9efae60eec8216c4",
+        "b3cd3865ced84615",
+        "d5b48e14df8c1df3",
+        "f5da8344526df8e6"
+      ],
+      "money_mentions": 2,
+      "money_record_ids": [
+        "0a4c4280072cf8b7",
+        "53a7d484594acbff"
+      ],
+      "record_count": 10,
+      "seller_record_ids": [
+        "09e3eb85144f1dd6",
+        "135023429c0726d4",
+        "156ad86e616c0b9c",
+        "17906bfb049393de",
+        "18481063f272c550",
+        "1ae666c0508a32f9",
+        "1c6af6f3696808d8",
+        "2cbead175661e0a1",
+        "2e9bd2a249962adf",
+        "31f53cfff4debf4f",
+        "32d8e85e6e832f8b",
+        "3350d9220766ed9e",
+        "4252b5c66c4c3ecc",
+        "469db71aaa10e3c9",
+        "4eeab50ca88b4f39",
+        "50a780b7e5a9c267",
+        "5d9d3507fdbbbb18",
+        "626eaa3005705720",
+        "6436269be1a72bec",
+        "68993765793bb95e",
+        "701e9c117098ef62",
+        "715bf3f78ef2c534",
+        "7982275669123af2",
+        "7a9d9b5b6f013bf5",
+        "80959b3214c40cf9",
+        "8197eff766b12838",
+        "87698908514a3e32",
+        "87897bc0992dd8be",
+        "8c76e210e51a2b86",
+        "9cbb991470077d3b",
+        "a8653a48218ab4b1",
+        "aa8260972321bc06",
+        "b15ceaf5b865acb6",
+        "b330c01a4a327824",
+        "b4798a65eb1d5947",
+        "da63be7447c639f3",
+        "dbeff59e1a14d147",
+        "e1ede043f77ab54f",
+        "f11ddc7e5bddbb01",
+        "f3e6c431d553de81",
+        "f6fab211feaad3e9"
+      ],
+      "seller_records": 41
+    },
+    "not-showing-on-google": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "My business doesn't show up on Google Maps or search",
+      "media_record_ids": [
+        "08c754f7120cc3dc",
+        "3d80233f104621cf",
+        "dc21d582ac0d7435",
+        "dffef6ff7a5ee938",
+        "fa4d4fdcfca951b8"
+      ],
+      "media_records": 5,
+      "member_record_ids": [
+        "254b27c543007a94",
+        "775dff531e05a7b3",
+        "7a9222a12f9cedb8",
+        "9aa1004854430159",
+        "b15e1903060c8404",
+        "c1c46b9668a5286d",
+        "e2cc06e8df257f26"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 7,
+      "seller_record_ids": [
+        "00fadb4067dac14d",
+        "03adfde690226cb5",
+        "05b169df6581c552",
+        "0be0ccd3ab7034ee",
+        "0cb164e5d31b5a80",
+        "28f863b9de64c6da",
+        "2c30fa39754ef949",
+        "3ad2032267a316fc",
+        "3c09acc5014a22dd",
+        "4a4e756d15b34c8f",
+        "6330911d2c3398e7",
+        "66d0ea2cdce42c43",
+        "84db7bff8620486b",
+        "8ea8e31f8a46a202",
+        "8f23811b3321ab47",
+        "907d1ce743f61ec2",
+        "93b6a1ba230bb978",
+        "9aede3fb6547bdeb",
+        "aaf2fdaac0ad125e",
+        "ab1504645a32cf39",
+        "ac3b934fb3219ae8",
+        "ad080b3545d9385a",
+        "b8a1f9a44e86b4a7",
+        "bc1822491ae9235d",
+        "bd07d8f808b6fbfd",
+        "bef46ec5433cd8cc",
+        "c6512cf404e6720c",
+        "de255ae4f5308afe",
+        "e84b5eb2f75c4727",
+        "ee722521a8e363a9",
+        "f6dfa17e503e2cc0"
+      ],
+      "seller_records": 31
+    },
+    "owner-burnout-always-on": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Small business owners feel 'always on' and burn out",
+      "media_record_ids": [
+        "0335bf9e587b8499",
+        "8a338259ffc62ce0"
+      ],
+      "media_records": 2,
+      "member_record_ids": [
+        "7fcefa8fe60a88c7"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 1,
+      "seller_record_ids": [
+        "0407e1ccfd1922b5",
+        "6fc0f81d08928d1e",
+        "71c602eb9f1c41b2",
+        "751bd4346dca0dd2",
+        "f1d2acf30c6b9553",
+        "ffe0753aaa9fcab9"
+      ],
+      "seller_records": 6
+    },
+    "review-sites-hurt-business": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Yelp bullies businesses into paying; fake reviews hurt the business",
+      "media_record_ids": [
+        "024e5e81752acfd9",
+        "252f791a53d48112",
+        "26c9fc580073d706",
+        "28512a3aef5dbcef",
+        "7a7dd11d155046b0",
+        "993bd43777302806",
+        "9b64a6337f77ed95",
+        "bf0d1f83b5e403c4",
+        "bf613a5216cb8fff",
+        "d6ce834d84137ec8",
+        "d7ffc2c719844b42",
+        "dff73350e05e88b2"
+      ],
+      "media_records": 12,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "0f0a23728f76a442",
+        "64fa4831be354f0c",
+        "a67ccd1891a51613",
+        "c803eea448cba7cc"
+      ],
+      "seller_records": 4
+    },
+    "selling-business-fees": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Can I sell my business without paying a business broker 10% at closing?",
+      "media_record_ids": [
+        "1437412b29dc5e14",
+        "2d4ced5b7ab3acf0",
+        "303f360f74b50c74",
+        "39d2e029ea0691ab",
+        "5c7b17cc3a42980f"
+      ],
+      "media_records": 5,
+      "member_record_ids": [
+        "423cb6a0dc80fc78",
+        "4967e0c664a4a683",
+        "a20ddf7d9b433daf",
+        "a8823a72a501383c",
+        "c2f919d33e813c17",
+        "d49a3454c1721cf3"
+      ],
+      "money_mentions": 6,
+      "money_record_ids": [
+        "423cb6a0dc80fc78",
+        "4967e0c664a4a683",
+        "a20ddf7d9b433daf",
+        "a8823a72a501383c",
+        "c2f919d33e813c17",
+        "d49a3454c1721cf3"
+      ],
+      "record_count": 6,
+      "seller_record_ids": [
+        "0d1b9b0ce2e8e55b",
+        "2ba33474333ab04a",
+        "544b23ad59fd88ee",
+        "5ddd228f8d1bdcb9",
+        "7b490e52a3a61454",
+        "7cb5a528efb16e02",
+        "808a1335b5cb4525",
+        "847fd16e132482f8",
+        "93a8c6838726a2e3",
+        "b341a0e0f6855f82",
+        "b74a7f749cc1908c",
+        "b9e2bbbc94720010",
+        "c2ae2ab204e3ce39",
+        "c51149710a5c2d84",
+        "d300f534e258ca54",
+        "e3352c644a9b8eb3",
+        "e7330388c441e348",
+        "f564181527393745",
+        "f6b4e1fcb612af90"
+      ],
+      "seller_records": 19
+    },
+    "wasted-subscriptions": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Wasted megabucks on subscriptions: the subscription trap",
+      "media_record_ids": [
+        "0f88b0ca97811d9b",
+        "5c2d3cbfef14c4a2",
+        "5dbc4547246abe07"
+      ],
+      "media_records": 3,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "1b68863ebd5abcd3"
+      ],
+      "seller_records": 1
+    }
+  },
+  "records_in_manifest": 896,
+  "room": "small-business-owners-reddit-community",
+  "totals": {
+    "by_kind": {
+      "blog_or_site": 472,
+      "forum": 22,
+      "jobs": 69,
+      "news": 42,
+      "official": 26,
+      "qa": 68,
+      "reviews": 137,
+      "video": 60
+    },
+    "by_source": {
+      "websearch": 896
+    },
+    "by_voice": {
+      "media": 137,
+      "member": 64,
+      "other": 289,
+      "seller": 406
+    },
+    "failed_spend_mentions": 1,
+    "member_records": 64,
+    "member_records_with_pain": 63,
+    "money_mentions": 32,
+    "source_kind_min_records": 5,
+    "source_kinds": [
+      "blog_or_site",
+      "forum",
+      "jobs",
+      "news",
+      "official",
+      "qa",
+      "reviews",
+      "video"
+    ]
+  }
+}

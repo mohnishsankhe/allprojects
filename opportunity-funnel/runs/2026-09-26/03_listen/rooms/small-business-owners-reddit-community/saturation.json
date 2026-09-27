@@ -1,0 +1,40 @@
+{
+  "final": false,
+  "room": "small-business-owners-reddit-community",
+  "rounds": [
+    {
+      "evaluable": false,
+      "new_pains": [],
+      "new_records": 896,
+      "note": "not evaluable: round 1 builds the pain list; saturation is tested on the records of round 2 and later",
+      "rank_changes": [],
+      "records": 896,
+      "round": 1,
+      "saturated": false,
+      "taxonomy_keys": [
+        "accounting-software-price-hikes",
+        "ads-seo-waste-money",
+        "ai-answering-doubts",
+        "bookkeeping-accountant-cost",
+        "business-loan-approval",
+        "chargebacks-payment-outages",
+        "customers-dont-pay",
+        "filing-deadlines-penalties",
+        "finding-reliable-help",
+        "first-employee-payroll",
+        "google-profile-suspended",
+        "insurance-cost-cover",
+        "missing-calls-losing-customers",
+        "not-showing-on-google",
+        "owner-burnout-always-on",
+        "review-sites-hurt-business",
+        "selling-business-fees",
+        "wasted-subscriptions"
+      ],
+      "window": 300,
+      "window_used": 896
+    }
+  ],
+  "stop_reason": null,
+  "window": 300
+}

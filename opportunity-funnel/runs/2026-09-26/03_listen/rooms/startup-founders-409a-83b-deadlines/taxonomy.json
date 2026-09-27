@@ -1,0 +1,100 @@
+{
+  "pains": [
+    {
+      "key": "missed-83b-deadline",
+      "label": "missed the 30-day 83(b) deadline",
+      "definition": "The founder (or the co-founders) did not file the 83(b) election within 30 days of getting vesting founder stock and asks what can still be done, owes tax on vesting, or warns others not to miss it.",
+      "added_round": 1,
+      "reasoning": "Several founders say it in their own words: 'My co-founders and I missed our 83(b) elections', 'Failed to file 83b, missed deadline, what are my options?', 'Wow we owe tons in taxes!'.",
+      "confidence": "high"
+    },
+    {
+      "key": "83b-no-proof-of-filing",
+      "label": "no proof the IRS got my 83(b)",
+      "definition": "The election was mailed (or the founder thinks it was), but there is no confirmation: the receipt or copy is lost, the mail may be lost, or the IRS says it has no record.",
+      "added_round": 1,
+      "reasoning": "Members ask this directly: 'called the IRS to verify they received it, but told me they don't see it', 'My 83b election may have been lost in the mail', 'I had a return receipt ... but lost that along with a copy'.",
+      "confidence": "high"
+    },
+    {
+      "key": "83b-filing-confusion",
+      "label": "not sure how to fill out, send or report the 83(b)",
+      "definition": "Confusion over the 83(b) itself: whether a founder must file, what value to write (par value or $0), which address, how to file online, how to show it on the tax return, and how to fix or revoke an election filed with an error.",
+      "added_round": 1,
+      "reasoning": "Founders ask 'Which address one needs to send 83(b) election form?', 'should they state they are paying par value ... OR $0', and TurboTax users ask whether to include it when filing tax.",
+      "confidence": "high"
+    },
+    {
+      "key": "non-us-founder-paperwork",
+      "label": "83(b) and US paperwork as a non-US founder with no SSN or ITIN",
+      "definition": "Founders outside the US who set up a Delaware company and do not know whether they need an 83(b), how to file it without an SSN or while an ITIN is pending, or who got wrong information for non-US founders.",
+      "added_round": 1,
+      "reasoning": "Members ask 'How to file ... for a foreign founder that has no SSN?', 'How does a non-US founder apply for an 83(b) election ... while his ITIN is pending?', and several Avvo questions ask the same.",
+      "confidence": "high"
+    },
+    {
+      "key": "paid-service-got-it-wrong",
+      "label": "the service or lawyer we paid got it wrong",
+      "definition": "A provider the founder paid (incorporation service, filing tool, cap-table platform or lawyer) made a mistake, gave wrong or no advice, broke their trust, or left them regretting the purchase.",
+      "added_round": 1,
+      "reasoning": "Members write 'Stripe Atlas messed up my 83B election', 'I Hugely Regret Using Stripe Atlas' and 'missed an 83(b) election because the lawyer never recommended it'; this is where the room's failed spend shows.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "incorporation-service-worth-it",
+      "label": "is Stripe Atlas or Clerky worth paying for, or will free tools do?",
+      "definition": "Founders unsure which paid incorporation service fits their case (Stripe Atlas, Clerky, doola, Firstbase) or whether it is worth the fee compared with free or cheaper routes.",
+      "added_round": 1,
+      "reasoning": "Members ask 'What's the advantage of using Clerky versus one of the suggested free tools', 'When does using Stripe Atlas make sense?' and 'I am also not sure who Stripe Atlas for'.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "409a-too-expensive",
+      "label": "a 409A costs too much for us; looking for a cheaper provider we can trust",
+      "definition": "An early or bootstrapped company needs a 409A to grant options but finds the price too high, hunts for the cheapest or a free one, or asks which firm to use.",
+      "added_round": 1,
+      "reasoning": "Members say 'even the Carta platform option is too expensive for us now', 'What is the cheapest you can get a 409A valuation done for' and 'Do I need an expensive 409A valuation'.",
+      "confidence": "high"
+    },
+    {
+      "key": "409a-when-needed",
+      "label": "not sure when we need a 409A or when to refresh it",
+      "definition": "Unsure at what stage the first 409A is needed (before the first grants, after a SAFE, in a bootstrapped company) or when the 12-month or after-a-round refresh is due.",
+      "added_round": 1,
+      "reasoning": "Members ask 'At what stage should startups get a 409A valuation?' and about 409As 'for those who've bootstrapped'; many seller pages answer the same timing question.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "409a-low-but-defensible",
+      "label": "we want a low 409A that still holds up with the IRS and auditors",
+      "definition": "The draft 409A comes in higher than the founders want, so they challenge it or look for ways to get it lower, while fearing that a cheap or aggressive value loses safe harbour or fails an audit.",
+      "added_round": 1,
+      "reasoning": "Members ask 'Is it common for startup companies to challenge their draft 409A valuation?' and for 'strategies for getting the lowest possible 409A valuation'; sellers answer with safe-harbour and audit-defence pages.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "cap-table-tool-too-expensive",
+      "label": "Carta or another cap-table tool costs too much for us",
+      "definition": "The cap-table platform (Carta, Pulley and similar) and its bundled 409A are priced beyond what an early company wants to pay, so founders look for cheaper tools or ways out.",
+      "added_round": 1,
+      "reasoning": "One member says 'even the Carta platform option is too expensive for us now'; media pages about Carta's 'hidden costs' and cancelling Carta show the same worry. [thin] in round 1.",
+      "confidence": "low"
+    },
+    {
+      "key": "delaware-franchise-tax-shock",
+      "label": "a scary Delaware franchise tax bill and the March 1 deadline",
+      "definition": "The yearly Delaware franchise tax and annual report: a bill that looks huge under the default method unless it is recalculated, and a March 1 deadline that is easy to miss.",
+      "added_round": 1,
+      "reasoning": "Only seller and media pages show it in round 1 ('How to Avoid Overpaying', 'March 1 & June 1 Deadlines'); it is step 6 of the room's ladder. [thin]: no member record yet.",
+      "confidence": "low"
+    },
+    {
+      "key": "form-3921-deadline",
+      "label": "remembering to file Form 3921 when employees exercise ISOs",
+      "definition": "After an employee exercises incentive stock options, the company must send and file Form 3921 by its yearly deadline or face penalties.",
+      "added_round": 1,
+      "reasoning": "Only seller and media pages show it in round 1 ('Remember to file IRS Form 3921 for Employee ISO Exercises', 'Deadlines, AMT & Penalties'). [thin]: no member record yet.",
+      "confidence": "low"
+    }
+  ]
+}
