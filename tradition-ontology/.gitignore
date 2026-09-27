@@ -1,0 +1,5 @@
+sources_raw/
+shards/**/_gen/
+__pycache__/
+*.pyc
+*.tmp
