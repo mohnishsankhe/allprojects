@@ -61,7 +61,7 @@ Stage 3 per room:
 | Room | Rounds | Records | Labeled | Saturation | Draft | Quote check |
 |---|---|---|---|---|---|---|
 | active-retail-options-traders | 2 | 2309 | 1086 | round 1: 1086 records, not saturated | no | not checked |
-| bpo-contact-centre-operators-india-philippines | 2 | 2188 | 1323 | round 1: 1243 records, not saturated | no | not checked |
+| bpo-contact-centre-operators-india-philippines | 2 | 2188 | 1403 | round 1: 1243 records, not saturated | no | not checked |
 | business-brokers-ma-boutiques | 2 | 1005 | 979 | round 2: 979 records, not saturated | no | not checked |
 | cfa-candidates-community | 2 | 1814 | 1445 | round 2: 878 records, not saturated | no | not checked |
 | d2c-brands-scaling-past-launch | 2 | 1884 | 988 | round 1: 988 records, not saturated | no | not checked |
@@ -74,7 +74,7 @@ Stage 3 per room:
 | salon-spa-owners-india-global | 2 | 2302 | 1340 | round 1: 1340 records, not saturated | no | not checked |
 | small-business-owners-reddit-community | 2 | 2219 | 2180 | round 1: 896 records, not saturated | no | not checked |
 | small-industrial-property-investors | 2 | 1784 | 1108 | round 1: 948 records, not saturated | no | not checked |
-| startup-founders-409a-83b-deadlines | 2 | 1720 | 1293 | round 1: 813 records, not saturated | no | not checked |
+| startup-founders-409a-83b-deadlines | 2 | 1720 | 1453 | round 1: 813 records, not saturated | no | not checked |
 
 Rooms kept: 15. Pains kept: 0. Stage 6 kept: 0. Survivors (final): 0.
 <!-- /auto:status -->

@@ -1030,3 +1030,6 @@
 {"command": "listen-status", "dated": 8, "kind": "ran", "per_round": {"1": 961, "2": 990}, "per_source": {"websearch": 1951}, "records": 1951, "room": "gre-preppers-worldwide-online", "stage": 3, "ts": "2026-09-27T15:35:16+00:00", "undated": 1943}
 {"command": "show", "ids": 21, "kind": "ran", "missing": [], "room": "dubai-real-estate-brokerages-telesales", "stage": 3, "ts": "2026-09-27T15:35:17+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T15:36:11+00:00"}
+{"command": "show", "ids": 10, "kind": "ran", "missing": [], "room": "small-industrial-property-investors", "stage": 3, "ts": "2026-09-27T15:37:49+00:00"}
+{"command": "show", "ids": 27, "kind": "ran", "missing": [], "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T15:38:42+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T15:41:13+00:00"}
