@@ -83,9 +83,16 @@
       "label": "Our dialer server got hacked and is making calls we never placed",
       "definition": "Break-ins on self-hosted dialers and phone servers (VICIdial and other Asterisk-based systems), usually through weak passwords or ports left open to the internet. Intruders run international calls that the carrier bills to the operator (toll fraud) or take over the server, so owners need firewalls and outside help to lock it down. This is a break-in, not a call-quality fault.",
       "added_round": 2
+    },
+    {
+      "key": "agent-idle-and-pause-time",
+      "label": "Our agents sit waiting for calls or in pause too long, and the time reports look wrong",
+      "definition": "Logged-in agents spend long stretches waiting for the dialer to pass them a call, or stay in pause (breaks and 'not ready' time), so paid seats talk too little. Owners ask how to cut wait and pause time and how to read, and trust, the dialer's agent time reports: login time, pause codes (the reason an agent gives for stepping away) and billable hours (the agent hours a client pays for). How many agents to schedule is wfm-staffing; a fault that stops calls reaching agents at all is dialer-and-carrier-problems.",
+      "added_round": 3
     }
   ],
   "reviewed_rounds": [
-    2
+    2,
+    3
   ]
 }

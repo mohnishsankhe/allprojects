@@ -33,59 +33,84 @@
     },
     {
       "evaluable": true,
-      "new_pains": [],
-      "new_records": 73,
+      "new_pains": [
+        "charter-no-job",
+        "test-centre-problems",
+        "work-experience-charter"
+      ],
+      "new_records": 946,
       "rank_changes": [
         {
           "key": "failed-what-next",
-          "rank_after": 2,
-          "rank_before": 3
-        },
-        {
-          "key": "hardest-topics",
-          "rank_after": 10,
-          "rank_before": 9
-        },
-        {
-          "key": "how-to-study",
-          "rank_after": 8,
-          "rank_before": 7
-        },
-        {
-          "key": "postpone-or-refund",
-          "rank_after": 4,
-          "rank_before": 2
-        },
-        {
-          "key": "rules-and-deadlines",
-          "rank_after": 5,
-          "rank_before": 8
-        },
-        {
-          "key": "scholarship-essay",
-          "rank_after": 6,
+          "rank_after": 7,
           "rank_before": 4
         },
         {
-          "key": "study-with-full-time-job",
-          "rank_after": 9,
+          "key": "hardest-topics",
+          "rank_after": 12,
           "rank_before": 10
         },
         {
-          "key": "which-prep-provider",
+          "key": "how-to-study",
+          "rank_after": 10,
+          "rank_before": 8
+        },
+        {
+          "key": "job-without-charter",
+          "rank_after": 8,
+          "rank_before": 13
+        },
+        {
+          "key": "level3-essays",
+          "rank_after": 15,
+          "rank_before": 14
+        },
+        {
+          "key": "mock-scores-readiness",
+          "rank_after": 14,
+          "rank_before": 15
+        },
+        {
+          "key": "postpone-or-refund",
+          "rank_after": 5,
+          "rank_before": 2
+        },
+        {
+          "key": "prep-not-enough",
+          "rank_after": 16,
+          "rank_before": 12
+        },
+        {
+          "key": "rules-and-deadlines",
           "rank_after": 3,
           "rank_before": 5
         },
         {
-          "key": "worth-it",
-          "rank_after": 7,
+          "key": "scholarship-essay",
+          "rank_after": 2,
           "rank_before": 6
+        },
+        {
+          "key": "which-prep-provider",
+          "rank_after": 6,
+          "rank_before": 3
+        },
+        {
+          "key": "worth-it",
+          "rank_after": 4,
+          "rank_before": 7
         }
       ],
-      "records": 878,
+      "records": 1751,
       "round": 2,
       "saturated": false,
+      "taxonomy_added": [
+        "charter-no-job",
+        "test-centre-problems",
+        "work-experience-charter"
+      ],
       "taxonomy_keys": [
+        "charter-no-job",
         "failed-what-next",
         "giving-up",
         "hardest-topics",
@@ -98,13 +123,15 @@
         "rules-and-deadlines",
         "scholarship-essay",
         "study-with-full-time-job",
+        "test-centre-problems",
         "total-fees",
         "which-prep-provider",
+        "work-experience-charter",
         "worth-it"
       ],
       "window": 300,
-      "window_member_records": 61,
-      "window_used": 300
+      "window_member_records": 472,
+      "window_used": 946
     }
   ],
   "stop_reason": null,

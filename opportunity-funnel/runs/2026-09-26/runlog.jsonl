@@ -1168,3 +1168,11 @@
 {"command": "show", "ids": 30, "kind": "ran", "missing": [], "room": "dubai-real-estate-brokerages-telesales", "stage": 3, "ts": "2026-09-27T16:56:39+00:00"}
 {"command": "show", "ids": 27, "kind": "ran", "missing": [], "room": "dubai-real-estate-brokerages-telesales", "stage": 3, "ts": "2026-09-27T16:56:50+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T16:56:53+00:00"}
+{"command": "show", "ids": 3, "kind": "ran", "missing": [], "room": "outbound-lead-gen-appointment-setting-agencies", "stage": 3, "ts": "2026-09-27T16:58:12+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "outbound-lead-gen-appointment-setting-agencies", "stage": 3, "ts": "2026-09-27T16:59:08+00:00"}
+{"already_checked": 0, "command": "relabel-pack", "keys": ["agent-idle-and-pause-time"], "kind": "ran", "packs": 3, "room": "bpo-contact-centre-operators-india-philippines", "round": 3, "stage": 3, "ts": "2026-09-27T16:59:18+00:00"}
+{"changed": 0, "command": "apply-patches", "kind": "ran", "patches": ["pack_r2_001", "pack_r2_002", "pack_r2_003"], "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T16:59:54+00:00"}
+{"by_kind": {"blog_or_site": 579, "forum": 415, "jobs": 73, "news": 13, "official": 88, "qa": 309, "reviews": 106, "social": 30, "video": 138}, "by_source": {"websearch": 1751}, "by_voice": {"media": 237, "member": 646, "other": 497, "seller": 371}, "command": "count", "kind": "count", "labeled": 1751, "pains": 18, "room": "cfa-candidates-community", "source_kinds": 9, "stage": 3, "ts": "2026-09-27T16:59:59+00:00"}
+{"command": "saturation", "kind": "count", "new_pains": ["charter-no-job", "test-centre-problems", "work-experience-charter"], "new_records": 946, "rank_changes": 12, "records": 1751, "room": "cfa-candidates-community", "round": 2, "saturated": false, "stage": 3, "stop_reason": null, "ts": "2026-09-27T17:00:02+00:00"}
+{"command": "listen-status", "dated": 4, "kind": "ran", "per_round": {"1": 850, "2": 964}, "per_source": {"websearch": 1814}, "records": 1814, "room": "cfa-candidates-community", "stage": 3, "ts": "2026-09-27T17:00:06+00:00", "undated": 1810}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T17:01:56+00:00"}
