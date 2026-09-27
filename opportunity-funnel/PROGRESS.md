@@ -69,7 +69,7 @@ Stage 3 per room:
 | gre-engineers-india | 2 | 1762 | 981 | round 1: 900 records, not saturated | no | not checked |
 | gre-preppers-worldwide-online | 2 | 1951 | 1564 | round 2: 942 records, not saturated | no | not checked |
 | indie-perfumers-launching-brands | 2 | 1794 | 1645 | round 1: 845 records, not saturated | no | not checked |
-| lender-insurer-telesales-floors-india | 2 | 1721 | 1475 | round 1: 835 records, not saturated | no | not checked |
+| lender-insurer-telesales-floors-india | 2 | 1721 | 1635 | round 1: 835 records, not saturated | no | not checked |
 | outbound-lead-gen-appointment-setting-agencies | 1 | 1022 | 984 | round 1: 984 records, not saturated | no | not checked |
 | salon-spa-owners-india-global | 2 | 2302 | 1340 | round 1: 1340 records, not saturated | no | not checked |
 | small-business-owners-reddit-community | 2 | 2219 | 1536 | round 1: 896 records, not saturated | no | not checked |
