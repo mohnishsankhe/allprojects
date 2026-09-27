@@ -101,7 +101,7 @@ async function listen(slug) {
     // Saturated only from round 2, with every planned query searched (an interrupted harvest leaves unmatched queries),
     // and with no pain a labeler suggested (the latest records may hold a pain the taxonomy lacks).
     if (lab.saturated && lab.records_total >= MIN_RECORDS && round >= 2 && lab.unmatched_queries === 0 && suggestions.length === 0) { stop = 'saturated'; break }
-    if (round > 1 && round > first && lab.new_records < EXHAUSTED) { stop = 'exhausted'; break }
+    if (round > 1 && lab.new_records < EXHAUSTED) { stop = 'exhausted'; break }
     if (round >= MAX_ROUNDS) { stop = 'max_rounds'; break }
     round++
   }
