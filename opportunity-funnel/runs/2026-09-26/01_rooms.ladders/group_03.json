@@ -1,0 +1,444 @@
+{
+  "ladders": {
+    "sat-us-undergrad-india": [
+      {
+        "step": 1,
+        "problem": "SAT coaching, classroom or online, in Class 11 and 12",
+        "price_text": "₹20,000 to ₹60,000",
+        "url": "https://collegedunia.com/exams/sat/sat-preparation-classes-in-mumbai",
+        "seen_via": "search",
+        "note": "Reused from current ladder (Mumbai range seen)."
+      },
+      {
+        "step": 2,
+        "problem": "SAT registration from India, usually two sittings (base fee plus international fee and GST)",
+        "price_text": "$130.98 (~₹12,548)",
+        "url": "https://eecglobal.com/blog/sat-fee-india-2026",
+        "seen_via": "search",
+        "note": "Reused from current ladder."
+      },
+      {
+        "step": 3,
+        "problem": "English proficiency test most US colleges ask of Indian applicants (TOEFL iBT, or IELTS or Duolingo)",
+        "price_text": "INR 18,000",
+        "url": "https://collegedunia.com/exams/toefl/toefl-fees",
+        "seen_via": "search",
+        "note": "New step. Summary: fee in India 2026 is INR 18,000 for test centre and Home Edition (INR 15,254 plus 18% GST). Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      },
+      {
+        "step": 4,
+        "problem": "College counselling: shortlisting, Common App essays and aid strategy",
+        "price_text": "INR 30,000 and INR 1.5 lakh",
+        "url": "https://leapscholar.com/blog/how-much-do-study-abroad-consultants-charge-in-india/",
+        "seen_via": "search",
+        "note": "Reused from current ladder."
+      },
+      {
+        "step": 5,
+        "problem": "Application fees per college, plus the CSS Profile for financial aid (8 to 15 colleges is typical)",
+        "price_text": "roughly $50 per application",
+        "url": "https://www.bestcolleges.com/research/college-application-fees-how-much-does-it-cost/",
+        "seen_via": "search",
+        "note": "New step. Same search also showed the CSS Profile at $25 for the first institution and $16 for each additional one (https://cssprofile.collegeboard.org/help-center/what-cost-css-profile-and-what-payment-methods-are-accepted); international fee waivers are rare. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      },
+      {
+        "step": 6,
+        "problem": "Paying for the degree: tuition and living costs, usually with an education loan",
+        "price_text": "₹25L–₹80L",
+        "url": "https://wp.eduquest.org.in/cost-of-studying-in-usa-from-india/",
+        "seen_via": "search",
+        "note": "Reused from current ladder. Price is the total cost the loan must cover."
+      },
+      {
+        "step": 7,
+        "problem": "F-1 visa: SEVIS I-901 fee and DS-160 visa fee before departure (plus a new visa integrity fee at issuance)",
+        "price_text": "$535 in required government fees: $350 for SEVIS and $185 for Form DS-160",
+        "url": "https://manifestlaw.com/blog/f1-visa-costs",
+        "seen_via": "search",
+        "note": "Was unpriced in current ladder; now priced. Summary also noted a $250 Visa Integrity Fee collected at issuance from 2026. Dropped the old step 6 (internships, transfers, OPT): OPT comes 4 years later, outside the 2-3 year window. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      }
+    ],
+    "small-ca-firms-india": [
+      {
+        "step": 1,
+        "problem": "Income-tax and GST return filing software, renewed every year (Winman CA-ERP, CompuTax and rivals)",
+        "price_text": "14,060 rupees (or 10,540 rupees with discount)",
+        "url": "https://www.techjockey.com/detail/winman-ca-erp",
+        "seen_via": "search",
+        "note": "New step; every filing practice buys one. Another result put the start price at ₹9,850 (softwaresuggest). CompuTax price not shown. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      },
+      {
+        "step": 2,
+        "problem": "Accounting software licence and yearly renewal for the firm and its clients' books (TallyPrime, single or multi user)",
+        "price_text": "₹22,500 Silver, ₹67,500 Gold",
+        "url": "https://www.erpresearch.com/pricing/tallyprime",
+        "seen_via": "search",
+        "note": "New step. Price text is from the result title; summary adds 18% GST and TSS renewal at ₹4,500/year after year one. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      },
+      {
+        "step": 3,
+        "problem": "Practice management software for task, client and deadline tracking",
+        "price_text": "₹7,500/year",
+        "url": "https://www.qwikca.in/pricing/",
+        "seen_via": "search",
+        "note": "Reused from current ladder (QwikCA Starter, 10 users)."
+      },
+      {
+        "step": 4,
+        "problem": "Class 3 digital signature certificates (DSC) for partners and for clients' filings, renewed every 2 years",
+        "price_text": "₹1,500 and ₹2000 for a 2-year certificate",
+        "url": "https://www.esolutions.digital/class-3-dsc-price-india",
+        "seen_via": "search",
+        "note": "New step; needed for every MCA, GST and income-tax e-filing. eMudhra's own site showed 'starts from ₹1593'. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      },
+      {
+        "step": 5,
+        "problem": "ICAI annual membership and certificate-of-practice (COP) fee, mandatory to keep practising",
+        "price_text": "₹5,310 for Associate members and ₹8,260 for Fellow members, inclusive of GST",
+        "url": "https://cacult.com/icai-membership-cop-fee-fy-2026-27-gstin-update-required/",
+        "seen_via": "search",
+        "note": "New step; payable 1 April to 30 September each year. CPE hours also cost money but were not priced. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      },
+      {
+        "step": 6,
+        "problem": "Peer review certificate from an ICAI-empanelled reviewer, now mandatory in phases for firms doing audits (fee paid by the firm to the reviewer)",
+        "price_text": "From Rs. 10 lacs to 50 lacs p.a.: Rs. 25,000/-",
+        "url": "https://www.icai.org/post/prb-formats-annexures-mfr-its-cpr",
+        "seen_via": "search",
+        "note": "Was unpriced in current ladder; now priced. Slabs run from Rs. 15,000/- (under Rs. 10 lacs receipts) to Rs. 5,00,000/- (above Rs. 30 crore); one-time fee for the period reviewed. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      },
+      {
+        "step": 7,
+        "problem": "Training for a higher-value service line: ICAI Certificate Course on Valuation (path to Registered Valuer)",
+        "price_text": "Rs. 20,000 + 18% GST (Total Rs. 23,600)",
+        "url": "https://icaiahmedabad.com/event-in-image/Certificate-Course-on-Valuation-at-Ahmedabad-Annoucement.pdf",
+        "seen_via": "search",
+        "note": "Replaces the old Wall Street Prep step with an India price from the same institute the room belongs to. A shiksha result showing INR 25,000 is for the Institute of Cost Accountants, a different body, so not used. Dropped old steps 2 (Vapi voice-agent fee: not a price this room pays), 4 (pitch deck: the startup client's purchase) and 5 (AI search visibility: not commonly bought by small CA firms). Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      }
+    ],
+    "sea-energy-companies-issb-climate-reporting": [
+      {
+        "step": 1,
+        "problem": "Train the finance and sustainability team on IFRS S1 and S2 and the exchange's timeline",
+        "price_text": "S$654.00 (inclusive of GST)",
+        "url": "https://www.isca.org.sg/iscaacademy/courses/sustainability/esg025",
+        "seen_via": "search",
+        "note": "Reused from current ladder (ISCA workshop; S$436.00 for SGX-subsidised representatives)."
+      },
+      {
+        "step": 2,
+        "problem": "Measure Scope 1 and 2 emissions across sites: carbon accounting software",
+        "price_text": "S$3,000/year",
+        "url": "https://tc02e.com/",
+        "seen_via": "search",
+        "note": "Reused from current ladder (tCO2e founding plan; about S$2,100 after the Sustainability Reporting Grant)."
+      },
+      {
+        "step": 3,
+        "problem": "Consultant to write the first climate disclosure: governance, strategy, scenario analysis, metrics and targets",
+        "price_text": null,
+        "url": null,
+        "seen_via": "search",
+        "note": "Kept unpriced after 2 searches: results only showed Singapore's grant (up to 30% of qualifying consultant costs, capped at S$150,000) and SME programme support (up to 70%). Confident it is paid: the grant exists precisely because companies pay external consultants for this."
+      },
+      {
+        "step": 4,
+        "problem": "Scope 3 and supplier data once the deferral ends (Malaysia one-year deferral; STI constituents in Singapore from 2026)",
+        "price_text": "from $99/month",
+        "url": "https://samcorporate.com/en/samesg-lite-emission-reporting-tool/",
+        "seen_via": "search",
+        "note": "Reused from current ladder (SAMESG Lite)."
+      },
+      {
+        "step": 5,
+        "problem": "Set and validate emissions targets and a transition plan that lenders and the standard ask for (SBTi validation fee)",
+        "price_text": "SMEs pay USD 1,000. Companies with revenue under USD 100 million pay USD 4,750. Companies with revenue over USD 100 million pay USD 9,500.",
+        "url": "https://normative.io/insight/sbti/",
+        "seen_via": "search",
+        "note": "Replaces the old step 6 (CBAM modelling, which belongs to the exporter room). Moderate confidence that it is common: IFRS S2 requires target disclosure and validation is the paid route; not every company validates. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      },
+      {
+        "step": 6,
+        "problem": "Assurance over Scope 1 and 2 from an accredited provider once the phase requires it (Malaysia Group 1 from FY2027; Singapore listed from FY2029)",
+        "price_text": null,
+        "url": null,
+        "seen_via": "search",
+        "note": "Kept unpriced after 2 searches: results gave the assurance timelines and standards (ISAE 3000 / ISSA 5000) but no fee. Confident it is paid: it is a mandatory external engagement."
+      }
+    ],
+    "bpo-contact-centre-operators-india-philippines": [
+      {
+        "step": 1,
+        "problem": "Cloud telephony and a dialer for each new client campaign, paid per agent seat",
+        "price_text": "$25/user/month",
+        "url": "https://bonvoice.com/insights/ozonetel-pricing-in-india/",
+        "seen_via": "search",
+        "note": "Reused from current ladder (Ozonetel)."
+      },
+      {
+        "step": 2,
+        "problem": "Score and audit agent calls to pass client quality audits (QA software)",
+        "price_text": "$35 per agent, per month, billed annually",
+        "url": "https://www.zendesk.com/service/quality-assurance/customer-service-quality-assurance-software/",
+        "seen_via": "search",
+        "note": "Reused from current ladder."
+      },
+      {
+        "step": 3,
+        "problem": "Security certification enterprise clients demand before awarding contracts (ISO 27001; PCI DSS for payment work)",
+        "price_text": "200,000 PHP to 500,000 PHP",
+        "url": "https://vertexcertifiers.com/procedure-cost-for-iso-27001-certification-in-philippines/",
+        "seen_via": "search",
+        "note": "New step. A second search for PCI DSS in India showed INR 1,50,000 to INR 3,00,000 for small businesses (https://pcidsscertification.in/pci-dss-certification-cost-india/). Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      },
+      {
+        "step": 4,
+        "problem": "Forecast, schedule and track adherence as seat counts grow: workforce management software",
+        "price_text": "$20 and $35 per agent, per month",
+        "url": "https://www.amplifai.com/blog/call-center-workforce-management-wfm-software",
+        "seen_via": "search",
+        "note": "New step (CommunityWFM tiers). Another result put general WFM at $6 to $20 per employee per month. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      },
+      {
+        "step": 5,
+        "problem": "Add AI voice agents and AI call auditing to keep contracts and margins (platform usage)",
+        "price_text": "$0.05 per minute",
+        "url": "https://vapi.ai/pricing",
+        "seen_via": "search",
+        "note": "Reused from current ladder."
+      },
+      {
+        "step": 6,
+        "problem": "Train team leads and supervisors as sites grow",
+        "price_text": "$1,295",
+        "url": "https://www.theknowledgeacademy.com/ph/courses/communication-skills-training/call-centre-management-training/",
+        "seen_via": "search",
+        "note": "Was unpriced in current ladder; now priced (Philippines call-centre management course). A second search found only agent-level courses at PHP 4,500. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      },
+      {
+        "step": 7,
+        "problem": "Join the industry body to be seen by enterprise buyers (NASSCOM in India; CCAP in the Philippines)",
+        "price_text": "Rs. 10,000 to Rs. 60,00,000",
+        "url": "https://corpbiz.io/nasscom-membership-certificate",
+        "seen_via": "search",
+        "note": "Was unpriced in current ladder; now priced with NASSCOM's slab range (14 revenue slabs plus 18% GST). CCAP publishes no fee; a second search found none. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      }
+    ],
+    "lender-insurer-telesales-floors-india": [
+      {
+        "step": 1,
+        "problem": "DLT entity, header and template registration with consent templates before any outbound calling or SMS",
+        "price_text": "₹5,900",
+        "url": "https://frejun.com/how-to-get-160-series-number-bank-nbfc-india/",
+        "seen_via": "search",
+        "note": "Was unpriced in current ladder; priced with the one-time fee on the first DLT platform seen in this pass (same result as the TRAI room)."
+      },
+      {
+        "step": 2,
+        "problem": "A lead management CRM that feeds the floor and tracks conversion (LeadSquared and rivals)",
+        "price_text": "Lite ₹1,250/user/month, Pro ₹2,500/user/month, Super ₹4,500/user/month",
+        "url": "https://productgrowth.in/tools/crm-sales/leadsquared/",
+        "seen_via": "search",
+        "note": "New step; lenders' tele-sales floors run on a lead CRM. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      },
+      {
+        "step": 3,
+        "problem": "A cloud dialer and contact-centre seat per caller, on 160-series numbers, that lifts contact rates without breaching the calling rules",
+        "price_text": "$25/user/month",
+        "url": "https://bonvoice.com/insights/ozonetel-pricing-in-india/",
+        "seen_via": "search",
+        "note": "Reused from current ladder (Ozonetel). A search summary showed one provider's 160-series number at ₹10,000/Month but the page could not be pinned."
+      },
+      {
+        "step": 4,
+        "problem": "Record and audit calls for mis-selling and consent (QA software)",
+        "price_text": "$35 per agent, per month, billed annually",
+        "url": "https://www.zendesk.com/service/quality-assurance/customer-service-quality-assurance-software/",
+        "seen_via": "search",
+        "note": "Reused from current ladder. Convin (Indian vendor) shows no public price."
+      },
+      {
+        "step": 5,
+        "problem": "AI voice bots for EMI reminders, renewals and first-bucket collections, paid per minute",
+        "price_text": "₹2–12/Minute",
+        "url": "https://caller.digital/voice-ai-pricing-india",
+        "seen_via": "search",
+        "note": "Reused from current ladder."
+      },
+      {
+        "step": 6,
+        "problem": "Mandatory IIBF Debt Recovery Agent (DRA) certification for every collections caller and field agent (RBI rule)",
+        "price_text": "Rs. 1416/-",
+        "url": "https://www.bankersadda.com/iibf-dra/",
+        "seen_via": "search",
+        "note": "New step; the fee per candidate, uniform for members and non-members, includes GST; training institutes charge on top. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      },
+      {
+        "step": 7,
+        "problem": "Outsourced recovery agencies for late buckets, paid a share of collections",
+        "price_text": null,
+        "url": null,
+        "seen_via": "search",
+        "note": "Kept unpriced after 2 searches: only US contingency rates (10% to 50% of the amount recovered) were seen, not an Indian NBFC payout. Confident it is paid: RBI's recovery-agent rules exist because lenders pay these agencies."
+      }
+    ],
+    "small-industrial-property-investors": [
+      {
+        "step": 1,
+        "problem": "Market data to find and price deals (CoStar)",
+        "price_text": "$15,000 annually",
+        "url": "https://www.vendr.com/buyer-guides/costar",
+        "seen_via": "search",
+        "note": "Reused from current ladder."
+      },
+      {
+        "step": 2,
+        "problem": "Learn to underwrite deals in a proper model",
+        "price_text": "$697",
+        "url": "https://www.adventuresincre.com/pricing/",
+        "seen_via": "search",
+        "note": "Reused from current ladder (A.CRE Accelerator)."
+      },
+      {
+        "step": 3,
+        "problem": "Third-party reports at purchase: Phase I environmental site assessment, appraisal and survey (industrial sites cost more)",
+        "price_text": "$2,200–$4,000",
+        "url": "https://a3e.com/4-factors-in-the-average-cost-of-phase-i-environmental/",
+        "seen_via": "search",
+        "note": "New step. Price text is from the result title; summary says large or older industrial sites run ~$4,000 – $6,000+. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      },
+      {
+        "step": 4,
+        "problem": "Raise debt: commercial mortgage broker fee at closing",
+        "price_text": "between 0.50% and 1.50% of the loan amount",
+        "url": "https://yieldstack.ai/blog/commercial-mortgage-broker-fees-explained",
+        "seen_via": "search",
+        "note": "Was unpriced in current ladder (folded into 'raise debt and equity'); now priced. Summary: 1.00% is most common on $2M-$15M deals, borrower pays. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      },
+      {
+        "step": 5,
+        "problem": "Raise equity legally: securities counsel for the PPM, operating agreement and Reg D filings",
+        "price_text": "$15,000–$40,000",
+        "url": "https://www.moschettilaw.com/private-placement-memorandum-cost/",
+        "seen_via": "search",
+        "note": "New step; every syndication needs it. Another result put a complete Reg D package at $12,000–$25,000+. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      },
+      {
+        "step": 6,
+        "problem": "Investor portal and distributions software once there are outside investors",
+        "price_text": "$499 per month (billed annually)",
+        "url": "https://www.investnext.com/pricing/",
+        "seen_via": "search",
+        "note": "New step (InvestNext Core). Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      },
+      {
+        "step": 7,
+        "problem": "Cost segregation study to accelerate depreciation after each purchase",
+        "price_text": "$10,000-$25,000",
+        "url": "https://corporatetaxadvisors.com/how-much-does-a-cost-segregation-cost-2026-pricing-guide/",
+        "seen_via": "search",
+        "note": "New step; standard for $1-5 million properties per the summary (overall range $5,000 to $60,000). Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      },
+      {
+        "step": 8,
+        "problem": "Leasing and third-party property management on a bigger portfolio, paid as a share of rent collected",
+        "price_text": "4–6% range",
+        "url": "https://www.homebasecre.com/posts/commercial-property-management-fees",
+        "seen_via": "search",
+        "note": "Was unpriced in current ladder; now priced (industrial and warehouse on NNN leases). Dropped the old ARGUS certification step ($900): a job credential, not something small owner-operators commonly buy. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      }
+    ],
+    "trai-dlt-160-series-outbound-callers": [
+      {
+        "step": 1,
+        "problem": "DLT entity, header and template registration, with consent templates (one-time fee on the first platform)",
+        "price_text": "₹5,900",
+        "url": "https://frejun.com/how-to-get-160-series-number-bank-nbfc-india/",
+        "seen_via": "search",
+        "note": "Reused from current ladder."
+      },
+      {
+        "step": 2,
+        "problem": "Send transactional and promotional SMS through a DLT-compliant gateway, paid per message",
+        "price_text": "₹0.15/SMS at 1 lakh volume and ₹0.12/SMS at 10 lakh volume",
+        "url": "https://www.techtonetworks.com/post/bulk-sms-charges",
+        "seen_via": "search",
+        "note": "New step; the recurring spend every DLT-registered business has. Summary: plus 18% GST. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      },
+      {
+        "step": 3,
+        "problem": "Move service and transactional calls to 160-series numbers and a dialer that respects the rules",
+        "price_text": null,
+        "url": null,
+        "seen_via": "search",
+        "note": "Kept unpriced after 2 searches: a search summary showed one provider at ₹10,000/Month but the page could not be pinned, and a targeted search returned scooter listings. Confident it is paid: numbers are allocated by telecom operators for a fee."
+      },
+      {
+        "step": 4,
+        "problem": "Capture and store customer consent through the operators' Digital Consent Acquisition system, paid per consent",
+        "price_text": "3 rupees",
+        "url": "https://www.airtel.in/business/commercial-communication/assets/documents/DCA_FAQS.pdf",
+        "seen_via": "search",
+        "note": "New step; TRAI's DCA direction (2 June 2023) makes this the route to compliant promotional consent. Summary: Airtel's FAQ gives the current charge per consent as 3 rupees (₹3). Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      },
+      {
+        "step": 5,
+        "problem": "Record and audit calls to prove consent and avoid blacklisting (QA software)",
+        "price_text": "around $35 per user per month",
+        "url": "https://www.guideflow.com/blog/contact-center-quality-assurance-software",
+        "seen_via": "search",
+        "note": "Reused from current ladder."
+      },
+      {
+        "step": 6,
+        "problem": "Deploy AI callers that log consent and disclosures by design (platform usage)",
+        "price_text": "$0.05 per minute",
+        "url": "https://www.cloudtalk.io/blog/vapi-ai-pricing/",
+        "seen_via": "search",
+        "note": "Reused from current ladder. Dropped the old step 5 (contact-centre quality certification): not a purchase driven by the TRAI rule, and it belongs to the BPO operators room."
+      }
+    ],
+    "ai-agent-builders-freelance": [
+      {
+        "step": 1,
+        "problem": "Learn to build agents: a paid community plus starter kits and templates",
+        "price_text": "$7 a month",
+        "url": "https://skoolmakers.com/communities/ai-automation-a-z/",
+        "seen_via": "search",
+        "note": "Reused from current ladder; merged the old step 2 (Gumroad starter kit, $4.99+, which lacked a seen_via) into this one as the same learning problem."
+      },
+      {
+        "step": 2,
+        "problem": "Platform and infrastructure usage as the first agents go live (voice minutes, automation hosting, API calls)",
+        "price_text": "$0.05 per minute",
+        "url": "https://vapi.ai/pricing",
+        "seen_via": "search",
+        "note": "Reused from current ladder. A search this pass also showed n8n Cloud Starter at $24/mo, or $20/mo billed annually (https://costbench.com/software/ai-automation/n8n/)."
+      },
+      {
+        "step": 3,
+        "problem": "Find clients: marketplace bids and outreach (Upwork Connects and Freelancer Plus)",
+        "price_text": "Freelancer Plus for $19.99/month with 100 Connects",
+        "url": "https://www.upwork.com/resources/is-upwork-free",
+        "seen_via": "search",
+        "note": "New step. Summary: each Connect costs $0.15 USD in bundles from 10 for $1.50. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      },
+      {
+        "step": 4,
+        "problem": "Join an agency-building program to learn to price and sell",
+        "price_text": "$184/month",
+        "url": "https://skoolmakers.com/communities/maker-school/",
+        "seen_via": "search",
+        "note": "Reused from current ladder (Maker School)."
+      },
+      {
+        "step": 5,
+        "problem": "Test, monitor and prove call quality and compliance to keep enterprise clients (voice-agent testing and observability tools)",
+        "price_text": "$249/month",
+        "url": "https://www.cekura.ai/pricing",
+        "seen_via": "search",
+        "note": "Was unpriced in current ladder; now priced (Cekura Pro: 50k scores, observability; first user free, $30 per extra user). Hamming has no public price. Page fetch blocked by egress proxy; price_text copied from the WebSearch result summary and attributed to the listed result whose title matches."
+      }
+    ]
+  }
+}

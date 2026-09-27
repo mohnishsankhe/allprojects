@@ -1,0 +1,428 @@
+{
+  "ladders": {
+    "ib-associates-vps-leaving-banking": [
+      {
+        "step": 1,
+        "problem": "Work out the exit and rebuild the story with a career coach who knows banking (corporate development, a fund, a startup finance role, or own business)",
+        "price_text": "$100–$250 per session",
+        "url": "https://igotanoffer.com/en/advice/best-investment-banking-interview-coaching-services",
+        "seen_via": "search",
+        "note": "Per-session coaching price seen on a page comparing banking career coaches. Same page notes independent coaches at $100-$800/hr and structured 12-week programs around $6,000."
+      },
+      {
+        "step": 2,
+        "problem": "Rewrite the resume and LinkedIn profile for a non-banking reader (a professional finance resume writer; LinkedIn Premium Career on top)",
+        "price_text": "$395 to $995",
+        "url": "https://www.findmyprofession.com/career-advice/resume-services-finance/",
+        "seen_via": "search",
+        "note": "Package range seen for finance resume writing. LinkedIn Premium Career was seen at US$39.99 per month (https://premium.linkedin.com/careers/career); folded in here because both solve 'get found by the right recruiter'."
+      },
+      {
+        "step": 3,
+        "problem": "Prepare for the target role's interviews and modelling test after years of pitch work (a modelling and interview prep course)",
+        "price_text": "$499",
+        "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+        "seen_via": "search",
+        "note": "Reused from the old ladder; price re-seen this pass on the same page. Old steps 1 and 2 (interview prep and modelling refresh) merged: they are one problem, passing the next-role process."
+      },
+      {
+        "step": 4,
+        "problem": "Leave without losing money: an employment lawyer reviews deferred bonus forfeiture, the non-compete and garden leave before resigning",
+        "price_text": "$250 to $550 per hour",
+        "url": "https://www.avvo.com/legal-answers/what-is-the-average-cost-for-an-attorney-to-look-o-5171131.html",
+        "seen_via": "search",
+        "note": "Hourly range seen in a lawyer's answer on non-compete review cost. VPs typically have deferred stock and non-competes tied to it, so this review is common at exit. New step."
+      },
+      {
+        "step": 5,
+        "problem": "The MBA route as a reset (a minority): admissions consulting for a multi-school application, plus the GMAT",
+        "price_text": "$12,000 for three schools",
+        "url": "https://poetsandquants.com/2023/05/31/what-it-now-costs-to-hire-an-mba-admissions-consultant/",
+        "seen_via": "search",
+        "note": "Average comprehensive package price seen. Old GMAT step (US $275, https://test-ninjas.com/gmat-registration-fees-and-cost) folded in: one route, one problem. Mostly analyst-promoted associates without an MBA take it."
+      }
+    ],
+    "outbound-lead-gen-appointment-setting-agencies": [
+      {
+        "step": 1,
+        "problem": "Buy contact data for each client campaign (B2B contact database seats and credits)",
+        "price_text": "$49 to $119 per user per month",
+        "url": "https://www.landbase.com/blog/apollo-pricing",
+        "seen_via": "search",
+        "note": "Apollo.io paid tiers on annual billing, seen in a pricing guide; phone numbers cost extra credits. The old ladder noted no contact-data price was seen; this fills it."
+      },
+      {
+        "step": 2,
+        "problem": "Dialer seats for each new caller",
+        "price_text": "$79/user/month (annual) or $99/user/month (month-to-month), with a $495/month minimum",
+        "url": "https://prospeo.io/s/dialedin-pricing-reviews-pros-and-cons",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (DialedIn Small Business tier); cheaper SMB dialers sit at $25-50 per user a month."
+      },
+      {
+        "step": 3,
+        "problem": "Stay legal before dialing: scrub every list against do-not-call and TCPA litigator registers",
+        "price_text": "$0.20 per Number",
+        "url": "https://numberbroom.com/tcpa-litigator-scrub",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (batch screening, no subscription). Monthly subscriptions were seen at $130/month (https://ringscrub.com/pricing.html)."
+      },
+      {
+        "step": 4,
+        "problem": "Run the pipeline and report to clients: an agency CRM with call tracking, white-label reporting and client sub-accounts",
+        "price_text": "Starter ($97/month), Unlimited ($297/month), and Agency Pro ($497/month)",
+        "url": "https://www.ruzuku.com/compare/gohighlevel-pricing",
+        "seen_via": "search",
+        "note": "GoHighLevel plan prices seen in a 2026 pricing guide. Calls, SMS and AI usage bill on top. New step: this is the standard agency stack for the room."
+      },
+      {
+        "step": 5,
+        "problem": "Numbers get flagged as spam after a few weeks of dialing: caller-ID reputation monitoring and remediation",
+        "price_text": "$64/month",
+        "url": "https://www.g2.com/products/caller-id-reputation/pricing",
+        "seen_via": "search",
+        "note": "Starting price for Caller ID Reputation seen on its G2 pricing page; PanTerra was seen at $10/number/month. New step: an unavoidable recurring cost for any outbound floor."
+      },
+      {
+        "step": 6,
+        "problem": "Scale the agency: paid owner communities and setter-training programs that teach hiring setters and selling retainers",
+        "price_text": "$1,500/year",
+        "url": "https://www.skool.com/agency-acquisition-7377/about",
+        "seen_via": "search",
+        "note": "Price seen on a Skool agency-accelerator listing. A setter program was seen at $1,000+ (https://valyoumedia.gumroad.com/l/SWS). Replaces the old unpriced setter-playbook step."
+      },
+      {
+        "step": 7,
+        "problem": "Cut cost per appointment with AI callers for first touch and qualification (voice-agent platform usage)",
+        "price_text": "$0.05-per-minute platform fee",
+        "url": "https://www.happyrobot.ai/hub/vapi-ai-pricing",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (Vapi). Retell AI was seen at $0.07 per minute base, $0.13-$0.31/min all-in (https://www.cloudtalk.io/retell-ai-pricing/). Old 'price the service' step dropped (a benchmark, not a purchase); SOC 2 dropped as an edge case for agencies serving solar, insurance and real estate."
+      }
+    ],
+    "startup-founders-409a-83b-deadlines": [
+      {
+        "step": 1,
+        "problem": "Incorporate a Delaware C-corp from anywhere (one-time fee covering filing, EIN and a year of registered agent)",
+        "price_text": "$500",
+        "url": "https://sparklaun.ch/compare/stripe-atlas",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (Stripe Atlas)."
+      },
+      {
+        "step": 2,
+        "problem": "File the 83(b) election within 30 days of receiving vesting founder stock, with proof of mailing (a managed filing service)",
+        "price_text": "$149",
+        "url": "https://www.rho.co/blog/clerky-review",
+        "seen_via": "search",
+        "note": "Price of Clerky's Managed 83(b) Election add-on as seen in a review; Clerky's own help page says the add-on is paid because of manual labour and postage (https://help.clerky.com/article/2934-83b-election-add-on-cost). Old ladder had this step unpriced."
+      },
+      {
+        "step": 3,
+        "problem": "Adopt a stock option plan and issue the first grants (board and stockholder approvals, grant paperwork)",
+        "price_text": "$299",
+        "url": "https://sparklaun.ch/compare/clerky",
+        "seen_via": "search",
+        "note": "Clerky's post-incorporation package price seen in a pricing comparison; per-use option grants were seen at $49 each. A lawyer drafting an option agreement was seen at $590 average (https://www.contractscounsel.com/b/employee-stock-option-agreement-cost). New step."
+      },
+      {
+        "step": 4,
+        "problem": "First 409A valuation before the first option grants, then every 12 months or after each priced round",
+        "price_text": "$1,000 to $3,000",
+        "url": "https://www.cakeequity.com/guides/409a-valuation-cost",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (early-stage pricing; Carta Launch bundles one free for very small companies)."
+      },
+      {
+        "step": 5,
+        "problem": "Cap-table software once SAFEs and option grants exist (tracks the 409A, exercises and Form 3921)",
+        "price_text": "$1,200 Startup, $3,500 Growth",
+        "url": "https://sparklaun.ch/compare/carta-pulley",
+        "seen_via": "search",
+        "note": "Pulley yearly plan prices seen in a comparison page; the Growth tier includes 409A valuations. Split out of the old step 6 (which mixed cap-table software with a fractional CFO the room rarely buys)."
+      },
+      {
+        "step": 6,
+        "problem": "Keep the entity alive each year: Delaware franchise tax and annual report, registered agent renewal and the federal Form 1120 return",
+        "price_text": "$400 under the assumed-par-value method, plus a $50 annual report fee",
+        "url": "https://www.graphitefinancial.com/blog/delaware-franchise-tax-deadline",
+        "seen_via": "search",
+        "note": "Delaware amounts seen in a 2026 filing guide. Registered agent renewal was seen at $100 (old ladder). No price was seen for a startup CPA preparing the Form 1120 in two searches."
+      },
+      {
+        "step": 7,
+        "problem": "Legal for the first priced round, which also triggers a fresh 409A",
+        "price_text": "$10,000–$30,000 per side",
+        "url": "https://www.acevedoventurelaw.com/articles/how-much-does-startup-lawyer-cost/",
+        "seen_via": "search",
+        "note": "Priced seed round company-counsel range seen in a 2026 startup lawyer cost guide; SAFE rounds were seen at $3,000-$7,000. Replaces the old pitch-deck step (deck design belongs to the pre-seed room; the legal bill is what this room pays)."
+      }
+    ],
+    "us-tcpa-ai-voice-outbound-callers": [
+      {
+        "step": 1,
+        "problem": "Before launch: a TCPA compliance review of the consent flow, AI-disclosure script and opt-out handling (outside counsel or a consultant)",
+        "price_text": "from a few hundred dollars for a structured self-audit to $5,000, $25,000+ for outside counsel",
+        "url": "https://leadcompliant.com/articles/tools-and-processes/how-to-get-a-tcpa-compliance-audit-done-affordably",
+        "seen_via": "search",
+        "note": "Range seen in an article on getting a TCPA audit done affordably. Old step 1 was unpriced; this merges it with the old step 6's 'compliance review' half."
+      },
+      {
+        "step": 2,
+        "problem": "Run the calls on a voice-agent platform that records and logs every call (platform usage)",
+        "price_text": "$0.05 per minute",
+        "url": "https://www.cloudtalk.io/blog/vapi-ai-pricing/",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (Vapi). Retell AI was seen at $0.07 per minute base."
+      },
+      {
+        "step": 3,
+        "problem": "Subscribe to the national Do Not Call registry and scrub every list against it and litigator lists before each campaign",
+        "price_text": "$82",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2025/08/telemarketer-fees-access-ftcs-national-do-not-call-registry-increase-2026",
+        "seen_via": "search",
+        "note": "FTC fee per area code for FY2026 (first five free; maximum $22,626 for all area codes). Scrub vendors were seen at $130/month (https://ringscrub.com/pricing.html) and $0.20 per number (https://numberbroom.com/tcpa-litigator-scrub). Old steps 3 and 4 merged: one problem."
+      },
+      {
+        "step": 4,
+        "problem": "Prove consent for every lead called: consent-certificate capture and retention",
+        "price_text": "$0.15 for third-party leads from unverified domains and $0.12 for first-party leads from verified domains",
+        "url": "https://activeprospect.com/pricing/",
+        "seen_via": "search",
+        "note": "TrustedForm Retain per-certificate price for the first 1,000 certificates, seen on the vendor's pricing page. New step: lead buyers running AI dialers commonly pay this."
+      },
+      {
+        "step": 5,
+        "problem": "Numbers get labelled 'Spam Likely': caller-ID reputation monitoring and remediation across carriers",
+        "price_text": "$64/month",
+        "url": "https://www.g2.com/products/caller-id-reputation/pricing",
+        "seen_via": "search",
+        "note": "Starting price seen on the Caller ID Reputation G2 pricing page. New step; replaces the old QA-software step (AI platforms already transcribe every call)."
+      },
+      {
+        "step": 6,
+        "problem": "When the demand letter or suit arrives: a TCPA defence lawyer, then settlement",
+        "price_text": "$15,000 to $35,000 for a single-plaintiff matter",
+        "url": "https://leadcompliant.com/articles/penalties-and-lawsuits/what-does-tcpa-litigation-actually-cost-a-small-business",
+        "seen_via": "search",
+        "note": "Flat-fee range seen for early-stage defence. Demand-letter settlements were seen at $2,500 to $25,000 (https://www.leadgen-economy.com/blog/tcpa-settlement-costs-analysis/). Old step 6 was unpriced."
+      }
+    ],
+    "gre-engineers-india": [
+      {
+        "step": 1,
+        "problem": "GRE prep: an online-live coaching course or self-study plan",
+        "price_text": "₹15,000–₹30,000",
+        "url": "https://www.wikatiedu.com/blog/ielts-gre-sat-2026-coaching-fees-exam-guide/",
+        "seen_via": "search",
+        "note": "Reused from the old ladder."
+      },
+      {
+        "step": 2,
+        "problem": "GRE exam registration (plus reschedule and extra score reports)",
+        "price_text": "₹22,550",
+        "url": "https://eecglobal.com/blog/gre-fee-registration-india-2026",
+        "seen_via": "search",
+        "note": "Reused from the old ladder."
+      },
+      {
+        "step": 3,
+        "problem": "The English test every university also asks for (TOEFL iBT or IELTS)",
+        "price_text": "Rs. 18,000",
+        "url": "https://studyabroad.careers360.com/articles/toefl-exam-fee",
+        "seen_via": "search",
+        "note": "TOEFL iBT fee in India for 2026, seen in a fee guide. New step: nearly every applicant in the room pays it a few weeks after the GRE."
+      },
+      {
+        "step": 4,
+        "problem": "University shortlisting, SOP and LOR help from a paid counsellor",
+        "price_text": "₹50,000",
+        "url": "https://yocket.com/premium",
+        "seen_via": "search",
+        "note": "Yocket Premium's starting price seen on its own page (the forum this room gathers on). Consultants in general were seen at ₹30,000 to ₹1,00,000 (https://edvoy.com/faqs/consultants-charge-in-india-to-study-ms-in-us-uk-canada/). Old ladder had this step unpriced."
+      },
+      {
+        "step": 5,
+        "problem": "Application fees to 6 to 10 universities",
+        "price_text": "$105",
+        "url": "https://gradschool.cornell.edu/admissions/apply/international",
+        "seen_via": "search",
+        "note": "One university's non-refundable graduate application fee, seen on its admissions page; UC Irvine was seen at $155.00 for international applicants. New step."
+      },
+      {
+        "step": 6,
+        "problem": "Education loan for tuition and living costs",
+        "price_text": "10.25% per annum",
+        "url": "https://www.icici.bank.in/personal-banking/loans/education-loan/interest-rates",
+        "seen_via": "search",
+        "note": "Reused from the old ladder."
+      },
+      {
+        "step": 7,
+        "problem": "F-1 visa: SEVIS fee and visa appointment fee, then pre-departure setup (forex, insurance, housing)",
+        "price_text": "$350 SEVIS I-901 fee + $185 MRV appointment fee = $535",
+        "url": "https://www.shiksha.com/studyabroad/usa-student-visa-fee-articlepage-235493",
+        "seen_via": "search",
+        "note": "Combined mandatory visa fees seen in a 2026 guide; a $250 visa integrity fee is now collected at some posts. Replaces the old step's SEVIS-only price."
+      },
+      {
+        "step": 8,
+        "problem": "OPT work permit application after graduating",
+        "price_text": "$470",
+        "url": "https://immiva.com/blog/i-765-opt-filing-fee-2026-complete-cost-breakdown",
+        "seen_via": "search",
+        "note": "Reused from the old ladder; falls at the end of the 2-3 year window for a 2-year master's."
+      }
+    ],
+    "brands-leasing-first-warehouse": [
+      {
+        "step": 1,
+        "problem": "Review and negotiate the first industrial lease before signing: attorney review of the lease",
+        "price_text": "$600–$2,000",
+        "url": "https://leaselens.org/commercial-lease-review-cost",
+        "seen_via": "search",
+        "note": "Reused from the old ladder. Old step 1 (deciding 3PL vs own space) dropped: nobody in the room commonly pays for that decision; landlords and 3PLs publish the guides free."
+      },
+      {
+        "step": 2,
+        "problem": "Pay for the space: deposit and rent on a small warehouse",
+        "price_text": "$9.51 per square foot",
+        "url": "https://warehousingcosts.com/guides/warehouse-lease-rates",
+        "seen_via": "search",
+        "note": "Average yearly rent for warehouses under 100,000 square feet, seen in a 2026 lease-rate guide; national asking rent was seen at $10.18 per square foot per year, plus $1-$3 in operating charges. New step: the biggest cheque in the ladder."
+      },
+      {
+        "step": 3,
+        "problem": "Fit it out: pallet racking (plus a forklift and shelving)",
+        "price_text": "$50 to $500 per pallet position",
+        "url": "https://warehousingcosts.com/guides/pallet-racking-costs",
+        "seen_via": "search",
+        "note": "Reused from the old ladder."
+      },
+      {
+        "step": 4,
+        "problem": "Insure the stock, the building liability and the staff (the lease requires a certificate of insurance before move-in)",
+        "price_text": "$0.50-$2.90 per square foot per year",
+        "url": "https://warehousingcosts.com/guides/warehouse-insurance-costs",
+        "seen_via": "search",
+        "note": "All-in warehouse insurance range seen in a 2026 cost guide; general liability alone was seen at $400 to $1,500 annually. New step."
+      },
+      {
+        "step": 5,
+        "problem": "Run it: a cloud warehouse management system (with shipping software) for a small e-commerce operation",
+        "price_text": "$150–$500/month",
+        "url": "https://warego.co/blog/ecommerce-wms-cost/",
+        "seen_via": "search",
+        "note": "Reused from the old ladder."
+      },
+      {
+        "step": 6,
+        "problem": "Staff it: pickers and packers through a temp agency, especially at peak season",
+        "price_text": "40% to 45% above the worker's pay rate",
+        "url": "https://tempstaffinginc.com/blog/warehouse-staffing-agency-vs-in-house-hiring/",
+        "seen_via": "search",
+        "note": "Agency markup seen in a warehouse staffing cost comparison ($15/hr worker billed at $21 to $22 per hour). New step. Old AI-voice-agent step dropped (belongs to a different room) and the old 'buy the building' step dropped (a minority case; the priced page was a course for analysts, not brands)."
+      }
+    ],
+    "first-time-founders-pre-seed": [
+      {
+        "step": 1,
+        "problem": "Incorporation (US Delaware C-corp or LLC from anywhere)",
+        "price_text": "$500",
+        "url": "https://sparklaun.ch/compare/stripe-atlas",
+        "seen_via": "search",
+        "note": "Reused from the old ladder."
+      },
+      {
+        "step": 2,
+        "problem": "The first legal documents: founder agreement, website terms of service and privacy policy",
+        "price_text": "$500 to $1,500",
+        "url": "https://www.contractscounsel.com/b/terms-of-service-and-privacy-policy-cost",
+        "seen_via": "search",
+        "note": "Basic terms-of-service and privacy-policy cost for a simple website, seen in a 2026 cost guide; founders-agreement review was seen at $660 flat (https://www.contractscounsel.com/b/founders-agreement-cost). New step."
+      },
+      {
+        "step": 3,
+        "problem": "Keep the books from month one (a startup bookkeeping service)",
+        "price_text": "$99/month",
+        "url": "https://pilot.com/pricing",
+        "seen_via": "search",
+        "note": "Pilot's Bookkeeping Essentials starting price seen on its pricing page; human-reviewed startup providers were seen at $299 to $850 per month. Replaces the old unpriced 'accounting, tax filings and first hires' step (accounting half)."
+      },
+      {
+        "step": 4,
+        "problem": "Yearly compliance: registered agent renewal, Delaware franchise tax and the corporate tax return",
+        "price_text": "$100 Renewal",
+        "url": "https://sparklaun.ch/compare/stripe-atlas",
+        "seen_via": "search",
+        "note": "Reused from the old ladder. Delaware franchise tax for a typical startup was seen at $400 plus a $50 annual report fee (https://www.graphitefinancial.com/blog/delaware-franchise-tax-deadline)."
+      },
+      {
+        "step": 5,
+        "problem": "Pre-seed raise: pitch deck and model, SAFE terms, valuation and investor list",
+        "price_text": "$2,000–$5,000",
+        "url": "https://www.spectup.com/resource-hub/how-much-does-a-pitch-deck-cost",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (deck). Legal for a SAFE round was seen at $3,000-$7,000 (https://www.acevedoventurelaw.com/articles/how-much-does-startup-lawyer-cost/). Old fractional-CFO step dropped: a pre-seed founder rarely buys $5,000-$10,000 a month of CFO time."
+      },
+      {
+        "step": 6,
+        "problem": "First hires: run payroll and contractor payments",
+        "price_text": "Simple at $49 + $6/employee",
+        "url": "https://gusto.com/product/pricing",
+        "seen_via": "search",
+        "note": "Gusto Simple plan price seen on its pricing page after the March 2026 increase. Replaces the 'first hires' half of the old unpriced step. Old 'first customers and launch feedback' step dropped: not consistently a paid problem."
+      }
+    ],
+    "founders-selling-first-online-business": [
+      {
+        "step": 1,
+        "problem": "Get the books buyer-ready: catch-up bookkeeping and a clean P&L with add-backs",
+        "price_text": "$800-$2,500",
+        "url": "https://www.sdocpa.com/catch-up-bookkeeping-cost-guide/",
+        "seen_via": "search",
+        "note": "Price for 6-12 months of backlog seen in a 2026 catch-up bookkeeping guide. Replaces the old fractional-CFO benchmark on the due-diligence step: what a small-SaaS seller actually buys is a cleanup, not $3,000-$12,000 a month of CFO."
+      },
+      {
+        "step": 2,
+        "problem": "Find out what the business is worth before listing it (an independent valuation)",
+        "price_text": "$2,000 to $15,000",
+        "url": "https://www.baton.com/resources/own/business-valuation-cost",
+        "seen_via": "search",
+        "note": "Reused from the old ladder. Marketplaces give free estimates, so a minority pay for a formal valuation; brokers bundle one into the listing."
+      },
+      {
+        "step": 3,
+        "problem": "Reach buyers: list on a marketplace (closing fee) or hire a broker (commission)",
+        "price_text": "8% under $250K, 7% up to $1M, and 6% above $1M",
+        "url": "https://help.acquire.com/how-much-does-it-cost-to-sell",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (Acquire.com closing fee). Brokers were seen at a flat 15% commission on deals under $700K (https://exitbid.io/blog/empire-flippers-review-2026)."
+      },
+      {
+        "step": 4,
+        "problem": "Move the money safely: escrow on the purchase price",
+        "price_text": "0.89–3.25%",
+        "url": "https://domaindetails.com/kb/domain-investing/domain-escrow-services-guide",
+        "seen_via": "search",
+        "note": "Escrow.com fee range by transaction size seen in an escrow guide (3.25% up to $5,000, 0.89% above $25,000 per https://www.escrow.com/fee-calculator). New step; standard on marketplace deals."
+      },
+      {
+        "step": 5,
+        "problem": "Sign the sale agreement: an asset purchase agreement drafted by a lawyer (template service for a simple deal, a law firm for earnouts or seller financing)",
+        "price_text": "$1,290",
+        "url": "https://buyouts.ai/alternatives/asset-purchase-agreement",
+        "seen_via": "search",
+        "note": "Reused from the old ladder. Old steps 4 and 5 merged: one problem at two price points; seller-side legal for a messier deal was seen at $5,000 and $50,000+ (https://ctacquisitions.com/attorney-fees-for-selling-a-business/)."
+      },
+      {
+        "step": 6,
+        "problem": "Pay the tax on the proceeds: a CPA prepares the capital-gains return and advises on structure (asset vs stock sale, QSBS)",
+        "price_text": "$300 to $800",
+        "url": "https://taxdome.com/blog/tax-preparation-cost-fees",
+        "seen_via": "search",
+        "note": "Return-preparation price for returns with capital gains, seen in a 2026 tax-prep cost guide. No flat price for pre-sale exit tax planning was seen in two searches; advisers price it against the tax saved. Old 'set up the next company' step dropped: it belongs to the first-time-founders room."
+      }
+    ]
+  }
+}

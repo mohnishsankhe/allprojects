@@ -1,0 +1,364 @@
+{
+  "ladders": {
+    "mbb-case-interview-candidates": [
+      {
+        "step": 1,
+        "problem": "Get the resume and cover letter past the screen: paid edit by an ex-MBB consultant",
+        "price_text": "$350",
+        "url": "https://managementconsulted.com/resume-editing-services-for-consulting/",
+        "seen_via": "search",
+        "note": "New step. Search result: Management Consulted resume edit service, two rounds of edits by a former McKinsey, Bain or BCG consultant. Needed before any interview happens."
+      },
+      {
+        "step": 2,
+        "problem": "Learn the case method and find practice partners (case library and structured practice membership)",
+        "price_text": "$69",
+        "url": "https://www.preplounge.com/en/pricing",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 1. PrepLounge membership price seen via search."
+      },
+      {
+        "step": 3,
+        "problem": "Pass the pre-interview digital assessment (McKinsey Solve, BCG Casey) with a paid simulation",
+        "price_text": "$239 for 6-month access with unlimited attempts",
+        "url": "https://prepmatter.com/online/mckinsey-problem-solving-game",
+        "seen_via": "search",
+        "note": "New step. Search showed paid simulations from $99 (JobTestPrep) to $280; Prepmatter price copied as shown. Sits between application and live cases in the recruiting calendar."
+      },
+      {
+        "step": 4,
+        "problem": "Buy one-to-one coaching and mock interviews from ex-consultants before first and final rounds",
+        "price_text": "149 USD per hour",
+        "url": "https://www.preplounge.com/en/shop/coaching-packages-5",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 2. Old step 3 (membership plus coaching bundle before final rounds) was folded in here: same problem, same seller."
+      },
+      {
+        "step": 5,
+        "problem": "After the offer: first-year consultant skills (slides, Excel, models)",
+        "price_text": "$499",
+        "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 4 but split from the exit step. Two searches for the Analyst Academy slide-skills course showed no price, so the old Excel and modelling package price is reused as the priced substitute."
+      },
+      {
+        "step": 6,
+        "problem": "Exit after two to three years: private equity or corporate strategy interview prep",
+        "price_text": "$297",
+        "url": "https://www.wallstreetoasis.com/courses/interview-prep/private-equity",
+        "seen_via": "search",
+        "note": "New step, split out of old step 4. WSO Private Equity Interview Course is marketed to consultants moving to PE; price copied from a search result."
+      }
+    ],
+    "oil-gas-engineers-mid-career": [
+      {
+        "step": 1,
+        "problem": "Keep the professional membership and network alive",
+        "price_text": "USD 25–150 per year",
+        "url": "https://www.spe.org/en/join/",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 1. Small but recurring and paid personally."
+      },
+      {
+        "step": 2,
+        "problem": "Job search after a layoff: industry-specific resume or CV rewrite",
+        "price_text": "starts from $139",
+        "url": "https://craftresumes.co/oil-gas-resume-writing-service/",
+        "seen_via": "search",
+        "note": "New step. Search showed several oil and gas resume services priced $125 to $485; CraftResumes starting price copied as shown. This is the first spend in a downturn."
+      },
+      {
+        "step": 3,
+        "problem": "Add a safety credential that contractors and Gulf employers ask for (NEBOSH oil and gas)",
+        "price_text": "$800 to $1,200",
+        "url": "https://www.hsestudyguide.com/nebosh-oil-and-gas/",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 2."
+      },
+      {
+        "step": 4,
+        "problem": "Pass the PMP to move into project management roles",
+        "price_text": "$445",
+        "url": "https://trainingcamp.com/articles/pmp-exam-cost-requirements-and-eligibility-the-complete-2026-guide/",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 3."
+      },
+      {
+        "step": 5,
+        "problem": "Reskill into an energy transition field (CCUS, hydrogen, renewables or energy finance) with a paid course",
+        "price_text": "USD$800",
+        "url": "https://pivotal180.com/course-type/project-finance-modeling/",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 4, widened to one reskilling step. Two searches for CCUS and hydrogen courses (PetroKnowledge, University of Houston, PetroSkills) showed no fee, so the energy finance course price stands as the priced example."
+      }
+    ],
+    "seo-agency-owners-ai-search": [
+      {
+        "step": 1,
+        "problem": "Keep up with AI search changes in a paid peer community",
+        "price_text": "$99",
+        "url": "https://trafficthinktank.com/",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 1."
+      },
+      {
+        "step": 2,
+        "problem": "Track client visibility in AI answers across engines (ChatGPT, Perplexity, AI Overviews)",
+        "price_text": "$95/month",
+        "url": "https://visible.seranking.com/blog/peec-ai-review/",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 2. Old step 3 (scale tracking across engines with Profound at $99 a month) was the same problem and is merged here."
+      },
+      {
+        "step": 3,
+        "problem": "Learn to package, price and sell the AI-search offer (agency coaching or mastermind)",
+        "price_text": "$49 a month",
+        "url": "https://ippei.com/semantic-mastery-mastermind/",
+        "seen_via": "search",
+        "note": "Replaces the unpriced old step 4. Search result: Semantic Mastery MasterMIND for SEO agency owners, entry tier $49 a month and Pro tier $199 a month. Broader agency masterminds ran $797 to $1,500 a month."
+      },
+      {
+        "step": 4,
+        "problem": "Report results to clients every month under the agency brand (white-label reporting tool)",
+        "price_text": "$79/month for 5 clients plus $12/client/month",
+        "url": "https://agencyanalytics.com/pricing",
+        "seen_via": "search",
+        "note": "New step. AgencyAnalytics Freelancer plan price copied from a search result; per-client fees rise with the client count."
+      },
+      {
+        "step": 5,
+        "problem": "Deliver GEO work for many clients under the agency's own brand (white-label platform or partner)",
+        "price_text": "$149/month",
+        "url": "https://ayzeo.com/agencies",
+        "seen_via": "search",
+        "note": "New step. Ayzeo white-label GEO platform: $149/month covers 3 client projects, each extra client $49/month. Partly overlaps step 2 tooling, but the paid problem here is multi-client white-label delivery once the service sells."
+      }
+    ],
+    "big4-transaction-services-fdd-associates-moving-to-ib-pe": [
+      {
+        "step": 1,
+        "problem": "Close the modelling gap that forums say blocks the move (three-statement, DCF, LBO, M&A)",
+        "price_text": "$499",
+        "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 1."
+      },
+      {
+        "step": 2,
+        "problem": "Rewrite the CV in banking format so headhunters and banks read it",
+        "price_text": "$199",
+        "url": "https://www.wallstreetoasis.com/career-services/resume-review-edits",
+        "seen_via": "search",
+        "note": "New step. WSO finance resume review price copied from a search result; reviewers cover IB, PE and accounting backgrounds."
+      },
+      {
+        "step": 3,
+        "problem": "Prepare for PE and IB interviews: paper LBOs, modelling tests, deal walk-throughs (course)",
+        "price_text": "$297",
+        "url": "https://www.wallstreetoasis.com/courses/interview-prep/private-equity",
+        "seen_via": "search",
+        "note": "Old step 2 with a price added. Two searches for Peak Frameworks showed only a forum estimate (about $400), so the WSO PE Interview Course price is used."
+      },
+      {
+        "step": 4,
+        "problem": "One-to-one mock interviews and coaching with ex-bankers before superdays",
+        "price_text": "Each credit starts at $50, and coaches cost between 2 and 5 credits per hour",
+        "url": "https://igotanoffer.com/en/interview-coaching/private-equity",
+        "seen_via": "search",
+        "note": "New step. IGotAnOffer PE coaching pricing copied from a search result; specialist finance coaches were quoted at $300 to $500 per session in the same search."
+      },
+      {
+        "step": 5,
+        "problem": "If the direct move fails, take the GMAT for a top MBA",
+        "price_text": "USD 275 at a test center or USD 300 for the online option",
+        "url": "https://test-ninjas.com/gmat-registration-fees-and-cost",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 3."
+      },
+      {
+        "step": 6,
+        "problem": "Hire an MBA admissions consultant for the re-brand into banking or PE",
+        "price_text": "$7,300 for 1 school",
+        "url": "https://poetsandquants.com/2023/05/31/what-it-now-costs-to-hire-an-mba-admissions-consultant/",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 4."
+      }
+    ],
+    "contact-centre-ops-managers": [
+      {
+        "step": 1,
+        "problem": "Score and audit agent calls at scale (QA software)",
+        "price_text": "from $35 per user per month",
+        "url": "https://www.guideflow.com/blog/contact-center-quality-assurance-software",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 1. Company pays."
+      },
+      {
+        "step": 2,
+        "problem": "Forecast, schedule and track adherence (workforce management software)",
+        "price_text": "$25 per agent per month on Core, $45 on Pro and $75 on Enterprise, plus a platform fee",
+        "url": "https://www.assembled.com/pricing",
+        "seen_via": "search",
+        "note": "New step. Assembled WFM tiers copied from a search result; the same search showed WFM tools from $6 to $20 per employee per month up to NICE at $110 to $249 per agent."
+      },
+      {
+        "step": 3,
+        "problem": "Deploy AI in the centre (conversation insights, agent assist, voice bots) without wrecking quality scores",
+        "price_text": "$50 per contact center agent, per month",
+        "url": "https://cloud.google.com/contact-center/insights/pricing",
+        "seen_via": "search",
+        "note": "Old step 3 with a matching price. Google Cloud Conversational Insights named-agent price copied from a search result; the old $1,799 ICMI training price did not belong to this step."
+      },
+      {
+        "step": 4,
+        "problem": "Prepare for a COPC or site certification audit demanded by clients (COPC training)",
+        "price_text": "USD 2,867",
+        "url": "https://cx.copc.com/bpcx",
+        "seen_via": "search",
+        "note": "Old step 4 with a price added. COPC does not publish the audit fee; the price shown is the COPC Best Practices for CX Operations course that sites take before the audit."
+      },
+      {
+        "step": 5,
+        "problem": "Get a management certification to run a bigger site (paid personally when chasing promotion)",
+        "price_text": "$1,200-$1,500",
+        "url": "https://www.tealhq.com/certifications/call-center-manager",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 2, moved later because it is a promotion play after the operational spends."
+      },
+      {
+        "step": 6,
+        "problem": "Earn a Six Sigma Green Belt for process-improvement and promotion cases",
+        "price_text": "$299.95",
+        "url": "https://courses.msicertified.com/course/six-sigma-green-belt-certification",
+        "seen_via": "search",
+        "note": "New step. Common personal certification for BPO managers in India and the Philippines; MSI self-paced price shown in the result title, ASQ exam $438 for non-members in the same search."
+      }
+    ],
+    "energy-transition-career-switchers": [
+      {
+        "step": 1,
+        "problem": "Get oriented: a paid climate or energy transition bootcamp with a career network",
+        "price_text": null,
+        "url": null,
+        "seen_via": "search",
+        "note": "New step. Terra.do 12-week Learning for Action fellowship is the reference product; two searches showed installment plans, scholarships, a refund policy and employer reimbursement but no fee. Confident it is paid because those terms exist only for a paid course."
+      },
+      {
+        "step": 2,
+        "problem": "Learn project finance modelling to speak the language of deals",
+        "price_text": "$247",
+        "url": "https://breakingintowallstreet.com/project-finance-signup-options/",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 1."
+      },
+      {
+        "step": 3,
+        "problem": "Take a renewables and storage-specific modelling course before interviews",
+        "price_text": "$4,800 per person",
+        "url": "https://www.forvismazars.us/events/2026/02/financial-modeling-for-renewable-energy-projects",
+        "seen_via": "search",
+        "note": "Old step 2 with a price added. Pivotal180 still showed only its $100 renewal after two more searches, so the Forvis Mazars three-day course price is used."
+      },
+      {
+        "step": 4,
+        "problem": "Get a solar credential that bids and employers ask for",
+        "price_text": "$375 exam fee",
+        "url": "https://www.nabcep.org/certifications/nabcep-fees/",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 3. Applies to the engineering slice of the room."
+      },
+      {
+        "step": 5,
+        "problem": "Add a climate-risk credential for finance and risk roles",
+        "price_text": "USD 750 for non-members",
+        "url": "https://www.garp.org/scr",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 4."
+      }
+    ],
+    "industrial-brokers-and-developers": [
+      {
+        "step": 1,
+        "problem": "Pay for market data to find and price deals",
+        "price_text": "$300–$450 per month per user",
+        "url": "https://propertyscout360.com/blog/costar-subscription-cost",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 1."
+      },
+      {
+        "step": 2,
+        "problem": "Find owners to prospect (property and owner contact data)",
+        "price_text": "Plans Starting at $400/mo",
+        "url": "https://www.reonomy.com/pricing/",
+        "seen_via": "search",
+        "note": "New step. Reonomy pricing page title copied from a search result. Distinct from comps data: this is owner lookup for off-market prospecting."
+      },
+      {
+        "step": 3,
+        "problem": "Join the trade association to build a network (SIOR candidate or NAIOP chapter)",
+        "price_text": "$450",
+        "url": "https://www.sior.com/docs/default-source/membership-docs/4-candidate-membership-flyer.pdf?sfvrsn=0",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 2. A NAIOP Houston 2026 application seen via search lists $210.00 for the first person from a firm."
+      },
+      {
+        "step": 4,
+        "problem": "Earn the SIOR designation to signal industrial specialty",
+        "price_text": "$1,345",
+        "url": "https://www.sior.com/docs/default-source/membership-docs/2-designation-requirements-flyer.pdf?sfvrsn=0",
+        "seen_via": "search",
+        "note": "Fixed: the old ladder attached this SIOR designation price to the principal-deals step. It is its own step."
+      },
+      {
+        "step": 5,
+        "problem": "Earn the CCIM designation for investment deals",
+        "price_text": "$8,286",
+        "url": "https://www.ccim.com/education/pursue-ccim-designation/designation-program-time-cost",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 3."
+      },
+      {
+        "step": 6,
+        "problem": "Move from brokerage to principal deals: real estate underwriting and development modelling training",
+        "price_text": "$499",
+        "url": "https://www.adventuresincre.com/product/upgrade-to-accelerator-advanced/",
+        "seen_via": "search",
+        "note": "Old step 4 with a matching price. A.CRE Accelerator: two searches showed the $499 Core-to-Advanced upgrade and a $199 per six months extension, not the base price; the upgrade price is a real price this room pays."
+      }
+    ],
+    "project-finance-analysts-energy-infra": [
+      {
+        "step": 1,
+        "problem": "Learn project finance modelling (debt sculpting, covenants, sensitivities)",
+        "price_text": "USD$800",
+        "url": "https://pivotal180.com/course-type/project-finance-modeling/",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 1. Old step 2 (Mazars best-practice class) was the same problem and is merged here."
+      },
+      {
+        "step": 2,
+        "problem": "Renewables and battery storage modelling (PPAs, curtailment, tax credits) as the deal mix shifts",
+        "price_text": "$4,800 per person",
+        "url": "https://www.forvismazars.us/events/2026/02/financial-modeling-for-renewable-energy-projects",
+        "seen_via": "search",
+        "note": "Old step 4 with a price added, moved earlier because it follows the first course directly. Forvis Mazars three-day course price copied from a search result."
+      },
+      {
+        "step": 3,
+        "problem": "Get a modelling credential to move to a fund or developer",
+        "price_text": "$695",
+        "url": "https://fminstitute.com/afm/",
+        "seen_via": "search",
+        "note": "Kept from old ladder step 3. A second search source showed $725; the $695 figure on the FMI page is kept."
+      },
+      {
+        "step": 4,
+        "problem": "Interview prep for the move to an infrastructure fund or developer (coaching and case practice)",
+        "price_text": "Each credit starts at $50, and coaches cost between 2 and 5 credits per hour",
+        "url": "https://igotanoffer.com/en/interview-coaching/private-equity",
+        "seen_via": "search",
+        "note": "New step. Infrastructure-specific coaches (Finance Interview Coach) showed no price in two searches; IGotAnOffer PE coaching pricing copied from a search result."
+      }
+    ]
+  }
+}

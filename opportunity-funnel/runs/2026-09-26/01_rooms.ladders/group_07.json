@@ -1,0 +1,348 @@
+{
+  "ladders": {
+    "vibe-coders-building-apps-with-ai": [
+      {
+        "step": 1,
+        "problem": "Build the first app in a prompt-to-app tool (Lovable Pro subscription)",
+        "price_text": "$25/month",
+        "url": "https://lovable.dev/pricing",
+        "seen_via": "search",
+        "note": "Reused from the current ladder; a search this task also showed the Pro plan at $25 per month with 100 credits."
+      },
+      {
+        "step": 2,
+        "problem": "Learn to prompt and structure an app properly after the first builds stall (paid vibe-coding course or bootcamp)",
+        "price_text": "$999",
+        "url": "https://designlab.com/advanced/vibe-coding-course",
+        "seen_via": "search",
+        "note": "New step. Designlab's 4-week Vibe Coding Camp is $999; a Maven bootcamp was shown at $799 and memberships at $97/month. Moderate confidence that a large share of the room pays; many learn free."
+      },
+      {
+        "step": 3,
+        "problem": "Add a real database and user logins (Supabase Pro)",
+        "price_text": "$25",
+        "url": "https://www.nocode.mba/articles/supabase-pricing",
+        "seen_via": "search",
+        "note": "Reused; confirmed this task: Pro is $25 per month with 100,000 monthly active users."
+      },
+      {
+        "step": 4,
+        "problem": "Move into an AI code editor when the builder tool gets stuck (Cursor Pro)",
+        "price_text": "$20 per month",
+        "url": "https://www.eesel.ai/blog/cursor-pricing",
+        "seen_via": "search",
+        "note": "Price refreshed this task; Pro is $20 per month ($16 on annual billing)."
+      },
+      {
+        "step": 5,
+        "problem": "Get the broken app diagnosed by a senior engineer within 48 hours",
+        "price_text": "$299",
+        "url": "https://vibecoderescue.dev/",
+        "seen_via": "search",
+        "note": "Reused; confirmed this task: fixed $299 audit, senior engineer, 48 hours, for Lovable, Bolt, Cursor or Replit apps."
+      },
+      {
+        "step": 6,
+        "problem": "Pay for a security audit and stabilisation sprint before real customers or investors touch the app",
+        "price_text": "$3,000",
+        "url": "https://relux.works/en/vibe-code-rescue/",
+        "seen_via": "search",
+        "note": "Reused. Other audit prices seen this task: from $199 (Valletta), from $1,500 CAD (Sherlock Forensics), from $4,000 (Galarza); full rebuilds quoted at $25,000+."
+      }
+    ],
+    "ci-solar-developers-ipps-southeast-asia": [
+      {
+        "step": 1,
+        "problem": "PV design and yield simulation software for bankable studies (PVsyst)",
+        "price_text": "CHF 700/Yr",
+        "url": "https://www.heavengreenenergy.com/blog/pvsyst-price",
+        "seen_via": "search",
+        "note": "Reused; confirmed this task: CHF 700 per user per year for the Professional licence, maintenance about 20% extra."
+      },
+      {
+        "step": 2,
+        "problem": "Pay grid-impact study and permit fees to the utility and local government (often through a permitting consultant)",
+        "price_text": "19,000 PHP",
+        "url": "https://energypedia.info/images/8/8f/Solar_PV_Guidebook_Philippines_2014.pdf",
+        "seen_via": "search",
+        "note": "New step. The figure is Meralco's distribution impact study fee for installations over 5 kWp as shown in a search result; the guidebook is from 2014 so the fee may be stale. LGU permit fees vary by a factor of 10 or more (PSSEA 2024 report cited in the same search)."
+      },
+      {
+        "step": 3,
+        "problem": "Train the finance team to build a project finance model good enough to raise debt (Pivotal180 renewables course)",
+        "price_text": null,
+        "url": null,
+        "seen_via": "search",
+        "note": "Two searches showed course pages and a $100/year renewal but no enrolment price. Kept: developers must produce a lender-grade model and small firms commonly buy training or a modeller. [thin]"
+      },
+      {
+        "step": 4,
+        "problem": "Buy bankable solar resource data and pre-feasibility reports (Solargis Prospect)",
+        "price_text": "EUR 1,800 per year",
+        "url": "https://solargis.com/pricing/prospect",
+        "seen_via": "search",
+        "note": "New price. Basic plan is EUR 1,800 per year for pre-feasibility of commercial projects; Solargis Evaluate (full bankable yield) was shown from EUR 12,000/year."
+      },
+      {
+        "step": 5,
+        "problem": "Lender's technical due diligence: an independent engineer's report before financial close",
+        "price_text": null,
+        "url": null,
+        "seen_via": "search",
+        "note": "Two searches confirmed virtually all project finance lenders require an independent engineering report (Partner ESI, Illuminei, TUV, DNV, UL) but showed no fee. Kept: the developer pays the lender's engineer."
+      },
+      {
+        "step": 6,
+        "problem": "Term sheet, covenants, PPA and offtaker contracts: lawyers and financial advisers",
+        "price_text": null,
+        "url": null,
+        "seen_via": "search",
+        "note": "Two searches confirmed developers hire PPA and project finance counsel (Stoel Rives, DLA Piper, Norton Rose) but showed no fee. Kept: legal fees are a standard development cost recovered at financial close. Dropped the old PSSEA membership step: fee not found and only 60-odd members, so not common for small developers."
+      }
+    ],
+    "cre-analysts-underwriting": [
+      {
+        "step": 1,
+        "problem": "Learn real estate financial modelling to get or keep an analyst seat (A.CRE Accelerator)",
+        "price_text": "$1,497 per year",
+        "url": "https://www.adventuresincre.com/pricing/",
+        "seen_via": "search",
+        "note": "Price refreshed: Accelerator Advanced Plus+ is $1,497 per year (17 courses plus the 36-model bundle). The old $4,800 figure was not shown this task; the Financial Models Bundle alone is $599."
+      },
+      {
+        "step": 2,
+        "problem": "Get ARGUS Enterprise certified",
+        "price_text": "$999",
+        "url": "https://www.creanalyst.com/argustraining",
+        "seen_via": "search",
+        "note": "Reused. Searches this task showed the ULI ASC Enterprise bundle at $900 for members, an ICSC student programme at $450 and the Altus webstore without prices."
+      },
+      {
+        "step": 3,
+        "problem": "Prepare for buy-side acquisitions interviews and Excel modelling tests (Break Into CRE Academy or similar)",
+        "price_text": null,
+        "url": null,
+        "seen_via": "search",
+        "note": "Two searches showed the Academy's contents (120+ hours, practice Excel exams, coaching) but no membership price; a forum post mentioned $1,500 for a bundle. Kept: analysts moving from brokerage to acquisitions commonly buy interview and modelling-test prep."
+      },
+      {
+        "step": 4,
+        "problem": "Earn a finance credential (REFAI)",
+        "price_text": "$1,499",
+        "url": "https://courses.getrefm.com/shop/training-courses/refai-certification-registration/",
+        "seen_via": "search",
+        "note": "Reused; confirmed this task: self-paced $1,499, cohort $2,499."
+      },
+      {
+        "step": 5,
+        "problem": "Pursue the CCIM designation to move into senior or principal roles",
+        "price_text": "$8,286",
+        "url": "https://www.ccim.com/education/pursue-ccim-designation/designation-program-time-cost",
+        "seen_via": "search",
+        "note": "Reused. Components seen this task: candidate membership $695 per year, CI 101-104 at $1,299-$1,529 each for members, exam $410, core review $810. Note: CCIM is most common on the brokerage and principal side, less at REPE funds."
+      }
+    ],
+    "ib-analysts-years-1-3": [
+      {
+        "step": 1,
+        "problem": "Get up to speed on financial modelling before or during year 1 (Wall Street Prep Premium Package)",
+        "price_text": "$499",
+        "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+        "seen_via": "search",
+        "note": "Reused; confirmed this task: $499 one-time, lifetime access, six modelling courses."
+      },
+      {
+        "step": 2,
+        "problem": "Buy a dedicated private equity recruiting course before on-cycle (Peak Frameworks)",
+        "price_text": null,
+        "url": "https://www.peakframeworks.com/private-equity-recruiting-course",
+        "seen_via": "search",
+        "note": "Two searches showed lifetime-access packaging but no price; WSO posts describe analysts splitting the cost (about $200 each). Kept: the course is recommended by headhunters and widely bought."
+      },
+      {
+        "step": 3,
+        "problem": "Mock interviews and case-study coaching with a banker or PE professional",
+        "price_text": "$800/hour",
+        "url": "https://theprivateequiteer.com/wall-street-prep-premium-package-review/",
+        "seen_via": "search",
+        "note": "New step for this room. WSP live tutoring was shown at $800/hour; IGotAnOffer PE mock interviews were shown at $480 for 10 credits (2-5 credits per session)."
+      },
+      {
+        "step": 4,
+        "problem": "Score well on the GMAT for a top MBA in year 2-3 (test fee plus a prep course)",
+        "price_text": "$249/month",
+        "url": "https://gmat.targettestprep.com/plans",
+        "seen_via": "search",
+        "note": "Merged the old test-fee step with prep. Target Test Prep from $249/month; Manhattan Prep live course $1,599; the exam itself was shown at US $275 at a test centre."
+      },
+      {
+        "step": 5,
+        "problem": "Hire an MBA admissions consultant for a multi-school application",
+        "price_text": "$12,250",
+        "url": "https://vantagepointmba.com/pricing/mba-admissions-consulting-prices/",
+        "seen_via": "search",
+        "note": "Reused. Also seen this task: SBC one-school package from $7,300, Ivy Advisors three-school package $8,550."
+      }
+    ],
+    "indian-cas-moving-to-finance": [
+      {
+        "step": 1,
+        "problem": "Learn financial modelling and valuation to be interview-ready (The WallStreet School FM&V course)",
+        "price_text": "₹50,000 + GST",
+        "url": "https://www.thewallstreetschool.com/blog/financial-modeling-course-fees-duration-admission-eligibility-2025-syllabus-you-need-to-know/",
+        "seen_via": "search",
+        "note": "Replaced the old ₹1.5-3 lakh Imarticus range with a specific fee: TWSS FM&V is ₹50,000 + GST (8-week full-time); its IB course was shown at Rs. 23,500 + GST."
+      },
+      {
+        "step": 2,
+        "problem": "Prepare for IB and corporate finance interviews (CA Monk interview workshop and question bank)",
+        "price_text": "₹9999",
+        "url": "https://www.camonk.com/courses/finance-masterclass",
+        "seen_via": "search",
+        "note": "New step. CA Monk's Getting Interview Ready Workshop is ₹9999 (discounted ₹5299); its IB interview Q&A guide is Rs. 1499. Replaces the old WSP $499 step, which duplicated step 1."
+      },
+      {
+        "step": 3,
+        "problem": "Buy a placement-linked investment banking program after self-study does not land a role",
+        "price_text": "₹4,28,000",
+        "url": "https://collegedunia.com/institute/1288-imarticus-learning-mumbai/courses-fees",
+        "seen_via": "search",
+        "note": "Reused (Imarticus). TWSS was also shown charging a Rs. 75,000 placement success fee once placed. Kept separate from step 1: the problem is placement, not skills, and it is the room's reported failed spend."
+      },
+      {
+        "step": 4,
+        "problem": "Register for CFA Level I to signal finance intent",
+        "price_text": "US$1,140",
+        "url": "https://finance.uworld.com/cfa/registration-cost-fees/",
+        "seen_via": "search",
+        "note": "Price refreshed: US$1,140 early registration, US$1,490 standard; the US$350 enrolment fee was removed for exams from February 2026."
+      },
+      {
+        "step": 5,
+        "problem": "Take the MBA route to a finance role (GMAT, then ISB PGP)",
+        "price_text": "₹38,67,160",
+        "url": "https://gmatpoint.com/isb-pgp-fees-2026/",
+        "seen_via": "search",
+        "note": "New step. ISB PGP total fees for 2026-27 with shared accommodation; GMAT fee shown at US $275. A minority path but a common one for CAs who miss lateral entry."
+      }
+    ],
+    "pe-associate-candidates-on-cycle": [
+      {
+        "step": 1,
+        "problem": "Learn LBO modelling and pass timed modelling tests (Wall Street Prep Premium Package)",
+        "price_text": "$499",
+        "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+        "seen_via": "search",
+        "note": "Reused; confirmed this task at $499."
+      },
+      {
+        "step": 2,
+        "problem": "Buy a dedicated PE recruiting course (headhunter prep, case studies, paper LBOs)",
+        "price_text": null,
+        "url": "https://www.peakframeworks.com/private-equity-recruiting-course",
+        "seen_via": "search",
+        "note": "Two searches showed no price; WSO users describe splitting the cost. Kept: recommended by recruiters and mega funds, widely bought before on-cycle."
+      },
+      {
+        "step": 3,
+        "problem": "Mock interviews and case-study coaching before on-cycle launches",
+        "price_text": "$800/hour",
+        "url": "https://theprivateequiteer.com/wall-street-prep-premium-package-review/",
+        "seen_via": "search",
+        "note": "Reused; confirmed this task. IGotAnOffer PE mock interviews shown at $480 for 10 credits; 10X EBITDA sells 2-10 hour packages without a listed rate."
+      },
+      {
+        "step": 4,
+        "problem": "After landing the role: score well on the GMAT for a top MBA (test fee plus prep)",
+        "price_text": "$249/month",
+        "url": "https://gmat.targettestprep.com/plans",
+        "seen_via": "search",
+        "note": "New step, split out of the old combined MBA step. Target Test Prep from $249/month; exam fee shown at US $275."
+      },
+      {
+        "step": 5,
+        "problem": "Hire an MBA admissions consultant two years into the associate role",
+        "price_text": "$5,800",
+        "url": "https://www.admitadvantage.com/mba/pricing/",
+        "seen_via": "search",
+        "note": "Reused. Comprehensive packages this task ranged from $7,300 (SBC, one school) to $8,550 (Ivy Advisors, three schools). The old 'VP-track skills' wording was dropped: no paid product was found for it."
+      }
+    ],
+    "sell-side-equity-research-associates": [
+      {
+        "step": 1,
+        "problem": "Pass CFA Level I while working (a structured prep package on top of the exam fee)",
+        "price_text": "$1,499",
+        "url": "https://www.schweser.com/cfa/level-1/study-packages",
+        "seen_via": "search",
+        "note": "Merged the old registration and prep steps. Kaplan Schweser PremiumPlus starts at $1,499; the Level I exam fee was shown at US$1,140 early registration."
+      },
+      {
+        "step": 2,
+        "problem": "Pass the FINRA Series 86/87 research analyst exams in the first months (US associates; prep package)",
+        "price_text": "$380",
+        "url": "https://www.ais-cpa.com/best-finra-series-87-study-guides/",
+        "seen_via": "search",
+        "note": "New step. STC combined Series 86/87 standard package $380; exam fees $130-$195. Employers usually pay the exam fee, the prep is often the associate's. US-only; CFA Level II passers can waive Series 86."
+      },
+      {
+        "step": 3,
+        "problem": "Build full three-statement and DCF models to own coverage names (Wall Street Prep)",
+        "price_text": "$499",
+        "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+        "seen_via": "search",
+        "note": "Reused; confirmed this task at $499."
+      },
+      {
+        "step": 4,
+        "problem": "Sit CFA Levels II and III in years 2-3, paying registration and prep again each year",
+        "price_text": "US$1,140",
+        "url": "https://finance.uworld.com/cfa/registration-cost-fees/",
+        "seen_via": "search",
+        "note": "New step. Early registration is US$1,140 at every level (US$1,490 standard); the search summary put the full three-level programme at US$3,520 minimum."
+      },
+      {
+        "step": 5,
+        "problem": "Prepare for buy-side (hedge fund or asset manager) interviews and stock pitches after 3-4 years",
+        "price_text": "from $197 to $997",
+        "url": "https://theprivateequiteer.com/wso-courses/",
+        "seen_via": "search",
+        "note": "Now priced with a range: WSO's nine courses, including the Hedge Fund Interview Course, are priced from $197 to $997 with lifetime access. Another result put hedge fund courses at $297 to $4,750."
+      }
+    ],
+    "fpa-analysts-corporate": [
+      {
+        "step": 1,
+        "problem": "Get a modelling credential to move from analyst to senior analyst (CFI FMVA; WSP CFPAM is the alternative)",
+        "price_text": "$497",
+        "url": "https://corporatefinanceinstitute.com/pricing-plans/",
+        "seen_via": "search",
+        "note": "Reused; confirmed this task: CFI Self-Study $497 per year (30% promotions common). WSP's FP&A modelling certification was shown at $499."
+      },
+      {
+        "step": 2,
+        "problem": "Pass an advanced modelling exam (FMI Advanced Financial Modeler)",
+        "price_text": "$695",
+        "url": "https://fminstitute.com/afm/",
+        "seen_via": "search",
+        "note": "Reused; confirmed this task: $695 to sit, re-enrolment $300."
+      },
+      {
+        "step": 3,
+        "problem": "Learn the BI stack the team is moving to (Microsoft PL-300 Power BI Data Analyst exam)",
+        "price_text": "$165",
+        "url": "https://www.thebricks.com/resources/guide-how-much-is-microsoft-power-bi-certification",
+        "seen_via": "search",
+        "note": "Now priced: PL-300 is $165 USD per attempt in the US. Anaplan and Adaptive training is usually employer-paid, so the analyst's own spend is the Power BI exam."
+      },
+      {
+        "step": 4,
+        "problem": "Earn the FPAC certification to qualify for manager roles",
+        "price_text": "$1,025",
+        "url": "https://fpacert.financialprofessionals.org/about-exam/deadlines",
+        "seen_via": "search",
+        "note": "Reused; confirmed this task: combined exam fee from $1,025 (AFP member, early) to $1,520 (non-member, final deadline); official prep platform $1,095 for members."
+      }
+    ]
+  }
+}

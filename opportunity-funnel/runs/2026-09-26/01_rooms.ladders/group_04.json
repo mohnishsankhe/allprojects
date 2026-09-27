@@ -1,0 +1,412 @@
+{
+  "ladders": {
+    "business-brokers-ma-boutiques": [
+      {
+        "step": 1,
+        "problem": "Join the trade association (IBBA) for referrals, training and the member directory",
+        "price_text": "$475/year",
+        "url": "https://becomebusinessbroker.com/ibba-cbi-certification-worth-it/",
+        "seen_via": "search",
+        "note": "Annual dues; the same figure ($475) appears on the IBBA Wikipedia page. Kept from the old ladder, re-seen this task."
+      },
+      {
+        "step": 2,
+        "problem": "List and market each business for sale on the BizBuySell marketplace",
+        "price_text": "$65.95 per month",
+        "url": "https://investors.club/how-much-does-bizbuysell-cost/",
+        "seen_via": "search",
+        "note": "Basic listing on a six-month term; Showcase $89.95 and Diamond $199.95 per month were shown alongside. Paid per listing, so it recurs with every mandate."
+      },
+      {
+        "step": 3,
+        "problem": "Run listings, buyer outreach and NDAs in a broker CRM",
+        "price_text": "$99 a month",
+        "url": "https://businessbrokerscrm.com/",
+        "seen_via": "search",
+        "note": "Broker-specific CRMs seen at $29 to $200 per user per month (Tupelo, DealRelations, DealStudio). New step: nearly every firm past one person pays for one."
+      },
+      {
+        "step": 4,
+        "problem": "Buy a comparable-sales database to price and defend valuations",
+        "price_text": "$629 per year",
+        "url": "https://bizcomps.com/ordering-info/",
+        "seen_via": "search",
+        "note": "BIZCOMPS annual subscription; DealStats (BVR) is the other common choice but showed no price in search. New step: valuations and information memorandums need comps."
+      },
+      {
+        "step": 5,
+        "problem": "Earn the CBI credential (recasting, pricing and valuation courses plus exam) to win listings",
+        "price_text": "$1,495.00 USD",
+        "url": "https://www.ibba.org/cbi-certification/your-path-to-the-cbi/",
+        "seen_via": "search",
+        "note": "One-time CBI exam application fee; required courses are extra (Recasting & Pricing Summit $799 member / $899 nonmember). A third-party page put certification at roughly $7,000 plus membership. Replaces the old bundle price ($2,089)."
+      },
+      {
+        "step": 6,
+        "problem": "Run buyer due diligence in a virtual data room for each deal",
+        "price_text": "$395/month",
+        "url": "https://datarooms.org/firmroom-data-room/",
+        "seen_via": "search",
+        "note": "FirmRoom 2 GB flat-rate tier, aimed at small M&A. Moderate confidence that firms at the $0.5M end pay for this; common above a few million in deal size."
+      },
+      {
+        "step": 7,
+        "problem": "Advanced deal training for partners (IBBA Master's program)",
+        "price_text": "$2,300",
+        "url": "https://www.ibba.org/event/ibba-masters-program/",
+        "seen_via": "search",
+        "note": "Requires a current CBI, so it sits after step 5. Kept from the old ladder, re-seen this task."
+      }
+    ],
+    "ib-summer-analyst-recruits": [
+      {
+        "step": 1,
+        "problem": "Interview guide and technical question bank for first-round and superday prep",
+        "price_text": "$197",
+        "url": "https://breakingintowallstreet.com/investment-banking-interview-guide/",
+        "seen_via": "search",
+        "note": "One-time payment; WSO's IB interview course was also seen at $197. Kept from the old ladder, re-seen this task."
+      },
+      {
+        "step": 2,
+        "problem": "Professional resume review before applications open",
+        "price_text": "$200",
+        "url": "https://www.wallstreetoasis.com/career-services/resume-review-edits",
+        "seen_via": "search",
+        "note": "WSO finance resume review. New step: applications open 18 months out and the resume is the first screen."
+      },
+      {
+        "step": 3,
+        "problem": "Financial modeling course to pass technicals and prepare for the desk",
+        "price_text": "$499",
+        "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+        "seen_via": "search",
+        "note": "Wall Street Prep Premium Package, lifetime access. Kept from the old ladder, re-seen this task."
+      },
+      {
+        "step": 4,
+        "problem": "One-to-one mock interviews and coaching before superdays",
+        "price_text": "10 x $48 = $480",
+        "url": "https://igotanoffer.com/en/mock-interviews/role/investment-banking",
+        "seen_via": "search",
+        "note": "IGotAnOffer sells credits (10 for $480); a one-hour mock costs 2 to 5 credits, so $96 to $240 per session. Other results showed $100 to $500 per hour. Replaces the old $800/hour tutoring anchor."
+      },
+      {
+        "step": 5,
+        "problem": "Private equity on-cycle recruiting prep in the first analyst year (LBO modeling and PE interview guide)",
+        "price_text": "$197",
+        "url": "https://breakingintowallstreet.com/private-equity-signup-options/",
+        "seen_via": "search",
+        "note": "BIWS Private Equity Modeling course. Same person 12 to 24 months later; on-cycle PE recruiting starts months into the analyst job, so it is inside the 2-3 year window."
+      }
+    ],
+    "indian-developers-moving-into-ai": [
+      {
+        "step": 1,
+        "problem": "Learn to build AI agents and automations in a paid course or community",
+        "price_text": "$129/month",
+        "url": "https://www.skool.com/ai-automation-society-plus/plans",
+        "seen_via": "search",
+        "note": "AI Automation Society Plus standard plan (raised from $99 in 2026). Indian institute alternatives were seen at ₹1,40,000 + GST (IITM Pravartak agentic AI certificate). Price updated from $94 monthly."
+      },
+      {
+        "step": 2,
+        "problem": "Pay for the automation platform, model APIs and voice minutes while building a portfolio",
+        "price_text": "$24–$800/month",
+        "url": "https://costbench.com/software/ai-automation/n8n/",
+        "seen_via": "search",
+        "note": "n8n cloud plans. Merges the old steps 2 and 3 (platform and per-minute voice usage): one problem, tool spend while building. Kept price, re-seen this task."
+      },
+      {
+        "step": 3,
+        "problem": "Pass a vendor AI certification exam to signal the switch to employers",
+        "price_text": "$165 USD",
+        "url": "https://dev.to/datta_kharad_3fd1383b5036/ai-102-certification-cost-registration-process-exam-booking-guide-33ma",
+        "seen_via": "search",
+        "note": "Microsoft AI-102 exam fee, shown as roughly ₹13,500 to ₹15,000 in India. New step: certifications are the usual proof of skills in Indian service companies."
+      },
+      {
+        "step": 4,
+        "problem": "Win the first paying clients on freelance marketplaces (platform fee and paid proposal credits)",
+        "price_text": "10% Flat Rate",
+        "url": "https://freelancercalculator.com/upwork-service-fee-10-percent-official-explained-2026/",
+        "seen_via": "search",
+        "note": "Upwork service fee on earnings; Connects were shown at about $0.15 each. Replaces the old unpriced job-board step."
+      },
+      {
+        "step": 5,
+        "problem": "Join an agency-building program to price, sell and scale as a business",
+        "price_text": "$184/mo",
+        "url": "https://skoolmakers.com/communities/maker-school/",
+        "seen_via": "search",
+        "note": "Maker School; the result says the price is about to rise to $194. Kept from the old ladder, re-seen this task."
+      }
+    ],
+    "indie-perfumers-launching-brands": [
+      {
+        "step": 1,
+        "problem": "Buy a starter kit of aroma materials to learn to blend",
+        "price_text": "$49.99",
+        "url": "https://www.ebay.com/b/perfume-making-kit/bn_7024791498",
+        "seen_via": "search",
+        "note": "Kits on eBay were listed at $42.99 to $52.99; a serious beginner aromachemical kit (Perfumer's Apprentice) showed no price in search. Replaces the old $95 anchor."
+      },
+      {
+        "step": 2,
+        "problem": "Take formal perfumery training",
+        "price_text": "€3,300",
+        "url": "http://frenchperfume.school/intensetechnicaltraining",
+        "seen_via": "search",
+        "note": "Grasse Institute of Perfumery Dubai intensive, Levels 1-3. Short GIP courses were shown at 1800 to 2500 euros; the 18-month degree at 13,500 euros. Kept from the old ladder, re-seen this task."
+      },
+      {
+        "step": 3,
+        "problem": "Get a safety assessment (CPSR) and IFRA-compliant documents before selling",
+        "price_text": "between £55 and £150",
+        "url": "https://phoenixcosmeticsafety.com/products/cpsr-for-fragrance-products",
+        "seen_via": "search",
+        "note": "Per single-variant fragrance; an industry range of £180 to £700 per product was also shown. Required in the UK and EU before sale. Price replaces the old $150–$1,000 range."
+      },
+      {
+        "step": 4,
+        "problem": "Source bottles and contract filling at small minimum order quantities",
+        "price_text": "$10–$25 per unit",
+        "url": "https://www.brandsamor.com/",
+        "seen_via": "search",
+        "note": "Full-service private-label filling from 100 units, typical first budget about USD $1,500. Replaces the old $0.50–$2 per unit (bare bottle) figure with the filled-unit price."
+      },
+      {
+        "step": 5,
+        "problem": "Open an online store to sell direct",
+        "price_text": "$39 per month",
+        "url": "https://craftshift.com/shopify-basic-plan-2026/",
+        "seen_via": "search",
+        "note": "Shopify Basic billed monthly ($29 per month on annual billing). Replaces the old unpriced 'get found and sell online' step with the concrete paid tool."
+      },
+      {
+        "step": 6,
+        "problem": "Register the brand name as a trademark",
+        "price_text": "$350 per class",
+        "url": "https://tmarkmetric.com/insights/uspto-trademark-fees-2026",
+        "seen_via": "search",
+        "note": "USPTO base application fee per class since January 2025. New step: brand founders commonly file once sales start."
+      },
+      {
+        "step": 7,
+        "problem": "Buy product liability insurance to sell at markets and to retailers",
+        "price_text": "$275 per year",
+        "url": "https://www.indiebusinessinsurance.com/choose-policy",
+        "seen_via": "search",
+        "note": "Indie Business Network policy, $1,000,000 coverage; other handmade-cosmetics policies shown at $230 to $515 per year. New step: stockists and markets require it."
+      }
+    ],
+    "mba-ib-associate-switchers": [
+      {
+        "step": 1,
+        "problem": "Pre-MBA finance and accounting primer before or at the start of the first year",
+        "price_text": "$199",
+        "url": "https://www.mba.com/businessfundamentals",
+        "seen_via": "search",
+        "note": "GMAC Business Fundamentals bundle (three modules; $99 each). New step: non-finance admits commonly buy a primer the summer before recruiting starts."
+      },
+      {
+        "step": 2,
+        "problem": "Finance or IB club dues for group training, alumni lists and recruiting events",
+        "price_text": null,
+        "url": null,
+        "seen_via": "search",
+        "note": "Price null: results showed a comparable MBA professional club at $100 for 1 year or $160 for 2 years and a forum report of about $150 for both years, but no IB club price was shown directly. Kept because nearly every IB recruit at a top program pays club dues."
+      },
+      {
+        "step": 3,
+        "problem": "IB interview guide and technical question bank",
+        "price_text": "$197",
+        "url": "https://breakingintowallstreet.com/investment-banking-interview-guide/",
+        "seen_via": "search",
+        "note": "One-time payment. Kept from the old ladder, re-seen this task."
+      },
+      {
+        "step": 4,
+        "problem": "Financial modeling course to learn technicals fast",
+        "price_text": "$499",
+        "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+        "seen_via": "search",
+        "note": "Wall Street Prep Premium Package; clubs often buy Training The Street group sessions instead (no self-study price shown). Kept from the old ladder, re-seen this task."
+      },
+      {
+        "step": 5,
+        "problem": "One-to-one coaching and mock superdays for the career-switcher story and technicals",
+        "price_text": "$249–$289/hr",
+        "url": "https://www.10xebitda.com/investment-banking-interview-coaching/",
+        "seen_via": "search",
+        "note": "10X EBITDA hourly rate; packages shown at $578 (2 hr) to $2,490 (10 hr). Priced the old unpriced step. The old steps on converting the internship and later PE/lateral moves were dropped: no common paid product."
+      }
+    ],
+    "btech-students-india-reddit-community": [
+      {
+        "step": 1,
+        "problem": "Beginner coding and DSA course in the first or second year",
+        "price_text": "₹2,990/-",
+        "url": "https://www.scribd.com/document/889106293/Apna-College-Course",
+        "seen_via": "search",
+        "note": "Apna College Sigma batch 'getting price' (listed price ₹8,999/-). The official course pages showed no price in search. New step: the entry purchase for most of this room."
+      },
+      {
+        "step": 2,
+        "problem": "Aptitude and company-specific placement prep subscription",
+        "price_text": "INR 2,499 for 3 months",
+        "url": "https://medium.com/@sayuktajoshi483/prepinsta-prime-v-s-talentbattle-dde01d3bd260",
+        "seen_via": "search",
+        "note": "PrepInsta Prime; plans run up to INR 6,499 for 48 months. Priced the old unpriced step."
+      },
+      {
+        "step": 3,
+        "problem": "Coding and system-design bootcamp before placements or for an off-campus switch",
+        "price_text": "₹3.99 lakh",
+        "url": "https://fueler.io/blog/scaler-academy-review-curriculum-placements-fees-and-roi",
+        "seen_via": "search",
+        "note": "Scaler Academy total fee, EMI from ₹9,791 per month. Kept from the old ladder, re-seen this task."
+      },
+      {
+        "step": 4,
+        "problem": "GATE coaching for a PSU job or an Indian master's",
+        "price_text": "₹82,500 to ₹1,13,000",
+        "url": "https://www.madeeasy.in/fee-structure",
+        "seen_via": "search",
+        "note": "Reused from the old ladder (seen via search). This task's search showed a MADE EASY 2-year GATE classroom program at ₹70,000 on a third-party listing. One of three branches from step 3 onward."
+      },
+      {
+        "step": 5,
+        "problem": "GRE prep for a master's abroad",
+        "price_text": "$11.99 per month",
+        "url": "https://www.gregmat.com/pricing",
+        "seen_via": "search",
+        "note": "GregMat monthly subscription. Kept from the old ladder, re-seen this task."
+      },
+      {
+        "step": 6,
+        "problem": "GRE exam registration",
+        "price_text": "₹22,550",
+        "url": "https://eecglobal.com/blog/gre-fee-registration-india-2026",
+        "seen_via": "search",
+        "note": "India fee as shown in the result title; another result said ₹25,522 from August 1, 2026. Kept step; price re-seen in rupees instead of the old $220."
+      }
+    ],
+    "cfa-candidates-community": [
+      {
+        "step": 1,
+        "problem": "Level I registration",
+        "price_text": "US$1,140",
+        "url": "https://finance.uworld.com/cfa/registration-cost-fees/",
+        "seen_via": "search",
+        "note": "Early registration; US$1,490 standard. The US$350 one-time enrollment fee was eliminated for exams from February 2026. Kept from the old ladder, re-seen this task."
+      },
+      {
+        "step": 2,
+        "problem": "Prep package for Level I",
+        "price_text": "$1,049",
+        "url": "https://www.schweser.com/cfa/level-1/study-packages",
+        "seen_via": "search",
+        "note": "Kaplan Schweser Premium; packages range from $379 (QBank) to $1,449 (Ultimate). Kept from the old ladder, re-seen this task."
+      },
+      {
+        "step": 3,
+        "problem": "Level II registration",
+        "price_text": "US$1,140",
+        "url": "https://finance.uworld.com/cfa/registration-cost-fees/",
+        "seen_via": "search",
+        "note": "Early registration; US$1,490 standard. Splits the old 'Levels II and III full bill' step into the payments as they fall, roughly a year apart."
+      },
+      {
+        "step": 4,
+        "problem": "Prep package for Level II",
+        "price_text": "$550.00 USD",
+        "url": "https://www.markmeldrum.com/product/2026-l2-self-study/",
+        "seen_via": "search",
+        "note": "Mark Meldrum 2026 L2 Self-Study. Priced the old unpriced step."
+      },
+      {
+        "step": 5,
+        "problem": "Level III registration",
+        "price_text": "US$1,240",
+        "url": "https://finance.uworld.com/cfa/registration-cost-fees/",
+        "seen_via": "search",
+        "note": "Early registration; US$1,590 standard. Level III costs more than Levels I and II."
+      },
+      {
+        "step": 6,
+        "problem": "Prep package for Level III",
+        "price_text": "$1,149",
+        "url": "https://www.schweser.com/cfa/level-3/study-packages/compare-packages",
+        "seen_via": "search",
+        "note": "Kaplan Schweser Level III Premium. New step: a third prep purchase two to three years in."
+      },
+      {
+        "step": 7,
+        "problem": "Charterholder membership dues to use the CFA designation",
+        "price_text": "$299",
+        "url": "https://www.cfainstitute.org/membership/types",
+        "seen_via": "search",
+        "note": "CFA Institute annual dues; local society dues are extra. Replaces the old modeling-course step, which is not a common purchase for this room."
+      }
+    ],
+    "d2c-brands-scaling-past-launch": [
+      {
+        "step": 1,
+        "problem": "Paid ads and creative run through a performance marketing agency",
+        "price_text": "₹80,000–₹1,50,000/month",
+        "url": "https://peakpilots.in/blog/d2c-playbooks/d2c-marketing-agency-pricing-india-2026",
+        "seen_via": "search",
+        "note": "Retainer for scaling brands (₹2Cr–₹20Cr revenue), excluding ad spend; other results showed ₹75,000 to ₹4,00,000+ per month or 8 to 15% of ad spend. Priced the old unpriced step."
+      },
+      {
+        "step": 2,
+        "problem": "WhatsApp API for support, order updates and cash-on-delivery confirmation",
+        "price_text": "₹3,499",
+        "url": "https://www.zoko.io/post/interakt-pricing-guide",
+        "seen_via": "search",
+        "note": "Interakt Advanced plan per month; entry plans shown from ₹2,499 per month. Kept from the old ladder, re-seen this task."
+      },
+      {
+        "step": 3,
+        "problem": "Cut cash-on-delivery returns with a shipping aggregator's RTO and NDR tools",
+        "price_text": "₹499/month",
+        "url": "https://checkthat.ai/brands/shiprocket/pricing",
+        "seen_via": "search",
+        "note": "Shiprocket Advanced plan (per-shipment courier charges extra). Absorbs the old AI-voice-per-minute step: same problem, the common paid route is the aggregator's confirmation and NDR flows."
+      },
+      {
+        "step": 4,
+        "problem": "Helpdesk to handle support volume across chat, email and WhatsApp",
+        "price_text": "$10–$900/month",
+        "url": "https://costbench.com/software/help-desk/gorgias/",
+        "seen_via": "search",
+        "note": "Gorgias plans by ticket volume; Basic shown at $60/month for 300 tickets. New step: support volume is a named pain for this room."
+      },
+      {
+        "step": 5,
+        "problem": "Retention marketing by email and SMS to lift repeat orders as ad costs rise",
+        "price_text": "$20 per month",
+        "url": "https://www.klaviyo.com/pricing",
+        "seen_via": "search",
+        "note": "Klaviyo Email plan at 251-500 profiles; $150 per month at 10,000 profiles. New step: the standard second lever once paid acquisition gets expensive."
+      },
+      {
+        "step": 6,
+        "problem": "Expand onto marketplaces (Amazon professional seller plan)",
+        "price_text": "$39.99 per month",
+        "url": "https://sell.amazon.com/pricing",
+        "seen_via": "search",
+        "note": "Amazon Professional plan; referral and FBA fees are extra. Replaces the old unpriced marketplace-and-export step with its first concrete fee."
+      },
+      {
+        "step": 7,
+        "problem": "Working capital for inventory and ads through revenue-based financing",
+        "price_text": "5-10% of revenue",
+        "url": "https://www.velocity.in/revenue-based-financing/",
+        "seen_via": "search",
+        "note": "Velocity revenue share over 6 to 24 months; results showed fixed fees of 4% to 7% and repayment multiples of 1.10 to 1.35x across Indian lenders. New step: common for brands at ₹2Cr+ scaling past cash limits."
+      }
+    ]
+  }
+}
