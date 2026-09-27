@@ -99,6 +99,14 @@ def _cell(s) -> str:
     return common.normalize_ws(str(s if s is not None else "")).replace("|", "/")
 
 
+def _sentence(s) -> str:
+    """Normalized text ending with a full stop ("" stays "")."""
+    t = _cell(s)
+    if t and t[-1] not in ".!?":
+        t += "."
+    return t
+
+
 def _is_int(v) -> bool:
     return isinstance(v, int) and not isinstance(v, bool)
 
@@ -534,7 +542,8 @@ def _pair_lines(b: dict, pid: str) -> list:
 def _numbers_lines(e: dict, fx: dict) -> list:
     cur = e["currency"]
     cs = e["cases"]
-    lines = [f"In {cur}; USD in brackets. Low = low price, low conversion, costly acquisition. High = the opposite. "
+    lines = [(f"In {cur}; USD in brackets. " if cur != "USD" else "In USD. ")
+             + "Low = low price, low conversion, costly acquisition. High = the opposite. "
              f"Every figure is `[{e['tags'].get('usd_per_hour', 'estimate')}]` unless marked.", "",
              "| Number | Low | Base | High |", "|---|---|---|---|"]
     for name, label in (("price", "price per customer"), ("price_total", "price total"), ("acquisition_cost", "cost to win a customer"),
@@ -565,9 +574,9 @@ def _evidence_lines(b: dict, pid: str, quotes_limit: int = 3) -> list:
              f"media records {pain.get('media_records', 0)}, verified quotes {pain.get('verified_quote_count', 0)}, spend sources "
              f"{pain.get('spend_sources', 0)} ({', '.join(pain.get('spend_domains') or []) or 'none'})."]
     u = pain.get("urgency") or {}
-    lines.append(f"- Urgency: {pain.get('urgency_type') or u.get('type')}. {_cell(u.get('evidence'))} {_cell(u.get('reasoning'))}".rstrip())
+    lines.append(f"- Urgency: {pain.get('urgency_type') or u.get('type')}. {_sentence(u.get('evidence'))} {_sentence(u.get('reasoning'))}".rstrip())
     wp = pain.get("who_pays") or {}
-    lines.append(f"- Who pays: {_cell(wp.get('text'))} {_cell(wp.get('reasoning'))}".rstrip())
+    lines.append(f"- Who pays: {_sentence(wp.get('text'))} {_sentence(wp.get('reasoning'))}".rstrip())
     alts = _list_of_dicts(pain, "alternatives")
     if alts:
         lines.append("- Alternatives and prices:")
@@ -677,7 +686,7 @@ def _no_survivor_lines(run, fs: dict) -> list:
         counts = c.get("counts")
         ev = (f" Evidence: failed spend {counts['failed_spend']}, money {counts['money']}, member records {counts['records']}."
               if counts else " Evidence: no Stage 3 counts.")
-        lines.append(f"{i}. {c['pain_id']}: killed at stage {c['stage']} ({c['stage_name']}). {c['reason']}{ev}")
+        lines.append(f"{i}. {c['pain_id']}: killed at stage {c['stage']} ({c['stage_name']}). {_sentence(c['reason'])}{ev}")
     return lines
 
 
@@ -935,7 +944,8 @@ def review(run) -> dict:
     lines += [f"- {path}: {note}" for path, note in notes] or ["- none"]
     lines += ["", "### Kill-rule defaults used (not from the founder's instructions)", ""]
     defaults = kill_rule_defaults()
-    lines += [f"- {d['section']}.{d['key']} = {d['value']}: {_cell(d['comment']) or d['mark']}" for d in defaults] or ["- none"]
+    lines += [f"- {d['section']}.{d['key']} = {d['value'] or '(a nested block; see kill_rules.yaml)'}: "
+              f"{_cell(d['comment']) or '(no comment in kill_rules.yaml)'}" for d in defaults] or ["- none"]
     lines += ["", "### Conservative choices logged during the run", ""]
     choices = []
     seen: set = set()
