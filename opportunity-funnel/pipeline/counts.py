@@ -270,6 +270,200 @@ def cmd_label_todo(args) -> int:
     return 0
 
 
+# --------------------------------------------------------------------------- member re-check after new pains
+# When label-prep adds pains in round N, the member records of earlier rounds are re-checked for the new pains
+# (pain counts, ranks and saturation use member records only), instead of relabeling every batch.
+def packs_dir(run, room: str):
+    return common.raw_dir(run, room) / "_packs"
+
+
+def patches_dir(run, room: str):
+    return common.room_dir(run, room) / "labels" / "_patches"
+
+
+def _label_rows(run, room: str, batch_names) -> dict:
+    """record_id -> label row from the given batches' label files (lenient: unreadable files are skipped)."""
+    out: dict = {}
+    ldir = common.room_dir(run, room) / "labels"
+    for b in batch_names:
+        p = ldir / f"{b}.jsonl"
+        if not p.exists():
+            continue
+        try:
+            rows = common.read_jsonl(p)
+        except (common.FunnelError, ValueError):
+            continue
+        for row in rows:
+            if isinstance(row, dict) and isinstance(row.get("record_id"), str):
+                out[row["record_id"]] = row
+    return out
+
+
+def make_packs(run, room: str, round_no: int, keys, size: int = 80) -> list:
+    """Write RUN/03_listen/raw/<room>/_packs/pack_r<N>_NNN.md: the member records of rounds before N, with their
+    current pain keys, for a re-check against the pains added in round N. Returns the pack names."""
+    manifest = load_manifest(run, room)
+    taxonomy = load_taxonomy(run, room)
+    keys = [k for k in dict.fromkeys(keys)]
+    bad = [k for k in keys if k not in taxonomy]
+    if not keys or bad:
+        raise common.ValidationErrors([f"--keys must list pains that are in taxonomy.json (unknown: {', '.join(bad) or 'none given'})."])
+    old = [b for r, info in sorted((manifest.get("rounds") or {}).items(), key=lambda x: int(x[0]))
+           if int(r) < round_no for b in info.get("batches") or []]
+    rows = _label_rows(run, room, old)
+    members = [rid for b in old for rid in manifest["batches"][b] if (rows.get(rid) or {}).get("voice") == "member"]
+    stored = records.records_by_id(run, room)
+    pdir = packs_dir(run, room)
+    pdir.mkdir(parents=True, exist_ok=True)
+    for stale in pdir.glob(f"pack_r{round_no}_*.md"):
+        stale.unlink()
+    packs: dict = {}
+    for i in range(0, len(members), size):
+        chunk = members[i:i + size]
+        name = f"pack_r{round_no}_{i // size + 1:03d}"
+        lines = [f"# {name} | room {room} | re-check for the pains added in round {round_no}: {', '.join(keys)} | "
+                 f"{len(chunk)} member records", ""]
+        for rid in chunk:
+            rec = stored.get(rid) or {}
+            cur = rows[rid].get("pain_keys") or []
+            lines.append(f"### {rid} | {rec.get('source', '-')} | {rec.get('date') or 'undated'} | "
+                         f"{common.domain_of(rec.get('url') or '') or '-'}")
+            lines.append(records._cut(rec.get("text") or "", int(manifest.get("chars") or 1500)))
+            lines.append(f"current pain_keys: {', '.join(cur) if cur else 'none'}")
+            lines.append("")
+        common.write_text(pdir / f"{name}.md", "\n".join(lines))
+        packs[name] = chunk
+    common.write_json(pdir / f"pack_r{round_no}.json", {"room": room, "round": round_no, "keys": keys, "packs": packs,
+                                                        "current": {rid: list(rows[rid].get("pain_keys") or []) for rid in members}})
+    return sorted(packs)
+
+
+def _pack_index(run, room: str) -> dict:
+    """pack name -> (round, new keys, record ids, current keys by id) from every pack_r<N>.json."""
+    out: dict = {}
+    for m in sorted(packs_dir(run, room).glob("pack_r*.json")):
+        data = common.read_json(m)
+        for name, ids in (data.get("packs") or {}).items():
+            out[name] = (int(data["round"]), list(data["keys"]), list(ids), dict(data.get("current") or {}))
+    return out
+
+
+def check_patch(run, room: str, pack: str, taxonomy: dict) -> tuple:
+    """Validate labels/_patches/<pack>.jsonl. Returns (rows by record_id, errors)."""
+    idx = _pack_index(run, room)
+    if pack not in idx:
+        return {}, [f"{pack!r} is not a pack of room {room}. Packs: {', '.join(sorted(idx)) or 'none'}."]
+    _rnd, new_keys, ids, current = idx[pack]
+    p = patches_dir(run, room) / f"{pack}.jsonl"
+    if not p.exists():
+        return {}, [f"No patch file {common.rel(p)}. Write one line per record of {pack}.md."]
+    errors: list = []
+    out: dict = {}
+    for n, row in enumerate(common.read_jsonl(p), 1):
+        where = f"{common.rel(p)}: line {n}"
+        rid = row.get("record_id") if isinstance(row, dict) else None
+        if rid not in ids:
+            errors.append(f"{where}: record_id {rid!r} is not in {pack}.md.")
+            continue
+        if rid in out:
+            errors.append(f"{where} ({rid}): appears twice. Keep one line per record.")
+            continue
+        keys = row.get("pain_keys")
+        cur = current.get(rid) or []
+        if not isinstance(keys, list) or not all(isinstance(k, str) for k in keys) or len(set(keys)) > 2:
+            errors.append(f"{where} ({rid}): 'pain_keys' must be a list of 0 to 2 keys.")
+            continue
+        keys = list(dict.fromkeys(keys))
+        extra = [k for k in keys if k not in cur and k not in new_keys]
+        if extra:
+            errors.append(f"{where} ({rid}): {', '.join(extra)} is neither a current key of this record nor a new pain "
+                          f"({', '.join(new_keys)}). The re-check only adds the new pains.")
+        unknown = [k for k in keys if k not in taxonomy]
+        if unknown:
+            errors.append(f"{where} ({rid}): unknown pain key(s) {', '.join(unknown)}.")
+        dropped = [k for k in cur if k not in keys]
+        if dropped and not any(k in new_keys for k in keys):
+            errors.append(f"{where} ({rid}): drops {', '.join(dropped)} without adding a new pain. Keep the current keys "
+                          f"unless a new pain replaces one (at most 2 keys).")
+        errors.extend(f"{where} ({rid}): {e}" for e in common.check_judgment(row, "patch"))
+        out[rid] = dict(row, pain_keys=keys)
+    missing = [rid for rid in ids if rid not in out and not any(rid in e for e in errors)]
+    if missing:
+        errors.append(f"{common.rel(p)}: {len(missing)} record(s) of {pack}.md have no line: {', '.join(missing[:10])}"
+                      + (f" and {len(missing) - 10} more" if len(missing) > 10 else "") + ".")
+    return out, errors
+
+
+def apply_patches(run, room: str) -> dict:
+    """Apply every pending patch to the batch label files (pain_keys only), then move it to _patches/applied/."""
+    taxonomy = load_taxonomy(run, room)
+    manifest = load_manifest(run, room)
+    id_to_batch = {rid: name for name, ids in (manifest.get("batches") or {}).items() for rid in ids}
+    pdir = patches_dir(run, room)
+    pending = sorted(pdir.glob("pack_r*_*.jsonl")) if pdir.exists() else []
+    idx = _pack_index(run, room)
+    errors: list = []
+    checked: dict = {}
+    for p in pending:
+        rows, errs = check_patch(run, room, p.stem, taxonomy)
+        errors.extend(errs)
+        checked[p.stem] = rows
+    if errors:
+        raise common.ValidationErrors(errors)
+    ldir = common.room_dir(run, room) / "labels"
+    changed = 0
+    by_batch: dict = {}
+    for pack, rows in checked.items():
+        rnd = idx[pack][0]
+        for rid, row in rows.items():
+            by_batch.setdefault(id_to_batch[rid], {})[rid] = (rnd, row)
+    for batch, updates in sorted(by_batch.items()):
+        path = ldir / f"{batch}.jsonl"
+        out = []
+        for label in common.read_jsonl(path):
+            upd = updates.get(label.get("record_id")) if isinstance(label, dict) else None
+            if upd and list(upd[1]["pain_keys"]) != list(label.get("pain_keys") or []):
+                rnd, row = upd
+                label = dict(label, pain_keys=row["pain_keys"], confidence=row["confidence"],
+                             reasoning=f"{label.get('reasoning', '').rstrip()} Re-check round {rnd}: {row['reasoning']}".strip())
+                changed += 1
+            out.append(label)
+        common.write_jsonl(path, out)
+    done = pdir / "applied"
+    for p in pending:
+        done.mkdir(parents=True, exist_ok=True)
+        p.replace(done / p.name)
+    return {"patches": [p.stem for p in pending], "changed": changed}
+
+
+def cmd_relabel_pack(args) -> int:
+    run = common.run_dir(args.run)
+    room = common.check_slug(args.room, "room")
+    keys = [k.strip() for k in (args.keys or "").split(",") if k.strip()]
+    names = make_packs(run, room, int(args.round), keys, size=args.size)
+    print(f"Room {room}: {len(names)} pack(s) of member records from rounds before {args.round}, to re-check for: "
+          f"{', '.join(keys)}.")
+    print("PACKS: " + (" ".join(names) if names else "none"))
+    common.log_event(run, STAGE, "relabel-pack", "ran", room=room, round=int(args.round), keys=keys, packs=len(names))
+    return 0
+
+
+def cmd_apply_patches(args) -> int:
+    run = common.run_dir(args.run)
+    room = common.check_slug(args.room, "room")
+    if args.check:
+        rows, errors = check_patch(run, room, args.check, load_taxonomy(run, room))
+        if errors:
+            raise common.ValidationErrors(errors)
+        print(f"{args.check}: {len(rows)} lines, no errors (not applied yet; label-finish applies it).")
+        return 0
+    r = apply_patches(run, room)
+    print(f"Room {room}: applied {len(r['patches'])} patch(es) ({', '.join(r['patches']) or 'none'}); "
+          f"{r['changed']} label(s) changed.")
+    common.log_event(run, STAGE, "apply-patches", "ran", room=room, patches=r["patches"], changed=r["changed"])
+    return 0
+
+
 def cmd_count(args) -> int:
     run = common.run_dir(args.run)
     room = common.check_slug(args.room, "room")
@@ -477,6 +671,16 @@ def register(subparsers) -> None:
     p.add_argument("--room", required=True, help="room slug")
     p.add_argument("--batch", default=None, help="check only labels/<batch>.jsonl against that batch (writes nothing)")
     p.set_defaults(func=cmd_count, stage_no=STAGE)
+    k = subparsers.add_parser("relabel-pack", help="Pack earlier rounds' member records for a re-check against new pains.")
+    k.add_argument("--room", required=True, help="room slug")
+    k.add_argument("--round", required=True, type=int, help="the round in which the pains were added")
+    k.add_argument("--keys", required=True, help="the added pain keys, comma-separated")
+    k.add_argument("--size", type=int, default=80, help="records per pack (default 80)")
+    k.set_defaults(func=cmd_relabel_pack, stage_no=STAGE)
+    a = subparsers.add_parser("apply-patches", help="Validate and apply the re-check patches to the label files.")
+    a.add_argument("--room", required=True, help="room slug")
+    a.add_argument("--check", default=None, help="only validate labels/_patches/<pack>.jsonl (applies nothing)")
+    a.set_defaults(func=cmd_apply_patches, stage_no=STAGE)
     t = subparsers.add_parser("label-todo", help="List the batches of a room that still need labels.")
     t.add_argument("--room", required=True, help="room slug")
     t.add_argument("--all", action="store_true", help="every batch (after the taxonomy changed)")

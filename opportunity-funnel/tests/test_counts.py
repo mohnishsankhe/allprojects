@@ -411,3 +411,77 @@ def test_count_batch_checks_one_batch_and_writes_nothing(run, h, cli):
     assert r.returncode == 2 and "No label file" in r.stderr
     r = cli("count", "--room", ROOM, "--run", "2026-09-26", "--batch", "batch_r9_001")
     assert r.returncode == 1 and "is not a batch of room" in r.stderr
+
+
+# --------------------------------------------------------------------------- member re-check after new pains
+def _recheck_room(run, h):
+    """Round 1: 6 records in two batches (4 members); round 2: 3 records. Pain c is added in round 2."""
+    ids1 = _ids(run, 6)
+    ids2 = _ids(run, 3, round=2)
+    records.make_batches(run, ROOM, size=3)
+    m = common.read_json(records.manifest_path(run, ROOM))
+    b1, b2 = sorted(n for n in m["batches"] if n.startswith("batch_r1_"))
+    spec = {ids1[0]: ("member", ["a"]), ids1[1]: ("member", ["a", "b"]), ids1[2]: ("seller", ["a"]),
+            ids1[3]: ("member", []), ids1[4]: ("other", []), ids1[5]: ("member", ["b"])}
+    for name in (b1, b2):
+        h.write_labels(run, ROOM, name, [h.label(rid, voice=spec[rid][0], keys=spec[rid][1]) for rid in m["batches"][name]])
+    common.write_json(common.room_dir(run, ROOM) / "taxonomy.json",
+                      {"pains": [{"key": k, "label": k, "definition": k, "added_round": r} for k, r in (("a", 1), ("b", 1), ("c", 2))]})
+    return ids1, ids2, m
+
+
+def _patch(run, rows):
+    common.write_jsonl(counts.patches_dir(run, ROOM) / "pack_r2_001.jsonl",
+                       [{"record_id": rid, "pain_keys": keys, "reasoning": "re-check", "confidence": "moderate"} for rid, keys in rows])
+
+
+def test_relabel_pack_holds_only_earlier_member_records_with_current_keys(run, h, cli):
+    ids1, ids2, m = _recheck_room(run, h)
+    r = cli("relabel-pack", "--room", ROOM, "--run", "2026-09-26", "--round", "2", "--keys", "c")
+    assert r.returncode == 0, r.stderr
+    assert "PACKS: pack_r2_001" in r.stdout
+    idx = common.read_json(counts.packs_dir(run, ROOM) / "pack_r2.json")
+    assert idx["keys"] == ["c"] and idx["packs"]["pack_r2_001"] == [ids1[0], ids1[1], ids1[3], ids1[5]]
+    text = (counts.packs_dir(run, ROOM) / "pack_r2_001.md").read_text(encoding="utf-8")
+    assert "current pain_keys: a, b" in text and "current pain_keys: none" in text and ids1[2] not in text and ids2[0] not in text
+    r = cli("relabel-pack", "--room", ROOM, "--run", "2026-09-26", "--round", "2", "--keys", "zzz")
+    assert r.returncode == 1 and "unknown: zzz" in r.stderr
+
+
+def test_patch_check_rejects_keys_that_are_not_new_drops_without_a_new_pain_and_gaps(run, h, cli):
+    ids1, _ids2, _m = _recheck_room(run, h)
+    counts.make_packs(run, ROOM, 2, ["c"])
+    tax = counts.load_taxonomy(run, ROOM)
+    _patch(run, [(ids1[0], ["a", "b"]), (ids1[1], ["a"]), (ids1[3], ["c"])])
+    _rows, errors = counts.check_patch(run, ROOM, "pack_r2_001", tax)
+    joined = "\n".join(errors)
+    assert "b is neither a current key" in joined          # ids1[0] had only a
+    assert "drops b without adding a new pain" in joined     # ids1[1] had a, b
+    assert "1 record(s) of pack_r2_001.md have no line" in joined  # ids1[5] missing
+    r = cli("apply-patches", "--room", ROOM, "--run", "2026-09-26", "--check", "pack_r2_001")
+    assert r.returncode == 1
+
+
+def test_apply_patches_updates_only_pain_keys_and_is_idempotent(run, h, cli):
+    ids1, _ids2, m = _recheck_room(run, h)
+    counts.make_packs(run, ROOM, 2, ["c"])
+    _patch(run, [(ids1[0], ["a", "c"]), (ids1[1], ["a", "c"]), (ids1[3], []), (ids1[5], ["b"])])
+    r = cli("apply-patches", "--room", ROOM, "--run", "2026-09-26", "--check", "pack_r2_001")
+    assert r.returncode == 0, r.stderr
+    r = cli("apply-patches", "--room", ROOM, "--run", "2026-09-26")
+    assert r.returncode == 0, r.stderr
+    assert "applied 1 patch(es) (pack_r2_001); 2 label(s) changed" in r.stdout
+    rows = {}
+    for name in m["batches"]:
+        p = common.room_dir(run, ROOM) / "labels" / f"{name}.jsonl"
+        if p.exists():
+            rows.update({x["record_id"]: x for x in common.read_jsonl(p)})
+    assert rows[ids1[0]]["pain_keys"] == ["a", "c"] and "Re-check round 2: re-check" in rows[ids1[0]]["reasoning"]
+    assert rows[ids1[1]]["pain_keys"] == ["a", "c"] and rows[ids1[1]]["voice"] == "member"
+    assert rows[ids1[3]]["pain_keys"] == [] and "Re-check" not in rows[ids1[3]]["reasoning"]  # unchanged
+    assert rows[ids1[2]]["pain_keys"] == ["a"] and rows[ids1[2]]["voice"] == "seller"       # not in the pack
+    assert (counts.patches_dir(run, ROOM) / "applied" / "pack_r2_001.jsonl").exists()
+    r = cli("apply-patches", "--room", ROOM, "--run", "2026-09-26")
+    assert r.returncode == 0 and "applied 0 patch(es) (none); 0 label(s) changed" in r.stdout
+    # the round-2 batch is still unlabeled, so it is what label-todo lists; the re-check did not touch it
+    assert counts.label_todo(run, ROOM) == ["batch_r2_001"]
