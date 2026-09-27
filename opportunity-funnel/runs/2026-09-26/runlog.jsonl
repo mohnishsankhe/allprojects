@@ -620,3 +620,9 @@
 {"command": "show", "ids": 2, "kind": "ran", "missing": [], "room": "small-industrial-property-investors", "stage": 3, "ts": "2026-09-27T11:45:52+00:00"}
 {"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "small-industrial-property-investors", "stage": 3, "ts": "2026-09-27T11:45:57+00:00"}
 {"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T11:49:15+00:00"}
+{"command": "listen-status", "dated": 25, "kind": "ran", "per_round": {"1": 1022}, "per_source": {"websearch": 1022}, "records": 1022, "room": "outbound-lead-gen-appointment-setting-agencies", "stage": 3, "ts": "2026-09-27T11:51:51+00:00", "undated": 997}
+{"command": "show", "ids": 3, "kind": "ran", "missing": [], "room": "indie-perfumers-launching-brands", "stage": 3, "ts": "2026-09-27T11:52:15+00:00"}
+{"command": "show", "ids": 5, "kind": "ran", "missing": [], "room": "small-business-owners-reddit-community", "stage": 3, "ts": "2026-09-27T11:52:52+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "small-business-owners-reddit-community", "stage": 3, "ts": "2026-09-27T11:52:58+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "indie-perfumers-launching-brands", "stage": 3, "ts": "2026-09-27T11:53:09+00:00"}
+{"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T11:54:17+00:00"}
