@@ -1072,3 +1072,15 @@
 {"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "small-industrial-property-investors", "stage": 3, "ts": "2026-09-27T16:09:57+00:00"}
 {"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "small-industrial-property-investors", "stage": 3, "ts": "2026-09-27T16:10:31+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T16:11:29+00:00"}
+{"command": "harvest-search", "kind": "note", "note": "Anonymizer limit: names in running text without a cue (honorific, greeting, sign-off or 'my name is') may survive. Known sender names are always removed.", "review": false, "room": "business-brokers-ma-boutiques", "source": "websearch", "stage": 3, "ts": "2026-09-27T16:12:12+00:00"}
+{"command": "harvest-search", "duplicates": 2168, "kind": "count", "links_seen": 3204, "queries": 215, "queries_matched": 215, "queries_unmatched": [], "records_new": 641, "room": "business-brokers-ma-boutiques", "skipped_junk": 374, "skipped_non_search_results": 0, "skipped_profile_pages": 21, "stage": 3, "ts": "2026-09-27T16:12:12+00:00"}
+{"command": "harvest-search", "kind": "source", "note": "titles and URLs only; the search summary is never stored", "records_new": 641, "room": "business-brokers-ma-boutiques", "source": "websearch", "stage": 3, "ts": "2026-09-27T16:12:12+00:00"}
+{"batches": 21, "command": "batches", "dropped_duplicate_text": 17, "dropped_old": 26, "dropped_undated": 0, "include_undated_records": true, "kept": 1603, "kept_month_at_cutoff": 0, "kind": "count", "loaded": 1646, "lookback_cutoff": "2024-09-26", "lookback_months": 24, "room": "business-brokers-ma-boutiques", "stage": 3, "ts": "2026-09-27T16:12:15+00:00", "undated_kept": 1581}
+{"command": "show", "ids": 8, "kind": "ran", "missing": [], "room": "bpo-contact-centre-operators-india-philippines", "stage": 3, "ts": "2026-09-27T16:12:26+00:00"}
+{"command": "show", "ids": 17, "kind": "ran", "missing": [], "room": "d2c-brands-scaling-past-launch", "stage": 3, "ts": "2026-09-27T16:13:09+00:00"}
+{"command": "show", "ids": 23, "kind": "ran", "missing": [], "room": "d2c-brands-scaling-past-launch", "stage": 3, "ts": "2026-09-27T16:13:38+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "d2c-brands-scaling-past-launch", "stage": 3, "ts": "2026-09-27T16:13:48+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "d2c-brands-scaling-past-launch", "stage": 3, "ts": "2026-09-27T16:14:48+00:00"}
+{"command": "listen-status", "dated": 48, "kind": "ran", "per_round": {"1": 922, "2": 724}, "per_source": {"websearch": 1646}, "records": 1646, "room": "business-brokers-ma-boutiques", "stage": 3, "ts": "2026-09-27T16:16:14+00:00", "undated": 1598}
+{"command": "show", "ids": 8, "kind": "ran", "missing": [], "room": "bpo-contact-centre-operators-india-philippines", "stage": 3, "ts": "2026-09-27T16:16:19+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T16:16:31+00:00"}
