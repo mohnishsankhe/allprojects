@@ -57,19 +57,19 @@ Stage 3 per room:
 | Room | Rounds | Records | Labeled | Saturation | Draft | Quote check |
 |---|---|---|---|---|---|---|
 | active-retail-options-traders | 0 | 0 | 0 | not evaluated | no | not checked |
-| bpo-contact-centre-operators-india-philippines | 0 | 0 | 0 | not evaluated | no | not checked |
-| business-brokers-ma-boutiques | 0 | 0 | 0 | not evaluated | no | not checked |
-| cfa-candidates-community | 0 | 0 | 0 | not evaluated | no | not checked |
+| bpo-contact-centre-operators-india-philippines | 1 | 1211 | 0 | not evaluated | no | not checked |
+| business-brokers-ma-boutiques | 1 | 922 | 0 | not evaluated | no | not checked |
+| cfa-candidates-community | 1 | 850 | 0 | not evaluated | no | not checked |
 | d2c-brands-scaling-past-launch | 0 | 0 | 0 | not evaluated | no | not checked |
-| dubai-real-estate-brokerages-telesales | 0 | 0 | 0 | not evaluated | no | not checked |
-| gre-engineers-india | 0 | 0 | 0 | not evaluated | no | not checked |
-| gre-preppers-worldwide-online | 0 | 0 | 0 | not evaluated | no | not checked |
-| indie-perfumers-launching-brands | 0 | 0 | 0 | not evaluated | no | not checked |
-| lender-insurer-telesales-floors-india | 0 | 0 | 0 | not evaluated | no | not checked |
+| dubai-real-estate-brokerages-telesales | 1 | 912 | 0 | not evaluated | no | not checked |
+| gre-engineers-india | 1 | 880 | 0 | not evaluated | no | not checked |
+| gre-preppers-worldwide-online | 1 | 918 | 0 | not evaluated | no | not checked |
+| indie-perfumers-launching-brands | 1 | 835 | 0 | not evaluated | no | not checked |
+| lender-insurer-telesales-floors-india | 1 | 858 | 320 | not evaluated | no | not checked |
 | outbound-lead-gen-appointment-setting-agencies | 0 | 0 | 0 | not evaluated | no | not checked |
 | salon-spa-owners-india-global | 0 | 0 | 0 | not evaluated | no | not checked |
-| small-business-owners-reddit-community | 0 | 0 | 0 | not evaluated | no | not checked |
-| small-industrial-property-investors | 0 | 0 | 0 | not evaluated | no | not checked |
+| small-business-owners-reddit-community | 1 | 926 | 0 | not evaluated | no | not checked |
+| small-industrial-property-investors | 1 | 978 | 0 | not evaluated | no | not checked |
 | startup-founders-409a-83b-deadlines | 0 | 0 | 0 | not evaluated | no | not checked |
 
 Rooms kept: 15. Pains kept: 0. Stage 6 kept: 0. Survivors (final): 0.

@@ -1,0 +1,91 @@
+{
+  "room": "gre-engineers-india",
+  "round": 1,
+  "note": "Round 1 taxonomy from 859 search-result titles. A pain is a problem the room states, not a topic. Keys are used in labels/*.jsonl.",
+  "pains": [
+    {
+      "key": "verbal-stuck",
+      "label": "My verbal score is stuck. RC, vocab and sentence completion don't improve, and word lists make me procrastinate.",
+      "definition": "A member says their GRE verbal score is low or not improving (scores around 140-150), they struggle with reading comprehension, vocabulary, sentence completion or verbal timing, or they fear a low verbal score will get them rejected.",
+      "added_round": 1
+    },
+    {
+      "key": "which-coaching",
+      "label": "Confused between Jamboree, Princeton Review (Manya), Dilip Oak and the rest. Which coaching centre in my city is worth the fees?",
+      "definition": "A member asks which GRE coaching institute, online course or tutor to pay for, compares named institutes, asks a centre's fees, or reviews a paid coaching. The decision is which paid option, not whether to pay at all.",
+      "added_round": 1
+    },
+    {
+      "key": "coaching-or-self-study",
+      "label": "Do I really need coaching, or can I crack the GRE on my own?",
+      "definition": "A member asks whether coaching is necessary or worth the money, or asks how to prepare without joining any institute.",
+      "added_round": 1
+    },
+    {
+      "key": "which-books-and-resources",
+      "label": "Which books, sites, apps or mocks should I follow? Too many options, don't know which to trust.",
+      "definition": "A member asks for the best books, online resources, apps, mock tests or study material for self-preparation, or which of several sources to follow.",
+      "added_round": 1
+    },
+    {
+      "key": "exam-fees-add-up",
+      "label": "The fee is ₹22,550 (or $205, or is it 205 rupees?). Why so high? What does a retake, reschedule or extra score report cost?",
+      "definition": "A member asks or complains about the GRE registration fee in India, whether to pay in dollars or rupees, the cost of a second attempt, rescheduling, cancellation, score reports, waivers or other hidden costs.",
+      "added_round": 1
+    },
+    {
+      "key": "retake-or-settle",
+      "label": "I got 300-313 and I'm not satisfied. Is it enough, or should I pay to sit again?",
+      "definition": "A member reports a score they are unhappy with (typically 300-315, or a weak section score) and asks whether it is enough or whether to retake, or fears that a low score shuts them out.",
+      "added_round": 1
+    },
+    {
+      "key": "prep-with-a-full-time-job",
+      "label": "I work 9-5 with a commute and huge work pressure. How do I fit GRE prep into 2 months?",
+      "definition": "A working professional asks how to prepare for the GRE alongside a full-time job, or shares how they managed it.",
+      "added_round": 1
+    },
+    {
+      "key": "where-to-start-in-btech",
+      "label": "I'm in BTech (or just finished). When should I start, is it tough, and what do I do first?",
+      "definition": "A beginner, usually a BTech student, asks when to start preparing, whether the GRE is tough, what the exam is like, or simply 'tell me what I do'.",
+      "added_round": 1
+    },
+    {
+      "key": "gre-or-gate",
+      "label": "GRE or GATE (or CAT)? MS abroad, MTech in India, or just keep the job?",
+      "definition": "A member weighs the GRE against GATE, CAT or a job; the path decision that comes before paying for GRE prep.",
+      "added_round": 1
+    },
+    {
+      "key": "is-gre-still-worth-it",
+      "label": "Universities are waiving the GRE. Is it compulsory for MS in the US? Is it worth taking at all now?",
+      "definition": "A member asks whether the GRE is required or worth taking, given waivers and GRE-optional programs, or says the GRE has become pointless.",
+      "added_round": 1
+    },
+    {
+      "key": "at-home-or-test-centre",
+      "label": "Take it at home or at a centre? Setup, ID rules, surprises on the day, and the cheating crackdown on Indian at-home takers.",
+      "definition": "A member asks whether to sit the at-home GRE or a test centre, or shares an at-home experience with problems or surprises; media about at-home cheating and bans in India.",
+      "added_round": 1
+    },
+    {
+      "key": "paid-coaching-was-a-waste",
+      "label": "I paid for coaching or an online course and it did not help. Now I want a refund.",
+      "definition": "A member reports paying a GRE coaching institute or course that was a waste, or fights for a refund. Round 1 found little of this in titles; it is kept so later rounds can look for it.",
+      "added_round": 1
+    },
+    {
+      "key": "profile-and-shortlisting",
+      "label": "Got the score but a low GPA (or the reverse). Which universities match my profile? Someone evaluate my profile.",
+      "definition": "A member asks which universities to apply to with a given GRE score and profile, asks for a profile evaluation, or asks what else beyond the GRE an admit needs.",
+      "added_round": 1
+    },
+    {
+      "key": "which-counsellor-for-applications",
+      "label": "Which agency for university selection, SOP, LOR and visa: Manya, Jamboree, Leap Scholar, The Chopras?",
+      "definition": "A member asks which admissions counsellor or agency to pay for the application process, or asks for reviews of one.",
+      "added_round": 1
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "room": "indie-perfumers-launching-brands",
+  "written_round": 1,
+  "pains": [
+    {
+      "key": "ifra-rules-confusing",
+      "label": "I don't get IFRA: do the rules even apply to a tiny seller, and how do I read the certificate?",
+      "definition": "Confusion about IFRA standards: whether a small or Etsy-scale seller must comply, how to read an IFRA certificate or category limit, and how to get an IFRA document for a formula.",
+      "added_round": 1,
+      "reasoning": "Many Basenotes DIY threads ask exactly this ('Newbie here, confused about IFRA rules', 'Must (very) small businesses, like Etsy sellers, be IFRA compliant?'), and sellers offer IFRA certificate services.",
+      "confidence": "high"
+    },
+    {
+      "key": "safety-assessment-cpsr",
+      "label": "I need a CPSR safety assessment before I can sell in the UK or EU, and it is costly and confusing",
+      "definition": "Getting a Cosmetic Product Safety Report (a signed safety assessment) for each fragrance before UK or EU sale: the price per product, finding an assessor, and problems in the process.",
+      "added_round": 1,
+      "reasoning": "A member thread 'CPSR PROBLEMS UK' plus a dense cluster of assessors selling CPSRs with price pages ('How Much Does a CPSR Cost?').",
+      "confidence": "high"
+    },
+    {
+      "key": "license-to-sell-unclear",
+      "label": "What license, registration or paperwork do I need to sell my perfume legally?",
+      "definition": "Not knowing which permits, registrations or documents are needed to sell: FDA MoCRA facility and product listing, EU CPNP, UK SCPN, India CDSCO or BIS, safety data sheets, a local business licence.",
+      "added_round": 1,
+      "reasoning": "Members ask 'Do I need any license for selling my home-made fragrance?', 'Legal requirements to start DIY perfumery in the Netherlands', 'What sort of license is required ... in India?'; consultancies sell CPNP, SCPN, MoCRA and CDSCO filings.",
+      "confidence": "high"
+    },
+    {
+      "key": "label-rule-deadlines",
+      "label": "New allergen, IFRA 51 and registration deadlines mean I have to redo labels and paperwork by a date",
+      "definition": "Dated rule changes that force rework: EU 82-allergen labelling (July 2026 deadline), the IFRA 51st Amendment restrictions, MoCRA registration deadlines, CLP labels in the UK.",
+      "added_round": 1,
+      "reasoning": "Round 1 shows mostly consultancy and trade-press records about the deadlines ('EU Fragrance Allergen Deadline July 31, 2026', 'IFRA 51st Amendment Imposes Oct. 30 Deadline'); member voices on it are thin so far.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "startup-cost-unknown",
+      "label": "How much does it really cost to start a perfume brand, and is it worth it?",
+      "definition": "Not knowing the full budget to launch (materials, first production run, compliance, packaging, store) or whether the business will pay back.",
+      "added_round": 1,
+      "reasoning": "Members ask 'The cost to open business', 'Full Production Budget', 'How much will the start up cost', 'is it worth it?'; many vendor cost guides answer the same question.",
+      "confidence": "high"
+    },
+    {
+      "key": "bottles-small-quantity",
+      "label": "Can't find good bottles, caps and packaging in small quantities",
+      "definition": "Sourcing quality perfume bottles, crimp caps, atomisers and boxes at low minimums and a sane price, and keeping the same bottle available as the brand grows.",
+      "added_round": 1,
+      "reasoning": "A run of Basenotes threads: 'where to get quality bottles in small qty (2025)', 'NEEDED - Crimped Perfume Bottle Supplier', 'Help me find bottles?'; plus 'Your Bottles Keep Changing'.",
+      "confidence": "high"
+    },
+    {
+      "key": "manufacturer-min-order",
+      "label": "Can't find a manufacturer or filler that will take a small first order",
+      "definition": "Finding a contract manufacturer, private-label house or filler for a small brand; minimum order quantities and the per-unit cost at low volume.",
+      "added_round": 1,
+      "reasoning": "Members ask 'I Want to Mass Produce my own Perfume - How do I do it?', 'How to find a manufacturer for my fragrance line', 'best place to look for manufacturing private perfume brand'; many private-label sellers advertise low MOQ.",
+      "confidence": "high"
+    },
+    {
+      "key": "no-sales",
+      "label": "I set up the store but nobody buys, and nobody can find my brand",
+      "definition": "An online store or marketplace listing gets no orders despite ads or marketing; the brand cannot get found or listed (for example on Fragrantica).",
+      "added_round": 1,
+      "reasoning": "Shopify and Etsy community posts ('Zero Sales For Shopify Store Despite Running Ads', 'No sales. What's wrong with the shop?') and Fragrantica 'Adding new perfume brand to website?'. The Shopify and Etsy titles do not name perfume, so member support is thin.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "marketplace-shop-banned",
+      "label": "Etsy or Amazon banned my shop, pulled my listing or won't approve perfume",
+      "definition": "Marketplace enforcement against perfume sellers: shop suspended, listing deactivated as counterfeit, Amazon hazmat or approval gating for perfume.",
+      "added_round": 1,
+      "reasoning": "Etsy community posts ('my shop is banned', 'Deactivated listing due to alleged counterfeit'), 'Etsy Censored Me... So I Built My Own Store', and 'How to Get Approved to Sell Perfume on Amazon'. Titles rarely name perfume, so member support is thin.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "shipping-hazmat",
+      "label": "Shipping perfume counts as hazmat and the carriers' rules and costs are confusing",
+      "definition": "Alcohol-based perfume is a dangerous good: USPS ground-only rules, courier limits, international shipping, Amazon FBA hazmat program.",
+      "added_round": 1,
+      "reasoning": "eBay community and Pirate Ship posts on shipping perfume as hazmat, USPS pages, and a cluster of guides ('How to Ship Perfume as a Small Brand: Hazmat Rules and Carrier Guide').",
+      "confidence": "moderate"
+    },
+    {
+      "key": "how-to-learn-perfumery",
+      "label": "How do I actually learn perfumery, and are the schools and courses worth the money?",
+      "definition": "Choosing a learning path: self-teaching versus Grasse or ISIPCA-style schools, online courses, which materials to start with, whether a degree is needed.",
+      "added_round": 1,
+      "reasoning": "Quora and Basenotes questions ('I want to become a perfumer. Is a degree necessary?', 'I got offered admission to Grasse Institute of Perfumery, but...', 'Seeking opinion for perfumery training') and a large seller cluster of schools, Udemy courses and beginner kits.",
+      "confidence": "high"
+    },
+    {
+      "key": "materials-cost-waste",
+      "label": "Raw materials are expensive and beginners waste money buying the wrong ones",
+      "definition": "The high cost of aroma chemicals and naturals, how much material a fragrance needs, and money lost on materials that were not needed.",
+      "added_round": 1,
+      "reasoning": "Basenotes threads 'Expen$ive Materials in Perfumery', 'Nothing is more expensive..', 'Average amount of materials per fragrance?', '(Serious) Beginner's List of Raw Materials?'.",
+      "confidence": "high"
+    },
+    {
+      "key": "liability-insurance",
+      "label": "I need product liability insurance to sell at markets or to shops and don't know where to get it or what it costs",
+      "definition": "Finding and pricing product liability cover for a small handmade perfume seller.",
+      "added_round": 1,
+      "reasoning": "One member thread ('Product liability insurance for small sellers in the U.S.?') and a cluster of insurers for handmade cosmetics; member support is thin in round 1.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "hiring-a-perfumer",
+      "label": "I can't afford or find a perfumer to create the fragrance for me",
+      "definition": "Brand founders without formulation skill trying to hire a perfumer, freelancer or fragrance house; the fees for custom scent creation.",
+      "added_round": 1,
+      "reasoning": "Basenotes 'Looking to hire a perfumer', 'Cost for a house to create 100ml of fragrance', Upwork client posts ('Perfumer Needed for EWG-Certified Fragrance Development'), and sellers from a $30 Fiverr gig to 'How Much Does It Cost to Hire a Perfumer?'.",
+      "confidence": "high"
+    },
+    {
+      "key": "dont-know-where-to-start",
+      "label": "I want to launch a perfume brand and I'm completely clueless about the steps",
+      "definition": "A general request for the roadmap: what to do first, in what order, with no clear guide.",
+      "added_round": 1,
+      "reasoning": "Members write 'Tasked with starting a perfume brand, completely clueless', 'Help needed: Start a perfume business - tips anyone?', 'Starting a Perfume Business –– Advice?', and many Quora 'how do I start' questions from India.",
+      "confidence": "high"
+    },
+    {
+      "key": "supplier-trust",
+      "label": "Which suppliers can I trust? I'm afraid of scams and bad wholesalers",
+      "definition": "Finding reliable suppliers for raw materials, oils and bottles; experiences with bad or scam suppliers.",
+      "added_round": 1,
+      "reasoning": "Basenotes 'My experiences with (european) DIY Suppliers', Quora 'From where will I get raw materials?', and a Shopify post naming a perfume scammer; member support is thin in round 1.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "batch-went-wrong",
+      "label": "My batch went wrong (cloudy, discoloured, faded) and I don't know why",
+      "definition": "Production or formulation failures: stability, colour change, cloudiness, scent fading, mistakes that ruin a batch.",
+      "added_round": 1,
+      "reasoning": "One member video ('Perfume production \"fail\" ... can you spot what went wrong?') and vendor 'formulation mistakes' guides; thin in round 1, kept because it is a distinct problem the room names.",
+      "confidence": "low"
+    },
+    {
+      "key": "what-to-charge",
+      "label": "I don't know what to charge for my perfume or for custom scent work",
+      "definition": "Pricing a finished perfume or a bespoke creation; understanding what perfume really costs to make versus what it sells for.",
+      "added_round": 1,
+      "reasoning": "Basenotes 'Fees for custom scents' and a few pricing explainers ('Why do perfumes cost so much?', 'Perfume Pricing Statistics 2026'); member support is thin in round 1.",
+      "confidence": "low"
+    }
+  ]
+}
