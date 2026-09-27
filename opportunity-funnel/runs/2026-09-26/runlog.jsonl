@@ -843,3 +843,12 @@
 {"command": "harvest-search", "kind": "source", "note": "titles and URLs only; the search summary is never stored", "records_new": 852, "room": "d2c-brands-scaling-past-launch", "source": "websearch", "stage": 3, "ts": "2026-09-27T13:26:16+00:00"}
 {"batches": 24, "command": "batches", "dropped_duplicate_text": 52, "dropped_old": 5, "dropped_undated": 0, "include_undated_records": true, "kept": 1827, "kept_month_at_cutoff": 0, "kind": "count", "loaded": 1884, "lookback_cutoff": "2024-09-26", "lookback_months": 24, "room": "d2c-brands-scaling-past-launch", "stage": 3, "ts": "2026-09-27T13:26:19+00:00", "undated_kept": 1812}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T13:30:04+00:00"}
+{"command": "show", "ids": 3, "kind": "ran", "missing": [], "room": "gre-preppers-worldwide-online", "stage": 3, "ts": "2026-09-27T13:30:45+00:00"}
+{"command": "relabel-pack", "keys": ["work-experience-charter", "test-centre-problems", "charter-no-job"], "kind": "ran", "packs": 3, "room": "cfa-candidates-community", "round": 2, "stage": 3, "ts": "2026-09-27T13:31:19+00:00"}
+{"command": "show", "ids": 10, "kind": "ran", "missing": [], "room": "gre-preppers-worldwide-online", "stage": 3, "ts": "2026-09-27T13:31:51+00:00"}
+{"command": "listen-status", "dated": 20, "kind": "ran", "per_round": {"1": 1032, "2": 852}, "per_source": {"websearch": 1884}, "records": 1884, "room": "d2c-brands-scaling-past-launch", "stage": 3, "ts": "2026-09-27T13:32:03+00:00", "undated": 1864}
+{"command": "listen-status", "dated": 23, "kind": "ran", "per_round": {"1": 858, "2": 863}, "per_source": {"websearch": 1721}, "records": 1721, "room": "lender-insurer-telesales-floors-india", "stage": 3, "ts": "2026-09-27T13:32:04+00:00", "undated": 1698}
+{"command": "relabel-pack", "keys": ["emails-land-in-spam", "app-tool-bills-rising"], "kind": "ran", "packs": 1, "room": "d2c-brands-scaling-past-launch", "round": 2, "stage": 3, "ts": "2026-09-27T13:32:24+00:00"}
+{"command": "show", "ids": 4, "kind": "ran", "missing": [], "room": "gre-engineers-india", "stage": 3, "ts": "2026-09-27T13:33:17+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "gre-engineers-india", "stage": 3, "ts": "2026-09-27T13:33:23+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T13:35:06+00:00"}

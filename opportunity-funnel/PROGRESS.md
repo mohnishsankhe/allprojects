@@ -74,7 +74,7 @@ Stage 3 per room:
 | salon-spa-owners-india-global | 2 | 2302 | 1340 | round 1: 1340 records, not saturated | no | not checked |
 | small-business-owners-reddit-community | 2 | 2219 | 1696 | round 1: 896 records, not saturated | no | not checked |
 | small-industrial-property-investors | 2 | 1784 | 1108 | round 1: 948 records, not saturated | no | not checked |
-| startup-founders-409a-83b-deadlines | 2 | 1720 | 813 | round 1: 813 records, not saturated | no | not checked |
+| startup-founders-409a-83b-deadlines | 2 | 1720 | 973 | round 1: 813 records, not saturated | no | not checked |
 
 Rooms kept: 15. Pains kept: 0. Stage 6 kept: 0. Survivors (final): 0.
 <!-- /auto:status -->

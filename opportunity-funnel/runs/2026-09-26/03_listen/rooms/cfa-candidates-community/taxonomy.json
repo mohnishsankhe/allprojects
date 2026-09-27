@@ -1,7 +1,7 @@
 {
   "room": "cfa-candidates-community",
-  "round": 1,
-  "note": "Round 1 records are search-result titles only (no post bodies). Pains are drawn from member titles on AnalystForum, 300Hours, Quora, Blind and careers360. No reddit.com result came back in round 1.",
+  "round": 2,
+  "note": "Round 1 records are search-result titles only (no post bodies). Pains are drawn from member titles on AnalystForum, 300Hours, Quora, Blind and careers360. No reddit.com result came back in round 1. Round 2 records are titles only too, again with no reddit.com result; round 2 added work-experience-charter, test-centre-problems and charter-no-job. Where other round 2 themes belong: score retabulation after a fail is failed-what-next; 'is it too late at my age' is worth-it; loans, instalments, card payments, employer sponsorship and charterholder dues are total-fees; passport and ID rules are rules-and-deadlines; deferral for illness or a death in the family is postpone-or-refund.",
   "pains": [
     {
       "key": "failed-what-next",
@@ -121,6 +121,30 @@
       "definition": "The candidate needs a CFA Institute scholarship (Access or university) to afford the fee and struggles with the application essay or personal statement.",
       "added_round": 1,
       "reasoning": "Two member questions ask how to write the scholarship essay, a distinct task with money at stake.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "work-experience-charter",
+      "label": "Passed but need 2 more years work experience",
+      "definition": "The charter needs about 4,000 hours (3 years or more) of relevant work experience. Candidates who pass without it cannot get the charter; they ask which jobs count, how to describe and prove them, and why approval takes so long. Candidates unsure whether they need work experience before they may sit the exams belong here too.",
+      "added_round": 2,
+      "reasoning": "Round 2 holds about 20 member titles on AnalystForum, Wall Street Oasis and Quora about the work-experience rule, from 'Passed but need 2 more years work experience' to slow approval. rules-and-deadlines covers sitting the exams, not earning the charter.",
+      "confidence": "high"
+    },
+    {
+      "key": "test-centre-problems",
+      "label": "Test Centre Unavailability",
+      "definition": "The exams are now taken on computer at Prometric test centres. Candidates find no centre in their city or no free seat, meet scheduling errors or cancelled sittings, have to travel or change centres, and worry about working on screen (scratch work, highlighting, typing Level 3 answers). Rescheduling because the candidate is not ready or cannot sit stays under postpone-or-refund.",
+      "added_round": 2,
+      "reasoning": "Round 2 holds over 20 member titles on AnalystForum, 300Hours and Quora about test centres, Prometric and the computer format; about half report a problem, e.g. 'Why CFAI needs to drop Prometric'. No existing pain covers where and how the exam is sat.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "charter-no-job",
+      "label": "passed all three & still unemployed or underemployed?",
+      "definition": "The candidate passed all three levels or already holds the charter, and still cannot find a finance job or is stuck in a job that does not use it, after years of study and fees. Candidates with only Level 1 or 2 passed, or a failed attempt, stay under job-without-charter.",
+      "added_round": 2,
+      "reasoning": "Round 2 shows about seven member posts from three-level passers and charterholders who are still jobless (AnalystForum, Wall Street Oasis, Quora). job-without-charter covers people without the charter, so these posts had no fitting pain.",
       "confidence": "moderate"
     }
   ]
