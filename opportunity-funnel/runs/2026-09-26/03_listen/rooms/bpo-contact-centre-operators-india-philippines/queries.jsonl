@@ -249,3 +249,147 @@
 {"round": 2, "query": "client wants to cut our rate per hour call center what to do", "kind": "phrasing"}
 {"round": 2, "query": "paano kumuha ng US client para sa maliit na call center", "kind": "phrasing"}
 {"round": 2, "query": "BPO project security deposit refund nahi mila", "kind": "phrasing"}
+{"round": 3, "query": "site:vicidial.org forum carrier blocking calls 603 declined spam", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum DIDs flagged low answer rate new numbers", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum CNAM caller name display outbound", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum local presence caller ID area code match", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum robocall mitigation database carrier requirement", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum call time restrictions state calling hours holidays", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum two party consent recording announcement", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum Ofcom UK abandoned calls rule campaign", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum India DND list scrub TRAI", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum TCPA litigator list scrub lawsuit", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum manual dial only mode TCPA cell phones", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum hacked fraudulent international calls carrier suspended account", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum brute force attack firewall dynamic portal", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum server compromised calls to premium rate numbers", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum give client access to reports and recordings", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum recordings storage full archive retention", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum billable time report agent hours client invoice", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum agent shifts timeclock schedule enforcement", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum inbound interval report staffing forecast agents", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum GDPR delete lead data request", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum restrict agents export leads data theft", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum HIPAA compliant dialer healthcare encryption", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum client security audit penetration test vulnerabilities", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum live transfer campaign billable transfers buyer", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum paid support cost hourly rate vicidial group", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum hardware for 100 agents servers cost bandwidth", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum hosted vicidial provider price per seat", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum moving from Five9 to vicidial cost", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum carrier overcharged minutes billing increment", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum paid developer disappeared installation incomplete", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum bad leads list disconnected numbers wasted", "kind": "forum"}
+{"round": 3, "query": "site:vicidial.org forum starting new call center 50 seats setup", "kind": "forum"}
+{"round": 3, "query": "site:eflo.net VICIDIALforum hacked international calls bill", "kind": "forum"}
+{"round": 3, "query": "site:eflo.net VICIDIALforum caller ID blocked carrier", "kind": "forum"}
+{"round": 3, "query": "site:eflo.net VICIDIALforum call center India Philippines", "kind": "forum"}
+{"round": 3, "query": "site:news.ycombinator.com I run a call center in the Philippines", "kind": "forum"}
+{"round": 3, "query": "site:news.ycombinator.com call center India owner AI voice agents clients", "kind": "forum"}
+{"round": 3, "query": "site:indiehackers.com call center outsourcing agency clients", "kind": "forum"}
+{"round": 3, "query": "site:warriorforum.com offshore call center caller ID blocked US campaign", "kind": "forum"}
+{"round": 3, "query": "site:lowendtalk.com vicidial VoIP server call center", "kind": "forum"}
+{"round": 3, "query": "site:webhostingtalk.com vicidial dialer server hosting call center", "kind": "forum"}
+{"round": 3, "query": "site:expat.com forum Philippines call center business owner", "kind": "forum"}
+{"round": 3, "query": "site:linkedin.com/posts BPO owner client payment delayed salaries", "kind": "forum"}
+{"round": 3, "query": "site:linkedin.com/posts small BPO lost account to AI voice bot", "kind": "forum"}
+{"round": 3, "query": "site:linkedin.com/posts call center owner price per hour race to the bottom", "kind": "forum"}
+{"round": 3, "query": "site:threads.com BPO project fraud upfront call center", "kind": "forum"}
+{"round": 3, "query": "site:olx.in call center setup for sale seats", "kind": "forum"}
+{"round": 3, "query": "site:quora.com our BPO client is replacing agents with AI voice bots what should we do", "kind": "qa"}
+{"round": 3, "query": "site:quora.com how much do BPO companies charge per hour per agent in the Philippines", "kind": "qa"}
+{"round": 3, "query": "site:quora.com what is the per seat rate for an international voice process in India", "kind": "qa"}
+{"round": 3, "query": "site:quora.com how much does ISO 27001 certification cost for a small BPO", "kind": "qa"}
+{"round": 3, "query": "site:quora.com our client asked for a SOC 2 report for our call center", "kind": "qa"}
+{"round": 3, "query": "site:quora.com how does the DPDP Act affect call centers and BPO companies in India", "kind": "qa"}
+{"round": 3, "query": "site:quora.com how much investment is needed to start a 10 seat call center in India", "kind": "qa"}
+{"round": 3, "query": "site:quora.com what is the cost per seat per month to run a BPO in the Philippines", "kind": "qa"}
+{"round": 3, "query": "site:quora.com is seat leasing better than setting up my own call center", "kind": "qa"}
+{"round": 3, "query": "site:quora.com my VoIP server was hacked and made international calls who pays the bill", "kind": "qa"}
+{"round": 3, "query": "site:quora.com how to secure a VICIdial Asterisk server from hackers", "kind": "qa"}
+{"round": 3, "query": "site:quora.com is VICIdial really free what does it cost to run for a call center", "kind": "qa"}
+{"round": 3, "query": "site:quora.com what permits do I need to open a small call center in the Philippines", "kind": "qa"}
+{"round": 3, "query": "site:quora.com do I need STPI or SEZ registration for my BPO to export services", "kind": "qa"}
+{"round": 3, "query": "site:quora.com do I need GST and a trade license to start a call center from home", "kind": "qa"}
+{"round": 3, "query": "site:quora.com why did Jio or Airtel block my SIM for telecalling too many calls", "kind": "qa"}
+{"round": 3, "query": "site:quora.com is it legal for an Indian call center to call US numbers TCPA", "kind": "qa"}
+{"round": 3, "query": "site:quora.com what is the penalty for calling DND numbers from a telecalling company", "kind": "qa"}
+{"round": 3, "query": "site:quora.com how much does it cost to hire and train a call center agent in the Philippines", "kind": "qa"}
+{"round": 3, "query": "site:quora.com can a BPO recover training cost if an agent leaves bond agreement", "kind": "qa"}
+{"round": 3, "query": "site:quora.com new hires do not show up on day one call center hiring", "kind": "qa"}
+{"round": 3, "query": "site:quora.com fake candidates proxy interviews BPO hiring", "kind": "qa"}
+{"round": 3, "query": "site:quora.com client penalized our call center for SLA miss how to handle", "kind": "qa"}
+{"round": 3, "query": "site:quora.com what happens when a BPO fails a client quality audit", "kind": "qa"}
+{"round": 3, "query": "site:quora.com I paid onboarding fees to a BPO process provider and never got paid for the work", "kind": "qa"}
+{"round": 3, "query": "site:quora.com how much commission do BPO consultants charge for getting a process", "kind": "qa"}
+{"round": 3, "query": "site:quora.com how do small BPOs pay salaries when clients pay invoices after 60 days", "kind": "qa"}
+{"round": 3, "query": "site:quora.com where can I buy genuine data for telecalling my data vendor gave fake numbers", "kind": "qa"}
+{"round": 3, "query": "site:quora.com is buying mobile number database for telecalling legal in India", "kind": "qa"}
+{"round": 3, "query": "site:quora.com how do Filipino BPO owners get their first foreign client", "kind": "qa"}
+{"round": 3, "query": "site:quora.com client pulled out the account small BPO Philippines what now", "kind": "qa"}
+{"round": 3, "query": "site:serverfault.com asterisk call center server hacked international calls toll fraud", "kind": "qa"}
+{"round": 3, "query": "site:security.stackexchange.com call center agents taking card payments over phone PCI", "kind": "qa"}
+{"round": 3, "query": "site:law.stackexchange.com offshore call center calling US consumers TCPA liability", "kind": "qa"}
+{"round": 3, "query": "site:justanswer.com call center client refuses to pay invoice", "kind": "qa"}
+{"round": 3, "query": "site:justanswer.com TCPA lawsuit call center outbound calls owner", "kind": "qa"}
+{"round": 3, "query": "site:avvo.com call center TCPA lawsuit offshore vendor", "kind": "qa"}
+{"round": 3, "query": "site:lawrato.com BPO project fraud security deposit recover", "kind": "qa"}
+{"round": 3, "query": "site:kaanoon.com call center client not paying dues legal notice", "kind": "qa"}
+{"round": 3, "query": "site:mouthshut.com process provider took advance payment no work", "kind": "reviews"}
+{"round": 3, "query": "site:trustpilot.com VoIP provider call center account suspended charges", "kind": "reviews"}
+{"round": 3, "query": "site:mouthshut.com Knowlarity review", "kind": "reviews"}
+{"round": 3, "query": "site:mouthshut.com Tata Tele Business Services review", "kind": "reviews"}
+{"round": 3, "query": "site:g2.com CallHippo reviews cons call drops", "kind": "reviews"}
+{"round": 3, "query": "site:capterra.com Tata Tele Smartflo reviews", "kind": "reviews"}
+{"round": 3, "query": "site:youtube.com seat leasing business Philippines profit or loss", "kind": "video"}
+{"round": 3, "query": "site:youtube.com call center business band kyu hua loss story", "kind": "video"}
+{"round": 3, "query": "site:youtube.com vicidial hacked toll fraud secure server", "kind": "video"}
+{"round": 3, "query": "site:youtube.com DLT registration telemarketer voice calls kaise kare", "kind": "video"}
+{"round": 3, "query": "site:youtube.com paano mag start ng BPO business sa Pilipinas", "kind": "video"}
+{"round": 3, "query": "site:naukri.com VoIP security engineer asterisk call center", "kind": "jobs"}
+{"round": 3, "query": "site:ph.jobstreet.com recruitment specialist BPO bulk hiring voice account", "kind": "jobs"}
+{"round": 3, "query": "site:ph.jobstreet.com PEZA compliance officer BPO", "kind": "jobs"}
+{"round": 3, "query": "site:naukri.com AI voice bot project manager BPO call center", "kind": "jobs"}
+{"round": 3, "query": "site:linkedin.com/jobs caller ID reputation number management call center", "kind": "jobs"}
+{"round": 3, "query": "site:naukri.com retention manager BPO attrition", "kind": "jobs"}
+{"round": 3, "query": "site:ph.jobstreet.com information security officer BPO ISO 27001", "kind": "jobs"}
+{"round": 3, "query": "TRAI directive August 2024 SIP PRI promotional calls unregistered telemarketers blacklisted two years", "kind": "official"}
+{"round": 3, "query": "TRAI digital consent acquisition DCA framework businesses 2025", "kind": "official"}
+{"round": 3, "query": "CERT-In directions six hours incident reporting BPO call centre", "kind": "official"}
+{"round": 3, "query": "FCC gateway provider rules foreign originated calls STIR SHAKEN offshore call centers", "kind": "official"}
+{"round": 3, "query": "FCC declaratory ruling AI generated voices robocalls TCPA February 2024", "kind": "official"}
+{"round": 3, "query": "Keep Call Centers in America Act 2025 bill offshore call centers AI disclosure", "kind": "official"}
+{"round": 3, "query": "HIRE Act 25 percent outsourcing excise tax bill 2025 Senate", "kind": "official"}
+{"round": 3, "query": "National Do Not Call Registry annual fee per area code fiscal year 2026", "kind": "official"}
+{"round": 3, "query": "BSP circular collection agents calling hours Philippines financial consumer protection", "kind": "official"}
+{"round": 3, "query": "GST intermediary services place of supply amendment 2025 BPO export", "kind": "official"}
+{"round": 3, "query": "DPDP Rules 2025 data processor obligations outsourcing contracts BPO", "kind": "official"}
+{"round": 3, "query": "state mini TCPA laws 2025 Florida Oklahoma Maryland calling hours telemarketers", "kind": "official"}
+{"round": 3, "query": "ACMA Do Not Call Register penalty offshore call centre Philippines", "kind": "official"}
+{"round": 3, "query": "site:indiankanoon.org BPO project security deposit cheated call centre consumer complaint", "kind": "official"}
+{"round": 3, "query": "Caller ID reputation monitoring service pricing per number", "kind": "pricing"}
+{"round": 3, "query": "VICIdial security hardening firewall setup service price", "kind": "pricing"}
+{"round": 3, "query": "BPO recruitment agency fee per hire Philippines call center agents", "kind": "pricing"}
+{"round": 3, "query": "SOC 2 Type 2 audit cost small company India", "kind": "pricing"}
+{"round": 3, "query": "Bolna AI voice agent pricing per minute", "kind": "pricing"}
+{"round": 3, "query": "Exotel voicebot pricing per minute", "kind": "pricing"}
+{"round": 3, "query": "COPC certification cost call center", "kind": "pricing"}
+{"round": 3, "query": "plug and play call center seats on rent Noida Mohali price per seat", "kind": "pricing"}
+{"round": 3, "query": "Outsource Accelerator supplier listing fee BPO", "kind": "pricing"}
+{"round": 3, "query": "DNC scrubbing service pricing TCPA litigator list", "kind": "pricing"}
+{"round": 3, "query": "PEZA registration consultant fee small BPO", "kind": "pricing"}
+{"round": 3, "query": "how to protect vicidial server from toll fraud hackers", "kind": "phrasing"}
+{"round": 3, "query": "how much to charge per hour for call center services in the Philippines", "kind": "phrasing"}
+{"round": 3, "query": "how to fill empty seats in my call center after losing a client", "kind": "phrasing"}
+{"round": 3, "query": "is COPC certification worth it for a small BPO", "kind": "phrasing"}
+{"round": 3, "query": "how to handle client SLA penalty in BPO contract", "kind": "phrasing"}
+{"round": 3, "query": "how to price AI voice agent services for my call center clients", "kind": "phrasing"}
+{"round": 3, "query": "client ne payment nahi diya call center salary kaise de", "kind": "phrasing"}
+{"round": 3, "query": "telecalling data kahan se kharide genuine", "kind": "phrasing"}
+{"round": 3, "query": "telecalling SIM block ho gaya kya kare", "kind": "phrasing"}
+{"round": 3, "query": "कॉल सेंटर का क्लाइंट पेमेंट नहीं दे रहा क्या करें", "kind": "phrasing"}
+{"round": 3, "query": "कॉल सेंटर के नंबर स्पैम में क्यों दिख रहे हैं", "kind": "phrasing"}
+{"round": 3, "query": "nalugi sa BPO business hindi nagbayad ang kliyente", "kind": "phrasing"}
+{"round": 3, "query": "Philippines BPO AI job cuts 2026 small BPOs losing accounts", "kind": "blog"}
+{"round": 3, "query": "HIRE Act impact Philippine BPO industry IBPAP", "kind": "blog"}
+{"round": 3, "query": "Keep Call Centers in America Act impact India BPO", "kind": "blog"}

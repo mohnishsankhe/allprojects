@@ -169,6 +169,7 @@ def compute_counts(run, room: str) -> dict:
     by_voice = {v: 0 for v in VOICES}
     by_source: dict = {}
     by_kind: dict = {}
+    members_by_round: dict = {}
     member_with_pain = money_total = failed_total = 0
     for rid in ids:
         label = labels[rid]
@@ -178,6 +179,9 @@ def compute_counts(run, room: str) -> dict:
         by_source[src] = by_source.get(src, 0) + 1
         kind = records.source_kind((stored.get(rid) or {}).get("url", ""))
         by_kind[kind] = by_kind.get(kind, 0) + 1
+        if voice == "member":
+            rnd = str(records.record_round(stored.get(rid) or {}))
+            members_by_round[rnd] = members_by_round.get(rnd, 0) + 1
         keys = label["pain_keys"]
         if voice == "member":
             if keys:
@@ -216,6 +220,7 @@ def compute_counts(run, room: str) -> dict:
             "source_kinds": sorted(k for k, n in by_kind.items() if n >= kind_min),
             "source_kind_min_records": kind_min,
             "member_records": by_voice["member"],
+            "member_records_by_round": dict(sorted(members_by_round.items(), key=lambda x: int(x[0]))),
             "member_records_with_pain": member_with_pain,
             "money_mentions": money_total,
             "failed_spend_mentions": failed_total,
@@ -512,6 +517,8 @@ def cmd_count(args) -> int:
     print(f"Room {room}: {counts['labeled']} labeled records "
           f"(member {bv['member']}, seller {bv['seller']}, media {bv['media']}, other {bv['other']}).")
     print("Sources: " + ", ".join(f"{k} {v}" for k, v in t["by_source"].items()))
+    print("Member records by round (records collected in that round): "
+          + (", ".join(f"round {k} {v}" for k, v in t["member_records_by_round"].items()) or "none"))
     need = int(common.load_kill_rules().get("stage3", {}).get("min_source_kinds", 3))
     print("Source kinds (kind of site each record points to): " + ", ".join(f"{k} {v}" for k, v in t["by_kind"].items())
           + f". Kinds with at least {t['source_kind_min_records']} records: {len(t['source_kinds'])} (the rule asks for {need}).")

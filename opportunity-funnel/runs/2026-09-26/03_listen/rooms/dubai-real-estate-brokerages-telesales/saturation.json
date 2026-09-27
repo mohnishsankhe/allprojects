@@ -25,6 +25,35 @@
       ],
       "window": 300,
       "window_used": 882
+    },
+    {
+      "evaluable": false,
+      "new_pains": [],
+      "new_records": 590,
+      "note": "not evaluable: the last 590 records hold 8 member records, fewer than 30, too few to show a new pain",
+      "rank_changes": [],
+      "records": 1472,
+      "round": 2,
+      "saturated": false,
+      "taxonomy_added": [
+        "aml-goaml-compliance"
+      ],
+      "taxonomy_keys": [
+        "agent-churn",
+        "aml-goaml-compliance",
+        "brokerage-squeeze",
+        "cold-calling-ban",
+        "commission-squeeze",
+        "lead-cost-quality",
+        "leads-lost-follow-up",
+        "licence-card-renewals",
+        "listing-ad-rules",
+        "not-enough-leads-listings",
+        "portal-costs"
+      ],
+      "window": 300,
+      "window_member_records": 8,
+      "window_used": 590
     }
   ],
   "stop_reason": null,

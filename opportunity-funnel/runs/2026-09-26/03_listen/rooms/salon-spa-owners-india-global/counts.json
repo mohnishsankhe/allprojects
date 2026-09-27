@@ -1,5 +1,5 @@
 {
-  "labeled": 1340,
+  "labeled": 2255,
   "notes": [],
   "pains": {
     "booking-payment-systems": {
@@ -7,6 +7,7 @@
       "failed_spend_record_ids": [],
       "label": "Which booking system? Going over to computer bookings and taking card payments",
       "media_record_ids": [
+        "050d4800a44a1f2d",
         "0f53fa127d177e1b",
         "2f69840bd68420e3",
         "3810364ed332322c",
@@ -15,35 +16,60 @@
         "5344cf0a9422c155",
         "6536605159abcfe7",
         "722071a1148a5ae9",
+        "739a3a49dc91067b",
         "97085be50a316654",
         "a4c321fb8679cacb",
-        "c5699e70e33c273a"
+        "c5699e70e33c273a",
+        "fd59fce8ef908242"
       ],
-      "media_records": 11,
+      "media_records": 14,
       "member_record_ids": [
         "024f5802062c9201",
+        "0a4638079321d283",
+        "0bfc6544fd4f3152",
+        "0cec5848e4bd97d5",
         "21791c76cdb8632d",
+        "227d8bda3635d5bc",
         "311d52eccbd2630d",
         "3237c91c1c746165",
+        "324cdc5a2956904b",
+        "3fcc778e6f1322c3",
+        "3ff282883347486f",
         "41482886949cf4b3",
+        "5613e0963f400da4",
         "5992fce89bacbf44",
+        "622b3930f00a0d13",
+        "72fe3a5cb915cfd7",
+        "793ba92d8ae5c6aa",
+        "7f42cb158e25cef5",
         "805ff701ebb3e9cf",
         "88cb7640c2276250",
+        "93469a176bf89812",
         "9b4fb6bbec178804",
         "9d7678278acb9cf3",
+        "9edec10c12fb4752",
+        "a8f2009ddb2914ad",
+        "bd0dbfcd7d888b66",
+        "cf34dcbf1c551870",
         "d02e225a284d9d43",
+        "d0ae8def71719910",
         "dc91fff74d5bed5f",
         "dd88e25cebbf0d79",
         "e0d2b417ce20a2bd",
+        "e9c0f386f441a488",
+        "ed6a6ffaa4afdc6b",
         "f79ca68f013becf9"
       ],
-      "money_mentions": 3,
+      "money_mentions": 6,
       "money_record_ids": [
+        "0bfc6544fd4f3152",
+        "227d8bda3635d5bc",
         "311d52eccbd2630d",
         "88cb7640c2276250",
-        "9b4fb6bbec178804"
+        "9b4fb6bbec178804",
+        "a8f2009ddb2914ad"
       ],
-      "record_count": 15,
+      "record_count": 35,
       "seller_record_ids": [
         "088b19914d33da37",
         "0fa64e0c791a3ba3",
@@ -51,24 +77,35 @@
         "131b5ac45cde5443",
         "16829fc0a0e91029",
         "175eb0e42c37cde3",
+        "1a93e35375e3b7ad",
         "266c9f6839eebdae",
+        "27ea677259dc4d1f",
+        "2eaa34e7c7b4154c",
         "2f10669974e5f03f",
+        "35f9217ecdd37c2d",
         "385cea4f82807c9e",
+        "417c43a65d3178f7",
         "436d7a07b551a87d",
+        "450e1bd57ed88baf",
         "49a85f3f63015e24",
         "4f94aa4582f158fd",
         "63effa6302132f4e",
+        "65a55b46f5bd3ffd",
         "694a438bf7ac11df",
         "6db2b4abccfdf8ba",
         "72c32a583fa17b03",
+        "79841bc867886c8d",
         "870b82065ce95c7e",
         "891a25735421cc2c",
         "89917cbac964d9f7",
+        "8d404c9bfa648514",
         "98867eb3e1c94379",
         "9b1d16a5c5c54847",
         "9d92393cb6c757d5",
+        "a447e76732bd59fd",
         "a49821503ee1e8e1",
         "a60bb77b01200961",
+        "a80e74dd74d2987b",
         "ad5afb620bdae5e0",
         "af09d46553a81166",
         "b18435f0c74b4ff6",
@@ -90,7 +127,38 @@
         "f26f7b4736f6bc69",
         "f735e072047d75d1"
       ],
-      "seller_records": 44
+      "seller_records": 55
+    },
+    "buying-selling-salon": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Buying or selling an established salon: how much, and what's the goodwill worth?",
+      "media_record_ids": [],
+      "media_records": 0,
+      "member_record_ids": [
+        "0ceb76cb8c969db6",
+        "17c5e4c808faf985",
+        "3c93df9464615ee6",
+        "63b0601969f5ef4d",
+        "6c0ba157cde03695",
+        "7d87e91a63f9bcba",
+        "8c57d9a9eb7191f7",
+        "8f72f9cd136d18e8",
+        "a01505072b517128",
+        "b5d049221781a04c",
+        "ba0dd1305853562e",
+        "cf342fe1986f4be6",
+        "cf83c679e91eacf8",
+        "e17fa5c0e4199901",
+        "f472dd58f3b734aa"
+      ],
+      "money_mentions": 1,
+      "money_record_ids": [
+        "a01505072b517128"
+      ],
+      "record_count": 15,
+      "seller_record_ids": [],
+      "seller_records": 0
     },
     "chair-room-rent": {
       "failed_spend_mentions": 0,
@@ -100,24 +168,52 @@
       "media_records": 0,
       "member_record_ids": [
         "23dd2b0847b9eefb",
+        "4e571baae6501077",
+        "52d52591012b7729",
+        "6f2d90113336557a",
         "6f318085174ff6a3",
+        "7b8f2481c7abaa28",
+        "7edd664f99e0b9cc",
+        "83518bea860234d3",
+        "8f2c8b82c4ac5de3",
         "995eddce9ccdde7c",
         "ae418d8340603880",
         "ae8e9cf81d2f141a",
-        "b826c01a4372e1da"
+        "aec1176c72c09510",
+        "b826c01a4372e1da",
+        "be949500db2b9af8",
+        "fdb2bd89733298a7"
       ],
-      "money_mentions": 6,
+      "money_mentions": 15,
       "money_record_ids": [
         "23dd2b0847b9eefb",
+        "4e571baae6501077",
+        "52d52591012b7729",
+        "6f2d90113336557a",
         "6f318085174ff6a3",
+        "7b8f2481c7abaa28",
+        "7edd664f99e0b9cc",
+        "83518bea860234d3",
+        "8f2c8b82c4ac5de3",
         "995eddce9ccdde7c",
         "ae418d8340603880",
         "ae8e9cf81d2f141a",
-        "b826c01a4372e1da"
+        "b826c01a4372e1da",
+        "be949500db2b9af8",
+        "fdb2bd89733298a7"
       ],
-      "record_count": 6,
-      "seller_record_ids": [],
-      "seller_records": 0
+      "record_count": 16,
+      "seller_record_ids": [
+        "067870a5c7005515",
+        "347c8a60cbb37b45",
+        "6c1884b939362d72",
+        "79012d26099586c8",
+        "95a419b7fb534991",
+        "9afee2db645f499c",
+        "aeb3dda155b34236",
+        "c70460527961aa99"
+      ],
+      "seller_records": 8
     },
     "franchise-worth-it": {
       "failed_spend_mentions": 0,
@@ -151,6 +247,7 @@
         "19c02e27c37e6f22",
         "36445f84d8159ab2",
         "40e575d78b5b7743",
+        "510fa7f82e117b55",
         "58994986ce4a1d3f",
         "649025f07b6477e0",
         "6abfc1fb414e90e4",
@@ -166,7 +263,7 @@
         "de034102d4f4ce2a",
         "ffcbf469acdc4a80"
       ],
-      "seller_records": 18
+      "seller_records": 19
     },
     "getting-new-clients": {
       "failed_spend_mentions": 0,
@@ -174,27 +271,45 @@
       "label": "No clients: how to get more clients",
       "media_record_ids": [
         "0014081a1a0b0de6",
+        "0f52dfda00f7d3df",
         "11a9c9005adc9099",
+        "326be8800833bd3c",
         "3c7762155316e6a8",
-        "5dd2141606378bc0"
+        "5dd2141606378bc0",
+        "6b623e5246ed84c9",
+        "89f96f3beabd7c2a",
+        "93ea9e736417e84c",
+        "c063ab2a99abc618"
       ],
-      "media_records": 4,
+      "media_records": 10,
       "member_record_ids": [
         "02155d2c1ea0735d",
+        "079008f21cc9288f",
         "1b4e612e6b6f1670",
         "1df033f1634eec47",
+        "2aea4a27cc2bd9c3",
         "33d0434ce0995d4e",
         "3f6a007bd6681729",
+        "536dd4ebdbe39457",
+        "5cd6a6438e3dc53e",
         "5d8b9d219d444b88",
+        "6b6de6ea5cc169da",
         "6f318085174ff6a3",
         "6fedb51dfbf6fecb",
         "737e0a7fa48b28a7",
+        "74deb52b2fc8f1b4",
+        "8af1afc63f7b6992",
+        "9bc809d34ad310aa",
+        "a28086dd05155917",
         "a32a94455b462a99",
         "a5b5330ce503220f",
         "ab0470359a2146e4",
         "ad27f1882ec6032b",
         "ae418d8340603880",
         "bd721cd72e7dda3f",
+        "e300dd3165d03afe",
+        "e3149e0bc643f9fc",
+        "ea68cc511314f5cc",
         "ee3b37b07cae161f"
       ],
       "money_mentions": 3,
@@ -203,7 +318,7 @@
         "737e0a7fa48b28a7",
         "ae418d8340603880"
       ],
-      "record_count": 16,
+      "record_count": 28,
       "seller_record_ids": [
         "198524efed380a90",
         "2615715e204a78ae",
@@ -218,6 +333,7 @@
         "b80cb01c6be50d8b",
         "c134039910d43a94",
         "c1dd6e168ecb8e46",
+        "d75fbe0b53ffafc5",
         "de667bbcdd5ceaf2",
         "ee5fd821634b06ef",
         "f501d3bb4e586dc0",
@@ -225,7 +341,7 @@
         "f781d114f36b2fff",
         "faaaf4b8738481c9"
       ],
-      "seller_records": 19
+      "seller_records": 20
     },
     "licences-gst-rules": {
       "failed_spend_mentions": 0,
@@ -234,41 +350,79 @@
       "media_record_ids": [
         "0ab528ff76c4e7b0",
         "0e2087d4794eddd3",
+        "109d3c37361d6399",
         "11075647018b33f5",
         "135702cc4f3a646e",
         "1730396e18c1b05f",
+        "1e11cc8ddff3bdd9",
+        "3a88229d194a5696",
         "3b20eb536d1d1972",
         "4122d0a64bc7cdf9",
         "43297087329c664d",
         "5970c07aba709d74",
         "5b7126f8786f6b40",
+        "685279a9c77397de",
         "7218ac664ec5c158",
         "771041a119f71e79",
+        "7912d93d88af79be",
         "7ba57f49f71db2a8",
         "7bd9c74675111b0e",
+        "7e5566dc3c0f04f3",
         "8165818620be626e",
         "8d625d9a6bc89711",
         "8e2702dcecc5fe3b",
         "9911a87a83d895b9",
         "a144652c55eb5231",
+        "a5e3eb94f9b0e193",
         "bc2ba6652c1e1481",
+        "bed1e3d0a1ee7f6d",
+        "dce218eaa412b448",
         "ddc60a9370d0cab5",
         "e5dd612175591622",
         "f18e8920a86a6c00",
         "f50780eaabf41272",
         "f8099208fa18d3f6"
       ],
-      "media_records": 25,
+      "media_records": 34,
       "member_record_ids": [
+        "0597d525e61efb17",
+        "0cf23c875c0ae47e",
+        "102568848d30f3c2",
+        "1735ad824471dc62",
+        "1f4f6d39bf600158",
+        "25ee36afff845843",
+        "3102b0c7cc90971f",
+        "47043c876afa6bdd",
         "5689764cb5b283fe",
-        "725a5fa74e64da97"
+        "56d1f8011453803e",
+        "68d5cf665a8574a9",
+        "6f2d90113336557a",
+        "725a5fa74e64da97",
+        "7b8f2481c7abaa28",
+        "88aad93658730fca",
+        "88dbeed48bccbcb2",
+        "8a7299dd1600e0fa",
+        "a1e1e4d36ac44967",
+        "b8458a7c0387b4dc",
+        "be949500db2b9af8",
+        "c0421a9329f36fce",
+        "c7ac44705d821e25",
+        "dfef20b85043dfb0",
+        "eb1d7813c368ade1",
+        "ffe5c5ab470fccea"
       ],
-      "money_mentions": 1,
+      "money_mentions": 5,
       "money_record_ids": [
-        "5689764cb5b283fe"
+        "5689764cb5b283fe",
+        "6f2d90113336557a",
+        "7b8f2481c7abaa28",
+        "be949500db2b9af8",
+        "c0421a9329f36fce"
       ],
-      "record_count": 2,
+      "record_count": 25,
       "seller_record_ids": [
+        "01189ae12f859465",
+        "0241d50cb8a6810f",
         "0679afaac123e825",
         "1219ec3cd92b1f9e",
         "183ca932667f3383",
@@ -280,6 +434,7 @@
         "351fb1aea4bb5233",
         "35935cb26891af7c",
         "35aa614641338436",
+        "397eb9de6cec642e",
         "3d483312cb49c06e",
         "3e30b67d5756c398",
         "3f39bec59653996d",
@@ -293,14 +448,21 @@
         "57c394941d22ae6d",
         "5836786d26dfaa8a",
         "589c54d07027f770",
+        "596fb4bc8426ba03",
         "5dfc1c05808ba3c6",
         "6306bd0180b8013d",
+        "6671a2f095fe2fea",
         "68d3e56ad863e89d",
         "6bd848ad6fee3b6c",
+        "6befaab5b5e80673",
         "6dfc907a8c00c97f",
         "6f29a05d8dd880e6",
+        "704bea7930e7d3bb",
         "716e6df54c581ce3",
+        "72680795acb16f4d",
+        "77d2c5e50cbaa791",
         "7d0e9749e9988a31",
+        "8497b1e6c6035b35",
         "9066a046755eae67",
         "92146cc84a802968",
         "9771cf7e213dbe06",
@@ -311,13 +473,18 @@
         "9ec269fcfa84eb66",
         "9f47e754bf0e6a5c",
         "9f85b69e24722c7b",
+        "a2c808e0cb4406f1",
         "a302184ddce0e599",
+        "a30c2b4cbe2c902d",
         "a49821503ee1e8e1",
         "aa8a65963deed75b",
         "ad9f5ca01cdfec76",
+        "ade26e60eeaf853d",
+        "aeb3dda155b34236",
         "b0484367fd54331a",
         "b0df3ef985b1de53",
         "b1e891ffcba44ff9",
+        "b82cdf1ac7b8266f",
         "bb36b01cc2fb8b3c",
         "be4a46c8c1d062db",
         "c1ba9fc4fd9427d5",
@@ -327,19 +494,26 @@
         "e3eb71b6b2b652e3",
         "e6a5a01603034173",
         "e700eb0f80e2d48e",
+        "ebc03f4975ed99fc",
         "f00f5b82e45c4496",
-        "f690ab4610452bc1"
+        "f3762f5bc0132076",
+        "f690ab4610452bc1",
+        "f93ae88361c5183f"
       ],
-      "seller_records": 60
+      "seller_records": 78
     },
     "losing-money-failing": {
       "failed_spend_mentions": 0,
       "failed_spend_record_ids": [],
       "label": "Salon losing money, in debt or failing",
       "media_record_ids": [
+        "01b34134fcb1581b",
         "1730396e18c1b05f",
+        "1fbe79249d03b59d",
         "3bd629394880129f",
+        "442a553b7d2309d5",
         "46edab5b9975875c",
+        "51170dac941950ad",
         "56dd7e5c8b9d3001",
         "629204b411235e11",
         "64a40bbe4fe444ad",
@@ -348,43 +522,68 @@
         "b3d54b3564b71a44",
         "b488e0c682854e56",
         "ba6b66c2dbb12cfa",
+        "be44315e2795a12d",
         "c1ac41677b6c4bf4",
         "c4844550ff9fb8df",
         "e3ab11d53e2b793d",
-        "f204b3eea4f29bcc"
+        "f204b3eea4f29bcc",
+        "f863aefb821d299d",
+        "fcf8e6e1dd972844"
       ],
-      "media_records": 15,
+      "media_records": 22,
       "member_record_ids": [
-        "594c1c17b0507a4d"
+        "14e6eb6276d3ce11",
+        "1dd5af27113f7f00",
+        "246186dc0fc48202",
+        "2710950e3c76a6ed",
+        "4539477bb6023ca8",
+        "594c1c17b0507a4d",
+        "7417b88f29e0e25a",
+        "7639816fa606a284",
+        "7ab5626cf80820a9"
       ],
-      "money_mentions": 0,
-      "money_record_ids": [],
-      "record_count": 1,
+      "money_mentions": 2,
+      "money_record_ids": [
+        "246186dc0fc48202",
+        "7ab5626cf80820a9"
+      ],
+      "record_count": 9,
       "seller_record_ids": [
+        "376198718bae1939",
         "48f1a58fe756de76",
         "49107f3ea29d3935",
         "5487e6ed19283efb",
+        "7019d0a4543c6b4b",
         "950ee76d98c27ae6",
+        "999c262f1a088151",
         "addeaa1fce34261c",
+        "cdb9ba3a67f4e615",
         "d72c5895305e51cf",
-        "e4d7857ca59c46dc"
+        "e20d0a76aa6dd388",
+        "e4d7857ca59c46dc",
+        "e95efd9d1be719b4"
       ],
-      "seller_records": 7
+      "seller_records": 13
     },
     "losing-regulars": {
       "failed_spend_mentions": 0,
       "failed_spend_record_ids": [],
       "label": "Losing clients; regulars not coming back",
       "media_record_ids": [
+        "68ac68be57502847",
+        "af7616a3fe16fe37",
         "c65a0f523cf83351"
       ],
-      "media_records": 1,
+      "media_records": 3,
       "member_record_ids": [
+        "0e7e7423c756ff09",
+        "9e2de3d9492afc7f",
+        "f2df6b5ef96ceb0c",
         "f718c95b93ac9c0c"
       ],
       "money_mentions": 0,
       "money_record_ids": [],
-      "record_count": 1,
+      "record_count": 4,
       "seller_record_ids": [
         "9496e078bdf51545",
         "ee5fd821634b06ef"
@@ -402,12 +601,18 @@
       "media_records": 2,
       "member_record_ids": [
         "3a0a3c2142220831",
+        "411ac8100b7ffe64",
+        "4631aee2118e6e12",
         "475a8c147c0d348e",
+        "64ef6340c7115e2d",
+        "6c7aa6503fcb4265",
+        "91bca798203f75e7",
+        "d979112b0a601790",
         "f8cf6b13b6f4be65"
       ],
       "money_mentions": 0,
       "money_record_ids": [],
-      "record_count": 3,
+      "record_count": 9,
       "seller_record_ids": [
         "09efd0e145c33c18",
         "106ae8fb4b6f49ee",
@@ -416,6 +621,7 @@
         "421b52dedadcb462",
         "4281bd59e61f3195",
         "42c8e7bd027d451f",
+        "645dd9cd5dc591b5",
         "6e5a76913a4e34af",
         "7be5dcb3a362601c",
         "8667047c84851fc6",
@@ -431,46 +637,93 @@
         "ec3bbd4691cc73d8",
         "ed7ef437b108ad55"
       ],
-      "seller_records": 21
+      "seller_records": 22
+    },
+    "new-treatment-worth-it": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Is it worth adding laser or another new treatment? Which machine, and will it pay back?",
+      "media_record_ids": [],
+      "media_records": 0,
+      "member_record_ids": [
+        "1854a8fdc53e8be4",
+        "1e37da064fad3589",
+        "302b449d1f35b1fa",
+        "50376ec4554cb6d8",
+        "5d068c53778d1709",
+        "5f227cf77894e99c",
+        "668b1ad6433c5985",
+        "9d0339390330f739",
+        "c2994c828bd91ef3",
+        "d74e86bafc021383",
+        "d90dac811fd4b25d",
+        "df2ba01d165feba9"
+      ],
+      "money_mentions": 3,
+      "money_record_ids": [
+        "302b449d1f35b1fa",
+        "c2994c828bd91ef3",
+        "d74e86bafc021383"
+      ],
+      "record_count": 12,
+      "seller_record_ids": [],
+      "seller_records": 0
     },
     "no-shows-late-cancellations": {
       "failed_spend_mentions": 0,
       "failed_spend_record_ids": [],
       "label": "Clients not turning up or cancelling at the last minute",
       "media_record_ids": [
+        "0ae3f5129de4f657",
+        "2630e65a233e1cba",
+        "35de0024d8e21a92",
+        "4bd225ac21cd5698",
         "84f3a2133973e648",
         "b7138ff82c70a3a1",
+        "bb96bb483e5db238",
         "be1659678398f96f",
         "c65a0f523cf83351",
+        "c77ada9c25bc5fad",
+        "d6670d0d6cce46d4",
         "f2ce5926254474bb",
+        "f9259afc576e590f",
         "fe43ddcc9af659ca"
       ],
-      "media_records": 6,
+      "media_records": 14,
       "member_record_ids": [
+        "0ed5629bd573bb71",
         "1c2d4e1766641c44",
         "1d890630660ddde0",
         "523c5a608240e837",
         "52e3924ddceabda8",
         "55babc809c587ce9",
+        "5678a45b95a4ff4b",
+        "5f605497bc64a6b1",
         "60e8353a928c96a1",
         "8d47dc827a492d2d",
         "9115a28900a41abe",
         "9a4c3f5ef5a7a012",
+        "9e2de3d9492afc7f",
         "a28d3efea602392e",
         "a53578f982925be7",
+        "b3dadf83b4d04288",
         "b9253b6ce414defb",
         "d1b77e86a1010605",
-        "d31b2a7cff0c2987"
+        "d31b2a7cff0c2987",
+        "e937caba24e55431",
+        "eee9cf79ceb7ef20",
+        "fa292cdca80b02c5"
       ],
-      "money_mentions": 5,
+      "money_mentions": 6,
       "money_record_ids": [
         "1d890630660ddde0",
         "52e3924ddceabda8",
         "9115a28900a41abe",
         "a28d3efea602392e",
-        "a53578f982925be7"
+        "a53578f982925be7",
+        "fa292cdca80b02c5"
       ],
-      "record_count": 14,
+      "record_count": 22,
       "seller_record_ids": [
         "033e922eda6bb37c",
         "05d3d6477688b045",
@@ -478,10 +731,13 @@
         "1561f6ae7cfce8e0",
         "194f8c13fff6ee37",
         "1edcf5c3a68f64f4",
+        "1ee8b3181082dc99",
         "23604ec0ff42bc60",
+        "2706c3307de642ca",
         "2724209dea9589c6",
         "2959be33dbc8b4fb",
         "2b062e7bda0887de",
+        "2d5a8888e11d18ff",
         "34d0ab9956747136",
         "37c38fec7871b332",
         "4075dd0dfc3160a7",
@@ -489,6 +745,7 @@
         "49dd73ed84c4aeec",
         "4d40f3dc0413cf3f",
         "52cb92e256ee117d",
+        "61eb5ef9d4cd2dfa",
         "636a03703279c39c",
         "76f77931a7155a8c",
         "88d462a477e4a5d6",
@@ -498,9 +755,12 @@
         "9248bc1cb0394f26",
         "9d990808de993e07",
         "9f9e159fc61bd7a2",
+        "a10e45e48fafee9b",
         "a9feb2c9b540a9a4",
         "ac6289cf903327de",
+        "ba28013f6544e3aa",
         "c4df196285d6db83",
+        "c716e9ea7593f44e",
         "dabd899ea3eb4562",
         "dbae76904bcf6426",
         "e429730f6da727c6",
@@ -512,7 +772,7 @@
         "f55679ae66ffa624",
         "f7cfc25b31a84fb1"
       ],
-      "seller_records": 39
+      "seller_records": 46
     },
     "opening-costs": {
       "failed_spend_mentions": 0,
@@ -530,20 +790,43 @@
       ],
       "media_records": 8,
       "member_record_ids": [
+        "1cb320f27c839e4c",
+        "1e776b61d5702822",
+        "2d363791c41f903f",
+        "63b40e607929af19",
         "9739d0b0667c6fd5",
-        "9d1a040ca87b0ed5"
+        "9d1a040ca87b0ed5",
+        "9d85d20b2ff13a61",
+        "bc4f490fd6d6e86a",
+        "d260e254666945a7",
+        "e394eab35b125443",
+        "f131f258fbcf272d"
       ],
-      "money_mentions": 2,
+      "money_mentions": 11,
       "money_record_ids": [
+        "1cb320f27c839e4c",
+        "1e776b61d5702822",
+        "2d363791c41f903f",
+        "63b40e607929af19",
         "9739d0b0667c6fd5",
-        "9d1a040ca87b0ed5"
+        "9d1a040ca87b0ed5",
+        "9d85d20b2ff13a61",
+        "bc4f490fd6d6e86a",
+        "d260e254666945a7",
+        "e394eab35b125443",
+        "f131f258fbcf272d"
       ],
-      "record_count": 2,
+      "record_count": 11,
       "seller_record_ids": [
         "268123c49b154bca",
-        "975424864c834db0"
+        "3d3c0e48afb3c00c",
+        "4175b3334cc3b14d",
+        "975424864c834db0",
+        "9f538e4728beed63",
+        "b72fbf96b0dca966",
+        "ebc03f4975ed99fc"
       ],
-      "seller_records": 2
+      "seller_records": 7
     },
     "owner-burnout": {
       "failed_spend_mentions": 0,
@@ -553,15 +836,19 @@
         "2380d8e00e45acd0",
         "3e4bb0c3609c14b3",
         "6978ebfa9490d0ad",
+        "6b3e69cf4d2e9564",
+        "78c707c70fee3c42",
         "9d97cb5b3b425316"
       ],
-      "media_records": 4,
+      "media_records": 6,
       "member_record_ids": [
+        "04a0d7a09c1a72f8",
+        "12279e211c34e58e",
         "6228765c91e60043"
       ],
       "money_mentions": 0,
       "money_record_ids": [],
-      "record_count": 1,
+      "record_count": 3,
       "seller_record_ids": [
         "0552935af15d07b5",
         "15f0b85b6f6e6e8c",
@@ -574,19 +861,25 @@
       "failed_spend_record_ids": [],
       "label": "Paying for Justdial, deals and ads that bring fake leads, not clients",
       "media_record_ids": [
-        "8fe6fea5deebe36f"
+        "8fe6fea5deebe36f",
+        "f38fa6725447fe73"
       ],
-      "media_records": 1,
-      "member_record_ids": [],
+      "media_records": 2,
+      "member_record_ids": [
+        "055c71cab397ede2",
+        "a28086dd05155917",
+        "fbe1870cdaeb67d5"
+      ],
       "money_mentions": 0,
       "money_record_ids": [],
-      "record_count": 0,
+      "record_count": 3,
       "seller_record_ids": [
         "25379a96965126c8",
         "878deda20d35be69",
+        "b542161493fdabbf",
         "c1dd6e168ecb8e46"
       ],
-      "seller_records": 3
+      "seller_records": 4
     },
     "setting-prices": {
       "failed_spend_mentions": 0,
@@ -594,17 +887,46 @@
       "label": "What to charge, and raising prices without losing clients",
       "media_record_ids": [
         "254c5094ef8abcaf",
+        "42fb916d6db41805",
         "cea56ec667b310a0"
       ],
-      "media_records": 2,
+      "media_records": 3,
       "member_record_ids": [
-        "a62bb76b6dd77d1e"
+        "318636e5a7cca212",
+        "33c639ae006a5272",
+        "3a15e3bb88ff23a9",
+        "3b6bb54b87361cb7",
+        "43737733e6fb9534",
+        "4d6932a4d17f41d7",
+        "5a15154a1fa2dd10",
+        "668317994e1dc639",
+        "701b9455c09e1b9b",
+        "71c7e7ef4ae095b3",
+        "a62bb76b6dd77d1e",
+        "d46ecd260ad0b012",
+        "e0173513a4187f50",
+        "fc0f2e0a5db719b4",
+        "fdce2e20f12b08df"
       ],
-      "money_mentions": 1,
+      "money_mentions": 15,
       "money_record_ids": [
-        "a62bb76b6dd77d1e"
+        "318636e5a7cca212",
+        "33c639ae006a5272",
+        "3a15e3bb88ff23a9",
+        "3b6bb54b87361cb7",
+        "43737733e6fb9534",
+        "4d6932a4d17f41d7",
+        "5a15154a1fa2dd10",
+        "668317994e1dc639",
+        "701b9455c09e1b9b",
+        "71c7e7ef4ae095b3",
+        "a62bb76b6dd77d1e",
+        "d46ecd260ad0b012",
+        "e0173513a4187f50",
+        "fc0f2e0a5db719b4",
+        "fdce2e20f12b08df"
       ],
-      "record_count": 1,
+      "record_count": 15,
       "seller_record_ids": [
         "1f7b874f5ab4faa6",
         "232ed9e9b2ccfc4a",
@@ -624,25 +946,46 @@
       "failed_spend_record_ids": [],
       "label": "'Free' booking software with hidden fees and a cut on new clients",
       "media_record_ids": [
+        "050d4800a44a1f2d",
         "0b83b032459e0e2d",
+        "38814301ddeb6153",
         "6536605159abcfe7",
         "a794701ecf449d48",
         "c5699e70e33c273a"
       ],
-      "media_records": 4,
-      "member_record_ids": [],
-      "money_mentions": 0,
-      "money_record_ids": [],
-      "record_count": 0,
+      "media_records": 6,
+      "member_record_ids": [
+        "246186dc0fc48202",
+        "78e38a5b6042b587",
+        "793ba92d8ae5c6aa",
+        "92d37bee420d4156",
+        "9928e7399c0b8a9e",
+        "9b57105a80227dd9",
+        "a6dd7b49821e888c",
+        "b9d0cd7b175ff19d"
+      ],
+      "money_mentions": 7,
+      "money_record_ids": [
+        "246186dc0fc48202",
+        "78e38a5b6042b587",
+        "92d37bee420d4156",
+        "9928e7399c0b8a9e",
+        "9b57105a80227dd9",
+        "a6dd7b49821e888c",
+        "b9d0cd7b175ff19d"
+      ],
+      "record_count": 8,
       "seller_record_ids": [
         "06a13ffec7db1067",
         "088b19914d33da37",
         "0fa64e0c791a3ba3",
+        "10cd467ec1c628eb",
         "1fbfd87e981511f4",
         "21d0c0f32742d92f",
         "2a41505a86b6b286",
         "3683491e457e08e9",
         "3ae8b6242844a0ba",
+        "444a06793a0cc60d",
         "49a85f3f63015e24",
         "4c9c4b454ff4356a",
         "4f94aa4582f158fd",
@@ -651,17 +994,22 @@
         "551473d3f0125ab0",
         "5cb66353eea37a24",
         "65f5fc67a4c1d4be",
+        "711ce8b2b98955c7",
+        "731997a4b7e30912",
         "73844dd8102d0a02",
         "738f27613009e892",
         "73fa4af268f49c64",
         "78db92566511d9d7",
+        "79841bc867886c8d",
         "7e7c33591644a096",
         "870b82065ce95c7e",
         "89917cbac964d9f7",
+        "8d404c9bfa648514",
         "92e8697cf8c42cae",
         "96a215512453427a",
         "979ce909c29f7588",
         "a07c4f5a5c5c3ae1",
+        "a10e45e48fafee9b",
         "abbb129817282134",
         "aeda1279153d09a0",
         "b8df2e22b7a7cac0",
@@ -677,6 +1025,7 @@
         "d6fd5148c3bc5e4e",
         "dd7cb7b834b1095f",
         "de79d1b832db46cb",
+        "e2fe6815e722da38",
         "e577781f2a7e6247",
         "e724051650aa1860",
         "eaac7c2569ff646a",
@@ -684,29 +1033,39 @@
         "ed88d70e33ebbdad",
         "f26f7b4736f6bc69",
         "f735e072047d75d1",
+        "fae2960d8f674a49",
         "fbbfc19311af1821"
       ],
-      "seller_records": 50
+      "seller_records": 59
     },
     "staff-hiring-quitting": {
       "failed_spend_mentions": 0,
       "failed_spend_record_ids": [],
       "label": "Can't find or keep good staff; staff quit",
       "media_record_ids": [
+        "0dd6ddbdde2ca506",
         "25e3b001627c9069",
+        "4e8aef3447591f2f",
         "4f631508e43785a5",
+        "58a587d90c78914a",
         "607a6c902e1325b4",
         "629204b411235e11",
+        "639f91a9e39795d8",
+        "793fd75ab9d5fbea",
         "7c65e40b1767afc8"
       ],
-      "media_records": 5,
+      "media_records": 10,
       "member_record_ids": [
+        "0d0ebc9bd0337c3b",
         "13ab49a8dec5658c",
-        "9dd058085d35b896"
+        "8370073555713ccd",
+        "9dd058085d35b896",
+        "c778f1e14b3cb052",
+        "d0c8a73cb55544f1"
       ],
       "money_mentions": 0,
       "money_record_ids": [],
-      "record_count": 2,
+      "record_count": 6,
       "seller_record_ids": [
         "77ccd2a8b3edd794",
         "81cedcbc2fa5fa5b",
@@ -715,16 +1074,61 @@
       ],
       "seller_records": 4
     },
+    "staff-pay-commission": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "How much commission or wage to pay staff, and can they be self-employed?",
+      "media_record_ids": [],
+      "media_records": 0,
+      "member_record_ids": [
+        "334d8d9dba628a42",
+        "3cd9ce20f0e25b1a",
+        "42ff5b5cb537d889",
+        "47b7e6d106f2218c",
+        "4e571baae6501077",
+        "52024c62a031219f",
+        "677ac598a1a9154b",
+        "6d961a71dbf182e0",
+        "6e8b58da664bde5e",
+        "7385236b8285123c",
+        "7a9960f267b6a3c8",
+        "995eddce9ccdde7c",
+        "b8fc8446c36a2150",
+        "bbd27997cba18020",
+        "c6441001e2b34384",
+        "ea2ebca34fcc5665",
+        "f54e390f2fb09b2b"
+      ],
+      "money_mentions": 11,
+      "money_record_ids": [
+        "334d8d9dba628a42",
+        "3cd9ce20f0e25b1a",
+        "4e571baae6501077",
+        "677ac598a1a9154b",
+        "6d961a71dbf182e0",
+        "6e8b58da664bde5e",
+        "7385236b8285123c",
+        "995eddce9ccdde7c",
+        "bbd27997cba18020",
+        "c6441001e2b34384",
+        "f54e390f2fb09b2b"
+      ],
+      "record_count": 17,
+      "seller_record_ids": [],
+      "seller_records": 0
+    },
     "staff-taking-clients": {
       "failed_spend_mentions": 0,
       "failed_spend_record_ids": [],
       "label": "Staff taking salon clients",
       "media_record_ids": [
+        "38eb01e68ba4e0f5",
         "706e79c0dfda24cf",
         "b896888033bd224f",
-        "c6f3d58ee4fb4fa6"
+        "c6f3d58ee4fb4fa6",
+        "f4bf722a5652f4c6"
       ],
-      "media_records": 3,
+      "media_records": 5,
       "member_record_ids": [
         "556d6464e84cf04c",
         "624198575d369e90",
@@ -736,12 +1140,14 @@
       "record_count": 4,
       "seller_record_ids": [
         "437f6aa6809f264f",
+        "633af554fc6bbd19",
+        "9baa7d7cc2573c1f",
         "c7e9d769296a7164",
         "d776c8007d18f530",
         "f86489a4b574921b",
         "fe8cd7aeef2fef9d"
       ],
-      "seller_records": 5
+      "seller_records": 7
     },
     "unhappy-clients-refunds": {
       "failed_spend_mentions": 0,
@@ -750,63 +1156,85 @@
       "media_record_ids": [
         "198dc3a043765a29",
         "1d058a1287897396",
+        "2630e65a233e1cba",
         "357c3155ba587976",
+        "6bc37f03f7c66c7f",
         "7168502a5d44f755",
+        "7df3acb92d3043e9",
         "90c1f55d6e8451dd",
         "93250639467660b3",
-        "c47697642e955c27"
+        "c47697642e955c27",
+        "da05ac06f2a73415",
+        "e05e596d4f87d6e4",
+        "f11b1f69c4c8c8e1"
       ],
-      "media_records": 7,
+      "media_records": 13,
       "member_record_ids": [
+        "009049729f7408b7",
         "3b2b570a5673de3b",
+        "57f345c102e0e87d",
+        "6681fe04183717fd",
+        "8d05ece2bdb49274",
+        "bbb59b87a056da06",
+        "bc6c6b028788d7ee",
         "bcf053311a3007d6",
+        "c350d7a244c2ccaf",
         "ce867c26b51a3d4f",
         "fc5639fe5df00b11"
       ],
-      "money_mentions": 3,
+      "money_mentions": 6,
       "money_record_ids": [
+        "009049729f7408b7",
         "3b2b570a5673de3b",
+        "57f345c102e0e87d",
+        "8d05ece2bdb49274",
         "bcf053311a3007d6",
         "ce867c26b51a3d4f"
       ],
-      "record_count": 4,
+      "record_count": 11,
       "seller_record_ids": [
+        "0c41e1cbe9988cad",
+        "1e4b9aa737a44dc6",
+        "2f3e390c275176fa",
         "37aafd514f9a659c",
+        "435c73bd1d6440fb",
+        "45844968dd6ca949",
         "49f51cdb9ccad68e",
+        "4f5729638fa43607",
         "951c4d75ff982bbb",
         "c5c14edc68850abb",
         "f7e7354bff6a865c"
       ],
-      "seller_records": 5
+      "seller_records": 11
     }
   },
-  "records_in_manifest": 1340,
+  "records_in_manifest": 2255,
   "room": "salon-spa-owners-india-global",
   "totals": {
     "by_kind": {
-      "blog_or_site": 624,
-      "forum": 66,
-      "jobs": 80,
-      "news": 28,
-      "official": 19,
-      "qa": 95,
-      "reviews": 301,
-      "social": 3,
-      "video": 124
+      "blog_or_site": 859,
+      "forum": 366,
+      "jobs": 133,
+      "news": 35,
+      "official": 38,
+      "qa": 242,
+      "reviews": 356,
+      "social": 19,
+      "video": 207
     },
     "by_source": {
-      "websearch": 1340
+      "websearch": 2255
     },
     "by_voice": {
-      "media": 202,
-      "member": 82,
-      "other": 578,
-      "seller": 478
+      "media": 284,
+      "member": 359,
+      "other": 994,
+      "seller": 618
     },
-    "failed_spend_mentions": 0,
-    "member_records": 82,
-    "member_records_with_pain": 72,
-    "money_mentions": 25,
+    "failed_spend_mentions": 1,
+    "member_records": 359,
+    "member_records_with_pain": 244,
+    "money_mentions": 113,
     "source_kind_min_records": 5,
     "source_kinds": [
       "blog_or_site",
@@ -816,6 +1244,7 @@
       "official",
       "qa",
       "reviews",
+      "social",
       "video"
     ]
   }

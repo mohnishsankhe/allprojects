@@ -511,3 +511,21 @@ def test_taxonomy_extra_fields_like_reviewed_rounds_are_ignored(run, h):
     data["reviewed_rounds"] = [1, 2]
     common.write_json(p, data)
     assert set(counts.load_taxonomy(run, ROOM)) == {"a", "b", "c"}
+
+
+def test_count_reports_member_records_by_round(run, h, cli):
+    ids1 = _ids(run, 4)
+    ids2 = _ids(run, 3, round=2)
+    records.make_batches(run, ROOM)
+    h.write_taxonomy(run, ROOM, ["a"])
+    m = common.read_json(records.manifest_path(run, ROOM))
+    voices = {ids1[0]: "member", ids1[1]: "member", ids1[2]: "seller", ids1[3]: "member",
+              ids2[0]: "other", ids2[1]: "member", ids2[2]: "media"}
+    for name, bids in m["batches"].items():
+        h.write_labels(run, ROOM, name, [h.label(rid, voice=voices[rid], keys=["a"] if voices[rid] == "member" else []) for rid in bids])
+    r = cli("count", "--room", ROOM, "--run", "2026-09-26")
+    assert r.returncode == 0, r.stderr
+    t = common.read_json(common.room_dir(run, ROOM) / "counts.json")["totals"]
+    assert t["member_records_by_round"] == {"1": 3, "2": 1}
+    assert "Member records by round (records collected in that round): round 1 3, round 2 1" in r.stdout
+    assert common.load_kill_rules()["stage3"]["exhausted_round_new_member_records"] == 10

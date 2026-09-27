@@ -1,5 +1,5 @@
 {
-  "labeled": 882,
+  "labeled": 1472,
   "notes": [],
   "pains": {
     "agent-churn": {
@@ -7,21 +7,66 @@
       "failed_spend_record_ids": [],
       "label": "Agents fail and leave; retention rates remain weak",
       "media_record_ids": [
+        "1818d08ba892c1e3",
         "2bde480ffa644194",
         "5317e0a3cc5fa44c",
+        "99043447b6d17f43",
         "d3c9121ee2575a08",
         "e4b82cf8fc8eb1bd"
       ],
-      "media_records": 4,
+      "media_records": 6,
+      "member_record_ids": [
+        "c19a25506fbdd11d"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 1,
+      "seller_record_ids": [
+        "023e9197cf62141d",
+        "682b2b522e7034eb",
+        "9bffbff544c49d56",
+        "e35b58d0e8e711f2"
+      ],
+      "seller_records": 4
+    },
+    "aml-goaml-compliance": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "goAML registration deadlines and money-laundering fines for real estate brokers",
+      "media_record_ids": [
+        "19455368599ad44e",
+        "3548e86fa2acabff",
+        "389030e6bbe8ca20",
+        "7a1d8fb1d8cc42cd",
+        "86683b1fd70d736c",
+        "8ce5f4fe83fd19fc",
+        "b1e44e06938c6d26",
+        "dfd413e1866210fb",
+        "f2d0c952132a97fc"
+      ],
+      "media_records": 9,
       "member_record_ids": [],
       "money_mentions": 0,
       "money_record_ids": [],
       "record_count": 0,
       "seller_record_ids": [
-        "023e9197cf62141d",
-        "e35b58d0e8e711f2"
+        "03ee56a0d12d1a9a",
+        "24cb766c49ab5fd7",
+        "3cecf87aa3f9f2ef",
+        "43faabe56f13d6bc",
+        "4c4a626cfc80b2cf",
+        "84bf7e29edc074ea",
+        "88c1867695493f0e",
+        "929ecc1a5959151c",
+        "985b33c33891e64e",
+        "a848d5f05864bd9c",
+        "b6c0f36bf7199e32",
+        "c7daf2e02e7592ea",
+        "cd8a05c6f9eff5b5",
+        "eee4115793d5e9a5",
+        "ffcc337708ac1eab"
       ],
-      "seller_records": 2
+      "seller_records": 15
     },
     "brokerage-squeeze": {
       "failed_spend_mentions": 0,
@@ -51,6 +96,8 @@
       "label": "Cold calling now costs the firm a Dh50,000 fine and agents a suspension",
       "media_record_ids": [
         "00a0638b442c5200",
+        "00fb3bd8c06e458e",
+        "0359106852080809",
         "057ed7b37b63dc30",
         "05fd1f8d1dc12b65",
         "0dc0bf140ca69bdd",
@@ -66,27 +113,35 @@
         "46998e34340ded56",
         "53c2e1cd0b6c9396",
         "58627736dcafc0fe",
+        "599ebc9f6c0e78f4",
         "6128236565a2f294",
         "6749853f364f60a0",
         "684b8de19781b441",
         "69d63f687364074f",
         "6d29228164dcd136",
+        "6d33520d31012cbe",
         "6f9d5d15ea3854b0",
         "7404be12c80c3d7e",
+        "78a4bd5f09253523",
         "7bf19c2eb573d37c",
         "8ce49fcf24996cc9",
         "8d635ec52fa87748",
         "94ae226d5d8d034d",
         "9a70d53a2fb12f97",
         "9df22705eb3c8627",
+        "a0a3cb3b7b5ecbba",
+        "a90dedd0dcfbc258",
         "a9a4f7f12bf14a19",
         "ab0face9bbcf75f0",
         "bb73835d82b82461",
         "c4f5edcec0c7d48d",
+        "cf853e7624012873",
         "d37922f3521d23fb",
         "d5119a30df0ce742",
         "d76d2b4bc8699cd1",
         "d78beb8b97e140a4",
+        "db6b1eea7d005307",
+        "dbd8218cb75f0bcb",
         "df1bac7f946b7c6f",
         "e0864037dcb8e075",
         "e7e6885b30510ea1",
@@ -95,37 +150,44 @@
         "fa33c848dc648aa4",
         "fb2b833ad7e5416e"
       ],
-      "media_records": 44,
+      "media_records": 54,
       "member_record_ids": [],
       "money_mentions": 0,
       "money_record_ids": [],
       "record_count": 0,
       "seller_record_ids": [
+        "7d80f544fc4bc51f",
+        "cf160f298a562f66",
         "f7e750e62e5ea304"
       ],
-      "seller_records": 1
+      "seller_records": 3
     },
     "commission-squeeze": {
       "failed_spend_mentions": 0,
       "failed_spend_record_ids": [],
       "label": "Commission cut, skipped or left unpaid",
       "media_record_ids": [
+        "47b6310647295a4f",
         "679c8b12a3db6e86",
         "8ea1a9e76474ef28",
         "abfb22ce9261a370",
         "d5a65813499adba9"
       ],
-      "media_records": 4,
+      "media_records": 5,
       "member_record_ids": [
+        "a7f5a3889c4d9f9d",
         "b28eb932775a696c"
       ],
-      "money_mentions": 1,
+      "money_mentions": 2,
       "money_record_ids": [
+        "a7f5a3889c4d9f9d",
         "b28eb932775a696c"
       ],
-      "record_count": 1,
-      "seller_record_ids": [],
-      "seller_records": 0
+      "record_count": 2,
+      "seller_record_ids": [
+        "573780f020fbb3c8"
+      ],
+      "seller_records": 1
     },
     "lead-cost-quality": {
       "failed_spend_mentions": 0,
@@ -141,12 +203,16 @@
       "record_count": 0,
       "seller_record_ids": [
         "24e7ee1ae71089fc",
+        "3409f2a825e43d97",
+        "6867e1f3a6873143",
         "71d4dac2840a9fb4",
+        "a0999a6fe26eae95",
         "a29e3eccf41671d7",
+        "bb6dc2ebd901b9d3",
         "d49d9ee2a66e6825",
         "e853fde29cf5f0a9"
       ],
-      "seller_records": 5
+      "seller_records": 9
     },
     "leads-lost-follow-up": {
       "failed_spend_mentions": 0,
@@ -183,36 +249,59 @@
       "money_record_ids": [],
       "record_count": 0,
       "seller_record_ids": [
+        "004887430b6de11d",
         "0c9a0880db1c7d92",
         "5944ea85ee984129",
         "5c6f2ef7c659519c"
       ],
-      "seller_records": 3
+      "seller_records": 4
     },
     "listing-ad-rules": {
       "failed_spend_mentions": 0,
       "failed_spend_record_ids": [],
       "label": "Remove illegal ads or face fines: permits, sold and stale listings",
       "media_record_ids": [
+        "13715a78693b4ec7",
         "286e704d6675031d",
+        "3a80091886f113f2",
+        "3c303da048d6d8b6",
         "3d5969b9446a3732",
         "48ac2f8fcfee7898",
         "4e8da7491412cabf",
         "510afa5447cfc38d",
+        "5a93783fe647beeb",
+        "78916eb78f3d1c12",
         "82ba6d8c4260150b",
+        "87bbc163118c3c30",
         "957985f05620c452",
+        "9df22705eb3c8627",
         "ae460127b3619c60",
+        "b0b76d15310a49a0",
         "c653b1fd261abeb9",
+        "c9362867638c5fa2",
         "c9b0b04014786864",
-        "eb616debf1c8f1a9"
+        "d0527ba5db2a4147",
+        "eb616debf1c8f1a9",
+        "f3c7f08aefd8f6dc",
+        "fd5e9e78f6a8a364"
       ],
-      "media_records": 11,
-      "member_record_ids": [],
+      "media_records": 23,
+      "member_record_ids": [
+        "2e499c85cbf6ac0e"
+      ],
       "money_mentions": 0,
       "money_record_ids": [],
-      "record_count": 0,
-      "seller_record_ids": [],
-      "seller_records": 0
+      "record_count": 1,
+      "seller_record_ids": [
+        "0aeada5c7cb7fc6c",
+        "2bf9a1d9ddbc7efb",
+        "4d00abebb4edaba9",
+        "6cfb0ff6b06fa749",
+        "742a29b27cfad332",
+        "916b2cd3e0512a24",
+        "b7f4745a88fa5a8b"
+      ],
+      "seller_records": 7
     },
     "not-enough-leads-listings": {
       "failed_spend_mentions": 0,
@@ -229,10 +318,8 @@
       "money_mentions": 0,
       "money_record_ids": [],
       "record_count": 4,
-      "seller_record_ids": [
-        "e853fde29cf5f0a9"
-      ],
-      "seller_records": 1
+      "seller_record_ids": [],
+      "seller_records": 0
     },
     "portal-costs": {
       "failed_spend_mentions": 0,
@@ -255,33 +342,37 @@
       "seller_records": 0
     }
   },
-  "records_in_manifest": 882,
+  "records_in_manifest": 1472,
   "room": "dubai-real-estate-brokerages-telesales",
   "totals": {
     "by_kind": {
-      "blog_or_site": 371,
-      "forum": 10,
-      "jobs": 104,
-      "news": 104,
-      "official": 43,
-      "qa": 75,
-      "reviews": 81,
-      "social": 36,
-      "video": 58
+      "blog_or_site": 614,
+      "forum": 26,
+      "jobs": 165,
+      "news": 121,
+      "official": 52,
+      "qa": 139,
+      "reviews": 103,
+      "social": 111,
+      "video": 141
     },
     "by_source": {
-      "websearch": 882
+      "websearch": 1472
     },
     "by_voice": {
-      "media": 180,
-      "member": 31,
-      "other": 473,
-      "seller": 198
+      "media": 296,
+      "member": 29,
+      "other": 857,
+      "seller": 290
     },
     "failed_spend_mentions": 0,
-    "member_records": 31,
-    "member_records_with_pain": 5,
-    "money_mentions": 5,
+    "member_records": 29,
+    "member_records_by_round": {
+      "1": 21,
+      "2": 8
+    },
+    "member_records_with_pain": 8,
+    "money_mentions": 6,
     "source_kind_min_records": 5,
     "source_kinds": [
       "blog_or_site",

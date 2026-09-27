@@ -32,6 +32,127 @@
       ],
       "window": 300,
       "window_used": 1340
+    },
+    {
+      "evaluable": true,
+      "new_pains": [
+        "buying-selling-salon",
+        "new-treatment-worth-it",
+        "paid-listings-no-return",
+        "software-fees-commissions",
+        "staff-pay-commission"
+      ],
+      "new_records": 915,
+      "rank_changes": [
+        {
+          "key": "booking-payment-systems",
+          "rank_after": 6,
+          "rank_before": 4
+        },
+        {
+          "key": "franchise-worth-it",
+          "rank_after": 13,
+          "rank_before": 6
+        },
+        {
+          "key": "getting-new-clients",
+          "rank_after": 10,
+          "rank_before": 3
+        },
+        {
+          "key": "licences-gst-rules",
+          "rank_after": 9,
+          "rank_before": 8
+        },
+        {
+          "key": "losing-money-failing",
+          "rank_after": 12,
+          "rank_before": 14
+        },
+        {
+          "key": "losing-regulars",
+          "rank_after": 17,
+          "rank_before": 14
+        },
+        {
+          "key": "missed-calls-out-of-hours",
+          "rank_after": 15,
+          "rank_before": 12
+        },
+        {
+          "key": "no-shows-late-cancellations",
+          "rank_after": 7,
+          "rank_before": 2
+        },
+        {
+          "key": "opening-costs",
+          "rank_after": 4,
+          "rank_before": 6
+        },
+        {
+          "key": "owner-burnout",
+          "rank_after": 19,
+          "rank_before": 14
+        },
+        {
+          "key": "setting-prices",
+          "rank_after": 2,
+          "rank_before": 9
+        },
+        {
+          "key": "staff-hiring-quitting",
+          "rank_after": 16,
+          "rank_before": 13
+        },
+        {
+          "key": "staff-pay-commission",
+          "rank_after": 3,
+          "rank_before": 9
+        },
+        {
+          "key": "staff-taking-clients",
+          "rank_after": 17,
+          "rank_before": 11
+        },
+        {
+          "key": "unhappy-clients-refunds",
+          "rank_after": 8,
+          "rank_before": 5
+        }
+      ],
+      "records": 2255,
+      "round": 2,
+      "saturated": false,
+      "taxonomy_added": [
+        "buying-selling-salon",
+        "new-treatment-worth-it",
+        "staff-pay-commission"
+      ],
+      "taxonomy_keys": [
+        "booking-payment-systems",
+        "buying-selling-salon",
+        "chair-room-rent",
+        "franchise-worth-it",
+        "getting-new-clients",
+        "licences-gst-rules",
+        "losing-money-failing",
+        "losing-regulars",
+        "missed-calls-out-of-hours",
+        "new-treatment-worth-it",
+        "no-shows-late-cancellations",
+        "opening-costs",
+        "owner-burnout",
+        "paid-listings-no-return",
+        "setting-prices",
+        "software-fees-commissions",
+        "staff-hiring-quitting",
+        "staff-pay-commission",
+        "staff-taking-clients",
+        "unhappy-clients-refunds"
+      ],
+      "window": 300,
+      "window_member_records": 277,
+      "window_used": 915
     }
   ],
   "stop_reason": null,
