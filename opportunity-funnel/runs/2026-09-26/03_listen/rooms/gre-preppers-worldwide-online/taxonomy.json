@@ -119,6 +119,46 @@
       "added_round": 1,
       "reasoning": "Members question whether the test is still needed as programs go test-optional, and sellers write many posts arguing it still is.",
       "confidence": "moderate"
+    },
+    {
+      "key": "mock-vs-real-score",
+      "label": "What will I score on the real GRE? Are my mock scores (PowerPrep, Kaplan, GregMat) accurate?",
+      "definition": "Before the real test, the writer cannot tell what their practice-test scores mean for test day: they ask what real score to expect from their mock scores, whether a mock is harder or easier than the real GRE, or which practice tests to trust (\"My power prep scores are 305 and 307. How much should I expect?\", \"How accurate are Kaplan GRE test scores?\", \"Is Gregmats Practice tests more difficult than GRE actual test?\"). After a real test that went worse than the mocks, use test-day-worse-than-practice instead.",
+      "added_round": 2,
+      "reasoning": "Round 2 brought many member questions on Quora, GRE Prep Club, the GregMat forum and GradCafe about what mock scores predict and which mocks to trust. No existing pain covers this worry before the test; test-day-worse-than-practice covers only the gap found after it.",
+      "confidence": "high"
+    },
+    {
+      "key": "consultant-or-sop-worth-it",
+      "label": "Is a study-abroad consultant or SOP writing service worth paying for, and which one can I trust?",
+      "definition": "The writer weighs paying a study-abroad consultant, an admissions counsellor, or an SOP or LOR writing or review service, asks which one to trust, or complains that one took their money and did not deliver (\"Are study abroad consultants worth the investment?\", \"Is it worth it to pay for an SOP review?\", \"How are the services of so called study abroad consultancies? Is it really worth it\"). Test-prep courses, coaching and tutors belong to which-prep-worth-paying-for.",
+      "added_round": 2,
+      "reasoning": "Round 2 brought many member questions, mostly from Indian students on Quora, on whether consultants and SOP services are worth their fees and which to trust, plus complaints about consultancies. It is ladder step 7, a different purchase from test prep, so which-prep-worth-paying-for does not cover it.",
+      "confidence": "high"
+    },
+    {
+      "key": "test-anxiety-or-burnout",
+      "label": "GRE stress: anxiety, panic or burnout that stops me studying or ruins the test",
+      "definition": "The writer says fear, anxiety, panic, stress, burnout, or lost motivation or focus is hurting their preparation or their performance on test day, and asks how to cope (\"I have the GRE in 3 days, and I am freaking out\", \"Dealing with GRE anxiety\", \"I've lost motivation to study for the GRE\"). A plain request for a study plan, with no stress or motivation words, is not this pain.",
+      "added_round": 2,
+      "reasoning": "Round 2 brought many member posts on Quora and GradCafe that name GRE anxiety, panic, fear, stress or lost motivation directly. The existing test-day-worse-than-practice pain covers only a bad result after the test, not the stress before and during it.",
+      "confidence": "high"
+    },
+    {
+      "key": "scores-late-for-deadline",
+      "label": "My scores have not reached my schools, or will not arrive before the application deadline",
+      "definition": "The writer's official scores are late or not received by a school, or they fear a score will not be ready or delivered before an application deadline, and they ask what to do (\"GRE SCORES NOT RECEIVED - THROW OUT APPLICATION????\", \"University hasn't received GRE score report though my ETS account says that it has reported the scores 4 months before\", \"When is the latest time I can take the GRE for Dec. 1st deadline for graduate admissions?\"). Scores that ETS itself holds, marks unavailable or cancels belong to scores-held-or-cancelled. A plain question about when to take the GRE, with no deadline or missing score named, is not this pain.",
+      "added_round": 2,
+      "reasoning": "Round 2 brought many member posts, mostly on GradCafe and Quora, about scores that are late or missing at schools and about testing in time for a deadline. No existing pain covers score delivery; scores-held-or-cancelled is about ETS holding or cancelling scores.",
+      "confidence": "moderate"
+    },
+    {
+      "key": "registration-or-payment-trouble",
+      "label": "I can't register or pay for the GRE: my card or payment fails, or my registration name or ID does not match my passport",
+      "definition": "The writer cannot complete a GRE booking or fee payment (card declined, payment error, money deducted but no booking, no way to pay in dollars from their country), or fears their booking is invalid because the registration name or ID does not match their passport, or was turned away for an ID problem (\"I am unable to pay for the GRE General Test using a Visa/Mastercard credit card. What am I supposed to do?\", \"Will it be a problem if my GRE registration name is different than the name on my passport?\", \"What's The Easiest Way To Pay For GRE In Nigeria?\"). A refund still owed after cancelling belongs to refund-after-cancelling; money deducted for a failed booking may carry both keys.",
+      "added_round": 2,
+      "reasoning": "Round 2 brought many member posts on Quora and Nairaland about failed GRE payments, cards that do not work, money deducted without a booking, and registration names that do not match the passport. They share one problem, getting a valid booking, and no existing pain covers it.",
+      "confidence": "moderate"
     }
   ]
 }
