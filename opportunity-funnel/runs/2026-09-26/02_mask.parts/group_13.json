@@ -1,0 +1,264 @@
+{
+  "rooms": [
+    {
+      "slug": "self-directed-value-investors-community",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.findmymoat.com/tools/tikr",
+        "reasoning": "No warm path covers retail stock-pickers. The room already buys data terminals and research through search: TIKR Plus is a paid tool built for value investors with third-party reviews and pricing pages found in search, and Seeking Alpha Premium ($299/year) is reviewed the same way.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d2",
+        "reasoning": "The room's paid ladder is company data, research and learning DCF, comps and three-statement models, which is the ledger's corporate finance and valuation domain (strong). The founder can tell a good valuation from a bad one; the tool and research subscriptions are just inputs to that.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {"what": "TIKR Plus data terminal subscription", "price_text": "$24.95 per month", "amount": 24.95, "currency": "USD", "unit": "per month", "url": "https://www.tikr.com/pricing", "seen_via": "search"},
+        {"what": "TIKR Plus, as quoted in a third-party review found in search", "price_text": "$24.95 per month", "amount": 24.95, "currency": "USD", "unit": "per month", "url": "https://www.findmymoat.com/tools/tikr", "seen_via": "search"},
+        {"what": "Seeking Alpha Premium research subscription", "price_text": "$299/year", "amount": 299, "currency": "USD", "unit": "per year", "url": "https://financer.com/invest/seeking-alpha-premium-review/", "seen_via": "search"},
+        {"what": "Wall Street Prep premium package (DCF, comps, three-statement modelling)", "price_text": "$499", "amount": 499, "currency": "USD", "unit": "one-off", "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Valuation education and tooling need judgment in a strong domain (c2) and possibly cohorts (c1, c4), all of which the founder can be. No large capital, ritual or licensed advocacy is needed for the core problems.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Teaching valuation and selling tools need no licence; anything shaped as stock picks or portfolio advice would be regulated investment advice (x1) and must be kept out of the product. Employer overlap: the founder is in investment banking and public-company valuation is the day job's domain, but serving retail investors with skills does not use employer clients, deals or confidential information.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": false,
+        "reasoning": "The prices people already pay ($25 a month to $499 one-off) are self-serve tools and courses bought on reviews, not on a relationship. A cohort or coaching product would raise the bar, but the likely entry product is self-serve.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "quant-aspirants-quantnet-community",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.quantguide.io/pricing",
+        "reasoning": "The room is mostly students and career-switchers, so the finance-professionals warm path (w2) covers only the working-banker minority, not the room. They already buy prep through search: QuantGuide sells a $35 a month premium plan, its own board asks 'Is Premium worth it?', and third-party reviews (quantvault.org, LinkedIn) compare paid prep platforms.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": null,
+        "reasoning": "The core paid problems are probability brainteasers, mental-maths drills, the C++ certificate and MFE admissions. Options trading (d7, moderate) and GRE quant (d1) touch pricing maths and timed arithmetic, but neither covers quant interview material or MFE admissions; adjacent is not enough.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {"what": "QuantGuide premium interview-prep subscription", "price_text": "$35 per month", "amount": 35, "currency": "USD", "unit": "per month", "url": "https://www.quantguide.io/pricing", "seen_via": "search"},
+        {"what": "QuantNet and Baruch C++ for Financial Engineering certificate", "price_text": "$1,450", "amount": 1450, "currency": "USD", "unit": "one-off", "url": "https://quantnet.com/threads/what-is-the-price-of-c-certificate.12539/", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Prep and coaching need accountability and peers (c1, c4), which the founder can be; judgment (c2) is not available because no strong depth matches. Nothing here needs large capital, ritual or a licence.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Interview prep and admissions coaching need no licence. Employer overlap: aspirants target bank quant desks and trading firms, which is the founder's industry, but a skills product uses no employer clients, deals or confidential information.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": false,
+        "reasoning": "The room already pays for self-serve question banks and certificates on reviews and word of mouth. A coaching product with a job outcome would need trust, but the buying pattern seen is self-serve.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "vibe-coders-building-apps-with-ai",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.fiverr.com/joshua_matth/rescue-fix-lovable-ai-website-lovable-dev-lovable-app-lovable-saas-mvp-vibe-code",
+        "reasoning": "No warm path covers hobbyist builders. The room buys through search and marketplaces: a Fiverr gig sells Lovable app fixes for $30, Lovable's own pricing page and many 2026 pricing reviews rank in search, and rescue services (vibecoderescue.dev, relux.works) list fixed prices for the same buyers.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d5",
+        "reasoning": "The core paid problems are building, debugging and shipping AI-built apps (logins, databases, deployment), and the founder builds AI products for businesses with the same tools through TinyAI (v4). The ledger names agents and call auditing rather than general app development, so the match is real but not exact.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {"what": "Lovable Pro plan", "price_text": "$25/month", "amount": 25, "currency": "USD", "unit": "per month", "url": "https://lovable.dev/pricing", "seen_via": "search"},
+        {"what": "Fiverr gig to rescue and fix a broken Lovable app", "price_text": "$30", "amount": 30, "currency": "USD", "unit": "one-off", "url": "https://www.fiverr.com/joshua_matth/rescue-fix-lovable-ai-website-lovable-dev-lovable-app-lovable-saas-mvp-vibe-code", "seen_via": "search"},
+        {"what": "48-hour diagnosis of a broken AI-built app by a senior engineer", "price_text": "$299", "amount": 299, "currency": "USD", "unit": "one-off", "url": "https://vibecoderescue.dev/", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "A rescue or review product needs judgment in a strong domain (c2 via d5) and accountability (c1); the founder can be both. No large capital, ritual or licence is involved.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Fixing and reviewing hobbyist apps needs no licence and touches nothing at the founder's employer. Overlaps the existing venture TinyAI (v4), which the ledger says to tag, not exclude.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "Tool subscriptions are self-serve, but the gap the founder would fill is a human audit or rescue at $299 to $3,000 on someone's live app and data, which is a personal outcome bought on credibility.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "desi-fragrance-addicts-india-community",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.etsy.com/in-en/market/decant_5ml_perfume",
+        "reasoning": "No warm path covers Indian perfume lovers; Proper Noun (v2) is a venture, not a listed warm path. The room already buys through marketplaces and search: Etsy India carries 5ml decant listings, and Indian decant shops (decantnation.co.in, perfumedecants.in, scentira.in) sell rupee-priced decants found in search.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": "d8",
+        "reasoning": "The core paid problems are choosing and buying scents, decants, attars and full bottles, then blending; that is the ledger's fragrance domain. Strength is moderate, so judgment (c2) cannot be claimed.",
+        "confidence": "high"
+      },
+      "spend": [
+        {"what": "Designer and niche decants from an Indian decant seller", "price_text": "Rs. 299 to Rs. 1,425", "amount": 299, "currency": "INR", "unit": "one-off", "url": "https://www.sillageperfumes.in/collections/decants", "seen_via": "search"},
+        {"what": "10 ml Creed Aventus decant from an Indian retailer", "price_text": "Rs. 2,345.00", "amount": 2345, "currency": "INR", "unit": "one-off", "url": "https://scentira.in/products/creed-aventus-eau-de-parfum", "seen_via": "search"},
+        {"what": "SUGANDHIKAR perfume-making workshop, per person", "price_text": "Rs. 5,000.00", "amount": 5000, "currency": "INR", "unit": "one-off", "url": "https://scentkart.com/products/sugandhikar-perfume-making-workshop-1", "seen_via": "search"},
+        {"what": "Perfume Playdate workshop in Delhi, per person", "price_text": "Rs. 3,180.00", "amount": 3180, "currency": "INR", "unit": "one-off", "url": "https://vivreexperiences.com/products/perfume-playdate", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Physical scents need vendors (r3, rentable) or a respected source (r2, rentable); the founder's own brand v2 may supply some of that. Nothing needs large capital, ritual or a licence.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Selling or reviewing perfume needs no licence and has nothing to do with the founder's employer. Overlaps venture v2 (Proper Noun), which is tagged, not excluded.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": false,
+        "reasoning": "Purchases are low-ticket consumer goods bought on reviews and hauls; authenticity matters but is a source question, not a relationship. A workshop at Rs. 3,000 to 5,000 is still bought on a listing.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "excel-financial-modellers-competition-community",
+      "reach": {
+        "kind": "warm",
+        "ledger_id": "w2",
+        "evidence_url": null,
+        "reasoning": "The competitors and community members are analysts, accountants and consultants in finance roles, the people the founder's investment banking, private equity and finance colleagues path covers; students and non-finance accountants are a minority. Search evidence exists too: FMWC stage fees, Full Stack Modeller memberships and FMI exams are all bought online from search.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": "d2",
+        "reasoning": "Financial modelling is the craft of corporate finance and valuation, the founder's strongest domain; the room's paid problems (competition cases, AFM and FMVA accreditation, bootcamps) sit squarely inside it.",
+        "confidence": "high"
+      },
+      "spend": [
+        {"what": "Financial Modeling World Cup stage entry", "price_text": "$25 for the Open age group and $15 for the U-25 age group", "amount": 25, "currency": "USD", "unit": "per stage", "url": "https://fmworldcup.com/rules/", "seen_via": "search"},
+        {"what": "Full Stack Modeller membership", "price_text": "£48 per seat per month", "amount": 48, "currency": "GBP", "unit": "per month", "url": "https://www.fullstackmodeller.com/full-stack-membership", "seen_via": "search"},
+        {"what": "FMI Advanced Financial Modeler exam with a year of learning resources", "price_text": "$725 USD", "amount": 725, "currency": "USD", "unit": "one-off", "url": "https://fminstitute.com/afm/", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Coaching modellers toward accreditation or speed needs judgment in a strong domain (c2 via d2), accountability and peers (c1, c4), all of which the founder can be. No large capital, ritual or licence is needed.",
+        "confidence": "high"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Modelling skills need no licence. Employer overlap: the room is finance professionals and the skill is the founder's day job, but generic modelling training uses no employer clients, deals or confidential information; the founder must still check employer outside-business rules (ledger x2 note).",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "Stage fees and memberships are self-serve, but the product the founder could add is coaching or a cohort for accreditation and speed at a few hundred dollars with a personal career outcome, which is bought on credibility.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "diy-solar-offgrid-builders-community",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.amazon.com/Mobile-Solar-Power-Made-yourself/dp/1546567119",
+        "reasoning": "No warm path covers homeowners and RV owners in the US, Canada and Australia. The room already buys through marketplaces and search: the DIY solar book on Amazon has hundreds of ratings, Udemy sells off-grid solar courses, and design reviews and permit plan sets are sold from search-ranked pages.",
+        "confidence": "high"
+      },
+      "depth": {
+        "ledger_id": null,
+        "reasoning": "The core paid problems are sizing a household system, choosing inverters and batteries, wiring safely and getting permits, which is electrical trade knowledge. The ledger's energy depth (d4) is sector-level power and renewables, adjacent to household wiring but not covering it.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {"what": "Paid off-grid system design before buying", "price_text": "$150", "amount": 150, "currency": "USD", "unit": "one-off", "url": "https://www.gogreensolar.com/pages/off-grid-design-request", "seen_via": "search"},
+        {"what": "Solar permit plan set package", "price_text": "starts at $350", "amount": 350, "currency": "USD", "unit": "one-off", "url": "https://sunsuppv.com/solar-permit-plans/", "seen_via": "search"},
+        {"what": "Mobile Solar Power Made Easy paperback on Amazon", "price_text": "$14.99", "amount": 14.99, "currency": "USD", "unit": "one-off", "url": "https://www.amazon.com/Mobile-Solar-Power-Made-yourself/dp/1546567119", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Design reviews need judgment the founder lacks here, and permit stamps need a licensed engineer or electrician, which is a licence that can be rented through a partner (W18). Hardware is vendors (r3). Nothing needs large capital, ritual or licensed advocacy.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Electrical design is not medical, legal or investment advice, so x1 does not apply, though signed-off plans need a licensed professional in the customer's jurisdiction. No employer overlap.",
+        "confidence": "high"
+      },
+      "trust_needed": {
+        "value": true,
+        "reasoning": "Hardware and books are self-serve, but a design or wiring review is a safety outcome on the buyer's home, and the forum asks who is checking the plan and with what credentials.",
+        "confidence": "moderate"
+      }
+    },
+    {
+      "slug": "esg-sustainability-professionals-networks",
+      "reach": {
+        "kind": "search",
+        "ledger_id": "s1",
+        "evidence_url": "https://www.udemy.com/course/sustainability-reporting-gri-standards/",
+        "reasoning": "w2 covers only the finance-side subset (ESG analysts at banks and funds) and w4 covers Southeast Asian energy companies, not the professionals who identify as sustainability people across industries, so the room is not warm. They already buy through search and marketplaces: GRI reporting courses on Udemy, and the GARP SCR and CFA sustainable investing certificates are registered for online from search-ranked fee pages.",
+        "confidence": "moderate"
+      },
+      "depth": {
+        "ledger_id": null,
+        "reasoning": "The core paid problems are credential exams (SCR, CFA ESG, GRI) and reporting frameworks; the ledger's energy depth (d4) covers the energy-transition content inside them but not ESG reporting or the exams themselves, and corporate finance (d2) touches only sustainable investing. Adjacent, not covering.",
+        "confidence": "moderate"
+      },
+      "spend": [
+        {"what": "GARP Sustainability and Climate Risk certificate exam, standard registration", "price_text": "USD 750 for non-members", "amount": 750, "currency": "USD", "unit": "one-off", "url": "https://www.garp.org/scr/program-exam", "seen_via": "search"},
+        {"what": "GARP SCR standard registration fee tiers", "price_text": "USD 750 non-member / USD 650 GARP member / USD 625 FRM-RAI-ERP holder", "amount": 650, "currency": "USD", "unit": "one-off", "url": "https://www.garp.org/scr/fees-payments", "seen_via": "search"},
+        {"what": "CFA Institute Sustainable Investing Certificate", "price_text": "USD 890", "amount": 890, "currency": "USD", "unit": "one-off", "url": "https://www.cfainstitute.org/programs/sustainable-investing-certificate/exam-info", "seen_via": "search"}
+      ],
+      "supply": {
+        "blocked": false,
+        "needs": [],
+        "reasoning": "Exam prep and career products need accountability and peers (c1, c4), which the founder can be; judgment (c2) is unavailable without a strong matching depth. Signing off sustainability reports would need assurance credentials, but that is not the core individual problem here.",
+        "confidence": "moderate"
+      },
+      "excluded": {
+        "is_excluded": false,
+        "exclusion_id": null,
+        "reasoning": "Credential prep needs no licence. Employer overlap: ESG work at banks and Southeast Asian energy companies is close to the founder's job, but serving individuals with exam prep uses no employer clients, deals or confidential information.",
+        "confidence": "moderate"
+      },
+      "trust_needed": {
+        "value": false,
+        "reasoning": "The room buys exam registrations, association dues and marketplace courses on its own from search; prep at these prices is self-serve. A career-placement or reporting service would need trust, but that is not the buying pattern seen.",
+        "confidence": "moderate"
+      }
+    }
+  ]
+}
