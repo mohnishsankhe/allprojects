@@ -1,0 +1,39 @@
+{
+  "final": false,
+  "room": "small-industrial-property-investors",
+  "rounds": [
+    {
+      "evaluable": false,
+      "new_pains": [],
+      "new_records": 948,
+      "note": "not evaluable: round 1 builds the pain list; saturation is tested on the records of round 2 and later",
+      "rank_changes": [],
+      "records": 948,
+      "round": 1,
+      "saturated": false,
+      "taxonomy_keys": [
+        "1031-exchange-rules",
+        "cost-seg-worth-it",
+        "due-diligence",
+        "finding-deals",
+        "first-syndication",
+        "getting-financing",
+        "investor-admin",
+        "market-data-cost",
+        "new-to-industrial",
+        "nnn-fees-cam",
+        "raising-capital",
+        "raising-capital-legally",
+        "structuring-the-deal",
+        "syndication-failure",
+        "syndication-legal-docs",
+        "underwriting-deals",
+        "vacancy-and-tenants"
+      ],
+      "window": 300,
+      "window_used": 948
+    }
+  ],
+  "stop_reason": null,
+  "window": 300
+}

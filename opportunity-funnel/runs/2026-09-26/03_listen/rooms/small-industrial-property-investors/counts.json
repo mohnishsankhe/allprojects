@@ -1,0 +1,652 @@
+{
+  "labeled": 948,
+  "notes": [],
+  "pains": {
+    "1031-exchange-rules": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "1031 exchange deadlines and rules when I sell and buy",
+      "media_record_ids": [
+        "6f385a1fee6742d8"
+      ],
+      "media_records": 1,
+      "member_record_ids": [
+        "00a5e6fe0f89ac89",
+        "b16b64c6aee65fce"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 2,
+      "seller_record_ids": [],
+      "seller_records": 0
+    },
+    "cost-seg-worth-it": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Is a cost segregation study worth the fee?",
+      "media_record_ids": [
+        "bf39e1a51190d062"
+      ],
+      "media_records": 1,
+      "member_record_ids": [
+        "81dfabd62b3a7742"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 1,
+      "seller_record_ids": [
+        "068dd0f380b10357",
+        "0d3844f5e11b12a5",
+        "1a9fd20c147600da",
+        "4234e222a9dc37a3",
+        "5d72bd892c016845",
+        "5e09fe4c3e381c59",
+        "bee0efbae39c586f",
+        "cbc60016513e74c8"
+      ],
+      "seller_records": 8
+    },
+    "due-diligence": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "What to check before closing so the deal does not blow up (environmental, lease, building)",
+      "media_record_ids": [
+        "08c8f0c124fe47db",
+        "0bf94f1fe737a09c",
+        "21ab11ce9fd9c8ab",
+        "2324012dfa5be05d",
+        "23261825b4311fac",
+        "275467caf74c4824",
+        "7777b8638f4c069d",
+        "902794f504418da0",
+        "b2f86872a2053974",
+        "b63cababe710e64f",
+        "e8e46da618fba35b",
+        "f210a6286973db97"
+      ],
+      "media_records": 12,
+      "member_record_ids": [
+        "14df89359bc285bb",
+        "4ef9f32214247b7f"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 2,
+      "seller_record_ids": [
+        "0af1e78392cadd31",
+        "2731ec6ee4e6fae3",
+        "3a458a9ad55be2cf",
+        "3c4d2a33a439affc",
+        "45622722c89ae263",
+        "51d49b9a64aeaed1",
+        "548e55ccbd1063d8",
+        "5f5cb6dd471131da",
+        "79af61ab58f8021d",
+        "7c96b1ff38ce982f",
+        "8aaa1a6989f56eb6",
+        "980256d482a2c0e5",
+        "9dd1578a48b494e7",
+        "a117a2a1107a55a6",
+        "a48fd31cf151e984",
+        "b7a5b98958d4b9d0",
+        "c1c9b750f8aba3a2",
+        "cc58bff0e3df2d3c",
+        "e46e8e7554e6d39d"
+      ],
+      "seller_records": 19
+    },
+    "finding-deals": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "How do I find off-market warehouse and commercial deals?",
+      "media_record_ids": [
+        "8d5622506b9b443d",
+        "e96b76d642b18221"
+      ],
+      "media_records": 2,
+      "member_record_ids": [
+        "1a5f83afc024af1b",
+        "327137c33eae676d"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 2,
+      "seller_record_ids": [
+        "1b998d27cae6c60c",
+        "25ae88dd9aacd458",
+        "9ce73f136ccc5d10",
+        "a260e57d3c651f21"
+      ],
+      "seller_records": 4
+    },
+    "first-syndication": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "How do I start my first syndication?",
+      "media_record_ids": [
+        "1a0021cc5de2c550",
+        "8cbc91319bf9bbb5",
+        "8e87892e8931dd07"
+      ],
+      "media_records": 3,
+      "member_record_ids": [
+        "4891269ddc0fbc91",
+        "739c57ea2733f791",
+        "ac223b303acdd6ce",
+        "af7408d260eb2164"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 4,
+      "seller_record_ids": [
+        "01b27ff4c609fd4e",
+        "53be35307ab56666",
+        "8211ecda5754a428",
+        "869888579fbb9aba",
+        "89b720c75bf36f2b",
+        "9bd70d0e4abb4c74",
+        "afae3c596e45d8da",
+        "cca0cd0ab3215642",
+        "cf8a3cd3496aa2c0"
+      ],
+      "seller_records": 9
+    },
+    "getting-financing": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Getting a commercial loan: approval, lenders, down payment and refinancing",
+      "media_record_ids": [
+        "1c4a61f979fb1816",
+        "39d105906d98276a",
+        "7b1f6b4a02d74239",
+        "be9f64aea603beb3",
+        "f819883810c337ca"
+      ],
+      "media_records": 5,
+      "member_record_ids": [
+        "12310aebac2b5b4c",
+        "1502b6b352b98b0f",
+        "37b8b211dbafdd81",
+        "4cf6a1227ad936fc",
+        "5cfd0358aa31a494",
+        "698d3fbfa2507436",
+        "7216f72c8db39435"
+      ],
+      "money_mentions": 1,
+      "money_record_ids": [
+        "4cf6a1227ad936fc"
+      ],
+      "record_count": 7,
+      "seller_record_ids": [
+        "011441fa1e02fdac",
+        "1fb072a1eaddf5b7",
+        "32a6a8c855af4a2b",
+        "35aaa1426956c4c7",
+        "4fddccd572cd082a",
+        "5738860f190b0412",
+        "5ea55a3f9c55a858",
+        "6143cf04efc8996a",
+        "629c069fa4bcb0a8",
+        "68b3744953ea388f",
+        "6ac41cbe8d6c75a6",
+        "71067a9cdcca02e0",
+        "7691fd0e4d972564",
+        "7ba361193b0bf425",
+        "a0ad4a8ea1db3237",
+        "d9a857561ef3c7b1",
+        "f2ff305669107ee9"
+      ],
+      "seller_records": 17
+    },
+    "investor-admin": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Tracking investors, commitments, distributions and K-1s: which software?",
+      "media_record_ids": [],
+      "media_records": 0,
+      "member_record_ids": [
+        "1229c79c01c2547e",
+        "2ac8792b983af303",
+        "6a397630e1a82a61",
+        "8058837aa88a2903",
+        "81a281c529d5b844",
+        "9c9df2eb32a09b07"
+      ],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 6,
+      "seller_record_ids": [
+        "5d10db498e6c2971"
+      ],
+      "seller_records": 1
+    },
+    "market-data-cost": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "CoStar costs too much: is there a cheaper alternative, and is it worth the money?",
+      "media_record_ids": [
+        "01af237123f0c70a",
+        "7705ab418fa624b8",
+        "9c15d50a00b6166a",
+        "f4626ba49cb94a94",
+        "feec5946e39e4fe8"
+      ],
+      "media_records": 5,
+      "member_record_ids": [
+        "107fea922b2f904b",
+        "1ef35b1b9c957d2f",
+        "2319d4fc7b8f4977",
+        "2c8d0ae2df7c0408",
+        "5f9fc71cda4286d7",
+        "6d75bb8579dea801",
+        "7fc897333d28e200",
+        "bca2629ea38973b6",
+        "d0ede63fb227060c",
+        "e51340c676159516",
+        "e90946f932d2b920",
+        "eefc5547d9b5df9d"
+      ],
+      "money_mentions": 8,
+      "money_record_ids": [
+        "1ef35b1b9c957d2f",
+        "2c8d0ae2df7c0408",
+        "5f9fc71cda4286d7",
+        "6d75bb8579dea801",
+        "7fc897333d28e200",
+        "e51340c676159516",
+        "e90946f932d2b920",
+        "eefc5547d9b5df9d"
+      ],
+      "record_count": 12,
+      "seller_record_ids": [
+        "2b65a797cd62b58d",
+        "483213c8f4997eee"
+      ],
+      "seller_records": 2
+    },
+    "new-to-industrial": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "New to warehouses: is it a good buy, what will I earn, and where do I start?",
+      "media_record_ids": [
+        "0da443ccf8b84c7b",
+        "1c7a32ab6ee9ff89",
+        "24e2bfe66ea9117c",
+        "3de4b5bfd4cc1881",
+        "5ee0e3cbee5efadf",
+        "82f5c2a4323378f4",
+        "916f41c244eb4f83",
+        "b4b509f9bc5d00e6",
+        "d8fc97681a0a0c40",
+        "e6ade112aca61067",
+        "eda0cf4b2687d325",
+        "f05aca5c76d963e3",
+        "f3a16dec40d92e06"
+      ],
+      "media_records": 13,
+      "member_record_ids": [
+        "18a9c5021d6f2545",
+        "438a178910d52242",
+        "4d8624f975b20633",
+        "5804f5ac1a7ca926",
+        "589bfb9f56611577",
+        "628404d6bb60d0b4",
+        "6bef0246711e0a38",
+        "a7c60b70f6731b11",
+        "ae3307cd2158f635",
+        "c2f02e106d816c3f",
+        "d52289a803e5c4ef",
+        "dc37026fc91c009f",
+        "fcef787ce23f8f50"
+      ],
+      "money_mentions": 3,
+      "money_record_ids": [
+        "18a9c5021d6f2545",
+        "438a178910d52242",
+        "ae3307cd2158f635"
+      ],
+      "record_count": 13,
+      "seller_record_ids": [
+        "0c333647994514db",
+        "1bb6774a094edee7",
+        "1bd8278418a8b53c",
+        "1efd7e884c3e737f",
+        "2e7aff56ed6c1cf5",
+        "30d3c3491d70b9c5",
+        "6d0a4e5e8824a790",
+        "6fc541a62c4ccc9f",
+        "b9187a29a5fbc053",
+        "e40f171bd18168fa"
+      ],
+      "seller_records": 10
+    },
+    "nnn-fees-cam": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "What management fee to charge on NNN industrial, and passing it to tenants through CAM",
+      "media_record_ids": [],
+      "media_records": 0,
+      "member_record_ids": [
+        "03d562828105fdee",
+        "235ef06e56a610c8",
+        "2f8f122cb6ccad7e",
+        "5b3894750cd5711c",
+        "94c97c27e48a2162"
+      ],
+      "money_mentions": 4,
+      "money_record_ids": [
+        "03d562828105fdee",
+        "2f8f122cb6ccad7e",
+        "5b3894750cd5711c",
+        "94c97c27e48a2162"
+      ],
+      "record_count": 5,
+      "seller_record_ids": [
+        "30fcc35b22858163",
+        "a2f54e4ddefa5007"
+      ],
+      "seller_records": 2
+    },
+    "raising-capital": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "How do I raise the money for my deal: investors, partners, no money down?",
+      "media_record_ids": [
+        "0b05926f7704ddfe",
+        "1c4a61f979fb1816",
+        "36750e558d73d6dd",
+        "44015329aaaf0a01",
+        "4670da290fac3cde",
+        "72305e5da9f10879",
+        "899118ca7b8578d7",
+        "acbea589c917fac7",
+        "db45d341bb3641bf"
+      ],
+      "media_records": 9,
+      "member_record_ids": [
+        "1cb9babf9b067a8e",
+        "1d5fadfee4370c89",
+        "4cf6a1227ad936fc",
+        "4d2653ebb1245c00",
+        "564b75f6a6238296",
+        "5705efc5e1de913f",
+        "5e230efb32aff881",
+        "8b4a1161556542b8",
+        "bb191ea1e65f7f8f"
+      ],
+      "money_mentions": 9,
+      "money_record_ids": [
+        "1cb9babf9b067a8e",
+        "1d5fadfee4370c89",
+        "4cf6a1227ad936fc",
+        "4d2653ebb1245c00",
+        "564b75f6a6238296",
+        "5705efc5e1de913f",
+        "5e230efb32aff881",
+        "8b4a1161556542b8",
+        "bb191ea1e65f7f8f"
+      ],
+      "record_count": 9,
+      "seller_record_ids": [
+        "01b27ff4c609fd4e",
+        "2b1b388cd0381d35",
+        "3a97c06f9ed7e2f9",
+        "50b90f01db62bf11",
+        "5d10db498e6c2971",
+        "715562ecaf8fc020",
+        "742182bf4eb52922",
+        "9bd70d0e4abb4c74",
+        "b8e511ec182b8f9f",
+        "b8ffd558baccb49d",
+        "ba63e14144f9e840",
+        "efdac722a57de7f5"
+      ],
+      "seller_records": 12
+    },
+    "raising-capital-legally": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Is my capital raise legal? SEC rules, Reg D filings and the broker licence question",
+      "media_record_ids": [
+        "a2c29deecc9d0348",
+        "dd99688f8c6887b2",
+        "e9240529887f8f0b"
+      ],
+      "media_records": 3,
+      "member_record_ids": [
+        "1cb9babf9b067a8e",
+        "4d2653ebb1245c00",
+        "5705efc5e1de913f",
+        "5c87b03226e6425a"
+      ],
+      "money_mentions": 4,
+      "money_record_ids": [
+        "1cb9babf9b067a8e",
+        "4d2653ebb1245c00",
+        "5705efc5e1de913f",
+        "5c87b03226e6425a"
+      ],
+      "record_count": 4,
+      "seller_record_ids": [
+        "006b0290a2e121d2",
+        "0329f9d297c0c022",
+        "06495aa2f31771da",
+        "0d7ec8809037e0f4",
+        "0fca74011bc4be01",
+        "16bc62c2537a76a7",
+        "1c2e266189d3a2cc",
+        "2bc7e2c5d759649e",
+        "31fe8d1dc6aa4203",
+        "3ce0ed2870a3384c",
+        "3d3686e72c06bfc7",
+        "42d9085b38982bd8",
+        "5a19335d1cc58ee7",
+        "6fdfd025634a4df4",
+        "77ddb2a88fa26bc3",
+        "99d4b34514100053",
+        "b61b3f44996c49d4",
+        "c2023700019b3072",
+        "c2ee41c42a60279a",
+        "d35b4c4fc07523a9",
+        "e453e4176760b987",
+        "eed9503c5e2384f6"
+      ],
+      "seller_records": 22
+    },
+    "structuring-the-deal": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "How do I structure the terms: GP/LP split, JV or finder's fee, partners on the loan?",
+      "media_record_ids": [],
+      "media_records": 0,
+      "member_record_ids": [
+        "1502b6b352b98b0f",
+        "6874bd0c98cac426",
+        "8b4a1161556542b8",
+        "98037f12352be361",
+        "eb5e55d70640bbc9"
+      ],
+      "money_mentions": 1,
+      "money_record_ids": [
+        "8b4a1161556542b8"
+      ],
+      "record_count": 5,
+      "seller_record_ids": [],
+      "seller_records": 0
+    },
+    "syndication-failure": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Why syndications fail, and the fear that mine will",
+      "media_record_ids": [
+        "4293752642b069cd",
+        "4ec0d83d2120e2c2",
+        "64dc5b0188ff5521",
+        "8cbc91319bf9bbb5",
+        "94e097e2e8758468",
+        "a0f788dcc6f0ed05",
+        "e2eb9497d15a181f"
+      ],
+      "media_records": 7,
+      "member_record_ids": [],
+      "money_mentions": 0,
+      "money_record_ids": [],
+      "record_count": 0,
+      "seller_record_ids": [
+        "60e092bab5a236c1"
+      ],
+      "seller_records": 1
+    },
+    "syndication-legal-docs": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Syndication paperwork: the PPM, operating agreement and what the attorney costs",
+      "media_record_ids": [
+        "6b8d81331d03b767"
+      ],
+      "media_records": 1,
+      "member_record_ids": [
+        "04dc93a3626c28b6",
+        "51cc56e85cf3b533",
+        "6fca8aeba0e68e92",
+        "76e4d3bcdeb86a9c",
+        "98037f12352be361",
+        "af7408d260eb2164",
+        "eb5e55d70640bbc9",
+        "fd769748e76485de"
+      ],
+      "money_mentions": 4,
+      "money_record_ids": [
+        "04dc93a3626c28b6",
+        "6fca8aeba0e68e92",
+        "76e4d3bcdeb86a9c",
+        "fd769748e76485de"
+      ],
+      "record_count": 8,
+      "seller_record_ids": [
+        "a1c22d8d99990233"
+      ],
+      "seller_records": 1
+    },
+    "underwriting-deals": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "How do I underwrite this deal: NOI, cap rate, returns, and can I trust the numbers?",
+      "media_record_ids": [
+        "0051c3d4e75cae25",
+        "0bbf426c0262d6e4",
+        "1aecb42a9eff8f97",
+        "1ec9d1dfcdc532cd",
+        "1fd0d59ace9a6492",
+        "26bbbe03091c051b",
+        "2dd7d6095db1e821",
+        "3191a644352d2323",
+        "4f90c5e9158dda5b",
+        "5d6b83e13f583958",
+        "70342eb0ba52160c",
+        "803dfbd462d4fe05",
+        "9b043d33e6c488ab",
+        "ba79797afc3594c4",
+        "c710b182668dcc67",
+        "ea14c0e7a7dcdcc4",
+        "fae7aa352adb118a"
+      ],
+      "media_records": 17,
+      "member_record_ids": [
+        "1301b92a6bad6771",
+        "4adfa1a0bb940139",
+        "8dbe84d737464a84",
+        "ace8d3a4a6e45d96",
+        "e2a99f53f40b52a8"
+      ],
+      "money_mentions": 1,
+      "money_record_ids": [
+        "1301b92a6bad6771"
+      ],
+      "record_count": 5,
+      "seller_record_ids": [
+        "0d0b9c90f20f7ddb",
+        "12c03ef056a7c977",
+        "471063746d22e628",
+        "4a53b5b0322d728e",
+        "ecd10e34bfb1fbc7",
+        "faef4b08bc9720e3"
+      ],
+      "seller_records": 6
+    },
+    "vacancy-and-tenants": {
+      "failed_spend_mentions": 0,
+      "failed_spend_record_ids": [],
+      "label": "Finding tenants: the warehouse sits empty but the mortgage is due",
+      "media_record_ids": [
+        "2bf7a0f78b78ba2a",
+        "4581622d9fb4ef01",
+        "56c625eae2b242d0",
+        "a49ff6a648558460",
+        "b7008188e325b589"
+      ],
+      "media_records": 5,
+      "member_record_ids": [
+        "a46ffacaa6289cf5",
+        "d0a2e0371ffb5111",
+        "dd4c7a15c948cd48",
+        "eab2ac3d377520e9"
+      ],
+      "money_mentions": 2,
+      "money_record_ids": [
+        "a46ffacaa6289cf5",
+        "eab2ac3d377520e9"
+      ],
+      "record_count": 4,
+      "seller_record_ids": [
+        "4b5db9116f1a55f3",
+        "b65dfc2864fb6570",
+        "bbd83580a9a045d1",
+        "cbbff7cf46cff943",
+        "ce53246323971587",
+        "cec8d2570754999e",
+        "fb4e56c738d70b67"
+      ],
+      "seller_records": 7
+    }
+  },
+  "records_in_manifest": 948,
+  "room": "small-industrial-property-investors",
+  "totals": {
+    "by_kind": {
+      "blog_or_site": 411,
+      "forum": 144,
+      "jobs": 70,
+      "news": 45,
+      "official": 61,
+      "qa": 49,
+      "reviews": 78,
+      "social": 3,
+      "video": 87
+    },
+    "by_source": {
+      "websearch": 948
+    },
+    "by_voice": {
+      "media": 177,
+      "member": 97,
+      "other": 422,
+      "seller": 252
+    },
+    "failed_spend_mentions": 0,
+    "member_records": 97,
+    "member_records_with_pain": 80,
+    "money_mentions": 32,
+    "source_kind_min_records": 5,
+    "source_kinds": [
+      "blog_or_site",
+      "forum",
+      "jobs",
+      "news",
+      "official",
+      "qa",
+      "reviews",
+      "video"
+    ]
+  }
+}

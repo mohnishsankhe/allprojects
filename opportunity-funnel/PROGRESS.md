@@ -73,7 +73,7 @@ Stage 3 per room:
 | outbound-lead-gen-appointment-setting-agencies | 1 | 1022 | 0 | not evaluated | no | not checked |
 | salon-spa-owners-india-global | 1 | 1380 | 720 | not evaluated | no | not checked |
 | small-business-owners-reddit-community | 1 | 926 | 896 | round 1: 896 records, not saturated | no | not checked |
-| small-industrial-property-investors | 1 | 978 | 948 | not evaluated | no | not checked |
+| small-industrial-property-investors | 1 | 978 | 948 | round 1: 948 records, not saturated | no | not checked |
 | startup-founders-409a-83b-deadlines | 1 | 870 | 480 | not evaluated | no | not checked |
 
 Rooms kept: 15. Pains kept: 0. Stage 6 kept: 0. Survivors (final): 0.
