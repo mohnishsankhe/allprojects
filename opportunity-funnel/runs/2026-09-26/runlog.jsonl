@@ -943,3 +943,4 @@
 {"command": "harvest-search", "kind": "source", "note": "titles and URLs only; the search summary is never stored", "records_new": 0, "room": "startup-founders-409a-83b-deadlines", "source": "websearch", "stage": 3, "ts": "2026-09-27T14:56:24+00:00"}
 {"batches": 22, "command": "batches", "dropped_duplicate_text": 59, "dropped_old": 25, "dropped_undated": 0, "include_undated_records": true, "kept": 1636, "kept_month_at_cutoff": 0, "kind": "count", "loaded": 1720, "lookback_cutoff": "2024-09-26", "lookback_months": 24, "room": "startup-founders-409a-83b-deadlines", "stage": 3, "ts": "2026-09-27T14:56:27+00:00", "undated_kept": 1603}
 {"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T14:56:33+00:00"}
+{"changed": false, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T14:56:35+00:00"}
