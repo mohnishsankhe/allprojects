@@ -12,7 +12,7 @@ Current run folder: `runs/2026-09-26/`
 
 ## In progress (workflows; resume with the Workflow tool and `resumeFromRunId` if interrupted)
 - Step A finish — `funnel-build-finish` (run `wf_51b992ab-f05`): finish stage3/stage45/stage6/outputs → integration → 4 reviews → fixes.
-- Stage 2 — mask agents (three workflows over ~14 groups of 8 rooms) → `runs/2026-09-26/02_mask.parts/*.json` → `funnel mask --merge-parts`.
+- Stage 2 — first mask done (111 in: 36 killed, 75 passed, 15 kept, 60 cut). Found a bias: ladder length reflected research effort (gap-pass rooms averaged 6.1 steps vs 4.8), so all 75 survivors get an equal-effort ladder audit (workflows `wf_5157b098-f6b`, `wf_801b0432-cad`, `wf_a4fecb61-e0c` → `runs/2026-09-26/01_rooms.ladders/*.json`). Then apply with the scratchpad script `apply_ladders.py` (it rewrites ladders in 01_rooms.json and the parts), run `funnel rooms` (no --merge-parts) and `funnel mask --merge-parts` again.
 
 ## Next
 1. Record build test results in the run's RUNLOG.md (`funnel log`), commit.

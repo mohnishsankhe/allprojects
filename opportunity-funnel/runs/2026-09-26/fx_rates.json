@@ -1,104 +1,111 @@
 {
- "base": "USD",
- "as_of": "2026-09-26",
- "rates": {
-  "INR": {
-   "per_usd": 95.7159493,
-   "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json",
-   "seen_via": "page",
-   "reasoning": "Indian rupee: 95.7159493 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
-   "confidence": "moderate"
-  },
-  "AED": {
-   "per_usd": 3.6725,
-   "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json",
-   "seen_via": "page",
-   "reasoning": "UAE dirham is pegged to the US dollar at 3.6725 per USD; the dataset shows exactly the peg. Value read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available).",
-   "confidence": "high"
-  },
-  "SAR": {
-   "per_usd": 3.75,
-   "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json",
-   "seen_via": "page",
-   "reasoning": "Saudi riyal is pegged to the US dollar at 3.75 per USD; the dataset shows exactly the peg. Value read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available).",
-   "confidence": "high"
-  },
-  "QAR": {
-   "per_usd": 3.64,
-   "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json",
-   "seen_via": "page",
-   "reasoning": "Qatari riyal is pegged to the US dollar at 3.64 per USD; the dataset shows exactly the peg. Value read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available).",
-   "confidence": "high"
-  },
-  "SGD": {
-   "per_usd": 1.27763145,
-   "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json",
-   "seen_via": "page",
-   "reasoning": "Singapore dollar: 1.27763145 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
-   "confidence": "moderate"
-  },
-  "MYR": {
-   "per_usd": 4.07455768,
-   "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json",
-   "seen_via": "page",
-   "reasoning": "Malaysian ringgit: 4.07455768 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
-   "confidence": "moderate"
-  },
-  "IDR": {
-   "per_usd": 17909.09030577,
-   "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json",
-   "seen_via": "page",
-   "reasoning": "Indonesian rupiah: 17909.09030577 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
-   "confidence": "moderate"
-  },
-  "THB": {
-   "per_usd": 33.40295237,
-   "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json",
-   "seen_via": "page",
-   "reasoning": "Thai baht: 33.40295237 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
-   "confidence": "moderate"
-  },
-  "PHP": {
-   "per_usd": 62.42030803,
-   "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json",
-   "seen_via": "page",
-   "reasoning": "Philippine peso: 62.42030803 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
-   "confidence": "moderate"
-  },
-  "VND": {
-   "per_usd": 25966.24511827,
-   "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json",
-   "seen_via": "page",
-   "reasoning": "Vietnamese dong: 25966.24511827 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
-   "confidence": "moderate"
-  },
-  "GBP": {
-   "per_usd": 0.75492862,
-   "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json",
-   "seen_via": "page",
-   "reasoning": "British pound: 0.75492862 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
-   "confidence": "moderate"
-  },
-  "EUR": {
-   "per_usd": 0.87786534,
-   "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json",
-   "seen_via": "page",
-   "reasoning": "euro: 0.87786534 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
-   "confidence": "moderate"
-  },
-  "AUD": {
-   "per_usd": 1.42335781,
-   "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json",
-   "seen_via": "page",
-   "reasoning": "Australian dollar: 1.42335781 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
-   "confidence": "moderate"
-  },
-  "CAD": {
-   "per_usd": 1.4141871,
-   "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json",
-   "seen_via": "page",
-   "reasoning": "Canadian dollar: 1.4141871 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
-   "confidence": "moderate"
+  "as_of": "2026-09-26",
+  "base": "USD",
+  "rates": {
+    "AED": {
+      "confidence": "high",
+      "per_usd": 3.6725,
+      "reasoning": "UAE dirham is pegged to the US dollar at 3.6725 per USD; the dataset shows exactly the peg. Value read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available).",
+      "seen_via": "page",
+      "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json"
+    },
+    "AUD": {
+      "confidence": "moderate",
+      "per_usd": 1.42335781,
+      "reasoning": "Australian dollar: 1.42335781 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
+      "seen_via": "page",
+      "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json"
+    },
+    "CAD": {
+      "confidence": "moderate",
+      "per_usd": 1.4141871,
+      "reasoning": "Canadian dollar: 1.4141871 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
+      "seen_via": "page",
+      "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json"
+    },
+    "CHF": {
+      "confidence": "moderate",
+      "per_usd": 0.82853525,
+      "reasoning": "Swiss franc: 0.82853525 per USD, read by script from the same fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26 via registry.npmjs.org), added when Stage 2 found a CHF price.",
+      "seen_via": "page",
+      "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json"
+    },
+    "EUR": {
+      "confidence": "moderate",
+      "per_usd": 0.87786534,
+      "reasoning": "euro: 0.87786534 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
+      "seen_via": "page",
+      "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json"
+    },
+    "GBP": {
+      "confidence": "moderate",
+      "per_usd": 0.75492862,
+      "reasoning": "British pound: 0.75492862 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
+      "seen_via": "page",
+      "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json"
+    },
+    "IDR": {
+      "confidence": "moderate",
+      "per_usd": 17909.09030577,
+      "reasoning": "Indonesian rupiah: 17909.09030577 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
+      "seen_via": "page",
+      "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json"
+    },
+    "INR": {
+      "confidence": "moderate",
+      "per_usd": 95.7159493,
+      "reasoning": "Indian rupee: 95.7159493 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
+      "seen_via": "page",
+      "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json"
+    },
+    "MYR": {
+      "confidence": "moderate",
+      "per_usd": 4.07455768,
+      "reasoning": "Malaysian ringgit: 4.07455768 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
+      "seen_via": "page",
+      "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json"
+    },
+    "PHP": {
+      "confidence": "moderate",
+      "per_usd": 62.42030803,
+      "reasoning": "Philippine peso: 62.42030803 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
+      "seen_via": "page",
+      "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json"
+    },
+    "QAR": {
+      "confidence": "high",
+      "per_usd": 3.64,
+      "reasoning": "Qatari riyal is pegged to the US dollar at 3.64 per USD; the dataset shows exactly the peg. Value read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available).",
+      "seen_via": "page",
+      "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json"
+    },
+    "SAR": {
+      "confidence": "high",
+      "per_usd": 3.75,
+      "reasoning": "Saudi riyal is pegged to the US dollar at 3.75 per USD; the dataset shows exactly the peg. Value read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available).",
+      "seen_via": "page",
+      "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json"
+    },
+    "SGD": {
+      "confidence": "moderate",
+      "per_usd": 1.27763145,
+      "reasoning": "Singapore dollar: 1.27763145 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
+      "seen_via": "page",
+      "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json"
+    },
+    "THB": {
+      "confidence": "moderate",
+      "per_usd": 33.40295237,
+      "reasoning": "Thai baht: 33.40295237 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
+      "seen_via": "page",
+      "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json"
+    },
+    "VND": {
+      "confidence": "moderate",
+      "per_usd": 25966.24511827,
+      "reasoning": "Vietnamese dong: 25966.24511827 per USD, read from the fawazahmed0 currency-api dataset dated 2026-09-26 (npm package @fawazahmed0/currency-api 2026.9.26, fetched as the registry tarball because this session's proxy blocks jsdelivr, xe, x-rates and the ECB; the WebSearch budget was exhausted, so no search result was available). Single aggregator source; no second source or search result could be checked from this session.",
+      "seen_via": "page",
+      "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-09-26/v1/currencies/usd.json"
+    }
   }
- }
 }
