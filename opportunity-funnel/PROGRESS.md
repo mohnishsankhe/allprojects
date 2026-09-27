@@ -61,19 +61,19 @@ Stage 3 per room:
 | Room | Rounds | Records | Labeled | Saturation | Draft | Quote check |
 |---|---|---|---|---|---|---|
 | active-retail-options-traders | 2 | 2309 | 1086 | round 1: 1086 records, not saturated | no | not checked |
-| bpo-contact-centre-operators-india-philippines | 2 | 2188 | 1963 | round 1: 1243 records, not saturated | no | not checked |
+| bpo-contact-centre-operators-india-philippines | 2 | 2188 | 2050 | round 1: 1243 records, not saturated | no | not checked |
 | business-brokers-ma-boutiques | 2 | 1646 | 979 | round 2: 979 records, not saturated | no | not checked |
 | cfa-candidates-community | 2 | 1814 | 1751 | round 2: 878 records, not saturated | no | not checked |
-| d2c-brands-scaling-past-launch | 2 | 1884 | 1148 | round 1: 988 records, not saturated | no | not checked |
+| d2c-brands-scaling-past-launch | 2 | 1884 | 1308 | round 1: 988 records, not saturated | no | not checked |
 | dubai-real-estate-brokerages-telesales | 2 | 1516 | 1472 | round 1: 882 records, not saturated | no | not checked |
 | gre-engineers-india | 2 | 1762 | 1726 | round 1: 900 records, not saturated | no | not checked |
 | gre-preppers-worldwide-online | 2 | 1951 | 1896 | round 2: 1896 records, not saturated | no | not checked |
 | indie-perfumers-launching-brands | 2 | 1794 | 1728 | round 2: 1728 records, not saturated | no | not checked |
 | lender-insurer-telesales-floors-india | 2 | 1721 | 1684 | round 2: 1684 records, not saturated | no | not checked |
 | outbound-lead-gen-appointment-setting-agencies | 1 | 1022 | 984 | round 1: 984 records, not saturated | no | not checked |
-| salon-spa-owners-india-global | 2 | 2302 | 1740 | round 1: 1340 records, not saturated | no | not checked |
+| salon-spa-owners-india-global | 2 | 2302 | 1900 | round 1: 1340 records, not saturated | no | not checked |
 | small-business-owners-reddit-community | 2 | 2219 | 2180 | round 1: 896 records, not saturated | no | not checked |
-| small-industrial-property-investors | 2 | 1784 | 1588 | round 1: 948 records, not saturated | no | not checked |
+| small-industrial-property-investors | 2 | 1784 | 1748 | round 1: 948 records, not saturated | no | not checked |
 | startup-founders-409a-83b-deadlines | 2 | 1720 | 1636 | round 2: 1636 records, not saturated | no | not checked |
 
 Rooms kept: 15. Pains kept: 0. Stage 6 kept: 0. Survivors (final): 0.

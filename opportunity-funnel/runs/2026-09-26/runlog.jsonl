@@ -1084,3 +1084,6 @@
 {"command": "listen-status", "dated": 48, "kind": "ran", "per_round": {"1": 922, "2": 724}, "per_source": {"websearch": 1646}, "records": 1646, "room": "business-brokers-ma-boutiques", "stage": 3, "ts": "2026-09-27T16:16:14+00:00", "undated": 1598}
 {"command": "show", "ids": 8, "kind": "ran", "missing": [], "room": "bpo-contact-centre-operators-india-philippines", "stage": 3, "ts": "2026-09-27T16:16:19+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T16:16:31+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "small-industrial-property-investors", "stage": 3, "ts": "2026-09-27T16:18:39+00:00"}
+{"command": "show", "ids": 57, "kind": "ran", "missing": [], "room": "bpo-contact-centre-operators-india-philippines", "stage": 3, "ts": "2026-09-27T16:20:55+00:00"}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T16:21:34+00:00"}
