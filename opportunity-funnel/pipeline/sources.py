@@ -997,17 +997,42 @@ def discourse_topic_id(s) -> int:
     raise common.ValidationErrors([f"fetch discourse: {s!r} is not a topic id or a topic URL like https://forum.example/t/slug/123."])
 
 
-_QUOTE_TITLE_RE = re.compile(r'(<aside\b[^>]*class="[^"]*\bquote\b[^"]*"[^>]*>\s*)<div\b[^>]*class="[^"]*\btitle\b[^"]*"[^>]*>.*?</div>',
-                             re.IGNORECASE | re.DOTALL)
+_QUOTE_ASIDE_RE = re.compile(r'<aside\b[^>]*class="[^"]*\bquote\b[^"]*"[^>]*>', re.IGNORECASE)
+_TITLE_OPEN_RE = re.compile(r'\s*<div\b[^>]*class="[^"]*\btitle\b[^"]*"[^>]*>', re.IGNORECASE)
+_DIV_TAG_RE = re.compile(r'<(/?)div\b[^>]*>', re.IGNORECASE)
 _DATA_USERNAME_RE = re.compile(r'data-username="([^"]+)"', re.IGNORECASE)
 
 
 def strip_quote_headers(cooked) -> tuple:
-    """(html without quote title divs, usernames named by data-username). See the module doc."""
+    """(html without quote title divs, usernames named by data-username). See the module doc.
+
+    Discourse nests other divs inside the title (`<div class="quote-controls"></div>`), so the title's own
+    closing tag is found by counting div depth, never by the first `</div>`.
+    """
     html = str(cooked or "")
     usernames = sorted({_html.unescape(u).strip() for u in _DATA_USERNAME_RE.findall(html) if u.strip()})
-    html = _QUOTE_TITLE_RE.sub(r'\1<div class="title">[user]:</div>', html)
-    return html, usernames
+    out: list = []
+    pos = 0
+    for aside in _QUOTE_ASIDE_RE.finditer(html):
+        if aside.start() < pos:
+            continue
+        title = _TITLE_OPEN_RE.match(html, aside.end())
+        if not title:
+            continue
+        depth = 1
+        end = None
+        for tag in _DIV_TAG_RE.finditer(html, title.end()):
+            depth += -1 if tag.group(1) else 1
+            if depth == 0:
+                end = tag.end()
+                break
+        if end is None:
+            continue  # unbalanced markup: the known-names pass still removes the username from the text
+        out.append(html[pos:aside.end()])
+        out.append('<div class="title">[user]:</div>')
+        pos = end
+    out.append(html[pos:])
+    return "".join(out), usernames
 
 
 def _forum_base(forum: str) -> str:

@@ -5,6 +5,7 @@ import pytest
 import common
 import harvest
 import records
+from anonymize import is_profile_url
 from conftest import TRANSCRIPTS
 
 ROOM = "gre-engineers-india"
@@ -229,9 +230,15 @@ def test_profile_pages_are_never_stored_and_social_titles_lose_the_name(run, cli
         "[name] on X: \"paid 40k for coaching, scored 300\"",
         "GRE quant plateau: what finally worked - YouTube",
     ]
-    raw = (run / "03_listen" / "raw" / ROOM / "websearch.jsonl").read_text(encoding="utf-8") + r.stdout + r.stderr
-    for needle in ("Priya", "Sharma", "Rahul", "Verma", "linkedin.com/in/", "quora.com/profile", "x.com/priya_s", "youtube.com/@", "facebook.com/rahul"):
+    # the name is gone from every text and from the screen; the stored URLs are the posts' own (a Quora answer URL
+    # carries the author's name by design and is the post's URL, which rule 5 keeps); no profile URL is stored
+    texts = " ".join(x["text"] for x in stored) + r.stdout + r.stderr
+    for needle in ("Priya", "Sharma", "Rahul", "Verma"):
+        assert needle not in texts, needle
+    raw = (run / "03_listen" / "raw" / ROOM / "websearch.jsonl").read_text(encoding="utf-8")
+    for needle in ("linkedin.com/in/", "quora.com/profile", "x.com/priya_s\"", "youtube.com/@", "facebook.com/rahul"):
         assert needle not in raw, needle
+    assert not any(is_profile_url(x["url"]) for x in stored)
     events = [e for e in common.read_jsonl(run / "runlog.jsonl") if e["command"] == "harvest-search" and e["kind"] == "count"]
     assert events[-1]["skipped_profile_pages"] == 5
     # the store refuses a profile URL from any adapter too

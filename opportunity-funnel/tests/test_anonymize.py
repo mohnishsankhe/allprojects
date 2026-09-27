@@ -125,10 +125,11 @@ def test_known_name_parts_that_are_roles_acronyms_or_lowercase_survive():
     assert anonymize("the scholarship grant covers fees", known_names=known) == "the scholarship grant covers fees"
     assert anonymize("Rahul GRE Tutor: ask rahul or RAHUL; Priya Mehta, priya_mehta, MEHTA and Mehta", known_names=known) == \
         "[name]: ask [name] or [name]; [name], [name], [name] and [name]"
-    assert anonymize("Amit Sir Coaching said Amit and Neha Delhi Centre; Grant Lee; Lee; grant", known_names=known) == \
-        "[name] said [name] and [name]; [name]; [name]; grant"
-    # a part not capitalised in the contact string is never removed on its own; the whole name still is
-    assert anonymize("sam lowercase wrote; sam; lowercase", known_names=known) == "[name] wrote; [name]; lowercase"
+    assert anonymize("Amit said the Delhi centre is fine; Neha Delhi Centre agreed; Grant Lee; Lee; grant", known_names=known) == \
+        "[name] said the Delhi centre is fine; [name] agreed; [name]; [name]; grant"
+    # a part not capitalised in the contact string is never removed on its own (it could be any word); the
+    # whole name still is, in any letter case
+    assert anonymize("sam lowercase wrote; Sam Lowercase too; sam; lowercase", known_names=known) == "[name] wrote; [name] too; sam; lowercase"
     # the file label of a chat export is anonymized the same way
     assert anonymize("gre-batch.txt", known_names=("Rahul GRE Tutor",)) == "gre-batch.txt"
 

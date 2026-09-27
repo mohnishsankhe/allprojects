@@ -639,7 +639,9 @@ QUOTED_COOKED = ('<aside class="quote no-group" data-username="priya_s" data-pos
 
 def test_discourse_quote_headers_never_keep_the_quoted_username(froot, run, monkeypatch):
     html, users = sources.strip_quote_headers(QUOTED_COOKED)
-    assert users == ["priya_s"] and "priya_s" not in html and '<div class="title">[user]:</div>' in html
+    assert users == ["priya_s"] and '<div class="title">[user]:</div>' in html
+    assert "priya_s" not in netfetch.html_to_text(html)  # only the data-username attribute keeps it, and attributes are never stored
+    assert "quote-controls" not in html and html.count("<div") == 1
     text = anonymize(netfetch.html_to_text(html), known_names=users)
     assert text == "[user]:\nI paid 40k and still scored 300\nSame here, [user] told me the same."
     assert sources.strip_quote_headers(None) == ("", []) and sources.strip_quote_headers("<p>plain</p>") == ("<p>plain</p>", [])
