@@ -1,5 +1,5 @@
 {
-  "labeled": 805,
+  "labeled": 878,
   "notes": [],
   "pains": {
     "failed-what-next": {
@@ -35,16 +35,22 @@
         "1010dc555209b8ff",
         "24581e027be5f597",
         "30f046d9787d52d1",
+        "381406b019d3e6cf",
         "3a0a69566b7abe8b",
+        "43f609d79cff6bf0",
         "4650a433ee5f9390",
         "48190605368afe6d",
         "4e5349989449f7f7",
+        "52d2f8195b4d3069",
         "5662aa151c6baca5",
+        "588c8b3b37794b01",
+        "59f9cfe4606a528e",
         "5d05816a1759e8f9",
         "5dd2537b3a510ba4",
         "5e80bdd826178840",
         "70e63e76c5249fdb",
         "84f27889bda0708a",
+        "8b8328eb0b15f680",
         "8fc99f39da2a05a2",
         "952b2b31377ab904",
         "96270cfc3b5a0d22",
@@ -54,17 +60,26 @@
         "ae803378a692e371",
         "c9cf6e9189f82915",
         "cdf46b5e9f169b9d",
+        "d8d59e81f67061c2",
+        "dca8fea9f2f0312e",
+        "e0102e1b0c96caa2",
+        "e4a91be1abbd5985",
         "e4b032725b063d51",
         "efef22ad126ed21b",
         "f231fcad01379361",
-        "f4ec5e43466cbed1"
+        "f4ec5e43466cbed1",
+        "f8d7071303888bf5"
       ],
-      "money_mentions": 2,
+      "money_mentions": 6,
       "money_record_ids": [
+        "381406b019d3e6cf",
         "48190605368afe6d",
-        "952b2b31377ab904"
+        "8b8328eb0b15f680",
+        "952b2b31377ab904",
+        "d8d59e81f67061c2",
+        "dca8fea9f2f0312e"
       ],
-      "record_count": 31,
+      "record_count": 42,
       "seller_record_ids": [
         "0122fa0bf65f308d",
         "07d63b2708c8a7dc",
@@ -286,18 +301,24 @@
       "failed_spend_record_ids": [],
       "label": "Am I allowed to postpone my exam? Can I get a refund for the CFA exams?",
       "media_record_ids": [
+        "37c3d1ccbe399055",
+        "4be7cee872de3baf",
         "91c81a6599404160",
+        "a30343469a33a1b8",
         "d587f91cb9682162"
       ],
-      "media_records": 2,
+      "media_records": 5,
       "member_record_ids": [
         "2ce6cafcea473184",
         "30f046d9787d52d1",
         "4aa135d34dc51f3f",
         "6c8d438b71ea963a",
+        "73f6d1f4ed2066b5",
         "80cae0acf0730e3f",
         "948c30daaca98f46",
-        "df32831015c59152"
+        "df32831015c59152",
+        "f487404b48151e53",
+        "f8134d545dc779fa"
       ],
       "money_mentions": 3,
       "money_record_ids": [
@@ -305,7 +326,7 @@
         "6c8d438b71ea963a",
         "948c30daaca98f46"
       ],
-      "record_count": 7,
+      "record_count": 10,
       "seller_record_ids": [],
       "seller_records": 0
     },
@@ -316,7 +337,9 @@
       "media_record_ids": [],
       "media_records": 0,
       "member_record_ids": [
+        "1537525c0caefcc3",
         "39c2088e4ca1804f",
+        "50c14ab5e67d38c6",
         "636748289e0848f9",
         "70a45da89ccecfc1",
         "a7a124875cb08b92",
@@ -324,7 +347,7 @@
       ],
       "money_mentions": 0,
       "money_record_ids": [],
-      "record_count": 5,
+      "record_count": 7,
       "seller_record_ids": [],
       "seller_records": 0
     },
@@ -339,11 +362,15 @@
       ],
       "media_records": 3,
       "member_record_ids": [
+        "04bd404b58d34701",
         "41de650e8f8172fa",
         "4e5349989449f7f7",
         "5871e4ae2d17a7f4",
+        "670fe79d7c83fa62",
         "7954e336fe12bdab",
+        "8eb137a971a27862",
         "a021291267cf7a27",
+        "c3cd4f94bb2c4f87",
         "e43c0b152abe98f9"
       ],
       "money_mentions": 2,
@@ -351,7 +378,7 @@
         "41de650e8f8172fa",
         "a021291267cf7a27"
       ],
-      "record_count": 6,
+      "record_count": 10,
       "seller_record_ids": [
         "b3d7bd6c78c7cda7"
       ],
@@ -560,21 +587,30 @@
         "21c4337273b36a23",
         "24494d3e57d09b0d",
         "26af0585417423d5",
+        "279b345113b79a8a",
         "27d462c500d971b1",
         "28822437343e1c8d",
         "2db35c681fcf9d83",
         "35fc9ff3a2214fa2",
         "36424930f5608fff",
+        "3675313d5e89a3b6",
+        "381406b019d3e6cf",
         "3a74e14202bad265",
         "47d143b7c1b3e334",
         "4b1a35951e4b9870",
         "4f5a8741673595f7",
+        "50c14ab5e67d38c6",
+        "589c774a04d76424",
         "58c8f9b86784baf1",
         "5a8df73709633e1f",
         "6d621b4eaab82fab",
+        "6e91ffec73aa9105",
         "7c8b64c8652b89cc",
+        "7e3e80239ae65e82",
         "811649e7ce4a0adf",
         "935cd3e198cca7b9",
+        "94eeba1cd85d1d73",
+        "970e6454470df797",
         "9a442cc5fad7f604",
         "af9b258db8b0f3dd",
         "b719430af93f21aa",
@@ -587,14 +623,18 @@
         "f17ad2b54bf47543",
         "f231fcad01379361",
         "f803e1c46091597e",
-        "fa7cc6287be1b5b8"
+        "fa7cc6287be1b5b8",
+        "ff467dc5c32d3991"
       ],
-      "money_mentions": 2,
+      "money_mentions": 5,
       "money_record_ids": [
         "0063e315a5dd3a3a",
-        "1b85e0e26454eed1"
+        "1b85e0e26454eed1",
+        "381406b019d3e6cf",
+        "6e91ffec73aa9105",
+        "94eeba1cd85d1d73"
       ],
-      "record_count": 38,
+      "record_count": 48,
       "seller_record_ids": [
         "151fb00bab3f5f0d",
         "360284bb3bc5d6c8",
@@ -677,6 +717,7 @@
         "709561212de3dd9a",
         "71c359a31ad731f4",
         "82d2f287c9e44566",
+        "83b178f6ef522e42",
         "b01744a23ed438e9",
         "c34856ca5a2f1762",
         "c8f78a1827e5bb19",
@@ -689,7 +730,7 @@
       "money_record_ids": [
         "5df9601f53461bf6"
       ],
-      "record_count": 17,
+      "record_count": 18,
       "seller_record_ids": [
         "0c8eeee2b100f22f",
         "0e617cd76a53ba71",
@@ -719,33 +760,33 @@
       "seller_records": 24
     }
   },
-  "records_in_manifest": 805,
+  "records_in_manifest": 878,
   "room": "cfa-candidates-community",
   "totals": {
     "by_kind": {
-      "blog_or_site": 373,
-      "forum": 84,
+      "blog_or_site": 377,
+      "forum": 152,
       "jobs": 41,
       "news": 12,
       "official": 65,
       "qa": 73,
-      "reviews": 64,
+      "reviews": 65,
       "social": 11,
       "video": 82
     },
     "by_source": {
-      "websearch": 805
+      "websearch": 878
     },
     "by_voice": {
-      "media": 148,
-      "member": 174,
-      "other": 206,
+      "media": 151,
+      "member": 225,
+      "other": 225,
       "seller": 277
     },
     "failed_spend_mentions": 0,
-    "member_records": 174,
-    "member_records_with_pain": 163,
-    "money_mentions": 30,
+    "member_records": 225,
+    "member_records_with_pain": 192,
+    "money_mentions": 36,
     "source_kind_min_records": 5,
     "source_kinds": [
       "blog_or_site",

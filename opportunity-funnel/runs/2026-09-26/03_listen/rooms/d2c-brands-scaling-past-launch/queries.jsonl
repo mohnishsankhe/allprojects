@@ -108,3 +108,102 @@
 {"round": 1, "query": "performance marketing agency ne paisa barbad kiya", "kind": "phrasing"}
 {"round": 1, "query": "COD order cancel ho raha hai brand nuksan", "kind": "phrasing"}
 {"round": 1, "query": "RTO kam karne ka tarika D2C brand", "kind": "phrasing"}
+{"round": 2, "query": "site:community.shopify.com Shopify Payments payouts on hold how long", "kind": "forum"}
+{"round": 2, "query": "site:community.shopify.com charged for app after uninstalling want refund", "kind": "forum"}
+{"round": 2, "query": "site:community.shopify.com paid Shopify expert got scammed no results", "kind": "forum"}
+{"round": 2, "query": "site:community.shopify.com Meta pixel not tracking purchases Facebook Instagram app", "kind": "forum"}
+{"round": 2, "query": "site:community.shopify.com Google Ads conversion tracking not recording purchases", "kind": "forum"}
+{"round": 2, "query": "site:community.shopify.com lost chargeback even with proof of delivery", "kind": "forum"}
+{"round": 2, "query": "site:community.shopify.com sessions dropped organic traffic down sales falling", "kind": "forum"}
+{"round": 2, "query": "site:community.shopify.com too many where is my order emails from customers", "kind": "forum"}
+{"round": 2, "query": "site:community.shopify.com Klaviyo too expensive active profiles switching", "kind": "forum"}
+{"round": 2, "query": "site:community.shopify.com marketing emails going to spam open rate dropped", "kind": "forum"}
+{"round": 2, "query": "site:community.shopify.com COD remittance delayed Shiprocket money not received", "kind": "forum"}
+{"round": 2, "query": "site:community.shopify.com Razorpay settlement delayed India store payments", "kind": "forum"}
+{"round": 2, "query": "site:community.shopify.com spending more on ads but sales dropping", "kind": "forum"}
+{"round": 2, "query": "site:community.shopify.com WhatsApp message charges per conversation too expensive", "kind": "forum"}
+{"round": 2, "query": "site:community.shopify.com 3PL fulfillment errors lost inventory switching warehouse", "kind": "forum"}
+{"round": 2, "query": "site:community.shopify.com US tariffs duties customers refusing packages de minimis", "kind": "forum"}
+{"round": 2, "query": "site:community.shopify.com helpdesk too expensive per ticket Gorgias alternative", "kind": "forum"}
+{"round": 2, "query": "site:community.shopify.com hide cash on delivery above order value or pincode", "kind": "forum"}
+{"round": 2, "query": "site:sellercentral.amazon.in forum SAFE-T claim rejected customer returned wrong item", "kind": "forum"}
+{"round": 2, "query": "site:sellercentral.amazon.in forum referral fee closing fee increase margins", "kind": "forum"}
+{"round": 2, "query": "site:sellercentral.amazon.in forum payment on hold disbursement not received", "kind": "forum"}
+{"round": 2, "query": "site:sellercentral.amazon.in forum brand listing hijacked seller selling fake product", "kind": "forum"}
+{"round": 2, "query": "site:sellercentral.amazon.com forum low inventory fee inbound placement fee killing margins", "kind": "forum"}
+{"round": 2, "query": "site:sellercentral.amazon.com forum account deactivated funds withheld 90 days", "kind": "forum"}
+{"round": 2, "query": "site:sellercentral.amazon.com forum counterfeit complaint listing removed brand owner", "kind": "forum"}
+{"round": 2, "query": "site:support.google.com Google Ads account suspended circumventing systems my online store", "kind": "forum"}
+{"round": 2, "query": "site:support.google.com Performance Max spent budget zero conversions help", "kind": "forum"}
+{"round": 2, "query": "site:support.google.com Merchant Center account suspended misrepresentation my store", "kind": "forum"}
+{"round": 2, "query": "site:support.google.com Search Console clicks dropped AI Overviews ecommerce site", "kind": "forum"}
+{"round": 2, "query": "site:community.klaviyo.com billed for more profiles than expected", "kind": "forum"}
+{"round": 2, "query": "site:community.klaviyo.com deliverability dropped emails landing in spam", "kind": "forum"}
+{"round": 2, "query": "site:developers.facebook.com WhatsApp marketing messages not delivered error 131049", "kind": "forum"}
+{"round": 2, "query": "site:indiehackers.com shutting down my DTC brand lost money", "kind": "forum"}
+{"round": 2, "query": "site:indiehackers.com ecommerce brand customer acquisition cost too high no profit", "kind": "forum"}
+{"round": 2, "query": "site:news.ycombinator.com Ask HN running a DTC brand ads getting expensive", "kind": "forum"}
+{"round": 2, "query": "site:caclubindia.com e-commerce seller TCS credit mismatch GSTR", "kind": "forum"}
+{"round": 2, "query": "site:caclubindia.com GST notice online seller own website sales", "kind": "forum"}
+{"round": 2, "query": "site:wordpress.org WooCommerce WhatsApp order notification not sending", "kind": "forum"}
+{"round": 2, "query": "site:quora.com my COD remittance from Shiprocket is delayed what should I do", "kind": "qa"}
+{"round": 2, "query": "site:quora.com is selling on Blinkit and Zepto profitable for a small brand", "kind": "qa"}
+{"round": 2, "query": "site:quora.com how can I handle customer queries on WhatsApp for my online store", "kind": "qa"}
+{"round": 2, "query": "site:quora.com WhatsApp Business API charges too high for my business alternatives", "kind": "qa"}
+{"round": 2, "query": "site:quora.com my D2C brand is not profitable should I shut it down", "kind": "qa"}
+{"round": 2, "query": "site:quora.com how can I get working capital for my ecommerce brand inventory", "kind": "qa"}
+{"round": 2, "query": "site:quora.com online seller GST return filing Amazon TCS claim help", "kind": "qa"}
+{"round": 2, "query": "site:quora.com Legal Metrology penalty online seller MRP country of origin", "kind": "qa"}
+{"round": 2, "query": "site:quora.com I paid a digital marketing agency but got no sales", "kind": "qa"}
+{"round": 2, "query": "site:quora.com paid influencers for my brand but got zero sales", "kind": "qa"}
+{"round": 2, "query": "site:quora.com why is my Facebook ads cost per purchase increasing", "kind": "qa"}
+{"round": 2, "query": "site:quora.com customer refused COD order courier charged RTO fee", "kind": "qa"}
+{"round": 2, "query": "site:quora.com is it worth selling on Amazon India with high fees", "kind": "qa"}
+{"round": 2, "query": "site:quora.com my website traffic dropped after Google AI Overviews", "kind": "qa"}
+{"round": 2, "query": "site:quora.com cheapest courier for my online store shipping charges too high", "kind": "qa"}
+{"round": 2, "query": "site:webmasters.stackexchange.com ecommerce site organic traffic dropped Google update", "kind": "qa"}
+{"round": 2, "query": "site:consumercomplaints.in Shiprocket wallet balance not refunded", "kind": "reviews"}
+{"round": 2, "query": "site:consumercomplaints.in Delhivery fake delivery attempt RTO seller", "kind": "reviews"}
+{"round": 2, "query": "site:consumercomplaints.in Razorpay settlement on hold merchant account", "kind": "reviews"}
+{"round": 2, "query": "site:consumercomplaints.in Amazon seller account deactivated payment not released", "kind": "reviews"}
+{"round": 2, "query": "site:consumercomplaints.in digital marketing agency took payment no results", "kind": "reviews"}
+{"round": 2, "query": "site:consumercomplaints.in AiSensy WhatsApp charges refund", "kind": "reviews"}
+{"round": 2, "query": "site:mouthshut.com Delhivery seller review RTO charges", "kind": "reviews"}
+{"round": 2, "query": "site:mouthshut.com Razorpay review merchant settlement delay", "kind": "reviews"}
+{"round": 2, "query": "site:trustpilot.com Gorgias billing charged tickets review", "kind": "reviews"}
+{"round": 2, "query": "site:trustpilot.com Klaviyo price increase review", "kind": "reviews"}
+{"round": 2, "query": "site:voxya.com Shiprocket complaint COD amount not received", "kind": "reviews"}
+{"round": 2, "query": "COD remittance kab milega Shiprocket paisa atka hai", "kind": "phrasing"}
+{"round": 2, "query": "Amazon seller account deactivate ho gaya payment atak gaya kya kare", "kind": "phrasing"}
+{"round": 2, "query": "Blinkit Zepto par brand list karne mein kitna margin dena padta hai", "kind": "phrasing"}
+{"round": 2, "query": "WhatsApp API ka kharcha kaise kam kare online business", "kind": "phrasing"}
+{"round": 2, "query": "online seller ko GST notice aaya kya kare", "kind": "phrasing"}
+{"round": 2, "query": "ऑनलाइन सेलर का COD ऑर्डर रिटर्न नुकसान कैसे रोकें", "kind": "phrasing"}
+{"round": 2, "query": "फेसबुक ऐड अकाउंट डिसेबल हो गया क्या करें", "kind": "phrasing"}
+{"round": 2, "query": "is Klaviyo worth it for a small Shopify brand", "kind": "phrasing"}
+{"round": 2, "query": "wasted money on influencer marketing for my D2C brand", "kind": "phrasing"}
+{"round": 2, "query": "how to get a disabled Meta ad account back without paying an agency", "kind": "phrasing"}
+{"round": 2, "query": "Shopify store making sales but no money in the bank", "kind": "phrasing"}
+{"round": 2, "query": "site:gov.in EPR plastic packaging brand owner annual return last date", "kind": "official"}
+{"round": 2, "query": "site:gov.in e-invoice 30 days time limit reporting AATO 10 crore advisory", "kind": "official"}
+{"round": 2, "query": "site:cbp.gov de minimis exemption suspended ecommerce shipments", "kind": "official"}
+{"round": 2, "query": "site:europa.eu General Product Safety Regulation online sellers obligations", "kind": "official"}
+{"round": 2, "query": "site:consumeraffairs.nic.in e-commerce dark patterns self-audit advisory", "kind": "official"}
+{"round": 2, "query": "site:gov.in Legal Metrology packaged commodities e-commerce declaration amendment", "kind": "official"}
+{"round": 2, "query": "Shopify Thank you and Order status pages upgrade deadline August 2026 non-Plus stores", "kind": "official"}
+{"round": 2, "query": "Meta ads attribution window 7-day view 28-day view removal January 2026", "kind": "official"}
+{"round": 2, "query": "Shopify Scripts end date migrate to Shopify Functions", "kind": "official"}
+{"round": 2, "query": "site:naukri.com COD order confirmation calling executive ecommerce", "kind": "jobs"}
+{"round": 2, "query": "site:naukri.com e-commerce GST compliance executive marketplace", "kind": "jobs"}
+{"round": 2, "query": "site:linkedin.com/jobs Amazon account health manager D2C brand", "kind": "jobs"}
+{"round": 2, "query": "Amazon seller account reinstatement service fees India", "kind": "pricing"}
+{"round": 2, "query": "Chargeflow pricing chargeback recovery Shopify", "kind": "pricing"}
+{"round": 2, "query": "AiSensy pricing", "kind": "pricing"}
+{"round": 2, "query": "LimeChat pricing WhatsApp AI support", "kind": "pricing"}
+{"round": 2, "query": "EPR registration consultant fees brand owner plastic packaging", "kind": "pricing"}
+{"round": 2, "query": "site:youtube.com I lost lakhs in my D2C brand mistakes", "kind": "video"}
+{"round": 2, "query": "site:youtube.com EPR registration brand owner online seller kaise kare", "kind": "video"}
+{"round": 2, "query": "site:youtube.com Shopify Payments payout on hold what to do", "kind": "video"}
+{"round": 2, "query": "site:medium.com I shut down my DTC brand what went wrong", "kind": "blog"}
+{"round": 2, "query": "site:medium.com how we burned money on Facebook ads DTC brand", "kind": "blog"}
+{"round": 2, "query": "site:substack.com founder why we shut down our D2C brand", "kind": "blog"}
