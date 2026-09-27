@@ -1233,6 +1233,10 @@
     },
     "failed_spend_mentions": 1,
     "member_records": 359,
+    "member_records_by_round": {
+      "1": 82,
+      "2": 277
+    },
     "member_records_with_pain": 244,
     "money_mentions": 113,
     "source_kind_min_records": 5,
