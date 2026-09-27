@@ -1060,3 +1060,12 @@
 {"command": "show", "ids": 6, "kind": "ran", "missing": [], "room": "d2c-brands-scaling-past-launch", "stage": 3, "ts": "2026-09-27T16:00:08+00:00"}
 {"command": "show", "ids": 19, "kind": "ran", "missing": [], "room": "d2c-brands-scaling-past-launch", "stage": 3, "ts": "2026-09-27T16:00:54+00:00"}
 {"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T16:01:24+00:00"}
+{"changed": 1, "command": "apply-patches", "kind": "ran", "patches": ["pack_r2_001", "pack_r2_002"], "room": "startup-founders-409a-83b-deadlines", "stage": 3, "ts": "2026-09-27T16:02:02+00:00"}
+{"by_kind": {"blog_or_site": 682, "forum": 212, "jobs": 133, "news": 10, "official": 39, "qa": 339, "reviews": 114, "social": 46, "video": 61}, "by_source": {"websearch": 1636}, "by_voice": {"media": 229, "member": 355, "other": 575, "seller": 477}, "command": "count", "kind": "count", "labeled": 1636, "pains": 17, "room": "startup-founders-409a-83b-deadlines", "source_kinds": 9, "stage": 3, "ts": "2026-09-27T16:02:05+00:00"}
+{"command": "saturation", "kind": "count", "new_pains": ["closing-dead-company", "corp-tax-return-confusion", "delaware-franchise-tax-shock", "form-5472-foreign-owner", "founder-stock-setup", "sec-form-d-filing"], "new_records": 823, "rank_changes": 9, "records": 1636, "room": "startup-founders-409a-83b-deadlines", "round": 2, "saturated": false, "stage": 3, "stop_reason": null, "ts": "2026-09-27T16:02:09+00:00"}
+{"command": "listen-status", "dated": 59, "kind": "ran", "per_round": {"1": 870, "2": 850}, "per_source": {"websearch": 1720}, "records": 1720, "room": "startup-founders-409a-83b-deadlines", "stage": 3, "ts": "2026-09-27T16:02:12+00:00", "undated": 1661}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "small-industrial-property-investors", "stage": 3, "ts": "2026-09-27T16:03:02+00:00"}
+{"command": "show", "ids": 80, "kind": "ran", "missing": [], "room": "d2c-brands-scaling-past-launch", "stage": 3, "ts": "2026-09-27T16:03:02+00:00"}
+{"command": "show", "ids": 116, "kind": "ran", "missing": [], "room": "d2c-brands-scaling-past-launch", "stage": 3, "ts": "2026-09-27T16:03:34+00:00"}
+{"command": "listen-status", "dated": 59, "kind": "ran", "per_round": {"1": 870, "2": 850}, "per_source": {"websearch": 1720}, "records": 1720, "room": "startup-founders-409a-83b-deadlines", "stage": 3, "ts": "2026-09-27T16:06:19+00:00", "undated": 1661}
+{"changed": true, "command": "progress", "kind": "ran", "placed": "replaced", "stage": 7, "ts": "2026-09-27T16:06:26+00:00"}

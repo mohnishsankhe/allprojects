@@ -27,6 +27,97 @@
       ],
       "window": 300,
       "window_used": 813
+    },
+    {
+      "evaluable": true,
+      "new_pains": [
+        "closing-dead-company",
+        "corp-tax-return-confusion",
+        "delaware-franchise-tax-shock",
+        "form-5472-foreign-owner",
+        "founder-stock-setup",
+        "sec-form-d-filing"
+      ],
+      "new_records": 823,
+      "rank_changes": [
+        {
+          "key": "409a-low-but-defensible",
+          "rank_after": 12,
+          "rank_before": 10
+        },
+        {
+          "key": "409a-too-expensive",
+          "rank_after": 9,
+          "rank_before": 5
+        },
+        {
+          "key": "409a-when-needed",
+          "rank_after": 10,
+          "rank_before": 7
+        },
+        {
+          "key": "83b-filing-confusion",
+          "rank_after": 3,
+          "rank_before": 2
+        },
+        {
+          "key": "83b-no-proof-of-filing",
+          "rank_after": 15,
+          "rank_before": 9
+        },
+        {
+          "key": "cap-table-tool-too-expensive",
+          "rank_after": 14,
+          "rank_before": 8
+        },
+        {
+          "key": "founder-stock-setup",
+          "rank_after": 13,
+          "rank_before": 11
+        },
+        {
+          "key": "incorporation-service-worth-it",
+          "rank_after": 2,
+          "rank_before": 3
+        },
+        {
+          "key": "non-us-founder-paperwork",
+          "rank_after": 11,
+          "rank_before": 6
+        }
+      ],
+      "records": 1636,
+      "round": 2,
+      "saturated": false,
+      "taxonomy_added": [
+        "closing-dead-company",
+        "corp-tax-return-confusion",
+        "form-5472-foreign-owner",
+        "founder-stock-setup",
+        "sec-form-d-filing"
+      ],
+      "taxonomy_keys": [
+        "409a-low-but-defensible",
+        "409a-too-expensive",
+        "409a-when-needed",
+        "83b-filing-confusion",
+        "83b-no-proof-of-filing",
+        "cap-table-tool-too-expensive",
+        "closing-dead-company",
+        "corp-tax-return-confusion",
+        "delaware-franchise-tax-shock",
+        "form-3921-deadline",
+        "form-5472-foreign-owner",
+        "founder-stock-setup",
+        "incorporation-service-worth-it",
+        "missed-83b-deadline",
+        "non-us-founder-paperwork",
+        "paid-service-got-it-wrong",
+        "sec-form-d-filing"
+      ],
+      "window": 300,
+      "window_member_records": 268,
+      "window_used": 823
     }
   ],
   "stop_reason": null,
