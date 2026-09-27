@@ -436,15 +436,42 @@ def apply_patches(run, room: str) -> dict:
     return {"patches": [p.stem for p in pending], "changed": changed}
 
 
+def packs_already_checked(run, room: str, names) -> list:
+    """Packs whose re-check is done: a pending patch that passes the check, or an applied patch with the same records."""
+    taxonomy = load_taxonomy(run, room)
+    idx = _pack_index(run, room)
+    done = []
+    for name in names:
+        applied = patches_dir(run, room) / "applied" / f"{name}.jsonl"
+        if applied.exists():
+            try:
+                ids = {r.get("record_id") for r in common.read_jsonl(applied) if isinstance(r, dict)}
+            except (common.FunnelError, ValueError):
+                ids = set()
+            if name in idx and ids == set(idx[name][2]):
+                done.append(name)
+                continue
+        if (patches_dir(run, room) / f"{name}.jsonl").exists():
+            _rows, errors = check_patch(run, room, name, taxonomy)
+            if not errors:
+                done.append(name)
+    return done
+
+
 def cmd_relabel_pack(args) -> int:
     run = common.run_dir(args.run)
     room = common.check_slug(args.room, "room")
     keys = [k.strip() for k in (args.keys or "").split(",") if k.strip()]
     names = make_packs(run, room, int(args.round), keys, size=args.size)
+    done = packs_already_checked(run, room, names)
+    todo = [n for n in names if n not in done]
     print(f"Room {room}: {len(names)} pack(s) of member records from rounds before {args.round}, to re-check for: "
-          f"{', '.join(keys)}.")
-    print("PACKS: " + (" ".join(names) if names else "none"))
-    common.log_event(run, STAGE, "relabel-pack", "ran", room=room, round=int(args.round), keys=keys, packs=len(names))
+          f"{', '.join(keys)}. {len(done)} already checked (a valid patch exists).")
+    print("PACKS: " + (" ".join(todo) if todo else "none"))
+    if done:
+        print("ALREADY CHECKED: " + " ".join(done))
+    common.log_event(run, STAGE, "relabel-pack", "ran", room=room, round=int(args.round), keys=keys, packs=len(names),
+                     already_checked=len(done))
     return 0
 
 

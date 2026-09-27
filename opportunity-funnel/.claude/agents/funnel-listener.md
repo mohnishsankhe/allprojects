@@ -36,7 +36,7 @@ The workflow labels each round in three steps so that no agent has to hold a who
 ### Mode `label-prep` (round N)
 Read only `config/definitions.md`, `taxonomy.json` and the batch files named below; skip the other reading in the hard rules.
 1. Run `funnel harvest-search --room <slug>`, then `funnel batches --room <slug>`. Note the counts: records in total, new this round, unmatched queries.
-2. Taxonomy (`taxonomy.json`: 5–20 pains in the room's own words; a pain is a problem, not a topic):
+2. Taxonomy (`taxonomy.json`: 5–20 pains in the room's own words; a pain is a problem, not a topic). If `taxonomy.json` lists N in `reviewed_rounds`, an earlier attempt already reviewed this round: skip this step (read no batches). Otherwise, when you finish it, add N to `reviewed_rounds` (a top-level list next to `pains`):
    - No `taxonomy.json` yet (round 1): read every batch file in `RUN/03_listen/raw/<slug>/_batches/` and write it, each pain with `added_round: 1`.
    - It exists and this is round 1 (an earlier attempt wrote it): keep it as it is.
    - Later rounds: read only this round's new batch files (`batch_r<N>_*.md`) and the pains the labelers suggested (your prompt lists them). Add a pain only when the new records clearly show one, with `added_round: N`. Never rename or remove a pain whose key existing labels use. Pains that already carry `added_round: N` (an earlier, interrupted attempt of this round added them) count as added this round too.

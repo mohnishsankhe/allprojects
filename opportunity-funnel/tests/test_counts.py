@@ -485,3 +485,29 @@ def test_apply_patches_updates_only_pain_keys_and_is_idempotent(run, h, cli):
     assert r.returncode == 0 and "applied 0 patch(es) (none); 0 label(s) changed" in r.stdout
     # the round-2 batch is still unlabeled, so it is what label-todo lists; the re-check did not touch it
     assert counts.label_todo(run, ROOM) == ["batch_r2_001"]
+
+
+def test_relabel_pack_leaves_out_packs_with_a_valid_or_applied_patch(run, h, cli):
+    ids1, _ids2, _m = _recheck_room(run, h)
+    counts.make_packs(run, ROOM, 2, ["c"])
+    _patch(run, [(ids1[0], ["a", "c"]), (ids1[1], ["a", "b"]), (ids1[3], []), (ids1[5], ["b"])])
+    r = cli("relabel-pack", "--room", ROOM, "--run", "2026-09-26", "--round", "2", "--keys", "c")
+    assert r.returncode == 0, r.stderr
+    assert "PACKS: none" in r.stdout and "ALREADY CHECKED: pack_r2_001" in r.stdout
+    assert cli("apply-patches", "--room", ROOM, "--run", "2026-09-26").returncode == 0
+    r = cli("relabel-pack", "--room", ROOM, "--run", "2026-09-26", "--round", "2", "--keys", "c")
+    assert "PACKS: none" in r.stdout and "ALREADY CHECKED: pack_r2_001" in r.stdout  # applied, same records
+    # a pending patch that fails the check is not "already checked"
+    (counts.patches_dir(run, ROOM) / "applied" / "pack_r2_001.jsonl").unlink()
+    _patch(run, [(ids1[0], ["a", "c"])])
+    r = cli("relabel-pack", "--room", ROOM, "--run", "2026-09-26", "--round", "2", "--keys", "c")
+    assert "PACKS: pack_r2_001" in r.stdout
+
+
+def test_taxonomy_extra_fields_like_reviewed_rounds_are_ignored(run, h):
+    ids1, _ids2, _m = _recheck_room(run, h)
+    p = common.room_dir(run, ROOM) / "taxonomy.json"
+    data = common.read_json(p)
+    data["reviewed_rounds"] = [1, 2]
+    common.write_json(p, data)
+    assert set(counts.load_taxonomy(run, ROOM)) == {"a", "b", "c"}
