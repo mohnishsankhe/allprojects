@@ -4,25 +4,26 @@
   "name": "Small and mid-sized BPOs and contact-centre operators in India and the Philippines",
   "lens": "business_type",
   "origin": "generated",
-  "who": "Owners and operations heads of outsourced call centres (50 to 2,000 seats) that sell voice and chat seats to banks, lenders, insurers, telecoms and e-commerce clients. Clients grade them on quality scores and audits, and now ask them to bring in AI or cut the price per seat.",
+  "who": "Owners and operations heads of outsourced call centres (50 to 2,000 seats) that sell voice and chat seats to banks, lenders, insurers, telecoms and e-commerce clients. Clients grade them on quality scores and audits, and now ask them to bring in AI or cut the price per seat. (BPO = a firm that runs another company's calls or back-office work.)",
   "where": [
-    {"name": "ICMI Contact Center Community", "url": "https://www.icmi.com/resources/icmi-contact-center-community", "seen_via": "search (this run; reused from profession.json)"},
-    {"name": "ICMI (LinkedIn)", "url": "https://www.linkedin.com/company/icmi", "seen_via": "search (this run; reused from profession.json)"},
-    {"name": "Call Centre Helper (industry site with reader discussion)", "url": "https://www.callcentrehelper.com/icmi-contact-center-demo-130401.htm", "seen_via": "search (this run; reused from profession.json)"}
+    {"name": "CallCentersIndia call-centre and BPO discussion forum", "url": "https://www.callcentersindia.com/call_center_forum.php", "seen_via": "search"},
+    {"name": "Contact Center Association of the Philippines (CCAP) on LinkedIn", "url": "https://www.linkedin.com/company/ccap", "seen_via": "search"},
+    {"name": "CCAP BCP Council (members' working group)", "url": "https://ccap.ph/bcp-council/", "seen_via": "search"},
+    {"name": "Outsource Accelerator: BPO associations around the world (lists the trade bodies operators join)", "url": "https://www.outsourceaccelerator.com/articles/bpo-associations/", "seen_via": "search"}
   ],
-  "who_pays": "The operator pays for telephony, dialers, QA software, training and certifications out of its margin per seat. Clients sometimes fund audits and certifications.",
-  "size": {"value": 3000, "unit": "BPO and contact-centre operators with 50 or more seats in India and the Philippines", "tag": "estimate", "reasoning": "The Philippines BPO sector employs about 1.9 million people (seen in this run's search result for https://fullscale.io/blog/bpo-industry-philippines/) and India's IT-BPM sector several million more. If the voice slice is about 2 million seats and a typical operator runs a few hundred seats, the number of operators is in the low thousands. [thin]"},
+  "who_pays": "The operator pays for telephony, dialers, QA software, training and association membership out of its margin per seat. Clients sometimes fund audits and certifications.",
+  "size": {"value": 3000, "unit": "BPO and contact-centre operators with 50 or more seats in India and the Philippines", "tag": "estimate", "reasoning": "A search result about CCAP this task said it counts 53 outsource and in-house contact centres as members, representing more than 80% of Philippine call-centre seats (page not pinned; CCAP pages at https://ccap.ph/ and https://www.outsourceaccelerator.com/company/contact-center-association-of-the-philippines-ccap/). The large members hold most seats; the long tail of small operators in both countries adds a few thousand firms. [thin]"},
   "ladder": [
-    {"step": 1, "problem": "Telephony, a dialer and number registration (DLT in India) for each new client campaign"},
-    {"step": 2, "problem": "Score and audit agent calls to pass client quality audits (QA software)", "price_text": "from $35 per user per month", "url": "https://www.guideflow.com/blog/contact-center-quality-assurance-software", "seen_via": "search"},
-    {"step": 3, "problem": "Train supervisors and team leads as sites grow", "price_text": "$1,799", "url": "https://www.icmi.com/training", "seen_via": "search"},
-    {"step": 4, "problem": "Add AI voice agents and AI call auditing to keep contracts and margins (platform usage)", "price_text": "$0.05 per minute", "url": "https://vapi.ai/pricing", "seen_via": "search"},
-    {"step": 5, "problem": "Win enterprise clients with a COPC or similar site certification", "price_text": null, "url": "https://www.copc.com/what-we-do/certification/", "seen_via": "search"}
+    {"step": 1, "problem": "Cloud telephony and a dialer for each new client campaign, paid per agent seat", "price_text": "$25/user/month", "url": "https://bonvoice.com/insights/ozonetel-pricing-in-india/", "seen_via": "search"},
+    {"step": 2, "problem": "Score and audit agent calls to pass client quality audits (QA software)", "price_text": "$35 per agent, per month, billed annually", "url": "https://www.zendesk.com/service/quality-assurance/customer-service-quality-assurance-software/", "seen_via": "search"},
+    {"step": 3, "problem": "Add AI voice agents and AI call auditing to keep contracts and margins (platform usage)", "price_text": "$0.05 per minute", "url": "https://vapi.ai/pricing", "seen_via": "search"},
+    {"step": 4, "problem": "Join the industry association to be seen by enterprise buyers and sit on its councils", "price_text": null, "url": "https://ccap.ph/bcp-council/", "seen_via": "search"},
+    {"step": 5, "problem": "Train supervisors and team leads as sites grow", "price_text": null}
   ],
   "geography": ["IN", "PH"],
   "venture_overlap": ["v4"],
   "duplicate_of": null,
-  "reasoning": "Call centres are the first item on the ledger's TinyAI warm path, and call auditing and voice agents are a strong depth. The operators read and post in the same contact-centre communities as their managers (the profession-lens room), but the buyer here is the business and the ladder is the operator's cost stack. Places and prices are reused from search results captured earlier in this run; no fresh search was possible for this lens.",
+  "reasoning": "Call centres are the first item on the ledger's TinyAI warm path, and call auditing and voice agents are a strong depth. The operators gather in a dedicated Indian call-centre forum and in the Philippine trade body, and they buy dialers, QA software and AI minutes at published per-seat and per-minute prices. The profession lens has a room for the managers who work inside these floors; this room is the business that pays the bills.",
   "confidence": "moderate"
 },
 {
@@ -30,26 +31,28 @@
   "name": "Lenders' and insurers' tele-sales and collections floors in India",
   "lens": "business_type",
   "origin": "generated",
-  "who": "Sales and collections heads at NBFCs, fintech lenders, insurers and their agencies in India who run in-house calling floors: lead qualification, policy renewals, EMI reminders and overdue collections. They are judged on contact rate, conversion and recovery, under TRAI's calling rules. (NBFC = a non-bank lender registered with the RBI.)",
+  "who": "Sales and collections heads at NBFCs, fintech lenders, insurers and their agencies in India who run in-house calling floors: lead qualification, policy renewals, EMI reminders and overdue collections. They are judged on contact rate, conversion and recovery, under TRAI's calling rules. (NBFC = a non-bank lender registered with the RBI. EMI = a monthly loan instalment.)",
   "where": [
-    {"name": "ICMI Contact Center Community", "url": "https://www.icmi.com/resources/icmi-contact-center-community", "seen_via": "search (this run; reused from profession.json)"},
-    {"name": "Call Centre Helper (industry site with reader discussion)", "url": "https://www.callcentrehelper.com/icmi-contact-center-demo-130401.htm", "seen_via": "search (this run; reused from profession.json)"},
-    {"name": "r/developersIndia (1,594,432 members; stats page) where the engineers who build these dialer and AI stacks post", "url": "https://reddapi.dev/subreddits/developersindia/insights", "seen_via": "search (this run; reused from life_stage.json)"}
+    {"name": "Credit & Collections Summit India 2026 (Mumbai, October; 500+ senior attendees)", "url": "https://india.collectionsummit.com/", "seen_via": "search"},
+    {"name": "Bharat Collection Summit & Awards (national collections gathering)", "url": "https://thebharatcollectionsummit.com/", "seen_via": "search"},
+    {"name": "Credit and Collections Summit India listing on 10times (attendee community)", "url": "https://10times.com/e1hd-262r-2fzg-z", "seen_via": "search"},
+    {"name": "ET Edge NBFC NXT Summit 2026", "url": "https://et-edge.com/conferences/nbfc/", "seen_via": "search"},
+    {"name": "Risk Management Association of India: note on the collections summit", "url": "https://rmaindia.org/4th-edition-of-credit-collections-summit-india-2026-set-to-bring-together-indias-leading-credit-risk-collections-leaders-amid-major-new-rbi-recovery-framework/", "seen_via": "search"}
   ],
-  "who_pays": "The lender or insurer pays from its operations budget for dialers, numbers, QA and AI, and pays collection agencies a share of what they recover.",
-  "size": {"value": 2000, "unit": "lenders and insurers in India with in-house tele-sales or collections floors", "tag": "estimate", "reasoning": "India has roughly 9,000 registered NBFCs and about 60 insurers, plus fintech lenders and insurance aggregators; only those with retail books large enough to staff a calling floor belong here. Estimate, no page reachable this session. [thin]"},
+  "who_pays": "The lender or insurer pays from its operations budget for dialers, numbers, QA and AI minutes, and pays collection agencies a share of what they recover.",
+  "size": {"value": 2000, "unit": "lenders and insurers in India with in-house tele-sales or collections floors", "tag": "estimate", "reasoning": "Search results this task said India had 9,102+ NBFCs registered with the RBI as on 31 March 2026 (the RBI list is at https://rbi.org.in/Scripts/BS_NBFCList.aspx; the count appeared in a search summary, page not pinned), plus roughly 60 insurers and the fintech lenders. Only those with a retail book large enough to staff a calling floor belong here, so a low-thousands figure. [thin]"},
   "ladder": [
-    {"step": 1, "problem": "DLT registration, consent templates and 160-series numbers before outbound calling"},
-    {"step": 2, "problem": "A dialer and CRM that lifts contact rates without breaching the calling rules"},
-    {"step": 3, "problem": "Record and audit calls for mis-selling and consent (QA software)", "price_text": "from $35 per user per month", "url": "https://www.guideflow.com/blog/contact-center-quality-assurance-software", "seen_via": "search"},
-    {"step": 4, "problem": "AI voice agents for reminders, renewals and first-bucket collections (platform usage)", "price_text": "$0.05 per minute", "url": "https://vapi.ai/pricing", "seen_via": "search"},
-    {"step": 5, "problem": "Outsourced recovery agencies for late buckets, paid a share of collections"}
+    {"step": 1, "problem": "DLT registration, consent templates and 160-series numbers before outbound calling", "price_text": null},
+    {"step": 2, "problem": "A cloud dialer and contact-centre seat per caller that lifts contact rates without breaching the calling rules", "price_text": "$25/user/month", "url": "https://bonvoice.com/insights/ozonetel-pricing-in-india/", "seen_via": "search"},
+    {"step": 3, "problem": "AI voice bots for EMI reminders, renewals and first-bucket collections, paid per minute", "price_text": "₹2–12/Minute", "url": "https://caller.digital/voice-ai-pricing-india", "seen_via": "search"},
+    {"step": 4, "problem": "Record and audit calls for mis-selling and consent (QA software)", "price_text": "$35 per agent, per month, billed annually", "url": "https://www.zendesk.com/service/quality-assurance/customer-service-quality-assurance-software/", "seen_via": "search"},
+    {"step": 5, "problem": "Outsourced recovery agencies for late buckets, paid a share of collections", "price_text": null}
   ],
   "geography": ["IN"],
   "venture_overlap": ["v4"],
   "duplicate_of": null,
-  "reasoning": "Lenders' and insurers' tele-sales are named in the ledger's TinyAI warm path, and voice agents and call auditing are a strong depth. The obligation lens has a TRAI-rules room for the same floors; this room is the industry slice with the sales and collections ladder rather than the regulator's deadline. The gathering places are global contact-centre communities seen earlier in this run; an India-specific lender-operations community was not verified. [thin]",
-  "confidence": "low"
+  "reasoning": "Lenders' and insurers' tele-sales are named in the ledger's TinyAI warm path, and voice agents and call auditing are a strong depth. The floors' heads gather at dedicated Indian collections summits, and vendors publish per-minute voice-AI rate cards aimed at NBFC collections. The obligation lens has a TRAI-rules room for the same floors; this room is the industry slice with the sales and collections ladder. The places are events rather than a year-round forum. [thin]",
+  "confidence": "moderate"
 },
 {
   "slug": "rooftop-solar-installers-epc",
@@ -58,23 +61,24 @@
   "origin": "generated",
   "who": "Owners of installation businesses (2 to 50 staff) that sell and fit rooftop solar for homes, shops and small factories, in the US, India, Australia and Europe. They chase leads, quote systems, arrange customer financing or subsidies, get certified, and service what they installed. (EPC = a firm that engineers, procures and builds the system.)",
   "where": [
-    {"name": "Solar Power World (LinkedIn, 49,166 followers; installer trade press)", "url": "https://www.linkedin.com/company/solarpowerworld", "seen_via": "search (this run; reused from profession.json)"},
-    {"name": "SEIA, Solar Energy Industries Association (LinkedIn, 103,906 followers)", "url": "https://www.linkedin.com/company/solarindustry", "seen_via": "search (this run; reused from profession.json)"},
-    {"name": "Energy Central communities (250K power professionals)", "url": "https://energycentral.com/community/energy-biz/socializing-customers", "seen_via": "search (this run; reused from profession.json)"}
+    {"name": "Solargraf's guide to solar installer forums (lists the Reddit, Facebook and specialist forums installers use)", "url": "https://www.solargraf.com/blog/solar-installer-forums/", "seen_via": "search"},
+    {"name": "DIY Solar Power Forum thread: Solar panel installers", "url": "https://diysolarforum.com/threads/solar-panel-installers.68938/", "seen_via": "search"},
+    {"name": "Electricians Forums: Solar PV forum", "url": "https://www.electriciansforums.net/forums/solar-pv-forum-solar-panels-forum.42/", "seen_via": "search"},
+    {"name": "Mike Holt forums: Photovoltaic forum", "url": "https://forums.mikeholt.com/forums/photovoltaic-forum.39/page-22", "seen_via": "search"}
   ],
-  "who_pays": "The installer pays for certifications, design software, lead generation and financing partners out of project margins. Customers pay for the systems, often through loans or subsidies.",
-  "size": {"value": 30000, "unit": "rooftop solar installation firms worldwide", "tag": "estimate", "reasoning": "IRENA counts 7.2 million solar PV jobs in 2024 (seen in this run's search result for https://www.irena.org/News/pressreleases/2026/Jan/Renewables-Jobs-See-First-Slowdown-Amid-Global-Deployment-Growth). Installation is the largest slice, and installers are mostly small firms of a few dozen people, so tens of thousands of firms is a rough guess. [thin]"},
+  "who_pays": "The installer pays for certifications, design software, leads and financing partners out of project margins. Customers pay for the systems, often through loans or subsidies.",
+  "size": {"value": 30000, "unit": "rooftop solar installation firms worldwide", "tag": "estimate", "reasoning": "SEIA says the US alone has passed 6 million individual solar installations (https://seia.org/research-resources/6-million-solar-installations/), and Solar Power World's Top Solar Contractors list tracks hundreds of firms a year (https://www.solarpowerworldonline.com/2026-top-solar-contractors/) with many more small local installers below it. Adding India, Australia and Europe gives tens of thousands of firms. [thin]"},
   "ladder": [
-    {"step": 1, "problem": "Certify installers to qualify for incentives and win bids", "price_text": "$375", "url": "https://www.nabcep.org/certifications/requirements-fees/", "seen_via": "search"},
-    {"step": 2, "problem": "License PV design and yield software to quote accurately", "price_text": "CHF 700", "url": "https://www.heavengreenenergy.com/blog/pvsyst-price", "seen_via": "search"},
-    {"step": 3, "problem": "Buy leads and set up customer financing or subsidy paperwork"},
-    {"step": 4, "problem": "Structure commercial rooftop deals (PPAs, leases) for factories and shops", "price_text": "USD$800", "url": "https://pivotal180.com/course-type/project-finance-modeling/", "seen_via": "search"},
-    {"step": 5, "problem": "Monitoring and maintenance contracts on installed systems"}
+    {"step": 1, "problem": "Certify installers (NABCEP in the US) to qualify for incentives and win bids", "price_text": "$375", "url": "https://www.nabcep.org/certifications/nabcep-fees/", "seen_via": "search"},
+    {"step": 2, "problem": "License design and proposal software to quote accurately, paid per user", "price_text": "$135-$220/User/Mo", "url": "https://www.heavengreenenergy.com/blog/aurora-solar-pricing", "seen_via": "search"},
+    {"step": 3, "problem": "Buy leads from lead marketplaces and set up customer financing or subsidy paperwork", "price_text": null, "url": "https://www.solarreviews.com/solar-leads", "seen_via": "search"},
+    {"step": 4, "problem": "Bankable yield studies for commercial rooftops (PV simulation software)", "price_text": "CHF 700/Yr", "url": "https://www.heavengreenenergy.com/blog/pvsyst-price", "seen_via": "search"},
+    {"step": 5, "problem": "Monitoring and maintenance contracts on installed systems", "price_text": null}
   ],
   "geography": ["GLOBAL", "US", "IN"],
   "venture_overlap": [],
   "duplicate_of": null,
-  "reasoning": "Energy is a strong ledger depth, and installers buy certification, software and financing help in a set order, mostly through search. The physical installation is outside the founder's supply, but quoting, financing and commercial deal structuring are inside it. The places are the trade association and trade press communities seen earlier in this run for the utility-scale developer room; installer-only forums were not verified. [thin]",
+  "reasoning": "Energy is a strong ledger depth, and installers buy certification, software and leads in a set order, mostly through search, at published prices. The physical installation is outside the founder's supply, but quoting, financing and commercial deal structuring are inside it. Installers post in electricians' and DIY solar forums alongside their customers.",
   "confidence": "moderate"
 },
 {
@@ -82,25 +86,27 @@
   "name": "Small commercial-and-industrial solar developers and independent power producers in Southeast Asia",
   "lens": "business_type",
   "origin": "generated",
-  "who": "Founders and finance heads of small developers in Vietnam, the Philippines, Indonesia, Thailand and Malaysia that build rooftop or ground-mount solar for factories under power purchase agreements, or run a few small plants. They need bankable yield studies, lender-grade models, debt and equity, and offtaker contracts. (IPP = a company that owns power plants and sells the electricity.)",
+  "who": "Founders and finance heads of small developers in the Philippines, Vietnam, Indonesia, Thailand and Malaysia that build rooftop or ground-mount solar for factories under power purchase agreements, or run a few small plants. They need bankable yield studies, lender-grade models, debt and equity, and offtaker contracts. (IPP = a company that owns power plants and sells the electricity.)",
   "where": [
-    {"name": "Energy Central communities (250K power professionals)", "url": "https://energycentral.com/community/energy-biz/socializing-customers", "seen_via": "search (this run; reused from profession.json)"},
-    {"name": "Infralogic Investors Forum: Renewable Energy (event community)", "url": "https://community.ionanalytics.com/infralogic-investors-forum-renewable-energy-2023", "seen_via": "search (this run; reused from life_stage.json)"},
-    {"name": "IPFA, International Project Finance Association (LinkedIn, 15,508 followers)", "url": "https://uk.linkedin.com/company/ipfa-global", "seen_via": "search (this run; reused from profession.json)"}
+    {"name": "Philippine Solar and Storage Energy Alliance (PSSEA) on LinkedIn", "url": "https://www.linkedin.com/company/philippine-solar-and-storage-energy-alliance", "seen_via": "search"},
+    {"name": "PSSEA: Be a member (developers, contractors, funders and rooftop installers)", "url": "https://pssea.ph/be-a-member/", "seen_via": "search"},
+    {"name": "PSSEA on Facebook", "url": "https://www.facebook.com/61564435343578/", "seen_via": "search"},
+    {"name": "Solar & Storage Live Philippines 2026: sponsors and partners (exhibition community)", "url": "https://www.terrapinn.com/exhibition/solar-storage-live-philippines/partners.stm", "seen_via": "search"},
+    {"name": "Renewables Asset Management Vietnam: C&I rooftop solar webinar community", "url": "https://www.vietnam.renewables-asset.com/re-talk-asean-webinar", "seen_via": "search"}
   ],
   "who_pays": "The developer company pays for software, data, modelling and advisers from its development budget, then recovers the cost at financial close.",
-  "size": {"value": 1500, "unit": "small C&I solar developers and IPPs in Southeast Asia", "tag": "estimate", "reasoning": "Each of the five main markets has a few hundred licensed developers and rooftop EPC firms that have turned developer; most are small. Estimate, no page reachable this session. [thin]"},
+  "size": {"value": 1500, "unit": "small C&I solar developers and IPPs in Southeast Asia", "tag": "estimate", "reasoning": "A search result this task said PSSEA has over 60 active members (https://pssea.ph/be-a-member/), and a search summary said Vietnam's rooftop solar is 46% of 17 GW of grid-connected capacity, built largely by C&I developers. Association members are the visible core; most small developers and EPC-turned-developers are not members, and there are five markets, so a low-thousands figure. [thin]"},
   "ladder": [
-    {"step": 1, "problem": "PV design and yield software for bankable studies", "price_text": "CHF 700", "url": "https://www.heavengreenenergy.com/blog/pvsyst-price", "seen_via": "search"},
-    {"step": 2, "problem": "A project finance model good enough to raise debt", "price_text": "USD$800", "url": "https://pivotal180.com/course-type/project-finance-modeling/", "seen_via": "search"},
-    {"step": 3, "problem": "Best-practice model review before lenders' due diligence", "price_text": null, "url": "https://financialmodelling.mazars.com/course-schedule/best-practice-project-finance-modelling/", "seen_via": "search"},
-    {"step": 4, "problem": "Lender-grade weather and yield data for the financing process", "price_text": null, "url": "https://www.pvsyst.com/en/shop/", "seen_via": "search"},
-    {"step": 5, "problem": "Term-sheet negotiation, covenants and offtaker contracts (advisers and lawyers)"}
+    {"step": 1, "problem": "PV design and yield software for bankable studies", "price_text": "CHF 700/Yr", "url": "https://www.heavengreenenergy.com/blog/pvsyst-price", "seen_via": "search"},
+    {"step": 2, "problem": "Train the finance team to build a project finance model good enough to raise debt", "price_text": null, "url": "https://pivotal180.com/course-type/renewable-energy-project-finance-modeling/", "seen_via": "search"},
+    {"step": 3, "problem": "Join the industry alliance to sit in regulatory working groups and meet funders", "price_text": null, "url": "https://pssea.ph/be-a-member/", "seen_via": "search"},
+    {"step": 4, "problem": "Lender-grade weather and yield data, and a model review before lenders' due diligence", "price_text": null},
+    {"step": 5, "problem": "Term-sheet negotiation, covenants and offtaker contracts (advisers and lawyers)", "price_text": null}
   ],
-  "geography": ["VN", "PH", "ID", "TH", "MY"],
+  "geography": ["PH", "VN", "ID", "TH", "MY"],
   "venture_overlap": [],
   "duplicate_of": null,
-  "reasoning": "This is the ledger's Southeast Asia energy warm path as a business type, with a strong energy depth and a strong deal-documents depth. The employer-rules exclusion must be checked before the room is pursued. It overlaps the profession-lens room on utility-scale developers; here the businesses are small and the ladder ends at financial close. Places and prices are reused from search results captured earlier in this run; a Southeast Asia-specific developer community was not verified. [thin]",
+  "reasoning": "This is the ledger's Southeast Asia energy warm path as a business type, with strong energy and deal-documents depth; the employer-rules exclusion must be checked before it is pursued. The Philippine alliance and its events are real gathering places, but only one ladder price (PV software) was seen, and the Vietnam-side community was seen only as a webinar page. It overlaps the profession-lens utility-scale developer room; here the firms are small and the ladder ends at financial close. [thin]",
   "confidence": "low"
 },
 {
@@ -110,24 +116,25 @@
   "origin": "generated",
   "who": "Owners of firms with one to twenty warehouses or light-industrial buildings, and syndicators raising money from friends and small investors to buy more. They hunt deals, underwrite them, raise debt and equity, and manage leases and tenants. (Syndicator = someone who pools other people's money to buy a property.)",
   "where": [
-    {"name": "BiggerPockets commercial real estate forum (example thread on CoStar cost)", "url": "https://www.biggerpockets.com/forums/32/topics/1097759-costar-cost-any-alternatives", "seen_via": "search (this run; reused from profession.json)"},
-    {"name": "Wall Street Oasis, Real Estate forum", "url": "https://www.wallstreetoasis.com/forum/real-estate", "seen_via": "search (this run; reused from profession.json)"},
-    {"name": "Wall Street Oasis thread: Industrial Acquisitions", "url": "https://www.wallstreetoasis.com/forum/real-estate/industrial-acquisitions", "seen_via": "search (this run; reused from profession.json)"},
-    {"name": "NAIOP, Commercial Real Estate Development Association (membership)", "url": "https://www.naiop.org/membership", "seen_via": "search (this run; reused from profession.json)"}
+    {"name": "BiggerPockets thread: Where to start for commercial investing (industrial, warehouse, retail)", "url": "https://www.biggerpockets.com/forums/32/topics/1102658-where-to-start-for-commercial-investing-industrial-warehouse-retail", "seen_via": "search"},
+    {"name": "BiggerPockets syndications forum thread: New industrial syndication investment", "url": "https://www.biggerpockets.com/forums/960/topics/1192566-new-industrial-syndication-investment-looks-good-to-me", "seen_via": "search"},
+    {"name": "BiggerPockets thread: CoStar cost, any alternatives?", "url": "https://www.biggerpockets.com/forums/32/topics/1097759-costar-cost-any-alternatives", "seen_via": "search"},
+    {"name": "The Cauble Group podcast: 9-figure syndicators on real estate syndication", "url": "https://www.tylercauble.com/podcast/episode152", "seen_via": "search"},
+    {"name": "Wall Street Oasis real estate forum thread on the A.CRE Accelerator", "url": "https://www.wallstreetoasis.com/forum/real-estate/adventures-in-cre-accelerator-program", "seen_via": "search"}
   ],
-  "who_pays": "The firm pays for data, modelling, software and advisers out of acquisition and asset-management fees. Lenders and investors pay for third-party reports at closing.",
-  "size": {"value": 20000, "unit": "small industrial property investment firms and syndicators worldwide", "tag": "estimate", "reasoning": "SIOR's 3,600 members (seen in this run's search result for https://finance.yahoo.com/news/society-industrial-office-realtors-inducts-205000648.html) are the broker elite; the owner and syndicator pool that BiggerPockets and the WSO real estate forum serve is far larger, and industrial is one of the most traded property types. [thin]"},
+  "who_pays": "The firm pays for data, modelling, software and training out of acquisition and asset-management fees. Lenders and investors pay for third-party reports at closing.",
+  "size": {"value": 20000, "unit": "small industrial property investment firms and syndicators worldwide", "tag": "estimate", "reasoning": "A search summary this task said BiggerPockets has over 3 million real estate investors and a forum dedicated to syndications (https://honestcasa.com/blog/real-estate-investing-communities). Industrial is one property type and firms that own or syndicate commercial buildings are a small share of that base, so tens of thousands of firms. [thin]"},
   "ladder": [
-    {"step": 1, "problem": "Market data to find and price deals", "price_text": "$300–$450 per month per user", "url": "https://propertyscout360.com/blog/costar-subscription-cost", "seen_via": "search"},
+    {"step": 1, "problem": "Market data to find and price deals (CoStar)", "price_text": "$15,000 annually", "url": "https://www.vendr.com/buyer-guides/costar", "seen_via": "search"},
     {"step": 2, "problem": "Learn to underwrite deals in a proper model", "price_text": "$697", "url": "https://www.adventuresincre.com/pricing/", "seen_via": "search"},
-    {"step": 3, "problem": "Raise debt and equity: lender packages, investor decks, JV terms"},
-    {"step": 4, "problem": "Institutional-grade valuation and reporting as the portfolio grows (ARGUS)", "price_text": "$999", "url": "https://www.creanalyst.com/argustraining", "seen_via": "search"},
-    {"step": 5, "problem": "Leasing, tenant credit checks and asset management on a bigger portfolio"}
+    {"step": 3, "problem": "Raise debt and equity: lender packages, investor decks, JV terms", "price_text": null},
+    {"step": 4, "problem": "Institutional-grade valuation and reporting as the portfolio grows (ARGUS certification)", "price_text": "$900", "url": "https://learn.credaglobal.org/products/argus-software-certification-asc-enterprise-bundle", "seen_via": "search"},
+    {"step": 5, "problem": "Leasing, tenant credit checks and asset management on a bigger portfolio", "price_text": null}
   ],
   "geography": ["GLOBAL", "US"],
   "venture_overlap": [],
   "duplicate_of": null,
-  "reasoning": "Matches the ledger's warm path into warehouse investors and advisers, and a strong depth in industrial real estate and deal documents. Underwriting, capital raising and JV terms need no licence. The people are principals, not the brokers in the profession-lens room, though they read the same forums. Places and prices are reused from this run's earlier search results.",
+  "reasoning": "Matches the ledger's warm path into warehouse investors and advisers, and a strong depth in industrial real estate and deal documents. Underwriting, capital raising and JV terms need no licence. The people are principals, not the brokers in the profession-lens room, though they read the same forums, and they pay published prices for data, modelling courses and ARGUS training.",
   "confidence": "moderate"
 },
 {
@@ -137,24 +144,26 @@
   "origin": "generated",
   "who": "Owners of small brokerage and advisory firms (1 to 20 people) that sell businesses worth $0.5M to $50M. They pitch owners for listings, write valuations and information memorandums, run buyer outreach and manage due diligence, and are paid mostly on success. (M&A = buying and selling companies.)",
   "where": [
-    {"name": "BizBuySell (the marketplace where they list businesses; retiring-owner listings page)", "url": "https://www.bizbuysell.com/retiring-owner-businesses-for-sale/", "seen_via": "search (this run; reused from life_stage.json)"},
-    {"name": "Wall Street Oasis, Investment Banking forum (boutique bankers post here)", "url": "https://www.wallstreetoasis.com/forum/investment-banking", "seen_via": "search (this run; reused from profession.json)"},
-    {"name": "r/smallbusiness (2.5M members; stats page) where their clients ask about selling", "url": "https://gummysearch.com/r/smallbusiness/", "seen_via": "search (this run; reused from life_stage.json)"}
+    {"name": "IBBA, International Business Brokers Association: join page", "url": "https://www.ibba.org/membership/join-the-ibba/", "seen_via": "search"},
+    {"name": "IBBA on LinkedIn", "url": "https://www.linkedin.com/company/ibba", "seen_via": "search"},
+    {"name": "Texas Association of Business Brokers: join", "url": "https://www.tabb.org/join_tabb.php", "seen_via": "search"},
+    {"name": "California Association of Business Brokers: join", "url": "https://cabb.org/business-broker/join", "seen_via": "search"},
+    {"name": "BizBuySell broker portal (where they list and meet buyers)", "url": "https://broker.bizbuysell.com/", "seen_via": "search"}
   ],
-  "who_pays": "The firm pays for marketplace listings, data, valuation tools and staff training from retainers and success fees. The seller pays the firm.",
-  "size": {"value": 10000, "unit": "business brokerage and lower-middle-market M&A firms in the US and other English-speaking markets", "tag": "estimate", "reasoning": "BizBuySell reports 2.34 million boomer-owned US small businesses heading for exit (seen in this run's search result for https://www.bizbuysell.com/blog/boomer-business-market-presence/); a few thousand brokerage offices plus boutique advisers serve them. Estimate. [thin]"},
+  "who_pays": "The firm pays for association dues, marketplace listings, credential courses and staff training from retainers and success fees. The seller pays the firm.",
+  "size": {"value": 10000, "unit": "business brokerage and lower-middle-market M&A firms in the US and other English-speaking markets", "tag": "estimate", "reasoning": "IBBA describes itself as the largest association for business brokers, with most members in the US and Canada, and state bodies (Texas, California) exist alongside it; no member count was seen this task. A few thousand brokerage offices plus boutique advisers is a reasoned guess. [thin]"},
   "ladder": [
-    {"step": 1, "problem": "Get the valuation right to win the listing (owners otherwise pay an outside valuer)", "price_text": "$3,000 to $10,000", "url": "https://www.websiteclosers.com/resources/how-much-does-a-business-valuation-cost/", "seen_via": "search"},
-    {"step": 2, "problem": "List and market the business on marketplaces and to buyer lists"},
-    {"step": 3, "problem": "Write the information memorandum and financial model; train junior staff to model", "price_text": "$499", "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/", "seen_via": "search"},
-    {"step": 4, "problem": "Run due diligence and deal documents with licensed lawyers and accountants"},
-    {"step": 5, "problem": "Close and collect the success fee (commission benchmark seen)", "price_text": "8% and 12%", "url": "https://ctacquisitions.com/average-business-broker-commission/", "seen_via": "search"}
+    {"step": 1, "problem": "Join the trade association for referrals, training and the member directory", "price_text": "$475", "url": "https://en.wikipedia.org/wiki/International_Business_Broker's_Association", "seen_via": "search"},
+    {"step": 2, "problem": "List and market each business on the marketplace and to buyer lists", "price_text": "$66–$200 per month", "url": "https://investors.club/how-much-does-bizbuysell-cost/", "seen_via": "search"},
+    {"step": 3, "problem": "Earn the CBI credential (recasting, pricing and valuation courses) to win listings", "price_text": "$2,089", "url": "https://ibbauniversity.org/topclass/topclass.do?expand-OfferingDetails-viaTC=1-offeringId%3D296609-viaTC%3D1", "seen_via": "search"},
+    {"step": 4, "problem": "Advanced deal training for partners (IBBA Master's program)", "price_text": "$2,300", "url": "https://www.ibba.org/event/ibba-masters-program/", "seen_via": "search"},
+    {"step": 5, "problem": "Run due diligence and deal documents with licensed lawyers and accountants", "price_text": null}
   ],
   "geography": ["US", "GLOBAL"],
   "venture_overlap": [],
   "duplicate_of": null,
-  "reasoning": "Valuation, deal documents and transactions are the founder's strongest depth, and these firms are small businesses that buy tools and training to do exactly that work. Reach would be search, or warm through finance colleagues. The prices seen (valuation fee, success fee) show money changing hands in the room, but steps 1 and 5 are the firm's revenue, not its cost; broker-only communities were not verified. [thin]",
-  "confidence": "low"
+  "reasoning": "Valuation, deal documents and transactions are the founder's strongest depth, and these firms are small businesses that pay published prices for dues, listings and credential courses to do exactly that work. Reach would be search, or warm through finance colleagues. The gap pass has an independent-sponsor room (buyers); this room is the sell-side adviser.",
+  "confidence": "moderate"
 },
 {
   "slug": "d2c-brands-scaling-past-launch",
@@ -163,50 +172,51 @@
   "origin": "generated",
   "who": "Founders and heads of growth at consumer brands doing roughly $100k to $5M a year on Shopify, Amazon and quick-commerce, in India and worldwide. They fight ad costs, cash-on-delivery returns, support volume on WhatsApp and phone, and now the loss of search traffic to AI answers.",
   "where": [
-    {"name": "r/ecommerce (Reddit; listed on SubredditAnalyzer's ecommerce page)", "url": "https://www.subredditanalyzer.com/best-subreddits-for/ecommerce", "seen_via": "search (this run; reused from transition.json)"},
-    {"name": "r/shopify (Reddit; same listing)", "url": "https://www.subredditanalyzer.com/best-subreddits-for/ecommerce", "seen_via": "search (this run; reused from transition.json)"},
-    {"name": "r/DTCmarketing (Reddit; same listing)", "url": "https://www.subredditanalyzer.com/best-subreddits-for/ecommerce", "seen_via": "search (this run; reused from transition.json)"}
+    {"name": "D2C Insider (7,000+ brand founders, started as a WhatsApp group)", "url": "https://www.d2cinsider.com/", "seen_via": "search"},
+    {"name": "DTC Developers (invite-only community of 2,000+ D2C leaders, WhatsApp groups)", "url": "https://dtcdevelopers.org/", "seen_via": "search"},
+    {"name": "Bharat Brands Community (1,000+ emerging D2C brands in Tier 2 and 3 cities)", "url": "https://bharatbrandscommunity.com/", "seen_via": "search"}
   ],
   "who_pays": "The brand pays from working capital for ads, agencies, apps and support tools. Margins are thin, so every tool is judged on return on ad spend or returns avoided.",
-  "size": {"value": 100000, "unit": "consumer brands past $100k a year in online sales, worldwide", "tag": "estimate", "reasoning": "No measured number was seen. Shopify alone hosts millions of stores; brands past the first $100k are a small share, and India's D2C wave adds thousands more. [thin]"},
+  "size": {"value": 7000, "unit": "brand founders in the D2C Insider community (India); the worldwide room is far larger", "tag": "measured", "url": "https://www.d2cinsider.com/", "reasoning": "D2C Insider's search result said 7,000+ brand founders; DTC Developers (2,000+) and Bharat Brands Community (1,000+) overlap with it. Brands worldwide past $100k a year are in the hundreds of thousands. [estimate for the worldwide figure]"},
   "ladder": [
-    {"step": 1, "problem": "Paid ads and creative, usually through an agency"},
-    {"step": 2, "problem": "Order-confirmation and support calls to cut cash-on-delivery returns (AI voice, platform usage)", "price_text": "$0.05 per minute", "url": "https://vapi.ai/pricing", "seen_via": "search"},
-    {"step": 3, "problem": "Fulfilment, returns and a 3PL as volume grows"},
-    {"step": 4, "problem": "Get the brand cited in AI answers as search traffic falls (AI visibility tracking)", "price_text": "$95/month", "url": "https://visible.seranking.com/blog/peec-ai-review/", "seen_via": "search"},
-    {"step": 5, "problem": "Expand to marketplaces and new countries: brand registry, compliance, duties"}
+    {"step": 1, "problem": "Paid ads and creative, usually through an agency", "price_text": null},
+    {"step": 2, "problem": "WhatsApp API for support, order updates and cash-on-delivery confirmation", "price_text": "₹3,499", "url": "https://www.zoko.io/post/interakt-pricing-guide", "seen_via": "search"},
+    {"step": 3, "problem": "Order-confirmation and support calls by AI voice to cut returns (platform usage)", "price_text": "$0.05 per minute", "url": "https://vapi.ai/pricing", "seen_via": "search"},
+    {"step": 4, "problem": "Get the brand cited in AI answers as search traffic falls (AI visibility tracking)", "price_text": "$95 per month", "url": "https://visible.seranking.com/blog/peec-ai-review/", "seen_via": "search"},
+    {"step": 5, "problem": "Expand to marketplaces and new countries: brand registry, compliance, duties", "price_text": null}
   ],
-  "geography": ["GLOBAL", "IN"],
+  "geography": ["IN", "GLOBAL"],
   "venture_overlap": ["v4", "v2"],
   "duplicate_of": null,
-  "reasoning": "D2C brands are on the ledger's TinyAI warm path and the founder runs one himself (Proper Noun), so both warm reach and depth (WhatsApp agents, voice, AI search visibility) apply. The transition lens has a first-launch room; this room starts after launch, where support volume and returns bite. All three places share one listing URL seen earlier in this run, and prices come from tool pages rather than brand forums. [thin]",
-  "confidence": "low"
+  "reasoning": "D2C brands are on the ledger's TinyAI warm path and the founder runs one himself (Proper Noun), so both warm reach and depth (WhatsApp agents, voice, AI search visibility) apply. Three named Indian founder communities with member counts were seen, and the tools on the ladder have published prices. The transition lens has a first-launch room; this room starts after launch, where support volume and returns bite.",
+  "confidence": "high"
 },
 {
   "slug": "test-prep-coaching-institutes-india",
   "name": "Test-prep coaching institutes and small ed-tech firms in India",
   "lens": "business_type",
   "origin": "generated",
-  "who": "Owners of coaching centres and small online ed-tech firms in India that teach GRE, GMAT, CAT, IELTS and similar exams to a few hundred to a few thousand students a year. They live on admission seasons, spend on leads and counsellors, and need content, mock tests and results to sell the next batch.",
+  "who": "Owners of coaching centres and small online ed-tech firms in India that teach GRE, GMAT, CAT, IELTS, JEE, NEET and similar exams to a few hundred to a few thousand students a year. They live on admission seasons, spend on leads and counsellors, and need content, mock tests and results to sell the next batch.",
   "where": [
-    {"name": "MBAUniverse CAT coaching comparison page (where institutes are compared and sold; not an owners' forum)", "url": "https://www.mbauniverse.com/cat/coaching", "seen_via": "search (this run; reused from transition.json)"},
-    {"name": "Collegedunia list of GRE forums (student side of the same market)", "url": "https://s4.collegedunia.com/news/e-483-gre-forums-for-gre-preparation", "seen_via": "search (this run; reused from transition.json)"},
-    {"name": "Careers360 GRE question boards (students asking which coaching to buy)", "url": "https://www.careers360.com/question-gre-or-gate", "seen_via": "search (this run; reused from transition.json)"}
+    {"name": "Coaching Federation of India (consortium of coaching centres)", "url": "https://www.coachingfederationofindia.org/", "seen_via": "search"},
+    {"name": "Coaching Federation of India on Facebook", "url": "https://www.facebook.com/CoachingFederationofindia/", "seen_via": "search"},
+    {"name": "Coaching Federation of India membership directory (institutes, faculty, technology and placement partners)", "url": "https://coachingfederationofindia.com/membership-directory/", "seen_via": "search"},
+    {"name": "Techjockey coaching-software category (where institute owners shop and compare)", "url": "https://www.techjockey.com/category/coaching-software", "seen_via": "search"}
   ],
-  "who_pays": "The institute pays for lead generation, counsellors, content and software from fees students pay up front (GRE courses sell for ₹15,000–₹30,000, seen at https://www.wikatiedu.com/blog/ielts-gre-sat-2026-coaching-fees-exam-guide/).",
-  "size": {"value": 20000, "unit": "test-prep coaching institutes and small ed-tech firms in India", "tag": "estimate", "reasoning": "Every city has dozens of coaching centres for entrance and study-abroad exams; CAT alone had 295,000 registrations in 2025 (seen in this run's search result for https://cracku.in/cat-2025-registered-candidates/) and the GRE draws tens of thousands from India. Estimate. [thin]"},
+  "who_pays": "The institute pays for lead generation, counsellors, content and software from fees students pay up front.",
+  "size": {"value": 20000, "unit": "test-prep coaching institutes and small ed-tech firms in India", "tag": "estimate", "reasoning": "Every city has dozens of coaching centres for entrance and study-abroad exams, and a whole software category (Classplus, Teachmint and others compared on Techjockey and SoftwareSuggest) exists to serve them; no institute count was seen this task. [thin]"},
   "ladder": [
-    {"step": 1, "problem": "Fill the batch: leads from comparison sites and ads, then counsellor follow-up calls"},
-    {"step": 2, "problem": "Content, question banks and mock tests that students trust"},
-    {"step": 3, "problem": "Online-live delivery and a learning platform for hybrid batches"},
-    {"step": 4, "problem": "AI doubt-solving and adaptive practice, or a partnership with a prep app"},
-    {"step": 5, "problem": "Upsell counselling, admissions help and loan referrals after the score"}
+    {"step": 1, "problem": "Fill the batch: leads from comparison sites and ads, then counsellor follow-up calls", "price_text": null},
+    {"step": 2, "problem": "An institute app and management platform for content, tests and fees", "price_text": "Rs 19,999", "url": "https://www.softwaresuggest.com/classplus", "seen_via": "search"},
+    {"step": 3, "problem": "WhatsApp API for enquiry follow-up, fee reminders and parent updates", "price_text": "₹3,499", "url": "https://www.zoko.io/post/interakt-pricing-guide", "seen_via": "search"},
+    {"step": 4, "problem": "AI voice agents for enquiry calls and doubt-solving in admission season", "price_text": "₹2–12/Minute", "url": "https://caller.digital/voice-ai-pricing-india", "seen_via": "search"},
+    {"step": 5, "problem": "Upsell counselling, admissions help and loan referrals after the score", "price_text": null}
   ],
   "geography": ["IN"],
   "venture_overlap": ["v1", "v4"],
   "duplicate_of": null,
-  "reasoning": "The ledger's first warm path runs through the founder's GRE product and a test-prep company he is discussing a partnership with, ed-tech is on the TinyAI list, and GRE content is a strong depth. The places seen are where students compare institutes, not where owners talk to each other, and no owner-side price was seen, so the room is thin on its own evidence. [thin]",
-  "confidence": "low"
+  "reasoning": "The ledger's first warm path runs through the founder's GRE product and a test-prep company he is discussing a partnership with, ed-tech is on the TinyAI list, and GRE content is a strong depth. An owners' federation and a software category with published prices were seen, so the room is grounded; the federation's size and activity were not measured. [thin]",
+  "confidence": "moderate"
 },
 {
   "slug": "study-abroad-consultancies-india",
@@ -215,23 +225,161 @@
   "origin": "generated",
   "who": "Owners and counsellors at small overseas-education consultancies in India that shortlist universities, edit SOPs, file applications and visas, and earn commissions from universities, loan providers and test-prep partners. They handle hundreds of student enquiries a season, mostly by phone and WhatsApp.",
   "where": [
-    {"name": "Yocket community (the online rival where the same students gather)", "url": "https://yocket.com/connect", "seen_via": "search (this run; reused from life_stage.json)"},
-    {"name": "Careers360 question page: students asking for an agency to process admissions", "url": "https://www.careers360.com/question-is-there-any-agency-to-process-admission-after-getting-required-gre-tofel-and-sop-lor/amp", "seen_via": "search (this run; reused from transition.json)"},
-    {"name": "Yocket community feed", "url": "https://yocket.com/feed", "seen_via": "search (this run; reused from transition.json)"}
+    {"name": "AAERI, Association of Australian Education Representatives in India: membership", "url": "https://aaeri.org.in/membership", "seen_via": "search"},
+    {"name": "AAERI members list", "url": "https://aaeri.org.in/members-list", "seen_via": "search"},
+    {"name": "AAERI on Facebook (annual convention for members)", "url": "https://www.facebook.com/AAERIofficial/", "seen_via": "search"},
+    {"name": "AAEC, Association of Abroad Education Consultants (founded 2024)", "url": "https://aaec.in/about-us/", "seen_via": "search"}
   ],
-  "who_pays": "The consultancy pays for leads, counsellors, tracking software and partnerships. Students pay service fees, or nothing when the university pays the consultancy a commission.",
-  "size": {"value": 10000, "unit": "study-abroad consultancies in India", "tag": "estimate", "reasoning": "Over a million Indian students study abroad and most large cities have dozens of consultancies; the certified core in the trade body AAERI is smaller. Estimate, no page reachable this session. [thin]"},
+  "who_pays": "The consultancy pays for leads, counsellors, CRM software, association dues and partnerships. Students pay service fees, or nothing when the university pays the consultancy a commission.",
+  "size": {"value": 10000, "unit": "study-abroad consultancies in India", "tag": "estimate", "reasoning": "AAERI publishes a region-wise member list (https://aaeri.org.in/uploads/files/All-members-Regionwise-2022.pdf) but no count was seen; AAERI covers only Australia-focused agents, and most large cities have dozens of consultancies serving a million-plus outbound students. [thin]"},
   "ladder": [
-    {"step": 1, "problem": "Leads and enquiry handling in season (calls, WhatsApp, follow-ups)"},
-    {"step": 2, "problem": "Application and visa tracking software"},
-    {"step": 3, "problem": "A test-prep partnership so students score before they apply"},
-    {"step": 4, "problem": "Education-loan referral partnerships for admitted students"},
-    {"step": 5, "problem": "Counsellor training and certification to win university partnerships"}
+    {"step": 1, "problem": "Leads and enquiry handling in season, tracked in a study-abroad CRM", "price_text": "₹4,999/month", "url": "https://smartxcrm.com/study-abroad-crm-comparison-guide/", "seen_via": "search"},
+    {"step": 2, "problem": "Join the agents' association to be recognised by universities (annual fee, head office)", "price_text": "Rs. 2,000.00", "url": "https://aaeri.org.in/moa", "seen_via": "search"},
+    {"step": 3, "problem": "WhatsApp API for enquiry follow-up and document collection", "price_text": "₹3,499", "url": "https://www.zoko.io/post/interakt-pricing-guide", "seen_via": "search"},
+    {"step": 4, "problem": "A test-prep partnership so students score before they apply", "price_text": null},
+    {"step": 5, "problem": "Education-loan referral partnerships for admitted students", "price_text": null}
   ],
   "geography": ["IN"],
   "venture_overlap": ["v1", "v4"],
   "duplicate_of": null,
-  "reasoning": "These businesses sit next to the founder's GRE users and his prospective test-prep partner, and they run enquiry call volumes that fit TinyAI. But the places seen are student platforms and question boards, not consultancy-owner communities, and no owner-side price was seen. Kept because the warm path is direct; the evidence is thin. [thin]",
-  "confidence": "low"
+  "reasoning": "These businesses sit next to the founder's GRE users and his prospective test-prep partner, and they run enquiry call volumes that fit TinyAI. Two owner-side associations and a CRM category with an Indian price were seen, so the room is grounded on its own evidence this time; sizes remain estimates. [thin]",
+  "confidence": "moderate"
+},
+{
+  "slug": "dental-practice-owners-clinics",
+  "name": "Owner-dentists running private dental practices and small clinic chains",
+  "lens": "business_type",
+  "origin": "generated",
+  "who": "Dentists who own one to five practices, in the US, UK, India and elsewhere, and act as the business owner: front-desk staffing, missed calls, no-shows, recall of lapsed patients, software, marketing, and eventually buying or selling a practice. Their phones ring all day and every missed call is a lost patient.",
+  "where": [
+    {"name": "Dentaltown (dental community with practice-management message boards)", "url": "https://www.dentaltown.com/", "seen_via": "search"},
+    {"name": "Dentaltown: Message Boards 101", "url": "https://www.dentaltown.com/magazine/article/4061/message-boards-101", "seen_via": "search"},
+    {"name": "Dental Nachos Facebook group (practice-management and career discussion for dentists)", "url": "https://www.facebook.com/groups/dentalnachos/", "seen_via": "search"},
+    {"name": "Indian Dental Association: practice management resources for members", "url": "https://www.ida.org.in/Membership/Details/Practice-Management", "seen_via": "search"},
+    {"name": "Indian Dental Association on LinkedIn", "url": "https://in.linkedin.com/company/indian-dental-association-ho-", "seen_via": "search"}
+  ],
+  "who_pays": "The practice pays from its own revenue for the phone and reminder system, practice software, answering services, association membership and marketing.",
+  "size": {"value": 300000, "unit": "dentists in the communities seen (Dentaltown, Dental Nachos, Indian Dental Association); practice owners are a subset", "tag": "estimate", "reasoning": "Search results this task said Dentaltown has over 250,000 members, Dental Nachos over 20,000 (one source said about 35,300) and the Indian Dental Association more than 75,000 members with 450 local branches (pages not pinned: https://hip.agency/best-dental-forums/, https://www.facebook.com/groups/dentalnachos/, https://ida.org.in/). The lists overlap and include associates and students, so owner-dentists are a fraction. [thin]"},
+  "ladder": [
+    {"step": 1, "problem": "A practice phone, texting and reminder system to stop missed calls and no-shows", "price_text": "$249/mo", "url": "https://costbench.com/software/business-phone/weave/", "seen_via": "search"},
+    {"step": 2, "problem": "Clinic management software for appointments, records and billing (India)", "price_text": "₹179/month", "url": "https://appointik.in/", "seen_via": "search"},
+    {"step": 3, "problem": "An AI receptionist to answer overflow and after-hours calls (platform usage)", "price_text": "$0.05 per minute", "url": "https://vapi.ai/pricing", "seen_via": "search"},
+    {"step": 4, "problem": "Association membership and continuing education to keep the licence and grow", "price_text": null, "url": "https://www.ida.org.in/Membership/Details/Startapractice", "seen_via": "search"},
+    {"step": 5, "problem": "Buy a second practice or sell to a group (valuation, financing, deal terms)", "price_text": null}
+  ],
+  "geography": ["GLOBAL", "US", "IN"],
+  "venture_overlap": ["v4"],
+  "duplicate_of": null,
+  "reasoning": "Dental clinics are on the ledger's TinyAI list (hospitals and multi-specialty and dental clinics), and voice agents for missed calls are a strong depth; the Dentaltown and Dental Nachos communities are large and business-focused, and practice phone systems have published monthly prices. Clinical work needs a licence the founder lacks, but the phone, recall and deal steps do not. Search reach is strong in the US; India reach is warm through TinyAI.",
+  "confidence": "moderate"
+},
+{
+  "slug": "private-hospitals-india-ahpi",
+  "name": "Owners and administrators of private hospitals in India (20 to 300 beds)",
+  "lens": "business_type",
+  "origin": "generated",
+  "who": "Promoter-doctors, CEOs and administrators of standalone private hospitals and multi-specialty clinics in India. They run appointment lines, OPD front desks, insurance desks and discharge follow-ups by phone, chase NABH accreditation and insurer empanelment, and buy hospital software. (NABH = India's hospital accreditation board. OPD = outpatient department.)",
+  "where": [
+    {"name": "AHPI, Association of Healthcare Providers (India) on LinkedIn", "url": "https://www.linkedin.com/company/association-of-healthcare-providers", "seen_via": "search"},
+    {"name": "AHPI hospital executive membership registration", "url": "https://www.ahpi.in/executive-hospital-membership-registration/", "seen_via": "search"},
+    {"name": "CAHO, Consortium of Accredited Healthcare Organisations (quality and NABH journey community)", "url": "https://www.caho.in/", "seen_via": "search"},
+    {"name": "AHPI members page", "url": "http://mail.ahpi.in/members.html", "seen_via": "search"}
+  ],
+  "who_pays": "The hospital pays from its operating budget for software, telephony, WhatsApp and AI minutes, accreditation and consultants; insurers and government schemes pay the hospital only after empanelment.",
+  "size": {"value": 15000, "unit": "member hospitals AHPI says it has in India", "tag": "estimate", "reasoning": "A search summary this task said AHPI has 20 regional chapters and a network of over 15,000 member hospitals (page not pinned; likely https://www.bfhi-india.in/about-ahpi or https://www.ahpi.in/). Many members are small nursing homes; the 20-to-300-bed slice with a real front desk and call volume is a few thousand. [thin]"},
+  "ladder": [
+    {"step": 1, "problem": "Hospital management software for registration, appointments and billing (cloud, per year)", "price_text": "₹50,000-₹3,00,000 annually", "url": "https://www.secuodsoft.com/blog/software-development/cost-of-hospital-management-software-in-india-complete-pricing-guide.php", "seen_via": "search"},
+    {"step": 2, "problem": "WhatsApp API for appointment confirmations, reports and follow-ups", "price_text": "₹3,499", "url": "https://www.zoko.io/post/interakt-pricing-guide", "seen_via": "search"},
+    {"step": 3, "problem": "AI voice agents for the appointment line, reminders and discharge follow-up calls", "price_text": "₹2–12/Minute", "url": "https://caller.digital/voice-ai-pricing-india", "seen_via": "search"},
+    {"step": 4, "problem": "NABH accreditation: fees, consultants, documentation and upgrades", "price_text": "₹15–40 lakh", "url": "https://easeops.io/learn/nabh-cost-india/", "seen_via": "search"},
+    {"step": 5, "problem": "Insurer and government-scheme empanelment, then claims and audits", "price_text": null}
+  ],
+  "geography": ["IN"],
+  "venture_overlap": ["v4"],
+  "duplicate_of": null,
+  "reasoning": "Hospitals are on the ledger's TinyAI warm path, and voice and WhatsApp agents for appointment lines are a strong depth. AHPI and CAHO are real owner-side bodies, and the software, accreditation and AI-minute prices are published. Clinical and accreditation judgment needs licences and partners; the call-volume steps do not. Only association pages were seen, not a year-round discussion forum. [thin]",
+  "confidence": "moderate"
+},
+{
+  "slug": "restaurant-owners-india-cloud-kitchens",
+  "name": "Restaurant and cloud-kitchen owners in India (1 to 20 outlets)",
+  "lens": "business_type",
+  "origin": "generated",
+  "who": "Owners of dine-in restaurants, cafes and delivery-only kitchens in India who take orders and reservations by phone and WhatsApp, pay 18 to 25 percent of every order to Swiggy and Zomato, and run POS, inventory and staff across a few outlets. Many are members of the National Restaurant Association of India (NRAI).",
+  "where": [
+    {"name": "NRAI, National Restaurant Association of India, on LinkedIn", "url": "https://in.linkedin.com/company/nrai--national-restaurant-association-of-india", "seen_via": "search"},
+    {"name": "NRAI restaurant member directory", "url": "https://nrai.org/MemberDirectory.aspx?type=Restaurant", "seen_via": "search"},
+    {"name": "NRAI on Facebook", "url": "https://www.facebook.com/NRAI.India/", "seen_via": "search"},
+    {"name": "Petpooja blog on aggregator commissions (vendor content restaurateurs read and share)", "url": "https://blog.petpooja.com/growth-scaling/swiggy-zomato-commission-how-kitchens-stay-profitable/", "seen_via": "search"}
+  ],
+  "who_pays": "The restaurant pays from thin margins for POS software, aggregator commissions, phone and WhatsApp tools and association membership.",
+  "size": {"value": 500000, "unit": "restaurants NRAI says it represents in India", "tag": "estimate", "reasoning": "A search summary this task said NRAI represents the interests of 500,000+ restaurants and has approximately 1,200 members in 20 states (pages not pinned; NRAI LinkedIn and https://en.wikipedia.org/wiki/National_Restaurant_Association_of_India). The organised slice with multiple outlets and software is far smaller than the headline. [thin]"},
+  "ladder": [
+    {"step": 1, "problem": "POS and billing software per outlet", "price_text": "₹1,000-1,500/month", "url": "https://www.dineopen.com/blog/petpooja-pricing-plans-2026.html", "seen_via": "search"},
+    {"step": 2, "problem": "Aggregator commissions on every delivery order (Swiggy, Zomato)", "price_text": "18–25%", "url": "https://blog.petpooja.com/growth-scaling/swiggy-zomato-commission-how-kitchens-stay-profitable/", "seen_via": "search"},
+    {"step": 3, "problem": "WhatsApp ordering, reservations and loyalty to win direct orders back", "price_text": "₹3,499", "url": "https://www.zoko.io/post/interakt-pricing-guide", "seen_via": "search"},
+    {"step": 4, "problem": "AI phone answering for orders and reservations during rush hours", "price_text": "$199/month", "url": "https://hostie.ai/resources/2025-ai-phone-answering-service-cost-calculator-restaurant-roi", "seen_via": "search"},
+    {"step": 5, "problem": "Own delivery app or ONDC to cut commission, then multi-outlet expansion", "price_text": null}
+  ],
+  "geography": ["IN"],
+  "venture_overlap": ["v4"],
+  "duplicate_of": null,
+  "reasoning": "Restaurants are on the ledger's TinyAI warm path, and WhatsApp and voice agents for orders are a strong depth. NRAI is a real owner body with a public directory, and POS, commission and AI-answering prices are published. Food and premises are physical work outside the founder's supply; the phone, WhatsApp and commission-recovery steps are not. The AI-answering prices seen are US products, not Indian ones. [thin]",
+  "confidence": "moderate"
+},
+{
+  "slug": "salon-spa-owners-india-global",
+  "name": "Salon and spa owners (1 to 10 locations) in India and worldwide",
+  "lens": "business_type",
+  "origin": "generated",
+  "who": "Owners of hair, beauty and nail salons and small spas who book by phone and WhatsApp, lose revenue to no-shows and missed calls, manage stylists on commission, and grow to a second and third location. They gather in a large global salon-professionals forum and in Indian salon-owner associations.",
+  "where": [
+    {"name": "SalonGeek: Business forum (salon professionals' forum)", "url": "https://www.salongeek.com/forums/business/", "seen_via": "search"},
+    {"name": "SalonGeek thread: Advice for a new salon owner", "url": "https://www.salongeek.com/threads/advice-for-a-new-salon-owner.291447/", "seen_via": "search"},
+    {"name": "SOWA International, Salon Owners Welfare Association (India)", "url": "https://sowainternational.com/", "seen_via": "search"},
+    {"name": "Salon and Beauty Parlour Association of India on LinkedIn", "url": "https://www.linkedin.com/company/salon-and-beauty-parlour-association-of-india", "seen_via": "search"},
+    {"name": "IALSS, Indian Association of Luxury Salon & Suppliers", "url": "https://www.ialss.in/index.html", "seen_via": "search"}
+  ],
+  "who_pays": "The salon pays from its own takings for booking software, WhatsApp reminders, phone tools, training and association membership.",
+  "size": {"value": 100000, "unit": "salon and spa businesses in India with a booking system or association membership; worldwide the room is in the millions", "tag": "estimate", "reasoning": "No count was seen this task. Three Indian salon-owner bodies and a global forum exist, and an Indian software category with published prices (from ₹799 a month) serves salons, which points to a large buying room. [thin]"},
+  "ladder": [
+    {"step": 1, "problem": "Booking, billing and GST software for the first salon", "price_text": "from ₹799/mo", "url": "https://salonboost.online/compare-salon-softwares", "seen_via": "search"},
+    {"step": 2, "problem": "WhatsApp reminders and rebooking to cut no-shows", "price_text": "₹3,499", "url": "https://www.zoko.io/post/interakt-pricing-guide", "seen_via": "search"},
+    {"step": 3, "problem": "An AI receptionist for missed calls while staff are with clients (platform usage)", "price_text": "$0.05 per minute", "url": "https://vapi.ai/pricing", "seen_via": "search"},
+    {"step": 4, "problem": "Chain-grade software and standardisation as locations grow", "price_text": "₹15,000+/month", "url": "https://codingclave.com/guides/salon-management-software-cost-india-2026", "seen_via": "search"},
+    {"step": 5, "problem": "Staff training and certification, and franchise or expansion capital", "price_text": null, "url": "https://sowainternational.com/", "seen_via": "search"}
+  ],
+  "geography": ["IN", "GLOBAL"],
+  "venture_overlap": ["v4"],
+  "duplicate_of": null,
+  "reasoning": "Salons are on the ledger's TinyAI warm path, and WhatsApp and voice agents for bookings are a strong depth. A large global forum and three Indian owner associations were seen, and salon software has published Indian prices. The services themselves are physical work outside the founder's supply; the booking, reminder and missed-call steps are not, and the software category shows search reach. Sizes are estimates. [thin]",
+  "confidence": "moderate"
+},
+{
+  "slug": "dubai-real-estate-brokerages-telesales",
+  "name": "Dubai real estate brokerages running agent floors and portal listings",
+  "lens": "business_type",
+  "origin": "generated",
+  "who": "Owners and sales directors of licensed brokerages in Dubai (5 to 200 agents) that sell and lease property, mostly off-plan and secondary units, through agents who cold-call leads all day. They pay the portals for listings, renew every agent's RERA card, and are now policed on cold-calling and listing quality. (RERA = Dubai's real estate regulator.)",
+  "where": [
+    {"name": "Dubai Property Forum (Google Groups)", "url": "https://groups.google.com/g/dubai-property-forum", "seen_via": "search"},
+    {"name": "Dubai Real Estate Brokerage and Property Management Group (business group under Dubai Chambers)", "url": "https://www.bpmgdubai.org/", "seen_via": "search"},
+    {"name": "Bayut Agent Portal (resource hub for UAE agents)", "url": "https://www.bayut.com/agentportal/", "seen_via": "search"},
+    {"name": "Dubai Land Department: licensed real estate brokers e-service", "url": "https://dubailand.gov.ae/en/eservices/licensed-real-estate-brokers/", "seen_via": "search"}
+  ],
+  "who_pays": "The brokerage pays for portal listing packages, RERA cards and training, CRM and calling tools out of commissions, which come only when a deal closes.",
+  "size": {"value": 2285, "unit": "registered brokerage offices in Dubai (Dubai Land Department news release; older figure)", "tag": "measured", "url": "https://dubailand.gov.ae/en/news-media/dubai-s-real-estate-market-attracts-5-933-brokers-2-285-registered-brokerage-offices", "reasoning": "The DLD release in its title counts 5,933 brokers and 2,285 brokerage offices. Search summaries this task cited newer 2026 figures of 24,000 to 39,776 active brokers across 4,500+ licensed firms (https://www.drivenproperties.com/blog/real-estate-faqs/how-many-real-estate-agents-are-in-dubai, https://springfieldproperties.ae/blog/how-many-real-estate-agent-in-dubai/), so the current room is roughly twice the measured figure. [estimate for 2026]"},
+  "ladder": [
+    {"step": 1, "problem": "RERA broker card for each agent, renewed yearly with CPD training", "price_text": "AED 510", "url": "https://egsh.ae/services/rera-broker-license", "seen_via": "search"},
+    {"step": 2, "problem": "Portal listing packages on Property Finder and Bayut to get leads", "price_text": "Dh10,000-Dh30,000 each month", "url": "https://gulfnews.com/business/property/covid-19-spurned-on-ad-rates-uae-brokers-hit-back-at-property-portal-1.70973709", "seen_via": "search"},
+    {"step": 3, "problem": "A real estate CRM to track leads and agent calls", "price_text": "AED 200-1,500/mo", "url": "https://codingclave.com/blog/real-estate-crm-dubai", "seen_via": "search"},
+    {"step": 4, "problem": "AI voice and WhatsApp agents to qualify portal leads and follow up within the cold-calling rules (platform usage)", "price_text": "$0.05 per minute", "url": "https://vapi.ai/pricing", "seen_via": "search"},
+    {"step": 5, "problem": "Developer partnerships for off-plan launches and a second office", "price_text": null}
+  ],
+  "geography": ["AE"],
+  "venture_overlap": ["v4"],
+  "duplicate_of": null,
+  "reasoning": "Dubai brokerages are the Gulf's largest tele-sales floors, which fits the ledger's TinyAI path (large call volumes in the Gulf) and the voice and WhatsApp agent depth, and the founder's real estate depth helps with the buyer conversation. A Dubai Chambers business group, a property forum and the portal's agent hub were seen, and card, portal and CRM prices are published. Brokerage itself needs a RERA licence the founder lacks; the lead-handling steps do not.",
+  "confidence": "moderate"
 }
 ]}

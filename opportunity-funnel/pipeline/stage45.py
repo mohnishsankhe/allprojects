@@ -68,7 +68,7 @@ CHECK_MEANING = {
     "hold": "one human wall (W17–W29) that is not in the ledger's cannot list (trade: not needed)",
     "persistence": "the hold wall persists in the merged 12-month walk (trade: not needed)",
     "lane": "business: the founder can be the hold (ledger can_be); partner: a partner can supply it (ledger can_rent "
-            "or a named partner kind); trade: no valid hold and every trade condition holds",
+            "or a named partner kind); trade: no hold wall named and every trade condition holds",
 }
 LANE_MEANING = {
     "business": "a real pair exists and the founder can credibly supply the holding human wall",
@@ -395,6 +395,16 @@ def _mapped_forward(walk: dict, mapping: dict, unsure_as: str) -> dict:
     return out
 
 
+def _raw_status_for(w: str, raw: dict, mapping: dict):
+    """The walker's own status for merged wall `w` (through its reconciled id when it used another id)."""
+    if w in raw:
+        return raw[w]
+    for orig, as_ in mapping.items():
+        if as_ == w and orig in raw:
+            return raw[orig]
+    return None
+
+
 def derive_merge(a: dict, b: dict, reconciled_ids, unsure_as: str = "melts") -> dict:
     map_a, map_b = reconciliation_maps(reconciled_ids)
     pa, pb = _mapped_path(a, map_a), _mapped_path(b, map_b)
@@ -419,9 +429,9 @@ def derive_merge(a: dict, b: dict, reconciled_ids, unsure_as: str = "melts") -> 
     if only_b:
         disagreements.append(f"walls only walker b put on the path: {', '.join(only_b)}.")
     for w in both:
-        sa, sb = fa.get(w), fb.get(w)
+        sa, sb = _raw_status_for(w, raw_a, map_a), _raw_status_for(w, raw_b, map_b)
         if sa != sb:
-            disagreements.append(f"{w} in 12 months: walker a says {sa}, walker b says {sb} (merge: melts).")
+            disagreements.append(f"{w} in 12 months: walker a says {sa}, walker b says {sb} (merge: {forward[w]}).")
     return {"outcome_reached": ra or rb, "outcome_a": ra, "outcome_b": rb,
             "walls_both": both, "walls_one": one, "forward": forward,
             "path_a": pa, "path_b": pb, "forward_a": fa, "forward_b": fb,
@@ -912,7 +922,9 @@ def evaluate_pair(pair: dict, index: int, ctx: dict, rules: dict, supply: dict, 
     reasons: dict = {}
     lanes_ok: list = []
     hs_id = pair.get("hold_supply_id")
-    if not hold_valid:
+    if hold is None:
+        reasons["business"] = "no hold wall (a business needs one human wall that holds)"
+    elif not hold_valid:
         reasons["business"] = "no valid hold wall"
     elif hs_id is None:
         reasons["business"] = "no hold_supply_id (the ledger id under which the founder can be this wall)"
@@ -931,7 +943,9 @@ def evaluate_pair(pair: dict, index: int, ctx: dict, rules: dict, supply: dict, 
             reasons["business"] = f"the founder can be {_wall_label(hold, walls)} ({hs_id}: {cb.get('text', '')})"
     p_id = pair.get("partner_id")
     p_kind = pair.get("partner_kind")
-    if not hold_valid:
+    if hold is None:
+        reasons["partner"] = "no hold wall (a partner rents one human wall that holds)"
+    elif not hold_valid:
         reasons["partner"] = "no valid hold wall"
     elif p_id is not None:
         cr = supply["can_rent"].get(p_id) or {}
@@ -949,8 +963,9 @@ def evaluate_pair(pair: dict, index: int, ctx: dict, rules: dict, supply: dict, 
     else:
         reasons["partner"] = "no partner_id or partner_kind"
     tr = pair.get("trade")
-    if hold_valid:
-        reasons["trade"] = f"a valid hold exists ({hold} persists), so this is not a trade"
+    if hold is not None:
+        reasons["trade"] = (f"this alternative names a hold wall ({hold}); a trade has none (set hold_wall to null "
+                            f"and drop the supply and partner ids to draft a trade)")
     elif tr is None:
         reasons["trade"] = "no trade object (build_weeks, payment_upfront, subscription, exit_date)"
     else:

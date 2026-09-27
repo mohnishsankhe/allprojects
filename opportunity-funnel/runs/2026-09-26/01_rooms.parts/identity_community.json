@@ -8,178 +8,193 @@
       "who": "People who love perfume as a hobby. They sample and decant before buying full bottles, argue about longevity and fakes, post reviews, and swap. A minority go one step further and start blending their own, which is where the paid ladder gets steep.",
       "where": [
         {
-          "name": "Basenotes community forums (the URL seen this run is the Fragrance DIY subforum of the wider Basenotes forum)",
+          "name": "Basenotes fragrance forums",
+          "url": "https://basenotes.com/forums/",
+          "seen_via": "search"
+        },
+        {
+          "name": "Fragrantica Club (the community board of Fragrantica)",
+          "url": "https://www.fragrantica.com/board/index.php",
+          "seen_via": "search"
+        },
+        {
+          "name": "r/fragrance (2.4M members; stats page)",
+          "url": "https://gummysearch.com/r/fragrance/",
+          "seen_via": "search"
+        },
+        {
+          "name": "r/fragranceswap (128k members; stats page)",
+          "url": "https://gummysearch.com/r/fragranceswap/",
+          "seen_via": "search"
+        },
+        {
+          "name": "Basenotes Fragrance DIY subforum (the making end of the room)",
           "url": "https://basenotes.com/forums/fragrance-diy/",
-          "seen_via": "search (this run; reused from profession.json)"
-        },
-        {
-          "name": "Perfumemaking Facebook group",
-          "url": "https://www.facebook.com/groups/Perfumemaking/",
-          "seen_via": "search (this run; reused from profession.json)"
-        },
-        {
-          "name": "Indie Perfumers Guild",
-          "url": "https://www.indieperfumersguild.org/",
-          "seen_via": "search (this run; reused from profession.json)"
+          "seen_via": "search"
         }
       ],
-      "who_pays": "The enthusiast pays out of pocket: samples and decants first, then full bottles, then kits and courses if they start making.",
+      "who_pays": "The enthusiast pays out of pocket: samples and decants first, then subscriptions and full bottles, then kits and courses if they start making.",
       "size": {
-        "value": 500000,
-        "unit": "people active in online fragrance forums and groups worldwide",
-        "tag": "estimate",
-        "reasoning": "No member count for a collector forum was seen in this run. The Basenotes DIY subforum alone runs past 600 pages of threads (noted by the profession lens), and the collector boards on Basenotes and Reddit are far larger than the DIY corner. A few hundred thousand active posters worldwide is a rough guess. [thin]"
+        "value": 2400000,
+        "unit": "members of r/fragrance (the largest single gathering place; Fragrantica separately reports 2.0 million members)",
+        "tag": "measured",
+        "url": "https://gummysearch.com/r/fragrance/"
       },
       "ladder": [
         {
           "step": 1,
-          "problem": "Choose what to buy without wasting money: samples and decants before full bottles, spotting fakes, avoiding blind-buy mistakes",
-          "price_text": null,
-          "url": null,
-          "seen_via": null
+          "problem": "Try before buying: decants and samples of expensive bottles",
+          "price_text": "between $5 and $30",
+          "url": "https://decantanddiscover.com/journal/how-much-do-fragrance-decants-cost",
+          "seen_via": "search"
         },
         {
           "step": 2,
-          "problem": "Start making: buy a starter kit of materials",
-          "price_text": "$95",
-          "url": "https://boisdejasmin.com/2023/12/smell-training-and-perfume-making-kits.html",
+          "problem": "Keep discovering: a monthly fragrance subscription",
+          "price_text": "$16.95 a Month",
+          "url": "https://www.fashionbeans.com/article/scentbird-reviews/",
           "seen_via": "search"
         },
         {
           "step": 3,
-          "problem": "Learn properly: formal perfumery training",
-          "price_text": "€3,300",
-          "url": "http://frenchperfume.school/intensetechnicaltraining",
+          "problem": "Start making: a starter perfume-making kit",
+          "price_text": "$189.95",
+          "url": "https://en.lovebox.love/products/starter-perfume-making-kit",
           "seen_via": "search"
         },
         {
           "step": 4,
-          "problem": "Sell the first bottles: IFRA-compliant formulas and safety documents",
-          "price_text": "$150–$1,000",
-          "url": "https://www.packamor.com/blogs/knowledge-hub/how-much-does-it-cost-to-start-a-perfume-brand",
+          "problem": "Learn the basics of perfumery in a cheap online course",
+          "price_text": "US$37.00",
+          "url": "https://www.elevify.com/en-er/courses/beauty-fashion-and-textiles/perfumery/perfume-making-course-8ed4a",
           "seen_via": "search"
         },
         {
           "step": 5,
-          "problem": "Get found and sell online",
+          "problem": "Learn properly: a structured online perfumery school",
           "price_text": null,
-          "url": "https://basenotes.com/threads/getting-into-diy-perfumery.527247/",
+          "url": "https://experimentalperfumeclub.com/en-us/pages/online-courses",
           "seen_via": "search"
         }
       ],
       "geography": ["GLOBAL"],
       "venture_overlap": ["v2"],
       "duplicate_of": null,
-      "reasoning": "A real identity room: people gather around loving perfume, not around a job. It matters for v2 (Proper Noun) because these are the loudest buyers and reviewers. But this session had no web access (search budget spent, pages blocked), so the collector rung has no grounded place or price of its own; the three places and all prices are reused from the profession lens's search results and belong to the making end of the ladder, which overlaps the profession room indie-perfumers-launching-brands. Fragrance depth is only moderate. [thin]",
-      "confidence": "low"
+      "reasoning": "A real identity room: people gather around loving perfume, not around a job, in named forums and a 2.4M-member subreddit, and they already pay through search for decants, subscriptions and kits. It matters for v2 (Proper Noun) because these are the loudest buyers and reviewers; fragrance depth is only moderate, and the making end overlaps the profession room indie-perfumers-launching-brands. All places, the size and the prices were re-grounded in fresh searches this task.",
+      "confidence": "moderate"
     },
     {
       "slug": "indian-retail-fno-traders-community",
       "name": "Indian retail futures-and-options traders who gather in trading communities",
       "lens": "identity_community",
       "origin": "generated",
-      "who": "Salaried people and students in India who trade index options on Zerodha, Groww or Dhan and identify as traders. They share screenshots of profits and losses, chase strategies, buy courses and alert services, and most lose money. Trading is a hobby and a hoped-for second income at the same time.",
+      "who": "Salaried people and students in India who trade index options on Zerodha, Groww or Dhan and identify as traders. They share screenshots of profits and losses, chase strategies, buy courses and analytics tools, and most lose money. Trading is a hobby and a hoped-for second income at the same time.",
       "where": [
         {
-          "name": "r/IndianStreetBets",
-          "url": "https://www.reddit.com/r/IndianStreetBets/",
-          "seen_via": "unverified"
+          "name": "r/IndianStreetBets (573,278 members; stats page)",
+          "url": "https://reddapi.dev/subreddits/indianstreetbets/insights",
+          "seen_via": "search"
         },
         {
-          "name": "TradingQnA (Zerodha's public trading Q&A forum)",
+          "name": "r/IndianStreetBets (stats page)",
+          "url": "https://gummysearch.com/r/IndianStreetBets/",
+          "seen_via": "search"
+        },
+        {
+          "name": "TradingQnA, Zerodha's public trading Q&A forum",
           "url": "https://tradingqna.com/",
-          "seen_via": "unverified"
+          "seen_via": "search"
+        },
+        {
+          "name": "TradingQnA: options trading strategy thread (F&O category)",
+          "url": "https://tradingqna.com/t/options-trading-strategy/175569",
+          "seen_via": "search"
         }
       ],
-      "who_pays": "The trader pays out of pocket for courses, paid Telegram or Discord groups, charting and options analytics tools, and, when they lose, for tax filing help.",
+      "who_pays": "The trader pays out of pocket for courses, mentorship, options analytics subscriptions and, at year end, for ITR-3 filing and a tax audit if one applies.",
       "size": {
-        "value": 9600000,
-        "unit": "individuals who traded equity F&O in India in FY24",
-        "tag": "estimate",
-        "reasoning": "SEBI's 2024 study reported roughly 9.6 million individual F&O traders, of whom about nine in ten lost money. That page was not seen in this run, so the figure is recalled from memory and treated as an estimate."
+        "value": 573278,
+        "unit": "members of r/IndianStreetBets (the wider population is SEBI's roughly 7.3 million individual F&O traders in FY24, 9 in 10 of whom lost money)",
+        "tag": "measured",
+        "url": "https://reddapi.dev/subreddits/indianstreetbets/insights"
       },
       "ladder": [
         {
           "step": 1,
-          "problem": "Learn strategies and get trade ideas from a paid community or alert service",
-          "price_text": "$47 to $224 monthly",
-          "url": "https://whop.com/blog/options-trading-guide-discord-servers/",
+          "problem": "Learn options basics from a cheap course",
+          "price_text": "₹499",
+          "url": "https://www.upsurge.club/courses/options-trading",
           "seen_via": "search"
         },
         {
           "step": 2,
-          "problem": "Visualise and manage positions with an options analytics tool",
-          "price_text": "$39.99/month",
-          "url": "https://optionstrat.com/membership",
+          "problem": "Analyse and manage positions with an options analytics subscription",
+          "price_text": "Rs 1300/month",
+          "url": "https://sensibull.freshdesk.com/support/solutions/articles/43000586718-what-are-the-charges-of-sensibull-",
           "seen_via": "search"
         },
         {
           "step": 3,
-          "problem": "Automate and backtest a strategy",
-          "price_text": "$99/month",
-          "url": "https://optionalpha.com/pricing",
+          "problem": "Backtest and build strategies with a fuller analytics platform",
+          "price_text": "Rs 1229 monthly",
+          "url": "https://www.topstockmarketbroker.com/2026/08/quantsapp-review-2026-app-features.html",
           "seen_via": "search"
         },
         {
           "step": 4,
-          "problem": "Trade other people's capital through a funded-trader evaluation",
+          "problem": "Pay for a mentorship program after losing money on their own",
           "price_text": null,
-          "url": "https://discord.com/invite/trade-etf",
+          "url": "https://www.kundankishore.in/courses/Mentorship-Program-on-Options-Trading-in-India-661d1961cf4e99039865b3d5",
           "seen_via": "search"
         },
         {
           "step": 5,
-          "problem": "File ITR-3 and handle a tax audit after a year of F&O trading",
-          "price_text": null,
-          "url": null,
-          "seen_via": null
+          "problem": "File ITR-3 at year end, with a tax audit if it applies",
+          "price_text": "Rs 2,499 for ITR-3 without audit and Rs 14,999 with Section 44AB tax audit",
+          "url": "https://www.patronaccounting.com/itr-for-fno-trader",
+          "seen_via": "search"
         }
       ],
       "geography": ["IN"],
       "venture_overlap": [],
       "duplicate_of": null,
-      "reasoning": "A huge, loud identity community with a clear paid ladder and options trading is a moderate depth in the ledger. Two warnings: both gathering places carry the unverified tag a sibling lens gave them (no search result showed these URLs this session), and the ladder prices seen are US tools, not Indian ones. Anything that looks like tips or advice needs a SEBI registration the founder does not hold; education and tooling do not. The tax step is the obligation lens's room indian-fno-traders-itr3-tax-audit. [thin]",
-      "confidence": "low"
+      "reasoning": "A huge, loud identity community with a clear paid ladder, and options trading is a moderate depth in the ledger; both gathering places were seen in search this task, and the prices are Indian this time. SEBI's own press release on losses was seen (https://www.sebi.gov.in/media-and-notifications/press-releases/sep-2024/updated-sebi-study-reveals-93-of-individual-traders-incurred-losses-in-equity-fando-between-fy22-and-fy24-aggregate-losses-exceed-1-8-lakh-crores-over-three-years_86906.html). Anything that looks like tips or advice needs a SEBI registration the founder does not hold; education and tooling do not. The tax step is the obligation lens's room indian-fno-traders-itr3-tax-audit, and the profession room active-retail-options-traders is the global cousin. The two subscription prices come from review pages in the search result, not the vendors' own pages.",
+      "confidence": "moderate"
     },
     {
       "slug": "indie-hackers-bootstrapped-founders",
       "name": "Indie hackers: solo and two-person founders building bootstrapped software products in public",
       "lens": "identity_community",
       "origin": "generated",
-      "who": "Developers and product people who build small software products without investors, share revenue numbers openly, and identify with the indie hacker label. They post on Indie Hackers, Hacker News and Reddit, launch on Product Hunt, and sell through Stripe, Paddle or Gumroad.",
+      "who": "Developers and product people who build small software products without investors, share revenue numbers openly, and identify with the indie hacker label. They post on Indie Hackers and Reddit, launch on Product Hunt, and sell through Stripe, Paddle or Gumroad.",
       "where": [
         {
           "name": "Indie Hackers community",
           "url": "https://www.indiehackers.com/",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "seen_via": "search"
         },
         {
-          "name": "r/indiehackers (Reddit; guide page seen)",
-          "url": "https://redditagency.com/subreddits/r/indiehackers",
-          "seen_via": "search (this run; reused from transition.json)"
+          "name": "r/indiehackers (151k members; stats page)",
+          "url": "https://gummysearch.com/r/indiehackers/",
+          "seen_via": "search"
         },
         {
-          "name": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=19975525",
-          "seen_via": "search (this run; reused from transition.json)"
+          "name": "r/indiehackers stats and best time to post (SubTrends)",
+          "url": "https://subtrends.io/r/indiehackers",
+          "seen_via": "search"
         },
         {
-          "name": "DEV Community thread on where founders get feedback",
-          "url": "https://dev.to/uuki/what-are-some-great-websites-to-get-feedback-on-startup-ideas-34pc",
-          "seen_via": "search (this run; reused from transition.json)"
-        },
-        {
-          "name": "r/startups (2.1M members; stats page)",
-          "url": "https://gummysearch.com/r/startups/",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "name": "Indie Hackers thread: where do all the founders hang out?",
+          "url": "https://www.indiehackers.com/post/where-do-all-the-founders-hang-out-0657e941c0",
+          "seen_via": "search"
         }
       ],
       "who_pays": "The founder pays from personal savings or early revenue: incorporation, a merchant-of-record, tools, and services that get the product found.",
       "size": {
-        "value": 2100000,
-        "unit": "members of r/startups (a superset; the Indie Hackers member count was not seen this run)",
+        "value": 151000,
+        "unit": "members of r/indiehackers",
         "tag": "measured",
-        "url": "https://gummysearch.com/r/startups/"
+        "url": "https://gummysearch.com/r/indiehackers/"
       },
       "ladder": [
         {
@@ -191,37 +206,37 @@
         },
         {
           "step": 2,
-          "problem": "Keep the company alive each year: registered agent and franchise tax",
-          "price_text": "$100 Renewal",
-          "url": "https://sparklaun.ch/compare/stripe-atlas",
+          "problem": "Keep the company alive each year: Delaware annual tax and a registered agent",
+          "price_text": "$300 Annual Tax",
+          "url": "https://llcforge.com/llc-costs/delaware/",
           "seen_via": "search"
         },
         {
           "step": 3,
-          "problem": "Get found now that buyers ask ChatGPT and Google AI instead of browsing: track and improve visibility in AI answers",
-          "price_text": "$95/month",
-          "url": "https://visible.seranking.com/blog/peec-ai-review/",
+          "problem": "Sell worldwide without handling sales tax: a merchant of record",
+          "price_text": "5% + 50¢",
+          "url": "https://dodopayments.com/blogs/paddle-fees-explained",
           "seen_via": "search"
         },
         {
           "step": 4,
-          "problem": "Learn to sell and price from peers in a paid community or course",
-          "price_text": null,
-          "url": "https://avinashvagh.gumroad.com/l/MiniStartup-Community",
+          "problem": "Get found now that buyers ask ChatGPT and Google AI instead of browsing: track visibility in AI answers",
+          "price_text": "$95 per month",
+          "url": "https://visible.seranking.com/blog/peec-ai-review/",
           "seen_via": "search"
         },
         {
           "step": 5,
-          "problem": "When revenue grows: bookkeeping, tax and a fractional CFO",
-          "price_text": "$5,000 and $10,000 per month",
-          "url": "https://pilot.com/blog/fractional-cfo-cost-guide",
+          "problem": "Learn to sell and price from peers in a paid community",
+          "price_text": "$97 per month",
+          "url": "https://aifunnelinsider.com/skool-communities/",
           "seen_via": "search"
         }
       ],
       "geography": ["GLOBAL"],
       "venture_overlap": ["v4", "v5"],
       "duplicate_of": null,
-      "reasoning": "A strong identity room: they call themselves indie hackers, gather in named places, and buy self-serve tools through search, which is exactly the ledger's search reach. AI search visibility is a strong depth and overlaps TinyAI (v4); the insight product (v5) could serve them too. Distinct from the fundraising founder rooms in the transition and life-stage lenses because this room rejects investors. Places and prices are reused from search results captured earlier in this run; no fresh search was possible for this lens.",
+      "reasoning": "A strong identity room: they call themselves indie hackers, gather in named places, and buy self-serve tools through search, which is exactly the ledger's search reach. AI search visibility is a strong depth and overlaps TinyAI (v4); the insight product (v5) could serve them too. Distinct from the fundraising founder rooms in the transition and life-stage lenses because this room rejects investors. Places, size and prices were re-grounded in fresh searches this task.",
       "confidence": "high"
     },
     {
@@ -232,74 +247,74 @@
       "who": "Founders of early-stage Indian companies, from bootstrapped apps to funded startups, who identify as part of the Indian startup scene. They trade notes on incorporation, compliance, raising from angels, hiring, and lately on using AI agents to cut support and sales costs.",
       "where": [
         {
-          "name": "r/StartUpIndia",
-          "url": "https://www.reddit.com/r/StartUpIndia/",
-          "seen_via": "unverified"
+          "name": "r/StartUpIndia (444,359 members; stats page)",
+          "url": "https://reddapi.dev/subreddits/startupindia/insights",
+          "seen_via": "search"
         },
         {
-          "name": "Indie Hackers community (global founders, with an Indian contingent)",
-          "url": "https://www.indiehackers.com/",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "name": "r/StartUpIndia (stats page)",
+          "url": "https://gummysearch.com/r/StartUpIndia/",
+          "seen_via": "search"
         },
         {
-          "name": "r/startups (2.1M members; stats page; global founders)",
-          "url": "https://gummysearch.com/r/startups/",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "name": "Headstart Network (Startup Saturday meetups in 30+ cities)",
+          "url": "https://www.headstart.in/",
+          "seen_via": "search"
         },
         {
-          "name": "CAclubindia (3 million+ members; founders ask compliance questions here)",
-          "url": "https://www.caclubindia.com/",
-          "seen_via": "search (this run; reused from obligation.json)"
+          "name": "Startupbricks guide to the subreddits Indian founders use",
+          "url": "https://www.startupbricks.in/blog/reddit-subreddits-indian-startups/",
+          "seen_via": "search"
         }
       ],
-      "who_pays": "The company pays, often from the founder's own pocket before a raise: CA fees, pitch and valuation work, software and AI tooling, and later a finance function.",
+      "who_pays": "The company pays, often from the founder's own pocket before a raise: CA fees, valuation reports, software and AI tooling, and later a finance function.",
       "size": {
-        "value": 150000,
-        "unit": "DPIIT-recognised startups in India",
-        "tag": "estimate",
-        "reasoning": "The government's startup registry passed roughly 1.5 lakh recognised startups in 2025; the page was not seen this run, so the figure is recalled from memory. Active founders posting online are a fraction of this."
+        "value": 444359,
+        "unit": "members of r/StartUpIndia",
+        "tag": "measured",
+        "url": "https://reddapi.dev/subreddits/startupindia/insights"
       },
       "ladder": [
         {
           "step": 1,
-          "problem": "Set up the company and stay compliant: ROC filings, GST, audits",
-          "price_text": null,
-          "url": null,
-          "seen_via": null
+          "problem": "Set up the company and stay compliant each year: ROC filings, GST, audit",
+          "price_text": "Rs. 50,000 to Rs. 80,000",
+          "url": "https://www.incorpx.io/blog/annual-compliance-cost-startups-2026",
+          "seen_via": "search"
         },
         {
           "step": 2,
-          "problem": "Raise a round: pitch deck and valuation",
-          "price_text": "$2,000–$5,000",
-          "url": "https://www.spectup.com/resource-hub/how-much-does-a-pitch-deck-cost",
+          "problem": "Raise a round: a valuation report from a registered valuer",
+          "price_text": "Rs 25,000",
+          "url": "https://businesssetup.in/grow/valuation-report-for-startups/",
           "seen_via": "search"
         },
         {
           "step": 3,
           "problem": "Cut support and sales cost with AI voice and WhatsApp agents",
           "price_text": "$0.05 per minute",
-          "url": "https://vapi.ai/pricing",
+          "url": "https://www.happyrobot.ai/hub/vapi-ai-pricing",
           "seen_via": "search"
         },
         {
           "step": 4,
           "problem": "Get found in AI search as buyers stop browsing",
-          "price_text": "$99 a month",
-          "url": "https://www.tryprofound.com/pricing",
+          "price_text": "$95 per month",
+          "url": "https://visible.seranking.com/blog/peec-ai-review/",
           "seen_via": "search"
         },
         {
           "step": 5,
-          "problem": "Build a finance function as the company grows: MIS, investor reporting, fractional CFO",
-          "price_text": "$5,000 and $10,000 per month",
-          "url": "https://pilot.com/blog/fractional-cfo-cost-guide",
+          "problem": "Meet investors and co-founders at community events",
+          "price_text": null,
+          "url": "https://www.headstart.in/",
           "seen_via": "search"
         }
       ],
       "geography": ["IN"],
       "venture_overlap": ["v4", "v5"],
       "duplicate_of": null,
-      "reasoning": "Indian founders are a self-identified community and the founder can enter it two ways: TinyAI already sells AI agents to Indian businesses, and valuation for a raise is a strong depth. The compliance rung is the obligation lens's room indian-pvt-ltd-annual-roc-compliance; this room is the wider identity around it. One of four places is unverified. Prices are reused from earlier search results in this run and are US-dollar figures, not Indian quotes.",
+      "reasoning": "Indian founders are a self-identified community and the founder can enter it two ways: TinyAI already sells AI agents to Indian businesses, and valuation for a raise is a strong depth. The compliance rung is the obligation lens's room indian-pvt-ltd-annual-roc-compliance; this room is the wider identity around it. All places were seen in search this task, and the compliance and valuation prices are Indian quotes now.",
       "confidence": "moderate"
     },
     {
@@ -312,22 +327,27 @@
         {
           "name": "r/developersIndia (1,594,432 members; stats page)",
           "url": "https://reddapi.dev/subreddits/developersindia/insights",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "seen_via": "search"
         },
         {
-          "name": "r/AI_Agents (425,179 members; stats page)",
-          "url": "https://prowlo.com/tools/subreddit-stats/ai_agents",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "name": "r/developersIndia (stats page)",
+          "url": "https://gummysearch.com/r/developersIndia/",
+          "seen_via": "search"
         },
         {
-          "name": "n8n Community forum (jobs and freelancer threads)",
-          "url": "https://community.n8n.io/t/n8n-ai-automation-freelancer-for-digital-agency/79602",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "name": "r/AI_Agents (432,179 members; stats page)",
+          "url": "https://reddapi.dev/subreddits/ai_agents/insights",
+          "seen_via": "search"
+        },
+        {
+          "name": "n8n Community jobs board: freelancer wanted thread",
+          "url": "https://community.n8n.io/t/looking-for-an-n8n-freelancer-automation-builder/316359",
+          "seen_via": "search"
         },
         {
           "name": "Skool: AI Automation Society",
           "url": "https://www.skool.com/ai-automation-society",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "seen_via": "search"
         }
       ],
       "who_pays": "The developer pays personally for courses and communities, and for platform usage while building a portfolio; a first client later pays for the work.",
@@ -341,22 +361,22 @@
         {
           "step": 1,
           "problem": "Learn to build agents in a paid community",
-          "price_text": "$7 a month",
-          "url": "https://skoolmakers.com/communities/ai-automation-a-z/",
+          "price_text": "$94 monthly",
+          "url": "https://www.skool.com/ai-automation-society-plus/about",
           "seen_via": "search"
         },
         {
           "step": 2,
-          "problem": "Pay platform usage while building the first voice or WhatsApp agents",
-          "price_text": "$0.05 per minute",
-          "url": "https://vapi.ai/pricing",
+          "problem": "Pay for the automation platform while building a portfolio",
+          "price_text": "$24–$800/month",
+          "url": "https://costbench.com/software/ai-automation/n8n/",
           "seen_via": "search"
         },
         {
           "step": 3,
-          "problem": "Win the first paying client: proposals, pricing, contracts",
-          "price_text": null,
-          "url": "https://n8nlearn.gumroad.com/l/n8n-freelancer-starter-kit",
+          "problem": "Pay per minute while building the first voice agents",
+          "price_text": "$0.05 per minute",
+          "url": "https://www.happyrobot.ai/hub/vapi-ai-pricing",
           "seen_via": "search"
         },
         {
@@ -368,16 +388,16 @@
         },
         {
           "step": 5,
-          "problem": "Buy a full agency course or paid community once the side income is real",
-          "price_text": "$997",
-          "url": "https://ippei.com/best-ai-agency-courses/",
+          "problem": "Win the first paying client on freelancer job boards",
+          "price_text": null,
+          "url": "https://community.n8n.io/t/n8n-ai-automation-freelancer-for-digital-agency/79602",
           "seen_via": "search"
         }
       ],
       "geography": ["IN"],
       "venture_overlap": ["v4"],
       "duplicate_of": null,
-      "reasoning": "A very large, self-identified community with a fear-driven reason to pay, and building AI agents for businesses is a strong depth (TinyAI). Reach is search plus the founder's Indian business network. The ladder overlaps the profession room ai-agent-builders-freelance and the life-stage room mid-career-ai-agency-starters, but the identity slice (Indian developers as a community) is distinct and much bigger. Places and prices reused from earlier search results in this run.",
+      "reasoning": "A very large, self-identified community with a fear-driven reason to pay, and building AI agents for businesses is a strong depth (TinyAI). Reach is search plus the founder's Indian business network. The ladder overlaps the profession room ai-agent-builders-freelance and the life-stage room mid-career-ai-agency-starters, but the identity slice (Indian developers as a community) is distinct and much bigger. Places, size and prices were re-grounded in fresh searches this task.",
       "confidence": "moderate"
     },
     {
@@ -388,79 +408,72 @@
       "who": "Engineers, analysts and project people who want to work in renewables, storage or energy finance and say so publicly. Some are leaving oil and gas, some are bankers who want infrastructure deals, some are early-career and picking a lane. They gather in energy professional communities and the renewables corners of finance forums.",
       "where": [
         {
-          "name": "Energy Central communities (250K power professionals)",
-          "url": "https://energycentral.com/community/energy-biz/socializing-customers",
-          "seen_via": "search (this run; reused from profession.json)"
+          "name": "Energy Central (over 200,000 registered members; LinkedIn page)",
+          "url": "https://www.linkedin.com/company/energy-central",
+          "seen_via": "search"
         },
         {
-          "name": "Society of Petroleum Engineers (LinkedIn, 127,000 members in 145 countries)",
-          "url": "https://www.linkedin.com/company/society-of-petroleum-engineers",
-          "seen_via": "search (this run; reused from profession.json)"
+          "name": "Energy Central: The Energy Collective Group members",
+          "url": "https://energycentral.com/c/ec/members",
+          "seen_via": "search"
         },
         {
-          "name": "SEIA, Solar Energy Industries Association (LinkedIn, 103,906 followers)",
-          "url": "https://www.linkedin.com/company/solarindustry",
-          "seen_via": "search (this run; reused from profession.json)"
+          "name": "Society of Petroleum Engineers (more than 129,900 members in 148 countries)",
+          "url": "https://www.spe.org/en/about/",
+          "seen_via": "search"
         },
         {
-          "name": "Wall Street Oasis: renewable energy commercial analyst thread",
-          "url": "https://www.wallstreetoasis.com/forum/job-search/renewable-energy-commercial-analyst",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "name": "Wall Street Oasis: best way to play the energy transition from a career standpoint",
+          "url": "https://www.wallstreetoasis.com/forum/investment-banking/best-way-to-play-the-energy-transition-from-a-career-standpoint",
+          "seen_via": "search"
         },
         {
-          "name": "Wall Street Oasis: starting a renewable energy PE analyst job",
-          "url": "https://www.wallstreetoasis.com/forum/private-equity/starting-renewable-energy-pe-analyst-job-what-to-expect",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "name": "Wall Street Oasis: switching back to energy",
+          "url": "https://wallstreetoasis.com/forums/switching-back-to-energy",
+          "seen_via": "search"
         }
       ],
       "who_pays": "The switcher pays personally for courses and credentials; an employer sometimes pays once they are inside.",
       "size": {
-        "value": 250000,
-        "unit": "Energy Central community members (all power professionals; career switchers are a slice)",
+        "value": 200000,
+        "unit": "registered members of Energy Central (all power professionals; career switchers are a slice)",
         "tag": "measured",
-        "url": "https://energycentral.com/community/energy-biz/socializing-customers"
+        "url": "https://www.linkedin.com/company/energy-central"
       },
       "ladder": [
         {
           "step": 1,
-          "problem": "Learn renewables project finance modelling to speak the language of deals",
-          "price_text": "USD$800",
-          "url": "https://pivotal180.com/course-type/project-finance-modeling/",
-          "seen_via": "search"
-        },
-        {
-          "step": 2,
-          "problem": "Take a project finance modelling course before interviews",
+          "problem": "Learn project finance modelling to speak the language of deals",
           "price_text": "$247",
           "url": "https://breakingintowallstreet.com/project-finance-signup-options/",
           "seen_via": "search"
         },
         {
+          "step": 2,
+          "problem": "Take a renewables-specific project finance modelling course before interviews",
+          "price_text": null,
+          "url": "https://pivotal180.com/course-type/renewable-energy-project-finance-modeling/",
+          "seen_via": "search"
+        },
+        {
           "step": 3,
           "problem": "Get a solar credential that bids and employers ask for",
-          "price_text": "$375",
-          "url": "https://www.nabcep.org/certifications/requirements-fees/",
+          "price_text": "$375 exam fee",
+          "url": "https://www.nabcep.org/certifications/nabcep-fees/",
           "seen_via": "search"
         },
         {
           "step": 4,
-          "problem": "Add a project management credential to move into project roles",
-          "price_text": "$445",
-          "url": "https://trainingcamp.com/articles/pmp-exam-cost-requirements-and-eligibility-the-complete-2026-guide/",
-          "seen_via": "search"
-        },
-        {
-          "step": 5,
-          "problem": "Add a safety credential that contractors and Gulf employers ask for",
-          "price_text": "$800 to $1,200",
-          "url": "https://www.hsestudyguide.com/nebosh-oil-and-gas/",
+          "problem": "Add a climate-risk credential for finance and risk roles",
+          "price_text": "USD 750 for non-members",
+          "url": "https://www.garp.org/scr",
           "seen_via": "search"
         }
       ],
       "geography": ["GLOBAL"],
       "venture_overlap": [],
       "duplicate_of": null,
-      "reasoning": "Energy is a strong depth and the founder has a warm path into Southeast Asian energy companies (with the employer-rules caveat in the ledger). The identity here is the transition itself: people who gather in energy communities because they want in. It overlaps the profession rooms oil-gas-engineers-mid-career and solar-wind-project-developers and the life-stage room early-career-renewables-project-finance, but cuts across them. Places and prices reused from earlier search results in this run.",
+      "reasoning": "Energy is a strong depth and the founder has a warm path into Southeast Asian energy companies (with the employer-rules caveat in the ledger). The identity here is the transition itself: people who gather in energy communities and finance forums because they want in. It overlaps the profession rooms oil-gas-engineers-mid-career and solar-wind-project-developers and the life-stage room early-career-renewables-project-finance, but cuts across them. The Pivotal180 search showed only its $100-per-year renewal, not the course price, so that step has no price.",
       "confidence": "moderate"
     },
     {
@@ -471,29 +484,24 @@
       "who": "Undergraduates and recent graduates whose university does not get bank recruiters on campus. 'Non-target' is a badge they use about themselves on Wall Street Oasis and Reddit. They cold-email alumni, buy interview guides, and chase the few off-cycle and boutique openings.",
       "where": [
         {
-          "name": "Wall Street Oasis, Investment Banking forum",
-          "url": "https://www.wallstreetoasis.com/forum/investment-banking",
-          "seen_via": "search (this run; reused from profession.json)"
+          "name": "Wall Street Oasis IB forum: non-target school tiers",
+          "url": "https://www.wallstreetoasis.com/forum/investment-banking/non-target-school-tiers",
+          "seen_via": "search"
         },
         {
-          "name": "Wall Street Oasis IB forum: 2027 recruiting cycle",
-          "url": "https://www.wallstreetoasis.com/forum/investment-banking/2027-recruiting-cycle",
-          "seen_via": "search (this run; reused from life_stage.json)"
-        },
-        {
-          "name": "Wall Street Oasis: Summer Analyst 2027 Discord thread",
-          "url": "https://www.wallstreetoasis.com/forum/investment-banking/summer-analyst-2027-discord",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "name": "Wall Street Oasis IB forum: cracked non-target schools this year",
+          "url": "https://www.wallstreetoasis.com/forum/investment-banking/cracked-non-target-schools-this-year",
+          "seen_via": "search"
         },
         {
           "name": "r/FinancialCareers (over 741,000 members; described here)",
           "url": "https://emeritus.org/blog/best-finance-jobs-reddit/",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "seen_via": "search"
         },
         {
-          "name": "Mergers & Inquisitions (blog hub with reader comments)",
-          "url": "https://mergersandinquisitions.com/breaking-into-wall-street-biws/",
-          "seen_via": "search (this run; reused from transition.json)"
+          "name": "r/FinancialCareers Discord server (20,423 members)",
+          "url": "https://discord.com/invite/NAwT4GBnWB",
+          "seen_via": "search"
         }
       ],
       "who_pays": "The student or their parents pay for guides, courses, coaching and, if it fails, an MBA.",
@@ -513,23 +521,23 @@
         },
         {
           "step": 2,
-          "problem": "Interview prep guide and question bank",
-          "price_text": "$199.99",
-          "url": "https://www.wallstreetoasis.com/courses/interview-prep/investment-banking",
-          "seen_via": "search"
-        },
-        {
-          "step": 3,
           "problem": "Financial modelling course to pass technicals",
           "price_text": "$499",
           "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
           "seen_via": "search"
         },
         {
-          "step": 4,
-          "problem": "One-to-one mock interviews and tutoring",
+          "step": 3,
+          "problem": "One-to-one tutoring with a banker",
           "price_text": "$800/hour",
-          "url": "https://theprivateequiteer.com/wall-street-prep-premium-package-review/",
+          "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+          "seen_via": "search"
+        },
+        {
+          "step": 4,
+          "problem": "A mentored recruiting program built for non-targets",
+          "price_text": "$6,000 to $9,000",
+          "url": "https://www.bankersbyday.com/wso-academy-review/",
           "seen_via": "search"
         },
         {
@@ -543,7 +551,7 @@
       "geography": ["US", "GB", "IN", "GLOBAL"],
       "venture_overlap": [],
       "duplicate_of": null,
-      "reasoning": "Non-target is a genuine self-identity with its own pains (no on-campus recruiting, cold outreach, credibility) and the founder has warm reach through banking colleagues and strong depth in corporate finance. It overlaps the life-stage room ib-summer-analyst-recruits and the transition room ib-analyst-recruiting-students; the merge may fold it. Places and prices reused from earlier search results in this run.",
+      "reasoning": "Non-target is a genuine self-identity with its own pains (no on-campus recruiting, cold outreach, credibility) and the founder has warm reach through banking colleagues and strong depth in corporate finance. It overlaps the life-stage room ib-summer-analyst-recruits and the transition room ib-analyst-recruiting-students; the merge may fold it. Places, size and prices were re-grounded in fresh searches this task; the $6,000 to $9,000 program price is a reviewer's report, since the vendor does not publish it.",
       "confidence": "moderate"
     },
     {
@@ -554,32 +562,32 @@
       "who": "Consultants two to four years in who identify strongly with their firm's alumni network and are planning the next move. They compare exit options, prepare for private equity case studies and modelling tests they were never trained for, and weigh an MBA.",
       "where": [
         {
-          "name": "r/consulting (341k members; stats page)",
+          "name": "r/consulting (382,499 members; stats page)",
+          "url": "https://reddapi.dev/subreddits/consulting/insights",
+          "seen_via": "search"
+        },
+        {
+          "name": "r/consulting (stats page)",
           "url": "https://gummysearch.com/r/consulting/",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "seen_via": "search"
         },
         {
-          "name": "Wall Street Oasis, Private Equity recruiting section",
-          "url": "https://www.wallstreetoasis.com/forum/private-equity/recruiting",
-          "seen_via": "search (this run; reused from profession.json)"
+          "name": "Wall Street Oasis PE forum: moving from consulting to PE",
+          "url": "https://www.wallstreetoasis.com/forum/private-equity/moving-from-consulting-to-pe",
+          "seen_via": "search"
         },
         {
-          "name": "Private Equity Insider (LinkedIn community, 107,761 followers)",
-          "url": "https://www.linkedin.com/company/peinsider",
-          "seen_via": "search (this run; reused from profession.json)"
-        },
-        {
-          "name": "Wall Street Oasis consulting forum",
-          "url": "https://www.wallstreetoasis.com/forum/consulting/case-partner-match-discord-channel",
-          "seen_via": "search (this run; reused from profession.json)"
+          "name": "Wall Street Oasis PE forum: breaking into private equity from consulting",
+          "url": "https://www.wallstreetoasis.com/forum/private-equity/breaking-into-private-equity-from-consulting",
+          "seen_via": "search"
         }
       ],
       "who_pays": "The consultant pays personally for modelling courses, recruiting prep and admissions help; the firm sometimes pays for the MBA.",
       "size": {
-        "value": 341000,
+        "value": 382499,
         "unit": "members of r/consulting (a superset; those actively planning an exit are a slice)",
         "tag": "measured",
-        "url": "https://gummysearch.com/r/consulting/"
+        "url": "https://reddapi.dev/subreddits/consulting/insights"
       },
       "ladder": [
         {
@@ -598,9 +606,9 @@
         },
         {
           "step": 3,
-          "problem": "Mock interviews and case-study coaching before on-cycle launches",
-          "price_text": null,
-          "url": "https://mergersandinquisitions.com/on-cycle-private-equity-recruiting/",
+          "problem": "Mock interviews with a mentor before on-cycle launches",
+          "price_text": "$100-$400/hour",
+          "url": "https://www.wallstreetoasis.com/career-services/mentors",
           "seen_via": "search"
         },
         {
@@ -621,7 +629,7 @@
       "geography": ["GLOBAL"],
       "venture_overlap": [],
       "duplicate_of": null,
-      "reasoning": "Consultants are a tight identity community and the founder has warm reach through private equity and banking colleagues plus strong depth in valuation and deal work, which is precisely what consultants lack when they try to exit. It is the post-entry mirror of the profession room mbb-case-interview-candidates. Places and prices reused from earlier search results in this run.",
+      "reasoning": "Consultants are a tight identity community and the founder has warm reach through private equity and banking colleagues plus strong depth in valuation and deal work, which is precisely what consultants lack when they try to exit. It is the post-entry mirror of the profession room mbb-case-interview-candidates. Places, size and prices were re-grounded in fresh searches this task; a WSO thread put the PE course at roughly $400 (two analysts splitting it for about $200), but no listed price was seen, so that step has none.",
       "confidence": "moderate"
     },
     {
@@ -634,25 +642,25 @@
         {
           "name": "r/GRE (110k members; stats page)",
           "url": "https://gummysearch.com/r/GRE/",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "seen_via": "search"
         },
         {
           "name": "r/GRE (Reddit Charts stats page)",
           "url": "https://redditcharts.com/r/gre",
-          "seen_via": "search (this run; reused from transition.json)"
+          "seen_via": "search"
         },
         {
           "name": "GRE Prep Club forum",
           "url": "https://gre.myprepclub.com/forum/",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "seen_via": "search"
         },
         {
-          "name": "Collegedunia list of GRE forums",
-          "url": "https://s4.collegedunia.com/news/e-483-gre-forums-for-gre-preparation",
-          "seen_via": "search (this run; reused from transition.json)"
+          "name": "GRE Prep Club chat (daily question workouts)",
+          "url": "https://gre.myprepclub.com/forum/mchat.php",
+          "seen_via": "search"
         }
       ],
-      "who_pays": "The test-taker pays, usually with family money: the exam fee, prep products, and then application and visa costs.",
+      "who_pays": "The test-taker pays, usually with family money: prep subscriptions, the exam fee, and then application costs.",
       "size": {
         "value": 110000,
         "unit": "members of r/GRE worldwide",
@@ -662,44 +670,44 @@
       "ladder": [
         {
           "step": 1,
-          "problem": "GRE prep: a course or a self-study plan",
-          "price_text": "₹15,000–₹30,000",
-          "url": "https://www.wikatiedu.com/blog/ielts-gre-sat-2026-coaching-fees-exam-guide/",
+          "problem": "Cheap structured prep: a monthly subscription with live classes",
+          "price_text": "$11.99 per month",
+          "url": "https://www.gregmat.com/pricing",
           "seen_via": "search"
         },
         {
           "step": 2,
-          "problem": "GRE exam registration (plus reschedule and extra score reports)",
-          "price_text": "₹22,550",
-          "url": "https://eecglobal.com/blog/gre-fee-registration-india-2026",
+          "problem": "A fuller self-study course with practice tests",
+          "price_text": "$179",
+          "url": "https://gre.magoosh.com/plans",
           "seen_via": "search"
         },
         {
           "step": 3,
-          "problem": "Statement of purpose and application essay editing",
-          "price_text": "$100",
-          "url": "https://scholarmemory.gumroad.com/l/Editing",
+          "problem": "GRE exam registration",
+          "price_text": "$220",
+          "url": "https://magoosh.com/gre/gre-exam-fee-and-cost/",
           "seen_via": "search"
         },
         {
           "step": 4,
-          "problem": "Education loan for tuition and living costs",
-          "price_text": "10.25% per annum",
-          "url": "https://www.icici.bank.in/personal-banking/loans/education-loan/interest-rates",
+          "problem": "Reschedule when not ready",
+          "price_text": "$50",
+          "url": "https://magoosh.com/gre/gre-exam-fee-and-cost/",
           "seen_via": "search"
         },
         {
           "step": 5,
-          "problem": "After graduating: work permit application",
-          "price_text": "$470",
-          "url": "https://immiva.com/blog/i-765-opt-filing-fee-2026-complete-cost-breakdown",
+          "problem": "Applications after the score: essay workshops and admissions support",
+          "price_text": "$220",
+          "url": "https://gre.magoosh.com/plans",
           "seen_via": "search"
         }
       ],
       "geography": ["GLOBAL", "IN", "US"],
       "venture_overlap": ["v1"],
       "duplicate_of": null,
-      "reasoning": "This is the worldwide community around the founder's own GRE product (v1), reached by search and app stores rather than only by the Indian warm path, and GRE quant and verbal is a strong depth. It is a superset of the transition room gre-engineers-india and the life-stage room gre-final-year-engineers-india; the merge may fold it. Prices seen are Indian and US figures reused from earlier search results in this run; non-Indian prices were not seen.",
+      "reasoning": "This is the worldwide community around the founder's own GRE product (v1), reached by search and app stores rather than only by the Indian warm path, and GRE quant and verbal is a strong depth. It is a superset of the transition room gre-engineers-india and the life-stage room gre-final-year-engineers-india; the merge may fold it. Places, size and prices were re-grounded in fresh searches this task, and the prices are now US-dollar list prices that apply worldwide; the exam fee rises to $249 from August 2026 per the same page.",
       "confidence": "moderate"
     },
     {
@@ -707,84 +715,72 @@
       "name": "International students in the US on F-1 visas who gather in visa and OPT communities",
       "lens": "identity_community",
       "origin": "generated",
-      "who": "Students from any country studying in the US on an F-1 visa. Their shared identity is the visa: every decision about internships, jobs, travel and money runs through it. They gather on r/f1visa, Blind and OPT job boards from enrolment through the work-permit and H-1B years.",
+      "who": "Students from any country studying in the US on an F-1 visa. Their shared identity is the visa: every decision about internships, jobs, travel and money runs through it. They gather on r/f1visa and OPT job boards from enrolment through the work-permit and H-1B years.",
       "where": [
         {
           "name": "r/f1visa (93,038 members; stats page)",
           "url": "https://reddapi.dev/subreddits/f1visa/insights",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "seen_via": "search"
         },
         {
-          "name": "Blind: F1Visa topic",
-          "url": "https://www.teamblind.com/search/F1Visa",
-          "seen_via": "search (this run; reused from life_stage.json)"
-        },
-        {
-          "name": "OPTnation job board",
+          "name": "OPTnation job board (OPT, CPT and H-1B jobs)",
           "url": "https://www.optnation.com/",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "seen_via": "search"
         },
         {
-          "name": "University of Washington career page listing H-1B sponsor databases",
-          "url": "https://careers.uw.edu/resources/h1-b-sponsor-databases-target-employers-for-international-students/",
-          "seen_via": "search (this run; reused from transition.json)"
+          "name": "UnitedOPT job board",
+          "url": "https://www.unitedopt.com/",
+          "seen_via": "search"
         }
       ],
       "who_pays": "The student pays government fees and services out of family money or a loan; the employer pays the H-1B petition later.",
       "size": {
-        "value": 294253,
-        "unit": "international students on OPT in the US, 2024/25 (one slice of all F-1 students)",
+        "value": 93038,
+        "unit": "members of r/f1visa",
         "tag": "measured",
-        "url": "https://www.iie.org/news/open-doors-2025-press-release/"
+        "url": "https://reddapi.dev/subreddits/f1visa/insights"
       },
       "ladder": [
         {
           "step": 1,
           "problem": "SEVIS I-901 fee before the visa interview",
           "price_text": "$350",
-          "url": "https://www.ice.gov/sevis/i901",
+          "url": "https://www.ice.gov/sevis/i901/faq",
           "seen_via": "search"
         },
         {
           "step": 2,
-          "problem": "F-1 visa application and interview prep",
-          "price_text": "$185",
-          "url": "https://globalscholarsguide.com/usa-student-visa-2026-f1-interview-sevis-fee/",
-          "seen_via": "search"
-        },
-        {
-          "step": 3,
           "problem": "OPT work permit application (Form I-765)",
           "price_text": "$470",
           "url": "https://immiva.com/blog/i-765-opt-filing-fee-2026-complete-cost-breakdown",
           "seen_via": "search"
         },
         {
+          "step": 3,
+          "problem": "Premium processing when the job start date is close",
+          "price_text": "$1,780",
+          "url": "https://www.lighthousehq.com/blog/i-765-filing-fee",
+          "seen_via": "search"
+        },
+        {
           "step": 4,
-          "problem": "US resume, LinkedIn and a sponsor target list to find an employer that will file",
-          "price_text": "from $99",
-          "url": "https://profileelevate.com/for/international-students/",
+          "problem": "Find an employer that will file: OPT job boards",
+          "price_text": null,
+          "url": "https://www.optnation.com/job-search",
           "seen_via": "search"
         },
         {
           "step": 5,
           "problem": "H-1B registration through the employer",
           "price_text": "$215",
-          "url": "https://www.immi-usa.com/h1b-lottery-timeline-application-registration-fees/",
-          "seen_via": "search"
-        },
-        {
-          "step": 6,
-          "problem": "Fallback if not selected: a Day 1 CPT program",
-          "price_text": "$18,000 to over $50,000 per program",
-          "url": "https://cptdog.com/day-1-cpt-cost",
+          "url": "https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations/h-1b-electronic-registration-process",
           "seen_via": "search"
         }
       ],
       "geography": ["US", "GLOBAL"],
       "venture_overlap": ["v1"],
       "duplicate_of": null,
-      "reasoning": "A large community held together by one shared status, with a long, dated, priced ladder. Many are the founder's GRE users two years on (v1). The pains are immigration rules, which need a licensed lawyer for filings the founder cannot supply, so Stage 2 may fail it on supply; coaching and planning around the rules do not need a licence. Superset of the life-stage room opt-grads-us-job-hunt. Places and prices reused from earlier search results in this run.",
+      "reasoning": "A large community held together by one shared status, with a long, dated, priced ladder. Many are the founder's GRE users two years on (v1). The pains are immigration rules, which need a licensed lawyer for filings the founder cannot supply, so Stage 2 may fail it on supply; coaching and planning around the rules do not need a licence. Superset of the life-stage room opt-grads-us-job-hunt. Places, size and prices were re-grounded in fresh searches this task; only three places were seen, all on the job-hunt side.",
       "confidence": "moderate"
     },
     {
@@ -797,25 +793,25 @@
         {
           "name": "r/Btechtards (437,923 members; stats page)",
           "url": "https://reddapi.dev/subreddits/btechtards/insights",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "seen_via": "search"
+        },
+        {
+          "name": "r/Btechtards (stats page)",
+          "url": "https://gummysearch.com/r/Btechtards/",
+          "seen_via": "search"
         },
         {
           "name": "r/developersIndia (1,594,432 members; stats page)",
           "url": "https://reddapi.dev/subreddits/developersindia/insights",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "seen_via": "search"
         },
         {
-          "name": "PrepInsta Telegram channel",
-          "url": "https://t.me/s/prepinsta2022official",
-          "seen_via": "search (this run; reused from life_stage.json)"
-        },
-        {
-          "name": "Yocket community (admits and aspirants)",
-          "url": "https://yocket.com/connect",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "name": "PrepInsta Prime (placement prep platform)",
+          "url": "https://prepinsta.com/prime",
+          "seen_via": "search"
         }
       ],
-      "who_pays": "Parents pay for most of it: bootcamps, test prep, exam fees and loans.",
+      "who_pays": "Parents pay for most of it: bootcamps, coaching, test prep and exam fees.",
       "size": {
         "value": 437923,
         "unit": "members of r/Btechtards",
@@ -825,44 +821,44 @@
       "ladder": [
         {
           "step": 1,
-          "problem": "Coding and DSA interview prep bootcamp before placements",
-          "price_text": "₹2,75,000 plus GST",
-          "url": "https://logicmojo.com/affordable-scaler-academy-alternatives/",
+          "problem": "Aptitude and company-specific placement prep subscription",
+          "price_text": null,
+          "url": "https://prepinstaprime.com/purchase",
           "seen_via": "search"
         },
         {
           "step": 2,
-          "problem": "Aptitude and company-specific test prep",
-          "price_text": null,
-          "url": "https://prepinsta.com/prime/purchase",
+          "problem": "Coding and DSA bootcamp before placements",
+          "price_text": "₹3.99 lakh",
+          "url": "https://www.collegesimplified.in/post/is-scaler-worth-it-in-2026-complete-review-with-placements-fees",
           "seen_via": "search"
         },
         {
           "step": 3,
-          "problem": "GRE prep for a master's abroad",
-          "price_text": "₹15,000–₹30,000",
-          "url": "https://eecglobal.com/blog/gre-complete-guide-india-2026",
+          "problem": "GATE coaching for a PSU job or an Indian master's",
+          "price_text": "₹82,500 to ₹1,13,000",
+          "url": "https://www.madeeasy.in/fee-structure",
           "seen_via": "search"
         },
         {
           "step": 4,
-          "problem": "GRE exam registration",
-          "price_text": "₹22,550",
-          "url": "https://eecglobal.com/blog/gre-fee-registration-india-2026",
+          "problem": "GRE prep for a master's abroad",
+          "price_text": "$11.99 per month",
+          "url": "https://www.gregmat.com/pricing",
           "seen_via": "search"
         },
         {
           "step": 5,
-          "problem": "Education loan for tuition",
-          "price_text": "9.99% to 13%",
-          "url": "https://www.studentcover.in/mpower-education-loan-interest-rate/",
+          "problem": "GRE exam registration",
+          "price_text": "$220",
+          "url": "https://magoosh.com/gre/gre-exam-fee-and-cost/",
           "seen_via": "search"
         }
       ],
       "geography": ["IN"],
       "venture_overlap": ["v1"],
       "duplicate_of": null,
-      "reasoning": "The identity is the community itself (the subreddit's name is the badge) and it is the top of the founder's GRE funnel (v1) with a warm path through the GRE product. Younger years have no deadline yet, so urgency is lower than in the final-year room; this is a superset of the life-stage room final-year-btech-placements-india and the merge may fold it. Places and prices reused from earlier search results in this run.",
+      "reasoning": "The identity is the community itself (the subreddit's name is the badge) and it is the top of the founder's GRE funnel (v1) with a warm path through the GRE product. Younger years have no deadline yet, so urgency is lower than in the final-year room; this is a superset of the life-stage room final-year-btech-placements-india and the merge may fold it. Places, size and prices were re-grounded in fresh searches this task; the PrepInsta price was not shown in the search result.",
       "confidence": "moderate"
     },
     {
@@ -873,33 +869,38 @@
       "who": "People anywhere in the world working through the three CFA levels while holding a finance job. 'Candidate' is an identity they keep for two to four years. They gather on r/CFA, AnalystForum and 300Hours to compare prep providers, study plans and what the charter is worth.",
       "where": [
         {
-          "name": "r/CFA (216k members; stats page)",
+          "name": "r/CFA (222,249 members; stats page)",
+          "url": "https://reddapi.dev/subreddits/cfa/insights",
+          "seen_via": "search"
+        },
+        {
+          "name": "r/CFA (stats page)",
           "url": "https://gummysearch.com/r/CFA/",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "seen_via": "search"
         },
         {
           "name": "AnalystForum",
           "url": "https://www.analystforum.com/",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "seen_via": "search"
         },
         {
-          "name": "300Hours CFA Level 1 forum",
-          "url": "https://300hours.com/f/cfa/level-1/",
-          "seen_via": "search (this run; reused from profession.json)"
+          "name": "300Hours CFA forum",
+          "url": "https://300hours.com/forum/cfa/",
+          "seen_via": "search"
         }
       ],
       "who_pays": "The candidate pays registration and prep personally; some employers reimburse a pass.",
       "size": {
-        "value": 216000,
+        "value": 222249,
         "unit": "members of r/CFA",
         "tag": "measured",
-        "url": "https://gummysearch.com/r/CFA/"
+        "url": "https://reddapi.dev/subreddits/cfa/insights"
       },
       "ladder": [
         {
           "step": 1,
           "problem": "Level I registration",
-          "price_text": "US$1,140",
+          "price_text": "USD 1,140",
           "url": "https://finance.uworld.com/cfa/registration-cost-fees/",
           "seen_via": "search"
         },
@@ -912,30 +913,30 @@
         },
         {
           "step": 3,
-          "problem": "Structured prep for the next levels (a fuller package)",
-          "price_text": "$1,499",
-          "url": "https://www.schweser.com/cfa/level-1/study-packages",
+          "problem": "Levels II and III: the full exam bill over the candidacy",
+          "price_text": "$3520",
+          "url": "https://soleadea.org/cfa-exam-cost",
           "seen_via": "search"
         },
         {
           "step": 4,
-          "problem": "Turn the charter into a job move: build full three-statement and DCF models",
-          "price_text": "$499",
-          "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+          "problem": "Video prep for Level II from an independent instructor",
+          "price_text": null,
+          "url": "https://www.markmeldrum.com/product-category/level-2-packages/2026-level-2-packages/",
           "seen_via": "search"
         },
         {
           "step": 5,
-          "problem": "Prepare for buy-side interviews and stock pitches after 3-4 years",
-          "price_text": null,
-          "url": "https://www.wallstreetoasis.com/forum/equity-research/advice-for-equity-research-associates-part-i",
+          "problem": "Turn the charter into a job move: build full three-statement and DCF models",
+          "price_text": "$499",
+          "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
           "seen_via": "search"
         }
       ],
       "geography": ["GLOBAL", "IN"],
       "venture_overlap": [],
       "duplicate_of": null,
-      "reasoning": "A multi-year identity with fixed exam windows, a priced ladder and strong ledger depth in corporate finance and valuation; the founder's finance colleagues are a warm path. It is a superset of the life-stage room cfa-level1-early-career (Level I only); the merge may fold it. The Level II and III fees were not seen this run, so step 3 reuses a Level I package price. Places and prices reused from earlier search results in this run.",
+      "reasoning": "A multi-year identity with fixed exam windows, a priced ladder and strong ledger depth in corporate finance and valuation; the founder's finance colleagues are a warm path. It is a superset of the life-stage room cfa-level1-early-career (Level I only) and overlaps the profession room sell-side-equity-research-associates; the merge may fold it. Places, size and prices were re-grounded in fresh searches this task; the Level I standard-deadline fee seen was USD 1,490.",
       "confidence": "moderate"
     },
     {
@@ -948,17 +949,22 @@
         {
           "name": "r/smallbusiness (2.5M members; stats page)",
           "url": "https://gummysearch.com/r/smallbusiness/",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "seen_via": "search"
         },
         {
-          "name": "BizBuySell: retiring-owner listings and blog",
-          "url": "https://www.bizbuysell.com/retiring-owner-businesses-for-sale/",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "name": "r/smallbusiness on the Hive Index",
+          "url": "https://thehiveindex.com/communities/r-smallbusiness/",
+          "seen_via": "search"
         },
         {
-          "name": "r/startups (2.1M members; stats page)",
-          "url": "https://gummysearch.com/r/startups/",
-          "seen_via": "search (this run; reused from life_stage.json)"
+          "name": "r/Entrepreneur (5.3M members; stats page)",
+          "url": "https://gummysearch.com/r/Entrepreneur/",
+          "seen_via": "search"
+        },
+        {
+          "name": "r/smallbusiness (Subreddit Stats page)",
+          "url": "https://subredditstats.com/r/smallbusiness",
+          "seen_via": "search"
         }
       ],
       "who_pays": "The business pays, and the owner decides: software and AI tooling by the month, advisers and brokers at a sale.",
@@ -971,44 +977,191 @@
       "ladder": [
         {
           "step": 1,
-          "problem": "Answer every call and WhatsApp message without hiring: an AI voice or chat agent",
-          "price_text": "$0.05 per minute",
-          "url": "https://vapi.ai/pricing",
+          "problem": "Answer every call without hiring: an AI receptionist",
+          "price_text": "$99/mo",
+          "url": "https://www.myaifrontdesk.com/pricing",
           "seen_via": "search"
         },
         {
           "step": 2,
-          "problem": "Score and audit customer calls to fix what staff say",
-          "price_text": "from $35 per user per month",
-          "url": "https://www.guideflow.com/blog/contact-center-quality-assurance-software",
+          "problem": "Be found when customers ask AI assistants instead of searching",
+          "price_text": "$95 per month",
+          "url": "https://visible.seranking.com/blog/peec-ai-review/",
           "seen_via": "search"
         },
         {
           "step": 3,
-          "problem": "Be found when customers ask AI assistants instead of searching",
-          "price_text": "$99 a month",
-          "url": "https://www.tryprofound.com/pricing",
+          "problem": "Value the business before a sale or a partner buy-in",
+          "price_text": "$2,500 to $5,000",
+          "url": "https://www.bizworth.com/blog/valuation-costs-what-small-business-owners-should-expect-in-2026",
           "seen_via": "search"
         },
         {
           "step": 4,
-          "problem": "Value the business before a sale or a partner buy-in",
-          "price_text": "$3,000 to $10,000",
-          "url": "https://www.websiteclosers.com/resources/how-much-does-a-business-valuation-cost/",
-          "seen_via": "search"
-        },
-        {
-          "step": 5,
           "problem": "Sell the business: broker commission",
-          "price_text": "8% and 12%",
-          "url": "https://ctacquisitions.com/average-business-broker-commission/",
+          "price_text": "8% to 12%",
+          "url": "https://www.baton.com/resources/own/average-commission-for-business-broker",
           "seen_via": "search"
         }
       ],
       "geography": ["GLOBAL", "US", "IN"],
       "venture_overlap": ["v4"],
       "duplicate_of": null,
-      "reasoning": "The ledger's TinyAI warm path names restaurants, salons and other high-call-volume small businesses in India and the Gulf, and AI voice agents, call auditing and AI search visibility are strong depths; valuation is too. The community is real and huge, though broad: the merge may prefer the sharper business-type rooms and the life-stage room retiring-owners-selling-business for the last two rungs. Places and prices reused from earlier search results in this run.",
+      "reasoning": "The ledger's TinyAI warm path names restaurants, salons and other high-call-volume small businesses in India and the Gulf, and AI voice agents and AI search visibility are strong depths; valuation is too. The community is real and huge, though broad: the merge may prefer the sharper business-type rooms and the life-stage room retiring-owners-selling-business for the last two rungs. Places, size and prices were re-grounded in fresh searches this task.",
+      "confidence": "moderate"
+    },
+    {
+      "slug": "women-in-finance-professional-networks",
+      "name": "Women working in finance who gather in women-in-finance networks and circles",
+      "lens": "identity_community",
+      "origin": "generated",
+      "who": "Women in banking, asset management, private equity, corporate finance and accounting who join women-in-finance networks for mentoring, sponsorship and peer support. They talk about promotion, pay, being the only woman on a desk, and coming back after leave, and they pay for memberships, credentials and coaching.",
+      "where": [
+        {
+          "name": "100 Women in Finance: membership",
+          "url": "https://100women.org/membership/",
+          "seen_via": "search"
+        },
+        {
+          "name": "Women in Banking & Finance (UK): membership",
+          "url": "https://www.wibf.org.uk/membership/",
+          "seen_via": "search"
+        },
+        {
+          "name": "Women in Finance (WiF) Lean In Circle",
+          "url": "https://leanin.org/circles/women-in-finance-wif",
+          "seen_via": "search"
+        },
+        {
+          "name": "ICAEW Women in Finance Community",
+          "url": "https://www.icaew.com/groups-and-networks/communities/women-in-finance",
+          "seen_via": "search"
+        },
+        {
+          "name": "GFOA Women's Public Finance Network (with an online community forum)",
+          "url": "https://www.gfoa.org/wpfn",
+          "seen_via": "search"
+        }
+      ],
+      "who_pays": "The woman pays personally for memberships, credentials and coaching; employers sometimes sponsor a membership or a coach at promotion time.",
+      "size": {
+        "value": 10000,
+        "unit": "members of 100 Women in Finance (the largest named network; it also reports over 35,000 subscribers)",
+        "tag": "measured",
+        "url": "https://100women.org/"
+      },
+      "ladder": [
+        {
+          "step": 1,
+          "problem": "Join a global women-in-finance network",
+          "price_text": "USD $150",
+          "url": "https://100women.org/membership/",
+          "seen_via": "search"
+        },
+        {
+          "step": 2,
+          "problem": "Join a regional network with in-person events",
+          "price_text": "$440 incl GST",
+          "url": "https://wibf.org.au/individual-membership/",
+          "seen_via": "search"
+        },
+        {
+          "step": 3,
+          "problem": "Earn a credential for the next step: CFA Level I",
+          "price_text": "USD 1,140",
+          "url": "https://finance.uworld.com/cfa/registration-cost-fees/",
+          "seen_via": "search"
+        },
+        {
+          "step": 4,
+          "problem": "Coaching for a promotion or a pay negotiation",
+          "price_text": "$300–$1,000 per session",
+          "url": "https://simply.coach/blog/guide-to-executive-coaching-pricing/",
+          "seen_via": "search"
+        }
+      ],
+      "geography": ["GLOBAL"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "A real identity room with named gathering places, paid memberships and a clear paid ladder; the founder's warm path is finance colleagues and the depth is corporate finance. The open question for later stages is credibility: whether this room would accept a male banker as the person supplying accountability or peer walls, which is why confidence is low even though the grounding is solid. The 10,000-member figure is attributed to the 100 Women in Finance homepage as it appeared in the search result. [thin]",
+      "confidence": "low"
+    },
+    {
+      "slug": "self-directed-value-investors-community",
+      "name": "Self-directed value investors who research stocks themselves and gather in value-investing communities",
+      "lens": "identity_community",
+      "origin": "generated",
+      "who": "People who pick individual stocks by reading filings and building their own valuations, identify as value investors, and gather on r/ValueInvesting, r/SecurityAnalysis and idea clubs. They pay monthly for data terminals, research subscriptions and idea communities, and many want to learn valuation the way bankers do it.",
+      "where": [
+        {
+          "name": "r/ValueInvesting (804k members; stats page)",
+          "url": "https://gummysearch.com/r/ValueInvesting/",
+          "seen_via": "search"
+        },
+        {
+          "name": "r/ValueInvesting (RedditList stats page, 778,761 members)",
+          "url": "https://redditli.st/subreddit/ValueInvesting",
+          "seen_via": "search"
+        },
+        {
+          "name": "r/SecurityAnalysis (roughly 214K members; Hive Index page)",
+          "url": "https://thehiveindex.com/communities/r-security-analysis/",
+          "seen_via": "search"
+        },
+        {
+          "name": "Value Investors Club (application-only idea club)",
+          "url": "https://www.valueinvestorsclub.com/",
+          "seen_via": "search"
+        }
+      ],
+      "who_pays": "The investor pays personally, monthly or yearly, from the same pocket as the portfolio.",
+      "size": {
+        "value": 804000,
+        "unit": "members of r/ValueInvesting",
+        "tag": "measured",
+        "url": "https://gummysearch.com/r/ValueInvesting/"
+      },
+      "ladder": [
+        {
+          "step": 1,
+          "problem": "Company financials and estimates in one place: a data terminal",
+          "price_text": "$24.95 per month",
+          "url": "https://www.tikr.com/pricing",
+          "seen_via": "search"
+        },
+        {
+          "step": 2,
+          "problem": "Research, ratings and screens from a subscription service",
+          "price_text": "$299/year",
+          "url": "https://financer.com/invest/seeking-alpha-premium-review/",
+          "seen_via": "search"
+        },
+        {
+          "step": 3,
+          "problem": "Charting and screening upgrade as the portfolio grows",
+          "price_text": "$39 per month",
+          "url": "https://www.koyfin.com/pricing/",
+          "seen_via": "search"
+        },
+        {
+          "step": 4,
+          "problem": "Pay for a private idea community",
+          "price_text": "$29.99 a month",
+          "url": "https://astrixinvestorsclub.gumroad.com/l/nwbol",
+          "seen_via": "search"
+        },
+        {
+          "step": 5,
+          "problem": "Learn valuation properly: DCF, comps and full three-statement models",
+          "price_text": "$499",
+          "url": "https://www.wallstreetprep.com/self-study-programs/premium-package/",
+          "seen_via": "search"
+        }
+      ],
+      "geography": ["GLOBAL"],
+      "venture_overlap": [],
+      "duplicate_of": null,
+      "reasoning": "Valuation is a strong ledger depth and this room already buys tools and research through search, which is the ledger's search reach. Anything that looks like personal investment advice needs a licence the founder does not hold and is excluded; valuation education and tooling do not. It is a different identity from the profession room active-retail-options-traders (patient stock-pickers rather than traders) and from the Indian F&O community above.",
       "confidence": "moderate"
     }
   ]
