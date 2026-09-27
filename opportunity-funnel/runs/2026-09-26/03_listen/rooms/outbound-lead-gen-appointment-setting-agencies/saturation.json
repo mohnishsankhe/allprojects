@@ -1,0 +1,35 @@
+{
+  "final": false,
+  "room": "outbound-lead-gen-appointment-setting-agencies",
+  "rounds": [
+    {
+      "evaluable": false,
+      "new_pains": [],
+      "new_records": 984,
+      "note": "not evaluable: round 1 builds the pain list; saturation is tested on the records of round 2 and later",
+      "rank_changes": [],
+      "records": 984,
+      "round": 1,
+      "saturated": false,
+      "taxonomy_keys": [
+        "ai-calls-consent-rules",
+        "ai-replacing-agencies",
+        "ai-setter-not-working",
+        "booked-meetings-no-show",
+        "clients-churn-over-results",
+        "contact-data-costly-and-wrong",
+        "dialer-cost-and-choice",
+        "dnc-tcpa-fines-lawsuits",
+        "hiring-and-keeping-setters",
+        "numbers-flagged-spam",
+        "pay-per-appointment-risk",
+        "setter-calls-dont-book",
+        "winning-agency-clients"
+      ],
+      "window": 300,
+      "window_used": 984
+    }
+  ],
+  "stop_reason": null,
+  "window": 300
+}

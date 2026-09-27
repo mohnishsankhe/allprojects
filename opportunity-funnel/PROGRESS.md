@@ -61,7 +61,7 @@ Stage 3 per room:
 | Room | Rounds | Records | Labeled | Saturation | Draft | Quote check |
 |---|---|---|---|---|---|---|
 | active-retail-options-traders | 1 | 1150 | 1086 | round 1: 1086 records, not saturated | no | not checked |
-| bpo-contact-centre-operators-india-philippines | 1 | 1283 | 1243 | round 1: 1243 records, not saturated | no | not checked |
+| bpo-contact-centre-operators-india-philippines | 2 | 2188 | 1243 | round 1: 1243 records, not saturated | no | not checked |
 | business-brokers-ma-boutiques | 2 | 1005 | 979 | round 2: 979 records, not saturated | no | not checked |
 | cfa-candidates-community | 2 | 927 | 878 | round 2: 878 records, not saturated | no | not checked |
 | d2c-brands-scaling-past-launch | 1 | 1032 | 988 | round 1: 988 records, not saturated | no | not checked |
@@ -70,9 +70,9 @@ Stage 3 per room:
 | gre-preppers-worldwide-online | 2 | 1951 | 942 | round 2: 942 records, not saturated | no | not checked |
 | indie-perfumers-launching-brands | 2 | 1794 | 845 | round 1: 845 records, not saturated | no | not checked |
 | lender-insurer-telesales-floors-india | 2 | 1721 | 835 | round 1: 835 records, not saturated | no | not checked |
-| outbound-lead-gen-appointment-setting-agencies | 1 | 1022 | 984 | not evaluated | no | not checked |
+| outbound-lead-gen-appointment-setting-agencies | 1 | 1022 | 984 | round 1: 984 records, not saturated | no | not checked |
 | salon-spa-owners-india-global | 1 | 1380 | 1340 | round 1: 1340 records, not saturated | no | not checked |
-| small-business-owners-reddit-community | 1 | 926 | 896 | round 1: 896 records, not saturated | no | not checked |
+| small-business-owners-reddit-community | 2 | 2219 | 896 | round 1: 896 records, not saturated | no | not checked |
 | small-industrial-property-investors | 2 | 1784 | 948 | round 1: 948 records, not saturated | no | not checked |
 | startup-founders-409a-83b-deadlines | 1 | 870 | 813 | round 1: 813 records, not saturated | no | not checked |
 
