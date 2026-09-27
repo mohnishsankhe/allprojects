@@ -1076,8 +1076,8 @@ def render_entry(e: dict, fx: dict, first_cohort: int) -> list:
     lines.append(f"| guarantee_exposure | {first_cohort} x refund per customer | {_money(e['guarantee_exposure'], cur, fx)}"
                  + (f" = {hv['currency']} {e['guarantee_exposure_ledger']:,.2f}" if cur != hv["currency"] else "")
                  + f" | {e['tags']['guarantee_exposure']} |")
-    lines.append(f"| anchor_ratio | base price / anchor, both in USD | "
-                 f"{'not computable' if e['anchor_ratio'] is None else f'{e['anchor_ratio']:.2f}'} | {e['tags']['anchor_ratio']} |")
+    ratio_text = "not computable" if e["anchor_ratio"] is None else f"{e['anchor_ratio']:.2f}"
+    lines.append(f"| anchor_ratio | base price / anchor, both in USD | {ratio_text} | {e['tags']['anchor_ratio']} |")
     lines += ["", "### Checks (base case)", "", "| Check | Result | Why |", "|---|---|---|"]
     for name in CHECKS:
         ch = e["checks"][name]
@@ -1092,8 +1092,9 @@ def render_entry(e: dict, fx: dict, first_cohort: int) -> list:
     if e["failed_checks"]:
         reading += " Killed: " + ", ".join(e["failed_checks"]) + " failed."
     elif e["status"] == "cut":
-        reading += f" Passed every check but ranked {e['rank']}; only the top {first_cohort and ''}{e.get('_max', '')}".rstrip() + " survivors are kept."
-        reading = reading.replace("only the top  survivors", "only the top survivors")
+        top = e.get("_max")
+        reading += (f" Passed every check but ranked {e['rank']}; only the top {top} survivors are kept." if top
+                    else f" Passed every check but ranked {e['rank']}; only the top survivors are kept.")
     else:
         reading += " Passed every check."
     lines += ["", "### Reading", "", reading]

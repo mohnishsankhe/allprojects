@@ -30,7 +30,8 @@ Public API
     undated_share(record_ids, stored) -> (percent, undated, total)
     rank_key(pain, rank_by, urgency_order) -> tuple
     saturation_verdict(run, room) -> dict
-    needs_calls_of(run, room) -> (value | None, reasoning, notes)
+    needs_calls_of(run, room) -> (value | None, reasoning, notes, errors)
+    dead_pains_from_other_runs(run) -> dict[item -> graveyard entry]
     pains(run) -> dict                  the pains.json content (files and graveyard written)
     render_md(result, run) -> str
     register(subparsers)                adds `pains`
@@ -322,19 +323,38 @@ def saturation_verdict(run, room: str) -> dict:
 
 
 def needs_calls_of(run, room: str) -> tuple:
-    """(value or None, reasoning, notes). A missing sources.json gives None and a note."""
+    """(value or None, reasoning, notes, errors). A missing sources.json gives None and a note."""
     p = common.room_dir(run, room) / "sources.json"
     if not p.exists():
-        return None, "", [f"room {room}: no sources.json, so needs_calls is unknown (the listener writes it in mode synthesize)."]
-    data = common.read_json(p)
+        return None, "", [f"room {room}: no sources.json, so needs_calls is unknown (the listener writes it in mode synthesize)."], []
+    try:
+        data = common.read_json(p)
+    except ValueError as e:  # json.JSONDecodeError is a ValueError
+        return None, "", [], [f"{common.rel(p)}: not valid JSON ({e}). Fix the file."]
     nc = data.get("needs_calls") if isinstance(data, dict) else None
     if not isinstance(nc, dict) or not isinstance(nc.get("value"), bool):
-        raise common.ValidationErrors([f"{common.rel(p)}: needs_calls must be an object like "
-                                       f"{{\"value\": false, \"reasoning\": \"...\", \"confidence\": \"moderate\"}}."])
+        return None, "", [], [f"{common.rel(p)}: needs_calls must be an object like "
+                              f"{{\"value\": false, \"reasoning\": \"...\", \"confidence\": \"moderate\"}}."]
     errors = common.check_judgment(nc, f"{common.rel(p)}: needs_calls")
     if errors:
-        raise common.ValidationErrors(errors)
-    return bool(nc["value"]), str(nc.get("reasoning") or ""), []
+        return None, "", [], errors
+    return bool(nc["value"]), str(nc.get("reasoning") or ""), [], []
+
+
+def dead_pains_from_other_runs(run) -> dict:
+    """pain item -> its graveyard entry, for pains still dead in graveyard.md.
+
+    Lines dated on this run's own date are ignored: they are this run's own kills
+    (this stage on an earlier rerun, or a later stage), and rerunning `pains`
+    must give the same answer whatever ran after it.
+    """
+    dead = common.dead_items("pain")
+    run_day = common.run_date(run).isoformat()
+    out: dict = {}
+    for e in common.parse_graveyard():
+        if e["item"] in dead and e["date"] != run_day and e["item"] not in out:
+            out[e["item"]] = e
+    return out
 
 
 # --------------------------------------------------------------------------- the stage
@@ -371,11 +391,7 @@ def pains(run) -> dict:
     if not rooms:
         raise common.MissingInput(f"No pains_draft.json in any room under {common.rel(common.listen_dir(run) / 'rooms')}/. "
                                   f"The listeners write it in mode synthesize.")
-    dead = common.dead_items("pain")
-    grave_by_item: dict = {}
-    for e in common.parse_graveyard():
-        if e["item"] in dead:
-            grave_by_item.setdefault(e["item"], e)
+    grave_by_item = dead_pains_from_other_runs(run)
 
     errors: list = []
     review_notes: list = []
@@ -471,8 +487,8 @@ def pains(run) -> dict:
             }
             # drop rules, in order
             item_name = f"pain:{pid}"
-            if item_name in dead:
-                g = grave_by_item.get(item_name) or {}
+            if item_name in grave_by_item:
+                g = grave_by_item[item_name]
                 entry["status"] = "dropped"
                 entry["drop_reason"] = (f"dead in graveyard.md since {g.get('date', '?')} ({g.get('stage', '?')}): "
                                         f"{g.get('reason', 'no reason recorded')}. Revive it with a new-evidence line first.")
@@ -488,8 +504,9 @@ def pains(run) -> dict:
                                         f"(money 0, failed spend 0, urgency none, member records {record_count})")
             room_pains.append(entry)
         all_pains.extend(room_pains)
-        nc_value, nc_reasoning, nc_notes = needs_calls_of(run, room)
+        nc_value, nc_reasoning, nc_notes, nc_errors = needs_calls_of(run, room)
         info_notes.extend(nc_notes)
+        errors.extend(nc_errors)
         sat = saturation_verdict(run, room)
         totals = counts.get("totals") or {}
         room_info[room] = {
