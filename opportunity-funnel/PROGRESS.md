@@ -16,12 +16,12 @@ Claude Opus 5.5 (`claude-opus-5-5`) at max effort for everything: this session, 
 
 ## In progress
 - Stage 3 — listening to saturation on Opus 5.5 at max effort, script `pipeline/workflows/stage3-listen.js`. Per room and round: plan → search runners (50 queries each, 10 in parallel per message) → `label-prep` (harvest-search, batches, taxonomy, `funnel label-todo`) → one `label-batch` labeler per new batch and one `label-pack` re-checker per pack of earlier member records (when pains were added), in parallel → `label-finish` (apply-patches, count, saturation). Stops when saturated (from round 2, ≥500 records, no labeler-suggested pains), exhausted (a round after round 1 adds <50 new records) or at 8 rounds; then synthesize; then `pipeline/checkpoint.sh`. `args` = `{rooms, r1}`; `r1` (all 15 rooms) = round 1 already planned and searched, so those rooms start at `label-prep`. Build `r1` from each room's `queries.jsonl` (round-1 query count and distinct `kind` values).
-- History: ~09:55 UTC weekly limit; ~10:05 per-batch labeling; ~12:22 member re-check packs; ~13:30 session limit, 14:55 relaunch; ~18:10-19:00 session limit (reset 19:50) and a container restart; 21:20 relaunched. Finished: dubai-real-estate-brokerages-telesales (exhausted, 4 pains, 17 quotes pass, needs calls) and lender-insurer-telesales-floors-india (exhausted, 0 member records, 0 pains, needs calls). Relaunch args (`searched`): round 3 for 10 rooms, round 2 for outbound, round 4 for cfa and gre-preppers; business-brokers (r3), cfa (r4) and gre-preppers (r4) first search their unsearched queries from `cache/tmp/pending/<slug>-r<N>.json` (`pending_file`/`pending_count`); `suggested` carries the labelers' suggested pains from the interrupted run. Current workflows:
-  - `wf_bc8f2a29-2dc`: small-industrial-property-investors, gre-engineers-india, active-retail-options-traders
-  - `wf_1351770b-370`: small-business-owners-reddit-community, bpo-contact-centre-operators-india-philippines, outbound-lead-gen-appointment-setting-agencies
-  - `wf_5acd00ae-041`: business-brokers-ma-boutiques, indie-perfumers-launching-brands, startup-founders-409a-83b-deadlines
-  - `wf_540eaed3-1bd`: cfa-candidates-community, d2c-brands-scaling-past-launch
-  - `wf_73140603-948`: gre-preppers-worldwide-online, salon-spa-owners-india-global
+- History: ~09:55 UTC weekly limit; ~10:05 per-batch labeling; ~12:22 member re-check packs; ~13:30 session limit, 14:55 relaunch; ~18:10-19:00 session limit (reset 19:50) and a container restart; 21:20 relaunched. Finished: dubai-real-estate-brokerages-telesales (exhausted, 4 pains, 17 quotes pass, needs calls) and lender-insurer-telesales-floors-india (exhausted, 0 member records, 0 pains, needs calls). Relaunch args (`searched`): round 3 for 10 rooms, round 2 for outbound, round 4 for cfa and gre-preppers; business-brokers (r3), cfa (r4) and gre-preppers (r4) first search their unsearched queries from `cache/tmp/pending/<slug>-r<N>.json` (`pending_file`/`pending_count`); `suggested` carries the labelers' suggested pains from the interrupted run. Current workflows (the 21:15 set died in a worker restart about a minute after launch; relaunched 22:20 UTC with the same args, pending counts now 119, 94 and 114):
+  - `wf_28c24598-78b`: small-industrial-property-investors, gre-engineers-india, active-retail-options-traders
+  - `wf_8a767beb-90f`: small-business-owners-reddit-community, bpo-contact-centre-operators-india-philippines, outbound-lead-gen-appointment-setting-agencies
+  - `wf_a4970fb4-db3`: business-brokers-ma-boutiques, indie-perfumers-launching-brands, startup-founders-409a-83b-deadlines
+  - `wf_c7dca3bc-ca2`: cfa-candidates-community, d2c-brands-scaling-past-launch
+  - `wf_70225f29-551`: gre-preppers-worldwide-online, salon-spa-owners-india-global
 - Resume after an interruption: launch the same script with `args` = `{rooms, searched}`, where `searched[slug]` = `{round, queries, kinds, pending_file, pending_count, suggested}` for the last round whose queries were all planned and searched (check with `funnel harvest-search --room <slug>`: every query matched). That room starts at that round's `label-prep`; `label-todo` finds finished labels, so nothing done is redone. A room whose last round was only partly searched starts one round earlier (its planner returns the round's existing queries and the runners search them). A room may stop as saturated only from round 2, with no unmatched queries and no labeler-suggested pains. A failed step leaves the room at `error` without synthesis. Never resume the pre-switch workflows (`wf_4757764b-c75`, `wf_460fc963-f08`, `wf_79dc2b15-1cc`, `wf_32011f32-94e`, `wf_f82b6e84-e08`).
 - A room is finished when `runs/2026-09-26/03_listen/rooms/<slug>/pains_draft.json` and `sources.json` exist and `funnel quote-check --room <slug>` passes; the auto-status block below shows it.
 
@@ -62,12 +62,12 @@ Stage 3 per room:
 |---|---|---|---|---|---|---|
 | active-retail-options-traders | 3 | 3526 | 2536 | round 2: 2216 records, not saturated | no | not checked |
 | bpo-contact-centre-operators-india-philippines | 3 | 3272 | 2130 | round 2: 2130 records, not saturated | no | not checked |
-| business-brokers-ma-boutiques | 2 | 1646 | 1603 | round 2: 1603 records, not saturated | no | not checked |
-| cfa-candidates-community | 3 | 2542 | 2468 | round 3: 2468 records, not saturated | no | not checked |
+| business-brokers-ma-boutiques | 3 | 1653 | 1603 | round 2: 1603 records, not saturated | no | not checked |
+| cfa-candidates-community | 4 | 2816 | 2468 | round 3: 2468 records, not saturated | no | not checked |
 | d2c-brands-scaling-past-launch | 3 | 2709 | 1987 | round 2: 1827 records, not saturated | no | not checked |
 | dubai-real-estate-brokerages-telesales | 2 | 1516 | 1472 | round 2: 1472 records, not saturated, stopped: exhausted | yes | 17 pass / 0 fail (self-check) |
 | gre-engineers-india | 3 | 2678 | 1726 | round 2: 1726 records, not saturated | no | not checked |
-| gre-preppers-worldwide-online | 4 | 3015 | 2921 | round 3: 2921 records, not saturated | no | not checked |
+| gre-preppers-worldwide-online | 4 | 3300 | 2921 | round 3: 2921 records, not saturated | no | not checked |
 | indie-perfumers-launching-brands | 3 | 2740 | 2638 | round 2: 1728 records, not saturated | no | not checked |
 | lender-insurer-telesales-floors-india | 2 | 1721 | 1684 | round 2: 1684 records, not saturated, stopped: exhausted | yes | 0 pass / 0 fail (self-check) |
 | outbound-lead-gen-appointment-setting-agencies | 2 | 2090 | 2034 | round 1: 984 records, not saturated | no | not checked |
