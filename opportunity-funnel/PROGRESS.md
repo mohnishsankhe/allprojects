@@ -65,8 +65,8 @@ Stage 3 per room:
 | business-brokers-ma-boutiques | 2 | 1005 | 979 | round 2: 979 records, not saturated | no | not checked |
 | cfa-candidates-community | 2 | 1814 | 965 | round 2: 878 records, not saturated | no | not checked |
 | d2c-brands-scaling-past-launch | 2 | 1884 | 988 | round 1: 988 records, not saturated | no | not checked |
-| dubai-real-estate-brokerages-telesales | 2 | 1516 | 962 | round 1: 882 records, not saturated | no | not checked |
-| gre-engineers-india | 2 | 1762 | 1461 | round 1: 900 records, not saturated | no | not checked |
+| dubai-real-estate-brokerages-telesales | 2 | 1516 | 1122 | round 1: 882 records, not saturated | no | not checked |
+| gre-engineers-india | 2 | 1762 | 1541 | round 1: 900 records, not saturated | no | not checked |
 | gre-preppers-worldwide-online | 2 | 1951 | 1896 | round 2: 1896 records, not saturated | no | not checked |
 | indie-perfumers-launching-brands | 2 | 1794 | 1728 | round 2: 1728 records, not saturated | no | not checked |
 | lender-insurer-telesales-floors-india | 2 | 1721 | 1684 | round 2: 1684 records, not saturated | no | not checked |
@@ -74,7 +74,7 @@ Stage 3 per room:
 | salon-spa-owners-india-global | 2 | 2302 | 1340 | round 1: 1340 records, not saturated | no | not checked |
 | small-business-owners-reddit-community | 2 | 2219 | 2016 | round 1: 896 records, not saturated | no | not checked |
 | small-industrial-property-investors | 2 | 1784 | 1108 | round 1: 948 records, not saturated | no | not checked |
-| startup-founders-409a-83b-deadlines | 2 | 1720 | 973 | round 1: 813 records, not saturated | no | not checked |
+| startup-founders-409a-83b-deadlines | 2 | 1720 | 1053 | round 1: 813 records, not saturated | no | not checked |
 
 Rooms kept: 15. Pains kept: 0. Stage 6 kept: 0. Survivors (final): 0.
 <!-- /auto:status -->
