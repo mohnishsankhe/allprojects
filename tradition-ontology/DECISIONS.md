@@ -36,3 +36,9 @@ Conservative choices made without asking, with reasons. Newest last.
 ## 2026-09-28 08:44 IST — new sub-lineage lin:bhakti-sastra (U25)
 - U25 created `lin:bhakti-sastra` for the Nārada and Śāṇḍilya Bhakti Sūtras (the texts name a "bhakti-śāstra", NBS 76, and "bhaktyācāryas", NBS 83) plus Vopadeva's Muktāphala and Viṣṇupurī's Bhaktiratnāvalī. Parent `lin:bhagavata-early` on the tradition's account (Nārada and Śāṇḍilya as Bhāgavata/Pāñcarātra sages), not as a claim of historical continuity; this keeps convergence counts from treating the sūtras as an independent root. Accepted (conservative: it adds no independent root).
 - U25 also split Bhakti "hearing" (`prc:sravana-bhakti`) from Vedāntic hearing (`prc:sravana`), linked as analogous; and disambiguated `src:tiruppallantu-periyalvar` from U18's Śaiva `src:tiruppallantu`.
+
+## 2026-09-28 08:48 IST — U27 lineage choices
+- `lin:baul` is marked family "shared" (Vaiṣṇava-Sahajiyā, Nāth and — on a scholarly hypothesis — Buddhist Sahajiyā streams, plus Muslim Fakirs); all other Sant lineages "vedic" with a note that the Sants reject Veda and Qur'ān alike. Accepted: "shared" is the conservative label for a lineage the traditions themselves describe as crossing Hindu and Muslim lines.
+- New named sub-lineages accepted (all recognized divisions): kabir-chaura, dharamdasi-kabir-panth, niranjani, ramsnehi, charandasi, satnami, garibdasi, radhasoami-agra, radha-soami-satsang-beas, ruhani-satsang, santmat-maharshi-mehi, balarami, sahebdhani. `lin:satnami` covers three distinct movements (Narnaul, Jagjīvandās, Ghāsīdās) and is flagged for splitting in Wave 2.
+- Sikh scripture (src:adi-granth) is recorded as context only (out of scope), as are Sufi orders.
+- Deliberately not recorded: the Sant Mat five names and the Kartābhajā mantra (initiatory secrets).
