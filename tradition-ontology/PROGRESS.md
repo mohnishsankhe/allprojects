@@ -38,7 +38,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U23-sakta-srividya | done | 4 lin · 63 src · 47 tch · 157 tea (127 high) · 136 trm · 74 cpt · 34 prc · 6 dsp | report saved; tch:laksmidhara homonym remapped |
 | U24-kali-kaula | done | 4 lin · 54 src · 20 tch · 116 tea (82 verse-checked) · 120 trm · 81 cpt · 27 prc (10 restricted) · 6 dsp | report saved |
 | U25-alvar-bhakti-theory | done | 2 lin (new lin:bhakti-sastra) · 41 src · 28 tch (12 Āḻvārs) · 149 tea · 98 trm · 40 cpt · 26 prc · 4 dsp | report saved |
-| U26-regional-bhakti | running | | |
+| U26-regional-bhakti | done | 14 lin · 102 src · 109 tch · 182 tea (61 originals) · 93 trm · 69 cpt · 34 prc · 9 dsp | report saved |
 | U27-sant-baul | done | 21 lin · 63 src · 94 tch (49 recent) · 166 tea · 122 trm · 67 cpt · 32 prc (5 restricted) · 7 dsp | report saved |
 | U28-hatha-texts | done | 31 src · 35 tch · 288 tea (96 HYP with originals) · 122 trm · 65 cpt · 12 prc · 27 phn · 3 dsp | report saved |
 | U29-hatha-practices | running | | |
@@ -50,7 +50,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U35-jain-philosophy | running | | |
 | U36-pali-suttas | running | | |
 | U37-abhidhamma-visuddhimagga | running | | |
-| U38-early-schools | queued | | |
+| U38-early-schools | running | | |
 | U39-mahayana-sutras | queued | | |
 | U40-madhyamaka | queued | | |
 | U41-yogacara-pramana | queued | | |

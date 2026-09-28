@@ -42,3 +42,8 @@ Conservative choices made without asking, with reasons. Newest last.
 - New named sub-lineages accepted (all recognized divisions): kabir-chaura, dharamdasi-kabir-panth, niranjani, ramsnehi, charandasi, satnami, garibdasi, radhasoami-agra, radha-soami-satsang-beas, ruhani-satsang, santmat-maharshi-mehi, balarami, sahebdhani. `lin:satnami` covers three distinct movements (Narnaul, Jagjīvandās, Ghāsīdās) and is flagged for splitting in Wave 2.
 - Sikh scripture (src:adi-granth) is recorded as context only (out of scope), as are Sufi orders.
 - Deliberately not recorded: the Sant Mat five names and the Kartābhajā mantra (initiatory secrets).
+
+## 2026-09-28 08:51 IST — U26 lineages; classificatory groupings excluded from convergence
+- U26 created `lin:mirabai` (no formal sampradāya — the entry says so), `lin:ramdasi` (Samartha sampradāya), `lin:rasik-ramanandi`, the four Ekaśaraṇa saṃhatis, and `lin:regional-bhakti-poets` — a classificatory grouping (Narsinh Mehta, Annamācārya, Tyāgarāja, Caṇḍīdās, Vidyāpati, Bhadrācala Rāmadās), not a tradition. Accepted.
+- Conservative choice: `lin:regional-bhakti-poets` and U05's descriptive `lin:epic-teaching` are added to the UMBRELLAS set in scripts/merge.py, so they never count as independent roots in convergence counts (a practice attested only by poets in that grouping counts as 0 roots from it).
+- U26 kept `tch:sena` as one entry (Marathi and Hindi Sena), with the identity dispute noted; and used `trm:hita-radhavallabha` because `trm:hita` already names the Upaniṣadic hitā channels.
