@@ -92,7 +92,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 |---|---|---|---|---|---|---|
 | bhagavad-gita | ch01-03 | done (165) | done (165) | done (165 tea, 554 disagreements; skeleton 72 up · 1 corr · 0 ret) | running | |
 | bhagavad-gita | ch04-06 | done (123) | done (125) | running | | |
-| bhagavad-gita | ch07-09 | running | | | | |
+| bhagavad-gita | ch07-09 | done (95) | running | | | |
 | bhagavad-gita | ch10-12 | | | | | |
 | bhagavad-gita | ch13-15 | | | | | |
 | bhagavad-gita | ch16-18 | | | | | |
