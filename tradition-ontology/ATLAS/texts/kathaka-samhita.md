@@ -1,6 +1,6 @@
 # Kāṭhaka Saṃhitā
 
-`src:kathaka-samhita` · `skeleton` · confidence high
+`src:kathaka-samhita` · `sourced` · confidence high
 
 **Original title:** काठकसंहिता
 **Language:** Sanskrit
@@ -18,4 +18,8 @@ The Black Yajurveda Saṃhitā of the Kaṭha school: mantras and brāhmaṇa pr
 _Notes: Structure count from memory (moderate-low)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Kāṭhakasaṃhitā, https://vedicheritage.gov.in/samhitas/yajurveda/krishna-yajurveda/caraka-kathaka-samhita/, https://www.hindu-blog.com/2021/09/kathaka-samhita-of-yajur-veda.html — Extant; 'divided into five books (granthas), the first three subdivided into forty chapters (sthānakas)' — the entry's '40 sthānakas plus appended sections' is confirmed. Kaṭha as pupil of Vaiśampāyana confirmed via Pāṇini 4.3.104 (see tch:katha).
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

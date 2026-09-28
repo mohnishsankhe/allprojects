@@ -1,5 +1,40 @@
 [
  {
+  "id": "brw:adhyatma-ramayana-to-manas",
+  "from": "lin:puranic",
+  "to": "lin:ramanandi",
+  "what": "Non-dual Rāma theology, the Śiva–Pārvatī frame and Śabarī's nine devotions (reworked) from the Adhyātma Rāmāyaṇa",
+  "direction": "from→to",
+  "era": "16th c.",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Śabarī episode and frame dialogue",
+    "refs": [
+     "tea:ramcaritmanas:3.35-36"
+    ]
+   }
+  ],
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:adhyatma-ramayana-to-ramcaritmanas",
   "from": "lin:puranic",
   "to": "lin:ramanandi",
@@ -66,6 +101,43 @@
   "provenance": {
    "units": [
     "skeleton:U13-advaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:advaita-tamil-siddha",
+  "from": "lin:advaita-vedanta",
+  "to": "lin:tamil-siddha",
+  "what": "Vedāntic non-dual language ('I am He', 'pure Vedānta', the Supreme as light and bliss) joined to Śaiva devotion (Tāyumāṉavar's camaracam)",
+  "direction": "from→to",
+  "era": "c. 15th–18th c.",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "cutta vētāntam; nāṉ avaṉ; camaracam",
+    "refs": [
+     "tea:kaduveli-ananda-kalippu:10",
+     "tea:bhadragiriyar-meynana-pulampal:219",
+     "tea:tayumanavar-padalgal:camaracam"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
    ],
    "phases": [
     "skeleton"
@@ -145,6 +217,96 @@
   }
  },
  {
+  "id": "brw:alvar-nayanmar-shared-forms",
+  "from": "lin:alvar",
+  "to": "lin:nayanmar",
+  "what": "The shared forms of Tamil temple bhakti: hymn-decads (patikam/tirumoḻi) with a signature verse, songs to named temple sites, the Mārkaḻi vow-songs of young women (Tiruppāvai / Tiruvempāvai) and dawn-awakening songs (Tiruppaḷḷiyeḻucci in both), the 'heart-stealing' Lord, and the refusal of caste as a measure of the devotee.",
+  "direction": "mutual",
+  "era": "c. 6th–9th c. CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Tiruppāvai and Māṇikkavācakar's Tiruvempāvai; Toṇṭaraṭippoṭi's and Māṇikkavācakar's Tiruppaḷḷiyeḻucci",
+    "refs": [
+     "tea:tiruppavai:1",
+     "tea:tiruvacakam:7",
+     "tea:tiruppalliyelucci-tontaratippoti:1",
+     "tea:tiruvacakam:20"
+    ]
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "aruḷ, aṉpu, aṭiyār, patikam",
+    "refs": [
+     "tea:tiruvaymoli:1.1.1",
+     "tea:tevaram:1.1.1"
+    ]
+   }
+  ],
+  "notes": "Direction of influence between the two movements is not settled; recorded as mutual.",
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:alvar-to-puranic-dravida-devotees",
+  "from": "lin:alvar",
+  "to": "lin:puranic",
+  "what": "The Bhāgavata Purāṇa's statement that in the Kali age devotees of Nārāyaṇa abound in the Draviḍa lands by the Tāmraparṇī, Kṛtamālā, Payasvinī and Kāverī — which the tradition reads as foretelling the Āḻvārs, and which scholars read as a sign of the Purāṇa's southern setting in a milieu shaped by Āḻvār devotion.",
+  "direction": "disputed",
+  "era": "c. 9th–10th c. CE (scholarly dating of the Bhāgavata)",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "BhP 11.5.38–40 as prophecy of the Āḻvārs",
+    "refs": [
+     "tea:bhagavata-purana:11.5.38-40"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "the Bhāgavata's emotional bhakti and southern geography reflect the Āḻvār movement",
+    "refs": [
+     "tea:bhagavata-purana:11.5.38-40"
+    ]
+   }
+  ],
+  "notes": "In the tradition's account the direction is the reverse: the Purāṇa, being older, foretells the Āḻvārs.",
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:alvar-to-visistadvaita",
   "from": "lin:alvar",
   "to": "lin:visistadvaita",
@@ -181,6 +343,52 @@
   "provenance": {
    "units": [
     "skeleton:U14-visistadvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:amrtasiddhi-buddhist-to-hatha",
+  "from": "lin:vajrayana",
+  "to": "lin:hatha-yoga",
+  "what": "The earliest haṭha doctrine and methods — bindu as the moon and essence of life, its consumption by the sun, the central channel, mahāmudrā/mahābandha/mahāvedha and the four stages — first appear in the Amṛtasiddhi, composed in a Buddhist tantric milieu.",
+  "direction": "from→to",
+  "era": "c. 11th c. CE onward",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Mallinson & Szántó (2021) on the Buddhist setting of the Amṛtasiddhi; its Tibetan translation",
+    "refs": [
+     "tea:amrtasiddhi:topic.three-mudras",
+     "tea:amrtasiddhi:topic.bindu"
+    ]
+   },
+   {
+    "type": "textual-parallel",
+    "detail": "the three mudrās and the four stages reappear in DYŚ and HYP",
+    "refs": [
+     "tea:hatha-yoga-pradipika:3.6-7",
+     "tea:hatha-yoga-pradipika:4.69",
+     "tea:dattatreyayogasastra:9-10"
+    ]
+   }
+  ],
+  "notes": "The haṭha tradition itself names Ādinātha (Śiva) as the source and does not acknowledge a Buddhist origin. U49 owns the cross-family account.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A10"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
    ],
    "phases": [
     "skeleton"
@@ -316,10 +524,26 @@
    "C"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-28",
+     "method": "text-locate",
+     "queries": [
+      "local DCS Suśruta Sū. 1; Caraka Sū. 30"
+     ],
+     "evidence": [
+      "text:sources_raw/dcs/dcs/data/conllu/files/Suśrutasaṃhitā/Suśrutasaṃhitā-0000-Su, Sū., 1-2054.conllu",
+      "text:sources_raw/dcs/dcs/data/conllu/files/Carakasaṃhitā/Carakasaṃhitā-0029-Ca, Sū., 30-3524.conllu"
+     ],
+     "result": "confirmed",
+     "note": "Both loci (moderate in the entry) located: Suśruta Sū. 1 'iha khalv āyurvedo nāmopāṅgam atharvavedasya' (sentence 6 of the chapter = Su.Sū. 1.6); Caraka Sū. 30 '… ātmano 'tharvavede bhaktir ādeśyā, vedo hy ātharvaṇo … cikitsāṃ prāha' (Ca.Sū. 30.21 in the usual numbering).",
+     "by": "sourcing:U01-vedic-samhitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -418,6 +642,78 @@
   "provenance": {
    "units": [
     "skeleton:U11-nyaya-vaisesika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:ayurveda-siddha-medicine",
+  "from": "lin:ayurveda",
+  "to": "lin:siddha-medicine",
+  "what": "The humoral triad, seven body-constituents, six tastes and rejuvenation (rasāyana/kaṟpam)",
+  "direction": "disputed",
+  "era": "undetermined",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "vātam, pittam, kapam; tātu; aṟucuvai",
+    "refs": [
+     "tea:tirukkural:941"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "the Siddha tradition claims origin from Śiva via Agastya; see dsp:siddha-ayurveda-relation",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A7",
+   "A11",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:bengal-sakta-to-ramakrishna",
+  "from": "lin:bengal-assam-sakta",
+  "to": "lin:ramakrishna-order",
+  "what": "Kālī devotion, the Śyāmā songs and the tantric sādhanas taught by the Bhairavī Brāhmaṇī",
+  "direction": "from→to",
+  "era": "19th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Ramakrishna's worship at Dakshineswar and his singing of Rāmprasād's songs (U52)",
+    "refs": [
+     "tea:ramprasadi-songs:dub-de-re-man-kali-bale"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
    ],
    "phases": [
     "skeleton"
@@ -605,6 +901,42 @@
   }
  },
  {
+  "id": "brw:bhagavata-to-ekasarana",
+  "from": "lin:puranic",
+  "to": "lin:ekasarana",
+  "what": "The Bhāgavata Purāṇa as supreme scripture: its narratives, the nine sages' teaching and the root-watering verse",
+  "direction": "from→to",
+  "era": "15th–16th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Śaṅkaradeva's renderings and the Mādhavadeva debate",
+    "refs": [
+     "tea:katha-gurucarit:madhavadeva-conversion",
+     "tea:nimi-navasiddha-samvada:bhagavata-dharma"
+    ]
+   }
+  ],
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:bhagavata-to-gaudiya",
   "from": "lin:puranic",
   "to": "lin:gaudiya-vaisnava",
@@ -670,6 +1002,42 @@
   "provenance": {
    "units": [
     "skeleton:U16-bhedabheda"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:bhagavata-to-varkari",
+  "from": "lin:puranic",
+  "to": "lin:varkari",
+  "what": "The Bhāgavata's eleventh book as the basis of Eknāth's teaching",
+  "direction": "from→to",
+  "era": "16th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Eknāthī Bhāgavat",
+    "refs": [
+     "tea:eknathi-bhagavata:2.uttama-bhagavata",
+     "tea:eknathi-bhagavata:7-9.avadhuta"
+    ]
+   }
+  ],
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
    ],
    "phases": [
     "skeleton"
@@ -1210,6 +1578,134 @@
   }
  },
  {
+  "id": "brw:chinnamasta-chinnamunda",
+  "from": "lin:vajrayana",
+  "to": "lin:kalikula",
+  "what": "The self-decapitated goddess (Buddhist Chinnamuṇḍā-Vajrayoginī / Hindu Chinnamastā)",
+  "direction": "disputed",
+  "era": "uncertain",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "iconographic parallel (severed head held in the hand, blood streams to two attendants); priority disputed",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:datta-and-mahanubhava",
+  "from": "lin:datta-sampradaya",
+  "to": "lin:mahanubhava",
+  "what": "Dattātreya counted among Parameśvara's five incarnations",
+  "direction": "disputed",
+  "era": "13th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "the pañca-kṛṣṇa list",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:datta-to-aghora",
+  "from": "lin:datta-sampradaya",
+  "to": "lin:aghora",
+  "what": "Dattātreya as ādiguru of Aghora; Girnar",
+  "direction": "from→to",
+  "era": "18th c. (tradition)",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Kīnārām's vision of Dattātreya at Girnar; Kālūrām as Dattātreya.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A7"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:datta-to-varkari",
+  "from": "lin:datta-sampradaya",
+  "to": "lin:varkari",
+  "what": "Janārdana Svāmī's Datta devotion passed to Eknāth",
+  "direction": "from→to",
+  "era": "16th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Eknāth's Datta vision through Janārdana",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:dharmasastra-penance-to-kapalika",
   "from": "lin:dharmasastra",
   "to": "lin:kapalika",
@@ -1571,6 +2067,50 @@
   }
  },
  {
+  "id": "brw:epic-teaching-to-bhakti-sastra",
+  "from": "lin:epic-teaching",
+  "to": "lin:bhakti-sastra",
+  "what": "The Gītā's teaching on devotion used as proof-texts in the Śāṇḍilya Sūtra (e.g. that the devotee is 'higher' than ritualist, knower and yogin) and echoed in the Nārada Sūtra's account of bad company.",
+  "direction": "from→to",
+  "era": "c. 10th–13th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "ŚBS argues from the Gītā's word 'adhika'",
+    "refs": [
+     "tea:sandilya-bhakti-sutra:1.2-adhikya",
+     "tea:bhagavad-gita:6.46-47"
+    ]
+   },
+   {
+    "type": "textual-parallel",
+    "detail": "NBS 44 on the chain from bad company to ruin echoes BhG 2.62–63",
+    "refs": [
+     "tea:narada-bhakti-sutra:43-45",
+     "tea:bhagavad-gita:2.62-63"
+    ]
+   }
+  ],
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:epic-to-yoga",
   "from": "lin:epic-teaching",
   "to": "lin:patanjala-yoga",
@@ -1652,6 +2192,113 @@
   }
  },
  {
+  "id": "brw:gaudiya-to-baul",
+  "from": "lin:gaudiya-vaisnava",
+  "to": "lin:baul",
+  "what": "Caitanya, Nityānanda and the Vraja līlā as figures of the songs; nāma-kīrtana; the word bāul itself (Caitanya-caritāmṛta, Antya 19)",
+  "direction": "from→to",
+  "era": "17th–19th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Lalon's 'three madmen of Nadia'.",
+    "refs": [
+     "tea:lalon-giti:tin-pagale-holo-mela"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:gaudiya-to-kartabhaja",
+  "from": "lin:gaudiya-vaisnava",
+  "to": "lin:kartabhaja",
+  "what": "Caitanya as source (Āulcānd as Caitanya returned), Vaiṣṇava vocabulary and kīrtana",
+  "direction": "from→to",
+  "era": "18th–19th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Āulcānd as Caitanya returned.",
+    "refs": [
+     "tea:sahajatattva-prakasa:aulcand-as-caitanya"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:gaudiya-to-vaisnava-sahajiya",
+  "from": "lin:gaudiya-vaisnava",
+  "to": "lin:vaisnava-sahajiya",
+  "what": "Rūpa Gosvāmī's rasa theory, the parakīyā ideal, Caitanya as Rādhā–Kṛṣṇa in one body, the Caitanya-caritāmṛta's kāma/prema distinction",
+  "direction": "from→to",
+  "era": "17th–18th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Sahajiyā texts cite and re-read the Caitanya-caritāmṛta (Vivartavilāsa).",
+    "refs": [
+     "tea:vivartavilasa:hidden-meaning-of-caitanya-caritamrta",
+     "tea:vivartavilasa:kama-into-prema"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "notes": "The Gauḍīya tradition rejects the Sahajiyā reading (dsp:sahajiya-and-gaudiya-orthodoxy).",
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:gayatri-to-dharmasastra",
   "from": "lin:vedic-srauta",
   "to": "lin:dharmasastra",
@@ -1688,6 +2335,156 @@
   }
  },
  {
+  "id": "brw:gita-govinda-to-gaudiya",
+  "from": "lin:jagannatha",
+  "to": "lin:gaudiya-vaisnava",
+  "what": "The Gīta Govinda as a scripture of Rādhā–Kṛṣṇa love, relished by Caitanya with the songs of Caṇḍīdāsa and Vidyāpati and the Kṛṣṇakarṇāmṛta; Rādhā's centrality and the moods of separation and pride that the Gauḍīya rasa theology systematises.",
+  "direction": "from→to",
+  "era": "15th–16th c. CE",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Caitanya Caritāmṛta reports Caitanya's relishing of the Gīta Govinda (Madhya-līlā; location recalled only generally)",
+    "refs": []
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "māna, vipralambha, sakhī, abhisāra",
+    "refs": [
+     "tea:gita-govinda:9",
+     "tea:gita-govinda:11"
+    ]
+   }
+  ],
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:gita-govinda-to-kerala",
+  "from": "lin:jagannatha",
+  "to": "lin:kerala-tantra",
+  "what": "Aṣṭapadī singing of the Gīta Govinda in Kerala temples (sopāna saṅgītam) and Mānaveda's Kṛṣṇagīti, modelled on it, the text of the Kṛṣṇanāṭṭam at Guruvāyūr.",
+  "direction": "from→to",
+  "era": "15th–17th c. CE",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Kerala temple aṣṭapadī singing",
+    "refs": [
+     "tea:gita-govinda:1.3"
+    ]
+   },
+   {
+    "type": "textual-parallel",
+    "detail": "the Kṛṣṇagīti's song-drama form",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:gita-govinda-to-sangita",
+  "from": "lin:jagannatha",
+  "to": "lin:sangita",
+  "what": "The aṣṭapadī song-form with named rāga and tāla for each song, which made the Gīta Govinda a classic of Indian music and dance (Odissi, Kathak, Bharatanāṭyam, bhajana), with Kumbhakarṇa's musicological commentary.",
+  "direction": "from→to",
+  "era": "12th c. CE onward",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "each aṣṭapadī headed by its rāga and tāla; Kumbhakarṇa's Rasikapriyā",
+    "refs": [
+     "tea:gita-govinda:1.astapadi-1"
+    ]
+   }
+  ],
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:gita-govinda-to-vaisnava-sahajiya",
+  "from": "lin:jagannatha",
+  "to": "lin:vaisnava-sahajiya",
+  "what": "Jayadeva and Padmāvatī counted by the Bengal Sahajiyās among the adept couples (rasikas) of their practice, and the Gīta Govinda read in that light.",
+  "direction": "from→to",
+  "era": "16th–18th c. CE",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Sahajiyā lists of rasika couples (Jayadeva–Padmāvatī, Caṇḍīdāsa–Rāmī, Vidyāpati–Lakhimā, Bilvamaṅgala–Cintāmaṇi)",
+    "refs": []
+   }
+  ],
+  "notes": "Recalled with low confidence; U27 (Vaiṣṇava Sahajiyā) should confirm or correct. Restricted material on Sahajiyā practice is not recorded here.",
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:gita-to-vedanta",
   "from": "lin:epic-teaching",
   "to": "lin:vedanta",
@@ -1713,6 +2510,43 @@
   "provenance": {
    "units": [
     "skeleton:U05-gita-epic"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:hatha-mudra-to-mantrasastra",
+  "from": "lin:hatha-yoga",
+  "to": "lin:mantrasastra",
+  "what": "The yoni-mudrā understood as a perineal lock (with the mūlabandha verse 'pressing the perineum with the heel … apāna drawn up') used to 'awaken' mantras that are cut, blocked, nailed or otherwise defective.",
+  "direction": "from→to",
+  "era": "by the time of Rāghavabhaṭṭa's commentary on the Śāradātilaka",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "The commentary on Śāradātilaka ch. 2 (at 2.111) quotes, as 'they say', a mūlabandha verse close to HYP 3.61 and 3.65 and a list of defective mantras healed by yoni-mudrā like ŚS 4.6.",
+    "refs": [
+     "tea:hatha-yoga-pradipika:3.61-65",
+     "tea:siva-samhita:4.1-11"
+    ]
+   }
+  ],
+  "notes": "The Śivasaṃhitā itself already claims this power for yoni mudrā (4.6), so the direction may be from a shared tantric milieu rather than from the haṭha texts as such.",
+  "coverage": [
+   "C",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U29-hatha-practices"
    ],
    "phases": [
     "skeleton"
@@ -1846,6 +2680,42 @@
   }
  },
  {
+  "id": "brw:kabir-panth-to-sant-mat",
+  "from": "lin:kabir-panth",
+  "to": "lin:sant-mat",
+  "what": "The cosmology of Kāl and the Sat Puruṣ/Satlok and the sense of the Saints' mission to free souls from Kāl",
+  "direction": "from→to",
+  "era": "19th–20th c.",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Kāl, Sat Puruṣ, Sat Lok in both; the Anurāg Sāgar translated and published in the Sant Mat milieu (Sant Bani Ashram).",
+    "refs": [
+     "tea:anurag-sagar:kal-niranjan-austerity-and-three-worlds",
+     "tea:path-of-the-masters:saints-and-avataras"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:kalamukha-to-virasaiva",
   "from": "lin:kalamukha",
   "to": "lin:virasaiva",
@@ -1904,6 +2774,38 @@
   }
  },
  {
+  "id": "brw:kalikula-to-bengal-assam-sakta",
+  "from": "lin:kalikula",
+  "to": "lin:bengal-assam-sakta",
+  "what": "Dakṣiṇakālī's meditation and worship, the Mahāvidyā system",
+  "direction": "from→to",
+  "era": "16th–18th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Kṛṣṇānanda's Tantrasāra quotes the Kālī Tantra and the Muṇḍamālā",
+    "refs": [
+     "tea:tantrasara-krsnananda:2.syama-dhyana",
+     "tea:tantrasara-krsnananda:1.siddhadi-sodhana"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:kalisantarana-to-gaudiya",
   "from": "lin:upanisadic",
   "to": "lin:gaudiya-vaisnava",
@@ -1932,6 +2834,39 @@
   "provenance": {
    "units": [
     "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:kapalika-to-aghora",
+  "from": "lin:kapalika",
+  "to": "lin:aghora",
+  "what": "Cremation-ground dwelling, skull bowl and transgression of purity",
+  "direction": "disputed",
+  "era": "medieval to early modern",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Aghorīs are often described by scholars as heirs of the Kāpālikas; the tradition traces itself to Dattātreya and Kīnārām instead.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A7"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
    ],
    "phases": [
     "skeleton"
@@ -2037,6 +2972,147 @@
   }
  },
  {
+  "id": "brw:kaula-to-aghora",
+  "from": "lin:kaula",
+  "to": "lin:aghora",
+  "what": "The doctrine of the eight fetters and non-dual conduct",
+  "direction": "from→to",
+  "era": "undetermined",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Kulārṇava 13.90 list of the eight fetters as cited in Aghora teaching; KJN non-dual conduct.",
+    "refs": [
+     "tea:kularnava-tantra:13.90-91",
+     "tea:kaulajnananirnaya:11.26-29"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A7"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:kaula-to-hatha",
+  "from": "lin:kaula",
+  "to": "lin:hatha-yoga",
+  "what": "Kuṇḍalinī, the centres and the upward-moving śakti; transgressive Kaula expressions reinterpreted as yogic acts (cow's flesh = tongue, liquor = nectar, the young widow = kuṇḍalinī).",
+  "direction": "from→to",
+  "era": "c. 11th–15th c.",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "HYP 3.47–49, 3.109–110, 4.42",
+    "refs": [
+     "tea:hatha-yoga-pradipika:3.47-49",
+     "tea:hatha-yoga-pradipika:3.109-110",
+     "tea:hatha-yoga-pradipika:4.42"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "kuṇḍalinī yoga's origin in the Kaula / Paścimāmnāya (Kubjikā) and Matsyendra's Yoginīkaula milieu",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A10"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:kaula-to-kalikula",
+  "from": "lin:kaula",
+  "to": "lin:kalikula",
+  "what": "Kaula conduct (kaulācāra), the five tattvas, the bhāvas and the āmnāya scheme in the eastern Kālī cult",
+  "direction": "from→to",
+  "era": "c. 14th–18th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "the Kālī tantras and Bengali digests cite the Kulārṇava and Kaulāvalīnirṇaya; the Kālīvilāsa and Kaulāvalī share the 'inwardly Śākta' verse",
+    "refs": [
+     "tea:kalivilasa-tantra:7.11-12",
+     "tea:kaulavalinirnaya:10.94-95"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:kaula-to-natha",
+  "from": "lin:kaula",
+  "to": "lin:natha",
+  "what": "Matsyendra's Kaula teaching (yoginīkaula) as the root of the Nāth lineage",
+  "direction": "from→to",
+  "era": "c. 10th–12th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "the Kaulajñānanirṇaya is 'brought down by Macchaghnapāda' (colophons); the Nāths claim Matsyendra as their first human guru",
+    "refs": [
+     "tea:kaulajnananirnaya:22.10-12"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:kaula-to-srividya",
   "from": "lin:kaula",
   "to": "lin:srividya",
@@ -2057,6 +3133,13 @@
     "type": "scholarly-hypothesis",
     "detail": "Śrīvidyā is widely held to have emerged within the Kaula 'southern transmission' (dakṣiṇāmnāya) before its South Indian Vedicizing.",
     "refs": []
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "the āmnāya scheme; the Kulārṇava's Ūrdhvāmnāya and Śrīprāsāda-parā mantra (ch. 3)",
+    "refs": [
+     "tea:kularnava-tantra:3.7"
+    ]
    }
   ],
   "coverage": [
@@ -2071,7 +3154,8 @@
   },
   "provenance": {
    "units": [
-    "skeleton:U23-sakta-srividya"
+    "skeleton:U23-sakta-srividya",
+    "skeleton:U24-kali-kaula"
    ],
    "phases": [
     "skeleton"
@@ -2111,6 +3195,35 @@
   }
  },
  {
+  "id": "brw:kaula-to-trika-kubjika-malini",
+  "from": "lin:trika",
+  "to": "lin:kubjika",
+  "what": "The Mālinī order of letters and Trika mantra material in the Kubjikāmata",
+  "direction": "from→to",
+  "era": "c. 10th c.",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "KMT chs. 4-5 on Mālinī (chapter titles in the GRETIL text)",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:kesin-muni-and-sramana",
   "from": "lin:sramana",
   "to": "lin:vedic-srauta",
@@ -2132,10 +3245,26 @@
    "C"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-28",
+     "method": "websearch",
+     "queries": [
+      "Keshin hymn RV 10.136 muni proto-yogic sramana ascetic tradition Werner"
+     ],
+     "evidence": [
+      "https://www.cambridge.org/core/journals/religious-studies/article/abs/yoga-and-the-rg-veda-an-interpretation-of-the-kesin-hymn-rv-10-136/5E6154596258BFE59E356A4D045E371F",
+      "https://en.wikipedia.org/wiki/Ke%C5%9Bin"
+     ],
+     "result": "confirmed",
+     "note": "The scholarly hypothesis exists as described (e.g. K. Werner, 'Yoga and the Ṛg Veda', Religious Studies 1977); correctly marked disputed and metadata-only.",
+     "by": "sourcing:U01-vedic-samhitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -2247,6 +3376,84 @@
   "provenance": {
    "units": [
     "skeleton:U07-puranas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mahasiddha-tamil-siddha",
+  "from": "lin:mahasiddha",
+  "to": "lin:tamil-siddha",
+  "what": "Parallels with the Buddhist siddhas' songs: attack on ritual, caste and scripture; veiled 'twilight' language; the body as the seat of realization",
+  "direction": "disputed",
+  "era": "undetermined",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "noted by modern scholars as a parallel; no direct transmission established",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mahasiddha-to-vaisnava-sahajiya",
+  "from": "lin:mahasiddha",
+  "to": "lin:vaisnava-sahajiya",
+  "what": "Sahaja as the innate goal, the body as microcosm, the union of the two principles (prajñā–upāya → Rādhā–Kṛṣṇa), songs in coded language",
+  "direction": "disputed",
+  "era": "c. 12th–17th c.",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "S. B. Dasgupta (Obscure Religious Cults) and others trace the Vaiṣṇava Sahajiyā to the Buddhist Sahajiyā of the Caryāgīti (metadata only).",
+    "refs": []
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "sahaja, sandhyā-bhāṣā, the body as the site of union (cf. src:caryagiti, src:dohakosa-saraha).",
+    "refs": [
+     "tea:candidas-ragatmika-padas:sahaja-sahaja-sabai-kahaye"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "The Sahajiyās themselves claim descent from Caitanya and the Vaiṣṇava rasikas, not from Buddhists.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
    ],
    "phases": [
     "skeleton"
@@ -2714,6 +3921,491 @@
   "provenance": {
    "units": [
     "skeleton:U06-other-gitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:natha-datta",
+  "from": "lin:datta-sampradaya",
+  "to": "lin:natha",
+  "what": "Dattātreya as teacher of the Nāths in Marathi tradition",
+  "direction": "from→to",
+  "era": "c. 16th–19th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Navanātha Bhaktisāra; Gorakṣaguṭikā 1.24 names Dattātreya with Gorakṣa.",
+    "refs": [
+     "tea:navanatha-bhaktisara:whole",
+     "tea:goraksa-gutika:1.4-24"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A7"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:natha-mahasiddha",
+  "from": "lin:natha",
+  "to": "lin:mahasiddha",
+  "what": "Shared siddha names and songs (Mīna/Matsyendra, Jālandhara, Kāṇha, Cauraṅgī, Virūpa, Carpaṭi) and the eighty-four-siddha frame",
+  "direction": "mutual",
+  "era": "c. 10th–14th c.",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "sahaja, śūnya, twilight language in Nāth and Buddhist siddha songs.",
+    "refs": []
+   },
+   {
+    "type": "textual-parallel",
+    "detail": "Varṇaratnākara's list of 84 mixes Nāth and Buddhist names; HYP 1.5–8 includes Virūpākṣa, Carpaṭi, Kānerī.",
+    "refs": [
+     "tea:hatha-yoga-pradipika:1.4-9"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A7"
+  ],
+  "notes": "U49 owns the full treatment of the overlap.",
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:natha-newar",
+  "from": "lin:natha",
+  "to": "lin:newar-vajrayana",
+  "what": "The cult of Matsyendranātha as Karuṇāmaya (Buṅga-dyaḥ) and the legend of Gorakṣa's drought",
+  "direction": "mutual",
+  "era": "c. 16th c. onward (festival attested)",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Newar legend of bringing Matsyendra from Kāmarūpa; see dsp:identity-of-matsyendra.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A7"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:natha-rasa-sastra",
+  "from": "lin:natha",
+  "to": "lin:rasa-sastra",
+  "what": "The goal of the perfected, deathless body and siddhas who are also alchemists (Nityanātha, Carpaṭi, Nāgārjuna in some lists)",
+  "direction": "mutual",
+  "era": "c. 11th–15th c.",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "kāya-siddhi, rasāyana; the Akulavīra warns against grasping rasāyana.",
+    "refs": [
+     "tea:akulavira-tantra:b.83-84"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A7"
+  ],
+  "notes": "Metal/mercury practices are restricted; not detailed.",
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:natha-tamil-siddha",
+  "from": "lin:natha",
+  "to": "lin:tamil-siddha",
+  "what": "Gorakṣa (Korakkar) and Matsyendra (Macchamuni) among the eighteen Tamil Siddhars",
+  "direction": "disputed",
+  "era": "medieval",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Tamil Siddha lists include Korakkar and Macchamuni.",
+    "refs": []
+   },
+   {
+    "type": "tradition-account",
+    "detail": "the Tamil lists and legends of Maccamuṉi and Kōrakkar",
+    "refs": []
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "TM 67–70 calls Nandi's disciples nātar",
+    "refs": [
+     "tea:tirumantiram:67",
+     "tea:tirumantiram:70"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "direction and date of contact unsettled",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A7"
+  ],
+  "notes": "Whether these are the same figures or homonyms is disputed; U22 owns the Tamil side.",
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora",
+    "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:natha-to-baul",
+  "from": "lin:natha",
+  "to": "lin:baul",
+  "what": "Body-yoga vocabulary: reversal (ulṭā), the tenth door, the currents and lotuses, the breath",
+  "direction": "from→to",
+  "era": "17th–19th c.",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Nāth images in Bāul deha-tattva songs.",
+    "refs": [
+     "tea:lalon-giti:dhar-cor-haoyar-ghare"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:natha-to-hatha",
+  "from": "lin:natha",
+  "to": "lin:hatha-yoga",
+  "what": "The haṭha corpus ascribed to Gorakṣa and the siddha lineage at the head of the Haṭhapradīpikā",
+  "direction": "from→to",
+  "era": "c. 13th–15th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "HYP 1.1–9 names Ādinātha, Matsyendra, Gorakṣa and the Nāth siddhas as its source.",
+    "refs": [
+     "tea:hatha-yoga-pradipika:1.1",
+     "tea:hatha-yoga-pradipika:1.4-9"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A7"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:natha-to-niranjani",
+  "from": "lin:natha",
+  "to": "lin:niranjani",
+  "what": "Nirañjan as the name of the ultimate and Nāth yogic practice",
+  "direction": "from→to",
+  "era": "16th–17th c.",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "The sect's name and its 'alakh nirañjan' theology.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:natha-to-ramanandi",
+  "from": "lin:natha",
+  "to": "lin:ramanandi",
+  "what": "The seat at Galtā taken over from Nāth yogīs; yogic emphasis in Kīlhadās's branch",
+  "direction": "disputed",
+  "era": "16th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Kṛṣṇadās Payahārī's victory at Galtā",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:natha-to-sant",
+  "from": "lin:natha",
+  "to": "lin:sant",
+  "what": "The vocabulary and imagery of sahaj, śūnya, anahad nād, gagan maṇḍal, the tenth door and ulaṭbāṃsī used by Kabīr and other Sants",
+  "direction": "from→to",
+  "era": "c. 14th–16th c.",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Gorakh Bānī imagery (inverted well of nectar, sky-circle) recurs in Sant songs.",
+    "refs": [
+     "tea:gorakhbani:sabadi/3"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Kabīr–Gorakh Goṣṭhī stages the relation as debate.",
+    "refs": []
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "The Sant songs use the Nāth terms while redirecting them to devotion to the Name.",
+    "refs": [
+     "tea:dadu-vani:paraca-ang",
+     "tea:kabir-granthavali:sahaj-sadho-sahaj-samadhi-bhali"
+    ]
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Kabīr addresses the avadhū (Nāth yogī) and satirizes his garb.",
+    "refs": [
+     "tea:kabir-oral-corpus:man-na-rangaye-jogi-kapra"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "The Kabīr–Gorakh goṣṭhī stages the encounter.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A7",
+   "A9"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora",
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:natha-to-varkari",
+  "from": "lin:natha",
+  "to": "lin:varkari",
+  "what": "Nāth initiation and yoga through Gahinīnāth to Nivṛtti and Jñāneśvar",
+  "direction": "from→to",
+  "era": "13th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Jñāneśvarī 6.291 ('nāthasaṅketa') and the closing lineage ovīs of ch. 18.",
+    "refs": [
+     "tea:jnanesvari:6.291",
+     "tea:jnanesvari:18.closing"
+    ]
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Jñāneśvar's lineage verses at the close of the Jñāneśvarī",
+    "refs": [
+     "tea:jnanesvari:18.nath-lineage"
+    ]
+   },
+   {
+    "type": "textual-parallel",
+    "detail": "kuṇḍalinī description in Jñāneśvarī 6 (pantharāja)",
+    "refs": [
+     "tea:jnanesvari:6.kundalini"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A7",
+   "A9"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora",
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:natha-virasaiva",
+  "from": "lin:natha",
+  "to": "lin:virasaiva",
+  "what": "Encounter narratives (Allama and Gorakṣa) and possibly the figure of Revaṇasiddha",
+  "direction": "disputed",
+  "era": "12th–15th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Śūnyasampādane and Prabhuliṅgalīle stage the meeting.",
+    "refs": [
+     "tea:sunyasampadane:goraksa"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A7"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
    ],
    "phases": [
     "skeleton"
@@ -3646,6 +5338,76 @@
   }
  },
  {
+  "id": "brw:puranic-to-bengal-sati-pitha",
+  "from": "lin:puranic",
+  "to": "lin:bengal-assam-sakta",
+  "what": "The Dakṣa–Satī myth, developed into the dismemberment of Satī's body and the pīṭhas",
+  "direction": "from→to",
+  "era": "c. 10th c. onward",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "the older Dakṣa-sacrifice narrative (epic, Purāṇas) is extended in the Kālikā Purāṇa with the scattering of the body",
+    "refs": [
+     "tea:kalika-purana:18.36-47"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:puranic-to-bhakti-sastra",
+  "from": "lin:puranic",
+  "to": "lin:bhakti-sastra",
+  "what": "The Bhāgavata's theology of devotion: the gopīs as the model of love, devotion graded by the guṇas and free of them, and the forms of devotion that reappear in the Nārada Sūtra's eleven attachments.",
+  "direction": "from→to",
+  "era": "c. 10th–13th c. CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "NBS 21 names the gopīs of Vraja; NBS 56 grades secondary devotion as BhP 3.29 does; NBS 82 overlaps BhP 7.5.23–24",
+    "refs": [
+     "tea:narada-bhakti-sutra:20-24",
+     "tea:narada-bhakti-sutra:56-57",
+     "tea:narada-bhakti-sutra:82",
+     "tea:bhagavata-purana:7.5.23-24",
+     "tea:bhagavata-purana:3.29.7-12"
+    ]
+   }
+  ],
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:puranic-to-gaudiya",
   "from": "lin:puranic",
   "to": "lin:gaudiya-vaisnava",
@@ -3784,6 +5546,174 @@
   "provenance": {
    "units": [
     "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:ramanandi-to-aghora",
+  "from": "lin:ramanandi",
+  "to": "lin:aghora",
+  "what": "Kīnārām's first Vaiṣṇava initiation and the Rām-language of his works",
+  "direction": "from→to",
+  "era": "18th c. (tradition)",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Kīnārām initiated by Śivarām; titles Rāmgītā, Rāmrasāl.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A7"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:ramanandi-to-sant",
+  "from": "lin:ramanandi",
+  "to": "lin:sant",
+  "what": "The name of Rām as the saving Name; the claim of initiation of Kabīr, Ravidās, Pīpā, Sen and Dhannā by Rāmānanda",
+  "direction": "disputed",
+  "era": "15th–16th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Rāmānandī hagiographies (Anantadās, Nābhādās).",
+    "refs": [
+     "tea:kabir-paracai:ramananda-at-the-ghat"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Chronological doubts about direct discipleship (metadata only).",
+    "refs": []
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Bhaktamāl's list of Rāmānanda's twelve disciples",
+    "refs": [
+     "tea:bhaktamal:ramananda"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Historians doubt a direct guru relation for some of these figures on chronological grounds",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "notes": "The Kabīr Panth denies dependence; see dsp:kabir-guru-ramananda.",
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul",
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:rasa-sastra-hatha",
+  "from": "lin:rasa-sastra",
+  "to": "lin:hatha-yoga",
+  "what": "The analogy of binding mercury and binding mind; siddhas who are also alchemists (Nityanātha, Kākacaṇḍīśvara) in the HYP's list; the shared goal of an immortal body.",
+  "direction": "mutual",
+  "era": "c. 12th–15th c.",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "HYP 4.26–27, 4.96",
+    "refs": [
+     "tea:hatha-yoga-pradipika:4.26-27"
+    ]
+   },
+   {
+    "type": "textual-parallel",
+    "detail": "siddha names in HYP 1.5–8",
+    "refs": [
+     "tea:hatha-yoga-pradipika:1.5-9"
+    ]
+   }
+  ],
+  "notes": "DYŚ 48 lists alchemy (dhātuvāda) among the obstacles to yoga.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A10"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:rasa-sastra-tamil-siddha",
+  "from": "lin:rasa-sastra",
+  "to": "lin:tamil-siddha",
+  "what": "Mercurial and mineral alchemy (binding mercury, calcination, transmutation, the alchemical body)",
+  "direction": "disputed",
+  "era": "second millennium",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "iracam / rasa, pāṣāṇam, cutti / śodhana, centūram / sindūra",
+    "refs": []
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Tamil tradition claims independent origin",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
    ],
    "phases": [
     "skeleton"
@@ -4110,10 +6040,26 @@
    "C"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-28",
+     "method": "text-locate",
+     "queries": [
+      "local DCS Nāṭyaśāstra 1; Nāradīya Śikṣā 1.5"
+     ],
+     "evidence": [
+      "text:sources_raw/dcs/dcs/data/conllu/files/Nāṭyaśāstra/Nāṭyaśāstra-0000-NāṭŚ, 1-5784.conllu",
+      "text:sources_raw/raw_etexts/shixA/sAma-vedaH/naradiya_shiksha.md"
+     ],
+     "result": "confirmed",
+     "note": "Located: Nāṭyaśāstra ch. 1 'jagrāha pāṭhyam ṛgvedāt sāmabhyo gītam eva ca' (verse 17 in the usual numbering; DCS half-verse 35); Nāradīya Śikṣā 1.5.1–2 confirmed.",
+     "by": "sourcing:U01-vedic-samhitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -4673,6 +6619,42 @@
   }
  },
  {
+  "id": "brw:sant-to-sant-mat",
+  "from": "lin:sant",
+  "to": "lin:sant-mat",
+  "what": "The older Sants (Kabīr, Paltū, Dariyā, Tulsī Sāhib) as authorities for the inner sound and the Name; their vocabulary of śabd, surat, sunn, tenth door",
+  "direction": "from→to",
+  "era": "1861 onward",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Sār Bachan and the Beas and Ruhani Satsang literature quote the older Sants extensively.",
+    "refs": [
+     "tea:sar-bachan:the-regions-and-their-sounds",
+     "tea:naam-or-word:the-word-in-all-religions"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:sarvastivada-yoga-time-and-transformation",
   "from": "lin:sarvastivada",
   "to": "lin:patanjala-yoga",
@@ -4751,6 +6733,40 @@
   "provenance": {
    "units": [
     "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:siddha-medicine-to-varma-kalai",
+  "from": "lin:siddha-medicine",
+  "to": "lin:varma-kalai",
+  "what": "The vital points (varmam), their count and healing uses, ascribed to Agastya",
+  "direction": "from→to",
+  "era": "undetermined",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "varmam texts are ascribed to Agastya and taught as a branch of Siddha medicine",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A7",
+   "I4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
    ],
    "phases": [
     "skeleton"
@@ -4936,6 +6952,41 @@
   }
  },
  {
+  "id": "brw:srividya-tamil-siddha",
+  "from": "lin:srividya",
+  "to": "lin:tamil-siddha",
+  "what": "Worship of the goddess as Bālā (Vālai), Tripurā and Bhuvanā with seed-syllables, and of the Meru of forty-three triangles (Śrīcakra)",
+  "direction": "from→to",
+  "era": "undetermined",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Caṭṭaimuṉi 1–3 names the 43 triangles and the syllables of Vālai, Tripurā, Bhuvanā and Yāmaḷā",
+    "refs": [
+     "tea:sattaimuni-nanam:1"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:srividya-to-karnatic-music",
   "from": "lin:srividya",
   "to": "lin:sangita",
@@ -4964,6 +7015,46 @@
   "provenance": {
    "units": [
     "skeleton:U23-sakta-srividya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:srividya-to-siva-samhita",
+  "from": "lin:srividya",
+  "to": "lin:hatha-yoga",
+  "what": "Śrīvidyā mantra vocabulary (the vāgbhava seed) and a mantra practice in the centres in the Śiva Saṃhitā's fifth chapter.",
+  "direction": "from→to",
+  "era": "c. 15th c.",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "SS 5.188–190",
+    "refs": [
+     "tea:siva-samhita:5.188-190"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Mallinson's introduction to the Śiva Saṃhitā (recalled)",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A10"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
    ],
    "phases": [
     "skeleton"
@@ -5015,6 +7106,84 @@
   }
  },
  {
+  "id": "brw:tamil-siddha-to-vallalar",
+  "from": "lin:tamil-siddha",
+  "to": "lin:vallalar",
+  "what": "The critique of caste and ritual, the deathless body, the Light (cōti), and Tāyumāṉavar's camaracam of Vedānta and Siddhānta",
+  "direction": "from→to",
+  "era": "19th c.",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "camaracam, caṉmārkkam, aruṭperuñcōti",
+    "refs": [
+     "tea:tayumanavar-padalgal:camaracam"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Vallalar venerated Tāyumāṉavar and the Siddhars (low confidence)",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A7",
+   "I2",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:tara-mahacina-buddhist",
+  "from": "lin:vajrayana",
+  "to": "lin:kalikula",
+  "what": "The goddess Tārā (with Ekajaṭā and Akṣobhya) and the 'Cīna' mode of her worship",
+  "direction": "disputed",
+  "era": "c. 10th–16th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "the Hindu Tārā texts themselves say Tārā's Kula worship was learned in Mahācīna from the Buddha (Rudrayāmala 17; Tārā Tantra 1.2-4)",
+    "refs": [
+     "tea:rudrayamala:17.105-124",
+     "tea:tara-tantra:1.2-4"
+    ]
+   },
+   {
+    "type": "textual-parallel",
+    "detail": "Akṣobhya on Tārā's head in her meditation verse; Ekajaṭā as companion in both traditions",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:tirukkural-to-tamil-saiva-siddhanta",
   "from": "lin:jainism",
   "to": "lin:tamil-saiva-siddhanta",
@@ -5040,6 +7209,50 @@
   "provenance": {
    "units": [
     "skeleton:U18-saiva-siddhanta"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:tirumantiram-to-tamil-siddha",
+  "from": "lin:tamil-saiva-siddhanta",
+  "to": "lin:tamil-siddha",
+  "what": "The Tirumantiram's eightfold yoga, eight great powers, kāya-citti ('I nourished the body'), 'love is Civam' and 'one family, one God', and the Nandi–Tirumūlar lineage",
+  "direction": "from→to",
+  "era": "the Siddhar corpus (c. 1400 onward) draws on the Tirumantiram",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Kaṭuveḷi 31 commends the eight-limbed yoga; kāya-citti themes recur (Caṭṭaimuṉi 4; Tiruvaḷḷuvar ñāṉam 14)",
+    "refs": [
+     "tea:tirumantiram:724",
+     "tea:kaduveli-ananda-kalippu:31",
+     "tea:sattaimuni-nanam:4"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Tirumūlar heads the lists of Siddhars; works are ascribed to him",
+    "refs": [
+     "tea:tirumular-nanam:6"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
    ],
    "phases": [
     "skeleton"
@@ -5593,6 +7806,77 @@
   }
  },
  {
+  "id": "brw:vaisnava-sahajiya-to-baul",
+  "from": "lin:vaisnava-sahajiya",
+  "to": "lin:baul",
+  "what": "Sahaja and the sahaja Man, the body as the place of the divine couple, rasa and rati, the practice of the couple, coded song",
+  "direction": "from→to",
+  "era": "17th–19th c.",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Bāul songs use the Sahajiyā vocabulary (sahaj mānuṣ, rasa, rati, the moons).",
+    "refs": [
+     "tea:lalon-giti:manus-bhajle-sonar-manus-habi",
+     "tea:baul-gan:cari-candra-secret-and-warning"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vaisnava-sahajiya-to-kartabhaja",
+  "from": "lin:vaisnava-sahajiya",
+  "to": "lin:kartabhaja",
+  "what": "The sahaja mānuṣa, secrecy, the living human as the site of the divine",
+  "direction": "from→to",
+  "era": "18th–19th c.",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Bhāber Gīt and Kartābhajā maxims.",
+    "refs": [
+     "tea:bhaber-git:hidden-master"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:vak-sukta-to-sakta",
   "from": "lin:vedic-srauta",
   "to": "lin:sakta",
@@ -5666,6 +7950,52 @@
   }
  },
  {
+  "id": "brw:varkari-to-sant",
+  "from": "lin:varkari",
+  "to": "lin:sant",
+  "what": "Nāmdev's Hindi padas and his example as a low-caste devotee saved by the Name",
+  "direction": "from→to",
+  "era": "14th–16th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Ravidās names Nāmdev among those the Lord saved.",
+    "refs": [
+     "tea:ravidas-bani:aisi-lal-tujh-binu-kaunu-karai"
+    ]
+   },
+   {
+    "type": "textual-parallel",
+    "detail": "Nāmdev's Hindi songs stand with Kabīr's and Ravidās's in the Pañcvāṇī and Ādi Granth.",
+    "refs": []
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Nāmdev named among exemplary devotees by later Sants (e.g. in songs attributed to Kabīr and Raidās)",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul",
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:vedanta-paramarthasara-to-trika",
   "from": "lin:vedanta",
   "to": "lin:trika",
@@ -5726,6 +8056,43 @@
   "provenance": {
    "units": [
     "skeleton:U14-visistadvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vedanta-to-bhakti-sastra",
+  "from": "lin:vedanta",
+  "to": "lin:bhakti-sastra",
+  "what": "The sūtra form and opening of the Brahma Sūtra ('athāto ... jijñāsā') and Bādarāyaṇa as an authority cited on devotion's object.",
+  "direction": "from→to",
+  "era": "c. 10th–12th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "ŚBS 1 mirrors BS 1.1.1; ŚBS names Bādarāyaṇa",
+    "refs": [
+     "tea:sandilya-bhakti-sutra:1",
+     "tea:brahma-sutra:1.1.1",
+     "tea:sandilya-bhakti-sutra:29-31"
+    ]
+   }
+  ],
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
    ],
    "phases": [
     "skeleton"
@@ -5867,6 +8234,55 @@
    "C"
   ],
   "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-28",
+     "method": "text-locate",
+     "queries": [
+      "local Mahābhāṣya Paspaśāhnika"
+     ],
+     "evidence": [
+      "text:sources_raw/raw_etexts/mixed/ebhAratI-sampat/vedAngAni/vyAkaraNam/mahAbhAShyam.md (Paspaśāhnika)",
+      "text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (Sarup ed., GRETIL)"
+     ],
+     "result": "confirmed",
+     "note": "Located in the Paspaśāhnika: 'catvāri śṛṅgā …' (RV 4.58.3) read as the four word-classes etc.; 'apara āha — catvāri vāk parimitā padāni …' (RV 1.164.45, so the 'as usually reported' citation is confirmed); 'uta tvaḥ …' (10.71.4); 'saktum iva …' (10.71.2). Nirukta 13.8–9 grammarians' reading of 1.164.45 located.",
+     "by": "sourcing:U01-vedic-samhitas"
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vidyapati-to-gaudiya-and-ekasarana",
+  "from": "lin:regional-bhakti-poets",
+  "to": "lin:gaudiya-vaisnava",
+  "what": "Vidyāpati's and Caṇḍīdās's lyrics relished by Caitanya; the Brajabuli song-idiom",
+  "direction": "from→to",
+  "era": "15th–16th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Caitanya relished Vidyāpati and Caṇḍīdās (Gauḍīya biographies)",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C",
+   "A9"
+  ],
+  "verification": {
    "level": "skeleton",
    "confidence": "moderate",
    "unverified": false,
@@ -5874,7 +8290,38 @@
   },
   "provenance": {
    "units": [
-    "skeleton:U01-vedic-samhitas"
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vidyapitha-to-kaula",
+  "from": "lin:vidyapitha",
+  "to": "lin:kaula",
+  "what": "The yoginī cults and cremation-ground rites of the Yāmala tantras, domesticated and interiorised in the Kaula",
+  "direction": "from→to",
+  "era": "c. 9th–11th c.",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "shared yoginī-kaula vocabulary; Kaulajñānanirṇaya's yoginī transmission",
+    "refs": [
+     "tea:kaulajnananirnaya:9.8-15"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
    ],
    "phases": [
     "skeleton"
@@ -6077,10 +8524,26 @@
    "C"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-28",
+     "method": "websearch",
+     "queries": [
+      "Vratya Atharvaveda 15 Hauer Rudra Pasupata Shaiva ascetics hypothesis"
+     ],
+     "evidence": [
+      "https://hasp.ub.uni-heidelberg.de/journals/ejvs/article/download/2316/2326",
+      "https://www.britannica.com/topic/vratya"
+     ],
+     "result": "confirmed",
+     "note": "The hypothesis exists (J. W. Hauer; comparisons of vrātyas with Pāśupatas); correctly marked disputed and metadata-only.",
+     "by": "sourcing:U01-vedic-samhitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -6433,6 +8896,48 @@
   }
  },
  {
+  "id": "brw:yoga-vasistha-to-hyp",
+  "from": "lin:advaita-vedanta",
+  "to": "lin:hatha-yoga",
+  "what": "A Yoga Vāsiṣṭha verse addressed to Rāma ('the whole world is only saṅkalpa…') quoted in the samādhi chapter of the Haṭhapradīpikā, with Advaita doctrine framing samādhi (HYP 4.58–62; SS 1).",
+  "direction": "from→to",
+  "era": "c. 15th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "HYP 4.58 (vocative 'Rāma')",
+    "refs": [
+     "tea:hatha-yoga-pradipika:4.58"
+    ]
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "adhyāropa-apavāda in SS 1.67",
+    "refs": [
+     "tea:siva-samhita:1.67"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A10"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:yoga-vocabulary-in-dharmasastra",
   "from": "lin:patanjala-yoga",
   "to": "lin:dharmasastra",
@@ -6495,6 +9000,87 @@
   "provenance": {
    "units": [
     "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:yogini-kaula-to-natha",
+  "from": "lin:yogini-kaula",
+  "to": "lin:natha",
+  "what": "Matsyendra's Kaula teaching — body as the place of the divine, centres, nectar, conquest of death, secrecy — carried into the Nāth tradition",
+  "direction": "from→to",
+  "era": "c. 10th–13th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Nāth lineages place Matsyendra, bringer of the Yoginīkaula, at their head.",
+    "refs": [
+     "tea:hatha-yoga-pradipika:1.4-9",
+     "tea:jnanesvari:18.closing"
+    ]
+   },
+   {
+    "type": "textual-parallel",
+    "detail": "Nectar, centres, khecarī-type practice and kāla-vañcana in both KJN and GŚ.",
+    "refs": [
+     "tea:kaulajnananirnaya:6.16-26",
+     "tea:goraksasataka:57-59"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A7"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:yogini-pithas-to-buddhist-yoginitantras",
+  "from": "lin:kaula",
+  "to": "lin:vajrayana",
+  "what": "The four seats (Oḍḍiyāna, Jālandhara, Pūrṇagiri, Kāmarūpa) and pīṭha/upapīṭha lists shared with the Buddhist Yoginī tantras",
+  "direction": "disputed",
+  "era": "c. 9th–11th c.",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "the same four seats in the Kubjikāmata (11.7), the Kālikā Purāṇa (18.41-43) and the Buddhist Hevajra/Cakrasaṃvara corpus",
+    "refs": [
+     "tea:kubjikamata-tantra:11.6-7",
+     "tea:kalika-purana:18.36-47"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Śaiva/Śākta priority argued by some scholars; disputed",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
    ],
    "phases": [
     "skeleton"

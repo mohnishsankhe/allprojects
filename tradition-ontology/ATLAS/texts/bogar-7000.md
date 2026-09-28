@@ -14,7 +14,19 @@
 
 A long verse work in seven 'books' (kāṇṭam) of a thousand verses ascribed to Bogar: alchemy (vātam), medicine, kāya kaṟpam, yoga, and the author's travels — including to China (Cīṉam) — and his aerial journeys. Recorded in summary only; no preparations.
 
+## Teachings (1: skeleton 1)
+
+### journey to Cīṉam <a id="tea-bogar-7000-cinam"></a>
+`skeleton` · confidence low
+
+Bogar tells of travelling to China (Cīṉam), teaching and practising there, and returning to the Tamil land; he speaks of flight through the air by the power of his preparations.
+
+_level: conventional · standpoint: experiential · path: body-breath · stage: realized · types: powers-experiences, narrative_
+
+concepts: [The Siddhars' immortality (the tradition's claims)](../concepts/siddhar-immortality-claims.md) · teachers: [Bogar (Pōkar)](../teachers/bogar.md)
+
+
 _Notes: Title and ascription recalled at low confidence; many such works circulate in 19th–20th c. printed editions and palm-leaf manuscripts with varying titles and verse counts. Summary only; no preparations._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._

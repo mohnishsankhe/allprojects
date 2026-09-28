@@ -1,6 +1,6 @@
 # Parāśara Gītā
 
-`src:parasara-gita` · `skeleton` · confidence high
+`src:parasara-gita` · `sourced` · confidence high
 
 **Original title:** पराशरगीता
 **Language:** Sanskrit
@@ -33,4 +33,8 @@ teachers: [Parāśara](../teachers/parasara.md), [Janaka of Videha](../teachers/
 
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.279.3 Parāśara–Janaka; 12.280.1ff speaker Parāśara; 12.287.1 — Section located at CE 12.279-287 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
+
+_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

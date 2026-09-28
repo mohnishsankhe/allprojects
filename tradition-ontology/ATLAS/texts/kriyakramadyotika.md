@@ -32,10 +32,10 @@ Aghoraśiva teaches that initiation removes the bonds by Śiva's own power actin
 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: teacher-transmission, karma-liberation_
 
-concepts: [Kinds of initiation (dīkṣā) in the Āgamas](../concepts/kinds-of-diksa.md) · teachers: [Aghoraśiva](../teachers/aghorasiva.md) · disputes: [Does initiation (dīkṣā) itself liberate, or is knowledge the direct cause of liberation?](../debates/does-diksa-liberate.md)
+concepts: [Kinds of initiation](../concepts/kinds-of-diksa.md) · teachers: [Aghoraśiva](../teachers/aghorasiva.md) · disputes: [Does initiation (dīkṣā) itself liberate, or is knowledge the direct cause of liberation?](../debates/does-diksa-liberate.md)
 
 
 _Notes: Existence and author as in the Muktabodha catalogue (sources_raw/raw_etexts/mixed/mukta/muktabodha_metadata.json (Muktabodha catalogue descriptions))._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._

@@ -24,4 +24,4 @@ Forbidden: the learned condemn it as fit for animals, introduced under the wicke
 _Notes: Commentarial details from memory (moderate)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

@@ -13,4 +13,4 @@
 - leads-to → [Descent of power / grace (śaktipāta)](saktipata.md) — rests on [cupakkam.8](../texts/sivananasiddhiyar.md#tea-sivananasiddhiyar-cupakkam-8)
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._

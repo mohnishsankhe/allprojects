@@ -10,4 +10,4 @@
 King of the Kekayas who teaches five great householders and Uddālaka Āruṇi the vaiśvānara self as a whole, correcting each one's partial view (ChU 5.11-18); he claims there is no thief, miser, drunkard, man without a sacred fire, ignorant or adulterer in his kingdom (ChU 5.11.5).
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

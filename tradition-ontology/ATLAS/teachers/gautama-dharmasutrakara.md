@@ -10,4 +10,4 @@
 The Gautama of the Gautama Dharmasūtra, cited by Baudhāyana (BDh 1.1.2.7) and assigned by Parāśara to the Tretā age; distinct from Gautama Akṣapāda of Nyāya.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

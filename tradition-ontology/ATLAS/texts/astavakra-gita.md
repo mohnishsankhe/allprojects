@@ -49,7 +49,7 @@ You are the one seer of all, ever free; your only bondage is that you see the se
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: intermediate · types: ultimate, consciousness-mind_
 
-obstacles: [Ego (ahaṅkāra)](../obstacles/ahankara.md)
+obstacles: [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md)
 
 ### 1.11 <a id="tea-astavakra-gita-1-11"></a>
 `skeleton` · confidence high · [AI-translated]
@@ -157,4 +157,4 @@ teachers: [Janaka of Videha](../teachers/janaka.md)
 _Notes: Distinct from the 'Aṣṭāvakrīya' episode of the Mahābhārata (Āraṇyakaparvan 3.132-134; see src:astavakriya-mahabharata), where Aṣṭāvakra defeats Bandin at Janaka's court; the 1896 Pañcadaśagītā collection prints that epic episode as an 'Aṣṭāvakra Gītā' in three chapters. In recent times the text was loved by Vivekananda and read in Ramana Maharshi's circle (recent reception)._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

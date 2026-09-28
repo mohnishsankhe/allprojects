@@ -17,4 +17,4 @@
 _Notes: List verified in the local Bhāgavata e-text (11.7.33-34). The six teachers of Bodhya are a subset (Piṅgalā, osprey, serpent, bee, arrow-maker, maiden)._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

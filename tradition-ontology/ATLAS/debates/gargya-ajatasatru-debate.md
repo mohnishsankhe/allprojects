@@ -27,4 +27,4 @@ Ajātaśatru: each of these is venerated only as a limited form with a limited f
 **The traditions' own objections:** The text treats Gārgya's claim that these are brahman as mistaken, not as a partial truth to be kept; the reconciliation preserves the text's ranking.
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

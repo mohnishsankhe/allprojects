@@ -1,6 +1,6 @@
 # brahmavādinī
 
-`trm:brahmavadini` · `skeleton` · confidence low
+`trm:brahmavadini` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Native script:** ब्रह्मवादिनी
@@ -14,4 +14,8 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Brahmavadini, https://www.wisdomlib.org/hinduism/book/brihaddevata-attributed-to-shaunaka/d/doc1621733.html — Confirmed: the term and the Bṛhaddevatā list (2.82–84).
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

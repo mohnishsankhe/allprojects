@@ -16,4 +16,4 @@
 _Notes: The Upaniṣads (Muṇḍaka 3.1.1, Śvetāśvatara 4.6) read the birds as the individual self and the Lord; the Ṛgveda does not name them._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

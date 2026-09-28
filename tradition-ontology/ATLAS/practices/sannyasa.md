@@ -16,4 +16,4 @@ Rising above the desires for sons, wealth and worlds, living as a mendicant on a
 _Notes: The rules of the renunciant orders are in the Saṃnyāsa Upaniṣads (U04) and later texts (U57)._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

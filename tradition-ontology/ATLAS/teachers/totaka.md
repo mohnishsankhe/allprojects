@@ -15,4 +15,4 @@ Disciple of Śaṅkara, author (tradition) of the Toṭakāṣṭaka in praise o
 _Notes: Not to be confused with Ānandagiri (Ānandajñāna), the 13th-c. commentator._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

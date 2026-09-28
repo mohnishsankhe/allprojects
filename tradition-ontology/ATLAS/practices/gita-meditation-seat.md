@@ -14,4 +14,4 @@ A firm seat of one's own in a clean place, neither too high nor too low, spread 
 _Notes: The order of the layers (cloth, skin, grass) is read differently by commentators._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

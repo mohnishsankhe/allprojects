@@ -21,4 +21,4 @@ A condensed version (about a fifth of the whole) of the Yoga Vāsiṣṭha keepi
 _Notes: The Persian 'Jūg Bāsisht' made for Prince Salīm (1597) is recalled as based on the Laghu version (low); commentaries: Ātmasukha's Vāsiṣṭhacandrikā (low)._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

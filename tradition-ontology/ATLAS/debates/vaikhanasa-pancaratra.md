@@ -32,4 +32,4 @@ The Pāñcarātra is the Lord's own word, governing the chief self-manifest shri
 _Notes: Bhāskararāya (Setubandha intro) quotes a verse saying the Lord taught the Pāñcarātra, Bhāgavata and Vaikhānasa for those fallen from the Veda — a third, Śākta view (recorded in notes only)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._

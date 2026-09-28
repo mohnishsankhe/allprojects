@@ -17,4 +17,4 @@
 The dwarf avatāra and Bali; the glory of Kurukṣetra and the Sarasvatī; Śiva and Pārvatī narratives; vows.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

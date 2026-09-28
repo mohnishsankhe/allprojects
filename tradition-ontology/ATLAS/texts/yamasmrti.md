@@ -13,4 +13,4 @@ Short smṛtis ascribed to Yama (several versions of 78, 99 and 182 verses and a
 _Notes: Local copies: gretil 4_dharma/smrti/yamasmrti*, brhadyamasmrti, laghuyamasmrti._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

@@ -1,6 +1,6 @@
 # Yāska
 
-`tch:yaska` · `skeleton` · confidence high
+`tch:yaska` · `sourced` · confidence high
 
 **Lineages:** [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md), [Nairukta school (the Vedic etymologists)](../lineages/nairukta.md)
 **Dates:** Scholarly account: c. 6th–5th century BCE (before Pāṇini, low confidence); (confidence low)
@@ -13,4 +13,8 @@ Author of the Nirukta, the etymological commentary on the Vedic word-lists (Nigh
 _Notes: U01 contribution (Yāska as interpreter of the Saṃhitās); U02 owns the Nirukta._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (Sarup ed., GRETIL), https://en.wikipedia.org/wiki/Y%C4%81ska — Confirmed: author of the Nirukta; modern scholars place him c. 7th–5th c. BCE, before Pāṇini (entry: c. 6th–5th c. BCE — within range). Loci 1.15–16, 1.18, 1.20, 7.4 (one Self praised in many ways) located.
+
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

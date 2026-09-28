@@ -9,4 +9,4 @@
 The last and most aggressive challenger at Janaka's court: questions Yājñavalkya on the number of gods and the persons and their abodes; unable to answer the question about the person of the Upaniṣads, his head shatters (BAU 3.9). In BAU 4.1.7 he holds that brahman is the heart.
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

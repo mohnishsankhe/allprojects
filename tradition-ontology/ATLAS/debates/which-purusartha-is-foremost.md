@@ -37,4 +37,4 @@ Lokāyatikas (as reported by Vātsyāyana): dharma should not be practised, its 
 **The traditions' own objections:** Kauṭilya still holds artha foremost; the Lokāyata view (known only as reported) rejects dharma altogether; for Manu the triad is subordinate to self-knowledge.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

@@ -1,6 +1,6 @@
 # Sanatsujāta
 
-`tch:sanatsujata` · `skeleton` · confidence moderate
+`tch:sanatsujata` · `sourced` · confidence moderate
 
 **Alternate names:** Kumāra
 **Lineages:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
@@ -14,4 +14,8 @@ An ever-youthful sage (kumāra) summoned by Vidura's thought, who teaches Dhṛt
 _Notes: The tradition counts him among Brahmā's mind-born sons (not checked here)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 5.42.1, 5.42.4, 5.45.1 — Located as described; his status as Brahmā's mind-born son is not checked, as the entry itself notes.
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

@@ -1,6 +1,6 @@
 # Vālmīki
 
-`tch:valmiki` · `skeleton` · confidence high
+`tch:valmiki` · `sourced` · confidence high
 
 **Alternate names:** Ādikavi
 **Lineages:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Advaita Vedānta](../lineages/advaita-vedanta.md), [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md)
@@ -18,4 +18,8 @@ The first poet (ādikavi), author of the Rāmāyaṇa; told Rāma's story by Nā
 _Notes: U22 contribution; whether the list intends the epic poet or a Tamil namesake is not settled. Counted in the popular list of the eighteen Siddhars (see cpt:eighteen-siddhars); the samādhi place given follows that list and is recalled at low confidence._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U22-tamil-siddha. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:DharmicData Rāmāyaṇa (vulgate) 1.1.2, 1.2.15, 1.2.18 — Located as described.
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._

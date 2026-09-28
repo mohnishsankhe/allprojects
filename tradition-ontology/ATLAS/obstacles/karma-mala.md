@@ -12,4 +12,4 @@ The beginningless stream of good and bad deeds binding the soul to birth.
   - [Īśvarapratyabhijñākārikā](../texts/isvarapratyabhijna-karika.md) — ref: 3.2.5; rests_on: ["tea:isvarapratyabhijna-karika:3.2.4-5"]
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

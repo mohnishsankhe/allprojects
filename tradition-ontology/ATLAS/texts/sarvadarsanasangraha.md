@@ -6,7 +6,7 @@
 **Original title:** सर्वदर्शनसंग्रह
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md), [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md)
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md), [Rasa Śāstra (the science of mercury) and the Raseśvara-darśana](../lineages/rasa-sastra.md), [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md), [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md)
 **Genre:** doxography
 **Location in parent:** ch. 6: Nakulīśa-pāśupata-darśana
 **Authors:** 
@@ -20,7 +20,7 @@ Its sixth chapter presents the Pāśupata system in its own terms: the five cate
 **Editions / translations:** 
   - kind: original; name: ch. 6 reprinted as appendix II to Dalal, GOS 15 (1920); Muktabodha M00508; licence: Muktabodha terms of use
 
-## Teachings (5: skeleton 5)
+## Teachings (15: skeleton 15)
 
 ### 6 <a id="tea-sarvadarsanasangraha-6"></a>
 `skeleton` · confidence high
@@ -69,8 +69,100 @@ _level: unmarked · standpoint: polemical · path: knowledge · stage: all · ty
 
 disputes: [Is the Pāśupata (and wider Atimārga) teaching within or outside the Veda?](../debates/pasupata-vedic-status.md)
 
+### rasesvara.1-5 <a id="tea-sarvadarsanasangraha-rasesvara-1-5"></a>
+`skeleton` · confidence high · _restricted: summary only_
 
-_Notes: Chapter order (Pūrṇaprajña 5th) recalled at moderate confidence._
+Other Māheśvaras, though holding identity with the Supreme Lord, maintain that the jīvanmukti accepted by all will be accomplished only in stability of the body, and so proclaim rasa, called pārada, as the means — pārada because it carries one to the far shore (pāra) of saṃsāra. Liberation in life cannot be had any other way: all six systems place liberation after the fall of the body, where there can be no confidence in it and hence no undoubting effort.
+
+> saṃsārasya paraṃ pāraṃ datte'sau pāradaḥ smṛta iti
+
+_level: conventional · standpoint: analytic · path: body-breath, knowledge · stage: advanced · types: karma-liberation, dispute_
+
+terms: [pārada](../terms/parada.md) · concepts: [The Raseśvara-darśana](../concepts/rasesvara-darsana.md), [Liberation in life in a stable body (Rasa)](../concepts/jivanmukti-rasa.md), [Stability of the body (piṇḍa-sthairya)](../concepts/pinda-sthairya.md) · disputes: `dsp:is-bodily-immortality-required-for-liberation`
+
+### rasesvara.6-10 <a id="tea-sarvadarsanasangraha-rasesvara-6-10"></a>
+`skeleton` · confidence high · _restricted: summary only_
+
+Though the body of six sheaths is impermanent, the body born of the creation of Hara and Gaurī — called mercury and mica — can be permanent; so the yogin who seeks jīvanmukti must first make a divine body; mercury is Hara's and mica Gaurī's: 'mica is your seed, mercury mine; their union, O Goddess, destroys death and poverty.'
+
+_level: conventional · standpoint: divine · path: body-breath · stage: advanced · types: karma-liberation, world-fate_
+
+terms: [abhraka](../terms/abhraka.md), [pārada](../terms/parada.md) · concepts: [Mercury and mica as the seeds of Śiva and the Goddess](../concepts/mercury-as-siva-seed.md), [The divine body (divya-deha)](../concepts/divya-deha.md)
+
+### rasesvara.11-12 <a id="tea-sarvadarsanasangraha-rasesvara-11-12"></a>
+`skeleton` · confidence high · _restricted: summary only_
+
+Many among gods, daityas, sages and men are said in the Raseśvara doctrine to have gained a divine body by the power of mercury and reached liberation in life: gods beginning with Maheśa, daityas led by Kāvya, sages like the Vālakhilyas, kings like Someśvara, Govinda Bhagavatpāda, Govindanāyaka, Carvaṭi, Kapila, Vyāli, Kāpāli, Kandalāyana and many other siddhas who, having gained a body made of mercury, roam liberated in life.
+
+_level: conventional · standpoint: analytic · path: body-breath · stage: realized · types: teacher-transmission, powers-experiences_
+
+concepts: [Liberation in life in a stable body (Rasa)](../concepts/jivanmukti-rasa.md) · teachers: [Govinda (author of the Rasahṛdayatantra)](../teachers/govinda-rasahrdaya.md), [Carpaṭanātha](../teachers/carpatanatha.md), [Vyāḍi (the rasa-siddha)](../teachers/vyadi-rasasiddha.md)
+
+### rasesvara.18-22 <a id="tea-sarvadarsanasangraha-rasesvara-18-22"></a>
+`skeleton` · confidence high · _restricted: summary only_
+
+How is the divine body achieved? Through the eighteen processings (saṃskāra) of mercury, which the teachers say must first be learned with effort by the wise; their details were set out by ancient teachers such as Govinda Bhagavatpāda and Sarvajña Rāmeśvara Bhaṭṭāraka and are passed over here for fear of length.
+
+_level: conventional · standpoint: analytic · path: body-breath · stage: advanced · types: practice, teacher-transmission_
+
+concepts: [The eighteen processings of mercury](../concepts/eighteen-samskaras.md) · practices: [The processing of mercury (rasa-saṃskāra)](../practices/rasa-samskara.md) · teachers: [Govinda (author of the Rasahṛdayatantra)](../teachers/govinda-rasahrdaya.md), [Sarvajña Rāmeśvara Bhaṭṭāraka](../teachers/sarvajna-ramesvara.md)
+
+### rasesvara.23-25 <a id="tea-sarvadarsanasangraha-rasesvara-23-25"></a>
+`skeleton` · confidence high · _restricted: summary only_
+
+Rasa-śāstra is not to be thought to be only for metallurgy (dhātuvāda); its supreme purpose is liberation by way of transforming the body (dehavedha). The Rasārṇava: 'you gave me metal-transformation, lord; tell me body-transformation, by which the sky-going state may be' — 'as in metal, so in the body should mercury be applied by the good; it gives the same proof in body and metal: first test it on metal, afterward apply it to the body.'
+
+_level: conventional · standpoint: analytic · path: body-breath · stage: advanced · types: practice, karma-liberation_
+
+terms: [dehavedha](../terms/dehavedha.md), [lohavedha](../terms/lohavedha.md), [dhātuvāda](../terms/dhatuvada.md) · concepts: [Transformation of body and of metal](../concepts/dehavedha-lohavedha.md) · practices: [Transformation of the body (dehavedha)](../practices/dehavedha.md), [Metal transmutation (lohavedha / dhātuvāda)](../practices/lohavedha.md)
+
+### rasesvara.26-29 <a id="tea-sarvadarsanasangraha-rasesvara-26-29"></a>
+`skeleton` · confidence high · _restricted: summary only_
+
+Objection: liberation is accomplished by the manifestation of the supreme reality, being, consciousness and bliss — why this toil to produce a divine body? Reply: that is idle talk, for without a sound body there is no talk of it. The Rasahṛdaya: even when consciousness-bliss has flashed forth, what does it do for creatures to one whose body has not? A body worn by age is unfit for samādhi; a boy of sixteen is greedy for sense-pleasure, and the old man has lost discrimination — how can a mortal attain liberation?
+
+_level: bridging · standpoint: polemical · path: knowledge, body-breath · stage: advanced · types: dispute, karma-liberation_
+
+disputes: `dsp:is-bodily-immortality-required-for-liberation`
+
+### rasesvara.30-37 <a id="tea-sarvadarsanasangraha-rasesvara-30-37"></a>
+`skeleton` · confidence high · _restricted: summary only_
+
+Objection: living (jīvatva) means being in saṃsāra and liberation its opposite — how can they share one seat? Reply: liberation, accepted by all teachers, is either knowable or like a hare's horn; if knowable, life is not to be abandoned, for one who does not live cannot know. Nor is an eternal body unheard of: the followers of Viṣṇusvāmin establish the eternity of Nṛsiṃha's body, being, consciousness and bliss in form.
+
+_level: bridging · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, ultimate_
+
+concepts: [Liberation in life in a stable body (Rasa)](../concepts/jivanmukti-rasa.md) · disputes: `dsp:is-bodily-immortality-required-for-liberation`
+
+### rasesvara.38-44 <a id="tea-sarvadarsanasangraha-rasesvara-38-44"></a>
+`skeleton` · confidence high · _restricted: summary only_
+
+The body is the abode of all knowledge and the root of dharma, artha, kāma and mokṣa; what higher good is there than an ageless, deathless body? Only the lord of rasas can make it so. Its greatness: fruit from seeing and touching it; worship of the mercurial liṅga is more auspicious than all the liṅgas of Kāśī and the rest; and the one who scorns mercury incurs sin and is to be abandoned.
+
+_level: conventional · standpoint: devotional · path: devotion, body-breath · stage: all · types: karma-liberation, practice_
+
+concepts: [The mercurial liṅga and the worship of mercury](../concepts/rasalinga.md), [The divine body (divya-deha)](../concepts/divya-deha.md) · practices: [Worship of the mercurial liṅga](../practices/rasalinga-puja.md)
+
+### rasesvara.45-48 <a id="tea-sarvadarsanasangraha-rasesvara-45-48"></a>
+`skeleton` · confidence high · _restricted: summary only_
+
+Therefore, having produced the divine body in the way stated, and seen the supreme reality by the power of yoga practice, one attains the goal of man: the conscious light between the brows, illumining the world like fire, lightning and sun, opens for some of meritorious vision — supreme bliss, of the nature of light, free of conception, peaceful, self-known; placing the mind in it and seeing the whole world as consciousness, one whose bonds of karma are cut attains brahmanhood here itself.
+
+_level: ultimate · standpoint: experiential · path: meditation, body-breath · stage: realized · types: ultimate, karma-liberation, powers-experiences_
+
+concepts: [Liberation in life in a stable body (Rasa)](../concepts/jivanmukti-rasa.md)
+
+### rasesvara.49-51 <a id="tea-sarvadarsanasangraha-rasesvara-49-51"></a>
+`skeleton` · confidence high · _restricted: summary only_
+
+Scripture too says 'He is rasa; having obtained rasa one becomes blissful'; so it is established that rasa alone is the means of crossing the burden of suffering; a verse declares mercury's equality with the supreme brahman — may that mercury, which is brahman itself, protect us from the fear of wretched saṃsāra.
+
+_level: ultimate · standpoint: devotional · path: devotion, knowledge · stage: all · types: ultimate_
+
+concepts: [The Raseśvara-darśana](../concepts/rasesvara-darsana.md)
+
+
+_Notes: U30 contribution only: the Raseśvara chapter (ch. 9). Authorship and dating as given by the owning units._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U15-dvaita, skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U30-ayurveda-rasa, skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._

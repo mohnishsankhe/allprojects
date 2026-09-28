@@ -1,6 +1,6 @@
 # Essays on the Gita of Sri Aurobindo
 
-`src:essays-on-the-gita` · `skeleton` · confidence high · _recent (post-1800)_
+`src:essays-on-the-gita` · `sourced` · confidence high · _recent (post-1800)_
 
 **Language:** English
 **Family:** vedic
@@ -15,4 +15,8 @@
 Sri Aurobindo's essays reading the Gītā as a synthesis of the yogas of works, knowledge and devotion leading to the divine life.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Arya:_A_Philosophical_Review, https://www.sriaurobindoashram.org/sriaurobindo/downloadpdf.php?id=34 — Serialized in the Arya August 1916 – July 1920; book 1922, revised 1928.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

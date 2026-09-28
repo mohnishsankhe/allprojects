@@ -34,4 +34,4 @@ Bearing the pairs of opposites — hunger and thirst, cold and heat, standing an
 _Notes: Marked restricted because it includes prolonged fasting vows; summary and the text's own warning only._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U01-vedic-samhitas, skeleton:U03-principal-upanisads, skeleton:U18-saiva-siddhanta. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U01-vedic-samhitas, skeleton:U03-principal-upanisads, skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._

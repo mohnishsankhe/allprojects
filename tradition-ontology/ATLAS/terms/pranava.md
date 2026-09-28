@@ -14,12 +14,15 @@
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): The syllable Oṃ, whose three measures and half-measure are meditated upon; raised in the heart like a bell's sound.
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Oṃ as analysed into measures and taught as the means of meditation, the renouncer's only study, the 'thread' and the tāraka; of three, four, twelve or sixteen measures.
 - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): In the tirumantra, a-u-m teach that the soul (m) exists for the Lord (a) alone (u).
+- [Mantraśāstra (the science of mantras: the smārta-tantric mantra manuals)](../lineages/mantrasastra.md): Oṃ, the 'tāra', prefixed to mantras; its letters a, u, m are Brahmā, Viṣṇu and Rudra, and its subtle phases (bindu, ardhacandra, nirodhikā, nāda, nādānta, śakti, vyāpinī, samanā, unmanā) are traversed in meditative utterance.
+- [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md): The one word from which the Veda's knowledge springs, opposed to no doctrine (VP 1.9, low confidence).
 
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
 - exact: [oṃ](om.md) — praṇava is the name of the syllable Oṃ
+- exact: [oṃkāra](omkara.md) — same syllable; duplicate ids to be merged
 **Related:** [sarva-śabda-vācyatva](sarvasabdavacyatva.md), [so'ham](soham.md), [oṃ](om.md), [mātrā](matra.md), [ardhamātrā](ardhamatra.md), [tāraka](taraka.md)
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U15-dvaita, skeleton:U20-virasaiva, skeleton:U03-principal-upanisads, skeleton:U07-puranas, skeleton:U04-minor-upanisads, skeleton:U14-visistadvaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U15-dvaita, skeleton:U20-virasaiva, skeleton:U03-principal-upanisads, skeleton:U07-puranas, skeleton:U04-minor-upanisads, skeleton:U14-visistadvaita, skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._

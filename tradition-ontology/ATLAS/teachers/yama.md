@@ -1,6 +1,6 @@
 # Yama (Mṛtyu)
 
-`tch:yama` · `skeleton` · confidence high
+`tch:yama` · `sourced` · confidence high
 
 **Alternate names:** Mṛtyu, Vaivasvata, Dharmarāja
 **Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
@@ -12,4 +12,8 @@ Death, lord of the dead, as teacher of Naciketas: grants three boons, tests him 
 _Notes: U05's contribution; Yama as Naciketas's teacher in the Kaṭha Upaniṣad is covered by U03._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 3.281.12, 12.192.1, 12.193.3 — Located as described.
+
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

@@ -5,8 +5,8 @@
 **Family:** vedic
 **Alternate names:** Paścimāmnāya, Kulālikāmnāya, Śrīmata, Kubjikāmata, Western Transmission, Kujā cult, Paścimāmnāya of Kubjikā and Navātman
 **Parent:** [Kaula (the Kula tradition)](kaula.md)
-**Key teachers:** `tch:vimalaprabodha`
-**Regions:** Nepal (Kathmandu valley), the western Himalaya (Oḍḍiyāna, in the tradition's account), Konkan and the Deccan (Candradvīpa / Śrīśaila in the tradition's geography)
+**Key teachers:** [Vimalaprabodha](../teachers/vimalaprabodha.md)
+**Regions:** Nepal (Kathmandu valley), the western Himalaya (Oḍḍiyāna, in the tradition's account), Candradvīpa and Śrīśaila (the tradition's geography; locations debated)
 **Dates:** Tradition's account: The Goddess received the transmission at Candradvīpa and spread it from the western Himalaya (the 'western' of all paths) to Śrīśaila, Kiṣkindhā and Oḍḍiyāna (Kubjikāmata 2.20-40); Scholarly account: Kubjikāmata perhaps c. 10th c. or earlier; the Kubjikā cult survives in Nepal among Newar tantric priests; (confidence low)
 **Status:** living
 
@@ -37,13 +37,13 @@ Kubjikā ('the Bent One', Kujā), consort of Navātman/Kujeśa Bhairava, is the 
 **Caveat:** The Kubjikā ultimate is expressed through a secret mantra-maṇḍala system and lineage command; the tradition treats this knowledge as unshareable outside initiation, so any one-truth equation is at most an outer reading.
 
 ## Texts
-[Agni Purāṇa](../texts/agni-purana.md), `src:cincinimatasarasamuccaya`, `src:kubjikamata-tantra`, `src:kubjikopanisad`, `src:manthanabhairava-tantra`, `src:pascimamnaya-paddhatis-nepal`, `src:satsahasra-samhita`, `src:srimatottara-tantra`
+[Agni Purāṇa](../texts/agni-purana.md), [Ciñciṇīmatasārasamuccaya](../texts/cincinimatasarasamuccaya.md), [Kubjikāmata Tantra](../texts/kubjikamata-tantra.md), [Kubjikā Upaniṣad](../texts/kubjikopanisad.md), [Manthānabhairava Tantra](../texts/manthanabhairava-tantra.md), [Paścimārcanapaddhati (Vimalaprabodha)](../texts/pascimarcana-paddhati.md), [Ṣaṭsāhasrasaṃhitā](../texts/satsahasra-samhita.md), [Śrīmatottara Tantra](../texts/srimatottara-tantra.md)
 
 ## Teachers
-`tch:vimalaprabodha`
+[Vimalaprabodha](../teachers/vimalaprabodha.md)
 
 ## Practices
-_none recorded_
+[Devotion to the teacher (guru-bhakti)](../practices/guru-bhakti.md), [Yogic departure from the body (utkrānti)](../practices/utkranti.md)
 
 ## Path maps
 _none recorded_
@@ -52,4 +52,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-28 09:07 IST._

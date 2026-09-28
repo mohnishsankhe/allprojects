@@ -15,9 +15,10 @@
 - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): Enjoyment of one's own self apart from the Lord; a lesser goal.
 - [Vaṭakalai (northern school of Śrīvaiṣṇavism)](../lineages/vadakalai.md): Not permanent.
 - [Teṅkalai (southern school of Śrīvaiṣṇavism)](../lineages/tenkalai.md): Permanent, with no return.
+- [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md): In HYP 4.62 kaivalya is what remains when the mind dissolves by abandoning the knowable.
 
 ## Relations (interpretation layer)
 - is-a → [Liberation (mokṣa) in Dvaita](moksa.md): Sāṃkhya's account of liberation — rests on [68](../texts/samkhya-karika.md#tea-samkhya-karika-68)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U14-visistadvaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U14-visistadvaita, skeleton:U28-hatha-texts. Generated 2026-09-28 09:07 IST._

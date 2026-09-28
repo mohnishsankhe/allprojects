@@ -13,4 +13,4 @@
 - part-of → [The fourteen worlds (caturdaśa bhuvana)](fourteen-worlds.md)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

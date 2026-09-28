@@ -15,7 +15,7 @@
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-**Related:** [bhakti](bhakti.md), [ananya-bhakti](ananya-bhakti.md), [jñāna-yoga](jnana-yoga.md), [karma-yoga](karma-yoga.md)
+**Related:** [bhakti](bhakti.md), [ananya-bhakti](ananya-bhakti.md), [jñānayoga](jnana-yoga.md), [karmayoga](karma-yoga.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U14-visistadvaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._

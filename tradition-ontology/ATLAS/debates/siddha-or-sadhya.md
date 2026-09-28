@@ -42,4 +42,4 @@ The Upaniṣads are authoritative about Brahman, an existent reality, because th
 _Notes: Related to dsp:works-knowledge-grace (U50), which concerns the soteriological side._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

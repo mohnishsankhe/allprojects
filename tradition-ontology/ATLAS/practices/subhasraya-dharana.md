@@ -12,4 +12,4 @@ With breath and senses mastered, fix the mind on Viṣṇu's form as the ground 
 **Sequences:** [Keśidhvaja's yoga (VP 6.7)](../paths/visnu-purana-yoga.md)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

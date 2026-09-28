@@ -18,4 +18,4 @@ In the Devī Gītā's daily worship: placing the letters (mātṛkā-nyāsa) and
 _Notes: U06 contribution to a shared practice id._
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._

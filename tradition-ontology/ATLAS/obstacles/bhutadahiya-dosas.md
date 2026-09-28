@@ -16,4 +16,4 @@ Anger, exultation, wrath, greed, delusion, hypocrisy, malice, lying, gluttony, s
 - analogous: `obs:klesas` — a list of mental faults removed by yoga, as the afflictions in the Yoga Sūtra
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

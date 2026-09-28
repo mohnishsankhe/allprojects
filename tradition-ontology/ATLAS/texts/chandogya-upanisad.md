@@ -186,7 +186,7 @@ The light that shines beyond this heaven, on the backs of all, in the highest wo
 
 _level: bridging · standpoint: experiential · path: meditation · stage: intermediate · types: powers-experiences, body-layers_
 
-terms: [jyotis](../terms/jyotis.md) · practices: [Listening to the inner sound](../practices/nadanusandhana.md)
+terms: [jyotis](../terms/jyotis.md) · practices: [Attention to the inner sound (nādānusandhāna) in the haṭha texts](../practices/nadanusandhana.md)
 
 ### 3.14.1 <a id="tea-chandogya-upanisad-3-14-1"></a>
 `skeleton` · confidence high
@@ -691,7 +691,7 @@ Nārada approaches Sanatkumāra: he has studied the four Vedas, the itihāsa-pur
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: intermediate · types: teacher-transmission_
 
-concepts: [Higher and lower knowledge](../concepts/para-apara-jnana.md) · obstacles: [Sorrow (śoka)](../obstacles/soka.md) · teachers: [Nārada](../teachers/narada.md), [Sanatkumāra](../teachers/sanatkumara.md)
+concepts: [Higher and lower knowledge](../concepts/para-apara-jnana.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Nārada](../teachers/narada.md), [Sanatkumāra](../teachers/sanatkumara.md)
 
 ### 7.1.3-7.15.4 <a id="tea-chandogya-upanisad-7-1-3-7-15-4"></a>
 `skeleton` · confidence high
@@ -729,7 +729,7 @@ Where one sees nothing else, hears nothing else, understands nothing else — th
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [bhūman](../terms/bhuman.md), [amṛtatva / amṛta](../terms/amrtatva.md) · concepts: [Plenitude (bhūman)](../concepts/bhuman.md) · teachers: [Sanatkumāra](../teachers/sanatkumara.md)
+terms: [bhūman](../terms/bhuman.md), [amṛtatva](../terms/amrtatva.md) · concepts: [Plenitude (bhūman)](../concepts/bhuman.md) · teachers: [Sanatkumāra](../teachers/sanatkumara.md)
 
 ### 7.25.1-2 <a id="tea-chandogya-upanisad-7-25-1-2"></a>
 `skeleton` · confidence high
@@ -906,10 +906,10 @@ Brahmā taught this to Prajāpati, Prajāpati to Manu, Manu to his creatures. Ha
 
 _level: conventional · standpoint: ethical-social · path: action, knowledge · stage: all · types: ethics, karma-liberation, teacher-transmission_
 
-terms: [svādhyāya](../terms/svadhyaya.md), [brahmaloka](../terms/brahmaloka.md) · concepts: [Stages of life (āśrama)](../concepts/asramas.md) · practices: [Self-study (svādhyāya)](../practices/svadhyaya.md), [Non-harming (ahiṃsā)](../practices/ahimsa.md), [Sense-withdrawal (pratyāhāra)](../practices/pratyahara.md) · teachers: [Brahmā (as first teacher)](../teachers/brahma.md), [Prajāpati (as teacher)](../teachers/prajapati.md), [Manu Vaivasvata](../teachers/manu-vaivasvata.md)
+terms: [svādhyāya](../terms/svadhyaya.md), [brahmaloka](../terms/brahmaloka.md) · concepts: [Stages of life (āśrama)](../concepts/asramas.md) · practices: [Self-study (svādhyāya)](../practices/svadhyaya.md), [Non-harming (ahiṃsā)](../practices/ahimsa.md), [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md) · teachers: [Brahmā (as first teacher)](../teachers/brahma.md), [Prajāpati (as teacher)](../teachers/prajapati.md), [Manu Vaivasvata](../teachers/manu-vaivasvata.md)
 
 
 _Notes: Forms prapathakas 3-10 of the Chāndogya Brāhmaṇa, whose first two prapathakas are the Mantra Brāhmaṇa (src:mantra-brahmana, U02) (moderate confidence). Veda affiliation: Sāmaveda, Kauthuma-Ranayaniya tradition_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

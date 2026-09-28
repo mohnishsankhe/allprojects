@@ -8,7 +8,7 @@
 **Places:** Bannūr (birth, tradition), Mulbagal (studies), Vijayanagara (Hampi), Nava Brindāvana (Ānegondi)
 **Historicity:** historical
 **Teachers:** [Brahmaṇya Tīrtha](brahmanya-tirtha.md), [Śrīpādarāja](sripadaraja.md)
-**Students:** [Vijayīndra Tīrtha](vijayindra-tirtha.md), `tch:purandara-dasa`, `tch:kanaka-dasa`
+**Students:** [Vijayīndra Tīrtha](vijayindra-tirtha.md), [Purandara Dāsa](purandara-dasa.md), `tch:kanaka-dasa`
 **Works:** 
   - [Nyāyāmṛta](../texts/nyayamrta.md) — attribution: accepted
   - [Tarkatāṇḍava](../texts/tarkatandava.md) — attribution: accepted
@@ -20,4 +20,4 @@ The foremost dialectician of Dvaita and rājaguru of the Vijayanagara court (und
 **Realization — the tradition's account:** The tradition regards Vyāsatīrtha as a rebirth of Prahlāda (after Bāhlīka of the Mahābhārata), later reborn as Rāghavendra; it tells that he sat on the Vijayanagara throne to avert an inauspicious conjunction (kuhu-yoga) that threatened the king, and that he installed 732 images of Hanumān.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._

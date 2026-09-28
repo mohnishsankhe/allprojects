@@ -16,4 +16,4 @@
 _Notes: Not the three guṇas of prakṛti; the AS calls Brahman 'nirguṇa' with respect to those._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._

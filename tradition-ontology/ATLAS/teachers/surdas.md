@@ -2,7 +2,7 @@
 
 `tch:surdas` · `skeleton` · confidence high
 
-**Lineages:** [Puṣṭimārga (Vallabha Sampradāya; Śuddhādvaita Brahmavāda)](../lineages/pustimarga.md), `lin:sant`
+**Lineages:** [Puṣṭimārga (Vallabha Sampradāya; Śuddhādvaita Brahmavāda)](../lineages/pustimarga.md), [Sant tradition (nirguṇa bhakti of North India)](../lineages/sant.md)
 **Dates:** Tradition's account: c. 1478–1583 CE; Scholarly account: 16th c. CE; (confidence low)
 **Historicity:** historical
 **Teachers:** [Vallabhācārya (Śrī Vallabha, Mahāprabhujī)](vallabha.md)
@@ -15,4 +15,4 @@ Blind Braj Bhāṣā poet-singer of Kṛṣṇa's childhood and the gopīs' love
 _Notes: Registry id; primary owner U26/U27. Scholarly account: the sectarian link rests on Vallabhan sources only._
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._

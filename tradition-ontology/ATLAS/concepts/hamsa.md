@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [The ajapā-gāyatrī (unrecited mantra)](ajapa-gayatri.md) (sound): Viewed as a mantra the haṃsa is the ajapā-gāyatrī. — rests on [61-65](../texts/dhyanabindu-upanisad.md#tea-dhyanabindu-upanisad-61-65), [3-hamsa-mantra](../texts/hamsa-upanisad.md#tea-hamsa-upanisad-3-hamsa-mantra)
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

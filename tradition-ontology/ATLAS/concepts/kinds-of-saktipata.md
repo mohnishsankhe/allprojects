@@ -15,4 +15,4 @@
 _Notes: Nine-grade scheme recalled from TĀ 13 / Tantrasāra 11 (chapter level)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

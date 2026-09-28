@@ -5,7 +5,7 @@
 **Original title:** षड्दर्शनसमुच्चय
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** `lin:svetambara`, [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md)
+**Lineages:** [Śvetāmbara](../lineages/svetambara.md), [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md)
 **Genre:** doxography (verse)
 **Attribution:** tradition: Rājaśekhara Sūri; scholarly: the Jain Rājaśekhara Sūri, 1348 CE; confidence: moderate
 **Dates:** Scholarly account: 14th c. (1348 CE); (confidence moderate)
@@ -28,4 +28,4 @@ concepts: [The Pāśupata line of tīrthakaras](../concepts/pasupata-tirthakaras
 
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 09:07 IST._

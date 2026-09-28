@@ -1,6 +1,6 @@
 # Sāmaveda Saṃhitā (Kauthuma)
 
-`src:samaveda` · `skeleton` · confidence high
+`src:samaveda` · `sourced` · confidence high
 
 **Alternate titles:** Sāmaveda, Chandas-ārcika
 **Original title:** सामवेदसंहिता
@@ -21,10 +21,10 @@ The Veda of chants: verses (ṛc), nearly all taken from the Ṛgveda (mostly bo
   - kind: original; name: Satyavrata Sāmaśramī, Sāmaveda-Saṃhitā with Sāyaṇa (Calcutta 1874–78); licence: public domain
   - kind: translation; name: R. T. H. Griffith, The Hymns of the Samaveda (1893); licence: public domain
 
-## Teachings (1: skeleton 1)
+## Teachings (1: sourced 1)
 
 ### 1 <a id="tea-samaveda-1"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Come, Agni, praised, to the feast, to the giving of oblations; sit as hotṛ on the sacred grass — the first verse of the Pūrvārcika (= Ṛgveda 6.16.10), the text of the first melody.
 
@@ -36,4 +36,8 @@ terms: [agni](../terms/agni.md), [sāman](../terms/saman.md), [ārcika](../terms
 _Notes: Verse counts from memory; the Pūrvārcika opens with 'agna ā yāhi vītaye' (= RV 6.16.10), as checked in the local Griffith dataset._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/samaveda-samhita.md, text:sources_raw/DharmicData/Samaveda/Samaveda.json (Griffith, 1,794 records), https://en.wikipedia.org/wiki/Kauthuma_Samhita, https://en.wikipedia.org/wiki/Samaveda, https://vedicheritage.gov.in/samhitas/ — Extant. 1,875 mantras (Pūrvārcika 650, Uttarārcika 1,225) confirmed (Kauthuma Samhita article); Griffith's local dataset has 1,794 records (entry: c. 1,800). Non-Ṛgvedic verses: Wikipedia gives 75 (on the 1,549 unique verses), the Vedic Heritage Portal 99 — the entry's 'some 75 … (counts differ)' is acceptable. Witzel dates the Saṃhitā c. 1200–1000 BCE, as in the entry. Pūrvārcika opens with RV 6.16.10 (located). Jaimini as receiver of the Sāmaveda is the tradition's account (Bhāgavata 1.4.21, located).
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

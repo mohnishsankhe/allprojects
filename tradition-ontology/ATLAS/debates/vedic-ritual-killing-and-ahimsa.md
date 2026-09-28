@@ -20,11 +20,11 @@ The Vedic means are impure (aviśuddhi) because they involve killing; their frui
 - the general prohibition 'do not harm any being' is not cancelled by the special injunction
 **Texts:** 
   - [Sāṃkhya Kārikā](../texts/samkhya-karika.md) — ref: 2
-### `lin:jainism`
+### [Jainism (Jaina dharma)](../lineages/jainism.md)
 Injury to living beings is never dharma, whether in ritual or not; the Śramaṇa traditions reject animal sacrifice.
 - non-injury as the highest dharma
 **Texts:** 
-  - `src:acaranga-sutra` — ref: 1.4
+  - [Ācārāṅga Sūtra](../texts/acaranga-sutra.md) — ref: 1.4
 
 ## Reconciliation (interpretation layer)
 **Status:** not yet reconciled (queued)
@@ -34,4 +34,4 @@ Injury to living beings is never dharma, whether in ritual or not; the Śramaṇ
 _Notes: Sāṃkhya and Jain sides summarized at text level from memory; their own units hold the verse-anchored teachings._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

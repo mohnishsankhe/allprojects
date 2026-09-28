@@ -11,4 +11,4 @@ One of the sixty-three Nāyaṉmārs. A Pulaiya (outcaste) labourer who supplied
 **Realization — the tradition's account:** A Pulaiya (outcaste) labourer who supplied leather and strings for temple drums; at Tiruppuṅkūr Śiva moved the bull Nandi aside so he could see; long saying 'I will go to Tillai tomorrow', he at last reached Chidambaram where, at Śiva's command conveyed to the priests, he passed through fire, rose as a brahmin sage and entered the sanctum, never to be seen again.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._

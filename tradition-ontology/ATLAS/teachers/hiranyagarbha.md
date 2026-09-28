@@ -1,6 +1,6 @@
 # Hiraṇyagarbha
 
-`tch:hiranyagarbha` · `skeleton` · confidence moderate
+`tch:hiranyagarbha` · `sourced` · confidence moderate
 
 **Alternate names:** Pitāmaha (Brahmā) as first teacher of yoga
 **Lineages:** [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md)
@@ -13,4 +13,8 @@ The tradition's founder of yoga. The Yoga commentators (Vācaspati, Vijñānabhi
 _Notes: The Mahābhārata reference (Nārāyaṇīya, c. MBh 12.337 CE) and a reported Ahirbudhnya Saṃhitā passage on a Hairaṇyagarbha yoga śāstra are from memory and need checking._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 12.337.60 (hiraṇyagarbho yogasya vettā) — Located as described.
+
+_Contributed by: skeleton:U10-yoga, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

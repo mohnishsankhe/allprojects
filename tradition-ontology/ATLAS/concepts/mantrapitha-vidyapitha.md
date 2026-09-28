@@ -15,4 +15,4 @@
 _Notes: The Kāmika says only that the Bhairava tantra is 'twofold'; the names Mantrapīṭha/Vidyāpīṭha are from other scriptures (e.g. Jayadrathayāmala) and scholarly synthesis._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._

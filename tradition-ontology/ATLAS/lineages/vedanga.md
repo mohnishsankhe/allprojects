@@ -5,7 +5,7 @@
 **Family:** vedic
 **Alternate names:** ṣaḍaṅga, the six auxiliary sciences of the Veda, vedāṅgāni
 **Parent:** [Vedic Śrauta tradition (the Saṃhitā lineages)](vedic-srauta.md)
-**Sub-lineages:** `lin:vyakarana`, `lin:jyotisa`, [Nairukta school (the Vedic etymologists)](nairukta.md), [Aitihāsikas (the legend-school of Vedic interpretation)](aitihasika.md), [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](dharmasastra.md)
+**Sub-lineages:** [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](vyakarana.md), [Jyotiṣa (the science of the lights)](jyotisa.md), [Nairukta school (the Vedic etymologists)](nairukta.md), [Aitihāsikas (the legend-school of Vedic interpretation)](aitihasika.md), [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](dharmasastra.md)
 **Key teachers:** [Pāṇini](../teachers/panini.md), [Kātyāyana](../teachers/katyayana.md), [Patañjali (the grammarian)](../teachers/patanjali-grammarian.md), [Yāska](../teachers/yaska.md), [Piṅgalā](../teachers/pingala.md), [Lagadha](../teachers/lagadha.md), [Śaunaka (of Naimiṣa)](../teachers/saunaka.md), [Śākalya](../teachers/sakalya.md), [Śākaṭāyana (the ancient grammarian)](../teachers/sakatayana.md), [Āpastamba](../teachers/apastamba.md), [Baudhāyana](../teachers/baudhayana.md), [Āśvalāyana](../teachers/asvalayana.md)
 **Regions:** Gandhāra and the north-west (Pāṇini's Śalātura, by tradition), Madhyadeśa and the Gangetic plain, South India (the Taittirīya schools of Āpastamba and Baudhāyana)
 **Dates:** Tradition's account: The limbs are as old as the Veda's transmission; the tradition says later seers, lacking the direct vision of the first seers, compiled the Veda and its limbs for ease of learning (Nirukta 1.20).; Scholarly account: Principal sūtra works c. 6th/5th c. BCE – 2nd c. BCE (Yāska, Pāṇini, Prātiśākhyas, Kalpasūtras, Kātyāyana, Patañjali), with commentaries continuing to the present; (confidence low)
@@ -25,8 +25,8 @@ The six auxiliary sciences through which the Vedic schools preserved, pronounced
 **Transmissions received:** 
   - [Vedic Śrauta tradition (the Saṃhitā lineages)](vedic-srauta.md) — what: the Saṃhitā texts, their recitation and the Brāhmaṇa ritual that the six limbs exist to preserve, interpret and time; evidence: MuU 1.1.5 lists the six limbs after the four Vedas; PŚ 41–42; Mahābhāṣya, Paspaśā
 **Transmissions given:** 
-  - `lin:vyakarana` — what: Pāṇinian grammar grew into an independent school with its own philosophy of language (sphoṭa, śabda-brahman) — covered by U31
-  - `lin:jyotisa` — what: Vedic time-reckoning (Vedāṅga Jyotiṣa) as the first text of the later astral science — covered by U32
+  - [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](vyakarana.md) — what: Pāṇinian grammar grew into an independent school with its own philosophy of language (sphoṭa, śabda-brahman) — covered by U31
+  - [Jyotiṣa (the science of the lights)](jyotisa.md) — what: Vedic time-reckoning (Vedāṅga Jyotiṣa) as the first text of the later astral science — covered by U32
   - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](dharmasastra.md) — what: the Dharmasūtras are the dharma part of the Kalpasūtras; the smṛti tradition grew out of them
   - [Mīmāṃsā (Pūrva Mīmāṃsā)](mimamsa.md) — what: Kalpa and Brāhmaṇa exegesis (injunction, explanatory passage, ritual application) is the material Mīmāṃsā systematizes
 
@@ -55,4 +55,4 @@ _none recorded_
 [Do the Vedic mantras have meaning, or are they effective sound only?](../debates/are-mantras-meaningful.md), [Are the gods person-like in form (puruṣavidha) or not?](../debates/form-of-the-gods.md)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

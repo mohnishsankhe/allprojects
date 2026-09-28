@@ -24,7 +24,7 @@ The Vaiṣṇava Vedānta of Nimbārka: Brahman as Kṛṣṇa with Rādhā, and
 
 **Transmissions given:** 
   - [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](gaudiya-vaisnava.md) — what: Keśava Kāśmīrin's Kramadīpikā (Kṛṣṇa-mantra liturgy) used in Gauḍīya ritual codes (low confidence)
-  - `lin:haridasi` — what: the Haridāsī tradition of Svāmī Haridās is sometimes affiliated to the Nimbārka line (contested)
+  - [Haridāsī sampradāya (Sakhī sampradāya)](haridasi.md) — what: the Haridāsī tradition of Svāmī Haridās is sometimes affiliated to the Nimbārka line (contested)
 
 ## The ultimate in this lineage
 `skeleton` · confidence moderate
@@ -40,7 +40,7 @@ The Vaiṣṇava Vedānta of Nimbārka: Brahman as Kṛṣṇa with Rādhā, and
 [Brahma Sūtra](../texts/brahma-sutra.md), [Daśaślokī (Siddhāntaratna; Vedāntakāmadhenu)](../texts/dasasloki.md), [Gopālatāpanī Upaniṣad](../texts/gopalatapani-upanisad.md), [Vedāntakaustubhaprabhā](../texts/kaustubha-prabha.md), [Kramadīpikā](../texts/kramadipika.md), [Śrīkṛṣṇastavarāja](../texts/krsnastavaraja.md), [Mahāvāṇī](../texts/mahavani.md), [Parapakṣagirivajra](../texts/parapaksa-giri-vajra.md), [Siddhāntajāhnavī](../texts/siddhanta-jahnavi.md), [Siddhāntaratnāñjali](../texts/siddhanta-ratnanjali.md), [Śrutyantasuradruma](../texts/srutyanta-suradruma.md), [Tattvaprakāśikā of Keśava Kāśmīrī Bhaṭṭa](../texts/tattvaprakasika-kesava-kasmiri.md), [Tattvaprakāśikā (Gītā commentary of Keśava Kāśmīrin)](../texts/tattvaprakasika-kesava-kasmirin.md), [Vedāntakaustubha](../texts/vedanta-kaustubha.md), [Vedāntapārijātasaurabha](../texts/vedanta-parijata-saurabha.md), [Vedāntaratnamañjūṣā](../texts/vedanta-ratna-manjusa.md), [Yugalaśataka](../texts/yugalasataka.md)
 
 ## Teachers
-[Devācārya](../teachers/devacarya.md), [Harivyāsadeva](../teachers/harivyasa-deva.md), [Keśava Kāśmīrī Bhaṭṭa](../teachers/kesava-kasmiri.md), [Keśava Kāśmīrin Bhaṭṭa](../teachers/kesava-kasmirin.md), [Mādhava Mukunda](../teachers/madhava-mukunda.md), [Nārada](../teachers/narada.md), [Nimbārka (Nimbāditya, Niyamānanda)](../teachers/nimbarka.md), [Paraśurāma Devācārya](../teachers/parasurama-devacarya.md), [Puruṣottamācārya (of the Nimbārka school)](../teachers/purusottamacarya-nimbarka.md), [Śrī Bhaṭṭa](../teachers/sri-bhatta.md), [Śrīnivāsācārya (of the Nimbārka school)](../teachers/srinivasa-nimbarka.md)
+[Āśudhīra](../teachers/asudhira.md), [Devācārya](../teachers/devacarya.md), [Harivyāsadeva](../teachers/harivyasa-deva.md), [Keśava Kāśmīrī Bhaṭṭa](../teachers/kesava-kasmiri.md), [Keśava Kāśmīrin Bhaṭṭa](../teachers/kesava-kasmirin.md), [Mādhava Mukunda](../teachers/madhava-mukunda.md), [Nārada](../teachers/narada.md), [Nimbārka (Nimbāditya, Niyamānanda)](../teachers/nimbarka.md), [Paraśurāma Devācārya](../teachers/parasurama-devacarya.md), [Puruṣottamācārya (of the Nimbārka school)](../teachers/purusottamacarya-nimbarka.md), [Śrī Bhaṭṭa](../teachers/sri-bhatta.md), [Śrīnivāsācārya (of the Nimbārka school)](../teachers/srinivasa-nimbarka.md)
 
 ## Practices
 [Surrender to the guru (gurūpasatti)](../practices/gurupasatti.md), [Surrender (prapatti / śaraṇāgati)](../practices/prapatti.md), [Worship of the divine couple (yugala-upāsanā)](../practices/yugala-upasana.md)
@@ -49,7 +49,7 @@ The Vaiṣṇava Vedānta of Nimbārka: Brahman as Kṛṣṇa with Rādhā, and
 _none recorded_
 
 ## Debates
-[Is the individual self atomic or all-pervading?](../debates/atomic-or-pervasive-self.md), [Is the difference between Brahman and the soul due to adjuncts, natural, or inconceivable?](../debates/aupadhika-vs-svabhavika-bhedabheda.md), [What is Rādhā's status — scriptural basis, relation to Kṛṣṇa, and place in worship?](../debates/status-of-radha.md), [Is the gopīs' (and Rādhā's) love for Kṛṣṇa paramour love (parakīyā) or wedded love (svakīyā) in truth?](../debates/svakiya-parakiya.md)
+[Is the individual self atomic or all-pervading?](../debates/atomic-or-pervasive-self.md), [Is the difference between Brahman and the soul due to adjuncts, natural, or inconceivable?](../debates/aupadhika-vs-svabhavika-bhedabheda.md), [Is the Haridāsī (Sakhī) sampradāya a branch of the Nimbārka sampradāya or an independent tradition?](../debates/haridasi-nimbarka-affiliation.md), [What is Rādhā's status — scriptural basis, relation to Kṛṣṇa, and place in worship?](../debates/status-of-radha.md), [Is the gopīs' (and Rādhā's) love for Kṛṣṇa paramour love (parakīyā) or wedded love (svakīyā) in truth?](../debates/svakiya-parakiya.md)
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._

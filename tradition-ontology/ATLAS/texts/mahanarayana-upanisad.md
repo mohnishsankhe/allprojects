@@ -40,4 +40,4 @@ concepts: [Renunciation (saṃnyāsa) in the principal Upaniṣads](../concepts/
 _Notes: Not the Muktikā's 'Mahānārāyaṇa' (that is the Atharvan Tripādvibhūti-Mahānārāyaṇa). Numbered 19 in the Nirṇayasāgara collection._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

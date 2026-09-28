@@ -44,7 +44,7 @@ The Navarātra vow of the Goddess: worship for nine nights in autumn (and spring
 
 _level: conventional · standpoint: ritual · path: ritual, devotion · stage: all · types: practice_
 
-terms: [navarātra](../terms/navaratra.md) · practices: [The Navarātra vow of the Goddess](../practices/navaratri-vrata.md)
+terms: [navarātra](../terms/navaratra.md) · practices: [The Navarātri observance](../practices/navaratri-vrata.md)
 
 ### 12.10-12 <a id="tea-devi-bhagavata-purana-12-10-12"></a>
 `skeleton` · confidence moderate
@@ -59,4 +59,4 @@ terms: [maṇidvīpa](../terms/manidvipa.md) · concepts: [Maṇidvīpa and Śr�
 _Notes: Devī Gītā = Skandha 7 chs. 31-40 (U06/U23 own src:devi-gita); Maṇidvīpa = Skandha 12 chs. 10-12; Navarātra vow in Skandha 3; Skandha 9 parallels the Brahmavaivarta's Prakṛti-khaṇḍa. No local e-text: chapter locators from memory (moderate/low)._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

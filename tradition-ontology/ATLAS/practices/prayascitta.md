@@ -13,4 +13,4 @@ Rites that make good lapses in worship, breaches of observance and pollutions of
   - [Mīmāṃsā Sūtra](../texts/mimamsa-sutra.md) — ref: 6.4
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

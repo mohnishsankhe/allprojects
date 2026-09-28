@@ -37,4 +37,4 @@ disputes: [Is the Kāpālika way (skull vow, insignia, liquor, consort, Bhairava
 _Notes: Not found in this run's local corpus; act-level references only._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 09:07 IST._

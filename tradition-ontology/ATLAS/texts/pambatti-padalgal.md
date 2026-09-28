@@ -15,7 +15,28 @@
 
 Songs with the refrain 'āṭu pāmpē' ('dance, O snake!'), addressed to the snake: praise of Śiva and the guru, the impermanence and filth of the body, the uselessness of learning, caste and ritual for liberation, and the inner ascent. Later readers take the snake as the coiled power (kuṇṭali) within.
 
+## Teachings (2: skeleton 2)
+
+### passim <a id="tea-pambatti-padalgal-learning-and-caste"></a>
+`skeleton` · confidence low
+
+The Vedas, śāstras, tantras, purāṇas and other learned books, caste distinctions and ritual observances are declared useless for reaching the Lord; the snake is told to dance scorning them.
+
+_level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: dispute_
+
+concepts: [The Siddhar critique of scripture and learning](../concepts/siddhar-critique-of-scripture-and-learning.md), [The Siddhar critique of caste](../concepts/siddhar-critique-of-caste.md) · teachers: [Pāmbāṭṭi (Pāmpāṭṭic cittar)](../teachers/pambatti.md) · disputes: [Do the Siddhars accept the Veda (and scripture generally) or reject it?](../debates/siddhar-veda-and-scripture.md), `dsp:women-caste-liberation`
+
+### refrain <a id="tea-pambatti-padalgal-refrain"></a>
+`skeleton` · confidence low
+
+The songs bid the snake, its hood spread, to dance ('āṭu pāmpē') because it has seen the feet of the Lord; the dance of the snake is the singer's image for the ecstatic realization of Śiva.
+
+_level: unmarked · standpoint: experiential · path: devotion, body-breath · stage: advanced · types: powers-experiences, ultimate_
+
+concepts: [Kuṇḍalinī](../concepts/kundalini.md) · teachers: [Pāmbāṭṭi (Pāmpāṭṭic cittar)](../teachers/pambatti.md)
+
+
 _Notes: Not in the local e-text set. The snake=kuṇṭali reading is an interpretation, recorded as such._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._

@@ -1,6 +1,6 @@
 # Śrīdhara Svāmin
 
-`tch:sridhara-svamin` · `skeleton` · confidence moderate
+`tch:sridhara-svamin` · `sourced` · confidence moderate
 
 **Alternate names:** Śrīdhara
 **Lineages:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Advaita Vedānta](../lineages/advaita-vedanta.md), [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md)
@@ -15,4 +15,8 @@
 The most influential commentator on the Bhāgavata and the Viṣṇu Purāṇa (and on the Gītā, Subodhinī), a renunciant whose non-dualism is devotional (Narasiṃha-bhakti); later Vaiṣṇava schools build on or argue with his readings.
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U16-bhedabheda, skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/history/book/studies-in-indian-literary-history/d/doc1474985.html — Confirmed, including the c. 1350–1450 date.
+
+_Contributed by: skeleton:U07-puranas, skeleton:U16-bhedabheda, skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:vyakarana`
+**Lineages:** [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md)
 **Genre:** vyākaraṇa
 **Authors:** 
   - [Bopadeva](../teachers/bopadeva.md) — role: author; attribution: accepted
@@ -14,4 +14,4 @@
 Bopadeva's short non-Pāṇinian grammar, much used in Bengal.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

@@ -1,6 +1,6 @@
 # The funeral hymns (Ṛgveda 10.14–18)
 
-`src:rgveda-funeral-hymns` · `skeleton` · confidence high
+`src:rgveda-funeral-hymns` · `sourced` · confidence high
 
 **Alternate titles:** Yama Sūkta (10.14), Pitṛ Sūkta (10.15), Pitṛmedha hymns
 **Original title:** यमसूक्तादि
@@ -20,4 +20,8 @@ The hymns for the dead: homage to Yama, first of mortals to find the path to the
 _Notes: Seers per the Anukramaṇī: 10.14 Yama Vaivasvata; 10.15 Śaṅkha Yāmāyana; 10.16 Damana Yāmāyana; 10.17 Devaśravas Yāmāyana; 10.18 Saṅkusuka Yāmāyana (checked in the local text)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/1_rv/rgveda_mandala_10.md (GRETIL, Van Nooten–Holland/Aufrecht), text:sources_raw/DharmicData/Rigveda/rigveda_mandala_10.json (Anukramaṇī seer/deity/metre headers) — Hymn located in the local Śākala text. Seers per header: 10.14 Yama Vaivasvata, 10.15 Śaṅkha Yāmāyana, 10.16 Damana Yāmāyana, 10.17 Devaśravas Yāmāyana, 10.18 Saṃkusuka Yāmāyana — all confirmed.
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

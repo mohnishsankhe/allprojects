@@ -3,7 +3,7 @@
 `tch:laksmana-desika` · `skeleton` · confidence low
 
 **Alternate names:** Lakṣmaṇadeśikendra
-**Lineages:** `lin:mantrasastra`
+**Lineages:** [Mantraśāstra (the science of mantras: the smārta-tantric mantra manuals)](../lineages/mantrasastra.md)
 **Dates:** Scholarly account: c. 11th–12th c.; (confidence low)
 **Historicity:** historical
 **Works:** 
@@ -14,4 +14,4 @@ Author of the Śāradātilaka, a manual of mantra-śāstra widely used as an aut
 _Notes: His identification with Abhinavagupta's teacher Lakṣmaṇagupta is sometimes proposed; not accepted here._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._

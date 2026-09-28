@@ -1,6 +1,6 @@
 # The eight modified recitations (vikṛti)
 
-`prc:vikrti-pathas` · `skeleton` · confidence low
+`prc:vikrti-pathas` · `sourced` · confidence low
 
 **Category:** mantra-sound
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -13,4 +13,8 @@ Jaṭā, mālā, śikhā, rekhā, dhvaja, daṇḍa, ratha and ghana: permutatio
 _Notes: List as traditionally given; the source ascription is low-confidence._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/vikritivalli, https://www.researchgate.net/publication/397407528_Memory_Techniques_in_the_Vedic_Oral_Tradition_and_Their_Application_in_Education — List of eight confirmed (jaṭā, mālā, śikhā, rekhā/lekhā, dhvaja, daṇḍa, ratha, ghana — Vikṛtivallī 1.5); ascription to Vyāḍi confirmed.
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

@@ -33,4 +33,4 @@ The Nāradaparivrājaka itself says that renouncing without dispassion causes a 
 **The traditions' own objections:** Ritualists (Mīmāṃsā) hold that lifelong Vedic duties cannot be set aside; the Jābāla's partisans hold that dispassion alone decides, whatever one's stage.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

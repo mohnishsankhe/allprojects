@@ -199,7 +199,7 @@ The central channel (madhyanāḍī), situated in the middle, [is to be meditate
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: unmarked · types: practice, body-layers_
 
-terms: [suṣumṇā](../terms/susumna.md), [madhya](../terms/madhya.md) · practices: [Vijñāna Bhairava dhāraṇā 12: The central channel like a lotus fibre](../practices/vbt-dharana-12.md)
+terms: [suṣumnā](../terms/susumna.md), [madhya](../terms/madhya.md) · practices: [Vijñāna Bhairava dhāraṇā 12: The central channel like a lotus fibre](../practices/vbt-dharana-12.md)
 
 ### 36 <a id="tea-vijnana-bhairava-tantra-36"></a>
 `skeleton` · confidence moderate
@@ -1209,4 +1209,4 @@ terms: [haṃsa](../terms/hamsa.md), [ajapā](../terms/ajapa.md) · practices: [
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

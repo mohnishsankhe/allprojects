@@ -6,7 +6,7 @@
 **Original title:** अग्निपुराण
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
+**Lineages:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Kubjikā tradition (Paścimāmnāya, the 'Western Transmission')](../lineages/kubjika.md)
 **Genre:** purāṇa
 **Authors:** 
   - [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md) — role: compiler; attribution: traditional
@@ -19,7 +19,7 @@ An encyclopedia of Purāṇic knowledge: the avatāras, temple building and imag
 **Editions / translations:** 
   - kind: original; name: Agnipurāṇa, ed. Rajendralal Mitra, Bibliotheca Indica 1870-79 (GRETIL e-text); licence: public domain text
 
-## Teachings (7: skeleton 7)
+## Teachings (8: skeleton 8)
 
 ### 16.1-4 <a id="tea-agni-purana-16-1-4"></a>
 `skeleton` · confidence high
@@ -47,6 +47,15 @@ The glory of Gayā: śrāddha and piṇḍa offered at Gayā's sacred spots (suc
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: death-dying, practice_
 
 concepts: [Joining the ancestors](../concepts/pitr-and-sapindikarana.md) · practices: [Śrāddha at Gayā](../practices/gaya-sraddha.md), [Śrāddha](../practices/sraddha.md), [Pilgrimage to tīrthas](../practices/tirthayatra.md)
+
+### 143-144 <a id="tea-agni-purana-143-144"></a>
+`skeleton` · confidence moderate
+
+The Agni Purāṇa sets out the sequence-worship (krama-pūjā) of Kubjikā, 'giver of victory in dharma and the other aims', with her maṇḍala, her mantra (not reproduced here) and her retinue.
+
+_level: conventional · standpoint: ritual · path: ritual, sound · stage: all · types: practice_
+
+concepts: [Kubjikā, the Bent Goddess](../concepts/kubjika-goddess.md)
 
 ### 370 <a id="tea-agni-purana-370"></a>
 `skeleton` · confidence low
@@ -84,4 +93,4 @@ _level: conventional · standpoint: seeker · path: knowledge · stage: all · t
 _Notes: Chs. 2-16: the ten avatāras (16: the Buddha as Māyāmoha, then Kalki); 49: images of the ten avatāras; 114-116: Gayā; 370: hells; 371-375: the eight limbs of yoga; 376-379: knowledge of Brahman and non-dual knowledge; 380: Gītāsāra; 381: Yamagītā. chapter checked in the GRETIL e-text of the Agni Purāṇa (R. Mitra, Bibliotheca Indica numbering; other editions differ)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U24-kali-kaula. Generated 2026-09-28 09:07 IST._

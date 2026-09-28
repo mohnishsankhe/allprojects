@@ -11,4 +11,4 @@
 Author of the Vṛtti on the Vaiśeṣika Sūtra that transmits the older recension of the sūtras.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._

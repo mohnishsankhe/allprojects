@@ -14,4 +14,4 @@ Author of the Nyāyavārttika, written to remove the 'ignorance created by bad r
 _Notes: The Pāśupata affiliation rests on the colophon as usually reported (moderate confidence)._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U17-pasupata-kapalika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U17-pasupata-kapalika. Generated 2026-09-28 09:07 IST._

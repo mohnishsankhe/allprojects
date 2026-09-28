@@ -27,4 +27,4 @@
 **Related:** [pratyakṣa](pratyaksa.md), [anumāna](anumana.md), [āgama](agama.md), [kevala-pramāṇa](kevala-pramana.md), [anupramāṇa](anupramana.md), [dṛṣṭa (pratyakṣa)](drsta.md), [āptavacana](aptavacana.md)
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U17-pasupata-kapalika, skeleton:U12-mimamsa, skeleton:U14-visistadvaita, skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U17-pasupata-kapalika, skeleton:U12-mimamsa, skeleton:U14-visistadvaita, skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

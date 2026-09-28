@@ -13,4 +13,4 @@ The śrauta (solemn-rite) sūtra of the Vaikhānasa school.
   - kind: original; name: ed. W. Caland, Calcutta 1941
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

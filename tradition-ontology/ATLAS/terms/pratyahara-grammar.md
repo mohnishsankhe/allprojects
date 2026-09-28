@@ -6,7 +6,7 @@
 **Literal:** a drawing-together; abbreviation
 
 ## Definitions by tradition
-- `lin:vyakarana`: An abbreviation formed from the Māheśvara sūtras by a first sound and a final marker, naming a class of sounds (e.g. aC = the vowels).
+- [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md): An abbreviation formed from the Māheśvara sūtras by a first sound and a final marker, naming a class of sounds (e.g. aC = the vowels).
 
 ## Forms in other languages
 
@@ -15,4 +15,4 @@
 _Notes: Distinct from yogic pratyāhāra (sense-withdrawal), trm:pratyahara._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

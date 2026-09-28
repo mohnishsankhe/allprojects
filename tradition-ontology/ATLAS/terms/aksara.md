@@ -13,6 +13,8 @@
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The imperishable supreme Brahman (BhG 8.3), the goal entered by ascetics (8.11); the unchanging (kūṭastha) imperishable puruṣa (15.16), surpassed by the highest person (15.18); also the syllable (Oṃ, 'the one syllable', 8.13, 10.25).
 - [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md): A syllable or phoneme (akṣarasamāmnāya, the list of phonemes, PŚ 57).
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): The imperishable syllable Oṃ, which is Brahman and Prajāpati, while all rites pass away (MDh 2.84).
+- [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md): The imperishable Word-Brahman (VP 1.1) and the syllable/letter.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: In 3.15 the imperishable from which brahman arises (in the chain: action from brahman, brahman from the imperishable); its identification is disputed among commentators.
 
 ## Forms in other languages
 
@@ -20,4 +22,4 @@
 **Related:** [kṣara](ksara.md), [Lakṣmī (Śrī, Ramā)](laksmi.md), [oṃ](om.md), [kūṭastha](kutastha.md), [brahman](brahman.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts, extraction:bhagavad-gita/ch01-03. Generated 2026-09-28 09:07 IST._

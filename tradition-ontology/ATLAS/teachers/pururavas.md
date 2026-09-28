@@ -9,4 +9,4 @@
 King, son of Iḍā, infatuated with the apsaras Urvaśī; his song of disenchantment is the Aila Gītā (Bhāgavata 11.26).
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

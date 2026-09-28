@@ -74,7 +74,7 @@ Garuḍa asks whether, since the classes beginning with the twice-born stand hig
 
 _level: conventional · standpoint: ethical-social · path: ritual · stage: all · types: teacher-transmission, ethics_
 
-terms: [dīkṣā](../terms/diksa.md) · concepts: [Kinds of initiation (dīkṣā) in the Āgamas](../concepts/kinds-of-diksa.md) · disputes: `dsp:women-caste-liberation`
+terms: [dīkṣā](../terms/diksa.md) · concepts: [Kinds of initiation](../concepts/kinds-of-diksa.md) · disputes: `dsp:women-caste-liberation`
 
 ### 6.5-8 <a id="tea-kirana-tantra-6-5-8"></a>
 `skeleton` · confidence high
@@ -83,7 +83,7 @@ Garuḍa: if, as the tantra teaches, liberation is by the rite alone, ritual, kn
 
 _level: conventional · standpoint: divine · path: ritual, knowledge · stage: all (kriyā-, jñāna-, caryā-yogya (fitness)) · types: karma-liberation, practice_
 
-terms: [dīkṣā](../terms/diksa.md) · concepts: [Kinds of initiation (dīkṣā) in the Āgamas](../concepts/kinds-of-diksa.md) · disputes: [Does initiation (dīkṣā) itself liberate, or is knowledge the direct cause of liberation?](../debates/does-diksa-liberate.md)
+terms: [dīkṣā](../terms/diksa.md) · concepts: [Kinds of initiation](../concepts/kinds-of-diksa.md) · disputes: [Does initiation (dīkṣā) itself liberate, or is knowledge the direct cause of liberation?](../debates/does-diksa-liberate.md)
 
 ### 6.10-13 <a id="tea-kirana-tantra-6-10-13"></a>
 `skeleton` · confidence high
@@ -92,7 +92,7 @@ For women and others who are incapable, (the guru) should purify away the observ
 
 _level: conventional · standpoint: ethical-social · path: ritual, devotion · stage: all · types: teacher-transmission, ethics_
 
-terms: [samaya](../terms/samaya.md), [nirbīja-dīkṣā](../terms/nirbija-diksa.md) · concepts: [Kinds of initiation (dīkṣā) in the Āgamas](../concepts/kinds-of-diksa.md) · obstacles: [Breach of initiatory observances (samaya-bhaṅga)](../obstacles/samaya-bhanga.md) · disputes: `dsp:women-caste-liberation`
+terms: [samaya](../terms/samaya.md), [nirbīja-dīkṣā](../terms/nirbija-diksa.md) · concepts: [Kinds of initiation](../concepts/kinds-of-diksa.md) · obstacles: [Breaking the samaya pledges](../obstacles/samaya-bhanga.md) · disputes: `dsp:women-caste-liberation`
 
 ### 6.14-16 <a id="tea-kirana-tantra-6-14-16"></a>
 `skeleton` · confidence high
@@ -101,7 +101,7 @@ Garuḍa: initiation is said to be done by separating the bonds, yet no separati
 
 _level: conventional · standpoint: causal · path: ritual, sound · stage: all · types: sound-language, karma-liberation_
 
-terms: [mantra](../terms/mantra.md), [dīkṣā](../terms/diksa.md) · concepts: [Kinds of initiation (dīkṣā) in the Āgamas](../concepts/kinds-of-diksa.md)
+terms: [mantra](../terms/mantra.md), [dīkṣā](../terms/diksa.md) · concepts: [Kinds of initiation](../concepts/kinds-of-diksa.md)
 
 ### 6.17-19 <a id="tea-kirana-tantra-6-17-19"></a>
 `skeleton` · confidence high
@@ -112,7 +112,7 @@ Garuḍa: if all bonds are separated by initiation, how does the body remain onc
 
 _level: conventional · standpoint: causal · path: ritual · stage: unmarked · types: karma-liberation_
 
-terms: [nirvāṇa-dīkṣā](../terms/nirvana-diksa.md) · concepts: [Kinds of initiation (dīkṣā) in the Āgamas](../concepts/kinds-of-diksa.md)
+terms: [nirvāṇa-dīkṣā](../terms/nirvana-diksa.md) · concepts: [Kinds of initiation](../concepts/kinds-of-diksa.md)
 
 ### 6.20-23 <a id="tea-kirana-tantra-6-20-23"></a>
 `skeleton` · confidence moderate
@@ -145,4 +145,4 @@ terms: [upāgama](../terms/upagama.md) · concepts: [The upāgamas (upabhedas) o
 _Notes: Kiraṇa 10.17/10.26: Devapitṛ → the sage Saṃvartaka. Śrīkaṇṭhīya: 'Kiraṇa'. In the Kāmika's image of the scriptures as Sadāśiva's body it is the jewel ornaments (pūrva 1.93–101). Lists checked by the Phase-B author against local e-texts: Kāmika pūrva 1.30–92 (sources_raw/raw_etexts/AgamAH/shaivam/Kamikagama.md (Kāmika Pūrvabhāga, Madras 1909 Grantha ed. as transcribed)), Kiraṇa vidyāpāda 10.3–27 (sources_raw/raw_etexts/AgamAH/shaivam/kiranagama.md (Kiraṇa vidyāpāda, South Indian printed text as transcribed)) and the Śrīkaṇṭhīya list quoted by Jayaratha on TĀ 1.18 (sources_raw/raw_etexts/AgamAH/shaivam/tantrAlokaH_viveka-vyAkhyA-sahitaH-1.md (Tantrāloka with Jayaratha's Viveka, KSTS vol. 1))._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._

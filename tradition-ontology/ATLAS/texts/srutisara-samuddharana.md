@@ -13,4 +13,4 @@
 A verse treatise by Toṭaka drawing out 'the essence of the Upaniṣads' in dialogue form: the self as witness distinct from the not-self, and the meaning of the mahāvākyas.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

@@ -28,4 +28,4 @@ No: there is no reason for such a universal rule; things should be accepted as t
 **Candidate readings:** P2-standpoint: momentariness as the standpoint of modes, endurance as that of substance (Jain).; P1-level: continuity (santāna) as conventionally valid in Buddhist accounts.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._

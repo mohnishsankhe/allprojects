@@ -81,4 +81,4 @@ terms: [mahādāna](../terms/mahadana.md), [tulāpuruṣa](../terms/tulapurusa.m
 _Notes: 53: definitions and gift-rules of the eighteen Purāṇas and some Upapurāṇas, the five marks, and the sāttvika/rājasa/tāmasa/saṅkīrṇa classification; later chapters: the sixteen great gifts (mahādāna), iconography (pratimā-lakṣaṇa), Prayāga and Avimukta (Vārāṇasī) māhātmyas. verse number checked in the local e-text of the Matsya Purāṇa (raw_etexts mAdhva-app)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

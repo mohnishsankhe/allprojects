@@ -1,6 +1,6 @@
 # Puṣpasūtra
 
-`src:puspa-sutra` · `skeleton` · confidence low
+`src:puspa-sutra` · `sourced` · confidence low
 
 **Original title:** पुष्पसूत्रम्
 **Language:** Sanskrit
@@ -15,4 +15,8 @@ A Sāmaveda treatise on how verses are transformed into chants: the modification
 _Notes: Authorship reports recalled from memory; to be checked._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/pushpasutra, https://ignca.gov.in/the-puspasutra-a-pratisakhya-of-the-samaveda/ — Confirmed: a Sāmaveda prātiśākhya-type sūtra on the transformation of ṛcs into sāmans (stobha, vikāra); 'ascribed to Gobhila or to Vararuci' — the northern recension names Gobhila, the southern Vararuci (IGNCA edition, 10 prapāṭhakas). Not in the local catalogue.
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

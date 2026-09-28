@@ -1,6 +1,6 @@
 # Ṛgveda Padapāṭha
 
-`src:rgveda-padapatha` · `skeleton` · confidence high
+`src:rgveda-padapatha` · `sourced` · confidence high
 
 **Original title:** ऋग्वेदपदपाठः
 **Language:** Sanskrit
@@ -19,4 +19,8 @@ The word-by-word recitation of the Ṛgveda, ascribed to Śākalya, which undoes
 _Notes: The omission of 10.121.10 and of the Vālakhilya hymns from the Padapāṭha is recalled from secondary literature — confidence moderate._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: partially-confirmed — catalog:GRETIL-dev:rgveda-samhita_padapatha_text_mandala_10, https://sacred-texts.com/hin/sbe32/sbe3215.htm, https://en.wikipedia.org/wiki/Shakalya, https://en.wikipedia.org/wiki/Rigveda — Extant; ascription to Śākalya (named by Yāska and Pāṇini) confirmed. The omission of 10.121.10 is confirmed (Max Müller, SBE 32: 'not decomposed in the Pada-pāṭha'; the GRETIL Padapāṭha file carries it only in saṃhitā form). The reported omission of the Vālakhilya hymns could NOT be confirmed: web sources only say the Vālakhilya are an appendix, and the GRETIL Padapāṭha does give pada text for 8.49ff. (possibly editorial). Date 'before Yāska and Pāṇini' consistent with sources placing Śākalya c. 700 BCE.
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

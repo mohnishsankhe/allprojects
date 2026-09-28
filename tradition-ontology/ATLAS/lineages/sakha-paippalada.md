@@ -1,6 +1,6 @@
 # Paippalāda śākhā (Atharvaveda)
 
-`lin:sakha-paippalada` · `skeleton` · confidence moderate
+`lin:sakha-paippalada` · `sourced` · confidence moderate
 
 **Family:** vedic
 **Alternate names:** Paippalāda
@@ -32,4 +32,8 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://www.atharvavedapaippalada.uzh.ch/en/stateOfArt.html — Confirmed: living in Odisha (palm-leaf manuscripts and reciters), formerly known from the Kashmiri manuscript.
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

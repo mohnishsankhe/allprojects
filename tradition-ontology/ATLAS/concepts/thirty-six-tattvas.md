@@ -10,6 +10,8 @@
 
 ## Definitions
 - [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md): Manifestation from Śiva to earth in thirty-six levels: five pure (Śiva, Śakti, Sadāśiva, Īśvara, Śuddhavidyā), the impure boundary of Māyā with its five sheaths (kalā, vidyā, rāga, kāla, niyati), then the Sāṃkhya series from Puruṣa to earth. All shine in the supreme like images in a mirror (Paramārthasāra 11-13).
+- [Śrīvidyā](../lineages/srividya.md): The universe is the thirty-six principles (PKS 1.4); the Śrīcakra is the cakra of the thirty-six principles (Dīpikā on YH 1.86).
+- [Samaya school of Śrīvidyā (Samayācāra)](../lineages/samaya-srividya.md): Lakṣmīdhara holds that the twenty-five principles are accepted by all as Vedic, reads the thirty-six in their light, and places the Śiva-Śakti pair beyond as the twenty-sixth (on SL 11).
 - [Śaiva Siddhānta](../lineages/saiva-siddhanta.md): Siddhānta form: five pure tattvas (Śiva/nāda, Śakti/bindu, Sadāśiva, Īśvara, Śuddhavidyā) evolved from bindu (pure māyā), not from Śiva; seven vidyā-tattvas (māyā, kalā, vidyā, rāga, kāla, niyati, puruṣa); twenty-four ātma-tattvas (prakṛti with the guṇas, buddhi, ahaṅkāra, manas, ten organs, five subtle and five gross elements). Placement of details (e.g. a separate guṇa-tattva) varies among texts.
 - [Tamil Śaiva Siddhānta (the Meykaṇṭa school)](../lineages/tamil-saiva-siddhanta.md): Tattuvam 36 (5 civa, 7 vittai, 24 āṉma), which the soul must see as not-self (tattva-rūpa, -darśana, -śuddhi); expanded to 96 in Tamil lists.
 
@@ -21,4 +23,4 @@
 _Notes: The order of the kañcukas varies slightly between sources (e.g. kāla and niyati)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U18-saiva-siddhanta. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U23-sakta-srividya, skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._

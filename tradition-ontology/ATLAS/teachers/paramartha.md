@@ -13,4 +13,4 @@
 Indian Buddhist monk-translator who reached China in 546. Besides Yogācāra works he translated the Sāṃkhya Kārikā with a commentary (Jin qishi lun) and wrote a Life of Vasubandhu that tells of the Sāṃkhya master Vindhyavāsa's debate with Buddhamitra.
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._

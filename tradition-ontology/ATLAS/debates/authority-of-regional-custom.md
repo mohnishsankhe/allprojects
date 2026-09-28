@@ -23,4 +23,4 @@ No: 'that is false', says Gautama; neither set is to be respected, since they co
 **Candidate readings:** the rule of GDh 11.20 (custom valid unless contrary to the Veda) as the tradition's own resolution; regional validity as a matter of standpoint (P2); strict rejection in favour of the śiṣṭa tradition
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

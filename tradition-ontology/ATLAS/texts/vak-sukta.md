@@ -1,6 +1,6 @@
 # Vāk Sūkta (Devī Sūkta, Ṛgveda 10.125)
 
-`src:vak-sukta` · `skeleton` · confidence high
+`src:vak-sukta` · `sourced` · confidence high
 
 **Alternate titles:** Devī Sūkta, Vāgāmbhṛṇī Sūkta, Ātma-sūkta
 **Original title:** वाक्सूक्तम् / देवीसूक्तम्
@@ -20,4 +20,8 @@ Speech (Vāc) proclaims herself: she moves with the Rudras, Vasus, Ādityas and 
 _Notes: The Sarvānukramaṇī gives the deity as 'ātman': the seer Vāc Āmbhṛṇī praises herself as the self of all. Recited in Śākta worship with the Devī Māhātmya._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/1_rv/rgveda_mandala_10.md (GRETIL, Van Nooten–Holland/Aufrecht), text:sources_raw/DharmicData/Rigveda/rigveda_mandala_10.json (Anukramaṇī seer/deity/metre headers) — Hymn located in the local Śākala text. 8 verses; ṛṣikā Vāg Āmbhṛṇī, deity ātman (header).
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

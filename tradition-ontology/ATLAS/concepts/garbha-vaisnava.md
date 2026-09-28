@@ -11,7 +11,7 @@
 - [Pāñcarātra](../lineages/pancaratra.md): The five sacraments, beginning with branding, make one a Vaiṣṇava.
 
 ## Relations (interpretation layer)
-- opposes → [Kinds of initiation (dīkṣā) in the Āgamas](kinds-of-diksa.md): the two communities disagree on whether branding is required
+- opposes → [Kinds of initiation](kinds-of-diksa.md): the two communities disagree on whether branding is required
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._

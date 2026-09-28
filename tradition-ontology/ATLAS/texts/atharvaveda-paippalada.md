@@ -1,6 +1,6 @@
 # Atharvaveda Saṃhitā (Paippalāda)
 
-`src:atharvaveda-paippalada` · `skeleton` · confidence high
+`src:atharvaveda-paippalada` · `sourced` · confidence high
 
 **Original title:** पैप्पलादसंहिता
 **Language:** Sanskrit
@@ -21,4 +21,8 @@ The second Atharvaveda recension, in twenty books, overlapping the Śaunaka in m
 _Notes: Teachings from this recension are not recorded here (no verse-level recall); gap listed in REPORT.md._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Atharvaveda (Paippalāda), https://www.atharvavedapaippalada.uzh.ch/en/stateOfArt.html, https://vedicheritage.gov.in/samhitas/atharvaveda-samhitas/paippalada-samhita/ — Confirmed: 20 kāṇḍas; long known from a single Kashmiri birch-bark manuscript in Śāradā script; Oriya palm-leaf manuscripts and living tradition found in Odisha (D. Bhattacharyya, 1959).
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

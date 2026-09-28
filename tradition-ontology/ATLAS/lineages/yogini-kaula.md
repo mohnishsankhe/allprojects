@@ -26,6 +26,16 @@ The Yoginīkaula is the Kaula current that the Kaulajñānanirṇaya says Maccha
   - [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](natha.md) — what: Matsyendra's Kaula teaching and his place at the head of the Nāth lineage
   - [Kaula (the Kula tradition)](kaula.md) — what: one of the Kaula currents named in later Kaula lists
 
+## The ultimate in this lineage
+`skeleton` · confidence moderate
+
+**Names:** Akula / Akulavīra, Bhairava / Śiva, the body-liṅga
+**Descriptions:** all-pervading, ever-risen, undivided, independent, spotless; by its will creation and in it dissolution (KJN 3.9–10); Śiva never without Śakti (KJN 17.8); all is samarasa, full, the Akulavīra alone (Akulavīra A.41)
+**Negations:** not in the supports, aims, channels or breaths; neither near nor far; beyond is and is not (Akulavīra A.15–23, A.34)
+**Relation to self:** The jīva is the supreme Śiva, called jīva while in the body (KJN 6.4–7); the self is its own guru (17.35).
+**Relation to world:** Creation and dissolution occur within the body; the Kula (Śakti's domain) and Akula (Śiva) are inseparable.
+**Caveat:** The Yoginīkaula's one reality is reached through Kaula practice and secrecy; it declares all other schools bound in conceptual construction (Akulavīra A.7–10), so it would not accept being placed as one view among equals.
+
 ## Texts
 [Akulavīratantra](../texts/akulavira-tantra.md), [Jñānakārikā](../texts/jnanakarika.md), [Kaulajñānanirṇaya](../texts/kaulajnananirnaya.md), [Kulānandatantra](../texts/kulananda-tantra.md), [Matsyendrasaṃhitā](../texts/matsyendrasamhita.md), [Yogaviṣaya](../texts/yogavisaya.md)
 
@@ -33,15 +43,15 @@ The Yoginīkaula is the Kaula current that the Kaulajñānanirṇaya says Maccha
 [Gorakṣanātha](../teachers/goraksanatha.md), [Matsyendranātha](../teachers/matsyendranatha.md)
 
 ## Practices
-_none recorded_
+[Cultivating non-discrimination (abheda)](../practices/abheda-bhava.md), [Ajapā-japa (the haṃsa / so'ham breath-mantra)](../practices/ajapa-japa.md), [Nectar meditations for the conquest of death (mṛtyuñjaya)](../practices/amrta-candra-dhyana.md), [The non-dual caru rite](../practices/caru-advaita-acara.md), [Mental worship of the body-liṅga with eight flowers](../practices/deha-linga-manasa-puja.md), [Eating and drinking from the skull bowl](../practices/kapala-patra.md), [Khecarī mudrā ('moving in space')](../practices/khecari-mudra.md), [Meditation on the centres (Kaula)](../practices/kjn-cakra-dhyana.md), [Placing the syllables for liberation (Kaula nyāsa)](../practices/kjn-nyasa.md), [Worship of the guru (guru-pūjā)](../practices/natha-guru-puja.md), [Arresting grey hair and age (palita-stambhana)](../practices/palita-stambhana.md), [Entering the mind-less state (unmanī-bhāva)](../practices/unmani-bhava.md), [Forced departure through the skull (utkrānti)](../practices/utkranti-kjn.md), [Making the body adamantine (vajrīkaraṇa)](../practices/vajrikarana.md), [Worship of the circle of yoginīs (Kaula cakra rite)](../practices/yogini-cakra-puja.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[What is liberation? (the Amaraughaśāsana against rival definitions)](../debates/false-views-of-moksa.md), [Should the mind be restrained, or — once the truth is known — left unrestrained?](../debates/mind-restraint-or-release.md), [Is awakening reached by the effortful arousal of kuṇḍalinī, or does it lie in the innate (sahaja), which such practices do not reach?](../debates/natha-effort-or-sahaja.md)
 
 _Notes: Sub-lineage created by U21 (Matsyendra's own Kaula school); U24 owns lin:kaula._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._

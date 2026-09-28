@@ -8,6 +8,7 @@
 
 ## Definitions by tradition
 - [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md): The liberated's power of acting: swiftness of mind, taking forms at will, and acting without organs.
+- [Śrīvidyā](../lineages/srividya.md): The power of action; in the Bhāvanā Upaniṣad it is the Goddess's seat (pīṭha).
 
 ## Forms in other languages
 
@@ -15,4 +16,4 @@
 **Related:** [dṛkśakti](drksakti.md), [manojavitva](manojavitva.md), [kāmarūpitva](kamarupitva.md), [vikaraṇadharmitva](vikaranadharmitva.md)
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U23-sakta-srividya. Generated 2026-09-28 09:07 IST._

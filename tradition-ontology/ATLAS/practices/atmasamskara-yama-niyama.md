@@ -16,4 +16,4 @@ Yama — the means of dharma common to all life-stages — and niyama — the pa
 - partial: [The observances (niyama)](niyama.md) — As above.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._

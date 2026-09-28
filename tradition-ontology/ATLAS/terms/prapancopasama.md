@@ -14,4 +14,4 @@
 _Notes: The same compound appears in the dedicatory verse of Nāgārjuna's Mūlamadhyamakakārikā (src:mulamadhyamakakarika); see brw:mandukya-madhyamaka-prapancopasama._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

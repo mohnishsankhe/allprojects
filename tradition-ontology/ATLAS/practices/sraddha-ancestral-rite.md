@@ -11,4 +11,4 @@ Qualified brāhmaṇas are invited and fed as the ancestors' representatives, ri
   - [Manusmṛti (Mānava Dharmaśāstra)](../texts/manusmrti.md) — ref: 3.122-286; rests_on: ["tea:manusmrti:3.122-123", "tea:manusmrti:3.267-272"]
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

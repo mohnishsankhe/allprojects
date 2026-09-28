@@ -14,4 +14,4 @@ Vāsanās for social esteem, for scriptural learning and for the body, which pre
   - [Vivekacūḍāmaṇi](../texts/vivekacudamani.md) — ref: 270–272; rests_on: ["tea:vivekacudamani:270-272"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

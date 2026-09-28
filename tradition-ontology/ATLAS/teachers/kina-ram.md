@@ -3,7 +3,7 @@
 `tch:kina-ram` · `skeleton` · confidence moderate
 
 **Alternate names:** Bābā Kīnārām, Kinaram
-**Lineages:** [Aghora (Aghor panth; Aghorī and Aughaṛ ascetics)](../lineages/aghora.md), `lin:ramanandi`
+**Lineages:** [Aghora (Aghor panth; Aghorī and Aughaṛ ascetics)](../lineages/aghora.md), [Rāmānandī sampradāya](../lineages/ramanandi.md)
 **Dates:** Tradition's account: 1601–1771 (Vikrama 1658 birth; lived about 170 years); Scholarly account: 18th c.; (confidence low)
 **Places:** Rāmgaṛh (Chandauli), Varanasi (Krīm Kuṇḍ), Girnar, Hiṅglāj
 **Historicity:** historical
@@ -22,4 +22,4 @@ Founder of the present Aghora lineage at Krīm Kuṇḍ (Kīnārām Sthal), Vara
 _Notes: Registry id. The dates are the tradition's; no independent confirmation checked._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._

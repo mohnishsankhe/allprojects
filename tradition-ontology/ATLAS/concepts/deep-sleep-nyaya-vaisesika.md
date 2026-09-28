@@ -15,4 +15,4 @@
 _Notes: The purītat account is confirmed in a local commentary e-text (Subodhinī) but not traced to a root text here._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._

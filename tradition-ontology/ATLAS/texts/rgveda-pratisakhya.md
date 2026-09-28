@@ -1,6 +1,6 @@
 # Ṛgveda Prātiśākhya
 
-`src:rgveda-pratisakhya` · `skeleton` · confidence moderate
+`src:rgveda-pratisakhya` · `sourced` · confidence moderate
 
 **Original title:** ऋग्वेदप्रातिशाख्यम्
 **Language:** Sanskrit
@@ -19,4 +19,8 @@ The Śākala school's treatise on the phonetics of the Ṛgveda: sounds, accents
 _Notes: Primary owner of prātiśākhya literature: U02._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:raw_etexts:rik_veda_pratishakhya, https://en.wikipedia.org/wiki/Shaunaka — Extant; ascription to Śaunaka confirmed.
+
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

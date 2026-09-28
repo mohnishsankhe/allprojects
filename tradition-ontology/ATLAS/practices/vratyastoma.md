@@ -11,4 +11,4 @@ Soma rites by which groups living outside the sacrificial order are made fit to 
   - [Pañcaviṃśa Brāhmaṇa](../texts/pancavimsa-brahmana.md) — ref: 17.1-4; rests_on: ["tea:pancavimsa-brahmana:17.1"]
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

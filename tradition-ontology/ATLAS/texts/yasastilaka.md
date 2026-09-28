@@ -6,7 +6,7 @@
 **Original title:** यशस्तिलक
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** `lin:digambara`, [Kāpālika (Somasiddhānta)](../lineages/kapalika.md)
+**Lineages:** [Digambara](../lineages/digambara.md), [Kāpālika (Somasiddhānta)](../lineages/kapalika.md)
 **Genre:** campū
 **Attribution:** tradition: Somadeva Sūri; scholarly: the Digambara Somadeva Sūri, completed 959 CE; confidence: high
 **Dates:** Scholarly account: 959 CE; (confidence moderate)
@@ -17,4 +17,4 @@ A Jain prose-and-verse romance. Its frame story turns on a king urged to offer p
 _Notes: Low confidence on the specific Kāpālika passages; not checked against the text in this run._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 09:07 IST._

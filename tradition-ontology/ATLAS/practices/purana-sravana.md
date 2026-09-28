@@ -14,4 +14,4 @@ Listening with faith to the recitation and exposition of the Purāṇa by a qual
 **Sequences:** [The Bhāgavata's sequence from hearing to seeing the Lord (BhP 1.2.16-21)](../paths/bhagavata-sravana-to-realization.md)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

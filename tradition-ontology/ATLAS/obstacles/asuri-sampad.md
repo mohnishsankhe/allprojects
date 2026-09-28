@@ -12,4 +12,4 @@ Hypocrisy, arrogance, pride, anger, harshness and ignorance, leading to bondage 
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 16.4–20; rests_on: ["tea:bhagavad-gita:16.4", "tea:bhagavad-gita:16.5", "tea:bhagavad-gita:16.8", "tea:bhagavad-gita:16.9-18"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

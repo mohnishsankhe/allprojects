@@ -8,11 +8,12 @@
 
 ## Definitions by tradition
 - [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md): The authorless (apauruṣeya), beginningless body of sentences, the sole means of knowing dharma; it comprises injunction, mantra, name, prohibition and arthavāda.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: Those who delight in the words of the Veda and say there is nothing else proclaim a flowery speech aimed at heaven, enjoyment and power (2.42–44); the Vedas have the three guṇas as their domain (2.45); for a knowing brāhmaṇa all the Vedas are of as much use as a well in a flood (2.46).
 
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-**Related:** [apauruṣeyatva](apauruseyatva.md), [śruti](sruti.md)
+**Related:** [apauruṣeyatva](apauruseyatva.md), [śruti](sruti.md), [vedavāda](vedavada.md), [brāhmaṇa](brahmana.md)
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U12-mimamsa, extraction:bhagavad-gita/ch01-03. Generated 2026-09-28 09:07 IST._

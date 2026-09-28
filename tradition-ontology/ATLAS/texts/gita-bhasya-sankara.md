@@ -1,6 +1,6 @@
 # Gītābhāṣya of Śaṅkara
 
-`src:gita-bhasya-sankara` · `skeleton` · confidence high
+`src:gita-bhasya-sankara` · `sourced` · confidence high
 
 **Alternate titles:** Śāṅkarabhāṣya on the Gītā
 **Original title:** गीताभाष्य
@@ -13,7 +13,7 @@
   - [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) — role: commentator; attribution: accepted
   - [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) — role: author; attribution: accepted
 **Attribution:** tradition: By Ādi Śaṅkarācārya.; scholarly: Generally accepted as Śaṅkara's.; confidence: high
-**Dates:** Tradition's account: Śaṅkara, 788–820 CE (most maṭha traditions; some give 509–477 BCE); Scholarly account: early 8th c. CE; (confidence moderate)
+**Dates:** Tradition's account: some cardinal Advaita maṭha traditions (notably Kāñcī) give Śaṅkara 509–477 BCE; Śṛṅgeri cites the 8th c. CE; Scholarly account: early 8th c. CE (c. 700–750; earlier scholarship 788–820); (confidence moderate)
 **Availability:** digitized-original
 
 The oldest extant complete commentary on the Gītā. Its introduction distinguishes the dharma of activity (pravṛtti) and of withdrawal (nivṛtti) and holds that the Gītā's purport is the highest good attained through steadfastness in knowledge of the self together with renunciation of all works; action performed as offering to the Lord purifies the mind for that knowledge; it rejects the combination of knowledge and works (jñāna-karma-samuccaya) as the means to liberation.
@@ -22,7 +22,7 @@ The oldest extant complete commentary on the Gītā. Its introduction distinguis
   - kind: original; name: sanskrit/raw_etexts (advaitam/.../bhAShya/Gita; ebhAratI-sampat); licence: open (repository terms); url: https://github.com/sanskrit/raw_etexts
 **Commentaries on this text:** [Ānandagiri's gloss on Śaṅkara's Gītābhāṣya](anandagiri-gita-tika.md), [Bhāṣyotkarṣadīpikā of Dhanapati Sūri](bhasyotkarsadipika.md)
 
-## Teachings (6: skeleton 6)
+## Teachings (6: skeleton 5, sourced 1)
 
 ### 2.11 <a id="tea-gita-bhasya-sankara-2-11"></a>
 `skeleton` · confidence high
@@ -70,7 +70,7 @@ _level: bridging · standpoint: seeker · path: knowledge, devotion · stage: ad
 teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md)
 
 ### intro <a id="tea-gita-bhasya-sankara-intro"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The Vedic dharma is twofold: that characterized by activity (pravṛtti), which leads to prosperity and higher worlds, and that characterized by withdrawal (nivṛtti), which leads to liberation; the Gītā teaches both, and its special aim is the supreme good through knowledge of the self preceded by renunciation.
 
@@ -80,4 +80,12 @@ concepts: [Action (karma) in Advaita](../concepts/karma-in-advaita.md), [The pat
 
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: corrected — catalog:eBharati:bhagavadgItAbhAShyam_prathamo_bhAgaH, local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/vedanta/bhagavadgita_with_samkara-s_chommentary.md (intro: dvividho hi vedokto dharmaḥ), https://en.wikipedia.org/wiki/Adi_Shankara, https://en.wikipedia.org/wiki/Kanc — Text and attribution confirmed. Dating label corrected: 788–820 CE is the older scholarly convention, not the maṭhas' account. The traditional account of some cardinal maṭhas (notably Kāñcī) is 509–477 BCE. Modern scholarship puts Śaṅkara c. 700–750 (Nakamura). The two accounts are kept separate. (U13's tch:sankara uses a similar "788–820 = traditional reckoning" framing; flag for the U13 sweep and reconciliation.)
+
+**Corrections**
+
+- dating: Text and attribution confirmed. Dating label corrected: 788–820 CE is the older scholarly convention, not the maṭhas' account. The traditional account of some cardinal maṭhas (notably Kāñcī) is 509–477 BCE. Modern scholarship puts Śaṅkara c. 700–750 (Nakamura). The two accounts are kept separate. (U13's tch:sankara uses a similar "788–820 = traditional reckoning" framing; flag for the U13 sweep and reconciliation.)
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

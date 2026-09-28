@@ -1,6 +1,6 @@
 # Yājñavalkya–Janaka Saṃvāda (in the Mokṣadharma)
 
-`src:yajnavalkya-janaka-samvada` · `skeleton` · confidence high
+`src:yajnavalkya-janaka-samvada` · `sourced` · confidence high
 
 **Original title:** याज्ञवल्क्यजनकसंवाद
 **Language:** Sanskrit
@@ -20,4 +20,8 @@ Yājñavalkya teaches king Daivarāti Janaka the evolution of the principles (ta
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.298.4 Daivarāti; 12.299.1ff speaker Yājñavalkya; 12.306.27 Viśvāvasu; 12.306.92 — Section located at CE 12.298-306 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

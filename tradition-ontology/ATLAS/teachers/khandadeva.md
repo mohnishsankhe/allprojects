@@ -14,4 +14,4 @@
 Seventeenth-century Vārāṇasī Bhāṭṭa master: author of the Bhāṭṭadīpikā, Mīmāṃsākaustubha and Bhāṭṭarahasya, known for sharp Bhāṭṭa semantics in a Navya-Nyāya idiom.
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

@@ -10,4 +10,4 @@
 18th-century Nāth yogī regarded as founder of the monastery at Asthal Bohar near Rohtak (Haryana).
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._

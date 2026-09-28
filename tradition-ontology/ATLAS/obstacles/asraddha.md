@@ -12,4 +12,4 @@ Those without faith in this dharma return to the path of death and saṃsāra (B
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 9.3; 17.28; 4.40; rests_on: ["tea:bhagavad-gita:9.3", "tea:bhagavad-gita:17.28", "tea:bhagavad-gita:4.40"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

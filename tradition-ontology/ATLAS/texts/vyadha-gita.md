@@ -1,6 +1,6 @@
 # Vyādha Gītā (the righteous meat-seller's teaching)
 
-`src:vyadha-gita` · `skeleton` · confidence high
+`src:vyadha-gita` · `sourced` · confidence high
 
 **Alternate titles:** Dharmavyādha-upākhyāna, Pativratopākhyāna (3.196–197)
 **Original title:** व्याधगीता
@@ -22,10 +22,10 @@ Within Mārkaṇḍeya's discourses: the brāhmaṇa Kauśika, humbled by a devo
   - kind: original; name: The Mahābhārata, Critical Edition, ed. V. S. Sukthankar et al., Bhandarkar Oriental Research Institute, Pune (1933–1966); licence: print edition (text public domain; apparatus under BORI copyright)
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
-## Teachings (7: skeleton 7)
+## Teachings (7: sourced 6, skeleton 1)
 
 ### 3.196-197 <a id="tea-vyadha-gita-3-197"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The brāhmaṇa Kauśika burns a crane with an angry glance; a housewife who keeps him waiting while she serves her husband tells him she is no crane to be burned and sends him to the righteous meat-seller of Mithilā to learn dharma.
 
@@ -34,7 +34,7 @@ _level: conventional · standpoint: ethical-social · path: general · stage: al
 terms: [pativratā](../terms/pativrata.md) · concepts: [The dharma of the devoted wife (pativratā)](../concepts/pativrata-dharma.md) · teachers: [Kauśika (the brāhmaṇa of the Vyādha Gītā)](../teachers/kausika-brahmana.md)
 
 ### 3.198 <a id="tea-vyadha-gita-3-198"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 The meat-seller explains that he follows the occupation inherited from his forefathers, sells meat of animals he has not killed himself, gives, speaks truth, honours gods and guests and serves his parents; one's own work, done rightly, is dharma.
 
@@ -52,7 +52,7 @@ _level: conventional · standpoint: ethical-social · path: action · stage: all
 teachers: [The righteous meat-seller of Mithilā (dharmavyādha)](../teachers/dharmavyadha.md) · disputes: `dsp:women-caste-liberation`
 
 ### 3.199.19-29 <a id="tea-vyadha-gita-3-199-19-29"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The meat-seller: people think agriculture good, yet great violence lies in it — ploughing, men kill many creatures living in the earth; even ascetics devoted to non-violence do some violence, though by effort it becomes less.
 
@@ -61,7 +61,7 @@ _level: conventional · standpoint: ethical-social · path: action · stage: all
 terms: [ahiṃsā](../terms/ahimsa.md) · concepts: [Non-violence and non-cruelty (ahiṃsā, ānṛśaṃsya)](../concepts/non-violence.md), [The subtlety of dharma](../concepts/subtlety-of-dharma.md) · teachers: [The righteous meat-seller of Mithilā (dharmavyādha)](../teachers/dharmavyadha.md) · disputes: [May one kill in battle as one's own dharma — and what of non-violence as the highest dharma?](../debates/violence-and-svadharma.md)
 
 ### 3.200-202 <a id="tea-vyadha-gita-3-200-202"></a>
-`skeleton` · confidence low
+`sourced` · confidence low
 
 The meat-seller teaches Kauśika on karma and rebirth, the path of the good, the five elements and their qualities, the senses and the guṇas, and self-control as the means to Brahman.
 
@@ -70,7 +70,7 @@ _level: conventional · standpoint: analytic · path: knowledge · stage: all ·
 concepts: [The three guṇas](../concepts/three-gunas.md) · teachers: [The righteous meat-seller of Mithilā (dharmavyādha)](../teachers/dharmavyadha.md)
 
 ### 3.203.41 <a id="tea-vyadha-gita-3-203-41"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Non-cruelty is the highest dharma, forbearance the highest strength, knowledge of the self the highest knowledge, and the vow of truth the highest vow.
 
@@ -79,7 +79,7 @@ _level: conventional · standpoint: ethical-social · path: knowledge · stage: 
 terms: [ānṛśaṃsya](../terms/anrsamsya.md), [kṣamā](../terms/ksama.md), [satya](../terms/satya.md)
 
 ### 3.204-206 <a id="tea-vyadha-gita-3-204-206"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 The meat-seller shows Kauśika his aged parents whom he serves as gods, tells him to go home and serve his own neglected parents, and reveals that in a former life he was a brāhmaṇa reborn as a meat-seller through a curse.
 
@@ -89,4 +89,8 @@ practices: [Serving one's parents as dharma](../practices/serving-parents.md) ·
 
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_3.json (BORI Critical Edition text) 3.197.1 Kauśika; 3.197.41 dharmavyādha of Mithilā; 3.205-206 parents and curse — Section located at CE 3.196-206 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

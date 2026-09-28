@@ -1,6 +1,6 @@
 # Vedānta Deśika
 
-`tch:vedanta-desika` · `skeleton` · confidence high
+`tch:vedanta-desika` · `sourced` · confidence high
 
 **Alternate names:** Veṅkaṭanātha, Vedāntācārya, Kavitārkikasiṃha, Sarvatantrasvatantra, Nigamāntamahādeśika, Tūppul Piḷḷai
 **Lineages:** [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md), [Vaṭakalai (northern school of Śrīvaiṣṇavism)](../lineages/vadakalai.md), [Pāñcarātra](../lineages/pancaratra.md), [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md)
@@ -55,4 +55,8 @@ Veṅkaṭanātha of Tūppul near Kāñcī, poet, logician and theologian; the V
 _Notes: Contribution from U08._
 
 ---
-_Contributed by: skeleton:U14-visistadvaita, skeleton:U08-agama-catalogue, skeleton:U05-gita-epic, skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:eBharati:gItAbhAShyatAtparyachandrikA, local:ebhAratI gItArthasangrahaH_vyAkhyAsahitaH.md — Both works confirmed.
+
+_Contributed by: skeleton:U14-visistadvaita, skeleton:U08-agama-catalogue, skeleton:U05-gita-epic, skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [Īśvara (the Lord)](isvara.md) (divine): the inner controller is the Lord seen as controlling from within — rests on [3.7.3-23](../texts/brhadaranyaka-upanisad.md#tea-brhadaranyaka-upanisad-3-7-3-23), [6](../texts/mandukya-upanisad.md#tea-mandukya-upanisad-6)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

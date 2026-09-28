@@ -14,4 +14,4 @@ King of Videha whose sacrifice is the setting of the debate at BAU 3; he reports
 _Notes: 'Janaka' is a dynastic name; other units record other Janakas (e.g., tch:daivarati-janaka)._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U06-other-gitas, skeleton:U02-brahmana-vedanga, skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U06-other-gitas, extraction:bhagavad-gita/ch01-03, skeleton:U02-brahmana-vedanga, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

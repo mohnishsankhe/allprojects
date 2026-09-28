@@ -8,10 +8,11 @@
 
 ## Definitions by tradition
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): Service of the Lord's feet, the fourth form of devotion.
+- [The Āḻvārs (Tamil Vaiṣṇava saint-poets) and their hymn tradition](../lineages/alvar.md): Serving and dwelling at the Lord's feet — to lie as a step before his sanctum (PT 4.9), to have his feet enter one's eyes (Amalaṉātipirāṉ 1).
 
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-28 09:07 IST._

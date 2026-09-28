@@ -70,7 +70,7 @@ One who sees all beings in the self and the self in all beings does not shrink a
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate, ethics_
 
-terms: [ātman](../terms/atman.md) · concepts: [The identity of the self and brahman](../concepts/atman-brahman-identity.md) · obstacles: [Sorrow (śoka)](../obstacles/soka.md)
+terms: [ātman](../terms/atman.md) · concepts: [The identity of the self and brahman](../concepts/atman-brahman-identity.md) · obstacles: [Grief (śoka)](../obstacles/soka.md)
 
 ### 8 <a id="tea-isa-upanisad-8"></a>
 `skeleton` · confidence high
@@ -90,7 +90,7 @@ Into blind darkness enter those who worship ignorance (avidyā); into greater da
 
 _level: bridging · standpoint: seeker · path: knowledge, action · stage: intermediate · types: karma-liberation_
 
-terms: [vidyā](../terms/vidya.md), [avidyā](../terms/avidya.md), [amṛtatva / amṛta](../terms/amrtatva.md) · concepts: [Knowledge and ignorance (vidyā and avidyā)](../concepts/vidya-avidya.md) · disputes: `dsp:works-knowledge-grace`
+terms: [vidyā](../terms/vidya.md), [avidyā](../terms/avidya.md), [amṛtatva](../terms/amrtatva.md) · concepts: [Knowledge and ignorance (vidyā and avidyā)](../concepts/vidya-avidya.md) · disputes: `dsp:works-knowledge-grace`
 
 ### 12-14 <a id="tea-isa-upanisad-12-14"></a>
 `skeleton` · confidence moderate
@@ -125,4 +125,4 @@ terms: [kratu](../terms/kratu.md) · concepts: [The last thought and resolve at 
 _Notes: Veda affiliation: White Yajurveda (Vājasaneyi Saṃhitā, ch. 40; Kāṇva and Mādhyandina recensions)_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

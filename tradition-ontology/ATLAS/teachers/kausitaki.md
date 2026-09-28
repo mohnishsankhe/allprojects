@@ -10,4 +10,4 @@
 Taught 'breath is brahman' (KauU 2.1); as Sarvajit Kauṣītaki he had three worships of the sun (KauU 2.7).
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

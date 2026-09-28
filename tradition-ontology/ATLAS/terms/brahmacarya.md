@@ -8,6 +8,7 @@
 
 ## Definitions by tradition
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): Restraint of the generative organ with the senses guarded (YBh 2.30); when established, vigour is gained (2.38).
+- [Āyurveda](../lineages/ayurveda.md): Lineage contribution (Āyurveda): the third support of life (Ca Sū 11.35); 'the best of paths' (Sū 30.15); among the qualities of good conduct (Sū 8.29) and of the one who lives on constant rasāyana (Ci 1.4.30); required of the initiated medical student (Vi 8.13).
 - [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): Vedic studentship, by which the debt to the seers is paid (TS 6.3.10.5); the student is withheld from Death if he brings fuel and begs daily (ŚB 11.3.3).
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): The student's stage in the teacher's house, with chastity, begging and service; temporary or lifelong (naiṣṭhika).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): The life of a student of the Veda, celibacy: what people call sacrifice is really brahmacarya (ChU 8.5); the brahma-world belongs to those who find it by brahmacarya (ChU 8.4.3); preparatory year of austerity, celibacy and faith (PrU 1.2).
@@ -19,4 +20,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

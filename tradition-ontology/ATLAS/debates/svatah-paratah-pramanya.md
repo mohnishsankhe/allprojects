@@ -39,4 +39,4 @@ Invalidity is intrinsic and validity extrinsic — as reported in the same doxog
 _Notes: The four-way doxographic schema (Sāṃkhya: both intrinsic; Nyāya: both extrinsic; Buddhists: invalidity intrinsic; Mīmāṃsā: validity intrinsic) is recalled from later doxography._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._

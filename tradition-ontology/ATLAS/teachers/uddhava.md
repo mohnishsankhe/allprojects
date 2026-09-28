@@ -10,4 +10,4 @@ Kṛṣṇa's cousin, counsellor and devotee; recipient of the Uddhava Gītā. E
 **Realization — the tradition's account:** Having heard the teaching, Uddhava, freed of doubt, went to Badarikāśrama to live it out (Bhāgavata 11.29).
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

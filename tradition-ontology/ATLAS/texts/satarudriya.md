@@ -1,6 +1,6 @@
 # Śatarudrīya (Śrī Rudram, Rudrādhyāya)
 
-`src:satarudriya` · `skeleton` · confidence high
+`src:satarudriya` · `sourced` · confidence high
 
 **Alternate titles:** Śrī Rudram, Rudraprāśna, Namakam, Rudrādhyāya
 **Original title:** शतरुद्रीयम्
@@ -17,4 +17,8 @@ The litany of homage to Rudra in his hundreds of forms: after asking Rudra to tu
 _Notes: Used in the agnicayana to pacify Rudra; recited in the tradition as Rudra-japa (Ekādaśa-, Laghu-, Mahā-, Atirudra) and in Śaiva worship. The Jābāla Upaniṣad names śatarudrīya recitation as a means to immortality (reference only)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/vedaH/yajur/taittirIya/mUlam/saMhitA/4/5.md, text:sources_raw/DharmicData/Yajurveda/vajasneyi_madhyadina_samhita.json — TS 4.5 has 11 anuvākas (local segmentation) and VS 16 has 66 kaṇḍikās — location 'TS 4.5.1–11 = VS 16.1–66' confirmed; 'namaḥ śivāya ca śivatarāya ca' in the eighth anuvāka (TS 4.5.8 = VS 16.41). The Jābāla Upaniṣad reference and the Rudra-japa multiples are side notes (multiples confirmed under prc:rudra-japa).
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

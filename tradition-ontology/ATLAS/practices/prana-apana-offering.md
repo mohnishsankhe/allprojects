@@ -14,4 +14,4 @@ As a form of sacrifice, some offer the in-breath into the out-breath and the out
 _Notes: Summary only; the Gītā prescribes no retention measures._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

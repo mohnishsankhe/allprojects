@@ -12,4 +12,4 @@
 The Kauthuma Sāmaveda collection of mantras for the domestic rites — marriage, conception, birth and the like — whose continuation (prapāṭhakas 3–10 of the 'Chāndogya Brāhmaṇa') is the Chāndogya Upaniṣad.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

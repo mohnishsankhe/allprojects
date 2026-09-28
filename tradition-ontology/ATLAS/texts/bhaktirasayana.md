@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), `lin:alankara`
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Alaṅkāraśāstra and Nāṭyaśāstra (poetics, dramaturgy and the theory of rasa)](../lineages/alankara.md)
 **Genre:** prakaraṇa
 **Authors:** 
   - [Madhusūdana Sarasvatī](../teachers/madhusudana-sarasvati.md) — role: author; attribution: accepted
@@ -35,4 +35,4 @@ concepts: [Devotion (bhakti) in Advaita](../concepts/bhakti-in-advaita.md) · te
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

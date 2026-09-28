@@ -1,6 +1,6 @@
 # Sāyaṇa's commentary on the Atharvaveda
 
-`src:atharvaveda-bhasya-sayana` · `skeleton` · confidence moderate
+`src:atharvaveda-bhasya-sayana` · `sourced` · confidence moderate
 
 **Original title:** अथर्ववेदभाष्यम्
 **Language:** Sanskrit
@@ -17,4 +17,8 @@ Sāyaṇa's commentary on the Śaunaka Atharvaveda, surviving for most but not a
 _Notes: Which books lack the commentary is not recalled with confidence._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://archive.org/details/in.ernet.dli.2015.405503, https://groups.google.com/g/bvparishat/c/VFskOD1aVRg — Confirmed: S. P. Pandit's edition (1895–98) with Sāyaṇa's commentary; the commentary is lacking for some books (e.g. kāṇḍa 12) — agrees with 'most but not all of its books'.
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

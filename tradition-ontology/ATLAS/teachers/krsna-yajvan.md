@@ -10,4 +10,4 @@
 Author of the Mīmāṃsāparibhāṣā, an elementary manual.
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

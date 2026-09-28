@@ -12,7 +12,7 @@
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-- analogous: [karma-yoga](karma-yoga.md) — both make work an offering; kāyaka is specifically one's livelihood, with its fruit shared (dāsōha)
+- analogous: [karmayoga](karma-yoga.md) — both make work an offering; kāyaka is specifically one's livelihood, with its fruit shared (dāsōha)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._

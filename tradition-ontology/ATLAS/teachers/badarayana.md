@@ -14,4 +14,4 @@ Author (tradition) or final redactor (scholarly) of the Brahma Sūtras; he state
 _Notes: The identification with Vyāsa (tch:vyasa) is the tradition's; Śaṅkara refers to the sūtrakāra as Vyāsa in places. Scholars treat them as distinct._
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

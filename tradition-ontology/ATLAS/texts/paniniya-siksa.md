@@ -1,6 +1,6 @@
 # Pāṇinīya Śikṣā
 
-`src:paniniya-siksa` · `skeleton` · confidence high
+`src:paniniya-siksa` · `sourced` · confidence high
 
 **Original title:** पाणिनीयशिक्षा
 **Language:** Sanskrit
@@ -15,7 +15,7 @@
 
 The standard treatise of Vedic phonetics (śikṣā): it counts sixty-three or sixty-four phonemes declared by Svayambhū (v. 3), explains how speech arises when the self, having grasped meanings with the intellect, joins the mind to the wish to speak, the mind strikes the body's fire and the fire impels the breath (vv. 6–9), classifies sounds by place, effort, tone and duration, lists the faults and the virtues of reciters (vv. 32–33), pictures the six Vedāṅgas as the limbs of the Veda (vv. 41–42), warns that a mantra defective in accent or sound harms the sacrificer (v. 52), and ends in homage to Pāṇini, who received the collection of phonemes from Maheśvara (v. 57).
 
-## Teachings (10: skeleton 10)
+## Teachings (10: skeleton 7, sourced 3)
 
 ### 3 <a id="tea-paniniya-siksa-3"></a>
 `skeleton` · confidence high
@@ -63,7 +63,7 @@ _level: conventional · standpoint: seeker · path: sound · stage: all · types
 concepts: [Oral preservation of the Veda](../concepts/vedic-recitation-and-preservation.md) · practices: [The Vedic recitations (pāṭha): continuous, word-by-word, step and the eight modified ones](../practices/vedic-recitation-pathas.md) · obstacles: [The six faults of reciters](../obstacles/reciter-faults.md)
 
 ### 32-33 <a id="tea-paniniya-siksa-32-33"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Six are the worst reciters: the one who sings, the hasty, the head-shaker, the one who recites from writing, the one ignorant of the meaning, the weak-voiced; six are the virtues of a reciter: sweetness, distinct letters, right word-division, good accent, composure and command of tempo.
 
@@ -81,7 +81,7 @@ _level: conventional · standpoint: analytic · path: sound, knowledge · stage:
 terms: [vedāṅga](../terms/vedanga.md) · concepts: [The six limbs of the Veda](../concepts/six-vedangas.md)
 
 ### 52 <a id="tea-paniniya-siksa-52"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 A mantra deficient in accent or letter, wrongly applied, does not convey its meaning; that verbal thunderbolt harms the sacrificer, as 'Indra-śatru' did through a fault of accent.
 
@@ -90,7 +90,7 @@ _level: conventional · standpoint: seeker · path: sound, ritual · stage: all 
 terms: [svara](../terms/svara.md), [mantra](../terms/mantra.md) · concepts: [The Vedic accents](../concepts/vedic-accent-system.md), [The power of accent](../concepts/power-of-accent.md) · practices: [Vedic recitation (vedapāṭha, svādhyāya of the Saṃhitā)](../practices/vedapatha.md) · obstacles: [Faulty pronunciation and barbarous speech](../obstacles/faulty-pronunciation.md)
 
 ### 54-55 <a id="tea-paniniya-siksa-54-55"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 One who studies without the hand (gestures), lacking accent and letters, is burned by the Ṛg, Yajus and Sāman and goes to a lower birth; one who studies the Veda with the hand, with accent, letters and meaning, is purified by them and is honoured in the world of Brahman.
 
@@ -111,4 +111,8 @@ concepts: [The divine origin of grammar](../concepts/revelation-of-grammar.md) �
 _Notes: Local copy: raw_etexts/shixA/sAdhAraNI/paniniya_shiksha.md (verse numbers checked)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+text-locate: confirmed — catalog:raw_etexts:paniniya_shiksha, text:sources_raw/raw_etexts/shixA/sAdhAraNI/paniniya_shiksha.md — Extant; verse numbers 32–33, 52, 54–55 confirmed in the local text; the text calls itself the work of Dākṣīputra Pāṇini (vv. 40, 56).
+
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

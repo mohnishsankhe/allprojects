@@ -1,6 +1,6 @@
 # Uñchavṛtti Upākhyāna
 
-`src:unchavrtti-upakhyana` · `skeleton` · confidence low
+`src:unchavrtti-upakhyana` · `sourced` · confidence low
 
 **Original title:** उञ्छवृत्त्युपाख्यान
 **Language:** Sanskrit
@@ -20,4 +20,8 @@ The closing story of the Śāntiparvan: a brāhmaṇa seeking the highest dharma
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.343.4 and 12.349.5 Padmanābha (nāga); 12.351.1 uñchavṛtti sage gone to heaven; 12.353.1, local:sources_raw/raw_etexts/mixed/sarit-markdown/mahabharata-devanagari.md (vulgate) uñchavṛtti sage — Section located at CE 12.340-353 as entered; speakers and topic confirmed by keyword search. (Listed as least sure in the unit REPORT.) Dating = the whole-epic accounts, as entered.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

@@ -13,4 +13,4 @@
 Disciple of Nampiḷḷai, called the 'emperor of commentators' (vyākhyāna-cakravarti), who wrote Maṇipravāḷa commentaries on nearly the whole Divya Prabandham, including the Irupattunālāyirappaṭi on the Tiruvāymoḻi.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._

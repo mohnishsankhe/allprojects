@@ -19,4 +19,4 @@ Seers (Viśvāmitra and others) call one another to a theological debate (brahmo
 _Notes: Existence and opening confirmed from the local e-text (ebharati Ebharati-9441). Veda affiliation: uncertain (Atharvan affiliation proposed; not verified)_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

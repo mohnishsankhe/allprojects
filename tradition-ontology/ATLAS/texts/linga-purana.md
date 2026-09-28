@@ -108,4 +108,4 @@ terms: [ariṣṭa](../terms/arista.md) · concepts: [The signs of approaching d
 _Notes: 1.3: aliṅga and liṅga; 1.7-9: Pāśupata yoga, eight limbs, ten obstacles, six upasargas/siddhis; 1.17-19 (approx.): the appearance of the liṅga of fire; 1.65 and 1.98: thousand names of Śiva; 1.85: pañcākṣara; 1.88: the eight siddhis; 1.91: signs of death; 2.28-45 (approx.): the great gifts and the jīvac-chrāddha; 2.55: Pāśupata yoga. verse number checked in the local e-text of the Liṅga Purāṇa (raw_etexts mAdhva-app)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

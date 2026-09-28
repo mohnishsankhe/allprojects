@@ -14,4 +14,4 @@
 Raghunandana's series of twenty-eight 'essences' (tattva) on ritual, time, impurity, śrāddha, inheritance and expiation, the authority for Bengal.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

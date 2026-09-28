@@ -51,7 +51,7 @@ The guru initiates in seven ways — by look, touch, word, thought, instruction 
 
 _level: conventional · standpoint: ritual · path: ritual, knowledge · stage: intermediate · types: teacher-transmission, karma-liberation_
 
-terms: [dīkṣā](../terms/diksa.md), [prārabdha](../terms/prarabdha.md) · concepts: [Kinds of initiation (dīkṣā) in the Āgamas](../concepts/kinds-of-diksa.md) · practices: [Dīkṣā (consecration for sacrifice)](../practices/diksa.md) · disputes: [Does initiation (dīkṣā) itself liberate, or is knowledge the direct cause of liberation?](../debates/does-diksa-liberate.md)
+terms: [dīkṣā](../terms/diksa.md), [prārabdha](../terms/prarabdha.md) · concepts: [Kinds of initiation](../concepts/kinds-of-diksa.md) · practices: [Initiation (dīkṣā) in the Kaula way](../practices/diksa.md) · disputes: [Does initiation (dīkṣā) itself liberate, or is knowledge the direct cause of liberation?](../debates/does-diksa-liberate.md)
 
 ### cupakkam.8 <a id="tea-sivananasiddhiyar-cupakkam-8-3"></a>
 `skeleton` · confidence moderate
@@ -84,4 +84,4 @@ concepts: [The Siddhānta doxography of rival schools](../concepts/four-circles-
 _Notes: Six classical commentaries are traditionally counted (incl. Civañāṉa Muṉivar's and Civākkiraiyōki's) — low confidence._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._

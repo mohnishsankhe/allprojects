@@ -1,6 +1,6 @@
 # Kauśika Sūtra
 
-`src:kausika-sutra` · `skeleton` · confidence moderate
+`src:kausika-sutra` · `sourced` · confidence moderate
 
 **Original title:** कौशिकसूत्रम्
 **Language:** Sanskrit
@@ -15,4 +15,8 @@ The ritual manual of the Śaunaka Atharvaveda that prescribes how its hymns are 
 _Notes: Primary owner of kalpa literature: U02; recorded here because it gives the viniyoga of the Atharvaveda healing hymns._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:DCS:Kauśikasūtra, catalog:eBharati:kaushikasUtram, catalog:GRETIL-dev:kausikasutra — Extant and digitized (with Dārila's bhāṣya and Keśava's paddhati also in DCS); its character as the viniyoga manual of the Śaunaka AV is standard.
+
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

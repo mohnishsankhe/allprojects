@@ -15,4 +15,4 @@ The ācārya initiates a qualified devotee who has undergone the saṃskāras: t
 _Notes: Ritual particulars (maṇḍala, fasting days) deliberately summarized, not listed._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._

@@ -17,7 +17,7 @@ Effort is everything; fate is nothing but one's own former effort and is overcom
 Everything is fixed by destiny (niyati); human effort has no power (as reported by Buddhist and Jain opponents).
 - beings are purified or defiled without cause or effort, ripened by destiny (reported)
 **Texts:** 
-  - `src:samannaphala-sutta` — ref: DN 2 (Makkhali Gosāla's view)
+  - [Sāmaññaphala Sutta](../texts/samannaphala-sutta.md) — ref: DN 2 (Makkhali Gosāla's view)
 ### [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
 Both fate and effort are needed, as seed and field; effort is the field without which fate bears no fruit (the common epic and smṛti position).
 - the analogy of seed and field (recalled from the Mahābhārata's discussions of daiva and puruṣakāra)
@@ -34,4 +34,4 @@ Under P2 (causal standpoint) the epic 'both' position and the Yoga Vāsiṣṭha
 _Notes: The epic side's reference is recalled with low confidence; the Ājīvika side is owned by U33._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

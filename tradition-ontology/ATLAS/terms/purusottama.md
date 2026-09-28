@@ -19,4 +19,4 @@
 **Related:** [Viṣṇu](visnu.md), [kṣara](ksara.md), [akṣara](aksara.md), [paramātman](paramatman.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic, skeleton:U14-visistadvaita, skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic, skeleton:U14-visistadvaita, skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._

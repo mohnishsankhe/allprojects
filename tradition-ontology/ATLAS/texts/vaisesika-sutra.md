@@ -440,7 +440,7 @@ The four life-stages (yield merit according to the presence or) absence of impur
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics_
 
-terms: [upadhā](../terms/upadha.md) · concepts: [Vaiśeṣika ethics: purity, restraint, intention](../concepts/ethics-vaisesika.md) · practices: [Duties of the life-stages and common duties (Vaiśeṣika)](../practices/asrama-dharma-vaisesika.md) · obstacles: [Impure intention (upadhā)](../obstacles/upadha.md)
+terms: [upadhā](../terms/upadha.md) · concepts: [Vaiśeṣika ethics: purity, restraint, intention](../concepts/ethics-vaisesika.md) · practices: [Duties of the life-stages and common duties (Vaiśeṣika)](../practices/asrama-dharma-vaisesika.md) · obstacles: [Grasping (upadhā) and craving](../obstacles/upadha.md)
 
 ### 6.2.6-10 <a id="tea-vaisesika-sutra-6-2-6-10"></a>
 `skeleton` · confidence moderate
@@ -458,7 +458,7 @@ Attachment arises from pleasure, from absorption in it, from satisfaction, from 
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: unmarked · types: karma-liberation, consciousness-mind_
 
-terms: [rāga (avairāgya)](../terms/raga.md), [adṛṣṭa](../terms/adrsta.md) · obstacles: [Attachment (rāga)](../obstacles/raga-nyaya.md)
+terms: [rāga](../terms/raga.md), [adṛṣṭa](../terms/adrsta.md) · obstacles: [Attachment (rāga)](../obstacles/raga-nyaya.md)
 
 ### 6.2.17-19 <a id="tea-vaisesika-sutra-6-2-17-19"></a>
 `skeleton` · confidence high
@@ -578,4 +578,4 @@ terms: [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md)
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._

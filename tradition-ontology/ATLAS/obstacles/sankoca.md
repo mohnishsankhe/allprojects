@@ -12,4 +12,4 @@ The contraction of universal consciousness into the individual knower, who consi
   - [Pratyabhijñāhṛdaya](../texts/pratyabhijnahrdayam.md) — ref: 9; rests_on: ["tea:pratyabhijnahrdayam:9"]
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

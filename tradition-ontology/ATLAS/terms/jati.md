@@ -13,6 +13,9 @@
 - [Śaraṇa–vacana tradition](../lineages/sarana-vacana.md): The vacanas reject caste among devotees: Basava calls himself the son in the house of the cobbler Mādāra Cennayya and asks to say of every devotee 'he is ours'.
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): Birth-group; the mixed classes arising from unions across the varṇas (anuloma, pratiloma) described in MDh 10.
 - [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md): The real universal; in MS 6.1.8 the class (human) as the eligible agent.
+- [Sant tradition (nirguṇa bhakti of North India)](../lineages/sant.md): Birth-group or caste, which the Sants declare has no standing before God ('do not ask a sādhu's caste').
+- [Bāul](../lineages/baul.md): Jāt: caste and creed; Lalon has 'never seen its form' and asks where it is at birth and death.
+- [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md): The universal, which words denote; the true part of things; ultimately Being (sattā) itself (VP 3.1).
 
 ## Forms in other languages
 
@@ -21,4 +24,4 @@
 _Notes: Homonym: other units define jāti as birth or social class._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U20-virasaiva, skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U20-virasaiva, skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa, skeleton:U27-sant-baul, skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._

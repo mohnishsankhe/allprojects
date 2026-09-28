@@ -15,9 +15,9 @@ The Vedic means are impure (aviśuddhi, Sāṃkhya Kārikā 2): the killing that
 **Texts:** 
   - [Sāṃkhya Kārikā](../texts/samkhya-karika.md) — ref: 2
   - [Sāṃkhyatattvakaumudī](../texts/tattvakaumudi.md) — ref: on 2
-### `lin:jainism`
+### [Jainism (Jaina dharma)](../lineages/jainism.md)
 All killing is violence and binds karma, whatever the motive of ritual.
-### `lin:early-buddhism`
+### [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md)
 Animal sacrifice is not a wholesome act.
 
 ## Reconciliation (interpretation layer)
@@ -28,4 +28,4 @@ Animal sacrifice is not a wholesome act.
 _Notes: Only the Śabara passage was checked; the Bhāṭṭa and Sāṃkhya (Vācaspati) positions are from general knowledge._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

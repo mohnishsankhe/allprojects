@@ -12,6 +12,7 @@
 - [Sāṃkhya](../lineages/samkhya.md): Puruṣa is witness (SK 19), by direct relation (SS 1.161); the witness of deep sleep and other states (SS 1.148).
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): The witness distinct from the three states of the intellect (Haṃsa Gītā); the non-eating bird that knows both.
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): The Self as witness of the elements, body and mind, free and actionless; resting in it is freedom now (Aṣṭāvakra); the Self standing apart as the intellect's witness (Rāma Gītā).
+- [Śrīvidyā](../lineages/srividya.md): Witness: the Goddess is 'witness of the universe, without a witness' (LSN 84).
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): The self as its own witness and refuge (MDh 8.84).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Witness: the one God is 'the witness, the knower, alone, without qualities' (ŚU 6.11).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): The witnessing consciousness into which, in samādhi, the world dissolves; the Self untouched by states.
@@ -24,4 +25,4 @@
 **Related:** [kūṭastha](kutastha.md), [Turīya](turiya.md), [pratyakṣa](pratyaksa.md), [svataḥ-prāmāṇya](svatah-pramanya.md), [draṣṭṛ](drastr.md), [puruṣa](purusa.md), [upadraṣṭṛ](upadrastr.md)
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U23-sakta-srividya, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

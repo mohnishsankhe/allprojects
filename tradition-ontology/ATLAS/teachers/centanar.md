@@ -11,4 +11,4 @@
 Poet of the Tiruvicaippā and of the benedictory Tiruppallāṇṭu (Tirumuṟai 9).
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._

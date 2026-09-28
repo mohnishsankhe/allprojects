@@ -1,13 +1,27 @@
 # Bhāskararāya
 
-`tch:bhaskararaya` · `skeleton` · confidence moderate
+`tch:bhaskararaya` · `skeleton` · confidence high
 
-**Lineages:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Śrīvidyā](../lineages/srividya.md), [Kaula (the Kula tradition)](../lineages/kaula.md)
+**Alternate names:** Bhāsurānandanātha, Bhāskararāya Makhin, Bhāskara
+**Lineages:** [Śrīvidyā](../lineages/srividya.md), [Kaula Śrīvidyā (the Vāmakeśvara–Yoginīhṛdaya exegetical line)](../lineages/kaula-srividya.md), [Śākta traditions](../lineages/sakta.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Kaula (the Kula tradition)](../lineages/kaula.md)
+**Dates:** Scholarly account: late 17th - 18th c. CE; (confidence low)
+**Places:** Kāśī (Vārāṇasī), the Kāverī region of Tamil Nadu (by tradition, a village named after him)
 **Historicity:** historical
+**Teachers:** [Nṛsiṃhānandanātha](nrsimhanandanatha.md)
+**Students:** [Umānandanātha](umanandanatha.md)
 **Works:** 
+  - [Saubhāgyabhāskara](../texts/saubhagyabhaskara.md) — attribution: accepted
+  - [Setubandha](../texts/setubandha.md) — attribution: accepted
+  - [Varivasyārahasya](../texts/varivasya-rahasya.md) — attribution: accepted
   - [Guptavatī](../texts/guptavati.md) — attribution: accepted
+  - [Tripuropaniṣad-bhāṣya (Bhāskararāya)](../texts/tripura-upanisad-bhasya-bhaskararaya.md) — attribution: accepted
+  - [Bhāvanopaniṣad-bhāṣya (Bhāskararāya)](../texts/bhavana-upanisad-bhasya-bhaskararaya.md) — attribution: accepted
+  - [Kaulopaniṣad-bhāṣya (Bhāskararāya)](../texts/kaula-upanisad-bhasya-bhaskararaya.md) — attribution: accepted
 
-In this unit: author of the Guptavatī commentary on the Devī Māhātmya (his Śrīvidyā works belong to U23).
+The great 18th-c. systematizer of Śrīvidyā (initiatory name Bhāsurānandanātha), disciple of Nṛsiṃhānandanātha: author of the Saubhāgyabhāskara on the Lalitā Sahasranāma, the Setubandha on the Vāmakeśvara Tantra, the Varivasyārahasya, the Guptavatī on the Devī Māhātmya and commentaries on the Tripurā, Bhāvanā and Kaula Upaniṣads; he read the Śākta tantras through Mīmāṃsā and Vedānta and defended their Vedic standing.
+**Realization — the tradition's account:** Remembered as a perfected upāsaka of Lalitā who performed great sacrifices and vanquished opponents in debate at Kāśī; his life is told in the Bhāskaravilāsa.
+
+_Notes: Initiatory name and guru's name checked in the Varivasyārahasya colophon and the Saubhāgyabhāskara opening. Places and exact dates are from memory (low)._
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

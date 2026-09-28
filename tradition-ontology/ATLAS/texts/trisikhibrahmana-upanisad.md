@@ -5,7 +5,7 @@
 **Alternate titles:** Triśikhi
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), `lin:hatha-yoga`, [Advaita Vedānta](../lineages/advaita-vedanta.md)
+**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Advaita Vedānta](../lineages/advaita-vedanta.md)
 **Genre:** upaniṣad
 **Attribution:** tradition: Śruti: revealed, without human author (apauruṣeya); the Muktikā presents it as one of the 108 Upaniṣads that Rāma teaches Hanumān, each belonging to a Vedic śākhā; scholarly: anonymous; assigned to a Veda by the Muktikā list, not by any surviving śākhā transmission; confidence: moderate
 **Dates:** Tradition's account: Śruti: eternal and authorless; no human date; Scholarly account: Scholarly accounts differ by text. Several Yoga Upaniṣads (e.g. Amṛtabindu, Amṛtanāda, Kṣurikā, Tejobindu, Nādabindu, Dhyānabindu, Brahmavidyā, Yogatattva, Yogaśikhā, Haṃsa) survive in shorter northern versions that are older; the expanded southern recensions (as in this collection) borrow from medieval haṭha works and were probably compiled in South India, perhaps as late as the 18th c. (Bouy 1994).; (confidence low)
@@ -104,7 +104,7 @@ Pratyāhāra: holding the breath successively at eighteen vital points (marma) o
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: intermediate · types: practice, body-layers_
 
-practices: [Concentration on the eighteen vital points (marma)](../practices/marmasthana-dharana.md)
+practices: [Withdrawal through the eighteen vital points (marmasthāna)](../practices/marmasthana-dharana.md)
 
 ### 134-143 <a id="tea-trisikhibrahmana-upanisad-134-143"></a>
 `skeleton` · confidence moderate
@@ -113,7 +113,7 @@ Element-concentrations with the vyūha deities: earth with Aniruddha, water with
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice_
 
-practices: [The five element concentrations (pañca-dhāraṇā)](../practices/element-dharanas.md)
+practices: [The five element-concentrations (pañca-dhāraṇā) in the haṭha texts](../practices/element-dharanas.md)
 
 ### 148-151 <a id="tea-trisikhibrahmana-upanisad-148-151"></a>
 `skeleton` · confidence moderate
@@ -135,4 +135,4 @@ _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced �
 _Notes: Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-text used here; other editions (e.g. the Adyar series, Schrader's critical edition, northern recensions) number differently._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** shared
-**Lineages:** `lin:vyakarana`, `lin:yapaniya`
+**Lineages:** [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md), [Yāpanīya](../lineages/yapaniya.md)
 **Genre:** vyākaraṇa
 **Authors:** 
   - [Pālyakīrti (Śākaṭāyana)](../teachers/palyakirti.md) — role: author; attribution: accepted
@@ -14,4 +14,4 @@
 A grammar by the Yāpanīya Jain Pālyakīrti, who took the name of the ancient grammarian Śākaṭāyana; not the lost work of the Śākaṭāyana cited by Yāska and Pāṇini.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

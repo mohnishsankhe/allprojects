@@ -21,7 +21,7 @@ The model Purāṇa of the five marks: creation from pradhāna and puruṣa as f
   - kind: original; name: Viṣṇupurāṇa with Viṣṇucittīya and Śrīdhara's Ātmaprakāśa (local e-text, raw_etexts); licence: public domain text
 **Commentaries on this text:** [Ātmaprakāśa](atmaprakasa.md), [Viṣṇucittīya](visnucittiya.md)
 
-## Teachings (39: skeleton 39)
+## Teachings (39: skeleton 37, sourced 2)
 
 ### 1.2 <a id="tea-visnu-purana-1-2"></a>
 `skeleton` · confidence moderate
@@ -171,7 +171,7 @@ _level: ultimate · standpoint: absolute · path: knowledge · stage: intermedia
 teachers: [Ṛbhu](../teachers/rbhu.md), [Nidāgha](../teachers/nidagha.md), [Jaḍa Bharata](../teachers/jada-bharata.md)
 
 ### 3.5.1-14 <a id="tea-visnu-purana-3-5-1-14"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Vaiśampāyana made twenty-seven branches of the Yajurveda tree and gave them to his pupils; when he incurred the sin of killing a brahmin by breaking the sages' compact, Yājñavalkya offered to perform the expiation alone, disparaging the others; the angry teacher bade him give back what he had learned; Yājñavalkya vomited the Yajus stained with blood, and the other pupils, becoming partridges (tittiri), took them up — hence they are Taittirīyas; those who performed the expiation were called Caraka-adhvaryus.
 
@@ -180,7 +180,7 @@ _level: conventional · standpoint: cosmic · path: general · stage: all · typ
 concepts: [The Black and the White Yajurveda](../concepts/black-and-white-yajurveda.md), [Transmission of the Veda: teacher, śākhā and oral recitation](../concepts/vedic-transmission-sakha.md) · teachers: [Vaiśampāyana](../teachers/vaisampayana.md), [Yājñavalkya](../teachers/yajnavalkya.md), [Tittiri](../teachers/tittiri.md)
 
 ### 3.5.15-30 <a id="tea-visnu-purana-3-5-15-30"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Yājñavalkya, devoted to breath-control, praised the Sun as the door of liberation and the abode of the three Vedas; the Sun, taking the form of a horse (vājin), granted him Yajus unknown to his teacher, called 'unused' (ayātayāma); those who study them are called Vājins; their branches are fifteen, the Kāṇva and others.
 
@@ -410,4 +410,4 @@ teachers: [Keśidhvaja](../teachers/kesidhvaja.md), [Khāṇḍikya Janaka](../t
 _Notes: Book 6 ch. 6-7: Keśidhvaja teaches Khāṇḍikya yoga; Book 2 ch. 13-16: Bharata and Ṛbhu-Nidāgha. verse number checked in the local e-text of the VP with the Viṣṇucittīya and Ātmaprakāśa commentaries (raw_etexts mAdhva-app)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

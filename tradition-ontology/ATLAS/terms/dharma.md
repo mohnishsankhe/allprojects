@@ -4,9 +4,10 @@
 
 **Language:** Sanskrit
 **Native script:** धर्म
-**Literal:** that which upholds
+**Literal:** that which upholds; right order, duty
 
 ## Definitions by tradition
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: The field of the battle is the 'field of dharma' (1.1). In Arjuna's argument the eternal family dharmas and the dharmas of the birth-group perish when a family is destroyed, and adharma prevails (1.40–43); he is bewildered about dharma (2.7). Kṛṣṇa speaks of svadharma: for a kṣatriya nothing is better than a battle in accordance with dharma (dharmya, 2.31, 2.33); one's own dharma, though imperfect, is better than another's (3.35); even a little of 'this dharma' (the yoga of understanding) protects from great fear (2.40).
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): The whole of right conduct — ritual, moral, social and legal — rooted in the Veda, smṛti, the practice of the good and self-approval (MDh 2.6); it protects when protected and alone follows one after death (MDh 8.15–17; 4.238–242); its tenfold mark is steadfastness, patience, self-control, not stealing, purity, sense-restraint, wisdom, learning, truth and absence of anger (MDh 6.92).
 - [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md): The merit that correct usage of words brings, for which grammar restricts usage (first vārttika).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The upholding order and right conduct: its decline occasions the Lord's descent (BhG 4.7); one's own dharma is better than another's (3.35); it is subtle (MBh 8.49) and its truth hidden (vulgate Yakṣapraśna); from it come artha and kāma (18.5.49); non-cruelty is its highest form (3.297.55).
@@ -20,7 +21,7 @@
 - Pali: dhamma  — partial — cognate; the Buddhist senses are defined by the Buddhist units
 
 ## Equivalents (interpretation layer)
-**Related:** [svadharma](svadharma.md), [trivarga](trivarga.md), [ānṛśaṃsya](anrsamsya.md), [adharma](adharma.md), [bhāva](bhava.md), [codanā](codana.md), [vidhi](vidhi.md)
+**Related:** [svadharma](svadharma.md), [paradharma](paradharma.md), [kuladharma](kuladharma.md), [jātidharma](jatidharma.md), [adharma](adharma.md), [trivarga](trivarga.md), [ānṛśaṃsya](anrsamsya.md), [bhāva](bhava.md), [codanā](codana.md), [vidhi](vidhi.md)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

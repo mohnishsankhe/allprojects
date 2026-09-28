@@ -172,7 +172,7 @@ Know him alone as the self in whom sky, earth and the space between are woven, a
 
 _level: ultimate · standpoint: seeker · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [ātman](../terms/atman.md), [amṛtatva / amṛta](../terms/amrtatva.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md)
+terms: [ātman](../terms/atman.md), [amṛtatva](../terms/amrtatva.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md)
 
 ### 2.2.6 <a id="tea-mundaka-upanisad-2-2-6"></a>
 `skeleton` · confidence high
@@ -239,7 +239,7 @@ Two birds, companions and friends, cling to the same tree; one of them eats the 
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: intermediate · types: ultimate, karma-liberation_
 
-terms: [jīva](../terms/jiva.md), [īśvara](../terms/isvara.md) · concepts: [The two birds on one tree](../concepts/two-birds.md), [The individual living self (jīva)](../concepts/jiva.md), [Īśvara (the Lord)](../concepts/isvara.md) · obstacles: [Sorrow (śoka)](../obstacles/soka.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md) · disputes: `dsp:souls-one-or-distinct`
+terms: [jīva](../terms/jiva.md), [īśvara](../terms/isvara.md) · concepts: [The two birds on one tree](../concepts/two-birds.md), [The individual living self (jīva)](../concepts/jiva.md), [Īśvara (the Lord)](../concepts/isvara.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md) · disputes: `dsp:souls-one-or-distinct`
 
 ### 3.1.3 <a id="tea-mundaka-upanisad-3-1-3"></a>
 `skeleton` · confidence high
@@ -340,7 +340,7 @@ Whoever knows that highest brahman becomes brahman; in his family no one is born
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: realized · types: karma-liberation_
 
-terms: [hṛdayagranthi](../terms/hrdaya-granthi.md) · concepts: [Liberation (mokṣa) in Dvaita](../concepts/moksa.md) · obstacles: [Sorrow (śoka)](../obstacles/soka.md), [Evil (pāpman)](../obstacles/papman.md), [The knots of the heart](../obstacles/hrdaya-granthi.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md)
+terms: [hṛdayagranthi](../terms/hrdaya-granthi.md) · concepts: [Liberation (mokṣa) in Dvaita](../concepts/moksa.md) · obstacles: [Grief (śoka)](../obstacles/soka.md), [Evil (pāpman)](../obstacles/papman.md), [The knots of the heart](../obstacles/hrdaya-granthi.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md)
 
 ### 3.2.10-11 <a id="tea-mundaka-upanisad-3-2-10-11"></a>
 `skeleton` · confidence high
@@ -355,4 +355,4 @@ terms: [śirovrata](../terms/sirovrata.md) · concepts: [Secrecy and restriction
 _Notes: Veda affiliation: Atharvaveda (traditionally the Śaunaka śākhā)_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

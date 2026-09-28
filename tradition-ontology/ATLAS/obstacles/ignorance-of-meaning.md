@@ -12,4 +12,4 @@ Learning the Veda without its meaning: 'a post that bears loads', 'dry fuel with
   - [Vasiṣṭha Dharmasūtra](../texts/vasistha-dharmasutra.md) — ref: 6.3; rests_on: ["tea:vasistha-dharmasutra:6.3"]
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

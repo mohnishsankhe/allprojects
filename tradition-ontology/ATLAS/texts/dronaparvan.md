@@ -1,6 +1,6 @@
 # Droṇaparvan
 
-`src:dronaparvan` · `skeleton` · confidence high
+`src:dronaparvan` · `sourced` · confidence high
 
 **Original title:** द्रोणपर्वन्
 **Language:** Sanskrit
@@ -20,4 +20,8 @@ The book of Droṇa: the battle under Droṇa's command until his death.
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_7.json (BORI Critical Edition text) book 7: 173 chapters — Book 7 has exactly 173 chapters in the local Critical Edition text, as entered.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

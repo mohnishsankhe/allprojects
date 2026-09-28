@@ -615,7 +615,7 @@ Ignorance, I-am-ness, attachment, aversion and clinging to life are the afflicti
 
 _level: unmarked · standpoint: analytic · path: meditation · stage: all · types: consciousness-mind, karma-liberation_
 
-terms: [kleśa](../terms/klesa.md), [avidyā](../terms/avidya.md), [asmitā](../terms/asmita.md), [rāga (avairāgya)](../terms/raga.md), [dveṣa](../terms/dvesa.md), [abhiniveśa](../terms/abhinivesa.md) · concepts: [The five afflictions (kleśa)](../concepts/five-klesas.md) · obstacles: [The five afflictions (kleśa)](../obstacles/five-klesas.md), [Ignorance (avidyā)](../obstacles/avidya.md), [I-am-ness (asmitā)](../obstacles/asmita.md), [Passion (rāga)](../obstacles/raga.md), [Aversion (dveṣa)](../obstacles/dvesa.md), [Clinging to life (abhiniveśa)](../obstacles/abhinivesa.md)
+terms: [kleśa](../terms/klesa.md), [avidyā](../terms/avidya.md), [asmitā](../terms/asmita.md), [rāga](../terms/raga.md), [dveṣa](../terms/dvesa.md), [abhiniveśa](../terms/abhinivesa.md) · concepts: [The five afflictions (kleśa)](../concepts/five-klesas.md) · obstacles: [The five afflictions (kleśa)](../obstacles/five-klesas.md), [Ignorance (avidyā)](../obstacles/avidya.md), [I-am-ness (asmitā)](../obstacles/asmita.md), [Passion, attachment (rāga)](../obstacles/raga.md), [Aversion (dveṣa)](../obstacles/dvesa.md), [Clinging to life (abhiniveśa)](../obstacles/abhinivesa.md)
 
 ### 2.4 <a id="tea-yoga-sutra-2-4"></a>
 `skeleton` · confidence high
@@ -659,7 +659,7 @@ Attachment follows on pleasure.
 
 _level: unmarked · standpoint: analytic · path: meditation · stage: all · types: consciousness-mind_
 
-terms: [rāga (avairāgya)](../terms/raga.md) · concepts: [The five afflictions (kleśa)](../concepts/five-klesas.md) · obstacles: [Passion (rāga)](../obstacles/raga.md)
+terms: [rāga](../terms/raga.md) · concepts: [The five afflictions (kleśa)](../concepts/five-klesas.md) · obstacles: [Passion, attachment (rāga)](../obstacles/raga.md)
 
 ### 2.8 <a id="tea-yoga-sutra-2-8"></a>
 `skeleton` · confidence high
@@ -901,7 +901,7 @@ Restraints, observances, posture, breath-regulation, sense-withdrawal, concentra
 
 _level: conventional · standpoint: seeker · path: meditation, body-breath · stage: all · types: practice_
 
-terms: [aṣṭāṅga-yoga](../terms/astanga-yoga.md), [yama](../terms/yama.md), [niyama](../terms/niyama.md), [āsana](../terms/asana.md), [prāṇāyāma](../terms/pranayama.md), [pratyāhāra](../terms/pratyahara.md), [dhāraṇā](../terms/dharana.md), [dhyāna (nididhyāsana)](../terms/dhyana.md), [samādhi](../terms/samadhi.md) · concepts: [The eight limbs of yoga (aṣṭāṅga)](../concepts/astanga-yoga.md) · practices: [The restraints (yama)](../practices/yama.md), [The observances (niyama)](../practices/niyama.md), [Posture (āsana)](../practices/asana.md), [Breath-regulation (prāṇāyāma)](../practices/pranayama.md), [Sense-withdrawal (pratyāhāra)](../practices/pratyahara.md), [Concentration (dhāraṇā)](../practices/dharana.md), [Meditation (dhyāna)](../practices/dhyana.md), [Samādhi as the eighth limb](../practices/samadhi.md)
+terms: [aṣṭāṅga-yoga](../terms/astanga-yoga.md), [yama](../terms/yama.md), [niyama](../terms/niyama.md), [āsana](../terms/asana.md), [prāṇāyāma](../terms/pranayama.md), [pratyāhāra](../terms/pratyahara.md), [dhāraṇā](../terms/dharana.md), [dhyāna (nididhyāsana)](../terms/dhyana.md), [samādhi](../terms/samadhi.md) · concepts: [The eight limbs of yoga (aṣṭāṅga)](../concepts/astanga-yoga.md) · practices: [The restraints (yama)](../practices/yama.md), [The observances (niyama)](../practices/niyama.md), [Posture (āsana)](../practices/asana.md), [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md), [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md), [Concentration (dhāraṇā)](../practices/dharana.md), [Meditation (dhyāna)](../practices/dhyana.md), [Samādhi as the eighth limb](../practices/samadhi.md)
 
 ### 2.30 <a id="tea-yoga-sutra-2-30"></a>
 `skeleton` · confidence high
@@ -1121,7 +1121,7 @@ When that is [accomplished], breath-regulation (prāṇāyāma) is the cutting o
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: intermediate · types: practice, body-layers_
 
-terms: [prāṇāyāma](../terms/pranayama.md), [śvāsa-praśvāsa](../terms/svasa-prasvasa.md) · practices: [Breath-regulation (prāṇāyāma)](../practices/pranayama.md)
+terms: [prāṇāyāma](../terms/pranayama.md), [śvāsa-praśvāsa](../terms/svasa-prasvasa.md) · practices: [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md)
 
 ### 2.50 <a id="tea-yoga-sutra-2-50"></a>
 `skeleton` · confidence high
@@ -1132,7 +1132,7 @@ It is external, internal or suspended in operation; regulated by place, time and
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: intermediate · types: practice, body-layers_
 
-terms: [prāṇāyāma](../terms/pranayama.md) · practices: [Breath-regulation (prāṇāyāma)](../practices/pranayama.md)
+terms: [prāṇāyāma](../terms/pranayama.md) · practices: [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md)
 
 ### 2.51 <a id="tea-yoga-sutra-2-51"></a>
 `skeleton` · confidence high
@@ -1154,7 +1154,7 @@ From that, the covering of the light dwindles.
 
 _level: conventional · standpoint: experiential · path: body-breath · stage: intermediate · types: practice, powers-experiences_
 
-terms: [prakāśāvaraṇa](../terms/prakasavarana.md) · practices: [Breath-regulation (prāṇāyāma)](../practices/pranayama.md) · obstacles: [The covering of the light (prakāśāvaraṇa)](../obstacles/prakasavarana.md)
+terms: [prakāśāvaraṇa](../terms/prakasavarana.md) · practices: [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md) · obstacles: [The covering of the light (prakāśāvaraṇa)](../obstacles/prakasavarana.md)
 
 ### 2.53 <a id="tea-yoga-sutra-2-53"></a>
 `skeleton` · confidence high
@@ -1165,7 +1165,7 @@ And the mind becomes fit for concentrations.
 
 _level: conventional · standpoint: experiential · path: body-breath, meditation · stage: intermediate · types: practice_
 
-terms: [dhāraṇā](../terms/dharana.md), [manas](../terms/manas.md) · practices: [Breath-regulation (prāṇāyāma)](../practices/pranayama.md), [Concentration (dhāraṇā)](../practices/dharana.md)
+terms: [dhāraṇā](../terms/dharana.md), [manas](../terms/manas.md) · practices: [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md), [Concentration (dhāraṇā)](../practices/dharana.md)
 
 ### 2.54 <a id="tea-yoga-sutra-2-54"></a>
 `skeleton` · confidence high
@@ -1176,7 +1176,7 @@ Sense-withdrawal (pratyāhāra) is the senses' seeming imitation of the mind's o
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice_
 
-terms: [pratyāhāra](../terms/pratyahara.md), [indriya](../terms/indriya.md) · practices: [Sense-withdrawal (pratyāhāra)](../practices/pratyahara.md)
+terms: [pratyāhāra](../terms/pratyahara.md), [indriya](../terms/indriya.md) · practices: [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md)
 
 ### 2.55 <a id="tea-yoga-sutra-2-55"></a>
 `skeleton` · confidence high
@@ -1187,7 +1187,7 @@ From that [comes] supreme mastery of the senses.
 
 _level: conventional · standpoint: experiential · path: meditation · stage: intermediate · types: practice, powers-experiences_
 
-terms: [indriya-jaya](../terms/indriya-jaya.md), [pratyāhāra](../terms/pratyahara.md) · practices: [Sense-withdrawal (pratyāhāra)](../practices/pratyahara.md) · disputes: [What is mastery of the senses (indriya-jaya)?](../debates/mastery-of-the-senses.md)
+terms: [indriya-jaya](../terms/indriya-jaya.md), [pratyāhāra](../terms/pratyahara.md) · practices: [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md) · disputes: [What is mastery of the senses (indriya-jaya)?](../debates/mastery-of-the-senses.md)
 
 ### 3.1 <a id="tea-yoga-sutra-3-1"></a>
 `skeleton` · confidence high
@@ -2172,4 +2172,4 @@ terms: [kaivalya](../terms/kaivalya.md), [pratiprasava](../terms/pratiprasava.md
 _Notes: Correction to the task list: the vulgate count is 195 (51/55/55/34), not 196; see structure._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 09:07 IST._

@@ -14,12 +14,14 @@
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Ten restraints (non-injury … purity), each with an outer and an inner meaning; moderate diet is chief.
 - [Nyāya](../lineages/nyaya.md): The means of dharma common to all life-stages (NBh 4.2.46).
 - [Vaiśeṣika](../lineages/vaisesika.md): Without restraint, pure food does not bring prosperity (VS 6.2.9 C).
+- [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md): Tamil Yamaṉ, Namaṉ, Kālaṉ: death, who carries off the sinner (Kaṭuveḷi pallavi) but has no hold on knowers (Tiruvaḷḷuvar ñāṉam 10) or on those who conquered him (Kuṭampai 26).
 
 ## Forms in other languages
+- Tamil: Yamaṉ / Namaṉ / Kālaṉ யமன் / நமன் / காலன் — exact
 
 ## Equivalents (interpretation layer)
 
 _Notes: Scholarly metadata only (not used in interpretation): cognate of Avestan Yima._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U10-yoga, skeleton:U07-puranas, skeleton:U17-pasupata-kapalika, skeleton:U04-minor-upanisads, skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U10-yoga, skeleton:U07-puranas, skeleton:U17-pasupata-kapalika, skeleton:U04-minor-upanisads, skeleton:U11-nyaya-vaisesika, skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._

@@ -1,6 +1,6 @@
 # Śivasaṅkalpa Sūkta
 
-`src:sivasankalpa-sukta` · `skeleton` · confidence high
+`src:sivasankalpa-sukta` · `sourced` · confidence high
 
 **Original title:** शिवसङ्कल्पसूक्तम्
 **Language:** Sanskrit
@@ -16,4 +16,8 @@ Six verses on the mind (manas), each ending 'may that mind of mine be of auspici
 _Notes: A form of these verses also circulates among the Ṛgveda khilas (reference only)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Yajurveda/vajasneyi_madhyadina_samhita.json, text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/1_rv/rgveda_-_khila.md — VS 34.1–6 located, each verse ending 'tan me manaḥ śivasaṅkalpam astu'; the Khila form (RVKh 4.11) also located, confirming the note.
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

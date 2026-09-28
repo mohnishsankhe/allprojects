@@ -13,4 +13,4 @@ The ascetic livelihood of gleaning grain left in the fields, praised in the Mok�
   - [Mokṣadharma (Mokṣadharmaparvan)](../texts/moksadharma.md) — ref: 12.340–353; rests_on: ["tea:moksadharma:12.340-353"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

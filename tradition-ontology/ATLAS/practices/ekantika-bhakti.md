@@ -13,4 +13,4 @@ Exclusive devotion to Nārāyaṇa, worship according to rule without desire for
 **Sequences:** [The ascent of the liberated through the four forms (Nārāyaṇīya)](../paths/narayaniya-vyuha-ascent.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

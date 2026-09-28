@@ -23,4 +23,4 @@ No: an effect follows from the totality of causes, which includes the absence of
 **Candidate readings:** P2-standpoint: 'power in the thing' and 'totality of conditions including absent obstacles' may describe the same causal facts from the standpoint of substance and of relations.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._

@@ -23,4 +23,4 @@ Sustained meditation on the Lord. In Dvaita: meditation on Viṣṇu with the qu
 - One who strives for a vision he is unfit for falls even from what he had. — [Brahmasūtrabhāṣya (Madhva)](../texts/brahma-sutra-bhasya-madhva.md) 4.3.15
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

@@ -17,4 +17,4 @@ Maṇḍana Miśra's treatise on the meaning of the Vedic injunction, arguing (a
 _Notes: Summary of Maṇḍana's position from general knowledge; not checked against the text here (low-moderate)._
 
 ---
-_Contributed by: skeleton:U12-mimamsa, skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

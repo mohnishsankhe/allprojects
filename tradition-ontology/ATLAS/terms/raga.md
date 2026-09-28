@@ -1,4 +1,4 @@
-# rāga (avairāgya)
+# rāga
 
 `trm:raga` · `skeleton` · confidence high
 
@@ -7,6 +7,7 @@
 **Literal:** passion, attachment
 
 ## Definitions by tradition
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: Gone from the sage of steady mind (2.56); senses free of rāga and dveṣa lead to serenity (2.64); set with dveṣa in each sense towards its object, a waylayer (3.34).
 - [Sāṃkhya](../lineages/samkhya.md): The tāmasa opposite of dispassion; from passion of the nature of rajas comes saṃsāra (SK 45); meditation is its removal (SS 3.30); it is not quieted by enjoyment (SS 4.27).
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): Attachment, which follows on pleasure (2.7).
 - [Nyāya](../lineages/nyaya.md): Attachment to the agreeable, arising from false knowledge (NBh 1.1.2); one of the three groups of faults.
@@ -17,7 +18,7 @@
 - Pali: rāga  — partial
 
 ## Equivalents (interpretation layer)
-**Related:** [vairāgya](vairagya.md)
+**Related:** [dveṣa](dvesa.md), [kāma](kama.md), [vairāgya](vairagya.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._

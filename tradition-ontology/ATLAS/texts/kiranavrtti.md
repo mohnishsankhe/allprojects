@@ -39,8 +39,8 @@ Rāmakaṇṭha argues that because mala is a substance (dravya) and not ignoran
 
 _level: conventional · standpoint: polemical · path: ritual, knowledge · stage: intermediate · types: karma-liberation, dispute_
 
-concepts: [Kinds of initiation (dīkṣā) in the Āgamas](../concepts/kinds-of-diksa.md) · teachers: [Bhaṭṭa Rāmakaṇṭha (Rāmakaṇṭha II)](../teachers/ramakantha.md) · disputes: [Is the root impurity (āṇava mala) a real substance removable only by ritual initiation, or is it ignorance - a contraction of consciousness - removed by knowledge?](../debates/mala-substance-or-ignorance.md), [Does initiation (dīkṣā) itself liberate, or is knowledge the direct cause of liberation?](../debates/does-diksa-liberate.md)
+concepts: [Kinds of initiation](../concepts/kinds-of-diksa.md) · teachers: [Bhaṭṭa Rāmakaṇṭha (Rāmakaṇṭha II)](../teachers/ramakantha.md) · disputes: [Is the root impurity (āṇava mala) a real substance removable only by ritual initiation, or is it ignorance - a contraction of consciousness - removed by knowledge?](../debates/mala-substance-or-ignorance.md), [Does initiation (dīkṣā) itself liberate, or is knowledge the direct cause of liberation?](../debates/does-diksa-liberate.md)
 
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._

@@ -5,7 +5,7 @@
 **Alternate titles:** Mahābhāṣya, Pātañjala Mahābhāṣya
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:vyakarana`, [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md)
+**Lineages:** [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md), [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md)
 **Genre:** vyākaraṇa (bhāṣya)
 **Commentary on:** [Aṣṭādhyāyī](astadhyayi.md)
 **Authors:** 
@@ -17,9 +17,27 @@
 Patañjali's 'great commentary' on Pāṇini's sūtras and Kātyāyana's vārttikas, in lively dialogue. Its introduction (Paspaśā) asks what a word is, gives the purposes of studying grammar — protection of the Veda, adaptation of mantras, the scriptural command, brevity and certainty — tells how Bṛhaspati taught Indra words one by one for a thousand divine years without reaching the end, reads the Ṛgveda's 'four horns' verse as a praise of grammar, and holds that the Asuras were defeated for mispronouncing speech.
 **Editions / translations:** 
   - kind: original; name: Kielhorn's edition via GRETIL (local Devanāgarī mirror)
-**Commentaries on this text:** [Mahābhāṣya-pradīpa](mahabhasya-pradipa.md)
+**Commentaries on this text:** [Mahābhāṣya-dīpikā (Tripādī) of Bhartṛhari](mahabhasya-dipika.md), [Mahābhāṣya-pradīpa](mahabhasya-pradipa.md)
 
-## Teachings (6: skeleton 6)
+## Teachings (9: skeleton 9)
+
+### 1.1.70 <a id="tea-mahabhasya-1-1-70"></a>
+`skeleton` · confidence moderate
+
+Then the sphoṭa is the word, and sound (dhvani) is a quality of the word: as with a drum-beat, one person goes twenty steps, another thirty, another forty — the sphoṭa has a fixed extent, the increase is due to the sound.
+
+_level: conventional · standpoint: analytic · path: knowledge, sound · stage: all · types: sound-language_
+
+terms: [sphoṭa](../terms/sphota.md), [dhvani](../terms/dhvani.md) · concepts: [Sphoṭa (the unitary meaning-bearer)](../concepts/sphota.md) · teachers: [Patañjali (the grammarian)](../teachers/patanjali-grammarian.md) · disputes: [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](../debates/sphota.md)
+
+### 1.2.64 <a id="tea-mahabhasya-1-2-64"></a>
+`skeleton` · confidence moderate
+
+On P 1.2.64 the vārttikas and bhāṣya record two views: Vājapyāyana holds that a word denotes the universal form (ākṛti), Vyāḍi that it denotes the individual substance (dravya); Patañjali accepts both as the grammarian's standpoints.
+
+_level: conventional · standpoint: analytic · path: knowledge, sound · stage: all · types: sound-language, dispute_
+
+terms: [jāti](../terms/jati.md), [dravya](../terms/dravya.md), [ākṛti](../terms/akrti.md) · concepts: `cpt:jati-dravya` · teachers: [Vājapyāyana](../teachers/vajapyayana.md), [Vyāḍi](../teachers/vyadi.md) · disputes: `dsp:jati-or-vyakti`
 
 ### 6.1.84 <a id="tea-mahabhasya-6-1-84"></a>
 `skeleton` · confidence high
@@ -29,6 +47,15 @@ A single word, rightly known, in accord with the science and well used, becomes 
 _level: conventional · standpoint: ritual · path: sound · stage: all · types: sound-language, karma-liberation_
 
 concepts: [Why grammar is studied](../concepts/purposes-of-grammar.md)
+
+### Paspaśā (vārttika 1: siddhe śabdārthasambandhe) <a id="tea-mahabhasya-paspasa-6"></a>
+`skeleton` · confidence moderate
+
+Kātyāyana's first vārttika as expounded in the Paspaśā: since word, meaning and their relation are established (siddha, eternal), and usage is prompted by meaning as known from the world, the science restricts usage for the sake of merit (dharma-niyama).
+
+_level: conventional · standpoint: analytic · path: knowledge, sound · stage: all · types: sound-language, ethics_
+
+terms: [śabdārtha-sambandha](../terms/sabdartha-sambandha.md), [dharma](../terms/dharma.md) · teachers: [Kātyāyana](../teachers/katyayana.md), [Patañjali (the grammarian)](../teachers/patanjali-grammarian.md) · disputes: [Is sound (the word) eternal?](../debates/eternality-of-sound.md)
 
 ### paspasa <a id="tea-mahabhasya-paspasa"></a>
 `skeleton` · confidence high
@@ -77,4 +104,4 @@ concepts: [Why grammar is studied](../concepts/purposes-of-grammar.md) · teache
 
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._

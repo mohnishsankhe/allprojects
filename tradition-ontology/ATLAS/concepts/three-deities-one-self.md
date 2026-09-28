@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [The self in the Dharmaśāstra](self-in-dharmasastra.md): both name one self behind many names (Nirukta 7.4; MDh 12.123) — rests on [7.4](../texts/nirukta.md#tea-nirukta-7-4), [12.118-125](../texts/manusmrti.md#tea-manusmrti-12-118-125)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

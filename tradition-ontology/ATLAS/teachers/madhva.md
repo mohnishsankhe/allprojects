@@ -1,6 +1,6 @@
 # Madhva
 
-`tch:madhva` · `skeleton` · confidence high
+`tch:madhva` · `sourced` · confidence high
 
 **Alternate names:** Madhvācārya, Ānandatīrtha, Pūrṇaprajña, Pūrṇabodha, Vāsudeva (birth name, tradition), Daśapramati, Śrīmad Ācārya, Bhagavatpāda (in colophons)
 **Lineages:** [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md), [Vedānta (Uttara Mīmāṃsā)](../lineages/vedanta.md), [The eight maṭhas of Uḍupi (aṣṭa-maṭha)](../lineages/udupi-asta-matha.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -57,4 +57,9 @@ Founder of Dvaita Vedānta (Tattvavāda). Born at Pājaka near Uḍupi to Madhya
 _Notes: Scholarly and traditional dates are given in 'dating'. The Uḍupi Kṛṣṇa image is said in the tradition to have come ashore in a block of gopīcandana clay from a ship — not verified in this pass. His mother's name (Vedavatī in later tradition) was not found in the Sumadhvavijaya e-text by a simple search._
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/List_of_works_by_Madhvacharya — Confirmed: Ṛgbhāṣya on RV 1.1–40, reading all names as Viṣṇu's (the U01 contribution).
+- 2026-09-28 catalog: confirmed — local:raw_etexts/vedAntam/dvaitam/mAdhvam/sarvamulam/gItAprasthAnam, catalog:GRETIL:mAdhva-mahAbhAratatAtparyanirNaya — All three works confirmed as extant.
+
+_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

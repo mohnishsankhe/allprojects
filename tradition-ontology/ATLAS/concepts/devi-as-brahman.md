@@ -8,8 +8,9 @@
 
 ## Definitions
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): The Śākta Upaniṣads declare the Goddess — Devī, Tripurā, Sītā, Lakṣmī, Sarasvatī — to be Brahman, the primordial nature and the inner self; the great sayings are her (Bahvṛca).
+- [Śrīvidyā](../lineages/srividya.md): Śrīvidyā identifies Lalitā with Brahman beyond qualities and with the partless supreme principle (LSN 43-45; YH 2.73-74).
 
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U23-sakta-srividya. Generated 2026-09-28 09:07 IST._

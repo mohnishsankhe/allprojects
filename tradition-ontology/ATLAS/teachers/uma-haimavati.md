@@ -11,4 +11,4 @@ The very beautiful woman who appears to Indra in the sky where the yakṣa vanis
 _Notes: Later Śākta and Śaiva readers identify her with the Goddess Umā/Pārvatī, daughter of Himavat._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

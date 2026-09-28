@@ -17,4 +17,4 @@ Not injuring any being in any way at any time (YBh 2.30), kept as a great vow (2
 **Sequences:** `pth:yoga-sutra-eight-limbs`
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

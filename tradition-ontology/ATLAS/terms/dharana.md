@@ -9,6 +9,7 @@
 ## Definitions by tradition
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): Fixing the mind on a support - the Lord's form (VP, BhP) or bodily places and the subtle elements (MkP).
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): Concentration: binding the mind to a place (3.1) — navel, heart-lotus, light in the head, tip of the nose or tongue, or an external object (YBh 3.1).
+- [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md): Concentration, especially the five element-concentrations holding breath and mind in the regions of earth, water, fire, air and space (DYŚ 100–110; GŚ 68–75).
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): Fixation of the mind, which burns away sin (MDh 6.72).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Holding the mind in concentration: 'established in yogic concentration' at death (BhG 8.12); the concentrations of the Mokṣadharma's yoga (12.289).
 - [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md): Holding the mind in the heart.
@@ -21,4 +22,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U17-pasupata-kapalika, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U10-yoga, skeleton:U28-hatha-texts, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U17-pasupata-kapalika, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

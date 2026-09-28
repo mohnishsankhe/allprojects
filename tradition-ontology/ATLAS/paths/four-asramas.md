@@ -18,4 +18,4 @@
 Bands are interpretation-layer claims (logged). Other texts allow the orders as options or recognize only the householder (dsp:asrama-vikalpa-samuccaya-badha).
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

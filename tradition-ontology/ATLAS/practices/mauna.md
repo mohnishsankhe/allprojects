@@ -3,14 +3,15 @@
 `prc:mauna` · `skeleton` · confidence moderate
 
 **Category:** sense-withdrawal-concentration
-**Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
-**Taught in:** [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
+**Convergence:** 2 independent lineage(s): [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
+**Taught in:** [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
 
 The state of the silent sage who, 'ecstatic with munihood', is carried by the winds while others see only his body (RV 10.136.3).
 **Sources:** 
   - [Ṛgveda Saṃhitā](../texts/rgveda.md) — ref: 10.136; rests_on: ["tea:rgveda:10.136.2", "tea:rgveda:10.136.3"]
+  - [Pattirakiriyār: Meyññāṉap pulampal (lament for true knowledge)](../texts/bhadragiriyar-meynana-pulampal.md) — ref: 19; rests_on: ["tea:bhadragiriyar-meynana-pulampal:19"]
 
 _Notes: The Keśin hymn describes the state, not a method._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._

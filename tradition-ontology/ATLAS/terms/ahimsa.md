@@ -12,6 +12,8 @@
 - [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md): The ekāntins are non-violent; worship without animal slaughter (MBh 12.336.58; 12.323–324).
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): Non-injury, first of the common duties of all classes (MDh 10.63; YS 1.122; Arthaśāstra 1.3.13); the Veda-prescribed injury is declared to be non-injury (MDh 5.44).
 - [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md): Violence is prohibited; hence the Śyena rite, whose aim is violence, is harmful (anartha) though the Veda states it as a means for one who wishes to harm (Śabara on MS 1.1.2).
+- [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md): Tamil kollāmai: the Siddhar poets condemn killing and flesh-eating (Paṭṭiṉattār; Pattirakiriyār 14; Kaṭuveḷi 25, 29).
+- [Mahānubhāva panth](../lineages/mahanubhava.md): Strict non-harming, down to the smallest creature, required of the renunciant.
 
 ## Forms in other languages
 - Pali: avihiṃsā / ahiṃsā  — partial
@@ -22,4 +24,4 @@
 **Related:** [ānṛśaṃsya](anrsamsya.md)
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa, skeleton:U22-tamil-siddha, skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._

@@ -8,7 +8,7 @@
 
 ## Definitions by tradition
 - [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): The wondrous creative power by which Varuṇa measured out the earth (RV 5.85.5) and Indra goes in many forms (6.47.18); the wise see the bird 'anointed with the asura's māyā' (10.177.1).
-- `lin:ramanandi`: The notion of self in the non-self by which saṃsāra is imagined; it has the powers of projection and veiling.
+- [Rāmānandī sampradāya](../lineages/ramanandi.md): The notion of self in the non-self by which saṃsāra is imagined; it has the powers of projection and veiling.
 - [Śākta traditions](../lineages/sakta.md): The Goddess's own inseparable power, neither real nor unreal nor both; conventionally called ignorance, in truth not other than her.
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): The power by which all that is grasped by mind and senses is a perishable mental creation; bondage and liberation are said by reference to its guṇas.
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): The Lord's beginningless, indescribable power, consisting of the three guṇas, known from its effects, by which the one Brahman appears as the world; neither real nor unreal (VC 108–109).
@@ -19,8 +19,12 @@
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Power, magic, illusion; deceit: Indra goes about in many forms by his māyās (BAU 2.5.19); know prakṛti to be māyā and the great Lord the māyin (ŚU 4.10); the cessation of all māyā (ŚU 1.10); in PrU 1.16 māyā is deceit.
 - [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md): In Madhva's usage chiefly God's will (icchā) or wisdom, and also prakṛti; not an indeterminable illusion. The 'māyā' of the Advaitins is identified polemically with the Buddhist saṃvṛti.
 - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): Not an illusion-producing ignorance but prakṛti, called māyā because it produces manifold wonderful effects, and the Lord's wonderful power; the world it produces is real.
+- [Śākta traditions](../lineages/sakta.md): The Goddess's own power by which she becomes and veils the world; she is 'of the form of both knowledge and ignorance' (LSN 87) and 'the substratum of the illusory world' (LSN 142).
 - [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md): Sixth tattva: the Lord's power of concealment - 'the supreme freedom of Maheśa which accomplishes the impossible' (Paramārthasāra 15) - making the knowable appear as separate; real as a power, not an inexplicable illusion.
+- [Sant tradition (nirguṇa bhakti of North India)](../lineages/sant.md): The great swindler (mahāṭhaginī) with the noose of the three qualities, who takes a different form in every house (Lakṣmī, Bhavānī, idol, pilgrim-water) and binds the world; also 'gold and woman' (kanak-kāminī).
+- [Sant Mat (Radhasoami and its successor lines)](../lineages/sant-mat.md): Māyā, the material power ruling the lower regions under Kāl.
 - [Śaiva Siddhānta](../lineages/saiva-siddhanta.md): One, eternal, insentient, real substance: the material cause of the impure universe (and, as bindu or mahāmāyā, of the pure). Not illusion.
+- [Rāmānandī sampradāya](../lineages/ramanandi.md): 'I and mine, you and yours': the power that holds all beings; a painting without colour on the void, neither simply true nor false.
 
 ## Forms in other languages
 
@@ -32,4 +36,4 @@
 _Notes: Other lineages (Advaita, Śaiva, Buddhist) contribute very different definitions of māyā; the Vedic sense is creative, wondrous power. The Bṛhadāraṇyaka (2.5.19) quotes RV 6.47.18._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U05-gita-epic, skeleton:U20-virasaiva, skeleton:U07-puranas, skeleton:U03-principal-upanisads, skeleton:U15-dvaita, skeleton:U14-visistadvaita, skeleton:U19-kashmir-saivism, skeleton:U18-saiva-siddhanta. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U05-gita-epic, skeleton:U20-virasaiva, skeleton:U07-puranas, skeleton:U03-principal-upanisads, skeleton:U15-dvaita, skeleton:U14-visistadvaita, skeleton:U23-sakta-srividya, skeleton:U19-kashmir-saivism, skeleton:U27-sant-baul, skeleton:U18-saiva-siddhanta, skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._

@@ -147,7 +147,7 @@ The method for this: breath-control, withdrawal of the senses, meditation, conce
 
 _level: bridging · standpoint: seeker · path: meditation, body-breath · stage: advanced · types: practice_
 
-terms: [ṣaḍaṅga yoga](../terms/sadanga-yoga.md), [prāṇāyāma](../terms/pranayama.md), [pratyāhāra](../terms/pratyahara.md), [dhyāna (nididhyāsana)](../terms/dhyana.md), [dhāraṇā](../terms/dharana.md), [tarka](../terms/tarka.md), [samādhi](../terms/samadhi.md) · practices: [The six-limbed yoga of the Maitrī](../practices/sadanga-yoga-maitri.md), [Breath-regulation (prāṇāyāma)](../practices/pranayama.md), [Sense-withdrawal (pratyāhāra)](../practices/pratyahara.md), [Meditation (dhyāna)](../practices/dhyana.md), [Concentration (dhāraṇā)](../practices/dharana.md), [Samādhi as the eighth limb](../practices/samadhi.md)
+terms: [ṣaḍaṅga yoga](../terms/sadanga-yoga.md), [prāṇāyāma](../terms/pranayama.md), [pratyāhāra](../terms/pratyahara.md), [dhyāna (nididhyāsana)](../terms/dhyana.md), [dhāraṇā](../terms/dharana.md), [tarka](../terms/tarka.md), [samādhi](../terms/samadhi.md) · practices: [The six-limbed yoga of the Maitrī](../practices/sadanga-yoga-maitri.md), [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md), [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md), [Meditation (dhyāna)](../practices/dhyana.md), [Concentration (dhāraṇā)](../practices/dharana.md), [Samādhi as the eighth limb](../practices/samadhi.md)
 
 ### 6.19 <a id="tea-maitri-upanisad-6-19"></a>
 `skeleton` · confidence high
@@ -174,7 +174,7 @@ The upward channel called suṣumṇā, carrier of breath, is divided within the
 
 _level: bridging · standpoint: seeker · path: meditation, body-breath, sound · stage: advanced · types: body-layers, practice, karma-liberation_
 
-terms: [suṣumṇā](../terms/susumna.md), [nāḍī](../terms/nadi.md), [oṃ](../terms/om.md), [kevala](../terms/kevala.md) · concepts: [The channels (nāḍī)](../concepts/nadis.md), [Departure through the crown and the path to brahman](../concepts/yogic-departure-and-krama-mukti.md) · practices: [Yogic departure at death](../practices/utkranti-yoga.md), [The six-limbed yoga of the Maitrī](../practices/sadanga-yoga-maitri.md)
+terms: [suṣumnā](../terms/susumna.md), [nāḍī](../terms/nadi.md), [oṃ](../terms/om.md), [kevala](../terms/kevala.md) · concepts: [The channels (nāḍī)](../concepts/nadis.md), [Departure through the crown and the path to brahman](../concepts/yogic-departure-and-krama-mukti.md) · practices: [Yogic departure at death](../practices/utkranti-yoga.md), [The six-limbed yoga of the Maitrī](../practices/sadanga-yoga-maitri.md)
 
 ### 6.22 <a id="tea-maitri-upanisad-6-22"></a>
 `skeleton` · confidence high
@@ -185,7 +185,7 @@ Two brahmans are to be meditated on: sound and non-sound; by sound alone the non
 
 _level: bridging · standpoint: seeker · path: sound, meditation · stage: advanced · types: sound-language, practice, powers-experiences_
 
-terms: [śabdabrahman](../terms/sabda-brahman.md), [oṃ](../terms/om.md) · concepts: [Word-brahman (śabdabrahman)](../concepts/sabda-brahman.md), [The two forms of brahman](../concepts/two-forms-of-brahman.md), [Oṃ, the designator of Īśvara](../concepts/pranava.md) · practices: [Listening to the inner sound](../practices/nadanusandhana.md), [Meditation on Om (praṇava-upāsanā)](../practices/pranava-upasana.md)
+terms: [śabdabrahman](../terms/sabda-brahman.md), [oṃ](../terms/om.md) · concepts: [Word-brahman (śabdabrahman)](../concepts/sabda-brahman.md), [The two forms of brahman](../concepts/two-forms-of-brahman.md), [Oṃ, the designator of Īśvara](../concepts/pranava.md) · practices: [Attention to the inner sound (nādānusandhāna) in the haṭha texts](../practices/nadanusandhana.md), [Meditation on Om (praṇava-upāsanā)](../practices/pranava-upasana.md)
 
 ### 6.23 <a id="tea-maitri-upanisad-6-23"></a>
 `skeleton` · confidence high
@@ -254,4 +254,4 @@ terms: [Turīya](../terms/turiya.md) · concepts: [Waking, dream, deep sleep and
 _Notes: Refs follow the common Cowell/van Buitenen numbering; spot-checked sections 5.2, 6.18-6.24, 6.34 and 7.8-7.11 against the e-text in sources_raw. Veda affiliation: Black Yajurveda, Maitrāyaṇīya śākhā (the Muktikā list places it under the Sāmaveda)_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

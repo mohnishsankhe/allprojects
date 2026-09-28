@@ -4,9 +4,9 @@
 
 **Language:** Awadhi
 **Family:** vedic
-**Lineages:** `lin:ramanandi`
+**Lineages:** [Rāmānandī sampradāya](../lineages/ramanandi.md)
 **Genre:** gītā
-**Part of:** `src:ramcaritmanas`
+**Part of:** [Rāmcaritmānas](ramcaritmanas.md)
 **Location in parent:** Rāmcaritmānas, Laṅkākāṇḍa, caupāīs before dohā 80 and dohā 80 ka-kha (verified)
 **Authors:** 
   - [Tulsīdās](../teachers/tulsidas.md) — role: author; attribution: accepted
@@ -29,4 +29,4 @@ teachers: [Rāma (Dāśarathi)](../teachers/rama.md), [Vibhīṣaṇa](../teache
 
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

@@ -15,4 +15,4 @@ A short stotra-like work ascribed to Gorakṣa listing the contents of the subtl
   - kind: original; name: Muktabodha e-text M00288
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._

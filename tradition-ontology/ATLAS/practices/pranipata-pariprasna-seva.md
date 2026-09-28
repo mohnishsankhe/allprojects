@@ -12,4 +12,4 @@ Learn knowledge from those who have seen the truth by prostrating before them, q
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 4.34; 13.7; rests_on: ["tea:bhagavad-gita:4.34", "tea:bhagavad-gita:13.7-11"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

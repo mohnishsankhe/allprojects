@@ -15,4 +15,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

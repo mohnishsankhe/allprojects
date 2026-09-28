@@ -1,12 +1,12 @@
 # Sāṅkṛti
 
-`tch:sankrti` · `skeleton` · confidence moderate
+`tch:sankrti` · `skeleton` · confidence high
 
-**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), `lin:datta-sampradaya`
+**Lineages:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), `lin:datta-sampradaya`
 **Historicity:** legendary
 **Teachers:** [Dattātreya](dattatreya.md)
 
-Sage who questions Dattātreya in the Darśana and Avadhūta Upaniṣads and visits the sun's world in the Akṣi Upaniṣad; at the end of the Darśana he abides fearless in the Self.
+U28 contribution: the sage who wanders the earth seeking yoga and receives it from Dattātreya in the Dattātreyayogaśāstra; at the end he attains all powers by Dattātreya's grace (DYŚ 148).
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

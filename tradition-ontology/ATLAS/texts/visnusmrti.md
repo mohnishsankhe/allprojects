@@ -30,4 +30,4 @@ concepts: [Women's dharma (strīdharma), as the tradition states it](../concepts
 _Notes: Commentary: Nandapaṇḍita's Vaijayantī._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

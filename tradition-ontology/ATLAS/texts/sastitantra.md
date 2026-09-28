@@ -21,4 +21,4 @@ The lost 'doctrine of sixty topics' that the SK claims to summarize without its 
 _Notes: Ahirbudhnya Saṃhitā chapter reference from memory (low confidence)._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._

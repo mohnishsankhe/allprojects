@@ -9,4 +9,4 @@
 Questioner in the Pāśupatabrahma Upaniṣad, called a son of Brahmā and a Vālakhilya; not the Kubera of the Purāṇas as far as the text says.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

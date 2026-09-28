@@ -11,4 +11,4 @@ Ten born of desire (hunting, gambling, day-sleep, censoriousness, women, drink, 
   - [Manusmṛti (Mānava Dharmaśāstra)](../texts/manusmrti.md) — ref: 7.45-48; rests_on: ["tea:manusmrti:7.45-48"]
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

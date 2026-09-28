@@ -274,7 +274,7 @@ The expansion of the mind within the womb [of māyā] is the dream of ordinary k
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate (śāktopāya (section 2, per Kṣemarāja)) · types: powers-experiences_
 
-obstacles: [Being caught by powers (siddhi)](../obstacles/siddhi-attachment.md)
+obstacles: [Attachment to powers](../obstacles/siddhi-attachment.md)
 
 ### 2.5 <a id="tea-siva-sutra-2-5"></a>
 `skeleton` · confidence high
@@ -327,7 +327,7 @@ When [pure] knowledge is withdrawn, one sees the dream arising from it.
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate (śāktopāya (section 2, per Kṣemarāja)) · types: powers-experiences_
 
-obstacles: [Being caught by powers (siddhi)](../obstacles/siddhi-attachment.md)
+obstacles: [Attachment to powers](../obstacles/siddhi-attachment.md)
 
 ### 3.1 <a id="tea-siva-sutra-3-1"></a>
 `skeleton` · confidence high
@@ -391,7 +391,7 @@ Because of the veil of delusion, [only] powers result.
 
 _level: conventional · standpoint: seeker · path: meditation · stage: beginner (āṇavopāya (section 3, per Kṣemarāja)) · types: powers-experiences_
 
-terms: [siddhi](../terms/siddhi.md) · obstacles: [Being caught by powers (siddhi)](../obstacles/siddhi-attachment.md)
+terms: [siddhi](../terms/siddhi.md) · obstacles: [Attachment to powers](../obstacles/siddhi-attachment.md)
 
 ### 3.7 <a id="tea-siva-sutra-3-7"></a>
 `skeleton` · confidence high
@@ -549,7 +549,7 @@ In the middle [stage], lower creation arises.
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate (āṇavopāya (section 3, per Kṣemarāja)) · types: powers-experiences_
 
-obstacles: [Being caught by powers (siddhi)](../obstacles/siddhi-attachment.md)
+obstacles: [Attachment to powers](../obstacles/siddhi-attachment.md)
 
 ### 3.24 <a id="tea-siva-sutra-3-24"></a>
 `skeleton` · confidence high
@@ -727,7 +727,7 @@ Through concentration on the centre within the nose, what [need is there] here o
 
 _level: bridging · standpoint: seeker · path: meditation, body-breath · stage: advanced (āṇavopāya (section 3, per Kṣemarāja)) · types: practice, body-layers_
 
-terms: [suṣumṇā](../terms/susumna.md), [madhya](../terms/madhya.md)
+terms: [suṣumnā](../terms/susumna.md), [madhya](../terms/madhya.md)
 
 ### 3.45 <a id="tea-siva-sutra-3-45"></a>
 `skeleton` · confidence high
@@ -744,4 +744,4 @@ terms: [unmīlana / nimīlana samādhi](../terms/unmilana-nimilana.md)
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

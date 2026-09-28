@@ -13,4 +13,4 @@ A void state, like deep sleep, is artificial and not the principle (SK 1.12-13);
   - [Īśvarapratyabhijñākārikā](../texts/isvarapratyabhijna-karika.md) — ref: 3.2.12-15; rests_on: ["tea:isvarapratyabhijna-karika:3.2.12-15"]
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

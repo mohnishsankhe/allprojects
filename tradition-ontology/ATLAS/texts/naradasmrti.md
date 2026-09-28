@@ -28,4 +28,4 @@ terms: [vyavahāra](../terms/vyavahara.md) · concepts: [The means proper to eac
 _Notes: Commentary: Asahāya (revised by Kalyāṇabhaṭṭa). Numbering 'm1' = Mātṛkā 1 as in the GRETIL e-text._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

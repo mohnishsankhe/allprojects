@@ -51,7 +51,7 @@ Rāma's dispassion: returning from pilgrimage the sixteen-year-old prince falls 
 
 _level: conventional · standpoint: experiential · path: knowledge · stage: beginner (vairāgya) · types: karma-liberation, ethics_
 
-concepts: [Human effort and fate](../concepts/paurusa-and-daiva.md) · obstacles: [Craving (tṛṣṇā)](../obstacles/trsna.md), [Ego (ahaṅkāra)](../obstacles/ahankara.md) · teachers: [Rāma (Dāśarathi)](../teachers/rama.md)
+concepts: [Human effort and fate](../concepts/paurusa-and-daiva.md) · obstacles: [Craving (tṛṣṇā)](../obstacles/trsna.md), [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md) · teachers: [Rāma (Dāśarathi)](../teachers/rama.md)
 
 ### 2.1 <a id="tea-moksopaya-2-1"></a>
 `skeleton` · confidence moderate · [AI-translated]
@@ -313,7 +313,7 @@ The story of Dāma, Vyāla and Kaṭa: three warriors created by the demon Śamb
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: consciousness-mind, karma-liberation_
 
-obstacles: [Ego (ahaṅkāra)](../obstacles/ahankara.md)
+obstacles: [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md)
 
 ### 4.30-37 <a id="tea-moksopaya-4-30-37"></a>
 `skeleton` · confidence moderate · [AI-translated]
@@ -537,7 +537,7 @@ The illusory man (mithyā-puruṣa) made space for himself in a pot, a house and
 
 _level: illusory · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-obstacles: [Ego (ahaṅkāra)](../obstacles/ahankara.md)
+obstacles: [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md)
 
 ### 6.119.9-20 <a id="tea-moksopaya-6-119-9-20"></a>
 `skeleton` · confidence high · [AI-translated]
@@ -588,4 +588,4 @@ concepts: [The world as the mind's projection](../concepts/world-as-projection-o
 _Notes: Lineage placement is by reception only (the Vedāntic recension was absorbed by Advaita); the Halle editors regard the Mokṣopāya as neither Advaita nor Śaiva. It is scholarly metadata for the Yoga Vāsiṣṭha as well as a text in its own right; U06 anchors Book 4 and Book 6 teachings on it._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

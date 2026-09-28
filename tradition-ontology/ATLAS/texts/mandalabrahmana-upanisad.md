@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), `lin:hatha-yoga`, [Advaita Vedānta](../lineages/advaita-vedanta.md)
+**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Advaita Vedānta](../lineages/advaita-vedanta.md)
 **Genre:** upaniṣad
 **Attribution:** tradition: Śruti: revealed, without human author (apauruṣeya); the Muktikā presents it as one of the 108 Upaniṣads that Rāma teaches Hanumān, each belonging to a Vedic śākhā; scholarly: anonymous; assigned to a Veda by the Muktikā list, not by any surviving śākhā transmission; confidence: moderate
 **Dates:** Tradition's account: Śruti: eternal and authorless; no human date; Scholarly account: Scholarly accounts differ by text. Several Yoga Upaniṣads (e.g. Amṛtabindu, Amṛtanāda, Kṣurikā, Tejobindu, Nādabindu, Dhyānabindu, Brahmavidyā, Yogatattva, Yogaśikhā, Haṃsa) survive in shorter northern versions that are older; the expanded southern recensions (as in this collection) borrow from medieval haṭha works and were probably compiled in South India, perhaps as late as the 18th c. (Bouy 1994).; (confidence low)
@@ -24,7 +24,7 @@ Tāraka is twofold — the earlier tāraka and the later amanaska; tāraka with 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice_
 
-concepts: [Tāraka and amanaska yoga](../concepts/taraka-amanaska.md) · practices: [Śāmbhavī mudrā](../practices/sambhavi-mudra.md)
+concepts: [Tāraka and amanaska yoga](../concepts/taraka-amanaska.md) · practices: [Śāmbhavī mudrā (Śambhu's seal)](../practices/sambhavi-mudra.md)
 
 ### 1.4 <a id="tea-mandalabrahmana-upanisad-1-4"></a>
 `skeleton` · confidence high
@@ -96,7 +96,7 @@ The gaze has three forms — amā (eyes closed), pratipat (half open) and pūr�
 
 _level: conventional · standpoint: experiential · path: body-breath, meditation · stage: advanced · types: practice, powers-experiences_
 
-practices: [Śāmbhavī mudrā](../practices/sambhavi-mudra.md)
+practices: [Śāmbhavī mudrā (Śambhu's seal)](../practices/sambhavi-mudra.md)
 
 ### 2.2 (lights) <a id="tea-mandalabrahmana-upanisad-2-2-lights"></a>
 `skeleton` · confidence moderate
@@ -154,4 +154,4 @@ concepts: [Nāda — the inner sound](../concepts/nada.md), [The avadhūta](../c
 _Notes: Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-text used here; other editions (e.g. the Adyar series, Schrader's critical edition, northern recensions) number differently._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

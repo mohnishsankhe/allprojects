@@ -12,4 +12,4 @@
 17th-century Kashmiri Śaiva scholar-poet: a commentary on the Śiva Sūtra, the Devīnāmavilāsa, and works of Śrīvidyā ritual (Śrīvidyānityapaddhati).
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

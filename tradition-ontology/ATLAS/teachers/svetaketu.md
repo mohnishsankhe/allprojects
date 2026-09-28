@@ -10,4 +10,4 @@
 Son of Uddālaka Āruṇi; returns proud after twelve years of Vedic study and is taught being and tat tvam asi (ChU 6); cannot answer Pravāhaṇa Jaivali's five questions (BAU 6.2; ChU 5.3); sent to Citra (KauU 1.1).
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

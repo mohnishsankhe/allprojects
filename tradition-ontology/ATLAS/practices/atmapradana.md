@@ -14,4 +14,4 @@ The 'supreme gift': giving oneself to the Lord, with prostrations while repeatin
 **Sequences:** [The five stages of the Pāśupata path (avasthā-pañcaka)](../paths/pasupata-five-stages.md)
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 09:07 IST._

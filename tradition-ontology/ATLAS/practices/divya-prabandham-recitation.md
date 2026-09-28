@@ -11,4 +11,4 @@ Recitation of the Āḻvārs' hymns in temples and homes — daily selections (n
   - [Guruparamparāprabhāvam (Ārāyirappaṭi)](../texts/guruparampara-prabhavam-arayirappati.md) — ref: Nāthamuni; rests_on: ["tea:guruparampara-prabhavam-arayirappati:nathamuni"]
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._

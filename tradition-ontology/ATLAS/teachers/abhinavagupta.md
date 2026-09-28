@@ -1,12 +1,12 @@
 # Abhinavagupta
 
-`tch:abhinavagupta` · `skeleton` · confidence high
+`tch:abhinavagupta` · `sourced` · confidence high
 
-**Lineages:** [Trika ('the Triad')](../lineages/trika.md), [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Pratyabhijñā (the philosophy of recognition)](../lineages/pratyabhijna.md), [Krama (the 'Sequence'; Mahānaya, Mahārtha)](../lineages/krama.md), [Kaula (the Kula tradition)](../lineages/kaula.md)
+**Lineages:** [Trika ('the Triad')](../lineages/trika.md), [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Pratyabhijñā (the philosophy of recognition)](../lineages/pratyabhijna.md), [Krama (the 'Sequence'; Mahānaya, Mahārtha)](../lineages/krama.md), [Kaula (the Kula tradition)](../lineages/kaula.md), [Alaṅkāraśāstra and Nāṭyaśāstra (poetics, dramaturgy and the theory of rasa)](../lineages/alankara.md), [Saṅgītaśāstra (the science of music: song, instrument and dance)](../lineages/sangita.md)
 **Dates:** Scholarly account: c. 975-1025 CE; dated works: Kramastotra (Laukika 66, c. 990/91), Bhairavastava (68, c. 992/93), Īśvarapratyabhijñāvimarśinī (90, c. 1014/15); (confidence high)
 **Places:** Kashmir
 **Historicity:** historical
-**Teachers:** [Lakṣmaṇagupta](laksmanagupta.md), [Śambhunātha](sambhunatha.md), [Narasiṃhagupta (Cukhulaka)](narasimhagupta.md), [Bhūtirāja](bhutiraja.md), `tch:induraja`, `tch:bhatta-tauta`
+**Teachers:** [Lakṣmaṇagupta](laksmanagupta.md), [Śambhunātha](sambhunatha.md), [Narasiṃhagupta (Cukhulaka)](narasimhagupta.md), [Bhūtirāja](bhutiraja.md), `tch:induraja`, [Bhaṭṭa Tauta](bhatta-tauta.md)
 **Students:** [Kṣemarāja](ksemaraja.md)
 **Works:** 
   - [Tantrāloka](../texts/tantraloka.md) — attribution: accepted
@@ -26,8 +26,8 @@
   - [Kramastotra (Abhinavagupta)](../texts/kramastotra-abhinavagupta.md) — attribution: accepted
   - [Dehasthadevatācakrastotra](../texts/dehasthadevatacakrastotra.md) — attribution: traditional
   - [Paryantapañcāśikā](../texts/paryantapancasika.md) — attribution: traditional
-  - `src:abhinavabharati` — attribution: accepted
-  - `src:dhvanyaloka-locana` — attribution: accepted
+  - [Abhinavabhāratī (Nāṭyavedavivṛti) of Abhinavagupta](../texts/abhinavabharati.md) — attribution: accepted
+  - [Locana (Dhvanyālokalocana) of Abhinavagupta](../texts/dhvanyaloka-locana.md) — attribution: accepted
   - [Gītārthasaṅgraha of Abhinavagupta](../texts/gitarthasangraha-abhinavagupta.md) — attribution: accepted
 
 The central figure of Kashmirian non-dual Śaivism: author of the Tantrāloka, Tantrasāra, Parātrīśikāvivaraṇa, Mālinīślokavārttika, the two commentaries on the Īśvarapratyabhijñā, the Paramārthasāra, Gītārthasaṅgraha, devotional hymns, and of the Abhinavabhāratī and Locana in aesthetics. He integrated Trika, Kula, Krama, Spanda and Pratyabhijñā under the four upāyas.
@@ -36,4 +36,8 @@ The central figure of Kashmirian non-dual Śaivism: author of the Tantrāloka, T
 _Notes: Teacher ids tch:induraja and tch:bhatta-tauta (poetics, dramaturgy) belong to U31._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://www.academia.edu/82753123/Abhinavagupta_on_the_Kashmirian_G%C4%ABt%C4%81 — Confirmed.
+
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U05-gita-epic, skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._

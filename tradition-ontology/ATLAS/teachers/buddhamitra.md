@@ -10,4 +10,4 @@ Buddhist teacher of Vasubandhu according to Paramārtha's Life of Vasubandhu, wh
 _Notes: Lineage assignment follows the biography's setting; verify._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._

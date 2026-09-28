@@ -12,7 +12,7 @@ The pride of self and possession, whose destruction leads beyond the gods' world
   - [Tirukkuṟaḷ](../texts/tirukkural.md) — ref: 346; rests_on: ["tea:tirukkural:346"]
 
 ## Equivalents (interpretation layer)
-- partial: [Ego (ahaṅkāra)](ahankara.md) — ego-sense and possessiveness
+- partial: [The sense of 'I' (ahaṃkāra)](ahankara.md) — ego-sense and possessiveness
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._

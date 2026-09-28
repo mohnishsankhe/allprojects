@@ -16,4 +16,4 @@ One of the sixty-three Nāyaṉmārs. A merchant's wife who gave one of two mang
 **Realization — the tradition's account:** A merchant's wife who gave one of two mangoes to a hungry devotee; when her husband asked for the second, she prayed and a mango appeared; frightened, he left her and remarried. She asked Śiva to take her beauty and give her the form of a ghoul (pēy), climbed Kailāsa on her hands, and was greeted by Śiva as 'Mother' (Ammai); she asked for no rebirth — or, if born again, never to forget him — and to sing at his feet as he dances, which she does at Tiruvālaṅkāṭu.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._

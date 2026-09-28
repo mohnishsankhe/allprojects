@@ -33,4 +33,4 @@ _none recorded_
 [Does a son own ancestral property from birth or only on the father's death?](../debates/inheritance-by-birth-or-death.md)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

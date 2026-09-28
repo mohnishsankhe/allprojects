@@ -12,4 +12,4 @@ Pride in caste or family, which the vacanas reject among devotees and the SSM te
   - [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) — ref: 10.31; rests_on: ["tea:siddhantasikhamani:10.30-31"]
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._

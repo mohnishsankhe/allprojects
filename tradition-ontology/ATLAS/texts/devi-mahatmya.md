@@ -116,7 +116,7 @@ The Goddess on the fruits of hearing and reciting her deeds - especially on the 
 
 _level: conventional · standpoint: ritual · path: ritual, sound, devotion · stage: all · types: practice_
 
-terms: [navarātra](../terms/navaratra.md) · practices: [Recitation of the Devī Māhātmya (Caṇḍīpāṭha)](../practices/candi-patha.md), [The Navarātra vow of the Goddess](../practices/navaratri-vrata.md)
+terms: [navarātra](../terms/navaratra.md) · practices: [Recitation of the Devī Māhātmya (Caṇḍīpāṭha)](../practices/candi-patha.md), [The Navarātri observance](../practices/navaratri-vrata.md)
 
 ### 13 <a id="tea-devi-mahatmya-13"></a>
 `skeleton` · confidence high
@@ -131,4 +131,4 @@ terms: [manvantara](../terms/manvantara.md), [mamatā](../terms/mamata.md) · co
 _Notes: Recited with ancillary texts (aṅgas): Kavaca, Argalā, Kīlaka before, and the three Rahasyas (Prādhānika, Vaikṛtika, Mūrti) after; the naming of the three caritas' deities as Mahākālī, Mahālakṣmī and Mahāsarasvatī comes from the dhyāna verses and the Rahasyas, not from the 13 chapters themselves. Commentaries include Bhāskararāya's Guptavatī (src:guptavati) and the Śāntanavī. Śākta theology shared with U23. verse number checked in the GRETIL/Sansknet e-text of the MkP (chs. 1-93; Devī Māhātmya = MkP 81-93 in this numbering)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

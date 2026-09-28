@@ -11,4 +11,4 @@ Praise of the Sun for health of the eyes; one who knows it has no eye disease an
   - [Akṣi Upaniṣad](../texts/aksi-upanisad.md) — ref: 1; rests_on: ["tea:aksi-upanisad:1"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

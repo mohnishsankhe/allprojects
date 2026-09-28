@@ -14,4 +14,4 @@
 - part-of → [The five differences (pañca-bheda)](pancabheda.md): each of the five differences is the nature of its relata — rests on [1-3](../texts/tattvaviveka.md#tea-tattvaviveka-1-3)
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._

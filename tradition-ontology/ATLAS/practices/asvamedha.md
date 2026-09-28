@@ -12,4 +12,4 @@ The royal rite in which a horse wanders for a year and is then sacrificed, with 
   - [Vājasaneyi Saṃhitā (Mādhyandina)](../texts/vajasaneyi-samhita.md) — ref: 22–25; rests_on: ["tea:vajasaneyi-samhita:22.22", "tea:vajasaneyi-samhita:23.9-12"]
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

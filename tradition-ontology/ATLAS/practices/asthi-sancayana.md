@@ -11,4 +11,4 @@ On a fixed day after cremation the bones are gathered into an urn, later buried 
   - [Āśvalāyana Gṛhyasūtra](../texts/asvalayana-grhyasutra.md) — ref: 4.5; rests_on: ["tea:asvalayana-grhyasutra:4.1-6"]
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

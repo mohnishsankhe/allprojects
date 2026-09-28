@@ -1,9 +1,9 @@
 # Kapila
 
-`tch:kapila` · `skeleton` · confidence high
+`tch:kapila` · `sourced` · confidence high
 
 **Alternate names:** Paramarṣi (the supreme sage), Ādividvān (the first knower), Kapila Muni
-**Lineages:** [Sāṃkhya](../lineages/samkhya.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
+**Lineages:** [Sāṃkhya](../lineages/samkhya.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 **Dates:** Tradition's account: born at the beginning of creation endowed with virtue, knowledge, dispassion and power (Gauḍapāda on SK 1, 43); in the Purāṇic account an avatāra, son of Kardama and Devahūti (Māṭhara on SK 1; Bhāgavata Purāṇa book 3); (confidence low)
 **Historicity:** legendary
 **Students:** [Āsuri](asuri.md), [Devahūti](devahuti.md)
@@ -19,4 +19,8 @@ Founder of Sāṃkhya in the tradition's account: the 'supreme sage' (SK 69) who
 _Notes: U05's contribution (the epic account)._
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 12.337.60, 12.326.64 (kapilaṃ prāhur ācāryāḥ sāṃkhyaniścitaniścayāḥ), 12.260.12, local:gita/gita BhG 10.26 — All cited references located.
+
+_Contributed by: skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U28-hatha-texts, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

@@ -19,7 +19,7 @@ The Brāhmaṇa of the Ṛgvedic hotṛ priests: it explains the recitations of 
 **Editions / translations:** 
   - kind: original; name: sanskrit/raw_etexts (local mirror, by pañcikā)
 
-## Teachings (9: skeleton 9)
+## Teachings (9: skeleton 8, sourced 1)
 
 ### 1.1 <a id="tea-aitareya-brahmana-1-1"></a>
 `skeleton` · confidence high
@@ -28,7 +28,7 @@ Agni is the lowest of the gods, Viṣṇu the highest; between them are all the 
 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: world-fate, ultimate_
 
-terms: [dīkṣā](../terms/diksa.md) · practices: [Dīkṣā (consecration for sacrifice)](../practices/diksa.md)
+terms: [dīkṣā](../terms/diksa.md) · practices: [Initiation (dīkṣā) in the Kaula way](../practices/diksa.md)
 
 ### 1.3 <a id="tea-aitareya-brahmana-1-3"></a>
 `skeleton` · confidence high
@@ -37,10 +37,10 @@ Those whom the priests consecrate they make into an embryo again: they sprinkle 
 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: practice, body-layers_
 
-terms: [dīkṣā](../terms/diksa.md) · concepts: [Consecration as rebirth](../concepts/diksa-rebirth.md) · practices: [Dīkṣā (consecration for sacrifice)](../practices/diksa.md)
+terms: [dīkṣā](../terms/diksa.md) · concepts: [Consecration as rebirth](../concepts/diksa-rebirth.md) · practices: [Initiation (dīkṣā) in the Kaula way](../practices/diksa.md)
 
 ### 2.19 <a id="tea-aitareya-brahmana-2-19"></a>
-`skeleton` · confidence low
+`sourced` · confidence low
 
 The seers at a sacrificial session on the Sarasvatī drove away Kavaṣa Ailūṣa as the son of a slave woman, unfit to drink with them; in the desert he saw the hymn to the Child of the Waters, the waters followed him, and the seers, knowing that the gods knew him, called him back.
 
@@ -104,4 +104,4 @@ terms: [yuga](../terms/yuga.md) · concepts: [The ages, the Manu-periods and the
 _Notes: Commentaries: Sāyaṇa; Ṣaḍguruśiṣya (Sukhapradā)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

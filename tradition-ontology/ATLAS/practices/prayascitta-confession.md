@@ -11,4 +11,4 @@ The sinner declares his deed, repents, resolves not to repeat it, performs auste
   - [Manusmṛti (Mānava Dharmaśāstra)](../texts/manusmrti.md) — ref: 11.227-229; rests_on: ["tea:manusmrti:11.227-229"]
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

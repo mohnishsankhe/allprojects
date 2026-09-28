@@ -14,4 +14,4 @@
 A Kannada rendering in ṣaṭpadi verse (1369) of Pālkuriki Sōmanātha's Telugu Basava Purāṇa, the classic Kannada narrative of Basava's life and of the śaraṇas.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._

@@ -35,4 +35,4 @@ No: the scriptural cause 'saw' (reflected) before creating, so the unconscious p
 **Candidate readings:** P2-standpoint: Sāṃkhya enumerates principles analytically to discriminate self from non-self, while the Brahma Sūtra asks what the Upaniṣads teach as the conscious first cause — answers to different questions (rejected by both: Śaṅkara denies pradhāna is scriptural; classical Sāṃkhya denies any conscious director).; P4-stage: Advaita accepts the discrimination of self from the non-self as preparatory while rejecting an independent pradhāna.; Theistic Sāṃkhya synthesis (Vijñānabhikṣu, recalled): prakṛti as material cause under the Lord taught by śruti.
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._

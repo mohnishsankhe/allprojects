@@ -12,4 +12,4 @@ Exhalation as negating the world or renouncing objects, inhalation as 'I am Brah
   - [Varāha Upaniṣad](../texts/varaha-upanisad.md) — ref: 5.58; rests_on: ["tea:varaha-upanisad:5.58"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

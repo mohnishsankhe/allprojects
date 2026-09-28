@@ -13,4 +13,4 @@ Desire, anger and greed are the threefold gate of hell, destructive of the self,
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 16.21–22; rests_on: ["tea:bhagavad-gita:16.21-22"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

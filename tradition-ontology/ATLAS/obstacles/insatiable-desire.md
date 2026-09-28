@@ -12,4 +12,4 @@ Desire is never quenched by enjoyment but grows like fire fed with ghee (MDh 2.9
   - [Manusmṛti (Mānava Dharmaśāstra)](../texts/manusmrti.md) — ref: 2.94; rests_on: ["tea:manusmrti:2.94"]
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

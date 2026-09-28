@@ -1,6 +1,6 @@
 # Śukānupraśna (Vyāsa's instruction to Śuka)
 
-`src:sukanuprasna` · `skeleton` · confidence moderate
+`src:sukanuprasna` · `sourced` · confidence moderate
 
 **Original title:** शुकानुप्रश्न
 **Language:** Sanskrit
@@ -20,4 +20,8 @@ Vyāsa instructs his son Śuka on the units of time and the ages, creation and d
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.224.8, 15, 32 Śuka; Vyāsa's instruction runs through 12.247 — Section located at CE 12.224-247 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

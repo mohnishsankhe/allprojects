@@ -13,4 +13,4 @@
 Advaitin renouncer of Kāñcīpuram who wrote commentaries on all 108 Muktikā Upaniṣads; his maṅgala verses open each text in the South Indian printed collection used here.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

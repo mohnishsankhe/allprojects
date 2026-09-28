@@ -1,12 +1,15 @@
 # Hayagrīva
 
-`tch:hayagriva` · `skeleton` · confidence moderate
+`tch:hayagriva` · `skeleton` · confidence high
 
-**Lineages:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Śrīvidyā](../lineages/srividya.md)
+**Lineages:** [Śrīvidyā](../lineages/srividya.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
 **Historicity:** mythic
 **Students:** [Agastya](agastya.md)
+**Works:** 
+  - [Lalitā Sahasranāma](../texts/lalita-sahasranama.md) — attribution: traditional
+  - [Lalitā Triśatī](../texts/lalita-trisati.md) — attribution: traditional
 
-The horse-headed form of Viṣṇu (BhP 2.7.11), who in the Lalitopākhyāna is sent as a portion of Viṣṇu to teach Agastya the story and worship of Lalitā.
+U23 contribution: the teacher of Agastya who reveals the Lalitā Sahasranāma and the Triśatī.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

@@ -1,6 +1,6 @@
 # Maṅki Gītā
 
-`src:manki-gita` · `skeleton` · confidence high
+`src:manki-gita` · `sourced` · confidence high
 
 **Original title:** मङ्किगीता
 **Language:** Sanskrit
@@ -44,4 +44,8 @@ teachers: [Janaka of Videha](../teachers/janaka.md)
 
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.171.4-8 Maṅki and his young bulls (damya); 12.171.25 — Section located at CE 12.171 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

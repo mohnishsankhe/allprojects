@@ -12,4 +12,4 @@ Worshipping, remembering or praising gods other than Śiva, or eating their offe
   - [Vacanas of Basavaṇṇa (Basavaṇṇanavara vacanagaḷu)](../texts/basavanna-vacanas.md) — ref: vacana on household gods; rests_on: ["tea:basavanna-vacanas:v-the-pot-is-a-god"]
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._

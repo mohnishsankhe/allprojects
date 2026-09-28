@@ -15,4 +15,4 @@
 Vijñāneśvara's commentary on the Yājñavalkyasmṛti, written at the Cālukya court of Kalyāṇa; the most influential work of Dharmaśāstra, founding the view that sons own ancestral property by birth and that kinship (sapiṇḍa) rests on shared bodily particles.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

@@ -1,6 +1,6 @@
 # Anāsakti Yoga of M. K. Gandhi
 
-`src:anasakti-yoga` · `skeleton` · confidence moderate · _recent (post-1800)_
+`src:anasakti-yoga` · `sourced` · confidence moderate · _recent (post-1800)_
 
 **Language:** Gujarati
 **Family:** vedic
@@ -15,4 +15,8 @@
 Gandhi's Gujarati rendering of and introduction to the Gītā, reading its central teaching as renunciation of the fruits of action (anāsakti) and its battle as the inner struggle between good and evil, compatible with non-violence.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Anasakti_Yoga, https://www.mkgandhi.org/swmgandhi/chap01.php — Gujarati rendering completed 1929; published 12 March 1930.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

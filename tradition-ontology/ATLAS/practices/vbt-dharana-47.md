@@ -15,4 +15,4 @@ When great joy is obtained, or on seeing a relative after a long time, one shoul
 _Notes: Verses 71 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

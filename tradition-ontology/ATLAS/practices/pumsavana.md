@@ -13,4 +13,4 @@ A rite in the third month of pregnancy, before the embryo 'moves', for a male ch
 **Sequences:** [The life-cycle of sacraments (saṃskāra), conception to ancestorhood](../paths/samskara-life-cycle.md)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

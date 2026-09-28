@@ -17,4 +17,4 @@
 The text presents the steps from the highest downward as alternatives by capacity; they are listed here from the most accessible upward. 12.12 gives a different ranking (practice < knowledge < meditation < relinquishing the fruit, from which peace follows); commentators reconcile the two differently.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

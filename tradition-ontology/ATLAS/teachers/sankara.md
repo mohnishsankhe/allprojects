@@ -1,9 +1,9 @@
 # Śaṅkara (Ādi Śaṅkarācārya)
 
-`tch:sankara` · `skeleton` · confidence high
+`tch:sankara` · `sourced` · confidence high
 
 **Alternate names:** Ādi Śaṅkarācārya, Śaṅkara Bhagavatpāda, Bhagavatpāda, Śaṅkarācārya
-**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Vedānta (Uttara Mīmāṃsā)](../lineages/vedanta.md), `lin:dasanami`, [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](../lineages/sannyasa.md)
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Vedānta (Uttara Mīmāṃsā)](../lineages/vedanta.md), `lin:dasanami`, [Śrīvidyā](../lineages/srividya.md), [Samaya school of Śrīvidyā (Samayācāra)](../lineages/samaya-srividya.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](../lineages/sannyasa.md), [Mantraśāstra (the science of mantras: the smārta-tantric mantra manuals)](../lineages/mantrasastra.md)
 **Dates:** Tradition's account: 788–820 CE in the commonest traditional reckoning; 509–477 BCE in the Kāñcī and Dvārakā maṭha reckonings; Scholarly account: c. 700–750 CE (Hacker, Nakamura); other scholars up to c. 800; (confidence moderate)
 **Places:** Kālaṭi (birth, tradition), Oṃkāreśvara on the Narmadā, Kāśī, Māhiṣmatī, Śṛṅgeri, Kashmir (Sarvajña-pīṭha), Kedāranātha or Kāñcī (death, by differing accounts)
 **Historicity:** historical
@@ -36,12 +36,16 @@
   - [Manīṣāpañcaka](../texts/manisa-pancaka.md) — attribution: traditional
   - [Sādhanapañcaka (Upadeśapañcaka)](../texts/sadhana-pancaka.md) — attribution: traditional
   - [Brahmajñānāvalīmālā](../texts/brahmajnanavalimala.md) — attribution: doubtful
-  - `src:saundarya-lahari` — attribution: disputed
+  - [Saundaryalaharī](../texts/saundarya-lahari.md) — attribution: disputed
   - [Śivānandalaharī](../texts/sivananda-lahari.md) — attribution: traditional
-  - `src:yogataravali` — attribution: doubtful
+  - [Yogatārāvalī](../texts/yogataravali.md) — attribution: doubtful
   - [Maṭhāmnāya (Mahānuśāsana, Maṭhāmnāya-setu)](../texts/mathamnaya.md) — attribution: doubtful
   - [Sanatsujātīyabhāṣya (attributed to Śaṅkara)](../texts/sanatsujatiya-bhasya-sankara.md) — attribution: disputed
   - [Viṣṇusahasranāmabhāṣya (attributed to Śaṅkara)](../texts/visnu-sahasranama-bhasya-sankara.md) — attribution: disputed
+  - [Lalitātriśatī-bhāṣya](../texts/lalita-trisati-bhasya.md) — attribution: doubtful
+  - [Devyaparādhakṣamāpana Stotra](../texts/devyaparadha-ksamapana-stotra.md) — attribution: traditional
+  - [Kalyāṇavṛṣṭistava](../texts/kalyanavrsti-stava.md) — attribution: doubtful
+  - [Prapañcasāra](../texts/prapancasara.md) — attribution: traditional
 
 The systematizer of Advaita Vedānta: commentator on the Brahma Sūtras, the principal Upaniṣads and the Gītā, author of the Upadeśasāhasrī; in the tradition's account a child renunciant from Kālaṭi who studied under Govinda, debated Maṇḍana Miśra, founded the four āmnāya maṭhas and the Daśanāmī order, revived Vedic dharma and died at thirty-two.
 **Realization — the tradition's account:** The Śaṅkaradigvijaya tells that Śaṅkara, an only son of Śivaguru and Āryāmbā, obtained his mother's consent to renounce when a crocodile seized him in the river; that Govinda initiated him; that Vyāsa appeared to him at Kāśī and extended his life from sixteen to thirty-two years; and that he ascended the Sarvajña-pīṭha in Kashmir.
@@ -49,4 +53,8 @@ The systematizer of Advaita Vedānta: commentator on the Brahma Sūtras, the pri
 _Notes: Scholarly consensus (Hacker, Mayeda, Ingalls) accepts the BSBh, the principal Upaniṣad commentaries, the Gītā commentary and the Upadeśasāhasrī; most prakaraṇas and stotras are doubted._
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U05-gita-epic, skeleton:U04-minor-upanisads, skeleton:U10-yoga. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:eBharati:bhagavadgItAbhAShyam_prathamo_bhAgaH, https://link.springer.com/article/10.1007/s11407-025-09405-9 — Works and characterization confirmed; the two minor commentaries are traditionally credited to him and their authorship is disputed.
+
+_Contributed by: skeleton:U13-advaita, skeleton:U05-gita-epic, skeleton:U23-sakta-srividya, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U10-yoga, skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._

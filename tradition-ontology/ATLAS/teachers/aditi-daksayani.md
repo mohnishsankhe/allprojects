@@ -1,6 +1,6 @@
 # Aditi Dākṣāyaṇī
 
-`tch:aditi-daksayani` · `skeleton` · confidence moderate
+`tch:aditi-daksayani` · `sourced` · confidence moderate
 
 **Lineages:** [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Śākala śākhā (Ṛgveda)](../lineages/sakha-sakala.md)
 **Historicity:** mythic
@@ -12,4 +12,8 @@ Named as one possible seer of RV 10.72 on the birth of the gods (Aditi born of D
 _Notes: Seer attributions follow the Sarvānukramaṇī as printed in the hymn headers of the local Ṛgveda text (checked)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Rigveda/rigveda_mandala_10.json (Anukramaṇī seer/deity/metre headers) — Header: Aditi Dākṣāyaṇī as one alternative seer of 10.72; 10.72.4 located.
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

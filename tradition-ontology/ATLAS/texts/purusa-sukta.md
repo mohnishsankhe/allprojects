@@ -1,6 +1,6 @@
 # Puruṣa Sūkta (Ṛgveda 10.90)
 
-`src:purusa-sukta` · `skeleton` · confidence high
+`src:purusa-sukta` · `sourced` · confidence high
 
 **Alternate titles:** Puruṣasūkta
 **Original title:** पुरुषसूक्तम्
@@ -20,4 +20,8 @@ The hymn of the cosmic Person: thousand-headed, thousand-eyed, thousand-footed, 
 _Notes: Also Vājasaneyi Saṃhitā 31.1–16 (with the six 'Uttaranārāyaṇa' verses 31.17–22), Atharvaveda (Śaunaka) 19.6 and Taittirīya Āraṇyaka 3.12 (last two from memory). Its sixteen verses are used for the sixteen-fold worship in later temple and domestic ritual._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/1_rv/rgveda_mandala_10.md (GRETIL, Van Nooten–Holland/Aufrecht), text:sources_raw/DharmicData/Rigveda/rigveda_mandala_10.json (Anukramaṇī seer/deity/metre headers), text:sources_raw/DharmicData/Yajurveda/vajasneyi_madhyadina_s — Hymn located in the local Śākala text. 16 verses; seer Nārāyaṇa. Parallels located: VS 31.1–16 with 31.17–22 (Uttaranārāyaṇa), AVŚ 19.6 (seer Nārāyaṇa), Taittirīya Āraṇyaka 3 (local text; anuvāka 12 per standard citation).
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

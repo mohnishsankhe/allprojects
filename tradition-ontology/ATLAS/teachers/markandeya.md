@@ -1,6 +1,6 @@
 # Mārkaṇḍeya
 
-`tch:markandeya` · `skeleton` · confidence high
+`tch:markandeya` · `sourced` · confidence high
 
 **Lineages:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 **Historicity:** legendary
@@ -12,4 +12,8 @@ The long-lived sage who instructs the Pāṇḍavas in the forest (3.180–221):
 **Realization — the tradition's account:** The long-lived sage who, by Nara-Nārāyaṇa's boon, witnessed an illusory deluge and saw the Lord as an infant lying on a banyan leaf, entering and leaving the child's body (BhP 12.8-10).
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 3.180.5, 3.186.81-91, 3.197.1 [mārka] — Located as described.
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

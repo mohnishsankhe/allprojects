@@ -11,4 +11,4 @@ In the month of Mārkaḻi, rising before dawn, bathing and singing the Tiruvemp
   - [Tiruvācakam](../texts/tiruvacakam.md) — ref: 7; rests_on: ["tea:tiruvacakam:7"]
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._

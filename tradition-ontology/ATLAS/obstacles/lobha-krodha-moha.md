@@ -18,4 +18,4 @@ Harmful thoughts are preceded by greed, anger or delusion (2.34): violence for m
 - partial: `obs:three-poisons` — Parallels the Buddhist three roots (lobha, dosa, moha); the second member differs (krodha, anger, vs dosa, hatred)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 09:07 IST._

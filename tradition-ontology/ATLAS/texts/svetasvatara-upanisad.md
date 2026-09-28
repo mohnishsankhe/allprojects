@@ -74,7 +74,7 @@ The highest brahman contains a triad; the knowers of brahman, knowing what is wi
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: intermediate · types: ultimate_
 
-terms: [kṣara](../terms/ksara.md), [akṣara](../terms/aksara.md), [ajā / aja](../terms/aja.md), [īśvara](../terms/isvara.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md), [The individual living self (jīva)](../concepts/jiva.md)
+terms: [kṣara](../terms/ksara.md), [akṣara](../terms/aksara.md), [aja](../terms/aja.md), [īśvara](../terms/isvara.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md), [The individual living self (jīva)](../concepts/jiva.md)
 
 ### 1.10 <a id="tea-svetasvatara-upanisad-1-10"></a>
 `skeleton` · confidence high
@@ -137,7 +137,7 @@ Holding the body steady with the three upper parts (chest, neck and head) erect,
 
 _level: conventional · standpoint: seeker · path: meditation, body-breath · stage: intermediate · types: practice_
 
-terms: [yoga](../terms/yoga.md), [hṛdaya](../terms/hrdaya.md) · practices: [The yoga of the Śvetāśvatara (posture, breath, place)](../practices/svetasvatara-yoga.md), [Sense-withdrawal (pratyāhāra)](../practices/pratyahara.md)
+terms: [yoga](../terms/yoga.md), [hṛdaya](../terms/hrdaya.md) · practices: [The yoga of the Śvetāśvatara (posture, breath, place)](../practices/svetasvatara-yoga.md), [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md)
 
 ### 2.9 <a id="tea-svetasvatara-upanisad-2-9"></a>
 `skeleton` · confidence high
@@ -146,7 +146,7 @@ Restraining the breaths here, with movements controlled, when the breath is dimi
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: intermediate · types: practice_
 
-terms: [prāṇāyāma](../terms/pranayama.md) · practices: [The yoga of the Śvetāśvatara (posture, breath, place)](../practices/svetasvatara-yoga.md), [Breath-regulation (prāṇāyāma)](../practices/pranayama.md) · obstacles: [Heedlessness (pramāda)](../obstacles/pramada.md)
+terms: [prāṇāyāma](../terms/pranayama.md) · practices: [The yoga of the Śvetāśvatara (posture, breath, place)](../practices/svetasvatara-yoga.md), [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md) · obstacles: [Heedlessness (pramāda)](../obstacles/pramada.md)
 
 ### 2.10 <a id="tea-svetasvatara-upanisad-2-10"></a>
 `skeleton` · confidence high
@@ -193,7 +193,7 @@ As a mirror stained with dust shines brightly when cleaned, so the embodied one,
 
 _level: bridging · standpoint: experiential · path: meditation, knowledge · stage: advanced · types: karma-liberation, powers-experiences_
 
-concepts: [Liberation (mokṣa) in Dvaita](../concepts/moksa.md) · practices: [The yoga of the Śvetāśvatara (posture, breath, place)](../practices/svetasvatara-yoga.md) · obstacles: [Sorrow (śoka)](../obstacles/soka.md)
+concepts: [Liberation (mokṣa) in Dvaita](../concepts/moksa.md) · practices: [The yoga of the Śvetāśvatara (posture, breath, place)](../practices/svetasvatara-yoga.md) · obstacles: [Grief (śoka)](../obstacles/soka.md)
 
 ### 2.16-17 <a id="tea-svetasvatara-upanisad-2-16-17"></a>
 `skeleton` · confidence moderate
@@ -292,7 +292,7 @@ Smaller than the small, greater than the great, the self is set in the cave of t
 
 _level: bridging · standpoint: divine · path: knowledge, devotion · stage: advanced · types: ultimate, karma-liberation_
 
-terms: [prasāda](../terms/prasada.md), [aṇu / aṇīyān](../terms/anu.md), [guhā](../terms/guha.md) · concepts: [Divine grace (prasāda)](../concepts/grace.md) · obstacles: [Sorrow (śoka)](../obstacles/soka.md)
+terms: [prasāda](../terms/prasada.md), [aṇu / aṇīyān](../terms/anu.md), [guhā](../terms/guha.md) · concepts: [Divine grace (prasāda)](../concepts/grace.md) · obstacles: [Grief (śoka)](../obstacles/soka.md)
 
 ### 3.21 <a id="tea-svetasvatara-upanisad-3-21"></a>
 `skeleton` · confidence moderate
@@ -319,7 +319,7 @@ One unborn female, red, white and black, gives birth to many creatures like hers
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: intermediate · types: world-fate, ultimate_
 
-terms: [ajā / aja](../terms/aja.md), [guṇa](../terms/guna.md) · concepts: [The three guṇas](../concepts/three-gunas.md), [The tripartition (trivṛt) of heat, water and food](../concepts/trivrtkarana.md)
+terms: [aja](../terms/aja.md), [guṇa](../terms/guna.md) · concepts: [The three guṇas](../concepts/three-gunas.md), [The tripartition (trivṛt) of heat, water and food](../concepts/trivrtkarana.md)
 
 ### 4.6-7 <a id="tea-svetasvatara-upanisad-4-6-7"></a>
 `skeleton` · confidence high
@@ -534,7 +534,7 @@ Without parts, without action, tranquil, blameless, stainless, the highest bridg
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate, karma-liberation_
 
-concepts: ['Not so, not so' (neti neti)](../concepts/neti-neti.md), [Liberation (mokṣa) in Dvaita](../concepts/moksa.md) · obstacles: [Sorrow (śoka)](../obstacles/soka.md)
+concepts: ['Not so, not so' (neti neti)](../concepts/neti-neti.md), [Liberation (mokṣa) in Dvaita](../concepts/moksa.md) · obstacles: [Grief (śoka)](../obstacles/soka.md)
 
 ### 6.21 <a id="tea-svetasvatara-upanisad-6-21"></a>
 `skeleton` · confidence high
@@ -571,4 +571,4 @@ terms: [bhakti](../terms/bhakti.md), [guru](../terms/guru.md) · concepts: [Devo
 _Notes: A commentary on it is attributed to Śaṅkara (attribution doubted). Veda affiliation: Black Yajurveda (śākhā uncertain; the name may be that of a school or of its seer)_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

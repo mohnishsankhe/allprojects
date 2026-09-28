@@ -1,6 +1,6 @@
 # Jñānayajña (Bhaṭṭa Bhāskara on the Taittirīya Saṃhitā)
 
-`src:jnanayajna` · `skeleton` · confidence moderate
+`src:jnanayajna` · `sourced` · confidence moderate
 
 **Original title:** ज्ञानयज्ञः
 **Language:** Sanskrit
@@ -16,4 +16,8 @@
 Bhaṭṭa Bhāskara Miśra's commentary on the Taittirīya Saṃhitā (and Brāhmaṇa and Āraṇyaka), older than Sāyaṇa's and often cited for its accentual and ritual explanations.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: partially-confirmed — https://catalog.hathitrust.org/Record/000816384, https://www.qalamos.net/receive/MyMssWork_work_00006074, https://archive.org/details/in.ernet.dli.2015.312238 — Existence, title (Jñānayajña), author and scope (Taittirīya Saṃhitā, Brāhmaṇa and Āraṇyaka), and its priority to Sāyaṇa are confirmed. The date 'c. 11th century' could not be confirmed from the sources found (kept at low confidence).
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

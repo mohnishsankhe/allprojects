@@ -13,4 +13,4 @@ Recitation of Śiva's five- or six-syllable mantra and of Dakṣiṇāmūrti's m
   - [Pañcabrahma Upaniṣad](../texts/pancabrahma-upanisad.md) — ref: 11-40; rests_on: ["tea:pancabrahma-upanisad:11-40"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

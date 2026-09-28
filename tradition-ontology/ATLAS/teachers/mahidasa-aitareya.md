@@ -12,4 +12,4 @@ The seer to whom the Aitareya Brāhmaṇa and Āraṇyaka are ascribed.
 **Realization — the tradition's account:** Son of Itarā, slighted by his father, he was favoured by the Earth goddess and received the Brāhmaṇa (Sāyaṇa's introduction); the Chāndogya says he lived 116 years by his knowledge (ChU 3.16.7).
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

@@ -198,4 +198,4 @@ terms: [hitā (nāḍī)](../terms/hita.md), [suṣupti / suṣupta](../terms/su
 _Notes: Variant readings are many (e.g., the river Vijara/Viraja, the tree Ilya/Tilya, Citra Gāṅgyāyani/Gārgyāyaṇi). Veda affiliation: Ṛgveda, Kauṣītaki/Śāṅkhāyana śākhā_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

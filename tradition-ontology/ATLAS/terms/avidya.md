@@ -17,6 +17,8 @@
 - [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md): A real, beginningless covering in each soul, twofold: one covering the soul's own nature and qualities, one covering (the soul's knowledge of) the Supreme; removed only by the Lord.
 - [Vaiśeṣika](../lineages/vaisesika.md): Defective cognition arising from defects of the senses and from impressions (VS 9.25–26 C); doubt, error, indefinite cognition and dream (Praśastapāda).
 - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): Not an indescribable cosmic ignorance but karma (the third power 'avidyā-karma' of Viṣṇu Purāṇa 6.7.61) and the ignorance it causes in the soul — the contraction of its knowledge and the mistaking of body for self.
+- [Kaula (the Kula tradition)](../lineages/kaula.md): The beginningless ignorance covering the jīvas (Kulārṇava 1.9).
+- [Vārkarī sampradāya](../lineages/varkari.md): Ignorance, which Jñāneśvar's Amṛtānubhava argues cannot exist in the self-luminous reality at all.
 
 ## Forms in other languages
 - Pali: avijjā  — partial
@@ -28,4 +30,4 @@
 _Notes: Not the cosmic ignorance of Advaita._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U03-principal-upanisads, skeleton:U07-puranas, skeleton:U15-dvaita, skeleton:U11-nyaya-vaisesika, skeleton:U14-visistadvaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U03-principal-upanisads, skeleton:U07-puranas, skeleton:U15-dvaita, skeleton:U11-nyaya-vaisesika, skeleton:U14-visistadvaita, skeleton:U24-kali-kaula, skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._

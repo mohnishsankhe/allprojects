@@ -3,16 +3,18 @@
 `obs:kama` · `skeleton` · confidence high
 
 **Category:** passion
-**Convergence:** 2 independent lineage(s): [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
-**Taught in:** [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
+**Convergence:** 5 independent lineage(s): [Bāul](../lineages/baul.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md), [Vaiṣṇava Sahajiyā](../lineages/vaisnava-sahajiya.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
+**Taught in:** [Bāul](../lineages/baul.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Vaiṣṇava Sahajiyā](../lineages/vaisnava-sahajiya.md)
 
-A person is made of desire; desire leads to resolve, action and its result, and the desiring one returns to this world for action (BAU 4.4.5-6); one who desires desires is born here and there by them (MuU 3.2.2); children pursue outward desires into the net of death (KU 2.1.2); when all desires in the heart are released one becomes immortal (BAU 4.4.7; KU 2.3.14).
-**Antidotes:** knowing the self as one's only desire (āptakāma, ātmakāma, BAU 4.4.6), [Renunciation (saṃnyāsa)](../practices/sannyasa.md)
+Bhagavad Gītā 1–3: Desire arises from attachment to objects dwelt on and gives rise to anger (2.62); the ritual-minded are desire-souled (2.43); the one of steady wisdom gives up all desires (2.55, 2.71) and is not 'a desirer of desires' (2.70). Named with anger as the enemy born of rajas, all-devouring, covering knowledge as smoke covers fire, an insatiable fire, seated in the senses, mind and understanding (3.37–40).
+**Antidotes:** [Restraint and withdrawal of the senses (indriya-saṃyama)](../practices/indriya-samyama.md), [Slaying desire, the enemy](../practices/conquering-desire.md), Control the senses first; knowing what is beyond the understanding and steadying the self by the self, slay it (3.41–43), Give up all desires and be content in the self (2.55, 2.71), knowing the self as one's only desire (āptakāma, ātmakāma, BAU 4.4.6), [Renunciation (saṃnyāsa)](../practices/sannyasa.md), [Superimposition (āropa) — summary only](../practices/aropa-sadhana.md)
 **Sources:** 
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 2.43, 2.55, 2.62, 2.70, 2.71, 3.37, 3.38, 3.39, 3.40, 3.41, 3.43; rests_on: ["tea:bhagavad-gita:2.43", "tea:bhagavad-gita:2.55", "tea:bhagavad-gita:2.62", "tea:bhagavad-gita:2.70", "tea:bhagavad-gita:2.71", "tea:bhagavad-gita:3.37", "tea:bhagavad-gita:3.38", "tea:bhagavad-gita:3.39", "tea:bhagavad-gita:3.40", "tea:bhagavad-gita:3.41", "tea:bhagavad-gita:3.43"]
   - [Bṛhadāraṇyaka Upaniṣad](../texts/brhadaranyaka-upanisad.md) — ref: 4.4.5-7; rests_on: ["tea:brhadaranyaka-upanisad:4.4.5", "tea:brhadaranyaka-upanisad:4.4.6", "tea:brhadaranyaka-upanisad:4.4.7"]
   - [Muṇḍaka Upaniṣad](../texts/mundaka-upanisad.md) — ref: 3.2.2; rests_on: ["tea:mundaka-upanisad:3.2.1-2"]
   - [Katha Upaniṣad](../texts/katha-upanisad.md) — ref: 2.1.2; 2.3.14; rests_on: ["tea:katha-upanisad:2.1.2", "tea:katha-upanisad:2.3.14-15"]
+  - [Vivartavilāsa](../texts/vivartavilasa.md) — ref: kāma into prema; rests_on: ["tea:vivartavilasa:kama-into-prema"]
   - [Caitanya Caritāmṛta](../texts/caitanya-caritamrta.md) — ref: 1.4.165; rests_on: ["tea:caitanya-caritamrta:1.4.165"]
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U03-principal-upanisads, skeleton:U27-sant-baul, skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._

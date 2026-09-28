@@ -14,4 +14,4 @@ Pāñcarātra saṃhitā edited with an English translation in the Gaekwad's Ori
   - kind: original; name: ed. & tr. S. Krishnaswami Aiyangar, Gaekwad's Oriental Series 86, Baroda 1940
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._

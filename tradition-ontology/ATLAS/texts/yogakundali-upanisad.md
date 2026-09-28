@@ -5,7 +5,7 @@
 **Alternate titles:** Yogakuṇḍalinī
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), `lin:hatha-yoga`
+**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md)
 **Genre:** upaniṣad
 **Attribution:** tradition: Śruti: revealed, without human author (apauruṣeya); the Muktikā presents it as one of the 108 Upaniṣads that Rāma teaches Hanumān, each belonging to a Vedic śākhā; scholarly: anonymous; assigned to a Veda by the Muktikā list, not by any surviving śākhā transmission; confidence: moderate
 **Dates:** Tradition's account: Śruti: eternal and authorless; no human date; Scholarly account: Scholarly accounts differ by text. Several Yoga Upaniṣads (e.g. Amṛtabindu, Amṛtanāda, Kṣurikā, Tejobindu, Nādabindu, Dhyānabindu, Brahmavidyā, Yogatattva, Yogaśikhā, Haṃsa) survive in shorter northern versions that are older; the expanded southern recensions (as in this collection) borrow from medieval haṭha works and were probably compiled in South India, perhaps as late as the 18th c. (Bouy 1994).; (confidence low)
@@ -34,7 +34,7 @@ Of these, the breath is conquered by moderate diet, posture and the moving of th
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: intermediate · types: practice_
 
-practices: [Moderate diet (mitāhāra)](../practices/mitahara.md), [Śakticālana (moving the power)](../practices/sakticalana.md)
+practices: [Moderate diet (mitāhāra) in the haṭha texts](../practices/mitahara.md), [Śakticālana (moving the power)](../practices/sakticalana.md)
 
 ### 1.7-18 (summary) <a id="tea-yogakundali-upanisad-1-7-18-summary"></a>
 `skeleton` · confidence moderate · _restricted: summary only_
@@ -52,7 +52,7 @@ Kumbhaka is twofold, sahita and kevala; sahita is of four kinds: sūrya(bheda), 
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice_
 
-practices: [Sahita-kumbhaka (sūryabheda, ujjāyī, śītalī, bhastrī)](../practices/sahita-kumbhaka.md), [Kevala-kumbhaka (retention without inhalation or exhalation)](../practices/kevala-kumbhaka.md)
+practices: [Sahita-kumbhaka (retention joined with inhalation and exhalation)](../practices/sahita-kumbhaka.md), [Kevala-kumbhaka (retention alone)](../practices/kevala-kumbhaka.md)
 
 ### 1.40-52 <a id="tea-yogakundali-upanisad-1-40-52"></a>
 `skeleton` · confidence moderate
@@ -61,7 +61,7 @@ The three bandhas — mūla, uḍḍīyāna and jālandhara — are to be practi
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: intermediate · types: practice_
 
-practices: [The three locks (mūla, uḍḍīyāna, jālandhara)](../practices/bandha-traya.md)
+practices: [The three locks together (bandha-traya)](../practices/bandha-traya.md)
 
 ### 1.56-58 <a id="tea-yogakundali-upanisad-1-56-58"></a>
 `skeleton` · confidence high
@@ -97,7 +97,7 @@ The khecarī-vidyā is to be learnt from a guru who knows it from text, meaning 
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: teacher-transmission, practice_
 
-concepts: [Secrecy and eligibility](../concepts/secrecy-and-eligibility.md) · practices: [Khecarī mudrā](../practices/khecari-mudra.md)
+concepts: [Secrecy and eligibility](../concepts/secrecy-and-eligibility.md) · practices: [Khecarī mudrā ('moving in space')](../practices/khecari-mudra.md)
 
 ### 2.28-49 (summary) <a id="tea-yogakundali-upanisad-2-28-49-summary"></a>
 `skeleton` · confidence moderate · _restricted: summary only_
@@ -106,7 +106,7 @@ Bodily procedures of khecarī are described; they are not reproduced here. The t
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: all · types: practice_
 
-practices: [Khecarī mudrā](../practices/khecari-mudra.md)
+practices: [Khecarī mudrā ('moving in space')](../practices/khecari-mudra.md)
 
 ### 3.5-6 <a id="tea-yogakundali-upanisad-3-5-6"></a>
 `skeleton` · confidence low
@@ -173,4 +173,4 @@ concepts: [Liberation while living (jīvanmukti)](../concepts/jivanmukti.md), [B
 _Notes: Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-text used here; other editions (e.g. the Adyar series, Schrader's critical edition, northern recensions) number differently._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

@@ -12,7 +12,7 @@ Outer ritual is for the gross; japa is the repeated contemplation of the supreme
   - [Paramārthasāra](../texts/paramarthasara.md) — ref: 74-80; rests_on: ["tea:paramarthasara:74-80"]
 
 ## Equivalents (interpretation layer)
-- partial: [Internal worship (antaryāga)](antaryaga.md) — inner worship (antaryāga) of other Śākta and Śaiva systems
+- partial: [Inner worship (antaryāga)](antaryaga.md) — inner worship (antaryāga) of other Śākta and Śaiva systems
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

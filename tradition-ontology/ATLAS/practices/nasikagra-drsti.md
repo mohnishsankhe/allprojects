@@ -14,4 +14,4 @@ While seated erect for meditation, direct the gaze toward the tip of one's own n
 _Notes: Śaṅkara glosses: as if gazing at the tip of the nose, i.e. with the gaze turned inward, not literally fixed on it; U05's contribution to a practice also covered by the haṭha units._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

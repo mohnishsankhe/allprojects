@@ -1,6 +1,6 @@
 # Rājasūya (royal consecration)
 
-`prc:rajasuya` · `skeleton` · confidence moderate
+`prc:rajasuya` · `sourced` · confidence moderate
 
 **Category:** ritual
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -12,4 +12,8 @@ The Śrauta consecration of a king, during which the story of Śunaḥśepa is r
   - [Vājasaneyi Saṃhitā (Mādhyandina)](../texts/vajasaneyi-samhita.md) — ref: 9–10 (as usually located)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Yajurveda/vajasneyi_madhyadina_samhita.json — VS 9.35ff. and 10 (consecration waters 'apo devā madhumatīr agṛbhṇan … rājasvaś citānāḥ') located — 'VS 9–10' confirmed.
+
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

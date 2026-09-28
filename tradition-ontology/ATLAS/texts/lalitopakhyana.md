@@ -54,7 +54,7 @@ concepts: [Lalitā and Bhaṇḍāsura](../concepts/lalita-and-bhandasura.md)
 
 _level: conventional · standpoint: divine · path: devotion, meditation · stage: all · types: world-fate, practice_
 
-terms: [śrīpura](../terms/sripura.md) · concepts: [Maṇidvīpa and Śrīpura](../concepts/manidvipa.md)
+terms: [śrīpura / śrīnagara](../terms/sripura.md) · concepts: [Maṇidvīpa and Śrīpura](../concepts/manidvipa.md)
 
 ### 3.38 <a id="tea-lalitopakhyana-3-38"></a>
 `skeleton` · confidence moderate
@@ -67,4 +67,4 @@ _level: conventional · standpoint: ritual · path: sound, ritual · stage: adva
 _Notes: The Lalitā Sahasranāma and Triśatī (U23) name the Brahmāṇḍa's Uttarakhaṇḍa (Hayagrīva-Agastya dialogue) as their source, but their texts are not contained in the printed Lalitopākhyāna (checked: no sahasranāma in the local e-text). chapter checked in the GRETIL e-text of the Brahmāṇḍa Purāṇa (Venkateshwara ed.)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

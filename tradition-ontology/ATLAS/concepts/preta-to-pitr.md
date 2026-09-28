@@ -14,4 +14,4 @@
 _Notes: Doctrine stated from the Gṛhya/Dharmaśāstra tradition at large; specific verse anchors to be added in Phase D (Garuḍa Purāṇa → U07)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

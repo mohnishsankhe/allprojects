@@ -17,4 +17,4 @@ Withdraw the senses from their objects as a tortoise draws in its limbs (2.58); 
 - Abstaining from objects removes them but not the taste, which ceases only on seeing the supreme. — [Bhagavad Gītā](../texts/bhagavad-gita.md) 2.59
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

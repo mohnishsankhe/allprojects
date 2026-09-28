@@ -11,4 +11,4 @@
 Author of the Īśānaśivagurudevapaddhati, a vast Śaiva ritual compendium (Tantrasāra and Siddhāntasāra) that is a principal authority of Kerala temple tantra.
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._

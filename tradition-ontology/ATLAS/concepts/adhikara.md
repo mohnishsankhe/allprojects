@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [The relation of Pūrva and Uttara Mīmāṃsā](purva-uttara-mimamsa.md): Vedānta distinguishes the eligible for ritual from the eligible for Brahman-inquiry (P4-stage) — rests on [1.1.4](../texts/brahma-sutra-bhasya-sankara.md#tea-brahma-sutra-bhasya-sankara-1-1-4)
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

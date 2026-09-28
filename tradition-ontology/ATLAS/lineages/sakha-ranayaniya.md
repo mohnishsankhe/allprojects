@@ -1,6 +1,6 @@
 # Rāṇāyanīya śākhā (Sāmaveda)
 
-`lin:sakha-ranayaniya` · `skeleton` · confidence low
+`lin:sakha-ranayaniya` · `sourced` · confidence low
 
 **Family:** vedic
 **Alternate names:** Rāṇāyanīya
@@ -32,4 +32,8 @@ _none recorded_
 _Notes: Sūtra affiliations and regions from memory; to be checked._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://www.sanskritimagazine.com/vedic-shakhas-summary-classification-vedic-knowledge-passed/, https://vedicheritage.gov.in/samhitas/samaveda-samhitas/ranayaniya-samhita/ — Confirmed (entry low confidence): Rāṇāyanīya reported in Karnataka (Havyaka community), Maharashtra and also Odisha; close to the Kauthuma.
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

@@ -1,6 +1,6 @@
 # Ājagaraparvan (Nahuṣa and Yudhiṣṭhira)
 
-`src:ajagaraparvan` · `skeleton` · confidence high
+`src:ajagaraparvan` · `sourced` · confidence high
 
 **Original title:** आजगरपर्वन्
 **Language:** Sanskrit
@@ -22,4 +22,8 @@ Bhīma is seized by a python who is king Nahuṣa under a curse; Yudhiṣṭhira
 _Notes: Start chapter given from memory; the brāhmaṇa-definition verse (3.177.16) is checked._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_3.json (BORI Critical Edition text) 3.175.1, 16 ajagara; 3.176.13 Nahuṣa; 3.177.16; 3.178.45 — Section located at CE 3.173-178 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

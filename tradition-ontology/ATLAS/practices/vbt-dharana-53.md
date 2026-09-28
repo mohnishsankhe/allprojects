@@ -18,4 +18,4 @@ Through [the seals] Karaṅkiṇī, Krodhanā, Bhairavī, Lelihānā and Khecar�
 _Notes: Verses 77 (KSTS 8 / GRETIL numbering). These mudrās are described in Trika sources (TĀ ch. 32); the verse only names them. Marked restricted as a precaution because of the name khecarī; the Trika khecarī is not the haṭha tongue practice. Restricted: summary of what the verse says only; the text gives no method and none is supplied here. The tradition treats such practices as requiring initiation and a qualified teacher._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

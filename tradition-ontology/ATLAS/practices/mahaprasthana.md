@@ -18,4 +18,4 @@ Summary only: at the end of life the Pāṇḍavas renounce the kingdom and walk
 _Notes: Recorded as restricted (a practice culminating in death); summary and the text's own framing only._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

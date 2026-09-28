@@ -14,4 +14,4 @@
 - part-of → [Kalpa, the day of Brahmā and his lifetime](kalpa-and-brahma-lifetime.md)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

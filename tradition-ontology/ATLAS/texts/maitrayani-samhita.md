@@ -1,6 +1,6 @@
 # Maitrāyaṇī Saṃhitā
 
-`src:maitrayani-samhita` · `skeleton` · confidence high
+`src:maitrayani-samhita` · `sourced` · confidence high
 
 **Original title:** मैत्रायणीसंहिता
 **Language:** Sanskrit
@@ -17,4 +17,8 @@ The Black Yajurveda Saṃhitā of the Maitrāyaṇīya school: mantras and brāh
   - kind: original; name: L. von Schroeder, Maitrāyaṇī Saṃhitā (1881–86); licence: public domain
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Maitrāyaṇīsaṃhitā, catalog:GRETIL-dev:maitrayani-samhita_plain_text, https://en.wikipedia.org/wiki/Yajurveda — Extant; local count in the GRETIL text: 4 kāṇḍas with 11 + 13 + 16 + 14 = 54 prapāṭhakas — as the entry says. Scholarly date c. 1000–800 BCE consistent with Witzel's Yajurveda range.
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

@@ -16,4 +16,4 @@ Gauḍapāda's discipline: realizing the unborn, controlling the mind without we
 - One should not relish the happiness arising in it; relishing is an obstacle. — [Māṇḍūkya Kārikā (Gauḍapāda Kārikā, Āgamaśāstra)](../texts/mandukya-karika.md) 3.45
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

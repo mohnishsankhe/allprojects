@@ -26,4 +26,4 @@ Against it: the seers held that aja means seed-grain; Vasu fell for siding with 
 **Candidate readings:** P4-stage: animal sacrifice for householders with desires, non-violent worship for renouncers and ekāntins (Kapila: the āśramas' duties have one aim, 12.260.12); yuga reading: bloodless sacrifice belongs to the Kṛta age (12.336.58; Tulādhāra's 'as the good sacrificed of old'); P7-arthavāda: the praise of non-violent offerings as praise rather than prohibition
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

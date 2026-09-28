@@ -8,10 +8,12 @@
 
 ## Definitions by tradition
 - [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): The metre of three eight-syllable lines, and the Sāvitrī verse in it (RV 3.62.10), repeated with the vyāhṛtis (VS 36.3).
+- [Śrīvidyā](../lineages/srividya.md): The Vedic Gāyatrī read as Śrīvidyā (Tripurātāpinī Upaniṣad); the Pañcadaśī is called the 'full Gāyatrī' and its first meaning is the Gāyatrī meaning (VR 57); the Goddess is the Gāyatrī (LSN 90).
+- [Mantraśāstra (the science of mantras: the smārta-tantric mantra manuals)](../lineages/mantrasastra.md): The Sāvitrī mantra (RV 3.62.10) with Oṃ and the vyāhṛtis, repeated at the twilights, and the Goddess Gāyatrī who is its deity; the mantra manuals give its seer (Viśvāmitra), metre (gāyatrī) and deity (Savitṛ), its nyāsa and puraścaraṇa.
 
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U23-sakta-srividya, skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._

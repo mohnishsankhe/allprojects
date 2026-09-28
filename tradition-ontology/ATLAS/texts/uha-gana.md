@@ -1,6 +1,6 @@
 # Ūha-gāna
 
-`src:uha-gana` · `skeleton` · confidence moderate
+`src:uha-gana` · `sourced` · confidence moderate
 
 **Original title:** ऊहगानम्
 **Language:** Sanskrit
@@ -12,4 +12,8 @@
 The song-book that applies the melodies to the Uttarārcika verse-groups in the order of the soma rites, 'modifying' (ūha) the base melodies for new texts.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Samagana, https://www.wisdomlib.org/hinduism/book/panchavimsha-brahmana-english-translation/d/doc1473684.html, https://sanskritdocuments.org/doc_veda/aranyakaganam.pdf — Ūha-gāna confirmed as the modification of the grāmageya melodies for the ritual verse-groups. The four song-books of the Kauthuma–Rāṇāyanīya tradition are listed together in the sources.
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

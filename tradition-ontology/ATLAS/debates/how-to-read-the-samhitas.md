@@ -1,6 +1,6 @@
 # How should the Saṃhitās be interpreted — by the rite, the gods, the self, history, or one God?
 
-`dsp:how-to-read-the-samhitas` · `skeleton` · confidence moderate
+`dsp:how-to-read-the-samhitas` · `sourced` · confidence moderate
 
 
 ## Sides (recorded before any reconciliation)
@@ -37,4 +37,8 @@ Sri Aurobindo (recent): the hymns are a symbolic record of inner spiritual exper
 **The traditions' own objections:** Sāyaṇa/Mīmāṃsā hold the ritual purport primary; Madhva holds Viṣṇu the final purport of all readings; Dayānanda rejects the historical and ritual-mythological readings outright; none accepts being one standpoint among others.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (Sarup ed., GRETIL), https://en.wikipedia.org/wiki/List_of_works_by_Madhvacharya, https://en.wikipedia.org/wiki/Rigvedadi_Bhashya_Bhumika — Yāska's schools located (ārṣa, vaiyākaraṇa, yājñika, nairukta, ātmapravāda at Nirukta 13.8–9; parivrājakas/nairuktas at 2.8). Other sides rest on sources confirmed above (Sāyaṇa upodghāta partially).
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

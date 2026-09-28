@@ -1,6 +1,6 @@
 # Sañjaya
 
-`tch:sanjaya` · `skeleton` · confidence high
+`tch:sanjaya` · `sourced` · confidence high
 
 **Lineages:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
 **Dates:** Tradition's account: end of the Dvāpara yuga (the Bhārata war; Kali yuga traditionally from 3102 BCE)
@@ -9,5 +9,11 @@
 
 Dhṛtarāṣṭra's charioteer and counsellor, given divine sight by Vyāsa to see and report the battle (6.2); he narrates the Gītā to Dhṛtarāṣṭra and says he heard it 'by the grace of Vyāsa' directly from Kṛṣṇa (18.75).
 
+_Notes: Linked in BhG ch. 1–3 at 1.1, 1.2, 1.24, 1.47, 2.1, 2.9._
+
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 6.2.9-11, local:gita/gita BhG 18.75 — Divine sight granted by Vyāsa (6.2.10) and "vyāsaprasādāt" (18.75) located.
+
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03. Generated 2026-09-28 09:07 IST._

@@ -22,4 +22,4 @@
 - contrasts-with → [Puruṣa (the conscious self)](purusa.md): differs from liberated puruṣas in never having been bound — rests on [1.24](../texts/yoga-sutra.md#tea-yoga-sutra-1-24), [1.24](../texts/yoga-bhasya.md#tea-yoga-bhasya-1-24)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

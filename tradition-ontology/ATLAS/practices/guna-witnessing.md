@@ -12,4 +12,4 @@ Knowing that the guṇas act upon the guṇas (3.28) and that the senses move am
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 3.27–28; 5.8–9; 13.29; 14.23; rests_on: ["tea:bhagavad-gita:3.27-28", "tea:bhagavad-gita:5.7-9", "tea:bhagavad-gita:13.29-30", "tea:bhagavad-gita:14.22-25"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

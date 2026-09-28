@@ -12,7 +12,7 @@
   - [Naiṣkarmyasiddhi](../texts/naiskarmyasiddhi.md) — attribution: accepted
   - [Bṛhadāraṇyakopaniṣadbhāṣyavārttika](../texts/brhadaranyaka-bhasya-varttika.md) — attribution: accepted
   - [Taittirīyopaniṣadbhāṣyavārttika](../texts/taittiriya-bhasya-varttika.md) — attribution: accepted
-  - [Mānasollāsa](../texts/manasollasa.md) — attribution: traditional
+  - [Mānasollāsa (Abhilaṣitārthacintāmaṇi) of Someśvara III](../texts/manasollasa.md) — attribution: traditional
   - [Pañcīkaraṇavārttika](../texts/pancikarana-varttika.md) — attribution: traditional
 
 Disciple of Śaṅkara, author of the Naiṣkarmyasiddhi and of the Vārttikas on Śaṅkara's Bṛhadāraṇyaka and Taittirīya commentaries; exponent of the semblance theory (ābhāsa-vāda) and of knowledge alone as liberating; in the tradition's account first head of Śṛṅgeri and identical with Maṇḍana Miśra after his defeat in debate.
@@ -20,4 +20,4 @@ Disciple of Śaṅkara, author of the Naiṣkarmyasiddhi and of the Vārttikas o
 _Notes: Identity with Maṇḍana: the tradition's account (Śaṅkaradigvijaya). Most modern scholars (Hiriyanna, Kuppuswami Sastri) hold them distinct because their doctrines differ (e.g. on prasaṅkhyāna and on works)._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

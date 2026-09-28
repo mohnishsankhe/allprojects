@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md), `lin:jyotisa`
+**Lineages:** [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md), [Jyotiṣa (the science of the lights)](../lineages/jyotisa.md)
 **Genre:** jyotiṣa
 **Authors:** 
   - [Lagadha](../teachers/lagadha.md) — role: author; attribution: traditional
@@ -15,7 +15,7 @@
 
 Lagadha's manual of Vedic time-reckoning for fixing the times of sacrifices: a five-year cycle (yuga) of lunar and solar time presided over by Prajāpati, the twenty-seven lunar mansions (nakṣatra), the lunar days, the solstices (the northward turning of sun and moon at the beginning of Śraviṣṭhā), and rules for intercalation. It declares that the Vedas exist for the sacrifices, the sacrifices depend on time, and so this science of time stands at the head of the Vedāṅgas.
 
-## Teachings (5: skeleton 5)
+## Teachings (7: skeleton 7)
 
 ### r.1 <a id="tea-vedanga-jyotisa-r-1"></a>
 `skeleton` · confidence high
@@ -44,6 +44,26 @@ _level: conventional · standpoint: cosmic · path: ritual · stage: all · type
 
 terms: [nakṣatra](../terms/naksatra.md) · concepts: [The five-year cycle of the Vedāṅga Jyotiṣa](../concepts/five-year-yuga.md)
 
+### r.25-28 <a id="tea-vedanga-jyotisa-r-25-28"></a>
+`skeleton` · confidence high
+
+The deities of the lunar mansions, beginning from Kṛttikā: Agni, Prajāpati, Soma, Rudra, Aditi, Bṛhaspati, the Serpents, the Fathers, Bhaga, Aryaman, Savitṛ, Tvaṣṭṛ, Vāyu, Indra-and-Agni, Mitra, Indra, Nirṛti, the Waters, the All-gods, Viṣṇu, the Vasus, Varuṇa, Aja Ekapād, Ahirbudhnya, Pūṣan, the two Aśvins and Yama. These are the nakṣatra-deities; by them, in sacrificial rites, those who know the śāstra have laid down a name for the sacrificer derived from his nakṣatra.
+
+> nakṣatradevatā etā etābhir yajñakarmaṇi | yajamānasya śāstrajñair nāma nakṣatrajaṃ smṛtam ||
+
+_level: conventional · standpoint: ritual · path: ritual · stage: all · types: world-fate, sound-language_
+
+terms: [nakṣatra](../terms/naksatra.md) · concepts: `cpt:twenty-seven-naksatras`, `cpt:naksatra-naming` · teachers: [Lagadha](../teachers/lagadha.md)
+
+### r.29-30 <a id="tea-vedanga-jyotisa-r-29-30"></a>
+`skeleton` · confidence moderate
+
+Thus Lagadha declared the explanation of months and years, muhūrtas, risings and the moon's junctures, with days, seasons and half-years as its limbs. The one who knows the course of moon, sun and stars attains their world, and esteem in this world; the learned man attains it as a knower of the Veda.
+
+_level: conventional · standpoint: ritual · path: knowledge, ritual · stage: all · types: world-fate, karma-liberation_
+
+concepts: `cpt:jyotisa-as-eye-of-veda` · teachers: [Lagadha](../teachers/lagadha.md)
+
 ### r.35 <a id="tea-vedanga-jyotisa-r-35"></a>
 `skeleton` · confidence high
 
@@ -66,4 +86,4 @@ concepts: [Time as the condition of the sacrifice](../concepts/time-for-sacrific
 _Notes: Commentary on the Yājuṣa recension: Somākara. Later jyotiṣa → U32._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

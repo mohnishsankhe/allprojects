@@ -1,6 +1,6 @@
 # Vyāsa (Kṛṣṇa Dvaipāyana)
 
-`tch:vyasa` · `skeleton` · confidence high
+`tch:vyasa` · `sourced` · confidence high
 
 **Alternate names:** Kṛṣṇa Dvaipāyana, Bādarāyaṇa (identified by the tradition), Vedavyāsa, Pārāśarya, Veda-Vyāsa, Bhāṣyakāra (in the Yoga tradition), Bādarāyaṇa (identified by tradition)
 **Lineages:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Vedānta (Uttara Mīmāṃsā)](../lineages/vedanta.md), [Advaita Vedānta](../lineages/advaita-vedanta.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
@@ -26,4 +26,9 @@ Son of Parāśara and Satyavatī, in the tradition the arranger of the Vedas and
 _Notes: U01 contribution: Vyāsa as divider of the Veda. Other units contribute Vyāsa as author of the Mahābhārata, Brahma Sūtras (as Bādarāyaṇa in some traditions) and Purāṇas._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, skeleton:U10-yoga, skeleton:U07-puranas, skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki/01/004.md, text:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md — Tradition's account located: Bhāgavata 1.4.19–22 and Viṣṇu Purāṇa 3.4.6–10 (divides the Veda in the Dvāpara; Paila Ṛg, Vaiśampāyana Yajus, Jaimini Sāma, Sumantu Atharva, Romaharṣaṇa itihāsa-purāṇa).
+- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 6.2.1-11, 12.337.53-54, local:gita/gita BhG 10.13, 10.37 — Roles located; the Apāntaratamas identification is at 12.337.54. Semi-legendary historicity and tradition dating as entered.
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, skeleton:U10-yoga, skeleton:U07-puranas, skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

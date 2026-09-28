@@ -17,4 +17,4 @@
 _Notes: The early texts speak of three aims (trivarga); mokṣa as a fourth aim (caturvarga) is systematized later._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

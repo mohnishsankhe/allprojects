@@ -27,4 +27,4 @@ It is permitted as an option: chastity or ascending the pyre (Viṣṇusmṛti 2
 _Notes: Recorded neutrally as a debate within Dharmaśāstra; commentators' locators given at section level from memory (low)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

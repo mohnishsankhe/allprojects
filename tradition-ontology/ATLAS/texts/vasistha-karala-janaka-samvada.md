@@ -1,6 +1,6 @@
 # Vasiṣṭha–Karāla Janaka Saṃvāda
 
-`src:vasistha-karala-janaka-samvada` · `skeleton` · confidence high
+`src:vasistha-karala-janaka-samvada` · `sourced` · confidence high
 
 **Original title:** वसिष्ठकरालजनकसंवाद
 **Language:** Sanskrit
@@ -20,4 +20,8 @@ Vasiṣṭha teaches king Karāla Janaka the Sāṃkhya-Yoga account of the peri
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.291.7-10 Vasiṣṭha, Karāla; 12.294.1 speaker Karāla Janaka; 12.296.37-44 — Section located at CE 12.291-296 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

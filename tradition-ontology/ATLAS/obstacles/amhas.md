@@ -13,4 +13,4 @@ Anxiety and distress from which the gods, especially Rudra, are asked to free on
 _Notes: rests_on: tea:rgveda:2.33.2_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

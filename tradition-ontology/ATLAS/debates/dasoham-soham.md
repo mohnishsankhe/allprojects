@@ -22,4 +22,4 @@ At the māheśvara stage the worshipper rejects total non-duality because Lord a
 **The traditions' own objections:** Basava-centred readers hold dāsōhaṃ to be a permanent ethic of humility and service, not a stage to be outgrown, and hear 'sōhaṃ' in the vacana as the voice of ego.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._

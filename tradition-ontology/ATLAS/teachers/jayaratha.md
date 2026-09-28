@@ -8,10 +8,11 @@
 **Historicity:** historical
 **Works:** 
   - [Tantrālokaviveka](../texts/tantraloka-viveka.md) — attribution: accepted
+  - [Vāmakeśvarīmatavivaraṇa](../texts/vamakesvarimata-vivarana.md) — attribution: accepted
 
 13th-century Kashmiri scholar, son of Śṛṅgāraratha, author of the Viveka commentary on the whole Tantrāloka - the main source for many lost tantras and for the Mata and Krama - as well as a commentary on the Vāmakeśvarīmata (Śrīvidyā) and a work on poetics.
 
 _Notes: Contribution from U08 (catalogue role); U19 owns his exegesis._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U08-agama-catalogue, skeleton:U23-sakta-srividya. Generated 2026-09-28 09:07 IST._

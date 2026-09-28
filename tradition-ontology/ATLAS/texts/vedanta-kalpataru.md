@@ -16,4 +16,4 @@ Amalānanda's sub-commentary on the Bhāmatī, defending and extending its posit
 **Commentaries on this text:** [Kalpataruparimala](kalpataru-parimala.md)
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

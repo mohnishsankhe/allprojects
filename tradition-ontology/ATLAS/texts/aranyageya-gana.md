@@ -1,6 +1,6 @@
 # Āraṇyageya-gāna (Araṇyegāna)
 
-`src:aranyageya-gana` · `skeleton` · confidence moderate
+`src:aranyageya-gana` · `sourced` · confidence moderate
 
 **Alternate titles:** Araṇyegeyagāna, Āraṇyakagāna
 **Original title:** आरण्यगेयगानम्
@@ -13,4 +13,8 @@
 The song-book of melodies 'to be sung in the forest', regarded as more powerful and secret, learned apart from the village; it includes the melodies of the Āraṇyaka section.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Samagana, https://www.wisdomlib.org/hinduism/book/panchavimsha-brahmana-english-translation/d/doc1473684.html, https://sanskritdocuments.org/doc_veda/aranyakaganam.pdf — Āraṇyageya (forest songs, 'for personal meditative use in the solitude of the forest') confirmed. The four song-books of the Kauthuma–Rāṇāyanīya tradition are listed together in the sources.
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

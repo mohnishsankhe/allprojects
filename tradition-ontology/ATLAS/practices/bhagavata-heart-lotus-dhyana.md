@@ -13,4 +13,4 @@ Seated evenly with gaze at the nose-tip, after breath purification with Oṃ, vi
   - [Uddhava Gītā](../texts/uddhava-gita.md) — ref: 11.14.32-46; rests_on: ["tea:uddhava-gita:11.14.32-46"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

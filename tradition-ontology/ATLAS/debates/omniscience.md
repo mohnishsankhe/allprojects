@@ -20,8 +20,8 @@ The Buddha is an authoritative person whose knowledge of what is to be abandoned
 - The Mīmāṃsaka's proofs of non-existence of an omniscient are inconclusive.
 **Texts:** 
   - `src:pramanavarttika` — ref: ch. Pramāṇasiddhi
-  - `src:tattvasangraha` — ref: ch. on the seer of supersensible things
-### `lin:jainism`
+  - [Tattvasaṅgraha of Śāntarakṣita](../texts/tattvasangraha.md) — ref: ch. on the seer of supersensible things
+### [Jainism (Jaina dharma)](../lineages/jainism.md)
 The Jina's pure knowledge (kevala-jñāna) directly knows all substances and modes; subtle, hidden and remote things are perceptible to someone (Samantabhadra); Akalaṅka and later Jain logicians answer Kumārila's arguments.
 - Knowledge is the soul's nature; with the destruction of the karmas obscuring it, it becomes complete.
 **Texts:** 
@@ -42,4 +42,4 @@ The Jina's pure knowledge (kevala-jñāna) directly knows all substances and mod
 _Notes: The ŚV codanā section names 'the Buddha and others' (v. 130); I found no verse there naming Mahāvīra, though Jain authors reply to Kumārila. Opposing sides summarized from general knowledge (moderate/low)._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

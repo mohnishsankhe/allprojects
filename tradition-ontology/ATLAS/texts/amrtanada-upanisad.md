@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), `lin:hatha-yoga`
+**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md)
 **Genre:** upaniṣad
 **Attribution:** tradition: Śruti: revealed, without human author (apauruṣeya); the Muktikā presents it as one of the 108 Upaniṣads that Rāma teaches Hanumān, each belonging to a Vedic śākhā; scholarly: anonymous; assigned to a Veda by the Muktikā list, not by any surviving śākhā transmission; confidence: moderate
 **Dates:** Tradition's account: Śruti: eternal and authorless; no human date; Scholarly account: Scholarly accounts differ by text. Several Yoga Upaniṣads (e.g. Amṛtabindu, Amṛtanāda, Kṣurikā, Tejobindu, Nādabindu, Dhyānabindu, Brahmavidyā, Yogatattva, Yogaśikhā, Haṃsa) survive in shorter northern versions that are older; the expanded southern recensions (as in this collection) borrow from medieval haṭha works and were probably compiled in South India, perhaps as late as the 18th c. (Bouy 1994).; (confidence low)
@@ -49,7 +49,7 @@ As impurities of ore are burnt by blowing, so faults born of the senses are burn
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: intermediate · types: practice, ethics_
 
-practices: [Purification of the channels (nāḍī-śodhana)](../practices/nadi-sodhana.md)
+practices: [Purification of the channels (nāḍī-śodhana, nāḍī-śuddhi)](../practices/nadi-sodhana.md)
 
 ### 15 <a id="tea-amrtanada-upanisad-15"></a>
 `skeleton` · confidence moderate
@@ -112,4 +112,4 @@ concepts: [Yogic departure at death](../concepts/yogic-exit-at-death.md)
 _Notes: Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-text used here; other editions (e.g. the Adyar series, Schrader's critical edition, northern recensions) number differently._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

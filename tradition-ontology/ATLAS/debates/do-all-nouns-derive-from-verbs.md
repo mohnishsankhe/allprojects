@@ -11,7 +11,7 @@ Yes (Śākaṭāyana and the convention of the etymologists): every noun is deri
 **Texts:** 
   - [Nirukta](../texts/nirukta.md) — ref: 1.12
   - [Nirukta](../texts/nirukta.md) — ref: 2.1
-### `lin:vyakarana`
+### [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md)
 Not all (Gārgya and some grammarians): only where accent and formation fit a root and the derivative is regular; words like 'cow', 'horse', 'man' are conventional, else anyone who moved would be called 'horse'.
 - over-application: every doer of the act would bear the name
 - irregular forms
@@ -26,4 +26,4 @@ Not all (Gārgya and some grammarians): only where accent and formation fit a ro
 **The traditions' own objections:** Gārgya's side denies that semantic derivations of conventional words are valid at all.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

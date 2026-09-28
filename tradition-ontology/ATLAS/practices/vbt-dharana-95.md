@@ -15,4 +15,4 @@ The kind of understanding that arises in one who is dispassionate through the in
 _Notes: Verses 121 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

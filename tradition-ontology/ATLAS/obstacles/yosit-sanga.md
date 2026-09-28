@@ -14,4 +14,4 @@ Texts addressed to male renunciants warn that attachment to women and to men att
   - [Avadhūta Gītā](../texts/avadhuta-gita.md) — ref: 8.10-26; rests_on: ["tea:avadhuta-gita:8.10-26"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

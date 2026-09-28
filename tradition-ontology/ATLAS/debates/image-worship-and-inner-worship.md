@@ -12,7 +12,7 @@ Yogins see Śiva in the Self, not in images; images are imagined for the ignoran
 **Texts:** 
   - [Darśana Upaniṣad](../texts/darsana-upanisad.md) — ref: 4.48-59
   - [Maitreya Upaniṣad](../texts/maitreya-upanisad.md) — ref: 2.26
-### `lin:ramanandi`
+### [Rāmānandī sampradāya](../lineages/ramanandi.md)
 Forms are given to the formless for the worshippers' sake; the deity is worshipped in yantra and mantra, and without the yantra is not pleased.
 - Rāmapūrvatāpanī 1.7; 4–5
 **Texts:** 
@@ -26,4 +26,4 @@ An adhikāra reading already present in both sides' own words.
 **The traditions' own objections:** Devotional traditions that hold the consecrated image to be a real descent of the Lord (the arcā of Pāñcarātra and Śrīvaiṣṇava teaching) reject calling image-worship a concession to the ignorant.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

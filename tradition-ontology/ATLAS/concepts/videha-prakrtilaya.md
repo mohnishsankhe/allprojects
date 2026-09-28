@@ -14,4 +14,4 @@
 - contrasts-with → [Isolation (kaivalya)](kaivalya.md) — rests on [1.19](../texts/yoga-bhasya.md#tea-yoga-bhasya-1-19)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 09:07 IST._

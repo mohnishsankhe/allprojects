@@ -1,6 +1,6 @@
 # Kapiṣṭhala-Kaṭha śākhā (Black Yajurveda)
 
-`lin:sakha-kapisthala-katha` · `skeleton` · confidence moderate
+`lin:sakha-kapisthala-katha` · `sourced` · confidence moderate
 
 **Family:** vedic
 **Alternate names:** Kapiṣṭhala
@@ -30,4 +30,8 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:eBharati:kapiShThalakaThasaMhitA — Confirmed as a branch known from a fragmentary Saṃhitā (digitized locally).
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

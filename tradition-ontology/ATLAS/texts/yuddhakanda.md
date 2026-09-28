@@ -1,6 +1,6 @@
 # Yuddhakāṇḍa
 
-`src:yuddhakanda` · `skeleton` · confidence high
+`src:yuddhakanda` · `sourced` · confidence high
 
 **Original title:** युद्धकाण्ड
 **Language:** Sanskrit
@@ -20,4 +20,8 @@ The book of the war: Vibhīṣaṇa's surrender and Rāma's vow to protect whoev
   - kind: original; name: DharmicData JSON of the Vālmīki Rāmāyaṇa (southern vulgate numbering); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:GRETIL-dev:valmiki_ramayana_6, local:sources_raw/DharmicData/ValmikiRamayana (southern vulgate) book 6 — Book 6 of the Vālmīki Rāmāyaṇa, digitized in several local editions.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

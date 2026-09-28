@@ -3,8 +3,8 @@
 `prc:neti-neti` · `skeleton` · confidence high
 
 **Category:** inquiry
-**Convergence:** 4 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md), `lin:ramanandi`, [Sāṃkhya](../lineages/samkhya.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
-**Taught in:** [Advaita Vedānta](../lineages/advaita-vedanta.md), `lin:ramanandi`, [Sāṃkhya](../lineages/samkhya.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
+**Convergence:** 4 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md), [Rāmānandī sampradāya](../lineages/ramanandi.md), [Sāṃkhya](../lineages/samkhya.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
+**Taught in:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Rāmānandī sampradāya](../lineages/ramanandi.md), [Sāṃkhya](../lineages/samkhya.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 
 In the Rāma Gītā: negating the whole world by 'not this', tasting the consciousness in the heart and setting the world aside like the rind of a fruit whose juice is drunk.
 **Stage:** advanced
@@ -20,4 +20,4 @@ In the Rāma Gītā: negating the whole world by 'not this', tasting the conscio
 _Notes: U06 contribution to a shared practice id (principal source: Bṛhadāraṇyaka Upaniṣad)._
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U09-samkhya. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._

@@ -1,6 +1,6 @@
 # Were the hymns 'seen' by the seers or 'fashioned' by poets?
 
-`dsp:seen-or-made-hymns` · `skeleton` · confidence moderate
+`dsp:seen-or-made-hymns` · `sourced` · confidence moderate
 
 
 ## Sides (recorded before any reconciliation)
@@ -26,4 +26,8 @@ Fashioned: the poets say they 'fashioned' (takṣ) their praise 'as a skilled cr
 _Notes: Related to the registry dispute dsp:status-of-veda (owned by U50)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (Sarup ed., GRETIL), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/1_rv/rgveda_mandala_10.md (GRETIL, Van Nooten–Holland/Aufrecht), text:sources_raw/raw_etexts/mixed/gre — All loci located, including Mīmāṃsā Sūtra/Śabara 1.1.27–32 (the authorlessness adhikaraṇa, DCS).
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

@@ -13,4 +13,4 @@
 The Śrauta manual of the Ṛgvedic hotṛ priest (Śākala/Āśvalāyana school), 12 adhyāyas, setting out the recitations for the new- and full-moon, seasonal and Soma rites.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

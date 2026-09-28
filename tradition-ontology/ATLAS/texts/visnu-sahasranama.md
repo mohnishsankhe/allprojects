@@ -1,6 +1,6 @@
 # Viṣṇu Sahasranāma
 
-`src:visnu-sahasranama` · `skeleton` · confidence high
+`src:visnu-sahasranama` · `sourced` · confidence high
 
 **Alternate titles:** Viṣṇusahasranāmastotra
 **Original title:** विष्णुसहस्रनाम
@@ -24,10 +24,10 @@ The thousand names of Viṣṇu, taught by Bhīṣma to Yudhiṣṭhira in answe
   - kind: original; name: sanskrit/raw_etexts (vaiShNavam/mahAbhAratam/viShNu-sahasranAma-stotram); licence: open (repository terms); url: https://github.com/sanskrit/raw_etexts
 **Commentaries on this text:** [Bhagavadguṇadarpaṇa of Parāśara Bhaṭṭar](bhagavadgunadarpana.md), [Viṣṇusahasranāmabhāṣya (attributed to Śaṅkara)](visnu-sahasranama-bhasya-sankara.md)
 
-## Teachings (2: skeleton 2)
+## Teachings (2: sourced 2)
 
 ### 13.135 <a id="tea-visnu-sahasranama-13-135"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Asked by Yudhiṣṭhira which is the one deity, the highest refuge, and by what recitation a person is freed from the bondage of saṃsāra, Bhīṣma teaches the thousand names of Viṣṇu, whose recitation removes fear and sin.
 
@@ -36,7 +36,7 @@ _level: bridging · standpoint: devotional · path: sound, devotion · stage: al
 practices: [Recitation of the thousand names of Viṣṇu](../practices/visnu-sahasranama-recitation.md), [Recitation (japa)](../practices/japa.md) · teachers: [Bhīṣma (Devavrata, Gāṅgeya)](../teachers/bhisma.md), [Yudhiṣṭhira (Dharmarāja)](../teachers/yudhisthira.md)
 
 ### 13.135.14 <a id="tea-visnu-sahasranama-13-135-14"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The names begin: Viṣva (the All), Viṣṇu (the Pervader), Vaṣaṭkāra (the sacrificial call), Lord of past, future and present, maker and sustainer of beings, Being, the self of beings, the one who makes beings flourish.
 
@@ -50,4 +50,8 @@ practices: [Recitation of the thousand names of Viṣṇu](../practices/visnu-sa
 _Notes: Commentaries attributed to Śaṅkara (src:visnu-sahasranama-bhasya-sankara) and by Parāśara Bhaṭṭar (src:bhagavadgunadarpana)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_13.json (BORI Critical Edition text) 13.135.14 viśvaṃ viṣṇur vaṣaṭkāro; 142 verses, catalog:raw_etexts:vishnu_sahasranama — Section located at CE 13.135 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

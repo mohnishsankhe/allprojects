@@ -28,4 +28,4 @@ Sannyāsa 2.79–85 names gathering disciples for service, gain, worship or fame
 _Notes: Compare the Bhagavad Gītā's teaching on acting for the world's welfare (src:bhagavad-gita 3.20–25)._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

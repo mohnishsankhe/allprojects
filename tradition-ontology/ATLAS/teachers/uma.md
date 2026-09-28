@@ -1,6 +1,6 @@
 # Umā (Pārvatī)
 
-`tch:uma` · `skeleton` · confidence moderate
+`tch:uma` · `sourced` · confidence moderate
 
 **Lineages:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
 **Historicity:** mythic
@@ -9,4 +9,8 @@
 Śiva's consort, who questions him on dharma and herself expounds the dharma of women in the Anuśāsana (13.126–134).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 13.129.1 [umā], 13.134.6-49 (strīdharma) — Located as described.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

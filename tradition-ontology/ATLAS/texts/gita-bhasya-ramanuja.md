@@ -1,6 +1,6 @@
 # Gītābhāṣya of Rāmānuja
 
-`src:gita-bhasya-ramanuja` · `skeleton` · confidence high
+`src:gita-bhasya-ramanuja` · `sourced` · confidence high
 
 **Original title:** गीताभाष्य
 **Language:** Sanskrit
@@ -37,7 +37,7 @@ Karma-yoga, which includes knowledge of the self and is free of the risk of laps
 
 _level: conventional · standpoint: seeker · path: action · stage: beginner · types: practice_
 
-terms: [karma-yoga](../terms/karma-yoga.md), [ātmāvalokana](../terms/atmavalokana.md) · concepts: [Karma-yoga, jñāna-yoga and bhakti-yoga in sequence](../concepts/yoga-sequence-gita.md) · teachers: [Rāmānuja](../teachers/ramanuja.md)
+terms: [karmayoga](../terms/karma-yoga.md), [ātmāvalokana](../terms/atmavalokana.md) · concepts: [Karma-yoga, jñāna-yoga and bhakti-yoga in sequence](../concepts/yoga-sequence-gita.md) · teachers: [Rāmānuja](../teachers/ramanuja.md)
 
 ### 4.9 <a id="tea-gita-bhasya-ramanuja-4-9"></a>
 `skeleton` · confidence moderate
@@ -113,4 +113,8 @@ terms: [Śriyaḥpati / Śrīman Nārāyaṇa](../terms/sriyahpati.md), [saulabh
 
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U14-visistadvaita. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:GRETIL:rAmAnuja-bhagavadgItAbhASya, local:sources_raw/gita/data/commentary.json (Sri Ramanujacharya) — Extant and digitized; attribution accepted. Traditional 1017–1137 and scholarly 11th–12th c. ranges are the usual ones.
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._

@@ -16,15 +16,20 @@
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): The perfected one does not notice the body, which lives on while its karma lasts; though in the body he is not in it.
 - [Śākta traditions](../lineages/sakta.md): The destruction of ignorance, completion of human aims, is the state of liberation while living.
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): On knowledge, past karma is destroyed and future karma does not cling, but the body continues till prārabdha is exhausted; the knower is free while living.
+- [Śrīvidyā](../lineages/srividya.md): Promised by knowledge of the cakra-code (YH 1.86) and of the worship-code (YH 3.1), by three muhūrtas of the Bhāvanā contemplation, and to the steadfast practitioner wherever he dies (PKS 10.82); it is release from the eight bonds (Dīpikā); the Rudrayāmala places it at the end of the ladder of births (Bhāskararāya).
+- [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md): In the haṭha texts a synonym of samādhi (HYP 4.4): the yogin in samādhi, not devoured by time nor bound by karma, knowing neither heat nor cold, 'remaining in waking as if asleep, without breath', is liberated (4.106–112); nirguṇa meditation and samādhi make one jīvanmukta, who may leave the body at will or roam with powers (DYŚ 111–118); SS 3.67 speaks of the calm jīvanmukta at niṣpatti.
 - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): Rejected: while the body remains, karma remains; the knower or surrendered is assured of release but released only at death.
 - [Bhedābheda Vedānta (Bhāskara's school and the early difference-and-non-difference Vedāntins)](../lineages/bhedabheda.md): Denied by Bhāskara.
 - [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md): Redefined as the state of one who serves Hari in all conditions.
+- [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md): In living liberation the mind is the seed and the spotless; the yogī standing on the path of death should know this and practise; by this path comes steadiness (AmŚ 55–59); jīvanmukti is a synonym of samādhi (HYP 4.4); 'die the death Gorakh died' (Gorakh Bānī).
+- [Yoginī Kaula (Yoginīkaula) of Matsyendra](../lineages/yogini-kaula.md): Śiva in a human body plays on earth; his touch liberates (KJN 17.37–41).
 - [Tamil Śaiva Siddhānta (the Meykaṇṭa school)](../lineages/tamil-saiva-siddhanta.md): After grace and knowledge the body continues by prārabdha; the jīvanmukta acts as Śiva's servant among devotees, untouched by deeds.
 - [Śaiva Siddhānta](../lineages/saiva-siddhanta.md): The initiate liberated by nirvāṇa-dīkṣā is released at death; the body continues until prārabdha is exhausted.
+- [Rāmdāsī sampradāya (Samartha sampradāya)](../lineages/ramdasi.md): The accomplished (siddha) abides in the Self, free of doubt, while acting rightly in the world.
 
 ## Relations (interpretation layer)
 - leads-to → [Bodiless liberation (videhamukti)](videhamukti.md) — rests on [67](../texts/samkhya-karika.md#tea-samkhya-karika-67), [68](../texts/samkhya-karika.md#tea-samkhya-karika-68), [4.1.19](../texts/brahma-sutra.md#tea-brahma-sutra-4-1-19)
 - leads-to → [Isolation (kaivalya)](kaivalya.md) — rests on [4.34](../texts/yoga-sutra.md#tea-yoga-sutra-4-34)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U14-visistadvaita, skeleton:U16-bhedabheda, skeleton:U18-saiva-siddhanta. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U23-sakta-srividya, skeleton:U28-hatha-texts, skeleton:U14-visistadvaita, skeleton:U16-bhedabheda, skeleton:U21-natha-aghora, skeleton:U18-saiva-siddhanta, skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._

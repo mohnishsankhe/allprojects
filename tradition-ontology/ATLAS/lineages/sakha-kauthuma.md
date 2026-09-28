@@ -1,6 +1,6 @@
 # Kauthuma śākhā (Sāmaveda)
 
-`lin:sakha-kauthuma` · `skeleton` · confidence moderate
+`lin:sakha-kauthuma` · `sourced` · confidence moderate
 
 **Family:** vedic
 **Alternate names:** Kauthumīya
@@ -32,4 +32,8 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Kauthuma_Samhita, https://en.wikipedia.org/wiki/Samagana — Confirmed: principal living Sāmaveda recension with the gāna books.
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

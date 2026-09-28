@@ -1,6 +1,6 @@
 # Ānandagiri's gloss on Śaṅkara's Gītābhāṣya
 
-`src:anandagiri-gita-tika` · `skeleton` · confidence moderate
+`src:anandagiri-gita-tika` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -19,4 +19,8 @@
 _Notes: Descriptive title (the work is sometimes called Gītābhāṣyavivecana; not confirmed). The hexad framing is seen in its gloss at 13.1 in the local corpus._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — local:sources_raw/gita/data/commentary.json (Sri Anandgiri), https://www.wisdomlib.org/hinduism/essay/tarkasangraha-by-anandagiri-critical-study/d/doc1598893.html — Extant and digitized; Ānandagiri (= Ānandajñāna) flourished in the 13th c. The descriptive title remains unconfirmed, as the entry notes.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

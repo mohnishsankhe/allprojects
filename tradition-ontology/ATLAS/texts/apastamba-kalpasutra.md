@@ -16,4 +16,4 @@ The complete ritual corpus of the Āpastamba branch of the Taittirīya Black Yaj
 _Notes: Praśna division from memory; the grouping into four sūtras is certain._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

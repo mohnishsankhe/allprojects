@@ -18,7 +18,7 @@ Yāska's explanation of the Nighaṇṭu and of Vedic words. Book 1 sets out the
   - kind: original; name: GRETIL e-text (local Devanāgarī mirror)
 **Commentaries on this text:** [Nirukta-bhāṣya-ṭīkā of Skandasvāmin and Maheśvara](nirukta-bhasya-skandasvamin.md), [Durgavṛtti on the Nirukta](nirukta-durgavrtti.md)
 
-## Teachings (19: skeleton 19)
+## Teachings (20: skeleton 10, sourced 10)
 
 ### 1.1 <a id="tea-nirukta-1-1"></a>
 `skeleton` · confidence high
@@ -28,6 +28,15 @@ There are four classes of words: nouns, verbs, preverbs and particles. The verb 
 _level: conventional · standpoint: analytic · path: sound · stage: all · types: sound-language_
 
 terms: [ākhyāta](../terms/akhyata.md), [nāma](../terms/nama.md) · concepts: [The four classes of words](../concepts/four-classes-of-words.md)
+
+### 1.1 <a id="tea-nirukta-1-1-2"></a>
+`skeleton` · confidence low
+
+Yāska reports Audumbarāyaṇa's view that speech is 'permanent only in the sense-organ' (indriya-nitya), so that the fourfold division of words would not hold, since the sounds do not co-exist.
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: all · types: sound-language_
+
+teachers: [Audumbarāyaṇa](../teachers/audumbarayana.md)
 
 ### 1.2 <a id="tea-nirukta-1-2"></a>
 `skeleton` · confidence high
@@ -48,7 +57,7 @@ _level: conventional · standpoint: polemical · path: sound, knowledge · stage
 concepts: [All nouns from verbal roots](../concepts/nouns-from-verbs.md) · teachers: [Śākaṭāyana (the ancient grammarian)](../teachers/sakatayana.md), [Gārgya](../teachers/gargya.md), [Yāska](../teachers/yaska.md) · disputes: [Are all nouns derived from verbal roots?](../debates/do-all-nouns-derive-from-verbs.md)
 
 ### 1.15 <a id="tea-nirukta-1-15"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Kautsa's objection: if mantras serve to convey meaning, (study of the science of meaning) is needed — but 'the mantras are meaningless' (anarthakā hi mantrāḥ): their words and order are fixed; their form is already prescribed by the Brāhmaṇa; their meaning is impossible ('O plant, protect him'; 'O axe, do not hurt him', said while striking); they state opposed things (vipratiṣiddha) ('Rudra stood alone, there was no second' against 'countless thousands of Rudras'); they address one who already knows; they say 'Aditi is all'.
 
@@ -59,7 +68,7 @@ _level: conventional · standpoint: polemical · path: knowledge, sound · stage
 terms: [mantra](../terms/mantra.md) · concepts: [The meaningfulness of the mantras](../concepts/meaningfulness-of-mantras.md) · teachers: [Kautsa](../teachers/kautsa.md), [Yāska](../teachers/yaska.md) · disputes: [Do the Vedic mantras have meaning, or are they effective sound only?](../debates/are-mantras-meaningful.md)
 
 ### 1.16 <a id="tea-nirukta-1-16"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Yāska's reply: the mantras are meaningful because their words are the same as in ordinary speech; the Brāhmaṇa itself says a rite is perfect when the verse or formula describes the act being done; fixed word-order and apparently opposed statements occur in ordinary speech too; non-injury is understood from the scriptural statement; obscurity is not the post's fault if the blind man does not see it — it is the person's fault.
 
@@ -70,7 +79,7 @@ _level: conventional · standpoint: polemical · path: knowledge, sound · stage
 terms: [mantra](../terms/mantra.md) · concepts: [The meaningfulness of the mantras](../concepts/meaningfulness-of-mantras.md) · teachers: [Yāska](../teachers/yaska.md) · disputes: [Do the Vedic mantras have meaning, or are they effective sound only?](../debates/are-mantras-meaningful.md)
 
 ### 1.18 <a id="tea-nirukta-1-18"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 A mere post, a bearer of burdens, is he who has studied the Veda but does not understand its meaning; one who knows the meaning attains all good and, his sins shaken off by knowledge, goes to heaven; what is learned without understanding and merely repeated never blazes, like dry fuel without fire.
 
@@ -81,7 +90,7 @@ _level: conventional · standpoint: seeker · path: knowledge, sound · stage: a
 concepts: [The recitation modes that guard the text](../concepts/vedic-recitation-modes.md), [The meaningfulness of the mantras](../concepts/meaningfulness-of-mantras.md), [Oral preservation of the Veda](../concepts/vedic-recitation-and-preservation.md) · practices: [Vedic recitation (vedapāṭha, svādhyāya of the Saṃhitā)](../practices/vedapatha.md) · teachers: [Yāska](../teachers/yaska.md)
 
 ### 1.20 <a id="tea-nirukta-1-20"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The seers had direct perception of dharma (sākṣātkṛtadharmāṇaḥ); they handed on the mantras by instruction to later ones who lacked it; those later ones, weary of instruction, compiled this text — the Veda and the Vedāṅgas — for ease of grasping; the meaning is the flower and fruit of speech.
 
@@ -119,7 +128,7 @@ _level: conventional · standpoint: seeker · path: knowledge · stage: all · t
 concepts: [Fitness of the student and the secrecy of knowledge](../concepts/fitness-of-the-student.md)
 
 ### 2.8 <a id="tea-nirukta-2-8"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 On RV 1.164.32 ('having many offspring he has entered Nirṛti'): the wandering ascetics (parivrājakāḥ) say 'one with many births comes to misery'; the etymologists (nairuktāḥ) say it refers to the action of rain — the cloud, with many offspring, reaches the earth.
 
@@ -130,7 +139,7 @@ _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked 
 teachers: [Yāska](../teachers/yaska.md) · disputes: [Does RV 1.164.32 ('having many offspring he has entered Nirṛti') speak of repeated births?](../debates/rv-1-164-32-rebirth-reading.md)
 
 ### 2.11 <a id="tea-nirukta-2-11"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 A seer (ṛṣi) is so called from seeing (darśana): 'he saw the hymns', says Aupamanyava. It is known that because Brahman, the self-existent, came upon them while they practised austerity, they became seers; that is the seer-hood of seers.
 
@@ -157,7 +166,7 @@ _level: conventional · standpoint: analytic · path: sound · stage: all · typ
 concepts: [Three kinds of mantras](../concepts/three-kinds-of-mantras.md)
 
 ### 7.4 <a id="tea-nirukta-7-4"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Because of the deity's great majesty, the one self is praised in many ways; the other gods are the limbs of the one self. The seers praise the deities by the manifoldness of their natures; the chariot, the horse, the weapon, the arrow are the self of the god — the self is the whole of the god.
 
@@ -166,7 +175,7 @@ _level: ultimate · standpoint: analytic · path: knowledge, devotion · stage: 
 terms: [ātman](../terms/atman.md), [devatā](../terms/devata.md) · concepts: [Three deities, one self](../concepts/three-deities-one-self.md), [The gods as names of the One](../concepts/gods-as-names-of-the-one.md) · teachers: [Yāska](../teachers/yaska.md) · disputes: [How many gods are there — 3,339, thirty-three, three, or one?](../debates/how-many-gods.md)
 
 ### 7.5 <a id="tea-nirukta-7-5"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 There are only three deities, say the etymologists: Agni, whose place is the earth; Vāyu or Indra, whose place is the atmosphere; Sūrya, whose place is the sky. Because of their majesty each has many names, or the names differ with their functions.
 
@@ -175,7 +184,7 @@ _level: conventional · standpoint: analytic · path: knowledge · stage: all ·
 terms: [agni](../terms/agni.md), [indra](../terms/indra.md), [Vāyu](../terms/vayu.md), [sūrya](../terms/surya.md) · concepts: [Three deities, one self](../concepts/three-deities-one-self.md), [The three worlds](../concepts/three-worlds.md), [The gods as names of the One](../concepts/gods-as-names-of-the-one.md) · teachers: [Yāska](../teachers/yaska.md) · disputes: [How many gods are there — 3,339, thirty-three, three, or one?](../debates/how-many-gods.md)
 
 ### 7.6-7 <a id="tea-nirukta-7-6-7"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Now the consideration of the gods' form. One view: they are like persons, for the hymns address them as conscious beings, name them, praise their person-like limbs and possessions and actions. Another: they are not like persons, for what is seen of them — fire, wind, sun, earth, moon — is not person-like. Or they may be of both kinds; or, being not person-like, their actions are their selves, as the sacrifice is the sacrificer's.
 
@@ -193,7 +202,7 @@ _level: conventional · standpoint: polemical · path: knowledge · stage: all �
 concepts: [Schools of Vedic interpretation in the Nirukta](../concepts/schools-of-vedic-interpretation.md) · disputes: [How are the Vedic deities and stories to be interpreted — as natural powers, as persons of old narratives, or through the rite?](../debates/nirukta-schools-of-interpretation.md)
 
 ### 13.9 <a id="tea-nirukta-13-9"></a>
-`skeleton` · confidence low
+`sourced` · confidence low
 
 Which are the four quarters of speech (RV 1.164.45)? Oṃ and the three great utterances, say the seers' school; noun, verb, preposition and particle, say the grammarians; mantra, ritual text, brāhmaṇa and ordinary speech as fourth, say the ritualists; ṛc, yajus, sāman and ordinary speech, say the etymologists; others name the speech of serpents, of birds, of small creeping things and ordinary speech; the teachers of the self name speech in animals, in instruments, in wild beasts and in the self.
 
@@ -203,4 +212,4 @@ terms: [vāc](../terms/vac.md), [Turīya](../terms/turiya.md), [oṃ](../terms/o
 
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

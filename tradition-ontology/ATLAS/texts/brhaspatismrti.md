@@ -14,4 +14,4 @@
 A lost legal smṛti, reconstructed from quotations in the digests; its treatment of legal procedure and the titles of law was highly regarded.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

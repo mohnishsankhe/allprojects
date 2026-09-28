@@ -13,4 +13,4 @@
 Ṛgvedic sūtrakāra, pupil of Śaunaka by tradition, author of the Āśvalāyana Śrauta- and Gṛhyasūtras (he has no surviving Dharma- or Śulbasūtra).
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

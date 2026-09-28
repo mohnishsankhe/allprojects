@@ -33,4 +33,4 @@ Nāradaparivrājaka 5 and the Bhikṣuka let kuṭīcaka and bahūdaka keep mark
 **The traditions' own objections:** The Śāṭyāyanīya calls abandoning the marks a fall; the Paramahaṃsa calls the wooden staff without knowledge the way to hell.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

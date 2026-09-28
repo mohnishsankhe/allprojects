@@ -11,4 +11,4 @@ The rite by which a householder sets up his three Śrauta fires; the Brāhmaṇa
   - [Śatapatha Brāhmaṇa (Mādhyandina)](../texts/satapatha-brahmana.md) — ref: 2.1.2.3; rests_on: ["tea:satapatha-brahmana:2.1.2.3"]
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

@@ -10,4 +10,4 @@ Ancestor-king of the Yādavas who questions a carefree young avadhūta brāhma�
 **Realization — the tradition's account:** Hearing the avadhūta, Yadu became free of all attachment and even-minded (Bhāgavata 11.9.33).
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

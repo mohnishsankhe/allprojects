@@ -5,7 +5,7 @@
 **Original title:** अध्यात्मरामायणम्
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), `lin:ramanandi`, [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Rāmānandī sampradāya](../lineages/ramanandi.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
 **Genre:** rāmāyaṇa
 **Part of:** [Brahmāṇḍa Purāṇa](brahmanda-purana.md)
 **Location in parent:** traditionally the Uttarakhaṇḍa of the Brahmāṇḍa Purāṇa (per the Māhātmya's colophon); not found in the printed Brahmāṇḍa Purāṇa
@@ -116,4 +116,4 @@ teachers: [Śabarī](../teachers/sabari.md) · disputes: `dsp:women-caste-libera
 
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

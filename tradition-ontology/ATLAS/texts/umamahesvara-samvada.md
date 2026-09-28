@@ -1,6 +1,6 @@
 # Umāmaheśvarasaṃvāda (dialogue of Umā and Maheśvara)
 
-`src:umamahesvara-samvada` · `skeleton` · confidence moderate
+`src:umamahesvara-samvada` · `sourced` · confidence moderate
 
 **Original title:** उमामहेश्वरसंवाद
 **Language:** Sanskrit
@@ -19,10 +19,10 @@
   - kind: original; name: The Mahābhārata, Critical Edition, ed. V. S. Sukthankar et al., Bhandarkar Oriental Research Institute, Pune (1933–1966); licence: print edition (text public domain; apparatus under BORI copyright)
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
-## Teachings (1: skeleton 1)
+## Teachings (1: sourced 1)
 
 ### 13.126-134 <a id="tea-umamahesvara-samvada-13-126-134"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 Śiva answers Umā on dharma — the conduct of the varṇas and āśramas, the deeds that lead to heaven or hell, rebirth and long or short life — and Umā herself, questioned by Śiva, expounds the dharma of women.
 
@@ -34,4 +34,8 @@ concepts: [The dharma of the devoted wife (pativratā)](../concepts/pativrata-dh
 _Notes: Chapter range reconstructed from name occurrences in the local critical text (moderate)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_13.json (BORI Critical Edition text) 13.127.1 Nārada relates Śaṃkara–Umā saṃvāda; 13.128.1 speaker Maheśvara; 13.129.1 Umā; 13.134 strīdharma — Section located at CE 13.126-134 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

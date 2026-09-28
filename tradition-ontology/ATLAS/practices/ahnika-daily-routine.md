@@ -11,4 +11,4 @@ Waking at the hour of Brahmā to reflect on dharma, artha, bodily strain and the
   - [Manusmṛti (Mānava Dharmaśāstra)](../texts/manusmrti.md) — ref: 4.92-94; rests_on: ["tea:manusmrti:4.92"]
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

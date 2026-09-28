@@ -14,4 +14,4 @@
 The collection of Piḷḷai Lokācārya's eighteen short Maṇipravāḷa works on the secret doctrine, including the Mumukṣuppaṭi, Tattvatrayam, Śrīvacanabhūṣaṇam, Arthapañcakam and Arcirādi.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._

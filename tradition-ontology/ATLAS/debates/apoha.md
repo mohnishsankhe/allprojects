@@ -21,4 +21,4 @@ Words signify by excluding what is other (anyāpoha); there are no real universa
 **Candidate readings:** P2-standpoint: a positive class-meaning and an exclusion-meaning may be two descriptions of how words delimit; both sides deny it.
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

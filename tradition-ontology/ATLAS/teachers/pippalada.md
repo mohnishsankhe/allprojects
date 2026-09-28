@@ -1,6 +1,6 @@
 # Pippalāda
 
-`tch:pippalada` · `skeleton` · confidence high
+`tch:pippalada` · `sourced` · confidence high
 
 **Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Paippalāda śākhā (Atharvaveda)](../lineages/sakha-paippalada.md)
 **Historicity:** legendary
@@ -13,4 +13,8 @@ Sage of the Praśna Upaniṣad who answers the six questions of six seekers afte
 _Notes: Tradition connects him with the Paippalāda śākhā of the Atharvaveda (moderate)._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Pippalada, https://en.wikipedia.org/wiki/Prashna_Upanishad, https://www.atharvavedapaippalada.uzh.ch/en/stateOfArt.html — Confirmed: eponym of the Paippalāda school of the Atharvaveda and the teacher answering the six questions of the Praśna Upaniṣad (the latter owned by U03).
+
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

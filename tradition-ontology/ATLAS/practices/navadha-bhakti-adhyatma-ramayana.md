@@ -3,8 +3,8 @@
 `prc:navadha-bhakti-adhyatma-ramayana` · `skeleton` · confidence high
 
 **Category:** devotion-service
-**Convergence:** 1 independent lineage(s): `lin:ramanandi`
-**Taught in:** `lin:ramanandi`
+**Convergence:** 1 independent lineage(s): [Rāmānandī sampradāya](../lineages/ramanandi.md)
+**Taught in:** [Rāmānandī sampradāya](../lineages/ramanandi.md)
 
 Practising the nine means taught to Śabarī, beginning with holy company and ending with inquiry into the Lord's nature.
 **Stage:** all
@@ -12,4 +12,4 @@ Practising the nine means taught to Śabarī, beginning with holy company and en
   - [Adhyātma Rāmāyaṇa](../texts/adhyatma-ramayana.md) — ref: 3.10.22-31; rests_on: ["tea:adhyatma-ramayana:3.10.22-27"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

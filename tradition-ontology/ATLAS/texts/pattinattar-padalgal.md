@@ -17,7 +17,37 @@ The songs ascribed to the renouncer Paṭṭiṉattār (Tiruveṇkāṭar): the 
 **Editions / translations:** 
   - kind: original; name: Cittar pāṭalkaḷ tokuppu II: Paṭṭiṉattār pāṭalkaḷ (Project Madurai 1998–2000; GRETIL Devanāgarī transliteration)
 
+## Teachings (3: skeleton 3)
+
+### kātaṟṟa ūci <a id="tea-pattinattar-padalgal-katarra-uci"></a>
+`skeleton` · confidence moderate
+
+'Even an eyeless needle will not come with you on the final road' — the words left for Tiruveṇkāṭar with a broken needle, which moved him to renounce everything.
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: all · types: death-dying, ethics, narrative_
+
+concepts: [Death and impermanence in the Siddhar songs](../concepts/siddhar-death-impermanence.md) · practices: [Renunciation of everything (sarva-tyāga)](../practices/sarva-tyaga.md) · teachers: [Paṭṭiṉattār (Tiruveṇkāṭar)](../teachers/pattinattar.md)
+
+### tāyār cītakkavi (songs at the mother's cremation) <a id="tea-pattinattar-padalgal-mother-cremation"></a>
+`skeleton` · confidence moderate
+
+At his mother's pyre the renouncer laments: she who bore him ten months with every limb in pain, who fed him — how can he put fire to her? He lights the pyre with green plantain stalks and sings ten verses of grief.
+
+_level: conventional · standpoint: devotional · path: devotion · stage: all · types: death-dying, narrative_
+
+concepts: [Death and impermanence in the Siddhar songs](../concepts/siddhar-death-impermanence.md) · teachers: [Paṭṭiṉattār (Tiruveṇkāṭar)](../teachers/pattinattar.md)
+
+### ōṭṭappam <a id="tea-pattinattar-padalgal-ottappam"></a>
+`skeleton` · confidence moderate
+
+Given a poisoned cake by his sister, the renouncer threw it on her roof, saying: 'one's own deed burns oneself; the baked cake burns the house' — and the house caught fire.
+
+_level: conventional · standpoint: causal · path: general · stage: all · types: karma-liberation, narrative_
+
+concepts: [Karma and rebirth in the Siddhar songs](../concepts/siddhar-karma-rebirth.md) · obstacles: [The two deeds (iruviṉai)](../obstacles/iruvinai.md) · teachers: [Paṭṭiṉattār (Tiruveṇkāṭar)](../teachers/pattinattar.md)
+
+
 _Notes: Section list checked in the local e-text. The mother's-cremation songs and the 'eyeless needle' verse are recalled from other editions (not in the local file)._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._

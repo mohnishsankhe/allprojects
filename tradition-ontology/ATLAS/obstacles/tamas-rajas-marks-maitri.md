@@ -14,4 +14,4 @@ MaiU 3.5 lists the marks of tamas (delusion, fear, despondency, sleep, sloth, he
 _Notes: List reconstructed from memory (low)._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

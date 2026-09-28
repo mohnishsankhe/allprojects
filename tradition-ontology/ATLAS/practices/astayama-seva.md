@@ -3,11 +3,11 @@
 `prc:astayama-seva` · `skeleton` · confidence moderate
 
 **Category:** ritual
-**Convergence:** 1 independent lineage(s): [Puṣṭimārga (Vallabha Sampradāya; Śuddhādvaita Brahmavāda)](../lineages/pustimarga.md)
-**Taught in:** [Puṣṭimārga (Vallabha Sampradāya; Śuddhādvaita Brahmavāda)](../lineages/pustimarga.md)
+**Convergence:** 2 independent lineage(s): [Puṣṭimārga (Vallabha Sampradāya; Śuddhādvaita Brahmavāda)](../lineages/pustimarga.md), [Rādhāvallabha sampradāya](../lineages/radhavallabha.md)
+**Taught in:** [Puṣṭimārga (Vallabha Sampradāya; Śuddhādvaita Brahmavāda)](../lineages/pustimarga.md), [Rādhāvallabha sampradāya](../lineages/radhavallabha.md)
 
 Viṭṭhalanātha's ordering of the day into eight darśanas: maṅgalā, śṛṅgāra, gvāla, rājabhoga, utthāpana, bhoga, sandhyā-ārtī, śayana, each with its offerings, dress and songs of the aṣṭachāp.
 **Stage:** all
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._

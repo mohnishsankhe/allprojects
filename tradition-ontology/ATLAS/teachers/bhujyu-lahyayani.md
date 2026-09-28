@@ -8,4 +8,4 @@
 Asks Yājñavalkya where the descendants of Parikṣit went (BAU 3.3); he had heard of it in Madra from a gandharva.
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

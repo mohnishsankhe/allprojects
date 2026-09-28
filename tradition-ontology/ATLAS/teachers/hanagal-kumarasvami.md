@@ -9,4 +9,4 @@
 Vīraśaiva renunciant who founded the Śivayōga Mandira near Bādāmi (1909) to train virakta ascetics in iṣṭaliṅga yoga, and worked for the community's unity and education.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._

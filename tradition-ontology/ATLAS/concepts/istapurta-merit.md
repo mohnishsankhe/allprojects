@@ -13,4 +13,4 @@
 - leads-to → [The Vedic afterlife: Yama and the fathers](vedic-afterlife.md): Merit rejoins the dead in Yama's heaven. — rests on [10.14.8](../texts/rgveda.md#tea-rgveda-10-14-8)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

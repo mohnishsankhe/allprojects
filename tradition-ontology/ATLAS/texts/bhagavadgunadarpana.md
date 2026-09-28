@@ -1,6 +1,6 @@
 # Bhagavadguṇadarpaṇa of Parāśara Bhaṭṭar
 
-`src:bhagavadgunadarpana` · `skeleton` · confidence moderate
+`src:bhagavadgunadarpana` · `sourced` · confidence moderate
 
 **Original title:** भगवद्गुणदर्पण
 **Language:** Sanskrit
@@ -16,4 +16,8 @@
 Parāśara Bhaṭṭar's Śrīvaiṣṇava commentary on the Viṣṇu Sahasranāma, explaining the names as the Lord's auspicious qualities.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Parasara_Bhattar, https://archive.org/details/vishnusahasranamawithbhashyaofparasarabhattarsanskritengprofasrinivasaraghavan1983 — Parāśara Bhaṭṭar's Sanskrit commentary on the Viṣṇu Sahasranāma; 12th c.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

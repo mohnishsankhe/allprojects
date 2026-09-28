@@ -17,4 +17,4 @@ The year-long construction of a great brick altar in five layers, typically in t
 **Sequences:** [The Vedic ritual career: from initiation to the soma rites and the world of the fathers](../paths/srauta-sequence.md)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

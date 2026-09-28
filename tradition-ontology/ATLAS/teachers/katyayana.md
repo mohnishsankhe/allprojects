@@ -1,9 +1,9 @@
 # Kātyāyana
 
-`tch:katyayana` · `skeleton` · confidence moderate
+`tch:katyayana` · `sourced` · confidence moderate
 
 **Alternate names:** Vararuci (by traditional identification), vārttikakāra
-**Lineages:** `lin:vyakarana`, [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Mādhyandina śākhā (White Yajurveda)](../lineages/sakha-madhyandina.md)
+**Lineages:** [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md), [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Mādhyandina śākhā (White Yajurveda)](../lineages/sakha-madhyandina.md)
 **Dates:** Scholarly account: c. 3rd c. BCE (the vārttikakāra); (confidence moderate)
 **Historicity:** historical
 **Works:** 
@@ -18,4 +18,8 @@
 Author of the vārttikas on Pāṇini. Tradition credits a Kātyāyana with the White Yajurveda Prātiśākhya, Śrautasūtra and Śulbasūtra and the Ṛgveda index, and identifies him with Vararuci; whether these are one person is doubted by scholars.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Anukrama%E1%B9%87%C4%AB, catalog:DCS:Kātyāyanaśrautasūtra — Confirmed: Sarvānukramaṇī ascribed to Kātyāyana; the White-Yajurveda Śrauta Sūtra and Vājasaneyi Prātiśākhya bear his name (catalogue: Kātyāyanaśrautasūtra; shukla_yajur_veda_pratishakhya). Identity with Pāṇini's critic is disputed, as the entry says.
+
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

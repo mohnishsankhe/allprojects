@@ -16,7 +16,7 @@ As reported by opponents: by entry into initiation one becomes a brahmin at once
 - Yāmuna, Āgamaprāmāṇya (opponent's report).
 **Texts:** 
   - [Āgamaprāmāṇya](../texts/agamapramanya.md) — ref: Māheśvara section
-### `lin:svetambara`
+### [Śvetāmbara](../lineages/svetambara.md)
 Jain doxographers report that the Śaiva bharaṭas take the vow without regard to varṇa, and that even a slave who keeps the Śaiva initiation for twelve years attains nirvāṇa (report of the Naiyāyika-Śaivas' saying).
 - Guṇaratna; Rājaśekhara.
 **Texts:** 
@@ -32,4 +32,4 @@ Jain doxographers report that the Śaiva bharaṭas take the vow without regard 
 _Notes: Relates to the registry debate dsp:women-caste-liberation (U50)._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 09:07 IST._

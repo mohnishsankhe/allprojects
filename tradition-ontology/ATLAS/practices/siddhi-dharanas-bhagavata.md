@@ -15,4 +15,4 @@ Kṛṣṇa describes, for each of the eighteen powers, a concentration of the m
 - The siddhis are obstacles and a waste of time for one practising the highest yoga; the goal of yoga is not reached by them. — [Uddhava Gītā](../texts/uddhava-gita.md) 11.15.33-34
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

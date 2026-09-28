@@ -11,9 +11,9 @@ Holding the liṅga on the palm at eye level and gazing on it steadily, then tur
 **Sequences:** `pth:virasaiva-satsthala`
 
 ## Equivalents (interpretation layer)
-- analogous: `prc:trataka` — fixed gazing on an object; here the object is the worn liṅga and the practice is devotional
+- analogous: [Trāṭaka (the fixed gaze)](trataka.md) — fixed gazing on an object; here the object is the worn liṅga and the practice is devotional
 
 _Notes: Recorded from general knowledge of the Śivayoga revival (Hānagal Kumāra Svāmi); textual source to be found._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._

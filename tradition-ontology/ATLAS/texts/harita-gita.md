@@ -19,4 +19,4 @@ The conduct by which the renunciant reaches Brahman: leaving home, equal in gain
 _Notes: The ascription to Hārīta is from the vulgate tradition; the critical text's opening was verified, the name was not._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

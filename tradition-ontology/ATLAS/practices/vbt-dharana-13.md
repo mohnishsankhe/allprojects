@@ -13,9 +13,9 @@ Blocking the eyes with the 'weapon' of the hands, piercing at the brows and clos
   - [Vijñānabhairava](../texts/vijnana-bhairava-tantra.md) — ref: 36; rests_on: ["tea:vijnana-bhairava-tantra:36"]
 
 ## Equivalents (interpretation layer)
-- partial: `prc:sanmukhi-mudra` — Closing the sense-openings with the hands; the VBT adds the seen bindu
+- partial: [Ṣaṇmukhī mudrā (closing the six openings)](sanmukhi-mudra.md) — Closing the sense-openings with the hands; the VBT adds the seen bindu
 
 _Notes: Verses 36 (KSTS 8 / GRETIL numbering). Resembles the haṭha ṣaṇmukhī mudrā (see equivalents)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

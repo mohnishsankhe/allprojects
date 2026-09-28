@@ -11,4 +11,4 @@ Asks Yājñavalkya to explain the brahman that is immediate and direct, the self
 _Notes: Identity of the BAU Uṣasta and the ChU Uṣasti is assumed from the shared patronymic (moderate)._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

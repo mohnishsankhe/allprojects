@@ -1,6 +1,6 @@
 # Asya Vāmasya Sūkta (the riddle hymn, Ṛgveda 1.164)
 
-`src:asya-vamasya-sukta` · `skeleton` · confidence high
+`src:asya-vamasya-sukta` · `sourced` · confidence high
 
 **Alternate titles:** Asyavāmīya-sūkta, the Riddle Hymn
 **Original title:** अस्य वामस्य सूक्तम्
@@ -20,4 +20,8 @@ Dīrghatamas' hymn of riddles (brahmodya): the one-wheeled chariot of seven name
 _Notes: Reproduced in the Atharvaveda (Śaunaka 9.9–10). An adhyātma (inner) commentary on this hymn by one Ātmānanda is reported in the secondary literature (low confidence; not entered as a source)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/1_rv/rgveda_mandala_1.md (GRETIL, Van Nooten–Holland/Aufrecht), text:sources_raw/DharmicData/Rigveda/rigveda_mandala_1.json (Anukramaṇī seer/deity/metre headers), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_ — Hymn located in the local Śākala text. 52 verses (local); seer Dīrghatamas Aucathya; deity 1–41 Viśvedevāḥ and others. Reproduced as AVŚ 9.9–10 (located). The Ātmānanda commentary is not entered and was not checked.
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

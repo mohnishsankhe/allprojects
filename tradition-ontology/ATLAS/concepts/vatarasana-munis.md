@@ -14,4 +14,4 @@
 _Notes: Related to the long-haired sage of RV 10.136 (U01)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

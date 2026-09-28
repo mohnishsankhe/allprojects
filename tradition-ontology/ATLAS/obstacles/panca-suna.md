@@ -12,4 +12,4 @@ Hearth, grindstone, broom, mortar and pestle, and water-pot, by whose daily use 
   - [Manusmṛti (Mānava Dharmaśāstra)](../texts/manusmrti.md) — ref: 3.68-70; rests_on: ["tea:manusmrti:3.68-70"]
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

@@ -12,4 +12,4 @@ Twenty faults that bind the jīva; free of them it is called Śiva (Yogatattva 1
   - [Yogatattva Upaniṣad](../texts/yogatattva-upanisad.md) — ref: 12-13; rests_on: ["tea:yogatattva-upanisad:12-13"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

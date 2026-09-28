@@ -12,4 +12,4 @@ Commentator on the Sātvata Saṃhitā.
 _Notes: Role: commentator. Date not established._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._

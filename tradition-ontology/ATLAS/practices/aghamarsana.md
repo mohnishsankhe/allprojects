@@ -12,4 +12,4 @@ Recitation of the Aghamarṣaṇa hymn (RV 10.190), traditionally while immersed
   - [Ṛgveda Saṃhitā](../texts/rgveda.md) — ref: 10.190; rests_on: ["tea:rgveda:10.190.1", "tea:rgveda:10.190.2-3"]
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

@@ -25,4 +25,4 @@ By death (uparamasvatva): ownership passes only when the father dies, falls or r
 _Notes: Legal debate recorded for completeness of the Dharmaśāstra lineage._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

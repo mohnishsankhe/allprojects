@@ -16,4 +16,4 @@ The commentary on the Māṇḍūkya Upaniṣad together with Gauḍapāda's Kā
 _Notes: Authenticity accepted by most scholars, though some have doubted it._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

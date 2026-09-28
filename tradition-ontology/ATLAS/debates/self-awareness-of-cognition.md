@@ -31,4 +31,4 @@ Cognition is reflexively aware of itself (svasaṃvedana).
 **Candidate readings:** P2-standpoint: the schools may be answering different questions — how a cognition is manifest versus how it becomes an object of report.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._

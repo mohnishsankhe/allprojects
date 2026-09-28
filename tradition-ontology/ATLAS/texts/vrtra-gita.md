@@ -1,6 +1,6 @@
 # Vṛtra Gītā
 
-`src:vrtra-gita` · `skeleton` · confidence high
+`src:vrtra-gita` · `sourced` · confidence high
 
 **Original title:** वृत्रगीता
 **Language:** Sanskrit
@@ -31,4 +31,8 @@ _level: conventional · standpoint: causal · path: knowledge · stage: all · t
 
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.270.13-24 Vṛtra, Uśanas; 12.271.3-6 Sanatkumāra; 12.271.33 — Section located at CE 12.270-271 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

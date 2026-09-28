@@ -1,9 +1,9 @@
 # Rāma (Dāśarathi)
 
-`tch:rama` · `skeleton` · confidence high
+`tch:rama` · `sourced` · confidence high
 
 **Alternate names:** Rāghava, Dāśarathi, Kākutstha, Rāmacandra
-**Lineages:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [Advaita Vedānta](../lineages/advaita-vedanta.md), `lin:ramanandi`, [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
+**Lineages:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [Advaita Vedānta](../lineages/advaita-vedanta.md), [Rāmānandī sampradāya](../lineages/ramanandi.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 **Dates:** Tradition's account: Tretā yuga
 **Historicity:** legendary
 **Teachers:** [Vasiṣṭha](vasistha.md), [Viśvāmitra](visvamitra.md), [Agastya](agastya.md), [Śiva](siva.md)
@@ -13,4 +13,8 @@ Prince of Ayodhyā, hero of the Rāmāyaṇa, called 'dharma embodied' (3.37.13)
 **Realization — the tradition's account:** In the Yoga Vāsiṣṭha Rāma, after Vasiṣṭha's teaching, rests in the supreme state (Nirvāṇa-prakaraṇa, opening chapters, e.g. MU 6.5 'rāghava-viśrānti'); the Adhyātma Rāmāyaṇa instead treats him as the Lord who never lost knowledge.
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:DharmicData Rāmāyaṇa (vulgate) 3.37.13, 2.105.16, 2.109.13, local:raw_etexts goraxapuram (Gita Press) 6.18.33, local:DharmicData MBh CE 12.326.78 — All cited references located (6.18.33 in the local Gita Press text).
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

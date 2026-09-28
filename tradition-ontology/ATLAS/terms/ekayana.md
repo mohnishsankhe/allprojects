@@ -16,4 +16,4 @@
 _Notes: The Chāndogya (7.1.2) lists an 'ekāyana' among Nārada's studies; the identification is the tradition's._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._

@@ -15,4 +15,4 @@
 _Notes: Kumārila's Tantravārttika (on MS 1.3.6) nevertheless speaks of fourteen Manus in every kalpa; how this sits with ŚV 113 is not discussed in the passages checked._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

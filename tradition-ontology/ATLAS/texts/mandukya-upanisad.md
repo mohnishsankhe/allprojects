@@ -112,4 +112,4 @@ terms: [Turīya](../terms/turiya.md), [oṃ](../terms/om.md), [advaita](../terms
 _Notes: Transmitted with Gauḍapāda's Karika (src:mandukya-karika, owned by U13). Madhva's school treats the verses of the first chapter (Agama-prakarana) as part of the śruti, while the Advaita tradition ascribes all kārikās to Gauḍapāda (moderate confidence). Veda affiliation: Atharvaveda_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

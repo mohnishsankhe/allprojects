@@ -13,7 +13,7 @@ Obstacles: they hinder the great attainment; the yogin should hide them and not 
 **Texts:** 
   - [Yogatattva Upaniṣad](../texts/yogatattva-upanisad.md) — ref: 73-77
   - [Varāha Upaniṣad](../texts/varaha-upanisad.md) — ref: 3.26-30
-### `lin:hatha-yoga`
+### [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md)
 Signs: as gold is tested by goldsmiths, the siddha is known by his powers; one without powers is bound.
 - Yogaśikhā 1.159–160
 **Texts:** 
@@ -27,4 +27,4 @@ Warnings concern powers sought or displayed; the Yogaśikhā's praise concerns p
 **The traditions' own objections:** The Yogatattva makes no such distinction and treats all powers as obstacles.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

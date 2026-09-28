@@ -25,7 +25,7 @@ Initiation is of three kinds: samaya-dīkṣā (qualifying the samayin for worsh
 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: practice, teacher-transmission_
 
-terms: [samaya-dīkṣā](../terms/samaya-diksa.md), [viśeṣa-dīkṣā](../terms/visesa-diksa.md), [nirvāṇa-dīkṣā](../terms/nirvana-diksa.md), [sabīja-dīkṣā](../terms/sabija-diksa.md), [nirbīja-dīkṣā](../terms/nirbija-diksa.md), [adhvan](../terms/adhvan.md) · concepts: [Kinds of initiation (dīkṣā) in the Āgamas](../concepts/kinds-of-diksa.md), [The six paths (ṣaḍadhvan)](../concepts/six-adhvans.md), [The grades of Śaiva initiates](../concepts/grades-of-initiates.md) · practices: [Initiation into the observances (samaya-dīkṣā)](../practices/samaya-diksa.md), [Viśeṣa-dīkṣā](../practices/visesa-diksa.md), [Liberating initiation (nirvāṇa-dīkṣā)](../practices/nirvana-diksa.md), [Consecration as ācārya or sādhaka](../practices/abhiseka-acarya-sadhaka.md) · teachers: [Somaśambhu](../teachers/somasambhu.md)
+terms: [samaya-dīkṣā](../terms/samaya-diksa.md), [viśeṣa-dīkṣā](../terms/visesa-diksa.md), [nirvāṇa-dīkṣā](../terms/nirvana-diksa.md), [sabīja-dīkṣā](../terms/sabija-diksa.md), [nirbīja-dīkṣā](../terms/nirbija-diksa.md), [adhvan](../terms/adhvan.md) · concepts: [Kinds of initiation](../concepts/kinds-of-diksa.md), [The six paths (ṣaḍadhvan)](../concepts/six-adhvans.md), [The grades of Śaiva initiates](../concepts/grades-of-initiates.md) · practices: [Initiation into the observances (samaya-dīkṣā)](../practices/samaya-diksa.md), [Viśeṣa-dīkṣā](../practices/visesa-diksa.md), [Liberating initiation (nirvāṇa-dīkṣā)](../practices/nirvana-diksa.md), [Consecration as ācārya or sādhaka](../practices/abhiseka-acarya-sadhaka.md) · teachers: [Somaśambhu](../teachers/somasambhu.md)
 
 ### nitya <a id="tea-somasambhupaddhati-nitya"></a>
 `skeleton` · confidence moderate
@@ -34,10 +34,10 @@ The daily rite of the initiate: bath (with water and ash), twilight worship, the
 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: practice_
 
-concepts: [Śiva's body of mantras](../concepts/mantra-body-of-siva.md) · practices: [Ātmārtha-pūjā (daily private worship of Śiva)](../practices/atmartha-puja.md), [Purification of the elements (bhūtaśuddhi)](../practices/bhutasuddhi.md), [Placing letters and syllables on the body (nyāsa)](../practices/nyasa.md), [Internal worship (antaryāga)](../practices/antaryaga.md), [Fire offering (agnikārya, homa)](../practices/agnikarya.md) · teachers: [Somaśambhu](../teachers/somasambhu.md)
+concepts: [Śiva's body of mantras](../concepts/mantra-body-of-siva.md) · practices: [Ātmārtha-pūjā (daily private worship of Śiva)](../practices/atmartha-puja.md), [Purification of the elements (bhūtaśuddhi)](../practices/bhutasuddhi.md), [Placing letters and syllables on the body (nyāsa)](../practices/nyasa.md), [Inner worship (antaryāga)](../practices/antaryaga.md), [Fire offering (agnikārya, homa)](../practices/agnikarya.md) · teachers: [Somaśambhu](../teachers/somasambhu.md)
 
 
 _Notes: Existence and author as in the Muktabodha catalogue (sources_raw/raw_etexts/mixed/mukta/muktabodha_metadata.json (Muktabodha catalogue descriptions))._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._

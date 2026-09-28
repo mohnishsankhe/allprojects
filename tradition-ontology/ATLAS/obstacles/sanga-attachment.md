@@ -14,4 +14,4 @@ Attachment that overturns even an ascetic's practice: Bharata's love for a fawn,
   - [Viṣṇu Purāṇa](../texts/visnu-purana.md) — ref: 2.13; rests_on: ["tea:visnu-purana:2.13"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

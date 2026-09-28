@@ -24,4 +24,4 @@ Learning and reciting one's śākhā's Saṃhitā orally from the teacher's mout
 - Studying without the hand-gestures, lacking accent and letters, one is 'burned' by the Ṛg, Yajus and Sāman. — [Pāṇinīya Śikṣā](../texts/paniniya-siksa.md) 54
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

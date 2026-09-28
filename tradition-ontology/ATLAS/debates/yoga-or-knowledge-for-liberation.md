@@ -5,7 +5,7 @@
 **Coverage:** G
 
 ## Sides (recorded before any reconciliation)
-### `lin:hatha-yoga`
+### [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md)
 Yoga and knowledge together: knowledge without yoga cannot liberate, and the mere knower is reborn until his body is 'ripened' by yoga.
 - Yogatattva 14–15
 - Yogaśikhā 1.12–14, 1.40–53
@@ -32,4 +32,4 @@ Knowledge alone gives kaivalya; bodily yoga is for the unawakened; realization i
 _Notes: Related registry dispute: dsp:works-knowledge-grace._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

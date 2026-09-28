@@ -11,4 +11,4 @@ Returning to lower ritual practice after taking up Śiva-worship, which makes th
   - [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) — ref: 9.39–40; rests_on: ["tea:siddhantasikhamani:9.39-40"]
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._

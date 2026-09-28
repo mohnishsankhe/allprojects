@@ -33,4 +33,4 @@ _none recorded_
 [Do the Vedic mantras have meaning, or are they effective sound only?](../debates/are-mantras-meaningful.md), [Are all nouns derived from verbal roots?](../debates/do-all-nouns-derive-from-verbs.md), [Are the gods person-like in form (puruṣavidha) or not?](../debates/form-of-the-gods.md), [How are the Vedic deities and stories to be interpreted — as natural powers, as persons of old narratives, or through the rite?](../debates/nirukta-schools-of-interpretation.md)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

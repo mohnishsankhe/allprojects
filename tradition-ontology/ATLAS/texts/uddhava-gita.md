@@ -6,7 +6,7 @@
 **Original title:** उद्धवगीता
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md), `lin:varkari`
+**Lineages:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md), [Vārkarī sampradāya](../lineages/varkari.md)
 **Genre:** gītā
 **Part of:** [Bhāgavata Purāṇa](bhagavata-purana.md)
 **Location in parent:** Bhāgavata Purāṇa 11.6-11.29 (Uddhava's request 11.6.40-49; Kṛṣṇa's teaching 11.7.1-11.29.49)
@@ -21,7 +21,7 @@ Kṛṣṇa instructs Uddhava to renounce attachment, see the world as the Lord'
 **Editions / translations:** 
   - kind: original; name: Bhāgavata Purāṇa (Gita Press / critical ed. by H. G. Shastri, B. J. Institute, Ahmedabad); licence: various
   - kind: original; name: local e-text: sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md; licence: digitization terms unknown
-**Commentaries on this text:** [Eknāthī Bhāgavata](eknathi-bhagavata.md)
+**Commentaries on this text:** [Eknāthī Bhāgavat](eknathi-bhagavata.md)
 
 ## Teachings (88: skeleton 88)
 
@@ -335,7 +335,7 @@ Taking refuge in the Lord and doing one's varṇa-āśrama duties without desire
 
 _level: conventional · standpoint: seeker · path: action, knowledge · stage: intermediate · types: practice, ethics_
 
-terms: [karma-yoga](../terms/karma-yoga.md)
+terms: [karmayoga](../terms/karma-yoga.md)
 
 ### 11.10.12 <a id="tea-uddhava-gita-11-10-12"></a>
 `skeleton` · confidence high · [AI-translated]
@@ -628,7 +628,7 @@ I have taught three yogas for people's highest good — knowledge, action and de
 
 _level: bridging · standpoint: seeker · path: knowledge, action, devotion · stage: all · types: practice, karma-liberation_
 
-terms: [jñāna-yoga](../terms/jnana-yoga.md), [karma-yoga](../terms/karma-yoga.md), [bhakti-yoga](../terms/bhakti-yoga.md) · concepts: [Three yogas by disposition (Uddhava Gītā)](../concepts/three-yogas-by-disposition-bhagavata.md) · disputes: [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md), `dsp:works-knowledge-grace`
+terms: [jñānayoga](../terms/jnana-yoga.md), [karmayoga](../terms/karma-yoga.md), [bhakti-yoga](../terms/bhakti-yoga.md) · concepts: [Three yogas by disposition (Uddhava Gītā)](../concepts/three-yogas-by-disposition-bhagavata.md) · disputes: [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md), `dsp:works-knowledge-grace`
 
 ### 11.20.9-11 <a id="tea-uddhava-gita-11-20-9-11"></a>
 `skeleton` · confidence moderate · [AI-translated]
@@ -821,4 +821,4 @@ practices: [Seeing the Lord in all beings and bowing to all](../practices/seeing
 _Notes: Chapter range varies by editor: some count the Uddhava Gītā from 11.6 (Uddhava's plea), others from 11.7 (start of the teaching). The avadhūta of 11.7-9 is named in the text only as 'an avadhūta brāhmaṇa'; the tradition identifies him with Dattātreya (cf. BhP 2.7.4, where Yadu and the Haihayas gain yogic powers from Datta). Eknāth's Marathi Eknāthī Bhāgavata is a celebrated commentary on this book._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

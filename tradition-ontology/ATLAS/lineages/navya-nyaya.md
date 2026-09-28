@@ -28,7 +28,7 @@ Navya-Nyāya ('New Nyāya') begins with Gaṅgeśa Upādhyāya's Tattvacintāma�
 **Transmissions given:** 
   - [Advaita Vedānta](advaita-vedanta.md) — what: technical language and method of definition and refutation (e.g. Madhusūdana Sarasvatī's Advaitasiddhi)
   - [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](dvaita.md) — what: technical language, used in the critique of Nyāya itself (Vyāsatīrtha's Tarkatāṇḍava)
-  - `lin:vyakarana` — what: the analysis of verbal cognition, debated with the grammarians
+  - [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](vyakarana.md) — what: the analysis of verbal cognition, debated with the grammarians
 
 ## The ultimate in this lineage
 `skeleton` · confidence moderate
@@ -58,4 +58,4 @@ _none recorded_
 _Notes: The tradition's accounts of the rivalry between Mithilā and Navadvīpa (e.g. Vāsudeva Sārvabhauma carrying the Tattvacintāmaṇi to Navadvīpa from memory; Raghunātha's debate with Pakṣadhara) are recorded in the teacher entries at low confidence._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._

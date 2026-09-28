@@ -1,6 +1,6 @@
 # Kapila–Syūmaraśmi Saṃvāda (Gokapilīya)
 
-`src:kapila-syumarasmi-samvada` · `skeleton` · confidence moderate
+`src:kapila-syumarasmi-samvada` · `sourced` · confidence moderate
 
 **Original title:** कपिलस्यूमरश्मिसंवाद
 **Language:** Sanskrit
@@ -20,4 +20,8 @@ Seeing a cow led to sacrifice, Kapila exclaims at the Vedas; the sage Syūmaraś
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.260.5-12 Kapila, Syūmaraśmi; 12.261.1, 12.262.1 speaker Kapila — Section located at CE 12.260-262 as entered; speakers and topic confirmed by keyword search. The alternative title "Gokapilīya" was not confirmed (not found in the local vulgate colophons nor by web search). Dating = the whole-epic accounts, as entered.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

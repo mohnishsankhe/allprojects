@@ -16,4 +16,4 @@
 - contrasts-with → [The sacrifice as the cosmic Person and the world](sacrifice-as-cosmos.md): outer rite and inner rite are two poles of one doctrine
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

@@ -1,6 +1,6 @@
 # Pañcaśikha
 
-`tch:pancasikha` · `skeleton` · confidence moderate
+`tch:pancasikha` · `sourced` · confidence moderate
 
 **Alternate names:** Kāpileya (in the Mahābhārata), Kāpileya
 **Lineages:** [Sāṃkhya](../lineages/samkhya.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
@@ -16,4 +16,8 @@ Pupil of Āsuri by whom 'the doctrine was expanded' (SK 70). In the Mahābhārat
 _Notes: Mahābhārata chapter (Śāntiparvan, c. 12.211–212 in the critical edition) recalled, not checked._
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 12.211.6-18 (kāpileya, kapilā 12.211.14, āsuri 12.211.10), 12.308.24, 12.308.163 — Located as described.
+
+_Contributed by: skeleton:U09-samkhya, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

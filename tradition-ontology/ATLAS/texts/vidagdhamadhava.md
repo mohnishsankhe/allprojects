@@ -11,4 +11,4 @@
 Rūpa's seven-act Sanskrit drama of Kṛṣṇa's love-play with Rādhā in Vraja (1532/33 CE per the text).
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._

@@ -12,8 +12,8 @@
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-- exact: `trm:jnanasakti` — Kauṇḍinya calls the same power jñānaśakti (PABh 5.46)
+- exact: [jñānaśakti](jnanasakti.md) — Kauṇḍinya calls the same power jñānaśakti (PABh 5.46)
 **Related:** [kriyāśakti](kriyasakti.md), [sarvajñatva](sarvajnatva.md)
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 09:07 IST._

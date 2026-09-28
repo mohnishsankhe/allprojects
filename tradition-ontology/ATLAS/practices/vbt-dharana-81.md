@@ -15,4 +15,4 @@ The awareness of object and subject is common to all embodied beings; but for yo
 _Notes: Verses 106 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

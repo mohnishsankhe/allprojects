@@ -15,4 +15,4 @@
 Rāmānuja's foremost disciple and scribe, the father of Parāśara Bhaṭṭar and author of the Pañcastava. The tradition says he memorized the Bodhāyana Vṛtti in Kashmir for Rāmānuja and was blinded by a Cōḻa king for refusing to affirm Śiva's supremacy.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._

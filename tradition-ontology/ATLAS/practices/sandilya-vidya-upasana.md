@@ -12,4 +12,4 @@ Resolving that one becomes at death what one's resolve is, one meditates on the 
   - [Śatapatha Brāhmaṇa (Mādhyandina)](../texts/satapatha-brahmana.md) — ref: 10.6.3; rests_on: ["tea:satapatha-brahmana:10.6.3.1-2"]
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

@@ -16,4 +16,4 @@ Kamalākara Bhaṭṭa's digest deciding the correct times and procedures of rit
 _Notes: Local copies: raw_etexts/kalpaH/nirNaya-sindhuH (OCR)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

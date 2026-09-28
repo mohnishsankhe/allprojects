@@ -25,4 +25,4 @@
 Formerly Dabir Khās, minister of Sultan Husain Shah of Gauḍa; taught by Caitanya at Prayāga (CC 2.19); settled in Vṛndāvana; the chief theorist of Gauḍīya devotion: Bhaktirasāmṛtasindhu, Ujjvalanīlamaṇi, Laghubhāgavatāmṛta, Upadeśāmṛta, dramas and hymns.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._

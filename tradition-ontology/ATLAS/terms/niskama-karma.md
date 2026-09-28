@@ -12,9 +12,9 @@
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-**Related:** [karma-yoga](karma-yoga.md), [karmaphala-tyāga](karmaphala-tyaga.md)
+**Related:** [karmayoga](karma-yoga.md), [karmaphala-tyāga](karmaphala-tyaga.md)
 
 _Notes: The compound is a commentarial and later label; the Gītā speaks of abandoning attachment (saṅga) and the fruit (phala)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

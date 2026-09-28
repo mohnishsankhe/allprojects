@@ -30,7 +30,7 @@ Vaiśeṣika is the Vedic darśana of categorial analysis and atomism founded on
 **Transmissions given:** 
   - [Nyāya](nyaya.md) — what: the ontology of categories and atoms
   - [Prābhākara Mīmāṃsā](prabhakara-mimamsa.md) — what: a categorial ontology, extended with capacity, similarity and number
-  - `lin:ayurveda` — what: the six categories named at the opening of the Caraka Saṃhitā (direction debated)
+  - [Āyurveda](ayurveda.md) — what: the six categories named at the opening of the Caraka Saṃhitā (direction debated)
 
 ## The ultimate in this lineage
 `skeleton` · confidence moderate
@@ -60,4 +60,4 @@ Vaiśeṣika is the Vedic darśana of categorial analysis and atomism founded on
 _Notes: Status 'absorbed': Vaiśeṣika ontology is still studied, but within Nyāya-Vaiśeṣika manuals._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._

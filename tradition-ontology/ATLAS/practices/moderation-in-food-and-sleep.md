@@ -15,4 +15,4 @@ For yoga to destroy sorrow, be moderate in food and recreation, in effort in act
 - Yoga is not for one who eats too much or not at all, sleeps too much or keeps awake too long. — [Bhagavad Gītā](../texts/bhagavad-gita.md) 6.16
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

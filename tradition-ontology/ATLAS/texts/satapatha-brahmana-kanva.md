@@ -17,4 +17,4 @@ The second recension of the Śatapatha Brāhmaṇa, transmitted by the Kāṇva 
 _Notes: Only partly edited in print for a long time; the Kāṇva BĀU is widely available._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

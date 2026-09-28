@@ -21,4 +21,4 @@ Meditate on the self as Om; Om is the bow, the self the arrow, brahman the targe
 - partial: [Repetition of Oṃ with contemplation of Īśvara (praṇava-japa)](pranava-japa.md) — Yoga Sūtra 1.27-28 repetition of Om (U10); the Upaniṣads speak of meditation (upāsanā, abhidhyāna) rather than repetition
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

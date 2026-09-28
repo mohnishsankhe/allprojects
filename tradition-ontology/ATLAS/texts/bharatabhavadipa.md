@@ -1,6 +1,6 @@
 # Bhāratabhāvadīpa of Nīlakaṇṭha Caturdhara
 
-`src:bharatabhavadipa` · `skeleton` · confidence high
+`src:bharatabhavadipa` · `sourced` · confidence high
 
 **Original title:** भारतभावदीप
 **Language:** Sanskrit
@@ -18,4 +18,8 @@ Nīlakaṇṭha's commentary on the whole Mahābhārata (vulgate), including the
   - kind: original; name: gita/gita JSON corpus (Sanskrit text, transliteration, several commentaries); licence: Unlicense; url: https://github.com/gita/gita
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Neelakantha_Chaturdhara, https://archive.org/details/mahabharata_nk, local:sources_raw/gita/data/commentary.json (Sri Neelkanth) — Late 17th-c. Advaita commentary on the whole (vulgate) Mahābhārata, dated 1650–1700, as entered.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

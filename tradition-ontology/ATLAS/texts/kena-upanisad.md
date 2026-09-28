@@ -79,7 +79,7 @@ When it is known through each awakening (pratibodha), it is truly known, for one
 
 _level: ultimate · standpoint: experiential · path: knowledge · stage: advanced · types: ultimate, consciousness-mind_
 
-terms: [pratibodha](../terms/pratibodha.md), [amṛtatva / amṛta](../terms/amrtatva.md) · concepts: [The witness (sākṣin)](../concepts/saksin.md)
+terms: [pratibodha](../terms/pratibodha.md), [amṛtatva](../terms/amrtatva.md) · concepts: [The witness (sākṣin)](../concepts/saksin.md)
 
 ### 2.5 <a id="tea-kena-upanisad-2-5"></a>
 `skeleton` · confidence high
@@ -115,7 +115,7 @@ Its teaching (ādeśa), with respect to the gods: that which flashed forth in th
 
 _level: ultimate · standpoint: experiential · path: meditation, knowledge · stage: advanced · types: ultimate, powers-experiences_
 
-terms: [ādeśa](../terms/adesa.md), [adhyātma](../terms/adhyatma.md), [adhidaivata](../terms/adhidaivata.md), [saṅkalpa](../terms/sankalpa.md)
+terms: [ādeś](../terms/adesa.md), [adhyātma](../terms/adhyatma.md), [adhidaivata](../terms/adhidaivata.md), [saṅkalpa](../terms/sankalpa.md)
 
 ### 4.6 <a id="tea-kena-upanisad-4-6"></a>
 `skeleton` · confidence moderate
@@ -139,4 +139,4 @@ terms: [upaniṣad](../terms/upanisad.md), [tapas](../terms/tapas.md), [dama](..
 _Notes: Śaṅkara wrote two commentaries on it (pada-bhasya and vakya-bhasya). Veda affiliation: Sāmaveda, Jaiminīya (Talavakāra) śākhā_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

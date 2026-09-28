@@ -11,4 +11,4 @@ Funerary rites for the initiate and rites for the dead (TĀ 24-25), whose purpos
   - [Tantrāloka](../texts/tantraloka.md) — ref: 24-25; rests_on: ["tea:tantraloka:1.278-284"]
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

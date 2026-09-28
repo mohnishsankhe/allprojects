@@ -1,6 +1,6 @@
 # Vidura
 
-`tch:vidura` · `skeleton` · confidence high
+`tch:vidura` · `sourced` · confidence high
 
 **Alternate names:** Kṣattṛ
 **Lineages:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
@@ -14,4 +14,8 @@ Half-brother of Dhṛtarāṣṭra and Pāṇḍu, born of a śūdra woman; Dhar
 **Realization — the tradition's account:** An embodiment of Dharma; his death by yoga, entering Yudhiṣṭhira, is narrated at 15.33.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 1.100.28 (dharmo vidurarūpeṇa śāpāt ... māṇḍavyasya), 5.41.5, 15.33.25 — Every cited reference located, including the Māṇḍavya curse at 1.100.28.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

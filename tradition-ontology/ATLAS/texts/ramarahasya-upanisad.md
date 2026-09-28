@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), `lin:ramanandi`
+**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Rāmānandī sampradāya](../lineages/ramanandi.md)
 **Genre:** upaniṣad
 **Attribution:** tradition: Śruti: revealed, without human author (apauruṣeya); the Muktikā presents it as one of the 108 Upaniṣads that Rāma teaches Hanumān, each belonging to a Vedic śākhā; scholarly: anonymous; assigned to a Veda by the Muktikā list, not by any surviving śākhā transmission; confidence: moderate
 **Dates:** Tradition's account: Śruti: eternal and authorless; no human date; Scholarly account: Vaiṣṇava Upaniṣads span a wide range; some (e.g. Nārāyaṇa, Nṛsiṃhatāpanī) are generally thought older than others; most are placed by scholars in the medieval period.; (confidence low)
@@ -39,4 +39,4 @@ practices: [Recitation of the Rāma tāraka mantra](../practices/rama-taraka-jap
 _Notes: Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-text used here; other editions (e.g. the Adyar series, Schrader's critical edition, northern recensions) number differently._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** shared
-**Lineages:** `lin:vyakarana`
+**Lineages:** [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md)
 **Genre:** vyākaraṇa
 **Authors:** 
   - [Candragomin](../teachers/candragomin.md) — role: author; attribution: accepted
@@ -14,4 +14,4 @@
 Candragomin's grammar, closely based on Pāṇini but without Vedic rules and accents, transmitted especially in Buddhist circles (Nepal, Tibet, Sri Lanka).
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

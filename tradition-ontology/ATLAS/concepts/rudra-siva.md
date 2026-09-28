@@ -13,4 +13,4 @@
 - is-a → [Īśvara (the Lord)](isvara.md) — rests on [6.7-9](../texts/svetasvatara-upanisad.md#tea-svetasvatara-upanisad-6-7-9)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

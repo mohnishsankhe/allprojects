@@ -19,4 +19,4 @@ The twelve-book canon of Tamil Śaiva sacred literature: (1–3) Tiruñāṉacam
   - kind: original; name: Project Madurai e-text; url: https://www.projectmadurai.org
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._

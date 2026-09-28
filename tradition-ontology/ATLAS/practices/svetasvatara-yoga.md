@@ -17,4 +17,4 @@ Hold the body steady with chest, neck and head erect; draw the senses with the m
 - The breath is to be let out gently through the nose when diminished (ŚU 2.9). — [Śvetāśvatara Upaniṣad](../texts/svetasvatara-upanisad.md) 2.9
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

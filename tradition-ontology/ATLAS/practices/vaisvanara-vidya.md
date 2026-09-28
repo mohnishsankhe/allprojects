@@ -16,4 +16,4 @@ Venerate the vaiśvānara self as the whole — sky as head, sun as eye, wind as
 _Notes: Upaniṣadic 'vidyā' (meditation-knowledge); the Brahma Sūtra (3.3) discusses which vidyās are to be combined._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

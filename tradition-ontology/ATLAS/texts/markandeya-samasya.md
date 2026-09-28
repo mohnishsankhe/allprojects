@@ -1,6 +1,6 @@
 # Mārkaṇḍeyasamāsyā (Mārkaṇḍeya's discourses)
 
-`src:markandeya-samasya` · `skeleton` · confidence high
+`src:markandeya-samasya` · `sourced` · confidence high
 
 **Original title:** मार्कण्डेयसमास्या
 **Language:** Sanskrit
@@ -20,4 +20,8 @@ The long-lived sage Mārkaṇḍeya instructs the exiled Pāṇḍavas: on karma
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_3.json (BORI Critical Edition text) 3.180.5ff Mārkaṇḍeya arrives at Kāmyaka; 3.221 last Mārkaṇḍeya-spoken chapter; 3.222 begins Draupadī–Satyabhāmā — Section located at CE 3.180-221 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

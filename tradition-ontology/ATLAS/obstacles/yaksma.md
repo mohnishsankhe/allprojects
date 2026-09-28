@@ -14,4 +14,4 @@ Wasting disease and disease in general, with jaundice and heart-disease, driven 
 _Notes: rests_on: tea:atharvaveda-saunaka:3.7, tea:atharvaveda-saunaka:1.22_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

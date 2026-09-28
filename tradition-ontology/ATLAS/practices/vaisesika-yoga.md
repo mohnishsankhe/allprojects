@@ -13,4 +13,4 @@ Withdrawing the mind from contact with the senses so that it abides in the self,
 **Sequences:** [The Vaiśeṣika path to liberation (mokṣa)](../paths/vaisesika-path-to-moksa.md)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._

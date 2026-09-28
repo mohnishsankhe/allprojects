@@ -5,7 +5,7 @@
 **Alternate titles:** Jābāladarśana
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), `lin:hatha-yoga`, [Advaita Vedānta](../lineages/advaita-vedanta.md), `lin:datta-sampradaya`
+**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Advaita Vedānta](../lineages/advaita-vedanta.md), `lin:datta-sampradaya`
 **Genre:** upaniṣad
 **Attribution:** tradition: Śruti: revealed, without human author (apauruṣeya); the Muktikā presents it as one of the 108 Upaniṣads that Rāma teaches Hanumān, each belonging to a Vedic śākhā; scholarly: anonymous; assigned to a Veda by the Muktikā list, not by any surviving śākhā transmission; confidence: moderate
 **Dates:** Tradition's account: Śruti: eternal and authorless; no human date; Scholarly account: Scholarly accounts differ by text. Several Yoga Upaniṣads (e.g. Amṛtabindu, Amṛtanāda, Kṣurikā, Tejobindu, Nādabindu, Dhyānabindu, Brahmavidyā, Yogatattva, Yogaśikhā, Haṃsa) survive in shorter northern versions that are older; the expanded southern recensions (as in this collection) borrow from medieval haṭha works and were probably compiled in South India, perhaps as late as the 18th c. (Bouy 1994).; (confidence low)
@@ -104,7 +104,7 @@ Channels are purified by breath practice, with signs of lightness, digestive fir
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: intermediate · types: practice_
 
-practices: [Purification of the channels (nāḍī-śodhana)](../practices/nadi-sodhana.md)
+practices: [Purification of the channels (nāḍī-śodhana, nāḍī-śuddhi)](../practices/nadi-sodhana.md)
 
 ### 6.1-14 <a id="tea-darsana-upanisad-6-1-14"></a>
 `skeleton` · confidence moderate
@@ -131,7 +131,7 @@ Five pratyāhāras: forcibly withdrawing the senses; seeing all that is seen as 
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: intermediate · types: practice_
 
-practices: [Five kinds of withdrawal (pratyāhāra)](../practices/five-pratyaharas.md), [Concentration on the eighteen vital points (marma)](../practices/marmasthana-dharana.md)
+practices: [Five kinds of withdrawal (pratyāhāra)](../practices/five-pratyaharas.md), [Withdrawal through the eighteen vital points (marmasthāna)](../practices/marmasthana-dharana.md)
 
 ### 8 <a id="tea-darsana-upanisad-8"></a>
 `skeleton` · confidence high
@@ -140,7 +140,7 @@ Dhāraṇā: dissolving the outer elements into their places in the body with th
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice_
 
-practices: [The five element concentrations (pañca-dhāraṇā)](../practices/element-dharanas.md)
+practices: [The five element-concentrations (pañca-dhāraṇā) in the haṭha texts](../practices/element-dharanas.md)
 
 ### 9 <a id="tea-darsana-upanisad-9"></a>
 `skeleton` · confidence high
@@ -162,4 +162,4 @@ _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced �
 _Notes: Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-text used here; other editions (e.g. the Adyar series, Schrader's critical edition, northern recensions) number differently._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

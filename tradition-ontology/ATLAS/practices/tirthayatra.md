@@ -3,8 +3,8 @@
 `prc:tirthayatra` · `skeleton` · confidence high
 
 **Category:** devotion-service
-**Convergence:** 2 independent lineage(s): [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
-**Taught in:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
+**Convergence:** 3 independent lineage(s): [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Vārkarī sampradāya](../lineages/varkari.md)
+**Taught in:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Vārkarī sampradāya](../lineages/varkari.md)
 
 Journeying to holy places, bathing, worship, gifts and śrāddha there; seven cities give liberation; the inner meaning is purity of mind and the company of the holy, who themselves make places holy.
 **Stage:** all
@@ -13,6 +13,7 @@ Journeying to holy places, bathing, worship, gifts and śrāddha there; seven ci
   - [Garuḍa Purāṇa](../texts/garuda-purana.md) — ref: 2.38.5; rests_on: ["tea:garuda-purana:2.38.5"]
   - [Bhāgavata Purāṇa](../texts/bhagavata-purana.md) — ref: 1.13.10; rests_on: ["tea:bhagavata-purana:1.13.10"]
   - [Viduranīti (Vidura's counsel)](../texts/viduraniti.md) — ref: 5.40.19; rests_on: ["tea:viduraniti:5.40.19"]
+  - [Tīrthāvaḷī (of Nāmdev)](../texts/tirthavali-namdev.md) — ref: invitation; rests_on: ["tea:tirthavali-namdev:invitation"]
 
 ## The texts' own warnings
 - The greedy, cruel and hypocritical remain impure though they bathe in every tīrtha. — [Skanda Purāṇa](../texts/skanda-purana.md) 4.1.6.34
@@ -20,4 +21,4 @@ Journeying to holy places, bathing, worship, gifts and śrāddha there; seven ci
 _Notes: U05's contribution; the Āraṇyaka's tīrtha lists are not itemized here._
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U05-gita-epic, skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._

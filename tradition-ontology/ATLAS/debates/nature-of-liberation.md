@@ -21,7 +21,7 @@ Liberation is absolute release from pain (Nyāya Sūtra 1.1.22), with the cessat
 - Nyāya Sūtra 1.1.22 (recalled).
 **Texts:** 
   - [Nyāya Sūtra](../texts/nyaya-sutra.md) — ref: 1.1.22
-### `lin:jainism`
+### [Jainism (Jaina dharma)](../lineages/jainism.md)
 The liberated soul rises to the summit of the world (Tattvārtha Sūtra 10.5, recalled).
 - Rejected by SS 5.76: the inactive does not go anywhere.
 **Texts:** 
@@ -34,4 +34,4 @@ The liberated soul rises to the summit of the world (Tattvārtha Sūtra 10.5, re
 **Candidate readings:** P1-level / P2-standpoint: descriptions by negation (Sāṃkhya, Nyāya: cessation of suffering) vs by affirmation (Advaita: bliss) of a state all agree is beyond saṃsāra.; P7-arthavāda: Sāṃkhya itself reads 'bliss' as figurative praise (SS 5.67–68).
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._

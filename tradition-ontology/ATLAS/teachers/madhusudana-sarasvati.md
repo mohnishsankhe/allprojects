@@ -1,6 +1,6 @@
 # Madhusūdana Sarasvatī
 
-`tch:madhusudana-sarasvati` · `skeleton` · confidence high
+`tch:madhusudana-sarasvati` · `sourced` · confidence high
 
 **Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Vivaraṇa school (Vivaraṇa-prasthāna)](../lineages/vivarana.md)
 **Dates:** Scholarly account: 16th–17th c. CE; (confidence low)
@@ -19,4 +19,8 @@ Bengal-born Advaitin of Vārāṇasī, author of the Advaitasiddhi (against Vyā
 _Notes: U05's contribution only._
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — local:ebhAratI bhagavadgItA-vyAkhyAchatuShTayopetA.md intro vv. 5-11, https://en.wikipedia.org/wiki/Madhus%C5%ABdana_Sarasvat%C4%AB — Confirmed; the three-hexad scheme (karma, upāsti, jñāna; tvam, tat, their identity) is in his introductory verses 5–11.
+
+_Contributed by: skeleton:U13-advaita, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

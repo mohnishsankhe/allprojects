@@ -21,7 +21,7 @@ Knowledge of the non-dual Self liberates; even the practice of samādhi is bonda
   - [Aṣṭāvakra Gītā](../texts/astavakra-gita.md) — ref: 1.3-15
   - [Uddhava Gītā](../texts/uddhava-gita.md) — ref: 11.19.1-3
   - [Rāma Gītā](../texts/rama-gita.md) — ref: 7.5.8-10
-### `lin:ramanandi`
+### [Rāmānandī sampradāya](../lineages/ramanandi.md)
 Devotion is the lamp without which knowledge does not shine; from devotion knowledge, realization, dispassion and liberation follow quickly.
 - as eyes see nothing at night without a lamp (AR 3.4.46-47)
 **Texts:** 
@@ -35,4 +35,4 @@ Under P3 the paths suit different temperaments; under P4 devotion is a means tha
 **The traditions' own objections:** Gauḍīya and other Vaiṣṇava readers reject the reading of bhakti as a mere means to non-dual knowledge; Advaita readers reject the claim that devotion is higher than liberation.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

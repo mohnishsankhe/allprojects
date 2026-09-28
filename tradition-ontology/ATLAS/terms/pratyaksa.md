@@ -22,4 +22,4 @@
 **Related:** [sākṣin](saksin.md), [manas](manas.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U11-nyaya-vaisesika, skeleton:U10-yoga, skeleton:U12-mimamsa, skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U11-nyaya-vaisesika, skeleton:U10-yoga, skeleton:U12-mimamsa, skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

@@ -15,4 +15,4 @@
 - contrasts-with → [Āgama as rooted in or continuous with the Veda](agama-as-vedic-rooted.md): Pāñcarātrins and Vaikhānasas claim Vedic roots instead — rests on [siddhanta](../texts/agamapramanya.md#tea-agamapramanya-siddhanta), [p2.1-12](../texts/dasavidhahetunirupana.md#tea-dasavidhahetunirupana-p2-1-12)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._

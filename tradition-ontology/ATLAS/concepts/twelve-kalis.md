@@ -15,4 +15,4 @@
 _Notes: The first six names and the phases are confirmed by TĀ 4.148-154 and the Kramastotra; the forms of names 7-12 (esp. Rudrakālī vs Bhadrakālī, and the full name of the twelfth) are reconstructed - moderate confidence._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

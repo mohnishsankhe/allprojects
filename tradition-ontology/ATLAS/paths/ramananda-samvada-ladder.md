@@ -24,4 +24,4 @@
 Order and wording as recalled from CC 2.8 (c. vv. 57–195); the ladder is a dialogue, not a practice sequence; B-bands are interpretive.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._

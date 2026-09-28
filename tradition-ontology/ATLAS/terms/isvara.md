@@ -26,4 +26,4 @@
 **Related:** [paramātman](paramatman.md), [Puruṣottama](purusottama.md), [puruṣa](purusa.md), [saguṇa](saguna.md), [māyā](maya.md), [jīva](jiva.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U13-advaita, skeleton:U12-mimamsa, skeleton:U14-visistadvaita, skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U13-advaita, skeleton:U12-mimamsa, skeleton:U14-visistadvaita, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

@@ -10,6 +10,7 @@
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): The mind, a product of prakṛti made of the three guṇas, whose activities are to be stilled; it is seen, not self-luminous, and exists for the sake of the puruṣa; one, having many objects, and enduring (YBh 1.32). Commentators gloss it as the inner organ (antaḥkaraṇa).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Thought: a rung above intention in Sanatkumāra's ladder (ChU 7.5); with whatever thought one has one enters breath at death (PrU 3.10); 'the mind alone is saṃsāra' (cittam eva hi saṃsāraḥ, MaiU 6.34).
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): The inner organ as remembering and reflecting (in the fourfold Advaita division); in general usage, mind.
+- [Āyurveda](../lineages/ayurveda.md): Lineage contribution (Āyurveda, Bhela): citta rests in the heart and is the cause of all cognitions and actions; those of good citta go the good path (Bhela Ci 8).
 - [Pratyabhijñā (the philosophy of recognition)](../lineages/pratyabhijna.md): Consciousness descended and contracted by the knowable (PH 5); turned inward, it becomes consciousness again (PH 13).
 - [Spanda (the doctrine of vibration)](../lineages/spanda.md): The bound self is the mind (Śiva Sūtra 3.1); the mind is mantra (2.1).
 
@@ -21,4 +22,4 @@
 **Related:** [vṛtti](vrtti.md), [buddhi](buddhi.md), [manas](manas.md)
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U30-ayurveda-rasa, skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

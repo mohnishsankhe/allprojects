@@ -16,4 +16,4 @@
 _Notes: Disambiguated from tch:sankara (the Advaita teacher)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

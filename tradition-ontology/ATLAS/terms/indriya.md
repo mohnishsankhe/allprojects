@@ -4,9 +4,10 @@
 
 **Language:** Sanskrit
 **Native script:** इन्द्रिय
-**Literal:** faculty, capacity (organ)
+**Literal:** sense faculty
 
 ## Definitions by tradition
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: The senses are to be withdrawn from their objects like a tortoise's limbs (2.58); they are turbulent and carry off the mind even of the wise (2.60, 2.67); they are to be restrained (2.61, 2.68) and controlled first when fighting desire (3.41); rāga and dveṣa are set in each sense towards its object (3.34); they are one of the seats of desire (3.40); the senses are high, the mind higher (3.42).
 - [Sāṃkhya](../lineages/samkhya.md): The eleven capacities produced from ahaṃkāra: five sense capacities, five action capacities and manas (SK 24–27); not made of the elements (SS 2.20, 5.84).
 - [Nyāya](../lineages/nyaya.md): Smell, taste, sight, touch, hearing, made from the elements (NS 1.1.12).
 - [Vaiśeṣika](../lineages/vaisesika.md): Each located in a bodily seat — nose-tip, tongue-tip, the black of the eye, the whole skin, the ear's ākāśa; manas is the inner sense.
@@ -18,7 +19,7 @@
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-**Related:** [buddhīndriya](buddhindriya.md), [karmendriya](karmendriya.md), [manas](manas.md)
+**Related:** [indriyārtha](indriyartha.md), [manas](manas.md), [karmendriya](karmendriya.md), [buddhīndriya](buddhindriya.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U05-gita-epic, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U05-gita-epic, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

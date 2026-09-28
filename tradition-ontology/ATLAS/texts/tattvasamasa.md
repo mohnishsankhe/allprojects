@@ -29,7 +29,7 @@ Eight prakṛtis; sixteen modifications; puruṣa.
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [prakṛti](../terms/prakrti.md), [vikṛti / vikāra](../terms/vikrti.md), [puruṣa](../terms/purusa.md) · concepts: [The twenty-five principles (pañcaviṃśati-tattva)](../concepts/twenty-five-tattvas.md)
+terms: [prakṛti](../terms/prakrti.md), [vikṛti](../terms/vikrti.md), [puruṣa](../terms/purusa.md) · concepts: [The twenty-five principles (pañcaviṃśati-tattva)](../concepts/twenty-five-tattvas.md)
 
 ### 4 <a id="tea-tattvasamasa-4"></a>
 `skeleton` · confidence high
@@ -141,4 +141,4 @@ concepts: [The Sāṃkhya line of teachers](../concepts/samkhya-parampara.md), [
 _Notes: Teaching refs follow Ṣimānanda's 25-sūtra division as printed in the GRETIL 'four versions' file._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._

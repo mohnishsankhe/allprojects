@@ -1,6 +1,6 @@
 # Nyāyadīpikā of Jayatīrtha (on the Gītātātparyanirṇaya)
 
-`src:nyayadipika-jayatirtha` · `skeleton` · confidence moderate
+`src:nyayadipika-jayatirtha` · `sourced` · confidence moderate
 
 **Original title:** न्यायदीपिका
 **Language:** Sanskrit
@@ -21,4 +21,8 @@ Jayatīrtha's commentary on Madhva's Gītātātparyanirṇaya.
 _Notes: Disambiguated from the Jain Nyāyadīpikā of Dharmabhūṣaṇa._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — local:sources_raw/raw_etexts/vedAntam/dvaitam/mAdhvam/sarvamulam/gItAprasthAnam/geeta_ nyayadeepika.md ("gītātātparyanirṇayaṭīkā nyāyadīpikā śrījayatīrthayativiracitā") — Extant and digitized; title and author as entered.
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._

@@ -50,7 +50,7 @@ The ideal of the wandering renouncer (saṃnyāsin, parivrājaka, yati) as set o
 [Brahmā (as first teacher)](../teachers/brahma.md), [Dattātreya](../teachers/dattatreya.md), [Durvāsas](../teachers/durvasas.md), [Hārītaka](../teachers/haritaka.md), [Jaḍabharata](../teachers/jadabharata.md), [Janaka of Videha](../teachers/janaka.md), [Maitreya](../teachers/maitreya.md), [Nārada](../teachers/narada.md), [Nārāyaṇa](../teachers/narayana.md), [Nidāgha](../teachers/nidagha.md), [Prajāpati (as teacher)](../teachers/prajapati.md), [Raivataka](../teachers/raivataka.md), [Ṛbhu](../teachers/rbhu.md), [Saṃvartaka](../teachers/samvartaka.md), [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md), [Śuka](../teachers/suka.md), [Śvetaketu Āruṇeya](../teachers/svetaketu.md), [Uddālaka Āruṇi](../teachers/uddalaka-aruni.md), [Upaniṣad Brahmayogin](../teachers/upanisad-brahmayogin.md), [Vāmadeva](../teachers/vamadeva.md), [Vāsudevāśrama](../teachers/vasudevasrama.md), [Vidyāraṇya](../teachers/vidyaranya.md), [Yādavaprakāśa](../teachers/yadavaprakasa.md), [Yājñavalkya](../teachers/yajnavalkya.md)
 
 ## Practices
-[Contemplating the body's impurity](../practices/body-foulness-contemplation.md), [Living alone (ekacaryā)](../practices/ekacarya.md), [Bee-like alms (mādhukarī)](../practices/madhukari-bhiksa.md), [Moderate diet (mitāhāra)](../practices/mitahara.md), [Wandering (pārivrājya) and the rains retreat](../practices/parivrajya.md), [Meditation on Oṃ (praṇava)](../practices/pranava-dhyana.md), [Renunciation (saṃnyāsa) in the Dharmaśāstra](../practices/samnyasa.md), [The renunciation rite (saṃnyāsa-dīkṣā)](../practices/sannyasa-diksa.md)
+[Contemplating the body's impurity](../practices/body-foulness-contemplation.md), [Living alone (ekacaryā)](../practices/ekacarya.md), [Bee-like alms (mādhukarī)](../practices/madhukari-bhiksa.md), [Moderate diet (mitāhāra) in the haṭha texts](../practices/mitahara.md), [Wandering (pārivrājya) and the rains retreat](../practices/parivrajya.md), [Meditation on Oṃ (praṇava)](../practices/pranava-dhyana.md), [Renunciation (saṃnyāsa) in the Dharmaśāstra](../practices/samnyasa.md), [The renunciation rite (saṃnyāsa-dīkṣā)](../practices/sannyasa-diksa.md)
 
 ## Path maps
 [The grades of renouncer](../paths/sannyasa-six-renunciant-grades.md), [The sequence of the renunciation rite](../paths/sannyasa-rite-sequence.md)
@@ -61,4 +61,4 @@ The ideal of the wandering renouncer (saṃnyāsin, parivrājaka, yati) as set o
 _Notes: Owned by U04. The Saṃnyāsa Upaniṣads are not a single school: most later ones are Advaitin, the Śāṭyāyanīya Vaiṣṇava._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

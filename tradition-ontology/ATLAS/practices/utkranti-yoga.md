@@ -20,4 +20,4 @@ The yogin, choosing the time of death, withdraws the mind, restrains the breaths
 - Addressed to the accomplished yati; the Vāyavīya asks how the practiser who dies before completing yoga avoids becoming a self-killer (ātmahā). — [Śiva Purāṇa](../texts/siva-purana.md) 7.2.37.3
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

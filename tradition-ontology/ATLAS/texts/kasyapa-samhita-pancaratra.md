@@ -12,4 +12,4 @@
 Pāñcarātra saṃhitā on counteracting poison (viṣa) by Garuḍa mantras and ritual — a Vaiṣṇava counterpart of the Gāruḍa tantras.
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._

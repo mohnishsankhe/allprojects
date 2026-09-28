@@ -1,6 +1,6 @@
 # Śaunaka śākhā (Atharvaveda)
 
-`lin:sakha-saunaka` · `skeleton` · confidence moderate
+`lin:sakha-saunaka` · `sourced` · confidence moderate
 
 **Family:** vedic
 **Alternate names:** Śaunakīya
@@ -34,4 +34,8 @@ _none recorded_
 _Notes: Status of living recitation from memory; to be checked._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://ochs.org.uk/lecture/attempts-towards-preservation-and-revival-of-atharvaveda/ — Confirmed: studied mostly in Gujarat, Maharashtra (and Uttar Pradesh); declining and partly revived tradition — as the entry says.
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

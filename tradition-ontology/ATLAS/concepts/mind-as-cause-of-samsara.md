@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [The world as the mind's projection](world-as-projection-of-mind.md): the Yoga Vāsiṣṭha extends the mind's causality to the world itself — rests on [11.23.42-45](../texts/uddhava-gita.md#tea-uddhava-gita-11-23-42-45), [1.2.5-7](../texts/moksopaya.md#tea-moksopaya-1-2-5-7)
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

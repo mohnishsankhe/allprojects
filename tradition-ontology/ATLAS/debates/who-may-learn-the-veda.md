@@ -1,6 +1,6 @@
 # Who may learn and recite the Veda?
 
-`dsp:who-may-learn-the-veda` · `skeleton` · confidence moderate
+`dsp:who-may-learn-the-veda` · `sourced` · confidence moderate
 
 
 ## Sides (recorded before any reconciliation)
@@ -33,4 +33,8 @@ Dayānanda (recent): Vedic study and initiation are open to all, women and men o
 _Notes: Related to U50's dsp:women-caste-liberation._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki/01/004.md, text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/atharvaveda-samhita_saunaka_rechension_unachchented_teXt.md (GRETIL, Roth–Whitney numbering), text:sources_raw/DharmicData/Yajurveda/vajasneyi_ma — All textual loci located or web-confirmed (Bṛhaddevatā 2.82–84). Brahma Sūtra 1.3.34–38 (apaśūdrādhikaraṇa) is standard (not re-checked).
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

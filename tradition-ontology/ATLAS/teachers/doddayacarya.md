@@ -12,4 +12,4 @@
 Mahācārya of Ghaṭikāśatam, a Vaṭakalai polemicist who continued Deśika's attack on Advaita in the Caṇḍamāruta; the tradition sets him against Appayya Dīkṣita.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._

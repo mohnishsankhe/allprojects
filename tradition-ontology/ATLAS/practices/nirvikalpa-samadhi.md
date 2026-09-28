@@ -15,4 +15,4 @@ Absorption in which the mode in the form of Brahman remains without distinction 
 - Four obstacles: laya, vikṣepa, kaṣāya, rasāsvāda. — [Vedāntasāra](../texts/vedantasara.md) obstacles
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

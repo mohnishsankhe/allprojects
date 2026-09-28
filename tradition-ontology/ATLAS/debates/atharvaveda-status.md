@@ -1,6 +1,6 @@
 # Is the Veda threefold (trayī), or is the Atharvaveda a Veda of equal (or higher) rank?
 
-`dsp:atharvaveda-status` · `skeleton` · confidence moderate
+`dsp:atharvaveda-status` · `sourced` · confidence moderate
 
 
 ## Sides (recorded before any reconciliation)
@@ -25,4 +25,8 @@ The Atharvaveda is the fourth Veda and, as the Brahmaveda, belongs to the brahm�
 **The traditions' own objections:** The Atharvavedic tradition claims more than a fourth place (the Brahmaveda over the others); the reconciliation does not decide that claim.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/gopatha-brahmana.md, text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/4_upa/Chandogya-upanisad_Chandogyopanisad_mula-text.md, text:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki/01/004.md — The low-confidence note is confirmed: Gopatha Brāhmaṇa 1.2.24 'atharvāṅgirovidam eva brahmāṇaṃ vṛṇīṣva, sa hi brahmatvaṃ veda' (and 1.1.28–29 on the Bhṛgvaṅgirovids); Chāndogya 7.1.2 lists the Atharvaveda fourth; Bhāgavata 1.4.19–22 located.
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

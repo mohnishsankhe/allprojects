@@ -13,4 +13,4 @@ A compendium of Siddha formulations gathered from the classical verse-works, use
 _Notes: Compiler and date not recalled; possibly a 20th-c. compilation (then recent)._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._

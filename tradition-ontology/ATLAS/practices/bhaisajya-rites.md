@@ -3,8 +3,8 @@
 `prc:bhaisajya-rites` · `skeleton` · confidence moderate
 
 **Category:** ritual
-**Convergence:** 2 independent lineage(s): `lin:ayurveda`, [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
-**Taught in:** `lin:ayurveda`, [Paippalāda śākhā (Atharvaveda)](../lineages/sakha-paippalada.md), [Śaunaka śākhā (Atharvaveda)](../lineages/sakha-saunaka.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
+**Convergence:** 2 independent lineage(s): [Āyurveda](../lineages/ayurveda.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
+**Taught in:** [Āyurveda](../lineages/ayurveda.md), [Paippalāda śākhā (Atharvaveda)](../lineages/sakha-paippalada.md), [Śaunaka śākhā (Atharvaveda)](../lineages/sakha-saunaka.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
 
 Healing by recitation of the hymns with plants, water, amulets, fire and the sun, touching the patient, and sending the disease away to distant places or creatures (fever, jaundice, leprosy, worms, consumption).
 **Sources:** 
@@ -15,4 +15,4 @@ Healing by recitation of the hymns with plants, water, amulets, fire and the sun
 _Notes: Summary only; the Kauśika Sūtra gives the rite details (U02)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

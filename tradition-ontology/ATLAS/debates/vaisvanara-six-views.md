@@ -24,4 +24,4 @@ Aśvapati Kaikeya: each is only one part (head, eye, breath, trunk, bladder, fee
 **The traditions' own objections:** Aśvapati warns that each partial view alone would have brought harm; the parts are not sufficient in isolation.
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

@@ -8,4 +8,4 @@
 The 'dull' Bharata who hid his knowledge; named among the paramahaṃsas (Jābāla 6; Bhikṣuka) and among rudrākṣa-wearers.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

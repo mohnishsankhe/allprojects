@@ -18,4 +18,4 @@
 If the yogin falls short, the effort is carried into a later birth (6.40–45).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

@@ -14,4 +14,4 @@ A Sanskrit dialogue on Śaiva doctrine opening with homage to Śiva as the liṅ
   - kind: original; name: Muktabodha digital library e-text M00617 (print 1920; verses only)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._

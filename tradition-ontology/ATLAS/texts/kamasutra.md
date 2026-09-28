@@ -47,4 +47,4 @@ disputes: [Which aim of life is foremost — dharma, artha, kāma, their combina
 _Notes: Only the trivarga teaching is recorded here; the text's other contents are out of scope. Commentary: Yaśodhara's Jayamaṅgalā._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

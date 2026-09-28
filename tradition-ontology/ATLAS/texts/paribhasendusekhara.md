@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:vyakarana`, [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md)
+**Lineages:** [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md), [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md)
 **Genre:** vyākaraṇa (paribhāṣā)
 **Authors:** 
   - [Nāgeśa Bhaṭṭa](../teachers/nagesa-bhatta.md) — role: author; attribution: accepted
@@ -14,4 +14,4 @@
 Nāgeśa Bhaṭṭa's treatise on the interpretive metarules (paribhāṣā) by which Pāṇini's sūtras are applied.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

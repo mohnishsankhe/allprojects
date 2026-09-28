@@ -19,4 +19,4 @@ Khaṇḍadeva Miśra's concise, sharply argued Bhāṭṭa commentary on the M�
 **Commentaries on this text:** [Prabhāvalī](prabhavali.md)
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

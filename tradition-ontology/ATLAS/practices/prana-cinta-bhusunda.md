@@ -14,4 +14,4 @@ Continuous contemplation of the natural movement of prāṇa and apāna from and
 _Notes: Summary only; no counts or durations are recorded. The YV presents it as akin to contemplation of the Self, not as forced retention._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

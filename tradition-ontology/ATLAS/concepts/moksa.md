@@ -17,8 +17,12 @@
 - [Puṣṭimārga (Vallabha Sampradāya; Śuddhādvaita Brahmavāda)](../lineages/pustimarga.md): Maryādā souls attain union (sāyujya) or Akṣara; puṣṭi souls receive service in the Lord's play, valued above liberation.
 - [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md): Freedom from māyā is a by-product; the goal is prema-service in Kṛṣṇa's abode; sāyujya is rejected.
 - [Śiva-viśiṣṭādvaita (Śaiva Vedānta of Śrīkaṇṭha)](../lineages/siva-visistadvaita.md): Equality with Śiva.
+- [Mahānubhāva panth](../lineages/mahanubhava.md): Liberation is given by Parameśvara alone through the incarnations; the devatās cannot give it.
+- [Ekaśaraṇa Dharma](../lineages/ekasarana.md): The devotee does not desire liberation, only devotion.
+- [Vārkarī sampradāya](../lineages/varkari.md): Liberation is not asked for; remembrance and the saints' company are.
+- [Rāmdāsī sampradāya (Samartha sampradāya)](../lineages/ramdasi.md): Union (sāyujya) is the only lasting liberation; the accomplished is free while living.
 
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U03-principal-upanisads, skeleton:U14-visistadvaita, skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U03-principal-upanisads, skeleton:U14-visistadvaita, skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._

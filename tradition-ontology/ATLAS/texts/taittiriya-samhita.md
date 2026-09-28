@@ -1,6 +1,6 @@
 # Taittirīya Saṃhitā
 
-`src:taittiriya-samhita` · `skeleton` · confidence high
+`src:taittiriya-samhita` · `sourced` · confidence high
 
 **Original title:** तैत्तिरीयसंहिता
 **Language:** Sanskrit
@@ -20,10 +20,10 @@ The Black Yajurveda Saṃhitā of the Taittirīya school: the adhvaryu priest's 
   - kind: translation; name: A. B. Keith, The Veda of the Black Yajus School (1914); licence: public domain
 **Commentaries on this text:** [Jñānayajña (Bhaṭṭa Bhāskara on the Taittirīya Saṃhitā)](jnanayajna.md), [Sāyaṇa's commentary on the Taittirīya Saṃhitā](taittiriya-samhita-bhasya-sayana.md)
 
-## Teachings (8: skeleton 8)
+## Teachings (8: sourced 6, skeleton 2)
 
 ### 1.8.6 <a id="tea-taittiriya-samhita-1-8-6"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 In the Tryambaka offering, the Tryambaka verse ('we worship Tryambaka … may I be freed from death, not from immortality') is followed by: 'this is your share, Rudra; with this provision go beyond the Mūjavants, your bow unstrung, Pināka in hand, clad in skin'.
 
@@ -32,7 +32,7 @@ _level: conventional · standpoint: ritual · path: ritual, sound · stage: all 
 terms: [tryambaka](../terms/tryambaka.md), [rudra](../terms/rudra.md) · concepts: [Rudra in the Saṃhitās](../concepts/rudra-vedic.md) · practices: [Repetition of the Mahāmṛtyuñjaya (Tryambaka) verse](../practices/mahamrtyunjaya-japa.md), [The seasonal rites (cāturmāsya)](../practices/caturmasya.md)
 
 ### 4.5.1 <a id="tea-taittiriya-samhita-4-5-1"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Homage to your wrath, Rudra, and to your arrow; homage to your bow and your two arms; with your most auspicious body, not terrible, not revealing evil (aghorā apāpakāśinī), look on us, mountain-dweller; the first divine physician has spoken for us; the blue-necked, red one who creeps away, whom cowherds and water-bearing women have seen and all beings see — may he, seen, be gracious to us; unstring your bow and turn your arrows away.
 
@@ -43,7 +43,7 @@ _level: conventional · standpoint: devotional · path: sound, devotion · stage
 terms: [rudra](../terms/rudra.md), [śiva](../terms/siva.md), [nīlagrīva](../terms/nilagriva.md), [śatarudrīya](../terms/satarudriya.md), [namaka](../terms/namaka.md) · concepts: [Rudra in the Saṃhitās](../concepts/rudra-vedic.md) · practices: [Recitation of the Śatarudrīya with the Camaka (Rudra-japa)](../practices/rudra-japa.md)
 
 ### 4.5.2-9 <a id="tea-taittiriya-samhita-4-5-2-9"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 The litany of homage (namaḥ … namaḥ): to Rudra as lord of the quarters, trees, animals, paths, food and the well-nourished; as lord of thieves, robbers and forest-rangers; as present in hosts and their lords, in carpenters, chariot-makers, potters, smiths, hunters and dog-keepers; in the small and the great, the elder and the younger, the first-born and the last-born; in paths and streams, in pools and rains, in clouds and lightning, in grass, leaves and dust; as the blue-throated and the white-throated, the one with braided hair and the shaven, the one with a thousand eyes and a hundred quivers.
 
@@ -52,7 +52,7 @@ _level: ultimate · standpoint: devotional · path: sound, devotion · stage: al
 terms: [rudra](../terms/rudra.md), [namaka](../terms/namaka.md), [kapardin](../terms/kapardin.md), [paśupati](../terms/pasupati.md), [nīlagrīva](../terms/nilagriva.md) · concepts: [Rudra in the Saṃhitās](../concepts/rudra-vedic.md) · practices: [Recitation of the Śatarudrīya with the Camaka (Rudra-japa)](../practices/rudra-japa.md), [Rudrābhiṣeka (bathing the liṅga with the Rudram)](../practices/rudrabhiseka.md)
 
 ### 4.5.8 <a id="tea-taittiriya-samhita-4-5-8"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Homage to Soma and to Rudra … homage to the source of happiness and the source of delight (śambhu, mayobhu), to the maker of happiness and the maker of delight (śaṅkara, mayaskara), to the auspicious and the more auspicious (namaḥ śivāya ca śivatarāya ca).
 
@@ -63,7 +63,7 @@ _level: conventional · standpoint: devotional · path: sound, devotion · stage
 terms: [śiva](../terms/siva.md), [pañcākṣara](../terms/pancaksara.md), [rudra](../terms/rudra.md) · concepts: [Rudra in the Saṃhitās](../concepts/rudra-vedic.md) · practices: [Recitation of the Śatarudrīya with the Camaka (Rudra-japa)](../practices/rudra-japa.md)
 
 ### 4.5.11 <a id="tea-taittiriya-samhita-4-5-11"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 The countless thousands of Rudras on the earth, in the atmosphere and in heaven, blue-necked and white-throated, in trees, in food, in drink, on the paths — their bows are unstrung a thousand leagues away; homage to them all, with ten (fingers) to each quarter; may they be gracious to us; whom we hate and who hates us we place in their jaws.
 
@@ -72,7 +72,7 @@ _level: conventional · standpoint: devotional · path: sound, devotion · stage
 terms: [rudra](../terms/rudra.md) · concepts: [Rudra in the Saṃhitās](../concepts/rudra-vedic.md) · practices: [Recitation of the Śatarudrīya with the Camaka (Rudra-japa)](../practices/rudra-japa.md)
 
 ### 4.7.1-11 <a id="tea-taittiriya-samhita-4-7-1-11"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The Camaka: 'food and impulse for me … in-breath, out-breath and diffused breath for me, life (asu), thought (citta), what is thought upon, speech, mind, eye, ear, skill, strength, vigour … truth and faith for me … the past and the future for me … ṛta and the immortal, freedom from sickness, long life, fearlessness for me … the soma-rites and their vessels for me … one, three, five … four, eight, twelve … for me' — each to be made fit by the sacrifice.
 
@@ -100,4 +100,8 @@ terms: [varṇa](../terms/varna.md), [chandas](../terms/chandas.md) · concepts:
 
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Taittirīyasaṃhitā, text:sources_raw/raw_etexts/vedaH/yajur/taittirIya/mUlam/saMhitA/4/5.md, https://hindupedia.com/en/Taittiriya_Samhit%C4%81, https://en.wikipedia.org/wiki/Taittiriya_Shakha, https://en.wikipedia.org/wiki/Yajurveda — Extant; 7 kāṇḍas, 44 prapāṭhakas, 651 anuvākas confirmed; Śatarudrīya at 4.5 and Camaka at 4.7 located. Scholarly date (c. 1000–800 BCE prose) within Witzel's 1200–800 BCE for the Yajurveda. Vaiśampāyana → Taittirīyas is the Purāṇic account (Viṣṇu Purāṇa 3.5, located).
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

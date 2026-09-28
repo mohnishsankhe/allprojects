@@ -1,6 +1,6 @@
 # Pravargya (the hot-milk rite)
 
-`prc:pravargya` · `skeleton` · confidence moderate
+`prc:pravargya` · `sourced` · confidence moderate
 
 **Category:** ritual
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -15,4 +15,8 @@ A rite within the Soma sacrifice in which milk is heated in a clay pot (mahāvī
 - Treated as a dangerous, secret rite to be learned apart (in the Āraṇyaka) from a qualified teacher. — [Taittirīya Āraṇyaka](../texts/taittiriya-aranyaka.md) 4-5
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Yajurveda/vajasneyi_madhyadina_samhita.json — VS 37–39 carry the pravargya formulas (37.1 'devasya tvā savituḥ prasave … ā dade'), VS 36 the preliminary śānti formulas — 'VS 36–39' confirmed.
+
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

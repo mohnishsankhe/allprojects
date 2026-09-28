@@ -70,4 +70,4 @@ The Vedānta school founded by Madhva (Ānandatīrtha, 13th c.), called by its a
 _Notes: The tradition's teacher line before Madhva (the 'Haṃsa paramparā': Haṃsa-Nārāyaṇa, Brahmā, the Sanaka group, Durvāsas, then a line of ascetics ending in Acyutaprekṣa) is recalled here only in outline; the intermediate names are not listed because they were not verified in this pass. A traditional verse likens the doctrine to a tree: seed sown by Vyāsa in the soil of śruti, sprouted by Madhva, branched by Jayatīrtha, leaved by Vyāsarāja, flowered by Vijayīndra and fruited by Rāghavendra (quoted as a preface verse in a modern edition in the raw_etexts corpus; author not identified). Further maṭhas (Śrīpādarāja maṭha at Mulbagal, Subrahmaṇya, Bhīmanakaṭṭe, Bhaṇḍārakeri; the Gauḍa Sārasvata Mādhva maṭhas of Kāśī and Gokarṇa-Partagāḷī) are mentioned without separate entries — details not verified._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._

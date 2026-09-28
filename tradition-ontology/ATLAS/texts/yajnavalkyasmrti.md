@@ -17,7 +17,7 @@
 A concise metrical code taught by the sage Yājñavalkya in Mithilā, in three books: conduct (ācāra) — sources of dharma, the fourteen branches of knowledge and the twenty lawgivers (1.3–5), the highest dharma as seeing the self through yoga (1.8), the sacraments, twilight worship with breath control (1.22–25), the householder, śrāddha and kingship; legal procedure (vyavahāra) — where dharmaśāstra prevails over arthaśāstra (2.21); and expiation (prāyaścitta) — death-impurity and funeral rites (3.1ff), the renouncer, and an extended teaching on the self, its embodiment, meditation, the self as one and many like space in pots (3.144), liberation through music for one who knows the vīṇā (3.115), and the signs of yogic power (3.202–203).
 **Commentaries on this text:** [Aparārka's commentary on Yājñavalkya](apararka-tika.md), [Bālakrīḍā of Viśvarūpa](balakrida.md), [Mitākṣarā of Vijñāneśvara](mitaksara.md)
 
-## Teachings (11: skeleton 11)
+## Teachings (15: skeleton 15)
 
 ### 1.3 <a id="tea-yajnavalkyasmrti-1-3"></a>
 `skeleton` · confidence high
@@ -73,6 +73,33 @@ _level: conventional · standpoint: ethical-social · path: general · stage: al
 
 concepts: [The dharma common to all (sādhāraṇa-dharma)](../concepts/common-dharma.md)
 
+### 1.295-306 <a id="tea-yajnavalkyasmrti-1-295-306"></a>
+`skeleton` · confidence moderate
+
+One who desires prosperity or peace, rain, long life or nourishment, or seeks to harm enemies, should perform the sacrifice to the planets: the Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rāhu and Ketu. Their images are to be made of copper, crystal, red sandal, gold, silver, iron, lead and bronze, or drawn in their colours; they are worshipped with their own Vedic mantras, fuel-sticks of arka, palāśa, khadira, apāmārga, pippala, udumbara, śamī, dūrvā and kuśa, suitable foods and flowers, and appropriate gifts to brahmins.
+
+_level: conventional · standpoint: ritual · path: ritual · stage: all · types: world-fate, practice_
+
+concepts: `cpt:navagraha-correspondences`, `cpt:remedial-measures` · practices: `prc:graha-santi`, `prc:graha-dana`
+
+### 1.307-308 <a id="tea-yajnavalkyasmrti-1-307-308"></a>
+`skeleton` · confidence moderate
+
+Whoever is badly placed for a man at a given time should be worshipped by him with special care; Brahmā granted the planets this boon: 'When worshipped, you shall honour (the worshipper).' The rise and fall of kings and the existence and non-existence of the world depend on the planets; therefore the planets are most worthy of worship.
+
+_level: conventional · standpoint: ritual · path: ritual · stage: all · types: world-fate, karma-liberation_
+
+concepts: `cpt:remedial-measures` · practices: `prc:graha-santi` · disputes: `dsp:grahas-cause-or-sign`
+
+### 1.349-351 <a id="tea-yajnavalkyasmrti-1-349-351"></a>
+`skeleton` · confidence moderate
+
+Success in action rests on fate and on human effort; of these, fate is simply human effort of a former body made manifest. Some expect success from fate, some from nature, some from time, some from human effort; the wise from all of them together. As a chariot cannot move on one wheel, so fate does not succeed without human effort.
+
+_level: conventional · standpoint: causal · path: action · stage: all · types: world-fate, karma-liberation, dispute_
+
+terms: [daiva](../terms/daiva.md), [puruṣakāra](../terms/purusakara.md) · concepts: `cpt:daiva-and-purusakara-jyotisa` · disputes: `dsp:jyotisa-fate-and-effort`
+
 ### 2.21 <a id="tea-yajnavalkyasmrti-2-21"></a>
 `skeleton` · confidence high
 
@@ -100,6 +127,15 @@ _level: bridging · standpoint: seeker · path: sound · stage: intermediate · 
 
 terms: [nāda](../terms/nada.md) · concepts: [Yoga in the Dharmaśāstra](../concepts/yoga-in-dharmasastra.md)
 
+### 3.116 <a id="tea-yajnavalkyasmrti-3-116"></a>
+`skeleton` · confidence moderate
+
+If one who knows song does not reach the supreme state by yoga, he becomes an attendant of Rudra and rejoices with him.
+
+_level: conventional · standpoint: seeker · path: sound, devotion · stage: all · types: karma-liberation, practice_
+
+concepts: `cpt:music-as-path` · practices: [Worship through music (nādopāsana)](../practices/nadopasana.md)
+
 ### 3.144 <a id="tea-yajnavalkyasmrti-3-144"></a>
 `skeleton` · confidence high
 
@@ -122,4 +158,4 @@ concepts: [Yoga in the Dharmaśāstra](../concepts/yoga-in-dharmasastra.md)
 _Notes: Commentaries: Viśvarūpa (Bālakrīḍā), Vijñāneśvara (Mitākṣarā), Aparārka, Śūlapāṇi (Dīpakalikā)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

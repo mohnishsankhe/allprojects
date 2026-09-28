@@ -13,4 +13,4 @@ A Sāmaveda sūtra on the metres of the verses and the structure of the chants a
 _Notes: Sometimes ascribed to a Patañjali; ascription not asserted here._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

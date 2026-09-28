@@ -12,4 +12,4 @@ The mind is restless, turbulent, strong and obstinate, as hard to restrain as th
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.33–35; 6.26; rests_on: ["tea:bhagavad-gita:6.33-34", "tea:bhagavad-gita:6.35", "tea:bhagavad-gita:6.26"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

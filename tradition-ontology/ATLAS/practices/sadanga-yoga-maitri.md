@@ -18,4 +18,4 @@ Breath-control, withdrawal of the senses, meditation, concentration, contemplati
 _Notes: Recorded as the text states it; later haṭha elaborations of the palate practice (khecarī) are restricted and belong to other units. Distinct from the Kālacakra six-branch yoga._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

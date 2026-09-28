@@ -13,4 +13,4 @@ The Kauthuma Sāmaveda index of the seers (ṛṣi) of the sāman chants; the tr
 _Notes: Local copy: vedaH/sAma/kauthumam/brAhmaNam (with Sāyaṇa's commentary, OCR)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

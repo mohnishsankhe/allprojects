@@ -14,4 +14,4 @@
 Appayya Dīkṣita's commentary on the Vedāntakalpataru, completing the Bhāmatī commentarial chain.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

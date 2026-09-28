@@ -39,4 +39,4 @@ terms: [vāc](../terms/vac.md)
 _Notes: The GRETIL e-text numbers the 'speech in the north' passage 7.7 (sentences 35–37); older citations give 7.6._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

@@ -24,4 +24,4 @@ Bādarāyaṇa: the guide leads those who do not meditate on symbols (Rāmānuja
 **Candidate readings:** Advaita: the path serves saguṇa meditators and ends in krama-mukti; nirguṇa knowers do not travel.; Viśiṣṭādvaita: all released souls travel to the supreme Brahman.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

@@ -1,6 +1,6 @@
 # Kiṣkindhākāṇḍa
 
-`src:kiskindhakanda` · `skeleton` · confidence high
+`src:kiskindhakanda` · `sourced` · confidence high
 
 **Original title:** किष्किन्धाकाण्ड
 **Language:** Sanskrit
@@ -20,4 +20,8 @@ The book of Kiṣkindhā: the alliance with Sugrīva, the killing of Vālin and 
   - kind: original; name: DharmicData JSON of the Vālmīki Rāmāyaṇa (southern vulgate numbering); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:GRETIL-dev:valmiki_ramayana_4, local:sources_raw/DharmicData/ValmikiRamayana (southern vulgate) book 4 — Book 4 of the Vālmīki Rāmāyaṇa, digitized in several local editions.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

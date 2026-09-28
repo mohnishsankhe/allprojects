@@ -13,4 +13,4 @@ Contemplating every act of cognition as the sequence of the twelve Kālīs - emi
   - [Kramastotra (Abhinavagupta)](../texts/kramastotra-abhinavagupta.md) — ref: 15-27; rests_on: ["tea:kramastotra-abhinavagupta:15-27"]
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

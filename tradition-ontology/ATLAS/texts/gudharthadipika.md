@@ -1,6 +1,6 @@
 # Gūḍhārthadīpikā
 
-`src:gudharthadipika` · `skeleton` · confidence high
+`src:gudharthadipika` · `sourced` · confidence high
 
 **Original title:** गूढार्थदीपिका
 **Language:** Sanskrit
@@ -17,7 +17,7 @@ Madhusūdana Sarasvatī's commentary on the Bhagavad Gītā, reading its three h
 **Editions / translations:** 
   - kind: original; name: gita/gita JSON corpus (Sanskrit text, transliteration, several commentaries); licence: Unlicense; url: https://github.com/gita/gita
 
-## Teachings (2: skeleton 2)
+## Teachings (2: skeleton 1, sourced 1)
 
 ### 15 <a id="tea-gudharthadipika-15"></a>
 `skeleton` · confidence moderate
@@ -31,7 +31,7 @@ _level: unmarked · standpoint: devotional · path: devotion · stage: all · ty
 concepts: [Devotion (bhakti) in Advaita](../concepts/bhakti-in-advaita.md) · teachers: [Madhusūdana Sarasvatī](../teachers/madhusudana-sarasvati.md) · disputes: `dsp:saguna-nirguna`
 
 ### intro <a id="tea-gudharthadipika-intro"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 Madhusūdana's introduction: the Gītā has three sections of six chapters each — on action, on devotion (upāsanā) and on knowledge — corresponding to the three parts of the Veda; the first teaches the meaning of 'thou', the second of 'that', the third their identity.
 
@@ -41,4 +41,8 @@ concepts: [The paths of the Gītā: action, knowledge, meditation and devotion](
 
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Gūḍhārthadīpikā, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/bhagavadgItA/vedavyAsaH/bhagavadgItA-vyAkhyAchatuShTayopetA.md (intro verses 2-11), https://en.wikipedia.org/wiki/Madhus%C5%ABdana_Sarasvat%C4%AB — Extant and digitized. Scholarly estimates for Madhusūdana range c. 1490–1632 (Wikipedia gives c. 1490–1580); the entry's 16th–17th c. (1540–1650) overlaps these; the upper bound may be slightly late.
+
+_Contributed by: skeleton:U13-advaita, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

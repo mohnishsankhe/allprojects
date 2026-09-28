@@ -9,4 +9,4 @@
 A king of the Ikṣvāku line who, having installed his son and renounced his kingdom, practised austerities in the forest and asked Śākāyanya about the self, lamenting the foulness of the body and the transience of all things (MaiU 1.2-4).
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

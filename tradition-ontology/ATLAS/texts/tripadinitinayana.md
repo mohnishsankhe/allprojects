@@ -17,4 +17,4 @@ Murāri Miśra's short work on the opening of the Mīmāṃsā Sūtra, surviving
 _Notes: Title spelled Tripādīnītinayana in the modern survey I could consult; the scope of 'tripādī' is not certain._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

@@ -16,4 +16,4 @@
 _Notes: Evidence: series titles on the Muktabodha e-texts M00602, M00612, M00620; relevant to dsp:lingayata-hindu-identity._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._

@@ -19,4 +19,4 @@ The pupil learns the text orally from the teacher in the continuous form (saṃh
 - Reciting without understanding is 'dry fuel without fire' (Nirukta 1.18). — [Nirukta](../texts/nirukta.md) 1.18
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

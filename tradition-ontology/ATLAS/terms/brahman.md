@@ -18,16 +18,19 @@
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): In the Purāṇas the supreme reality, identified with Viṣṇu (VP), Śiva (ŚiP), or the Goddess (DBhP); one of three names of non-dual knowledge (BhP 1.2.11).
 - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): The supreme reality, Nārāyaṇa, great in essence and qualities and making others great; qualified (saviśeṣa) by souls and matter, never an attributeless consciousness.
 - [Vīraśaiva / Liṅgāyata](../lineages/virasaiva.md): The liṅga itself, so named for its vastness and expanding (SSM 6.36–38); the liṅga of light by whose light all shines (12.38–41).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: In 2.72 in the compounds brāhmī sthiti and brahmanirvāṇa (the state and goal of the one of steady wisdom). In 3.15 'brahma' arises from the imperishable and is the source of action, and the 'all-pervading brahman' is established in sacrifice; commentators take brahma in 3.15 as the Veda or as prakṛti.
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): U04 usage: the one reality realized as 'so'ham'; the soundless beyond nāda; the goal of renunciation; named as Nārāyaṇa, Śiva, Rāma or the Goddess in the sectarian Upaniṣads.
+- [Dādū Panth](../lineages/dadu-panth.md): Sundardās: the one without a second, known at the end of the path as one's own self.
+- [Sant Mat (Radhasoami and its successor lines)](../lineages/sant-mat.md): Brahm is the ruler of Trikuṭī and the universal mind, the highest god of the Vedas but within Kāl's domain; Pārbrahm is the region above it.
 
 ## Forms in other languages
 - Pali: brahma  — partial — used in Pali mostly for the deity Brahmā or as 'excellent'
 
 ## Equivalents (interpretation layer)
 - same-under-standpoint: [ātman](atman.md) (pāramārthika (Advaita)) — Advaita holds Brahman and the inner self identical; other Vedānta schools deny strict identity.
-**Related:** [jyeṣṭha brahman](jyestha-brahman.md), [brahmán (priest)](brahman-priest.md), [bṛhaspati](brhaspati.md), [ātman](atman.md), [akṣara](aksara.md), [bhūman](bhuman.md), [saccidānanda](saccidananda.md), [nirguṇa](nirguna.md), [saguṇa](saguna.md), [īśvara](isvara.md), [Viṣṇu](visnu.md), [aṣṭa-kartṛtva](asta-kartrtva.md), [brahma-nirvāṇa](brahma-nirvana.md)
+**Related:** [jyeṣṭha brahman](jyestha-brahman.md), [brahmán (priest)](brahman-priest.md), [bṛhaspati](brhaspati.md), [ātman](atman.md), [akṣara](aksara.md), [bhūman](bhuman.md), [saccidānanda](saccidananda.md), [nirguṇa](nirguna.md), [saguṇa](saguna.md), [īśvara](isvara.md), [Viṣṇu](visnu.md), [aṣṭa-kartṛtva](asta-kartrtva.md), [brahmanirvāṇa](brahma-nirvana.md), [brāhmī sthiti](brahmi-sthiti.md), [veda](veda.md)
 
 _Notes: U01 contribution: the Saṃhitā senses. The Upaniṣadic and Vedānta definitions are contributed by other units._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U15-dvaita, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U14-visistadvaita, skeleton:U20-virasaiva, skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U15-dvaita, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U14-visistadvaita, skeleton:U20-virasaiva, extraction:bhagavad-gita/ch01-03, skeleton:U04-minor-upanisads, skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._

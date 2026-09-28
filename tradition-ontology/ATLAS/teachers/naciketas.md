@@ -11,4 +11,4 @@ Boy who, given to Death by his father, waits three nights in Yama's house and ch
 **Realization — the tradition's account:** KU 2.3.18: having received this knowledge from Death and the whole rule of yoga, Naciketas attained brahman and became free of stain and death.
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga, skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga, skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

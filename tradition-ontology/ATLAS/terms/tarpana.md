@@ -7,6 +7,7 @@
 **Literal:** satisfying
 
 ## Definitions by tradition
+- [Śrīvidyā](../lineages/srividya.md): Libation that satisfies the deity; the Goddess is 'gratified by libation into the bindu' (LSN 178) and 'by secret libations' (LSN 83).
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): The water-offering to the ancestors (and gods and seers), the daily sacrifice to the ancestors (MDh 3.70).
 
 ## Forms in other languages
@@ -14,4 +15,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

@@ -1,6 +1,6 @@
 # Kaṭha śākhā (Black Yajurveda)
 
-`lin:sakha-katha` · `skeleton` · confidence moderate
+`lin:sakha-katha` · `sourced` · confidence moderate
 
 **Family:** vedic
 **Alternate names:** Kāṭhaka, Caraka-Kaṭha
@@ -32,4 +32,8 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Kāṭhakasaṃhitā, catalog:eBharati:kAThakagRhyasUtram, catalog:eBharati:laugAxigRhyasUtrANi, https://en.wikipedia.org/wiki/Shakha — Confirmed: Kāṭhaka Saṃhitā extant in manuscript (DCS); Kāṭhaka/Laugākṣi Gṛhya Sūtra extant; Kashmiri connection standard. Status 'absorbed' is a classification choice.
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

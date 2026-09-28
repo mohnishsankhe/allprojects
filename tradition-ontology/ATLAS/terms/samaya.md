@@ -1,19 +1,23 @@
 # samaya
 
-`trm:samaya` · `skeleton` · confidence moderate
+`trm:samaya` · `skeleton` · confidence high
 
 **Language:** Sanskrit
 **Native script:** समय
-**Literal:** agreement, convention; observance
+**Literal:** convention, agreement; equality
 
 ## Definitions by tradition
+- [Samaya school of Śrīvidyā (Samayācāra)](../lineages/samaya-srividya.md): The inner way: worship of the Śrīcakra in the space of the heart; also Śiva as 'Samaya', who has fivefold equality with the Goddess, 'Samayā' (Lakṣmīdhara on SL 8, 41).
+- [Śrīvidyā](../lineages/srividya.md): Bhāskararāya: imagining the cakra in the dahara-space and worshipping there is called Samaya; the five tantras of Vasiṣṭha and the others are called Samaya; or Samaya is Śiva who shares fivefold equality with the Goddess (on LSN 37).
+- [Kaula (the Kula tradition)](../lineages/kaula.md): The pledges and rules binding the initiate; without the samaya discipline there is no perfection (Kulārṇava 5.96).
+- [Kubjikā tradition (Paścimāmnāya, the 'Western Transmission')](../lineages/kubjika.md): The pledges which tāmasa disciples fail to honour, becoming 'dead while living' (Kubjikāmata 12.4-9).
 - [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md): The post-initiatory rules binding the initiate; for those unable to keep them they may be purified away, and knowingly breaking them is a great fault.
 - [Trika ('the Triad')](../lineages/trika.md): The observances binding an initiate (TĀ 15); the Mata scriptures reject them (TĀ 4.262).
 
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-**Related:** [samaya-dīkṣā](samaya-diksa.md)
+**Related:** [samayācāra](samayacara.md), [samayin](samayin.md), [kaula](kaula.md), [samaya-dīkṣā](samaya-diksa.md)
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U24-kali-kaula, skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

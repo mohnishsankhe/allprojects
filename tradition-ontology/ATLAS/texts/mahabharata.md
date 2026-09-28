@@ -1,6 +1,6 @@
 # Mahābhārata
 
-`src:mahabharata` · `skeleton` · confidence high
+`src:mahabharata` · `sourced` · confidence high
 
 **Alternate titles:** Bhārata, Jaya, Śatasāhasrī Saṃhitā, Kārṣṇa Veda
 **Original title:** महाभारत
@@ -24,17 +24,17 @@ The great epic of the Bhārata war between the Pāṇḍavas and the Kauravas, c
   - kind: original; name: Vulgate with Nīlakaṇṭha's Bhāratabhāvadīpa (Bombay/Poona editions); Gita Press, Gorakhpur (with Hindi); licence: print
 **Commentaries on this text:** [Bhāratabhāvadīpa of Nīlakaṇṭha Caturdhara](bharatabhavadipa.md), [Jñānadīpikā of Devabodha](jnanadipika-devabodha.md), [Lakṣālaṅkāra](laksalankara.md), [Mahābhārata-tātparya-nirṇaya](mahabharata-tatparya-nirnaya.md)
 
-## Teachings (33: skeleton 33)
+## Teachings (34: sourced 32, skeleton 2)
 
 ### 1.1.50 <a id="tea-mahabharata-1-1-50"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Some learned brāhmaṇas recite the Bhārata from Manu onward, others from the story of Āstīka, others from Uparicara.
 
 _level: unmarked · standpoint: analytic · path: general · stage: all · types: teacher-transmission_
 
 ### 1.1.61 <a id="tea-mahabharata-1-1-61"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Vyāsa made a Bhārata collection of twenty-four thousand verses; without the sub-stories, so much is called the Bhārata by the learned.
 
@@ -43,7 +43,7 @@ _level: conventional · standpoint: analytic · path: general · stage: all · t
 teachers: [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md)
 
 ### 1.1.205 <a id="tea-mahabharata-1-1-205"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 One who knows this Veda of Kṛṣṇa (Dvaipāyana) and causes it to be heard obtains his aim, and is freed of sin, even that of killing an embryo.
 
@@ -52,7 +52,7 @@ _level: conventional · standpoint: ritual · path: sound, general · stage: all
 terms: [pañcama veda](../terms/pancama-veda.md), [itihāsa](../terms/itihasa.md)
 
 ### 1.11.12 <a id="tea-mahabharata-1-11-12"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Non-violence is the highest dharma, declared for all beings that breathe; therefore a brāhmaṇa should never harm any living being.
 
@@ -62,8 +62,17 @@ _level: conventional · standpoint: ethical-social · path: general · stage: al
 
 terms: [ahiṃsā](../terms/ahimsa.md) · concepts: [Non-violence and non-cruelty (ahiṃsā, ānṛśaṃsya)](../concepts/non-violence.md) · disputes: [May one kill in battle as one's own dharma — and what of non-violence as the highest dharma?](../debates/violence-and-svadharma.md), [Is the killing of animals in Vedic sacrifice dharma?](../debates/animal-sacrifice-epic.md)
 
+### 1.17 <a id="tea-mahabharata-1-17"></a>
+`skeleton` · confidence moderate
+
+At the churning of the ocean, as the gods drank the nectar, the dānava Rāhu took the form of a god and drank; the Sun and Moon revealed him, and Nārāyaṇa cut off his head with the discus while the nectar was in his throat. The head, made immortal, rose roaring to the sky; from then the head of Rāhu bears lasting enmity to Sun and Moon and swallows them even now.
+
+_level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate_
+
+terms: `trm:rahu` · concepts: `cpt:eclipse-doctrine` · disputes: `dsp:eclipse-cause`
+
 ### 1.56.33 <a id="tea-mahabharata-1-56-33"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Whatever is here concerning dharma, artha, kāma and mokṣa is found elsewhere; what is not here is found nowhere.
 
@@ -74,7 +83,7 @@ _level: conventional · standpoint: analytic · path: general · stage: all · t
 terms: [puruṣārtha](../terms/purusartha.md) · concepts: [Dharma and the aims of life (trivarga, puruṣārtha)](../concepts/four-aims-of-life.md)
 
 ### 3.2.71 <a id="tea-mahabharata-3-2-71"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Sacrifice, study, giving, austerity, truth, forbearance, self-restraint and freedom from greed — this is declared the eightfold path of dharma.
 
@@ -83,7 +92,7 @@ _level: conventional · standpoint: ethical-social · path: general · stage: al
 terms: [dharma](../terms/dharma.md), [yajña](../terms/yajna.md), [tapas](../terms/tapas.md), [satya](../terms/satya.md), [dama](../terms/dama.md)
 
 ### 3.28-33 <a id="tea-mahabharata-3-28-33"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 Draupadī, in the forest, laments that the Creator plays with beings like wooden puppets and questions the justice of the ordainer; Yudhiṣṭhira replies that dharma is to be practised for its own sake and that one should not doubt dharma or the gods; Draupadī then argues that nothing is gained without human effort, and that fate, chance and nature do not relieve a person of the duty to act.
 
@@ -92,7 +101,7 @@ _level: conventional · standpoint: polemical · path: action · stage: all · t
 concepts: [Fate and human effort (daiva and puruṣakāra)](../concepts/fate-and-human-effort.md) · teachers: [Draupadī (Kṛṣṇā, Pāñcālī)](../teachers/draupadi.md), [Yudhiṣṭhira (Dharmarāja)](../teachers/yudhisthira.md) · disputes: [What moves events — fate, time, nature, the Lord, karma, or human effort?](../debates/fate-or-effort.md)
 
 ### 3.32.4 <a id="tea-mahabharata-3-32-4"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Yudhiṣṭhira to Draupadī: I practise dharma not for the sake of the fruit of dharma, but without transgressing the scriptures and looking to the conduct of the good; my mind is fixed on dharma by its own nature.
 
@@ -100,10 +109,10 @@ Yudhiṣṭhira to Draupadī: I practise dharma not for the sake of the fruit of
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics, dispute_
 
-concepts: [Action without attachment to its fruit (niṣkāma karma)](../concepts/niskama-karma.md) · teachers: [Yudhiṣṭhira (Dharmarāja)](../teachers/yudhisthira.md), [Draupadī (Kṛṣṇā, Pāñcālī)](../teachers/draupadi.md) · disputes: [What moves events — fate, time, nature, the Lord, karma, or human effort?](../debates/fate-or-effort.md)
+concepts: [Action without attachment to its fruit](../concepts/niskama-karma.md) · teachers: [Yudhiṣṭhira (Dharmarāja)](../teachers/yudhisthira.md), [Draupadī (Kṛṣṇā, Pāñcālī)](../teachers/draupadi.md) · disputes: [What moves events — fate, time, nature, the Lord, karma, or human effort?](../debates/fate-or-effort.md)
 
 ### 3.148 <a id="tea-mahabharata-3-148"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 Hanumān teaches Bhīma the four ages — the Kṛta, when dharma is complete, and its decline through the Tretā and Dvāpara into the Kali — and the duties of the varṇas.
 
@@ -112,7 +121,7 @@ _level: conventional · standpoint: cosmic · path: general · stage: all · typ
 terms: [yuga](../terms/yuga.md) · concepts: [The cycle of the ages (yuga)](../concepts/cycle-of-yugas.md) · teachers: [Hanumān](../teachers/hanuman.md), [Bhīma (Bhīmasena)](../teachers/bhima.md)
 
 ### 3.149.31-33 <a id="tea-mahabharata-3-149-31-33"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The Veda (trayī), economics (vārtā) and polity (daṇḍanīti) are the three sciences of the wise; by them, well employed, the world is sustained; without them the people would perish.
 
@@ -121,7 +130,7 @@ _level: conventional · standpoint: ethical-social · path: general · stage: al
 terms: [daṇḍanīti](../terms/dandaniti.md) · teachers: [Hanumān](../teachers/hanuman.md)
 
 ### 3.177.16 <a id="tea-mahabharata-3-177-16"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Yudhiṣṭhira to Nahuṣa: the one in whom truth, generosity, forbearance, good conduct, non-cruelty, self-restraint and compassion are seen is called a brāhmaṇa.
 
@@ -130,7 +139,7 @@ _level: conventional · standpoint: ethical-social · path: general · stage: al
 terms: [varṇa](../terms/varna.md), [ānṛśaṃsya](../terms/anrsamsya.md) · teachers: [Yudhiṣṭhira (Dharmarāja)](../teachers/yudhisthira.md), [Nahuṣa](../teachers/nahusa.md) · disputes: [Is varṇa (and eligibility for austerity and teaching) fixed by birth, or made by conduct and qualities?](../debates/varna-by-birth-or-conduct-epic.md)
 
 ### 3.186.81-91 <a id="tea-mahabharata-3-186-81-91"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Mārkaṇḍeya relates that during the dissolution, in the one ocean, he saw a great banyan and on its branch a child with lotus eyes bearing the śrīvatsa, who told him to rest in his body; entering the child's open mouth against his will, he saw within it the whole world with its lands, seas and beings.
 
@@ -139,7 +148,7 @@ _level: ultimate · standpoint: experiential · path: devotion · stage: advance
 concepts: [The cycle of the ages (yuga)](../concepts/cycle-of-yugas.md), [The universal form (viśvarūpa)](../concepts/visvarupa.md) · teachers: [Mārkaṇḍeya](../teachers/markandeya.md)
 
 ### 3.281 <a id="tea-mahabharata-3-281"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 Sāvitrī follows Yama as he carries away Satyavat's life; her words on dharma and on the friendship of the good please Yama, who grants her boons and finally Satyavat's life.
 
@@ -148,7 +157,7 @@ _level: conventional · standpoint: ethical-social · path: devotion, general ·
 terms: [pativratā](../terms/pativrata.md) · concepts: [The dharma of the devoted wife (pativratā)](../concepts/pativrata-dharma.md) · teachers: [Sāvitrī](../teachers/savitri.md), [Yama (Mṛtyu)](../teachers/yama.md)
 
 ### 5.129.4-6 <a id="tea-mahabharata-5-129-4-6"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 In the Kaurava assembly Kṛṣṇa laughs, and from his body, flashing like lightning, emerge thumb-sized gods blazing like fire — Brahmā, Rudra, the Ādityas, Sādhyas, Vasus, Aśvins, Maruts and Indra, the Viśvedevas, yakṣas, gandharvas and rākṣasas.
 
@@ -157,7 +166,7 @@ _level: ultimate · standpoint: experiential · path: devotion · stage: all · 
 concepts: [The universal form (viśvarūpa)](../concepts/visvarupa.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md)
 
 ### 6.2 <a id="tea-mahabharata-6-2"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Vyāsa offers Dhṛtarāṣṭra sight to watch the battle; declining, the king asks only to hear it, and Vyāsa grants Sañjaya the divine eye by which he will know everything that happens, openly or in secret, even thoughts.
 
@@ -166,7 +175,7 @@ _level: conventional · standpoint: experiential · path: general · stage: all 
 terms: [divya cakṣus](../terms/divya-caksus.md) · concepts: [The divine eye (divya cakṣus)](../concepts/divine-eye.md) · teachers: [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md), [Sañjaya](../teachers/sanjaya.md)
 
 ### 6.114.89-98 <a id="tea-mahabharata-6-114-89-98"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Struck down, Bhīṣma lies on a bed of arrows and holds his life-breaths, awaiting the sun's northern course; he declares that he has mastery over the release of his breaths and will keep them until the uttarāyaṇa.
 
@@ -175,7 +184,7 @@ _level: conventional · standpoint: experiential · path: body-breath, general �
 terms: [uttarāyaṇa](../terms/uttarayana.md), [prāṇa](../terms/prana.md) · concepts: [Dying by yoga](../concepts/yogic-death.md), [The two paths after death (bright and dark)](../concepts/two-paths-after-death.md) · teachers: [Bhīṣma (Devavrata, Gāṅgeya)](../teachers/bhisma.md)
 
 ### 8.49.31-40 <a id="tea-mahabharata-8-49-31-40"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Kṛṣṇa tells Arjuna that dharma is very hard to know: the hunter Balāka, who killed only to support his family, won heaven by killing a blind beast that had resolved to destroy all beings, while (in the next story) the ascetic Kauśika, who told robbers the truth about where fugitives hid, went to hell.
 
@@ -184,7 +193,7 @@ _level: conventional · standpoint: ethical-social · path: action · stage: all
 terms: [satya](../terms/satya.md), [dharma](../terms/dharma.md) · concepts: [The subtlety of dharma](../concepts/subtlety-of-dharma.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [May one kill in battle as one's own dharma — and what of non-violence as the highest dharma?](../debates/violence-and-svadharma.md)
 
 ### 9.49 <a id="tea-mahabharata-9-49"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 Jaigīṣavya, a yogin mendicant, lives at the tīrtha where Asita Devala dwells; Devala, serving him, sees him move by yoga between the worlds ahead of him, becomes his disciple and learns the dharma of liberation.
 
@@ -193,7 +202,7 @@ _level: conventional · standpoint: experiential · path: meditation · stage: a
 concepts: [Yogic powers in the epic](../concepts/yogic-powers-epic.md) · teachers: [Jaigīṣavya](../teachers/jaigisavya.md), [Asita Devala](../teachers/asita-devala.md)
 
 ### 11.5-6 <a id="tea-mahabharata-11-5-6"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Vidura's parable: a brāhmaṇa lost in a terrible forest falls into a well and hangs from a creeper; below is a great serpent, above an elephant, while white and black rats gnaw the tree and bees drip honey that he keeps tasting; Vidura explains the forest as saṃsāra, the well as the body, the serpent as time, the rats as days and nights, and the honey as desires.
 
@@ -202,16 +211,16 @@ _level: conventional · standpoint: cosmic · path: knowledge · stage: all · t
 terms: [saṃsāra](../terms/samsara.md), [kāla](../terms/kala.md), [kāma](../terms/kama.md) · concepts: [Time (kāla) as the destroyer](../concepts/time-as-destroyer.md) · teachers: [Vidura](../teachers/vidura.md), [Dhṛtarāṣṭra](../teachers/dhrtarastra.md)
 
 ### 11.7.13-20 <a id="tea-mahabharata-11-7-13-20"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The body of beings is called a chariot, the mind (sattva) its charioteer, the senses its horses, action and understanding its reins; one who restrains them by the understanding does not return; self-restraint, renunciation and heedfulness are the three horses of Brahman; standing in the chariot of the mind yoked with the reins of good conduct, giving up the fear of death, one goes to the world of Brahman.
 
 _level: conventional · standpoint: seeker · path: meditation, knowledge · stage: all · types: practice, consciousness-mind_
 
-terms: [dama](../terms/dama.md), [tyāga](../terms/tyaga.md), [apramāda](../terms/apramada.md), [indriya](../terms/indriya.md), [buddhi](../terms/buddhi.md) · concepts: [The hierarchy of senses, mind and intellect](../concepts/senses-mind-intellect-hierarchy.md) · teachers: [Vidura](../teachers/vidura.md)
+terms: [dama](../terms/dama.md), [tyāga](../terms/tyaga.md), [apramāda](../terms/apramada.md), [indriya](../terms/indriya.md), [buddhi](../terms/buddhi.md) · concepts: [The hierarchy of senses, mind, understanding and what is beyond them](../concepts/senses-mind-intellect-hierarchy.md) · teachers: [Vidura](../teachers/vidura.md)
 
 ### 12.47 <a id="tea-mahabharata-12-47"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 Bhīṣma, on his bed of arrows, praises Kṛṣṇa as Nārāyaṇa, the supreme person, the self of all.
 
@@ -231,7 +240,7 @@ _level: unmarked · standpoint: analytic · path: general · stage: all · types
 disputes: [Is the Pāśupata (and wider Atimārga) teaching within or outside the Veda?](../debates/pasupata-vedic-status.md)
 
 ### 13.1 <a id="tea-mahabharata-13-1"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Gautamī's son dies of snakebite; she forbids the hunter Arjunaka to kill the serpent; the serpent says Death impelled it, Death says Time impelled him, and Time says that the boy's own past action (karma) was the cause; Gautamī, recognizing that beings fare according to their own karma, is consoled.
 
@@ -240,7 +249,7 @@ _level: conventional · standpoint: causal · path: knowledge · stage: all · t
 terms: [karma](../terms/karma.md), [kāla](../terms/kala.md) · concepts: [Fate and human effort (daiva and puruṣakāra)](../concepts/fate-and-human-effort.md) · teachers: [Gautamī](../teachers/gautami.md) · disputes: [What moves events — fate, time, nature, the Lord, karma, or human effort?](../debates/fate-or-effort.md), `dsp:causation`
 
 ### 13.6.7 <a id="tea-mahabharata-13-6-7"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 As a seed sown without a field bears no fruit, so fate (daiva) does not succeed without human effort (puruṣakāra).
 
@@ -249,7 +258,7 @@ _level: conventional · standpoint: causal · path: action · stage: all · type
 terms: [daiva](../terms/daiva.md), [puruṣakāra](../terms/purusakara.md) · concepts: [Fate and human effort (daiva and puruṣakāra)](../concepts/fate-and-human-effort.md) · disputes: [What moves events — fate, time, nature, the Lord, karma, or human effort?](../debates/fate-or-effort.md)
 
 ### 13.114.8 <a id="tea-mahabharata-13-114-8"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 One should not do to another what is disagreeable to oneself; this in brief is dharma — other conduct proceeds from desire.
 
@@ -260,7 +269,7 @@ _level: conventional · standpoint: ethical-social · path: general · stage: al
 terms: [dharma](../terms/dharma.md) · concepts: [The subtlety of dharma](../concepts/subtlety-of-dharma.md)
 
 ### 13.116 <a id="tea-mahabharata-13-116"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Asked about non-violence and meat-eating, Bhīṣma teaches that non-violence is the highest dharma, the highest self-restraint, gift, austerity, sacrifice, strength, friend, happiness, truth and learning, and praises abstention from meat.
 
@@ -269,7 +278,7 @@ _level: conventional · standpoint: ethical-social · path: general · stage: al
 terms: [ahiṃsā](../terms/ahimsa.md) · concepts: [Non-violence and non-cruelty (ahiṃsā, ānṛśaṃsya)](../concepts/non-violence.md) · teachers: [Bhīṣma (Devavrata, Gāṅgeya)](../teachers/bhisma.md)
 
 ### 13.154.5 <a id="tea-mahabharata-13-154-5"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 At his death Bhīṣma's self, restrained in all the openings of the body, broke through the crown of the head and rose to heaven.
 
@@ -278,7 +287,7 @@ _level: conventional · standpoint: experiential · path: body-breath, meditatio
 concepts: [Dying by yoga](../concepts/yogic-death.md) · teachers: [Bhīṣma (Devavrata, Gāṅgeya)](../teachers/bhisma.md)
 
 ### 14.92-93 <a id="tea-mahabharata-14-92-93"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 At Yudhiṣṭhira's horse sacrifice a mongoose, half its body golden, declares the great sacrifice not equal to a gleaner's gift of a measure of barley-meal: a poor brāhmaṇa of Kurukṣetra living by gleaning gave his family's last food to a hungry guest, and by that gift won the world of Brahman.
 
@@ -287,7 +296,7 @@ _level: conventional · standpoint: ethical-social · path: action, ritual · st
 terms: [uñchavṛtti](../terms/unchavrtti.md), [dāna](../terms/dana.md), [yajña](../terms/yajna.md) · practices: [Living by gleaning (uñchavṛtti)](../practices/unchavrtti.md), [Giving (dāna)](../practices/dana.md) · disputes: [Is the killing of animals in Vedic sacrifice dharma?](../debates/animal-sacrifice-epic.md)
 
 ### 15.33.25 <a id="tea-mahabharata-15-33-25"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 At his death in the forest, Vidura, by yoga, entered Yudhiṣṭhira's body — limbs into limbs, breaths into breaths, senses into senses.
 
@@ -296,7 +305,7 @@ _level: conventional · standpoint: experiential · path: meditation, body-breat
 concepts: [Dying by yoga](../concepts/yogic-death.md), [Yogic powers in the epic](../concepts/yogic-powers-epic.md) · teachers: [Vidura](../teachers/vidura.md), [Yudhiṣṭhira (Dharmarāja)](../teachers/yudhisthira.md)
 
 ### 17.1-2 <a id="tea-mahabharata-17-1-2"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Renouncing the kingdom, the Pāṇḍavas and Draupadī set out on the great departure toward the north with a dog following them; one by one Draupadī and the brothers fall, and Yudhiṣṭhira names the fault of each.
 
@@ -305,7 +314,7 @@ _level: conventional · standpoint: ethical-social · path: general · stage: ad
 practices: [The great departure (mahāprasthāna)](../practices/mahaprasthana.md)
 
 ### 17.3.7-20 <a id="tea-mahabharata-17-3-7-20"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Indra invites Yudhiṣṭhira to heaven but bids him leave the dog that has followed him; Yudhiṣṭhira refuses: abandoning one devoted to him is as grave a sin as killing a brāhmaṇa, like surrendering one who has sought refuge; the dog is revealed as Dharma, who praises his non-cruelty.
 
@@ -314,7 +323,7 @@ _level: conventional · standpoint: ethical-social · path: general · stage: al
 terms: [ānṛśaṃsya](../terms/anrsamsya.md), [śaraṇāgati](../terms/saranagati.md) · concepts: [The subtlety of dharma](../concepts/subtlety-of-dharma.md) · teachers: [Yudhiṣṭhira (Dharmarāja)](../teachers/yudhisthira.md), [Dharma (the god; Yama Dharmarāja)](../teachers/dharma.md)
 
 ### 18.5.38 <a id="tea-mahabharata-18-5-38"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The same declaration at the close of the epic: what is here on dharma, artha, kāma and mokṣa is found elsewhere; what is not here is nowhere.
 
@@ -323,7 +332,7 @@ _level: conventional · standpoint: analytic · path: general · stage: all · t
 concepts: [Dharma and the aims of life (trivarga, puruṣārtha)](../concepts/four-aims-of-life.md)
 
 ### 18.5.49 <a id="tea-mahabharata-18-5-49"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 With arms raised I cry out, but no one listens: from dharma come artha and kāma — why then is dharma not practised?
 
@@ -337,4 +346,8 @@ terms: [dharma](../terms/dharma.md), [trivarga](../terms/trivarga.md) · concept
 _Notes: Chapter counts are those of the Critical Edition (checked against the local digitized critical text). The vulgate (Nīlakaṇṭha) numbering differs, e.g. the Gītā is Bhīṣmaparvan 25–42 in the vulgate but 23–40 in the Critical Edition._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Mahābhārata, catalog:raw_etexts:mahabharata-devanagari, local:sources_raw/DharmicData/Mahabharata/mahabharata_book_1.json (BORI Critical Edition text) 1.1.61, 1.1.50, 1.1.205, https://en.wikipedia.org/wiki/Vishnu_Sitaram_Sukthankar — Extant and digitized (critical and vulgate texts local). 18 books; the 24,000-verse Bhārata (1.1.61), the three starting points (1.1.50) and kārṣṇa veda (1.1.205; 1.56.17) located in the CE. Traditional Vyāsa/Vaiśampāyana/Ugraśravas frame confirmed in 1.1.1. Scholarly date range (c. 4th c. BCE – 4th c. CE) is within the usual scholarly estimates; tradition account kept separate as entered.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

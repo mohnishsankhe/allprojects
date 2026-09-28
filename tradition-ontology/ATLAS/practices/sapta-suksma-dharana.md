@@ -15,4 +15,4 @@ Holding the mind at the head on earth, water, fire, air, space, mind and intelle
 - Attachment to any element's subtlety destroys the yogin and he returns (to rebirth). — [Mārkaṇḍeya Purāṇa](../texts/markandeya-purana.md) 40.23-26
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

@@ -1,6 +1,6 @@
 # Ādiparvan
 
-`src:adiparvan` · `skeleton` · confidence high
+`src:adiparvan` · `sourced` · confidence high
 
 **Original title:** आदिपर्वन्
 **Language:** Sanskrit
@@ -20,4 +20,8 @@ The book of beginnings: the frame narratives (Ugraśravas at Naimiṣa; Janameja
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_1.json (BORI Critical Edition text) book 1: 225 chapters — Book 1 has exactly 225 chapters in the local Critical Edition text, as entered.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

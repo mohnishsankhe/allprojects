@@ -14,4 +14,4 @@ A Trika-Kaula tantra frequently quoted by Kṣemarāja and Abhinavagupta, notabl
 _Notes: Existence and citation by Kṣemarāja are well attested; content summary from memory._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._

@@ -17,4 +17,4 @@
 one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); a short prose work setting out, adhikaraṇa by adhikaraṇa, the reasoning (nyāya) by which Madhva reads the Brahmasūtras.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._

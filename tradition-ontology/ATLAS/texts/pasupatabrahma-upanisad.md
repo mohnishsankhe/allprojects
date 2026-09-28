@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), `lin:hatha-yoga`, [Advaita Vedānta](../lineages/advaita-vedanta.md)
+**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Advaita Vedānta](../lineages/advaita-vedanta.md)
 **Genre:** upaniṣad
 **Attribution:** tradition: Śruti: revealed, without human author (apauruṣeya); the Muktikā presents it as one of the 108 Upaniṣads that Rāma teaches Hanumān, each belonging to a Vedic śākhā; scholarly: anonymous; assigned to a Veda by the Muktikā list, not by any surviving śākhā transmission; confidence: moderate
 **Dates:** Tradition's account: Śruti: eternal and authorless; no human date; Scholarly account: Scholarly accounts differ by text. Several Yoga Upaniṣads (e.g. Amṛtabindu, Amṛtanāda, Kṣurikā, Tejobindu, Nādabindu, Dhyānabindu, Brahmavidyā, Yogatattva, Yogaśikhā, Haṃsa) survive in shorter northern versions that are older; the expanded southern recensions (as in this collection) borrow from medieval haṭha works and were probably compiled in South India, perhaps as late as the 18th c. (Bouy 1994).; (confidence low)
@@ -56,10 +56,10 @@ Rudra-Paśupati is the doer of the inner sacrifice; its fire is the haṃsa 'so'
 
 _level: bridging · standpoint: experiential · path: sound, meditation · stage: advanced · types: practice, sound-language_
 
-concepts: [The inner sacrifice](../concepts/inner-sacrifice.md), [Haṃsa — the swan / the self as breath-mantra](../concepts/hamsa.md) · practices: [Listening to the inner sound](../practices/nadanusandhana.md)
+concepts: [The inner sacrifice](../concepts/inner-sacrifice.md), [Haṃsa — the swan / the self as breath-mantra](../concepts/hamsa.md) · practices: [Attention to the inner sound (nādānusandhāna) in the haṭha texts](../practices/nadanusandhana.md)
 
 
 _Notes: Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-text used here; other editions (e.g. the Adyar series, Schrader's critical edition, northern recensions) number differently._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

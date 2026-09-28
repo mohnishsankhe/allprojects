@@ -14,4 +14,4 @@ The model animal rite of the soma sacrifice; in Mīmāṃsā the reference point
 _Notes: Summary only; no procedure recorded. Low confidence on the Mīmāṃsā references beyond the general debate._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

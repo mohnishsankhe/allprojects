@@ -13,4 +13,4 @@ King of Kāśī who refutes Gārgya Bālāki's twelve (KauU: sixteen) identifica
 _Notes: Distinct from the Magadhan king of the Buddhist texts; id disambiguated._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

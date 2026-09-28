@@ -1,6 +1,6 @@
 # Jaiminīya (Talavakāra) śākhā (Sāmaveda)
 
-`lin:sakha-jaiminiya` · `skeleton` · confidence moderate
+`lin:sakha-jaiminiya` · `sourced` · confidence moderate
 
 **Family:** vedic
 **Alternate names:** Talavakāra, Jaiminīya
@@ -32,4 +32,8 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Shakha — Confirmed: two streams, Nambūtiri (central Kerala) and Tamil (districts near Kerala, Srirangam).
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

@@ -13,6 +13,7 @@
 - [Sāṃkhya](../lineages/samkhya.md): In Sāṃkhya, release belongs to prakṛti, not puruṣa (SK 62); it is threefold in the Tattvasamāsa commentaries — by increase of knowledge, calming of passion, and total exhaustion of virtue and non-virtue (Kramadīpikā); it is not the manifestation of bliss (SS 5.74).
 - [Vaiśeṣika](../lineages/vaisesika.md): When adṛṣṭa is absent, no contact (with a body) and no new appearance (VS 5.2.20 C); quiescence like a fire whose fuel is burnt (Praśastapāda).
 - [Nyāya](../lineages/nyaya.md): Absolute cessation of pain qualified by the experience of eternal pleasure (Bhāsarvajña — a minority view).
+- [Āyurveda](../lineages/ayurveda.md): Lineage contribution (Āyurveda, Caraka): the complete cessation of all feeling (Śā 1.137); separation from all conjunctions through the absence of rajas and tamas and the exhaustion of strong karma — non-return (Śā 1.142); disengagement (nivṛtti), the supreme, tranquil, imperishable brahman (Śā 5.11).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Release: rare as a noun in the early prose Upaniṣads, which speak of immortality (amṛtatva); 'freed, he is freed' (KU 2.2.1); release (vimokṣa) for one who has a teacher (ChU 6.14.2); the cause of saṃsāra and mokṣa (ŚU 6.16); 'the mark of liberation' (MaiU 6.20); 'desiring liberation (mumukṣu) I go for refuge' (ŚU 6.18).
 - [Vedānta (Uttara Mīmāṃsā)](../lineages/vedanta.md): Liberation, from which there is no return (BS 4.4.22).
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): Liberation: not produced but the eternal, bodiless nature of the self, realized when ignorance is removed by knowledge; the attainment of bliss and cessation of sorrow.
@@ -34,4 +35,4 @@
 **Related:** [dehoccheda](dehoccheda.md), [bandha](bandha.md), [svarga](svarga.md), [sālokya](salokya.md), [sāyujya ('yoga')](sayujya.md), [svarūpānanda](svarupananda.md), [kaivalya](kaivalya.md)
 
 ---
-_Contributed by: skeleton:U12-mimamsa, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U14-visistadvaita, skeleton:U02-brahmana-vedanga, skeleton:U19-kashmir-saivism, skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U14-visistadvaita, skeleton:U02-brahmana-vedanga, skeleton:U19-kashmir-saivism, skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._

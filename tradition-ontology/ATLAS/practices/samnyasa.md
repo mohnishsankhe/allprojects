@@ -17,4 +17,4 @@ After the Prājāpatya sacrifice with all possessions given away, the renouncer 
 - Seeking liberation without paying the three debts leads downward (MDh 6.35–37). — [Manusmṛti (Mānava Dharmaśāstra)](../texts/manusmrti.md) 6.35-37
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

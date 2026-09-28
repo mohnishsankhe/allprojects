@@ -5,7 +5,7 @@
 **Original title:** रामगीता
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), `lin:ramanandi`
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Rāmānandī sampradāya](../lineages/ramanandi.md)
 **Genre:** gītā
 **Part of:** [Adhyātma Rāmāyaṇa](adhyatma-ramayana.md)
 **Location in parent:** Adhyātma Rāmāyaṇa, Uttarakāṇḍa 5 (62 verses; verified)
@@ -121,4 +121,4 @@ teachers: [Rāma (Dāśarathi)](../teachers/rama.md) · disputes: `dsp:saguna-ni
 
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

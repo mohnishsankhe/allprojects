@@ -1,6 +1,6 @@
 # Do the Vedic mantras have meaning, or are they effective sound only?
 
-`dsp:are-mantras-meaningful` · `skeleton` · confidence high
+`dsp:are-mantras-meaningful` · `sourced` · confidence high
 
 
 ## Sides (recorded before any reconciliation)
@@ -43,4 +43,8 @@ Yāska: the mantras are meaningful, for their words are the words of ordinary sp
 _Notes: Kautsa is known only as reported by Yāska (reported_by_opponent on tea:nirukta:1.15)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (Sarup ed., GRETIL), text:sources_raw/dcs/dcs/data/conllu/files/Mīmāṃsāsūtrabhāṣya/Mīmāṃsāsūtrabhāṣya-0062-MīSūBhā, 1, 2, 31-17345.conllu — Nirukta loci located; the Mīmāṃsā parallel 'from memory' is exact — Mīmāṃsā Sūtra 1.2.31 'tadarthaśāstrāt' opens the adhikaraṇa on whether mantras are meaningful (DCS Śabara).
+
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

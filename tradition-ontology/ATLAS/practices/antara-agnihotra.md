@@ -14,4 +14,4 @@ Recognizing that while one speaks one cannot breathe and while one breathes one 
 - partial: [Prāṇāgnihotra (offering food into the breaths)](pranagnihotra.md) — both internalize the agnihotra into the breaths; the ChU form offers food into the five breaths
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

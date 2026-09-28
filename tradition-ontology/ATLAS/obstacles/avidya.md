@@ -3,8 +3,8 @@
 `obs:avidya` · `skeleton` · confidence high
 
 **Category:** affliction
-**Convergence:** 6 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), `lin:ramanandi`, [Śākta traditions](../lineages/sakta.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md)
-**Taught in:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), `lin:ramanandi`, [Śākta traditions](../lineages/sakta.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md)
+**Convergence:** 6 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Rāmānandī sampradāya](../lineages/ramanandi.md), [Śākta traditions](../lineages/sakta.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md)
+**Taught in:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Rāmānandī sampradāya](../lineages/ramanandi.md), [Śākta traditions](../lineages/sakta.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md)
 
 Lineage contribution (Upaniṣadic): fools living in ignorance and thinking themselves wise go round like the blind led by the blind (KU 1.2.5; MuU 1.2.8); the knot of ignorance (MuU 2.1.10); the teacher takes one across to the far shore of ignorance (PrU 6.8).
 **Antidotes:** [Approaching a teacher with fuel in hand](../practices/guru-upasadana.md), knowledge of the self, [Cultivating discriminative discernment (viveka-khyāti)](../practices/viveka-khyati.md), [Hearing the scriptures (śravaṇa)](../practices/sravana.md), [Self-inquiry (ātma-vicāra)](../practices/atma-vicara.md)
@@ -25,4 +25,4 @@ Lineage contribution (Upaniṣadic): fools living in ignorance and thinking them
 _Notes: U06 contribution to a shared obstacle id._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U06-other-gitas, skeleton:U10-yoga, skeleton:U13-advaita, skeleton:U14-visistadvaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U06-other-gitas, skeleton:U10-yoga, skeleton:U13-advaita, skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._

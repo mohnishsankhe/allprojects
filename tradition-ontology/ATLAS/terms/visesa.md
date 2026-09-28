@@ -4,9 +4,10 @@
 
 **Language:** Sanskrit
 **Native script:** विशेष
-**Literal:** specific
+**Literal:** the particular; difference
 
 ## Definitions by tradition
+- [Āyurveda](../lineages/ayurveda.md): Lineage contribution (Āyurveda): the cause of decrease — the unlike reduces; it makes for separateness (Ca Sū 1.44-45).
 - [Sāṃkhya](../lineages/samkhya.md): The gross elements (SK 38); the specifics are threefold: subtle bodies, bodies born of parents, and gross elements (SK 39).
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): The first level of the guṇas: the sixteen particularized products — five elements, ten senses and mind (2.19, YBh 2.19).
 - [Vaiśeṣika](../lineages/vaisesika.md): Residing in eternal substances and distinguishing them from one another; endless in number (Tarkasaṅgraha).
@@ -15,7 +16,7 @@
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-**Related:** [mahābhūta](mahabhuta.md), [aviśeṣa](avisesa.md), [svagata-bheda](svagata-bheda.md), [bheda](bheda.md)
+**Related:** [sāmānya](samanya.md), [mahābhūta](mahabhuta.md), [aviśeṣa](avisesa.md), [svagata-bheda](svagata-bheda.md), [bheda](bheda.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._

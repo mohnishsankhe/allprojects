@@ -13,4 +13,4 @@ Meditating on whatever object one finds agreeable; the mind stable there becomes
   - [Yoga Sūtra of Patañjali](../texts/yoga-sutra.md) — ref: 1.39; rests_on: ["tea:yoga-sutra:1.39"]
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 09:07 IST._

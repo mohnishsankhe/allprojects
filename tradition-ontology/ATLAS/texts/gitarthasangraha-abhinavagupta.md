@@ -1,6 +1,6 @@
 # Gītārthasaṅgraha of Abhinavagupta
 
-`src:gitarthasangraha-abhinavagupta` · `skeleton` · confidence moderate
+`src:gitarthasangraha-abhinavagupta` · `sourced` · confidence moderate
 
 **Original title:** गीतार्थसङ्ग्रह
 **Language:** Sanskrit
@@ -20,4 +20,8 @@ Abhinavagupta's commentary on the Kashmir recension of the Gītā, reading it in
 _Notes: Title shared with Yāmuna's work; disambiguated by author._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — local:sources_raw/gita/data/commentary.json (Sri Abhinavgupta), https://www.academia.edu/82753123/Abhinavagupta_on_the_Kashmirian_G%C4%ABt%C4%81 — Extant and digitized; commentary on the Kashmirian recension confirmed.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

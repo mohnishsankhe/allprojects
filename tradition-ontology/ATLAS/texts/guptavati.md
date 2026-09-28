@@ -16,4 +16,4 @@
 A Śrīvidyā commentary on the Devī Māhātmya, with its mantra-structure and recitation.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

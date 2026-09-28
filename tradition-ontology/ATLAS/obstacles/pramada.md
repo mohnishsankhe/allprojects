@@ -21,4 +21,4 @@ Heedlessness is death (Sanatsujāta, MBh 5.42.4); negligence is a bond of tamas 
   - [Pañcārthabhāṣya](../texts/pancarthabhasya.md) — ref: on PS 5.40; rests_on: ["tea:pancarthabhasya:5.39"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U17-pasupata-kapalika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U17-pasupata-kapalika. Generated 2026-09-28 09:07 IST._

@@ -12,4 +12,4 @@ Offer to the Lord with devotion even a leaf, a flower, a fruit or water; he acce
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 9.26; rests_on: ["tea:bhagavad-gita:9.26"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

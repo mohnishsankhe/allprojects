@@ -1,6 +1,6 @@
 # Āśvamedhikaparvan
 
-`src:asvamedhikaparvan` · `skeleton` · confidence high
+`src:asvamedhikaparvan` · `sourced` · confidence high
 
 **Original title:** आश्वमेधिकपर्वन्
 **Language:** Sanskrit
@@ -20,4 +20,8 @@ The book of the horse sacrifice: the Anugītā (14.16–50), Yudhiṣṭhira's h
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_14.json (BORI Critical Edition text) book 14: 96 chapters — Book 14 has exactly 96 chapters in the local Critical Edition text, as entered.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

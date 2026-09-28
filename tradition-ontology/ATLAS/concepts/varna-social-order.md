@@ -16,4 +16,4 @@
 _Notes: Recorded faithfully as the Brāhmaṇa and Dharmaśāstra traditions state it; the bhakti, Siddha, Buddhist, Jain and Upaniṣadic critiques are recorded by other units and in dsp:women-caste-liberation._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

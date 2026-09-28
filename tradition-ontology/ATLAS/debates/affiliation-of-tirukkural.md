@@ -5,7 +5,7 @@
 **Coverage:** I2
 
 ## Sides (recorded before any reconciliation)
-### `lin:jainism`
+### [Jainism (Jaina dharma)](../lineages/jainism.md)
 The Kuṟaḷ is a Jain work, its author identified by Jain tradition with Elācārya (Kundakunda).
 - The ethics of non-killing and abstention from meat (chapters 26, 33) are central, above sacrifice (259).
 - 'He who walked upon the flower' (3) is the Jina, who walks on golden lotuses; 'the one of eight qualities' (9) is the liberated Siddha with eight qualities; 'the ocean/wheel of virtue' (8) is the Jina of the dharma-wheel.
@@ -46,4 +46,4 @@ Under P2 each tradition reads the unnamed Lord of chapter 1 from its own standpo
 _Notes: Needs an RQ id in RECONCILE_QUEUE.md (U18 cannot write outside its shard)._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._

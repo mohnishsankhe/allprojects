@@ -22,4 +22,4 @@ Son of Udayākara (ĪPK 4.18) and disciple of Somānanda; systematized the Praty
 **Realization — the tradition's account:** His hymns present devotion as the relish of an identity with Śiva already recognized.
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

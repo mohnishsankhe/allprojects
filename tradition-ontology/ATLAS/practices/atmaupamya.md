@@ -12,4 +12,4 @@ By comparison with oneself, see the same everywhere, whether pleasure or pain (6
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.29; 6.32; rests_on: ["tea:bhagavad-gita:6.29", "tea:bhagavad-gita:6.32"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

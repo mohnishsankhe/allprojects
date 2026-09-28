@@ -5,7 +5,7 @@
 **Alternate titles:** Pratyāhāra-sūtras, Akṣarasamāmnāya
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:vyakarana`, [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md)
+**Lineages:** [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md), [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md)
 **Genre:** vyākaraṇa
 **Part of:** [Aṣṭādhyāyī](astadhyayi.md)
 **Authors:** 
@@ -17,4 +17,4 @@ The fourteen short lists of phonemes (a i u ṇ, ṛ ḷ k, … ha l) prefixed t
 _Notes: Not to be confused with Vasugupta's Śiva Sūtra (src:siva-sutra, Kashmir Śaivism)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

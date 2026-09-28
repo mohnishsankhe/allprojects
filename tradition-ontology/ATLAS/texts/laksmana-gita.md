@@ -4,9 +4,9 @@
 
 **Language:** Awadhi
 **Family:** vedic
-**Lineages:** `lin:ramanandi`
+**Lineages:** [Rāmānandī sampradāya](../lineages/ramanandi.md)
 **Genre:** gītā
-**Part of:** `src:ramcaritmanas`
+**Part of:** [Rāmcaritmānas](ramcaritmanas.md)
 **Location in parent:** Rāmcaritmānas, Ayodhyākāṇḍa dohā 92-93 (verified; caupāī 'kāhu na kou sukha dukha kara dātā' at 92.2)
 **Authors:** 
   - [Tulsīdās](../teachers/tulsidas.md) — role: author; attribution: accepted
@@ -31,4 +31,4 @@ teachers: [Lakṣmaṇa](../teachers/laksmana.md)
 
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

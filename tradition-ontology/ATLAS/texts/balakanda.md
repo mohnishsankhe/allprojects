@@ -1,6 +1,6 @@
 # Bālakāṇḍa
 
-`src:balakanda` · `skeleton` · confidence high
+`src:balakanda` · `sourced` · confidence high
 
 **Original title:** बालकाण्ड
 **Language:** Sanskrit
@@ -20,4 +20,8 @@ The book of youth: Nārada's summary of Rāma's story to Vālmīki, the origin o
   - kind: original; name: DharmicData JSON of the Vālmīki Rāmāyaṇa (southern vulgate numbering); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:GRETIL-dev:valmiki_ramayana_1, local:sources_raw/DharmicData/ValmikiRamayana (southern vulgate) book 1 — Book 1 of the Vālmīki Rāmāyaṇa, digitized in several local editions.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

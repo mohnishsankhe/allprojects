@@ -50,4 +50,4 @@ terms: [ātman](../terms/atman.md) · disputes: `dsp:is-there-a-self`
 _Notes: Printed editions exist (e.g. Kashi Sanskrit Series); no local e-text was found in sources_raw._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._

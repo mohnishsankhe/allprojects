@@ -14,4 +14,4 @@
 - leads-to → [The internalized sacrifice](internalized-sacrifice.md): the identity of rite, cosmos and person makes an inner rite possible — rests on [11.2.6.13-14](../texts/satapatha-brahmana.md#tea-satapatha-brahmana-11-2-6-13-14)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

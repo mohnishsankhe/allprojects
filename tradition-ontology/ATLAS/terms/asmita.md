@@ -15,4 +15,4 @@
 - contested: [ahaṃkāra](ahamkara.md) — YBh 2.19 names the sixth unparticularized principle asmitā-mātra where Sāṃkhya names ahaṃkāra; Bhoja (RM 1.17) insists asmitā and ahaṃkāra are not the same.
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 09:07 IST._

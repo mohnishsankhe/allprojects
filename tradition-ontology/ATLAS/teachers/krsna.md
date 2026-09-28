@@ -1,8 +1,8 @@
 # Kṛṣṇa (Vāsudeva)
 
-`tch:krsna` · `skeleton` · confidence high
+`tch:krsna` · `sourced` · confidence high
 
-**Alternate names:** Vāsudeva, Keśava, Govinda, Mādhava, Janārdana, Hṛṣīkeśa, Madhusūdana, Acyuta, Yogeśvara, Pārthasārathi, Śrī Kṛṣṇa, Bhagavān
+**Alternate names:** Vāsudeva, Keśava, Govinda, Mādhava, Janārdana, Hṛṣīkeśa, Madhusūdana, Acyuta, Yogeśvara, Pārthasārathi, Śrī Kṛṣṇa, Bhagavān, Bhagavān (speaker label 'śrī bhagavān uvāca'), Vārṣṇeya, Arisūdana, Śrī Bhagavān
 **Lineages:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
 **Dates:** Tradition's account: end of the Dvāpara yuga; his departure from the world is taken to begin the Kali yuga (traditionally 3102 BCE)
 **Places:** Mathurā, Vraja (Gokula, Vṛndāvana), Dvārakā, Kurukṣetra
@@ -21,4 +21,8 @@ Son of Vasudeva and Devakī, prince of the Vṛṣṇis, Arjuna's charioteer and
 _Notes: Historicity recorded as 'legendary' in the scholarly sense only; the tradition holds him to be the Lord incarnate._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:gita/gita BhG 4.6-8, 10.8, 11.1-55, local:DharmicData MBh CE 12.326.82 (Mathurā birth), 13.16.1 (Kṛṣṇa speaks), 13.14.45 (Upamanyu) — Role as teacher of the Gītā and Anugītā (14.16.11), his manifestation at Mathurā (12.326.82) and the Upamanyu episode (13.14–17) located. Tradition-only dating as entered.
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, extraction:bhagavad-gita/ch01-03. Generated 2026-09-28 09:07 IST._

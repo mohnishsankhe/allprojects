@@ -10,4 +10,4 @@
 A former thief of low-caste birth who became Uriliṅgadēva's disciple, successor and a vacanakāra.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._

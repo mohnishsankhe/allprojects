@@ -1,6 +1,6 @@
 # Vivasvat (the Sun)
 
-`tch:vivasvat` · `skeleton` · confidence high
+`tch:vivasvat` · `sourced` · confidence high
 
 **Alternate names:** Vivasvān, Sūrya
 **Lineages:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
@@ -11,4 +11,8 @@
 The first recipient of the imperishable yoga from Kṛṣṇa, who passed it to Manu (BhG 4.1).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:gita/gita BhG 4.1 — Located as described.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

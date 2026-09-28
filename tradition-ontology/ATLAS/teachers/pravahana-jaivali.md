@@ -10,4 +10,4 @@
 King of the Pañcālas; asks Śvetaketu the five questions and teaches Gautama Āruṇi the doctrine of the five fires and the two paths, saying this knowledge had never before dwelt with brahmins (BAU 6.2; ChU 5.3-10); in ChU 1.8-9 he teaches that space (ākāśa) is the final support of the sāman.
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

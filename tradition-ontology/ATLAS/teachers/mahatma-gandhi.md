@@ -1,6 +1,6 @@
 # Mohandas K. Gandhi
 
-`tch:mahatma-gandhi` · `skeleton` · confidence moderate · _recent (post-1800)_
+`tch:mahatma-gandhi` · `sourced` · confidence moderate · _recent (post-1800)_
 
 **Alternate names:** Mahātmā Gandhi
 **Lineages:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
@@ -14,4 +14,8 @@ Leader who called the Gītā his 'mother' and read it as teaching action without
 _Notes: Recent (post-1800); no initiatory lineage — lineage field records the text-tradition he interpreted._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Anasakti_Yoga — Confirmed; 1869–1948.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

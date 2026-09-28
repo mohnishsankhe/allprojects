@@ -12,4 +12,4 @@ Sloth, boasting, the company of rogues, pursuit of mantras and the like, and cra
   - [Yogatattva Upaniṣad](../texts/yogatattva-upanisad.md) — ref: 30-31; rests_on: ["tea:yogatattva-upanisad:30-31"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

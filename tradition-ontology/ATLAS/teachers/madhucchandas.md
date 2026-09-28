@@ -1,6 +1,6 @@
 # Madhucchandas
 
-`tch:madhucchandas` · `skeleton` · confidence moderate
+`tch:madhucchandas` · `sourced` · confidence moderate
 
 **Alternate names:** Madhucchandas Vaiśvāmitra
 **Lineages:** [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Śākala śākhā (Ṛgveda)](../lineages/sakha-sakala.md)
@@ -14,4 +14,8 @@ Madhucchandas Vaiśvāmitra, son of Viśvāmitra, seer of the opening hymns of t
 _Notes: Seer attributions follow the Sarvānukramaṇī as printed in the hymn headers of the local Ṛgveda text (checked)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Rigveda/rigveda_mandala_1.json (Anukramaṇī seer/deity/metre headers), text:sources_raw/DharmicData/Rigveda/rigveda_mandala_9.json (Anukramaṇī seer/deity/metre headers) — Header 'madhucchandā vaiśvāmitraḥ' for 1.1–10 (1.11 is by Jetṛ Mādhucchandasa) and 9.1.
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

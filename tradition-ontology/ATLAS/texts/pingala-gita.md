@@ -1,6 +1,6 @@
 # Piṅgalā Gītā
 
-`src:pingala-gita` · `skeleton` · confidence high
+`src:pingala-gita` · `sourced` · confidence high
 
 **Original title:** पिङ्गलागीता
 **Language:** Sanskrit
@@ -46,4 +46,8 @@ terms: [nairāśya](../terms/nairasya.md) · obstacles: [Hope, expectation (āś
 _Notes: The same figure and the same maxim recur in Bhāgavata Purāṇa 11.8.22-44._
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.168.46-52 'piṅgalā' (12.168.52 the saying) — Section located at CE 12.168 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
+
+_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

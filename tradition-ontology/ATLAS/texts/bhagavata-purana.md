@@ -19,9 +19,9 @@
 The foremost Vaiṣṇava Purāṇa: Kṛṣṇa as Bhagavān himself; bhakti as the supreme dharma; the ten marks; creation, avatāras and cosmography (worlds, Bhū-maṇḍala, hells); the stories of Dhruva, Prahlāda, Ajāmila, Gajendra, Jaḍa Bharata and Ṛṣabha; Kṛṣṇa's life in Vraja with the rāsa-līlā and the gopīs' love in separation (Book 10); the Uddhava Gītā on yoga, powers and devotion; the Kali age, the dissolutions and Śuka's final non-dual teaching.
 **Editions / translations:** 
   - kind: original; name: Gita Press Śrīmad Bhāgavata (local e-text, raw_etexts bhAgavata-purANam/wiki); licence: public domain text
-**Commentaries on this text:** [Bhāgavata-tātparya-nirṇaya](bhagavata-tatparya-nirnaya.md), [Bhāvārthadīpikā](bhavarthadipika.md), [Bṛhad-Vaiṣṇavatoṣaṇī](brhad-vaisnava-tosani.md), [Kramasandarbha](krama-sandarbha.md), [Padaratnāvalī](padaratnavali.md), [Sārārthadarśinī](sarartha-darsini.md), [Subodhinī (Vallabha's commentary on the Bhāgavata Purāṇa)](subodhini-vallabha.md)
+**Commentaries on this text:** [Bhāgavata-tātparya-nirṇaya](bhagavata-tatparya-nirnaya.md), [Bhāvārthadīpikā](bhavarthadipika.md), [Bṛhad-Vaiṣṇavatoṣaṇī](brhad-vaisnava-tosani.md), [Catuḥślokī Bhāgavata (of Eknāth)](catuhsloki-bhagavata-eknath.md), [Kramasandarbha](krama-sandarbha.md), [Padaratnāvalī](padaratnavali.md), [Sārārthadarśinī](sarartha-darsini.md), [Subodhinī (Vallabha's commentary on the Bhāgavata Purāṇa)](subodhini-vallabha.md)
 
-## Teachings (86: skeleton 86)
+## Teachings (89: skeleton 87, sourced 2)
 
 ### 1.1.1 <a id="tea-bhagavata-purana-1-1-1"></a>
 `skeleton` · confidence high
@@ -124,7 +124,7 @@ _level: bridging · standpoint: absolute · path: knowledge · stage: advanced �
 terms: [māyā](../terms/maya.md), [brahman](../terms/brahman.md) · disputes: [Is the Bhāgavata's final purport non-dual knowledge or devotion?](../debates/bhagavata-purport-knowledge-or-devotion.md)
 
 ### 1.4.19-23 <a id="tea-bhagavata-purana-1-4-19-23"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Seeing the decline of beings in each age, Vyāsa, for the continuity of the sacrifice performed by the four priests, divided the one Veda into four — Ṛg, Yajus, Sāma and Atharva — with Itihāsa-Purāṇa called the fifth Veda; Paila held the Ṛgveda, Jaimini sang the Sāman, Vaiśampāyana alone mastered the Yajus, Sumantu the Atharvāṅgirasas, Romaharṣaṇa the Itihāsa-Purāṇas; they in turn divided their Vedas through pupils and pupils' pupils, and the Vedas became branched (śākhin).
 
@@ -144,7 +144,7 @@ _level: conventional · standpoint: analytic · path: general · stage: all · t
 terms: [purāṇa](../terms/purana.md), [itihāsa](../terms/itihasa.md) · concepts: [The Purāṇa as the fifth Veda](../concepts/purana-as-fifth-veda.md) · disputes: [What authority do the Purāṇas have beside the Veda?](../debates/authority-of-the-puranas.md)
 
 ### 1.4.25 <a id="tea-bhagavata-purana-1-4-25"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The triple Veda is not within hearing of women, śūdras and inferior twice-born (dvijabandhu); for the good of those deluded about right action, the sage in compassion composed the story of the Bhārata.
 
@@ -235,7 +235,7 @@ If the yogin wishes to go to Brahmā's world or to enjoy the powers of the sky-f
 
 _level: conventional · standpoint: cosmic · path: meditation, devotion · stage: advanced · types: death-dying, karma-liberation, world-fate_
 
-terms: [krama-mukti](../terms/krama-mukti.md), [sadyo-mukti](../terms/sadyo-mukti.md), [suṣumṇā](../terms/susumna.md), [satyaloka](../terms/satyaloka.md) · concepts: [Departure through the crown and the path to brahman](../concepts/yogic-departure-and-krama-mukti.md), [The fourteen worlds (caturdaśa bhuvana)](../concepts/fourteen-worlds.md)
+terms: [krama-mukti](../terms/krama-mukti.md), [sadyo-mukti](../terms/sadyo-mukti.md), [suṣumnā](../terms/susumna.md), [satyaloka](../terms/satyaloka.md) · concepts: [Departure through the crown and the path to brahman](../concepts/yogic-departure-and-krama-mukti.md), [The fourteen worlds (caturdaśa bhuvana)](../concepts/fourteen-worlds.md)
 
 ### 2.2.33-36 <a id="tea-bhagavata-purana-2-2-33-36"></a>
 `skeleton` · confidence high
@@ -476,6 +476,15 @@ _level: conventional · standpoint: seeker · path: devotion · stage: beginner 
 
 terms: [bhāgavata-dharma](../terms/bhagavata-dharma.md) · teachers: [Prahlāda](../teachers/prahlada.md)
 
+### 7.9.10 <a id="tea-bhagavata-purana-7-9-10"></a>
+`skeleton` · confidence high
+
+A dog-cooker (śvapaca) who has offered his mind, speech, actions, wealth and life to the Lord is better, I think, than a brāhmaṇa endowed with the twelve qualities who is averse to the lotus feet of the lotus-naveled Lord; the former purifies his whole family, not the proud one.
+
+_level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: ethics, dispute_
+
+concepts: [The Lord's devotees as one's masters; service to devotees](../concepts/service-to-devotees.md) · obstacles: [Pride of birth; judging devotees by caste (jāti-abhimāna)](../obstacles/jati-abhimana.md) · teachers: [Prahlāda](../teachers/prahlada.md) · disputes: [Does birth (caste) determine a devotee's worth, eligibility and place — in the temple, in scripture, and among devotees?](../debates/devotee-birth-and-caste.md), `dsp:women-caste-liberation`
+
 ### 7.9.43-44 <a id="tea-bhagavata-purana-7-9-43-44"></a>
 `skeleton` · confidence high
 
@@ -511,6 +520,17 @@ Because Gajendra's hymn described the Supreme without any particular name or for
 _level: ultimate · standpoint: divine · path: devotion · stage: all · types: ultimate_
 
 concepts: [The identity of Hari and Hara](../concepts/harihara-identity.md)
+
+### 9.4.63 <a id="tea-bhagavata-purana-9-4-63"></a>
+`skeleton` · confidence high
+
+'I am dependent on my devotees, as if I were not free, O brāhmaṇa; my heart is held by the saints; I am dear to my devotees.'
+
+> ahaṃ bhakta-parādhīno hy asvatantra iva dvija | sādhubhir grasta-hṛdayo bhaktair bhakta-jana-priyaḥ ||
+
+_level: conventional · standpoint: divine · path: devotion · stage: all · types: ultimate_
+
+terms: [bhakta-parādhīnatā](../terms/bhakta-paradhinata.md) · concepts: [The Lord's subjection to his devotees (bhakta-parādhīnatā)](../concepts/bhakta-paradhinata.md)
 
 ### 9.6.50-51 <a id="tea-bhagavata-purana-9-6-50-51"></a>
 `skeleton` · confidence high
@@ -646,6 +666,15 @@ In the Kali age the intelligent worship, by sacrifices consisting chiefly of con
 _level: conventional · standpoint: ritual · path: sound, devotion · stage: all · types: world-fate, sound-language_
 
 concepts: [The dharma of the Kali age](../concepts/kali-yuga-dharma.md), [Caitanya as Rādhā and Kṛṣṇa combined](../concepts/caitanya-as-radha-krsna.md)
+
+### 11.5.38-40 <a id="tea-bhagavata-purana-11-5-38-40"></a>
+`skeleton` · confidence moderate
+
+In the Kali age devotees of Nārāyaṇa will arise here and there, but in great numbers in the Draviḍa lands, where flow the Tāmraparṇī, the Kṛtamālā, the Payasvinī, the most holy Kāverī and the great western river; those who drink their waters are for the most part devotees of Vāsudeva.
+
+_level: conventional · standpoint: cosmic · path: devotion · stage: all · types: world-fate_
+
+concepts: [Devotees of the Kali age in the Tamil land](../concepts/dravida-devotees-in-kali.md)
 
 ### 11.14.14 <a id="tea-bhagavata-purana-11-14-14"></a>
 `skeleton` · confidence high
@@ -847,4 +876,4 @@ _level: conventional · standpoint: devotional · path: sound, devotion · stage
 _Notes: Commentaries: Śrīdhara Svāmin's Bhāvārthadīpikā (src:bhavarthadipika), Madhva's Bhāgavata-tātparya-nirṇaya, Vīrarāghava, Vijayadhvaja, Vallabha's Subodhinī, Sanātana's Bṛhad-vaiṣṇava-toṣaṇī, Jīva's Krama-sandarbha, Viśvanātha's Sārārthadarśinī (owned by U13-U16 where they create them). Contains the Kapila Gītā (3.25-33) and Uddhava Gītā (11.7-29), which U06 owns. verse number checked in the local e-text (sanskrit/raw_etexts, bhAgavata-purANam/wiki; Gita Press-type numbering)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

@@ -11,4 +11,4 @@
 Pāśupata teacher whom the Sarvadarśanasaṃgraha (ch. 6) quotes as the author of the Gaṇakārikā verses on the gains and impurities. Not to be confused with other Haradattas (the Dharmasūtra commentator; Haradatta Śivācārya).
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 09:07 IST._

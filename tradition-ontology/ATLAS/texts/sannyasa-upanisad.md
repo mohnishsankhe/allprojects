@@ -66,7 +66,7 @@ Food: fill half the stomach with food, a quarter with water, leave a quarter for
 
 _level: conventional · standpoint: ethical-social · path: general · stage: advanced · types: ethics_
 
-practices: [Moderate diet (mitāhāra)](../practices/mitahara.md), [Bee-like alms (mādhukarī)](../practices/madhukari-bhiksa.md)
+practices: [Moderate diet (mitāhāra) in the haṭha texts](../practices/mitahara.md), [Bee-like alms (mādhukarī)](../practices/madhukari-bhiksa.md)
 
 ### 2.65-71 <a id="tea-sannyasa-upanisad-2-65-71"></a>
 `skeleton` · confidence moderate
@@ -147,4 +147,4 @@ concepts: [The rite of renunciation](../concepts/sannyasa-rite.md), [The inner t
 _Notes: Its first chapter corresponds to the northern Kaṭhaśruti. A much shorter Sannyāsa Upaniṣad close to the Kuṇḍikā also circulates. Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-text used here; other editions (e.g. the Adyar series, Schrader's critical edition, northern recensions) number differently._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

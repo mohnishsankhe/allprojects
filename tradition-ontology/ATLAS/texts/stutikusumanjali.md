@@ -14,4 +14,4 @@
 Jagaddhara Bhaṭṭa's collection of hymns to Śiva in 38 chapters.
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

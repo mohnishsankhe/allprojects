@@ -3,7 +3,7 @@
 `tch:patanjali-grammarian` · `skeleton` · confidence moderate
 
 **Alternate names:** Gonardīya (by some commentators), bhāṣyakāra
-**Lineages:** `lin:vyakarana`, [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md)
+**Lineages:** [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md), [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md)
 **Dates:** Tradition's account: an incarnation of the serpent Śeṣa, identical with the author of the Yoga Sūtra; Scholarly account: mid-2nd c. BCE (the Mahābhāṣya refers to sacrificing for Puṣyamitra); (confidence moderate)
 **Historicity:** historical
 **Works:** 
@@ -13,4 +13,4 @@ Author of the Vyākaraṇa-Mahābhāṣya. The tradition identifies him with Pat
 **Realization — the tradition's account:** Tradition regards him as Śeṣa (Ananta) incarnate and as the one who purified speech by grammar, the mind by yoga and the body by medicine (a widely quoted invocatory verse).
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

@@ -1,6 +1,6 @@
 # Piṅgalā
 
-`tch:pingala` · `skeleton` · confidence high
+`tch:pingala` · `sourced` · confidence high
 
 **Alternate names:** Piṅgalanāga
 **Lineages:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md)
@@ -14,4 +14,8 @@ A courtesan of Videha whose sudden disenchantment while waiting for clients make
 **Realization — the tradition's account:** Waiting through the night for a rich lover, she felt deep disgust, turned to the Self as her true beloved and slept happily, free of expectation.
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 12.168.46-52 — Located as described.
+
+_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

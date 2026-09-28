@@ -1,6 +1,6 @@
 # Māṇḍūkāyana (Ṛgveda śākhā)
 
-`lin:sakha-mandukayana` · `skeleton` · confidence low
+`lin:sakha-mandukayana` · `sourced` · confidence low
 
 **Family:** vedic
 **Alternate names:** Māṇḍūkeya
@@ -32,4 +32,8 @@ _none recorded_
 _Notes: Name only; nothing of its text is known to survive._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/caranavyuha, https://en.wikipedia.org/wiki/Shakha — Confirmed as a name in Śaunaka's list of five Ṛgveda śākhās, with no surviving text — as the entry says. (AVPariś 49 lists 'māṇḍūkāḥ' among seven.)
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

@@ -21,8 +21,8 @@ When all paths are destroyed in the Kali age of wicked conduct and the world is 
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: practice, world-fate_
 
-concepts: [The dharma of the Kali age](../concepts/kali-yuga-dharma.md) · obstacles: [Taking refuge in other than Kṛṣṇa (anyāśraya)](../obstacles/anyasraya.md) · teachers: [Vallabhācārya (Śrī Vallabha, Mahāprabhujī)](../teachers/vallabha.md)
+concepts: [The dharma of the Kali age](../concepts/kali-yuga-dharma.md) · obstacles: [Reliance on other supports or other gods (anyāśraya)](../obstacles/anyasraya.md) · teachers: [Vallabhācārya (Śrī Vallabha, Mahāprabhujī)](../teachers/vallabha.md)
 
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._

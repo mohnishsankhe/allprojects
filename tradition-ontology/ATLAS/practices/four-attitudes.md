@@ -22,4 +22,4 @@ Cultivating friendliness toward the happy, compassion toward the suffering, glad
 - partial: `prc:brahmavihara-bhavana` — Same four attitudes and 'vihāra' vocabulary (YBh 4.10) as the Buddhist brahmavihāras; objects and aim differ (YS 1.33 assigns each to a class of object)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 09:07 IST._

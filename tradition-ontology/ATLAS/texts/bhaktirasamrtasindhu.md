@@ -149,7 +149,7 @@ Remembering Kṛṣṇa and his beloved associate suited to one's own longing, a
 
 _level: conventional · standpoint: devotional · path: devotion, meditation · stage: intermediate · types: practice_
 
-terms: [siddha-deha (siddha-rūpa)](../terms/siddha-deha.md) · concepts: [The perfected inner body (siddha-deha)](../concepts/siddha-deha.md) · practices: [Spontaneous devotional practice (rāgānugā sādhana)](../practices/raganuga-sadhana.md), [Remembrance of the eightfold daily play (aṣṭakālīya-līlā-smaraṇa)](../practices/asta-kaliya-lila-smarana.md) · teachers: [Rūpa Gosvāmī](../teachers/rupa-gosvami.md)
+terms: [siddha-deha](../terms/siddha-deha.md) · concepts: [The perfected inner body (siddha-deha)](../concepts/siddha-deha.md) · practices: [Spontaneous devotional practice (rāgānugā sādhana)](../practices/raganuga-sadhana.md), [Remembrance of the eightfold daily play (aṣṭakālīya-līlā-smaraṇa)](../practices/asta-kaliya-lila-smarana.md) · teachers: [Rūpa Gosvāmī](../teachers/rupa-gosvami.md)
 
 ### 1.3 <a id="tea-bhaktirasamrtasindhu-1-3-2"></a>
 `skeleton` · confidence low
@@ -209,7 +209,7 @@ Rūpa sets out the components of bhakti-rasa: the permanent emotion (sthāyibhā
 
 _level: conventional · standpoint: analytic · path: devotion · stage: all · types: consciousness-mind_
 
-terms: [sthāyibhāva](../terms/sthayibhava.md), [vibhava](../terms/vibhava.md), [anubhava](../terms/anubhava.md), [sāttvika-bhāva](../terms/sattvika-bhava.md), [vyabhicārī-bhāva (sañcārī-bhāva)](../terms/vyabhicari-bhava.md), [bhakti-rasa](../terms/bhakti-rasa.md) · concepts: [The components of bhakti-rasa](../concepts/bhakti-rasa-components.md) · teachers: [Rūpa Gosvāmī](../teachers/rupa-gosvami.md)
+terms: [sthāyibhāva](../terms/sthayibhava.md), [vibhava](../terms/vibhava.md), [anubhava](../terms/anubhava.md), [sāttvika-bhāva](../terms/sattvika-bhava.md), [vyabhicāribhāva (sañcāribhāva)](../terms/vyabhicari-bhava.md), [bhakti-rasa](../terms/bhakti-rasa.md) · concepts: [The components of bhakti-rasa](../concepts/bhakti-rasa-components.md) · teachers: [Rūpa Gosvāmī](../teachers/rupa-gosvami.md)
 
 ### 2.3 <a id="tea-bhaktirasamrtasindhu-2-3"></a>
 `skeleton` · confidence moderate
@@ -227,7 +227,7 @@ Thirty-three transient emotions (vyabhicārī-bhāva), from despondency (nirveda
 
 _level: conventional · standpoint: analytic · path: devotion · stage: advanced · types: consciousness-mind_
 
-terms: [vyabhicārī-bhāva (sañcārī-bhāva)](../terms/vyabhicari-bhava.md) · concepts: [The thirty-three transient emotions](../concepts/thirty-three-vyabhicari-bhavas.md) · teachers: [Rūpa Gosvāmī](../teachers/rupa-gosvami.md)
+terms: [vyabhicāribhāva (sañcāribhāva)](../terms/vyabhicari-bhava.md) · concepts: [The thirty-three transient emotions](../concepts/thirty-three-vyabhicari-bhavas.md) · teachers: [Rūpa Gosvāmī](../teachers/rupa-gosvami.md)
 
 ### 3 <a id="tea-bhaktirasamrtasindhu-3"></a>
 `skeleton` · confidence high
@@ -249,4 +249,4 @@ terms: [gauṇa-rasa](../terms/gauna-rasa.md), [rasābhāsa](../terms/rasabhasa.
 
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._

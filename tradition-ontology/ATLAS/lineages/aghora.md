@@ -23,19 +23,28 @@ Aghora is the lineage of Śaiva ascetics centred on Bābā Kīnārām's seat at 
 
 **Transmissions received:** 
   - `lin:datta-sampradaya` — what: Dattātreya as ādiguru; Girnar as the place of Kīnārām's vision; evidence: the tradition's account (Kīnārām hagiography).
-  - `lin:ramanandi` — what: Kīnārām's first (Vaiṣṇava) initiation under Śivarām and the Rāma-devotional language of his works (Rāmgītā, Rāmrasāl); evidence: the tradition's account; titles of Kīnārām's works.
+  - [Rāmānandī sampradāya](ramanandi.md) — what: Kīnārām's first (Vaiṣṇava) initiation under Śivarām and the Rāma-devotional language of his works (Rāmgītā, Rāmrasāl); evidence: the tradition's account; titles of Kīnārām's works.
   - [Kāpālika (Somasiddhānta)](kapalika.md) — what: cremation-ground practice, skull bowl, transgression of purity rules; evidence: scholarly hypothesis; not the tradition's own account.
 **Transmissions given:** 
   - [Śrī Sarveśvarī Samūh (Aghoreśvar Bhagavān Rām's Aghora organisation)](sarvesvari-samuh.md) — what: the Aghora lineage re-shaped toward social service (1961 onward)
 
+## The ultimate in this lineage
+`skeleton` · confidence low
+
+**Names:** Aghora (Śiva, the not-terrible), Rām (the attributeless, in Kīnārām's works)
+**Descriptions:** Śiva present equally in what is pure and impure, feared and loved; the state beyond the eight fetters, in which the bound paśu becomes Maheśvara (Kulārṇava 13.91)
+**Relation to self:** The one freed from the fetters is himself Maheśvara; the guru is Śiva.
+**Relation to world:** The world, including the cremation ground and what is loathed, is not other than Śiva.
+**Caveat:** Aghora's own texts (Kīnārām's Vivekasār etc.) are not yet extracted; this view rests on the shared Kaula doctrine of the fetters and on the lineage's self-description, and should be revised from its own writings.
+
 ## Texts
-[Gītāvalī (Kīnārām)](../texts/gitavali-kina-ram.md), `src:kularnava-tantra`, [Rāmgītā (Kīnārām)](../texts/ramgita-kina-ram.md), [Rāmrasāl](../texts/ramrasal.md), [Unmunīrām](../texts/unmuniram.md), [Vivekasār](../texts/vivekasar-kina-ram.md)
+[Gītāvalī (Kīnārām)](../texts/gitavali-kina-ram.md), [Kulārṇava Tantra](../texts/kularnava-tantra.md), [Rāmgītā (Kīnārām)](../texts/ramgita-kina-ram.md), [Rāmrasāl](../texts/ramrasal.md), [Unmunīrām](../texts/unmuniram.md), [Vivekasār](../texts/vivekasar-kina-ram.md)
 
 ## Teachers
 [Aghoreśvar Bhagavān Rām](../teachers/bhagwan-ram.md), [Bījārām](../teachers/bija-ram.md), [Dattātreya](../teachers/dattatreya.md), [Gurupad Sambhav Rām](../teachers/gurupad-sambhav-ram.md), [Kālūrām](../teachers/kalu-ram.md), [Kīnārām](../teachers/kina-ram.md), [Rājeśvar Rām](../teachers/rajesvar-ram.md), [Siddhārth Gautam Rām](../teachers/siddharth-gautam-ram.md), [Śivarām (Kīnārām's Vaiṣṇava guru)](../teachers/sivaram-ramanandi.md)
 
 ## Practices
-_none recorded_
+[Cultivating non-discrimination (abheda)](../practices/abheda-bhava.md), [Service of the sick and outcaste (Aghora seva)](../practices/aghora-seva.md), [Cremation-ground practice (Aghora)](../practices/aghora-smasana-sadhana.md), [Tending the sacred fire (dhūnī)](../practices/dhuni-seva.md), [Pilgrimage to Hiṅglāj](../practices/hinglaj-yatra.md), [Eating and drinking from the skull bowl](../practices/kapala-patra.md), [Bathing in the Krīm Kuṇḍ](../practices/krim-kund-snana.md), [Practice seated on a corpse (śava-sādhana)](../practices/sava-sadhana.md)
 
 ## Path maps
 _none recorded_
@@ -46,4 +55,4 @@ _none recorded_
 _Notes: family 'vedic' follows the coverage-map grouping (A7, Śaiva lineages); it does not settle the tradition's own rejection of Vedic ritual authority (see dsp:natha-varna-and-ritual (Aghora shares the Nāth position)) nor its overlap with the Buddhist Mahāsiddhas (C; brw:natha-mahasiddha). Tradition's dates for Kīnārām are recorded as the tradition gives them; they are not independently confirmed._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._

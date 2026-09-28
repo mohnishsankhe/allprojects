@@ -9,8 +9,9 @@
 
 ## Definitions
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Yamas: non-injury, truth, non-stealing, celibacy, compassion, rectitude, forbearance, fortitude, moderate diet, purity; niyamas: austerity, contentment, faith, charity, worship of the Lord, hearing doctrine, modesty, discernment, japa, vows (Śāṇḍilya, Darśana, Triśikhi, Varāha).
+- [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md): The interpolated HYP verses (with 1.17) and the Yoga Yājñavalkya list ten restraints (non-harming, truth, non-stealing, continence, forbearance, fortitude, compassion, straightforwardness, moderate diet, purity) and ten observances; the DYŚ says moderate eating is chief among the yamas and non-harming among the niyamas (30); the SS gives its own lists of things to avoid and to follow (3.33, 3.35).
 
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-28 09:07 IST._

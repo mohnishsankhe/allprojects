@@ -22,7 +22,7 @@ No: atoms joining on six sides would have six parts; if they do not join, aggreg
 - Viṃśatikā vv. 11–15 (range from memory).
 **Texts:** 
   - `src:vimsatika` — ref: vv. 11–15
-### `lin:jainism`
+### [Jainism (Jaina dharma)](../lineages/jainism.md)
 Atoms exist but are of one kind of matter (pudgala), taking the form of any element, and bond by their sticky and dry qualities.
 - Tattvārtha Sūtra 5 (as usually cited).
 **Texts:** 
@@ -36,4 +36,4 @@ Atoms exist but are of one kind of matter (pudgala), taking the form of any elem
 **Candidate readings:** P1-level: Advaita and Yogācāra could allow atomic analysis at the empirical level while denying it ultimacy; Vaiśeṣika rejects that frame.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._

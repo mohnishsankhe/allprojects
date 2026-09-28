@@ -14,4 +14,4 @@
 _Notes: The Bhāṭṭa position that killing enjoined as part of a rite (e.g. the Agnīṣomīya animal) is not sin is general knowledge, not checked here; see dsp:sacrificial-killing._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

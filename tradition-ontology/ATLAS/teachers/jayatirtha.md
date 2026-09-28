@@ -1,6 +1,6 @@
 # Jayatīrtha
 
-`tch:jayatirtha` · `skeleton` · confidence high
+`tch:jayatirtha` · `sourced` · confidence high
 
 **Alternate names:** Ṭīkācārya, Jaya Muni, Dhoṇḍo Raghunātha (pre-monastic name, tradition)
 **Lineages:** [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md), [Uttarādi Maṭha](../lineages/uttaradi-matha.md)
@@ -34,4 +34,8 @@ The great commentator (Ṭīkācārya) of the tradition: author of the Nyāyasud
 _Notes: The location of his brindāvana (Malkheḍ, per the Uttarādi Maṭha; Nava Brindāvana, per another view) is disputed within the tradition — recorded at low confidence. The realization account is oral and hagiographic tradition; no textual source was checked for it._
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — local:gItAprasthAnam/geeta_ nyayadeepika.md, https://www.exoticindiaart.com/book/details/gita-bhashyam-with-commentary-of-sri-jayatirtha-and-sri-raghavendratirtha-nzg165/ — Both works confirmed.
+
+_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

@@ -14,4 +14,4 @@
 Forty Tamil verses by Aruḷāḷa Perumāḷ Emperumāṉār (the former Advaitin Yajñamūrti) on the essentials of surrender and devotion to the teacher.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._

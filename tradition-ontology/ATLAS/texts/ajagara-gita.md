@@ -1,6 +1,6 @@
 # Ajagara Gītā (Prahlāda and the python-sage)
 
-`src:ajagara-gita` · `skeleton` · confidence moderate
+`src:ajagara-gita` · `sourced` · confidence moderate
 
 **Original title:** अजगरगीता
 **Language:** Sanskrit
@@ -20,4 +20,8 @@ Prahlāda questions a sage who lives like a python (ajagara), accepting whatever
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.172.2-12 Prahrāda; 12.172.25-37 ājagara vow — Section located at CE 12.172 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

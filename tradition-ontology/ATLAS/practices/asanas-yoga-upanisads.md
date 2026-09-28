@@ -3,8 +3,8 @@
 `prc:asanas-yoga-upanisads` · `skeleton` · confidence high
 
 **Category:** posture
-**Convergence:** 2 independent lineage(s): `lin:hatha-yoga`, [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
-**Taught in:** `lin:hatha-yoga`, [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
+**Convergence:** 2 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
+**Taught in:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 
 Lists vary: four chief postures (siddha, padma, siṃha, bhadra — Yogatattva, Dhyānabindu); eight (Śāṇḍilya); nine (Darśana); eleven (Varāha); seventeen (Triśikhi); siddhāsana and padmāsana are pre-eminent.
 **Sources:** 
@@ -15,4 +15,4 @@ Lists vary: four chief postures (siddha, padma, siṃha, bhadra — Yogatattva, 
   - [Darśana Upaniṣad](../texts/darsana-upanisad.md) — ref: 3.1-13; rests_on: ["tea:darsana-upanisad:3.1-13"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

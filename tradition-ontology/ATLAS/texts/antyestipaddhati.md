@@ -13,4 +13,4 @@ The family of practical manuals (paddhati) for the funeral rites — preparing t
 _Notes: Collective entry for a genre; individual titles not listed (gap)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

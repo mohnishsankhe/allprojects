@@ -1,6 +1,6 @@
 # Mahāprasthānikaparvan
 
-`src:mahaprasthanikaparvan` · `skeleton` · confidence high
+`src:mahaprasthanikaparvan` · `sourced` · confidence high
 
 **Original title:** महाप्रस्थानिकपर्वन्
 **Language:** Sanskrit
@@ -20,4 +20,8 @@ The book of the great departure: the Pāṇḍavas and Draupadī walk toward the
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_17.json (BORI Critical Edition text) book 17: 3 chapters — Book 17 has exactly 3 chapters in the local Critical Edition text, as entered.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

@@ -1,6 +1,6 @@
 # Sautrāmaṇī
 
-`prc:sautramani` · `skeleton` · confidence low
+`prc:sautramani` · `sourced` · confidence low
 
 **Category:** ritual
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -11,4 +11,8 @@ A rite to Indra the good protector (sutrāman) with offerings including surā, p
   - [Vājasaneyi Saṃhitā (Mādhyandina)](../texts/vajasaneyi-samhita.md) — ref: 19–21 (as usually located)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Yajurveda/vajasneyi_madhyadina_samhita.json — VS 19.1 'svādvīṃ tvā svādunā … indrāya sutrāmṇe pacyasva' opens the sautrāmaṇī — 'VS 19–21' confirmed.
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

@@ -42,7 +42,7 @@ The school of Prabhākara Miśra ('the Guru'), based on his Bṛhatī and Laghv�
 [Bhavanātha](../teachers/bhavanatha.md), [Nandīśvara](../teachers/nandisvara.md), [Prabhākara Miśra](../teachers/prabhakara.md), [Rāmānujācārya (Prābhākara author)](../teachers/ramanujacarya-tantrarahasya.md), [Śālikanātha Miśra](../teachers/salikanatha.md), [Varadarāja (commentator on the Nayaviveka)](../teachers/varadaraja-nayaviveka.md)
 
 ## Practices
-[Self-knowledge supported by calm, restraint and celibacy (Prābhākara)](../practices/atmajnana-sama-dama.md), [Inquiry into dharma (dharma-jijñāsā, vedārtha-vicāra)](../practices/dharma-jijnasa.md), [Performing obligatory and occasional rites while abstaining from desire-prompted and prohibited acts](../practices/nitya-naimittika-anusthana.md), [Vedic study (vedādhyayana / svādhyāya)](../practices/vedadhyayana.md), [Sacrifice performed as duty (yajña)](../practices/yajna.md)
+[Self-knowledge supported by calm, restraint and celibacy (Prābhākara)](../practices/atmajnana-sama-dama.md), [Inquiry into dharma (dharma-jijñāsā, vedārtha-vicāra)](../practices/dharma-jijnasa.md), [Performing obligatory and occasional rites while abstaining from desire-prompted and prohibited acts](../practices/nitya-naimittika-anusthana.md), [Vedic study (vedādhyayana / svādhyāya)](../practices/vedadhyayana.md), [Sacrifice and eating its remains (yajña, yajña-śiṣṭa)](../practices/yajna.md)
 
 ## Path maps
 [The Prābhākara way to release (Śālikanātha)](../paths/prabhakara-moksa.md)
@@ -53,4 +53,4 @@ The school of Prabhākara Miśra ('the Guru'), based on his Bṛhatī and Laghv�
 _Notes: Status set to 'unknown': few independent Prābhākara works are known after c. the 16th century, though its doctrines are still studied in traditional curricula._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

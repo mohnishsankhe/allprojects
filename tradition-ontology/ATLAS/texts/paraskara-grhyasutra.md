@@ -13,4 +13,4 @@
 The domestic-rite manual of the White Yajurveda (also called Kātīya or Vājasaneyi Gṛhyasūtra), in 3 kāṇḍas, much used in North India for marriage (with the seven steps), initiation and funeral water-offerings.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

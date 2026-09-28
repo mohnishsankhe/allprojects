@@ -13,4 +13,4 @@ Repeating and offering with the verse 'we worship Tryambaka … may I be freed f
   - [Vājasaneyi Saṃhitā (Mādhyandina)](../texts/vajasaneyi-samhita.md) — ref: 3.60; rests_on: ["tea:vajasaneyi-samhita:3.60"]
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

@@ -21,7 +21,7 @@ The most authoritative metrical code of dharma, spoken by Bhṛgu on behalf of M
   - kind: original; name: GRETIL e-text (Yano & Ikari; Kullūka base with Medhātithi variants), local mirror
 **Commentaries on this text:** [Manubhāṣya of Medhātithi](manubhasya-medhatithi.md), [Manvarthamuktāvalī of Kullūka](manvarthamuktavali.md)
 
-## Teachings (86: skeleton 86)
+## Teachings (88: skeleton 88)
 
 ### 1.5-6 <a id="tea-manusmrti-1-5-6"></a>
 `skeleton` · confidence high
@@ -327,6 +327,15 @@ _level: conventional · standpoint: ethical-social · path: ritual, action · st
 
 terms: [śrāddha](../terms/sraddha-ancestral-rite.md), [piṇḍa](../terms/pinda.md) · concepts: [The ancestors (pitṛ)](../concepts/ancestors-pitrs.md) · practices: [Śrāddha (offering to the ancestors)](../practices/sraddha-ancestral-rite.md)
 
+### 3.162 <a id="tea-manusmrti-3-162"></a>
+`skeleton` · confidence high
+
+Among those to be excluded from a śrāddha: a trainer of elephants, cattle, horses or camels, one who lives by the asterisms, a breeder of birds, and a teacher of fighting.
+
+_level: conventional · standpoint: ethical-social · path: ritual · stage: all · types: ethics, world-fate, dispute_
+
+disputes: `dsp:astrologer-at-sraddha`
+
 ### 3.192-199 <a id="tea-manusmrti-3-192-199"></a>
 `skeleton` · confidence moderate
 
@@ -506,6 +515,17 @@ Delighting in the self, seated, indifferent, without desire for flesh, with hims
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: practice, karma-liberation_
 
 practices: [Renunciation (saṃnyāsa) in the Dharmaśāstra](../practices/samnyasa.md)
+
+### 6.50 <a id="tea-manusmrti-6-50"></a>
+`skeleton` · confidence high
+
+The ascetic should never seek alms by (interpreting) portents and omens, by astrology and palmistry, or by giving advice and by disputation.
+
+> na cotpātanimittābhyāṃ na nakṣatrāṅgavidyayā | nānuśāsanavādābhyāṃ bhikṣāṃ lipseta karhicit ||
+
+_level: conventional · standpoint: ethical-social · path: general · stage: advanced (saṃnyāsa) · types: ethics, world-fate, dispute_
+
+disputes: `dsp:astrology-for-renunciants`
 
 ### 6.65 <a id="tea-manusmrti-6-65"></a>
 `skeleton` · confidence high
@@ -799,4 +819,4 @@ terms: [ātman](../terms/atman.md), [brahman](../terms/brahman.md), [puruṣa](.
 _Notes: Commentaries: Medhātithi, Govindarāja, Kullūka, Nārāyaṇa, Rāghavānanda, Nandana and others._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

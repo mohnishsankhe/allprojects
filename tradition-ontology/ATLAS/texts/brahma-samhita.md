@@ -13,7 +13,7 @@
 
 The fifth chapter of a Pāñcarātra-style saṃhitā, Brahmā's hymn to Govinda as the supreme Lord whose form is being, consciousness and bliss, residing in Goloka among his own potencies; tradition says Caitanya found it at the Ādikeśava temple in south India (CC 2.9); commented on by Jīva.
 
-## Teachings (6: skeleton 6)
+## Teachings (7: skeleton 7)
 
 ### 5.1 <a id="tea-brahma-samhita-5-1"></a>
 `skeleton` · confidence high
@@ -60,6 +60,17 @@ _level: ultimate · standpoint: devotional · path: devotion, knowledge · stage
 
 concepts: [Brahman, Paramātman and Bhagavān](../concepts/brahman-paramatman-bhagavan.md) · disputes: `dsp:saguna-nirguna`
 
+### 5.44 <a id="tea-brahma-samhita-5-44"></a>
+`skeleton` · confidence high
+
+Durgā — the one power that accomplishes creation, maintenance and dissolution — sustains the worlds like his shadow and acts according to his will: I worship Govinda, the primal Person.
+
+> सृष्टिस्थितिप्रलयसाधनशक्तिरेका छायेव यस्य भुवनानि विभर्त्ति दुर्गा। इच्छानुरूपमपि यस्य च चेष्टते सा गोविन्दमादिपुरुषं तमहं भजामि॥
+
+_level: conventional · standpoint: devotional · path: devotion · stage: all · types: ultimate, dispute_
+
+disputes: [Is Kṛṣṇa a form of Kālī, or is the Goddess a power of Kṛṣṇa?](../debates/krsna-and-kali.md)
+
 ### 5.48 <a id="tea-brahma-samhita-5-48"></a>
 `skeleton` · confidence moderate
 
@@ -71,4 +82,4 @@ concepts: [The three puruṣa-avatāras](../concepts/three-purusa-avataras.md)
 
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._

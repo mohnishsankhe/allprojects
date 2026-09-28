@@ -5,7 +5,7 @@
 **Original title:** तर्करहस्यदीपिका
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** `lin:svetambara`, [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md), [Kālāmukha](../lineages/kalamukha.md)
+**Lineages:** [Śvetāmbara](../lineages/svetambara.md), [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md), [Kālāmukha](../lineages/kalamukha.md)
 **Genre:** commentary (doxography)
 **Commentary on:** `src:saddarsanasamuccaya-haribhadra`
 **Attribution:** tradition: Guṇaratna Sūri; scholarly: the Tapāgaccha monk Guṇaratna, c. 1400–1410; confidence: moderate
@@ -42,4 +42,4 @@ terms: [mahāvratin / mahāvratadhara](../terms/mahavratin.md), [kālāmukha / k
 _Notes: The appendix heading names Haribhadra; the prose is taken here to be Guṇaratna's commentary (moderate confidence)._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 09:07 IST._

@@ -274,7 +274,7 @@ Meditation (dhyāna) is the removal of passion; it is accomplished through the c
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: intermediate · types: practice_
 
-terms: [dhyāna (nididhyāsana)](../terms/dhyana.md) · practices: [Meditation as objectless mind (dhyāna)](../practices/nirvisaya-dhyana.md) · obstacles: [Passion (rāga)](../obstacles/raga.md)
+terms: [dhyāna (nididhyāsana)](../terms/dhyana.md) · practices: [Meditation as objectless mind (dhyāna)](../practices/nirvisaya-dhyana.md) · obstacles: [Passion, attachment (rāga)](../obstacles/raga.md)
 
 ### 3.32-36 <a id="tea-samkhya-sutra-3-32-36"></a>
 `skeleton` · confidence moderate
@@ -283,7 +283,7 @@ It is accomplished by concentration, posture and one's own duty; restraint (of b
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: beginner · types: practice, ethics_
 
-terms: [āsana](../terms/asana.md), [abhyāsa](../terms/abhyasa.md), [vairāgya](../terms/vairagya.md) · practices: [Concentration (dhāraṇā)](../practices/dharana.md), [Posture (āsana)](../practices/asana.md), [Breath-regulation (prāṇāyāma)](../practices/pranayama.md), [Performing one's own duty (svakarma)](../practices/svakarma.md), [Dispassion (vairāgya)](../practices/vairagya.md)
+terms: [āsana](../terms/asana.md), [abhyāsa](../terms/abhyasa.md), [vairāgya](../terms/vairagya.md) · practices: [Concentration (dhāraṇā)](../practices/dharana.md), [Posture (āsana)](../practices/asana.md), [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md), [Performing one's own duty (svakarma)](../practices/svakarma.md), [Dispassion (vairāgya)](../practices/vairagya.md)
 
 ### 3.54 <a id="tea-samkhya-sutra-3-54"></a>
 `skeleton` · confidence moderate
@@ -393,7 +393,7 @@ Brooding on what is not a means leads to bondage, as with Bharata.
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: practice_
 
-obstacles: [Passion (rāga)](../obstacles/raga.md)
+obstacles: [Passion, attachment (rāga)](../obstacles/raga.md)
 
 ### 4.11 <a id="tea-samkhya-sutra-4-11"></a>
 `skeleton` · confidence moderate
@@ -445,7 +445,7 @@ Passion is not quieted by enjoyment, as with the sage (Saubhari); (it is quieted
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: practice_
 
-practices: [Seeing the faults (doṣa-darśana)](../practices/dosa-darsana.md) · obstacles: [Passion (rāga)](../obstacles/raga.md)
+practices: [Seeing the faults (doṣa-darśana)](../practices/dosa-darsana.md) · obstacles: [Passion, attachment (rāga)](../obstacles/raga.md)
 
 ### 4.29-30 <a id="tea-samkhya-sutra-4-29-30"></a>
 `skeleton` · confidence moderate
@@ -703,4 +703,4 @@ teachers: [Pañcaśikha](../teachers/pancasikha.md), [Sanandana](../teachers/san
 
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._

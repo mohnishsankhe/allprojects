@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:vyakarana`, [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md)
+**Lineages:** [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md), [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md)
 **Genre:** vyākaraṇa
 **Availability:** digitized-original
 
@@ -13,4 +13,4 @@ The sūtras deriving nouns with the 'uṇ and following' affixes from verbal roo
 _Notes: Ascribed by some to Śākaṭāyana, by others to Pāṇini or later authors; not asserted here._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

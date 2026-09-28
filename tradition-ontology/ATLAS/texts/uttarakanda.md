@@ -1,6 +1,6 @@
 # Uttarakāṇḍa
 
-`src:uttarakanda` · `skeleton` · confidence high
+`src:uttarakanda` · `sourced` · confidence high
 
 **Original title:** उत्तरकाण्ड
 **Language:** Sanskrit
@@ -20,4 +20,8 @@ The last book: the history of the rākṣasas, Rāma's reign, the banishment of 
   - kind: original; name: DharmicData JSON of the Vālmīki Rāmāyaṇa (southern vulgate numbering); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:GRETIL-dev:valmiki_ramayana_7, local:sources_raw/DharmicData/ValmikiRamayana (southern vulgate) book 7 — Book 7 of the Vālmīki Rāmāyaṇa, digitized in several local editions.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

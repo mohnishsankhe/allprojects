@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [Avidyā (ignorance) in Advaita](avidya.md): Śaṅkara: 'the learned call this superimposition avidyā' — rests on [intro/3](../texts/brahma-sutra-bhasya-sankara.md#tea-brahma-sutra-bhasya-sankara-intro-3)
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

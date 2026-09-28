@@ -15,4 +15,4 @@ Knowledge given by grace through the guru, cultivated in four steps: hearing (k�
 **Sequences:** `pth:saiva-siddhanta-four-padas`, [The ten acts (daśakārya / tacakāriyam) of Tamil Śaiva Siddhānta](../paths/saiva-siddhanta-ten-karyas.md)
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._

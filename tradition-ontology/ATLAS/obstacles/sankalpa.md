@@ -11,4 +11,4 @@ The mind's conceiving that spins worlds; its cure ends saṃsāra for oneself.
   - [Mokṣopāya](../texts/moksopaya.md) — ref: 4.30-37; rests_on: ["tea:moksopaya:4.30-37"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

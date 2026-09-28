@@ -14,7 +14,7 @@
 
 ## Relations (interpretation layer)
 - same-as-under-standpoint → [Grace (anugraha) as the Lord's fifth act](grace-anugraha.md) (divine): Both lineages use the one term for the Lord's grace and both link it to karmasāmya; they differ on direction (Kiraṇa: equality marks the time of descent; Ahirbudhnya: the Lord's glance brings about equality). — rests on [5.14-20](../texts/kirana-tantra.md#tea-kirana-tantra-5-14-20), [14.28-34](../texts/ahirbudhnya-samhita.md#tea-ahirbudhnya-samhita-14-28-34)
-- causes → [Kinds of initiation (dīkṣā) in the Āgamas](kinds-of-diksa.md): the Kiraṇa's śaktipāta chapter leads directly into its dīkṣā chapter — rests on [6.1-4](../texts/kirana-tantra.md#tea-kirana-tantra-6-1-4)
+- causes → [Kinds of initiation](kinds-of-diksa.md): the Kiraṇa's śaktipāta chapter leads directly into its dīkṣā chapter — rests on [6.1-4](../texts/kirana-tantra.md#tea-kirana-tantra-6-1-4)
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._

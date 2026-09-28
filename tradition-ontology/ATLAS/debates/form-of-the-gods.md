@@ -21,4 +21,4 @@ Not person-like: what is seen of them — fire, wind, sun, earth, moon — is no
 **Explanation:** Yāska's own conclusion allows both ('or they may be of both kinds'), and grounds the many forms in the one self of the deity (Nirukta 7.4).
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

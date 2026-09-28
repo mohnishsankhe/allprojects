@@ -1,6 +1,6 @@
 # Ṛgvidhāna
 
-`src:rgvidhana` · `skeleton` · confidence moderate
+`src:rgvidhana` · `sourced` · confidence moderate
 
 **Original title:** ऋग्विधानम्
 **Language:** Sanskrit
@@ -16,4 +16,8 @@ A verse manual of the uses (vidhāna) of Ṛgveda hymns for expiation, protectio
 _Notes: Local copy: gretil 1_veda/5_vedang/3_pratis/rgvidhana.md._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Ṛgvidhāna, catalog:GRETIL-dev:rgvidhana, https://en.wikipedia.org/wiki/Shaunaka — Extant and digitized; ascription to Śaunaka confirmed.
+
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

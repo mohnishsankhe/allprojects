@@ -15,4 +15,4 @@ The Āraṇyaka of the Kauṣītaki/Śāṅkhāyana Ṛgveda: after chapters on 
 _Notes: Order of chapters 7–15 given from memory at chapter level (low confidence)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

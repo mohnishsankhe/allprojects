@@ -13,4 +13,4 @@ Grasping at possessions and hoarding, which brings suffering and attack (the osp
   - [Śamyāka Gītā](../texts/samyaka-gita.md) — ref: 12.170; rests_on: ["tea:samyaka-gita:12.170"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

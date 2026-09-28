@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:vyakarana`, [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md)
+**Lineages:** [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md), [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md)
 **Genre:** vyākaraṇa (vṛtti)
 **Commentary on:** [Aṣṭādhyāyī](astadhyayi.md)
 **Authors:** 
@@ -17,4 +17,4 @@ The first complete running commentary on the Aṣṭādhyāyī, rule by rule, wi
 **Commentaries on this text:** [Nyāsa (Kāśikāvivaraṇapañjikā)](nyasa-jinendrabuddhi.md), [Padamañjarī](padamanjari.md)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

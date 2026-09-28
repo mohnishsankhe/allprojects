@@ -14,4 +14,4 @@
 Vows (vratas) of the lunar year, their stories, rules and fruits.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

@@ -1,6 +1,6 @@
 # Yakṣapraśna (the Yakṣa's questions)
 
-`src:yaksaprasna` · `skeleton` · confidence high
+`src:yaksaprasna` · `sourced` · confidence high
 
 **Alternate titles:** Āraṇeyaparvan
 **Original title:** यक्षप्रश्न
@@ -21,10 +21,10 @@ At a lake guarded by a yakṣa, Yudhiṣṭhira's brothers fall dead after drink
   - kind: original; name: The Mahābhārata, Critical Edition, ed. V. S. Sukthankar et al., Bhandarkar Oriental Research Institute, Pune (1933–1966); licence: print edition (text public domain; apparatus under BORI copyright)
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
-## Teachings (10: skeleton 10)
+## Teachings (10: sourced 10)
 
 ### 3.297 <a id="tea-yaksaprasna-3-297"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 At the lake the Yakṣa questions Yudhiṣṭhira in riddles — what makes the sun rise, what is heavier than the earth (the mother) and higher than the sky (the father), what is the best of gains (health), of happiness (contentment), what is the highest dharma — and Yudhiṣṭhira answers each.
 
@@ -33,7 +33,7 @@ _level: conventional · standpoint: analytic · path: general · stage: all · t
 teachers: [Yudhiṣṭhira (Dharmarāja)](../teachers/yudhisthira.md), [Dharma (the god; Yama Dharmarāja)](../teachers/dharma.md)
 
 ### 3.297.55 <a id="tea-yaksaprasna-3-297-55"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Non-cruelty is the highest dharma; the dharma of the three Vedas always bears fruit; the mind restrained, people do not grieve; friendship with the good does not decay.
 
@@ -42,7 +42,7 @@ _level: conventional · standpoint: ethical-social · path: general · stage: al
 terms: [ānṛśaṃsya](../terms/anrsamsya.md), [dharma](../terms/dharma.md) · concepts: [Non-violence and non-cruelty (ahiṃsā, ānṛśaṃsya)](../concepts/non-violence.md)
 
 ### 3.297.63-64 <a id="tea-yaksaprasna-3-297-63-64"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Yudhiṣṭhira: as long as the sound of a person's good deeds touches heaven and earth, so long is he called a person; the one to whom the pleasant and unpleasant, pleasure and pain, past and future are alike is the man who possesses all wealth.
 
@@ -51,7 +51,7 @@ _level: conventional · standpoint: ethical-social · path: knowledge · stage: 
 concepts: [Evenness of mind (samatva)](../concepts/equanimity.md)
 
 ### 3.297.66-73 <a id="tea-yaksaprasna-3-297-66-73"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Allowed to have one brother revived, Yudhiṣṭhira chooses Nakula, son of Mādrī, over the mighty Bhīma and Arjuna: non-cruelty is the highest dharma; as Kuntī is, so is Mādrī to him, and he wishes both mothers to have a living son.
 
@@ -60,7 +60,7 @@ _level: conventional · standpoint: ethical-social · path: general · stage: al
 terms: [ānṛśaṃsya](../terms/anrsamsya.md) · concepts: [The subtlety of dharma](../concepts/subtlety-of-dharma.md)
 
 ### 3.298 <a id="tea-yaksaprasna-3-298"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The Yakṣa reveals himself as Dharma, Yudhiṣṭhira's father, revives all the brothers, and grants boons.
 
@@ -69,14 +69,14 @@ _level: conventional · standpoint: divine · path: general · stage: all · typ
 teachers: [Dharma (the god; Yama Dharmarāja)](../teachers/dharma.md)
 
 ### vulg-3.313/1 <a id="tea-yaksaprasna-vulg-3-313-1"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 (Vulgate) Asked what is the greatest wonder, Yudhiṣṭhira answers: day after day beings go to the abode of Yama, yet those who remain wish to live for ever — what could be more wonderful?
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: death-dying_
 
 ### vulg-3.313/2 <a id="tea-yaksaprasna-vulg-3-313-2"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 (Vulgate) Asked what is the path, Yudhiṣṭhira answers: reasoning is unstable, the scriptures differ, there is no single sage whose view is authority; the truth of dharma is hidden in a cave — the path is that by which the great have gone.
 
@@ -85,7 +85,7 @@ _level: conventional · standpoint: seeker · path: general · stage: all · typ
 concepts: [The subtlety of dharma](../concepts/subtlety-of-dharma.md)
 
 ### vulg-3.313/3 <a id="tea-yaksaprasna-vulg-3-313-3"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 (Vulgate) Asked what the news is, Yudhiṣṭhira answers: in this cauldron of great delusion, with the sun as fire and days and nights as fuel, stirred by the ladle of months and seasons, Time cooks beings — that is the news.
 
@@ -94,14 +94,14 @@ _level: conventional · standpoint: cosmic · path: general · stage: all · typ
 concepts: [Time (kāla) as the destroyer](../concepts/time-as-destroyer.md)
 
 ### vulg-3.313/4 <a id="tea-yaksaprasna-vulg-3-313-4"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 (Vulgate) Asked who is happy, Yudhiṣṭhira answers: the one who, free of debt and not living abroad, cooks vegetables in his own house on the fifth or sixth day.
 
 _level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics_
 
 ### vulg-3.313/5 <a id="tea-yaksaprasna-vulg-3-313-5"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 (Vulgate) Asked whether birth, conduct, study or learning makes a brāhmaṇa, Yudhiṣṭhira answers that conduct (vṛtta) alone does, not birth, study or learning.
 
@@ -113,4 +113,8 @@ disputes: [Is varṇa (and eligibility for austerity and teaching) fixed by birt
 _Notes: Checked against the local critical text: the famous 'greatest wonder' (ahany ahani bhūtāni...), 'the truth of dharma is hidden in a cave' and 'time cooks beings' verses do not occur in CE 3.297–298; they are vulgate verses (Gita Press Vanaparvan 313; exact verse numbers not confirmed here)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_3.json (BORI Critical Edition text) 3.297.26ff Yakṣa's questions; 3.298 Dharma revealed — Section located at CE 3.297-298 as entered; speakers and topic confirmed by keyword search. Vulgate location (Vanaparvan 311–313, Gita Press numbering) supported by the web citation of 3.313.116; the local vulgate file (another edition) has the Yakṣa chapter as Āraṇyaparvan adhyāya 314. Dating = the whole-epic accounts, as entered.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

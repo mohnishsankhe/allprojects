@@ -1,6 +1,6 @@
 # Bhṛgu–Bharadvāja Saṃvāda
 
-`src:bhrgu-bharadvaja-samvada` · `skeleton` · confidence high
+`src:bhrgu-bharadvaja-samvada` · `sourced` · confidence high
 
 **Original title:** भृगुभरद्वाजसंवाद
 **Language:** Sanskrit
@@ -20,4 +20,8 @@ Bhṛgu answers Bharadvāja on the creation of the world from the Mind-born (Mā
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.176.1 Bharadvāja asks; 12.180.1 Bhṛgu speaks; 12.181.10 — Section located at CE 12.175-185 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

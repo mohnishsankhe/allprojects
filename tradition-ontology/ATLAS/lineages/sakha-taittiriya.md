@@ -1,6 +1,6 @@
 # Taittirīya śākhā (Black Yajurveda)
 
-`lin:sakha-taittiriya` · `skeleton` · confidence high
+`lin:sakha-taittiriya` · `sourced` · confidence high
 
 **Family:** vedic
 **Alternate names:** Taittirīya, Āpastamba, Baudhāyana, Hiraṇyakeśin, Bhāradvāja, Vādhūla, Vaikhānasa (its sūtra schools)
@@ -33,4 +33,8 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate+websearch: confirmed — https://en.wikipedia.org/wiki/Taittiriya_Shakha, text:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md — Confirmed: most widespread Black Yajurveda tradition, strongest in South India; complete Saṃhitā, Brāhmaṇa, Āraṇyaka; name-legend Viṣṇu Purāṇa 3.5.13 (located).
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

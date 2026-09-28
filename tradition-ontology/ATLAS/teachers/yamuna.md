@@ -1,6 +1,6 @@
 # Yāmunācārya
 
-`tch:yamuna` · `skeleton` · confidence high
+`tch:yamuna` · `sourced` · confidence high
 
 **Alternate names:** Yāmuna, Āḷavantār, Yāmunamuni
 **Lineages:** [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md), [Pāñcarātra](../lineages/pancaratra.md)
@@ -23,4 +23,8 @@ Grandson of Nāthamuni and grand-teacher of Rāmānuja; author of the Siddhitray
 _Notes: Contribution from U08 (Pāñcarātra defence); U14 owns his Vedānta._
 
 ---
-_Contributed by: skeleton:U14-visistadvaita, skeleton:U08-agama-catalogue, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — local:gretil_devanAgarI yamuna_gitarthasangraha.md (32 verses) — Confirmed.
+
+_Contributed by: skeleton:U14-visistadvaita, skeleton:U08-agama-catalogue, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

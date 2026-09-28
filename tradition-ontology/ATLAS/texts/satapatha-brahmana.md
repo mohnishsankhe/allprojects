@@ -154,7 +154,7 @@ One who is consecrated should not eat the flesh of cow or ox; but Yājñavalkya 
 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: ethics, practice_
 
-practices: [Dīkṣā (consecration for sacrifice)](../practices/diksa.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md) · disputes: [Is the killing prescribed in Vedic ritual an injury (hiṃsā) that brings demerit?](../debates/vedic-ritual-killing-and-ahimsa.md)
+practices: [Initiation (dīkṣā) in the Kaula way](../practices/diksa.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md) · disputes: [Is the killing prescribed in Vedic ritual an injury (hiṃsā) that brings demerit?](../debates/vedic-ritual-killing-and-ahimsa.md)
 
 ### 3.2.1.23-24 <a id="tea-satapatha-brahmana-3-2-1-23-24"></a>
 `skeleton` · confidence high
@@ -473,4 +473,4 @@ concepts: [Vaṃśa — the teacher-lineage lists](../concepts/vamsa-lineage-lis
 _Notes: Commentaries: Harisvāmin (partial), Sāyaṇa. See also the Kāṇva recension (src:satapatha-brahmana-kanva)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

@@ -13,4 +13,4 @@ Harmful beings who disturb the rite and cause disease, driven off by Agni, Indra
 _Notes: rests_on: tea:rgveda:10.97.6, tea:rgveda:7.104.15_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

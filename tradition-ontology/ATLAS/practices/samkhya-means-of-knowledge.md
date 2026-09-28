@@ -25,4 +25,4 @@ Five of the eight accomplishments of SK 51 serve as means to knowledge of the pr
 - analogous: [Reflection (manana)](manana.md) — reasoning (ūha) ~ Advaita's manana (interpretive)
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._

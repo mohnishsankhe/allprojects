@@ -1,6 +1,6 @@
 # Maitrāyaṇīya śākhā (Black Yajurveda)
 
-`lin:sakha-maitrayaniya` · `skeleton` · confidence moderate
+`lin:sakha-maitrayaniya` · `sourced` · confidence moderate
 
 **Family:** vedic
 **Alternate names:** Maitrāyaṇī, Mānava
@@ -31,4 +31,8 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://groups.google.com/g/bvparishat/c/VQTo-u4dYqA — Confirmed: Maitrāyaṇī Saṃhitā recited by a few Brahmins of Nashik (reports of near-extinction of the traditional style). Gujarat not confirmed in the sources found (entry: 'as reported').
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

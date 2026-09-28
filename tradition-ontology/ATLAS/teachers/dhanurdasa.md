@@ -10,4 +10,4 @@
 Wrestler of Uṟaiyūr whom, the tradition says, Rāmānuja turned from infatuation with his wife's eyes to the eyes of Raṅganātha; an exemplar of devotion regardless of birth.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._

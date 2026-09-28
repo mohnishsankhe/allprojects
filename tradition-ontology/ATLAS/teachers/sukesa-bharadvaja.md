@@ -9,4 +9,4 @@
 One of the six seekers devoted to brahman who come to Pippalāda with fuel in hand; he asks about the person of sixteen parts (PrU 6).
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

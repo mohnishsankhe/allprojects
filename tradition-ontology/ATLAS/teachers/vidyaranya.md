@@ -3,7 +3,7 @@
 `tch:vidyaranya` · `skeleton` · confidence high
 
 **Alternate names:** Mādhava (tradition), Mādhavācārya
-**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Vivaraṇa school (Vivaraṇa-prasthāna)](../lineages/vivarana.md), [Bhāṭṭa Mīmāṃsā](../lineages/bhatta-mimamsa.md), [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](../lineages/sannyasa.md), [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md)
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Vivaraṇa school (Vivaraṇa-prasthāna)](../lineages/vivarana.md), [Bhāṭṭa Mīmāṃsā](../lineages/bhatta-mimamsa.md), [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md), [Jyotiṣa (the science of the lights)](../lineages/jyotisa.md), [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](../lineages/sannyasa.md)
 **Dates:** Scholarly account: 14th c. CE (d. 1386); (confidence moderate)
 **Historicity:** historical
 **Teachers:** [Śaṅkarānanda](sankarananda.md), [Vidyāśaṅkara (Vidyātīrtha)](vidyasankara.md)
@@ -16,6 +16,7 @@
   - [Sarvadarśanasaṃgraha](../texts/sarvadarsanasangraha.md) — attribution: disputed
   - [Śaṅkaradigvijaya (Mādhavīya)](../texts/sankaradigvijaya.md) — attribution: doubtful
   - [Jaiminīya-nyāya-mālā(-vistara)](../texts/jaiminiya-nyayamala.md) — attribution: traditional
+  - [Kālamādhava (Kālanirṇaya)](../texts/kalamadhava.md) — attribution: traditional
   - [Parāśaramādhavīya](../texts/parasara-madhaviya.md) — attribution: traditional
   - [Kālanirṇaya of Mādhava](../texts/kalanirnaya-madhava.md) — attribution: traditional
 
@@ -24,4 +25,4 @@ Pontiff of Śṛṅgeri (d. 1386), author of the Pañcadaśī, the Jīvanmuktivi
 _Notes: Identity with the minister Mādhava is the tradition's; scholars debate it._
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U12-mimamsa, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U12-mimamsa, skeleton:U32-jyotisa, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

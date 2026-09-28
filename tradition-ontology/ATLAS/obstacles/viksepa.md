@@ -16,4 +16,4 @@ The mind's running to external things; it should be calmed again (GK 3.44).
 _Notes: Partial parallel: Vedāntasāra's vikṣepa (list of obstacles to nirvikalpa samādhi; U13). Viśvanātha adds apratipatti._
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._

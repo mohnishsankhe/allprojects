@@ -113,4 +113,4 @@
 Names and order checked against the local SSM e-text (M00207): 44 aṅga-sthalas (15+9+7+5+4+4) and 57 liṅga-sthalas (9+9+9+9+12+9). Bands (interpretation layer) are assigned only to the aṅga-side stages; the liṅga-side stages run parallel to them and are left unbanded. The six-sthala map itself is pth:virasaiva-satsthala (owned by U51).
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._

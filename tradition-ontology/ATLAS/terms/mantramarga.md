@@ -16,4 +16,4 @@
 **Related:** [atimārga](atimarga.md), [srotas](srotas.md)
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U17-pasupata-kapalika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U17-pasupata-kapalika. Generated 2026-09-28 09:07 IST._

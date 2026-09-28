@@ -13,4 +13,4 @@ Regarding every being as the Lord, with equal vision toward brāhmaṇa and outc
   - [Kapila Gītā](../texts/kapila-gita.md) — ref: 3.29.21-25; rests_on: ["tea:kapila-gita:3.29.21-25"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

@@ -14,4 +14,4 @@
 - obstructs → [Devotion as the supreme dharma](bhakti-supreme-dharma.md): the powers waste the time of one seeking the Lord — rests on [11.15.33-34](../texts/bhagavata-purana.md#tea-bhagavata-purana-11-15-33-34)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

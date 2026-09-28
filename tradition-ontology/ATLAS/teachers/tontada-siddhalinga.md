@@ -13,4 +13,4 @@
 Fifteenth-century Vīraśaiva ascetic of Yeḍiyūr whose Ṣaṭsthalajñānasārāmṛta renewed the vacana tradition; teacher of a line of renunciant (virakta) masters.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._

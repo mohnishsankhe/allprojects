@@ -17,4 +17,4 @@
 - leads-to → [Heaven (svarga)](svarga.md): the declared fruit of the paradigm rites — rests on [4.3.15](../texts/mimamsa-sutra.md#tea-mimamsa-sutra-4-3-15)
 
 ---
-_Contributed by: skeleton:U12-mimamsa, skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

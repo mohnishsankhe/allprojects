@@ -13,4 +13,4 @@ Not attaining a level of samādhi. One of the nine obstacles (1.30, YBh 1.30).
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 1.30; rests_on: ["tea:yoga-bhasya:1.30"]
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 09:07 IST._

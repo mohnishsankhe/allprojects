@@ -13,4 +13,4 @@ Offering rice-balls and water to the three generations of fathers, who are calle
   - [Śatapatha Brāhmaṇa (Mādhyandina)](../texts/satapatha-brahmana.md) — ref: 2.4.2; rests_on: ["tea:satapatha-brahmana:2.4.2.1-5"]
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

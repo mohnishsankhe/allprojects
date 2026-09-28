@@ -1,6 +1,6 @@
 # Kapiṣṭhala-Kaṭha Saṃhitā
 
-`src:kapisthala-katha-samhita` · `skeleton` · confidence moderate
+`src:kapisthala-katha-samhita` · `sourced` · confidence moderate
 
 **Original title:** कपिष्ठलकठसंहिता
 **Language:** Sanskrit
@@ -14,4 +14,8 @@ The fragmentary Saṃhitā of the Kapiṣṭhala branch of the Kaṭhas, close t
   - kind: original; name: Raghu Vira, Kapiṣṭhala-Kaṭha-Saṃhitā (1932)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:eBharati:kapiShThalakaThasaMhitA — Extant (fragmentary) and digitized in the local eBhāratī collection; Raghu Vira's 1932 edition is the standard one (not separately web-checked).
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

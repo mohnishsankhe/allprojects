@@ -19,4 +19,4 @@ Aṣṭāvakra, born crooked in eight limbs by his father's curse, defeats the c
 _Notes: Printed as an 'Aṣṭāvakra Gītā' in three chapters in the 1896 Pañcadaśagītā; distinct from src:astavakra-gita._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

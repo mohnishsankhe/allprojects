@@ -1,6 +1,6 @@
 # Vallabhācārya (Śrī Vallabha, Mahāprabhujī)
 
-`tch:vallabha` · `skeleton` · confidence high
+`tch:vallabha` · `sourced` · confidence high
 
 **Lineages:** [Puṣṭimārga (Vallabha Sampradāya; Śuddhādvaita Brahmavāda)](../lineages/pustimarga.md)
 **Dates:** Tradition's account: 1479–1531 CE (VS 1535–1587); Scholarly account: 1479–1531 CE; (confidence high)
@@ -23,4 +23,8 @@ Founder of Śuddhādvaita and the Puṣṭimārga; author of the Aṇubhāṣya,
 _Notes: U05's contribution only._
 
 ---
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://www.hindu-blog.com/2022/09/tatvarthdip-nibandh-of-shri-mahaprabhu.html, https://vallabh.org/docs/bhagavad-gita/introduction/ — Least-sure item: founder of the Puṣṭimārga; his reading of the Gītā is in the first section (Śāstrārtha-prakaraṇa) of the Tattvārthadīpanibandha. Traditional dates 1479–1531 as entered.
+
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

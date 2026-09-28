@@ -11,7 +11,7 @@
 **Texts:** 
   - [Tēvāram](../texts/tevaram.md) — ref: 1-3.10
   - [Periya Purāṇam](../texts/periya-puranam.md) — ref: tirunanacampantar-puranam
-### `lin:jainism`
+### [Jainism (Jaina dharma)](../lineages/jainism.md)
 Release is gained by right faith, knowledge and conduct, by one's own effort and austerity, without a creator's grace; non-violence is the highest dharma (position as held in Jain texts; in the Śaiva sources it is reported by opponents).
 - Reported here chiefly through Śaiva sources (reported by opponent).
 **Texts:** 
@@ -30,4 +30,4 @@ Release is gained by right faith, knowledge and conduct, by one's own effort and
 **The traditions' own objections:** Both the Tēvāram and Jain teaching deny that the other's path leads to release.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._

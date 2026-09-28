@@ -15,4 +15,4 @@
 - leads-to → [Skambha, the frame of the world](skambha-support.md): The Skambha hymn identifies the frame of the world with the highest Brahman. — rests on [10.7.17](../texts/atharvaveda-saunaka.md#tea-atharvaveda-saunaka-10-7-17)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

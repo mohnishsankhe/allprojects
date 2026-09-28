@@ -13,4 +13,4 @@ An old Dharma text of Hārīta, lost and known from quotations (later metrical L
 _Notes: The brahmavādinī/sadyovadhū quotation is known through later digests; wording not verified here._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

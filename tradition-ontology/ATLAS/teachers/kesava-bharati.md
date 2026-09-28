@@ -9,4 +9,4 @@
 Renouncer who gave Caitanya sannyāsa at Kāṭoyā (c. 1510), naming him Kṛṣṇa Caitanya.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._

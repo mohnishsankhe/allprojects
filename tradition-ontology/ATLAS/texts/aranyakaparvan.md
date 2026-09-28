@@ -1,6 +1,6 @@
 # Āraṇyakaparvan
 
-`src:aranyakaparvan` · `skeleton` · confidence high
+`src:aranyakaparvan` · `sourced` · confidence high
 
 **Original title:** आरण्यकपर्वन्
 **Language:** Sanskrit
@@ -20,4 +20,8 @@ The book of the forest (vulgate: Vanaparvan): the twelve years of exile, with ma
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_3.json (BORI Critical Edition text) book 3: 299 chapters — Book 3 has exactly 299 chapters in the local Critical Edition text, as entered.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

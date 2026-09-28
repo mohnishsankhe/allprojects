@@ -1,0 +1,14 @@
+# Love that seeks its own pleasure (the paramour's love)
+
+`obs:jara-bhava` · `skeleton` · confidence moderate
+
+**Category:** other
+**Convergence:** 1 independent lineage(s): [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md)
+**Taught in:** [Bhakti-śāstra: the sūtra tradition of devotional theory (Nārada, Śāṇḍilya)](../lineages/bhakti-sastra.md)
+
+Love without knowledge of the Lord's greatness, and without happiness in his happiness, is like the love of paramours; the gopīs' love had neither fault (NBS 22–24).
+**Sources:** 
+  - [Nārada Bhakti Sūtra](../texts/narada-bhakti-sutra.md) — ref: 22-24; rests_on: ["tea:narada-bhakti-sutra:20-24"]
+
+---
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-28 09:07 IST._

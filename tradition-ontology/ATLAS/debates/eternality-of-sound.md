@@ -21,11 +21,11 @@ Yes: the word (and its phonemes) is eternal and its relation to meaning original
 - MS 1.1.5–23 (as usually cited).
 **Texts:** 
   - [Mīmāṃsā Sūtra](../texts/mimamsa-sutra.md) — ref: 1.1.5–23
-### `lin:vyakarana`
+### [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md)
 The meaning-bearing word (sphoṭa) is eternal, manifested by sounds (Bhartṛhari).
 - Recalled; U31 to supply details.
 **Texts:** 
-  - `src:vakyapadiya` — ref: book 1
+  - [Vākyapadīya](../texts/vakyapadiya.md) — ref: book 1
 ### [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md)
 Words — the letters — are eternal and only manifested by utterance: utterance serves to convey to another; the same word is recognized everywhere; utterances are counted as repetitions of one word; no cause of destruction is known; the Veda speaks of eternal speech.
 - MS 1.1.18–23 against the prima facie view of 1.1.6–11.
@@ -38,10 +38,10 @@ Sound is a non-eternal quality of ether: it has a beginning, is perceived by a s
   - [Nyāya Sūtra](../texts/nyaya-sutra.md) — ref: 2.2 (on the non-eternality of sound)
 ### `lin:pramana-buddhist`
 Everything produced is momentary; words signify by convention; no eternal, authorless word exists.
-### `lin:vyakarana`
+### [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md)
 The word is eternal, but as the sphoṭa manifested by sounds, not as the audible letters.
 **Texts:** 
-  - `src:vakyapadiya` — ref: book 1
+  - [Vākyapadīya](../texts/vakyapadiya.md) — ref: book 1
 
 ## Reconciliation (interpretation layer)
 **Status:** not yet reconciled (queued)
@@ -53,4 +53,4 @@ The word is eternal, but as the sphoṭa manifested by sounds, not as the audibl
 _Notes: Opponents' positions summarized from general knowledge; references chapter-level._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

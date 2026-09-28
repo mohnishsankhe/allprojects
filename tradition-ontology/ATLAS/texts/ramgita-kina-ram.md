@@ -4,7 +4,7 @@
 
 **Language:** Hindi
 **Family:** vedic
-**Lineages:** [Aghora (Aghor panth; Aghorī and Aughaṛ ascetics)](../lineages/aghora.md), `lin:ramanandi`
+**Lineages:** [Aghora (Aghor panth; Aghorī and Aughaṛ ascetics)](../lineages/aghora.md), [Rāmānandī sampradāya](../lineages/ramanandi.md)
 **Genre:** gītā
 **Authors:** 
   - [Kīnārām](../teachers/kina-ram.md) — role: author; attribution: traditional
@@ -13,4 +13,4 @@
 A Hindi work of Kīnārām teaching Rām as the attributeless supreme.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._

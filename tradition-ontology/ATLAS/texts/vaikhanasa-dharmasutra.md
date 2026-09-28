@@ -16,4 +16,4 @@ The dharma section of the Vaikhānasa sūtra: the four āśramas, with detailed 
 _Notes: Also relevant to U02 (Dharmaśāstra) and U04/U57 (renunciation)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

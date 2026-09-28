@@ -632,7 +632,7 @@ terms: [pretyabhāva](../terms/pretyabhava.md) · concepts: [Nyāya arguments fo
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: karma-liberation_
 
-terms: [rāga (avairāgya)](../terms/raga.md), [ātman](../terms/atman.md) · concepts: [Nyāya arguments for previous and future births](../concepts/rebirth-proofs-nyaya.md)
+terms: [rāga](../terms/raga.md), [ātman](../terms/atman.md) · concepts: [Nyāya arguments for previous and future births](../concepts/rebirth-proofs-nyaya.md)
 
 ### 3.1.27-31 <a id="tea-nyaya-sutra-3-1-27-31"></a>
 `skeleton` · confidence moderate
@@ -763,7 +763,7 @@ The faults form three groups — attachment (rāga), aversion (dveṣa) and delu
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: karma-liberation_
 
-terms: [doṣa](../terms/dosa.md), [rāga (avairāgya)](../terms/raga.md), [dveṣa](../terms/dvesa.md), [moha](../terms/moha.md) · concepts: [The three groups of faults (doṣa)](../concepts/three-dosas-nyaya.md) · obstacles: [The three groups of faults (rāga, dveṣa, moha)](../obstacles/three-dosas-nyaya.md), [Attachment (rāga)](../obstacles/raga-nyaya.md), [Aversion (dveṣa)](../obstacles/dvesa-nyaya.md), [Delusion (moha)](../obstacles/moha-nyaya.md)
+terms: [doṣa](../terms/dosa.md), [rāga](../terms/raga.md), [dveṣa](../terms/dvesa.md), [moha](../terms/moha.md) · concepts: [The three groups of faults (doṣa)](../concepts/three-dosas-nyaya.md) · obstacles: [The three groups of faults (rāga, dveṣa, moha)](../obstacles/three-dosas-nyaya.md), [Attachment (rāga)](../obstacles/raga-nyaya.md), [Aversion (dveṣa)](../obstacles/dvesa-nyaya.md), [Delusion (moha)](../obstacles/moha-nyaya.md)
 
 ### 4.1.6 <a id="tea-nyaya-sutra-4-1-6"></a>
 `skeleton` · confidence high
@@ -897,7 +897,7 @@ terms: [pravṛtti](../terms/pravrtti.md), [pretyabhāva](../terms/pretyabhava.m
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: karma-liberation_
 
-terms: [rāga (avairāgya)](../terms/raga.md), [prāgabhāva](../terms/pragabhava.md)
+terms: [rāga](../terms/raga.md), [prāgabhāva](../terms/pragabhava.md)
 
 ### 4.2.1 <a id="tea-nyaya-sutra-4-2-1"></a>
 `skeleton` · confidence high
@@ -1129,4 +1129,4 @@ terms: [nigrahasthāna](../terms/nigrahasthana.md) · concepts: [The twenty-two 
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._

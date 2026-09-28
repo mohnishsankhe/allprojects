@@ -49,4 +49,4 @@ concepts: [The four orders of life (āśrama)](../concepts/four-asramas.md) · d
 _Notes: Commentary: Govindasvāmin._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

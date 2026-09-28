@@ -1,6 +1,6 @@
 # Camakam (Camaka-praśna)
 
-`src:camakam` · `skeleton` · confidence high
+`src:camakam` · `sourced` · confidence high
 
 **Alternate titles:** Camaka, Vasordhārā formulas
 **Original title:** चमकम्
@@ -17,4 +17,8 @@ The Yajurveda litany that follows the Śatarudrīya: a long series of petitions 
 _Notes: Recited with the Śatarudrīya (Namakam-Camakam); ritually the formulas accompany the 'stream of wealth' (vasordhārā) offering of the agnicayana (moderate confidence)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/vedaH/yajur/taittirIya/mUlam/saMhitA/4/7.md, text:sources_raw/DharmicData/Yajurveda/vajasneyi_madhyadina_samhita.json, https://www.hindupedia.com/en/Vasordh%C4%81r%C4%81 — TS 4.7.1–11 (vājaś ca me … to the numbers) and VS 18.1–27 (ending 'yajñena kalpantām') located. Vasordhārā as the agnicayana libation with these formulas confirmed at general level (Hindupedia: 'stream of wealth' at the agnicayana, mantras from TS and VS).
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

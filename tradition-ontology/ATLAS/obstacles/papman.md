@@ -13,4 +13,4 @@ Evil pierced the senses in the gods' contest, so that one speaks, sees and think
   - [Chāndogya Upaniṣad](../texts/chandogya-upanisad.md) — ref: 1.2; 8.4; 5.24; 4.14.3; rests_on: ["tea:chandogya-upanisad:1.2.1-9", "tea:chandogya-upanisad:8.4.1-3", "tea:chandogya-upanisad:5.19.1-5.24.4", "tea:chandogya-upanisad:4.14.3"]
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

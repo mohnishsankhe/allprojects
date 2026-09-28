@@ -189,7 +189,7 @@ Resolving 'I will surely do whatever it tells me' and resting in that state, [th
 
 _level: bridging · standpoint: experiential · path: meditation, body-breath · stage: advanced · types: powers-experiences, body-layers_
 
-terms: [suṣumṇā](../terms/susumna.md) · concepts: [The doctrine of vibration (spanda)](../concepts/spanda-doctrine.md) · obstacles: [Void, sleep-like absorption mistaken for the goal](../obstacles/susupta-like-absorption.md)
+terms: [suṣumnā](../terms/susumna.md) · concepts: [The doctrine of vibration (spanda)](../concepts/spanda-doctrine.md) · obstacles: [Void, sleep-like absorption mistaken for the goal](../obstacles/susupta-like-absorption.md)
 
 ### 2.1-2 <a id="tea-spanda-karika-2-1-2"></a>
 `skeleton` · confidence high
@@ -323,4 +323,4 @@ concepts: [The doctrine of vibration (spanda)](../concepts/spanda-doctrine.md) �
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

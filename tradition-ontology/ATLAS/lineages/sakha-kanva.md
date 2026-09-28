@@ -1,6 +1,6 @@
 # Kāṇva śākhā (White Yajurveda)
 
-`lin:sakha-kanva` · `skeleton` · confidence moderate
+`lin:sakha-kanva` · `sourced` · confidence moderate
 
 **Family:** vedic
 **Alternate names:** Vājasaneyi Kāṇva
@@ -31,4 +31,8 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Kanva_Shakha, https://vedicheritage.gov.in/samhitas/yajurveda/vajasaneyi-kanva-samhita/ — Confirmed: followed in Maharashtra, Karnataka, Andhra, Odisha (also Tamil Nadu, Gujarat, MP).
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

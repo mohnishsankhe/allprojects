@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), `lin:hatha-yoga`, [Advaita Vedānta](../lineages/advaita-vedanta.md)
+**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Advaita Vedānta](../lineages/advaita-vedanta.md)
 **Genre:** upaniṣad
 **Attribution:** tradition: Śruti: revealed, without human author (apauruṣeya); the Muktikā presents it as one of the 108 Upaniṣads that Rāma teaches Hanumān, each belonging to a Vedic śākhā; scholarly: anonymous; assigned to a Veda by the Muktikā list, not by any surviving śākhā transmission; confidence: moderate
 **Dates:** Tradition's account: Śruti: eternal and authorless; no human date; Scholarly account: Scholarly accounts differ by text. Several Yoga Upaniṣads (e.g. Amṛtabindu, Amṛtanāda, Kṣurikā, Tejobindu, Nādabindu, Dhyānabindu, Brahmavidyā, Yogatattva, Yogaśikhā, Haṃsa) survive in shorter northern versions that are older; the expanded southern recensions (as in this collection) borrow from medieval haṭha works and were probably compiled in South India, perhaps as late as the 18th c. (Bouy 1994).; (confidence low)
@@ -146,7 +146,7 @@ There is no mantra higher than nāda, no god higher than one's own Self, no wors
 
 _level: bridging · standpoint: experiential · path: sound, meditation · stage: advanced · types: sound-language, practice_
 
-concepts: [Nāda — the inner sound](../concepts/nada.md) · practices: [Listening to the inner sound](../practices/nadanusandhana.md)
+concepts: [Nāda — the inner sound](../concepts/nada.md) · practices: [Attention to the inner sound (nādānusandhāna) in the haṭha texts](../practices/nadanusandhana.md)
 
 ### 3.2-10 <a id="tea-yogasikha-upanisad-3-2-10"></a>
 `skeleton` · confidence high
@@ -241,7 +241,7 @@ Attention to nāda destroys vāsanās; nāda is bindu, and bindu is mind.
 
 _level: bridging · standpoint: experiential · path: sound, meditation · stage: advanced · types: sound-language, consciousness-mind_
 
-concepts: [Nāda — the inner sound](../concepts/nada.md), [Bindu — the drop / point](../concepts/bindu.md) · practices: [Listening to the inner sound](../practices/nadanusandhana.md)
+concepts: [Nāda — the inner sound](../concepts/nada.md), [Bindu — the drop / point](../concepts/bindu.md) · practices: [Attention to the inner sound (nādānusandhāna) in the haṭha texts](../practices/nadanusandhana.md)
 
 ### 6.76-79 <a id="tea-yogasikha-upanisad-6-76-79"></a>
 `skeleton` · confidence high
@@ -256,4 +256,4 @@ concepts: [The guru in the minor Upaniṣads](../concepts/guru.md)
 _Notes: Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-text used here; other editions (e.g. the Adyar series, Schrader's critical edition, northern recensions) number differently._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

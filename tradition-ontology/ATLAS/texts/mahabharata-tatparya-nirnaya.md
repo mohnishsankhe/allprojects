@@ -1,6 +1,6 @@
 # Mahābhārata-tātparya-nirṇaya
 
-`src:mahabharata-tatparya-nirnaya` · `skeleton` · confidence high
+`src:mahabharata-tatparya-nirnaya` · `sourced` · confidence high
 
 **Alternate titles:** MBTN, Bhāratatātparyanirṇaya
 **Original title:** महाभारततात्पर्यनिर्णयः
@@ -195,4 +195,8 @@ terms: [Vāyu](../terms/vayu.md), [Mukhyaprāṇa](../terms/mukhyaprana.md) · c
 _Notes: Chapter structure and the verses cited checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:GRETIL:mAdhva-mahAbhAratatAtparyanirNaya, catalog:GRETIL-dev:madhva_mahabharatatatparyanirnaya — Extant and digitized; Madhva's work as entered.
+
+_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

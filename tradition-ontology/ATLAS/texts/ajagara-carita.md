@@ -31,4 +31,4 @@ practices: [The python's way (ājagara-vṛtti)](../practices/ajagara-vrtti.md) 
 _Notes: Compare the python among the avadhūta's teachers (BhP 11.8.1-4) and Prahlāda's meeting with a python-vow avadhūta (BhP 7.13)._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

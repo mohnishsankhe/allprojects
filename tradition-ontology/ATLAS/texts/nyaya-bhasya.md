@@ -120,7 +120,7 @@ From false knowledge arise attachment to the agreeable and aversion to the disag
 
 _level: unmarked · standpoint: causal · path: action, knowledge · stage: all · types: ethics, karma-liberation_
 
-terms: [rāga (avairāgya)](../terms/raga.md), [dveṣa](../terms/dvesa.md), [pravṛtti](../terms/pravrtti.md), [dharma](../terms/dharma.md), [adharma](../terms/adharma.md), [pretyabhāva](../terms/pretyabhava.md), [duḥkha](../terms/duhkha.md) · concepts: [Good and bad activity of body, speech and mind](../concepts/ten-good-and-bad-acts-nyaya.md), [The chain from false knowledge to liberation (NS 1.1.2)](../concepts/nyaya-chain-of-liberation.md) · obstacles: [The three groups of faults (rāga, dveṣa, moha)](../obstacles/three-dosas-nyaya.md), [False knowledge (mithyājñāna)](../obstacles/mithyajnana-nyaya.md)
+terms: [rāga](../terms/raga.md), [dveṣa](../terms/dvesa.md), [pravṛtti](../terms/pravrtti.md), [dharma](../terms/dharma.md), [adharma](../terms/adharma.md), [pretyabhāva](../terms/pretyabhava.md), [duḥkha](../terms/duhkha.md) · concepts: [Good and bad activity of body, speech and mind](../concepts/ten-good-and-bad-acts-nyaya.md), [The chain from false knowledge to liberation (NS 1.1.2)](../concepts/nyaya-chain-of-liberation.md) · obstacles: [The three groups of faults (rāga, dveṣa, moha)](../obstacles/three-dosas-nyaya.md), [False knowledge (mithyājñāna)](../obstacles/mithyajnana-nyaya.md)
 
 ### 1.1.3 <a id="tea-nyaya-bhasya-1-1-3"></a>
 `skeleton` · confidence high
@@ -246,7 +246,7 @@ The cause of the faults is the notion of the whole — the notion 'woman' in a m
 
 _level: unmarked · standpoint: seeker · path: meditation · stage: intermediate · types: practice_
 
-terms: [aśubhasaṃjñā](../terms/asubha-samjna.md), [avayavy-abhimāna](../terms/avayavy-abhimana.md), [rāga (avairāgya)](../terms/raga.md) · practices: [Cultivating the notion of the unlovely (aśubhasaṃjñā)](../practices/asubha-samjna-nyaya.md) · obstacles: [The passion-producing notion of the whole](../obstacles/avayavy-abhimana.md), [Attachment (rāga)](../obstacles/raga-nyaya.md)
+terms: [aśubhasaṃjñā](../terms/asubha-samjna.md), [avayavy-abhimāna](../terms/avayavy-abhimana.md), [rāga](../terms/raga.md) · practices: [Cultivating the notion of the unlovely (aśubhasaṃjñā)](../practices/asubha-samjna-nyaya.md) · obstacles: [The passion-producing notion of the whole](../obstacles/avayavy-abhimana.md), [Attachment (rāga)](../obstacles/raga-nyaya.md)
 
 ### 4.2.46 <a id="tea-nyaya-bhasya-4-2-46"></a>
 `skeleton` · confidence high
@@ -268,4 +268,4 @@ practices: [Repeated study of the science of the self](../practices/jnanagrahana
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._

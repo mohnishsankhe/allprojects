@@ -140,7 +140,7 @@ The Devī Gītā closes with internal worship (antaryāga) as higher than extern
 
 _level: conventional · standpoint: ritual · path: ritual, devotion · stage: advanced · types: practice, teacher-transmission_
 
-practices: [Internal worship (antaryāga)](../practices/antaryaga.md) · teachers: [The Goddess (Devī)](../teachers/devi.md)
+practices: [Inner worship (antaryāga)](../practices/antaryaga.md) · teachers: [The Goddess (Devī)](../teachers/devi.md)
 
 ### 7.40.1-7 <a id="tea-devi-gita-7-40-1-7"></a>
 `skeleton` · confidence high · [AI-translated]
@@ -149,8 +149,8 @@ Daily worship: rising at dawn, meditate on the radiant guru in the lotus of the 
 
 _level: conventional · standpoint: ritual · path: ritual, meditation, sound · stage: intermediate · types: practice_
 
-terms: [hṛllekhā](../terms/hrllekha.md) · practices: [Meditation on the guru's form](../practices/guru-dhyana.md), [Purification of the elements (bhūta-śuddhi)](../practices/bhuta-suddhi.md), [Placing letters and syllables on the body (nyāsa)](../practices/nyasa.md), [Internal worship (antaryāga)](../practices/antaryaga.md) · teachers: [The Goddess (Devī)](../teachers/devi.md)
+terms: [hṛllekhā](../terms/hrllekha.md) · practices: [Meditation on the guru's form](../practices/guru-dhyana.md), [Purification of the elements (bhūta-śuddhi)](../practices/bhuta-suddhi.md), [Placing letters and syllables on the body (nyāsa)](../practices/nyasa.md), [Inner worship (antaryāga)](../practices/antaryaga.md) · teachers: [The Goddess (Devī)](../teachers/devi.md)
 
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

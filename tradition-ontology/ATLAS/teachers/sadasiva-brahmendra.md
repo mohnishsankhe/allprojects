@@ -16,4 +16,4 @@ Advaita avadhūta and composer of Sanskrit songs remembered in South Indian trad
 _Notes: Tradition makes him a pupil of Paramaśivendra Sarasvatī and credits him with further works (Brahma Sūtra vṛtti, Ātmavidyāvilāsa) — not verified here._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

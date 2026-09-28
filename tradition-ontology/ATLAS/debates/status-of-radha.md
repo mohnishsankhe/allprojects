@@ -17,7 +17,7 @@ Rādhā, daughter of Vṛṣabhānu, is worshipped with Kṛṣṇa as the etern
 Vallabha's own works centre on Kṛṣṇa and the gopīs as a group; Rādhā as Svāminī is emphasised by Viṭṭhalanātha.
 **Texts:** 
   - [Śṛṅgārarasamaṇḍana](../texts/srngararasamandana.md) — 
-### `lin:radhavallabha`
+### [Rādhāvallabha sampradāya](../lineages/radhavallabha.md)
 The Rādhāvallabha tradition gives Rādhā the supreme place (lineage owned by U26; summary only).
 
 ## Reconciliation (interpretation layer)
@@ -28,4 +28,4 @@ P3 reconciles the difference of emphasis in worship. It does not settle the doct
 **The traditions' own objections:** Each school holds its account of Rādhā as literally true, not as a matter of temperament.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._

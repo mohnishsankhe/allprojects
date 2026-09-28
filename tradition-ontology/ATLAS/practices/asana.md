@@ -22,4 +22,4 @@ A steady and comfortable seat (2.46), achieved by relaxing effort and by coalesc
 _Notes: Vīrāsana appears in some editions' list of YBh 2.46._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U09-samkhya. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._

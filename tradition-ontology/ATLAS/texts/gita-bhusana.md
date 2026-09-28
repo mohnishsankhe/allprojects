@@ -1,6 +1,6 @@
 # Gītābhūṣaṇa of Baladeva Vidyābhūṣaṇa
 
-`src:gita-bhusana` · `skeleton` · confidence moderate
+`src:gita-bhusana` · `sourced` · confidence moderate
 
 **Original title:** गीताभूषण
 **Language:** Sanskrit
@@ -17,4 +17,8 @@
 A Gauḍīya Vaiṣṇava commentary on the Gītā in the Acintya-bhedābheda frame.
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/2_epic/mbh/ext/bhagavadgita_with_four_chommentaries.md, https://en.wikipedia.org/wiki/Baladeva_Vidyabhushana — Extant and digitized; Baladeva d. 1768, consistent with the 18th-c. dating.
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._

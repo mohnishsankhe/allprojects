@@ -13,4 +13,4 @@ Knowers of the self rise above the desire for sons, the desire for wealth and th
   - [Bṛhadāraṇyaka Upaniṣad](../texts/brhadaranyaka-upanisad.md) — ref: 3.5.1; 4.4.22; rests_on: ["tea:brhadaranyaka-upanisad:3.5.1", "tea:brhadaranyaka-upanisad:4.4.22"]
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

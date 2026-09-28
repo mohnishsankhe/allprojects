@@ -1,6 +1,6 @@
 # Parāśara Bhaṭṭar
 
-`tch:parasara-bhattar` · `skeleton` · confidence moderate
+`tch:parasara-bhattar` · `sourced` · confidence moderate
 
 **Alternate names:** Bhaṭṭar
 **Lineages:** [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md), [Teṅkalai (southern school of Śrīvaiṣṇavism)](../lineages/tenkalai.md)
@@ -17,4 +17,8 @@
 Son of Kūreśa, named by Rāmānuja in fulfilment of Yāmuna's wish; successor at Śrīraṅgam after Embār; author of the Śrīraṅgarājastava, Śrīguṇaratnakośa, Bhagavadguṇadarpaṇa and Aṣṭaślokī; the tradition says he won over the Advaitin Mādhava (Nañjīyar).
 
 ---
-_Contributed by: skeleton:U14-visistadvaita, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Parasara_Bhattar — Confirmed (12th c.).
+
+_Contributed by: skeleton:U14-visistadvaita, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

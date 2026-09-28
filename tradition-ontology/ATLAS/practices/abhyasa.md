@@ -18,4 +18,4 @@ Repeated effort to hold the mind in stability (1.13), cultivated for a long time
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 1.14; rests_on: ["tea:yoga-bhasya:1.14"]
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 09:07 IST._

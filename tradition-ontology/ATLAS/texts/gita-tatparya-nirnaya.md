@@ -1,6 +1,6 @@
 # Gītātātparyanirṇaya
 
-`src:gita-tatparya-nirnaya` · `skeleton` · confidence high
+`src:gita-tatparya-nirnaya` · `sourced` · confidence high
 
 **Alternate titles:** Gītātātparya
 **Original title:** गीतातात्पर्यनिर्णयः
@@ -36,4 +36,8 @@ concepts: [True scripture (sadāgama) and false scripture](../concepts/sadagama.
 _Notes: Opening checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — local:sources_raw/raw_etexts/vedAntam/dvaitam/mAdhvam/sarvamulam/gItAprasthAnam/geetatatparya.md, https://en.wikipedia.org/wiki/List_of_works_by_Madhvacharya — Extant and digitized (Gītātātparyanirṇaya of Ānandatīrtha, local).
+
+_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

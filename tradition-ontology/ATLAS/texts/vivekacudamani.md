@@ -151,4 +151,4 @@ terms: [prārabdha-karma](../terms/prarabdha-karma.md) · concepts: [The three k
 _Notes: Tradition: Śaṅkara. Hacker, Mayeda and others doubt the attribution; the Śṛṅgeri tradition and most traditional teachers accept it._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

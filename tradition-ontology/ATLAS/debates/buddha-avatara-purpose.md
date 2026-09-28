@@ -12,12 +12,12 @@ To delude the enemies of the gods and lead them away from the Veda (BhP 1.3.24; 
 **Texts:** 
   - [Viṣṇu Purāṇa](../texts/visnu-purana.md) — ref: 3.17-18
   - [Agni Purāṇa](../texts/agni-purana.md) — ref: 16.1-4
-### `lin:alvar`
+### [The Āḻvārs (Tamil Vaiṣṇava saint-poets) and their hymn tradition](../lineages/alvar.md)
 Later Vaiṣṇava poetry (Jayadeva's daśāvatāra hymn) praises the Buddha avatāra as compassion condemning animal sacrifice.
 - Gīta Govinda 1 (U25 owns)
 **Texts:** 
-  - `src:gita-govinda` — ref: 1 (daśāvatāra hymn)
-### `lin:early-buddhism`
+  - [Gīta Govinda](../texts/gita-govinda.md) — ref: 1 (daśāvatāra hymn)
+### [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md)
 The Buddha is the fully awakened teacher of the true dharma, not an avatāra of Viṣṇu.
 - Buddhist self-understanding (U36)
 
@@ -30,4 +30,4 @@ The Buddha is the fully awakened teacher of the true dharma, not an avatāra of 
 _Notes: The Jayadeva side is cited under lin:alvar only as the nearest registry Vaiṣṇava-poet lineage; U25 owns Jayadeva._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

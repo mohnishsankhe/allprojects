@@ -1,6 +1,6 @@
 # Sundarakāṇḍa
 
-`src:sundarakanda` · `skeleton` · confidence high
+`src:sundarakanda` · `sourced` · confidence high
 
 **Original title:** सुन्दरकाण्ड
 **Language:** Sanskrit
@@ -20,4 +20,8 @@ The book of beauty: Hanumān's leap to Laṅkā, his finding of Sītā and the b
   - kind: original; name: DharmicData JSON of the Vālmīki Rāmāyaṇa (southern vulgate numbering); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:GRETIL-dev:valmiki_ramayana_5, local:sources_raw/DharmicData/ValmikiRamayana (southern vulgate) book 5 — Book 5 of the Vālmīki Rāmāyaṇa, digitized in several local editions.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

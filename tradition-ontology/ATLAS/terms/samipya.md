@@ -20,4 +20,4 @@
 **Related:** [sālokya](salokya.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U06-other-gitas, skeleton:U07-puranas, skeleton:U04-minor-upanisads, skeleton:U18-saiva-siddhanta. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U06-other-gitas, skeleton:U07-puranas, skeleton:U04-minor-upanisads, skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._

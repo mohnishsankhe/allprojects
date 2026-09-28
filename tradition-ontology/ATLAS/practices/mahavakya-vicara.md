@@ -12,4 +12,4 @@ Understanding 'that thou art' by first grasping the words' meanings and then, by
   - [Rāma Gītā](../texts/rama-gita.md) — ref: 7.5.24-27; rests_on: ["tea:rama-gita:7.5.24-27"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

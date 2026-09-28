@@ -11,4 +11,4 @@ Naciketas's father, who in the Viśvajit sacrifice gives away all his possession
 _Notes: Whether he is the Uddālaka Āruṇi of ChU/BAU is not settled; KU 1.1.11 calls him Auddālaki ('son of Uddālaka')._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

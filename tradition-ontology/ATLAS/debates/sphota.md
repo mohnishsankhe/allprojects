@@ -11,11 +11,11 @@ No: the word 'gauḥ' is the letters g, au, ḥ (Upavarṣa); meaning arises fro
 **Texts:** 
   - [Śābarabhāṣya](../texts/sabara-bhasya.md) — ref: 1.1.5
   - [Ślokavārttika](../texts/slokavarttika.md) — ref: sphoṭavāda
-### `lin:vyakarana`
+### [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md)
 Yes: the letters, perishing in sequence, cannot jointly convey meaning; the indivisible sphoṭa, manifested by the sounds, conveys it (Bhartṛhari); Maṇḍana Miśra's Sphoṭasiddhi defends this against Kumārila.
 **Texts:** 
-  - `src:vakyapadiya` — ref: book 1
-  - [Sphoṭasiddhi](../texts/sphotasiddhi.md) — ref: whole
+  - [Vākyapadīya](../texts/vakyapadiya.md) — ref: book 1
+  - [Sphoṭasiddhi of Maṇḍana Miśra](../texts/sphotasiddhi.md) — ref: whole
 
 **Historical debate — Maṇḍana's Sphoṭasiddhi against Kumārila** (7th–8th c. CE): textual reply unresolved
 
@@ -25,4 +25,4 @@ Yes: the letters, perishing in sequence, cannot jointly convey meaning; the indi
 **Candidate readings:** P2-standpoint: the letter-sequence (as heard) and the unitary word (as understood) may be two standpoints on one process — the Mīmāṃsakas reject a separate entity, the grammarians a merely serial conveyance.
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

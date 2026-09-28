@@ -1,6 +1,6 @@
 # Was there being (sat) or non-being (asat) in the beginning?
 
-`dsp:sat-or-asat-in-the-beginning` · `skeleton` · confidence moderate
+`dsp:sat-or-asat-in-the-beginning` · `sourced` · confidence moderate
 
 
 ## Sides (recorded before any reconciliation)
@@ -31,4 +31,8 @@ The Nāsadīya's 'neither being nor non-being' is read by Vedāntins as the stat
 _Notes: U03 (Upaniṣads) and U50 (causation) may record related disputes; this entry concerns the Saṃhitā verses._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/1_rv/rgveda_mandala_10.md (GRETIL, Van Nooten–Holland/Aufrecht), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/4_upa/Chandogya-upanisad_Chandogyopanisad_mula-text.md — RV 10.72.2–3 (asataḥ sad ajāyata, twice) and 10.129.1, 4 located; Chāndogya 6.2 'katham asataḥ saj jāyeta' located. TU 2.7 not re-checked (standard).
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

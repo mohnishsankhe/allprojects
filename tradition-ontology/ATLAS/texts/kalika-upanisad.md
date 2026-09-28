@@ -10,4 +10,4 @@
 A Śākta text styled as an Upaniṣad on the worship and mantra of Kālī, outside the Muktikā list.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

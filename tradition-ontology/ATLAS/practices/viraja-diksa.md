@@ -12,4 +12,4 @@ An initiation with sacred ash and the Virajā mantras, taking the Pāśupata vow
   - [Śiva Gītā](../texts/siva-gita.md) — ref: 3; rests_on: ["tea:siva-gita:3"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

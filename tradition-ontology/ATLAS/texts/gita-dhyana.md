@@ -1,6 +1,6 @@
 # Gītādhyāna (meditation verses on the Gītā)
 
-`src:gita-dhyana` · `skeleton` · confidence moderate
+`src:gita-dhyana` · `sourced` · confidence moderate
 
 **Original title:** गीताध्यान
 **Language:** Sanskrit
@@ -17,4 +17,8 @@ Nine verses customarily recited before the Gītā, invoking Vyāsa and Kṛṣ�
 _Notes: The ascription to Madhusūdana is a popular report, recorded as doubtful._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Gita_Dhyanam — Nine-verse preface; origins given differently, ascription to Madhusūdana a popular report — matches the entry's "doubtful".
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

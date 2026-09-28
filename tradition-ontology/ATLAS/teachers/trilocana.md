@@ -10,4 +10,4 @@
 Naiyāyika named by Vācaspati Miśra as his teacher ('following the path led by my teacher Trilocana', Tātparyaṭīkā on NS 1.1.4); his works are known only from citations.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._

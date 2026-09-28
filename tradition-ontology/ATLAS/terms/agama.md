@@ -12,6 +12,7 @@
 - [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md): The teaching that has come down through the succession of teachers from Maheśvara.
 - [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md): Revealed Śaiva scripture spoken by Śiva/Sadāśiva, the 'higher knowledge' as against the lower knowledge beginning with the Veda; in South Indian usage especially the 28 Siddhānta scriptures and their upāgamas.
 - [Pāñcarātra](../lineages/pancaratra.md): The Pāñcarātra saṃhitās as scripture spoken by Bhagavān himself (Bhagavacchāstra).
+- [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md): Scripture and unbroken tradition, without which dharma cannot be established by reasoning (VP 1.30).
 
 ## Forms in other languages
 - Tamil: ākamam  — exact
@@ -22,4 +23,4 @@
 _Notes: A widely quoted etymology (ā-gata from Śiva's mouth, gata to Girijā, mata by Vāsudeva) is of uncertain source and not recorded as a definition here._
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U10-yoga, skeleton:U17-pasupata-kapalika, skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U10-yoga, skeleton:U17-pasupata-kapalika, skeleton:U08-agama-catalogue, skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._

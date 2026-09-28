@@ -63,7 +63,7 @@ When the prastotṛ begins the pavamāna praise, the sacrificer should mutter th
 
 _level: conventional · standpoint: seeker · path: sound, ritual · stage: all · types: practice, sound-language_
 
-terms: [sat](../terms/sat.md), [asat](../terms/asat.md), [amṛtatva / amṛta](../terms/amrtatva.md), [jyotis](../terms/jyotis.md)
+terms: [sat](../terms/sat.md), [asat](../terms/asat.md), [amṛtatva](../terms/amrtatva.md), [jyotis](../terms/jyotis.md)
 
 ### 1.4.1 <a id="tea-brhadaranyaka-upanisad-1-4-1"></a>
 `skeleton` · confidence high
@@ -220,7 +220,7 @@ The appearance of this person is like a saffron-dyed cloth, like white wool, lik
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate, powers-experiences_
 
-terms: [neti neti](../terms/neti-neti.md), [ādeśa](../terms/adesa.md), [satya](../terms/satya.md) · concepts: ['Not so, not so' (neti neti)](../concepts/neti-neti.md) · practices: [Negation 'not this, not this'](../practices/neti-neti.md)
+terms: [neti neti](../terms/neti-neti.md), [ādeś](../terms/adesa.md), [satya](../terms/satya.md) · concepts: ['Not so, not so' (neti neti)](../concepts/neti-neti.md) · practices: [Negation 'not this, not this'](../practices/neti-neti.md)
 
 ### 2.4.1-3 <a id="tea-brhadaranyaka-upanisad-2-4-1-3"></a>
 `skeleton` · confidence high
@@ -229,7 +229,7 @@ About to leave his present state, Yājñavalkya offers to settle his property be
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: intermediate · types: karma-liberation, teacher-transmission_
 
-terms: [amṛtatva / amṛta](../terms/amrtatva.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md), [Maitreyī](../teachers/maitreyi.md), [Kātyāyanī](../teachers/katyayani.md)
+terms: [amṛtatva](../terms/amrtatva.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md), [Maitreyī](../teachers/maitreyi.md), [Kātyāyanī](../teachers/katyayani.md)
 
 ### 2.4.5 <a id="tea-brhadaranyaka-upanisad-2-4-5"></a>
 `skeleton` · confidence high
@@ -370,7 +370,7 @@ He who dwells in the earth yet is other than the earth, whom the earth does not 
 
 _level: ultimate · standpoint: divine · path: knowledge · stage: advanced · types: ultimate, consciousness-mind_
 
-terms: [antaryāmin](../terms/antaryamin.md), [ātman](../terms/atman.md), [amṛtatva / amṛta](../terms/amrtatva.md) · concepts: [The inner controller (antaryāmin)](../concepts/antaryamin.md), [Īśvara (the Lord)](../concepts/isvara.md), [The witness (sākṣin)](../concepts/saksin.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md), [Uddālaka Āruṇi](../teachers/uddalaka-aruni.md)
+terms: [antaryāmin](../terms/antaryamin.md), [ātman](../terms/atman.md), [amṛtatva](../terms/amrtatva.md) · concepts: [The inner controller (antaryāmin)](../concepts/antaryamin.md), [Īśvara (the Lord)](../concepts/isvara.md), [The witness (sākṣin)](../concepts/saksin.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md), [Uddālaka Āruṇi](../teachers/uddalaka-aruni.md)
 
 ### 3.8.2-8 <a id="tea-brhadaranyaka-upanisad-3-8-2-8"></a>
 `skeleton` · confidence high
@@ -594,7 +594,7 @@ When all the desires that dwell in one's heart are released, the mortal becomes 
 
 _level: bridging · standpoint: experiential · path: knowledge · stage: realized · types: karma-liberation_
 
-terms: [kāma](../terms/kama.md), [amṛtatva / amṛta](../terms/amrtatva.md), [hṛdaya](../terms/hrdaya.md) · concepts: [Liberation while living (jīvanmukti)](../concepts/jivanmukti.md), [Liberation (mokṣa) in Dvaita](../concepts/moksa.md) · obstacles: [Desire (kāma)](../obstacles/kama.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md)
+terms: [kāma](../terms/kama.md), [amṛtatva](../terms/amrtatva.md), [hṛdaya](../terms/hrdaya.md) · concepts: [Liberation while living (jīvanmukti)](../concepts/jivanmukti.md), [Liberation (mokṣa) in Dvaita](../concepts/moksa.md) · obstacles: [Desire (kāma)](../obstacles/kama.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md)
 
 ### 4.4.12 <a id="tea-brhadaranyaka-upanisad-4-4-12"></a>
 `skeleton` · confidence moderate
@@ -603,7 +603,7 @@ If a person knows the self as 'I am this', desiring what, for love of whom, woul
 
 _level: ultimate · standpoint: seeker · path: knowledge · stage: advanced · types: ultimate, karma-liberation_
 
-obstacles: [Sorrow (śoka)](../obstacles/soka.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md)
+obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md)
 
 ### 4.4.19 <a id="tea-brhadaranyaka-upanisad-4-4-19"></a>
 `skeleton` · confidence high
@@ -677,7 +677,7 @@ As a lump of salt has no inside or outside and is wholly a mass of taste, so thi
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate, consciousness-mind_
 
-terms: [neti neti](../terms/neti-neti.md), [prajñānaghana / vijñānaghana](../terms/prajnanaghana.md), [amṛtatva / amṛta](../terms/amrtatva.md) · concepts: ['Not so, not so' (neti neti)](../concepts/neti-neti.md), [The witness (sākṣin)](../concepts/saksin.md) · practices: [Negation 'not this, not this'](../practices/neti-neti.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md), [Maitreyī](../teachers/maitreyi.md)
+terms: [neti neti](../terms/neti-neti.md), [prajñānaghana / vijñānaghana](../terms/prajnanaghana.md), [amṛtatva](../terms/amrtatva.md) · concepts: ['Not so, not so' (neti neti)](../concepts/neti-neti.md), [The witness (sākṣin)](../concepts/saksin.md) · practices: [Negation 'not this, not this'](../practices/neti-neti.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md), [Maitreyī](../teachers/maitreyi.md)
 
 ### 5.1.1 <a id="tea-brhadaranyaka-upanisad-5-1-1"></a>
 `skeleton` · confidence high
@@ -735,7 +735,7 @@ The fire common to all men (vaiśvānara) is the fire within a person by which t
 
 _level: conventional · standpoint: experiential · path: body-breath · stage: all · types: body-layers, death-dying, sound-language_
 
-terms: [vaiśvānara](../terms/vaisvanara.md) · concepts: [The process of dying](../concepts/dying-process.md) · practices: [Listening to the inner sound](../practices/nadanusandhana.md)
+terms: [vaiśvānara](../terms/vaisvanara.md) · concepts: [The process of dying](../concepts/dying-process.md) · practices: [Attention to the inner sound (nādānusandhāna) in the haṭha texts](../practices/nadanusandhana.md)
 
 ### 5.10.1 <a id="tea-brhadaranyaka-upanisad-5-10-1"></a>
 `skeleton` · confidence high
@@ -849,4 +849,4 @@ concepts: [Teacher and pupil in the Upaniṣads](../concepts/upanisadic-teacher-
 _Notes: Veda affiliation: White Yajurveda (Kāṇva and Mādhyandina recensions)_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

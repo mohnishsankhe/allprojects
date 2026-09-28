@@ -1,8 +1,8 @@
 # Bhṛgu Vāruṇi
 
-`tch:bhrgu` · `skeleton` · confidence high
+`tch:bhrgu` · `sourced` · confidence high
 
-**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Vaikhānasa](../lineages/vaikhanasa.md), [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Śaunaka śākhā (Atharvaveda)](../lineages/sakha-saunaka.md)
+**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Vaikhānasa](../lineages/vaikhanasa.md), [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Śaunaka śākhā (Atharvaveda)](../lineages/sakha-saunaka.md), [Jyotiṣa (the science of the lights)](../lineages/jyotisa.md), [Nāḍī jyotiṣa (palm-leaf readings ascribed to the seers)](../lineages/nadi-jyotisa.md)
 **Historicity:** mythic
 **Teachers:** [Varuṇa (as teacher)](varuna.md), [Vikhanas](vikhanas.md), [Manu Svāyambhuva](manu-svayambhuva.md)
 **Students:** [Bharadvāja](bharadvaja.md)
@@ -12,10 +12,17 @@
   - [Prakīrṇādhikāra](../texts/prakirnadhikara.md) — attribution: traditional
   - [Bhṛgusaṃhitā (Vaikhānasa)](../texts/bhrgu-samhita-vaikhanasa.md) — attribution: traditional
   - [Manusmṛti (Mānava Dharmaśāstra)](../texts/manusmrti.md) — attribution: traditional
+  - [Bhṛgu Saṃhitā](../texts/bhrgu-samhita.md) — attribution: traditional
+  - [Bhṛgusūtra](../texts/bhrgu-sutra.md) — attribution: doubtful
 
 Son of Varuṇa who asks his father to teach him brahman and, by repeated tapas, realizes in turn that food, breath, mind, understanding and bliss are brahman (TU 3.1-6: 'the knowledge of Bhṛgu and Varuṇa').
 
 _Notes: Contribution of lin:upanisadic; other units record the Purāṇic and astrological Bhṛgu._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U08-agama-catalogue, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/DharmicData/Rigveda/rigveda_mandala_1.json (Anukramaṇī seer/deity/metre headers), text:sources_raw/DharmicData/Rigveda/rigveda_mandala_2.json (Anukramaṇī seer/deity/metre headers), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/atharvaveda-samhita_saunaka_ — RV verses on the Bhṛgus establishing Agni among men located (1.58.6, 1.143.4, 2.4.2, 6.15.2); 'Bhṛgvaṅgirasaḥ' as a name of the AV confirmed (web); AVŚ 19.53–54 seer Bhṛgu.
+- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 12.180.1 [bhṛgu], 12.181.10 — Located as described.
+
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U08-agama-catalogue, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._

@@ -1,6 +1,6 @@
 # Śiva Sahasranāma (Mahābhārata, Anuśāsanaparvan)
 
-`src:siva-sahasranama-mahabharata` · `skeleton` · confidence moderate
+`src:siva-sahasranama-mahabharata` · `sourced` · confidence moderate
 
 **Original title:** शिवसहस्रनाम
 **Language:** Sanskrit
@@ -19,10 +19,10 @@ Kṛṣṇa relates how the sage Upamanyu taught him the thousand names of Śiva
   - kind: original; name: The Mahābhārata, Critical Edition, ed. V. S. Sukthankar et al., Bhandarkar Oriental Research Institute, Pune (1933–1966); licence: print edition (text public domain; apparatus under BORI copyright)
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
-## Teachings (1: skeleton 1)
+## Teachings (1: sourced 1)
 
 ### 13.14-17 <a id="tea-siva-sahasranama-mahabharata-13-14-17"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 Kṛṣṇa relates that the sage Upamanyu taught him the thousand names of Śiva, first told by Taṇḍi in Brahmā's world, and that by devotion to Śiva he obtained his wishes.
 
@@ -34,4 +34,8 @@ practices: [Recitation of the thousand names of Śiva (Mahābhārata)](../practi
 _Notes: Chapter range of the names themselves given from memory (moderate). Disambiguated from the Śiva Sahasranāmas of the Purāṇas._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_13.json (BORI Critical Edition text) 13.14.3 Taṇḍi; 13.14.45 Upamanyu; 13.16.74, 13.17.13 nāmasahasra, catalog:raw_etexts:shiva_sahasranama — Section located at CE 13.14-17 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

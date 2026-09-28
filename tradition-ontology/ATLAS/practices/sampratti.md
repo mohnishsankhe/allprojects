@@ -12,4 +12,4 @@ A dying father transfers his roles and faculties to his son: 'you are brahman, t
   - [Kauṣītaki Upaniṣad](../texts/kausitaki-upanisad.md) — ref: 2.15; rests_on: ["tea:kausitaki-upanisad:2.15"]
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

@@ -12,4 +12,4 @@ The fool chooses the pleasant (preyas) for the sake of getting and keeping; the 
   - [Katha Upaniṣad](../texts/katha-upanisad.md) — ref: 1.2.1-6; rests_on: ["tea:katha-upanisad:1.2.1-2", "tea:katha-upanisad:1.2.4-6"]
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

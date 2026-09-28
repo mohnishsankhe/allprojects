@@ -16,4 +16,4 @@ Lineage contribution (Upaniṣadic): BAU 6.4 treats marital union as a sacrifici
 _Notes: Summary only under the restricted-content rule; no procedures, formulas or details reproduced._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

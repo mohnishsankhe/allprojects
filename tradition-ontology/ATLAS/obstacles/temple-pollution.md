@@ -10,4 +10,4 @@ Events such as birth- or death-impurity, bloodshed or improper entry that pollut
 **Antidotes:** [Pot-consecration and bathing (kalaśābhiṣeka)](../practices/kalasabhiseka.md), [Expiatory rites (prāyaścitta)](../practices/prayascitta.md)
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._

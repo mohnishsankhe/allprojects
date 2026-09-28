@@ -4,10 +4,10 @@
 
 
 ## Sides (recorded before any reconciliation)
-### `lin:vyakarana`
+### [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md)
 The beginningless and endless Brahman is the principle of the Word (śabdatattva), from which the world unfolds; paśyantī, the undivided 'seeing' speech, is the highest level of speech (Bhartṛhari).
 **Texts:** 
-  - `src:vakyapadiya` — ref: 1.1
+  - [Vākyapadīya](../texts/vakyapadiya.md) — ref: 1.1
 ### [Pratyabhijñā (the philosophy of recognition)](../lineages/pratyabhijna.md)
 What the grammarians call paśyantī is only the knowledge-power at the level of Sadāśiva (Śivadṛṣṭi 2.1); the ultimate is Śiva with will, knowledge and action; speech as reflexive awareness is 'supreme speech' (parā vāk) beyond paśyantī (ĪPK 1.5.13).
 - paśyantī is sequential and object-related, hence limited
@@ -27,4 +27,4 @@ What the grammarians call paśyantī is only the knowledge-power at the level of
 _Notes: Grammarian side stated at work level (Vākyapadīya 1.1); verse anchors for paśyantī to be supplied by U31._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

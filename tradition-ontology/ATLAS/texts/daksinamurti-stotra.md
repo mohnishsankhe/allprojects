@@ -13,7 +13,7 @@
 **Availability:** digitized-original
 
 Ten verses saluting the guru as Dakṣiṇāmūrti (Śiva as silent teacher): the universe is seen within the self like a city in a mirror, projected outward by māyā as in dream; on waking, one sees the non-dual self. Commented on by Sureśvara's Mānasollāsa.
-**Commentaries on this text:** [Mānasollāsa](manasollasa.md)
+**Commentaries on this text:** [Mānasollāsa (Abhilaṣitārthacintāmaṇi) of Someśvara III](manasollasa.md)
 
 ## Teachings (1: skeleton 1)
 
@@ -28,4 +28,4 @@ concepts: [Dream](../concepts/dream-analogy.md), [Māyā in the principal Upani�
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

@@ -20,4 +20,4 @@
 _Notes: Advaita also uses upādhi but holds the adjuncts to be products of avidyā (not ultimately real); Bhāskara insists they are real — same word, different status._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U13-advaita, skeleton:U15-dvaita, skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U13-advaita, skeleton:U15-dvaita, skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._

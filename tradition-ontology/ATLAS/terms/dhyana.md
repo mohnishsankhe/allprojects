@@ -12,6 +12,7 @@
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): Meditation, which burns away the 'ungodly qualities' and lets one see the course of the inner self (MDh 6.72–73).
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): VP 6.7.91: one continuous flow of the form's awareness, desiring nothing else; ŚiP 7.2.39: with object and then without.
 - [Sāṃkhya](../lineages/samkhya.md): Meditation is the removal of passion, accomplished through the cessation of mental modifications (SS 3.30–31); meditation is mind without object (SS 6.25).
+- [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md): Meditation: with and without qualities (GŚ 76–77; DYŚ 111–114); gross, of light and subtle (GS 6.1).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Meditation: a rung of the ladder (ChU 7.6); the 'yoga of meditation' by which the sages saw God's power (ŚU 1.3); the friction of meditation (ŚU 1.14); a limb in MaiU 6.18; one sees him 'meditating' (MuU 3.1.8).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Meditation with or without qualities; 'so'ham'; one-pointedness on consciousness.
 
@@ -22,4 +23,4 @@
 **Related:** [aparokṣa-jñāna](aparoksa-jnana.md), [upāsanā](upasana.md), [āsana](asana.md), [abhyāsa](abhyasa.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, skeleton:U07-puranas, skeleton:U09-samkhya, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, skeleton:U07-puranas, skeleton:U09-samkhya, skeleton:U28-hatha-texts, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), `lin:hatha-yoga`
+**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md)
 **Genre:** upaniṣad
 **Attribution:** tradition: Śruti: revealed, without human author (apauruṣeya); the Muktikā presents it as one of the 108 Upaniṣads that Rāma teaches Hanumān, each belonging to a Vedic śākhā; scholarly: anonymous; assigned to a Veda by the Muktikā list, not by any surviving śākhā transmission; confidence: moderate
 **Dates:** Tradition's account: Śruti: eternal and authorless; no human date; Scholarly account: Scholarly accounts differ by text. Several Yoga Upaniṣads (e.g. Amṛtabindu, Amṛtanāda, Kṣurikā, Tejobindu, Nādabindu, Dhyānabindu, Brahmavidyā, Yogatattva, Yogaśikhā, Haṃsa) survive in shorter northern versions that are older; the expanded southern recensions (as in this collection) borrow from medieval haṭha works and were probably compiled in South India, perhaps as late as the 18th c. (Bouy 1994).; (confidence low)
@@ -89,7 +89,7 @@ Haṭha-yoga has eight limbs (yama to samādhi) and uses mahāmudrā, mahābandh
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice_
 
-concepts: [The four yogas (mantra, laya, haṭha, rāja)](../concepts/four-yogas.md) · practices: [Mahāmudrā](../practices/mahamudra.md), [The three locks (mūla, uḍḍīyāna, jālandhara)](../practices/bandha-traya.md), [Khecarī mudrā](../practices/khecari-mudra.md), [Vajrolī, amarolī, sahajolī](../practices/vajroli-amaroli.md)
+concepts: [The four yogas (mantra, laya, haṭha, rāja)](../concepts/four-yogas.md) · practices: [Mahāmudrā (the great seal)](../practices/mahamudra.md), [The three locks together (bandha-traya)](../practices/bandha-traya.md), [Khecarī mudrā ('moving in space')](../practices/khecari-mudra.md), [Vajrolī, amarolī and sahajolī](../practices/vajroli-amaroli.md)
 
 ### 28-29 <a id="tea-yogatattva-upanisad-28-29"></a>
 `skeleton` · confidence moderate
@@ -98,7 +98,7 @@ Light and moderate food is the chief of the yamas, non-injury the chief of the n
 
 _level: conventional · standpoint: ethical-social · path: general · stage: beginner · types: ethics, practice_
 
-practices: [Moderate diet (mitāhāra)](../practices/mitahara.md), [Postures of the Yoga Upaniṣads](../practices/asanas-yoga-upanisads.md)
+practices: [Moderate diet (mitāhāra) in the haṭha texts](../practices/mitahara.md), [Postures of the Yoga Upaniṣads](../practices/asanas-yoga-upanisads.md)
 
 ### 30-31 <a id="tea-yogatattva-upanisad-30-31"></a>
 `skeleton` · confidence moderate
@@ -123,7 +123,7 @@ Purification of the channels by alternate-nostril breathing is taught in regular
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: intermediate · types: practice_
 
-practices: [Purification of the channels (nāḍī-śodhana)](../practices/nadi-sodhana.md)
+practices: [Purification of the channels (nāḍī-śodhana, nāḍī-śuddhi)](../practices/nadi-sodhana.md)
 
 ### 44-49 <a id="tea-yogatattva-upanisad-44-49"></a>
 `skeleton` · confidence moderate
@@ -132,7 +132,7 @@ Signs after purification: lightness, radiance, strong digestive fire, leanness. 
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: intermediate · types: practice, powers-experiences_
 
-practices: [Moderate diet (mitāhāra)](../practices/mitahara.md)
+practices: [Moderate diet (mitāhāra) in the haṭha texts](../practices/mitahara.md)
 
 ### 50-58 <a id="tea-yogatattva-upanisad-50-58"></a>
 `skeleton` · confidence moderate · _restricted: summary only_
@@ -141,7 +141,7 @@ When kevala-kumbhaka arises spontaneously the signs follow: sweating, trembling,
 
 _level: conventional · standpoint: experiential · path: body-breath, meditation · stage: advanced · types: powers-experiences, practice_
 
-practices: [Kevala-kumbhaka (retention without inhalation or exhalation)](../practices/kevala-kumbhaka.md)
+practices: [Kevala-kumbhaka (retention alone)](../practices/kevala-kumbhaka.md)
 
 ### 60-62 <a id="tea-yogatattva-upanisad-60-62"></a>
 `skeleton` · confidence moderate
@@ -193,7 +193,7 @@ Five element-concentrations: earth (feet to knees, square, yellow, la, Brahmā),
 
 _level: conventional · standpoint: experiential · path: body-breath, meditation · stage: advanced · types: practice, body-layers, powers-experiences_
 
-practices: [The five element concentrations (pañca-dhāraṇā)](../practices/element-dharanas.md)
+practices: [The five element-concentrations (pañca-dhāraṇā) in the haṭha texts](../practices/element-dharanas.md)
 
 ### 104-111 <a id="tea-yogatattva-upanisad-104-111"></a>
 `skeleton` · confidence moderate
@@ -211,7 +211,7 @@ Mahābandha, mahāvedha, khecarī, the three bandhas, viparītakaraṇī (with t
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice_
 
-practices: [Mahābandha and mahāvedha](../practices/mahabandha-mahavedha.md), [Khecarī mudrā](../practices/khecari-mudra.md), [The three locks (mūla, uḍḍīyāna, jālandhara)](../practices/bandha-traya.md), [Viparītakaraṇī (the inverted practice)](../practices/viparita-karani.md), [Vajrolī, amarolī, sahajolī](../practices/vajroli-amaroli.md)
+practices: [Mahābandha and mahāvedha](../practices/mahabandha-mahavedha.md), [Khecarī mudrā ('moving in space')](../practices/khecari-mudra.md), [The three locks together (bandha-traya)](../practices/bandha-traya.md), [Viparītakaraṇī (the inverting technique)](../practices/viparita-karani.md), [Vajrolī, amarolī and sahajolī](../practices/vajroli-amaroli.md)
 
 ### 129-130 <a id="tea-yogatattva-upanisad-129-130"></a>
 `skeleton` · confidence low
@@ -249,4 +249,4 @@ _level: conventional · standpoint: seeker · path: meditation · stage: interme
 _Notes: Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-text used here; other editions (e.g. the Adyar series, Schrader's critical edition, northern recensions) number differently._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

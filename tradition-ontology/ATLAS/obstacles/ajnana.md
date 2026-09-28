@@ -14,4 +14,4 @@ Knowledge is veiled by ignorance, by which beings are deluded (BhG 5.15); the ig
 _Notes: U05's contribution to a shared obstacle._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

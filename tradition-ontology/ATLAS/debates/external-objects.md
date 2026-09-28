@@ -37,4 +37,4 @@ No independent external object is established: cognition and its object are alwa
 **Candidate readings:** P1-level: Yogācāra's own three natures leave room for conventional objects.; P4-stage: some Buddhist doxographies treat mind-only as a stage leading beyond itself.; P1-level: Yogācāra may be read as describing the ultimate while conceding conventional objects — Mīmāṃsā admits no level beyond the empirical and rejects this.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

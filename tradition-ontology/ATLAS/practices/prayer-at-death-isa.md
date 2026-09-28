@@ -12,4 +12,4 @@ At death one asks Pūṣan to uncover the face of truth covered by the golden ve
   - [Bṛhadāraṇyaka Upaniṣad](../texts/brhadaranyaka-upanisad.md) — ref: 5.15; rests_on: ["tea:brhadaranyaka-upanisad:5.15.1-4"]
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

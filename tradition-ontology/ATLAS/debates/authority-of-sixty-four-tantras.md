@@ -11,13 +11,13 @@
 - tantras made for different classes
 **Texts:** 
   - [Lakṣmīdharā (commentary on the Saundaryalaharī)](../texts/laksmidhara.md) — ref: 31
-  - `src:saundarya-lahari` — ref: 31
+  - [Saundaryalaharī](../texts/saundarya-lahari.md) — ref: 31
 ### [Kaula (the Kula tradition)](../lineages/kaula.md)
 (Kaula view, as quoted by Bhāskararāya) 'Kaula is higher than the Siddhānta; nothing is higher than Kaula'; the tantras of the Mothers are Śiva's own teaching, and those teaching Sundarī and other deities are rooted in Upaniṣads.
 - quoted verse in the Setubandha introduction
 - Vāmakeśvara 1.13–22 lists them as Śiva's
 **Texts:** 
-  - `src:vamakesvara-tantra` — ref: 1.13-22
+  - [Vāmakeśvara Tantra (Vāmakeśvarīmata / Nityāṣoḍaśikārṇava)](../texts/vamakesvara-tantra.md) — ref: 1.13-22
 
 ## Reconciliation (interpretation layer)
 **Status:** not yet reconciled (queued)
@@ -28,4 +28,4 @@
 _Notes: Doctrine of Śrī Vidyā and Kaula belongs to U23/U24; recorded here because the catalogues of 64 are U08's scope._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._

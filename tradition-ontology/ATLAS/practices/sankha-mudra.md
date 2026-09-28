@@ -1,0 +1,15 @@
+# Śaṅkha mudrā (the conch gesture)
+
+`prc:sankha-mudra` · `skeleton` · confidence moderate
+
+**Category:** ritual
+**Convergence:** 3 independent lineage(s): [Kerala tantra (temple-tantra tradition of Kerala)](../lineages/kerala-tantra.md), [Mantraśāstra (the science of mantras: the smārta-tantric mantra manuals)](../lineages/mantrasastra.md), [Pāñcarātra](../lineages/pancaratra.md)
+**Taught in:** [Kerala tantra (temple-tantra tradition of Kerala)](../lineages/kerala-tantra.md), [Mantraśāstra (the science of mantras: the smārta-tantric mantra manuals)](../lineages/mantrasastra.md), [Pāñcarātra](../lineages/pancaratra.md)
+
+The left thumb grasped in the right fist, the right thumb extended and the remaining left fingers joined and stretched to touch it — the conch, shown over the arghya vessel (Śāradātilaka ch. 4 commentary; 'śaṅkhamudrāṃ pradarśya' in the arghya rite).
+**Stage:** all
+**Sources:** 
+  - [Śāradātilaka](../texts/saradatilaka.md) — ref: ch.4 (commentary)
+
+---
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-28 09:07 IST._

@@ -1,0 +1,13 @@
+# Dāmodara Paṇḍita
+
+`tch:damodara-pandita-mahanubhava` · `skeleton` · confidence low
+
+**Lineages:** [Mahānubhāva panth](../lineages/mahanubhava.md)
+**Historicity:** historical
+**Works:** 
+  - [Vatsaharaṇa](../texts/vatsaharana.md) — attribution: traditional
+
+Mahānubhāva poet (late 13th – 14th c.), author of one of the seven classic Mahānubhāva poems.
+
+---
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._

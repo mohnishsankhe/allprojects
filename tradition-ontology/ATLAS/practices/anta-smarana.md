@@ -19,4 +19,4 @@ Directing the mind to the Lord (Nārāyaṇa, Kṛṣṇa, Śiva) at the time of
 - Attachment at death leads to an according birth (Bharata's deer). — [Bhāgavata Purāṇa](../texts/bhagavata-purana.md) 5.8.26-27
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

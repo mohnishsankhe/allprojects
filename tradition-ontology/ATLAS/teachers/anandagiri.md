@@ -1,6 +1,6 @@
 # Ānandagiri (Ānandajñāna)
 
-`tch:anandagiri` · `skeleton` · confidence moderate
+`tch:anandagiri` · `sourced` · confidence moderate
 
 **Alternate names:** Ānandajñāna
 **Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md)
@@ -13,4 +13,8 @@
 Advaita sub-commentator on many of Śaṅkara's works, including the Gītābhāṣya.
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/hinduism/essay/tarkasangraha-by-anandagiri-critical-study/d/doc1598893.html — Confirmed (13th c.; = Ānandajñāna).
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

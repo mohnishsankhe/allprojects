@@ -24,4 +24,4 @@ Yes: consciousness arises from the combination of elements, as intoxicating powe
 **Candidate readings:** P1-level: the materialist account as a description of embodied consciousness only (rejected by both).
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._

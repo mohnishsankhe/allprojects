@@ -95,7 +95,7 @@ Memory arises from an impression begun by a cognition that shows both the graspe
 
 _level: unmarked · standpoint: analytic · path: meditation · stage: all · types: consciousness-mind_
 
-terms: [smṛti](../terms/smrti.md), [saṃskāra](../terms/samskara.md), [rāga (avairāgya)](../terms/raga.md), [dveṣa](../terms/dvesa.md), [avidyā](../terms/avidya.md) · concepts: [The five activities of the mind (pañca vṛttayaḥ)](../concepts/five-vrttis.md), [Latent impressions (saṃskāra)](../concepts/samskara.md)
+terms: [smṛti](../terms/smrti.md), [saṃskāra](../terms/samskara.md), [rāga](../terms/raga.md), [dveṣa](../terms/dvesa.md), [avidyā](../terms/avidya.md) · concepts: [The five activities of the mind (pañca vṛttayaḥ)](../concepts/five-vrttis.md), [Latent impressions (saṃskāra)](../concepts/samskara.md)
 
 ### 1.12 <a id="tea-yoga-bhasya-1-12"></a>
 `skeleton` · confidence high
@@ -644,7 +644,7 @@ When posture is mastered, inhalation is the drawing in of outer air and exhalati
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: intermediate · types: practice, body-layers_
 
-terms: [prāṇāyāma](../terms/pranayama.md) · practices: [Breath-regulation (prāṇāyāma)](../practices/pranayama.md), [The fourth prāṇāyāma (2.51)](../practices/caturtha-pranayama.md)
+terms: [prāṇāyāma](../terms/pranayama.md) · practices: [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md), [The fourth prāṇāyāma (2.51)](../practices/caturtha-pranayama.md)
 
 ### 2.52 <a id="tea-yoga-bhasya-2-52"></a>
 `skeleton` · confidence high
@@ -653,7 +653,7 @@ For the yogin practising prāṇāyāma, the karma that covers discriminative kn
 
 _level: conventional · standpoint: causal · path: body-breath · stage: intermediate · types: practice, karma-liberation_
 
-terms: [prakāśāvaraṇa](../terms/prakasavarana.md), [prāṇāyāma](../terms/pranayama.md) · practices: [Breath-regulation (prāṇāyāma)](../practices/pranayama.md) · obstacles: [The covering of the light (prakāśāvaraṇa)](../obstacles/prakasavarana.md)
+terms: [prakāśāvaraṇa](../terms/prakasavarana.md), [prāṇāyāma](../terms/pranayama.md) · practices: [Breath-control (prāṇāyāma) in haṭha](../practices/pranayama.md) · obstacles: [The covering of the light (prakāśāvaraṇa)](../obstacles/prakasavarana.md)
 
 ### 2.54 <a id="tea-yoga-bhasya-2-54"></a>
 `skeleton` · confidence high
@@ -662,7 +662,7 @@ When the mind is stilled, the senses, disjoined from their objects, are stilled 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice_
 
-terms: [pratyāhāra](../terms/pratyahara.md), [indriya](../terms/indriya.md) · practices: [Sense-withdrawal (pratyāhāra)](../practices/pratyahara.md)
+terms: [pratyāhāra](../terms/pratyahara.md), [indriya](../terms/indriya.md) · practices: [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md)
 
 ### 2.55 <a id="tea-yoga-bhasya-2-55"></a>
 `skeleton` · confidence high
@@ -671,7 +671,7 @@ Some say mastery of the senses is non-addiction to sounds and other objects — 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice, dispute_
 
-terms: [indriya-jaya](../terms/indriya-jaya.md) · practices: [Sense-withdrawal (pratyāhāra)](../practices/pratyahara.md) · teachers: [Jaigīṣavya](../teachers/jaigisavya.md) · disputes: [What is mastery of the senses (indriya-jaya)?](../debates/mastery-of-the-senses.md)
+terms: [indriya-jaya](../terms/indriya-jaya.md) · practices: [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md) · teachers: [Jaigīṣavya](../teachers/jaigisavya.md) · disputes: [What is mastery of the senses (indriya-jaya)?](../debates/mastery-of-the-senses.md)
 
 ### 3.1 <a id="tea-yoga-bhasya-3-1"></a>
 `skeleton` · confidence high
@@ -1107,4 +1107,4 @@ concepts: [Īśvara, Hiraṇyagarbha and the transmission of Yoga](../concepts/i
 
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 09:07 IST._

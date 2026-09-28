@@ -27,4 +27,4 @@ Brahman is both material and efficient cause, the world being its apparent trans
 _Notes: Related to dsp:causation and dsp:world-real-or-appearance (U50)._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._

@@ -16,4 +16,4 @@
 _Notes: Text-layer statements that bear directly on ult:the-one (ṚV 1.164.46). Traditions that deny such equivalence (e.g. Buddhist schools on 'śūnya' as a name of a substantial ultimate) are not represented in these verses._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

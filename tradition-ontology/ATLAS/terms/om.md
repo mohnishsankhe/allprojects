@@ -22,4 +22,4 @@
 _Notes: U05's definition (the Gītā usage); Oṃ in the Upaniṣads and mantra-śāstra is defined by U03 and U31._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

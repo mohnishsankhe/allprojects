@@ -19,4 +19,4 @@
 - same-as-under-standpoint → [The self (ātman) in the Upaniṣads](atman.md) (substance): Both name the self; Sāṃkhya insists on plurality and non-agency, which Advaita's one ātman and Nyāya's qualified ātman do not share (graded partial; interpretive) — rests on [17](../texts/samkhya-karika.md#tea-samkhya-karika-17), [18](../texts/samkhya-karika.md#tea-samkhya-karika-18), [19](../texts/samkhya-karika.md#tea-samkhya-karika-19)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

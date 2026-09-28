@@ -8,6 +8,7 @@
 
 ## Definitions by tradition
 - [Sāṃkhya](../lineages/samkhya.md): The subtle body produced first, unattached, constant, made of the principles from mahat down to the subtle elements, which transmigrates, perfumed by the dispositions, and plays its parts like an actor (SK 40–42); it cannot stand without a support (SK 41).
+- [Kaula (the Kula tradition)](../lineages/kaula.md): The subtle body that persists from birth to birth until liberation (Kulārṇava 1.11).
 
 ## Forms in other languages
 
@@ -16,4 +17,4 @@
 **Related:** [sūkṣma-śarīra](suksma-sarira.md), [liṅga](linga.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U24-kali-kaula. Generated 2026-09-28 09:07 IST._

@@ -13,4 +13,4 @@ Recognizing oneself as the unchanging witness of the mind's modes, the senses an
 **Sequences:** `pth:advaita-sadhana`
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

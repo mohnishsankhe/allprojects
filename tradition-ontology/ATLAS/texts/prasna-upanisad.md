@@ -168,7 +168,7 @@ As rivers flowing to the ocean disappear on reaching it, their name and form des
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate, karma-liberation_
 
-terms: [nāma-rūpa](../terms/nama-rupa.md), [amṛtatva / amṛta](../terms/amrtatva.md) · concepts: [The sixteen parts of the person](../concepts/sixteen-parts.md), [Liberation (mokṣa) in Dvaita](../concepts/moksa.md) · teachers: [Pippalāda](../teachers/pippalada.md)
+terms: [nāma-rūpa](../terms/nama-rupa.md), [amṛtatva](../terms/amrtatva.md) · concepts: [The sixteen parts of the person](../concepts/sixteen-parts.md), [Liberation (mokṣa) in Dvaita](../concepts/moksa.md) · teachers: [Pippalāda](../teachers/pippalada.md)
 
 ### 6.7-8 <a id="tea-prasna-upanisad-6-7-8"></a>
 `skeleton` · confidence high
@@ -183,4 +183,4 @@ terms: [avidyā](../terms/avidya.md), [guru](../terms/guru.md) · concepts: [Tea
 _Notes: Veda affiliation: Atharvaveda (traditionally the Paippalāda śākhā)_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

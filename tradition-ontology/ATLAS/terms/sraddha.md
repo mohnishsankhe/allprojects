@@ -11,6 +11,7 @@
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): The first of the five means (1.20): serenity of mind which, like a kind mother, protects the yogin (YBh 1.20).
 - [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): Faith as the sacrificer's wife, paired with truth (AB 7.10); the Agnihotra of 'truth offered in faith' (ŚB 11.3.1.4).
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): The trust by which one may receive good knowledge even from a lower person (MDh 2.238).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: Those who constantly follow Kṛṣṇa's teaching with faith and without carping are freed from actions (3.31).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Faith, threefold by the guṇas and according to one's inner being — 'a person is made of faith' (BhG 17.2–3); the one with faith gains knowledge (4.39); what is done without faith is 'asat' (17.28); the Lord makes each devotee's faith steady (7.21).
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): The rite of offering food and water to the dead and the ancestors (ekoddiṣṭa for one preta, pārvaṇa for the three ancestors), with feeding of brahmins.
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Faith: offered by the gods into the fire of yonder world (ChU 5.4; BAU 6.2.9); 'have faith' (ChU 6.12.2); head of the self made of understanding (TU 2.4); 'give with faith' (TU 1.11).
@@ -22,8 +23,9 @@
 - Pali: saddhā  — partial
 
 ## Equivalents (interpretation layer)
+**Related:** [asūyā](asuya.md), [mata](mata.md)
 
 _Notes: Not to be confused with śrāddha, the ancestral rite (trm:sraddha-ancestral-rite)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U16-bhedabheda, skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U16-bhedabheda, skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._

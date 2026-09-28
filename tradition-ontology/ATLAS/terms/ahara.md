@@ -4,14 +4,16 @@
 
 **Language:** Sanskrit
 **Native script:** आहार
-**Literal:** food, intake
+**Literal:** food; taking in
 
 ## Definitions by tradition
+- [Āyurveda](../lineages/ayurveda.md): The first support of life; wholesome food alone makes the person grow and unwholesome food causes disease (Ca Sū 25.31); its rule has eight factors (Vi 1.21); food is the root of living beings, of strength, complexion and ojas (Su Sū 1.28).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Food, which is threefold by the guṇas: life-giving, savoury and wholesome for the sāttvic; bitter, sour and burning for the rājasic; stale and impure for the tāmasic (BhG 17.7–10).
 
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
+**Related:** [pathya](pathya.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

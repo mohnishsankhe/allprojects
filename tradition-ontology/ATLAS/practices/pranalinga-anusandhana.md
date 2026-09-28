@@ -14,4 +14,4 @@ Continuous contemplation of the jyotirliṅga at the base, in the heart or betwe
 **Sequences:** `pth:virasaiva-satsthala`
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._

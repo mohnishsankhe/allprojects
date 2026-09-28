@@ -57,7 +57,7 @@ Gorakṣa, proud of a body made adamantine by yoga, is met by Allama; the blade 
 
 _level: ultimate · standpoint: polemical · path: knowledge, body-breath · stage: advanced · types: dispute, powers-experiences_
 
-concepts: [Powers and the warning against them](../concepts/virasaiva-siddhis.md) · obstacles: [Being caught by powers (siddhi)](../obstacles/siddhi-attachment.md) · teachers: [Allama Prabhu](../teachers/allama-prabhu.md), [Gorakṣanātha](../teachers/goraksanatha.md) · disputes: [Is the perfected, indestructible body the goal of yoga, or is it surpassed by the body dissolved in the liṅga (the void)?](../debates/allama-goraksa.md)
+concepts: [Powers and the warning against them](../concepts/virasaiva-siddhis.md) · obstacles: [Attachment to powers](../obstacles/siddhi-attachment.md) · teachers: [Allama Prabhu](../teachers/allama-prabhu.md), [Gorakṣanātha](../teachers/goraksanatha.md) · disputes: [Is the perfected, indestructible body the goal of yoga, or is it surpassed by the body dissolved in the liṅga (the void)?](../debates/allama-goraksa.md)
 
 ### sampādane of Muktāyakka <a id="tea-sunyasampadane-muktayakka"></a>
 `skeleton` · confidence low
@@ -90,4 +90,4 @@ terms: [śūnya](../terms/sunya.md), [bayalu](../terms/bayalu.md) · concepts: [
 _Notes: Some accounts speak of five versions; four named compilers are recorded here._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._

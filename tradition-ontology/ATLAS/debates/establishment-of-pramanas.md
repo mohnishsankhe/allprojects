@@ -26,4 +26,4 @@ The 'three times' objection defeats itself; denying all means of knowledge under
 _Notes: The identification of NS 2.1.8–19's opponent with Nāgārjuna is a scholarly hypothesis; the Nyāya commentators do not name him._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._

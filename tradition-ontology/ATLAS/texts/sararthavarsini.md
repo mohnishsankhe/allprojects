@@ -1,6 +1,6 @@
 # Sārārthavarṣiṇī of Viśvanātha Cakravartin
 
-`src:sararthavarsini` · `skeleton` · confidence moderate
+`src:sararthavarsini` · `sourced` · confidence moderate
 
 **Original title:** सारार्थवर्षिणी
 **Language:** Sanskrit
@@ -16,4 +16,8 @@
 A Gauḍīya Vaiṣṇava commentary on the Gītā reading it as culminating in pure devotion to Kṛṣṇa.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/2_epic/mbh/ext/bhagavadgita_with_four_chommentaries.md (Śrīdhara, Madhusūdana, Viśvanātha, Baladeva), https://en.wikipedia.org/wiki/Visvanatha_Chakravarti — Extant and digitized; completed Māgha Śaka 1626 (c. 1705 CE), within the entry's range.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

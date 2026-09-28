@@ -14,4 +14,4 @@ Turning the dying person's mind to the Lord (remembrance, the name), gifts made 
 _Notes: Further customary acts (placing on the ground, sesame, Gaṅgā water, tulasī) are described in the Pretakalpa's later chapters; not checked verse by verse._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

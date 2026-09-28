@@ -1,6 +1,6 @@
 # Vāc Āmbhṛṇī
 
-`tch:vak-ambhrni` · `skeleton` · confidence moderate
+`tch:vak-ambhrni` · `sourced` · confidence moderate
 
 **Lineages:** [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Śākala śākhā (Ṛgveda)](../lineages/sakha-sakala.md), [Śākta traditions](../lineages/sakta.md)
 **Historicity:** legendary
@@ -14,4 +14,8 @@ Vāc, daughter of the seer Ambhṛṇa, the ṛṣikā of RV 10.125, in which Sp
 _Notes: Seer attributions follow the Sarvānukramaṇī as printed in the hymn headers of the local Ṛgveda text (checked). Sāyaṇa's characterization recalled with moderate confidence._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Rigveda/rigveda_mandala_10.json (Anukramaṇī seer/deity/metre headers) — Header: 'vāg āmbhṛṇī', deity ātmā.
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

@@ -54,7 +54,7 @@ Root-nature (mūlaprakṛti) is not a modification; the seven beginning with the
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [mūlaprakṛti](../terms/mulaprakrti.md), [prakṛti](../terms/prakrti.md), [vikṛti / vikāra](../terms/vikrti.md), [mahat](../terms/mahat.md), [puruṣa](../terms/purusa.md), [tattva](../terms/tattva.md) · concepts: [The twenty-five principles (pañcaviṃśati-tattva)](../concepts/twenty-five-tattvas.md), [Prakṛti (primordial nature)](../concepts/prakrti.md), [Puruṣa (the conscious self)](../concepts/purusa.md)
+terms: [mūlaprakṛti](../terms/mulaprakrti.md), [prakṛti](../terms/prakrti.md), [vikṛti](../terms/vikrti.md), [mahat](../terms/mahat.md), [puruṣa](../terms/purusa.md), [tattva](../terms/tattva.md) · concepts: [The twenty-five principles (pañcaviṃśati-tattva)](../concepts/twenty-five-tattvas.md), [Prakṛti (primordial nature)](../concepts/prakrti.md), [Puruṣa (the conscious self)](../concepts/purusa.md)
 
 ### 4 <a id="tea-samkhya-karika-4"></a>
 `skeleton` · confidence high
@@ -458,7 +458,7 @@ Through dispassion, absorption into prakṛti; through passion of the nature of 
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
 
-terms: [vairāgya](../terms/vairagya.md), [prakṛtilaya](../terms/prakrtilaya.md), [rāga (avairāgya)](../terms/raga.md), [aiśvarya](../terms/aisvarya.md) · concepts: [Absorption into prakṛti (prakṛtilaya)](../concepts/prakrtilaya.md), [The eight dispositions of buddhi (bhāva)](../concepts/eight-bhavas.md) · obstacles: [Absorption into prakṛti mistaken for liberation](../obstacles/prakrtilaya.md), [Passion (rāga)](../obstacles/raga.md)
+terms: [vairāgya](../terms/vairagya.md), [prakṛtilaya](../terms/prakrtilaya.md), [rāga](../terms/raga.md), [aiśvarya](../terms/aisvarya.md) · concepts: [Absorption into prakṛti (prakṛtilaya)](../concepts/prakrtilaya.md), [The eight dispositions of buddhi (bhāva)](../concepts/eight-bhavas.md) · obstacles: [Absorption into prakṛti mistaken for liberation](../obstacles/prakrtilaya.md), [Passion, attachment (rāga)](../obstacles/raga.md)
 
 ### 46 <a id="tea-samkhya-karika-46"></a>
 `skeleton` · confidence high
@@ -738,4 +738,4 @@ terms: [ṣaṣṭitantra](../terms/sastitantra.md) · concepts: [The sixty topi
 _Notes: Verse numbers and wording used in this unit's SK teachings were checked against the local GRETIL/DCS e-texts in sources_raw/; entries stay at skeleton level until Phase C/D._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._

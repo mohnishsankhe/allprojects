@@ -1,6 +1,6 @@
 # Ṛgbhāṣya (Madhva)
 
-`src:rgbhasya-madhva` · `skeleton` · confidence high
+`src:rgbhasya-madhva` · `sourced` · confidence high
 
 **Alternate titles:** Ṛgveda-bhāṣya (Madhva)
 **Original title:** ऋग्भाष्यम्
@@ -44,4 +44,8 @@ terms: [sarva-śabda-vācyatva](../terms/sarvasabdavacyatva.md), [praṇava](../
 _Notes: Coverage of sūktas 1–40 and the opening verses checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/List_of_works_by_Madhvacharya, https://search.worldcat.org/title/first-forty-suktas-of-rig-veda-with-word-for-word-meanings-in-sanskrit-extracted-from-mantrartha-manjari-of-sri-raghavendra-swami-based-on-the-tika-commentary-of-sri-jaya-tirtha-on-the-rigbhasya-of-sriman- — Confirmed: Madhva's Ṛgbhāṣya on the first 40 sūktas, with Jayatīrtha's ṭīkā and Rāghavendra's Mantrārthamañjarī. The 'three meanings' (ādhibhautika, ādhidaivika, ādhyātmika) is reported in the Mādhva sources found. Madhva's dates 1238–1317 are the standard scholarly account.
+
+_Contributed by: skeleton:U15-dvaita, skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

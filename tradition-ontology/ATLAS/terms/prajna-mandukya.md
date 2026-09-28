@@ -14,4 +14,4 @@
 _Notes: Distinct from prajñā (wisdom); id disambiguated._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

@@ -13,4 +13,4 @@ Singing, hurrying, shaking the head, reading from a written text, not knowing th
   - [Pāṇinīya Śikṣā](../texts/paniniya-siksa.md) — ref: 31-33; rests_on: ["tea:paniniya-siksa:31-33"]
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

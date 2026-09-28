@@ -1,15 +1,21 @@
 # Sanatkumāra
 
-`tch:sanatkumara` · `skeleton` · confidence high
+`tch:sanatkumara` · `sourced` · confidence high
 
 **Alternate names:** Skanda (ChU 7.26.2)
-**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
+**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Samaya school of Śrīvidyā (Samayācāra)](../lineages/samaya-srividya.md)
 **Historicity:** mythic
 **Students:** [Nārada](narada.md), [Vṛtra](vrtra.md)
+**Works:** 
+  - [Sanatkumāra Saṃhitā (one of the five Śubhāgamas)](../texts/sanatkumara-samhita-subhagama.md) — attribution: traditional
 
 Teacher of Nārada in ChU 7: leads him from name to plenitude (bhūman) and shows him 'the far shore beyond darkness'; 'they call him Skanda' (ChU 7.26.2).
 
 _Notes: U05's contribution; his teaching in Chāndogya 7 is covered by U03._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U07-puranas, skeleton:U05-gita-epic, skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 12.271.3-6, 12.271.33, 12.271.59 — Located as described.
+
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U07-puranas, skeleton:U05-gita-epic, skeleton:U23-sakta-srividya, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

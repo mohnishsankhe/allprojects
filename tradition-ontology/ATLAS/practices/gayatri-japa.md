@@ -18,4 +18,4 @@ Repeating the Sāvitrī verse to Savitṛ ('we meditate on that excellent radian
 _Notes: The rules of who may recite it and how often belong to the gṛhya and dharma literature (U02)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

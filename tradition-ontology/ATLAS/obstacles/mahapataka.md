@@ -14,4 +14,4 @@ Killing a brāhmaṇa, drinking liquor, theft of a brāhmaṇa's gold, violating
   - [Bhāgavata Purāṇa](../texts/bhagavata-purana.md) — ref: 6.2.9-10; rests_on: ["tea:bhagavata-purana:6.2.9-10"]
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

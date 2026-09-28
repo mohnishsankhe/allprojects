@@ -1,0 +1,39 @@
+# Śvetāmbara Terāpanth
+
+`lin:terapanthi` · `skeleton` · confidence high
+
+**Family:** ascetic
+**Alternate names:** Terāpanthī, Terāpantha ('the path of thirteen' / 'your path, Lord')
+**Parent:** [Śvetāmbara](svetambara.md)
+**Founders:** `tch:acarya-bhiksu`
+**Key teachers:** `tch:acarya-bhiksu`, `tch:jayacarya`, `tch:tulsi-acarya`, `tch:mahaprajna`, `tch:mahasraman`
+**Regions:** Rajasthan (Mewar, Marwar, Thali; Ladnun), Gujarat, Kolkata and diaspora
+**Dates:** Tradition's account: founded by Ācārya Bhikṣu on leaving the Sthānakavāsī ācārya Raghunāth in 1760 CE (Vikrama 1817); Scholarly account: 1760 CE; (confidence high)
+**Status:** living
+
+A strictly centralized Śvetāmbara order founded in 1760 by Ācārya Bhikṣu, who broke with the Sthānakavāsīs over laxity and over what counts as dharma. It is aniconic, has a single ācārya, and is known in recent times for Ācārya Tulsī's Aṇuvrata movement and Ācārya Mahāprajña's prekṣā meditation.
+
+## Distinctive positions
+- One ācārya governs the whole order; all monks and nuns are initiated by and answerable to him, under a written code (maryādā)
+- Accepts thirty-two Āgamas and rejects image worship
+- Distinguishes worldly (laukika) duty from spiritual (lokottara) dharma: only acts that stop karmic inflow and foster self-restraint are dharma; saving or feeding the unrestrained is not in itself spiritual merit (a disputed position)
+- In the 20th c. (recent): the Aṇuvrata movement (Tulsī), the samaṇ/samaṇī intermediate order and prekṣā-dhyāna (Mahāprajña)
+
+
+## Texts
+[Ācārāṅga Sūtra](../texts/acaranga-sutra.md), [Antakṛddaśā](../texts/antakrddasa.md), [Anuttaraupapātikadaśā](../texts/anuttaraupapatikadasa.md), [Anuyogadvāra Sūtra](../texts/anuyogadvara-sutra.md), [Aupapātika Sūtra](../texts/aupapatika.md), [Āvaśyaka Sūtra](../texts/avasyaka-sutra.md), [Bhagavatī Sūtra (Vyākhyāprajñapti)](../texts/bhagavati-sutra.md), [Bhikṣu Granth Ratnākar (collected works of Ācārya Bhikṣu)](../texts/bhiksu-granth-ratnakar.md), [Bṛhatkalpa Sūtra](../texts/brhatkalpa-sutra.md), [Candraprajñapti](../texts/candraprajnapti.md), [Daśāśrutaskandha](../texts/dasasrutaskandha.md), [Daśavaikālika Sūtra](../texts/dasavaikalika-sutra.md), [Jambūdvīpaprajñapti](../texts/jambudvipaprajnapti.md), [Jīvājīvābhigama](../texts/jivajivabhigama.md), [Jñātādharmakathā](../texts/jnatadharmakatha.md), [Kalpāvataṃsikā](../texts/kalpavatamsika.md), [Nandī Sūtra](../texts/nandi-sutra.md), [Nirayāvalikā (Kalpikā)](../texts/nirayavalika.md), [Niśītha Sūtra](../texts/nisitha.md), [Prajñāpanā Sūtra](../texts/prajnapana.md), [Praśnavyākaraṇa](../texts/prasnavyakarana.md), [Puṣpacūlikā](../texts/puspaculika.md), [Puṣpikā](../texts/puspika.md), [Rājapraśnīya](../texts/rajaprasniya.md), [Samavāyāṅga Sūtra](../texts/samavayanga.md), [Sthānāṅga Sūtra](../texts/sthananga.md), [Sūryaprajñapti](../texts/suryaprajnapti.md), [Sūtrakṛtāṅga](../texts/sutrakrtanga.md), [Śvetāmbara Āgamas (the Jain canon)](../texts/svetambara-agamas.md), [Upāsakadaśā](../texts/upasakadasa.md), [Uttarādhyayana Sūtra](../texts/uttaradhyayana-sutra.md), [Vipākaśruta](../texts/vipakasruta.md), [Vṛṣṇidaśā](../texts/vrsnidasa.md), [Vyavahāra Sūtra](../texts/vyavahara-sutra.md)
+
+## Teachers
+`tch:acarya-bhiksu`, `tch:jayacarya`, `tch:mahaprajna`, `tch:mahasraman`, `tch:tulsi-acarya`
+
+## Practices
+_none recorded_
+
+## Path maps
+_none recorded_
+
+## Debates
+_none recorded_
+
+---
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-28 09:07 IST._

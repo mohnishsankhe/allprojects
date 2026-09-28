@@ -30,4 +30,4 @@ Yājñavalkya: the self within all is the unseen seer, beyond hunger, sorrow and
 **The traditions' own objections:** The narrative is a contest with a declared victor; it does not present the challengers' views as equal standpoints.
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

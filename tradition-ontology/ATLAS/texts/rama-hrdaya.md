@@ -5,7 +5,7 @@
 **Original title:** श्रीरामहृदयम्
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), `lin:ramanandi`
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Rāmānandī sampradāya](../lineages/ramanandi.md)
 **Genre:** upadeśa
 **Part of:** [Adhyātma Rāmāyaṇa](adhyatma-ramayana.md)
 **Location in parent:** Adhyātma Rāmāyaṇa, Bālakāṇḍa 1 (Sītā's teaching 1.1.31-43; Rāma's 1.1.44-52; named at 1.1.53)
@@ -28,4 +28,4 @@ concepts: [The threefold consciousness (Rāma-hṛdaya)](../concepts/threefold-c
 
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

@@ -15,4 +15,4 @@
 A digest of dharma in fourteen books, preserving Purāṇic teaching on vows, gifts, pilgrimage, śrāddha and liberation.
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

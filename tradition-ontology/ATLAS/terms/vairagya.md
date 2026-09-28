@@ -18,7 +18,7 @@
 - Pali: virāga  — partial — Buddhist dispassion
 
 ## Equivalents (interpretation layer)
-**Related:** [rāga (avairāgya)](raga.md), [prakṛtilaya](prakrtilaya.md), [abhyāsa](abhyasa.md)
+**Related:** [rāga](raga.md), [prakṛtilaya](prakrtilaya.md), [abhyāsa](abhyasa.md)
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U09-samkhya, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U13-advaita, skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U09-samkhya, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U13-advaita, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

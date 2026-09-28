@@ -11,4 +11,4 @@ Repetition of a mantra, which surpasses ritual sacrifice tenfold when audible, a
   - [Manusmṛti (Mānava Dharmaśāstra)](../texts/manusmrti.md) — ref: 2.85-87; rests_on: ["tea:manusmrti:2.85-87"]
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

@@ -19,4 +19,4 @@ Five kinds of error with sixty-two subdivisions (SK 47–48): darkness (8), delu
 - exact: [The five afflictions (kleśa)](five-klesas.md) — identified with avidyā, asmitā, rāga, dveṣa, abhiniveśa by the Yoga Bhāṣya on YS 1.8
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._

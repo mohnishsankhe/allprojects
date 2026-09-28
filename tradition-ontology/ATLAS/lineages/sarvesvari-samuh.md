@@ -19,6 +19,15 @@ A recent Aghora organisation founded by Aghoreśvar Bhagavān Rām at Varanasi, 
 **Transmissions received:** 
   - [Aghora (Aghor panth; Aghorī and Aughaṛ ascetics)](aghora.md) — what: the Kīnārāmī Aghora lineage; evidence: Bhagavān Rām's initiation in the Aghora line (tradition's account)
 
+## The ultimate in this lineage
+`skeleton` · confidence low · _recent (post-1800)_
+
+**Names:** Sarveśvarī (the Lady of all), Aghora
+**Descriptions:** the divine as the Mother of all, served in the sick and the outcaste
+**Relation to self:** The same Aghora teaching of non-difference, turned toward service.
+**Relation to world:** The world is served, not shunned.
+**Caveat:** Recent movement; formulation from general reports, not from its own texts.
+
 ## Texts
 _none recorded_
 
@@ -26,7 +35,7 @@ _none recorded_
 [Aghoreśvar Bhagavān Rām](../teachers/bhagwan-ram.md), [Gurupad Sambhav Rām](../teachers/gurupad-sambhav-ram.md), [Siddhārth Gautam Rām](../teachers/siddharth-gautam-ram.md)
 
 ## Practices
-_none recorded_
+[Service of the sick and outcaste (Aghora seva)](../practices/aghora-seva.md)
 
 ## Path maps
 _none recorded_
@@ -37,4 +46,4 @@ _none recorded_
 _Notes: Sub-lineage created by U21. Founding year and institutional names as commonly reported; to be sourced._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._

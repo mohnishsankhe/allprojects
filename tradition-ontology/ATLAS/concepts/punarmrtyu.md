@@ -13,4 +13,4 @@
 - leads-to → [Karma of mind, speech and body](karma-of-mind-speech-body.md): the Brāhmaṇa fear of repeated death is developed in the later doctrine of rebirth by action
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

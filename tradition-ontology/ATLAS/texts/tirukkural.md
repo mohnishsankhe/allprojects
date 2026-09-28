@@ -6,7 +6,7 @@
 **Original title:** திருக்குறள்
 **Language:** Tamil
 **Family:** shared
-**Lineages:** [Tamil Śaiva Siddhānta (the Meykaṇṭa school)](../lineages/tamil-saiva-siddhanta.md), `lin:jainism`, [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md)
+**Lineages:** [Tamil Śaiva Siddhānta (the Meykaṇṭa school)](../lineages/tamil-saiva-siddhanta.md), [Jainism (Jaina dharma)](../lineages/jainism.md), [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md)
 **Genre:** ethical aphorisms (kuṟaḷ-veṇpā)
 **Authors:** 
   - [Tiruvaḷḷuvar](../teachers/tiruvalluvar.md) — role: author; attribution: accepted
@@ -21,7 +21,7 @@ Tiruvaḷḷuvar's 1,330 couplets (kuṟaḷ-veṇpā) in 133 chapters of ten, i
   - kind: translation; name: G. U. Pope, The Sacred Kurral of Tiruvalluva-Nayanar (1886)
 **Commentaries on this text:** [Maṇakkuṭavar's commentary on the Tirukkuṟaḷ](manakkutavar-urai.md), [Parimēlaḻakar's commentary on the Tirukkuṟaḷ](parimelalakar-urai.md)
 
-## Teachings (33: skeleton 33)
+## Teachings (39: skeleton 39)
 
 ### 1 <a id="tea-tirukkural-1"></a>
 `skeleton` · confidence high
@@ -157,7 +157,7 @@ Not to kill and eat a living being is better than pouring ghee into the fire in 
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics_
 
-terms: [pulāl maṟuttal](../terms/pulal-maruttal.md) · practices: [Abstaining from meat (pulāl maṟuttal)](../practices/pulal-maruttal.md) · teachers: [Tiruvaḷḷuvar](../teachers/tiruvalluvar.md) · disputes: [To which tradition does the Tirukkuṟaḷ belong — Jain, Śaiva, Vaiṣṇava, Buddhist, or none?](../debates/affiliation-of-tirukkural.md)
+terms: [pulāl maṟuttal](../terms/pulal-maruttal.md) · practices: [Refusing flesh (pulāl maṟuttal)](../practices/pulal-maruttal.md) · teachers: [Tiruvaḷḷuvar](../teachers/tiruvalluvar.md) · disputes: [To which tradition does the Tirukkuṟaḷ belong — Jain, Śaiva, Vaiṣṇava, Buddhist, or none?](../debates/affiliation-of-tirukkural.md)
 
 ### 260 <a id="tea-tirukkural-260"></a>
 `skeleton` · confidence high
@@ -168,7 +168,7 @@ All living beings will join their hands in worship of one who neither kills nor 
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics_
 
-practices: [Abstaining from meat (pulāl maṟuttal)](../practices/pulal-maruttal.md) · teachers: [Tiruvaḷḷuvar](../teachers/tiruvalluvar.md) · disputes: [To which tradition does the Tirukkuṟaḷ belong — Jain, Śaiva, Vaiṣṇava, Buddhist, or none?](../debates/affiliation-of-tirukkural.md)
+practices: [Refusing flesh (pulāl maṟuttal)](../practices/pulal-maruttal.md) · teachers: [Tiruvaḷḷuvar](../teachers/tiruvalluvar.md) · disputes: [To which tradition does the Tirukkuṟaḷ belong — Jain, Śaiva, Vaiṣṇava, Buddhist, or none?](../debates/affiliation-of-tirukkural.md)
 
 ### 267 <a id="tea-tirukkural-267"></a>
 `skeleton` · confidence moderate
@@ -331,6 +331,72 @@ _level: conventional · standpoint: ethical-social · path: action · stage: all
 
 teachers: [Tiruvaḷḷuvar](../teachers/tiruvalluvar.md) · disputes: [To which tradition does the Tirukkuṟaḷ belong — Jain, Śaiva, Vaiṣṇava, Buddhist, or none?](../debates/affiliation-of-tirukkural.md)
 
+### 941 <a id="tea-tirukkural-941"></a>
+`skeleton` · confidence high
+
+Excess or deficiency of the three that the learned reckon beginning with wind (vaḷi) causes disease.
+
+> मिगिऩुम् कुऱैयिऩुम् नोय्सॆय्युम् नूलोर् / वळिमुदला ऎण्णिय मूऩ्ऱु।
+
+_level: conventional · standpoint: analytic · path: action · stage: all · types: body-layers_
+
+terms: [vāta](../terms/vata.md), [pitta](../terms/pitta.md), [kapha](../terms/kapha.md), [mukkuṟṟam](../terms/mukkurram.md) · concepts: [The three humours (mukkuṟṟam: vaḷi, aḻal, aiyam)](../concepts/three-humours-siddha.md) · teachers: [Tiruvaḷḷuvar](../teachers/tiruvalluvar.md)
+
+### 942 <a id="tea-tirukkural-942"></a>
+`skeleton` · confidence high
+
+No medicine is needed for the body if one eats after making sure that what was eaten before has been digested.
+
+> मरुन्दॆऩ वेण्डावाम् याक्कैक्कु अरुन्दियदु / अऱ्ऱदु पोऱ्ऱि उणिऩ्।
+
+_level: conventional · standpoint: analytic · path: action · stage: all · types: body-layers, practice_
+
+practices: [Siddha daily regimen (nōy aṇukā viti)](../practices/siddha-daily-regimen.md) · teachers: [Tiruvaḷḷuvar](../teachers/tiruvalluvar.md)
+
+### 946 <a id="tea-tirukkural-946"></a>
+`skeleton` · confidence high
+
+Pleasure stays with one who eats knowing the measure; disease stays with the glutton who eats beyond it.
+
+> इऴवऱिन्दु उण्बाऩ्गण् इऩ्बम्बोल् निऱ्कुम् / कऴिबेर् इरैयाऩ्गण् नोय्।
+
+_level: conventional · standpoint: analytic · path: action · stage: all · types: body-layers, ethics_
+
+practices: [Siddha daily regimen (nōy aṇukā viti)](../practices/siddha-daily-regimen.md) · teachers: [Tiruvaḷḷuvar](../teachers/tiruvalluvar.md)
+
+### 948 <a id="tea-tirukkural-948"></a>
+`skeleton` · confidence high
+
+Examine the disease, examine its cause, examine the means of allaying it, and act fittingly.
+
+> नोय्ऩाडि नोय्मुदल् नाडि अदुदणिक्कुम् / वाय्ऩाडि वाय्प्पच् चॆयल्।
+
+_level: conventional · standpoint: analytic · path: action · stage: all · types: body-layers_
+
+concepts: [The eight examinations (eṇvakait tērvu)](../concepts/envagai-thervu.md) · teachers: [Tiruvaḷḷuvar](../teachers/tiruvalluvar.md)
+
+### 949 <a id="tea-tirukkural-949"></a>
+`skeleton` · confidence high
+
+The learned (physician) should act after considering the patient's measure, the measure of the illness and the time.
+
+> उऱ्ऱाऩ् अळवुम् पिणियळवुम् कालमुम् / कऱ्ऱाऩ् करुदिच् चॆयल्।
+
+_level: conventional · standpoint: analytic · path: action · stage: all · types: body-layers_
+
+concepts: [The eight examinations (eṇvakait tērvu)](../concepts/envagai-thervu.md), [Seasons and times (perumpoḻutu, ciṟupoḻutu)](../concepts/siddha-seasons.md) · teachers: [Tiruvaḷḷuvar](../teachers/tiruvalluvar.md)
+
+### 950 <a id="tea-tirukkural-950"></a>
+`skeleton` · confidence high
+
+Patient, physician, medicine and attendant: medicine consists of these four parts.
+
+> उऱ्ऱवऩ् तीर्प्पाऩ् मरुन्दुऴैच् चॆल्वाऩॆऩ्ऱु / अप्पाल् नाऱ् कूऱ्ऱे मरुन्दु।
+
+_level: conventional · standpoint: analytic · path: action · stage: all · types: body-layers_
+
+concepts: [Forms of medicine: 32 internal and 32 external](../concepts/siddha-medicine-forms.md) · teachers: [Tiruvaḷḷuvar](../teachers/tiruvalluvar.md)
+
 ### 1103 <a id="tea-tirukkural-1103"></a>
 `skeleton` · confidence moderate
 
@@ -344,4 +410,4 @@ teachers: [Tiruvaḷḷuvar](../teachers/tiruvalluvar.md) · disputes: [To which
 _Notes: lineages lists traditions that have claimed or canonically commented the text (Śaiva, Jain, Vaiṣṇava), not an established affiliation; the Buddhist and non-sectarian claims are in dsp:affiliation-of-tirukkural._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._

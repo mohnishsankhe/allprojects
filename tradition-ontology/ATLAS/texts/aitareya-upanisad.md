@@ -115,4 +115,4 @@ terms: [Prājña](../terms/prajna.md) · concepts: [Liberation (mokṣa) in Dvai
 _Notes: Veda affiliation: Ṛgveda, Aitareya (Sakala/Asvalayana) tradition_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

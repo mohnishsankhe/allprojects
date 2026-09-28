@@ -26,4 +26,4 @@ terms: [upaniṣad](../terms/upanisad.md) · teachers: [Śaṅkara (Ādi Śaṅk
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

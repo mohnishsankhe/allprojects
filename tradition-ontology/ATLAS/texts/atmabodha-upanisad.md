@@ -38,4 +38,4 @@ _level: ultimate · standpoint: absolute · path: knowledge · stage: all · typ
 _Notes: Distinct from Śaṅkara's Ātmabodha (src:atma-bodha). Titled Ātmaprabodha in this collection. Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-text used here; other editions (e.g. the Adyar series, Schrader's critical edition, northern recensions) number differently._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

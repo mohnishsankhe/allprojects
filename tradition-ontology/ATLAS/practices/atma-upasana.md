@@ -11,4 +11,4 @@
   - [Bṛhadāraṇyaka Upaniṣad](../texts/brhadaranyaka-upanisad.md) — ref: 1.4.7-8; rests_on: ["tea:brhadaranyaka-upanisad:1.4.7", "tea:brhadaranyaka-upanisad:1.4.8"]
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

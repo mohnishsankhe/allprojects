@@ -1,6 +1,6 @@
 # Bhūṣaṇa of Govindarāja (on the Rāmāyaṇa)
 
-`src:ramayana-bhusana-govindaraja` · `skeleton` · confidence moderate
+`src:ramayana-bhusana-govindaraja` · `sourced` · confidence moderate
 
 **Original title:** भूषण
 **Language:** Sanskrit
@@ -16,4 +16,8 @@
 Govindarāja's extensive Śrīvaiṣṇava commentary on the Vālmīki Rāmāyaṇa.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://archive.org/details/valmiki-ramayana-with-govindarajas-commentary-sanskrit, https://ochs.org.uk/lecture/the-ramayana-of-valmiki-four-lectures-2/ — Śrīvaiṣṇava commentary on the Vālmīki Rāmāyaṇa, 16th c.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

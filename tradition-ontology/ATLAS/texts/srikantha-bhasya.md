@@ -23,7 +23,7 @@ On 'that from which the birth etc. of this (world) proceed': that cause is Param
 
 _level: ultimate · standpoint: cosmic · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [cit-śakti](../terms/cit-sakti.md) · concepts: [Qualified non-dualism of Śiva (Śrīkaṇṭha)](../concepts/siva-visistadvaita.md) · teachers: [Śrīkaṇṭha Śivācārya](../teachers/srikantha.md)
+terms: [citśakti](../terms/cit-sakti.md) · concepts: [Qualified non-dualism of Śiva (Śrīkaṇṭha)](../concepts/siva-visistadvaita.md) · teachers: [Śrīkaṇṭha Śivācārya](../teachers/srikantha.md)
 
 ### 1.3.14 <a id="tea-srikantha-bhasya-1-3-14"></a>
 `skeleton` · confidence moderate
@@ -54,4 +54,4 @@ terms: [śiva-sāmya](../terms/siva-samya.md) · concepts: [Equality with Śiva 
 
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._

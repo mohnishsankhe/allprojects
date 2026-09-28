@@ -13,4 +13,4 @@ The Āraṇyaka of the Kaṭha school of the Black Yajurveda, chiefly on the Pra
 _Notes: Local copy: vedaH/yajur/kaTha/kaTha_araNyaka.md._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

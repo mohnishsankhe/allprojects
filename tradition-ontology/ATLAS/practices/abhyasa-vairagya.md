@@ -14,4 +14,4 @@ The restless mind is held by practice — bringing it back again and again to th
 _Notes: U05's contribution (the Gītā's formulation); the same pair in Yoga Sūtra 1.12 is given by U10._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

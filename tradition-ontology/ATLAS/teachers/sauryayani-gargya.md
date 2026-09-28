@@ -9,4 +9,4 @@
 One of the six seekers devoted to brahman who come to Pippalāda with fuel in hand; he asks what sleeps and what wakes in a person and who sees dreams (PrU 4).
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

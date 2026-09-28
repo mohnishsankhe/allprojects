@@ -11,4 +11,4 @@
 Śrīraṅgam temple functionary who became Rāmānuja's devotee through Kūreśa and composed the Irāmāṉuca Nūṟṟantāti.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._

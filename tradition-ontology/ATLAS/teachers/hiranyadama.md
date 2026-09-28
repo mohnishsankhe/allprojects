@@ -10,4 +10,4 @@
 Brahmin who, according to the Khmer Sdok Kak Thom inscription (1052 CE), performed rites for King Jayavarman II and taught four Vāma tantras — Vīṇāśikha, Nayottara, Sammoha and Śiraścheda — to the royal priest.
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._

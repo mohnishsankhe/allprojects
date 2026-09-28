@@ -15,4 +15,4 @@ Author of two commentaries on the Yoga Sūtra, the Yogasiddhāntacandrikā and t
 _Notes: Identity with Nārāyaṇa Tīrtha, composer of the Kṛṣṇalīlātaraṅgiṇī, is sometimes asserted — not verified._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 09:07 IST._

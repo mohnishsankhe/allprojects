@@ -15,4 +15,4 @@ The dying āhitāgni goes out with his fires; the body is washed, carried to the
 **Sequences:** [The life-cycle of sacraments (saṃskāra), conception to ancestorhood](../paths/samskara-life-cycle.md)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

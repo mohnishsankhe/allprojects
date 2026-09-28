@@ -15,4 +15,4 @@
 **Related:** [viṣaya](visaya-mimamsa.md), [saṃśaya](samsaya.md), [saṅgati](sangati.md), [pūrvapakṣa](purvapaksa.md), [siddhānta](siddhanta.md)
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

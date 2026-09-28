@@ -14,4 +14,4 @@ Vaiṣṇava devotion and the power of Hari's name in the Kali age.
 _Notes: The verse 'harer nāma harer nāma harer nāmaiva kevalam / kalau nāsty eva nāsty eva nāsty eva gatir anyathā' is attributed to the Bṛhannāradīya by Gauḍīya authors; location not checked._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

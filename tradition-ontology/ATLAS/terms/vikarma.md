@@ -12,9 +12,9 @@
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-**Related:** [karma](karma.md), [akarma](akarma.md)
+**Related:** [karma](karma.md), [akarman](akarma.md)
 
 _Notes: Commentators differ: prohibited action (Śaṅkara) or the various kinds of action (others)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

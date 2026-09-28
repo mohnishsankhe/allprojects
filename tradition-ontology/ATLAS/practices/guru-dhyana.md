@@ -13,4 +13,4 @@ Meditating on the guru's form, the root of meditation, often visualized in the l
   - [Devī Gītā](../texts/devi-gita.md) — ref: 7.40.1; rests_on: ["tea:devi-gita:7.40.1-7"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

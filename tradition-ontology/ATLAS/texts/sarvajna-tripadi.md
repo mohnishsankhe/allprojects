@@ -16,4 +16,4 @@ Thousands of three-line verses (tripadi) of worldly and spiritual wisdom, critic
 _Notes: Sarvajña's Vīraśaiva affiliation is itself debated; included because the tradition claims him._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._

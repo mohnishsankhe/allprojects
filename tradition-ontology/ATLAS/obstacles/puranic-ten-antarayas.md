@@ -14,4 +14,4 @@ Sloth, illness, heedlessness, doubt about the ground, unsteadiness of mind, fait
   - [Śiva Purāṇa](../texts/siva-purana.md) — ref: 7.2.38.1-8; rests_on: ["tea:siva-purana:7.2.38.1-8"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

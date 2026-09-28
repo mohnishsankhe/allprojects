@@ -1,6 +1,6 @@
 # Prameyadīpikā of Jayatīrtha
 
-`src:prameyadipika` · `skeleton` · confidence moderate
+`src:prameyadipika` · `sourced` · confidence moderate
 
 **Original title:** प्रमेयदीपिका
 **Language:** Sanskrit
@@ -19,4 +19,8 @@ Jayatīrtha's sub-commentary on Madhva's Gītābhāṣya.
   - kind: original; name: gita/gita JSON corpus (Sanskrit text, transliteration, several commentaries); licence: Unlicense; url: https://github.com/gita/gita
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://www.exoticindiaart.com/book/details/gita-bhashyam-with-commentary-of-sri-jayatirtha-and-sri-raghavendratirtha-nzg165/, https://archive.org/details/gItAbhAShya_201801 — Jayatīrtha's Prameyadīpikā on Madhva's Gītābhāṣya confirmed (printed with the bhāṣya). Date (14th c.) consistent with Jayatīrtha; not separately checked.
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._

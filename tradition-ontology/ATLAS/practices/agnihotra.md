@@ -23,4 +23,4 @@ Twice daily, at sunrise and sunset, the householder who has established the sacr
 _Notes: Procedure belongs to the śrauta manuals (U01/U02); only its Mīmāṃsā treatment is recorded here._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa, skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa, skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

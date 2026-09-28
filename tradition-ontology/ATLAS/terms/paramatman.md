@@ -23,4 +23,4 @@
 _Notes: In Nyāya the supreme self is a distinct self, not the self of all._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U02-brahmana-vedanga, skeleton:U13-advaita, skeleton:U11-nyaya-vaisesika, skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U02-brahmana-vedanga, skeleton:U13-advaita, skeleton:U11-nyaya-vaisesika, skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

@@ -16,4 +16,4 @@
 _Notes: The same word names the Ājīvika doctrine of necessity (U33); the ŚU names no school._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

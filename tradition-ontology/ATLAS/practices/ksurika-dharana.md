@@ -11,4 +11,4 @@ A concentration that 'cuts' through the vital points and channels with mind and 
   - [Kṣurikā Upaniṣad](../texts/ksurika-upanisad.md) — ref: 1-23 (summary); rests_on: ["tea:ksurika-upanisad:1-23-summary"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

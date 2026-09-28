@@ -47,4 +47,4 @@ Manu's sequence with debts first and the Jābāla option 'on the day one becomes
 **The traditions' own objections:** The aikāśramya teachers (GDh 3.36; BDh 2.6.11.27–28) deny any Vedic basis to the celibate orders and so reject grading them; Manu insists the debts be paid first (6.35–37); Āpastamba denies that knowledge alone brings safety in this life (2.9.21.14–16).
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

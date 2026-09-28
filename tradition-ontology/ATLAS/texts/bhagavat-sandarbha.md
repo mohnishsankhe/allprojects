@@ -24,4 +24,4 @@ concepts: [Brahman, Paramātman and Bhagavān](../concepts/brahman-paramatman-bh
 
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._

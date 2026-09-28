@@ -18,4 +18,4 @@ The classical Purāṇic manual of dying and the afterlife: the signs and pains 
 _Notes: Chapter topics (from the colophons of the local e-text): 1 questions; 2 after-death rites and karmic results; 3 hells; 4 cremation, deaths in pañcaka; 5 annual rites and the road to Yama; 6 vṛṣotsarga; 7 five pretas; 8 self-śrāddha; 11 the openings of departure; 12 only dharma follows the dead; 14 gifts; 15 Yama's world; 16 the preta's journey; 19 entry into Yama's hall and new bodies; 20-23 the abode, harassment, dreams and signs of pretas and their release; 24-25 untimely deaths and children; 26 sapiṇḍana; 27 Babhruvāhana and the preta; 32 embryology; 36 death by fasting; 38 higher worlds and liberation; 39 impurity periods; 44 bad deaths; 45 annual śrāddha; 46-48 destinies and karma; 49 means of liberation. verse number checked in the GRETIL/Sansknet e-text of the Garuḍa Purāṇa (Venkateshwara ed.; Pretakalpa cited as 2.chapter.verse)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._

@@ -17,4 +17,4 @@ At dawn and dusk: sipping and bathing, sprinkling with the water-verses, breath-
 _Notes: U01 contribution: its Saṃhitā mantras. The rite's structure is set out in gṛhya/dharma texts (U02)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

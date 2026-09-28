@@ -20,4 +20,4 @@ A short early verse Upaniṣad in which Indra, in the form of a ram, carries off
 _Notes: Outside the Muktikā canon; also transmitted in the Persian Oupnek'hat (low confidence). Veda affiliation: Ṛgveda (attributed to the Bāṣkala śākhā)_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

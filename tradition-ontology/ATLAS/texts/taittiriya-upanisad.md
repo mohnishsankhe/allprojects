@@ -252,4 +252,4 @@ terms: [anna](../terms/anna.md), [ṛta](../terms/rta.md) · concepts: [The five
 _Notes: Veda affiliation: Black Yajurveda, Taittirīya śākhā_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

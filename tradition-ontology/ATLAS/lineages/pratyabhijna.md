@@ -23,7 +23,7 @@ The philosophical school founded by Somānanda (Śivadṛṣṭi) and systematiz
 
 **Transmissions received:** 
   - `lin:pramana-buddhist` — what: the logical-epistemological idiom of Dharmakīrti's school, answered polemically; evidence: ĪPK 1.2-1.7; 2.3
-  - `lin:vyakarana` — what: the idea that awareness is intrinsically verbal (vāc); critique of paśyantī as ultimate; evidence: Śivadṛṣṭi ch. 2; ĪPK 1.5.13
+  - [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](vyakarana.md) — what: the idea that awareness is intrinsically verbal (vāc); critique of paśyantī as ultimate; evidence: Śivadṛṣṭi ch. 2; ĪPK 1.5.13
 
 ## The ultimate in this lineage
 `skeleton` · confidence high
@@ -51,4 +51,4 @@ The philosophical school founded by Somānanda (Śivadṛṣṭi) and systematiz
 [Does the liberated soul become identical with Śiva, or only equal to Śiva (śivasamatva) while remaining distinct?](../debates/liberation-identity-or-equality-with-siva.md), [Is Speech at the level of paśyantī (the grammarians' Word-Brahman) the ultimate reality?](../debates/pasyanti-brahman.md), [Are there only momentary cognitions without an enduring subject, or is there one conscious knower - the Lord - whose powers of cognition, memory and exclusion make experience possible?](../debates/pratyabhijna-vs-buddhist-logicians.md)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._

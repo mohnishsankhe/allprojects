@@ -1,6 +1,6 @@
 # Ārya Samāj
 
-`lin:arya-samaj` · `skeleton` · confidence moderate · _recent (post-1800)_
+`lin:arya-samaj` · `sourced` · confidence moderate · _recent (post-1800)_
 
 **Family:** vedic
 **Alternate names:** Arya Samaj
@@ -37,4 +37,8 @@ _none recorded_
 _Notes: Not in the registry; created by U01 because its founder's commentary is a major reading of the Saṃhitās. Positions recalled from memory (moderate). Flag for inclusion/exclusion (section H logic)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Arya_Samaj, https://www.britannica.com/biography/Dayananda-Sarasvati — Confirmed: founded by Dayānanda Sarasvatī, Bombay, 10 April 1875; strongest in Panjab/North India and the diaspora. (Inclusion outside the registry is a policy question for the orchestrator, not a factual one.)
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

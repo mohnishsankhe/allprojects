@@ -1,6 +1,6 @@
 # Anuśāsanaparvan
 
-`src:anusasanaparvan` · `skeleton` · confidence high
+`src:anusasanaparvan` · `sourced` · confidence high
 
 **Original title:** अनुशासनपर्वन्
 **Language:** Sanskrit
@@ -20,4 +20,8 @@ The book of instruction: Bhīṣma's further teaching on giving (dāna), fasts, 
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_13.json (BORI Critical Edition text) book 13: 154 chapters — Book 13 has exactly 154 chapters in the local Critical Edition text, as entered.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

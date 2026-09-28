@@ -27,4 +27,4 @@ Later commentators (Durga, Sāyaṇa) read mantras on the planes of the sacrific
 **The traditions' own objections:** Each school regarded its own reading as primary; the reconciliation is Yāska's plural reading, not an assertion that the schools agreed.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

@@ -12,15 +12,18 @@
 - [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): In the Brāhmaṇas the classes are correlated with metres, gods, chants and animals (TS 7.1.1.4–6) and with the three Vedas (TB 3.12.9.2).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The four classes, created by the Lord according to guṇa and action (BhG 4.13), their duties arising from their nature (18.41–44); Bhṛgu teaches that the whole world was of Brahman and came to varṇa-division by actions (MBh 12.181.10); conduct makes the brāhmaṇa (3.177.16).
 - [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md): The eternal letters are the word: 'gauḥ' is g, au and ḥ (Upavarṣa); meaning is conveyed by the letters through their impressions, without a sphoṭa.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: The social orders whose mixture (varṇa-saṅkara) Arjuna fears (1.41).
 - [Trika ('the Triad')](../lineages/trika.md): Letter or sound as object of contemplation (VBT 30, 40, 81, 90) and as an āṇava support (MVT 2.21).
+- [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md): The letter: for the grammarians not a real part of the word, which is partless (VP 1.73).
+- [Mantraśāstra (the science of mantras: the smārta-tantric mantra manuals)](../lineages/mantrasastra.md): The letters as the manifestation of śabda-brahman through kuṇḍalinī (ŚT 1.14); gathered as the fifty mātṛkās.
 
 ## Forms in other languages
 - Pali: vaṇṇa  — partial
 
 ## Equivalents (interpretation layer)
-**Related:** [cāturvarṇya](caturvarnya.md), [svadharma](svadharma.md)
+**Related:** [cāturvarṇya](caturvarnya.md), [svadharma](svadharma.md), [varṇasaṅkara](varnasankara.md)
 
 _Notes: Homonym: phoneme (Vedāṅga) and social class (Dharmaśāstra) kept as separate definitions._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U12-mimamsa, skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U12-mimamsa, extraction:bhagavad-gita/ch01-03, skeleton:U19-kashmir-saivism, skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._

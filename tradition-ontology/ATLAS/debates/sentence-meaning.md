@@ -17,10 +17,10 @@ Words express their meanings only as connected with one another and with the 'to
 - Prakaraṇapañcikā reports and answers the Bhāṭṭa saying 'vākyārtho lakṣyamāṇo hi sarvatraiveti naḥ sthitiḥ'.
 **Texts:** 
   - [Prakaraṇapañcikā](../texts/prakaranapancika.md) — ref: ch. 7; the passage citing the Bhāṭṭa saying
-### `lin:vyakarana`
+### [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md)
 The sentence is an indivisible unit (vākya-sphoṭa) whose meaning flashes as an intuition (pratibhā); word-meanings are abstractions.
 **Texts:** 
-  - `src:vakyapadiya` — ref: book 2
+  - [Vākyapadīya](../texts/vakyapadiya.md) — ref: book 2
 
 ## Reconciliation (interpretation layer)
 **Status:** not yet reconciled (queued)
@@ -28,4 +28,4 @@ The sentence is an indivisible unit (vākya-sphoṭa) whose meaning flashes as a
 **Candidate readings:** P2-standpoint: the two Mīmāṃsā accounts describe the same understanding from the side of words (Prābhākara) and of meanings (Bhāṭṭa); each school denies the other's analysis of the mechanism.
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

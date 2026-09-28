@@ -15,4 +15,4 @@ The renunciant takes a little food from many houses without burdening any and st
   - [Sannyāsa Upaniṣad](../texts/sannyasa-upanisad.md) — ref: 2.65-71; rests_on: ["tea:sannyasa-upanisad:2.65-71"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

@@ -19,4 +19,4 @@
 **Related:** [dhyāna (nididhyāsana)](dhyana.md), [svarūpa-yogyatā](svarupa-yogyata.md), [vidyā](vidya.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U14-visistadvaita, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U14-visistadvaita, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

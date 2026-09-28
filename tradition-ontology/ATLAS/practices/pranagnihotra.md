@@ -23,4 +23,4 @@ At each meal the eater sips water ('immortal under-layer'), offers the first fiv
 - Offered without knowing its meaning, the Agnihotra is 'like pouring the offering on ashes' (ChU 5.24.1). — [Chāndogya Upaniṣad](../texts/chandogya-upanisad.md) 5.24.1
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._

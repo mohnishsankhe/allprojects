@@ -291,6 +291,35 @@
   }
  },
  {
+  "id": "phn:ajna-siddhi",
+  "lineage": "lin:kaula-srividya",
+  "kind": "power",
+  "description": "From firmness of contemplation comes the power of command (PKS 1.13).",
+  "source": "src:parasurama-kalpasutra",
+  "ref": "1.13",
+  "rests_on": [
+   "tea:parasurama-kalpasutra:1.13"
+  ],
+  "coverage": [
+   "A8",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:akka-bridal-longing",
   "lineage": "lin:sarana-vacana",
   "source": "src:akka-mahadevi-vacanas",
@@ -409,6 +438,35 @@
   }
  },
  {
+  "id": "phn:amanaska-signs",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:amanaska",
+  "ref": "ch. 2",
+  "kind": "state",
+  "description": "In the mindless state the body is still as a log, sense-objects are not grasped, the breath stops, the mind neither sleeps nor wakes.",
+  "rests_on": [
+   "tea:amanaska:2.topic.signs"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:amrtanada-month-signs",
   "lineage": "lin:upanisadic",
   "source": "src:amrtanada-upanisad",
@@ -431,6 +489,94 @@
   "provenance": {
    "units": [
     "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:ams-prakrti-forms",
+  "lineage": "lin:natha",
+  "kind": "state",
+  "description": "Discrimination, awakening, contentment, joy, thrill, patience, calm, meditation, knowledge, festivity, passion, dispassion, bliss, trembling, swoon and disturbance are listed as forms of nature arising in the practitioner (AmŚ 26).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "source": "src:amaraughasasana",
+  "ref": "26",
+  "rests_on": [
+   "tea:amaraughasasana:26"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:andal-merging-into-ranganatha",
+  "lineage": "lin:alvar",
+  "kind": "state",
+  "description": "Brought as a bride to Śrīraṅgam, Āṇṭāḷ entered the image of Raṅganātha and was seen no more.",
+  "source": "src:guruparampara-prabhavam-arayirappati",
+  "ref": "Āṇṭāḷ",
+  "rests_on": [
+   "tea:guruparampara-prabhavam-arayirappati:andal"
+  ],
+  "stage": "the tradition's account",
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:andal-wedding-dream",
+  "lineage": "lin:alvar",
+  "kind": "vision",
+  "description": "Āṇṭāḷ dreams her wedding to the Lord: the procession of a thousand elephants, the canopy, the rites, the circling of the fire.",
+  "source": "src:nacciyar-tirumoli",
+  "ref": "6",
+  "rests_on": [
+   "tea:nacciyar-tirumoli:6"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
    ],
    "phases": [
     "skeleton"
@@ -466,10 +612,14 @@
   "id": "phn:arjuna-despondency",
   "lineage": "lin:epic-teaching",
   "source": "src:bhagavad-gita",
-  "ref": "1.28–30",
-  "kind": "difficulty",
-  "description": "At the sight of his kinsmen Arjuna's limbs fail, his mouth dries, his body trembles, his hair stands on end, the bow slips from his hand, his skin burns and his mind reels.",
+  "ref": "1.28-30",
+  "stage": "despondency (viṣāda) before instruction",
+  "kind": "bodily",
+  "description": "Signs of Arjuna's despondency (viṣāda) on seeing his kin arrayed for battle, in his own words: his limbs give way, his mouth dries, his body trembles, his hair stands on end, the bow Gāṇḍīva slips from his hand, his skin burns, he cannot stand steady and his mind seems to whirl (1.28–30). The adverse omens he sees (1.31) are recorded separately (phn:bhagavad-gita-adverse-omens).",
   "rests_on": [
+   "tea:bhagavad-gita:1.28",
+   "tea:bhagavad-gita:1.29",
+   "tea:bhagavad-gita:1.30",
    "tea:bhagavad-gita:1.28-30"
   ],
   "verification": {
@@ -478,11 +628,20 @@
    "unverified": false,
    "checks": []
   },
+  "coverage": [
+   "A3",
+   "D"
+  ],
+  "alt_description": [
+   "At the sight of his kinsmen Arjuna's limbs fail, his mouth dries, his body trembles, his hair stands on end, the bow slips from his hand, his skin burns and his mind reels."
+  ],
   "provenance": {
    "units": [
+    "extraction:bhagavad-gita/ch01-03",
     "skeleton:U05-gita-epic"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -613,9 +772,363 @@
   "source": "src:bhagavad-gita",
   "ref": "2.69",
   "kind": "state",
-  "description": "What is night for all beings, the self-controlled sage is awake in; what beings are awake in is night for the seeing sage.",
+  "description": "What is night for all beings, the self-controlled one is awake in; what beings are awake in is night for the seeing sage.",
   "rests_on": [
    "tea:bhagavad-gita:2.69"
+  ],
+  "coverage": [
+   "A3",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "sthitaprajña",
+  "alt_description": [
+   "What is night for all beings, the self-controlled sage is awake in; what beings are awake in is night for the seeing sage."
+  ],
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch01-03",
+    "skeleton:U05-gita-epic"
+   ],
+   "phases": [
+    "extraction",
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:azhukanni-guru-shows-form",
+  "lineage": "lin:tamil-siddha",
+  "source": "src:azhukanni-padalgal",
+  "ref": "33-37",
+  "kind": "vision",
+  "description": "The guru, unable to bear the seeker's longing, comes and shows his own form; then the six supports, the fifty-one letters and all the principles are burnt, and the heart stands empty.",
+  "rests_on": [
+   "tea:azhukanni-padalgal:33",
+   "tea:azhukanni-padalgal:35",
+   "tea:azhukanni-padalgal:36",
+   "tea:azhukanni-padalgal:37"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:azhukanni-ruby-light",
+  "lineage": "lin:tamil-siddha",
+  "source": "src:azhukanni-padalgal",
+  "ref": "39",
+  "kind": "light",
+  "description": "The Lord abides like the inner light of a ruby.",
+  "rests_on": [
+   "tea:azhukanni-padalgal:39"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:bahinabai-dream-initiation",
+  "lineage": "lin:varkari",
+  "source": "src:bahinabai-gatha",
+  "ref": "Ātmanivedana",
+  "stage": "beginner",
+  "kind": "vision",
+  "description": "Tukārām appears to Bahiṇābāī in a dream and initiates her.",
+  "rests_on": [
+   "tea:bahinabai-gatha:atmanivedana"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:bamakhepa-tara-vision",
+  "lineage": "lin:bengal-assam-sakta",
+  "kind": "vision",
+  "description": "Bāmākhepā saw Tārā in the Tārāpīṭh cremation ground and thereafter lived as her child (the tradition's account).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:banke-bihari-manifestation",
+  "lineage": "lin:haridasi",
+  "source": "src:kelimal",
+  "ref": "tradition's account",
+  "stage": "realized",
+  "kind": "vision",
+  "description": "At Svāmī Haridās's singing in Nidhivan the image of Bāṅke Bihārī appeared (tradition's account).",
+  "rests_on": [],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:baul-adhar-manus-tide",
+  "lineage": "lin:baul",
+  "source": "src:baul-gan",
+  "ref": "coded songs",
+  "kind": "bodily",
+  "description": "The uncatchable Man is said to appear in the body at a certain time 'with the tide', like a fish swimming upstream (coded; summary only).",
+  "rests_on": [
+   "tea:baul-gan:adhar-manus-and-the-tide"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "restricted": true,
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:baul-man-comes-and-goes",
+  "lineage": "lin:baul",
+  "source": "src:lalon-giti",
+  "ref": "'khāṃcār bhitar acin pākhi'",
+  "kind": "state",
+  "description": "The unknown bird comes and goes in the cage; the Man comes near and slips away.",
+  "rests_on": [
+   "tea:lalon-giti:khancar-bhitar-acin-pakhi",
+   "tea:lalon-giti:milan-habe-kata-dine"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:bhadragiri-bliss-like-drink",
+  "lineage": "lin:tamil-siddha",
+  "source": "src:bhadragiriyar-meynana-pulampal",
+  "ref": "218",
+  "kind": "state",
+  "description": "The bliss makes one stagger and dance like a drunkard (Pattirakiriyār 218).",
+  "rests_on": [],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "notes": "Checked in the local e-text (couplet 218); no separate teaching entry.",
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:bhadragiri-light-at-forehead",
+  "lineage": "lin:tamil-siddha",
+  "source": "src:bhadragiriyar-meynana-pulampal",
+  "ref": "227",
+  "kind": "light",
+  "description": "Gazing and gazing, the bliss that gives light is seen straight at the forehead.",
+  "rests_on": [
+   "tea:bhadragiriyar-meynana-pulampal:227"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:bhadragiri-sleep-without-sleep",
+  "lineage": "lin:tamil-siddha",
+  "source": "src:bhadragiriyar-meynana-pulampal",
+  "ref": "1-2",
+  "kind": "state",
+  "description": "The unceasing sleep of Śiva-yoga: senses burnt away, sleeping without sleeping, in bliss.",
+  "rests_on": [
+   "tea:bhadragiriyar-meynana-pulampal:1",
+   "tea:bhadragiriyar-meynana-pulampal:2"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:bhagavad-gita-adverse-omens",
+  "lineage": "lin:epic-teaching",
+  "source": "src:bhagavad-gita",
+  "ref": "1.31",
+  "kind": "sign",
+  "description": "Arjuna sees adverse omens (nimittāni viparītāni) and foresees no good in killing his kin.",
+  "rests_on": [
+   "tea:bhagavad-gita:1.31"
+  ],
+  "coverage": [
+   "A3",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch01-03"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:bhagavad-gita-brahmi-sthiti",
+  "lineage": "lin:epic-teaching",
+  "source": "src:bhagavad-gita",
+  "ref": "2.72",
+  "kind": "state",
+  "description": "The brāhmī sthiti: having attained it one is no longer deluded; abiding in it even at death one attains brahmanirvāṇa.",
+  "rests_on": [
+   "tea:bhagavad-gita:2.72"
+  ],
+  "coverage": [
+   "A3",
+   "D"
   ],
   "verification": {
    "level": "skeleton",
@@ -626,10 +1139,222 @@
   "stage": "realized",
   "provenance": {
    "units": [
-    "skeleton:U05-gita-epic"
+    "extraction:bhagavad-gita/ch01-03"
    ],
    "phases": [
-    "skeleton"
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:bhagavad-gita-buddhi-steady-in-samadhi",
+  "lineage": "lin:epic-teaching",
+  "source": "src:bhagavad-gita",
+  "ref": "2.52-53",
+  "stage": "approaching yoga",
+  "kind": "state",
+  "description": "When understanding crosses the thicket of delusion one becomes indifferent to what is to be heard and what has been heard; when understanding, perplexed by what it has heard, stands unmoving and immovable in samādhi, one attains yoga.",
+  "rests_on": [
+   "tea:bhagavad-gita:2.52",
+   "tea:bhagavad-gita:2.53"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch01-03"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:bhagavad-gita-knowledge-covered-by-desire",
+  "lineage": "lin:epic-teaching",
+  "source": "src:bhagavad-gita",
+  "ref": "3.38-40",
+  "kind": "difficulty",
+  "description": "Knowledge is covered by desire as fire by smoke, a mirror by dirt (mala), an embryo by its membrane; desire, seated in the senses, mind and understanding, deludes the embodied one.",
+  "rests_on": [
+   "tea:bhagavad-gita:3.38",
+   "tea:bhagavad-gita:3.39",
+   "tea:bhagavad-gita:3.40"
+  ],
+  "coverage": [
+   "A3",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch01-03"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:bhagavad-gita-ocean-filled-unmoved",
+  "lineage": "lin:epic-teaching",
+  "source": "src:bhagavad-gita",
+  "ref": "2.70",
+  "kind": "state",
+  "description": "Desires enter the one who attains peace as waters enter the ocean, which is ever filled yet stands unmoved.",
+  "rests_on": [
+   "tea:bhagavad-gita:2.70"
+  ],
+  "coverage": [
+   "A3",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "sthitaprajña",
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch01-03"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:bhagavad-gita-prasada",
+  "lineage": "lin:epic-teaching",
+  "source": "src:bhagavad-gita",
+  "ref": "2.64-65",
+  "stage": "the self-governed practitioner",
+  "kind": "state",
+  "description": "Serenity (prasāda): attained by one who moves among objects with senses free of attraction and aversion; in it all sorrows cease and the understanding quickly becomes steady.",
+  "rests_on": [
+   "tea:bhagavad-gita:2.64",
+   "tea:bhagavad-gita:2.65"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A3",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch01-03"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:bhagavad-gita-rasa-ceases",
+  "lineage": "lin:epic-teaching",
+  "source": "src:bhagavad-gita",
+  "ref": "2.59",
+  "stage": "one who has seen the highest",
+  "kind": "sign",
+  "description": "When one abstains from sense-objects they turn away but the taste (rasa) for them remains; even the taste turns away when one has seen the highest (param).",
+  "rests_on": [
+   "tea:bhagavad-gita:2.59"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A3",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch01-03"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:bhagavad-gita-senses-carry-off-mind",
+  "lineage": "lin:epic-teaching",
+  "source": "src:bhagavad-gita",
+  "ref": "2.60; 2.67",
+  "kind": "difficulty",
+  "description": "Even for a discerning person who strives, the turbulent senses forcibly carry away the mind, and the mind following them carries away wisdom as wind a ship.",
+  "rests_on": [
+   "tea:bhagavad-gita:2.60",
+   "tea:bhagavad-gita:2.67"
+  ],
+  "coverage": [
+   "A3",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch01-03"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:bhagavad-gita-sthitaprajna-marks",
+  "lineage": "lin:epic-teaching",
+  "source": "src:bhagavad-gita",
+  "ref": "2.55-72",
+  "stage": "sthitaprajña (one of steady wisdom)",
+  "kind": "state",
+  "description": "Marks of the one of steady wisdom: all desires given up, content in the self by the self; unshaken by sorrow, without craving in pleasure, free from passion, fear and anger; neither rejoicing nor hating; senses withdrawn like a tortoise's limbs; awake in what is night for all beings and seeing as night what beings wake to; filled by desires as the ocean by waters yet unmoved; without 'mine' and 'I'; at peace; not bewildered; abiding in this brahmic state even at death.",
+  "rests_on": [
+   "tea:bhagavad-gita:2.55",
+   "tea:bhagavad-gita:2.56",
+   "tea:bhagavad-gita:2.57",
+   "tea:bhagavad-gita:2.58",
+   "tea:bhagavad-gita:2.69",
+   "tea:bhagavad-gita:2.70",
+   "tea:bhagavad-gita:2.71",
+   "tea:bhagavad-gita:2.72"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "extraction:bhagavad-gita/ch01-03"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -812,6 +1537,35 @@
   }
  },
  {
+  "id": "phn:bhavana-effortless-fulfilment",
+  "lineage": "lin:srividya",
+  "kind": "sign",
+  "description": "One absorbed for three muhūrtas in the Bhāvanā contemplation attains identity with the deity, and what he intends comes about without effort (Bhāvanā Upaniṣad).",
+  "source": "src:bhavana-upanisad",
+  "ref": "phala",
+  "rests_on": [
+   "tea:bhavana-upanisad:phala"
+  ],
+  "coverage": [
+   "A8",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:bhisma-death-crown",
   "lineage": "lin:epic-teaching",
   "source": "src:mahabharata",
@@ -886,6 +1640,35 @@
   "provenance": {
    "units": [
     "skeleton:U06-other-gitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:bogar-flight-and-travel",
+  "lineage": "lin:tamil-siddha",
+  "source": "src:bogar-7000",
+  "ref": "journey to Cīṉam",
+  "kind": "power",
+  "description": "Bogar's own account of travelling to China and of flight through the air (the text's claim).",
+  "rests_on": [
+   "tea:bogar-7000:cinam"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
    ],
    "phases": [
     "skeleton"
@@ -1153,6 +1936,36 @@
   }
  },
  {
+  "id": "phn:cangadev-powers-humbled",
+  "lineage": "lin:varkari",
+  "source": "src:bhaktavijaya",
+  "ref": "Cāṅgadev episode",
+  "stage": "intermediate",
+  "kind": "power",
+  "description": "A yogī rides a tiger with a cobra whip; the siblings move a wall; the display of powers ends in humility and discipleship — the tradition's warning that powers breed pride.",
+  "rests_on": [
+   "tea:bhaktavijaya:flying-wall"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:ceraman-anklet-sound",
   "lineage": "lin:nayanmar",
   "source": "src:periya-puranam",
@@ -1321,6 +2134,33 @@
   }
  },
  {
+  "id": "phn:charandas-vision-of-suka",
+  "lineage": "lin:charandasi",
+  "source": "src:bhakti-sagar-charandas",
+  "ref": "",
+  "kind": "vision",
+  "description": "Caraṇdās meets the sage Śukadeva in the forest and receives initiation from him.",
+  "rests_on": [],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:cudala-powers",
   "lineage": "lin:advaita-vedanta",
   "source": "src:moksopaya",
@@ -1344,6 +2184,36 @@
   "provenance": {
    "units": [
     "skeleton:U06-other-gitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:dadu-guru-in-the-unseen",
+  "lineage": "lin:dadu-panth",
+  "source": "src:dadu-janma-lila",
+  "ref": "the old man's blessing",
+  "kind": "vision",
+  "description": "The old man appears, gives pān, touches the head and vanishes; seven years later appears again.",
+  "rests_on": [
+   "tea:dadu-janma-lila:buddhan-blessing",
+   "tea:dadu-vani:gurudev-gaib-manhi-gurudev-milya"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
    ],
    "phases": [
     "skeleton"
@@ -1434,6 +2304,36 @@
   "provenance": {
    "units": [
     "skeleton:U06-other-gitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:devi-in-manipura",
+  "lineage": "lin:samaya-srividya",
+  "kind": "vision",
+  "description": "By contemplating the unities, the Samayins see the Goddess's form shining in the maṇipūra (Lakṣmīdhara on SL 7); after the great piercing she becomes manifest there (Bhāskararāya on LSN 37).",
+  "source": "src:laksmidhara",
+  "ref": "7",
+  "rests_on": [
+   "tea:laksmidhara:7",
+   "tea:saubhagyabhaskara:samaya-kundalini-puja"
+  ],
+  "coverage": [
+   "A8",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
    ],
    "phases": [
     "skeleton"
@@ -1679,6 +2579,125 @@
   }
  },
  {
+  "id": "phn:dys-ghata-powers",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:dattatreyayogasastra",
+  "ref": "89-90",
+  "kind": "power",
+  "description": "Distant hearing and sight, instant travel, perfection of speech, taking forms at will, invisibility, turning iron to gold, moving in the sky — to be regarded as obstacles.",
+  "rests_on": [
+   "tea:dattatreyayogasastra:84-90",
+   "tea:dattatreyayogasastra:91-95"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "stage": "ghaṭa",
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:dys-ghata-signs",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:dattatreyayogasastra",
+  "ref": "69-76",
+  "kind": "bodily",
+  "description": "Sweat, trembling, frog-like hopping, levitation in padmāsana; indifference to amount of food; little sleep and excreta; no worms, discharges, sweat or odour; great strength; a beautiful form.",
+  "rests_on": [
+   "tea:dattatreyayogasastra:69-76"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "stage": "ārambha–ghaṭa",
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:dys-nadi-suddhi-signs",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:dattatreyayogasastra",
+  "ref": "62-63",
+  "kind": "sign",
+  "description": "When the channels are purified: lightness of body, radiance, increase of the digestive fire, slimness.",
+  "rests_on": [
+   "tea:dattatreyayogasastra:62-63"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:dys-temptation",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:dattatreyayogasastra",
+  "ref": "77-78",
+  "kind": "difficulty",
+  "description": "Women, captivated by the yogin's new beauty, seek union with him; yielding destroys bindu, shortens life and brings weakness.",
+  "rests_on": [
+   "tea:dattatreyayogasastra:77-80"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:embryo-remembers-past-births",
   "lineage": "lin:puranic",
   "source": "src:kapila-gita",
@@ -1882,6 +2901,338 @@
   }
  },
  {
+  "id": "phn:gheranda-bhakti-samadhi",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:gheranda-samhita",
+  "ref": "7.15",
+  "kind": "state",
+  "description": "In devotional samādhi tears of bliss and thrilling of the hair arise, then a state beyond states, samādhi and manonmanī.",
+  "rests_on": [
+   "tea:gheranda-samhita:7.14-15"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:gheranda-bhramari-sounds-light",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:gheranda-samhita",
+  "ref": "5.79-83",
+  "kind": "sound",
+  "description": "In the nocturnal bhrāmarī the sounds heard in the right ear are first like crickets, then flute, thunder, the hum of bees, bell, gong, trumpet, kettle-drum, mṛdaṅga, vīṇā and dundubhi; within the resonance of the unstruck sound is a light, within the light the mind, which dissolves there.",
+  "rests_on": [
+   "tea:gheranda-samhita:5.79-83"
+  ],
+  "coverage": [
+   "E",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "bhrāmarī",
+  "provenance": {
+   "units": [
+    "skeleton:U29-hatha-practices"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:gheranda-dharana-powers",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:gheranda-samhita",
+  "ref": "3.68-81",
+  "kind": "power",
+  "description": "The powers claimed for the five element-concentrations: going to and from the heavens in this body, moving as swiftly as mind; not dying by earth, water, fire or wind; moving in the sky; for the space-concentration, the opening of the door of liberation.",
+  "rests_on": [
+   "tea:gheranda-samhita:3.68-71",
+   "tea:gheranda-samhita:3.72-74",
+   "tea:gheranda-samhita:3.75-76",
+   "tea:gheranda-samhita:3.77-79",
+   "tea:gheranda-samhita:3.80-81"
+  ],
+  "coverage": [
+   "E",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "pañcadhāraṇā",
+  "provenance": {
+   "units": [
+    "skeleton:U29-hatha-practices"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:gheranda-karna-dhauti-nada",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:gheranda-samhita",
+  "ref": "1.33",
+  "kind": "sound",
+  "description": "By daily cleaning of the ear-openings the inner sound becomes manifest.",
+  "rests_on": [
+   "tea:gheranda-samhita:1.33"
+  ],
+  "coverage": [
+   "E",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "karṇa-dhauti",
+  "provenance": {
+   "units": [
+    "skeleton:U29-hatha-practices"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:gheranda-khecari-tastes",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:gheranda-samhita",
+  "ref": "3.25-32",
+  "kind": "bodily",
+  "description": "With khecarī, where the tongue meets the skull-cavity it tastes in turn salty, alkaline, bitter and astringent flavours, then butter, ghee, milk, curds, buttermilk, honey, grape-juice and nectar; hunger, thirst, swoon and sloth do not arise (the text's claims about a restricted practice).",
+  "rests_on": [
+   "tea:gheranda-samhita:3.25-32"
+  ],
+  "coverage": [
+   "E",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "khecarī",
+  "provenance": {
+   "units": [
+    "skeleton:U29-hatha-practices"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:gheranda-kundalini-leaves-eyes",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:gheranda-samhita",
+  "ref": "6.19-20",
+  "kind": "vision",
+  "description": "In subtle meditation the awakened kuṇḍalinī goes out with the self through the eyes and roams the royal road, unseen because of her fickleness.",
+  "rests_on": [
+   "tea:gheranda-samhita:6.19-21"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "stage": "advanced",
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:gheranda-murccha-bliss",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:gheranda-samhita",
+  "ref": "5.84-85",
+  "kind": "state",
+  "description": "In mūrcchā, with the mind set between the brows and all objects abandoned, a swoon of the mind arises that gives happiness; joining the mind to the self, various blisses arise daily.",
+  "rests_on": [
+   "tea:gheranda-samhita:5.84-85"
+  ],
+  "coverage": [
+   "E",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "mūrcchā",
+  "provenance": {
+   "units": [
+    "skeleton:U29-hatha-practices"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:gheranda-pranayama-fruits",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:gheranda-samhita",
+  "ref": "5.58",
+  "kind": "power",
+  "description": "From breath-control: moving in the sky, removal of disease, awakening of śakti, manonmanī, bliss in the mind.",
+  "rests_on": [
+   "tea:gheranda-samhita:5.58"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:gheranda-pranayama-signs",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:gheranda-samhita",
+  "ref": "5.57",
+  "kind": "sign",
+  "description": "From the lowest breath-control sweat, from the middle trembling of the spine, from the highest leaving the ground.",
+  "rests_on": [
+   "tea:gheranda-samhita:5.56-57"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:gheranda-trataka-sambhavi",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:gheranda-samhita",
+  "ref": "1.53-54",
+  "kind": "sign",
+  "description": "By the practice of trāṭaka śāmbhavī surely arises; eye diseases do not occur and divine sight is given.",
+  "rests_on": [
+   "tea:gheranda-samhita:1.53-54"
+  ],
+  "coverage": [
+   "E",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "trāṭaka",
+  "provenance": {
+   "units": [
+    "skeleton:U29-hatha-practices"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:gheranda-yoni-mudra-samadhi",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:gheranda-samhita",
+  "ref": "7.12-13",
+  "kind": "state",
+  "description": "In yoni mudrā the practitioner, full of the power, delights in the supreme self with the sentiment of love, becomes full of bliss and one with Brahman — 'I am Brahman' — and non-dual samādhi arises; one established in it even once is in samādhi.",
+  "rests_on": [
+   "tea:gheranda-samhita:7.12-13",
+   "tea:gheranda-samhita:3.37-44"
+  ],
+  "coverage": [
+   "E",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "yoni mudrā",
+  "provenance": {
+   "units": [
+    "skeleton:U29-hatha-practices"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:gk-amanibhava",
   "lineage": "lin:advaita-vedanta",
   "source": "src:mandukya-karika",
@@ -1955,6 +3306,182 @@
   "provenance": {
    "units": [
     "skeleton:U07-puranas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:goraksa-adamantine-body-reported",
+  "lineage": "lin:natha",
+  "kind": "power",
+  "description": "Gorakṣa's body is said to be unbreakable — a sword rings off it — in the Vīraśaiva accounts of his meeting with Allama (reported by the opposing tradition).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "source": "src:sunyasampadane",
+  "ref": "Gorakṣa episode",
+  "rests_on": [
+   "tea:sunyasampadane:goraksa"
+  ],
+  "reported_by_opponent": true,
+  "notes": "Reported by opponent source (Vīraśaiva Śūnyasampādane / Prabhuliṅgalīle).",
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:gs-amrta-body",
+  "lineage": "lin:natha",
+  "kind": "bodily",
+  "description": "The body filled with nectar: the seed flows upward and the powers arise; the embodied one does not leave the body (GŚ 65–66).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "source": "src:goraksasataka",
+  "ref": "65-66",
+  "rests_on": [
+   "tea:goraksasataka:65-66"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:gs-anahata-roar",
+  "lineage": "lin:natha",
+  "kind": "sound",
+  "description": "At the heart centre the 'bull bound threefold' roars loudly (GŚ 60).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "source": "src:goraksasataka",
+  "ref": "60-62",
+  "rests_on": [
+   "tea:goraksasataka:60-62"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:gs-pranayama-signs",
+  "lineage": "lin:natha",
+  "kind": "bodily",
+  "description": "In breath-control: sweat in the lowest grade, trembling in the middle, rising up in the highest (GŚ 49).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "source": "src:goraksasataka",
+  "ref": "49",
+  "rests_on": [
+   "tea:goraksasataka:49"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:gs-samadhi-state",
+  "lineage": "lin:natha",
+  "kind": "state",
+  "description": "In samādhi the yogī knows no smell, taste, form, touch or sound, neither self nor other, and is not devoured by time (GŚ 97–98).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "source": "src:goraksasataka",
+  "ref": "97-98",
+  "rests_on": [
+   "tea:goraksasataka:97-98"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:gsb-nada-manifest",
+  "lineage": "lin:natha",
+  "kind": "sound",
+  "description": "Purification of the channels brings kindled fire, manifestation of the inner sound and health (GŚ-Briggs 101).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "source": "src:goraksasataka-briggs",
+  "ref": "100-101",
+  "rests_on": [
+   "tea:goraksasataka-briggs:100-101"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
    ],
    "phases": [
     "skeleton"
@@ -2101,6 +3628,34 @@
   }
  },
  {
+  "id": "phn:harivamsa-mantra-from-radha",
+  "lineage": "lin:radhavallabha",
+  "source": "src:sevak-vani",
+  "ref": "tradition's account",
+  "stage": "all",
+  "kind": "vision",
+  "description": "Hita Harivaṃśa receives his mantra from Rādhā herself (tradition's account).",
+  "rests_on": [],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:heart-lotus-moods",
   "lineage": "lin:upanisadic",
   "source": "src:dhyanabindu-upanisad",
@@ -2131,6 +3686,542 @@
   }
  },
  {
+  "id": "phn:hyp-bindu-fragrance",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:hatha-yoga-pradipika",
+  "ref": "3.89",
+  "kind": "bodily",
+  "description": "From holding bindu a pleasant fragrance arises in the yogin's body.",
+  "rests_on": [
+   "tea:hatha-yoga-pradipika:3.89-90"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:hyp-hatha-siddhi-signs",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:hatha-yoga-pradipika",
+  "ref": "2.78",
+  "kind": "sign",
+  "description": "Signs of success in haṭha: slim body, bright face, distinct inner sound, very clear eyes, freedom from disease, control of bindu, kindled fire, purified channels.",
+  "rests_on": [
+   "tea:hatha-yoga-pradipika:2.78"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:hyp-inner-sounds-sequence",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:hatha-yoga-pradipika",
+  "ref": "4.84-86",
+  "kind": "sound",
+  "description": "At first ocean, thunder, kettledrum and cymbal sounds; in the middle drum, conch, bell and horn; at the end tinkling bells, flute, vīṇā and bee; the sounds become subtler as practice grows.",
+  "rests_on": [
+   "tea:hatha-yoga-pradipika:4.84-86"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:hyp-khecari-claims",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:hatha-yoga-pradipika",
+  "ref": "3.38-45",
+  "kind": "power",
+  "description": "Claims for khecarī (restricted practice): no disease, death, sleep, hunger, thirst or swooning; not bound by karma nor afflicted by time; bindu does not fall; poison has no effect.",
+  "rests_on": [
+   "tea:hatha-yoga-pradipika:3.32-54"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "stage": "advanced",
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:hyp-kundalini-awakening",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:hatha-yoga-pradipika",
+  "ref": "3.66-69",
+  "kind": "bodily",
+  "description": "Apāna rises to the fire, the flame grows, heats prāṇa; the body's fire blazes; kuṇḍalinī, heated, wakes like a struck serpent, hisses, straightens and enters the channel of Brahman as if into a hole.",
+  "rests_on": [
+   "tea:hatha-yoga-pradipika:3.66-69"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "stage": "advanced",
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:hyp-laya-bliss",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:hatha-yoga-pradipika",
+  "ref": "4.30-32",
+  "kind": "state",
+  "description": "When mind and breath dissolve an indescribable bliss arises; breathing ceases, objects are not grasped, the yogin is motionless and changeless; the laya is known only to oneself, beyond speech.",
+  "rests_on": [
+   "tea:hatha-yoga-pradipika:4.30-34"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "stage": "advanced",
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:hyp-mahamudra-claims",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:hatha-yoga-pradipika",
+  "ref": "3.14-17",
+  "kind": "bodily",
+  "description": "For the practitioner of mahāmudrā nothing is wholesome or unwholesome; all tastes become tasteless and even terrible poison is digested like nectar; consumption, skin disease, constipation, gulma and indigestion disappear (the text's claims).",
+  "rests_on": [
+   "tea:hatha-yoga-pradipika:3.14-17"
+  ],
+  "coverage": [
+   "E",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "mahāmudrā",
+  "provenance": {
+   "units": [
+    "skeleton:U29-hatha-practices"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:hyp-mahamudra-death-like",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:hatha-yoga-pradipika",
+  "ref": "3.11-12",
+  "kind": "state",
+  "description": "In mahāmudrā kuṇḍalinī straightens suddenly like a snake struck with a stick, and 'the state of death' arises (HYP 3.12).",
+  "rests_on": [
+   "tea:hatha-yoga-pradipika:3.11-12"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "stage": "advanced",
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:hyp-mahavedha-death-like",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:hatha-yoga-pradipika",
+  "ref": "3.26-28",
+  "kind": "state",
+  "description": "In mahāvedha the breath leaves the two side channels and throbs in the middle; the union of moon, sun and fire arises and a death-like state (mṛtāvasthā) appears before the breath is released.",
+  "rests_on": [
+   "tea:hatha-yoga-pradipika:3.26-28"
+  ],
+  "coverage": [
+   "E",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "mahāvedha",
+  "provenance": {
+   "units": [
+    "skeleton:U29-hatha-practices"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:hyp-nada-arambha",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:hatha-yoga-pradipika",
+  "ref": "4.70-71",
+  "kind": "sound",
+  "description": "Beginning stage: the knot of Brahmā pierced, bliss from the void, tinkling sounds (unstruck) within; the body divine, radiant, fragrant, healthy, heart full.",
+  "rests_on": [
+   "tea:hatha-yoga-pradipika:4.70-71"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "stage": "ārambha",
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:hyp-nada-covers-outer-sound",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:hatha-yoga-pradipika",
+  "ref": "4.82-84",
+  "kind": "sound",
+  "description": "Practised, the inner sound covers outer sound; within a fortnight the yogin overcomes all distraction and is happy; at first many loud sounds are heard, then subtler and subtler ones.",
+  "rests_on": [
+   "tea:hatha-yoga-pradipika:4.82-84"
+  ],
+  "coverage": [
+   "E",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "nādānusandhāna",
+  "provenance": {
+   "units": [
+    "skeleton:U29-hatha-practices"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:hyp-nada-ghata",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:hatha-yoga-pradipika",
+  "ref": "4.72-73",
+  "kind": "sound",
+  "description": "Ghaṭa stage: the united breath enters the middle, posture firm; the knot of Viṣṇu pierced, the sound of a kettledrum in the extreme void, indicating supreme bliss.",
+  "rests_on": [
+   "tea:hatha-yoga-pradipika:4.72-73"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "stage": "ghaṭa",
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:hyp-nada-nispatti",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:hatha-yoga-pradipika",
+  "ref": "4.76-77",
+  "kind": "sound",
+  "description": "Niṣpatti: the knot of Rudra pierced, the breath at Śiva's seat; sounds of flute and vīṇā; the mind becomes one — rājayoga.",
+  "rests_on": [
+   "tea:hatha-yoga-pradipika:4.76-77"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "stage": "niṣpatti",
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:hyp-nada-paricaya",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:hatha-yoga-pradipika",
+  "ref": "4.74-75",
+  "kind": "sound",
+  "description": "Paricaya stage: the sound of a drum (mardala); the breath in the great void, abode of all powers; natural bliss beyond the bliss of mind; no pain, age, disease, hunger or sleep.",
+  "rests_on": [
+   "tea:hatha-yoga-pradipika:4.74-75"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "stage": "paricaya",
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:hyp-nadi-suddhi-signs",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:hatha-yoga-pradipika",
+  "ref": "2.19-20",
+  "kind": "sign",
+  "description": "When the channels are purified: slimness of body and radiance; holding the breath at will, kindled digestive fire, the inner sound manifest, health.",
+  "rests_on": [
+   "tea:hatha-yoga-pradipika:2.19-20"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:hyp-pranayama-three-grades",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:hatha-yoga-pradipika",
+  "ref": "2.12",
+  "kind": "bodily",
+  "description": "In the lowest (grade of breath-control) sweat, in the middle trembling, in the highest the breath reaches its place.",
+  "rests_on": [
+   "tea:hatha-yoga-pradipika:2.12"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:hyp-samadhi-state",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:hatha-yoga-pradipika",
+  "ref": "4.106-112",
+  "kind": "state",
+  "description": "In samādhi the body is like a log and hears no conch or drum; no smell, taste, form, touch or sound, no self or other; the mind neither asleep nor awake, free of memory and forgetting; no cold or heat, pleasure or pain, honour or dishonour; in waking as if asleep, without breath.",
+  "rests_on": [
+   "tea:hatha-yoga-pradipika:4.106-108",
+   "tea:hatha-yoga-pradipika:4.109-112"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "stage": "realized",
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:hyp-viparitakarani-signs",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:hatha-yoga-pradipika",
+  "ref": "3.80-82",
+  "kind": "bodily",
+  "description": "After six months of the inverted practice wrinkles and grey hair are no longer seen; the digestive fire grows so that ample food is needed (the text's claims).",
+  "rests_on": [
+   "tea:hatha-yoga-pradipika:3.80-82"
+  ],
+  "coverage": [
+   "E",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "viparītakaraṇī",
+  "provenance": {
+   "units": [
+    "skeleton:U29-hatha-practices"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:improper-pranayama-illness",
   "lineage": "lin:upanisadic",
   "source": "src:yogacudamani-upanisad",
@@ -2153,6 +4244,35 @@
   "provenance": {
    "units": [
     "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:initiation-wave-of-light",
+  "lineage": "lin:kaula-srividya",
+  "kind": "vision",
+  "description": "At initiation the guru contemplates a wave of light blazing like fire from the disciple's base to the aperture of Brahmā, burning away his sins and bonds (PKS 1.36).",
+  "source": "src:parasurama-kalpasutra",
+  "ref": "1.36",
+  "rests_on": [
+   "tea:parasurama-kalpasutra:1.35-36"
+  ],
+  "coverage": [
+   "A8",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
    ],
    "phases": [
     "skeleton"
@@ -2215,6 +4335,36 @@
   }
  },
  {
+  "id": "phn:jayadeva-line-written-by-krsna",
+  "lineage": "lin:jagannatha",
+  "kind": "sign",
+  "description": "When Jayadeva hesitated to write that Kṛṣṇa asks for Rādhā's foot on his head, Kṛṣṇa himself, in Jayadeva's form, came while he bathed and wrote the line.",
+  "source": "src:gita-govinda",
+  "ref": "10 (aṣṭapadī 19)",
+  "rests_on": [
+   "tea:gita-govinda:10.astapadi-19"
+  ],
+  "stage": "the tradition's account",
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:jivanmukta-marks",
   "lineage": "lin:upanisadic",
   "source": "src:varaha-upanisad",
@@ -2238,6 +4388,153 @@
   "provenance": {
    "units": [
     "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:jnanesvari-kundalini",
+  "lineage": "lin:varkari",
+  "kind": "vision",
+  "description": "Kuṇḍalinī seen as a young she-serpent bathed in saffron, coiled three and a half times, asleep facing downward, then rising to the heart where she hears the unstruck sound (Jñāneśvarī 6.221–275).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "source": "src:jnanesvari",
+  "ref": "6.221-223",
+  "rests_on": [
+   "tea:jnanesvari:6.221-223",
+   "tea:jnanesvari:6.272-273"
+  ],
+  "notes": "Lineage given as Vārkarī; Jñāneśvar writes as a Nāth initiate (6.291).",
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:jnanesvari-kundalini-body-of-light",
+  "lineage": "lin:varkari",
+  "source": "src:jnanesvari",
+  "ref": "ch.6",
+  "stage": "advanced",
+  "kind": "bodily",
+  "description": "As kuṇḍalinī rises the elements of the body are consumed; the yogī's body becomes light and radiant, as if made of light, and the separate self dissolves at the crown (summary).",
+  "rests_on": [
+   "tea:jnanesvari:6.kundalini"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:kabir-flowers-at-death",
+  "lineage": "lin:kabir-panth",
+  "source": "src:kabir-paracai",
+  "ref": "",
+  "kind": "power",
+  "description": "At Kabīr's death at Maghar, Hindus and Muslims disputing his body find only flowers under the shroud (the tradition's account).",
+  "rests_on": [],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:kabir-lali",
+  "lineage": "lin:sant",
+  "source": "src:kabir-oral-corpus",
+  "ref": "'lālī mere lāl kī'",
+  "kind": "vision",
+  "description": "Everywhere the Beloved's red; going to see it, the seer too turns red.",
+  "rests_on": [
+   "tea:kabir-oral-corpus:lali-mere-lal-ki"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "stage": "realized",
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:kabir-love-cloud",
+  "lineage": "lin:sant",
+  "source": "src:kabir-granthavali",
+  "ref": "Gurudev kau aṅg",
+  "kind": "state",
+  "description": "At the guru's one word the cloud of love rained and every limb was soaked.",
+  "rests_on": [
+   "tea:kabir-granthavali:gurudev-satguru-ham-sun-rijhi-kari"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
    ],
    "phases": [
     "skeleton"
@@ -2407,6 +4704,34 @@
   }
  },
  {
+  "id": "phn:kartabhaja-bhava-possession",
+  "lineage": "lin:kartabhaja",
+  "source": "src:bhaber-git",
+  "ref": "",
+  "kind": "state",
+  "description": "At the Ghoshpara festival devotees are seized by bhāva (ecstatic possession), dance and weep; healing is sought at the tank and the pomegranate tree.",
+  "rests_on": [],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "recent": true,
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:katha-highest-state",
   "lineage": "lin:upanisadic",
   "source": "src:katha-upanisad",
@@ -2429,6 +4754,86 @@
   "provenance": {
    "units": [
     "skeleton:U03-principal-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:kaula-bhairavavesa",
+  "lineage": "lin:kaula",
+  "kind": "state",
+  "description": "In the Kula rite arise inner bliss beyond mind and speech, possession by Bhairava and the vision of sameness everywhere; the self hidden by māyā is seen as a dark house by a lamp (restricted context).",
+  "source": "src:kularnava-tantra",
+  "ref": "5.72-75",
+  "rests_on": [
+   "tea:kularnava-tantra:5.72-75"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:kaula-seven-ullasas",
+  "lineage": "lin:kaula",
+  "kind": "state",
+  "description": "Seven degrees of exhilaration from 'beginning' to 'beyond state'; the first five are waking, unmanā is dream, the equal state is deep sleep; knowing them one is liberated.",
+  "source": "src:kularnava-tantra",
+  "ref": "8.4; 8.94-95",
+  "rests_on": [
+   "tea:kularnava-tantra:8.4",
+   "tea:kularnava-tantra:8.94-95"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:kavitva",
+  "lineage": "lin:srividya",
+  "kind": "power",
+  "description": "Meditation on the Goddess with the goddesses of speech makes one a poet of sweet speech (SL 17).",
+  "source": "src:saundarya-lahari",
+  "ref": "17",
+  "rests_on": [
+   "tea:saundarya-lahari:17"
+  ],
+  "coverage": [
+   "A8",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
    ],
    "phases": [
     "skeleton"
@@ -2517,6 +4922,266 @@
   }
  },
  {
+  "id": "phn:kjn-amrta-light",
+  "lineage": "lin:yogini-kaula",
+  "kind": "light",
+  "description": "The nectar-principle within the innate is seen throbbing, pure like a jewel, like a pearl or a firefly, sparkling like stars, white, red, black, smoky and yellow (KJN 14.95–96).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "source": "src:kaulajnananirnaya",
+  "ref": "14.94-97",
+  "rests_on": [
+   "tea:kaulajnananirnaya:14.94-97"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:kjn-dvadasanta-jewels",
+  "lineage": "lin:yogini-kaula",
+  "kind": "light",
+  "description": "At the end of the twelve a throbbing garland of jewels is seen; the one who sees it is unstained by sin and merit (KJN 13.6; 14.90).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "source": "src:kaulajnananirnaya",
+  "ref": "13.6",
+  "rests_on": [
+   "tea:kaulajnananirnaya:13.2-7"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:kjn-eleven-attainments",
+  "lineage": "lin:yogini-kaula",
+  "kind": "power",
+  "description": "Successive attainments: people's affection, freedom from disease, poetry, mastery of speech, far hearing, leaving the ground, meeting the yoginīs, removal of old age, speed, many forms, peace (KJN 7.20–24).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "source": "src:kaulajnananirnaya",
+  "ref": "7.20-24",
+  "rests_on": [
+   "tea:kaulajnananirnaya:7.20-24"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:kjn-hrdaya-samadhi",
+  "lineage": "lin:yogini-kaula",
+  "kind": "state",
+  "description": "With the mind fixed in the heart, samādhi with seizure and possession: the limbs revolve, cries arise (KJN 14.38–39).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "source": "src:kaulajnananirnaya",
+  "ref": "14.38-42",
+  "rests_on": [
+   "tea:kaulajnananirnaya:14.38-42"
+  ],
+  "stage": "heart",
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:kjn-mahavyapti",
+  "lineage": "lin:yogini-kaula",
+  "kind": "state",
+  "description": "In the 'great pervasion', the great sleep, one neither hears nor sees nor smells, fragrant or foul (KJN 17.16–17).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "source": "src:kaulajnananirnaya",
+  "ref": "17.16-17",
+  "rests_on": [
+   "tea:kaulajnananirnaya:17.16-17"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:kjn-mulacakra-signs",
+  "lineage": "lin:yogini-kaula",
+  "kind": "bodily",
+  "description": "Practice on the root centre brings first trembling, then shaking; trembling of hands, feet and head; speech in many tongues; spontaneous mantras and seals; frog-like hopping; leaving the ground (KJN 14.16–19).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "source": "src:kaulajnananirnaya",
+  "ref": "14.15-19",
+  "rests_on": [
+   "tea:kaulajnananirnaya:14.15-19"
+  ],
+  "stage": "root centre",
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:kjn-unmani-laya",
+  "lineage": "lin:yogini-kaula",
+  "kind": "state",
+  "description": "In the mind-less state the jīva, dissolved, is not roused even by drums, conches and flutes (KJN 14.85).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "source": "src:kaulajnananirnaya",
+  "ref": "14.82-86",
+  "rests_on": [
+   "tea:kaulajnananirnaya:14.82-86"
+  ],
+  "stage": "unmanī",
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:kjn-vajra-body",
+  "lineage": "lin:yogini-kaula",
+  "kind": "bodily",
+  "description": "The adamantine body that does not dissolve even at the cosmic dissolution, Bhairava's own claim (KJN 15.22–26).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "source": "src:kaulajnananirnaya",
+  "ref": "15.22-26",
+  "rests_on": [
+   "tea:kaulajnananirnaya:15.22-26"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:kmt-dead-while-living",
+  "lineage": "lin:kubjika",
+  "kind": "difficulty",
+  "description": "The disciple who received the command hastily and breaks the samayas becomes tāmasa, quarrelsome and fault-finding, and is 'dead while living'.",
+  "source": "src:kubjikamata-tantra",
+  "ref": "12.3-9",
+  "rests_on": [
+   "tea:kubjikamata-tantra:12.3-9"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:krsna-form-in-assembly",
   "lineage": "lin:epic-teaching",
   "source": "src:mahabharata",
@@ -2535,6 +5200,122 @@
   "provenance": {
    "units": [
     "skeleton:U05-gita-epic"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:kudambai-high-space",
+  "lineage": "lin:tamil-siddha",
+  "source": "src:kudambai-padalgal",
+  "ref": "11",
+  "kind": "vision",
+  "description": "Having gone above the crown, the high open space is seen (Kuṭampai 11).",
+  "rests_on": [],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "notes": "Checked in the local e-text; the second half-line is obscure.",
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:kulananda-divya-drsti",
+  "lineage": "lin:yogini-kaula",
+  "kind": "vision",
+  "description": "By observing lamp-flames in the sixty-four-petalled lotus one sees throughout the body with divine sight (Kulānanda 6–7).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "source": "src:kulananda-tantra",
+  "ref": "6-7",
+  "rests_on": [
+   "tea:kulananda-tantra:6-7"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:kulasekhara-ramayana-absorption",
+  "lineage": "lin:alvar",
+  "kind": "state",
+  "description": "Absorbed in the Rāmāyaṇa recital, King Kulaśekhara took Rāma's battle as present and ordered his army to Rāma's aid.",
+  "source": "src:guruparampara-prabhavam-arayirappati",
+  "ref": "Kulaśekhara",
+  "rests_on": [
+   "tea:guruparampara-prabhavam-arayirappati:kulasekhara"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:kumbakonam-image-rising",
+  "lineage": "lin:alvar",
+  "kind": "sign",
+  "description": "When Tirumaḻicai asked the reclining Lord at Kuṭantai to rise and speak, the image began to rise and remains half-risen.",
+  "source": "src:tiruccanta-viruttam",
+  "ref": "61",
+  "rests_on": [
+   "tea:tiruccanta-viruttam:61"
+  ],
+  "stage": "the tradition's account",
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
    ],
    "phases": [
     "skeleton"
@@ -2565,6 +5346,68 @@
   "provenance": {
    "units": [
     "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:kundalini-lightning",
+  "lineage": "lin:srividya",
+  "kind": "light",
+  "description": "The Goddess's digit is seen as slender as a streak of lightning, made of sun, moon and fire, above the six lotuses, by those whose minds are cleansed of māyā; they hold waves of supreme bliss (SL 21; LSN 40).",
+  "source": "src:saundarya-lahari",
+  "ref": "21",
+  "rests_on": [
+   "tea:saundarya-lahari:21",
+   "tea:lalita-sahasranama:38-40"
+  ],
+  "coverage": [
+   "A8",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:kundalini-nectar-shower",
+  "lineage": "lin:srividya",
+  "kind": "bodily",
+  "description": "The Goddess in the crown showers streams of nectar that drench the whole body before she returns to the base (LSN 39; SL 10); in the Samaya reading the nectar flows from her feet in the moon-disc of the crown (Lakṣmīdhara); in the morning routine it flows from the guru's feet (PKS 2.2).",
+  "source": "src:saundarya-lahari",
+  "ref": "10",
+  "rests_on": [
+   "tea:saundarya-lahari:10",
+   "tea:lalita-sahasranama:38-40",
+   "tea:laksmidhara:10",
+   "tea:parasurama-kalpasutra:2.2"
+  ],
+  "coverage": [
+   "A8",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
    ],
    "phases": [
     "skeleton"
@@ -2743,6 +5586,32 @@
   }
  },
  {
+  "id": "phn:mahavidya-powers",
+  "lineage": "lin:kalikula",
+  "kind": "power",
+  "description": "Repeating the Mahāvidyā mantras is promised eloquence, the eight powers and the six magical acts (Karpūrādistotra 1-5; Bṛhaddharma madhya 6.132-133).",
+  "source": "src:karpuradi-stotra",
+  "ref": "1-5",
+  "rests_on": [
+   "tea:karpuradi-stotra:1-5",
+   "tea:brhaddharma-purana:madhya.6.125-134"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:maitri-brahman-like-firebrand",
   "lineage": "lin:upanisadic",
   "source": "src:maitri-upanisad",
@@ -2823,6 +5692,37 @@
   "provenance": {
    "units": [
     "skeleton:U03-principal-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:manas-siddhis-blow-out-lamp",
+  "lineage": "lin:ramanandi",
+  "source": "src:ramcaritmanas",
+  "ref": "7.117-118",
+  "stage": "advanced",
+  "kind": "power",
+  "description": "When the lamp of knowledge is lit, māyā sends the powers (ṛddhi-siddhi) to tempt the intellect, and the senses' deities throw open the doors so the wind of sense-objects blows it out — the Mānas's warning about powers.",
+  "rests_on": [
+   "tea:ramcaritmanas:7.117-118",
+   "tea:ramcaritmanas:7.115-120"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
    ],
    "phases": [
     "skeleton"
@@ -2964,6 +5864,35 @@
   "provenance": {
    "units": [
     "skeleton:U18-saiva-siddhanta"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:marici-harm",
+  "lineage": "lin:kaula-srividya",
+  "kind": "difficulty",
+  "description": "For those who lack lineage and are proud of book-knowledge, the mantra's rays (marīci) turn against them through their breach of the samaya (YH 2.81).",
+  "source": "src:yoginihrdaya",
+  "ref": "2.81",
+  "rests_on": [
+   "tea:yoginihrdaya:2.81"
+  ],
+  "coverage": [
+   "A8",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
    ],
    "phases": [
     "skeleton"
@@ -3141,6 +6070,35 @@
   }
  },
  {
+  "id": "phn:matsyendra-awakened",
+  "lineage": "lin:natha",
+  "kind": "state",
+  "description": "The guru's forgetting and re-awakening: Matsyendra, entranced in the Kadalī kingdom, recognises himself again at Gorakṣa's drum-words (Gorakṣavijaya).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "source": "src:goraksa-vijaya",
+  "ref": "whole",
+  "rests_on": [
+   "tea:goraksa-vijaya:whole"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:melting-heart",
   "lineage": "lin:nayanmar",
   "source": "src:tiruvacakam",
@@ -3186,6 +6144,67 @@
   "provenance": {
    "units": [
     "skeleton:U12-mimamsa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:mira-poison-nectar",
+  "lineage": "lin:mirabai",
+  "source": "src:mira-padavali",
+  "ref": "paga ghuṃgharū bāṃdha",
+  "stage": "all",
+  "kind": "power",
+  "description": "The poison sent by the Rāṇā becomes harmless; Mīrā drinks it laughing (tradition's account).",
+  "rests_on": [
+   "tea:mira-padavali:pag-ghunghru",
+   "tea:bhaktirasabodhini:mira"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:mira-prema-divani",
+  "lineage": "lin:mirabai",
+  "source": "src:mira-padavali",
+  "ref": "he rī maiṃ to prema divānī",
+  "stage": "all",
+  "kind": "difficulty",
+  "description": "The madness and wound of love in separation: sleeplessness, pain no one else knows, healed only when the Lord becomes physician.",
+  "rests_on": [
+   "tea:mira-padavali:prema-divani"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
    ],
    "phases": [
     "skeleton"
@@ -3241,6 +6260,36 @@
   "provenance": {
    "units": [
     "skeleton:U03-principal-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:mutal-alvars-fourth-presence",
+  "lineage": "lin:alvar",
+  "kind": "state",
+  "description": "In the dark, cramped vestibule at Tirukkōvalūr the three first Āḻvārs felt a fourth, unseen presence pressing among them — the Lord — before the lamps of verse were lit.",
+  "source": "src:guruparampara-prabhavam-arayirappati",
+  "ref": "Mutal Āḻvārs",
+  "rests_on": [
+   "tea:guruparampara-prabhavam-arayirappati:mutal-alvars"
+  ],
+  "stage": "realized (the tradition's account)",
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
    ],
    "phases": [
     "skeleton"
@@ -3383,6 +6432,35 @@
   }
  },
  {
+  "id": "phn:nadanusandhana-ten-sounds",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:nadanusandhana",
+  "ref": "1-5",
+  "kind": "sound",
+  "description": "The ten forms of the unstruck sound in the Nādānusandhāna tract: ciṇī, ciñciṇī, ciri, conch, strings, a ringing, bronze cymbals, cloud, roaring water and the kettle-drum; the first nine are to be left, the tenth gives liberation.",
+  "rests_on": [
+   "tea:nadanusandhana:1-5"
+  ],
+  "coverage": [
+   "E",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U29-hatha-practices"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:nadi-suddhi-signs",
   "lineage": "lin:upanisadic",
   "source": "src:yogatattva-upanisad",
@@ -3406,6 +6484,66 @@
   "provenance": {
    "units": [
     "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:namdev-feeds-vitthala",
+  "lineage": "lin:varkari",
+  "source": "src:bhaktavijaya",
+  "ref": "Nāmdev's childhood",
+  "stage": "all",
+  "kind": "vision",
+  "description": "Viṭṭhala eats the child Nāmdev's offering (tradition's account).",
+  "rests_on": [
+   "tea:bhaktavijaya:namdev-feeds-vitthala"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:nammalvar-sixteen-years-absorption",
+  "lineage": "lin:alvar",
+  "kind": "state",
+  "description": "From birth Nammāḻvār neither cried nor fed and sat silent in the hollow of the tamarind tree at Kurukūr for sixteen years, absorbed in the Lord, until Madhurakavi's question drew his first words.",
+  "source": "src:guruparampara-prabhavam-arayirappati",
+  "ref": "Nammāḻvār",
+  "rests_on": [
+   "tea:guruparampara-prabhavam-arayirappati:nammalvar-madhurakavi"
+  ],
+  "stage": "the tradition's account",
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
    ],
    "phases": [
     "skeleton"
@@ -3493,6 +6631,36 @@
   }
  },
  {
+  "id": "phn:narahari-harihara",
+  "lineage": "lin:varkari",
+  "source": "src:bhaktavijaya",
+  "ref": "Narahari Sonār",
+  "stage": "all",
+  "kind": "vision",
+  "description": "Blindfolded, Narahari feels Śiva's form in Viṭṭhala; unbound, he sees Viṭṭhala (tradition's account).",
+  "rests_on": [
+   "tea:bhaktavijaya:narahari-sonar"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:nathamuni-vision-of-nammalvar",
   "lineage": "lin:visistadvaita",
   "source": "src:guruparampara-prabhavam-arayirappati",
@@ -3505,7 +6673,8 @@
   ],
   "coverage": [
    "A6",
-   "D"
+   "D",
+   "A9"
   ],
   "verification": {
    "level": "skeleton",
@@ -3513,9 +6682,102 @@
    "unverified": false,
    "checks": []
   },
+  "alt_description": [
+   "After reciting the Kaṇṇinuṇ Ciṟuttāmpu twelve thousand times in yogic absorption at Kurukūr, Nāthamuni saw Nammāḻvār, who gave him the four thousand hymns and their meaning."
+  ],
   "provenance": {
    "units": [
-    "skeleton:U14-visistadvaita"
+    "skeleton:U14-visistadvaita",
+    "skeleton:U25-alvar-bhakti-theory"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:nbs-intoxicated-still-self-delighting",
+  "lineage": "lin:bhakti-sastra",
+  "kind": "state",
+  "description": "Knowing love, one becomes intoxicated, becomes still, becomes one who delights in the self; one desires, grieves over and hates nothing.",
+  "source": "src:narada-bhakti-sutra",
+  "ref": "5-6",
+  "rests_on": [
+   "tea:narada-bhakti-sutra:5",
+   "tea:narada-bhakti-sutra:6"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:nbs-mute-tasting",
+  "lineage": "lin:bhakti-sastra",
+  "kind": "state",
+  "description": "Love is indescribable, like a mute's tasting; increasing every moment, unbroken, subtlest, of the nature of experience; one sees, hears, speaks and thinks only of him.",
+  "source": "src:narada-bhakti-sutra",
+  "ref": "51-55",
+  "rests_on": [
+   "tea:narada-bhakti-sutra:51-54",
+   "tea:narada-bhakti-sutra:55"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:nbs-signs-of-love",
+  "lineage": "lin:bhakti-sastra",
+  "kind": "bodily",
+  "description": "The one-pointed devotees speak to one another with choked voices, bristling hair and tears.",
+  "source": "src:narada-bhakti-sutra",
+  "ref": "68",
+  "rests_on": [
+   "tea:narada-bhakti-sutra:67-71"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
    ],
    "phases": [
     "skeleton"
@@ -3543,6 +6805,31 @@
   "provenance": {
    "units": [
     "skeleton:U16-bhedabheda"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:nt-sahasrara-mirror",
+  "lineage": "lin:kalikula",
+  "kind": "vision",
+  "description": "In the thousand-petalled lotus the Lord is to be contemplated as a mountain is seen in a mirror; there Mahākālī, giver of nirvāṇa, dwells with the changeless one.",
+  "source": "src:nirvana-tantra",
+  "ref": "10.38-41",
+  "rests_on": [
+   "tea:nirvana-tantra:10.38-43"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
    ],
    "phases": [
     "skeleton"
@@ -3697,6 +6984,65 @@
   }
  },
  {
+  "id": "phn:parabrahma-rasa",
+  "lineage": "lin:srividya",
+  "kind": "state",
+  "description": "The Goddess's worshipper, the bonds of the bound soul destroyed, tastes the rasa called the supreme Brahman (SL 99).",
+  "source": "src:saundarya-lahari",
+  "ref": "99",
+  "rests_on": [
+   "tea:saundarya-lahari:99"
+  ],
+  "coverage": [
+   "A8",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:parankusa-nayaki-lovesickness",
+  "lineage": "lin:alvar",
+  "kind": "bodily",
+  "description": "The love-sick girl (the Āḻvār as heroine) knows no sleep night or day, bails out her tears with her hands, joins her palms at the names of the conch and discus, and melts — as her mother describes her to the Lord of Śrīraṅgam.",
+  "source": "src:tiruvaymoli",
+  "ref": "7.2.1",
+  "rests_on": [
+   "tea:tiruvaymoli:7.2.1"
+  ],
+  "stage": "advanced (bridal love)",
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:pasupata-bodily-ascent",
   "lineage": "lin:pasupata",
   "source": "src:skanda-purana",
@@ -3769,6 +7115,90 @@
   "provenance": {
    "units": [
     "skeleton:U17-pasupata-kapalika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:pattinattar-becomes-linga",
+  "lineage": "lin:tamil-siddha",
+  "source": "src:pattinattar-padalgal",
+  "ref": "hagiography",
+  "kind": "power",
+  "description": "In the tradition, at Tiruvoṟṟiyūr Paṭṭiṉattār had boys cover him with a basket; when it was lifted he had vanished and a liṅga stood in his place.",
+  "rests_on": [],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "notes": "The tradition's account (hagiography), not a verse of the songs.",
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:pattinattar-stake-burns",
+  "lineage": "lin:tamil-siddha",
+  "source": "src:pattinattar-padalgal",
+  "ref": "hagiography",
+  "kind": "power",
+  "description": "In the tradition, when Paṭṭiṉattār was condemned to the stake at Ujjain the stake burst into flame.",
+  "rests_on": [],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:peyalvar-vision-of-sri",
+  "lineage": "lin:alvar",
+  "kind": "vision",
+  "description": "By the light of the others' lamps Pēyāḻvār saw Śrī, the golden form, the sun-like hue, the discus and the conch in the ocean-hued Lord.",
+  "source": "src:munram-tiruvantati",
+  "ref": "1",
+  "rests_on": [
+   "tea:munram-tiruvantati:1"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
    ],
    "phases": [
     "skeleton"
@@ -3889,6 +7319,35 @@
   }
  },
  {
+  "id": "phn:pralaya-fire-nirajana",
+  "lineage": "lin:srividya",
+  "kind": "sign",
+  "description": "For one who contemplates 'I am you', the fire of the great dissolution itself waves lights before him (SL 96).",
+  "source": "src:saundarya-lahari",
+  "ref": "96",
+  "rests_on": [
+   "tea:saundarya-lahari:96"
+  ],
+  "coverage": [
+   "A8",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:pranayama-three-grades",
   "lineage": "lin:upanisadic",
   "source": "src:trisikhibrahmana-upanisad",
@@ -3948,6 +7407,35 @@
   }
  },
  {
+  "id": "phn:radha-viraha-signs",
+  "lineage": "lin:jagannatha",
+  "kind": "bodily",
+  "description": "Rādhā in separation: the bed of flowers burns her, moonlight is fire, she draws his image and wastes away, as her friend tells Kṛṣṇa.",
+  "source": "src:gita-govinda",
+  "ref": "4-6",
+  "rests_on": [
+   "tea:gita-govinda:4-6"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:raghavendra-brindavana-presence",
   "lineage": "lin:dvaita",
   "kind": "power",
@@ -3997,6 +7485,55 @@
   "provenance": {
    "units": [
     "skeleton:U06-other-gitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:ramprasad-mother-as-daughter",
+  "lineage": "lin:bengal-assam-sakta",
+  "kind": "vision",
+  "description": "The Mother came to Rāmprasād in the form of his daughter and helped him mend a fence (the tradition's account).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:ravidas-ganga-in-the-bowl",
+  "lineage": "lin:ravidasi",
+  "source": "src:raidas-paracai",
+  "ref": "",
+  "kind": "power",
+  "description": "The Gaṅgā appears in Ravidās's leather-soaking bowl (legend behind 'man cangā to kaṭhautī meṃ gaṅgā').",
+  "rests_on": [
+   "tea:ravidas-bani:man-canga-to-kathauti-men-ganga"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
    ],
    "phases": [
     "skeleton"
@@ -4500,6 +8037,36 @@
   }
  },
  {
+  "id": "phn:sahaj-open-eyes",
+  "lineage": "lin:sant",
+  "source": "src:kabir-granthavali",
+  "ref": "pad 'sādho, sahaj samādhi bhalī'",
+  "kind": "state",
+  "description": "In sahaj samādhi the eyes stay open and the Lord's form is seen everywhere; the state grows day by day.",
+  "rests_on": [
+   "tea:kabir-granthavali:sahaj-sadho-sahaj-samadhi-bhali"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "stage": "realized",
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:samkhya-brahmarupata",
   "lineage": "lin:samkhya",
   "source": "src:samkhya-sutra",
@@ -4674,6 +8241,352 @@
   }
  },
  {
+  "id": "phn:sanjivana-samadhi-alandi",
+  "lineage": "lin:varkari",
+  "source": "src:namdev-gatha",
+  "ref": "Samādhi abhaṅgas",
+  "stage": "realized",
+  "kind": "state",
+  "description": "Jñāneśvar sits in meditation, closes his eyes and is sealed in, held to be living there still.",
+  "rests_on": [
+   "tea:namdev-gatha:samadhi"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:sant-anhad-nad",
+  "lineage": "lin:sant",
+  "source": "src:dadu-vani",
+  "ref": "Paracā kau aṅg",
+  "kind": "sound",
+  "description": "The unstruck music (anhad) sounds within in the encounter with the Lord.",
+  "rests_on": [
+   "tea:dadu-vani:paraca-ang"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "stage": "paracā",
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:sant-light-without-sun",
+  "lineage": "lin:sant",
+  "source": "src:dadu-vani",
+  "ref": "Paracā kau aṅg",
+  "kind": "light",
+  "description": "Light is seen without sun or moon in the sky of the head.",
+  "rests_on": [
+   "tea:dadu-vani:paraca-ang"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "stage": "paracā",
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:sant-mat-bell-and-conch",
+  "lineage": "lin:sant-mat",
+  "source": "src:sar-bachan",
+  "ref": "",
+  "kind": "sound",
+  "description": "At Sahasdal Kanwal the sounds of bell and conch; a flame of light (Jot Nirañjan).",
+  "rests_on": [
+   "tea:sar-bachan:the-regions-and-their-sounds"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "stage": "Sahasdal Kanwal",
+  "recent": true,
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:sant-mat-flute-and-vina",
+  "lineage": "lin:sant-mat",
+  "source": "src:sar-bachan",
+  "ref": "",
+  "kind": "sound",
+  "description": "The sārangī in Sunn, the flute at Bhanwar Guphā, the vīṇā in Sach Khand.",
+  "rests_on": [
+   "tea:sar-bachan:the-regions-and-their-sounds"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "stage": "Sunn to Sach Khand",
+  "recent": true,
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:sant-mat-lights",
+  "lineage": "lin:sant-mat",
+  "source": "src:path-of-the-masters",
+  "ref": "",
+  "kind": "light",
+  "description": "At the eye centre stars, then a moon and a sun are seen; then the radiant form of the master appears within.",
+  "rests_on": [],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "stage": "tīsrā til",
+  "recent": true,
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:sant-mat-master-at-death",
+  "lineage": "lin:sant-mat",
+  "source": "src:die-to-live",
+  "ref": "",
+  "kind": "state",
+  "description": "At the initiate's death the master's radiant form comes to receive the soul.",
+  "rests_on": [
+   "tea:die-to-live:master-at-death"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "recent": true,
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:sant-mat-thunder-trikuti",
+  "lineage": "lin:sant-mat",
+  "source": "src:sar-bachan",
+  "ref": "",
+  "kind": "sound",
+  "description": "At Trikuṭī a sound like thunder or the drum (mṛdaṅg), with the red sun of Brahm.",
+  "rests_on": [
+   "tea:sar-bachan:the-regions-and-their-sounds"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "stage": "Trikuṭī",
+  "recent": true,
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:sant-nectar-in-the-sky",
+  "lineage": "lin:sant",
+  "source": "src:dadu-vani",
+  "ref": "Paracā kau aṅg",
+  "kind": "bodily",
+  "description": "Nectar rains or drips in the sky-circle of the head.",
+  "rests_on": [
+   "tea:dadu-vani:paraca-ang"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "stage": "paracā",
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:sarvananda-ten-mahavidyas",
+  "lineage": "lin:bengal-assam-sakta",
+  "kind": "vision",
+  "description": "Sarvānanda at Mehar saw all ten Mahāvidyās one after another in a single night (the tradition's account).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:sayujya-bhavani-tvam",
+  "lineage": "lin:srividya",
+  "kind": "state",
+  "description": "Union (sāyujya) with the Goddess granted at the mere words 'Bhavāni tvam' (SL 22).",
+  "source": "src:saundarya-lahari",
+  "ref": "22",
+  "rests_on": [
+   "tea:saundarya-lahari:22"
+  ],
+  "coverage": [
+   "A8",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:scn-union-bliss",
+  "lineage": "lin:bengal-assam-sakta",
+  "kind": "state",
+  "description": "When Kuṇḍalinī unites with Śiva in the thousand-petalled lotus, the nectar of their union and the bliss called liberation arise.",
+  "source": "src:sat-cakra-nirupana",
+  "ref": "51-53",
+  "rests_on": [
+   "tea:sat-cakra-nirupana:51-53"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:siddha-unaware-of-body",
   "lineage": "lin:puranic",
   "source": "src:uddhava-gita",
@@ -4705,6 +8618,33 @@
   }
  },
  {
+  "id": "phn:siddhar-samadhi-presence",
+  "lineage": "lin:tamil-siddha",
+  "source": "src:siddhar-padalgal",
+  "ref": "tradition",
+  "kind": "power",
+  "description": "The tradition holds that the Siddhars remain present in their samādhi shrines and hill retreats and appear to devotees.",
+  "rests_on": [],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:siddhayogi-unstained",
   "lineage": "lin:pasupata",
   "source": "src:pasupata-sutra",
@@ -4724,6 +8664,36 @@
   "provenance": {
    "units": [
     "skeleton:U17-pasupata-kapalika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:siddhis-at-gate",
+  "lineage": "lin:srividya",
+  "kind": "power",
+  "description": "The eight powers Aṇimā and the rest attend the Goddess at the outer gate and are rays of her own body; the gods won their powers only by waiting there (SL 93, 96).",
+  "source": "src:saundarya-lahari",
+  "ref": "93, 96",
+  "rests_on": [
+   "tea:saundarya-lahari:93",
+   "tea:saundarya-lahari:96"
+  ],
+  "coverage": [
+   "A8",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
    ],
    "phases": [
     "skeleton"
@@ -4974,6 +8944,36 @@
   }
  },
  {
+  "id": "phn:soyrabai-one-colour",
+  "lineage": "lin:varkari",
+  "source": "src:soyrabai-abhangas",
+  "ref": "avaghā raṅga",
+  "stage": "realized",
+  "kind": "state",
+  "description": "All colours become one colour; 'I' and 'you' are gone.",
+  "rests_on": [
+   "tea:soyrabai-abhangas:avagha-ranga"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:spanda-arising-phenomena",
   "lineage": "lin:spanda",
   "source": "src:spanda-karika",
@@ -5068,6 +9068,213 @@
   "provenance": {
    "units": [
     "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:ss-arambha-signs",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:siva-samhita",
+  "ref": "3.29-31",
+  "kind": "sign",
+  "description": "In the beginning stage the body becomes harmonious, fragrant, lustrous, the voice perfected; strong digestion, happiness, beauty, fullness of heart, strength.",
+  "rests_on": [
+   "tea:siva-samhita:3.29-31"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "stage": "ārambha",
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:ss-kanthakupa-hunger-ceases",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:siva-samhita",
+  "ref": "5.43-44",
+  "kind": "bodily",
+  "description": "With the tongue at the root of the palate and attention on the pit of the throat, hunger and thirst cease; attention on the kūrma-channel below it gives great steadiness of mind.",
+  "rests_on": [
+   "tea:siva-samhita:5.43-44"
+  ],
+  "coverage": [
+   "E",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U29-hatha-practices"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:ss-nada-sounds",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:siva-samhita",
+  "ref": "5.27-29",
+  "kind": "sound",
+  "description": "The first inner sound is like intoxicated bees, flute and vīṇā; then like a bell; then like the rumble of clouds; setting the mind fearlessly on it, laya arises and the mind is stilled with the sound.",
+  "rests_on": [
+   "tea:siva-samhita:5.27-29"
+  ],
+  "coverage": [
+   "E",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "nāda",
+  "provenance": {
+   "units": [
+    "skeleton:U29-hatha-practices"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:ss-paricaya-trikuta",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:siva-samhita",
+  "ref": "3.60-61",
+  "kind": "vision",
+  "description": "In paricaya the breath stays in the space of suṣumnā, pierces the centres, and the yogin sees the 'three peaks' of his karma.",
+  "rests_on": [
+   "tea:siva-samhita:3.60-61"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "stage": "paricaya",
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:ss-pranayama-signs",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:siva-samhita",
+  "ref": "3.40-46",
+  "kind": "bodily",
+  "description": "Sweat, then trembling, then hopping like a frog, then leaving the ground in padmāsana; little sleep and excreta; no sweat, saliva or worms; freedom from disease.",
+  "rests_on": [
+   "tea:siva-samhita:3.40-46"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:ss-pratika-vision",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:siva-samhita",
+  "ref": "5.16-18",
+  "kind": "vision",
+  "description": "After gazing at one's shadow in bright sun, one's own image is seen in the sky; seeing it whole is a sign of long life and victory.",
+  "rests_on": [
+   "tea:siva-samhita:5.15-20"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A10",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:ss-sanmukhi-light",
+  "lineage": "lin:hatha-yoga",
+  "source": "src:siva-samhita",
+  "ref": "5.22-26",
+  "kind": "light",
+  "description": "When the six openings are closed with the fingers and the breath restrained, the yogin sees the self as light; whoever sees it even for a moment is freed of sins; by constant practice he forgets the body and becomes one with it.",
+  "rests_on": [
+   "tea:siva-samhita:5.22-26"
+  ],
+  "coverage": [
+   "E",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "stage": "ṣaṇmukhī",
+  "provenance": {
+   "units": [
+    "skeleton:U29-hatha-practices"
    ],
    "phases": [
     "skeleton"
@@ -5364,6 +9571,36 @@
   }
  },
  {
+  "id": "phn:svapna-diksa-tukaram",
+  "lineage": "lin:varkari",
+  "source": "src:tukaram-gatha",
+  "ref": "initiation abhaṅgas",
+  "stage": "beginner",
+  "kind": "vision",
+  "description": "In a dream the guru Bābājī places a hand on Tukārām's head and gives the mantra 'Rāma Kṛṣṇa Hari'.",
+  "rests_on": [
+   "tea:tukaram-gatha:svapna-diksa"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:svetasvatara-body-of-yoga-fire",
   "lineage": "lin:upanisadic",
   "source": "src:svetasvatara-upanisad",
@@ -5537,6 +9774,35 @@
   }
  },
  {
+  "id": "phn:tamil-siddha-eight-siddhis",
+  "lineage": "lin:tamil-siddha",
+  "source": "src:tayumanavar-padalgal",
+  "ref": "kantuk kaṭaṅkā",
+  "kind": "power",
+  "description": "The eight great powers (aṭṭamā citti) claimed for the Siddhars; listed by Tāyumāṉavar with taming beasts, transmutation, invisibility, perpetual youth, entering another body, walking on water and sitting in fire — all ranked below stilling the mind.",
+  "rests_on": [
+   "tea:tayumanavar-padalgal:kantuk-katankata"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:tejobindu-samadhi-disturbances",
   "lineage": "lin:upanisadic",
   "source": "src:tejobindu-upanisad",
@@ -5592,6 +9858,66 @@
   }
  },
  {
+  "id": "phn:tirumankai-mantra-whispered",
+  "lineage": "lin:alvar",
+  "kind": "sound",
+  "description": "The Lord, disguised as a bridegroom, whispered the eight-syllable mantra into Tirumaṅkai's ear; he broke at once into the hymn of the name.",
+  "source": "src:guruparampara-prabhavam-arayirappati",
+  "ref": "Tirumaṅkai",
+  "rests_on": [
+   "tea:guruparampara-prabhavam-arayirappati:tirumankai",
+   "tea:periya-tirumoli:1.1.1"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:tirumantiram-body-undecaying",
+  "lineage": "lin:tamil-siddha",
+  "source": "src:tirumantiram",
+  "ref": "722, 727",
+  "kind": "bodily",
+  "description": "Binding the breath, the body does not perish for a thousand years (TM 722); grey hair and wrinkles perish and the body becomes like collyrium (TM 727). The texts' claims.",
+  "rests_on": [
+   "tea:tirumantiram:722",
+   "tea:tirumantiram:727"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:tirumantiram-eight-siddhis",
   "lineage": "lin:nayanmar",
   "source": "src:tirumantiram",
@@ -5635,6 +9961,37 @@
   "provenance": {
    "units": [
     "skeleton:U18-saiva-siddhanta"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:tiruppan-feet-to-face-vision",
+  "lineage": "lin:alvar",
+  "kind": "vision",
+  "description": "Carried into the sanctum, Tiruppāṇ saw the Lord part by part from his feet to his eyes, declared that his eyes would see nothing else, and merged into the Lord.",
+  "source": "src:amalanatipiran",
+  "ref": "1-10",
+  "rests_on": [
+   "tea:amalanatipiran:2-9",
+   "tea:amalanatipiran:10",
+   "tea:guruparampara-prabhavam-arayirappati:tiruppan"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U25-alvar-bhakti-theory"
    ],
    "phases": [
     "skeleton"
@@ -5700,6 +10057,96 @@
   }
  },
  {
+  "id": "phn:tukaram-atom-and-sky",
+  "lineage": "lin:varkari",
+  "source": "src:tukaram-gatha",
+  "ref": "aṇureṇuyā thokaḍā",
+  "stage": "realized",
+  "kind": "state",
+  "description": "Tukā is smaller than the smallest particle and vast as the sky.",
+  "rests_on": [
+   "tea:tukaram-gatha:anureniya-thokada"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:tukaram-pool-of-bliss",
+  "lineage": "lin:varkari",
+  "source": "src:tukaram-gatha",
+  "ref": "ānandāce ḍohīṃ",
+  "stage": "realized",
+  "kind": "state",
+  "description": "Waves of bliss in a pool of bliss; bliss is the very body of bliss.",
+  "rests_on": [
+   "tea:tukaram-gatha:anandace-dohi"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:tulsi-rama-darsana",
+  "lineage": "lin:ramanandi",
+  "source": "src:bhaktirasabodhini",
+  "ref": "kavitts on Tulsīdās",
+  "stage": "all",
+  "kind": "vision",
+  "description": "Led by Hanumān, Tulsī sees Rāma at Citrakūṭa (tradition's account).",
+  "rests_on": [
+   "tea:bhaktirasabodhini:tulsi"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:turyaga-conduct",
   "lineage": "lin:advaita-vedanta",
   "source": "src:moksopaya",
@@ -5723,6 +10170,36 @@
   "provenance": {
    "units": [
     "skeleton:U06-other-gitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:turyatita",
+  "lineage": "lin:srividya",
+  "kind": "state",
+  "description": "The state beyond the fourth, reached by holding firmly to the fourth; the Goddess is devoid of all states (Bhāskararāya on LSN 63).",
+  "source": "src:saubhagyabhaskara",
+  "ref": "on LSN 63",
+  "rests_on": [
+   "tea:saubhagyabhaskara:turyatita",
+   "tea:lalita-sahasranama:62-63"
+  ],
+  "coverage": [
+   "A8",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
    ],
    "phases": [
     "skeleton"
@@ -5931,6 +10408,31 @@
   "provenance": {
    "units": [
     "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:vasistha-vision-of-mahavidya",
+  "lineage": "lin:kalikula",
+  "kind": "vision",
+  "description": "After Vasiṣṭha's failed austerities and threatened curse, the Mahāvidyā appeared before him, rebuked him and sent him to Mahācīna (the tradition's account).",
+  "source": "src:rudrayamala",
+  "ref": "17.117-124",
+  "rests_on": [
+   "tea:rudrayamala:17.105-124"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
    ],
    "phases": [
     "skeleton"
@@ -6170,6 +10672,94 @@
   "provenance": {
    "units": [
     "skeleton:U05-gita-epic"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:vidyapati-rains-viraha",
+  "lineage": "lin:regional-bhakti-poets",
+  "source": "src:vidyapati-padavali",
+  "ref": "Bhādra lament",
+  "stage": "all",
+  "kind": "difficulty",
+  "description": "Rādhā's anguish in the rains, the house empty, the thunder loud, the beloved far.",
+  "rests_on": [
+   "tea:vidyapati-padavali:bhadra-viraha"
+  ],
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:viracakresvara",
+  "lineage": "lin:kaula-srividya",
+  "kind": "power",
+  "description": "By awakening to the sixfold meaning of the mantra one at once becomes lord of the circle of heroes (YH 2.85).",
+  "source": "src:yoginihrdaya",
+  "ref": "2.85",
+  "rests_on": [
+   "tea:yoginihrdaya:2.85"
+  ],
+  "coverage": [
+   "A8",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:viraha-sleeplessness",
+  "lineage": "lin:sant",
+  "source": "src:kabir-granthavali",
+  "ref": "Birah kau aṅg",
+  "kind": "difficulty",
+  "description": "The one struck by separation wakes and weeps while the world eats and sleeps.",
+  "rests_on": [
+   "tea:kabir-granthavali:birah-sukhiya-sab-sansar-hai"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A9",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U27-sant-baul"
    ],
    "phases": [
     "skeleton"

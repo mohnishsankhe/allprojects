@@ -5,7 +5,7 @@
 **Family:** vedic
 **Alternate names:** Kaula mode of Śrīvidyā, dakṣiṇa-Kaula Śrīvidyā (as often described)
 **Parent:** [Śrīvidyā](srividya.md)
-**Key teachers:** `tch:punyananda`, `tch:amrtananda`, `tch:natanananda`, [Jayaratha](../teachers/jayaratha.md), [Bhāskararāya](../teachers/bhaskararaya.md), `tch:umanandanatha`, `tch:ramesvara-srividya`, `tch:parasurama`
+**Key teachers:** [Puṇyānanda](../teachers/punyananda.md), [Amṛtānanda](../teachers/amrtananda.md), [Naṭanānandanātha](../teachers/natanananda.md), [Jayaratha](../teachers/jayaratha.md), [Bhāskararāya](../teachers/bhaskararaya.md), [Umānandanātha](../teachers/umanandanatha.md), [Rāmeśvara (commentator on the Paraśurāma Kalpasūtra)](../teachers/ramesvara-srividya.md), [Paraśurāma (Jāmadagnya Bhārgava)](../teachers/parasurama.md)
 **Regions:** Kashmir, South India, Varanasi, Maharashtra
 **Dates:** Tradition's account: The teaching descends from Śiva (Parameśvara) through the divine, perfected and human streams of gurus.; Scholarly account: Puṇyānanda and Amṛtānanda c. 13th-14th c. (uncertain); Bhāskararāya and Umānandanātha 18th c.; (confidence low)
 **Status:** living
@@ -32,21 +32,21 @@ The line of Śrīvidyā that follows the Vāmakeśvara tantra and Yoginīhṛday
 **Caveat:** This line holds the Goddess is both Kaula and Samaya and that outer worship is part of the path even for the knower; it would not accept a Samaya reconciliation that declares Kaula worship outside the Veda.
 
 ## Texts
-`src:cidvalli`, `src:kamakalavilasa`, [Kaula Upaniṣad](../texts/kaula-upanisad.md), `src:nityotsava`, `src:parasurama-kalpasutra`, `src:saubhagyabhaskara`, `src:saubhagyodaya-ramesvara`, `src:setubandha`, `src:tantraraja-tantra`, `src:vamakesvara-tantra`, `src:varivasya-rahasya`, `src:yoginihrdaya`, `src:yoginihrdaya-dipika`
+[Bhāvanopaniṣad-bhāṣya (Bhāskararāya)](../texts/bhavana-upanisad-bhasya-bhaskararaya.md), [Cidvallī](../texts/cidvalli.md), [Kāmakalāvilāsa](../texts/kamakalavilasa.md), [Kaula Upaniṣad](../texts/kaula-upanisad.md), [Kaulopaniṣad-bhāṣya (Bhāskararāya)](../texts/kaula-upanisad-bhasya-bhaskararaya.md), [Nityotsava](../texts/nityotsava.md), [Paraśurāma Kalpasūtra](../texts/parasurama-kalpasutra.md), [Saubhāgyabhāskara](../texts/saubhagyabhaskara.md), [Saubhāgyasudhodaya](../texts/saubhagyasudhodaya.md), [Saubhāgyodaya (commentary on the Paraśurāma Kalpasūtra)](../texts/saubhagyodaya-ramesvara.md), [Setubandha](../texts/setubandha.md), [Tantrarāja Tantra](../texts/tantraraja-tantra.md), [Tripuropaniṣad-bhāṣya (Bhāskararāya)](../texts/tripura-upanisad-bhasya-bhaskararaya.md), [Vāmakeśvara Tantra (Vāmakeśvarīmata / Nityāṣoḍaśikārṇava)](../texts/vamakesvara-tantra.md), [Varivasyārahasya](../texts/varivasya-rahasya.md), [Yoginīhṛdaya](../texts/yoginihrdaya.md), [Yoginīhṛdayadīpikā](../texts/yoginihrdaya-dipika.md)
 
 ## Teachers
-`tch:amrtananda`, [Bhāskararāya](../teachers/bhaskararaya.md), [Jayaratha](../teachers/jayaratha.md), `tch:natanananda`, `tch:parasurama`, `tch:punyananda`, `tch:ramesvara-srividya`, `tch:umanandanatha`
+[Amṛtānanda](../teachers/amrtananda.md), [Bhāskararāya](../teachers/bhaskararaya.md), [Jayaratha](../teachers/jayaratha.md), [Naṭanānandanātha](../teachers/natanananda.md), [Nṛsiṃhānandanātha](../teachers/nrsimhanandanatha.md), [Paraśurāma (Jāmadagnya Bhārgava)](../teachers/parasurama.md), [Puṇyānanda](../teachers/punyananda.md), [Rāmeśvara (commentator on the Paraśurāma Kalpasūtra)](../teachers/ramesvara-srividya.md), [Umānandanātha](../teachers/umanandanatha.md)
 
 ## Practices
-_none recorded_
+[Inner worship (antaryāga)](../practices/antaryaga.md), [Contemplation of the body as the Śrīcakra (Bhāvanā Upaniṣad)](../practices/bhavana-sricakra-deha.md), [Libation into the bindu (bindu-tarpaṇa)](../practices/bindu-tarpana.md), [The sixty-four services (catuḥṣaṣṭy-upacāra)](../practices/catuhsasti-upacara.md), [Worship of Mahāgaṇapati before the great vidyā](../practices/ganapati-krama.md), [Worship of the guru's feet (pādukā) and the circle of gurus](../practices/guru-paduka-puja.md), [Meditation on the kāmakalā](../practices/kamakala-dhyana.md), [Worship with the five 'M's (pañcamakāra) — summary only](../practices/pancamakara.md), [Worship of Parā](../practices/para-krama.md), [The secret sacrifice (rahoyāga) — summary only](../practices/rahoyaga.md), [Worship of the nine enclosures of the Śrīcakra (navāvaraṇa-pūjā)](../practices/sricakra-navavarana-puja.md), [Śrīvidyā initiation (śāktī, śāmbhavī, māntrī)](../practices/srividya-diksa.md), [Fire offering in Śrīvidyā](../practices/srividya-homa.md), [Japa of the Śrīvidyā mantra](../practices/srividya-japa.md), [The ten mudrās of Śrīvidyā worship](../practices/srividya-mudras.md), [The daily routine of the Śrīvidyā initiate](../practices/srividya-nitya-krama.md), [Placements on the body (nyāsa) in Śrīvidyā](../practices/srividya-nyasa.md), [Keeping the initiate's conduct (samaya)](../practices/srividya-samaya-conduct.md), [Worship of Śyāmā (Mantriṇī)](../practices/syama-krama.md), [Worship of Vārāhī (Daṇḍinī)](../practices/varahi-krama.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[Is outer worship (of the Śrīcakra or image) necessary, or is inner worship alone the true worship?](../debates/external-or-internal-worship.md), [Are the five 'M's to be used literally, replaced by substitutes, interiorized, or rejected? (Summary only.)](../debates/pancamakara-literal-or-substitute.md), [Should Śrīvidyā be practised only in the inner Samaya way, or also in the Kaula way with outer worship and Kaula conduct?](../debates/samaya-or-kaula.md), [Are the Śākta tantras Vedic and authoritative?](../debates/vedic-status-of-tantra.md)
 
 _Notes: 'Kaula Śrīvidyā' is a descriptive grouping used here for the Kaula-affiliated exegetical line; the texts call their conduct kaulācāra. Many living lines practise its rites with substitutes (dakṣiṇa mode)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-28 09:07 IST._

@@ -16,4 +16,4 @@
 _Notes: Correction to the task wording: the Brāhmaṇas speak of Prajāpati 'coming apart' through the exhaustion of creating, not of a dismemberment by others (contrast the Puruṣa Sūkta, RV 10.90)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

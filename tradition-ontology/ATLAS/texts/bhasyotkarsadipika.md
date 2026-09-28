@@ -1,6 +1,6 @@
 # Bhāṣyotkarṣadīpikā of Dhanapati Sūri
 
-`src:bhasyotkarsadipika` · `skeleton` · confidence low
+`src:bhasyotkarsadipika` · `sourced` · confidence low
 
 **Original title:** भाष्योत्कर्षदीपिका
 **Language:** Sanskrit
@@ -20,4 +20,8 @@ An Advaita sub-commentary on Śaṅkara's Gītābhāṣya describing the Gītā 
 _Notes: Title recalled (low); the commentary's opening in the local corpus speaks of the Gītā as 'kāṇḍatrayātmaka'._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: partially-confirmed — local:sources_raw/gita/data/commentary.json (Sri Dhanpati, 701 entries), https://archive.org/details/SrimadBhagavadGita.With.the.Commentaries — Least-sure item: exists as Dhanapati Sūri's gloss on Śaṅkara's Gītābhāṣya (text held locally; printed in the 8-commentary edition), and the title is confirmed. Date not firmly confirmed: one academic source gives Dhanapati 1750–1850 CE; the entry says c. 18th c. (1700–1800). Availability "digitized-original" is correct.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

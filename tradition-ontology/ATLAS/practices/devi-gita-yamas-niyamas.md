@@ -12,4 +12,4 @@ Practising the ten restraints and ten observances listed by the Goddess as the f
   - [Devī Gītā](../texts/devi-gita.md) — ref: 7.35.6-8; rests_on: ["tea:devi-gita:7.35.1-8"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

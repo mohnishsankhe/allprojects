@@ -1,6 +1,6 @@
 # Sāyaṇa's commentary on the Ṛgveda (Vedārthaprakāśa)
 
-`src:rgveda-bhasya-sayana` · `skeleton` · confidence high
+`src:rgveda-bhasya-sayana` · `sourced` · confidence high
 
 **Alternate titles:** Mādhavīya Vedārthaprakāśa, Ṛgvedabhāṣya
 **Original title:** वेदार्थप्रकाशः (ऋग्वेदभाष्यम्)
@@ -20,10 +20,10 @@ The complete classical commentary on the Ṛgveda, produced at Vijayanagara unde
   - kind: original; name: F. Max Müller (1849–74); licence: public domain
   - kind: original; name: Vaidika Saṃśodhana Maṇḍala, Poona (1933–51)
 
-## Teachings (1: skeleton 1)
+## Teachings (1: sourced 1)
 
 ### upodghata <a id="tea-rgveda-bhasya-sayana-upodghata"></a>
-`skeleton` · confidence low
+`sourced` · confidence low
 
 The Veda is that text which makes known the supernatural means (alaukika upāya) of obtaining the desired and avoiding the undesired; it is authoritative in itself, being authorless.
 
@@ -35,4 +35,8 @@ terms: [apauruṣeya](../terms/apauruseya.md), [śruti](../terms/sruti.md) · te
 _Notes: Sāyaṇa also commented on the Taittirīya, Sāma and Atharva Saṃhitās and on Brāhmaṇas and Āraṇyakas._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/vedaH/Rg/shakala/saMhitA/sAyaNabhAShyam/ (verse-wise commentary, all 10 maṇḍalas), https://en.wikipedia.org/wiki/S%C4%81ya%E1%B9%87a — Extant (local verse-by-verse text). Sāyaṇa d. 1387, Vijayanagara under Bukka I and Harihara II; commentaries on nearly all parts of the Veda — confirmed. The upodghāta content is treated under tea:rgveda-bhasya-sayana:upodghata.
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

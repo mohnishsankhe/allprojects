@@ -48,4 +48,4 @@ concepts: [The Vedic metres](../concepts/vedic-meters.md)
 _Notes: Commentary: Halāyudha's Mṛtasañjīvanī (10th c.). Local copy: Kāvyamālā 91 (OCR). Chapter contents given from memory at chapter level._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

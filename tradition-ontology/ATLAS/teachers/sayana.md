@@ -1,6 +1,6 @@
 # Sāyaṇa
 
-`tch:sayana` · `skeleton` · confidence high
+`tch:sayana` · `sourced` · confidence high
 
 **Lineages:** [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md), [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md)
 **Dates:** Scholarly account: d. 1387 CE; (confidence moderate)
@@ -16,4 +16,8 @@ Sāyaṇa (Sāyaṇācārya), minister of the early Vijayanagara kings and direc
 _Notes: Brother of Mādhava, whom the tradition identifies with Vidyāraṇya (tch:vidyaranya) — identification disputed. Birth year unknown; 'from' is a rough estimate._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/S%C4%81ya%E1%B9%87a, https://en.wikipedia.org/wiki/Vidyaranya — Confirmed: d. 1387; minister/scholar under Bukka I and Harihara II; brother of Mādhava (identified with Vidyāraṇya, disputed); commentaries on nearly all parts of the Veda; the Sudhānidhi digests are listed among his works.
+
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

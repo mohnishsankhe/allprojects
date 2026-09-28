@@ -12,4 +12,4 @@ Theft, violence, falsehood, hypocrisy, lust, anger, arrogance, pride, divisivene
   - [Uddhava Gītā](../texts/uddhava-gita.md) — ref: 11.23.18-19; rests_on: ["tea:uddhava-gita:11.23.18-19"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._

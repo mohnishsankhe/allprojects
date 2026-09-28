@@ -13,4 +13,4 @@
 - contrasts-with → [Prāṇa (breath) in the Brāhmaṇas and Āraṇyakas](prana-in-brahmanas.md): the Śikṣā's physiology of breath serves pronunciation, not meditation
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._

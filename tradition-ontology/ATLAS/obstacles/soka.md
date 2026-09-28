@@ -1,18 +1,19 @@
-# Sorrow (śoka)
+# Grief (śoka)
 
 `obs:soka` · `skeleton` · confidence high
 
-**Category:** passion
-**Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
-**Taught in:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
+**Category:** affliction
+**Convergence:** 2 independent lineage(s): [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
+**Taught in:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 
-Nārada, knowing only mantras, is in sorrow; 'the knower of the self crosses sorrow' (ChU 7.1.3; MuU 3.2.9); for one who sees oneness there is no delusion or sorrow (Īśa 7); the wise leaves joy and sorrow (KU 1.2.12); seeing the Lord the grieving bird is freed from sorrow (MuU 3.1.2).
-**Antidotes:** [The meditation on plenitude (bhūma-vidyā)](../practices/bhuma-vidya.md), knowledge of the self
+Bhagavad Gītā 1–3: Arjuna's grief overwhelms him (1.47) and dries up his senses so that no kingdom could dispel it (2.8). Kṛṣṇa answers that the wise grieve neither for the dead nor the living (2.11) and repeatedly concludes 'you ought not to grieve' from the nature of the embodied self (2.25, 2.26, 2.27, 2.30).
+**Antidotes:** Knowledge that the embodied one is eternal and unslayable (2.11–30), The certainty of death for the born (2.27), [The meditation on plenitude (bhūma-vidyā)](../practices/bhuma-vidya.md), knowledge of the self
 **Sources:** 
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 1.47, 2.8, 2.11, 2.25, 2.26, 2.27, 2.28, 2.30; rests_on: ["tea:bhagavad-gita:1.47", "tea:bhagavad-gita:2.8", "tea:bhagavad-gita:2.11", "tea:bhagavad-gita:2.25", "tea:bhagavad-gita:2.26", "tea:bhagavad-gita:2.27", "tea:bhagavad-gita:2.28", "tea:bhagavad-gita:2.30"]
   - [Chāndogya Upaniṣad](../texts/chandogya-upanisad.md) — ref: 7.1.3; rests_on: ["tea:chandogya-upanisad:7.1.1-3"]
   - [Īśa Upaniṣad](../texts/isa-upanisad.md) — ref: 7; rests_on: ["tea:isa-upanisad:6-7"]
   - [Katha Upaniṣad](../texts/katha-upanisad.md) — ref: 1.2.12; rests_on: ["tea:katha-upanisad:1.2.12"]
   - [Muṇḍaka Upaniṣad](../texts/mundaka-upanisad.md) — ref: 3.1.2; 3.2.9; rests_on: ["tea:mundaka-upanisad:3.1.1-2", "tea:mundaka-upanisad:3.2.9"]
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

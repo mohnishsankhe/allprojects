@@ -15,4 +15,4 @@ Named in the Devī Gītā as a preliminary of daily worship (procedure not descr
 _Notes: U06 contribution to a shared practice id._
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._

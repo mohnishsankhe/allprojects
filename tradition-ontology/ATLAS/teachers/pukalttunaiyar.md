@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A temple priest who kept up worship throug
 **Realization — the tradition's account:** A temple priest who kept up worship through a famine; fainting, he let the water-pot fall on the liṅga; Śiva left a gold coin for him on the pedestal each day until the famine ended.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._

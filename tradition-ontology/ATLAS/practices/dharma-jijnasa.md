@@ -16,4 +16,4 @@ Systematic investigation of the Vedic sentences by the adhikaraṇa method — s
 **Sequences:** [The Vedic course of dharma (Mīmāṃsā account)](../paths/mimamsa-vedic-dharma-life.md)
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._

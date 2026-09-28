@@ -1,6 +1,6 @@
 # Keśava Kāśmīrī Bhaṭṭa
 
-`tch:kesava-kasmiri` · `skeleton` · confidence low
+`tch:kesava-kasmiri` · `sourced` · confidence low
 
 **Lineages:** [Dvaitādvaita (Nimbārka Sampradāya)](../lineages/dvaitadvaita.md)
 **Dates:** Scholarly account: c. 15th–16th c. CE; (confidence low)
@@ -11,4 +11,8 @@
 Nimbārka-school teacher credited with a Gītā commentary (Tattvaprakāśikā).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Keshav_Kashmiri — Least-sure item: a Nimbārka-school teacher who wrote the Tattvaprakāśikā on the Gītā; sources say 16th c., within the entry's c. 15th–16th c.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

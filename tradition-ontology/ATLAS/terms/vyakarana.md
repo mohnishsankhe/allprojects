@@ -8,10 +8,11 @@
 
 ## Definitions by tradition
 - [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md): Grammar, 'the mouth of the Veda' and chief of its limbs (PŚ 41–42; Mahābhāṣya), studied to protect and understand the Veda.
+- [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md): Grammar as the nearest to Brahman, the highest austerity, the door to liberation and remedy for the impurities of speech (VP 1.11–16).
 
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._

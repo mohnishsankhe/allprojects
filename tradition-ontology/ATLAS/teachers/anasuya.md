@@ -1,6 +1,6 @@
 # Anasūyā
 
-`tch:anasuya` · `skeleton` · confidence high
+`tch:anasuya` · `sourced` · confidence high
 
 **Lineages:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
 **Historicity:** legendary
@@ -9,4 +9,8 @@
 Ascetic wife of the sage Atri, honoured for her austerities, who teaches Sītā the dharma of the devoted wife (Rāmāyaṇa 2.117–119).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — local:DharmicData Rāmāyaṇa (vulgate) 2.117.8-17, 2.119.1 — Located as described.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

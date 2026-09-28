@@ -18,4 +18,4 @@
 - exact: [prajāpati](prajapati.md) — The last verse of RV 10.121 answers the refrain with 'Prajāpati'; the Anukramaṇī names the deity Ka (Prajāpati).
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U07-puranas, skeleton:U13-advaita, skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U07-puranas, skeleton:U13-advaita, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._

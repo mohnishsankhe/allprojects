@@ -1,6 +1,6 @@
 # Gītāmāhātmya (Padma Purāṇa)
 
-`src:gita-mahatmya` · `skeleton` · confidence low
+`src:gita-mahatmya` · `sourced` · confidence low
 
 **Original title:** गीतामाहात्म्य
 **Language:** Sanskrit
@@ -16,4 +16,8 @@ Stories in praise of the Gītā, one for each chapter, telling of the merit of r
 _Notes: Location recalled, not checked (low). Other Gītā-māhātmyas (e.g. in the Varāha Purāṇa) also circulate._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/hinduism/book/the-bhagavad-gita-mahatmya, https://en.wikipedia.org/wiki/Padma_Purana — Least-sure item: location confirmed — the Gītāmāhātmya is in the Uttarakhaṇḍa of the Padma Purāṇa, 18 chapters (one per Gītā chapter), told as a Śiva–Pārvatī dialogue.
+
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._

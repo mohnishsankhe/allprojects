@@ -20,4 +20,4 @@
 - contrasts-with → [The self (ātman) in the Upaniṣads](atman.md): the texts first speak of each separately and then declare them one — rests on [1.4.10](../texts/brhadaranyaka-upanisad.md#tea-brhadaranyaka-upanisad-1-4-10), [2](../texts/mandukya-upanisad.md#tea-mandukya-upanisad-2)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

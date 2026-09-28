@@ -17,7 +17,7 @@
 Śaṅkara's commentary on the Brahma Sūtras, opening with the 'adhyāsa-bhāṣya' on superimposition as the root of all empirical dealings; it reads the sūtras as teaching the non-dual Brahman, the unreality of the world apart from Brahman, knowledge alone as the means to liberation, and liberation while living, and it critiques Sāṃkhya, Vaiśeṣika, the Buddhist schools, the Jains, the Pāśupatas and the Pāñcarātra.
 **Commentaries on this text:** [Bhāmatī](bhamati.md), [Nyāyanirṇaya](nyayanirnaya.md), [Pañcapādikā](pancapadika.md), [Ratnaprabhā](ratnaprabha.md)
 
-## Teachings (31: skeleton 31)
+## Teachings (32: skeleton 32)
 
 ### 1.1.1 <a id="tea-brahma-sutra-bhasya-sankara-1-1-1"></a>
 `skeleton` · confidence high
@@ -72,6 +72,15 @@ After commenting on the sūtras as though the 'one consisting of bliss' were Bra
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, body-layers, dispute_
 
 terms: [ānandamaya-kośa](../terms/anandamaya-kosa.md) · concepts: [The five sheaths (pañca-kośa)](../concepts/five-sheaths.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is 'the one consisting of bliss' (ānandamaya, TU 2.5; BS 1.1.12) the supreme Brahman or a sheath?](../debates/is-anandamaya-brahman.md)
+
+### 1.3.28 <a id="tea-brahma-sutra-bhasya-sankara-1-3-28"></a>
+`skeleton` · confidence high
+
+Śaṅkara accepts that the world is preceded by the Vedic word (words as eternal universals from which the individuals are produced), but rejects the sphoṭa: 'the letters alone are the word', says the revered Upavarṣa; the letters, apprehended one by one and gathered in a single cognition with the last, convey the meaning, and an imperceptible sphoṭa is needlessly assumed.
+
+_level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, sound-language, world-fate_
+
+terms: [sphoṭa](../terms/sphota.md), [varṇa](../terms/varna.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md), [Upavarṣa](../teachers/upavarsa.md) · disputes: [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](../debates/sphota.md)
 
 ### 1.3.38 <a id="tea-brahma-sutra-bhasya-sankara-1-3-38"></a>
 `skeleton` · confidence moderate
@@ -312,4 +321,4 @@ concepts: [The identity of the self and brahman](../concepts/atman-brahman-ident
 _Notes: Sub-commentaries: Padmapāda's Pañcapādikā (→ Prakāśātman's Vivaraṇa), Vācaspati's Bhāmatī (→ Amalānanda's Kalpataru → Appayya's Parimala), Ānandagiri's Nyāyanirṇaya, Govindānanda's Ratnaprabhā._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._

@@ -4,10 +4,10 @@
 
 
 ## Sides (recorded before any reconciliation)
-### `lin:alankara`
+### [Alaṅkāraśāstra and Nāṭyaśāstra (poetics, dramaturgy and the theory of rasa)](../lineages/alankara.md)
 Classical poetics (e.g. Mammaṭa's Kāvyaprakāśa): love directed to a deity is a bhāva, not a rasa; the rasas are eight or nine (with śānta).
 **Texts:** 
-  - `src:kavyaprakasa` — ref: 4 (on bhāva; verse to verify)
+  - [Kāvyaprakāśa of Mammaṭa](../texts/kavyaprakasa.md) — ref: 4 (on bhāva; verse to verify)
 ### [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md)
 Rūpa Gosvāmī: love for Kṛṣṇa is the permanent emotion of a true rasa — indeed the supreme rasa — in five primary and seven secondary forms; its relish is transcendent (aprākṛta).
 **Texts:** 
@@ -26,4 +26,4 @@ Rūpa himself distinguishes worldly (prākṛta) rasa from devotional rasa, so t
 **The traditions' own objections:** Rūpa's school holds bhakti-rasa to be rasa in the full and highest sense, not merely 'rasa from another standpoint'.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._

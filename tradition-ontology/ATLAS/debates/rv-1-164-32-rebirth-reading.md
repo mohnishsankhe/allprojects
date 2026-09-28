@@ -1,6 +1,6 @@
 # Does RV 1.164.32 ('having many offspring he has entered Nirṛti') speak of repeated births?
 
-`dsp:rv-1-164-32-rebirth-reading` · `skeleton` · confidence moderate
+`dsp:rv-1-164-32-rebirth-reading` · `sourced` · confidence moderate
 
 
 ## Sides (recorded before any reconciliation)
@@ -25,4 +25,8 @@ Yāska records both readings without forbidding either. Scholarly metadata: mode
 **The traditions' own objections:** None recorded within the Nirukta; Mīmāṃsā would subordinate both to the verse's ritual use.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (Sarup ed., GRETIL) — Both sides located in Nirukta 2.8 (parivrājakas vs nairuktas, with the word-by-word rain gloss).
+
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._

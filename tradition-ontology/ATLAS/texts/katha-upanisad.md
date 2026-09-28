@@ -126,7 +126,7 @@ The wise one, realizing through the yoga of the inner self (adhyātma-yoga) the 
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: advanced · types: practice, ultimate_
 
-terms: [adhyātma-yoga](../terms/adhyatma-yoga.md), [guhā](../terms/guha.md), [dhīra](../terms/dhira.md) · practices: [Yoga of the inner self (Kaṭha)](../practices/adhyatma-yoga.md) · obstacles: [Sorrow (śoka)](../obstacles/soka.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
+terms: [adhyātma-yoga](../terms/adhyatma-yoga.md), [guhā](../terms/guha.md), [dhīra](../terms/dhira.md) · practices: [Yoga of the inner self (Kaṭha)](../practices/adhyatma-yoga.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
 
 ### 1.2.14 <a id="tea-katha-upanisad-1-2-14"></a>
 `skeleton` · confidence high
@@ -162,7 +162,7 @@ Smaller than the small, greater than the great, the self is set in the cave of t
 
 _level: ultimate · standpoint: seeker · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [aṇu / aṇīyān](../terms/anu.md), [guhā](../terms/guha.md), [prasāda](../terms/prasada.md) · concepts: [Divine grace (prasāda)](../concepts/grace.md) · obstacles: [Sorrow (śoka)](../obstacles/soka.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
+terms: [aṇu / aṇīyān](../terms/anu.md), [guhā](../terms/guha.md), [prasāda](../terms/prasada.md) · concepts: [Divine grace (prasāda)](../concepts/grace.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
 
 ### 1.2.21-22 <a id="tea-katha-upanisad-1-2-21-22"></a>
 `skeleton` · confidence high
@@ -171,7 +171,7 @@ Sitting, he travels far; lying, he goes everywhere; who but I can know that god 
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate_
 
-obstacles: [Sorrow (śoka)](../obstacles/soka.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
+obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
 
 ### 1.2.23 <a id="tea-katha-upanisad-1-2-23"></a>
 `skeleton` · confidence high
@@ -247,7 +247,7 @@ The wise one should restrain speech in the mind, restrain that in the self that 
 
 _level: bridging · standpoint: seeker · path: meditation · stage: advanced · types: practice_
 
-terms: [mahat](../terms/mahat.md) · practices: [Yoga of the inner self (Kaṭha)](../practices/adhyatma-yoga.md), [Sense-withdrawal (pratyāhāra)](../practices/pratyahara.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
+terms: [mahat](../terms/mahat.md) · practices: [Yoga of the inner self (Kaṭha)](../practices/adhyatma-yoga.md), [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
 
 ### 1.3.14 <a id="tea-katha-upanisad-1-3-14"></a>
 `skeleton` · confidence high
@@ -287,7 +287,7 @@ The self-existent pierced the openings outward; therefore one looks outward, not
 
 _level: bridging · standpoint: seeker · path: meditation · stage: advanced · types: practice, consciousness-mind_
 
-terms: [dhīra](../terms/dhira.md), [amṛtatva / amṛta](../terms/amrtatva.md) · practices: [Sense-withdrawal (pratyāhāra)](../practices/pratyahara.md), [Yoga of the inner self (Kaṭha)](../practices/adhyatma-yoga.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
+terms: [dhīra](../terms/dhira.md), [amṛtatva](../terms/amrtatva.md) · practices: [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md), [Yoga of the inner self (Kaṭha)](../practices/adhyatma-yoga.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
 
 ### 2.1.2 <a id="tea-katha-upanisad-2-1-2"></a>
 `skeleton` · confidence high
@@ -305,7 +305,7 @@ That by which one perceives both dream and waking — knowing it as the great, a
 
 _level: ultimate · standpoint: seeker · path: knowledge · stage: advanced · types: consciousness-mind, ultimate_
 
-concepts: [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md), [The witness (sākṣin)](../concepts/saksin.md) · obstacles: [Sorrow (śoka)](../obstacles/soka.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
+concepts: [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md), [The witness (sākṣin)](../concepts/saksin.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
 
 ### 2.1.5 <a id="tea-katha-upanisad-2-1-5"></a>
 `skeleton` · confidence high
@@ -350,7 +350,7 @@ The city of eleven gates belongs to the unborn one whose thought is not crooked;
 
 _level: bridging · standpoint: seeker · path: meditation · stage: intermediate · types: body-layers, karma-liberation_
 
-obstacles: [Sorrow (śoka)](../obstacles/soka.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
+obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
 
 ### 2.2.2 <a id="tea-katha-upanisad-2-2-2"></a>
 `skeleton` · confidence high
@@ -464,7 +464,7 @@ When the five senses of knowledge stand still together with the mind, and the in
 
 _level: bridging · standpoint: seeker · path: meditation · stage: advanced · types: practice, consciousness-mind_
 
-terms: [yoga](../terms/yoga.md), [dhāraṇā](../terms/dharana.md), [buddhi](../terms/buddhi.md), [manas](../terms/manas.md) · practices: [Yoga of the inner self (Kaṭha)](../practices/adhyatma-yoga.md), [Concentration (dhāraṇā)](../practices/dharana.md), [Sense-withdrawal (pratyāhāra)](../practices/pratyahara.md) · obstacles: [Heedlessness (pramāda)](../obstacles/pramada.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
+terms: [yoga](../terms/yoga.md), [dhāraṇā](../terms/dharana.md), [buddhi](../terms/buddhi.md), [manas](../terms/manas.md) · practices: [Yoga of the inner self (Kaṭha)](../practices/adhyatma-yoga.md), [Concentration (dhāraṇā)](../practices/dharana.md), [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md) · obstacles: [Heedlessness (pramāda)](../obstacles/pramada.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
 
 ### 2.3.12-13 <a id="tea-katha-upanisad-2-3-12-13"></a>
 `skeleton` · confidence high
@@ -482,7 +482,7 @@ When all the desires that dwell in one's heart are released, then the mortal bec
 
 _level: bridging · standpoint: experiential · path: knowledge · stage: realized · types: karma-liberation_
 
-terms: [hṛdayagranthi](../terms/hrdaya-granthi.md), [kāma](../terms/kama.md), [amṛtatva / amṛta](../terms/amrtatva.md) · concepts: [Liberation while living (jīvanmukti)](../concepts/jivanmukti.md), [Liberation (mokṣa) in Dvaita](../concepts/moksa.md) · obstacles: [The knots of the heart](../obstacles/hrdaya-granthi.md), [Desire (kāma)](../obstacles/kama.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
+terms: [hṛdayagranthi](../terms/hrdaya-granthi.md), [kāma](../terms/kama.md), [amṛtatva](../terms/amrtatva.md) · concepts: [Liberation while living (jīvanmukti)](../concepts/jivanmukti.md), [Liberation (mokṣa) in Dvaita](../concepts/moksa.md) · obstacles: [The knots of the heart](../obstacles/hrdaya-granthi.md), [Desire (kāma)](../obstacles/kama.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
 
 ### 2.3.16 <a id="tea-katha-upanisad-2-3-16"></a>
 `skeleton` · confidence high
@@ -515,4 +515,4 @@ terms: [yoga](../terms/yoga.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.m
 _Notes: The Naciketas story has an older ritual form in Taittirīya Brāhmaṇa 3.11.8 (moderate confidence on the ref). Veda affiliation: Black Yajurveda, Katha śākhā_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
