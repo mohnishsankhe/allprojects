@@ -31,6 +31,14 @@ def norm(s):
     return s
 
 
+def iast_of(s):
+    try:
+        from indic_transliteration import sanscript
+        return sanscript.transliterate(s, sanscript.DEVANAGARI, sanscript.IAST)
+    except Exception:
+        return ""
+
+
 def build():
     rows = []
     for f in glob.glob(os.path.join(RAW, "dcs", "corpus", "GRETIL", "sa_*.txt")):
@@ -72,6 +80,36 @@ def build():
         except Exception:
             t = os.path.basename(f)
         rows.append({"coll": "CBETA", "key": os.path.basename(f)[:-4], "title": t, "path": os.path.relpath(f, ROOT)})
+    # Tibetan canon (Esukhia digital Derge Kangyur/Tengyur): Tōhoku number, Sanskrit title (as transliterated in Tibetan
+    # script, converted to Wylie) and Tibetan title (Wylie). Built by the orchestrator into sources_raw/tibetan_canon_titles.json.
+    tpath = os.path.join(RAW, "tibetan_canon_titles.json")
+    if os.path.exists(tpath):
+        try:
+            import pyewts
+            conv = pyewts.pyewts().toWylie
+        except Exception:
+            conv = lambda x: x
+        for o in json.load(open(tpath, encoding="utf-8")):
+            skt, tib = conv(o.get("skt", "")).replace("_", " "), conv(o.get("tib", "")).replace("_", " ")
+            rows.append({"coll": "Derge-" + ("Tengyur" if "tengyur" in o["coll"] else "Kangyur"), "key": o["toh"],
+                         "title": (skt + " | " + tib).strip(" |"), "path": os.path.relpath(os.path.join(RAW, o["file"]), ROOT)})
+    # Digambara Jain root texts in the nikkyjain.github.io repository (directory names: "<title>--<author>")
+    nj = os.path.join(RAW, "nikkyjain")
+    if os.path.isdir(os.path.join(nj, ".git")):
+        import subprocess
+        try:
+            out = subprocess.run(["git", "-C", nj, "-c", "core.quotepath=off", "ls-tree", "-d", "-r", "--name-only", "HEAD", "jainDataBase/shastra"],
+                                 capture_output=True, text=True, timeout=60).stdout.split("\n")
+        except Exception:
+            out = []
+        for d in out:
+            parts = d.split("/")
+            if len(parts) == 4 and re.match(r"\d\d_", parts[3]):
+                name = parts[3][3:]
+                title, _, author = name.partition("--")
+                t = title.replace("-", " ")
+                rows.append({"coll": "JainDB", "key": name, "title": t + " " + iast_of(t) + (" | " + author.replace("-", " ") + " " + iast_of(author.replace("-", " ")) if author else ""),
+                             "path": os.path.relpath(os.path.join(nj, d), ROOT), "context": parts[2]})
     with open(INDEX, "w", encoding="utf-8") as fh:
         for r in rows:
             r["n"] = norm(r["title"] + " " + r.get("context", ""))

@@ -7,3 +7,4 @@
 - 2026-09-28 07:03 IST — Limit reset. Resumed U19, U10, U07, U08, U20, U15, U06, U05, U11 with context intact. Merged, built atlas (1,398 pages), wrote MORNING_REPORT.md.
 - 2026-09-28 07:36 IST — U05 reported one read-only `git remote -v` inside two sources_raw/ clones (to record corpus URLs); nothing modified, outside the committed tree. Noted, no action needed.
 - 2026-09-28 07:55 IST — Phase D started: Gītā ch01-03 extractors A and B launched (independent). U03, U17 skeleton done; U25, U26 launched.
+- 2026-09-28 08:06 IST — Prepared verse-level MMK (448), Aṣṭāvakra (298), Pratyabhijñāhṛdayam (20+intro), Avadhūta Gītā (275; 5 gaps), Tattvārtha Sūtra (357, Digambara; nikkyjain Jain DB via git), Tilopa Gaṅgāmā + Saraha's three Dohās (Derge Tengyur, Tibetan + Wylie via pyewts). Catalogue extended with 4,496 Derge Kangyur/Tengyur titles and the Digambara Jain DB titles (30,483 items).

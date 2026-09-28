@@ -560,7 +560,108 @@ def heart_diamond():
         "licence": "Root text public domain; GRETIL CC BY-NC-SA 4.0", "unit": "one segment per sentence (daṇḍa-delimited)", "chunks": [["all"]]})
 
 
-HANDLERS = {"bhagavad-gita": bhagavad_gita, "yoga-sutra": yoga_sutra, "pali": pali_suttas, "upanisads": upanisads, "mandukya": mandukya, "kashmir_samkhya": kashmir_and_samkhya, "hatha_gitas": hatha_and_gitas, "mmk_astavakra": buddhist_and_advaita_gitas, "pratyabhijnahrdaya": pratyabhijnahrdaya, "avadhuta": avadhuta_gita, "platform": platform_sutra, "heart_diamond": heart_diamond}
+def tibetan_canon_text(toh, slug, source_id, title_note, lines_per_stanza=4, coll="derge-tengyur"):
+    """A text of the Esukhia digital Derge Tengyur/Kangyur (public domain) by Tohoku number: the title/homage block,
+    then stanzas of `lines_per_stanza` verse lines (a line ends with a shad), then the colophon. Each segment keeps the
+    Derge folio.line where it starts, the Tibetan and a Wylie transliteration (pyewts)."""
+    import glob as _g
+    import pyewts
+    conv = pyewts.pyewts()
+    fn = next(f for f in sorted(_g.glob(os.path.join(RAW, coll, "text", "*.txt"))) if "{" + toh + "}" in open(f, encoding="utf-8").read())
+    t = open(fn, encoding="utf-8").read()
+    i = t.index("{" + toh + "}") + len(toh) + 2
+    m = re.search(r"\{D\d+[a-z]?\}", t[i:])
+    body = t[i: i + m.start()] if m else t[i:]
+    # tokens: folio markers and text
+    prev_marks = re.findall(r"\[([0-9a-z]+\.[0-9]+)\]", t[:i])
+    folio, lines, cur, cur_folio = (prev_marks[-1] if prev_marks else None), [], "", None
+    for tok in re.split(r"(\[[0-9a-z.x]+\])", body.replace("\n", "")):
+        if re.fullmatch(r"\[[0-9a-z.x]+\]", tok):
+            if "." in tok:
+                folio = tok[1:-1]
+            continue
+        for piece in re.split(r"(།+\s*།?)", tok.replace("#", "")):
+            if not piece:
+                continue
+            if cur_folio is None and piece.strip():
+                cur_folio = folio
+            cur += piece
+            if re.fullmatch(r"།+\s*།?", piece):
+                if cur.strip(" །"):
+                    lines.append((cur_folio, cur.strip()))
+                cur, cur_folio = "", None
+    if cur.strip(" །"):
+        lines.append((cur_folio, cur.strip()))
+    # title/homage: everything up to and including the homage line (ends with 'ཕྱག་འཚལ་ལོ')
+    k = 0
+    for n, (_, ln) in enumerate(lines[:8]):
+        if "ཕྱག་འཚལ་ལོ" in ln:
+            k = n + 1
+    head, rest = lines[:k], lines[k:]
+    # colophon: from the line containing 'རྫོགས་སོ' (text end) — keep the final line(s) that name the author/translation
+    c = next((n for n in range(len(rest) - 1, -1, -1) if "རྫོགས" in rest[n][1]), None)
+    colo, rest = (rest[c:], rest[:c]) if c is not None else ([], rest)
+    # the author-statement line just before 'rdzogs so' belongs to the colophon when it names the author
+    if rest and re.search(r"མཛད་པ|གསུངས་པ", rest[-1][1]) and not colo:
+        colo, rest = [rest[-1]], rest[:-1]
+    segs = []
+    def mk(ref, grp, note=None):
+        tib = " ".join(x[1] for x in grp)
+        sg = {"ref": ref, "chapter": None, "verse": ref, "folio": grp[0][0] if grp else None, "tib": tib, "wylie": conv.toWylie(tib).replace("_", " ")}
+        if note:
+            sg["note"] = note
+        return sg
+    if head:
+        segs.append(mk("title", head, "Sanskrit and Tibetan titles and homage"))
+    for n in range(0, len(rest), lines_per_stanza):
+        segs.append(mk(f"v{n // lines_per_stanza + 1}", rest[n:n + lines_per_stanza]))
+    if colo:
+        segs.append(mk("colophon", colo))
+    nst = len(rest) // lines_per_stanza + (1 if len(rest) % lines_per_stanza else 0)
+    write(slug, segs, {"source": source_id, "edition": f"Derge Tengyur/Kangyur, Tōhoku {toh}, digital edition by Esukhia and Barom Theksum Choling (github.com/Esukhia/{coll}), file {os.path.basename(fn)}",
+          "licence": "Public domain (mechanical reproduction of a public-domain work, per the repository)",
+          "language": "Classical Tibetan (translation from Sanskrit/Apabhraṃśa)", "script": "Tibetan (Unicode) with Wylie",
+          "unit": f"stanzas of {lines_per_stanza} verse lines numbered v1…v{nst} in order (a mechanical grouping — the ontology's refs are 'v<N>' plus the Derge folio.line). Where a sense unit crosses a stanza boundary, the extractor says so in notes; the original is in Tibetan translation, so paraphrases must say 'the Tibetan reads …' where the wording matters. " + title_note,
+          "chunks": [["title"] + [f"v{i}" for i in range(1, nst + 1)] + ["colophon"]] if nst <= 60 else [[f"v{i}" for i in range(a, min(a + 50, nst + 1))] for a in range(1, nst + 1, 50)]})
+
+
+def tibetan_core():
+    tibetan_canon_text("D2303", "tilopa-mahamudropadesa", "src:ganga-mahamudra", "Tilopa's Mahāmudrā instruction given to Nāropa on the bank of the Gaṅgā (colophon), the 'Gaṅgāmā'.")
+    tibetan_canon_text("D2224", "saraha-dohakosa-people", "src:dohakosa-saraha", "Saraha's Dohākoṣagīti (the 'People Dohā'), Tibetan translation.")
+    tibetan_canon_text("D2263", "saraha-dohakosa-king", "src:dohakosa-king-saraha", "Saraha's Dohākoṣa-nāma-caryāgīti (the 'King Dohā').")
+    tibetan_canon_text("D2264", "saraha-dohakosa-queen", "src:dohakosa-queen-saraha", "Saraha's Dohākoṣa-upadeśagīti (the 'Queen Dohā').")
+
+
+def tattvartha_sutra():
+    """Umāsvāti/Umāsvāmin's Tattvārthasūtra, Digambara recension (the text Pūjyapāda comments on in the Sarvārthasiddhi),
+    root sūtras only, from the nikkyjain.github.io Jain database (GitHub). One page per sūtra: <div class=gatha>…॥N॥</div>.
+    The site's modern Hindi/English renderings and the commentaries are NOT stored."""
+    import glob as _g, html as _h
+    d = os.path.join(RAW, "nikkyjain", "jainDataBase", "shastra", "01_द्रव्यानुयोग", "13_तत्त्वार्थसूत्र--आचार्य-उमास्वामी", "html")
+    segs = []
+    for fn in sorted(_g.glob(os.path.join(d, "[0-9][0-9]-[0-9][0-9]*.html"))):
+        chap = str(int(os.path.basename(fn)[:2]))
+        t = open(fn, encoding="utf-8").read()
+        for g in re.findall(r"<div class=gatha>(.*?)</div>", t, flags=re.S):
+            txt = _h.unescape(re.sub(r"<[^>]+>", " ", g)).replace("\ufeff", "")
+            m = re.search(r"॥\s*([0-9०-९]+)\s*॥", txt)
+            if not m:
+                continue
+            n = m.group(1).translate(DEV_DIGITS)
+            sutra = re.sub(r"\s+", " ", txt[: m.start()]).strip()
+            sutra = re.sub(r"(?<=[\u0900-\u097F]):", "ः", sutra)  # the site types visarga as ':' 
+            segs.append({"ref": f"{chap}.{n}", "chapter": chap, "verse": n, "deva": sutra, "iast": iast(sutra)})
+    seen, out = set(), []
+    for sg in segs:
+        if sg["ref"] not in seen:
+            seen.add(sg["ref"]); out.append(sg)
+    write("tattvartha-sutra", out, {"source": "src:tattvartha-sutra", "edition": "Tattvārthasūtra, Digambara recension (as commented in Pūjyapāda's Sarvārthasiddhi and Akalaṅka's Rājavārttika), root sūtras from the Jain database at github.com/nikkyjain/nikkyjain.github.io (jainDataBase/shastra/01_द्रव्यानुयोग/13_तत्त्वार्थसूत्र--आचार्य-उमास्वामी)",
+          "licence": "Root text public domain (c. 2nd–5th c. CE). The site's modern Hindi/English renderings and commentary translations are not used or stored.",
+          "recension_note": "The Śvetāmbara recension (with the Svopajña-bhāṣya) differs in the number and wording of some sūtras (Digambara 357 vs Śvetāmbara 344 in the usual counts) and in their numbering within chapters; refs here follow the Digambara numbering. Where a teaching depends on a reading the two recensions do not share, the extractor must say so.",
+          "chunks": [["1", "2", "3"], ["4", "5", "6"], ["7", "8"], ["9", "10"]]})
+
+
+HANDLERS = {"bhagavad-gita": bhagavad_gita, "yoga-sutra": yoga_sutra, "pali": pali_suttas, "upanisads": upanisads, "mandukya": mandukya, "kashmir_samkhya": kashmir_and_samkhya, "hatha_gitas": hatha_and_gitas, "mmk_astavakra": buddhist_and_advaita_gitas, "pratyabhijnahrdaya": pratyabhijnahrdaya, "tibetan": tibetan_core, "tattvartha": tattvartha_sutra, "avadhuta": avadhuta_gita, "platform": platform_sutra, "heart_diamond": heart_diamond}
 
 if __name__ == "__main__":
     if len(sys.argv) < 2 or sys.argv[1] == "list":

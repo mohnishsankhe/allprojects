@@ -147,7 +147,7 @@ East Asian: src:two-entrances-four-practices src:xinxin-ming src:platform-sutra 
 src:congrong-lu src:ten-oxherding-pictures src:shobogenzo src:fukanzazengi src:genjokoan src:yasenkanna src:sandokai
 src:susim-kyol
 Vajrayāna/Tibetan: src:guhyasamaja-tantra src:hevajra-tantra src:cakrasamvara-tantra src:kalacakra-tantra src:vimalaprabha
-src:manjusrinamasamgiti src:mahavairocana-sutra src:vajrasekhara-sutra src:caturasiti-siddha-pravrtti src:dohakosa-saraha
+src:manjusrinamasamgiti src:mahavairocana-sutra src:vajrasekhara-sutra src:caturasiti-siddha-pravrtti src:dohakosa-saraha (People Dohā, Tōh 2224) src:dohakosa-king-saraha (Tōh 2263) src:dohakosa-queen-saraha (Tōh 2264)
 src:caryagiti src:ganga-mahamudra src:kunjed-gyalpo src:seventeen-tantras src:seven-treasuries src:ngalso-korsum
 src:longchen-nyingthig src:yeshe-lama src:kunzang-lamai-shelung src:bardo-thodol src:six-yogas-of-naropa
 src:milarepa-gurbum src:jewel-ornament-of-liberation src:moonbeams-of-mahamudra src:lamdre src:parting-from-four-attachments
