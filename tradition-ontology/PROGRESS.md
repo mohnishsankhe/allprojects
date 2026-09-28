@@ -16,7 +16,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U01-vedic-samhitas | done | 70 src · 91 tch · 290 tea (65 originals) · 232 trm · 68 cpt · 43 prc · 13 dsp | report saved |
 | U02-brahmana-vedanga | done | 164 src · 89 tch · 288 tea (~190 spot-checked) · 157 trm · 89 cpt · 47 prc · 11 dsp | report saved |
 | U03-principal-upanisads | done | 17 src · 85 tch · 446 tea (345 ref-spot-checked) · 165 trm · 72 cpt · 57 prc · 5 dsp | report saved |
-| U04-minor-upanisads | running | | |
+| U04-minor-upanisads | done | 115 src (all 95 non-principal Muktikā texts) · 57 tch · 524 tea · 156 trm · 80 cpt · 51 prc · 19 pth · 9 dsp | report saved |
 | U05-gita-epic | done | 98 src · 102 tch · 487 tea (325 Gītā, all 18 ch.; 91 originals letter-checked) · 184 trm · 62 cpt · 41 prc · 12 dsp · 4 pth | report saved |
 | U06-other-gitas | done | 78 src · 54 tch · 301 tea · 95 trm · 34 cpt · 39 prc · 3 pth · 4 dsp | report saved |
 | U07-puranas | done | 58 src · 45 tch · 208 tea · 173 trm · 65 cpt · 35 prc · 13 obs · 8 pth · 8 dsp | report saved |
@@ -41,7 +41,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U26-regional-bhakti | running | | |
 | U27-sant-baul | running | | |
 | U28-hatha-texts | running | | |
-| U29-hatha-practices | queued | | |
+| U29-hatha-practices | running | | |
 | U30-ayurveda-rasa | queued | | |
 | U31-sound-arts | queued | | |
 | U32-jyotisa | queued | | |
