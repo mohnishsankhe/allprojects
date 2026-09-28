@@ -80,6 +80,15 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U05-gita-epic | running |
 ## Gap hunter (after C)
 ## Phase D — Verified core
+| text | chunk | A | B | M | F | gates |
+|---|---|---|---|---|---|---|
+| bhagavad-gita | ch01-03 | running | running | | | |
+| bhagavad-gita | ch04-06 | | | | | |
+| bhagavad-gita | ch07-09 | | | | | |
+| bhagavad-gita | ch10-12 | | | | | |
+| bhagavad-gita | ch13-15 | | | | | |
+| bhagavad-gita | ch16-18 | | | | | |
+
 Prepared verse-level segments (sources_raw/prepared/, git-ignored) as of 2026-09-28 04:51 IST:
 - [x] bhagavad-gita (701 verses; gita/gita vulgate) — 6 chunks of 3 chapters
 - [x] yoga-sutra (195 sūtras + Vyāsa bhāṣya; GRETIL, Āgāśe ed.) — 4 chunks (pādas)

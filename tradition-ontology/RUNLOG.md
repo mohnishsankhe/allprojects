@@ -6,3 +6,4 @@
 - ~2026-09-28 05:00 IST — All 20 skeleton agents stopped: account usage ("session") limit reached (HTTP 429, reset 00:50 UTC = 06:20 IST). Partial shards kept on disk (≈1,800 entries, 19 units, all validating).
 - 2026-09-28 07:03 IST — Limit reset. Resumed U19, U10, U07, U08, U20, U15, U06, U05, U11 with context intact. Merged, built atlas (1,398 pages), wrote MORNING_REPORT.md.
 - 2026-09-28 07:36 IST — U05 reported one read-only `git remote -v` inside two sources_raw/ clones (to record corpus URLs); nothing modified, outside the committed tree. Noted, no action needed.
+- 2026-09-28 07:55 IST — Phase D started: Gītā ch01-03 extractors A and B launched (independent). U03, U17 skeleton done; U25, U26 launched.
