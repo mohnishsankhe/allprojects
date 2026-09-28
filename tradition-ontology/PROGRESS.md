@@ -34,7 +34,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U19-kashmir-saivism | done | 89 src · 45 tch · 352 tea (all 77 ŚS, 20 PH, 112 VBT dhāraṇās) · 144 trm · 46 cpt · 137 prc · 6 dsp | report saved |
 | U20-virasaiva | done | 75 src · 78 tch · 157 tea (57 with exact SSM verse) · 119 trm · 43 cpt · 23 prc · 10 dsp | report saved |
 | U21-natha-aghora | running | | |
-| U22-tamil-siddha | running | | |
+| U22-tamil-siddha | done | 2 lin · 47 src · 37 tch · 157 tea (124 with originals from local e-texts) · 98 trm · 60 cpt · 26 prc · 6 dsp | report saved |
 | U23-sakta-srividya | running | | |
 | U24-kali-kaula | running | | |
 | U25-alvar-bhakti-theory | running | | |
@@ -43,7 +43,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U28-hatha-texts | running | | |
 | U29-hatha-practices | running | | |
 | U30-ayurveda-rasa | running | | |
-| U31-sound-arts | queued | | |
+| U31-sound-arts | running | | |
 | U32-jyotisa | queued | | |
 | U33-sramana | queued | | |
 | U34-jain-canon | queued | | |
