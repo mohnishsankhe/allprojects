@@ -32,7 +32,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U17-pasupata-kapalika | running | | |
 | U18-saiva-siddhanta | running | | |
 | U19-kashmir-saivism | running | | |
-| U20-virasaiva | running | | |
+| U20-virasaiva | done | 75 src · 78 tch · 157 tea (57 with exact SSM verse) · 119 trm · 43 cpt · 23 prc · 10 dsp | report saved |
 | U21-natha-aghora | queued | | |
 | U22-tamil-siddha | queued | | |
 | U23-sakta-srividya | queued | | |
