@@ -1,4 +1,9 @@
 {
  "_note": "Orchestrator id corrections applied by scripts/merge.py when reading a unit's shard: {\"<phase>:<unit>\": {\"<old id>\": \"<new id>\"}}. Every string equal to the old id in that unit's entries is replaced. Used only for id clashes between units (two different things given one id); each remap is logged in DECISIONS.md.",
- "skeleton:U05-gita-epic": {"src:tatparyacandrika": "src:tatparyacandrika-desika"}
+ "skeleton:U05-gita-epic": {
+  "src:tatparyacandrika": "src:tatparyacandrika-desika"
+ },
+ "skeleton:U08-agama-catalogue": {
+  "tch:laksmidhara": "tch:lolla-laksmidhara"
+ }
 }

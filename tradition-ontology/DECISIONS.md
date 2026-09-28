@@ -28,3 +28,7 @@ Conservative choices made without asking, with reasons. Newest last.
 ## 2026-09-28 08:21 IST — extractor independence (shared scratchpad)
 - Gītā ch01-03: extractors A and B both used the session's shared scratchpad folder `bg/` for drafts, and B's part files overwrote A's p1/p2 drafts. A reports it saw only B's file names, line counts and first ids, never content, and rebuilt from its own private drafts; independence judged preserved (the merger's disagreement log will show whether the two readings are genuinely independent).
 - Fix for all later double extractions: each extractor drafts only in `shards/extraction/<slug>/<chunk>/_gen/<ROLE>/` (git-ignored) and is told never to use the shared scratchpad or any other role's folder.
+
+## 2026-09-28 08:43 IST — homonym tch:laksmidhara
+- U02 and U07 use `tch:laksmidhara` for Bhaṭṭa Lakṣmīdhara, minister of Govindacandra and author of the Kṛtyakalpataru (12th c.); U08 used it for the Saundaryalaharī commentator; U23 created `tch:lolla-laksmidhara` for the commentator (Bhāskararāya calls him "Lalla").
+- Conservative choice: the bare id stays with the Kṛtyakalpataru author (two units, and the registry-style dharmaśāstra use); U08's use is remapped to `tch:lolla-laksmidhara` via `config/id_remap.json` (all three U08 entries that mention it — src:laksmidhara, tch:laksmidhara, tea:laksmidhara:31 — refer to the commentator). The commentary itself keeps the id `src:laksmidhara`.
