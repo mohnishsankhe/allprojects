@@ -32,3 +32,7 @@ Conservative choices made without asking, with reasons. Newest last.
 ## 2026-09-28 08:43 IST — homonym tch:laksmidhara
 - U02 and U07 use `tch:laksmidhara` for Bhaṭṭa Lakṣmīdhara, minister of Govindacandra and author of the Kṛtyakalpataru (12th c.); U08 used it for the Saundaryalaharī commentator; U23 created `tch:lolla-laksmidhara` for the commentator (Bhāskararāya calls him "Lalla").
 - Conservative choice: the bare id stays with the Kṛtyakalpataru author (two units, and the registry-style dharmaśāstra use); U08's use is remapped to `tch:lolla-laksmidhara` via `config/id_remap.json` (all three U08 entries that mention it — src:laksmidhara, tch:laksmidhara, tea:laksmidhara:31 — refer to the commentator). The commentary itself keeps the id `src:laksmidhara`.
+
+## 2026-09-28 08:44 IST — new sub-lineage lin:bhakti-sastra (U25)
+- U25 created `lin:bhakti-sastra` for the Nārada and Śāṇḍilya Bhakti Sūtras (the texts name a "bhakti-śāstra", NBS 76, and "bhaktyācāryas", NBS 83) plus Vopadeva's Muktāphala and Viṣṇupurī's Bhaktiratnāvalī. Parent `lin:bhagavata-early` on the tradition's account (Nārada and Śāṇḍilya as Bhāgavata/Pāñcarātra sages), not as a claim of historical continuity; this keeps convergence counts from treating the sūtras as an independent root. Accepted (conservative: it adds no independent root).
+- U25 also split Bhakti "hearing" (`prc:sravana-bhakti`) from Vedāntic hearing (`prc:sravana`), linked as analogous; and disambiguated `src:tiruppallantu-periyalvar` from U18's Śaiva `src:tiruppallantu`.
