@@ -21,7 +21,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U06-other-gitas | done | 78 src · 54 tch · 301 tea · 95 trm · 34 cpt · 39 prc · 3 pth · 4 dsp | report saved |
 | U07-puranas | done | 58 src · 45 tch · 208 tea · 173 trm · 65 cpt · 35 prc · 13 obs · 8 pth · 8 dsp | report saved |
 | U08-agama-catalogue | done | 125 src · 33 tch · 65 tea · 116 trm · 52 cpt · 29 prc · 7 dsp; +5 sub-lineages | report saved |
-| U09-samkhya | running | | |
+| U09-samkhya | done | 31 src · 41 tch · 218 tea (all 72+1 kārikās) · 142 trm · 49 cpt · 15 dsp · 2 pth | report saved |
 | U10-yoga | done | 19 src · 18 tch · 335 tea (all 195 sūtras + 120 bhāṣya) · 204 trm · 72 cpt · 34 prc · 27 obs · 6 pth · 9 dsp | report saved |
 | U11-nyaya-vaisesika | done | 58 src · 40 tch · 259 tea · 226 trm · 76 cpt · 19 new dsp · 2 pth | report saved |
 | U12-mimamsa | running | | |
