@@ -1,17 +1,18 @@
 # Nāgeśa Bhaṭṭa
 
-`tch:nagesa-bhatta` · `skeleton` · confidence moderate
+`tch:nagesa-bhatta` · `skeleton` · confidence high
 
 **Alternate names:** Nāgojī Bhaṭṭa, Nāgeśa
-**Lineages:** [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), `lin:vyakarana`
+**Lineages:** `lin:vyakarana`, [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md)
 **Dates:** Scholarly account: c. 1670–1750 CE; (confidence moderate)
 **Places:** Vārāṇasī
 **Historicity:** historical
 **Works:** 
+  - [Paribhāṣenduśekhara](../texts/paribhasendusekhara.md) — attribution: accepted
   - [Yogasūtravṛtti of Nāgeśa (Nāgojī) Bhaṭṭa](../texts/yogasutravrtti-nagesa.md) — attribution: accepted
   - [Laghusāṃkhyasūtravṛtti](../texts/laghu-samkhya-sutra-vrtti.md) — attribution: traditional
 
-Pāṇinian grammarian (Laghuśabdenduśekhara, Vaiyākaraṇasiddhāntamañjūṣā) who also wrote a vṛtti on the Yoga Sūtra.
+Last great Pāṇinian of the classical period; his philosophical works belong to lin:vyakarana (U31).
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U09-samkhya. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U10-yoga, skeleton:U09-samkhya. Generated 2026-09-28 08:09 IST._

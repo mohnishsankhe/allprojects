@@ -1,9 +1,33 @@
+{"kind": "id-remap", "unit": "skeleton:U05-gita-epic", "id": "src:tatparyacandrika", "new_id": "src:tatparyacandrika-desika", "table": "config/id_remap.json"}
+{"kind": "id-remap", "unit": "skeleton:U05-gita-epic", "id": "tch:vedanta-desika", "new_id": "tch:vedanta-desika", "table": "config/id_remap.json"}
+{"kind": "scalar", "id": "src:naradiya-siksa", "field": "genre", "kept": "śikṣā (phonetics)", "other": "śikṣā"}
+{"kind": "scalar", "id": "src:kausika-sutra", "field": "genre", "kept": "gṛhya/kalpa sūtra", "other": "gṛhyasūtra"}
+{"kind": "scalar", "id": "src:sarvanukramani", "field": "genre", "kept": "anukramaṇī (index)", "other": "anukramaṇī"}
+{"kind": "scalar", "id": "src:brhaddevata", "field": "genre", "kept": "anukramaṇī (deity treatise)", "other": "anukramaṇī"}
+{"kind": "scalar", "id": "src:caranavyuha", "field": "genre", "kept": "pariśiṣṭa (lists of śākhās)", "other": "pariśiṣṭa"}
+{"kind": "scalar", "id": "src:rgvidhana", "field": "genre", "kept": "vidhāna", "other": "vidhāna (applications)"}
+{"kind": "scalar", "id": "src:vikrtivalli", "field": "genre", "kept": "śikṣā (recitation)", "other": "śikṣā"}
+{"kind": "scalar", "id": "src:vikrtivalli", "field": "availability", "kept": "digitized-original", "other": "unknown"}
+{"kind": "scalar", "id": "src:paniniya-siksa", "field": "genre", "kept": "śikṣā", "other": "śikṣā (phonetics)"}
 {"kind": "scalar", "id": "src:rgbhasya-madhva", "field": "title", "kept": "Ṛgbhāṣya (Madhva)", "other": "Ṛgbhāṣya (Madhva on Ṛgveda 1.1–40)"}
 {"kind": "scalar", "id": "src:rgbhasya-madhva", "field": "genre", "kept": "bhāṣya (verse)", "other": "bhāṣya (commentary)"}
+{"kind": "scalar", "id": "src:mahanarayana-upanisad", "field": "location_in_parent", "kept": "Taittirīya Āraṇyaka book 10", "other": "TA 10"}
+{"kind": "scalar", "id": "src:pranagnihotra-upanisad", "field": "genre", "kept": "upaniṣad", "other": "upaniṣad (sāmānya-vedānta)"}
+{"kind": "scalar", "id": "src:vaikhanasa-srautasutra", "field": "genre", "kept": "sūtra (śrauta)", "other": "śrautasūtra"}
+{"kind": "scalar", "id": "src:vaikhanasa-srautasutra", "field": "availability", "kept": "unknown", "other": "digitized-original"}
+{"kind": "scalar", "id": "src:vaikhanasa-dharmasutra", "field": "genre", "kept": "sūtra (dharma)", "other": "dharmasūtra"}
+{"kind": "scalar", "id": "src:vaijayanti", "field": "title", "kept": "Vaijayantī of Nandapaṇḍita", "other": "Vaijayantī (lexicon)"}
+{"kind": "scalar", "id": "src:vaijayanti", "field": "genre", "kept": "ṭīkā", "other": "kośa"}
+{"kind": "scalar", "id": "src:krtyakalpataru", "field": "title", "kept": "Kṛtyakalpataru", "other": "Kṛtyakalpataru of Lakṣmīdhara"}
+{"kind": "scalar", "id": "src:krtyakalpataru", "field": "genre", "kept": "nibandha (digest)", "other": "nibandha"}
+{"kind": "scalar", "id": "src:krtyakalpataru", "field": "availability", "kept": "digitized-original", "other": "unknown"}
+{"kind": "scalar", "id": "src:caturvargacintamani", "field": "title", "kept": "Caturvargacintāmaṇi", "other": "Caturvargacintāmaṇi of Hemādri"}
+{"kind": "scalar", "id": "src:caturvargacintamani", "field": "genre", "kept": "nibandha (digest)", "other": "nibandha"}
+{"kind": "scalar", "id": "src:yatidharmasamuccaya", "field": "genre", "kept": "nibandha (yatidharma)", "other": "dharma digest (yatidharma)"}
 {"kind": "scalar", "id": "src:harivamsa", "field": "genre", "kept": "khila (supplement) / purāṇa-like", "other": "itihāsa/purāṇa"}
 {"kind": "scalar", "id": "src:harivamsa", "field": "location_in_parent", "kept": "Supplement (khila) appended to the Mahābhārata; critical edition in 118 chapters with appendices", "other": "khila (appendix) of the Mahābhārata"}
-{"kind": "scalar", "id": "src:pingala-gita", "field": "genre", "kept": "dialogue within the Mokṣadharma", "other": "gītā"}
-{"kind": "scalar", "id": "src:pingala-gita", "field": "location_in_parent", "kept": "Śāntiparvan 12.168 (Critical Edition)", "other": "Mahābhārata 12.168.46-52 (critical ed.; verified)"}
+{"kind": "scalar", "id": "src:pingala-gita", "field": "genre", "kept": "gītā", "other": "dialogue within the Mokṣadharma"}
+{"kind": "scalar", "id": "src:pingala-gita", "field": "location_in_parent", "kept": "Mahābhārata 12.168.46-52 (critical ed.; verified)", "other": "Śāntiparvan 12.168 (Critical Edition)"}
 {"kind": "scalar", "id": "src:manki-gita", "field": "genre", "kept": "dialogue within the Mokṣadharma", "other": "gītā"}
 {"kind": "scalar", "id": "src:manki-gita", "field": "location_in_parent", "kept": "Śāntiparvan 12.171 (Critical Edition)", "other": "Mahābhārata 12.171.1-56 (critical ed.; verified)"}
 {"kind": "scalar", "id": "src:vicakhnu-gita", "field": "genre", "kept": "gītā", "other": "dialogue within the Mokṣadharma"}
@@ -16,6 +40,9 @@
 {"kind": "scalar", "id": "src:vyadha-gita", "field": "genre", "kept": "dialogue", "other": "gītā"}
 {"kind": "scalar", "id": "src:vyadha-gita", "field": "part_of", "kept": "src:markandeya-samasya", "other": "src:mahabharata"}
 {"kind": "scalar", "id": "src:vyadha-gita", "field": "location_in_parent", "kept": "Āraṇyakaparvan 3.196–206 (Critical Edition)", "other": "Mahābhārata 3.198-206 (critical ed.; verified)"}
+{"kind": "scalar", "id": "src:gita-bhasya-sankara", "field": "title", "kept": "Gītābhāṣya of Śaṅkara", "other": "Bhagavadgītābhāṣya of Śaṅkara"}
+{"kind": "scalar", "id": "src:gita-bhasya-sankara", "field": "genre", "kept": "commentary (bhāṣya/ṭīkā)", "other": "bhāṣya"}
+{"kind": "scalar", "id": "src:gita-bhasya-ramanuja", "field": "genre", "kept": "commentary (bhāṣya/ṭīkā)", "other": "bhāṣya"}
 {"kind": "scalar", "id": "src:gita-bhasya-madhva", "field": "title", "kept": "Gītābhāṣya (Madhva)", "other": "Gītābhāṣya of Madhva"}
 {"kind": "scalar", "id": "src:gita-bhasya-madhva", "field": "title_original", "kept": "गीताभाष्यम्", "other": "गीताभाष्य"}
 {"kind": "scalar", "id": "src:gita-bhasya-madhva", "field": "genre", "kept": "bhāṣya", "other": "commentary (bhāṣya/ṭīkā)"}
@@ -27,10 +54,12 @@
 {"kind": "scalar", "id": "src:prameyadipika", "field": "availability", "kept": "digitized-original", "other": "unknown"}
 {"kind": "scalar", "id": "src:nyayadipika-jayatirtha", "field": "title", "kept": "Nyāyadīpikā of Jayatīrtha (on the Gītātātparyanirṇaya)", "other": "Nyāyadīpikā (Jayatīrtha)"}
 {"kind": "scalar", "id": "src:nyayadipika-jayatirtha", "field": "genre", "kept": "commentary (bhāṣya/ṭīkā)", "other": "ṭīkā"}
-{"kind": "scalar", "id": "src:tatparyacandrika", "field": "title", "kept": "Tātparyacandrikā of Vedānta Deśika", "other": "Tātparyacandrikā"}
-{"kind": "scalar", "id": "src:tatparyacandrika", "field": "genre", "kept": "commentary (bhāṣya/ṭīkā)", "other": "ṭīkā (comparative)"}
-{"kind": "scalar", "id": "src:tatparyacandrika", "field": "commentary_on", "kept": "src:gita-bhasya-ramanuja", "other": "src:tattvaprakasika"}
-{"kind": "scalar", "id": "src:tatparyacandrika", "field": "availability", "kept": "digitized-original", "other": "unknown"}
+{"kind": "scalar", "id": "src:tatparyacandrika-desika", "field": "title", "kept": "Tātparyacandrikā (of Vedānta Deśika)", "other": "Tātparyacandrikā of Vedānta Deśika"}
+{"kind": "scalar", "id": "src:tatparyacandrika-desika", "field": "genre", "kept": "ṭīkā", "other": "commentary (bhāṣya/ṭīkā)"}
+{"kind": "scalar", "id": "src:gudharthadipika", "field": "title", "kept": "Gūḍhārthadīpikā", "other": "Gūḍhārthadīpikā of Madhusūdana Sarasvatī"}
+{"kind": "scalar", "id": "src:gudharthadipika", "field": "genre", "kept": "bhāṣya", "other": "commentary (bhāṣya/ṭīkā)"}
+{"kind": "scalar", "id": "src:gita-bhasya-bhaskara", "field": "title", "kept": "Gītābhāṣya of Bhāskara", "other": "Bhāskara's commentary on the Bhagavad Gītā"}
+{"kind": "scalar", "id": "src:gita-bhusana", "field": "title", "kept": "Gītābhūṣaṇa of Baladeva Vidyābhūṣaṇa", "other": "Gītābhūṣaṇa"}
 {"kind": "scalar", "id": "src:mahabharata-tatparya-nirnaya", "field": "title", "kept": "Mahābhārata-tātparya-nirṇaya", "other": "Mahābhāratatātparyanirṇaya of Madhva"}
 {"kind": "scalar", "id": "src:mahabharata-tatparya-nirnaya", "field": "title_original", "kept": "महाभारततात्पर्यनिर्णयः", "other": "महाभारततात्पर्यनिर्णय"}
 {"kind": "scalar", "id": "src:mahabharata-tatparya-nirnaya", "field": "genre", "kept": "tātparya-nirṇaya (verse narrative and doctrine)", "other": "commentary (bhāṣya/ṭīkā)"}
@@ -39,6 +68,8 @@
 {"kind": "scalar", "id": "src:suta-samhita", "field": "availability", "kept": "unknown", "other": "digitized-original"}
 {"kind": "scalar", "id": "src:ganesa-purana", "field": "availability", "kept": "unknown", "other": "digitized-original"}
 {"kind": "scalar", "id": "src:mahabhagavata-purana", "field": "availability", "kept": "digitized-original", "other": "unknown"}
+{"kind": "scalar", "id": "src:bhavarthadipika", "field": "genre", "kept": "commentary", "other": "ṭīkā"}
+{"kind": "scalar", "id": "src:nisvasamukha", "field": "genre", "kept": "tantra", "other": "tantra (book of the Niśvāsatattvasaṃhitā)"}
 {"kind": "scalar", "id": "src:svacchanda-tantra", "field": "title", "kept": "Svacchandatantra (Svacchandabhairavatantra)", "other": "Svacchandatantra"}
 {"kind": "scalar", "id": "src:svacchanda-tantra", "field": "genre", "kept": "tantra (Mantrapīṭha)", "other": "tantra (Bhairava, Mantrapīṭha)"}
 {"kind": "scalar", "id": "src:netra-tantra", "field": "title", "kept": "Netratantra (Mṛtyujidbhaṭṭāraka)", "other": "Netratantra"}
@@ -49,31 +80,1128 @@
 {"kind": "scalar", "id": "src:tantrasadbhava", "field": "genre", "kept": "tantra (Trika-Kaula)", "other": "tantra (Vidyāpīṭha, Śakti tantra)"}
 {"kind": "scalar", "id": "src:tantrasadbhava", "field": "availability", "kept": "manuscript-only", "other": "unknown"}
 {"kind": "scalar", "id": "src:malinivijayottara-tantra", "field": "genre", "kept": "tantra (Vidyāpīṭha, Trika)", "other": "tantra (Vidyāpīṭha, Śakti tantra)"}
-{"kind": "scalar", "id": "tch:krsna", "field": "name", "kept": "Kṛṣṇa (Vāsudeva)", "other": "Kṛṣṇa"}
-{"kind": "scalar", "id": "tch:vyasa", "field": "name", "kept": "Vyāsa (Kṛṣṇa Dvaipāyana)", "other": "Vyāsa"}
-{"kind": "scalar", "id": "tch:vyasa", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
-{"kind": "scalar", "id": "tch:vyasa", "field": "name", "kept": "Vyāsa (Kṛṣṇa Dvaipāyana)", "other": "Vyāsa"}
-{"kind": "scalar", "id": "tch:vyasa", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
-{"kind": "scalar", "id": "tch:vyasa", "field": "name", "kept": "Vyāsa (Kṛṣṇa Dvaipāyana)", "other": "Vyāsa"}
-{"kind": "scalar", "id": "tch:vyasa", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
-{"kind": "scalar", "id": "tch:ugrasravas", "field": "name", "kept": "Ugraśravas Sauti", "other": "Ugraśravas"}
-{"kind": "scalar", "id": "tch:markandeya", "field": "historicity", "kept": "legendary", "other": "mythic"}
-{"kind": "scalar", "id": "tch:hanuman", "field": "historicity", "kept": "mythic", "other": "legendary"}
-{"kind": "scalar", "id": "tch:dharmavyadha", "field": "name", "kept": "The righteous meat-seller of Mithilā (dharmavyādha)", "other": "Dharmavyādha"}
-{"kind": "scalar", "id": "tch:bhrgu", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "src:kiranavrtti", "field": "genre", "kept": "vṛtti (commentary)", "other": "commentary"}
+{"kind": "scalar", "id": "src:kiranavrtti", "field": "availability", "kept": "digitized-original", "other": "unknown"}
+{"kind": "scalar", "id": "src:agamapramanya", "field": "genre", "kept": "prakaraṇa (polemical treatise)", "other": "śāstra (polemical treatise)"}
+{"kind": "scalar", "id": "src:kramadipika", "field": "genre", "kept": "commentary", "other": "ritual manual (paddhati)"}
+{"kind": "scalar", "id": "src:upavarsa-vrtti", "field": "title", "kept": "Upavarṣa's vṛtti (lost)", "other": "Vṛtti of Upavarṣa on the Mīmāṃsā (lost)"}
+{"kind": "scalar", "id": "src:bhavanaviveka", "field": "availability", "kept": "unknown", "other": "digitized-original"}
+{"kind": "scalar", "id": "src:vibhramaviveka", "field": "availability", "kept": "unknown", "other": "digitized-original"}
+{"kind": "scalar", "id": "src:dasasloki", "field": "title", "kept": "Daśaślokī (Siddhāntaratna; Vedāntakāmadhenu)", "other": "Daśaślokī"}
+{"kind": "scalar", "id": "src:dasasloki", "field": "genre", "kept": "prakaraṇa", "other": "stotra"}
+{"kind": "scalar", "id": "src:sankaradigvijaya", "field": "title", "kept": "Śaṅkaradigvijaya (Mādhavīya)", "other": "Śaṅkaradigvijaya"}
+{"kind": "scalar", "id": "src:sankaradigvijaya", "field": "genre", "kept": "carita", "other": "hagiographical mahākāvya"}
+{"kind": "scalar", "id": "src:sarvadarsanasangraha", "field": "title", "kept": "Sarvadarśanasaṃgraha", "other": "Sarvadarśanasaṅgraha"}
+{"kind": "scalar", "id": "src:sarvadarsanasangraha", "field": "availability", "kept": "digitized-original", "other": "unknown"}
+{"kind": "scalar", "id": "src:sarvadarsanasangraha", "field": "title", "kept": "Sarvadarśanasaṃgraha", "other": "Sarvadarśanasaṅgraha"}
+{"kind": "scalar", "id": "src:laghucandrika", "field": "genre", "kept": "ṭīkā (polemic)", "other": "ṭīkā"}
+{"kind": "scalar", "id": "src:laghucandrika", "field": "availability", "kept": "unknown", "other": "digitized-original"}
+{"kind": "scalar", "id": "tch:visvamitra", "field": "historicity", "kept": "legendary", "other": "semi-legendary"}
+{"kind": "scalar", "id": "tch:visvamitra", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:vamadeva", "field": "historicity", "kept": "legendary", "other": "semi-legendary"}
+{"kind": "scalar", "id": "tch:vamadeva", "field": "historicity", "kept": "legendary", "other": "historical"}
+{"kind": "scalar", "id": "tch:atri", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:atri", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:bharadvaja", "field": "historicity", "kept": "semi-legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:bharadvaja", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:bharadvaja", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:vasistha", "field": "historicity", "kept": "legendary", "other": "semi-legendary"}
 {"kind": "scalar", "id": "tch:vasistha", "field": "historicity", "kept": "legendary", "other": "mythic"}
-{"kind": "scalar", "id": "tch:asuri", "field": "historicity", "kept": "legendary", "other": "semi-legendary"}
+{"kind": "scalar", "id": "tch:agastya", "field": "name", "kept": "Agastya", "other": "Agastya (Akattiyar)"}
+{"kind": "scalar", "id": "tch:agastya", "field": "historicity", "kept": "legendary", "other": "semi-legendary"}
+{"kind": "scalar", "id": "tch:agastya", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:agastya", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:lopamudra", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:sunahsepa", "field": "name", "kept": "Śunaḥśepa", "other": "Śunaḥśepa Ājīgarti"}
+{"kind": "scalar", "id": "tch:parasara", "field": "historicity", "kept": "legendary", "other": "semi-legendary"}
+{"kind": "scalar", "id": "tch:parasara", "field": "historicity", "kept": "legendary", "other": "semi-legendary"}
+{"kind": "scalar", "id": "tch:kasyapa", "field": "name", "kept": "Kaśyapa", "other": "Kāśyapa"}
+{"kind": "scalar", "id": "tch:bhrgu", "field": "name", "kept": "Bhṛgu Vāruṇi", "other": "Bhṛgu"}
+{"kind": "scalar", "id": "tch:bhrgu", "field": "historicity", "kept": "mythic", "other": "legendary"}
+{"kind": "scalar", "id": "tch:bhrgu", "field": "name", "kept": "Bhṛgu Vāruṇi", "other": "Bhṛgu"}
+{"kind": "scalar", "id": "tch:bhrgu", "field": "historicity", "kept": "mythic", "other": "legendary"}
+{"kind": "scalar", "id": "tch:bhrgu", "field": "name", "kept": "Bhṛgu Vāruṇi", "other": "Bhṛgu"}
+{"kind": "scalar", "id": "tch:bhrgu", "field": "name", "kept": "Bhṛgu Vāruṇi", "other": "Bhṛgu"}
+{"kind": "scalar", "id": "tch:angiras", "field": "name", "kept": "Aṅgiras (teacher of Śaunaka)", "other": "Aṅgiras"}
+{"kind": "scalar", "id": "tch:angiras", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:manu-vaivasvata", "field": "name", "kept": "Manu Vaivasvata", "other": "Manu"}
+{"kind": "scalar", "id": "tch:narada", "field": "historicity", "kept": "mythic", "other": "legendary"}
+{"kind": "scalar", "id": "tch:narada", "field": "historicity", "kept": "mythic", "other": "legendary"}
+{"kind": "scalar", "id": "tch:vyasa", "field": "name", "kept": "Vyāsa (Kṛṣṇa Dvaipāyana)", "other": "Vyāsa (Veda-vyāsa)"}
+{"kind": "scalar", "id": "tch:vyasa", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:vyasa", "field": "name", "kept": "Vyāsa (Kṛṣṇa Dvaipāyana)", "other": "Vyāsa"}
+{"kind": "scalar", "id": "tch:vyasa", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:vyasa", "field": "name", "kept": "Vyāsa (Kṛṣṇa Dvaipāyana)", "other": "Vyāsa"}
+{"kind": "scalar", "id": "tch:vyasa", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:vyasa", "field": "name", "kept": "Vyāsa (Kṛṣṇa Dvaipāyana)", "other": "Vyāsa"}
+{"kind": "scalar", "id": "tch:vyasa", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:vyasa", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:vyasa", "field": "name", "kept": "Vyāsa (Kṛṣṇa Dvaipāyana)", "other": "Vyāsa"}
+{"kind": "scalar", "id": "tch:vyasa", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:vaisampayana", "field": "historicity", "kept": "legendary", "other": "semi-legendary"}
+{"kind": "scalar", "id": "tch:jaimini", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:jaimini", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:saunaka", "field": "name", "kept": "Śaunaka (of Naimiṣa)", "other": "Śaunaka"}
+{"kind": "scalar", "id": "tch:saunaka", "field": "historicity", "kept": "legendary", "other": "semi-legendary"}
+{"kind": "scalar", "id": "tch:saunaka", "field": "name", "kept": "Śaunaka (of Naimiṣa)", "other": "Śaunaka"}
+{"kind": "scalar", "id": "tch:saunaka", "field": "historicity", "kept": "legendary", "other": "semi-legendary"}
+{"kind": "scalar", "id": "tch:katyayana", "field": "historicity", "kept": "historical", "other": "semi-legendary"}
+{"kind": "scalar", "id": "tch:kautsa", "field": "historicity", "kept": "unknown", "other": "semi-legendary"}
+{"kind": "scalar", "id": "tch:bhatta-bhaskara", "field": "name", "kept": "Bhaṭṭa Bhāskara Miśra", "other": "Bhaṭṭa Bhāskara"}
+{"kind": "scalar", "id": "tch:madhva", "field": "name", "kept": "Madhva", "other": "Madhva (Ānandatīrtha)"}
+{"kind": "scalar", "id": "tch:pingala", "field": "name", "kept": "Piṅgalā", "other": "Piṅgala"}
+{"kind": "scalar", "id": "tch:pingala", "field": "historicity", "kept": "legendary", "other": "semi-legendary"}
+{"kind": "scalar", "id": "tch:pingala", "field": "gender", "kept": "female", "other": "male"}
+{"kind": "scalar", "id": "tch:asvalayana", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:sandilya", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:sandilya", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:mahidasa-aitareya", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:kausitaki", "field": "historicity", "kept": "legendary", "other": "semi-legendary"}
+{"kind": "scalar", "id": "tch:uddalaka-aruni", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:janaka", "field": "name", "kept": "Janaka of Videha", "other": "Janaka"}
+{"kind": "scalar", "id": "tch:janaka", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:vidyaranya", "field": "name", "kept": "Vidyāraṇya", "other": "Mādhava (Vidyāraṇya)"}
+{"kind": "scalar", "id": "tch:vidyaranya", "field": "name", "kept": "Vidyāraṇya", "other": "Vidyāraṇya (Mādhava)"}
+{"kind": "scalar", "id": "tch:svetaketu", "field": "name", "kept": "Śvetaketu Āruṇeya", "other": "Śvetaketu"}
+{"kind": "scalar", "id": "tch:svetaketu", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:raikva", "field": "name", "kept": "Raikva 'with the cart' (sayugvan)", "other": "Raikva"}
+{"kind": "scalar", "id": "tch:brahma", "field": "name", "kept": "Brahmā (as first teacher)", "other": "Brahmā"}
+{"kind": "scalar", "id": "tch:yama", "field": "name", "kept": "Yama (Mṛtyu)", "other": "Yama"}
+{"kind": "scalar", "id": "tch:yama", "field": "name", "kept": "Yama (Mṛtyu)", "other": "Yama"}
+{"kind": "scalar", "id": "tch:prajapati", "field": "name", "kept": "Prajāpati (as teacher)", "other": "Prajāpati"}
 {"kind": "scalar", "id": "tch:kapila", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:rbhu", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:rbhu", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:nidagha", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:nidagha", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:siva", "field": "name", "kept": "Śiva", "other": "Śiva (Maheśvara)"}
+{"kind": "scalar", "id": "tch:siva", "field": "name", "kept": "Śiva", "other": "Śiva (as teacher)"}
+{"kind": "scalar", "id": "tch:narayana", "field": "name", "kept": "Nārāyaṇa", "other": "Nārāyaṇa / Ādi-Nārāyaṇa (as teacher)"}
+{"kind": "scalar", "id": "tch:rama", "field": "name", "kept": "Rāma (Dāśarathi)", "other": "Rāma"}
+{"kind": "scalar", "id": "tch:rama", "field": "name", "kept": "Rāma (Dāśarathi)", "other": "Rāma (as teacher)"}
+{"kind": "scalar", "id": "tch:rama", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:hanuman", "field": "historicity", "kept": "mythic", "other": "legendary"}
+{"kind": "scalar", "id": "tch:markandeya", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:suka", "field": "name", "kept": "Śuka", "other": "Śuka (Śukadeva)"}
+{"kind": "scalar", "id": "tch:durvasas", "field": "historicity", "kept": "mythic", "other": "legendary"}
+{"kind": "scalar", "id": "tch:bhusunda", "field": "name", "kept": "Bhuśuṇḍa", "other": "Bhusuṇḍa (Jābāla)"}
+{"kind": "scalar", "id": "tch:bhusunda", "field": "historicity", "kept": "mythic", "other": "legendary"}
+{"kind": "scalar", "id": "tch:upanisad-brahmayogin", "field": "name", "kept": "Upaniṣad Brahmayogin", "other": "Upaniṣad Brahmayogin (Upaniṣad Brahmendra)"}
+{"kind": "scalar", "id": "tch:sankara", "field": "name", "kept": "Śaṅkara (Ādi Śaṅkarācārya)", "other": "Śaṅkara"}
+{"kind": "scalar", "id": "tch:sankara", "field": "name", "kept": "Śaṅkara (Ādi Śaṅkarācārya)", "other": "Śaṅkara"}
+{"kind": "scalar", "id": "tch:sankara", "field": "name", "kept": "Śaṅkara (Ādi Śaṅkarācārya)", "other": "Śaṅkara"}
+{"kind": "scalar", "id": "tch:krsna", "field": "name", "kept": "Kṛṣṇa (Vāsudeva)", "other": "Kṛṣṇa"}
+{"kind": "scalar", "id": "tch:ugrasravas", "field": "name", "kept": "Ugraśravas Sauti", "other": "Ugraśravas"}
+{"kind": "scalar", "id": "tch:dharmavyadha", "field": "name", "kept": "The righteous meat-seller of Mithilā (dharmavyādha)", "other": "Dharmavyādha"}
+{"kind": "scalar", "id": "tch:asuri", "field": "historicity", "kept": "legendary", "other": "semi-legendary"}
 {"kind": "scalar", "id": "tch:prahlada", "field": "historicity", "kept": "mythic", "other": "legendary"}
 {"kind": "scalar", "id": "tch:bali", "field": "name", "kept": "Bali", "other": "Bali Vairocana"}
 {"kind": "scalar", "id": "tch:bali", "field": "historicity", "kept": "legendary", "other": "mythic"}
-{"kind": "scalar", "id": "tch:parasara", "field": "historicity", "kept": "legendary", "other": "semi-legendary"}
-{"kind": "scalar", "id": "tch:siva", "field": "name", "kept": "Śiva", "other": "Śiva (Maheśvara)"}
-{"kind": "scalar", "id": "tch:rama", "field": "name", "kept": "Rāma (Dāśarathi)", "other": "Rāma"}
+{"kind": "scalar", "id": "tch:valmiki", "field": "name", "kept": "Vālmīki", "other": "Vālmīki (as a Tamil Siddhar)"}
 {"kind": "scalar", "id": "tch:vibhisana", "field": "historicity", "kept": "legendary", "other": "mythic"}
-{"kind": "scalar", "id": "tch:visvamitra", "field": "historicity", "kept": "legendary", "other": "mythic"}
-{"kind": "scalar", "id": "tch:agastya", "field": "historicity", "kept": "legendary", "other": "mythic"}
-{"kind": "scalar", "id": "tch:agastya", "field": "historicity", "kept": "legendary", "other": "mythic"}
 {"kind": "scalar", "id": "tch:yamuna", "field": "name", "kept": "Yāmunācārya", "other": "Yāmuna"}
+{"kind": "scalar", "id": "tch:bhaskara", "field": "name", "kept": "Bhāskara (Bhaṭṭa Bhāskara, the Vedāntin)", "other": "Bhāskara"}
+{"kind": "scalar", "id": "tch:vallabha", "field": "name", "kept": "Vallabhācārya (Śrī Vallabha, Mahāprabhujī)", "other": "Vallabha"}
+{"kind": "scalar", "id": "tch:visnucitta", "field": "name", "kept": "Viṣṇucitta (Engaḷāḻvāṉ)", "other": "Viṣṇucitta"}
+{"kind": "scalar", "id": "tch:ramakantha", "field": "name", "kept": "Bhaṭṭa Rāmakaṇṭha (Rāmakaṇṭha II)", "other": "Bhaṭṭa Rāmakaṇṭha (II)"}
+{"kind": "scalar", "id": "tch:bhoja", "field": "name", "kept": "Bhoja", "other": "Bhoja (Paramāra king of Dhārā)"}
 {"kind": "scalar", "id": "tch:bhoja", "field": "name", "kept": "Bhoja", "other": "Bhoja (of Dhārā)"}
+{"kind": "scalar", "id": "tch:umapati-sivacarya", "field": "name", "kept": "Umāpati Civācāriyār", "other": "Umāpati Śivācārya"}
 {"kind": "scalar", "id": "tch:utpala-vaisnava", "field": "name", "kept": "Utpala Vaiṣṇava", "other": "Bhagavadutpala (Utpala Vaiṣṇava)"}
+{"kind": "scalar", "id": "tch:patanjali", "field": "name", "kept": "Patañjali", "other": "Patañjali (as a Tamil Siddhar)"}
+{"kind": "scalar", "id": "tch:patanjali", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:asmarathya", "field": "historicity", "kept": "unknown", "other": "semi-legendary"}
+{"kind": "scalar", "id": "tch:upavarsa", "field": "historicity", "kept": "historical", "other": "semi-legendary"}
+{"kind": "scalar", "id": "tch:ubhaya-bharati", "field": "name", "kept": "Ubhaya Bhāratī", "other": "Ubhaya-Bhāratī"}
+{"kind": "scalar", "id": "tch:audulomi", "field": "historicity", "kept": "semi-legendary", "other": "unknown"}
+{"kind": "scalar", "id": "tch:nilakantha-sivacarya", "field": "name", "kept": "Nīlakaṇṭha Śivācārya", "other": "Nīlakaṇṭha (author of the Kriyāsāra)"}
+{"kind": "scalar", "id": "tch:tirumular", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:nandi", "field": "name", "kept": "Nandi (Nantīcar)", "other": "Nandi (Nandikeśvara)"}
+{"kind": "scalar", "id": "tch:nandi", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:karuvurar", "field": "name", "kept": "Karuvūrār", "other": "Karuvūrār (Karuvūrttēvar)"}
+{"kind": "scalar", "id": "tch:karuvurar", "field": "historicity", "kept": "legendary", "other": "semi-legendary"}
+{"kind": "scalar", "id": "tch:tiruvalluvar", "field": "name", "kept": "Tiruvaḷḷuvar", "other": "Tiruvaḷḷuvar (as a Siddhar)"}
+{"kind": "scalar", "id": "tch:tiruvalluvar", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tea:nirukta:1.15", "field": "reported_by_opponent", "kept": false, "other": true}
+{"kind": "scalar", "id": "tea:visnu-purana:2.15-16", "field": "speaker", "kept": "Ṛbhu", "other": "Ṛbhu (told by Jaḍa Bharata)"}
+{"kind": "scalar", "id": "tea:brahma-sutra:1.3.31", "field": "reported_by_opponent", "kept": false, "other": true}
+{"kind": "scalar", "id": "tea:brahma-sutra:3.4.2", "field": "reported_by_opponent", "kept": false, "other": true}
+{"kind": "scalar", "id": "tea:brahma-sutra:4.3.12", "field": "reported_by_opponent", "kept": false, "other": true}
+{"kind": "scalar", "id": "tea:brahma-sutra:4.4.5", "field": "reported_by_opponent", "kept": false, "other": true}
+{"kind": "scalar", "id": "trm:rta", "field": "literal", "kept": "what is fitting; the true course", "other": "cosmic order, truth"}
+{"kind": "scalar", "id": "trm:satya", "field": "literal", "kept": "what is; truth", "other": "truth, the real"}
+{"kind": "scalar", "id": "trm:satya", "field": "literal", "kept": "what is; truth", "other": "truthfulness"}
+{"kind": "scalar", "id": "trm:satya", "field": "literal", "kept": "what is; truth", "other": "truth"}
+{"kind": "scalar", "id": "trm:tapas", "field": "literal", "kept": "heat; glow; austerity", "other": "heat; austerity"}
+{"kind": "scalar", "id": "trm:tapas", "field": "literal", "kept": "heat; glow; austerity", "other": "heat, austerity"}
+{"kind": "scalar", "id": "trm:tapas", "field": "literal", "kept": "heat; glow; austerity", "other": "heat; austerity"}
+{"kind": "scalar", "id": "trm:tapas", "field": "literal", "kept": "heat; glow; austerity", "other": "heat, austerity"}
+{"kind": "scalar", "id": "trm:yajna", "field": "literal", "kept": "worship; sacrifice", "other": "sacrifice, worship"}
+{"kind": "scalar", "id": "trm:yajna", "field": "literal", "kept": "worship; sacrifice", "other": "sacrifice, worship"}
+{"kind": "scalar", "id": "trm:vrata", "field": "literal", "kept": "ordinance; vow", "other": "vow"}
+{"kind": "scalar", "id": "trm:vrata", "field": "literal", "kept": "ordinance; vow", "other": "vow, observance"}
+{"kind": "scalar", "id": "trm:vrata", "field": "literal", "kept": "ordinance; vow", "other": "vow, observance"}
+{"kind": "scalar", "id": "trm:diksa", "field": "literal", "kept": "initiation", "other": "consecration"}
+{"kind": "scalar", "id": "trm:diksa", "field": "literal", "kept": "initiation", "other": "consecration"}
+{"kind": "scalar", "id": "trm:diksa", "field": "literal", "kept": "initiation", "other": "initiation, consecration"}
+{"kind": "scalar", "id": "trm:sraddha", "field": "literal", "kept": "trust; setting the heart on", "other": "faith"}
+{"kind": "scalar", "id": "trm:sraddha", "field": "literal", "kept": "trust; setting the heart on", "other": "faith, trust"}
+{"kind": "scalar", "id": "trm:sraddha", "field": "literal", "kept": "trust; setting the heart on", "other": "faith, trust"}
+{"kind": "scalar", "id": "trm:sraddha", "field": "term", "kept": "śraddhā", "other": "śrāddha"}
+{"kind": "scalar", "id": "trm:sraddha", "field": "native", "kept": "श्रद्धा", "other": "श्राद्ध"}
+{"kind": "scalar", "id": "trm:sraddha", "field": "literal", "kept": "trust; setting the heart on", "other": "(rite) of faith"}
+{"kind": "scalar", "id": "trm:sraddha", "field": "literal", "kept": "trust; setting the heart on", "other": "trust, faith"}
+{"kind": "scalar", "id": "trm:sraddha", "field": "literal", "kept": "trust; setting the heart on", "other": "faith"}
+{"kind": "scalar", "id": "trm:sraddha", "field": "literal", "kept": "trust; setting the heart on", "other": "faith"}
+{"kind": "scalar", "id": "trm:daksina", "field": "literal", "kept": "gift; the right (hand)", "other": "sacrificial fee"}
+{"kind": "scalar", "id": "trm:dana", "field": "literal", "kept": "giving", "other": "giving, gift"}
+{"kind": "scalar", "id": "trm:dana", "field": "literal", "kept": "giving", "other": "giving (or purification)"}
+{"kind": "scalar", "id": "trm:pasa", "field": "literal", "kept": "noose", "other": "noose, bond"}
+{"kind": "scalar", "id": "trm:pasa", "field": "literal", "kept": "noose", "other": "fetter; noose"}
+{"kind": "scalar", "id": "trm:pasa", "field": "literal", "kept": "noose", "other": "bond"}
+{"kind": "scalar", "id": "trm:sat", "field": "literal", "kept": "being; existent", "other": "being, the real"}
+{"kind": "scalar", "id": "trm:svadha", "field": "literal", "kept": "own power; self-sustenance", "other": "one's own power; the ancestors' call"}
+{"kind": "scalar", "id": "trm:kama", "field": "literal", "kept": "desire", "other": "desire, love, pleasure"}
+{"kind": "scalar", "id": "trm:purusa", "field": "literal", "kept": "person, man; the conscious self", "other": "man; person"}
+{"kind": "scalar", "id": "trm:purusa", "field": "literal", "kept": "person, man; the conscious self", "other": "person; the self as pure consciousness"}
+{"kind": "scalar", "id": "trm:purusa", "field": "literal", "kept": "person, man; the conscious self", "other": "person; spirit"}
+{"kind": "scalar", "id": "trm:purusa", "field": "literal", "kept": "person, man; the conscious self", "other": "person"}
+{"kind": "scalar", "id": "trm:purusa", "field": "literal", "kept": "person, man; the conscious self", "other": "person, man"}
+{"kind": "scalar", "id": "trm:purusa", "field": "literal", "kept": "person, man; the conscious self", "other": "person"}
+{"kind": "scalar", "id": "trm:hiranyagarbha", "field": "literal", "kept": "golden germ/embryo", "other": "golden embryo"}
+{"kind": "scalar", "id": "trm:hiranyagarbha", "field": "literal", "kept": "golden germ/embryo", "other": "golden womb"}
+{"kind": "scalar", "id": "trm:prajapati", "field": "term", "kept": "prajāpati", "other": "Prajāpati"}
+{"kind": "scalar", "id": "trm:kala", "field": "term", "kept": "kāla", "other": "kalā"}
+{"kind": "scalar", "id": "trm:kala", "field": "native", "kept": "काल", "other": "कला"}
+{"kind": "scalar", "id": "trm:kala", "field": "literal", "kept": "time", "other": "part"}
+{"kind": "scalar", "id": "trm:kala", "field": "literal", "kept": "time", "other": "time; death"}
+{"kind": "scalar", "id": "trm:kala", "field": "term", "kept": "kāla", "other": "kalā"}
+{"kind": "scalar", "id": "trm:kala", "field": "native", "kept": "काल", "other": "कला"}
+{"kind": "scalar", "id": "trm:kala", "field": "literal", "kept": "time", "other": "part, digit"}
+{"kind": "scalar", "id": "trm:nama-rupa", "field": "term", "kept": "nāma-rūpa", "other": "nāmarūpa"}
+{"kind": "scalar", "id": "trm:maya", "field": "literal", "kept": "wondrous power; craft", "other": "power, illusion"}
+{"kind": "scalar", "id": "trm:maya", "field": "literal", "kept": "wondrous power; craft", "other": "magic power; illusion"}
+{"kind": "scalar", "id": "trm:maya", "field": "literal", "kept": "wondrous power; craft", "other": "power, magic, illusion"}
+{"kind": "scalar", "id": "trm:maya", "field": "literal", "kept": "wondrous power; craft", "other": "illusion; Śiva's power of concealment"}
+{"kind": "scalar", "id": "trm:maya", "field": "literal", "kept": "wondrous power; craft", "other": "power, illusion"}
+{"kind": "scalar", "id": "trm:maya", "field": "literal", "kept": "wondrous power; craft", "other": "power; illusion"}
+{"kind": "scalar", "id": "trm:maya", "field": "literal", "kept": "wondrous power; craft", "other": "wonder-working power"}
+{"kind": "scalar", "id": "trm:maya", "field": "literal", "kept": "wondrous power; craft", "other": "the power of delusion / differentiation"}
+{"kind": "scalar", "id": "trm:pada", "field": "literal", "kept": "step; foot; quarter; word", "other": "step; word; quarter-verse"}
+{"kind": "scalar", "id": "trm:pada", "field": "literal", "kept": "step; foot; quarter; word", "other": "word"}
+{"kind": "scalar", "id": "trm:aksara", "field": "literal", "kept": "imperishable", "other": "imperishable; syllable"}
+{"kind": "scalar", "id": "trm:aksara", "field": "literal", "kept": "imperishable", "other": "syllable; the imperishable"}
+{"kind": "scalar", "id": "trm:aksara", "field": "literal", "kept": "imperishable", "other": "the imperishable; syllable"}
+{"kind": "scalar", "id": "trm:aksara", "field": "literal", "kept": "imperishable", "other": "imperishable; syllable"}
+{"kind": "scalar", "id": "trm:turiya", "field": "term", "kept": "Turīya", "other": "turīya"}
+{"kind": "scalar", "id": "trm:turiya", "field": "term", "kept": "Turīya", "other": "turīya / turya"}
+{"kind": "scalar", "id": "trm:turiya", "field": "term", "kept": "Turīya", "other": "turīya"}
+{"kind": "scalar", "id": "trm:turiya", "field": "term", "kept": "Turīya", "other": "turīya / caturtha"}
+{"kind": "scalar", "id": "trm:turiya", "field": "term", "kept": "Turīya", "other": "turīya"}
+{"kind": "scalar", "id": "trm:hamsa", "field": "literal", "kept": "swan/goose", "other": "swan; 'ham-sa'"}
+{"kind": "scalar", "id": "trm:hamsa", "field": "literal", "kept": "swan/goose", "other": "'swan'; the breath-mantra sa-ha"}
+{"kind": "scalar", "id": "trm:atman", "field": "literal", "kept": "self; breath; body (context)", "other": "breath; self; body"}
+{"kind": "scalar", "id": "trm:atman", "field": "literal", "kept": "self; breath; body (context)", "other": "self"}
+{"kind": "scalar", "id": "trm:atman", "field": "literal", "kept": "self; breath; body (context)", "other": "self"}
+{"kind": "scalar", "id": "trm:atman", "field": "literal", "kept": "self; breath; body (context)", "other": "self"}
+{"kind": "scalar", "id": "trm:atman", "field": "literal", "kept": "self; breath; body (context)", "other": "self; body, trunk"}
+{"kind": "scalar", "id": "trm:atman", "field": "literal", "kept": "self; breath; body (context)", "other": "self"}
+{"kind": "scalar", "id": "trm:atman", "field": "literal", "kept": "self; breath; body (context)", "other": "self"}
+{"kind": "scalar", "id": "trm:atman", "field": "literal", "kept": "self; breath; body (context)", "other": "self"}
+{"kind": "scalar", "id": "trm:atman", "field": "literal", "kept": "self; breath; body (context)", "other": "self"}
+{"kind": "scalar", "id": "trm:prana", "field": "literal", "kept": "breath; in-breath; life", "other": "breath, life"}
+{"kind": "scalar", "id": "trm:prana", "field": "literal", "kept": "breath; in-breath; life", "other": "breath, forth-breath"}
+{"kind": "scalar", "id": "trm:prana", "field": "literal", "kept": "breath; in-breath; life", "other": "breath, vital air"}
+{"kind": "scalar", "id": "trm:prana", "field": "literal", "kept": "breath; in-breath; life", "other": "breath, vital force"}
+{"kind": "scalar", "id": "trm:prana", "field": "literal", "kept": "breath; in-breath; life", "other": "breath; vital air"}
+{"kind": "scalar", "id": "trm:prana", "field": "literal", "kept": "breath; in-breath; life", "other": "breath, life"}
+{"kind": "scalar", "id": "trm:prana", "field": "literal", "kept": "breath; in-breath; life", "other": "breath, vital force"}
+{"kind": "scalar", "id": "trm:apana", "field": "literal", "kept": "down-breath", "other": "down/out-breath"}
+{"kind": "scalar", "id": "trm:apana", "field": "literal", "kept": "down-breath", "other": "out-breath / down-breath"}
+{"kind": "scalar", "id": "trm:manas", "field": "literal", "kept": "mind", "other": "mind; inner sense"}
+{"kind": "scalar", "id": "trm:kratu", "field": "literal", "kept": "will; resolve; mental power", "other": "resolve, will-power"}
+{"kind": "scalar", "id": "trm:guna", "field": "literal", "kept": "strand, constituent, quality", "other": "quality"}
+{"kind": "scalar", "id": "trm:guna", "field": "literal", "kept": "strand, constituent, quality", "other": "strand; thread; quality"}
+{"kind": "scalar", "id": "trm:guna", "field": "literal", "kept": "strand, constituent, quality", "other": "strand, quality"}
+{"kind": "scalar", "id": "trm:guna", "field": "literal", "kept": "strand, constituent, quality", "other": "strand, quality"}
+{"kind": "scalar", "id": "trm:guna", "field": "literal", "kept": "strand, constituent, quality", "other": "strand, quality"}
+{"kind": "scalar", "id": "trm:guna", "field": "literal", "kept": "strand, constituent, quality", "other": "strand, quality"}
+{"kind": "scalar", "id": "trm:guna", "field": "literal", "kept": "strand, constituent, quality", "other": "strand, quality"}
+{"kind": "scalar", "id": "trm:rajas", "field": "literal", "kept": "region; atmosphere; (later) passion", "other": "passion, activity"}
+{"kind": "scalar", "id": "trm:rajas", "field": "literal", "kept": "region; atmosphere; (later) passion", "other": "dust, passion; the active guṇa"}
+{"kind": "scalar", "id": "trm:vac", "field": "literal", "kept": "speech; voice", "other": "speech, voice"}
+{"kind": "scalar", "id": "trm:mantra", "field": "literal", "kept": "instrument of thought; formula", "other": "formula; instrument of thought"}
+{"kind": "scalar", "id": "trm:mantra", "field": "literal", "kept": "instrument of thought; formula", "other": "instrument of thought; Vedic formula"}
+{"kind": "scalar", "id": "trm:mantra", "field": "literal", "kept": "instrument of thought; formula", "other": "instrument of thought; sacred formula"}
+{"kind": "scalar", "id": "trm:mantra", "field": "literal", "kept": "instrument of thought; formula", "other": "sacred formula"}
+{"kind": "scalar", "id": "trm:saman", "field": "literal", "kept": "chant; melody", "other": "chant"}
+{"kind": "scalar", "id": "trm:mandala", "field": "literal", "kept": "circle; book", "other": "circle, diagram"}
+{"kind": "scalar", "id": "trm:padapatha", "field": "literal", "kept": "word-recitation", "other": "word-by-word recitation"}
+{"kind": "scalar", "id": "trm:kramapatha", "field": "literal", "kept": "step-recitation", "other": "step recitation"}
+{"kind": "scalar", "id": "trm:vikrti", "field": "term", "kept": "vikṛti / vikāra", "other": "vikṛti"}
+{"kind": "scalar", "id": "trm:vikrti", "field": "literal", "kept": "modification, product", "other": "modification"}
+{"kind": "scalar", "id": "trm:svara", "field": "literal", "kept": "tone; accent; note", "other": "tone, accent; vowel; musical note"}
+{"kind": "scalar", "id": "trm:chandas", "field": "literal", "kept": "metre", "other": "metre; the Vedic language"}
+{"kind": "scalar", "id": "trm:tristubh", "field": "literal", "kept": "(metre name)", "other": "triple praise"}
+{"kind": "scalar", "id": "trm:jagati", "field": "literal", "kept": "(metre name)", "other": "the moving one"}
+{"kind": "scalar", "id": "trm:anustubh", "field": "literal", "kept": "(metre name)", "other": "praise following"}
+{"kind": "scalar", "id": "trm:apauruseya", "field": "literal", "kept": "not of personal origin, authorless", "other": "not of personal origin"}
+{"kind": "scalar", "id": "trm:apauruseya", "field": "literal", "kept": "not of personal origin, authorless", "other": "authorless"}
+{"kind": "scalar", "id": "trm:gana", "field": "term", "kept": "gāna", "other": "gaṇa"}
+{"kind": "scalar", "id": "trm:gana", "field": "literal", "kept": "song", "other": "host, troop"}
+{"kind": "scalar", "id": "trm:gana", "field": "native", "kept": "गान", "other": "गण"}
+{"kind": "scalar", "id": "trm:uha", "field": "literal", "kept": "reasoning, examination", "other": "modification"}
+{"kind": "scalar", "id": "trm:brahmodya", "field": "literal", "kept": "speaking of brahman; riddle", "other": "discourse on Brahman; riddle-contest"}
+{"kind": "scalar", "id": "trm:om", "field": "native", "kept": "ओं", "other": "ॐ"}
+{"kind": "scalar", "id": "trm:om", "field": "literal", "kept": "the sacred syllable", "other": "the praṇava"}
+{"kind": "scalar", "id": "trm:om", "field": "term", "kept": "oṃ", "other": "om / oṃkāra"}
+{"kind": "scalar", "id": "trm:om", "field": "native", "kept": "ओं", "other": "ओम्"}
+{"kind": "scalar", "id": "trm:om", "field": "literal", "kept": "the sacred syllable", "other": "(the sacred syllable)"}
+{"kind": "scalar", "id": "trm:om", "field": "term", "kept": "oṃ", "other": "praṇava (Oṃ)"}
+{"kind": "scalar", "id": "trm:om", "field": "native", "kept": "ओं", "other": "ॐ"}
+{"kind": "scalar", "id": "trm:om", "field": "literal", "kept": "the sacred syllable", "other": "the syllable Oṃ"}
+{"kind": "scalar", "id": "trm:santi", "field": "term", "kept": "śānti", "other": "śānti (mēlśānti / kīḻśānti)"}
+{"kind": "scalar", "id": "trm:santi", "field": "language", "kept": "Sanskrit", "other": "Malayalam"}
+{"kind": "scalar", "id": "trm:santi", "field": "native", "kept": "शान्ति", "other": "ശാന്തി"}
+{"kind": "scalar", "id": "trm:santi", "field": "literal", "kept": "peace; appeasement", "other": "(chief / subordinate) priest"}
+{"kind": "scalar", "id": "trm:muni", "field": "literal", "kept": "silent one; ecstatic", "other": "sage, silent one"}
+{"kind": "scalar", "id": "trm:vratya", "field": "literal", "kept": "one bound by a vow / of a band", "other": "one belonging to a band (vrāta)"}
+{"kind": "scalar", "id": "trm:upanayana", "field": "literal", "kept": "leading near", "other": "leading near (to the teacher)"}
+{"kind": "scalar", "id": "trm:ananda", "field": "literal", "kept": "bliss, joy", "other": "bliss"}
+{"kind": "scalar", "id": "trm:ananda", "field": "literal", "kept": "bliss, joy", "other": "bliss"}
+{"kind": "scalar", "id": "trm:ananda", "field": "literal", "kept": "bliss, joy", "other": "bliss"}
+{"kind": "scalar", "id": "trm:ananda", "field": "literal", "kept": "bliss, joy", "other": "bliss"}
+{"kind": "scalar", "id": "trm:svarga", "field": "literal", "kept": "going to the light; heaven", "other": "heaven"}
+{"kind": "scalar", "id": "trm:loka", "field": "literal", "kept": "open space; world", "other": "world, realm"}
+{"kind": "scalar", "id": "trm:loka", "field": "literal", "kept": "open space; world", "other": "world, open space"}
+{"kind": "scalar", "id": "trm:pitr", "field": "term", "kept": "pitṛ", "other": "pitṛ (pitaraḥ)"}
+{"kind": "scalar", "id": "trm:pitr", "field": "literal", "kept": "father, ancestor", "other": "father(s)"}
+{"kind": "scalar", "id": "trm:devayana", "field": "literal", "kept": "the path of the gods", "other": "path of the gods"}
+{"kind": "scalar", "id": "trm:devayana", "field": "literal", "kept": "the path of the gods", "other": "path of the gods"}
+{"kind": "scalar", "id": "trm:pitryana", "field": "term", "kept": "pitṛyāna", "other": "pitṛyāṇa"}
+{"kind": "scalar", "id": "trm:pitryana", "field": "native", "kept": "पितृयान", "other": "पितृयाण"}
+{"kind": "scalar", "id": "trm:pitryana", "field": "literal", "kept": "the path of the ancestors", "other": "path of the fathers"}
+{"kind": "scalar", "id": "trm:pitryana", "field": "term", "kept": "pitṛyāna", "other": "pitṛyāṇa"}
+{"kind": "scalar", "id": "trm:pitryana", "field": "literal", "kept": "the path of the ancestors", "other": "path of the ancestors"}
+{"kind": "scalar", "id": "trm:yama", "field": "literal", "kept": "twin; restrainer", "other": "restraint"}
+{"kind": "scalar", "id": "trm:yama", "field": "literal", "kept": "twin; restrainer", "other": "restraint"}
+{"kind": "scalar", "id": "trm:yama", "field": "literal", "kept": "twin; restrainer", "other": "restraint"}
+{"kind": "scalar", "id": "trm:yama", "field": "literal", "kept": "twin; restrainer", "other": "restraint"}
+{"kind": "scalar", "id": "trm:yama", "field": "literal", "kept": "twin; restrainer", "other": "restraint"}
+{"kind": "scalar", "id": "trm:rudra", "field": "term", "kept": "rudra", "other": "Rudra"}
+{"kind": "scalar", "id": "trm:rudra", "field": "literal", "kept": "the roarer (or: the red one)", "other": "the roarer; the terrible"}
+{"kind": "scalar", "id": "trm:visnu", "field": "term", "kept": "Viṣṇu", "other": "viṣṇu"}
+{"kind": "scalar", "id": "trm:visnu", "field": "literal", "kept": "the pervader", "other": "the pervader (traditional etymology)"}
+{"kind": "scalar", "id": "trm:vayu", "field": "term", "kept": "Vāyu", "other": "vāyu"}
+{"kind": "scalar", "id": "trm:vayu", "field": "literal", "kept": "wind, breath", "other": "air"}
+{"kind": "scalar", "id": "trm:vayu", "field": "term", "kept": "Vāyu", "other": "vāyu / vāta"}
+{"kind": "scalar", "id": "trm:vayu", "field": "literal", "kept": "wind, breath", "other": "wind"}
+{"kind": "scalar", "id": "trm:prthivi", "field": "term", "kept": "pṛthivī", "other": "pṛthivī / bhūmi"}
+{"kind": "scalar", "id": "trm:prthivi", "field": "literal", "kept": "earth", "other": "the broad one; earth"}
+{"kind": "scalar", "id": "trm:satarudriya", "field": "literal", "kept": "(the litany) of the hundred Rudras", "other": "the hundred Rudras (hymn)"}
+{"kind": "scalar", "id": "trm:pancaksara", "field": "literal", "kept": "the five syllables", "other": "five-syllabled"}
+{"kind": "scalar", "id": "trm:pancaksara", "field": "literal", "kept": "the five syllables", "other": "five-syllabled"}
+{"kind": "scalar", "id": "trm:pasupati", "field": "literal", "kept": "lord of animals/cattle", "other": "lord of the paśus (bound souls; 'cattle')"}
+{"kind": "scalar", "id": "trm:pasupati", "field": "literal", "kept": "lord of animals/cattle", "other": "lord of the bound"}
+{"kind": "scalar", "id": "trm:siva", "field": "term", "kept": "śiva", "other": "Śiva"}
+{"kind": "scalar", "id": "trm:siva", "field": "literal", "kept": "auspicious; kind", "other": "auspicious"}
+{"kind": "scalar", "id": "trm:siva", "field": "term", "kept": "śiva", "other": "Śiva"}
+{"kind": "scalar", "id": "trm:siva", "field": "literal", "kept": "auspicious; kind", "other": "the auspicious"}
+{"kind": "scalar", "id": "trm:siva", "field": "term", "kept": "śiva", "other": "Śiva"}
+{"kind": "scalar", "id": "trm:siva", "field": "literal", "kept": "auspicious; kind", "other": "auspicious"}
+{"kind": "scalar", "id": "trm:bhava", "field": "term", "kept": "bhāva", "other": "bhava"}
+{"kind": "scalar", "id": "trm:bhava", "field": "native", "kept": "भाव", "other": "भव"}
+{"kind": "scalar", "id": "trm:bhava", "field": "literal", "kept": "disposition, state of being", "other": "existence; the one who is"}
+{"kind": "scalar", "id": "trm:bhava", "field": "term", "kept": "bhāva", "other": "bhāva (in bhakti)"}
+{"kind": "scalar", "id": "trm:isana", "field": "term", "kept": "īśāna", "other": "Īśāna"}
+{"kind": "scalar", "id": "trm:yuga", "field": "literal", "kept": "yoke; age", "other": "age of the world"}
+{"kind": "scalar", "id": "trm:yuga", "field": "literal", "kept": "yoke; age", "other": "yoke; generation; age"}
+{"kind": "scalar", "id": "trm:yuga", "field": "literal", "kept": "yoke; age", "other": "age; yoke"}
+{"kind": "scalar", "id": "trm:brahman", "field": "literal", "kept": "formulation; sacred word; (later) the absolute", "other": "the expansive; sacred formula"}
+{"kind": "scalar", "id": "trm:brahman", "field": "literal", "kept": "formulation; sacred word; (later) the absolute", "other": "the vast; that which grows"}
+{"kind": "scalar", "id": "trm:brahman", "field": "literal", "kept": "formulation; sacred word; (later) the absolute", "other": "the great, the expansive"}
+{"kind": "scalar", "id": "trm:brahman", "field": "literal", "kept": "formulation; sacred word; (later) the absolute", "other": "the formulation; the expansive"}
+{"kind": "scalar", "id": "trm:brahman", "field": "literal", "kept": "formulation; sacred word; (later) the absolute", "other": "the vast; the absolute; the Veda"}
+{"kind": "scalar", "id": "trm:brahman", "field": "literal", "kept": "formulation; sacred word; (later) the absolute", "other": "the vast"}
+{"kind": "scalar", "id": "trm:brahman", "field": "term", "kept": "brahman", "other": "Brahman"}
+{"kind": "scalar", "id": "trm:brahman", "field": "literal", "kept": "formulation; sacred word; (later) the absolute", "other": "the great"}
+{"kind": "scalar", "id": "trm:brahman", "field": "literal", "kept": "formulation; sacred word; (later) the absolute", "other": "the vast"}
+{"kind": "scalar", "id": "trm:brahman", "field": "literal", "kept": "formulation; sacred word; (later) the absolute", "other": "the vast"}
+{"kind": "scalar", "id": "trm:pranagnihotra", "field": "literal", "kept": "fire-offering into the breaths", "other": "fire-offering to the breaths"}
+{"kind": "scalar", "id": "trm:upasana", "field": "term", "kept": "upāsanā", "other": "upāsana / dhyāna / vedana"}
+{"kind": "scalar", "id": "trm:upasana", "field": "literal", "kept": "worship, meditation", "other": "meditation, worship"}
+{"kind": "scalar", "id": "trm:upasana", "field": "literal", "kept": "worship, meditation", "other": "sitting near; worship"}
+{"kind": "scalar", "id": "trm:upasana", "field": "term", "kept": "upāsanā", "other": "upāsana"}
+{"kind": "scalar", "id": "trm:upasana", "field": "native", "kept": "उपासना", "other": "उपासन"}
+{"kind": "scalar", "id": "trm:upasana", "field": "literal", "kept": "worship, meditation", "other": "sitting near; meditative worship"}
+{"kind": "scalar", "id": "trm:vidya", "field": "literal", "kept": "knowledge, a knowledge-teaching", "other": "knowledge"}
+{"kind": "scalar", "id": "trm:vidya", "field": "literal", "kept": "knowledge, a knowledge-teaching", "other": "knowledge proper"}
+{"kind": "scalar", "id": "trm:paramatman", "field": "literal", "kept": "the supreme self", "other": "supreme self"}
+{"kind": "scalar", "id": "trm:paramatman", "field": "literal", "kept": "the supreme self", "other": "supreme self"}
+{"kind": "scalar", "id": "trm:paramatman", "field": "literal", "kept": "the supreme self", "other": "supreme self"}
+{"kind": "scalar", "id": "trm:paramatman", "field": "literal", "kept": "the supreme self", "other": "supreme self"}
+{"kind": "scalar", "id": "trm:arthavada", "field": "literal", "kept": "statement of purpose; explanatory praise", "other": "explanatory passage"}
+{"kind": "scalar", "id": "trm:arthavada", "field": "literal", "kept": "statement of purpose; explanatory praise", "other": "explanatory statement; eulogy"}
+{"kind": "scalar", "id": "trm:matra", "field": "literal", "kept": "measure, mora", "other": "measure"}
+{"kind": "scalar", "id": "trm:varna", "field": "literal", "kept": "colour; class; phoneme", "other": "colour; social class"}
+{"kind": "scalar", "id": "trm:varna", "field": "literal", "kept": "colour; class; phoneme", "other": "letter; phoneme"}
+{"kind": "scalar", "id": "trm:varna", "field": "literal", "kept": "colour; class; phoneme", "other": "letter, sound, phoneme"}
+{"kind": "scalar", "id": "trm:nama", "field": "term", "kept": "nāma", "other": "nāman"}
+{"kind": "scalar", "id": "trm:nama", "field": "native", "kept": "नाम", "other": "नामन्"}
+{"kind": "scalar", "id": "trm:nama", "field": "literal", "kept": "name", "other": "name; noun"}
+{"kind": "scalar", "id": "trm:nama", "field": "term", "kept": "nāma", "other": "nāma (the divine name)"}
+{"kind": "scalar", "id": "trm:manvantara", "field": "literal", "kept": "Manu-interval", "other": "interval of a Manu"}
+{"kind": "scalar", "id": "trm:sabda", "field": "literal", "kept": "sound; word", "other": "sound; word; verbal testimony"}
+{"kind": "scalar", "id": "trm:sabda", "field": "literal", "kept": "sound; word", "other": "sound, word"}
+{"kind": "scalar", "id": "trm:japa", "field": "literal", "kept": "muttered repetition", "other": "muttering, recitation"}
+{"kind": "scalar", "id": "trm:japa", "field": "term", "kept": "japa", "other": "japa / japya"}
+{"kind": "scalar", "id": "trm:japa", "field": "literal", "kept": "muttered repetition", "other": "muttering"}
+{"kind": "scalar", "id": "trm:japa", "field": "literal", "kept": "muttered repetition", "other": "repetition"}
+{"kind": "scalar", "id": "trm:pranayama", "field": "literal", "kept": "restraint of breath", "other": "extension/restraint of breath"}
+{"kind": "scalar", "id": "trm:pranayama", "field": "literal", "kept": "restraint of breath", "other": "extension/restraint of breath"}
+{"kind": "scalar", "id": "trm:pranayama", "field": "literal", "kept": "restraint of breath", "other": "breath-restraint"}
+{"kind": "scalar", "id": "trm:dharana", "field": "literal", "kept": "holding", "other": "holding, fixation"}
+{"kind": "scalar", "id": "trm:dharana", "field": "literal", "kept": "holding", "other": "holding, concentration"}
+{"kind": "scalar", "id": "trm:dharana", "field": "literal", "kept": "holding", "other": "fixation"}
+{"kind": "scalar", "id": "trm:dharana", "field": "literal", "kept": "holding", "other": "contemplation, concentration"}
+{"kind": "scalar", "id": "trm:pratyahara", "field": "literal", "kept": "withdrawal", "other": "drawing back"}
+{"kind": "scalar", "id": "trm:dhyana", "field": "term", "kept": "dhyāna (nididhyāsana)", "other": "dhyāna"}
+{"kind": "scalar", "id": "trm:dhyana", "field": "term", "kept": "dhyāna (nididhyāsana)", "other": "dhyāna"}
+{"kind": "scalar", "id": "trm:dhyana", "field": "term", "kept": "dhyāna (nididhyāsana)", "other": "dhyāna"}
+{"kind": "scalar", "id": "trm:dhyana", "field": "term", "kept": "dhyāna (nididhyāsana)", "other": "dhyāna"}
+{"kind": "scalar", "id": "trm:dhyana", "field": "term", "kept": "dhyāna (nididhyāsana)", "other": "dhyāna"}
+{"kind": "scalar", "id": "trm:dhyana", "field": "term", "kept": "dhyāna (nididhyāsana)", "other": "dhyāna"}
+{"kind": "scalar", "id": "trm:yoga", "field": "literal", "kept": "yoking; (from yuj 'to concentrate', per Vyāsa and Bhoja) concentration", "other": "yoking, joining; discipline"}
+{"kind": "scalar", "id": "trm:yoga", "field": "literal", "kept": "yoking; (from yuj 'to concentrate', per Vyāsa and Bhoja) concentration", "other": "union, yoking"}
+{"kind": "scalar", "id": "trm:yoga", "field": "literal", "kept": "yoking; (from yuj 'to concentrate', per Vyāsa and Bhoja) concentration", "other": "yoking, discipline"}
+{"kind": "scalar", "id": "trm:yoga", "field": "literal", "kept": "yoking; (from yuj 'to concentrate', per Vyāsa and Bhoja) concentration", "other": "yoking, union"}
+{"kind": "scalar", "id": "trm:yoga", "field": "literal", "kept": "yoking; (from yuj 'to concentrate', per Vyāsa and Bhoja) concentration", "other": "yoking, union"}
+{"kind": "scalar", "id": "trm:yoga", "field": "literal", "kept": "yoking; (from yuj 'to concentrate', per Vyāsa and Bhoja) concentration", "other": "yoga; joining"}
+{"kind": "scalar", "id": "trm:nada", "field": "literal", "kept": "sound, resonance", "other": "sound"}
+{"kind": "scalar", "id": "trm:nada", "field": "literal", "kept": "sound, resonance", "other": "resonance, sound"}
+{"kind": "scalar", "id": "trm:nada", "field": "literal", "kept": "sound, resonance", "other": "resonance, inner sound"}
+{"kind": "scalar", "id": "trm:dharma", "field": "literal", "kept": "that which upholds", "other": "that which upholds; duty, right, law"}
+{"kind": "scalar", "id": "trm:dharma", "field": "literal", "kept": "that which upholds", "other": "virtue, merit"}
+{"kind": "scalar", "id": "trm:dharma", "field": "literal", "kept": "that which upholds", "other": "dharma; merit"}
+{"kind": "scalar", "id": "trm:dharma", "field": "literal", "kept": "that which upholds", "other": "what upholds; duty; merit"}
+{"kind": "scalar", "id": "trm:smrti", "field": "literal", "kept": "memory; mindfulness", "other": "remembered (tradition)"}
+{"kind": "scalar", "id": "trm:smrti", "field": "literal", "kept": "memory; mindfulness", "other": "what is remembered"}
+{"kind": "scalar", "id": "trm:smrti", "field": "literal", "kept": "memory; mindfulness", "other": "memory"}
+{"kind": "scalar", "id": "trm:danda", "field": "literal", "kept": "rod; punishment", "other": "staff"}
+{"kind": "scalar", "id": "trm:jati", "field": "literal", "kept": "birth; class; universal; futile rejoinder", "other": "birth-group, caste"}
+{"kind": "scalar", "id": "trm:jati", "field": "literal", "kept": "birth; class; universal; futile rejoinder", "other": "birth; caste"}
+{"kind": "scalar", "id": "trm:jati", "field": "literal", "kept": "birth; class; universal; futile rejoinder", "other": "universal; class"}
+{"kind": "scalar", "id": "trm:ahimsa", "field": "literal", "kept": "non-harming", "other": "non-injury"}
+{"kind": "scalar", "id": "trm:ahimsa", "field": "literal", "kept": "non-harming", "other": "non-injury"}
+{"kind": "scalar", "id": "trm:asteya", "field": "literal", "kept": "non-stealing", "other": "not stealing"}
+{"kind": "scalar", "id": "trm:abhaya", "field": "literal", "kept": "fearlessness; the gift of safety", "other": "fearlessness"}
+{"kind": "scalar", "id": "trm:indriya", "field": "literal", "kept": "faculty, capacity (organ)", "other": "sense faculty"}
+{"kind": "scalar", "id": "trm:indriya", "field": "literal", "kept": "faculty, capacity (organ)", "other": "sense faculty"}
+{"kind": "scalar", "id": "trm:indriya", "field": "literal", "kept": "faculty, capacity (organ)", "other": "sense faculty"}
+{"kind": "scalar", "id": "trm:indriya", "field": "literal", "kept": "faculty, capacity (organ)", "other": "sense faculty"}
+{"kind": "scalar", "id": "trm:indriya", "field": "literal", "kept": "faculty, capacity (organ)", "other": "sense faculty"}
+{"kind": "scalar", "id": "trm:jiva", "field": "literal", "kept": "living being", "other": "living being, soul"}
+{"kind": "scalar", "id": "trm:jiva", "field": "literal", "kept": "living being", "other": "living being, individual self"}
+{"kind": "scalar", "id": "trm:jiva", "field": "term", "kept": "jīva", "other": "jīva / jīvātman"}
+{"kind": "scalar", "id": "trm:jiva", "field": "literal", "kept": "living being", "other": "the living self"}
+{"kind": "scalar", "id": "trm:jiva", "field": "literal", "kept": "living being", "other": "living being, soul"}
+{"kind": "scalar", "id": "trm:jiva", "field": "literal", "kept": "living being", "other": "the living (self)"}
+{"kind": "scalar", "id": "trm:saksin", "field": "literal", "kept": "eye-witness", "other": "witness"}
+{"kind": "scalar", "id": "trm:saksin", "field": "literal", "kept": "eye-witness", "other": "witness"}
+{"kind": "scalar", "id": "trm:saksin", "field": "literal", "kept": "eye-witness", "other": "witness"}
+{"kind": "scalar", "id": "trm:saksin", "field": "literal", "kept": "eye-witness", "other": "witness"}
+{"kind": "scalar", "id": "trm:saksin", "field": "literal", "kept": "eye-witness", "other": "witness"}
+{"kind": "scalar", "id": "trm:saksin", "field": "literal", "kept": "eye-witness", "other": "witness"}
+{"kind": "scalar", "id": "trm:tridandin", "field": "literal", "kept": "bearer of the triple staff", "other": "triple-staffed"}
+{"kind": "scalar", "id": "trm:karma", "field": "literal", "kept": "action; ritual act; the deed and its result", "other": "action"}
+{"kind": "scalar", "id": "trm:karma", "field": "term", "kept": "karma", "other": "karma(n)"}
+{"kind": "scalar", "id": "trm:karma", "field": "literal", "kept": "action; ritual act; the deed and its result", "other": "action; (in Vaiśeṣika) motion"}
+{"kind": "scalar", "id": "trm:karma", "field": "term", "kept": "karma", "other": "karman"}
+{"kind": "scalar", "id": "trm:karma", "field": "literal", "kept": "action; ritual act; the deed and its result", "other": "action and its result"}
+{"kind": "scalar", "id": "trm:nihsreyasa", "field": "literal", "kept": "the highest good", "other": "the supreme good"}
+{"kind": "scalar", "id": "trm:nihsreyasa", "field": "literal", "kept": "the highest good", "other": "highest good"}
+{"kind": "scalar", "id": "trm:sattva", "field": "literal", "kept": "being, goodness, luminosity", "other": "being-ness; the luminous guṇa"}
+{"kind": "scalar", "id": "trm:sattva", "field": "literal", "kept": "being, goodness, luminosity", "other": "being; luminous quality; the buddhi-sattva"}
+{"kind": "scalar", "id": "trm:tamas", "field": "literal", "kept": "darkness, inertia", "other": "darkness"}
+{"kind": "scalar", "id": "trm:tamas", "field": "term", "kept": "tamas", "other": "tamas (darkness)"}
+{"kind": "scalar", "id": "trm:tamas", "field": "literal", "kept": "darkness, inertia", "other": "darkness"}
+{"kind": "scalar", "id": "trm:tamas", "field": "literal", "kept": "darkness, inertia", "other": "darkness"}
+{"kind": "scalar", "id": "trm:purusartha", "field": "literal", "kept": "aim of a person", "other": "the purpose of puruṣa"}
+{"kind": "scalar", "id": "trm:trivarga", "field": "literal", "kept": "the group of three (aims)", "other": "the group of three"}
+{"kind": "scalar", "id": "trm:moksa", "field": "term", "kept": "mokṣa", "other": "mokṣa (mukti)"}
+{"kind": "scalar", "id": "trm:moksa", "field": "literal", "kept": "release", "other": "release, liberation"}
+{"kind": "scalar", "id": "trm:moksa", "field": "literal", "kept": "release", "other": "liberation"}
+{"kind": "scalar", "id": "trm:moksa", "field": "literal", "kept": "release", "other": "liberation"}
+{"kind": "scalar", "id": "trm:moksa", "field": "term", "kept": "mokṣa", "other": "mokṣa / mukti"}
+{"kind": "scalar", "id": "trm:moksa", "field": "term", "kept": "mokṣa", "other": "mokṣa (mukti)"}
+{"kind": "scalar", "id": "trm:moksa", "field": "literal", "kept": "release", "other": "liberation"}
+{"kind": "scalar", "id": "trm:brahmacarya", "field": "literal", "kept": "celibacy; conduct of Brahman", "other": "conduct in (the study of) Brahman"}
+{"kind": "scalar", "id": "trm:brahmacarya", "field": "literal", "kept": "celibacy; conduct of Brahman", "other": "conduct toward Brahman; celibacy"}
+{"kind": "scalar", "id": "trm:samnyasa", "field": "literal", "kept": "renunciation", "other": "laying down, renunciation"}
+{"kind": "scalar", "id": "trm:samnyasa", "field": "literal", "kept": "renunciation", "other": "laying down"}
+{"kind": "scalar", "id": "trm:svadhyaya", "field": "literal", "kept": "self-study, recitation", "other": "one's own (branch of the) Veda"}
+{"kind": "scalar", "id": "trm:svadhyaya", "field": "literal", "kept": "self-study, recitation", "other": "one's own recitation"}
+{"kind": "scalar", "id": "trm:svadhyaya", "field": "literal", "kept": "self-study, recitation", "other": "own recitation/study"}
+{"kind": "scalar", "id": "trm:samskara", "field": "literal", "kept": "impression, formation", "other": "making ready, refinement"}
+{"kind": "scalar", "id": "trm:samskara", "field": "literal", "kept": "impression, formation", "other": "latent impression"}
+{"kind": "scalar", "id": "trm:samskara", "field": "literal", "kept": "impression, formation", "other": "impression; disposition"}
+{"kind": "scalar", "id": "trm:samskara", "field": "term", "kept": "saṃskāra", "other": "saṃskāra / āśaya"}
+{"kind": "scalar", "id": "trm:samskara", "field": "literal", "kept": "impression, formation", "other": "latent impression"}
+{"kind": "scalar", "id": "trm:niyoga", "field": "literal", "kept": "appointment", "other": "command; enjoinment"}
+{"kind": "scalar", "id": "trm:pinda", "field": "literal", "kept": "ball (of rice)", "other": "embodied being"}
+{"kind": "scalar", "id": "trm:preta", "field": "literal", "kept": "one who has gone forth; the departed", "other": "departed"}
+{"kind": "scalar", "id": "trm:prajna", "field": "term", "kept": "Prājña", "other": "prajñā"}
+{"kind": "scalar", "id": "trm:prajna", "field": "native", "kept": "प्राज्ञ", "other": "प्रज्ञा"}
+{"kind": "scalar", "id": "trm:prajna", "field": "literal", "kept": "the knowing one", "other": "insight, wisdom"}
+{"kind": "scalar", "id": "trm:prajna", "field": "term", "kept": "Prājña", "other": "prajñā"}
+{"kind": "scalar", "id": "trm:prajna", "field": "term", "kept": "Prājña", "other": "prajñā / prajñāna"}
+{"kind": "scalar", "id": "trm:prajna", "field": "native", "kept": "प्राज्ञ", "other": "प्रज्ञा"}
+{"kind": "scalar", "id": "trm:prajna", "field": "term", "kept": "Prājña", "other": "prājña"}
+{"kind": "scalar", "id": "trm:prajna", "field": "literal", "kept": "the knowing one", "other": "the knower"}
+{"kind": "scalar", "id": "trm:antaryamin", "field": "literal", "kept": "the one who controls from within", "other": "inner controller"}
+{"kind": "scalar", "id": "trm:antaryamin", "field": "literal", "kept": "the one who controls from within", "other": "inner controller"}
+{"kind": "scalar", "id": "trm:antaryamin", "field": "literal", "kept": "the one who controls from within", "other": "inner controller"}
+{"kind": "scalar", "id": "trm:ksara", "field": "literal", "kept": "perishable", "other": "the perishable"}
+{"kind": "scalar", "id": "trm:neti-neti", "field": "literal", "kept": "not this, not this", "other": "not thus, not thus"}
+{"kind": "scalar", "id": "trm:neti-neti", "field": "literal", "kept": "not this, not this", "other": "not thus, not thus"}
+{"kind": "scalar", "id": "trm:mahavakya", "field": "literal", "kept": "great sentence", "other": "great saying"}
+{"kind": "scalar", "id": "trm:jagrat", "field": "term", "kept": "jāgarita / jāgrat", "other": "jāgrat"}
+{"kind": "scalar", "id": "trm:jagrat", "field": "term", "kept": "jāgarita / jāgrat", "other": "jāgrat"}
+{"kind": "scalar", "id": "trm:svapna", "field": "literal", "kept": "dream; sleep", "other": "dream"}
+{"kind": "scalar", "id": "trm:svapna", "field": "literal", "kept": "dream; sleep", "other": "dream"}
+{"kind": "scalar", "id": "trm:susupti", "field": "term", "kept": "suṣupti / suṣupta", "other": "suṣupti"}
+{"kind": "scalar", "id": "trm:susupti", "field": "term", "kept": "suṣupti / suṣupta", "other": "suṣupti"}
+{"kind": "scalar", "id": "trm:susupti", "field": "term", "kept": "suṣupti / suṣupta", "other": "suṣupti / sauṣupta"}
+{"kind": "scalar", "id": "trm:susupti", "field": "term", "kept": "suṣupti / suṣupta", "other": "suṣupti"}
+{"kind": "scalar", "id": "trm:taijasa", "field": "term", "kept": "Taijasa", "other": "taijasa"}
+{"kind": "scalar", "id": "trm:taijasa", "field": "literal", "kept": "the luminous", "other": "fiery, energetic"}
+{"kind": "scalar", "id": "trm:taijasa", "field": "term", "kept": "Taijasa", "other": "taijasa"}
+{"kind": "scalar", "id": "trm:taijasa", "field": "term", "kept": "Taijasa", "other": "taijasa"}
+{"kind": "scalar", "id": "trm:susumna", "field": "term", "kept": "suṣumṇā", "other": "suṣumnā"}
+{"kind": "scalar", "id": "trm:susumna", "field": "term", "kept": "suṣumṇā", "other": "suṣumnā"}
+{"kind": "scalar", "id": "trm:susumna", "field": "literal", "kept": "most gracious", "other": "the central channel"}
+{"kind": "scalar", "id": "trm:susumna", "field": "term", "kept": "suṣumṇā", "other": "suṣumnā / madhyanāḍī"}
+{"kind": "scalar", "id": "trm:susumna", "field": "literal", "kept": "most gracious", "other": "the central channel"}
+{"kind": "scalar", "id": "trm:anu", "field": "term", "kept": "aṇu / aṇīyān", "other": "aṇu (of the self)"}
+{"kind": "scalar", "id": "trm:buddhi", "field": "literal", "kept": "cognition; intellect", "other": "intellect, awakening"}
+{"kind": "scalar", "id": "trm:buddhi", "field": "literal", "kept": "cognition; intellect", "other": "intellect"}
+{"kind": "scalar", "id": "trm:buddhi", "field": "literal", "kept": "cognition; intellect", "other": "intellect, understanding"}
+{"kind": "scalar", "id": "trm:buddhi", "field": "literal", "kept": "cognition; intellect", "other": "intellect"}
+{"kind": "scalar", "id": "trm:citta", "field": "literal", "kept": "mind; that which is conscious (as if)", "other": "mind-stuff"}
+{"kind": "scalar", "id": "trm:citta", "field": "literal", "kept": "mind; that which is conscious (as if)", "other": "mind"}
+{"kind": "scalar", "id": "trm:ahamkara", "field": "literal", "kept": "I-maker", "other": "I-maker, ego"}
+{"kind": "scalar", "id": "trm:ahamkara", "field": "literal", "kept": "I-maker", "other": "ego"}
+{"kind": "scalar", "id": "trm:sankalpa", "field": "native", "kept": "संकल्प", "other": "सङ्कल्प"}
+{"kind": "scalar", "id": "trm:sankalpa", "field": "literal", "kept": "construction, intention", "other": "conception, resolve"}
+{"kind": "scalar", "id": "trm:samsara", "field": "literal", "kept": "wandering, the round of rebirth", "other": "wandering; cycle of existence"}
+{"kind": "scalar", "id": "trm:avidya", "field": "literal", "kept": "ignorance", "other": "not-knowing"}
+{"kind": "scalar", "id": "trm:avidya", "field": "literal", "kept": "ignorance", "other": "non-knowledge; wrong cognition"}
+{"kind": "scalar", "id": "trm:avidya", "field": "literal", "kept": "ignorance", "other": "nescience"}
+{"kind": "scalar", "id": "trm:upanisad", "field": "literal", "kept": "sitting near; correspondence; secret", "other": "sitting near; secret teaching"}
+{"kind": "scalar", "id": "trm:pranava", "field": "term", "kept": "praṇava", "other": "praṇava (Om)"}
+{"kind": "scalar", "id": "trm:pranava", "field": "literal", "kept": "the reverberating (syllable); Oṃ", "other": "the resounding"}
+{"kind": "scalar", "id": "trm:pranava", "field": "literal", "kept": "the reverberating (syllable); Oṃ", "other": "the syllable Oṃ"}
+{"kind": "scalar", "id": "trm:pranava", "field": "literal", "kept": "the reverberating (syllable); Oṃ", "other": "Oṃ"}
+{"kind": "scalar", "id": "trm:pranava", "field": "literal", "kept": "the reverberating (syllable); Oṃ", "other": "the reverberating (Oṃ)"}
+{"kind": "scalar", "id": "trm:pranava", "field": "term", "kept": "praṇava", "other": "praṇava (oṃ)"}
+{"kind": "scalar", "id": "trm:pranava", "field": "literal", "kept": "the reverberating (syllable); Oṃ", "other": "the sacred syllable"}
+{"kind": "scalar", "id": "trm:tarka", "field": "literal", "kept": "hypothetical reasoning", "other": "reasoning"}
+{"kind": "scalar", "id": "trm:samadhi", "field": "literal", "kept": "putting together; absorption", "other": "absorption"}
+{"kind": "scalar", "id": "trm:samadhi", "field": "literal", "kept": "putting together; absorption", "other": "absorption"}
+{"kind": "scalar", "id": "trm:samadhi", "field": "literal", "kept": "putting together; absorption", "other": "absorption"}
+{"kind": "scalar", "id": "trm:samadhi", "field": "literal", "kept": "putting together; absorption", "other": "concentration; absorption"}
+{"kind": "scalar", "id": "trm:samadhi", "field": "literal", "kept": "putting together; absorption", "other": "concentration, composure"}
+{"kind": "scalar", "id": "trm:samadhi", "field": "literal", "kept": "putting together; absorption", "other": "absorption"}
+{"kind": "scalar", "id": "trm:dama", "field": "literal", "kept": "self-restraint", "other": "restraint"}
+{"kind": "scalar", "id": "trm:guru", "field": "literal", "kept": "heavy, weighty", "other": "heavy; teacher"}
+{"kind": "scalar", "id": "trm:guru", "field": "literal", "kept": "heavy, weighty", "other": "heavy; teacher"}
+{"kind": "scalar", "id": "trm:guru", "field": "literal", "kept": "heavy, weighty", "other": "teacher"}
+{"kind": "scalar", "id": "trm:guru", "field": "literal", "kept": "heavy, weighty", "other": "heavy; weighty one"}
+{"kind": "scalar", "id": "trm:guru", "field": "literal", "kept": "heavy, weighty", "other": "teacher"}
+{"kind": "scalar", "id": "trm:guru", "field": "term", "kept": "guru", "other": "guru (ācārya)"}
+{"kind": "scalar", "id": "trm:guru", "field": "literal", "kept": "heavy, weighty", "other": "teacher"}
+{"kind": "scalar", "id": "trm:prasada", "field": "literal", "kept": "grace, favour", "other": "grace; serenity; sanctified food"}
+{"kind": "scalar", "id": "trm:prasada", "field": "literal", "kept": "grace, favour", "other": "serenity; grace"}
+{"kind": "scalar", "id": "trm:prasada", "field": "literal", "kept": "grace, favour", "other": "grace; clarity"}
+{"kind": "scalar", "id": "trm:bhakti", "field": "literal", "kept": "devotion, loving participation", "other": "devotion; participation"}
+{"kind": "scalar", "id": "trm:bhakti", "field": "literal", "kept": "devotion, loving participation", "other": "participation, devotion"}
+{"kind": "scalar", "id": "trm:bhakti", "field": "literal", "kept": "devotion, loving participation", "other": "devotion"}
+{"kind": "scalar", "id": "trm:bhakti", "field": "literal", "kept": "devotion, loving participation", "other": "devotion, participation"}
+{"kind": "scalar", "id": "trm:bhakti", "field": "literal", "kept": "devotion, loving participation", "other": "devotion, love"}
+{"kind": "scalar", "id": "trm:bhakti", "field": "literal", "kept": "devotion, loving participation", "other": "devotion"}
+{"kind": "scalar", "id": "trm:prapatti", "field": "term", "kept": "prapatti", "other": "prapatti (prapadye)"}
+{"kind": "scalar", "id": "trm:prapatti", "field": "literal", "kept": "taking refuge, surrender", "other": "falling at, taking refuge"}
+{"kind": "scalar", "id": "trm:isvara", "field": "literal", "kept": "lord", "other": "Lord"}
+{"kind": "scalar", "id": "trm:isvara", "field": "term", "kept": "īśvara", "other": "Īśvara"}
+{"kind": "scalar", "id": "trm:isvara", "field": "literal", "kept": "lord", "other": "the Lord"}
+{"kind": "scalar", "id": "trm:isvara", "field": "term", "kept": "īśvara", "other": "īśa / īśvara / maheśvara"}
+{"kind": "scalar", "id": "trm:prakrti", "field": "literal", "kept": "that which brings forth; nature, source", "other": "primal nature; material cause"}
+{"kind": "scalar", "id": "trm:prakrti", "field": "literal", "kept": "that which brings forth; nature, source", "other": "nature; primary matter"}
+{"kind": "scalar", "id": "trm:prakrti", "field": "literal", "kept": "that which brings forth; nature, source", "other": "nature"}
+{"kind": "scalar", "id": "trm:prakrti", "field": "literal", "kept": "that which brings forth; nature, source", "other": "nature, matter"}
+{"kind": "scalar", "id": "trm:prakrti", "field": "literal", "kept": "that which brings forth; nature, source", "other": "primal matter"}
+{"kind": "scalar", "id": "trm:prakrti", "field": "literal", "kept": "that which brings forth; nature, source", "other": "primal matter"}
+{"kind": "scalar", "id": "trm:pradhana", "field": "literal", "kept": "the principal, the chief (cause)", "other": "the chief; primal matter"}
+{"kind": "scalar", "id": "trm:pradhana", "field": "literal", "kept": "the principal, the chief (cause)", "other": "the principal (matter)"}
+{"kind": "scalar", "id": "trm:pradhana", "field": "literal", "kept": "the principal, the chief (cause)", "other": "principal (rite)"}
+{"kind": "scalar", "id": "trm:sakti", "field": "literal", "kept": "power", "other": "power; denotative power"}
+{"kind": "scalar", "id": "trm:avyakta", "field": "literal", "kept": "unmanifest", "other": "the unmanifest"}
+{"kind": "scalar", "id": "trm:mahat", "field": "term", "kept": "mahat", "other": "mahat / mahān ātmā"}
+{"kind": "scalar", "id": "trm:mahat", "field": "literal", "kept": "the great (one)", "other": "the great (principle)"}
+{"kind": "scalar", "id": "trm:hrdaya-granthi", "field": "term", "kept": "hṛdayagranthi", "other": "hṛdaya-granthi"}
+{"kind": "scalar", "id": "trm:narayana", "field": "literal", "kept": "resting-place of beings / of the waters", "other": "the abode (or goal) of men/waters"}
+{"kind": "scalar", "id": "trm:narayana", "field": "literal", "kept": "resting-place of beings / of the waters", "other": "abode of the souls / in whom all abide"}
+{"kind": "scalar", "id": "trm:narayana", "field": "term", "kept": "Nārāyaṇa", "other": "nārāyaṇa"}
+{"kind": "scalar", "id": "trm:narayana", "field": "literal", "kept": "resting-place of beings / of the waters", "other": "resting-place of men / of the waters"}
+{"kind": "scalar", "id": "trm:kaivalya", "field": "literal", "kept": "aloneness, isolation", "other": "isolation, aloneness"}
+{"kind": "scalar", "id": "trm:kaivalya", "field": "literal", "kept": "aloneness, isolation", "other": "aloneness"}
+{"kind": "scalar", "id": "trm:kaivalya", "field": "literal", "kept": "aloneness, isolation", "other": "aloneness"}
+{"kind": "scalar", "id": "trm:kaivalya", "field": "literal", "kept": "aloneness, isolation", "other": "isolation"}
+{"kind": "scalar", "id": "trm:videhamukti", "field": "literal", "kept": "bodiless liberation", "other": "disembodied liberation"}
+{"kind": "scalar", "id": "trm:salokya", "field": "literal", "kept": "sharing the same world", "other": "same world"}
+{"kind": "scalar", "id": "trm:salokya", "field": "literal", "kept": "sharing the same world", "other": "same world"}
+{"kind": "scalar", "id": "trm:salokya", "field": "literal", "kept": "sharing the same world", "other": "sharing the world"}
+{"kind": "scalar", "id": "trm:sarupya", "field": "literal", "kept": "likeness of form", "other": "same form"}
+{"kind": "scalar", "id": "trm:sarupya", "field": "literal", "kept": "likeness of form", "other": "same form"}
+{"kind": "scalar", "id": "trm:sarupya", "field": "literal", "kept": "likeness of form", "other": "sameness of form"}
+{"kind": "scalar", "id": "trm:sayujya", "field": "term", "kept": "sāyujya ('yoga')", "other": "sāyujya"}
+{"kind": "scalar", "id": "trm:sayujya", "field": "term", "kept": "sāyujya ('yoga')", "other": "sāyujya"}
+{"kind": "scalar", "id": "trm:sayujya", "field": "term", "kept": "sāyujya ('yoga')", "other": "sāyujya"}
+{"kind": "scalar", "id": "trm:sayujya", "field": "term", "kept": "sāyujya ('yoga')", "other": "sāyujya"}
+{"kind": "scalar", "id": "trm:vasana", "field": "literal", "kept": "scent, impression", "other": "perfuming; latent tendency"}
+{"kind": "scalar", "id": "trm:vasana", "field": "literal", "kept": "scent, impression", "other": "latent impression"}
+{"kind": "scalar", "id": "trm:vasana", "field": "literal", "kept": "scent, impression", "other": "latent impression, perfume"}
+{"kind": "scalar", "id": "trm:manonasa", "field": "term", "kept": "manonāśa", "other": "mano-nāśa"}
+{"kind": "scalar", "id": "trm:taraka", "field": "literal", "kept": "that which carries across; deliverer", "other": "that which carries across"}
+{"kind": "scalar", "id": "trm:vicarana", "field": "literal", "kept": "inquiry, deliberation", "other": "inquiry"}
+{"kind": "scalar", "id": "trm:turyaga", "field": "literal", "kept": "the one gone to the fourth", "other": "gone to the fourth"}
+{"kind": "scalar", "id": "trm:prarabdha", "field": "literal", "kept": "begun (karma)", "other": "begun karma"}
+{"kind": "scalar", "id": "trm:bindu", "field": "literal", "kept": "drop, point", "other": "point, dot (anusvāra), point of light"}
+{"kind": "scalar", "id": "trm:anahata", "field": "term", "kept": "anāhata", "other": "anāhata (sound)"}
+{"kind": "scalar", "id": "trm:ajapa", "field": "literal", "kept": "unrecited", "other": "the unrepeated [repetition]"}
+{"kind": "scalar", "id": "trm:para-vak", "field": "term", "kept": "parā vāk", "other": "parā"}
+{"kind": "scalar", "id": "trm:para-vak", "field": "native", "kept": "परा वाक्", "other": "परा"}
+{"kind": "scalar", "id": "trm:para-vak", "field": "literal", "kept": "supreme speech", "other": "the supreme (speech)"}
+{"kind": "scalar", "id": "trm:pasyanti", "field": "literal", "kept": "the 'seeing' level of speech", "other": "the seeing (speech)"}
+{"kind": "scalar", "id": "trm:cakra", "field": "literal", "kept": "wheel", "other": "wheel, centre"}
+{"kind": "scalar", "id": "trm:kundalini", "field": "literal", "kept": "the coiled one", "other": "the coiled [power]"}
+{"kind": "scalar", "id": "trm:asana", "field": "literal", "kept": "seat", "other": "posture"}
+{"kind": "scalar", "id": "trm:asana", "field": "literal", "kept": "seat", "other": "seat, posture"}
+{"kind": "scalar", "id": "trm:asana", "field": "literal", "kept": "seat", "other": "seat, posture"}
+{"kind": "scalar", "id": "trm:kumbhaka", "field": "literal", "kept": "pot-like (retention)", "other": "breath-retention"}
+{"kind": "scalar", "id": "trm:bandha", "field": "literal", "kept": "bondage", "other": "lock"}
+{"kind": "scalar", "id": "trm:khecari", "field": "literal", "kept": "moving in space", "other": "she who moves in the void (space of consciousness)"}
+{"kind": "scalar", "id": "trm:laya", "field": "literal", "kept": "dissolution", "other": "torpor, dissolution"}
+{"kind": "scalar", "id": "trm:siddhi", "field": "literal", "kept": "accomplishment", "other": "accomplishment, attainment"}
+{"kind": "scalar", "id": "trm:siddhi", "field": "literal", "kept": "accomplishment", "other": "accomplishment, power"}
+{"kind": "scalar", "id": "trm:siddhi", "field": "literal", "kept": "accomplishment", "other": "accomplishment, power"}
+{"kind": "scalar", "id": "trm:siddhi", "field": "literal", "kept": "accomplishment", "other": "perfection, accomplishment"}
+{"kind": "scalar", "id": "trm:siddhi", "field": "literal", "kept": "accomplishment", "other": "attainment, power"}
+{"kind": "scalar", "id": "trm:siddhi", "field": "literal", "kept": "accomplishment", "other": "power, attainment"}
+{"kind": "scalar", "id": "trm:arista", "field": "literal", "kept": "omen (of death)", "other": "portent"}
+{"kind": "scalar", "id": "trm:arista", "field": "literal", "kept": "omen (of death)", "other": "omen"}
+{"kind": "scalar", "id": "trm:kasaya", "field": "term", "kept": "kaṣāya", "other": "kāṣāya"}
+{"kind": "scalar", "id": "trm:madhukari", "field": "literal", "kept": "bee-like (begging)", "other": "bee-like (alms)"}
+{"kind": "scalar", "id": "trm:vairagya", "field": "term", "kept": "vairāgya", "other": "vairāgya (virāga)"}
+{"kind": "scalar", "id": "trm:vairagya", "field": "literal", "kept": "dispassion", "other": "absence of passion"}
+{"kind": "scalar", "id": "trm:vibhuti", "field": "literal", "kept": "manifestation of power, glory", "other": "sacred ash; prosperity"}
+{"kind": "scalar", "id": "trm:vibhuti", "field": "literal", "kept": "manifestation of power, glory", "other": "manifestation of power"}
+{"kind": "scalar", "id": "trm:vibhuti", "field": "literal", "kept": "manifestation of power, glory", "other": "glory; sacred ash"}
+{"kind": "scalar", "id": "trm:tripundra", "field": "literal", "kept": "three strokes", "other": "three lines"}
+{"kind": "scalar", "id": "trm:pasu", "field": "literal", "kept": "bound beast", "other": "bound creature; 'cattle'"}
+{"kind": "scalar", "id": "trm:pasu", "field": "literal", "kept": "bound beast", "other": "bound soul"}
+{"kind": "scalar", "id": "trm:pasu", "field": "literal", "kept": "bound beast", "other": "bound creature"}
+{"kind": "scalar", "id": "trm:pasu", "field": "literal", "kept": "bound beast", "other": "(bound) animal; the bound soul"}
+{"kind": "scalar", "id": "trm:pasu", "field": "literal", "kept": "bound beast", "other": "bound creature"}
+{"kind": "scalar", "id": "trm:urdhvapundra", "field": "term", "kept": "ūrdhvapuṇḍra", "other": "ūrdhvapuṇḍra / tirumaṇ"}
+{"kind": "scalar", "id": "trm:vyuha", "field": "literal", "kept": "arrangement, emanated form", "other": "array, emanation"}
+{"kind": "scalar", "id": "trm:vyuha", "field": "literal", "kept": "arrangement, emanated form", "other": "array, emanation"}
+{"kind": "scalar", "id": "trm:vyuha", "field": "literal", "kept": "arrangement, emanated form", "other": "emanation"}
+{"kind": "scalar", "id": "trm:karma-yoga", "field": "term", "kept": "karma-yoga", "other": "karmayoga"}
+{"kind": "scalar", "id": "trm:karma-yoga", "field": "literal", "kept": "the discipline of action", "other": "discipline of action"}
+{"kind": "scalar", "id": "trm:jnana-yoga", "field": "term", "kept": "jñāna-yoga", "other": "jñānayoga"}
+{"kind": "scalar", "id": "trm:jnana-yoga", "field": "literal", "kept": "the discipline of knowledge", "other": "discipline of knowledge"}
+{"kind": "scalar", "id": "trm:bhakti-yoga", "field": "term", "kept": "bhakti-yoga", "other": "bhaktiyoga"}
+{"kind": "scalar", "id": "trm:bhakti-yoga", "field": "literal", "kept": "the discipline of devotion", "other": "discipline of devotion"}
+{"kind": "scalar", "id": "trm:samkhya", "field": "literal", "kept": "pertaining to enumeration (saṃkhyā); discrimination", "other": "enumeration; the path of discriminating knowledge"}
+{"kind": "scalar", "id": "trm:sthitaprajna", "field": "literal", "kept": "one of steady wisdom", "other": "of steady wisdom"}
+{"kind": "scalar", "id": "trm:ksetra", "field": "literal", "kept": "field", "other": "field; sacred zone"}
+{"kind": "scalar", "id": "trm:purusottama", "field": "term", "kept": "Puruṣottama", "other": "puruṣottama"}
+{"kind": "scalar", "id": "trm:purusottama", "field": "literal", "kept": "the highest person", "other": "the supreme person"}
+{"kind": "scalar", "id": "trm:purusottama", "field": "term", "kept": "Puruṣottama", "other": "puruṣottama"}
+{"kind": "scalar", "id": "trm:purusottama", "field": "literal", "kept": "the highest person", "other": "highest person"}
+{"kind": "scalar", "id": "trm:kutastha", "field": "literal", "kept": "standing on the peak; unchanging", "other": "standing like an anvil; immutable"}
+{"kind": "scalar", "id": "trm:traigunya", "field": "literal", "kept": "the triad of guṇas", "other": "the realm of the three guṇas"}
+{"kind": "scalar", "id": "trm:vasudeva", "field": "term", "kept": "Vāsudeva", "other": "vāsudeva"}
+{"kind": "scalar", "id": "trm:vasudeva", "field": "literal", "kept": "son of Vasudeva; the indwelling god", "other": "son of Vasudeva; the indweller"}
+{"kind": "scalar", "id": "trm:bhagavat", "field": "literal", "kept": "possessing bhaga", "other": "the blessed one, the Lord"}
+{"kind": "scalar", "id": "trm:bhagavat", "field": "literal", "kept": "possessing bhaga", "other": "the Blessed One, possessor of bhaga"}
+{"kind": "scalar", "id": "trm:bhagavata", "field": "literal", "kept": "belonging to Bhagavat", "other": "devotee of the Lord"}
+{"kind": "scalar", "id": "trm:bhagavata", "field": "literal", "kept": "belonging to Bhagavat", "other": "devotee of Bhagavān"}
+{"kind": "scalar", "id": "trm:amsa", "field": "literal", "kept": "portion, part", "other": "part, portion"}
+{"kind": "scalar", "id": "trm:saranagati", "field": "literal", "kept": "going for refuge", "other": "coming for refuge"}
+{"kind": "scalar", "id": "trm:abhyasa", "field": "literal", "kept": "repeated practice", "other": "practice"}
+{"kind": "scalar", "id": "trm:daiva", "field": "literal", "kept": "divine, fate", "other": "the divine; fate"}
+{"kind": "scalar", "id": "trm:purusakara", "field": "literal", "kept": "human effort", "other": "mediator, intercessor"}
+{"kind": "scalar", "id": "trm:titiksa", "field": "literal", "kept": "endurance, forbearance", "other": "endurance"}
+{"kind": "scalar", "id": "trm:karpanya", "field": "literal", "kept": "helplessness, humility", "other": "wretchedness, faint-heartedness"}
+{"kind": "scalar", "id": "trm:kalpa", "field": "literal", "kept": "aeon, cosmic age", "other": "formation, aeon"}
+{"kind": "scalar", "id": "trm:pancaratra", "field": "term", "kept": "pañcarātra", "other": "pāñcarātra / pañcarātra"}
+{"kind": "scalar", "id": "trm:pancaratra", "field": "native", "kept": "पञ्चरात्र", "other": "पाञ्चरात्र"}
+{"kind": "scalar", "id": "trm:pancaratra", "field": "literal", "kept": "the 'five nights' (system)", "other": "(pertaining to) five nights"}
+{"kind": "scalar", "id": "trm:pradyumna", "field": "term", "kept": "Pradyumna", "other": "pradyumna"}
+{"kind": "scalar", "id": "trm:aniruddha", "field": "term", "kept": "Aniruddha", "other": "aniruddha"}
+{"kind": "scalar", "id": "trm:tattva", "field": "literal", "kept": "that-ness; reality", "other": "'that-ness'; principle, reality"}
+{"kind": "scalar", "id": "trm:tattva", "field": "literal", "kept": "that-ness; reality", "other": "thatness, principle"}
+{"kind": "scalar", "id": "trm:tattva", "field": "literal", "kept": "that-ness; reality", "other": "principle"}
+{"kind": "scalar", "id": "trm:tattva", "field": "literal", "kept": "that-ness; reality", "other": "principle, level of reality"}
+{"kind": "scalar", "id": "trm:itihasa", "field": "literal", "kept": "'so indeed it was'", "other": "'so indeed it was'; epic history"}
+{"kind": "scalar", "id": "trm:tirtha", "field": "literal", "kept": "ford, crossing", "other": "ford; pilgrimage place"}
+{"kind": "scalar", "id": "trm:ajagara-vrtti", "field": "literal", "kept": "python's mode of life", "other": "the python's way of life"}
+{"kind": "scalar", "id": "trm:nairasya", "field": "literal", "kept": "hopelessness, absence of expectation", "other": "freedom from hope"}
+{"kind": "scalar", "id": "trm:apramada", "field": "literal", "kept": "heedfulness", "other": "vigilance"}
+{"kind": "scalar", "id": "trm:pramada", "field": "literal", "kept": "heedlessness", "other": "carelessness"}
+{"kind": "scalar", "id": "trm:sama", "field": "literal", "kept": "calm, quiescence", "other": "calm"}
+{"kind": "scalar", "id": "trm:vicara", "field": "literal", "kept": "inquiry, reflection", "other": "reflection"}
+{"kind": "scalar", "id": "trm:santosa", "field": "term", "kept": "saṃtoṣa", "other": "santoṣa"}
+{"kind": "scalar", "id": "trm:santosa", "field": "native", "kept": "संतोष", "other": "सन्तोष"}
+{"kind": "scalar", "id": "trm:vasana-ksaya", "field": "term", "kept": "vāsanākṣaya", "other": "vāsanā-kṣaya"}
+{"kind": "scalar", "id": "trm:vasana-ksaya", "field": "literal", "kept": "destruction of vāsanās", "other": "waning of impressions"}
+{"kind": "scalar", "id": "trm:ahaituki-bhakti", "field": "literal", "kept": "causeless devotion", "other": "unmotivated devotion"}
+{"kind": "scalar", "id": "trm:nirguna-bhakti", "field": "native", "kept": "निर्गुणभक्ति", "other": "निर्गुण भक्ति"}
+{"kind": "scalar", "id": "trm:kriya-yoga", "field": "term", "kept": "kriyāyoga", "other": "kriyā-yoga"}
+{"kind": "scalar", "id": "trm:kriya-yoga", "field": "literal", "kept": "yoga of ritual action", "other": "yoga of action"}
+{"kind": "scalar", "id": "trm:abhasa", "field": "literal", "kept": "semblance, reflection", "other": "manifestation, appearance, 'shining forth'"}
+{"kind": "scalar", "id": "trm:abhasa", "field": "literal", "kept": "semblance, reflection", "other": "semblance"}
+{"kind": "scalar", "id": "trm:avaccheda", "field": "literal", "kept": "cutting off, delimitation", "other": "cutting off; delimitation"}
+{"kind": "scalar", "id": "trm:viksepa-sakti", "field": "term", "kept": "vikṣepaśakti", "other": "vikṣepa-śakti"}
+{"kind": "scalar", "id": "trm:avarana-sakti", "field": "term", "kept": "āvaraṇaśakti", "other": "āvaraṇa-śakti"}
+{"kind": "scalar", "id": "trm:adhyasa", "field": "literal", "kept": "placing upon", "other": "superimposition"}
+{"kind": "scalar", "id": "trm:virat", "field": "term", "kept": "virāṭ", "other": "virāj (vaiśvānara)"}
+{"kind": "scalar", "id": "trm:virat", "field": "literal", "kept": "the far-shining (cosmic form)", "other": "the shining one"}
+{"kind": "scalar", "id": "trm:bhasma", "field": "term", "kept": "bhasma", "other": "bhasma / vibhūti"}
+{"kind": "scalar", "id": "trm:pati", "field": "literal", "kept": "lord", "other": "lord, master"}
+{"kind": "scalar", "id": "trm:pati", "field": "literal", "kept": "lord", "other": "lord, master (of the bound animals)"}
+{"kind": "scalar", "id": "trm:visarga", "field": "literal", "kept": "secondary emission", "other": "emission; the aspirated ḥ"}
+{"kind": "scalar", "id": "trm:utkranti", "field": "literal", "kept": "departure (of the soul at death)", "other": "departure (at death)"}
+{"kind": "scalar", "id": "trm:utkranti", "field": "literal", "kept": "departure (of the soul at death)", "other": "going up/out"}
+{"kind": "scalar", "id": "trm:manana", "field": "literal", "kept": "reflection", "other": "thinking over"}
+{"kind": "scalar", "id": "trm:krama-mukti", "field": "literal", "kept": "liberation by stages", "other": "gradual liberation"}
+{"kind": "scalar", "id": "trm:linga", "field": "literal", "kept": "mark, sign", "other": "mark; that which merges back"}
+{"kind": "scalar", "id": "trm:linga", "field": "literal", "kept": "mark, sign", "other": "mark; sign; probans"}
+{"kind": "scalar", "id": "trm:bhavana", "field": "literal", "kept": "cultivation, causing to be", "other": "bringing-into-being; efficient force"}
+{"kind": "scalar", "id": "trm:bhavana", "field": "literal", "kept": "cultivation, causing to be", "other": "contemplation, cultivated disposition"}
+{"kind": "scalar", "id": "trm:bhavana", "field": "literal", "kept": "cultivation, causing to be", "other": "memory-impression (Nyāya-Vaiśeṣika sense)"}
+{"kind": "scalar", "id": "trm:upasarga", "field": "literal", "kept": "obstacle, affliction (of samādhi)", "other": "affliction, obstacle"}
+{"kind": "scalar", "id": "trm:antaraya", "field": "literal", "kept": "obstacle", "other": "what comes between; obstacle"}
+{"kind": "scalar", "id": "trm:ekadasi", "field": "term", "kept": "Ekādaśī (Hari-dina, Nārāyaṇa-dina)", "other": "ekādaśī"}
+{"kind": "scalar", "id": "trm:ekadasi", "field": "literal", "kept": "the eleventh (lunar day)", "other": "the eleventh"}
+{"kind": "scalar", "id": "trm:agama", "field": "literal", "kept": "authoritative word", "other": "what has come down; testimony, scripture"}
+{"kind": "scalar", "id": "trm:agama", "field": "literal", "kept": "authoritative word", "other": "scripture, what has come down"}
+{"kind": "scalar", "id": "trm:agama", "field": "literal", "kept": "authoritative word", "other": "that which has come down; tradition, scripture"}
+{"kind": "scalar", "id": "trm:atimarga", "field": "literal", "kept": "the path beyond", "other": "the path beyond / outer path"}
+{"kind": "scalar", "id": "trm:sadasiva", "field": "term", "kept": "sadāśiva", "other": "sadāśiva-tattva"}
+{"kind": "scalar", "id": "trm:sadasiva", "field": "literal", "kept": "the ever-auspicious", "other": "the ever-benign principle"}
+{"kind": "scalar", "id": "trm:samaya", "field": "literal", "kept": "agreement, convention; observance", "other": "conventional rule; vow of the initiate"}
+{"kind": "scalar", "id": "trm:saktipata", "field": "literal", "kept": "descent (fall) of power", "other": "descent of power (grace)"}
+{"kind": "scalar", "id": "trm:anugraha", "field": "literal", "kept": "grace, favour", "other": "favour"}
+{"kind": "scalar", "id": "trm:anugraha", "field": "literal", "kept": "grace, favour", "other": "favour, grace"}
+{"kind": "scalar", "id": "trm:tirobhava", "field": "term", "kept": "tirobhāva", "other": "tirobhāva / tirodhāna"}
+{"kind": "scalar", "id": "trm:puja", "field": "literal", "kept": "worship, honouring", "other": "worship"}
+{"kind": "scalar", "id": "trm:atmartha-puja", "field": "term", "kept": "ātmārtha-pūjā / svārtha-pūjā", "other": "ātmārtha-pūjā"}
+{"kind": "scalar", "id": "trm:adhvan", "field": "term", "kept": "adhvan", "other": "adhvan (ṣaḍadhvan)"}
+{"kind": "scalar", "id": "trm:adhvan", "field": "literal", "kept": "path, time-path", "other": "path; the six paths"}
+{"kind": "scalar", "id": "trm:adhvan", "field": "literal", "kept": "path, time-path", "other": "path (of manifestation)"}
+{"kind": "scalar", "id": "trm:vibhava", "field": "literal", "kept": "manifestation, descent", "other": "descent"}
+{"kind": "scalar", "id": "trm:vibhava", "field": "term", "kept": "vibhava", "other": "vibhāva"}
+{"kind": "scalar", "id": "trm:vibhava", "field": "literal", "kept": "manifestation, descent", "other": "that which causes to be felt"}
+{"kind": "scalar", "id": "trm:arca", "field": "term", "kept": "arcā / arcāvatāra", "other": "arcā"}
+{"kind": "scalar", "id": "trm:arca", "field": "literal", "kept": "image-descent", "other": "(object of) worship; consecrated image"}
+{"kind": "scalar", "id": "trm:tanmatra", "field": "literal", "kept": "'that only'; subtle element", "other": "that only"}
+{"kind": "scalar", "id": "trm:asatkaryavada", "field": "literal", "kept": "doctrine that the effect is non-existent (before production)", "other": "doctrine that the effect does not pre-exist"}
+{"kind": "scalar", "id": "trm:parinama", "field": "literal", "kept": "transformation", "other": "real transformation"}
+{"kind": "scalar", "id": "trm:avisesa", "field": "literal", "kept": "non-specific", "other": "unparticularized"}
+{"kind": "scalar", "id": "trm:visesa", "field": "literal", "kept": "specific", "other": "particularized"}
+{"kind": "scalar", "id": "trm:visesa", "field": "literal", "kept": "specific", "other": "particularity; ultimate differentiator"}
+{"kind": "scalar", "id": "trm:visesa", "field": "literal", "kept": "specific", "other": "distinction, particularity"}
+{"kind": "scalar", "id": "trm:suksma-sarira", "field": "term", "kept": "sūkṣma-śarīra", "other": "sūkṣma-śarīra (liṅga-śarīra)"}
+{"kind": "scalar", "id": "trm:karana", "field": "term", "kept": "karaṇa", "other": "kāraṇa / karaṇa"}
+{"kind": "scalar", "id": "trm:karana", "field": "native", "kept": "करण", "other": "कारण / करण"}
+{"kind": "scalar", "id": "trm:karana", "field": "literal", "kept": "instrument", "other": "cause / special instrument"}
+{"kind": "scalar", "id": "trm:karana", "field": "term", "kept": "karaṇa", "other": "kāraṇa"}
+{"kind": "scalar", "id": "trm:karana", "field": "native", "kept": "करण", "other": "कारण"}
+{"kind": "scalar", "id": "trm:karana", "field": "literal", "kept": "instrument", "other": "cause"}
+{"kind": "scalar", "id": "trm:antahkarana", "field": "literal", "kept": "internal instrument", "other": "inner instrument"}
+{"kind": "scalar", "id": "trm:antahkarana", "field": "literal", "kept": "internal instrument", "other": "inner organ"}
+{"kind": "scalar", "id": "trm:alocana", "field": "literal", "kept": "bare awareness", "other": "bare seeing"}
+{"kind": "scalar", "id": "trm:adharma", "field": "literal", "kept": "non-virtue, demerit", "other": "demerit"}
+{"kind": "scalar", "id": "trm:adharma", "field": "literal", "kept": "non-virtue, demerit", "other": "what is not dharma; demerit"}
+{"kind": "scalar", "id": "trm:jnana", "field": "literal", "kept": "knowledge", "other": "cognition; knowledge"}
+{"kind": "scalar", "id": "trm:ajnana", "field": "literal", "kept": "non-knowledge", "other": "ignorance"}
+{"kind": "scalar", "id": "trm:raga", "field": "term", "kept": "rāga (avairāgya)", "other": "rāga"}
+{"kind": "scalar", "id": "trm:raga", "field": "literal", "kept": "passion, attachment", "other": "attachment, passion"}
+{"kind": "scalar", "id": "trm:raga", "field": "term", "kept": "rāga (avairāgya)", "other": "rāga"}
+{"kind": "scalar", "id": "trm:raga", "field": "literal", "kept": "passion, attachment", "other": "attachment; passion"}
+{"kind": "scalar", "id": "trm:raga", "field": "term", "kept": "rāga (avairāgya)", "other": "rāga (as a stage of love)"}
+{"kind": "scalar", "id": "trm:aisvarya", "field": "literal", "kept": "power, lordship", "other": "lordship, power"}
+{"kind": "scalar", "id": "trm:anaisvarya", "field": "literal", "kept": "powerlessness", "other": "non-lordship"}
+{"kind": "scalar", "id": "trm:viparyaya", "field": "literal", "kept": "error, inversion", "other": "reversal; error"}
+{"kind": "scalar", "id": "trm:viparyaya", "field": "literal", "kept": "error, inversion", "other": "error"}
+{"kind": "scalar", "id": "trm:asakti", "field": "term", "kept": "aśakti", "other": "āsakti"}
+{"kind": "scalar", "id": "trm:asakti", "field": "literal", "kept": "incapacity", "other": "attachment"}
+{"kind": "scalar", "id": "trm:pramana", "field": "literal", "kept": "means of valid cognition", "other": "means / measure of valid knowledge"}
+{"kind": "scalar", "id": "trm:pramana", "field": "literal", "kept": "means of valid cognition", "other": "means / instance of valid knowledge"}
+{"kind": "scalar", "id": "trm:pramana", "field": "literal", "kept": "means of valid cognition", "other": "means of valid knowledge"}
+{"kind": "scalar", "id": "trm:pramana", "field": "literal", "kept": "means of valid cognition", "other": "means of valid knowledge"}
+{"kind": "scalar", "id": "trm:pramana", "field": "literal", "kept": "means of valid cognition", "other": "means of valid knowledge"}
+{"kind": "scalar", "id": "trm:pramana", "field": "literal", "kept": "means of valid cognition", "other": "means of valid knowledge"}
+{"kind": "scalar", "id": "trm:pramana", "field": "literal", "kept": "means of valid cognition", "other": "measure, means of knowing"}
+{"kind": "scalar", "id": "trm:anumana", "field": "literal", "kept": "inference", "other": "measuring after; inference"}
+{"kind": "scalar", "id": "trm:anumana", "field": "literal", "kept": "inference", "other": "inference; 'after-measure'"}
+{"kind": "scalar", "id": "trm:purvavat", "field": "literal", "kept": "'as before'", "other": "like the prior (inference from cause, or from what was before)"}
+{"kind": "scalar", "id": "trm:sesavat", "field": "literal", "kept": "'having a remainder'", "other": "like the remainder (inference from effect, or by elimination)"}
+{"kind": "scalar", "id": "trm:samanyatodrsta", "field": "literal", "kept": "'seen in general'", "other": "seen in general (inference from general correlation)"}
+{"kind": "scalar", "id": "trm:apavarga", "field": "literal", "kept": "liberation; release", "other": "release"}
+{"kind": "scalar", "id": "trm:apavarga", "field": "literal", "kept": "liberation; release", "other": "release, liberation"}
+{"kind": "scalar", "id": "trm:prakrtilaya", "field": "term", "kept": "prakṛtilaya", "other": "prakṛti-laya"}
+{"kind": "scalar", "id": "trm:prakrtilaya", "field": "literal", "kept": "absorption into prakṛti", "other": "dissolved in prakṛti"}
+{"kind": "scalar", "id": "trm:bhoga", "field": "literal", "kept": "experience, enjoyment", "other": "enjoyment, experience"}
+{"kind": "scalar", "id": "trm:adhisthana", "field": "literal", "kept": "control, presiding", "other": "ground, basis"}
+{"kind": "scalar", "id": "trm:cetana", "field": "literal", "kept": "sentient", "other": "conscious"}
+{"kind": "scalar", "id": "trm:vrtti", "field": "literal", "kept": "turning; activity, modification", "other": "livelihood"}
+{"kind": "scalar", "id": "trm:vrtti", "field": "literal", "kept": "turning; activity, modification", "other": "mode, turning"}
+{"kind": "scalar", "id": "trm:nirodha", "field": "literal", "kept": "restraint, stilling, cessation", "other": "restraint, stopping"}
+{"kind": "scalar", "id": "trm:pratyaksa", "field": "literal", "kept": "perception", "other": "perception; 'before the eye'"}
+{"kind": "scalar", "id": "trm:pratyaksa", "field": "literal", "kept": "perception", "other": "before the eye; perception"}
+{"kind": "scalar", "id": "trm:pratyaksa", "field": "literal", "kept": "perception", "other": "before the eye"}
+{"kind": "scalar", "id": "trm:vikalpa", "field": "literal", "kept": "conceptual construction", "other": "thought-construct, dichotomizing thought"}
+{"kind": "scalar", "id": "trm:duhkha", "field": "literal", "kept": "pain, suffering", "other": "pain; suffering"}
+{"kind": "scalar", "id": "trm:duhkha", "field": "literal", "kept": "pain, suffering", "other": "suffering"}
+{"kind": "scalar", "id": "trm:prasankhyana", "field": "term", "kept": "prasaṃkhyāna", "other": "prasaṅkhyāna"}
+{"kind": "scalar", "id": "trm:prasankhyana", "field": "literal", "kept": "highest reflection, meditative discernment", "other": "repeated contemplation"}
+{"kind": "scalar", "id": "trm:prasankhyana", "field": "term", "kept": "prasaṃkhyāna", "other": "prasaṅkhyāna"}
+{"kind": "scalar", "id": "trm:prasankhyana", "field": "literal", "kept": "highest reflection, meditative discernment", "other": "thorough reckoning"}
+{"kind": "scalar", "id": "trm:pratibha", "field": "term", "kept": "prātibha", "other": "pratibhā"}
+{"kind": "scalar", "id": "trm:pratibha", "field": "native", "kept": "प्रातिभ", "other": "प्रतिभा"}
+{"kind": "scalar", "id": "trm:pratibha", "field": "literal", "kept": "intuition, flash of insight", "other": "flash of intuition"}
+{"kind": "scalar", "id": "trm:pratibha", "field": "literal", "kept": "intuition, flash of insight", "other": "intuitive (flash) knowledge"}
+{"kind": "scalar", "id": "trm:siddhanta", "field": "literal", "kept": "established tenet; conclusion", "other": "established conclusion"}
+{"kind": "scalar", "id": "trm:vada", "field": "literal", "kept": "discussion (debate for truth)", "other": "(truth-seeking) debate"}
+{"kind": "scalar", "id": "trm:jalpa", "field": "literal", "kept": "wrangling (debate for victory)", "other": "wrangling"}
+{"kind": "scalar", "id": "trm:vitanda", "field": "literal", "kept": "cavilling (refutation without a counter-thesis)", "other": "cavil"}
+{"kind": "scalar", "id": "trm:upamana", "field": "literal", "kept": "comparison; analogy", "other": "comparison"}
+{"kind": "scalar", "id": "trm:upamana", "field": "literal", "kept": "comparison; analogy", "other": "comparison"}
+{"kind": "scalar", "id": "trm:prama", "field": "literal", "kept": "right knowledge", "other": "valid cognition"}
+{"kind": "scalar", "id": "trm:anuvyavasaya", "field": "literal", "kept": "after-cognition; introspective cognition", "other": "after-cognition"}
+{"kind": "scalar", "id": "trm:nirvikalpaka", "field": "literal", "kept": "indeterminate", "other": "indeterminate (perception)"}
+{"kind": "scalar", "id": "trm:savikalpaka", "field": "literal", "kept": "determinate (perception)", "other": "determinate"}
+{"kind": "scalar", "id": "trm:upadhi", "field": "literal", "kept": "adjunct; vitiating condition", "other": "that which is placed near"}
+{"kind": "scalar", "id": "trm:upadhi", "field": "literal", "kept": "adjunct; vitiating condition", "other": "limiting adjunct"}
+{"kind": "scalar", "id": "trm:upadhi", "field": "literal", "kept": "adjunct; vitiating condition", "other": "that which is placed near; limiting condition"}
+{"kind": "scalar", "id": "trm:vidhi", "field": "literal", "kept": "injunction", "other": "rule, injunction"}
+{"kind": "scalar", "id": "trm:arthapatti", "field": "literal", "kept": "postulation", "other": "presumption"}
+{"kind": "scalar", "id": "trm:arthapatti", "field": "literal", "kept": "postulation", "other": "presumption"}
+{"kind": "scalar", "id": "trm:laksana", "field": "term", "kept": "lakṣaṇā", "other": "lakṣaṇa / lakṣaṇā"}
+{"kind": "scalar", "id": "trm:laksana", "field": "literal", "kept": "indication; mark", "other": "definition; mark (lakṣaṇa); secondary meaning (lakṣaṇā)"}
+{"kind": "scalar", "id": "trm:laksana", "field": "native", "kept": "लक्षण / लक्षणा", "other": "लक्षणा"}
+{"kind": "scalar", "id": "trm:laksana", "field": "literal", "kept": "indication; mark", "other": "secondary signification"}
+{"kind": "scalar", "id": "trm:tatparya", "field": "term", "kept": "tātparya (mahātātparya)", "other": "tātparya"}
+{"kind": "scalar", "id": "trm:tatparya", "field": "literal", "kept": "purport", "other": "intention (of the speaker)"}
+{"kind": "scalar", "id": "trm:tatparya", "field": "term", "kept": "tātparya (mahātātparya)", "other": "tātparya"}
+{"kind": "scalar", "id": "trm:vakya", "field": "literal", "kept": "sentence; syntactic connection", "other": "sentence"}
+{"kind": "scalar", "id": "trm:akrti", "field": "literal", "kept": "form; universal", "other": "form; configuration"}
+{"kind": "scalar", "id": "trm:padartha", "field": "literal", "kept": "category; 'meaning of a word'", "other": "word-meaning; category"}
+{"kind": "scalar", "id": "trm:abhava", "field": "literal", "kept": "non-existence, negation", "other": "absence; non-existence"}
+{"kind": "scalar", "id": "trm:iccha", "field": "literal", "kept": "desire", "other": "will"}
+{"kind": "scalar", "id": "trm:adrsta", "field": "literal", "kept": "the unseen (merit and demerit)", "other": "unseen"}
+{"kind": "scalar", "id": "trm:sneha", "field": "literal", "kept": "affection, love", "other": "viscidity"}
+{"kind": "scalar", "id": "trm:sneha", "field": "literal", "kept": "affection, love", "other": "oiliness; affection"}
+{"kind": "scalar", "id": "trm:mahesvara", "field": "term", "kept": "māheśvara", "other": "Maheśvara / Mahādeva"}
+{"kind": "scalar", "id": "trm:mahesvara", "field": "native", "kept": "माहेश्वर", "other": "महेश्वर"}
+{"kind": "scalar", "id": "trm:mahesvara", "field": "literal", "kept": "of Maheśvara", "other": "great lord / great god"}
+{"kind": "scalar", "id": "trm:mahesvara", "field": "term", "kept": "māheśvara", "other": "Maheśvara"}
+{"kind": "scalar", "id": "trm:mahesvara", "field": "native", "kept": "माहेश्वर", "other": "महेश्वर"}
+{"kind": "scalar", "id": "trm:mahesvara", "field": "literal", "kept": "of Maheśvara", "other": "the Great Lord"}
+{"kind": "scalar", "id": "trm:mahesvara", "field": "term", "kept": "māheśvara", "other": "maheśvara"}
+{"kind": "scalar", "id": "trm:mahesvara", "field": "native", "kept": "माहेश्वर", "other": "महेश्वर"}
+{"kind": "scalar", "id": "trm:mahesvara", "field": "literal", "kept": "of Maheśvara", "other": "Great Lord"}
+{"kind": "scalar", "id": "trm:ahankara", "field": "literal", "kept": "I-maker", "other": "I-notion; egoity"}
+{"kind": "scalar", "id": "trm:ahankara", "field": "term", "kept": "ahaṅkāra", "other": "ahaṃkāra"}
+{"kind": "scalar", "id": "trm:anubhava", "field": "term", "kept": "anubhava", "other": "anubhāva"}
+{"kind": "scalar", "id": "trm:anubhava", "field": "literal", "kept": "experience; apprehension", "other": "consequent"}
+{"kind": "scalar", "id": "trm:anubhava", "field": "literal", "kept": "experience; apprehension", "other": "experience"}
+{"kind": "scalar", "id": "trm:prakara", "field": "literal", "kept": "mode", "other": "qualifier (in a cognition)"}
+{"kind": "scalar", "id": "trm:visesana", "field": "literal", "kept": "qualifier, attribute", "other": "qualifier; attribute"}
+{"kind": "scalar", "id": "trm:samanadhikaranya", "field": "literal", "kept": "co-reference, having the same substrate", "other": "having the same substrate"}
+{"kind": "scalar", "id": "trm:samanadhikaranya", "field": "literal", "kept": "co-reference, having the same substrate", "other": "co-locatedness"}
+{"kind": "scalar", "id": "trm:badha", "field": "literal", "kept": "sublation", "other": "cancellation"}
+{"kind": "scalar", "id": "trm:sadacara", "field": "literal", "kept": "conduct of the good", "other": "right conduct"}
+{"kind": "scalar", "id": "trm:karya", "field": "literal", "kept": "effect", "other": "what is to be done"}
+{"kind": "scalar", "id": "trm:nitya-karma", "field": "literal", "kept": "obligatory act", "other": "constant duty"}
+{"kind": "scalar", "id": "trm:kamya-karma", "field": "literal", "kept": "desire-prompted act", "other": "desired action"}
+{"kind": "scalar", "id": "trm:adhikara", "field": "literal", "kept": "entitlement, eligibility", "other": "entitlement; eligibility"}
+{"kind": "scalar", "id": "trm:adhikarin", "field": "literal", "kept": "one who is entitled", "other": "one entitled"}
+{"kind": "scalar", "id": "trm:sesa", "field": "literal", "kept": "remainder; subsidiary", "other": "remainder; what exists for another"}
+{"kind": "scalar", "id": "trm:anga", "field": "literal", "kept": "limb, body", "other": "limb; subsidiary rite"}
+{"kind": "scalar", "id": "trm:svatah-pramanya", "field": "native", "kept": "स्वतःप्रामाण्य", "other": "स्वतः-प्रामाण्य"}
+{"kind": "scalar", "id": "trm:svatah-pramanya", "field": "literal", "kept": "intrinsic validity", "other": "validity from itself"}
+{"kind": "scalar", "id": "trm:sabda-pramana", "field": "term", "kept": "śabda", "other": "śabda (āgama)"}
+{"kind": "scalar", "id": "trm:sabda-pramana", "field": "literal", "kept": "word; verbal testimony", "other": "word, testimony"}
+{"kind": "scalar", "id": "trm:svaprakasa", "field": "literal", "kept": "self-luminous", "other": "self-shining"}
+{"kind": "scalar", "id": "trm:cit", "field": "literal", "kept": "the sentient", "other": "consciousness"}
+{"kind": "scalar", "id": "trm:cit", "field": "term", "kept": "cit", "other": "cit (as a reality)"}
+{"kind": "scalar", "id": "trm:cit", "field": "literal", "kept": "the sentient", "other": "consciousness; the sentient"}
+{"kind": "scalar", "id": "trm:vivarta", "field": "literal", "kept": "turning aside; apparent change", "other": "apparent transformation"}
+{"kind": "scalar", "id": "trm:anirvacaniya", "field": "literal", "kept": "indeterminable", "other": "not to be spoken of"}
+{"kind": "scalar", "id": "trm:bimba", "field": "literal", "kept": "original (of a reflection)", "other": "original disc; prototype"}
+{"kind": "scalar", "id": "trm:visva", "field": "term", "kept": "Viśva", "other": "viśva"}
+{"kind": "scalar", "id": "trm:visva", "field": "literal", "kept": "the all", "other": "the all-pervading"}
+{"kind": "scalar", "id": "trm:arciradi-marga", "field": "literal", "kept": "the path beginning with light", "other": "path beginning with flame"}
+{"kind": "scalar", "id": "trm:arciradi-marga", "field": "literal", "kept": "the path beginning with light", "other": "the path of light (beginning with flame)"}
+{"kind": "scalar", "id": "trm:aparoksa-jnana", "field": "literal", "kept": "direct (non-mediate) knowledge", "other": "knowledge not beyond the eye"}
+{"kind": "scalar", "id": "trm:acit", "field": "literal", "kept": "the insentient", "other": "the non-sentient"}
+{"kind": "scalar", "id": "trm:laksmi", "field": "term", "kept": "Lakṣmī (Śrī, Ramā)", "other": "Śrī / Lakṣmī"}
+{"kind": "scalar", "id": "trm:laksmi", "field": "literal", "kept": "fortune; the goddess", "other": "prosperity, glory; the Goddess"}
+{"kind": "scalar", "id": "trm:avesa", "field": "literal", "kept": "possession, entering", "other": "entering, indwelling"}
+{"kind": "scalar", "id": "trm:sivadvaita", "field": "term", "kept": "śivādvaita", "other": "śivādvaita / śiva-viśiṣṭādvaita"}
+{"kind": "scalar", "id": "trm:sakti-visistadvaita", "field": "term", "kept": "Śakti-viśiṣṭādvaita", "other": "śakti-viśiṣṭādvaita"}
+{"kind": "scalar", "id": "trm:samvit", "field": "literal", "kept": "knowledge, awareness", "other": "consciousness, awareness"}
+{"kind": "scalar", "id": "trm:nistha", "field": "literal", "kept": "firm standing", "other": "steadfastness"}
+{"kind": "scalar", "id": "trm:nirmalya", "field": "literal", "kept": "remains of an offering", "other": "offered (discarded) garland"}
+{"kind": "scalar", "id": "trm:mala", "field": "literal", "kept": "impurity", "other": "impurity, taint"}
+{"kind": "scalar", "id": "trm:bhairava", "field": "term", "kept": "Bhairava / Mahābhairava", "other": "Bhairava"}
+{"kind": "scalar", "id": "trm:bhairava", "field": "literal", "kept": "the terrible", "other": "the Terrible; (etym. in VBT 130) he who makes all resound through fear, gives all, pervades all"}
+{"kind": "scalar", "id": "trm:anava-mala", "field": "term", "kept": "āṇava mala", "other": "āṇava-mala"}
+{"kind": "scalar", "id": "trm:karma-mala", "field": "term", "kept": "kārma mala", "other": "karma (as a bond)"}
+{"kind": "scalar", "id": "trm:purnahanta", "field": "literal", "kept": "full I-ness", "other": "perfect I-ness"}
+{"kind": "scalar", "id": "trm:sunya", "field": "literal", "kept": "void", "other": "empty, void"}
+{"kind": "scalar", "id": "cpt:brahman-early-sense", "field": "name", "kept": "Brahman in its early sense", "other": "Brahman in the Brāhmaṇas"}
+{"kind": "scalar", "id": "cpt:rsi-as-seer", "field": "name", "kept": "The ṛṣi as seer of the mantras", "other": "The seer (ṛṣi) as one who saw"}
+{"kind": "scalar", "id": "cpt:rsi-as-seer", "field": "category", "kept": "teacher-transmission", "other": "signs-powers"}
+{"kind": "scalar", "id": "cpt:svadharma", "field": "name", "kept": "One's own dharma (svadharma)", "other": "One's own dharma"}
+{"kind": "scalar", "id": "cpt:apaddharma", "field": "name", "kept": "Dharma in distress (āpaddharma)", "other": "Dharma in time of distress"}
+{"kind": "scalar", "id": "cpt:yuga-dharma", "field": "name", "kept": "The means proper to each age", "other": "Dharma according to the age"}
+{"kind": "scalar", "id": "cpt:yuga-dharma", "field": "category", "kept": "ethics", "other": "cosmology-time"}
+{"kind": "scalar", "id": "cpt:brahman", "field": "name", "kept": "Brahman (the ultimate ground)", "other": "Brahman"}
+{"kind": "scalar", "id": "cpt:atman-brahman-identity", "field": "name", "kept": "The identity of the self and brahman", "other": "Identity of self and Brahman"}
+{"kind": "scalar", "id": "cpt:atman-brahman-identity", "field": "category", "kept": "ultimate", "other": "self"}
+{"kind": "scalar", "id": "cpt:mahavakyas", "field": "name", "kept": "The four great sayings (mahāvākya)", "other": "The great sayings"}
+{"kind": "scalar", "id": "cpt:neti-neti", "field": "name", "kept": "'Not so, not so' (neti neti)", "other": "'Not this, not this' (neti neti)"}
+{"kind": "scalar", "id": "cpt:neti-neti", "field": "category", "kept": "ultimate", "other": "stages-maps"}
+{"kind": "scalar", "id": "cpt:neti-neti", "field": "name", "kept": "'Not so, not so' (neti neti)", "other": "Negation: 'not so, not so' (neti neti)"}
+{"kind": "scalar", "id": "cpt:four-states-and-turya", "field": "name", "kept": "Waking, dream, deep sleep and the fourth", "other": "The states: waking, dream, deep sleep, the fourth and beyond"}
+{"kind": "scalar", "id": "cpt:jiva", "field": "name", "kept": "The individual living self (jīva)", "other": "The individual self (jīva)"}
+{"kind": "scalar", "id": "cpt:jiva", "field": "name", "kept": "The individual living self (jīva)", "other": "The individual self (jīva)"}
+{"kind": "scalar", "id": "cpt:purusa", "field": "name", "kept": "Puruṣa (the conscious self)", "other": "The self as puruṣa (the seer)"}
+{"kind": "scalar", "id": "cpt:purusa", "field": "name", "kept": "Puruṣa (the conscious self)", "other": "Puruṣa (the person)"}
+{"kind": "scalar", "id": "cpt:isvara", "field": "name", "kept": "Īśvara (the Lord)", "other": "Īśvara in Yoga (the special puruṣa)"}
+{"kind": "scalar", "id": "cpt:isvara", "field": "name", "kept": "Īśvara (the Lord)", "other": "The Lord (īśa, īśvara, deva)"}
+{"kind": "scalar", "id": "cpt:isvara", "field": "name", "kept": "Īśvara (the Lord)", "other": "Īśvara in Mīmāṃsā"}
+{"kind": "scalar", "id": "cpt:maya", "field": "name", "kept": "Māyā in the principal Upaniṣads", "other": "Māyā"}
+{"kind": "scalar", "id": "cpt:hrdaya-heart", "field": "name", "kept": "The heart and the space within it", "other": "The Heart (hṛdaya)"}
+{"kind": "scalar", "id": "cpt:five-elements", "field": "name", "kept": "The five elements (mahābhūta)", "other": "The five elements"}
+{"kind": "scalar", "id": "cpt:trimurti", "field": "name", "kept": "The three forms (Brahmā, Viṣṇu, Rudra)", "other": "The three forms (trimūrti)"}
+{"kind": "scalar", "id": "cpt:karma", "field": "name", "kept": "Karma", "other": "Karma (ritual action and its fruit)"}
+{"kind": "scalar", "id": "cpt:rebirth", "field": "name", "kept": "Rebirth", "other": "Rebirth (in Mīmāṃsā)"}
+{"kind": "scalar", "id": "cpt:devayana-pitryana", "field": "name", "kept": "The two paths after death: of the gods and of the fathers", "other": "The two paths after death"}
+{"kind": "scalar", "id": "cpt:moksa", "field": "name", "kept": "Liberation (mokṣa) in Dvaita", "other": "Liberation (mokṣa)"}
+{"kind": "scalar", "id": "cpt:moksa", "field": "name", "kept": "Liberation (mokṣa) in Dvaita", "other": "Liberation (mokṣa)"}
+{"kind": "scalar", "id": "cpt:moksa", "field": "name", "kept": "Liberation (mokṣa) in Dvaita", "other": "Liberation (mokṣa)"}
+{"kind": "scalar", "id": "cpt:jivanmukti", "field": "name", "kept": "Liberation while living (jīvanmukti)", "other": "Liberation while living"}
+{"kind": "scalar", "id": "cpt:jivanmukti", "field": "name", "kept": "Liberation while living (jīvanmukti)", "other": "Liberation while living"}
+{"kind": "scalar", "id": "cpt:jivanmukti", "field": "name", "kept": "Liberation while living (jīvanmukti)", "other": "Liberation while living"}
+{"kind": "scalar", "id": "cpt:para-apara-jnana", "field": "name", "kept": "Higher and lower knowledge", "other": "Higher and lower knowledge (para/apara jñāna) in the Āgamas"}
+{"kind": "scalar", "id": "cpt:last-thought", "field": "name", "kept": "The last thought and resolve at death", "other": "The last thought (anta-smṛti)"}
+{"kind": "scalar", "id": "cpt:last-thought", "field": "name", "kept": "The last thought and resolve at death", "other": "The last thought decides the next state"}
+{"kind": "scalar", "id": "cpt:last-thought", "field": "name", "kept": "The last thought and resolve at death", "other": "The last thought at death"}
+{"kind": "scalar", "id": "cpt:dying-process", "field": "name", "kept": "The process of dying", "other": "The process of dying (Purāṇic account)"}
+{"kind": "scalar", "id": "cpt:yogic-departure-and-krama-mukti", "field": "name", "kept": "Departure through the crown and the path to brahman", "other": "Yogic departure and gradual liberation"}
+{"kind": "scalar", "id": "cpt:signs-of-yoga-progress", "field": "name", "kept": "First signs of progress in yoga", "other": "The first signs of progress in yoga"}
+{"kind": "scalar", "id": "cpt:sannyasa", "field": "name", "kept": "Renunciation (saṃnyāsa) in the principal Upaniṣads", "other": "Saṃnyāsa — renunciation"}
+{"kind": "scalar", "id": "cpt:dharma", "field": "name", "kept": "Dharma (as known through Vedic injunction)", "other": "Dharma"}
+{"kind": "scalar", "id": "cpt:grace", "field": "name", "kept": "Divine grace (prasāda)", "other": "Grace"}
+{"kind": "scalar", "id": "cpt:bhakti", "field": "category", "kept": "ethics", "other": "stages-maps"}
+{"kind": "scalar", "id": "cpt:pranava", "field": "name", "kept": "Oṃ, the designator of Īśvara", "other": "Om (praṇava)"}
+{"kind": "scalar", "id": "cpt:four-kinds-of-mukti", "field": "name", "kept": "Four kinds of liberation (sālokya, sārūpya, sāmīpya, sāyujya)", "other": "The four liberations (sālokya, sāmīpya, sārūpya, sāyujya)"}
+{"kind": "scalar", "id": "cpt:videhamukti", "field": "name", "kept": "Bodiless liberation (videhamukti)", "other": "Liberation at the body's end (videhamukti)"}
+{"kind": "scalar", "id": "cpt:levels-of-speech", "field": "name", "kept": "The levels of speech (parā, paśyantī, madhyamā, vaikharī)", "other": "The levels of speech (vāc)"}
+{"kind": "scalar", "id": "cpt:sadhana-catustaya", "field": "name", "kept": "The fourfold means (sādhana-catuṣṭaya)", "other": "The four qualifications (sādhana-catuṣṭaya)"}
+{"kind": "scalar", "id": "cpt:avatara", "field": "name", "kept": "The Lord's descent (avatāra / prādurbhāva)", "other": "Avatāra"}
+{"kind": "scalar", "id": "cpt:avatara", "field": "name", "kept": "The Lord's descent (avatāra / prādurbhāva)", "other": "Divine descent (avatāra)"}
+{"kind": "scalar", "id": "cpt:vibhutis", "field": "name", "kept": "The Lord's manifestations (vibhūti)", "other": "The powers (vibhūti, siddhi)"}
+{"kind": "scalar", "id": "cpt:vibhutis", "field": "category", "kept": "ultimate", "other": "signs-powers"}
+{"kind": "scalar", "id": "cpt:liberation", "field": "name", "kept": "Liberation (mokṣa) in later Mīmāṃsā", "other": "Liberation"}
+{"kind": "scalar", "id": "cpt:tattva-counts-reconciled-bhagavata", "field": "name", "kept": "The many counts of the principles, reconciled", "other": "Counts of the principles (tattva) reconciled in the Bhāgavata"}
+{"kind": "scalar", "id": "cpt:pati-pasu-pasa", "field": "name", "kept": "Pati, paśu, pāśa — the Lord, the bound soul, the bonds", "other": "Lord, bound soul and bond"}
+{"kind": "scalar", "id": "cpt:pati-pasu-pasa", "field": "category", "kept": "ultimate", "other": "self"}
+{"kind": "scalar", "id": "cpt:pati-pasu-pasa", "field": "name", "kept": "Pati, paśu, pāśa — the Lord, the bound soul, the bonds", "other": "The Lord, the bound soul and its bonds (pati, paśu, pāśa)"}
+{"kind": "scalar", "id": "cpt:pati-pasu-pasa", "field": "category", "kept": "ultimate", "other": "self"}
+{"kind": "scalar", "id": "cpt:pati-pasu-pasa", "field": "name", "kept": "Pati, paśu, pāśa — the Lord, the bound soul, the bonds", "other": "Lord, bound soul and bond (pati, paśu, pāśa)"}
+{"kind": "scalar", "id": "cpt:four-pralayas", "field": "name", "kept": "The four kinds of dissolution (pralaya)", "other": "The four dissolutions"}
+{"kind": "scalar", "id": "cpt:brahman-paramatman-bhagavan", "field": "name", "kept": "Brahman, Paramātman and Bhagavān", "other": "Brahman, Paramātman, Bhagavān (BhP 1.2.11)"}
+{"kind": "scalar", "id": "cpt:avatara-doctrine", "field": "name", "kept": "The doctrine of avatāra", "other": "Doctrine of avatāras"}
+{"kind": "scalar", "id": "cpt:three-saktis-of-visnu", "field": "name", "kept": "The three śaktis of Viṣṇu", "other": "The three powers of Viṣṇu (VP 6.7.61)"}
+{"kind": "scalar", "id": "cpt:bhakti-by-gunas", "field": "name", "kept": "Devotion graded by the guṇas", "other": "Devotion classified by the guṇas, and devotion beyond them"}
+{"kind": "scalar", "id": "cpt:bhakti-by-gunas", "field": "category", "kept": "ethics", "other": "matter-qualities"}
+{"kind": "scalar", "id": "cpt:viraha-bhakti", "field": "name", "kept": "Devotion in separation", "other": "Love in separation (viraha)"}
+{"kind": "scalar", "id": "cpt:viraha-bhakti", "field": "category", "kept": "consciousness-states", "other": "ethics"}
+{"kind": "scalar", "id": "cpt:kali-yuga-dharma", "field": "category", "kept": "ethics", "other": "cosmology-time"}
+{"kind": "scalar", "id": "cpt:grades-of-initiates", "field": "name", "kept": "The grades of Śaiva initiates", "other": "Grades of initiates"}
+{"kind": "scalar", "id": "cpt:kinds-of-diksa", "field": "name", "kept": "Kinds of initiation (dīkṣā) in the Āgamas", "other": "Kinds of dīkṣā"}
+{"kind": "scalar", "id": "cpt:saktipata", "field": "name", "kept": "Descent of power / grace (śaktipāta)", "other": "Śaktipāta (descent of power)"}
+{"kind": "scalar", "id": "cpt:grace-anugraha", "field": "name", "kept": "Grace (anugraha) as the Lord's fifth act", "other": "Grace (anugraha / aruḷ)"}
+{"kind": "scalar", "id": "cpt:five-forms-of-god-pancaratra", "field": "name", "kept": "The five forms of God (para, vyūha, vibhava, antaryāmin, arcā)", "other": "The five modes of God: para, vyūha, vibhava, antaryāmin, arcā"}
+{"kind": "scalar", "id": "cpt:pure-and-impure-creation", "field": "name", "kept": "Pure and other-than-pure creation", "other": "Pure and impure creation"}
+{"kind": "scalar", "id": "cpt:satkaryavada", "field": "category", "kept": "disputes", "other": "cosmology-time"}
+{"kind": "scalar", "id": "cpt:viveka-khyati", "field": "name", "kept": "Discriminating knowledge (viveka, vivekakhyāti)", "other": "Discriminative discernment (viveka-khyāti)"}
+{"kind": "scalar", "id": "cpt:plurality-of-purusas", "field": "name", "kept": "Plurality of puruṣas", "other": "Many puruṣas"}
+{"kind": "scalar", "id": "cpt:prakrti", "field": "name", "kept": "Prakṛti (primordial nature)", "other": "Prakṛti, the seen"}
+{"kind": "scalar", "id": "cpt:prakrti", "field": "name", "kept": "Prakṛti (primordial nature)", "other": "Prakṛti"}
+{"kind": "scalar", "id": "cpt:prakrti", "field": "name", "kept": "Prakṛti (primordial nature)", "other": "Prakṛti (primal matter)"}
+{"kind": "scalar", "id": "cpt:kaivalya", "field": "name", "kept": "Isolation (kaivalya)", "other": "Kaivalya (aloneness), Yoga's liberation"}
+{"kind": "scalar", "id": "cpt:pramana", "field": "name", "kept": "Means of valid knowledge (pramāṇa)", "other": "Means of knowledge (pramāṇa) in Advaita"}
+{"kind": "scalar", "id": "cpt:pramana", "field": "category", "kept": "mind", "other": "consciousness-states"}
+{"kind": "scalar", "id": "cpt:antahkarana", "field": "name", "kept": "The internal instrument (antaḥkaraṇa)", "other": "The inner organ and its four functions"}
+{"kind": "scalar", "id": "cpt:antahkarana", "field": "name", "kept": "The internal instrument (antaḥkaraṇa)", "other": "The inner organ / mind (antaḥkaraṇa)"}
+{"kind": "scalar", "id": "cpt:six-marks-of-purport", "field": "name", "kept": "The six marks of purport (ṣaḍ-liṅga)", "other": "The six marks of purport (ṣaḍ-liṅga), as grounded in Mīmāṃsā"}
+{"kind": "scalar", "id": "cpt:apauruseyatva", "field": "name", "kept": "The authorless Veda (apauruṣeyatva)", "other": "The authorlessness of the Veda"}
+{"kind": "scalar", "id": "cpt:avidya", "field": "name", "kept": "Avidyā (ignorance) in Advaita", "other": "Ignorance (avidyā)"}
+{"kind": "scalar", "id": "cpt:avidya", "field": "name", "kept": "Avidyā (ignorance) in Advaita", "other": "Nescience (avidyā)"}
+{"kind": "scalar", "id": "cpt:sravana-manana-nididhyasana", "field": "name", "kept": "Hearing, reflection and meditation", "other": "Hearing, reflection and contemplation"}
+{"kind": "scalar", "id": "cpt:three-kinds-of-karma", "field": "name", "kept": "The three kinds of karma", "other": "Three kinds of karma"}
+{"kind": "scalar", "id": "cpt:brahma-parinama", "field": "name", "kept": "Brahman's real transformation into the world (pariṇāma)", "other": "Brahman as material and efficient cause through its body"}
+{"kind": "scalar", "id": "cpt:sakti-visistadvaita", "field": "name", "kept": "Śakti-qualified non-dualism (Vīraśaiva)", "other": "Śakti-viśiṣṭādvaita (the Vīraśaiva view of Śiva and Śakti)"}
+{"kind": "scalar", "id": "cpt:linganga-samarasya", "field": "name", "kept": "Union of liṅga and aṅga (liṅgāṅga-sāmarasya, aikya)", "other": "Union of liṅga and aṅga (liṅgāṅga-sāmarasya)"}
+{"kind": "scalar", "id": "cpt:three-malas", "field": "name", "kept": "The three malas (āṇava, karma, māyā)", "other": "The three impurities (āṇava, māyīya, kārma)"}
+{"kind": "scalar", "id": "cpt:three-malas", "field": "name", "kept": "The three malas (āṇava, karma, māyā)", "other": "The three impurities (mala)"}
+{"kind": "scalar", "id": "cpt:thirty-six-tattvas", "field": "name", "kept": "The thirty-six principles (ṣaṭtriṃśat-tattva)", "other": "The thirty-six tattvas"}
+{"kind": "scalar", "id": "cpt:thirty-six-tattvas", "field": "category", "kept": "matter-qualities", "other": "body-energy"}
+{"kind": "scalar", "id": "cpt:five-acts-of-siva", "field": "category", "kept": "cosmology-time", "other": "ultimate"}
+{"kind": "scalar", "id": "obs:mahapataka", "field": "name", "kept": "The five great sins (mahāpātaka)", "other": "The great sins"}
+{"kind": "scalar", "id": "obs:kama", "field": "name", "kept": "Desire (kāma)", "other": "Lust (kāma) as counterfeit of love"}
+{"kind": "scalar", "id": "obs:avidya", "field": "name", "kept": "Ignorance (avidyā)", "other": "Ignorance as the root"}
+{"kind": "scalar", "id": "obs:avidya", "field": "name", "kept": "Ignorance (avidyā)", "other": "Nescience (avidyā)"}
+{"kind": "scalar", "id": "obs:hrdaya-granthi", "field": "name", "kept": "The knots of the heart", "other": "The knot of the heart (hṛdaya-granthi)"}
+{"kind": "scalar", "id": "obs:pramada", "field": "name", "kept": "Heedlessness (pramāda)", "other": "Carelessness (pramāda)"}
+{"kind": "scalar", "id": "obs:three-vasanas", "field": "name", "kept": "Three vāsanās (for the world, scripture and body)", "other": "The three tendencies (vāsanā-traya)"}
+{"kind": "scalar", "id": "obs:three-vasanas", "field": "category", "kept": "bond", "other": "fetter"}
+{"kind": "scalar", "id": "obs:ahankara", "field": "name", "kept": "Ego (ahaṅkāra)", "other": "The sense of 'I' and 'mine' (ahaṅkāra–mamakāra)"}
+{"kind": "scalar", "id": "obs:raga", "field": "name", "kept": "Passion (rāga)", "other": "Attachment (rāga)"}
+{"kind": "scalar", "id": "obs:raga", "field": "category", "kept": "passion", "other": "affliction"}
+{"kind": "scalar", "id": "obs:laya", "field": "name", "kept": "Dullness (laya)", "other": "Torpor (laya)"}
+{"kind": "scalar", "id": "obs:laya", "field": "name", "kept": "Dullness (laya)", "other": "Sleepiness (laya)"}
+{"kind": "scalar", "id": "obs:adharma", "field": "name", "kept": "Adharma / sin (pāpa)", "other": "Demerit (adharma)"}
+{"kind": "scalar", "id": "obs:adharma", "field": "category", "kept": "karma-type", "other": "impurity"}
+{"kind": "scalar", "id": "obs:kasaya", "field": "name", "kept": "Latent attachment (kaṣāya)", "other": "Residual impurity (kaṣāya)"}
+{"kind": "scalar", "id": "obs:rasasvada", "field": "name", "kept": "Relishing the bliss (rasāsvāda)", "other": "Relish of other pleasures (rasāsvāda)"}
+{"kind": "scalar", "id": "obs:prarabdha-karma", "field": "name", "kept": "Begun karma (prārabdha)", "other": "Karma already in effect (prārabdha)"}
+{"kind": "scalar", "id": "obs:three-malas", "field": "name", "kept": "The three impurities (mala-traya)", "other": "The three malas"}
+{"kind": "scalar", "id": "obs:three-malas", "field": "name", "kept": "The three impurities (mala-traya)", "other": "The three impurities (malatraya)"}
+{"kind": "scalar", "id": "obs:anava-mala", "field": "name", "kept": "Āṇava mala", "other": "Āṇava mala (the impurity of individuality)"}
+{"kind": "scalar", "id": "obs:karma-mala", "field": "name", "kept": "Karma as bond", "other": "Kārma mala (the impurity of action)"}
+{"kind": "scalar", "id": "obs:karma-mala", "field": "category", "kept": "karma-type", "other": "impurity"}
+{"kind": "scalar", "id": "obs:mayiya-mala", "field": "name", "kept": "Māyīya mala (the impurity of difference)", "other": "Māyīya mala"}
+{"kind": "scalar", "id": "obs:siddhi-attachment", "field": "name", "kept": "Being caught by powers (siddhi)", "other": "Attachment to powers and the perfected body"}
+{"kind": "scalar", "id": "obs:siddhi-attachment", "field": "category", "kept": "meditation-fault", "other": "obstacle"}
+{"kind": "scalar", "id": "prc:gayatri-japa", "field": "name", "kept": "Repetition of the Gāyatrī (Sāvitrī)", "other": "Recitation of the Sāvitrī (Gāyatrī)"}
+{"kind": "scalar", "id": "prc:sandhyavandana", "field": "name", "kept": "Sandhyā (twilight worship)", "other": "Twilight worship (sandhyāvandana)"}
+{"kind": "scalar", "id": "prc:aghamarsana", "field": "name", "kept": "Aghamarṣaṇa (sin-effacing recitation)", "other": "Aghamarṣaṇa (the sin-effacing recitation)"}
+{"kind": "scalar", "id": "prc:agnyadhana", "field": "name", "kept": "Establishing the sacred fires (agnyādhāna)", "other": "Setting up the sacred fires (agnyādhāna / agnyādheya)"}
+{"kind": "scalar", "id": "prc:agnihotra", "field": "name", "kept": "Agnihotra (daily fire-offering)", "other": "Agnihotra (the daily fire offering)"}
+{"kind": "scalar", "id": "prc:agnihotra", "field": "stage", "kept": "householder who has set up the fires (āhitāgni)", "other": "householder with the sacred fires"}
+{"kind": "scalar", "id": "prc:agnihotra", "field": "name", "kept": "Agnihotra (daily fire-offering)", "other": "The daily fire offering (agnihotra)"}
+{"kind": "scalar", "id": "prc:darsapurnamasa", "field": "name", "kept": "New- and full-moon offerings (darśapūrṇamāsa)", "other": "New- and full-moon sacrifices (darśapūrṇamāsa)"}
+{"kind": "scalar", "id": "prc:rajasuya", "field": "name", "kept": "Rājasūya (royal consecration)", "other": "Royal consecration (rājasūya)"}
+{"kind": "scalar", "id": "prc:agnicayana", "field": "name", "kept": "Agnicayana (building the fire-altar)", "other": "Building the fire altar (agnicayana)"}
+{"kind": "scalar", "id": "prc:pravargya", "field": "name", "kept": "Pravargya (the hot-milk rite)", "other": "Pravargya"}
+{"kind": "scalar", "id": "prc:pinda-pitryajna", "field": "name", "kept": "Offering to the fathers (piṇḍapitṛyajña)", "other": "Piṇḍapitṛyajña (monthly offering of rice-balls to the fathers)"}
+{"kind": "scalar", "id": "prc:tapas", "field": "name", "kept": "Austerity (tapas)", "other": "Tapas (austerity, generative heat)"}
+{"kind": "scalar", "id": "prc:tapas", "field": "name", "kept": "Austerity (tapas)", "other": "Austerity (tavam)"}
+{"kind": "scalar", "id": "prc:brahmacarya", "field": "name", "kept": "Vedic studentship (brahmacarya)", "other": "Celibacy (brahmacarya)"}
+{"kind": "scalar", "id": "prc:brahmacarya", "field": "name", "kept": "Vedic studentship (brahmacarya)", "other": "Studentship and celibacy (brahmacarya)"}
+{"kind": "scalar", "id": "prc:dana", "field": "name", "kept": "Giving (dāna)", "other": "Giving (dāna, dakṣiṇā)"}
+{"kind": "scalar", "id": "prc:dana", "field": "name", "kept": "Giving (dāna)", "other": "Giving (dāna) and the great gifts"}
+{"kind": "scalar", "id": "prc:diksa", "field": "name", "kept": "Dīkṣā (consecration for sacrifice)", "other": "Initiation (dīkṣā)"}
+{"kind": "scalar", "id": "prc:diksa", "field": "name", "kept": "Dīkṣā (consecration for sacrifice)", "other": "Dīkṣā (Śaiva initiation)"}
+{"kind": "scalar", "id": "prc:pranagnihotra", "field": "name", "kept": "Prāṇāgnihotra (offering food into the breaths)", "other": "Offering food into the breaths (prāṇāgnihotra)"}
+{"kind": "scalar", "id": "prc:pranagnihotra", "field": "name", "kept": "Prāṇāgnihotra (offering food into the breaths)", "other": "The breath fire-offering (prāṇāgnihotra)"}
+{"kind": "scalar", "id": "prc:svadhyaya", "field": "name", "kept": "Self-study (svādhyāya)", "other": "Svādhyāya (daily Vedic self-study; brahmayajña)"}
+{"kind": "scalar", "id": "prc:svadhyaya", "field": "name", "kept": "Self-study (svādhyāya)", "other": "Recitation and teaching of the Veda (svādhyāya-pravacana)"}
+{"kind": "scalar", "id": "prc:garbhadhana", "field": "name", "kept": "Procreation rites (BAU 6.4)", "other": "Garbhādhāna (rite for conception)"}
+{"kind": "scalar", "id": "prc:sapindikarana", "field": "name", "kept": "Sapiṇḍīkaraṇa", "other": "Sapiṇḍīkaraṇa (uniting the dead with the ancestors)"}
+{"kind": "scalar", "id": "prc:sapindikarana", "field": "category", "kept": "ritual", "other": "sleep-dream-death"}
+{"kind": "scalar", "id": "prc:pranava-upasana", "field": "name", "kept": "Meditation on Om (praṇava-upāsanā)", "other": "Meditation on Oṃ (praṇava-upāsanā)"}
+{"kind": "scalar", "id": "prc:sravana", "field": "name", "kept": "Hearing the scriptures (śravaṇa)", "other": "Hearing (śravaṇa)"}
+{"kind": "scalar", "id": "prc:sravana", "field": "stage", "kept": "all (the lowest adhikārin qualifies by study and devotion)", "other": "after the four qualifications"}
+{"kind": "scalar", "id": "prc:sravana", "field": "name", "kept": "Hearing the scriptures (śravaṇa)", "other": "Hearing (śravaṇa)"}
+{"kind": "scalar", "id": "prc:nididhyasana", "field": "name", "kept": "Meditation (nididhyāsana / dhyāna)", "other": "Contemplation (nididhyāsana)"}
+{"kind": "scalar", "id": "prc:nididhyasana", "field": "name", "kept": "Meditation (nididhyāsana / dhyāna)", "other": "Deep contemplation (nididhyāsana)"}
+{"kind": "scalar", "id": "prc:neti-neti", "field": "name", "kept": "Negation 'not this, not this'", "other": "Negation: 'not so, not so'"}
+{"kind": "scalar", "id": "prc:neti-neti", "field": "name", "kept": "Negation 'not this, not this'", "other": "Negation: 'not this, not this' (neti neti)"}
+{"kind": "scalar", "id": "prc:neti-neti", "field": "name", "kept": "Negation 'not this, not this'", "other": "'Not this, not this' (neti neti)"}
+{"kind": "scalar", "id": "prc:pranayama", "field": "name", "kept": "Breath-regulation (prāṇāyāma)", "other": "Breath-control (prāṇāyāma)"}
+{"kind": "scalar", "id": "prc:pranayama", "field": "name", "kept": "Breath-regulation (prāṇāyāma)", "other": "Breath restraint (prāṇāyāma)"}
+{"kind": "scalar", "id": "prc:pratyahara", "field": "name", "kept": "Sense-withdrawal (pratyāhāra)", "other": "Withdrawal of the senses (pratyāhāra)"}
+{"kind": "scalar", "id": "prc:samadhi", "field": "name", "kept": "Samādhi as the eighth limb", "other": "Absorption (samādhi)"}
+{"kind": "scalar", "id": "prc:nadanusandhana", "field": "name", "kept": "Listening to the inner sound", "other": "Attention to the inner sound (nādānusandhāna)"}
+{"kind": "scalar", "id": "prc:nadanusandhana", "field": "signs_of_progress", "kept": "the seven sounds of MaiU 6.22: like rivers, a small bell, a bronze vessel, a wheel, frogs, rain, a voice in a sheltered place", "other": ["body like a log, unaware of heat and cold, gaze, breath and mind steady (Nādabindu 52–56)"]}
+{"kind": "scalar", "id": "prc:ahimsa", "field": "name", "kept": "Non-harming (ahiṃsā)", "other": "Non-injury (ahiṃsā)"}
+{"kind": "scalar", "id": "prc:saranagati", "field": "name", "kept": "Taking refuge in the Lord alone (śaraṇāgati)", "other": "Going for refuge (śaraṇāgati)"}
+{"kind": "scalar", "id": "prc:saranagati", "field": "name", "kept": "Taking refuge in the Lord alone (śaraṇāgati)", "other": "Surrender with six limbs (śaraṇāgati / nyāsa)"}
+{"kind": "scalar", "id": "prc:anta-smarana", "field": "name", "kept": "Remembering the Lord at death", "other": "Remembering at the time of death"}
+{"kind": "scalar", "id": "prc:utkranti-yoga", "field": "name", "kept": "Yogic departure at death", "other": "Departure through the crown at death"}
+{"kind": "scalar", "id": "prc:ajapa-japa", "field": "name", "kept": "Ajapā-japa (the haṃsa / so'ham breath-mantra)", "other": "The unrepeated repetition (ajapā japa): 'haṃsa'"}
+{"kind": "scalar", "id": "prc:madhukari-bhiksa", "field": "name", "kept": "Bee-like alms (mādhukarī)", "other": "Alms in the bee's way (mādhukarī)"}
+{"kind": "scalar", "id": "prc:madhukari-bhiksa", "field": "category", "kept": "ethics", "other": "body-daily-rhythm"}
+{"kind": "scalar", "id": "prc:atma-vicara", "field": "name", "kept": "Self-inquiry (ātma-vicāra)", "other": "Self-inquiry ('who am I?')"}
+{"kind": "scalar", "id": "prc:bhasma-snana", "field": "name", "kept": "Ash-bath (bhasma-snāna)", "other": "Bathing in sacred ash (bhasma-snāna)"}
+{"kind": "scalar", "id": "prc:rudraksa-dharana", "field": "name", "kept": "Wearing rudrākṣa", "other": "Wearing rudrākṣa beads"}
+{"kind": "scalar", "id": "prc:kirtana", "field": "name", "kept": "Singing the Lord's names (kīrtana, nāma-saṅkīrtana)", "other": "Singing the Lord's praise and speaking of him (kīrtana, kathā)"}
+{"kind": "scalar", "id": "prc:kirtana", "field": "name", "kept": "Singing the Lord's names (kīrtana, nāma-saṅkīrtana)", "other": "Devotional singing (kīrtana)"}
+{"kind": "scalar", "id": "prc:yajna", "field": "name", "kept": "Sacrifice performed as duty (yajña)", "other": "Sacrifice (yāga) as analysed in Mīmāṃsā"}
+{"kind": "scalar", "id": "prc:yajna", "field": "stage", "kept": "all", "other": "householder with the sacred fires"}
+{"kind": "scalar", "id": "prc:ajagara-vrtti", "field": "stage", "kept": "advanced", "other": "advanced (renunciant)"}
+{"kind": "scalar", "id": "prc:tirthayatra", "field": "name", "kept": "Pilgrimage to tīrthas", "other": "Pilgrimage to sacred fords (tīrthayātrā) and its inner sense"}
+{"kind": "scalar", "id": "prc:ekadasi-vrata", "field": "stage", "kept": "all", "other": "beginner"}
+{"kind": "scalar", "id": "prc:ekadasi-vrata", "field": "category", "kept": "devotion-service", "other": "body-daily-rhythm"}
+{"kind": "scalar", "id": "prc:ekadasi-vrata", "field": "name", "kept": "Ekādaśī fast", "other": "The Ekādaśī vow"}
+{"kind": "scalar", "id": "prc:ekadasi-vrata", "field": "name", "kept": "Ekādaśī fast", "other": "Fasting on Ekādaśī"}
+{"kind": "scalar", "id": "prc:antaryaga", "field": "name", "kept": "Internal worship (antaryāga)", "other": "Inner worship (antaryāga)"}
+{"kind": "scalar", "id": "prc:antaryaga", "field": "name", "kept": "Internal worship (antaryāga)", "other": "Antaryāga (inner worship)"}
+{"kind": "scalar", "id": "prc:nyasa", "field": "name", "kept": "Placing letters and syllables on the body (nyāsa)", "other": "Placing mantras on the body (nyāsa)"}
+{"kind": "scalar", "id": "prc:nyasa", "field": "name", "kept": "Placing letters and syllables on the body (nyāsa)", "other": "Nyāsa"}
+{"kind": "scalar", "id": "prc:pancaksara-japa", "field": "name", "kept": "Repetition of the five-syllable mantra", "other": "Repetition of the five syllables (namaccivāya)"}
+{"kind": "scalar", "id": "prc:pancaksara-japa", "field": "name", "kept": "Repetition of the five-syllable mantra", "other": "Repetition of the five-syllable mantra of Śiva"}
+{"kind": "scalar", "id": "prc:puja", "field": "name", "kept": "Ritual worship of the deity (pūjā, arcana)", "other": "Daily worship (pūjā)"}
+{"kind": "scalar", "id": "prc:puja", "field": "name", "kept": "Ritual worship of the deity (pūjā, arcana)", "other": "Ritual worship (pūjā)"}
+{"kind": "scalar", "id": "prc:nirvana-diksa", "field": "name", "kept": "Liberating initiation (nirvāṇa-dīkṣā)", "other": "Nirvāṇa-dīkṣā"}
+{"kind": "scalar", "id": "prc:samaya-diksa", "field": "name", "kept": "Initiation into the observances (samaya-dīkṣā)", "other": "Samaya-dīkṣā"}
+{"kind": "scalar", "id": "prc:abhiseka-acarya-sadhaka", "field": "name", "kept": "Consecration as ācārya or sādhaka", "other": "Consecration of teacher and adept (ācāryābhiṣeka, sādhakābhiṣeka)"}
+{"kind": "scalar", "id": "prc:parartha-puja", "field": "name", "kept": "Temple worship for others (parārtha-pūjā)", "other": "Parārtha-pūjā (temple worship)"}
+{"kind": "scalar", "id": "prc:bhutasuddhi", "field": "name", "kept": "Purification of the elements (bhūtaśuddhi)", "other": "Bhūtaśuddhi"}
+{"kind": "scalar", "id": "prc:agnikarya", "field": "name", "kept": "Fire offering (agnikārya, homa)", "other": "Agnikārya (Śaiva fire rite)"}
+{"kind": "scalar", "id": "prc:mahotsava", "field": "name", "kept": "Temple festival (mahotsava)", "other": "Mahotsava (great temple festival)"}
+{"kind": "scalar", "id": "prc:prayascitta", "field": "name", "kept": "Expiatory rites (prāyaścitta)", "other": "Expiation (prāyaścitta)"}
+{"kind": "scalar", "id": "prc:pancakala", "field": "name", "kept": "The five daily periods (pañcakāla)", "other": "The fivefold daily routine (pañcakāla)"}
+{"kind": "scalar", "id": "prc:pancakala", "field": "category", "kept": "ritual", "other": "body-daily-rhythm"}
+{"kind": "scalar", "id": "prc:pancasamskara", "field": "name", "kept": "The five sacraments (pañcasaṃskāra, samāśrayaṇa)", "other": "The five sacraments (pañcasaṃskāra)"}
+{"kind": "scalar", "id": "prc:vairagya", "field": "stage", "kept": "all", "other": "all; higher dispassion for the advanced"}
+{"kind": "scalar", "id": "prc:vairagya", "field": "signs_of_progress", "kept": "calming of passion; freedom from expectation (like Piṅgalā, SS 4.11)", "other": "the thought 'what was to be attained is attained ... the chain of becoming is cut' (YBh 1.16)"}
+{"kind": "scalar", "id": "phn:bhagavata-signs-of-devotion", "field": "source", "kept": "src:uddhava-gita", "other": "src:bhagavata-purana"}
+{"kind": "scalar", "id": "phn:bhagavata-signs-of-devotion", "field": "ref", "kept": "11.14.23-25", "other": "11.14.23-24"}
+{"kind": "scalar", "id": "phn:bhagavata-signs-of-devotion", "field": "kind", "kept": "sign", "other": "bodily"}
+{"kind": "scalar", "id": "phn:bhagavata-signs-of-devotion", "field": "stage", "kept": "intermediate", "other": "advanced devotee"}
+{"kind": "scalar", "id": "dsp:are-mantras-meaningful", "field": "question", "kept": "Do the Vedic mantras have meaning, or are they effective sound only?", "other": "Are the Vedic mantras meaningful, or effective as fixed sound regardless of meaning?"}
+{"kind": "scalar", "id": "dsp:jnana-karma-samuccaya", "field": "question", "kept": "Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?", "other": "Is liberation attained by knowledge alone, or by knowledge combined with works (jñāna-karma-samuccaya)? What is the role of works?"}
+{"kind": "scalar", "id": "dsp:jnana-karma-samuccaya", "field": "question", "kept": "Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?", "other": "Does liberation require knowledge combined with ritual works, or knowledge alone (or devotion)?"}
+{"kind": "scalar", "id": "dsp:external-objects", "field": "question", "kept": "Are there objects external to cognition?", "other": "Do cognitions have external objects?"}
+{"kind": "scalar", "id": "dsp:bliss-in-liberation", "field": "question", "kept": "Does liberation contain bliss (and consciousness)?", "other": "Is release blissful?"}
+{"kind": "scalar", "id": "dsp:eternality-of-sound", "field": "question", "kept": "Is sound (the word) eternal?", "other": "Are words (sounds) eternal?"}
+{"kind": "scalar", "id": "dsp:mala-substance-or-ignorance", "field": "question", "kept": "Is the root impurity (āṇava mala) a real substance removable only by ritual initiation, or is it ignorance - a contraction of consciousness - removed by knowledge?", "other": "Is the root impurity (āṇava mala) a real substance removable only by ritual initiation, or is it ignorance removed by knowledge?"}
+{"kind": "scalar", "id": "brw:pasupata-nyaya", "field": "what", "kept": "Personal affiliation of Naiyāyikas with the Pāśupatas and a shared account of the means of knowledge.", "other": "Religious affiliation of several Naiyāyikas (and Vaiśeṣikas) with Śaiva / Pāśupata traditions"}
+{"kind": "scalar", "id": "brw:pasupata-nyaya", "field": "direction", "kept": "mutual", "other": "disputed"}
+{"kind": "scalar", "id": "brw:pasupata-nyaya", "field": "era", "kept": "c. 6th–15th c.", "other": "6th–10th c. CE"}
+{"kind": "scalar", "id": "brw:mimamsa-to-visistadvaita", "field": "what", "kept": "Principles of scriptural interpretation, the authority of the authorless Veda, and the view of the two Mīmāṃsās as one science.", "other": "The view that Pūrva and Uttara Mīmāṃsā are one śāstra, and a theistic reading of Jaimini (Vedānta Deśika's Seśvaramīmāṃsā and Mīmāṃsāpādukā)."}
+{"kind": "scalar", "id": "brw:mimamsa-to-visistadvaita", "field": "era", "kept": "11th–14th c.", "other": "11th–14th c. CE"}
+{"kind": "scalar", "id": "brw:kalamukha-to-virasaiva", "field": "what", "kept": "Śaiva ascetic institutions, maṭhas and sites in Karnataka that passed from Kālāmukha to Vīraśaiva hands", "other": "Temples and monasteries in Karnataka (and possibly members) passing from Kālāmukha to Vīraśaiva hands."}
+{"kind": "scalar", "id": "brw:kalamukha-to-virasaiva", "field": "era", "kept": "12th–13th c.", "other": "12th–15th c."}

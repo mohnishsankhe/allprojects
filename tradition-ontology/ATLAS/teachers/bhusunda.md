@@ -3,7 +3,7 @@
 `tch:bhusunda` · `skeleton` · confidence high
 
 **Alternate names:** Bhusuṇḍa, Kāka Bhuśuṇḍi
-**Lineages:** `lin:advaita-vedanta`
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 **Historicity:** mythic
 **Students:** [Vasiṣṭha](vasistha.md)
 
@@ -11,4 +11,4 @@ The ancient crow living on a wish-fulfilling tree on a peak of Meru, who tells V
 **Realization — the tradition's account:** Resting in the Self through contemplation of the breath, he remains unaffected by the dissolutions of the worlds he has witnessed.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._

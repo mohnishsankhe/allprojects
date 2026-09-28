@@ -16,6 +16,15 @@ One of the three principal Mādhva maṭhas (with the Rāghavendra and Vyāsarā
 - Shares the Dvaita doctrine of lin:dvaita without doctrinal difference; distinct as an institutional line of ascetic pontiffs (guru-paramparā), with its own images, brindāvanas and observances.
 
 
+## The ultimate in this lineage
+`skeleton` · confidence moderate
+
+**Names:** Viṣṇu (Hari, Nārāyaṇa)
+**Descriptions:** The Uttarādi Maṭha holds the Dvaita teaching on the ultimate without variation; see ult:dvaita.
+**Relation to self:** As in ult:dvaita.
+**Relation to world:** As in ult:dvaita.
+**Caveat:** As in ult:dvaita; the maṭha has no separate doctrine of the ultimate.
+
 ## Texts
 [Bṛhadāraṇyaka-bhāṣya-bhāvabodha](../texts/brhadaranyaka-bhasya-bhavabodha.md), [Nyāyasudhā](../texts/nyayasudha.md), [Sattarkadīpāvalī](../texts/sattarkadipavali.md), [Tattvaprakāśikā](../texts/tattvaprakasika.md)
 
@@ -34,4 +43,4 @@ _none recorded_
 _Notes: The division of the line after Vidyādhirāja Tīrtha (Kavīndra Tīrtha's line leading to this maṭha and, after a later split, to the Rāghavendra maṭha; Rājendra Tīrtha's line leading to the Vyāsarāja maṭha) is recorded here from memory at low confidence. The 'Mūla Rāma' images held by the tradition to have been brought from the Kaliṅga treasury by Narahari Tīrtha are claimed by this maṭha and the Rāghavendra maṭha — not verified._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

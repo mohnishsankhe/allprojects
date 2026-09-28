@@ -10,10 +10,10 @@
 **Part of:** [Atharvaveda Saṃhitā (Śaunaka)](atharvaveda-saunaka.md)
 **Location in parent:** 11.4
 **Authors:** 
-  - `tch:bhargava-vaidarbhi` — role: revealer; attribution: traditional
+  - [Bhārgava Vaidarbhi](../teachers/bhargava-vaidarbhi.md) — role: revealer; attribution: traditional
 **Availability:** digitized-original
 
 Homage to Prāṇa, the life-breath, lord of all, in whom all is established: Prāṇa clothes creatures as a father his dear son; it is death and fever; the gods revere it; it stays awake among sleepers; the swan rising from the waters never lifts one foot, else there would be no today or tomorrow; the speaker binds Prāṇa to himself for life.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

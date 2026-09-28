@@ -1,24 +1,20 @@
-# Tātparyacandrikā of Vedānta Deśika
+# Tātparyacandrikā
 
 `src:tatparyacandrika` · `skeleton` · confidence moderate
 
-**Alternate titles:** Gītābhāṣyatātparyacandrikā, Candrikā
-**Original title:** तात्पर्यचन्द्रिका
+**Alternate titles:** Candrikā
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:visistadvaita`, `lin:vadakalai`, [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md)
-**Genre:** commentary (bhāṣya/ṭīkā)
-**Commentary on:** [Gītābhāṣya of Rāmānuja](gita-bhasya-ramanuja.md)
+**Lineages:** [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md)
+**Genre:** ṭīkā (comparative)
+**Commentary on:** [Tattvaprakāśikā](tattvaprakasika.md)
 **Authors:** 
-  - [Vedānta Deśika](../teachers/vedanta-desika.md) — role: commentator; attribution: accepted
   - [Vyāsatīrtha](../teachers/vyasatirtha.md) — role: author; attribution: accepted
-**Dates:** Tradition's account: Vedānta Deśika, 1268–1369; Scholarly account: 14th c. CE; (confidence moderate)
-**Availability:** digitized-original
+**Dates:** Scholarly account: late 15th – early 16th c. CE (Vyāsatīrtha 1460–1539); (confidence moderate)
+**Availability:** unknown
 
-Vedānta Deśika's sub-commentary on Rāmānuja's Gītābhāṣya.
-**Editions / translations:** 
-  - kind: original; name: gita/gita JSON corpus (Sanskrit text, transliteration, several commentaries); licence: Unlicense; url: https://github.com/gita/gita
+Vyāsatīrtha's commentary on Jayatīrtha's Tattvaprakāśikā, comparing Madhva's reading of the Brahmasūtras with those of the Advaita and Viśiṣṭādvaita commentators.
 **Commentaries on this text:** [Candrikāprakāśa](candrikaprakasa.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

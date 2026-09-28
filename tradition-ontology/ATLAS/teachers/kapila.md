@@ -3,7 +3,7 @@
 `tch:kapila` · `skeleton` · confidence high
 
 **Alternate names:** Paramarṣi (the supreme sage), Ādividvān (the first knower), Kapila Muni
-**Lineages:** [Sāṃkhya](../lineages/samkhya.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
+**Lineages:** [Sāṃkhya](../lineages/samkhya.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 **Dates:** Tradition's account: born at the beginning of creation endowed with virtue, knowledge, dispassion and power (Gauḍapāda on SK 1, 43); in the Purāṇic account an avatāra, son of Kardama and Devahūti (Māṭhara on SK 1; Bhāgavata Purāṇa book 3); (confidence low)
 **Historicity:** legendary
 **Students:** [Āsuri](asuri.md), [Devahūti](devahuti.md)
@@ -19,4 +19,4 @@ Founder of Sāṃkhya in the tradition's account: the 'supreme sage' (SK 69) who
 _Notes: U05's contribution (the epic account)._
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U05-gita-epic, skeleton:U07-puranas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._

@@ -17,7 +17,7 @@ The most widespread living Ṛgveda ritual school, reciting the Śākala Saṃhi
 
 
 ## Texts
-[Aitareya Brāhmaṇa](../texts/aitareya-brahmana.md), [Ṛgveda Saṃhitā](../texts/rgveda.md)
+[Aitareya Brāhmaṇa](../texts/aitareya-brahmana.md), [Aitareya Upaniṣad](../texts/aitareya-upanisad.md), [Ṛgveda Saṃhitā](../texts/rgveda.md)
 
 ## Teachers
 [Śaunaka (of Naimiṣa)](../teachers/saunaka.md)
@@ -32,4 +32,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

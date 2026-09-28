@@ -20,4 +20,4 @@ one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of al
 _Notes: The tradition's account that Madhva added these verses to his disciple's Vāyustuti is recorded at low confidence._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

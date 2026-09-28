@@ -11,4 +11,4 @@
 Second Pāṇḍava; argues for artha and action against Yudhiṣṭhira's forbearance (3.34; 12.10); instructed by Hanumān on the ages and the duties of the varṇas (3.147–150).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

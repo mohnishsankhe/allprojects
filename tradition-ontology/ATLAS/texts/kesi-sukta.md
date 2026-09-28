@@ -11,7 +11,7 @@
 **Part of:** [Ṛgveda Saṃhitā](rgveda.md)
 **Location in parent:** 10.136 (7 verses)
 **Authors:** 
-  - `tch:vatarasana-munis` — role: revealer; attribution: traditional
+  - [The Vātaraśana munis (seven wind-girdled sages)](../teachers/vatarasana-munis.md) — role: revealer; attribution: traditional
 **Attribution:** tradition: seen by vatarasana-munis; deity: the Keśins (Agni, Sūrya, Vāyu) (Sarvānukramaṇī); scholarly: a hymn of the Ṛgveda; books 1 and 10 are among its later layers; confidence: high
 **Availability:** digitized-original
 
@@ -20,4 +20,4 @@ The hymn of the long-haired one (keśin) who bears fire, poison(-drink) and heav
 _Notes: Each verse is ascribed to one of seven wind-girdled munis: Jūti, Vātajūti, Viprajūti, Vṛṣāṇaka, Karikrata, Etaśa, Ṛśyaśṛṅga (checked in the local text's header)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

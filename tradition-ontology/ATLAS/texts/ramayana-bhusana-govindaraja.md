@@ -5,7 +5,7 @@
 **Original title:** भूषण
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:visistadvaita`
+**Lineages:** [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md)
 **Genre:** commentary (bhāṣya/ṭīkā)
 **Commentary on:** [Rāmāyaṇa (of Vālmīki)](ramayana.md)
 **Authors:** 
@@ -16,4 +16,4 @@
 Govindarāja's extensive Śrīvaiṣṇava commentary on the Vālmīki Rāmāyaṇa.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

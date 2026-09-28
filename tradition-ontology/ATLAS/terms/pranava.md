@@ -1,0 +1,25 @@
+# praṇava
+
+`trm:pranava` · `skeleton` · confidence high
+
+**Language:** Sanskrit
+**Native script:** प्रणव
+**Literal:** the reverberating (syllable); Oṃ
+
+## Definitions by tradition
+- [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): The designator of Īśvara (1.27), whose relation to him is fixed, not conventional (YBh 1.27); repeated with contemplation of its meaning (1.28).
+- [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md): The designator of Viṣṇu, eightfold (a, u, m and five further subtle components up to 'atiśānta'), naming his forms Viśva, Taijasa, Prājña, Turīya, Ātman, Antarātman, Paramātman and Jñānātman; source of the other mantras.
+- [Vīraśaiva / Liṅgāyata](../lineages/virasaiva.md): The single syllable that reveals the partless, second-less Śiva; it arises from 'so'ham' by dropping the 'h' and the 's' (SSM 8.17–22).
+- [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Om as the sacred syllable: 'praṇava is the bow' (MuU 2.2.4); the upper fire-stick of meditation (ŚU 1.14).
+- [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): The syllable Oṃ, whose three measures and half-measure are meditated upon; raised in the heart like a bell's sound.
+- [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Oṃ as analysed into measures and taught as the means of meditation, the renouncer's only study, the 'thread' and the tāraka; of three, four, twelve or sixteen measures.
+- [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): In the tirumantra, a-u-m teach that the soul (m) exists for the Lord (a) alone (u).
+
+## Forms in other languages
+
+## Equivalents (interpretation layer)
+- exact: [oṃ](om.md) — praṇava is the name of the syllable Oṃ
+**Related:** [sarva-śabda-vācyatva](sarvasabdavacyatva.md), [so'ham](soham.md), [oṃ](om.md), [mātrā](matra.md), [ardhamātrā](ardhamatra.md), [tāraka](taraka.md)
+
+---
+_Contributed by: skeleton:U10-yoga, skeleton:U15-dvaita, skeleton:U20-virasaiva, skeleton:U03-principal-upanisads, skeleton:U07-puranas, skeleton:U04-minor-upanisads, skeleton:U14-visistadvaita. Generated 2026-09-28 08:09 IST._

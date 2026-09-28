@@ -15,4 +15,4 @@
 The hymn on the making of man ('by whom were the heels of man set?'), attributed to Nārāyaṇa: it asks by whom the limbs, senses, mind, faith and speech were placed in him and answers 'by Brahman'; it names the body the eight-wheeled, nine-gated city of the gods with a golden sheath in which dwells the self-possessed wonder (yakṣa) known to the knowers of Brahman.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

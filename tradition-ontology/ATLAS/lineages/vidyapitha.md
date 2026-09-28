@@ -5,7 +5,7 @@
 **Family:** vedic
 **Alternate names:** vidyāpīṭha, Yāmala and Śakti tantras
 **Parent:** [Mantramārga (the Path of Mantras)](mantramarga.md)
-**Sub-lineages:** [Trika ('the Triad')](trika.md), `lin:kalikula`
+**Sub-lineages:** [Trika ('the Triad')](trika.md), [Kālīkula (the Kālī lineages)](kalikula.md)
 **Key teachers:** [Abhinavagupta](../teachers/abhinavagupta.md), [Jayaratha](../teachers/jayaratha.md)
 **Regions:** Kashmir, Nepal, North India
 **Dates:** Scholarly account: Brahmayāmala/Picumata perhaps 7th–8th c.; Nepalese manuscript dated 1052 CE; Jayadrathayāmala c. 9th–10th c. (Kashmir); (confidence low)
@@ -19,7 +19,7 @@ Division of the Bhairava tantras centred on goddesses, yoginīs and feminine man
 - Its sādhaka follows Kāpālika-style observances in cremation grounds (summary only; see prc:vidyapitha-observance).
 
 **Transmissions given:** 
-  - `lin:kaula` — what: yoginī cult and kula ritual reformulated in the Kaula traditions
+  - [Kaula (the Kula tradition)](kaula.md) — what: yoginī cult and kula ritual reformulated in the Kaula traditions
   - [Trika ('the Triad')](trika.md) — what: the Śakti-tantras (Siddhayogeśvarīmata, Mālinīvijayottara) as scriptural base
 
 ## The ultimate in this lineage
@@ -47,4 +47,4 @@ _none recorded_
 _Notes: Sub-lineage created by U08. Doctrine of the Trika and Kālīkula belongs to U19/U24. family 'vedic' is the project's A/B classification (Brahmanical vs śramaṇa); it is not a claim that this tradition treats the Veda as its final authority._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

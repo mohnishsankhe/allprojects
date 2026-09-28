@@ -6,12 +6,12 @@
 **Original title:** वाक्सूक्तम् / देवीसूक्तम्
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Śākala śākhā (Ṛgveda)](../lineages/sakha-sakala.md), `lin:sakta`
+**Lineages:** [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Śākala śākhā (Ṛgveda)](../lineages/sakha-sakala.md), [Śākta traditions](../lineages/sakta.md)
 **Genre:** sūkta
 **Part of:** [Ṛgveda Saṃhitā](rgveda.md)
 **Location in parent:** 10.125 (8 verses)
 **Authors:** 
-  - `tch:vak-ambhrni` — role: revealer; attribution: traditional
+  - [Vāc Āmbhṛṇī](../teachers/vak-ambhrni.md) — role: revealer; attribution: traditional
 **Attribution:** tradition: seen by vak-ambhrni; deity: Ātmā (the self) (Sarvānukramaṇī); scholarly: a hymn of the Ṛgveda; books 1 and 10 are among its later layers; confidence: high
 **Availability:** digitized-original
 
@@ -20,4 +20,4 @@ Speech (Vāc) proclaims herself: she moves with the Rudras, Vasus, Ādityas and 
 _Notes: The Sarvānukramaṇī gives the deity as 'ātman': the seer Vāc Āmbhṛṇī praises herself as the self of all. Recited in Śākta worship with the Devī Māhātmya._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

@@ -16,7 +16,17 @@
 
 Yudhiṣṭhira asks which of dharma, artha and kāma is weightiest; Vidura, Arjuna, the twins and Bhīma each argue a view, and Yudhiṣṭhira points beyond all three to liberation.
 
+## Teachings (1: skeleton 1)
+
+### 12.161 <a id="tea-sadja-gita-12-161"></a>
+`skeleton` · confidence moderate · [AI-translated]
+
+Asked which of dharma, artha and kāma is weightiest, Vidura favours dharma, Arjuna artha, the twins artha with dharma, and Bhīma kāma; Yudhiṣṭhira concludes that one freed from all three attains liberation.
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics, dispute_
+
+
 _Notes: The name 'Ṣaḍja Gītā' is recalled from the vulgate tradition (low); the passage itself was verified._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

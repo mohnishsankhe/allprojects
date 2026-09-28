@@ -20,4 +20,4 @@ The last book: the history of the rākṣasas, Rāma's reign, the banishment of 
   - kind: original; name: DharmicData JSON of the Vālmīki Rāmāyaṇa (southern vulgate numbering); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

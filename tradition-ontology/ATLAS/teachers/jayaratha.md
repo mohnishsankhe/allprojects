@@ -2,7 +2,7 @@
 
 `tch:jayaratha` · `skeleton` · confidence high
 
-**Lineages:** [Trika ('the Triad')](../lineages/trika.md), [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Krama (the 'Sequence'; Mahānaya, Mahārtha)](../lineages/krama.md), `lin:srividya`, [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
+**Lineages:** [Trika ('the Triad')](../lineages/trika.md), [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Krama (the 'Sequence'; Mahānaya, Mahārtha)](../lineages/krama.md), [Śrīvidyā](../lineages/srividya.md), [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
 **Dates:** Scholarly account: 13th c. CE (under King Rājadeva, early 13th c.); (confidence moderate)
 **Places:** Kashmir
 **Historicity:** historical
@@ -14,4 +14,4 @@
 _Notes: Contribution from U08 (catalogue role); U19 owns his exegesis._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

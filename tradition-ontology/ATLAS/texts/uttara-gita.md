@@ -5,7 +5,7 @@
 **Original title:** उत्तरगीता
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:advaita-vedanta`
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md)
 **Genre:** gītā
 **Part of:** [Mahābhārata](mahabharata.md)
 **Location in parent:** claimed for the Aśvamedhikaparvan of the Mahābhārata (not in the critical edition)
@@ -18,7 +18,24 @@
 
 Kṛṣṇa teaches Arjuna the knowledge of Brahman together with yogic anatomy (the nāḍīs, suṣumnā, brahmarandhra): the knower of Brahman, satisfied with the nectar of knowledge, has nothing more to do; the self is to be known beyond scripture, which is left behind like husk once the grain is taken.
 
+## Teachings (2: skeleton 2)
+
+### 1 <a id="tea-uttara-gita-1"></a>
+`skeleton` · confidence low · [AI-translated]
+
+The knower of Brahman, satisfied with the nectar of knowledge and having done what is to be done, has nothing further to do; if he has, he is not a knower of truth. Having studied the texts, the wise, intent on knowledge, should discard them as one who wants grain discards the husk.
+
+_level: ultimate · standpoint: absolute · path: knowledge · stage: realized · types: karma-liberation_
+
+### 2 <a id="tea-uttara-gita-2"></a>
+`skeleton` · confidence low · [AI-translated]
+
+Kṛṣṇa describes the body's channels — iḍā, piṅgalā and suṣumnā — the brahmarandhra and the movement of breath, teaching the yogin to direct attention to the central channel and to the Self beyond.
+
+_level: conventional · standpoint: seeker · path: body-breath, meditation · stage: advanced · types: body-layers, practice_
+
+
 _Notes: Distinct from the Anugītā (Mahābhārata 14.16-50), which is also a post-war teaching to Arjuna._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

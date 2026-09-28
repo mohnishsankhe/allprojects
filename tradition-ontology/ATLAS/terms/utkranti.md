@@ -1,0 +1,20 @@
+# utkrānti
+
+`trm:utkranti` · `skeleton` · confidence high
+
+**Language:** Sanskrit
+**Native script:** उत्क्रान्ति
+**Literal:** departure (of the soul at death)
+
+## Definitions by tradition
+- [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md): The knower's departure from the body through the crown channel, when the tip of the heart lights up, aided by the grace of Hari in the heart.
+- [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): Departure from the body at death, undertaken at will by one who has mastered udāna (3.39, YBh 3.39).
+- [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): The departure of the living being from the body at death; for the yogin a controlled departure through the crown.
+
+## Forms in other languages
+
+## Equivalents (interpretation layer)
+**Related:** [nāḍī](nadi.md), [arcirādi-mārga](arciradi-marga.md)
+
+---
+_Contributed by: skeleton:U15-dvaita, skeleton:U10-yoga, skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._

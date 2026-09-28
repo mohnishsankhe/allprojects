@@ -1,0 +1,24 @@
+# Heedlessness (pramāda)
+
+`obs:pramada` · `skeleton` · confidence high
+
+**Category:** obstacle
+**Convergence:** 4 independent lineage(s): [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
+**Taught in:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
+
+Heedlessness is death (Sanatsujāta, MBh 5.42.4); negligence is a bond of tamas (BhG 14.8).
+**Antidotes:** [Heedfulness (apramāda)](../practices/apramada.md), [Practice on a single principle (ekatattva-abhyāsa)](../practices/ekatattva-abhyasa.md), [Devotion to Īśvara (īśvara-praṇidhāna)](../practices/isvara-pranidhana.md)
+**Sources:** 
+  - [Sanatsujātīya](../texts/sanatsujatiya.md) — ref: 5.42.4; rests_on: ["tea:sanatsujatiya:5.42.4"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 14.8; rests_on: ["tea:bhagavad-gita:14.6-8"]
+  - [Yoga Sūtra of Patañjali](../texts/yoga-sutra.md) — ref: 1.30; rests_on: ["tea:yoga-sutra:1.30"]
+  - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 1.30; rests_on: ["tea:yoga-bhasya:1.30"]
+  - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 3.51; rests_on: ["tea:yoga-bhasya:3.51"]
+  - [Taittirīya Upaniṣad](../texts/taittiriya-upanisad.md) — ref: 1.11; rests_on: ["tea:taittiriya-upanisad:1.11.1-4"]
+  - [Muṇḍaka Upaniṣad](../texts/mundaka-upanisad.md) — ref: 2.2.4; 3.2.4; rests_on: ["tea:mundaka-upanisad:2.2.3-4", "tea:mundaka-upanisad:3.2.4"]
+  - [Katha Upaniṣad](../texts/katha-upanisad.md) — ref: 2.3.11; rests_on: ["tea:katha-upanisad:2.3.10-11"]
+  - [Pāśupata Sūtra](../texts/pasupata-sutra.md) — ref: 2.12; 5.40; rests_on: ["tea:pasupata-sutra:2.12-14", "tea:pasupata-sutra:5.35-40"]
+  - [Pañcārthabhāṣya](../texts/pancarthabhasya.md) — ref: on PS 5.40; rests_on: ["tea:pancarthabhasya:5.39"]
+
+---
+_Contributed by: skeleton:U05-gita-epic, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U17-pasupata-kapalika. Generated 2026-09-28 08:09 IST._

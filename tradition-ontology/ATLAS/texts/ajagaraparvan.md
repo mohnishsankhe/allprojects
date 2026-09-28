@@ -22,4 +22,4 @@ Bhīma is seized by a python who is king Nahuṣa under a curse; Yudhiṣṭhira
 _Notes: Start chapter given from memory; the brāhmaṇa-definition verse (3.177.16) is checked._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

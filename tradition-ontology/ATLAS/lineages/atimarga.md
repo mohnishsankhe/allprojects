@@ -5,8 +5,8 @@
 **Family:** vedic
 **Alternate names:** Atimārga (the 'path beyond'), outer path (scholarly rendering), lokātīta (the observance 'beyond the world')
 **Sub-lineages:** [Pāśupata (Pāñcārthika Pāśupata)](pasupata.md), [Lākula](lakula.md), [Kāpālika (Somasiddhānta)](kapalika.md), [Kālāmukha](kalamukha.md)
-**Founders:** `tch:lakulisa`
-**Key teachers:** `tch:lakulisa`, `tch:kusika`, `tch:kaundinya`
+**Founders:** [Lakulīśa](../teachers/lakulisa.md)
+**Key teachers:** [Lakulīśa](../teachers/lakulisa.md), [Kuśika](../teachers/kusika.md), [Kauṇḍinya](../teachers/kaundinya.md)
 **Regions:** Gujarat (Kāyāvarohaṇa, Somanātha-Prabhāsa), Ujjayinī, Mathurā, Karnataka, Śrīśaila (Andhra), Nepal, Kāñcī (Tamil region)
 **Dates:** Tradition's account: from Śiva's descent as Lakulin, the last of his 28 yoga-teacher incarnations (Liṅga P. 1.24; Kūrma P. 1.51); Scholarly account: c. 2nd c. CE (Lakulīśa) to c. 14th c. CE (last Kālāmukha and Pāśupata records); the name 'Atimārga' is used by Śaiva tantras from c. 6th–7th c.; (confidence low)
 **Status:** extinct
@@ -35,16 +35,16 @@ The Atimārga ('path beyond') is the name the Śaiva scriptures give to the olde
 **Caveat:** The Atimārga schools are theistic and keep the liberated soul distinct from the Lord; they would reject a reading that dissolves the soul into an impersonal absolute. The Mantramārga ranks their goal below its own (Svacchanda 11.71). For the Lākula, Kāpālika and Kālāmukha divisions almost no first-hand doctrinal text survives.
 
 ## Texts
-`src:ganakarika`, [Niśvāsamukha](../texts/nisvasamukha.md), `src:pancarthabhasya`, `src:pasupata-sutra`, `src:ratnatika`, [Svacchandatantra (Svacchandabhairavatantra)](../texts/svacchanda-tantra.md)
+[Gaṇakārikā](../texts/ganakarika.md), [Niśvāsamukha](../texts/nisvasamukha.md), [Pañcārthabhāṣya](../texts/pancarthabhasya.md), [Pāśupata Sūtra](../texts/pasupata-sutra.md), [Ratnaṭīkā](../texts/ratnatika.md), [Svacchandatantra (Svacchandabhairavatantra)](../texts/svacchanda-tantra.md)
 
 ## Teachers
-`tch:kaundinya`, `tch:kusika`, `tch:lakulisa`
+[Kauṇḍinya](../teachers/kaundinya.md), [Kuśika](../teachers/kusika.md), [Lakulīśa](../teachers/lakulisa.md)
 
 ## Practices
 _none recorded_
 
 ## Path maps
-`pth:pasupata-five-stages`
+[The five stages of the Pāśupata path (avasthā-pañcaka)](../paths/pasupata-five-stages.md)
 
 ## Debates
 _none recorded_
@@ -52,4 +52,4 @@ _none recorded_
 _Notes: The division Atimārga/Mantramārga is the scriptures' own (Niśvāsa corpus; Svacchanda 11.182-190). Grouping the Kāpālikas as a third Atimārga division follows some scholarly reconstructions (Sanderson); other sources link the Kāpālika cult to the Mantramārga's Bhairava tantras. The Kūrma Purāṇa (2.37.146) lists 'Pāśupata, Soma, Lākula' together, with Vāma and Bhairava, as non-Vedic Śaiva teachings._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 08:09 IST._

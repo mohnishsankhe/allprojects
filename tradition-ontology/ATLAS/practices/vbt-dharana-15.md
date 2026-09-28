@@ -13,9 +13,9 @@ One who is immersed in the Sound-Brahman - the unstruck (anāhata), unbroken sou
   - [Vijñānabhairava](../texts/vijnana-bhairava-tantra.md) — ref: 38; rests_on: ["tea:vijnana-bhairava-tantra:38"]
 
 ## Equivalents (interpretation layer)
-- analogous: `prc:nadanusandhana` — Absorption in the inner unstruck sound
+- analogous: [Listening to the inner sound](nadanusandhana.md) — Absorption in the inner unstruck sound
 
 _Notes: Verses 38 (KSTS 8 / GRETIL numbering). 'pātrakarṇe' is read differently in the recensions._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

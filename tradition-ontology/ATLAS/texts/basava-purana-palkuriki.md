@@ -14,5 +14,17 @@
 
 A Telugu purāṇa in dvipada couplets narrating Basava's life, his devotion to Śiva's devotees, the miracles of the śaraṇas and of earlier (purātana) Śaiva saints, and the events at Kalyāṇa; the earliest full-scale hagiography of Basava.
 
+## Teachings (1: skeleton 1)
+
+### Kalyāṇa episode (closing section) <a id="tea-basava-purana-palkuriki-episode-kalyana"></a>
+`skeleton` · confidence low
+
+The marriage of the son of the cobbler-devotee Haraḷayya to the daughter of the brāhmaṇa-devotee Madhuvarasa outrages the orthodox; king Bijjala has both fathers put to death; violence follows, the king is killed and the śaraṇas are scattered.
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics, dispute_
+
+teachers: [Samagāra Haraḷayya](../teachers/samagara-haralayya.md), [Madhuvarasa](../teachers/madhuvarasa.md), [Basava](../teachers/basava.md) · disputes: [Does liṅga-initiation abolish caste and pollution distinctions among devotees?](../debates/virasaiva-caste-and-pollution.md)
+
+
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._

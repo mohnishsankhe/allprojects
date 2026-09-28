@@ -16,4 +16,4 @@
 Pontiff at Kumbhakonam, trained by Vyāsatīrtha; a prolific polemicist (the tradition credits him with over a hundred works) who answered Appayya Dīkṣita's critiques of Madhva and commented on the Nyāyāmṛta.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

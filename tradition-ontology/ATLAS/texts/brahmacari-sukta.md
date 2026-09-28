@@ -14,4 +14,4 @@
 The hymn of the Vedic student: the brahmacārin moves quickening both worlds; the teacher, initiating him, holds him three nights as an embryo; with fuel, girdle, toil and tapas he fills the worlds; by brahmacarya and tapas the king protects the realm, a maiden wins a husband, the gods struck down death.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

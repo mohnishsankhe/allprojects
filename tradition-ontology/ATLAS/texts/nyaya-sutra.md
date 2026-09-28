@@ -33,7 +33,7 @@ The highest good (niḥśreyasa) is attained from knowledge of the truth of: the
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation_
 
-terms: `trm:nihsreyasa`, `trm:tattvajnana`, `trm:padartha`, `trm:pramana`, `trm:prameya` · concepts: `cpt:sixteen-padarthas-nyaya`
+terms: [niḥśreyasa](../terms/nihsreyasa.md), [tattvajñāna](../terms/tattvajnana.md), [padārtha](../terms/padartha.md), [pramāṇa](../terms/pramana.md), [prameya](../terms/prameya.md) · concepts: [The sixteen categories of Nyāya (ṣoḍaśa padārtha)](../concepts/sixteen-padarthas-nyaya.md)
 
 ### 1.1.2 <a id="tea-nyaya-sutra-1-1-2"></a>
 `skeleton` · confidence high
@@ -44,7 +44,7 @@ Of pain, birth, activity, faults and false knowledge, as each later-listed one i
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
 
-terms: `trm:duhkha`, `trm:pravrtti`, `trm:dosa`, `trm:mithyajnana`, `trm:apavarga` · concepts: `cpt:nyaya-chain-of-liberation` · obstacles: `obs:mithyajnana-nyaya`, `obs:three-dosas-nyaya`
+terms: [duḥkha](../terms/duhkha.md), [pravṛtti](../terms/pravrtti.md), [doṣa](../terms/dosa.md), [mithyājñāna](../terms/mithyajnana.md), [apavarga](../terms/apavarga.md) · concepts: [The chain from false knowledge to liberation (NS 1.1.2)](../concepts/nyaya-chain-of-liberation.md) · obstacles: [False knowledge (mithyājñāna)](../obstacles/mithyajnana-nyaya.md), [The three groups of faults (rāga, dveṣa, moha)](../obstacles/three-dosas-nyaya.md)
 
 ### 1.1.3 <a id="tea-nyaya-sutra-1-1-3"></a>
 `skeleton` · confidence high
@@ -55,7 +55,7 @@ Perception, inference, comparison and verbal testimony are the means of knowledg
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:pratyaksa`, `trm:anumana`, `trm:upamana`, `trm:sabda`, `trm:pramana` · concepts: `cpt:four-pramanas-nyaya` · disputes: `dsp:number-of-pramanas`
+terms: [pratyakṣa](../terms/pratyaksa.md), [anumāna](../terms/anumana.md), [upamāna](../terms/upamana.md), [śabda](../terms/sabda.md), [pramāṇa](../terms/pramana.md) · concepts: [The four means of knowledge (Nyāya)](../concepts/four-pramanas-nyaya.md) · disputes: `dsp:number-of-pramanas`
 
 ### 1.1.4 <a id="tea-nyaya-sutra-1-1-4"></a>
 `skeleton` · confidence high
@@ -66,7 +66,7 @@ Perception is the cognition that arises from the contact of a sense faculty with
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:pratyaksa`, `trm:sannikarsa`, `trm:vyavasaya`, `trm:nirvikalpaka`, `trm:savikalpaka` · concepts: `cpt:nirvikalpaka-savikalpaka`, `cpt:six-sannikarsas`
+terms: [pratyakṣa](../terms/pratyaksa.md), [sannikarṣa](../terms/sannikarsa.md), [vyavasāya](../terms/vyavasaya.md), [nirvikalpaka](../terms/nirvikalpaka.md), [savikalpaka](../terms/savikalpaka.md) · concepts: [Indeterminate and determinate perception](../concepts/nirvikalpaka-savikalpaka.md), [The six sense-object contacts](../concepts/six-sannikarsas.md)
 
 ### 1.1.5 <a id="tea-nyaya-sutra-1-1-5"></a>
 `skeleton` · confidence high
@@ -77,7 +77,7 @@ Next, inference, which is preceded by that (perception), is of three kinds: pūr
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:anumana`, `trm:purvavat`, `trm:sesavat`, `trm:samanyatodrsta` · concepts: `cpt:four-pramanas-nyaya`
+terms: [anumāna](../terms/anumana.md), [pūrvavat](../terms/purvavat.md), [śeṣavat](../terms/sesavat.md), [sāmānyatodṛṣṭa](../terms/samanyatodrsta.md) · concepts: [The four means of knowledge (Nyāya)](../concepts/four-pramanas-nyaya.md)
 
 ### 1.1.6 <a id="tea-nyaya-sutra-1-1-6"></a>
 `skeleton` · confidence high
@@ -88,7 +88,7 @@ Comparison (upamāna) is the establishing of what is to be established through s
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:upamana`
+terms: [upamāna](../terms/upamana.md)
 
 ### 1.1.7 <a id="tea-nyaya-sutra-1-1-7"></a>
 `skeleton` · confidence high
@@ -99,7 +99,7 @@ Verbal testimony (śabda) is the instruction of a reliable person (āpta).
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind, sound-language_
 
-terms: `trm:sabda`, `trm:apta` · concepts: `cpt:veda-authorship-nyaya`
+terms: [śabda](../terms/sabda.md), [āpta](../terms/apta.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md)
 
 ### 1.1.8 <a id="tea-nyaya-sutra-1-1-8"></a>
 `skeleton` · confidence high
@@ -110,7 +110,7 @@ It (verbal testimony) is of two kinds, since its object is either seen (dṛṣ�
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: sound-language_
 
-terms: `trm:sabda`
+terms: [śabda](../terms/sabda.md)
 
 ### 1.1.9 <a id="tea-nyaya-sutra-1-1-9"></a>
 `skeleton` · confidence high
@@ -121,7 +121,7 @@ Self, body, senses, sense-objects, cognition (buddhi), mind (manas), activity, f
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: `trm:prameya`, `trm:atman`, `trm:sarira`, `trm:indriya`, `trm:buddhi`, `trm:manas`, `trm:pravrtti`, `trm:dosa`, `trm:pretyabhava`, `trm:phala`, `trm:duhkha`, `trm:apavarga` · concepts: `cpt:twelve-prameyas`
+terms: [prameya](../terms/prameya.md), [ātman](../terms/atman.md), [śarīra](../terms/sarira.md), [indriya](../terms/indriya.md), [buddhi](../terms/buddhi.md), [manas](../terms/manas.md), [pravṛtti](../terms/pravrtti.md), [doṣa](../terms/dosa.md), [pretyabhāva](../terms/pretyabhava.md), [phala](../terms/phala.md), [duḥkha](../terms/duhkha.md), [apavarga](../terms/apavarga.md) · concepts: [The twelve objects of knowledge (prameya)](../concepts/twelve-prameyas.md)
 
 ### 1.1.10 <a id="tea-nyaya-sutra-1-1-10"></a>
 `skeleton` · confidence high
@@ -132,7 +132,7 @@ Desire, aversion, effort, pleasure, pain and cognition are the marks (liṅga) o
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:atman`, `trm:iccha`, `trm:dvesa`, `trm:prayatna`, `trm:sukha`, `trm:duhkha`, `trm:jnana`, `trm:linga` · concepts: `cpt:marks-of-the-self`, `cpt:self-nyaya-vaisesika` · disputes: `dsp:is-there-a-self`
+terms: [ātman](../terms/atman.md), [icchā](../terms/iccha.md), [dveṣa](../terms/dvesa.md), [prayatna](../terms/prayatna.md), [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md), [jñāna](../terms/jnana.md), [liṅga](../terms/linga.md) · concepts: [The marks (liṅga) of the self](../concepts/marks-of-the-self.md), [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: `dsp:is-there-a-self`
 
 ### 1.1.11 <a id="tea-nyaya-sutra-1-1-11"></a>
 `skeleton` · confidence high
@@ -143,7 +143,7 @@ The body is the substrate of purposive movement (ceṣṭā), of the sense facul
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: body-layers_
 
-terms: `trm:sarira` · concepts: `cpt:body-nyaya-vaisesika`
+terms: [śarīra](../terms/sarira.md) · concepts: [The body in Nyāya-Vaiśeṣika](../concepts/body-nyaya-vaisesika.md)
 
 ### 1.1.12 <a id="tea-nyaya-sutra-1-1-12"></a>
 `skeleton` · confidence high
@@ -154,7 +154,7 @@ Smell, taste, sight, touch and hearing are the sense faculties; (they arise) fro
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: body-layers_
 
-terms: `trm:indriya` · concepts: `cpt:senses-bhautika`
+terms: [indriya](../terms/indriya.md) · concepts: [The senses as made of the elements](../concepts/senses-bhautika.md)
 
 ### 1.1.13 <a id="tea-nyaya-sutra-1-1-13"></a>
 `skeleton` · confidence high
@@ -165,7 +165,7 @@ Earth, water, fire, air and ākāśa are the elements (bhūta).
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: body-layers, world-fate_
 
-terms: `trm:prthivi`, `trm:ap`, `trm:tejas`, `trm:vayu`, `trm:akasa`
+terms: [pṛthivī](../terms/prthivi.md), [ap / jala](../terms/ap.md), [tejas](../terms/tejas.md), [Vāyu](../terms/vayu.md), [ākāśa](../terms/akasa.md)
 
 ### 1.1.14 <a id="tea-nyaya-sutra-1-1-14"></a>
 `skeleton` · confidence high
@@ -176,7 +176,7 @@ Smell, taste, colour, touch and sound — the qualities of earth and the others 
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: body-layers_
 
-terms: `trm:gandha`, `trm:rasa`, `trm:rupa`, `trm:sparsa`, `trm:sabda` · concepts: `cpt:senses-bhautika`
+terms: [gandha](../terms/gandha.md), [rasa](../terms/rasa.md), [rūpa](../terms/rupa.md), [sparśa](../terms/sparsa.md), [śabda](../terms/sabda.md) · concepts: [The senses as made of the elements](../concepts/senses-bhautika.md)
 
 ### 1.1.15 <a id="tea-nyaya-sutra-1-1-15"></a>
 `skeleton` · confidence high
@@ -187,7 +187,7 @@ Cognition (buddhi), apprehension (upalabdhi) and knowledge (jñāna) do not diff
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:buddhi`, `trm:jnana` · concepts: `cpt:cognition-adventitious`
+terms: [buddhi](../terms/buddhi.md), [jñāna](../terms/jnana.md) · concepts: [Cognition as an adventitious quality of the self](../concepts/cognition-adventitious.md)
 
 ### 1.1.16 <a id="tea-nyaya-sutra-1-1-16"></a>
 `skeleton` · confidence high
@@ -198,7 +198,7 @@ The non-arising of cognitions simultaneously is the mark of the mind (manas).
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:manas` · concepts: `cpt:manas-atomic`
+terms: [manas](../terms/manas.md) · concepts: [The mind (manas) as one and atomic](../concepts/manas-atomic.md)
 
 ### 1.1.17 <a id="tea-nyaya-sutra-1-1-17"></a>
 `skeleton` · confidence high
@@ -209,7 +209,7 @@ Activity (pravṛtti) is the undertaking (of action) by speech, mind (buddhi) an
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: karma-liberation, ethics_
 
-terms: `trm:pravrtti`
+terms: [pravṛtti](../terms/pravrtti.md)
 
 ### 1.1.18 <a id="tea-nyaya-sutra-1-1-18"></a>
 `skeleton` · confidence high
@@ -220,7 +220,7 @@ The faults (doṣa) have impelling (to activity) as their characteristic.
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: karma-liberation_
 
-terms: `trm:dosa` · obstacles: `obs:three-dosas-nyaya`
+terms: [doṣa](../terms/dosa.md) · obstacles: [The three groups of faults (rāga, dveṣa, moha)](../obstacles/three-dosas-nyaya.md)
 
 ### 1.1.19 <a id="tea-nyaya-sutra-1-1-19"></a>
 `skeleton` · confidence high
@@ -231,7 +231,7 @@ Rebirth (pretyabhāva) is arising again.
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: karma-liberation, death-dying_
 
-terms: `trm:pretyabhava` · concepts: `cpt:rebirth-proofs-nyaya`
+terms: [pretyabhāva](../terms/pretyabhava.md) · concepts: [Nyāya arguments for previous and future births](../concepts/rebirth-proofs-nyaya.md)
 
 ### 1.1.20 <a id="tea-nyaya-sutra-1-1-20"></a>
 `skeleton` · confidence high
@@ -242,7 +242,7 @@ Fruit (phala) is the result produced by activity and faults.
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: unmarked · types: karma-liberation_
 
-terms: `trm:phala`
+terms: [phala](../terms/phala.md)
 
 ### 1.1.21 <a id="tea-nyaya-sutra-1-1-21"></a>
 `skeleton` · confidence high
@@ -253,7 +253,7 @@ Pain (duḥkha) has affliction (bādhanā) as its characteristic.
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: karma-liberation_
 
-terms: `trm:duhkha` · concepts: `cpt:twenty-one-kinds-of-pain`
+terms: [duḥkha](../terms/duhkha.md) · concepts: [The twenty-one kinds of pain](../concepts/twenty-one-kinds-of-pain.md)
 
 ### 1.1.22 <a id="tea-nyaya-sutra-1-1-22"></a>
 `skeleton` · confidence high
@@ -264,7 +264,7 @@ Liberation (apavarga) is absolute release from that (pain).
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: karma-liberation_
 
-terms: `trm:apavarga`, `trm:duhkha` · concepts: `cpt:apavarga-nyaya` · disputes: `dsp:bliss-in-liberation`
+terms: [apavarga](../terms/apavarga.md), [duḥkha](../terms/duhkha.md) · concepts: [Liberation (apavarga) as the end of pain](../concepts/apavarga-nyaya.md) · disputes: [Does liberation contain bliss (and consciousness)?](../debates/bliss-in-liberation.md)
 
 ### 1.1.23 <a id="tea-nyaya-sutra-1-1-23"></a>
 `skeleton` · confidence high
@@ -275,7 +275,7 @@ Doubt (saṃśaya) is a deliberation that awaits a distinguishing mark; it arise
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:samsaya`
+terms: [saṃśaya](../terms/samsaya.md)
 
 ### 1.1.24 <a id="tea-nyaya-sutra-1-1-24"></a>
 `skeleton` · confidence high
@@ -286,7 +286,7 @@ Purpose (prayojana) is the aim with regard to which one acts.
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:prayojana`
+terms: [prayojana](../terms/prayojana.md)
 
 ### 1.1.25 <a id="tea-nyaya-sutra-1-1-25"></a>
 `skeleton` · confidence high
@@ -297,7 +297,7 @@ An example (dṛṣṭānta) is a thing about which ordinary people and critical
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:drstanta`
+terms: [dṛṣṭānta](../terms/drstanta.md)
 
 ### 1.1.26-31 <a id="tea-nyaya-sutra-1-1-26-31"></a>
 `skeleton` · confidence high
@@ -306,7 +306,7 @@ An established tenet (siddhānta) is a position settled on the basis of a system
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:siddhanta` · concepts: `cpt:four-siddhantas`
+terms: [siddhānta](../terms/siddhanta.md) · concepts: [The four kinds of established tenet (siddhānta)](../concepts/four-siddhantas.md)
 
 ### 1.1.32 <a id="tea-nyaya-sutra-1-1-32"></a>
 `skeleton` · confidence high
@@ -317,7 +317,7 @@ Proposition (pratijñā), reason (hetu), example (udāharaṇa), application (up
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:avayava`, `trm:pratijna`, `trm:hetu`, `trm:udaharana`, `trm:upanaya`, `trm:nigamana` · concepts: `cpt:five-membered-inference` · disputes: `dsp:members-of-inference`
+terms: [avayava](../terms/avayava.md), [pratijñā](../terms/pratijna.md), [hetu](../terms/hetu.md), [udāharaṇa](../terms/udaharana.md), [upanaya](../terms/upanaya.md), [nigamana](../terms/nigamana.md) · concepts: [The five-membered demonstration (pañcāvayava)](../concepts/five-membered-inference.md) · disputes: [How many members does a demonstration (inference for others) need?](../debates/members-of-inference.md)
 
 ### 1.1.33-39 <a id="tea-nyaya-sutra-1-1-33-39"></a>
 `skeleton` · confidence high
@@ -326,7 +326,7 @@ The proposition states what is to be proved; the reason proves it through simila
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:pratijna`, `trm:hetu`, `trm:udaharana`, `trm:upanaya`, `trm:nigamana` · concepts: `cpt:five-membered-inference`
+terms: [pratijñā](../terms/pratijna.md), [hetu](../terms/hetu.md), [udāharaṇa](../terms/udaharana.md), [upanaya](../terms/upanaya.md), [nigamana](../terms/nigamana.md) · concepts: [The five-membered demonstration (pañcāvayava)](../concepts/five-membered-inference.md)
 
 ### 1.1.40 <a id="tea-nyaya-sutra-1-1-40"></a>
 `skeleton` · confidence high
@@ -337,7 +337,7 @@ Hypothetical reasoning (tarka) is a reasoned consideration (ūha), for the sake 
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:tarka`
+terms: [tarka](../terms/tarka.md)
 
 ### 1.1.41 <a id="tea-nyaya-sutra-1-1-41"></a>
 `skeleton` · confidence high
@@ -348,7 +348,7 @@ Ascertainment (nirṇaya) is the determination of a thing after deliberating by 
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:nirnaya`
+terms: [nirṇaya](../terms/nirnaya.md)
 
 ### 1.2.1 <a id="tea-nyaya-sutra-1-2-1"></a>
 `skeleton` · confidence high
@@ -359,7 +359,7 @@ Discussion (vāda) is the taking up of a thesis and a counter-thesis in which pr
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: `trm:vada`, `trm:katha` · concepts: `cpt:three-kinds-of-debate` · practices: `prc:vada-debate`
+terms: [vāda](../terms/vada.md), [kathā](../terms/katha.md) · concepts: [The three kinds of debate (kathā)](../concepts/three-kinds-of-debate.md) · practices: [Discussion for truth (vāda)](../practices/vada-debate.md)
 
 ### 1.2.2 <a id="tea-nyaya-sutra-1-2-2"></a>
 `skeleton` · confidence high
@@ -370,7 +370,7 @@ Wrangling (jalpa) is (debate) having the features just stated in which proof and
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:jalpa` · concepts: `cpt:three-kinds-of-debate`
+terms: [jalpa](../terms/jalpa.md) · concepts: [The three kinds of debate (kathā)](../concepts/three-kinds-of-debate.md)
 
 ### 1.2.3 <a id="tea-nyaya-sutra-1-2-3"></a>
 `skeleton` · confidence high
@@ -381,7 +381,7 @@ Cavilling (vitaṇḍā) is that (wrangling) devoid of the establishment of a co
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:vitanda` · concepts: `cpt:three-kinds-of-debate` · disputes: `dsp:debate-without-thesis`
+terms: [vitaṇḍā](../terms/vitanda.md) · concepts: [The three kinds of debate (kathā)](../concepts/three-kinds-of-debate.md) · disputes: [May a debater refute without holding a thesis of his own (vitaṇḍā)?](../debates/debate-without-thesis.md)
 
 ### 1.2.4 <a id="tea-nyaya-sutra-1-2-4"></a>
 `skeleton` · confidence high
@@ -392,7 +392,7 @@ The pseudo-reasons (hetvābhāsa) are the inconclusive (savyabhicāra), the cont
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:hetvabhasa`, `trm:savyabhicara`, `trm:viruddha`, `trm:prakaranasama`, `trm:sadhyasama`, `trm:kalatita` · concepts: `cpt:hetvabhasa-nyaya`
+terms: [hetvābhāsa](../terms/hetvabhasa.md), [savyabhicāra / anaikāntika](../terms/savyabhicara.md), [viruddha](../terms/viruddha.md), [prakaraṇasama](../terms/prakaranasama.md), [sādhyasama](../terms/sadhyasama.md), [kālātīta / kālātyayāpadiṣṭa](../terms/kalatita.md) · concepts: [The pseudo-reasons (hetvābhāsa)](../concepts/hetvabhasa-nyaya.md)
 
 ### 1.2.5-9 <a id="tea-nyaya-sutra-1-2-5-9"></a>
 `skeleton` · confidence high
@@ -401,7 +401,7 @@ The inconclusive reason strays (from what is to be proved); the contradictory is
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:savyabhicara`, `trm:viruddha`, `trm:prakaranasama`, `trm:sadhyasama`, `trm:kalatita` · concepts: `cpt:hetvabhasa-nyaya`
+terms: [savyabhicāra / anaikāntika](../terms/savyabhicara.md), [viruddha](../terms/viruddha.md), [prakaraṇasama](../terms/prakaranasama.md), [sādhyasama](../terms/sadhyasama.md), [kālātīta / kālātyayāpadiṣṭa](../terms/kalatita.md) · concepts: [The pseudo-reasons (hetvābhāsa)](../concepts/hetvabhasa-nyaya.md)
 
 ### 1.2.10-17 <a id="tea-nyaya-sutra-1-2-10-17"></a>
 `skeleton` · confidence high
@@ -410,7 +410,7 @@ A quibble (chala) is the countering of a statement by supposing an alternative m
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:chala` · concepts: `cpt:three-chalas`
+terms: [chala](../terms/chala.md) · concepts: [The three quibbles (chala)](../concepts/three-chalas.md)
 
 ### 1.2.18 <a id="tea-nyaya-sutra-1-2-18"></a>
 `skeleton` · confidence high
@@ -421,7 +421,7 @@ A futile rejoinder (jāti) is an objection made merely on the ground of similari
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:jati` · concepts: `cpt:twenty-four-jatis`
+terms: [jāti](../terms/jati.md) · concepts: [The twenty-four futile rejoinders (jāti)](../concepts/twenty-four-jatis.md)
 
 ### 1.2.19 <a id="tea-nyaya-sutra-1-2-19"></a>
 `skeleton` · confidence high
@@ -432,7 +432,7 @@ A point of defeat (nigrahasthāna) is misunderstanding (vipratipatti) or non-und
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:nigrahasthana` · concepts: `cpt:twenty-two-nigrahasthanas`
+terms: [nigrahasthāna](../terms/nigrahasthana.md) · concepts: [The twenty-two points of defeat (nigrahasthāna)](../concepts/twenty-two-nigrahasthanas.md)
 
 ### 2.1.8-14 <a id="tea-nyaya-sutra-2-1-8-14"></a>
 `skeleton` · confidence high
@@ -441,7 +441,7 @@ An opponent holds that perception and the other means of knowledge are not valid
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: `trm:pramana` · disputes: `dsp:establishment-of-pramanas`
+terms: [pramāṇa](../terms/pramana.md) · disputes: [How are the means of knowledge themselves established?](../debates/establishment-of-pramanas.md)
 
 ### 2.1.16-19 <a id="tea-nyaya-sutra-2-1-16-19"></a>
 `skeleton` · confidence high
@@ -450,7 +450,7 @@ A means of knowledge can also be an object of knowledge, as a balance is both in
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: `trm:pramana`, `trm:prameya` · disputes: `dsp:establishment-of-pramanas`
+terms: [pramāṇa](../terms/pramana.md), [prameya](../terms/prameya.md) · disputes: [How are the means of knowledge themselves established?](../debates/establishment-of-pramanas.md)
 
 ### 2.1.31-37 <a id="tea-nyaya-sutra-2-1-31-37"></a>
 `skeleton` · confidence high
@@ -459,7 +459,7 @@ Against the view that perception is really inference, since only a part of a thi
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: world-fate, dispute_
 
-terms: `trm:avayavin`, `trm:paramanu` · concepts: `cpt:avayavin` · disputes: `dsp:whole-and-parts`
+terms: [avayavin](../terms/avayavin.md), [paramāṇu](../terms/paramanu.md) · concepts: [The whole (avayavin) as a real new substance](../concepts/avayavin.md) · disputes: [Is a whole (avayavin) something real over and above its parts?](../debates/whole-and-parts.md)
 
 ### 2.1.38-39 <a id="tea-nyaya-sutra-2-1-38-39"></a>
 `skeleton` · confidence high
@@ -468,7 +468,7 @@ The objection that inference is not a means of knowledge because its marks devia
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: `trm:anumana`, `trm:linga` · disputes: `dsp:validity-of-inference`
+terms: [anumāna](../terms/anumana.md), [liṅga](../terms/linga.md) · disputes: [Is inference a valid means of knowledge?](../debates/validity-of-inference.md)
 
 ### 2.1.53 <a id="tea-nyaya-sutra-2-1-53"></a>
 `skeleton` · confidence high
@@ -479,7 +479,7 @@ Knowledge of things from words comes about through the capacity of the instructi
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: sound-language_
 
-terms: `trm:sabda`, `trm:apta`
+terms: [śabda](../terms/sabda.md), [āpta](../terms/apta.md)
 
 ### 2.1.56-57 <a id="tea-nyaya-sutra-2-1-56-57"></a>
 `skeleton` · confidence high
@@ -488,7 +488,7 @@ The understanding of meaning from words rests on convention (samaya), not on a n
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: sound-language, dispute_
 
-terms: `trm:sabda`, `trm:pada` · concepts: `cpt:word-meaning-nyaya` · disputes: `dsp:eternality-of-sound`
+terms: [śabda](../terms/sabda.md), [pada](../terms/pada.md) · concepts: [Word, meaning and convention](../concepts/word-meaning-nyaya.md) · disputes: [Is sound (the word) eternal?](../debates/eternality-of-sound.md)
 
 ### 2.1.58-59 <a id="tea-nyaya-sutra-2-1-58-59"></a>
 `skeleton` · confidence high
@@ -497,7 +497,7 @@ terms: `trm:sabda`, `trm:pada` · concepts: `cpt:word-meaning-nyaya` · disputes
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, sound-language_
 
-terms: `trm:sabda` · concepts: `cpt:veda-authorship-nyaya` · disputes: `dsp:status-of-veda`
+terms: [śabda](../terms/sabda.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: `dsp:status-of-veda`
 
 ### 2.1.63-66 <a id="tea-nyaya-sutra-2-1-63-66"></a>
 `skeleton` · confidence high
@@ -506,7 +506,7 @@ Vedic statements are employed as injunction (vidhi), explanatory statement (arth
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: sound-language, practice_
 
-terms: `trm:vidhi`, `trm:arthavada`, `trm:anuvada`
+terms: [vidhi](../terms/vidhi.md), [arthavāda](../terms/arthavada.md), [anuvāda](../terms/anuvada.md)
 
 ### 2.1.69 <a id="tea-nyaya-sutra-2-1-69"></a>
 `skeleton` · confidence high
@@ -517,7 +517,7 @@ And its (the Veda's) validity — like the validity of mantras and of Āyurveda 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: sound-language, dispute_
 
-terms: `trm:apta`, `trm:sabda` · concepts: `cpt:veda-authorship-nyaya` · disputes: `dsp:status-of-veda`
+terms: [āpta](../terms/apta.md), [śabda](../terms/sabda.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: `dsp:status-of-veda`
 
 ### 2.2.1-2 <a id="tea-nyaya-sutra-2-2-1-2"></a>
 `skeleton` · confidence high
@@ -526,7 +526,7 @@ terms: `trm:apta`, `trm:sabda` · concepts: `cpt:veda-authorship-nyaya` · dispu
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: `trm:aitihya`, `trm:arthapatti`, `trm:sambhava`, `trm:anupalabdhi`, `trm:abhava` · concepts: `cpt:four-pramanas-nyaya` · disputes: `dsp:number-of-pramanas`
+terms: [aitihya](../terms/aitihya.md), [arthāpatti](../terms/arthapatti.md), [sambhava](../terms/sambhava.md), [anupalabdhi](../terms/anupalabdhi.md), [abhāva](../terms/abhava.md) · concepts: [The four means of knowledge (Nyāya)](../concepts/four-pramanas-nyaya.md) · disputes: `dsp:number-of-pramanas`
 
 ### 2.2.13 <a id="tea-nyaya-sutra-2-2-13"></a>
 `skeleton` · confidence high
@@ -537,7 +537,7 @@ terms: `trm:aitihya`, `trm:arthapatti`, `trm:sambhava`, `trm:anupalabdhi`, `trm:
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: sound-language, dispute_
 
-terms: `trm:sabda` · concepts: `cpt:sound-nyaya-vaisesika` · disputes: `dsp:eternality-of-sound`
+terms: [śabda](../terms/sabda.md) · concepts: [Sound as a non-eternal quality of ākāśa](../concepts/sound-nyaya-vaisesika.md) · disputes: [Is sound (the word) eternal?](../debates/eternality-of-sound.md)
 
 ### 2.2.68 <a id="tea-nyaya-sutra-2-2-68"></a>
 `skeleton` · confidence high
@@ -548,7 +548,7 @@ The meaning of a word is the individual (vyakti), the form (ākṛti) and the un
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: sound-language_
 
-terms: `trm:vyakti`, `trm:akrti`, `trm:jati`, `trm:padartha` · concepts: `cpt:word-meaning-nyaya`
+terms: [vyakti](../terms/vyakti.md), [ākṛti](../terms/akrti.md), [jāti](../terms/jati.md), [padārtha](../terms/padartha.md) · concepts: [Word, meaning and convention](../concepts/word-meaning-nyaya.md)
 
 ### 2.2.69-71 <a id="tea-nyaya-sutra-2-2-69-71"></a>
 `skeleton` · confidence high
@@ -557,7 +557,7 @@ The individual is a concrete thing that is the substrate of particular qualities
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: sound-language, world-fate_
 
-terms: `trm:vyakti`, `trm:akrti`, `trm:jati`, `trm:samanya` · concepts: `cpt:word-meaning-nyaya` · disputes: `dsp:reality-of-universals`
+terms: [vyakti](../terms/vyakti.md), [ākṛti](../terms/akrti.md), [jāti](../terms/jati.md), [sāmānya](../terms/samanya.md) · concepts: [Word, meaning and convention](../concepts/word-meaning-nyaya.md) · disputes: [Are universals (jāti, sāmānya) real?](../debates/reality-of-universals.md)
 
 ### 3.1.1 <a id="tea-nyaya-sutra-3-1-1"></a>
 `skeleton` · confidence high
@@ -568,7 +568,7 @@ terms: `trm:vyakti`, `trm:akrti`, `trm:jati`, `trm:samanya` · concepts: `cpt:wo
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: `trm:atman`, `trm:indriya` · concepts: `cpt:self-nyaya-vaisesika` · disputes: `dsp:is-there-a-self`
+terms: [ātman](../terms/atman.md), [indriya](../terms/indriya.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: `dsp:is-there-a-self`
 
 ### 3.1.4 <a id="tea-nyaya-sutra-3-1-4"></a>
 `skeleton` · confidence high
@@ -579,7 +579,7 @@ terms: `trm:atman`, `trm:indriya` · concepts: `cpt:self-nyaya-vaisesika` · dis
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: ethics, dispute_
 
-terms: `trm:atman`, `trm:sarira` · concepts: `cpt:self-nyaya-vaisesika` · disputes: `dsp:is-there-a-self`
+terms: [ātman](../terms/atman.md), [śarīra](../terms/sarira.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: `dsp:is-there-a-self`
 
 ### 3.1.7 <a id="tea-nyaya-sutra-3-1-7"></a>
 `skeleton` · confidence high
@@ -590,7 +590,7 @@ terms: `trm:atman`, `trm:sarira` · concepts: `cpt:self-nyaya-vaisesika` · disp
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: `trm:atman` · concepts: `cpt:self-nyaya-vaisesika` · disputes: `dsp:is-there-a-self`
+terms: [ātman](../terms/atman.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: `dsp:is-there-a-self`
 
 ### 3.1.13-14 <a id="tea-nyaya-sutra-3-1-13-14"></a>
 `skeleton` · confidence high
@@ -599,7 +599,7 @@ terms: `trm:atman` · concepts: `cpt:self-nyaya-vaisesika` · disputes: `dsp:is-
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: `trm:smrti`, `trm:atman` · disputes: `dsp:is-there-a-self`
+terms: [smṛti](../terms/smrti.md), [ātman](../terms/atman.md) · disputes: `dsp:is-there-a-self`
 
 ### 3.1.18 <a id="tea-nyaya-sutra-3-1-18"></a>
 `skeleton` · confidence high
@@ -610,7 +610,7 @@ terms: `trm:smrti`, `trm:atman` · disputes: `dsp:is-there-a-self`
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: karma-liberation, death-dying_
 
-terms: `trm:atman`, `trm:pretyabhava`, `trm:smrti` · concepts: `cpt:rebirth-proofs-nyaya` · disputes: `dsp:is-there-a-self`
+terms: [ātman](../terms/atman.md), [pretyabhāva](../terms/pretyabhava.md), [smṛti](../terms/smrti.md) · concepts: [Nyāya arguments for previous and future births](../concepts/rebirth-proofs-nyaya.md) · disputes: `dsp:is-there-a-self`
 
 ### 3.1.21 <a id="tea-nyaya-sutra-3-1-21"></a>
 `skeleton` · confidence high
@@ -621,7 +621,7 @@ terms: `trm:atman`, `trm:pretyabhava`, `trm:smrti` · concepts: `cpt:rebirth-pro
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: karma-liberation, death-dying_
 
-terms: `trm:pretyabhava` · concepts: `cpt:rebirth-proofs-nyaya`
+terms: [pretyabhāva](../terms/pretyabhava.md) · concepts: [Nyāya arguments for previous and future births](../concepts/rebirth-proofs-nyaya.md)
 
 ### 3.1.24 <a id="tea-nyaya-sutra-3-1-24"></a>
 `skeleton` · confidence high
@@ -632,7 +632,7 @@ terms: `trm:pretyabhava` · concepts: `cpt:rebirth-proofs-nyaya`
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: karma-liberation_
 
-terms: `trm:raga`, `trm:atman` · concepts: `cpt:rebirth-proofs-nyaya`
+terms: [rāga (avairāgya)](../terms/raga.md), [ātman](../terms/atman.md) · concepts: [Nyāya arguments for previous and future births](../concepts/rebirth-proofs-nyaya.md)
 
 ### 3.1.27-31 <a id="tea-nyaya-sutra-3-1-27-31"></a>
 `skeleton` · confidence moderate
@@ -641,7 +641,7 @@ The body is earthy (pārthiva), since the qualities of earth are apprehended in 
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: body-layers_
 
-terms: `trm:sarira`, `trm:prthivi` · concepts: `cpt:body-nyaya-vaisesika`
+terms: [śarīra](../terms/sarira.md), [pṛthivī](../terms/prthivi.md) · concepts: [The body in Nyāya-Vaiśeṣika](../concepts/body-nyaya-vaisesika.md)
 
 ### 3.2.1-9 <a id="tea-nyaya-sutra-3-2-1-9"></a>
 `skeleton` · confidence moderate
@@ -650,7 +650,7 @@ Whether cognition (buddhi) is eternal is examined: the argument that it is etern
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: `trm:buddhi` · concepts: `cpt:cognition-adventitious`
+terms: [buddhi](../terms/buddhi.md) · concepts: [Cognition as an adventitious quality of the self](../concepts/cognition-adventitious.md)
 
 ### 3.2.10-17 <a id="tea-nyaya-sutra-3-2-10-17"></a>
 `skeleton` · confidence high
@@ -659,7 +659,7 @@ terms: `trm:buddhi` · concepts: `cpt:cognition-adventitious`
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: world-fate, dispute_
 
-concepts: `cpt:self-nyaya-vaisesika` · disputes: `dsp:momentariness`
+concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: [Is everything that exists momentary?](../debates/momentariness.md)
 
 ### 3.2.19 <a id="tea-nyaya-sutra-3-2-19"></a>
 `skeleton` · confidence high
@@ -670,7 +670,7 @@ concepts: `cpt:self-nyaya-vaisesika` · disputes: `dsp:momentariness`
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:manas`, `trm:jnana` · concepts: `cpt:manas-atomic`
+terms: [manas](../terms/manas.md), [jñāna](../terms/jnana.md) · concepts: [The mind (manas) as one and atomic](../concepts/manas-atomic.md)
 
 ### 3.2.34-39 <a id="tea-nyaya-sutra-3-2-34-39"></a>
 `skeleton` · confidence moderate
@@ -679,7 +679,7 @@ Undertaking and desisting belong to the knower, since they are caused by desire 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, karma-liberation_
 
-terms: `trm:iccha`, `trm:dvesa`, `trm:atman`, `trm:akrtabhyagama` · concepts: `cpt:karmic-accountability`
+terms: [icchā](../terms/iccha.md), [dveṣa](../terms/dvesa.md), [ātman](../terms/atman.md), [akṛtābhyāgama](../terms/akrtabhyagama.md) · concepts: [No fruit without deed, no deed without fruit](../concepts/karmic-accountability.md)
 
 ### 3.2.40 <a id="tea-nyaya-sutra-3-2-40"></a>
 `skeleton` · confidence high
@@ -690,7 +690,7 @@ Memory belongs to the self, because the self is by nature a knower.
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:smrti`, `trm:atman` · concepts: `cpt:self-nyaya-vaisesika`
+terms: [smṛti](../terms/smrti.md), [ātman](../terms/atman.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md)
 
 ### 3.2.41 <a id="tea-nyaya-sutra-3-2-41"></a>
 `skeleton` · confidence moderate
@@ -701,7 +701,7 @@ terms: `trm:smrti`, `trm:atman` · concepts: `cpt:self-nyaya-vaisesika`
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:smrti`, `trm:samskara`
+terms: [smṛti](../terms/smrti.md), [saṃskāra](../terms/samskara.md)
 
 ### 3.2.56 <a id="tea-nyaya-sutra-3-2-56"></a>
 `skeleton` · confidence high
@@ -712,7 +712,7 @@ The mind is one (in each body) because cognitions do not occur simultaneously.
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:manas` · concepts: `cpt:manas-atomic`
+terms: [manas](../terms/manas.md) · concepts: [The mind (manas) as one and atomic](../concepts/manas-atomic.md)
 
 ### 3.2.57-58 <a id="tea-nyaya-sutra-3-2-57-58"></a>
 `skeleton` · confidence high
@@ -721,7 +721,7 @@ terms: `trm:manas` · concepts: `cpt:manas-atomic`
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:manas` · concepts: `cpt:manas-atomic`
+terms: [manas](../terms/manas.md) · concepts: [The mind (manas) as one and atomic](../concepts/manas-atomic.md)
 
 ### 3.2.59 <a id="tea-nyaya-sutra-3-2-59"></a>
 `skeleton` · confidence high
@@ -732,7 +732,7 @@ And, for the reasons stated, (the mind is) atomic (aṇu).
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:manas`, `trm:paramanu` · concepts: `cpt:manas-atomic`
+terms: [manas](../terms/manas.md), [paramāṇu](../terms/paramanu.md) · concepts: [The mind (manas) as one and atomic](../concepts/manas-atomic.md)
 
 ### 3.2.60 <a id="tea-nyaya-sutra-3-2-60"></a>
 `skeleton` · confidence high
@@ -743,7 +743,7 @@ Its (the body's) arising is due to the continuing effect of the fruits of previo
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: unmarked · types: karma-liberation, body-layers_
 
-terms: `trm:sarira`, `trm:adrsta`, `trm:phala` · concepts: `cpt:karmic-accountability`
+terms: [śarīra](../terms/sarira.md), [adṛṣṭa](../terms/adrsta.md), [phala](../terms/phala.md) · concepts: [No fruit without deed, no deed without fruit](../concepts/karmic-accountability.md)
 
 ### 3.2.66-72 <a id="tea-nyaya-sutra-3-2-66-72"></a>
 `skeleton` · confidence low
@@ -752,7 +752,7 @@ Karma is the cause both of the body's arising and of its connection (with a part
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: unmarked · types: karma-liberation_
 
-terms: `trm:adrsta`, `trm:akrtabhyagama` · concepts: `cpt:karmic-accountability`
+terms: [adṛṣṭa](../terms/adrsta.md), [akṛtābhyāgama](../terms/akrtabhyagama.md) · concepts: [No fruit without deed, no deed without fruit](../concepts/karmic-accountability.md)
 
 ### 4.1.3 <a id="tea-nyaya-sutra-4-1-3"></a>
 `skeleton` · confidence high
@@ -763,7 +763,7 @@ The faults form three groups — attachment (rāga), aversion (dveṣa) and delu
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: karma-liberation_
 
-terms: `trm:dosa`, `trm:raga`, `trm:dvesa`, `trm:moha` · concepts: `cpt:three-dosas-nyaya` · obstacles: `obs:three-dosas-nyaya`, `obs:raga-nyaya`, `obs:dvesa-nyaya`, `obs:moha-nyaya`
+terms: [doṣa](../terms/dosa.md), [rāga (avairāgya)](../terms/raga.md), [dveṣa](../terms/dvesa.md), [moha](../terms/moha.md) · concepts: [The three groups of faults (doṣa)](../concepts/three-dosas-nyaya.md) · obstacles: [The three groups of faults (rāga, dveṣa, moha)](../obstacles/three-dosas-nyaya.md), [Attachment (rāga)](../obstacles/raga-nyaya.md), [Aversion (dveṣa)](../obstacles/dvesa-nyaya.md), [Delusion (moha)](../obstacles/moha-nyaya.md)
 
 ### 4.1.6 <a id="tea-nyaya-sutra-4-1-6"></a>
 `skeleton` · confidence high
@@ -774,7 +774,7 @@ Of these, delusion is the worst, because the others do not arise in one who is n
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation_
 
-terms: `trm:moha` · concepts: `cpt:three-dosas-nyaya` · obstacles: `obs:moha-nyaya`
+terms: [moha](../terms/moha.md) · concepts: [The three groups of faults (doṣa)](../concepts/three-dosas-nyaya.md) · obstacles: [Delusion (moha)](../obstacles/moha-nyaya.md)
 
 ### 4.1.10 <a id="tea-nyaya-sutra-4-1-10"></a>
 `skeleton` · confidence high
@@ -785,7 +785,7 @@ Since the self is eternal, rebirth is established.
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: unmarked · types: karma-liberation, death-dying_
 
-terms: `trm:pretyabhava`, `trm:atman` · concepts: `cpt:rebirth-proofs-nyaya`
+terms: [pretyabhāva](../terms/pretyabhava.md), [ātman](../terms/atman.md) · concepts: [Nyāya arguments for previous and future births](../concepts/rebirth-proofs-nyaya.md)
 
 ### 4.1.14-18 <a id="tea-nyaya-sutra-4-1-14-18"></a>
 `skeleton` · confidence moderate
@@ -794,7 +794,7 @@ The view that an existent arises from non-existence — because (a sprout) appea
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: world-fate, dispute_
 
-concepts: `cpt:arambhavada` · disputes: `dsp:causation`
+concepts: [New beginning (ārambha): the effect does not pre-exist](../concepts/arambhavada.md) · disputes: `dsp:causation`
 
 ### 4.1.19-21 <a id="tea-nyaya-sutra-4-1-19-21"></a>
 `skeleton` · confidence high
@@ -803,7 +803,7 @@ concepts: `cpt:arambhavada` · disputes: `dsp:causation`
 
 _level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate, karma-liberation, dispute_
 
-terms: `trm:isvara`, `trm:phala` · concepts: `cpt:isvara-nyaya` · disputes: `dsp:isvara`
+terms: [īśvara](../terms/isvara.md), [phala](../terms/phala.md) · concepts: [Īśvara in Nyāya-Vaiśeṣika](../concepts/isvara-nyaya.md) · disputes: `dsp:isvara`
 
 ### 4.1.25-28 <a id="tea-nyaya-sutra-4-1-25-28"></a>
 `skeleton` · confidence moderate
@@ -812,7 +812,7 @@ The view that everything is impermanent, since everything has the nature of aris
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: world-fate, dispute_
 
-disputes: `dsp:momentariness`
+disputes: [Is everything that exists momentary?](../debates/momentariness.md)
 
 ### 4.1.29-33 <a id="tea-nyaya-sutra-4-1-29-33"></a>
 `skeleton` · confidence moderate
@@ -828,7 +828,7 @@ The view that everything is non-existence, since things are established as the m
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: world-fate, dispute_
 
-terms: `trm:abhava` · disputes: `dsp:own-nature-of-things`
+terms: [abhāva](../terms/abhava.md) · disputes: [Are things established by their own nature (svabhāva), or is everything relative and empty?](../debates/own-nature-of-things.md)
 
 ### 4.1.48-50 <a id="tea-nyaya-sutra-4-1-48-50"></a>
 `skeleton` · confidence moderate
@@ -837,7 +837,7 @@ terms: `trm:abhava` · disputes: `dsp:own-nature-of-things`
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: unmarked · types: world-fate, dispute_
 
-terms: `trm:asatkaryavada`, `trm:arambhavada`, `trm:phala` · concepts: `cpt:arambhavada` · disputes: `dsp:causation`
+terms: [asatkāryavāda](../terms/asatkaryavada.md), [ārambhavāda](../terms/arambhavada.md), [phala](../terms/phala.md) · concepts: [New beginning (ārambha): the effect does not pre-exist](../concepts/arambhavada.md) · disputes: `dsp:causation`
 
 ### 4.1.55 <a id="tea-nyaya-sutra-4-1-55"></a>
 `skeleton` · confidence high
@@ -848,7 +848,7 @@ Birth itself is pain, because it is bound up with manifold affliction.
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
 
-terms: `trm:duhkha`, `trm:pretyabhava` · concepts: `cpt:twenty-one-kinds-of-pain`
+terms: [duḥkha](../terms/duhkha.md), [pretyabhāva](../terms/pretyabhava.md) · concepts: [The twenty-one kinds of pain](../concepts/twenty-one-kinds-of-pain.md)
 
 ### 4.1.56-58 <a id="tea-nyaya-sutra-4-1-56-58"></a>
 `skeleton` · confidence moderate
@@ -857,7 +857,7 @@ terms: `trm:duhkha`, `trm:pretyabhava` · concepts: `cpt:twenty-one-kinds-of-pai
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: karma-liberation_
 
-terms: `trm:sukha`, `trm:duhkha` · concepts: `cpt:twenty-one-kinds-of-pain`
+terms: [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md) · concepts: [The twenty-one kinds of pain](../concepts/twenty-one-kinds-of-pain.md)
 
 ### 4.1.59-62 <a id="tea-nyaya-sutra-4-1-59-62"></a>
 `skeleton` · confidence low
@@ -866,7 +866,7 @@ terms: `trm:sukha`, `trm:duhkha` · concepts: `cpt:twenty-one-kinds-of-pain`
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: karma-liberation, ethics, dispute_
 
-terms: `trm:rna`, `trm:apavarga` · concepts: `cpt:debts-and-liberation` · disputes: `dsp:works-knowledge-grace`
+terms: [ṛṇa](../terms/rna.md), [apavarga](../terms/apavarga.md) · concepts: [The debts (ṛṇa) and the possibility of liberation](../concepts/debts-and-liberation.md) · disputes: `dsp:works-knowledge-grace`
 
 ### 4.1.63 <a id="tea-nyaya-sutra-4-1-63"></a>
 `skeleton` · confidence high
@@ -877,7 +877,7 @@ Liberation (is possible), because for one in deep sleep, when there are no dream
 
 _level: unmarked · standpoint: experiential · path: knowledge · stage: unmarked · types: karma-liberation, consciousness-mind_
 
-terms: `trm:apavarga`, `trm:susupti` · concepts: `cpt:apavarga-nyaya`, `cpt:deep-sleep-nyaya-vaisesika`
+terms: [apavarga](../terms/apavarga.md), [suṣupti / suṣupta](../terms/susupti.md) · concepts: [Liberation (apavarga) as the end of pain](../concepts/apavarga-nyaya.md), [Deep sleep in Nyāya-Vaiśeṣika](../concepts/deep-sleep-nyaya-vaisesika.md)
 
 ### 4.1.64 <a id="tea-nyaya-sutra-4-1-64"></a>
 `skeleton` · confidence high
@@ -888,7 +888,7 @@ For one whose afflictions have waned, activity does not lead to re-linking (rebi
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: realized · types: karma-liberation_
 
-terms: `trm:pravrtti`, `trm:pretyabhava` · concepts: `cpt:apavarga-nyaya`
+terms: [pravṛtti](../terms/pravrtti.md), [pretyabhāva](../terms/pretyabhava.md) · concepts: [Liberation (apavarga) as the end of pain](../concepts/apavarga-nyaya.md)
 
 ### 4.1.65-68 <a id="tea-nyaya-sutra-4-1-65-68"></a>
 `skeleton` · confidence moderate
@@ -897,7 +897,7 @@ terms: `trm:pravrtti`, `trm:pretyabhava` · concepts: `cpt:apavarga-nyaya`
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: karma-liberation_
 
-terms: `trm:raga`, `trm:pragabhava`
+terms: [rāga (avairāgya)](../terms/raga.md), [prāgabhāva](../terms/pragabhava.md)
 
 ### 4.2.1 <a id="tea-nyaya-sutra-4-2-1"></a>
 `skeleton` · confidence high
@@ -908,7 +908,7 @@ Through knowledge of the truth about the causes of the faults, the I-notion (aha
 
 _level: unmarked · standpoint: seeker · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: `trm:ahankara`, `trm:tattvajnana` · obstacles: `obs:ahankara-nyaya`
+terms: [ahaṅkāra](../terms/ahankara.md), [tattvajñāna](../terms/tattvajnana.md) · obstacles: [The false I-notion (ahaṅkāra)](../obstacles/ahankara-nyaya.md)
 
 ### 4.2.2 <a id="tea-nyaya-sutra-4-2-2"></a>
 `skeleton` · confidence high
@@ -919,7 +919,7 @@ Objects such as colour, when falsely constructed (saṅkalpakṛta), are the cau
 
 _level: unmarked · standpoint: seeker · path: knowledge · stage: all · types: karma-liberation_
 
-terms: `trm:dosa`, `trm:rupa` · obstacles: `obs:three-dosas-nyaya`
+terms: [doṣa](../terms/dosa.md), [rūpa](../terms/rupa.md) · obstacles: [The three groups of faults (rāga, dveṣa, moha)](../obstacles/three-dosas-nyaya.md)
 
 ### 4.2.3 <a id="tea-nyaya-sutra-4-2-3"></a>
 `skeleton` · confidence high
@@ -930,7 +930,7 @@ But the cause of these is the (false) notion of the whole (avayavy-abhimāna).
 
 _level: unmarked · standpoint: seeker · path: knowledge, meditation · stage: all · types: karma-liberation, practice_
 
-terms: `trm:avayavy-abhimana`, `trm:avayavin` · practices: `prc:asubha-samjna-nyaya` · obstacles: `obs:avayavy-abhimana`
+terms: [avayavy-abhimāna](../terms/avayavy-abhimana.md), [avayavin](../terms/avayavin.md) · practices: [Cultivating the notion of the unlovely (aśubhasaṃjñā)](../practices/asubha-samjna-nyaya.md) · obstacles: [The passion-producing notion of the whole](../obstacles/avayavy-abhimana.md)
 
 ### 4.2.4-17 <a id="tea-nyaya-sutra-4-2-4-17"></a>
 `skeleton` · confidence moderate
@@ -939,7 +939,7 @@ Doubt about the existence of the whole is raised and settled; the objections tha
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: world-fate, dispute_
 
-terms: `trm:avayavin`, `trm:paramanu` · concepts: `cpt:avayavin`, `cpt:atomism-vaisesika` · disputes: `dsp:whole-and-parts`, `dsp:atomism`
+terms: [avayavin](../terms/avayavin.md), [paramāṇu](../terms/paramanu.md) · concepts: [The whole (avayavin) as a real new substance](../concepts/avayavin.md), [Atomism (paramāṇuvāda)](../concepts/atomism-vaisesika.md) · disputes: [Is a whole (avayavin) something real over and above its parts?](../debates/whole-and-parts.md), [Is the material world composed of eternal partless atoms?](../debates/atomism.md)
 
 ### 4.2.16 <a id="tea-nyaya-sutra-4-2-16"></a>
 `skeleton` · confidence high
@@ -950,7 +950,7 @@ There is no dissolution (into nothing), because atoms exist.
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: world-fate_
 
-terms: `trm:paramanu`, `trm:pralaya` · concepts: `cpt:atomism-vaisesika` · disputes: `dsp:atomism`
+terms: [paramāṇu](../terms/paramanu.md), [pralaya](../terms/pralaya.md) · concepts: [Atomism (paramāṇuvāda)](../concepts/atomism-vaisesika.md) · disputes: [Is the material world composed of eternal partless atoms?](../debates/atomism.md)
 
 ### 4.2.17 <a id="tea-nyaya-sutra-4-2-17"></a>
 `skeleton` · confidence high
@@ -961,7 +961,7 @@ Or: (the atom is) beyond the truṭi.
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: world-fate_
 
-terms: `trm:paramanu` · concepts: `cpt:atomism-vaisesika`
+terms: [paramāṇu](../terms/paramanu.md) · concepts: [Atomism (paramāṇuvāda)](../concepts/atomism-vaisesika.md)
 
 ### 4.2.18-25 <a id="tea-nyaya-sutra-4-2-18-25"></a>
 `skeleton` · confidence moderate
@@ -970,7 +970,7 @@ Objections that atoms must have parts — because ākāśa penetrates them, or e
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: world-fate, dispute_
 
-terms: `trm:paramanu`, `trm:akasa` · concepts: `cpt:atomism-vaisesika` · disputes: `dsp:atomism`
+terms: [paramāṇu](../terms/paramanu.md), [ākāśa](../terms/akasa.md) · concepts: [Atomism (paramāṇuvāda)](../concepts/atomism-vaisesika.md) · disputes: [Is the material world composed of eternal partless atoms?](../debates/atomism.md)
 
 ### 4.2.26-30 <a id="tea-nyaya-sutra-4-2-26-30"></a>
 `skeleton` · confidence moderate
@@ -979,7 +979,7 @@ terms: `trm:paramanu`, `trm:akasa` · concepts: `cpt:atomism-vaisesika` · dispu
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: world-fate, dispute_
 
-terms: `trm:avayavin`, `trm:pramana` · disputes: `dsp:whole-and-parts`, `dsp:external-objects`
+terms: [avayavin](../terms/avayavin.md), [pramāṇa](../terms/pramana.md) · disputes: [Is a whole (avayavin) something real over and above its parts?](../debates/whole-and-parts.md), [Are there objects external to cognition?](../debates/external-objects.md)
 
 ### 4.2.31-32 <a id="tea-nyaya-sutra-4-2-31-32"></a>
 `skeleton` · confidence high
@@ -988,7 +988,7 @@ terms: `trm:avayavin`, `trm:pramana` · disputes: `dsp:whole-and-parts`, `dsp:ex
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: world-fate, dispute_
 
-terms: `trm:svapna`, `trm:pramana`, `trm:prameya` · disputes: `dsp:external-objects`
+terms: [svapna](../terms/svapna.md), [pramāṇa](../terms/pramana.md), [prameya](../terms/prameya.md) · disputes: [Are there objects external to cognition?](../debates/external-objects.md)
 
 ### 4.2.33-37 <a id="tea-nyaya-sutra-4-2-33-37"></a>
 `skeleton` · confidence moderate
@@ -997,7 +997,7 @@ terms: `trm:svapna`, `trm:pramana`, `trm:prameya` · disputes: `dsp:external-obj
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: world-fate, dispute_
 
-terms: `trm:mithyajnana`, `trm:tattvajnana`, `trm:svapna` · disputes: `dsp:external-objects`
+terms: [mithyājñāna](../terms/mithyajnana.md), [tattvajñāna](../terms/tattvajnana.md), [svapna](../terms/svapna.md) · disputes: [Are there objects external to cognition?](../debates/external-objects.md)
 
 ### 4.2.38 <a id="tea-nyaya-sutra-4-2-38"></a>
 `skeleton` · confidence high
@@ -1008,7 +1008,7 @@ terms: `trm:mithyajnana`, `trm:tattvajnana`, `trm:svapna` · disputes: `dsp:exte
 
 _level: unmarked · standpoint: seeker · path: meditation · stage: unmarked · types: practice, karma-liberation_
 
-terms: `trm:samadhi`, `trm:tattvajnana` · concepts: `cpt:nyaya-yoga-discipline` · practices: `prc:nyaya-yoga`
+terms: [samādhi](../terms/samadhi.md), [tattvajñāna](../terms/tattvajnana.md) · concepts: [The yogic means to knowledge of truth in Nyāya](../concepts/nyaya-yoga-discipline.md) · practices: [Yoga and the practice of samādhi (Nyāya)](../practices/nyaya-yoga.md)
 
 ### 4.2.39-41 <a id="tea-nyaya-sutra-4-2-39-41"></a>
 `skeleton` · confidence moderate
@@ -1017,7 +1017,7 @@ terms: `trm:samadhi`, `trm:tattvajnana` · concepts: `cpt:nyaya-yoga-discipline`
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: practice, powers-experiences_
 
-terms: `trm:samadhi` · practices: `prc:nyaya-yoga` · obstacles: `obs:samadhi-intrusions`
+terms: [samādhi](../terms/samadhi.md) · practices: [Yoga and the practice of samādhi (Nyāya)](../practices/nyaya-yoga.md) · obstacles: [Intrusion of objects and bodily urges in samādhi](../obstacles/samadhi-intrusions.md)
 
 ### 4.2.42 <a id="tea-nyaya-sutra-4-2-42"></a>
 `skeleton` · confidence high
@@ -1028,7 +1028,7 @@ There is instruction to practise yoga in forests, caves, sandbanks and the like.
 
 _level: unmarked · standpoint: seeker · path: meditation · stage: unmarked · types: practice_
 
-terms: `trm:yoga` · concepts: `cpt:nyaya-yoga-discipline` · practices: `prc:nyaya-yoga`
+terms: [yoga](../terms/yoga.md) · concepts: [The yogic means to knowledge of truth in Nyāya](../concepts/nyaya-yoga-discipline.md) · practices: [Yoga and the practice of samādhi (Nyāya)](../practices/nyaya-yoga.md)
 
 ### 4.2.43-45 <a id="tea-nyaya-sutra-4-2-43-45"></a>
 `skeleton` · confidence moderate
@@ -1037,7 +1037,7 @@ terms: `trm:yoga` · concepts: `cpt:nyaya-yoga-discipline` · practices: `prc:ny
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: karma-liberation_
 
-terms: `trm:apavarga`, `trm:sarira` · concepts: `cpt:apavarga-nyaya`
+terms: [apavarga](../terms/apavarga.md), [śarīra](../terms/sarira.md) · concepts: [Liberation (apavarga) as the end of pain](../concepts/apavarga-nyaya.md)
 
 ### 4.2.46 <a id="tea-nyaya-sutra-4-2-46"></a>
 `skeleton` · confidence high
@@ -1048,7 +1048,7 @@ For that (liberation): purification of the self through restraints (yama) and ob
 
 _level: unmarked · standpoint: seeker · path: meditation, action · stage: all · types: practice, ethics_
 
-terms: `trm:yama`, `trm:niyama`, `trm:yoga`, `trm:adhyatmavidhi` · concepts: `cpt:nyaya-yoga-discipline` · practices: `prc:atmasamskara-yama-niyama`, `prc:nyaya-yoga`
+terms: [yama](../terms/yama.md), [niyama](../terms/niyama.md), [yoga](../terms/yoga.md), [adhyātmavidhi](../terms/adhyatmavidhi.md) · concepts: [The yogic means to knowledge of truth in Nyāya](../concepts/nyaya-yoga-discipline.md) · practices: [Purification of the self by restraints and observances](../practices/atmasamskara-yama-niyama.md), [Yoga and the practice of samādhi (Nyāya)](../practices/nyaya-yoga.md)
 
 ### 4.2.47 <a id="tea-nyaya-sutra-4-2-47"></a>
 `skeleton` · confidence high
@@ -1059,7 +1059,7 @@ terms: `trm:yama`, `trm:niyama`, `trm:yoga`, `trm:adhyatmavidhi` · concepts: `c
 
 _level: unmarked · standpoint: seeker · path: knowledge · stage: all · types: practice, teacher-transmission_
 
-concepts: `cpt:nyaya-yoga-discipline` · practices: `prc:jnanagrahana-abhyasa`, `prc:samvada-with-the-learned`
+concepts: [The yogic means to knowledge of truth in Nyāya](../concepts/nyaya-yoga-discipline.md) · practices: [Repeated study of the science of the self](../practices/jnanagrahana-abhyasa.md), [Discussion with the learned (saṃvāda)](../practices/samvada-with-the-learned.md)
 
 ### 4.2.48 <a id="tea-nyaya-sutra-4-2-48"></a>
 `skeleton` · confidence high
@@ -1070,7 +1070,7 @@ One should undertake it (discussion) with pupils, teachers, fellow-students, and
 
 _level: unmarked · standpoint: ethical-social · path: knowledge · stage: all · types: teacher-transmission, practice_
 
-practices: `prc:samvada-with-the-learned`
+practices: [Discussion with the learned (saṃvāda)](../practices/samvada-with-the-learned.md)
 
 ### 4.2.49 <a id="tea-nyaya-sutra-4-2-49"></a>
 `skeleton` · confidence moderate
@@ -1081,7 +1081,7 @@ Or, when one has need of it for one's purpose, (one may approach them) even with
 
 _level: unmarked · standpoint: ethical-social · path: knowledge · stage: all · types: teacher-transmission_
 
-practices: `prc:samvada-with-the-learned`
+practices: [Discussion with the learned (saṃvāda)](../practices/samvada-with-the-learned.md)
 
 ### 4.2.50 <a id="tea-nyaya-sutra-4-2-50"></a>
 `skeleton` · confidence high
@@ -1092,7 +1092,7 @@ Wrangling and cavilling are for protecting the ascertainment of truth, as a cove
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: teacher-transmission, dispute_
 
-terms: `trm:jalpa`, `trm:vitanda` · concepts: `cpt:three-kinds-of-debate` · practices: `prc:jalpa-vitanda-protective` · disputes: `dsp:debate-without-thesis`
+terms: [jalpa](../terms/jalpa.md), [vitaṇḍā](../terms/vitanda.md) · concepts: [The three kinds of debate (kathā)](../concepts/three-kinds-of-debate.md) · practices: [Wrangling and cavilling to protect truth](../practices/jalpa-vitanda-protective.md) · disputes: [May a debater refute without holding a thesis of his own (vitaṇḍā)?](../debates/debate-without-thesis.md)
 
 ### 4.2.51 <a id="tea-nyaya-sutra-4-2-51"></a>
 `skeleton` · confidence moderate
@@ -1103,7 +1103,7 @@ With these two, one speaks contentiously (in debate with an opponent).
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: teacher-transmission_
 
-practices: `prc:jalpa-vitanda-protective`
+practices: [Wrangling and cavilling to protect truth](../practices/jalpa-vitanda-protective.md)
 
 ### 5.1.1 <a id="tea-nyaya-sutra-5-1-1"></a>
 `skeleton` · confidence high
@@ -1114,7 +1114,7 @@ The futile rejoinders are the twenty-four 'balancings' (sama): of similarity, di
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:jati` · concepts: `cpt:twenty-four-jatis`
+terms: [jāti](../terms/jati.md) · concepts: [The twenty-four futile rejoinders (jāti)](../concepts/twenty-four-jatis.md)
 
 ### 5.2.1 <a id="tea-nyaya-sutra-5-2-1"></a>
 `skeleton` · confidence high
@@ -1125,8 +1125,8 @@ The points of defeat are: abandoning the proposition, shifting the proposition, 
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:nigrahasthana` · concepts: `cpt:twenty-two-nigrahasthanas`
+terms: [nigrahasthāna](../terms/nigrahasthana.md) · concepts: [The twenty-two points of defeat (nigrahasthāna)](../concepts/twenty-two-nigrahasthanas.md)
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._

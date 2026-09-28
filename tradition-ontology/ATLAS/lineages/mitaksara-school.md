@@ -5,7 +5,7 @@
 **Family:** vedic
 **Alternate names:** the Mitākṣarā tradition
 **Parent:** [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](dharmasastra.md)
-**Founders:** `tch:vijnanesvara`
+**Founders:** [Vijñāneśvara](../teachers/vijnanesvara.md)
 **Regions:** most of India outside Bengal (with regional sub-traditions)
 **Status:** absorbed
 
@@ -17,10 +17,10 @@ The interpretive tradition following Vijñāneśvara's Mitākṣarā (late 11th�
 
 
 ## Texts
-`src:mitaksara`, `src:yajnavalkyasmrti`
+[Mitākṣarā of Vijñāneśvara](../texts/mitaksara.md), [Yājñavalkyasmṛti](../texts/yajnavalkyasmrti.md)
 
 ## Teachers
-_none recorded_
+[Vijñāneśvara](../teachers/vijnanesvara.md)
 
 ## Practices
 _none recorded_
@@ -29,9 +29,9 @@ _none recorded_
 _none recorded_
 
 ## Debates
-_none recorded_
+[Does a son own ancestral property from birth or only on the father's death?](../debates/inheritance-by-birth-or-death.md)
 
 _Notes: The later statutory codification of Hindu law is outside the scope of this ontology._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._

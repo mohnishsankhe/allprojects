@@ -13,4 +13,4 @@ The kriyā- and caryā-pāda of the Makuṭa Āgama in its Vīraśaiva recension
   - kind: original; name: Muktabodha digital library e-text M00202 (print 1994)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._

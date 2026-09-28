@@ -19,9 +19,9 @@
 The foremost Vaiṣṇava Purāṇa: Kṛṣṇa as Bhagavān himself; bhakti as the supreme dharma; the ten marks; creation, avatāras and cosmography (worlds, Bhū-maṇḍala, hells); the stories of Dhruva, Prahlāda, Ajāmila, Gajendra, Jaḍa Bharata and Ṛṣabha; Kṛṣṇa's life in Vraja with the rāsa-līlā and the gopīs' love in separation (Book 10); the Uddhava Gītā on yoga, powers and devotion; the Kali age, the dissolutions and Śuka's final non-dual teaching.
 **Editions / translations:** 
   - kind: original; name: Gita Press Śrīmad Bhāgavata (local e-text, raw_etexts bhAgavata-purANam/wiki); licence: public domain text
-**Commentaries on this text:** [Bhāgavata-tātparya-nirṇaya](bhagavata-tatparya-nirnaya.md), [Bhāvārthadīpikā](bhavarthadipika.md), [Padaratnāvalī](padaratnavali.md)
+**Commentaries on this text:** [Bhāgavata-tātparya-nirṇaya](bhagavata-tatparya-nirnaya.md), [Bhāvārthadīpikā](bhavarthadipika.md), [Bṛhad-Vaiṣṇavatoṣaṇī](brhad-vaisnava-tosani.md), [Kramasandarbha](krama-sandarbha.md), [Padaratnāvalī](padaratnavali.md), [Sārārthadarśinī](sarartha-darsini.md), [Subodhinī (Vallabha's commentary on the Bhāgavata Purāṇa)](subodhini-vallabha.md)
 
-## Teachings (77: skeleton 77)
+## Teachings (86: skeleton 86)
 
 ### 1.1.1 <a id="tea-bhagavata-purana-1-1-1"></a>
 `skeleton` · confidence high
@@ -32,7 +32,7 @@ Opening invocation: we meditate on the supreme truth (satyaṃ param) from which
 
 _level: ultimate · standpoint: absolute · path: knowledge, devotion · stage: all · types: ultimate, world-fate_
 
-terms: `trm:brahman` · concepts: `cpt:brahman-paramatman-bhagavan`
+terms: [brahman](../terms/brahman.md) · concepts: [Brahman, Paramātman and Bhagavān](../concepts/brahman-paramatman-bhagavan.md)
 
 ### 1.1.3 <a id="tea-bhagavata-purana-1-1-3"></a>
 `skeleton` · confidence high
@@ -41,7 +41,7 @@ The Bhāgavata is the ripened fruit fallen from the wish-fulfilling tree of the 
 
 _level: conventional · standpoint: devotional · path: devotion, sound · stage: all · types: teacher-transmission, sound-language_
 
-concepts: `cpt:purana-as-fifth-veda` · practices: `prc:purana-sravana` · teachers: [Śuka](../teachers/suka.md)
+concepts: [The Purāṇa as the fifth Veda](../concepts/purana-as-fifth-veda.md) · practices: [Hearing the Purāṇa (kathā-śravaṇa)](../practices/purana-sravana.md) · teachers: [Śuka](../teachers/suka.md)
 
 ### 1.2.6 <a id="tea-bhagavata-purana-1-2-6"></a>
 `skeleton` · confidence high
@@ -52,7 +52,7 @@ The highest dharma for human beings is that from which devotion (bhakti) to Adho
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: practice, karma-liberation_
 
-terms: `trm:bhakti`, `trm:ahaituki-bhakti` · concepts: `cpt:bhakti-supreme-dharma`
+terms: [bhakti](../terms/bhakti.md), [ahaitukī bhakti](../terms/ahaituki-bhakti.md) · concepts: [Devotion as the supreme dharma](../concepts/bhakti-supreme-dharma.md)
 
 ### 1.2.11 <a id="tea-bhagavata-purana-1-2-11"></a>
 `skeleton` · confidence high
@@ -63,7 +63,7 @@ The knowers of reality call the reality that is non-dual knowledge by three name
 
 _level: ultimate · standpoint: absolute · path: knowledge, meditation, devotion · stage: all · types: ultimate_
 
-terms: `trm:brahman`, `trm:paramatman`, `trm:bhagavat` · concepts: `cpt:brahman-paramatman-bhagavan` · disputes: `dsp:bhagavata-purport-knowledge-or-devotion`
+terms: [brahman](../terms/brahman.md), [paramātman](../terms/paramatman.md), [bhagavat](../terms/bhagavat.md) · concepts: [Brahman, Paramātman and Bhagavān](../concepts/brahman-paramatman-bhagavan.md) · disputes: [Is the Bhāgavata's final purport non-dual knowledge or devotion?](../debates/bhagavata-purport-knowledge-or-devotion.md)
 
 ### 1.2.16-21 <a id="tea-bhagavata-purana-1-2-16-21"></a>
 `skeleton` · confidence high
@@ -72,7 +72,7 @@ A sequence: from serving great souls and holy places arises a taste for hearing 
 
 _level: conventional · standpoint: seeker · path: devotion, knowledge · stage: all (from service and hearing to seeing the Lord as the self) · types: practice, karma-liberation_
 
-terms: `trm:sravana`, `trm:bhakti` · practices: `prc:purana-sravana`
+terms: [śravaṇa](../terms/sravana.md), [bhakti](../terms/bhakti.md) · practices: [Hearing the Purāṇa (kathā-śravaṇa)](../practices/purana-sravana.md)
 
 ### 1.3.1-5 <a id="tea-bhagavata-purana-1-3-1-5"></a>
 `skeleton` · confidence high
@@ -81,7 +81,7 @@ In the beginning, wishing to create the worlds, the Lord took the form of the Pu
 
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate_
 
-terms: `trm:purusa`, `trm:yoganidra` · concepts: `cpt:avatara-doctrine`, `cpt:sarga-and-visarga`
+terms: [puruṣa](../terms/purusa.md), [yoganidrā](../terms/yoganidra.md) · concepts: [The doctrine of avatāra](../concepts/avatara-doctrine.md), [Primary and secondary creation](../concepts/sarga-and-visarga.md)
 
 ### 1.3.6-25 <a id="tea-bhagavata-purana-1-3-6-25"></a>
 `skeleton` · confidence high
@@ -90,7 +90,7 @@ The avatāras enumerated by ordinal: (1) the Kumāras, (2) the Boar, (3) Nārada
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: world-fate_
 
-terms: `trm:avatara` · concepts: `cpt:avatara-lists`, `cpt:avatara-doctrine` · teachers: [Nārada](../teachers/narada.md), [Kapila](../teachers/kapila.md), [Dattātreya](../teachers/dattatreya.md), [Ṛṣabha](../teachers/rsabha.md), [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md) · disputes: `dsp:buddha-avatara-purpose`
+terms: [avatāra](../terms/avatara.md) · concepts: [The lists of avatāras](../concepts/avatara-lists.md), [The doctrine of avatāra](../concepts/avatara-doctrine.md) · teachers: [Nārada](../teachers/narada.md), [Kapila](../teachers/kapila.md), [Dattātreya](../teachers/dattatreya.md), [Ṛṣabha](../teachers/rsabha.md), [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md) · disputes: [Why did Viṣṇu appear as the Buddha (and how are the Buddhist and Jain teachings to be regarded)?](../debates/buddha-avatara-purpose.md)
 
 ### 1.3.26 <a id="tea-bhagavata-purana-1-3-26"></a>
 `skeleton` · confidence high
@@ -101,7 +101,7 @@ The avatāras of Hari, the treasure of sattva, are innumerable, like thousands o
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: world-fate, ultimate_
 
-terms: `trm:avatara` · concepts: `cpt:avatara-doctrine`
+terms: [avatāra](../terms/avatara.md) · concepts: [The doctrine of avatāra](../concepts/avatara-doctrine.md)
 
 ### 1.3.28 <a id="tea-bhagavata-purana-1-3-28"></a>
 `skeleton` · confidence high
@@ -112,7 +112,7 @@ All these are portions (aṃśa) and parts (kalā) of the Puruṣa, but Kṛṣ�
 
 _level: ultimate · standpoint: divine · path: devotion · stage: all · types: ultimate, world-fate_
 
-terms: `trm:avatara`, `trm:bhagavat` · concepts: `cpt:avatara-doctrine`, `cpt:brahman-paramatman-bhagavan`
+terms: [avatāra](../terms/avatara.md), [bhagavat](../terms/bhagavat.md) · concepts: [The doctrine of avatāra](../concepts/avatara-doctrine.md), [Brahman, Paramātman and Bhagavān](../concepts/brahman-paramatman-bhagavan.md)
 
 ### 1.3.30-33 <a id="tea-bhagavata-purana-1-3-30-33"></a>
 `skeleton` · confidence high
@@ -121,7 +121,16 @@ This form of the Lord, who is formless and pure consciousness, is composed of th
 
 _level: bridging · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate, consciousness-mind_
 
-terms: `trm:maya`, `trm:brahman` · disputes: `dsp:bhagavata-purport-knowledge-or-devotion`
+terms: [māyā](../terms/maya.md), [brahman](../terms/brahman.md) · disputes: [Is the Bhāgavata's final purport non-dual knowledge or devotion?](../debates/bhagavata-purport-knowledge-or-devotion.md)
+
+### 1.4.19-23 <a id="tea-bhagavata-purana-1-4-19-23"></a>
+`skeleton` · confidence high
+
+Seeing the decline of beings in each age, Vyāsa, for the continuity of the sacrifice performed by the four priests, divided the one Veda into four — Ṛg, Yajus, Sāma and Atharva — with Itihāsa-Purāṇa called the fifth Veda; Paila held the Ṛgveda, Jaimini sang the Sāman, Vaiśampāyana alone mastered the Yajus, Sumantu the Atharvāṅgirasas, Romaharṣaṇa the Itihāsa-Purāṇas; they in turn divided their Vedas through pupils and pupils' pupils, and the Vedas became branched (śākhin).
+
+_level: conventional · standpoint: cosmic · path: general · stage: all · types: teacher-transmission_
+
+terms: [śākhā](../terms/sakha.md), [trayī](../terms/trayi.md) · concepts: [Transmission of the Veda: teacher, śākhā and oral recitation](../concepts/vedic-transmission-sakha.md), [The three Vedas (trayī) and the fourth](../concepts/four-vedas-and-trayi.md) · teachers: [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md), [Paila](../teachers/paila.md), [Jaimini](../teachers/jaimini.md), [Vaiśampāyana](../teachers/vaisampayana.md), [Sumantu](../teachers/sumantu.md)
 
 ### 1.4.20 <a id="tea-bhagavata-purana-1-4-20"></a>
 `skeleton` · confidence high
@@ -132,16 +141,25 @@ The four Vedas - Ṛg, Yajus, Sāman and Atharvan - were separated out, and itih
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: teacher-transmission, sound-language_
 
-terms: `trm:purana`, `trm:itihasa` · concepts: `cpt:purana-as-fifth-veda` · disputes: `dsp:authority-of-the-puranas`
+terms: [purāṇa](../terms/purana.md), [itihāsa](../terms/itihasa.md) · concepts: [The Purāṇa as the fifth Veda](../concepts/purana-as-fifth-veda.md) · disputes: [What authority do the Purāṇas have beside the Veda?](../debates/authority-of-the-puranas.md)
 
 ### 1.4.25 <a id="tea-bhagavata-purana-1-4-25"></a>
 `skeleton` · confidence high
 
-Since the triple Veda does not reach the hearing of women, śūdras and unworthy twice-born, and they are confused about their good in ritual action, the sage (Vyāsa) out of compassion composed the Bhārata narrative so that good might come to them too.
+The triple Veda is not within hearing of women, śūdras and inferior twice-born (dvijabandhu); for the good of those deluded about right action, the sage in compassion composed the story of the Bhārata.
 
-_level: conventional · standpoint: ethical-social · path: general · stage: all · types: teacher-transmission, ethics_
+> strīśūdradvijabandhūnāṃ trayī na śrutigocarā
 
-concepts: `cpt:purana-as-fifth-veda` · teachers: [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md) · disputes: `dsp:authority-of-the-puranas`, `dsp:women-caste-liberation`
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: teacher-transmission, dispute, ethics_
+
+terms: [trayī](../terms/trayi.md) · concepts: [The Purāṇa as the fifth Veda](../concepts/purana-as-fifth-veda.md) · teachers: [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md) · disputes: [Who may learn and recite the Veda?](../debates/who-may-learn-the-veda.md), [What authority do the Purāṇas have beside the Veda?](../debates/authority-of-the-puranas.md), `dsp:women-caste-liberation`
+
+### 1.7.10 <a id="tea-bhagavata-purana-1-7-10"></a>
+`skeleton` · confidence moderate
+
+Even sages who delight in the self, freed from all knots, render causeless devotion to Hari (Urukrama) — such are his qualities.
+
+_level: bridging · standpoint: devotional · path: devotion, knowledge · stage: realized · types: karma-liberation_
 
 ### 1.13.10 <a id="tea-bhagavata-purana-1-13-10"></a>
 `skeleton` · confidence high
@@ -152,7 +170,7 @@ Devotees like you (Vidura) are themselves holy places: by the Lord dwelling with
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: practice_
 
-terms: `trm:tirtha`, `trm:jangama-tirtha`, `trm:bhagavata` · concepts: `cpt:tirtha-and-inner-tirtha` · practices: `prc:tirthayatra`
+terms: [tīrtha](../terms/tirtha.md), [jaṅgama-tīrtha](../terms/jangama-tirtha.md), [bhāgavata](../terms/bhagavata.md) · concepts: [Pilgrimage places and their inner meaning](../concepts/tirtha-and-inner-tirtha.md) · practices: [Pilgrimage to tīrthas](../practices/tirthayatra.md)
 
 ### 1.17.38-39 <a id="tea-bhagavata-purana-1-17-38-39"></a>
 `skeleton` · confidence moderate
@@ -161,7 +179,7 @@ Parīkṣit, subduing Kali, allowed him to dwell only where gambling, drinking, 
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics, world-fate_
 
-concepts: `cpt:kali-yuga-dharma` · obstacles: `obs:kali-five-places` · teachers: [Parīkṣit](../teachers/pariksit.md)
+concepts: [The dharma of the Kali age](../concepts/kali-yuga-dharma.md) · obstacles: [The five dwellings of Kali](../obstacles/kali-five-places.md) · teachers: [Parīkṣit](../teachers/pariksit.md)
 
 ### 1.19 <a id="tea-bhagavata-purana-1-19"></a>
 `skeleton` · confidence moderate
@@ -170,7 +188,7 @@ Hearing of the curse that he would die in seven days, King Parīkṣit renounced
 
 _level: conventional · standpoint: seeker · path: devotion, general · stage: advanced · types: death-dying, practice_
 
-practices: `prc:prayopavesa` · teachers: [Parīkṣit](../teachers/pariksit.md), [Śuka](../teachers/suka.md)
+practices: [Fasting unto death (prāyopaveśa)](../practices/prayopavesa.md) · teachers: [Parīkṣit](../teachers/pariksit.md), [Śuka](../teachers/suka.md)
 
 ### 2.1.6 <a id="tea-bhagavata-purana-2-1-6"></a>
 `skeleton` · confidence high
@@ -181,7 +199,7 @@ The highest gain of human birth, whether by Sāṃkhya, yoga or the firm keeping
 
 _level: conventional · standpoint: seeker · path: knowledge, meditation, action, devotion · stage: all · types: death-dying, practice_
 
-concepts: `cpt:last-thought` · practices: `prc:anta-smarana`
+concepts: [The last thought and resolve at death](../concepts/last-thought.md) · practices: [Remembering the Lord at death](../practices/anta-smarana.md)
 
 ### 2.1.11 <a id="tea-bhagavata-purana-2-1-11"></a>
 `skeleton` · confidence high
@@ -190,7 +208,7 @@ For those who have become dispassionate, for those who desire (the goods of this
 
 _level: conventional · standpoint: seeker · path: sound, devotion · stage: all · types: practice, sound-language_
 
-terms: `trm:nama`, `trm:kirtana` · concepts: `cpt:power-of-the-name` · practices: `prc:kirtana`
+terms: [nāma](../terms/nama.md), [kīrtana](../terms/kirtana.md) · concepts: [The power of the divine name](../concepts/power-of-the-name.md) · practices: [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md)
 
 ### 2.2.8-14 <a id="tea-bhagavata-purana-2-2-8-14"></a>
 `skeleton` · confidence high
@@ -199,7 +217,7 @@ Some hold in dhāraṇā the Person of the size of a span dwelling in the space 
 
 _level: conventional · standpoint: seeker · path: meditation, devotion · stage: intermediate · types: practice_
 
-terms: `trm:dharana` · concepts: `cpt:puranic-astanga-yoga` · practices: `prc:rupa-dhyana`
+terms: [dhāraṇā](../terms/dharana.md) · concepts: [Purāṇic eightfold yoga](../concepts/puranic-astanga-yoga.md) · practices: [Meditation on the deity's form](../practices/rupa-dhyana.md)
 
 ### 2.2.15-21 <a id="tea-bhagavata-purana-2-2-15-21"></a>
 `skeleton` · confidence high
@@ -208,7 +226,7 @@ When the yati wishes to leave this world, seated steadily, he withdraws the mind
 
 _level: conventional · standpoint: seeker · path: meditation, body-breath · stage: advanced · types: death-dying, practice, body-layers_
 
-terms: `trm:utkranti`, `trm:brahmarandhra` · concepts: `cpt:yogic-departure-and-krama-mukti` · practices: `prc:utkranti-yoga`
+terms: [utkrānti](../terms/utkranti.md), [brahmarandhra](../terms/brahmarandhra.md) · concepts: [Departure through the crown and the path to brahman](../concepts/yogic-departure-and-krama-mukti.md) · practices: [Yogic departure at death](../practices/utkranti-yoga.md)
 
 ### 2.2.22-31 <a id="tea-bhagavata-purana-2-2-22-31"></a>
 `skeleton` · confidence high
@@ -217,7 +235,7 @@ If the yogin wishes to go to Brahmā's world or to enjoy the powers of the sky-f
 
 _level: conventional · standpoint: cosmic · path: meditation, devotion · stage: advanced · types: death-dying, karma-liberation, world-fate_
 
-terms: `trm:krama-mukti`, `trm:sadyo-mukti`, `trm:susumna`, `trm:satyaloka` · concepts: `cpt:yogic-departure-and-krama-mukti`, `cpt:fourteen-worlds`
+terms: [krama-mukti](../terms/krama-mukti.md), [sadyo-mukti](../terms/sadyo-mukti.md), [suṣumṇā](../terms/susumna.md), [satyaloka](../terms/satyaloka.md) · concepts: [Departure through the crown and the path to brahman](../concepts/yogic-departure-and-krama-mukti.md), [The fourteen worlds (caturdaśa bhuvana)](../concepts/fourteen-worlds.md)
 
 ### 2.2.33-36 <a id="tea-bhagavata-purana-2-2-33-36"></a>
 `skeleton` · confidence high
@@ -226,7 +244,7 @@ There is no auspicious path for those wandering in saṃsāra other than that fr
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: practice_
 
-terms: `trm:sravana`, `trm:kirtana`, `trm:smarana` · practices: `prc:navadha-bhakti`, `prc:kirtana`
+terms: [śravaṇa](../terms/sravana.md), [kīrtana](../terms/kirtana.md), [smaraṇa](../terms/smarana.md) · practices: [The nine forms of devotion (navadhā bhakti)](../practices/navadha-bhakti.md), [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md)
 
 ### 2.9.32-35 <a id="tea-bhagavata-purana-2-9-32-35"></a>
 `skeleton` · confidence high
@@ -237,7 +255,7 @@ The Lord's four verses to Brahmā: I alone was before (creation), nothing else, 
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate_
 
-terms: `trm:catuhsloki`, `trm:maya` · concepts: `cpt:brahman-paramatman-bhagavan` · disputes: `dsp:bhagavata-purport-knowledge-or-devotion`
+terms: [catuḥślokī](../terms/catuhsloki.md), [māyā](../terms/maya.md) · concepts: [Brahman, Paramātman and Bhagavān](../concepts/brahman-paramatman-bhagavan.md) · disputes: [Is the Bhāgavata's final purport non-dual knowledge or devotion?](../debates/bhagavata-purport-knowledge-or-devotion.md)
 
 ### 2.10.1-2 <a id="tea-bhagavata-purana-2-10-1-2"></a>
 `skeleton` · confidence high
@@ -248,7 +266,16 @@ The Bhāgavata has ten topics: creation (sarga), secondary creation (visarga), m
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: world-fate, ultimate_
 
-terms: `trm:dasalaksana`, `trm:sarga`, `trm:visarga` · concepts: `cpt:bhagavata-ten-marks`
+terms: [daśalakṣaṇa](../terms/dasalaksana.md), [sarga](../terms/sarga.md), [visarga](../terms/visarga.md) · concepts: [The Bhāgavata's ten marks (daśalakṣaṇa)](../concepts/bhagavata-ten-marks.md)
+
+### 2.10.4 <a id="tea-bhagavata-purana-2-10-4"></a>
+`skeleton` · confidence moderate
+
+Among the Purāṇa's ten topics, maintenance (sthiti) is the victory of Vaikuṇṭha, and nourishment (poṣaṇa) is his grace (anugraha).
+
+_level: conventional · standpoint: divine · path: devotion · stage: all · types: ultimate, karma-liberation_
+
+terms: [puṣṭi](../terms/pusti.md), [anugraha](../terms/anugraha.md) · concepts: [The path of grace (puṣṭi) and the path of rule (maryādā)](../concepts/pusti-and-maryada.md)
 
 ### 3.11 <a id="tea-bhagavata-purana-3-11"></a>
 `skeleton` · confidence moderate
@@ -257,7 +284,7 @@ Maitreya measures time from the atom (paramāṇu) upward through the day and ni
 
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate_
 
-terms: `trm:yuga`, `trm:mahayuga`, `trm:kalpa`, `trm:parardha`, `trm:manvantara`, `trm:divya-varsa` · concepts: `cpt:four-yugas`, `cpt:kalpa-and-brahma-lifetime`
+terms: [yuga](../terms/yuga.md), [mahāyuga](../terms/mahayuga.md), [kalpa](../terms/kalpa.md), [parārdha](../terms/parardha.md), [manvantara](../terms/manvantara.md), [divya-varṣa](../terms/divya-varsa.md) · concepts: [The four ages (yuga)](../concepts/four-yugas.md), [Kalpa, the day of Brahmā and his lifetime](../concepts/kalpa-and-brahma-lifetime.md)
 
 ### 3.28.1-11 <a id="tea-bhagavata-purana-3-28-1-11"></a>
 `skeleton` · confidence high
@@ -266,7 +293,7 @@ Kapila teaches the marks of yoga with a support (sabīja) by which the mind beco
 
 _level: conventional · standpoint: seeker · path: meditation, body-breath, action · stage: intermediate · types: practice, ethics_
 
-terms: `trm:yama`, `trm:niyama`, `trm:pranayama`, `trm:pratyahara`, `trm:dharana`, `trm:dhyana` · concepts: `cpt:puranic-astanga-yoga` · teachers: [Kapila](../teachers/kapila.md), [Devahūti](../teachers/devahuti.md)
+terms: [yama](../terms/yama.md), [niyama](../terms/niyama.md), [prāṇāyāma](../terms/pranayama.md), [pratyāhāra](../terms/pratyahara.md), [dhāraṇā](../terms/dharana.md), [dhyāna (nididhyāsana)](../terms/dhyana.md) · concepts: [Purāṇic eightfold yoga](../concepts/puranic-astanga-yoga.md) · teachers: [Kapila](../teachers/kapila.md), [Devahūti](../teachers/devahuti.md)
 
 ### 3.28.12-33 <a id="tea-bhagavata-purana-3-28-12-33"></a>
 `skeleton` · confidence high
@@ -275,7 +302,7 @@ With the mind purified he should meditate, gazing at the tip of the nose, on the
 
 _level: conventional · standpoint: seeker · path: meditation, devotion · stage: intermediate · types: practice_
 
-practices: `prc:rupa-dhyana`
+practices: [Meditation on the deity's form](../practices/rupa-dhyana.md)
 
 ### 3.28.34-38 <a id="tea-bhagavata-purana-3-28-34-38"></a>
 `skeleton` · confidence high
@@ -284,7 +311,7 @@ Having gained love for Hari, melting, thrilled and choked with tears, the yogin 
 
 _level: bridging · standpoint: experiential · path: meditation, devotion · stage: realized · types: practice, karma-liberation, consciousness-mind_
 
-terms: `trm:nirvana`, `trm:prarabdha` · concepts: `cpt:jivanmukti-puranic`
+terms: [nirvāṇa](../terms/nirvana.md), [prārabdha](../terms/prarabdha.md) · concepts: [Liberation while living (Purāṇic descriptions)](../concepts/jivanmukti-puranic.md)
 
 ### 3.29.7-12 <a id="tea-bhagavata-purana-3-29-7-12"></a>
 `skeleton` · confidence high
@@ -293,7 +320,7 @@ Devotion takes forms according to the guṇas: devotion with violence, pride, en
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all (tāmasa, rājasa, sāttvika and nirguṇa bhakti) · types: practice, consciousness-mind_
 
-terms: `trm:nirguna-bhakti`, `trm:ahaituki-bhakti`, `trm:guna` · concepts: `cpt:bhakti-by-gunas`
+terms: [nirguṇa bhakti](../terms/nirguna-bhakti.md), [ahaitukī bhakti](../terms/ahaituki-bhakti.md), [guṇa](../terms/guna.md) · concepts: [Devotion graded by the guṇas](../concepts/bhakti-by-gunas.md)
 
 ### 3.29.13 <a id="tea-bhagavata-purana-3-29-13"></a>
 `skeleton` · confidence high
@@ -304,7 +331,7 @@ Such devotees do not accept the forms of liberation - living in the Lord's world
 
 _level: conventional · standpoint: devotional · path: devotion · stage: advanced · types: karma-liberation_
 
-terms: `trm:salokya`, `trm:sarsti`, `trm:samipya`, `trm:sarupya`, `trm:sayujya` · concepts: `cpt:five-liberations` · disputes: `dsp:bhagavata-purport-knowledge-or-devotion`
+terms: [sālokya](../terms/salokya.md), [sārṣṭi](../terms/sarsti.md), [sāmīpya](../terms/samipya.md), [sārūpya](../terms/sarupya.md), [sāyujya ('yoga')](../terms/sayujya.md) · concepts: [The five liberations and their refusal](../concepts/five-liberations.md) · disputes: [Is the Bhāgavata's final purport non-dual knowledge or devotion?](../debates/bhagavata-purport-knowledge-or-devotion.md)
 
 ### 3.30.19-24 <a id="tea-bhagavata-purana-3-30-19-24"></a>
 `skeleton` · confidence high
@@ -313,7 +340,7 @@ At death the man attached to family, amid weeping relatives, loses speech and se
 
 _level: conventional · standpoint: causal · path: general · stage: all · types: death-dying, karma-liberation_
 
-terms: `trm:yamaduta`, `trm:yatana-deha` · concepts: `cpt:yama-marga`, `cpt:dying-process`
+terms: [yamadūta](../terms/yamaduta.md), [yātanā-deha](../terms/yatana-deha.md) · concepts: [The road of Yama](../concepts/yama-marga.md), [The process of dying](../concepts/dying-process.md)
 
 ### 5.5.1 <a id="tea-bhagavata-purana-5-5-1"></a>
 `skeleton` · confidence high
@@ -322,7 +349,7 @@ terms: `trm:yamaduta`, `trm:yatana-deha` · concepts: `cpt:yama-marga`, `cpt:dyi
 
 _level: conventional · standpoint: seeker · path: action, meditation · stage: all · types: ethics, karma-liberation_
 
-terms: `trm:tapas` · teachers: [Ṛṣabha](../teachers/rsabha.md)
+terms: [tapas](../terms/tapas.md) · teachers: [Ṛṣabha](../teachers/rsabha.md)
 
 ### 5.6.9 <a id="tea-bhagavata-purana-5-6-9"></a>
 `skeleton` · confidence high
@@ -331,7 +358,7 @@ Hearing of Ṛṣabha's (naked, avadhūta) conduct, a king named Arhat of Koṅk
 
 _level: conventional · standpoint: polemical · path: general · stage: unmarked · types: dispute, world-fate_
 
-concepts: `cpt:mayamoha` · teachers: [Ṛṣabha](../teachers/rsabha.md)
+concepts: [Māyāmoha: the Purāṇic account of Buddhist and Jain teaching](../concepts/mayamoha.md) · teachers: [Ṛṣabha](../teachers/rsabha.md)
 
 ### 5.8.26-27 <a id="tea-bhagavata-purana-5-8-26-27"></a>
 `skeleton` · confidence high
@@ -340,7 +367,7 @@ Bharata, who had renounced his kingdom for the forest, grew attached to an orpha
 
 _level: conventional · standpoint: causal · path: general · stage: all · types: death-dying, karma-liberation_
 
-concepts: `cpt:last-thought` · obstacles: `obs:sanga-attachment` · teachers: [Jaḍa Bharata](../teachers/jada-bharata.md)
+concepts: [The last thought and resolve at death](../concepts/last-thought.md) · obstacles: [Attachment (saṅga)](../obstacles/sanga-attachment.md) · teachers: [Jaḍa Bharata](../teachers/jada-bharata.md)
 
 ### 5.24.7 <a id="tea-bhagavata-purana-5-24-7"></a>
 `skeleton` · confidence high
@@ -349,7 +376,7 @@ Below the earth are seven cavities (bila-svarga), each ten thousand yojanas apar
 
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate_
 
-terms: `trm:patala` · concepts: `cpt:seven-patalas`, `cpt:fourteen-worlds`
+terms: [pātāla](../terms/patala.md) · concepts: [The seven netherworlds](../concepts/seven-patalas.md), [The fourteen worlds (caturdaśa bhuvana)](../concepts/fourteen-worlds.md)
 
 ### 5.26.5-7 <a id="tea-bhagavata-purana-5-26-5-7"></a>
 `skeleton` · confidence high
@@ -358,7 +385,7 @@ The hells lie within the three worlds, in the south, below the earth and above t
 
 _level: conventional · standpoint: causal · path: general · stage: all · types: world-fate, karma-liberation, death-dying_
 
-terms: `trm:naraka`, `trm:yama`, `trm:vaitarani` · concepts: `cpt:narakas`, `cpt:yama-and-his-realm`
+terms: [naraka](../terms/naraka.md), [Yamarāja](../terms/yamaraja.md), [vaitaraṇī](../terms/vaitarani.md) · concepts: [The hells (naraka)](../concepts/narakas.md), [Yama and his realm](../concepts/yama-and-his-realm.md)
 
 ### 6.1-2 <a id="tea-bhagavata-purana-6-1-2"></a>
 `skeleton` · confidence high
@@ -367,7 +394,7 @@ Ajāmila, a brahmin fallen into vice, at death called out for his youngest son, 
 
 _level: conventional · standpoint: devotional · path: sound, devotion · stage: all · types: death-dying, sound-language, karma-liberation_
 
-terms: `trm:nama`, `trm:yamaduta`, `trm:visnuduta`, `trm:prayascitta` · concepts: `cpt:power-of-the-name`, `cpt:last-thought` · practices: `prc:kirtana`, `prc:anta-smarana`
+terms: [nāma](../terms/nama.md), [yamadūta](../terms/yamaduta.md), [viṣṇudūta](../terms/visnuduta.md), [prāyaścitta](../terms/prayascitta.md) · concepts: [The power of the divine name](../concepts/power-of-the-name.md), [The last thought and resolve at death](../concepts/last-thought.md) · practices: [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md), [Remembering the Lord at death](../practices/anta-smarana.md)
 
 ### 6.2.9-10 <a id="tea-bhagavata-purana-6-2-9-10"></a>
 `skeleton` · confidence high
@@ -376,7 +403,7 @@ For all sinners - the thief, the drinker, the betrayer of friends, the killer of
 
 _level: conventional · standpoint: devotional · path: sound · stage: all · types: karma-liberation, sound-language_
 
-terms: `trm:nama`, `trm:prayascitta` · concepts: `cpt:power-of-the-name` · obstacles: `obs:mahapataka`
+terms: [nāma](../terms/nama.md), [prāyaścitta](../terms/prayascitta.md) · concepts: [The power of the divine name](../concepts/power-of-the-name.md) · obstacles: [The five great sins (mahāpātaka)](../obstacles/mahapataka.md)
 
 ### 6.2.14 <a id="tea-bhagavata-purana-6-2-14"></a>
 `skeleton` · confidence high
@@ -387,7 +414,7 @@ The utterance of Vaikuṇṭha's name, even as a reference to something else, in
 
 _level: conventional · standpoint: devotional · path: sound · stage: all · types: karma-liberation, sound-language_
 
-terms: `trm:nama` · concepts: `cpt:power-of-the-name`
+terms: [nāma](../terms/nama.md) · concepts: [The power of the divine name](../concepts/power-of-the-name.md)
 
 ### 6.3.19-22 <a id="tea-bhagavata-purana-6-3-19-22"></a>
 `skeleton` · confidence high
@@ -396,7 +423,7 @@ Yama to his servants: dharma is laid down by the Lord himself; neither sages nor
 
 _level: conventional · standpoint: divine · path: devotion, sound · stage: all · types: ethics, teacher-transmission_
 
-terms: `trm:mahajana`, `trm:bhakti`, `trm:nama` · concepts: `cpt:bhakti-supreme-dharma`, `cpt:power-of-the-name` · teachers: [Nārada](../teachers/narada.md), [Sanatkumāra](../teachers/sanatkumara.md), [Kapila](../teachers/kapila.md), [Prahlāda](../teachers/prahlada.md), [Śuka](../teachers/suka.md)
+terms: [mahājana](../terms/mahajana.md), [bhakti](../terms/bhakti.md), [nāma](../terms/nama.md) · concepts: [Devotion as the supreme dharma](../concepts/bhakti-supreme-dharma.md), [The power of the divine name](../concepts/power-of-the-name.md) · teachers: [Nārada](../teachers/narada.md), [Sanatkumāra](../teachers/sanatkumara.md), [Kapila](../teachers/kapila.md), [Prahlāda](../teachers/prahlada.md), [Śuka](../teachers/suka.md)
 
 ### 6.3.26-27 <a id="tea-bhagavata-purana-6-3-26-27"></a>
 `skeleton` · confidence high
@@ -405,7 +432,7 @@ Yama: those devotees whose sacred stories gods and siddhas sing, who are equal-s
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: death-dying, karma-liberation_
 
-terms: `trm:yama`, `trm:yamaduta` · concepts: `cpt:yama-and-his-realm`
+terms: [Yamarāja](../terms/yamaraja.md), [yamadūta](../terms/yamaduta.md) · concepts: [Yama and his realm](../concepts/yama-and-his-realm.md)
 
 ### 7.1.30 <a id="tea-bhagavata-purana-7-1-30"></a>
 `skeleton` · confidence high
@@ -416,7 +443,7 @@ The gopīs (reached the Lord) through desire, Kaṃsa through fear, Śiśupāla 
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: `trm:tanmayata` · concepts: `cpt:emotion-fixed-on-god`
+terms: [tanmayatā](../terms/tanmayata.md) · concepts: [Absorption through any emotion fixed on the Lord](../concepts/emotion-fixed-on-god.md)
 
 ### 7.4.39-41 <a id="tea-bhagavata-purana-7-4-39-41"></a>
 `skeleton` · confidence moderate
@@ -436,7 +463,7 @@ Prahlāda to his father: hearing (śravaṇa), singing (kīrtana) and rememberin
 
 _level: conventional · standpoint: devotional · path: devotion, sound · stage: all (navadhā bhakti) · types: practice_
 
-terms: `trm:navadha-bhakti`, `trm:sravana`, `trm:kirtana`, `trm:smarana`, `trm:padasevana`, `trm:arcana`, `trm:vandana`, `trm:dasya`, `trm:sakhya`, `trm:atmanivedana` · concepts: `cpt:navadha-bhakti` · practices: `prc:navadha-bhakti` · teachers: [Prahlāda](../teachers/prahlada.md)
+terms: [navadhā bhakti](../terms/navadha-bhakti.md), [śravaṇa](../terms/sravana.md), [kīrtana](../terms/kirtana.md), [smaraṇa](../terms/smarana.md), [pāda-sevana](../terms/padasevana.md), [arcana](../terms/arcana.md), [vandana](../terms/vandana.md), [dāsya](../terms/dasya.md), [sakhya](../terms/sakhya.md), [ātma-nivedana](../terms/atmanivedana.md) · concepts: [The nine forms of devotion](../concepts/navadha-bhakti.md) · practices: [The nine forms of devotion (navadhā bhakti)](../practices/navadha-bhakti.md) · teachers: [Prahlāda](../teachers/prahlada.md)
 
 ### 7.6.1 <a id="tea-bhagavata-purana-7-6-1"></a>
 `skeleton` · confidence high
@@ -447,7 +474,7 @@ A wise person should practise the dharmas of the Bhāgavata from childhood; huma
 
 _level: conventional · standpoint: seeker · path: devotion · stage: beginner · types: ethics, practice_
 
-terms: `trm:bhagavata-dharma` · teachers: [Prahlāda](../teachers/prahlada.md)
+terms: [bhāgavata-dharma](../terms/bhagavata-dharma.md) · teachers: [Prahlāda](../teachers/prahlada.md)
 
 ### 7.9.43-44 <a id="tea-bhagavata-purana-7-9-43-44"></a>
 `skeleton` · confidence high
@@ -456,7 +483,7 @@ Prahlāda to Narasiṃha: I do not fear the Vaitaraṇī that is hard to cross, 
 
 _level: conventional · standpoint: devotional · path: devotion, sound · stage: realized · types: karma-liberation, ethics_
 
-terms: `trm:vaitarani`, `trm:kirtana` · teachers: [Prahlāda](../teachers/prahlada.md)
+terms: [vaitaraṇī](../terms/vaitarani.md), [kīrtana](../terms/kirtana.md) · teachers: [Prahlāda](../teachers/prahlada.md)
 
 ### 7.10.4 <a id="tea-bhagavata-purana-7-10-4"></a>
 `skeleton` · confidence high
@@ -465,7 +492,7 @@ One who seeks blessings from you in return is not a servant but a merchant.
 
 _level: conventional · standpoint: devotional · path: devotion · stage: advanced · types: practice, ethics_
 
-terms: `trm:ahaituki-bhakti` · teachers: [Prahlāda](../teachers/prahlada.md)
+terms: [ahaitukī bhakti](../terms/ahaituki-bhakti.md) · teachers: [Prahlāda](../teachers/prahlada.md)
 
 ### 8.3.2-29 <a id="tea-bhagavata-purana-8-3-2-29"></a>
 `skeleton` · confidence high
@@ -474,7 +501,7 @@ Gajendra, the elephant king seized by a crocodile, having struggled until his st
 
 _level: bridging · standpoint: devotional · path: devotion, knowledge · stage: all · types: ultimate, practice_
 
-terms: `trm:saranagati` · concepts: `cpt:saranagati-puranic`
+terms: [śaraṇāgati](../terms/saranagati.md) · concepts: [Taking refuge (Purāṇic examples)](../concepts/saranagati-puranic.md)
 
 ### 8.3.30 <a id="tea-bhagavata-purana-8-3-30"></a>
 `skeleton` · confidence moderate
@@ -483,7 +510,7 @@ Because Gajendra's hymn described the Supreme without any particular name or for
 
 _level: ultimate · standpoint: divine · path: devotion · stage: all · types: ultimate_
 
-concepts: `cpt:harihara-identity`
+concepts: [The identity of Hari and Hara](../concepts/harihara-identity.md)
 
 ### 9.6.50-51 <a id="tea-bhagavata-purana-9-6-50-51"></a>
 `skeleton` · confidence high
@@ -492,7 +519,14 @@ The sage Saubhari, whose long austerity under water was broken by watching matin
 
 _level: conventional · standpoint: seeker · path: meditation, action · stage: beginner · types: ethics_
 
-obstacles: `obs:sanga-attachment`
+obstacles: [Attachment (saṅga)](../obstacles/sanga-attachment.md)
+
+### 10.14.3 <a id="tea-bhagavata-purana-10-14-3"></a>
+`skeleton` · confidence moderate
+
+Those who give up the effort for knowledge, bow down and live by hearing your stories from the mouths of saints, with body, speech and mind — you, though unconquerable, are conquered by them in the three worlds.
+
+_level: conventional · standpoint: devotional · path: devotion · stage: all · types: practice_
 
 ### 10.22.4 <a id="tea-bhagavata-purana-10-22-4"></a>
 `skeleton` · confidence high
@@ -503,7 +537,7 @@ The unmarried gopīs, worshipping the goddess Kātyāyanī through the month of 
 
 _level: conventional · standpoint: devotional · path: devotion, ritual · stage: all · types: practice_
 
-terms: `trm:vrata`, `trm:gopi` · practices: `prc:katyayani-vrata`, `prc:vrata`
+terms: [vrata](../terms/vrata.md), [gopī](../terms/gopi.md) · practices: [The Kātyāyanī vow of the gopīs](../practices/katyayani-vrata.md), [Vows (vrata)](../practices/vrata.md)
 
 ### 10.29.15 <a id="tea-bhagavata-purana-10-29-15"></a>
 `skeleton` · confidence high
@@ -514,7 +548,7 @@ Those who constantly direct desire, anger, fear, affection, a sense of oneness o
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: `trm:tanmayata` · concepts: `cpt:emotion-fixed-on-god`
+terms: [tanmayatā](../terms/tanmayata.md) · concepts: [Absorption through any emotion fixed on the Lord](../concepts/emotion-fixed-on-god.md)
 
 ### 10.29-33 <a id="tea-bhagavata-purana-10-29-33"></a>
 `skeleton` · confidence high
@@ -523,7 +557,16 @@ The rāsa-līlā: on an autumn full-moon night Kṛṣṇa's flute called the go
 
 _level: conventional · standpoint: devotional · path: devotion · stage: advanced · types: practice, powers-experiences_
 
-terms: `trm:rasa-lila`, `trm:gopi`, `trm:lila`, `trm:viraha` · concepts: `cpt:rasa-lila`, `cpt:viraha-bhakti`
+terms: [rāsa-līlā](../terms/rasa-lila.md), [gopī](../terms/gopi.md), [līlā](../terms/lila.md), [viraha](../terms/viraha.md) · concepts: [The rāsa-līlā](../concepts/rasa-lila.md), [Devotion in separation](../concepts/viraha-bhakti.md)
+
+### 10.30.28 <a id="tea-bhagavata-purana-10-30-28"></a>
+`skeleton` · confidence moderate
+
+The gopīs searching for Kṛṣṇa say: surely the Lord Hari was worshipped (ārādhita) by her, since Govinda, pleased, left us and led her to a secluded place.
+
+_level: conventional · standpoint: devotional · path: devotion · stage: all · types: ultimate_
+
+disputes: [What is Rādhā's status — scriptural basis, relation to Kṛṣṇa, and place in worship?](../debates/status-of-radha.md)
 
 ### 10.32.22 <a id="tea-bhagavata-purana-10-32-22"></a>
 `skeleton` · confidence high
@@ -532,7 +575,7 @@ Kṛṣṇa to the gopīs: I cannot repay you, whose union with me is faultless,
 
 _level: conventional · standpoint: devotional · path: devotion · stage: realized · types: practice_
 
-concepts: `cpt:viraha-bhakti`, `cpt:rasa-lila`
+concepts: [Devotion in separation](../concepts/viraha-bhakti.md), [The rāsa-līlā](../concepts/rasa-lila.md)
 
 ### 10.33.30-31 <a id="tea-bhagavata-purana-10-33-30-31"></a>
 `skeleton` · confidence high
@@ -541,7 +584,7 @@ concepts: `cpt:viraha-bhakti`, `cpt:rasa-lila`
 
 _level: conventional · standpoint: ethical-social · path: devotion, action · stage: all · types: ethics, dispute_
 
-concepts: `cpt:rasa-lila`
+concepts: [The rāsa-līlā](../concepts/rasa-lila.md)
 
 ### 10.33.40 <a id="tea-bhagavata-purana-10-33-40"></a>
 `skeleton` · confidence high
@@ -550,7 +593,7 @@ Whoever with faith hears or describes this play of Viṣṇu with the young wome
 
 _level: conventional · standpoint: devotional · path: devotion, sound · stage: all · types: practice_
 
-concepts: `cpt:rasa-lila` · practices: `prc:purana-sravana` · obstacles: `obs:kama-hrdroga`
+concepts: [The rāsa-līlā](../concepts/rasa-lila.md) · practices: [Hearing the Purāṇa (kathā-śravaṇa)](../practices/purana-sravana.md) · obstacles: [Lust, the disease of the heart](../obstacles/kama-hrdroga.md)
 
 ### 10.47.34-36 <a id="tea-bhagavata-purana-10-47-34-36"></a>
 `skeleton` · confidence moderate
@@ -559,7 +602,7 @@ Kṛṣṇa's message to the gopīs through Uddhava: I am never separated from y
 
 _level: conventional · standpoint: devotional · path: devotion, meditation · stage: advanced · types: practice, consciousness-mind_
 
-terms: `trm:viraha` · concepts: `cpt:viraha-bhakti` · teachers: [Uddhava](../teachers/uddhava.md)
+terms: [viraha](../terms/viraha.md) · concepts: [Devotion in separation](../concepts/viraha-bhakti.md) · teachers: [Uddhava](../teachers/uddhava.md)
 
 ### 10.47.61 <a id="tea-bhagavata-purana-10-47-61"></a>
 `skeleton` · confidence high
@@ -568,7 +611,7 @@ Uddhava: may I become one of the shrubs, creepers or herbs of Vṛndāvana that 
 
 _level: conventional · standpoint: devotional · path: devotion · stage: realized · types: practice_
 
-concepts: `cpt:viraha-bhakti` · teachers: [Uddhava](../teachers/uddhava.md)
+concepts: [Devotion in separation](../concepts/viraha-bhakti.md) · teachers: [Uddhava](../teachers/uddhava.md)
 
 ### 11.2.40 <a id="tea-bhagavata-purana-11-2-40"></a>
 `skeleton` · confidence high
@@ -577,7 +620,7 @@ One who keeps this vow, singing the names of the beloved, with love born and hea
 
 _level: conventional · standpoint: experiential · path: devotion, sound · stage: advanced · types: powers-experiences, practice_
 
-terms: `trm:kirtana` · practices: `prc:kirtana`
+terms: [kīrtana](../terms/kirtana.md) · practices: [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md)
 
 ### 11.2.42 <a id="tea-bhagavata-purana-11-2-42"></a>
 `skeleton` · confidence high
@@ -586,6 +629,24 @@ Devotion, direct experience of the Lord and detachment from other things arise t
 
 _level: conventional · standpoint: experiential · path: devotion · stage: all · types: karma-liberation, powers-experiences_
 
+### 11.3.21 <a id="tea-bhagavata-purana-11-3-21"></a>
+`skeleton` · confidence high
+
+Therefore one desiring the highest good should approach a guru expert in the Veda and in the supreme, established in tranquillity.
+
+_level: conventional · standpoint: seeker · path: general · stage: beginner · types: teacher-transmission_
+
+concepts: [The guru in Gauḍīya teaching](../concepts/guru-in-gaudiya.md)
+
+### 11.5.32 <a id="tea-bhagavata-purana-11-5-32"></a>
+`skeleton` · confidence moderate
+
+In the Kali age the intelligent worship, by sacrifices consisting chiefly of congregational chanting, the one who is 'kṛṣṇa' in syllables (or: who utters 'Kṛṣṇa') with a non-black complexion, accompanied by his limbs, weapons and associates.
+
+_level: conventional · standpoint: ritual · path: sound, devotion · stage: all · types: world-fate, sound-language_
+
+concepts: [The dharma of the Kali age](../concepts/kali-yuga-dharma.md), [Caitanya as Rādhā and Kṛṣṇa combined](../concepts/caitanya-as-radha-krsna.md)
+
 ### 11.14.14 <a id="tea-bhagavata-purana-11-14-14"></a>
 `skeleton` · confidence high
 
@@ -593,7 +654,7 @@ One who has offered the self to me desires neither the place of Brahmā nor of I
 
 _level: conventional · standpoint: devotional · path: devotion · stage: advanced · types: powers-experiences, karma-liberation_
 
-terms: `trm:siddhi` · concepts: `cpt:five-liberations` · obstacles: `obs:siddhis-as-obstacles`
+terms: [siddhi](../terms/siddhi.md) · concepts: [The five liberations and their refusal](../concepts/five-liberations.md) · obstacles: [Powers as obstacles](../obstacles/siddhis-as-obstacles.md)
 
 ### 11.14.20-21 <a id="tea-bhagavata-purana-11-14-20-21"></a>
 `skeleton` · confidence high
@@ -604,7 +665,7 @@ Neither yoga, nor Sāṃkhya, nor dharma, nor study, austerity or renunciation w
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: karma-liberation, ethics_
 
-concepts: `cpt:bhakti-supreme-dharma` · disputes: `dsp:bhagavata-purport-knowledge-or-devotion`, `dsp:women-caste-liberation`
+concepts: [Devotion as the supreme dharma](../concepts/bhakti-supreme-dharma.md) · disputes: [Is the Bhāgavata's final purport non-dual knowledge or devotion?](../debates/bhagavata-purport-knowledge-or-devotion.md), `dsp:women-caste-liberation`
 
 ### 11.14.24 <a id="tea-bhagavata-purana-11-14-24"></a>
 `skeleton` · confidence high
@@ -622,7 +683,7 @@ Meditation taught to Uddhava: seated evenly, hands in the lap, gaze on the nose-
 
 _level: conventional · standpoint: seeker · path: meditation, devotion, sound · stage: intermediate · types: practice, consciousness-mind_
 
-terms: `trm:pranava`, `trm:nirvana` · concepts: `cpt:puranic-astanga-yoga` · practices: `prc:hrt-padma-dhyana`
+terms: [praṇava](../terms/pranava.md), [nirvāṇa](../terms/nirvana.md) · concepts: [Purāṇic eightfold yoga](../concepts/puranic-astanga-yoga.md) · practices: [Meditation in the heart-lotus (Uddhava's instruction)](../practices/hrt-padma-dhyana.md)
 
 ### 11.15.3-8 <a id="tea-bhagavata-purana-11-15-3-8"></a>
 `skeleton` · confidence high
@@ -631,7 +692,7 @@ The powers (siddhi) arising from dhāraṇā are declared eighteen: eight princi
 
 _level: conventional · standpoint: analytic · path: meditation · stage: advanced · types: powers-experiences_
 
-terms: `trm:siddhi` · concepts: `cpt:bhagavata-eighteen-siddhis`
+terms: [siddhi](../terms/siddhi.md) · concepts: [The Bhāgavata's eighteen powers](../concepts/bhagavata-eighteen-siddhis.md)
 
 ### 11.15.33-34 <a id="tea-bhagavata-purana-11-15-33-34"></a>
 `skeleton` · confidence high
@@ -642,7 +703,16 @@ They say these (powers) are obstacles for one practising the highest yoga, cause
 
 _level: conventional · standpoint: seeker · path: meditation, devotion · stage: advanced · types: powers-experiences_
 
-terms: `trm:siddhi`, `trm:antaraya` · concepts: `cpt:bhagavata-eighteen-siddhis` · obstacles: `obs:siddhis-as-obstacles`
+terms: [siddhi](../terms/siddhi.md), [antarāya](../terms/antaraya.md) · concepts: [The Bhāgavata's eighteen powers](../concepts/bhagavata-eighteen-siddhis.md) · obstacles: [Powers as obstacles](../obstacles/siddhis-as-obstacles.md)
+
+### 11.17.27 <a id="tea-bhagavata-purana-11-17-27"></a>
+`skeleton` · confidence high
+
+One should know the ācārya as Me and never disrespect him or envy him as an ordinary mortal, for the guru embodies all the gods.
+
+_level: conventional · standpoint: divine · path: devotion · stage: all · types: teacher-transmission_
+
+concepts: [The guru in Gauḍīya teaching](../concepts/guru-in-gaudiya.md)
 
 ### 12.3.50 <a id="tea-bhagavata-purana-12-3-50"></a>
 `skeleton` · confidence high
@@ -653,7 +723,7 @@ Those who are dying should meditate on Bhagavān, the supreme Lord; the self of 
 
 _level: conventional · standpoint: seeker · path: devotion, meditation · stage: all · types: death-dying_
 
-concepts: `cpt:last-thought` · practices: `prc:anta-smarana`
+concepts: [The last thought and resolve at death](../concepts/last-thought.md) · practices: [Remembering the Lord at death](../practices/anta-smarana.md)
 
 ### 12.3.51-52 <a id="tea-bhagavata-purana-12-3-51-52"></a>
 `skeleton` · confidence high
@@ -664,7 +734,7 @@ O king, the Kali age, an ocean of faults, has one great virtue: by singing of K�
 
 _level: conventional · standpoint: seeker · path: sound, devotion · stage: all · types: practice, world-fate, sound-language_
 
-terms: `trm:kali-yuga`, `trm:kirtana` · concepts: `cpt:kali-yuga-dharma`, `cpt:yuga-dharma` · practices: `prc:kirtana`
+terms: [kali-yuga](../terms/kali-yuga.md), [kīrtana](../terms/kirtana.md) · concepts: [The dharma of the Kali age](../concepts/kali-yuga-dharma.md), [The means proper to each age](../concepts/yuga-dharma.md) · practices: [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md)
 
 ### 12.4.2-6 <a id="tea-bhagavata-purana-12-4-2-6"></a>
 `skeleton` · confidence high
@@ -673,7 +743,7 @@ A thousand cycles of four ages are a day of Brahmā, a kalpa with fourteen Manus
 
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate_
 
-terms: `trm:kalpa`, `trm:naimittika-pralaya`, `trm:prakrtika-pralaya`, `trm:brahmanda`, `trm:parardha` · concepts: `cpt:four-pralayas`, `cpt:kalpa-and-brahma-lifetime`
+terms: [kalpa](../terms/kalpa.md), [naimittika-pralaya](../terms/naimittika-pralaya.md), [prākṛtika-pralaya](../terms/prakrtika-pralaya.md), [brahmāṇḍa](../terms/brahmanda.md), [parārdha](../terms/parardha.md) · concepts: [The four kinds of dissolution (pralaya)](../concepts/four-pralayas.md), [Kalpa, the day of Brahmā and his lifetime](../concepts/kalpa-and-brahma-lifetime.md)
 
 ### 12.4.34-38 <a id="tea-bhagavata-purana-12-4-34-38"></a>
 `skeleton` · confidence high
@@ -684,7 +754,7 @@ When knowledge cuts the ego-knot and one abides in the experience of the imperis
 
 _level: bridging · standpoint: cosmic · path: knowledge · stage: all · types: world-fate, karma-liberation_
 
-terms: `trm:nitya-pralaya`, `trm:atyantika-pralaya`, `trm:pralaya`, `trm:kala` · concepts: `cpt:four-pralayas`
+terms: [nitya-pralaya](../terms/nitya-pralaya.md), [ātyantika-pralaya](../terms/atyantika-pralaya.md), [pralaya](../terms/pralaya.md), [kāla](../terms/kala.md) · concepts: [The four kinds of dissolution (pralaya)](../concepts/four-pralayas.md)
 
 ### 12.5.11 <a id="tea-bhagavata-purana-12-5-11"></a>
 `skeleton` · confidence high
@@ -695,7 +765,7 @@ terms: `trm:nitya-pralaya`, `trm:atyantika-pralaya`, `trm:pralaya`, `trm:kala` �
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate, death-dying_
 
-terms: `trm:brahman` · teachers: [Śuka](../teachers/suka.md), [Parīkṣit](../teachers/pariksit.md) · disputes: `dsp:bhagavata-purport-knowledge-or-devotion`
+terms: [brahman](../terms/brahman.md) · teachers: [Śuka](../teachers/suka.md), [Parīkṣit](../teachers/pariksit.md) · disputes: [Is the Bhāgavata's final purport non-dual knowledge or devotion?](../debates/bhagavata-purport-knowledge-or-devotion.md)
 
 ### 12.7.5-7 <a id="tea-bhagavata-purana-12-7-5-7"></a>
 `skeleton` · confidence high
@@ -704,7 +774,7 @@ The Sūta: Trayyāruṇi, Kaśyapa, Sāvarṇi, Akṛtavraṇa, Vaiśampāyana a
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: teacher-transmission_
 
-concepts: `cpt:puranic-transmission` · teachers: [Ugraśravas Sauti](../teachers/ugrasravas.md), [Romaharṣaṇa](../teachers/romaharsana.md), [Akṛtavraṇa](../teachers/akrtavrana.md), [Sāvarṇi (paurāṇika)](../teachers/savarni-puranic.md)
+concepts: [The transmission of the Purāṇa](../concepts/puranic-transmission.md) · teachers: [Ugraśravas Sauti](../teachers/ugrasravas.md), [Romaharṣaṇa](../teachers/romaharsana.md), [Akṛtavraṇa](../teachers/akrtavrana.md), [Sāvarṇi (paurāṇika)](../teachers/savarni-puranic.md)
 
 ### 12.7.9-10 <a id="tea-bhagavata-purana-12-7-9-10"></a>
 `skeleton` · confidence high
@@ -715,7 +785,7 @@ The marks of a Purāṇa as the brahmarṣis define them: creation (sarga), seco
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: world-fate, teacher-transmission_
 
-terms: `trm:dasalaksana`, `trm:pancalaksana`, `trm:mahapurana` · concepts: `cpt:bhagavata-ten-marks`, `cpt:pancalaksana`
+terms: [daśalakṣaṇa](../terms/dasalaksana.md), [pañcalakṣaṇa](../terms/pancalaksana.md), [mahāpurāṇa](../terms/mahapurana.md) · concepts: [The Bhāgavata's ten marks (daśalakṣaṇa)](../concepts/bhagavata-ten-marks.md), [The five marks of a Purāṇa (pañcalakṣaṇa)](../concepts/pancalaksana.md)
 
 ### 12.7.22-24 <a id="tea-bhagavata-purana-12-7-22-24"></a>
 `skeleton` · confidence high
@@ -724,7 +794,7 @@ The sages declare eighteen Purāṇas, small and great: Brāhma, Pādma, Vaiṣ�
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: teacher-transmission_
 
-terms: `trm:mahapurana` · concepts: `cpt:eighteen-mahapuranas` · disputes: `dsp:siva-or-vayu-mahapurana`
+terms: [mahāpurāṇa](../terms/mahapurana.md) · concepts: [The eighteen Mahāpurāṇas](../concepts/eighteen-mahapuranas.md) · disputes: [Is the fourth Mahāpurāṇa the Śiva Purāṇa or the Vāyu Purāṇa?](../debates/siva-or-vayu-mahapurana.md)
 
 ### 12.9 <a id="tea-bhagavata-purana-12-9"></a>
 `skeleton` · confidence moderate
@@ -733,7 +803,7 @@ Mārkaṇḍeya, granted a vision of the Lord's māyā, saw the world flooded in
 
 _level: conventional · standpoint: experiential · path: devotion, meditation · stage: realized · types: powers-experiences, world-fate_
 
-terms: `trm:maya`, `trm:pralaya` · teachers: [Mārkaṇḍeya](../teachers/markandeya.md)
+terms: [māyā](../terms/maya.md), [pralaya](../terms/pralaya.md) · teachers: [Mārkaṇḍeya](../teachers/markandeya.md)
 
 ### 12.13.4-9 <a id="tea-bhagavata-purana-12-13-4-9"></a>
 `skeleton` · confidence high
@@ -742,7 +812,7 @@ The extent of the Purāṇas: Brāhma 10,000 verses, Pādma 55,000, Vaiṣṇava
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: teacher-transmission_
 
-concepts: `cpt:eighteen-mahapuranas`
+concepts: [The eighteen Mahāpurāṇas](../concepts/eighteen-mahapuranas.md)
 
 ### 12.13.12-15 <a id="tea-bhagavata-purana-12-13-12-15"></a>
 `skeleton` · confidence high
@@ -753,7 +823,7 @@ The Bhāgavata, full of detachment at beginning, middle and end, and of Hari's p
 
 _level: ultimate · standpoint: analytic · path: knowledge, devotion · stage: all · types: ultimate, teacher-transmission_
 
-terms: `trm:kaivalya`, `trm:brahman` · disputes: `dsp:bhagavata-purport-knowledge-or-devotion`, `dsp:which-bhagavata-is-the-mahapurana`
+terms: [kaivalya](../terms/kaivalya.md), [brahman](../terms/brahman.md) · disputes: [Is the Bhāgavata's final purport non-dual knowledge or devotion?](../debates/bhagavata-purport-knowledge-or-devotion.md), [Which 'Bhāgavata' is the Mahāpurāṇa of the lists - the Śrīmad (Viṣṇu) Bhāgavata or the Devī Bhāgavata?](../debates/which-bhagavata-is-the-mahapurana.md)
 
 ### 12.13.16 <a id="tea-bhagavata-purana-12-13-16"></a>
 `skeleton` · confidence high
@@ -764,10 +834,17 @@ As the Gaṅgā among rivers, Acyuta among gods and Śambhu (Śiva) among Vaiṣ
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: ultimate_
 
-concepts: `cpt:harihara-identity` · disputes: `dsp:supremacy-visnu-or-siva`
+concepts: [The identity of Hari and Hara](../concepts/harihara-identity.md) · disputes: [Is Viṣṇu or Śiva (or the Goddess) the supreme deity?](../debates/supremacy-visnu-or-siva.md)
+
+### 12.13.23 <a id="tea-bhagavata-purana-12-13-23"></a>
+`skeleton` · confidence moderate
+
+I bow to Hari, the chanting of whose name destroys all sins and bowing to whom removes all suffering.
+
+_level: conventional · standpoint: devotional · path: sound, devotion · stage: all · types: sound-language_
 
 
 _Notes: Commentaries: Śrīdhara Svāmin's Bhāvārthadīpikā (src:bhavarthadipika), Madhva's Bhāgavata-tātparya-nirṇaya, Vīrarāghava, Vijayadhvaja, Vallabha's Subodhinī, Sanātana's Bṛhad-vaiṣṇava-toṣaṇī, Jīva's Krama-sandarbha, Viśvanātha's Sārārthadarśinī (owned by U13-U16 where they create them). Contains the Kapila Gītā (3.25-33) and Uddhava Gītā (11.7-29), which U06 owns. verse number checked in the local e-text (sanskrit/raw_etexts, bhAgavata-purANam/wiki; Gita Press-type numbering)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._

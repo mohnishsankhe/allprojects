@@ -5,7 +5,7 @@
 **Alternate titles:** Pārvatī Gītā
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:sakta`, [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
+**Lineages:** [Śākta traditions](../lineages/sakta.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
 **Genre:** gītā
 **Part of:** [Mahābhāgavata Purāṇa](mahabhagavata-purana.md)
 **Location in parent:** Mahābhāgavata Upapurāṇa (chapters not verified; c. 15-19 recalled)
@@ -18,4 +18,4 @@ A Śākta Gītā in which the Goddess instructs Himālaya in knowledge, yoga and
 _Notes: Existence recalled with low confidence; contents not verified._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

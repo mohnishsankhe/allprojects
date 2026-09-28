@@ -2,13 +2,14 @@
 
 `tch:rbhu` · `skeleton` · confidence moderate
 
-**Lineages:** `lin:advaita-vedanta`, [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
-**Historicity:** mythic
+**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Advaita Vedānta](../lineages/advaita-vedanta.md), [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](../lineages/sannyasa.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
+**Historicity:** legendary
+**Teachers:** [Varāha (the Boar avatāra)](varaha.md)
 **Students:** [Nidāgha](nidagha.md)
 **Works:** 
   - [Ṛbhu Gītā](../texts/rbhu-gita.md) — attribution: traditional
 
-A mind-born son of Brahmā, knower of reality from birth, teacher of Nidāgha (Viṣṇu Purāṇa 2.15-16, verified); in the Śivarahasya he teaches Nidāgha the Ṛbhu Gītā received from Śiva.
+Sage of the Advaita dialogues: taught by Varāha after long austerity (Varāha 1–3), he teaches his disciple Nidāgha (Varāha 4–5, Tejobindu 5, Mahā, Annapūrṇā); named among the paramahaṃsas (Jābāla 6, Nāradaparivrājaka 3.86).
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._

@@ -12,4 +12,4 @@
 Author of the Nyāyalīlāvatī, an independent Vaiśeṣika treatise. (Distinct from Vallabha of the Puṣṭimārga.)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._

@@ -17,5 +17,17 @@
 
 A vṛtti that follows the bhāṣya (bhāṣyānugā). On 1.1 it explains 'anuśāsana': although the śāstra was made by Hiraṇyagarbha, Patañjali, considering it extensive, begins a śāstra that follows it.
 
+## Teachings (1: skeleton 1)
+
+### 1.1 <a id="tea-yogamaniprabha-1-1"></a>
+`skeleton` · confidence high
+
+'Atha' means beginning. Although the śāstra was made by Hiraṇyagarbha, Patañjali, considering it extensive, begins a śāstra that follows it — which the word 'anuśāsana' indicates.
+
+_level: conventional · standpoint: seeker · path: meditation · stage: all · types: teacher-transmission_
+
+concepts: [Īśvara, Hiraṇyagarbha and the transmission of Yoga](../concepts/isvara-as-first-teacher.md) · teachers: [Hiraṇyagarbha](../teachers/hiranyagarbha.md), [Patañjali](../teachers/patanjali.md)
+
+
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 08:09 IST._

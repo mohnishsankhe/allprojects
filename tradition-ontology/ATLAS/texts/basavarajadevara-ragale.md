@@ -14,5 +14,17 @@
 
 The earliest extant Kannada biography of Basava, in ragaḷe verse: his refusal of the sacred thread, his devotion at Kūḍalasaṅgama, his service to devotees at Kalyāṇa and his end.
 
+## Teachings (1: skeleton 1)
+
+### episode of the thread ceremony <a id="tea-basavarajadevara-ragale-episode-sacred-thread"></a>
+`skeleton` · confidence low
+
+As a boy Basava refuses the sacred-thread initiation of his brāhmaṇa family, taking devotion to Śiva as his only sacrament, and leaves for Kūḍalasaṅgama.
+
+_level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: ethics, dispute_
+
+teachers: [Basava](../teachers/basava.md) · disputes: [What authority do the Veda and the Āgamas have for Vīraśaivas?](../debates/virasaiva-veda-agama-authority.md), [Does liṅga-initiation abolish caste and pollution distinctions among devotees?](../debates/virasaiva-caste-and-pollution.md)
+
+
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._

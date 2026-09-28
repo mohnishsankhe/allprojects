@@ -1,17 +1,17 @@
 # Bhaṭṭa Nārāyaṇakaṇṭha
 
-`tch:narayanakantha` · `skeleton` · confidence moderate
+`tch:narayanakantha` · `skeleton` · confidence high
 
 **Alternate names:** Nārāyaṇakaṇṭha
-**Lineages:** `lin:saiva-siddhanta`, [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
-**Dates:** Scholarly account: 10th c.; (confidence moderate)
+**Lineages:** [Śaiva Siddhānta](../lineages/saiva-siddhanta.md), [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
+**Dates:** Scholarly account: 10th c. (c. 925–975); (confidence moderate)
 **Places:** Kashmir
 **Historicity:** historical
-**Students:** [Bhaṭṭa Rāmakaṇṭha (II)](ramakantha.md)
+**Students:** [Bhaṭṭa Rāmakaṇṭha (Rāmakaṇṭha II)](ramakantha.md)
 **Works:** 
   - [Mṛgendravṛtti](../texts/mrgendravrtti.md) — attribution: accepted
 
-Kashmirian Saiddhāntika who wrote the Vṛtti on the Mṛgendra, defending a dualist reading of the scripture; father of Bhaṭṭa Rāmakaṇṭha.
+Kashmirian Saiddhāntika, author of the Vṛtti on the Mṛgendra, which explains the Āgama's doctrine of Lord, souls and bonds and defends the Siddhānta's realism; father of Rāmakaṇṭha II.
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

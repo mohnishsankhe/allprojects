@@ -36,7 +36,7 @@ Kerala's temple-tantra tradition is the body of ritual texts and hereditary tant
 [Cēnnās Nārāyaṇan Nampūtirippāṭ](../teachers/cennas-narayanan.md), [Īśānaśiva Gurudeva](../teachers/isanasiva-gurudeva.md)
 
 ## Practices
-_none recorded_
+[Fire offering (agnikārya, homa)](../practices/agnikarya.md), [Purification of the elements (bhūtaśuddhi)](../practices/bhutasuddhi.md), [Dīkṣā (consecration for sacrifice)](../practices/diksa.md), [Renovation and re-consecration (jīrṇoddhāra)](../practices/jirnoddhara.md), [Pot-consecration and bathing (kalaśābhiṣeka)](../practices/kalasabhiseka.md), [The daily round of a Kerala temple](../practices/kerala-daily-worship.md), [Temple festival (mahotsava)](../practices/mahotsava.md), [Placing letters and syllables on the body (nyāsa)](../practices/nyasa.md), [Temple worship for others (parārtha-pūjā)](../practices/parartha-puja.md), [Installation and consecration (pratiṣṭhā)](../practices/pratistha.md), [Expiatory rites (prāyaścitta)](../practices/prayascitta.md), [Ritual worship of the deity (pūjā, arcana)](../practices/puja.md), [Preparatory mantra practice (puraścaraṇa)](../practices/purascarana.md), [Ritual hand gestures (mudrā) of Āgamic worship](../practices/ritual-mudras.md), [Offering to the deity's attendants (śrībhūtabali)](../practices/sribhutabali.md), [Temple-building rites from ploughing to installation (karṣaṇādi)](../practices/temple-building-rites.md)
 
 ## Path maps
 _none recorded_
@@ -47,4 +47,4 @@ _none recorded_
 _Notes: family 'vedic' is the project's A/B classification (Brahmanical vs śramaṇa); it is not a claim that this tradition treats the Veda as its final authority. Tantri families named in REPORT.md (Cēnnās, Taraṇanallūr, Tāḻaman) are given with moderate/low confidence and not as separate lineages._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

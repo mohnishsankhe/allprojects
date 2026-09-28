@@ -5,11 +5,12 @@
 **Original title:** गीताभाष्य
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:bhedabheda`
+**Lineages:** [Bhedābheda Vedānta (Bhāskara's school and the early difference-and-non-difference Vedāntins)](../lineages/bhedabheda.md)
 **Genre:** commentary (bhāṣya/ṭīkā)
 **Commentary on:** [Bhagavad Gītā](bhagavad-gita.md)
 **Authors:** 
-  - [Bhāskara](../teachers/bhaskara.md) — role: commentator; attribution: accepted
+  - [Bhāskara (Bhaṭṭa Bhāskara, the Vedāntin)](../teachers/bhaskara.md) — role: commentator; attribution: accepted
+  - [Bhāskara (Bhaṭṭa Bhāskara, the Vedāntin)](../teachers/bhaskara.md) — role: author; attribution: traditional
 **Dates:** Scholarly account: c. 8th–9th c. CE; (confidence low)
 **Availability:** partly-lost
 
@@ -18,4 +19,4 @@ A Bhedābheda commentary on the Gītā defending the combination of knowledge an
 _Notes: Existence recalled; extent and recension not confirmed (low)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._

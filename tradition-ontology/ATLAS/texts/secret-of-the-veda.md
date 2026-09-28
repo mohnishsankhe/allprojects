@@ -17,4 +17,4 @@ Sri Aurobindo's reading of the Ṛgveda as a symbolic record of inner experience
 _Notes: Recent (post-1800); an interpretation from outside the recitation lineages, recorded as such._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

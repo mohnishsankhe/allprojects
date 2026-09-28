@@ -20,5 +20,28 @@ Maṅki, having lost the young bulls on which his hopes rested, renounces desire
   - kind: original; name: The Mahābhārata, Critical Edition, ed. V. S. Sukthankar et al., Bhandarkar Oriental Research Institute, Pune (1933–1966); licence: print edition (text public domain; apparatus under BORI copyright)
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
+## Teachings (2: skeleton 2)
+
+### 12.171.4-54 <a id="tea-manki-gita-12-171-4-54"></a>
+`skeleton` · confidence moderate · [AI-translated]
+
+Maṅki, whose repeated efforts at wealth ended when his two young bulls were killed, reflects on desire: it grows with fulfilment like fire with fuel; he renounces desire and wins peace ('desire, I know your root: you are born of thought').
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: all · types: ethics, karma-liberation_
+
+obstacles: [Craving (tṛṣṇā)](../obstacles/trsna.md) · teachers: [Maṅki](../teachers/manki.md)
+
+### 12.171.56 <a id="tea-manki-gita-12-171-56"></a>
+`skeleton` · confidence high · [AI-translated]
+
+Janaka's verse: endless indeed is my wealth, for nothing is mine; if Mithilā burns, nothing of mine burns.
+
+> anantaṃ bata me vittaṃ yasya me nāsti kiṃ cana / mithilāyāṃ pradīptāyāṃ na me dahyati kiṃ cana
+
+_level: ultimate · standpoint: experiential · path: knowledge · stage: realized · types: karma-liberation_
+
+teachers: [Janaka of Videha](../teachers/janaka.md)
+
+
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

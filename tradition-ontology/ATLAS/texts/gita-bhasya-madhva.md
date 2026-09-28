@@ -20,7 +20,19 @@ one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of al
   - kind: original; name: sanskrit/raw_etexts (dvaitam/mAdhvam/sarvamulam/gItAprasthAnam); licence: open (repository terms); url: https://github.com/sanskrit/raw_etexts
 **Commentaries on this text:** [Prameyadīpikā of Jayatīrtha](prameyadipika.md)
 
+## Teachings (1: skeleton 1)
+
+### intro <a id="tea-gita-bhasya-madhva-intro"></a>
+`skeleton` · confidence high
+
+Entreated by Brahmā, Rudra and others, the Lord descended as Vyāsa; seeing people suffering in saṃsāra for want of knowledge of the Veda, and women, śūdras and others who are not entitled to the Veda, he compassionately composed the Mahābhārata — expanding the Vedic meaning and centred on the Lord alone — so that they too might reach liberation through dharma and knowledge.
+
+_level: conventional · standpoint: divine · path: knowledge, general · stage: all · types: teacher-transmission, ethics_
+
+concepts: [True scripture (sadāgama) and false scripture](../concepts/sadagama.md), [Three grades of eligibility (adhikāra)](../concepts/adhikara-three-grades.md) · teachers: [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md) · disputes: `dsp:women-caste-liberation`
+
+
 _Notes: Introduction checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

@@ -12,4 +12,4 @@ The first paurāṇika: Vyāsa's disciple for the Purāṇa, reciter at Naimiṣ
 **Realization — the tradition's account:** The sūta disciple to whom Vyāsa gave the Purāṇa-saṃhitā; his own saṃhitā is the root (mūla) of the three made by his disciples (VP 3.6.16-18). BhP 12.7.5-7 names six paurāṇikas who learned from him.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._

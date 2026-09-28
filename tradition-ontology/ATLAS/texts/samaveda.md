@@ -21,7 +21,19 @@ The Veda of chants: verses (ṛc), nearly all taken from the Ṛgveda (mostly bo
   - kind: original; name: Satyavrata Sāmaśramī, Sāmaveda-Saṃhitā with Sāyaṇa (Calcutta 1874–78); licence: public domain
   - kind: translation; name: R. T. H. Griffith, The Hymns of the Samaveda (1893); licence: public domain
 
+## Teachings (1: skeleton 1)
+
+### 1 <a id="tea-samaveda-1"></a>
+`skeleton` · confidence high
+
+Come, Agni, praised, to the feast, to the giving of oblations; sit as hotṛ on the sacred grass — the first verse of the Pūrvārcika (= Ṛgveda 6.16.10), the text of the first melody.
+
+_level: conventional · standpoint: ritual · path: sound, ritual · stage: all · types: practice, sound-language_
+
+terms: [agni](../terms/agni.md), [sāman](../terms/saman.md), [ārcika](../terms/arcika.md) · concepts: [The parts of a sāman](../concepts/parts-of-a-saman.md) · practices: [Sāman chanting (sāmagāna)](../practices/sama-gana.md) · teachers: [Jaimini](../teachers/jaimini.md)
+
+
 _Notes: Verse counts from memory; the Pūrvārcika opens with 'agna ā yāhi vītaye' (= RV 6.16.10), as checked in the local Griffith dataset._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

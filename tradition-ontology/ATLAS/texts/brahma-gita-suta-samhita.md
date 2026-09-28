@@ -5,7 +5,7 @@
 **Original title:** ब्रह्मगीता
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:advaita-vedanta`, [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
 **Genre:** gītā
 **Part of:** [Sūta Saṃhitā](suta-samhita.md)
 **Location in parent:** Skanda Purāṇa, Sūta Saṃhitā, Yajñavaibhavakhaṇḍa, uparibhāga (colophon verified)
@@ -17,5 +17,22 @@ A Śaiva Advaita commentary-in-verse on the principal Upaniṣads (Kena, Bṛhad
 **Editions / translations:** 
   - kind: original; name: Gītāsaṅgraha (Poona 1915); licence: digitization terms unknown
 
+## Teachings (2: skeleton 2)
+
+### 4 <a id="tea-brahma-gita-suta-samhita-4"></a>
+`skeleton` · confidence low · [AI-translated]
+
+The Brahma Gītā expounds the Kena (Talavakāra) Upaniṣad: Śiva is the witness by whose light mind, speech and senses function yet who is not their object.
+
+_level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, consciousness-mind_
+
+### 12 <a id="tea-brahma-gita-suta-samhita-12"></a>
+`skeleton` · confidence low · [AI-translated]
+
+Śiva is the ground of the notion 'I' (ahaṃ-pratyaya): the Self indicated by 'I' in all beings is Śiva himself.
+
+_level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate, consciousness-mind_
+
+
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

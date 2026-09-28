@@ -17,4 +17,4 @@ Nine verses customarily recited before the Gītā, invoking Vyāsa and Kṛṣ�
 _Notes: The ascription to Madhusūdana is a popular report, recorded as doubtful._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

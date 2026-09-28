@@ -2,7 +2,7 @@
 
 `tch:abhinavagupta` · `skeleton` · confidence high
 
-**Lineages:** [Trika ('the Triad')](../lineages/trika.md), [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Pratyabhijñā (the philosophy of recognition)](../lineages/pratyabhijna.md), [Krama (the 'Sequence'; Mahānaya, Mahārtha)](../lineages/krama.md), `lin:kaula`
+**Lineages:** [Trika ('the Triad')](../lineages/trika.md), [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Pratyabhijñā (the philosophy of recognition)](../lineages/pratyabhijna.md), [Krama (the 'Sequence'; Mahānaya, Mahārtha)](../lineages/krama.md), [Kaula (the Kula tradition)](../lineages/kaula.md)
 **Dates:** Scholarly account: c. 975-1025 CE; dated works: Kramastotra (Laukika 66, c. 990/91), Bhairavastava (68, c. 992/93), Īśvarapratyabhijñāvimarśinī (90, c. 1014/15); (confidence high)
 **Places:** Kashmir
 **Historicity:** historical
@@ -36,4 +36,4 @@ The central figure of Kashmirian non-dual Śaivism: author of the Tantrāloka, T
 _Notes: Teacher ids tch:induraja and tch:bhatta-tauta (poetics, dramaturgy) belong to U31._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

@@ -17,4 +17,4 @@ The Black Yajurveda Saṃhitā of the Maitrāyaṇīya school: mantras and brāh
   - kind: original; name: L. von Schroeder, Maitrāyaṇī Saṃhitā (1881–86); licence: public domain
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

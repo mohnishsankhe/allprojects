@@ -13,4 +13,4 @@ The ascetic of Abbūr who gave renunciation to Vyāsatīrtha; the colophons of t
 _Notes: Discipleship stated in the Nyāyāmṛta colophons checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

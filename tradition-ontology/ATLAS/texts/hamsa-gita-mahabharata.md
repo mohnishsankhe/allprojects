@@ -16,5 +16,15 @@
 
 The swan teaches forbearance, truthfulness, self-control and not returning insult for insult as the way to the highest.
 
+## Teachings (1: skeleton 1)
+
+### 12.288 <a id="tea-hamsa-gita-mahabharata-12-288"></a>
+`skeleton` · confidence moderate · [AI-translated]
+
+The golden swan (Prajāpati) teaches the Sādhyas: forbearance, truth, self-restraint and not answering abuse with abuse are the way to the highest; one struck by harsh words should not strike back.
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics_
+
+
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

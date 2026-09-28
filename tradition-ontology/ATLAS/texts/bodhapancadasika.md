@@ -15,5 +15,17 @@ Fifteen verses (with a closing verse) written by Abhinavagupta 'to awaken discip
 **Editions / translations:** 
   - kind: original; name: Kashmir Series of Texts and Studies (KSTS), Srinagar 76 (1947)
 
+## Teachings (1: skeleton 1)
+
+### 15 <a id="tea-bodhapancadasika-15"></a>
+`skeleton` · confidence high
+
+Bhairava is contemplated as the nature of all things.
+
+_level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate_
+
+teachers: [Abhinavagupta](../teachers/abhinavagupta.md)
+
+
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

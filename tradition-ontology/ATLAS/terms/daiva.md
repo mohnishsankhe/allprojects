@@ -1,0 +1,19 @@
+# daiva
+
+`trm:daiva` · `skeleton` · confidence high
+
+**Language:** Sanskrit
+**Native script:** दैव
+**Literal:** divine, fate
+
+## Definitions by tradition
+- [Advaita Vedānta](../lineages/advaita-vedanta.md): Fate: in the Yoga Vāsiṣṭha nothing but one's own former effort (prāk-pauruṣa); a name given to the fruit of one's deeds, without form, act or power of its own; relying on it is delusion.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The divine or fated factor, the fifth cause of action (BhG 18.14); which does not bear fruit without human effort, as a seed without a field (MBh 13.6.7).
+
+## Forms in other languages
+
+## Equivalents (interpretation layer)
+**Related:** [pauruṣa](paurusa.md), [puruṣakāra](purusakara.md), [kāla](kala.md), [svabhāva](svabhava.md)
+
+---
+_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

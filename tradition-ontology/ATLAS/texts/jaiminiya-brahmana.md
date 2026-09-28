@@ -15,7 +15,19 @@
 
 The large Brāhmaṇa of the Jaiminīya (Talavakāra) Sāmaveda: an extended treatment of the Agnihotra (1.1–65), the year-long session and Soma rites, and many narratives, including Bhṛgu's journey through the other world where he sees the fruits of deeds (1.42–44) and the fate of the dead questioned at the gate of heaven.
 
+## Teachings (1: skeleton 1)
+
+### 1.42-44 <a id="tea-jaiminiya-brahmana-1-42-44"></a>
+`skeleton` · confidence moderate
+
+Bhṛgu, sent by his father Varuṇa, travels through the other world and sees beings who suffer in return what they inflicted in this life; Varuṇa explains that the Agnihotra, performed with knowledge, prevents such retribution.
+
+_level: conventional · standpoint: experiential · path: ritual · stage: all · types: death-dying, karma-liberation, powers-experiences_
+
+practices: [Agnihotra (daily fire-offering)](../practices/agnihotra.md) · teachers: [Bhṛgu Vāruṇi](../teachers/bhrgu.md)
+
+
 _Notes: Known from South Indian manuscripts; the Jaiminīya school survives in Kerala and Tamil Nadu._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._

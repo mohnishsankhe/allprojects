@@ -20,5 +20,15 @@ The defeated asura Vṛtra, questioned by Uśanas, shows equanimity; Sanatkumār
   - kind: original; name: The Mahābhārata, Critical Edition, ed. V. S. Sukthankar et al., Bhandarkar Oriental Research Institute, Pune (1933–1966); licence: print edition (text public domain; apparatus under BORI copyright)
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
+## Teachings (1: skeleton 1)
+
+### 12.270-271 <a id="tea-vrtra-gita-12-270-271"></a>
+`skeleton` · confidence moderate · [AI-translated]
+
+Vṛtra, fallen in battle yet serene, explains that by knowledge he does not grieve; Sanatkumāra then teaches the supremacy of Viṣṇu and the six colours of beings (black, grey, blue, red, yellow, white) through which the jīva rises and falls over many births.
+
+_level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation, world-fate_
+
+
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

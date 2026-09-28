@@ -14,4 +14,4 @@ An anonymous brief commentary on the Tattvasamāsa ('a brief vṛtti on Kapila's
   - kind: original; name: V. P. Dvivedin (ed.), Sāṃkhyasaṅgrahaḥ, Chowkhamba Sanskrit Series 50, Varanasi 1920; GRETIL e-text; licence: GRETIL (reference/scholarly use only)
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 08:09 IST._

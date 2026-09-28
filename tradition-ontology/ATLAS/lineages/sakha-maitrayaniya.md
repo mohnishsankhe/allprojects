@@ -16,13 +16,13 @@ A Black Yajurveda tradition surviving in a small community of reciters.
 
 
 ## Texts
-[Maitrāyaṇī Saṃhitā](../texts/maitrayani-samhita.md), `src:maitri-upanisad`
+[Maitrāyaṇī Saṃhitā](../texts/maitrayani-samhita.md), [Maitrī Upaniṣad](../texts/maitri-upanisad.md)
 
 ## Teachers
 _none recorded_
 
 ## Practices
-_none recorded_
+[Agnicayana (building the fire-altar)](../practices/agnicayana.md), [Agnihotra (daily fire-offering)](../practices/agnihotra.md), [The soma sacrifice (agniṣṭoma)](../practices/agnistoma.md), [Establishing the sacred fires (agnyādhāna)](../practices/agnyadhana.md), [Horse sacrifice (aśvamedha)](../practices/asvamedha.md), [The seasonal rites (cāturmāsya)](../practices/caturmasya.md), [New- and full-moon offerings (darśapūrṇamāsa)](../practices/darsapurnamasa.md), [Consecration of the sacrificer (dīkṣā)](../practices/diksa-soma.md), [The animal sacrifice (paśubandha)](../practices/pasubandha.md), [Offering to the fathers (piṇḍapitṛyajña)](../practices/pinda-pitryajna.md), [Pravargya (the hot-milk rite)](../practices/pravargya.md), [Rājasūya (royal consecration)](../practices/rajasuya.md), [Sautrāmaṇī](../practices/sautramani.md), [The śrauta sacrifice (in general)](../practices/srauta-yajna.md), [Vājapeya](../practices/vajapeya.md)
 
 ## Path maps
 _none recorded_
@@ -31,4 +31,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

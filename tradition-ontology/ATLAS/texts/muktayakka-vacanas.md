@@ -16,4 +16,4 @@ Vacanas of the woman śaraṇa who, grieving her brother Ajagaṇṇa, questione
 _Notes: Cited by incipit; edition numbering to be fixed in Phase D._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._

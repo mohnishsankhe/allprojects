@@ -15,4 +15,4 @@ Having meditated, by the procedure of the paths, on the Śaiva principle at the 
 _Notes: Verses 57 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

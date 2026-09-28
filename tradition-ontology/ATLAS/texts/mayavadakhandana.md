@@ -17,5 +17,17 @@
 one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); the fourth of the ten short treatises (daśa-prakaraṇa); it a short refutation of the doctrine of māyā (Advaita): if the self is self-luminous and without attributes, nothing in it is unknown for ignorance to cover, so the ignorance on which the doctrine rests is impossible.
 **Commentaries on this text:** [Māyāvādakhaṇḍana-ṭīkā (Jayatīrtha)](mayavadakhandana-tika-jayatirtha.md)
 
+## Teachings (1: skeleton 1)
+
+### 1 <a id="tea-mayavadakhandana-1"></a>
+`skeleton` · confidence moderate
+
+The doctrine in question is not to be taken up, since it teaches what is otherwise than true. If the self is self-luminous and without attributes, nothing in it remains unknown and there is no feature for ignorance to conceal; since such ignorance is impossible, the whole doctrine that rests on it is refuted.
+
+_level: unmarked · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, ultimate_
+
+terms: [māyāvāda](../terms/mayavada.md), [avidyā](../terms/avidya.md) · concepts: [The critique of māyā (māyāvāda-khaṇḍana)](../concepts/mayavada-khandana.md) · disputes: `dsp:world-real-or-appearance`, `dsp:souls-one-or-distinct`
+
+
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

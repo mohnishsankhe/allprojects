@@ -5,7 +5,7 @@
 **Family:** vedic
 **Alternate names:** Bāṣkala recension
 **Parent:** [Vedic Śrauta tradition (the Saṃhitā lineages)](vedic-srauta.md)
-**Key teachers:** `tch:baskala`
+**Key teachers:** [Bāṣkala](../teachers/baskala.md)
 **Regions:** not located with confidence
 **Status:** extinct
 
@@ -17,10 +17,10 @@ A Ṛgveda recension known by name and by reports of its differences from the Ś
 
 
 ## Texts
-[Ṛgveda Khilāni (the supplementary hymns)](../texts/rgveda-khilani.md)
+[Bāṣkala Upaniṣad](../texts/baskala-upanisad.md), [Ṛgveda Khilāni (the supplementary hymns)](../texts/rgveda-khilani.md)
 
 ## Teachers
-`tch:baskala`
+[Bāṣkala](../teachers/baskala.md)
 
 ## Practices
 _none recorded_
@@ -34,4 +34,4 @@ _none recorded_
 _Notes: Details of the Bāṣkala hymn-count are reconstructed from memory of later reports; to be checked (see REPORT.md)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

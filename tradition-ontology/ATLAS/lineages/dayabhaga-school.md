@@ -5,8 +5,8 @@
 **Family:** vedic
 **Alternate names:** Gauḍa school
 **Parent:** [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](dharmasastra.md)
-**Founders:** `tch:jimutavahana`
-**Key teachers:** `tch:raghunandana`
+**Founders:** [Jīmūtavāhana](../teachers/jimutavahana.md)
+**Key teachers:** [Raghunandana](../teachers/raghunandana.md)
 **Regions:** Bengal
 **Status:** absorbed
 
@@ -18,10 +18,10 @@ The Bengal tradition following Jīmūtavāhana's Dāyabhāga (c. 12th c.), which
 
 
 ## Texts
-`src:dayabhaga`, `src:smrtitattva`
+[Dāyabhāga of Jīmūtavāhana](../texts/dayabhaga.md), [Smṛtitattva of Raghunandana](../texts/smrtitattva.md)
 
 ## Teachers
-`tch:raghunandana`
+[Raghunandana](../teachers/raghunandana.md)
 
 ## Practices
 _none recorded_
@@ -30,7 +30,7 @@ _none recorded_
 _none recorded_
 
 ## Debates
-_none recorded_
+[Does a son own ancestral property from birth or only on the father's death?](../debates/inheritance-by-birth-or-death.md)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._

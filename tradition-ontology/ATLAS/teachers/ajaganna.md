@@ -10,4 +10,4 @@
 Muktāyakka's brother, a hidden devotee whose death occasions her meeting with Allama.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._

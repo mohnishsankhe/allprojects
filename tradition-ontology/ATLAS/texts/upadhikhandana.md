@@ -17,5 +17,17 @@
 one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); the third of the ten short treatises (daśa-prakaraṇa); it refutes the Advaita explanation of the individual soul as Brahman limited by adjuncts (upādhi): ignorance cannot belong to the all-knowing, and adjuncts cannot account for it.
 **Commentaries on this text:** [Upādhikhaṇḍana-ṭīkā (Jayatīrtha)](upadhikhandana-tika-jayatirtha.md)
 
+## Teachings (1: skeleton 1)
+
+### 1-2 <a id="tea-upadhikhandana-1-2"></a>
+`skeleton` · confidence moderate
+
+Nārāyaṇa has countless qualities, an eternal form and no defects. Ignorance cannot in any way belong to the knower of all; if it is said to belong to him through a difference of adjuncts (upādhi), (the question arises whether) that is by nature — (and the adjunct theory is shown not to account for it).
+
+_level: unmarked · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, ultimate_
+
+terms: [upādhi](../terms/upadhi.md), [avidyā](../terms/avidya.md) · concepts: [The critique of māyā (māyāvāda-khaṇḍana)](../concepts/mayavada-khandana.md) · disputes: `dsp:souls-one-or-distinct`
+
+
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

@@ -14,4 +14,4 @@ A large Śaiva narrative-doctrinal work whose sixth part contains the Ṛbhu Gī
 _Notes: Minimal parent entry created by U06._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

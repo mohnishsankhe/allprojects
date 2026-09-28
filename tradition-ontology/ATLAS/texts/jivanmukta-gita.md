@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:advaita-vedanta`, `lin:datta-sampradaya`
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), `lin:datta-sampradaya`
 **Genre:** gītā
 **Authors:** 
   - [Dattātreya](../teachers/dattatreya.md) — role: revealer; attribution: traditional
@@ -16,4 +16,4 @@ A short poem describing the marks of one liberated while living (jīvanmukta), a
 _Notes: Existence recalled, contents not verified; listed so that the hallucination sweep can confirm or mark it._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

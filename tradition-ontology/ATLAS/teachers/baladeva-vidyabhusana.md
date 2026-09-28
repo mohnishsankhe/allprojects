@@ -1,14 +1,18 @@
 # Baladeva Vidyābhūṣaṇa
 
-`tch:baladeva-vidyabhusana` · `skeleton` · confidence moderate
+`tch:baladeva-vidyabhusana` · `skeleton` · confidence high
 
-**Lineages:** `lin:gaudiya-vaisnava`
-**Dates:** Scholarly account: 18th c. CE; (confidence moderate)
+**Lineages:** [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md)
+**Dates:** Scholarly account: c. 1700–1793 CE (uncertain); (confidence low)
 **Historicity:** historical
+**Teachers:** [Viśvanātha Cakravartin](visvanatha-cakravartin.md)
 **Works:** 
+  - [Govinda-bhāṣya](../texts/govinda-bhasya.md) — attribution: accepted
+  - [Prameyaratnāvalī](../texts/prameyaratnavali.md) — attribution: accepted
+  - [Siddhāntaratna (of Baladeva)](../texts/siddhantaratna-baladeva.md) — attribution: accepted
   - [Gītābhūṣaṇa of Baladeva Vidyābhūṣaṇa](../texts/gita-bhusana.md) — attribution: accepted
 
-Gauḍīya Vaiṣṇava theologian, author of the Gītābhūṣaṇa (and the Govinda-bhāṣya on the Brahma Sūtra).
+Orissan scholar trained in Madhva's school who joined the Gauḍīyas; wrote the Govinda-bhāṣya (the school's Brahma Sūtra commentary), Prameyaratnāvalī, Siddhāntaratna and Gītābhūṣaṇa, defending the Gauḍīyas at Jaipur.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

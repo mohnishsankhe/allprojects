@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:advaita-vedanta`
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md)
 **Genre:** gītā
 **Part of:** [Tattvasārāyaṇa](tattvasarayana.md)
 **Location in parent:** Tattvasārāyaṇa, Upāsanākāṇḍa (low confidence)
@@ -16,4 +16,4 @@ A longer Rāma Gītā (recalled as 18 chapters) in which Rāma teaches Hanumān 
 _Notes: Recalled only; flagged for the hallucination sweep._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

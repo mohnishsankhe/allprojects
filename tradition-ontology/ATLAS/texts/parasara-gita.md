@@ -20,5 +20,17 @@ Parāśara teaches dharma, the fruits of action, the duties of the classes and t
   - kind: original; name: The Mahābhārata, Critical Edition, ed. V. S. Sukthankar et al., Bhandarkar Oriental Research Institute, Pune (1933–1966); licence: print edition (text public domain; apparatus under BORI copyright)
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
+## Teachings (1: skeleton 1)
+
+### 12.279-287 <a id="tea-parasara-gita-12-279-287"></a>
+`skeleton` · confidence moderate · [AI-translated]
+
+Parāśara teaches Janaka that dharma is the best friend, that deeds bear fruit inescapably, that each class should keep its duty, and that austerity and detachment lead to the highest.
+
+_level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics, karma-liberation_
+
+teachers: [Parāśara](../teachers/parasara.md), [Janaka of Videha](../teachers/janaka.md)
+
+
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

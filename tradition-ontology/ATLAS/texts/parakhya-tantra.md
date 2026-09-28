@@ -5,7 +5,7 @@
 **Alternate titles:** Parākhya
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:saiva-siddhanta`, [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
+**Lineages:** [Śaiva Siddhānta](../lineages/saiva-siddhanta.md), [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
 **Genre:** tantra
 **Availability:** unknown
 
@@ -14,4 +14,4 @@ An early scripture of the Śaiva Siddhānta, not among the 28 titles, treating d
   - kind: original; name: The Parākhyatantra, a Scripture of the Śaiva Siddhānta, ed. & tr. D. Goodall, IFP/EFEO 2004
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

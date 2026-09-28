@@ -12,4 +12,4 @@
 Uttarādi Maṭha pontiff called Bhāvabodhācārya after his Bhāvabodha commentaries (e.g. on Madhva's Bṛhadāraṇyaka-bhāṣya); his brindāvana is at Tirukoilur.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

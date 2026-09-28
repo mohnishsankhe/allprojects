@@ -26,4 +26,4 @@ Born Veṅkaṭanātha at Bhuvanagiri, disciple of Sudhīndra Tīrtha, and autho
 _Notes: The claim that he will remain in the brindāvana for 700 years is recalled at low confidence._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

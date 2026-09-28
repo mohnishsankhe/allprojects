@@ -11,4 +11,4 @@
 The first recipient of the imperishable yoga from Kṛṣṇa, who passed it to Manu (BhG 4.1).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

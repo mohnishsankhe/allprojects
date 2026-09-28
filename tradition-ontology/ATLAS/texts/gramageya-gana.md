@@ -13,4 +13,4 @@
 The first song-book of the Kauthuma–Rāṇāyanīya Sāmaveda: the melodies on the Pūrvārcika verses 'to be sung in the village', i.e. in public ritual; it shows how each verse is transformed into a sāman with stretched vowels, repetitions and stobhas.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

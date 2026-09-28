@@ -42,13 +42,13 @@ The philosophical school founded by Somānanda (Śivadṛṣṭi) and systematiz
 [Abhinavagupta](../teachers/abhinavagupta.md), [Ānanda (father of Somānanda)](../teachers/ananda-tryambaka.md), [Aruṇāditya](../teachers/arunaditya.md), [Bhāskarakaṇṭha](../teachers/bhaskarakantha.md), [Kṣemarāja](../teachers/ksemaraja.md), [Lakṣmaṇagupta](../teachers/laksmanagupta.md), [Rājānaka Rāmakaṇṭha (author of the Spandavivṛti)](../teachers/rajanaka-ramakantha.md), [Saṅgamāditya](../teachers/sangamaditya.md), [Somānanda](../teachers/somananda.md), [Tryambakāditya](../teachers/tryambakaditya.md), [Utpaladeva](../teachers/utpaladeva.md), [Varṣāditya](../teachers/varsaditya.md), [Virūpākṣanātha](../teachers/virupaksanatha.md)
 
 ## Practices
-_none recorded_
+[Attending to the initial and final points (ādyantakoṭinibhālana)](../practices/adyantakoti-nibhalana.md), [Anupāya: realization without means](../practices/anupaya-realization.md), [Unfolding of the centre (madhyavikāsa)](../practices/madhya-vikasa.md), [Ever-arisen samādhi (nityodita-samādhi)](../practices/nityodita-samadhi.md), [Recognition (pratyabhijñā) of one's self as the Lord](../practices/pratyabhijna-recognition.md), [Hymn-devotion to Śiva as one's own self](../practices/saiva-stotra-devotion.md), [Contraction of power (śaktisaṅkoca)](../practices/sakti-sankoca.md), [Expansion of power (śaktivikāsa); the bhairavī seal](../practices/sakti-vikasa.md), [Cutting the flows (vāhaccheda)](../practices/vahaccheda.md), [Dissolution of thought-constructs (vikalpakṣaya)](../practices/vikalpa-ksaya.md)
 
 ## Path maps
 `pth:kashmir-four-upayas`
 
 ## Debates
-_none recorded_
+[Does the liberated soul become identical with Śiva, or only equal to Śiva (śivasamatva) while remaining distinct?](../debates/liberation-identity-or-equality-with-siva.md), [Is Speech at the level of paśyantī (the grammarians' Word-Brahman) the ultimate reality?](../debates/pasyanti-brahman.md), [Are there only momentary cognitions without an enduring subject, or is there one conscious knower - the Lord - whose powers of cognition, memory and exclusion make experience possible?](../debates/pratyabhijna-vs-buddhist-logicians.md)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

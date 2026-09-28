@@ -17,4 +17,4 @@
 _Notes: verse number checked in the GRETIL e-text of the Śiva Purāṇa books 1 and 7 (Venkateshwara ed.)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._

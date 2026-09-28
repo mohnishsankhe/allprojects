@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:advaita-vedanta`
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md)
 **Genre:** gītā
 **Part of:** [Yoga Vāsiṣṭha](yoga-vasistha.md)
 **Location in parent:** Yoga Vāsiṣṭha, Nirvāṇa-prakaraṇa (exact sargas not verified); printed separately in the 1915 Gītāsaṅgraha with colophons 'yoga[vāsiṣṭhe] brahmagītāsu paramārthagītāsu'
@@ -15,4 +15,4 @@
 Teaching on the supreme truth, liberation and the arguments for non-duality, with stories of the cosmic egg and of an ascetic.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

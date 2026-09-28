@@ -1,0 +1,11 @@
+# Jitvan Śailini
+
+`tch:jitvan-sailini` · `skeleton` · confidence high
+
+**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
+**Historicity:** semi-legendary
+
+One of the teachers whose view Janaka reports to Yājñavalkya: brahman is speech (BAU 4.1.2); Yājñavalkya says he taught only its abode, not its support.
+
+---
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._

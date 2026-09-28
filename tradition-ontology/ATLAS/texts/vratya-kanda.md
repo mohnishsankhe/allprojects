@@ -15,4 +15,4 @@
 A prose book on the Vrātya: a wandering, vow-bound figure who stirs Prajāpati into creation, becomes Mahādeva and Īśāna, takes up the rainbow bow, stands upright for a year, is given a seat made of the seasons and the Vedas, and is honoured as a cosmic guest; his seven prāṇas, apānas and vyānas are identified with fire, sun, moon, wind, waters, animals and creatures.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

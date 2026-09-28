@@ -1,0 +1,23 @@
+# Pilgrimage to tīrthas
+
+`prc:tirthayatra` · `skeleton` · confidence high
+
+**Category:** devotion-service
+**Convergence:** 2 independent lineage(s): [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
+**Taught in:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
+
+Journeying to holy places, bathing, worship, gifts and śrāddha there; seven cities give liberation; the inner meaning is purity of mind and the company of the holy, who themselves make places holy.
+**Stage:** all
+**Sources:** 
+  - [Skanda Purāṇa](../texts/skanda-purana.md) — ref: 4.1.6.28-45; rests_on: ["tea:skanda-purana:4.1.6.28-45"]
+  - [Garuḍa Purāṇa](../texts/garuda-purana.md) — ref: 2.38.5; rests_on: ["tea:garuda-purana:2.38.5"]
+  - [Bhāgavata Purāṇa](../texts/bhagavata-purana.md) — ref: 1.13.10; rests_on: ["tea:bhagavata-purana:1.13.10"]
+  - [Viduranīti (Vidura's counsel)](../texts/viduraniti.md) — ref: 5.40.19; rests_on: ["tea:viduraniti:5.40.19"]
+
+## The texts' own warnings
+- The greedy, cruel and hypocritical remain impure though they bathe in every tīrtha. — [Skanda Purāṇa](../texts/skanda-purana.md) 4.1.6.34
+
+_Notes: U05's contribution; the Āraṇyaka's tīrtha lists are not itemized here._
+
+---
+_Contributed by: skeleton:U07-puranas, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

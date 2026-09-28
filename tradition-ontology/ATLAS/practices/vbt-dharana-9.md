@@ -15,4 +15,4 @@ For one who meditates on the five voids as [like] the variegated circles on a pe
 _Notes: Verses 32 (KSTS 8 / GRETIL numbering). The 'five voids' are read by commentators as the five sense-faculties or five elements (interpretation)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

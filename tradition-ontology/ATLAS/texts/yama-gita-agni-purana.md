@@ -16,5 +16,17 @@ The Yama Gītā 'spoken to Naciketas' as retold by Agni to Vasiṣṭha: the Ka�
 **Editions / translations:** 
   - kind: original; name: Gītāsaṅgraha (Poona 1915) prints all three Yama Gītās; licence: digitization terms unknown
 
+## Teachings (1: skeleton 1)
+
+### 381.1-37 <a id="tea-yama-gita-agni-purana-381-1-37"></a>
+`skeleton` · confidence moderate · [AI-translated]
+
+Agni to Vasiṣṭha: I shall tell the Yama Gītā spoken to Naciketas — the Self is not born and does not die; the body is a chariot, the intellect the charioteer, the senses horses; the goal is Viṣṇu's supreme abode; the final dissolution (ātyantika laya) consists in the Vedāntic knowledge of Brahman.
+
+_level: ultimate · standpoint: seeker · path: knowledge · stage: intermediate · types: karma-liberation, death-dying_
+
+teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
+
+
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

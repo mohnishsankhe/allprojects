@@ -16,5 +16,17 @@
 
 A gopī's reproachful song to a bee taken as Kṛṣṇa's messenger; Uddhava then praises the gopīs' love as the highest devotion.
 
+## Teachings (1: skeleton 1)
+
+### 10.47.12-21 <a id="tea-bhramara-gita-10-47-12-21"></a>
+`skeleton` · confidence moderate · [AI-translated]
+
+A gopī, addressing a bee as Kṛṣṇa's messenger, reproaches Kṛṣṇa for abandoning them, yet cannot stop speaking of him; Uddhava, witnessing their love, wishes to be a creeper in Vṛndāvana touched by the dust of their feet.
+
+_level: unmarked · standpoint: devotional · path: devotion · stage: advanced · types: powers-experiences_
+
+teachers: [Uddhava](../teachers/uddhava.md)
+
+
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

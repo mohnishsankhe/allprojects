@@ -1,14 +1,15 @@
 # Laugākṣi Bhāskara
 
-`tch:laugaksi-bhaskara` · `skeleton` · confidence low
+`tch:laugaksi-bhaskara` · `skeleton` · confidence high
 
-**Lineages:** [Nyāya](../lineages/nyaya.md), [Vaiśeṣika](../lineages/vaisesika.md), `lin:mimamsa`
+**Lineages:** [Bhāṭṭa Mīmāṃsā](../lineages/bhatta-mimamsa.md), [Nyāya](../lineages/nyaya.md), [Vaiśeṣika](../lineages/vaisesika.md), [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md)
 **Dates:** Scholarly account: 17th c. CE; (confidence low)
 **Historicity:** historical
 **Works:** 
+  - [Arthasaṅgraha](../texts/arthasangraha.md) — attribution: accepted
   - [Tarkakaumudī](../texts/tarkakaumudi.md) — attribution: traditional
 
-Author of the Tarkakaumudī (Nyāya-Vaiśeṣika) and of the Arthasaṅgraha, a Mīmāṃsā primer.
+Author of the Arthasaṅgraha, a beginner's primer of Bhāṭṭa Mīmāṃsā closely following Āpadeva, and of the Tarkakaumudī (Nyāya-Vaiśeṣika).
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._

@@ -25,4 +25,4 @@ The 'lineage of Hari', the supplement (khila) to the Mahābhārata: the genealog
 _Notes: Chapter count of the critical text given from memory (low confidence)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._

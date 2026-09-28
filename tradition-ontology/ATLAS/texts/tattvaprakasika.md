@@ -14,7 +14,7 @@
 **Availability:** digitized-original
 
 Jayatīrtha's commentary on Madhva's Brahmasūtrabhāṣya, itself the object of later commentaries (Vyāsatīrtha's Tātparyacandrikā, Rāghavendra's Bhāvadīpa).
-**Commentaries on this text:** [Tattvaprakāśikā-bhāvadīpa](tattvaprakasika-bhavadipa.md)
+**Commentaries on this text:** [Tātparyacandrikā](tatparyacandrika.md), [Tattvaprakāśikā-bhāvadīpa](tattvaprakasika-bhavadipa.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

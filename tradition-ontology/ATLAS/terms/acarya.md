@@ -1,0 +1,21 @@
+# ācārya
+
+`trm:acarya` · `skeleton` · confidence high
+
+**Language:** Sanskrit
+**Native script:** आचार्य
+**Literal:** teacher
+
+## Definitions by tradition
+- [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): The teacher who, initiating the student, bears him three nights as an embryo (AVŚ 11.5.3).
+- [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): The true teacher (sadācārya) of the unbroken lineage, who imparts the five sacraments and the secret mantras out of compassion.
+- [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): The teacher who initiates and teaches the Veda with its ritual and secret parts, 'from whom one gathers the dharmas' (ĀpDh 1.1.1.14); ten times more venerable than a sub-teacher (MDh 2.145).
+- [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Teacher: knowledge learned from a teacher leads most surely to the goal (ChU 4.9.3); 'a person who has a teacher knows' (ChU 6.14.2); 'let your teacher be a god to you' (TU 1.11.2).
+- [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md): The consecrated teacher (also deśika, guru) empowered to initiate and to perform installations.
+
+## Forms in other languages
+
+## Equivalents (interpretation layer)
+
+---
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U14-visistadvaita, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

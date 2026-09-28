@@ -5,7 +5,7 @@
 **Alternate titles:** Svāyambhuva (early)
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:saiva-siddhanta`, [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
+**Lineages:** [Śaiva Siddhānta](../lineages/saiva-siddhanta.md), [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
 **Genre:** tantra
 **Authors:** 
   - [Sadyojyoti](../teachers/sadyojyoti.md) — role: commentator; attribution: accepted
@@ -18,4 +18,4 @@ An early Siddhānta scripture representing the Svāyambhuva; its vidyāpāda (do
 **Commentaries on this text:** [Svāyambhuvasūtrasaṅgraha-vṛtti](svayambhuvasutrasangraha-vrtti.md)
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

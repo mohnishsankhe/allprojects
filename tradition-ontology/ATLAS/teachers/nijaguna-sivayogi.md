@@ -12,4 +12,4 @@
 Vīraśaiva yogin and author of the Kannada encyclopaedia Vivekacintāmaṇi and of the songs of the Kaivalya Paddhati.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._

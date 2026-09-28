@@ -21,7 +21,75 @@ A dialogue in which the Goddess (Bhairavī) asks Bhairava about his true nature;
   - kind: translation; name: Lilian Silburn, Le Vijñāna Bhairava (1961) - reference only
 **Commentaries on this text:** [Vijñānabhairavoddyota](vijnana-bhairava-uddyota.md), [Vijñānabhairavavivṛti (Śivopādhyāya)](vijnana-bhairava-vivrti-sivopadhyaya.md), [Vijñānakaumudī](vijnana-kaumudi.md)
 
-## Teachings (112: skeleton 112)
+## Teachings (132: skeleton 132)
+
+### 1 <a id="tea-vijnana-bhairava-tantra-1"></a>
+`skeleton` · confidence high
+
+The Goddess says she has heard all that has come forth from the Rudrayāmala, the Trika in all its divisions, portion by portion as the essence of essences.
+
+> śrutaṃ deva mayā sarvaṃ rudrayāmalasambhavam / trikabhedam aśeṣeṇa sārāt sāravibhāgaśaḥ
+
+_level: conventional · standpoint: divine · path: general · stage: all · types: teacher-transmission_
+
+### 2-6 <a id="tea-vijnana-bhairava-tantra-2-6"></a>
+`skeleton` · confidence high
+
+Her doubt remains: what is Bhairava's nature in truth - made of the kalās of the mass of sounds, or the ninefold, or the three-headed, or of three powers, or of nāda and bindu, or the half-moon and nirodhikā, or the vowelless mounted on the wheel, or power itself? And if the supreme had parts it would contradict its supremacy, which cannot come from distinctions of letters or bodies but only from being partless.
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: all · types: ultimate_
+
+### 7-10 <a id="tea-vijnana-bhairava-tantra-7-10"></a>
+`skeleton` · confidence high
+
+Bhairava: 'Well asked - this is the essence of tantra, most secret, yet I will tell you. Whatever form of Bhairava with parts has been proclaimed is to be known as without essence, like a magic show, like māyā and dream, like the illusion of a city of gandharvas - described only as a support of meditation for people of confused understanding, occupied with the pomp of ritual, struck down by thought-constructs.'
+
+_level: bridging · standpoint: divine · path: knowledge · stage: all · types: ultimate_
+
+disputes: `dsp:saguna-nirguna`
+
+### 11-13 <a id="tea-vijnana-bhairava-tantra-11-13"></a>
+`skeleton` · confidence high
+
+In truth he is not the ninefold, not the mass of sounds, not the three-headed god, not of three powers, not made of nāda and bindu, nor the half-moon and nirodhikā, nor pierced by the sequence of wheels, nor of the form of power: these are bugbears for the unawakened, like a mother's sweets, told to make them take up practice.
+
+_level: bridging · standpoint: apophatic · path: knowledge · stage: all · types: ultimate_
+
+disputes: `dsp:saguna-nirguna`
+
+### 14-16 <a id="tea-vijnana-bhairava-tantra-14-16"></a>
+`skeleton` · confidence high
+
+In the supreme sense [Bhairava's state] is free of the reckoning of direction and time, not specifiable by place, indescribable; the state that is the bliss of one's own inner experience, free of thought-constructs, full (bharitākārā), is Bhairavī of Bhairava. That should be known as his true form, stainless, filling the universe. In such a supreme principle, who is worshipped and who is satisfied?
+
+_level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate_
+
+terms: [bharita](../terms/bharita.md), [Bhairava / Mahābhairava](../terms/bhairava.md)
+
+### 17-19 <a id="tea-vijnana-bhairava-tantra-17-19"></a>
+`skeleton` · confidence high
+
+The state of Bhairava thus sung is proclaimed as Parā, the supreme Goddess in her supreme form. As power and its possessor are always non-different, the supreme power belongs to the supreme Self as property to its bearer; the burning power of fire is not conceived as separate from fire. [Speaking of the Goddess] is only a beginning for entry into the being of knowledge.
+
+_level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate_
+
+terms: [śakti](../terms/sakti.md), [Parā (the supreme Goddess)](../terms/para-devi.md) · concepts: [The triads of the Trika](../concepts/trika-triad.md)
+
+### 20-21 <a id="tea-vijnana-bhairava-tantra-20-21"></a>
+`skeleton` · confidence high
+
+For one who has entered the state of power, by undivided contemplation, he becomes of Śiva's form; the Śaivī [power] is called the 'mouth' (entrance). As directions and the rest are known by the light of a lamp or the rays of the sun, so Śiva is known through power, beloved.
+
+_level: bridging · standpoint: seeker · path: knowledge, meditation · stage: all · types: practice, ultimate_
+
+terms: [śakti](../terms/sakti.md)
+
+### 22-23 <a id="tea-vijnana-bhairava-tantra-22-23"></a>
+`skeleton` · confidence high
+
+The Goddess asks: by what means is the state of Bhairava - void of direction, place and time, beyond designation, full - attained, and how is Parā its entrance? 'Tell me so that I may know it rightly.'
+
+_level: conventional · standpoint: seeker · path: general · stage: all · types: practice_
 
 ### 24 <a id="tea-vijnana-bhairava-tantra-24"></a>
 `skeleton` · confidence moderate
@@ -32,7 +100,7 @@ The supreme [Goddess], whose nature is emission (visarga), sounds forth as prā�
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: unmarked · types: practice, body-layers_
 
-terms: `trm:prana`, `trm:visarga`, `trm:bharita` · concepts: `cpt:madhya-centre` · practices: [Vijñāna Bhairava dhāraṇā 1: Fullness at the two points where the breath arises](../practices/vbt-dharana-1.md)
+terms: [prāṇa](../terms/prana.md), [visarga](../terms/visarga.md), [bharita](../terms/bharita.md) · concepts: [The centre or gap (madhya)](../concepts/madhya-centre.md) · practices: [Vijñāna Bhairava dhāraṇā 1: Fullness at the two points where the breath arises](../practices/vbt-dharana-1.md)
 
 ### 25 <a id="tea-vijnana-bhairava-tantra-25"></a>
 `skeleton` · confidence moderate
@@ -41,7 +109,7 @@ When the breath, moving inward or outward, does not turn back from the two space
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: unmarked · types: practice, body-layers_
 
-terms: `trm:prana`, `trm:sunya` · concepts: `cpt:madhya-centre` · practices: [Vijñāna Bhairava dhāraṇā 2: The two voids at the turning points of the breath](../practices/vbt-dharana-2.md)
+terms: [prāṇa](../terms/prana.md), [śūnya](../terms/sunya.md) · concepts: [The centre or gap (madhya)](../concepts/madhya-centre.md) · practices: [Vijñāna Bhairava dhāraṇā 2: The two voids at the turning points of the breath](../practices/vbt-dharana-2.md)
 
 ### 26 <a id="tea-vijnana-bhairava-tantra-26"></a>
 `skeleton` · confidence moderate
@@ -50,7 +118,7 @@ When the power (śakti) in the form of breath neither goes out nor enters and [t
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: unmarked · types: practice, body-layers_
 
-terms: `trm:prana`, `trm:madhya`, `trm:nirvikalpa` · concepts: `cpt:madhya-centre` · practices: [Vijñāna Bhairava dhāraṇā 3: Suspension of the breath-power in the centre](../practices/vbt-dharana-3.md)
+terms: [prāṇa](../terms/prana.md), [madhya](../terms/madhya.md), [nirvikalpa](../terms/nirvikalpa.md) · concepts: [The centre or gap (madhya)](../concepts/madhya-centre.md) · practices: [Vijñāna Bhairava dhāraṇā 3: Suspension of the breath-power in the centre](../practices/vbt-dharana-3.md)
 
 ### 27 <a id="tea-vijnana-bhairava-tantra-27"></a>
 `skeleton` · confidence moderate
@@ -59,7 +127,7 @@ Whenever [the breath-power] is held, expelled or drawn in, at the end of that th
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: unmarked · types: practice, body-layers_
 
-terms: `trm:prana`, `trm:kumbhaka` · practices: [Vijñāna Bhairava dhāraṇā 4: Peace at the end of retention, exhalation or inhalation](../practices/vbt-dharana-4.md)
+terms: [prāṇa](../terms/prana.md), [kumbhaka](../terms/kumbhaka.md) · practices: [Vijñāna Bhairava dhāraṇā 4: Peace at the end of retention, exhalation or inhalation](../practices/vbt-dharana-4.md)
 
 ### 28 <a id="tea-vijnana-bhairava-tantra-28"></a>
 `skeleton` · confidence moderate
@@ -68,7 +136,7 @@ One should contemplate that [power] from the root (mūla), shining like rays, ev
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: unmarked · types: practice, body-layers_
 
-terms: `trm:kundalini`, `trm:dvadasanta` · practices: [Vijñāna Bhairava dhāraṇā 5: The power rising like rays from the root to the dvādaśānta](../practices/vbt-dharana-5.md)
+terms: [kuṇḍalinī](../terms/kundalini.md), [dvādaśānta](../terms/dvadasanta.md) · practices: [Vijñāna Bhairava dhāraṇā 5: The power rising like rays from the root to the dvādaśānta](../practices/vbt-dharana-5.md)
 
 ### 29 <a id="tea-vijnana-bhairava-tantra-29"></a>
 `skeleton` · confidence moderate
@@ -77,7 +145,7 @@ terms: `trm:kundalini`, `trm:dvadasanta` · practices: [Vijñāna Bhairava dhār
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: unmarked · types: practice, body-layers_
 
-terms: `trm:kundalini`, `trm:cakra` · practices: [Vijñāna Bhairava dhāraṇā 6: The power rising like lightning through the cakras](../practices/vbt-dharana-6.md)
+terms: [kuṇḍalinī](../terms/kundalini.md), [cakra](../terms/cakra.md) · practices: [Vijñāna Bhairava dhāraṇā 6: The power rising like lightning through the cakras](../practices/vbt-dharana-6.md)
 
 ### 30 <a id="tea-vijnana-bhairava-tantra-30"></a>
 `skeleton` · confidence moderate
@@ -86,7 +154,7 @@ The twelve stages, properly distinguished by twelve letters, [are to be passed t
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: unmarked · types: practice, body-layers_
 
-terms: `trm:varna`, `trm:dvadasanta` · practices: [Vijñāna Bhairava dhāraṇā 7: The twelve stages marked by twelve letters](../practices/vbt-dharana-7.md)
+terms: [varṇa](../terms/varna.md), [dvādaśānta](../terms/dvadasanta.md) · practices: [Vijñāna Bhairava dhāraṇā 7: The twelve stages marked by twelve letters](../practices/vbt-dharana-7.md)
 
 ### 31 <a id="tea-vijnana-bhairava-tantra-31"></a>
 `skeleton` · confidence moderate
@@ -95,7 +163,7 @@ Having quickly filled [the body] up to the crown with that [power] and broken th
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: unmarked · types: practice, body-layers_
 
-terms: `trm:nirvikalpa` · practices: [Vijñāna Bhairava dhāraṇā 8: Breaking through at the eyebrows to the crown](../practices/vbt-dharana-8.md)
+terms: [nirvikalpa](../terms/nirvikalpa.md) · practices: [Vijñāna Bhairava dhāraṇā 8: Breaking through at the eyebrows to the crown](../practices/vbt-dharana-8.md)
 
 ### 32 <a id="tea-vijnana-bhairava-tantra-32"></a>
 `skeleton` · confidence moderate
@@ -104,7 +172,7 @@ For one who meditates on the five voids as [like] the variegated circles on a pe
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:sunya`, `trm:hrdaya`, `trm:anuttara` · practices: [Vijñāna Bhairava dhāraṇā 9: The five voids like the eyes of a peacock's feather](../practices/vbt-dharana-9.md)
+terms: [śūnya](../terms/sunya.md), [hṛdaya](../terms/hrdaya.md), [anuttara](../terms/anuttara.md) · practices: [Vijñāna Bhairava dhāraṇā 9: The five voids like the eyes of a peacock's feather](../practices/vbt-dharana-9.md)
 
 ### 33 <a id="tea-vijnana-bhairava-tantra-33"></a>
 `skeleton` · confidence moderate
@@ -113,7 +181,7 @@ By this very method, contemplation on anything whatever - on a void, on a wall, 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:sunya` · practices: [Vijñāna Bhairava dhāraṇā 10: The same method on a void, a wall or a worthy vessel](../practices/vbt-dharana-10.md)
+terms: [śūnya](../terms/sunya.md) · practices: [Vijñāna Bhairava dhāraṇā 10: The same method on a void, a wall or a worthy vessel](../practices/vbt-dharana-10.md)
 
 ### 34 <a id="tea-vijnana-bhairava-tantra-34"></a>
 `skeleton` · confidence moderate
@@ -131,7 +199,7 @@ The central channel (madhyanāḍī), situated in the middle, [is to be meditate
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: unmarked · types: practice, body-layers_
 
-terms: `trm:susumna`, `trm:madhya` · practices: [Vijñāna Bhairava dhāraṇā 12: The central channel like a lotus fibre](../practices/vbt-dharana-12.md)
+terms: [suṣumṇā](../terms/susumna.md), [madhya](../terms/madhya.md) · practices: [Vijñāna Bhairava dhāraṇā 12: The central channel like a lotus fibre](../practices/vbt-dharana-12.md)
 
 ### 36 <a id="tea-vijnana-bhairava-tantra-36"></a>
 `skeleton` · confidence moderate
@@ -140,7 +208,7 @@ Blocking the eyes with the 'weapon' of the hands, piercing at the brows and clos
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:bindu` · practices: [Vijñāna Bhairava dhāraṇā 13: Closing the sense-doors: the bindu between the brows](../practices/vbt-dharana-13.md)
+terms: [bindu](../terms/bindu.md) · practices: [Vijñāna Bhairava dhāraṇā 13: Closing the sense-doors: the bindu between the brows](../practices/vbt-dharana-13.md)
 
 ### 37 <a id="tea-vijnana-bhairava-tantra-37"></a>
 `skeleton` · confidence moderate
@@ -149,7 +217,7 @@ For one who meditates on the point (bindu) - shaped like a subtle fiery mark ari
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:bindu`, `trm:hrdaya` · practices: [Vijñāna Bhairava dhāraṇā 14: The bindu like a subtle spark, at the crest or in the heart](../practices/vbt-dharana-14.md)
+terms: [bindu](../terms/bindu.md), [hṛdaya](../terms/hrdaya.md) · practices: [Vijñāna Bhairava dhāraṇā 14: The bindu like a subtle spark, at the crest or in the heart](../practices/vbt-dharana-14.md)
 
 ### 38 <a id="tea-vijnana-bhairava-tantra-38"></a>
 `skeleton` · confidence moderate
@@ -158,7 +226,7 @@ One who is immersed in the Sound-Brahman - the unstruck (anāhata), unbroken sou
 
 _level: conventional · standpoint: seeker · path: sound, meditation · stage: unmarked · types: practice, sound-language_
 
-terms: `trm:anahata`, `trm:nada`, `trm:sabdabrahman` · practices: [Vijñāna Bhairava dhāraṇā 15: The unstruck sound (anāhata)](../practices/vbt-dharana-15.md)
+terms: [anāhata](../terms/anahata.md), [nāda](../terms/nada.md), [śabdabrahman](../terms/sabdabrahman.md) · practices: [Vijñāna Bhairava dhāraṇā 15: The unstruck sound (anāhata)](../practices/vbt-dharana-15.md)
 
 ### 39 <a id="tea-vijnana-bhairava-tantra-39"></a>
 `skeleton` · confidence moderate
@@ -167,7 +235,7 @@ By uttering the praṇava (Oṃ) and the like, and contemplating the void at the
 
 _level: conventional · standpoint: seeker · path: sound, meditation · stage: unmarked · types: practice, sound-language_
 
-terms: `trm:om`, `trm:sunya` · practices: [Vijñāna Bhairava dhāraṇā 16: Uttering Oṃ and resting in the void at its end](../practices/vbt-dharana-16.md)
+terms: [oṃ](../terms/om.md), [śūnya](../terms/sunya.md) · practices: [Vijñāna Bhairava dhāraṇā 16: Uttering Oṃ and resting in the void at its end](../practices/vbt-dharana-16.md)
 
 ### 40 <a id="tea-vijnana-bhairava-tantra-40"></a>
 `skeleton` · confidence moderate
@@ -176,7 +244,7 @@ One should contemplate the beginning and the end of any sound (varṇa) whatever
 
 _level: conventional · standpoint: seeker · path: sound, meditation · stage: unmarked · types: practice, sound-language_
 
-terms: `trm:varna`, `trm:sunya` · practices: [Vijñāna Bhairava dhāraṇā 17: The void before and after any sound](../practices/vbt-dharana-17.md)
+terms: [varṇa](../terms/varna.md), [śūnya](../terms/sunya.md) · practices: [Vijñāna Bhairava dhāraṇā 17: The void before and after any sound](../practices/vbt-dharana-17.md)
 
 ### 41 <a id="tea-vijnana-bhairava-tantra-41"></a>
 `skeleton` · confidence moderate
@@ -185,7 +253,7 @@ In the long, successive sounds of stringed and other instruments, one whose mind
 
 _level: conventional · standpoint: seeker · path: sound, meditation · stage: unmarked · types: practice, sound-language_
 
-terms: `trm:nada` · practices: [Vijñāna Bhairava dhāraṇā 18: The fading sounds of stringed instruments](../practices/vbt-dharana-18.md)
+terms: [nāda](../terms/nada.md) · practices: [Vijñāna Bhairava dhāraṇā 18: The fading sounds of stringed instruments](../practices/vbt-dharana-18.md)
 
 ### 42 <a id="tea-vijnana-bhairava-tantra-42"></a>
 `skeleton` · confidence moderate
@@ -194,7 +262,7 @@ Of any compound seed-mantra (piṇḍamantra), by [uttering] its gross letters i
 
 _level: conventional · standpoint: seeker · path: sound, meditation · stage: unmarked · types: practice, sound-language_
 
-terms: `trm:bindu`, `trm:nada`, `trm:mantra` · practices: [Vijñāna Bhairava dhāraṇā 19: A seed-mantra dissolved into its subtle phases and the void](../practices/vbt-dharana-19.md)
+terms: [bindu](../terms/bindu.md), [nāda](../terms/nada.md), [mantra](../terms/mantra.md) · practices: [Vijñāna Bhairava dhāraṇā 19: A seed-mantra dissolved into its subtle phases and the void](../practices/vbt-dharana-19.md)
 
 ### 43 <a id="tea-vijnana-bhairava-tantra-43"></a>
 `skeleton` · confidence moderate
@@ -203,7 +271,7 @@ One should contemplate space in all directions simultaneously in one's own body;
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:sunya`, `trm:nirvikalpa` · practices: [Vijñāna Bhairava dhāraṇā 20: The body as space in all directions at once](../practices/vbt-dharana-20.md)
+terms: [śūnya](../terms/sunya.md), [nirvikalpa](../terms/nirvikalpa.md) · practices: [Vijñāna Bhairava dhāraṇā 20: The body as space in all directions at once](../practices/vbt-dharana-20.md)
 
 ### 44-45 <a id="tea-vijnana-bhairava-tantra-44-45"></a>
 `skeleton` · confidence moderate
@@ -212,7 +280,7 @@ Whoever contemplates simultaneously the void 'behind/above' (pṛṣṭha) and t
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:sunya`, `trm:hrdaya`, `trm:nirvikalpa` · practices: [Vijñāna Bhairava dhāraṇā 21: The voids above, at the root and in the heart](../practices/vbt-dharana-21.md)
+terms: [śūnya](../terms/sunya.md), [hṛdaya](../terms/hrdaya.md), [nirvikalpa](../terms/nirvikalpa.md) · practices: [Vijñāna Bhairava dhāraṇā 21: The voids above, at the root and in the heart](../practices/vbt-dharana-21.md)
 
 ### 46 <a id="tea-vijnana-bhairava-tantra-46"></a>
 `skeleton` · confidence moderate
@@ -221,7 +289,7 @@ One should contemplate voidness in [any] part of the body even for a moment; fre
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:sunya`, `trm:nirvikalpa` · practices: [Vijñāna Bhairava dhāraṇā 22: Voidness in a part of the body, for a moment](../practices/vbt-dharana-22.md)
+terms: [śūnya](../terms/sunya.md), [nirvikalpa](../terms/nirvikalpa.md) · practices: [Vijñāna Bhairava dhāraṇā 22: Voidness in a part of the body, for a moment](../practices/vbt-dharana-22.md)
 
 ### 47 <a id="tea-vijnana-bhairava-tantra-47"></a>
 `skeleton` · confidence moderate
@@ -230,7 +298,7 @@ O doe-eyed one, one should contemplate all the substance within the body as perv
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:sunya` · practices: [Vijñāna Bhairava dhāraṇā 23: The body's substance pervaded by space](../practices/vbt-dharana-23.md)
+terms: [śūnya](../terms/sunya.md) · practices: [Vijñāna Bhairava dhāraṇā 23: The body's substance pervaded by space](../practices/vbt-dharana-23.md)
 
 ### 48 <a id="tea-vijnana-bhairava-tantra-48"></a>
 `skeleton` · confidence moderate
@@ -239,7 +307,7 @@ One should contemplate the skin as a wall enclosing the body, with nothing insid
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:sunya` · practices: [Vijñāna Bhairava dhāraṇā 24: The skin as a wall with nothing within](../practices/vbt-dharana-24.md)
+terms: [śūnya](../terms/sunya.md) · practices: [Vijñāna Bhairava dhāraṇā 24: The skin as a wall with nothing within](../practices/vbt-dharana-24.md)
 
 ### 49 <a id="tea-vijnana-bhairava-tantra-49"></a>
 `skeleton` · confidence moderate
@@ -248,7 +316,7 @@ One whose senses are dissolved in the space of the heart, dwelling in the middle
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:hrdaya` · concepts: `cpt:hrdaya-heart` · practices: [Vijñāna Bhairava dhāraṇā 25: The space of the heart-lotus](../practices/vbt-dharana-25.md)
+terms: [hṛdaya](../terms/hrdaya.md) · concepts: [The heart and the space within it](../concepts/hrdaya-heart.md) · practices: [Vijñāna Bhairava dhāraṇā 25: The space of the heart-lotus](../practices/vbt-dharana-25.md)
 
 ### 50 <a id="tea-vijnana-bhairava-tantra-50"></a>
 `skeleton` · confidence moderate
@@ -257,7 +325,7 @@ By dissolving the mind in the dvādaśānta of one's own body on all sides, for 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:dvadasanta` · practices: [Vijñāna Bhairava dhāraṇā 26: Dissolving the mind in the dvādaśānta](../practices/vbt-dharana-26.md)
+terms: [dvādaśānta](../terms/dvadasanta.md) · practices: [Vijñāna Bhairava dhāraṇā 26: Dissolving the mind in the dvādaśānta](../practices/vbt-dharana-26.md)
 
 ### 51 <a id="tea-vijnana-bhairava-tantra-51"></a>
 `skeleton` · confidence moderate
@@ -266,7 +334,7 @@ However and wherever [one may be], one should cast the mind into the dvādaśān
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:dvadasanta` · practices: [Vijñāna Bhairava dhāraṇā 27: Casting the mind into the dvādaśānta at any time](../practices/vbt-dharana-27.md)
+terms: [dvādaśānta](../terms/dvadasanta.md) · practices: [Vijñāna Bhairava dhāraṇā 27: Casting the mind into the dvādaśānta at any time](../practices/vbt-dharana-27.md)
 
 ### 52 <a id="tea-vijnana-bhairava-tantra-52"></a>
 `skeleton` · confidence moderate
@@ -275,7 +343,7 @@ One should contemplate one's own 'city' (the body) as burnt by the fire of Kāl�
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:kalagni` · practices: [Vijñāna Bhairava dhāraṇā 28: One's own body burnt by the fire of time](../practices/vbt-dharana-28.md)
+terms: [Kālāgni](../terms/kalagni.md) · practices: [Vijñāna Bhairava dhāraṇā 28: One's own body burnt by the fire of time](../practices/vbt-dharana-28.md)
 
 ### 53 <a id="tea-vijnana-bhairava-tantra-53"></a>
 `skeleton` · confidence moderate
@@ -284,7 +352,7 @@ In the same way, having meditated, by imagination, on the whole world as burnt, 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:kalagni` · practices: [Vijñāna Bhairava dhāraṇā 29: The whole world burnt](../practices/vbt-dharana-29.md)
+terms: [Kālāgni](../terms/kalagni.md) · practices: [Vijñāna Bhairava dhāraṇā 29: The whole world burnt](../practices/vbt-dharana-29.md)
 
 ### 54 <a id="tea-vijnana-bhairava-tantra-54"></a>
 `skeleton` · confidence moderate
@@ -293,7 +361,7 @@ Having meditated on the tattvas of one's own body or of the world as dissolving 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:tattva` · concepts: `cpt:thirty-six-tattvas` · practices: [Vijñāna Bhairava dhāraṇā 30: Dissolving the tattvas into the subtler](../practices/vbt-dharana-30.md)
+terms: [tattva](../terms/tattva.md) · concepts: [The thirty-six principles (ṣaṭtriṃśat-tattva)](../concepts/thirty-six-tattvas.md) · practices: [Vijñāna Bhairava dhāraṇā 30: Dissolving the tattvas into the subtler](../practices/vbt-dharana-30.md)
 
 ### 55 <a id="tea-vijnana-bhairava-tantra-55"></a>
 `skeleton` · confidence moderate
@@ -302,7 +370,7 @@ Having meditated on the power (śakti), [first] thick and [then] feeble, in the 
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: unmarked · types: practice, body-layers_
 
-terms: `trm:sakti`, `trm:dvadasanta`, `trm:hrdaya`, `trm:svatantrya` · practices: [Vijñāna Bhairava dhāraṇā 31: The power, thick then thin, in the twelve and in the heart](../practices/vbt-dharana-31.md)
+terms: [śakti](../terms/sakti.md), [dvādaśānta](../terms/dvadasanta.md), [hṛdaya](../terms/hrdaya.md), [svātantrya](../terms/svatantrya.md) · practices: [Vijñāna Bhairava dhāraṇā 31: The power, thick then thin, in the twelve and in the heart](../practices/vbt-dharana-31.md)
 
 ### 56 <a id="tea-vijnana-bhairava-tantra-56"></a>
 `skeleton` · confidence moderate
@@ -311,7 +379,7 @@ One should contemplate the whole in the form of the path of worlds (bhuvanādhva
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:adhvan` · concepts: `cpt:six-adhvans` · practices: [Vijñāna Bhairava dhāraṇā 32: The paths of the cosmos, gross to supreme](../practices/vbt-dharana-32.md)
+terms: [adhvan](../terms/adhvan.md) · concepts: [The six paths (ṣaḍadhvan)](../concepts/six-adhvans.md) · practices: [Vijñāna Bhairava dhāraṇā 32: The paths of the cosmos, gross to supreme](../practices/vbt-dharana-32.md)
 
 ### 57 <a id="tea-vijnana-bhairava-tantra-57"></a>
 `skeleton` · confidence moderate
@@ -320,7 +388,7 @@ Having meditated, by the procedure of the paths, on the Śaiva principle at the 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:adhvan`, `trm:tattva` · concepts: `cpt:six-adhvans` · practices: [Vijñāna Bhairava dhāraṇā 33: The Śiva-principle at the limits of the universe](../practices/vbt-dharana-33.md)
+terms: [adhvan](../terms/adhvan.md), [tattva](../terms/tattva.md) · concepts: [The six paths (ṣaḍadhvan)](../concepts/six-adhvans.md) · practices: [Vijñāna Bhairava dhāraṇā 33: The Śiva-principle at the limits of the universe](../practices/vbt-dharana-33.md)
 
 ### 58 <a id="tea-vijnana-bhairava-tantra-58"></a>
 `skeleton` · confidence moderate
@@ -329,7 +397,7 @@ O great Goddess, one should contemplate this universe as void; the mind dissolve
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:sunya` · practices: [Vijñāna Bhairava dhāraṇā 34: The universe as void](../practices/vbt-dharana-34.md)
+terms: [śūnya](../terms/sunya.md) · practices: [Vijñāna Bhairava dhāraṇā 34: The universe as void](../practices/vbt-dharana-34.md)
 
 ### 59 <a id="tea-vijnana-bhairava-tantra-59"></a>
 `skeleton` · confidence moderate
@@ -338,7 +406,7 @@ One should cast one's gaze into a pot or other vessel, leaving aside its walls; 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:sunya` · practices: [Vijñāna Bhairava dhāraṇā 35: Gazing into the space of a vessel](../practices/vbt-dharana-35.md)
+terms: [śūnya](../terms/sunya.md) · practices: [Vijñāna Bhairava dhāraṇā 35: Gazing into the space of a vessel](../practices/vbt-dharana-35.md)
 
 ### 60 <a id="tea-vijnana-bhairava-tantra-60"></a>
 `skeleton` · confidence moderate
@@ -356,7 +424,7 @@ In the cognition of two things, having meditated, one should take refuge in the 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:madhya` · concepts: `cpt:madhya-centre` · practices: [Vijñāna Bhairava dhāraṇā 37: The middle between two cognitions](../practices/vbt-dharana-37.md)
+terms: [madhya](../terms/madhya.md) · concepts: [The centre or gap (madhya)](../concepts/madhya-centre.md) · practices: [Vijñāna Bhairava dhāraṇā 37: The middle between two cognitions](../practices/vbt-dharana-37.md)
 
 ### 62 <a id="tea-vijnana-bhairava-tantra-62"></a>
 `skeleton` · confidence moderate
@@ -365,7 +433,7 @@ When one object has been abandoned, [if] consciousness, held back, does not go t
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:madhya` · concepts: `cpt:madhya-centre` · practices: [Vijñāna Bhairava dhāraṇā 38: Between leaving one object and taking up another](../practices/vbt-dharana-38.md)
+terms: [madhya](../terms/madhya.md) · concepts: [The centre or gap (madhya)](../concepts/madhya-centre.md) · practices: [Vijñāna Bhairava dhāraṇā 38: Between leaving one object and taking up another](../practices/vbt-dharana-38.md)
 
 ### 63 <a id="tea-vijnana-bhairava-tantra-63"></a>
 `skeleton` · confidence moderate
@@ -374,7 +442,7 @@ One should contemplate the whole body, or the world, as made of consciousness, a
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:citi`, `trm:nirvikalpa` · practices: [Vijñāna Bhairava dhāraṇā 39: Body and world as consciousness](../practices/vbt-dharana-39.md)
+terms: [citi](../terms/citi.md), [nirvikalpa](../terms/nirvikalpa.md) · practices: [Vijñāna Bhairava dhāraṇā 39: Body and world as consciousness](../practices/vbt-dharana-39.md)
 
 ### 64 <a id="tea-vijnana-bhairava-tantra-64"></a>
 `skeleton` · confidence moderate
@@ -383,7 +451,7 @@ Through the meeting of the two breaths, inside or outside, at the end the yogin 
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: unmarked · types: practice, body-layers_
 
-terms: `trm:prana`, `trm:madhya` · practices: [Vijñāna Bhairava dhāraṇā 40: The meeting of the two breaths](../practices/vbt-dharana-40.md)
+terms: [prāṇa](../terms/prana.md), [madhya](../terms/madhya.md) · practices: [Vijñāna Bhairava dhāraṇā 40: The meeting of the two breaths](../practices/vbt-dharana-40.md)
 
 ### 65 <a id="tea-vijnana-bhairava-tantra-65"></a>
 `skeleton` · confidence moderate
@@ -392,7 +460,7 @@ One should remember the whole world, or one's own body, as filled with one's own
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:ananda` · practices: [Vijñāna Bhairava dhāraṇā 41: World and body filled with one's own bliss](../practices/vbt-dharana-41.md)
+terms: [ānanda](../terms/ananda.md) · practices: [Vijñāna Bhairava dhāraṇā 41: World and body filled with one's own bliss](../practices/vbt-dharana-41.md)
 
 ### 66 <a id="tea-vijnana-bhairava-tantra-66"></a>
 `skeleton` · confidence moderate
@@ -401,7 +469,7 @@ O doe-eyed one, by the practice called kuhana great bliss immediately arises, by
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:ananda` · practices: [Vijñāna Bhairava dhāraṇā 42: The practice called kuhana](../practices/vbt-dharana-42.md)
+terms: [ānanda](../terms/ananda.md) · practices: [Vijñāna Bhairava dhāraṇā 42: The practice called kuhana](../practices/vbt-dharana-42.md)
 
 ### 67 <a id="tea-vijnana-bhairava-tantra-67"></a>
 `skeleton` · confidence moderate
@@ -410,7 +478,7 @@ By blocking all the currents (srotas), with the breath-power slowly rising upwar
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: unmarked · types: practice, body-layers_
 
-terms: `trm:prana`, `trm:kundalini` · practices: [Vijñāna Bhairava dhāraṇā 43: Closing the currents: the ant-like sensation](../practices/vbt-dharana-43.md)
+terms: [prāṇa](../terms/prana.md), [kuṇḍalinī](../terms/kundalini.md) · practices: [Vijñāna Bhairava dhāraṇā 43: Closing the currents: the ant-like sensation](../practices/vbt-dharana-43.md)
 
 ### 68 <a id="tea-vijnana-bhairava-tantra-68"></a>
 `skeleton` · confidence moderate
@@ -419,7 +487,7 @@ One should cast the mind, full of pleasure, into the middle between 'fire' (vahn
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: unmarked · types: practice, body-layers_
 
-terms: `trm:ananda` · practices: [Vijñāna Bhairava dhāraṇā 44: Between 'fire' and 'poison'](../practices/vbt-dharana-44.md)
+terms: [ānanda](../terms/ananda.md) · practices: [Vijñāna Bhairava dhāraṇā 44: Between 'fire' and 'poison'](../practices/vbt-dharana-44.md)
 
 ### 69 <a id="tea-vijnana-bhairava-tantra-69"></a>
 `skeleton` · confidence moderate
@@ -428,7 +496,7 @@ The joy that comes at the culmination of absorption into power (śakti), stirred
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: unmarked · types: practice, body-layers_
 
-terms: `trm:ananda`, `trm:sakti` · practices: [Vijñāna Bhairava dhāraṇā 45: The joy of union as the joy of Brahman](../practices/vbt-dharana-45.md)
+terms: [ānanda](../terms/ananda.md), [śakti](../terms/sakti.md) · practices: [Vijñāna Bhairava dhāraṇā 45: The joy of union as the joy of Brahman](../practices/vbt-dharana-45.md)
 
 ### 70 <a id="tea-vijnana-bhairava-tantra-70"></a>
 `skeleton` · confidence moderate
@@ -437,7 +505,7 @@ Even without a consort, O queen of gods, from the fullness of the memory of the 
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: unmarked · types: practice, body-layers_
 
-terms: `trm:ananda` · practices: [Vijñāna Bhairava dhāraṇā 46: The memory of sexual joy](../practices/vbt-dharana-46.md)
+terms: [ānanda](../terms/ananda.md) · practices: [Vijñāna Bhairava dhāraṇā 46: The memory of sexual joy](../practices/vbt-dharana-46.md)
 
 ### 71 <a id="tea-vijnana-bhairava-tantra-71"></a>
 `skeleton` · confidence moderate
@@ -446,7 +514,7 @@ When great joy is obtained, or on seeing a relative after a long time, one shoul
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:ananda` · practices: [Vijñāna Bhairava dhāraṇā 47: The joy of reunion](../practices/vbt-dharana-47.md)
+terms: [ānanda](../terms/ananda.md) · practices: [Vijñāna Bhairava dhāraṇā 47: The joy of reunion](../practices/vbt-dharana-47.md)
 
 ### 72 <a id="tea-vijnana-bhairava-tantra-72"></a>
 `skeleton` · confidence moderate
@@ -455,7 +523,7 @@ From the expansion of the joy of taste produced by eating and drinking, one shou
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:bharita`, `trm:ananda` · practices: [Vijñāna Bhairava dhāraṇā 48: The delight of eating and drinking](../practices/vbt-dharana-48.md)
+terms: [bharita](../terms/bharita.md), [ānanda](../terms/ananda.md) · practices: [Vijñāna Bhairava dhāraṇā 48: The delight of eating and drinking](../practices/vbt-dharana-48.md)
 
 ### 73 <a id="tea-vijnana-bhairava-tantra-73"></a>
 `skeleton` · confidence moderate
@@ -464,7 +532,7 @@ For the yogin who is one with the incomparable joy of relishing song and other o
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:ananda` · practices: [Vijñāna Bhairava dhāraṇā 49: The joy of song and other sense-delights](../practices/vbt-dharana-49.md)
+terms: [ānanda](../terms/ananda.md) · practices: [Vijñāna Bhairava dhāraṇā 49: The joy of song and other sense-delights](../practices/vbt-dharana-49.md)
 
 ### 74 <a id="tea-vijnana-bhairava-tantra-74"></a>
 `skeleton` · confidence moderate
@@ -473,7 +541,7 @@ Wherever the mind finds satisfaction, there one should hold the mind; there the 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:ananda` · practices: [Vijñāna Bhairava dhāraṇā 50: Wherever the mind is satisfied](../practices/vbt-dharana-50.md)
+terms: [ānanda](../terms/ananda.md) · practices: [Vijñāna Bhairava dhāraṇā 50: Wherever the mind is satisfied](../practices/vbt-dharana-50.md)
 
 ### 75 <a id="tea-vijnana-bhairava-tantra-75"></a>
 `skeleton` · confidence moderate
@@ -482,7 +550,7 @@ When sleep has not yet come and the outer world has vanished, that state is to b
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:para-devi` · practices: [Vijñāna Bhairava dhāraṇā 51: The threshold of sleep](../practices/vbt-dharana-51.md)
+terms: [Parā (the supreme Goddess)](../terms/para-devi.md) · practices: [Vijñāna Bhairava dhāraṇā 51: The threshold of sleep](../practices/vbt-dharana-51.md)
 
 ### 76 <a id="tea-vijnana-bhairava-tantra-76"></a>
 `skeleton` · confidence moderate
@@ -500,7 +568,7 @@ Through [the seals] Karaṅkiṇī, Krodhanā, Bhairavī, Lelihānā and Khecar�
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: unmarked · types: practice, body-layers_
 
-terms: `trm:mudra`, `trm:khecari` · practices: [Vijñāna Bhairava dhāraṇā 53: The five mudrās: Karaṅkiṇī, Krodhanā, Bhairavī, Lelihānā, Khecarī](../practices/vbt-dharana-53.md)
+terms: [mudrā](../terms/mudra.md), [khecarī](../terms/khecari.md) · practices: [Vijñāna Bhairava dhāraṇā 53: The five mudrās: Karaṅkiṇī, Krodhanā, Bhairavī, Lelihānā, Khecarī](../practices/vbt-dharana-53.md)
 
 ### 78 <a id="tea-vijnana-bhairava-tantra-78"></a>
 `skeleton` · confidence moderate
@@ -527,7 +595,7 @@ Having cast an unmoving gaze on some gross object and quickly making the mind su
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:niradhara` · practices: [Vijñāna Bhairava dhāraṇā 56: An unmoving gaze on a gross object, then no support](../practices/vbt-dharana-56.md)
+terms: [nirādhāra](../terms/niradhara.md) · practices: [Vijñāna Bhairava dhāraṇā 56: An unmoving gaze on a gross object, then no support](../practices/vbt-dharana-56.md)
 
 ### 81 <a id="tea-vijnana-bhairava-tantra-81"></a>
 `skeleton` · confidence moderate
@@ -536,7 +604,7 @@ With the tongue in the middle of the wide-open mouth, placing awareness in the m
 
 _level: conventional · standpoint: seeker · path: sound, meditation · stage: unmarked · types: practice, sound-language_
 
-terms: `trm:varna` · practices: [Vijñāna Bhairava dhāraṇā 57: Mouth open, mentally uttering 'ha'](../practices/vbt-dharana-57.md)
+terms: [varṇa](../terms/varna.md) · practices: [Vijñāna Bhairava dhāraṇā 57: Mouth open, mentally uttering 'ha'](../practices/vbt-dharana-57.md)
 
 ### 82 <a id="tea-vijnana-bhairava-tantra-82"></a>
 `skeleton` · confidence moderate
@@ -545,7 +613,7 @@ Remaining on a seat or a bed, contemplating one's own body as without support, w
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:niradhara`, `trm:samskara` · practices: [Vijñāna Bhairava dhāraṇā 58: The body as supportless while sitting or lying](../practices/vbt-dharana-58.md)
+terms: [nirādhāra](../terms/niradhara.md), [saṃskāra](../terms/samskara.md) · practices: [Vijñāna Bhairava dhāraṇā 58: The body as supportless while sitting or lying](../practices/vbt-dharana-58.md)
 
 ### 83 <a id="tea-vijnana-bhairava-tantra-83"></a>
 `skeleton` · confidence moderate
@@ -563,7 +631,7 @@ Gazing at the clear sky with an unbroken gaze, becoming still, O Goddess, one at
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:bhairava` · practices: [Vijñāna Bhairava dhāraṇā 60: The clear sky: gazing, and absorbing it into the head](../practices/vbt-dharana-60.md)
+terms: [Bhairava / Mahābhairava](../terms/bhairava.md) · practices: [Vijñāna Bhairava dhāraṇā 60: The clear sky: gazing, and absorbing it into the head](../practices/vbt-dharana-60.md)
 
 ### 86 <a id="tea-vijnana-bhairava-tantra-86"></a>
 `skeleton` · confidence moderate
@@ -572,7 +640,7 @@ Partial knowing gives duality; the outer light [turns] again to darkness; knowin
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:bhairava`, `trm:prakasa` · practices: [Vijñāna Bhairava dhāraṇā 61: Bhairava's form beyond partial knowing, light and darkness](../practices/vbt-dharana-61.md)
+terms: [Bhairava / Mahābhairava](../terms/bhairava.md), [prakāśa](../terms/prakasa.md) · practices: [Vijñāna Bhairava dhāraṇā 61: Bhairava's form beyond partial knowing, light and darkness](../practices/vbt-dharana-61.md)
 
 ### 87 <a id="tea-vijnana-bhairava-tantra-87"></a>
 `skeleton` · confidence moderate
@@ -581,7 +649,7 @@ In the same way, on a dark night at the coming of the dark fortnight, contemplat
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:bhairava` · practices: [Vijñāna Bhairava dhāraṇā 62: The darkness of a moonless night](../practices/vbt-dharana-62.md)
+terms: [Bhairava / Mahābhairava](../terms/bhairava.md) · practices: [Vijñāna Bhairava dhāraṇā 62: The darkness of a moonless night](../practices/vbt-dharana-62.md)
 
 ### 88 <a id="tea-vijnana-bhairava-tantra-88"></a>
 `skeleton` · confidence moderate
@@ -590,7 +658,7 @@ In the same way, first closing the eyes, then extending the dark form in front a
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:bhairava` · practices: [Vijñāna Bhairava dhāraṇā 63: Closed eyes: the darkness in front as Bhairava](../practices/vbt-dharana-63.md)
+terms: [Bhairava / Mahābhairava](../terms/bhairava.md) · practices: [Vijñāna Bhairava dhāraṇā 63: Closed eyes: the darkness in front as Bhairava](../practices/vbt-dharana-63.md)
 
 ### 89 <a id="tea-vijnana-bhairava-tantra-89"></a>
 `skeleton` · confidence moderate
@@ -599,7 +667,7 @@ When any sense is obstructed or checked, for one who has entered the non-dual vo
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:sunya` · practices: [Vijñāna Bhairava dhāraṇā 64: Obstructing a sense](../practices/vbt-dharana-64.md)
+terms: [śūnya](../terms/sunya.md) · practices: [Vijñāna Bhairava dhāraṇā 64: Obstructing a sense](../practices/vbt-dharana-64.md)
 
 ### 90 <a id="tea-vijnana-bhairava-tantra-90"></a>
 `skeleton` · confidence moderate
@@ -608,7 +676,7 @@ For one who repeats the letter 'a' without the point (bindu) and without visarga
 
 _level: conventional · standpoint: seeker · path: sound, meditation · stage: unmarked · types: practice, sound-language_
 
-terms: `trm:anuttara`, `trm:varna`, `trm:bindu`, `trm:visarga` · practices: [Vijñāna Bhairava dhāraṇā 65: Repeating 'a' without bindu or visarga](../practices/vbt-dharana-65.md)
+terms: [anuttara](../terms/anuttara.md), [varṇa](../terms/varna.md), [bindu](../terms/bindu.md), [visarga](../terms/visarga.md) · practices: [Vijñāna Bhairava dhāraṇā 65: Repeating 'a' without bindu or visarga](../practices/vbt-dharana-65.md)
 
 ### 91 <a id="tea-vijnana-bhairava-tantra-91"></a>
 `skeleton` · confidence moderate
@@ -617,7 +685,7 @@ Of a sound that has visarga, place awareness at the end of the visarga; with a s
 
 _level: conventional · standpoint: seeker · path: sound, meditation · stage: unmarked · types: practice, sound-language_
 
-terms: `trm:visarga`, `trm:niradhara` · practices: [Vijñāna Bhairava dhāraṇā 66: Awareness at the end of the visarga](../practices/vbt-dharana-66.md)
+terms: [visarga](../terms/visarga.md), [nirādhāra](../terms/niradhara.md) · practices: [Vijñāna Bhairava dhāraṇā 66: Awareness at the end of the visarga](../practices/vbt-dharana-66.md)
 
 ### 92 <a id="tea-vijnana-bhairava-tantra-92"></a>
 `skeleton` · confidence moderate
@@ -626,7 +694,7 @@ One should meditate on one's own self as having the form of space, unenclosed by
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:citi`, `trm:niradhara` · practices: [Vijñāna Bhairava dhāraṇā 67: The self as boundless space](../practices/vbt-dharana-67.md)
+terms: [citi](../terms/citi.md), [nirādhāra](../terms/niradhara.md) · practices: [Vijñāna Bhairava dhāraṇā 67: The self as boundless space](../practices/vbt-dharana-67.md)
 
 ### 93 <a id="tea-vijnana-bhairava-tantra-93"></a>
 `skeleton` · confidence moderate
@@ -635,7 +703,7 @@ Having first pierced some part of the body with a sharp needle or the like, then
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:bhairava` · practices: [Vijñāna Bhairava dhāraṇā 68: Awareness joined to a point of sharp sensation](../practices/vbt-dharana-68.md)
+terms: [Bhairava / Mahābhairava](../terms/bhairava.md) · practices: [Vijñāna Bhairava dhāraṇā 68: Awareness joined to a point of sharp sensation](../practices/vbt-dharana-68.md)
 
 ### 94 <a id="tea-vijnana-bhairava-tantra-94"></a>
 `skeleton` · confidence moderate
@@ -644,7 +712,7 @@ One should contemplate: 'within me there is no inner organ, mind and so on'; thr
 
 _level: conventional · standpoint: seeker · path: knowledge, meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:vikalpa`, `trm:antahkarana` · practices: [Vijñāna Bhairava dhāraṇā 69: 'Within me there is no mind'](../practices/vbt-dharana-69.md)
+terms: [vikalpa](../terms/vikalpa.md), [antaḥkaraṇa](../terms/antahkarana.md) · practices: [Vijñāna Bhairava dhāraṇā 69: 'Within me there is no mind'](../practices/vbt-dharana-69.md)
 
 ### 95 <a id="tea-vijnana-bhairava-tantra-95"></a>
 `skeleton` · confidence moderate
@@ -653,7 +721,7 @@ terms: `trm:vikalpa`, `trm:antahkarana` · practices: [Vijñāna Bhairava dhāra
 
 _level: conventional · standpoint: seeker · path: knowledge, meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:maya`, `trm:kala-kancuka`, `trm:tattva` · concepts: `cpt:five-kancukas` · practices: [Vijñāna Bhairava dhāraṇā 70: Contemplating the functions of māyā and the tattvas](../practices/vbt-dharana-70.md)
+terms: [māyā](../terms/maya.md), [kalā (kañcuka)](../terms/kala-kancuka.md), [tattva](../terms/tattva.md) · concepts: [The five sheaths of limitation (kañcuka)](../concepts/five-kancukas.md) · practices: [Vijñāna Bhairava dhāraṇā 70: Contemplating the functions of māyā and the tattvas](../practices/vbt-dharana-70.md)
 
 ### 96 <a id="tea-vijnana-bhairava-tantra-96"></a>
 `skeleton` · confidence moderate
@@ -662,7 +730,7 @@ Observing a desire that has suddenly arisen, one should bring it to rest; it dis
 
 _level: conventional · standpoint: seeker · path: meditation, knowledge · stage: unmarked · types: practice, consciousness-mind, ethics_
 
-terms: `trm:iccha` · practices: [Vijñāna Bhairava dhāraṇā 71: Quieting a desire at its source](../practices/vbt-dharana-71.md) · obstacles: `obs:sadripu`
+terms: [icchā](../terms/iccha.md) · practices: [Vijñāna Bhairava dhāraṇā 71: Quieting a desire at its source](../practices/vbt-dharana-71.md) · obstacles: [The six enemies: desire, anger, greed, delusion, pride, envy](../obstacles/sadripu.md)
 
 ### 97 <a id="tea-vijnana-bhairava-tantra-97"></a>
 `skeleton` · confidence moderate
@@ -671,7 +739,7 @@ terms: `trm:iccha` · practices: [Vijñāna Bhairava dhāraṇā 71: Quieting a 
 
 _level: conventional · standpoint: seeker · path: knowledge, meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:iccha`, `trm:jnana` · practices: [Vijñāna Bhairava dhāraṇā 72: 'Who am I before desire or knowledge arises?'](../practices/vbt-dharana-72.md)
+terms: [icchā](../terms/iccha.md), [jñāna](../terms/jnana.md) · practices: [Vijñāna Bhairava dhāraṇā 72: 'Who am I before desire or knowledge arises?'](../practices/vbt-dharana-72.md)
 
 ### 98 <a id="tea-vijnana-bhairava-tantra-98"></a>
 `skeleton` · confidence moderate
@@ -680,7 +748,7 @@ When a desire or a cognition has arisen, one should fix the mind on it with the 
 
 _level: conventional · standpoint: seeker · path: knowledge, meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:iccha`, `trm:jnana` · practices: [Vijñāna Bhairava dhāraṇā 73: Resting in desire or cognition as the self](../practices/vbt-dharana-73.md)
+terms: [icchā](../terms/iccha.md), [jñāna](../terms/jnana.md) · practices: [Vijñāna Bhairava dhāraṇā 73: Resting in desire or cognition as the self](../practices/vbt-dharana-73.md)
 
 ### 99 <a id="tea-vijnana-bhairava-tantra-99"></a>
 `skeleton` · confidence moderate
@@ -689,7 +757,7 @@ Knowledge is without cause, without support, deceptive; in truth it belongs to n
 
 _level: conventional · standpoint: seeker · path: knowledge, meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:jnana` · practices: [Vijñāna Bhairava dhāraṇā 74: Knowledge as groundless](../practices/vbt-dharana-74.md)
+terms: [jñāna](../terms/jnana.md) · practices: [Vijñāna Bhairava dhāraṇā 74: Knowledge as groundless](../practices/vbt-dharana-74.md)
 
 ### 100 <a id="tea-vijnana-bhairava-tantra-100"></a>
 `skeleton` · confidence moderate
@@ -698,7 +766,7 @@ The quality of consciousness is in all bodies; nowhere is there any difference. 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:citi` · practices: [Vijñāna Bhairava dhāraṇā 75: The same consciousness in all bodies](../practices/vbt-dharana-75.md)
+terms: [citi](../terms/citi.md) · practices: [Vijñāna Bhairava dhāraṇā 75: The same consciousness in all bodies](../practices/vbt-dharana-75.md)
 
 ### 101 <a id="tea-vijnana-bhairava-tantra-101"></a>
 `skeleton` · confidence moderate
@@ -707,7 +775,7 @@ In the grip of desire, anger, greed, delusion, pride or envy, making the underst
 
 _level: conventional · standpoint: seeker · path: meditation, knowledge · stage: unmarked · types: practice, consciousness-mind, ethics_
 
-practices: [Vijñāna Bhairava dhāraṇā 76: Stillness in the grip of the passions](../practices/vbt-dharana-76.md) · obstacles: `obs:sadripu`
+practices: [Vijñāna Bhairava dhāraṇā 76: Stillness in the grip of the passions](../practices/vbt-dharana-76.md) · obstacles: [The six enemies: desire, anger, greed, delusion, pride, envy](../obstacles/sadripu.md)
 
 ### 102 <a id="tea-vijnana-bhairava-tantra-102"></a>
 `skeleton` · confidence moderate
@@ -716,7 +784,7 @@ For one who meditates on the universe as a magic show (indrajāla), or as spread
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:maya` · practices: [Vijñāna Bhairava dhāraṇā 77: The world as a magic show or a painting](../practices/vbt-dharana-77.md)
+terms: [māyā](../terms/maya.md) · practices: [Vijñāna Bhairava dhāraṇā 77: The world as a magic show or a painting](../practices/vbt-dharana-77.md) · disputes: `dsp:world-real-or-appearance`
 
 ### 103 <a id="tea-vijnana-bhairava-tantra-103"></a>
 `skeleton` · confidence moderate
@@ -725,7 +793,7 @@ One should not put the mind in pain, nor in pleasure; O Bhairavī, let it be kno
 
 _level: conventional · standpoint: seeker · path: meditation, knowledge · stage: unmarked · types: practice, consciousness-mind, ethics_
 
-terms: `trm:madhya` · concepts: `cpt:madhya-centre` · practices: [Vijñāna Bhairava dhāraṇā 78: Neither in pain nor in pleasure: the middle](../practices/vbt-dharana-78.md)
+terms: [madhya](../terms/madhya.md) · concepts: [The centre or gap (madhya)](../concepts/madhya-centre.md) · practices: [Vijñāna Bhairava dhāraṇā 78: Neither in pain nor in pleasure: the middle](../practices/vbt-dharana-78.md)
 
 ### 104 <a id="tea-vijnana-bhairava-tantra-104"></a>
 `skeleton` · confidence moderate
@@ -743,7 +811,7 @@ Contemplating 'the knowledge of a pot and the like, or desire and the like, has 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:iccha`, `trm:jnana` · practices: [Vijñāna Bhairava dhāraṇā 80: Cognition and desire as present everywhere](../practices/vbt-dharana-80.md)
+terms: [icchā](../terms/iccha.md), [jñāna](../terms/jnana.md) · practices: [Vijñāna Bhairava dhāraṇā 80: Cognition and desire as present everywhere](../practices/vbt-dharana-80.md)
 
 ### 106 <a id="tea-vijnana-bhairava-tantra-106"></a>
 `skeleton` · confidence moderate
@@ -752,7 +820,7 @@ The awareness of object and subject is common to all embodied beings; but for yo
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:grahya-grahaka` · practices: [Vijñāna Bhairava dhāraṇā 81: Attentiveness to the relation of subject and object](../practices/vbt-dharana-81.md)
+terms: [grāhya-grāhaka](../terms/grahya-grahaka.md) · practices: [Vijñāna Bhairava dhāraṇā 81: Attentiveness to the relation of subject and object](../practices/vbt-dharana-81.md)
 
 ### 107 <a id="tea-vijnana-bhairava-tantra-107"></a>
 `skeleton` · confidence moderate
@@ -770,7 +838,7 @@ Making the mind supportless, one should not entertain thought-constructs; then, 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:niradhara`, `trm:vikalpa` · practices: [Vijñāna Bhairava dhāraṇā 83: The supportless mind](../practices/vbt-dharana-83.md)
+terms: [nirādhāra](../terms/niradhara.md), [vikalpa](../terms/vikalpa.md) · practices: [Vijñāna Bhairava dhāraṇā 83: The supportless mind](../practices/vbt-dharana-83.md)
 
 ### 109 <a id="tea-vijnana-bhairava-tantra-109"></a>
 `skeleton` · confidence moderate
@@ -779,7 +847,7 @@ terms: `trm:niradhara`, `trm:vikalpa` · practices: [Vijñāna Bhairava dhāra�
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: unmarked · types: practice, consciousness-mind, ultimate_
 
-terms: `trm:mahesvara` · practices: [Vijñāna Bhairava dhāraṇā 84: 'I am the omniscient, all-doing Lord'](../practices/vbt-dharana-84.md)
+terms: [māheśvara](../terms/mahesvara.md) · practices: [Vijñāna Bhairava dhāraṇā 84: 'I am the omniscient, all-doing Lord'](../practices/vbt-dharana-84.md)
 
 ### 110 <a id="tea-vijnana-bhairava-tantra-110"></a>
 `skeleton` · confidence moderate
@@ -788,7 +856,7 @@ As waves belong to water, flames to fire, rays to the sun, so these differentiat
 
 _level: bridging · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind, ultimate_
 
-terms: `trm:abhasa`, `trm:bhairava` · practices: [Vijñāna Bhairava dhāraṇā 85: The universe as my waves](../practices/vbt-dharana-85.md)
+terms: [ābhāsa](../terms/abhasa.md), [Bhairava / Mahābhairava](../terms/bhairava.md) · practices: [Vijñāna Bhairava dhāraṇā 85: The universe as my waves](../practices/vbt-dharana-85.md)
 
 ### 111 <a id="tea-vijnana-bhairava-tantra-111"></a>
 `skeleton` · confidence moderate
@@ -797,7 +865,7 @@ Whirling round and round with the body, by falling quickly to the ground, when t
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: unmarked · types: practice, body-layers_
 
-terms: `trm:ksobha` · practices: [Vijñāna Bhairava dhāraṇā 86: Whirling until falling](../practices/vbt-dharana-86.md)
+terms: [kṣobha](../terms/ksobha.md) · practices: [Vijñāna Bhairava dhāraṇā 86: Whirling until falling](../practices/vbt-dharana-86.md)
 
 ### 112 <a id="tea-vijnana-bhairava-tantra-112"></a>
 `skeleton` · confidence moderate
@@ -806,7 +874,7 @@ When, through incapacity or ignorance regarding the supports (objects), or throu
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:samavesa` · practices: [Vijñāna Bhairava dhāraṇā 87: When the mind's supports fail](../practices/vbt-dharana-87.md)
+terms: [samāveśa](../terms/samavesa.md) · practices: [Vijñāna Bhairava dhāraṇā 87: When the mind's supports fail](../practices/vbt-dharana-87.md)
 
 ### 113-114 <a id="tea-vijnana-bhairava-tantra-113-114"></a>
 `skeleton` · confidence moderate
@@ -815,7 +883,7 @@ Hear, O Goddess, this traditional teaching (sampradāya), which I declare fully:
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:anacka` · practices: [Vijñāna Bhairava dhāraṇā 88: The sampradāya: fixed eyes; closed ears and lower door](../practices/vbt-dharana-88.md)
+terms: [anacka](../terms/anacka.md) · practices: [Vijñāna Bhairava dhāraṇā 88: The sampradāya: fixed eyes; closed ears and lower door](../practices/vbt-dharana-88.md)
 
 ### 115 <a id="tea-vijnana-bhairava-tantra-115"></a>
 `skeleton` · confidence moderate
@@ -824,7 +892,7 @@ Standing above a well or a great pit and gazing down, for one whose mind is free
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:nirvikalpa` · practices: [Vijñāna Bhairava dhāraṇā 89: Looking down into a well or deep pit](../practices/vbt-dharana-89.md)
+terms: [nirvikalpa](../terms/nirvikalpa.md) · practices: [Vijñāna Bhairava dhāraṇā 89: Looking down into a well or deep pit](../practices/vbt-dharana-89.md)
 
 ### 116 <a id="tea-vijnana-bhairava-tantra-116"></a>
 `skeleton` · confidence moderate
@@ -844,7 +912,7 @@ Wherever, through the path of the senses, the consciousness of the all-pervading
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:bharita`, `trm:citi` · practices: [Vijñāna Bhairava dhāraṇā 91: Consciousness shining through each sense](../practices/vbt-dharana-91.md)
+terms: [bharita](../terms/bharita.md), [citi](../terms/citi.md) · practices: [Vijñāna Bhairava dhāraṇā 91: Consciousness shining through each sense](../practices/vbt-dharana-91.md)
 
 ### 118 <a id="tea-vijnana-bhairava-tantra-118"></a>
 `skeleton` · confidence moderate
@@ -862,7 +930,7 @@ When things are remembered, or a place is seen, one should let the mind go from 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:niradhara` · practices: [Vijñāna Bhairava dhāraṇā 93: Letting go of remembered objects and places](../practices/vbt-dharana-93.md)
+terms: [nirādhāra](../terms/niradhara.md) · practices: [Vijñāna Bhairava dhāraṇā 93: Letting go of remembered objects and places](../practices/vbt-dharana-93.md)
 
 ### 120 <a id="tea-vijnana-bhairava-tantra-120"></a>
 `skeleton` · confidence moderate
@@ -871,7 +939,7 @@ Having placed the gaze on some object, one should slowly withdraw it; that knowl
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:sunya` · practices: [Vijñāna Bhairava dhāraṇā 94: Slowly withdrawing the gaze from an object](../practices/vbt-dharana-94.md)
+terms: [śūnya](../terms/sunya.md) · practices: [Vijñāna Bhairava dhāraṇā 94: Slowly withdrawing the gaze from an object](../practices/vbt-dharana-94.md)
 
 ### 121 <a id="tea-vijnana-bhairava-tantra-121"></a>
 `skeleton` · confidence moderate
@@ -880,7 +948,7 @@ The kind of understanding that arises in one who is dispassionate through the in
 
 _level: conventional · standpoint: seeker · path: devotion, meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:bhakti`, `trm:sakti` · practices: [Vijñāna Bhairava dhāraṇā 95: The understanding born of intense devotion](../practices/vbt-dharana-95.md)
+terms: [bhakti](../terms/bhakti.md), [śakti](../terms/sakti.md) · practices: [Vijñāna Bhairava dhāraṇā 95: The understanding born of intense devotion](../practices/vbt-dharana-95.md)
 
 ### 122 <a id="tea-vijnana-bhairava-tantra-122"></a>
 `skeleton` · confidence moderate
@@ -889,7 +957,7 @@ When one particular object is being known, there is voidness with regard to all 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:sunya` · practices: [Vijñāna Bhairava dhāraṇā 96: The voidness of all else when one object is known](../practices/vbt-dharana-96.md)
+terms: [śūnya](../terms/sunya.md) · practices: [Vijñāna Bhairava dhāraṇā 96: The voidness of all else when one object is known](../practices/vbt-dharana-96.md)
 
 ### 123 <a id="tea-vijnana-bhairava-tantra-123"></a>
 `skeleton` · confidence moderate
@@ -898,7 +966,7 @@ The purity prescribed by those of little knowledge is [regarded as] impurity in 
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: unmarked · types: practice, consciousness-mind, ultimate_
 
-terms: `trm:vikalpa` · practices: [Vijñāna Bhairava dhāraṇā 97: Purity and impurity](../practices/vbt-dharana-97.md) · obstacles: `obs:sanka`
+terms: [vikalpa](../terms/vikalpa.md) · practices: [Vijñāna Bhairava dhāraṇā 97: Purity and impurity](../practices/vbt-dharana-97.md) · obstacles: [Doubt and scruple (śaṅkā), especially about purity](../obstacles/sanka.md) · disputes: [Are the rules of ritual purity and conventional conduct binding on the knower?](../debates/purity-impurity-kaula.md)
 
 ### 124 <a id="tea-vijnana-bhairava-tantra-124"></a>
 `skeleton` · confidence moderate
@@ -907,7 +975,7 @@ Bhairava is present everywhere as being, even in ordinary things; and there is n
 
 _level: bridging · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind, ultimate_
 
-terms: `trm:bhairava` · practices: [Vijñāna Bhairava dhāraṇā 98: Bhairava in ordinary things](../practices/vbt-dharana-98.md)
+terms: [Bhairava / Mahābhairava](../terms/bhairava.md) · practices: [Vijñāna Bhairava dhāraṇā 98: Bhairava in ordinary things](../practices/vbt-dharana-98.md)
 
 ### 125 <a id="tea-vijnana-bhairava-tantra-125"></a>
 `skeleton` · confidence moderate
@@ -925,7 +993,7 @@ One should not cultivate aversion anywhere, nor attachment anywhere; in the midd
 
 _level: conventional · standpoint: seeker · path: meditation, knowledge · stage: unmarked · types: practice, consciousness-mind, ethics_
 
-terms: `trm:madhya` · practices: [Vijñāna Bhairava dhāraṇā 100: Neither attachment nor aversion](../practices/vbt-dharana-100.md)
+terms: [madhya](../terms/madhya.md) · practices: [Vijñāna Bhairava dhāraṇā 100: Neither attachment nor aversion](../practices/vbt-dharana-100.md)
 
 ### 127 <a id="tea-vijnana-bhairava-tantra-127"></a>
 `skeleton` · confidence moderate
@@ -934,7 +1002,7 @@ What is unknowable, ungraspable, void, what lies in non-being - all that is to b
 
 _level: bridging · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind, ultimate_
 
-terms: `trm:bhairava`, `trm:sunya` · practices: [Vijñāna Bhairava dhāraṇā 101: The unknowable and the void as Bhairava](../practices/vbt-dharana-101.md)
+terms: [Bhairava / Mahābhairava](../terms/bhairava.md), [śūnya](../terms/sunya.md) · practices: [Vijñāna Bhairava dhāraṇā 101: The unknowable and the void as Bhairava](../practices/vbt-dharana-101.md)
 
 ### 128 <a id="tea-vijnana-bhairava-tantra-128"></a>
 `skeleton` · confidence moderate
@@ -943,7 +1011,7 @@ Placing the mind in outer space - eternal, supportless, void, pervasive, free of
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:sunya`, `trm:niradhara` · practices: [Vijñāna Bhairava dhāraṇā 102: The mind in outer space](../practices/vbt-dharana-102.md)
+terms: [śūnya](../terms/sunya.md), [nirādhāra](../terms/niradhara.md) · practices: [Vijñāna Bhairava dhāraṇā 102: The mind in outer space](../practices/vbt-dharana-102.md)
 
 ### 129 <a id="tea-vijnana-bhairava-tantra-129"></a>
 `skeleton` · confidence moderate
@@ -952,7 +1020,7 @@ Wherever the mind goes, abandoning that very thing at that very moment, by not l
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:nistaranga` · practices: [Vijñāna Bhairava dhāraṇā 103: Letting go of each object the moment the mind goes to it](../practices/vbt-dharana-103.md)
+terms: [nistaraṅga](../terms/nistaranga.md) · practices: [Vijñāna Bhairava dhāraṇā 103: Letting go of each object the moment the mind goes to it](../practices/vbt-dharana-103.md)
 
 ### 130 <a id="tea-vijnana-bhairava-tantra-130"></a>
 `skeleton` · confidence moderate
@@ -961,7 +1029,7 @@ terms: `trm:nistaranga` · practices: [Vijñāna Bhairava dhāraṇā 103: Letti
 
 _level: conventional · standpoint: seeker · path: sound, meditation · stage: unmarked · types: practice, sound-language_
 
-terms: `trm:bhairava`, `trm:japa` · practices: [Vijñāna Bhairava dhāraṇā 104: Continuous utterance of the word 'Bhairava'](../practices/vbt-dharana-104.md)
+terms: [Bhairava / Mahābhairava](../terms/bhairava.md), [japa](../terms/japa.md) · practices: [Vijñāna Bhairava dhāraṇā 104: Continuous utterance of the word 'Bhairava'](../practices/vbt-dharana-104.md)
 
 ### 131 <a id="tea-vijnana-bhairava-tantra-131"></a>
 `skeleton` · confidence moderate
@@ -970,7 +1038,7 @@ When notions such as 'I', 'this is mine' arise, the mind goes to the supportless
 
 _level: conventional · standpoint: seeker · path: knowledge, meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:niradhara`, `trm:ahamkara` · practices: [Vijñāna Bhairava dhāraṇā 105: At the thought 'I' and 'mine'](../practices/vbt-dharana-105.md)
+terms: [nirādhāra](../terms/niradhara.md), [ahaṃkāra](../terms/ahamkara.md) · practices: [Vijñāna Bhairava dhāraṇā 105: At the thought 'I' and 'mine'](../practices/vbt-dharana-105.md)
 
 ### 132 <a id="tea-vijnana-bhairava-tantra-132"></a>
 `skeleton` · confidence moderate
@@ -979,7 +1047,7 @@ Meditating at every moment on the words 'eternal', 'all-pervading', 'supportless
 
 _level: conventional · standpoint: seeker · path: sound, meditation · stage: unmarked · types: practice, sound-language_
 
-terms: `trm:niradhara` · practices: [Vijñāna Bhairava dhāraṇā 106: Contemplating the words 'eternal', 'all-pervading', 'supportless'](../practices/vbt-dharana-106.md)
+terms: [nirādhāra](../terms/niradhara.md) · practices: [Vijñāna Bhairava dhāraṇā 106: Contemplating the words 'eternal', 'all-pervading', 'supportless'](../practices/vbt-dharana-106.md)
 
 ### 133 <a id="tea-vijnana-bhairava-tantra-133"></a>
 `skeleton` · confidence moderate
@@ -988,7 +1056,7 @@ terms: `trm:niradhara` · practices: [Vijñāna Bhairava dhāraṇā 106: Contem
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: unmarked · types: practice, consciousness-mind, ultimate_
 
-terms: `trm:maya` · practices: [Vijñāna Bhairava dhāraṇā 107: 'What reality has a magic show?'](../practices/vbt-dharana-107.md)
+terms: [māyā](../terms/maya.md) · practices: [Vijñāna Bhairava dhāraṇā 107: 'What reality has a magic show?'](../practices/vbt-dharana-107.md) · disputes: `dsp:world-real-or-appearance`
 
 ### 134 <a id="tea-vijnana-bhairava-tantra-134"></a>
 `skeleton` · confidence moderate
@@ -997,7 +1065,7 @@ For the unchanging self, where is knowledge, where is action? External things de
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: unmarked · types: practice, consciousness-mind, ultimate_
 
-terms: `trm:sunya` · practices: [Vijñāna Bhairava dhāraṇā 108: The unchanging self: the world as void](../practices/vbt-dharana-108.md)
+terms: [śūnya](../terms/sunya.md) · practices: [Vijñāna Bhairava dhāraṇā 108: The unchanging self: the world as void](../practices/vbt-dharana-108.md)
 
 ### 135 <a id="tea-vijnana-bhairava-tantra-135"></a>
 `skeleton` · confidence moderate
@@ -1006,7 +1074,7 @@ terms: `trm:sunya` · practices: [Vijñāna Bhairava dhāraṇā 108: The unchan
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: unmarked · types: practice, consciousness-mind, ultimate_
 
-terms: `trm:pratibimba`, `trm:moksa` · practices: [Vijñāna Bhairava dhāraṇā 109: 'No bondage, no liberation for me'](../practices/vbt-dharana-109.md)
+terms: [pratibimba](../terms/pratibimba.md), [mokṣa](../terms/moksa.md) · practices: [Vijñāna Bhairava dhāraṇā 109: 'No bondage, no liberation for me'](../practices/vbt-dharana-109.md)
 
 ### 136 <a id="tea-vijnana-bhairava-tantra-136"></a>
 `skeleton` · confidence moderate
@@ -1015,7 +1083,7 @@ All contact with pleasure, pain and the like comes through the doors of the sens
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:indriya` · practices: [Vijñāna Bhairava dhāraṇā 110: Withdrawing from the senses into the self](../practices/vbt-dharana-110.md)
+terms: [indriya](../terms/indriya.md) · practices: [Vijñāna Bhairava dhāraṇā 110: Withdrawing from the senses into the self](../practices/vbt-dharana-110.md)
 
 ### 137 <a id="tea-vijnana-bhairava-tantra-137"></a>
 `skeleton` · confidence moderate
@@ -1024,7 +1092,7 @@ Knowledge reveals everything, and the self is the revealer through everything; b
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: unmarked · types: practice, consciousness-mind, ultimate_
 
-terms: `trm:prakasa`, `trm:jnana` · practices: [Vijñāna Bhairava dhāraṇā 111: Knowledge and the known as one](../practices/vbt-dharana-111.md)
+terms: [prakāśa](../terms/prakasa.md), [jñāna](../terms/jnana.md) · practices: [Vijñāna Bhairava dhāraṇā 111: Knowledge and the known as one](../practices/vbt-dharana-111.md)
 
 ### 138 <a id="tea-vijnana-bhairava-tantra-138"></a>
 `skeleton` · confidence moderate
@@ -1033,10 +1101,112 @@ When the four - mind, awareness (cetanā), power (śakti) and self (ātman) - ha
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: `trm:bhairava` · practices: [Vijñāna Bhairava dhāraṇā 112: Dissolution of mind, awareness, power and self](../practices/vbt-dharana-112.md)
+terms: [Bhairava / Mahābhairava](../terms/bhairava.md) · practices: [Vijñāna Bhairava dhāraṇā 112: Dissolution of mind, awareness, power and self](../practices/vbt-dharana-112.md)
+
+### 139 <a id="tea-vijnana-bhairava-tantra-139"></a>
+`skeleton` · confidence high
+
+A hundred and twelve teachings of the waveless state have been told in brief; knowing them, a person becomes a knower of knowledge.
+
+> nistaraṅgopadeśānāṃ śatam uktaṃ samāsataḥ / dvādaśābhyadhikaṃ devi yaj jñātvā jñānavij janaḥ
+
+_level: conventional · standpoint: divine · path: meditation · stage: all · types: practice_
+
+terms: [dhāraṇā](../terms/dharana.md), [nistaraṅga](../terms/nistaranga.md)
+
+### 140-142 <a id="tea-vijnana-bhairava-tantra-140-142"></a>
+`skeleton` · confidence high
+
+Established in any one of them one becomes Bhairava himself: by his word he accomplishes deeds, bestows curse and grace, attains freedom from old age and death, is endowed with the powers beginning with minuteness (aṇimā), is beloved of the yoginīs and lord of all their gatherings; though living he is liberated, though acting he is not stained.
+
+_level: bridging · standpoint: divine · path: meditation · stage: realized · types: powers-experiences, karma-liberation_
+
+terms: [jīvanmukti](../terms/jivanmukti.md), [siddhi](../terms/siddhi.md) · concepts: [Liberation while living (jīvanmukti) in Kashmir Śaivism](../concepts/jivanmukti-kashmir.md), [Powers and the warnings about them](../concepts/siddhis-kashmir.md)
+
+### 142-144 <a id="tea-vijnana-bhairava-tantra-142-144"></a>
+`skeleton` · confidence high
+
+The Goddess asks: if this is the nature of Parā, in such a state who is repeated in japa and what is japa, who is meditated on, who worshipped, who satisfied, to whom is oblation offered, whose is the sacrifice and how?
+
+_level: conventional · standpoint: seeker · path: ritual · stage: all · types: practice_
+
+### 144-145 <a id="tea-vijnana-bhairava-tantra-144-145"></a>
+`skeleton` · confidence high
+
+Bhairava: this procedure [of outer ritual] is for the gross. Here, the contemplation repeatedly contemplated on the supreme state is japa; the self-arising sound (nāda) itself, whose nature is mantra, is what is repeated.
+
+_level: bridging · standpoint: divine · path: sound, meditation · stage: all · types: practice, sound-language_
+
+terms: [japa](../terms/japa.md), [nāda](../terms/nada.md)
+
+### 146 <a id="tea-vijnana-bhairava-tantra-146"></a>
+`skeleton` · confidence high
+
+Meditation (dhyāna) is the unmoving understanding, without form or support - not the imagining of a body, eyes, face, hands and the like.
+
+_level: bridging · standpoint: divine · path: meditation · stage: all · types: practice_
+
+### 147-148 <a id="tea-vijnana-bhairava-tantra-147-148"></a>
+`skeleton` · confidence high
+
+Worship is not with flowers and the like; it is the firm mind fixed on the thought-free great void - dissolution with devotion. For one established in any one of these ways, the fullness that arises day by day is the satisfaction here, complete fulfilment.
+
+_level: bridging · standpoint: divine · path: ritual, devotion · stage: all · types: practice_
+
+terms: [pūjā](../terms/puja.md), [bharita](../terms/bharita.md)
+
+### 149 <a id="tea-vijnana-bhairava-tantra-149"></a>
+`skeleton` · confidence high
+
+In the fire, the abode of the great void, the elements, senses, objects and the rest are offered together with the mind, with consciousness as the ladle - that is oblation (homa).
+
+_level: bridging · standpoint: divine · path: ritual · stage: all · types: practice_
+
+### 150-153 <a id="tea-vijnana-bhairava-tantra-150-153"></a>
+`skeleton` · confidence high
+
+Sacrifice here is contentment marked by bliss; the field is the immersion into the power of Rudra, the supreme contemplation; bathing is entering one's own nature, whose essence is free, blissful consciousness; since the substances, the one worshipped and the worshipper are all one, where is worship?
+
+_level: ultimate · standpoint: divine · path: ritual, knowledge · stage: all · types: practice, ultimate_
+
+terms: [samāveśa](../terms/samavesa.md)
+
+### 154-155 <a id="tea-vijnana-bhairava-tantra-154-155"></a>
+`skeleton` · confidence high
+
+The breath goes out and the life enters by will; she, curved in form, the long-bodied great Goddess, is the supreme field, Parāparā. Dwelling in her, abiding in the sacrifice full of great bliss, pervaded by that Goddess, one attains supreme Bhairava.
+
+_level: bridging · standpoint: divine · path: body-breath, meditation · stage: all · types: practice, body-layers_
+
+terms: [prāṇa](../terms/prana.md), [kuṇḍalinī](../terms/kundalini.md)
+
+### 157-160 <a id="tea-vijnana-bhairava-tantra-157-160"></a>
+`skeleton` · confidence high
+
+This supreme nectar must never be revealed to anyone - not to another's disciple, the wicked, the cruel, or one without devotion to the teacher's feet; it is to be given without hesitation to heroes of thought-free mind and lofty self, devoted to the line of teachers. Village, kingdom, city, land, son, wife and family - abandoning all this, this should be taken; what use are these unstable things? This is the lasting, supreme wealth; even one's life may be given, but not this nectar.
+
+_level: conventional · standpoint: divine · path: general · stage: all · types: teacher-transmission, ethics_
+
+concepts: [Teacher, lineage and transmission](../concepts/guru-and-transmission.md)
+
+### 161-163 <a id="tea-vijnana-bhairava-tantra-161-163"></a>
+`skeleton` · confidence moderate
+
+The Goddess: 'O god of gods, I am fully satisfied; today I have grasped the essence of the Rudrayāmala tantra and known the heart of all the divisions of power.' Having said this, the delighted Goddess embraced Śiva's neck.
+
+_level: conventional · standpoint: divine · path: general · stage: all · types: teacher-transmission_
+
+### 155b-156 <a id="tea-vijnana-bhairava-tantra-155b-156"></a>
+`skeleton` · confidence moderate
+
+With the sound 'sa' it goes out, with 'ha' it enters again; the living being repeats this mantra 'haṃsa, haṃsa' constantly - twenty-one thousand six hundred times in a day and night: this japa of the Goddess is taught, easy for the wise, hard for the dull.
+
+_level: conventional · standpoint: seeker · path: sound, body-breath · stage: all · types: practice, sound-language_
+
+terms: [haṃsa](../terms/hamsa.md), [ajapā](../terms/ajapa.md) · practices: [Ajapā-japa (the haṃsa / so'ham breath-mantra)](../practices/ajapa-japa.md)
 
 
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

@@ -16,4 +16,4 @@ Six verses on the mind (manas), each ending 'may that mind of mine be of auspici
 _Notes: A form of these verses also circulates among the Ṛgveda khilas (reference only)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

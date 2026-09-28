@@ -11,4 +11,4 @@ Rāma's brother, who refuses the throne and rules as Rāma's regent; Rāma's tea
 _Notes: Disambiguated from Bharata Muni (tch:bharata-muni)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

@@ -36,19 +36,19 @@ The earliest systematic current of Kashmirian non-dual Śaivism, founded on the 
 **Caveat:** Spanda insists that the ultimate is dynamic; it would reject any account of a static, inactive absolute.
 
 ## Texts
-[Pratyabhijñāhṛdaya](../texts/pratyabhijnahrdayam.md), [Śivasūtra](../texts/siva-sutra.md), [Śivasūtravārttika (Bhāskara)](../texts/siva-sutra-varttika-bhaskara.md), [Śivasūtravārttika (Varadarāja)](../texts/siva-sutra-varttika-varadaraja.md), [Śivasūtravimarśinī](../texts/siva-sutra-vimarsini.md), `src:siva-sutra-vrtti`, [Śivasūtravṛtti (Sāhib Kaul)](../texts/siva-sutra-vrtti-sahib-kaul.md), [Spandakārikā](../texts/spanda-karika.md), [Spandanirṇaya](../texts/spanda-nirnaya.md), [Spandapradīpikā](../texts/spanda-pradipika.md), [Spandasandoha](../texts/spanda-sandoha.md), [Spandavivṛti](../texts/spanda-vivrti.md), [Spandavṛtti](../texts/spanda-vrtti.md), [Tattvārthacintāmaṇi](../texts/tattvarthacintamani.md)
+[Pratyabhijñāhṛdaya](../texts/pratyabhijnahrdayam.md), [Śivasūtra](../texts/siva-sutra.md), [Śivasūtravārttika (Bhāskara)](../texts/siva-sutra-varttika-bhaskara.md), [Śivasūtravārttika (Varadarāja)](../texts/siva-sutra-varttika-varadaraja.md), [Śivasūtravimarśinī](../texts/siva-sutra-vimarsini.md), [Śivasūtravṛtti (Sāhib Kaul)](../texts/siva-sutra-vrtti-sahib-kaul.md), [Spandakārikā](../texts/spanda-karika.md), [Spandanirṇaya](../texts/spanda-nirnaya.md), [Spandapradīpikā](../texts/spanda-pradipika.md), [Spandasandoha](../texts/spanda-sandoha.md), [Spandavivṛti](../texts/spanda-vivrti.md), [Spandavṛtti](../texts/spanda-vrtti.md), [Tattvārthacintāmaṇi](../texts/tattvarthacintamani.md)
 
 ## Teachers
 [Bhāskara (author of the Śivasūtravārttika)](../teachers/bhaskara-kashmir.md), [Bhaṭṭa Kallaṭa](../teachers/kallata.md), [Kṣemarāja](../teachers/ksemaraja.md), [Mahādevabhaṭṭa](../teachers/mahadevabhatta.md), [Pradyumnabhaṭṭa](../teachers/pradyumnabhatta.md), [Prajñārjuna](../teachers/prajnarjuna.md), [Rājānaka Rāmakaṇṭha (author of the Spandavivṛti)](../teachers/rajanaka-ramakantha.md), [Sāhib Kaul](../teachers/sahib-kaul.md), [Śrīkaṇṭhabhaṭṭa](../teachers/srikanthabhatta.md), [Utpala Vaiṣṇava](../teachers/utpala-vaisnava.md), [Varadarāja (Kṛṣṇadāsa)](../teachers/varadaraja.md), [Vasugupta](../teachers/vasugupta.md)
 
 ## Practices
-_none recorded_
+[Unfolding of the centre (madhyavikāsa)](../practices/madhya-vikasa.md), [Spanda awareness](../practices/spanda-awareness.md)
 
 ## Path maps
 `pth:kashmir-four-upayas`
 
 ## Debates
-_none recorded_
+[Who composed the Spandakārikā - Vasugupta or his disciple Kallaṭa?](../debates/spanda-karika-authorship.md)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

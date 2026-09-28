@@ -9,4 +9,4 @@
 Successor of Hariharānanda Āraṇya at the Kāpil Maṭh, Madhupur (recalled; verify).
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 08:09 IST._

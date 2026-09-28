@@ -16,4 +16,4 @@ Stories in praise of the Gītā, one for each chapter, telling of the merit of r
 _Notes: Location recalled, not checked (low). Other Gītā-māhātmyas (e.g. in the Varāha Purāṇa) also circulate._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

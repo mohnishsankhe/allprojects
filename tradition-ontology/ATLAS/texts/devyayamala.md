@@ -4,11 +4,11 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Trika ('the Triad')](../lineages/trika.md), `lin:kalikula`
+**Lineages:** [Trika ('the Triad')](../lineages/trika.md), [Kālīkula (the Kālī lineages)](../lineages/kalikula.md)
 **Genre:** tantra (Yāmala)
 **Availability:** lost
 
 A Yāmala tantra cited in the Tantrāloka (e.g. TĀ 28.390) and by Jayaratha; known only from citations.
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

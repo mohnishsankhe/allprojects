@@ -17,4 +17,4 @@ Jayatīrtha's commentary on Madhva's Māyāvādakhaṇḍana, one of his comment
 _Notes: Existence inferred from the tradition's account that Jayatīrtha commented on all ten prakaraṇas._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

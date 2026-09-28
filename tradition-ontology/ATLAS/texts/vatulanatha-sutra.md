@@ -12,7 +12,19 @@ Short Krama aphorisms ('attainment of one's own nature by the mode of great dari
 **Editions / translations:** 
   - kind: original; name: Kashmir Series of Texts and Studies (KSTS), Srinagar 39 (1923)
 
+## Teachings (1: skeleton 1)
+
+### 1 <a id="tea-vatulanatha-sutra-1"></a>
+`skeleton` · confidence moderate
+
+The attainment of one's own nature is by the mode of 'great daring' (mahāsāhasa).
+
+> mahāsāhasavṛttyā svarūpalābhaḥ
+
+_level: bridging · standpoint: seeker · path: knowledge, meditation · stage: advanced · types: practice, karma-liberation_
+
+
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry. Number of sūtras (c. 13) from the commentary's reference to 'thirteen discourses' - low._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

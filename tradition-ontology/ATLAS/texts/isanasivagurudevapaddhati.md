@@ -5,7 +5,7 @@
 **Alternate titles:** Īśānaśivagurudevapaddhati (Tantrasāra and Siddhāntasāra), Īśānaśivapaddhati
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Kerala tantra (temple-tantra tradition of Kerala)](../lineages/kerala-tantra.md), [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md), `lin:saiva-siddhanta`
+**Lineages:** [Kerala tantra (temple-tantra tradition of Kerala)](../lineages/kerala-tantra.md), [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md), [Śaiva Siddhānta](../lineages/saiva-siddhanta.md)
 **Genre:** paddhati (ritual compendium)
 **Authors:** 
   - [Īśānaśiva Gurudeva](../teachers/isanasiva-gurudeva.md) — role: author; attribution: accepted
@@ -20,4 +20,4 @@ A large ritual compendium in two parts — the Tantrasāra (general section and 
 _Notes: Structure checked in colophons of the local e-texts (sources_raw/raw_etexts/mixed/mukta/tantranibandha/IshAnashivagurudeva/ (TSS ed., 4 vols)). The author's own region is not established here._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

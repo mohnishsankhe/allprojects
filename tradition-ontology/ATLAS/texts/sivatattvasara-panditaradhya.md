@@ -14,4 +14,4 @@ A verse work on Śiva-devotion and the conduct of devotees ascribed to Mallikār
 _Notes: Language (Telugu) and content from memory; verify._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._

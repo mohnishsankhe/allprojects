@@ -9,4 +9,4 @@
 King of Mithilā who questions Vasiṣṭha on the perishable and imperishable and on the knowledge of plurality and unity (12.291–296).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

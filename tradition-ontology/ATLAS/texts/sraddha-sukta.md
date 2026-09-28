@@ -10,11 +10,11 @@
 **Part of:** [Ṛgveda Saṃhitā](rgveda.md)
 **Location in parent:** 10.151 (5 verses)
 **Authors:** 
-  - `tch:sraddha-kamayani` — role: revealer; attribution: traditional
+  - [Śraddhā Kāmāyanī](../teachers/sraddha-kamayani.md) — role: revealer; attribution: traditional
 **Attribution:** tradition: seen by sraddha-kamayani; deity: Śraddhā (Sarvānukramaṇī); scholarly: a hymn of the Ṛgveda; books 1 and 10 are among its later layers; confidence: high
 **Availability:** digitized-original
 
 Faith (śraddhā) invoked: by faith the fire is kindled and the oblation offered; faith is honoured at morning, noon and sunset; 'Faith, make us faithful here'.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

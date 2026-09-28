@@ -32,6 +32,115 @@
  },
  "views": [
   {
+   "id": "ult:advaita-vedanta",
+   "lineage": "lin:advaita-vedanta",
+   "names": [
+    {
+     "name": "Brahman",
+     "term": "trm:brahman"
+    },
+    {
+     "name": "Ātman",
+     "term": "trm:atman"
+    },
+    {
+     "name": "Turīya (the fourth)",
+     "term": "trm:turiya"
+    },
+    {
+     "name": "Sat-cit-ānanda",
+     "term": "trm:saccidananda"
+    },
+    {
+     "name": "Paramātman",
+     "term": "trm:paramatman"
+    },
+    {
+     "name": "Sākṣin (as witness of the three states)",
+     "term": "trm:saksin"
+    },
+    {
+     "name": "Īśvara (Brahman as associated with māyā, empirical level)",
+     "term": "trm:isvara"
+    }
+   ],
+   "descriptions": [
+    "existence, consciousness, infinitude — satyaṃ jñānam anantaṃ brahma (TU 2.1.1) as its own-nature definition (svarūpa-lakṣaṇa)",
+    "being–consciousness–bliss (sat-cit-ānanda)",
+    "one without a second (ekam evādvitīyam, ChU 6.2.1)",
+    "self-luminous (svaprakāśa), never an object",
+    "the substratum (adhiṣṭhāna) of the world-appearance, as the rope is of the snake",
+    "the world's cause, defined incidentally (taṭastha-lakṣaṇa) as that from which the world arises (BS 1.1.2)"
+   ],
+   "negations": [
+    "neti neti — not so, not so (BĀU 2.3.6; BS 3.2.22)",
+    "no dissolution, no origination, none bound, no seeker, no liberated — this is the highest truth (GK 2.32)",
+    "without parts, attributes, action or difference of any of the three kinds (sajātīya, vijātīya, svagata)"
+   ],
+   "relation_to_self": "Identical: the inner self (pratyag-ātman) of every being is Brahman (tat tvam asi; ahaṃ brahmāsmi). The jīva is Brahman appearing as limited or reflected through adjuncts produced by ignorance.",
+   "relation_to_world": "The world is superimposed on Brahman and is its apparent transformation (vivarta); Brahman is its material and efficient cause through māyā. The world is real for empirical purposes (vyāvahārika) until knowledge, then sublated; ultimately it is not other than Brahman.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Advaita accepts that truth is one (and reads RV 1.164.46 in that sense), but the one is non-dual consciousness without any internal difference: the personal Lord is Brahman as associated with māyā, real at the empirical level only. Advaita would reject any 'one-truth' reading that makes the world, or plural selves, or a personal God ultimately real, and rejects equating its Brahman with a sum or organism of parts.",
+   "rests_on": [
+    "tea:brahma-sutra-bhasya-sankara:intro",
+    "tea:mandukya-karika:1.17",
+    "tea:mandukya-karika:2.32",
+    "tea:brahmajnanavalimala:20",
+    "tea:taittiriya-upanisad-bhasya-sankara:2.1.1",
+    "tea:brahma-sutra-bhasya-sankara:2.1.14",
+    "tea:vedantaparibhasa:ch.7",
+    "tea:vivekacudamani:20"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U13-advaita"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:aradhya-saiva",
+   "lineage": "lin:aradhya-saiva",
+   "names": [
+    {
+     "name": "Śiva (Mallikārjuna of Śrīśaila)",
+     "term": "trm:siva"
+    }
+   ],
+   "descriptions": [
+    "Śiva worshipped exclusively in the liṅga, with Vedic rites retained"
+   ],
+   "relation_to_self": "Not recorded in this skeleton.",
+   "relation_to_world": "Not recorded in this skeleton.",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Skeleton only; the Ārādhya view needs sourcing from Telugu texts.",
+   "rests_on": [],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U20-virasaiva"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:atimarga",
    "lineage": "lin:atimarga",
    "names": [
@@ -80,6 +189,64 @@
    "provenance": {
     "units": [
      "skeleton:U17-pasupata-kapalika"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:bengal-assam-sakta",
+   "lineage": "lin:bengal-assam-sakta",
+   "names": [
+    {
+     "name": "Mahāmāyā",
+     "term": "trm:mahamaya"
+    },
+    {
+     "name": "Kāmākhyā",
+     "term": "trm:kamakhya"
+    },
+    {
+     "name": "Ādyā Śakti",
+     "term": "trm:adya-sakti"
+    },
+    {
+     "name": "Śyāmā / Kālī",
+     "term": "trm:syama"
+    },
+    {
+     "name": "Mā (Mother)",
+     "term": "trm:ma"
+    }
+   ],
+   "descriptions": [
+    "Kāmākhyā is dharma, artha, kāma and liberation; nothing in the three worlds exists without her (Kāmākhyā Tantra 1.9-13)",
+    "the subtle root-nature (mūla-prakṛti) who divided herself into māyā and vidyā to bring about creation (Bṛhaddharma Purāṇa madhya 6.100-104)",
+    "the Mother (Mā) of the devotional songs, both terrible and tender"
+   ],
+   "negations": [
+    "herself without the three guṇas, she shines through the one who has them (Bṛhaddharma madhya 6.120)"
+   ],
+   "relation_to_self": "The devotee is her child; the digests adopt the Kaula and Vedāntic teaching that the self is one with the Goddess.",
+   "relation_to_world": "The earth bears her body in the pīṭhas, where the parts of Satī fell (Kālikā Purāṇa 18.40-50).",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Devotional Bengal Śāktism keeps the relation of child and Mother and resists merging it into an impersonal absolute; ritual texts of the same region keep sharp distinctions of eligibility (caste, bhāva) that a one-truth reading should not erase.",
+   "rests_on": [
+    "tea:kamakhya-tantra:1.9-13",
+    "tea:brhaddharma-purana:madhya.6.100-104",
+    "tea:kalika-purana:18.36-47"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U24-kali-kaula"
     ],
     "phases": [
      "skeleton"
@@ -156,6 +323,354 @@
    }
   },
   {
+   "id": "ult:bhamati",
+   "lineage": "lin:bhamati",
+   "names": [
+    {
+     "name": "Brahman",
+     "term": "trm:brahman"
+    }
+   ],
+   "descriptions": [
+    "immeasurable bliss and knowledge, deathless, whose apparent transformations the elements are, through two indescribable ignorances (Bhāmatī, opening verse)"
+   ],
+   "negations": [
+    "as in Advaita generally"
+   ],
+   "relation_to_self": "The jīva is Brahman as delimited (avacchinna) by the inner organ; ignorance resides in the jīvas, not in pure Brahman.",
+   "relation_to_world": "The world is Brahman's apparent transformation (vivarta) through the avidyās of the jīvas, with Brahman as its object.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Shares Advaita's ultimate; differs only in the theory of the locus of ignorance and of the jīva. Partisans hold this theory to be correct.",
+   "rests_on": [
+    "tea:bhamati:mangala",
+    "tea:bhamati:locus"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U13-advaita"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:bhatta-mimamsa",
+   "lineage": "lin:bhatta-mimamsa",
+   "names": [
+    {
+     "name": "dharma",
+     "term": "trm:dharma"
+    },
+    {
+     "name": "the Veda",
+     "term": "trm:veda"
+    },
+    {
+     "name": "the self in its own nature after release",
+     "term": "trm:moksa"
+    }
+   ],
+   "descriptions": [
+    "Kumārila opens the Ślokavārttika by saluting the one whose body is pure knowledge, whose divine eye is the three Vedas, the cause of attaining the good, the bearer of the half-moon (ŚV pratijñā 1).",
+    "Liberation is the absolute dissolution of the self's threefold bond — body, senses and objects (Śāstradīpikā on MS 1.1.5).",
+    "Dharma performed with its declared aim produces that aim; performed with the thought of offering it to Govinda / Īśvara it becomes a cause of the highest good (Mīmāṃsānyāyaprakāśa, Arthasaṅgraha, conclusions)."
+   ],
+   "negations": [
+    "No creator Prajāpati and no total dissolution (ŚV sambandhākṣepaparihāra 42–116).",
+    "Liberation is not an enjoyment of pleasure, which would be only another name for a perishable heaven (ŚV sambandhākṣepaparihāra 105)."
+   ],
+   "relation_to_self": "Each self is eternal and all-pervading; release leaves it in its own nature, without body, senses or objects (for Pārthasārathi, without bliss; for other Bhāṭṭas he reports, with innate bliss).",
+   "relation_to_world": "The world is real; creation and dissolution are to be understood 'as today', i.e. as the ongoing births and deaths of beings, not as a total destruction and re-creation (ŚV sambandhākṣepaparihāra 113).",
+   "personal_or_impersonal": "not-posited",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The Bhāṭṭa school does not posit one ultimate reality; its ontology is pluralist and realist. The salutation to the moon-crested one in ŚV pratijñā 1 and the late dedication of dharma to Govinda/Īśvara (Āpadeva, Laugākṣi Bhāskara) show devotion, not a doctrine that the Lord is the one ground of being. Advaitins adopt Bhāṭṭa epistemology for empirical matters only, and Bhāṭṭas do not accept the Advaitic reading of their system.",
+   "rests_on": [
+    "tea:slokavarttika:pratijna.1",
+    "tea:sastradipika:1.1.5/4",
+    "tea:mimamsanyayaprakasa:upasamhara",
+    "tea:arthasangraha:upasamhara",
+    "tea:slokavarttika:sambandhaksepaparihara.105-107",
+    "tea:slokavarttika:sambandhaksepaparihara.113"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U12-mimamsa"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:bhedabheda",
+   "lineage": "lin:bhedabheda",
+   "names": [
+    {
+     "name": "Brahman",
+     "term": "trm:brahman"
+    },
+    {
+     "name": "kāraṇa-brahman (Brahman as cause)"
+    },
+    {
+     "name": "Īśvara"
+    }
+   ],
+   "descriptions": [
+    "Brahman is one as cause and many as effect; the world and souls are its real transformations (pariṇāma) through its power (śakti).",
+    "Bhāskara: difference from the soul is due to real adjuncts (upādhi), non-difference is natural.",
+    "Yādavaprakāśa: Brahman is naturally both one and many, transforming into Īśvara, the souls and matter.",
+    "Vijñānabhikṣu: souls and prakṛti are non-separate (avibhāga) from Brahman, which is their substrate."
+   ],
+   "negations": [
+    "Denies that the world is an illusory appearance (vivarta) of Brahman.",
+    "Denies that difference is merely imagined through a positive avidyā."
+   ],
+   "relation_to_self": "The soul is a part (aṃśa) of Brahman, limited by real adjuncts (Bhāskara) or naturally distinct-yet-one (Yādava); at liberation, after death, it becomes non-different from Brahman.",
+   "relation_to_world": "The world is Brahman's real effect and is non-different from it as cause; it is neither false nor wholly other.",
+   "personal_or_impersonal": "both",
+   "caveat": "The school would reject a one-truth reading that treats its difference as merely provisional; for Bhāskara the adjuncts that make the difference are real until death.",
+   "rests_on": [
+    "tea:brahma-sutra-bhasya-bhaskara:1.4.26",
+    "tea:brahma-sutra-bhasya-bhaskara:2.3.43",
+    "tea:brahma-sutra-bhasya-bhaskara:2.1.14"
+   ],
+   "coverage": [
+    "A6",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U16-bhedabheda"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:dharmasastra",
+   "lineage": "lin:dharmasastra",
+   "names": [
+    {
+     "name": "Brahman",
+     "term": "trm:brahman"
+    },
+    {
+     "name": "the supreme Person (puruṣa para)",
+     "term": "trm:purusa"
+    },
+    {
+     "name": "the supreme self (paramātman)",
+     "term": "trm:paramatman"
+    },
+    {
+     "name": "the self (ātman)",
+     "term": "trm:atman"
+    }
+   ],
+   "descriptions": [
+    "The ruler of all, subtler than the subtle, bright as gold, graspable by a mind as if in sleep (MDh 12.122).",
+    "Some call him Agni, others Manu, Prajāpati, Indra, the breath, the eternal Brahman (MDh 12.123).",
+    "He pervades all beings with the five elements and turns them like a wheel through birth, growth and decay (MDh 12.124).",
+    "The self is one and yet many, like space in pots or the sun reflected in many waters (YS 3.144).",
+    "All living beings are the city of the one who lies in the cave, unslain and stainless (ĀpDh 1.8.22)."
+   ],
+   "relation_to_self": "Seeing the self by yoga is the highest dharma (YS 1.8); knowledge of the self is the highest of all means (MDh 12.85); the self is its own witness (MDh 8.84); seeing the self in all beings one reaches Brahman (MDh 12.125).",
+   "relation_to_world": "The world issues from the self-existent (MDh 1.5–6) and revolves through ages and Manu-periods (MDh 1.68–80); dharma differs by age.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Dharmaśāstra itself states the many-names principle (MDh 12.123) but insists that knowledge of the one does not dissolve the duties of class and life-stage before liberation — the debts must be paid first (MDh 6.35–37) — and the 'one-order' teachers subordinate renunciation and liberation to the householder's dharma.",
+   "rests_on": [
+    "tea:manusmrti:12.118-125",
+    "tea:yajnavalkyasmrti:3.144",
+    "tea:yajnavalkyasmrti:1.7-8",
+    "tea:manusmrti:12.83-85",
+    "tea:apastamba-dharmasutra:1.8.22.2-8",
+    "tea:manusmrti:6.35-37"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U02-brahmana-vedanga"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:dvaita",
+   "lineage": "lin:dvaita",
+   "names": [
+    {
+     "name": "Viṣṇu",
+     "term": "trm:visnu"
+    },
+    {
+     "name": "Nārāyaṇa",
+     "term": "trm:narayana"
+    },
+    {
+     "name": "Hari",
+     "term": "trm:hari"
+    },
+    {
+     "name": "Brahman (in its primary sense only Viṣṇu)",
+     "term": "trm:brahman"
+    },
+    {
+     "name": "Puruṣottama",
+     "term": "trm:purusottama"
+    },
+    {
+     "name": "the Independent (svatantra)",
+     "term": "trm:svatantra"
+    },
+    {
+     "name": "Vāsudeva"
+    },
+    {
+     "name": "Paramātman"
+    }
+   ],
+   "descriptions": [
+    "the one independent reality; everything else is dependent on him (Tattvasaṅkhyāna 1)",
+    "free of all defects and full of all good qualities, each unlimited (Viṣṇutattvavinirṇaya, maṅgala)",
+    "known through the true scriptures alone, not by bare reasoning or the senses (Viṣṇutattvavinirṇaya 1)",
+    "source of the creation, maintenance, dissolution, control, knowledge, ignorance, bondage and release of the world (BSB 1.1.2)",
+    "of the nature of full bliss, knowledge and power; the fourfold Viśva, Taijasa, Prājña, Turīya in all beings (Māṇḍūkya-bhāṣya)",
+    "his qualities, acts, forms and avatāras are identical with him; there is no internal difference in him (MBTN 1.69; VTN 3)",
+    "the primary meaning of every word and letter and the great purport of all scripture (BSB 1.1.1; VTN 1)",
+    "beyond the perishable (all souls) and the imperishable (Lakṣmī) (VTN 2)"
+   ],
+   "negations": [
+    "not without qualities — 'nirguṇa' means free of prakṛti's qualities (Karmanirṇaya)",
+    "not identical with the soul or the world; not their material cause",
+    "not subject to any defect, even in his descents (VTN 3)",
+    "not an attributeless consciousness — such a Brahman would be the Mādhyamika's void (Anuvyākhyāna 2.2.241–242)"
+   ],
+   "relation_to_self": "Eternally different from every soul; the soul is his reflection (pratibimba), wholly dependent on him, moved by him within, and in liberation enjoys its own bliss in his presence, desiring only in accord with his will and still graded and distinct.",
+   "relation_to_world": "The world is real, eternally different from him and wholly dependent; he is its efficient cause and controller, prakṛti its material cause; he brings about its creation, maintenance, dissolution, bondage and release.",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Dvaita affirms one supreme, independent reality and can read Ṛgveda 1.164.46 as 'the wise call the one (Viṣṇu) by many names', since for Madhva all names primarily denote Viṣṇu. It rejects any reading of 'one truth' as an identity in which souls, world and God are ultimately one; it rejects treating difference as provisional, empirical (vyāvahārika) or merely a standpoint; and it rejects placing other deities (Brahmā, Śiva and the rest, who are dependent souls) on a par with Viṣṇu as equal names of the supreme. Any reconciliation that dissolves the five differences is one the tradition explicitly refuses.",
+   "rests_on": [
+    "tea:tattvasankhyana:1",
+    "tea:visnutattvavinirnaya:1",
+    "tea:visnutattvavinirnaya:1/2",
+    "tea:brahma-sutra-bhasya-madhva:1.1.2",
+    "tea:brahma-sutra-bhasya-madhva:1.1.1/6",
+    "tea:mahabharata-tatparya-nirnaya:1.68-71",
+    "tea:visnutattvavinirnaya:3",
+    "tea:visnutattvavinirnaya:2",
+    "tea:mandukya-upanisad-bhasya-madhva:3-7",
+    "tea:karmanirnaya:1",
+    "tea:anuvyakhyana:2.2.241-242",
+    "tea:brahma-sutra-bhasya-madhva:4.2.16"
+   ],
+   "coverage": [
+    "A6",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U15-dvaita"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:dvaitadvaita",
+   "lineage": "lin:dvaitadvaita",
+   "names": [
+    {
+     "name": "Kṛṣṇa (Hari)"
+    },
+    {
+     "name": "Brahman",
+     "term": "trm:brahman"
+    },
+    {
+     "name": "Puruṣottama"
+    },
+    {
+     "name": "Rādhā–Kṛṣṇa (the divine couple, yugala)",
+     "term": "trm:yugala"
+    }
+   ],
+   "descriptions": [
+    "By nature free of every fault, the single mass of all auspicious qualities, having the vyūhas as his limbs (Daśaślokī 4).",
+    "Worshipped with Rādhā, daughter of Vṛṣabhānu, on his left, served by thousands of sakhīs (Daśaślokī 5).",
+    "Both material and efficient cause through his powers; the controller of cit and acit, which are naturally different and non-different from him."
+   ],
+   "negations": [
+    "Denies an attributeless (nirviśeṣa) Brahman.",
+    "Denies that difference is due to adjuncts."
+   ],
+   "relation_to_self": "The soul is an atomic knower, part of the Lord, dependent on him, different and non-different by nature; liberated, it attains his nature without losing its distinctness.",
+   "relation_to_world": "The world is real, a transformation of the Lord's power; acit is prākṛta, aprākṛta or time.",
+   "personal_or_impersonal": "personal",
+   "caveat": "The school holds its dual-and-non-dual relation to be natural and eternal; it would reject a reading that collapses it into identity or into sheer difference.",
+   "rests_on": [
+    "tea:dasasloki:4",
+    "tea:dasasloki:5",
+    "tea:dasasloki:1",
+    "tea:vedanta-parijata-saurabha:3.2.27"
+   ],
+   "coverage": [
+    "A6",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U16-bhedabheda"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:epic-teaching",
    "lineage": "lin:epic-teaching",
    "names": [
@@ -223,7 +738,7 @@
     "tea:bhagavad-gita:15.16-18",
     "tea:bhagavad-gita:7.4-5",
     "tea:bhagavad-gita:9.4-5",
-    "tea:bhagavad-gita:13.2",
+    "tea:bhagavad-gita:13.1-2",
     "tea:bhagavad-gita:12.3-4",
     "tea:bhagavad-gita:12.5",
     "tea:moksadharma:12.294",
@@ -238,6 +753,80 @@
    "provenance": {
     "units": [
      "skeleton:U05-gita-epic"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:gaudiya-vaisnava",
+   "lineage": "lin:gaudiya-vaisnava",
+   "names": [
+    {
+     "name": "Kṛṣṇa, svayaṃ bhagavān",
+     "term": "trm:svayam-bhagavan"
+    },
+    {
+     "name": "Bhagavān",
+     "term": "trm:bhagavat"
+    },
+    {
+     "name": "Paramātman",
+     "term": "trm:paramatman"
+    },
+    {
+     "name": "Brahman",
+     "term": "trm:brahman"
+    },
+    {
+     "name": "Govinda"
+    },
+    {
+     "name": "Rādhā–Kṛṣṇa"
+    },
+    {
+     "name": "Śrī Kṛṣṇa Caitanya (Rādhā and Kṛṣṇa combined)"
+    },
+    {
+     "name": "advaya-jñāna (non-dual knowledge)"
+    }
+   ],
+   "descriptions": [
+    "The non-dual reality is called Brahman, Paramātman and Bhagavān (BhP 1.2.11); Bhagavān is its full manifestation.",
+    "Kṛṣṇa is the supreme Lord, whose form is being, consciousness and bliss, beginningless, the origin and cause of all causes (Brahma Saṃhitā 5.1).",
+    "The possessor of inconceivable powers (acintya-śakti), related to them in inconceivable difference-and-non-difference.",
+    "Rasa itself; most fully manifest in Vraja with Rādhā, his hlādinī-śakti."
+   ],
+   "negations": [
+    "The impersonal Brahman is the effulgence of his body (Brahma Saṃhitā 5.40), an incomplete manifestation, not the highest.",
+    "Denies that his form is a product of māyā or that the world is vivarta."
+   ],
+   "relation_to_self": "The soul is the Lord's marginal power (taṭasthā-śakti), an eternal servant, one with and different from him inconceivably (CC 2.20.108).",
+   "relation_to_world": "The world is a real but temporary transformation of his external power (māyā-śakti); he himself remains unchanged, like the wish-fulfilling gem.",
+   "personal_or_impersonal": "personal",
+   "caveat": "Gauḍīyas accept the three names of BhP 1.2.11 but grade them (Bhagavān fullest); they reject any reading that makes the personal form a provisional appearance of an impersonal Absolute.",
+   "rests_on": [
+    "tea:bhagavata-purana:1.2.11",
+    "tea:bhagavata-purana:1.3.28",
+    "tea:brahma-samhita:5.1",
+    "tea:brahma-samhita:5.40",
+    "tea:caitanya-caritamrta:2.20.108",
+    "tea:caitanya-caritamrta:1.1.5"
+   ],
+   "coverage": [
+    "A6",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U16-bhedabheda"
     ],
     "phases": [
      "skeleton"
@@ -274,6 +863,68 @@
    "provenance": {
     "units": [
      "skeleton:U17-pasupata-kapalika"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:kalikula",
+   "lineage": "lin:kalikula",
+   "names": [
+    {
+     "name": "Kālī / Ādyā Kālikā",
+     "term": "trm:kali"
+    },
+    {
+     "name": "Mahākālī",
+     "term": "trm:mahakali"
+    },
+    {
+     "name": "Śyāmā",
+     "term": "trm:syama"
+    },
+    {
+     "name": "Dakṣiṇakālī",
+     "term": "trm:daksinakali"
+    },
+    {
+     "name": "Ādyā Śakti",
+     "term": "trm:adya-sakti"
+    }
+   ],
+   "descriptions": [
+    "she who devours (kalana) Mahākāla, the devourer of all beings; the beginning of all (Mahānirvāṇa 4.31-32)",
+    "black because every colour disappears in black as all beings enter Kālī (Mahānirvāṇa 13.5-6)",
+    "pure consciousness, witness of all, watching Time play (Mahānirvāṇa 13.12)",
+    "the Śakti without whom Sadāśiva is a corpse (Toḍala 1.25)"
+   ],
+   "negations": [
+    "formless (arūpā): her form is imagined according to her qualities and acts (Mahānirvāṇa 5.140)",
+    "the formless meditation on her is beyond speech and mind (Mahānirvāṇa 5.137-138)"
+   ],
+   "relation_to_self": "The worshipper is to see all as Brahman ('sarvaṃ brahmamayam', Mahānirvāṇa 3.120, 8.175); in the devotional Kālī tradition the self is her child, and in the Kaula view the bound jīva is Śiva himself (Kulārṇava 9.42).",
+   "relation_to_world": "The worlds arise from her and return into her as colours into black; she creates, sustains and devours, and is the Mother of Time (Mahānirvāṇa 5.140; 13.5-8).",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The Kālī tantras make the Goddess the source of Śiva, Brahmā and Viṣṇu (Nirvāṇa Tantra) and treat Viṣṇu's avatāras as her forms (Toḍala 10); they accept a one-truth reading only with her as that truth. The devotional tradition resists dissolving her motherhood into an impersonal absolute.",
+   "rests_on": [
+    "tea:mahanirvana-tantra:4.31-32",
+    "tea:mahanirvana-tantra:5.137-140",
+    "tea:mahanirvana-tantra:13.5-13",
+    "tea:todala-tantra:1.20-25",
+    "tea:todala-tantra:10.9-12"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U24-kali-kaula"
     ],
     "phases": [
      "skeleton"
@@ -399,6 +1050,109 @@
    }
   },
   {
+   "id": "ult:kaula",
+   "lineage": "lin:kaula",
+   "names": [
+    {
+     "name": "Kula and Akula",
+     "term": "trm:kula"
+    },
+    {
+     "name": "Kuleśvarī and Kuleśvara (Bhairava)",
+     "term": "trm:kulesvari"
+    },
+    {
+     "name": "Śiva as the supreme Brahman",
+     "term": "trm:parabrahman"
+    }
+   ],
+   "descriptions": [
+    "Śiva, the supreme Brahman, partless, all-knowing, the doer of all, pure, non-dual, self-luminous, without beginning or end, without qualities, being–consciousness–bliss (Kulārṇava 1.7-8)",
+    "the bliss (ānanda) born of the union of Śakti and Śiva is called liberation (Kulārṇava 5.79)",
+    "bliss is the form of Brahman, and it abides in the body (Kulārṇava 5.80)"
+   ],
+   "negations": [
+    "beyond both duality and non-duality (Kulārṇava 1.110)"
+   ],
+   "relation_to_self": "The individual souls are parts of Śiva like sparks of a fire, covered by beginningless ignorance (Kulārṇava 1.8-9); bound by fetters the self is jīva, freed it is Sadāśiva (Kulārṇava 9.42-43).",
+   "relation_to_world": "Kula is Śakti — the totality of powers and of the manifest — and Akula is Śiva; the Kaula joins both (Kulārṇava 17.27).",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The Kaula texts refuse to be classed as dualist or non-dualist (Kulārṇava 1.110) and insist that the truth is realised through the guru's transmission and Kula practice, not by learning (1.96-100); a purely doctrinal one-truth reading leaves out the ritual and lineage conditions they make essential.",
+   "rests_on": [
+    "tea:kularnava-tantra:1.7-8",
+    "tea:kularnava-tantra:1.110",
+    "tea:kularnava-tantra:5.79-80",
+    "tea:kularnava-tantra:9.41-43",
+    "tea:kularnava-tantra:17.27"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U24-kali-kaula"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:kaula-srividya",
+   "lineage": "lin:kaula-srividya",
+   "names": [
+    {
+     "name": "Tripurā / Mahātripurasundarī",
+     "term": "trm:tripurasundari"
+    },
+    {
+     "name": "Kāmeśvarī on Kāmeśvara's lap",
+     "term": "trm:kamesvari"
+    },
+    {
+     "name": "Parā Saṃvid",
+     "term": "trm:para"
+    }
+   ],
+   "descriptions": [
+    "Tripurā is the fusion of prakāśa and vimarśa (Dīpikā on YH 1.6).",
+    "The kāmakalā — two bindus, white and red, and their union — is the Goddess's own form; knowing it one becomes Mahātripurasundarī (Kāmakalāvilāsa 6-8)."
+   ],
+   "relation_to_self": "Knowledge of the cakra-saṅketa makes one liberated while living, abiding in the I-sense of Śiva (YH 1.86 with the Dīpikā).",
+   "relation_to_world": "The cakra of thirty-six principles unfolds when Śakti beholds her own vibrancy (YH 1.9-10).",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "This line holds the Goddess is both Kaula and Samaya and that outer worship is part of the path even for the knower; it would not accept a Samaya reconciliation that declares Kaula worship outside the Veda.",
+   "rests_on": [
+    "tea:yoginihrdaya:1.6",
+    "tea:yoginihrdaya:1.86",
+    "tea:kamakalavilasa:6-8",
+    "tea:yoginihrdaya:1.9-10"
+   ],
+   "coverage": [
+    "A8",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U23-sakta-srividya"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:kerala-tantra",
    "lineage": "lin:kerala-tantra",
    "names": [
@@ -438,7 +1192,7 @@
    "names": [
     {
      "name": "Kālī",
-     "term": "trm:kali-krama"
+     "term": "trm:kali"
     },
     {
      "name": "Kālasaṅkarṣiṇī",
@@ -480,6 +1234,56 @@
    "provenance": {
     "units": [
      "skeleton:U19-kashmir-saivism"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:kubjika",
+   "lineage": "lin:kubjika",
+   "names": [
+    {
+     "name": "Kubjikā (Kujā, Kujeśvarī)",
+     "term": "trm:kubjika"
+    },
+    {
+     "name": "Navātman / Kujeśa Bhairava",
+     "term": "trm:navatman"
+    },
+    {
+     "name": "the supreme Yoni",
+     "term": "trm:yoni"
+    }
+   ],
+   "descriptions": [
+    "the supreme power of knowledge, will and action, straight as a line and again coiled like a sleeping serpent, the power of sound (Kubjikāmata 2.2, hymn)",
+    "the supreme primal yoni of the supreme, fourfold as beyond form, form, word and body (Kubjikāmata 11.6-7)",
+    "dark as collyrium, bent, both beautiful and deformed, of many forms (Kubjikāmata 2.4-5)"
+   ],
+   "negations": [
+    "beyond form (rūpātīta) at its highest level (Kubjikāmata 11.7)"
+   ],
+   "relation_to_self": "The Goddess is the coiled power within the practitioner's body, located in the six centres; the initiate receives her command (ājñā) through the guru lineage.",
+   "relation_to_world": "The world is born within the sixfold order of the Goddess (Kubjikāmata 11.13-16); Bhairava and she are cause and effect of one another (2.17-18).",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The Kubjikā ultimate is expressed through a secret mantra-maṇḍala system and lineage command; the tradition treats this knowledge as unshareable outside initiation, so any one-truth equation is at most an outer reading.",
+   "rests_on": [
+    "tea:kubjikamata-tantra:2.2-5",
+    "tea:kubjikamata-tantra:2.17-18",
+    "tea:kubjikamata-tantra:11.6-7"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U24-kali-kaula"
     ],
     "phases": [
      "skeleton"
@@ -633,6 +1437,309 @@
    "provenance": {
     "units": [
      "skeleton:U19-kashmir-saivism"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:mimamsa",
+   "lineage": "lin:mimamsa",
+   "names": [
+    {
+     "name": "dharma",
+     "term": "trm:dharma"
+    },
+    {
+     "name": "the Veda (authorless, eternal word)",
+     "term": "trm:veda"
+    },
+    {
+     "name": "niḥśreyasa (the highest good to which dharma joins a person)",
+     "term": "trm:nihsreyasa"
+    }
+   ],
+   "descriptions": [
+    "Dharma is the beneficial object (artha) whose mark is Vedic injunction (MS 1.1.2).",
+    "Injunction alone can make known what is past, present, future, subtle, hidden or remote; no sense faculty can (Śabara on MS 1.1.2).",
+    "The Veda is authorless and eternal, its word-meaning relation original, and it is therefore a self-sufficient means of knowing dharma (MS 1.1.5, 1.1.27–32)."
+   ],
+   "negations": [
+    "No creator who composes the Veda or dispenses the fruits of action is established (ŚV sambandhākṣepaparihāra 42–116; Prakaraṇapañcikā ch. 7).",
+    "Deities are not the principal element of a rite, nor embodied eaters of offerings (MS 9.1.9 with Śabara).",
+    "No person perceives dharma directly (ŚV codanā 110–136)."
+   ],
+   "relation_to_self": "Selves are many, eternal and all-pervading; each is agent and enjoyer of the fruits of its own ritual action.",
+   "relation_to_world": "The world is real and beginningless, with no total creation or dissolution; it is the field in which dharma and adharma ripen.",
+   "personal_or_impersonal": "not-posited",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "Classical Mīmāṃsā posits no single ultimate in the Vedāntic sense: no Brahman as the one ground of all and no creator Īśvara. Its highest authority is the authorless Veda, its highest object dharma, whose declared fruit is heaven (svarga) and, for later teachers, release as the end of embodiment. Reading dharma or the Veda as a name of 'the One' of RV 1.164.46 is an interpretation the classical school does not make. Later theistic Mīmāṃsakas (Āpadeva, Laugākṣi Bhāskara, Vedānta Deśika) dedicate dharma to Govinda/Īśvara, but still do not make the Lord the subject matter of the Pūrva Mīmāṃsā.",
+   "rests_on": [
+    "tea:mimamsa-sutra:1.1.2",
+    "tea:sabara-bhasya:1.1.2",
+    "tea:mimamsa-sutra:1.1.5",
+    "tea:mimamsa-sutra:9.1.9",
+    "tea:slokavarttika:sambandhaksepaparihara.42-47",
+    "tea:slokavarttika:codana.117-118"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U12-mimamsa"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:murari-mimamsa",
+   "lineage": "lin:murari-mimamsa",
+   "names": [
+    {
+     "name": "dharma",
+     "term": "trm:dharma"
+    }
+   ],
+   "descriptions": [
+    "Shares the general Mīmāṃsā orientation to dharma known from the Veda; its distinctive surviving teaching concerns only how the validity of cognition is known."
+   ],
+   "personal_or_impersonal": "not-posited",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "Almost nothing of this school's metaphysics survives; this view is a minimal placeholder inherited from the parent school and should not be read as a reconstructed doctrine.",
+   "rests_on": [],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U12-mimamsa"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:navya-nyaya",
+   "lineage": "lin:navya-nyaya",
+   "names": [
+    {
+     "name": "Īśvara",
+     "term": "trm:isvara"
+    },
+    {
+     "name": "Paramātman",
+     "term": "trm:paramatman"
+    },
+    {
+     "name": "Kṛṣṇa (in Viśvanātha's invocation)"
+    }
+   ],
+   "descriptions": [
+    "The one omniscient supreme self; His cognition, desire and effort are eternal (Tarkasaṅgraha).",
+    "His convention 'from this word this meaning is to be understood' is the denotative power of words; all Vedic statements are valid because He spoke them (Tarkasaṅgraha).",
+    "Proved as the maker of earth, sprouts and the like because they are effects (Gaṅgeśa; Viśvanātha).",
+    "Viśvanātha salutes Kṛṣṇa as the seed of the tree of saṃsāra (Bhāṣāpariccheda 1)."
+   ],
+   "negations": [
+    "not the material cause of the world",
+    "no non-eternal cognition (His cognition is eternal)"
+   ],
+   "relation_to_self": "The supreme self is one of the two kinds of self; individual selves are distinct in each body, all-pervading and eternal (Tarkasaṅgraha).",
+   "relation_to_world": "Maker (efficient cause) of all effects; the categories are real and exactly definable.",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "As for Nyāya; in addition, Navya-Nyāya's analysis never admits a featureless or indeterminable ultimate, and it defends the exact definability of categories against Advaita's claim that they are indeterminable.",
+   "rests_on": [
+    "tea:tarkasangraha:atman",
+    "tea:tarkasangraha:sabda",
+    "tea:tattvacintamani:anumana.isvaranumana",
+    "tea:bhasapariccheda:1"
+   ],
+   "coverage": [
+    "A5",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U11-nyaya-vaisesika"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:nayanmar",
+   "lineage": "lin:nayanmar",
+   "names": [
+    {
+     "name": "Civaṉ / Civam",
+     "term": "trm:civam"
+    },
+    {
+     "name": "Ammaiyappaṉ (Mother-Father, Śiva with Umā)"
+    },
+    {
+     "name": "Pittaṉ ('the Madman')"
+    },
+    {
+     "name": "the Lord of each shrine (Tillaiyampalavāṇaṉ, Ārūraṉ …)"
+    }
+   ],
+   "descriptions": [
+    "love itself (Tirumantiram 270)",
+    "the one whom the Vedas call 'not this, not this', who came as guru and took the devotee as his own",
+    "the dancer in the cremation ground and in the golden hall",
+    "the thief who stole the heart"
+   ],
+   "negations": [
+    "beyond the reach of Brahmā and Viṣṇu, who could not find his crown and feet"
+   ],
+   "relation_to_self": "The devotee is his servant, son or friend; grace melts the heart; love of him is himself.",
+   "relation_to_world": "He dwells in the named temples of the Tamil land; all the universes are motes before him.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Devotional, not scholastic; the hymns praise Śiva as supreme and reject Jain and Buddhist teaching.",
+   "rests_on": [
+    "tea:tirumantiram:270",
+    "tea:tiruvacakam:1/3",
+    "tea:tevaram:1.1.1",
+    "tea:tiruvacakam:3"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U18-saiva-siddhanta"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:nyaya",
+   "lineage": "lin:nyaya",
+   "names": [
+    {
+     "name": "Īśvara",
+     "term": "trm:isvara"
+    },
+    {
+     "name": "Parameśvara / Paramātman",
+     "term": "trm:paramatman"
+    },
+    {
+     "name": "Śiva (Pinākin) in the invocations of early Naiyāyikas"
+    },
+    {
+     "name": "the all-knowing (viśvavid) of NK 5.1"
+    }
+   ],
+   "descriptions": [
+    "A distinct self (ātmāntara) qualified by virtues: free of demerit, false knowledge and heedlessness; endowed with merit, knowledge and concentration; possessing eightfold lordship (NBh 4.1.21).",
+    "He assists human effort and brings about the fruits of action; as a father to his children, so is He to beings (NBh 4.1.21).",
+    "The all-knowing, imperishable maker proved from the world's effecthood, the combining of atoms, support and destruction, traditional skills, the validity of the Veda, scripture, the Veda's sentences and special number (NK 5.1).",
+    "Reasoning about Him is itself worship; worship of Him is the path to heaven and liberation (NK 1.2–1.3).",
+    "The one whom all schools worship under different names — Śiva, Puruṣottama, the Grandfather, the omniscient, the unobstructed … (NK stabaka 1, opening prose).",
+    "Author of the Veda, whose validity rests on its being rooted in His perception (Gaṅgeśa)."
+   ],
+   "negations": [
+    "free of demerit (adharma), false knowledge (mithyājñāna) and heedlessness (pramāda) (NBh 4.1.21)",
+    "not the material cause of atoms, selves, ākāśa, time, space or minds, which are eternal"
+   ],
+   "relation_to_self": "Īśvara is one self among many eternal, all-pervading selves — a special self. Individual selves are eternally distinct from Him and from each other; He makes their karma fruitful. Liberation is not union with Him but the self's absolute release from pain.",
+   "relation_to_world": "Efficient cause of the world: He sets eternal atoms in motion according to the selves' merit and demerit and brings about dissolution; the world of substances, qualities, motions, universals and relations is real, not an appearance.",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Nyāya would reject reading 'one truth' as ontological monism: selves are eternally many and distinct from the Lord; atoms, ākāśa, time, space and minds are eternal reals not produced by Him; liberation is not merger. Udayana's statement that all schools worship one Lord under different names is made from within Nyāya theism and does not concede the other schools' doctrines; Buddhists and Mīmāṃsakas named there reject being so included. Nyāya also rejects any levels-of-truth reading of its own realism.",
+   "rests_on": [
+    "tea:nyaya-sutra:4.1.19-21",
+    "tea:nyaya-bhasya:4.1.21",
+    "tea:nyaya-kusumanjali:5.1",
+    "tea:nyaya-kusumanjali:1.opening-prose",
+    "tea:nyaya-kusumanjali:1.3",
+    "tea:tattvacintamani:sabda.veda-pramanya"
+   ],
+   "coverage": [
+    "A5",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U11-nyaya-vaisesika"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:pancacarya",
+   "lineage": "lin:pancacarya",
+   "names": [
+    {
+     "name": "Paraśiva (Śiva qualified by Śakti)",
+     "term": "trm:parasiva"
+    },
+    {
+     "name": "Mahāliṅga / parabrahman",
+     "term": "trm:mahalinga"
+    }
+   ],
+   "descriptions": [
+    "Śivādvaita: the non-duality of Śiva taught in agreement with Veda and Vedānta (SSM 3.83–87)",
+    "the great liṅga is supreme brahman, the breath the jīva (SSM 12.21–24)"
+   ],
+   "negations": [
+    "beyond speech and mind, self-luminous, indescribable (SSM 12.21–24)"
+   ],
+   "relation_to_self": "Difference of Lord and servant governs worship; non-duality is realized at aikya.",
+   "relation_to_world": "The world is Śiva-made, arising from and dissolving into the liṅga.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Would reject any reading that dispenses with worship of the liṅga before realization (SSM 10.37–43).",
+   "rests_on": [
+    "tea:siddhantasikhamani:3.83-87",
+    "tea:siddhantasikhamani:12.21-24",
+    "tea:siddhantasikhamani:10.37-38"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U20-virasaiva"
     ],
     "phases": [
      "skeleton"
@@ -833,6 +1940,53 @@
    }
   },
   {
+   "id": "ult:prabhakara-mimamsa",
+   "lineage": "lin:prabhakara-mimamsa",
+   "names": [
+    {
+     "name": "kārya / niyoga (what is to be done, known only from the Veda)",
+     "term": "trm:karya"
+    },
+    {
+     "name": "dharma",
+     "term": "trm:dharma"
+    }
+   ],
+   "descriptions": [
+    "The Veda's authority lies in making known what is to be done; statements about accomplished things are not independently authoritative (Prakaraṇapañcikā ch. 8).",
+    "Released, the self remains in mere being (sanmātra), all-pervading, beyond all apprehension (Prakaraṇapañcikā ch. 8)."
+   ],
+   "negations": [
+    "No Īśvara supervises dharma and adharma or creates the world (Prakaraṇapañcikā ch. 7, Īśvaranirākaraṇa).",
+    "Liberation is not the manifestation of a supreme bliss (Prakaraṇapañcikā ch. 8).",
+    "Release is not the 'setting' of ignorance (avidyā-astamaya) held by Maṇḍana (Prakaraṇapañcikā ch. 8)."
+   ],
+   "relation_to_self": "Selves are many, eternal and all-pervading; in themselves non-luminous, they appear as subjects in every cognition.",
+   "relation_to_world": "The world is real, arising and perishing in parts, without total creation or dissolution.",
+   "personal_or_impersonal": "not-posited",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The Prābhākaras explicitly deny a supervising Lord and deny that the Veda teaches an existent absolute; any reading of their 'what is to be done' (kārya) as a name of one truth would be foreign to them.",
+   "rests_on": [
+    "tea:prakaranapancika:7/2",
+    "tea:prakaranapancika:8/2",
+    "tea:prakaranapancika:8/3"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U12-mimamsa"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:pratyabhijna",
    "lineage": "lin:pratyabhijna",
    "names": [
@@ -881,6 +2035,362 @@
    "provenance": {
     "units": [
      "skeleton:U19-kashmir-saivism"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:puranic",
+   "lineage": "lin:puranic",
+   "names": [
+    {
+     "name": "Brahman, Paramātman, Bhagavān",
+     "term": "trm:bhagavat"
+    },
+    {
+     "name": "Viṣṇu / Vāsudeva / Kṛṣṇa (Vaiṣṇava Purāṇas)",
+     "term": "trm:bhagavat"
+    },
+    {
+     "name": "Śiva, niṣkala and sakala (Śaiva Purāṇas)",
+     "term": "trm:niskala"
+    },
+    {
+     "name": "the Goddess, Mahāmāyā (Śākta Purāṇas)",
+     "term": "trm:mahamaya"
+    },
+    {
+     "name": "Brahman",
+     "term": "trm:brahman"
+    }
+   ],
+   "descriptions": [
+    "The supreme truth from which the world's birth, maintenance and end proceed, self-luminous, free of deception (BhP 1.1.1).",
+    "One non-dual reality called Brahman, Paramātman and Bhagavān (BhP 1.2.11); Bhagavān has the six excellences (VP 6.5.74-79).",
+    "The world is the śakti of the supreme Brahman, like the spreading light of a fire (VP 1.22.56); Viṣṇu's śakti is threefold (VP 6.7.61).",
+    "One Lord takes the names Brahmā, Viṣṇu and Śiva by function (VP 1.2.66).",
+    "Śiva alone is both partless Brahman and with form, worshipped in the liṅga (ŚiP 1.5.10-13); the unmarked is the root of the mark (LiP 1.3.1).",
+    "The Goddess is eternal, the world is her form; she alone exists and her powers return into her (DM 1; 10)."
+   ],
+   "negations": [
+    "the Lord's gross and subtle forms negated as superimposed by ignorance, for the vision of Brahman (BhP 1.3.30-33)",
+    "the supreme reality cannot be spoken, beyond words (VP 6.7.100)",
+    "Brahman beyond sat and asat before creation (BhP 2.9.32)"
+   ],
+   "relation_to_self": "Varies by text: non-difference once ignorance is gone (VP 6.7.93-96; BhP 12.5.11) alongside the devotee's eternal service that refuses even oneness (BhP 3.29.13); the self is 'made of nirvāṇa and knowledge' (VP 6.7.22).",
+   "relation_to_world": "The world is the Lord's power and play (līlā), manifested and withdrawn in cycles of creation and dissolution; the Lord pervades beings as the elements pervade things, 'in them and not in them' (BhP 2.9.34).",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The Purāṇas are not one school: Vaiṣṇava, Śaiva and Śākta Purāṇas each name their deity as the ultimate and often subordinate the others; passages of identity (VP 1.2.66; the Kūrma) coexist with sectarian ranking. Commentators read the same Purāṇa as non-dual (Śrīdhara) or as teaching eternal difference (Madhva) or inconceivable difference-in-identity (Jīva). A 'one truth' reading is supported by some passages and rejected by sectarian commentators.",
+   "rests_on": [
+    "tea:bhagavata-purana:1.1.1",
+    "tea:bhagavata-purana:1.2.11",
+    "tea:visnu-purana:6.5.74-79",
+    "tea:visnu-purana:1.22.56-57",
+    "tea:visnu-purana:6.7.61-63",
+    "tea:visnu-purana:1.2.66-67",
+    "tea:siva-purana:1.5.10-13",
+    "tea:linga-purana:1.3.1",
+    "tea:devi-mahatmya:1/2",
+    "tea:devi-mahatmya:10",
+    "tea:bhagavata-purana:1.3.30-33",
+    "tea:visnu-purana:6.7.100",
+    "tea:bhagavata-purana:2.9.32-35",
+    "tea:visnu-purana:6.7.93-96",
+    "tea:bhagavata-purana:3.29.13"
+   ],
+   "coverage": [
+    "A4",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U07-puranas"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:pustimarga",
+   "lineage": "lin:pustimarga",
+   "names": [
+    {
+     "name": "Puruṣottama Śrī Kṛṣṇa"
+    },
+    {
+     "name": "Brahman",
+     "term": "trm:brahman"
+    },
+    {
+     "name": "Akṣara Brahman",
+     "term": "trm:aksara-brahman"
+    },
+    {
+     "name": "Antaryāmin"
+    },
+    {
+     "name": "Śrīnāthjī (Govardhananāthajī), the self-manifest form"
+    }
+   ],
+   "descriptions": [
+    "Being-consciousness-bliss (sat-cit-ānanda), pure (śuddha) — untouched by māyā.",
+    "The locus of contradictory attributes (viruddha-dharmāśraya): with and without qualities, moving and unmoving.",
+    "Puruṣottama is the highest; Akṣara Brahman is his abode and the goal of knowers; Antaryāmin dwells within.",
+    "Madhurāṣṭaka: everything of the lord of sweetness is sweet."
+   ],
+   "negations": [
+    "Denies that māyā has any part in Brahman or in the world's reality (against Śaṅkara's māyāvāda)."
+   ],
+   "relation_to_self": "The soul is a spark-like part (aṃśa) of Brahman in which bliss (ānanda) is concealed by the Lord's will; by grace it is manifested in service.",
+   "relation_to_world": "The world is Brahman itself, transformed without change (avikṛta-pariṇāma); real and to be honoured; only saṃsāra — the soul's 'I and mine' — is unreal.",
+   "personal_or_impersonal": "both",
+   "caveat": "The impersonal Akṣara is held lower than Puruṣottama; Puṣṭimārga would reject any equalising of the knower's Brahman and the devotee's Kṛṣṇa.",
+   "rests_on": [
+    "tea:tattvarthadipanibandha:1.7",
+    "tea:anubhasya:1.4.26",
+    "tea:madhurastaka:1",
+    "tea:siddhantamuktavali:3-6"
+   ],
+   "coverage": [
+    "A6",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U16-bhedabheda"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:raghavendra-matha",
+   "lineage": "lin:raghavendra-matha",
+   "names": [
+    {
+     "name": "Viṣṇu (Hari, Nārāyaṇa)",
+     "term": "trm:visnu"
+    }
+   ],
+   "descriptions": [
+    "The Rāghavendra Maṭha holds the Dvaita teaching on the ultimate without variation; see ult:dvaita."
+   ],
+   "relation_to_self": "As in ult:dvaita.",
+   "relation_to_world": "As in ult:dvaita.",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "As in ult:dvaita; the maṭha has no separate doctrine of the ultimate.",
+   "rests_on": [
+    "tea:tattvasankhyana:1"
+   ],
+   "coverage": [
+    "A6"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U15-dvaita"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:saiva-siddhanta",
+   "lineage": "lin:saiva-siddhanta",
+   "names": [
+    {
+     "name": "Śiva",
+     "term": "trm:siva"
+    },
+    {
+     "name": "Pati",
+     "term": "trm:pati"
+    },
+    {
+     "name": "Parameśvara"
+    },
+    {
+     "name": "Hara"
+    },
+    {
+     "name": "Sadāśiva (for worship)",
+     "term": "trm:sadasiva"
+    }
+   ],
+   "descriptions": [
+    "one, eternally free (anādimukta), omniscient and omnipotent",
+    "a mass of consciousness, pervasive, ever-risen, tranquil, who favours all (Tattvaprakāśa 1)",
+    "acts by a single conscious power (śakti) and has no body of māyā; for worship, a body of mantras",
+    "performs the five acts for the souls' release"
+   ],
+   "negations": [
+    "not the material cause of the world",
+    "not identical with souls",
+    "unchanged by his acts"
+   ],
+   "relation_to_self": "Souls are eternal and many, distinct from Śiva; freed, each becomes equal to Śiva (a 'Śiva') in knowledge and agency without becoming him.",
+   "relation_to_world": "The world is real, produced from māyā (and bindu) as material cause, with Śiva as efficient cause; it exists to ripen and release souls.",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Accepts one supreme Lord but denies that souls and māyā are his appearances; a 'one truth' reading that collapses souls or the world into Śiva is rejected.",
+   "rests_on": [
+    "tea:tattvaprakasa-bhoja:1",
+    "tea:naresvarapariksa:3",
+    "tea:moksakarika:1-150",
+    "tea:ratnatraya-srikantha:1-300"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U18-saiva-siddhanta"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:sakta",
+   "lineage": "lin:sakta",
+   "names": [
+    {
+     "name": "Devī / Mahādevī",
+     "term": "trm:devi"
+    },
+    {
+     "name": "Śakti / Parā Śakti",
+     "term": "trm:sakti"
+    },
+    {
+     "name": "Mahāmāyā",
+     "term": "trm:mahamaya"
+    },
+    {
+     "name": "Ambikā, the Mother",
+     "term": "trm:amba"
+    },
+    {
+     "name": "Caṇḍikā / Durgā",
+     "term": "trm:durga"
+    },
+    {
+     "name": "Brahman",
+     "term": "trm:brahman"
+    }
+   ],
+   "descriptions": [
+    "Before creation the Goddess alone existed; she produced the cosmic egg and the gods (Bahvṛca Upaniṣad; Devī Gītā 7.32).",
+    "She is eternal and the world is her form; yet for the gods' sake she is born again and again (Devī Māhātmya 1).",
+    "She abides in all beings as consciousness, intelligence, sleep, hunger, power, faith, peace, compassion and mother (Devī Māhātmya 5).",
+    "She is Mahāmāyā, who drags even the minds of the wise into delusion, and when pleased grants liberation (Devī Māhātmya 1).",
+    "She declares herself Brahman, of the nature of consciousness (Devī Upaniṣad)."
+   ],
+   "negations": [
+    "nirguṇā, niṣkalā, nirākārā — without qualities, parts or form (Lalitā Sahasranāma 43-45)",
+    "beyond the three gods' consorts, 'a certain fourth', hard to reach, of boundless greatness (Saundaryalaharī 98)"
+   ],
+   "relation_to_self": "She is the inner self of all; 'she is the self' (Bahvṛca); she abides in beings as consciousness.",
+   "relation_to_world": "The world is her manifestation and her body; she creates, sustains and withdraws it and deludes and liberates through her power of māyā.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Śāktas name the ultimate as the feminine Śakti, the Mother, and many resist readings that make her a mere attribute of a male god or that make the world she manifests unreal; but Śākta texts themselves identify her with the Brahman of the Upaniṣads and declare all goddesses her forms, which fits the one-truth reading.",
+   "rests_on": [
+    "tea:devi-upanisad:1-2",
+    "tea:bahvrca-upanisad:1-3",
+    "tea:devi-mahatmya:1/2",
+    "tea:devi-mahatmya:5",
+    "tea:devi-gita:7.32.1-5",
+    "tea:lalita-sahasranama:43-45",
+    "tea:saundarya-lahari:98"
+   ],
+   "coverage": [
+    "A8",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U23-sakta-srividya"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:samaya-srividya",
+   "lineage": "lin:samaya-srividya",
+   "names": [
+    {
+     "name": "Samayā (the Goddess) with Samaya (Śiva)",
+     "term": "trm:samaya"
+    },
+    {
+     "name": "Bhagavatī / Brahman",
+     "term": "trm:brahman"
+    }
+   ],
+   "descriptions": [
+    "Śiva and Śakti are equal in primacy, sharing a fivefold equality of seat, state, action, form and name (Lakṣmīdhara on SL 41).",
+    "The Goddess worshipped in the thousand-petalled lotus, where the Śrīcakra is the moon-disc (Lakṣmīdhara on SL 10)."
+   ],
+   "relation_to_self": "The Goddess is realized within, in the space of the heart and the crown; the Samayin identifies the cakra with his own inner space.",
+   "relation_to_world": "The world is produced by the Śiva-Śakti pair acting together as father and mother (SL 41).",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The Samaya school rejects the uttara-Kaula view that only the Śakti principle exists and the pūrva-Kaula view that makes Śiva her body alone; any reconciliation with Kaula views must record this objection.",
+   "rests_on": [
+    "tea:laksmidhara:41",
+    "tea:laksmidhara:10",
+    "tea:saundarya-lahari:41"
+   ],
+   "coverage": [
+    "A8",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U23-sakta-srividya"
     ],
     "phases": [
      "skeleton"
@@ -948,6 +2458,188 @@
    }
   },
   {
+   "id": "ult:sannyasa",
+   "lineage": "lin:sannyasa",
+   "names": [
+    {
+     "name": "Brahman",
+     "term": "trm:brahman"
+    },
+    {
+     "name": "Ātman (the Self)",
+     "term": "trm:atman"
+    },
+    {
+     "name": "Nārāyaṇa / Viṣṇu",
+     "term": "trm:narayana"
+    },
+    {
+     "name": "Śiva (the jīva is Śiva)",
+     "term": "trm:siva"
+    },
+    {
+     "name": "turīya / turīyātīta",
+     "term": "trm:turiyatita"
+    },
+    {
+     "name": "the praṇava beyond its measures",
+     "term": "trm:pranava"
+    }
+   ],
+   "descriptions": [
+    "The Self realized by the renouncer as 'so'ham' — 'I am He' (Maitreya 2.1; Nāradaparivrājaka 9).",
+    "The sixteenth measure of the praṇava and the state beyond the fourth (Nāradaparivrājaka 8; Paramahaṃsaparivrājaka).",
+    "That in which renunciation consists: the union of jīva and the supreme (Maitreya 2.17)."
+   ],
+   "negations": [
+    "neti neti (Nāradaparivrājaka 9, quoting the Bṛhadāraṇyaka)",
+    "not reached by staff, shaving, garb or show (Nāradaparivrājaka 5)"
+   ],
+   "relation_to_self": "Identical: the renouncer's own Self is Brahman, and the jīva in the body-temple is Śiva alone (Maitreya 2.1; Avadhūta 1). In the Vaiṣṇava Śāṭyāyanīya the renouncer serves Viṣṇu and bears his marks.",
+   "relation_to_world": "The world is renounced as the field of the three desires (for wife, wealth and worlds); for the knower it is superimposed and no longer binding; rites cease because 'the sun of consciousness neither rises nor sets' (Maitreya 2.14).",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The renunciate ideal is a way of life before it is a doctrine: the texts insist that the ultimate is realized only by one who has actually abandoned the ritual world, and they disagree among themselves (Advaitin paramahaṃsa vs Vaiṣṇava tridaṇḍin) on whether outer marks are to be kept. A one-truth reading must not dissolve that insistence on renunciation or the Vaiṣṇava strand's theism.",
+   "rests_on": [
+    "tea:maitreya-upanisad:2.1",
+    "tea:maitreya-upanisad:2.17",
+    "tea:maitreya-upanisad:2.13-14",
+    "tea:naradaparivrajaka-upanisad:9",
+    "tea:naradaparivrajaka-upanisad:8",
+    "tea:avadhuta-upanisad:1",
+    "tea:satyayani-upanisad:9-11"
+   ],
+   "coverage": [
+    "A2",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U04-minor-upanisads"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:sarana-vacana",
+   "lineage": "lin:sarana-vacana",
+   "names": [
+    {
+     "name": "Kūḍalasaṅgamadēva"
+    },
+    {
+     "name": "Guhēśvara"
+    },
+    {
+     "name": "Cennamallikārjuna"
+    },
+    {
+     "name": "Śūnya / Bayalu",
+     "term": "trm:bayalu"
+    },
+    {
+     "name": "Liṅga",
+     "term": "trm:linga"
+    }
+   ],
+   "descriptions": [
+    "the one god, lord of the meeting rivers (Basava)",
+    "the beautiful one without death, decay or form (Akka Mahādēvi)",
+    "the void in which liṅga and aṅga are not two (Allama)"
+   ],
+   "negations": [
+    "not the many gods of pot and winnowing fan (Basava)",
+    "bayalu — no enclosure (Allama)"
+   ],
+   "relation_to_self": "The devotee is servant (dāsōhaṃ), bride and finally one with the liṅga.",
+   "relation_to_world": "The world is to be lived in through work as worship and sharing; the moving devotee is Śiva's temple.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Many in this strand reject framing the vacanas' Lord in Vedāntic or Sanskrit-philosophical terms.",
+   "rests_on": [
+    "tea:basavanna-vacanas:v-the-pot-is-a-god",
+    "tea:akka-mahadevi-vacanas:savillada-kedillada",
+    "tea:sunyasampadane:the-void",
+    "tea:basavanna-vacanas:soham-endenisade"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U20-virasaiva"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:siva-visistadvaita",
+   "lineage": "lin:siva-visistadvaita",
+   "names": [
+    {
+     "name": "Śiva (Parameśvara, Paraśiva)"
+    },
+    {
+     "name": "Brahman",
+     "term": "trm:brahman"
+    },
+    {
+     "name": "Paramākāśa / dahara (the supreme ether in the heart)"
+    },
+    {
+     "name": "Umā-sahāya (accompanied by Umā)"
+    }
+   ],
+   "descriptions": [
+    "Śiva endowed with cit-śakti, free from all defects, the material and efficient cause of the world.",
+    "The supreme ether of the Upaniṣads is his śakti; he is to be meditated on in the small space of the heart."
+   ],
+   "negations": [
+    "Denies an attributeless Brahman without śakti.",
+    "Denies that Śiva is only the efficient cause."
+   ],
+   "relation_to_self": "Souls (paśu) are his body and attribute, distinct yet inseparable; liberated, they become equal to Śiva in bliss (śiva-sāmya) but not identical.",
+   "relation_to_world": "The world is real, a manifestation of the subtle world held in Śiva's śakti.",
+   "personal_or_impersonal": "personal",
+   "caveat": "Appayya Dīkṣita read the school as a step towards Advaita; the school's own text and its Vīraśaiva heirs hold the qualified non-dualism as final.",
+   "rests_on": [
+    "tea:srikantha-bhasya:1.1.2",
+    "tea:srikantha-bhasya:1.3.14",
+    "tea:srikantha-bhasya:4.4.17"
+   ],
+   "coverage": [
+    "A6",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U16-bhedabheda"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:spanda",
    "lineage": "lin:spanda",
    "names": [
@@ -996,6 +2688,190 @@
    "provenance": {
     "units": [
      "skeleton:U19-kashmir-saivism"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:srividya",
+   "lineage": "lin:srividya",
+   "names": [
+    {
+     "name": "Lalitā",
+     "term": "trm:lalita"
+    },
+    {
+     "name": "Mahātripurasundarī",
+     "term": "trm:tripurasundari"
+    },
+    {
+     "name": "Tripurā",
+     "term": "trm:tripura"
+    },
+    {
+     "name": "Kāmeśvarī",
+     "term": "trm:kamesvari"
+    },
+    {
+     "name": "Rājarājeśvarī",
+     "term": "trm:rajarajesvari"
+    },
+    {
+     "name": "Parābhaṭṭārikā",
+     "term": "trm:para"
+    },
+    {
+     "name": "Śrīvidyā",
+     "term": "trm:srividya"
+    }
+   ],
+   "descriptions": [
+    "Tripurā is the supreme, whose nature is the fusion (sāmarasya) of light (prakāśa) and self-awareness (vimarśa) (Amṛtānanda on Yoginīhṛdaya 1.6).",
+    "Maheśa, whose body is pure light, holds self-awareness within; the primal Śakti is the stainless mirror in which Śiva knows himself; their union is the great point (mahābindu) and the 'I' (Kāmakalāvilāsa 1-5).",
+    "She is consciousness-power (citśakti) and also the power of the insentient (Lalitā Sahasranāma 90).",
+    "She is 'the form of the oneness of Śiva and Śakti' and dwells in the king of cakras (Lalitā Sahasranāma 182-183).",
+    "When the supreme Śakti, by her own will, beholds her own vibrancy, the cakra (the universe) arises (Yoginīhṛdaya 1.9-10)."
+   ],
+   "negations": [
+    "nirguṇā, niṣkalā, nirupādhi — beyond qualities, parts and limiting adjuncts (Lalitā Sahasranāma 43-45)",
+    "beyond the reach of mind and speech (manovācām agocarā, Lalitā Sahasranāma 89)"
+   ],
+   "relation_to_self": "The Goddess is one's own self: the jīva is Śiva clothed in coverings, Paraśiva is the uncovered (PKS 1.5); worship is the contemplation of the non-difference of knower, knowing and known (Bhāvanā Upaniṣad).",
+   "relation_to_world": "The universe of thirty-six principles is the Śrīcakra, her self-expansion; she herself becomes mind, space, air, fire, water and earth, and nothing lies beyond her (Saundaryalaharī 35).",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Śrīvidyā holds that the Goddess in union with Śiva is the one ultimate, and treats the one-truth principle as its own (she is worshipped by all the gods). It would reject a reading that makes Lalitā one symbol among equals or that denies the reality of her power. Within the tradition the Samaya school insists on the strict equality of Śiva and Śakti, while uttara-Kaula readings hold Śakti alone; Bhāskararāya's gloss 'substratum of the false world' (name 735) leans to Advaita, while the Kāmakalāvilāsa speaks of real manifestation — these differences are recorded, not erased.",
+   "rests_on": [
+    "tea:yoginihrdaya:1.6",
+    "tea:yoginihrdaya:1.9-10",
+    "tea:kamakalavilasa:1-3",
+    "tea:kamakalavilasa:4-5",
+    "tea:lalita-sahasranama:90",
+    "tea:lalita-sahasranama:182-183",
+    "tea:parasurama-kalpasutra:1.5",
+    "tea:bhavana-upanisad:sricakra-puja",
+    "tea:saundarya-lahari:35",
+    "tea:lalita-sahasranama:141-142"
+   ],
+   "coverage": [
+    "A8",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U23-sakta-srividya"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:tamil-saiva-siddhanta",
+   "lineage": "lin:tamil-saiva-siddhanta",
+   "names": [
+    {
+     "name": "Civam / Civaṉ",
+     "term": "trm:civam"
+    },
+    {
+     "name": "Pati / Iṟaivaṉ",
+     "term": "trm:pati"
+    },
+    {
+     "name": "Cemporuḷ / Meypporuḷ (the Real)",
+     "term": "trm:cemporul"
+    },
+    {
+     "name": "the Lord of the Dance (Naṭarājaṉ, Ampalavāṇaṉ)"
+    }
+   ],
+   "descriptions": [
+    "the Real (cat), known neither as a sense-object nor as nothing, but by grace",
+    "pervades all as the vowel 'a' pervades letters (Tiruvaruṭpayaṉ 1.1)",
+    "of eight qualities (eṇkuṇam)",
+    "grace (aruḷ) is his power, and he comes as the guru",
+    "dances the five acts at Chidambaram"
+   ],
+   "negations": [
+    "not the object of the senses (Civañāṉa Pōtam 6)",
+    "not one with souls in substance; not two in separation"
+   ],
+   "relation_to_self": "Advaita as inseparability: one with, other than, and together with souls; the freed soul abides in him enjoying his bliss.",
+   "relation_to_world": "Efficient cause of the real world produced from māyā; the world is 'acat' only as perishing, not as illusion.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The Tamil school calls its view non-dual but insists on three eternal realities; it rejects Advaita's identity and unreality of the world.",
+   "rests_on": [
+    "tea:sivananabodham:2",
+    "tea:sivananabodham:6",
+    "tea:tiruvarutpayan:1.1",
+    "tea:unmai-vilakkam:36"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U18-saiva-siddhanta"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:tenkalai",
+   "lineage": "lin:tenkalai",
+   "names": [
+    {
+     "name": "Śrīman Nārāyaṇa",
+     "term": "trm:sriyahpati"
+    },
+    {
+     "name": "Emperumāṉ (our Lord)",
+     "term": "trm:perumal"
+    },
+    {
+     "name": "Brahman",
+     "term": "trm:brahman"
+    }
+   ],
+   "descriptions": [
+    "as in Viśiṣṭādvaita generally; with the emphasis that the Lord himself is the already-accomplished means (siddhopāya) whose grace is causeless, who relishes even his devotees' faults, and to whom Śrī, ever inseparable, mediates"
+   ],
+   "negations": [
+    "as for Viśiṣṭādvaita"
+   ],
+   "relation_to_self": "The soul's essence is to belong wholly to the Lord (ananyārha-śeṣatva) and to be dependent (pāratantrya); it brings nothing of its own to its salvation.",
+   "relation_to_world": "As for Viśiṣṭādvaita: the world is the real body of the Lord.",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Same caveat as ult:visistadvaita; in addition the Teṅkalai reject any view that the soul's own act contributes to its salvation.",
+   "rests_on": [
+    "tea:srivacana-bhusanam:2",
+    "tea:mumuksuppadi:3"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U14-visistadvaita"
     ],
     "phases": [
      "skeleton"
@@ -1062,6 +2938,232 @@
    }
   },
   {
+   "id": "ult:udupi-asta-matha",
+   "lineage": "lin:udupi-asta-matha",
+   "names": [
+    {
+     "name": "Viṣṇu (Hari, Nārāyaṇa)",
+     "term": "trm:visnu"
+    }
+   ],
+   "descriptions": [
+    "The the eight Uḍupi maṭhas holds the Dvaita teaching on the ultimate without variation; see ult:dvaita."
+   ],
+   "relation_to_self": "As in ult:dvaita.",
+   "relation_to_world": "As in ult:dvaita.",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "As in ult:dvaita; the maṭha has no separate doctrine of the ultimate.",
+   "rests_on": [
+    "tea:tattvasankhyana:1"
+   ],
+   "coverage": [
+    "A6"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U15-dvaita"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:upanisadic",
+   "lineage": "lin:upanisadic",
+   "names": [
+    {
+     "name": "brahman",
+     "term": "trm:brahman"
+    },
+    {
+     "name": "ātman",
+     "term": "trm:atman"
+    },
+    {
+     "name": "sat (being)",
+     "term": "trm:sat"
+    },
+    {
+     "name": "akṣara (the imperishable)",
+     "term": "trm:aksara"
+    },
+    {
+     "name": "bhūman (plenitude)",
+     "term": "trm:bhuman"
+    },
+    {
+     "name": "puruṣa",
+     "term": "trm:purusa"
+    },
+    {
+     "name": "prajñāna",
+     "term": "trm:prajnana"
+    },
+    {
+     "name": "the fourth (turīya)",
+     "term": "trm:turiya"
+    },
+    {
+     "name": "deva / īśa / Rudra-Śiva (Śvetāśvatara)",
+     "term": "trm:isvara"
+    }
+   ],
+   "descriptions": [
+    "satyaṃ jñānam anantaṃ brahma — truth, knowledge, infinite (TU 2.1.1)",
+    "sad eva ... ekam evādvitīyam — being alone, one without a second (ChU 6.2.1)",
+    "vijñānam ānandaṃ brahma — understanding, bliss (BAU 3.9.28); raso vai saḥ (TU 2.7.1)",
+    "that from which beings are born, by which they live, into which they enter (TU 3.1.1)",
+    "sarvaṃ khalv idaṃ brahma — all this is brahman (ChU 3.14.1); brahmaivedaṃ viśvam (MuU 2.2.11)",
+    "pūrṇam adaḥ pūrṇam idam — that is full, this is full (BAU 5.1.1)",
+    "the Lord who wields māyā, whose power is innate knowledge and strength (ŚU 4.10, 6.8)"
+   ],
+   "negations": [
+    "neti neti — not so, not so (BAU 2.3.6, 3.9.26, 4.2.4, 4.4.22, 4.5.15)",
+    "asthūlam anaṇu ... — not gross, not fine ... without inside or outside (BAU 3.8.8)",
+    "aśabdam asparśam arūpam avyayam (KU 1.3.15); adreśyam agrāhyam (MuU 1.1.6)",
+    "yato vāco nivartante — from which words turn back with the mind (TU 2.4.1)",
+    "nāntaḥprajñaṃ na bahiṣprajñaṃ ... the fourth (MāU 7)",
+    "known by the one to whom it is unknown (Kena 2.3)"
+   ],
+   "relation_to_self": "The self is declared to be brahman (ahaṃ brahmāsmi, tat tvam asi, ayam ātmā brahma, prajñānaṃ brahma); it is also the inner controller of every being (BAU 3.7) and, in the two-birds image, the Lord beside the grieving self (MuU 3.1.1-2; ŚU 4.6-7).",
+   "relation_to_world": "The source, support and end of all beings (TU 3.1.1); the world is woven on the imperishable (BAU 3.8) and pervaded by the Lord (Īśa 1); it emanates like sparks from fire (BAU 2.1.20; MuU 2.1.1), becomes manifest by name and form (BAU 1.4.7; ChU 6.3.2), and its modifications are 'a verbal handle, a name' (ChU 6.1.4); in the ŚU the māyin projects it by māyā-prakṛti (4.9-10).",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The Upaniṣads do not systematize; they state identity (the mahāvākyas), difference (the two birds; the inner controller 'other than' what it controls) and a personal Lord (Śvetāśvatara). The later Vedānta schools read these same texts in very different ways — see dsp:tat-tvam-asi, dsp:souls-one-or-distinct, dsp:world-real-or-appearance, dsp:saguna-nirguna and dsp:being-or-non-being-first; this view records the statements without deciding between those readings.",
+   "rests_on": [
+    "tea:taittiriya-upanisad:2.1.1",
+    "tea:chandogya-upanisad:6.2.1-2",
+    "tea:brhadaranyaka-upanisad:3.9.28",
+    "tea:taittiriya-upanisad:3.1.1",
+    "tea:chandogya-upanisad:3.14.1",
+    "tea:brhadaranyaka-upanisad:5.1.1",
+    "tea:svetasvatara-upanisad:4.9-10",
+    "tea:brhadaranyaka-upanisad:2.3.6",
+    "tea:brhadaranyaka-upanisad:3.8.2-8",
+    "tea:katha-upanisad:1.3.15",
+    "tea:taittiriya-upanisad:2.4.1",
+    "tea:mandukya-upanisad:7",
+    "tea:kena-upanisad:2.3",
+    "tea:brhadaranyaka-upanisad:1.4.10",
+    "tea:chandogya-upanisad:6.8.7",
+    "tea:mandukya-upanisad:2",
+    "tea:aitareya-upanisad:3.1.3",
+    "tea:brhadaranyaka-upanisad:3.7.3-23",
+    "tea:mundaka-upanisad:3.1.1-2",
+    "tea:isa-upanisad:1",
+    "tea:brhadaranyaka-upanisad:2.1.20",
+    "tea:chandogya-upanisad:6.1.4-6",
+    "tea:svetasvatara-upanisad:6.7-9"
+   ],
+   "coverage": [
+    "A2",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U03-principal-upanisads"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:uttaradi-matha",
+   "lineage": "lin:uttaradi-matha",
+   "names": [
+    {
+     "name": "Viṣṇu (Hari, Nārāyaṇa)",
+     "term": "trm:visnu"
+    }
+   ],
+   "descriptions": [
+    "The Uttarādi Maṭha holds the Dvaita teaching on the ultimate without variation; see ult:dvaita."
+   ],
+   "relation_to_self": "As in ult:dvaita.",
+   "relation_to_world": "As in ult:dvaita.",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "As in ult:dvaita; the maṭha has no separate doctrine of the ultimate.",
+   "rests_on": [
+    "tea:tattvasankhyana:1"
+   ],
+   "coverage": [
+    "A6"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U15-dvaita"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:vadakalai",
+   "lineage": "lin:vadakalai",
+   "names": [
+    {
+     "name": "Śrīman Nārāyaṇa (the divine couple, Śrī and Nārāyaṇa)",
+     "term": "trm:sriyahpati"
+    },
+    {
+     "name": "Brahman",
+     "term": "trm:brahman"
+    }
+   ],
+   "descriptions": [
+    "as in Viśiṣṭādvaita generally; with the emphasis that Śrī, all-pervading like Viṣṇu, shares his supremacy and is, with him, the means and the goal (the divine pair, mithuna, is the object of surrender)"
+   ],
+   "negations": [
+    "as for Viśiṣṭādvaita"
+   ],
+   "relation_to_self": "The soul is the servant of the divine couple; it must, by the Lord's grace, perform surrender as the means.",
+   "relation_to_world": "As for Viśiṣṭādvaita: the world is the real body of the Lord.",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Same caveat as ult:visistadvaita; in addition the Vaṭakalai insist that Śrī is not of the rank of souls.",
+   "rests_on": [
+    "tea:rahasyatrayasara:paradevata-paramarthya",
+    "tea:catuhsloki:1"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U14-visistadvaita"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:vaikhanasa",
    "lineage": "lin:vaikhanasa",
    "names": [
@@ -1084,7 +3186,7 @@
    "personal_or_impersonal": "personal",
    "caveat": "The Vaikhānasas insist on the Vedic identity of their worship and would reject being classed with tantric Āgama theologies.",
    "rests_on": [
-    "tea:kriyadhikara:11.148-152",
+    "tea:kriyadhikara:11.147-152",
     "tea:bhrgu-samhita-vaikhanasa:13.1"
    ],
    "verification": {
@@ -1096,6 +3198,276 @@
    "provenance": {
     "units": [
      "skeleton:U08-agama-catalogue"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:vaisesika",
+   "lineage": "lin:vaisesika",
+   "names": [
+    {
+     "name": "Maheśvara",
+     "term": "trm:mahesvara"
+    },
+    {
+     "name": "Īśvara",
+     "term": "trm:isvara"
+    },
+    {
+     "name": "niḥśreyasa (the highest good, as goal)",
+     "term": "trm:nihsreyasa"
+    }
+   ],
+   "descriptions": [
+    "Saluted as 'Īśvara, the cause' at the opening of the Padārthadharmasaṅgraha; the knowledge that leads to the highest good arises from dharma manifested by His command.",
+    "By His will the world is dissolved at the end of a Brahmā's lifespan and created again for the selves' experience, through their adṛṣṭa (Praśastapāda).",
+    "The highest good (niḥśreyasa) is the fruit of dharma (VS 1.1.2): liberation, in which the self has no contact with a body (VS 5.2.20)."
+   ],
+   "negations": [
+    "the Vaiśeṣika Sūtra itself does not name Īśvara"
+   ],
+   "relation_to_self": "The Lord is a self distinct from the innumerable individual selves, each made distinct by its own ultimate particularity (viśeṣa).",
+   "relation_to_world": "Efficient cause who initiates the motion of eternal atoms at creation and their separation at dissolution; the nine substances and the other categories are real.",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Early Vaiśeṣika (the sūtras) does not explicitly name a Lord (scholarly account); theism appears from Praśastapāda on. The school would reject monism: innumerable eternal atoms, selves and minds, each individuated by ultimate particularity, are irreducibly many — the school's very name is traditionally linked with 'particularity'.",
+   "rests_on": [
+    "tea:padarthadharmasangraha:mangala",
+    "tea:padarthadharmasangraha:srsti-samhara",
+    "tea:vaisesika-sutra:1.1.2",
+    "tea:vaisesika-sutra:5.2.19-20"
+   ],
+   "coverage": [
+    "A5",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U11-nyaya-vaisesika"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:vedanga",
+   "lineage": "lin:vedanga",
+   "names": [
+    {
+     "name": "the one self (eka ātman) of the deity, praised in many ways",
+     "term": "trm:atman"
+    },
+    {
+     "name": "the great god (mahān devaḥ) who is speech, entering mortals",
+     "term": "trm:vac"
+    },
+    {
+     "name": "the imperishable (akṣara), reached by the higher knowledge",
+     "term": "trm:aksara"
+    }
+   ],
+   "descriptions": [
+    "Because of the deity's great majesty the one self is praised in many ways; the other gods are its limbs (Nirukta 7.4).",
+    "The deities are three by station yet may be taken as person-like, not person-like, or both (Nirukta 7.5–7).",
+    "Grammar is studied so that we may become equal to the great god, speech (Mahābhāṣya, Paspaśā).",
+    "The Vedas and their six limbs are the lower knowledge; the higher is that by which the imperishable is attained (MuU 1.1.4–5)."
+   ],
+   "relation_to_self": "The seers saw the hymns when Brahman came upon them (Nirukta 2.11); some hymns speak in the first person of the self (ādhyātmika, Nirukta 7.1).",
+   "relation_to_world": "The gods and their powers are the limbs and functions of one self; time, the year and its cycle are presided over by Prajāpati (VJ Ṛk 1).",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The Vedāṅgas describe themselves as lower knowledge and posit no systematic doctrine of the ultimate; the grammarians' śabda-brahman belongs to lin:vyakarana (U31). They would not accept a one-truth reading that loosens the exact letter, accent and sequence of the Veda, which must be preserved as it is.",
+   "rests_on": [
+    "tea:nirukta:7.4",
+    "tea:nirukta:7.6-7",
+    "tea:mahabhasya:paspasa/4",
+    "tea:mundaka-upanisad:1.1.4-5",
+    "tea:nirukta:2.11"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U02-brahmana-vedanga"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:vedanta",
+   "lineage": "lin:vedanta",
+   "names": [
+    {
+     "name": "Brahman",
+     "term": "trm:brahman"
+    },
+    {
+     "name": "Ātman",
+     "term": "trm:atman"
+    },
+    {
+     "name": "Ānandamaya (contested reading, BS 1.1.12)",
+     "term": "trm:anandamaya-kosa"
+    }
+   ],
+   "descriptions": [
+    "that from which the origin, sustenance and dissolution of this world proceed (BS 1.1.2)",
+    "known from scripture (BS 1.1.3), the purport of all Upaniṣadic texts (BS 1.1.4)",
+    "conscious: it 'thought' before creating (BS 1.1.5)",
+    "material and efficient cause of the world (BS 1.4.23)",
+    "creates as sport (līlā), without need (BS 2.1.33)",
+    "the goal attained by the liberated, from which there is no return (BS 4.4.22)"
+   ],
+   "negations": [
+    "the 'not so, not so' denies 'so much' (the two forms) of Brahman (BS 3.2.22)",
+    "not distinguished by place/limiting adjuncts (BS 3.2.11)"
+   ],
+   "relation_to_self": "Debated within the sūtras themselves: Āśmarathya, Auḍulomi and Kāśakṛtsna give three accounts (BS 1.4.20–22); every Vedānta school reads the sūtras on this point differently.",
+   "relation_to_world": "Brahman is the world's cause; the effect is non-different from the cause (BS 2.1.14); the manner (real or apparent transformation) is the chief point of divergence among commentators.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "This view records what the sūtras state on their face. Each Vedānta school's reading (Advaita, Viśiṣṭādvaita, Dvaita, Bhedābheda etc.) is its own view, and the schools deny that the others' readings are the sūtras' meaning.",
+   "rests_on": [
+    "tea:brahma-sutra:1.1.2",
+    "tea:brahma-sutra:1.1.3",
+    "tea:brahma-sutra:1.1.4",
+    "tea:brahma-sutra:1.1.5",
+    "tea:brahma-sutra:1.4.23",
+    "tea:brahma-sutra:2.1.14",
+    "tea:brahma-sutra:2.1.33",
+    "tea:brahma-sutra:3.2.22",
+    "tea:brahma-sutra:4.4.22"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U13-advaita"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:vedic-srauta",
+   "lineage": "lin:vedic-srauta",
+   "names": [
+    {
+     "name": "ekaṃ sat (the One Being)",
+     "term": "trm:ekam-sat"
+    },
+    {
+     "name": "tad ekam (That One)",
+     "term": "trm:tad-ekam"
+    },
+    {
+     "name": "Puruṣa",
+     "term": "trm:purusa"
+    },
+    {
+     "name": "Hiraṇyagarbha / Prajāpati",
+     "term": "trm:hiranyagarbha"
+    },
+    {
+     "name": "Viśvakarman",
+     "term": "trm:visvakarman"
+    },
+    {
+     "name": "Skambha",
+     "term": "trm:skambha"
+    },
+    {
+     "name": "jyeṣṭha brahman (the highest Brahman)",
+     "term": "trm:jyestha-brahman"
+    },
+    {
+     "name": "brahman",
+     "term": "trm:brahman"
+    },
+    {
+     "name": "Vāc (as self of all, RV 10.125)",
+     "term": "trm:vac"
+    },
+    {
+     "name": "Prāṇa (AVŚ 11.4)",
+     "term": "trm:prana"
+    },
+    {
+     "name": "Kāla (AVŚ 19.53)",
+     "term": "trm:kala"
+    }
+   ],
+   "descriptions": [
+    "The One Being that the inspired call by many names — Indra, Mitra, Varuṇa, Agni, Yama, Mātariśvan (RV 1.164.46); the one bird the poets shape into many (10.114.5); the One that has become all this (8.58.2).",
+    "That One which breathed windless by its own power before there was being or non-being, death or immortality, and was born by the power of tapas (RV 10.129.2–3).",
+    "The Person who is all this, what was and what will be, lord of immortality; one quarter of him is all beings, three quarters the immortal in heaven (RV 10.90.2–3).",
+    "The highest Brahman whose alone is the light; those who know Brahman in man know the Supreme (AVŚ 10.8.1, 10.7.17); the one-alone god in whom the gods become one (AVŚ 13.4.12–13); 'that is Agni, that the Sun … that is brahman' (VS 32.1).",
+    "The self, desireless, wise, immortal, self-existent, lacking nothing; knowing him one does not fear death (AVŚ 10.8.44)."
+   ],
+   "negations": [
+    "'Then there was neither non-being nor being' (RV 10.129.1)",
+    "'Who really knows? … perhaps he does not know' (RV 10.129.6–7)",
+    "'There is no likeness of him' (VS 32.3)",
+    "'You will not find him who produced these — something else has come between you' (RV 10.82.7)",
+    "'He is called neither second nor third …' (AVŚ 13.4.16–18)"
+   ],
+   "relation_to_self": "Named in the Saṃhitās as the self of what moves and stands (Sūrya, RV 1.115.1), the self present in the golden city of the body (AVŚ 10.2.32–33), the one god who entered the mind (AVŚ 10.8.28) and the ageless self known by the wise (10.8.44); the seer who first 'does not know what he is' (RV 1.164.37) can also say 'I was Manu and the Sun' (4.26.1).",
+   "relation_to_world": "Both immanent and exceeding: the One has become all this (RV 8.58.2) and the Person covers the earth and exceeds it by ten fingers, three quarters of him beyond (10.90.1–3); the world is made by sacrifice of the Person, by the All-maker, from the Golden Germ, by tapas, or from Time — accounts the Saṃhitās place side by side.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The Saṃhitās are a liturgy addressed to many gods, each praised in turn as supreme; the statements of one ultimate are a minority of speculative hymns, and they leave the origin itself in question (10.129.6–7). The ritual tradition's own hermeneutics (Mīmāṃsā) reads the corpus for injunctions and holds the deities to be what the mantras name, positing no single describable ultimate; Yāska records the view that there are three deities (Nirukta 7.5) beside the view that one Self is praised in many ways (7.4); Vaiṣṇava readers take the One as Viṣṇu. The one-truth reading (RV 1.164.46) is used by this ontology only in the interpretation layer.",
+   "rests_on": [
+    "tea:rgveda:1.164.46",
+    "tea:rgveda:10.114.5",
+    "tea:rgveda:8.58.2",
+    "tea:rgveda:10.129.1",
+    "tea:rgveda:10.129.2",
+    "tea:rgveda:10.129.6",
+    "tea:rgveda:10.129.7",
+    "tea:rgveda:10.90.2",
+    "tea:rgveda:10.90.3-4",
+    "tea:atharvaveda-saunaka:10.8.1",
+    "tea:atharvaveda-saunaka:10.7.17",
+    "tea:atharvaveda-saunaka:13.4.12-13",
+    "tea:vajasaneyi-samhita:32.1",
+    "tea:atharvaveda-saunaka:10.8.44",
+    "tea:nirukta:7.4",
+    "tea:nirukta:7.5"
+   ],
+   "coverage": [
+    "A1",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U01-vedic-samhitas"
     ],
     "phases": [
      "skeleton"
@@ -1133,6 +3505,243 @@
    "provenance": {
     "units": [
      "skeleton:U08-agama-catalogue"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:virasaiva",
+   "lineage": "lin:virasaiva",
+   "names": [
+    {
+     "name": "Śiva / Paraśiva",
+     "term": "trm:parasiva"
+    },
+    {
+     "name": "Liṅga, Mahāliṅga",
+     "term": "trm:linga"
+    },
+    {
+     "name": "brahman",
+     "term": "trm:brahman"
+    },
+    {
+     "name": "Śūnya / Bayalu (Allama)",
+     "term": "trm:sunya"
+    },
+    {
+     "name": "Kūḍalasaṅgamadēva (Basava's name for the Lord)"
+    },
+    {
+     "name": "Guhēśvara (Allama)"
+    },
+    {
+     "name": "Cennamallikārjuna (Akka Mahādēvi)"
+    },
+    {
+     "name": "Rāmanātha (Dāsimayya)"
+    }
+   ],
+   "descriptions": [
+    "the liṅga in which the world dissolves and from which it arises; being-consciousness-bliss (SSM 6.36–38)",
+    "the pedestal is Śakti, the liṅga Paraśiva, the universe their union (SSM 11.32)",
+    "the liṅga of light shining in all beings (SSM 6.35)",
+    "the ocean of consciousness whose waves are the thirty-six tattvas (SSM 1.3)",
+    "the one god among the many household gods (Basava)",
+    "the husband who does not die or decay (Akka Mahādēvi)"
+   ],
+   "negations": [
+    "beyond contemplation and unmanifest (SSM 6.51)",
+    "where neither sun nor moon shines (SSM 12.38)",
+    "not the avyakta with Maheśvara as its bearer (SSM 12.37)",
+    "the void, bayalu (Allama)"
+   ],
+   "relation_to_self": "The soul (aṅga) is a part of Śiva through beginningless ignorance and progresses through six stations to union (aikya, sāmarasya); in practice the relation is master and servant, and at union difference is seen to be imagined by māyā.",
+   "relation_to_world": "The world arises from Śiva and is not different from him, as his Śakti's manifestation and his body (aṣṭamūrti) — neither identical with nor separate from him; for the śaraṇas the moving devotee is his living temple.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The tradition speaks with two voices: the Pañcācārya strand calls its doctrine Śivādvaita or Śakti-viśiṣṭādvaita and insists that difference is real at the level of practice; the vacana strand names Śiva as a personal lord and as the void and resists Vedāntic framing. Both would reject a reading of the one truth that makes the world, the liṅga or devotion illusory (SSM 10.37–43).",
+   "rests_on": [
+    "tea:siddhantasikhamani:6.36-38",
+    "tea:siddhantasikhamani:11.32",
+    "tea:siddhantasikhamani:6.35",
+    "tea:siddhantasikhamani:1.3",
+    "tea:siddhantasikhamani:12.38-41",
+    "tea:siddhantasikhamani:14.8-9",
+    "tea:siddhantasikhamani:10.63-70",
+    "tea:basavanna-vacanas:v-the-pot-is-a-god",
+    "tea:akka-mahadevi-vacanas:savillada-kedillada",
+    "tea:sunyasampadane:the-void"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "coverage": [
+    "D"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U20-virasaiva"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:visistadvaita",
+   "lineage": "lin:visistadvaita",
+   "names": [
+    {
+     "name": "Brahman",
+     "term": "trm:brahman"
+    },
+    {
+     "name": "Nārāyaṇa",
+     "term": "trm:narayana"
+    },
+    {
+     "name": "Śrīman Nārāyaṇa / Śriyaḥpati (Lord of Śrī)",
+     "term": "trm:sriyahpati"
+    },
+    {
+     "name": "Puruṣottama",
+     "term": "trm:purusottama"
+    },
+    {
+     "name": "Bhagavān",
+     "term": "trm:bhagavan"
+    },
+    {
+     "name": "Īśvara",
+     "term": "trm:isvara"
+    },
+    {
+     "name": "Vāsudeva (para form)",
+     "term": "trm:para-vasudeva"
+    }
+   ],
+   "descriptions": [
+    "the one Brahman qualified by sentient and insentient beings as its body (cid-acid-viśiṣṭa)",
+    "opposed to all that is evil (akhila-heya-pratyanīka) and the sole abode of infinite auspicious qualities (kalyāṇaika-tāna) — the twofold mark (ubhaya-liṅga)",
+    "satyam jñānam anantam: real, knowledge, infinite — each word naming a quality of one Brahman, not an attributeless essence",
+    "material and efficient cause of the world: in pralaya Brahman has souls and matter as a subtle body; in creation, as a gross body",
+    "present in five forms: para, vyūha, vibhava, antaryāmin, arcā",
+    "never apart from Śrī (Lakṣmī)"
+   ],
+   "negations": [
+    "'neti neti' (BĀU 2.3.6) denies only the limit 'so much' of what was described, not Brahman's qualities",
+    "'nirguṇa' denies the defective qualities born of prakṛti, not the auspicious qualities",
+    "Brahman is not touched by the changes and imperfections of its body"
+   ],
+   "relation_to_self": "The individual self (jīva) is a real, eternal, atomic knower that is a mode (prakāra) and body of Brahman, its servant (śeṣa), wholly dependent (paratantra), never identical with it and never lost in it, even in liberation.",
+   "relation_to_world": "The world is real; it is the body of Brahman, transformed from subtle to gross in creation while Brahman as its self remains unchanged and unaffected.",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The tradition affirms one ultimate but rejects any reading of 'one truth' as an attributeless or merely impersonal reality: the one is the personal Nārāyaṇa with Śrī, and souls and world remain real and distinct as his body. It rejects Advaita's identity of self and Brahman and the unreality of the world, and would reject a reconciliation that makes Nārāyaṇa one name among equals for a nameless absolute.",
+   "rests_on": [
+    "tea:sribhasya:3.2",
+    "tea:vedarthasangraha:1",
+    "tea:vedarthasangraha:ghataka-sruti",
+    "tea:gita-bhasya-ramanuja:intro",
+    "tea:sribhasya:1.4.23"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U14-visistadvaita"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:vivarana",
+   "lineage": "lin:vivarana",
+   "names": [
+    {
+     "name": "Brahman",
+     "term": "trm:brahman"
+    },
+    {
+     "name": "Bimba-caitanya (prototype consciousness, as Īśvara)",
+     "term": "trm:bimba"
+    }
+   ],
+   "descriptions": [
+    "pure consciousness, the locus and object of the one beginningless ignorance",
+    "the prototype (bimba) of which the jīva is the reflection"
+   ],
+   "negations": [
+    "as in Advaita generally"
+   ],
+   "relation_to_self": "The jīva is Brahman's reflection (pratibimba) in avidyā/the inner organ; the reflection is not unreal but identical with the prototype, as a face in a mirror is the face itself.",
+   "relation_to_world": "The world is the transformation (pariṇāma) of avidyā and the apparent transformation (vivarta) of Brahman, which is the locus of avidyā.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Shares Advaita's ultimate; differs from the Bhāmatī line only in the explanatory theory of how the one appears as many. Partisans of the Vivaraṇa hold their theory to be the correct one, not merely a method.",
+   "rests_on": [
+    "tea:pancapadika-vivarana:locus",
+    "tea:pancapadika-vivarana:reflection"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U13-advaita"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:vyasaraja-matha",
+   "lineage": "lin:vyasaraja-matha",
+   "names": [
+    {
+     "name": "Viṣṇu (Hari, Nārāyaṇa)",
+     "term": "trm:visnu"
+    }
+   ],
+   "descriptions": [
+    "The Vyāsarāja Maṭha holds the Dvaita teaching on the ultimate without variation; see ult:dvaita."
+   ],
+   "relation_to_self": "As in ult:dvaita.",
+   "relation_to_world": "As in ult:dvaita.",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "As in ult:dvaita; the maṭha has no separate doctrine of the ultimate.",
+   "rests_on": [
+    "tea:tattvasankhyana:1"
+   ],
+   "coverage": [
+    "A6"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U15-dvaita"
     ],
     "phases": [
      "skeleton"

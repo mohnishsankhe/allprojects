@@ -12,7 +12,7 @@
 **Works:** 
   - [Nyāyāmṛta](../texts/nyayamrta.md) — attribution: accepted
   - [Tarkatāṇḍava](../texts/tarkatandava.md) — attribution: accepted
-  - [Tātparyacandrikā of Vedānta Deśika](../texts/tatparyacandrika.md) — attribution: accepted
+  - [Tātparyacandrikā](../texts/tatparyacandrika.md) — attribution: accepted
   - [Bhedojjīvana](../texts/bhedojjivana.md) — attribution: accepted
   - [Mandāramañjarī](../texts/mandaramanjari.md) — attribution: traditional
 
@@ -20,4 +20,4 @@ The foremost dialectician of Dvaita and rājaguru of the Vijayanagara court (und
 **Realization — the tradition's account:** The tradition regards Vyāsatīrtha as a rebirth of Prahlāda (after Bāhlīka of the Mahābhārata), later reborn as Rāghavendra; it tells that he sat on the Vijayanagara throne to avert an inauspicious conjunction (kuhu-yoga) that threatened the king, and that he installed 732 images of Hanumān.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

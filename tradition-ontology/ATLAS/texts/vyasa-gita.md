@@ -16,5 +16,17 @@
 
 Vyāsa sets out the karma-yoga of brāhmaṇas: the student's conduct, study, the householder's daily rites, food rules, ancestral offerings, impurity, gifts, the forest-dweller and the renunciant, and expiations (chapter openings verified in the local e-text; the end point of the 'Gītā' is not).
 
+## Teachings (1: skeleton 1)
+
+### 2.12 <a id="tea-vyasa-gita-2-12"></a>
+`skeleton` · confidence moderate · [AI-translated]
+
+Vyāsa begins the karma-yoga of brāhmaṇas, which yields the final fruit: the student's conduct with staff and girdle, purity and service of the teacher, followed in later chapters by the householder's duties, food, ancestral rites, impurity, gifts, the forest-dweller, the renunciant and expiations.
+
+_level: conventional · standpoint: ethical-social · path: action, ritual · stage: beginner · types: ethics_
+
+teachers: [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md)
+
+
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

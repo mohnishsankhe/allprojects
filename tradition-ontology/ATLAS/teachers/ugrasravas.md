@@ -12,4 +12,4 @@
 Son of Lomaharṣaṇa, the bard who retells the Mahābhārata, as heard at Janamejaya's sacrifice, to the sages assembled for Śaunaka's twelve-year sacrifice in the Naimiṣa forest (1.1).
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._

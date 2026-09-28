@@ -1,0 +1,17 @@
+# Oṃ, the designator of Īśvara
+
+`cpt:pranava` · `skeleton` · confidence high
+
+**Category:** sound-language
+
+## Names
+- [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): praṇava
+
+## Definitions
+- [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): The praṇava designates Īśvara by a fixed, not conventional, relation, like a lamp and its light (1.27, YBh 1.27); its repetition with contemplation of its meaning makes the mind one-pointed (1.28, YBh 1.28) and removes obstacles (1.29).
+- [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Lineage contribution (Upaniṣadic): Om is the udgītha and the essence of essences (ChU 1.1); all speech is held by Om (ChU 2.23.3); Om is brahman, all this (TU 1.8; MāU 1); the word all Vedas proclaim, the best support (KU 1.2.15-17); the bow (MuU 2.2.4); the higher and lower brahman whose measures lead to different worlds (PrU 5); A, U, M and the measureless as the four quarters (MāU 8-12); the upper fire-stick (ŚU 1.14); the word-brahman (MaiU 6.22).
+
+## Relations (interpretation layer)
+
+---
+_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._

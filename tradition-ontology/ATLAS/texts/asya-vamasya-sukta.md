@@ -11,7 +11,7 @@
 **Part of:** [Ṛgveda Saṃhitā](rgveda.md)
 **Location in parent:** 1.164 (52 verses)
 **Authors:** 
-  - `tch:dirghatamas` — role: revealer; attribution: traditional
+  - [Dīrghatamas](../teachers/dirghatamas.md) — role: revealer; attribution: traditional
 **Attribution:** tradition: seen by dirghatamas; deity: the All-gods (Viśvedevāḥ) and others (Sarvānukramaṇī); scholarly: a hymn of the Ṛgveda; books 1 and 10 are among its later layers; confidence: high
 **Availability:** digitized-original
 
@@ -20,4 +20,4 @@ Dīrghatamas' hymn of riddles (brahmodya): the one-wheeled chariot of seven name
 _Notes: Reproduced in the Atharvaveda (Śaunaka 9.9–10). An adhyātma (inner) commentary on this hymn by one Ātmānanda is reported in the secondary literature (low confidence; not entered as a source)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

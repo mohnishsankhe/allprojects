@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:advaita-vedanta`, [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
 **Genre:** saṃhitā
 **Part of:** [Skanda Purāṇa](skanda-purana.md)
 **Location in parent:** Skanda Purāṇa (as the tradition divides it into six saṃhitās); four khaṇḍas, the fourth being the Yajñavaibhavakhaṇḍa
@@ -17,4 +17,4 @@ A Śaiva Advaita saṃhitā whose last section contains the Brahma Gītā and th
 _Notes: Minimal parent entry created by U06 for the Brahma Gītā and Sūta Gītā._
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._

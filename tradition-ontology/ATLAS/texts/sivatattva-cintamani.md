@@ -13,4 +13,4 @@
 An encyclopaedic Kannada exposition of Vīraśaiva doctrine, practice and hagiography by a minister of Dēvarāya II.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._

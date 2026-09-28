@@ -22,7 +22,64 @@ Sanatsujāta, an ever-youthful sage called by Vidura, answers Dhṛtarāṣṭra
   - kind: translation; name: K. T. Telang, SBE 8 (1882); licence: public domain
 **Commentaries on this text:** [Sanatsujātīyabhāṣya (attributed to Śaṅkara)](sanatsujatiya-bhasya-sankara.md)
 
+## Teachings (6: skeleton 6)
+
+### 5.41.5 <a id="tea-sanatsujatiya-5-41-5"></a>
+`skeleton` · confidence high
+
+Vidura: I am born of a śūdra womb and do not venture to speak further; but I know the eternal understanding of the Kumāra (Sanatsujāta).
+
+_level: conventional · standpoint: ethical-social · path: knowledge · stage: all · types: teacher-transmission, dispute_
+
+concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md) · teachers: [Vidura](../teachers/vidura.md), [Sanatsujāta](../teachers/sanatsujata.md) · disputes: [Is varṇa (and eligibility for austerity and teaching) fixed by birth, or made by conduct and qualities?](../debates/varna-by-birth-or-conduct-epic.md)
+
+### 5.42.4 <a id="tea-sanatsujatiya-5-42-4"></a>
+`skeleton` · confidence high
+
+Both are true, kṣatriya: that death is abolished by action, and that there is no death; I declare heedlessness to be death and constant heedfulness to be immortality.
+
+_level: ultimate · standpoint: seeker · path: knowledge, meditation · stage: all · types: death-dying, karma-liberation_
+
+terms: [pramāda](../terms/pramada.md), [apramāda](../terms/apramada.md) · practices: [Heedfulness (apramāda)](../practices/apramada.md) · obstacles: [Heedlessness (pramāda)](../obstacles/pramada.md) · teachers: [Sanatsujāta](../teachers/sanatsujata.md)
+
+### 5.42-43 <a id="tea-sanatsujatiya-5-42-43"></a>
+`skeleton` · confidence moderate
+
+Sanatsujāta teaches that the Vedas do not save the deceitful; that the brāhmaṇa is one who knows Brahman, not one who merely recites; that silence (mauna) is the self; and he names the virtues — truth, self-restraint, freedom from envy, modesty, forbearance, sacrifice, giving and the like — and the faults such as anger, desire and greed.
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: all · types: ethics, sound-language_
+
+terms: [mauna](../terms/mauna.md), [dama](../terms/dama.md), [satya](../terms/satya.md) · teachers: [Sanatsujāta](../teachers/sanatsujata.md)
+
+### 5.43.14 <a id="tea-sanatsujatiya-5-43-14"></a>
+`skeleton` · confidence high
+
+Self-restraint, renunciation and heedfulness — in these immortality is placed; the wise brāhmaṇas say they have truth as their face.
+
+_level: conventional · standpoint: seeker · path: general · stage: all · types: ethics, karma-liberation_
+
+terms: [dama](../terms/dama.md), [tyāga](../terms/tyaga.md), [apramāda](../terms/apramada.md)
+
+### 5.44 <a id="tea-sanatsujatiya-5-44"></a>
+`skeleton` · confidence moderate
+
+Sanatsujāta teaches the quarters of brahmacarya: one quarter is gained from the teacher, one by one's own intelligence, one from fellow students, and one in the course of time.
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: beginner · types: teacher-transmission_
+
+terms: [brahmacarya](../terms/brahmacarya.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md)
+
+### 5.45.1 <a id="tea-sanatsujatiya-5-45-1"></a>
+`skeleton` · confidence high
+
+That pure, great light, shining, great glory, which the gods worship and by which the sun shines — the yogins see that eternal Lord.
+
+_level: ultimate · standpoint: experiential · path: meditation, knowledge · stage: advanced · types: ultimate_
+
+terms: [brahman](../terms/brahman.md) · teachers: [Sanatsujāta](../teachers/sanatsujata.md)
+
+
 _Notes: A commentary is attributed to Śaṅkara (src:sanatsujatiya-bhasya-sankara)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

@@ -16,4 +16,4 @@
 Rāghavendra Tīrtha's commentary on Jayatīrtha's Nyāyasudhā, from which he is called Parimalācārya.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

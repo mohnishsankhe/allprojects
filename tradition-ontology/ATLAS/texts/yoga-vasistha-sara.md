@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:advaita-vedanta`
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md)
 **Genre:** prakaraṇa
 **Attribution:** tradition: a short digest of the Yoga Vāsiṣṭha's verses; scholarly: anonymous; late; confidence: low
 **Structure:** c. 10 chapters, c. 230 verses (low)
@@ -13,4 +13,4 @@
 A brief anthology of key Yoga Vāsiṣṭha verses arranged by topic (dispassion, the world as mind, the self, liberation).
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

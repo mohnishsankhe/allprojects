@@ -12,4 +12,4 @@
 Pāñcarātra saṃhitā containing one of the traditional lists of saṃhitā titles.
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

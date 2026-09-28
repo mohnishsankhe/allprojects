@@ -15,4 +15,4 @@
 The hymn of the Remainder (ucchiṣṭa) of the sacrifice as the ground of all: in the Remainder are name and form (nāma-rūpa), the world, Indra and Agni, the rites, the Vedas and all beings.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

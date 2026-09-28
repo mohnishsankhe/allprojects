@@ -5,7 +5,7 @@
 **Original title:** श्रीरामहृदयम्
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:advaita-vedanta`, `lin:ramanandi`
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), `lin:ramanandi`
 **Genre:** upadeśa
 **Part of:** [Adhyātma Rāmāyaṇa](adhyatma-ramayana.md)
 **Location in parent:** Adhyātma Rāmāyaṇa, Bālakāṇḍa 1 (Sītā's teaching 1.1.31-43; Rāma's 1.1.44-52; named at 1.1.53)
@@ -15,5 +15,17 @@
 
 Sītā tells Hanumān that Rāma is the non-dual Brahman and she the primal nature who does all the deeds attributed to him; Rāma then teaches the threefold consciousness (the whole, the consciousness delimited by the intellect, and its reflection) by the example of the threefold sky, and that the great sayings reveal the identity whose knowledge destroys ignorance, provided one has devotion.
 
+## Teachings (1: skeleton 1)
+
+### 1.1.44-52 <a id="tea-rama-hrdaya-1-1-44-52"></a>
+`skeleton` · confidence high · [AI-translated]
+
+Rāma's own summary of the knowledge of self, non-self and supreme Self: the threefold space and the threefold consciousness (whole, delimited, reflected); the identity taught by the great sayings; devotion as its precondition.
+
+_level: ultimate · standpoint: analytic · path: knowledge, devotion · stage: advanced · types: consciousness-mind_
+
+concepts: [The threefold consciousness (Rāma-hṛdaya)](../concepts/threefold-consciousness-rama-hrdaya.md) · teachers: [Rāma (Dāśarathi)](../teachers/rama.md), [Hanumān](../teachers/hanuman.md)
+
+
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

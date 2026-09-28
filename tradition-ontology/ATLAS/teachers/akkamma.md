@@ -10,4 +10,4 @@
 A woman vacanakāra of the śaraṇa circle whose vacanas are included in the modern collections of the women śaraṇas; details of her life are not recorded here.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._

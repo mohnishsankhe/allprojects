@@ -29,8 +29,18 @@ Vaiśeṣika is the Vedic darśana of categorial analysis and atomism founded on
   - [Nyāya](nyaya.md) — what: the Nyāya analysis of the means of knowledge and debate, in the syncretic manuals (Śivāditya, Keśava Miśra, Annambhaṭṭa); evidence: Saptapadārthī; Tarkabhāṣā; Tarkasaṅgraha ('for the doctrines of Kaṇāda and Nyāya').
 **Transmissions given:** 
   - [Nyāya](nyaya.md) — what: the ontology of categories and atoms
-  - `lin:prabhakara-mimamsa` — what: a categorial ontology, extended with capacity, similarity and number
+  - [Prābhākara Mīmāṃsā](prabhakara-mimamsa.md) — what: a categorial ontology, extended with capacity, similarity and number
   - `lin:ayurveda` — what: the six categories named at the opening of the Caraka Saṃhitā (direction debated)
+
+## The ultimate in this lineage
+`skeleton` · confidence moderate
+
+**Names:** Maheśvara, Īśvara, niḥśreyasa (the highest good, as goal)
+**Descriptions:** Saluted as 'Īśvara, the cause' at the opening of the Padārthadharmasaṅgraha; the knowledge that leads to the highest good arises from dharma manifested by His command.; By His will the world is dissolved at the end of a Brahmā's lifespan and created again for the selves' experience, through their adṛṣṭa (Praśastapāda).; The highest good (niḥśreyasa) is the fruit of dharma (VS 1.1.2): liberation, in which the self has no contact with a body (VS 5.2.20).
+**Negations:** the Vaiśeṣika Sūtra itself does not name Īśvara
+**Relation to self:** The Lord is a self distinct from the innumerable individual selves, each made distinct by its own ultimate particularity (viśeṣa).
+**Relation to world:** Efficient cause who initiates the motion of eternal atoms at creation and their separation at dissolution; the nine substances and the other categories are real.
+**Caveat:** Early Vaiśeṣika (the sūtras) does not explicitly name a Lord (scholarly account); theism appears from Praśastapāda on. The school would reject monism: innumerable eternal atoms, selves and minds, each individuated by ultimate particularity, are irreducibly many — the school's very name is traditionally linked with 'particularity'.
 
 ## Texts
 [Bhāṣāpariccheda](../texts/bhasapariccheda.md), [Daśapadārthaśāstra](../texts/dasapadarthasastra.md), [Kiraṇāvalī (Udayana)](../texts/kiranavali-udayana.md), [Lakṣaṇāvalī](../texts/laksanavali.md), [Nyāyakandalī](../texts/nyayakandali.md), [Nyāyalīlāvatī](../texts/nyayalilavati.md), [Nyāyasiddhāntamuktāvalī](../texts/nyayasiddhantamuktavali.md), [Padārthadharmasaṅgraha](../texts/padarthadharmasangraha.md), [Padārthatattvanirūpaṇa](../texts/padarthatattvanirupana.md), [Saptapadārthī](../texts/saptapadarthi.md), [Tarkabhāṣā (Keśava Miśra)](../texts/tarkabhasa-kesava-misra.md), [Tarkakaumudī](../texts/tarkakaumudi.md), [Tarkāmṛta](../texts/tarkamrta.md), [Tarkasaṅgraha](../texts/tarkasangraha.md), [Tarkasaṅgrahadīpikā](../texts/tarkasangraha-dipika.md), [Upaskāra](../texts/upaskara.md), [Vādivinoda](../texts/vadivinoda.md), [Vaiśeṣika Sūtra](../texts/vaisesika-sutra.md), [Vaiśeṣikasūtravṛtti (Candrānanda)](../texts/vaisesika-sutra-vrtti-candrananda.md), [Vyomavatī](../texts/vyomavati.md)
@@ -39,15 +49,15 @@ Vaiśeṣika is the Vedic darśana of categorial analysis and atomism founded on
 [Annambhaṭṭa](../teachers/annambhatta.md), [Candramati](../teachers/candramati.md), [Candrānanda](../teachers/candrananda.md), [Kaṇāda](../teachers/kanada.md), [Keśava Miśra](../teachers/kesava-misra.md), [Laugākṣi Bhāskara](../teachers/laugaksi-bhaskara.md), [Praśastapāda](../teachers/prasastapada.md), [Śaṅkara Miśra](../teachers/sankara-misra.md), [Śivāditya](../teachers/sivaditya.md), [Śrīdhara](../teachers/sridhara-vaisesika.md), [Śrīvallabha](../teachers/srivallabha-vaisesika.md), [Udayana](../teachers/udayana.md), [Viśvanātha Nyāyapañcānana](../teachers/visvanatha-nyayapancanana.md), [Vyomaśiva](../teachers/vyomasiva.md)
 
 ## Practices
-_none recorded_
+[Duties of the life-stages and common duties (Vaiśeṣika)](../practices/asrama-dharma-vaisesika.md), [Giving (dāna) in Vaiśeṣika ethics](../practices/dana-vaisesika.md), [Pure food taken with restraint](../practices/pure-food-with-restraint.md), [Observances for the unseen (Vaiśeṣika)](../practices/vaisesika-adrsta-observances.md), [Yoga: the mind abiding in the self (Vaiśeṣika)](../practices/vaisesika-yoga.md)
 
 ## Path maps
-`pth:vaisesika-path-to-moksa`
+[The Vaiśeṣika path to liberation (mokṣa)](../paths/vaisesika-path-to-moksa.md)
 
 ## Debates
-_none recorded_
+[Is the material world composed of eternal partless atoms?](../debates/atomism.md), [Does liberation contain bliss (and consciousness)?](../debates/bliss-in-liberation.md), [Is sound (the word) eternal?](../debates/eternality-of-sound.md), [When a clay pot is baked, is the change of colour in the atoms or in the whole pot?](../debates/pilupaka-pitharapaka.md), [Are universals (jāti, sāmānya) real?](../debates/reality-of-universals.md)
 
 _Notes: Status 'absorbed': Vaiśeṣika ontology is still studied, but within Nyāya-Vaiśeṣika manuals._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._

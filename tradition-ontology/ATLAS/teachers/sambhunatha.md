@@ -2,7 +2,7 @@
 
 `tch:sambhunatha` · `skeleton` · confidence moderate
 
-**Lineages:** [Trika ('the Triad')](../lineages/trika.md), `lin:kaula`
+**Lineages:** [Trika ('the Triad')](../lineages/trika.md), [Kaula (the Kula tradition)](../lineages/kaula.md)
 **Places:** Jālandhara
 **Historicity:** historical
 **Teachers:** [Sumati(nātha)](sumatinatha.md)
@@ -13,4 +13,4 @@ Abhinavagupta's teacher in the Kaula form of the Trika, from Jālandhara; the Ta
 _Notes: Teacher-name Sumati(nātha) from TĀ ch. 1 as quoted in Jayaratha (low confidence on the relationship)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

@@ -5,7 +5,7 @@
 **Original title:** भाष्योत्कर्षदीपिका
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:advaita-vedanta`
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md)
 **Genre:** commentary (bhāṣya/ṭīkā)
 **Commentary on:** [Gītābhāṣya of Śaṅkara](gita-bhasya-sankara.md)
 **Authors:** 
@@ -20,4 +20,4 @@ An Advaita sub-commentary on Śaṅkara's Gītābhāṣya describing the Gītā 
 _Notes: Title recalled (low); the commentary's opening in the local corpus speaks of the Gītā as 'kāṇḍatrayātmaka'._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

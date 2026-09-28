@@ -5,7 +5,7 @@
 **Alternate titles:** Sarvajñānottaratantra
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:saiva-siddhanta`, [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
+**Lineages:** [Śaiva Siddhānta](../lineages/saiva-siddhanta.md), [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
 **Genre:** upāgama
 **Authors:** 
   - [Aghoraśiva](../teachers/aghorasiva.md) — role: commentator; attribution: accepted
@@ -19,4 +19,4 @@ A Siddhānta scripture of the upāgama class, known for its jñāna teaching, co
 _Notes: Its affiliation to a particular mūlāgama is not recorded here._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

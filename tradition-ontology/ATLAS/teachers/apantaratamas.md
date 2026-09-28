@@ -9,4 +9,4 @@
 Born of Nārāyaṇa's word, the teacher of the Vedas (vedācārya), called by some Prācīnagarbha; Vyāsa says he himself was Apāntaratamas in a former birth (12.337.38–61).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

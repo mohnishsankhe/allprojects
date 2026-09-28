@@ -9,4 +9,4 @@
 A king devoted to Nārāyaṇa who performed a horse sacrifice without slaughter; when he sided with the gods that 'aja' in the injunction means a goat, he fell, and was restored by his devotion (12.322–324).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

@@ -14,4 +14,4 @@ Author of the Śāradātilaka, a manual of mantra-śāstra widely used as an aut
 _Notes: His identification with Abhinavagupta's teacher Lakṣmaṇagupta is sometimes proposed; not accepted here._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

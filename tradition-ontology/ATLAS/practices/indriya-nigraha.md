@@ -1,0 +1,20 @@
+# Restraint and withdrawal of the senses
+
+`prc:indriya-nigraha` · `skeleton` · confidence high
+
+**Category:** sense-withdrawal-concentration
+**Convergence:** 1 independent lineage(s): [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
+**Taught in:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
+
+Withdraw the senses from their objects as a tortoise draws in its limbs (2.58); restrain them first and so slay desire (3.41); move among objects with senses free of attraction and aversion (2.64); Alarka learns the senses are conquered not by force but by yoga (Anugītā 14.30).
+**Stage:** all
+**Sources:** 
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 2.58–68; 3.41; rests_on: ["tea:bhagavad-gita:2.58", "tea:bhagavad-gita:2.60-61", "tea:bhagavad-gita:2.64-65", "tea:bhagavad-gita:3.40-41"]
+  - [Anugītā](../texts/anugita.md) — ref: 14.30; rests_on: ["tea:anugita:14.30"]
+
+## The texts' own warnings
+- The turbulent senses carry off the mind even of a wise man who strives. — [Bhagavad Gītā](../texts/bhagavad-gita.md) 2.60
+- Abstaining from objects removes them but not the taste, which ceases only on seeing the supreme. — [Bhagavad Gītā](../texts/bhagavad-gita.md) 2.59
+
+---
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

@@ -10,7 +10,7 @@
 **Part of:** [Ṛgveda Saṃhitā](rgveda.md)
 **Location in parent:** 10.127 (8 verses)
 **Authors:** 
-  - `tch:ratri-bharadvaji` — role: revealer; attribution: traditional
+  - [Rātri Bhāradvājī](../teachers/ratri-bharadvaji.md) — role: revealer; attribution: traditional
 **Attribution:** tradition: seen by ratri-bharadvaji; deity: Rātri (Sarvānukramaṇī); scholarly: a hymn of the Ṛgveda; books 1 and 10 are among its later layers; confidence: high
 **Availability:** digitized-original
 
@@ -19,4 +19,4 @@ Night as a goddess who looks out with many eyes, fills the wide space, drives aw
 _Notes: Seer given as Kuśika Saubhara or Rātri Bhāradvājī (checked in the local text's header). A separate Rātri Sūkta is recited with the Devī Māhātmya (reference only)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

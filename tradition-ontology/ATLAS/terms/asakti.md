@@ -1,0 +1,20 @@
+# aśakti
+
+`trm:asakti` · `skeleton` · confidence high
+
+**Language:** Sanskrit
+**Native script:** अशक्ति
+**Literal:** incapacity
+
+## Definitions by tradition
+- [Sāṃkhya](../lineages/samkhya.md): The twenty-eight incapacities: injuries of the eleven organs (deafness, blindness, numbness, etc.) and seventeen injuries of buddhi, the reversals of the nine contentments and eight accomplishments (SK 49).
+- [Puṣṭimārga (Vallabha Sampradāya; Śuddhādvaita Brahmavāda)](../lineages/pustimarga.md): Attachment to the Lord that makes household life distasteful (Bhaktivardhinī).
+- [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md): The seventh stage: attachment to the Lord's name, qualities and abode.
+
+## Forms in other languages
+
+## Equivalents (interpretation layer)
+**Related:** [pratyaya-sarga](pratyaya-sarga.md)
+
+---
+_Contributed by: skeleton:U09-samkhya, skeleton:U16-bhedabheda. Generated 2026-09-28 08:09 IST._

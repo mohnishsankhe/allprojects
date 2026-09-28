@@ -5,7 +5,7 @@
 **Original title:** भगवद्गुणदर्पण
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:visistadvaita`
+**Lineages:** [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md)
 **Genre:** commentary (bhāṣya/ṭīkā)
 **Commentary on:** [Viṣṇu Sahasranāma](visnu-sahasranama.md)
 **Authors:** 
@@ -16,4 +16,4 @@
 Parāśara Bhaṭṭar's Śrīvaiṣṇava commentary on the Viṣṇu Sahasranāma, explaining the names as the Lord's auspicious qualities.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

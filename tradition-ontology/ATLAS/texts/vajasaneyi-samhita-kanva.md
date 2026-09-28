@@ -14,4 +14,4 @@
 The Kāṇva recension of the White Yajurveda Saṃhitā, parallel to the Mādhyandina with differences of order and wording; its last adhyāya is the Kāṇva form of the Īśa Upaniṣad.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

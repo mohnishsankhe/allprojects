@@ -1,0 +1,19 @@
+# Waking, dream, deep sleep and the fourth
+
+`cpt:four-states-and-turya` · `skeleton` · confidence high
+
+**Category:** consciousness-states
+**Members:** jāgarita (waking) — vaiśvānara, svapna (dream) — taijasa, suṣupta (deep sleep) — prājña, caturtha/turīya (the fourth), jāgrat, svapna, suṣupti, turya, turyātīta
+
+## Names
+
+## Definitions
+- [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Lineage contribution (Upaniṣadic): BAU 4.3 analyses this world, the other world, the junction (dream) and the state without desire or dream; ChU 8.7-12 leads Indra through the body, the dream-self and the sleeper to the self; MāU 3-7 names four quarters of the self — vaiśvānara (waking), taijasa (dream), prājña (deep sleep) and the fourth; KU 2.1.4 and AU 1.3.12 (three dwellings, three dreams); MaiU 7.11.
+- [Spanda (the doctrine of vibration)](../lineages/spanda.md): Waking is cognition, dream thought-construct, deep sleep non-discrimination (Śiva Sūtra 1.8-10); the fourth is enjoyed amid them and to be poured into them like oil (1.7, 3.20); spanda never departs in any state (SK 1.3).
+- [Pratyabhijñā (the philosophy of recognition)](../lineages/pratyabhijna.md): Correlated with the breaths: prāṇa/apāna in waking and dream, samāna in sleep, udāna in the fourth, vyāna beyond (ĪPK 3.2.19-20).
+
+## Relations (interpretation layer)
+- corresponds-to-in-map → `cpt:three-states-and-the-fourth`: the Māṇḍūkya's scheme; the Śaivas add turyātīta — rests on [1.7](../texts/siva-sutra.md#tea-siva-sutra-1-7)
+
+---
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

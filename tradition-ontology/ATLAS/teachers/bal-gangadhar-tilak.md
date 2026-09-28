@@ -13,4 +13,4 @@ Scholar and political leader whose Gītā Rahasya (1915) argues that the Gītā 
 _Notes: Recent (post-1800); no initiatory lineage — lineage field records the text-tradition he interpreted._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

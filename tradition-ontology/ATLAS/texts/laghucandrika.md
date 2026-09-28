@@ -5,11 +5,12 @@
 **Alternate titles:** Gauḍabrahmānandī
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:advaita-vedanta`
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Vivaraṇa school (Vivaraṇa-prasthāna)](../lineages/vivarana.md)
 **Genre:** ṭīkā (polemic)
-**Commentary on:** `src:advaitasiddhi`
+**Commentary on:** [Advaitasiddhi](advaitasiddhi.md)
 **Authors:** 
   - [Brahmānanda Sarasvatī](../teachers/brahmananda-sarasvati.md) — role: author; attribution: accepted
+  - [Brahmānanda Sarasvatī](../teachers/brahmananda-sarasvati.md) — role: commentator; attribution: accepted
 **Dates:** Scholarly account: 17th–18th c. CE; (confidence low)
 **Availability:** unknown
 
@@ -18,4 +19,4 @@ Brahmānanda Sarasvatī's commentary on Madhusūdana Sarasvatī's Advaitasiddhi,
 _Notes: An Advaita text listed here as part of the Nyāyāmṛta–Advaitasiddhi exchange. A larger commentary (Gurucandrikā) by the same author is recalled at low confidence and not given an entry._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._

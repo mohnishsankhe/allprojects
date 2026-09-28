@@ -11,4 +11,4 @@
 Author of the Padārthadharmasaṅgraha, which gave Vaiśeṣika its classical form: six categories, twenty-four qualities, creation and dissolution by Maheśvara's will, and a systematic theory of cognition and dharma.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._

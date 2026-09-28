@@ -8,7 +8,7 @@
 **Lineages:** [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Paippalāda śākhā (Atharvaveda)](../lineages/sakha-paippalada.md)
 **Genre:** saṃhitā (hymns and spells)
 **Authors:** 
-  - `tch:pippalada` — role: compiler; attribution: traditional
+  - [Pippalāda](../teachers/pippalada.md) — role: compiler; attribution: traditional
 **Attribution:** tradition: the Atharvaveda as transmitted in Pippalāda's line; scholarly: a parallel Atharvaveda recension; confidence: high
 **Structure:** 20 kāṇḍas
 **Availability:** digitized-original
@@ -21,4 +21,4 @@ The second Atharvaveda recension, in twenty books, overlapping the Śaunaka in m
 _Notes: Teachings from this recension are not recorded here (no verse-level recall); gap listed in REPORT.md._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

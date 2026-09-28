@@ -9,7 +9,7 @@
 **Genre:** bhūmikā (introduction)
 **Commentary on:** [Ṛgveda Saṃhitā](rgveda.md)
 **Authors:** 
-  - `tch:dayananda-sarasvati` — role: author; attribution: accepted
+  - [Dayānanda Sarasvatī](../teachers/dayananda-sarasvati.md) — role: author; attribution: accepted
 **Dates:** Scholarly account: 1876–78 CE; (confidence moderate)
 **Availability:** digitized-original
 
@@ -18,4 +18,4 @@ Dayānanda Sarasvatī's introduction to his Veda commentaries: the four Saṃhit
 _Notes: Recent (post-1800). Dates recalled with moderate confidence._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

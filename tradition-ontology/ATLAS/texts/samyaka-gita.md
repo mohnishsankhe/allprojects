@@ -16,5 +16,17 @@
 
 Śamyāka teaches that renunciation brings a happiness that the rich never know; possessions bring fear and sorrow.
 
+## Teachings (1: skeleton 1)
+
+### 12.170 <a id="tea-samyaka-gita-12-170"></a>
+`skeleton` · confidence moderate · [AI-translated]
+
+Śamyāka, a brāhmaṇa freed by renunciation, teaches that the man who owns nothing sleeps and wakes happily; wealth brings fear from kings, thieves and kin, and the possessionless is truly rich.
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: all · types: ethics_
+
+obstacles: [Possessiveness (parigraha)](../obstacles/parigraha.md)
+
+
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

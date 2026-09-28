@@ -6,7 +6,7 @@
 **Lineages:** [Sāṃkhya](../lineages/samkhya.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
 **Historicity:** semi-legendary
 **Teachers:** [Āsuri](asuri.md)
-**Students:** [Janaka](janaka.md), [Janadeva Janaka](janadeva-janaka.md)
+**Students:** [Janaka of Videha](janaka.md), [Janadeva Janaka](janadeva-janaka.md)
 **Works:** 
   - [Pañcaśikha fragments (Pañcaśikhasūtra)](../texts/pancasikha-sutra.md) — attribution: traditional
   - [Ṣaṣṭitantra](../texts/sastitantra.md) — attribution: disputed
@@ -16,4 +16,4 @@ Pupil of Āsuri by whom 'the doctrine was expanded' (SK 70). In the Mahābhārat
 _Notes: Mahābhārata chapter (Śāntiparvan, c. 12.211–212 in the critical edition) recalled, not checked._
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

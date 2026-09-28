@@ -15,4 +15,4 @@ At the beginning and end of a sneeze, in fear, in grief, in a deep cave (or: in 
 _Notes: Verses 118 (KSTS 8 / GRETIL numbering). Compare Spandakārikā 1.22 (spanda found in intense states)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

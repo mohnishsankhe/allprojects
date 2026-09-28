@@ -15,4 +15,4 @@ For one who meditates on the universe as a magic show (indrajāla), or as spread
 _Notes: Verses 102 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

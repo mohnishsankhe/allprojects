@@ -19,7 +19,19 @@
   - kind: original; name: The Mahābhārata, Critical Edition, ed. V. S. Sukthankar et al., Bhandarkar Oriental Research Institute, Pune (1933–1966); licence: print edition (text public domain; apparatus under BORI copyright)
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
+## Teachings (1: skeleton 1)
+
+### 13.126-134 <a id="tea-umamahesvara-samvada-13-126-134"></a>
+`skeleton` · confidence moderate
+
+Śiva answers Umā on dharma — the conduct of the varṇas and āśramas, the deeds that lead to heaven or hell, rebirth and long or short life — and Umā herself, questioned by Śiva, expounds the dharma of women.
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics, karma-liberation_
+
+concepts: [The dharma of the devoted wife (pativratā)](../concepts/pativrata-dharma.md) · teachers: [Śiva](../teachers/siva.md), [Umā (Pārvatī)](../teachers/uma.md)
+
+
 _Notes: Chapter range reconstructed from name occurrences in the local critical text (moderate)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

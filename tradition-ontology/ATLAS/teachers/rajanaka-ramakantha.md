@@ -14,4 +14,4 @@ Kashmiri commentator, a disciple of Utpaladeva, author of the Spandavivṛti (as
 _Notes: Distinct from tch:ramakantha (Rāmakaṇṭha II of the Śaiva Siddhānta)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

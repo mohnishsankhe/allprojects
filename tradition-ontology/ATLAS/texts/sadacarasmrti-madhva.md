@@ -15,7 +15,19 @@
 
 one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); a short verse manual of daily conduct for a Vaiṣṇava: rising while remembering Hari, purification, bathing, worship, and the dedication of all acts to Acyuta.
 
+## Teachings (1: skeleton 1)
+
+### 1-2 <a id="tea-sadacarasmrti-madhva-1-2"></a>
+`skeleton` · confidence high
+
+Victory to Acyuta, to whom — having laid down all actions in him with an inward-turned mind, without desire and without 'mine' — one goes as the Supreme. Rising while remembering Hari, one purifies oneself as prescribed, cleans the teeth, sips water and bathes according to rule.
+
+_level: conventional · standpoint: ethical-social · path: action, devotion · stage: all · types: ethics, practice_
+
+concepts: [The Lord as the real agent (hari-kartṛtva)](../concepts/god-as-true-agent.md) · practices: [The daily routine of right conduct (sadācāra)](../practices/sadacara-daily-rhythm.md), [Remembering Hari as the doer; action as worship](../practices/hari-kartrtva-anusandhana.md)
+
+
 _Notes: Opening verses checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

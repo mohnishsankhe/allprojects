@@ -18,5 +18,17 @@ Viśvanātha's auto-commentary on the Bhāṣāpariccheda, the standard intermed
   - kind: original; name: sanskrit/raw_etexts (github.com/sanskrit/raw_etexts) nyAya-shAstram/nyAya_siddhAnta_muktAvaliH_2_Tika.pdf.txt.md (OCR, with Dinakarī and Rāmarudrī); licence: see repository; url: https://github.com/sanskrit/raw_etexts
 **Commentaries on this text:** [Dinakarī](dinakari.md), [Rāmarudrī](ramarudri.md)
 
+## Teachings (1: skeleton 1)
+
+### section on Īśvara (commentary on the maṅgala) <a id="tea-nyayasiddhantamuktavali-isvara"></a>
+`skeleton` · confidence moderate
+
+Earth, sprouts and the like have a maker, because they are effects, like a pot; (this establishes the Lord).
+
+_level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate, dispute_
+
+terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara in Nyāya-Vaiśeṣika](../concepts/isvara-nyaya.md) · disputes: `dsp:isvara`
+
+
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._

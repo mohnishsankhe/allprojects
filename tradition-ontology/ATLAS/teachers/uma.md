@@ -9,4 +9,4 @@
 Śiva's consort, who questions him on dharma and herself expounds the dharma of women in the Anuśāsana (13.126–134).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

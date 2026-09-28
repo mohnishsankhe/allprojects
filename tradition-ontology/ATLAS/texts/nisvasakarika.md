@@ -5,7 +5,7 @@
 **Alternate titles:** Niśvāsakārikā, Nisvāsakārikā, Niśvāsāgama (South Indian)
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:saiva-siddhanta`, [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
+**Lineages:** [Śaiva Siddhānta](../lineages/saiva-siddhanta.md), [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
 **Genre:** āgama (upāgama)
 **Attribution:** tradition: a portion of the Niśvāsa revelation; scholarly: a distinct, later South Indian work, not part of the old Nepalese Niśvāsa manuscript; confidence: moderate
 **Availability:** digitized-original
@@ -17,4 +17,4 @@ A large South Indian scripture transmitted under the Niśvāsa's name (named amo
 _Notes: Muktabodha describes the Dīkṣottara (M00279) as 'the Dīkṣottara of the Niśvāsakārikā'. sources_raw/raw_etexts/mixed/mukta/muktabodha_metadata.json (Muktabodha catalogue descriptions)_
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

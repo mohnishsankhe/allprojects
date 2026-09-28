@@ -2,13 +2,19 @@
 
 `tch:parasara-bhattar` · `skeleton` · confidence moderate
 
-**Lineages:** `lin:visistadvaita`
-**Dates:** Scholarly account: 12th c. CE; (confidence moderate)
+**Alternate names:** Bhaṭṭar
+**Lineages:** [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md), [Teṅkalai (southern school of Śrīvaiṣṇavism)](../lineages/tenkalai.md)
+**Dates:** Scholarly account: 12th c. CE; (confidence low)
 **Historicity:** historical
+**Teachers:** [Embār](embar.md), [Kūreśa](kuresa.md)
+**Students:** [Nañjīyar](nanjiyar.md)
 **Works:** 
+  - [Śrīraṅgarājastava](../texts/srirangarajastava.md) — attribution: accepted
+  - [Śrīguṇaratnakośa](../texts/sri-gunaratnakosa.md) — attribution: accepted
   - [Bhagavadguṇadarpaṇa of Parāśara Bhaṭṭar](../texts/bhagavadgunadarpana.md) — attribution: accepted
+  - [Aṣṭaślokī](../texts/astasloki-bhattar.md) — attribution: traditional
 
-Śrīvaiṣṇava teacher, son of Kūrattāḻvāṉ, author of the Bhagavadguṇadarpaṇa on the Viṣṇu Sahasranāma.
+Son of Kūreśa, named by Rāmānuja in fulfilment of Yāmuna's wish; successor at Śrīraṅgam after Embār; author of the Śrīraṅgarājastava, Śrīguṇaratnakośa, Bhagavadguṇadarpaṇa and Aṣṭaślokī; the tradition says he won over the Advaitin Mādhava (Nañjīyar).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U14-visistadvaita, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

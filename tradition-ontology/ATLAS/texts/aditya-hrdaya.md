@@ -21,4 +21,4 @@ A hymn to the Sun taught by the sage Agastya to Rāma on the battlefield before 
 _Notes: Its status in the Baroda critical edition is not confirmed here._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

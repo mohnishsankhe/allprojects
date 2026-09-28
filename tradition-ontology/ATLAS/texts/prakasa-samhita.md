@@ -14,4 +14,4 @@ Vaiṣṇava saṃhitā transmitted with the Pāñcarātra corpus.
   - kind: original; name: GRETIL e-text
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

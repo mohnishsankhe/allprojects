@@ -1,0 +1,33 @@
+# brahman
+
+`trm:brahman` · `skeleton` · confidence high
+
+**Language:** Sanskrit
+**Native script:** ब्रह्मन्
+**Literal:** formulation; sacred word; (later) the absolute
+
+## Definitions by tradition
+- [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): In the Ṛgveda, the potent sacred formulation or prayer and the power in it (Bṛhaspati/Brahmaṇaspati is its lord); in the Atharvaveda and Yajurveda, the highest principle: 'that is brahman' (VS 32.1), 'homage to the highest Brahman' (AVŚ 10.8.1), 'those who know Brahman in man know the Supreme' (10.7.17), Brahman entered the golden city of the body (10.2.33).
+- [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): The ultimate ground: that from which beings arise, by which they live and into which they go (TU 3.1.1); being, one without a second (ChU 6.2.1); truth, knowledge, infinite (TU 2.1.1); understanding and bliss (BAU 3.9.28); described also by negation (BAU 2.3.6). Also the name of the formula or sacred word in older usage.
+- [Vedānta (Uttara Mīmāṃsā)](../lineages/vedanta.md): That from which the origin, sustenance and dissolution of the world proceed, known from the Upaniṣads (BS 1.1.2–4).
+- [Advaita Vedānta](../lineages/advaita-vedanta.md): The one reality without a second: existence–consciousness–bliss, attributeless (nirguṇa) in itself, identical with the inner self; associated with māyā it is Īśvara, the world-cause.
+- [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md): In Dvaita the word applies primarily to Viṣṇu alone, 'full' (pūrṇa) in qualities; defined as that from which come creation, maintenance, dissolution, control, knowledge, ignorance, bondage and release.
+- [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): In the Brāhmaṇas: the sacred formulation and the Veda; also the first principle — 'in the beginning this was Brahman' (ŚB 11.2.3.1), 'Brahman the self-existent' (ŚB 10.6.5.9; 13.7.1.1; GB 1.1.1).
+- [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): The supreme reached by self-knowledge and seeing the self in all (MDh 12.125); 'the one syllable is the supreme Brahman' (VDh 10.5).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The imperishable supreme (BhG 8.3), beginningless, neither being nor non-being (13.12), with hands and feet everywhere (13.13); also the Veda from which ritual action arises (3.15) and the prakṛti called 'great Brahman', the Lord's womb (14.3); 'na mama' is the eternal Brahman (MBh 12.13.4).
+- [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): In the Purāṇas the supreme reality, identified with Viṣṇu (VP), Śiva (ŚiP), or the Goddess (DBhP); one of three names of non-dual knowledge (BhP 1.2.11).
+- [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): The supreme reality, Nārāyaṇa, great in essence and qualities and making others great; qualified (saviśeṣa) by souls and matter, never an attributeless consciousness.
+- [Vīraśaiva / Liṅgāyata](../lineages/virasaiva.md): The liṅga itself, so named for its vastness and expanding (SSM 6.36–38); the liṅga of light by whose light all shines (12.38–41).
+- [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): U04 usage: the one reality realized as 'so'ham'; the soundless beyond nāda; the goal of renunciation; named as Nārāyaṇa, Śiva, Rāma or the Goddess in the sectarian Upaniṣads.
+
+## Forms in other languages
+- Pali: brahma  — partial — used in Pali mostly for the deity Brahmā or as 'excellent'
+
+## Equivalents (interpretation layer)
+- same-under-standpoint: [ātman](atman.md) (pāramārthika (Advaita)) — Advaita holds Brahman and the inner self identical; other Vedānta schools deny strict identity.
+**Related:** [jyeṣṭha brahman](jyestha-brahman.md), [brahmán (priest)](brahman-priest.md), [bṛhaspati](brhaspati.md), [ātman](atman.md), [akṣara](aksara.md), [bhūman](bhuman.md), [saccidānanda](saccidananda.md), [nirguṇa](nirguna.md), [saguṇa](saguna.md), [īśvara](isvara.md), [Viṣṇu](visnu.md), [aṣṭa-kartṛtva](asta-kartrtva.md), [brahma-nirvāṇa](brahma-nirvana.md)
+
+_Notes: U01 contribution: the Saṃhitā senses. The Upaniṣadic and Vedānta definitions are contributed by other units._
+
+---
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U15-dvaita, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U14-visistadvaita, skeleton:U20-virasaiva, skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._

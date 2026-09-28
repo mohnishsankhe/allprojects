@@ -2,7 +2,7 @@
 
 `tch:jnanaprakasa` · `skeleton` · confidence low
 
-**Lineages:** `lin:saiva-siddhanta`, [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
+**Lineages:** [Śaiva Siddhānta](../lineages/saiva-siddhanta.md), [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
 **Dates:** Scholarly account: 16th c.?; (confidence low)
 **Historicity:** historical
 **Works:** 
@@ -12,4 +12,4 @@
 Saiddhāntika author (described as resident of Śālivāṭipura) of a Pauṣkara commentary and of a collection on the greatness and authority of the Śaiva Āgamas.
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

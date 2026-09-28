@@ -2,7 +2,7 @@
 
 `tch:cudala` · `skeleton` · confidence high
 
-**Lineages:** `lin:advaita-vedanta`
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md)
 **Historicity:** legendary
 **Students:** [Śikhidhvaja](sikhidhvaja.md)
 
@@ -10,4 +10,4 @@ Queen of Mālava who attained self-knowledge by her own inquiry and powers throu
 **Realization — the tradition's account:** Through daily inquiry into what the self is she found the Self and 'shone' so that her husband remarked on her changed radiance (MU 6.82-83 'cūḍālā-prabodha', 'cūḍālātmalābha').
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

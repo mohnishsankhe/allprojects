@@ -1,0 +1,20 @@
+# sat
+
+`trm:sat` · `skeleton` · confidence high
+
+**Language:** Sanskrit
+**Native script:** सत्
+**Literal:** being; existent
+
+## Definitions by tradition
+- [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): Being; in RV 10.72 'being was born from non-being'; in 10.129 before creation 'there was neither non-being nor being'.
+- [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Being: 'in the beginning this was being alone, one without a second' (ChU 6.2.1); in BAU 2.3.1 and TU 2.6 paired with tyat/tyam as the manifest and the beyond.
+- [Advaita Vedānta](../lineages/advaita-vedanta.md): Existence/being: that which is never sublated in the three times; Brahman as pure being, present in every cognition 'it is'.
+
+## Forms in other languages
+
+## Equivalents (interpretation layer)
+**Related:** [asat](asat.md), [satya](satya.md), [saccidānanda](saccidananda.md), [mithyā](mithya.md)
+
+---
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._

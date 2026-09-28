@@ -16,4 +16,4 @@ A second verse commentary on the Śiva Sūtra by Varadarāja (alias Kṛṣṇad
 _Notes: Recalled from secondary literature; verify in Phase C._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

@@ -17,5 +17,17 @@ Maheśvarānanda's verses in Māhārāṣṭrī Prakrit on the Mahārtha (Krama)
   - kind: original; name: with Parimala, Trivandrum Sanskrit Series (1919)
 **Commentaries on this text:** [Parimala](maharthamanjari-parimala.md)
 
+## Teachings (1: skeleton 1)
+
+### summary <a id="tea-maharthamanjari-summary"></a>
+`skeleton` · confidence low
+
+The Mahārtha teaching: one's own self is the goddess of consciousness, who through the phases of the Krama emits, holds and withdraws the world; recognizing this is liberation.
+
+_level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate_
+
+teachers: [Maheśvarānanda](../teachers/mahesvarananda.md)
+
+
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

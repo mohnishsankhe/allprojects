@@ -6,7 +6,7 @@
 **Family:** vedic
 **Lineages:** [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md)
 **Genre:** bhāṣya
-**Commentary on:** `src:chandogya-upanisad`
+**Commentary on:** [Chāndogya Upaniṣad](chandogya-upanisad.md)
 **Authors:** 
   - [Madhva](../teachers/madhva.md) — role: author; attribution: accepted
 **Attribution:** tradition: Madhva (Ānandatīrtha), counted among his thirty-seven works; scholarly: accepted as Madhva's; confidence: high
@@ -15,7 +15,19 @@
 
 one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); Madhva's commentary on the Chāndogya Upaniṣad, reading it as teaching Viṣṇu's supremacy and his difference from souls and matter, often by etymological explanation of names and by quotations from other scriptures. On 6.8.7 it glosses 'aitadātmya' as being under the Lord's control and warns against the conceit of identity with Viṣṇu.
 
+## Teachings (1: skeleton 1)
+
+### 6.8.7 <a id="tea-chandogya-upanisad-bhasya-madhva-6-8-7"></a>
+`skeleton` · confidence high
+
+(Quoting a scripture:) He is called 'sa' because he is controller and essence; 'aṇimā' because he is known as subtle; 'aitadātmya' means being under his control; 'satya' because of supreme bliss; 'ātman' because full of qualities. 'In truth you are not that — let there be no arrogance in you.' The asuras, proud with the thought 'I am Brahman', call the world unreal, deny it a Lord, and read the Vedas as teaching the oneness of consciousness; devoted to bad reasoning, they cannot bear Hari's qualities and go to dreadful darkness. Do not adopt their view and understand oneness with Viṣṇu.
+
+_level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: dispute, ultimate_
+
+terms: [bheda](../terms/bheda.md), [jīva](../terms/jiva.md) · concepts: ['Atat tvam asi' — Dvaita's reading of Chāndogya 6.8.7](../concepts/atat-tvam-asi.md) · obstacles: [The conceit of identity with God](../obstacles/abheda-buddhi.md), [Arrogance (stabdhatā)](../obstacles/stabdhata.md), [Reliance on bare reasoning](../obstacles/kevala-tarka.md) · disputes: [What does 'tat tvam asi' (Chāndogya Upaniṣad 6.8.7) teach — identity of soul and Brahman, or something else?](../debates/tat-tvam-asi.md), `dsp:souls-one-or-distinct`, `dsp:world-real-or-appearance`
+
+
 _Notes: checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions_
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

@@ -9,7 +9,7 @@
 **Genre:** bhāṣya (commentary)
 **Commentary on:** [Ṛgveda Saṃhitā](rgveda.md)
 **Authors:** 
-  - `tch:skandasvamin` — role: commentator; attribution: accepted
+  - [Skandasvāmin](../teachers/skandasvamin.md) — role: commentator; attribution: accepted
 **Dates:** Scholarly account: c. 7th century CE; (confidence low)
 **Availability:** partly-lost
 
@@ -18,4 +18,4 @@ An early surviving Ṛgveda commentary, covering part of the Saṃhitā, which e
 _Notes: Tradition reports that Skandasvāmin worked with Nārāyaṇa and Udgītha on the whole Ṛgveda; only parts survive (low confidence)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

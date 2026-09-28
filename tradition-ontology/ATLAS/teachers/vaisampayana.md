@@ -2,13 +2,13 @@
 
 `tch:vaisampayana` · `skeleton` · confidence high
 
-**Lineages:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md)
+**Lineages:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Taittirīya śākhā (Black Yajurveda)](../lineages/sakha-taittiriya.md)
 **Dates:** Tradition's account: end of the Dvāpara yuga (the Bhārata war; Kali yuga traditionally from 3102 BCE)
 **Historicity:** legendary
 **Teachers:** [Vyāsa (Kṛṣṇa Dvaipāyana)](vyasa.md)
-**Students:** [Janamejaya](janamejaya.md), [Ugraśravas Sauti](ugrasravas.md)
+**Students:** [Janamejaya](janamejaya.md), [Ugraśravas Sauti](ugrasravas.md), [Yājñavalkya](yajnavalkya.md), [Kaṭha](katha.md), [Tittiri](tittiri.md)
 
 Vyāsa's disciple who recites the Mahābhārata to king Janamejaya during the snake sacrifice; the narrator of the Nārāyaṇīya to Janamejaya.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._

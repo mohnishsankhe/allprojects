@@ -32,7 +32,7 @@ Now [begins] the teaching (anuśāsana) of yoga.
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: teacher-transmission_
 
-terms: `trm:yoga` · concepts: `cpt:isvara-as-first-teacher` · teachers: [Patañjali](../teachers/patanjali.md), [Hiraṇyagarbha](../teachers/hiranyagarbha.md)
+terms: [yoga](../terms/yoga.md) · concepts: [Īśvara, Hiraṇyagarbha and the transmission of Yoga](../concepts/isvara-as-first-teacher.md) · teachers: [Patañjali](../teachers/patanjali.md), [Hiraṇyagarbha](../teachers/hiranyagarbha.md)
 
 ### 1.2 <a id="tea-yoga-sutra-1-2"></a>
 `skeleton` · confidence high
@@ -43,7 +43,7 @@ Yoga is the stilling (nirodha) of the activities (vṛtti) of the mind (citta).
 
 _level: conventional · standpoint: analytic · path: meditation · stage: all · types: consciousness-mind, practice_
 
-terms: `trm:yoga`, `trm:citta`, `trm:vrtti`, `trm:nirodha` · concepts: `cpt:yoga-as-nirodha`, `cpt:citta`
+terms: [yoga](../terms/yoga.md), [citta](../terms/citta.md), [vṛtti](../terms/vrtti.md), [nirodha](../terms/nirodha.md) · concepts: [Yoga as the stilling of the mind's activities (citta-vṛtti-nirodha)](../concepts/yoga-as-nirodha.md), [The mind (citta) in Yoga](../concepts/citta.md)
 
 ### 1.3 <a id="tea-yoga-sutra-1-3"></a>
 `skeleton` · confidence high
@@ -54,7 +54,7 @@ Then the seer abides in its own form.
 
 _level: ultimate · standpoint: substance · path: meditation · stage: realized · types: ultimate, consciousness-mind_
 
-terms: `trm:drastr`, `trm:svarupa-pratistha` · concepts: `cpt:purusa`, `cpt:seer-and-seen`, `cpt:kaivalya`
+terms: [draṣṭṛ](../terms/drastr.md), [svarūpa-pratiṣṭhā](../terms/svarupa-pratistha.md) · concepts: [Puruṣa (the conscious self)](../concepts/purusa.md), [The seer and the seen (draṣṭṛ and dṛśya)](../concepts/seer-and-seen.md), [Isolation (kaivalya)](../concepts/kaivalya.md)
 
 ### 1.4 <a id="tea-yoga-sutra-1-4"></a>
 `skeleton` · confidence high
@@ -65,7 +65,7 @@ Otherwise [the seer] takes on the form of the activities [of mind].
 
 _level: conventional · standpoint: mode · path: meditation · stage: all · types: consciousness-mind_
 
-terms: `trm:vrtti-sarupya`, `trm:vrtti` · concepts: `cpt:seer-and-seen`, `cpt:samyoga`
+terms: [vṛtti-sārūpya](../terms/vrtti-sarupya.md), [vṛtti](../terms/vrtti.md) · concepts: [The seer and the seen (draṣṭṛ and dṛśya)](../concepts/seer-and-seen.md), [The conjunction of seer and seen (saṃyoga)](../concepts/samyoga.md)
 
 ### 1.5 <a id="tea-yoga-sutra-1-5"></a>
 `skeleton` · confidence high
@@ -76,7 +76,7 @@ The activities [of mind] are of five kinds, afflicted or unafflicted.
 
 _level: unmarked · standpoint: analytic · path: meditation · stage: all · types: consciousness-mind_
 
-terms: `trm:vrtti`, `trm:klista`, `trm:aklista` · concepts: `cpt:five-vrttis`
+terms: [vṛtti](../terms/vrtti.md), [kliṣṭa](../terms/klista.md), [akliṣṭa](../terms/aklista.md) · concepts: [The five activities of the mind (pañca vṛttayaḥ)](../concepts/five-vrttis.md)
 
 ### 1.6 <a id="tea-yoga-sutra-1-6"></a>
 `skeleton` · confidence high
@@ -87,7 +87,7 @@ terms: `trm:vrtti`, `trm:klista`, `trm:aklista` · concepts: `cpt:five-vrttis`
 
 _level: unmarked · standpoint: analytic · path: meditation · stage: all · types: consciousness-mind_
 
-terms: `trm:pramana`, `trm:viparyaya`, `trm:vikalpa`, `trm:nidra`, `trm:smrti` · concepts: `cpt:five-vrttis`
+terms: [pramāṇa](../terms/pramana.md), [viparyaya](../terms/viparyaya.md), [vikalpa](../terms/vikalpa.md), [nidrā](../terms/nidra.md), [smṛti](../terms/smrti.md) · concepts: [The five activities of the mind (pañca vṛttayaḥ)](../concepts/five-vrttis.md)
 
 ### 1.7 <a id="tea-yoga-sutra-1-7"></a>
 `skeleton` · confidence high
@@ -98,7 +98,7 @@ Perception, inference and testimony are the means of valid cognition.
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: `trm:pramana`, `trm:pratyaksa`, `trm:anumana`, `trm:agama` · concepts: `cpt:five-vrttis`, `cpt:pramana` · disputes: `dsp:number-of-pramanas`
+terms: [pramāṇa](../terms/pramana.md), [pratyakṣa](../terms/pratyaksa.md), [anumāna](../terms/anumana.md), [āgama](../terms/agama.md) · concepts: [The five activities of the mind (pañca vṛttayaḥ)](../concepts/five-vrttis.md), [Means of valid knowledge (pramāṇa)](../concepts/pramana.md) · disputes: `dsp:number-of-pramanas`
 
 ### 1.8 <a id="tea-yoga-sutra-1-8"></a>
 `skeleton` · confidence high
@@ -109,7 +109,7 @@ Error is false knowledge, resting on a form that is not that [of the object].
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: `trm:viparyaya` · concepts: `cpt:five-vrttis`
+terms: [viparyaya](../terms/viparyaya.md) · concepts: [The five activities of the mind (pañca vṛttayaḥ)](../concepts/five-vrttis.md)
 
 ### 1.9 <a id="tea-yoga-sutra-1-9"></a>
 `skeleton` · confidence high
@@ -120,7 +120,7 @@ Conceptual construction (vikalpa) follows on verbal knowledge and is empty of a 
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind, sound-language_
 
-terms: `trm:vikalpa` · concepts: `cpt:five-vrttis`
+terms: [vikalpa](../terms/vikalpa.md) · concepts: [The five activities of the mind (pañca vṛttayaḥ)](../concepts/five-vrttis.md)
 
 ### 1.10 <a id="tea-yoga-sutra-1-10"></a>
 `skeleton` · confidence high
@@ -131,7 +131,7 @@ Sleep is the activity whose support is the cognition of absence.
 
 _level: unmarked · standpoint: analytic · path: meditation · stage: all · types: consciousness-mind_
 
-terms: `trm:nidra`, `trm:pratyaya`, `trm:alambana` · concepts: `cpt:five-vrttis`, `cpt:deep-sleep`
+terms: [nidrā](../terms/nidra.md), [pratyaya](../terms/pratyaya.md), [ālambana](../terms/alambana.md) · concepts: [The five activities of the mind (pañca vṛttayaḥ)](../concepts/five-vrttis.md), [Deep sleep](../concepts/deep-sleep.md)
 
 ### 1.11 <a id="tea-yoga-sutra-1-11"></a>
 `skeleton` · confidence high
@@ -142,7 +142,7 @@ Memory is the not-slipping-away of an object that has been experienced.
 
 _level: unmarked · standpoint: analytic · path: meditation · stage: all · types: consciousness-mind_
 
-terms: `trm:smrti` · concepts: `cpt:five-vrttis`, `cpt:samskara`
+terms: [smṛti](../terms/smrti.md) · concepts: [The five activities of the mind (pañca vṛttayaḥ)](../concepts/five-vrttis.md), [Latent impressions (saṃskāra)](../concepts/samskara.md)
 
 ### 1.12 <a id="tea-yoga-sutra-1-12"></a>
 `skeleton` · confidence high
@@ -153,7 +153,7 @@ They are stilled by practice (abhyāsa) and dispassion (vairāgya).
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-terms: `trm:abhyasa`, `trm:vairagya`, `trm:nirodha` · concepts: `cpt:abhyasa-vairagya` · practices: `prc:abhyasa`, `prc:vairagya`
+terms: [abhyāsa](../terms/abhyasa.md), [vairāgya](../terms/vairagya.md), [nirodha](../terms/nirodha.md) · concepts: [Practice and dispassion (abhyāsa and vairāgya)](../concepts/abhyasa-vairagya.md) · practices: [Practice (abhyāsa)](../practices/abhyasa.md), [Dispassion (vairāgya)](../practices/vairagya.md)
 
 ### 1.13 <a id="tea-yoga-sutra-1-13"></a>
 `skeleton` · confidence high
@@ -164,7 +164,7 @@ Of these, practice is the effort toward stability [of the mind].
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-terms: `trm:abhyasa` · concepts: `cpt:abhyasa-vairagya` · practices: `prc:abhyasa`
+terms: [abhyāsa](../terms/abhyasa.md) · concepts: [Practice and dispassion (abhyāsa and vairāgya)](../concepts/abhyasa-vairagya.md) · practices: [Practice (abhyāsa)](../practices/abhyasa.md)
 
 ### 1.14 <a id="tea-yoga-sutra-1-14"></a>
 `skeleton` · confidence high
@@ -175,7 +175,7 @@ It becomes firmly grounded when cultivated for a long time, without interruption
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-terms: `trm:abhyasa` · concepts: `cpt:abhyasa-vairagya` · practices: `prc:abhyasa`
+terms: [abhyāsa](../terms/abhyasa.md) · concepts: [Practice and dispassion (abhyāsa and vairāgya)](../concepts/abhyasa-vairagya.md) · practices: [Practice (abhyāsa)](../practices/abhyasa.md)
 
 ### 1.15 <a id="tea-yoga-sutra-1-15"></a>
 `skeleton` · confidence high
@@ -186,7 +186,7 @@ Dispassion is the consciousness of mastery (vaśīkāra-saṃjñā) of one who i
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice_
 
-terms: `trm:vairagya`, `trm:vasikara-samjna` · concepts: `cpt:vairagya`, `cpt:abhyasa-vairagya` · practices: `prc:vairagya`
+terms: [vairāgya](../terms/vairagya.md), [vaśīkāra-saṃjñā](../terms/vasikara-samjna.md) · concepts: [Dispassion, lower and higher](../concepts/vairagya.md), [Practice and dispassion (abhyāsa and vairāgya)](../concepts/abhyasa-vairagya.md) · practices: [Dispassion (vairāgya)](../practices/vairagya.md)
 
 ### 1.16 <a id="tea-yoga-sutra-1-16"></a>
 `skeleton` · confidence high
@@ -197,7 +197,7 @@ That is the higher [dispassion]: freedom from thirst for the guṇas themselves,
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: practice, karma-liberation_
 
-terms: `trm:para-vairagya`, `trm:guna`, `trm:purusa` · concepts: `cpt:vairagya` · practices: `prc:vairagya`
+terms: [para-vairāgya](../terms/para-vairagya.md), [guṇa](../terms/guna.md), [puruṣa](../terms/purusa.md) · concepts: [Dispassion, lower and higher](../concepts/vairagya.md) · practices: [Dispassion (vairāgya)](../practices/vairagya.md)
 
 ### 1.17 <a id="tea-yoga-sutra-1-17"></a>
 `skeleton` · confidence high
@@ -208,7 +208,7 @@ terms: `trm:para-vairagya`, `trm:guna`, `trm:purusa` · concepts: `cpt:vairagya`
 
 _level: unmarked · standpoint: experiential · path: meditation · stage: advanced · types: consciousness-mind_
 
-terms: `trm:samprajnata`, `trm:vitarka`, `trm:vicara`, `trm:ananda`, `trm:asmita`, `trm:samadhi` · concepts: `cpt:samprajnata-samadhi` · disputes: `dsp:objects-of-samprajnata`
+terms: [samprajñāta](../terms/samprajnata.md), [vitarka](../terms/vitarka.md), [vicāra](../terms/vicara.md), [ānanda](../terms/ananda.md), [asmitā](../terms/asmita.md), [samādhi](../terms/samadhi.md) · concepts: [Samādhi with full awareness (samprajñāta)](../concepts/samprajnata-samadhi.md) · disputes: [What are the objects of the bliss (ānanda) and I-am-ness (asmitā) forms of samprajñāta samādhi, and who are the videhas and prakṛtilayas?](../debates/objects-of-samprajnata.md)
 
 ### 1.18 <a id="tea-yoga-sutra-1-18"></a>
 `skeleton` · confidence high
@@ -219,7 +219,7 @@ The other [samādhi] is preceded by the practice of the cognition of cessation a
 
 _level: unmarked · standpoint: experiential · path: meditation · stage: advanced · types: consciousness-mind_
 
-terms: `trm:asamprajnata`, `trm:samskara` · concepts: `cpt:asamprajnata-samadhi`
+terms: [asamprajñāta](../terms/asamprajnata.md), [saṃskāra](../terms/samskara.md) · concepts: [Samādhi beyond object-awareness (asamprajñāta)](../concepts/asamprajnata-samadhi.md)
 
 ### 1.19 <a id="tea-yoga-sutra-1-19"></a>
 `skeleton` · confidence high
@@ -230,7 +230,7 @@ For the bodiless (videha) and those merged in prakṛti (prakṛtilaya), [that s
 
 _level: unmarked · standpoint: analytic · path: meditation · stage: unmarked · types: consciousness-mind, karma-liberation_
 
-terms: `trm:bhava-pratyaya`, `trm:videha`, `trm:prakrtilaya` · concepts: `cpt:upaya-bhava-pratyaya`, `cpt:videha-prakrtilaya` · obstacles: `obs:prakrtilaya-short-of-kaivalya`
+terms: [bhava-pratyaya](../terms/bhava-pratyaya.md), [videha](../terms/videha.md), [prakṛtilaya](../terms/prakrtilaya.md) · concepts: [Samādhi from means and from birth (upāya-pratyaya, bhava-pratyaya)](../concepts/upaya-bhava-pratyaya.md), [The bodiless and those merged in prakṛti](../concepts/videha-prakrtilaya.md) · obstacles: [Absorption in prakṛti or the bodiless state short of kaivalya](../obstacles/prakrtilaya-short-of-kaivalya.md)
 
 ### 1.20 <a id="tea-yoga-sutra-1-20"></a>
 `skeleton` · confidence high
@@ -241,7 +241,7 @@ For others, it is preceded by faith, energy, mindfulness, samādhi and insight.
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-terms: `trm:upaya-pratyaya`, `trm:sraddha`, `trm:virya`, `trm:smrti`, `trm:samadhi`, `trm:prajna` · concepts: `cpt:upaya-bhava-pratyaya`, `cpt:sraddha-virya-smrti-samadhi-prajna`
+terms: [upāya-pratyaya](../terms/upaya-pratyaya.md), [śraddhā](../terms/sraddha.md), [vīrya](../terms/virya.md), [smṛti](../terms/smrti.md), [samādhi](../terms/samadhi.md), [Prājña](../terms/prajna.md) · concepts: [Samādhi from means and from birth (upāya-pratyaya, bhava-pratyaya)](../concepts/upaya-bhava-pratyaya.md), [The five means: faith, energy, mindfulness, samādhi, insight](../concepts/sraddha-virya-smrti-samadhi-prajna.md)
 
 ### 1.21 <a id="tea-yoga-sutra-1-21"></a>
 `skeleton` · confidence high
@@ -252,7 +252,7 @@ For those whose ardor (saṃvega) is intense, [samādhi] is near.
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all (tīvra-saṃvega) · types: practice_
 
-terms: `trm:samvega` · concepts: `cpt:grades-of-practitioners`
+terms: [saṃvega](../terms/samvega.md) · concepts: [Grades of practitioners (mṛdu, madhya, adhimātra)](../concepts/grades-of-practitioners.md)
 
 ### 1.22 <a id="tea-yoga-sutra-1-22"></a>
 `skeleton` · confidence high
@@ -263,7 +263,7 @@ There is a further distinction, according as [the means] is mild, middling or in
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-terms: `trm:samvega` · concepts: `cpt:grades-of-practitioners`
+terms: [saṃvega](../terms/samvega.md) · concepts: [Grades of practitioners (mṛdu, madhya, adhimātra)](../concepts/grades-of-practitioners.md)
 
 ### 1.23 <a id="tea-yoga-sutra-1-23"></a>
 `skeleton` · confidence high
@@ -274,7 +274,7 @@ Or [samādhi is near] through devotion to Īśvara (īśvara-praṇidhāna).
 
 _level: conventional · standpoint: devotional · path: devotion, meditation · stage: all · types: practice_
 
-terms: `trm:isvara-pranidhana`, `trm:isvara` · concepts: `cpt:isvara` · practices: `prc:isvara-pranidhana` · disputes: `dsp:isvara`, `dsp:yoga-samkhya-isvara`
+terms: [īśvara-praṇidhāna](../terms/isvara-pranidhana.md), [īśvara](../terms/isvara.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · practices: [Devotion to Īśvara (īśvara-praṇidhāna)](../practices/isvara-pranidhana.md) · disputes: `dsp:isvara`, [Is Īśvara to be admitted, and is devotion to him a means to liberation? (Yoga against nirīśvara Sāṃkhya)](../debates/yoga-samkhya-isvara.md)
 
 ### 1.24 <a id="tea-yoga-sutra-1-24"></a>
 `skeleton` · confidence high
@@ -285,7 +285,7 @@ terms: `trm:isvara-pranidhana`, `trm:isvara` · concepts: `cpt:isvara` · practi
 
 _level: ultimate · standpoint: divine · path: devotion, knowledge · stage: all · types: ultimate_
 
-terms: `trm:isvara`, `trm:purusa-visesa`, `trm:klesa`, `trm:karmasaya`, `trm:vipaka` · concepts: `cpt:isvara` · disputes: `dsp:isvara`, `dsp:yoga-samkhya-isvara`
+terms: [īśvara](../terms/isvara.md), [puruṣa-viśeṣa](../terms/purusa-visesa.md), [kleśa](../terms/klesa.md), [karmāśaya](../terms/karmasaya.md), [vipāka](../terms/vipaka.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: `dsp:isvara`, [Is Īśvara to be admitted, and is devotion to him a means to liberation? (Yoga against nirīśvara Sāṃkhya)](../debates/yoga-samkhya-isvara.md)
 
 ### 1.25 <a id="tea-yoga-sutra-1-25"></a>
 `skeleton` · confidence high
@@ -296,7 +296,7 @@ In him the seed of omniscience is unsurpassed.
 
 _level: ultimate · standpoint: divine · path: devotion, knowledge · stage: all · types: ultimate_
 
-terms: `trm:isvara` · concepts: `cpt:isvara`, `cpt:omniscience-in-yoga` · disputes: `dsp:isvara`, `dsp:yoga-samkhya-isvara`
+terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Omniscience in Yoga](../concepts/omniscience-in-yoga.md) · disputes: `dsp:isvara`, [Is Īśvara to be admitted, and is devotion to him a means to liberation? (Yoga against nirīśvara Sāṃkhya)](../debates/yoga-samkhya-isvara.md)
 
 ### 1.26 <a id="tea-yoga-sutra-1-26"></a>
 `skeleton` · confidence high
@@ -307,7 +307,7 @@ He is the teacher even of the ancients, since he is not limited by time.
 
 _level: ultimate · standpoint: divine · path: devotion · stage: all · types: ultimate, teacher-transmission_
 
-terms: `trm:isvara`, `trm:guru` · concepts: `cpt:isvara`, `cpt:isvara-as-first-teacher`
+terms: [īśvara](../terms/isvara.md), [guru](../terms/guru.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Īśvara, Hiraṇyagarbha and the transmission of Yoga](../concepts/isvara-as-first-teacher.md)
 
 ### 1.27 <a id="tea-yoga-sutra-1-27"></a>
 `skeleton` · confidence high
@@ -318,7 +318,7 @@ His designator is the praṇava (Oṃ).
 
 _level: conventional · standpoint: divine · path: sound, devotion · stage: all · types: sound-language_
 
-terms: `trm:pranava`, `trm:isvara` · concepts: `cpt:pranava`
+terms: [praṇava](../terms/pranava.md), [īśvara](../terms/isvara.md) · concepts: [Oṃ, the designator of Īśvara](../concepts/pranava.md)
 
 ### 1.28 <a id="tea-yoga-sutra-1-28"></a>
 `skeleton` · confidence high
@@ -329,7 +329,7 @@ Its repetition [and] the contemplation of its meaning [are to be practised].
 
 _level: conventional · standpoint: seeker · path: sound, devotion, meditation · stage: all · types: practice, sound-language_
 
-terms: `trm:japa`, `trm:bhavana`, `trm:pranava` · concepts: `cpt:pranava` · practices: `prc:pranava-japa`
+terms: [japa](../terms/japa.md), [bhāvanā](../terms/bhavana.md), [praṇava](../terms/pranava.md) · concepts: [Oṃ, the designator of Īśvara](../concepts/pranava.md) · practices: [Repetition of Oṃ with contemplation of Īśvara (praṇava-japa)](../practices/pranava-japa.md)
 
 ### 1.29 <a id="tea-yoga-sutra-1-29"></a>
 `skeleton` · confidence high
@@ -340,7 +340,7 @@ From that comes realization of the inward consciousness, and the absence of obst
 
 _level: conventional · standpoint: experiential · path: sound, devotion, meditation · stage: intermediate · types: consciousness-mind, practice_
 
-terms: `trm:antaraya` · concepts: `cpt:pranava`, `cpt:purusa` · practices: `prc:pranava-japa`, `prc:isvara-pranidhana` · obstacles: `obs:nine-antarayas`
+terms: [antarāya](../terms/antaraya.md) · concepts: [Oṃ, the designator of Īśvara](../concepts/pranava.md), [Puruṣa (the conscious self)](../concepts/purusa.md) · practices: [Repetition of Oṃ with contemplation of Īśvara (praṇava-japa)](../practices/pranava-japa.md), [Devotion to Īśvara (īśvara-praṇidhāna)](../practices/isvara-pranidhana.md) · obstacles: [The nine obstacles (antarāya), distractions of mind](../obstacles/nine-antarayas.md)
 
 ### 1.30 <a id="tea-yoga-sutra-1-30"></a>
 `skeleton` · confidence high
@@ -351,7 +351,7 @@ Illness, dullness, doubt, carelessness, laziness, non-abstention, erroneous visi
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice, consciousness-mind_
 
-terms: `trm:antaraya`, `trm:citta-viksepa`, `trm:vyadhi`, `trm:styana`, `trm:samsaya`, `trm:pramada`, `trm:alasya`, `trm:avirati`, `trm:bhranti-darsana`, `trm:alabdha-bhumikatva`, `trm:anavasthitatva` · obstacles: `obs:nine-antarayas`, `obs:vyadhi`, `obs:styana`, `obs:samsaya`, `obs:pramada`, `obs:alasya`, `obs:avirati`, `obs:bhranti-darsana`, `obs:alabdha-bhumikatva`, `obs:anavasthitatva`
+terms: [antarāya](../terms/antaraya.md), [citta-vikṣepa](../terms/citta-viksepa.md), [vyādhi](../terms/vyadhi.md), [styāna](../terms/styana.md), [saṃśaya](../terms/samsaya.md), [pramāda](../terms/pramada.md), [ālasya](../terms/alasya.md), [avirati](../terms/avirati.md), [bhrānti-darśana](../terms/bhranti-darsana.md), [alabdha-bhūmikatva](../terms/alabdha-bhumikatva.md), [anavasthitatva](../terms/anavasthitatva.md) · obstacles: [The nine obstacles (antarāya), distractions of mind](../obstacles/nine-antarayas.md), [Illness (vyādhi)](../obstacles/vyadhi.md), [Dullness (styāna)](../obstacles/styana.md), [Doubt (saṃśaya)](../obstacles/samsaya.md), [Heedlessness (pramāda)](../obstacles/pramada.md), [Laziness (ālasya)](../obstacles/alasya.md), [Non-abstention (avirati)](../obstacles/avirati.md), [Erroneous vision (bhrānti-darśana)](../obstacles/bhranti-darsana.md), [Failure to gain a stage (alabdha-bhūmikatva)](../obstacles/alabdha-bhumikatva.md), [Instability (anavasthitatva)](../obstacles/anavasthitatva.md)
 
 ### 1.31 <a id="tea-yoga-sutra-1-31"></a>
 `skeleton` · confidence high
@@ -362,7 +362,7 @@ Pain, dejection, trembling of the limbs, and [disturbed] inhalation and exhalati
 
 _level: conventional · standpoint: experiential · path: meditation · stage: all · types: practice, body-layers_
 
-terms: `trm:duhkha`, `trm:daurmanasya`, `trm:angamejayatva`, `trm:svasa-prasvasa` · obstacles: `obs:viksepa-sahabhuva`
+terms: [duḥkha](../terms/duhkha.md), [daurmanasya](../terms/daurmanasya.md), [aṅgamejayatva](../terms/angamejayatva.md), [śvāsa-praśvāsa](../terms/svasa-prasvasa.md) · obstacles: [The five accompaniments of distraction](../obstacles/viksepa-sahabhuva.md)
 
 ### 1.32 <a id="tea-yoga-sutra-1-32"></a>
 `skeleton` · confidence high
@@ -373,7 +373,7 @@ To counter them, [there is] practice on a single principle.
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-terms: `trm:ekatattva-abhyasa` · practices: `prc:ekatattva-abhyasa` · obstacles: `obs:nine-antarayas` · disputes: `dsp:citta-momentary-or-enduring`
+terms: [ekatattva-abhyāsa](../terms/ekatattva-abhyasa.md) · practices: [Practice on a single principle (ekatattva-abhyāsa)](../practices/ekatattva-abhyasa.md) · obstacles: [The nine obstacles (antarāya), distractions of mind](../obstacles/nine-antarayas.md) · disputes: [Is the mind a series of momentary cognitions, or one enduring mind with many objects?](../debates/citta-momentary-or-enduring.md)
 
 ### 1.33 <a id="tea-yoga-sutra-1-33"></a>
 `skeleton` · confidence high
@@ -384,7 +384,7 @@ The mind becomes clear by cultivating friendliness, compassion, gladness and equ
 
 _level: conventional · standpoint: ethical-social · path: meditation · stage: all · types: ethics, practice_
 
-terms: `trm:maitri`, `trm:karuna`, `trm:mudita`, `trm:upeksa`, `trm:citta-prasadana`, `trm:bhavana` · concepts: `cpt:four-attitudes` · practices: `prc:four-attitudes`
+terms: [maitrī](../terms/maitri.md), [karuṇā](../terms/karuna.md), [muditā](../terms/mudita.md), [upekṣā](../terms/upeksa.md), [citta-prasādana](../terms/citta-prasadana.md), [bhāvanā](../terms/bhavana.md) · concepts: [The four attitudes (maitrī, karuṇā, muditā, upekṣā)](../concepts/four-attitudes.md) · practices: [Cultivating the four attitudes (maitrī, karuṇā, muditā, upekṣā)](../practices/four-attitudes.md)
 
 ### 1.34 <a id="tea-yoga-sutra-1-34"></a>
 `skeleton` · confidence high
@@ -395,7 +395,7 @@ Or [the mind is steadied] by expulsion and retention of the breath.
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: all · types: practice_
 
-terms: `trm:prana` · practices: `prc:pracchardana-vidharana`
+terms: [prāṇa](../terms/prana.md) · practices: [Expulsion and retention of breath (1.34)](../practices/pracchardana-vidharana.md)
 
 ### 1.35 <a id="tea-yoga-sutra-1-35"></a>
 `skeleton` · confidence high
@@ -406,7 +406,7 @@ Or an activity involving [a subtle sense-]object, when it arises, binds the mind
 
 _level: conventional · standpoint: experiential · path: meditation · stage: intermediate · types: practice, powers-experiences_
 
-practices: `prc:visayavati-pravrtti`
+practices: [Concentration giving rise to subtle sense-perception (1.35)](../practices/visayavati-pravrtti.md)
 
 ### 1.36 <a id="tea-yoga-sutra-1-36"></a>
 `skeleton` · confidence high
@@ -417,7 +417,7 @@ Or [an activity that is] sorrowless and luminous [does so].
 
 _level: conventional · standpoint: experiential · path: meditation · stage: intermediate · types: practice, powers-experiences_
 
-terms: `trm:jyotismati` · practices: `prc:visoka-jyotismati`
+terms: [jyotiṣmatī](../terms/jyotismati.md) · practices: [The sorrowless, luminous activity (1.36)](../practices/visoka-jyotismati.md)
 
 ### 1.37 <a id="tea-yoga-sutra-1-37"></a>
 `skeleton` · confidence high
@@ -428,7 +428,7 @@ Or the mind [steadied on] one who is free of passion as its object.
 
 _level: conventional · standpoint: seeker · path: meditation, devotion · stage: all · types: practice_
 
-practices: `prc:vitaraga-visaya-citta`
+practices: [Mind on one free of passion (1.37)](../practices/vitaraga-visaya-citta.md)
 
 ### 1.38 <a id="tea-yoga-sutra-1-38"></a>
 `skeleton` · confidence high
@@ -439,7 +439,7 @@ Or [the mind] having the knowledge of dream or of sleep as its support.
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice, consciousness-mind_
 
-terms: `trm:nidra` · concepts: `cpt:deep-sleep` · practices: `prc:svapna-nidra-jnana-alambana`
+terms: [nidrā](../terms/nidra.md) · concepts: [Deep sleep](../concepts/deep-sleep.md) · practices: [Support in the knowledge of dream and sleep (1.38)](../practices/svapna-nidra-jnana-alambana.md)
 
 ### 1.39 <a id="tea-yoga-sutra-1-39"></a>
 `skeleton` · confidence high
@@ -450,7 +450,7 @@ Or by meditation on whatever is agreeable.
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-terms: `trm:dhyana` · practices: `prc:yathabhimata-dhyana`
+terms: [dhyāna (nididhyāsana)](../terms/dhyana.md) · practices: [Meditation on whatever is agreeable (1.39)](../practices/yathabhimata-dhyana.md)
 
 ### 1.40 <a id="tea-yoga-sutra-1-40"></a>
 `skeleton` · confidence high
@@ -461,7 +461,7 @@ His [the yogin's] mastery extends from the smallest atom to the greatest magnitu
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences, consciousness-mind_
 
-terms: `trm:vasikara-samjna`
+terms: [vaśīkāra-saṃjñā](../terms/vasikara-samjna.md)
 
 ### 1.41 <a id="tea-yoga-sutra-1-41"></a>
 `skeleton` · confidence high
@@ -472,7 +472,7 @@ For [the mind] whose activities have dwindled, like a flawless crystal, coalesce
 
 _level: unmarked · standpoint: experiential · path: meditation · stage: advanced · types: consciousness-mind_
 
-terms: `trm:samapatti`, `trm:grahitr`, `trm:grahana`, `trm:grahya` · concepts: `cpt:samapatti` · disputes: `dsp:objects-of-samprajnata`
+terms: [samāpatti](../terms/samapatti.md), [grahītṛ](../terms/grahitr.md), [grahaṇa](../terms/grahana.md), [grāhya](../terms/grahya.md) · concepts: [Coalescence (samāpatti)](../concepts/samapatti.md) · disputes: [What are the objects of the bliss (ānanda) and I-am-ness (asmitā) forms of samprajñāta samādhi, and who are the videhas and prakṛtilayas?](../debates/objects-of-samprajnata.md)
 
 ### 1.42 <a id="tea-yoga-sutra-1-42"></a>
 `skeleton` · confidence high
@@ -483,7 +483,7 @@ There, coalescence mixed with the conceptual constructions of word, object and k
 
 _level: unmarked · standpoint: experiential · path: meditation · stage: advanced · types: consciousness-mind_
 
-terms: `trm:savitarka`, `trm:vikalpa`, `trm:samapatti` · concepts: `cpt:samapatti`
+terms: [savitarkā](../terms/savitarka.md), [vikalpa](../terms/vikalpa.md), [samāpatti](../terms/samapatti.md) · concepts: [Coalescence (samāpatti)](../concepts/samapatti.md)
 
 ### 1.43 <a id="tea-yoga-sutra-1-43"></a>
 `skeleton` · confidence high
@@ -494,7 +494,7 @@ When memory is purified, [coalescence] in which the object alone shines forth, a
 
 _level: unmarked · standpoint: experiential · path: meditation · stage: advanced · types: consciousness-mind_
 
-terms: `trm:nirvitarka`, `trm:samapatti` · concepts: `cpt:samapatti`
+terms: [nirvitarkā](../terms/nirvitarka.md), [samāpatti](../terms/samapatti.md) · concepts: [Coalescence (samāpatti)](../concepts/samapatti.md)
 
 ### 1.44 <a id="tea-yoga-sutra-1-44"></a>
 `skeleton` · confidence high
@@ -505,7 +505,7 @@ By this the coalescences 'with reflection' (savicārā) and 'beyond reflection' 
 
 _level: unmarked · standpoint: experiential · path: meditation · stage: advanced · types: consciousness-mind_
 
-terms: `trm:savicara`, `trm:nirvicara`, `trm:samapatti` · concepts: `cpt:samapatti`
+terms: [savicārā](../terms/savicara.md), [nirvicārā](../terms/nirvicara.md), [samāpatti](../terms/samapatti.md) · concepts: [Coalescence (samāpatti)](../concepts/samapatti.md)
 
 ### 1.45 <a id="tea-yoga-sutra-1-45"></a>
 `skeleton` · confidence high
@@ -516,7 +516,7 @@ And the subtlety of objects ends in the unmarked (aliṅga).
 
 _level: unmarked · standpoint: analytic · path: meditation · stage: advanced · types: consciousness-mind_
 
-terms: `trm:alinga` · concepts: `cpt:samapatti`, `cpt:guna-parvan`
+terms: [aliṅga](../terms/alinga.md) · concepts: [Coalescence (samāpatti)](../concepts/samapatti.md), [The four levels of the guṇas (guṇa-parvan)](../concepts/guna-parvan.md)
 
 ### 1.46 <a id="tea-yoga-sutra-1-46"></a>
 `skeleton` · confidence high
@@ -527,7 +527,7 @@ These [coalescences] are samādhi with seed (sabīja).
 
 _level: unmarked · standpoint: analytic · path: meditation · stage: advanced · types: consciousness-mind_
 
-terms: `trm:sabija`, `trm:samapatti` · concepts: `cpt:sabija-nirbija`, `cpt:samapatti`
+terms: [sabīja](../terms/sabija.md), [samāpatti](../terms/samapatti.md) · concepts: [Samādhi with seed and seedless (sabīja, nirbīja)](../concepts/sabija-nirbija.md), [Coalescence (samāpatti)](../concepts/samapatti.md)
 
 ### 1.47 <a id="tea-yoga-sutra-1-47"></a>
 `skeleton` · confidence high
@@ -538,7 +538,7 @@ In the lucidity of [coalescence] beyond reflection, there is inner clarity.
 
 _level: unmarked · standpoint: experiential · path: meditation · stage: advanced · types: consciousness-mind, powers-experiences_
 
-terms: `trm:adhyatma-prasada`, `trm:nirvicara` · concepts: `cpt:rtambhara-prajna`
+terms: [adhyātma-prasāda](../terms/adhyatma-prasada.md), [nirvicārā](../terms/nirvicara.md) · concepts: [Truth-bearing insight (ṛtambharā prajñā)](../concepts/rtambhara-prajna.md)
 
 ### 1.48 <a id="tea-yoga-sutra-1-48"></a>
 `skeleton` · confidence high
@@ -549,7 +549,7 @@ There, insight is truth-bearing (ṛtambharā).
 
 _level: unmarked · standpoint: experiential · path: meditation, knowledge · stage: advanced · types: consciousness-mind_
 
-terms: `trm:rtambhara-prajna`, `trm:prajna` · concepts: `cpt:rtambhara-prajna`
+terms: [ṛtambharā prajñā](../terms/rtambhara-prajna.md), [Prājña](../terms/prajna.md) · concepts: [Truth-bearing insight (ṛtambharā prajñā)](../concepts/rtambhara-prajna.md)
 
 ### 1.49 <a id="tea-yoga-sutra-1-49"></a>
 `skeleton` · confidence high
@@ -560,7 +560,7 @@ Its object differs from [that of] insight from testimony and inference, because 
 
 _level: unmarked · standpoint: analytic · path: meditation, knowledge · stage: advanced · types: consciousness-mind_
 
-terms: `trm:rtambhara-prajna`, `trm:agama`, `trm:anumana` · concepts: `cpt:rtambhara-prajna`, `cpt:pramana`
+terms: [ṛtambharā prajñā](../terms/rtambhara-prajna.md), [āgama](../terms/agama.md), [anumāna](../terms/anumana.md) · concepts: [Truth-bearing insight (ṛtambharā prajñā)](../concepts/rtambhara-prajna.md), [Means of valid knowledge (pramāṇa)](../concepts/pramana.md)
 
 ### 1.50 <a id="tea-yoga-sutra-1-50"></a>
 `skeleton` · confidence high
@@ -571,7 +571,7 @@ The impression born of it obstructs other impressions.
 
 _level: unmarked · standpoint: causal · path: meditation · stage: advanced · types: consciousness-mind_
 
-terms: `trm:samskara` · concepts: `cpt:samskara`, `cpt:rtambhara-prajna`
+terms: [saṃskāra](../terms/samskara.md) · concepts: [Latent impressions (saṃskāra)](../concepts/samskara.md), [Truth-bearing insight (ṛtambharā prajñā)](../concepts/rtambhara-prajna.md)
 
 ### 1.51 <a id="tea-yoga-sutra-1-51"></a>
 `skeleton` · confidence high
@@ -582,7 +582,7 @@ When even that is stilled, everything being stilled, [there is] seedless (nirbī
 
 _level: unmarked · standpoint: experiential · path: meditation · stage: realized · types: consciousness-mind, karma-liberation_
 
-terms: `trm:nirbija`, `trm:nirodha` · concepts: `cpt:sabija-nirbija`, `cpt:asamprajnata-samadhi`
+terms: [nirbīja](../terms/nirbija.md), [nirodha](../terms/nirodha.md) · concepts: [Samādhi with seed and seedless (sabīja, nirbīja)](../concepts/sabija-nirbija.md), [Samādhi beyond object-awareness (asamprajñāta)](../concepts/asamprajnata-samadhi.md)
 
 ### 2.1 <a id="tea-yoga-sutra-2-1"></a>
 `skeleton` · confidence high
@@ -593,7 +593,7 @@ Austerity, self-study and devotion to Īśvara are the yoga of action (kriyā-yo
 
 _level: conventional · standpoint: seeker · path: action, devotion, meditation · stage: beginner (vyutthita-citta (the unconcentrated mind, YBh intro to pāda 2)) · types: practice, ethics_
 
-terms: `trm:kriya-yoga`, `trm:tapas`, `trm:svadhyaya`, `trm:isvara-pranidhana` · concepts: `cpt:kriya-yoga` · practices: `prc:kriya-yoga`, `prc:tapas`, `prc:svadhyaya`, `prc:isvara-pranidhana`
+terms: [kriyāyoga](../terms/kriya-yoga.md), [tapas](../terms/tapas.md), [svādhyāya](../terms/svadhyaya.md), [īśvara-praṇidhāna](../terms/isvara-pranidhana.md) · concepts: [Kriyā-yoga, the yoga of action](../concepts/kriya-yoga.md) · practices: [Kriyā-yoga (austerity, self-study, devotion to Īśvara)](../practices/kriya-yoga.md), [Austerity (tapas)](../practices/tapas.md), [Self-study (svādhyāya)](../practices/svadhyaya.md), [Devotion to Īśvara (īśvara-praṇidhāna)](../practices/isvara-pranidhana.md)
 
 ### 2.2 <a id="tea-yoga-sutra-2-2"></a>
 `skeleton` · confidence high
@@ -604,7 +604,7 @@ It is for cultivating samādhi and for attenuating the afflictions.
 
 _level: conventional · standpoint: seeker · path: action, meditation · stage: beginner (vyutthita-citta (the unconcentrated mind, YBh intro to pāda 2)) · types: practice_
 
-terms: `trm:kriya-yoga`, `trm:klesa`, `trm:tanu` · concepts: `cpt:kriya-yoga`, `cpt:five-klesas` · practices: `prc:kriya-yoga` · obstacles: `obs:five-klesas`
+terms: [kriyāyoga](../terms/kriya-yoga.md), [kleśa](../terms/klesa.md), [tanu](../terms/tanu.md) · concepts: [Kriyā-yoga, the yoga of action](../concepts/kriya-yoga.md), [The five afflictions (kleśa)](../concepts/five-klesas.md) · practices: [Kriyā-yoga (austerity, self-study, devotion to Īśvara)](../practices/kriya-yoga.md) · obstacles: [The five afflictions (kleśa)](../obstacles/five-klesas.md)
 
 ### 2.3 <a id="tea-yoga-sutra-2-3"></a>
 `skeleton` · confidence high
@@ -615,7 +615,7 @@ Ignorance, I-am-ness, attachment, aversion and clinging to life are the afflicti
 
 _level: unmarked · standpoint: analytic · path: meditation · stage: all · types: consciousness-mind, karma-liberation_
 
-terms: `trm:klesa`, `trm:avidya`, `trm:asmita`, `trm:raga`, `trm:dvesa`, `trm:abhinivesa` · concepts: `cpt:five-klesas` · obstacles: `obs:five-klesas`, `obs:avidya`, `obs:asmita`, `obs:raga`, `obs:dvesa`, `obs:abhinivesa`
+terms: [kleśa](../terms/klesa.md), [avidyā](../terms/avidya.md), [asmitā](../terms/asmita.md), [rāga (avairāgya)](../terms/raga.md), [dveṣa](../terms/dvesa.md), [abhiniveśa](../terms/abhinivesa.md) · concepts: [The five afflictions (kleśa)](../concepts/five-klesas.md) · obstacles: [The five afflictions (kleśa)](../obstacles/five-klesas.md), [Ignorance (avidyā)](../obstacles/avidya.md), [I-am-ness (asmitā)](../obstacles/asmita.md), [Passion (rāga)](../obstacles/raga.md), [Aversion (dveṣa)](../obstacles/dvesa.md), [Clinging to life (abhiniveśa)](../obstacles/abhinivesa.md)
 
 ### 2.4 <a id="tea-yoga-sutra-2-4"></a>
 `skeleton` · confidence high
@@ -626,7 +626,7 @@ Ignorance is the field of the others, whether they are dormant, attenuated, inte
 
 _level: unmarked · standpoint: causal · path: meditation · stage: all · types: consciousness-mind, karma-liberation_
 
-terms: `trm:avidya`, `trm:prasupta`, `trm:tanu`, `trm:vicchinna`, `trm:udara` · concepts: `cpt:five-klesas`, `cpt:four-states-of-klesas` · obstacles: `obs:avidya`, `obs:five-klesas`
+terms: [avidyā](../terms/avidya.md), [prasupta](../terms/prasupta.md), [tanu](../terms/tanu.md), [vicchinna](../terms/vicchinna.md), [udāra](../terms/udara.md) · concepts: [The five afflictions (kleśa)](../concepts/five-klesas.md), [The states of the afflictions](../concepts/four-states-of-klesas.md) · obstacles: [Ignorance (avidyā)](../obstacles/avidya.md), [The five afflictions (kleśa)](../obstacles/five-klesas.md)
 
 ### 2.5 <a id="tea-yoga-sutra-2-5"></a>
 `skeleton` · confidence high
@@ -637,7 +637,7 @@ Ignorance is taking the impermanent, the impure, the painful and the non-self to
 
 _level: unmarked · standpoint: analytic · path: knowledge, meditation · stage: all · types: consciousness-mind, karma-liberation_
 
-terms: `trm:avidya` · concepts: `cpt:five-klesas` · obstacles: `obs:avidya`
+terms: [avidyā](../terms/avidya.md) · concepts: [The five afflictions (kleśa)](../concepts/five-klesas.md) · obstacles: [Ignorance (avidyā)](../obstacles/avidya.md)
 
 ### 2.6 <a id="tea-yoga-sutra-2-6"></a>
 `skeleton` · confidence high
@@ -648,7 +648,7 @@ I-am-ness (asmitā) is the seeming identity of the power of the seer and the pow
 
 _level: unmarked · standpoint: analytic · path: knowledge, meditation · stage: all · types: consciousness-mind_
 
-terms: `trm:asmita`, `trm:drastr` · concepts: `cpt:five-klesas`, `cpt:asmita`, `cpt:seer-and-seen` · obstacles: `obs:asmita`
+terms: [asmitā](../terms/asmita.md), [draṣṭṛ](../terms/drastr.md) · concepts: [The five afflictions (kleśa)](../concepts/five-klesas.md), [I-am-ness (asmitā) and the sense of 'I'](../concepts/asmita.md), [The seer and the seen (draṣṭṛ and dṛśya)](../concepts/seer-and-seen.md) · obstacles: [I-am-ness (asmitā)](../obstacles/asmita.md)
 
 ### 2.7 <a id="tea-yoga-sutra-2-7"></a>
 `skeleton` · confidence high
@@ -659,7 +659,7 @@ Attachment follows on pleasure.
 
 _level: unmarked · standpoint: analytic · path: meditation · stage: all · types: consciousness-mind_
 
-terms: `trm:raga` · concepts: `cpt:five-klesas` · obstacles: `obs:raga`
+terms: [rāga (avairāgya)](../terms/raga.md) · concepts: [The five afflictions (kleśa)](../concepts/five-klesas.md) · obstacles: [Passion (rāga)](../obstacles/raga.md)
 
 ### 2.8 <a id="tea-yoga-sutra-2-8"></a>
 `skeleton` · confidence high
@@ -670,7 +670,7 @@ Aversion follows on pain.
 
 _level: unmarked · standpoint: analytic · path: meditation · stage: all · types: consciousness-mind_
 
-terms: `trm:dvesa` · concepts: `cpt:five-klesas` · obstacles: `obs:dvesa`
+terms: [dveṣa](../terms/dvesa.md) · concepts: [The five afflictions (kleśa)](../concepts/five-klesas.md) · obstacles: [Aversion (dveṣa)](../obstacles/dvesa.md)
 
 ### 2.9 <a id="tea-yoga-sutra-2-9"></a>
 `skeleton` · confidence high
@@ -681,7 +681,7 @@ Clinging to life (abhiniveśa), flowing by its own momentum, is rooted thus even
 
 _level: unmarked · standpoint: analytic · path: meditation · stage: all · types: consciousness-mind, death-dying_
 
-terms: `trm:abhinivesa` · concepts: `cpt:five-klesas`, `cpt:death-in-yoga` · obstacles: `obs:abhinivesa`
+terms: [abhiniveśa](../terms/abhinivesa.md) · concepts: [The five afflictions (kleśa)](../concepts/five-klesas.md), [Death in Yoga: clinging, omens, departure](../concepts/death-in-yoga.md) · obstacles: [Clinging to life (abhiniveśa)](../obstacles/abhinivesa.md)
 
 ### 2.10 <a id="tea-yoga-sutra-2-10"></a>
 `skeleton` · confidence high
@@ -692,7 +692,7 @@ These, when subtle, are to be abandoned by involution (pratiprasava, return into
 
 _level: unmarked · standpoint: causal · path: meditation · stage: advanced · types: karma-liberation_
 
-terms: `trm:pratiprasava`, `trm:klesa` · concepts: `cpt:five-klesas`, `cpt:kaivalya` · obstacles: `obs:five-klesas`
+terms: [pratiprasava](../terms/pratiprasava.md), [kleśa](../terms/klesa.md) · concepts: [The five afflictions (kleśa)](../concepts/five-klesas.md), [Isolation (kaivalya)](../concepts/kaivalya.md) · obstacles: [The five afflictions (kleśa)](../obstacles/five-klesas.md)
 
 ### 2.11 <a id="tea-yoga-sutra-2-11"></a>
 `skeleton` · confidence high
@@ -703,7 +703,7 @@ Their activities are to be abandoned by meditation (dhyāna).
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice_
 
-terms: `trm:dhyana`, `trm:klesa` · concepts: `cpt:five-klesas` · practices: `prc:dhyana` · obstacles: `obs:five-klesas`
+terms: [dhyāna (nididhyāsana)](../terms/dhyana.md), [kleśa](../terms/klesa.md) · concepts: [The five afflictions (kleśa)](../concepts/five-klesas.md) · practices: [Meditation (dhyāna)](../practices/dhyana.md) · obstacles: [The five afflictions (kleśa)](../obstacles/five-klesas.md)
 
 ### 2.12 <a id="tea-yoga-sutra-2-12"></a>
 `skeleton` · confidence high
@@ -714,7 +714,7 @@ The store of karma (karmāśaya), rooted in the afflictions, is to be experience
 
 _level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation_
 
-terms: `trm:karmasaya`, `trm:klesa`, `trm:drsta-janma-vedaniya`, `trm:adrsta-janma-vedaniya` · concepts: `cpt:karmasaya`
+terms: [karmāśaya](../terms/karmasaya.md), [kleśa](../terms/klesa.md), [dṛṣṭa-janma-vedanīya](../terms/drsta-janma-vedaniya.md), [adṛṣṭa-janma-vedanīya](../terms/adrsta-janma-vedaniya.md) · concepts: [The store of karma (karmāśaya)](../concepts/karmasaya.md)
 
 ### 2.13 <a id="tea-yoga-sutra-2-13"></a>
 `skeleton` · confidence high
@@ -725,7 +725,7 @@ While the root exists, its fruition is [the kind of] birth, the length of life a
 
 _level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation_
 
-terms: `trm:vipaka`, `trm:karmasaya` · concepts: `cpt:karmasaya`, `cpt:vipaka-jati-ayus-bhoga`
+terms: [vipāka](../terms/vipaka.md), [karmāśaya](../terms/karmasaya.md) · concepts: [The store of karma (karmāśaya)](../concepts/karmasaya.md), [The fruition of karma: birth, life-span, experience](../concepts/vipaka-jati-ayus-bhoga.md)
 
 ### 2.14 <a id="tea-yoga-sutra-2-14"></a>
 `skeleton` · confidence high
@@ -736,7 +736,7 @@ They bear the fruit of joy or anguish, according as their cause is merit or deme
 
 _level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation_
 
-terms: `trm:vipaka` · concepts: `cpt:vipaka-jati-ayus-bhoga`
+terms: [vipāka](../terms/vipaka.md) · concepts: [The fruition of karma: birth, life-span, experience](../concepts/vipaka-jati-ayus-bhoga.md)
 
 ### 2.15 <a id="tea-yoga-sutra-2-15"></a>
 `skeleton` · confidence high
@@ -747,7 +747,7 @@ For the discerning, everything is suffering, because of the sufferings of change
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: `trm:duhkha`, `trm:guna` · concepts: `cpt:duhkha-for-the-discerning`, `cpt:three-gunas`
+terms: [duḥkha](../terms/duhkha.md), [guṇa](../terms/guna.md) · concepts: [Everything is suffering for the discerning](../concepts/duhkha-for-the-discerning.md), [The three guṇas](../concepts/three-gunas.md)
 
 ### 2.16 <a id="tea-yoga-sutra-2-16"></a>
 `skeleton` · confidence high
@@ -758,7 +758,7 @@ Suffering that has not yet come is to be avoided.
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: karma-liberation_
 
-terms: `trm:heya`, `trm:duhkha` · concepts: `cpt:caturvyuha`
+terms: [heya](../terms/heya.md), [duḥkha](../terms/duhkha.md) · concepts: [The fourfold scheme of the śāstra (heya, heya-hetu, hāna, hānopāya)](../concepts/caturvyuha.md)
 
 ### 2.17 <a id="tea-yoga-sutra-2-17"></a>
 `skeleton` · confidence high
@@ -769,7 +769,7 @@ The conjunction of the seer and the seen is the cause of what is to be avoided.
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
 
-terms: `trm:samyoga`, `trm:drastr`, `trm:drsya`, `trm:heya-hetu` · concepts: `cpt:samyoga`, `cpt:seer-and-seen`, `cpt:caturvyuha`
+terms: [saṃyoga](../terms/samyoga.md), [draṣṭṛ](../terms/drastr.md), [dṛśya](../terms/drsya.md), [heya-hetu](../terms/heya-hetu.md) · concepts: [The conjunction of seer and seen (saṃyoga)](../concepts/samyoga.md), [The seer and the seen (draṣṭṛ and dṛśya)](../concepts/seer-and-seen.md), [The fourfold scheme of the śāstra (heya, heya-hetu, hāna, hānopāya)](../concepts/caturvyuha.md)
 
 ### 2.18 <a id="tea-yoga-sutra-2-18"></a>
 `skeleton` · confidence high
@@ -780,7 +780,7 @@ The seen has the character of illumination, activity and inertia, consists of th
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind, world-fate_
 
-terms: `trm:drsya`, `trm:guna`, `trm:bhoga`, `trm:apavarga`, `trm:indriya` · concepts: `cpt:prakrti`, `cpt:three-gunas`, `cpt:purpose-of-prakrti`
+terms: [dṛśya](../terms/drsya.md), [guṇa](../terms/guna.md), [bhoga](../terms/bhoga.md), [apavarga](../terms/apavarga.md), [indriya](../terms/indriya.md) · concepts: [Prakṛti (primordial nature)](../concepts/prakrti.md), [The three guṇas](../concepts/three-gunas.md), [The seen exists for the seer (bhoga and apavarga)](../concepts/purpose-of-prakrti.md)
 
 ### 2.19 <a id="tea-yoga-sutra-2-19"></a>
 `skeleton` · confidence high
@@ -791,7 +791,7 @@ The levels of the guṇas are the particularized, the unparticularized, the mere
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: world-fate_
 
-terms: `trm:visesa`, `trm:avisesa`, `trm:linga-matra`, `trm:alinga`, `trm:guna` · concepts: `cpt:guna-parvan`, `cpt:three-gunas`, `cpt:prakrti`
+terms: [viśeṣa](../terms/visesa.md), [aviśeṣa](../terms/avisesa.md), [liṅga-mātra](../terms/linga-matra.md), [aliṅga](../terms/alinga.md), [guṇa](../terms/guna.md) · concepts: [The four levels of the guṇas (guṇa-parvan)](../concepts/guna-parvan.md), [The three guṇas](../concepts/three-gunas.md), [Prakṛti (primordial nature)](../concepts/prakrti.md)
 
 ### 2.20 <a id="tea-yoga-sutra-2-20"></a>
 `skeleton` · confidence high
@@ -802,7 +802,7 @@ The seer is seeing alone; though pure, it sees by conforming to the cognitions [
 
 _level: ultimate · standpoint: substance · path: knowledge · stage: all · types: ultimate, consciousness-mind_
 
-terms: `trm:drastr`, `trm:purusa`, `trm:pratyaya` · concepts: `cpt:purusa`, `cpt:seer-and-seen`, `cpt:witness`
+terms: [draṣṭṛ](../terms/drastr.md), [puruṣa](../terms/purusa.md), [pratyaya](../terms/pratyaya.md) · concepts: [Puruṣa (the conscious self)](../concepts/purusa.md), [The seer and the seen (draṣṭṛ and dṛśya)](../concepts/seer-and-seen.md), [The witness (the seer as pratisaṃvedin)](../concepts/witness.md)
 
 ### 2.21 <a id="tea-yoga-sutra-2-21"></a>
 `skeleton` · confidence high
@@ -813,7 +813,7 @@ The very being of the seen is for its sake.
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: world-fate, ultimate_
 
-terms: `trm:drsya` · concepts: `cpt:purpose-of-prakrti`
+terms: [dṛśya](../terms/drsya.md) · concepts: [The seen exists for the seer (bhoga and apavarga)](../concepts/purpose-of-prakrti.md)
 
 ### 2.22 <a id="tea-yoga-sutra-2-22"></a>
 `skeleton` · confidence high
@@ -824,7 +824,7 @@ Though it has ceased for one whose purpose is accomplished, it has not ceased, b
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: world-fate, karma-liberation_
 
-terms: `trm:drsya`, `trm:purusa` · concepts: `cpt:plurality-of-purusas`, `cpt:purpose-of-prakrti` · disputes: `dsp:souls-one-or-distinct`
+terms: [dṛśya](../terms/drsya.md), [puruṣa](../terms/purusa.md) · concepts: [Plurality of puruṣas](../concepts/plurality-of-purusas.md), [The seen exists for the seer (bhoga and apavarga)](../concepts/purpose-of-prakrti.md) · disputes: `dsp:souls-one-or-distinct`
 
 ### 2.23 <a id="tea-yoga-sutra-2-23"></a>
 `skeleton` · confidence high
@@ -835,7 +835,7 @@ The conjunction is the cause of apprehending the own-forms of the power of the o
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation_
 
-terms: `trm:samyoga` · concepts: `cpt:samyoga`
+terms: [saṃyoga](../terms/samyoga.md) · concepts: [The conjunction of seer and seen (saṃyoga)](../concepts/samyoga.md)
 
 ### 2.24 <a id="tea-yoga-sutra-2-24"></a>
 `skeleton` · confidence high
@@ -846,7 +846,7 @@ Its cause is ignorance.
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
 
-terms: `trm:avidya`, `trm:samyoga` · concepts: `cpt:samyoga`, `cpt:five-klesas` · obstacles: `obs:avidya`
+terms: [avidyā](../terms/avidya.md), [saṃyoga](../terms/samyoga.md) · concepts: [The conjunction of seer and seen (saṃyoga)](../concepts/samyoga.md), [The five afflictions (kleśa)](../concepts/five-klesas.md) · obstacles: [Ignorance (avidyā)](../obstacles/avidya.md)
 
 ### 2.25 <a id="tea-yoga-sutra-2-25"></a>
 `skeleton` · confidence high
@@ -857,7 +857,7 @@ From the absence of that, the conjunction is absent; this is the avoidance (hān
 
 _level: ultimate · standpoint: substance · path: knowledge · stage: realized · types: karma-liberation, ultimate_
 
-terms: `trm:hana`, `trm:kaivalya`, `trm:samyoga` · concepts: `cpt:kaivalya`, `cpt:caturvyuha`
+terms: [hāna](../terms/hana.md), [kaivalya](../terms/kaivalya.md), [saṃyoga](../terms/samyoga.md) · concepts: [Isolation (kaivalya)](../concepts/kaivalya.md), [The fourfold scheme of the śāstra (heya, heya-hetu, hāna, hānopāya)](../concepts/caturvyuha.md)
 
 ### 2.26 <a id="tea-yoga-sutra-2-26"></a>
 `skeleton` · confidence high
@@ -868,7 +868,7 @@ Unwavering discriminative discernment (viveka-khyāti) is the means of avoidance
 
 _level: conventional · standpoint: seeker · path: knowledge, meditation · stage: advanced · types: karma-liberation, practice_
 
-terms: `trm:viveka-khyati`, `trm:hanopaya` · concepts: `cpt:viveka-khyati`, `cpt:caturvyuha` · practices: `prc:viveka-khyati`
+terms: [viveka-khyāti](../terms/viveka-khyati.md), [hānopāya](../terms/hanopaya.md) · concepts: [Discriminating knowledge (viveka, vivekakhyāti)](../concepts/viveka-khyati.md), [The fourfold scheme of the śāstra (heya, heya-hetu, hāna, hānopāya)](../concepts/caturvyuha.md) · practices: [Cultivating discriminative discernment (viveka-khyāti)](../practices/viveka-khyati.md)
 
 ### 2.27 <a id="tea-yoga-sutra-2-27"></a>
 `skeleton` · confidence high
@@ -879,7 +879,7 @@ For him, insight at the final stage is sevenfold.
 
 _level: unmarked · standpoint: experiential · path: knowledge, meditation · stage: realized · types: karma-liberation, consciousness-mind_
 
-terms: `trm:prantabhumi-prajna` · concepts: `cpt:sevenfold-prajna`
+terms: [prānta-bhūmi prajñā](../terms/prantabhumi-prajna.md) · concepts: [The sevenfold final insight (saptadhā prāntabhūmi prajñā)](../concepts/sevenfold-prajna.md)
 
 ### 2.28 <a id="tea-yoga-sutra-2-28"></a>
 `skeleton` · confidence high
@@ -890,7 +890,7 @@ Through practising the limbs of yoga, as impurity is destroyed, the light of kno
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-terms: `trm:astanga-yoga`, `trm:viveka-khyati` · concepts: `cpt:astanga-yoga` · obstacles: `obs:asuddhi`
+terms: [aṣṭāṅga-yoga](../terms/astanga-yoga.md), [viveka-khyāti](../terms/viveka-khyati.md) · concepts: [The eight limbs of yoga (aṣṭāṅga)](../concepts/astanga-yoga.md) · obstacles: [Impurity (aśuddhi)](../obstacles/asuddhi.md)
 
 ### 2.29 <a id="tea-yoga-sutra-2-29"></a>
 `skeleton` · confidence high
@@ -901,7 +901,7 @@ Restraints, observances, posture, breath-regulation, sense-withdrawal, concentra
 
 _level: conventional · standpoint: seeker · path: meditation, body-breath · stage: all · types: practice_
 
-terms: `trm:astanga-yoga`, `trm:yama`, `trm:niyama`, `trm:asana`, `trm:pranayama`, `trm:pratyahara`, `trm:dharana`, `trm:dhyana`, `trm:samadhi` · concepts: `cpt:astanga-yoga` · practices: `prc:yama`, `prc:niyama`, `prc:asana`, `prc:pranayama`, `prc:pratyahara`, `prc:dharana`, `prc:dhyana`, `prc:samadhi`
+terms: [aṣṭāṅga-yoga](../terms/astanga-yoga.md), [yama](../terms/yama.md), [niyama](../terms/niyama.md), [āsana](../terms/asana.md), [prāṇāyāma](../terms/pranayama.md), [pratyāhāra](../terms/pratyahara.md), [dhāraṇā](../terms/dharana.md), [dhyāna (nididhyāsana)](../terms/dhyana.md), [samādhi](../terms/samadhi.md) · concepts: [The eight limbs of yoga (aṣṭāṅga)](../concepts/astanga-yoga.md) · practices: [The restraints (yama)](../practices/yama.md), [The observances (niyama)](../practices/niyama.md), [Posture (āsana)](../practices/asana.md), [Breath-regulation (prāṇāyāma)](../practices/pranayama.md), [Sense-withdrawal (pratyāhāra)](../practices/pratyahara.md), [Concentration (dhāraṇā)](../practices/dharana.md), [Meditation (dhyāna)](../practices/dhyana.md), [Samādhi as the eighth limb](../practices/samadhi.md)
 
 ### 2.30 <a id="tea-yoga-sutra-2-30"></a>
 `skeleton` · confidence high
@@ -912,7 +912,7 @@ Non-harming, truthfulness, non-stealing, celibacy and non-possessiveness are the
 
 _level: conventional · standpoint: ethical-social · path: meditation, general · stage: beginner · types: ethics_
 
-terms: `trm:yama`, `trm:ahimsa`, `trm:satya`, `trm:asteya`, `trm:brahmacarya`, `trm:aparigraha` · concepts: `cpt:yamas` · practices: `prc:yama`, `prc:ahimsa`, `prc:satya`, `prc:asteya`, `prc:brahmacarya`, `prc:aparigraha`
+terms: [yama](../terms/yama.md), [ahiṃsā](../terms/ahimsa.md), [satya](../terms/satya.md), [asteya](../terms/asteya.md), [brahmacarya](../terms/brahmacarya.md), [aparigraha](../terms/aparigraha.md) · concepts: [The five restraints (yama)](../concepts/yamas.md) · practices: [The restraints (yama)](../practices/yama.md), [Non-harming (ahiṃsā)](../practices/ahimsa.md), [Truthfulness (satya)](../practices/satya.md), [Non-stealing (asteya)](../practices/asteya.md), [Vedic studentship (brahmacarya)](../practices/brahmacarya.md), [Non-possessiveness (aparigraha)](../practices/aparigraha.md)
 
 ### 2.31 <a id="tea-yoga-sutra-2-31"></a>
 `skeleton` · confidence high
@@ -923,7 +923,7 @@ Not limited by birth, place, time or occasion, and extending to all levels, they
 
 _level: conventional · standpoint: ethical-social · path: meditation, general · stage: all · types: ethics_
 
-terms: `trm:mahavrata`, `trm:yama` · concepts: `cpt:yamas` · practices: `prc:yama`
+terms: [mahāvrata](../terms/mahavrata.md), [yama](../terms/yama.md) · concepts: [The five restraints (yama)](../concepts/yamas.md) · practices: [The restraints (yama)](../practices/yama.md)
 
 ### 2.32 <a id="tea-yoga-sutra-2-32"></a>
 `skeleton` · confidence high
@@ -934,7 +934,7 @@ Purity, contentment, austerity, self-study and devotion to Īśvara are the obse
 
 _level: conventional · standpoint: ethical-social · path: meditation, devotion · stage: beginner · types: ethics, practice_
 
-terms: `trm:niyama`, `trm:sauca`, `trm:santosa`, `trm:tapas`, `trm:svadhyaya`, `trm:isvara-pranidhana` · concepts: `cpt:niyamas` · practices: `prc:niyama`, `prc:sauca`, `prc:santosa`, `prc:tapas`, `prc:svadhyaya`, `prc:isvara-pranidhana`
+terms: [niyama](../terms/niyama.md), [śauca](../terms/sauca.md), [saṃtoṣa](../terms/santosa.md), [tapas](../terms/tapas.md), [svādhyāya](../terms/svadhyaya.md), [īśvara-praṇidhāna](../terms/isvara-pranidhana.md) · concepts: [The five observances (niyama)](../concepts/niyamas.md) · practices: [The observances (niyama)](../practices/niyama.md), [Purity (śauca)](../practices/sauca.md), [Contentment (saṃtoṣa)](../practices/santosa.md), [Austerity (tapas)](../practices/tapas.md), [Self-study (svādhyāya)](../practices/svadhyaya.md), [Devotion to Īśvara (īśvara-praṇidhāna)](../practices/isvara-pranidhana.md)
 
 ### 2.33 <a id="tea-yoga-sutra-2-33"></a>
 `skeleton` · confidence high
@@ -945,7 +945,7 @@ When [one is] oppressed by harmful thoughts (vitarka), [one should] cultivate th
 
 _level: conventional · standpoint: seeker · path: meditation, general · stage: beginner · types: ethics, practice_
 
-terms: `trm:pratipaksa-bhavana`, `trm:vitarka` · concepts: `cpt:pratipaksa-bhavana` · practices: `prc:pratipaksa-bhavana` · obstacles: `obs:vitarka-himsadi`
+terms: [pratipakṣa-bhāvanā](../terms/pratipaksa-bhavana.md), [vitarka](../terms/vitarka.md) · concepts: [Cultivating the opposite (pratipakṣa-bhāvanā)](../concepts/pratipaksa-bhavana.md) · practices: [Cultivating the opposite (pratipakṣa-bhāvanā)](../practices/pratipaksa-bhavana.md) · obstacles: [Harmful thoughts (vitarka): violence and the rest](../obstacles/vitarka-himsadi.md)
 
 ### 2.34 <a id="tea-yoga-sutra-2-34"></a>
 `skeleton` · confidence high
@@ -956,7 +956,7 @@ Harmful thoughts such as violence — whether done, caused to be done or approve
 
 _level: conventional · standpoint: seeker · path: meditation, general · stage: beginner · types: ethics, karma-liberation_
 
-terms: `trm:pratipaksa-bhavana`, `trm:vitarka`, `trm:ahimsa` · concepts: `cpt:pratipaksa-bhavana` · practices: `prc:pratipaksa-bhavana` · obstacles: `obs:vitarka-himsadi`, `obs:lobha-krodha-moha`
+terms: [pratipakṣa-bhāvanā](../terms/pratipaksa-bhavana.md), [vitarka](../terms/vitarka.md), [ahiṃsā](../terms/ahimsa.md) · concepts: [Cultivating the opposite (pratipakṣa-bhāvanā)](../concepts/pratipaksa-bhavana.md) · practices: [Cultivating the opposite (pratipakṣa-bhāvanā)](../practices/pratipaksa-bhavana.md) · obstacles: [Harmful thoughts (vitarka): violence and the rest](../obstacles/vitarka-himsadi.md), [Greed, anger and delusion as roots of harmful thoughts](../obstacles/lobha-krodha-moha.md)
 
 ### 2.35 <a id="tea-yoga-sutra-2-35"></a>
 `skeleton` · confidence high
@@ -967,7 +967,7 @@ When [one is] established in non-harming, hostility is abandoned in his presence
 
 _level: conventional · standpoint: experiential · path: meditation, general · stage: intermediate · types: ethics, powers-experiences_
 
-terms: `trm:ahimsa` · concepts: `cpt:signs-of-yama-niyama` · practices: `prc:ahimsa`
+terms: [ahiṃsā](../terms/ahimsa.md) · concepts: [Signs of establishment in the restraints and observances](../concepts/signs-of-yama-niyama.md) · practices: [Non-harming (ahiṃsā)](../practices/ahimsa.md)
 
 ### 2.36 <a id="tea-yoga-sutra-2-36"></a>
 `skeleton` · confidence high
@@ -978,7 +978,7 @@ When [one is] established in truthfulness, actions and their fruits rest on [his
 
 _level: conventional · standpoint: experiential · path: meditation, general · stage: intermediate · types: ethics, powers-experiences_
 
-terms: `trm:satya` · concepts: `cpt:signs-of-yama-niyama` · practices: `prc:satya`
+terms: [satya](../terms/satya.md) · concepts: [Signs of establishment in the restraints and observances](../concepts/signs-of-yama-niyama.md) · practices: [Truthfulness (satya)](../practices/satya.md)
 
 ### 2.37 <a id="tea-yoga-sutra-2-37"></a>
 `skeleton` · confidence high
@@ -989,7 +989,7 @@ When [one is] established in non-stealing, all jewels present themselves.
 
 _level: conventional · standpoint: experiential · path: meditation, general · stage: intermediate · types: ethics, powers-experiences_
 
-terms: `trm:asteya` · concepts: `cpt:signs-of-yama-niyama` · practices: `prc:asteya`
+terms: [asteya](../terms/asteya.md) · concepts: [Signs of establishment in the restraints and observances](../concepts/signs-of-yama-niyama.md) · practices: [Non-stealing (asteya)](../practices/asteya.md)
 
 ### 2.38 <a id="tea-yoga-sutra-2-38"></a>
 `skeleton` · confidence high
@@ -1000,7 +1000,7 @@ When [one is] established in celibacy, vigour (vīrya) is gained.
 
 _level: conventional · standpoint: experiential · path: meditation, general · stage: intermediate · types: ethics, powers-experiences_
 
-terms: `trm:brahmacarya`, `trm:virya` · concepts: `cpt:signs-of-yama-niyama` · practices: `prc:brahmacarya`
+terms: [brahmacarya](../terms/brahmacarya.md), [vīrya](../terms/virya.md) · concepts: [Signs of establishment in the restraints and observances](../concepts/signs-of-yama-niyama.md) · practices: [Vedic studentship (brahmacarya)](../practices/brahmacarya.md)
 
 ### 2.39 <a id="tea-yoga-sutra-2-39"></a>
 `skeleton` · confidence high
@@ -1011,7 +1011,7 @@ When non-possessiveness is steady, there is understanding of the 'how' of births
 
 _level: conventional · standpoint: experiential · path: meditation, general · stage: intermediate · types: ethics, powers-experiences, karma-liberation_
 
-terms: `trm:aparigraha` · concepts: `cpt:signs-of-yama-niyama` · practices: `prc:aparigraha`
+terms: [aparigraha](../terms/aparigraha.md) · concepts: [Signs of establishment in the restraints and observances](../concepts/signs-of-yama-niyama.md) · practices: [Non-possessiveness (aparigraha)](../practices/aparigraha.md)
 
 ### 2.40 <a id="tea-yoga-sutra-2-40"></a>
 `skeleton` · confidence high
@@ -1022,7 +1022,7 @@ From purity [comes] disgust for one's own body and non-contact with others.
 
 _level: conventional · standpoint: experiential · path: meditation · stage: intermediate · types: ethics, powers-experiences, body-layers_
 
-terms: `trm:sauca` · concepts: `cpt:signs-of-yama-niyama` · practices: `prc:sauca`
+terms: [śauca](../terms/sauca.md) · concepts: [Signs of establishment in the restraints and observances](../concepts/signs-of-yama-niyama.md) · practices: [Purity (śauca)](../practices/sauca.md)
 
 ### 2.41 <a id="tea-yoga-sutra-2-41"></a>
 `skeleton` · confidence high
@@ -1033,7 +1033,7 @@ And [from purity come] purity of sattva, cheerfulness, one-pointedness, mastery 
 
 _level: conventional · standpoint: experiential · path: meditation · stage: intermediate · types: ethics, powers-experiences_
 
-terms: `trm:sauca`, `trm:sattva`, `trm:ekagrata`, `trm:indriya-jaya` · concepts: `cpt:signs-of-yama-niyama` · practices: `prc:sauca`
+terms: [śauca](../terms/sauca.md), [sattva](../terms/sattva.md), [ekāgratā](../terms/ekagrata.md), [indriya-jaya](../terms/indriya-jaya.md) · concepts: [Signs of establishment in the restraints and observances](../concepts/signs-of-yama-niyama.md) · practices: [Purity (śauca)](../practices/sauca.md)
 
 ### 2.42 <a id="tea-yoga-sutra-2-42"></a>
 `skeleton` · confidence high
@@ -1044,7 +1044,7 @@ From contentment, unsurpassed happiness is gained.
 
 _level: conventional · standpoint: experiential · path: meditation · stage: intermediate · types: ethics, powers-experiences_
 
-terms: `trm:santosa` · concepts: `cpt:signs-of-yama-niyama` · practices: `prc:santosa`
+terms: [saṃtoṣa](../terms/santosa.md) · concepts: [Signs of establishment in the restraints and observances](../concepts/signs-of-yama-niyama.md) · practices: [Contentment (saṃtoṣa)](../practices/santosa.md)
 
 ### 2.43 <a id="tea-yoga-sutra-2-43"></a>
 `skeleton` · confidence high
@@ -1055,7 +1055,7 @@ From austerity, through the destruction of impurity, [comes] perfection of body 
 
 _level: conventional · standpoint: experiential · path: meditation, action · stage: intermediate · types: ethics, powers-experiences_
 
-terms: `trm:tapas` · concepts: `cpt:signs-of-yama-niyama` · practices: `prc:tapas` · obstacles: `obs:asuddhi`
+terms: [tapas](../terms/tapas.md) · concepts: [Signs of establishment in the restraints and observances](../concepts/signs-of-yama-niyama.md) · practices: [Austerity (tapas)](../practices/tapas.md) · obstacles: [Impurity (aśuddhi)](../obstacles/asuddhi.md)
 
 ### 2.44 <a id="tea-yoga-sutra-2-44"></a>
 `skeleton` · confidence high
@@ -1066,7 +1066,7 @@ From self-study [comes] union with the chosen deity (iṣṭa-devatā).
 
 _level: conventional · standpoint: devotional · path: sound, devotion · stage: intermediate · types: ethics, powers-experiences_
 
-terms: `trm:svadhyaya`, `trm:ista-devata` · concepts: `cpt:signs-of-yama-niyama` · practices: `prc:svadhyaya`
+terms: [svādhyāya](../terms/svadhyaya.md), [iṣṭa-devatā](../terms/ista-devata.md) · concepts: [Signs of establishment in the restraints and observances](../concepts/signs-of-yama-niyama.md) · practices: [Self-study (svādhyāya)](../practices/svadhyaya.md)
 
 ### 2.45 <a id="tea-yoga-sutra-2-45"></a>
 `skeleton` · confidence high
@@ -1077,7 +1077,7 @@ From devotion to Īśvara [comes] the perfection of samādhi.
 
 _level: conventional · standpoint: devotional · path: devotion, meditation · stage: intermediate · types: practice, powers-experiences_
 
-terms: `trm:isvara-pranidhana`, `trm:samadhi` · concepts: `cpt:signs-of-yama-niyama`, `cpt:isvara` · practices: `prc:isvara-pranidhana`
+terms: [īśvara-praṇidhāna](../terms/isvara-pranidhana.md), [samādhi](../terms/samadhi.md) · concepts: [Signs of establishment in the restraints and observances](../concepts/signs-of-yama-niyama.md), [Īśvara (the Lord)](../concepts/isvara.md) · practices: [Devotion to Īśvara (īśvara-praṇidhāna)](../practices/isvara-pranidhana.md)
 
 ### 2.46 <a id="tea-yoga-sutra-2-46"></a>
 `skeleton` · confidence high
@@ -1088,7 +1088,7 @@ Posture (āsana) is steady and comfortable.
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: beginner · types: practice, body-layers_
 
-terms: `trm:asana` · practices: `prc:asana`
+terms: [āsana](../terms/asana.md) · practices: [Posture (āsana)](../practices/asana.md)
 
 ### 2.47 <a id="tea-yoga-sutra-2-47"></a>
 `skeleton` · confidence high
@@ -1099,7 +1099,7 @@ terms: `trm:asana` · practices: `prc:asana`
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: beginner · types: practice_
 
-terms: `trm:asana`, `trm:samapatti` · practices: `prc:asana`
+terms: [āsana](../terms/asana.md), [samāpatti](../terms/samapatti.md) · practices: [Posture (āsana)](../practices/asana.md)
 
 ### 2.48 <a id="tea-yoga-sutra-2-48"></a>
 `skeleton` · confidence high
@@ -1110,7 +1110,7 @@ From that, [there is] no assault by the pairs of opposites.
 
 _level: conventional · standpoint: experiential · path: body-breath · stage: beginner · types: practice, body-layers_
 
-terms: `trm:dvandva` · practices: `prc:asana`
+terms: [dvandva](../terms/dvandva.md) · practices: [Posture (āsana)](../practices/asana.md)
 
 ### 2.49 <a id="tea-yoga-sutra-2-49"></a>
 `skeleton` · confidence high
@@ -1121,7 +1121,7 @@ When that is [accomplished], breath-regulation (prāṇāyāma) is the cutting o
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: intermediate · types: practice, body-layers_
 
-terms: `trm:pranayama`, `trm:svasa-prasvasa` · practices: `prc:pranayama`
+terms: [prāṇāyāma](../terms/pranayama.md), [śvāsa-praśvāsa](../terms/svasa-prasvasa.md) · practices: [Breath-regulation (prāṇāyāma)](../practices/pranayama.md)
 
 ### 2.50 <a id="tea-yoga-sutra-2-50"></a>
 `skeleton` · confidence high
@@ -1132,7 +1132,7 @@ It is external, internal or suspended in operation; regulated by place, time and
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: intermediate · types: practice, body-layers_
 
-terms: `trm:pranayama` · practices: `prc:pranayama`
+terms: [prāṇāyāma](../terms/pranayama.md) · practices: [Breath-regulation (prāṇāyāma)](../practices/pranayama.md)
 
 ### 2.51 <a id="tea-yoga-sutra-2-51"></a>
 `skeleton` · confidence high
@@ -1143,7 +1143,7 @@ The fourth [prāṇāyāma] goes beyond the external and internal spheres.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice, body-layers_
 
-terms: `trm:pranayama` · practices: `prc:caturtha-pranayama`
+terms: [prāṇāyāma](../terms/pranayama.md) · practices: [The fourth prāṇāyāma (2.51)](../practices/caturtha-pranayama.md)
 
 ### 2.52 <a id="tea-yoga-sutra-2-52"></a>
 `skeleton` · confidence high
@@ -1154,7 +1154,7 @@ From that, the covering of the light dwindles.
 
 _level: conventional · standpoint: experiential · path: body-breath · stage: intermediate · types: practice, powers-experiences_
 
-terms: `trm:prakasavarana` · practices: `prc:pranayama` · obstacles: `obs:prakasavarana`
+terms: [prakāśāvaraṇa](../terms/prakasavarana.md) · practices: [Breath-regulation (prāṇāyāma)](../practices/pranayama.md) · obstacles: [The covering of the light (prakāśāvaraṇa)](../obstacles/prakasavarana.md)
 
 ### 2.53 <a id="tea-yoga-sutra-2-53"></a>
 `skeleton` · confidence high
@@ -1165,7 +1165,7 @@ And the mind becomes fit for concentrations.
 
 _level: conventional · standpoint: experiential · path: body-breath, meditation · stage: intermediate · types: practice_
 
-terms: `trm:dharana`, `trm:manas` · practices: `prc:pranayama`, `prc:dharana`
+terms: [dhāraṇā](../terms/dharana.md), [manas](../terms/manas.md) · practices: [Breath-regulation (prāṇāyāma)](../practices/pranayama.md), [Concentration (dhāraṇā)](../practices/dharana.md)
 
 ### 2.54 <a id="tea-yoga-sutra-2-54"></a>
 `skeleton` · confidence high
@@ -1176,7 +1176,7 @@ Sense-withdrawal (pratyāhāra) is the senses' seeming imitation of the mind's o
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice_
 
-terms: `trm:pratyahara`, `trm:indriya` · practices: `prc:pratyahara`
+terms: [pratyāhāra](../terms/pratyahara.md), [indriya](../terms/indriya.md) · practices: [Sense-withdrawal (pratyāhāra)](../practices/pratyahara.md)
 
 ### 2.55 <a id="tea-yoga-sutra-2-55"></a>
 `skeleton` · confidence high
@@ -1187,7 +1187,7 @@ From that [comes] supreme mastery of the senses.
 
 _level: conventional · standpoint: experiential · path: meditation · stage: intermediate · types: practice, powers-experiences_
 
-terms: `trm:indriya-jaya`, `trm:pratyahara` · practices: `prc:pratyahara` · disputes: `dsp:mastery-of-the-senses`
+terms: [indriya-jaya](../terms/indriya-jaya.md), [pratyāhāra](../terms/pratyahara.md) · practices: [Sense-withdrawal (pratyāhāra)](../practices/pratyahara.md) · disputes: [What is mastery of the senses (indriya-jaya)?](../debates/mastery-of-the-senses.md)
 
 ### 3.1 <a id="tea-yoga-sutra-3-1"></a>
 `skeleton` · confidence high
@@ -1198,7 +1198,7 @@ Concentration (dhāraṇā) is the binding of the mind to a place.
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice_
 
-terms: `trm:dharana`, `trm:citta` · concepts: `cpt:bodily-loci-of-samyama` · practices: `prc:dharana`
+terms: [dhāraṇā](../terms/dharana.md), [citta](../terms/citta.md) · concepts: [Bodily loci of concentration and saṃyama](../concepts/bodily-loci-of-samyama.md) · practices: [Concentration (dhāraṇā)](../practices/dharana.md)
 
 ### 3.2 <a id="tea-yoga-sutra-3-2"></a>
 `skeleton` · confidence high
@@ -1209,7 +1209,7 @@ There, the continuous flow of a single cognition is meditation (dhyāna).
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice, consciousness-mind_
 
-terms: `trm:dhyana`, `trm:pratyaya` · practices: `prc:dhyana`
+terms: [dhyāna (nididhyāsana)](../terms/dhyana.md), [pratyaya](../terms/pratyaya.md) · practices: [Meditation (dhyāna)](../practices/dhyana.md)
 
 ### 3.3 <a id="tea-yoga-sutra-3-3"></a>
 `skeleton` · confidence high
@@ -1220,7 +1220,7 @@ That same [meditation], when the object alone shines forth, as if empty of its o
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: practice, consciousness-mind_
 
-terms: `trm:samadhi` · practices: `prc:samadhi`
+terms: [samādhi](../terms/samadhi.md) · practices: [Samādhi as the eighth limb](../practices/samadhi.md)
 
 ### 3.4 <a id="tea-yoga-sutra-3-4"></a>
 `skeleton` · confidence high
@@ -1231,7 +1231,7 @@ The three together [on one object] are saṃyama.
 
 _level: conventional · standpoint: analytic · path: meditation · stage: advanced · types: practice_
 
-terms: `trm:samyama`, `trm:dharana`, `trm:dhyana`, `trm:samadhi` · concepts: `cpt:samyama` · practices: `prc:samyama`
+terms: [saṃyama](../terms/samyama.md), [dhāraṇā](../terms/dharana.md), [dhyāna (nididhyāsana)](../terms/dhyana.md), [samādhi](../terms/samadhi.md) · concepts: [Saṃyama](../concepts/samyama.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.5 <a id="tea-yoga-sutra-3-5"></a>
 `skeleton` · confidence high
@@ -1242,7 +1242,7 @@ From mastery of it [comes] the light of insight.
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: practice, powers-experiences_
 
-terms: `trm:samyama`, `trm:prajna` · concepts: `cpt:samyama` · practices: `prc:samyama`
+terms: [saṃyama](../terms/samyama.md), [Prājña](../terms/prajna.md) · concepts: [Saṃyama](../concepts/samyama.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.6 <a id="tea-yoga-sutra-3-6"></a>
 `skeleton` · confidence high
@@ -1253,7 +1253,7 @@ Its application is by stages.
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: practice_
 
-terms: `trm:samyama` · concepts: `cpt:samyama` · practices: `prc:samyama`
+terms: [saṃyama](../terms/samyama.md) · concepts: [Saṃyama](../concepts/samyama.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.7 <a id="tea-yoga-sutra-3-7"></a>
 `skeleton` · confidence high
@@ -1264,7 +1264,7 @@ The three are inner limbs compared with the preceding [five].
 
 _level: conventional · standpoint: analytic · path: meditation · stage: advanced · types: practice_
 
-terms: `trm:antaranga`, `trm:bahiranga` · concepts: `cpt:antaranga-bahiranga`, `cpt:astanga-yoga`
+terms: [antaraṅga](../terms/antaranga.md), [bahiraṅga](../terms/bahiranga.md) · concepts: [Inner and outer limbs](../concepts/antaranga-bahiranga.md), [The eight limbs of yoga (aṣṭāṅga)](../concepts/astanga-yoga.md)
 
 ### 3.8 <a id="tea-yoga-sutra-3-8"></a>
 `skeleton` · confidence high
@@ -1275,7 +1275,7 @@ Even they are outer limbs with respect to the seedless [samādhi].
 
 _level: conventional · standpoint: analytic · path: meditation · stage: advanced · types: practice_
 
-terms: `trm:bahiranga`, `trm:nirbija` · concepts: `cpt:antaranga-bahiranga`, `cpt:sabija-nirbija`
+terms: [bahiraṅga](../terms/bahiranga.md), [nirbīja](../terms/nirbija.md) · concepts: [Inner and outer limbs](../concepts/antaranga-bahiranga.md), [Samādhi with seed and seedless (sabīja, nirbīja)](../concepts/sabija-nirbija.md)
 
 ### 3.9 <a id="tea-yoga-sutra-3-9"></a>
 `skeleton` · confidence high
@@ -1286,7 +1286,7 @@ The transformation of stilling is the mind's being joined to the moment of still
 
 _level: unmarked · standpoint: mode · path: meditation · stage: advanced · types: consciousness-mind_
 
-terms: `trm:nirodha-parinama`, `trm:vyutthana`, `trm:samskara` · concepts: `cpt:three-parinamas-of-citta` · obstacles: `obs:vyutthana-samskara`
+terms: [nirodha-pariṇāma](../terms/nirodha-parinama.md), [vyutthāna](../terms/vyutthana.md), [saṃskāra](../terms/samskara.md) · concepts: [The three transformations of the mind](../concepts/three-parinamas-of-citta.md) · obstacles: [Impressions of emergence (vyutthāna-saṃskāra)](../obstacles/vyutthana-samskara.md)
 
 ### 3.10 <a id="tea-yoga-sutra-3-10"></a>
 `skeleton` · confidence high
@@ -1297,7 +1297,7 @@ Its peaceful flow [comes] from impressions.
 
 _level: unmarked · standpoint: mode · path: meditation · stage: advanced · types: consciousness-mind_
 
-terms: `trm:prasanta-vahita`, `trm:samskara` · concepts: `cpt:three-parinamas-of-citta`
+terms: [praśānta-vāhitā](../terms/prasanta-vahita.md), [saṃskāra](../terms/samskara.md) · concepts: [The three transformations of the mind](../concepts/three-parinamas-of-citta.md)
 
 ### 3.11 <a id="tea-yoga-sutra-3-11"></a>
 `skeleton` · confidence high
@@ -1308,7 +1308,7 @@ The transformation of samādhi is the dwindling of the mind's all-objectness and
 
 _level: unmarked · standpoint: mode · path: meditation · stage: advanced · types: consciousness-mind_
 
-terms: `trm:samadhi-parinama`, `trm:ekagrata` · concepts: `cpt:three-parinamas-of-citta`
+terms: [samādhi-pariṇāma](../terms/samadhi-parinama.md), [ekāgratā](../terms/ekagrata.md) · concepts: [The three transformations of the mind](../concepts/three-parinamas-of-citta.md)
 
 ### 3.12 <a id="tea-yoga-sutra-3-12"></a>
 `skeleton` · confidence high
@@ -1319,7 +1319,7 @@ Then again, when the cognition that has subsided and the one that has arisen are
 
 _level: unmarked · standpoint: mode · path: meditation · stage: advanced · types: consciousness-mind_
 
-terms: `trm:ekagrata-parinama`, `trm:ekagrata` · concepts: `cpt:three-parinamas-of-citta`
+terms: [ekāgratā-pariṇāma](../terms/ekagrata-parinama.md), [ekāgratā](../terms/ekagrata.md) · concepts: [The three transformations of the mind](../concepts/three-parinamas-of-citta.md)
 
 ### 3.13 <a id="tea-yoga-sutra-3-13"></a>
 `skeleton` · confidence high
@@ -1330,7 +1330,7 @@ By this, the transformations of property (dharma), time-mark (lakṣaṇa) and s
 
 _level: unmarked · standpoint: mode · path: knowledge · stage: all · types: world-fate, consciousness-mind_
 
-terms: `trm:parinama`, `trm:dharma-parinama`, `trm:laksana-parinama`, `trm:avastha-parinama` · concepts: `cpt:dharma-laksana-avastha-parinama` · disputes: `dsp:causation`
+terms: [pariṇāma](../terms/parinama.md), [dharma-pariṇāma](../terms/dharma-parinama.md), [lakṣaṇa-pariṇāma](../terms/laksana-parinama.md), [avasthā-pariṇāma](../terms/avastha-parinama.md) · concepts: [Transformation of property, time-mark and state](../concepts/dharma-laksana-avastha-parinama.md) · disputes: `dsp:causation`
 
 ### 3.14 <a id="tea-yoga-sutra-3-14"></a>
 `skeleton` · confidence high
@@ -1341,7 +1341,7 @@ The property-bearer (dharmin) is that which conforms to properties that have sub
 
 _level: unmarked · standpoint: substance · path: knowledge · stage: all · types: world-fate_
 
-terms: `trm:dharmin`, `trm:dharma-parinama` · concepts: `cpt:dharma-dharmin` · disputes: `dsp:citta-momentary-or-enduring`
+terms: [dharmin](../terms/dharmin.md), [dharma-pariṇāma](../terms/dharma-parinama.md) · concepts: [Property and property-bearer (dharma, dharmin)](../concepts/dharma-dharmin.md) · disputes: [Is the mind a series of momentary cognitions, or one enduring mind with many objects?](../debates/citta-momentary-or-enduring.md)
 
 ### 3.15 <a id="tea-yoga-sutra-3-15"></a>
 `skeleton` · confidence high
@@ -1352,7 +1352,7 @@ Difference in sequence is the reason for difference in transformation.
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: all · types: world-fate_
 
-terms: `trm:krama`, `trm:parinama` · concepts: `cpt:dharma-laksana-avastha-parinama`, `cpt:ksana-krama`
+terms: [krama](../terms/krama.md), [pariṇāma](../terms/parinama.md) · concepts: [Transformation of property, time-mark and state](../concepts/dharma-laksana-avastha-parinama.md), [Moment and sequence (time)](../concepts/ksana-krama.md)
 
 ### 3.16 <a id="tea-yoga-sutra-3-16"></a>
 `skeleton` · confidence high
@@ -1363,7 +1363,7 @@ From saṃyama on the three transformations, knowledge of past and future.
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences_
 
-terms: `trm:samyama`, `trm:parinama` · concepts: `cpt:vibhutis` · practices: `prc:samyama`
+terms: [saṃyama](../terms/samyama.md), [pariṇāma](../terms/parinama.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.17 <a id="tea-yoga-sutra-3-17"></a>
 `skeleton` · confidence high
@@ -1374,7 +1374,7 @@ Word, object and cognition are confused through superimposition on one another; 
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences, sound-language_
 
-terms: `trm:samyama`, `trm:vikalpa` · concepts: `cpt:vibhutis`, `cpt:word-meaning-cognition` · practices: `prc:samyama`
+terms: [saṃyama](../terms/samyama.md), [vikalpa](../terms/vikalpa.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Word, meaning and cognition](../concepts/word-meaning-cognition.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.18 <a id="tea-yoga-sutra-3-18"></a>
 `skeleton` · confidence high
@@ -1385,7 +1385,7 @@ From direct perception of impressions, knowledge of former births.
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences, karma-liberation_
 
-terms: `trm:samskara` · concepts: `cpt:vibhutis`, `cpt:samskara` · practices: `prc:samyama`
+terms: [saṃskāra](../terms/samskara.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Latent impressions (saṃskāra)](../concepts/samskara.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.19 <a id="tea-yoga-sutra-3-19"></a>
 `skeleton` · confidence high
@@ -1396,7 +1396,7 @@ terms: `trm:samskara` · concepts: `cpt:vibhutis`, `cpt:samskara` · practices: 
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences_
 
-terms: `trm:pratyaya` · concepts: `cpt:vibhutis` · practices: `prc:samyama`
+terms: [pratyaya](../terms/pratyaya.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.20 <a id="tea-yoga-sutra-3-20"></a>
 `skeleton` · confidence high
@@ -1407,7 +1407,7 @@ But not [of that cognition] together with its support, since that is not its obj
 
 _level: conventional · standpoint: analytic · path: meditation · stage: advanced · types: powers-experiences_
 
-terms: `trm:alambana` · concepts: `cpt:vibhutis`
+terms: [ālambana](../terms/alambana.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
 
 ### 3.21 <a id="tea-yoga-sutra-3-21"></a>
 `skeleton` · confidence high
@@ -1418,7 +1418,7 @@ From saṃyama on the form of the body, when its capacity to be perceived is sus
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences, body-layers_
 
-concepts: `cpt:vibhutis` · practices: `prc:samyama`
+concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.22 <a id="tea-yoga-sutra-3-22"></a>
 `skeleton` · confidence high
@@ -1429,7 +1429,7 @@ Karma is fast-acting (sopakrama) or slow (nirupakrama); from saṃyama on it, or
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences, death-dying, karma-liberation_
 
-terms: `trm:sopakrama`, `trm:nirupakrama`, `trm:arista` · concepts: `cpt:vibhutis`, `cpt:death-in-yoga` · practices: `prc:samyama`
+terms: [sopakrama](../terms/sopakrama.md), [nirupakrama](../terms/nirupakrama.md), [ariṣṭa](../terms/arista.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Death in Yoga: clinging, omens, departure](../concepts/death-in-yoga.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.23 <a id="tea-yoga-sutra-3-23"></a>
 `skeleton` · confidence high
@@ -1440,7 +1440,7 @@ terms: `trm:sopakrama`, `trm:nirupakrama`, `trm:arista` · concepts: `cpt:vibhut
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences, ethics_
 
-terms: `trm:maitri`, `trm:karuna`, `trm:mudita` · concepts: `cpt:vibhutis`, `cpt:four-attitudes` · practices: `prc:samyama`, `prc:four-attitudes`
+terms: [maitrī](../terms/maitri.md), [karuṇā](../terms/karuna.md), [muditā](../terms/mudita.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [The four attitudes (maitrī, karuṇā, muditā, upekṣā)](../concepts/four-attitudes.md) · practices: [Saṃyama](../practices/samyama.md), [Cultivating the four attitudes (maitrī, karuṇā, muditā, upekṣā)](../practices/four-attitudes.md)
 
 ### 3.24 <a id="tea-yoga-sutra-3-24"></a>
 `skeleton` · confidence high
@@ -1451,7 +1451,7 @@ terms: `trm:maitri`, `trm:karuna`, `trm:mudita` · concepts: `cpt:vibhutis`, `cp
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences_
 
-concepts: `cpt:vibhutis` · practices: `prc:samyama`
+concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.25 <a id="tea-yoga-sutra-3-25"></a>
 `skeleton` · confidence high
@@ -1462,7 +1462,7 @@ By directing the light of the [luminous] activity, knowledge of the subtle, the 
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences_
 
-terms: `trm:jyotismati` · concepts: `cpt:vibhutis` · practices: `prc:samyama`, `prc:visoka-jyotismati`
+terms: [jyotiṣmatī](../terms/jyotismati.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · practices: [Saṃyama](../practices/samyama.md), [The sorrowless, luminous activity (1.36)](../practices/visoka-jyotismati.md)
 
 ### 3.26 <a id="tea-yoga-sutra-3-26"></a>
 `skeleton` · confidence high
@@ -1473,7 +1473,7 @@ From saṃyama on the sun, knowledge of the worlds.
 
 _level: conventional · standpoint: cosmic · path: meditation · stage: advanced · types: powers-experiences, world-fate_
 
-concepts: `cpt:vibhutis`, `cpt:yoga-cosmology-vyasa` · practices: `prc:samyama`
+concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Vyāsa's cosmology (the seven worlds)](../concepts/yoga-cosmology-vyasa.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.27 <a id="tea-yoga-sutra-3-27"></a>
 `skeleton` · confidence high
@@ -1484,7 +1484,7 @@ On the moon, knowledge of the arrangement of the stars.
 
 _level: conventional · standpoint: cosmic · path: meditation · stage: advanced · types: powers-experiences, world-fate_
 
-concepts: `cpt:vibhutis`, `cpt:yoga-cosmology-vyasa` · practices: `prc:samyama`
+concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Vyāsa's cosmology (the seven worlds)](../concepts/yoga-cosmology-vyasa.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.28 <a id="tea-yoga-sutra-3-28"></a>
 `skeleton` · confidence high
@@ -1495,7 +1495,7 @@ On the pole star, knowledge of their movement.
 
 _level: conventional · standpoint: cosmic · path: meditation · stage: advanced · types: powers-experiences, world-fate_
 
-concepts: `cpt:vibhutis`, `cpt:yoga-cosmology-vyasa` · practices: `prc:samyama`
+concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Vyāsa's cosmology (the seven worlds)](../concepts/yoga-cosmology-vyasa.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.29 <a id="tea-yoga-sutra-3-29"></a>
 `skeleton` · confidence high
@@ -1506,7 +1506,7 @@ On the navel wheel, knowledge of the arrangement of the body.
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences, body-layers_
 
-terms: `trm:nabhi-cakra` · concepts: `cpt:vibhutis`, `cpt:bodily-loci-of-samyama` · practices: `prc:samyama`
+terms: [nābhi-cakra](../terms/nabhi-cakra.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Bodily loci of concentration and saṃyama](../concepts/bodily-loci-of-samyama.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.30 <a id="tea-yoga-sutra-3-30"></a>
 `skeleton` · confidence high
@@ -1517,7 +1517,7 @@ On the well of the throat, cessation of hunger and thirst.
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences, body-layers_
 
-terms: `trm:kantha-kupa` · concepts: `cpt:vibhutis`, `cpt:bodily-loci-of-samyama` · practices: `prc:samyama`
+terms: [kaṇṭha-kūpa](../terms/kantha-kupa.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Bodily loci of concentration and saṃyama](../concepts/bodily-loci-of-samyama.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.31 <a id="tea-yoga-sutra-3-31"></a>
 `skeleton` · confidence high
@@ -1528,7 +1528,7 @@ On the tortoise channel, steadiness.
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences, body-layers_
 
-terms: `trm:kurma-nadi` · concepts: `cpt:vibhutis`, `cpt:bodily-loci-of-samyama` · practices: `prc:samyama`
+terms: [kūrma-nāḍī](../terms/kurma-nadi.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Bodily loci of concentration and saṃyama](../concepts/bodily-loci-of-samyama.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.32 <a id="tea-yoga-sutra-3-32"></a>
 `skeleton` · confidence high
@@ -1539,7 +1539,7 @@ On the light in the head, vision of the perfected ones (siddha).
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences, body-layers_
 
-terms: `trm:murdha-jyotis` · concepts: `cpt:vibhutis`, `cpt:bodily-loci-of-samyama` · practices: `prc:samyama`
+terms: [mūrdha-jyotis](../terms/murdha-jyotis.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Bodily loci of concentration and saṃyama](../concepts/bodily-loci-of-samyama.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.33 <a id="tea-yoga-sutra-3-33"></a>
 `skeleton` · confidence high
@@ -1550,7 +1550,7 @@ Or from intuition (prātibha), everything.
 
 _level: conventional · standpoint: experiential · path: meditation, knowledge · stage: advanced · types: powers-experiences_
 
-terms: `trm:pratibha` · concepts: `cpt:vibhutis`
+terms: [prātibha](../terms/pratibha.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
 
 ### 3.34 <a id="tea-yoga-sutra-3-34"></a>
 `skeleton` · confidence high
@@ -1561,7 +1561,7 @@ On the heart, understanding of the mind.
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences, body-layers, consciousness-mind_
 
-concepts: `cpt:vibhutis`, `cpt:bodily-loci-of-samyama` · practices: `prc:samyama`
+concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Bodily loci of concentration and saṃyama](../concepts/bodily-loci-of-samyama.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.35 <a id="tea-yoga-sutra-3-35"></a>
 `skeleton` · confidence high
@@ -1572,7 +1572,7 @@ Experience (bhoga) is a cognition that fails to distinguish sattva and puruṣa,
 
 _level: unmarked · standpoint: analytic · path: meditation, knowledge · stage: advanced · types: consciousness-mind, ultimate_
 
-terms: `trm:bhoga`, `trm:sattva`, `trm:purusa` · concepts: `cpt:purusa`, `cpt:seer-and-seen`, `cpt:viveka-khyati` · practices: `prc:samyama`
+terms: [bhoga](../terms/bhoga.md), [sattva](../terms/sattva.md), [puruṣa](../terms/purusa.md) · concepts: [Puruṣa (the conscious self)](../concepts/purusa.md), [The seer and the seen (draṣṭṛ and dṛśya)](../concepts/seer-and-seen.md), [Discriminating knowledge (viveka, vivekakhyāti)](../concepts/viveka-khyati.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.36 <a id="tea-yoga-sutra-3-36"></a>
 `skeleton` · confidence high
@@ -1583,7 +1583,7 @@ From that arise intuition and [divine] hearing, touch, sight, taste and smell.
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences_
 
-terms: `trm:pratibha` · concepts: `cpt:vibhutis`
+terms: [prātibha](../terms/pratibha.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
 
 ### 3.37 <a id="tea-yoga-sutra-3-37"></a>
 `skeleton` · confidence high
@@ -1594,7 +1594,7 @@ These are obstacles in samādhi; in the emergent state they are powers.
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: powers-experiences_
 
-terms: `trm:upasarga`, `trm:siddhi`, `trm:vyutthana` · concepts: `cpt:siddhis-as-obstacles` · obstacles: `obs:siddhis-as-upasarga`
+terms: [upasarga](../terms/upasarga.md), [siddhi](../terms/siddhi.md), [vyutthāna](../terms/vyutthana.md) · concepts: [Powers as obstacles (the warnings)](../concepts/siddhis-as-obstacles.md) · obstacles: [Powers as obstacles in samādhi (upasarga)](../obstacles/siddhis-as-upasarga.md)
 
 ### 3.38 <a id="tea-yoga-sutra-3-38"></a>
 `skeleton` · confidence high
@@ -1605,7 +1605,7 @@ From loosening the cause of bondage and from knowing the mind's pathways, the mi
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences, body-layers_
 
-terms: `trm:parasarira-avesa` · concepts: `cpt:vibhutis`
+terms: [paraśarīra-āveśa](../terms/parasarira-avesa.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
 
 ### 3.39 <a id="tea-yoga-sutra-3-39"></a>
 `skeleton` · confidence high
@@ -1616,7 +1616,7 @@ From mastery of the up-breath (udāna), non-adherence to water, mud, thorns and 
 
 _level: conventional · standpoint: experiential · path: meditation, body-breath · stage: advanced · types: powers-experiences, body-layers, death-dying_
 
-terms: `trm:udana`, `trm:utkranti` · concepts: `cpt:vibhutis`, `cpt:prana-vayus-yoga`, `cpt:death-in-yoga`
+terms: [udāna](../terms/udana.md), [utkrānti](../terms/utkranti.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [The five vital airs in Yoga](../concepts/prana-vayus-yoga.md), [Death in Yoga: clinging, omens, departure](../concepts/death-in-yoga.md)
 
 ### 3.40 <a id="tea-yoga-sutra-3-40"></a>
 `skeleton` · confidence high
@@ -1627,7 +1627,7 @@ From mastery of the equalizing breath (samāna), radiance.
 
 _level: conventional · standpoint: experiential · path: meditation, body-breath · stage: advanced · types: powers-experiences, body-layers_
 
-terms: `trm:samana` · concepts: `cpt:vibhutis`, `cpt:prana-vayus-yoga`
+terms: [samāna](../terms/samana.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [The five vital airs in Yoga](../concepts/prana-vayus-yoga.md)
 
 ### 3.41 <a id="tea-yoga-sutra-3-41"></a>
 `skeleton` · confidence high
@@ -1638,7 +1638,7 @@ From saṃyama on the relation between the ear and space, divine hearing.
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences_
 
-concepts: `cpt:vibhutis` · practices: `prc:samyama`
+concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.42 <a id="tea-yoga-sutra-3-42"></a>
 `skeleton` · confidence high
@@ -1649,7 +1649,7 @@ From saṃyama on the relation between the body and space, and from coalescence 
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences_
 
-concepts: `cpt:vibhutis` · practices: `prc:samyama`
+concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.43 <a id="tea-yoga-sutra-3-43"></a>
 `skeleton` · confidence high
@@ -1660,7 +1660,7 @@ An activity [of mind] outside [the body] that is not imagined is the great bodil
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences, consciousness-mind_
 
-terms: `trm:mahavideha`, `trm:prakasavarana` · concepts: `cpt:vibhutis` · obstacles: `obs:prakasavarana`
+terms: [mahāvidehā](../terms/mahavideha.md), [prakāśāvaraṇa](../terms/prakasavarana.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · obstacles: [The covering of the light (prakāśāvaraṇa)](../obstacles/prakasavarana.md)
 
 ### 3.44 <a id="tea-yoga-sutra-3-44"></a>
 `skeleton` · confidence high
@@ -1671,7 +1671,7 @@ From saṃyama on the gross form, own nature, subtle form, inherence and purposi
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced (prajñājyotis — one who has mastered the elements and senses (YBh 3.51)) · types: powers-experiences, world-fate_
 
-terms: `trm:bhuta-jaya` · concepts: `cpt:vibhutis` · practices: `prc:samyama`
+terms: [bhūta-jaya](../terms/bhuta-jaya.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.45 <a id="tea-yoga-sutra-3-45"></a>
 `skeleton` · confidence high
@@ -1682,7 +1682,7 @@ From that arise minuteness and the other [powers], perfection of the body, and n
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced (prajñājyotis — one who has mastered the elements and senses (YBh 3.51)) · types: powers-experiences, body-layers_
 
-terms: `trm:aisvarya`, `trm:kaya-sampat` · concepts: `cpt:vibhutis`, `cpt:anima-adi-siddhis`
+terms: [aiśvarya](../terms/aisvarya.md), [kāya-sampat](../terms/kaya-sampat.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [The eight lordly powers (aṇimā and the rest)](../concepts/anima-adi-siddhis.md)
 
 ### 3.46 <a id="tea-yoga-sutra-3-46"></a>
 `skeleton` · confidence high
@@ -1693,7 +1693,7 @@ Perfection of the body is beauty, grace, strength and adamantine firmness.
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced (prajñājyotis — one who has mastered the elements and senses (YBh 3.51)) · types: powers-experiences, body-layers_
 
-terms: `trm:kaya-sampat` · concepts: `cpt:vibhutis`
+terms: [kāya-sampat](../terms/kaya-sampat.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
 
 ### 3.47 <a id="tea-yoga-sutra-3-47"></a>
 `skeleton` · confidence high
@@ -1704,7 +1704,7 @@ From saṃyama on the grasping, own nature, I-am-ness, inherence and purposivene
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced (prajñājyotis — one who has mastered the elements and senses (YBh 3.51)) · types: powers-experiences_
 
-terms: `trm:indriya-jaya`, `trm:grahana` · concepts: `cpt:vibhutis` · practices: `prc:samyama`
+terms: [indriya-jaya](../terms/indriya-jaya.md), [grahaṇa](../terms/grahana.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.48 <a id="tea-yoga-sutra-3-48"></a>
 `skeleton` · confidence high
@@ -1715,7 +1715,7 @@ From that, swiftness like the mind, action without instruments, and mastery of t
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced (prajñājyotis — one who has mastered the elements and senses (YBh 3.51)) · types: powers-experiences_
 
-terms: `trm:madhupratika`, `trm:pradhana` · concepts: `cpt:vibhutis`
+terms: [madhupratīka](../terms/madhupratika.md), [pradhāna](../terms/pradhana.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
 
 ### 3.49 <a id="tea-yoga-sutra-3-49"></a>
 `skeleton` · confidence high
@@ -1726,7 +1726,7 @@ For one who has only the discernment of the difference between sattva and puru�
 
 _level: conventional · standpoint: experiential · path: meditation, knowledge · stage: advanced · types: powers-experiences_
 
-terms: `trm:viveka-khyati` · concepts: `cpt:vibhutis`, `cpt:omniscience-in-yoga`, `cpt:viveka-khyati`
+terms: [viveka-khyāti](../terms/viveka-khyati.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Omniscience in Yoga](../concepts/omniscience-in-yoga.md), [Discriminating knowledge (viveka, vivekakhyāti)](../concepts/viveka-khyati.md)
 
 ### 3.50 <a id="tea-yoga-sutra-3-50"></a>
 `skeleton` · confidence high
@@ -1737,7 +1737,7 @@ From dispassion even toward that, when the seeds of the defects are destroyed, k
 
 _level: ultimate · standpoint: seeker · path: meditation, knowledge · stage: realized · types: karma-liberation, powers-experiences_
 
-terms: `trm:vairagya`, `trm:kaivalya` · concepts: `cpt:kaivalya`, `cpt:siddhis-as-obstacles`, `cpt:vairagya` · practices: `prc:vairagya`
+terms: [vairāgya](../terms/vairagya.md), [kaivalya](../terms/kaivalya.md) · concepts: [Isolation (kaivalya)](../concepts/kaivalya.md), [Powers as obstacles (the warnings)](../concepts/siddhis-as-obstacles.md), [Dispassion, lower and higher](../concepts/vairagya.md) · practices: [Dispassion (vairāgya)](../practices/vairagya.md)
 
 ### 3.51 <a id="tea-yoga-sutra-3-51"></a>
 `skeleton` · confidence high
@@ -1748,7 +1748,7 @@ When invited by those in high places, [one should] form neither attachment nor p
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced (madhubhūmika (YBh 3.51)) · types: powers-experiences, practice_
 
-terms: `trm:siddhi` · concepts: `cpt:siddhis-as-obstacles`, `cpt:four-yogins-vyasa` · obstacles: `obs:sanga-smaya`
+terms: [siddhi](../terms/siddhi.md) · concepts: [Powers as obstacles (the warnings)](../concepts/siddhis-as-obstacles.md), [Vyāsa's four kinds of yogin](../concepts/four-yogins-vyasa.md) · obstacles: [Attachment and pride at the celestials' invitation](../obstacles/sanga-smaya.md)
 
 ### 3.52 <a id="tea-yoga-sutra-3-52"></a>
 `skeleton` · confidence high
@@ -1759,7 +1759,7 @@ From saṃyama on the moment and its sequence, knowledge born of discrimination.
 
 _level: conventional · standpoint: experiential · path: meditation, knowledge · stage: advanced · types: powers-experiences, world-fate_
 
-terms: `trm:ksana`, `trm:krama`, `trm:vivekaja-jnana` · concepts: `cpt:ksana-krama` · practices: `prc:samyama`
+terms: [kṣaṇa](../terms/ksana.md), [krama](../terms/krama.md), [vivekaja-jñāna](../terms/vivekaja-jnana.md) · concepts: [Moment and sequence (time)](../concepts/ksana-krama.md) · practices: [Saṃyama](../practices/samyama.md)
 
 ### 3.53 <a id="tea-yoga-sutra-3-53"></a>
 `skeleton` · confidence high
@@ -1770,7 +1770,7 @@ From that, discernment of two similar things whose difference is not determined 
 
 _level: conventional · standpoint: experiential · path: meditation, knowledge · stage: advanced · types: powers-experiences_
 
-terms: `trm:vivekaja-jnana` · concepts: `cpt:ksana-krama`
+terms: [vivekaja-jñāna](../terms/vivekaja-jnana.md) · concepts: [Moment and sequence (time)](../concepts/ksana-krama.md)
 
 ### 3.54 <a id="tea-yoga-sutra-3-54"></a>
 `skeleton` · confidence high
@@ -1781,7 +1781,7 @@ Knowledge born of discrimination is the deliverer (tāraka): it has all things a
 
 _level: conventional · standpoint: experiential · path: meditation, knowledge · stage: advanced · types: powers-experiences, karma-liberation_
 
-terms: `trm:taraka`, `trm:vivekaja-jnana` · concepts: `cpt:omniscience-in-yoga`, `cpt:viveka-khyati`
+terms: [tāraka](../terms/taraka.md), [vivekaja-jñāna](../terms/vivekaja-jnana.md) · concepts: [Omniscience in Yoga](../concepts/omniscience-in-yoga.md), [Discriminating knowledge (viveka, vivekakhyāti)](../concepts/viveka-khyati.md)
 
 ### 3.55 <a id="tea-yoga-sutra-3-55"></a>
 `skeleton` · confidence high
@@ -1792,7 +1792,7 @@ When sattva and puruṣa are equal in purity, kaivalya.
 
 _level: ultimate · standpoint: substance · path: knowledge, meditation · stage: realized · types: karma-liberation, ultimate_
 
-terms: `trm:kaivalya`, `trm:sattva`, `trm:purusa` · concepts: `cpt:kaivalya`
+terms: [kaivalya](../terms/kaivalya.md), [sattva](../terms/sattva.md), [puruṣa](../terms/purusa.md) · concepts: [Isolation (kaivalya)](../concepts/kaivalya.md)
 
 ### 4.1 <a id="tea-yoga-sutra-4-1"></a>
 `skeleton` · confidence high
@@ -1803,7 +1803,7 @@ Powers arise from birth, herbs, mantras, austerity or samādhi.
 
 _level: conventional · standpoint: causal · path: meditation · stage: all · types: powers-experiences_
 
-terms: `trm:siddhi` · concepts: `cpt:five-sources-of-siddhis`, `cpt:vibhutis`
+terms: [siddhi](../terms/siddhi.md) · concepts: [The five sources of powers](../concepts/five-sources-of-siddhis.md), [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
 
 ### 4.2 <a id="tea-yoga-sutra-4-2"></a>
 `skeleton` · confidence high
@@ -1814,7 +1814,7 @@ Transformation into another kind [of being] comes from the overflowing of the ma
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: all · types: powers-experiences, world-fate_
 
-terms: `trm:prakrti`, `trm:parinama` · concepts: `cpt:five-sources-of-siddhis`
+terms: [prakṛti](../terms/prakrti.md), [pariṇāma](../terms/parinama.md) · concepts: [The five sources of powers](../concepts/five-sources-of-siddhis.md)
 
 ### 4.3 <a id="tea-yoga-sutra-4-3"></a>
 `skeleton` · confidence high
@@ -1825,7 +1825,7 @@ The instrumental cause does not set the material causes in motion; it only remov
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: all · types: world-fate, karma-liberation_
 
-terms: `trm:prakrti` · concepts: `cpt:karmasaya` · disputes: `dsp:causation`
+terms: [prakṛti](../terms/prakrti.md) · concepts: [The store of karma (karmāśaya)](../concepts/karmasaya.md) · disputes: `dsp:causation`
 
 ### 4.4 <a id="tea-yoga-sutra-4-4"></a>
 `skeleton` · confidence high
@@ -1836,7 +1836,7 @@ Created minds (nirmāṇa-citta) [arise] from I-am-ness alone.
 
 _level: unmarked · standpoint: causal · path: meditation · stage: advanced · types: powers-experiences, consciousness-mind_
 
-terms: `trm:nirmana-citta`, `trm:asmita` · concepts: `cpt:nirmana-citta`
+terms: [nirmāṇa-citta](../terms/nirmana-citta.md), [asmitā](../terms/asmita.md) · concepts: [Created minds (nirmāṇa-citta)](../concepts/nirmana-citta.md)
 
 ### 4.5 <a id="tea-yoga-sutra-4-5"></a>
 `skeleton` · confidence high
@@ -1847,7 +1847,7 @@ In their different activities, one mind directs the many.
 
 _level: unmarked · standpoint: analytic · path: meditation · stage: advanced · types: powers-experiences, consciousness-mind_
 
-terms: `trm:nirmana-citta` · concepts: `cpt:nirmana-citta`
+terms: [nirmāṇa-citta](../terms/nirmana-citta.md) · concepts: [Created minds (nirmāṇa-citta)](../concepts/nirmana-citta.md)
 
 ### 4.6 <a id="tea-yoga-sutra-4-6"></a>
 `skeleton` · confidence high
@@ -1858,7 +1858,7 @@ Of these, the [mind] born of meditation is without residue (anāśaya).
 
 _level: unmarked · standpoint: analytic · path: meditation · stage: advanced · types: karma-liberation, consciousness-mind_
 
-terms: `trm:anasaya`, `trm:dhyana` · concepts: `cpt:nirmana-citta`, `cpt:karmasaya`
+terms: [anāśaya](../terms/anasaya.md), [dhyāna (nididhyāsana)](../terms/dhyana.md) · concepts: [Created minds (nirmāṇa-citta)](../concepts/nirmana-citta.md), [The store of karma (karmāśaya)](../concepts/karmasaya.md)
 
 ### 4.7 <a id="tea-yoga-sutra-4-7"></a>
 `skeleton` · confidence high
@@ -1869,7 +1869,7 @@ The karma of a yogin is neither white nor black; that of others is of three kind
 
 _level: conventional · standpoint: causal · path: action, meditation · stage: all · types: karma-liberation_
 
-terms: `trm:asuklakrsna`, `trm:karmasaya` · concepts: `cpt:four-kinds-of-karma`
+terms: [aśuklākṛṣṇa](../terms/asuklakrsna.md), [karmāśaya](../terms/karmasaya.md) · concepts: [The four kinds of karma](../concepts/four-kinds-of-karma.md)
 
 ### 4.8 <a id="tea-yoga-sutra-4-8"></a>
 `skeleton` · confidence high
@@ -1880,7 +1880,7 @@ From that [threefold karma] only those latent tendencies (vāsanā) become manif
 
 _level: unmarked · standpoint: causal · path: action · stage: all · types: karma-liberation_
 
-terms: `trm:vasana`, `trm:vipaka` · concepts: `cpt:vasana`
+terms: [vāsanā](../terms/vasana.md), [vipāka](../terms/vipaka.md) · concepts: [Latent tendencies (vāsanā)](../concepts/vasana.md)
 
 ### 4.9 <a id="tea-yoga-sutra-4-9"></a>
 `skeleton` · confidence high
@@ -1891,7 +1891,7 @@ Even when separated by birth, place and time, there is continuity, because memor
 
 _level: unmarked · standpoint: causal · path: action · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: `trm:vasana`, `trm:smrti`, `trm:samskara` · concepts: `cpt:vasana`, `cpt:samskara`
+terms: [vāsanā](../terms/vasana.md), [smṛti](../terms/smrti.md), [saṃskāra](../terms/samskara.md) · concepts: [Latent tendencies (vāsanā)](../concepts/vasana.md), [Latent impressions (saṃskāra)](../concepts/samskara.md)
 
 ### 4.10 <a id="tea-yoga-sutra-4-10"></a>
 `skeleton` · confidence high
@@ -1902,7 +1902,7 @@ And they are beginningless, because the will [to be] (āśis) is eternal.
 
 _level: unmarked · standpoint: causal · path: action · stage: all · types: karma-liberation_
 
-terms: `trm:vasana`, `trm:asis` · concepts: `cpt:vasana` · disputes: `dsp:size-of-citta`
+terms: [vāsanā](../terms/vasana.md), [āśis](../terms/asis.md) · concepts: [Latent tendencies (vāsanā)](../concepts/vasana.md) · disputes: [Does the mind contract and expand with the body, or is it all-pervading with only its activity contracting and expanding?](../debates/size-of-citta.md)
 
 ### 4.11 <a id="tea-yoga-sutra-4-11"></a>
 `skeleton` · confidence high
@@ -1913,7 +1913,7 @@ Because they are held together by cause, result, substrate and support, when the
 
 _level: unmarked · standpoint: causal · path: action, knowledge · stage: all · types: karma-liberation_
 
-terms: `trm:vasana`, `trm:alambana` · concepts: `cpt:vasana`
+terms: [vāsanā](../terms/vasana.md), [ālambana](../terms/alambana.md) · concepts: [Latent tendencies (vāsanā)](../concepts/vasana.md)
 
 ### 4.12 <a id="tea-yoga-sutra-4-12"></a>
 `skeleton` · confidence high
@@ -1924,7 +1924,7 @@ The past and the future exist in their own form, because properties differ in th
 
 _level: unmarked · standpoint: mode · path: knowledge · stage: all · types: world-fate_
 
-terms: `trm:adhvan`, `trm:dharma-parinama` · concepts: `cpt:existence-of-past-and-future` · disputes: `dsp:causation`
+terms: [adhvan](../terms/adhvan.md), [dharma-pariṇāma](../terms/dharma-parinama.md) · concepts: [Past and future exist in their own form](../concepts/existence-of-past-and-future.md) · disputes: `dsp:causation`
 
 ### 4.13 <a id="tea-yoga-sutra-4-13"></a>
 `skeleton` · confidence high
@@ -1935,7 +1935,7 @@ They, manifest or subtle, have the guṇas as their nature.
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: world-fate_
 
-terms: `trm:guna` · concepts: `cpt:three-gunas`, `cpt:existence-of-past-and-future`
+terms: [guṇa](../terms/guna.md) · concepts: [The three guṇas](../concepts/three-gunas.md), [Past and future exist in their own form](../concepts/existence-of-past-and-future.md)
 
 ### 4.14 <a id="tea-yoga-sutra-4-14"></a>
 `skeleton` · confidence high
@@ -1946,7 +1946,7 @@ From the unity of transformation, a thing is real (one).
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: world-fate, dispute_
 
-terms: `trm:parinama` · concepts: `cpt:object-independent-of-mind` · disputes: `dsp:object-independent-of-mind`
+terms: [pariṇāma](../terms/parinama.md) · concepts: [The object does not depend on one mind](../concepts/object-independent-of-mind.md) · disputes: [Do objects exist independently of the mind, or are they only constructions of cognition?](../debates/object-independent-of-mind.md)
 
 ### 4.15 <a id="tea-yoga-sutra-4-15"></a>
 `skeleton` · confidence high
@@ -1957,7 +1957,7 @@ Since minds differ while the thing is the same, the two have separate courses.
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind_
 
-terms: `trm:citta` · concepts: `cpt:object-independent-of-mind` · disputes: `dsp:object-independent-of-mind`
+terms: [citta](../terms/citta.md) · concepts: [The object does not depend on one mind](../concepts/object-independent-of-mind.md) · disputes: [Do objects exist independently of the mind, or are they only constructions of cognition?](../debates/object-independent-of-mind.md)
 
 ### 4.16 <a id="tea-yoga-sutra-4-16"></a>
 `skeleton` · confidence high
@@ -1968,7 +1968,7 @@ And a thing does not depend on a single mind; [if it did], what would it be when
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, world-fate_
 
-concepts: `cpt:object-independent-of-mind` · disputes: `dsp:object-independent-of-mind`
+concepts: [The object does not depend on one mind](../concepts/object-independent-of-mind.md) · disputes: [Do objects exist independently of the mind, or are they only constructions of cognition?](../debates/object-independent-of-mind.md)
 
 ### 4.17 <a id="tea-yoga-sutra-4-17"></a>
 `skeleton` · confidence high
@@ -1979,7 +1979,7 @@ Because the mind depends on being coloured by it, a thing is known or unknown.
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: `trm:citta` · concepts: `cpt:object-independent-of-mind`, `cpt:citta`
+terms: [citta](../terms/citta.md) · concepts: [The object does not depend on one mind](../concepts/object-independent-of-mind.md), [The mind (citta) in Yoga](../concepts/citta.md)
 
 ### 4.18 <a id="tea-yoga-sutra-4-18"></a>
 `skeleton` · confidence high
@@ -1990,7 +1990,7 @@ The activities of the mind are always known to its master, the puruṣa, because
 
 _level: ultimate · standpoint: substance · path: knowledge · stage: all · types: ultimate, consciousness-mind_
 
-terms: `trm:purusa`, `trm:vrtti` · concepts: `cpt:purusa`, `cpt:witness`
+terms: [puruṣa](../terms/purusa.md), [vṛtti](../terms/vrtti.md) · concepts: [Puruṣa (the conscious self)](../concepts/purusa.md), [The witness (the seer as pratisaṃvedin)](../concepts/witness.md)
 
 ### 4.19 <a id="tea-yoga-sutra-4-19"></a>
 `skeleton` · confidence high
@@ -2001,7 +2001,7 @@ It [the mind] is not self-illuminating, because it is seen.
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: consciousness-mind, dispute_
 
-terms: `trm:citta`, `trm:drsya` · concepts: `cpt:citta-not-self-luminous` · disputes: `dsp:is-mind-self-luminous`
+terms: [citta](../terms/citta.md), [dṛśya](../terms/drsya.md) · concepts: [The mind is not self-luminous](../concepts/citta-not-self-luminous.md) · disputes: [Is the mind (cognition) self-luminous, or is it seen by a distinct, unchanging seer?](../debates/is-mind-self-luminous.md)
 
 ### 4.20 <a id="tea-yoga-sutra-4-20"></a>
 `skeleton` · confidence high
@@ -2012,7 +2012,7 @@ And both cannot be ascertained at one time.
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: consciousness-mind, dispute_
 
-concepts: `cpt:citta-not-self-luminous` · disputes: `dsp:is-mind-self-luminous`
+concepts: [The mind is not self-luminous](../concepts/citta-not-self-luminous.md) · disputes: [Is the mind (cognition) self-luminous, or is it seen by a distinct, unchanging seer?](../debates/is-mind-self-luminous.md)
 
 ### 4.21 <a id="tea-yoga-sutra-4-21"></a>
 `skeleton` · confidence high
@@ -2023,7 +2023,7 @@ If [a mind] were seen by another mind, there would be an infinite regress of cog
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: consciousness-mind, dispute_
 
-concepts: `cpt:citta-not-self-luminous` · disputes: `dsp:is-mind-self-luminous`
+concepts: [The mind is not self-luminous](../concepts/citta-not-self-luminous.md) · disputes: [Is the mind (cognition) self-luminous, or is it seen by a distinct, unchanging seer?](../debates/is-mind-self-luminous.md)
 
 ### 4.22 <a id="tea-yoga-sutra-4-22"></a>
 `skeleton` · confidence high
@@ -2034,7 +2034,7 @@ Awareness of one's own cognition [arises] when consciousness, which does not pas
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind, ultimate_
 
-terms: `trm:citi-sakti` · concepts: `cpt:purusa`, `cpt:citta-not-self-luminous` · disputes: `dsp:reflection-single-or-mutual`
+terms: [citi-śakti](../terms/citi-sakti.md) · concepts: [Puruṣa (the conscious self)](../concepts/purusa.md), [The mind is not self-luminous](../concepts/citta-not-self-luminous.md) · disputes: [How does the unchanging puruṣa 'know' the mind's activities — by a single reflection of consciousness in the buddhi, or by mutual reflection?](../debates/reflection-single-or-mutual.md)
 
 ### 4.23 <a id="tea-yoga-sutra-4-23"></a>
 `skeleton` · confidence high
@@ -2045,7 +2045,7 @@ The mind, coloured by the seer and the seen, [apprehends] all objects.
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: `trm:citta`, `trm:drastr`, `trm:drsya` · concepts: `cpt:citta`, `cpt:seer-and-seen` · disputes: `dsp:object-independent-of-mind`
+terms: [citta](../terms/citta.md), [draṣṭṛ](../terms/drastr.md), [dṛśya](../terms/drsya.md) · concepts: [The mind (citta) in Yoga](../concepts/citta.md), [The seer and the seen (draṣṭṛ and dṛśya)](../concepts/seer-and-seen.md) · disputes: [Do objects exist independently of the mind, or are they only constructions of cognition?](../debates/object-independent-of-mind.md)
 
 ### 4.24 <a id="tea-yoga-sutra-4-24"></a>
 `skeleton` · confidence high
@@ -2056,7 +2056,7 @@ Though variegated by countless latent tendencies, it exists for another, because
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: `trm:vasana`, `trm:citta` · concepts: `cpt:citta`, `cpt:purpose-of-prakrti`
+terms: [vāsanā](../terms/vasana.md), [citta](../terms/citta.md) · concepts: [The mind (citta) in Yoga](../concepts/citta.md), [The seen exists for the seer (bhoga and apavarga)](../concepts/purpose-of-prakrti.md)
 
 ### 4.25 <a id="tea-yoga-sutra-4-25"></a>
 `skeleton` · confidence high
@@ -2067,7 +2067,7 @@ For one who sees the distinction, the cultivation of [thoughts about] the nature
 
 _level: unmarked · standpoint: experiential · path: knowledge, meditation · stage: realized · types: karma-liberation, consciousness-mind_
 
-terms: `trm:viveka-khyati` · concepts: `cpt:viveka-khyati`
+terms: [viveka-khyāti](../terms/viveka-khyati.md) · concepts: [Discriminating knowledge (viveka, vivekakhyāti)](../concepts/viveka-khyati.md)
 
 ### 4.26 <a id="tea-yoga-sutra-4-26"></a>
 `skeleton` · confidence high
@@ -2078,7 +2078,7 @@ Then the mind is inclined toward discrimination and borne toward kaivalya.
 
 _level: unmarked · standpoint: experiential · path: knowledge, meditation · stage: realized · types: karma-liberation, consciousness-mind_
 
-terms: `trm:viveka-khyati`, `trm:kaivalya` · concepts: `cpt:viveka-khyati`, `cpt:kaivalya`
+terms: [viveka-khyāti](../terms/viveka-khyati.md), [kaivalya](../terms/kaivalya.md) · concepts: [Discriminating knowledge (viveka, vivekakhyāti)](../concepts/viveka-khyati.md), [Isolation (kaivalya)](../concepts/kaivalya.md)
 
 ### 4.27 <a id="tea-yoga-sutra-4-27"></a>
 `skeleton` · confidence high
@@ -2089,7 +2089,7 @@ In its gaps, other cognitions [arise] from impressions.
 
 _level: unmarked · standpoint: experiential · path: meditation · stage: advanced · types: consciousness-mind_
 
-terms: `trm:samskara`, `trm:pratyaya` · concepts: `cpt:samskara` · obstacles: `obs:pratyayantara`
+terms: [saṃskāra](../terms/samskara.md), [pratyaya](../terms/pratyaya.md) · concepts: [Latent impressions (saṃskāra)](../concepts/samskara.md) · obstacles: [Other cognitions in the gaps of discernment](../obstacles/pratyayantara.md)
 
 ### 4.28 <a id="tea-yoga-sutra-4-28"></a>
 `skeleton` · confidence high
@@ -2100,7 +2100,7 @@ Their removal is as has been described for the afflictions.
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: practice_
 
-terms: `trm:klesa`, `trm:dagdha-bija` · concepts: `cpt:five-klesas` · obstacles: `obs:pratyayantara`
+terms: [kleśa](../terms/klesa.md), [dagdha-bīja](../terms/dagdha-bija.md) · concepts: [The five afflictions (kleśa)](../concepts/five-klesas.md) · obstacles: [Other cognitions in the gaps of discernment](../obstacles/pratyayantara.md)
 
 ### 4.29 <a id="tea-yoga-sutra-4-29"></a>
 `skeleton` · confidence high
@@ -2111,7 +2111,7 @@ For one who takes no interest even in the highest reflection (prasaṃkhyāna), 
 
 _level: unmarked · standpoint: experiential · path: knowledge, meditation · stage: realized · types: consciousness-mind, karma-liberation_
 
-terms: `trm:dharmamegha`, `trm:prasankhyana`, `trm:akusida`, `trm:viveka-khyati` · concepts: `cpt:dharmamegha-samadhi`
+terms: [dharmamegha](../terms/dharmamegha.md), [prasaṃkhyāna](../terms/prasankhyana.md), [akusīda](../terms/akusida.md), [viveka-khyāti](../terms/viveka-khyati.md) · concepts: [The cloud of dharma (dharmamegha)](../concepts/dharmamegha-samadhi.md)
 
 ### 4.30 <a id="tea-yoga-sutra-4-30"></a>
 `skeleton` · confidence high
@@ -2122,7 +2122,7 @@ From that, the cessation of afflictions and karma.
 
 _level: unmarked · standpoint: causal · path: knowledge, meditation · stage: realized · types: karma-liberation_
 
-terms: `trm:klesa`, `trm:karmasaya` · concepts: `cpt:dharmamegha-samadhi`, `cpt:jivanmukti`
+terms: [kleśa](../terms/klesa.md), [karmāśaya](../terms/karmasaya.md) · concepts: [The cloud of dharma (dharmamegha)](../concepts/dharmamegha-samadhi.md), [Liberation while living (jīvanmukti)](../concepts/jivanmukti.md)
 
 ### 4.31 <a id="tea-yoga-sutra-4-31"></a>
 `skeleton` · confidence high
@@ -2133,7 +2133,7 @@ Then, because of the infinity of knowledge freed from all coverings and impuriti
 
 _level: unmarked · standpoint: experiential · path: knowledge · stage: realized · types: consciousness-mind, powers-experiences_
 
-concepts: `cpt:omniscience-in-yoga`
+concepts: [Omniscience in Yoga](../concepts/omniscience-in-yoga.md)
 
 ### 4.32 <a id="tea-yoga-sutra-4-32"></a>
 `skeleton` · confidence high
@@ -2144,7 +2144,7 @@ From that, the guṇas, their purpose accomplished, complete the sequence of the
 
 _level: unmarked · standpoint: cosmic · path: knowledge · stage: realized · types: karma-liberation, world-fate_
 
-terms: `trm:guna`, `trm:krama`, `trm:parinama` · concepts: `cpt:kaivalya`, `cpt:three-gunas`
+terms: [guṇa](../terms/guna.md), [krama](../terms/krama.md), [pariṇāma](../terms/parinama.md) · concepts: [Isolation (kaivalya)](../concepts/kaivalya.md), [The three guṇas](../concepts/three-gunas.md)
 
 ### 4.33 <a id="tea-yoga-sutra-4-33"></a>
 `skeleton` · confidence high
@@ -2155,7 +2155,7 @@ Sequence is the correlate of the moment, apprehended at the terminal end of a tr
 
 _level: unmarked · standpoint: mode · path: knowledge · stage: all · types: world-fate_
 
-terms: `trm:krama`, `trm:ksana` · concepts: `cpt:ksana-krama`
+terms: [krama](../terms/krama.md), [kṣaṇa](../terms/ksana.md) · concepts: [Moment and sequence (time)](../concepts/ksana-krama.md)
 
 ### 4.34 <a id="tea-yoga-sutra-4-34"></a>
 `skeleton` · confidence high
@@ -2166,10 +2166,10 @@ Kaivalya is the return to their source of the guṇas, empty of purpose for the 
 
 _level: ultimate · standpoint: substance · path: knowledge, meditation · stage: realized · types: karma-liberation, ultimate_
 
-terms: `trm:kaivalya`, `trm:pratiprasava`, `trm:citi-sakti`, `trm:svarupa-pratistha` · concepts: `cpt:kaivalya`
+terms: [kaivalya](../terms/kaivalya.md), [pratiprasava](../terms/pratiprasava.md), [citi-śakti](../terms/citi-sakti.md), [svarūpa-pratiṣṭhā](../terms/svarupa-pratistha.md) · concepts: [Isolation (kaivalya)](../concepts/kaivalya.md)
 
 
 _Notes: Correction to the task list: the vulgate count is 195 (51/55/55/34), not 196; see structure._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 08:09 IST._

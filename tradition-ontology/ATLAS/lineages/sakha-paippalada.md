@@ -5,7 +5,7 @@
 **Family:** vedic
 **Alternate names:** Paippalāda
 **Parent:** [Vedic Śrauta tradition (the Saṃhitā lineages)](vedic-srauta.md)
-**Key teachers:** `tch:pippalada`
+**Key teachers:** [Pippalāda](../teachers/pippalada.md)
 **Regions:** Odisha (living reciters), formerly Kashmir
 **Status:** living
 
@@ -17,13 +17,13 @@ The second Atharvaveda recension, surviving in Odisha and in a Kashmiri manuscri
 
 
 ## Texts
-[Atharvaveda Saṃhitā (Paippalāda)](../texts/atharvaveda-paippalada.md), `src:prasna-upanisad`
+[Atharvaveda Saṃhitā (Paippalāda)](../texts/atharvaveda-paippalada.md), [Praśna Upaniṣad](../texts/prasna-upanisad.md)
 
 ## Teachers
-`tch:pippalada`
+[Pippalāda](../teachers/pippalada.md), [Sumantu](../teachers/sumantu.md)
 
 ## Practices
-_none recorded_
+[Hostile rites (abhicāra) and their counter-rites](../practices/abhicara-rites.md), [Aghamarṣaṇa (sin-effacing recitation)](../practices/aghamarsana.md), [Rites for long life (āyuṣya)](../practices/ayusya-rites.md), [Atharvavedic healing rites (bhaiṣajya)](../practices/bhaisajya-rites.md), [Repetition of the Gāyatrī (Sāvitrī)](../practices/gayatri-japa.md), [Dense recitation (ghanapāṭha)](../practices/ghana-patha.md), [Braid recitation (jaṭāpāṭha)](../practices/jata-patha.md), [Step recitation (kramapāṭha)](../practices/krama-patha.md), [Repetition of the Mahāmṛtyuñjaya (Tryambaka) verse](../practices/mahamrtyunjaya-japa.md), [Binding amulets (maṇi)](../practices/mani-bandhana.md), [Word-by-word recitation (padapāṭha)](../practices/pada-patha.md), [Rites for concord (sāṃmanasya)](../practices/sammanasya-rites.md), [Sandhyā (twilight worship)](../practices/sandhyavandana.md), [Pacificatory rites (śānti)](../practices/santi-karman.md), [Peace chants (śānti-pāṭha)](../practices/santi-patha.md), [Vedic recitation (vedapāṭha, svādhyāya of the Saṃhitā)](../practices/vedapatha.md), [The eight modified recitations (vikṛti)](../practices/vikrti-pathas.md)
 
 ## Path maps
 _none recorded_
@@ -32,4 +32,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

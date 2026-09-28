@@ -12,4 +12,4 @@ Kapila's disciple and Pañcaśikha's teacher (SK 70). The commentaries describe 
 **Realization — the tradition's account:** A brahmin devoted to sacrifice for a thousand years; Kapila asked him three times, at thousand-year intervals, whether he delighted in the householder's life; the third time he answered that he did not, renounced, and became Kapila's disciple (Māṭhara). His dispassion arose from the presence of the supreme sage (Yuktidīpikā on SK 43).
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

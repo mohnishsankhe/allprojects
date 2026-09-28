@@ -6,7 +6,7 @@
 **Alternate names:** Lākula-Pāśupata, followers of the lokātīta (skull) observance, Kālamukha / Kālāmukha (identification by scholarship)
 **Parent:** [Atimārga](atimarga.md)
 **Sub-lineages:** [Kālāmukha](kalamukha.md)
-**Founders:** `tch:lakulisa`
+**Founders:** [Lakulīśa](../teachers/lakulisa.md)
 **Regions:** known through Kashmirian and Nepalese scriptural sources, Karnataka (as the Kālāmukhas)
 **Dates:** Scholarly account: attested in Śaiva scriptures from c. 6th–7th c. (Niśvāsa corpus) and, as Kālāmukhas, in inscriptions c. 9th–14th c.; (confidence low)
 **Status:** extinct
@@ -36,10 +36,10 @@ The Lākulas form the second division of the Atimārga. They are known almost on
 [Niśvāsamukha](../texts/nisvasamukha.md), [Svacchandatantra (Svacchandabhairavatantra)](../texts/svacchanda-tantra.md)
 
 ## Teachers
-_none recorded_
+[Kedāraśakti](../teachers/kedarasakti.md), [Lakulīśa](../teachers/lakulisa.md), [Vāmaśakti](../teachers/vamasakti.md)
 
 ## Practices
-_none recorded_
+[The great vow of the skull (mahāvrata, kapālavrata)](../practices/mahavrata-kapala.md)
 
 ## Path maps
 _none recorded_
@@ -50,4 +50,4 @@ _none recorded_
 _Notes: Low confidence throughout; reconstruction depends on A. Sanderson's work on the Niśvāsamukha and the Lākulas (scholarly metadata only)._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 08:09 IST._

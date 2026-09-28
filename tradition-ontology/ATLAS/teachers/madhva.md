@@ -3,7 +3,7 @@
 `tch:madhva` · `skeleton` · confidence high
 
 **Alternate names:** Madhvācārya, Ānandatīrtha, Pūrṇaprajña, Pūrṇabodha, Vāsudeva (birth name, tradition), Daśapramati, Śrīmad Ācārya, Bhagavatpāda (in colophons)
-**Lineages:** [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md), `lin:vedanta`, [The eight maṭhas of Uḍupi (aṣṭa-maṭha)](../lineages/udupi-asta-matha.md)
+**Lineages:** [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md), [Vedānta (Uttara Mīmāṃsā)](../lineages/vedanta.md), [The eight maṭhas of Uḍupi (aṣṭa-maṭha)](../lineages/udupi-asta-matha.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
 **Dates:** Tradition's account: the tradition's own reckoning: born when 4,300 years of the Kali age had passed (Mahābhārata-tātparya-nirṇaya 32.120 = c. 1199 CE) and lived 79 years (to c. 1278); a second traditional reckoning, widely used by the maṭhas, gives 1238–1317; Scholarly account: c. 1238–1317 CE (B. N. K. Sharma, from the epigraphic dates of his disciple Narahari Tīrtha, 1264–1293); some earlier scholars followed 1197/1199–1276/1278; (confidence moderate)
 **Places:** Pājaka (near Uḍupi), Uḍupi, Badarī and Uttara Badarī (Himālaya), Viṣṇumaṅgala (Kasaragod)
 **Historicity:** historical
@@ -57,4 +57,4 @@ Founder of Dvaita Vedānta (Tattvavāda). Born at Pājaka near Uḍupi to Madhya
 _Notes: Scholarly and traditional dates are given in 'dating'. The Uḍupi Kṛṣṇa image is said in the tradition to have come ashore in a block of gopīcandana clay from a ship — not verified in this pass. His mother's name (Vedavatī in later tradition) was not found in the Sumadhvavijaya e-text by a simple search._
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

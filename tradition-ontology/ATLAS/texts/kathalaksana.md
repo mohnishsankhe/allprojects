@@ -17,5 +17,19 @@
 one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); the second of the ten short treatises (daśa-prakaraṇa); it defines the three kinds of debate among the learned — vāda, jalpa and vitaṇḍā — and the rules by which truth-directed debate (vāda) is to be conducted.
 **Commentaries on this text:** [Kathālakṣaṇa-ṭīkā (Jayatīrtha)](kathalaksana-tika-jayatirtha.md)
 
+## Teachings (1: skeleton 1)
+
+### 2 <a id="tea-kathalaksana-2"></a>
+`skeleton` · confidence moderate
+
+Debate among the learned is of three kinds — vāda, jalpa and vitaṇḍā; (vāda) aims solely at determining the truth, as between teacher and disciple.
+
+> vādo jalpo vitaṇḍeti trividhā viduṣāṃ kathā | tattvanirṇayam uddiśya kevalaṃ guruśiṣyayoḥ ||2||
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: intermediate · types: teacher-transmission, sound-language_
+
+terms: [vāda](../terms/vada.md), [jalpa](../terms/jalpa.md), [vitaṇḍā](../terms/vitanda.md) · practices: [Debate for determining the truth (vāda)](../practices/vada-tattvanirnaya.md)
+
+
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

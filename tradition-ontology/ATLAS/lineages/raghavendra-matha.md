@@ -15,8 +15,17 @@ The Mādhva maṭha whose pontiffs included Surendra Tīrtha, Vijayīndra Tīrth
 - Shares the Dvaita doctrine of lin:dvaita without doctrinal difference; distinct as an institutional line of ascetic pontiffs (guru-paramparā), with its own images, brindāvanas and observances.
 
 
+## The ultimate in this lineage
+`skeleton` · confidence moderate
+
+**Names:** Viṣṇu (Hari, Nārāyaṇa)
+**Descriptions:** The Rāghavendra Maṭha holds the Dvaita teaching on the ultimate without variation; see ult:dvaita.
+**Relation to self:** As in ult:dvaita.
+**Relation to world:** As in ult:dvaita.
+**Caveat:** As in ult:dvaita; the maṭha has no separate doctrine of the ultimate.
+
 ## Texts
-[Nyāyasudhā-parimala](../texts/nyayasudha-parimala.md), `src:tantradipika`, [Tattvaprakāśikā-bhāvadīpa](../texts/tattvaprakasika-bhavadipa.md)
+[Nyāyasudhā-parimala](../texts/nyayasudha-parimala.md), [Tantradīpikā (Rāghavendra)](../texts/tantradipika-raghavendra.md), [Tattvaprakāśikā-bhāvadīpa](../texts/tattvaprakasika-bhavadipa.md)
 
 ## Teachers
 [Appaṇṇācārya](../teachers/appannacarya.md), [Rāghavendra Tīrtha](../teachers/raghavendra-tirtha.md), [Sudhīndra Tīrtha](../teachers/sudhindra-tirtha.md), [Surendra Tīrtha](../teachers/surendra-tirtha.md), [Vijayīndra Tīrtha](../teachers/vijayindra-tirtha.md)
@@ -33,4 +42,4 @@ _none recorded_
 _Notes: Its descent from Madhva via the Kavīndra Tīrtha line and a later division (Vibudhendra Tīrtha) is recorded at low confidence._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

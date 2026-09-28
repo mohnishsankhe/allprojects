@@ -12,4 +12,4 @@
 Author of the Vyomavatī, the oldest extant commentary on the Padārthadharmasaṅgraha; a Śaiva ācārya.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._

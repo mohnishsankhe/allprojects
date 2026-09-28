@@ -24,7 +24,30 @@ The thousand names of Viṣṇu, taught by Bhīṣma to Yudhiṣṭhira in answe
   - kind: original; name: sanskrit/raw_etexts (vaiShNavam/mahAbhAratam/viShNu-sahasranAma-stotram); licence: open (repository terms); url: https://github.com/sanskrit/raw_etexts
 **Commentaries on this text:** [Bhagavadguṇadarpaṇa of Parāśara Bhaṭṭar](bhagavadgunadarpana.md), [Viṣṇusahasranāmabhāṣya (attributed to Śaṅkara)](visnu-sahasranama-bhasya-sankara.md)
 
+## Teachings (2: skeleton 2)
+
+### 13.135 <a id="tea-visnu-sahasranama-13-135"></a>
+`skeleton` · confidence high
+
+Asked by Yudhiṣṭhira which is the one deity, the highest refuge, and by what recitation a person is freed from the bondage of saṃsāra, Bhīṣma teaches the thousand names of Viṣṇu, whose recitation removes fear and sin.
+
+_level: bridging · standpoint: devotional · path: sound, devotion · stage: all · types: sound-language, karma-liberation, practice_
+
+practices: [Recitation of the thousand names of Viṣṇu](../practices/visnu-sahasranama-recitation.md), [Recitation (japa)](../practices/japa.md) · teachers: [Bhīṣma (Devavrata, Gāṅgeya)](../teachers/bhisma.md), [Yudhiṣṭhira (Dharmarāja)](../teachers/yudhisthira.md)
+
+### 13.135.14 <a id="tea-visnu-sahasranama-13-135-14"></a>
+`skeleton` · confidence high
+
+The names begin: Viṣva (the All), Viṣṇu (the Pervader), Vaṣaṭkāra (the sacrificial call), Lord of past, future and present, maker and sustainer of beings, Being, the self of beings, the one who makes beings flourish.
+
+> viśvaṃ viṣṇur vaṣaṭkāro bhūtabhavyabhavatprabhuḥ bhūtakṛd bhūtabhṛd bhāvo bhūtātmā bhūtabhāvanaḥ
+
+_level: ultimate · standpoint: devotional · path: sound, devotion · stage: all · types: sound-language, ultimate_
+
+practices: [Recitation of the thousand names of Viṣṇu](../practices/visnu-sahasranama-recitation.md) · teachers: [Bhīṣma (Devavrata, Gāṅgeya)](../teachers/bhisma.md)
+
+
 _Notes: Commentaries attributed to Śaṅkara (src:visnu-sahasranama-bhasya-sankara) and by Parāśara Bhaṭṭar (src:bhagavadgunadarpana)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

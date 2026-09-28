@@ -17,7 +17,19 @@ Cēnnās Nārāyaṇan Nampūtirippāṭ's manual of Kerala temple ritual, the s
   - kind: original; name: Trivandrum Sanskrit Series, with the Vimarśinī commentary (early 20th c.)
 **Commentaries on this text:** [Vimarśinī (commentary on the Tantrasamuccaya)](tantrasamuccaya-vimarsini.md)
 
+## Teachings (1: skeleton 1)
+
+### 1 <a id="tea-tantrasamuccaya-1"></a>
+`skeleton` · confidence low
+
+The work sets out its subject: the rites of installation and worship for seven deities — Viṣṇu, Śiva, Śaṅkaranārāyaṇa, Durgā, Subrahmaṇya, Gaṇapati and Śāstā.
+
+_level: conventional · standpoint: ritual · path: ritual · stage: all · types: practice_
+
+concepts: [The seven deities of the Tantrasamuccaya](../concepts/seven-deities-of-tantrasamuccaya.md) · practices: [Installation and consecration (pratiṣṭhā)](../practices/pratistha.md)
+
+
 _Notes: Chapter count, the seven-deity list and the TSS details are from memory (moderate/low); not found in the local corpora. Its architectural chapters are also relevant to U58 (Vāstu/Śilpa)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

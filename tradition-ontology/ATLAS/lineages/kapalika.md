@@ -33,21 +33,21 @@ The Kāpālikas, 'skull-men', were Śaiva ascetics who kept the great vow of the
 **Caveat:** Known almost entirely through opponents and satirists; no Kāpālika scripture has been identified with certainty. Somasiddhānta, the name of their doctrine, is attested; its content is not.
 
 ## Texts
-[Āgamaprāmāṇya](../texts/agamapramanya.md), `src:gathasaptasati`, `src:harsacarita`, `src:malatimadhava`, `src:mattavilasa-prahasana`, `src:prabodhacandrodaya`, `src:sankaradigvijaya`, `src:sribhasya`, `src:yasastilaka`
+[Āgamaprāmāṇya](../texts/agamapramanya.md), [Da Tang Xiyu Ji (Records of the Western Regions of the Great Tang)](../texts/da-tang-xiyu-ji.md), [Gāthāsaptaśatī](../texts/gathasaptasati.md), [Harṣacarita](../texts/harsacarita.md), [Mālatīmādhava](../texts/malatimadhava.md), [Mattavilāsa-prahasana](../texts/mattavilasa-prahasana.md), [Prabodhacandrodaya](../texts/prabodhacandrodaya.md), [Śaṅkaradigvijaya (Mādhavīya)](../texts/sankaradigvijaya.md), [Śrībhāṣya](../texts/sribhasya.md), [Yaśastilaka](../texts/yasastilaka.md)
 
 ## Teachers
 _none recorded_
 
 ## Practices
-_none recorded_
+[Meditation on the self seated in the yoni (reported)](../practices/bhagasana-dhyana.md), [The great vow of the skull (mahāvrata, kapālavrata)](../practices/mahavrata-kapala.md), [Wearing the six insignia (reported)](../practices/mudrika-satka-dharana.md), [Night rite in the great cremation ground (literary)](../practices/vetala-sadhana.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[Who may be initiated into the Atimārga observances: brahmin men only, or anyone?](../debates/atimarga-initiation-eligibility.md), [Is the Kāpālika way (skull vow, insignia, liquor, consort, Bhairava rites) a path to liberation?](../debates/kapalika-path-validity.md)
 
 _Notes: Almost every statement about Kāpālika doctrine comes from opponents or satirists and is tagged reported_by_opponent. Continuity with later Aghorīs is a hypothesis, not a documented lineage._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 08:09 IST._

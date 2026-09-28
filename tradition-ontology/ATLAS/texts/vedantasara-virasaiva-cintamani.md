@@ -12,4 +12,4 @@ A Sanskrit work presenting Vīraśaiva teaching as the essence of Vedānta; it q
   - kind: original; name: Muktabodha digital library e-text M00618 (print 1905)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._

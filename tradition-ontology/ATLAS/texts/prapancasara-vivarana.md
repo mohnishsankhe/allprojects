@@ -8,10 +8,10 @@
 **Genre:** commentary
 **Commentary on:** [Prapañcasāra](prapancasara.md)
 **Authors:** 
-  - `tch:padmapada` — role: commentator; attribution: traditional
+  - [Padmapāda](../teachers/padmapada.md) — role: commentator; attribution: traditional
 **Availability:** unknown
 
 Commentary on the Prapañcasāra attributed to Padmapāda.
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

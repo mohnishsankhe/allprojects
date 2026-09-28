@@ -16,5 +16,15 @@
 
 The Earth mocks kings who fight to possess her though they themselves are mortal; the passage teaches the vanity of conquest and possession.
 
+## Teachings (1: skeleton 1)
+
+### 12.3.1-13 <a id="tea-bhu-gita-bhagavata-12-3-1-13"></a>
+`skeleton` · confidence moderate · [AI-translated]
+
+The Earth laughs at kings bent on conquering her: they cannot conquer their own senses, yet fight their kin for her, and all of them perish, leaving only stories.
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics, world-fate_
+
+
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

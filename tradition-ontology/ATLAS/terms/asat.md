@@ -1,0 +1,20 @@
+# asat
+
+`trm:asat` · `skeleton` · confidence high
+
+**Language:** Sanskrit
+**Native script:** असत्
+**Literal:** non-being
+
+## Definitions by tradition
+- [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): Non-being or the non-existent, in which the seers found the bond of being (RV 10.129.4); from it being was born (10.72.2–3).
+- [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Non-being: some said this was non-being in the beginning (rejected in ChU 6.2.1-2); TU 2.7 and ChU 3.19.1 say non-being was first and being came from it.
+
+## Forms in other languages
+
+## Equivalents (interpretation layer)
+- same-under-standpoint: [avyakta](avyakta.md) (Advaita commentary) — Śaṅkara reads the asat of creation texts as the unmanifest (unmanifested name and form), not absolute nothing; the Saṃhitā does not say so.
+**Related:** [sat](sat.md)
+
+---
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._

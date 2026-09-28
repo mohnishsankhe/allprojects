@@ -16,4 +16,4 @@ Gadādhara Bhaṭṭācārya's treatise on the denotative power (śakti) of word
   - kind: original; name: sanskrit/raw_etexts (github.com/sanskrit/raw_etexts) nyAya-shAstram/shaktivAdaH (with Mañjūṣā and Vinodinī); licence: see repository; url: https://github.com/sanskrit/raw_etexts
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._

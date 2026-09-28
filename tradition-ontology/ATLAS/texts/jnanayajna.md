@@ -9,11 +9,11 @@
 **Genre:** bhāṣya (commentary)
 **Commentary on:** [Taittirīya Saṃhitā](taittiriya-samhita.md)
 **Authors:** 
-  - `tch:bhatta-bhaskara` — role: commentator; attribution: accepted
+  - [Bhaṭṭa Bhāskara Miśra](../teachers/bhatta-bhaskara.md) — role: commentator; attribution: accepted
 **Dates:** Scholarly account: c. 11th century CE (low confidence); (confidence low)
 **Availability:** digitized-original
 
 Bhaṭṭa Bhāskara Miśra's commentary on the Taittirīya Saṃhitā (and Brāhmaṇa and Āraṇyaka), older than Sāyaṇa's and often cited for its accentual and ritual explanations.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

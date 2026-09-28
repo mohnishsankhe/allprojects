@@ -19,7 +19,19 @@ The 'first' Purāṇa: creation, Bhū-maṇḍala and genealogies, the māhātmy
 **Editions / translations:** 
   - kind: original; name: Brahmapurāṇa, ed. P. Schreiner & R. Söhnen-Thieme (GRETIL e-text); licence: research e-text
 
+## Teachings (1: skeleton 1)
+
+### 243.20 <a id="tea-brahma-purana-243-20"></a>
+`skeleton` · confidence high
+
+What the yogins see, the Sāṃkhyas also reach; one who sees Sāṃkhya and Yoga as one is wise.
+
+> yad eva yogāḥ paśyanti sāṃkhyaṃ tad anugamyate / ekaṃ sāṃkhyaṃ ca yogaṃ ca yaḥ paśyati sa buddhimān
+
+_level: bridging · standpoint: analytic · path: knowledge, meditation · stage: all · types: dispute, practice_
+
+
 _Notes: Chapters c. 234-245 contain Sāṃkhya-yoga dialogues (e.g. 240.96; 243.20 'ekaṃ sāṃkhyaṃ ca yogaṃ ca yaḥ paśyati sa buddhimān'); chapter checked in the GRETIL e-text of the Brahma Purāṇa (Schreiner & Söhnen-Thieme)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._

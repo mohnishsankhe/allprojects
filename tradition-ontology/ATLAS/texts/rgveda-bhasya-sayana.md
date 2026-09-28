@@ -6,11 +6,11 @@
 **Original title:** वेदार्थप्रकाशः (ऋग्वेदभाष्यम्)
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Śākala śākhā (Ṛgveda)](../lineages/sakha-sakala.md), `lin:mimamsa`
+**Lineages:** [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Śākala śākhā (Ṛgveda)](../lineages/sakha-sakala.md), [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md)
 **Genre:** bhāṣya (commentary)
 **Commentary on:** [Ṛgveda Saṃhitā](rgveda.md)
 **Authors:** 
-  - `tch:sayana` — role: commentator; attribution: accepted
+  - [Sāyaṇa](../teachers/sayana.md) — role: commentator; attribution: accepted
 **Attribution:** tradition: Sāyaṇa (the commentaries are also called 'Mādhavīya', after his brother Mādhava); scholarly: composed by Sāyaṇa with collaborators, 14th century; confidence: high
 **Dates:** Scholarly account: 14th century CE (Sāyaṇa d. 1387); (confidence moderate)
 **Availability:** digitized-original
@@ -20,7 +20,19 @@ The complete classical commentary on the Ṛgveda, produced at Vijayanagara unde
   - kind: original; name: F. Max Müller (1849–74); licence: public domain
   - kind: original; name: Vaidika Saṃśodhana Maṇḍala, Poona (1933–51)
 
+## Teachings (1: skeleton 1)
+
+### upodghata <a id="tea-rgveda-bhasya-sayana-upodghata"></a>
+`skeleton` · confidence low
+
+The Veda is that text which makes known the supernatural means (alaukika upāya) of obtaining the desired and avoiding the undesired; it is authoritative in itself, being authorless.
+
+_level: conventional · standpoint: analytic · path: ritual · stage: all · types: teacher-transmission, dispute_
+
+terms: [apauruṣeya](../terms/apauruseya.md), [śruti](../terms/sruti.md) · teachers: [Sāyaṇa](../teachers/sayana.md) · disputes: [Were the hymns 'seen' by the seers or 'fashioned' by poets?](../debates/seen-or-made-hymns.md), `dsp:status-of-veda`
+
+
 _Notes: Sāyaṇa also commented on the Taittirīya, Sāma and Atharva Saṃhitās and on Brāhmaṇas and Āraṇyakas._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

@@ -9,11 +9,11 @@
 **Genre:** bhāṣya (commentary)
 **Commentary on:** [Vājasaneyi Saṃhitā (Mādhyandina)](vajasaneyi-samhita.md)
 **Authors:** 
-  - `tch:uvata` — role: commentator; attribution: accepted
+  - [Uvaṭa](../teachers/uvata.md) — role: commentator; attribution: accepted
 **Dates:** Scholarly account: 11th century CE; (confidence moderate)
 **Availability:** digitized-original
 
 Uvaṭa's commentary on the Mādhyandina Saṃhitā, composed (by his own report) at Avantī under King Bhoja; Uvaṭa also commented on the Ṛgveda Prātiśākhya.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

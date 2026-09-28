@@ -20,7 +20,28 @@
 one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); a verse commentary on the first forty hymns of the Ṛgveda (1.1–1.40), opening with the claim that Nārāyaṇa alone is the meaning of all the Vedas, all śāstras and all words, and explaining names such as Agni as primarily designating Janārdana.
 **Commentaries on this text:** [Ṛgarthoddhāra](rgarthoddhara.md), [Ṛgbhāṣya-ṭīkā (Jayatīrtha)](rgbhasya-tika-jayatirtha.md)
 
+## Teachings (2: skeleton 2)
+
+### 1.1 <a id="tea-rgbhasya-madhva-1-1"></a>
+`skeleton` · confidence high
+
+In the first hymn the word 'Agni' primarily names Janārdana: 'agni' because he is foremost (agra) and leads (nī); as Bādarāyaṇa has explained, words such as Agni apply (primarily) to Janārdana.
+
+_level: ultimate · standpoint: analytic · path: knowledge, sound · stage: intermediate · types: sound-language_
+
+terms: [sarva-śabda-vācyatva](../terms/sarvasabdavacyatva.md) · concepts: [All words denote Viṣṇu (sarva-śabda-vācyatva)](../concepts/sarvasabdavacyatva.md)
+
+### intro <a id="tea-rgbhasya-madhva-intro"></a>
+`skeleton` · confidence high
+
+Having bowed to Nārāyaṇa, full of all qualities, free of defects, lord of all, the meaning of the Ṛks is told. Om designates him as the support of all qualities; he is the meaning of the Gāyatrī as the impeller of all intellects and the Puruṣa of the Puruṣa-sūkta; he alone is the meaning of all the Vedas, of all śāstras and of all words, as the supreme Upaniṣad says.
+
+_level: ultimate · standpoint: analytic · path: knowledge, sound · stage: all · types: sound-language, ultimate_
+
+terms: [sarva-śabda-vācyatva](../terms/sarvasabdavacyatva.md), [praṇava](../terms/pranava.md) · concepts: [All words denote Viṣṇu (sarva-śabda-vācyatva)](../concepts/sarvasabdavacyatva.md)
+
+
 _Notes: Coverage of sūktas 1–40 and the opening verses checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

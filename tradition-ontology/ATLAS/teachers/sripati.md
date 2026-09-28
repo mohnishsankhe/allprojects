@@ -4,11 +4,12 @@
 
 **Alternate names:** Śrīpati, Śrīpati Paṇḍitārādhya
 **Lineages:** [Vīraśaiva / Liṅgāyata](../lineages/virasaiva.md), [Pañcācārya (Pañcapīṭha) tradition](../lineages/pancacarya.md)
+**Dates:** Scholarly account: c. 14th c. CE (disputed); (confidence low)
 **Historicity:** historical
 **Works:** 
-  - `src:srikarabhasya` — attribution: accepted
+  - [Śrīkarabhāṣya](../texts/srikarabhasya.md) — attribution: accepted
 
-Author of the Śrīkarabhāṣya, the Vīraśaiva commentary on the Brahmasūtra that names the doctrine Śakti-viśiṣṭādvaita (philosophy owned by U16; this entry records the Vīraśaiva lineage link).
+Author of the Śrīkarabhāṣya on the Brahma Sūtras, the Vīraśaiva Śakti-viśiṣṭādvaita: Śiva and soul, both qualified by Śakti, are non-dual; liberation is liṅgāṅga-sāmarasya.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._

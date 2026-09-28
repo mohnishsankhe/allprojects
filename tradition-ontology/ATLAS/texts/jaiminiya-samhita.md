@@ -16,4 +16,4 @@ The Sāmaveda Saṃhitā of the Jaiminīya (Talavakāra) school, with its own so
   - kind: original; name: W. Caland, Die Jaiminīya-Saṃhitā (1907); licence: public domain
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

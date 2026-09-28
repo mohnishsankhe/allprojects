@@ -2,7 +2,7 @@
 
 `tch:kesava-kasmiri` · `skeleton` · confidence low
 
-**Lineages:** `lin:dvaitadvaita`
+**Lineages:** [Dvaitādvaita (Nimbārka Sampradāya)](../lineages/dvaitadvaita.md)
 **Dates:** Scholarly account: c. 15th–16th c. CE; (confidence low)
 **Historicity:** historical
 **Works:** 
@@ -11,4 +11,4 @@
 Nimbārka-school teacher credited with a Gītā commentary (Tattvaprakāśikā).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

@@ -1,0 +1,17 @@
+# bhikṣā
+
+`trm:bhiksa` · `skeleton` · confidence moderate
+
+**Language:** Sanskrit
+**Native script:** भिक्षा
+**Literal:** alms
+
+## Definitions by tradition
+- [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](../lineages/sannyasa.md): Food begged by the renouncer; five kinds; better than unsolicited food.
+
+## Forms in other languages
+
+## Equivalents (interpretation layer)
+
+---
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._

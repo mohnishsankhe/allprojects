@@ -12,4 +12,4 @@
 Vaiṣṇava lay dharma: vows, worship of Vāsudeva, merit and its fruits.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._

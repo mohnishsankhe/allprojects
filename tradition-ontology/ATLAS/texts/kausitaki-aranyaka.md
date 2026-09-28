@@ -5,7 +5,7 @@
 **Alternate titles:** Śāṅkhāyana Āraṇyaka
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), `lin:upanisadic`
+**Lineages:** [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 **Genre:** āraṇyaka
 **Structure:** 15 adhyāyas (3–6 = Kauṣītaki Upaniṣad)
 **Availability:** digitized-original
@@ -15,4 +15,4 @@ The Āraṇyaka of the Kauṣītaki/Śāṅkhāyana Ṛgveda: after chapters on 
 _Notes: Order of chapters 7–15 given from memory at chapter level (low confidence)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._

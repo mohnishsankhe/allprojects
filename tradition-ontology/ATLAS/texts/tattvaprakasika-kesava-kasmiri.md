@@ -5,7 +5,7 @@
 **Original title:** तत्त्वप्रकाशिका
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:dvaitadvaita`
+**Lineages:** [Dvaitādvaita (Nimbārka Sampradāya)](../lineages/dvaitadvaita.md)
 **Genre:** commentary (bhāṣya/ṭīkā)
 **Commentary on:** [Bhagavad Gītā](bhagavad-gita.md)
 **Authors:** 
@@ -18,4 +18,4 @@ A Gītā commentary of the Nimbārka (Dvaitādvaita) school.
 _Notes: Title and date recalled, not checked (low)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

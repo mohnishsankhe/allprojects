@@ -1,0 +1,17 @@
+# Baudhāyana Śrautasūtra
+
+`src:baudhayana-srautasutra` · `skeleton` · confidence moderate
+
+**Language:** Sanskrit
+**Family:** vedic
+**Lineages:** [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
+**Genre:** śrautasūtra
+**Part of:** [Baudhāyana Kalpasūtra](baudhayana-kalpasutra.md)
+**Authors:** 
+  - [Baudhāyana](../teachers/baudhayana.md) — role: author; attribution: traditional
+**Availability:** digitized-original
+
+The oldest Śrautasūtra of the Taittirīya school, discursive in style and close to the Brāhmaṇas.
+
+---
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._

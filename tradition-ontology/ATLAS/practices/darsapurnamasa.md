@@ -1,0 +1,20 @@
+# New- and full-moon offerings (darśapūrṇamāsa)
+
+`prc:darsapurnamasa` · `skeleton` · confidence high
+
+**Category:** ritual
+**Convergence:** 2 independent lineage(s): [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
+**Taught in:** [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md), [Kāṇva śākhā (White Yajurveda)](../lineages/sakha-kanva.md), [Kauthuma śākhā (Sāmaveda)](../lineages/sakha-kauthuma.md), [Mādhyandina śākhā (White Yajurveda)](../lineages/sakha-madhyandina.md), [Maitrāyaṇīya śākhā (Black Yajurveda)](../lineages/sakha-maitrayaniya.md), [Śākala śākhā (Ṛgveda)](../lineages/sakha-sakala.md), [Taittirīya śākhā (Black Yajurveda)](../lineages/sakha-taittiriya.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
+
+The fortnightly offerings of cakes and other substances at new and full moon, the model (prakṛti) of all iṣṭi rites; the White Yajurveda begins with its formulas.
+**Stage:** householder with the sacred fires
+**Duration:** each new and full moon
+**Sources:** 
+  - [Vājasaneyi Saṃhitā (Mādhyandina)](../texts/vajasaneyi-samhita.md) — ref: 1–2; rests_on: ["tea:vajasaneyi-samhita:1.1", "tea:vajasaneyi-samhita:1.5"]
+  - [Śatapatha Brāhmaṇa (Mādhyandina)](../texts/satapatha-brahmana.md) — ref: 1.1.1; 1.6.3.35-36; rests_on: ["tea:satapatha-brahmana:1.1.1.4-5", "tea:satapatha-brahmana:1.6.3.35-36"]
+  - [Arthasaṅgraha](../texts/arthasangraha.md) — ref: viniyoga; rests_on: ["tea:arthasangraha:viniyoga"]
+  - [Mīmāṃsā Sūtra](../texts/mimamsa-sutra.md) — ref: 6.1.1-3; rests_on: ["tea:mimamsa-sutra:6.1.1-3"]
+**Sequences:** [The Vedic ritual career: from initiation to the soma rites and the world of the fathers](../paths/srauta-sequence.md)
+
+---
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa. Generated 2026-09-28 08:09 IST._

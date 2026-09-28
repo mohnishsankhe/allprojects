@@ -6,7 +6,7 @@
 **Original title:** महामृत्युञ्जयमन्त्रः
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Śākala śākhā (Ṛgveda)](../lineages/sakha-sakala.md), `lin:saiva-siddhanta`
+**Lineages:** [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Śākala śākhā (Ṛgveda)](../lineages/sakha-sakala.md), [Śaiva Siddhānta](../lineages/saiva-siddhanta.md)
 **Genre:** sūkta
 **Part of:** [Ṛgveda Saṃhitā](rgveda.md)
 **Location in parent:** 7.59.12
@@ -20,4 +20,4 @@ The verse to the three-eyed (or three-mothered) one, Tryambaka: 'we worship Trya
 _Notes: Also TS 1.8.6.2 and VS 3.60 (both checked); VS 3.60 adds a second form for maidens ('pativedanam … ito mukṣīya māmutaḥ'); the Atharvaveda marriage book has a parallel addressed to Aryaman (AVŚ 14.1.17)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

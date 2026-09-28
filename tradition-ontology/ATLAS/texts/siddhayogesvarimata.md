@@ -18,4 +18,4 @@ The earliest surviving Trika tantra of the Vidyāpīṭha, teaching the worship 
 _Notes: Edition details from memory; low confidence._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

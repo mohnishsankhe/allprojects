@@ -14,4 +14,4 @@
 Vāmanadatta's short verse text (45 verses) on the rise of self-awareness through non-dual contemplation.
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

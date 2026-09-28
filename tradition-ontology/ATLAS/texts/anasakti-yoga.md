@@ -15,4 +15,4 @@
 Gandhi's Gujarati rendering of and introduction to the Gītā, reading its central teaching as renunciation of the fruits of action (anāsakti) and its battle as the inner struggle between good and evil, compatible with non-violence.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

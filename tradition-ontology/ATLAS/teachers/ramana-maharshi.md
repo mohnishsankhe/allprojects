@@ -8,4 +8,4 @@
 In U06's context (recent reception): recommended the Ṛbhu Gītā, which was read aloud in his presence, and quoted the Yoga Vāsiṣṭha and the Aṣṭāvakra Gītā.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

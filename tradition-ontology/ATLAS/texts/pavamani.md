@@ -15,4 +15,4 @@
 The ninth maṇḍala: 114 hymns to Soma 'self-purifying' (pavamāna) as the juice flows through the woollen filter, gathered from all the priestly families. The book ends with Kaśyapa's prayer to be made immortal in the world of inexhaustible light (9.113); its own verses say that whoever studies these pāvamānī verses eats purified food (9.67.31).
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

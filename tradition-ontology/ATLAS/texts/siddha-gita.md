@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:advaita-vedanta`
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md)
 **Genre:** gītā
 **Part of:** [Yoga Vāsiṣṭha](yoga-vasistha.md)
 **Location in parent:** Yoga Vāsiṣṭha / Mokṣopāya 5.8 (MU colophon 'siddhagītā' verified)
@@ -14,5 +14,17 @@
 
 Janaka overhears Siddhas singing of the witness-consciousness beyond seer and seen and is awakened; he then reflects (5.9-10) and resolves to live as one liberated while ruling.
 
+## Teachings (1: skeleton 1)
+
+### 5.8 <a id="tea-siddha-gita-5-8"></a>
+`skeleton` · confidence moderate · [AI-translated]
+
+Songs of the Siddhas overheard by Janaka: we worship the Self, the pure witness in which the seer, the seeing and the seen arise and dissolve, the bliss that is experienced when subject meets object without mental elaboration; those who seek anything else abandon the jewel in their hand.
+
+_level: ultimate · standpoint: absolute · path: knowledge, meditation · stage: advanced · types: ultimate, consciousness-mind_
+
+terms: [sākṣin](../terms/saksin.md) · teachers: [Janaka of Videha](../teachers/janaka.md)
+
+
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

@@ -16,7 +16,19 @@
 
 Ṛṣabha tells of the lean sage Tanu: hope (āśā) is thinner and more tenacious than anything; one should abandon it.
 
+## Teachings (1: skeleton 1)
+
+### 12.125-128 <a id="tea-rsabha-gita-12-125-128"></a>
+`skeleton` · confidence moderate · [AI-translated]
+
+Ṛṣabha tells King Sumitra the story of the sage Tanu, thin as a finger: hope is thinner still and harder to cut; one who gives up hope is at peace.
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: all · types: ethics_
+
+obstacles: [Hope, expectation (āśā)](../obstacles/asa.md)
+
+
 _Notes: Not to be confused with Ṛṣabhadeva's teaching to his sons in Bhāgavata Purāṇa 5.5._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

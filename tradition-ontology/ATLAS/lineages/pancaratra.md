@@ -27,9 +27,9 @@ The Pāñcarātra is the Vaiṣṇava tantric tradition of revealed saṃhitās 
 **Transmissions received:** 
   - [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](bhagavata-early.md) — what: the Bhāgavata/Sātvata worship of Vāsudeva and the vyūha doctrine; evidence: tradition-account and the Mahābhārata's Nārāyaṇīya
 **Transmissions given:** 
-  - `lin:visistadvaita` — what: temple ritual, the five forms of God, and scriptural support for surrender (prapatti)
+  - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](visistadvaita.md) — what: temple ritual, the five forms of God, and scriptural support for surrender (prapatti)
   - [Kerala tantra (temple-tantra tradition of Kerala)](kerala-tantra.md) — what: Viṣṇu ritual (e.g. the Viṣṇu Saṃhitā; Viṣṇu chapters of the Tantrasamuccaya)
-  - `lin:gaudiya-vaisnava` — what: ritual procedures later adapted in Gauḍīya manuals
+  - [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](gaudiya-vaisnava.md) — what: ritual procedures later adapted in Gauḍīya manuals
 
 ## The ultimate in this lineage
 `skeleton` · confidence moderate
@@ -45,18 +45,18 @@ The Pāñcarātra is the Vaiṣṇava tantric tradition of revealed saṃhitās 
 [Āgamaprāmāṇya](../texts/agamapramanya.md), [Agastya Saṃhitā](../texts/agastya-samhita.md), [Ahirbudhnya Saṃhitā](../texts/ahirbudhnya-samhita.md), [Aniruddha Saṃhitā](../texts/aniruddha-samhita.md), [Bharadvāja Saṃhitā](../texts/bharadvaja-samhita.md), [Bhārgava Tantra](../texts/bhargava-tantra.md), [Hayaśīrṣa Pañcarātra](../texts/hayasirsa-pancaratra.md), [Īśvara Saṃhitā](../texts/isvara-samhita.md), [Jayākhya Saṃhitā](../texts/jayakhya-samhita.md), [Jñānāmṛtasāra Saṃhitā (Nārada Pañcarātra)](../texts/jnanamrtasara-samhita.md), [Kapiñjala Saṃhitā](../texts/kapinjala-samhita.md), [Kāśyapa Saṃhitā (Pāñcarātra)](../texts/kasyapa-samhita-pancaratra.md), [Lakṣmī Tantra](../texts/laksmi-tantra.md), [Nāradīya Saṃhitā](../texts/naradiya-samhita.md), [Nārāyaṇīya](../texts/narayaniya.md), [Pādma Saṃhitā](../texts/padma-samhita.md), [Pāñcarātrarakṣā](../texts/pancaratraraksa.md), [Parama Saṃhitā](../texts/parama-samhita.md), [Pārameśvara Saṃhitā](../texts/paramesvara-samhita.md), [Pauṣkara Saṃhitā](../texts/pauskara-samhita.md), [Prakāśa Saṃhitā](../texts/prakasa-samhita.md), [Puruṣa Sūkta (Ṛgveda 10.90)](../texts/purusa-sukta.md), [Sanatkumāra Saṃhitā (Pāñcarātra)](../texts/sanatkumara-samhita.md), [Sātvata Saṃhitā](../texts/satvata-samhita.md), [Sātvata Tantra](../texts/satvata-tantra.md), [Śrīpraśna Saṃhitā](../texts/sriprasna-samhita.md), [Viṣṇu Saṃhitā](../texts/visnu-samhita.md), [Viṣvaksena Saṃhitā](../texts/visvaksena-samhita.md)
 
 ## Teachers
-[Alaśiṅga Bhaṭṭa](../teachers/alasinga-bhatta.md), [Nārada](../teachers/narada.md), [Śāṇḍilya](../teachers/sandilya.md), [Utpala Vaiṣṇava](../teachers/utpala-vaisnava.md), [Vedānta Deśika](../teachers/vedanta-desika.md), [Yāmunācārya](../teachers/yamuna.md)
+[Alaśiṅga Bhaṭṭa](../teachers/alasinga-bhatta.md), [Nārada](../teachers/narada.md), [Nārāyaṇa (seer of the Puruṣa Sūkta)](../teachers/narayana-rsi.md), [Śāṇḍilya](../teachers/sandilya.md), [Utpala Vaiṣṇava](../teachers/utpala-vaisnava.md), [Vedānta Deśika](../teachers/vedanta-desika.md), [Yāmunācārya](../teachers/yamuna.md)
 
 ## Practices
-_none recorded_
+[Fire offering (agnikārya, homa)](../practices/agnikarya.md), [Internal worship (antaryāga)](../practices/antaryaga.md), [Purification of the elements (bhūtaśuddhi)](../practices/bhutasuddhi.md), [Dīkṣā (consecration for sacrifice)](../practices/diksa.md), [Temple festival (mahotsava)](../practices/mahotsava.md), [Placing letters and syllables on the body (nyāsa)](../practices/nyasa.md), [The five daily periods (pañcakāla)](../practices/pancakala.md), [The five sacraments (pañcasaṃskāra, samāśrayaṇa)](../practices/pancasamskara.md), [Annual pavitra offering (pavitrārohaṇa)](../practices/pavitrarohana.md), [Installation and consecration (pratiṣṭhā)](../practices/pratistha.md), [Ritual worship of the deity (pūjā, arcana)](../practices/puja.md), [Preparatory mantra practice (puraścaraṇa)](../practices/purascarana.md), [Ritual hand gestures (mudrā) of Āgamic worship](../practices/ritual-mudras.md), [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md), [Temple-building rites from ploughing to installation (karṣaṇādi)](../practices/temple-building-rites.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[Are the Āgamas and tantras authoritative — equal to, above, or outside the Veda?](../debates/agama-veda-authority.md), [What occasions the descent of power (śaktipāta): the equality of karma, the maturing of impurity, or the Lord's free will alone?](../debates/cause-of-saktipata.md), [What does Ṛgveda 9.83.1 ('pavitraṃ te vitataṃ brahmaṇas pate… ataptatanūr na tad āmo aśnute') enjoin?](../debates/rv-9-83-1-pavitra.md), [Which system — the Vedic Vaikhānasa or the tantric Pāñcarātra — is the proper basis of Viṣṇu temple worship, and must a Vaiṣṇava receive the branding initiation?](../debates/vaikhanasa-pancaratra.md), [Is the Pāñcarātra a valid scripture, and does the Brahma Sūtra refute it?](../debates/validity-of-pancaratra.md)
 
 _Notes: family 'vedic' is the project's A/B classification (Brahmanical vs śramaṇa); it is not a claim that this tradition treats the Veda as its final authority._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

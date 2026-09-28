@@ -30,7 +30,7 @@ The early devotional religion of Nārāyaṇa-Vāsudeva (Kṛṣṇa) as found i
   - [Pāñcarātra](pancaratra.md) — what: the fourfold form (caturvyūha) and the Sātvata worship of Vāsudeva
   - [The Purāṇic tradition (paurāṇika)](puranic.md) — what: lists of the Lord's manifestations (prādurbhāva/avatāra) and Kṛṣṇa devotion (Harivaṃśa, Bhāgavata and Viṣṇu Purāṇas)
   - `lin:alvar` — what: devotion to Nārāyaṇa/Kṛṣṇa as the one refuge
-  - `lin:visistadvaita` — what: the Gītā, Nārāyaṇīya and Viṣṇu Sahasranāma as authorities for Nārāyaṇa's supremacy and surrender
+  - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](visistadvaita.md) — what: the Gītā, Nārāyaṇīya and Viṣṇu Sahasranāma as authorities for Nārāyaṇa's supremacy and surrender
 
 ## The ultimate in this lineage
 `skeleton` · confidence moderate
@@ -49,15 +49,15 @@ The early devotional religion of Nārāyaṇa-Vāsudeva (Kṛṣṇa) as found i
 [Apāntaratamas](../teachers/apantaratamas.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Bhīṣma (Devavrata, Gāṅgeya)](../teachers/bhisma.md), [Bṛhaspati](../teachers/brhaspati.md), [Devahūti](../teachers/devahuti.md), [Hiraṇyagarbha](../teachers/hiranyagarbha.md), [Janamejaya](../teachers/janamejaya.md), [Kapila](../teachers/kapila.md), [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Nārada](../teachers/narada.md), [Nārāyaṇa](../teachers/narayana.md), [Rāma (Dāśarathi)](../teachers/rama.md), [Uddhava](../teachers/uddhava.md), [Uparicara Vasu](../teachers/uparicara-vasu.md), [Vaiśampāyana](../teachers/vaisampayana.md), [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md)
 
 ## Practices
-_none recorded_
+[Remembering the Lord at the hour of death](../practices/antakala-smarana.md), [One-pointed worship of Nārāyaṇa (ekānta-bhakti)](../practices/ekantika-bhakti.md), [Study and hearing of the Gītā](../practices/gita-study.md), [Offering all actions to the Lord (mad-arpaṇa)](../practices/isvararpana.md), [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md), [Doing the Lord's work (mat-karma)](../practices/mat-karma.md), [Offering a leaf, flower, fruit or water with devotion](../practices/patram-puspam-offering.md), [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md), [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md), [Recitation of the thousand names of Viṣṇu](../practices/visnu-sahasranama-recitation.md)
 
 ## Path maps
-`pth:narayaniya-vyuha-ascent`, `pth:gita-devotion-ladder`
+[The ascent of the liberated through the four forms (Nārāyaṇīya)](../paths/narayaniya-vyuha-ascent.md), [The graded devotional practices of BhG 12.8–12](../paths/gita-devotion-ladder.md)
 
 ## Debates
-_none recorded_
+[Who is supreme in the epic — Nārāyaṇa/Viṣṇu or Śiva?](../debates/siva-or-visnu-epic.md)
 
 _Notes: Owned by U05. Scholarly (labeled) observation: the three 'immortal steps' of Heliodorus's inscription — self-restraint, renunciation, heedfulness (dama, cāga, apramāda) — match the triad 'damas tyāgo 'pramādaś ca' at MBh 11.7.19 and 5.43.14._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

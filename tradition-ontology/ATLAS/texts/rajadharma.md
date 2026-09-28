@@ -21,5 +21,57 @@ Bhīṣma's instruction to Yudhiṣṭhira on the dharma of kings: the origin of
   - kind: original; name: The Mahābhārata, Critical Edition, ed. V. S. Sukthankar et al., Bhandarkar Oriental Research Institute, Pune (1933–1966); licence: print edition (text public domain; apparatus under BORI copyright)
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
+## Teachings (5: skeleton 5)
+
+### 12.7-36 <a id="tea-rajadharma-12-7-36"></a>
+`skeleton` · confidence moderate
+
+After the war Yudhiṣṭhira, grief-stricken, wishes to abandon the kingdom and live as a forest mendicant; Arjuna, Bhīma, Nakula, Sahadeva, Draupadī, Vyāsa and Kṛṣṇa argue in turn for the householder's and king's duty, and he is persuaded to rule.
+
+_level: conventional · standpoint: polemical · path: action · stage: all · types: dispute, ethics_
+
+concepts: [The stages of life (āśrama)](../concepts/life-stages.md) · teachers: [Yudhiṣṭhira (Dharmarāja)](../teachers/yudhisthira.md), [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md), [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Draupadī (Kṛṣṇā, Pāñcālī)](../teachers/draupadi.md), [Bhīma (Bhīmasena)](../teachers/bhima.md) · disputes: [Should Yudhiṣṭhira renounce the kingdom for the forest, or rule? (MBh 12.7–36)](../debates/renounce-or-rule.md)
+
+### 12.13.4 <a id="tea-rajadharma-12-13-4"></a>
+`skeleton` · confidence high
+
+Sahadeva: the two syllables 'mama' (mine) are death; the three syllables 'na mama' (not mine) are the eternal Brahman.
+
+> dvyakṣaras tu bhaven mṛtyus tryakṣaraṃ brahma śāśvatam mameti ca bhaven mṛtyur na mameti ca śāśvatam
+
+_level: ultimate · standpoint: seeker · path: knowledge · stage: all · types: karma-liberation_
+
+terms: [brahman](../terms/brahman.md) · disputes: [Should Yudhiṣṭhira renounce the kingdom for the forest, or rule? (MBh 12.7–36)](../debates/renounce-or-rule.md)
+
+### 12.17.18 <a id="tea-rajadharma-12-17-18"></a>
+`skeleton` · confidence high
+
+Janaka's saying, quoted by Yudhiṣṭhira: 'Infinite indeed is my wealth, for nothing is mine; when Mithilā burns, nothing of mine burns.'
+
+> anantaṃ bata me vittaṃ yasya me nāsti kiṃcana mithilāyāṃ pradīptāyāṃ na me dahyati kiṃcana
+
+_level: bridging · standpoint: experiential · path: knowledge · stage: realized · types: karma-liberation_
+
+concepts: [Liberation while living](../concepts/liberation-while-living.md) · teachers: [Janaka of Videha](../teachers/janaka.md) · disputes: [Should Yudhiṣṭhira renounce the kingdom for the forest, or rule? (MBh 12.7–36)](../debates/renounce-or-rule.md), [Can a king be liberated while ruling — and may a woman renunciant test him? (MBh 12.308)](../debates/sulabha-janaka.md)
+
+### 12.59 <a id="tea-rajadharma-12-59"></a>
+`skeleton` · confidence moderate
+
+Bhīṣma tells how, when the first age declined, the gods went to Brahmā, who composed a vast treatise on dharma, artha and kāma including the science of punishment (daṇḍanīti) with the four sciences — the Veda, reasoning (ānvīkṣikī), economics and polity — and how Pṛthu, son of Vena, was consecrated the first king who protected the people.
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics, world-fate_
+
+terms: [daṇḍanīti](../terms/dandaniti.md), [rājadharma](../terms/rajadharma.md), [trivarga](../terms/trivarga.md) · concepts: [The dharma of kings (rājadharma)](../concepts/rajadharma.md)
+
+### 12.60.27-28 <a id="tea-rajadharma-12-60-27-28"></a>
+`skeleton` · confidence high
+
+For the śūdra, Prajāpati ordained service of the other varṇas as his dharma; by serving them he obtains great happiness.
+
+_level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics_
+
+terms: [varṇa](../terms/varna.md), [svadharma](../terms/svadharma.md) · concepts: [The varṇas by guṇa and action](../concepts/varna-by-guna-and-karma.md) · disputes: [Is varṇa (and eligibility for austerity and teaching) fixed by birth, or made by conduct and qualities?](../debates/varna-by-birth-or-conduct-epic.md)
+
+
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

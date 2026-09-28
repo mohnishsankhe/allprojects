@@ -20,5 +20,17 @@ Vicakhnu praises non-violence toward all beings and condemns animal slaughter in
   - kind: original; name: The Mahābhārata, Critical Edition, ed. V. S. Sukthankar et al., Bhandarkar Oriental Research Institute, Pune (1933–1966); licence: print edition (text public domain; apparatus under BORI copyright)
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
+## Teachings (1: skeleton 1)
+
+### 12.257 <a id="tea-vicakhnu-gita-12-257"></a>
+`skeleton` · confidence moderate · [AI-translated]
+
+King Vicakhnu, seeing a slaughtered bull at a sacrifice, proclaims non-violence toward all creatures and declares that the killing of animals in sacrifice was introduced by the greedy, not by Manu.
+
+_level: conventional · standpoint: ethical-social · path: ritual, general · stage: all · types: ethics, dispute_
+
+disputes: `dsp:works-knowledge-grace`
+
+
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

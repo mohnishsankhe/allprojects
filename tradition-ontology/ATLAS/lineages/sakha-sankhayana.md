@@ -16,7 +16,7 @@ A Ṛgveda ritual school with its own Brāhmaṇa, Āraṇyaka and Sūtras, surv
 
 
 ## Texts
-`src:kausitaki-upanisad`, [Ṛgveda Saṃhitā](../texts/rgveda.md)
+[Kauṣītaki Upaniṣad](../texts/kausitaki-upanisad.md), [Ṛgveda Saṃhitā](../texts/rgveda.md)
 
 ## Teachers
 _none recorded_
@@ -33,4 +33,4 @@ _none recorded_
 _Notes: Regions from memory; to be checked._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

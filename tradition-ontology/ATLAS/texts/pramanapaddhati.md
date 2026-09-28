@@ -15,5 +15,17 @@
 
 Jayatīrtha's independent manual of Dvaita epistemology, written (its opening says) for the understanding of beginners, treating perception, inference and authoritative word in turn and developing the doctrine of the witness (sākṣin) and intrinsic validity.
 
+## Teachings (1: skeleton 1)
+
+### 1 <a id="tea-pramanapaddhati-1"></a>
+`skeleton` · confidence high
+
+Having bowed to the lotus feet of Lakṣmī's lord, the Pramāṇapaddhati is composed so that beginners may understand (the means of valid knowledge); it begins with perception.
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: beginner · types: consciousness-mind, teacher-transmission_
+
+terms: [pramāṇa](../terms/pramana.md) · concepts: [Knowledge-itself and the means of knowledge (kevala / anupramāṇa)](../concepts/kevala-anupramana.md) · teachers: [Jayatīrtha](../teachers/jayatirtha.md)
+
+
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

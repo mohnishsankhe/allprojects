@@ -17,7 +17,19 @@
 one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); the fifth of the ten short treatises (daśa-prakaraṇa); it refutes the Advaita inference 'the world is false because it is perceivable, like the silver seen in mother-of-pearl', showing faults in its subject, probans and example, and arguing that the world's reality is established by perception, scripture and the witness.
 **Commentaries on this text:** [Prapañcamithyātvānumānakhaṇḍana-ṭīkā (Jayatīrtha)](prapancamithyatvanumanakhandana-tika-jayatirtha.md)
 
+## Teachings (1: skeleton 1)
+
+### 1 <a id="tea-prapancamithyatvanumanakhandana-1"></a>
+`skeleton` · confidence high
+
+Against the inference 'the world in question is false because it is perceivable, like (the silver in mother-of-pearl)': its subject is unestablished; its qualifier 'indeterminable' (anirvacanīya) is unestablished; if falsity meant only 'other than real and unreal' the inference would prove what is accepted; the probans 'perceivable' fails, and there is no agreeing example. The world's reality is established by perception, scripture and the witness.
+
+_level: unmarked · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, world-fate_
+
+terms: [mithyātva](../terms/mithyatva.md), [anirvacanīya](../terms/anirvacaniya.md), [sākṣin](../terms/saksin.md) · concepts: [The reality of the world (jagat-satyatva)](../concepts/jagat-satyatva.md), [The critique of māyā (māyāvāda-khaṇḍana)](../concepts/mayavada-khandana.md) · disputes: `dsp:world-real-or-appearance`
+
+
 _Notes: The full title is Prapañca-mithyātvānumāna-khaṇḍana (the task list's 'Mithyātvānumānakhaṇḍana' is a short form)._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

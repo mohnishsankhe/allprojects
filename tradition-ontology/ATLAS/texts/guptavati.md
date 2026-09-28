@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), `lin:srividya`
+**Lineages:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Śrīvidyā](../lineages/srividya.md)
 **Genre:** commentary
 **Commentary on:** [Devī Māhātmya](devi-mahatmya.md)
 **Authors:** 
@@ -16,4 +16,4 @@
 A Śrīvidyā commentary on the Devī Māhātmya, with its mantra-structure and recitation.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._

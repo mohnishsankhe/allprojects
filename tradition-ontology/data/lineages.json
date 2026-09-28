@@ -1,5 +1,297 @@
 [
  {
+  "id": "lin:advaita-vedanta",
+  "name": "Advaita Vedānta",
+  "alt_names": [
+   "Kevalādvaita",
+   "Māyāvāda (term used by its opponents)",
+   "Aupaniṣada non-dualism"
+  ],
+  "family": "vedic",
+  "parent": "lin:vedanta",
+  "sub_lineages": [
+   "lin:vivarana",
+   "lin:bhamati"
+  ],
+  "founders": [
+   "tch:gaudapada",
+   "tch:sankara"
+  ],
+  "key_teachers": [
+   "tch:gaudapada",
+   "tch:govinda-bhagavatpada",
+   "tch:sankara",
+   "tch:padmapada",
+   "tch:suresvara",
+   "tch:hastamalaka",
+   "tch:totaka",
+   "tch:mandana-misra",
+   "tch:vacaspati-misra",
+   "tch:sarvajnatman",
+   "tch:prakasatman",
+   "tch:vimuktatman",
+   "tch:sriharsa",
+   "tch:citsukha",
+   "tch:amalananda",
+   "tch:anandagiri",
+   "tch:vidyaranya",
+   "tch:bharatitirtha",
+   "tch:sadananda",
+   "tch:prakasananda",
+   "tch:madhusudana-sarasvati",
+   "tch:appayya-diksita",
+   "tch:dharmaraja-adhvarindra",
+   "tch:brahmananda-sarasvati",
+   "tch:sadasiva-brahmendra"
+  ],
+  "texts": [
+   "src:mandukya-karika",
+   "src:brahma-sutra-bhasya-sankara",
+   "src:gita-bhasya-sankara",
+   "src:upadesa-sahasri",
+   "src:brhadaranyaka-upanisad-bhasya-sankara",
+   "src:chandogya-upanisad-bhasya-sankara",
+   "src:vivekacudamani",
+   "src:brahmasiddhi",
+   "src:naiskarmyasiddhi",
+   "src:brhadaranyaka-bhasya-varttika",
+   "src:pancapadika",
+   "src:pancapadika-vivarana",
+   "src:bhamati",
+   "src:samksepa-sariraka",
+   "src:istasiddhi",
+   "src:khandanakhandakhadya",
+   "src:tattvapradipika-citsukha",
+   "src:pancadasi",
+   "src:jivanmuktiviveka",
+   "src:advaitasiddhi",
+   "src:siddhantalesasangraha",
+   "src:vedantasara",
+   "src:vedantaparibhasa",
+   "src:drg-drsya-viveka",
+   "src:tripura-rahasya"
+  ],
+  "regions": [
+   "Kerala (Kālaṭi, tradition)",
+   "Śṛṅgeri (Karnataka)",
+   "Purī (Odisha)",
+   "Dvārakā (Gujarat)",
+   "Jyotirmaṭh (Uttarakhand)",
+   "Kāñcīpuram (Tamil Nadu)",
+   "Vārāṇasī",
+   "Mithilā",
+   "Vijayanagara"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Guru-paramparā from Nārāyaṇa through Vasiṣṭha, Śakti, Parāśara, Vyāsa and Śuka to Gauḍapāda, Govinda and Śaṅkara; Śaṅkara commonly dated 788–820 CE, and 509–477 BCE in the Kāñcī and Dvārakā maṭha reckonings",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Gauḍapāda c. 6th c. CE; Śaṅkara c. 700–750 CE (Hacker, Nakamura; others to c. 800); continuous commentarial tradition to the present",
+    "from": 500,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:upanisadic",
+    "what": "the mahāvākyas and the Upaniṣadic teaching of the self",
+    "evidence": "all Advaita works are exegeses of the Upaniṣads"
+   },
+   {
+    "from": "lin:mimamsa",
+    "what": "hermeneutics (six marks of purport), theory of verbal knowledge, and the six means of knowledge in empirical matters",
+    "evidence": "Vedāntasāra's six liṅgas; Vedāntaparibhāṣā's pramāṇa chapters"
+   },
+   {
+    "from": "lin:patanjala-yoga",
+    "what": "the eight limbs as auxiliaries of nirvikalpa samādhi; vocabulary of samādhi",
+    "evidence": "Vedāntasāra; Aparokṣānubhūti's reinterpreted limbs; BSBh 2.1.3 accepts Yoga's practices while rejecting its dualism"
+   },
+   {
+    "from": "lin:nyaya",
+    "what": "dialectical and (later) Navya-Nyāya technique",
+    "evidence": "Khaṇḍanakhaṇḍakhādya, Tattvapradīpikā, Advaitasiddhi"
+   },
+   {
+    "from": "lin:madhyamaka",
+    "what": "vocabulary and dialectic of non-origination in Gauḍapāda's fourth prakaraṇa (scholarly hypothesis; the tradition denies dependence, cf. GK 4.99)",
+    "evidence": "scholarly-hypothesis; see coverage C (owned by U49)"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:dasanami",
+    "what": "the Daśanāmī sannyāsa order and the four āmnāya maṭhas founded, in the tradition's account, by Śaṅkara"
+   },
+   {
+    "to": "lin:ramakrishna-order",
+    "what": "Advaita doctrine and Daśanāmī (Purī) sannyāsa lineage (recent)"
+   },
+   {
+    "to": "lin:divine-life-society",
+    "what": "Advaita doctrine and Daśanāmī (Sarasvatī) sannyāsa (recent)"
+   },
+   {
+    "to": "lin:ramana",
+    "what": "the Advaita prakaraṇa texts Ramaṇa rendered into Tamil (Vivekacūḍāmaṇi, Dṛg-Dṛśya Viveka, Ātmabodha) (recent)"
+   }
+  ],
+  "distinctive_positions": [
+   "Brahman alone is real (satya); the world is not ultimately real (mithyā); the individual self is not other than Brahman (Brahmajñānāvalīmālā 20; VC 20).",
+   "Bondage is superimposition (adhyāsa) of the not-self on the self and vice versa, which is called ignorance (avidyā) (BSBh introduction).",
+   "The world is an apparent transformation (vivarta) of Brahman, not a real transformation (pariṇāma).",
+   "Three levels of reality: ultimate (pāramārthika), empirical (vyāvahārika), illusory (prātibhāsika).",
+   "Liberation is not produced; it is the self's own nature revealed by knowledge alone; action cannot remove ignorance (Ātmabodha 3).",
+   "Liberation while living (jīvanmukti) is possible; the body continues until the karma that began it (prārabdha) is exhausted (BS 4.1.15, 4.1.19).",
+   "The qualified seeker (with the four qualifications) hears (śravaṇa), reflects (manana) and contemplates (nididhyāsana) the Upaniṣadic teaching.",
+   "Saguṇa Brahman (Īśvara) is real at the empirical level and the proper object of worship; nirguṇa Brahman is the ultimate.",
+   "Scripture teaches by provisional superimposition and subsequent retraction (adhyāropa-apavāda).",
+   "Post-Śaṅkara Advaita divides into the Vārttika (Sureśvara), Bhāmatī (Vācaspati) and Vivaraṇa (Prakāśātman) lines over the locus of ignorance and how the one appears as many."
+  ],
+  "ultimate": "ult:advaita-vedanta",
+  "path_maps": [
+   "pth:advaita-sadhana",
+   "pth:aparoksanubhuti-fifteen-limbs",
+   "pth:pancadasi-seven-states",
+   "pth:vedantasara-samadhi-auxiliaries",
+   "pth:yoga-vasistha-seven-bhumikas",
+   "pth:devayana-brahma-sutra"
+  ],
+  "summary": "The Vedānta school of strict non-dualism: Brahman, pure consciousness without a second, is the self of all; the world of plurality is an appearance of Brahman through māyā/avidyā, real for empirical purposes but sublated by knowledge. Rooted in Gauḍapāda's Māṇḍūkya Kārikā and systematized by Śaṅkara's commentaries on the prasthāna-traya, it developed through Maṇḍana, Sureśvara, Padmapāda, Vācaspati and Prakāśātman into the Bhāmatī and Vivaraṇa lines, a dialectical literature (Śrīharṣa, Citsukha, Madhusūdana), popular manuals (Pañcadaśī, Vedāntasāra, Vedāntaparibhāṣā) and a living monastic order (Daśanāmī).",
+  "coverage": [
+   "A6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U13-advaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:aghora",
+  "name": "Aghora (Aghor panth; Aghorī and Aughaṛ ascetics)",
+  "alt_names": [
+   "Aghor Panth",
+   "Aghorī",
+   "Aughaṛ",
+   "Kīnārāmī lineage",
+   "Aghora sampradāya"
+  ],
+  "family": "vedic",
+  "sub_lineages": [
+   "lin:sarvesvari-samuh"
+  ],
+  "founders": [
+   "tch:kina-ram",
+   "tch:kalu-ram",
+   "tch:dattatreya"
+  ],
+  "key_teachers": [
+   "tch:sivaram-ramanandi",
+   "tch:bija-ram",
+   "tch:rajesvar-ram",
+   "tch:siddharth-gautam-ram",
+   "tch:bhagwan-ram",
+   "tch:gurupad-sambhav-ram"
+  ],
+  "texts": [
+   "src:vivekasar-kina-ram",
+   "src:ramgita-kina-ram",
+   "src:ramrasal",
+   "src:gitavali-kina-ram",
+   "src:unmuniram",
+   "src:kularnava-tantra"
+  ],
+  "regions": [
+   "Varanasi (Kīnārām Sthal / Krīm Kuṇḍ at Śivālā; Parāo)",
+   "Girnar (Gujarat)",
+   "Hiṅglāj (Balochistan)",
+   "Chandauli and eastern Uttar Pradesh",
+   "Bihar",
+   "Nepal"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Kīnārām, born Vikrama 1658 (1601 CE) at Rāmgaṛh near Varanasi, lived to 1771 CE; Dattātreya is the ādiguru",
+    "from": 1601,
+    "to": null
+   },
+   "scholarly": {
+    "text": "the Kīnārāmī lineage is attested from the 18th c.; any continuity with the medieval Kāpālikas is a scholarly hypothesis",
+    "from": 1700,
+    "to": null
+   },
+   "confidence": "low"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:datta-sampradaya",
+    "what": "Dattātreya as ādiguru; Girnar as the place of Kīnārām's vision",
+    "evidence": "the tradition's account (Kīnārām hagiography)."
+   },
+   {
+    "from": "lin:ramanandi",
+    "what": "Kīnārām's first (Vaiṣṇava) initiation under Śivarām and the Rāma-devotional language of his works (Rāmgītā, Rāmrasāl)",
+    "evidence": "the tradition's account; titles of Kīnārām's works."
+   },
+   {
+    "from": "lin:kapalika",
+    "what": "cremation-ground practice, skull bowl, transgression of purity rules",
+    "evidence": "scholarly hypothesis; not the tradition's own account."
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:sarvesvari-samuh",
+    "what": "the Aghora lineage re-shaped toward social service (1961 onward)"
+   }
+  ],
+  "distinctive_positions": [
+   "Non-discrimination (abheda): nothing is to be shunned as impure; the aghora (the 'not-terrible') Śiva is present in what is feared and loathed.",
+   "Freedom from the eight fetters — disgust, doubt, fear, shame, loathing, family, conduct and caste (the Kaula list, Kulārṇava 13.90) — is the mark of the free one.",
+   "The cremation ground (śmaśāna) is the place of practice; the skull bowl (khappar) is carried.",
+   "The guru is Śiva; the lineage descends from Dattātreya through Kālūrām and Kīnārām.",
+   "The ultimate is named also as Rām / nirguṇa (Kīnārām's works); the state sought is sahaja and unmanī.",
+   "Recent teachers (Aghoreśvar Bhagavān Rām) direct Aghora toward service of the sick and outcaste and rejection of caste distinctions."
+  ],
+  "ultimate": "ult:aghora",
+  "summary": "Aghora is the lineage of Śaiva ascetics centred on Bābā Kīnārām's seat at Krīm Kuṇḍ in Varanasi, who trace their teaching to Dattātreya through Bābā Kālūrām. Its ascetics practise in the cremation ground and cultivate non-discrimination (abheda), overcoming disgust, fear and the other fetters. Kīnārām's Hindi works (Vivekasār, Rāmgītā, Rāmrasāl, Gītāvalī) join this with devotion to Rām as the attributeless; in the twentieth century Aghoreśvar Bhagavān Rām founded the Śrī Sarveśvarī Samūh and turned the lineage toward service. Practice details are secret and only summarised here.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "D"
+  ],
+  "notes": "family 'vedic' follows the coverage-map grouping (A7, Śaiva lineages); it does not settle the tradition's own rejection of Vedic ritual authority (see dsp:natha-varna-and-ritual (Aghora shares the Nāth position)) nor its overlap with the Buddhist Mahāsiddhas (C; brw:natha-mahasiddha). Tradition's dates for Kīnārām are recorded as the tradition gives them; they are not independently confirmed.",
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:aitihasika",
   "name": "Aitihāsikas (the legend-school of Vedic interpretation)",
   "alt_names": [
@@ -273,6 +565,132 @@
   }
  },
  {
+  "id": "lin:bengal-assam-sakta",
+  "name": "Bengali and Assamese Śākta tantra",
+  "alt_names": [
+   "Eastern Śākta tantra",
+   "Kāmarūpa Śāktism",
+   "Gauḍa-Kāmarūpa Śākta tradition",
+   "Bengal Śāktism",
+   "Śākta padāvalī tradition"
+  ],
+  "family": "vedic",
+  "parent": "lin:sakta",
+  "key_teachers": [
+   "tch:krsnananda-agamavagisa",
+   "tch:sarvananda",
+   "tch:brahmananda-giri",
+   "tch:purnananda",
+   "tch:ramprasad-sen",
+   "tch:kamalakanta",
+   "tch:narasimha-thakkura",
+   "tch:ramatosana-vidyalankara",
+   "tch:bamakhepa",
+   "tch:ramakrishna"
+  ],
+  "texts": [
+   "src:kalika-purana",
+   "src:yogini-tantra",
+   "src:kamakhya-tantra",
+   "src:brhaddharma-purana",
+   "src:mahabhagavata-purana",
+   "src:tantrasara-krsnananda",
+   "src:saktanandatarangini",
+   "src:tararahasya",
+   "src:syamarahasya",
+   "src:sritattvacintamani",
+   "src:sarvollasa-tantra",
+   "src:tarabhaktisudharnava",
+   "src:pranatosini",
+   "src:ramprasadi-songs",
+   "src:kamalakanta-padavali",
+   "src:sadhaka-ranjana",
+   "src:candimangala",
+   "src:annadamangala",
+   "src:pithanirnaya"
+  ],
+  "regions": [
+   "Bengal",
+   "Assam (Kāmarūpa)",
+   "Mithilā",
+   "Tripura",
+   "Koch Bihar"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Kāmarūpa is the seat where Satī's yoni fell (Kālikā Purāṇa 18.42); Śiva himself revealed the tantras taught there",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Kālikā Purāṇa c. 10th–11th c.; Yoginī and Kāmākhyā Tantras c. 16th–17th c.; Kṛṣṇānanda c. late 16th–17th c.; the Śākta padāvalī 18th–19th c.",
+    "from": 900,
+    "to": 1900
+   },
+   "confidence": "low"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:kalikula",
+    "what": "Dakṣiṇakālī and the Mahāvidyās",
+    "evidence": "Tantrasāra quotes the Kālī Tantra and Muṇḍamālā"
+   },
+   {
+    "from": "lin:kaula",
+    "what": "Kaula ritual (pañcatattva, bhāvas)",
+    "evidence": "Kaulāvalīnirṇaya, Kulārṇava cited in the digests"
+   },
+   {
+    "from": "lin:puranic",
+    "what": "the Satī myth and the pīṭhas; Kāmākhyā",
+    "evidence": "Kālikā Purāṇa, Devī Bhāgavata"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:ramakrishna-order",
+    "what": "Ramakrishna's Kālī devotion and his tantric sādhana under the Bhairavī Brāhmaṇī (recent)"
+   },
+   {
+    "to": "lin:baul",
+    "what": "shared songs and body-centred esoteric vocabulary (contested)"
+   }
+  ],
+  "distinctive_positions": [
+   "Kāmākhyā in Kāmarūpa is the seat where Satī's yoni fell; the Goddess there is the great vidyā in the form of the yoni and is all four aims of life (Kālikā Purāṇa 18.42; Kāmākhyā Tantra 1.4, 1.9).",
+   "The pīṭhas are the places where the parts of Satī's body fell and Śiva stays as a liṅga beside each (Kālikā Purāṇa 18.36-50).",
+   "Satī shows Śiva her ten Mahāvidyā forms, stationed in the ten directions, before going to Dakṣa's sacrifice (Bṛhaddharma Purāṇa madhya 6.125-134).",
+   "Blood offering is taught (Kālikā Purāṇa ch. 67, 'rudhirādhyāya', summary only) together with substitutes (pumpkin, sugarcane, liquor as 'equal to' a victim) and prohibitions for brāhmaṇas.",
+   "The Dakṣiṇakālī form (four-armed, garland of heads, standing on Śiva) is set out in Kṛṣṇānanda's Tantrasāra, quoting the Kālī Tantra.",
+   "The Mahāvidyā mantras are 'siddha' vidyās needing no preliminary checks — which Kṛṣṇānanda reads as praise, not a rule (Tantrasāra, siddhādiśodhana).",
+   "Devotional Śāktism: the poet-saints sing to Kālī/Śyāmā as Mother, and to Umā in the homecoming (āgamanī) and farewell (vijayā) songs."
+  ],
+  "ultimate": "ult:bengal-assam-sakta",
+  "path_maps": [
+   "pth:three-bhavas"
+  ],
+  "summary": "The Śākta tantric culture of Kāmarūpa (Assam) and Bengal: the Kālikā Purāṇa on Kāmākhyā, the pīṭhas and the offerings; the Yoginī and Kāmākhyā Tantras; the Satī–Mahāvidyā myth of the Bṛhaddharma and Mahābhāgavata Purāṇas; the great digests of the 16th–19th centuries (Kṛṣṇānanda's Tantrasāra, Brahmānanda's Śāktānandataraṅgiṇī and Tārārahasya, Pūrṇānanda's Śrītattvacintāmaṇi and Śyāmārahasya, Sarvānanda's Sarvollāsa, the Prāṇatoṣiṇī); the Tārā cult of Tārāpīṭh; and the Śākta devotional songs of Rāmprasād Sen and Kamalākānta.",
+  "coverage": [
+   "I2",
+   "A8"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:bhagavata-early",
   "name": "Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)",
   "alt_names": [
@@ -382,6 +800,289 @@
   "provenance": {
    "units": [
     "skeleton:U05-gita-epic"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:bhamati",
+  "name": "Bhāmatī school (Bhāmatī-prasthāna)",
+  "alt_names": [
+   "Bhāmatī-prasthāna",
+   "Vācaspati's line"
+  ],
+  "family": "vedic",
+  "parent": "lin:advaita-vedanta",
+  "founders": [
+   "tch:vacaspati-misra"
+  ],
+  "key_teachers": [
+   "tch:mandana-misra",
+   "tch:vacaspati-misra",
+   "tch:amalananda",
+   "tch:appayya-diksita"
+  ],
+  "texts": [
+   "src:brahmasiddhi",
+   "src:bhamati",
+   "src:vedanta-kalpataru",
+   "src:kalpataru-parimala",
+   "src:tattvasamiksa"
+  ],
+  "regions": [
+   "Mithilā",
+   "South India"
+  ],
+  "dating": {
+   "scholarly": {
+    "text": "From Vācaspati Miśra (9th or 10th c.) through Amalānanda (13th c.) and Appayya Dīkṣita (16th c.)",
+    "from": 840,
+    "to": 1600
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:advaita-vedanta",
+    "what": "Maṇḍana Miśra's Brahmasiddhi, which Vācaspati followed on several points",
+    "evidence": "Vācaspati also commented on the Brahmasiddhi (Tattvasamīkṣā, lost)"
+   }
+  ],
+  "distinctive_positions": [
+   "Ignorance resides in the individual selves (jīvāśrita) and has Brahman as its object; the mutual dependence of jīva and avidyā is beginningless like seed and sprout.",
+   "Avidyās are many, one for each jīva; hence many jīvas (aneka-jīva).",
+   "Limitation theory (avaccheda-vāda): the jīva is Brahman as delimited by the inner organ, as space is delimited by a pot.",
+   "The Upaniṣadic sentence yields mediate (parokṣa) knowledge; the mind purified by sustained contemplation is the instrument of direct realization.",
+   "Contemplation (nididhyāsana, prasaṅkhyāna) is the principal means; hearing and reflection are auxiliaries.",
+   "Vedic works produce the desire to know (vividiṣā), not knowledge itself."
+  ],
+  "ultimate": "ult:bhamati",
+  "summary": "The line of post-Śaṅkara Advaita founded on Vācaspati Miśra's Bhāmatī, drawing on Maṇḍana Miśra, continued by Amalānanda's Kalpataru and Appayya Dīkṣita's Parimala. It places ignorance in the individual selves, explains the jīva by limitation, admits many jīvas, and holds that the mind, perfected by contemplation, turns the verbal knowledge of the mahāvākya into direct realization.",
+  "coverage": [
+   "A6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U13-advaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:bhatta-mimamsa",
+  "name": "Bhāṭṭa Mīmāṃsā",
+  "alt_names": [
+   "Bhāṭṭa school",
+   "Kumārila's school",
+   "Tautātita-mata"
+  ],
+  "family": "vedic",
+  "parent": "lin:mimamsa",
+  "founders": [
+   "tch:kumarila"
+  ],
+  "key_teachers": [
+   "tch:kumarila",
+   "tch:mandana-misra",
+   "tch:umbeka",
+   "tch:sucarita-misra",
+   "tch:parthasarathi-misra",
+   "tch:somesvara-bhatta",
+   "tch:paritosa-misra",
+   "tch:bhavadeva-bhatta",
+   "tch:vidyaranya",
+   "tch:appayya-diksita",
+   "tch:sankara-bhatta",
+   "tch:narayana-bhattatiri",
+   "tch:khandadeva",
+   "tch:sambhu-bhatta",
+   "tch:apadeva",
+   "tch:laugaksi-bhaskara",
+   "tch:gaga-bhatta",
+   "tch:krsna-yajvan",
+   "tch:somanatha-diksita",
+   "tch:vasudeva-diksita"
+  ],
+  "texts": [
+   "src:slokavarttika",
+   "src:tantravarttika",
+   "src:tuptika",
+   "src:brhattika",
+   "src:vidhiviveka",
+   "src:bhavanaviveka",
+   "src:vibhramaviveka",
+   "src:mimamsanukramani",
+   "src:nyayakanika",
+   "src:tattvabindu",
+   "src:tatparyatika-umbeka",
+   "src:kasika-sucarita",
+   "src:sarkarika",
+   "src:nyayaratnakara",
+   "src:sastradipika",
+   "src:nyayaratnamala",
+   "src:tantraratna",
+   "src:nyayasudha-somesvara",
+   "src:ajita-paritosa",
+   "src:tautatitamatatilaka",
+   "src:mayukhamalika",
+   "src:yuktisnehaprapurani",
+   "src:bhattadipika",
+   "src:prabhavali",
+   "src:mimamsa-kaustubha",
+   "src:bhattarahasya",
+   "src:mimamsanyayaprakasa",
+   "src:arthasangraha",
+   "src:manameyodaya",
+   "src:mimamsaparibhasa",
+   "src:bhattacintamani",
+   "src:mimamsa-balaprakasa",
+   "src:bhattabhasaprakasa"
+  ],
+  "regions": [
+   "North and South India; strong later centres at Vārāṇasī (Khaṇḍadeva's circle), Mithilā, the Tamil country and Kerala (Mānameyodaya)"
+  ],
+  "dating": {
+   "scholarly": {
+    "text": "from Kumārila (c. 6th–7th c. CE) to the present; the dominant school of Mīmāṃsā",
+    "from": 550,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "transmissions_given": [
+   {
+    "to": "lin:advaita-vedanta",
+    "what": "six means of knowledge (including postulation and non-apprehension), used by Advaita for empirical matters (e.g. Vedāntaparibhāṣā)"
+   }
+  ],
+  "distinctive_positions": [
+   "Six means of knowledge: perception, inference, verbal testimony, comparison, postulation (arthāpatti) and non-apprehension (anupalabdhi / abhāva-pramāṇa).",
+   "Sentence meaning by 'connection of the expressed' (abhihitānvaya): words first convey their own meanings, which then combine into the sentence meaning (Śabara on MS 1.1.25; ŚV vākya 342–343).",
+   "Error as apprehension of a thing as other than it is (viparītakhyāti): the related items are real, only their relation is unreal (Śāstradīpikā).",
+   "Cognition is not itself perceived; it is inferred from the 'knownness' (jñātatā / prākaṭya) it produces in the object.",
+   "The injunctive suffix expresses a verbal efficient force (śābdī bhāvanā) that prompts the person's own effort (ārthī bhāvanā) with its three expectancies: what, by what, how.",
+   "Obligatory and occasional rites destroy past sin and avert the demerit of omission (Tantravārttika).",
+   "Liberation: the one seeking release avoids desire-prompted and prohibited acts, performs obligatory and occasional rites, knows the self, and when past karma is exhausted by experience no new body arises (ŚV sambandhākṣepaparihāra 102–111).",
+   "Pārthasārathi: liberation is the absolute dissolution of the threefold bond (body, senses, objects) and is without bliss; some Bhāṭṭas held that the liberated self enjoys its innate bliss.",
+   "Words are the eternal letters; the grammarians' sphoṭa is superfluous (ŚV sphoṭavāda).",
+   "Kumārila rejects a creator Prajāpati and a total dissolution of the world (ŚV sambandhākṣepaparihāra 42–116)."
+  ],
+  "ultimate": "ult:bhatta-mimamsa",
+  "path_maps": [
+   "pth:kumarila-moksa"
+  ],
+  "summary": "The school of Kumārila Bhaṭṭa, built on his Ślokavārttika, Tantravārttika and Ṭupṭīkā and developed by Maṇḍana Miśra, Umbeka, Sucarita, Pārthasārathi Miśra and, later, Khaṇḍadeva, Āpadeva and Laugākṣi Bhāskara. It defends six means of knowledge, the abhihitānvaya theory of sentence meaning, the bhāvanā theory of injunction, and a realist ontology; its epistemology was adopted by Advaita Vedānta for worldly matters.",
+  "notes": "'Tautātita-mata' (the doctrine of Tutāta, an epithet of Kumārila) is attested in the title of Bhavadeva's Tautātitamatatilaka; low confidence on the epithet's general currency. Maṇḍana Miśra is placed here by tradition (as Kumārila's pupil) though several of his positions differ (e.g. iṣṭasādhanatā as the meaning of injunction; defence of sphoṭa).",
+  "coverage": [
+   "A5"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U12-mimamsa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:bhedabheda",
+  "name": "Bhedābheda Vedānta (Bhāskara's school and the early difference-and-non-difference Vedāntins)",
+  "alt_names": [
+   "Bhedābhedavāda",
+   "Aupādhika-bhedābheda (Bhāskara)",
+   "Svābhāvika-bhedābheda (Yādavaprakāśa)",
+   "Bhāskarīya"
+  ],
+  "family": "vedic",
+  "parent": "lin:vedanta",
+  "founders": [
+   "tch:bhartrprapanca",
+   "tch:bhaskara"
+  ],
+  "key_teachers": [
+   "tch:asmarathya",
+   "tch:audulomi",
+   "tch:bhartrprapanca",
+   "tch:bhaskara",
+   "tch:yadavaprakasa",
+   "tch:vijnanabhiksu"
+  ],
+  "texts": [
+   "src:brhadaranyaka-bhasya-bhartrprapanca",
+   "src:brahma-sutra-bhasya-bhaskara",
+   "src:gita-bhasya-bhaskara",
+   "src:brahma-sutra-bhasya-yadavaprakasa",
+   "src:yatidharmasamuccaya",
+   "src:vaijayanti",
+   "src:vijnanamrta-bhasya"
+  ],
+  "regions": [
+   "north India (Bhāskara, place unknown)",
+   "Kāñcīpuram (Yādavaprakāśa)",
+   "Vārāṇasī (Vijñānabhikṣu)"
+  ],
+  "dating": {
+   "scholarly": {
+    "text": "pre-Śaṅkara (Bhartṛprapañca) to 16th c. (Vijñānabhikṣu); Bhāskara c. 8th–9th c. CE",
+    "from": 500,
+    "to": 1600
+   },
+   "confidence": "low"
+  },
+  "status": "extinct",
+  "transmissions_given": [
+   {
+    "to": "lin:visistadvaita",
+    "what": "the pariṇāma (real transformation) reading of the Brahma Sūtras and the jīva-as-part (aṃśa) doctrine, which Rāmānuja received through his first teacher Yādavaprakāśa and then criticised"
+   },
+   {
+    "to": "lin:dvaitadvaita",
+    "what": "the general bhedābheda frame (difference and non-difference of Brahman, souls and world)"
+   }
+  ],
+  "distinctive_positions": [
+   "Brahman is both different and non-different from the individual souls and the world: one as cause, many as effect.",
+   "The world is a real transformation (pariṇāma) of Brahman or of its power (śakti), not an appearance (vivarta).",
+   "Bhāskara: the difference of the soul from Brahman is due to real limiting adjuncts (upādhi); non-difference is natural (aupādhika-bhedābheda).",
+   "Yādavaprakāśa: both difference and non-difference are natural (svābhāvika-bhedābheda); Brahman itself becomes Īśvara, souls and matter.",
+   "Liberation requires knowledge combined with lifelong ritual and social duty (jñāna-karma-samuccaya) — Bhartṛprapañca, Bhāskara.",
+   "Bhāskara denies liberation while living (jīvanmukti): release comes when the body, a real adjunct, falls away.",
+   "Bhāskara attacks Śaṅkara's doctrine of māyā as a teaching of the Mahāyāna Buddhists.",
+   "Vijñānabhikṣu (16th c.) restates the position as avibhāga (non-separation) of souls and prakṛti from Brahman, harmonising Vedānta with Sāṃkhya-Yoga."
+  ],
+  "ultimate": "ult:bhedabheda",
+  "summary": "The oldest continuous current of Brahma Sūtra interpretation: Brahman is at once one with and different from souls and world, which are its real transformations. Known for Bhartṛprapañca only through fragments reported by his Advaita critics; its classic statement is Bhāskara's Brahmasūtrabhāṣya; Yādavaprakāśa (Rāmānuja's first teacher) gave a 'natural' version; Vijñānabhikṣu revived the frame in the 16th c. No living order continues the school; its ideas passed into the Vaiṣṇava Vedāntas.",
+  "coverage": [
+   "A6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U16-bhedabheda"
    ],
    "phases": [
     "skeleton"
@@ -590,7 +1291,7 @@
    "The sources of dharma are the whole Veda, the recollection (smṛti) and conduct of those who know it, the practice of good people (sadācāra) and what satisfies oneself (MDh 2.6, 2.12; YS 1.7 adds desire born of right intention); where the Veda is silent, the agreement of those who know dharma is authoritative (ĀpDh 1.1.1.2).",
    "Dharma is specified by class (varṇa) and life-stage (āśrama); alongside these stands a dharma common to all four classes — non-injury, truth, not stealing, purity and restraint of the senses (MDh 10.63; YS 1.122).",
    "A person is born owing three debts — to the seers, the gods and the ancestors (TS 6.3.10.5; four in ŚB 1.7.2.1) — and must discharge them before setting the mind on liberation (MDh 6.35–37).",
-   "The householder supports the other orders as air supports living beings (MDh 3.77–78; 6.89–90); whether the celibate orders are a free choice, a sequence, or not Vedic at all is disputed within the tradition (GDh 3.1, 3.35; BDh 2.6.11.27; VDh 7.3; MDh 6).",
+   "The householder supports the other orders as air supports living beings (MDh 3.77–78; 6.89–90); whether the celibate orders are a free choice, a sequence, or not Vedic at all is disputed within the tradition (GDh 3.1, 3.36; BDh 2.6.11.27; VDh 7.3; MDh 6).",
    "Life is consecrated by rites (saṃskāra) from conception to cremation, and sins are removed by expiation, confession, remorse, austerity and recitation (MDh 2.26–28; 11.227–229).",
    "The highest dharma is seeing the self by yoga (YS 1.8); knowledge of the self is the highest of all practices, by which immortality is won (MDh 12.85).",
    "Acts of mind, speech and body bear fruit in rebirth, and the three guṇas govern the resulting destinies (MDh 12.3–51).",
@@ -802,6 +1503,109 @@
   }
  },
  {
+  "id": "lin:dvaitadvaita",
+  "name": "Dvaitādvaita (Nimbārka Sampradāya)",
+  "alt_names": [
+   "Svābhāvika Bhedābheda",
+   "Nimbārka Sampradāya",
+   "Sanakādi Sampradāya",
+   "Kumāra Sampradāya",
+   "Haṃsa Sampradāya"
+  ],
+  "family": "vedic",
+  "parent": "lin:vedanta",
+  "founders": [
+   "tch:nimbarka"
+  ],
+  "key_teachers": [
+   "tch:narada",
+   "tch:nimbarka",
+   "tch:srinivasa-nimbarka",
+   "tch:kesava-kasmirin",
+   "tch:sri-bhatta",
+   "tch:harivyasa-deva",
+   "tch:purusottamacarya-nimbarka",
+   "tch:devacarya",
+   "tch:parasurama-devacarya"
+  ],
+  "texts": [
+   "src:vedanta-parijata-saurabha",
+   "src:dasasloki",
+   "src:krsnastavaraja",
+   "src:vedanta-kaustubha",
+   "src:kaustubha-prabha",
+   "src:tattvaprakasika-kesava-kasmirin",
+   "src:kramadipika",
+   "src:vedanta-ratna-manjusa",
+   "src:srutyanta-suradruma",
+   "src:siddhanta-jahnavi",
+   "src:yugalasataka",
+   "src:mahavani",
+   "src:siddhanta-ratnanjali",
+   "src:parapaksa-giri-vajra"
+  ],
+  "regions": [
+   "Braj (Vṛndāvana, Govardhana/Nīmgāon)",
+   "Salemabad (Rajasthan)",
+   "Mathurā",
+   "Bengal and Nepal (later branches)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "founded by Haṃsa (Viṣṇu) and transmitted through the four Kumāras and Nārada to Nimbārka in a former age",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Nimbārka variously dated 7th–13th c.; many place him c. 12th–13th c.",
+    "from": 1100,
+    "to": 1300
+   },
+   "confidence": "low"
+  },
+  "status": "living",
+  "transmissions_given": [
+   {
+    "to": "lin:gaudiya-vaisnava",
+    "what": "Keśava Kāśmīrin's Kramadīpikā (Kṛṣṇa-mantra liturgy) used in Gauḍīya ritual codes (low confidence)"
+   },
+   {
+    "to": "lin:haridasi",
+    "what": "the Haridāsī tradition of Svāmī Haridās is sometimes affiliated to the Nimbārka line (contested)"
+   }
+  ],
+  "distinctive_positions": [
+   "Natural (svābhāvika) difference-and-non-difference: souls and world are both different and non-different from Brahman by their very nature, like sun and rays or snake and coils (BS 3.2.27).",
+   "Three realities: cit (souls), acit (non-conscious: prākṛta, aprākṛta, kāla) and Īśvara.",
+   "Brahman is Kṛṣṇa, free of all faults and a mass of auspicious qualities, worshipped together with Rādhā on his left (Daśaślokī 4–5): yugala-upāsanā.",
+   "The soul is atomic, a knower, a part (aṃśa) of the Lord and wholly dependent on him; infinite in number.",
+   "Five things to be known (arthapañcaka): the worshipped, the worshipper, the fruit of grace, the rasa of devotion, the obstacles.",
+   "Five means (upāya): karma, vidyā, upāsanā (dhyāna), prapatti (surrender) and gurūpasatti (surrender to the teacher).",
+   "Liberation is attainment of the Lord's nature and service after death, with difference preserved; grace arises for the humble (Daśaślokī 9)."
+  ],
+  "ultimate": "ult:dvaitadvaita",
+  "path_maps": [],
+  "summary": "The Vaiṣṇava Vedānta of Nimbārka: Brahman as Kṛṣṇa with Rādhā, and souls and matter as his naturally different-yet-non-different powers. Its root texts are Nimbārka's brief Brahma Sūtra commentary (Vedāntapārijātasaurabha) and the ten-verse Daśaślokī, expanded by Śrīnivāsa's Vedāntakaustubha and Keśava Kāśmīrin's Kaustubhaprabhā; Śrī Bhaṭṭa and Harivyāsadeva gave it Braj-language devotional poetry. It counts itself one of the four Vaiṣṇava sampradāyas (the Sanakādi/Kumāra line) and lives today with seats at Salemabad and in Braj.",
+  "coverage": [
+   "A6",
+   "A9"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U16-bhedabheda"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:epic-teaching",
   "name": "Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)",
   "alt_names": [
@@ -1002,6 +1806,159 @@
   }
  },
  {
+  "id": "lin:gaudiya-vaisnava",
+  "name": "Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)",
+  "alt_names": [
+   "Acintya-bhedābheda",
+   "Caitanya Vaiṣṇavism",
+   "Brahma-Mādhva-Gauḍīya Sampradāya (tradition's name)",
+   "Bengal Vaiṣṇavism"
+  ],
+  "family": "vedic",
+  "parent": "lin:vedanta",
+  "founders": [
+   "tch:caitanya",
+   "tch:nityananda",
+   "tch:advaita-acarya"
+  ],
+  "key_teachers": [
+   "tch:caitanya",
+   "tch:nityananda",
+   "tch:advaita-acarya",
+   "tch:gadadhara-pandita",
+   "tch:srivasa-thakura",
+   "tch:haridasa-thakura",
+   "tch:svarupa-damodara",
+   "tch:ramananda-raya",
+   "tch:rupa-gosvami",
+   "tch:sanatana-gosvami",
+   "tch:jiva-gosvami",
+   "tch:raghunatha-dasa-gosvami",
+   "tch:raghunatha-bhatta-gosvami",
+   "tch:gopala-bhatta-gosvami",
+   "tch:krsnadasa-kaviraja",
+   "tch:vrndavana-dasa-thakura",
+   "tch:narottama-dasa-thakura",
+   "tch:srinivasa-acarya-gaudiya",
+   "tch:syamananda",
+   "tch:jahnava-devi",
+   "tch:visvanatha-cakravartin",
+   "tch:baladeva-vidyabhusana",
+   "tch:bhaktivinoda-thakura",
+   "tch:bhaktisiddhanta-sarasvati",
+   "tch:bhaktivedanta-swami"
+  ],
+  "texts": [
+   "src:siksastaka",
+   "src:bhaktirasamrtasindhu",
+   "src:ujjvalanilamani",
+   "src:laghubhagavatamrta",
+   "src:brhadbhagavatamrta",
+   "src:haribhaktivilasa",
+   "src:sat-sandarbha",
+   "src:caitanya-caritamrta",
+   "src:caitanya-bhagavata",
+   "src:govinda-bhasya",
+   "src:upadesamrta",
+   "src:madhurya-kadambini",
+   "src:raga-vartma-candrika",
+   "src:brahma-samhita",
+   "src:krsnakarnamrta"
+  ],
+  "regions": [
+   "Bengal (Navadvīpa, Śāntipur, Khaḍadaha, Kheturi)",
+   "Odisha (Purī)",
+   "Braj (Vṛndāvana, Rādhākuṇḍa)",
+   "Manipur",
+   "Assam",
+   "worldwide (ISKCON and Gauḍīya Maṭha, recent)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Caitanya appeared at Navadvīpa on Phālguna Pūrṇimā, Śaka 1407 (1486 CE), as Kṛṣṇa himself in the mood of Rādhā",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "founded early 16th c. CE; theology systematised by the Vṛndāvana Gosvāmīs c. 1530–1600",
+    "from": 1500,
+    "to": null
+   },
+   "confidence": "high"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:dvaita",
+    "what": "a guru-paramparā through Mādhavendra Purī and Īśvara Purī traced to Madhva",
+    "evidence": "Kavikarṇapūra's Gauragaṇoddeśadīpikā; Baladeva's Prameyaratnāvalī (tradition's account; contested by scholars)"
+   },
+   {
+    "from": "lin:puranic",
+    "what": "the Bhāgavata Purāṇa as the 'spotless Purāṇa' and supreme pramāṇa",
+    "evidence": "Tattvasandarbha"
+   },
+   {
+    "from": "lin:alankara",
+    "what": "the rasa framework of Bharata's school, recast as bhakti-rasa",
+    "evidence": "Bhaktirasāmṛtasindhu; Ujjvalanīlamaṇi"
+   },
+   {
+    "from": "lin:pancaratra",
+    "what": "deity-worship and initiation ritual",
+    "evidence": "Haribhaktivilāsa"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:vaisnava-sahajiya",
+    "what": "Rādhā–Kṛṣṇa theology and the rasa vocabulary, reinterpreted (Sahajiyā use is rejected by the Gosvāmī orthodoxy)"
+   },
+   {
+    "to": "lin:baul",
+    "what": "Vaiṣṇava vocabulary of love and the name"
+   }
+  ],
+  "distinctive_positions": [
+   "Inconceivable difference-and-non-difference (acintya-bhedābheda) between the Lord and his powers (śakti), souls and world.",
+   "Kṛṣṇa is the Lord himself (svayaṃ bhagavān, BhP 1.3.28); the one non-dual reality is called Brahman, Paramātman and Bhagavān (BhP 1.2.11), Bhagavān being fullest.",
+   "Three powers: internal (svarūpa/cit: sandhinī, saṃvit, hlādinī), marginal (taṭasthā: the souls) and external (māyā).",
+   "Rādhā is Kṛṣṇa's hlādinī-śakti and the peak of love (mahābhāva); Caitanya is Rādhā and Kṛṣṇa in one form.",
+   "Pure devotion (uttamā bhakti) is the means and prema is the supreme goal (the 'fifth aim' beyond mokṣa).",
+   "Devotion is a rasa: five primary (śānta, dāsya, sakhya, vātsalya, mādhurya) and seven secondary rasas.",
+   "Practice (sādhana-bhakti) is rule-based (vaidhī) or spontaneous, following the Vraja residents (rāgānugā); stages from faith to love (BRS 1.4.15–16).",
+   "Congregational chanting of the name (nāma-saṅkīrtana), above all the Hare Kṛṣṇa mahāmantra, is the dharma of the Kali age; the name is non-different from Kṛṣṇa; ten offences against the name are to be avoided.",
+   "Rūpa and Viśvanātha hold paramour love (parakīyā) of the gopīs to be the highest; Jīva holds it to be svakīyā in truth — a recorded internal debate.",
+   "Caste and birth do not bar one from being a teacher of Kṛṣṇa (CC 2.8.128)."
+  ],
+  "ultimate": "ult:gaudiya-vaisnava",
+  "path_maps": [
+   "pth:rupa-gosvami-bhakti-stages",
+   "pth:ramananda-samvada-ladder",
+   "pth:ujjvalanilamani-prema-ladder",
+   "pth:madhurya-kadambini-stages"
+  ],
+  "summary": "The devotional tradition that grew from Caitanya (1486–1533) of Navadvīpa and Purī, his associates Nityānanda and Advaita, and the Six Gosvāmīs of Vṛndāvana, who gave it a theology (Jīva's Ṣaṭ Sandarbha: acintya-bhedābheda), an aesthetics of devotion (Rūpa's Bhaktirasāmṛtasindhu and Ujjvalanīlamaṇi), a ritual code (Haribhaktivilāsa) and a hagiography (Caitanya Caritāmṛta, Caitanya Bhāgavata). Its practice centres on chanting the divine name, deity service, hearing the Bhāgavata, residence in Vraja and meditative participation in Rādhā and Kṛṣṇa's eternal play.",
+  "coverage": [
+   "A6",
+   "A9"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U16-bhedabheda"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:kalamukha",
   "name": "Kālāmukha",
   "alt_names": [
@@ -1070,6 +2027,142 @@
   "provenance": {
    "units": [
     "skeleton:U17-pasupata-kapalika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:kalikula",
+  "name": "Kālīkula (the Kālī lineages)",
+  "alt_names": [
+   "Kālīkula",
+   "Kālīmata",
+   "Kālīkrama (in part)",
+   "the 'family' (kula) of Kālī",
+   "Śyāmā-upāsanā",
+   "Uttarāmnāya (the Northern transmission, in the āmnāya scheme)"
+  ],
+  "family": "vedic",
+  "parent": "lin:sakta",
+  "founders": [],
+  "key_teachers": [
+   "tch:jnananetra",
+   "tch:abhinavagupta",
+   "tch:krsnananda-agamavagisa",
+   "tch:purnananda",
+   "tch:brahmananda-giri",
+   "tch:sarvananda",
+   "tch:ramprasad-sen",
+   "tch:kamalakanta",
+   "tch:bamakhepa",
+   "tch:ramakrishna"
+  ],
+  "texts": [
+   "src:jayadrathayamala",
+   "src:kalikulapancasataka",
+   "src:kali-tantra",
+   "src:kalivilasa-tantra",
+   "src:mahakala-samhita",
+   "src:nirvana-tantra",
+   "src:mahanirvana-tantra",
+   "src:todala-tantra",
+   "src:niruttara-tantra",
+   "src:kalikulasarvasva",
+   "src:syamarahasya",
+   "src:kulacudamani-tantra",
+   "src:mundamala-tantra",
+   "src:karpuradi-stotra",
+   "src:saktisangama-tantra",
+   "src:tara-tantra",
+   "src:brhannila-tantra",
+   "src:tararahasya",
+   "src:tantrasara-krsnananda",
+   "src:kalika-upanisad",
+   "src:guhyakali-texts-nepal"
+  ],
+  "regions": [
+   "Kashmir",
+   "Nepal",
+   "Bengal",
+   "Assam",
+   "Mithilā",
+   "Odisha"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Revealed by Śiva as Mahākāla/Bhairava to the Goddess; the tantras present themselves as eternal and as the scripture proper to the Kali age",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Kālī as a goddess in the Devī Māhātmya (c. 5th–6th c.); the Kashmirian Kālīkula scriptures (Jayadrathayāmala) c. 9th–10th c.; the eastern Kālī tantras mostly c. 14th–18th c.",
+    "from": 500,
+    "to": 1800
+   },
+   "confidence": "low"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:vidyapitha",
+    "what": "the Yāmala cults of fierce goddesses and the cremation-ground observances",
+    "evidence": "Jayadrathayāmala as a Vidyāpīṭha Yāmala (U08, U19)"
+   },
+   {
+    "from": "lin:kaula",
+    "what": "kaulācāra, the five tattvas, the bhāvas and the āmnāya scheme",
+    "evidence": "Kulārṇava and Kaulāvalīnirṇaya are cited throughout the eastern Kālī digests"
+   },
+   {
+    "from": "lin:krama",
+    "what": "Kālī as the power of time and cognition (the twelve Kālīs)",
+    "evidence": "shared Kālīkula scripture (Jayadrathayāmala, Kālīkulapañcaśataka)"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:bengal-assam-sakta",
+    "what": "the Dakṣiṇakālī cult, the Mahāvidyā system and Kālī-pūjā"
+   },
+   {
+    "to": "lin:ramakrishna-order",
+    "what": "Kālī worship at Dakshineswar as practised by Ramakrishna (recent)"
+   },
+   {
+    "to": "lin:folk-goddess",
+    "what": "Kālī as a village and temple goddess (documented only in part)"
+   }
+  ],
+  "distinctive_positions": [
+   "Kālī devours (kalana) time itself: Mahākāla is so called because he devours all beings, and she is the primordial Kālikā because she devours Mahākāla (Mahānirvāṇa 4.31-32).",
+   "Without Śakti Śiva is a corpse (śava): this is why Kālī stands upon Sadāśiva lying as a corpse (Toḍala 1.20-25).",
+   "In herself the Goddess is formless; her terrible cremation-ground form is imagined according to her qualities and acts for the benefit of worshippers (Mahānirvāṇa 5.137-140; 13.5-13).",
+   "The ten Mahāvidyās are her forms, shown by Satī to Śiva (Bṛhaddharma Purāṇa, Mahābhāgavata Purāṇa) and matched with Viṣṇu's ten avatāras (Toḍala 10.9-11).",
+   "Worship is graded by disposition (bhāva): paśu, vīra, divya; the Kālī tantras disagree whether vīra and divya worship is allowed in the Kali age (Kālīvilāsa 4.2-3 against Mahānirvāṇa 5-8).",
+   "In Bengal the fierce Mother is approached with intimate devotion (Śyāmā-saṅgīt): the devotee may plead with, reproach and claim her as her child."
+  ],
+  "ultimate": "ult:kalikula",
+  "path_maps": [
+   "pth:kaula-seven-ullasas",
+   "pth:three-bhavas"
+  ],
+  "summary": "The lineages that worship Kālī (and the goddesses of her 'family') as the supreme power. In Kashmir the Kālīkula scriptures (Jayadrathayāmala) fed the Krama; in Nepal the Uttarāmnāya worships Guhyakālī; in eastern India (Bengal, Assam, Mithilā) a large body of later tantras (Kālī, Toḍala, Nirvāṇa, Mahānirvāṇa, Kālīvilāsa, Niruttara, Kulacūḍāmaṇi, Śaktisaṅgama) and digests (Kṛṣṇānanda's Tantrasāra) teach the worship of Dakṣiṇakālī and the ten Mahāvidyās, by dakṣiṇa and vāma (Kaula) modes, which culminates in the Bengali Śākta devotional poetry of Rāmprasād and Kamalākānta.",
+  "coverage": [
+   "A8",
+   "I2",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
    ],
    "phases": [
     "skeleton"
@@ -1349,6 +2442,235 @@
   }
  },
  {
+  "id": "lin:kaula",
+  "name": "Kaula (the Kula tradition)",
+  "alt_names": [
+   "Kula",
+   "Kulamārga",
+   "Kaulamārga",
+   "Kaulācāra",
+   "Kulācāra",
+   "Kuladharma",
+   "Kulāgama",
+   "Yoginīkaula (Kaulajñānanirṇaya)",
+   "Mahākaula",
+   "Siddhakaula"
+  ],
+  "family": "vedic",
+  "sub_lineages": [
+   "lin:kubjika"
+  ],
+  "founders": [
+   "tch:matsyendranatha"
+  ],
+  "key_teachers": [
+   "tch:matsyendranatha",
+   "tch:sumatinatha",
+   "tch:sambhunatha",
+   "tch:abhinavagupta",
+   "tch:jayaratha",
+   "tch:jnanananda-paramahamsa",
+   "tch:purnananda",
+   "tch:krsnananda-agamavagisa"
+  ],
+  "texts": [
+   "src:kaulajnananirnaya",
+   "src:akulavira-tantra",
+   "src:kularnava-tantra",
+   "src:kaulavalinirnaya",
+   "src:kubjikamata-tantra",
+   "src:kularatnoddyota",
+   "src:paratrisika",
+   "src:tantrasadbhava",
+   "src:kaula-upanisad",
+   "src:kulacudamani-tantra",
+   "src:mahanirvana-tantra",
+   "src:yoni-tantra",
+   "src:matrkabheda-tantra",
+   "src:tantraloka"
+  ],
+  "regions": [
+   "Kāmarūpa (Assam)",
+   "Kashmir",
+   "Jālandhara",
+   "Oḍḍiyāna",
+   "Nepal",
+   "Bengal",
+   "the Deccan"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "The Kaula teaching was brought down (avatārita) at Candradvīpa by Matsyendra (Macchaghna), and was taught earlier in each age by Siddhas (Kaulajñānanirṇaya 9.8-9; 22.10-12)",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Kaula scriptures from c. 9th–10th c. (Kaulajñānanirṇaya; the Kula stratum of the Trika); the Kulārṇava is usually placed c. 11th–14th c. (Muktabodha catalogue: 'post-1100')",
+    "from": 800,
+    "to": 1400
+   },
+   "confidence": "low"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:vidyapitha",
+    "what": "the yoginī cults and cremation-ground rites of the Yāmala tantras",
+    "evidence": "shared rites and the yoginī-kaula (U08, U19)"
+   },
+   {
+    "from": "lin:kapalika",
+    "what": "Kāpālika observances, reinterpreted as inner and domestic worship",
+    "evidence": "scholarly hypothesis"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:trika",
+    "what": "Kula ritual and doctrine integrated by Abhinavagupta (Tantrāloka 29)"
+   },
+   {
+    "to": "lin:kalikula",
+    "what": "kaulācāra and the five tattvas in Kālī worship"
+   },
+   {
+    "to": "lin:srividya",
+    "what": "the Kaula mode of Śrīvidyā worship"
+   },
+   {
+    "to": "lin:natha",
+    "what": "Matsyendra's Kaula teaching as the root of the Nāth lineage (tradition's account)"
+   }
+  ],
+  "distinctive_positions": [
+   "Kula is Śakti and Akula is Śiva; the Kaulas are skilled in joining kula and akula (Kulārṇava 17.27).",
+   "Kaula is the highest of the seven modes of conduct: Veda < Vaiṣṇava < Śaiva < Dakṣiṇa < Vāma < Siddhānta < Kaula (Kulārṇava 2.7-8).",
+   "In the Kula dharma enjoyment itself becomes yoga, sin becomes merit and saṃsāra becomes liberation (Kulārṇava 2.23-24).",
+   "The Kula truth is beyond both duality and non-duality (Kulārṇava 1.110).",
+   "The body is the temple and the jīva is Sadāśiva; bound it is jīva, freed it is Śiva (Kulārṇava 9.41-43).",
+   "The teaching passes only from ear to ear from a tested guru to a tested disciple, never to the deceitful (Kaulajñānanirṇaya 6.9-14; Kulārṇava 14.19, 14.25).",
+   "Worship with the kula substances (summary only) is held to reveal the bliss of Brahman latent in the body, and is condemned when done for pleasure or without initiation (Kulārṇava 2.117; 5.79-80; 5.99; 5.104).",
+   "In the circle of worship (bhairavīcakra) all castes are twice-born; outside it they are separate (Kulārṇava 8.96-97)."
+  ],
+  "ultimate": "ult:kaula",
+  "path_maps": [
+   "pth:kaula-seven-acaras",
+   "pth:kaula-seven-ullasas"
+  ],
+  "summary": "The Kaula or Kula tradition teaches the worship of the Goddess and her 'family' (kula) of powers — the yoginīs and mothers — together with Bhairava, as a path of both enjoyment (bhukti) and liberation (mukti). Its early scripture is the Kaulajñānanirṇaya ascribed to Matsyendra; its classic later exposition is the Kulārṇava Tantra (17 ullāsas) on the guru, initiation, the āmnāyas, the seven ullāsas and the Kula worship with the five tattvas; it branches into the four or five āmnāyas (Kubjikā's Paścimāmnāya, the Kālī Uttarāmnāya, Śrīvidyā's Dakṣiṇāmnāya, the Pūrva and Ūrdhva), shaped the Trika of Abhinavagupta and the eastern Kālī and Tārā cults, and insists on secrecy, the guru's authority and graded eligibility.",
+  "coverage": [
+   "A8",
+   "I2",
+   "C",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:kaula-srividya",
+  "name": "Kaula Śrīvidyā (the Vāmakeśvara–Yoginīhṛdaya exegetical line)",
+  "family": "vedic",
+  "parent": "lin:srividya",
+  "alt_names": [
+   "Kaula mode of Śrīvidyā",
+   "dakṣiṇa-Kaula Śrīvidyā (as often described)"
+  ],
+  "key_teachers": [
+   "tch:punyananda",
+   "tch:amrtananda",
+   "tch:natanananda",
+   "tch:jayaratha",
+   "tch:bhaskararaya",
+   "tch:umanandanatha",
+   "tch:ramesvara-srividya",
+   "tch:parasurama"
+  ],
+  "texts": [
+   "src:vamakesvara-tantra",
+   "src:yoginihrdaya",
+   "src:yoginihrdaya-dipika",
+   "src:kamakalavilasa",
+   "src:cidvalli",
+   "src:parasurama-kalpasutra",
+   "src:nityotsava",
+   "src:saubhagyodaya-ramesvara",
+   "src:setubandha",
+   "src:saubhagyabhaskara",
+   "src:varivasya-rahasya",
+   "src:tantraraja-tantra",
+   "src:kaula-upanisad"
+  ],
+  "regions": [
+   "Kashmir",
+   "South India",
+   "Varanasi",
+   "Maharashtra"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "The teaching descends from Śiva (Parameśvara) through the divine, perfected and human streams of gurus.",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Puṇyānanda and Amṛtānanda c. 13th-14th c. (uncertain); Bhāskararāya and Umānandanātha 18th c.",
+    "from": 1200,
+    "to": null
+   },
+   "confidence": "low"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:kaula",
+    "what": "Kaula conduct and ritual frame",
+    "evidence": "Yoginīhṛdaya Dīpikā on 2.81 (kaulācāra); Paraśurāma Kalpasūtra 1.12, 1.24"
+   }
+  ],
+  "distinctive_positions": [
+   "Outer worship of the cakra is performed even by the omniscient Śiva because it leads to the knowledge of non-difference (Yoginīhṛdaya 3.3 with the Dīpikā); inner and outer worship together.",
+   "Bliss is the form of Brahman, present in the body; the five 'M's manifest it and are used in secret; exposure leads to hell; when they are unavailable the daily worship continues without them (PKS 1.12, 1.24).",
+   "The Goddess is at once Kaula and Samaya (Bhāskararāya on Lalitā Sahasranāma 36-37).",
+   "Initiation in stages (Bālā first, then the higher vidyās) with initiatory names ending in '-ānandanātha' (PKS 1.39-41).",
+   "The Vedic standing of Śrīvidyā is defended by Mīmāṃsā reasoning (Bhāskararāya)."
+  ],
+  "ultimate": "ult:kaula-srividya",
+  "summary": "The line of Śrīvidyā that follows the Vāmakeśvara tantra and Yoginīhṛdaya within a Kaula frame: Puṇyānanda's Kāmakalāvilāsa, Amṛtānanda's Dīpikā, the Paraśurāma Kalpasūtra with Umānandanātha's Nityotsava, and Bhāskararāya's commentaries. It combines outer Śrīcakra worship, Kaula conduct kept secret, and non-dual knowledge.",
+  "notes": "'Kaula Śrīvidyā' is a descriptive grouping used here for the Kaula-affiliated exegetical line; the texts call their conduct kaulācāra. Many living lines practise its rites with substitutes (dakṣiṇa mode).",
+  "coverage": [
+   "A8",
+   "D",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:kerala-tantra",
   "name": "Kerala tantra (temple-tantra tradition of Kerala)",
   "alt_names": [
@@ -1522,6 +2844,102 @@
   "provenance": {
    "units": [
     "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:kubjika",
+  "name": "Kubjikā tradition (Paścimāmnāya, the 'Western Transmission')",
+  "alt_names": [
+   "Paścimāmnāya",
+   "Kulālikāmnāya",
+   "Śrīmata",
+   "Kubjikāmata",
+   "Western Transmission",
+   "Kujā cult",
+   "Paścimāmnāya of Kubjikā and Navātman"
+  ],
+  "family": "vedic",
+  "parent": "lin:kaula",
+  "key_teachers": [
+   "tch:vimalaprabodha"
+  ],
+  "texts": [
+   "src:kubjikamata-tantra",
+   "src:satsahasra-samhita",
+   "src:manthanabhairava-tantra",
+   "src:srimatottara-tantra",
+   "src:cincinimatasarasamuccaya",
+   "src:kubjikopanisad",
+   "src:agni-purana",
+   "src:pascimamnaya-paddhatis-nepal"
+  ],
+  "regions": [
+   "Nepal (Kathmandu valley)",
+   "the western Himalaya (Oḍḍiyāna, in the tradition's account)",
+   "Konkan and the Deccan (Candradvīpa / Śrīśaila in the tradition's geography)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "The Goddess received the transmission at Candradvīpa and spread it from the western Himalaya (the 'western' of all paths) to Śrīśaila, Kiṣkindhā and Oḍḍiyāna (Kubjikāmata 2.20-40)",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Kubjikāmata perhaps c. 10th c. or earlier; the Kubjikā cult survives in Nepal among Newar tantric priests",
+    "from": 900,
+    "to": null
+   },
+   "confidence": "low"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:kaula",
+    "what": "the Kaula yoginī and siddha framework",
+    "evidence": "the Kubjikāmata calls itself the Kulālikāmnāya"
+   },
+   {
+    "from": "lin:trika",
+    "what": "the Mālinī letter-order and Trika goddess mantras",
+    "evidence": "KMT ch. 4-5 (Mālinī), Goudriaan–Schoterman edition"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:newar-vajrayana",
+    "what": "shared ritual culture of Newar tantric priests (Kubjikā worship in Bhaktapur and Kathmandu)"
+   },
+   {
+    "to": "lin:natha",
+    "what": "cakra vocabulary and Siddha lists shared with the Nāth tradition (scholarly hypothesis)"
+   }
+  ],
+  "distinctive_positions": [
+   "The Goddess Kubjikā ('the Bent One') emerged from the liṅga, dark and hunch-backed, and became bent out of shame (lajjā) when Bhairava asked for the transmission (Kubjikāmata 2.3-5, 2.14).",
+   "Śiva and the Goddess are mutually dependent: 'nothing is without me, nothing without you'; Bhairava calls her his guru (Kubjikāmata 2.17-18).",
+   "The four seats are four levels of the supreme yoni: Kāmākhya (beyond form), Pūrṇagiri (form), Jālandhara (word), Oḍra/Oḍḍiyāna (body) (Kubjikāmata 11.6-7).",
+   "The six centres (ṣaṭprakāra, with their goddesses) are the body of the Goddess; Kubjikā is the coiled power (Kubjikāmata 2.2 hymn; chs. 11-15).",
+   "The disciple who breaks the samayas and slanders the guru becomes 'dead while living' (Kubjikāmata 12.3-9)."
+  ],
+  "ultimate": "ult:kubjika",
+  "summary": "Kubjikā ('the Bent One', Kujā), consort of Navātman/Kujeśa Bhairava, is the goddess of the Paścimāmnāya, the western of the Kaula transmissions. Its root scripture, the Kubjikāmata (25 paṭalas, c. 3,500 verses in the Kulālikāmnāya recension), with the Ṣaṭsāhasrasaṃhitā and the vast Manthānabhairava, teaches the Goddess's descent through the sacred seats, a mantra-maṇḍala system of six centres and their yoginīs, and strict samaya discipline. Absorbed into the Kālī and Śrīvidyā cults elsewhere, it survives as a living cult in Nepal.",
+  "coverage": [
+   "I2",
+   "A8"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U24-kali-kaula"
    ],
    "phases": [
     "skeleton"
@@ -1836,6 +3254,145 @@
   }
  },
  {
+  "id": "lin:mimamsa",
+  "name": "Mīmāṃsā (Pūrva Mīmāṃsā)",
+  "alt_names": [
+   "Pūrva Mīmāṃsā",
+   "Karma Mīmāṃsā",
+   "Dharma Mīmāṃsā",
+   "Adhvara Mīmāṃsā",
+   "Jaiminīya darśana",
+   "Vākyaśāstra"
+  ],
+  "family": "vedic",
+  "sub_lineages": [
+   "lin:bhatta-mimamsa",
+   "lin:prabhakara-mimamsa",
+   "lin:murari-mimamsa"
+  ],
+  "founders": [
+   "tch:jaimini"
+  ],
+  "key_teachers": [
+   "tch:jaimini",
+   "tch:badari",
+   "tch:upavarsa",
+   "tch:vrttikara-mimamsa",
+   "tch:bhavadasa",
+   "tch:sabara",
+   "tch:bhartrmitra",
+   "tch:kumarila",
+   "tch:prabhakara",
+   "tch:mandana-misra",
+   "tch:salikanatha",
+   "tch:parthasarathi-misra",
+   "tch:murari-misra",
+   "tch:vidyaranya",
+   "tch:khandadeva",
+   "tch:apadeva",
+   "tch:laugaksi-bhaskara",
+   "tch:vedanta-desika",
+   "tch:appayya-diksita"
+  ],
+  "texts": [
+   "src:mimamsa-sutra",
+   "src:sankarsa-kanda",
+   "src:upavarsa-vrtti",
+   "src:bhavadasa-vrtti",
+   "src:sabara-bhasya",
+   "src:jaiminiya-nyayamala",
+   "src:mimamsanyayaprakasa",
+   "src:arthasangraha",
+   "src:mimamsaparibhasa",
+   "src:sankarsa-kanda-bhasya",
+   "src:sesvara-mimamsa",
+   "src:mimamsa-paduka",
+   "src:vidhirasayana",
+   "src:upakramaparakrama",
+   "src:adhvaramimamsa-kutuhalavrtti"
+  ],
+  "regions": [
+   "across the subcontinent; later centres of study at Vārāṇasī, Mithilā, and in South India (Tamil country, Kerala, Karnataka, Andhra)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Jaimini, pupil of Vyāsa (Bādarāyaṇa), taught at the close of the Dvāpara age (the tradition's account)",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Mīmāṃsā Sūtra c. 3rd c. BCE – 1st c. CE (estimates vary widely); Śabara c. 3rd–5th c. CE; unbroken commentarial tradition to the present",
+    "from": -300,
+    "to": null
+   },
+   "confidence": "low"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:vedic-srauta",
+    "what": "the śrauta ritual corpus and the Brāhmaṇa exegesis of injunction (vidhi) and explanatory praise (arthavāda) that Mīmāṃsā systematizes",
+    "evidence": "every adhikaraṇa of the Mīmāṃsā Sūtra takes its topic (viṣaya) from Vedic ritual texts"
+   },
+   {
+    "from": "lin:vedanga",
+    "what": "procedural knowledge of the kalpa (śrauta) sūtras and grammatical analysis of Vedic words",
+    "evidence": "Śabara and Kumārila cite kalpa-sūtras and discuss the authority of grammar (MS 1.3.24–29; Tantravārttika vyākaraṇādhikaraṇa)"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:vedanta",
+    "what": "the adhikaraṇa method, rules of textual interpretation (the basis of the six marks of purport), and — for Advaita — the Bhāṭṭa account of the means of knowledge in empirical matters"
+   },
+   {
+    "to": "lin:dharmasastra",
+    "what": "interpretive maxims (nyāya) used by Dharmaśāstra commentators and digest writers"
+   },
+   {
+    "to": "lin:visistadvaita",
+    "what": "the teaching (via the Vṛttikāra cited by Rāmānuja) that Pūrva and Uttara Mīmāṃsā form one continuous śāstra; Vedānta Deśika's theistic reading of the Mīmāṃsā Sūtra"
+   }
+  ],
+  "distinctive_positions": [
+   "Dharma is a beneficial object known only through Vedic injunction (codanā); perception and reasoning based on it cannot know dharma (MS 1.1.2, 1.1.4).",
+   "The relation of word and meaning is original (autpattika), not made by any person; hence the Veda's injunctions are a self-sufficient means of knowledge (MS 1.1.5).",
+   "Words (letters) are eternal; utterance only manifests them (MS 1.1.6–23).",
+   "The Veda is authorless (apauruṣeya) and beginningless; names attached to its recensions derive from their expounders (MS 1.1.27–32).",
+   "Every cognition is valid of itself; invalidity is established only by a defect in its cause or a later contradicting cognition (svataḥ-prāmāṇya).",
+   "The Veda consists of injunction, mantra, name, prohibition and explanatory praise; all of it is meaningful through connection with injunctions (MS 1.2.7).",
+   "A ritual act, though perishable, produces an unseen potency (apūrva) that yields the promised result later (MS 2.1.5 with Śabara).",
+   "The sacrificial act, not the deity, is principal; the deity is that to which the offering is directed as named in the injunction or mantra (MS 9.1.9).",
+   "No creator god and no total creation or dissolution of the world are established by any means of knowledge (Kumārila; Śālikanātha).",
+   "No person — human, yogin or god — perceives dharma directly; claims of omniscience in matters of dharma are rejected (Kumārila).",
+   "Heaven (svarga) is the original declared goal of Vedic rites; later teachers add liberation (mokṣa) as the ending of embodiment through the exhaustion of karma."
+  ],
+  "ultimate": "ult:mimamsa",
+  "path_maps": [
+   "pth:mimamsa-vedic-dharma-life"
+  ],
+  "summary": "The school of Vedic exegesis founded on Jaimini's Mīmāṃsā Sūtra: it inquires into dharma as known from Vedic injunctions and develops a system of rules for interpreting the Veda (the adhikaraṇa method), a realist epistemology built around the intrinsic validity of cognition and the authorless, eternal Veda, and a theory of ritual action and its unseen result (apūrva). After Śabara's commentary it divided into the schools of Kumārila (Bhāṭṭa) and Prabhākara (Prābhākara), with Murāri Miśra's short-lived 'third path'.",
+  "notes": "'Vākyaśāstra' (science of the sentence) is the traditional name that pairs Mīmāṃsā with grammar (padaśāstra) and logic (pramāṇaśāstra); moderate confidence. Status 'living': Mīmāṃsā is still taught in traditional institutions.",
+  "coverage": [
+   "A5",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U12-mimamsa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:mitaksara-school",
   "name": "Mitākṣarā school of Dharmaśāstra",
   "alt_names": [
@@ -1869,6 +3426,61 @@
   "provenance": {
    "units": [
     "skeleton:U02-brahmana-vedanga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:murari-mimamsa",
+  "name": "Murāri Miśra's school (the 'third path' of Mīmāṃsā)",
+  "alt_names": [
+   "Miśra-mata",
+   "murāres tṛtīyaḥ panthāḥ"
+  ],
+  "family": "vedic",
+  "parent": "lin:mimamsa",
+  "founders": [
+   "tch:murari-misra"
+  ],
+  "key_teachers": [
+   "tch:murari-misra"
+  ],
+  "texts": [
+   "src:tripadinitinayana",
+   "src:angatvanirukti"
+  ],
+  "regions": [
+   "Mithilā (probable)"
+  ],
+  "dating": {
+   "scholarly": {
+    "text": "c. 12th–13th c. CE (before Gaṅgeśa, who cites his view)",
+    "from": 1150,
+    "to": 1300
+   },
+   "confidence": "low"
+  },
+  "status": "extinct",
+  "distinctive_positions": [
+   "Validity of a cognition is intrinsic but is grasped by the reflective after-cognition (anuvyavasāya) that apprehends the first cognition — a third account beside the Bhāṭṭa (inference from knownness) and the Prābhākara (self-luminosity) ones, as reported by Gaṅgeśa's Tattvacintāmaṇi."
+  ],
+  "ultimate": "ult:murari-mimamsa",
+  "summary": "A minor third school of Mīmāṃsā associated with Murāri Miśra, proverbially 'Murāri's third path' (murāres tṛtīyaḥ panthāḥ). Only fragments of his works survive; his account of how validity is known is discussed by Navya-Nyāya.",
+  "notes": "Created as a sub-lineage because the tradition names it a third path; almost nothing of its wider doctrine survives. Low confidence on region and dating; the numbering of homonymous Murāris (II/III) in modern literature is inconsistent.",
+  "coverage": [
+   "A5"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U12-mimamsa"
    ],
    "phases": [
     "skeleton"
@@ -1917,6 +3529,202 @@
   "provenance": {
    "units": [
     "skeleton:U02-brahmana-vedanga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:natha",
+  "name": "Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)",
+  "alt_names": [
+   "Nātha sampradāya",
+   "Nāth Panth",
+   "Yogī sampradāya",
+   "Kānphaṭa Yogīs",
+   "Gorakhnāthīs",
+   "Darśanī Yogīs",
+   "Siddha tradition (Nātha-siddha)"
+  ],
+  "family": "vedic",
+  "sub_lineages": [
+   "lin:folk-natha-siddha"
+  ],
+  "founders": [
+   "tch:adinatha",
+   "tch:matsyendranatha",
+   "tch:goraksanatha"
+  ],
+  "key_teachers": [
+   "tch:jalandharanatha",
+   "tch:kanha",
+   "tch:carpatanatha",
+   "tch:caurangi",
+   "tch:gahininatha",
+   "tch:nivrttinatha",
+   "tch:jnanesvar",
+   "tch:bhartrhari-natha",
+   "tch:gopicandra",
+   "tch:mayanamati",
+   "tch:revananatha",
+   "tch:naganatha",
+   "tch:dharmanatha",
+   "tch:nityanatha",
+   "tch:svatmarama",
+   "tch:balnath",
+   "tch:mastnath",
+   "tch:gambhirnath"
+  ],
+  "texts": [
+   "src:kaulajnananirnaya",
+   "src:akulavira-tantra",
+   "src:kulananda-tantra",
+   "src:jnanakarika",
+   "src:yogavisaya",
+   "src:candravalokana",
+   "src:matsyendrasamhita",
+   "src:goraksasataka",
+   "src:goraksasataka-briggs",
+   "src:goraksasataka-mallinson",
+   "src:vivekamartanda",
+   "src:goraksa-paddhati",
+   "src:siddha-siddhanta-paddhati",
+   "src:amaraugha-prabodha",
+   "src:amaraughasasana",
+   "src:goraksa-samhita",
+   "src:yogamartanda",
+   "src:yogabija",
+   "src:goraksa-siddhanta-sangraha",
+   "src:siddhasiddhanta-sangraha",
+   "src:goraksa-gutika",
+   "src:goraksa-yogasastra",
+   "src:goraksa-mudgara",
+   "src:gorakhbani",
+   "src:macchindra-gorakh-bodh",
+   "src:nath-siddhon-ki-baniyan",
+   "src:pran-sankali",
+   "src:kabir-gorakh-gosthi",
+   "src:goraksa-vijaya",
+   "src:minacetana",
+   "src:manikcandra-rajar-gan",
+   "src:gopicandrer-sannyas",
+   "src:gopicand-bharthari-gatha",
+   "src:navanatha-bhaktisara",
+   "src:navanatha-caritra-gaurana",
+   "src:qissa-puran-bhagat",
+   "src:hir-waris-shah",
+   "src:padmavat",
+   "src:varnaratnakara",
+   "src:hatha-yoga-pradipika",
+   "src:khecarividya",
+   "src:jnanesvari"
+  ],
+  "regions": [
+   "Gorakhpur and eastern Uttar Pradesh",
+   "Punjab (Gorakh Ṭillā / Tilla Jogian)",
+   "Rajasthan (Jodhpur)",
+   "Haryana (Asthal Bohar)",
+   "Gujarat and Kutch (Dhinodhar, Girnar)",
+   "Nepal (Gorkha, Kathmandu valley)",
+   "Bengal and Assam (Kāmarūpa)",
+   "Maharashtra (Tryambakeśvar, Madhi)",
+   "coastal Karnataka (Kadri, Mangaluru)",
+   "Andhra (Telugu Nāth legends)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Ādinātha (Śiva) is the first Nāth; Matsyendra received the teaching from him; Gorakṣa is held to be immortal and to have appeared in each of the four ages",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Matsyendra c. 9th–10th c. (honoured by Abhinavagupta, Tantrāloka 1.7); Gorakṣa c. 11th–13th c.; the order with its twelve panths is consolidated later (c. 15th–18th c.)",
+    "from": 900,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:yogini-kaula",
+    "what": "Matsyendra's Kaula teaching: the body as the locus of the divine, the Kula/Akula, the centres of the body, the nectar of the moon, the conquest of death and the yoginīs",
+    "evidence": "Kaulajñānanirṇaya colophons name Macchaghnapāda/Matsyendra as its bringer; Nāth lists begin with Ādinātha and Matsyendra (HYP 1.5)."
+   },
+   {
+    "from": "lin:kapalika",
+    "what": "the ascetic style of the skull-bearing and ash-smeared Śaiva ascetics (earrings, ash, cremation-ground associations)",
+    "evidence": "scholarly hypothesis only (the tradition does not claim Kāpālika descent)."
+   },
+   {
+    "from": "lin:mahasiddha",
+    "what": "shared siddha figures and songs (Jālandhara, Kāṇha, Cauraṅgī, Mīna, Virūpa, Carpaṭi)",
+    "evidence": "overlap of the Nāth and Buddhist eighty-four siddha lists (Varṇaratnākara; Abhayadatta); see brw:natha-mahasiddha."
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:hatha-yoga",
+    "what": "the haṭha corpus attributed to Gorakṣa and the lineage of Nāth siddhas at the head of the Haṭhapradīpikā (1.4–9)"
+   },
+   {
+    "to": "lin:varkari",
+    "what": "Nāth initiation passed through Gahinīnāth to Nivṛttināth and Jñāneśvar (Jñāneśvarī 6.291; closing lineage ovīs of ch. 18)"
+   },
+   {
+    "to": "lin:sant",
+    "what": "the vocabulary of sahaja, śūnya, the unstruck sound, the tenth door and reversed speech (ulaṭbāṃsī) used by Kabīr and other Sants"
+   },
+   {
+    "to": "lin:tamil-siddha",
+    "what": "Korakkar (Gorakṣa) and Macchamuni (Matsyendra) counted among the eighteen Tamil Siddhars"
+   },
+   {
+    "to": "lin:newar-vajrayana",
+    "what": "the cult of Matsyendranātha as Karuṇāmaya / Buṅga-dyaḥ in the Kathmandu valley (mutual; see dsp:identity-of-matsyendra)"
+   },
+   {
+    "to": "lin:folk-natha-siddha",
+    "what": "regional Nāth saints and householder Jogī communities"
+   }
+  ],
+  "distinctive_positions": [
+   "The body (piṇḍa) contains the whole cosmos (brahmāṇḍa); liberation is realised in and through the body.",
+   "The goal is sahaja-samādhi / samarasa: the mind seeing the mind, the stilling of breath and mind in the void (śūnya) beyond the pairs (AmŚ 54; GŚ 94).",
+   "Perfection of the body (kāya-siddhi): an adamantine, deathless siddha body; conquest of death and time (kāla-vañcana) through retaining bindu and the moon's nectar.",
+   "Reversal (ulṭā sādhana): turning the downward flows of breath, bindu and mind upward to the head.",
+   "The guru is indispensable; the teaching passes ear to ear and is kept secret from the untested.",
+   "Rejection of caste, image-worship, pilgrimage, fasting and Vedic ritual as means to liberation for the knower (Akulavīra A.43–46; Gorakh Bānī).",
+   "Moderation and restraint (saṃyam), the 'middle way' of the yogī (Gorakh Bānī).",
+   "Distinctive order: split-ear initiation (kān-phaṛāī), earrings (darśan / mudrā), the nād horn on the selī thread, the dhūnī fire, the greeting 'ādeś', burial (samādhi) of yogīs rather than cremation.",
+   "Siddhis are signs, not the goal; the knower does not grasp them (Akulavīra B.83–84)."
+  ],
+  "ultimate": "ult:natha",
+  "path_maps": [
+   "pth:goraksasataka-six-limbs",
+   "pth:kjn-ascent-of-centres",
+   "pth:natha-initiation-stages",
+   "pth:amaraughaprabodha-four-yogas",
+   "pth:hatha-four-stages"
+  ],
+  "summary": "The Nāth tradition traces itself to Ādinātha (Śiva), Matsyendranātha and Gorakṣanātha and to the nine Nāths and eighty-four Siddhas. It joins the Kaula teaching of Matsyendra's Yoginīkaula with the body-centred yoga later called haṭha, aiming at sahaja, the samarasa of Śiva and Śakti, liberation while living and the perfected, deathless body. Its ascetics (Kānphaṭa yogīs) are organised in twelve panths with monasteries from Gorakhpur and Tilla Jogian to Kadri and Nepal; its vernacular sayings (Gorakh Bānī) and sagas (Gopīcand, Bharthari, Mayanāmatī, the rescue of Matsyendra) shaped Sant, Vārkarī and folk religion across India.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "A10",
+   "C",
+   "D"
+  ],
+  "notes": "family 'vedic' follows the coverage-map grouping (A7, Śaiva lineages); it does not settle the tradition's own rejection of Vedic ritual authority (see dsp:natha-varna-and-ritual) nor its overlap with the Buddhist Mahāsiddhas (C; brw:natha-mahasiddha).",
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
    ],
    "phases": [
     "skeleton"
@@ -2037,6 +3845,97 @@
   "provenance": {
    "units": [
     "skeleton:U11-nyaya-vaisesika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:nayanmar",
+  "name": "The Nāyaṉmārs and the Tirumuṟai (Tamil Śaiva bhakti)",
+  "alt_names": [
+   "Nāyaṉmār",
+   "Nāyaṉārs",
+   "the sixty-three",
+   "Aṟupattumūvar",
+   "Tamil Śaiva devotional tradition"
+  ],
+  "family": "vedic",
+  "parent": "lin:saiva-siddhanta",
+  "founders": [],
+  "key_teachers": [
+   "tch:karaikkal-ammaiyar",
+   "tch:tirumular",
+   "tch:appar",
+   "tch:campantar",
+   "tch:cuntarar",
+   "tch:manikkavacakar",
+   "tch:nampi-antar-nampi",
+   "tch:cekkilar"
+  ],
+  "texts": [
+   "src:tirumurai",
+   "src:tevaram",
+   "src:tiruvacakam",
+   "src:tirukkovaiyar",
+   "src:tiruvicaippa",
+   "src:tiruppallantu",
+   "src:tirumantiram",
+   "src:patinonram-tirumurai",
+   "src:periya-puranam",
+   "src:tiruttontar-tiruvantati"
+  ],
+  "regions": [
+   "Tamil country",
+   "Kerala (Cēramāṉ Perumāḷ)",
+   "Sri Lanka (Tiruk kōṇamalai and Tiruk kētīccaram are sung in the Tēvāram)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "saints of all ages; Māṇikkavācakar placed before the Tēvāram poets by much of the tradition",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Kāraikkāl Ammaiyār c. 6th c.; Appar and Campantar 7th c.; Cuntarar 8th–9th c.; Māṇikkavācakar c. 9th c.; canon compiled c. 10th–12th c.",
+    "from": 550,
+    "to": 1150
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "transmissions_given": [
+   {
+    "to": "lin:tamil-saiva-siddhanta",
+    "what": "the Tirumuṟai canon and the model of the four samayācāryas and their four paths"
+   }
+  ],
+  "distinctive_positions": [
+   "Love (aṉpu) for Śiva, expressed as service (toṇṭu) to him and to his devotees, outweighs birth, caste, learning and rite.",
+   "Śiva is present in named temples of the Tamil land; pilgrimage and song at each shrine are worship.",
+   "The four samayācāryas exemplify four relationships: servant (Appar), son (Campantar), friend (Cuntarar), and the true path of knowledge (Māṇikkavācakar).",
+   "Śiva's grace saves from all danger; the five syllables (namaccivāya) are the devotee's support.",
+   "Polemic against the Jains and Buddhists of the Tamil country (the tenth verse of Campantar's hymns)."
+  ],
+  "ultimate": "ult:nayanmar",
+  "path_maps": [
+   "pth:saiva-siddhanta-four-padas"
+  ],
+  "summary": "The Tamil Śaiva devotional movement of the sixty-three saints (Nāyaṉmārs) and nine groups of devotees celebrated in Cuntarar's Tiruttoṇṭattokai and Cēkkiḻār's Periya Purāṇam, whose hymns — the Tēvāram of Appar, Campantar and Cuntarar, Māṇikkavācakar's Tiruvācakam, Tirumūlar's Tirumantiram and others — form the twelve Tirumuṟai, the Tamil Śaiva canon still sung in temples by ōtuvārs.",
+  "notes": "Sub-lineage created by U18. The living tradition counts the Nāyaṉmārs within Śaiva Siddhānta; scholars note that the hymnists predate the Tamil systematization and were absorbed into it retrospectively (the Tēvāram's theology is devotional, not scholastic).",
+  "coverage": [
+   "A7"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U18-saiva-siddhanta"
    ],
    "phases": [
     "skeleton"
@@ -2688,6 +4587,90 @@
   }
  },
  {
+  "id": "lin:prabhakara-mimamsa",
+  "name": "Prābhākara Mīmāṃsā",
+  "alt_names": [
+   "Guru-mata",
+   "Prābhākara school",
+   "the school of the Guru"
+  ],
+  "family": "vedic",
+  "parent": "lin:mimamsa",
+  "founders": [
+   "tch:prabhakara"
+  ],
+  "key_teachers": [
+   "tch:prabhakara",
+   "tch:salikanatha",
+   "tch:bhavanatha",
+   "tch:nandisvara",
+   "tch:varadaraja-nayaviveka",
+   "tch:ramanujacarya-tantrarahasya"
+  ],
+  "texts": [
+   "src:brhati",
+   "src:laghvi",
+   "src:rjuvimala",
+   "src:dipasikha",
+   "src:prakaranapancika",
+   "src:nayaviveka",
+   "src:nayaviveka-dipika",
+   "src:prabhakaravijaya",
+   "src:tantrarahasya"
+  ],
+  "regions": [
+   "South India, especially Kerala (tradition); also Mithilā (Bhavanātha)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Prabhākara is presented in Bhāṭṭa legend as Kumārila's pupil, who earned the title 'Guru'",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Prabhākara c. 7th c. CE (relation to Kumārila disputed); independent Prābhākara works continue to c. 16th c. (Rāmānujācārya's Tantrarahasya)",
+    "from": 600,
+    "to": 1600
+   },
+   "confidence": "low"
+  },
+  "status": "unknown",
+  "distinctive_positions": [
+   "Five means of knowledge: perception, inference, verbal testimony (śāstra), comparison and postulation; non-apprehension is not a separate means (Prakaraṇapañcikā, Pramāṇapārāyaṇa).",
+   "Words convey their meanings only as already connected with other meanings, ultimately with what is to be done (anvitābhidhāna / kāryānvitābhidhāna).",
+   "Error is non-apprehension (akhyāti): 'this is silver' is two cognitions — a perception ('this') and a memory ('silver') — whose difference is not grasped (Prakaraṇapañcikā, Nayavīthī and Pramāṇapārāyaṇa).",
+   "Every cognition is self-luminous and manifests knower, known and knowing together (tripuṭī-pratyakṣa); the self appears only as the subject of cognition.",
+   "The meaning of an injunction is the command or 'what is to be done' (niyoga / kārya), identified with the apūrva known only from the Veda.",
+   "The Veda does not convey accomplished (siddha) things for their own sake; hence descriptions of a blissful liberation have no independent authority (Prakaraṇapañcikā ch. 8).",
+   "Eight categories, adding power (śakti), similarity (sādṛśya), number (saṅkhyā) and dependence (paratantratā) to substance, quality, action and universal.",
+   "Liberation is the absolute ending of embodiment caused by the complete exhaustion of dharma and adharma; the liberated self remains in mere being, without cognition (Prakaraṇapañcikā ch. 8).",
+   "No Īśvara directs dharma and adharma or creates the world; things arise and perish gradually, and the usage of elders from which word-meaning is learned is beginningless (Prakaraṇapañcikā ch. 7)."
+  ],
+  "ultimate": "ult:prabhakara-mimamsa",
+  "path_maps": [
+   "pth:prabhakara-moksa"
+  ],
+  "summary": "The school of Prabhākara Miśra ('the Guru'), based on his Bṛhatī and Laghvī on Śabara's commentary and systematized by Śālikanātha's Prakaraṇapañcikā, then by Bhavanātha and later Prābhākara authors. It holds five means of knowledge, the self-luminosity of cognition, the akhyāti account of error, and the doctrine that words mean in connection with what is to be done (kārya).",
+  "notes": "Status set to 'unknown': few independent Prābhākara works are known after c. the 16th century, though its doctrines are still studied in traditional curricula.",
+  "coverage": [
+   "A5"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U12-mimamsa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:pratyabhijna",
   "name": "Pratyabhijñā (the philosophy of recognition)",
   "alt_names": [
@@ -2957,6 +4940,117 @@
   }
  },
  {
+  "id": "lin:pustimarga",
+  "name": "Puṣṭimārga (Vallabha Sampradāya; Śuddhādvaita Brahmavāda)",
+  "alt_names": [
+   "Śuddhādvaita",
+   "Brahmavāda",
+   "Vallabha Sampradāya",
+   "Rudra Sampradāya (tradition's affiliation through Viṣṇusvāmin)",
+   "Path of grace"
+  ],
+  "family": "vedic",
+  "parent": "lin:vedanta",
+  "founders": [
+   "tch:vallabha"
+  ],
+  "key_teachers": [
+   "tch:vallabha",
+   "tch:vitthalanatha",
+   "tch:gopinatha-vallabha",
+   "tch:damodaradas-harsani",
+   "tch:surdas",
+   "tch:gokulnath",
+   "tch:harirai",
+   "tch:purusottama-pustimarga",
+   "tch:giridhara-pustimarga",
+   "tch:visnusvamin"
+  ],
+  "texts": [
+   "src:anubhasya",
+   "src:tattvarthadipanibandha",
+   "src:subodhini-vallabha",
+   "src:sodasagrantha",
+   "src:madhurastaka",
+   "src:patravalambana",
+   "src:purusottama-sahasranama",
+   "src:vidvanmandana",
+   "src:srngararasamandana",
+   "src:suddhadvaita-martanda",
+   "src:prameyaratnarnava",
+   "src:prasthanaratnakara",
+   "src:bhasyaprakasa",
+   "src:caurasi-vaisnavan-ki-varta",
+   "src:do-sau-bavan-vaisnavan-ki-varta",
+   "src:sursagar",
+   "src:raspancadhyayi-nanddas"
+  ],
+  "regions": [
+   "Braj (Gokul, Govardhan)",
+   "Nathdwara (Rajasthan)",
+   "Gujarat",
+   "Vārāṇasī",
+   "Mumbai"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Vallabha 1479–1531 CE; the Lord's command at Gokul on Śrāvaṇa śukla ekādaśī, VS 1549 (1492/93 CE)",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "founded c. 1490s–1530s CE; organised by Viṭṭhalanātha (1516–1586)",
+    "from": 1490,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:puranic",
+    "what": "the Bhāgavata Purāṇa as the fourth and decisive scripture",
+    "evidence": "Tattvārthadīpanibandha 1.7; Subodhinī"
+   }
+  ],
+  "distinctive_positions": [
+   "Pure non-dualism (śuddhādvaita): Brahman, untouched by māyā, is the sole reality; the world is Brahman's own real form.",
+   "Unmodified transformation (avikṛta-pariṇāma-vāda): Brahman becomes the world without undergoing change.",
+   "The world (jagat) is real; only the soul's 'I and mine' construction (saṃsāra) is unreal and to be ended.",
+   "Brahman manifests or conceals (āvirbhāva/tirobhāva) its being, consciousness and bliss: matter shows only sat, souls sat and cit, the Lord all three.",
+   "Three forms of the ultimate: Puruṣottama Kṛṣṇa (highest), Akṣara Brahman (his abode, the goal of knowers) and Antaryāmin.",
+   "Brahman is the locus of contradictory attributes (viruddha-dharmāśraya).",
+   "Four authoritative scriptures: Veda, the Gītā, the Brahma Sūtra and the Bhāgavata (the samādhi-bhāṣā of Vyāsa).",
+   "Grace (puṣṭi = poṣaṇa, BhP 2.10.4) is the sole cause of the highest devotion, independent of means; the maryādā path follows scriptural discipline.",
+   "Three kinds of souls: puṣṭi, maryādā and pravāha.",
+   "Initiation by brahmasambandha removes the five kinds of faults; everything is used only after being offered (samarpaṇa).",
+   "Loving service (sevā) of the Lord's form in the home is the path and the fruit; mental sevā is highest; the goal is absorption (nirodha) and love in separation (viraha), not liberation."
+  ],
+  "ultimate": "ult:pustimarga",
+  "path_maps": [
+   "pth:vallabha-bhaktivardhini-stages"
+  ],
+  "summary": "The householder path of grace founded by Vallabhācārya: a non-dualism in which the world is Brahman's real, unchanged self-manifestation and the soul, a spark of Brahman with its bliss concealed, is restored by Kṛṣṇa's grace to loving service (sevā) of his child and youthful forms, above all Śrīnāthjī. Organised by his son Viṭṭhalanātha into the eight daily periods of temple (havelī) service and the music of the aṣṭachāp poets, it is led by Vallabha's descendants (the Gosvāmī 'houses').",
+  "coverage": [
+   "A6",
+   "A9"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U16-bhedabheda"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:raghavendra-matha",
   "name": "Rāghavendra Maṭha (Mantrālaya)",
   "alt_names": [
@@ -2977,7 +5071,7 @@
   "texts": [
    "src:nyayasudha-parimala",
    "src:tattvaprakasika-bhavadipa",
-   "src:tantradipika"
+   "src:tantradipika-raghavendra"
   ],
   "regions": [
    "Andhra Pradesh (Mantrālaya)",
@@ -3003,6 +5097,159 @@
   "provenance": {
    "units": [
     "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:saiva-siddhanta",
+  "name": "Śaiva Siddhānta",
+  "alt_names": [
+   "Siddhānta",
+   "Saiddhāntika Śaivism",
+   "Caiva Cittāntam (Tamil)",
+   "Śuddhādvaita Śaiva Siddhānta (later Tamil self-description)"
+  ],
+  "family": "vedic",
+  "parent": "lin:mantramarga",
+  "sub_lineages": [
+   "lin:tamil-saiva-siddhanta",
+   "lin:nayanmar"
+  ],
+  "founders": [],
+  "key_teachers": [
+   "tch:sadyojyoti",
+   "tch:brhaspati-saiddhantika",
+   "tch:narayanakantha",
+   "tch:ramakantha",
+   "tch:srikantha-saiddhantika",
+   "tch:bhoja",
+   "tch:somasambhu",
+   "tch:isanasiva-gurudeva",
+   "tch:aghorasiva",
+   "tch:trilocanasiva",
+   "tch:sivagrayogin",
+   "tch:tirumular",
+   "tch:appar",
+   "tch:campantar",
+   "tch:cuntarar",
+   "tch:manikkavacakar",
+   "tch:cekkilar",
+   "tch:meykantar",
+   "tch:arunanti",
+   "tch:umapati-sivacarya",
+   "tch:civanana-munivar"
+  ],
+  "texts": [
+   "src:kamika-agama",
+   "src:kirana-tantra",
+   "src:matangaparamesvara",
+   "src:mrgendra-tantra",
+   "src:sarvajnanottara",
+   "src:pauskara-agama",
+   "src:naresvarapariksa",
+   "src:moksakarika",
+   "src:paramoksanirasakarika",
+   "src:tattvasangraha-sadyojyoti",
+   "src:tattvatrayanirnaya",
+   "src:bhogakarika",
+   "src:ratnatraya-srikantha",
+   "src:nadakarika",
+   "src:tattvaprakasa-bhoja",
+   "src:astaprakarana",
+   "src:mrgendravrtti",
+   "src:kiranavrtti",
+   "src:matangavrtti",
+   "src:somasambhupaddhati",
+   "src:kriyakramadyotika",
+   "src:tirumurai",
+   "src:tirumantiram",
+   "src:sivananabodham",
+   "src:sivananasiddhiyar",
+   "src:meykanta-sastras"
+  ],
+  "regions": [
+   "Kashmir",
+   "Central India (Mālava, Cedi)",
+   "Tamil country (Cōḻa, Pāṇṭiya lands)",
+   "Kerala",
+   "Karnataka",
+   "Sri Lanka (Jaffna)",
+   "Nepal"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "revealed by Śiva (Sadāśiva) at the beginning of creation through the 28 Āgamas; transmitted by divine and human teachers",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "scriptures from c. 5th–7th c. CE (Niśvāsa earliest); exegetes from c. 675 CE (Sadyojyoti); Tamil systematization 12th–14th c.; living today",
+    "from": 450,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:mantramarga",
+    "what": "the Siddhānta scriptures (the ten Śiva and eighteen Rudra Āgamas) and their ritual",
+    "evidence": "the Āgamas themselves (tradition's account: revelation)"
+   },
+   {
+    "from": "lin:samkhya",
+    "what": "the lower 25 principles (prakṛti to earth, puruṣa), re-set within the 36 tattvas",
+    "evidence": "shared vocabulary; the Siddhānta presents Sāṃkhya's tattvas as a lower revelation"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:tamil-saiva-siddhanta",
+    "what": "the Āgamic doctrine of pati–paśu–pāśa, the malas, dīkṣā and the four pādas, systematized in Tamil by Meykaṇṭār and his successors"
+   },
+   {
+    "to": "lin:kashmir-saivism",
+    "what": "the ritual base and categories (36 tattvas, dīkṣā, six adhvans) that the non-dual exegetes re-read"
+   },
+   {
+    "to": "lin:virasaiva",
+    "what": "the Siddhānta Āgamas, which Vīraśaivas also accept as scripture (moderate confidence)"
+   }
+  ],
+  "distinctive_positions": [
+   "Three eternal, uncreated realities: the Lord (pati = Śiva), bound souls (paśu), and the bonds (pāśa: āṇava mala, karma, māyā).",
+   "Souls are countless, eternal and distinct from Śiva; each has innate powers of knowing and acting that are covered, not created, by mala.",
+   "Āṇava mala is a real, beginningless substance (dravya); knowledge alone cannot remove it — Śiva removes it by his power through initiation (dīkṣā).",
+   "Śiva is the efficient cause only; māyā (and bindu, pure māyā) is the material cause; his single power (śakti) is the instrument.",
+   "Śiva performs five acts — emission, maintenance, withdrawal, concealment and grace — all for the souls' release.",
+   "Liberation (Sanskrit exegetes): the soul becomes equal to Śiva (śivasamatva), its omniscience and omnipotence manifested, yet it remains numerically distinct and does not perform the cosmic acts.",
+   "The path is fourfold: caryā, kriyā, yoga and jñāna, whose fruits are sālokya, sāmīpya, sārūpya and sāyujya.",
+   "The world is real, not an appearance; the Siddhānta rejects Advaita's unreality of the world and the non-dualists' identity of soul and Śiva."
+  ],
+  "ultimate": "ult:saiva-siddhanta",
+  "path_maps": [
+   "pth:saiva-siddhanta-four-padas",
+   "pth:saiva-siddhanta-ten-karyas"
+  ],
+  "summary": "The dualist (or 'realist') ritual Śaivism of the Mantramārga, grounded in the 28 Siddhānta Āgamas. Its Sanskrit exegesis runs from Sadyojyoti (c. 700) through the Kashmirian commentators Nārāyaṇakaṇṭha and Rāmakaṇṭha to the South Indian ritual authors Somaśambhu and Aghoraśiva; in the Tamil country it merged with the devotional corpus of the Nāyaṉmārs (the twelve Tirumuṟai) and was systematized in Tamil by Meykaṇṭār and the fourteen Meykaṇṭa Śāstras. It remains the theology of most Śiva temples of South India and Sri Lanka.",
+  "notes": "U18 created two sub-lineages so that the Sanskrit exegetes' and the Tamil school's positions can be recorded side by side: lin:tamil-saiva-siddhanta (the Meykaṇṭa school) and lin:nayanmar (the Tirumuṟai bhakti stream). Definitions under lin:saiva-siddhanta give the Sanskrit exegetes' view unless stated.",
+  "coverage": [
+   "A7",
+   "I2",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U18-saiva-siddhanta"
    ],
    "phases": [
     "skeleton"
@@ -3733,6 +5980,237 @@
   }
  },
  {
+  "id": "lin:sakta",
+  "name": "Śākta traditions",
+  "family": "vedic",
+  "alt_names": [
+   "Śāktism",
+   "Śākta-mata",
+   "Śākta-darśana",
+   "the worship of the Goddess (Devī)"
+  ],
+  "sub_lineages": [
+   "lin:srividya",
+   "lin:kalikula",
+   "lin:kaula",
+   "lin:kubjika",
+   "lin:bengal-assam-sakta",
+   "lin:folk-goddess"
+  ],
+  "key_teachers": [
+   "tch:bhaskararaya",
+   "tch:lolla-laksmidhara",
+   "tch:markandeya",
+   "tch:medhas",
+   "tch:ramprasad-sen",
+   "tch:kamalakanta",
+   "tch:purnananda",
+   "tch:muka-kavi",
+   "tch:abhirami-pattar"
+  ],
+  "texts": [
+   "src:devi-mahatmya",
+   "src:devi-bhagavata-purana",
+   "src:devi-gita",
+   "src:devi-purana",
+   "src:kalika-purana",
+   "src:lalitopakhyana",
+   "src:lalita-sahasranama",
+   "src:lalita-trisati",
+   "src:saundarya-lahari",
+   "src:devi-upanisad",
+   "src:bahvrca-upanisad",
+   "src:tripura-upanisad",
+   "src:tripuratapani-upanisad",
+   "src:bhavana-upanisad",
+   "src:kularnava-tantra",
+   "src:devi-kavaca",
+   "src:pradhanika-rahasya",
+   "src:devyaparadha-ksamapana-stotra",
+   "src:muka-pancasati",
+   "src:abhirami-antati"
+  ],
+  "regions": [
+   "all of South Asia",
+   "Bengal",
+   "Assam",
+   "Kashmir",
+   "Nepal",
+   "Tamil Nadu",
+   "Kerala",
+   "Karnataka",
+   "Andhra",
+   "Orissa",
+   "Maharashtra",
+   "Gujarat",
+   "Rajasthan",
+   "the Himalaya"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "The Goddess is praised from the Veda onward (the hymn of Speech, RV 10.125; the Śrī Sūkta; Umā Haimavatī in the Kena Upaniṣad); her supremacy is revealed in the Purāṇas and tantras.",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Śākta theology is first fully formulated in the Devī Māhātmya (c. 5th-6th c. CE); Śākta tantras from c. 7th-9th c. onward; the Devī Bhāgavata and the Śākta Upaniṣads are later (c. 11th-16th c.).",
+    "from": 400,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:vedic-srauta",
+    "what": "hymns to Vāk, Śrī, Rātrī and Aditi read as praise of the Goddess",
+    "evidence": "RV 10.125 (Vāk Sūkta) and the Śrī Sūkta are recited in Śākta worship"
+   },
+   {
+    "from": "lin:upanisadic",
+    "what": "Brahman-language and the great sayings applied to the Goddess",
+    "evidence": "Bahvṛca and Devī Upaniṣads; Kena 3-4 (Umā Haimavatī)"
+   },
+   {
+    "from": "lin:puranic",
+    "what": "the Devī Māhātmya and Devī Bhāgavata as root scriptures of Goddess devotion",
+    "evidence": "Saptaśatī recitation is the most widespread Śākta rite"
+   },
+   {
+    "from": "lin:mantramarga",
+    "what": "the tantric frame of initiation, mantra, maṇḍala and the 36 principles",
+    "evidence": "Śākta tantras are revealed as dialogues of Bhairava and the Goddess"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:hatha-yoga",
+    "what": "kuṇḍalinī understood as the Goddess in the body (shared, direction disputed)"
+   },
+   {
+    "to": "lin:smarta",
+    "what": "the Goddess as one of the five deities of pañcāyatana worship"
+   },
+   {
+    "to": "lin:advaita-vedanta",
+    "what": "Śrīcakra worship in the maṭhas (the tradition's account)"
+   }
+  ],
+  "distinctive_positions": [
+   "The supreme reality is the Goddess (Devī, Mahādevī, Parā Śakti), the Mother of all; the Śākta Upaniṣads and the Devī Gītā make her declare herself Brahman.",
+   "Śakti is the power of the absolute; without her even Śiva cannot stir (Saundaryalaharī 1).",
+   "The world is her form and her play; māyā is her power, by which she both binds and liberates (Devī Māhātmya 1).",
+   "She has gentle and fierce forms — Lalitā, Umā, Lakṣmī, Sarasvatī; Durgā, Caṇḍikā, Kālī, Cāmuṇḍā — all one Goddess (Devī Māhātmya 11: all knowledges and all women are her forms).",
+   "Worship through name, mantra, yantra and image; recitation of her deeds (Saptaśatī) and names (Sahasranāma).",
+   "Enjoyment and liberation (bhukti and mukti) are both granted by the Goddess.",
+   "Kuṇḍalinī is the Goddess herself asleep in the body; her rise to Śiva in the crown is union.",
+   "Esoteric branches require initiation (dīkṣā) from a qualified guru and keep their rites secret."
+  ],
+  "ultimate": "ult:sakta",
+  "path_maps": [
+   "pth:rudrayamala-births-to-srividya",
+   "pth:lalita-kundalini-ascent"
+  ],
+  "summary": "The umbrella of Goddess-centred traditions: Purāṇic devotion to the Devī of the Devī Māhātmya and Devī Bhāgavata, the tantric cults of the Śrīkula (Śrīvidyā) and Kālīkula, Kaula and Kubjikā lines, and regional goddess worship. They share the doctrine that the ultimate is Śakti, the Mother, identical with Brahman.",
+  "coverage": [
+   "A8",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:samaya-srividya",
+  "name": "Samaya school of Śrīvidyā (Samayācāra)",
+  "family": "vedic",
+  "parent": "lin:srividya",
+  "alt_names": [
+   "Samaya-mata",
+   "Samayins (samayinaḥ)",
+   "the Vedic way of the five Śubhāgamas"
+  ],
+  "key_teachers": [
+   "tch:lolla-laksmidhara",
+   "tch:sankara",
+   "tch:gaudapada",
+   "tch:vasistha",
+   "tch:sanaka",
+   "tch:suka",
+   "tch:sanandana",
+   "tch:sanatkumara"
+  ],
+  "texts": [
+   "src:saundarya-lahari",
+   "src:laksmidhara",
+   "src:subhagodaya",
+   "src:vasistha-samhita-subhagama",
+   "src:sanaka-samhita-subhagama",
+   "src:suka-samhita-subhagama",
+   "src:sanandana-samhita-subhagama",
+   "src:sanatkumara-samhita-subhagama"
+  ],
+  "regions": [
+   "Orissa (Lakṣmīdhara)",
+   "South India"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Taught by the five sages Vasiṣṭha, Sanaka, Śuka, Sanandana and Sanatkumāra in the five auspicious āgamas; followed by Śaṅkara (Bhagavatpāda), whose view Lakṣmīdhara claims to follow.",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Known chiefly from Lakṣmīdhara's commentary on the Saundaryalaharī (c. 16th c.); the five Śubhāgama saṃhitās are known only through his citations.",
+    "from": 1450,
+    "to": 1600
+   },
+   "confidence": "low"
+  },
+  "status": "living",
+  "distinctive_positions": [
+   "Worship of the Śrīcakra only in the inner space (dahara-ākāśa, heart / the thousand-petalled lotus); external worship on a plate or cloth is 'Kaula worship' (Lakṣmīdhara on SL 8).",
+   "The Śrīcakra is the moon-disc in the crown lotus (Lakṣmīdhara on SL 10).",
+   "Samayā (the Goddess) and Samaya (Śiva) share a fivefold equality: of seat, of state, of action, of form and of name (Lakṣmīdhara on SL 41).",
+   "Rejects external worship of a young woman's triangle and the Kaula rites; rejects the sixty-four tantras as aimed at worldly powers and outside the Vedic path; the eight Candrakalā tantras are 'mixed' (Lakṣmīdhara on SL 31).",
+   "Follows the Vedic way of the five auspicious āgamas; eligibility tied to the three higher classes (Lakṣmīdhara).",
+   "Śiva is not subordinate to Śakti nor Śakti to Śiva: they are equal in primacy (sama-prādhānya)."
+  ],
+  "ultimate": "ult:samaya-srividya",
+  "summary": "The branch of Śrīvidyā that restricts worship to internal contemplation of the Śrīcakra and the Goddess in the body's cakras, holds Śiva and Śakti to be of equal primacy, and rejects Kaula and left-hand practices as non-Vedic. Its classical statement is Lakṣmīdhara's commentary on the Saundaryalaharī.",
+  "notes": "Name used by the tradition itself (samaya-mata, samayinaḥ). Whether a continuous Samaya teaching lineage existed before Lakṣmīdhara is not established here.",
+  "coverage": [
+   "A8",
+   "D",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:samkhya",
   "name": "Sāṃkhya",
   "alt_names": [
@@ -3874,6 +6352,149 @@
   }
  },
  {
+  "id": "lin:sannyasa",
+  "name": "Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads",
+  "alt_names": [
+   "Saṃnyāsa",
+   "Pārivrājya",
+   "Yatidharma",
+   "the fourth āśrama",
+   "the renunciate path"
+  ],
+  "family": "vedic",
+  "parent": "lin:upanisadic",
+  "key_teachers": [
+   "tch:yajnavalkya",
+   "tch:dattatreya",
+   "tch:narada",
+   "tch:uddalaka-aruni",
+   "tch:svetaketu",
+   "tch:samvartaka",
+   "tch:durvasas",
+   "tch:rbhu",
+   "tch:nidagha",
+   "tch:jadabharata",
+   "tch:raivataka",
+   "tch:suka",
+   "tch:vamadeva",
+   "tch:sankara",
+   "tch:vidyaranya",
+   "tch:yadavaprakasa"
+  ],
+  "texts": [
+   "src:jabala-upanisad",
+   "src:aruni-upanisad",
+   "src:paramahamsa-upanisad",
+   "src:brahma-upanisad",
+   "src:kundika-upanisad",
+   "src:kathasruti-upanisad",
+   "src:naradaparivrajaka-upanisad",
+   "src:sannyasa-upanisad",
+   "src:paramahamsaparivrajaka-upanisad",
+   "src:maitreya-upanisad",
+   "src:bhiksuka-upanisad",
+   "src:turiyatita-upanisad",
+   "src:nirvana-upanisad",
+   "src:avadhuta-upanisad",
+   "src:katharudra-upanisad",
+   "src:parabrahma-upanisad",
+   "src:satyayani-upanisad",
+   "src:yajnavalkya-upanisad",
+   "src:asrama-upanisad",
+   "src:mahanarayana-upanisad",
+   "src:jivanmuktiviveka",
+   "src:yatidharmasamuccaya",
+   "src:yatidharmaprakasa",
+   "src:mathamnaya-upanisad",
+   "src:upanisad-brahmayogin-commentary"
+  ],
+  "regions": [
+   "pan-Indian; the later Saṃnyāsa Upaniṣads largely South Indian"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Eternal; taught by Prajāpati, Brahmā, Nārāyaṇa and Yājñavalkya in the Upaniṣads themselves",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Renunciation as a recognized āśrama appears in the Dharmasūtras (last centuries BCE); the older Saṃnyāsa Upaniṣads around the turn of the era, the later ones c. 12th–15th c. (Olivelle 1992)",
+    "from": null,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:upanisadic",
+    "what": "the knower who, abandoning desire for sons, wealth and worlds, lives as a mendicant (Bṛhadāraṇyaka 3.5.1, 4.4.22); the Self as the goal of renunciation",
+    "evidence": "Saṃnyāsa Upaniṣads quote and expand these passages (e.g. the three desires in the rite)"
+   },
+   {
+    "from": "lin:dharmasastra",
+    "what": "the āśrama frame, eligibility and the renouncer's daily rules",
+    "evidence": "shared rules on alms, rains-retreat and marks"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:dasanami",
+    "what": "the rite, the kinds of renouncer, the one-staff (ekadaṇḍa) paramahaṃsa ideal; the Maṭhāmnāya's four seats"
+   },
+   {
+    "to": "lin:visistadvaita",
+    "what": "the triple-staff (tridaṇḍa) renunciation of the Vaiṣṇava ascetic (Śāṭyāyanīya; Yādavaprakāśa's Yatidharmasamuccaya)"
+   },
+   {
+    "to": "lin:advaita-vedanta",
+    "what": "the doctrine of the knower's (vidvat) and the seeker's (vividiṣā) renunciation and liberation while living (Jīvanmuktiviveka)"
+   },
+   {
+    "to": "lin:datta-sampradaya",
+    "what": "the avadhūta ideal (Avadhūta, Jābāla 6)"
+   }
+  ],
+  "distinctive_positions": [
+   "One may renounce 'on the very day one becomes dispassionate', from any stage of life (Jābāla 4).",
+   "True renunciation is the union of the individual and supreme Self, not merely abandoning rites or uttering the formula (Maitreya 2.17).",
+   "The outer topknot and sacred thread are replaced by inner ones: knowledge is the topknot, the Self or praṇava the thread (Jābāla 5; Brahma; Paramahaṃsa; Parabrahma).",
+   "Renunciation is spoken of as fourfold (from dispassion, knowledge, both, ritual) and renouncers are of four or six kinds — kuṭīcaka, bahūdaka, haṃsa, paramahaṃsa, turīyātīta, avadhūta — with rising freedom from marks.",
+   "The staff of knowledge, not the wooden staff, makes the ekadaṇḍin (Paramahaṃsa); a Vaiṣṇava strand instead requires the triple staff, topknot and thread for life (Śāṭyāyanīya).",
+   "Renunciation is a ritual death: the renouncer performs his own śrāddha, places the fires in himself, gives fearlessness to all beings and leaves the ritual world.",
+   "The paramahaṃsa and avadhūta live with unmanifest marks and conduct, beyond castes and stages, 'not mad but acting mad' (Jābāla 6; Avadhūta 2).",
+   "The renouncer takes no disciples for gain, keeps no books, gives no lectures and avoids householders (Nāradaparivrājaka 5; Sannyāsa 2.79–85) — though the Avadhūta allows action for the world's good.",
+   "Alms are taken in the bee's way (mādhukarī) from many houses; food from a single house is forbidden.",
+   "Last thought and kind of renunciation determine the world attained; the turīyātīta and avadhūta attain kaivalya."
+  ],
+  "ultimate": "ult:sannyasa",
+  "path_maps": [
+   "pth:sannyasa-six-renunciant-grades",
+   "pth:sannyasa-rite-sequence"
+  ],
+  "summary": "The ideal of the wandering renouncer (saṃnyāsin, parivrājaka, yati) as set out in the Saṃnyāsa Upaniṣads: who may renounce and when, the rite that makes the renouncer ritually dead to the world, the kinds of renouncer and their marks, rules of alms, dwelling and conduct, and the claim that true renunciation is knowledge of the Self. Living orders (Daśanāmī, Vaiṣṇava tridaṇḍins and others) are treated under their own lineages; this entry is the textual ideal.",
+  "notes": "Owned by U04. The Saṃnyāsa Upaniṣads are not a single school: most later ones are Advaitin, the Śāṭyāyanīya Vaiṣṇava.",
+  "coverage": [
+   "A2",
+   "D",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:sarana-vacana",
   "name": "Śaraṇa–vacana tradition",
   "alt_names": [
@@ -3952,6 +6573,247 @@
   }
  },
  {
+  "id": "lin:sarvesvari-samuh",
+  "name": "Śrī Sarveśvarī Samūh (Aghoreśvar Bhagavān Rām's Aghora organisation)",
+  "alt_names": [
+   "Sarveshwari Samooh",
+   "Avadhūt Bhagavān Rām Kuṣṭh Sevāśram (its service institution)"
+  ],
+  "family": "vedic",
+  "parent": "lin:aghora",
+  "founders": [
+   "tch:bhagwan-ram"
+  ],
+  "key_teachers": [
+   "tch:gurupad-sambhav-ram"
+  ],
+  "regions": [
+   "Parāo, Varanasi",
+   "branches in India and abroad"
+  ],
+  "dating": {
+   "scholarly": {
+    "text": "founded 1961 (as generally reported)",
+    "from": 1961,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:aghora",
+    "what": "the Kīnārāmī Aghora lineage",
+    "evidence": "Bhagavān Rām's initiation in the Aghora line (tradition's account)"
+   }
+  ],
+  "distinctive_positions": [
+   "Aghora expressed as service (especially of leprosy patients) and as rejection of caste and social evils, open to householders; the cremation-ground practices are not required of lay members."
+  ],
+  "ultimate": "ult:sarvesvari-samuh",
+  "summary": "A recent Aghora organisation founded by Aghoreśvar Bhagavān Rām at Varanasi, known for its leprosy service and for presenting Aghora as naturalness and service rather than as spectacular ascetic practice.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "recent": true,
+  "coverage": [
+   "A7",
+   "H"
+  ],
+  "notes": "Sub-lineage created by U21. Founding year and institutional names as commonly reported; to be sourced.",
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:siddha-medicine",
+  "name": "Siddha medicine (cittā maruttuvam)",
+  "alt_names": [
+   "Cittā vaittiyam",
+   "Siddha vaidyam",
+   "Tamil medicine (tamiḻ maruttuvam)"
+  ],
+  "family": "vedic",
+  "parent": "lin:tamil-siddha",
+  "founders": [
+   "tch:agastya"
+  ],
+  "key_teachers": [
+   "tch:agastya",
+   "tch:bogar",
+   "tch:teraiyar",
+   "tch:yugimuni",
+   "tch:tirumular",
+   "tch:pulippani",
+   "tch:korakkar",
+   "tch:konganar",
+   "tch:dhanvantari"
+  ],
+  "texts": [
+   "src:akattiyar-vaittiya-cintamani",
+   "src:bogar-7000",
+   "src:yuki-vaittiya-cintamani",
+   "src:teraiyar-yamaka-venpa",
+   "src:teraiyar-noy-anuka-viti",
+   "src:citta-vaittiya-tirattu",
+   "src:kunapatam",
+   "src:noy-natal-noy-mutal-natal-tirattu",
+   "src:tirukkural"
+  ],
+  "regions": [
+   "Tamil Nadu",
+   "Kerala (southern districts)",
+   "Sri Lanka (northern and eastern)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "revealed by Śiva to Pārvatī, passed through Nandi to the Siddhars, above all Agastya",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "the attributed Tamil medical verse-treatises are mostly placed in the 15th–19th c.; the humoral vocabulary is attested in the Tirukkuṟaḷ (ch. 95)",
+    "from": 1400,
+    "to": 1900
+   },
+   "confidence": "low"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:tamil-siddha",
+    "what": "the Siddhars' anatomy (96 tattvas), kāya kaṟpam and alchemy",
+    "evidence": "the medical works are ascribed to Siddhars"
+   },
+   {
+    "from": "lin:ayurveda",
+    "what": "shared humoral theory (vātam, pittam, kapam) and pharmacy terms; direction disputed",
+    "evidence": "shared vocabulary"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:varma-kalai",
+    "what": "varmam (vital points) as a branch of Siddha medicine"
+   }
+  ],
+  "distinctive_positions": [
+   "Health is the balance of the three vital humours (uyir tātu) — vaḷi (vātam), aḻal (pittam), aiyam (kapam) — whose excess or deficiency causes disease (Tirukkuṟaḷ 941).",
+   "The body is built of the five elements and the 96 principles; the same anatomy serves medicine and yoga.",
+   "Diagnosis by eight examinations (eṇvakait tērvu), above all the pulse (nāṭi) and the urine (nīrkkuṟi, neykkuṟi).",
+   "Medicines are drawn from plants (mūlikai), minerals and metals (tātu) and animal products (jīvam); mineral and metal preparations (parpam, centūram) are held to be most potent and most dangerous if wrongly made.",
+   "The tradition counts 4,448 diseases.",
+   "Rejuvenation (kāya kaṟpam) aims at long life as a support for yoga and liberation."
+  ],
+  "ultimate": "ult:siddha-medicine",
+  "summary": "The Tamil medical system ascribed to the Siddhars, above all Agastya, with Bogar, Tēraiyar, Yūkimuṉi, Tirumūlar and others as authorities. It explains health and disease by the three humours on a base of the five elements and ninety-six principles, diagnoses by pulse and eight examinations, and uses herbal, mineral-metal and animal medicines, including calcined metal and mineral preparations. Recorded here in summary only; no preparations, doses or procedures.",
+  "notes": "Family 'vedic' follows the coverage-map grouping (A7, Śaiva lineages); it does not settle the Siddhars' own rejection of Vedic ritual and caste (see dsp:siddhar-veda-and-scripture). Summary only by design (coverage map A7/A11). Recent institutional forms (government colleges, the 20th-c. textbooks) are flagged recent where they appear.",
+  "coverage": [
+   "A7",
+   "A11"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:siva-visistadvaita",
+  "name": "Śiva-viśiṣṭādvaita (Śaiva Vedānta of Śrīkaṇṭha)",
+  "alt_names": [
+   "Śivādvaita",
+   "Śaiva Viśiṣṭādvaita",
+   "Śrīkaṇṭha's Śaiva Vedānta"
+  ],
+  "family": "vedic",
+  "parent": "lin:vedanta",
+  "founders": [
+   "tch:srikantha"
+  ],
+  "key_teachers": [
+   "tch:srikantha",
+   "tch:appayya-diksita",
+   "tch:nilakantha-sivacarya"
+  ],
+  "texts": [
+   "src:srikantha-bhasya",
+   "src:sivarkamanidipika",
+   "src:sivadvaitanirnaya",
+   "src:ratnatrayapariksa",
+   "src:sivatattvaviveka"
+  ],
+  "regions": [
+   "south India (Tamil and Kannada regions)",
+   "Vellore (Appayya's patronage)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Vīraśaiva tradition places Śrīkaṇṭha early, even before Śaṅkara",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Śrīkaṇṭha c. 11th–13th c. CE (after Rāmānuja, whose commentary his closely parallels); revived by Appayya Dīkṣita (1520–1593)",
+    "from": 1100,
+    "to": 1600
+   },
+   "confidence": "low"
+  },
+  "status": "absorbed",
+  "transmissions_given": [
+   {
+    "to": "lin:virasaiva",
+    "what": "Śrīkaṇṭha's commentary is claimed by Vīraśaiva authors as their own Vedānta (e.g. Nīlakaṇṭha's Kriyāsāra)"
+   }
+  ],
+  "distinctive_positions": [
+   "Brahman is Śiva (Parameśvara), inseparably endowed with his power (cit-śakti, identified with Umā); souls (paśu) and the world are his body and qualification.",
+   "Śiva is both material cause (through his śakti, in which the world lies subtly) and efficient cause of the world, which is a real transformation of that power.",
+   "The supreme ether (paramākāśa, dahara) of the Upaniṣads is Śiva's cit-śakti; meditation on the small space in the heart (dahara-vidyā) is central.",
+   "The Veda and the Śaiva Āgamas are not different in authority; both come from Śiva.",
+   "Liberation is freedom from bonds (pāśa) and equality with Śiva (śiva-sāmya) in bliss, without the power of cosmic governance (BS 4.4.17).",
+   "Appayya Dīkṣita reads Śrīkaṇṭha's qualified non-dualism as a stage pointing to Advaita (Śivādvaitanirṇaya) — a reading contested by Vīraśaiva authors."
+  ],
+  "ultimate": "ult:siva-visistadvaita",
+  "summary": "A Śaiva reading of the Brahma Sūtras by Śrīkaṇṭha Śivācārya, structurally close to Rāmānuja's Viśiṣṭādvaita but with Śiva and his Śakti in place of Nārāyaṇa and Śrī. It survived chiefly through Appayya Dīkṣita's commentary Śivārkamaṇidīpikā and through Vīraśaiva authors who adopted it; Śrīpati's Śakti-viśiṣṭādvaita (lin:virasaiva) is its Vīraśaiva counterpart.",
+  "coverage": [
+   "A6",
+   "A7"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U16-bhedabheda"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:spanda",
   "name": "Spanda (the doctrine of vibration)",
   "alt_names": [
@@ -3984,7 +6846,6 @@
    "src:siva-sutra-vimarsini",
    "src:siva-sutra-varttika-bhaskara",
    "src:siva-sutra-varttika-varadaraja",
-   "src:siva-sutra-vrtti",
    "src:siva-sutra-vrtti-sahib-kaul",
    "src:tattvarthacintamani"
   ],
@@ -4040,6 +6901,515 @@
   "provenance": {
    "units": [
     "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:srividya",
+  "name": "Śrīvidyā",
+  "family": "vedic",
+  "parent": "lin:sakta",
+  "alt_names": [
+   "Śrīkula",
+   "Traipura tradition (Traipura-siddhānta)",
+   "Saubhāgya-vidyā",
+   "the cult of Lalitā Tripurasundarī",
+   "Śrīvidyā-upāsanā"
+  ],
+  "sub_lineages": [
+   "lin:samaya-srividya",
+   "lin:kaula-srividya"
+  ],
+  "founders": [
+   "tch:siva"
+  ],
+  "key_teachers": [
+   "tch:hayagriva",
+   "tch:agastya",
+   "tch:lopamudra",
+   "tch:durvasas",
+   "tch:dattatreya",
+   "tch:parasurama",
+   "tch:manmatha",
+   "tch:gaudapada",
+   "tch:sankara",
+   "tch:punyananda",
+   "tch:amrtananda",
+   "tch:jayaratha",
+   "tch:sivananda-srividya",
+   "tch:vidyananda-artharatnavali",
+   "tch:lolla-laksmidhara",
+   "tch:subhagananda",
+   "tch:prakasananda-desika",
+   "tch:natanananda",
+   "tch:bhaskararaya",
+   "tch:umanandanatha",
+   "tch:vidyaranya-yati",
+   "tch:laghubhattaraka",
+   "tch:mahesvarananda"
+  ],
+  "texts": [
+   "src:vamakesvara-tantra",
+   "src:yoginihrdaya",
+   "src:tantraraja-tantra",
+   "src:jnanarnava-tantra",
+   "src:daksinamurti-samhita",
+   "src:lalita-sahasranama",
+   "src:lalita-trisati",
+   "src:saundarya-lahari",
+   "src:kamakalavilasa",
+   "src:yoginihrdaya-dipika",
+   "src:vamakesvarimata-vivarana",
+   "src:rjuvimarsini",
+   "src:artharatnavali",
+   "src:setubandha",
+   "src:saubhagyabhaskara",
+   "src:varivasya-rahasya",
+   "src:parasurama-kalpasutra",
+   "src:nityotsava",
+   "src:srividyarnava-tantra",
+   "src:tripura-upanisad",
+   "src:tripuratapani-upanisad",
+   "src:bhavana-upanisad",
+   "src:bahvrca-upanisad",
+   "src:tripura-rahasya",
+   "src:subhagodaya",
+   "src:pancastavi",
+   "src:lalita-stavaratna"
+  ],
+  "regions": [
+   "Kashmir (early exegesis)",
+   "Tamil Nadu",
+   "Kerala",
+   "Karnataka",
+   "Andhra",
+   "Orissa",
+   "Varanasi",
+   "Maharashtra",
+   "Nepal"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Revealed by Śiva; worshipped by twelve great devotees (Manu, Candra, Kubera, Lopāmudrā, Manmatha, Agastya, Agni, Sūrya, Indra, Skanda, Śiva, Krodhabhaṭṭāraka/Durvāsas); taught by Hayagrīva to Agastya and by Dattātreya to Paraśurāma.",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "The root tantra (Vāmakeśvarīmata / Nityāṣoḍaśikārṇava) is usually placed c. 10th-11th c.; Kashmiri exegesis (Jayaratha) 12th-13th c.; South Indian systematization from c. 13th-14th c.; Bhāskararāya in the 18th c.",
+    "from": 900,
+    "to": null
+   },
+   "confidence": "low"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:kaula",
+    "what": "the Kaula ritual frame, yoginī classes, pīṭhas, the eight bonds, secret conduct",
+    "evidence": "the Yoginīhṛdaya and its Dīpikā speak of kaulācāra; Paraśurāma Kalpasūtra 1.12"
+   },
+   {
+    "from": "lin:kashmir-saivism",
+    "what": "the 36 principles, prakāśa-vimarśa, Spanda and Pratyabhijñā vocabulary",
+    "evidence": "Jayaratha's Vivaraṇa; Kāmakalāvilāsa; Amṛtānanda's Dīpikā quotes the Vijñānabhairava"
+   },
+   {
+    "from": "lin:puranic",
+    "what": "the Lalitopākhyāna narrative and the Sahasranāma's Purāṇic frame",
+    "evidence": "Hayagrīva-Agastya dialogue of the Brahmāṇḍa Purāṇa"
+   },
+   {
+    "from": "lin:mimamsa",
+    "what": "rules of interpretation applied to tantric injunctions",
+    "evidence": "Bhāskararāya's Setubandha and Saubhāgyabhāskara"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:advaita-vedanta",
+    "what": "Śrīcakra worship in the Śaṅkara maṭhas (the tradition's account)"
+   },
+   {
+    "to": "lin:sangita",
+    "what": "the Navāvaraṇa kṛtis of Muttusvāmi Dīkṣitar"
+   }
+  ],
+  "distinctive_positions": [
+   "The supreme is Lalitā Mahātripurasundarī, the union (sāmarasya) of Śiva as light (prakāśa) and Śakti as self-awareness (vimarśa); she sits on Kāmeśvara's lap and is 'the form of the oneness of Śiva and Śakti' (Lalitā Sahasranāma 183).",
+   "Worship centres on the Śrīcakra, the 'king of cakras', with nine enclosures (āvaraṇa) from the outer square to the central point (bindu), and on the fifteen-syllable Śrīvidyā mantra (with its sixteen-syllable form) in three sections (kūṭa) that are the Goddess's subtle body.",
+   "The vidyā has twelve forms after its twelve great devotees; the Kādi and Hādi forms are the living ones.",
+   "Knowledge of the unity of cakra, mantra, deity, guru and one's own self is liberation (Yoginīhṛdaya; Paraśurāma Kalpasūtra 1.11); self-awareness (svavimarśa) is the goal of life (PKS 1.6).",
+   "Worship is threefold: outer worship of the cakra (aparā), meditative worship (parāparā) and abiding in non-duality (parā) (Yoginīhṛdaya 3.2-3).",
+   "The body itself is the Śrīcakra; contemplating the non-difference of knower, knowing and known is the worship of the Śrīcakra and makes one liberated while living (Bhāvanā Upaniṣad).",
+   "Two modes: the internal Samaya way and the Kaula way; the Goddess is called both 'intent on Samaya conduct' and 'Kaulinī' (Lalitā Sahasranāma 36-37).",
+   "Strict initiation (three dīkṣās), guru-lineage (the three streams of gurus), initiatory names ending in '-ānandanātha', and secrecy.",
+   "A Vedic self-understanding: the Gāyatrī is read as Śrīvidyā; the Tripurā, Tripurātāpinī, Bhāvanā and Bahvṛca Upaniṣads are its śruti."
+  ],
+  "ultimate": "ult:srividya",
+  "path_maps": [
+   "pth:srividya-krama-diksa",
+   "pth:sricakra-navavarana",
+   "pth:yoginihrdaya-three-pujas",
+   "pth:lalita-kundalini-ascent",
+   "pth:rudrayamala-births-to-srividya"
+  ],
+  "summary": "The Śākta tradition of the Goddess Lalitā Tripurasundarī worshipped through the Śrīcakra and the Śrīvidyā mantra. Rooted in the Vāmakeśvara tantra (Nityāṣoḍaśikārṇava and Yoginīhṛdaya), the Tantrarāja and the Lalitā Sahasranāma, it was systematized in Kashmir and South India, and has Samaya (internal) and Kaula branches. Its metaphysics is the non-dual union of Śiva-light and Śakti-awareness; its aim is liberation while living together with worldly well-being (saubhāgya).",
+  "coverage": [
+   "A8",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:tamil-saiva-siddhanta",
+  "name": "Tamil Śaiva Siddhānta (the Meykaṇṭa school)",
+  "alt_names": [
+   "Meykaṇṭa Cantāṉam",
+   "Caiva Cittāntam",
+   "Cuttāttuvita Caiva Cittāntam (Śuddhādvaita Śaiva Siddhānta)"
+  ],
+  "family": "vedic",
+  "parent": "lin:saiva-siddhanta",
+  "founders": [
+   "tch:meykantar"
+  ],
+  "key_teachers": [
+   "tch:uyyavanta-tevanayanar-tiruviyalur",
+   "tch:uyyavanta-tevanayanar-tirukkatavur",
+   "tch:meykantar",
+   "tch:arunanti",
+   "tch:manavacakam-katantar",
+   "tch:marainana-campantar",
+   "tch:umapati-sivacarya",
+   "tch:sivagrayogin",
+   "tch:civanana-munivar",
+   "tch:arumuga-navalar",
+   "tch:maraimalai-atikal"
+  ],
+  "texts": [
+   "src:meykanta-sastras",
+   "src:sivananabodham",
+   "src:sivananasiddhiyar",
+   "src:irupa-irupatu",
+   "src:unmai-vilakkam",
+   "src:civappirakacam",
+   "src:tiruvarutpayan",
+   "src:cankarpa-nirakaranam",
+   "src:unmai-neri-vilakkam",
+   "src:tiruvuntiyar",
+   "src:tirukkalirruppatiyar",
+   "src:civanana-mapatiyam",
+   "src:tirumurai"
+  ],
+  "regions": [
+   "Tamil Nadu (Tiruveṇṇeynallūr, Chidambaram, Tiruvāvaṭuturai, Dharmapuram)",
+   "Sri Lanka (Jaffna)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "teaching descended from Śrīkaṇṭha Rudra through Nandi, Sanatkumāra, Satyajñānadarśin and Parañcōti to Meykaṇṭār",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "12th c. forerunners (Tiruvuntiyār 1147/48); Meykaṇṭār early 13th c.; Umāpati 1306–1313; monastic (ātīṉam) tradition continuing",
+    "from": 1147,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:saiva-siddhanta",
+    "what": "Āgamic doctrine (pati–paśu–pāśa, malas, dīkṣā, pādas, 36 tattvas)",
+    "evidence": "the tradition holds the Civañāṉa Pōtam renders twelve Sanskrit verses of the Raurava Āgama"
+   },
+   {
+    "from": "lin:nayanmar",
+    "what": "the Tirumuṟai as scripture and the Nāyaṉmārs as exemplars",
+    "evidence": "Meykaṇṭa authors cite the Tēvāram and Tiruvācakam"
+   }
+  ],
+  "distinctive_positions": [
+   "Advaita understood as inseparability (ananya): God is one with souls, other than them, and together with them (oṉṟāy, vēṟāy, uṭaṉāy) — as the vowel 'a' pervades every letter.",
+   "The malas are eternal; in liberation their power is quelled, not their existence destroyed.",
+   "Grace (aruḷ) comes when the two deeds are balanced (iruviṉaiyoppu) and āṇava has ripened (malaparipākam); Śiva himself comes as the guru.",
+   "The liberated soul abides at Śiva's feet in bliss, knowing through his grace; it is not a doer of the five acts.",
+   "The freed soul should live among devotees and revere the devotees' garb and the temple as Śiva (Civañāṉa Pōtam 12).",
+   "Vedas and Āgamas are both Śiva's word — the Veda general, the Āgama special."
+  ],
+  "ultimate": "ult:tamil-saiva-siddhanta",
+  "path_maps": [
+   "pth:saiva-siddhanta-four-padas",
+   "pth:saiva-siddhanta-ten-karyas"
+  ],
+  "summary": "The Tamil systematization of Śaiva Siddhānta in the fourteen Meykaṇṭa Śāstras, above all Meykaṇṭār's twelve-sūtra Civañāṉa Pōtam, Aruṇanti's Civañāṉa Cittiyār and Umāpati Civācāriyār's eight works. It reads the Āgamic dualism as a 'pure non-dualism' of inseparability and is carried by the non-brahmin monastic houses (ātīṉams) of Tiruvāvaṭuturai, Dharmapuram and others, with Civañāṉa Muṉivar's Māpāṭiyam (18th c.) as its classical commentary.",
+  "notes": "Sub-lineage created by U18 (not in the registry) to keep the Tamil school's positions distinct from the Sanskrit exegetes'.",
+  "coverage": [
+   "A7"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U18-saiva-siddhanta"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:tamil-siddha",
+  "name": "The Tamil Siddhars (cittar)",
+  "alt_names": [
+   "Cittar",
+   "Siddhar",
+   "the eighteen Siddhars (patiṉeṇ cittarkaḷ)",
+   "Tamil Siddha tradition"
+  ],
+  "family": "vedic",
+  "parent": null,
+  "sub_lineages": [
+   "lin:siddha-medicine"
+  ],
+  "founders": [
+   "tch:nandi",
+   "tch:agastya",
+   "tch:tirumular"
+  ],
+  "key_teachers": [
+   "tch:agastya",
+   "tch:tirumular",
+   "tch:bogar",
+   "tch:sivavakkiyar",
+   "tch:pambatti",
+   "tch:idaikkadar",
+   "tch:kudambai",
+   "tch:azhukanni",
+   "tch:kaduveli",
+   "tch:sattaimuni",
+   "tch:ramadevar",
+   "tch:konganar",
+   "tch:karuvurar",
+   "tch:korakkar",
+   "tch:macchamuni",
+   "tch:pattinattar",
+   "tch:bhadragiriyar",
+   "tch:tayumanavar"
+  ],
+  "texts": [
+   "src:siddhar-padalgal",
+   "src:tirumantiram",
+   "src:sivavakkiyam",
+   "src:pambatti-padalgal",
+   "src:idaikkadar-padalgal",
+   "src:kudambai-padalgal",
+   "src:azhukanni-padalgal",
+   "src:kaduveli-ananda-kalippu",
+   "src:akappey-padalgal",
+   "src:ramadevar-pujaviti",
+   "src:sattaimuni-nanam",
+   "src:tirumular-nanam",
+   "src:tiruvalluvar-nanam",
+   "src:pattinattar-padalgal",
+   "src:bhadragiriyar-meynana-pulampal",
+   "src:tayumanavar-padalgal",
+   "src:bogar-7000"
+  ],
+  "regions": [
+   "Tamil Nadu (Potikai/Potiyil hills, Palani, Kolli hills, Caturakiri, Tiruvaṇṇāmalai, Chidambaram)",
+   "Kerala (southern Travancore)",
+   "northern Sri Lanka (Jaffna)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "the Siddhars are held to be ancient and, in their jīva-samādhis and hill retreats, still living",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "named authors and texts c. 10th–18th c.; most of the song corpus is usually placed after c. 1400, the medical-alchemical corpus later still",
+    "from": 900,
+    "to": 1800
+   },
+   "confidence": "low"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:tamil-saiva-siddhanta",
+    "what": "The Tirumantiram's yoga, kāya-siddhi and 'love is Śiva' teaching; Tirumūlar is counted first among the Siddhars",
+    "evidence": "TM 3rd tantra (kāyasitti upāyam, 724–725); TM 67–70 lineage verses; the Siddhars' songs echo the Tirumantiram"
+   },
+   {
+    "from": "lin:natha",
+    "what": "Macchamuni and Kōrakkar are identified by the tradition with Matsyendranātha and Gorakṣanātha; shared goal of the perfected, deathless body",
+    "evidence": "tradition-account; shared vocabulary (nātar, kāya-siddhi); see brw:natha-tamil-siddha"
+   },
+   {
+    "from": "lin:rasa-sastra",
+    "what": "mercurial and mineral alchemy (vātam, racam, pāṣāṇam); direction disputed",
+    "evidence": "shared vocabulary; scholarly hypothesis; see brw:rasa-sastra-tamil-siddha"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:siddha-medicine",
+    "what": "Siddha medicine is taught as the Siddhars' science of the body (kāya kaṟpam, humours, metals)"
+   },
+   {
+    "to": "lin:vallalar",
+    "what": "Ramalinga Swamigal (Vallalar) inherits the Siddhar critique of caste and ritual, the 'deathless body' and the harmony (camaracam) of Vedānta and Siddhānta"
+   },
+   {
+    "to": "lin:varma-kalai",
+    "what": "the vital-point (varmam) lore is ascribed to Agastya and the Siddhars"
+   }
+  ],
+  "distinctive_positions": [
+   "The body is the temple and the instrument of liberation: it is to be preserved and perfected (kāya-siddhi, kāya kaṟpam), not despised — 'when the body perishes the life perishes and true knowledge is not reached' (TM 724).",
+   "God (Civam) is within; love itself is Śiva (TM 270); the stone image, temple, pilgrimage, Vedic recitation and ritual without inner knowledge are mocked (Sivavākkiyar; Kaṭuveḷi 15; Pattirakiriyār 16; Kuṭampai).",
+   "Caste is rejected: 'one family, one God' (TM 2104); the castes said to be unequal are one (Kaṭuveḷi 32).",
+   "Breath (vāci), the root centre (mūlam), the six supports (ātāram), the goddess Vālai/Maṉōṉmaṇi and the open space above the crown (veṭṭa veḷi) frame an inner yoga that culminates in 'dying without dying' (cākāmal cātal).",
+   "Teaching in veiled, coded language (paripāṣai, maṟaipporuḷ), with secrecy around alchemy and medicine.",
+   "Mastery of the powers (citti) is claimed, yet stillness of mind is held harder and higher (Tāyumāṉavar; Kuṭampai 2).",
+   "The 96 principles (toṇṇūṟṟāṟu tattuvam) map body, mind and bondage; medicine and liberation share one anatomy."
+  ],
+  "ultimate": "ult:tamil-siddha",
+  "path_maps": [
+   "pth:tirumantiram-eight-limbs",
+   "pth:saiva-siddhanta-four-padas"
+  ],
+  "summary": "A loose, non-institutional stream of Tamil perfected ones (cittar) — yogins, poets, physicians and alchemists — counted conventionally as eighteen, with lists that vary. They trace their knowledge to Śiva through Nandi, Agastya and Tirumūlar, teach an inner Śaiva-Śākta yoga of breath, the root centre and the goddess Vālai aimed at a perfected, deathless body and union with Civam, and in their songs attack caste, idols, temples, pilgrimage and Brahmanical ritual. Their songs (Sivavākkiyar, Pāmbāṭṭi, Iṭaikkāṭar, Kuṭampai, Aḻukaṇṇi, Kaṭuveḷi, Pattinattār, Pattirakiriyār) are anthologized as the Siddhar songs (Cittar pāṭalkaḷ); Tāyumāṉavar (18th c.) joins Siddha, Vedānta and Siddhānta. Siddha medicine is their medical branch.",
+  "notes": "Family 'vedic' follows the coverage-map grouping (A7, Śaiva lineages); it does not settle the Siddhars' own rejection of Vedic ritual and caste (see dsp:siddhar-veda-and-scripture). Parent left null: the tradition has Śaiva (Tirumantiram), Nāth and alchemical roots but no single institutional parent.",
+  "coverage": [
+   "A7",
+   "I2"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:tenkalai",
+  "name": "Teṅkalai (southern school of Śrīvaiṣṇavism)",
+  "alt_names": [
+   "Tengalai",
+   "Teṅkalai",
+   "the southern school",
+   "Maṇavāḷa Māmuni sampradāya",
+   "Śrīraṅgam school"
+  ],
+  "family": "vedic",
+  "parent": "lin:visistadvaita",
+  "founders": [
+   "tch:pillai-lokacarya",
+   "tch:manavala-mamuni"
+  ],
+  "key_teachers": [
+   "tch:embar",
+   "tch:parasara-bhattar",
+   "tch:nanjiyar",
+   "tch:nampillai",
+   "tch:vatakku-tiruviti-pillai",
+   "tch:periyavaccan-pillai",
+   "tch:pillai-lokacarya",
+   "tch:alagiya-manavala-perumal-nayanar",
+   "tch:tiruvaymoli-pillai",
+   "tch:manavala-mamuni",
+   "tch:ponnadikkal-jiyar",
+   "tch:prativadi-bhayankaram-annan"
+  ],
+  "texts": [
+   "src:srivacana-bhusanam",
+   "src:mumuksuppadi",
+   "src:tattvatraya",
+   "src:arthapancaka-pillai-lokacarya",
+   "src:acarya-hrdayam",
+   "src:itu-muppattarayirappati",
+   "src:irupattunalayirappati",
+   "src:upadesa-ratnamalai",
+   "src:srivacana-bhusana-vyakhyana"
+  ],
+  "regions": [
+   "Śrīraṅgam and the southern Tamil country",
+   "Āḻvār Tirunagari",
+   "Vānamāmalai (Nāṅguneri)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "from Piḷḷai Lokācārya (1205–1311 in commonly given traditional dates) and Maṇavāḷa Māmuni (1370–1443)",
+    "from": 1205,
+    "to": null
+   },
+   "scholarly": {
+    "text": "doctrinal differences take shape 13th–14th c.; separate institutions and marks by c. 17th–18th c.",
+    "from": 1300,
+    "to": 1800
+   },
+   "confidence": "low"
+  },
+  "status": "living",
+  "distinctive_positions": [
+   "The Lord alone is the means (siddhopāya); prapatti is not a means but the soul's acceptance of, and awakening to, its dependence; to treat it as a means is a fault.",
+   "Grace is without cause (nirhetuka-kṛpā); 'mārjāra-kiśora-nyāya': the mother cat carries the kitten, which does nothing.",
+   "Śrī is the mediator (puruṣakāra) who turns the soul to the Lord and the Lord to the soul; she is not herself the means; she is commonly reported as atomic (aṇu) and of the rank of souls (jīva-koṭi), though ever inseparable from him.",
+   "The Lord relishes the faults of his devotees as a cow licks its newborn calf (doṣa-bhogya).",
+   "The surrendered keep scriptural duties as service (kainkarya) and for the sake of the world, not as a means or under threat.",
+   "The teacher's gracious regard (ācārya-abhimāna) is itself sufficient for those who can do nothing else; the Tamil Prabandham has primacy of place.",
+   "Kaivalya is an eternal state from which there is no return."
+  ],
+  "ultimate": "ult:tenkalai",
+  "path_maps": [
+   "pth:srivaisnava-prapatti"
+  ],
+  "summary": "The Śrīvaiṣṇava school following Piḷḷai Lokācārya and Maṇavāḷa Māmuni, centred on Śrīraṅgam and on the Maṇipravāḷa commentaries on the Tamil Prabandham; it holds that the Lord's grace alone saves, with Śrī as mediator. It wears the Y-shaped mark with the line extending down the nose.",
+  "coverage": [
+   "A6",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U14-visistadvaita"
    ],
    "phases": [
     "skeleton"
@@ -4215,6 +7585,170 @@
   }
  },
  {
+  "id": "lin:upanisadic",
+  "name": "Upaniṣadic tradition (the teaching of the early Upaniṣads)",
+  "alt_names": [
+   "Aupanisada",
+   "Vedānta in its original sense ('end of the Veda')",
+   "jnana-kanda of the Veda",
+   "the Upaniṣadic sages"
+  ],
+  "family": "vedic",
+  "parent": "lin:vedic-srauta",
+  "founders": [],
+  "key_teachers": [
+   "tch:yajnavalkya",
+   "tch:uddalaka-aruni",
+   "tch:sandilya",
+   "tch:sanatkumara",
+   "tch:pippalada",
+   "tch:angiras",
+   "tch:yama",
+   "tch:prajapati",
+   "tch:varuna",
+   "tch:ajatasatru-kasi",
+   "tch:pravahana-jaivali",
+   "tch:asvapati-kaikeya",
+   "tch:janaka",
+   "tch:raikva",
+   "tch:satyakama-jabala",
+   "tch:svetasvatara",
+   "tch:sakayanya",
+   "tch:citra-gangyayani"
+  ],
+  "texts": [
+   "src:isa-upanisad",
+   "src:kena-upanisad",
+   "src:katha-upanisad",
+   "src:prasna-upanisad",
+   "src:mundaka-upanisad",
+   "src:mandukya-upanisad",
+   "src:taittiriya-upanisad",
+   "src:aitareya-upanisad",
+   "src:chandogya-upanisad",
+   "src:brhadaranyaka-upanisad",
+   "src:svetasvatara-upanisad",
+   "src:kausitaki-upanisad",
+   "src:maitri-upanisad",
+   "src:baskala-upanisad",
+   "src:chagaleya-upanisad",
+   "src:arseya-upanisad",
+   "src:saunaka-upanisad",
+   "src:jaiminiya-upanisad-brahmana",
+   "src:mahanarayana-upanisad"
+  ],
+  "regions": [
+   "Videha (court of Janaka)",
+   "Kuru-Pañcāla",
+   "Kāśī (Ajātaśatru)",
+   "Pañcāla (Pravāhaṇa Jaivali)",
+   "Kekaya (Aśvapati)",
+   "Madra (BAU 3.3, 3.7)",
+   "Kosala (PrU 6.1)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Revealed scripture (śruti): in the Mīmāṃsā and Vedānta view without human author and beginningless; the texts themselves trace their teaching through lineages of teachers back to Brahma/Prajāpati and brahman, the self-existent",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "earliest prose Upaniṣads (BAU, ChU) c. 7th-6th c. BCE; the verse Upaniṣads (Katha, Isa, Śvetāśvatara, Muṇḍaka) in the last centuries BCE; Māṇḍūkya and Maitrī around the turn of the era (rough consensus estimates, disputed)",
+    "from": -700,
+    "to": 200
+   },
+   "confidence": "low"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:vedic-srauta",
+    "what": "the ritual thought of the Brāhmaṇas and Āraṇyakas (correspondences, speculation on prāṇa, the udgītha, the fire altar), internalized and reinterpreted as knowledge of the self",
+    "evidence": "the Upaniṣads are embedded in or attached to Vedic texts of particular sakhas: BAU closes the Śatapatha Brāhmaṇa; AU is Aitareya Āraṇyaka 2.4-6; TU is Taittirīya Āraṇyaka 7-9; KauU is Kauṣītaki (Śāṅkhāyana) Āraṇyaka 3-6; Kena is Jaiminīya Upaniṣad Brāhmaṇa 4.18-21; Isa is Vājasaneyi Saṃhitā 40"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:vedanta",
+    "what": "the Upaniṣads are the first of the three foundations (prasthāna-traya) systematized by the Brahmā Sutra"
+   },
+   {
+    "to": "lin:advaita-vedanta",
+    "what": "the mahavakyas, neti neti, the three states and turiya, the five sheaths, śravaṇa-manana-nididhyāsana (BAU 2.4.5), the six virtues (BAU 4.4.23)"
+   },
+   {
+    "to": "lin:visistadvaita",
+    "what": "the inner controller (BAU 3.7), the world as the Lord's body, Śvetāśvatara's Lord; read as qualified non-difference"
+   },
+   {
+    "to": "lin:dvaita",
+    "what": "the two birds (MuU 3.1.1), the distinction of jīva and īśvara; tat tvam asi read as difference"
+   },
+   {
+    "to": "lin:samkhya",
+    "what": "vocabulary later systematized in Samkhya: avyakta, mahat, purusa (KU 1.3.10-11), pradhana, guna, ksetrajna, 'samkhya-yoga' and Kapila (SU)"
+   },
+   {
+    "to": "lin:patanjala-yoga",
+    "what": "yoga as firm holding of the senses (KU 2.3.11), the yoga chapter of the Śvetāśvatara, the six-limbed yoga of the Maitrī (6.18)"
+   },
+   {
+    "to": "lin:sannyasa",
+    "what": "the ideal of rising above the three desires and living as a mendicant (BAU 3.5.1, 4.4.22; MuU 3.2.6)"
+   },
+   {
+    "to": "lin:epic-teaching",
+    "what": "verses and images reused in the Bhagavad Gītā (KU 1.2.18-19 ~ BhG 2.19-20; KU 2.3.1 ~ BhG 15.1; SU 3.16-17 ~ BhG 13.13-14)"
+   },
+   {
+    "to": "lin:saiva-siddhanta",
+    "what": "the Śvetāśvatara's Rudra-Śiva, fetters (pāśa) and grace, cited as śruti by Śaiva authors"
+   }
+  ],
+  "distinctive_positions": [
+   "The self (ātman) is to be known; knowing it one knows all (ChU 6.1.3; BAU 2.4.5; MuU 1.1.3).",
+   "The self is brahman: ayam ātmā brahma, ahaṃ brahmāsmi, tat tvam asi, prajñānaṃ brahma.",
+   "The ultimate is described through negation: neti neti (BAU 2.3.6), asthulam ananu (BAU 3.8.8), the fourth (MaU 7).",
+   "Consciousness is analysed through waking, dream, deep sleep and a fourth (BAU 4.3; ChU 8.7-12; MaU 3-7).",
+   "Action (karma) and desire determine rebirth; the desireless knower does not depart but, being brahman, goes to brahman (BAU 4.4.5-7).",
+   "Two paths after death: the path of the gods (no return) and the path of the fathers (return), with a third place for small creatures (ChU 5.10; BAU 6.2).",
+   "Knowledge of the self is higher than sacrifice; rites are 'unsafe boats' and yield finite worlds (MuU 1.2.7-10; BAU 3.8.10).",
+   "Breath (prāṇa) is the eldest and best of the vital powers (BAU 6.1; ChU 5.1; PrU 2; KauU 2.14).",
+   "The teaching is secret (upanisad) and passed from teacher to qualified pupil who approaches with fuel in hand (MuU 1.2.12; SU 6.22).",
+   "In the later texts: a personal Lord (Rudra-Śiva, the deva) who is the māyā-wielder and gives grace; devotion to God and teacher (SU 4.10, 6.18, 6.23).",
+   "Yoga as a method: firm holding of the senses (KU 2.3.11), posture and breath (SU 2.8-10), six limbs (MaiU 6.18)."
+  ],
+  "ultimate": "ult:upanisadic",
+  "path_maps": [
+   "pth:maitri-six-limbs",
+   "pth:bhuma-vidya-ladder",
+   "pth:katha-inward-withdrawal",
+   "pth:indra-prajapati-four-instructions",
+   "pth:bhrguvalli-five-realizations",
+   "pth:panditya-balya-mauna"
+  ],
+  "summary": "The teaching of the early Upaniṣads, the concluding portions of the Vedic śākhās (hence 'Vedānta'). Through dialogues of named sages and kings (Yājñavalkya, Uddālaka Āruṇi, Śāṇḍilya, Sanatkumāra, Pippalāda, Yama) they teach that the self (ātman) is brahman, the ground of the world; that it is known by negation and by inquiry into waking, dream, sleep and the fourth; that action and desire bind to rebirth while knowledge frees; and, in the later texts, a personal Lord, grace, devotion and a method of yoga. The later Vedānta schools read these same texts in very different ways.",
+  "notes": "'The thirteen principal Upaniṣads' is a modern grouping (Hume 1921); the tradition's own groupings are the ten on which Śaṅkara commented (Isa, Kena, Katha, Praśna, Muṇḍaka, Māṇḍūkya, Taittirīya, Aitareya, Chāndogya, Bṛhadāraṇyaka) and the Muktikā canon of 108 (src:muktika-upanisad, owned by U04). The Muktikā (1.30) lists the ten first.",
+  "coverage": [
+   "A2",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U03-principal-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:uttaradi-matha",
   "name": "Uttarādi Maṭha",
   "alt_names": [
@@ -4269,6 +7803,97 @@
   "provenance": {
    "units": [
     "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:vadakalai",
+  "name": "Vaṭakalai (northern school of Śrīvaiṣṇavism)",
+  "alt_names": [
+   "Vaḍagalai",
+   "Vaṭakalai",
+   "the northern school",
+   "Deśika sampradāya",
+   "Kāñcī school"
+  ],
+  "family": "vedic",
+  "parent": "lin:visistadvaita",
+  "founders": [
+   "tch:vedanta-desika"
+  ],
+  "key_teachers": [
+   "tch:tirukkurukaippiran-pillan",
+   "tch:visnucitta",
+   "tch:nadadur-ammal",
+   "tch:atreya-ramanuja",
+   "tch:sudarsana-suri",
+   "tch:vedanta-desika",
+   "tch:kumara-varadacarya",
+   "tch:brahmatantra-svatantra-jiyar",
+   "tch:adivan-sathakopa-jiyar",
+   "tch:doddayacarya"
+  ],
+  "texts": [
+   "src:rahasyatrayasara",
+   "src:tattvamuktakalapa",
+   "src:satadusani",
+   "src:nyayasiddhanjana",
+   "src:nyayaparisuddhi",
+   "src:niksepa-raksa",
+   "src:rahasyaraksa",
+   "src:padukasahasra",
+   "src:adhikaranasaravali",
+   "src:paramapada-sopanam"
+  ],
+  "regions": [
+   "Kāñcīpuram and the northern Tamil country",
+   "Ahobilam",
+   "Mysore (Parakāla maṭha)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "from Vedānta Deśika (1268–1369) and the Kāñcī teachers before him",
+    "from": 1268,
+    "to": null
+   },
+   "scholarly": {
+    "text": "doctrinal differences take shape 13th–14th c.; separate institutions and marks by c. 17th–18th c.",
+    "from": 1300,
+    "to": 1800
+   },
+   "confidence": "low"
+  },
+  "status": "living",
+  "distinctive_positions": [
+   "Prapatti (surrender) is a real means (upāya) to liberation, an alternative to bhakti-yoga for those unable to undertake it; it must be performed once, with its five limbs (aṅga) and self-offering as the principal (aṅgin).",
+   "The Lord's grace, though free, takes the soul's act of surrender as its occasion (vyāja); 'markaṭa-kiśora-nyāya': the baby monkey clings to its mother.",
+   "Śrī (Lakṣmī) is, with Viṣṇu, all-pervading (vibhu), of the rank of the Lord (Īśvara-koṭi), and together with him the means and the goal; the divine couple is the object of surrender.",
+   "The Lord overlooks (does not see) the faults of the surrendered; he does not relish them.",
+   "After prapatti the surrendered must keep the scriptural duties as the Lord's command (ājñā), and must expiate or renew surrender for deliberate offences.",
+   "Kaivalya (enjoyment of one's own self apart from the Lord) is not a permanent state."
+  ],
+  "ultimate": "ult:vadakalai",
+  "path_maps": [
+   "pth:paramapada-sopana",
+   "pth:srivaisnava-prapatti"
+  ],
+  "summary": "The Śrīvaiṣṇava school following Vedānta Deśika, stronger in Sanskrit scholastic writing and associated with Kāñcī; it holds that surrender is a means the soul performs and that Śrī shares the Lord's supremacy. It wears the U-shaped mark (tiruman) without the line on the nose.",
+  "coverage": [
+   "A6",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U14-visistadvaita"
    ],
    "phases": [
     "skeleton"
@@ -4668,6 +8293,144 @@
   }
  },
  {
+  "id": "lin:vedanta",
+  "name": "Vedānta (Uttara Mīmāṃsā)",
+  "alt_names": [
+   "Uttara-mīmāṃsā",
+   "Brahma-mīmāṃsā",
+   "Śārīraka-mīmāṃsā",
+   "Aupaniṣada darśana"
+  ],
+  "family": "vedic",
+  "parent": null,
+  "sub_lineages": [
+   "lin:advaita-vedanta",
+   "lin:visistadvaita",
+   "lin:dvaita",
+   "lin:bhedabheda",
+   "lin:dvaitadvaita",
+   "lin:pustimarga",
+   "lin:gaudiya-vaisnava",
+   "lin:siva-visistadvaita"
+  ],
+  "founders": [
+   "tch:badarayana"
+  ],
+  "key_teachers": [
+   "tch:badarayana",
+   "tch:upavarsa",
+   "tch:bodhayana-vrttikara",
+   "tch:brahmanandin",
+   "tch:dramida",
+   "tch:bhartrprapanca",
+   "tch:gaudapada",
+   "tch:sankara",
+   "tch:bhaskara",
+   "tch:ramanuja",
+   "tch:madhva",
+   "tch:nimbarka",
+   "tch:vallabha",
+   "tch:srikantha"
+  ],
+  "texts": [
+   "src:brahma-sutra",
+   "src:brahma-sutra-bhasya-sankara",
+   "src:brahma-sutra-bhasya-bhaskara",
+   "src:sribhasya",
+   "src:brahma-sutra-bhasya-madhva",
+   "src:vedanta-parijata-saurabha",
+   "src:anubhasya",
+   "src:srikantha-bhasya",
+   "src:bodhayana-vrtti",
+   "src:vakya-brahmanandin",
+   "src:dramida-bhasya",
+   "src:bhartrprapanca-bhasya",
+   "src:bhagavad-gita",
+   "src:brhadaranyaka-upanisad",
+   "src:chandogya-upanisad"
+  ],
+  "regions": [
+   "all of India"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "The Brahma Sūtras are ascribed to Bādarāyaṇa, identified with Vyāsa at the close of the Dvāpara age",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Sūtras compiled between c. 2nd c. BCE and c. 5th c. CE (final redaction often placed c. 400–450 CE); the named commentarial schools from c. 8th c. CE",
+    "from": -200,
+    "to": 450
+   },
+   "confidence": "low"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:upanisadic",
+    "what": "the Upaniṣads as the primary scripture (śruti-prasthāna) whose harmony (samanvaya) the sūtras establish",
+    "evidence": "BS 1.1.4 and the whole first adhyāya"
+   },
+   {
+    "from": "lin:mimamsa",
+    "what": "the exegetical method (adhikaraṇa structure, rules of interpretation, marks of purport)",
+    "evidence": "shared sūtra form; Jaimini cited by name in BS; BS called Uttara-mīmāṃsā"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:advaita-vedanta",
+    "what": "the sūtra text and the prasthāna-traya canon"
+   },
+   {
+    "to": "lin:visistadvaita",
+    "what": "the sūtra text and the prasthāna-traya canon"
+   },
+   {
+    "to": "lin:dvaita",
+    "what": "the sūtra text and the prasthāna-traya canon"
+   },
+   {
+    "to": "lin:bhedabheda",
+    "what": "the sūtra text"
+   }
+  ],
+  "distinctive_positions": [
+   "The three foundations (prasthāna-traya): the Upaniṣads, the Bhagavad Gītā and the Brahma Sūtras; every Vedānta school establishes itself by commenting on all three.",
+   "Brahman is that from which the origin, sustenance and dissolution of the world proceed (BS 1.1.2).",
+   "Brahman is known only from scripture, not by independent inference (BS 1.1.3; 2.1.11).",
+   "All Upaniṣadic passages converge (samanvaya) on Brahman (BS 1.1.4).",
+   "The non-conscious pradhāna of Sāṃkhya is not the world-cause, because the cause 'thought' (īkṣati) (BS 1.1.5; 2.2.1).",
+   "Brahman is both the material and the efficient cause of the world (BS 1.4.23).",
+   "Liberation follows from knowledge of Brahman; the liberated do not return (BS 3.4.1; 4.4.22).",
+   "The nature of the relation between the individual self and Brahman is the defining question on which the Vedānta schools divide (already debated by Āśmarathya, Auḍulomi and Kāśakṛtsna, BS 1.4.20–22)."
+  ],
+  "ultimate": "ult:vedanta",
+  "path_maps": [
+   "pth:devayana-brahma-sutra"
+  ],
+  "summary": "The school of the 'later inquiry' (uttara-mīmāṃsā) into the Upaniṣads, systematized in Bādarāyaṇa's Brahma Sūtras. Its four chapters establish that the Upaniṣads teach Brahman, defend this against rival systems, set out the means, and describe the result. Every later Vedānta school — Advaita, Viśiṣṭādvaita, Dvaita, the Bhedābheda schools, Śuddhādvaita, Acintya-bhedābheda and Śaiva Vedānta — is constituted by a commentary on the sūtras.",
+  "coverage": [
+   "A5",
+   "A6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U13-advaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:vedic-srauta",
   "name": "Vedic Śrauta tradition (the Saṃhitā lineages)",
   "alt_names": [
@@ -5042,6 +8805,237 @@
   }
  },
  {
+  "id": "lin:visistadvaita",
+  "name": "Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)",
+  "alt_names": [
+   "Viśiṣṭādvaita",
+   "Śrīvaiṣṇavism",
+   "Śrīsampradāya",
+   "Rāmānuja sampradāya",
+   "Ubhaya Vedānta",
+   "Emperumāṉār darśanam"
+  ],
+  "family": "vedic",
+  "parent": "lin:vedanta",
+  "sub_lineages": [
+   "lin:vadakalai",
+   "lin:tenkalai"
+  ],
+  "founders": [
+   "tch:nathamuni",
+   "tch:yamuna",
+   "tch:ramanuja"
+  ],
+  "key_teachers": [
+   "tch:nathamuni",
+   "tch:uyyakkondar",
+   "tch:manakkal-nambi",
+   "tch:yamuna",
+   "tch:periya-nambi",
+   "tch:tirukkottiyur-nambi",
+   "tch:ramanuja",
+   "tch:kuresa",
+   "tch:embar",
+   "tch:parasara-bhattar",
+   "tch:tirukkurukaippiran-pillan",
+   "tch:nanjiyar",
+   "tch:nampillai",
+   "tch:sudarsana-suri",
+   "tch:vedanta-desika",
+   "tch:pillai-lokacarya",
+   "tch:manavala-mamuni",
+   "tch:srinivasadasa"
+  ],
+  "texts": [
+   "src:sribhasya",
+   "src:vedarthasangraha",
+   "src:gita-bhasya-ramanuja",
+   "src:gadyatraya",
+   "src:siddhitraya",
+   "src:agamapramanya",
+   "src:stotraratna",
+   "src:srutaprakasika",
+   "src:rahasyatrayasara",
+   "src:tattvamuktakalapa",
+   "src:mumuksuppadi",
+   "src:srivacana-bhusanam",
+   "src:yatindramatadipika",
+   "src:nalayira-divya-prabandham",
+   "src:tiruvaymoli"
+  ],
+  "regions": [
+   "Tamil country (Śrīraṅgam, Kāñcīpuram, Śrīperumbūdūr, Āḻvār Tirunagari, Kumbakonam)",
+   "Tirumala–Tirupati",
+   "Melkote (Tirunārāyaṇapuram) in Karnataka",
+   "later all India"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "traced by the tradition from Viṣṇu and Śrī through Viṣvaksena and Nammāḻvār to Nāthamuni (traditionally 9th–10th c.) and Rāmānuja (1017–1137)",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "systematized 10th–12th c. CE (Yāmuna, Rāmānuja); school doctrine elaborated 13th–15th c.",
+    "from": 950,
+    "to": 1500
+   },
+   "confidence": "moderate"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:alvar",
+    "what": "the Tamil hymns of the twelve Āḻvārs (Nālāyira Divya Prabandham) as a second, Tamil Veda",
+    "evidence": "Nāthamuni's recovery of the Prabandham; the Tiruvāymoḻi commentaries"
+   },
+   {
+    "from": "lin:pancaratra",
+    "what": "temple theology and ritual, the five forms of the Lord, six-limbed surrender",
+    "evidence": "Yāmuna's Āgamaprāmāṇya; Śrībhāṣya on BS 2.2.42–45"
+   },
+   {
+    "from": "lin:vedanta",
+    "what": "the Brahma Sūtras and the earlier Vedāntins Bodhāyana, Ṭaṅka (Brahmanandin), Dramiḍa",
+    "evidence": "cited in the opening of the Śrībhāṣya and in the Vedārthasaṅgraha"
+   },
+   {
+    "from": "lin:mimamsa",
+    "what": "rules of scriptural interpretation; the unity of Pūrva and Uttara Mīmāṃsā",
+    "evidence": "Śrībhāṣya 1.1.1; Vedānta Deśika's Seśvaramīmāṃsā"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:ramanandi",
+    "what": "lineage descent claimed by the Rāmānandīs (through Rāghavānanda); disputed"
+   },
+   {
+    "to": "lin:vadakalai",
+    "what": "the whole doctrine, as read by Vedānta Deśika"
+   },
+   {
+    "to": "lin:tenkalai",
+    "what": "the whole doctrine, as read by Piḷḷai Lokācārya and Maṇavāḷa Māmuni"
+   }
+  ],
+  "distinctive_positions": [
+   "Brahman is one, but qualified (viśiṣṭa): the one Brahman has sentient souls (cit) and insentient matter (acit) as its inseparable modes (prakāra).",
+   "The world and souls are the body (śarīra) of Brahman; Brahman is their self (śarīrin), inner controller and support; the relation is inseparable existence (apṛthak-siddhi).",
+   "Three realities (tattvatraya): cit, acit and Īśvara, all real and eternal; the world is real, not an appearance.",
+   "Brahman is Nārāyaṇa, Lord of Śrī, free of every defect and possessed of infinite auspicious qualities (ubhaya-liṅga); 'nirguṇa' texts deny only defective (prākṛta) qualities.",
+   "Co-reference (sāmānādhikaraṇya): identity statements such as 'tat tvam asi' refer to one Brahman under two modes, never to an attributeless identity.",
+   "Every cognition is of the real (satkhyāti); Advaita's avidyā is untenable in seven ways.",
+   "The self is an atomic, eternal knower, agent and enjoyer, essentially the servant (śeṣa) of the Lord; consciousness is its attribute (dharmabhūta-jñāna).",
+   "Liberation is attained by bhakti (loving meditation, dhruvānusmṛti) or by prapatti (surrender), through the Lord's grace; there is no liberation while living.",
+   "The liberated soul reaches Vaikuṇṭha by the path of light, keeps its individuality, shares the Lord's bliss and serves him eternally (kainkarya).",
+   "Ubhaya Vedānta: the Sanskrit Veda and the Tamil hymns of the Āḻvārs are of equal authority."
+  ],
+  "ultimate": "ult:visistadvaita",
+  "path_maps": [
+   "pth:visistadvaita-bhakti-yoga",
+   "pth:srivaisnava-prapatti",
+   "pth:paramapada-sopana"
+  ],
+  "summary": "The Vedānta of Nāthamuni, Yāmuna and Rāmānuja, carried by the Śrīvaiṣṇava community of South India. It teaches one Brahman, Nārāyaṇa with Śrī, who has souls and matter as his body, reached by devotion or surrender and served eternally in Vaikuṇṭha. From the 13th–14th c. its teachers divided into a northern (Vaṭakalai) and a southern (Teṅkalai) school over grace, surrender and Śrī's status.",
+  "coverage": [
+   "A6",
+   "A9"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U14-visistadvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:vivarana",
+  "name": "Vivaraṇa school (Vivaraṇa-prasthāna)",
+  "alt_names": [
+   "Vivaraṇa-prasthāna",
+   "Pañcapādikā–Vivaraṇa line"
+  ],
+  "family": "vedic",
+  "parent": "lin:advaita-vedanta",
+  "founders": [
+   "tch:padmapada",
+   "tch:prakasatman"
+  ],
+  "key_teachers": [
+   "tch:padmapada",
+   "tch:prakasatman",
+   "tch:akhandananda",
+   "tch:vidyaranya",
+   "tch:nrsimhasrama",
+   "tch:madhusudana-sarasvati",
+   "tch:brahmananda-sarasvati"
+  ],
+  "texts": [
+   "src:pancapadika",
+   "src:pancapadika-vivarana",
+   "src:tattvadipana",
+   "src:vivaranaprameyasangraha",
+   "src:advaitasiddhi",
+   "src:laghucandrika"
+  ],
+  "regions": [
+   "South India",
+   "Vārāṇasī"
+  ],
+  "dating": {
+   "scholarly": {
+    "text": "From Prakāśātman (c. 10th–11th c.) onward; the dominant line of later Advaita scholarship",
+    "from": 950,
+    "to": null
+   },
+   "confidence": "low"
+  },
+  "status": "living",
+  "transmissions_received": [
+   {
+    "from": "lin:advaita-vedanta",
+    "what": "Padmapāda's Pañcapādikā on Śaṅkara's BSBh 1.1.1–4",
+    "evidence": "Vivaraṇa is a sub-commentary on the Pañcapādikā"
+   }
+  ],
+  "distinctive_positions": [
+   "Ignorance (avidyā) has pure consciousness (Brahman) as both its locus (āśraya) and its object (viṣaya).",
+   "Avidyā is a positive entity (bhāva-rūpa), though indescribable, known through perception ('I am ignorant'), inference and presumption.",
+   "Reflection theory (pratibimba-vāda): the jīva is the reflection of Brahman in avidyā/the inner organ; the reflection is real and identical with its prototype; Īśvara is the prototype (bimba) consciousness.",
+   "Hearing (śravaṇa) of the Upaniṣads is the principal means (aṅgin), enjoined by a restrictive injunction (niyama-vidhi); reflection and contemplation are its auxiliaries.",
+   "The mahāvākya itself generates immediate (aparokṣa) knowledge of Brahman.",
+   "Vedic works, through purification, lead to knowledge itself (vedana), not merely to the desire to know."
+  ],
+  "ultimate": "ult:vivarana",
+  "summary": "The line of post-Śaṅkara Advaita founded on Padmapāda's Pañcapādikā and Prakāśātman's Pañcapādikā-vivaraṇa; it locates ignorance in Brahman, treats avidyā as a positive indescribable power, explains the jīva as a reflection, and makes hearing of the Upaniṣadic sentence the direct means of liberating knowledge. Madhusūdana Sarasvatī's Advaitasiddhi largely follows it.",
+  "coverage": [
+   "A6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U13-advaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:vyasaraja-matha",
   "name": "Vyāsarāja Maṭha (Sosale)",
   "alt_names": [
@@ -5082,6 +9076,91 @@
   "provenance": {
    "units": [
     "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:yogini-kaula",
+  "name": "Yoginī Kaula (Yoginīkaula) of Matsyendra",
+  "alt_names": [
+   "Yoginīkaula",
+   "Mahāyoginīkaula",
+   "Siddha Kaula (as a stage in the Kaulajñānanirṇaya's account)",
+   "Matsyodara (the Kali-age form of the Kaula)"
+  ],
+  "family": "vedic",
+  "parent": "lin:kaula",
+  "founders": [
+   "tch:matsyendranatha"
+  ],
+  "key_teachers": [
+   "tch:goraksanatha"
+  ],
+  "texts": [
+   "src:kaulajnananirnaya",
+   "src:akulavira-tantra",
+   "src:kulananda-tantra",
+   "src:jnanakarika",
+   "src:yogavisaya"
+  ],
+  "regions": [
+   "Kāmarūpa (Assam)",
+   "Candradvīpa (traditional place of descent)",
+   "Nepal (manuscripts)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "the Kaula descended in each age: as Jñānanirṇiti, Mahat, Siddhāmṛta and, in the Kali age, as Matsyodara 'from the fish's belly' (KJN 16.47–48)",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "the oldest Kaulajñānanirṇaya manuscript (Nepal) was assigned by its editor to c. the 11th c.; the teaching is usually placed c. 9th–11th c.",
+    "from": 900,
+    "to": 1100
+   },
+   "confidence": "moderate"
+  },
+  "status": "absorbed",
+  "transmissions_given": [
+   {
+    "to": "lin:natha",
+    "what": "Matsyendra's Kaula teaching and his place at the head of the Nāth lineage"
+   },
+   {
+    "to": "lin:kaula",
+    "what": "one of the Kaula currents named in later Kaula lists"
+   }
+  ],
+  "distinctive_positions": [
+   "The true liṅga is the body-liṅga, worshipped with eight inner flowers (non-harming, sense-restraint, compassion, feeling, patience, conquest of anger, meditation, knowledge) (KJN 3.24–29).",
+   "One whose tendency (vāsanā) rests in the body belongs to the Kula; one whose tendency is outward is a bound 'animal' (paśu) (KJN 3.31).",
+   "Śiva is not without Śakti nor Śakti without Śiva (KJN 17.8); the self is guru, siddha, disciple and Śiva (KJN 11.26).",
+   "Nectar-meditations conquer death and old age; eleven centres of the body grant powers (KJN 5).",
+   "The teaching is given only to a tested, devoted disciple, ear to ear (KJN 5.35; 6.9; 17.10–11).",
+   "The Kaula path is of two kinds, made (kṛtaka) and innate (sahaja); the aroused kuṇḍalī is 'made', the innate abides in samarasa (Akulavīra B.43).",
+   "Kaula rites with meat, wine, fish, sexual union and bodily substances are taught (summary only; restricted) (KJN 8; 11; 18)."
+  ],
+  "ultimate": "ult:yogini-kaula",
+  "summary": "The Yoginīkaula is the Kaula current that the Kaulajñānanirṇaya says Macchaghnapāda (Matsyendra) brought down from Candradvīpa and that was 'in every house of the yoginīs' in Kāmarūpa (KJN 22.10). Its texts, edited by P. C. Bagchi, teach the body-liṅga, the centres and nectar of the body, the conquest of death, the Akula beyond all distinctions and the secrecy of the Kaula; the Nāth tradition places Matsyendra at its head.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A7",
+   "A8",
+   "D"
+  ],
+  "notes": "Sub-lineage created by U21 (Matsyendra's own Kaula school); U24 owns lin:kaula.",
+  "provenance": {
+   "units": [
+    "skeleton:U21-natha-aghora"
    ],
    "phases": [
     "skeleton"

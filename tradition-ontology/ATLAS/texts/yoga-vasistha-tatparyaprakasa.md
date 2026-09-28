@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:advaita-vedanta`
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md)
 **Genre:** commentary
 **Commentary on:** [Yoga Vāsiṣṭha](yoga-vasistha.md)
 **Authors:** 
@@ -15,4 +15,4 @@
 An Advaita commentary on the whole Yoga Vāsiṣṭha, printed with the Nirṇaya Sāgara edition.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

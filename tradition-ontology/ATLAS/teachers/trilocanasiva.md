@@ -1,14 +1,15 @@
 # Trilocanaśiva
 
-`tch:trilocanasiva` · `skeleton` · confidence low
+`tch:trilocanasiva` · `skeleton` · confidence moderate
 
-**Lineages:** `lin:saiva-siddhanta`, [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
-**Dates:** Scholarly account: 12th c.; (confidence low)
+**Lineages:** [Śaiva Siddhānta](../lineages/saiva-siddhanta.md), [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
+**Dates:** Scholarly account: 12th c.; (confidence moderate)
 **Historicity:** historical
 **Works:** 
   - [Siddhāntasārāvalī](../texts/siddhantasaravali.md) — attribution: accepted
+  - [Prāyaścittasamuccaya (of Trilocanaśiva)](../texts/prayascittasamuccaya-trilocanasiva.md) — attribution: accepted
 
-South Indian Saiddhāntika author of the Siddhāntasārāvalī, a verse digest of ritual.
+Twelfth-century South Indian Saiddhāntika, author of the Siddhāntasārāvalī and the Prāyaścittasamuccaya (and reportedly a commentary on the Somaśambhupaddhati — low confidence).
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

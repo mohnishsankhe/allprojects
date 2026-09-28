@@ -1,20 +1,23 @@
 # Aghoraśiva
 
-`tch:aghorasiva` · `skeleton` · confidence moderate
+`tch:aghorasiva` · `skeleton` · confidence high
 
 **Alternate names:** Aghoraśivācārya
-**Lineages:** `lin:saiva-siddhanta`, [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
-**Dates:** Scholarly account: 12th c.; (confidence moderate)
-**Places:** Cidambaram
+**Lineages:** [Śaiva Siddhānta](../lineages/saiva-siddhanta.md), [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
+**Dates:** Scholarly account: mid-12th c. (Kriyākramadyotikā completed 1157/58); (confidence high)
+**Places:** Chidambaram, Cidambaram
 **Historicity:** historical
 **Works:** 
   - [Kriyākramadyotikā](../texts/kriyakramadyotika.md) — attribution: accepted
   - [Mṛgendravṛttidīpikā](../texts/mrgendravrttidipika.md) — attribution: accepted
+  - [Mahotsavavidhi (of Aghoraśiva)](../texts/mahotsavavidhi.md) — attribution: accepted
+  - [Pañcāvaraṇastava](../texts/pancavaranastava.md) — attribution: accepted
+  - [Aṣṭaprakaraṇa](../texts/astaprakarana.md) — attribution: accepted
   - [Sarvajñānottaravṛtti](../texts/sarvajnanottaravrtti.md) — attribution: accepted
 
-Saiddhāntika ācārya of Cidambaram whose ritual manual (Kriyākramadyotikā, 1157/58) became the standard for Tamil Śaiva temple and domestic ritual; he also wrote commentaries on the Mṛgendravṛtti, the Sarvajñānottara and works of Sadyojyoti and Bhoja.
+Twelfth-century Śaiva ācārya of Chidambaram (Āmardaka lineage — moderate confidence) whose ritual manual Kriyākramadyotikā (1157/58) and commentaries (on the Mṛgendravṛtti and six of the Aṣṭaprakaraṇa treatises) fixed the dualist reading of the Siddhānta followed by South Indian temple priests.
 
-_Notes: Contribution from U08._
+_Notes: Corrected: his Aṣṭaprakaraṇa commentaries cover six treatises (not the Mokṣakārikā or Paramokṣanirāsakārikā)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

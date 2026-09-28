@@ -17,5 +17,17 @@
 one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); the eighth of the ten short treatises (daśa-prakaraṇa); it a polemical prose treatise against Advaita, opening with the inference that the liberated soul is different (from Brahman) and arguing that the 'indeterminable' (anirvacanīya) is established by no means of knowledge and is not taught by scripture (not even by the Nāsadīya hymn).
 **Commentaries on this text:** [Tattvoddyota-ṭīkā (Jayatīrtha)](tattvoddyota-tika-jayatirtha.md)
 
+## Teachings (1: skeleton 1)
+
+### 1 <a id="tea-tattvoddyota-1"></a>
+`skeleton` · confidence high
+
+The liberated soul in question is different (from Brahman), because it is liberated. There is no room for alternatives about difference, since the 'indeterminable' is nowhere established, and no means of knowledge shows it; scripture does not teach something other than both existent and non-existent — not even the Nāsadīya hymn ('there was neither non-being nor being then').
+
+_level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, karma-liberation_
+
+terms: [bheda](../terms/bheda.md), [anirvacanīya](../terms/anirvacaniya.md), [mokṣa](../terms/moksa.md) · concepts: [Eternal distinction in liberation](../concepts/difference-in-liberation.md), [The critique of māyā (māyāvāda-khaṇḍana)](../concepts/mayavada-khandana.md) · disputes: `dsp:souls-one-or-distinct`
+
+
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

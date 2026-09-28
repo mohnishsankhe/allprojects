@@ -12,4 +12,4 @@ Kashmiri author credited with the Sarvatobhadra commentary on the Kashmir recens
 _Notes: Not identified here with the Saiddhāntika Rāmakaṇṭha (tch:ramakantha)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

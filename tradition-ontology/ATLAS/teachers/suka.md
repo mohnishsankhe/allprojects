@@ -3,10 +3,10 @@
 `tch:suka` · `skeleton` · confidence high
 
 **Alternate names:** Śukadeva, Vaiyāsaki, Bādarāyaṇi
-**Lineages:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
+**Lineages:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](../lineages/sannyasa.md), [Advaita Vedānta](../lineages/advaita-vedanta.md)
 **Historicity:** legendary
-**Teachers:** [Vyāsa (Kṛṣṇa Dvaipāyana)](vyasa.md), [Janaka](janaka.md)
-**Students:** [Parīkṣit](pariksit.md), [Ugraśravas Sauti](ugrasravas.md)
+**Teachers:** [Vyāsa (Kṛṣṇa Dvaipāyana)](vyasa.md), [Janaka of Videha](janaka.md), [Śiva](siva.md)
+**Students:** [Parīkṣit](pariksit.md), [Ugraśravas Sauti](ugrasravas.md), [Gauḍapāda](gaudapada.md)
 **Works:** 
   - [Bhāgavata Purāṇa](../texts/bhagavata-purana.md) — attribution: traditional
 
@@ -16,4 +16,4 @@ Vyāsa's son, the paramahaṃsa narrator of the Bhāgavata to King Parīkṣit o
 _Notes: U05's contribution; his role as reciter of the Bhāgavata Purāṇa is covered by U07. The Janaka who teaches Śuka is referenced by the registry id tch:janaka without asserting identity with the Upaniṣadic king._
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U05-gita-epic, skeleton:U04-minor-upanisads, skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._

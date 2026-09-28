@@ -1,1 +1,6541 @@
-[]
+[
+ {
+  "id": "brw:adhyatma-ramayana-to-ramcaritmanas",
+  "from": "lin:puranic",
+  "to": "lin:ramanandi",
+  "what": "Tulsīdās's Rāmcaritmānas draws on the Adhyātma Rāmāyaṇa: the Śiva-Pārvatī frame, Rāma as Brahman with Sītā as his power, the nine means of devotion to Śabarī, Lakṣmaṇa's consolation of Guha.",
+  "direction": "from→to",
+  "era": "16th c. CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "AR 3.10.22-27 and RCM Araṇyakāṇḍa (Śabarī); AR Ayodhyā and RCM Ayodhyā 92-93 (Lakṣmaṇa and Guha)",
+    "refs": [
+     "tea:adhyatma-ramayana:3.10.22-27",
+     "tea:laksmana-gita:2.92-93"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "widely accepted",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U06-other-gitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:advaita-srividya",
+  "from": "lin:srividya",
+  "to": "lin:advaita-vedanta",
+  "what": "Mutual association of Advaita and Śrīvidyā: Śrīcakra worship in the Śaṅkara maṭhas (tradition), Śākta works ascribed to Gauḍapāda and Śaṅkara (Saundaryalaharī), the Tripura Rahasya's Advaita.",
+  "direction": "mutual",
+  "era": "medieval to present",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "The maṭhas' worship of Śāradā/Kāmākṣī with the Śrīcakra; attributions of Subhagodaya to Gauḍapāda and Saundaryalaharī to Śaṅkara (disputed).",
+    "refs": [
+     "tea:tripura-rahasya:jnana/2"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Scholars doubt the attributions and date the association later.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U13-advaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:alankara-rasa-advaita-bhakti",
+  "from": "lin:alankara",
+  "to": "lin:advaita-vedanta",
+  "what": "Rasa theory applied to devotion: bhakti as a rasa (Madhusūdana's Bhaktirasāyana).",
+  "direction": "from→to",
+  "era": "16th–17th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Bhaktirasāyana treats devotion in the vocabulary of rasa.",
+    "refs": [
+     "tea:bhaktirasayana:1"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U13-advaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:alankara-rasa-to-gaudiya",
+  "from": "lin:alankara",
+  "to": "lin:gaudiya-vaisnava",
+  "what": "The rasa framework (sthāyibhāva, vibhāva, anubhāva, sāttvika, vyabhicārin; the list of transient emotions) of Bharata's school, recast as bhakti-rasa with five primary and seven secondary rasas.",
+  "direction": "from→to",
+  "era": "16th c. CE",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "BRS southern division uses the Nāṭyaśāstra's categories",
+    "refs": [
+     "tea:bhaktirasamrtasindhu:2.1",
+     "tea:bhaktirasamrtasindhu:2.4"
+    ]
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Rūpa's Nāṭakacandrikā follows Bharata's dramaturgy",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C",
+   "A6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U16-bhedabheda"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:alvar-to-visistadvaita",
+  "from": "lin:alvar",
+  "to": "lin:visistadvaita",
+  "what": "The Tamil hymns of the Āḻvārs as a second, Tamil Veda; the theology of surrender, of Śrī's mediation and of the Lord's accessibility in temple images; temple recitation.",
+  "direction": "from→to",
+  "era": "10th–15th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Nāthamuni received the Prabandham from Nammāḻvār",
+    "refs": [
+     "tea:guruparampara-prabhavam-arayirappati:nathamuni"
+    ]
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Yāmuna salutes Nammāḻvār as the first head of the clan; the Tiruvāymoḻi commentaries",
+    "refs": [
+     "tea:stotraratna:5",
+     "tea:itu-muppattarayirappati:6.10.10"
+    ]
+   }
+  ],
+  "coverage": [
+   "A6",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U14-visistadvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:aparoksanubhuti-tejobindu",
+  "from": "lin:advaita-vedanta",
+  "to": "lin:upanisadic",
+  "what": "The fifteen limbs read as knowledge, and the list of obstacles in samādhi, shared between the Aparokṣānubhūti and the Tejobindu.",
+  "direction": "disputed",
+  "era": "medieval",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Tejobindu 1.15–41 closely parallels the Aparokṣānubhūti's fifteen limbs",
+    "refs": [
+     "tea:tejobindu-upanisad:1.15-16",
+     "tea:tejobindu-upanisad:1.40-41"
+    ]
+   }
+  ],
+  "coverage": [
+   "A2",
+   "I2"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:atharvan-brahman-prana-to-upanisads",
+  "from": "lin:vedic-srauta",
+  "to": "lin:upanisadic",
+  "what": "The Atharvaveda's highest Brahman, the self 'knowing whom one does not fear death', the city of Brahman in the body, the Full, and Prāṇa as lord of all",
+  "direction": "from→to",
+  "era": "late Vedic",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "AVŚ 10.8.44 (the fearless self), 10.2.28–33 (the city of Brahman), 10.8.29 (from the full the full), 11.4 (Prāṇa) have close Upaniṣadic parallels (e.g. BĀU 5.1.1; Praśna 2).",
+    "refs": [
+     "tea:atharvaveda-saunaka:10.8.44",
+     "tea:atharvaveda-saunaka:10.2.31",
+     "tea:atharvaveda-saunaka:10.8.29",
+     "tea:atharvaveda-saunaka:11.4.1"
+    ]
+   }
+  ],
+  "coverage": [
+   "A1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:atharvasiras-pasupata-sutra",
+  "from": "lin:upanisadic",
+  "to": "lin:pasupata",
+  "what": "The ash vow called pāśupata and a verbal parallel: 'having cut the root of the net of causes ... with the intellect ... fixed on Rudra'.",
+  "direction": "disputed",
+  "era": "uncertain",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Atharvaśiras 5 '... hitvā hetujālasya mūlam | buddhyā sañcitaṃ sthāpayitvā tu rudre' ~ PS 5.35-38 'chittvā doṣāṇāṃ hetujālasya mūlam | buddhyā | sañcittam | sthāpayitvā ca rudre'.",
+    "refs": [
+     "tea:atharvasiras-upanisad:5",
+     "tea:pasupata-sutra:5.35-40"
+    ]
+   }
+  ],
+  "notes": "Which text borrowed from which is not settled.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U17-pasupata-kapalika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:atharvaveda-to-ayurveda",
+  "from": "lin:vedic-srauta",
+  "to": "lin:ayurveda",
+  "what": "Atharvavedic healing (bhaiṣajya) and the status of Āyurveda as a limb (upāṅga/upaveda) of the Atharvaveda",
+  "direction": "from→to",
+  "era": "classical",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Suśruta Saṃhitā Sūtrasthāna 1.6 calls Āyurveda an upāṅga of the Atharvaveda; Caraka Saṃhitā Sūtrasthāna 30.21 enjoins devotion to the Atharvaveda (loci from memory, moderate).",
+    "refs": [
+     "tea:atharvaveda-saunaka:1.22",
+     "tea:rgveda:10.97.6"
+    ]
+   }
+  ],
+  "coverage": [
+   "A1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:atimarga-to-mantramarga",
+  "from": "lin:atimarga",
+  "to": "lin:mantramarga",
+  "what": "Śaiva ascetic heritage: the five brahma-mantras, ash-observances, the Śaiva cosmos of principles",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "historians (A. Sanderson and others) derive the Mantramārga from an Atimārga background; the texts themselves rank the Atimārga below the Mantramārga",
+    "refs": [
+     "tea:kamika-agama:purva.1.17-19"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U08-agama-catalogue"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:atmavada-from-sariraka",
+  "from": "lin:vedanta",
+  "to": "lin:mimamsa",
+  "what": "The proof of the self's existence given in Śabara's pramāṇa section, which Śaṅkara says was drawn from the Śārīraka (BS 3.3.53); Upavarṣa deferred the topic to the Śārīraka.",
+  "direction": "from→to",
+  "era": "before Śabara",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Śaṅkara, BSBh 3.3.53",
+    "refs": [
+     "tea:brahma-sutra-bhasya-sankara:3.3.53"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U12-mimamsa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:ayurveda-nyaya-vada",
+  "from": "lin:ayurveda",
+  "to": "lin:nyaya",
+  "what": "Vocabulary of debate — proposition, reason, example, application, conclusion, quibble, point of defeat — shared by Caraka's debate manual and the Nyāya Sūtra",
+  "direction": "disputed",
+  "era": "early centuries CE",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Caraka Saṃhitā, Vimānasthāna 8 lists the 'paths of debate' (recalled; to be checked).",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A5",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U11-nyaya-vaisesika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:bhagavad-gita-model-for-later-gitas",
+  "from": "lin:epic-teaching",
+  "to": "lin:puranic",
+  "what": "The Bhagavad Gītā's form — a god teaching a hero/king, vibhūti and viśvarūpa chapters, field-and-knower and three-guṇa chapters — is taken over by the Īśvara, Devī, Śiva and Gaṇeśa Gītās (the Gaṇeśa Gītā reworks many verses with Gaṇeśa as the Lord).",
+  "direction": "from→to",
+  "era": "first and early second millennium CE (scholarly)",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "viśvarūpa: Devī Gītā 7.33, Śiva Gītā 7, Gaṇeśa Gītā 8; Śiva's dance vision in Īśvara Gītā 2.5",
+    "refs": [
+     "tea:devi-gita:7.33",
+     "tea:siva-gita:7",
+     "tea:ganesa-gita:8",
+     "tea:isvara-gita:2.5.1-6"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "the later Gītās are widely read as sectarian responses to the Bhagavad Gītā",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U06-other-gitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:bhagavata-bhakti-to-virasaiva",
+  "from": "lin:puranic",
+  "to": "lin:virasaiva",
+  "what": "The ninefold devotion (śravaṇa, kīrtana, smaraṇa…), re-addressed to Śambhu",
+  "direction": "from→to",
+  "era": "by the time of the SSM",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "SSM 9.2–3 parallels Bhāgavata Purāṇa 7.5.23 ('śravaṇaṃ kīrtanaṃ viṣṇoḥ…') with Śambhu in place of Viṣṇu.",
+    "refs": [
+     "tea:siddhantasikhamani:9.2-3"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A7"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U20-virasaiva"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:bhagavata-early-to-pancaratra",
+  "from": "lin:bhagavata-early",
+  "to": "lin:pancaratra",
+  "what": "the fourfold form (vyūha) doctrine and Sātvata worship of Vāsudeva",
+  "direction": "from→to",
+  "era": "scholarly: c. 1st c. BCE – 5th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "the Nārāyaṇīya calls its teaching 'Pañcarātra' (12.326.100) and names the fourfold form (12.326.68–69)",
+    "refs": [
+     "tea:narayaniya:12.326.100",
+     "tea:narayaniya:12.326.68-69"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "the Pāñcarātra Saṃhitās trace their teaching to Nārāyaṇa's revelation",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U05-gita-epic"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:bhagavata-early-to-puranic",
+  "from": "lin:bhagavata-early",
+  "to": "lin:puranic",
+  "what": "the Lord's manifestations and Kṛṣṇa devotion",
+  "direction": "from→to",
+  "era": "scholarly: early centuries CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "the Nārāyaṇīya's list of manifestations (12.326.72–94) and BhG 4.7–8 prefigure the Purāṇic avatāra lists; the Harivaṃśa's life of Kṛṣṇa is continued in the Viṣṇu and Bhāgavata Purāṇas",
+    "refs": [
+     "tea:narayaniya:12.326.72-94",
+     "tea:bhagavad-gita:4.7-8"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U05-gita-epic"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:bhagavata-sadhu-qualities-in-avadhuta-gita",
+  "from": "lin:puranic",
+  "to": "lin:advaita-vedanta",
+  "what": "The list of the sage's qualities of Bhāgavata 11.11.29-31 is reproduced nearly verbatim in Avadhūta Gītā 8.2-4.",
+  "direction": "from→to",
+  "era": "unknown",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "verified in the local texts",
+    "refs": [
+     "tea:uddhava-gita:11.11.29-32",
+     "tea:avadhuta-gita:8.2-4"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "direction assumed from the Bhāgavata to the Avadhūta Gītā (U06 judgement, moderate)",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U06-other-gitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:bhagavata-to-gaudiya",
+  "from": "lin:puranic",
+  "to": "lin:gaudiya-vaisnava",
+  "what": "The Bhāgavata Purāṇa as the supreme scripture ('the spotless Purāṇa'), source of Kṛṣṇa's status as svayaṃ bhagavān and of the rāsa and gopī theology.",
+  "direction": "from→to",
+  "era": "16th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Tattvasandarbha; Kṛṣṇasandarbha",
+    "refs": [
+     "tea:tattva-sandarbha:pramana-section",
+     "tea:krsna-sandarbha:paribhasa-section"
+    ]
+   }
+  ],
+  "coverage": [
+   "C",
+   "A6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U16-bhedabheda"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:bhagavata-to-pustimarga",
+  "from": "lin:puranic",
+  "to": "lin:pustimarga",
+  "what": "The Bhāgavata as the fourth authority and the ground of puṣṭi (poṣaṇa = anugraha) and nirodha.",
+  "direction": "from→to",
+  "era": "c. 1500 CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Tattvārthadīpanibandha 1.7; Subodhinī",
+    "refs": [
+     "tea:tattvarthadipanibandha:1.7",
+     "tea:bhagavata-purana:2.10.4"
+    ]
+   }
+  ],
+  "coverage": [
+   "C",
+   "A6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U16-bhedabheda"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:bhatta-epistemology-to-advaita",
+  "from": "lin:bhatta-mimamsa",
+  "to": "lin:advaita-vedanta",
+  "what": "The six means of knowledge (including postulation and non-apprehension) and intrinsic validity, used by Advaita for empirical matters.",
+  "direction": "from→to",
+  "era": "from c. 8th c. CE; systematized in Dharmarāja's Vedāntaparibhāṣā",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Advaita manuals list the same six pramāṇas with Bhāṭṭa definitions",
+    "refs": [
+     "src:vedantaparibhasa"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "the maxim 'in empirical matters, the Bhāṭṭa method' (vyavahāre bhāṭṭanayaḥ) is cited in Advaita (source of the maxim not checked)",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U12-mimamsa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:bhedabheda-to-visistadvaita",
+  "from": "lin:bhedabheda",
+  "to": "lin:visistadvaita",
+  "what": "Rāmānuja's early training under Yādavaprakāśa and the shared pariṇāma and aṃśa readings of the Brahma Sūtras, which Rāmānuja reworked into the body–soul model while criticising both forms of bhedābheda.",
+  "direction": "from→to",
+  "era": "11th c. CE",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Śrīvaiṣṇava hagiography of Rāmānuja and Yādavaprakāśa",
+    "refs": []
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Vedārthasaṅgraha discusses Bhāskara's and Yādava's views",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C",
+   "A6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U16-bhedabheda"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:bodhya-teachers-to-bhagavata-gurus",
+  "from": "lin:epic-teaching",
+  "to": "lin:puranic",
+  "what": "The theme of learning from natural teachers: Bodhya's six teachers (Piṅgalā, osprey, snake, bee, arrow-maker, maiden) all reappear among the avadhūta's twenty-four; Piṅgalā's song and maxim recur.",
+  "direction": "from→to",
+  "era": "between the Mahābhārata's Śāntiparvan and the Bhāgavata (scholarly)",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "MBh 12.171.61 and 12.168.46-52 vs BhP 11.7.33-34, 11.8.22-44, 11.9.1-15",
+    "refs": [
+     "tea:bodhya-gita:12.171.58-61",
+     "tea:pingala-gita:12.168.52",
+     "tea:uddhava-gita:11.7.32-35",
+     "tea:uddhava-gita:11.8.22-44"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "the tradition treats both as Vyāsa's",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U06-other-gitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:brahmana-to-pancaratra",
+  "from": "lin:vedic-srauta",
+  "to": "lin:pancaratra",
+  "what": "The figure of Puruṣa Nārāyaṇa and the name of a five-night (pañcarātra) sacrifice",
+  "direction": "disputed",
+  "era": "late Brāhmaṇa → early Pāñcarātra",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "ŚB 13.6.1.1: Puruṣa Nārāyaṇa beholds the five-night sacrifice and becomes all.",
+    "refs": [
+     "tea:satapatha-brahmana:13.6.1.1"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "A link to the later Pāñcarātra tradition's name has been proposed; not established.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U02-brahmana-vedanga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:buddhism-yoga-cosmology",
+  "from": "lin:early-buddhism",
+  "to": "lin:patanjala-yoga",
+  "what": "Names of heavens and deva classes in Vyāsa's cosmology (YBh 3.26): Tuṣita, Aparinirmitavaśavartin, Parinirmitavaśavartin, Brahmapurohita, Brahmakāyika, Ābhāsvara, Śuddhanivāsa, and the Avīci hell.",
+  "direction": "disputed",
+  "era": "early centuries CE",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Same or near-identical names in Buddhist cosmology (Tusita, Paranimmitavasavattī, Brahmapurohita, Ābhassara, Suddhāvāsa, Avīci); Vyāsa also links his highest gods to the meditations with reasoning, reflection, bliss and I-am-ness, as Buddhism links heavens to jhānas.",
+    "refs": [
+     "tea:yoga-bhasya:3.26"
+    ]
+   }
+  ],
+  "coverage": [
+   "C",
+   "A5"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U10-yoga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:buddhism-yoga-five-faculties",
+  "from": "lin:early-buddhism",
+  "to": "lin:patanjala-yoga",
+  "what": "The five means of YS 1.20 — śraddhā, vīrya, smṛti, samādhi, prajñā.",
+  "direction": "disputed",
+  "era": "early centuries CE",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Identical to the Buddhist five faculties/powers (indriya/bala: saddhā, viriya, sati, samādhi, paññā).",
+    "refs": [
+     "tea:yoga-sutra:1.20",
+     "tea:yoga-bhasya:1.20"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Widely taken as a borrowing from Buddhism.",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C",
+   "A5"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U10-yoga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:buddhism-yoga-four-attitudes",
+  "from": "lin:early-buddhism",
+  "to": "lin:patanjala-yoga",
+  "what": "The four attitudes maitrī, karuṇā, muditā, upekṣā (YS 1.33), called 'the abodes (vihāra) of meditators' in YBh 4.10.",
+  "direction": "disputed",
+  "era": "early centuries CE (YS/YBh) — older Buddhist attestation",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Same four terms as the Buddhist brahmavihāras (Pali mettā, karuṇā, muditā, upekkhā); YBh 4.10 uses 'vihāra'.",
+    "refs": [
+     "tea:yoga-sutra:1.33",
+     "tea:yoga-bhasya:4.10"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Many scholars see Buddhist precedence; others posit a shared śramaṇa milieu (the Jain four bhāvanās maitrī, pramoda, kāruṇya, mādhyasthya — Tattvārtha Sūtra 7 — are also parallel). Direction not settled.",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C",
+   "A5"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U10-yoga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:buddhism-yoga-four-inversions",
+  "from": "lin:early-buddhism",
+  "to": "lin:patanjala-yoga",
+  "what": "Ignorance as taking the impermanent, impure, painful and non-self as permanent, pure, pleasant and self (YS 2.5).",
+  "direction": "disputed",
+  "era": "early centuries CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Parallels the four perversions (vipallāsa) of Aṅguttara Nikāya 4.49 (Vipallāsa Sutta).",
+    "refs": [
+     "tea:yoga-sutra:2.5",
+     "tea:yoga-bhasya:2.5"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Commonly cited as evidence of Buddhist influence on the Yoga Sūtra.",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C",
+   "A5"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U10-yoga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:buddhism-yoga-fourfold-scheme",
+  "from": "lin:early-buddhism",
+  "to": "lin:patanjala-yoga",
+  "what": "The fourfold scheme of the śāstra modelled on medicine — saṃsāra, its cause, liberation, the means (YBh 2.15; YS 2.16–26).",
+  "direction": "disputed",
+  "era": "early centuries CE",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Compared with the four noble truths and their medical framing in Buddhist texts; the medical model may be common Indian property.",
+    "refs": [
+     "tea:yoga-bhasya:2.15",
+     "tea:yoga-sutra:2.16"
+    ]
+   }
+  ],
+  "coverage": [
+   "C",
+   "A5"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U10-yoga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:buddhism-yoga-klesa-theory",
+  "from": "lin:early-buddhism",
+  "to": "lin:patanjala-yoga",
+  "what": "The vocabulary of kleśa and anuśaya ('sukhānuśayī rāgaḥ', 'duḥkhānuśayī dveṣaḥ' 2.7–8; 'anuśerate' YBh 2.4), the burnt-seed image, and afflictions as the root of karma.",
+  "direction": "disputed",
+  "era": "early centuries CE",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "kleśa / kilesa; anuśaya is a technical term of Buddhist Abhidharma.",
+    "refs": [
+     "tea:yoga-sutra:2.3",
+     "tea:yoga-sutra:2.7",
+     "tea:yoga-sutra:2.8",
+     "tea:yoga-bhasya:2.4"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Influence of Sarvāstivāda/Sautrāntika Abhidharma on the Yoga theory of afflictions has been proposed.",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C",
+   "A5"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U10-yoga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:buddhism-yoga-meditation-vocabulary",
+  "from": "lin:early-buddhism",
+  "to": "lin:patanjala-yoga",
+  "what": "Meditative vocabulary: samāpatti, vitarka and vicāra, ekāgratā, nirodha, bhāvanā, and YBh 1.20's 'smṛtyupasthāne'.",
+  "direction": "disputed",
+  "era": "early centuries CE",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "samāpatti, vitakka/vicāra (first-jhāna factors), ekaggatā, satipaṭṭhāna.",
+    "refs": [
+     "tea:yoga-sutra:1.17",
+     "tea:yoga-sutra:1.41",
+     "tea:yoga-sutra:1.42",
+     "tea:yoga-bhasya:1.20"
+    ]
+   },
+   {
+    "type": "textual-parallel",
+    "detail": "Vijñānabhikṣu (YV 1.17) cites a Mokṣadharma verse naming vitarka, vicāra and viveka in the first yoga/dhyāna, showing the same vocabulary in the epic.",
+    "refs": [
+     "tea:yogavarttika:1.17"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Structural correspondence of the samāpattis to the jhānas is contested.",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C",
+   "A5"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U10-yoga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:buddhism-yoga-shared-verses",
+  "from": "lin:early-buddhism",
+  "to": "lin:patanjala-yoga",
+  "what": "Verses and similes quoted in the Yoga-bhāṣya with Buddhist parallels.",
+  "direction": "disputed",
+  "era": "early centuries CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "YBh 1.47 'prajñāprasādam āruhya ...' ~ Dhammapada 28 ('paññāpāsādam āruyha ...').",
+    "refs": [
+     "tea:yoga-bhasya:1.47"
+    ]
+   },
+   {
+    "type": "textual-parallel",
+    "detail": "YBh 2.42 'yac ca kāmasukhaṃ loke ...' ~ Udāna 2.2 ('yañca kāmasukhaṃ loke ...'); the verse also occurs in the Mahābhārata.",
+    "refs": [
+     "tea:yoga-bhasya:2.42"
+    ]
+   },
+   {
+    "type": "textual-parallel",
+    "detail": "YBh 2.15: the wise one is like an eyeball hurt by a wool thread — a simile also found in the Abhidharmakośabhāṣya (on 6.3) (recalled; check).",
+    "refs": [
+     "tea:yoga-bhasya:2.15"
+    ]
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "YBh 4.33 classifies questions as answerable one-sidedly, by distinction (vibhajya) or not (avacanīya), as Buddhist texts classify ways of answering questions (Aṅguttara 4.42).",
+    "refs": [
+     "tea:yoga-bhasya:4.33"
+    ]
+   }
+  ],
+  "coverage": [
+   "C",
+   "A5"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U10-yoga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:buddhist-vajrasuci",
+  "from": "lin:early-buddhism",
+  "to": "lin:upanisadic",
+  "what": "The critique of birth-caste under the title 'Vajrasūcī' ('diamond needle'): a Buddhist Vajrasūcī (attributed to Aśvaghoṣa; in Chinese to Dharmakīrti) and the Vajrasūci Upaniṣad share title and line of argument.",
+  "direction": "disputed",
+  "era": "early centuries CE onward",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "same title; both question birth, body and learning as marks of the brāhmaṇa",
+    "refs": [
+     "tea:vajrasuci-upanisad:prose-question"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "often read as a Vedāntic reworking of the Buddhist text; the tradition holds the Upaniṣad to be śruti",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A2",
+   "I2"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "notes": "Buddhist lineage placement is uncertain (Aśvaghoṣa or Dharmakīrti); recorded under lin:early-buddhism pending the Buddhist units.",
+  "provenance": {
+   "units": [
+    "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:dharmasastra-penance-to-kapalika",
+  "from": "lin:dharmasastra",
+  "to": "lin:kapalika",
+  "what": "The penance for killing a brahmin - living with the skull of the slain, begging and proclaiming one's deed - as model of the Kāpālika great vow, mediated by the myth of Bhairava.",
+  "direction": "from→to",
+  "era": "uncertain",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "The Kūrma Purāṇa tells of the Lord's skull-bearing penance for brahmin-murder and its release at the tīrtha.",
+    "refs": [
+     "tea:kurma-purana:2.31.104-106"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Lorenzen and others derive the mahāvrata from the Dharmaśāstra brahmahatyā penance (Manu and Yājñavalkya; verse numbers not checked here).",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U17-pasupata-kapalika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:dharmasastra-samskaras-to-jain",
+  "from": "lin:dharmasastra",
+  "to": "lin:digambara",
+  "what": "Life-cycle sacraments, including an initiation with sacred thread, recast for Jain householders",
+  "direction": "from→to",
+  "era": "c. 9th c. CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Jinasena's Ādipurāṇa gives Jain versions of the sacraments (kriyās) for householders.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U02-brahmana-vedanga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:dvaita-advaita-dialectic",
+  "from": "lin:dvaita",
+  "to": "lin:advaita-vedanta",
+  "what": "Mutual shaping of late scholastic Vedānta: the Advaitasiddhi is organized as a point-by-point reply to the Nyāyāmṛta, and later Mādhva and Advaita commentaries answer each other in turn.",
+  "direction": "mutual",
+  "era": "16th–18th c. CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "The Advaitasiddhi follows the order of the Nyāyāmṛta's topics.",
+    "refs": [
+     "tea:nyayamrta:1"
+    ]
+   }
+  ],
+  "coverage": [
+   "A6",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:dvaita-gaudiya-parampara",
+  "from": "lin:dvaita",
+  "to": "lin:gaudiya-vaisnava",
+  "what": "The Gauḍīya tradition's claim that Caitanya's line descends from Madhva's sampradāya (through Mādhavendra Purī and Īśvara Purī), and its adoption of a list of Madhva's doctrinal points.",
+  "direction": "disputed",
+  "era": "16th–18th c. CE",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Gauḍīya paramparā lists (Kavi Karṇapūra's Gauragaṇoddeśadīpikā; Baladeva Vidyābhūṣaṇa, 18th c.) place Caitanya in Madhva's line.",
+    "refs": []
+   },
+   {
+    "type": "tradition-account",
+    "detail": "The Caitanya-caritāmṛta (Madhya-līlā 9) narrates Caitanya's meeting with Tattvavādī (Mādhva) teachers at Uḍupi and his disagreement with them.",
+    "refs": []
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Many scholars and Mādhva writers doubt a real lineage connection; the Gauḍīya doctrine of inconceivable difference-in-identity differs from Dvaita.",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A6",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "notes": "Recorded as disputed; details of the paramparā lists and CC chapter reference recalled at low confidence.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:dvaita-to-haridasa",
+  "from": "lin:dvaita",
+  "to": "lin:haridasa-karnataka",
+  "what": "Dvaita doctrine — Hari's supremacy, Vāyu's primacy, the gradation of souls and deities — set in Kannada song by the Haridāsas, several of them disciples of Mādhva ascetics (Śrīpādarāja, Vyāsatīrtha, Vādirāja); later systematized in Jagannātha Dāsa's Harikathāmṛtasāra.",
+  "direction": "from→to",
+  "era": "15th–19th c. CE",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Vyāsatīrtha is remembered as the teacher of Purandara Dāsa and Kanaka Dāsa; Śrīpādarāja as the 'grandfather' of the Haridāsas.",
+    "refs": []
+   },
+   {
+    "type": "textual-parallel",
+    "detail": "Harikathāmṛtasāra expounds tāratamya and Hari-sarvottamatva in Kannada.",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A6",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "notes": "U56 owns the Haridāsa lineage; this records only the transmission.",
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:dvaitadvaita-to-gaudiya",
+  "from": "lin:dvaitadvaita",
+  "to": "lin:gaudiya-vaisnava",
+  "what": "Keśava Kāśmīrin's Kramadīpikā (Kṛṣṇa-mantra liturgy) drawn upon in Gauḍīya ritual; shared Braj Rādhā–Kṛṣṇa devotional milieu.",
+  "direction": "from→to",
+  "era": "15th–16th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Haribhaktivilāsa's use of the Kramadīpikā (to verify)",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C",
+   "A6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U16-bhedabheda"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:epic-and-buddhist-meditation-vocabulary",
+  "from": "lin:epic-teaching",
+  "to": "lin:early-buddhism",
+  "what": "the vocabulary of the first meditation (vitarka, vicāra, viveka) and of nirvāṇa",
+  "direction": "disputed",
+  "era": "scholarly: last centuries BCE",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "MBh 12.188.15 names vicāra, vitarka and viveka as arising in 'the first dhyāna', close to the Pali first jhāna formula; the Gītā speaks of brahmanirvāṇa and 'the peace that culminates in nirvāṇa' (6.15)",
+    "refs": [
+     "tea:moksadharma:12.188.15",
+     "tea:bhagavad-gita:2.72",
+     "tea:bhagavad-gita:6.15"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "some scholars see Buddhist influence on the epic here, others common ascetic vocabulary; the direction is disputed and each tradition defines its own terms",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U05-gita-epic"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:epic-and-jain-narratives",
+  "from": "lin:epic-teaching",
+  "to": "lin:jainism",
+  "what": "shared didactic narratives: the father–son dialogue on renunciation and the parable of the man in the well",
+  "direction": "disputed",
+  "era": "scholarly: common ascetic narrative stock",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "MBh 12.169 (the son urging his father to renounce) parallels Uttarādhyayana 14; the parable of the man hanging over a well (MBh 11.5–6) recurs in Jain story literature",
+    "refs": [
+     "tea:moksadharma:12.169",
+     "tea:mahabharata:11.5-6"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U05-gita-epic"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:epic-samkhya",
+  "from": "lin:epic-teaching",
+  "to": "lin:samkhya",
+  "what": "Early enumerations of principles and the teachers Kapila, Āsuri, Pañcaśikha (Mokṣadharma); the Yuktidīpikā names Janaka, Vasiṣṭha and Dvaipāyana among those who taught the categories.",
+  "direction": "disputed",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Yuktidīpikā on SK 72",
+    "refs": [
+     "tea:yuktidipika:72"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "whether epic Sāṃkhya is pre-classical or a parallel development is debated",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U09-samkhya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:epic-samkhya-to-classical-samkhya",
+  "from": "lin:epic-teaching",
+  "to": "lin:samkhya",
+  "what": "enumeration of principles and the discrimination of puruṣa from prakṛti",
+  "direction": "disputed",
+  "era": "c. 2nd c. BCE – 4th c. CE (scholarly)",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "the Mokṣadharma names Kapila, Āsuri and Pañcaśikha, the same founders the classical tradition names",
+    "refs": [
+     "tea:moksadharma:12.211-212",
+     "tea:narayaniya:12.337.60-62"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "epic Sāṃkhya (with its 24/25/26 counts and a Lord) is often held to precede Īśvarakṛṣṇa's non-theistic system; the tradition instead sees the epic as reporting an already existing Sāṃkhya",
+    "refs": [
+     "tea:moksadharma:12.294",
+     "tea:moksadharma:12.296.7-12"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U05-gita-epic"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:epic-to-yoga",
+  "from": "lin:epic-teaching",
+  "to": "lin:patanjala-yoga",
+  "what": "The yoga of the Mokṣadharma and the Gītā; Hiraṇyagarbha as teacher of yoga.",
+  "direction": "from→to",
+  "era": "epic period",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "The Mahābhārata names Hiraṇyagarbha as the knower of yoga (Nārāyaṇīya, recalled); the Yoga commentators make him the first teacher.",
+    "refs": [
+     "tea:yogavarttika:1.1"
+    ]
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Vijñānabhikṣu cites a Mokṣadharma verse on the first yoga (YV 1.17) and the Gītā (Nārāyaṇatīrtha, YSC intro.).",
+    "refs": [
+     "tea:yogavarttika:1.17",
+     "tea:yogasiddhantacandrika:intro.4-6"
+    ]
+   }
+  ],
+  "coverage": [
+   "C",
+   "A5"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U10-yoga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:epic-yoga-to-patanjala-yoga",
+  "from": "lin:epic-teaching",
+  "to": "lin:patanjala-yoga",
+  "what": "yoga vocabulary: practice and dispassion, concentration (dhāraṇā), yoga-power, the faults of yoga, the first meditation with vitarka and vicāra",
+  "direction": "disputed",
+  "era": "scholarly: epic and early classical period",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "BhG 6.35 (abhyāsa and vairāgya) ~ YS 1.12; MBh 12.188.15 (vicāra, vitarka) ~ YS 1.17; MBh 12.289 (dhāraṇā, yogabala)",
+    "refs": [
+     "tea:bhagavad-gita:6.35",
+     "tea:moksadharma:12.188.15",
+     "tea:moksadharma:12.289.23-24"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "direction and dating debated",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U05-gita-epic"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:gayatri-to-dharmasastra",
+  "from": "lin:vedic-srauta",
+  "to": "lin:dharmasastra",
+  "what": "The Sāvitrī (Gāyatrī), with Oṃ and the vyāhṛtis, as the mantra of initiation and of the twilight worship",
+  "direction": "from→to",
+  "era": "late Vedic–classical",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Gṛhya and dharma texts prescribe imparting the Sāvitrī at upanayana and its daily repetition (Manusmṛti ch. 2, verse numbers not recalled).",
+    "refs": [
+     "tea:rgveda:3.62.10",
+     "tea:vajasaneyi-samhita:36.3"
+    ]
+   }
+  ],
+  "coverage": [
+   "A1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:gita-to-vedanta",
+  "from": "lin:epic-teaching",
+  "to": "lin:vedanta",
+  "what": "the Bhagavad Gītā as one of the three canonical sources (prasthānatraya)",
+  "direction": "from→to",
+  "era": "from Śaṅkara onward",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "every Vedānta school comments on the Gītā (Śaṅkara, Rāmānuja, Madhva, Nimbārka school, Vallabha school, Gauḍīya)",
+    "refs": [
+     "tea:gita-bhasya-sankara:intro",
+     "tea:gitarthasangraha-yamuna:1"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U05-gita-epic"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:hatha-to-virasaiva",
+  "from": "lin:hatha-yoga",
+  "to": "lin:virasaiva",
+  "what": "Yogic anatomy — the bulb (kanda), prāṇa and apāna, six centres, the thousand-petalled lotus and the moon at the crown — integrated into Śivayoga",
+  "direction": "disputed",
+  "era": "SSM and later Śivayoga manuals",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "SSM 12.6–8; 12.13–20; 12.25–27.",
+    "refs": [
+     "tea:siddhantasikhamani:12.6-8",
+     "tea:siddhantasikhamani:12.25-27"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Direction of influence between Vīraśaiva Śivayoga and haṭha/tantric yoga is not settled.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A7"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U20-virasaiva"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:hatha-to-yoga-upanisads",
+  "from": "lin:hatha-yoga",
+  "to": "lin:upanisadic",
+  "what": "Haṭha doctrine and verses — mudrās, bandhas, khecarī, kumbhakas, the four yogas and four stages — in the expanded southern recensions of the Yoga Upaniṣads.",
+  "direction": "disputed",
+  "era": "medieval to early modern",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Śāṇḍilya 1.23 ≈ Haṭhayogapradīpikā 2.15 (taming breath like lion, elephant, tiger)",
+    "refs": [
+     "tea:sandilya-upanisad:1.23"
+    ]
+   },
+   {
+    "type": "textual-parallel",
+    "detail": "Yogakuṇḍalī 2 draws on the Khecarīvidyā; Dhyānabindu and Yogacūḍāmaṇi share verses with the Gorakṣaśataka; the Yogatattva's four yogas and four stages parallel the Dattātreyayogaśāstra",
+    "refs": [
+     "tea:yogakundali-upanisad:2.1-13",
+     "tea:yogatattva-upanisad:19-20"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Bouy (1994): the southern Yoga Upaniṣads were expanded from haṭha works, perhaps in the 18th c.; the tradition regards the Upaniṣads as śruti and prior",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A2",
+   "I2"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "notes": "Texts involved: src:hatha-yoga-pradipika, src:khecarividya, src:goraksasataka, src:dattatreyayogasastra.",
+  "provenance": {
+   "units": [
+    "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:jain-rsabha-in-bhagavata",
+  "from": "lin:jainism",
+  "to": "lin:puranic",
+  "what": "Ṛṣabha, the first Tīrthaṅkara of the Jains, appears in the Bhāgavata as an avatāra and avadhūta; the Bhāgavata adds a polemical account of the 'Arhat' king",
+  "direction": "disputed",
+  "era": "1st millennium CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "BhP 1.3.13; 5.3-6 (5.6.9 checked)",
+    "refs": [
+     "tea:bhagavata-purana:5.5.1",
+     "tea:bhagavata-purana:5.6.9"
+    ]
+   }
+  ],
+  "coverage": [
+   "A4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U07-puranas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:kalamukha-to-virasaiva",
+  "from": "lin:kalamukha",
+  "to": "lin:virasaiva",
+  "what": "Śaiva ascetic institutions, maṭhas and sites in Karnataka that passed from Kālāmukha to Vīraśaiva hands",
+  "direction": "disputed",
+  "era": "12th–13th c.",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Proposed in modern scholarship (e.g., D. N. Lorenzen's study of the Kāpālikas and Kālāmukhas) that the Kālāmukhas were absorbed into the Vīraśaiva movement; labeled scholarly metadata.",
+    "refs": []
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Neither Vīraśaiva account of origins mentions the Kālāmukhas; Allama's birthplace Baḷḷigāve was a known Kālāmukha centre (inscriptions; moderate confidence).",
+    "refs": []
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "D. N. Lorenzen (1972) and others: several former Kālāmukha centres (including Śrīśaila) later appear as Vīraśaiva seats, and the Kālāmukhas vanish from records as the Vīraśaivas rise; some ascetics may have joined the new movement.",
+    "refs": []
+   },
+   {
+    "type": "tradition-account",
+    "detail": "The Vīraśaiva tradition does not derive itself from the Kālāmukhas: the Pañcācārya account has five ācāryas (Reṇuka and others) emerge from liṅgas in each age and teach from the Śaiva Āgamas (Siddhāntaśikhāmaṇi); the Liṅgāyata account centres on Basava and the śaraṇas at Kalyāṇa.",
+    "refs": []
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Caution: continuity of buildings is not continuity of doctrine; the vacana movement rejected the temple ritual that Kālāmukha priests served.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A7"
+  ],
+  "notes": "Recorded as a borrowing, not a dispute, because no tradition text debates it; see dsp:virasaiva-origins.",
+  "alt_notes": [
+   "Both accounts recorded; not reconciled. Specific inscriptional evidence for each transferred site was not checked in this run."
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U20-virasaiva",
+    "skeleton:U17-pasupata-kapalika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:kalisantarana-to-gaudiya",
+  "from": "lin:upanisadic",
+  "to": "lin:gaudiya-vaisnava",
+  "what": "The sixteen names of the Kalisantaraṇa, recited in Gauḍīya practice as the mahāmantra (usually with the 'hare kṛṣṇa' half first).",
+  "direction": "from→to",
+  "era": "16th c. onward",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Gauḍīya teachers regard the Kalisantaraṇa as the śruti source of the mahāmantra",
+    "refs": [
+     "tea:kalisantarana-upanisad:1-the-sixteen-names"
+    ]
+   }
+  ],
+  "coverage": [
+   "A2",
+   "I2"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:kapalika-to-vajrayana",
+  "from": "lin:kapalika",
+  "to": "lin:vajrayana",
+  "what": "Skull-bowl, skull-topped staff (khaṭvāṅga), six bone ornaments, cremation-ground setting and the figure of the skull-bearing ascetic in the Buddhist Yoginī tantras.",
+  "direction": "disputed",
+  "era": "c. 8th–10th c.",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Yāmuna's six Kāpāla insignia (ear-ornament/necklace, rucaka, earrings, crest-jewel, ash, sacred thread) resemble the six 'seals' worn by Heruka and yogins in the Yoginī tantras (e.g. Hevajra).",
+    "refs": [
+     "tea:agamapramanya:mahesvara-tantra"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Buddhist myth: Heruka subdues Maheśvara/Bhairava and his retinue and takes over their attire and sacred sites (Cakrasaṃvara cycle).",
+    "refs": []
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "A. Sanderson argues the Yoginī tantras drew on Śaiva Vidyāpīṭha scriptures of Kāpālika character rather than directly on the Atimārga.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U17-pasupata-kapalika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:kashmir-saivism-to-laksmi-tantra",
+  "from": "lin:kashmir-saivism",
+  "to": "lin:pancaratra",
+  "what": "Non-dual Śaiva formulations of Śakti in the Lakṣmī Tantra",
+  "direction": "disputed",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "argued in scholarship that the Lakṣmī Tantra adapts passages from Kashmirian Śaiva works; not verified here",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U08-agama-catalogue"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:kashmir-saivism-to-srividya",
+  "from": "lin:kashmir-saivism",
+  "to": "lin:srividya",
+  "what": "The prakāśa-vimarśa metaphysics and Spanda/Pratyabhijñā exegesis used in Śrīvidyā commentary (Jayaratha's Vāmakeśvarīmatavivaraṇa; Maheśvarānanda; the Kāmakalāvilāsa).",
+  "direction": "from→to",
+  "era": "12th-18th c. CE",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "shared doctrinal vocabulary",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:kaula-to-srividya",
+  "from": "lin:kaula",
+  "to": "lin:srividya",
+  "what": "The Kaula ritual and doctrinal frame: kula conduct, the secret use of the five 'M's, the eight bonds (pāśa), the four seats (Kāmarūpa, Pūrṇagiri, Jālandhara, Oḍḍiyāna), yoginī hierarchies and the āmnāya scheme.",
+  "direction": "from→to",
+  "era": "c. 10th-14th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Amṛtānanda's Dīpikā invokes kaulācāra when commenting on YH 2.81; YH 1.41-42 names the four pīṭhas; PKS 1.12 prescribes the five 'M's in secret.",
+    "refs": [
+     "tea:yoginihrdaya:2.81",
+     "tea:yoginihrdaya:1.41-42",
+     "tea:parasurama-kalpasutra:1.12"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Śrīvidyā is widely held to have emerged within the Kaula 'southern transmission' (dakṣiṇāmnāya) before its South Indian Vedicizing.",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A8",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:kaula-to-trika",
+  "from": "lin:kaula",
+  "to": "lin:trika",
+  "what": "The Kaula ritual and doctrine (kula/akula, the Kula worship, the Kaula lineages) integrated by Abhinavagupta, taught him by Śambhunātha of Jālandhara.",
+  "direction": "from→to",
+  "era": "c. 1000 CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Tantrāloka 29; TĀ 5.52 credits Śambhu[nātha]",
+    "refs": [
+     "tea:tantraloka:29",
+     "tea:tantraloka:5.43-52"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:kesin-muni-and-sramana",
+  "from": "lin:sramana",
+  "to": "lin:vedic-srauta",
+  "what": "The long-haired, wind-girdled, silent muni of RV 10.136",
+  "direction": "disputed",
+  "era": "Vedic period",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Some scholars see in the Keśin and munis a current of ecstatic asceticism distinct from the sacrificial priesthood, later related to the śramaṇa and yogic traditions; the direction and even the existence of the borrowing are disputed. Metadata only.",
+    "refs": [
+     "tea:rgveda:10.136.2",
+     "tea:rgveda:10.136.3"
+    ]
+   }
+  ],
+  "coverage": [
+   "A1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:krama-to-trika",
+  "from": "lin:krama",
+  "to": "lin:trika",
+  "what": "The Krama's twelve Kālīs and Kālasaṅkarṣiṇī, integrated as a form of the śākta means and as the fourth goddess above the Trika triad.",
+  "direction": "from→to",
+  "era": "c. 1000 CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Tantrāloka 4.148-173; Abhinavagupta's Kramastotra",
+    "refs": [
+     "tea:tantraloka:4.148-172",
+     "tea:kramastotra-abhinavagupta:15-27"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:madhva-parampara-to-gaudiya",
+  "from": "lin:dvaita",
+  "to": "lin:gaudiya-vaisnava",
+  "what": "A guru-succession traced through Madhva, and Baladeva's use of Madhva's category of viśeṣa and nine-tenet format.",
+  "direction": "disputed",
+  "era": "16th–18th c. CE",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Gauragaṇoddeśadīpikā; Prameyaratnāvalī",
+    "refs": [
+     "tea:prameyaratnavali:1.8"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "the affiliation is asserted in later texts, not in the Gosvāmīs' main works",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C",
+   "A6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U16-bhedabheda"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mahabharata-to-puranic",
+  "from": "lin:epic-teaching",
+  "to": "lin:puranic",
+  "what": "Sāṃkhya-yoga dialogues and Kṛṣṇa narrative shared with the epic and its Harivaṃśa",
+  "direction": "from→to",
+  "era": "1st millennium CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Brahma Purāṇa 243-245 parallels the Vasiṣṭha-Karāla Janaka dialogue of MBh 12; VP book 5 parallels the Harivaṃśa",
+    "refs": [
+     "tea:brahma-purana:243.20"
+    ]
+   }
+  ],
+  "coverage": [
+   "A4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U07-puranas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mahayana-yoga-dharmamegha",
+  "from": "lin:mahayana",
+  "to": "lin:patanjala-yoga",
+  "what": "The term dharmamegha (YS 4.29), also the name of the tenth bodhisattva ground (dharmameghā bhūmi).",
+  "direction": "disputed",
+  "era": "early centuries CE",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Daśabhūmika Sūtra's tenth bhūmi; YS 4.29 'dharmameghaḥ samādhiḥ'.",
+    "refs": [
+     "tea:yoga-sutra:4.29",
+     "tea:yoga-bhasya:4.29"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Direction and meaning of the shared term debated; in Yoga it precedes kaivalya, in the Mahāyāna it is the culmination of the bodhisattva path.",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C",
+   "A5"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U10-yoga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mandukya-madhyamaka-prapancopasama",
+  "from": "lin:upanisadic",
+  "to": "lin:madhyamaka",
+  "what": "The compound 'prapañcopaśama' with 'śiva' describes the fourth in MāU 7 and the teaching of dependent origination in the dedicatory verse of Nāgārjuna's Mūlamadhyamakakārikā.",
+  "direction": "disputed",
+  "era": "c. 1st–3rd c. CE (relative dating uncertain)",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "MāU 7, 12 'prapañcopaśamaṃ śivam'; MMK dedication 'prapañcopaśamaṃ śivam'",
+    "refs": [
+     "tea:mandukya-upanisad:7",
+     "tea:mandukya-upanisad:12"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "direction of borrowing, if any, is debated; not asserted here",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A2",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U03-principal-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mantramarga-to-kerala-tantra",
+  "from": "lin:mantramarga",
+  "to": "lin:kerala-tantra",
+  "what": "Śaiva Siddhānta ritual procedures (initiation, worship, installation)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "the Īśānaśivagurudevapaddhati's Siddhāntasāra is an authority for Kerala tantris",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U08-agama-catalogue"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mantramarga-to-virasaiva",
+  "from": "lin:mantramarga",
+  "to": "lin:virasaiva",
+  "what": "Recensions of Siddhānta scriptures adapted to Vīraśaiva use (Candrajñāna, Makuṭa, Vīra)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Vīraśaiva recensions catalogued by Muktabodha (M00201, M00202, M00608)",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U08-agama-catalogue"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:markandeya-to-garuda-pretakalpa",
+  "from": "lin:puranic",
+  "to": "lin:puranic",
+  "what": "The Garuḍa Pretakalpa reuses verses of the Mārkaṇḍeya's account of dying and the road of Yama (MkP 10.48-78) within the same tradition",
+  "direction": "from→to",
+  "era": "late 1st - early 2nd millennium CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "GP 2.2.46-51 ~ MkP 10.48-59; GP 2.5.89-93, 147-150 ~ MkP 10.64-78",
+    "refs": [
+     "tea:garuda-purana:2.2.40-51",
+     "tea:garuda-purana:2.5.85-154",
+     "tea:markandeya-purana:10.46-78"
+    ]
+   }
+  ],
+  "coverage": [
+   "A4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U07-puranas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mimamsa-hermeneutics-to-vedanta",
+  "from": "lin:mimamsa",
+  "to": "lin:vedanta",
+  "what": "The adhikaraṇa format and rules of interpretation (arthavāda, syntactic unity, the criteria behind the six marks of purport).",
+  "direction": "from→to",
+  "era": "from the Brahma Sūtra and its commentaries onward",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Brahma Sūtra commentaries are organized in adhikaraṇas and use arthavāda, liṅga and ekavākyatā in the Mīmāṃsā sense",
+    "refs": [
+     "src:brahma-sutra"
+    ]
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "the Brahma Sūtra itself reports Jaimini's views (e.g. 3.2.40, 3.4.2)",
+    "refs": [
+     "tea:brahma-sutra:3.2.40",
+     "tea:brahma-sutra:3.4.2"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U12-mimamsa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mimamsa-hermeneutics-vedanta",
+  "from": "lin:mimamsa",
+  "to": "lin:vedanta",
+  "what": "Exegetical method: the adhikaraṇa form, rules of interpretation, the six marks of purport, and (for Advaita) the Bhāṭṭa theory of six means of knowledge for empirical matters.",
+  "direction": "from→to",
+  "era": "from the sūtra period; explicit in the Vedāntaparibhāṣā (17th c.)",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Jaimini cited by name in the Brahma Sūtras; the Vedāntasāra's six liṅgas; the Vedāntaparibhāṣā's arthāpatti and anupalabdhi chapters.",
+    "refs": [
+     "tea:vedantasara:sravana",
+     "tea:vedantaparibhasa:ch.1"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U13-advaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mimamsa-maxims-to-dharmasastra",
+  "from": "lin:mimamsa",
+  "to": "lin:dharmasastra",
+  "what": "Mīmāṃsā maxims (nyāyas) for resolving conflicts and reading injunctions, applied in Dharmaśāstra commentaries and digests; Mādhava's Nyāyamālā was written after his Parāśara Smṛti commentary.",
+  "direction": "from→to",
+  "era": "classical and medieval",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "the Nyāyamālā's author says he turned to the śrauta rules after explaining smārta dharma",
+    "refs": [
+     "src:jaiminiya-nyayamala"
+    ]
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "MS 1.3 (authority of smṛti and custom) supplies the frame of Dharmaśāstra hermeneutics",
+    "refs": [
+     "tea:mimamsa-sutra:1.3.3"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U12-mimamsa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mimamsa-to-dharmasastra-hermeneutics",
+  "from": "lin:mimamsa",
+  "to": "lin:dharmasastra",
+  "what": "Rules of interpretation (nyāya) used to reconcile conflicting smṛti texts",
+  "direction": "from→to",
+  "era": "commentaries and digests, 9th–18th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Medhātithi, Vijñāneśvara, Jīmūtavāhana and the digests cite Mīmāṃsā maxims by name.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U02-brahmana-vedanga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mimamsa-to-dvaita",
+  "from": "lin:mimamsa",
+  "to": "lin:dvaita",
+  "what": "The authorless Veda, intrinsic validity, and the exegetical marks of purport (opening and close, repetition, novelty, result, praise, reasoning); a Mīmāṃsā commentary (Bhāṭṭasaṅgraha) by Rāghavendra.",
+  "direction": "from→to",
+  "era": "13th–17th c. CE",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Pramāṇalakṣaṇa lists the marks of purport; Viṣṇutattvavinirṇaya 1 argues authorlessness and intrinsic validity.",
+    "refs": [
+     "tea:pramanalaksana-madhva:linga",
+     "tea:visnutattvavinirnaya:1/3"
+    ]
+   }
+  ],
+  "coverage": [
+   "A6",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mimamsa-to-srividya",
+  "from": "lin:mimamsa",
+  "to": "lin:srividya",
+  "what": "Mīmāṃsā rules of interpretation (nyāyas) and Brahma Sūtra maxims applied to tantric injunctions and to the recitation of the Lalitā Sahasranāma.",
+  "direction": "from→to",
+  "era": "18th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Bhāskararāya invokes the rule that subsidiaries of a fruitful act take its fruit (phalavad-aphala-nyāya), the Agnihotra analogy for a daily rite also being optional, and 'repetition, because of repeated instruction' (BS 4.1.1) in the Saubhāgyabhāskara; the Setubandha argues from the 'sarva-vedānta-pratyaya' principle.",
+    "refs": [
+     "tea:saubhagyabhaskara:phalasruti-prayoga",
+     "tea:setubandha:intro"
+    ]
+   }
+  ],
+  "coverage": [
+   "A8",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mimamsa-to-visistadvaita",
+  "from": "lin:mimamsa",
+  "to": "lin:visistadvaita",
+  "what": "Principles of scriptural interpretation, the authority of the authorless Veda, and the view of the two Mīmāṃsās as one science.",
+  "direction": "from→to",
+  "era": "11th–14th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Śrībhāṣya 1.1.1; Deśika's Seśvaramīmāṃsā",
+    "refs": [
+     "tea:sribhasya:1.1.1",
+     "tea:sesvaramimamsa:1.1.1"
+    ]
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Deśika wrote commentaries on the Mīmāṃsā Sūtra",
+    "refs": [
+     "src:sesvara-mimamsa",
+     "src:mimamsa-paduka"
+    ]
+   }
+  ],
+  "coverage": [
+   "A6",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U14-visistadvaita",
+    "skeleton:U12-mimamsa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:moksopaya-kashmir-saiva-vocabulary",
+  "from": "lin:kashmir-saivism",
+  "to": "lin:advaita-vedanta",
+  "what": "Shared vocabulary (spanda, cit, the three spaces, the world as the shining of consciousness) between the Kashmiri Mokṣopāya/Yoga Vāsiṣṭha and Kashmir Śaiva texts; the only commentator on the Mokṣopāya, Bhāskarakaṇṭha, was a Śaiva.",
+  "direction": "disputed",
+  "era": "10th c. CE onward (scholarly)",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "prāṇa-spanda (MU 5.92), cidākāśa (MU 3.97)",
+    "refs": [
+     "tea:moksopaya:5.92.6-27",
+     "tea:moksopaya:3.97.14-19"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "the Halle editors hold the Mokṣopāya to be independent of Śaiva theology; others see Śaiva influence",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U06-other-gitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:navya-nyaya-to-advaita",
+  "from": "lin:navya-nyaya",
+  "to": "lin:advaita-vedanta",
+  "what": "Navya-Nyāya technical language and method of definition and refutation",
+  "direction": "from→to",
+  "era": "16th c. onward",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Madhusūdana Sarasvatī's Advaitasiddhi argues in Navya-Nyāya idiom (as usually described).",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A5",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U11-nyaya-vaisesika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:navya-nyaya-to-dvaita",
+  "from": "lin:navya-nyaya",
+  "to": "lin:dvaita",
+  "what": "Navya-Nyāya technical language, used also to criticize Nyāya (Vyāsatīrtha's Tarkatāṇḍava)",
+  "direction": "from→to",
+  "era": "15th–16th c.",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "The Tarkatāṇḍava (with Rāghavendra Tīrtha's Nyāyadīpa) is extant in the local raw_etexts corpus.",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A5",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U11-nyaya-vaisesika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:navya-nyaya-vyakarana",
+  "from": "lin:navya-nyaya",
+  "to": "lin:vyakarana",
+  "what": "Analysis of verbal cognition (śābdabodha), debated with the grammarians",
+  "direction": "mutual",
+  "era": "16th–18th c.",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Gadādhara's Vyutpattivāda and Jagadīśa's Śabdaśaktiprakāśikā engage grammarians' views (as usually described).",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A5",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U11-nyaya-vaisesika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:nayanmar-alvar",
+  "from": "lin:nayanmar",
+  "to": "lin:alvar",
+  "what": "shared Tamil bhakti idiom: the patikam form, temple pilgrimage, the servant-devotee, polemic against Jains and Buddhists",
+  "direction": "mutual",
+  "era": "6th–9th c.",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "parallel devotional movements in the same region and period",
+    "refs": [
+     "src:tevaram",
+     "src:nalayira-divya-prabandham"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U18-saiva-siddhanta"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:nayanmar-to-virasaiva",
+  "from": "lin:saiva-siddhanta",
+  "to": "lin:virasaiva",
+  "what": "Veneration of the Tamil Nāyaṉmārs as purātanas, the models of devotion for the śaraṇas",
+  "direction": "from→to",
+  "era": "12th–15th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Harihara's ragaḷes and the Basava Purāṇa narrate the lives of the purātanas.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A7"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U20-virasaiva"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:nyaya-buddhist-logic",
+  "from": "lin:nyaya",
+  "to": "lin:pramana-buddhist",
+  "what": "Theory of inference and debate: members of the demonstration, pseudo-reasons, and later the concept of pervasion, developed in mutual criticism",
+  "direction": "mutual",
+  "era": "5th–11th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Vācaspati names Dignāga among the 'bad reasoners' against whom Uddyotakara wrote.",
+    "refs": [
+     "tea:nyaya-varttika-tatparya-tika:1.1.1"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "The centrality of vyāpti in later Nyāya reflects engagement with Dignāga and Dharmakīrti (scholarly account).",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A5",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U11-nyaya-vaisesika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:nyaya-dialectic-advaita",
+  "from": "lin:nyaya",
+  "to": "lin:advaita-vedanta",
+  "what": "Dialectical and later Navya-Nyāya technique used to refute Nyāya and Dvaita positions (Śrīharṣa, Citsukha, Madhusūdana).",
+  "direction": "from→to",
+  "era": "12th–17th c.",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Khaṇḍanakhaṇḍakhādya, Tattvapradīpikā and Advaitasiddhi argue in Nyāya terms.",
+    "refs": [
+     "tea:khandanakhandakhadya:1",
+     "tea:advaitasiddhi:1"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U13-advaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:nyaya-to-dvaita",
+  "from": "lin:nyaya",
+  "to": "lin:dvaita",
+  "what": "Debate theory (vāda, jalpa, vitaṇḍā), the vocabulary of inference and its faults — adopted with modification (e.g. three means of knowledge, memory valid) and criticized (Vyāsatīrtha's Tarkatāṇḍava against Navya-Nyāya).",
+  "direction": "from→to",
+  "era": "13th–16th c. CE",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Kathālakṣaṇa's three kinds of debate; Pramāṇalakṣaṇa's analysis of inference.",
+    "refs": [
+     "tea:kathalaksana:2",
+     "tea:pramanalaksana-madhva:kevala-anupramana"
+    ]
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Tarkatāṇḍava engages Gaṅgeśa's Tattvacintāmaṇi.",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A6",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:nyaya-to-visistadvaita",
+  "from": "lin:nyaya",
+  "to": "lin:visistadvaita",
+  "what": "Logical method and much of the theory of inference and perception, revised where it conflicts with Vedānta (e.g. rejection of inference for God).",
+  "direction": "from→to",
+  "era": "10th–14th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Nāthamuni's lost Nyāyatattva; Deśika's Nyāyapariśuddhi 'purifies' Nyāya",
+    "refs": []
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Śrībhāṣya 1.1.3 against the Naiyāyika inference for God",
+    "refs": [
+     "tea:sribhasya:1.1.3"
+    ]
+   }
+  ],
+  "coverage": [
+   "A6",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U14-visistadvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:other-rv-verses-in-upanisads",
+  "from": "lin:vedic-srauta",
+  "to": "lin:upanisadic",
+  "what": "Further Saṃhitā verses quoted in the Upaniṣads: RV 6.47.18 (Indra's māyās), 1.164.39 (the syllable in highest heaven), 4.40.5 (the haṃsa), AVŚ 10.8.27 (you are woman, you are man)",
+  "direction": "from→to",
+  "era": "late Vedic",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Bṛhadāraṇyaka 2.5.19 (6.47.18); Śvetāśvatara 4.8 (1.164.39); Kaṭha 2.2.2 (4.40.5); Śvetāśvatara 4.3 (AVŚ 10.8.27).",
+    "refs": [
+     "tea:rgveda:6.47.18",
+     "tea:rgveda:1.164.39",
+     "tea:rgveda:4.40.5",
+     "tea:atharvaveda-saunaka:10.8.27-28"
+    ]
+   }
+  ],
+  "coverage": [
+   "A1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:pancadasi-avadhuta",
+  "from": "lin:advaita-vedanta",
+  "to": "lin:sannyasa",
+  "what": "The knower's verses of fulfilment ('kṛtakṛtya'; 'dhanyo 'ham') shared by Avadhūta 9–32 and the close of the Pañcadaśī's chapter 7.",
+  "direction": "disputed",
+  "era": "medieval",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Avadhūta 9–32 ≈ Pañcadaśī 7 (Tṛptidīpa) final verses",
+    "refs": [
+     "tea:avadhuta-upanisad:27-32",
+     "tea:avadhuta-upanisad:23"
+    ]
+   }
+  ],
+  "coverage": [
+   "A2",
+   "I2"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:pancaratra-kashmir-spanda",
+  "from": "lin:pancaratra",
+  "to": "lin:spanda",
+  "what": "Pāñcarātra saṃhitās (Jayākhya, Ahirbudhnya) quoted in a Spanda commentary by a Kashmirian Vaiṣṇava",
+  "direction": "mutual",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Utpala Vaiṣṇava's Spandapradīpikā quotes the Jayā and the Ahirbudhnya (noted in the JS edition's introduction)",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "era": "10th c.",
+  "provenance": {
+   "units": [
+    "skeleton:U08-agama-catalogue"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:pancaratra-to-dvaita",
+  "from": "lin:pancaratra",
+  "to": "lin:dvaita",
+  "what": "Acceptance of the entire Pañcarātra as true scripture (sadāgama); mantra, nyāsa, image and temple lore in the Tantrasārasaṅgraha; quotations from Pañcarātra saṃhitās throughout Madhva's works.",
+  "direction": "from→to",
+  "era": "13th c. CE onward",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Viṣṇutattvavinirṇaya 1 lists the whole Pañcarātra among the sadāgamas; MBTN 1.84 requires knowing the Pañcarātras as having Viṣṇu as purport.",
+    "refs": [
+     "tea:visnutattvavinirnaya:1/2",
+     "tea:mahabharata-tatparya-nirnaya:1.81-84"
+    ]
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "Mantra derivation from the praṇava and the fifty letter-forms in the Tantrasārasaṅgraha.",
+    "refs": [
+     "tea:tantrasarasangraha-madhva:1.5-14"
+    ]
+   }
+  ],
+  "coverage": [
+   "A6",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U15-dvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:pancaratra-to-gaudiya",
+  "from": "lin:pancaratra",
+  "to": "lin:gaudiya-vaisnava",
+  "what": "Deity-worship ritual (nyāsa, bhūta-śuddhi, installation), initiation procedures and the six-limbed surrender verse, compiled in the Haribhaktivilāsa.",
+  "direction": "from→to",
+  "era": "16th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Haribhaktivilāsa quotes Pāñcarātra and tantric sources",
+    "refs": [
+     "tea:haribhaktivilasa:2",
+     "tea:haribhaktivilasa:11"
+    ]
+   }
+  ],
+  "coverage": [
+   "C",
+   "A6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U16-bhedabheda"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:pancaratra-to-kerala-tantra",
+  "from": "lin:pancaratra",
+  "to": "lin:kerala-tantra",
+  "what": "Viṣṇu ritual procedures",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "the Viṣṇu Saṃhitā (TSS 85) and Viṣṇu chapters of the Tantrasamuccaya",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U08-agama-catalogue"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:pancaratra-to-puranic",
+  "from": "lin:pancaratra",
+  "to": "lin:puranic",
+  "what": "The Sātvata/Pāñcarātra doctrine of Vāsudeva and the four vyūhas in the Vaiṣṇava Purāṇas",
+  "direction": "mutual",
+  "era": "1st millennium CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "BhP 1.3.8: Nārada 'expounded the Sātvata tantra'",
+    "refs": [
+     "tea:bhagavata-purana:1.3.6-25"
+    ]
+   }
+  ],
+  "coverage": [
+   "A4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U07-puranas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:pancaratra-to-visistadvaita",
+  "from": "lin:pancaratra",
+  "to": "lin:visistadvaita",
+  "what": "Scriptural authority for temple ritual, the vyūha theology and the six-limbed surrender",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Yāmuna's Āgamaprāmāṇya and Rāmānuja's reading of BS 2.2.42–45 uphold the Pāñcarātra",
+    "refs": [
+     "tea:agamapramanya:siddhanta",
+     "tea:sribhasya:2.2.42-45"
+    ]
+   },
+   {
+    "type": "textual-parallel",
+    "detail": "the six-limbed śaraṇāgati verse (AS 37.28–29; LT 17.60–61) underlies Śrīvaiṣṇava prapatti",
+    "refs": [
+     "tea:ahirbudhnya-samhita:37.25-29"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U08-agama-catalogue"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:pancaratra-vyuhas-in-upanisads",
+  "from": "lin:pancaratra",
+  "to": "lin:upanisadic",
+  "what": "The vyūha deities (Vāsudeva, Saṅkarṣaṇa, Pradyumna, Aniruddha) in the Triśikhi's element concentrations and the Mudgala's account of Aniruddha.",
+  "direction": "from→to",
+  "era": "medieval",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "vyūha names assigned to elements",
+    "refs": [
+     "tea:trisikhibrahmana-upanisad:134-143",
+     "tea:mudgala-upanisad:1-4"
+    ]
+   }
+  ],
+  "coverage": [
+   "A2",
+   "I2"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:pasupata-nyaya",
+  "from": "lin:pasupata",
+  "to": "lin:nyaya",
+  "what": "Personal affiliation of Naiyāyikas with the Pāśupatas and a shared account of the means of knowledge.",
+  "direction": "mutual",
+  "era": "c. 6th–15th c.",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Kauṇḍinya's inference as 'as before', 'from the remainder' and 'seen in general' uses the Nyāya Sūtra's terms (NS 1.1.5).",
+    "refs": [
+     "tea:pancarthabhasya:1.1/4"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Uddyotakara is styled 'Pāśupatācārya'; Bhāsarvajña wrote both the Nyāyasāra and the Ratnaṭīkā; Jain doxographers call Naiyāyikas Śaivas and Vaiśeṣikas Pāśupatas.",
+    "refs": [
+     "tea:tarkarahasyadipika:naiyayika-section/2"
+    ]
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "The Nyāyavārttika's colophon calls Uddyotakara a Pāśupata teacher (as usually reported); the Tātparyaṭīkā opens by invoking Pinākin.",
+    "refs": [
+     "tea:nyaya-varttika-tatparya-tika:1.1.1"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Jain doxographers (Haribhadra's Ṣaḍdarśanasamuccaya and its commentary) report the Naiyāyikas' and Vaiśeṣikas' deity as Śiva (recalled, low confidence).",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "A5",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U17-pasupata-kapalika",
+    "skeleton:U11-nyaya-vaisesika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:pasupata-to-mantramarga",
+  "from": "lin:pasupata",
+  "to": "lin:mantramarga",
+  "what": "The pati-paśu-pāśa vocabulary, the five brahma-mantras, ash observances and the framework of an older Śaiva ascetic path that the Mantramārga describes and outranks.",
+  "direction": "from→to",
+  "era": "c. 5th–7th c. CE onward",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "paśu, pati, pāśa and the five brahma-mantras in both",
+    "refs": [
+     "tea:pancarthabhasya:1.1/3",
+     "tea:pasupata-sutra:5.41-47"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "the Mantramārga scriptures themselves describe the Atimārga as an earlier/lower stream",
+    "refs": [
+     "tea:svacchanda-tantra:11.182-185",
+     "tea:nisvasamukha:4"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "A. Sanderson's account of the Atimārga as antecedent of the Mantramārga",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U17-pasupata-kapalika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:pasupata-to-puranic",
+  "from": "lin:pasupata",
+  "to": "lin:puranic",
+  "what": "Pāśupata yoga and vow in the Śaiva Purāṇas (Liṅga, Vāyu, Kūrma, Śiva)",
+  "direction": "from→to",
+  "era": "1st millennium CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "LiP 1.7.54, 1.88.6-30, 2.55.26 name 'pāśupata yoga'; ŚiP 7.1.33 Paśupati-vrata; Upamanyu gives Kṛṣṇa Pāśupata initiation",
+    "refs": [
+     "tea:linga-purana:1.8.1-9"
+    ]
+   }
+  ],
+  "coverage": [
+   "A4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U07-puranas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:patanjala-yoga-advaita",
+  "from": "lin:patanjala-yoga",
+  "to": "lin:advaita-vedanta",
+  "what": "The eight limbs as auxiliaries of nirvikalpa samādhi and the vocabulary of samādhi; reinterpretation of the limbs as knowledge-disciplines (Aparokṣānubhūti).",
+  "direction": "from→to",
+  "era": "8th–16th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Vedāntasāra lists yama … samādhi as auxiliaries; BS 2.1.3 with Śaṅkara accepting Yoga's means while refuting its dualism; the commentary on the Yoga-sūtra-bhāṣya ascribed to Śaṅkara (disputed).",
+    "refs": [
+     "tea:vedantasara:samadhi",
+     "tea:brahma-sutra:2.1.3",
+     "tea:aparoksanubhuti:100-101"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U13-advaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:patanjala-yoga-to-puranic",
+  "from": "lin:patanjala-yoga",
+  "to": "lin:puranic",
+  "what": "The eight limbs, the definition of yoga as restraint of citta's activities, the list of obstacles (vyādhi, ālasya, pramāda, bhrānti-darśana, anavasthitatva...) and the reversal 'powers in emergence, obstacles in samādhi'",
+  "direction": "from→to",
+  "era": "1st millennium CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "LiP 1.8.7 'yogo nirodho vṛtteṣu cittasya' ~ YS 1.2; LiP 1.9.1-13 and ŚiP 7.2.38.1-8 ~ YS 1.30-31; LiP 1.9.52 ~ YS 3.37",
+    "refs": [
+     "tea:linga-purana:1.8.1-9",
+     "tea:linga-purana:1.9.1-13",
+     "tea:siva-purana:7.2.38.1-8",
+     "tea:linga-purana:1.9.52-56"
+    ]
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "VP 6.7.36-37 yamas and niyamas as in YS 2.30-32",
+    "refs": [
+     "tea:visnu-purana:6.7.36-45"
+    ]
+   }
+  ],
+  "coverage": [
+   "A4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U07-puranas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:pramana-buddhist-to-pratyabhijna",
+  "from": "lin:pramana-buddhist",
+  "to": "lin:pratyabhijna",
+  "what": "The epistemological framework and vocabulary of Dignāga's and Dharmakīrti's school - the particular and the conceptual, exclusion (apoha/apohana), self-awareness, causal efficacy - taken up by Utpaladeva and turned against the no-self thesis.",
+  "direction": "from→to",
+  "era": "10th-11th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "ĪPK 1.2 states the Buddhist objection as pūrvapakṣa",
+    "refs": [
+     "tea:isvarapratyabhijna-karika:1.2.1-3"
+    ]
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "apohana as one of the Lord's powers (ĪPK 1.3.7, 1.6.5)",
+    "refs": [
+     "tea:isvarapratyabhijna-karika:1.3.7",
+     "tea:isvarapratyabhijna-karika:1.6.4-5"
+    ]
+   }
+  ],
+  "notes": "Coverage map C lists this borrowing; U49 may record it under another id - to be deduplicated at merge.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:pratyabhijna-to-virasaiva",
+  "from": "lin:pratyabhijna",
+  "to": "lin:virasaiva",
+  "what": "The vocabulary of full I-ness (pūrṇāhantā), supreme I-ness and this-ness (idantā) for the state of union",
+  "direction": "from→to",
+  "era": "by the time of the SSM",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "SSM 14.38–41 uses pūrṇāhantā, parāhantā and idantā.",
+    "refs": [
+     "tea:siddhantasikhamani:14.38-41"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A7"
+  ],
+  "notes": "Direction is an interpretive claim.",
+  "provenance": {
+   "units": [
+    "skeleton:U20-virasaiva"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:puranic-to-gaudiya",
+  "from": "lin:puranic",
+  "to": "lin:gaudiya-vaisnava",
+  "what": "The Bhāgavata as root scripture: Kṛṣṇa as Bhagavān himself (1.3.28), the rāsa-līlā and the gopīs' love, the nine forms of devotion, the name as the dharma of Kali",
+  "direction": "from→to",
+  "era": "16th c. CE onward",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Gauḍīya authors (Rūpa, Jīva) build on BhP 1.3.28, 7.5.23-24, 10.29-33, 11.14",
+    "refs": [
+     "tea:bhagavata-purana:1.3.28",
+     "tea:bhagavata-purana:7.5.23-24",
+     "tea:bhagavata-purana:10.29-33"
+    ]
+   }
+  ],
+  "coverage": [
+   "A4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U07-puranas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:puranic-to-srividya",
+  "from": "lin:puranic",
+  "to": "lin:srividya",
+  "what": "The Lalitopākhyāna's narrative of Lalitā, Bhaṇḍāsura and Śrīpura, and the Brahmāṇḍa attribution of the Lalitā Sahasranāma",
+  "direction": "from→to",
+  "era": "2nd millennium CE",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "the Sahasranāma's colophon names the Brahmāṇḍa Uttarakhaṇḍa, Hayagrīva-Agastya dialogue",
+    "refs": [
+     "tea:lalitopakhyana:3.5",
+     "tea:lalitopakhyana:3.11-12"
+    ]
+   }
+  ],
+  "coverage": [
+   "A4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U07-puranas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:purusa-sukta-to-pancaratra",
+  "from": "lin:vedic-srauta",
+  "to": "lin:pancaratra",
+  "what": "The Puruṣa Sūkta as central Vaiṣṇava liturgy (its seer Nārāyaṇa; its sixteen verses for the sixteen offerings)",
+  "direction": "from→to",
+  "era": "classical–medieval",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Vaiṣṇava worship employs the Puruṣa Sūkta and identifies its seer and subject with Nārāyaṇa.",
+    "refs": [
+     "tea:rgveda:10.90.1"
+    ]
+   }
+  ],
+  "coverage": [
+   "A1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:purusa-sukta-to-upanisads",
+  "from": "lin:vedic-srauta",
+  "to": "lin:upanisadic",
+  "what": "The Puruṣa of RV 10.90 and the 'Uttaranārāyaṇa' verse VS 31.18",
+  "direction": "from→to",
+  "era": "late Vedic",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "VS 31.18 recurs as Śvetāśvatara 3.8; RV 10.90.1–2 recur in Śvetāśvatara 3.14–15 (second locus from memory).",
+    "refs": [
+     "tea:vajasaneyi-samhita:31.18",
+     "tea:svetasvatara-upanisad:3.8",
+     "tea:rgveda:10.90.1"
+    ]
+   }
+  ],
+  "coverage": [
+   "A1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:rgveda-verses-in-upanisads",
+  "from": "lin:vedic-srauta",
+  "to": "lin:upanisadic",
+  "what": "Ṛgvedic verses quoted as authority: RV 1.164.20 (two birds, MuU 3.1.1; ŚU 4.6), RV 4.40.5 (KU 2.2.2), RV 10.90.1-3 (ŚU 3.14-15; ChU 3.12.6), RV 4.27.1 (AU 2.1.5), RV 4.26.1 (BAU 1.4.10), RV 6.47.18 (BAU 2.5.19), RV 1.164.39 (ŚU 4.8), RV 1.114.8 (ŚU 4.22), RV 10.81.3 (ŚU 3.3).",
+  "direction": "from→to",
+  "era": "Upaniṣadic period",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "introduced as verses of the seers ('tad uktam ṛṣiṇā', 'tad eṣa śloko bhavati')",
+    "refs": [
+     "tea:mundaka-upanisad:3.1.1-2",
+     "tea:svetasvatara-upanisad:4.6-7",
+     "tea:katha-upanisad:2.2.2",
+     "tea:svetasvatara-upanisad:3.14-15",
+     "tea:aitareya-upanisad:2.1.5-6",
+     "tea:brhadaranyaka-upanisad:1.4.10",
+     "tea:brhadaranyaka-upanisad:2.5.16-19"
+    ]
+   }
+  ],
+  "coverage": [
+   "A2",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U03-principal-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:rv-two-birds-to-upanisads",
+  "from": "lin:vedic-srauta",
+  "to": "lin:upanisadic",
+  "what": "The image of the two birds on one tree (RV 1.164.20)",
+  "direction": "from→to",
+  "era": "late Vedic",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Quoted verbatim as Muṇḍaka 3.1.1 and Śvetāśvatara 4.6, where the birds become the individual self and the Lord.",
+    "refs": [
+     "tea:rgveda:1.164.20",
+     "tea:mundaka-upanisad:3.1.1",
+     "tea:svetasvatara-upanisad:4.6"
+    ]
+   }
+  ],
+  "coverage": [
+   "A1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:rv-two-paths-to-upanisads",
+  "from": "lin:vedic-srauta",
+  "to": "lin:upanisadic",
+  "what": "The two paths of the fathers and of the gods (RV 10.88.15)",
+  "direction": "from→to",
+  "era": "late Vedic",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Quoted in Bṛhadāraṇyaka 6.2.2 in the doctrine of the five fires.",
+    "refs": [
+     "tea:rgveda:10.88.15",
+     "tea:brhadaranyaka-upanisad:6.2.2"
+    ]
+   }
+  ],
+  "coverage": [
+   "A1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:saiva-agama-to-virasaiva",
+  "from": "lin:mantramarga",
+  "to": "lin:virasaiva",
+  "what": "The twenty-eight Śaiva Āgamas (Kāmika to Vātula) as scripture, with Vīraśaiva doctrine located in their later portion; Vīraśaiva recensions of the Candrajñāna and Makuṭa Āgamas",
+  "direction": "from→to",
+  "era": "before and during the SSM",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "SSM 1.25–27 and 5.14 name the Āgamas from Kāmika to Vātula as the source.",
+    "refs": [
+     "tea:siddhantasikhamani:1.25-27",
+     "tea:siddhantasikhamani:5.14"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A7"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U20-virasaiva"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:saiva-siddhanta-kashmir-saivism",
+  "from": "lin:saiva-siddhanta",
+  "to": "lin:kashmir-saivism",
+  "what": "ritual system (dīkṣā, six adhvans) and the 36-tattva frame, re-read non-dually; mutual polemic",
+  "direction": "mutual",
+  "era": "10th–11th c. Kashmir",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Rāmakaṇṭha answers non-dualist views; Abhinavagupta cites Saiddhāntika authors",
+    "refs": [
+     "src:kiranavrtti",
+     "src:matangavrtti"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U18-saiva-siddhanta"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:saiva-siddhanta-to-tamil-saiva-siddhanta",
+  "from": "lin:saiva-siddhanta",
+  "to": "lin:tamil-saiva-siddhanta",
+  "what": "Āgamic doctrine of pati–paśu–pāśa, the malas, the tattvas, dīkṣā and the four pādas",
+  "direction": "from→to",
+  "era": "12th–14th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Civañāṉa Pōtam held to render twelve Raurava verses",
+    "refs": [
+     "src:sivajnanabodha",
+     "src:sivananabodham"
+    ]
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "Tamil works use the Sanskrit categories throughout",
+    "refs": [
+     "src:sivananasiddhiyar"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U18-saiva-siddhanta"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:saiva-siddhanta-to-trika",
+  "from": "lin:saiva-siddhanta",
+  "to": "lin:trika",
+  "what": "The ritual framework of the Mantramārga - initiation and consecration procedures, the thirty-six tattvas, the three impurities, Śiva's five acts, śaktipāta - adopted and reinterpreted non-dually.",
+  "direction": "from→to",
+  "era": "9th-11th c. CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Tantrāloka chs. 14-28 on initiation and rites",
+    "refs": [
+     "tea:tantraloka:1.278-284"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Shared ritual system of the Mantramārga",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:sakta-hatha-kundalini",
+  "from": "lin:sakta",
+  "to": "lin:hatha-yoga",
+  "what": "Kuṇḍalinī as the Goddess coiled at the base of the spine, the cakras, the three knots (granthi) and the nectar from the crown, shared between Śākta hymnody and haṭha manuals.",
+  "direction": "mutual",
+  "era": "c. 11th-17th c. CE",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Lalitā Sahasranāma 38-40 and Saundaryalaharī 9-10 describe the Goddess piercing the knots and cakras and showering nectar, in vocabulary shared with haṭha texts.",
+    "refs": [
+     "tea:lalita-sahasranama:38-40",
+     "tea:saundarya-lahari:9",
+     "tea:saundarya-lahari:10"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Which tradition first framed kuṇḍalinī as goddess is debated.",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A8",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:samaveda-to-sangita",
+  "from": "lin:vedic-srauta",
+  "to": "lin:sangita",
+  "what": "The Sāman notes and chant as the source of music",
+  "direction": "from→to",
+  "era": "late Vedic–classical",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "The Nāradīya Śikṣā maps the Sāman notes on the flute's notes (1.5.1–2); the Nāṭyaśāstra (1.17) says Brahmā took song from the Sāmaveda.",
+    "refs": [
+     "tea:naradiya-siksa:1.5.1-2"
+    ]
+   }
+  ],
+  "coverage": [
+   "A1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:samkhya-ayurveda",
+  "from": "lin:samkhya",
+  "to": "lin:ayurveda",
+  "what": "The principles and guṇas in the account of the person (Caraka Śārīrasthāna 1: twenty-four principles; Suśruta Śārīrasthāna 1: the classical scheme).",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Caraka and Suśruta Śārīrasthāna 1 (recalled; U30 to confirm)",
+    "refs": []
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Caraka's scheme may preserve an early independent Sāṃkhya rather than borrow the classical one",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U09-samkhya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:samkhya-categories-vedanta",
+  "from": "lin:samkhya",
+  "to": "lin:vedanta",
+  "what": "Cosmological categories (the guṇas, the evolutes, the subtle elements) adopted while Sāṃkhya's independent pradhāna and plural selves are rejected.",
+  "direction": "from→to",
+  "era": "sūtra period onward",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "BS 1.1.5 and 2.2.1–10 refute pradhāna; Advaita cosmology uses guṇas, tanmātras and evolutes (Vedāntasāra; VC 108).",
+    "refs": [
+     "tea:brahma-sutra:1.1.5",
+     "tea:brahma-sutra:2.2.1",
+     "tea:vivekacudamani:108"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U13-advaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:samkhya-pancaratra",
+  "from": "lin:samkhya",
+  "to": "lin:pancaratra",
+  "what": "A theistic Kāpila Ṣaṣṭitantra with sixty topics in two circles, and the principles, in the Ahirbudhnya Saṃhitā.",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Ahirbudhnya Saṃhitā ch. 12 (recalled; U08 to confirm)",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U09-samkhya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:samkhya-patanjala-yoga",
+  "from": "lin:samkhya",
+  "to": "lin:patanjala-yoga",
+  "what": "Ontology of puruṣa and prakṛti, the guṇas and principles, discrimination and kaivalya; Sāṃkhya teachers' sayings in the Yoga Bhāṣya; in return Gauḍapāda explains dharma by the Pātañjala restraints and observances.",
+  "direction": "mutual",
+  "era": "c. 4th–6th c. CE onward",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Yoga Bhāṣya quotes Pañcaśikha (on YS 1.4, 1.25, 1.36, 2.13), Vārṣagaṇya (3.53), Jaigīṣavya (2.55, 3.18) and the 'śāstra' verse on the guṇas (4.13); Gauḍapāda on SK 23 cites 'the Pātañjala' for the yamas and niyamas.",
+    "refs": [
+     "tea:samkhya-karika-bhasya-gaudapada:23"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "colophons of Yoga works style the Yoga śāstra 'sāṃkhyapravacana' (e.g., Rāmānanda Sarasvatī's Yogamaṇiprabhā)",
+    "refs": []
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "the five viparyayas = the five kleśas (YBh 1.8); kaivalya; prakṛtilaya; vivekakhyāti",
+    "refs": [
+     "tea:samkhya-karika:47",
+     "tea:samkhya-karika:48"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U09-samkhya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:samkhya-puranic",
+  "from": "lin:samkhya",
+  "to": "lin:puranic",
+  "what": "The order of emergence from pradhāna (mahat, threefold ahaṃkāra, subtle and gross elements) set under the Lord; Kapila as avatāra teaching Sāṃkhya (Kapila Gītā).",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "vaikārika / taijasa / bhūtādi ahaṃkāra in Purāṇic cosmogony",
+    "refs": [
+     "tea:samkhya-karika:25"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Māṭhara on SK 1 makes Kapila the son of Kardama and Devahūti, an avatāra — the Purāṇic account",
+    "refs": [
+     "tea:mathara-vrtti:1"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U09-samkhya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:samkhya-saiva-tattvas",
+  "from": "lin:samkhya",
+  "to": "lin:kashmir-saivism",
+  "what": "The twenty-five principles as the lower part of the Śaiva thirty-six (also in Śaiva Siddhānta), with kañcukas, māyā and the pure principles added above puruṣa.",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "puruṣa, prakṛti, buddhi, ahaṃkāra, manas, indriyas, tanmātras, bhūtas in the Śaiva lists",
+    "refs": [
+     "tea:samkhya-karika:3",
+     "tea:samkhya-karika:22"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U09-samkhya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:samkhya-sastitantra-in-ahirbudhnya",
+  "from": "lin:samkhya",
+  "to": "lin:pancaratra",
+  "what": "The Ṣaṣṭitantra's sixty topics, presented as Kapila's teaching and as made of Sudarśana",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Ahirbudhnya 12.18–30 lists the 32 prākṛta and 28 vaikṛta topics of the Sāṃkhya 'sixty-fold tantra'",
+    "refs": [
+     "tea:ahirbudhnya-samhita:12.18-30"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U08-agama-catalogue"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:samkhya-to-kashmir-saivism",
+  "from": "lin:samkhya",
+  "to": "lin:kashmir-saivism",
+  "what": "Sāṃkhya's twenty-five principles incorporated as tattvas 12-36 of the thirty-six.",
+  "direction": "from→to",
+  "era": "before 9th c. CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Paramārthasāra 19-22 lists prakṛti, the inner organ, senses, subtle and gross elements in Sāṃkhya order",
+    "refs": [
+     "tea:paramarthasara:11-13"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:samkhya-to-puranic",
+  "from": "lin:samkhya",
+  "to": "lin:puranic",
+  "what": "The order of creation from pradhāna/prakṛti through mahat, ahaṃkāra, tanmātras, elements and senses; puruṣa and pradhāna as principles (here forms of Viṣṇu)",
+  "direction": "from→to",
+  "era": "1st millennium CE",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "VP 1.2; BhP 2.10.3; VP 1.5.19-25",
+    "refs": [
+     "tea:visnu-purana:1.2",
+     "tea:visnu-purana:1.5.19-25"
+    ]
+   }
+  ],
+  "coverage": [
+   "A4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U07-puranas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:samkhya-to-saiva-siddhanta",
+  "from": "lin:samkhya",
+  "to": "lin:saiva-siddhanta",
+  "what": "the 25 principles, placed as the lower range of the 36 tattvas",
+  "direction": "from→to",
+  "era": "early medieval",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "prakṛti, guṇas, buddhi, ahaṅkāra, organs, elements, puruṣa",
+    "refs": [
+     "src:tattvasangraha-sadyojyoti"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U18-saiva-siddhanta"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:samkhya-to-sakta",
+  "from": "lin:samkhya",
+  "to": "lin:sakta",
+  "what": "The Sāṃkhya vocabulary of prakṛti/pradhāna and the three guṇas used for the Goddess as primordial Nature (mūlaprakṛti) endowed with the three qualities.",
+  "direction": "from→to",
+  "era": "c. 5th-12th c. CE",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "The Prādhānika Rahasya presents Mahālakṣmī, possessing the three guṇas, as the origin of all; Saundaryalaharī 11 speaks of nine 'root natures' (mūlaprakṛti) in the Śrīcakra.",
+    "refs": [
+     "tea:pradhanika-rahasya:1-12",
+     "tea:saundarya-lahari:11"
+    ]
+   }
+  ],
+  "coverage": [
+   "A8",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:samkhya-to-yoga",
+  "from": "lin:samkhya",
+  "to": "lin:patanjala-yoga",
+  "what": "The dualism of puruṣa and prakṛti, the guṇas, the levels of the principles; the bhāṣya is titled 'sāṃkhya-pravacana' and quotes Sāṃkhya authorities.",
+  "direction": "from→to",
+  "era": "before and at the composition of the Yoga Sūtra",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Vārṣagaṇya named (YBh 3.53); 'the śāstra' quoted (YBh 4.13); unnamed quotations the commentators assign to Pañcaśikha (YBh 1.25, 1.36, 2.5, 2.6, 2.17, 2.18, 2.20, 2.22).",
+    "refs": [
+     "tea:yoga-bhasya:1.25",
+     "tea:yoga-bhasya:4.13",
+     "tea:yoga-bhasya:2.19"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Colophons 'pātañjale sāṃkhyapravacane yogaśāstre'; the YV holds Sāṃkhya to be contained in Yoga.",
+    "refs": [
+     "tea:yogavarttika:intro.3-4"
+    ]
+   }
+  ],
+  "coverage": [
+   "C",
+   "A5"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U10-yoga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:samkhya-vedanta",
+  "from": "lin:samkhya",
+  "to": "lin:vedanta",
+  "what": "The guṇas, subtle elements and inner instrument used in Vedānta's account of the products of māyā; Vijñānabhikṣu's synthesis in the other direction.",
+  "direction": "mutual",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Gauḍapāda lists māyā and brahman among prakṛti's synonyms (on SK 22)",
+    "refs": [
+     "tea:samkhya-karika-bhasya-gaudapada:22"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U09-samkhya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:samkhya-yoga-to-vijnanabhiksu-vedanta",
+  "from": "lin:samkhya",
+  "to": "lin:bhedabheda",
+  "what": "Vijñānabhikṣu's integration of Sāṃkhya-Yoga categories into a bhedābheda (avibhāga) Vedānta.",
+  "direction": "from→to",
+  "era": "16th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Vijñānāmṛtabhāṣya; his Sāṃkhya and Yoga commentaries",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C",
+   "A6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U16-bhedabheda"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:sannyasa-to-srivaisnava-tridandi",
+  "from": "lin:sannyasa",
+  "to": "lin:visistadvaita",
+  "what": "Triple-staff renunciation keeping topknot and thread (Śāṭyāyanīya), codified in Yādavaprakāśa's Yatidharmasamuccaya and followed by Śrīvaiṣṇava ascetics.",
+  "direction": "from→to",
+  "era": "c. 11th c. onward",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "the Yatidharmasamuccaya cites Upaniṣadic and Dharmaśāstric rules on the renouncer",
+    "refs": [
+     "tea:satyayani-upanisad:6-8"
+    ]
+   }
+  ],
+  "coverage": [
+   "A2",
+   "I2"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:sannyasa-upanisads-to-dasanami",
+  "from": "lin:sannyasa",
+  "to": "lin:dasanami",
+  "what": "The renunciation rite (praiṣa, virajā homa, abandonment of topknot and thread), the kinds of renouncer, the paramahaṃsa ideal and the giving of the great saying at initiation; the four seats of the Maṭhāmnāya.",
+  "direction": "from→to",
+  "era": "medieval onward",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Daśanāmī initiation follows the rite described in these texts",
+    "refs": [
+     "tea:naradaparivrajaka-upanisad:4.38-rite",
+     "tea:mathamnaya-upanisad:1-4-summary"
+    ]
+   }
+  ],
+  "coverage": [
+   "A2",
+   "I2"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:sarvastivada-yoga-time-and-transformation",
+  "from": "lin:sarvastivada",
+  "to": "lin:patanjala-yoga",
+  "what": "Past and future existing in their own form through the time-paths (adhvan) of dharmas (YS 4.12) and the transformations of dharma, lakṣaṇa and avasthā (3.13).",
+  "direction": "disputed",
+  "era": "early centuries CE",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Sarvāstivāda 'all exists' in the three times; its four theories of change include lakṣaṇa-anyathātva (Ghoṣaka) and avasthā-anyathātva (Vasumitra), as recorded in the Mahāvibhāṣā and Abhidharmakośa (5.25–26).",
+    "refs": [
+     "tea:yoga-sutra:3.13",
+     "tea:yoga-sutra:4.12",
+     "tea:yoga-bhasya:3.13",
+     "tea:yoga-bhasya:4.12"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Yoga's realism about past and future is compared with Sarvāstivāda doctrine.",
+    "refs": []
+   }
+  ],
+  "notes": "Abhidharmakośa verse numbers recalled from memory.",
+  "coverage": [
+   "C",
+   "A5"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U10-yoga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:satarudriya-to-saiva",
+  "from": "lin:vedic-srauta",
+  "to": "lin:saiva-siddhanta",
+  "what": "The Śatarudrīya and the formula 'namaḥ śivāya' (TS 4.5.8) as Vedic root of Śaiva worship and of the five-syllable mantra",
+  "direction": "from→to",
+  "era": "classical–medieval",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Śaiva traditions chant the Rudram in worship and trace the pañcākṣara to TS 4.5.8.",
+    "refs": [
+     "tea:taittiriya-samhita:4.5.8",
+     "tea:taittiriya-samhita:4.5.1"
+    ]
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "The Jābāla Upaniṣad names the recitation of the śatarudrīya as a means to immortality (reference from memory).",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:spanda-pratyabhijna-synthesis",
+  "from": "lin:spanda",
+  "to": "lin:pratyabhijna",
+  "what": "Kṣemarāja's fusion of Spanda and Pratyabhijñā: spanda read as vimarśa and svātantrya; the Spandakārikā commented on in the light of the Pratyabhijñā.",
+  "direction": "mutual",
+  "era": "11th c. CE",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Spandanirṇaya; Pratyabhijñāhṛdaya",
+    "refs": [
+     "tea:spanda-karika:1.1",
+     "tea:isvarapratyabhijna-karika:1.5.14"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:spanda-to-pancaratra",
+  "from": "lin:spanda",
+  "to": "lin:pancaratra",
+  "what": "A Kashmiri Vaiṣṇava (Bhagavadutpala) comments on the Spandakārikā, reading it alongside Pāñcarātra sources.",
+  "direction": "from→to",
+  "era": "10th-11th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Spandapradīpikā",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:sramana-to-dharmasastra-renunciation",
+  "from": "lin:sramana",
+  "to": "lin:dharmasastra",
+  "what": "The celibate, homeless life of renunciation as a recognized order of life (āśrama)",
+  "direction": "disputed",
+  "era": "late Vedic – Dharmasūtra period",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Baudhāyana ascribes the division of the orders to the asura Kapila, son of Prahlāda, in rivalry with the gods — i.e. as foreign to the Veda.",
+    "refs": [
+     "tea:baudhayana-dharmasutra:2.6.11.27-28"
+    ]
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "The Taittirīya Āraṇyaka already calls the wind-girdled Vedic seers 'śramaṇas'.",
+    "refs": [
+     "tea:taittiriya-aranyaka:2.7.1"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Some scholars argue that the celibate orders entered Brahmanical dharma from the śramaṇa milieu; others see an internal Vedic development.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U02-brahmana-vedanga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:srikantha-to-virasaiva",
+  "from": "lin:siva-visistadvaita",
+  "to": "lin:virasaiva",
+  "what": "Śrīkaṇṭha's Śaiva Vedānta adopted and claimed by Vīraśaiva authors (Nīlakaṇṭha's Kriyāsāra) alongside Śrīpati's Śakti-viśiṣṭādvaita.",
+  "direction": "from→to",
+  "era": "16th c. CE onward",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Kriyāsāra presents Śrīkaṇṭha as Vīraśaiva",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C",
+   "A6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U16-bhedabheda"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:srividya-and-sakta-upanisads",
+  "from": "lin:srividya",
+  "to": "lin:upanisadic",
+  "what": "Śrīvidyā mantra, cakra, nityās and inner worship in the Tripurā, Tripurātāpanī, Bhāvanā and Bahvṛca; Śrīvidyā commentators (Bhāskararāya) in turn cite these Upaniṣads as śruti.",
+  "direction": "mutual",
+  "era": "medieval to early modern",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "nine yonis, fifteen nityās, Śrīcakra in the body",
+    "refs": [
+     "tea:tripura-upanisad:1-11",
+     "tea:bhavana-upanisad:1-5"
+    ]
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Bhāskararāya's commentaries on the Tripurā and Bhāvanā",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A2",
+   "I2"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:srividya-to-karnatic-music",
+  "from": "lin:srividya",
+  "to": "lin:sangita",
+  "what": "The nine enclosures of the Śrīcakra and their deities set to music as a cycle of kṛtis (the Kamalāmbā Navāvaraṇa kṛtis) by Muttusvāmi Dīkṣitar, a Śrīvidyā initiate.",
+  "direction": "from→to",
+  "era": "late 18th - early 19th c. CE",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Dīkṣitar's Navāvaraṇa songs to Kamalāmbā of Tiruvārūr name each āvaraṇa and its deities.",
+    "refs": []
+   }
+  ],
+  "recent": true,
+  "coverage": [
+   "A8",
+   "A12",
+   "H"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:svetasvatara-to-saiva",
+  "from": "lin:upanisadic",
+  "to": "lin:saiva-siddhanta",
+  "what": "The Śvetāśvatara's theology of one Lord named Rudra, Śiva and Hara who frees from fetters (pāśa) by knowledge and grace is cited as śruti by Śaiva authors.",
+  "direction": "from→to",
+  "era": "early centuries CE onward",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Rudra, Śiva, Hara, Maheśvara, pāśa, prasāda (ŚU 1.10, 3.2, 3.11, 4.10, 4.16)",
+    "refs": [
+     "tea:svetasvatara-upanisad:1.10",
+     "tea:svetasvatara-upanisad:3.1-2",
+     "tea:svetasvatara-upanisad:3.11",
+     "tea:svetasvatara-upanisad:4.9-10",
+     "tea:svetasvatara-upanisad:4.14-16"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Śaiva Siddhānta regards the ŚU as a principal Upaniṣadic authority (moderate)",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A2",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U03-principal-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:tirukkural-to-tamil-saiva-siddhanta",
+  "from": "lin:jainism",
+  "to": "lin:tamil-saiva-siddhanta",
+  "what": "Kuṟaḷ ethics and the kuṟaḷ-veṇpā form (Tiruvaruṭpayaṉ) — direction depends on the Kuṟaḷ's contested affiliation",
+  "direction": "disputed",
+  "era": "13th–14th c.",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Tiruvaruṭpayaṉ 1.1 echoes Kuṟaḷ 1",
+    "refs": [
+     "src:tiruvarutpayan",
+     "src:tirukkural"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U18-saiva-siddhanta"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:trika-to-alankara",
+  "from": "lin:trika",
+  "to": "lin:alankara",
+  "what": "Abhinavagupta's aesthetics - rasa as the relishing (carvaṇā) of consciousness, śānta as a rasa - drawing on his Śaiva doctrine.",
+  "direction": "from→to",
+  "era": "c. 1000 CE",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Abhinavabhāratī; Locana (U31)",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:uddhava-gita-to-varkari",
+  "from": "lin:puranic",
+  "to": "lin:varkari",
+  "what": "Eknāth's Marathi Eknāthī Bhāgavata makes the Uddhava Gītā (Bhāgavata Book 11) a central scripture of the Vārkarī tradition.",
+  "direction": "from→to",
+  "era": "1570s CE",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Eknāthī Bhāgavata (src:eknathi-bhagavata)",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U06-other-gitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:upanisadic-samkhya-vocabulary",
+  "from": "lin:upanisadic",
+  "to": "lin:samkhya",
+  "what": "Terms later systematized in Sāṃkhya appear in the Kaṭha (avyakta, mahat, puruṣa in a ladder) and Śvetāśvatara (pradhāna, guṇa, kṣetrajña, 'sāṃkhya-yoga', the seer Kapila).",
+  "direction": "disputed",
+  "era": "last centuries BCE",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "KU 1.3.10-11; ŚU 1.10, 5.2, 6.13, 6.16",
+    "refs": [
+     "tea:katha-upanisad:1.3.10-11",
+     "tea:svetasvatara-upanisad:1.10",
+     "tea:svetasvatara-upanisad:5.2",
+     "tea:svetasvatara-upanisad:6.12-13",
+     "tea:svetasvatara-upanisad:6.16"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "the Vedānta tradition (Brahma Sūtra 1.4.1-7) denies that these passages teach Sāṃkhya's pradhāna; Sāṃkhya authors claim śruti support",
+    "refs": [
+     "tea:katha-upanisad:1.3.10-11"
+    ]
+   }
+  ],
+  "coverage": [
+   "A2",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U03-principal-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:upanisadic-to-puranic",
+  "from": "lin:upanisadic",
+  "to": "lin:puranic",
+  "what": "Upaniṣadic verses and images reused in the Purāṇas",
+  "direction": "disputed",
+  "era": "1st millennium CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "MkP 39.63 ~ ŚvetU 2.13 (first signs of yoga); MkP 42.7 ~ MuU 2.2.4 (bow and arrow; MkP reads 'prāṇo dhanuḥ'); BhP 1.2.21 = MuU 2.2.8; VP 6.7.28 = Brahmabindu Up. 2 (direction unsettled for the minor Upaniṣad); GP 2.10.75 leech image ~ BĀU 4.4.3",
+    "refs": [
+     "tea:markandeya-purana:39.62-65",
+     "tea:markandeya-purana:42.1-17",
+     "tea:bhagavata-purana:1.2.16-21",
+     "tea:visnu-purana:6.7.28",
+     "tea:garuda-purana:2.10.75-82"
+    ]
+   }
+  ],
+  "coverage": [
+   "A4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U07-puranas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:upanisadic-to-sakta",
+  "from": "lin:upanisadic",
+  "to": "lin:sakta",
+  "what": "Upaniṣadic Brahman-language, the great sayings and the Gāyatrī applied to the Goddess; Umā Haimavatī of the Kena Upaniṣad revered as the Goddess who first taught Brahman to the gods.",
+  "direction": "from→to",
+  "era": "c. 1st millennium CE onward",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Bahvṛca Upaniṣad names the Goddess's vidyās as the great sayings; the Tripurātāpinī reads the Gāyatrī as Śrīvidyā; the Devī Upaniṣad has her declare herself Brahman.",
+    "refs": [
+     "tea:bahvrca-upanisad:4-9",
+     "tea:tripuratapani-upanisad:1",
+     "tea:devi-upanisad:1-2",
+     "tea:kena-upanisad:3.1-12"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Varivasyārahasya 57-59 lists the Gāyatrī meaning taught in the Tripurā Upaniṣad as the first of fifteen meanings of the mantra.",
+    "refs": [
+     "tea:varivasya-rahasya:57-59"
+    ]
+   }
+  ],
+  "coverage": [
+   "A8",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U23-sakta-srividya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:upanisadic-to-virasaiva",
+  "from": "lin:upanisadic",
+  "to": "lin:virasaiva",
+  "what": "Upaniṣadic images of the self and the light",
+  "direction": "from→to",
+  "era": "by the time of the SSM",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "SSM 12.38 echoes Kaṭha 5.15 / Muṇḍaka 2.2.10 / Śvetāśvatara 6.14; 18.6 echoes Śvetāśvatara 5.9; the SSM's commentary cites the Upaniṣads throughout.",
+    "refs": [
+     "tea:siddhantasikhamani:12.38-41",
+     "tea:siddhantasikhamani:18.5-7"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C",
+   "A7"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U20-virasaiva"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:upanisadic-to-yoga",
+  "from": "lin:upanisadic",
+  "to": "lin:patanjala-yoga",
+  "what": "Early yoga teaching (Kaṭha: yoga as firm holding of the senses; Śvetāśvatara ch. 2; Maitrī's six-limbed yoga) and Upaniṣadic images and sayings used in the bhāṣya.",
+  "direction": "from→to",
+  "era": "late Vedic to early centuries CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "YBh 3.35 quotes 'vijñātāram are kena vijānīyāt' (Bṛhadāraṇyaka).",
+    "refs": [
+     "tea:yoga-bhasya:3.35"
+    ]
+   },
+   {
+    "type": "textual-parallel",
+    "detail": "YBh 3.34 'brahmapura ... daharaṃ puṇḍarīkaṃ veśma' (Chāndogya 8.1.1).",
+    "refs": [
+     "tea:yoga-bhasya:3.34"
+    ]
+   },
+   {
+    "type": "textual-parallel",
+    "detail": "Maitrī Upaniṣad's ṣaḍaṅga yoga shares prāṇāyāma, pratyāhāra, dhyāna, dhāraṇā, samādhi (dating of the Maitrī uncertain).",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C",
+   "A5"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U10-yoga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:upanisadic-yoga-vocabulary",
+  "from": "lin:upanisadic",
+  "to": "lin:patanjala-yoga",
+  "what": "Yoga vocabulary and method in the Upaniṣads — yoga as firm holding of the senses (KU 2.3.11), posture, breath and signs (ŚU 2), the six-limbed yoga (MaiU 6.18) — shared with Patañjala Yoga's limbs (prāṇāyāma, pratyāhāra, dhyāna, dhāraṇā, samādhi).",
+  "direction": "disputed",
+  "era": "last centuries BCE – early centuries CE",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "MaiU 6.18 shares five of its six limbs with YS 2.29",
+    "refs": [
+     "tea:maitri-upanisad:6.18",
+     "tea:katha-upanisad:2.3.10-11",
+     "tea:svetasvatara-upanisad:2.8",
+     "tea:svetasvatara-upanisad:2.9"
+    ]
+   }
+  ],
+  "coverage": [
+   "A2",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U03-principal-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:upanisads-samkhya",
+  "from": "lin:upanisadic",
+  "to": "lin:samkhya",
+  "what": "The hierarchy senses–objects–mind–buddhi–great self–unmanifest–puruṣa (Kaṭha 3.10–11), the word 'sāṃkhya' (Śvetāśvatara 6.13), the three-coloured unborn (Śvetāśvatara 4.5) read as prakṛti.",
+  "direction": "disputed",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Kaṭha and Śvetāśvatara passages",
+    "refs": []
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Sāṃkhya claims scriptural support (SS 5.12, 6.32); the Brahma Sūtra denies these passages teach pradhāna (1.4.1–13)",
+    "refs": [
+     "tea:samkhya-sutra:5.12",
+     "tea:brahma-sutra:1.4.1"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U09-samkhya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:upanisads-to-bhagavad-gita",
+  "from": "lin:upanisadic",
+  "to": "lin:epic-teaching",
+  "what": "Verses and images reused in the Bhagavad Gītā: KU 1.2.18-19 ~ BhG 2.19-20; KU 2.3.1 (inverted aśvattha) ~ BhG 15.1; ŚU 3.16-17 ~ BhG 13.13-14; KU 1.2.15 ~ BhG 8.11 (moderate).",
+  "direction": "from→to",
+  "era": "epic period",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "near-identical verses",
+    "refs": [
+     "tea:katha-upanisad:1.2.18-19",
+     "tea:katha-upanisad:2.3.1",
+     "tea:svetasvatara-upanisad:3.16-19"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "a later invocation verse calls the Upaniṣads the cows and the Gītā their milk",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A2",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U03-principal-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:upanisads-to-gita",
+  "from": "lin:upanisadic",
+  "to": "lin:epic-teaching",
+  "what": "verses, images and doctrines of the self, Brahman and the paths after death",
+  "direction": "from→to",
+  "era": "Upaniṣadic period to the Gītā's composition",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "BhG 2.19–20 ~ Kaṭha 1.2.18–19; 3.42 ~ Kaṭha 1.3.10; 8.11 ~ Kaṭha 1.2.15; 13.13–14 ~ Śvetāśvatara 3.16–17; 15.1 ~ Kaṭha 2.3.1; 15.6 ~ Kaṭha 2.2.15; 8.24–26 ~ Chāndogya 5.10",
+    "refs": [
+     "tea:bhagavad-gita:2.19",
+     "tea:bhagavad-gita:2.20",
+     "tea:bhagavad-gita:3.42-43",
+     "tea:bhagavad-gita:13.13-17",
+     "tea:bhagavad-gita:15.1-2",
+     "tea:bhagavad-gita:15.6",
+     "tea:bhagavad-gita:8.23-26"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "the chapter colophons call the Gītā an upaniṣad; the Gītādhyāna calls it the milk drawn by Kṛṣṇa from the Upaniṣads as cows",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U05-gita-epic"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vaisesika-nyaya-syncretism",
+  "from": "lin:vaisesika",
+  "to": "lin:nyaya",
+  "what": "Ontology of categories and atoms taken into Nyāya; Nyāya epistemology and debate theory taken into Vaiśeṣika; fusion into one system",
+  "direction": "mutual",
+  "era": "c. 5th c. CE onward; syncretic manuals from the 11th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Vātsyāyana admits the six Vaiśeṣika categories as further objects of knowledge (NBh 1.1.9) and cites VS 9.13 on yogic perception (NBh 1.1.3).",
+    "refs": [
+     "tea:nyaya-bhasya:1.1.9",
+     "tea:nyaya-bhasya:1.1.3/2"
+    ]
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Annambhaṭṭa writes 'for the doctrines of Kaṇāda and Nyāya'; Śaṅkara Miśra: 'the followers of Kaṇāda and Gautama accept seven categories'.",
+    "refs": [
+     "tea:tarkasangraha:colophon",
+     "tea:vadivinoda:padartha"
+    ]
+   }
+  ],
+  "coverage": [
+   "A5",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U11-nyaya-vaisesika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vaisesika-to-ayurveda",
+  "from": "lin:vaisesika",
+  "to": "lin:ayurveda",
+  "what": "The six categories (sāmānya, viśeṣa, guṇa, dravya, karma, samavāya) named as the foundations of medicine",
+  "direction": "disputed",
+  "era": "early centuries CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Caraka Saṃhitā, Sūtrasthāna 1 names the six categories (verse number recalled as 1.28; to be checked).",
+    "refs": []
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Whether Caraka borrows from Vaiśeṣika or both draw on a common stock is debated.",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A5",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U11-nyaya-vaisesika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vaisesika-to-prabhakara",
+  "from": "lin:vaisesika",
+  "to": "lin:prabhakara-mimamsa",
+  "what": "A categorial ontology, extended with capacity (śakti), similarity (sādṛśya) and number (saṃkhyā)",
+  "direction": "from→to",
+  "era": "7th–10th c.",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Prābhākara lists of categories (as usually reported); Nyāya's rejection of the extra categories is recorded in the Bhāṣāpariccheda's commentarial tradition.",
+    "refs": [
+     "tea:bhasapariccheda:2"
+    ]
+   }
+  ],
+  "coverage": [
+   "A5",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U11-nyaya-vaisesika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vak-sukta-to-sakta",
+  "from": "lin:vedic-srauta",
+  "to": "lin:sakta",
+  "what": "RV 10.125 recited as the Devī Sūkta, Speech as the Goddess who is the self of all",
+  "direction": "from→to",
+  "era": "medieval",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Recited with the Devī Māhātmya in Śākta worship.",
+    "refs": [
+     "tea:rgveda:10.125.3",
+     "tea:rgveda:10.125.8"
+    ]
+   }
+  ],
+  "coverage": [
+   "A1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vamadeva-verses-to-upanisads",
+  "from": "lin:vedic-srauta",
+  "to": "lin:upanisadic",
+  "what": "Vāmadeva's 'I was Manu and the Sun' (RV 4.26.1) and 'in the womb I knew the births of the gods' (4.27.1) as words of realization",
+  "direction": "from→to",
+  "era": "late Vedic",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Bṛhadāraṇyaka 1.4.10 and Aitareya Upaniṣad 2.5 cite them as Vāmadeva's realization.",
+    "refs": [
+     "tea:rgveda:4.26.1",
+     "tea:rgveda:4.27.1",
+     "tea:brhadaranyaka-upanisad:1.4.10"
+    ]
+   }
+  ],
+  "coverage": [
+   "A1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vedanta-paramarthasara-to-trika",
+  "from": "lin:vedanta",
+  "to": "lin:trika",
+  "what": "Abhinavagupta's Paramārthasāra recasts the older Paramārthasāra / Ādhārakārikā ascribed to Ādiśeṣa 'by the view of Śiva's teaching'.",
+  "direction": "from→to",
+  "era": "c. 1000 CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Paramārthasāra 2-3",
+    "refs": [
+     "tea:paramarthasara:2-3"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vedanta-predecessors-to-visistadvaita",
+  "from": "lin:vedanta",
+  "to": "lin:visistadvaita",
+  "what": "The readings of the Brahma Sūtras and Upaniṣads by Bodhāyana, Ṭaṅka (the Vākyakāra) and Dramiḍa, including the seven aids to meditation.",
+  "direction": "from→to",
+  "era": "before the 8th c. to 11th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Śrībhāṣya's opening and its quotation of the Vākyakāra",
+    "refs": [
+     "tea:sribhasya:intro",
+     "tea:sribhasya:1.1.1/3"
+    ]
+   }
+  ],
+  "coverage": [
+   "A6",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U14-visistadvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vedic-pancabrahma-to-pasupata",
+  "from": "lin:vedic-srauta",
+  "to": "lin:pasupata",
+  "what": "The five brahma-mantras (Sadyojāta, Vāmadeva, Aghora, Tatpuruṣa, Īśāna) that close the adhyāyas of the Pāśupata Sūtra.",
+  "direction": "from→to",
+  "era": "before the Pāśupata Sūtra",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "The same five mantras stand in Taittirīya Āraṇyaka 10 (Mahānārāyaṇa Upaniṣad).",
+    "refs": [
+     "tea:pasupata-sutra:1.39-44",
+     "tea:pasupata-sutra:4.21-24",
+     "tea:pasupata-sutra:5.41-47"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U17-pasupata-kapalika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vedic-ritual-internalized-in-upanisads",
+  "from": "lin:vedic-srauta",
+  "to": "lin:upanisadic",
+  "what": "Internalization of the sacrifice: the horse as the cosmos (BAU 1.1), the udgītha as breath (BAU 1.3; ChU 1.1-2), the person as a soma sacrifice (ChU 3.16-17), the inner agnihotra (KauU 2.5), the agnihotra into the breaths (ChU 5.19-24).",
+  "direction": "from→to",
+  "era": "Brāhmaṇa to early Upaniṣad period",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Śāṇḍilya's teaching and the vaiśvānara teaching also appear in the Śatapatha Brāhmaṇa (10.6.3; 10.6.1) (moderate)",
+    "refs": [
+     "tea:chandogya-upanisad:3.14.1",
+     "tea:chandogya-upanisad:5.12.1-5.18.2"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "the Upaniṣads are transmitted as the final portions (Veda-anta) of the Vedic texts of each śākhā",
+    "refs": [
+     "tea:kausitaki-upanisad:2.5",
+     "tea:chandogya-upanisad:3.16.1-7"
+    ]
+   }
+  ],
+  "coverage": [
+   "A2",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U03-principal-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vedic-sacrifice-to-gita",
+  "from": "lin:vedic-srauta",
+  "to": "lin:epic-teaching",
+  "what": "the sacrificial frame, reinterpreted as action without attachment, inner offerings and the sacrifice of knowledge",
+  "direction": "from→to",
+  "era": "epic period",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "the wheel of sacrifice (BhG 3.10–16); the many sacrifices (4.25–30); the Anugītā's seven priests (14.20)",
+    "refs": [
+     "tea:bhagavad-gita:3.10-16",
+     "tea:bhagavad-gita:4.25-30",
+     "tea:anugita:14.20.19-22"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U05-gita-epic"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vedic-speech-verses-to-vyakarana",
+  "from": "lin:vedic-srauta",
+  "to": "lin:vyakarana",
+  "what": "Ṛgveda verses on speech read as praise of grammar (4.58.3 'four horns'; 10.71.2 and 10.71.4; 1.164.45 'four quarters')",
+  "direction": "from→to",
+  "era": "c. 2nd c. BCE onward",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Patañjali's Mahābhāṣya (Paspaśāhnika) cites 4.58.3 and 10.71.2, 10.71.4 (and, as usually reported, 1.164.45) as reasons for studying grammar; the Nirukta records the grammarians' reading of 1.164.45 as the four word-classes.",
+    "refs": [
+     "tea:rgveda:4.58.3",
+     "tea:rgveda:10.71.2",
+     "tea:rgveda:10.71.4",
+     "tea:rgveda:1.164.45",
+     "tea:nirukta:13.9"
+    ]
+   }
+  ],
+  "coverage": [
+   "A1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:visistadvaita-to-gaudiya-vaisnava",
+  "from": "lin:visistadvaita",
+  "to": "lin:gaudiya-vaisnava",
+  "what": "Contact through Caitanya's stay at Śrīraṅgam and Gopāla Bhaṭṭa Gosvāmī, son of a Śrīraṅgam priest, as the Gauḍīya accounts relate; citations of Rāmānuja in Jīva Gosvāmī.",
+  "direction": "from→to",
+  "era": "16th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Gauḍīya hagiography (Caitanya Caritāmṛta)",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A6",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U14-visistadvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:visistadvaita-to-ramanandi",
+  "from": "lin:visistadvaita",
+  "to": "lin:ramanandi",
+  "what": "Lineage descent (through Rāghavānanda to Rāmānanda) and Viśiṣṭādvaita doctrine, as claimed in the Rāmānandī tradition; the claim and its extent are disputed.",
+  "direction": "disputed",
+  "era": "14th–16th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Rāmānandī lineage lists",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A6",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U14-visistadvaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:visistadvaita-to-srikantha",
+  "from": "lin:visistadvaita",
+  "to": "lin:siva-visistadvaita",
+  "what": "The structure of Śrīkaṇṭha's Brahma Sūtra commentary and its body–soul model closely parallel Rāmānuja's Śrībhāṣya.",
+  "direction": "disputed",
+  "era": "c. 12th–13th c. CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "adhikaraṇa divisions and arguments parallel the Śrībhāṣya",
+    "refs": []
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Vīraśaiva tradition holds Śrīkaṇṭha earlier than Rāmānuja (so the direction is disputed)",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C",
+   "A6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U16-bhedabheda"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:visnu-highest-step-to-upanisads-and-vaisnava",
+  "from": "lin:vedic-srauta",
+  "to": "lin:upanisadic",
+  "what": "'That highest step of Viṣṇu' (RV 1.22.20)",
+  "direction": "from→to",
+  "era": "late Vedic onward",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "The Kaṭha Upaniṣad (1.3.9) names the end of the road 'that highest step of Viṣṇu'; Vaiṣṇava tradition recites 1.22.20 in worship (tradition-account).",
+    "refs": [
+     "tea:rgveda:1.22.20"
+    ]
+   }
+  ],
+  "coverage": [
+   "A1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vivekacudamani-adhyatma",
+  "from": "lin:advaita-vedanta",
+  "to": "lin:upanisadic",
+  "what": "Advaita verses shared by the Adhyātma Upaniṣad and the Vivekacūḍāmaṇi.",
+  "direction": "disputed",
+  "era": "medieval",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "many verses in common",
+    "refs": [
+     "tea:adhyatma-upanisad:2-70-summary"
+    ]
+   }
+  ],
+  "coverage": [
+   "A2",
+   "I2"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vratya-and-saiva-ascetics",
+  "from": "lin:vedic-srauta",
+  "to": "lin:pasupata",
+  "what": "The Vrātya who becomes Mahādeva and Īśāna, and Rudra's names Bhava, Śarva, Paśupati in the Atharvaveda",
+  "direction": "disputed",
+  "era": "Vedic to early classical",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Some scholars link the vrātyas and the Atharvavedic Rudra to later Śaiva ascetic movements such as the Pāśupatas; disputed. Metadata only.",
+    "refs": [
+     "tea:atharvaveda-saunaka:15.1.1-8",
+     "tea:atharvaveda-saunaka:11.2"
+    ]
+   }
+  ],
+  "coverage": [
+   "A1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vrtra-colours-and-sramana-colour-doctrines",
+  "from": "lin:epic-teaching",
+  "to": "lin:ajivika",
+  "what": "a doctrine of six colours of living beings",
+  "direction": "disputed",
+  "era": "scholarly: last centuries BCE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "the Vṛtra Gītā's six colours of beings (MBh 12.271.33) resemble the Ājīvika six classes (abhijāti), reported in Buddhist texts, and the Jain six leśyās",
+    "refs": [
+     "tea:moksadharma:12.271.33"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "relationship and direction disputed",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U05-gita-epic"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vyakarana-sabda-mandana",
+  "from": "lin:vyakarana",
+  "to": "lin:advaita-vedanta",
+  "what": "Bhartṛhari's philosophy of the word (śabda-brahman, sphoṭa) in Maṇḍana Miśra's thought (Sphoṭasiddhi; Brahmasiddhi).",
+  "direction": "from→to",
+  "era": "7th–8th c.",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Maṇḍana wrote the Sphoṭasiddhi defending Bhartṛhari's sphoṭa and cites him in the Brahmasiddhi.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U13-advaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vyakarana-to-pratyabhijna",
+  "from": "lin:vyakarana",
+  "to": "lin:pratyabhijna",
+  "what": "Bhartṛhari's doctrine that awareness is inherently verbal (vāc) and of the levels of speech, reworked as vimarśa = supreme speech, while paśyantī is denied ultimacy.",
+  "direction": "from→to",
+  "era": "10th c. CE",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "ĪPK 1.5.13 'citiḥ pratyavamarśātmā parā vāk'",
+    "refs": [
+     "tea:isvarapratyabhijna-karika:1.5.13"
+    ]
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Śivadṛṣṭi 2 refutes the grammarians by name",
+    "refs": [
+     "tea:sivadrsti:2.1"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:yoga-to-advaita",
+  "from": "lin:patanjala-yoga",
+  "to": "lin:advaita-vedanta",
+  "what": "Use of Pātañjala yoga by Advaita authors: the Vivaraṇa ascribed to Śaṅkara; later Advaita manuals quoting the Yoga Sūtra on stilling the mind; Nārāyaṇatīrtha and Vijñānabhikṣu reading Yoga within Vedānta.",
+  "direction": "from→to",
+  "era": "8th–17th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Colophons of the Vivaraṇa (ascription disputed).",
+    "refs": []
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Nārāyaṇatīrtha identifies nididhyāsana with Yoga samādhi (YSC intro.).",
+    "refs": [
+     "tea:yogasiddhantacandrika:intro.prose"
+    ]
+   }
+  ],
+  "coverage": [
+   "C",
+   "A5"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U10-yoga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:yoga-to-hatha",
+  "from": "lin:patanjala-yoga",
+  "to": "lin:hatha-yoga",
+  "what": "The eight limbs and 'rājayoga' — samādhi — as the goal that haṭha serves.",
+  "direction": "from→to",
+  "era": "c. 11th–15th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Haṭha texts present haṭha as a stairway to rājayoga and list rājayoga among the synonyms of samādhi (Haṭhayogapradīpikā 1.1–2, 4.3–4, recalled); Nārāyaṇatīrtha subsumes haṭha, laya and mantra yoga under the eight limbs.",
+    "refs": [
+     "tea:yogasiddhantacandrika:intro.prose"
+    ]
+   }
+  ],
+  "coverage": [
+   "C",
+   "A5"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U10-yoga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:yoga-to-jainism",
+  "from": "lin:patanjala-yoga",
+  "to": "lin:jainism",
+  "what": "Jain engagement with Pātañjala yoga: Haribhadra's yoga works (Yogadṛṣṭisamuccaya, Yogabindu) correlate his eight views with the eight limbs; Hemacandra's Yogaśāstra adapts prāṇāyāma, pratyāhāra and dhāraṇā; Yaśovijaya wrote on selected sūtras.",
+  "direction": "from→to",
+  "era": "8th–17th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Haribhadra names Patañjali (recalled; check YDS and its commentary).",
+    "refs": []
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "Jain four bhāvanās (maitrī, pramoda, kāruṇya, mādhyasthya) parallel YS 1.33.",
+    "refs": [
+     "tea:yoga-sutra:1.33"
+    ]
+   }
+  ],
+  "notes": "Details recalled, not checked; U35/U49 own the Jain side.",
+  "coverage": [
+   "C",
+   "A5"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U10-yoga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:yoga-vasistha-and-minor-upanisads",
+  "from": "lin:advaita-vedanta",
+  "to": "lin:upanisadic",
+  "what": "Verses and doctrine of the Yoga Vāsiṣṭha (seven bhūmikās, vāsanā-kṣaya/manonāśa/tattvajñāna, stopping prāṇa-vibration, the jīvanmukta) shared with the Mahā, Annapūrṇā, Akṣi, Varāha, Muktikā 2, Śāṇḍilya 1.42–53, Sannyāsa 2 and Yājñavalkya.",
+  "direction": "disputed",
+  "era": "medieval",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "shared verses on the stages and on mind",
+    "refs": [
+     "tea:varaha-upanisad:4.1-10",
+     "tea:muktika-upanisad:2.1-13",
+     "tea:sandilya-upanisad:1.42-53",
+     "tea:maha-upanisad:5-fourteen-stages"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "scholars generally take the Upaniṣads to borrow from the Yoga Vāsiṣṭha / Laghu-Yoga-Vāsiṣṭha; the tradition treats the Upaniṣads as the source",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A2",
+   "I2"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:yoga-vasistha-bhumikas-in-minor-upanisads",
+  "from": "lin:advaita-vedanta",
+  "to": "lin:sannyasa",
+  "what": "The Yoga Vāsiṣṭha's seven stages of knowledge (and stages of ignorance) and many of its verses appear in minor Upaniṣads such as the Varāha, Akṣi and Mahā Upaniṣads.",
+  "direction": "disputed",
+  "era": "second millennium CE (scholarly)",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "the seven bhūmikās with the same names (recalled; to be verified by U04)",
+    "refs": [
+     "tea:moksopaya:3.118.1-7"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "the tradition regards the Upaniṣads as śruti and prior",
+    "refs": []
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "scholars generally take these Upaniṣads to borrow from the Yoga Vāsiṣṭha",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U06-other-gitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:yoga-vasistha-buddhist-idealism",
+  "from": "lin:yogacara",
+  "to": "lin:advaita-vedanta",
+  "what": "The Yoga Vāsiṣṭha names the Vijñānavādins and Śūnyavādins, allows the supreme state to be described in terms of no-self and emptiness, and declares the doctrines of external objects and of consciousness to be one for itself.",
+  "direction": "disputed",
+  "era": "10th c. CE (scholarly)",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "MU 3.5.6-7; 3.66.14; 6.195.4",
+    "refs": [
+     "tea:moksopaya:3.5.3-7",
+     "tea:moksopaya:3.66.10-14",
+     "tea:moksopaya:6.195.1-4"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "scholars have long debated Buddhist influence on the Yoga Vāsiṣṭha",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U06-other-gitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:yoga-vocabulary-in-dharmasastra",
+  "from": "lin:patanjala-yoga",
+  "to": "lin:dharmasastra",
+  "what": "The sequence breath-control, fixation, withdrawal, meditation; yogic powers",
+  "direction": "disputed",
+  "era": "early centuries CE",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "MDh 6.72 names prāṇāyāma, dhāraṇā, pratyāhāra and dhyāna; YS 3.202–203 lists yogic powers; the relative dates of Manu and the Yoga Sūtra are uncertain, so direction is not asserted.",
+    "refs": [
+     "tea:manusmrti:6.70-74",
+     "tea:yajnavalkyasmrti:3.202-203"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U02-brahmana-vedanga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:yoga-yajnavalkya-darsana",
+  "from": "lin:hatha-yoga",
+  "to": "lin:upanisadic",
+  "what": "The Darśana Upaniṣad's ten yamas and niyamas, channels, inner tīrthas and five withdrawals parallel the Yoga Yājñavalkya.",
+  "direction": "disputed",
+  "era": "medieval",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "extensive verse parallels",
+    "refs": [
+     "tea:darsana-upanisad:1.6-24",
+     "tea:darsana-upanisad:4.48-59"
+    ]
+   }
+  ],
+  "coverage": [
+   "A2",
+   "I2"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "notes": "Text: src:yoga-yajnavalkya.",
+  "provenance": {
+   "units": [
+    "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:yoking-mind-to-svetasvatara",
+  "from": "lin:vedic-srauta",
+  "to": "lin:upanisadic",
+  "what": "The verses on yoking the mind at the start of the fire altar (VS 11.1–5 = TS 4.1.1; RV 5.81.1)",
+  "direction": "from→to",
+  "era": "late Vedic",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "They open the Śvetāśvatara Upaniṣad's chapter on yoga (2.1–5).",
+    "refs": [
+     "tea:vajasaneyi-samhita:11.1-5",
+     "tea:rgveda:5.81.1",
+     "tea:svetasvatara-upanisad:2.1-5"
+    ]
+   }
+  ],
+  "coverage": [
+   "A1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ }
+]

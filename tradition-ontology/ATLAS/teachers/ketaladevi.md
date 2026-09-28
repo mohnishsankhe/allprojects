@@ -10,4 +10,4 @@
 A woman vacanakāra, wife of the potter-devotee Guṇḍayya.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._

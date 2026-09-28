@@ -2,11 +2,16 @@
 
 `tch:bharadvaja` · `skeleton` · confidence moderate
 
-**Lineages:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
-**Historicity:** mythic
-**Teachers:** [Bhṛgu](bhrgu.md)
+**Alternate names:** Bharadvāja Bārhaspatya
+**Lineages:** [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Śākala śākhā (Ṛgveda)](../lineages/sakha-sakala.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
+**Historicity:** semi-legendary
+**Teachers:** [Bhṛgu Vāruṇi](bhrgu.md)
+**Works:** 
+  - [Ṛgveda Saṃhitā](../texts/rgveda.md) — attribution: traditional
 
-Seer who questions Bhṛgu in the Mokṣadharma (12.175–185), raising doubts about the existence of a living self in a body made of elements.
+Bharadvāja Bārhaspatya, founder of the family of Ṛgveda book 6, whose vision of the light set in the heart (6.9.5–6) is among the Veda's inner experiences; one of the seven seers of RV 10.137.
+
+_Notes: Seer attributions follow the Sarvānukramaṇī as printed in the hymn headers of the local Ṛgveda text (checked)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga, skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._

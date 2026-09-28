@@ -9,4 +9,4 @@
 The Śaiva sage who, having won Śiva's favour as a child through austerity, gives Kṛṣṇa Pāśupata initiation and teaches him Śaiva doctrine, worship, the pañcākṣara and yoga in the Vāyavīya Saṃhitā (ŚiP 7.2) and in LiP 1.107.
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

@@ -3,7 +3,7 @@
 `tch:rama` · `skeleton` · confidence high
 
 **Alternate names:** Rāghava, Dāśarathi, Kākutstha, Rāmacandra
-**Lineages:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), `lin:advaita-vedanta`, `lin:ramanandi`
+**Lineages:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [Advaita Vedānta](../lineages/advaita-vedanta.md), `lin:ramanandi`, [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 **Dates:** Tradition's account: Tretā yuga
 **Historicity:** legendary
 **Teachers:** [Vasiṣṭha](vasistha.md), [Viśvāmitra](visvamitra.md), [Agastya](agastya.md), [Śiva](siva.md)
@@ -13,4 +13,4 @@ Prince of Ayodhyā, hero of the Rāmāyaṇa, called 'dharma embodied' (3.37.13)
 **Realization — the tradition's account:** In the Yoga Vāsiṣṭha Rāma, after Vasiṣṭha's teaching, rests in the supreme state (Nirvāṇa-prakaraṇa, opening chapters, e.g. MU 6.5 'rāghava-viśrānti'); the Adhyātma Rāmāyaṇa instead treats him as the Lord who never lost knowledge.
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._

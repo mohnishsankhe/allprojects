@@ -10,4 +10,4 @@ A cobbler (mādāra) devotee of the pre-Basava past whom Basava names as his own
 _Notes: Placement before Basava follows the hagiographies; low confidence._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._

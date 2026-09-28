@@ -5,7 +5,7 @@
 **Family:** vedic
 **Alternate names:** Kāṭhaka, Caraka-Kaṭha
 **Parent:** [Vedic Śrauta tradition (the Saṃhitā lineages)](vedic-srauta.md)
-**Key teachers:** `tch:katha`
+**Key teachers:** [Kaṭha](../teachers/katha.md)
 **Regions:** formerly Kashmir and the north-west
 **Status:** absorbed
 
@@ -17,10 +17,10 @@ A Black Yajurveda tradition of the north-west whose Saṃhitā survives in manus
 
 
 ## Texts
-`src:katha-upanisad`, [Kāṭhaka Saṃhitā](../texts/kathaka-samhita.md)
+[Katha Upaniṣad](../texts/katha-upanisad.md), [Kāṭhaka Saṃhitā](../texts/kathaka-samhita.md)
 
 ## Teachers
-`tch:katha`
+[Kaṭha](../teachers/katha.md)
 
 ## Practices
 _none recorded_
@@ -32,4 +32,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

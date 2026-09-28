@@ -13,7 +13,28 @@
 
 The 'Brāhmaṇa of twenty-five (chapters)' of the Kauthuma–Rāṇāyanīya Sāmaveda: the chants (stotras and stomas) of the Soma sacrifices from one-day rites to year-long sessions, the Vrātya rites (17.1–4) by which outsiders are brought into the sacrificial community, the sessions along the Sarasvatī, and the teaching that Prajāpati alone was, with Speech as his own and his second, and that he released her to pervade all (20.14.2).
 
+## Teachings (2: skeleton 2)
+
+### 17.1 <a id="tea-pancavimsa-brahmana-17-1"></a>
+`skeleton` · confidence moderate
+
+The Vrātya rites (vrātyastoma): those who live the life of Vrātyas, outside the sacrificial order, may by these Soma rites become fit to take part in sacrifice; the text describes their dress, equipment and leaders, which are given away at the rite.
+
+_level: conventional · standpoint: ritual · path: ritual · stage: all · types: practice, ethics_
+
+practices: [Vrātyastoma (rites for admitting Vrātyas)](../practices/vratyastoma.md)
+
+### 20.14.2 <a id="tea-pancavimsa-brahmana-20-14-2"></a>
+`skeleton` · confidence high
+
+Prajāpati alone was this; Speech was his own, Speech was his second. He thought: 'Let me send forth this Speech; she will go forth pervading all this.' He sent forth Speech, and she went pervading all this; she rose upward like a continuous stream of water.
+
+_level: ultimate · standpoint: cosmic · path: sound · stage: unmarked · types: sound-language, ultimate_
+
+terms: [vāc](../terms/vac.md), [prajāpati](../terms/prajapati.md) · concepts: [Vāc (Speech) as creative power](../concepts/vac-in-brahmanas.md)
+
+
 _Notes: Commentary: Sāyaṇa._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._

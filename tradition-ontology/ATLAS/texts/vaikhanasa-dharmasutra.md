@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Vaikhānasa](../lineages/vaikhanasa.md)
+**Lineages:** [Vaikhānasa](../lineages/vaikhanasa.md), [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md), [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md)
 **Genre:** sūtra (dharma)
 **Part of:** [Vaikhānasa Smārtasūtra](vaikhanasa-smartasutra.md)
 **Availability:** digitized-original
@@ -16,4 +16,4 @@ The dharma section of the Vaikhānasa sūtra: the four āśramas, with detailed 
 _Notes: Also relevant to U02 (Dharmaśāstra) and U04/U57 (renunciation)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._

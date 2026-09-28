@@ -11,4 +11,4 @@ Named by the Sāṃkhya Sūtra (6.69): 'the (owner–owned relation of puruṣa 
 _Notes: Whether the SS's teacher is the Kumāra of Purāṇic lore is not stated in the text._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 08:09 IST._

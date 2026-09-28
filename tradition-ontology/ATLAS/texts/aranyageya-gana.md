@@ -13,4 +13,4 @@
 The song-book of melodies 'to be sung in the forest', regarded as more powerful and secret, learned apart from the village; it includes the melodies of the Āraṇyaka section.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

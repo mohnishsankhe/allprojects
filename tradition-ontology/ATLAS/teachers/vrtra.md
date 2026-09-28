@@ -9,4 +9,4 @@
 The defeated asura whose equanimity is praised and who is taught by Sanatkumāra about Viṣṇu and the six colours of beings (12.270–271).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

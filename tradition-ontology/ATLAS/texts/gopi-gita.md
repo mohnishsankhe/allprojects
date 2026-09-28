@@ -16,5 +16,15 @@
 
 The gopīs' song of longing in separation (viraha) from Kṛṣṇa, one of the central devotional hymns of the Bhāgavata, much used in the Gauḍīya and Vallabha traditions.
 
+## Teachings (1: skeleton 1)
+
+### 10.31 <a id="tea-gopi-gita-10-31"></a>
+`skeleton` · confidence moderate · [AI-translated]
+
+In separation the gopīs sing that Kṛṣṇa is not merely the son of a cowherdess but the witness in all hearts, and beg him to return; the nectar of his stories revives the afflicted, and their longing (viraha) is itself an intense form of devotion.
+
+_level: unmarked · standpoint: devotional · path: devotion · stage: advanced · types: practice, powers-experiences_
+
+
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

@@ -12,4 +12,4 @@
 The song-book that applies the melodies to the Uttarārcika verse-groups in the order of the soma rites, 'modifying' (ūha) the base melodies for new texts.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

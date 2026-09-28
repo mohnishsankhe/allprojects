@@ -4,7 +4,7 @@
 
 **Family:** vedic
 **Alternate names:** kāmasūtra tradition
-**Founders:** `tch:vatsyayana-mallanaga`
+**Founders:** [Vātsyāyana Mallanāga](../teachers/vatsyayana-mallanaga.md)
 **Status:** absorbed
 
 The śāstra of the third aim of life (kāma), represented by Vātsyāyana Mallanāga's Kāmasūtra; recorded here only for its teaching on the three aims (trivarga) and its reported debate with Lokāyatikas.
@@ -15,10 +15,10 @@ The śāstra of the third aim of life (kāma), represented by Vātsyāyana Malla
 
 
 ## Texts
-`src:kamasutra`
+[Kāmasūtra of Vātsyāyana](../texts/kamasutra.md)
 
 ## Teachers
-_none recorded_
+[Vātsyāyana Mallanāga](../teachers/vatsyayana-mallanaga.md)
 
 ## Practices
 _none recorded_
@@ -27,9 +27,9 @@ _none recorded_
 _none recorded_
 
 ## Debates
-_none recorded_
+[Which aim of life is foremost — dharma, artha, kāma, their combination, or liberation?](../debates/which-purusartha-is-foremost.md)
 
 _Notes: New lineage id (not in the registry) created by U02 for the puruṣārtha scope; the orchestrator may reassign._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._

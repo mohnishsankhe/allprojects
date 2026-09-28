@@ -18,4 +18,4 @@ A short verse work on determining lunar days for fasting, carried under Madhva's
 _Notes: Several works share the title; disambiguated with '-madhva'._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

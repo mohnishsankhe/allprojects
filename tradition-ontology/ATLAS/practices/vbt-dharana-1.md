@@ -15,4 +15,4 @@ The supreme [Goddess], whose nature is emission (visarga), sounds forth as prā�
 _Notes: Verses 24 (KSTS 8 / GRETIL numbering). Commentators identify the two places as the heart and the dvādaśānta (Kaumudī: 'utpattau dvādaśānte dvitīye hṛdi'). First dhāraṇā in Ānandabhaṭṭa's count as well._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

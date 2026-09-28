@@ -34,4 +34,4 @@ The great commentator (Ṭīkācārya) of the tradition: author of the Nyāyasud
 _Notes: The location of his brindāvana (Malkheḍ, per the Uttarādi Maṭha; Nava Brindāvana, per another view) is disputed within the tradition — recorded at low confidence. The realization account is oral and hagiographic tradition; no textual source was checked for it._
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

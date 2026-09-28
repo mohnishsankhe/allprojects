@@ -1,4 +1,203 @@
-# Debates (0)
+# Debates (199)
 
+skeleton: 199
 
-
+- [After understanding the mahāvākya, is repeated meditative contemplation (prasaṅkhyāna) required for liberating knowledge?](prasankhyana.md) — `skeleton`
+- [Are all nouns derived from verbal roots?](do-all-nouns-derive-from-verbs.md) — `skeleton`
+- [Are all things momentary?](are-things-momentary.md) — `skeleton`
+- [Are māyā and avidyā the same entity?](maya-avidya-distinction.md) — `skeleton`
+- [Are Pūrva and Uttara Mīmāṃsā one continuous śāstra, so that inquiry into dharma must precede inquiry into Brahman?](purva-uttara-mimamsa-unity.md) — `skeleton`
+- [Are regional practices that the cultured disapprove of authoritative in their own regions?](authority-of-regional-custom.md) — `skeleton`
+- [Are some Purāṇas sāttvika and authoritative, others rājasa or tāmasa and to be avoided?](guna-ranking-of-puranas.md) — `skeleton`
+- [Are the dualist Siddhānta scriptures or the non-dual Bhairava tantras the higher revelation?](rank-of-siddhanta-and-bhairava-tantras.md) — `skeleton`
+- [Are the four orders of life a free choice, a fixed sequence, or is only the householder's order valid?](asrama-vikalpa-samuccaya-badha.md) — `skeleton`
+- [Are the four varṇas given by birth from the cosmic Person (RV 10.90.12)?](varna-origin-purusa-sukta.md) — `skeleton`
+- [Are the gods eligible for the knowledge of Brahman and for meditations such as the honey-meditation (BS 1.3.26–33)?](eligibility-of-gods.md) — `skeleton`
+- [Are the gods person-like in form (puruṣavidha) or not?](form-of-the-gods.md) — `skeleton`
+- [Are the instruments thirteen or eleven? (a debate among Sāṃkhya teachers)](number-of-instruments-samkhya.md) — `skeleton`
+- [Are the liberated graded in bliss, or equal (or one)?](gradation-in-liberation.md) — `skeleton`
+- [Are the powers (siddhi) arising in yoga signs of attainment or obstacles?](siddhis-sign-or-obstacle.md) — `skeleton`
+- [Are the puruṣas many, or is there one Puruṣa? (MBh 12.294–296, 12.338)](one-or-many-purusas-epic.md) — `skeleton`
+- [Are the rules of ritual purity and conventional conduct binding on the knower?](purity-impurity-kaula.md) — `skeleton`
+- [Are the scriptural passages Madhva quotes from works not otherwise known (e.g. 'Bhāllaveya śruti', 'Brahmatarka', 'Paramaśruti') authentic scripture?](madhva-sources-authenticity.md) — `skeleton`
+- [Are the sense and action capacities made of the elements, or products of ahaṃkāra?](are-the-senses-elemental.md) — `skeleton`
+- [Are the sixty-four (Kaula) tantras valid guides, or deceptive and non-Vedic?](authority-of-sixty-four-tantras.md) — `skeleton`
+- [Are the Tamil hymns of the Āḻvārs (above all the Tiruvāymoḻi) Veda, equal in authority to the Sanskrit Upaniṣads?](tamil-veda-status.md) — `skeleton`
+- [Are the Vedic gods embodied persons, or are they what the mantras name?](nature-of-vedic-deities.md) — `skeleton`
+- [Are the Āgamas and tantras authoritative — equal to, above, or outside the Veda?](agama-veda-authority.md) — `skeleton`
+- [Are the Śaiva (and Pāñcarātra) Āgamas equal in authority to the Veda?](authority-of-the-agamas.md) — `skeleton`
+- [Are there objects external to cognition?](external-objects.md) — `skeleton`
+- [Are there only momentary cognitions without an enduring subject, or is there one conscious knower - the Lord - whose powers of cognition, memory and exclusion make experience possible?](pratyabhijna-vs-buddhist-logicians.md) — `skeleton`
+- [Are things established by their own nature (svabhāva), or is everything relative and empty?](own-nature-of-things.md) — `skeleton`
+- [Are universals (jāti, sāmānya) real?](reality-of-universals.md) — `skeleton`
+- [At liberation, are the Lord's qualities transferred to, possessed by or produced in the soul - or is the soul's own Śiva-nature manifested?](liberated-soul-qualities.md) — `skeleton`
+- [Can a king be liberated while ruling — and may a woman renunciant test him? (MBh 12.308)](sulabha-janaka.md) — `skeleton`
+- [Can an unconscious pradhāna, without a conscious director, bring forth and order the world?](can-unconscious-pradhana-create.md) — `skeleton`
+- [Can any person be omniscient, in particular directly know dharma?](omniscience.md) — `skeleton`
+- [Can devotion to God be a full aesthetic rasa, or only a bhāva?](is-bhakti-a-rasa.md) — `skeleton`
+- [Can every soul eventually be liberated, or are some souls by nature never to be liberated?](can-every-soul-be-liberated.md) — `skeleton`
+- [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](jnana-karma-samuccaya.md) — `skeleton`
+- [Can one be liberated while still living in the body (jīvanmukti)?](is-jivanmukti-possible.md) — `skeleton`
+- [Can one object be known by more than one means of knowledge?](pramana-samplava.md) — `skeleton`
+- [Can the categories and means of knowledge be coherently defined?](definability-of-categories.md) — `skeleton`
+- [Can the Lord be only the efficient cause of the world, as the Māheśvaras teach? (Brahma Sūtra 2.2.37ff, paśupati-adhikaraṇa)](lord-only-efficient-cause.md) — `skeleton`
+- [Can the Veda be a means of knowledge about an already-existing thing (siddha), or only about what is to be done (sādhya / kārya)?](siddha-or-sadhya.md) — `skeleton`
+- [Can valid cognition, the means of knowledge and the categories be coherently defined (and so difference established)?](khandana-definability.md) — `skeleton`
+- [Did the Vīraśaiva/Liṅgāyata tradition begin with Basava and the śaraṇas of twelfth-century Kalyāṇa, or is it a beginningless Śaiva dharma renewed in every age by the five ācāryas?](virasaiva-origins.md) — `skeleton`
+- [Did Śrīkaṇṭha teach qualified non-dualism as final, or as a step toward Advaita?](srikantha-advaita-or-visistadvaita.md) — `skeleton`
+- [Do Brahma Sūtras 2.2.42–45 reject or uphold the Pāñcarātra?](pancaratra-brahma-sutra.md) — `skeleton`
+- [Do meritorious public works — building tanks and temples for the god — lead to Śiva, or only work offered as worship with the liṅga and knowledge?](allama-siddharama-works.md) — `skeleton`
+- [Do objects exist independently of the mind, or are they only constructions of cognition?](object-independent-of-mind.md) — `skeleton`
+- [Do obligatory (nitya) rites have a result, and why are they performed?](nitya-karma-result.md) — `skeleton`
+- [Do the Gauḍīyas belong to Madhva's lineage (Brahma-Mādhva sampradāya)?](gaudiya-sampradaya-affiliation.md) — `skeleton`
+- [Do the Vedic mantras have meaning, or are they effective sound only?](are-mantras-meaningful.md) — `skeleton`
+- [Do things possess a distinct causal power (śakti)?](sakti-causal-power.md) — `skeleton`
+- [Does a single, unconscious primal matter (pradhāna) exist as the material cause of the manifold world?](existence-of-pradhana.md) — `skeleton`
+- [Does a son own ancestral property from birth or only on the father's death?](inheritance-by-birth-or-death.md) — `skeleton`
+- [Does Brahman itself transform into the world, and if so does it change?](brahma-parinama-vada.md) — `skeleton`
+- [Does initiation (dīkṣā) itself liberate, or is knowledge the direct cause of liberation?](does-diksa-liberate.md) — `skeleton`
+- [Does killing enjoined as part of a Vedic rite incur demerit?](sacrificial-killing.md) — `skeleton`
+- [Does killing prescribed in Vedic sacrifice incur demerit?](does-sacrificial-killing-incur-demerit.md) — `skeleton`
+- [Does liberation contain bliss (and consciousness)?](bliss-in-liberation.md) — `skeleton`
+- [Does liṅga-initiation abolish caste and pollution distinctions among devotees?](virasaiva-caste-and-pollution.md) — `skeleton`
+- [Does RV 1.164.32 ('having many offspring he has entered Nirṛti') speak of repeated births?](rv-1-164-32-rebirth-reading.md) — `skeleton`
+- [Does scripture (śruti) teach the Sāṃkhya's unconscious pradhāna as the cause of the world?](is-pradhana-taught-in-sruti.md) — `skeleton`
+- [Does Sāṃkhya deny Īśvara, or only deny that an eternal creator is proved?](isvara-within-samkhya.md) — `skeleton`
+- [Does the funeral hymn enjoin the widow to rise to the living, or (by a variant reading) to enter the fire?](rv-10-18-7-widow-reading.md) — `skeleton`
+- [Does the hearing of the Upaniṣadic sentence itself produce immediate knowledge (so that hearing is the principal means), or does the mind perfected by contemplation produce it?](sravana-alone-liberates.md) — `skeleton`
+- [Does the liberated (who reached the Brahma-world by meditation) have a body and senses (BS 4.4.10–12)?](bodies-of-the-liberated.md) — `skeleton`
+- [Does the liberated self exist with Brahman's qualities or as pure consciousness only (BS 4.4.5–7)?](state-of-the-liberated-brahma-sutra.md) — `skeleton`
+- [Does the liberated soul become identical with Śiva, or only equal to Śiva (śivasamatva) while remaining distinct?](liberation-identity-or-equality-with-siva.md) — `skeleton`
+- [Does the Lord act independently of the karma of souls?](pasupata-isvara-karma.md) — `skeleton`
+- [Does the Lord relish (doṣa-bhogya) or overlook the faults of those who take refuge in him?](dosa-bhogya.md) — `skeleton`
+- [Does the mind contract and expand with the body, or is it all-pervading with only its activity contracting and expanding?](size-of-citta.md) — `skeleton`
+- [Does the world exist only while perceived (dṛṣṭi-sṛṣṭi), or is it created by Īśvara before and apart from individual perception (sṛṣṭi-dṛṣṭi)?](drsti-srsti-vada.md) — `skeleton`
+- [How are the means of knowledge themselves established?](establishment-of-pramanas.md) — `skeleton`
+- [How are the Vedic deities and stories to be interpreted — as natural powers, as persons of old narratives, or through the rite?](nirukta-schools-of-interpretation.md) — `skeleton`
+- [How does a sentence convey its meaning: by the connection of word-meanings already expressed (abhihitānvaya) or by words that express meanings already connected (anvitābhidhāna)?](sentence-meaning.md) — `skeleton`
+- [How does the one Brahman appear as many jīvas (and as Īśvara): by limitation, reflection or semblance?](how-the-one-appears-as-many.md) — `skeleton`
+- [How does the unchanging puruṣa 'know' the mind's activities — by a single reflection of consciousness in the buddhi, or by mutual reflection?](reflection-single-or-mutual.md) — `skeleton`
+- [How is a cognition (and its validity) known?](how-cognition-is-known.md) — `skeleton`
+- [How long is the road of the dead to Yama's city?](duration-of-the-road-to-yama.md) — `skeleton`
+- [How many gods are there — 3,339, thirty-three, three, or one?](how-many-gods.md) — `skeleton`
+- [How many members does a demonstration (inference for others) need?](members-of-inference.md) — `skeleton`
+- [How many principles (tattvas) are there?](number-of-tattvas.md) — `skeleton`
+- [How should the Saṃhitās be interpreted — by the rite, the gods, the self, history, or one God?](how-to-read-the-samhitas.md) — `skeleton`
+- [Is 'the one consisting of bliss' (ānandamaya, TU 2.5; BS 1.1.12) the supreme Brahman or a sheath?](is-anandamaya-brahman.md) — `skeleton`
+- [Is a cognition aware of itself?](self-awareness-of-cognition.md) — `skeleton`
+- [Is a whole (avayavin) something real over and above its parts?](whole-and-parts.md) — `skeleton`
+- [Is Advaita's avidyā — beginningless, indescribable, located in and concealing Brahman — tenable?](avidya-saptavidha-anupapatti.md) — `skeleton`
+- [Is Brahman (God) the material cause of the world, or only its efficient cause?](brahman-material-cause.md) — `skeleton`
+- [Is brahman the persons in the sun, moon and other phenomena, or the self into which the sleeper withdraws?](gargya-ajatasatru-debate.md) — `skeleton`
+- [Is consciousness a product of the combined elements of the body?](consciousness-from-elements.md) — `skeleton`
+- [Is devotion a means to liberation, or is love of God a goal beyond liberation?](prema-beyond-moksa.md) — `skeleton`
+- [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](bhakti-jnana-precedence.md) — `skeleton`
+- [Is everything that exists momentary?](momentariness.md) — `skeleton`
+- [Is ignorance (avidyā) a positive entity (bhāva-rūpa) that is the material cause of the world-appearance, or is it superimposition/non-apprehension itself?](bhavarupa-avidya.md) — `skeleton`
+- [Is inference a valid means of knowledge?](validity-of-inference.md) — `skeleton`
+- [Is kaivalya (the soul's isolated enjoyment of itself) a permanent state?](permanence-of-kaivalya.md) — `skeleton`
+- [Is knowledge alone sufficient for liberation, or must bodily yoga accompany it?](yoga-or-knowledge-for-liberation.md) — `skeleton`
+- [Is levirate (niyoga) permitted?](niyoga.md) — `skeleton`
+- [Is liberation only the cessation of suffering, or also the attainment of lordship?](duhkhanta-cessation-or-lordship.md) — `skeleton`
+- [Is liberation possible while living in the body?](jivanmukti.md) — `skeleton`
+- [Is liberation while living (jīvanmukti) possible, or only liberation at death?](jivanmukti-possible.md) — `skeleton`
+- [Is Madhva's interpretation of the Brahmasūtras (especially its opening adhikaraṇas) faithful to the sūtras and the Upaniṣads?](appayya-vijayindra-controversy.md) — `skeleton`
+- [Is release won by Śiva's grace and worship, or by the Jina's path of self-discipline? (the Tamil Śaiva–Jain contests)](tamil-saiva-and-jain-contests.md) — `skeleton`
+- [Is sound (the word) eternal?](eternality-of-sound.md) — `skeleton`
+- [Is Speech at the level of paśyantī (the grammarians' Word-Brahman) the ultimate reality?](pasyanti-brahman.md) — `skeleton`
+- [Is surrender (prapatti) a means (upāya) to liberation?](is-prapatti-an-upaya.md) — `skeleton`
+- [Is the Atimārga's liberation final, or a lower level beneath Śiva?](atimarga-liberation-rank.md) — `skeleton`
+- [Is the Bhāgavata's final purport non-dual knowledge or devotion?](bhagavata-purport-knowledge-or-devotion.md) — `skeleton`
+- [Is the conscious self one or many?](one-or-many-purusas.md) — `skeleton`
+- [Is the difference between Brahman and the soul due to adjuncts, natural, or inconceivable?](aupadhika-vs-svabhavika-bhedabheda.md) — `skeleton`
+- [Is the fourth Mahāpurāṇa the Śiva Purāṇa or the Vāyu Purāṇa?](siva-or-vayu-mahapurana.md) — `skeleton`
+- [Is the gopīs' (and Rādhā's) love for Kṛṣṇa paramour love (parakīyā) or wedded love (svakīyā) in truth?](svakiya-parakiya.md) — `skeleton`
+- [Is the individual self atomic or all-pervading?](atomic-or-pervasive-self.md) — `skeleton`
+- [Is the killing of animals in Vedic sacrifice dharma?](animal-sacrifice-epic.md) — `skeleton`
+- [Is the killing prescribed in Vedic ritual an injury (hiṃsā) that brings demerit?](vedic-ritual-killing-and-ahimsa.md) — `skeleton`
+- [Is the knowledge that liberates a knowledge arising from the scriptural sentence, or a sustained meditation (upāsana) that is bhakti?](is-liberating-knowledge-meditation.md) — `skeleton`
+- [Is the Kāpālika way (skull vow, insignia, liquor, consort, Bhairava rites) a path to liberation?](kapalika-path-validity.md) — `skeleton`
+- [Is the Liṅgāyata/Vīraśaiva tradition a religion distinct from 'Hinduism' and the Vedic fold, or a Śaiva sampradāya within it — and are 'Liṅgāyata' and 'Vīraśaiva' one tradition or two?](lingayata-hindu-identity.md) — `skeleton`
+- [Is the Lord's saving grace without any cause in the soul, or does it take the soul's surrender as its occasion?](nirhetuka-or-sahetuka-krpa.md) — `skeleton`
+- [Is the material world composed of eternal partless atoms?](atomism.md) — `skeleton`
+- [Is the mind (cognition) self-luminous, or is it seen by a distinct, unchanging seer?](is-mind-self-luminous.md) — `skeleton`
+- [Is the mind a series of momentary cognitions, or one enduring mind with many objects?](citta-momentary-or-enduring.md) — `skeleton`
+- [Is the outcome of life decided by fate (daiva) or by human effort (pauruṣa)?](daiva-or-paurusa.md) — `skeleton`
+- [Is the perfected, indestructible body the goal of yoga, or is it surpassed by the body dissolved in the liṅga (the void)?](allama-goraksa.md) — `skeleton`
+- [Is the Pāñcarātra a valid scripture, and does the Brahma Sūtra refute it?](validity-of-pancaratra.md) — `skeleton`
+- [Is the Pāśupata (and wider Atimārga) teaching within or outside the Veda?](pasupata-vedic-status.md) — `skeleton`
+- [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](renunciation-or-action-gita.md) — `skeleton`
+- [Is the root impurity (āṇava mala) a real substance removable only by ritual initiation, or is it ignorance - a contraction of consciousness - removed by knowledge?](mala-substance-or-ignorance.md) — `skeleton`
+- [Is the self known as an object (of the 'I'-cognition), or only as the subject of every cognition?](self-known-as-object.md) — `skeleton`
+- [Is the self the body (as seen in its reflection)?](virocana-body-as-self.md) — `skeleton`
+- [Is the ultimate an attributeless Brahman to be realised by 'that thou art', or the personal Bhagavān reached by devotion? (Caitanya against the Advaita renouncers)](gaudiya-critique-of-advaita.md) — `skeleton`
+- [Is the validity of a cognition intrinsic (svataḥ) or extrinsic (parataḥ)?](svatah-paratah-pramanya.md) — `skeleton`
+- [Is the Veda threefold (trayī), or is the Atharvaveda a Veda of equal (or higher) rank?](atharvaveda-status.md) — `skeleton`
+- [Is the Vrātya an exalted cosmic figure or an outsider to be brought into the Vedic fold?](vratya-status.md) — `skeleton`
+- [Is the world false (mithyā), and can the Advaita definitions of falsity withstand Vyāsatīrtha's critique? (The Nyāyāmṛta–Advaitasiddhi controversy)](nyayamrta-advaitasiddhi.md) — `skeleton`
+- [Is the Yoga smṛti refuted by the Vedānta ('etena yogaḥ pratyuktaḥ', Brahma Sūtra 2.1.3)?](vedanta-on-yoga-smrti.md) — `skeleton`
+- [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](sphota.md) — `skeleton`
+- [Is there a subtle body that transmigrates? (a debate among Sāṃkhya teachers)](is-there-a-subtle-body.md) — `skeleton`
+- [Is there another world, and is dharma to be followed for its sake? (Rāmāyaṇa 2.108–110)](jabali-rama.md) — `skeleton`
+- [Is there one jīva or are there many?](eka-jiva-aneka-jiva.md) — `skeleton`
+- [Is there one prakṛti for all puruṣas, or one for each? (a debate among Sāṃkhya teachers)](one-prakrti-or-many.md) — `skeleton`
+- [Is varṇa (and eligibility for austerity and teaching) fixed by birth, or made by conduct and qualities?](varna-by-birth-or-conduct-epic.md) — `skeleton`
+- [Is Viṣṇu or Śiva (or the Goddess) the supreme deity?](supremacy-visnu-or-siva.md) — `skeleton`
+- [Is worship of images and outer forms valid for one seeking liberation?](image-worship-and-inner-worship.md) — `skeleton`
+- [Is Īśvara to be admitted, and is devotion to him a means to liberation? (Yoga against nirīśvara Sāṃkhya)](yoga-samkhya-isvara.md) — `skeleton`
+- [Is Śiva the material cause of the world, or only its efficient cause?](is-siva-the-material-cause.md) — `skeleton`
+- [Is Śiva to be worshipped in temples and installed images (the fixed), or in the personal liṅga and the living devotee (the moving)?](virasaiva-sthavara-jangama.md) — `skeleton`
+- [May (or should) a widow follow her husband onto the pyre?](widow-anvarohana.md) — `skeleton`
+- [May a debater refute without holding a thesis of his own (vitaṇḍā)?](debate-without-thesis.md) — `skeleton`
+- [May one kill in battle as one's own dharma — and what of non-violence as the highest dharma?](violence-and-svadharma.md) — `skeleton`
+- [May one renounce directly, at any stage of life, or only after passing through the householder's duties?](when-to-renounce.md) — `skeleton`
+- [Must the surrendered keep the scriptural duties, and are deliberate offences after surrender to be expiated?](duties-after-prapatti.md) — `skeleton`
+- [Should the devotee say 'I am He' (so'ham) or 'I am your servant' (dāsō'ham)?](dasoham-soham.md) — `skeleton`
+- [Should the liberated renouncer act for the world's good — teach, take disciples, follow scriptural conduct?](lokasangraha-for-the-renouncer.md) — `skeleton`
+- [Should the renouncer keep outer marks — triple staff, topknot, sacred thread — or abandon them (one staff, or none)?](renunciant-marks-ekadanda-tridanda.md) — `skeleton`
+- [Should Yudhiṣṭhira renounce the kingdom for the forest, or rule? (MBh 12.7–36)](renounce-or-rule.md) — `skeleton`
+- [Sāṃkhya or Yoga — which is superior? (MBh 12.289)](samkhya-or-yoga-epic.md) — `skeleton`
+- [The rivalry of the priestly houses of Viśvāmitra and Vasiṣṭha](visvamitra-vasistha-rivalry.md) — `skeleton`
+- [To which tradition does the Tirukkuṟaḷ belong — Jain, Śaiva, Vaiṣṇava, Buddhist, or none?](affiliation-of-tirukkural.md) — `skeleton`
+- [Was being (sat) or non-being (asat) first, at the origin of the world?](being-or-non-being-first.md) — `skeleton`
+- [Was the world created, and does it undergo total dissolution?](creation-and-dissolution.md) — `skeleton`
+- [Was there being (sat) or non-being (asat) in the beginning?](sat-or-asat-in-the-beginning.md) — `skeleton`
+- [Were the hymns 'seen' by the seers or 'fashioned' by poets?](seen-or-made-hymns.md) — `skeleton`
+- [What appears in erroneous cognition? (theories of error)](khyativada.md) — `skeleton`
+- [What appears in perceptual error ('this is silver' seen in shell)?](akhyati-or-viparitakhyati.md) — `skeleton`
+- [What are the objects of the bliss (ānanda) and I-am-ness (asmitā) forms of samprajñāta samādhi, and who are the videhas and prakṛtilayas?](objects-of-samprajnata.md) — `skeleton`
+- [What authority do the Purāṇas have beside the Veda?](authority-of-the-puranas.md) — `skeleton`
+- [What authority do the Veda and the Āgamas have for Vīraśaivas?](virasaiva-veda-agama-authority.md) — `skeleton`
+- [What causes the owner–owned relation between puruṣa and prakṛti? (views recorded in the Sāṃkhya Sūtra)](cause-of-purusa-prakrti-relation.md) — `skeleton`
+- [What divides the northern (Vaṭakalai) and southern (Teṅkalai) schools of Śrīvaiṣṇavism — the 'eighteen differences' (aṣṭādaśa-bheda)?](vadakalai-tenkalai.md) — `skeleton`
+- [What does 'tat tvam asi' (Chāndogya Upaniṣad 6.8.7) teach — identity of soul and Brahman, or something else?](tat-tvam-asi.md) — `skeleton`
+- [What does a word mean: a real universal, or the exclusion of others (apoha)?](apoha.md) — `skeleton`
+- [What does the injunctive form (liṅ etc.) convey, and what prompts a person to act?](meaning-of-injunction.md) — `skeleton`
+- [What does Ṛgveda 9.83.1 ('pavitraṃ te vitataṃ brahmaṇas pate… ataptatanūr na tad āmo aśnute') enjoin?](rv-9-83-1-pavitra.md) — `skeleton`
+- [What happens in erroneous cognition (khyāti)?](theory-of-error.md) — `skeleton`
+- [What is liberation?](nature-of-liberation.md) — `skeleton`
+- [What is mastery of the senses (indriya-jaya)?](mastery-of-the-senses.md) — `skeleton`
+- [What is Rādhā's status — scriptural basis, relation to Kṛṣṇa, and place in worship?](status-of-radha.md) — `skeleton`
+- [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](gita-primary-teaching.md) — `skeleton`
+- [What is the relation of the individual self to Brahman, according to the teachers named in BS 1.4.20–22?](jiva-brahman-relation-brahma-sutra.md) — `skeleton`
+- [What is the self common to all men (vaiśvānara)?](vaisvanara-six-views.md) — `skeleton`
+- [What is Śrī's rank: all-pervading and of the Lord's rank (Īśvara-koṭi), or atomic and of the rank of souls (jīva-koṭi)? Is she a means or only the mediator?](status-of-sri.md) — `skeleton`
+- [What makes one a brāhmaṇa — birth, body, learning, action, or realization of the Self?](who-is-a-brahmana.md) — `skeleton`
+- [What moves events — fate, time, nature, the Lord, karma, or human effort?](fate-or-effort.md) — `skeleton`
+- [What occasions the descent of power (śaktipāta): the equality of karma, the maturing of impurity, or the Lord's free will alone?](cause-of-saktipata.md) — `skeleton`
+- [When a clay pot is baked, is the change of colour in the atoms or in the whole pot?](pilupaka-pitharapaka.md) — `skeleton`
+- [Where does ignorance (avidyā) reside — in the individual self (jīva) or in Brahman?](locus-of-avidya.md) — `skeleton`
+- [Where does the path of the gods lead: to the conditioned (kārya) Brahman or to the supreme Brahman (BS 4.3.7–16)?](destination-of-devayana.md) — `skeleton`
+- [Which 'Bhāgavata' is the Mahāpurāṇa of the lists - the Śrīmad (Viṣṇu) Bhāgavata or the Devī Bhāgavata?](which-bhagavata-is-the-mahapurana.md) — `skeleton`
+- [Which aim of life is foremost — dharma, artha, kāma, their combination, or liberation?](which-purusartha-is-foremost.md) — `skeleton`
+- [Which deity is the supreme Brahman — Śiva, Viṣṇu/Nārāyaṇa, or the Goddess?](which-deity-is-supreme.md) — `skeleton`
+- [Which system — the Vedic Vaikhānasa or the tantric Pāñcarātra — is the proper basis of Viṣṇu temple worship, and must a Vaiṣṇava receive the branding initiation?](vaikhanasa-pancaratra.md) — `skeleton`
+- [Who composed the Spandakārikā - Vasugupta or his disciple Kallaṭa?](spanda-karika-authorship.md) — `skeleton`
+- [Who is eligible for instruction in the inner perfected identity (siddha-praṇālī) and meditation on the eightfold play? (recent)](siddha-pranali-eligibility.md) — `skeleton` _(recent)_
+- [Who is eligible to renounce?](who-may-renounce.md) — `skeleton`
+- [Who is supreme in the epic — Nārāyaṇa/Viṣṇu or Śiva?](siva-or-visnu-epic.md) — `skeleton`
+- [Who is the most learned in brahman? — the theological contest at Janaka's court (BAU 3)](janaka-court-brahmodya.md) — `skeleton`
+- [Who may be initiated into the Atimārga observances: brahmin men only, or anyone?](atimarga-initiation-eligibility.md) — `skeleton`
+- [Who may learn and recite the Veda?](who-may-learn-the-veda.md) — `skeleton`
+- [Why did Viṣṇu appear as the Buddha (and how are the Buddhist and Jain teachings to be regarded)?](buddha-avatara-purpose.md) — `skeleton`
+- [Śiva or the Jina — the contest at Abalūr](ekanta-ramayya-jainas.md) — `skeleton`

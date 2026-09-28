@@ -11,4 +11,4 @@
 A Jaiminīya Sāmaveda list naming the seers (ṛṣi) of the sāman chants, so that each chant is sung with knowledge of its seer.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._

@@ -16,5 +16,17 @@ Yama instructs his messengers about whom to spare and whom to bring: the devotee
 **Editions / translations:** 
   - kind: original; name: Gītāsaṅgraha (Poona 1915) prints all three Yama Gītās; licence: digitization terms unknown
 
+## Teachings (1: skeleton 1)
+
+### 8 <a id="tea-yama-gita-narasimha-purana-8"></a>
+`skeleton` · confidence low · [AI-translated]
+
+Yama instructs his messengers to avoid the devotees of Viṣṇu and describes their marks; those who take refuge in Viṣṇu are beyond his punishment.
+
+_level: conventional · standpoint: divine · path: devotion · stage: all · types: death-dying_
+
+teachers: [Yama (Mṛtyu)](../teachers/yama.md)
+
+
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

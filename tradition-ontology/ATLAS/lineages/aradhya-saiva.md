@@ -18,6 +18,15 @@ A Telugu-speaking Vīraśaiva group, traditionally brāhmaṇa, tracing itself t
 - Look to Mallikārjuna Paṇḍitārādhya, contemporary of Basava, as their founding teacher.
 
 
+## The ultimate in this lineage
+`skeleton` · confidence low
+
+**Names:** Śiva (Mallikārjuna of Śrīśaila)
+**Descriptions:** Śiva worshipped exclusively in the liṅga, with Vedic rites retained
+**Relation to self:** Not recorded in this skeleton.
+**Relation to world:** Not recorded in this skeleton.
+**Caveat:** Skeleton only; the Ārādhya view needs sourcing from Telugu texts.
+
 ## Texts
 [Paṇḍitārādhya Caritra (Pālkuriki Sōmanātha)](../texts/panditaradhya-caritra.md), [Śivatattvasāra (Mallikārjuna Paṇḍitārādhya)](../texts/sivatattvasara-panditaradhya.md)
 
@@ -31,9 +40,9 @@ _none recorded_
 _none recorded_
 
 ## Debates
-_none recorded_
+[What authority do the Veda and the Āgamas have for Vīraśaivas?](../debates/virasaiva-veda-agama-authority.md)
 
 _Notes: Low confidence on current practice details; recorded as a side in dsp:virasaiva-veda-agama-authority._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._

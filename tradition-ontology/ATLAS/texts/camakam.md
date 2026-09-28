@@ -17,4 +17,4 @@ The Yajurveda litany that follows the Śatarudrīya: a long series of petitions 
 _Notes: Recited with the Śatarudrīya (Namakam-Camakam); ritually the formulas accompany the 'stream of wealth' (vasordhārā) offering of the agnicayana (moderate confidence)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

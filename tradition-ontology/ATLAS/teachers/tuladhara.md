@@ -9,4 +9,4 @@
 A merchant of Vārāṇasī who teaches the ascetic Jājali that the eternal dharma is friendliness and non-injury to all beings (12.253–256).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

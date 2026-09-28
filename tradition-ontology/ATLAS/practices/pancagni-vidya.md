@@ -1,0 +1,17 @@
+# Meditation on the five fires (pañcāgni-vidyā)
+
+`prc:pancagni-vidya` · `skeleton` · confidence high
+
+**Category:** meditation
+**Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
+**Taught in:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
+
+Know yonder world, the rain-god, this world, man and woman as five sacrificial fires into which faith, Soma, rain, food and semen are offered; knowing this (with faith and austerity) one goes by the path of the gods and is not stained even by association with those who fall.
+**Sources:** 
+  - [Chāndogya Upaniṣad](../texts/chandogya-upanisad.md) — ref: 5.3-10; rests_on: ["tea:chandogya-upanisad:5.4.1-5.8.2", "tea:chandogya-upanisad:5.10.1-2", "tea:chandogya-upanisad:5.10.9-10"]
+  - [Bṛhadāraṇyaka Upaniṣad](../texts/brhadaranyaka-upanisad.md) — ref: 6.2; rests_on: ["tea:brhadaranyaka-upanisad:6.2.9-14", "tea:brhadaranyaka-upanisad:6.2.15"]
+
+_Notes: Upaniṣadic 'vidyā' (meditation-knowledge); the Brahma Sūtra (3.3) discusses which vidyās are to be combined._
+
+---
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._

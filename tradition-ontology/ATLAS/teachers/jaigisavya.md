@@ -12,4 +12,4 @@ Ancient yoga master cited in the Yoga-bhāṣya: on mastery of the senses he hol
 _Notes: The Mahābhārata also tells of Jaigīṣavya (with Asita Devala) — from memory._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U05-gita-epic, skeleton:U09-samkhya. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U05-gita-epic, skeleton:U09-samkhya. Generated 2026-09-28 08:09 IST._

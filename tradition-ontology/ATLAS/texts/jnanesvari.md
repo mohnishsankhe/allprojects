@@ -6,7 +6,7 @@
 **Original title:** ज्ञानेश्वरी
 **Language:** Marathi
 **Family:** vedic
-**Lineages:** `lin:varkari`, `lin:natha`
+**Lineages:** `lin:varkari`, [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md)
 **Genre:** commentary (bhāṣya/ṭīkā)
 **Commentary on:** [Bhagavad Gītā](bhagavad-gita.md)
 **Authors:** 
@@ -19,4 +19,4 @@
 Jñāneśvar's Marathi verse commentary on the Gītā in ovī metre, composed at Nevāse; it expounds the Gītā for ordinary people with rich images, teaching knowledge that culminates in non-dual devotion, and presents Jñāneśvar's Nāth lineage (Ādinātha, Matsyendra, Gorakṣa, Gahinī, Nivṛtti).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

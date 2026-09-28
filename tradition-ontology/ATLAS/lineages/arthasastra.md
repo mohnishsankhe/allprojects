@@ -4,7 +4,7 @@
 
 **Family:** vedic
 **Alternate names:** daṇḍanīti, nītiśāstra
-**Founders:** `tch:kautilya`
+**Founders:** [Kauṭilya](../teachers/kautilya.md)
 **Status:** absorbed
 
 The śāstra of the second aim of life (artha): kingship, administration, law, diplomacy and wealth, represented by Kauṭilya's Arthaśāstra, which cites earlier schools (Mānavas, Bārhaspatyas, Auśanasas and others). Recorded here for its teaching on the aims of life and the order of the sciences.
@@ -15,10 +15,10 @@ The śāstra of the second aim of life (artha): kingship, administration, law, d
 
 
 ## Texts
-`src:arthasastra`
+[Kauṭilīya Arthaśāstra](../texts/arthasastra.md)
 
 ## Teachers
-_none recorded_
+[Kauṭilya](../teachers/kautilya.md)
 
 ## Practices
 _none recorded_
@@ -27,9 +27,9 @@ _none recorded_
 _none recorded_
 
 ## Debates
-_none recorded_
+[Which aim of life is foremost — dharma, artha, kāma, their combination, or liberation?](../debates/which-purusartha-is-foremost.md)
 
 _Notes: New lineage id (not in the registry) created by U02 for the puruṣārtha scope; the orchestrator may reassign._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._

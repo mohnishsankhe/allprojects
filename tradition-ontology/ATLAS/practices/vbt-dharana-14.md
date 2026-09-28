@@ -15,4 +15,4 @@ For one who meditates on the point (bindu) - shaped like a subtle fiery mark ari
 _Notes: Verses 37 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

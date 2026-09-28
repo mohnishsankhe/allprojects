@@ -15,4 +15,4 @@ When the four - mind, awareness (cetanā), power (śakti) and self (ātman) - ha
 _Notes: Verses 138 (KSTS 8 / GRETIL numbering). Kaumudī glosses: mind = manas, cetanā = intellect (buddhi), śakti = the breath-power, ātman = the limited individual._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

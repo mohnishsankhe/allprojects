@@ -5,7 +5,7 @@
 **Family:** vedic
 **Alternate names:** Vaikhānasāgama, the Vikhanas tradition, Vaikhānasa sampradāya
 **Founders:** [Vikhanas](../teachers/vikhanas.md)
-**Key teachers:** [Marīci](../teachers/marici.md), [Atri](../teachers/atri.md), [Kāśyapa](../teachers/kasyapa.md), [Bhṛgu](../teachers/bhrgu.md), [Śrīnivāsa Dīkṣita](../teachers/srinivasa-diksita.md)
+**Key teachers:** [Marīci](../teachers/marici.md), [Atri](../teachers/atri.md), [Kaśyapa](../teachers/kasyapa.md), [Bhṛgu Vāruṇi](../teachers/bhrgu.md), [Śrīnivāsa Dīkṣita](../teachers/srinivasa-diksita.md)
 **Regions:** Andhra Pradesh (Tirumala–Tirupati), Tamil Nadu, Karnataka
 **Dates:** Tradition's account: the Vaikhānasa Sūtra was composed by Vikhanas — identified with Brahmā born of Nārāyaṇa, or with Nārāyaṇa himself — and is the first of all sūtras; his disciples Bhṛgu, Atri, Marīci and Kāśyapa taught the rules of temple worship (Daśavidhahetunirūpaṇa; Kriyādhikāra 1.1); Scholarly account: the Vaikhānasa Sūtras belong to the late Taittirīya sūtra literature; the temple-worship saṃhitās are later; exact dates not established here; (confidence low)
 **Status:** living
@@ -36,18 +36,18 @@ The Vaikhānasas are a hereditary community of Vedic (Taittirīya) brahmins, fol
 [Bhṛgusaṃhitā (Vaikhānasa)](../texts/bhrgu-samhita-vaikhanasa.md), [Daśavidhahetunirūpaṇa](../texts/dasavidhahetunirupana.md), [Jñānakāṇḍa (of Kāśyapa)](../texts/kasyapa-jnanakanda.md), [Khilādhikāra](../texts/khiladhikara.md), [Kriyādhikāra](../texts/kriyadhikara.md), [Prakīrṇādhikāra](../texts/prakirnadhikara.md), [Samūrtārcanādhikaraṇa](../texts/samurtarcanadhikarana.md), [Tātparyacintāmaṇi](../texts/tatparyacintamani.md), [Vaikhānasa Dharmasūtra](../texts/vaikhanasa-dharmasutra.md), [Vaikhānasa Mantrapraśna](../texts/vaikhanasa-mantraprasna.md), [Vaikhānasa Smārtasūtra](../texts/vaikhanasa-smartasutra.md), [Vaikhānasa Śrautasūtra](../texts/vaikhanasa-srautasutra.md), [Vimānārcanakalpa](../texts/vimanarcanakalpa.md)
 
 ## Teachers
-[Atri](../teachers/atri.md), [Bhṛgu](../teachers/bhrgu.md), [Kāśyapa](../teachers/kasyapa.md), [Marīci](../teachers/marici.md), [Śrīnivāsa Dīkṣita](../teachers/srinivasa-diksita.md), [Vikhanas](../teachers/vikhanas.md)
+[Atri](../teachers/atri.md), [Bhṛgu Vāruṇi](../teachers/bhrgu.md), [Kaśyapa](../teachers/kasyapa.md), [Marīci](../teachers/marici.md), [Śrīnivāsa Dīkṣita](../teachers/srinivasa-diksita.md), [Vikhanas](../teachers/vikhanas.md)
 
 ## Practices
-_none recorded_
+[Fire offering (agnikārya, homa)](../practices/agnikarya.md), [Temple festival (mahotsava)](../practices/mahotsava.md), [Installation and consecration (pratiṣṭhā)](../practices/pratistha.md), [Ritual worship of the deity (pūjā, arcana)](../practices/puja.md), [Vaikhānasa image worship (samūrtārcana)](../practices/samurtarcana.md), [Temple-building rites from ploughing to installation (karṣaṇādi)](../practices/temple-building-rites.md), [Prenatal offering to Viṣṇu (viṣṇubali)](../practices/visnubali.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[Are the Āgamas and tantras authoritative — equal to, above, or outside the Veda?](../debates/agama-veda-authority.md), [Which system — the Vedic Vaikhānasa or the tantric Pāñcarātra — is the proper basis of Viṣṇu temple worship, and must a Vaiṣṇava receive the branding initiation?](../debates/vaikhanasa-pancaratra.md)
 
 _Notes: family 'vedic' is the project's A/B classification (Brahmanical vs śramaṇa); it is not a claim that this tradition treats the Veda as its final authority. The term 'vaikhānasa' in Dharmaśāstra also names a class of forest hermits following the 'Vaikhānasa śāstra' (see src:vaikhanasa-dharmasutra)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

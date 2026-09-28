@@ -14,4 +14,4 @@ Half-brother of Dhṛtarāṣṭra and Pāṇḍu, born of a śūdra woman; Dhar
 **Realization — the tradition's account:** An embodiment of Dharma; his death by yoga, entering Yudhiṣṭhira, is narrated at 15.33.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

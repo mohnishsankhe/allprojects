@@ -18,4 +18,4 @@ Akka Mahādēvi (Mahādēviyakka) of Uḍutaḍi, the woman saint who took Śiva
 _Notes: Whether she was married to Kauśika differs between sources; recorded as the sources' variance._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._

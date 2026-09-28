@@ -5,7 +5,7 @@
 **Original title:** सारार्थवर्षिणी
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:gaudiya-vaisnava`
+**Lineages:** [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md)
 **Genre:** commentary (bhāṣya/ṭīkā)
 **Commentary on:** [Bhagavad Gītā](bhagavad-gita.md)
 **Authors:** 
@@ -16,4 +16,4 @@
 A Gauḍīya Vaiṣṇava commentary on the Gītā reading it as culminating in pure devotion to Kṛṣṇa.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

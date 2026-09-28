@@ -9,4 +9,4 @@
 King of Mithilā who claims to be liberated while ruling and is tested by the ascetic Sulabhā (12.308).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

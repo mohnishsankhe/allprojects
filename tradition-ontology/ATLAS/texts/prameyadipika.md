@@ -19,4 +19,4 @@ Jayatīrtha's sub-commentary on Madhva's Gītābhāṣya.
   - kind: original; name: gita/gita JSON corpus (Sanskrit text, transliteration, several commentaries); licence: Unlicense; url: https://github.com/gita/gita
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

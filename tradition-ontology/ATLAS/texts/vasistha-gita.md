@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:advaita-vedanta`
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md)
 **Genre:** gītā
 **Part of:** [Mokṣopāya](moksopaya.md)
 **Location in parent:** Mokṣopāya 6.196-197 (colophons 'vasiṣṭhagītāsu' verified)
@@ -14,4 +14,4 @@
 Vasiṣṭha's instruction on repose in one's own nature (svabhāva-viśrānti) and in the Self.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

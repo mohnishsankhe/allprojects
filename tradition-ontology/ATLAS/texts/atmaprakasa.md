@@ -17,4 +17,4 @@
 _Notes: Named in the heading of the local e-text ('viṣṇucittyātmaprakāśākhyaśrīdharīya vyākhyādvayopetam')._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._

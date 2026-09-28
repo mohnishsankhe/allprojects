@@ -15,4 +15,4 @@ One should contemplate one's own 'city' (the body) as burnt by the fire of KÄlÄ
 _Notes: Verses 52 (KSTS 8 / GRETIL numbering). Commentators take 'the place of time' as the right big toe (interpretation)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

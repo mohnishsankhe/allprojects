@@ -14,7 +14,7 @@ Interpreters named in Yāska's Nirukta who read the hymns through old stories (i
 
 
 ## Texts
-`src:nirukta`
+[Nirukta](../texts/nirukta.md)
 
 ## Teachers
 _none recorded_
@@ -26,9 +26,9 @@ _none recorded_
 _none recorded_
 
 ## Debates
-_none recorded_
+[How are the Vedic deities and stories to be interpreted — as natural powers, as persons of old narratives, or through the rite?](../debates/nirukta-schools-of-interpretation.md)
 
 _Notes: Known only through the Nirukta, which reports their views alongside the Nairuktas' own._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._

@@ -245,7 +245,7 @@
   "account": "tradition",
   "from": null,
   "to": -3102,
-  "text": "composed by Vyāsa at the close of the Dvāpara yuga, before the Kali yuga (traditionally reckoned from 3102 BCE)",
+  "text": "composed by Vyāsa; the war and teaching at the junction of the Dvāpara and Kali ages",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -870,6 +870,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:vyasa",
+  "label": "Vyāsa (Kṛṣṇa Dvaipāyana)",
+  "account": "tradition",
+  "from": null,
+  "to": -3102,
+  "text": "end of the Dvāpara yuga (the Bhārata war; Kali yuga traditionally from 3102 BCE)",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:vaisampayana",
+  "label": "Vaiśampāyana",
+  "account": "tradition",
+  "from": null,
+  "to": -3102,
+  "text": "end of the Dvāpara yuga (the Bhārata war; Kali yuga traditionally from 3102 BCE)",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:krsna",
   "label": "Kṛṣṇa (Vāsudeva)",
   "account": "tradition",
@@ -902,26 +922,6 @@
  {
   "entity": "tch:dhrtarastra",
   "label": "Dhṛtarāṣṭra",
-  "account": "tradition",
-  "from": null,
-  "to": -3102,
-  "text": "end of the Dvāpara yuga (the Bhārata war; Kali yuga traditionally from 3102 BCE)",
-  "confidence": "high",
-  "level": "skeleton"
- },
- {
-  "entity": "tch:vyasa",
-  "label": "Vyāsa (Kṛṣṇa Dvaipāyana)",
-  "account": "tradition",
-  "from": null,
-  "to": -3102,
-  "text": "end of the Dvāpara yuga (the Bhārata war; Kali yuga traditionally from 3102 BCE)",
-  "confidence": "high",
-  "level": "skeleton"
- },
- {
-  "entity": "tch:vaisampayana",
-  "label": "Vaiśampāyana",
   "account": "tradition",
   "from": null,
   "to": -3102,
@@ -1170,6 +1170,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:chandogya-upanisad",
+  "label": "Chāndogya Upaniṣad",
+  "account": "scholarly",
+  "from": -700,
+  "to": -500,
+  "text": "c. 7th-6th c. BCE (rough estimate; with BAU the oldest)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:brhadaranyaka-upanisad",
+  "label": "Bṛhadāraṇyaka Upaniṣad",
+  "account": "scholarly",
+  "from": -700,
+  "to": -500,
+  "text": "c. 7th-6th c. BCE (rough estimate; widely held to be pre-Buddhist)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:nairukta",
   "label": "Nairukta school (the Vedic etymologists)",
   "account": "scholarly",
@@ -1180,12 +1200,132 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:upanisadic",
+  "label": "Upaniṣadic tradition (the teaching of the early Upaniṣads)",
+  "account": "scholarly",
+  "from": -700,
+  "to": 200,
+  "text": "earliest prose Upaniṣads (BAU, ChU) c. 7th-6th c. BCE; the verse Upaniṣads (Katha, Isa, Śvetāśvatara, Muṇḍaka) in the last centuries BCE; Māṇḍūkya and Maitrī around the turn of the era (rough consensus estimates, disputed)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nirukta",
+  "label": "Nirukta",
+  "account": "scholarly",
+  "from": -600,
+  "to": -400,
+  "text": "generally held to precede Pāṇini (mid-1st millennium BCE); exact date uncertain",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:taittiriya-upanisad",
+  "label": "Taittirīya Upaniṣad",
+  "account": "scholarly",
+  "from": -600,
+  "to": -400,
+  "text": "c. 6th-5th c. BCE (rough estimate)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:aitareya-upanisad",
+  "label": "Aitareya Upaniṣad",
+  "account": "scholarly",
+  "from": -600,
+  "to": -400,
+  "text": "c. 6th-5th c. BCE (rough estimate)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kausitaki-upanisad",
+  "label": "Kauṣītaki Upaniṣad",
+  "account": "scholarly",
+  "from": -600,
+  "to": -400,
+  "text": "c. 6th-5th c. BCE (rough estimate)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yaska",
+  "label": "Yāska",
+  "account": "scholarly",
+  "from": -600,
+  "to": -400,
+  "text": "c. 6th–5th century BCE (before Pāṇini, low confidence)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:vedanga",
   "label": "Vedāṅga (the six limbs of the Veda)",
   "account": "scholarly",
   "from": -600,
   "to": -100,
   "text": "Principal sūtra works c. 6th/5th c. BCE – 2nd c. BCE (Yāska, Pāṇini, Prātiśākhyas, Kalpasūtras, Kātyāyana, Patañjali), with commentaries continuing to the present",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:astadhyayi",
+  "label": "Aṣṭādhyāyī",
+  "account": "scholarly",
+  "from": -500,
+  "to": -350,
+  "text": "c. 5th–4th c. BCE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:vedanga-jyotisa",
+  "label": "Vedāṅga Jyotiṣa",
+  "account": "scholarly",
+  "from": -500,
+  "to": -300,
+  "text": "composition usually placed in the second half of the 1st millennium BCE; the solstitial position it states has been dated by some to the 2nd millennium BCE (disputed)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:asvalayana-grhyasutra",
+  "label": "Āśvalāyana Gṛhyasūtra",
+  "account": "scholarly",
+  "from": -500,
+  "to": -250,
+  "text": "c. 5th–3rd c. BCE (estimate)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:isa-upanisad",
+  "label": "Īśa Upaniṣad",
+  "account": "scholarly",
+  "from": -500,
+  "to": -200,
+  "text": "c. 5th-3rd c. BCE (rough estimate)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kena-upanisad",
+  "label": "Kena Upaniṣad",
+  "account": "scholarly",
+  "from": -500,
+  "to": -300,
+  "text": "c. 5th-4th c. BCE; the prose khandas possibly older than the verses (disputed)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:katha-upanisad",
+  "label": "Katha Upaniṣad",
+  "account": "scholarly",
+  "from": -500,
+  "to": -200,
+  "text": "c. 5th-3rd c. BCE (rough estimate)",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -1266,6 +1406,36 @@
   "from": -500,
   "to": 300,
   "text": "c. 5th c. BCE – 3rd c. CE, in stages; books 2–6 generally held older than books 1 and 7",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:panini",
+  "label": "Pāṇini",
+  "account": "scholarly",
+  "from": -500,
+  "to": -350,
+  "text": "c. 5th–4th c. BCE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mundaka-upanisad",
+  "label": "Muṇḍaka Upaniṣad",
+  "account": "scholarly",
+  "from": -400,
+  "to": 0,
+  "text": "c. 4th-1st c. BCE (rough estimate)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:svetasvatara-upanisad",
+  "label": "Śvetāśvatara Upaniṣad",
+  "account": "scholarly",
+  "from": -400,
+  "to": 0,
+  "text": "c. 4th-1st c. BCE (rough estimate)",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -1485,7 +1655,7 @@
   "account": "scholarly",
   "from": -400,
   "to": 400,
-  "text": "composed and expanded in stages, c. 4th c. BCE – 4th c. CE",
+  "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE; the Śāntiparvan's Mokṣadharma belongs to the later layers",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -1950,6 +2120,116 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:apastamba",
+  "label": "Āpastamba",
+  "account": "scholarly",
+  "from": -350,
+  "to": -200,
+  "text": "c. 3rd c. BCE for the Dharmasūtra (estimates vary)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kautilya",
+  "label": "Kauṭilya",
+  "account": "tradition",
+  "from": -330,
+  "to": -290,
+  "text": "minister of Candragupta Maurya (late 4th c. BCE)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:arthasastra",
+  "label": "Kauṭilīya Arthaśāstra",
+  "account": "tradition",
+  "from": -320,
+  "to": -300,
+  "text": "late 4th c. BCE (the Maurya founding)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:pingala-chandahsutra",
+  "label": "Chandaḥśāstra (Chandaḥsūtra) of Piṅgala",
+  "account": "scholarly",
+  "from": -300,
+  "to": 0,
+  "text": "last centuries BCE (disputed; some place it earlier)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:varttika-katyayana",
+  "label": "Vārttikas of Kātyāyana",
+  "account": "scholarly",
+  "from": -300,
+  "to": -200,
+  "text": "c. 3rd c. BCE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:apastamba-dharmasutra",
+  "label": "Āpastamba Dharmasūtra",
+  "account": "scholarly",
+  "from": -300,
+  "to": -200,
+  "text": "c. 3rd c. BCE (recent estimate; older estimates c. 450–350 BCE)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:prasna-upanisad",
+  "label": "Praśna Upaniṣad",
+  "account": "scholarly",
+  "from": -300,
+  "to": 0,
+  "text": "c. last centuries BCE (rough estimate)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mimamsa-sutra",
+  "label": "Mīmāṃsā Sūtra",
+  "account": "scholarly",
+  "from": -300,
+  "to": 100,
+  "text": "c. 3rd c. BCE – 1st c. CE (estimates vary widely)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:jaimini",
+  "label": "Jaimini",
+  "account": "scholarly",
+  "from": -300,
+  "to": 100,
+  "text": "the Mīmāṃsā Sūtra c. 3rd c. BCE – 1st c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:katyayana",
+  "label": "Kātyāyana",
+  "account": "scholarly",
+  "from": -300,
+  "to": -200,
+  "text": "c. 3rd c. BCE (the vārttikakāra)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:pingala",
+  "label": "Piṅgalā",
+  "account": "scholarly",
+  "from": -300,
+  "to": 0,
+  "text": "last centuries BCE (disputed)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:dharmasastra",
   "label": "Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)",
   "account": "scholarly",
@@ -1966,6 +2246,56 @@
   "from": -300,
   "to": null,
   "text": "proto-Sāṃkhya ideas in the Upaniṣads and the Mahābhārata (c. last centuries BCE – early centuries CE); classical Kārikā c. 350–450 CE; commentaries to c. 10th c.; revival 15th–16th c. (Sāṃkhya Sūtra, Aniruddha, Vijñānabhikṣu)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:mimamsa",
+  "label": "Mīmāṃsā (Pūrva Mīmāṃsā)",
+  "account": "scholarly",
+  "from": -300,
+  "to": null,
+  "text": "Mīmāṃsā Sūtra c. 3rd c. BCE – 1st c. CE (estimates vary widely); Śabara c. 3rd–5th c. CE; unbroken commentarial tradition to the present",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:gautama-dharmasutra",
+  "label": "Gautama Dharmasūtra",
+  "account": "scholarly",
+  "from": -200,
+  "to": -100,
+  "text": "c. 2nd c. BCE (recent estimate; older estimates c. 600–400 BCE)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:baudhayana-dharmasutra",
+  "label": "Baudhāyana Dharmasūtra",
+  "account": "scholarly",
+  "from": -200,
+  "to": 100,
+  "text": "core c. 2nd c. BCE, later books added",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:manusmrti",
+  "label": "Manusmṛti (Mānava Dharmaśāstra)",
+  "account": "scholarly",
+  "from": -200,
+  "to": 200,
+  "text": "c. 2nd c. BCE – 2nd c. CE (one recent estimate: 2nd c. CE)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:maitri-upanisad",
+  "label": "Maitrī Upaniṣad",
+  "account": "scholarly",
+  "from": -200,
+  "to": 300,
+  "text": "c. 2nd c. BCE - 3rd c. CE (rough estimate; composite)",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -1990,12 +2320,92 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:brahma-sutra",
+  "label": "Brahma Sūtra",
+  "account": "scholarly",
+  "from": -200,
+  "to": 450,
+  "text": "c. 2nd c. BCE – 5th c. CE; final redaction often placed c. 400–450 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:kanada",
   "label": "Kaṇāda",
   "account": "scholarly",
   "from": -200,
   "to": 100,
   "text": "the Vaiśeṣika Sūtra core is usually dated around the turn of the era (estimates vary widely)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:badarayana",
+  "label": "Bādarāyaṇa",
+  "account": "scholarly",
+  "from": -200,
+  "to": 450,
+  "text": "c. 2nd c. BCE – 5th c. CE (uncertain)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:vedanta",
+  "label": "Vedānta (Uttara Mīmāṃsā)",
+  "account": "scholarly",
+  "from": -200,
+  "to": 450,
+  "text": "Sūtras compiled between c. 2nd c. BCE and c. 5th c. CE (final redaction often placed c. 400–450 CE); the named commentarial schools from c. 8th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mahabhasya",
+  "label": "Vyākaraṇa-Mahābhāṣya",
+  "account": "scholarly",
+  "from": -180,
+  "to": -140,
+  "text": "c. mid-2nd c. BCE (the text refers to sacrificing for Puṣyamitra)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:patanjali-grammarian",
+  "label": "Patañjali (the grammarian)",
+  "account": "scholarly",
+  "from": -180,
+  "to": -140,
+  "text": "mid-2nd c. BCE (the Mahābhāṣya refers to sacrificing for Puṣyamitra)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:arthasastra",
+  "label": "Kauṭilīya Arthaśāstra",
+  "account": "scholarly",
+  "from": -150,
+  "to": 250,
+  "text": "redaction c. 1st–3rd c. CE on sources from c. 2nd c. BCE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:vasistha-dharmasutra",
+  "label": "Vasiṣṭha Dharmasūtra",
+  "account": "scholarly",
+  "from": -100,
+  "to": 100,
+  "text": "c. 1st c. BCE – 1st c. CE (estimate)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mandukya-upanisad",
+  "label": "Māṇḍūkya Upaniṣad",
+  "account": "scholarly",
+  "from": -100,
+  "to": 200,
+  "text": "c. 1st c. BCE - 2nd c. CE (rough estimate; among the latest of the principal Upaniṣads)",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -2030,6 +2440,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:tirukkural",
+  "label": "Tirukkuṟaḷ",
+  "account": "tradition",
+  "from": -31,
+  "to": null,
+  "text": "a Sangam-age work; the Tiruvaḷḷuvar era used in Tamil Nadu reckons from 31 BCE (fixed by Tamil scholars in 1921)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:tiruvalluvar",
+  "label": "Tiruvaḷḷuvar",
+  "account": "tradition",
+  "from": -31,
+  "to": null,
+  "text": "Sangam age; Tamil Nadu's Tiruvaḷḷuvar era begins 31 BCE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:harivamsa",
   "label": "Harivaṃśa",
   "account": "scholarly",
@@ -2060,12 +2490,52 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:pasupata-sutra",
+  "label": "Pāśupata Sūtra",
+  "account": "scholarly",
+  "from": 100,
+  "to": 500,
+  "text": "before Kauṇḍinya (4th–6th c.); often placed in the early centuries CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:gathasaptasati",
+  "label": "Gāthāsaptaśatī",
+  "account": "scholarly",
+  "from": 100,
+  "to": 700,
+  "text": "early centuries CE onward (layers of uncertain date)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:gautama-aksapada",
   "label": "Gautama Akṣapāda",
   "account": "scholarly",
   "from": 100,
   "to": 300,
   "text": "the Nyāya Sūtra is usually dated c. 2nd–3rd c. CE; nothing is known of its author(s)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:lakulisa",
+  "label": "Lakulīśa",
+  "account": "scholarly",
+  "from": 100,
+  "to": 200,
+  "text": "c. 2nd c. CE (reckoned back ten teacher-generations from the Mathurā pillar inscription of 380 CE); some scholars say 1st–2nd c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kusika",
+  "label": "Kuśika",
+  "account": "scholarly",
+  "from": 100,
+  "to": 250,
+  "text": "c. 2nd c. CE (ten generations before Uditācārya, 380 CE)",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -2100,12 +2570,52 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:yajnavalkyasmrti",
+  "label": "Yājñavalkyasmṛti",
+  "account": "scholarly",
+  "from": 200,
+  "to": 500,
+  "text": "c. 3rd–5th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kamasutra",
+  "label": "Kāmasūtra of Vātsyāyana",
+  "account": "scholarly",
+  "from": 200,
+  "to": 300,
+  "text": "c. 3rd c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:visnu-purana",
   "label": "Viṣṇu Purāṇa",
   "account": "scholarly",
   "from": 200,
   "to": 600,
   "text": "commonly placed in the first half of the 1st millennium CE (estimates vary widely)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sabara-bhasya",
+  "label": "Śābarabhāṣya",
+  "account": "scholarly",
+  "from": 200,
+  "to": 500,
+  "text": "c. 3rd–5th c. CE (estimates vary)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:sabara",
+  "label": "Śabarasvāmin",
+  "account": "scholarly",
+  "from": 200,
+  "to": 500,
+  "text": "c. 3rd–5th c. CE (estimates vary)",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -2150,6 +2660,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:brhaspatismrti",
+  "label": "Bṛhaspatismṛti",
+  "account": "scholarly",
+  "from": 300,
+  "to": 600,
+  "text": "c. 4th–6th c. CE (estimate)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:katyayanasmrti",
+  "label": "Kātyāyanasmṛti",
+  "account": "scholarly",
+  "from": 300,
+  "to": 700,
+  "text": "c. 4th–7th c. CE (estimate)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:vayu-purana",
   "label": "Vāyu Purāṇa",
   "account": "scholarly",
@@ -2170,6 +2700,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:pancarthabhasya",
+  "label": "Pañcārthabhāṣya",
+  "account": "scholarly",
+  "from": 300,
+  "to": 600,
+  "text": "c. 4th–6th c. CE (estimates vary)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:vindhyavasin",
   "label": "Vindhyavāsin",
   "account": "scholarly",
@@ -2177,6 +2717,16 @@
   "to": 500,
   "text": "c. 4th–5th c. CE (uncertain)",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kaundinya",
+  "label": "Kauṇḍinya",
+  "account": "scholarly",
+  "from": 300,
+  "to": 600,
+  "text": "c. 4th–6th c. CE",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -2240,6 +2790,36 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:mathura-pillar-inscription",
+  "label": "Mathurā pillar inscription of Candragupta II (Gupta year 61)",
+  "account": "scholarly",
+  "from": 380,
+  "to": 380,
+  "text": "380 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:uditacarya",
+  "label": "Uditācārya",
+  "account": "scholarly",
+  "from": 380,
+  "to": 380,
+  "text": "380 CE (Gupta year 61)",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:naradasmrti",
+  "label": "Nāradasmṛti",
+  "account": "scholarly",
+  "from": 400,
+  "to": 600,
+  "text": "c. 5th–6th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:devi-mahatmya",
   "label": "Devī Māhātmya",
   "account": "scholarly",
@@ -2270,6 +2850,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:tirumurukarruppatai",
+  "label": "Tirumurukāṟṟuppaṭai",
+  "account": "scholarly",
+  "from": 400,
+  "to": 650,
+  "text": "c. 5th–6th c. (later than most Sangam poems)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tirukkural",
+  "label": "Tirukkuṟaḷ",
+  "account": "scholarly",
+  "from": 400,
+  "to": 600,
+  "text": "c. 5th–6th c. CE (Zvelebil and others); proposals range from c. 300 BCE to the 6th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:vatsyayana",
   "label": "Vātsyāyana",
   "account": "scholarly",
@@ -2277,6 +2877,36 @@
   "to": 500,
   "text": "c. 5th c. CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:tiruvalluvar",
+  "label": "Tiruvaḷḷuvar",
+  "account": "scholarly",
+  "from": 400,
+  "to": 600,
+  "text": "c. 5th–6th c. CE (range proposed: 300 BCE–6th c. CE)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:sakta",
+  "label": "Śākta traditions",
+  "account": "scholarly",
+  "from": 400,
+  "to": null,
+  "text": "Śākta theology is first fully formulated in the Devī Māhātmya (c. 5th-6th c. CE); Śākta tantras from c. 7th-9th c. onward; the Devī Bhāgavata and the Śākta Upaniṣads are later (c. 11th-16th c.).",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:candra-vyakarana",
+  "label": "Cāndra-vyākaraṇa",
+  "account": "scholarly",
+  "from": 450,
+  "to": 650,
+  "text": "c. 5th–7th c. CE",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -2336,6 +2966,16 @@
   "from": 450,
   "to": 1200,
   "text": "earliest surviving scripture (core of the Niśvāsatattvasaṃhitā) c. 450–550 CE; most major scriptures c. 6th–10th c.; systematic exegesis 7th–12th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:saiva-siddhanta",
+  "label": "Śaiva Siddhānta",
+  "account": "scholarly",
+  "from": 450,
+  "to": null,
+  "text": "scriptures from c. 5th–7th c. CE (Niśvāsa earliest); exegetes from c. 675 CE (Sadyojyoti); Tamil systematization 12th–14th c.; living today",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -2400,6 +3040,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:nisvasamukha",
+  "label": "Niśvāsamukha",
+  "account": "scholarly",
+  "from": 500,
+  "to": 700,
+  "text": "c. 6th–7th c. CE (estimate)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:samkhya-karika-bhasya-gaudapada",
   "label": "Sāṃkhyakārikābhāṣya of Gauḍapāda",
   "account": "scholarly",
@@ -2430,6 +3080,46 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:mandukya-karika",
+  "label": "Māṇḍūkya Kārikā (Gauḍapāda Kārikā, Āgamaśāstra)",
+  "account": "scholarly",
+  "from": 500,
+  "to": 600,
+  "text": "c. 6th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tirumantiram",
+  "label": "Tirumantiram",
+  "account": "scholarly",
+  "from": 500,
+  "to": 1000,
+  "text": "disputed: proposals range from c. 5th to c. 10th c.; the 7th–8th c. is often given",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:arputat-tiruvantati",
+  "label": "Aṟputat Tiruvantāti",
+  "account": "scholarly",
+  "from": 500,
+  "to": 600,
+  "text": "c. 6th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:gaudapada",
+  "label": "Gauḍapāda",
+  "account": "scholarly",
+  "from": 500,
+  "to": 650,
+  "text": "c. 6th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:prasastapada",
   "label": "Praśastapāda",
   "account": "scholarly",
@@ -2450,12 +3140,62 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:tirumular",
+  "label": "Tirumūlar",
+  "account": "scholarly",
+  "from": 500,
+  "to": 1000,
+  "text": "disputed, c. 5th–10th c. (often 7th–8th)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:karaikkal-ammaiyar",
+  "label": "Kāraikkāl Ammaiyār",
+  "account": "scholarly",
+  "from": 500,
+  "to": 600,
+  "text": "c. 6th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:advaita-vedanta",
+  "label": "Advaita Vedānta",
+  "account": "scholarly",
+  "from": 500,
+  "to": null,
+  "text": "Gauḍapāda c. 6th c. CE; Śaṅkara c. 700–750 CE (Hacker, Nakamura; others to c. 800); continuous commentarial tradition to the present",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:bhedabheda",
+  "label": "Bhedābheda Vedānta (Bhāskara's school and the early difference-and-non-difference Vedāntins)",
+  "account": "scholarly",
+  "from": 500,
+  "to": 1600,
+  "text": "pre-Śaṅkara (Bhartṛprapañca) to 16th c. (Vijñānabhikṣu); Bhāskara c. 8th–9th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:lakula",
   "label": "Lākula",
   "account": "scholarly",
   "from": 500,
   "to": 1400,
   "text": "attested in Śaiva scriptures from c. 6th–7th c. (Niśvāsa corpus) and, as Kālāmukhas, in inscriptions c. 9th–14th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:kalikula",
+  "label": "Kālīkula (the Kālī lineages)",
+  "account": "scholarly",
+  "from": 500,
+  "to": 1800,
+  "text": "Kālī as a goddess in the Devī Māhātmya (c. 5th–6th c.); the Kashmirian Kālīkula scriptures (Jayadrathayāmala) c. 9th–10th c.; the eastern Kālī tantras mostly c. 14th–18th c.",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -2500,12 +3240,52 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:tirumurai",
+  "label": "Tirumuṟai",
+  "account": "scholarly",
+  "from": 550,
+  "to": 1150,
+  "text": "contents c. 6th–12th c.; compilation c. 10th–12th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:uddyotakara",
   "label": "Uddyotakara",
   "account": "scholarly",
   "from": 550,
   "to": 630,
   "text": "c. 6th – early 7th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kumarila",
+  "label": "Kumārila Bhaṭṭa",
+  "account": "scholarly",
+  "from": 550,
+  "to": 700,
+  "text": "c. late 6th – 7th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:bhatta-mimamsa",
+  "label": "Bhāṭṭa Mīmāṃsā",
+  "account": "scholarly",
+  "from": 550,
+  "to": null,
+  "text": "from Kumārila (c. 6th–7th c. CE) to the present; the dominant school of Mīmāṃsā",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:nayanmar",
+  "label": "The Nāyaṉmārs and the Tirumuṟai (Tamil Śaiva bhakti)",
+  "account": "scholarly",
+  "from": 550,
+  "to": 1150,
+  "text": "Kāraikkāl Ammaiyār c. 6th c.; Appar and Campantar 7th c.; Cuntarar 8th–9th c.; Māṇikkavācakar c. 9th c.; canon compiled c. 10th–12th c.",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -2520,12 +3300,42 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:appar",
+  "label": "Appar (Tirunāvukkaracar)",
+  "account": "scholarly",
+  "from": 580,
+  "to": 660,
+  "text": "7th c.; contemporary of the Pallava Mahendravarman I (r. c. 600–630)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:rgveda-bhasya-skandasvamin",
   "label": "Skandasvāmin's commentary on the Ṛgveda",
   "account": "scholarly",
   "from": 600,
   "to": 700,
   "text": "c. 7th century CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kasikavrtti",
+  "label": "Kāśikāvṛtti",
+  "account": "scholarly",
+  "from": 600,
+  "to": 700,
+  "text": "c. 7th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:visnusmrti",
+  "label": "Viṣṇusmṛti (Vaiṣṇava Dharmaśāstra)",
+  "account": "scholarly",
+  "from": 600,
+  "to": 800,
+  "text": "c. 7th c. CE in its present form (with an older core)",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -2550,12 +3360,162 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:vedanta-parijata-saurabha",
+  "label": "Vedāntapārijātasaurabha",
+  "account": "scholarly",
+  "from": 600,
+  "to": 1300,
+  "text": "7th–13th c. CE (disputed)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mattavilasa-prahasana",
+  "label": "Mattavilāsa-prahasana",
+  "account": "scholarly",
+  "from": 600,
+  "to": 630,
+  "text": "early 7th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tevaram",
+  "label": "Tēvāram",
+  "account": "scholarly",
+  "from": 600,
+  "to": 850,
+  "text": "7th–9th c. (Appar and Campantar 7th c.; Cuntarar 8th–early 9th c.)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:skandasvamin",
+  "label": "Skandasvāmin",
+  "account": "scholarly",
+  "from": 600,
+  "to": 700,
+  "text": "c. 7th century CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:jayaditya",
+  "label": "Jayāditya",
+  "account": "scholarly",
+  "from": 600,
+  "to": 662,
+  "text": "7th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:candrananda",
   "label": "Candrānanda",
   "account": "scholarly",
   "from": 600,
   "to": 1000,
   "text": "uncertain; estimates c. 7th–10th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:prabhakara",
+  "label": "Prabhākara Miśra",
+  "account": "scholarly",
+  "from": 600,
+  "to": 750,
+  "text": "c. 7th c. CE; relation to Kumārila uncertain",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:nimbarka",
+  "label": "Nimbārka (Nimbāditya, Niyamānanda)",
+  "account": "scholarly",
+  "from": 600,
+  "to": 1300,
+  "text": "variously 7th–13th c. CE; many place him c. 12th–13th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:brhaspati-saiddhantika",
+  "label": "Bṛhaspati (Saiddhāntika)",
+  "account": "scholarly",
+  "from": 600,
+  "to": 725,
+  "text": "c. 7th c. or earlier",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:prabhakara-mimamsa",
+  "label": "Prābhākara Mīmāṃsā",
+  "account": "scholarly",
+  "from": 600,
+  "to": 1600,
+  "text": "Prabhākara c. 7th c. CE (relation to Kumārila disputed); independent Prābhākara works continue to c. 16th c. (Rāmānujācārya's Tantrarahasya)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:harsacarita",
+  "label": "Harṣacarita",
+  "account": "scholarly",
+  "from": 620,
+  "to": 680,
+  "text": "7th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:campantar",
+  "label": "Tiruñāṉacampantar",
+  "account": "scholarly",
+  "from": 620,
+  "to": 660,
+  "text": "7th c.; contemporary of Appar, the Pāṇṭiya Neṭumāṟaṉ and Ciṟuttoṇṭar (Vātāpi, 642)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:siruttontar",
+  "label": "Ciṟuttoṇṭa Nāyaṉār",
+  "account": "scholarly",
+  "from": 620,
+  "to": 680,
+  "text": "mid-7th c. (Vātāpi taken 642)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:da-tang-xiyu-ji",
+  "label": "Da Tang Xiyu Ji (Records of the Western Regions of the Great Tang)",
+  "account": "scholarly",
+  "from": 646,
+  "to": 646,
+  "text": "646 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:mandana-misra",
+  "label": "Maṇḍana Miśra",
+  "account": "scholarly",
+  "from": 650,
+  "to": 750,
+  "text": "c. 7th–8th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:ugrajyoti",
+  "label": "Ugrajyoti",
+  "account": "scholarly",
+  "from": 650,
+  "to": 700,
+  "text": "7th c. (by relation to Sadyojyoti)",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -2570,12 +3530,82 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:naresvarapariksa",
+  "label": "Nareśvaraparīkṣā",
+  "account": "scholarly",
+  "from": 675,
+  "to": 725,
+  "text": "c. 675–725 CE (Sanderson); older estimates 8th–9th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:moksakarika",
+  "label": "Mokṣakārikā",
+  "account": "scholarly",
+  "from": 675,
+  "to": 725,
+  "text": "c. 675–725 CE (Sanderson); older estimates 8th–9th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:paramoksanirasakarika",
+  "label": "Paramokṣanirāsakārikā",
+  "account": "scholarly",
+  "from": 675,
+  "to": 725,
+  "text": "c. 675–725 CE (Sanderson); older estimates 8th–9th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tattvasangraha-sadyojyoti",
+  "label": "Tattvasaṅgraha (of Sadyojyoti)",
+  "account": "scholarly",
+  "from": 675,
+  "to": 725,
+  "text": "c. 675–725 CE (Sanderson); older estimates 8th–9th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tattvatrayanirnaya",
+  "label": "Tattvatrayanirṇaya",
+  "account": "scholarly",
+  "from": 675,
+  "to": 725,
+  "text": "c. 675–725 CE (Sanderson); older estimates 8th–9th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:bhogakarika",
+  "label": "Bhogakārikā",
+  "account": "scholarly",
+  "from": 675,
+  "to": 725,
+  "text": "c. 675–725 CE (Sanderson); older estimates 8th–9th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:sadyojyoti",
   "label": "Sadyojyoti",
   "account": "scholarly",
   "from": 675,
   "to": 725,
-  "text": "c. 675–725 CE (A. Sanderson)",
+  "text": "c. 675–725 CE (Sanderson)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:brahmasiddhi",
+  "label": "Brahmasiddhi",
+  "account": "scholarly",
+  "from": 680,
+  "to": 740,
+  "text": "late 7th – early 8th c. CE",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -2610,6 +3640,116 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:brahma-sutra-bhasya-sankara",
+  "label": "Brahmasūtrabhāṣya of Śaṅkara (Śārīrakamīmāṃsābhāṣya)",
+  "account": "scholarly",
+  "from": 700,
+  "to": 800,
+  "text": "c. 700–750 CE (with Śaṅkara)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:naiskarmyasiddhi",
+  "label": "Naiṣkarmyasiddhi",
+  "account": "scholarly",
+  "from": 700,
+  "to": 800,
+  "text": "8th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:brhadaranyaka-bhasya-bhartrprapanca",
+  "label": "Bhartṛprapañca's commentary on the Bṛhadāraṇyaka Upaniṣad (lost)",
+  "account": "scholarly",
+  "from": null,
+  "to": 700,
+  "text": "before Śaṅkara (c. 6th–7th c. CE or earlier)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:malatimadhava",
+  "label": "Mālatīmādhava",
+  "account": "scholarly",
+  "from": 700,
+  "to": 750,
+  "text": "early 8th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:astaprakarana",
+  "label": "Aṣṭaprakaraṇa",
+  "account": "scholarly",
+  "from": 700,
+  "to": 1160,
+  "text": "collection of works of c. 700–1050; commentaries 10th–12th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:sankara",
+  "label": "Śaṅkara (Ādi Śaṅkarācārya)",
+  "account": "scholarly",
+  "from": 700,
+  "to": 800,
+  "text": "c. 700–750 CE (Hacker, Nakamura); other scholars up to c. 800",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:umbeka",
+  "label": "Umbeka",
+  "account": "scholarly",
+  "from": 700,
+  "to": 800,
+  "text": "c. 8th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:salikanatha",
+  "label": "Śālikanātha Miśra",
+  "account": "scholarly",
+  "from": 700,
+  "to": 900,
+  "text": "c. 8th–9th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:bhartrprapanca",
+  "label": "Bhartṛprapañca",
+  "account": "scholarly",
+  "from": null,
+  "to": 700,
+  "text": "before Śaṅkara (6th–7th c. CE or earlier)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:padmapada",
+  "label": "Padmapāda",
+  "account": "scholarly",
+  "from": 700,
+  "to": 800,
+  "text": "8th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:suresvara",
+  "label": "Sureśvara",
+  "account": "scholarly",
+  "from": 700,
+  "to": 800,
+  "text": "8th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:pancaratra",
   "label": "Pāñcarātra",
   "account": "scholarly",
@@ -2640,6 +3780,36 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:brahma-sutra-bhasya-bhaskara",
+  "label": "Brahmasūtrabhāṣya of Bhāskara (Bhāskarabhāṣya)",
+  "account": "scholarly",
+  "from": 750,
+  "to": 900,
+  "text": "c. 8th–9th c. CE (after Śaṅkara, before Vācaspati who answers him)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:bhaskara",
+  "label": "Bhāskara (Bhaṭṭa Bhāskara, the Vedāntin)",
+  "account": "scholarly",
+  "from": 750,
+  "to": 900,
+  "text": "c. 8th–9th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:cuntarar",
+  "label": "Cuntaramūrtti (Cuntarar)",
+  "account": "scholarly",
+  "from": 750,
+  "to": 850,
+  "text": "8th–early 9th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:gita-bhasya-sankara",
   "label": "Gītābhāṣya of Śaṅkara",
   "account": "tradition",
@@ -2650,12 +3820,42 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:sankara",
+  "label": "Śaṅkara (Ādi Śaṅkarācārya)",
+  "account": "tradition",
+  "from": 788,
+  "to": 820,
+  "text": "788–820 CE in the commonest traditional reckoning; 509–477 BCE in the Kāñcī and Dvārakā maṭha reckonings",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:hiranyadama",
   "label": "Hiraṇyadāma",
   "account": "scholarly",
   "from": 790,
   "to": 850,
   "text": "early 9th c. (as narrated in an inscription of 1052 CE)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sakatayana-sabdanusasana",
+  "label": "Śākaṭāyana Śabdānuśāsana (of Pālyakīrti)",
+  "account": "scholarly",
+  "from": 800,
+  "to": 900,
+  "text": "9th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:balakrida",
+  "label": "Bālakrīḍā of Viśvarūpa",
+  "account": "scholarly",
+  "from": 800,
+  "to": 900,
+  "text": "c. 9th c. CE",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -2810,6 +4010,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:tiruvacakam",
+  "label": "Tiruvācakam",
+  "account": "scholarly",
+  "from": 800,
+  "to": 900,
+  "text": "c. 9th c. (majority view; some say 10th)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:visvarupa",
+  "label": "Viśvarūpa",
+  "account": "scholarly",
+  "from": 800,
+  "to": 900,
+  "text": "c. 9th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:trilocana",
   "label": "Trilocana",
   "account": "scholarly",
@@ -2817,6 +4037,16 @@
   "to": 980,
   "text": "9th–10th c. CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:manikkavacakar",
+  "label": "Māṇikkavācakar",
+  "account": "scholarly",
+  "from": 800,
+  "to": 900,
+  "text": "c. 9th c.",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -2837,6 +4067,26 @@
   "to": 1400,
   "text": "c. 9th–14th c.; most inscriptions 11th–13th c.",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:kaula",
+  "label": "Kaula (the Kula tradition)",
+  "account": "scholarly",
+  "from": 800,
+  "to": 1400,
+  "text": "Kaula scriptures from c. 9th–10th c. (Kaulajñānanirṇaya; the Kula stratum of the Trika); the Kulārṇava is usually placed c. 11th–14th c. (Muktabodha catalogue: 'post-1100')",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:nathamuni",
+  "label": "Nāthamuni",
+  "account": "tradition",
+  "from": 824,
+  "to": 924,
+  "text": "824–924 CE in one commonly cited traditional reckoning; hagiographies give an extremely long life",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -2870,12 +4120,32 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:bhamati",
+  "label": "Bhāmatī",
+  "account": "scholarly",
+  "from": 840,
+  "to": 980,
+  "text": "9th or 10th c. CE (depending on reading the date of his Nyāyasūcīnibandha, 898, as Vikrama = 841 CE or Śaka = 976 CE)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:vacaspati-misra",
   "label": "Vācaspati Miśra",
   "account": "scholarly",
   "from": 840,
   "to": 980,
   "text": "9th or 10th c. CE (Nyāyasūcīnibandha dated 898 of an era read as Vikrama = 841 CE or Śaka = 976 CE)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:bhamati",
+  "label": "Bhāmatī school (Bhāmatī-prasthāna)",
+  "account": "scholarly",
+  "from": 840,
+  "to": 1600,
+  "text": "From Vācaspati Miśra (9th or 10th c.) through Amalānanda (13th c.) and Appayya Dīkṣita (16th c.)",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -2896,6 +4166,16 @@
   "from": 841,
   "to": 976,
   "text": "841 CE (if Vikrama era) or 976 CE (if Śaka era)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:manubhasya-medhatithi",
+  "label": "Manubhāṣya of Medhātithi",
+  "account": "scholarly",
+  "from": 850,
+  "to": 1000,
+  "text": "c. 9th–10th c. CE",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -2930,6 +4210,36 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:ganakarika",
+  "label": "Gaṇakārikā",
+  "account": "scholarly",
+  "from": 850,
+  "to": 1000,
+  "text": "c. 10th c. or earlier (depends on authorship)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:ratnatika",
+  "label": "Ratnaṭīkā",
+  "account": "scholarly",
+  "from": 850,
+  "to": 1000,
+  "text": "c. 10th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tiruvicaippa",
+  "label": "Tiruvicaippā",
+  "account": "scholarly",
+  "from": 850,
+  "to": 1050,
+  "text": "c. 9th–11th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:spanda-karika",
   "label": "Spandakārikā",
   "account": "scholarly",
@@ -2937,6 +4247,16 @@
   "to": 900,
   "text": "c. 850-900 CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:medhatithi",
+  "label": "Medhātithi",
+  "account": "scholarly",
+  "from": 850,
+  "to": 1000,
+  "text": "c. 9th–10th c. CE",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -2966,6 +4286,16 @@
   "from": 850,
   "to": 900,
   "text": "fl. under King Avantivarman (855-883 CE) according to the Rājataraṅgiṇī (5.66)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:matsyendranatha",
+  "label": "Matsyendranātha",
+  "account": "scholarly",
+  "from": 850,
+  "to": 1000,
+  "text": "c. 9th–10th c. (before Abhinavagupta, c. 1000)",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -3100,6 +4430,66 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:samksepa-sariraka",
+  "label": "Saṃkṣepaśārīraka",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1050,
+  "text": "c. 10th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:istasiddhi",
+  "label": "Iṣṭasiddhi",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1050,
+  "text": "c. 10th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nyayatattva",
+  "label": "Nyāyatattva",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1000,
+  "text": "c. 10th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:yogarahasya-nathamuni",
+  "label": "Yogarahasya (of Nāthamuni)",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1000,
+  "text": "c. 10th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:purusanirnaya",
+  "label": "Puruṣanirṇaya",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1000,
+  "text": "c. 10th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:manakkutavar-urai",
+  "label": "Maṇakkuṭavar's commentary on the Tirukkuṟaḷ",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1050,
+  "text": "c. 10th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:sivadrsti",
   "label": "Śivadṛṣṭi",
   "account": "scholarly",
@@ -3110,13 +4500,73 @@
   "level": "skeleton"
  },
  {
-  "entity": "tch:narayanakantha",
-  "label": "Bhaṭṭa Nārāyaṇakaṇṭha",
+  "entity": "src:kaulajnananirnaya",
+  "label": "Kaulajñānanirṇaya",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1100,
+  "text": "c. 9th–11th c. (manuscript c. 11th c. per its editor)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:koyil-nanmanimalai",
+  "label": "Kōyil nāṉmaṇimālai (Paṭṭiṉattup Piḷḷaiyār)",
   "account": "scholarly",
   "from": 900,
   "to": 1000,
-  "text": "10th c.",
-  "confidence": "moderate",
+  "text": "c. 10th c. (as part of the eleventh Tirumuṟai)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tirukkalumala-mummanikkovai",
+  "label": "Tirukkaḻumala mummaṇikkōvai (Paṭṭiṉattup Piḷḷaiyār)",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1000,
+  "text": "c. 10th c. (as part of the eleventh Tirumuṟai)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tiruvitaimarutur-mummanikkovai",
+  "label": "Tiruviṭaimarutūr mummaṇikkōvai (Paṭṭiṉattup Piḷḷaiyār)",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1000,
+  "text": "c. 10th c. (as part of the eleventh Tirumuṟai)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tiruvekampamutaiyar-tiruvantati",
+  "label": "Tiruvēkampamuṭaiyār tiruvantāti (Paṭṭiṉattup Piḷḷaiyār)",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1000,
+  "text": "c. 10th c. (as part of the eleventh Tirumuṟai)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tiruvorriyur-orupa-orupahtu",
+  "label": "Tiruvoṟṟiyūr orupā orupahtu (Paṭṭiṉattup Piḷḷaiyār)",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1000,
+  "text": "c. 10th c. (as part of the eleventh Tirumuṟai)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:venkatamadhava",
+  "label": "Veṅkaṭamādhava",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1200,
+  "text": "c. 10th–12th century CE",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -3140,6 +4590,46 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:sarvajnatman",
+  "label": "Sarvajñātman",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1050,
+  "text": "c. 10th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:vimuktatman",
+  "label": "Vimuktātman",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1050,
+  "text": "c. 10th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:nathamuni",
+  "label": "Nāthamuni",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1000,
+  "text": "c. 10th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:manakkutavar",
+  "label": "Maṇakkuṭavar",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1050,
+  "text": "c. 10th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:somananda",
   "label": "Somānanda",
   "account": "scholarly",
@@ -3147,6 +4637,16 @@
   "to": 950,
   "text": "c. 900-950 CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:pattinattar",
+  "label": "Paṭṭiṉattār (Tiruveṇkāṭar)",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1700,
+  "text": "the Siddhar songs c. 14th–17th c.; Paṭṭiṉattup Piḷḷaiyār c. 10th c.",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -3160,6 +4660,66 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:natha",
+  "label": "Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)",
+  "account": "scholarly",
+  "from": 900,
+  "to": null,
+  "text": "Matsyendra c. 9th–10th c. (honoured by Abhinavagupta, Tantrāloka 1.7); Gorakṣa c. 11th–13th c.; the order with its twelve panths is consolidated later (c. 15th–18th c.)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:yogini-kaula",
+  "label": "Yoginī Kaula (Yoginīkaula) of Matsyendra",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1100,
+  "text": "the oldest Kaulajñānanirṇaya manuscript (Nepal) was assigned by its editor to c. the 11th c.; the teaching is usually placed c. 9th–11th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:tamil-siddha",
+  "label": "The Tamil Siddhars (cittar)",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1800,
+  "text": "named authors and texts c. 10th–18th c.; most of the song corpus is usually placed after c. 1400, the medical-alchemical corpus later still",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:srividya",
+  "label": "Śrīvidyā",
+  "account": "scholarly",
+  "from": 900,
+  "to": null,
+  "text": "The root tantra (Vāmakeśvarīmata / Nityāṣoḍaśikārṇava) is usually placed c. 10th-11th c.; Kashmiri exegesis (Jayaratha) 12th-13th c.; South Indian systematization from c. 13th-14th c.; Bhāskararāya in the 18th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:kubjika",
+  "label": "Kubjikā tradition (Paścimāmnāya, the 'Western Transmission')",
+  "account": "scholarly",
+  "from": 900,
+  "to": null,
+  "text": "Kubjikāmata perhaps c. 10th c. or earlier; the Kubjikā cult survives in Nepal among Newar tantric priests",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:bengal-assam-sakta",
+  "label": "Bengali and Assamese Śākta tantra",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1900,
+  "text": "Kālikā Purāṇa c. 10th–11th c.; Yoginī and Kāmākhyā Tantras c. 16th–17th c.; Kṛṣṇānanda c. late 16th–17th c.; the Śākta padāvalī 18th–19th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:gitarthasangraha-yamuna",
   "label": "Gītārthasaṅgraha of Yāmuna",
   "account": "tradition",
@@ -3167,6 +4727,56 @@
   "to": 1041,
   "text": "Yāmuna, 916–1041 CE (traditional)",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:siddhitraya",
+  "label": "Siddhitraya",
+  "account": "tradition",
+  "from": 916,
+  "to": 1041,
+  "text": "Yāmuna, 916–1041 CE in one traditional reckoning",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:stotraratna",
+  "label": "Stotraratna",
+  "account": "tradition",
+  "from": 916,
+  "to": 1041,
+  "text": "Yāmuna, 916–1041 CE in one traditional reckoning",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:catuhsloki",
+  "label": "Catuḥślokī",
+  "account": "tradition",
+  "from": 916,
+  "to": 1041,
+  "text": "Yāmuna, 916–1041 CE in one traditional reckoning",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mahapurusanirnaya",
+  "label": "Mahāpuruṣanirṇaya",
+  "account": "tradition",
+  "from": 916,
+  "to": 1041,
+  "text": "Yāmuna, 916–1041 CE in one traditional reckoning",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yamuna",
+  "label": "Yāmunācārya",
+  "account": "tradition",
+  "from": 916,
+  "to": 1041,
+  "text": "916–1041 CE in one traditional reckoning",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -3186,6 +4796,16 @@
   "from": 925,
   "to": 975,
   "text": "c. 925-975 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:narayanakantha",
+  "label": "Bhaṭṭa Nārāyaṇakaṇṭha",
+  "account": "scholarly",
+  "from": 925,
+  "to": 975,
+  "text": "10th c. (c. 925–975)",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -3245,7 +4865,7 @@
   "account": "scholarly",
   "from": 950,
   "to": 1000,
-  "text": "late 10th c. (Kashmir)",
+  "text": "c. late 10th c.",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -3275,17 +4895,197 @@
   "account": "scholarly",
   "from": 950,
   "to": 1050,
-  "text": "c. 10th–11th c.",
+  "text": "c. late 10th – early 11th c.",
   "confidence": "moderate",
   "level": "skeleton"
  },
  {
+  "entity": "src:pancapadika-vivarana",
+  "label": "Pañcapādikāvivaraṇa",
+  "account": "scholarly",
+  "from": 950,
+  "to": 1100,
+  "text": "c. 10th–11th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:siddhitraya",
+  "label": "Siddhitraya",
+  "account": "scholarly",
+  "from": 950,
+  "to": 1040,
+  "text": "late 10th – early 11th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:stotraratna",
+  "label": "Stotraratna",
+  "account": "scholarly",
+  "from": 950,
+  "to": 1040,
+  "text": "late 10th – early 11th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:catuhsloki",
+  "label": "Catuḥślokī",
+  "account": "scholarly",
+  "from": 950,
+  "to": 1040,
+  "text": "late 10th – early 11th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mahapurusanirnaya",
+  "label": "Mahāpuruṣanirṇaya",
+  "account": "scholarly",
+  "from": 950,
+  "to": 1040,
+  "text": "late 10th – early 11th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:naresvarapariksaprakasa",
+  "label": "Nareśvaraparīkṣāprakāśa",
+  "account": "scholarly",
+  "from": 950,
+  "to": 1000,
+  "text": "c. 950–1000 CE, Kashmir",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:moksakarikavrtti",
+  "label": "Mokṣakārikāvṛtti",
+  "account": "scholarly",
+  "from": 950,
+  "to": 1000,
+  "text": "c. 950–1000 CE, Kashmir",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:paramoksanirasakarikavrtti",
+  "label": "Paramokṣanirāsakārikāvṛtti",
+  "account": "scholarly",
+  "from": 950,
+  "to": 1000,
+  "text": "c. 950–1000 CE, Kashmir",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nadakarika",
+  "label": "Nādakārikā",
+  "account": "scholarly",
+  "from": 950,
+  "to": 1000,
+  "text": "c. 950–1000 CE, Kashmir",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:ratnatraya-srikantha",
+  "label": "Ratnatraya (of Śrīkaṇṭha)",
+  "account": "scholarly",
+  "from": 950,
+  "to": 1050,
+  "text": "c. 10th–11th c. (low confidence)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tiruttontar-tiruvantati",
+  "label": "Tiruttoṇṭar Tiruvantāti",
+  "account": "scholarly",
+  "from": 950,
+  "to": 1050,
+  "text": "c. 10th–11th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:akulavira-tantra",
+  "label": "Akulavīratantra",
+  "account": "scholarly",
+  "from": 950,
+  "to": 1200,
+  "text": "c. 10th–12th c. (uncertain)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yamuna",
+  "label": "Yāmunācārya",
+  "account": "scholarly",
+  "from": 950,
+  "to": 1040,
+  "text": "late 10th – early 11th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:ramakantha",
-  "label": "Bhaṭṭa Rāmakaṇṭha (II)",
+  "label": "Bhaṭṭa Rāmakaṇṭha (Rāmakaṇṭha II)",
   "account": "scholarly",
   "from": 950,
   "to": 1000,
   "text": "c. 950–1000 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:sucarita-misra",
+  "label": "Sucarita Miśra",
+  "account": "scholarly",
+  "from": 950,
+  "to": 1100,
+  "text": "c. 10th–11th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:prakasatman",
+  "label": "Prakāśātman",
+  "account": "scholarly",
+  "from": 950,
+  "to": 1100,
+  "text": "c. 10th–11th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:srikantha-saiddhantika",
+  "label": "Śrīkaṇṭha (author of the Ratnatraya)",
+  "account": "scholarly",
+  "from": 950,
+  "to": 1050,
+  "text": "c. 10th–11th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:nampi-antar-nampi",
+  "label": "Nampi Āṇṭār Nampi",
+  "account": "scholarly",
+  "from": 950,
+  "to": 1100,
+  "text": "c. late 10th–11th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kantarattittar",
+  "label": "Kaṇṭarātittar",
+  "account": "scholarly",
+  "from": 950,
+  "to": 957,
+  "text": "r. c. 950–957",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -3296,6 +5096,46 @@
   "from": 950,
   "to": 1100,
   "text": "10th–11th c. (debated; some place him closer to Basava)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:vivarana",
+  "label": "Vivaraṇa school (Vivaraṇa-prasthāna)",
+  "account": "scholarly",
+  "from": 950,
+  "to": null,
+  "text": "From Prakāśātman (c. 10th–11th c.) onward; the dominant line of later Advaita scholarship",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:visistadvaita",
+  "label": "Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)",
+  "account": "scholarly",
+  "from": 950,
+  "to": 1500,
+  "text": "systematized 10th–12th c. CE (Yāmuna, Rāmānuja); school doctrine elaborated 13th–15th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:yasastilaka",
+  "label": "Yaśastilaka",
+  "account": "scholarly",
+  "from": 959,
+  "to": 959,
+  "text": "959 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:ekalingaji-inscription",
+  "label": "Ekaliṅgajī (Lakulīśa temple) inscription of 971 CE",
+  "account": "scholarly",
+  "from": 971,
+  "to": 971,
+  "text": "971 CE",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -3510,6 +5350,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:mahabhasya-pradipa",
+  "label": "Mahābhāṣya-pradīpa",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1100,
+  "text": "c. 11th c. CE (Kashmir)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:devi-gita",
   "label": "Devī Gītā",
   "account": "scholarly",
@@ -3550,6 +5400,56 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:balligave-kalamukha-inscriptions",
+  "label": "Balligāve (Belagāmi) inscriptions of the Kālāmukha Kōḍiya-maṭha",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1300,
+  "text": "11th–13th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:bhatta-bhaskara",
+  "label": "Bhaṭṭa Bhāskara Miśra",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1100,
+  "text": "c. 11th century CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:uvata",
+  "label": "Uvaṭa",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1100,
+  "text": "11th century CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kaiyata",
+  "label": "Kaiyaṭa",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1100,
+  "text": "c. 11th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yadavaprakasa",
+  "label": "Yādavaprakāśa",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1100,
+  "text": "11th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:sivaditya",
   "label": "Śivāditya",
   "account": "scholarly",
@@ -3566,6 +5466,16 @@
   "from": 1000,
   "to": 1050,
   "text": "c. 1000-1050 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:goraksanatha",
+  "label": "Gorakṣanātha",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1300,
+  "text": "c. 11th–13th c.",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -3610,6 +5520,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:tattvaprakasa-bhoja",
+  "label": "Tattvaprakāśa (of Bhoja)",
+  "account": "scholarly",
+  "from": 1011,
+  "to": 1055,
+  "text": "first half of the 11th c. (Bhoja r. c. 1011–1055)",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:isvarapratyabhijna-vimarsini",
   "label": "Īśvarapratyabhijñāvimarśinī",
   "account": "scholarly",
@@ -3640,6 +5560,116 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:sribhasya",
+  "label": "Śrībhāṣya",
+  "account": "tradition",
+  "from": 1017,
+  "to": 1137,
+  "text": "Rāmānuja, 1017–1137 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:vedarthasangraha",
+  "label": "Vedārthasaṅgraha",
+  "account": "tradition",
+  "from": 1017,
+  "to": 1137,
+  "text": "Rāmānuja, 1017–1137 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:vedantasara-ramanuja",
+  "label": "Vedāntasāra (of Rāmānuja)",
+  "account": "tradition",
+  "from": 1017,
+  "to": 1137,
+  "text": "Rāmānuja, 1017–1137 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:vedantadipa",
+  "label": "Vedāntadīpa",
+  "account": "tradition",
+  "from": 1017,
+  "to": 1137,
+  "text": "Rāmānuja, 1017–1137 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:gadyatraya",
+  "label": "Gadyatraya",
+  "account": "tradition",
+  "from": 1017,
+  "to": 1137,
+  "text": "Rāmānuja, 1017–1137 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:saranagati-gadya",
+  "label": "Śaraṇāgati Gadya",
+  "account": "tradition",
+  "from": 1017,
+  "to": 1137,
+  "text": "Rāmānuja, 1017–1137 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sriranga-gadya",
+  "label": "Śrīraṅga Gadya",
+  "account": "tradition",
+  "from": 1017,
+  "to": 1137,
+  "text": "Rāmānuja, 1017–1137 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:vaikuntha-gadya",
+  "label": "Śrīvaikuṇṭha Gadya",
+  "account": "tradition",
+  "from": 1017,
+  "to": 1137,
+  "text": "Rāmānuja, 1017–1137 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nityagrantha",
+  "label": "Nityagrantha",
+  "account": "tradition",
+  "from": 1017,
+  "to": 1137,
+  "text": "Rāmānuja, 1017–1137 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:ramanuja",
+  "label": "Rāmānuja",
+  "account": "tradition",
+  "from": 1017,
+  "to": 1137,
+  "text": "1017–1137 CE (120 years)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kedarasakti",
+  "label": "Kedāraśakti",
+  "account": "scholarly",
+  "from": 1030,
+  "to": 1120,
+  "text": "11th–12th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:gita-bhasya-ramanuja",
   "label": "Gītābhāṣya of Rāmānuja",
   "account": "scholarly",
@@ -3660,12 +5690,132 @@
   "level": "skeleton"
  },
  {
-  "entity": "tch:somasambhu",
-  "label": "Somaśambhu",
+  "entity": "src:sribhasya",
+  "label": "Śrībhāṣya",
   "account": "scholarly",
   "from": 1050,
-  "to": 1100,
-  "text": "late 11th c.",
+  "to": 1157,
+  "text": "11th–12th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:vedarthasangraha",
+  "label": "Vedārthasaṅgraha",
+  "account": "scholarly",
+  "from": 1050,
+  "to": 1157,
+  "text": "11th–12th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:vedantasara-ramanuja",
+  "label": "Vedāntasāra (of Rāmānuja)",
+  "account": "scholarly",
+  "from": 1050,
+  "to": 1157,
+  "text": "11th–12th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:vedantadipa",
+  "label": "Vedāntadīpa",
+  "account": "scholarly",
+  "from": 1050,
+  "to": 1157,
+  "text": "11th–12th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:gadyatraya",
+  "label": "Gadyatraya",
+  "account": "scholarly",
+  "from": 1050,
+  "to": 1157,
+  "text": "11th–12th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:saranagati-gadya",
+  "label": "Śaraṇāgati Gadya",
+  "account": "scholarly",
+  "from": 1050,
+  "to": 1157,
+  "text": "11th–12th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sriranga-gadya",
+  "label": "Śrīraṅga Gadya",
+  "account": "scholarly",
+  "from": 1050,
+  "to": 1157,
+  "text": "11th–12th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:vaikuntha-gadya",
+  "label": "Śrīvaikuṇṭha Gadya",
+  "account": "scholarly",
+  "from": 1050,
+  "to": 1157,
+  "text": "11th–12th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nityagrantha",
+  "label": "Nityagrantha",
+  "account": "scholarly",
+  "from": 1050,
+  "to": 1157,
+  "text": "11th–12th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:pancastava",
+  "label": "Pañcastava",
+  "account": "scholarly",
+  "from": 1050,
+  "to": 1150,
+  "text": "11th–12th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:ramanuja-nurrantati",
+  "label": "Irāmāṉuca Nūṟṟantāti",
+  "account": "scholarly",
+  "from": 1050,
+  "to": 1150,
+  "text": "11th–12th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:srikantha-bhasya",
+  "label": "Brahmasūtrabhāṣya of Śrīkaṇṭha (Śrīkaṇṭhabhāṣya)",
+  "account": "scholarly",
+  "from": 1050,
+  "to": 1300,
+  "text": "c. 11th–13th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:ramanuja",
+  "label": "Rāmānuja",
+  "account": "scholarly",
+  "from": 1050,
+  "to": 1157,
+  "text": "11th–12th c. CE; some scholars doubt the 120-year span and propose c. 1077–1157",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -3680,6 +5830,56 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:parthasarathi-misra",
+  "label": "Pārthasārathi Miśra",
+  "account": "scholarly",
+  "from": 1050,
+  "to": 1120,
+  "text": "c. 11th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:anandabodha",
+  "label": "Ānandabodha (Bhaṭṭāraka)",
+  "account": "scholarly",
+  "from": 1050,
+  "to": 1200,
+  "text": "c. 11th–12th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kuresa",
+  "label": "Kūreśa",
+  "account": "scholarly",
+  "from": 1050,
+  "to": 1150,
+  "text": "11th–12th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:tirukkurukaippiran-pillan",
+  "label": "Tirukkurukaippirāṉ Piḷḷāṉ",
+  "account": "scholarly",
+  "from": 1050,
+  "to": 1150,
+  "text": "11th–12th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:srikantha",
+  "label": "Śrīkaṇṭha Śivācārya",
+  "account": "scholarly",
+  "from": 1050,
+  "to": 1300,
+  "text": "c. 11th–13th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:brahmayamala",
   "label": "Brahmayāmala (Picumata)",
   "account": "scholarly",
@@ -3690,12 +5890,92 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:prabodhacandrodaya",
+  "label": "Prabodhacandrodaya",
+  "account": "scholarly",
+  "from": 1060,
+  "to": 1100,
+  "text": "late 11th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mitaksara",
+  "label": "Mitākṣarā of Vijñāneśvara",
+  "account": "scholarly",
+  "from": 1070,
+  "to": 1120,
+  "text": "late 11th – early 12th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:vijnanesvara",
+  "label": "Vijñāneśvara",
+  "account": "scholarly",
+  "from": 1070,
+  "to": 1120,
+  "text": "late 11th – early 12th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:somasambhu",
+  "label": "Somaśambhu",
+  "account": "scholarly",
+  "from": 1070,
+  "to": 1100,
+  "text": "late 11th c. (manual dated 1095/96)",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:dayabhaga",
+  "label": "Dāyabhāga of Jīmūtavāhana",
+  "account": "scholarly",
+  "from": 1090,
+  "to": 1200,
+  "text": "c. 12th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:jimutavahana",
+  "label": "Jīmūtavāhana",
+  "account": "scholarly",
+  "from": 1090,
+  "to": 1200,
+  "text": "c. 12th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:somasambhupaddhati",
   "label": "Somaśambhupaddhati",
   "account": "scholarly",
   "from": 1095,
   "to": 1096,
   "text": "completed 1095/96 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:apararka-tika",
+  "label": "Aparārka's commentary on Yājñavalkya",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1150,
+  "text": "12th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:krtyakalpataru",
+  "label": "Kṛtyakalpataru",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1200,
+  "text": "12th c. CE",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -3730,16 +6010,6 @@
   "level": "skeleton"
  },
  {
-  "entity": "src:krtyakalpataru",
-  "label": "Kṛtyakalpataru",
-  "account": "scholarly",
-  "from": 1100,
-  "to": 1200,
-  "text": "12th c. CE",
-  "confidence": "moderate",
-  "level": "skeleton"
- },
- {
   "entity": "src:mrgendravrttidipika",
   "label": "Mṛgendravṛttidīpikā",
   "account": "scholarly",
@@ -3767,6 +6037,116 @@
   "to": 1200,
   "text": "c. 12th c. CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:srirangarajastava",
+  "label": "Śrīraṅgarājastava",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1200,
+  "text": "12th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sri-gunaratnakosa",
+  "label": "Śrīguṇaratnakośa",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1200,
+  "text": "12th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:astasloki-bhattar",
+  "label": "Aṣṭaślokī",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1200,
+  "text": "12th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:jnanasaram",
+  "label": "Jñānasāram",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1200,
+  "text": "12th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:prameyasaram",
+  "label": "Prameyasāram",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1200,
+  "text": "12th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:arayirappati",
+  "label": "Ārāyirappaṭi (the 'Six Thousand')",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1400,
+  "text": "12th–14th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:onpatinayirappati",
+  "label": "Oṉpatiṉāyirappaṭi (the 'Nine Thousand')",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1400,
+  "text": "12th–14th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:irupattunalayirappati",
+  "label": "Irupattunālāyirappaṭi (the 'Twenty-four Thousand')",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1400,
+  "text": "12th–14th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:itu-muppattarayirappati",
+  "label": "Īṭu Muppattāṟāyirappaṭi (the 'Thirty-six Thousand')",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1400,
+  "text": "12th–14th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:pannirayirappati",
+  "label": "Paṉṉīrāyirappaṭi (the 'Twelve Thousand')",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1400,
+  "text": "12th–14th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:prayascittasamuccaya-trilocanasiva",
+  "label": "Prāyaścittasamuccaya (of Trilocanaśiva)",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1200,
+  "text": "12th c.",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -3800,13 +6180,13 @@
   "level": "skeleton"
  },
  {
-  "entity": "tch:parasara-bhattar",
-  "label": "Parāśara Bhaṭṭar",
+  "entity": "tch:apararka",
+  "label": "Aparārka (Aparāditya)",
   "account": "scholarly",
   "from": 1100,
-  "to": 1200,
+  "to": 1150,
   "text": "12th c. CE",
-  "confidence": "moderate",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -3820,13 +6200,23 @@
   "level": "skeleton"
  },
  {
-  "entity": "tch:aghorasiva",
-  "label": "Aghoraśiva",
+  "entity": "tch:haradatta",
+  "label": "Haradatta",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1300,
+  "text": "c. 12th–13th c. CE (uncertain)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:parasara-bhattar",
+  "label": "Parāśara Bhaṭṭar",
   "account": "scholarly",
   "from": 1100,
   "to": 1200,
-  "text": "12th c.",
-  "confidence": "moderate",
+  "text": "12th c. CE",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -3847,6 +6237,26 @@
   "to": 1200,
   "text": "c. 12th c. CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:vamasakti",
+  "label": "Vāmaśakti",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1200,
+  "text": "12th c. (inscriptions name more than one Vāmaśakti)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:cekkilar",
+  "label": "Cēkkiḻār",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1160,
+  "text": "first half of the 12th c.",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -4170,6 +6580,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:dvaitadvaita",
+  "label": "Dvaitādvaita (Nimbārka Sampradāya)",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1300,
+  "text": "Nimbārka variously dated 7th–13th c.; many place him c. 12th–13th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:siva-visistadvaita",
+  "label": "Śiva-viśiṣṭādvaita (Śaiva Vedānta of Śrīkaṇṭha)",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1600,
+  "text": "Śrīkaṇṭha c. 11th–13th c. CE (after Rāmānuja, whose commentary his closely parallels); revived by Appayya Dīkṣita (1520–1593)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:virasaiva",
   "label": "Vīraśaiva / Liṅgāyata",
   "account": "scholarly",
@@ -4190,6 +6620,136 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:trilocanasiva",
+  "label": "Trilocanaśiva",
+  "account": "scholarly",
+  "from": 1120,
+  "to": 1200,
+  "text": "12th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:uyyavanta-tevanayanar-tiruviyalur",
+  "label": "Uyyavanta Tēvanāyaṉār of Tiruviyalūr",
+  "account": "scholarly",
+  "from": 1120,
+  "to": 1170,
+  "text": "mid-12th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:siddhahemasabdanusasana",
+  "label": "Siddhahemaśabdānuśāsana",
+  "account": "scholarly",
+  "from": 1130,
+  "to": 1150,
+  "text": "12th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:khandanakhandakhadya",
+  "label": "Khaṇḍanakhaṇḍakhādya",
+  "account": "scholarly",
+  "from": 1130,
+  "to": 1200,
+  "text": "12th c. CE (court of Jayacandra of Kanauj)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mahotsavavidhi",
+  "label": "Mahotsavavidhi (of Aghoraśiva)",
+  "account": "scholarly",
+  "from": 1130,
+  "to": 1170,
+  "text": "mid-12th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:pancavaranastava",
+  "label": "Pañcāvaraṇastava",
+  "account": "scholarly",
+  "from": 1130,
+  "to": 1170,
+  "text": "mid-12th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:aghorasiva",
+  "label": "Aghoraśiva",
+  "account": "scholarly",
+  "from": 1130,
+  "to": 1170,
+  "text": "mid-12th c. (Kriyākramadyotikā completed 1157/58)",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:sriharsa",
+  "label": "Śrīharṣa",
+  "account": "scholarly",
+  "from": 1130,
+  "to": 1200,
+  "text": "12th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:periya-puranam",
+  "label": "Periya Purāṇam",
+  "account": "scholarly",
+  "from": 1133,
+  "to": 1150,
+  "text": "c. 1135–1150",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:bhava-brhaspati",
+  "label": "Bhāva Bṛhaspati",
+  "account": "scholarly",
+  "from": 1140,
+  "to": 1180,
+  "text": "12th c. (inscription of 1169 CE)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:meykanta-sastras",
+  "label": "Meykaṇṭa Śāstras (the fourteen)",
+  "account": "scholarly",
+  "from": 1147,
+  "to": 1313,
+  "text": "c. 1147–1313",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tiruvuntiyar",
+  "label": "Tiruvuntiyār",
+  "account": "scholarly",
+  "from": 1147,
+  "to": 1148,
+  "text": "c. 1147/48",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:tamil-saiva-siddhanta",
+  "label": "Tamil Śaiva Siddhānta (the Meykaṇṭa school)",
+  "account": "scholarly",
+  "from": 1147,
+  "to": null,
+  "text": "12th c. forerunners (Tiruvuntiyār 1147/48); Meykaṇṭār early 13th c.; Umāpati 1306–1313; monastic (ātīṉam) tradition continuing",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:jnanadipika-devabodha",
   "label": "Jñānadīpikā of Devabodha",
   "account": "scholarly",
@@ -4206,6 +6766,46 @@
   "from": 1150,
   "to": 1500,
   "text": "debated: 12th–15th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:murari-misra",
+  "label": "Murāri Miśra",
+  "account": "scholarly",
+  "from": 1150,
+  "to": 1300,
+  "text": "c. 12th–13th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:nampillai",
+  "label": "Nampiḷḷai",
+  "account": "scholarly",
+  "from": 1150,
+  "to": 1275,
+  "text": "12th–13th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:uyyavanta-tevanayanar-tirukkatavur",
+  "label": "Uyyavanta Tēvanāyaṉār of Tirukkaṭavūr",
+  "account": "scholarly",
+  "from": 1150,
+  "to": 1200,
+  "text": "late 12th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:murari-mimamsa",
+  "label": "Murāri Miśra's school (the 'third path' of Mīmāṃsā)",
+  "account": "scholarly",
+  "from": 1150,
+  "to": 1300,
+  "text": "c. 12th–13th c. CE (before Gaṅgeśa, who cites his view)",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -4270,6 +6870,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:prabhasa-bhadrakali-inscription",
+  "label": "Prabhāsa-pāṭan (Bhadrakālī) inscription of 1169 CE",
+  "account": "scholarly",
+  "from": 1169,
+  "to": 1169,
+  "text": "1169 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tirukkalirruppatiyar",
+  "label": "Tirukkaḷiṟṟuppaṭiyār",
+  "account": "scholarly",
+  "from": 1177,
+  "to": 1178,
+  "text": "c. 1177/78",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:basava-purana-palkuriki",
   "label": "Basava Purāṇamu (Pālkuriki Sōmanātha)",
   "account": "scholarly",
@@ -4307,6 +6927,16 @@
   "to": 1300,
   "text": "late 12th–13th c. (debated)",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:meykantar",
+  "label": "Meykaṇṭār",
+  "account": "scholarly",
+  "from": 1190,
+  "to": 1260,
+  "text": "early 13th c.",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -4740,6 +7370,86 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:tattvapradipika-citsukha",
+  "label": "Tattvapradīpikā (Citsukhī)",
+  "account": "scholarly",
+  "from": 1200,
+  "to": 1300,
+  "text": "13th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tattvasara-vatsya-varada",
+  "label": "Tattvasāra (of Vātsya Varadaguru)",
+  "account": "scholarly",
+  "from": 1200,
+  "to": 1300,
+  "text": "13th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nyayakulisa",
+  "label": "Nyāyakuliśa",
+  "account": "scholarly",
+  "from": 1200,
+  "to": 1300,
+  "text": "13th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nayadyumani",
+  "label": "Nayadyumaṇi",
+  "account": "scholarly",
+  "from": 1200,
+  "to": 1300,
+  "text": "13th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sivananabodham",
+  "label": "Civañāṉa Pōtam",
+  "account": "scholarly",
+  "from": 1200,
+  "to": 1250,
+  "text": "early 13th c. (often c. 1220)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:matsyendrasamhita",
+  "label": "Matsyendrasaṃhitā",
+  "account": "scholarly",
+  "from": 1200,
+  "to": 1300,
+  "text": "c. 13th c. (scholarly estimate; uncertain)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:goraksasataka",
+  "label": "Gorakṣaśataka",
+  "account": "scholarly",
+  "from": 1200,
+  "to": 1300,
+  "text": "c. 13th c. (Vivekamārtaṇḍa family)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:goraksasataka-mallinson",
+  "label": "Gorakṣaśataka (the 'original' Gorakṣaśataka)",
+  "account": "scholarly",
+  "from": 1200,
+  "to": 1400,
+  "text": "c. 13th–14th c. (scholarly estimate)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:anandagiri",
   "label": "Ānandagiri (Ānandajñāna)",
   "account": "scholarly",
@@ -4757,6 +7467,206 @@
   "to": 1250,
   "text": "13th c. CE (under King Rājadeva, early 13th c.)",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:citsukha",
+  "label": "Citsukha",
+  "account": "scholarly",
+  "from": 1200,
+  "to": 1300,
+  "text": "13th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:periyavaccan-pillai",
+  "label": "Periyavāccāṉ Piḷḷai",
+  "account": "scholarly",
+  "from": 1200,
+  "to": 1300,
+  "text": "13th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:nadadur-ammal",
+  "label": "Naḍādūr Ammāḷ",
+  "account": "scholarly",
+  "from": 1200,
+  "to": 1300,
+  "text": "13th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:meghanadari-suri",
+  "label": "Meghanādāri Sūri",
+  "account": "scholarly",
+  "from": 1200,
+  "to": 1300,
+  "text": "13th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:bilvamangala",
+  "label": "Bilvamaṅgala (Līlāśuka)",
+  "account": "scholarly",
+  "from": 1200,
+  "to": 1400,
+  "text": "c. 13th–14th c. CE (uncertain)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:kaula-srividya",
+  "label": "Kaula Śrīvidyā (the Vāmakeśvara–Yoginīhṛdaya exegetical line)",
+  "account": "scholarly",
+  "from": 1200,
+  "to": null,
+  "text": "Puṇyānanda and Amṛtānanda c. 13th-14th c. (uncertain); Bhāskararāya and Umānandanātha 18th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mumuksuppadi",
+  "label": "Mumukṣuppaṭi",
+  "account": "tradition",
+  "from": 1205,
+  "to": 1311,
+  "text": "Piḷḷai Lokācārya, 1205–1311 CE in commonly given Teṅkalai dates",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:srivacana-bhusanam",
+  "label": "Śrīvacanabhūṣaṇam",
+  "account": "tradition",
+  "from": 1205,
+  "to": 1311,
+  "text": "Piḷḷai Lokācārya, 1205–1311 CE in commonly given Teṅkalai dates",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tattvatraya",
+  "label": "Tattvatrayam",
+  "account": "tradition",
+  "from": 1205,
+  "to": 1311,
+  "text": "Piḷḷai Lokācārya, 1205–1311 CE in commonly given Teṅkalai dates",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:arthapancaka-pillai-lokacarya",
+  "label": "Arthapañcakam",
+  "account": "tradition",
+  "from": 1205,
+  "to": 1311,
+  "text": "Piḷḷai Lokācārya, 1205–1311 CE in commonly given Teṅkalai dates",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:arciradi",
+  "label": "Arcirādi",
+  "account": "tradition",
+  "from": 1205,
+  "to": 1311,
+  "text": "Piḷḷai Lokācārya, 1205–1311 CE in commonly given Teṅkalai dates",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:navavidha-sambandham",
+  "label": "Navavidhasambandham",
+  "account": "tradition",
+  "from": 1205,
+  "to": 1311,
+  "text": "Piḷḷai Lokācārya, 1205–1311 CE in commonly given Teṅkalai dates",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:prameya-sekharam",
+  "label": "Prameyaśekharam",
+  "account": "tradition",
+  "from": 1205,
+  "to": 1311,
+  "text": "Piḷḷai Lokācārya, 1205–1311 CE in commonly given Teṅkalai dates",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:astadasa-rahasyangal",
+  "label": "Aṣṭādaśa Rahasyaṅgaḷ (the eighteen rahasyas)",
+  "account": "tradition",
+  "from": 1205,
+  "to": 1311,
+  "text": "Piḷḷai Lokācārya, 1205–1311 CE in commonly given Teṅkalai dates",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:pillai-lokacarya",
+  "label": "Piḷḷai Lokācārya",
+  "account": "tradition",
+  "from": 1205,
+  "to": 1311,
+  "text": "1205–1311 CE in commonly given Teṅkalai dates; the tradition places his death at Jyotiṣkuḍi while escorting Raṅganātha's processional image away from the sack of Śrīraṅgam (an event usually dated 1323 — not reconciled here)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:tenkalai",
+  "label": "Teṅkalai (southern school of Śrīvaiṣṇavism)",
+  "account": "tradition",
+  "from": 1205,
+  "to": null,
+  "text": "from Piḷḷai Lokācārya (1205–1311 in commonly given traditional dates) and Maṇavāḷa Māmuni (1370–1443)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:arunanti",
+  "label": "Aruṇanti Civācāriyār",
+  "account": "scholarly",
+  "from": 1210,
+  "to": 1290,
+  "text": "13th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:manavacakam-katantar",
+  "label": "Maṉavācakaṅkaṭantār",
+  "account": "scholarly",
+  "from": 1210,
+  "to": 1290,
+  "text": "13th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sivananasiddhiyar",
+  "label": "Civañāṉa Cittiyār",
+  "account": "scholarly",
+  "from": 1230,
+  "to": 1290,
+  "text": "13th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:marainana-campantar",
+  "label": "Maṟaiñāṉa Campantar",
+  "account": "scholarly",
+  "from": 1230,
+  "to": 1300,
+  "text": "13th c.",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -5180,6 +8090,46 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:vedanta-kalpataru",
+  "label": "Vedāntakalpataru",
+  "account": "scholarly",
+  "from": 1240,
+  "to": 1270,
+  "text": "mid-13th c. (Yādava court of Devagiri)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:amalananda",
+  "label": "Amalānanda",
+  "account": "scholarly",
+  "from": 1240,
+  "to": 1270,
+  "text": "mid-13th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mugdhabodha",
+  "label": "Mugdhabodha",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1300,
+  "text": "13th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:manvarthamuktavali",
+  "label": "Manvarthamuktāvalī of Kullūka",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1450,
+  "text": "c. 13th–15th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:caturvargacintamani",
   "label": "Caturvargacintāmaṇi",
   "account": "scholarly",
@@ -5220,6 +8170,116 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:guruparampara-prabhavam-arayirappati",
+  "label": "Guruparamparāprabhāvam (Ārāyirappaṭi)",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1400,
+  "text": "c. 13th–14th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:srutaprakasika",
+  "label": "Śrutaprakāśikā",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1323,
+  "text": "13th–early 14th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mumuksuppadi",
+  "label": "Mumukṣuppaṭi",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1330,
+  "text": "13th–14th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:srivacana-bhusanam",
+  "label": "Śrīvacanabhūṣaṇam",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1330,
+  "text": "13th–14th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tattvatraya",
+  "label": "Tattvatrayam",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1330,
+  "text": "13th–14th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:arthapancaka-pillai-lokacarya",
+  "label": "Arthapañcakam",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1330,
+  "text": "13th–14th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:arciradi",
+  "label": "Arcirādi",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1330,
+  "text": "13th–14th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:navavidha-sambandham",
+  "label": "Navavidhasambandham",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1330,
+  "text": "13th–14th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:prameya-sekharam",
+  "label": "Prameyaśekharam",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1330,
+  "text": "13th–14th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:astadasa-rahasyangal",
+  "label": "Aṣṭādaśa Rahasyaṅgaḷ (the eighteen rahasyas)",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1330,
+  "text": "13th–14th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:acarya-hrdayam",
+  "label": "Ācārya Hṛdayam",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1350,
+  "text": "13th–14th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:tattvapradipa-trivikrama",
   "label": "Tattvapradīpa (Trivikrama Paṇḍitācārya)",
   "account": "scholarly",
@@ -5240,13 +8300,23 @@
   "level": "skeleton"
  },
  {
-  "entity": "tch:vopadeva",
-  "label": "Vopadeva",
+  "entity": "src:parimelalakar-urai",
+  "label": "Parimēlaḻakar's commentary on the Tirukkuṟaḷ",
   "account": "scholarly",
   "from": 1250,
   "to": 1300,
-  "text": "13th c. CE (Yādava court of Devagiri)",
+  "text": "c. 13th c.",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kulluka",
+  "label": "Kullūka Bhaṭṭa",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1450,
+  "text": "c. 13th–15th c. CE",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -5256,6 +8326,16 @@
   "from": 1250,
   "to": 1300,
   "text": "13th c. CE, minister at the Yādava court",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:vopadeva",
+  "label": "Vopadeva",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1300,
+  "text": "13th c. CE (Yādava court of Devagiri)",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -5290,6 +8370,46 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:pillai-lokacarya",
+  "label": "Piḷḷai Lokācārya",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1330,
+  "text": "13th–early 14th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:sudarsana-suri",
+  "label": "Sudarśana Sūri",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1323,
+  "text": "13th–early 14th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:tripurantaka",
+  "label": "Tripurāntaka (Pāśupata)",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1300,
+  "text": "13th c. (Cintra praśasti, 1287 CE)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:parimelalakar",
+  "label": "Parimēlaḻakar",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1300,
+  "text": "c. 13th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:narahari-tirtha",
   "label": "Narahari Tīrtha",
   "account": "scholarly",
@@ -5300,22 +8420,22 @@
   "level": "skeleton"
  },
  {
-  "entity": "src:tatparyacandrika",
-  "label": "Tātparyacandrikā of Vedānta Deśika",
+  "entity": "src:tatparyacandrika-desika",
+  "label": "Tātparyacandrikā (of Vedānta Deśika)",
   "account": "scholarly",
   "from": 1268,
-  "to": 1369,
-  "text": "14th c. CE",
+  "to": 1370,
+  "text": "13th–14th c. CE",
   "confidence": "moderate",
   "level": "skeleton"
  },
  {
-  "entity": "src:tatparyacandrika",
-  "label": "Tātparyacandrikā of Vedānta Deśika",
+  "entity": "src:tatparyacandrika-desika",
+  "label": "Tātparyacandrikā (of Vedānta Deśika)",
   "account": "tradition",
   "from": 1268,
   "to": 1369,
-  "text": "Vedānta Deśika, 1268–1369",
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -5330,12 +8450,722 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:rahasyatrayasara",
+  "label": "Rahasyatrayasāra",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:rahasyatrayasara",
+  "label": "Rahasyatrayasāra",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tattvamuktakalapa",
+  "label": "Tattvamuktākalāpa",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tattvamuktakalapa",
+  "label": "Tattvamuktākalāpa",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sarvarthasiddhi-desika",
+  "label": "Sarvārthasiddhi (on the Tattvamuktākalāpa)",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sarvarthasiddhi-desika",
+  "label": "Sarvārthasiddhi (on the Tattvamuktākalāpa)",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:satadusani",
+  "label": "Śatadūṣaṇī",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:satadusani",
+  "label": "Śatadūṣaṇī",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nyayasiddhanjana",
+  "label": "Nyāyasiddhāñjana",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nyayasiddhanjana",
+  "label": "Nyāyasiddhāñjana",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nyayaparisuddhi",
+  "label": "Nyāyapariśuddhi",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nyayaparisuddhi",
+  "label": "Nyāyapariśuddhi",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tattvatika",
+  "label": "Tattvaṭīkā",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tattvatika",
+  "label": "Tattvaṭīkā",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:adhikaranasaravali",
+  "label": "Adhikaraṇasārāvalī",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:adhikaranasaravali",
+  "label": "Adhikaraṇasārāvalī",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mimamsapaduka",
+  "label": "Mīmāṃsāpādukā",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mimamsapaduka",
+  "label": "Mīmāṃsāpādukā",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sesvaramimamsa",
+  "label": "Seśvaramīmāṃsā",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sesvaramimamsa",
+  "label": "Seśvaramīmāṃsā",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:rahasyaraksa",
+  "label": "Rahasyarakṣā",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:rahasyaraksa",
+  "label": "Rahasyarakṣā",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:niksepa-raksa",
+  "label": "Nikṣeparakṣā",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:niksepa-raksa",
+  "label": "Nikṣeparakṣā",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:saccaritraraksa",
+  "label": "Saccaritrarakṣā",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:saccaritraraksa",
+  "label": "Saccaritrarakṣā",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:padukasahasra",
+  "label": "Pādukāsahasra",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:padukasahasra",
+  "label": "Pādukāsahasra",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:dayasataka",
+  "label": "Dayāśataka",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:dayasataka",
+  "label": "Dayāśataka",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nyasa-dasaka",
+  "label": "Nyāsadaśaka",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nyasa-dasaka",
+  "label": "Nyāsadaśaka",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nyasa-vimsati",
+  "label": "Nyāsaviṃśati",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nyasa-vimsati",
+  "label": "Nyāsaviṃśati",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nyasa-tilaka",
+  "label": "Nyāsatilaka",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nyasa-tilaka",
+  "label": "Nyāsatilaka",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sankalpasuryodaya",
+  "label": "Saṅkalpasūryodaya",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sankalpasuryodaya",
+  "label": "Saṅkalpasūryodaya",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:yadavabhyudaya",
+  "label": "Yādavābhyudaya",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:yadavabhyudaya",
+  "label": "Yādavābhyudaya",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:hamsasandesa",
+  "label": "Haṃsasandeśa",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:hamsasandesa",
+  "label": "Haṃsasandeśa",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:abhitistava",
+  "label": "Abhītistava",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:abhitistava",
+  "label": "Abhītistava",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:hayagriva-stotra",
+  "label": "Hayagrīvastotra",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:hayagriva-stotra",
+  "label": "Hayagrīvastotra",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:varadaraja-pancasat",
+  "label": "Varadarājapañcāśat",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:varadaraja-pancasat",
+  "label": "Varadarājapañcāśat",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sri-stuti",
+  "label": "Śrīstuti",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sri-stuti",
+  "label": "Śrīstuti",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:godastuti",
+  "label": "Godāstuti",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:godastuti",
+  "label": "Godāstuti",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:vairagya-pancaka",
+  "label": "Vairāgyapañcaka",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:vairagya-pancaka",
+  "label": "Vairāgyapañcaka",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:lokacarya-pancasat",
+  "label": "Lokācāryapañcāśat",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:lokacarya-pancasat",
+  "label": "Lokācāryapañcāśat",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:dramidopanisat-tatparya-ratnavali",
+  "label": "Dramiḍopaniṣat-tātparya-ratnāvalī",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:dramidopanisat-tatparya-ratnavali",
+  "label": "Dramiḍopaniṣat-tātparya-ratnāvalī",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:dramidopanisat-sara",
+  "label": "Dramiḍopaniṣat-sāra",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:dramidopanisat-sara",
+  "label": "Dramiḍopaniṣat-sāra",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:adaikkalappattu",
+  "label": "Aḍaikkalappattu",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:adaikkalappattu",
+  "label": "Aḍaikkalappattu",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:paramapada-sopanam",
+  "label": "Paramapadasopānam",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:paramapada-sopanam",
+  "label": "Paramapadasopānam",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:desika-prabandham",
+  "label": "Deśika Prabandham",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:desika-prabandham",
+  "label": "Deśika Prabandham",
+  "account": "tradition",
+  "from": 1268,
+  "to": 1369,
+  "text": "Vedānta Deśika, 1268–1369 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:vedanta-desika",
   "label": "Vedānta Deśika",
   "account": "scholarly",
-  "from": 1269,
+  "from": 1268,
+  "to": 1370,
+  "text": "13th–14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:vedanta-desika",
+  "label": "Vedānta Deśika",
+  "account": "tradition",
+  "from": 1268,
   "to": 1369,
-  "text": "1269–1369 (traditional span)",
+  "text": "1268–1369 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:vadakalai",
+  "label": "Vaṭakalai (northern school of Śrīvaiṣṇavism)",
+  "account": "tradition",
+  "from": 1268,
+  "to": null,
+  "text": "from Vedānta Deśika (1268–1369) and the Kāñcī teachers before him",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:umapati-sivacarya",
+  "label": "Umāpati Civācāriyār",
+  "account": "scholarly",
+  "from": 1270,
+  "to": 1330,
+  "text": "late 13th–early 14th c. (works dated 1306 and 1313)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:nivrttinatha",
+  "label": "Nivṛttināth",
+  "account": "scholarly",
+  "from": 1270,
+  "to": 1300,
+  "text": "late 13th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:nivrttinatha",
+  "label": "Nivṛttināth",
+  "account": "tradition",
+  "from": 1273,
+  "to": 1297,
+  "text": "1273–1297 (tradition)",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -5347,6 +9177,16 @@
   "to": 1325,
   "text": "c. 1300 CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:cintra-prasasti",
+  "label": "Cintra praśasti (1287 CE)",
+  "account": "scholarly",
+  "from": 1287,
+  "to": 1287,
+  "text": "1287 CE",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -5370,13 +9210,33 @@
   "level": "skeleton"
  },
  {
-  "entity": "tch:umapati-sivacarya",
-  "label": "Umāpati Śivācārya",
+  "entity": "src:kuncitanghristava",
+  "label": "Kuñcitāṅghristava",
   "account": "scholarly",
   "from": 1290,
-  "to": 1350,
-  "text": "14th c.",
+  "to": 1320,
+  "text": "c. 1300",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:civappirakacam",
+  "label": "Civappirakācam",
+  "account": "scholarly",
+  "from": 1290,
+  "to": 1320,
+  "text": "c. 1300–1315 (Civappirakācam dated 1306, Caṅkaṟpa Nirākaraṇam 1313)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tiruvarutpayan",
+  "label": "Tiruvaruṭpayaṉ",
+  "account": "scholarly",
+  "from": 1290,
+  "to": 1320,
+  "text": "c. 1300–1315 (Civappirakācam dated 1306, Caṅkaṟpa Nirākaraṇam 1313)",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -5460,6 +9320,36 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:sankaradigvijaya",
+  "label": "Śaṅkaradigvijaya (Mādhavīya)",
+  "account": "scholarly",
+  "from": 1300,
+  "to": 1800,
+  "text": "14th–18th c. (disputed)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sarvadarsanasangraha",
+  "label": "Sarvadarśanasaṃgraha",
+  "account": "scholarly",
+  "from": 1300,
+  "to": 1400,
+  "text": "14th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:adhikarana-cintamani",
+  "label": "Adhikaraṇacintāmaṇi",
+  "account": "scholarly",
+  "from": 1300,
+  "to": 1400,
+  "text": "14th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:sumadhvavijaya",
   "label": "Sumadhvavijaya",
   "account": "scholarly",
@@ -5520,6 +9410,66 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:srikarabhasya",
+  "label": "Śrīkarabhāṣya",
+  "account": "scholarly",
+  "from": 1300,
+  "to": 1400,
+  "text": "c. 14th c. CE (disputed; some place it earlier)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:amaraugha-prabodha",
+  "label": "Amaraughaprabodha",
+  "account": "scholarly",
+  "from": 1300,
+  "to": 1400,
+  "text": "c. 14th c. (scholarly estimate; uncertain)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:gorakhbani",
+  "label": "Gorakh Bānī",
+  "account": "scholarly",
+  "from": 1300,
+  "to": 1600,
+  "text": "language c. 14th–16th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:varnaratnakara",
+  "label": "Varṇaratnākara",
+  "account": "scholarly",
+  "from": 1300,
+  "to": 1350,
+  "text": "early 14th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:pattinattar-padalgal",
+  "label": "Paṭṭiṉattār pāṭalkaḷ (Tiruppāṭal tiraṭṭu)",
+  "account": "scholarly",
+  "from": 1300,
+  "to": 1700,
+  "text": "the Siddhar songs are usually placed c. 14th–17th c. and distinguished from Paṭṭiṉattup Piḷḷaiyār of the eleventh Tirumuṟai (c. 10th c.)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:vidyaranya",
+  "label": "Vidyāraṇya",
+  "account": "scholarly",
+  "from": 1300,
+  "to": 1386,
+  "text": "14th c. CE (d. 1386)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:gangesa",
   "label": "Gaṅgeśa Upādhyāya",
   "account": "scholarly",
@@ -5530,12 +9480,72 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:bharatitirtha",
+  "label": "Bhāratītīrtha",
+  "account": "scholarly",
+  "from": 1300,
+  "to": 1380,
+  "text": "14th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:sripati",
+  "label": "Śrīpati Paṇḍita",
+  "account": "scholarly",
+  "from": 1300,
+  "to": 1400,
+  "text": "c. 14th c. CE (disputed)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:navya-nyaya",
   "label": "Navya-Nyāya",
   "account": "scholarly",
   "from": 1300,
   "to": null,
   "text": "from Gaṅgeśa (first half of the 14th c.) to the present",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:vadakalai",
+  "label": "Vaṭakalai (northern school of Śrīvaiṣṇavism)",
+  "account": "scholarly",
+  "from": 1300,
+  "to": 1800,
+  "text": "doctrinal differences take shape 13th–14th c.; separate institutions and marks by c. 17th–18th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:tenkalai",
+  "label": "Teṅkalai (southern school of Śrīvaiṣṇavism)",
+  "account": "scholarly",
+  "from": 1300,
+  "to": 1800,
+  "text": "doctrinal differences take shape 13th–14th c.; separate institutions and marks by c. 17th–18th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:cankarpa-nirakaranam",
+  "label": "Caṅkaṟpa Nirākaraṇam",
+  "account": "scholarly",
+  "from": 1313,
+  "to": 1313,
+  "text": "1313 (dated in the text; moderate confidence)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:sayana",
+  "label": "Sāyaṇa",
+  "account": "scholarly",
+  "from": 1315,
+  "to": 1387,
+  "text": "d. 1387 CE",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -5580,13 +9590,33 @@
   "level": "skeleton"
  },
  {
-  "entity": "src:sarvadarsanasangraha",
-  "label": "Sarvadarśanasaṅgraha",
+  "entity": "src:parasara-madhaviya",
+  "label": "Parāśaramādhavīya",
+  "account": "scholarly",
+  "from": 1330,
+  "to": 1390,
+  "text": "14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:pancadasi",
+  "label": "Pañcadaśī",
+  "account": "scholarly",
+  "from": 1330,
+  "to": 1386,
+  "text": "14th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kriyasakti",
+  "label": "Kriyāśakti",
   "account": "scholarly",
   "from": 1330,
   "to": 1400,
-  "text": "14th c. CE",
-  "confidence": "moderate",
+  "text": "14th c.",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -5750,6 +9780,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:saddarsanasamuccaya-rajasekhara",
+  "label": "Ṣaḍdarśanasamuccaya (Rājaśekhara Sūri)",
+  "account": "scholarly",
+  "from": 1348,
+  "to": 1348,
+  "text": "14th c. (1348 CE)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:rgveda-bhasya-sayana",
   "label": "Sāyaṇa's commentary on the Ṛgveda (Vedārthaprakāśa)",
   "account": "scholarly",
@@ -5800,6 +9840,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:jaiminiya-nyayamala",
+  "label": "Jaiminīya-nyāya-mālā(-vistara)",
+  "account": "scholarly",
+  "from": 1350,
+  "to": 1380,
+  "text": "14th c. CE (Vijayanagara, reign of Bukka I)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:sridhara-svamin",
   "label": "Śrīdhara Svāmin",
   "account": "scholarly",
@@ -5840,6 +9890,106 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:srivacana-bhusana-vyakhyana",
+  "label": "Śrīvacanabhūṣaṇa-vyākhyānam",
+  "account": "tradition",
+  "from": 1370,
+  "to": 1443,
+  "text": "Maṇavāḷa Māmuni, 1370–1443 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mumuksuppadi-vyakhyana",
+  "label": "Mumukṣuppaṭi-vyākhyānam",
+  "account": "tradition",
+  "from": 1370,
+  "to": 1443,
+  "text": "Maṇavāḷa Māmuni, 1370–1443 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tattvatraya-vyakhyana",
+  "label": "Tattvatraya-vyākhyānam",
+  "account": "tradition",
+  "from": 1370,
+  "to": 1443,
+  "text": "Maṇavāḷa Māmuni, 1370–1443 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:acarya-hrdaya-vyakhyana",
+  "label": "Ācāryahṛdaya-vyākhyānam",
+  "account": "tradition",
+  "from": 1370,
+  "to": 1443,
+  "text": "Maṇavāḷa Māmuni, 1370–1443 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:upadesa-ratnamalai",
+  "label": "Upadēśa Ratnamālai",
+  "account": "tradition",
+  "from": 1370,
+  "to": 1443,
+  "text": "Maṇavāḷa Māmuni, 1370–1443 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tiruvaymoli-nurrantati",
+  "label": "Tiruvāymoḻi Nūṟṟantāti",
+  "account": "tradition",
+  "from": 1370,
+  "to": 1443,
+  "text": "Maṇavāḷa Māmuni, 1370–1443 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:yatiraja-vimsati",
+  "label": "Yatirājaviṃśati",
+  "account": "tradition",
+  "from": 1370,
+  "to": 1443,
+  "text": "Maṇavāḷa Māmuni, 1370–1443 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:manavala-mamuni",
+  "label": "Maṇavāḷa Māmuni",
+  "account": "scholarly",
+  "from": 1370,
+  "to": 1443,
+  "text": "15th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:manavala-mamuni",
+  "label": "Maṇavāḷa Māmuni",
+  "account": "tradition",
+  "from": 1370,
+  "to": 1443,
+  "text": "1370–1443 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:adivan-sathakopa-jiyar",
+  "label": "Ādivaṇ Śaṭhakopa Jīyar",
+  "account": "tradition",
+  "from": 1398,
+  "to": null,
+  "text": "founded the Ahobila maṭha in 1398 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:brahmavaivarta-purana",
   "label": "Brahmavaivarta Purāṇa",
   "account": "scholarly",
@@ -5870,6 +10020,86 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:srivacana-bhusana-vyakhyana",
+  "label": "Śrīvacanabhūṣaṇa-vyākhyānam",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1443,
+  "text": "15th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mumuksuppadi-vyakhyana",
+  "label": "Mumukṣuppaṭi-vyākhyānam",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1443,
+  "text": "15th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tattvatraya-vyakhyana",
+  "label": "Tattvatraya-vyākhyānam",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1443,
+  "text": "15th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:acarya-hrdaya-vyakhyana",
+  "label": "Ācāryahṛdaya-vyākhyānam",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1443,
+  "text": "15th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:upadesa-ratnamalai",
+  "label": "Upadēśa Ratnamālai",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1443,
+  "text": "15th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tiruvaymoli-nurrantati",
+  "label": "Tiruvāymoḻi Nūṟṟantāti",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1443,
+  "text": "15th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:yatiraja-vimsati",
+  "label": "Yatirājaviṃśati",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1443,
+  "text": "15th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:venkatesa-suprabhatam",
+  "label": "Veṅkaṭeśa Suprabhātam",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1500,
+  "text": "15th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:padaratnavali",
   "label": "Padaratnāvalī",
   "account": "scholarly",
@@ -5877,6 +10107,16 @@
   "to": 1500,
   "text": "15th c. CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tarkarahasyadipika",
+  "label": "Tarkarahasyadīpikā",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1420,
+  "text": "early 15th c.",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -5920,6 +10160,136 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:navanatha-caritra-gaurana",
+  "label": "Navanāthacaritramu",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1500,
+  "text": "c. 15th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:siddhar-padalgal",
+  "label": "Cittar pāṭalkaḷ (the songs of the Siddhars)",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1800,
+  "text": "undetermined; the Siddhar song corpus is usually placed c. 1400–1800",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sivavakkiyam",
+  "label": "Civavākkiyam (the songs of Sivavākkiyar)",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1800,
+  "text": "undetermined; the Siddhar song corpus is usually placed c. 1400–1800",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:pambatti-padalgal",
+  "label": "Pāmpāṭṭic cittar pāṭalkaḷ (the songs of the snake-charmer Siddhar)",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1800,
+  "text": "undetermined; the Siddhar song corpus is usually placed c. 1400–1800",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:idaikkadar-padalgal",
+  "label": "Iṭaikkāṭṭuc cittar pāṭalkaḷ (the songs of Iṭaikkāṭar)",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1800,
+  "text": "undetermined; the Siddhar song corpus is usually placed c. 1400–1800",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kudambai-padalgal",
+  "label": "Kutampaic cittar pāṭalkaḷ (the songs of Kuṭampai)",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1800,
+  "text": "undetermined; the Siddhar song corpus is usually placed c. 1400–1800",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:azhukanni-padalgal",
+  "label": "Aḻukaṇic cittar pāṭalkaḷ (the songs of Aḻukaṇṇi)",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1800,
+  "text": "undetermined; the Siddhar song corpus is usually placed c. 1400–1800",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kaduveli-ananda-kalippu",
+  "label": "Kaṭuveḷic cittar: Āṉantak kaḷippu (the Joy-song)",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1800,
+  "text": "undetermined; the Siddhar song corpus is usually placed c. 1400–1800",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:akappey-padalgal",
+  "label": "Akappēyc cittar pāṭalkaḷ (the songs of the Siddhar of the 'inner demon')",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1800,
+  "text": "undetermined; the Siddhar song corpus is usually placed c. 1400–1800",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:ramadevar-pujaviti",
+  "label": "Irāmatēvar: Pūjāviti (the rule of worship)",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1800,
+  "text": "undetermined; the Siddhar song corpus is usually placed c. 1400–1800",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sattaimuni-nanam",
+  "label": "Caṭṭaimuṉi ñāṉam (the wisdom of Sattaimuni)",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1800,
+  "text": "undetermined; the Siddhar song corpus is usually placed c. 1400–1800",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tirumular-nanam",
+  "label": "Tirumūla nāyaṉār ñāṉam (the wisdom of Tirumūlar)",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1800,
+  "text": "undetermined; the Siddhar song corpus is usually placed c. 1400–1800",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tiruvalluvar-nanam",
+  "label": "Tiruvaḷḷuvar ñāṉam (the wisdom of Tiruvaḷḷuvar)",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1800,
+  "text": "undetermined; the Siddhar song corpus is usually placed c. 1400–1800",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:cennas-narayanan",
   "label": "Cēnnās Nārāyaṇan Nampūtirippāṭ",
   "account": "scholarly",
@@ -5936,6 +10306,16 @@
   "from": 1400,
   "to": 1500,
   "text": "15th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kesava-kasmirin",
+  "label": "Keśava Kāśmīrin Bhaṭṭa",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1500,
+  "text": "c. 15th c. CE (uncertain)",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -5990,6 +10370,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:gauranna",
+  "label": "Gauraṇa",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1500,
+  "text": "c. 15th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:siddha-medicine",
+  "label": "Siddha medicine (cittā maruttuvam)",
+  "account": "scholarly",
+  "from": 1400,
+  "to": 1900,
+  "text": "the attributed Tamil medical verse-treatises are mostly placed in the 15th–19th c.; the humoral vocabulary is attested in the Tirukkuṟaḷ (ch. 95)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:vagvajra",
   "label": "Vāgvajra",
   "account": "scholarly",
@@ -6017,6 +10417,16 @@
   "to": 1450,
   "text": "c. 1430 (court of Dēvarāya II of Vijayanagara)",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:madhavendra-puri",
+  "label": "Mādhavendra Purī",
+  "account": "scholarly",
+  "from": 1420,
+  "to": 1500,
+  "text": "15th c. CE",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -6080,6 +10490,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:advaita-acarya",
+  "label": "Advaita Ācārya",
+  "account": "scholarly",
+  "from": 1434,
+  "to": 1559,
+  "text": "c. 1434–1550s CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:vasudeva-sarvabhauma",
   "label": "Vāsudeva Sārvabhauma",
   "account": "scholarly",
@@ -6106,6 +10526,16 @@
   "from": 1450,
   "to": 1550,
   "text": "c. 15th–16th c. CE (often placed c. 1500)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:vedantasara",
+  "label": "Vedāntasāra",
+  "account": "scholarly",
+  "from": 1450,
+  "to": 1550,
+  "text": "15th–16th c. CE",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -6140,12 +10570,32 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:sadananda",
+  "label": "Sadānanda (Yogīndra)",
+  "account": "scholarly",
+  "from": 1450,
+  "to": 1550,
+  "text": "15th–16th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:nijaguna-sivayogi",
   "label": "Nijaguṇa Śivayōgi",
   "account": "scholarly",
   "from": 1450,
   "to": 1550,
   "text": "15th–16th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:samaya-srividya",
+  "label": "Samaya school of Śrīvidyā (Samayācāra)",
+  "account": "scholarly",
+  "from": 1450,
+  "to": 1600,
+  "text": "Known chiefly from Lakṣmīdhara's commentary on the Saundaryalaharī (c. 16th c.); the five Śubhāgama saṃhitās are known only through his citations.",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -6162,6 +10612,16 @@
  {
   "entity": "src:tarkatandava",
   "label": "Tarkatāṇḍava",
+  "account": "scholarly",
+  "from": 1460,
+  "to": 1539,
+  "text": "late 15th – early 16th c. CE (Vyāsatīrtha 1460–1539)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tatparyacandrika",
+  "label": "Tātparyacandrikā",
   "account": "scholarly",
   "from": 1460,
   "to": 1539,
@@ -6207,6 +10667,56 @@
   "to": 1539,
   "text": "1460–1539 CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:nityananda",
+  "label": "Nityānanda (Nitāi, Avadhūta)",
+  "account": "scholarly",
+  "from": 1474,
+  "to": 1545,
+  "text": "c. 1474–1540s CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tattvartha-dipa-nibandha",
+  "label": "Tattvārthadīpanibandha of Vallabha",
+  "account": "scholarly",
+  "from": 1479,
+  "to": 1531,
+  "text": "late 15th – early 16th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tattvartha-dipa-nibandha",
+  "label": "Tattvārthadīpanibandha of Vallabha",
+  "account": "tradition",
+  "from": 1479,
+  "to": 1531,
+  "text": "Vallabha, 1479–1531 CE (traditional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:vallabha",
+  "label": "Vallabhācārya (Śrī Vallabha, Mahāprabhujī)",
+  "account": "scholarly",
+  "from": 1479,
+  "to": 1531,
+  "text": "1479–1531 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:vallabha",
+  "label": "Vallabhācārya (Śrī Vallabha, Mahāprabhujī)",
+  "account": "tradition",
+  "from": 1479,
+  "to": 1531,
+  "text": "1479–1531 CE (VS 1535–1587)",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -6370,6 +10880,56 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:caitanya",
+  "label": "Śrī Kṛṣṇa Caitanya (Viśvambhara Miśra, Nimāi, Gaurāṅga, Mahāprabhu)",
+  "account": "scholarly",
+  "from": 1486,
+  "to": 1533,
+  "text": "1486–1533 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:caitanya",
+  "label": "Śrī Kṛṣṇa Caitanya (Viśvambhara Miśra, Nimāi, Gaurāṅga, Mahāprabhu)",
+  "account": "tradition",
+  "from": 1486,
+  "to": 1533,
+  "text": "1486–1533 CE (Śaka 1407–1455)",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:sanatana-gosvami",
+  "label": "Sanātana Gosvāmī",
+  "account": "scholarly",
+  "from": 1488,
+  "to": 1558,
+  "text": "c. 1488–1558 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:rupa-gosvami",
+  "label": "Rūpa Gosvāmī",
+  "account": "scholarly",
+  "from": 1489,
+  "to": 1564,
+  "text": "c. 1489–1564 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:pustimarga",
+  "label": "Puṣṭimārga (Vallabha Sampradāya; Śuddhādvaita Brahmavāda)",
+  "account": "scholarly",
+  "from": 1490,
+  "to": null,
+  "text": "founded c. 1490s–1530s CE; organised by Viṭṭhalanātha (1516–1586)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:saradatilaka",
   "label": "Śāradātilaka",
   "account": "scholarly",
@@ -6400,6 +10960,56 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:tantrarahasya",
+  "label": "Tantrarahasya",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1600,
+  "text": "c. 16th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:vedanta-siddhanta-muktavali",
+  "label": "Vedāntasiddhāntamuktāvalī",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1600,
+  "text": "16th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:candamaruta",
+  "label": "Caṇḍamāruta",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1600,
+  "text": "16th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:upanisad-prakasika",
+  "label": "Upaniṣat-prakāśikā",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1650,
+  "text": "16th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:anubhasya",
+  "label": "Aṇubhāṣya (Brahmasūtrāṇubhāṣya)",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1586,
+  "text": "early 16th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:sunyasampadane-gulura-siddhavirannodeya",
   "label": "Śūnyasampādane — redaction of Gūḷūra Siddhavīraṇṇoḍeya",
   "account": "scholarly",
@@ -6420,8 +11030,248 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:goraksa-vijaya",
+  "label": "Gorakṣavijaya",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1700,
+  "text": "c. 16th–17th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:bogar-7000",
+  "label": "Pōkar ēḻāyiram (Bogar's Seven Thousand; Captakāṇṭam)",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1900,
+  "text": "undetermined; such works are generally placed after c. 1500",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:akattiyar-vaittiya-cintamani",
+  "label": "Akattiyar vaittiya cintāmaṇi",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1900,
+  "text": "undetermined; such works are generally placed after c. 1500",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:akattiyar-paripuranam",
+  "label": "Akattiyar paripūraṇam",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1900,
+  "text": "undetermined; such works are generally placed after c. 1500",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:akattiyar-kunavakatam",
+  "label": "Akattiyar kuṇavākaṭam",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1900,
+  "text": "undetermined; such works are generally placed after c. 1500",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:akattiyar-paripasai",
+  "label": "Akattiyar paripāṣai",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1900,
+  "text": "undetermined; such works are generally placed after c. 1500",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:akattiyar-12000",
+  "label": "Akattiyar paṉṉīrāyiram (Agastya's Twelve Thousand)",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1900,
+  "text": "undetermined; such works are generally placed after c. 1500",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:akattiyar-nanam",
+  "label": "Akattiyar ñāṉam",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1900,
+  "text": "undetermined; such works are generally placed after c. 1500",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:yuki-vaittiya-cintamani",
+  "label": "Yūki vaittiya cintāmaṇi (Yūkimuṉi)",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1900,
+  "text": "undetermined; such works are generally placed after c. 1500",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:teraiyar-yamaka-venpa",
+  "label": "Tēraiyar yamaka veṇpā",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1900,
+  "text": "undetermined; such works are generally placed after c. 1500",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:teraiyar-kunavakatam",
+  "label": "Tēraiyar kuṇavākaṭam",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1900,
+  "text": "undetermined; such works are generally placed after c. 1500",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:teraiyar-noy-anuka-viti",
+  "label": "Tēraiyar nōy aṇukā viti (rules by which disease does not approach)",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1900,
+  "text": "undetermined; such works are generally placed after c. 1500",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:korakkar-malai-vakatam",
+  "label": "Kōrakkar malai vākaṭam",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1900,
+  "text": "undetermined; such works are generally placed after c. 1500",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:konganar-vata-kaviyam",
+  "label": "Koṅkaṇar vāta kāviyam",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1900,
+  "text": "undetermined; such works are generally placed after c. 1500",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:pulippani-vaittiyam",
+  "label": "Pulippāṇi vaittiyam",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1900,
+  "text": "undetermined; such works are generally placed after c. 1500",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tirumular-karukkitai-vaittiyam",
+  "label": "Tirumūlar karukkiṭai vaittiyam",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1900,
+  "text": "undetermined; such works are generally placed after c. 1500",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:yakopu-vaittiyam",
+  "label": "Yākōpu vaittiya cintāmaṇi",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1900,
+  "text": "undetermined; such works are generally placed after c. 1500",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:govindaraja",
   "label": "Govindarāja",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1600,
+  "text": "16th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:sivagrayogin",
+  "label": "Śivāgrayogin",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1600,
+  "text": "16th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:ramanujacarya-tantrarahasya",
+  "label": "Rāmānujācārya (Prābhākara author)",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1600,
+  "text": "c. 16th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:govindananda",
+  "label": "Govindānanda",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1600,
+  "text": "c. 16th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:prakasananda",
+  "label": "Prakāśānanda",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1600,
+  "text": "16th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:doddayacarya",
+  "label": "Doḍḍayācārya",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1600,
+  "text": "16th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:ranga-ramanuja-muni",
+  "label": "Raṅgarāmānuja Muni",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1650,
+  "text": "16th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:surdas",
+  "label": "Sūrdās",
   "account": "scholarly",
   "from": 1500,
   "to": 1600,
@@ -6446,6 +11296,46 @@
   "from": 1500,
   "to": 1700,
   "text": "16th–17th c. (debated)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:sekh-phayjulla",
+  "label": "Śekh Phayjullāh",
+  "account": "scholarly",
+  "from": 1500,
+  "to": 1600,
+  "text": "c. 16th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:gaudiya-vaisnava",
+  "label": "Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)",
+  "account": "scholarly",
+  "from": 1500,
+  "to": null,
+  "text": "founded early 16th c. CE; theology systematised by the Vṛndāvana Gosvāmīs c. 1530–1600",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:gopinatha-vallabha",
+  "label": "Gopīnātha (elder son of Vallabha)",
+  "account": "scholarly",
+  "from": 1511,
+  "to": 1533,
+  "text": "c. 1511–1533 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:jiva-gosvami",
+  "label": "Jīva Gosvāmī",
+  "account": "scholarly",
+  "from": 1513,
+  "to": 1608,
+  "text": "16th c. CE (birth c. 1513–1533, death c. 1598–1608)",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -6490,6 +11380,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:vitthalanatha",
+  "label": "Viṭṭhalanātha (Gusāṃījī)",
+  "account": "scholarly",
+  "from": 1516,
+  "to": 1586,
+  "text": "1516–1586 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:smrtitattva",
+  "label": "Smṛtitattva of Raghunandana",
+  "account": "scholarly",
+  "from": 1520,
+  "to": 1580,
+  "text": "16th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:madhvatantramukhamardana",
   "label": "Madhvatantramukhamardana",
   "account": "scholarly",
@@ -6500,12 +11410,72 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:raghunandana",
+  "label": "Raghunandana",
+  "account": "scholarly",
+  "from": 1520,
+  "to": 1580,
+  "text": "16th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:appayya-diksita",
+  "label": "Appayya Dīkṣita",
+  "account": "scholarly",
+  "from": 1520,
+  "to": 1593,
+  "text": "1520–1593 CE (conventional)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:gudharthadipika",
-  "label": "Gūḍhārthadīpikā of Madhusūdana Sarasvatī",
+  "label": "Gūḍhārthadīpikā",
   "account": "scholarly",
   "from": 1540,
   "to": 1650,
   "text": "16th–17th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:caitanya-bhagavata",
+  "label": "Caitanya Bhāgavata",
+  "account": "scholarly",
+  "from": 1540,
+  "to": 1575,
+  "text": "c. 1540s–1570s CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:padmavat",
+  "label": "Padmāvat",
+  "account": "scholarly",
+  "from": 1540,
+  "to": 1540,
+  "text": "1540",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:madhusudana-sarasvati",
+  "label": "Madhusūdana Sarasvatī",
+  "account": "scholarly",
+  "from": 1540,
+  "to": 1640,
+  "text": "16th–17th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:bhaktirasamrtasindhu",
+  "label": "Bhaktirasāmṛtasindhu",
+  "account": "scholarly",
+  "from": 1541,
+  "to": 1541,
+  "text": "completed 1541 CE (Śaka 1463, per the final verse)",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -6560,6 +11530,86 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:advaitasiddhi",
+  "label": "Advaitasiddhi",
+  "account": "scholarly",
+  "from": 1550,
+  "to": 1650,
+  "text": "16th–17th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sivarkamanidipika",
+  "label": "Śivārkamaṇidīpikā",
+  "account": "scholarly",
+  "from": 1550,
+  "to": 1593,
+  "text": "16th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:prapannamrtam",
+  "label": "Prapannāmṛtam",
+  "account": "scholarly",
+  "from": 1550,
+  "to": 1750,
+  "text": "c. 17th c. CE (uncertain)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:yatindramatadipika",
+  "label": "Yatīndramatadīpikā",
+  "account": "scholarly",
+  "from": 1550,
+  "to": 1700,
+  "text": "c. 16th–17th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:vijnanamrta-bhasya",
+  "label": "Vijñānāmṛtabhāṣya",
+  "account": "scholarly",
+  "from": 1550,
+  "to": 1600,
+  "text": "16th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tiruvilaiyatal-puranam",
+  "label": "Tiruviḷaiyāṭal Purāṇam",
+  "account": "scholarly",
+  "from": 1550,
+  "to": 1650,
+  "text": "c. 16th–17th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:mahidhara",
+  "label": "Mahīdhara",
+  "account": "scholarly",
+  "from": 1550,
+  "to": 1600,
+  "text": "late 16th century CE (Vedadīpa c. 1589)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:bhattoji-diksita",
+  "label": "Bhaṭṭoji Dīkṣita",
+  "account": "scholarly",
+  "from": 1550,
+  "to": 1630,
+  "text": "c. 1550–1630 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:vijnanabhiksu",
   "label": "Vijñānabhikṣu",
   "account": "scholarly",
@@ -6575,6 +11625,46 @@
   "account": "scholarly",
   "from": 1550,
   "to": 1650,
+  "text": "c. late 16th – 17th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:srinivasadasa",
+  "label": "Śrīnivāsadāsa",
+  "account": "scholarly",
+  "from": 1550,
+  "to": 1700,
+  "text": "c. 16th–17th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:parancoti-tiruvilaiyatal",
+  "label": "Parañcōti Muṉivar (author of the Tiruviḷaiyāṭal Purāṇam)",
+  "account": "scholarly",
+  "from": 1550,
+  "to": 1650,
+  "text": "c. 16th–17th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:gokulnath",
+  "label": "Gokulnāth",
+  "account": "scholarly",
+  "from": 1551,
+  "to": 1641,
+  "text": "1551–1641 CE (approx.)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:manameyodaya",
+  "label": "Mānameyodaya",
+  "account": "scholarly",
+  "from": 1560,
+  "to": 1700,
   "text": "c. late 16th – 17th c. CE",
   "confidence": "low",
   "level": "skeleton"
@@ -6640,6 +11730,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:vaijayanti",
+  "label": "Vaijayantī of Nandapaṇḍita",
+  "account": "scholarly",
+  "from": 1580,
+  "to": 1630,
+  "text": "c. 1600 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:nandapandita",
+  "label": "Nandapaṇḍita",
+  "account": "scholarly",
+  "from": 1580,
+  "to": 1630,
+  "text": "c. 1600 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:jagadisa-tarkalankara",
   "label": "Jagadīśa Tarkālaṅkāra",
   "account": "scholarly",
@@ -6647,6 +11757,16 @@
   "to": 1660,
   "text": "late 16th – 17th c. CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:caitanya-caritamrta",
+  "label": "Caitanya Caritāmṛta",
+  "account": "scholarly",
+  "from": 1581,
+  "to": 1615,
+  "text": "completed c. 1612–1615 CE (one colophon reading gives 1615; an alternative reading 1581)",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -6676,6 +11796,16 @@
   "from": 1590,
   "to": 1660,
   "text": "early 17th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:harirai",
+  "label": "Harirāy (Harirāyajī)",
+  "account": "scholarly",
+  "from": 1590,
+  "to": 1715,
+  "text": "17th c. CE",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -6880,6 +12010,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:siddhantakaumudi",
+  "label": "Vaiyākaraṇa-Siddhāntakaumudī",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1630,
+  "text": "early 17th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:bhagavantabhaskara",
+  "label": "Bhagavantabhāskara of Nīlakaṇṭha Bhaṭṭa",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1660,
+  "text": "17th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:tattvacintamani-rahasya",
   "label": "Tattvacintāmaṇirahasya",
   "account": "scholarly",
@@ -6920,6 +12070,46 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:bhattadipika",
+  "label": "Bhāṭṭadīpikā",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1665,
+  "text": "17th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mimamsanyayaprakasa",
+  "label": "Mīmāṃsānyāyaprakāśa",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1700,
+  "text": "17th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:arthasangraha",
+  "label": "Arthasaṅgraha",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1700,
+  "text": "17th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:vedantaparibhasa",
+  "label": "Vedāntaparibhāṣā",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1700,
+  "text": "17th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:abhinavamrta",
   "label": "Abhinavāmṛta",
   "account": "scholarly",
@@ -6930,12 +12120,52 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:caurasi-vaisnavan-ki-varta",
+  "label": "Caurāsī Vaiṣṇavan kī Vārtā",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1700,
+  "text": "17th c. CE in its present form",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:pirapulinka-lilai",
   "label": "Pirapuliṅkalīlai (Turaimaṅkalam Śivaprakāśar)",
   "account": "scholarly",
   "from": 1600,
   "to": 1700,
   "text": "17th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:goraksa-siddhanta-sangraha",
+  "label": "Gorakṣasiddhāntasaṅgraha",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1800,
+  "text": "c. 17th–18th c. (uncertain)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kamalakara-bhatta",
+  "label": "Kamalākara Bhaṭṭa",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1640,
+  "text": "early 17th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:nilakantha-bhatta",
+  "label": "Nīlakaṇṭha Bhaṭṭa",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1660,
+  "text": "17th c. CE",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -7010,6 +12240,36 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:khandadeva",
+  "label": "Khaṇḍadeva Miśra",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1665,
+  "text": "17th c. CE (d. c. 1665)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:brahmananda-sarasvati",
+  "label": "Brahmānanda Sarasvatī",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1700,
+  "text": "17th–18th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:dharmaraja-adhvarindra",
+  "label": "Dharmarāja Adhvarīndra",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1700,
+  "text": "17th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:sadaksaradeva",
   "label": "Ṣaḍakṣaradēva",
   "account": "scholarly",
@@ -7037,6 +12297,66 @@
   "to": 1700,
   "text": "17th c.",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kina-ram",
+  "label": "Kīnārām",
+  "account": "tradition",
+  "from": 1601,
+  "to": 1771,
+  "text": "1601–1771 (Vikrama 1658 birth; lived about 170 years)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:aghora",
+  "label": "Aghora (Aghor panth; Aghorī and Aughaṛ ascetics)",
+  "account": "tradition",
+  "from": 1601,
+  "to": null,
+  "text": "Kīnārām, born Vikrama 1658 (1601 CE) at Rāmgaṛh near Varanasi, lived to 1771 CE; Dattātreya is the ādiguru",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nirnayasindhu",
+  "label": "Nirṇayasindhu of Kamalākara Bhaṭṭa",
+  "account": "scholarly",
+  "from": 1610,
+  "to": 1615,
+  "text": "1612 CE (by tradition of the colophon)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:viramitrodaya",
+  "label": "Vīramitrodaya of Mitra Miśra",
+  "account": "scholarly",
+  "from": 1610,
+  "to": 1640,
+  "text": "17th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:mitra-misra",
+  "label": "Mitra Miśra",
+  "account": "scholarly",
+  "from": 1610,
+  "to": 1640,
+  "text": "17th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:dara-shikoh",
+  "label": "Dārā Shikoh",
+  "account": "scholarly",
+  "from": 1615,
+  "to": 1659,
+  "text": "1615–1659 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -7100,6 +12420,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:visvanatha-cakravartin",
+  "label": "Viśvanātha Cakravartin",
+  "account": "scholarly",
+  "from": 1626,
+  "to": 1708,
+  "text": "c. 1626/1638–1708 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:nyayasutravrtti-visvanatha",
   "label": "Nyāyasūtravṛtti (Viśvanātha)",
   "account": "scholarly",
@@ -7156,6 +12486,36 @@
   "from": 1650,
   "to": 1710,
   "text": "fl. late 17th – early 18th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:purusottama-pustimarga",
+  "label": "Puruṣottama (Puruṣottamajī, of the Vallabha line)",
+  "account": "scholarly",
+  "from": 1650,
+  "to": 1790,
+  "text": "17th–18th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sirr-i-akbar",
+  "label": "Sirr-i Akbar",
+  "account": "scholarly",
+  "from": 1657,
+  "to": 1657,
+  "text": "1657 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:paribhasendusekhara",
+  "label": "Paribhāṣenduśekhara",
+  "account": "scholarly",
+  "from": 1670,
+  "to": 1750,
+  "text": "c. late 17th – early 18th c. CE",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -7250,13 +12610,23 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:vivekasar-kina-ram",
+  "label": "Vivekasār",
+  "account": "tradition",
+  "from": 1700,
+  "to": 1800,
+  "text": "18th c. (the tradition connects it with Kīnārām's vision of Dattātreya at Girnar)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:baladeva-vidyabhusana",
   "label": "Baladeva Vidyābhūṣaṇa",
   "account": "scholarly",
   "from": 1700,
-  "to": 1770,
-  "text": "18th c. CE",
-  "confidence": "moderate",
+  "to": 1793,
+  "text": "c. 1700–1793 CE (uncertain)",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -7266,6 +12636,76 @@
   "from": 1700,
   "to": 1800,
   "text": "18th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:mastnath",
+  "label": "Mastnāth",
+  "account": "scholarly",
+  "from": 1700,
+  "to": 1800,
+  "text": "18th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kina-ram",
+  "label": "Kīnārām",
+  "account": "scholarly",
+  "from": 1700,
+  "to": 1800,
+  "text": "18th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:aghora",
+  "label": "Aghora (Aghor panth; Aghorī and Aughaṛ ascetics)",
+  "account": "scholarly",
+  "from": 1700,
+  "to": null,
+  "text": "the Kīnārāmī lineage is attested from the 18th c.; any continuity with the medieval Kāpālikas is a scholarly hypothesis",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tayumanavar-padalgal",
+  "label": "Tāyumāṉavar pāṭalkaḷ (the songs of Tāyumāṉavar)",
+  "account": "scholarly",
+  "from": 1705,
+  "to": 1742,
+  "text": "first half of the 18th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:tayumanavar",
+  "label": "Tāyumāṉavar",
+  "account": "scholarly",
+  "from": 1705,
+  "to": 1742,
+  "text": "c. 1705–1742",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:govinda-bhasya",
+  "label": "Govinda-bhāṣya",
+  "account": "scholarly",
+  "from": 1718,
+  "to": 1740,
+  "text": "c. 1720s CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:civanana-munivar",
+  "label": "Civañāṉa Muṉivar",
+  "account": "scholarly",
+  "from": 1720,
+  "to": 1785,
+  "text": "18th c.; died 1785",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -7280,6 +12720,76 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:civanana-mapatiyam",
+  "label": "Civañāṉa Māpāṭiyam",
+  "account": "scholarly",
+  "from": 1740,
+  "to": 1785,
+  "text": "18th c. (before 1785)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:hir-waris-shah",
+  "label": "Hīr (Wāris Shāh)",
+  "account": "scholarly",
+  "from": 1766,
+  "to": 1766,
+  "text": "1766",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:dharmasindhu",
+  "label": "Dharmasindhu of Kāśīnātha Upādhyāya",
+  "account": "scholarly",
+  "from": 1780,
+  "to": 1800,
+  "text": "c. 1790 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:oupnekhat",
+  "label": "Oupnek'hat",
+  "account": "scholarly",
+  "from": 1801,
+  "to": 1802,
+  "text": "1801–1802 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:navanatha-bhaktisara",
+  "label": "Navanātha Bhaktisāra",
+  "account": "tradition",
+  "from": 1819,
+  "to": 1819,
+  "text": "composed Śaka 1741 (1819 CE) as generally stated",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:arumuga-navalar",
+  "label": "Ārumuka Nāvalar",
+  "account": "scholarly",
+  "from": 1822,
+  "to": 1879,
+  "text": "1822–1879",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:dayananda-sarasvati",
+  "label": "Dayānanda Sarasvatī",
+  "account": "scholarly",
+  "from": 1824,
+  "to": 1883,
+  "text": "1824–1883 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:mahesacandra-nyayaratna",
   "label": "Maheśacandra Nyāyaratna",
   "account": "scholarly",
@@ -7287,6 +12797,16 @@
   "to": 1906,
   "text": "1836–1906 CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:bhaktivinoda-thakura",
+  "label": "Bhaktivinoda Ṭhākura (Kedarnath Datta)",
+  "account": "scholarly",
+  "from": 1838,
+  "to": 1914,
+  "text": "1838–1914 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -7340,6 +12860,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:sri-aurobindo",
+  "label": "Sri Aurobindo",
+  "account": "scholarly",
+  "from": 1872,
+  "to": 1950,
+  "text": "1872–1950 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:bhaktisiddhanta-sarasvati",
+  "label": "Bhaktisiddhānta Sarasvatī",
+  "account": "scholarly",
+  "from": 1874,
+  "to": 1937,
+  "text": "1874–1937 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:arya-samaj",
   "label": "Ārya Samāj",
   "account": "scholarly",
@@ -7360,6 +12900,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:maraimalai-atikal",
+  "label": "Maṟaimalai Aṭikaḷ",
+  "account": "scholarly",
+  "from": 1876,
+  "to": 1950,
+  "text": "1876–1950",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:satchidanandendra-sarasvati",
+  "label": "Swami Satchidanandendra Sarasvati",
+  "account": "scholarly",
+  "from": 1880,
+  "to": 1975,
+  "text": "1880–1975",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:halakatti",
   "label": "P. G. Halakatti",
   "account": "scholarly",
@@ -7370,6 +12930,36 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:candrasekhara-bharati-iii",
+  "label": "Candraśekhara Bhāratī III",
+  "account": "scholarly",
+  "from": 1892,
+  "to": 1954,
+  "text": "1892–1954",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:candrasekharendra-sarasvati",
+  "label": "Candraśekharendra Sarasvatī",
+  "account": "scholarly",
+  "from": 1894,
+  "to": 1994,
+  "text": "1894–1994",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:bhaktivedanta-swami",
+  "label": "A. C. Bhaktivedanta Swami Prabhupāda",
+  "account": "scholarly",
+  "from": 1896,
+  "to": 1977,
+  "text": "1896–1977 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:bhasvati",
   "label": "Bhāsvatī",
   "account": "scholarly",
@@ -7377,6 +12967,16 @@
   "to": 1947,
   "text": "early 20th c. CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:noy-natal-noy-mutal-natal-tirattu",
+  "label": "Nōy nāṭal nōy mutal nāṭal tiraṭṭu (diagnosis and aetiology)",
+  "account": "scholarly",
+  "from": 1900,
+  "to": 2000,
+  "text": "20th c. compilation",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -7420,6 +13020,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:chinmayananda",
+  "label": "Swami Chinmayananda",
+  "account": "scholarly",
+  "from": 1916,
+  "to": 1993,
+  "text": "1916–1993",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:gambhirnath",
+  "label": "Gambhīrnāth",
+  "account": "scholarly",
+  "from": null,
+  "to": 1917,
+  "text": "d. 1917 (recalled)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:anasakti-yoga",
   "label": "Anāsakti Yoga of M. K. Gandhi",
   "account": "scholarly",
@@ -7430,12 +13050,62 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:mulavidyanirasa",
+  "label": "Mūlāvidyānirāsa",
+  "account": "scholarly",
+  "from": 1929,
+  "to": 1929,
+  "text": "1929 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kunapatam",
+  "label": "Kuṇapāṭam (Siddha materia medica)",
+  "account": "scholarly",
+  "from": 1930,
+  "to": 1960,
+  "text": "20th c. (the plant volume is associated with T. Murukēca Mutaliyār, 1930s)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:dayananda-saraswati-arsha",
+  "label": "Swami Dayananda Saraswati (Arsha Vidya)",
+  "account": "scholarly",
+  "from": 1930,
+  "to": 2015,
+  "text": "1930–2015",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:visvesa-tirtha",
   "label": "Viśveśa Tīrtha",
   "account": "scholarly",
   "from": 1931,
   "to": 2019,
   "text": "1931–2019 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:bhagwan-ram",
+  "label": "Aghoreśvar Bhagavān Rām",
+  "account": "scholarly",
+  "from": 1937,
+  "to": 1992,
+  "text": "1937–1992",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:sarvesvari-samuh",
+  "label": "Śrī Sarveśvarī Samūh (Aghoreśvar Bhagavān Rām's Aghora organisation)",
+  "account": "scholarly",
+  "from": 1961,
+  "to": null,
+  "text": "founded 1961 (as generally reported)",
   "confidence": "moderate",
   "level": "skeleton"
  }

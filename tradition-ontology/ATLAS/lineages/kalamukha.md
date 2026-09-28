@@ -5,7 +5,7 @@
 **Family:** vedic
 **Alternate names:** Kālāmukha, Kālamukha, Kāḷāmukha (Kannada inscriptions), Lākula (self-description in inscriptions)
 **Parent:** [Lākula](lakula.md)
-**Key teachers:** `tch:kedarasakti`, `tch:vamasakti`, `tch:kriyasakti`
+**Key teachers:** [Kedāraśakti](../teachers/kedarasakti.md), [Vāmaśakti](../teachers/vamasakti.md), [Kriyāśakti](../teachers/kriyasakti.md)
 **Regions:** Karnataka (Balligāve/Belagāmi in Shimoga district and many other sites), Śrīśaila (Andhra)
 **Dates:** Scholarly account: c. 9th–14th c.; most inscriptions 11th–13th c.; (confidence moderate)
 **Status:** extinct
@@ -33,13 +33,13 @@ The Kālāmukhas are the Śaiva ascetics of numerous Karnataka inscriptions of t
 **Caveat:** Known only from inscriptions and from opponents (Yāmuna, Rāmānuja).
 
 ## Texts
-[Āgamaprāmāṇya](../texts/agamapramanya.md), `src:balligave-kalamukha-inscriptions`, `src:sribhasya`, `src:tarkarahasyadipika`
+[Āgamaprāmāṇya](../texts/agamapramanya.md), [Balligāve (Belagāmi) inscriptions of the Kālāmukha Kōḍiya-maṭha](../texts/balligave-kalamukha-inscriptions.md), [Śrībhāṣya](../texts/sribhasya.md), [Tarkarahasyadīpikā](../texts/tarkarahasyadipika.md)
 
 ## Teachers
-`tch:kedarasakti`, `tch:kriyasakti`, `tch:vamasakti`
+[Kedāraśakti](../teachers/kedarasakti.md), [Kriyāśakti](../teachers/kriyasakti.md), [Lakulīśa](../teachers/lakulisa.md), [Vāmaśakti](../teachers/vamasakti.md)
 
 ## Practices
-_none recorded_
+[Skull-eating and corpse-ash practices (reported)](../practices/kalamukha-skull-ash-practices.md), [The great vow of the skull (mahāvrata, kapālavrata)](../practices/mahavrata-kapala.md), [Worship of the deity in a pot of liquor (reported)](../practices/surakumbha-worship.md)
 
 ## Path maps
 _none recorded_
@@ -48,4 +48,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 08:09 IST._

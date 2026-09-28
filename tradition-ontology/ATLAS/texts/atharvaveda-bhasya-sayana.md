@@ -9,7 +9,7 @@
 **Genre:** bhāṣya (commentary)
 **Commentary on:** [Atharvaveda Saṃhitā (Śaunaka)](atharvaveda-saunaka.md)
 **Authors:** 
-  - `tch:sayana` — role: commentator; attribution: accepted
+  - [Sāyaṇa](../teachers/sayana.md) — role: commentator; attribution: accepted
 **Availability:** partly-lost
 
 Sāyaṇa's commentary on the Śaunaka Atharvaveda, surviving for most but not all of its books.
@@ -17,4 +17,4 @@ Sāyaṇa's commentary on the Śaunaka Atharvaveda, surviving for most but not a
 _Notes: Which books lack the commentary is not recalled with confidence._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

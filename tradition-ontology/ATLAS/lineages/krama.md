@@ -21,10 +21,10 @@ The Kālī-centred Kaula tradition of the northern transmission as practised in 
 - The sequence (krama) of cognition leads into the sequenceless (akrama).
 
 **Transmissions received:** 
-  - `lin:kalikula` — what: the Kālīkula scriptures and the cult of Kālasaṅkarṣiṇī; evidence: Jayadrathayāmala; Kālīkulapañcaśataka
+  - [Kālīkula (the Kālī lineages)](kalikula.md) — what: the Kālīkula scriptures and the cult of Kālasaṅkarṣiṇī; evidence: Jayadrathayāmala; Kālīkulapañcaśataka
 **Transmissions given:** 
   - [Trika ('the Triad')](trika.md) — what: the twelve Kālīs integrated as a form of śāktopāya (TĀ 4.148-172)
-  - `lin:srividya` — what: Krama ideas in Maheśvarānanda's Mahārthamañjarī, which also draws on Śrīvidyā
+  - [Śrīvidyā](srividya.md) — what: Krama ideas in Maheśvarānanda's Mahārthamañjarī, which also draws on Śrīvidyā
 
 ## The ultimate in this lineage
 `skeleton` · confidence moderate
@@ -43,7 +43,7 @@ The Kālī-centred Kaula tradition of the northern transmission as practised in 
 [Abhinavagupta](../teachers/abhinavagupta.md), [Anantaśaktipāda](../teachers/anantasaktipada.md), [Jayaratha](../teachers/jayaratha.md), [Jñānanetra (Śivānanda)](../teachers/jnananetra.md), [Maheśvarānanda](../teachers/mahesvarananda.md), [Niṣkriyānandanātha](../teachers/niskriyanandanatha.md), [Rājānaka Śitikaṇṭha](../teachers/sitikantha.md)
 
 ## Practices
-_none recorded_
+[Krama contemplation of the twelve Kālīs](../practices/krama-twelve-kalis-contemplation.md)
 
 ## Path maps
 _none recorded_
@@ -54,4 +54,4 @@ _none recorded_
 _Notes: Parent set to the Kashmirian grouping; historically a Kālīkula (lin:kalikula) Kaula system._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

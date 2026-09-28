@@ -17,4 +17,4 @@
 Son of Śaṃtanu and Gaṅgā, the Kuru elder who vowed celibacy; granted mastery over the moment of his death, he lies on a bed of arrows waiting for the sun's northern course (6.114.89–98) and instructs Yudhiṣṭhira in Rājadharma, Āpaddharma and Mokṣadharma (Śāntiparvan) and in the Anuśāsana, including the thousand names of Viṣṇu; at death his self, restrained in all the openings, pierces the crown and rises to heaven (13.154.5).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

@@ -2,7 +2,7 @@
 
 `tch:sikhidhvaja` · `skeleton` · confidence high
 
-**Lineages:** `lin:advaita-vedanta`
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md)
 **Historicity:** legendary
 **Teachers:** [Cūḍālā](cudala.md)
 
@@ -10,4 +10,4 @@ King of Mālava who renounced his kingdom for forest austerities but found no pe
 **Realization — the tradition's account:** After giving up even his ascetic's belongings and his body-identification he entered a long samādhi, awoke liberated and returned to rule with Cūḍālā.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

@@ -16,7 +16,21 @@
 
 one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); twelve hymns (adhyāyas) to Viṣṇu and Lakṣmī, sung in the daily worship of the Mādhva maṭhas, beginning 'vande vandyaṃ sadānandaṃ vāsudevaṃ nirañjanam'.
 
+## Teachings (1: skeleton 1)
+
+### 1.1 <a id="tea-dvadasastotra-1-1"></a>
+`skeleton` · confidence high
+
+I praise the praiseworthy Vāsudeva, ever blissful and stainless, the lord of Indirā, who grants boons even to the first of those who grant boons.
+
+> vande vandyaṃ sadānandaṃ vāsudevaṃ nirañjanam | indirāpatim ādyādivaradeśavarapradam ||1||
+
+_level: ultimate · standpoint: devotional · path: devotion, sound · stage: all · types: practice_
+
+concepts: [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Recitation of the tradition's hymns](../practices/stotra-parayana.md)
+
+
 _Notes: Twelve colophons and first verse checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

@@ -15,13 +15,13 @@ A Sāmaveda recension close to the Kauthuma, living in a smaller community of re
 
 
 ## Texts
-[Āraṇyageya-gāna (Araṇyegāna)](../texts/aranyageya-gana.md), [Grāmageya-gāna (Veyagāna)](../texts/gramageya-gana.md), [Sāmaveda Saṃhitā (Kauthuma)](../texts/samaveda.md), [Ūha-gāna](../texts/uha-gana.md), [Ūhya-gāna (Rahasya-gāna)](../texts/uhya-gana.md)
+[Āraṇyageya-gāna (Araṇyegāna)](../texts/aranyageya-gana.md), [Chāndogya Upaniṣad](../texts/chandogya-upanisad.md), [Grāmageya-gāna (Veyagāna)](../texts/gramageya-gana.md), [Sāmaveda Saṃhitā (Kauthuma)](../texts/samaveda.md), [Ūha-gāna](../texts/uha-gana.md), [Ūhya-gāna (Rahasya-gāna)](../texts/uhya-gana.md)
 
 ## Teachers
 _none recorded_
 
 ## Practices
-_none recorded_
+[Sāman chanting (sāmagāna)](../practices/sama-gana.md)
 
 ## Path maps
 _none recorded_
@@ -32,4 +32,4 @@ _none recorded_
 _Notes: Sūtra affiliations and regions from memory; to be checked._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

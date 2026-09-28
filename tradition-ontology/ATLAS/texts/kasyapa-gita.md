@@ -16,5 +16,15 @@
 
 Forgiveness (kṣamā) is dharma, truth, sacrifice and Brahman; the world is upheld by the forgiving.
 
+## Teachings (1: skeleton 1)
+
+### 3.30.35-44 <a id="tea-kasyapa-gita-3-30-35-44"></a>
+`skeleton` · confidence moderate · [AI-translated]
+
+Forgiveness is dharma, sacrifice, the Veda, learning; forgiveness is Brahman, truth and austerity; the worlds are upheld by the forgiving — so sang Kāśyapa.
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics_
+
+
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

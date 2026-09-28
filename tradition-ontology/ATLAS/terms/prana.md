@@ -1,0 +1,29 @@
+# prāṇa
+
+`trm:prana` · `skeleton` · confidence high
+
+**Language:** Sanskrit
+**Native script:** प्राण
+**Literal:** breath; in-breath; life
+
+## Definitions by tradition
+- [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): Breath and life-force; in the Atharvaveda Prāṇa is lord of all, death and fever, awake among sleepers (AVŚ 11.4); wind was born from the Puruṣa's breath (RV 10.90.13).
+- [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): Breath as the vital power: the seers are the breaths (ŚB 6.1.1.1); the breath is the consecrated (KB 7.1); the one god is the breath, called 'that' (ŚB 11.6.3); the breaths are enumerated as five (prāṇa, apāna, vyāna, udāna, samāna).
+- [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md): The breath impelled by the body's fire that, striking the places of articulation, produces the phonemes (Pāṇinīya Śikṣā 6–9).
+- [Sāṃkhya](../lineages/samkhya.md): One of the five vital winds that are the shared function of the three internal instruments (SK 29); the Kramadīpikā places it at mouth and nose.
+- [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): The breath expelled and retained in 1.34; the chief of the five vital airs, moving through mouth and nose up to the heart (YBh 3.39).
+- [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Breath, life-breath: the eldest and best of the vital powers (BAU 6.1; ChU 5.1); the one god (BAU 3.9.9); the gatherer in the body (ChU 4.3.3); born from the self like a shadow (PrU 3.3); brahman (KauU 2.1) and 'the intelligent self' (KauU 3.2); also the collective name of the five breaths (BAU 1.5.3).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The (in-)breath, offered into apāna in breath-sacrifice (BhG 4.29), fixed between the brows (8.10) or in the head (8.12) at death; the Lord as vaiśvānara joined with prāṇa and apāna digests food (15.14).
+- [Vaiśeṣika](../lineages/vaisesika.md): The air moving within the body; one, named prāṇa, apāna and the rest by differences of adjunct (Tarkasaṅgraha); inhalation and exhalation are marks of the self (VS 3.2.4 C).
+- [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): The vital breath; the self in the Brahma Upaniṣad; chief of the ten vāyus; its vibration is a seed of mind.
+- [Trika ('the Triad')](../lineages/trika.md): The breath-power (marudrūpā śakti) whose arising, turning and suspension are contemplated (VBT 24-27, 64); in the āṇava means its five forms carry the seven blisses (TĀ 5).
+- [Pratyabhijñā (the philosophy of recognition)](../lineages/pratyabhijna.md): Prāṇa and apāna prevail in waking and dream, samāna in deep sleep, udāna in the fourth, vyāna beyond (ĪPK 3.2.19-20).
+
+## Forms in other languages
+- Pali: pāṇa  — partial
+
+## Equivalents (interpretation layer)
+**Related:** [apāna](apana.md), [vyāna](vyana.md), [udāna](udana.md), [samāna](samana.md), [antaḥkaraṇa](antahkarana.md)
+
+---
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, skeleton:U11-nyaya-vaisesika, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

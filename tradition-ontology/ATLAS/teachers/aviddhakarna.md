@@ -11,4 +11,4 @@ Early Naiyāyika known only from citations in Buddhist works (Śāntarakṣita's
 _Notes: Known only through opponents' reports; details unverified._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._

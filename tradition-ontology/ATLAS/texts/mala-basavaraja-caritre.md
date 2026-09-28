@@ -13,4 +13,4 @@
 A Kannada narrative of Basava's life that catalogues his miracles (traditionally eighty-eight).
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._

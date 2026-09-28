@@ -5,7 +5,7 @@
 **Family:** vedic
 **Alternate names:** Vājasaneyi Mādhyandina
 **Parent:** [Vedic Śrauta tradition (the Saṃhitā lineages)](vedic-srauta.md)
-**Key teachers:** [Yājñavalkya](../teachers/yajnavalkya.md), `tch:uvata`, `tch:mahidhara`
+**Key teachers:** [Yājñavalkya](../teachers/yajnavalkya.md), [Uvaṭa](../teachers/uvata.md), [Mahīdhara](../teachers/mahidhara.md)
 **Regions:** North India above all
 **Status:** living
 
@@ -18,13 +18,13 @@ The dominant White Yajurveda recension of North India, with the Kātyāyana and 
 
 
 ## Texts
-`src:brhadaranyaka-upanisad`, [Camakam (Camaka-praśna)](../texts/camakam.md), `src:isa-upanisad`, [Mantrabhāṣya (Uvaṭa on the Vājasaneyi Saṃhitā)](../texts/mantrabhasya-uvata.md), [Śatapatha Brāhmaṇa (Mādhyandina)](../texts/satapatha-brahmana.md), [Śatarudrīya (Śrī Rudram, Rudrādhyāya)](../texts/satarudriya.md), [Śivasaṅkalpa Sūkta](../texts/sivasankalpa-sukta.md), [Vājasaneyi Saṃhitā (Mādhyandina)](../texts/vajasaneyi-samhita.md), [Vedadīpa (Mahīdhara on the Vājasaneyi Saṃhitā)](../texts/vedadipa.md)
+[Bṛhadāraṇyaka Upaniṣad](../texts/brhadaranyaka-upanisad.md), [Camakam (Camaka-praśna)](../texts/camakam.md), [Īśa Upaniṣad](../texts/isa-upanisad.md), [Mantrabhāṣya (Uvaṭa on the Vājasaneyi Saṃhitā)](../texts/mantrabhasya-uvata.md), [Śatapatha Brāhmaṇa (Mādhyandina)](../texts/satapatha-brahmana.md), [Śatarudrīya (Śrī Rudram, Rudrādhyāya)](../texts/satarudriya.md), [Śivasaṅkalpa Sūkta](../texts/sivasankalpa-sukta.md), [Vājasaneyi Saṃhitā (Mādhyandina)](../texts/vajasaneyi-samhita.md), [Vedadīpa (Mahīdhara on the Vājasaneyi Saṃhitā)](../texts/vedadipa.md)
 
 ## Teachers
-`tch:mahidhara`, `tch:uvata`, [Yājñavalkya](../teachers/yajnavalkya.md)
+[Kātyāyana](../teachers/katyayana.md), [Mahīdhara](../teachers/mahidhara.md), [Uvaṭa](../teachers/uvata.md), [Vena Bhārgava](../teachers/vena-bhargava.md), [Yājñavalkya](../teachers/yajnavalkya.md)
 
 ## Practices
-_none recorded_
+[Aghamarṣaṇa (sin-effacing recitation)](../practices/aghamarsana.md), [Agnicayana (building the fire-altar)](../practices/agnicayana.md), [Agnihotra (daily fire-offering)](../practices/agnihotra.md), [The soma sacrifice (agniṣṭoma)](../practices/agnistoma.md), [Establishing the sacred fires (agnyādhāna)](../practices/agnyadhana.md), [Horse sacrifice (aśvamedha)](../practices/asvamedha.md), [Riddle exchange (brahmodya)](../practices/brahmodya.md), [The seasonal rites (cāturmāsya)](../practices/caturmasya.md), [New- and full-moon offerings (darśapūrṇamāsa)](../practices/darsapurnamasa.md), [Consecration of the sacrificer (dīkṣā)](../practices/diksa-soma.md), [Repetition of the Gāyatrī (Sāvitrī)](../practices/gayatri-japa.md), [Dense recitation (ghanapāṭha)](../practices/ghana-patha.md), [Braid recitation (jaṭāpāṭha)](../practices/jata-patha.md), [Step recitation (kramapāṭha)](../practices/krama-patha.md), [Repetition of the Mahāmṛtyuñjaya (Tryambaka) verse](../practices/mahamrtyunjaya-japa.md), [Word-by-word recitation (padapāṭha)](../practices/pada-patha.md), [The animal sacrifice (paśubandha)](../practices/pasubandha.md), [Offering to the fathers (piṇḍapitṛyajña)](../practices/pinda-pitryajna.md), [Vedic funeral (pitṛmedha / antyeṣṭi as the hymns give it)](../practices/pitrmedha.md), [Pravargya (the hot-milk rite)](../practices/pravargya.md), [Rājasūya (royal consecration)](../practices/rajasuya.md), [Recitation of the Śatarudrīya with the Camaka (Rudra-japa)](../practices/rudra-japa.md), [Sandhyā (twilight worship)](../practices/sandhyavandana.md), [Peace chants (śānti-pāṭha)](../practices/santi-patha.md), [Sautrāmaṇī](../practices/sautramani.md), [The śrauta sacrifice (in general)](../practices/srauta-yajna.md), [Vājapeya](../practices/vajapeya.md), [Vedic recitation (vedapāṭha, svādhyāya of the Saṃhitā)](../practices/vedapatha.md), [The eight modified recitations (vikṛti)](../practices/vikrti-pathas.md)
 
 ## Path maps
 _none recorded_
@@ -33,4 +33,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

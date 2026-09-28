@@ -21,4 +21,4 @@ Son of Vasudeva and Devakī, prince of the Vṛṣṇis, Arjuna's charioteer and
 _Notes: Historicity recorded as 'legendary' in the scholarly sense only; the tradition holds him to be the Lord incarnate._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

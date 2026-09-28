@@ -15,4 +15,4 @@ The ritual manual of the Śaunaka Atharvaveda that prescribes how its hymns are 
 _Notes: Primary owner of kalpa literature: U02; recorded here because it gives the viniyoga of the Atharvaveda healing hymns._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._

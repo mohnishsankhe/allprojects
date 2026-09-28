@@ -4,7 +4,7 @@
 
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:advaita-vedanta`
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md)
 **Genre:** commentary (bhāṣya/ṭīkā)
 **Commentary on:** [Gītābhāṣya of Śaṅkara](gita-bhasya-sankara.md)
 **Authors:** 
@@ -19,4 +19,4 @@
 _Notes: Descriptive title (the work is sometimes called Gītābhāṣyavivecana; not confirmed). The hexad framing is seen in its gloss at 13.1 in the local corpus._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

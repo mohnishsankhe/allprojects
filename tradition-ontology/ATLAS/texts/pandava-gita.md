@@ -15,5 +15,15 @@ Opens with the Pāṇḍavas' remembrance of the great devotees (Prahlāda, Nār
 **Editions / translations:** 
   - kind: original; name: Gītāsaṅgraha (Poona 1915); licence: digitization terms unknown
 
+## Teachings (1: skeleton 1)
+
+### 1-3 <a id="tea-pandava-gita-1-3"></a>
+`skeleton` · confidence high · [AI-translated]
+
+The Pāṇḍavas remember the great devotees — Prahlāda, Nārada, Parāśara, Puṇḍarīka, Vyāsa, Ambarīṣa, Śuka, Śaunaka, Bhīṣma, Dālbhya, Rukmāṅgada, Arjuna, Vasiṣṭha, Vibhīṣaṇa; those free of passion who always remember Nārāyaṇa, their sins destroyed by that meditation, do not drink a mother's milk again.
+
+_level: conventional · standpoint: devotional · path: devotion, sound · stage: all · types: practice, karma-liberation_
+
+
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

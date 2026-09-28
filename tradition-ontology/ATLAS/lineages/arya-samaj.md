@@ -4,8 +4,8 @@
 
 **Family:** vedic
 **Alternate names:** Arya Samaj
-**Founders:** `tch:dayananda-sarasvati`
-**Key teachers:** `tch:dayananda-sarasvati`
+**Founders:** [Dayānanda Sarasvatī](../teachers/dayananda-sarasvati.md)
+**Key teachers:** [Dayānanda Sarasvatī](../teachers/dayananda-sarasvati.md)
 **Regions:** Panjab, North India; diaspora
 **Dates:** Scholarly account: founded 1875 CE; (confidence moderate)
 **Status:** living
@@ -23,18 +23,18 @@ A Vedic-revival movement founded by Dayānanda Sarasvatī that reads the Saṃhi
 [Ṛgvedādibhāṣyabhūmikā (Dayānanda Sarasvatī)](../texts/rgvedadibhasyabhumika.md)
 
 ## Teachers
-`tch:dayananda-sarasvati`
+[Dayānanda Sarasvatī](../teachers/dayananda-sarasvati.md)
 
 ## Practices
-_none recorded_
+[Agnihotra (daily fire-offering)](../practices/agnihotra.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[How should the Saṃhitās be interpreted — by the rite, the gods, the self, history, or one God?](../debates/how-to-read-the-samhitas.md), [Who may learn and recite the Veda?](../debates/who-may-learn-the-veda.md)
 
 _Notes: Not in the registry; created by U01 because its founder's commentary is a major reading of the Saṃhitās. Positions recalled from memory (moderate). Flag for inclusion/exclusion (section H logic)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

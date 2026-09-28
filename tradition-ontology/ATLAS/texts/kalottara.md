@@ -5,7 +5,7 @@
 **Alternate titles:** Kālottaratantra, Vātulottara/Kālottara corpus
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:saiva-siddhanta`, [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
+**Lineages:** [Śaiva Siddhānta](../lineages/saiva-siddhanta.md), [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
 **Genre:** upāgama (recensions)
 **Availability:** digitized-original
 
@@ -16,4 +16,4 @@ A family of Siddhānta scriptures transmitted in recensions of different lengths
 _Notes: Recension names follow the Muktabodha catalogue description of E00011. sources_raw/raw_etexts/mixed/mukta/muktabodha_metadata.json (Muktabodha catalogue descriptions)_
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

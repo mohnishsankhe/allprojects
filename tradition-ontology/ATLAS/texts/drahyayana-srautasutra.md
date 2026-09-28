@@ -1,0 +1,16 @@
+# Drāhyāyaṇa Śrautasūtra
+
+`src:drahyayana-srautasutra` · `skeleton` · confidence low
+
+**Language:** Sanskrit
+**Family:** vedic
+**Lineages:** [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
+**Genre:** śrautasūtra
+**Authors:** 
+  - [Drāhyāyaṇa](../teachers/drahyayana.md) — role: author; attribution: traditional
+**Availability:** digitized-original
+
+The Śrauta manual of the Rāṇāyanīya Sāmaveda singers.
+
+---
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._

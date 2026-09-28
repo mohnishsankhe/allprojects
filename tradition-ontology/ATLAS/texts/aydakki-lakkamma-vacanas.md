@@ -13,7 +13,19 @@
 
 Vacanas of Mārayya's wife, remembered for teaching that kāyaka must not gather more than the day's need.
 
+## Teachings (1: skeleton 1)
+
+### vacana on the surplus rice (incipit not recalled) <a id="tea-aydakki-lakkamma-vacanas-v-returning-the-surplus"></a>
+`skeleton` · confidence low
+
+Rice gathered beyond the day's need is greed, not kāyaka; the surplus is to be returned, for the devotee's work must not hoard.
+
+_level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics_
+
+terms: [kāyaka](../terms/kayaka.md), [dāsōha](../terms/dasoha.md) · concepts: [Work as worship (kāyaka)](../concepts/kayaka.md), [Servanthood and sharing (dāsōha)](../concepts/dasoha.md) · teachers: [Āydakki Lakkamma](../teachers/aydakki-lakkamma.md), [Āydakki Mārayya](../teachers/aydakki-marayya.md)
+
+
 _Notes: Cited by incipit; edition numbering to be fixed in Phase D._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 08:09 IST._

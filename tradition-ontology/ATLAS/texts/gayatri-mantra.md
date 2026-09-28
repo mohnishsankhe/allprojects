@@ -20,4 +20,4 @@ The verse to Savitṛ in the gāyatrī metre: 'we meditate on that excellent rad
 _Notes: Also TS 1.5.6 and 4.1.11 and VS 3.35, 22.9, 30.2, 36.3 (TS and VS 36.3 checked; the rest from memory)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

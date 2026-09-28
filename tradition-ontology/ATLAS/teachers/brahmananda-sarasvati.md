@@ -3,7 +3,7 @@
 `tch:brahmananda-sarasvati` · `skeleton` · confidence moderate
 
 **Alternate names:** Gauḍa Brahmānanda
-**Lineages:** `lin:advaita-vedanta`
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Vivaraṇa school (Vivaraṇa-prasthāna)](../lineages/vivarana.md)
 **Dates:** Scholarly account: 17th–18th c. CE; (confidence low)
 **Historicity:** historical
 **Works:** 
@@ -12,4 +12,4 @@
 Advaita scholar who wrote the Laghucandrikā on Madhusūdana Sarasvatī's Advaitasiddhi, answering the Mādhva Rāmācārya's Taraṅgiṇī.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._

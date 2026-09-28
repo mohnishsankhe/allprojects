@@ -17,4 +17,4 @@ The litany of homage to Rudra in his hundreds of forms: after asking Rudra to tu
 _Notes: Used in the agnicayana to pacify Rudra; recited in the tradition as Rudra-japa (Ekādaśa-, Laghu-, Mahā-, Atirudra) and in Śaiva worship. The Jābāla Upaniṣad names śatarudrīya recitation as a means to immortality (reference only)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

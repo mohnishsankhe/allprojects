@@ -1,17 +1,19 @@
 # Ṛgvidhāna
 
-`src:rgvidhana` · `skeleton` · confidence low
+`src:rgvidhana` · `skeleton` · confidence moderate
 
 **Original title:** ऋग्विधानम्
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Śākala śākhā (Ṛgveda)](../lineages/sakha-sakala.md)
-**Genre:** vidhāna (applications)
+**Lineages:** [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Śākala śākhā (Ṛgveda)](../lineages/sakha-sakala.md)
+**Genre:** vidhāna
 **Authors:** 
   - [Śaunaka (of Naimiṣa)](../teachers/saunaka.md) — role: author; attribution: traditional
 **Availability:** digitized-original
 
-A manual on the uses (vidhāna) of Ṛgveda hymns and verses for purification, expiation, healing and the fulfilment of wishes by recitation (japa) and oblation, ascribed to Śaunaka.
+A verse manual of the uses (vidhāna) of Ṛgveda hymns for expiation, protection, healing and the fulfilment of wishes, together with rules of recitation and conduct for the one who uses them.
+
+_Notes: Local copy: gretil 1_veda/5_vedang/3_pratis/rgvidhana.md._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

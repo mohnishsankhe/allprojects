@@ -2,7 +2,7 @@
 
 `tch:sabari` · `skeleton` · confidence high
 
-**Lineages:** `lin:ramanandi`, `lin:advaita-vedanta`, [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
+**Lineages:** `lin:ramanandi`, [Advaita Vedānta](../lineages/advaita-vedanta.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
 **Historicity:** legendary
 **Teachers:** [Rāma (Dāśarathi)](rama.md)
 
@@ -10,4 +10,4 @@ A forest woman of low birth, disciple of the sage Mataṅga, who waited for Rām
 **Realization — the tradition's account:** After guiding Rāma to Sugrīva she entered the fire before him and, freed of all bonds made by ignorance, attained liberation by Rāma's grace (AR 3.10.39-42).
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

@@ -13,5 +13,17 @@
 
 Śivāditya's compact manual that expounds the categories as seven — the six of Kaṇāda with absence — and blends Nyāya epistemology into Vaiśeṣika.
 
+## Teachings (1: skeleton 1)
+
+### opening enumeration <a id="tea-saptapadarthi-uddesa"></a>
+`skeleton` · confidence moderate
+
+The categories are seven: substance, quality, motion, universal, particularity, inherence and absence.
+
+_level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: world-fate_
+
+terms: [padārtha](../terms/padartha.md), [abhāva](../terms/abhava.md) · concepts: [The six (later seven) categories of Vaiśeṣika](../concepts/seven-padarthas-vaisesika.md)
+
+
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 08:09 IST._

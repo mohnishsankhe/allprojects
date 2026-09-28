@@ -18,4 +18,4 @@ Commentary on the Mahābhārata by Devabodha, counted among the oldest extant co
 _Notes: Title, date and extent recalled, not checked (low)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

@@ -1,14 +1,14 @@
 # Somaśambhu
 
-`tch:somasambhu` · `skeleton` · confidence moderate
+`tch:somasambhu` · `skeleton` · confidence high
 
-**Lineages:** `lin:saiva-siddhanta`, [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
-**Dates:** Scholarly account: late 11th c.; (confidence moderate)
+**Lineages:** [Śaiva Siddhānta](../lineages/saiva-siddhanta.md), [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
+**Dates:** Scholarly account: late 11th c. (manual dated 1095/96); (confidence high)
 **Historicity:** historical
 **Works:** 
   - [Somaśambhupaddhati](../texts/somasambhupaddhati.md) — attribution: accepted
 
-Author of the Kriyākāṇḍakramāvalī (Somaśambhupaddhati, 1095/96), the most influential manual of Śaiva Siddhānta ritual, covering daily worship, initiation, consecration and funeral rites.
+Abbot of a Śaiva monastery in central India (the Golagī maṭha tradition is usually named — moderate confidence), author of the most influential Siddhānta ritual manual, the Somaśambhupaddhati (Kriyākāṇḍakramāvalī), completed 1095/96.
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

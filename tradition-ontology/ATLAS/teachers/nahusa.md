@@ -8,4 +8,4 @@
 Ancient king cursed to be a python; he seizes Bhīma and is freed when Yudhiṣṭhira answers his questions on who is a brāhmaṇa (3.173–178).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

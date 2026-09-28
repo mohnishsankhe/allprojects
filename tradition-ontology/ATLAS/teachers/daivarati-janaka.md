@@ -11,4 +11,4 @@ King of Mithilā instructed by Yājñavalkya in the Mokṣadharma (12.298–306)
 _Notes: Whether he is the Upaniṣadic Janaka (tch:janaka) is not asserted._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

@@ -16,5 +16,19 @@ Yama whispers to his noose-bearing servant to pass over those who have taken ref
 **Editions / translations:** 
   - kind: original; name: Gītāsaṅgraha (Poona 1915) prints all three Yama Gītās; licence: digitization terms unknown
 
+## Teachings (1: skeleton 1)
+
+### 3.7.14 <a id="tea-yama-gita-visnu-purana-3-7-14"></a>
+`skeleton` · confidence high · [AI-translated]
+
+Yama, seeing his servant noose in hand, whispers in his ear: pass over those who have taken refuge in Madhusūdana; I am lord over other men, not over the Vaiṣṇavas.
+
+> svapuruṣamabhivīkṣya pāśahastaṃ vadati yamaḥ kila tasya karṇamūle / parihara madhusūdanaprapannānprabhurahamanyanṛṇāmavaiṣṇavānām
+
+_level: conventional · standpoint: divine · path: devotion · stage: all · types: death-dying, karma-liberation_
+
+teachers: [Yama (Mṛtyu)](../teachers/yama.md)
+
+
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

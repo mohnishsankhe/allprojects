@@ -1,15 +1,15 @@
-# Yama
+# Yama (Mṛtyu)
 
 `tch:yama` · `skeleton` · confidence high
 
-**Alternate names:** Vaivasvata, Dharmarāja
-**Lineages:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
+**Alternate names:** Mṛtyu, Vaivasvata, Dharmarāja
+**Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
 **Historicity:** mythic
 **Students:** [Naciketas](naciketas.md)
 
-Lord of death; in U06's texts the speaker of the Yama Gītās (Viṣṇu Purāṇa 3.7; Narasiṃha Purāṇa 8; Agni Purāṇa 381, the last addressed to Naciketas).
+Death, lord of the dead, as teacher of Naciketas: grants three boons, tests him with offers of long life, wealth and pleasures, and teaches the good and the pleasant, Om, the unborn self, the chariot, the ladder to the person and yoga (KU).
 
 _Notes: U05's contribution; Yama as Naciketas's teacher in the Kaṭha Upaniṣad is covered by U03._
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

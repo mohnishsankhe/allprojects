@@ -12,4 +12,4 @@
 The gift of Śaiva scripture, Śaiva teachers, and the fruits of Śaiva dharma in the worlds after death.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._

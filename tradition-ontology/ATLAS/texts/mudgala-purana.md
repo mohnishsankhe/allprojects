@@ -12,4 +12,4 @@
 Eight forms of Gaṇeśa, each overcoming a demon that embodies a vice, and Gāṇapatya yoga.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 08:09 IST._

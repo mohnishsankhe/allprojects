@@ -5,7 +5,7 @@
 **Alternate names:** Vikhanas muni, Vikhanā
 **Lineages:** [Vaikhānasa](../lineages/vaikhanasa.md)
 **Historicity:** mythic
-**Students:** [Marīci](marici.md), [Atri](atri.md), [Kāśyapa](kasyapa.md), [Bhṛgu](bhrgu.md)
+**Students:** [Marīci](marici.md), [Atri](atri.md), [Kaśyapa](kasyapa.md), [Bhṛgu Vāruṇi](bhrgu.md)
 **Works:** 
   - [Vaikhānasa Smārtasūtra](../texts/vaikhanasa-smartasutra.md) — attribution: traditional
 
@@ -15,4 +15,4 @@ Founding sage of the Vaikhānasas and author of their Sūtra; the tradition iden
 _Notes: Checked in sources_raw/raw_etexts/mixed/ebhAratI-sampat/AgamaH/vaikhAnasam/bhRgumaharShiH/kriyAdhikAraH.md (Kriyādhikāra, eBhāratī/NSU Tirupati) and sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/4_rellit/vaisn/srinivasamakhi_vedantadesika_dasavidhahetunirupana.md (GRETIL, input by U. Hüsken)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

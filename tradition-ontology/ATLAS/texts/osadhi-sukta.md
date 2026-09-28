@@ -11,11 +11,11 @@
 **Part of:** [Ṛgveda Saṃhitā](rgveda.md)
 **Location in parent:** 10.97 (23 verses)
 **Authors:** 
-  - `tch:bhisag-atharvana` — role: revealer; attribution: traditional
+  - [Bhiṣag Ātharvaṇa](../teachers/bhisag-atharvana.md) — role: revealer; attribution: traditional
 **Attribution:** tradition: seen by bhisag-atharvana; deity: the plants (oṣadhayaḥ) (Sarvānukramaṇī); scholarly: a hymn of the Ṛgveda; books 1 and 10 are among its later layers; confidence: high
 **Availability:** digitized-original
 
 The physician's hymn to the healing plants, born three ages before the gods; where plants gather like kings in assembly, that inspired one is called a physician, slayer of demons and dispeller of disease.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

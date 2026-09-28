@@ -5,7 +5,7 @@
 **Family:** vedic
 **Alternate names:** nairuktāḥ, nairukta-samaya
 **Parent:** [Vedāṅga (the six limbs of the Veda)](vedanga.md)
-**Key teachers:** `tch:yaska`, `tch:sakatayana`, `tch:aupamanyava`
+**Key teachers:** [Yāska](../teachers/yaska.md), [Śākaṭāyana (the ancient grammarian)](../teachers/sakatayana.md), [Aupamanyava](../teachers/aupamanyava.md)
 **Dates:** Scholarly account: flourished before and with Yāska (mid-1st millennium BCE); continued in the Nirukta commentaries; (confidence low)
 **Status:** absorbed
 
@@ -18,10 +18,10 @@ The school of Vedic word-explanation (nirvacana) to which Yāska belongs and who
 
 
 ## Texts
-`src:nighantu`, `src:nirukta`
+[Nighaṇṭu](../texts/nighantu.md), [Nirukta](../texts/nirukta.md)
 
 ## Teachers
-`tch:aupamanyava`, `tch:sakatayana`, `tch:yaska`
+[Aupamanyava](../teachers/aupamanyava.md), [Śākaṭāyana (the ancient grammarian)](../teachers/sakatayana.md), [Yāska](../teachers/yaska.md)
 
 ## Practices
 _none recorded_
@@ -30,7 +30,7 @@ _none recorded_
 _none recorded_
 
 ## Debates
-_none recorded_
+[Do the Vedic mantras have meaning, or are they effective sound only?](../debates/are-mantras-meaningful.md), [Are all nouns derived from verbal roots?](../debates/do-all-nouns-derive-from-verbs.md), [Are the gods person-like in form (puruṣavidha) or not?](../debates/form-of-the-gods.md), [How are the Vedic deities and stories to be interpreted — as natural powers, as persons of old narratives, or through the rite?](../debates/nirukta-schools-of-interpretation.md)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._

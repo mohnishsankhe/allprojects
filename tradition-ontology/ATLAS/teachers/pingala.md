@@ -2,12 +2,16 @@
 
 `tch:pingala` · `skeleton` · confidence high
 
-**Lineages:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
+**Alternate names:** Piṅgalanāga
+**Lineages:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md)
+**Dates:** Tradition's account: a sage sometimes called a nāga; a late tradition makes him Pāṇini's younger brother; Scholarly account: last centuries BCE (disputed); (confidence low)
 **Places:** Videha (Mithilā)
 **Historicity:** legendary
+**Works:** 
+  - [Chandaḥśāstra (Chandaḥsūtra) of Piṅgala](../texts/pingala-chandahsutra.md) — attribution: accepted
 
 A courtesan of Videha whose sudden disenchantment while waiting for clients makes her one of the avadhūta's teachers (Bhāgavata 11.8.22-44) and the singer of the Piṅgalā Gītā (Mahābhārata 12.168.46-52): 'hope is the greatest misery, hopelessness the greatest happiness'.
 **Realization — the tradition's account:** Waiting through the night for a rich lover, she felt deep disgust, turned to the Self as her true beloved and slept happily, free of expectation.
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 08:09 IST._

@@ -16,5 +16,17 @@
 
 A commentary 'for the easy understanding of the slow-witted' by Bhāvāgaṇeśa, who says it condenses the meaning examined in the bhāṣya and 'by my teacher himself in the Vārttika' (Vijñānabhikṣu).
 
+## Teachings (1: skeleton 1)
+
+### intro.2-3 <a id="tea-yogasutradipika-bhavaganesa-intro-2-3"></a>
+`skeleton` · confidence high
+
+Bhāvāgaṇeśa makes this Dīpikā on the Yoga Sūtras for the easy understanding of the slow-witted; the meaning examined in the bhāṣya and by his teachers themselves in the Vārttika is here condensed as settled, with some added arguments.
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: all · types: teacher-transmission_
+
+concepts: [Īśvara, Hiraṇyagarbha and the transmission of Yoga](../concepts/isvara-as-first-teacher.md) · teachers: [Bhāvāgaṇeśa](../teachers/bhavaganesa.md), [Vijñānabhikṣu](../teachers/vijnanabhiksu.md)
+
+
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 08:09 IST._

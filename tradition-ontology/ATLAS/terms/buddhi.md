@@ -1,0 +1,26 @@
+# buddhi
+
+`trm:buddhi` · `skeleton` · confidence high
+
+**Language:** Sanskrit
+**Native script:** बुद्धि
+**Literal:** cognition; intellect
+
+## Definitions by tradition
+- [Nyāya](../lineages/nyaya.md): Not different from apprehension and knowledge (NS 1.1.15); a non-eternal quality of the self, not an eternal inner instrument (against Sāṃkhya, NS 3.2.1–9).
+- [Navya-Nyāya](../lineages/navya-nyaya.md): The cause of all usage; memory or experience (Tarkasaṅgraha).
+- [Sāṃkhya](../lineages/samkhya.md): The determining faculty (adhyavasāya, SK 23), whose sāttvika form is virtue, knowledge, dispassion and power and whose tāmasa form is their opposite; the door-keeper among the instruments (SK 35), which accomplishes all experience for puruṣa and discriminates puruṣa from pradhāna (SK 37).
+- [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): The instrument of cognition (the 'power of seeing') whose apparent identity with the seer is I-am-ness (YBh 2.6); neither the same as the puruṣa nor wholly different (YBh 2.20).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The understanding, higher than mind (BhG 3.42); resolute and one in the yogin (2.41); its destruction follows loss of memory (2.63); threefold by the guṇas (18.29–32).
+- [Advaita Vedānta](../lineages/advaita-vedanta.md): Intellect: the inner organ as deciding; the seat of the reflected consciousness and of the ego's agency.
+- [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Intellect: the charioteer (KU 1.3.3); higher than mind, below the great self (KU 1.3.10); it does not stir in the highest state (KU 2.3.10).
+
+## Forms in other languages
+
+## Equivalents (interpretation layer)
+**Related:** [mahat](mahat.md), [adhyavasāya](adhyavasaya.md), [antaḥkaraṇa](antahkarana.md), [manas](manas.md), [buddhi-yoga](buddhi-yoga.md)
+
+_Notes: Distinct from the Sāṃkhya-Yoga buddhi (mahat), a principle of prakṛti._
+
+---
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U05-gita-epic, skeleton:U13-advaita, skeleton:U03-principal-upanisads. Generated 2026-09-28 08:09 IST._

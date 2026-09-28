@@ -6,7 +6,7 @@
 **Original title:** जयद्रथयामल
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Krama (the 'Sequence'; Mahānaya, Mahārtha)](../lineages/krama.md), `lin:kalikula`, [Trika ('the Triad')](../lineages/trika.md), [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md), [Vidyāpīṭha (the Seat of Vidyās)](../lineages/vidyapitha.md)
+**Lineages:** [Krama (the 'Sequence'; Mahānaya, Mahārtha)](../lineages/krama.md), [Kālīkula (the Kālī lineages)](../lineages/kalikula.md), [Trika ('the Triad')](../lineages/trika.md), [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md), [Vidyāpīṭha (the Seat of Vidyās)](../lineages/vidyapitha.md)
 **Genre:** tantra (Vidyāpīṭha, Kālīkula)
 **Attribution:** tradition: Revealed by Bhairava.; scholarly: Anonymous; composite.; confidence: moderate
 **Dates:** Scholarly account: c. 8th-10th c. CE (uncertain; composite); (confidence low)
@@ -21,4 +21,4 @@ The great Kālīkula scripture, in four hexads (ṣaṭka) of about 6,000 verses
 _Notes: Largely unpublished; availability refers to partial e-transcripts. Alt title 'Śiraścheda' from memory (low)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._

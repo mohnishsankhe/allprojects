@@ -16,7 +16,19 @@
 
 The sage explains why he lives like the python, accepting whatever comes without striving, content, free of fear and desire.
 
+## Teachings (1: skeleton 1)
+
+### 12.172 <a id="tea-ajagara-carita-12-172"></a>
+`skeleton` · confidence moderate · [AI-translated]
+
+The sage following the python's vow explains to Prahlāda that, seeing the rise and fall of beings, he eats what comes, sleeps where he is, desires nothing and fears nothing, content with whatever fate brings.
+
+_level: conventional · standpoint: experiential · path: knowledge · stage: advanced · types: ethics, practice_
+
+practices: [The python's way (ājagara-vṛtti)](../practices/ajagara-vrtti.md) · teachers: [Prahlāda](../teachers/prahlada.md)
+
+
 _Notes: Compare the python among the avadhūta's teachers (BhP 11.8.1-4) and Prahlāda's meeting with a python-vow avadhūta (BhP 7.13)._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

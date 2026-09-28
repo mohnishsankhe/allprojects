@@ -12,4 +12,4 @@
 A meat-seller who, living by his inherited work, serving his parents and speaking truth, teaches the brāhmaṇa Kauśika dharma, karma and liberation (3.198–206).
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

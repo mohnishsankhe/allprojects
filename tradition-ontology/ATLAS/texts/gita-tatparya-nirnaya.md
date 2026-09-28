@@ -21,7 +21,19 @@ one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of al
   - kind: original; name: sanskrit/raw_etexts (gItAprasthAnam/geetatatparya); licence: open (repository terms); url: https://github.com/sanskrit/raw_etexts
 **Commentaries on this text:** [Nyāyadīpikā of Jayatīrtha (on the Gītātātparyanirṇaya)](nyayadipika-jayatirtha.md)
 
+## Teachings (1: skeleton 1)
+
+### intro.1-2 <a id="tea-gita-tatparya-nirnaya-intro-1-2"></a>
+`skeleton` · confidence high
+
+Having bowed to Nārāyaṇa, full of all qualities and free of all defects, the purport of the Gītā is told. Of the śāstras the Bhārata is the essence; in it, the thousand names of Viṣṇu and Kṛṣṇa's Gītā; by knowing them one is readily freed.
+
+_level: unmarked · standpoint: devotional · path: knowledge, devotion · stage: all · types: sound-language_
+
+concepts: [True scripture (sadāgama) and false scripture](../concepts/sadagama.md)
+
+
 _Notes: Opening checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

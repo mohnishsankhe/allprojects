@@ -2,7 +2,7 @@
 
 `tch:durvasas` · `skeleton` · confidence moderate
 
-**Lineages:** [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Trika ('the Triad')](../lineages/trika.md)
+**Lineages:** [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Trika ('the Triad')](../lineages/trika.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](../lineages/sannyasa.md)
 **Historicity:** mythic
 **Teachers:** [Śrīkaṇṭha(nātha)](srikanthanatha.md)
 **Students:** [Tryambakāditya](tryambakaditya.md)
@@ -12,4 +12,4 @@ The celibate sage whom Śrīkaṇṭha commanded to preserve the Śaiva scriptur
 _Notes: The three-sons account (Tryambaka, Āmardaka, Śrīnātha, plus Ardhatryambaka) is from memory of TĀ 36 and Jayaratha; TĀ 4.266 itself names the Śrī-, Tryambaka-, Ardha- and Āmarda- maṭhikās (confirmed)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U04-minor-upanisads. Generated 2026-09-28 08:09 IST._

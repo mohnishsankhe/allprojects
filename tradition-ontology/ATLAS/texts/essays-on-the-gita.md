@@ -15,4 +15,4 @@
 Sri Aurobindo's essays reading the Gītā as a synthesis of the yogas of works, knowledge and devotion leading to the divine life.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

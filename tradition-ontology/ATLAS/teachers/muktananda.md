@@ -8,4 +8,4 @@
 In U06's context (recent reception): made the Guru Gītā the daily morning chant of his ashrams (Ganeshpuri recension).
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

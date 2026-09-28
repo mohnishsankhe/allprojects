@@ -2,7 +2,7 @@
 
 `tch:visvanatha-cakravarti` · `skeleton` · confidence moderate
 
-**Lineages:** `lin:gaudiya-vaisnava`
+**Lineages:** [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md)
 **Dates:** Scholarly account: fl. late 17th – early 18th c.; (confidence moderate)
 **Historicity:** historical
 **Works:** 
@@ -11,4 +11,4 @@
 Gauḍīya Vaiṣṇava theologian, author of the Sārārthavarṣiṇī on the Gītā.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

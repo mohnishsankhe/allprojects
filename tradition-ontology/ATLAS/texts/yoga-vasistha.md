@@ -6,7 +6,7 @@
 **Original title:** योगवासिष्ठ
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:advaita-vedanta`
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md)
 **Genre:** upadeśa / kāvya
 **Authors:** 
   - [Vālmīki](../teachers/valmiki.md) — role: author; attribution: traditional
@@ -21,7 +21,46 @@ Vasiṣṭha teaches the despondent young Rāma that the world is a projection o
   - kind: translation; name: Vihari-Lala Mitra, The Yoga-vasishtha-maharamayana (1891-99); licence: public domain
 **Commentaries on this text:** [Vāsiṣṭharāmāyaṇa-tātparyaprakāśa](yoga-vasistha-tatparyaprakasa.md)
 
+## Teachings (4: skeleton 4)
+
+### 2.4-9 <a id="tea-yoga-vasistha-2-4-9"></a>
+`skeleton` · confidence moderate · [AI-translated]
+
+Human effort (pauruṣa) against fate (daiva): fate is only one's former effort and is overcome by present effort guided by scripture and the wise.
+
+_level: conventional · standpoint: causal · path: action · stage: all · types: world-fate, dispute_
+
+concepts: [Human effort and fate](../concepts/paurusa-and-daiva.md) · disputes: [Is the outcome of life decided by fate (daiva) or by human effort (pauruṣa)?](../debates/daiva-or-paurusa.md)
+
+### 2.11-16 <a id="tea-yoga-vasistha-2-11-16"></a>
+`skeleton` · confidence moderate · [AI-translated]
+
+The four gatekeepers of liberation — peace, inquiry, contentment and holy company — each expounded in its own chapter.
+
+_level: conventional · standpoint: seeker · path: general · stage: beginner · types: practice, ethics_
+
+concepts: [The four gatekeepers of liberation](../concepts/four-gatekeepers-of-liberation.md)
+
+### 3.118 <a id="tea-yoga-vasistha-3-118"></a>
+`skeleton` · confidence high · [AI-translated]
+
+The seven stages of knowledge (śubhecchā, vicāraṇā, tanumānasā, sattvāpatti, asaṃsakti, padārthābhāvanī, turyagā), with liberation beyond them; the seventh belongs to those liberated while living.
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: all · types: practice, karma-liberation_
+
+concepts: [The seven stages of knowledge (jñāna-bhūmikā)](../concepts/seven-stages-of-knowledge.md)
+
+### 6 <a id="tea-yoga-vasistha-6"></a>
+`skeleton` · confidence moderate · [AI-translated]
+
+The Nirvāṇa-prakaraṇa describes the state of the liberated: the world is recognized as the shining of consciousness, like waves on water, and the knower lives on, acting as circumstances require without inner attachment, until the body falls.
+
+_level: ultimate · standpoint: absolute · path: knowledge · stage: realized · types: karma-liberation, ultimate_
+
+concepts: [Liberation while living (jīvanmukti)](../concepts/jivanmukti.md)
+
+
 _Notes: Book-level refs 1-5 in U06 teachings are checked against the Mokṣopāya critical edition, whose sarga numbering agrees with the vulgate for the passages used (e.g. the seven stages at 3.118, the gatekeepers at 2.11.59); Book 4 of the vulgate begins c. 18 sargas earlier than the MU's Book 4, and the vulgate splits Book 6 in two halves, so Book 4 and 6 teachings are anchored on src:moksopaya._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

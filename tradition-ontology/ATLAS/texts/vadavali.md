@@ -14,5 +14,17 @@
 
 Jayatīrtha's independent polemical treatise against Advaita, beginning with a refutation of the inferences that claim to prove the world's falsity (mithyātva) and defending the reality of the world and of difference.
 
+## Teachings (1: skeleton 1)
+
+### 1 <a id="tea-vadavali-1"></a>
+`skeleton` · confidence high
+
+The opening topic refutes the inferences that claim to prove falsity ('the world in question is false, because it is perceivable, insentient and limited, like the silver in mother-of-pearl'), so establishing that the world's reality is not overturned.
+
+_level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, world-fate_
+
+terms: [mithyātva](../terms/mithyatva.md) · concepts: [The reality of the world (jagat-satyatva)](../concepts/jagat-satyatva.md) · teachers: [Jayatīrtha](../teachers/jayatirtha.md) · disputes: `dsp:world-real-or-appearance`
+
+
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

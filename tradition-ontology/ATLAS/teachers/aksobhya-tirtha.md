@@ -11,7 +11,7 @@
 
 Disciple of Madhva, pontiff after Mādhava Tīrtha, and teacher of Jayatīrtha. The Mādhva tradition records his debate with the Advaitin Vidyāraṇya on 'tat tvam asi', with Vedānta Deśika as arbiter, and a verse it ascribes to Deśika declaring Akṣobhya the victor; the Advaita tradition does not accept this account.
 
-_Notes: See dsp:aksobhya-vidyaranya-debate._
+_Notes: See dsp:tat-tvam-asi (historical_debates)._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

@@ -2,7 +2,7 @@
 
 `tch:sahib-kaul` · `skeleton` · confidence moderate
 
-**Lineages:** [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Spanda (the doctrine of vibration)](../lineages/spanda.md), `lin:srividya`
+**Lineages:** [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Spanda (the doctrine of vibration)](../lineages/spanda.md), [Śrīvidyā](../lineages/srividya.md)
 **Dates:** Scholarly account: 17th c. CE; (confidence moderate)
 **Historicity:** historical
 **Works:** 
@@ -12,4 +12,4 @@
 17th-century Kashmiri Śaiva scholar-poet: a commentary on the Śiva Sūtra, the Devīnāmavilāsa, and works of Śrīvidyā ritual (Śrīvidyānityapaddhati).
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

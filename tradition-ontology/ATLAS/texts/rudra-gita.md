@@ -16,5 +16,17 @@
 
 Śiva teaches the Pracetās a hymn to Vāsudeva and the path of devotion, declaring the devotee of Viṣṇu dear to him; the Pracetās recite it during their austerity in the water.
 
+## Teachings (1: skeleton 1)
+
+### 4.24 <a id="tea-rudra-gita-4-24"></a>
+`skeleton` · confidence low · [AI-translated]
+
+Śiva teaches the Pracetās a hymn to Vāsudeva, declaring that one who takes refuge in Vāsudeva is dear to him, and that the devotee's single-minded worship is the means to the Lord.
+
+_level: conventional · standpoint: devotional · path: devotion · stage: all · types: practice_
+
+teachers: [Śiva](../teachers/siva.md)
+
+
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

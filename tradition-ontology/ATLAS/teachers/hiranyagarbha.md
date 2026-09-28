@@ -13,4 +13,4 @@ The tradition's founder of yoga. The Yoga commentators (Vācaspati, Vijñānabhi
 _Notes: The Mahābhārata reference (Nārāyaṇīya, c. MBh 12.337 CE) and a reported Ahirbudhnya Saṃhitā passage on a Hairaṇyagarbha yoga śāstra are from memory and need checking._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

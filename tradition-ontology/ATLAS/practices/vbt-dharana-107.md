@@ -15,4 +15,4 @@
 _Notes: Verses 133 (KSTS 8 / GRETIL numbering). Illusion imagery used as a contemplation; relevant to the Advaita/Śaiva dispute on the world._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

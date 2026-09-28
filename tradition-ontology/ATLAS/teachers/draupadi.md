@@ -10,4 +10,4 @@
 Wife of the Pāṇḍavas; in the forest she questions divine justice and argues for human effort against Yudhiṣṭhira (3.28–33), and after the war urges him to rule (12.14).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 08:09 IST._

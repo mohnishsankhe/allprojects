@@ -16,4 +16,4 @@ Kashmiri Paṇḍit, author of the Mokṣopāyaṭīkā and (outside U06) of the
 _Notes: Identification with the Lallāvākyāni translator is low confidence._
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U19-kashmir-saivism. Generated 2026-09-28 08:09 IST._

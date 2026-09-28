@@ -14,4 +14,4 @@ The fragmentary Saṃhitā of the Kapiṣṭhala branch of the Kaṭhas, close t
   - kind: original; name: Raghu Vira, Kapiṣṭhala-Kaṭha-Saṃhitā (1932)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

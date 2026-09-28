@@ -17,4 +17,4 @@ A collection of supplementary hymns (khila) transmitted alongside the Śākala S
 _Notes: Division and contents recalled from memory; the Kashmiri manuscript edition (Scheftelowitz 1906) to be confirmed._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 08:09 IST._

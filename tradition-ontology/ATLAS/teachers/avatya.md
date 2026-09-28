@@ -8,4 +8,4 @@
 Sage, 'bearer of a body' (tanudhara), who questions Jaigīṣavya in YBh 3.18 about whether the happiness of contentment too belongs to suffering.
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 08:09 IST._

@@ -21,4 +21,4 @@ Jayatīrtha's commentary on Madhva's Gītātātparyanirṇaya.
 _Notes: Disambiguated from the Jain Nyāyadīpikā of Dharmabhūṣaṇa._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

@@ -15,4 +15,4 @@
 Vyāsatīrtha's critique of Nyāya logic and epistemology, especially the Navya-Nyāya of Gaṅgeśa's Tattvacintāmaṇi, defending Dvaita positions on the means of knowledge.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

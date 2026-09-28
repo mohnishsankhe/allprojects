@@ -1,0 +1,20 @@
+# śama
+
+`trm:sama` · `skeleton` · confidence high
+
+**Language:** Sanskrit
+**Native script:** शम
+**Literal:** calm, quiescence
+
+## Definitions by tradition
+- [Advaita Vedānta](../lineages/advaita-vedanta.md): Peace or calm, the first gatekeeper: the cooling of the desert of saṃsāra, called the supreme state and the end of delusion.
+- [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): The intellect fixed on the Lord (Uddhava Gītā's redefinition).
+- [Advaita Vedānta](../lineages/advaita-vedanta.md): Calm: resting the mind on its goal, withdrawn from objects (VC); control of the mind (Tattvabodha).
+
+## Forms in other languages
+
+## Equivalents (interpretation layer)
+**Related:** [mokṣadvārapāla](moksa-dvarapala.md)
+
+---
+_Contributed by: skeleton:U06-other-gitas, skeleton:U13-advaita. Generated 2026-09-28 08:09 IST._

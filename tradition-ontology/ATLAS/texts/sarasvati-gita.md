@@ -16,5 +16,15 @@
 
 Sarasvatī teaches the rewards of giving, sacrifice and study and the way to the highest world.
 
+## Teachings (1: skeleton 1)
+
+### 3.184 <a id="tea-sarasvati-gita-3-184"></a>
+`skeleton` · confidence low · [AI-translated]
+
+Sarasvatī teaches the sage Tārkṣya the fruits of study, giving and sacrifice and the worlds they win, and the way beyond them.
+
+_level: conventional · standpoint: ritual · path: ritual, general · stage: all · types: karma-liberation_
+
+
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 08:09 IST._

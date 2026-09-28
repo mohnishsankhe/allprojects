@@ -6,7 +6,7 @@
 **Family:** vedic
 **Lineages:** [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md)
 **Genre:** bhāṣya
-**Commentary on:** `src:brhadaranyaka-upanisad`
+**Commentary on:** [Bṛhadāraṇyaka Upaniṣad](brhadaranyaka-upanisad.md)
 **Authors:** 
   - [Madhva](../teachers/madhva.md) — role: author; attribution: accepted
 **Attribution:** tradition: Madhva (Ānandatīrtha), counted among his thirty-seven works; scholarly: accepted as Madhva's; confidence: high
@@ -17,4 +17,4 @@ one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of al
 **Commentaries on this text:** [Bṛhadāraṇyaka-bhāṣya-bhāvabodha](brhadaranyaka-bhasya-bhavabodha.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 08:09 IST._

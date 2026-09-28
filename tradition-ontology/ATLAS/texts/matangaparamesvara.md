@@ -5,10 +5,10 @@
 **Alternate titles:** Mataṅgapārameśvarāgama, Mataṅga
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** `lin:saiva-siddhanta`, [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
+**Lineages:** [Śaiva Siddhānta](../lineages/saiva-siddhanta.md), [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
 **Genre:** upāgama
 **Authors:** 
-  - [Bhaṭṭa Rāmakaṇṭha (II)](../teachers/ramakantha.md) — role: commentator; attribution: accepted
+  - [Bhaṭṭa Rāmakaṇṭha (Rāmakaṇṭha II)](../teachers/ramakantha.md) — role: commentator; attribution: accepted
 **Structure:** vidyāpāda, kriyāpāda, yogapāda, caryāpāda
 **Availability:** unknown
 
@@ -18,4 +18,4 @@ An upāgama of the Pārameśvara (the Kāmika lists 'Mataṅga' first among the 
 **Commentaries on this text:** [Mataṅgavṛtti](matangavrtti.md)
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 07:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 08:09 IST._
