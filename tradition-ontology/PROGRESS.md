@@ -40,14 +40,14 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U25-alvar-bhakti-theory | running | | |
 | U26-regional-bhakti | running | | |
 | U27-sant-baul | running | | |
-| U28-hatha-texts | running | | |
+| U28-hatha-texts | done | 31 src · 35 tch · 288 tea (96 HYP with originals) · 122 trm · 65 cpt · 12 prc · 27 phn · 3 dsp | report saved |
 | U29-hatha-practices | running | | |
 | U30-ayurveda-rasa | running | | |
 | U31-sound-arts | running | | |
 | U32-jyotisa | running | | |
 | U33-sramana | running | | |
 | U34-jain-canon | running | | |
-| U35-jain-philosophy | queued | | |
+| U35-jain-philosophy | running | | |
 | U36-pali-suttas | queued | | |
 | U37-abhidhamma-visuddhimagga | queued | | |
 | U38-early-schools | queued | | |
@@ -81,6 +81,8 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U01-vedic-samhitas | running |
 ### Sweep follow-ups (for Phase D / S5 / later sweeps)
 - C-U05: tea:moksadharma:12.289 — the arrow-maker simile is at 12.171.61, not 12.289 (12.289.31 has an archer); fix in extraction. tch:hanuman summary says "four sciences" but MBh 3.149.31 says three (tisro vidyāḥ) — shared by U04/U06/U05, fix in S5. U13 sweep: check tch:sankara's dating framing (788–820 CE is the older scholarly convention, not "most maṭha traditions"; Kāñcī gives 509–477 BCE). tea:vyadha-gita:3.197 has ref "3.196-197".
+
+- S5 dedupe candidates (reported by units): cpt:vyoma-pancaka (U04) = cpt:five-vyomas (U21); cpt:three-laksyas categories differ U04/U21; prc:viparitakarani (U28/U29) vs prc:viparita-karani (U21); prc:sanmukhi-mudra vs prc:shanmukhi-mudra (U04); tea overlaps on U04's Śākta Upaniṣad range teachings vs U23's verse teachings (fidelity pass decides levels).
 
 ## Gap hunter (after C)
 ## Phase D — Verified core
