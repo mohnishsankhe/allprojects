@@ -24,3 +24,7 @@ Conservative choices made without asking, with reasons. Newest last.
 ## 2026-09-28 08:00 IST — id clash src:tatparyacandrika
 - U05 used `src:tatparyacandrika` for Vedānta Deśika's Tātparyacandrikā (sub-commentary on Rāmānuja's Gītā-bhāṣya); U15 used it for Vyāsatīrtha's Tātparyacandrikā (Dvaita, on Jayatīrtha's Tattvaprakāśikā); U14 created `src:tatparyacandrika-desika`.
 - Conservative choice: the bare id stays with Vyāsatīrtha's work (the one commonly called "the Candrikā" and cited by U15's Candrikāprakāśa); Deśika's work is `src:tatparyacandrika-desika`. Implemented as an orchestrator id remap (`config/id_remap.json`, applied by `scripts/merge.py` to U05's shard only; each remap is listed in data/reports/conflicts.jsonl). No unit shard was edited.
+
+## 2026-09-28 08:21 IST — extractor independence (shared scratchpad)
+- Gītā ch01-03: extractors A and B both used the session's shared scratchpad folder `bg/` for drafts, and B's part files overwrote A's p1/p2 drafts. A reports it saw only B's file names, line counts and first ids, never content, and rebuilt from its own private drafts; independence judged preserved (the merger's disagreement log will show whether the two readings are genuinely independent).
+- Fix for all later double extractions: each extractor drafts only in `shards/extraction/<slug>/<chunk>/_gen/<ROLE>/` (git-ignored) and is told never to use the shared scratchpad or any other role's folder.
