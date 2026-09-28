@@ -29,7 +29,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U14-visistadvaita | running | | |
 | U15-dvaita | done | 98 src · 37 tch · 107 tea (96 checked in e-texts) · 107 trm · 56 cpt · 19 prc · 6 dsp | report saved |
 | U16-bhedabheda | done | 121 src · 80 tch · 155 tea · 128 trm · 75 cpt · 25 prc · 14 dsp · 4 pth | report saved |
-| U17-pasupata-kapalika | running | | |
+| U17-pasupata-kapalika | done | 5 lin · 28 src · 28 tch · 130 tea · 131 trm · 43 cpt · 40 prc · 8 dsp | report saved |
 | U18-saiva-siddhanta | running | | |
 | U19-kashmir-saivism | done | 89 src · 45 tch · 352 tea (all 77 ŚS, 20 PH, 112 VBT dhāraṇās) · 144 trm · 46 cpt · 137 prc · 6 dsp | report saved |
 | U20-virasaiva | done | 75 src · 78 tch · 157 tea (57 with exact SSM verse) · 119 trm · 43 cpt · 23 prc · 10 dsp | report saved |
@@ -38,7 +38,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U23-sakta-srividya | running | | |
 | U24-kali-kaula | running | | |
 | U25-alvar-bhakti-theory | running | | |
-| U26-regional-bhakti | queued | | |
+| U26-regional-bhakti | running | | |
 | U27-sant-baul | queued | | |
 | U28-hatha-texts | queued | | |
 | U29-hatha-practices | queued | | |
