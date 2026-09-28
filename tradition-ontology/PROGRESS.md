@@ -19,7 +19,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U04-minor-upanisads | running | | |
 | U05-gita-epic | running | | |
 | U06-other-gitas | running | | |
-| U07-puranas | running | | |
+| U07-puranas | done | 58 src · 45 tch · 208 tea · 173 trm · 65 cpt · 35 prc · 13 obs · 8 pth · 8 dsp | report saved |
 | U08-agama-catalogue | running | | |
 | U09-samkhya | running | | |
 | U10-yoga | running | | |

@@ -1,5 +1,7 @@
 # Brief — Phase B skeleton sweep (one subagent per unit)
 
+> **Reports.** This harness does not let subagents write report/notes Markdown files. Wherever a brief says "write REPORT.md" (or `*_notes.md`, `section_J.md`), put that content in your **final reply** instead, headed `===== REPORT.md =====`; the orchestrator saves it to the stated path. Data files (`*.jsonl`) are still written by you.
+
 You are building one unit of the **Tradition Ontology**: a faithful ontology of everything the Vedic and ascetic
 traditions of India have taught, in the traditions' own terms. Your unit id and scope are in your task message and
 in the unit table of `config/registry.md`.

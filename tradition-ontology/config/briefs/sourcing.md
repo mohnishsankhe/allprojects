@@ -1,5 +1,7 @@
 # Brief — Phase C hallucination sweep (one subagent per skeleton unit)
 
+> **Reports.** This harness does not let subagents write report/notes Markdown files. Wherever a brief says "write REPORT.md" (or `*_notes.md`, `section_J.md`), put that content in your **final reply** instead, headed `===== REPORT.md =====`; the orchestrator saves it to the stated path. Data files (`*.jsonl`) are still written by you.
+
 You check one skeleton unit's entries against sources outside the model: **confirm the existence and basic facts**
 (title, author, date, lineage) of every text, teacher and lineage, the dates given, and the verse references of the
 teachings — or mark them `[unverified]`. You never delete anything and never rewrite a teaching's content.

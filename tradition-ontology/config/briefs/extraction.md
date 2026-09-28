@@ -1,5 +1,7 @@
 # Brief — text-verified extraction (Phase D and Waves 1–4)
 
+> **Reports.** This harness does not let subagents write report/notes Markdown files. Wherever a brief says "write REPORT.md" (or `*_notes.md`, `section_J.md`), put that content in your **final reply** instead, headed `===== REPORT.md =====`; the orchestrator saves it to the stated path. Data files (`*.jsonl`) are still written by you.
+
 Protocol for turning an actual text into text-layer teachings. Four roles, each a **separate subagent with a fresh
 context**: two independent **extractors** (A and B), a **merger**, and a **fidelity checker**; then the quality gates
 (reviewer, misreading hunter, reconciliation auditor, hallucination hunter) per text. Your task message tells you your

@@ -1,5 +1,7 @@
 # Brief — interpretation-layer synthesis across the whole skeleton (end of Phase B, and after every wave)
 
+> **Reports.** This harness does not let subagents write report/notes Markdown files. Wherever a brief says "write REPORT.md" (or `*_notes.md`, `section_J.md`), put that content in your **final reply** instead, headed `===== REPORT.md =====`; the orchestrator saves it to the stated path. Data files (`*.jsonl`) are still written by you.
+
 These passes read the MERGED data (`data/*.json`, `data/teachings/*.jsonl`, `data/reports/dangling.json`) and write
 interpretation-layer shards to `shards/synthesis/<PASS>/` (same schemas; `scripts/merge.py` merges them in). They
 never edit text-layer teachings. Every interpretive link carries `rests_on` teaching ids and a line in
