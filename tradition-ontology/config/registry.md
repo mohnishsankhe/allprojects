@@ -67,6 +67,7 @@ everyone else only references the id (or contributes their lineage's definition 
 | U57-ascetic-orders | I2 the living ascetic orders: Daśanāmī sannyāsins and their maṭhas, the Nāgā akhāṛās, the Vaiṣṇava Bairāgīs, the Udāsīns, the Kumbh Melā; their rules, initiations and oral lineages as documented | lin:dasanami, lin:naga-akhara, lin:bairagi, lin:udasin |
 | U58-sacred-sciences-body-arts | I4 Vāstu and Śilpa Śāstra; marma in Āyurveda and Siddha; Kalaripayattu, Varma kalai | lin:vastu-silpa, lin:kalaripayattu, lin:varma-kalai |
 | U59-folk-regional | I5 village and regional goddess traditions, folk Nāth and Siddha lineages, oral lineages of ascetic orders, regional saint cults — only what written sources document; the rest goes to GAPS | lin:folk-goddess, lin:folk-natha-siddha |
+| U60-ganapatya-saura-smarta | Gāṇapatya, Saura, the Śivadharma corpus (lay Śaivism), Smārta pañcāyatana (gaps reported by U06, U08) | lin:ganapatya, lin:saura, lin:sivadharma, lin:smarta |
 
 ## Fixed text ids (most cross-referenced)
 Vedic: src:rgveda src:samaveda src:taittiriya-samhita src:vajasaneyi-samhita src:maitrayani-samhita src:kathaka-samhita

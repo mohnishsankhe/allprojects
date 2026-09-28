@@ -18,7 +18,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U03-principal-upanisads | running | | |
 | U04-minor-upanisads | running | | |
 | U05-gita-epic | running | | |
-| U06-other-gitas | running | | |
+| U06-other-gitas | done | 78 src · 54 tch · 301 tea · 95 trm · 34 cpt · 39 prc · 3 pth · 4 dsp | report saved |
 | U07-puranas | done | 58 src · 45 tch · 208 tea · 173 trm · 65 cpt · 35 prc · 13 obs · 8 pth · 8 dsp | report saved |
 | U08-agama-catalogue | done | 125 src · 33 tch · 65 tea · 116 trm · 52 cpt · 29 prc · 7 dsp; +5 sub-lineages | report saved |
 | U09-samkhya | running | | |
@@ -72,6 +72,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U57-ascetic-orders | queued | | |
 | U58-sacred-sciences-body-arts | queued | | |
 | U59-folk-regional | queued | | |
+| U60-ganapatya-saura-smarta | queued | | added to close gaps |
 
 ## Phase C — Hallucination sweep
 ## Gap hunter (after C)
