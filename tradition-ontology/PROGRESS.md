@@ -41,7 +41,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U26-regional-bhakti | done | 14 lin · 102 src · 109 tch · 182 tea (61 originals) · 93 trm · 69 cpt · 34 prc · 9 dsp | report saved |
 | U27-sant-baul | done | 21 lin · 63 src · 94 tch (49 recent) · 166 tea · 122 trm · 67 cpt · 32 prc (5 restricted) · 7 dsp | report saved |
 | U28-hatha-texts | done | 31 src · 35 tch · 288 tea (96 HYP with originals) · 122 trm · 65 cpt · 12 prc · 27 phn · 3 dsp | report saved |
-| U29-hatha-practices | running | | |
+| U29-hatha-practices | done | 141 prc (19 restricted) · 354 tea (57 originals) · 42 trm · 15 phn · 1 dsp | report saved; 107 tea ids shared with U28 (union at merge) |
 | U30-ayurveda-rasa | running | | |
 | U31-sound-arts | running | | |
 | U32-jyotisa | running | | |
@@ -51,7 +51,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U36-pali-suttas | running | | |
 | U37-abhidhamma-visuddhimagga | running | | |
 | U38-early-schools | running | | |
-| U39-mahayana-sutras | queued | | |
+| U39-mahayana-sutras | running | | |
 | U40-madhyamaka | queued | | |
 | U41-yogacara-pramana | queued | | |
 | U42-chan-zen | queued | | |
@@ -84,7 +84,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 - C-U05: tea:moksadharma:12.289 — the arrow-maker simile is at 12.171.61, not 12.289 (12.289.31 has an archer); fix in extraction. tch:hanuman summary says "four sciences" but MBh 3.149.31 says three (tisro vidyāḥ) — shared by U04/U06/U05, fix in S5. U13 sweep: check tch:sankara's dating framing (788–820 CE is the older scholarly convention, not "most maṭha traditions"; Kāñcī gives 509–477 BCE). tea:vyadha-gita:3.197 has ref "3.196-197".
 
 - C-U01: tea:atharvaveda-saunaka:2.32 paraphrase imports 'visible and invisible' and 'with a stone' from AVŚ 2.31; trm:samana — no Saṃhitā occurrence found (BĀU 1.5.3 has it); src:jnanayajna 'c. 11th c.' and src:vedadipa 'c. 1589' unsupported; use GRETIL (not DharmicData) for RV verse text.
-- S5 dedupe candidates (reported by units): cpt:vyoma-pancaka (U04) = cpt:five-vyomas (U21); cpt:three-laksyas categories differ U04/U21; prc:viparitakarani (U28/U29) vs prc:viparita-karani (U21); prc:sanmukhi-mudra vs prc:shanmukhi-mudra (U04); tea overlaps on U04's Śākta Upaniṣad range teachings vs U23's verse teachings (fidelity pass decides levels).
+- S5 dedupe candidates (reported by units): U04 prc:mahabandha-mahavedha → U29 prc:mahabandha + prc:mahavedha; U24 cpt:satkarma (tantric six acts) ≠ U28 cpt:satkarma-doctrine (haṭha six acts) — never merge; U28/U29 overlapping HYP/GS range teachings (≈53) — Phase D decides; U10's YBh 2.46 paraphrase may omit vīrāsana; cpt:vyoma-pancaka (U04) = cpt:five-vyomas (U21); cpt:three-laksyas categories differ U04/U21; prc:viparitakarani (U28/U29) vs prc:viparita-karani (U21); prc:sanmukhi-mudra vs prc:shanmukhi-mudra (U04); tea overlaps on U04's Śākta Upaniṣad range teachings vs U23's verse teachings (fidelity pass decides levels).
 
 ## Gap hunter (after C)
 ## Phase D — Verified core
