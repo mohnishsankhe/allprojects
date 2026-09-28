@@ -325,7 +325,7 @@ def gretil_dev_marked(relpath, abbr, slug, source_id, chunks):
     f = os.path.join(RAW, "raw_etexts", "mixed", "gretil_devanAgarI", "1_sanskr", relpath)
     body = open(f, encoding="utf-8").read().split("## पाठः", 1)[1]
     segs, buf = [], []
-    pat = re.compile("॥\\s*" + abbr + "_([०-९0-9]+)[।.]([०-९0-9]+)\\s*॥")
+    pat = re.compile("॥\\s*" + abbr + "_([०-९0-9]+)[।.]([०-९0-9]+)\\s*(?:\\?+\\s*)?॥")  # '???' = GRETIL editor's doubt mark
     for ln in body.split("\n"):
         st = ln.strip()
         if not st or st.startswith("*") or st.startswith("_"):
@@ -419,9 +419,98 @@ def dcs_chapters(title, slug, source_id, chunks, note):
 
 
 def buddhist_and_advaita_gitas():
-    dcs_chapters("Mūlamadhyamakārikāḥ", "mulamadhyamakakarika", "src:mulamadhyamakakarika", [["1-9"], ["10-18"], ["19-27"]],
-                 "Known DCS noise: the first line of chapter 1 is a stray Laṅkāvatāra sentence — ignore it. Cross-check verses against Candrakīrti's Prasannapadā text in raw_etexts/AgamAH/bauddham/asian_classics_hk/.")
-    dcs_chapters("Aṣṭāvakragīta", "astavakra-gita", "src:astavakra-gita", [["1-10"], ["11-20"]], "")
+    """Verse-level MMK and Aṣṭāvakra Gītā from the GRETIL Devanāgarī mirror (markers ङ्ङ्क्_a।b = MMK_a.b; अव्ग्_a।b = AVG_a.b)."""
+    gretil_dev_marked("6_sastra/3_phil/buddh/nagarjuna_mulamadhyamakakarika.md", "ङ्ङ्क्", "mulamadhyamakakarika", "src:mulamadhyamakakarika",
+                      [[str(i) for i in range(1, 8)], [str(i) for i in range(8, 16)], [str(i) for i in range(16, 22)], [str(i) for i in range(22, 28)]])
+    gretil_dev_marked("4_rellit/vaisn/astavakragita.md", "अव्ग्", "astavakra-gita", "src:astavakra-gita",
+                      [[str(i) for i in range(1, 11)], [str(i) for i in range(11, 21)]])
+
+
+def pratyabhijnahrdaya():
+    """Kṣemarāja's Pratyabhijñāhṛdayam (GRETIL Devanāgarī mirror): 20 sūtras ending ॥ N ॥, each followed by his own commentary.
+    The sūtra is the paragraph ending with the marker; `commentary_deva` holds the auto-commentary up to the next sūtra."""
+    f = os.path.join(RAW, "raw_etexts", "mixed", "gretil_devanAgarI", "1_sanskr", "6_sastra", "3_phil", "saiva", "ksemaraja_pratyabhijnahrdaya.md")
+    body = open(f, encoding="utf-8").read().split("## पाठः", 1)[1]
+    paras, cur = [], []
+    for ln in body.split("\n"):
+        if ln.strip():
+            cur.append(ln.strip())
+        elif cur:
+            paras.append(" ".join(cur)); cur = []
+    if cur:
+        paras.append(" ".join(cur))
+    pat = re.compile("॥\\s*([०-९]+)\\s*॥\\s*$")
+    segs, last = [], None
+    intro = []
+    for para in paras:
+        m = pat.search(para)
+        if m and int(m.group(1).translate(DEV_DIGITS)) == (len(segs) + 1):
+            n = m.group(1).translate(DEV_DIGITS)
+            text = pat.sub("", para).strip()
+            # the sūtra is the last sentence of the paragraph (preceding words are commentary lead-in ending with 'आह' etc.)
+            parts = re.split(r"(?<=[।॥])\s+|\s+आह\s+", text)
+            sutra = parts[-1].strip() if len(parts) > 1 else text
+            lead = text[: len(text) - len(sutra)].strip()
+            if segs and lead:
+                segs[-1]["commentary_deva"] += " " + lead
+            elif lead:
+                intro.append(lead)
+            segs.append({"ref": n, "chapter": None, "verse": n, "deva": sutra, "iast": iast(sutra), "commentary_deva": ""})
+        elif segs:
+            segs[-1]["commentary_deva"] = (segs[-1]["commentary_deva"] + " " + para).strip()
+        else:
+            intro.append(para)
+    for sg in segs:
+        sg["commentary_iast"] = iast(sg["commentary_deva"])
+    segs.insert(0, {"ref": "intro", "chapter": None, "verse": None, "deva": " ".join(intro), "iast": iast(" ".join(intro)), "note": "benedictory verses and Kṣemarāja's statement of purpose"})
+    write("pratyabhijnahrdaya", segs, {"source": "src:pratyabhijnahrdaya", "edition": "GRETIL e-text (Devanāgarī mirror), encoded by M. Faliero (DSO Sanskrit Archive, 1998), text of the KSTS ed.",
+          "licence": "Root text public domain; GRETIL CC BY-NC-SA 4.0 — quotations with attribution",
+          "unit": "one segment per sūtra (20) plus 'intro'; each carries Kṣemarāja's own commentary (commentary_deva/_iast). The sūtra boundary is heuristic: the extractor must check that `deva` is exactly the sūtra and move stray lead-in words to the commentary.",
+          "chunks": [["intro", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10"], ["11", "12", "13", "14", "15", "16", "17", "18", "19", "20"]]})
+
+
+def avadhuta_gita():
+    """Avadhūta Gītā from the eBhāratī copy of the 1917 Khemrāj (Veṅkaṭeśvara Press) edition with Hindi commentary:
+    the root verse is the run of bold blocks immediately before each 'पदच्छेदः' header; its number is the printed ॥N॥
+    (numbering restarts in each chapter) or, where the print omits it, the previous number + 1 (flagged)."""
+    f = os.path.join(RAW, "raw_etexts", "mixed", "ebhAratI-sampat", "gItAH", "anyagItA", "dattAtreyaH", "avadhUtagItA.md")
+    txt = open(f, encoding="utf-8").read()
+    txt = txt[txt.index("अथावधूतगीता"):]
+    blocks = [x.strip() for x in re.split(r"\n\s*\n", txt)]
+    segs, chap, prev = [], 1, 0
+    vpat = re.compile(r"॥\s*([०-९0-9]+)\s*॥")
+    hdr = re.compile(r"^\*+\s*(पदच्छेद|पदार्थ|भावार्थ|अन्वय|इति|अथ)")
+    for i, b in enumerate(blocks):
+        if not re.match(r"^\*+\s*पदच्छेद", b):
+            continue
+        j, run = i - 1, []
+        while j >= 0 and blocks[j].startswith("**") and not hdr.match(blocks[j]) and "MISSING_FIG" not in blocks[j]:
+            run.insert(0, blocks[j]); j -= 1
+        if not run:
+            continue
+        run = [r for r in run if not re.search(r"हैं|है।|है॥|कहते|जी |कहा |करके|अर्थात्", r)]  # drop bold Hindi commentary
+        if not run:
+            continue
+        raw = re.sub(r"\*", "", "\n".join(run)).strip()
+        m = re.search(r"(?:॥|\|)*\s*([०-९0-9]+)\s*(?:॥|\|)*\s*$", raw)
+        flag = None
+        if m:
+            n = int(m.group(1).translate(DEV_DIGITS))
+            if n == 1 and prev >= 1:
+                chap += 1
+        else:
+            n, flag = prev + 1, "verse number not printed in the edition; inferred as previous + 1"
+        prev = n
+        text = re.sub(r"<[^>]+>|\\", "", raw[: m.start()] if m else raw).strip()
+        text = " ".join(t.strip() for t in text.split("\n") if t.strip())
+        sg = {"ref": f"{chap}.{n}", "chapter": str(chap), "verse": str(n), "deva": text, "iast": iast(text)}
+        if flag:
+            sg["note"] = flag
+        segs.append(sg)
+    write("avadhuta-gita", segs, {"source": "src:avadhuta-gita", "edition": "Avadhūtagītā with Hindi bhāṣāṭīkā by Svāmī Paramānanda, Khemrāj Śrīkṛṣṇadās (Veṅkaṭeśvara Steam Press), Bombay 1917 — eBhāratī-sampat e-text (Ebharati-6665); only the Sanskrit root verses are used",
+          "licence": "Root text public domain; 1917 edition public domain; the Hindi commentary is not used",
+          "unit": "one segment per verse; chapter numbers inferred from the verse numbering restarting at 1 (check against the chapter colophons).",
+          "chunks": [["1", "2", "3"], ["4", "5", "6", "7", "8"]]})
 
 
 def cbeta_text(tno, slug, source_id, edition_note):
@@ -471,7 +560,7 @@ def heart_diamond():
         "licence": "Root text public domain; GRETIL CC BY-NC-SA 4.0", "unit": "one segment per sentence (daṇḍa-delimited)", "chunks": [["all"]]})
 
 
-HANDLERS = {"bhagavad-gita": bhagavad_gita, "yoga-sutra": yoga_sutra, "pali": pali_suttas, "upanisads": upanisads, "mandukya": mandukya, "kashmir_samkhya": kashmir_and_samkhya, "hatha_gitas": hatha_and_gitas, "mmk_astavakra": buddhist_and_advaita_gitas, "platform": platform_sutra, "heart_diamond": heart_diamond}
+HANDLERS = {"bhagavad-gita": bhagavad_gita, "yoga-sutra": yoga_sutra, "pali": pali_suttas, "upanisads": upanisads, "mandukya": mandukya, "kashmir_samkhya": kashmir_and_samkhya, "hatha_gitas": hatha_and_gitas, "mmk_astavakra": buddhist_and_advaita_gitas, "pratyabhijnahrdaya": pratyabhijnahrdaya, "avadhuta": avadhuta_gita, "platform": platform_sutra, "heart_diamond": heart_diamond}
 
 if __name__ == "__main__":
     if len(sys.argv) < 2 or sys.argv[1] == "list":

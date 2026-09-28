@@ -139,6 +139,21 @@ def unit_of(path):
     return parts[0] + ":" + parts[1]
 
 
+REMAP_PATH = os.path.join(ROOT, "config", "id_remap.json")
+REMAP = {k: v for k, v in (json.load(open(REMAP_PATH, encoding="utf-8")) if os.path.exists(REMAP_PATH) else {}).items() if not k.startswith("_")}
+
+
+def remap_ids(x, table):
+    """Replace every string exactly equal to an old id (anywhere in the object) by the new id."""
+    if isinstance(x, str):
+        return table.get(x, x)
+    if isinstance(x, list):
+        return [remap_ids(y, table) for y in x]
+    if isinstance(x, dict):
+        return {k: remap_ids(v, table) for k, v in x.items()}
+    return x
+
+
 def load_all():
     by_entity = defaultdict(lambda: defaultdict(list))  # entity -> id -> [(obj, unit)]
     logs = []
@@ -149,14 +164,21 @@ def load_all():
         for path in sorted(glob.glob(pat, recursive=True)):
             ent = os.path.basename(path)[:-6]
             unit = unit_of(path)
+            table = REMAP.get(unit, {})
             if ent == "interpretation_log":
                 for o in read_jsonl(path):
+                    o = remap_ids(o, table) if table else o
                     o.setdefault("by", unit)
                     logs.append(o)
                 continue
             if ent not in ENTITIES:
                 continue
             for o in read_jsonl(path):
+                if table:
+                    o2 = remap_ids(o, table)
+                    if o2 != o:
+                        conflicts.append({"kind": "id-remap", "unit": unit, "id": o.get("id"), "new_id": o2.get("id"), "table": "config/id_remap.json"})
+                    o = o2
                 if not o.get("id"):
                     conflicts.append({"kind": "no-id", "file": os.path.relpath(path, ROOT)})
                     continue

@@ -26,7 +26,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U11-nyaya-vaisesika | done | 58 src · 40 tch · 259 tea · 226 trm · 76 cpt · 19 new dsp · 2 pth | report saved |
 | U12-mimamsa | done | 57 src · 49 tch · 146 tea (99 originals) · 154 trm · 64 cpt · 16 dsp · 3 pth | report saved |
 | U13-advaita | done | 109 src · 67 tch · 302 tea · 171 trm · 86 cpt · 29 prc · 18 dsp · 4 pth | report saved |
-| U14-visistadvaita | running | | |
+| U14-visistadvaita | done | 3 lin · 93 src · 53 tch · 118 tea · 142 trm · 61 cpt · 18 prc · 12 dsp | report saved; id note: src:tatparyacandrika clash (U05 vs U15) |
 | U15-dvaita | done | 98 src · 37 tch · 107 tea (96 checked in e-texts) · 107 trm · 56 cpt · 19 prc · 6 dsp | report saved |
 | U16-bhedabheda | done | 121 src · 80 tch · 155 tea · 128 trm · 75 cpt · 25 prc · 14 dsp · 4 pth | report saved |
 | U17-pasupata-kapalika | done | 5 lin · 28 src · 28 tch · 130 tea · 131 trm · 43 cpt · 40 prc · 8 dsp | report saved |
@@ -40,7 +40,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U25-alvar-bhakti-theory | running | | |
 | U26-regional-bhakti | running | | |
 | U27-sant-baul | running | | |
-| U28-hatha-texts | queued | | |
+| U28-hatha-texts | running | | |
 | U29-hatha-practices | queued | | |
 | U30-ayurveda-rasa | queued | | |
 | U31-sound-arts | queued | | |
@@ -96,8 +96,8 @@ Prepared verse-level segments (sources_raw/prepared/, git-ignored) as of 2026-09
 - [x] Pali (bilara-data, CC0 with Sujato): DN 22 (22 sections), MN 10 (41), MN 118 (43), SN 56.11 (14), Dhammapada (423 verses)
 - [x] sāṃkhya-kārikā (72; GRETIL/Jayamaṅgalā ed.), māṇḍūkya-kārikā (214; GRETIL), vijñāna-bhairava (162), śiva-sūtra (75 in Bhāskara's recension = 77 in Kṣemarāja's; refs to be given in Kṣemarāja's numbering), spanda-kārikā (53)
 - [x] haṭha-yoga-pradīpikā (387 verses), platform sūtra (CBETA T2008 162 sections; Dunhuang T2007 86), heart (T251 9; Sanskrit short 10), diamond (CBETA T235 127)
-- [~] mūlamadhyamakakārikā (27 chapter units, DCS — needs verse split), aṣṭāvakra (20 chapter units, DCS — needs verse split)
-- [ ] pratyabhijñāhṛdayam, avadhūta gītā, maitrī, tattvārtha-sūtra (not in local corpora), Saraha/Tilopa/lojong (look in derge-tengyur), Satipaṭṭhāna ✓ (above)
+- [x] mūlamadhyamakakārikā (448 verses, GRETIL Devanāgarī mirror, 4 chunks), aṣṭāvakra gītā (298 verses, GRETIL, 2 chunks), pratyabhijñāhṛdayam (20 sūtras + Kṣemarāja's commentary + intro, GRETIL), avadhūta gītā (275 verses of the 1917 Khemrāj ed., 8 chapters; 5 refs to recover by hand — see META known_gaps)
+- [ ] maitrī, tattvārtha-sūtra (not in local corpora), Saraha/Tilopa/lojong (look in derge-tengyur), Satipaṭṭhāna ✓ (above)
 
 ## Morning report (07:00 IST)
 ## Waves 1–5
