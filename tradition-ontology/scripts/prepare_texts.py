@@ -661,7 +661,62 @@ def tattvartha_sutra():
           "chunks": [["1", "2", "3"], ["4", "5", "6"], ["7", "8"], ["9", "10"]]})
 
 
-HANDLERS = {"bhagavad-gita": bhagavad_gita, "yoga-sutra": yoga_sutra, "pali": pali_suttas, "upanisads": upanisads, "mandukya": mandukya, "kashmir_samkhya": kashmir_and_samkhya, "hatha_gitas": hatha_and_gitas, "mmk_astavakra": buddhist_and_advaita_gitas, "pratyabhijnahrdaya": pratyabhijnahrdaya, "tibetan": tibetan_core, "tattvartha": tattvartha_sutra, "avadhuta": avadhuta_gita, "platform": platform_sutra, "heart_diamond": heart_diamond}
+def maitri_upanisad():
+    """Maitrī (Maitrāyaṇīya) Upaniṣad, root text only, from the eBhāratī e-text of the edition with Rāmatīrtha's Dīpikā
+    (the recension and numbering of Cowell's Bibliotheca Indica edition: 7 prapāṭhakas). Root text = paragraphs set wholly
+    in bold; a section may be split into several root pieces interleaved with the commentary and ends with ॥N॥."""
+    f = os.path.join(RAW, "raw_etexts", "mixed", "ebhAratI-sampat", "upaniShadaH", "anyAH_upaniShadaH", "maitryupaniShat.md")
+    t = open(f, encoding="utf-8").read()
+    t = re.sub(r"\[\^\d+\]", "", t)
+    t = re.sub(r"\[([^\]]*)\]\(http[^)]*\)", r"\1", t)
+    ORD = {"द्वितीयः": 2, "तृतीयः": 3, "चतुर्थः": 4, "पञ्चमः": 5, "षष्ठः": 6, "सप्तमः": 7}
+    paras = [x.strip() for x in re.split(r"\n\s*\n", t)]
+    start = next(i for i, x in enumerate(paras) if x.startswith("**ब्रह्मयज्ञो"))
+    chap, buf, segs = 1, [], []
+    for x in paras[start:]:
+        if x.startswith("[^"):
+            continue
+        y = x.rstrip(" \\\n")
+        if not (y.startswith("**") and y.endswith("**")):
+            # a commentary paragraph can carry the section-end marker of the root piece just given (e.g. 1.1)
+            mc = re.search(r"॥\s*([०-९0-9]+)\s*॥\s*$", y)
+            if mc and buf:
+                n = mc.group(1).translate(DEV_DIGITS)
+                exp = str(int(segs[-1]["verse"]) + 1) if segs and segs[-1]["chapter"] == str(chap) else "1"
+                if n == exp:
+                    text = " ".join(buf)
+                    segs.append({"ref": f"{chap}.{n}", "chapter": str(chap), "verse": n, "deva": text, "iast": iast(text), "pieces": len(buf),
+                                 "note": "section-end number printed in the commentary paragraph that follows the root"})
+                    buf = []
+            continue
+        sp = re.sub(r"\s+", " ", y.strip("* ")).replace("**", "").strip()
+        mo = re.match(r"अथ\s+(\S+)\s+प्रपाठकः", sp)
+        if mo:
+            chap, buf = ORD.get(mo.group(1), chap), []
+            continue
+        if "प्रपाठक" in sp:
+            buf = []
+            if "सप्तमः" in sp and "मैत्र्युपनिषदि" in sp:
+                break
+            continue
+        if re.search(r"नमोऽस्तु\s*॥|नमो गुरुभ्यः|नुमः\s*॥|विरचित", sp):  # Rāmatīrtha's own benedictory verses / colophons
+            continue
+        if "॰" in sp or sp[:1] in "“\"'‘" or re.search(r"इति\s*[।॥]?\s*$", sp) and not re.search(r"॥\s*[०-९0-9]+\s*॥\s*$", sp):
+            continue
+        m = re.search(r"॥\s*([०-९0-9]+)\s*॥\s*$", sp)
+        buf.append(sp[: m.start()].strip() if m else sp)
+        if m:
+            n = m.group(1).translate(DEV_DIGITS)
+            text = " ".join(buf)
+            segs.append({"ref": f"{chap}.{n}", "chapter": str(chap), "verse": n, "deva": text, "iast": iast(text), "pieces": len(buf)})
+            buf = []
+    write("maitri-upanisad", segs, {"source": "src:maitri-upanisad", "edition": "Maitryupaniṣat with Rāmatīrtha's Dīpikā — eBhāratī-sampat e-text Ebharati-9566 (contributed by the Deccan College Post-graduate and Research Institute); recension and numbering as in Cowell's Bibliotheca Indica edition (1870, with Rāmatīrtha's commentary): 7 prapāṭhakas",
+          "licence": "Root text public domain; 19th-c. edition public domain; only the root text is stored",
+          "unit": "one segment per section (khaṇḍa) N of prapāṭhaka P, ref 'P.N'; `pieces` = number of root pieces joined (the edition interleaves the root with the commentary). The Muktikā/Adyar 'Maitrāyaṇī' recension numbers sections differently (e.g. its prapāṭhaka 1 has 7 sections).",
+          "chunks": [["1", "2", "3", "4", "5"], ["6"], ["7"]]})
+
+
+HANDLERS = {"bhagavad-gita": bhagavad_gita, "yoga-sutra": yoga_sutra, "pali": pali_suttas, "upanisads": upanisads, "mandukya": mandukya, "kashmir_samkhya": kashmir_and_samkhya, "hatha_gitas": hatha_and_gitas, "mmk_astavakra": buddhist_and_advaita_gitas, "pratyabhijnahrdaya": pratyabhijnahrdaya, "tibetan": tibetan_core, "tattvartha": tattvartha_sutra, "maitri": maitri_upanisad, "avadhuta": avadhuta_gita, "platform": platform_sutra, "heart_diamond": heart_diamond}
 
 if __name__ == "__main__":
     if len(sys.argv) < 2 or sys.argv[1] == "list":

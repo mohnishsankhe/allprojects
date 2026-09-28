@@ -92,13 +92,14 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 Prepared verse-level segments (sources_raw/prepared/, git-ignored) as of 2026-09-28 04:51 IST:
 - [x] bhagavad-gita (701 verses; gita/gita vulgate) — 6 chunks of 3 chapters
 - [x] yoga-sutra (195 sūtras + Vyāsa bhāṣya; GRETIL, Āgāśe ed.) — 4 chunks (pādas)
-- [x] principal Upaniṣads (Advaita Śāradā mūla, traditional numbering): īśa 18, kena 35, kaṭha 120, praśna 67, muṇḍaka 65, taittirīya 48 units, aitareya 33, chāndogya 629, bṛhadāraṇyaka 441, śvetāśvatara 113, kauṣītaki 51; māṇḍūkya 12 (GRETIL) — maitrī pending (eBhāratī)
+- [x] principal Upaniṣads (Advaita Śāradā mūla, traditional numbering): īśa 18, kena 35, kaṭha 120, praśna 67, muṇḍaka 65, taittirīya 48 units, aitareya 33, chāndogya 629, bṛhadāraṇyaka 441, śvetāśvatara 113, kauṣītaki 51; māṇḍūkya 12 (GRETIL); maitrī 73 (below)
 - [x] Pali (bilara-data, CC0 with Sujato): DN 22 (22 sections), MN 10 (41), MN 118 (43), SN 56.11 (14), Dhammapada (423 verses)
 - [x] sāṃkhya-kārikā (72; GRETIL/Jayamaṅgalā ed.), māṇḍūkya-kārikā (214; GRETIL), vijñāna-bhairava (162), śiva-sūtra (75 in Bhāskara's recension = 77 in Kṣemarāja's; refs to be given in Kṣemarāja's numbering), spanda-kārikā (53)
 - [x] haṭha-yoga-pradīpikā (387 verses), platform sūtra (CBETA T2008 162 sections; Dunhuang T2007 86), heart (T251 9; Sanskrit short 10), diamond (CBETA T235 127)
 - [x] mūlamadhyamakakārikā (448 verses, GRETIL Devanāgarī mirror, 4 chunks), aṣṭāvakra gītā (298 verses, GRETIL, 2 chunks), pratyabhijñāhṛdayam (20 sūtras + Kṣemarāja's commentary + intro, GRETIL), avadhūta gītā (275 verses of the 1917 Khemrāj ed., 8 chapters; 5 refs to recover by hand — see META known_gaps)
 - [x] tattvārtha-sūtra (357 sūtras, Digambara recension, nikkyjain Jain DB), Tilopa's Gaṅgā Mahāmudrā (Tōh 2303, 29 stanzas + title/colophon, Tibetan + Wylie), Saraha's People/King/Queen Dohās (Tōh 2224: 136 st.; 2263; 2264)
-- [ ] maitrī, lojong (Tibetan-authored; not in the Tengyur — still sought)
+- [x] maitrī (73 sections in 7 prapāṭhakas, Cowell/Rāmatīrtha recension, eBhāratī)
+- [ ] lojong (Tibetan-authored; not in the Tengyur — still sought)
 
 ## Morning report (07:00 IST)
 ## Waves 1–5
