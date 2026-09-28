@@ -78,10 +78,12 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | unit | status |
 |---|---|
 | U05-gita-epic | done — 689 checked: 683 confirmed · 5 partial · 1 corrected · 0 not-found |
-| U01-vedic-samhitas | running |
+| U01-vedic-samhitas | done — 502 checked: 492 confirmed · 9 partial · 1 corrected (RV 10.88.15 srutī) · 0 not-found |
+| U02-brahmana-vedanga | running |
 ### Sweep follow-ups (for Phase D / S5 / later sweeps)
 - C-U05: tea:moksadharma:12.289 — the arrow-maker simile is at 12.171.61, not 12.289 (12.289.31 has an archer); fix in extraction. tch:hanuman summary says "four sciences" but MBh 3.149.31 says three (tisro vidyāḥ) — shared by U04/U06/U05, fix in S5. U13 sweep: check tch:sankara's dating framing (788–820 CE is the older scholarly convention, not "most maṭha traditions"; Kāñcī gives 509–477 BCE). tea:vyadha-gita:3.197 has ref "3.196-197".
 
+- C-U01: tea:atharvaveda-saunaka:2.32 paraphrase imports 'visible and invisible' and 'with a stone' from AVŚ 2.31; trm:samana — no Saṃhitā occurrence found (BĀU 1.5.3 has it); src:jnanayajna 'c. 11th c.' and src:vedadipa 'c. 1589' unsupported; use GRETIL (not DharmicData) for RV verse text.
 - S5 dedupe candidates (reported by units): cpt:vyoma-pancaka (U04) = cpt:five-vyomas (U21); cpt:three-laksyas categories differ U04/U21; prc:viparitakarani (U28/U29) vs prc:viparita-karani (U21); prc:sanmukhi-mudra vs prc:shanmukhi-mudra (U04); tea overlaps on U04's Śākta Upaniṣad range teachings vs U23's verse teachings (fidelity pass decides levels).
 
 ## Gap hunter (after C)
