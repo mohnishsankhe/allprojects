@@ -42,7 +42,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U27-sant-baul | done | 21 lin · 63 src · 94 tch (49 recent) · 166 tea · 122 trm · 67 cpt · 32 prc (5 restricted) · 7 dsp | report saved |
 | U28-hatha-texts | done | 31 src · 35 tch · 288 tea (96 HYP with originals) · 122 trm · 65 cpt · 12 prc · 27 phn · 3 dsp | report saved |
 | U29-hatha-practices | done | 141 prc (19 restricted) · 354 tea (57 originals) · 42 trm · 15 phn · 1 dsp | report saved; 107 tea ids shared with U28 (union at merge) |
-| U30-ayurveda-rasa | running | | |
+| U30-ayurveda-rasa | done | 5 lin · 69 src · 97 tch · 259 tea (71 originals) · 181 trm · 112 cpt · 32 prc · 15 dsp · 68 restricted | report saved |
 | U31-sound-arts | running | | |
 | U32-jyotisa | running | | |
 | U33-sramana | running | | |
@@ -53,7 +53,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U38-early-schools | running | | |
 | U39-mahayana-sutras | running | | |
 | U40-madhyamaka | running | | |
-| U41-yogacara-pramana | queued | | |
+| U41-yogacara-pramana | running | | |
 | U42-chan-zen | queued | | |
 | U43-pure-land | queued | | |
 | U44-indian-vajrayana | queued | | |
