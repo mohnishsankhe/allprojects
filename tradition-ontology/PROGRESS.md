@@ -30,7 +30,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U15-dvaita | done | 98 src · 37 tch · 107 tea (96 checked in e-texts) · 107 trm · 56 cpt · 19 prc · 6 dsp | report saved |
 | U16-bhedabheda | done | 121 src · 80 tch · 155 tea · 128 trm · 75 cpt · 25 prc · 14 dsp · 4 pth | report saved |
 | U17-pasupata-kapalika | done | 5 lin · 28 src · 28 tch · 130 tea · 131 trm · 43 cpt · 40 prc · 8 dsp | report saved |
-| U18-saiva-siddhanta | running | | |
+| U18-saiva-siddhanta | done | 3 lin · 61 src · 100 tch (all 63 Nāyaṉmārs) · 138 tea · 90 trm · 37 cpt · 29 prc · 7 dsp | report saved |
 | U19-kashmir-saivism | done | 89 src · 45 tch · 352 tea (all 77 ŚS, 20 PH, 112 VBT dhāraṇās) · 144 trm · 46 cpt · 137 prc · 6 dsp | report saved |
 | U20-virasaiva | done | 75 src · 78 tch · 157 tea (57 with exact SSM verse) · 119 trm · 43 cpt · 23 prc · 10 dsp | report saved |
 | U21-natha-aghora | running | | |
@@ -39,7 +39,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U24-kali-kaula | running | | |
 | U25-alvar-bhakti-theory | running | | |
 | U26-regional-bhakti | running | | |
-| U27-sant-baul | queued | | |
+| U27-sant-baul | running | | |
 | U28-hatha-texts | queued | | |
 | U29-hatha-practices | queued | | |
 | U30-ayurveda-rasa | queued | | |
@@ -95,7 +95,9 @@ Prepared verse-level segments (sources_raw/prepared/, git-ignored) as of 2026-09
 - [x] principal Upaniṣads (Advaita Śāradā mūla, traditional numbering): īśa 18, kena 35, kaṭha 120, praśna 67, muṇḍaka 65, taittirīya 48 units, aitareya 33, chāndogya 629, bṛhadāraṇyaka 441, śvetāśvatara 113, kauṣītaki 51; māṇḍūkya 12 (GRETIL) — maitrī pending (eBhāratī)
 - [x] Pali (bilara-data, CC0 with Sujato): DN 22 (22 sections), MN 10 (41), MN 118 (43), SN 56.11 (14), Dhammapada (423 verses)
 - [x] sāṃkhya-kārikā (72; GRETIL/Jayamaṅgalā ed.), māṇḍūkya-kārikā (214; GRETIL), vijñāna-bhairava (162), śiva-sūtra (75 in Bhāskara's recension = 77 in Kṣemarāja's; refs to be given in Kṣemarāja's numbering), spanda-kārikā (53)
-- [ ] pratyabhijñāhṛdayam, haṭha-yoga-pradīpikā, heart & diamond (Sanskrit), mūlamadhyamakakārikā, aṣṭāvakra, avadhūta, platform sūtra (CBETA T2008), tattvārtha-sūtra (not in local corpora), Saraha/Tilopa/lojong (Tibetan — not in local corpora)
+- [x] haṭha-yoga-pradīpikā (387 verses), platform sūtra (CBETA T2008 162 sections; Dunhuang T2007 86), heart (T251 9; Sanskrit short 10), diamond (CBETA T235 127)
+- [~] mūlamadhyamakakārikā (27 chapter units, DCS — needs verse split), aṣṭāvakra (20 chapter units, DCS — needs verse split)
+- [ ] pratyabhijñāhṛdayam, avadhūta gītā, maitrī, tattvārtha-sūtra (not in local corpora), Saraha/Tilopa/lojong (look in derge-tengyur), Satipaṭṭhāna ✓ (above)
 
 ## Morning report (07:00 IST)
 ## Waves 1–5
