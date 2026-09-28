@@ -20,14 +20,14 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U05-gita-epic | running | | |
 | U06-other-gitas | running | | |
 | U07-puranas | done | 58 src · 45 tch · 208 tea · 173 trm · 65 cpt · 35 prc · 13 obs · 8 pth · 8 dsp | report saved |
-| U08-agama-catalogue | running | | |
+| U08-agama-catalogue | done | 125 src · 33 tch · 65 tea · 116 trm · 52 cpt · 29 prc · 7 dsp; +5 sub-lineages | report saved |
 | U09-samkhya | running | | |
-| U10-yoga | running | | |
+| U10-yoga | done | 19 src · 18 tch · 335 tea (all 195 sūtras + 120 bhāṣya) · 204 trm · 72 cpt · 34 prc · 27 obs · 6 pth · 9 dsp | report saved |
 | U11-nyaya-vaisesika | running | | |
 | U12-mimamsa | running | | |
 | U13-advaita | running | | |
 | U14-visistadvaita | running | | |
-| U15-dvaita | running | | |
+| U15-dvaita | done | 98 src · 37 tch · 107 tea (96 checked in e-texts) · 107 trm · 56 cpt · 19 prc · 6 dsp | report saved |
 | U16-bhedabheda | running | | |
 | U17-pasupata-kapalika | running | | |
 | U18-saiva-siddhanta | running | | |
