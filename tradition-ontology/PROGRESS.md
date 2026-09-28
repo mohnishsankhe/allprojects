@@ -78,6 +78,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | unit | status |
 |---|---|
 | U05-gita-epic | running |
+| U01-vedic-samhitas | running |
 ## Gap hunter (after C)
 ## Phase D — Verified core
 | text | chunk | A | B | M | F | gates |
