@@ -86,7 +86,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 ## Phase D — Verified core
 | text | chunk | A | B | M | F | gates |
 |---|---|---|---|---|---|---|
-| bhagavad-gita | ch01-03 | done (165) | running | | | |
+| bhagavad-gita | ch01-03 | done (165) | done (165) | running | | |
 | bhagavad-gita | ch04-06 | running | running | | | |
 | bhagavad-gita | ch07-09 | | | | | |
 | bhagavad-gita | ch10-12 | | | | | |
