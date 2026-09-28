@@ -24,7 +24,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U09-samkhya | done | 31 src · 41 tch · 218 tea (all 72+1 kārikās) · 142 trm · 49 cpt · 15 dsp · 2 pth | report saved |
 | U10-yoga | done | 19 src · 18 tch · 335 tea (all 195 sūtras + 120 bhāṣya) · 204 trm · 72 cpt · 34 prc · 27 obs · 6 pth · 9 dsp | report saved |
 | U11-nyaya-vaisesika | done | 58 src · 40 tch · 259 tea · 226 trm · 76 cpt · 19 new dsp · 2 pth | report saved |
-| U12-mimamsa | running | | |
+| U12-mimamsa | done | 57 src · 49 tch · 146 tea (99 originals) · 154 trm · 64 cpt · 16 dsp · 3 pth | report saved |
 | U13-advaita | running | | |
 | U14-visistadvaita | running | | |
 | U15-dvaita | done | 98 src · 37 tch · 107 tea (96 checked in e-texts) · 107 trm · 56 cpt · 19 prc · 6 dsp | report saved |
@@ -33,7 +33,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U18-saiva-siddhanta | running | | |
 | U19-kashmir-saivism | done | 89 src · 45 tch · 352 tea (all 77 ŚS, 20 PH, 112 VBT dhāraṇās) · 144 trm · 46 cpt · 137 prc · 6 dsp | report saved |
 | U20-virasaiva | done | 75 src · 78 tch · 157 tea (57 with exact SSM verse) · 119 trm · 43 cpt · 23 prc · 10 dsp | report saved |
-| U21-natha-aghora | queued | | |
+| U21-natha-aghora | running | | |
 | U22-tamil-siddha | queued | | |
 | U23-sakta-srividya | queued | | |
 | U24-kali-kaula | queued | | |
