@@ -42,7 +42,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U27-sant-baul | running | | |
 | U28-hatha-texts | running | | |
 | U29-hatha-practices | running | | |
-| U30-ayurveda-rasa | queued | | |
+| U30-ayurveda-rasa | running | | |
 | U31-sound-arts | queued | | |
 | U32-jyotisa | queued | | |
 | U33-sramana | queued | | |
@@ -77,8 +77,11 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 ## Phase C — Hallucination sweep
 | unit | status |
 |---|---|
-| U05-gita-epic | running |
+| U05-gita-epic | done — 689 checked: 683 confirmed · 5 partial · 1 corrected · 0 not-found |
 | U01-vedic-samhitas | running |
+### Sweep follow-ups (for Phase D / S5 / later sweeps)
+- C-U05: tea:moksadharma:12.289 — the arrow-maker simile is at 12.171.61, not 12.289 (12.289.31 has an archer); fix in extraction. tch:hanuman summary says "four sciences" but MBh 3.149.31 says three (tisro vidyāḥ) — shared by U04/U06/U05, fix in S5. U13 sweep: check tch:sankara's dating framing (788–820 CE is the older scholarly convention, not "most maṭha traditions"; Kāñcī gives 509–477 BCE). tea:vyadha-gita:3.197 has ref "3.196-197".
+
 ## Gap hunter (after C)
 ## Phase D — Verified core
 | text | chunk | A | B | M | F | gates |
