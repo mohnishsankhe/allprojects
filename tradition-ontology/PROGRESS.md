@@ -28,14 +28,14 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U13-advaita | done | 109 src · 67 tch · 302 tea · 171 trm · 86 cpt · 29 prc · 18 dsp · 4 pth | report saved |
 | U14-visistadvaita | running | | |
 | U15-dvaita | done | 98 src · 37 tch · 107 tea (96 checked in e-texts) · 107 trm · 56 cpt · 19 prc · 6 dsp | report saved |
-| U16-bhedabheda | running | | |
+| U16-bhedabheda | done | 121 src · 80 tch · 155 tea · 128 trm · 75 cpt · 25 prc · 14 dsp · 4 pth | report saved |
 | U17-pasupata-kapalika | running | | |
 | U18-saiva-siddhanta | running | | |
 | U19-kashmir-saivism | done | 89 src · 45 tch · 352 tea (all 77 ŚS, 20 PH, 112 VBT dhāraṇās) · 144 trm · 46 cpt · 137 prc · 6 dsp | report saved |
 | U20-virasaiva | done | 75 src · 78 tch · 157 tea (57 with exact SSM verse) · 119 trm · 43 cpt · 23 prc · 10 dsp | report saved |
 | U21-natha-aghora | running | | |
 | U22-tamil-siddha | running | | |
-| U23-sakta-srividya | queued | | |
+| U23-sakta-srividya | running | | |
 | U24-kali-kaula | queued | | |
 | U25-alvar-bhakti-theory | queued | | |
 | U26-regional-bhakti | queued | | |
