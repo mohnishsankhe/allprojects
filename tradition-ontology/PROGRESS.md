@@ -13,7 +13,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 
 | unit | status | counts | note |
 |---|---|---|---|
-| U01-vedic-samhitas | running | | |
+| U01-vedic-samhitas | done | 70 src · 91 tch · 290 tea (65 originals) · 232 trm · 68 cpt · 43 prc · 13 dsp | report saved |
 | U02-brahmana-vedanga | running | | |
 | U03-principal-upanisads | running | | |
 | U04-minor-upanisads | running | | |
@@ -75,6 +75,9 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U60-ganapatya-saura-smarta | queued | | added to close gaps |
 
 ## Phase C — Hallucination sweep
+| unit | status |
+|---|---|
+| U05-gita-epic | running |
 ## Gap hunter (after C)
 ## Phase D — Verified core
 Prepared verse-level segments (sources_raw/prepared/, git-ignored) as of 2026-09-28 04:51 IST:
