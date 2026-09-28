@@ -91,7 +91,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | text | chunk | A | B | M | F | gates |
 |---|---|---|---|---|---|---|
 | bhagavad-gita | ch01-03 | done (165) | done (165) | running | | |
-| bhagavad-gita | ch04-06 | done (123) | running | | | |
+| bhagavad-gita | ch04-06 | done (123) | done (125) | running | | |
 | bhagavad-gita | ch07-09 | running | | | | |
 | bhagavad-gita | ch10-12 | | | | | |
 | bhagavad-gita | ch13-15 | | | | | |
