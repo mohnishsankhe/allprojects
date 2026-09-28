@@ -1,0 +1,18 @@
+# Kauśika Sūtra
+
+`src:kausika-sutra` · `skeleton` · confidence moderate
+
+**Original title:** कौशिकसूत्रम्
+**Language:** Sanskrit
+**Family:** vedic
+**Lineages:** [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Śaunaka śākhā (Atharvaveda)](../lineages/sakha-saunaka.md), [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md)
+**Genre:** gṛhya/kalpa sūtra
+**Attribution:** tradition: Kauśika; scholarly: late Vedic sūtra of the Śaunakīya Atharvavedins; confidence: moderate
+**Availability:** digitized-original
+
+The ritual manual of the Śaunaka Atharvaveda that prescribes how its hymns are used in domestic, healing, protective, pacificatory and sorcery rites — with amulets, herbs, water and fire.
+
+_Notes: Primary owner of kalpa literature: U02; recorded here because it gives the viniyoga of the Atharvaveda healing hymns._
+
+---
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._

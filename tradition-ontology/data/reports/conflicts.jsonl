@@ -1,0 +1,79 @@
+{"kind": "scalar", "id": "src:rgbhasya-madhva", "field": "title", "kept": "Ṛgbhāṣya (Madhva)", "other": "Ṛgbhāṣya (Madhva on Ṛgveda 1.1–40)"}
+{"kind": "scalar", "id": "src:rgbhasya-madhva", "field": "genre", "kept": "bhāṣya (verse)", "other": "bhāṣya (commentary)"}
+{"kind": "scalar", "id": "src:harivamsa", "field": "genre", "kept": "khila (supplement) / purāṇa-like", "other": "itihāsa/purāṇa"}
+{"kind": "scalar", "id": "src:harivamsa", "field": "location_in_parent", "kept": "Supplement (khila) appended to the Mahābhārata; critical edition in 118 chapters with appendices", "other": "khila (appendix) of the Mahābhārata"}
+{"kind": "scalar", "id": "src:pingala-gita", "field": "genre", "kept": "dialogue within the Mokṣadharma", "other": "gītā"}
+{"kind": "scalar", "id": "src:pingala-gita", "field": "location_in_parent", "kept": "Śāntiparvan 12.168 (Critical Edition)", "other": "Mahābhārata 12.168.46-52 (critical ed.; verified)"}
+{"kind": "scalar", "id": "src:manki-gita", "field": "genre", "kept": "dialogue within the Mokṣadharma", "other": "gītā"}
+{"kind": "scalar", "id": "src:manki-gita", "field": "location_in_parent", "kept": "Śāntiparvan 12.171 (Critical Edition)", "other": "Mahābhārata 12.171.1-56 (critical ed.; verified)"}
+{"kind": "scalar", "id": "src:vicakhnu-gita", "field": "genre", "kept": "gītā", "other": "dialogue within the Mokṣadharma"}
+{"kind": "scalar", "id": "src:vicakhnu-gita", "field": "location_in_parent", "kept": "Mahābhārata 12.257 (critical ed.; verified)", "other": "Śāntiparvan 12.257 (Critical Edition)"}
+{"kind": "scalar", "id": "src:vrtra-gita", "field": "genre", "kept": "dialogue within the Mokṣadharma", "other": "gītā"}
+{"kind": "scalar", "id": "src:vrtra-gita", "field": "location_in_parent", "kept": "Śāntiparvan 12.270–271 (Critical Edition)", "other": "Mahābhārata 12.270-271 (critical ed.; verified)"}
+{"kind": "scalar", "id": "src:parasara-gita", "field": "genre", "kept": "gītā", "other": "dialogue within the Mokṣadharma"}
+{"kind": "scalar", "id": "src:parasara-gita", "field": "location_in_parent", "kept": "Mahābhārata 12.279-287 (critical ed.; verified)", "other": "Śāntiparvan 12.279–287 (Critical Edition)"}
+{"kind": "scalar", "id": "src:vyadha-gita", "field": "title", "kept": "Vyādha Gītā (the righteous meat-seller's teaching)", "other": "Vyādha Gītā"}
+{"kind": "scalar", "id": "src:vyadha-gita", "field": "genre", "kept": "dialogue", "other": "gītā"}
+{"kind": "scalar", "id": "src:vyadha-gita", "field": "part_of", "kept": "src:markandeya-samasya", "other": "src:mahabharata"}
+{"kind": "scalar", "id": "src:vyadha-gita", "field": "location_in_parent", "kept": "Āraṇyakaparvan 3.196–206 (Critical Edition)", "other": "Mahābhārata 3.198-206 (critical ed.; verified)"}
+{"kind": "scalar", "id": "src:gita-bhasya-madhva", "field": "title", "kept": "Gītābhāṣya (Madhva)", "other": "Gītābhāṣya of Madhva"}
+{"kind": "scalar", "id": "src:gita-bhasya-madhva", "field": "title_original", "kept": "गीताभाष्यम्", "other": "गीताभाष्य"}
+{"kind": "scalar", "id": "src:gita-bhasya-madhva", "field": "genre", "kept": "bhāṣya", "other": "commentary (bhāṣya/ṭīkā)"}
+{"kind": "scalar", "id": "src:gita-tatparya-nirnaya", "field": "title", "kept": "Gītātātparyanirṇaya", "other": "Gītātātparyanirṇaya of Madhva"}
+{"kind": "scalar", "id": "src:gita-tatparya-nirnaya", "field": "title_original", "kept": "गीतातात्पर्यनिर्णयः", "other": "गीतातात्पर्यनिर्णय"}
+{"kind": "scalar", "id": "src:gita-tatparya-nirnaya", "field": "genre", "kept": "tātparya-nirṇaya", "other": "commentary (bhāṣya/ṭīkā)"}
+{"kind": "scalar", "id": "src:prameyadipika", "field": "title", "kept": "Prameyadīpikā of Jayatīrtha", "other": "Prameyadīpikā"}
+{"kind": "scalar", "id": "src:prameyadipika", "field": "genre", "kept": "commentary (bhāṣya/ṭīkā)", "other": "ṭīkā"}
+{"kind": "scalar", "id": "src:prameyadipika", "field": "availability", "kept": "digitized-original", "other": "unknown"}
+{"kind": "scalar", "id": "src:nyayadipika-jayatirtha", "field": "title", "kept": "Nyāyadīpikā of Jayatīrtha (on the Gītātātparyanirṇaya)", "other": "Nyāyadīpikā (Jayatīrtha)"}
+{"kind": "scalar", "id": "src:nyayadipika-jayatirtha", "field": "genre", "kept": "commentary (bhāṣya/ṭīkā)", "other": "ṭīkā"}
+{"kind": "scalar", "id": "src:tatparyacandrika", "field": "title", "kept": "Tātparyacandrikā of Vedānta Deśika", "other": "Tātparyacandrikā"}
+{"kind": "scalar", "id": "src:tatparyacandrika", "field": "genre", "kept": "commentary (bhāṣya/ṭīkā)", "other": "ṭīkā (comparative)"}
+{"kind": "scalar", "id": "src:tatparyacandrika", "field": "commentary_on", "kept": "src:gita-bhasya-ramanuja", "other": "src:tattvaprakasika"}
+{"kind": "scalar", "id": "src:tatparyacandrika", "field": "availability", "kept": "digitized-original", "other": "unknown"}
+{"kind": "scalar", "id": "src:mahabharata-tatparya-nirnaya", "field": "title", "kept": "Mahābhārata-tātparya-nirṇaya", "other": "Mahābhāratatātparyanirṇaya of Madhva"}
+{"kind": "scalar", "id": "src:mahabharata-tatparya-nirnaya", "field": "title_original", "kept": "महाभारततात्पर्यनिर्णयः", "other": "महाभारततात्पर्यनिर्णय"}
+{"kind": "scalar", "id": "src:mahabharata-tatparya-nirnaya", "field": "genre", "kept": "tātparya-nirṇaya (verse narrative and doctrine)", "other": "commentary (bhāṣya/ṭīkā)"}
+{"kind": "scalar", "id": "src:suta-samhita", "field": "genre", "kept": "saṃhitā", "other": "purāṇa (section)"}
+{"kind": "scalar", "id": "src:suta-samhita", "field": "location_in_parent", "kept": "Skanda Purāṇa (as the tradition divides it into six saṃhitās); four khaṇḍas, the fourth being the Yajñavaibhavakhaṇḍa", "other": "one of the six saṃhitās of the Skanda (saṃhitā arrangement)"}
+{"kind": "scalar", "id": "src:suta-samhita", "field": "availability", "kept": "unknown", "other": "digitized-original"}
+{"kind": "scalar", "id": "src:ganesa-purana", "field": "availability", "kept": "unknown", "other": "digitized-original"}
+{"kind": "scalar", "id": "src:mahabhagavata-purana", "field": "availability", "kept": "digitized-original", "other": "unknown"}
+{"kind": "scalar", "id": "src:svacchanda-tantra", "field": "title", "kept": "Svacchandatantra (Svacchandabhairavatantra)", "other": "Svacchandatantra"}
+{"kind": "scalar", "id": "src:svacchanda-tantra", "field": "genre", "kept": "tantra (Mantrapīṭha)", "other": "tantra (Bhairava, Mantrapīṭha)"}
+{"kind": "scalar", "id": "src:netra-tantra", "field": "title", "kept": "Netratantra (Mṛtyujidbhaṭṭāraka)", "other": "Netratantra"}
+{"kind": "scalar", "id": "src:jayadrathayamala", "field": "title", "kept": "Jayadrathayāmala (Tantrarājabhaṭṭāraka)", "other": "Jayadrathayāmala"}
+{"kind": "scalar", "id": "src:jayadrathayamala", "field": "genre", "kept": "tantra (Vidyāpīṭha, Kālīkula)", "other": "tantra (Vidyāpīṭha, Yāmala)"}
+{"kind": "scalar", "id": "src:siddhayogesvarimata", "field": "genre", "kept": "tantra (Vidyāpīṭha, Trika)", "other": "tantra (Vidyāpīṭha, Śakti tantra)"}
+{"kind": "scalar", "id": "src:siddhayogesvarimata", "field": "availability", "kept": "manuscript-only", "other": "unknown"}
+{"kind": "scalar", "id": "src:tantrasadbhava", "field": "genre", "kept": "tantra (Trika-Kaula)", "other": "tantra (Vidyāpīṭha, Śakti tantra)"}
+{"kind": "scalar", "id": "src:tantrasadbhava", "field": "availability", "kept": "manuscript-only", "other": "unknown"}
+{"kind": "scalar", "id": "src:malinivijayottara-tantra", "field": "genre", "kept": "tantra (Vidyāpīṭha, Trika)", "other": "tantra (Vidyāpīṭha, Śakti tantra)"}
+{"kind": "scalar", "id": "tch:krsna", "field": "name", "kept": "Kṛṣṇa (Vāsudeva)", "other": "Kṛṣṇa"}
+{"kind": "scalar", "id": "tch:vyasa", "field": "name", "kept": "Vyāsa (Kṛṣṇa Dvaipāyana)", "other": "Vyāsa"}
+{"kind": "scalar", "id": "tch:vyasa", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:vyasa", "field": "name", "kept": "Vyāsa (Kṛṣṇa Dvaipāyana)", "other": "Vyāsa"}
+{"kind": "scalar", "id": "tch:vyasa", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:vyasa", "field": "name", "kept": "Vyāsa (Kṛṣṇa Dvaipāyana)", "other": "Vyāsa"}
+{"kind": "scalar", "id": "tch:vyasa", "field": "historicity", "kept": "semi-legendary", "other": "legendary"}
+{"kind": "scalar", "id": "tch:ugrasravas", "field": "name", "kept": "Ugraśravas Sauti", "other": "Ugraśravas"}
+{"kind": "scalar", "id": "tch:markandeya", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:hanuman", "field": "historicity", "kept": "mythic", "other": "legendary"}
+{"kind": "scalar", "id": "tch:dharmavyadha", "field": "name", "kept": "The righteous meat-seller of Mithilā (dharmavyādha)", "other": "Dharmavyādha"}
+{"kind": "scalar", "id": "tch:bhrgu", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:vasistha", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:asuri", "field": "historicity", "kept": "legendary", "other": "semi-legendary"}
+{"kind": "scalar", "id": "tch:kapila", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:prahlada", "field": "historicity", "kept": "mythic", "other": "legendary"}
+{"kind": "scalar", "id": "tch:bali", "field": "name", "kept": "Bali", "other": "Bali Vairocana"}
+{"kind": "scalar", "id": "tch:bali", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:parasara", "field": "historicity", "kept": "legendary", "other": "semi-legendary"}
+{"kind": "scalar", "id": "tch:siva", "field": "name", "kept": "Śiva", "other": "Śiva (Maheśvara)"}
+{"kind": "scalar", "id": "tch:rama", "field": "name", "kept": "Rāma (Dāśarathi)", "other": "Rāma"}
+{"kind": "scalar", "id": "tch:vibhisana", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:visvamitra", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:agastya", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:agastya", "field": "historicity", "kept": "legendary", "other": "mythic"}
+{"kind": "scalar", "id": "tch:yamuna", "field": "name", "kept": "Yāmunācārya", "other": "Yāmuna"}
+{"kind": "scalar", "id": "tch:bhoja", "field": "name", "kept": "Bhoja", "other": "Bhoja (of Dhārā)"}
+{"kind": "scalar", "id": "tch:utpala-vaisnava", "field": "name", "kept": "Utpala Vaiṣṇava", "other": "Bhagavadutpala (Utpala Vaiṣṇava)"}

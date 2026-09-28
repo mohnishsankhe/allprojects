@@ -1,15 +1,67 @@
-# Lineages (11)
+# Lineages (63)
 
-skeleton: 11
+skeleton: 63
 
+- [Aitihāsikas (the legend-school of Vedic interpretation)](aitihasika.md) — `skeleton`
+- [Arthaśāstra (the science of statecraft and wealth)](arthasastra.md) — `skeleton`
+- [Atimārga](atimarga.md) — `skeleton`
+- [Bhūta stream (tantras for spirits)](bhuta-tantra.md) — `skeleton`
+- [Bāṣkala śākhā (Ṛgveda)](sakha-baskala.md) — `skeleton`
+- [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](dharmasastra.md) — `skeleton`
 - [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](dvaita.md) — `skeleton`
+- [Dāyabhāga school of Dharmaśāstra (Bengal)](dayabhaga-school.md) — `skeleton`
+- [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](bhagavata-early.md) — `skeleton`
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](epic-teaching.md) — `skeleton`
+- [Gāruḍa stream (tantras of Garuḍa)](garuda-tantra.md) — `skeleton`
+- [Jaiminīya (Talavakāra) śākhā (Sāmaveda)](sakha-jaiminiya.md) — `skeleton`
+- [Kapiṣṭhala-Kaṭha śākhā (Black Yajurveda)](sakha-kapisthala-katha.md) — `skeleton`
 - [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](kashmir-saivism.md) — `skeleton`
+- [Kauthuma śākhā (Sāmaveda)](sakha-kauthuma.md) — `skeleton`
+- [Kaṭha śākhā (Black Yajurveda)](sakha-katha.md) — `skeleton`
+- [Kerala tantra (temple-tantra tradition of Kerala)](kerala-tantra.md) — `skeleton`
 - [Krama (the 'Sequence'; Mahānaya, Mahārtha)](krama.md) — `skeleton`
+- [Kālāmukha](kalamukha.md) — `skeleton`
+- [Kāmaśāstra (the science of love and pleasure)](kamasastra.md) — `skeleton`
+- [Kāpālika (Somasiddhānta)](kapalika.md) — `skeleton`
+- [Kāṇva śākhā (White Yajurveda)](sakha-kanva.md) — `skeleton`
+- [Lākula](lakula.md) — `skeleton`
+- [Maitrāyaṇīya śākhā (Black Yajurveda)](sakha-maitrayaniya.md) — `skeleton`
+- [Mantramārga (the Path of Mantras)](mantramarga.md) — `skeleton`
+- [Mantrapīṭha (the Seat of Mantras)](mantrapitha.md) — `skeleton`
 - [Mata (the 'Doctrine'; the Mata scriptures)](mata.md) — `skeleton`
+- [Mitākṣarā school of Dharmaśāstra](mitaksara-school.md) — `skeleton`
+- [Mādhyandina śākhā (White Yajurveda)](sakha-madhyandina.md) — `skeleton`
+- [Māṇḍūkāyana (Ṛgveda śākhā)](sakha-mandukayana.md) — `skeleton`
+- [Nairukta school (the Vedic etymologists)](nairukta.md) — `skeleton`
+- [Navya-Nyāya](navya-nyaya.md) — `skeleton`
+- [Nyāya](nyaya.md) — `skeleton`
+- [Paippalāda śākhā (Atharvaveda)](sakha-paippalada.md) — `skeleton`
+- [Pañcācārya (Pañcapīṭha) tradition](pancacarya.md) — `skeleton`
 - [Pratyabhijñā (the philosophy of recognition)](pratyabhijna.md) — `skeleton`
+- [Pātañjala Yoga (the Yoga darśana)](patanjala-yoga.md) — `skeleton`
+- [Pāñcarātra](pancaratra.md) — `skeleton`
+- [Pāśupata (Pāñcārthika Pāśupata)](pasupata.md) — `skeleton`
 - [Rāghavendra Maṭha (Mantrālaya)](raghavendra-matha.md) — `skeleton`
+- [Rāṇāyanīya śākhā (Sāmaveda)](sakha-ranayaniya.md) — `skeleton`
 - [Spanda (the doctrine of vibration)](spanda.md) — `skeleton`
+- [Sāṃkhya](samkhya.md) — `skeleton`
+- [Taittirīya śākhā (Black Yajurveda)](sakha-taittiriya.md) — `skeleton`
 - [The eight maṭhas of Uḍupi (aṣṭa-maṭha)](udupi-asta-matha.md) — `skeleton`
+- [The Purāṇic tradition (paurāṇika)](puranic.md) — `skeleton`
 - [Trika ('the Triad')](trika.md) — `skeleton`
 - [Uttarādi Maṭha](uttaradi-matha.md) — `skeleton`
+- [Vaikhānasa](vaikhanasa.md) — `skeleton`
+- [Vaiśeṣika](vaisesika.md) — `skeleton`
+- [Vedic Śrauta tradition (the Saṃhitā lineages)](vedic-srauta.md) — `skeleton`
+- [Vedāṅga (the six limbs of the Veda)](vedanga.md) — `skeleton`
+- [Vidyāpīṭha (the Seat of Vidyās)](vidyapitha.md) — `skeleton`
 - [Vyāsarāja Maṭha (Sosale)](vyasaraja-matha.md) — `skeleton`
+- [Vāma stream (the left current of Tumburu)](vama-srotas.md) — `skeleton`
+- [Vīraśaiva / Liṅgāyata](virasaiva.md) — `skeleton`
+- [Ārya Samāj](arya-samaj.md) — `skeleton` _(recent)_
+- [Ārādhya Śaiva (Andhra)](aradhya-saiva.md) — `skeleton`
+- [Āśvalāyana (Ṛgveda school)](sakha-asvalayana.md) — `skeleton`
+- [Śaraṇa–vacana tradition](sarana-vacana.md) — `skeleton`
+- [Śaunaka śākhā (Atharvaveda)](sakha-saunaka.md) — `skeleton`
+- [Śākala śākhā (Ṛgveda)](sakha-sakala.md) — `skeleton`
+- [Śāṅkhāyana / Kauṣītaki (Ṛgveda school)](sakha-sankhayana.md) — `skeleton`

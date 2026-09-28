@@ -1,0 +1,18 @@
+# Sarvānukramaṇī
+
+`src:sarvanukramani` · `skeleton` · confidence high
+
+**Original title:** सर्वानुक्रमणी
+**Language:** Sanskrit
+**Family:** vedic
+**Lineages:** [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Śākala śākhā (Ṛgveda)](../lineages/sakha-sakala.md)
+**Genre:** anukramaṇī (index)
+**Authors:** 
+  - `tch:katyayana` — role: author; attribution: traditional
+**Attribution:** tradition: Kātyāyana; scholarly: late Vedic index building on Śaunaka's anukramaṇīs; confidence: moderate
+**Availability:** digitized-original
+
+Kātyāyana's index to the Ṛgveda, giving for every hymn its first words, number of verses, seer (ṛṣi), deity (devatā) and metre (chandas); the traditional source of the seer attributions recorded in this ontology.
+
+---
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._

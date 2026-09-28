@@ -1,0 +1,68 @@
+# Sāṃkhya
+
+`lin:samkhya` · `skeleton` · confidence high
+
+**Family:** vedic
+**Alternate names:** Sāṅkhya, Kāpila (the doctrine of Kapila), Ṣaṣṭitantra (as a name of the system), Nirīśvara-Sāṃkhya (as distinguished from Yoga)
+**Founders:** [Kapila](../teachers/kapila.md)
+**Key teachers:** [Kapila](../teachers/kapila.md), [Āsuri](../teachers/asuri.md), [Pañcaśikha](../teachers/pancasikha.md), [Vārṣagaṇya](../teachers/varsaganya.md), [Vindhyavāsin](../teachers/vindhyavasin.md), [Īśvarakṛṣṇa](../teachers/isvarakrsna.md), [Gauḍapāda](../teachers/gaudapada.md), [Māṭhara](../teachers/mathara.md), [Vācaspati Miśra](../teachers/vacaspati-misra.md), [Aniruddha (Sāṃkhya commentator)](../teachers/aniruddha-samkhya.md), [Vijñānabhikṣu](../teachers/vijnanabhiksu.md)
+**Regions:** India (pan-Indian scholastic tradition), Madhupur, Jharkhand (Kāpil Maṭh, modern)
+**Dates:** Tradition's account: taught by Kapila, the first knower, at the beginning of creation (the tradition's account); Scholarly account: proto-Sāṃkhya ideas in the Upaniṣads and the Mahābhārata (c. last centuries BCE – early centuries CE); classical Kārikā c. 350–450 CE; commentaries to c. 10th c.; revival 15th–16th c. (Sāṃkhya Sūtra, Aniruddha, Vijñānabhikṣu); (confidence low)
+**Status:** absorbed
+
+Sāṃkhya ('enumeration', 'discrimination') is the darśana that analyses reality into twenty-five principles in order to discriminate the conscious puruṣa from unconscious prakṛti and its evolutes. Its tradition traces it to the sage Kapila, who taught Āsuri, who taught Pañcaśikha; the lost Ṣaṣṭitantra was condensed in Īśvarakṛṣṇa's Sāṃkhya Kārikā (c. 4th–5th c.), commented on by Gauḍapāda, Māṭhara, the Yuktidīpikā, the Jayamaṅgalā and Vācaspati Miśra. A late Sāṃkhya Sūtra ascribed to Kapila was commented on by Aniruddha and Vijñānabhikṣu. As an independent school it was largely absorbed into Yoga, Vedānta, the Purāṇas, Āyurveda and the tantras, while remaining a studied darśana; in modern times a Sāṃkhya-Yoga monastic line (Kāpil Maṭh, Madhupur) was founded by Hariharānanda Āraṇya.
+
+## Distinctive positions
+- Two irreducible kinds of reality: many conscious puruṣas and one unconscious prakṛti (SK 3, 11, 18).
+- Twenty-five principles (tattvas) emerging from prakṛti in a fixed order (SK 3, 22).
+- The effect pre-exists in its cause (satkārya); causation is real transformation (pariṇāma) (SK 9, 16).
+- Prakṛti is constituted by the three guṇas — sattva, rajas, tamas (SK 12–13).
+- Puruṣa is witness, isolated, neutral, seer and non-agent; agency belongs to the guṇas (SK 19–20).
+- Bondage and release belong to prakṛti, not to puruṣa (SK 62).
+- Three means of valid knowledge: perception, inference and reliable testimony (SK 4).
+- Vedic ritual means are impure, perishable and graded; only discriminating knowledge liberates (SK 2).
+- Liberation (kaivalya) comes from the knowledge 'I am not, not mine, not I' (SK 64), completed at the body's end (SK 68).
+- No Īśvara is established as creator (SS 1.92, 5.2–12); classical Sāṃkhya is non-theistic, though theistic forms exist.
+- Liberation while living: the knower remains embodied by the momentum of impressions, like a potter's wheel (SK 67; SS 3.78–84).
+
+**Transmissions received:** 
+  - `lin:upanisadic` — what: the hierarchy of principles (senses, objects, mind, buddhi, the great self, the unmanifest, puruṣa: Kaṭha Up. 3.10–11) and the word 'sāṃkhya' (Śvetāśvatara Up. 6.13); evidence: textual parallels; the Sāṃkhya readings of these passages are contested by the Brahma Sūtra (1.4.1–13)
+  - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](epic-teaching.md) — what: early enumerations of principles and the teachers Kapila, Āsuri, Pañcaśikha (Mahābhārata, Mokṣadharma); evidence: tradition account; textual parallels
+**Transmissions given:** 
+  - [Pātañjala Yoga (the Yoga darśana)](patanjala-yoga.md) — what: ontology of puruṣa and prakṛti, the guṇas and principles, discrimination and kaivalya
+  - `lin:ayurveda` — what: the principles (tattvas) and the guṇas in the account of the person
+  - [The Purāṇic tradition (paurāṇika)](puranic.md) — what: the order of emergence from pradhāna, taken up under a Lord
+  - [Pāñcarātra](pancaratra.md) — what: the principles and a theistic Ṣaṣṭitantra
+  - `lin:saiva-siddhanta` — what: the lower twenty-five of the thirty-six principles
+  - [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](kashmir-saivism.md) — what: the lower twenty-five of the thirty-six principles
+  - `lin:vedanta` — what: the guṇas, subtle elements and inner instrument used in accounts of māyā's products
+
+## The ultimate in this lineage
+`skeleton` · confidence high
+
+**Names:** puruṣa (many), prakṛti / pradhāna / avyakta (one)
+**Descriptions:** Puruṣa: conscious, witness, isolated, neutral, seer, non-agent; neither a producer nor a product; many (SK 3, 11, 17–19).; Prakṛti (mūlaprakṛti, pradhāna, the unmanifest): unconscious, one and common, made of the three guṇas, uncaused, the productive root of all the manifest; inferred from its effects (SK 3, 8, 10–11, 15–16).; Everything other than prakṛti and puruṣa is impermanent (SS 5.72).
+**Negations:** Puruṣa is neither prakṛti nor vikṛti — neither a producer nor a product (SK 3).; No one (no puruṣa) is bound, released or transmigrates; prakṛti is (SK 62).; The liberating knowledge: 'I am not, (nothing is) mine, not I' (SK 64).; Liberation is not the manifestation of bliss, since puruṣa has no properties (SS 5.74).
+**Relation to self:** The self is puruṣa: each person is a distinct puruṣa, pure consciousness mistakenly identified with buddhi and the instruments; liberation is the isolation (kaivalya) of that consciousness.
+**Relation to world:** The world is the real transformation (pariṇāma) of prakṛti, pre-existing in it (satkārya), which acts for the experience and liberation of puruṣas and ceases for the puruṣa who has discriminated (SK 21, 56–59, 65–66).
+**Caveat:** Classical Sāṃkhya posits two irreducible kinds of ultimate — the many puruṣas and the one prakṛti — and would reject reading them as aspects or parts of a single ultimate; it recognizes no established Īśvara (SS 1.92) and reads scriptural statements of non-duality as sameness of kind among puruṣas (SS 1.154). 'Impersonal' here means there is no personal Lord; puruṣa (literally 'person') is attributeless consciousness. Theistic forms of Sāṃkhya (the epic 'twenty-sixth principle', Vijñānabhikṣu) add a Lord.
+
+## Texts
+[Jayamaṅgalā](../texts/jayamangala.md), [Jin qishi lun](../texts/jin-qishi-lun.md), [Kramadīpikā](../texts/kramadipika.md), [Laghusāṃkhyasūtravṛtti](../texts/laghu-samkhya-sutra-vrtti.md), [Māṭharavṛtti](../texts/mathara-vrtti.md), [Pañcaśikha fragments (Pañcaśikhasūtra)](../texts/pancasikha-sutra.md), [Rājavārttika (Sāṃkhya)](../texts/rajavarttika-samkhya.md), [Sāṃkhya Kārikā](../texts/samkhya-karika.md), [Sāṃkhyakārikābhāṣya of Gauḍapāda](../texts/samkhya-karika-bhasya-gaudapada.md), [Sāṃkhyapravacanabhāṣya](../texts/samkhya-pravacana-bhasya.md), [Sāṃkhyasaptativṛtti (V1)](../texts/samkhya-saptati-vrtti.md), [Sāṃkhya Sūtra](../texts/samkhya-sutra.md), [Sāṃkhyasūtravṛtti of Aniruddha](../texts/samkhya-sutra-vrtti-aniruddha.md), [Sāṃkhyasūtravṛttisāra](../texts/samkhya-sutra-vrttisara.md), [Sāṃkhyavṛtti (V2)](../texts/samkhya-vrtti.md), [Sāṃkhyacandrikā](../texts/samkhyacandrika.md), [Sāṃkhyaparibhāṣā](../texts/samkhyaparibhasa.md), [Sāṃkhyasāra](../texts/samkhyasara.md), [Sāṃkhyasūtravivaraṇa](../texts/samkhyasutravivarana.md), [Sāṃkhyataruvasanta](../texts/samkhyataruvasanta.md), [Sāṃkhyatattvapradīpa](../texts/samkhyatattvapradipa.md), [Sāṃkhyatattvapradīpikā](../texts/samkhyatattvapradipika.md), [Sāṃkhyatattvavivecana](../texts/samkhyatattvavivecana.md), [Sarvopakāriṇī](../texts/sarvopakarini.md), [Ṣaṣṭitantra](../texts/sastitantra.md), [Sāṃkhyatattvakaumudī](../texts/tattvakaumudi.md), [Tattvamīmāṃsā (Sāṃkhya)](../texts/tattvamimamsa-samkhya.md), [Tattvasamāsa](../texts/tattvasamasa.md), [Tattvayāthārthyadīpana](../texts/tattvayatharthyadipana.md), [Vidvattoṣiṇī](../texts/vidvattosini.md), [Yuktidīpikā](../texts/yuktidipika.md)
+
+## Teachers
+[Aniruddha (Sāṃkhya commentator)](../teachers/aniruddha-samkhya.md), [Āsuri](../teachers/asuri.md), [Bālarāma Udāsīna](../teachers/balarama-udasina.md), [Bhārgava (Sāṃkhya teacher)](../teachers/bhargava-samkhya.md), [Bhāvāgaṇeśa](../teachers/bhavaganesa.md), [Devala (Sāṃkhya teacher)](../teachers/devala-samkhya.md), [Dharmamegha Āraṇya](../teachers/dharmamegha-aranya.md), [Gauḍapāda](../teachers/gaudapada.md), [Hariharānanda Āraṇya](../teachers/hariharananda-aranya.md), [Hārīta (Sāṃkhya teacher)](../teachers/harita-samkhya.md), [Īśvarakṛṣṇa](../teachers/isvarakrsna.md), [Jaigīṣavya](../teachers/jaigisavya.md), [Kairāta](../teachers/kairata.md), [Kapila](../teachers/kapila.md), [Kauṇḍinya (Sāṃkhya teacher)](../teachers/kaundinya-samkhya.md), [Kavirāja Yati](../teachers/kaviraja-yati.md), [Keśava (Sāṃkhya author)](../teachers/kesava-samkhya.md), [Kṛṣṇa Mitra](../teachers/krsna-mitra.md), [Mahādeva Vedāntin](../teachers/mahadeva-vedantin.md), [Māṭhara](../teachers/mathara.md), [Muḍumba Narasiṃhasvāmin](../teachers/mudumba-narasimhasvamin.md), [Mūka (Sāṃkhya teacher)](../teachers/muka-samkhya.md), [Nārāyaṇa Tīrtha](../teachers/narayana-tirtha.md), [Pañcādhikaraṇa](../teachers/pancadhikarana.md), [Pañcaśikha](../teachers/pancasikha.md), [Patañjali (Sāṃkhya teacher)](../teachers/patanjali-samkhya.md), [Paurika](../teachers/paurika.md), [Ṛṣabheśvara](../teachers/rsabhesvara.md), [Sanandana](../teachers/sanandana.md), [Ṣimānanda Dīkṣita](../teachers/simananda-diksita.md), [Ulūka (Sāṃkhya teacher)](../teachers/uluka-samkhya.md), [Vācaspati Miśra](../teachers/vacaspati-misra.md), [Vāddhali](../teachers/vaddhali.md), [Vālmīki (Sāṃkhya teacher)](../teachers/valmiki-samkhya.md), [Vārṣagaṇya](../teachers/varsaganya.md), [Vijñānabhikṣu](../teachers/vijnanabhiksu.md), [Vindhyavāsin](../teachers/vindhyavasin.md), [Voḍhu](../teachers/vodhu.md)
+
+## Practices
+_none recorded_
+
+## Path maps
+`pth:samkhya-karika-path`, `pth:samkhya-sutra-path`
+
+## Debates
+_none recorded_
+
+_Notes: Status 'absorbed' refers to the classical independent school; the Kāpil Maṭh (recent) is recorded through its teachers rather than as a separate lineage entity._
+
+---
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 07:02 IST._

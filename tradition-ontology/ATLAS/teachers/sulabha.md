@@ -1,0 +1,12 @@
+# Sulabhā
+
+`tch:sulabha` · `skeleton` · confidence high
+
+**Alternate names:** Sulabhā bhikṣukī
+**Lineages:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
+**Historicity:** legendary
+
+A female mendicant (bhikṣukī) practising the dharma of yoga who wanders the earth alone; doubting king Janaka's liberation, she enters his mind by yoga ('sattva by sattva', 12.308.16) and answers his rebuke with a discourse showing that his attachments remain (12.308).
+
+---
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._

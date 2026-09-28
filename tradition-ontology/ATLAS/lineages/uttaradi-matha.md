@@ -5,8 +5,8 @@
 **Family:** vedic
 **Alternate names:** Uttarādi Maṭha, Śrī Uttarādi Maṭha, the Padmanābha Tīrtha line
 **Parent:** [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](dvaita.md)
-**Founders:** `tch:padmanabha-tirtha`
-**Key teachers:** `tch:padmanabha-tirtha`, `tch:narahari-tirtha`, `tch:madhava-tirtha`, `tch:aksobhya-tirtha`, `tch:jayatirtha`, `tch:vidyadhiraja-tirtha`, `tch:raghuttama-tirtha`, `tch:satyanatha-tirtha`, `tch:satyadharma-tirtha`, `tch:satyadhyana-tirtha`
+**Founders:** [Padmanābha Tīrtha](../teachers/padmanabha-tirtha.md)
+**Key teachers:** [Padmanābha Tīrtha](../teachers/padmanabha-tirtha.md), [Narahari Tīrtha](../teachers/narahari-tirtha.md), [Mādhava Tīrtha](../teachers/madhava-tirtha.md), [Akṣobhya Tīrtha](../teachers/aksobhya-tirtha.md), [Jayatīrtha](../teachers/jayatirtha.md), [Vidyādhirāja Tīrtha](../teachers/vidyadhiraja-tirtha.md), [Raghūttama Tīrtha](../teachers/raghuttama-tirtha.md), [Satyanātha Tīrtha](../teachers/satyanatha-tirtha.md), [Satyadharma Tīrtha](../teachers/satyadharma-tirtha.md), [Satyadhyāna Tīrtha](../teachers/satyadhyana-tirtha.md)
 **Regions:** Karnataka, Maharashtra, Andhra Pradesh
 **Status:** living
 
@@ -17,10 +17,10 @@ One of the three principal Mādhva maṭhas (with the Rāghavendra and Vyāsarā
 
 
 ## Texts
-`src:brhadaranyaka-bhasya-bhavabodha`, `src:nyayasudha`, `src:sattarkadipavali`, `src:tattvaprakasika`
+[Bṛhadāraṇyaka-bhāṣya-bhāvabodha](../texts/brhadaranyaka-bhasya-bhavabodha.md), [Nyāyasudhā](../texts/nyayasudha.md), [Sattarkadīpāvalī](../texts/sattarkadipavali.md), [Tattvaprakāśikā](../texts/tattvaprakasika.md)
 
 ## Teachers
-`tch:aksobhya-tirtha`, `tch:jayatirtha`, `tch:madhava-tirtha`, `tch:narahari-tirtha`, `tch:padmanabha-tirtha`, `tch:raghuttama-tirtha`, `tch:satyadharma-tirtha`, `tch:satyadhyana-tirtha`, `tch:satyanatha-tirtha`, `tch:vidyadhiraja-tirtha`
+[Akṣobhya Tīrtha](../teachers/aksobhya-tirtha.md), [Jayatīrtha](../teachers/jayatirtha.md), [Mādhava Tīrtha](../teachers/madhava-tirtha.md), [Narahari Tīrtha](../teachers/narahari-tirtha.md), [Padmanābha Tīrtha](../teachers/padmanabha-tirtha.md), [Raghūttama Tīrtha](../teachers/raghuttama-tirtha.md), [Satyadharma Tīrtha](../teachers/satyadharma-tirtha.md), [Satyadhyāna Tīrtha](../teachers/satyadhyana-tirtha.md), [Satyanātha Tīrtha](../teachers/satyanatha-tirtha.md), [Vidyādhirāja Tīrtha](../teachers/vidyadhiraja-tirtha.md)
 
 ## Practices
 _none recorded_
@@ -34,4 +34,4 @@ _none recorded_
 _Notes: The division of the line after Vidyādhirāja Tīrtha (Kavīndra Tīrtha's line leading to this maṭha and, after a later split, to the Rāghavendra maṭha; Rājendra Tīrtha's line leading to the Vyāsarāja maṭha) is recorded here from memory at low confidence. The 'Mūla Rāma' images held by the tradition to have been brought from the Kaliṅga treasury by Narahari Tīrtha are claimed by this maṭha and the Rāghavendra maṭha — not verified._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 04:53 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._

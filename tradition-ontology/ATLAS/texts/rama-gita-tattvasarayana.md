@@ -1,0 +1,19 @@
+# Rāma Gītā (Tattvasārāyaṇa)
+
+`src:rama-gita-tattvasarayana` · `skeleton` · confidence low
+
+**Language:** Sanskrit
+**Family:** vedic
+**Lineages:** `lin:advaita-vedanta`
+**Genre:** gītā
+**Part of:** [Tattvasārāyaṇa](tattvasarayana.md)
+**Location in parent:** Tattvasārāyaṇa, Upāsanākāṇḍa (low confidence)
+**Attribution:** tradition: Rāma's teaching to Hanumān; scholarly: late; distinct from the Adhyātma Rāmāyaṇa's Rāma Gītā; confidence: low
+**Availability:** unknown
+
+A longer Rāma Gītā (recalled as 18 chapters) in which Rāma teaches Hanumān Vedānta and yoga; distinct from the 62-verse Rāma Gītā of the Adhyātma Rāmāyaṇa.
+
+_Notes: Recalled only; flagged for the hallucination sweep._
+
+---
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 07:02 IST._

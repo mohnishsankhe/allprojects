@@ -5,7 +5,7 @@
 **Family:** vedic
 **Alternate names:** Śrī Rāghavendra Svāmī Maṭha, Rāyara Maṭha, the Vijayīndra / Kumbhakoṇam maṭha, Dakṣiṇādi maṭha
 **Parent:** [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](dvaita.md)
-**Key teachers:** `tch:vijayindra-tirtha`, `tch:sudhindra-tirtha`, `tch:raghavendra-tirtha`, `tch:surendra-tirtha`
+**Key teachers:** [Vijayīndra Tīrtha](../teachers/vijayindra-tirtha.md), [Sudhīndra Tīrtha](../teachers/sudhindra-tirtha.md), [Rāghavendra Tīrtha](../teachers/raghavendra-tirtha.md), [Surendra Tīrtha](../teachers/surendra-tirtha.md)
 **Regions:** Andhra Pradesh (Mantrālaya), Karnataka, Tamil Nadu (Kumbhakonam)
 **Status:** living
 
@@ -16,10 +16,10 @@ The Mādhva maṭha whose pontiffs included Surendra Tīrtha, Vijayīndra Tīrth
 
 
 ## Texts
-`src:nyayasudha-parimala`, `src:tantradipika`, `src:tattvaprakasika-bhavadipa`
+[Nyāyasudhā-parimala](../texts/nyayasudha-parimala.md), `src:tantradipika`, [Tattvaprakāśikā-bhāvadīpa](../texts/tattvaprakasika-bhavadipa.md)
 
 ## Teachers
-`tch:raghavendra-tirtha`, `tch:sudhindra-tirtha`, `tch:surendra-tirtha`, `tch:vijayindra-tirtha`
+[Appaṇṇācārya](../teachers/appannacarya.md), [Rāghavendra Tīrtha](../teachers/raghavendra-tirtha.md), [Sudhīndra Tīrtha](../teachers/sudhindra-tirtha.md), [Surendra Tīrtha](../teachers/surendra-tirtha.md), [Vijayīndra Tīrtha](../teachers/vijayindra-tirtha.md)
 
 ## Practices
 _none recorded_
@@ -33,4 +33,4 @@ _none recorded_
 _Notes: Its descent from Madhva via the Kavīndra Tīrtha line and a later division (Vibudhendra Tīrtha) is recorded at low confidence._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 04:53 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._

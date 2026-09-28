@@ -5,8 +5,8 @@
 **Family:** vedic
 **Alternate names:** Mahānaya, Mahārtha, Kālīkrama
 **Parent:** [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](kashmir-saivism.md)
-**Founders:** `tch:jnananetra`
-**Key teachers:** `tch:jnananetra`, `tch:abhinavagupta`, `tch:jayaratha`, `tch:mahesvarananda`, `tch:sitikantha`, `tch:anantasaktipada`
+**Founders:** [Jñānanetra (Śivānanda)](../teachers/jnananetra.md)
+**Key teachers:** [Jñānanetra (Śivānanda)](../teachers/jnananetra.md), [Abhinavagupta](../teachers/abhinavagupta.md), [Jayaratha](../teachers/jayaratha.md), [Maheśvarānanda](../teachers/mahesvarananda.md), [Rājānaka Śitikaṇṭha](../teachers/sitikantha.md), [Anantaśaktipāda](../teachers/anantasaktipada.md)
 **Regions:** Kashmir, Oḍḍiyāna (in the tradition's account of Jñānanetra's revelation), Cola country (Maheśvarānanda)
 **Dates:** Tradition's account: Revealed by the goddess to Jñānanetra (Śivānanda) - the tradition's account.; Scholarly account: Kālīkula scriptures (Jayadrathayāmala etc.) before c. 900; Kashmirian Krama c. 850-1000; Maheśvarānanda c. 1300; Śitikaṇṭha's Mahānayaprakāśa later.; (confidence low)
 **Status:** extinct
@@ -37,10 +37,10 @@ The Kālī-centred Kaula tradition of the northern transmission as practised in 
 **Caveat:** Known chiefly through Abhinavagupta, Jayaratha and Maheśvarānanda; the Krama stresses the sequence of the goddess's phases as the way into the sequenceless and would resist a reading that erases the sequence.
 
 ## Texts
-`src:chummasanketaprakasa`, `src:cidgaganacandrika`, `src:jayadrathayamala`, `src:kalikulapancasataka`, `src:kramasadbhava`, `src:kramastotra-abhinavagupta`, `src:mahanayaprakasa`, `src:mahanayaprakasa-sitikantha`, `src:maharthamanjari`, `src:maharthamanjari-parimala`, `src:vatulanatha-sutra`
+[Chummāsaṅketaprakāśa](../texts/chummasanketaprakasa.md), [Cidgaganacandrikā](../texts/cidgaganacandrika.md), [Jayadrathayāmala (Tantrarājabhaṭṭāraka)](../texts/jayadrathayamala.md), [Kālasaṅkarṣiṇīmata](../texts/kalasankarsinimata.md), [Kālīkulapañcaśataka (Devīpañcaśataka)](../texts/kalikulapancasataka.md), [Kramasadbhāva](../texts/kramasadbhava.md), [Kramastotra (Abhinavagupta)](../texts/kramastotra-abhinavagupta.md), [Mahānayaprakāśa (anonymous)](../texts/mahanayaprakasa.md), [Mahānayaprakāśa (Śitikaṇṭha)](../texts/mahanayaprakasa-sitikantha.md), [Mahārthamañjarī](../texts/maharthamanjari.md), [Parimala](../texts/maharthamanjari-parimala.md), [Tantrāloka](../texts/tantraloka.md), [Vātūlanāthasūtra](../texts/vatulanatha-sutra.md)
 
 ## Teachers
-`tch:abhinavagupta`, `tch:anantasaktipada`, `tch:jayaratha`, `tch:jnananetra`, `tch:mahesvarananda`, `tch:sitikantha`
+[Abhinavagupta](../teachers/abhinavagupta.md), [Anantaśaktipāda](../teachers/anantasaktipada.md), [Jayaratha](../teachers/jayaratha.md), [Jñānanetra (Śivānanda)](../teachers/jnananetra.md), [Maheśvarānanda](../teachers/mahesvarananda.md), [Niṣkriyānandanātha](../teachers/niskriyanandanatha.md), [Rājānaka Śitikaṇṭha](../teachers/sitikantha.md)
 
 ## Practices
 _none recorded_
@@ -54,4 +54,4 @@ _none recorded_
 _Notes: Parent set to the Kashmirian grouping; historically a Kālīkula (lin:kalikula) Kaula system._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 04:53 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._

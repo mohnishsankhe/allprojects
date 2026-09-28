@@ -1,1 +1,7125 @@
-[]
+[
+ {
+  "id": "prc:vbt-dharana-1",
+  "name": "Vijñāna Bhairava dhāraṇā 1: Fullness at the two points where the breath arises",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 1 (Vijñānabhairava 24)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "breath",
+  "method_summary": "The supreme [Goddess], whose nature is emission (visarga), sounds forth as prāṇa above and as jīva (the in-breath) below; by dwelling on and filling the two places where they arise, the state of fullness (bharitā sthiti) comes about.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "24",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:24"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 24 (KSTS 8 / GRETIL numbering). Commentators identify the two places as the heart and the dvādaśānta (Kaumudī: 'utpattau dvādaśānte dvitīye hṛdi'). First dhāraṇā in Ānandabhaṭṭa's count as well.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-10",
+  "name": "Vijñāna Bhairava dhāraṇā 10: The same method on a void, a wall or a worthy vessel",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 10 (Vijñānabhairava 33)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "sense-withdrawal-concentration",
+  "method_summary": "By this very method, contemplation on anything whatever - on a void, on a wall, on an excellent person (pātra) - dissolves of itself and grants the boon.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "33",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:33"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 33 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-100",
+  "name": "Vijñāna Bhairava dhāraṇā 100: Neither attachment nor aversion",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 100 (Vijñānabhairava 126)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "mind-training",
+  "method_summary": "One should not cultivate aversion anywhere, nor attachment anywhere; in the middle, free of attachment and aversion, Brahman spreads.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "126",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:126"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 126 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-101",
+  "name": "Vijñāna Bhairava dhāraṇā 101: The unknowable and the void as Bhairava",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 101 (Vijñānabhairava 127)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "What is unknowable, ungraspable, void, what lies in non-being - all that is to be contemplated as Bhairava; at its end, awakening arises.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "127",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:127"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 127 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-102",
+  "name": "Vijñāna Bhairava dhāraṇā 102: The mind in outer space",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 102 (Vijñānabhairava 128)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "Placing the mind in outer space - eternal, supportless, void, pervasive, free of limitation - one enters the spaceless.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "128",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:128"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 128 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-103",
+  "name": "Vijñāna Bhairava dhāraṇā 103: Letting go of each object the moment the mind goes to it",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 103 (Vijñānabhairava 129)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "Wherever the mind goes, abandoning that very thing at that very moment, by not letting it settle, one becomes waveless.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "129",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:129"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 129 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-104",
+  "name": "Vijñāna Bhairava dhāraṇā 104: Continuous utterance of the word 'Bhairava'",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 104 (Vijñānabhairava 130)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "mantra-sound",
+  "method_summary": "'He makes all resound through fear (bhayā ... ravayati), he gives all, he pervades the whole' - by continuously uttering the word 'Bhairava' [with this sense], one becomes Śiva.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "130",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:130"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 130 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-105",
+  "name": "Vijñāna Bhairava dhāraṇā 105: At the thought 'I' and 'mine'",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 105 (Vijñānabhairava 131)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "inquiry",
+  "method_summary": "When notions such as 'I', 'this is mine' arise, the mind goes to the supportless; impelled by meditation on that, one becomes calm.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "131",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:131"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 131 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-106",
+  "name": "Vijñāna Bhairava dhāraṇā 106: Contemplating the words 'eternal', 'all-pervading', 'supportless'",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 106 (Vijñānabhairava 132)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "mantra-sound",
+  "method_summary": "Meditating at every moment on the words 'eternal', 'all-pervading', 'supportless', 'pervasive', 'lord of all', according to their meaning, one attains one's aim.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "132",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:132"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 132 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-107",
+  "name": "Vijñāna Bhairava dhāraṇā 107: 'What reality has a magic show?'",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 107 (Vijñānabhairava 133)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "inquiry",
+  "method_summary": "'All this, without reality, stands like a magic show; what reality has a magic show?' - by firmness in this, one goes to peace.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "133",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:133"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 133 (KSTS 8 / GRETIL numbering). Illusion imagery used as a contemplation; relevant to the Advaita/Śaiva dispute on the world.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-108",
+  "name": "Vijñāna Bhairava dhāraṇā 108: The unchanging self: the world as void",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 108 (Vijñānabhairava 134)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "inquiry",
+  "method_summary": "For the unchanging self, where is knowledge, where is action? External things depend on knowledge; therefore this world is void.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "134",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:134"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 134 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-109",
+  "name": "Vijñāna Bhairava dhāraṇā 109: 'No bondage, no liberation for me'",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 109 (Vijñānabhairava 135)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "inquiry",
+  "method_summary": "'For me there is no bondage, no liberation; these are bugbears for the frightened; this [world] is a reflection in the intellect, like the sun in waters.'",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "135",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:135"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 135 (KSTS 8 / GRETIL numbering). The Kaumudī reads 'bālasyaitā vibhīṣikāḥ' (bugbears for a child).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-11",
+  "name": "Vijñāna Bhairava dhāraṇā 11: The mind within the skull, eyes closed",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 11 (Vijñānabhairava 34)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "sense-withdrawal-concentration",
+  "method_summary": "Placing the mind within the skull and remaining with eyes closed, gradually, through the mind's steadiness, one discerns the highest object.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "34",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:34"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 34 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-110",
+  "name": "Vijñāna Bhairava dhāraṇā 110: Withdrawing from the senses into the self",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 110 (Vijñānabhairava 136)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "sense-withdrawal-concentration",
+  "method_summary": "All contact with pleasure, pain and the like comes through the doors of the senses; so, abandoning the senses, one abides in oneself, established in one's own self.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "136",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:136"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 136 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-111",
+  "name": "Vijñāna Bhairava dhāraṇā 111: Knowledge and the known as one",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 111 (Vijñānabhairava 137)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "inquiry",
+  "method_summary": "Knowledge reveals everything, and the self is the revealer through everything; because they have a single nature, knowledge and the known are to be contemplated as one.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "137",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:137"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 137 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-112",
+  "name": "Vijñāna Bhairava dhāraṇā 112: Dissolution of mind, awareness, power and self",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 112 (Vijñānabhairava 138)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "When the four - mind, awareness (cetanā), power (śakti) and self (ātman) - have dissolved, beloved, then there is Bhairava's form.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "138",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:138"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 138 (KSTS 8 / GRETIL numbering). Kaumudī glosses: mind = manas, cetanā = intellect (buddhi), śakti = the breath-power, ātman = the limited individual.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-12",
+  "name": "Vijñāna Bhairava dhāraṇā 12: The central channel like a lotus fibre",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 12 (Vijñānabhairava 35)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "energy",
+  "method_summary": "The central channel (madhyanāḍī), situated in the middle, [is to be meditated on] in the form of a lotus fibre; by that goddess, meditated as inner space, the God shines forth.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "35",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:35"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 35 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-13",
+  "name": "Vijñāna Bhairava dhāraṇā 13: Closing the sense-doors: the bindu between the brows",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 13 (Vijñānabhairava 36)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "sense-withdrawal-concentration",
+  "method_summary": "Blocking the eyes with the 'weapon' of the hands, piercing at the brows and closing the doors [of the senses]: when the point (bindu) is seen and gradually dissolves, in its midst is the supreme state.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "36",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:36"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 36 (KSTS 8 / GRETIL numbering). Resembles the haṭha ṣaṇmukhī mudrā (see equivalents).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "equivalents": [
+   {
+    "target": "prc:sanmukhi-mudra",
+    "grade": "partial",
+    "note": "Closing the sense-openings with the hands; the VBT adds the seen bindu",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:36"
+    ]
+   }
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-14",
+  "name": "Vijñāna Bhairava dhāraṇā 14: The bindu like a subtle spark, at the crest or in the heart",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 14 (Vijñānabhairava 37)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "sense-withdrawal-concentration",
+  "method_summary": "For one who meditates on the point (bindu) - shaped like a subtle fiery mark arising from agitation within the light-abode (dhāma) - at the end of the crest (śikhānta) or in the heart, at the end of dissolution there is absorption.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "37",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:37"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 37 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-15",
+  "name": "Vijñāna Bhairava dhāraṇā 15: The unstruck sound (anāhata)",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 15 (Vijñānabhairava 38)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "mantra-sound",
+  "method_summary": "One who is immersed in the Sound-Brahman - the unstruck (anāhata), unbroken sound, [heard] in the ear as a vessel, rushing like a river - attains the supreme Brahman.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "38",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:38"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 38 (KSTS 8 / GRETIL numbering). 'pātrakarṇe' is read differently in the recensions.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "equivalents": [
+   {
+    "target": "prc:nadanusandhana",
+    "grade": "analogous",
+    "note": "Absorption in the inner unstruck sound",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:38"
+    ]
+   }
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-16",
+  "name": "Vijñāna Bhairava dhāraṇā 16: Uttering Oṃ and resting in the void at its end",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 16 (Vijñānabhairava 39)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "mantra-sound",
+  "method_summary": "By uttering the praṇava (Oṃ) and the like, and contemplating the void at the end of its prolonged (pluta) sound, one goes to voidness by the supreme void power, O Bhairavī.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "39",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:39"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 39 (KSTS 8 / GRETIL numbering). Kaumudī: the sixteenth (ṣoḍaśī) dhāraṇā - agrees with this count.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-17",
+  "name": "Vijñāna Bhairava dhāraṇā 17: The void before and after any sound",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 17 (Vijñānabhairava 40)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "mantra-sound",
+  "method_summary": "One should contemplate the beginning and the end of any sound (varṇa) whatever; by the void [power] such a person becomes void, of the form of the void.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "40",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:40"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 40 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-18",
+  "name": "Vijñāna Bhairava dhāraṇā 18: The fading sounds of stringed instruments",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 18 (Vijñānabhairava 41)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "mantra-sound",
+  "method_summary": "In the long, successive sounds of stringed and other instruments, one whose mind is on nothing else becomes, at the end of each, of the form of the supreme space.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "41",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:41"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 41 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-19",
+  "name": "Vijñāna Bhairava dhāraṇā 19: A seed-mantra dissolved into its subtle phases and the void",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 19 (Vijñānabhairava 42)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "mantra-sound",
+  "method_summary": "Of any compound seed-mantra (piṇḍamantra), by [uttering] its gross letters in order and then, through the half-moon (ardhendu), the point (bindu), the resonance (nāda) and its end, by uttering the void, one becomes Śiva.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "42",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:42"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 42 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-2",
+  "name": "Vijñāna Bhairava dhāraṇā 2: The two voids at the turning points of the breath",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 2 (Vijñānabhairava 25)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "breath",
+  "method_summary": "When the breath, moving inward or outward, does not turn back from the two spaces [at its ends], thus, O Bhairavī, the form of Bhairava is revealed through Bhairavī.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "25",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:25"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 25 (KSTS 8 / GRETIL numbering). Kaumudī counts this 'the second' (dvitīyā).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-20",
+  "name": "Vijñāna Bhairava dhāraṇā 20: The body as space in all directions at once",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 20 (Vijñānabhairava 43)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "One should contemplate space in all directions simultaneously in one's own body; for one whose mind is free of thought-constructs, everything becomes space.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "43",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:43"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 43 (KSTS 8 / GRETIL numbering). Kaumudī: 'now he states the twentieth (viṃśatitamī) dhāraṇā'.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-21",
+  "name": "Vijñāna Bhairava dhāraṇā 21: The voids above, at the root and in the heart",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 21 (Vijñānabhairava 44-45)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "Whoever contemplates simultaneously the void 'behind/above' (pṛṣṭha) and the void at the root becomes void-minded through the power independent of the body (44). One should contemplate steadily the void above, the void at the root and the void in the heart; from this simultaneous freedom from thought, the thought-free state arises (45).",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "44-45",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:44-45"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 44-45 (KSTS 8 / GRETIL numbering). Grouped: the Kaumudī recension (KSTS 9) has one verse combining 44a and 45b.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-22",
+  "name": "Vijñāna Bhairava dhāraṇā 22: Voidness in a part of the body, for a moment",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 22 (Vijñānabhairava 46)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "One should contemplate voidness in [any] part of the body even for a moment; free of thought-constructs, one comes to share the nature of the thought-free.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "46",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:46"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 46 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-23",
+  "name": "Vijñāna Bhairava dhāraṇā 23: The body's substance pervaded by space",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 23 (Vijñānabhairava 47)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "O doe-eyed one, one should contemplate all the substance within the body as pervaded by space; then that contemplation of his becomes steady.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "47",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:47"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 47 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-24",
+  "name": "Vijñāna Bhairava dhāraṇā 24: The skin as a wall with nothing within",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 24 (Vijñānabhairava 48)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "One should contemplate the skin as a wall enclosing the body, with nothing inside it; meditating thus, one comes to partake of what cannot be meditated upon.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "48",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:48"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 48 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-25",
+  "name": "Vijñāna Bhairava dhāraṇā 25: The space of the heart-lotus",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 25 (Vijñānabhairava 49)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "One whose senses are dissolved in the space of the heart, dwelling in the middle of the closed lotus, with mind on nothing else, O fortunate one, attains the supreme fortune.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "49",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:49"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 49 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-26",
+  "name": "Vijñāna Bhairava dhāraṇā 26: Dissolving the mind in the dvādaśānta",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 26 (Vijñānabhairava 50)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "By dissolving the mind in the dvādaśānta of one's own body on all sides, for one of firm understanding the mark of reality becomes firm.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "50",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:50"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 50 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-27",
+  "name": "Vijñāna Bhairava dhāraṇā 27: Casting the mind into the dvādaśānta at any time",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 27 (Vijñānabhairava 51)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "However and wherever [one may be], one should cast the mind into the dvādaśānta; for one whose mental activity wanes moment by moment, an extraordinary state arises within days.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "51",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:51"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 51 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "signs_of_progress": "an extraordinary state 'within days' (v. 51)",
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-28",
+  "name": "Vijñāna Bhairava dhāraṇā 28: One's own body burnt by the fire of time",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 28 (Vijñānabhairava 52)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "visualization-deity",
+  "method_summary": "One should contemplate one's own 'city' (the body) as burnt by the fire of Kālāgni rising from the place of time (kālapada); at the end, the appearance of peace arises.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "52",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:52"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 52 (KSTS 8 / GRETIL numbering). Commentators take 'the place of time' as the right big toe (interpretation).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-29",
+  "name": "Vijñāna Bhairava dhāraṇā 29: The whole world burnt",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 29 (Vijñānabhairava 53)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "visualization-deity",
+  "method_summary": "In the same way, having meditated, by imagination, on the whole world as burnt, a person whose mind is on nothing else attains the supreme state of the person (pumbhāva).",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "53",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:53"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 53 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-3",
+  "name": "Vijñāna Bhairava dhāraṇā 3: Suspension of the breath-power in the centre",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 3 (Vijñānabhairava 26)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "breath",
+  "method_summary": "When the power (śakti) in the form of breath neither goes out nor enters and [the centre] has expanded, through the absence of thought-constructs in the middle, by that [power] there is the state of Bhairava.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "26",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:26"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 26 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-30",
+  "name": "Vijñāna Bhairava dhāraṇā 30: Dissolving the tattvas into the subtler",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 30 (Vijñānabhairava 54)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "Having meditated on the tattvas of one's own body or of the world as dissolving into the subtle and the still subtler, at the end the Supreme (Parā) is revealed.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "54",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:54"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 54 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-31",
+  "name": "Vijñāna Bhairava dhāraṇā 31: The power, thick then thin, in the twelve and in the heart",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 31 (Vijñānabhairava 55)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "energy",
+  "method_summary": "Having meditated on the power (śakti), [first] thick and [then] feeble, in the field of the twelve (dvādaśa), and entering and meditating in the heart, one is liberated and attains freedom (svātantrya).",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "55",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:55"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 55 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-32",
+  "name": "Vijñāna Bhairava dhāraṇā 32: The paths of the cosmos, gross to supreme",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 32 (Vijñānabhairava 56)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "One should contemplate the whole in the form of the path of worlds (bhuvanādhvan) and the other paths, step by step, in its gross, subtle and supreme condition, until at the end the mind dissolves.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "56",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:56"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 56 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-33",
+  "name": "Vijñāna Bhairava dhāraṇā 33: The Śiva-principle at the limits of the universe",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 33 (Vijñānabhairava 57)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "Having meditated, by the procedure of the paths, on the Śaiva principle at the limits of this entire universe on all sides, the great arising occurs.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "57",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:57"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 57 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-34",
+  "name": "Vijñāna Bhairava dhāraṇā 34: The universe as void",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 34 (Vijñānabhairava 58)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "O great Goddess, one should contemplate this universe as void; the mind dissolved there becomes fit for dissolution in That.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "58",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:58"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 58 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-35",
+  "name": "Vijñāna Bhairava dhāraṇā 35: Gazing into the space of a vessel",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 35 (Vijñānabhairava 59)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "sense-withdrawal-concentration",
+  "method_summary": "One should cast one's gaze into a pot or other vessel, leaving aside its walls; entering its dissolution at once, by that dissolution one becomes one with it.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "59",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:59"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 59 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-36",
+  "name": "Vijñāna Bhairava dhāraṇā 36: Gazing at open, empty space",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 36 (Vijñānabhairava 60)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "sense-withdrawal-concentration",
+  "method_summary": "One should cast the gaze on a place without trees, mountains, walls and the like; when the mental state dissolves, one whose activity has waned arises.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "60",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:60"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 60 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-37",
+  "name": "Vijñāna Bhairava dhāraṇā 37: The middle between two cognitions",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 37 (Vijñānabhairava 61)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "In the cognition of two things, having meditated, one should take refuge in the middle; abandoning both at once, reality shines in the middle.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "61",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:61"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 61 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-38",
+  "name": "Vijñāna Bhairava dhāraṇā 38: Between leaving one object and taking up another",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 38 (Vijñānabhairava 62)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "When one object has been abandoned, [if] consciousness, held back, does not go to another, then by being in the middle of them the contemplation blossoms greatly.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "62",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:62"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 62 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-39",
+  "name": "Vijñāna Bhairava dhāraṇā 39: Body and world as consciousness",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 39 (Vijñānabhairava 63)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "One should contemplate the whole body, or the world, as made of consciousness, all at once, with a thought-free mind: [then] the supreme arising.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "63",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:63"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 63 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-4",
+  "name": "Vijñāna Bhairava dhāraṇā 4: Peace at the end of retention, exhalation or inhalation",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 4 (Vijñānabhairava 27)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "breath",
+  "method_summary": "Whenever [the breath-power] is held, expelled or drawn in, at the end of that the one called 'Peaceful' (Śānta) shines forth by means of the power.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "27",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:27"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 27 (KSTS 8 / GRETIL numbering). Names retention (kumbhaka) without any duration or count; not an 'extreme retention' practice.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-40",
+  "name": "Vijñāna Bhairava dhāraṇā 40: The meeting of the two breaths",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 40 (Vijñānabhairava 64)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "breath",
+  "method_summary": "Through the meeting of the two breaths, inside or outside, at the end the yogin becomes a vessel for the arising of the knowledge of sameness.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "64",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:64"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 64 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-41",
+  "name": "Vijñāna Bhairava dhāraṇā 41: World and body filled with one's own bliss",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 41 (Vijñānabhairava 65)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "One should remember the whole world, or one's own body, as filled with one's own bliss; at once, by one's own nectar, one becomes full of supreme bliss.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "65",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:65"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 65 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-42",
+  "name": "Vijñāna Bhairava dhāraṇā 42: The practice called kuhana",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 42 (Vijñānabhairava 66)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "O doe-eyed one, by the practice called kuhana great bliss immediately arises, by which reality shines.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "66",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:66"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 66 (KSTS 8 / GRETIL numbering). 'Kuhana' (a trick, feint) is obscure; the commentators explain it differently. Meaning low confidence.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-43",
+  "name": "Vijñāna Bhairava dhāraṇā 43: Closing the currents: the ant-like sensation",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 43 (Vijñānabhairava 67)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "energy",
+  "method_summary": "By blocking all the currents (srotas), with the breath-power slowly rising upward, at the moment of a sensation like ants [crawling], supreme joy spreads.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "67",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:67"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 67 (KSTS 8 / GRETIL numbering). Summary only; no method or duration is supplied.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-44",
+  "name": "Vijñāna Bhairava dhāraṇā 44: Between 'fire' and 'poison'",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 44 (Vijñānabhairava 68)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "energy",
+  "method_summary": "One should cast the mind, full of pleasure, into the middle between 'fire' (vahni) and 'poison' (viṣa); or, alone and filled with breath, one is joined with the bliss of love (smarānanda).",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "68",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:68"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [
+   {
+    "text": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "157-159"
+   }
+  ],
+  "notes": "Verses 68 (KSTS 8 / GRETIL numbering). 'Fire' and 'poison' are technical terms the commentators read in terms of the contraction and expansion of power (interpretation). Restricted: summary of what the verse says only; the text gives no method and none is supplied here. The tradition treats such practices as requiring initiation and a qualified teacher.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "restricted": true,
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-45",
+  "name": "Vijñāna Bhairava dhāraṇā 45: The joy of union as the joy of Brahman",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 45 (Vijñānabhairava 69)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "energy",
+  "method_summary": "The joy that comes at the culmination of absorption into power (śakti), stirred by union with a śakti (a consort) - that joy of the Brahman-principle is called one's own.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "69",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:69"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [
+   {
+    "text": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "157-159"
+   }
+  ],
+  "notes": "Verses 69 (KSTS 8 / GRETIL numbering). Restricted: summary of what the verse says only; the text gives no method and none is supplied here. The tradition treats such practices as requiring initiation and a qualified teacher.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "restricted": true,
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-46",
+  "name": "Vijñāna Bhairava dhāraṇā 46: The memory of sexual joy",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 46 (Vijñānabhairava 70)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "energy",
+  "method_summary": "Even without a consort, O queen of gods, from the fullness of the memory of the pleasure [of union] a flood of bliss arises.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "70",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:70"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [
+   {
+    "text": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "157-159"
+   }
+  ],
+  "notes": "Verses 70 (KSTS 8 / GRETIL numbering). Restricted: summary of what the verse says only; the text gives no method and none is supplied here. The tradition treats such practices as requiring initiation and a qualified teacher.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "restricted": true,
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-47",
+  "name": "Vijñāna Bhairava dhāraṇā 47: The joy of reunion",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 47 (Vijñānabhairava 71)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "When great joy is obtained, or on seeing a relative after a long time, one should meditate on the joy that has arisen and become absorbed in it, with the mind on it.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "71",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:71"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 71 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-48",
+  "name": "Vijñāna Bhairava dhāraṇā 48: The delight of eating and drinking",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 48 (Vijñānabhairava 72)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "From the expansion of the joy of taste produced by eating and drinking, one should contemplate the state of fullness; then there will be great bliss.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "72",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:72"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 72 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-49",
+  "name": "Vijñāna Bhairava dhāraṇā 49: The joy of song and other sense-delights",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 49 (Vijñānabhairava 73)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "For the yogin who is one with the incomparable joy of relishing song and other objects, by being absorbed in it, when the mind is established there, there is identity with That.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "73",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:73"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 73 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-5",
+  "name": "Vijñāna Bhairava dhāraṇā 5: The power rising like rays from the root to the dvādaśānta",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 5 (Vijñānabhairava 28)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "energy",
+  "method_summary": "One should contemplate that [power] from the root (mūla), shining like rays, ever subtler, as it comes to rest at the end of the twelve (dvādaśānta): [then] Bhairava arises.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "28",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:28"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 28 (KSTS 8 / GRETIL numbering). Kaumudī: the fifth dhāraṇā.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-50",
+  "name": "Vijñāna Bhairava dhāraṇā 50: Wherever the mind is satisfied",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 50 (Vijñānabhairava 74)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "Wherever the mind finds satisfaction, there one should hold the mind; there the nature of supreme bliss manifests.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "74",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:74"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 74 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-51",
+  "name": "Vijñāna Bhairava dhāraṇā 51: The threshold of sleep",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 51 (Vijñānabhairava 75)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "sleep-dream-death",
+  "method_summary": "When sleep has not yet come and the outer world has vanished, that state is to be reached by the mind; [there] the supreme Goddess shines forth.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "75",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:75"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 75 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-52",
+  "name": "Vijñāna Bhairava dhāraṇā 52: Gazing at space lit by the sun or a lamp",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 52 (Vijñānabhairava 76)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "sense-withdrawal-concentration",
+  "method_summary": "When space is variegated by the light of the sun, a lamp or the like, the gaze should be fixed right there; the nature of one's own self shines.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "76",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:76"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 76 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-53",
+  "name": "Vijñāna Bhairava dhāraṇā 53: The five mudrās: Karaṅkiṇī, Krodhanā, Bhairavī, Lelihānā, Khecarī",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 53 (Vijñānabhairava 77)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "lock-seal",
+  "method_summary": "Through [the seals] Karaṅkiṇī, Krodhanā, Bhairavī, Lelihānā and Khecarī, at the time of seeing, the attainment of the Supreme shines forth.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "77",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:77"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [
+   {
+    "text": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "157-159"
+   }
+  ],
+  "notes": "Verses 77 (KSTS 8 / GRETIL numbering). These mudrās are described in Trika sources (TĀ ch. 32); the verse only names them. Marked restricted as a precaution because of the name khecarī; the Trika khecarī is not the haṭha tongue practice. Restricted: summary of what the verse says only; the text gives no method and none is supplied here. The tradition treats such practices as requiring initiation and a qualified teacher.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "restricted": true,
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-54",
+  "name": "Vijñāna Bhairava dhāraṇā 54: Sitting on one buttock with hands and feet unsupported",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 54 (Vijñānabhairava 78)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "posture",
+  "method_summary": "On a soft seat, [sitting] on one buttock, placing the hands and feet without support - through that, the supreme, full understanding arises.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "78",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:78"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 78 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-55",
+  "name": "Vijñāna Bhairava dhāraṇā 55: Arms curved, mind in the space of the armpits",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 55 (Vijñānabhairava 79)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "posture",
+  "method_summary": "Sitting properly on a seat, making the arms half-bent, placing the mind in the space of the armpits, one attains peace through absorption in it.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "79",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:79"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 79 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-56",
+  "name": "Vijñāna Bhairava dhāraṇā 56: An unmoving gaze on a gross object, then no support",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 56 (Vijñānabhairava 80)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "sense-withdrawal-concentration",
+  "method_summary": "Having cast an unmoving gaze on some gross object and quickly making the mind supportless, one goes to Śiva.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "80",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:80"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 80 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-57",
+  "name": "Vijñāna Bhairava dhāraṇā 57: Mouth open, mentally uttering 'ha'",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 57 (Vijñānabhairava 81)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "mantra-sound",
+  "method_summary": "With the tongue in the middle of the wide-open mouth, placing awareness in the middle, mentally uttering 'ha', one then dissolves into peace.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "81",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:81"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 81 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-58",
+  "name": "Vijñāna Bhairava dhāraṇā 58: The body as supportless while sitting or lying",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 58 (Vijñānabhairava 82)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "Remaining on a seat or a bed, contemplating one's own body as without support, when the mind subsides, in an instant one's store of latent impressions (āśaya) is exhausted.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "82",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:82"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 82 (KSTS 8 / GRETIL numbering). Kaumudī reads 'bhūtāśaya'.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-59",
+  "name": "Vijñāna Bhairava dhāraṇā 59: A moving seat or slow swaying",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 59 (Vijñānabhairava 83)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "posture",
+  "method_summary": "For one seated on a moving seat, or by slowly swaying the body, when the mental state is calmed, O Goddess, one obtains the divine flood.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "83",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:83"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 83 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-6",
+  "name": "Vijñāna Bhairava dhāraṇā 6: The power rising like lightning through the cakras",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 6 (Vijñānabhairava 29)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "energy",
+  "method_summary": "[Contemplate her] rising in the form of lightning, from wheel (cakra) to wheel, step by step, upward as far as three fists [above the head]; at the end there is the great arising.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "29",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:29"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 29 (KSTS 8 / GRETIL numbering). Grammatically continues v. 28 (the accusative depends on 'cintayet'); Ānandabhaṭṭa: 'he shows this very thing with the sixth'.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-60",
+  "name": "Vijñāna Bhairava dhāraṇā 60: The clear sky: gazing, and absorbing it into the head",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 60 (Vijñānabhairava 84-85)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "sense-withdrawal-concentration",
+  "method_summary": "Gazing at the clear sky with an unbroken gaze, becoming still, O Goddess, one at once attains the form of Bhairava (84). One should contemplate the whole sky as dissolved in the head, as Bhairava; then all of it enters the light-principle in the form of Bhairava (85).",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "84-85",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:84-85"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 84-85 (KSTS 8 / GRETIL numbering). Grouped: v. 84 is absent from the Kaumudī recension's main text and is reported after v. 85 in one manuscript.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-61",
+  "name": "Vijñāna Bhairava dhāraṇā 61: Bhairava's form beyond partial knowing, light and darkness",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 61 (Vijñānabhairava 86)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "Partial knowing gives duality; the outer light [turns] again to darkness; knowing Bhairava's form as the universe and beyond, one bears infinite light.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "86",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:86"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 86 (KSTS 8 / GRETIL numbering). Obscure verse; readings differ ('jñātam'/'jñātvā'). Low confidence on the sense.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-62",
+  "name": "Vijñāna Bhairava dhāraṇā 62: The darkness of a moonless night",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 62 (Vijñānabhairava 87)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "sense-withdrawal-concentration",
+  "method_summary": "In the same way, on a dark night at the coming of the dark fortnight, contemplating for long the form of darkness, one will attain the form of Bhairava.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "87",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:87"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 87 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-63",
+  "name": "Vijñāna Bhairava dhāraṇā 63: Closed eyes: the darkness in front as Bhairava",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 63 (Vijñānabhairava 88)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "sense-withdrawal-concentration",
+  "method_summary": "In the same way, first closing the eyes, then extending the dark form in front and contemplating it as Bhairava's form, one becomes one with it.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "88",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:88"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 88 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-64",
+  "name": "Vijñāna Bhairava dhāraṇā 64: Obstructing a sense",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 64 (Vijñānabhairava 89)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "sense-withdrawal-concentration",
+  "method_summary": "When any sense is obstructed or checked, for one who has entered the non-dual void, the self shines right there.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "89",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:89"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 89 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-65",
+  "name": "Vijñāna Bhairava dhāraṇā 65: Repeating 'a' without bindu or visarga",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 65 (Vijñānabhairava 90)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "mantra-sound",
+  "method_summary": "For one who repeats the letter 'a' without the point (bindu) and without visarga, O Goddess, a great flood of knowledge, the supreme Lord, suddenly arises.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "90",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:90"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 90 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-66",
+  "name": "Vijñāna Bhairava dhāraṇā 66: Awareness at the end of the visarga",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 66 (Vijñānabhairava 91)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "mantra-sound",
+  "method_summary": "Of a sound that has visarga, place awareness at the end of the visarga; with a supportless mind one touches the eternal Brahman.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "91",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:91"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 91 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-67",
+  "name": "Vijñāna Bhairava dhāraṇā 67: The self as boundless space",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 67 (Vijñānabhairava 92)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "One should meditate on one's own self as having the form of space, unenclosed by the directions; then the supportless power of consciousness (citi-śakti) shows its own nature.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "92",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:92"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 92 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-68",
+  "name": "Vijñāna Bhairava dhāraṇā 68: Awareness joined to a point of sharp sensation",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 68 (Vijñānabhairava 93)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "Having first pierced some part of the body with a sharp needle or the like, then joining awareness to that very place, [there is] the pure way into Bhairava.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "93",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:93"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [
+   {
+    "text": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "157-159"
+   }
+  ],
+  "notes": "Verses 93 (KSTS 8 / GRETIL numbering). Restricted (the verse involves piercing the body). Restricted: summary of what the verse says only; the text gives no method and none is supplied here. The tradition treats such practices as requiring initiation and a qualified teacher.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "restricted": true,
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-69",
+  "name": "Vijñāna Bhairava dhāraṇā 69: 'Within me there is no mind'",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 69 (Vijñānabhairava 94)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "inquiry",
+  "method_summary": "One should contemplate: 'within me there is no inner organ, mind and so on'; through the absence of thought-constructs, one becomes free of thought-constructs.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "94",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:94"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 94 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-7",
+  "name": "Vijñāna Bhairava dhāraṇā 7: The twelve stages marked by twelve letters",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 7 (Vijñānabhairava 30)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "energy",
+  "method_summary": "The twelve stages, properly distinguished by twelve letters, [are to be passed through] in their gross, subtle and supreme condition; leaving each in turn, at the end one is Śiva.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "30",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:30"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 30 (KSTS 8 / GRETIL numbering). Commentators list twelve points along the body's axis; the list is not given in the verse.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-70",
+  "name": "Vijñāna Bhairava dhāraṇā 70: Contemplating the functions of māyā and the tattvas",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 70 (Vijñānabhairava 95)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "inquiry",
+  "method_summary": "'Māyā is the deluder; kalā's [function] is limited action' - contemplating in this way the properties of the tattvas, one does not remain separate.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "95",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:95"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 95 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-71",
+  "name": "Vijñāna Bhairava dhāraṇā 71: Quieting a desire at its source",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 71 (Vijñānabhairava 96)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "mind-training",
+  "method_summary": "Observing a desire that has suddenly arisen, one should bring it to rest; it dissolves right where it arose.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "96",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:96"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 96 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-72",
+  "name": "Vijñāna Bhairava dhāraṇā 72: 'Who am I before desire or knowledge arises?'",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 72 (Vijñānabhairava 97)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "inquiry",
+  "method_summary": "'When no desire or knowledge has arisen in me, who then am I? In truth I am That' - [contemplating thus] one becomes absorbed in That, with the mind on That.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "97",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:97"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 97 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "equivalents": [
+   {
+    "target": "prc:atma-vicara",
+    "grade": "analogous",
+    "note": "Inquiry into the self prior to desire and cognition",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:97"
+    ]
+   }
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-73",
+  "name": "Vijñāna Bhairava dhāraṇā 73: Resting in desire or cognition as the self",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 73 (Vijñānabhairava 98)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "inquiry",
+  "method_summary": "When a desire or a cognition has arisen, one should fix the mind on it with the thought that it is the self, with mind on nothing else; then comes the vision of the meaning of reality.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "98",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:98"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 98 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-74",
+  "name": "Vijñāna Bhairava dhāraṇā 74: Knowledge as groundless",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 74 (Vijñānabhairava 99)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "inquiry",
+  "method_summary": "Knowledge is without cause, without support, deceptive; in truth it belongs to no one. One who contemplates thus becomes Śiva, beloved.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "99",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:99"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 99 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-75",
+  "name": "Vijñāna Bhairava dhāraṇā 75: The same consciousness in all bodies",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 75 (Vijñānabhairava 100)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "The quality of consciousness is in all bodies; nowhere is there any difference. Therefore, contemplating everything as made of that, a person conquers worldly existence.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "100",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:100"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 100 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-76",
+  "name": "Vijñāna Bhairava dhāraṇā 76: Stillness in the grip of the passions",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 76 (Vijñānabhairava 101)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "mind-training",
+  "method_summary": "In the grip of desire, anger, greed, delusion, pride or envy, making the understanding motionless, that reality remains.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "101",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:101"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 101 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-77",
+  "name": "Vijñāna Bhairava dhāraṇā 77: The world as a magic show or a painting",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 77 (Vijñānabhairava 102)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "For one who meditates on the universe as a magic show (indrajāla), or as spread out like a painting, or as all whirling, and sees it so, joy arises.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "102",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:102"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 102 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-78",
+  "name": "Vijñāna Bhairava dhāraṇā 78: Neither in pain nor in pleasure: the middle",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 78 (Vijñānabhairava 103)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "mind-training",
+  "method_summary": "One should not put the mind in pain, nor in pleasure; O Bhairavī, let it be known what reality remains in the middle.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "103",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:103"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 103 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-79",
+  "name": "Vijñāna Bhairava dhāraṇā 79: 'I am everywhere'",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 79 (Vijñānabhairava 104)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "Leaving aside [identification with] what is in one's own body, contemplating 'I am everywhere', with a firm mind and a gaze that looks at nothing else, one becomes happy.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "104",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:104"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 104 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-8",
+  "name": "Vijñāna Bhairava dhāraṇā 8: Breaking through at the eyebrows to the crown",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 8 (Vijñānabhairava 31)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "energy",
+  "method_summary": "Having quickly filled [the body] up to the crown with that [power] and broken through by the bridge of the knitted eyebrows, making the mind free of thought-constructs, in the highest of all there arises all-pervasiveness.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "31",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:31"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 31 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-80",
+  "name": "Vijñāna Bhairava dhāraṇā 80: Cognition and desire as present everywhere",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 80 (Vijñānabhairava 105)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "Contemplating 'the knowledge of a pot and the like, or desire and the like, has arisen not only within me but everywhere', one becomes all-pervading.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "105",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:105"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 105 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-81",
+  "name": "Vijñāna Bhairava dhāraṇā 81: Attentiveness to the relation of subject and object",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 81 (Vijñānabhairava 106)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "The awareness of object and subject is common to all embodied beings; but for yogins there is this distinction: attentiveness to the relation [between them].",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "106",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:106"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 106 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-82",
+  "name": "Vijñāna Bhairava dhāraṇā 82: Feeling awareness in others' bodies",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 82 (Vijñānabhairava 107)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "One should feel awareness in another's body as in one's own; giving up dependence on one's own body, one becomes all-pervading within days.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "107",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:107"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 107 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "signs_of_progress": "all-pervasiveness 'within days' (v. 107)",
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-83",
+  "name": "Vijñāna Bhairava dhāraṇā 83: The supportless mind",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 83 (Vijñānabhairava 108)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "Making the mind supportless, one should not entertain thought-constructs; then, when the self is the supreme self, [one is] Bhairava, O doe-eyed one.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "108",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:108"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 108 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-84",
+  "name": "Vijñāna Bhairava dhāraṇā 84: 'I am the omniscient, all-doing Lord'",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 84 (Vijñānabhairava 109)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "inquiry",
+  "method_summary": "'The supreme Lord is omniscient, all-doing and all-pervading; I am He, having the qualities of Śiva' - by firmness in this, one becomes Śiva.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "109",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:109"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 109 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-85",
+  "name": "Vijñāna Bhairava dhāraṇā 85: The universe as my waves",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 85 (Vijñānabhairava 110)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "As waves belong to water, flames to fire, rays to the sun, so these differentiated waves of the universe are mine, Bhairava's.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "110",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:110"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 110 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-86",
+  "name": "Vijñāna Bhairava dhāraṇā 86: Whirling until falling",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 86 (Vijñānabhairava 111)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "energy",
+  "method_summary": "Whirling round and round with the body, by falling quickly to the ground, when the power of agitation ceases, the supreme state arises.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "111",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:111"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 111 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-87",
+  "name": "Vijñāna Bhairava dhāraṇā 87: When the mind's supports fail",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 87 (Vijñānabhairava 112)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "When, through incapacity or ignorance regarding the supports (objects), or through the dissolution of the mind, absorption into the power has arisen, at the end of its agitation [appears] the form of Bhairava.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "112",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:112"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 112 (KSTS 8 / GRETIL numbering). Obscure; readings differ ('śaktyā ... dhyānāt' in the Kaumudī). Low confidence.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-88",
+  "name": "Vijñāna Bhairava dhāraṇā 88: The sampradāya: fixed eyes; closed ears and lower door",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 88 (Vijñānabhairava 113-114)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "sense-withdrawal-concentration",
+  "method_summary": "Hear, O Goddess, this traditional teaching (sampradāya), which I declare fully: isolation (kaivalya) arises at once when the eyes are merely held still (113). Contracting the ears and likewise the lower door, meditating on the vowelless and consonantless, one enters the eternal Brahman (114).",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "113-114",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:113-114"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 113-114 (KSTS 8 / GRETIL numbering). Grouped: v. 114 is absent from the Kaumudī recension's main text and is reported after the 'sampradāya' verse in one manuscript.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-89",
+  "name": "Vijñāna Bhairava dhāraṇā 89: Looking down into a well or deep pit",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 89 (Vijñānabhairava 115)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "sense-withdrawal-concentration",
+  "method_summary": "Standing above a well or a great pit and gazing down, for one whose mind is free of thought-constructs, the mind dissolves at once, clearly.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "115",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:115"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 115 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-9",
+  "name": "Vijñāna Bhairava dhāraṇā 9: The five voids like the eyes of a peacock's feather",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 9 (Vijñānabhairava 32)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "visualization-deity",
+  "method_summary": "For one who meditates on the five voids as [like] the variegated circles on a peacock's feathers, entry into the heart, the unsurpassed void, takes place.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "32",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:32"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 32 (KSTS 8 / GRETIL numbering). The 'five voids' are read by commentators as the five sense-faculties or five elements (interpretation).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-90",
+  "name": "Vijñāna Bhairava dhāraṇā 90: Wherever the mind goes, there is Śiva",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 90 (Vijñānabhairava 116)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "Wherever the mind goes, outside or within, there is the state of Śiva; since it is all-pervading, where could [the mind] go?",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "116",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:116"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 116 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-91",
+  "name": "Vijñāna Bhairava dhāraṇā 91: Consciousness shining through each sense",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 91 (Vijñānabhairava 117)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "Wherever, through the path of the senses, the consciousness of the all-pervading one is manifested, since it has the nature of that alone, by dissolution in consciousness there is fullness.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "117",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:117"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 117 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-92",
+  "name": "Vijñāna Bhairava dhāraṇā 92: Sneeze, fear, grief, flight, curiosity, hunger",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 92 (Vijñānabhairava 118)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "At the beginning and end of a sneeze, in fear, in grief, in a deep cave (or: in sobbing), when fleeing from battle, in curiosity, at the beginning and end of hunger, there is a state full of the being of Brahman.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "118",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:118"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 118 (KSTS 8 / GRETIL numbering). Compare Spandakārikā 1.22 (spanda found in intense states).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-93",
+  "name": "Vijñāna Bhairava dhāraṇā 93: Letting go of remembered objects and places",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 93 (Vijñānabhairava 119)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "When things are remembered, or a place is seen, one should let the mind go from it; making one's body supportless, the Lord spreads forth.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "119",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:119"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 119 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-94",
+  "name": "Vijñāna Bhairava dhāraṇā 94: Slowly withdrawing the gaze from an object",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 94 (Vijñānabhairava 120)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "sense-withdrawal-concentration",
+  "method_summary": "Having placed the gaze on some object, one should slowly withdraw it; that knowledge, together with the mind, O Goddess, becomes an abode of the void.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "120",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:120"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 120 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-95",
+  "name": "Vijñāna Bhairava dhāraṇā 95: The understanding born of intense devotion",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 95 (Vijñānabhairava 121)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "devotion-service",
+  "method_summary": "The kind of understanding that arises in one who is dispassionate through the intensity of devotion - that is the eternal power of Śaṅkara; one should contemplate it; from that, [one is] Śiva.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "121",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:121"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 121 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-96",
+  "name": "Vijñāna Bhairava dhāraṇā 96: The voidness of all else when one object is known",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 96 (Vijñānabhairava 122)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "When one particular object is being known, there is voidness with regard to all other objects; meditating with the mind on that very [voidness], even while knowing, one becomes tranquil.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "122",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:122"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 122 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-97",
+  "name": "Vijñāna Bhairava dhāraṇā 97: Purity and impurity",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 97 (Vijñānabhairava 123)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "inquiry",
+  "method_summary": "The purity prescribed by those of little knowledge is [regarded as] impurity in the vision of Śambhu; [in truth] nothing is pure or impure; therefore, free of thought-constructs, one becomes happy.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "123",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:123"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 123 (KSTS 8 / GRETIL numbering). The GRETIL e-text reads 'sā śuddhiḥ'; the usual reading is 'sā 'śuddhiḥ' (impurity). Linked to the dispute on ritual purity.",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-98",
+  "name": "Vijñāna Bhairava dhāraṇā 98: Bhairava in ordinary things",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 98 (Vijñānabhairava 124)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "meditation",
+  "method_summary": "Bhairava is present everywhere as being, even in ordinary things; and there is nothing beyond it other than that - this is the non-dual way.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "124",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:124"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 124 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ },
+ {
+  "id": "prc:vbt-dharana-99",
+  "name": "Vijñāna Bhairava dhāraṇā 99: Equality toward friend and foe",
+  "names": [
+   {
+    "lineage": "lin:trika",
+    "name": "dhāraṇā 99 (Vijñānabhairava 125)"
+   }
+  ],
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism"
+  ],
+  "category": "mind-training",
+  "method_summary": "Equal toward enemy and friend, equal in honour and dishonour - knowing [this] because Brahman is completely full, one becomes happy.",
+  "stage": "unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas",
+  "prerequisites": "The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).",
+  "sources": [
+   {
+    "source": "src:vijnana-bhairava-tantra",
+    "ref": "125",
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:125"
+    ]
+   }
+  ],
+  "sequences": [],
+  "warnings": [],
+  "notes": "Verses 125 (KSTS 8 / GRETIL numbering).",
+  "coverage": [
+   "A7",
+   "E"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-28 07:02 IST"
+  }
+ }
+]

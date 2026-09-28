@@ -1,0 +1,23 @@
+# The funeral hymns (Ṛgveda 10.14–18)
+
+`src:rgveda-funeral-hymns` · `skeleton` · confidence high
+
+**Alternate titles:** Yama Sūkta (10.14), Pitṛ Sūkta (10.15), Pitṛmedha hymns
+**Original title:** यमसूक्तादि
+**Language:** Sanskrit
+**Family:** vedic
+**Lineages:** [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Śākala śākhā (Ṛgveda)](../lineages/sakha-sakala.md)
+**Genre:** sūkta
+**Part of:** [Ṛgveda Saṃhitā](rgveda.md)
+**Location in parent:** 10.14–18
+**Authors:** 
+  - `tch:yama-vaivasvata` — role: revealer; attribution: traditional
+**Attribution:** tradition: seen by yama-vaivasvata (Sarvānukramaṇī); scholarly: a hymn of the Ṛgveda; books 1 and 10 are among its later layers; confidence: high
+**Availability:** digitized-original
+
+The hymns for the dead: homage to Yama, first of mortals to find the path to the fathers (10.14); invocation of the fathers (10.15); the cremation fire asked not to consume the body utterly but to carry the dead, cooked, to the fathers, eye to the sun, breath to the wind (10.16); Pūṣan as guide on the far paths (10.17); death sent away on its own path, the living set apart by a boundary, the widow bidden to rise to the world of the living, and the bones laid in mother earth (10.18).
+
+_Notes: Seers per the Anukramaṇī: 10.14 Yama Vaivasvata; 10.15 Śaṅkha Yāmāyana; 10.16 Damana Yāmāyana; 10.17 Devaśravas Yāmāyana; 10.18 Saṅkusuka Yāmāyana (checked in the local text)._
+
+---
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._

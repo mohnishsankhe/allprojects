@@ -1,0 +1,13 @@
+# Uddhava
+
+`tch:uddhava` · `skeleton` · confidence high
+
+**Lineages:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md)
+**Historicity:** legendary
+**Teachers:** [Kṛṣṇa (Vāsudeva)](krsna.md)
+
+Kṛṣṇa's cousin, counsellor and devotee; recipient of the Uddhava Gītā. Earlier Kṛṣṇa sent him to Vraja, where he learned from the gopīs' love (Bhāgavata 10.46-47). At the end of the teaching he departs for Badarikāśrama (11.29).
+**Realization — the tradition's account:** Having heard the teaching, Uddhava, freed of doubt, went to Badarikāśrama to live it out (Bhāgavata 11.29).
+
+---
+_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-28 07:02 IST._

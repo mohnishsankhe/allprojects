@@ -226,7 +226,10 @@ def main():
                       field("Availability", o.get("availability")), "", o.get("summary", ""),
                       field("Editions / translations", lst(o.get("editions"), folder)),
                       field("Commentaries on this text", lst(sorted(comm_on[o["id"]]), folder))]
-                ts = sorted(TEACH_BY_SRC.get(o["id"], []), key=lambda t: [int(x) if x.isdigit() else x for x in re.split(r"[.\-/]", (t.get("location") or {}).get("ref", "0"))] if isinstance(t.get("location"), dict) else [])
+                def _rk(t):
+                    ref = str((t.get("location") or {}).get("ref", "0")) if isinstance(t.get("location"), dict) else "0"
+                    return [(0, int(x), "") if x.isdigit() else (1, 0, x) for x in re.split(r"[.\-/:]", ref)]
+                ts = sorted(TEACH_BY_SRC.get(o["id"], []), key=_rk)
                 if ts:
                     lv = Counter((t.get("verification") or {}).get("level") for t in ts)
                     L += ["", f"## Teachings ({len(ts)}: " + ", ".join(f"{k} {v}" for k, v in lv.items()) + ")", ""]

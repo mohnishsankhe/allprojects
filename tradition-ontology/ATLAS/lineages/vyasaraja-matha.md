@@ -5,7 +5,7 @@
 **Family:** vedic
 **Alternate names:** Vyāsarāya Maṭha, Sosale Maṭha
 **Parent:** [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](dvaita.md)
-**Key teachers:** `tch:brahmanya-tirtha`, `tch:vyasatirtha`
+**Key teachers:** [Brahmaṇya Tīrtha](../teachers/brahmanya-tirtha.md), [Vyāsatīrtha](../teachers/vyasatirtha.md)
 **Regions:** Karnataka (Sosale; Nava Brindāvana near Hampi)
 **Status:** living
 
@@ -16,10 +16,10 @@ The Mādhva maṭha of Vyāsatīrtha (Vyāsarāja), disciple of Brahmaṇya Tīr
 
 
 ## Texts
-`src:nyayamrta`, `src:tarkatandava`, `src:tatparyacandrika`
+[Nyāyāmṛta](../texts/nyayamrta.md), [Tarkatāṇḍava](../texts/tarkatandava.md), [Tātparyacandrikā of Vedānta Deśika](../texts/tatparyacandrika.md)
 
 ## Teachers
-`tch:brahmanya-tirtha`, `tch:vyasatirtha`
+[Brahmaṇya Tīrtha](../teachers/brahmanya-tirtha.md), [Vyāsatīrtha](../teachers/vyasatirtha.md)
 
 ## Practices
 _none recorded_
@@ -33,4 +33,4 @@ _none recorded_
 _Notes: Its descent from Madhva through Rājendra Tīrtha, Jayadhvaja, Puruṣottama and Brahmaṇya Tīrtha is recorded from memory at low confidence._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 04:53 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._

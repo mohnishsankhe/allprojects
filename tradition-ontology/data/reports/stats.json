@@ -1,19 +1,24 @@
 {
- "generated": "2026-09-28 04:53 IST",
+ "generated": "2026-09-28 07:02 IST",
  "entities": {
   "sources": {
-   "skeleton": 40,
-   "total": 40
+   "skeleton": 798,
+   "recent": 10,
+   "total": 798
   },
   "lineages": {
-   "skeleton": 11,
-   "total": 11
+   "skeleton": 63,
+   "recent": 1,
+   "total": 63
   },
   "teachers": {
-   "total": 0
+   "skeleton": 425,
+   "recent": 16,
+   "total": 425
   },
   "teachings": {
-   "total": 0
+   "skeleton": 608,
+   "total": 608
   },
   "terms": {
    "total": 0
@@ -22,14 +27,15 @@
    "total": 0
   },
   "ultimate": {
-   "skeleton": 6,
-   "total": 6
+   "skeleton": 21,
+   "total": 21
   },
   "obstacles": {
    "total": 0
   },
   "practices": {
-   "total": 0
+   "skeleton": 112,
+   "total": 112
   },
   "paths": {
    "total": 0
@@ -46,7 +52,7 @@
  },
  "sourcing_checks": {},
  "queue": 0,
- "interpretation_log": 0,
- "conflicts": 0,
- "dangling_refs": 259
+ "interpretation_log": 3,
+ "conflicts": 79,
+ "dangling_refs": 1538
 }

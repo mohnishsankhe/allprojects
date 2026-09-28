@@ -1,0 +1,19 @@
+# Viṣṇusahasranāmabhāṣya (attributed to Śaṅkara)
+
+`src:visnu-sahasranama-bhasya-sankara` · `skeleton` · confidence moderate
+
+**Original title:** विष्णुसहस्रनामभाष्य
+**Language:** Sanskrit
+**Family:** vedic
+**Lineages:** `lin:advaita-vedanta`
+**Genre:** commentary (bhāṣya/ṭīkā)
+**Commentary on:** [Viṣṇu Sahasranāma](visnu-sahasranama.md)
+**Authors:** 
+  - [Śaṅkara](../teachers/sankara.md) — role: commentator; attribution: traditional
+**Attribution:** tradition: By Śaṅkara.; scholarly: Attribution accepted by many, questioned by some.; confidence: disputed
+**Availability:** digitized-original
+
+A commentary explaining each of the thousand names of Viṣṇu, transmitted under Śaṅkara's name.
+
+---
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 07:02 IST._

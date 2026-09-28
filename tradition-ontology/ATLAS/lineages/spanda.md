@@ -5,8 +5,8 @@
 **Family:** vedic
 **Alternate names:** Spandaśāstra, Spanda system
 **Parent:** [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](kashmir-saivism.md)
-**Founders:** `tch:vasugupta`
-**Key teachers:** `tch:vasugupta`, `tch:kallata`, `tch:rajanaka-ramakantha`, `tch:utpala-vaisnava`, `tch:ksemaraja`, `tch:bhaskara-kashmir`, `tch:varadaraja`, `tch:sahib-kaul`
+**Founders:** [Vasugupta](../teachers/vasugupta.md)
+**Key teachers:** [Vasugupta](../teachers/vasugupta.md), [Bhaṭṭa Kallaṭa](../teachers/kallata.md), [Rājānaka Rāmakaṇṭha (author of the Spandavivṛti)](../teachers/rajanaka-ramakantha.md), [Utpala Vaiṣṇava](../teachers/utpala-vaisnava.md), [Kṣemarāja](../teachers/ksemaraja.md), [Bhāskara (author of the Śivasūtravārttika)](../teachers/bhaskara-kashmir.md), [Varadarāja (Kṛṣṇadāsa)](../teachers/varadaraja.md), [Sāhib Kaul](../teachers/sahib-kaul.md)
 **Regions:** Kashmir
 **Dates:** Tradition's account: The Śiva Sūtras were revealed to Vasugupta on Mahādeva mountain - in a dream by Paramaśiva who showed him a rock that turned over at his touch (Kṣemarāja, Śivasūtravimarśinī intro.), or 'by a siddha's command' (Bhāskara, Śivasūtravārttika 1.3).; Scholarly account: c. 850-900 CE (Vasugupta and Kallaṭa; Kallaṭa is placed under King Avantivarman, 855-883, by the Rājataraṅgiṇī); commentaries to Kṣemarāja (c. 1000-1050) and later.; (confidence moderate)
 **Status:** absorbed
@@ -36,10 +36,10 @@ The earliest systematic current of Kashmirian non-dual Śaivism, founded on the 
 **Caveat:** Spanda insists that the ultimate is dynamic; it would reject any account of a static, inactive absolute.
 
 ## Texts
-`src:siva-sutra`, `src:siva-sutra-varttika-bhaskara`, `src:siva-sutra-varttika-varadaraja`, `src:siva-sutra-vimarsini`, `src:siva-sutra-vrtti`, `src:siva-sutra-vrtti-sahib-kaul`, `src:spanda-karika`, `src:spanda-nirnaya`, `src:spanda-pradipika`, `src:spanda-sandoha`, `src:spanda-vivrti`, `src:spanda-vrtti`, `src:tattvarthacintamani`
+[Pratyabhijñāhṛdaya](../texts/pratyabhijnahrdayam.md), [Śivasūtra](../texts/siva-sutra.md), [Śivasūtravārttika (Bhāskara)](../texts/siva-sutra-varttika-bhaskara.md), [Śivasūtravārttika (Varadarāja)](../texts/siva-sutra-varttika-varadaraja.md), [Śivasūtravimarśinī](../texts/siva-sutra-vimarsini.md), `src:siva-sutra-vrtti`, [Śivasūtravṛtti (Sāhib Kaul)](../texts/siva-sutra-vrtti-sahib-kaul.md), [Spandakārikā](../texts/spanda-karika.md), [Spandanirṇaya](../texts/spanda-nirnaya.md), [Spandapradīpikā](../texts/spanda-pradipika.md), [Spandasandoha](../texts/spanda-sandoha.md), [Spandavivṛti](../texts/spanda-vivrti.md), [Spandavṛtti](../texts/spanda-vrtti.md), [Tattvārthacintāmaṇi](../texts/tattvarthacintamani.md)
 
 ## Teachers
-`tch:bhaskara-kashmir`, `tch:kallata`, `tch:ksemaraja`, `tch:rajanaka-ramakantha`, `tch:sahib-kaul`, `tch:utpala-vaisnava`, `tch:varadaraja`, `tch:vasugupta`
+[Bhāskara (author of the Śivasūtravārttika)](../teachers/bhaskara-kashmir.md), [Bhaṭṭa Kallaṭa](../teachers/kallata.md), [Kṣemarāja](../teachers/ksemaraja.md), [Mahādevabhaṭṭa](../teachers/mahadevabhatta.md), [Pradyumnabhaṭṭa](../teachers/pradyumnabhatta.md), [Prajñārjuna](../teachers/prajnarjuna.md), [Rājānaka Rāmakaṇṭha (author of the Spandavivṛti)](../teachers/rajanaka-ramakantha.md), [Sāhib Kaul](../teachers/sahib-kaul.md), [Śrīkaṇṭhabhaṭṭa](../teachers/srikanthabhatta.md), [Utpala Vaiṣṇava](../teachers/utpala-vaisnava.md), [Varadarāja (Kṛṣṇadāsa)](../teachers/varadaraja.md), [Vasugupta](../teachers/vasugupta.md)
 
 ## Practices
 _none recorded_
@@ -51,4 +51,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 04:53 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._

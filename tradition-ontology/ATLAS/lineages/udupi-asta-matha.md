@@ -5,8 +5,8 @@
 **Family:** vedic
 **Alternate names:** Aṣṭa-maṭha, the Uḍupi maṭhas
 **Parent:** [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](dvaita.md)
-**Founders:** `tch:madhva`
-**Key teachers:** `tch:hrsikesa-tirtha`, `tch:narasimha-tirtha-adamaru`, `tch:janardana-tirtha`, `tch:upendra-tirtha`, `tch:vamana-tirtha`, `tch:visnu-tirtha`, `tch:rama-tirtha-kaniyur`, `tch:adhoksaja-tirtha`, `tch:vadiraja-tirtha`, `tch:vijayadhvaja-tirtha`, `tch:visvesa-tirtha`
+**Founders:** [Madhva](../teachers/madhva.md)
+**Key teachers:** [Hṛṣīkeśa Tīrtha](../teachers/hrsikesa-tirtha.md), [Narasiṃha Tīrtha (Adamaru)](../teachers/narasimha-tirtha-adamaru.md), [Janārdana Tīrtha](../teachers/janardana-tirtha.md), [Upendra Tīrtha](../teachers/upendra-tirtha.md), [Vāmana Tīrtha](../teachers/vamana-tirtha.md), [Viṣṇu Tīrtha (Sode)](../teachers/visnu-tirtha-sode.md), [Rāma Tīrtha (Kaniyooru)](../teachers/rama-tirtha-kaniyur.md), [Adhokṣaja Tīrtha](../teachers/adhoksaja-tirtha.md), [Vādirāja Tīrtha](../teachers/vadiraja-tirtha.md), [Vijayadhvaja Tīrtha](../teachers/vijayadhvaja-tirtha.md), [Viśveśa Tīrtha](../teachers/visvesa-tirtha.md)
 **Regions:** coastal Karnataka (Uḍupi)
 **Status:** living
 
@@ -17,10 +17,10 @@ Eight monasteries founded, in the tradition's account, by Madhva for eight of hi
 
 
 ## Texts
-`src:padaratnavali`, `src:tirthaprabandha`, `src:yuktimallika`
+[Padaratnāvalī](../texts/padaratnavali.md), [Tīrthaprabandha](../texts/tirthaprabandha.md), [Yuktimallikā](../texts/yuktimallika.md)
 
 ## Teachers
-`tch:adhoksaja-tirtha`, `tch:hrsikesa-tirtha`, `tch:janardana-tirtha`, `tch:narasimha-tirtha-adamaru`, `tch:rama-tirtha-kaniyur`, `tch:upendra-tirtha`, `tch:vadiraja-tirtha`, `tch:vamana-tirtha`, `tch:vijayadhvaja-tirtha`, `tch:visnu-tirtha`, `tch:visvesa-tirtha`
+[Adhokṣaja Tīrtha](../teachers/adhoksaja-tirtha.md), [Hṛṣīkeśa Tīrtha](../teachers/hrsikesa-tirtha.md), [Janārdana Tīrtha](../teachers/janardana-tirtha.md), [Madhva](../teachers/madhva.md), [Narasiṃha Tīrtha (Adamaru)](../teachers/narasimha-tirtha-adamaru.md), [Rāma Tīrtha (Kaniyooru)](../teachers/rama-tirtha-kaniyur.md), [Upendra Tīrtha](../teachers/upendra-tirtha.md), [Vādirāja Tīrtha](../teachers/vadiraja-tirtha.md), [Vāmana Tīrtha](../teachers/vamana-tirtha.md), [Vijayadhvaja Tīrtha](../teachers/vijayadhvaja-tirtha.md), [Viṣṇu Tīrtha (Sode)](../teachers/visnu-tirtha-sode.md), [Viśveśa Tīrtha](../teachers/visvesa-tirtha.md)
 
 ## Practices
 _none recorded_
@@ -34,4 +34,4 @@ _none recorded_
 _Notes: The maṭhas are paired (Palimaru–Adamaru, Krishnapura–Puttige, Shirur–Sode, Kaniyooru–Pejavara) — recorded from memory, moderate confidence. The two-monthly original rotation and the 1522 date should be checked._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 04:53 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 07:02 IST._

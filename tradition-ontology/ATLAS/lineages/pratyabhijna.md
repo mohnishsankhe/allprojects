@@ -5,8 +5,8 @@
 **Family:** vedic
 **Alternate names:** Pratyabhijñāśāstra, Īśvarapratyabhijñā, Īśvarādvayavāda
 **Parent:** [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](kashmir-saivism.md)
-**Founders:** `tch:somananda`, `tch:utpaladeva`
-**Key teachers:** `tch:somananda`, `tch:utpaladeva`, `tch:laksmanagupta`, `tch:abhinavagupta`, `tch:ksemaraja`, `tch:bhaskarakantha`
+**Founders:** [Somānanda](../teachers/somananda.md), [Utpaladeva](../teachers/utpaladeva.md)
+**Key teachers:** [Somānanda](../teachers/somananda.md), [Utpaladeva](../teachers/utpaladeva.md), [Lakṣmaṇagupta](../teachers/laksmanagupta.md), [Abhinavagupta](../teachers/abhinavagupta.md), [Kṣemarāja](../teachers/ksemaraja.md), [Bhāskarakaṇṭha](../teachers/bhaskarakantha.md)
 **Regions:** Kashmir
 **Dates:** Scholarly account: Somānanda c. 900-950; Utpaladeva c. 925-975; Abhinavagupta's Vimarśinī dated Laukika 90 (c. 1014/15 CE); Kṣemarāja c. 1000-1050.; (confidence moderate)
 **Status:** absorbed
@@ -36,10 +36,10 @@ The philosophical school founded by Somānanda (Śivadṛṣṭi) and systematiz
 **Caveat:** The Pratyabhijñā insists on an enduring conscious subject against the Buddhist denial of self, and on the reality of the Lord's powers of knowing and acting against Vedāntic and grammarian monisms.
 
 ## Texts
-`src:ajadapramatrsiddhi`, `src:bhaskari`, `src:isvarapratyabhijna-karika`, `src:isvarapratyabhijna-vimarsini`, `src:isvarapratyabhijna-vivrti`, `src:isvarapratyabhijna-vivrti-vimarsini`, `src:isvarapratyabhijna-vrtti`, `src:isvarasiddhi`, `src:pratyabhijnahrdayam`, `src:sambandhasiddhi`, `src:siddhitrayi`, `src:sivadrsti`, `src:sivadrsti-vrtti`, `src:sivastotravali`
+[Ajaḍapramātṛsiddhi](../texts/ajadapramatrsiddhi.md), [Bhāskarī](../texts/bhaskari.md), [Īśvarapratyabhijñākārikā](../texts/isvarapratyabhijna-karika.md), [Īśvarapratyabhijñākaumudī](../texts/isvarapratyabhijna-kaumudi.md), [Īśvarapratyabhijñāvimarśinī](../texts/isvarapratyabhijna-vimarsini.md), [Īśvarapratyabhijñāvivṛti (Ṭīkā)](../texts/isvarapratyabhijna-vivrti.md), [Īśvarapratyabhijñāvivṛtivimarśinī](../texts/isvarapratyabhijna-vivrti-vimarsini.md), [Īśvarapratyabhijñāvṛtti](../texts/isvarapratyabhijna-vrtti.md), [Īśvarasiddhi](../texts/isvarasiddhi.md), [Parāprāveśikā](../texts/parapravesika.md), [Parātrīśikāvivṛti (Somānanda)](../texts/paratrisika-vivrti-somananda.md), [Pratyabhijñāhṛdaya](../texts/pratyabhijnahrdayam.md), [Śāktavijñāna](../texts/saktavijnana.md), [Sambandhasiddhi](../texts/sambandhasiddhi.md), [Siddhitrayī](../texts/siddhitrayi.md), [Śivadṛṣṭi](../texts/sivadrsti.md), [Śivadṛṣṭivṛtti](../texts/sivadrsti-vrtti.md), [Śivastotrāvalī](../texts/sivastotravali.md), [Śivastotrāvalīvivṛti](../texts/sivastotravali-vivrti.md), [Spandanirṇaya](../texts/spanda-nirnaya.md), [Virūpākṣapañcāśikā](../texts/virupaksapancasika.md)
 
 ## Teachers
-`tch:abhinavagupta`, `tch:bhaskarakantha`, `tch:ksemaraja`, `tch:laksmanagupta`, `tch:somananda`, `tch:utpaladeva`
+[Abhinavagupta](../teachers/abhinavagupta.md), [Ānanda (father of Somānanda)](../teachers/ananda-tryambaka.md), [Aruṇāditya](../teachers/arunaditya.md), [Bhāskarakaṇṭha](../teachers/bhaskarakantha.md), [Kṣemarāja](../teachers/ksemaraja.md), [Lakṣmaṇagupta](../teachers/laksmanagupta.md), [Rājānaka Rāmakaṇṭha (author of the Spandavivṛti)](../teachers/rajanaka-ramakantha.md), [Saṅgamāditya](../teachers/sangamaditya.md), [Somānanda](../teachers/somananda.md), [Tryambakāditya](../teachers/tryambakaditya.md), [Utpaladeva](../teachers/utpaladeva.md), [Varṣāditya](../teachers/varsaditya.md), [Virūpākṣanātha](../teachers/virupaksanatha.md)
 
 ## Practices
 _none recorded_
@@ -51,4 +51,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 04:53 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._

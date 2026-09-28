@@ -1,0 +1,35 @@
+# Rāṇāyanīya śākhā (Sāmaveda)
+
+`lin:sakha-ranayaniya` · `skeleton` · confidence low
+
+**Family:** vedic
+**Alternate names:** Rāṇāyanīya
+**Parent:** [Vedic Śrauta tradition (the Saṃhitā lineages)](vedic-srauta.md)
+**Regions:** Karnataka and Maharashtra (as usually reported)
+**Status:** living
+
+A Sāmaveda recension close to the Kauthuma, living in a smaller community of reciters.
+
+## Distinctive positions
+- Shares the Kauthuma Saṃhitā with minor differences of reading and pronunciation; follows the Drāhyāyaṇa Śrauta and Khādira Gṛhya Sūtras (as reported).
+
+
+## Texts
+[Āraṇyageya-gāna (Araṇyegāna)](../texts/aranyageya-gana.md), [Grāmageya-gāna (Veyagāna)](../texts/gramageya-gana.md), [Sāmaveda Saṃhitā (Kauthuma)](../texts/samaveda.md), [Ūha-gāna](../texts/uha-gana.md), [Ūhya-gāna (Rahasya-gāna)](../texts/uhya-gana.md)
+
+## Teachers
+_none recorded_
+
+## Practices
+_none recorded_
+
+## Path maps
+_none recorded_
+
+## Debates
+_none recorded_
+
+_Notes: Sūtra affiliations and regions from memory; to be checked._
+
+---
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 07:02 IST._

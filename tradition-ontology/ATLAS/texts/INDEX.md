@@ -1,44 +1,802 @@
-# Texts (40)
+# Texts (798)
 
-skeleton: 40
+skeleton: 798
 
+- [Abalūr inscription of Ēkānta Rāmayya](abalur-inscription.md) — `skeleton`
+- [Abhinavāmṛta](abhinavamrta.md) — `skeleton`
+- [Adhyātma Rāmāyaṇa](adhyatma-ramayana.md) — `skeleton`
+- [Agastya Saṃhitā](agastya-samhita.md) — `skeleton`
+- [Aghamarṣaṇa Sūkta (Ṛgveda 10.190)](aghamarsana-sukta.md) — `skeleton`
+- [Agni Purāṇa](agni-purana.md) — `skeleton`
+- [Ahirbudhnya Saṃhitā](ahirbudhnya-samhita.md) — `skeleton`
+- [Aila Gītā](aila-gita.md) — `skeleton`
+- [Aitareya Brāhmaṇa](aitareya-brahmana.md) — `skeleton`
+- [Aitareya Āraṇyaka](aitareya-aranyaka.md) — `skeleton`
 - [Aitareyopaniṣad-bhāṣya (Madhva)](aitareya-upanisad-bhasya-madhva.md) — `skeleton`
+- [Ajagara Gītā (Prahlāda and the python-sage)](ajagara-gita.md) — `skeleton`
+- [Ajagaracarita (the python vow)](ajagara-carita.md) — `skeleton`
+- [Ajaḍapramātṛsiddhi](ajadapramatrsiddhi.md) — `skeleton`
+- [Ajitāgama](ajita-agama.md) — `skeleton`
+- [Akṣa Sūkta (the gambler's hymn, Ṛgveda 10.34)](aksa-sukta.md) — `skeleton`
+- [Amala Basavarāja Cāritra (Siṅgirāja)](mala-basavaraja-caritre.md) — `skeleton`
+- [Aniruddha Saṃhitā](aniruddha-samhita.md) — `skeleton`
+- [Anubhavanivedana](anubhavanivedana.md) — `skeleton`
+- [Anubhavasūtra (Māyidēva)](anubhava-sutra-mayideva.md) — `skeleton`
+- [Anugītā](anugita.md) — `skeleton`
+- [Anuttarāṣṭikā](anuttarastika.md) — `skeleton`
 - [Anuvyākhyāna](anuvyakhyana.md) — `skeleton`
+- [Anuśāsanaparvan](anusasanaparvan.md) — `skeleton`
+- [Anādivīraśaivasārasaṅgraha](anadi-virasaiva-sangraha.md) — `skeleton`
+- [Anāsakti Yoga of M. K. Gandhi](anasakti-yoga.md) — `skeleton` _(recent)_
+- [Appayyakapolacapeṭikā](appayyakapolacapetika.md) — `skeleton`
+- [Araṇyakāṇḍa](aranyakanda.md) — `skeleton`
+- [Asya Vāmasya Sūkta (the riddle hymn, Ṛgveda 1.164)](asya-vamasya-sukta.md) — `skeleton`
+- [Atharvaveda Pariśiṣṭas](atharvaveda-parisista.md) — `skeleton`
+- [Atharvaveda Saṃhitā (Paippalāda)](atharvaveda-paippalada.md) — `skeleton`
+- [Atharvaveda Saṃhitā (Śaunaka)](atharvaveda-saunaka.md) — `skeleton`
+- [Avadhūta Gītā](avadhuta-gita.md) — `skeleton`
+- [Ayodhyākāṇḍa](ayodhyakanda.md) — `skeleton`
+- [Aṃśumadāgama](amsumat-agama.md) — `skeleton`
 - [Aṇubhāṣya (Madhva)](anubhasya-madhva.md) — `skeleton`
+- [Aṣṭāvakra Gītā](astavakra-gita.md) — `skeleton`
+- [Aṣṭāvakrīya (Mahābhārata)](astavakriya-mahabharata.md) — `skeleton`
+- [Basava Purāṇamu (Pālkuriki Sōmanātha)](basava-purana-palkuriki.md) — `skeleton`
+- [Basavapurāṇa (Bhīmakavi)](basava-purana-bhimakavi.md) — `skeleton`
+- [Basavapurāṇa (Sanskrit)](basava-purana-sanskrit.md) — `skeleton`
+- [Basavarājadēvara Ragaḷe (Harihara)](basavarajadevara-ragale.md) — `skeleton`
+- [Bhagavad Gītā](bhagavad-gita.md) — `skeleton`
+- [Bhagavadguṇadarpaṇa of Parāśara Bhaṭṭar](bhagavadgunadarpana.md) — `skeleton`
+- [Bhagavadgītā Vīraśaiva-bhāṣya (T. G. Siddappārādhya)](bhagavadgita-virasaiva-bhasya.md) — `skeleton` _(recent)_
+- [Bhagavatī Gītā](bhagavati-gita.md) — `skeleton`
+- [Bhairavastava](bhairavastava.md) — `skeleton`
+- [Bhairavānukaraṇastotra](bhairavanukaranastotra.md) — `skeleton`
+- [Bharadvāja Saṃhitā](bharadvaja-samhita.md) — `skeleton`
+- [Bhaviṣya Purāṇa](bhavisya-purana.md) — `skeleton`
+- [Bhaviṣyottara Purāṇa](bhavisyottara-purana.md) — `skeleton`
+- [Bhedojjīvana](bhedojjivana.md) — `skeleton`
+- [Bhikṣu Gītā](bhiksu-gita.md) — `skeleton`
+- [Bhramara Gītā](bhramara-gita.md) — `skeleton`
+- [Bhāgavata Māhātmya](bhagavata-mahatmya.md) — `skeleton`
+- [Bhāgavata Purāṇa](bhagavata-purana.md) — `skeleton`
 - [Bhāgavata-tātparya-nirṇaya](bhagavata-tatparya-nirnaya.md) — `skeleton`
+- [Bhāratabhāvadīpa of Nīlakaṇṭha Caturdhara](bharatabhavadipa.md) — `skeleton`
+- [Bhārgava Tantra](bhargava-tantra.md) — `skeleton`
+- [Bhāskarī](bhaskari.md) — `skeleton`
+- [Bhāsvatī](bhasvati.md) — `skeleton` _(recent)_
+- [Bhāvārthadīpikā](bhavarthadipika.md) — `skeleton`
+- [Bhāṣyotkarṣadīpikā of Dhanapati Sūri](bhasyotkarsadipika.md) — `skeleton`
+- [Bhāṣāpariccheda](bhasapariccheda.md) — `skeleton`
+- [Bhāṭṭasaṅgraha](bhattasangraha.md) — `skeleton`
+- [Bhīṣmaparvan](bhismaparvan.md) — `skeleton`
+- [Bhīṣmastavarāja (Bhīṣma's hymn to Kṛṣṇa)](bhisma-stavaraja.md) — `skeleton`
+- [Bhū Gītā (Bhāgavata)](bhu-gita-bhagavata.md) — `skeleton`
+- [Bhū Gītā (Viṣṇu Purāṇa)](bhu-gita-visnu-purana.md) — `skeleton`
+- [Bhūṣaṇa of Govindarāja (on the Rāmāyaṇa)](ramayana-bhusana-govindaraja.md) — `skeleton`
+- [Bhṛgusaṃhitā (Vaikhānasa)](bhrgu-samhita-vaikhanasa.md) — `skeleton`
+- [Bhṛgu–Bharadvāja Saṃvāda](bhrgu-bharadvaja-samvada.md) — `skeleton`
+- [Bodhapañcadaśikā](bodhapancadasika.md) — `skeleton`
+- [Bodhya Gītā](bodhya-gita.md) — `skeleton`
+- [Brahma Gītā (Sūta Saṃhitā)](brahma-gita-suta-samhita.md) — `skeleton`
+- [Brahma Gītā (Yoga Vāsiṣṭha)](brahma-gita-yoga-vasistha.md) — `skeleton`
+- [Brahma Purāṇa](brahma-purana.md) — `skeleton`
+- [Brahmacārin Sūkta (Atharvaveda 11.5)](brahmacari-sukta.md) — `skeleton`
 - [Brahmasūtrabhāṣya (Madhva)](brahma-sutra-bhasya-madhva.md) — `skeleton`
+- [Brahmavaivarta Purāṇa](brahmavaivarta-purana.md) — `skeleton`
+- [Brahmayāmala (Picumata)](brahmayamala.md) — `skeleton`
+- [Brahmāṇḍa Purāṇa](brahmanda-purana.md) — `skeleton`
+- [Brāhmaṇa Gītā](brahmana-gita.md) — `skeleton`
+- [Bālakāṇḍa](balakanda.md) — `skeleton`
+- [Bṛhaddevatā](brhaddevata.md) — `skeleton`
+- [Bṛhaddharma Purāṇa](brhaddharma-purana.md) — `skeleton`
+- [Bṛhadāraṇyaka-bhāṣya-bhāvabodha](brhadaranyaka-bhasya-bhavabodha.md) — `skeleton`
 - [Bṛhadāraṇyakopaniṣad-bhāṣya (Madhva)](brhadaranyaka-upanisad-bhasya-madhva.md) — `skeleton`
+- [Bṛhannāradīya Purāṇa](brhannaradiya-purana.md) — `skeleton`
+- [Camakam (Camaka-praśna)](camakam.md) — `skeleton`
+- [Candrajñānāgama](candrajnana-agama.md) — `skeleton`
+- [Candrajñānāgama (Vīraśaiva recension)](candrajnanagama-virasaiva.md) — `skeleton`
+- [Candrikāprakāśa](candrikaprakasa.md) — `skeleton`
+- [Caraṇavyūha](caranavyuha.md) — `skeleton`
+- [Caturvargacintāmaṇi](caturvargacintamani.md) — `skeleton`
+- [Chummāsaṅketaprakāśa](chummasanketaprakasa.md) — `skeleton`
 - [Chāndogyopaniṣad-bhāṣya (Madhva)](chandogya-upanisad-bhasya-madhva.md) — `skeleton`
+- [Cidgaganacandrikā](cidgaganacandrika.md) — `skeleton`
+- [Cintyāgama](cintya-agama.md) — `skeleton`
+- [Daśapadārthaśāstra](dasapadarthasastra.md) — `skeleton`
+- [Daśavidhahetunirūpaṇa](dasavidhahetunirupana.md) — `skeleton`
+- [Dehasthadevatācakrastotra](dehasthadevatacakrastotra.md) — `skeleton`
+- [Devatādhyāya Brāhmaṇa](devatadhyaya-brahmana.md) — `skeleton`
+- [Devyāyāmala](devyayamala.md) — `skeleton`
+- [Devī Bhāgavata Purāṇa](devi-bhagavata-purana.md) — `skeleton`
+- [Devī Gītā](devi-gita.md) — `skeleton`
+- [Devī Māhātmya](devi-mahatmya.md) — `skeleton`
+- [Devī Purāṇa](devi-purana.md) — `skeleton`
+- [Devīkālottarāgama](devikalottara-agama.md) — `skeleton`
+- [Devīnāmavilāsa](devinamavilasa.md) — `skeleton`
+- [Dharma Pātañjala](dharma-patanjala.md) — `skeleton`
+- [Dinakarī](dinakari.md) — `skeleton`
+- [Droṇaparvan](dronaparvan.md) — `skeleton`
 - [Dvādaśastotra](dvadasastotra.md) — `skeleton`
+- [Dīkṣottara](diksottara.md) — `skeleton`
+- [Dīptāgama](dipta-agama.md) — `skeleton`
+- [Eknāthī Bhāgavata](eknathi-bhagavata.md) — `skeleton`
+- [Essays on the Gita of Sri Aurobindo](essays-on-the-gita.md) — `skeleton` _(recent)_
+- [Garuḍa Purāṇa](garuda-purana.md) — `skeleton`
+- [Garuḍa Purāṇa Sāroddhāra](garuda-purana-saroddhara.md) — `skeleton`
+- [Garuḍa Purāṇa, Pretakalpa](garuda-purana-pretakalpa.md) — `skeleton`
+- [Gaṇeśa Gītā](ganesa-gita.md) — `skeleton`
+- [Gaṇeśa Purāṇa](ganesa-purana.md) — `skeleton`
+- [Gaṇeśagītā-ṭīkā of Nīlakaṇṭha](ganesa-gita-tika-nilakantha.md) — `skeleton`
+- [Girijākalyāṇa (Harihara)](girija-kalyana.md) — `skeleton`
+- [Gopatha Brāhmaṇa](gopatha-brahmana.md) — `skeleton`
+- [Gopī Gītā](gopi-gita.md) — `skeleton`
+- [Grāmageya-gāna (Veyagāna)](gramageya-gana.md) — `skeleton`
+- [Guptavatī](guptavati.md) — `skeleton`
+- [Guru Gītā](guru-gita.md) — `skeleton`
+- [Gādādharī](gadadhari.md) — `skeleton`
+- [Gāyatrī (Sāvitrī) mantra (Ṛgveda 3.62.10)](gayatri-mantra.md) — `skeleton`
+- [Gītā Rahasya (Karmayogaśāstra) of Bāl Gaṅgādhar Tilak](gita-rahasya.md) — `skeleton` _(recent)_
 - [Gītābhāṣya (Madhva)](gita-bhasya-madhva.md) — `skeleton`
+- [Gītābhāṣya of Bhāskara](gita-bhasya-bhaskara.md) — `skeleton`
+- [Gītābhāṣya of Rāmānuja](gita-bhasya-ramanuja.md) — `skeleton`
+- [Gītābhāṣya of Śaṅkara](gita-bhasya-sankara.md) — `skeleton`
+- [Gītābhūṣaṇa of Baladeva Vidyābhūṣaṇa](gita-bhusana.md) — `skeleton`
+- [Gītādhyāna (meditation verses on the Gītā)](gita-dhyana.md) — `skeleton`
+- [Gītāmāhātmya (Padma Purāṇa)](gita-mahatmya.md) — `skeleton`
+- [Gītārthasaṅgraha](gitarthasangraha.md) — `skeleton`
+- [Gītārthasaṅgraha of Abhinavagupta](gitarthasangraha-abhinavagupta.md) — `skeleton`
+- [Gītārthasaṅgraha of Yāmuna](gitarthasangraha-yamuna.md) — `skeleton`
+- [Gītārthasaṅgraharakṣā of Vedānta Deśika](gitarthasangraha-raksa.md) — `skeleton`
+- [Gītāsāra (Agni Purāṇa)](gita-sara-agni-purana.md) — `skeleton`
 - [Gītātātparyanirṇaya](gita-tatparya-nirnaya.md) — `skeleton`
+- [Gītāvivṛti](gitavivrti.md) — `skeleton`
+- [Gūḍhārthadīpikā of Madhusūdana Sarasvatī](gudharthadipika.md) — `skeleton`
+- [Harikathāmṛtasāra](harikathamrtasara.md) — `skeleton`
+- [Harivaṃśa](harivamsa.md) — `skeleton`
+- [Hariścandra Kāvya (Rāghavāṅka)](hariscandra-kavya.md) — `skeleton`
+- [Hayaśīrṣa Pañcarātra](hayasirsa-pancaratra.md) — `skeleton`
+- [Haṃsa Gītā](hamsa-gita.md) — `skeleton`
+- [Haṃsa Gītā (Bhāgavata)](hamsa-gita-bhagavata.md) — `skeleton`
+- [Haṃsa Gītā (Mahābhārata)](hamsa-gita-mahabharata.md) — `skeleton`
+- [Hiraṇyagarbha Sūkta (Ṛgveda 10.121)](hiranyagarbha-sukta.md) — `skeleton`
+- [Hārīta Gītā](harita-gita.md) — `skeleton`
+- [Jaiminīya Brāhmaṇa](jaiminiya-brahmana.md) — `skeleton`
+- [Jaiminīya Saṃhitā (Sāmaveda)](jaiminiya-samhita.md) — `skeleton`
+- [Jaiminīya Upaniṣad Brāhmaṇa](jaiminiya-upanisad-brahmana.md) — `skeleton`
+- [Jaiminīya Ārṣeya Brāhmaṇa](jaiminiya-arseya-brahmana.md) — `skeleton`
+- [Janmamaraṇavicāra](janmamaranavicara.md) — `skeleton`
+- [Jayadrathayāmala (Tantrarājabhaṭṭāraka)](jayadrathayamala.md) — `skeleton`
+- [Jayamaṅgalā](jayamangala.md) — `skeleton`
 - [Jayantīnirṇaya](jayantinirnaya.md) — `skeleton`
+- [Jayākhya Saṃhitā](jayakhya-samhita.md) — `skeleton`
+- [Jin qishi lun](jin-qishi-lun.md) — `skeleton`
+- [Jñāna Sūkta (Ṛgveda 10.71)](jnana-sukta.md) — `skeleton`
+- [Jñānadīpikā of Devabodha](jnanadipika-devabodha.md) — `skeleton`
+- [Jñānakāṇḍa (of Kāśyapa)](kasyapa-jnanakanda.md) — `skeleton`
+- [Jñānaratnāvalī](jnanaratnavali.md) — `skeleton`
+- [Jñānayajña (Bhaṭṭa Bhāskara on the Taittirīya Saṃhitā)](jnanayajna.md) — `skeleton`
+- [Jñāneśvarī (Bhāvārthadīpikā)](jnanesvari.md) — `skeleton`
+- [Jñānāmṛtasāra Saṃhitā (Nārada Pañcarātra)](jnanamrtasara-samhita.md) — `skeleton`
+- [Jāgadīśī](jagadisi.md) — `skeleton`
+- [Jāpakopākhyāna (the story of the reciter)](japakopakhyana.md) — `skeleton`
+- [Jīvanmukta Gītā](jivanmukta-gita.md) — `skeleton`
+- [Kaivalya Paddhati (Nijaguṇa Śivayōgi)](kaivalya-paddhati.md) — `skeleton`
+- [Kaivalyasāra (Toṇṭadārya)](kaivalyasara-tontadarya.md) — `skeleton`
+- [Kalki Purāṇa](kalki-purana.md) — `skeleton`
 - [Kandukastuti](kandukastuti.md) — `skeleton`
+- [Kapila Gītā](kapila-gita.md) — `skeleton`
+- [Kapila Purāṇa](kapila-purana.md) — `skeleton`
+- [Kapila–Syūmaraśmi Saṃvāda (Gokapilīya)](kapila-syumarasmi-samvada.md) — `skeleton`
+- [Kapiñjala Saṃhitā](kapinjala-samhita.md) — `skeleton`
+- [Kapiṣṭhala-Kaṭha Saṃhitā](kapisthala-katha-samhita.md) — `skeleton`
+- [Karaṇahasuge](karanahasuge.md) — `skeleton`
 - [Karmanirṇaya](karmanirnaya.md) — `skeleton`
+- [Karmanirṇaya-ṭīkā (Jayatīrtha)](karmanirnaya-tika-jayatirtha.md) — `skeleton`
+- [Karṇaparvan](karnaparvan.md) — `skeleton`
 - [Kathālakṣaṇa](kathalaksana.md) — `skeleton`
+- [Kathālakṣaṇa-ṭīkā (Jayatīrtha)](kathalaksana-tika-jayatirtha.md) — `skeleton`
+- [Kauśika Sūtra](kausika-sutra.md) — `skeleton`
+- [Kauṣītaki Brāhmaṇa](kausitaki-brahmana.md) — `skeleton`
+- [Kauṣītaki Āraṇyaka (Śāṅkhāyana Āraṇyaka)](kausitaki-aranyaka.md) — `skeleton`
+- [Kaṭha Āraṇyaka](katha-aranyaka.md) — `skeleton`
+- [Kena Sūkta (Atharvaveda 10.2)](kena-sukta.md) — `skeleton`
+- [Keśi Sūkta (the long-haired sage, Ṛgveda 10.136)](kesi-sukta.md) — `skeleton`
+- [Khaṇḍārthas on Madhva's Upaniṣad-bhāṣyas (Rāghavendra)](upanisat-khandartha-raghavendra.md) — `skeleton`
+- [Khilādhikāra](khiladhikara.md) — `skeleton`
+- [Kiraṇatantra](kirana-tantra.md) — `skeleton`
+- [Kiraṇavṛtti](kiranavrtti.md) — `skeleton`
+- [Kiraṇāvalī (Udayana)](kiranavali-udayana.md) — `skeleton`
+- [Kitāb Pātanǧal (al-Bīrūnī's Arabic Patañjali)](kitab-patanjal.md) — `skeleton`
+- [Kiṣkindhākāṇḍa](kiskindhakanda.md) — `skeleton`
+- [Kramadīpikā](kramadipika.md) — `skeleton`
+- [Kramasadbhāva](kramasadbhava.md) — `skeleton`
+- [Kramastotra (Abhinavagupta)](kramastotra-abhinavagupta.md) — `skeleton`
+- [Kriyādhikāra](kriyadhikara.md) — `skeleton`
+- [Kriyākramadyotikā](kriyakramadyotika.md) — `skeleton`
+- [Kriyākālaguṇottara](kriyakalagunottara.md) — `skeleton`
+- [Kriyāsāra (Nīlakaṇṭha)](kriyasara-nilakantha.md) — `skeleton`
+- [Kuḻikkāṭṭu Pacca](kulikkattu-pacca.md) — `skeleton`
+- [Kāla Sūkta (Atharvaveda 19.53–54)](kala-sukta.md) — `skeleton`
+- [Kālasaṅkarṣiṇīmata](kalasankarsinimata.md) — `skeleton`
+- [Kālikā Purāṇa](kalika-purana.md) — `skeleton`
+- [Kālottara](kalottara.md) — `skeleton`
+- [Kālīkulapañcaśataka (Devīpañcaśataka)](kalikulapancasataka.md) — `skeleton`
+- [Kāma Gītā](kama-gita.md) — `skeleton`
+- [Kāmikāgama](kamika-agama.md) — `skeleton`
+- [Kāraṇāgama](karana-agama.md) — `skeleton`
+- [Kāśyapa Gītā](kasyapa-gita.md) — `skeleton`
+- [Kāśyapa Saṃhitā (Pāñcarātra)](kasyapa-samhita-pancaratra.md) — `skeleton`
+- [Kāśī Khaṇḍa](kasi-khanda.md) — `skeleton`
+- [Kāṭhaka Brāhmaṇa (fragments)](kathaka-brahmana.md) — `skeleton`
+- [Kāṭhaka Saṃhitā](kathaka-samhita.md) — `skeleton`
 - [Kāṭhakopaniṣad-bhāṣya (Madhva)](katha-upanisad-bhasya-madhva.md) — `skeleton`
+- [Kūrma Purāṇa](kurma-purana.md) — `skeleton`
+- [Kṛtyakalpataru](krtyakalpataru.md) — `skeleton`
 - [Kṛṣṇāmṛtamahārṇava](krsnamrtamaharnava.md) — `skeleton`
+- [Laghu Yoga Vāsiṣṭha](laghu-yoga-vasistha.md) — `skeleton`
+- [Laghucandrikā (Gauḍabrahmānandī)](laghucandrika.md) — `skeleton`
+- [Laghusāṃkhyasūtravṛtti](laghu-samkhya-sutra-vrtti.md) — `skeleton`
+- [Lakṣaṇāvalī](laksanavali.md) — `skeleton`
+- [Lakṣmaṇa Gītā](laksmana-gita.md) — `skeleton`
+- [Lakṣmī Tantra](laksmi-tantra.md) — `skeleton`
+- [Lakṣmīdharā (commentary on the Saundaryalaharī)](laksmidhara.md) — `skeleton`
+- [Lakṣālaṅkāra](laksalankara.md) — `skeleton`
+- [Lalitopākhyāna](lalitopakhyana.md) — `skeleton`
+- [Lalitāgama](lalita-agama.md) — `skeleton`
+- [Lallāvākyāni (the vākhs of Lal Ded)](lalla-vakyani.md) — `skeleton`
+- [Liṅga Purāṇa](linga-purana.md) — `skeleton`
+- [Liṅgadhāraṇacandrikā (Nandikeśvara)](lingadharana-candrika.md) — `skeleton`
+- [Madhvatantramukhabhūṣaṇa](madhvatantramukhabhusana.md) — `skeleton`
+- [Madhvatantramukhamardana](madhvatantramukhamardana.md) — `skeleton`
+- [Mahopadeśaviṃśatikā](mahopadesavimsatika.md) — `skeleton`
+- [Mahābhāgavata Purāṇa](mahabhagavata-purana.md) — `skeleton`
+- [Mahābhārata](mahabharata.md) — `skeleton`
 - [Mahābhārata-tātparya-nirṇaya](mahabharata-tatparya-nirnaya.md) — `skeleton`
+- [Mahādēviyakkana Ragaḷe (Harihara)](mahadeviyakkana-ragale.md) — `skeleton`
+- [Mahāmṛtyuñjaya (Tryambaka) mantra (Ṛgveda 7.59.12)](mahamrtyunjaya-mantra.md) — `skeleton`
+- [Mahānayaprakāśa (anonymous)](mahanayaprakasa.md) — `skeleton`
+- [Mahānayaprakāśa (Śitikaṇṭha)](mahanayaprakasa-sitikantha.md) — `skeleton`
+- [Mahānārāyaṇa Upaniṣad](mahanarayana-upanisad.md) — `skeleton`
+- [Mahāprasthānikaparvan](mahaprasthanikaparvan.md) — `skeleton`
+- [Mahārthamañjarī](maharthamanjari.md) — `skeleton`
+- [Maitrāyaṇī Saṃhitā](maitrayani-samhita.md) — `skeleton`
+- [Makuṭāgama](makuta-agama.md) — `skeleton`
+- [Makuṭāgama (Vīraśaiva recension)](makutagama-virasaiva.md) — `skeleton`
+- [Mandāramañjarī](mandaramanjari.md) — `skeleton`
+- [Mantra Brāhmaṇa (Chāndogya Brāhmaṇa)](mantra-brahmana.md) — `skeleton`
+- [Mantrabhāṣya (Uvaṭa on the Vājasaneyi Saṃhitā)](mantrabhasya-uvata.md) — `skeleton`
+- [Mantragōpya](mantragopya.md) — `skeleton`
+- [Mantrārthamañjarī](mantrarthamanjari.md) — `skeleton`
+- [Manu–Bṛhaspati Saṃvāda](manu-brhaspati-samvada.md) — `skeleton`
+- [Mataṅgapārameśvara](matangaparamesvara.md) — `skeleton`
+- [Mataṅgavṛtti](matangavrtti.md) — `skeleton`
+- [Matsya Purāṇa](matsya-purana.md) — `skeleton`
+- [Mausalaparvan](mausalaparvan.md) — `skeleton`
+- [Maṅki Gītā](manki-gita.md) — `skeleton`
+- [Maṇikaṇa](manikana.md) — `skeleton`
+- [Maṇimañjarī](manimanjari.md) — `skeleton`
+- [Mokṣadharma (Mokṣadharmaparvan)](moksadharma.md) — `skeleton`
+- [Mokṣopāya](moksopaya.md) — `skeleton`
+- [Mokṣopāyaṭīkā of Bhāskarakaṇṭha](moksopaya-tika-bhaskarakantha.md) — `skeleton`
+- [Mudgala Purāṇa](mudgala-purana.md) — `skeleton`
+- [Mukhabimbāgama](mukhabimba-agama.md) — `skeleton`
+- [Muktivāda (Raghudeva)](muktivada-raghudeva.md) — `skeleton`
+- [Mālinīvijayottaratantra](malinivijayottara-tantra.md) — `skeleton`
+- [Mālinīślokavārttika (Mālinīvijayavārttika)](malinislokavarttika.md) — `skeleton`
+- [Mārkaṇḍeya Purāṇa](markandeya-purana.md) — `skeleton`
+- [Mārkaṇḍeyasamāsyā (Mārkaṇḍeya's discourses)](markandeya-samasya.md) — `skeleton`
 - [Māyāvādakhaṇḍana](mayavadakhandana.md) — `skeleton`
+- [Māyāvādakhaṇḍana-ṭīkā (Jayatīrtha)](mayavadakhandana-tika-jayatirtha.md) — `skeleton`
 - [Māṇḍūkyopaniṣad-bhāṣya (Madhva)](mandukya-upanisad-bhasya-madhva.md) — `skeleton`
+- [Māṭharavṛtti](mathara-vrtti.md) — `skeleton`
+- [Mṛgendratantra](mrgendra-tantra.md) — `skeleton`
+- [Mṛgendravṛtti](mrgendravrtti.md) — `skeleton`
+- [Mṛgendravṛttidīpikā](mrgendravrttidipika.md) — `skeleton`
+- [Narasiṃha Purāṇa](narasimha-purana.md) — `skeleton`
 - [Narasiṃhanakhastuti](narasimhanakhastuti.md) — `skeleton`
+- [Navyanyāyabhāṣāpradīpa](navyanyayabhasapradipa.md) — `skeleton` _(recent)_
+- [Nañvāda](nanvada.md) — `skeleton`
+- [Netratantra (Mṛtyujidbhaṭṭāraka)](netra-tantra.md) — `skeleton`
+- [Netroddyota](netroddyota.md) — `skeleton`
+- [Niśvāsa Guhyasūtra](nisvasa-guhyasutra.md) — `skeleton`
+- [Niśvāsa Mūlasūtra](nisvasa-mulasutra.md) — `skeleton`
+- [Niśvāsa Nayasūtra](nisvasa-nayasutra.md) — `skeleton`
+- [Niśvāsa Uttarasūtra](nisvasa-uttarasutra.md) — `skeleton`
+- [Niśvāsakārikā](nisvasakarika.md) — `skeleton`
+- [Niśvāsamukha](nisvasamukha.md) — `skeleton`
+- [Niśvāsatattvasaṃhitā](nisvasatattvasamhita.md) — `skeleton`
+- [Nyāya Sūtra](nyaya-sutra.md) — `skeleton`
+- [Nyāyabhāṣya](nyaya-bhasya.md) — `skeleton`
+- [Nyāyabhūṣaṇa](nyayabhusana.md) — `skeleton`
+- [Nyāyadīpikā of Jayatīrtha (on the Gītātātparyanirṇaya)](nyayadipika-jayatirtha.md) — `skeleton`
+- [Nyāyakalikā](nyayakalika.md) — `skeleton`
+- [Nyāyakalpalatā (Pramāṇalakṣaṇa-ṭīkā)](nyayakalpalata-jayatirtha.md) — `skeleton`
+- [Nyāyakandalī](nyayakandali.md) — `skeleton`
+- [Nyāyakusumāñjali](nyaya-kusumanjali.md) — `skeleton`
+- [Nyāyakusumāñjaliprakāśa](kusumanjali-prakasa.md) — `skeleton`
+- [Nyāyalīlāvatī](nyayalilavati.md) — `skeleton`
+- [Nyāyamañjarī](nyayamanjari.md) — `skeleton`
+- [Nyāyamuktāvalī (Rāghavendra)](nyayamuktavali-raghavendra.md) — `skeleton`
+- [Nyāyapariśiṣṭa](nyaya-parisista.md) — `skeleton`
+- [Nyāyaratna](nyayaratna-manikantha.md) — `skeleton`
+- [Nyāyaratnāvalī (Padmanābha Tīrtha)](nyayaratnavali-padmanabha.md) — `skeleton`
+- [Nyāyasiddhāntadīpa](nyayasiddhantadipa.md) — `skeleton`
+- [Nyāyasiddhāntamuktāvalī](nyayasiddhantamuktavali.md) — `skeleton`
+- [Nyāyasudhā](nyayasudha.md) — `skeleton`
+- [Nyāyasudhā-parimala](nyayasudha-parimala.md) — `skeleton`
+- [Nyāyasāra](nyayasara.md) — `skeleton`
+- [Nyāyasūcīnibandha](nyayasucinibandha.md) — `skeleton`
+- [Nyāyasūtravṛtti (Viśvanātha)](nyayasutravrtti-visvanatha.md) — `skeleton`
 - [Nyāyavivaraṇa](nyayavivarana.md) — `skeleton`
+- [Nyāyavārttika](nyaya-varttika.md) — `skeleton`
+- [Nyāyavārttikatātparyapariśuddhi](nyaya-varttika-tatparya-parisuddhi.md) — `skeleton`
+- [Nyāyavārttikatātparyaṭīkā](nyaya-varttika-tatparya-tika.md) — `skeleton`
+- [Nyāyāmṛta](nyayamrta.md) — `skeleton`
+- [Nyāyāmṛta-taraṅgiṇī](nyayamrta-tarangini.md) — `skeleton`
+- [Nyāyāmṛta-āmoda (Laghvāmoda)](nyayamrta-amoda.md) — `skeleton`
+- [Nārada Purāṇa](narada-purana.md) — `skeleton`
+- [Nāradīya Saṃhitā](naradiya-samhita.md) — `skeleton`
+- [Nāradīya Śikṣā](naradiya-siksa.md) — `skeleton`
+- [Nārāyaṇīya](narayaniya.md) — `skeleton`
+- [Nāsadīya Sūkta (the creation hymn, Ṛgveda 10.129)](nasadiya-sukta.md) — `skeleton`
+- [Nīlamata Purāṇa](nilamata-purana.md) — `skeleton`
+- [Oṣadhi Sūkta (Ṛgveda 10.97)](osadhi-sukta.md) — `skeleton`
+- [Padacandrikā of Anantadeva](padacandrika-anantadeva.md) — `skeleton`
+- [Padaratnāvalī](padaratnavali.md) — `skeleton`
+- [Padma Purāṇa](padma-purana.md) — `skeleton`
+- [Padārthadharmasaṅgraha](padarthadharmasangraha.md) — `skeleton`
+- [Padārthatattvanirūpaṇa](padarthatattvanirupana.md) — `skeleton`
+- [Padārthādarśa](padarthadarsa.md) — `skeleton`
+- [Parama Saṃhitā](parama-samhita.md) — `skeleton`
+- [Paramārthasāra](paramarthasara.md) — `skeleton`
+- [Paramārthasāravivṛti](paramarthasara-vivrti.md) — `skeleton`
+- [Parimala](maharthamanjari-parimala.md) — `skeleton`
+- [Paryantapañcāśikā](paryantapancasika.md) — `skeleton`
+- [Parākhyatantra](parakhya-tantra.md) — `skeleton`
+- [Parāprāveśikā](parapravesika.md) — `skeleton`
+- [Parātrīśikā](paratrisika.md) — `skeleton`
+- [Parātrīśikālaghuvṛtti](paratrisika-laghuvrtti.md) — `skeleton`
+- [Parātrīśikātātparyadīpikā](paratrisika-tatparyadipika.md) — `skeleton`
+- [Parātrīśikāvivaraṇa](paratrisika-vivarana.md) — `skeleton`
+- [Parātrīśikāvivṛti (Lakṣmīrāma)](paratrisika-vivrti-laksmirama.md) — `skeleton`
+- [Parātrīśikāvivṛti (Somānanda)](paratrisika-vivrti-somananda.md) — `skeleton`
+- [Parāśara Gītā](parasara-gita.md) — `skeleton`
+- [Parāśara Upapurāṇa](parasara-upapurana.md) — `skeleton`
+- [Pauṣkara Saṃhitā](pauskara-samhita.md) — `skeleton`
+- [Pauṣkarabhāṣya](pauskarabhasya.md) — `skeleton`
+- [Pauṣkaravṛtti](pauskaravrtti.md) — `skeleton`
+- [Pauṣkarāgama](pauskara-agama.md) — `skeleton`
+- [Pañcaviṃśa Brāhmaṇa](pancavimsa-brahmana.md) — `skeleton`
+- [Pañcaśikha fragments (Pañcaśikhasūtra)](pancasikha-sutra.md) — `skeleton`
+- [Pañcaśikha–Janadeva Saṃvāda](pancasikha-janadeva-samvada.md) — `skeleton`
+- [Paṇḍitārādhya Caritra (Pālkuriki Sōmanātha)](panditaradhya-caritra.md) — `skeleton`
+- [Pirapuliṅkalīlai (Turaimaṅkalam Śivaprakāśar)](pirapulinka-lilai.md) — `skeleton`
+- [Pitāputrasaṃvāda (dialogue of father and son)](pita-putra-samvada.md) — `skeleton`
+- [Piṅgalā Gītā](pingala-gita.md) — `skeleton`
+- [Piṅgalāmata](pingalamata.md) — `skeleton`
+- [Prabhudēvara Ragaḷe (Harihara)](prabhudevara-ragale.md) — `skeleton`
+- [Prabhuliṅgalīle (Cāmarasa)](prabhulingalile.md) — `skeleton`
+- [Prabhuliṅgalīlā (Sanskrit)](prabhulingalila-sanskrit.md) — `skeleton`
+- [Prakāśa Saṃhitā](prakasa-samhita.md) — `skeleton`
+- [Prakīrṇādhikāra](prakirnadhikara.md) — `skeleton`
+- [Prameyadīpikā of Jayatīrtha](prameyadipika.md) — `skeleton`
 - [Pramāṇalakṣaṇa](pramanalaksana-madhva.md) — `skeleton`
+- [Pramāṇapaddhati](pramanapaddhati.md) — `skeleton`
 - [Prapañcamithyātvānumānakhaṇḍana](prapancamithyatvanumanakhandana.md) — `skeleton`
+- [Prapañcamithyātvānumānakhaṇḍana-ṭīkā (Jayatīrtha)](prapancamithyatvanumanakhandana-tika-jayatirtha.md) — `skeleton`
+- [Prapañcasāra](prapancasara.md) — `skeleton`
+- [Prapañcasāravivaraṇa](prapancasara-vivarana.md) — `skeleton`
+- [Pratyabhijñāhṛdaya](pratyabhijnahrdayam.md) — `skeleton`
+- [Prodgītāgama](prodgita-agama.md) — `skeleton`
+- [Prādhānika Rahasya](pradhanika-rahasya.md) — `skeleton`
+- [Prāyaścittasamuccaya (of Hṛdayaśiva)](prayascittasamuccaya-hrdayasiva.md) — `skeleton`
+- [Prāṇa Sūkta (Atharvaveda 11.4)](prana-sukta.md) — `skeleton`
+- [Prāṇāgnihotra Upaniṣad](pranagnihotra-upanisad.md) — `skeleton`
+- [Puruṣa Sūkta (Ṛgveda 10.90)](purusa-sukta.md) — `skeleton`
+- [Puṣpasūtra](puspa-sutra.md) — `skeleton`
+- [Pādma Saṃhitā](padma-samhita.md) — `skeleton`
+- [Pārameśvara Saṃhitā](paramesvara-samhita.md) — `skeleton`
+- [Pārameśvarāgama](paramesvara-agama.md) — `skeleton`
+- [Pātañjalarahasya](patanjala-rahasya.md) — `skeleton`
+- [Pātañjalayogaśāstravivaraṇa (Yogasūtrabhāṣyavivaraṇa)](yoga-sutra-bhasya-vivarana.md) — `skeleton`
+- [Pāñcarātrarakṣā](pancaratraraksa.md) — `skeleton`
+- [Pāṇinīya Śikṣā](paniniya-siksa.md) — `skeleton`
+- [Pāṇḍava Gītā](pandava-gita.md) — `skeleton`
+- [Pūrvapañcikā](purvapancika.md) — `skeleton`
+- [Pṛthivī Sūkta (Atharvaveda 12.1)](prthivi-sukta.md) — `skeleton`
+- [Rauravasūtrasaṅgraha](rauravasutrasangraha.md) — `skeleton`
+- [Rauravāgama](raurava-agama.md) — `skeleton`
+- [Rudra Gītā](rudra-gita.md) — `skeleton`
+- [Rukmiṇīśavijaya](rukminisavijaya.md) — `skeleton`
+- [Rājadharma (Rājadharmānuśāsanaparvan)](rajadharma.md) — `skeleton`
+- [Rājamārtaṇḍa (Bhojavṛtti)](rajamartanda.md) — `skeleton`
+- [Rājavārttika (Sāṃkhya)](rajavarttika-samkhya.md) — `skeleton`
+- [Rājaśēkharavilāsa (Ṣaḍakṣaradēva)](rajasekhara-vilasa.md) — `skeleton`
+- [Rāma Gītā](rama-gita.md) — `skeleton`
+- [Rāma Gītā (Tattvasārāyaṇa)](rama-gita-tattvasarayana.md) — `skeleton`
+- [Rāma-hṛdaya](rama-hrdaya.md) — `skeleton`
+- [Rāmarudrī](ramarudri.md) — `skeleton`
+- [Rāmāyaṇa (of Vālmīki)](ramayana.md) — `skeleton`
+- [Rātri Sūkta (Ṛgveda 10.127)](ratri-sukta.md) — `skeleton`
+- [Sabhāparvan](sabhaparvan.md) — `skeleton`
 - [Sadācārasmṛti (Madhva)](sadacarasmrti-madhva.md) — `skeleton`
+- [Sahasrāgama](sahasra-agama.md) — `skeleton`
+- [Sambandhasiddhi](sambandhasiddhi.md) — `skeleton`
+- [Sampradāyapaddhati](sampradayapaddhati.md) — `skeleton`
+- [Samūrtārcanādhikaraṇa](samurtarcanadhikarana.md) — `skeleton`
+- [Sanatkumāra Purāṇa](sanatkumara-purana.md) — `skeleton`
+- [Sanatkumāra Saṃhitā (Pāñcarātra)](sanatkumara-samhita.md) — `skeleton`
+- [Sanatsujātīya](sanatsujatiya.md) — `skeleton`
+- [Sanatsujātīyabhāṣya (attributed to Śaṅkara)](sanatsujatiya-bhasya-sankara.md) — `skeleton`
 - [Sannyāsapaddhati (attributed to Madhva)](sannyasapaddhati-madhva.md) — `skeleton`
+- [Santānāgama](santana-agama.md) — `skeleton`
+- [Saptapadārthī](saptapadarthi.md) — `skeleton`
+- [Sarasvatī Gītā](sarasvati-gita.md) — `skeleton`
+- [Sarvadarśanasaṅgraha](sarvadarsanasangraha.md) — `skeleton`
+- [Sarvajñānottara](sarvajnanottara.md) — `skeleton`
+- [Sarvajñānottaravṛtti](sarvajnanottaravrtti.md) — `skeleton`
+- [Sarvatobhadra of Rājānaka Rāmakaṇṭha](sarvatobhadra-ramakantha.md) — `skeleton`
+- [Sarvoktāgama](sarvokta-agama.md) — `skeleton`
+- [Sarvopakāriṇī](sarvopakarini.md) — `skeleton`
+- [Sarvānukramaṇī](sarvanukramani.md) — `skeleton`
+- [Sattarkadīpāvalī](sattarkadipavali.md) — `skeleton`
+- [Sauptikaparvan](sauptikaparvan.md) — `skeleton`
+- [Saura Purāṇa](saura-purana.md) — `skeleton`
+- [Sayings of Sarvajña (tripadis)](sarvajna-tripadi.md) — `skeleton`
+- [Saṃhitopaniṣad Brāhmaṇa](samhitopanisad-brahmana.md) — `skeleton`
+- [Saṃjñāna Sūkta (Ṛgveda 10.191)](samjnana-sukta.md) — `skeleton`
+- [Siddha Gītā](siddha-gita.md) — `skeleton`
+- [Siddharāma Cāritra (Rāghavāṅka)](siddharama-caritre.md) — `skeleton`
+- [Siddhayogeśvarīmata](siddhayogesvarimata.md) — `skeleton`
+- [Siddhitrayī](siddhitrayi.md) — `skeleton`
+- [Siddhāgama](siddha-agama.md) — `skeleton`
+- [Siddhāntasārapaddhati](siddhantasarapaddhati.md) — `skeleton`
+- [Siddhāntasārāvalī](siddhantasaravali.md) — `skeleton`
+- [Siddhāntaśikhāmaṇi](siddhantasikhamani.md) — `skeleton`
+- [Skambha hymns (Atharvaveda 10.7–8)](skambha-sukta.md) — `skeleton`
+- [Skanda Purāṇa](skanda-purana.md) — `skeleton`
+- [Skandapurāṇa (early recension)](skandapurana-early.md) — `skeleton`
+- [Skandasvāmin's commentary on the Ṛgveda](rgveda-bhasya-skandasvamin.md) — `skeleton`
+- [Soma Pavamāna hymns (Ṛgveda book 9)](pavamani.md) — `skeleton`
+- [Somaśambhupaddhati](somasambhupaddhati.md) — `skeleton`
+- [Spandakārikā](spanda-karika.md) — `skeleton`
+- [Spandanirṇaya](spanda-nirnaya.md) — `skeleton`
+- [Spandapradīpikā](spanda-pradipika.md) — `skeleton`
+- [Spandasandoha](spanda-sandoha.md) — `skeleton`
+- [Spandavivṛti](spanda-vivrti.md) — `skeleton`
+- [Spandavṛtti](spanda-vrtti.md) — `skeleton`
+- [Stavacintāmaṇi](stavacintamani.md) — `skeleton`
+- [Stavacintāmaṇivṛtti](stavacintamani-vrtti.md) — `skeleton`
+- [Strīparvan](striparvan.md) — `skeleton`
+- [Stutikusumāñjali](stutikusumanjali.md) — `skeleton`
+- [Subodhinī of Śrīdhara Svāmin](subodhini-sridhara.md) — `skeleton`
+- [Sulabhā–Janaka Saṃvāda](sulabha-janaka-samvada.md) — `skeleton`
+- [Sumadhvavijaya](sumadhvavijaya.md) — `skeleton`
+- [Sundarakāṇḍa](sundarakanda.md) — `skeleton`
+- [Suprabhedāgama](suprabheda-agama.md) — `skeleton`
+- [Svabodhodayamañjarī](svabodhodayamanjari.md) — `skeleton`
+- [Svacchandatantra (Svacchandabhairavatantra)](svacchanda-tantra.md) — `skeleton`
+- [Svacchandoddyota](svacchandoddyota.md) — `skeleton`
+- [Svargārohaṇaparvan](svargarohanaparvan.md) — `skeleton`
+- [Svāyambhuvasūtrasaṅgraha](svayambhuvasutrasangraha.md) — `skeleton`
+- [Svāyambhuvasūtrasaṅgraha-vṛtti](svayambhuvasutrasangraha-vrtti.md) — `skeleton`
+- [Svāyambhuvāgama](svayambhuva-agama.md) — `skeleton`
+- [Sāmaveda Saṃhitā (Kauthuma)](samaveda.md) — `skeleton`
+- [Sāmavidhāna Brāhmaṇa](samavidhana-brahmana.md) — `skeleton`
+- [Sāmba Purāṇa](samba-purana.md) — `skeleton`
+- [Sāmbapañcāśikā](samba-pancasika.md) — `skeleton`
+- [Sāmānyanirukti (Gādādharī)](samanyanirukti-gadadhara.md) — `skeleton`
+- [Sārdhatriśatikālottara](sardhatrisatikalottara.md) — `skeleton`
+- [Sārdhatriśatikālottaravṛtti](sardhatrisatikalottaravrtti.md) — `skeleton`
+- [Sārārthavarṣiṇī of Viśvanātha Cakravartin](sararthavarsini.md) — `skeleton`
+- [Sātvata Saṃhitā](satvata-samhita.md) — `skeleton`
+- [Sātvata Tantra](satvata-tantra.md) — `skeleton`
+- [Sāyaṇa's commentary on the Atharvaveda](atharvaveda-bhasya-sayana.md) — `skeleton`
+- [Sāyaṇa's commentary on the Taittirīya Saṃhitā](taittiriya-samhita-bhasya-sayana.md) — `skeleton`
+- [Sāyaṇa's commentary on the Ṛgveda (Vedārthaprakāśa)](rgveda-bhasya-sayana.md) — `skeleton`
+- [Sāṃkhya Kārikā](samkhya-karika.md) — `skeleton`
+- [Sāṃkhya Sūtra](samkhya-sutra.md) — `skeleton`
+- [Sāṃkhyacandrikā](samkhyacandrika.md) — `skeleton`
+- [Sāṃkhyakārikābhāṣya of Gauḍapāda](samkhya-karika-bhasya-gaudapada.md) — `skeleton`
+- [Sāṃkhyaparibhāṣā](samkhyaparibhasa.md) — `skeleton`
+- [Sāṃkhyapravacanabhāṣya](samkhya-pravacana-bhasya.md) — `skeleton`
+- [Sāṃkhyasaptativṛtti (V1)](samkhya-saptati-vrtti.md) — `skeleton`
+- [Sāṃkhyasāra](samkhyasara.md) — `skeleton`
+- [Sāṃkhyasūtravivaraṇa](samkhyasutravivarana.md) — `skeleton`
+- [Sāṃkhyasūtravṛtti of Aniruddha](samkhya-sutra-vrtti-aniruddha.md) — `skeleton`
+- [Sāṃkhyasūtravṛttisāra](samkhya-sutra-vrttisara.md) — `skeleton`
+- [Sāṃkhyataruvasanta](samkhyataruvasanta.md) — `skeleton`
+- [Sāṃkhyatattvakaumudī](tattvakaumudi.md) — `skeleton`
+- [Sāṃkhyatattvapradīpa](samkhyatattvapradipa.md) — `skeleton`
+- [Sāṃkhyatattvapradīpikā](samkhyatattvapradipika.md) — `skeleton`
+- [Sāṃkhyatattvavivecana](samkhyatattvavivecana.md) — `skeleton`
+- [Sāṃkhyavṛtti (V2)](samkhya-vrtti.md) — `skeleton`
+- [Sōmanātha Cāritra (Rāghavāṅka)](somanatha-caritre.md) — `skeleton`
+- [Sūkṣmāgama](suksma-agama.md) — `skeleton`
+- [Sūrya Gītā](surya-gita.md) — `skeleton`
+- [Sūta Gītā](suta-gita.md) — `skeleton`
+- [Sūta Saṃhitā](suta-samhita.md) — `skeleton`
+- [Sūtrārthabodhinī](sutrarthabodhini.md) — `skeleton`
+- [Taittirīya Brāhmaṇa](taittiriya-brahmana.md) — `skeleton`
+- [Taittirīya Saṃhitā](taittiriya-samhita.md) — `skeleton`
+- [Taittirīya Āraṇyaka](taittiriya-aranyaka.md) — `skeleton`
 - [Taittirīyopaniṣad-bhāṣya (Madhva)](taittiriya-upanisad-bhasya-madhva.md) — `skeleton`
 - [Talavakāropaniṣad-bhāṣya (Madhva)](kena-upanisad-bhasya-madhva.md) — `skeleton`
+- [Tantradīpikā (Rāghavendra)](tantradipika-raghavendra.md) — `skeleton`
+- [Tantrasadbhāva](tantrasadbhava.md) — `skeleton`
+- [Tantrasamuccaya](tantrasamuccaya.md) — `skeleton`
+- [Tantrasāra](tantrasara.md) — `skeleton`
 - [Tantrasārasaṅgraha (Madhva)](tantrasarasangraha-madhva.md) — `skeleton`
+- [Tantravaṭadhānikā](tantravatadhanika.md) — `skeleton`
+- [Tantrāloka](tantraloka.md) — `skeleton`
+- [Tantrālokaviveka](tantraloka-viveka.md) — `skeleton`
+- [Tarkabhāṣā (Keśava Miśra)](tarkabhasa-kesava-misra.md) — `skeleton`
+- [Tarkabhāṣāprakāśikā](tarkabhasa-prakasika.md) — `skeleton`
+- [Tarkakaumudī](tarkakaumudi.md) — `skeleton`
+- [Tarkasaṅgraha](tarkasangraha.md) — `skeleton`
+- [Tarkasaṅgrahadīpikā](tarkasangraha-dipika.md) — `skeleton`
+- [Tarkatāṇḍava](tarkatandava.md) — `skeleton`
+- [Tarkāmṛta](tarkamrta.md) — `skeleton`
+- [Tattvacintāmaṇi](tattvacintamani.md) — `skeleton`
+- [Tattvacintāmaṇidīdhiti](tattvacintamani-didhiti.md) — `skeleton`
+- [Tattvacintāmaṇirahasya](tattvacintamani-rahasya.md) — `skeleton`
+- [Tattvacintāmaṇyāloka](tattvacintamani-aloka.md) — `skeleton`
+- [Tattvamīmāṃsā (Sāṃkhya)](tattvamimamsa-samkhya.md) — `skeleton`
+- [Tattvapradīpa (Trivikrama Paṇḍitācārya)](tattvapradipa-trivikrama.md) — `skeleton`
+- [Tattvapradīpikā (Maritoṇṭadārya's commentary on the Siddhāntaśikhāmaṇi)](tattvapradipika-maritontadarya.md) — `skeleton`
+- [Tattvaprakāśikā](tattvaprakasika.md) — `skeleton`
+- [Tattvaprakāśikā of Keśava Kāśmīrī Bhaṭṭa](tattvaprakasika-kesava-kasmiri.md) — `skeleton`
+- [Tattvaprakāśikā-bhāvadīpa](tattvaprakasika-bhavadipa.md) — `skeleton`
+- [Tattvasamāsa](tattvasamasa.md) — `skeleton`
 - [Tattvasaṅkhyāna](tattvasankhyana.md) — `skeleton`
+- [Tattvasaṅkhyāna-ṭīkā (Jayatīrtha)](tattvasankhyana-tika-jayatirtha.md) — `skeleton`
+- [Tattvasārāyaṇa](tattvasarayana.md) — `skeleton`
+- [Tattvavaiśāradī](tattvavaisaradi.md) — `skeleton`
 - [Tattvaviveka](tattvaviveka.md) — `skeleton`
+- [Tattvaviveka-ṭīkā (Jayatīrtha)](tattvaviveka-tika-jayatirtha.md) — `skeleton`
+- [Tattvayāthārthyadīpana](tattvayatharthyadipana.md) — `skeleton`
 - [Tattvoddyota](tattvoddyota.md) — `skeleton`
+- [Tattvoddyota-ṭīkā (Jayatīrtha)](tattvoddyota-tika-jayatirtha.md) — `skeleton`
+- [Tattvārthacintāmaṇi](tattvarthacintamani.md) — `skeleton`
+- [The funeral hymns (Ṛgveda 10.14–18)](rgveda-funeral-hymns.md) — `skeleton`
+- [The Secret of the Veda (Sri Aurobindo)](secret-of-the-veda.md) — `skeleton` _(recent)_
+- [The story of Śuka (Mokṣadharma)](suka-story-moksadharma.md) — `skeleton`
+- [The Vrātya book (Atharvaveda 15)](vratya-kanda.md) — `skeleton`
 - [Tithinirṇaya (attributed to Madhva)](tithinirnaya-madhva.md) — `skeleton`
+- [Triśirobhairava](trisirobhairava.md) — `skeleton`
+- [Tulādhāra–Jājali Saṃvāda](tuladhara-jajali-samvada.md) — `skeleton`
+- [Tārkikarakṣā](tarkikaraksa.md) — `skeleton`
+- [Tātparyacandrikā of Vedānta Deśika](tatparyacandrika.md) — `skeleton`
+- [Tātparyacintāmaṇi](tatparyacintamani.md) — `skeleton`
+- [Tīrthaprabandha](tirthaprabandha.md) — `skeleton`
+- [Ucchiṣṭa Sūkta (Atharvaveda 11.7)](ucchista-sukta.md) — `skeleton`
+- [Uddhava Gītā](uddhava-gita.md) — `skeleton`
+- [Udyogaparvan](udyogaparvan.md) — `skeleton`
+- [Umāmaheśvarasaṃvāda (dialogue of Umā and Maheśvara)](umamahesvara-samvada.md) — `skeleton`
+- [Upaskāra](upaskara.md) — `skeleton`
 - [Upādhikhaṇḍana](upadhikhandana.md) — `skeleton`
+- [Upādhikhaṇḍana-ṭīkā (Jayatīrtha)](upadhikhandana-tika-jayatirtha.md) — `skeleton`
+- [Utathya Gītā](utathya-gita.md) — `skeleton`
+- [Uttara Gītā](uttara-gita.md) — `skeleton`
+- [Uttarakāṇḍa](uttarakanda.md) — `skeleton`
+- [Uñchavṛtti Upākhyāna](unchavrtti-upakhyana.md) — `skeleton`
+- [Vacana literature (vacana sāhitya)](vacana-sahitya.md) — `skeleton`
+- [Vacanas of Akka Mahādēvi (Mahādēviyakkana vacanagaḷu)](akka-mahadevi-vacanas.md) — `skeleton`
+- [Vacanas of Allama Prabhu](allama-prabhu-vacanas.md) — `skeleton`
+- [Vacanas of Ambigara Cauḍayya](ambigara-caudayya-vacanas.md) — `skeleton`
+- [Vacanas of Basavaṇṇa (Basavaṇṇanavara vacanagaḷu)](basavanna-vacanas.md) — `skeleton`
+- [Vacanas of Cennabasava](cennabasava-vacanas.md) — `skeleton`
+- [Vacanas of Dēvara Dāsimayya (Jēḍara Dāsimayya)](devara-dasimayya-vacanas.md) — `skeleton`
+- [Vacanas of Maḍivāḷa Mācayya](madivala-macayya-vacanas.md) — `skeleton`
+- [Vacanas of Muktāyakka](muktayakka-vacanas.md) — `skeleton`
+- [Vacanas of Nuliya Candayya](nuliya-candayya-vacanas.md) — `skeleton`
+- [Vacanas of Nīlāmbike](nilambike-vacanas.md) — `skeleton`
+- [Vacanas of Satyakka](satyakka-vacanas.md) — `skeleton`
+- [Vacanas of Siddharāma](siddharama-vacanas.md) — `skeleton`
+- [Vacanas of Āydakki Lakkamma](aydakki-lakkamma-vacanas.md) — `skeleton`
+- [Vacanas of Āydakki Mārayya](aydakki-marayya-vacanas.md) — `skeleton`
+- [Vacanas of Ṣaṇmukhasvāmi](sanmukhasvami-vacanas.md) — `skeleton`
+- [Vaikhānasa Dharmasūtra](vaikhanasa-dharmasutra.md) — `skeleton`
+- [Vaikhānasa Mantrapraśna](vaikhanasa-mantraprasna.md) — `skeleton`
+- [Vaikhānasa Smārtasūtra](vaikhanasa-smartasutra.md) — `skeleton`
+- [Vaikhānasa Śrautasūtra](vaikhanasa-srautasutra.md) — `skeleton`
+- [Vaiśeṣika Sūtra](vaisesika-sutra.md) — `skeleton`
+- [Vaiśeṣikasūtravṛtti (Candrānanda)](vaisesika-sutra-vrtti-candrananda.md) — `skeleton`
+- [Varuṇapaddhati](varunapaddhati.md) — `skeleton`
+- [Varāha Purāṇa](varaha-purana.md) — `skeleton`
+- [Vasiṣṭha Gītā (Mokṣopāya)](vasistha-gita.md) — `skeleton`
+- [Vasiṣṭha–Karāla Janaka Saṃvāda](vasistha-karala-janaka-samvada.md) — `skeleton`
+- [Vaṃśa Brāhmaṇa](vamsa-brahmana.md) — `skeleton`
+- [Vedadīpa (Mahīdhara on the Vājasaneyi Saṃhitā)](vedadipa.md) — `skeleton`
+- [Vedāntasāra-Vīraśaiva-Cintāmaṇi](vedantasara-virasaiva-cintamani.md) — `skeleton`
+- [Veṇu Gītā](venu-gita.md) — `skeleton`
+- [Vibhīṣaṇa Gītā](vibhisana-gita.md) — `skeleton`
+- [Vicakhnu Gītā](vicakhnu-gita.md) — `skeleton`
+- [Viduranīti (Vidura's counsel)](viduraniti.md) — `skeleton`
+- [Vidvattoṣiṇī](vidvattosini.md) — `skeleton` _(recent)_
+- [Vijayāgama](vijaya-agama.md) — `skeleton`
+- [Vijñānabhairava](vijnana-bhairava-tantra.md) — `skeleton`
+- [Vijñānabhairavavivṛti (Śivopādhyāya)](vijnana-bhairava-vivrti-sivopadhyaya.md) — `skeleton`
+- [Vijñānabhairavoddyota](vijnana-bhairava-uddyota.md) — `skeleton`
+- [Vijñānakaumudī](vijnana-kaumudi.md) — `skeleton`
+- [Vikṛtivallī](vikrtivalli.md) — `skeleton`
+- [Vimalāgama](vimala-agama.md) — `skeleton`
+- [Vimalāvatī](vimalavati.md) — `skeleton`
+- [Vimarśinī (commentary on the Tantrasamuccaya)](tantrasamuccaya-vimarsini.md) — `skeleton`
+- [Vimānārcanakalpa](vimanarcanakalpa.md) — `skeleton`
+- [Virāṭaparvan](virataparvan.md) — `skeleton`
+- [Virūpākṣapañcāśikā](virupaksapancasika.md) — `skeleton`
+- [Vivekacintāmaṇi (Nijaguṇa Śivayōgi)](viveka-cintamani-nijaguna.md) — `skeleton`
+- [Viśeṣārthaprakāśikā](visesartha-prakasika.md) — `skeleton`
+- [Viśvakarma Sūkta (Ṛgveda 10.81–82)](visvakarma-sukta.md) — `skeleton`
+- [Viṣvaksena Saṃhitā](visvaksena-samhita.md) — `skeleton`
+- [Viṣṇu Purāṇa](visnu-purana.md) — `skeleton`
+- [Viṣṇu Sahasranāma](visnu-sahasranama.md) — `skeleton`
+- [Viṣṇu Saṃhitā](visnu-samhita.md) — `skeleton`
+- [Viṣṇucittīya](visnucittiya.md) — `skeleton`
+- [Viṣṇudharma](visnudharma.md) — `skeleton`
+- [Viṣṇudharmottara Purāṇa](visnudharmottara-purana.md) — `skeleton`
+- [Viṣṇusahasranāmabhāṣya (attributed to Śaṅkara)](visnu-sahasranama-bhasya-sankara.md) — `skeleton`
 - [Viṣṇutattvavinirṇaya](visnutattvavinirnaya.md) — `skeleton`
+- [Viṣṇutattvavinirṇaya-ṭīkā (Jayatīrtha)](visnutattvavinirnaya-tika-jayatirtha.md) — `skeleton`
+- [Vyomavatī](vyomavati.md) — `skeleton`
+- [Vyutpattivāda](vyutpattivada.md) — `skeleton`
+- [Vyādha Gītā (the righteous meat-seller's teaching)](vyadha-gita.md) — `skeleton`
+- [Vyāsa Gītā](vyasa-gita.md) — `skeleton`
+- [Vādhūla Anvākhyāna (Vādhūla Brāhmaṇa)](vadhula-anvakhyana.md) — `skeleton`
+- [Vādivinoda](vadivinoda.md) — `skeleton`
+- [Vādāvalī](vadavali.md) — `skeleton`
+- [Vāgvajra](vagvajra.md) — `skeleton`
+- [Vājasaneyi Saṃhitā (Kāṇva)](vajasaneyi-samhita-kanva.md) — `skeleton`
+- [Vājasaneyi Saṃhitā (Mādhyandina)](vajasaneyi-samhita.md) — `skeleton`
+- [Vāk Sūkta (Devī Sūkta, Ṛgveda 10.125)](vak-sukta.md) — `skeleton`
+- [Vākhs of Rūpa Bhavānī](rupa-bhavani-vakhs.md) — `skeleton`
+- [Vālakhilya hymns](valakhilya.md) — `skeleton`
+- [Vāmadeva Gītā](vamadeva-gita.md) — `skeleton`
+- [Vāmana Purāṇa](vamana-purana.md) — `skeleton`
+- [Vāsiṣṭhacandrikā](vasistha-candrika.md) — `skeleton`
+- [Vāsiṣṭharāmāyaṇa-tātparyaprakāśa](yoga-vasistha-tatparyaprakasa.md) — `skeleton`
+- [Vātulottara (Vātulāgama tradition)](vatulottara-agama.md) — `skeleton`
+- [Vātulāgama](vatula-agama.md) — `skeleton`
+- [Vātūlanāthasūtra](vatulanatha-sutra.md) — `skeleton`
+- [Vāyavīya Saṃhitā](vayaviya-samhita.md) — `skeleton`
+- [Vāyu Purāṇa](vayu-purana.md) — `skeleton`
+- [Vāyustuti (Harivāyustuti)](vayustuti.md) — `skeleton`
+- [Vīracūḍāmaṇi](vira-cudamani.md) — `skeleton`
+- [Vīratantra](viratantra.md) — `skeleton`
+- [Vīraśaivasiddhāntottarakaumudī](virasaiva-siddhantottara-kaumudi.md) — `skeleton`
+- [Vīraśaivotkarṣapradīpikā](virasaivotkarsa-pradipika.md) — `skeleton`
+- [Vīraśaivācārakaustubha (Maunappa Paṇḍita)](virasaivacara-kaustubha.md) — `skeleton`
+- [Vīraśaivācārapradīpikā](virasaivacara-pradipika.md) — `skeleton`
+- [Vīraśaivāgama](virasaivagama.md) — `skeleton`
+- [Vīraśaivānandacandrikā (Maritoṇṭadārya)](virasaivanandacandrika.md) — `skeleton`
+- [Vīrāgama](vira-agama.md) — `skeleton`
+- [Vīṇāśikhatantra](vinasikha-tantra.md) — `skeleton`
+- [Vṛtra Gītā](vrtra-gita.md) — `skeleton`
+- [Vṛṣabhēndravijaya (Ṣaḍakṣaradēva)](vrsabhendra-vijaya.md) — `skeleton`
+- [Vṛṣādhipa Śatakamu](vrsadhipa-sataka.md) — `skeleton`
+- [Yakṣapraśna (the Yakṣa's questions)](yaksaprasna.md) — `skeleton`
+- [Yama Gītā (Agni Purāṇa)](yama-gita-agni-purana.md) — `skeleton`
+- [Yama Gītā (Narasiṃha Purāṇa)](yama-gita-narasimha-purana.md) — `skeleton`
+- [Yama Gītā (Viṣṇu Purāṇa)](yama-gita-visnu-purana.md) — `skeleton`
 - [Yamakabhārata](yamakabharata.md) — `skeleton`
 - [Yatipraṇavakalpa](yatipranavakalpa.md) — `skeleton`
+- [Yoga Sūtra of Patañjali](yoga-sutra.md) — `skeleton`
+- [Yoga Vāsiṣṭha](yoga-vasistha.md) — `skeleton`
+- [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](yoga-bhasya.md) — `skeleton`
+- [Yogadīpikā (Nārāyaṇa Paṇḍitācārya)](yogadipika-narayana-pandita.md) — `skeleton`
+- [Yogajāgama](yogaja-agama.md) — `skeleton`
+- [Yogamaṇiprabhā](yogamaniprabha.md) — `skeleton`
+- [Yogasiddhāntacandrikā](yogasiddhantacandrika.md) — `skeleton`
+- [Yogasudhākara](yogasudhakara.md) — `skeleton`
+- [Yogasārasaṅgraha](yogasarasangraha.md) — `skeleton`
+- [Yogasūtradīpikā (Pradīpikā) of Bhāvāgaṇeśa](yogasutradipika-bhavaganesa.md) — `skeleton`
+- [Yogasūtravṛtti of Nāgeśa (Nāgojī) Bhaṭṭa](yogasutravrtti-nagesa.md) — `skeleton`
+- [Yogavallī](yogavalli.md) — `skeleton` _(recent)_
+- [Yogavārttika](yogavarttika.md) — `skeleton`
+- [Yogavāsiṣṭhasāra](yoga-vasistha-sara.md) — `skeleton`
+- [Yuddhakāṇḍa](yuddhakanda.md) — `skeleton`
+- [Yugala Gītā](yugala-gita.md) — `skeleton`
+- [Yuktidīpikā](yuktidipika.md) — `skeleton`
+- [Yuktimallikā](yuktimallika.md) — `skeleton`
+- [Yājñavalkya–Janaka Saṃvāda (in the Mokṣadharma)](yajnavalkya-janaka-samvada.md) — `skeleton`
+- [Yōgāṅga Trividhi](yoganga-trividhi.md) — `skeleton`
+- [Ādiparvan](adiparvan.md) — `skeleton`
+- [Āditya Hṛdaya](aditya-hrdaya.md) — `skeleton`
+- [Āditya Purāṇa](aditya-purana.md) — `skeleton`
+- [Āgamaprāmāṇya](agamapramanya.md) — `skeleton`
+- [Āgamaḍambara](agamadambara.md) — `skeleton`
+- [Āgneyāgama](agneya-agama.md) — `skeleton`
+- [Ājagaraparvan (Nahuṣa and Yudhiṣṭhira)](ajagaraparvan.md) — `skeleton`
+- [Ākhyātavāda (Raghunātha)](akhyatavada-raghunatha.md) — `skeleton`
+- [Ānandagiri's gloss on Śaṅkara's Gītābhāṣya](anandagiri-gita-tika.md) — `skeleton`
+- [Āpaddharma (Āpaddharmaparvan)](apaddharma.md) — `skeleton`
+- [Āraṇyageya-gāna (Araṇyegāna)](aranyageya-gana.md) — `skeleton`
+- [Āraṇyakaparvan](aranyakaparvan.md) — `skeleton`
+- [Ārṣeya Brāhmaṇa](arseya-brahmana.md) — `skeleton`
 - [Ātharvaṇopaniṣad-bhāṣya (Madhva)](mundaka-upanisad-bhasya-madhva.md) — `skeleton`
+- [Ātmaprakāśa](atmaprakasa.md) — `skeleton`
+- [Ātmatattvaviveka](atmatattvaviveka.md) — `skeleton`
+- [Ātmatattvavivekadīdhiti](atmatattvaviveka-didhiti.md) — `skeleton`
+- [Āśramavāsikaparvan](asramavasikaparvan.md) — `skeleton`
+- [Āśvamedhikaparvan](asvamedhikaparvan.md) — `skeleton`
+- [Īśvara Gītā](isvara-gita.md) — `skeleton`
+- [Īśvara Saṃhitā](isvara-samhita.md) — `skeleton`
+- [Īśvarapratyabhijñākaumudī](isvarapratyabhijna-kaumudi.md) — `skeleton`
+- [Īśvarapratyabhijñākārikā](isvarapratyabhijna-karika.md) — `skeleton`
+- [Īśvarapratyabhijñāvimarśinī](isvarapratyabhijna-vimarsini.md) — `skeleton`
+- [Īśvarapratyabhijñāvivṛti (Ṭīkā)](isvarapratyabhijna-vivrti.md) — `skeleton`
+- [Īśvarapratyabhijñāvivṛtivimarśinī](isvarapratyabhijna-vivrti-vimarsini.md) — `skeleton`
+- [Īśvarapratyabhijñāvṛtti](isvarapratyabhijna-vrtti.md) — `skeleton`
+- [Īśvarasiddhi](isvarasiddhi.md) — `skeleton`
+- [Īśānaśivagurudevapaddhati](isanasivagurudevapaddhati.md) — `skeleton`
 - [Īśāvāsyopaniṣad-bhāṣya (Madhva)](isa-upanisad-bhasya-madhva.md) — `skeleton`
+- [Śabdaśaktiprakāśikā](sabdasaktiprakasika.md) — `skeleton`
+- [Śaivasiddhāntaparibhāṣā](saivasiddhantaparibhasa.md) — `skeleton`
+- [Śaktivāda](saktivada.md) — `skeleton`
+- [Śalyaparvan](salyaparvan.md) — `skeleton`
+- [Śamyāka Gītā](samyaka-gita.md) — `skeleton`
+- [Śatapatha Brāhmaṇa (Kāṇva recension)](satapatha-brahmana-kanva.md) — `skeleton`
+- [Śatapatha Brāhmaṇa (Mādhyandina)](satapatha-brahmana.md) — `skeleton`
+- [Śataratnasaṅgraha](sataratnasangraha.md) — `skeleton`
+- [Śatarudrīya (Śrī Rudram, Rudrādhyāya)](satarudriya.md) — `skeleton`
+- [Śaunaka Gītā](saunaka-gita.md) — `skeleton`
+- [Śeṣasamuccaya](sesasamuccaya.md) — `skeleton`
+- [Śiva Gītā](siva-gita.md) — `skeleton`
+- [Śiva Purāṇa](siva-purana.md) — `skeleton`
+- [Śiva Sahasranāma (Mahābhārata, Anuśāsanaparvan)](siva-sahasranama-mahabharata.md) — `skeleton`
+- [Śivadharma](sivadharma.md) — `skeleton`
+- [Śivadharmottara](sivadharmottara.md) — `skeleton`
+- [Śivadṛṣṭi](sivadrsti.md) — `skeleton`
+- [Śivadṛṣṭivṛtti](sivadrsti-vrtti.md) — `skeleton`
+- [Śivarahasya](siva-rahasya.md) — `skeleton`
+- [Śivasaṅkalpa Sūkta](sivasankalpa-sukta.md) — `skeleton`
+- [Śivasiddhāntacandrikā (Siddhanañjeśa Śivācārya)](sivasiddhanta-candrika.md) — `skeleton`
+- [Śivastotrāvalī](sivastotravali.md) — `skeleton`
+- [Śivastotrāvalīvivṛti](sivastotravali-vivrti.md) — `skeleton`
+- [Śivasūtra](siva-sutra.md) — `skeleton`
+- [Śivasūtravimarśinī](siva-sutra-vimarsini.md) — `skeleton`
+- [Śivasūtravārttika (Bhāskara)](siva-sutra-varttika-bhaskara.md) — `skeleton`
+- [Śivasūtravārttika (Varadarāja)](siva-sutra-varttika-varadaraja.md) — `skeleton`
+- [Śivasūtravṛtti (Sāhib Kaul)](siva-sutra-vrtti-sahib-kaul.md) — `skeleton`
+- [Śivatattvacintāmaṇi (Lakkaṇṇa Daṇḍēśa)](sivatattva-cintamani.md) — `skeleton`
+- [Śivatattvaratnākara (Keḷadi Basavarāja)](sivatattva-ratnakara.md) — `skeleton`
+- [Śivatattvasāra (Mallikārjuna Paṇḍitārādhya)](sivatattvasara-panditaradhya.md) — `skeleton`
+- [Śivayogapradīpikā](sivayoga-pradipika.md) — `skeleton`
+- [Śivādvaitadarpaṇa](sivadvaita-darpana.md) — `skeleton`
+- [Śivādvaitamañjarī](sivadvaita-manjari.md) — `skeleton`
+- [Śivāgamādimāhātmyasaṅgraha](sivagamadimahatmyasangraha.md) — `skeleton`
+- [Śraddhā Sūkta (Ṛgveda 10.151)](sraddha-sukta.md) — `skeleton`
+- [Śruti Gītā](sruti-gita.md) — `skeleton`
+- [Śrī Sūkta](sri-sukta.md) — `skeleton`
+- [Śrīkaṇṭhīyasaṃhitā](srikanthiya-samhita.md) — `skeleton`
+- [Śrīpraśna Saṃhitā](sriprasna-samhita.md) — `skeleton`
+- [Śukānupraśna (Vyāsa's instruction to Śuka)](sukanuprasna.md) — `skeleton`
+- [Śāktavijñāna](saktavijnana.md) — `skeleton`
+- [Śāntiparvan](santiparvan.md) — `skeleton`
+- [Śāradātilaka](saradatilaka.md) — `skeleton`
+- [Śāṭyāyana Brāhmaṇa (lost)](satyayana-brahmana.md) — `skeleton`
+- [Śūnyasampādane](sunyasampadane.md) — `skeleton`
+- [Śūnyasampādane — first redaction (Śivagaṇaprasādi Mahādēvayya)](sunyasampadane-sivaganaprasadi-mahadevayya.md) — `skeleton`
+- [Śūnyasampādane — redaction of Gummaḷāpurada Siddhaliṅgayati](sunyasampadane-gummalapura-siddhalingayati.md) — `skeleton`
+- [Śūnyasampādane — redaction of Gūḷūra Siddhavīraṇṇoḍeya](sunyasampadane-gulura-siddhavirannodeya.md) — `skeleton`
+- [Śūnyasampādane — redaction of Halageyārya](sunyasampadane-halageyarya.md) — `skeleton`
+- [Ūha-gāna](uha-gana.md) — `skeleton`
+- [Ūhya-gāna (Rahasya-gāna)](uhya-gana.md) — `skeleton`
+- [Ṛbhu Gītā](rbhu-gita.md) — `skeleton`
+- [Ṛgarthadīpikā (Veṅkaṭamādhava)](rgarthadipika.md) — `skeleton`
+- [Ṛgarthoddhāra](rgarthoddhara.md) — `skeleton`
 - [Ṛgbhāṣya (Madhva)](rgbhasya-madhva.md) — `skeleton`
+- [Ṛgbhāṣya-ṭīkā (Jayatīrtha)](rgbhasya-tika-jayatirtha.md) — `skeleton`
+- [Ṛgveda Khilāni (the supplementary hymns)](rgveda-khilani.md) — `skeleton`
+- [Ṛgveda Padapāṭha](rgveda-padapatha.md) — `skeleton`
+- [Ṛgveda Prātiśākhya](rgveda-pratisakhya.md) — `skeleton`
+- [Ṛgveda Saṃhitā](rgveda.md) — `skeleton`
+- [Ṛgvedādibhāṣyabhūmikā (Dayānanda Sarasvatī)](rgvedadibhasyabhumika.md) — `skeleton` _(recent)_
+- [Ṛgvidhāna](rgvidhana.md) — `skeleton`
+- [Ṛṣabha Gītā](rsabha-gita.md) — `skeleton`
+- [Ṣaḍja Gītā](sadja-gita.md) — `skeleton`
+- [Ṣaḍviṃśa Brāhmaṇa](sadvimsa-brahmana.md) — `skeleton`
+- [Ṣaṣṭitantra](sastitantra.md) — `skeleton`
 - [Ṣaṭpraśnopaniṣad-bhāṣya (Madhva)](prasna-upanisad-bhasya-madhva.md) — `skeleton`
+- [Ṣaṭsthalajñānasārāmṛta](satsthala-jnana-saramrta.md) — `skeleton`
+- [Ṣaṭtriṃśattattvasandoha](sattrimsattattvasandoha.md) — `skeleton`

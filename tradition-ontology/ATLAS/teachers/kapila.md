@@ -1,0 +1,22 @@
+# Kapila
+
+`tch:kapila` · `skeleton` · confidence high
+
+**Alternate names:** Paramarṣi (the supreme sage), Ādividvān (the first knower), Kapila Muni
+**Lineages:** [Sāṃkhya](../lineages/samkhya.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
+**Dates:** Tradition's account: born at the beginning of creation endowed with virtue, knowledge, dispassion and power (Gauḍapāda on SK 1, 43); in the Purāṇic account an avatāra, son of Kardama and Devahūti (Māṭhara on SK 1; Bhāgavata Purāṇa book 3); (confidence low)
+**Historicity:** legendary
+**Students:** [Āsuri](asuri.md), [Devahūti](devahuti.md)
+**Works:** 
+  - [Ṣaṣṭitantra](../texts/sastitantra.md) — attribution: traditional
+  - [Sāṃkhya Sūtra](../texts/samkhya-sutra.md) — attribution: traditional
+  - [Tattvasamāsa](../texts/tattvasamasa.md) — attribution: traditional
+  - [Kapila Gītā](../texts/kapila-gita.md) — attribution: traditional
+
+Founder of Sāṃkhya in the tradition's account: the 'supreme sage' (SK 69) who gave the teaching to Āsuri out of compassion (SK 70). Gauḍapāda counts him among Brahmā's seven mind-born sons; the Māṭhara Vṛtti and the Purāṇas make him an avatāra, son of Kardama and Devahūti. The Sāṃkhya Sūtra and the Tattvasamāsa are ascribed to him; the Mahābhārata and the Bhāgavata Purāṇa (Kapila Gītā) preserve further teachings in his name.
+**Realization — the tradition's account:** Born with innate (sāṃsiddhika) virtue, knowledge, dispassion and power; seeing the world sunk in blind darkness, out of compassion he taught the knowledge of the twenty-five principles to Āsuri. A saying quoted in the Yoga Bhāṣya calls him the first knower who, assuming a created mind (nirmāṇacitta), out of compassion taught the doctrine to the inquiring Āsuri.
+
+_Notes: U05's contribution (the epic account)._
+
+---
+_Contributed by: skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U05-gita-epic, skeleton:U07-puranas. Generated 2026-09-28 07:02 IST._

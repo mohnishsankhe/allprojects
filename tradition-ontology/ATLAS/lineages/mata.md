@@ -44,4 +44,4 @@ _none recorded_
 _Notes: Low confidence throughout. Jayaratha on TĀ 4.262 calls the Mata scriptures 'samaviṣamalakṣaṇa' - sense unclear. Modern scholarship (Sanderson) associates the Mata with a Kālīkula/northern-transmission cult; that identification is not asserted here and is listed as a gap._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 04:53 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 07:02 IST._

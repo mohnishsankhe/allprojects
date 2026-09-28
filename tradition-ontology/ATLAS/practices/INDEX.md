@@ -1,4 +1,116 @@
-# Practices (0)
+# Practices (112)
 
+skeleton: 112
 
-
+- [Vijñāna Bhairava dhāraṇā 100: Neither attachment nor aversion](vbt-dharana-100.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 101: The unknowable and the void as Bhairava](vbt-dharana-101.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 102: The mind in outer space](vbt-dharana-102.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 103: Letting go of each object the moment the mind goes to it](vbt-dharana-103.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 104: Continuous utterance of the word 'Bhairava'](vbt-dharana-104.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 105: At the thought 'I' and 'mine'](vbt-dharana-105.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 106: Contemplating the words 'eternal', 'all-pervading', 'supportless'](vbt-dharana-106.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 107: 'What reality has a magic show?'](vbt-dharana-107.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 108: The unchanging self: the world as void](vbt-dharana-108.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 109: 'No bondage, no liberation for me'](vbt-dharana-109.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 10: The same method on a void, a wall or a worthy vessel](vbt-dharana-10.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 110: Withdrawing from the senses into the self](vbt-dharana-110.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 111: Knowledge and the known as one](vbt-dharana-111.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 112: Dissolution of mind, awareness, power and self](vbt-dharana-112.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 11: The mind within the skull, eyes closed](vbt-dharana-11.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 12: The central channel like a lotus fibre](vbt-dharana-12.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 13: Closing the sense-doors: the bindu between the brows](vbt-dharana-13.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 14: The bindu like a subtle spark, at the crest or in the heart](vbt-dharana-14.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 15: The unstruck sound (anāhata)](vbt-dharana-15.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 16: Uttering Oṃ and resting in the void at its end](vbt-dharana-16.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 17: The void before and after any sound](vbt-dharana-17.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 18: The fading sounds of stringed instruments](vbt-dharana-18.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 19: A seed-mantra dissolved into its subtle phases and the void](vbt-dharana-19.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 1: Fullness at the two points where the breath arises](vbt-dharana-1.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 20: The body as space in all directions at once](vbt-dharana-20.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 21: The voids above, at the root and in the heart](vbt-dharana-21.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 22: Voidness in a part of the body, for a moment](vbt-dharana-22.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 23: The body's substance pervaded by space](vbt-dharana-23.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 24: The skin as a wall with nothing within](vbt-dharana-24.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 25: The space of the heart-lotus](vbt-dharana-25.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 26: Dissolving the mind in the dvādaśānta](vbt-dharana-26.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 27: Casting the mind into the dvādaśānta at any time](vbt-dharana-27.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 28: One's own body burnt by the fire of time](vbt-dharana-28.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 29: The whole world burnt](vbt-dharana-29.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 2: The two voids at the turning points of the breath](vbt-dharana-2.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 30: Dissolving the tattvas into the subtler](vbt-dharana-30.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 31: The power, thick then thin, in the twelve and in the heart](vbt-dharana-31.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 32: The paths of the cosmos, gross to supreme](vbt-dharana-32.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 33: The Śiva-principle at the limits of the universe](vbt-dharana-33.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 34: The universe as void](vbt-dharana-34.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 35: Gazing into the space of a vessel](vbt-dharana-35.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 36: Gazing at open, empty space](vbt-dharana-36.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 37: The middle between two cognitions](vbt-dharana-37.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 38: Between leaving one object and taking up another](vbt-dharana-38.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 39: Body and world as consciousness](vbt-dharana-39.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 3: Suspension of the breath-power in the centre](vbt-dharana-3.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 40: The meeting of the two breaths](vbt-dharana-40.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 41: World and body filled with one's own bliss](vbt-dharana-41.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 42: The practice called kuhana](vbt-dharana-42.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 43: Closing the currents: the ant-like sensation](vbt-dharana-43.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 44: Between 'fire' and 'poison'](vbt-dharana-44.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 45: The joy of union as the joy of Brahman](vbt-dharana-45.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 46: The memory of sexual joy](vbt-dharana-46.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 47: The joy of reunion](vbt-dharana-47.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 48: The delight of eating and drinking](vbt-dharana-48.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 49: The joy of song and other sense-delights](vbt-dharana-49.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 4: Peace at the end of retention, exhalation or inhalation](vbt-dharana-4.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 50: Wherever the mind is satisfied](vbt-dharana-50.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 51: The threshold of sleep](vbt-dharana-51.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 52: Gazing at space lit by the sun or a lamp](vbt-dharana-52.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 53: The five mudrās: Karaṅkiṇī, Krodhanā, Bhairavī, Lelihānā, Khecarī](vbt-dharana-53.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 54: Sitting on one buttock with hands and feet unsupported](vbt-dharana-54.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 55: Arms curved, mind in the space of the armpits](vbt-dharana-55.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 56: An unmoving gaze on a gross object, then no support](vbt-dharana-56.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 57: Mouth open, mentally uttering 'ha'](vbt-dharana-57.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 58: The body as supportless while sitting or lying](vbt-dharana-58.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 59: A moving seat or slow swaying](vbt-dharana-59.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 5: The power rising like rays from the root to the dvādaśānta](vbt-dharana-5.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 60: The clear sky: gazing, and absorbing it into the head](vbt-dharana-60.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 61: Bhairava's form beyond partial knowing, light and darkness](vbt-dharana-61.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 62: The darkness of a moonless night](vbt-dharana-62.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 63: Closed eyes: the darkness in front as Bhairava](vbt-dharana-63.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 64: Obstructing a sense](vbt-dharana-64.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 65: Repeating 'a' without bindu or visarga](vbt-dharana-65.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 66: Awareness at the end of the visarga](vbt-dharana-66.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 67: The self as boundless space](vbt-dharana-67.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 68: Awareness joined to a point of sharp sensation](vbt-dharana-68.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 69: 'Within me there is no mind'](vbt-dharana-69.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 6: The power rising like lightning through the cakras](vbt-dharana-6.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 70: Contemplating the functions of māyā and the tattvas](vbt-dharana-70.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 71: Quieting a desire at its source](vbt-dharana-71.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 72: 'Who am I before desire or knowledge arises?'](vbt-dharana-72.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 73: Resting in desire or cognition as the self](vbt-dharana-73.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 74: Knowledge as groundless](vbt-dharana-74.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 75: The same consciousness in all bodies](vbt-dharana-75.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 76: Stillness in the grip of the passions](vbt-dharana-76.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 77: The world as a magic show or a painting](vbt-dharana-77.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 78: Neither in pain nor in pleasure: the middle](vbt-dharana-78.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 79: 'I am everywhere'](vbt-dharana-79.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 7: The twelve stages marked by twelve letters](vbt-dharana-7.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 80: Cognition and desire as present everywhere](vbt-dharana-80.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 81: Attentiveness to the relation of subject and object](vbt-dharana-81.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 82: Feeling awareness in others' bodies](vbt-dharana-82.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 83: The supportless mind](vbt-dharana-83.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 84: 'I am the omniscient, all-doing Lord'](vbt-dharana-84.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 85: The universe as my waves](vbt-dharana-85.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 86: Whirling until falling](vbt-dharana-86.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 87: When the mind's supports fail](vbt-dharana-87.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 88: The sampradāya: fixed eyes; closed ears and lower door](vbt-dharana-88.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 89: Looking down into a well or deep pit](vbt-dharana-89.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 8: Breaking through at the eyebrows to the crown](vbt-dharana-8.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 90: Wherever the mind goes, there is Śiva](vbt-dharana-90.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 91: Consciousness shining through each sense](vbt-dharana-91.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 92: Sneeze, fear, grief, flight, curiosity, hunger](vbt-dharana-92.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 93: Letting go of remembered objects and places](vbt-dharana-93.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 94: Slowly withdrawing the gaze from an object](vbt-dharana-94.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 95: The understanding born of intense devotion](vbt-dharana-95.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 96: The voidness of all else when one object is known](vbt-dharana-96.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 97: Purity and impurity](vbt-dharana-97.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 98: Bhairava in ordinary things](vbt-dharana-98.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 99: Equality toward friend and foe](vbt-dharana-99.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 9: The five voids like the eyes of a peacock's feather](vbt-dharana-9.md) — `skeleton`
