@@ -36,7 +36,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U21-natha-aghora | done | 4 lin · 42 src · 38 tch · 171 tea (115 ref-checked, 104 originals) · 115 trm · 83 cpt · 36 prc (11 restricted) · 7 dsp | report saved |
 | U22-tamil-siddha | done | 2 lin · 47 src · 37 tch · 157 tea (124 with originals from local e-texts) · 98 trm · 60 cpt · 26 prc · 6 dsp | report saved |
 | U23-sakta-srividya | running | | |
-| U24-kali-kaula | running | | |
+| U24-kali-kaula | done | 4 lin · 54 src · 20 tch · 116 tea (82 verse-checked) · 120 trm · 81 cpt · 27 prc (10 restricted) · 6 dsp | report saved |
 | U25-alvar-bhakti-theory | running | | |
 | U26-regional-bhakti | running | | |
 | U27-sant-baul | running | | |
@@ -45,7 +45,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U30-ayurveda-rasa | running | | |
 | U31-sound-arts | running | | |
 | U32-jyotisa | running | | |
-| U33-sramana | queued | | |
+| U33-sramana | running | | |
 | U34-jain-canon | queued | | |
 | U35-jain-philosophy | queued | | |
 | U36-pali-suttas | queued | | |
