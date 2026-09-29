@@ -5,5 +5,17 @@
  },
  "skeleton:U08-agama-catalogue": {
   "tch:laksmidhara": "tch:lolla-laksmidhara"
+ },
+ "skeleton:U33-sramana": {
+  "src:uvasagadasao": "src:upasakadasa",
+  "tea:uvasagadasao:6": "tea:upasakadasa:6",
+  "tea:uvasagadasao:7": "tea:upasakadasa:7",
+  "tea:uvasagadasao:7/2": "tea:upasakadasa:7/2"
+ },
+ "skeleton:U35-jain-philosophy": {
+  "dsp:kevali-bhukti": "dsp:kevalin-eats"
+ },
+ "skeleton:U34-jain-canon": {
+  "dsp:kevali-bhukti": "dsp:kevalin-eats"
  }
 }

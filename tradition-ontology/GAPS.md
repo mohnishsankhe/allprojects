@@ -29,3 +29,5 @@ Updated as the run proceeds. Three kinds of gap: (1) never written down, (2) wri
 - **Maitrī Upaniṣad** — only an OCR'd book (eBhāratī, Deccan College) is available locally; needs cleaning before extraction.
 
 - **Tamil Siddhar texts not in the local corpora** (reported by U22): Civavākkiyam, Pāmpāṭṭi, Iṭaikkāṭar, Akappēy, Tāyumāṉavar's songs, Tirumantiram tantras 4–9, the full 11th Tirumuṟai. Project Madurai has them (site blocked by the egress policy); to look for a GitHub mirror in Wave 2.
+
+- **CBETA Taishō coverage extended (2026-09-29):** T01–02 (Āgamas), T22–24 (Vinayas), T25–32 (Abhidharma, Madhyamaka, Yogācāra śāstras), T49–51 and T54 (histories, Vasumitra's doxography, travel records) added to the local CBETA sparse checkout, so the Chinese parallels U38 could not check are now checkable in Phase C/D.

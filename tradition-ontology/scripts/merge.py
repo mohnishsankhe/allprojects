@@ -44,7 +44,7 @@ NO_UNION = {"stages"}  # take from primary only (conflicts logged)
 UMBRELLAS = {"lin:vedanta", "lin:mahayana", "lin:sakta", "lin:jainism", "lin:sramana", "lin:mantramarga",
              "lin:atimarga", "lin:tantra-movement", "lin:early-buddhism", "lin:vajrayana", "lin:kashmir-saivism",
              "lin:chan", "lin:zen", "lin:sant", "lin:pure-land", "lin:kagyu",
-             "lin:regional-bhakti-poets", "lin:epic-teaching"}  # classificatory groupings, not independent roots
+             "lin:regional-bhakti-poets", "lin:epic-teaching", "lin:sthavira"}  # classificatory groupings, not independent roots
 
 conflicts, ilog_new = [], []
 NOW = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=5, minutes=30))).strftime("%Y-%m-%d %H:%M IST")

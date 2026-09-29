@@ -74,3 +74,8 @@ Conservative choices made without asking, with reasons. Newest last.
 ## 2026-09-29 16:17 IST — verification level of entities touched by text extraction
 - Fidelity checkers raise TEACHINGS to text-verified. Entity entries (terms, concepts, practices, …) are shared across units and carry several lineages' definitions, so an extraction chunk does not raise the whole entity: it adds a `verification.checks` record (phase D, method text, result confirmed/corrected) to the entry. The merge will show per-entity "checked against text by N chunks" without presenting other units' skeleton definitions as verified. (Proposed by the ch04-06 fidelity checker; adopted as the conservative choice.)
 - Gītā 4–6 text-verified: 124 teachings — 109 passed, 15 fixed, 0 failed. Pattern to watch in all chunks (for the misreading hunter): citta/cetas flattened to "mind", reflexive ātman read as "the self" (4.40 saṃśayātman), a paraphrase silently picking one commentator's construal (5.15 vibhu, 5.17 tad-ātman, 6.7 paramātmā).
+
+## 2026-09-29 16:28 IST — Jain duplicate ids (U33/U34/U35)
+- The Uvāsagadasāo had two ids: U33 `src:uvasagadasao` (Prakrit form) and U34 `src:upasakadasa` (the registry's Sanskrit pattern). Kept `src:upasakadasa`; U33's source and its three teachings (tea:uvasagadasao:6, :7, :7/2 → tea:upasakadasa:…) remapped via config/id_remap.json.
+- The debate on whether the kevalin eats had two ids: U34 `dsp:kevalin-eats` (the id the brief fixes) and U35 `dsp:kevali-bhukti`. Kept `dsp:kevalin-eats`; both units' references remapped, so the two sides lists union at merge.
+- U34's other shared ids (Mūlācāra, Bhagavatī Ārādhanā, Tiloyapaṇṇatti, Kundakunda commentaries, Ādipurāṇa, …) are the same ids as U35's and union at merge; no remap needed.

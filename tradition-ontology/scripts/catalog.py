@@ -16,7 +16,7 @@ INDEX = os.path.join(RAW, "catalog_index.jsonl")
 
 
 def norm(s):
-    """Normalize IAST / Harvard-Kyoto / ITRANS / plain spellings to a crude comparable key."""
+    """Normalize IAST / Harvard-Kyoto / ITRANS / plain spellings to a crude comparable key (CJK characters are kept)."""
     s = unicodedata.normalize("NFD", s)
     s = "".join(c for c in s if unicodedata.category(c) != "Mn")
     # HK/ITRANS capitals before lowercasing
@@ -27,8 +27,9 @@ def norm(s):
         s = s.replace(a, b)
     s = s.lower()
     s = re.sub(r"(upanishad|upanisat|upanisad|upanishat)", "upanisad", s)
-    s = re.sub(r"[^a-z0-9]+", " ", s).strip()
-    return s
+    s = re.sub(r"[^a-z0-9\u3400-\u9fff\uf900-\ufaff]+", " ", s).strip()
+    s = re.sub(r"([\u3400-\u9fff\uf900-\ufaff])", r"\1 ", s).strip()  # CJK: one token per character
+    return re.sub(r"\s+", " ", s)
 
 
 def iast_of(s):
@@ -75,8 +76,9 @@ def build():
     for f in glob.glob(os.path.join(RAW, "cbeta", "T", "**", "*.xml"), recursive=True):
         try:
             head = open(f, encoding="utf-8").read(4000)
-            m = re.search(r"<title[^>]*>([^<]+)</title>", head)
-            t = m.group(1) if m else os.path.basename(f)
+            m = re.search(r'<title level="m"[^>]*>([^<]+)</title>', head)
+            no = re.search(r"No\. (\w+)", head)
+            t = ((m.group(1) if m else os.path.basename(f)) + (f" T{no.group(1)}" if no else "")).strip()
         except Exception:
             t = os.path.basename(f)
         rows.append({"coll": "CBETA", "key": os.path.basename(f)[:-4], "title": t, "path": os.path.relpath(f, ROOT)})
