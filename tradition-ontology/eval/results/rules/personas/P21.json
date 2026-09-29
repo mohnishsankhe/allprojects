@@ -1,0 +1,69 @@
+{
+ "engine": "rules",
+ "created": 1790706816.847569,
+ "notices": [],
+ "citations": {},
+ "safety": {
+  "route": "stop_crisis",
+  "categories": [
+   "abuse"
+  ],
+  "model_checked": false,
+  "injection": false
+ },
+ "stopped": {
+  "title": "Let's pause here",
+  "body": "Thank you for telling us this. What you've shared matters more than any reading, so we're stopping the reading here. You deserve support from a person who can help right now. If you are in danger or might act on thoughts of harming yourself, please contact emergency services or one of the free services below. Reaching out is a strong thing to do.",
+  "resources": [
+   {
+    "region": "India",
+    "name": "Tele-MANAS (free, 24x7)",
+    "contact": "14416 or 1-800-891-4416"
+   },
+   {
+    "region": "India",
+    "name": "Emergency",
+    "contact": "112"
+   },
+   {
+    "region": "United States",
+    "name": "988 Suicide & Crisis Lifeline",
+    "contact": "call or text 988"
+   },
+   {
+    "region": "United States",
+    "name": "Emergency",
+    "contact": "911"
+   },
+   {
+    "region": "United Kingdom",
+    "name": "Samaritans",
+    "contact": "116 123"
+   },
+   {
+    "region": "United Kingdom",
+    "name": "Emergency",
+    "contact": "999"
+   },
+   {
+    "region": "Elsewhere",
+    "name": "Find a Helpline",
+    "contact": "findahelpline.com"
+   }
+  ],
+  "medical_emergency_line": "If this is a medical emergency, call your local emergency number now (112 in India and the EU, 911 in the US, 999 in the UK).",
+  "abuse_line": "If someone is hurting you or you are not safe, please contact local emergency services or a domestic violence helpline (in India, the Women Helpline 181; findahelpline.com lists others).",
+  "extra": [
+   "If someone is hurting you or you are not safe, please contact local emergency services or a domestic violence helpline (in India, the Women Helpline 181; findahelpline.com lists others)."
+  ]
+ },
+ "cost": {
+  "calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "cache_read_tokens": 0,
+  "cache_write_tokens": 0,
+  "cost_usd": 0.0,
+  "by_step": {}
+ }
+}

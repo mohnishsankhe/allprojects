@@ -87,8 +87,11 @@ def _route_for(flags: dict) -> str:
 def rule_screen(text: str, age: Optional[int] = None) -> SafetyResult:
     cats, inj = _compiled()
     flags: dict = {}
+    screened = text
+    for sp in rules().get("simile_exceptions") or []:      # similes such as "felt like being hit by a bus"
+        screened = re.sub(sp, " ", screened, flags=re.I)
     for cat, (_route, pats) in cats.items():
-        hits = [m.group(0) for p in pats for m in [p.search(text)] if m]
+        hits = [m.group(0) for p in pats for m in [p.search(screened)] if m]
         if hits:
             flags[cat] = hits
     if age is not None and age < 18:

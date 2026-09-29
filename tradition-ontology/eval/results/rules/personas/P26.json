@@ -1,0 +1,66 @@
+{
+ "engine": "rules",
+ "created": 1790706817.2437942,
+ "notices": [],
+ "citations": {},
+ "safety": {
+  "route": "continue",
+  "categories": [],
+  "model_checked": false,
+  "injection": false
+ },
+ "mapping_audit": {
+  "unmapped_reason": "no_entry_met_floor",
+  "rejected_by_code": {
+   "R_HYPOTHETICAL": 1,
+   "R_OTHER_PERSON": 1
+  },
+  "counter_only_entries": [],
+  "excluded_entries": [
+   "dx:klesa-avidya R_ENTRY_DENYLIST",
+   "dx:vrtti-pramana R_ENTRY_DENYLIST",
+   "dx:vrtti-viparyaya R_ENTRY_DENYLIST",
+   "dx:vrtti-vikalpa R_ENTRY_DENYLIST",
+   "dx:vrtti-nidra R_ENTRY_DENYLIST",
+   "dx:vrtti-smrti R_ENTRY_DENYLIST",
+   "dx:antaraya-vyadhi R_ENTRY_DENYLIST",
+   "dx:companion-duhkha R_ENTRY_DENYLIST",
+   "dx:companion-angamejayatva R_ENTRY_DENYLIST",
+   "dx:companion-svasa-prasvasa R_ENTRY_DENYLIST",
+   "dx:cittabhumi R_ENTRY_DENYLIST",
+   "dx:siddhi-upasarga R_ENTRY_DENYLIST",
+   "dx:gunatita R_ENTRY_DENYLIST",
+   "dx:gita-sthitaprajna R_ENTRY_DENYLIST",
+   "dx:sheath-annamaya R_KIND_NOT_MAPPABLE",
+   "dx:sheath-pranamaya R_KIND_NOT_MAPPABLE",
+   "dx:sheath-manomaya R_KIND_NOT_MAPPABLE",
+   "dx:sheath-vijnanamaya R_KIND_NOT_MAPPABLE",
+   "dx:sheath-anandamaya R_KIND_NOT_MAPPABLE",
+   "dx:vital-prana R_KIND_NOT_MAPPABLE",
+   "dx:vital-apana R_KIND_NOT_MAPPABLE",
+   "dx:vital-samana R_KIND_NOT_MAPPABLE",
+   "dx:vital-udana R_KIND_NOT_MAPPABLE",
+   "dx:vital-vyana R_KIND_NOT_MAPPABLE",
+   "dx:state-jagrat R_KIND_NOT_MAPPABLE",
+   "dx:state-svapna R_KIND_NOT_MAPPABLE",
+   "dx:state-susupta R_KIND_NOT_MAPPABLE",
+   "dx:state-turiya R_KIND_NOT_MAPPABLE",
+   "dx:gk-amanibhava R_ENTRY_DENYLIST",
+   "dx:katha-yoga-state R_ENTRY_DENYLIST",
+   "dx:fetter-sakkaya-ditthi R_ENTRY_DENYLIST",
+   "dx:fetter-ruparaga R_ENTRY_DENYLIST",
+   "dx:fetter-aruparaga R_ENTRY_DENYLIST",
+   "dx:fetter-avijja R_ENTRY_DENYLIST"
+  ]
+ },
+ "insufficient": "What you shared did not connect closely enough with a pattern the texts describe for us to say anything honest about it. If you like, add a few sentences about a recent situation: what happened, what went through your mind, and what you did next.",
+ "cost": {
+  "calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "cache_read_tokens": 0,
+  "cache_write_tokens": 0,
+  "cost_usd": 0.0,
+  "by_step": {}
+ }
+}
