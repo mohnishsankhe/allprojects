@@ -478,3 +478,14 @@ Conservative choices made without asking, with reasons. Newest last.
 - **Rebuild safety.** layers/_gen/practices/build.py now runs overrides → refresh_p1 → overrides. The overrides also restore the user_facing convention: false only for manual exclusion. A full rebuild reproduces the layer exactly, with 0 differences on 84 entries.
 - **Not added:** VBT 71/73 (resting in joy). No marker fits, and GK 3.45 and BhG 18.38 treat savouring pleasure the other way. YS 1.27–29 (Oṃ) and dharma-dhyāna (TS 9.27) are needs-teacher.
 - **Next:** a judge checks every gentle practice's steps against its cites, as part of the practice-safety gate.
+
+## 2026-09-30 00:01 IST — Practice-safety gate: first run FAIL (14 pass, 20 fix, 4 demote); fix loop started
+- The judge's verdicts are in eval/judge/practice_safety.jsonl and PRACTICE_SAFETY.md. The claims scan had 0 hits, and all durations are labelled as product defaults.
+- **Demotions, conservative, all to needs-teacher:** the texts themselves say these are learned from a teacher or good friend.
+  - KU 2.1.1 inward-turned gaze (KU 1.2.8–9);
+  - the ānāpānasati first tetrad (Vism VIII p.278);
+  - Vism IX loving-kindness;
+  - recalling the good in one who wronged you.
+- **Excluded until checked:** the four TS 9.6 "uttama" practices rest on Daśavaikālika 8.36–38, which is still skeleton. They are set user_facing false with manual_exclusion.
+- **Code fix** (insight/pathway.py): the no-diet exclusion now also catches taste, flavour, hunger, thirst, appetite, weight and body shape. Before, "taste" let TS 7.8 through for people flagged for disordered eating. Under that route 12 of 38 gentle practices are now excluded, most because their warnings mention eating or posture. That is the conservative result.
+- **Editorial fixes:** product notes are moved out of warnings (report.py prints every warning as the texts' own caution), and three misstated warnings and four step wordings are corrected. They are applied by layers/_gen/practices/judge_fixes.py so that a rebuild keeps them. The judge then re-checks only the failing entries.

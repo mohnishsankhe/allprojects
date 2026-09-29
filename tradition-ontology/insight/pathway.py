@@ -12,7 +12,9 @@ from typing import Optional
 from . import claims, ontology
 from .llm import LLMError, Ledger, ModelClient, wrap_user_text
 
-EXCLUDE_IF_NO_DIET = re.compile(r"\b(diet|fast(ing)?|food|eat(ing)?|meal|exercise|āsana|asana|posture|physical training|walk(ing)? meditation)\b", re.I)
+EXCLUDE_IF_NO_DIET = re.compile(r"\b(diet|fast(ing|s|ed)?|food|foods|eat(ing|s)?|ate|meal|meals|taste[sd]?|tasting|flavou?rs?|hunger|hungry|"
+                                r"thirst|appetite|weight|body[- ]?shape|exercise|āsana|asana|posture|physical training|"
+                                r"walk(ing)? meditation)\b", re.I)
 CONF_WEIGHT = {"high": 3.0, "moderate": 2.0, "low": 1.0}
 
 
