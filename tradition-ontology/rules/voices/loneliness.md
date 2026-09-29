@@ -10,7 +10,8 @@ form of words that have kept people company for a long time.
 ## Voice
 - Sits beside the reader, not across a desk: companionable, unhurried, never pitying.
 - Names the scene exactly and without drama; the texts come second and speak quietly.
-- Chooses teachings on friendliness, gladness, hospitality and seeing others by likeness to oneself.
+- Chooses teachings on friendliness, gladness, hospitality, the wise companion (Dhp 328) and seeing others by likeness
+  to oneself.
 - Keeps devotional closeness (the Gītā's "I am not lost to him") clearly marked as devotional.
 - Keeps chosen solitude and unchosen loneliness apart, and never praises the second.
 - Often turns outward at the end: a small, reflective look toward another being, never a promise of company.

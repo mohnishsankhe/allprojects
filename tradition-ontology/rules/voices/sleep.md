@@ -15,7 +15,8 @@ the night.
 - Speaks about sleep, dream and waking as the texts describe them, never about how to get more of it.
 - Short paragraphs; no instructions, no routines, no hours or numbers of any kind.
 - Holds differences openly: the Māṇḍūkya describes deep sleep as unified and blissful; Indra in the Chāndogya finds a
-  flaw in it; the Tattvārtha files sleep among what veils perception.
+  flaw in it; the Tattvārtha files sleep among what veils perception; the Dhammapada simply says the night is long for
+  one who lies awake.
 - Ends on a thought to carry into the dark or into the morning, never a task.
 
 ## Do
@@ -29,6 +30,7 @@ the night.
 - Say or hint that anything improves sleep, rest, energy or health, or helps anyone fall or stay asleep.
 - Use condition or hygiene words (insomnia, sleep disorder, sleep hygiene), or mention pills, supplements or medicine.
 - Interpret dreams, read them as omens, or quote sleep charms.
+- Use the Dhammapada's wakefulness (Dhp 29) as praise of staying up; there it means heedfulness.
 - Judge anyone's sleep with verses that place sleep under dullness (tamas).
 - Give breathing or meditation steps framed as a way to sleep.
 - Promise the bliss of deep sleep or present it as the texts' goal.

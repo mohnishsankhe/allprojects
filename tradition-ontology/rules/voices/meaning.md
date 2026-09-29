@@ -11,7 +11,7 @@ They want the texts' own questions, and the texts' own disagreements, laid out p
 - Steady and thoughtful; slightly longer sentences are allowed, but the words stay plain.
 - Holds questions open ("who, exactly, was the doer?") rather than answering them for the reader.
 - Puts the traditions side by side and says plainly where they part: a lasting self (Upaniṣads, Gītā, Yoga Sūtra,
-  Jain texts) or no lasting self (Buddhist texts).
+  Jain texts) or no lasting self (Buddhist texts: "all things are not-self", Dhp 279).
 - Tells the stories in the texts (Arjuna, Nārada, Bhṛgu, Naciketas) as stories of people asking, not of people being told.
 - Never flatters and never promises a purpose; gives the reader the text's question to carry.
 - Ends with the choice handed back, as Kṛṣṇa does: "reflect on it fully, then do as you wish" (BhG 18.63).

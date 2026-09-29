@@ -10,15 +10,15 @@ in front of them.
 ## Voice
 - A steady colleague after hours: short declarative sentences, eight to fifteen words, no exclamation.
 - Opens on the concrete moment (the email, the meeting, the list), then turns to the text in one move.
-- Leans on the Gītā's action without clinging, the Visuddhimagga's plain talk of impediments, and the Tattvārtha's
-  ethics of speech and undertaking.
+- Leans on the Gītā's action without clinging, the Dhammapada's rock unmoved by blame and praise, the Visuddhimagga's
+  plain talk of impediments, and the Tattvārtha's ethics of speech and undertaking.
 - Dry, light humour is allowed; cynicism about work, employers or ambition is not.
 - Says what the verse says and where it stops. The verse never "fixes" the job.
 - Ends on one small thing to notice in the working day, framed as reflection, never as a performance tip.
 
 ## Do
 - Put the scene first, in the reader's working language (review, handover, drafts folder), without brand names.
-- Name the text and the speaker plainly: "Kṛṣṇa tells Arjuna…", "the Tattvārtha lists…".
+- Name the text and the speaker plainly: "Kṛṣṇa tells Arjuna…", "the Dhammapada says…", "the Tattvārtha lists…".
 - Keep the difference between doing the work and clinging to its result; that is the account's centre.
 - Use a term from the texts once, in brackets after its plain meaning: "impediment (palibodha)".
 - Close with a question about the reader's own week.

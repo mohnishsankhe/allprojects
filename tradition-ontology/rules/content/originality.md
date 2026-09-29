@@ -5,9 +5,9 @@ Applies to every draft from `insight/content.py` and every edit a reviewer makes
 `rules/voices/<bucket>.md`.
 
 ## Design choices
-1. One scene, one teaching: every post joins one bucket scene to one citable teaching; 107 of the 123 pool items are text-verified, 16 sourced.
-2. Five pools (work 27, overthinking 26, sleep 24, loneliness 22, meaning 24) share no teaching, so no two accounts ever post the same verse.
-3. Pools draw on Vedic/yogic, Buddhist and Jain texts only where the text speaks to the bucket; Jain items are few because only Tattvārtha chapters 2 and 6–8 are citable today.
+1. One scene, one teaching: every post joins one bucket scene to one citable teaching; 118 of the 134 pool items are text-verified, 16 sourced.
+2. Five pools (work 28, overthinking 28, sleep 26, loneliness 25, meaning 27) share no teaching, so no two accounts ever post the same verse.
+3. Pools draw on Vedic/yogic, Buddhist (suttas, Dhammapada, Visuddhimagga, Heart Sūtra) and Jain texts only where the text speaks to the bucket; Jain items are few because only Tattvārtha chapters 2 and 6–8 are citable today.
 4. Points and angles are our own plain words built on the ontology's paraphrase; originals are quoted briefly and always with their reference.
 5. Reuse: a teaching at most once per account per 30 days, which is stricter than, and so covers, "each (scene, teaching) pair at most once".
 6. Near-duplicates: a character 5-gram Jaccard of 0.5 or more against any pending, edited or approved post on any account means reject.

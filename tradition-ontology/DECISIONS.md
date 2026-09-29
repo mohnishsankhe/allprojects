@@ -382,3 +382,16 @@ Conservative choices made without asking, with reasons. Newest last.
 - The random sample was 15 of 17 faithful. All 167 entries were checked individually: 22 teachings and 12 practices fixed. Examples: v.11, where Bhairava is the subject; indrajāla, a magic show; and wrong addressees at v.47 and v.58. Merged: text-verified teachings now number 2,303.
 - **v.26 is restricted as a precaution.** Its optatives with the breath-power as subject can be read as an instruction to stop the breath. It was the conservative choice, and the teaching and prc:vbt-dharana-3 both carry the flag; checked after the merge. v.24 and v.25 stay unrestricted: they describe the breath's pause and give no instruction to hold it.
 - **Never user-facing as claims:** the text's own statements of powers, of "no age and no death" (140–141) and of results "in days" (51, 107). The claims scan and the gentle-tier rule already block them. The practice layer takes only plain attention dhāraṇās, gentle by the tier rules.
+
+## 2026-09-29 23:11 IST — Content design (rules/content/, rules/voices/) accepted
+- **Buckets.** 5 buckets with 15 scenes each and 134 pool teachings, none shared between buckets. All 134 pass ontology.citable (118 text-verified, 16 sourced). Every scene, point and angle passes the claims scan and the generic-filler patterns.
+- **Kept out as possible promises:**
+  - from sleep: Dhp 296, 39 and 157; Vism 9.p305 (loving-kindness "sleeps in comfort"); BhG 14.8 and 18.39; all breath steps;
+  - from overthinking: the word "anxiety".
+- **BhG 3.35** (one's own duty) stays in the meaning pool. Its classical sense is stated, with a ban on using it to endorse caste.
+- **Reuse rule.** A teaching is used at most once per account in 30 days. This is stricter than a once-per-pair rule, and it is what the code enforces.
+- **Fixes the check exposed in the offline templates:**
+  - the short-video template was too short for its 110–160 spoken words. It now adds the ontology's own paraphrase and at most two fixed bridge sentences that make no claim;
+  - the carousel caption word limit is now checked by code.
+  All five formats pass rules_check on a 300-draft sample.
+- **AI-label reminders are general.** They were not checked against the current platform policies (no web access). originality.md makes the human reviewer check them at posting time.

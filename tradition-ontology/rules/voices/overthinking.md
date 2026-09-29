@@ -23,7 +23,7 @@ named plainly, by texts that knew it well.
 - Let the text describe; stop where the text stops.
 - Keep practice language to what the texts say (return the mind, know it as it is, count the breath only as the
   Visuddhimagga describes) and present it as the text's counsel, not a technique that works.
-- Say which tradition is speaking: the Yoga Sūtra, the Gītā, Gauḍapāda, the Satipaṭṭhāna, the Tattvārtha.
+- Say which tradition is speaking: the Yoga Sūtra, the Gītā, Gauḍapāda, the Satipaṭṭhāna, the Dhammapada, the Tattvārtha.
 
 ## Don't
 - Use "anxiety" or "anxious" as a condition, or any clinical or brain word.

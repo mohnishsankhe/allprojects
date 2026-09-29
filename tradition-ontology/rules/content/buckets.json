@@ -45,11 +45,6 @@
           "angle": "The verse asks for allotted work, not all the work there is. On a day of forty requests, that one word, allotted, is worth sitting with."
         },
         {
-          "tid": "tea:bhagavad-gita:3.19",
-          "point": "Always without attachment, do the work that has to be done, Kṛṣṇa says; acting unattached, a person reaches the highest.",
-          "angle": "The task list stays the same. What the verse changes is the grip: the work that has to be done, done without holding on to it."
-        },
-        {
           "tid": "tea:bhagavad-gita:4.20",
           "point": "Free of attachment to results, ever content, depending on nothing, such a person does nothing at all, the Gītā says, even while fully busy.",
           "angle": "A full calendar and an unclenched mind are not opposites in this verse. The busyness is outside; what it asks for is the not-clinging inside."
@@ -100,11 +95,6 @@
           "angle": "The raise, the title, the next target: the sutra does not put the highest happiness at the end of that list. It names contentment instead."
         },
         {
-          "tid": "tea:yoga-sutra:2.47",
-          "point": "Posture is mastered, the Yoga Sūtra says, by relaxing effort (prayatna-śaithilya) and by resting the mind on the endless.",
-          "angle": "Even the sitting posture of yoga is reached by easing effort, not piling it on. A line worth remembering at a desk held tight all day."
-        },
-        {
           "tid": "tea:visuddhimagga:3.p93/2",
           "point": "The Visuddhimagga names gain as an impediment (palibodha): a monk so busy receiving and thanking has no time for his real work.",
           "angle": "Even good things can crowd out what matters. The text's word is impediment: not a fault, just something that leaves no time."
@@ -128,6 +118,21 @@
           "tid": "tea:satipatthana-sutta:mn10:8",
           "point": "The Satipaṭṭhāna Sutta asks for clear knowing (sampajāna) in every ordinary act: going and returning, eating, speaking and keeping silent.",
           "angle": "The walk to the next meeting belongs to the practice in this sutta, not to the gap between tasks. It asks only for knowing the walk while it happens."
+        },
+        {
+          "tid": "tea:dhammapada:81",
+          "point": "As a solid rock is not shaken by the wind, the Dhammapada says, the wise are not moved by blame and praise.",
+          "angle": "Review week can bring both in one meeting. The verse does not ask for less of either; it describes a rock the wind goes round."
+        },
+        {
+          "tid": "tea:dhammapada:50",
+          "point": "Do not look for others' faults, the Dhammapada says, or at what they have done or left undone; look at your own deeds.",
+          "angle": "A colleague's missed deadline is easy to see from here. The verse turns the same attention around: what have I done, and left undone, today?"
+        },
+        {
+          "tid": "tea:dhammapada:227",
+          "point": "They blame the silent one, they blame the talkative, they blame even the moderate, the Dhammapada says; no one in the world escapes blame.",
+          "angle": "Speak up in the meeting and it is too much; stay quiet and it is too little. The verse calls this ancient, not just of today."
         },
         {
           "tid": "tea:tattvartha-sutra:6.6",
@@ -214,11 +219,6 @@
           "angle": "Two means, not one: coming back again and again, and not feeding the thing the mind keeps reaching for."
         },
         {
-          "tid": "tea:yoga-sutra:1.13",
-          "point": "Practice (abhyāsa), the Yoga Sūtra says, is the effort toward stability.",
-          "angle": "Practice here is not a score to hit. It is the effort to stay, and then to stay again after drifting off."
-        },
-        {
           "tid": "tea:yoga-sutra:1.32",
           "point": "To remove the mind's distractions, the Yoga Sūtra advises practice on a single principle (eka-tattva).",
           "angle": "When the mind runs down twelve paths at once, the sutra's counsel is one: choose a single thing and keep returning to it."
@@ -287,6 +287,21 @@
           "tid": "tea:satipatthana-sutta:mn10:34",
           "point": "The Satipaṭṭhāna asks one to know a scattered mind as scattered, and a collected mind as collected.",
           "angle": "No fixing in this line. Seeing the scattered mind as 'scattered' is itself the practice the sutta describes."
+        },
+        {
+          "tid": "tea:dhammapada:3",
+          "point": "'He abused me, he struck me, he defeated me, he robbed me': for those who harbour such thoughts, the Dhammapada says, enmity is not stilled.",
+          "angle": "The replayed insult has an old name here: harbouring. The verse does not say the wrong never happened; it says where the replay leads."
+        },
+        {
+          "tid": "tea:dhammapada:33",
+          "point": "The mind quivers, unsteady, hard to guard and hold back, the Dhammapada says; the discerning straighten it as a fletcher straightens an arrow.",
+          "angle": "The fletcher does not throw the bent shaft away. He works it straight, slowly, by hand. The verse gives the mind the same patience."
+        },
+        {
+          "tid": "tea:dhammapada:348",
+          "point": "Let go of the before, let go of the after, let go of the middle, the Dhammapada says, going beyond becoming, the mind freed everywhere.",
+          "angle": "Yesterday's conversation, tomorrow's meeting, this afternoon's worry: the verse names all three times and asks for the same letting go."
         },
         {
           "tid": "tea:visuddhimagga:8.p280",
@@ -473,6 +488,16 @@
           "angle": "The heavy hour after lunch is named here, not blamed. The sutta asks only for knowing: 'dullness and drowsiness are here.'"
         },
         {
+          "tid": "tea:dhammapada:60",
+          "point": "Long is the night for one awake, long the road for the weary, the Dhammapada says, and long the round of births for fools.",
+          "angle": "The verse knows the 3 a.m. hour: the night is long for the one lying awake. It says so plainly, then turns to a longer night, the round of births."
+        },
+        {
+          "tid": "tea:dhammapada:29",
+          "point": "Heedful among the heedless, wide awake among the sleeping, the wise one goes ahead, the Dhammapada says, like a swift horse leaving a weak one.",
+          "angle": "Its waking is heedfulness (appamāda), not staying up. The verse borrows the sleeping house to picture a mind that stays alert while others drift."
+        },
+        {
           "tid": "tea:tattvartha-sutra:8.7",
           "point": "The Tattvārtha lists kinds of sleep and drowsiness among the karmas that veil perception (darśana-āvaraṇa).",
           "angle": "The Jain text names the grades of sleep with care, from dozing to deep sleep, and files them all under what veils seeing. It describes; it does not scold."
@@ -486,7 +511,8 @@
         "Verses that place sleep under dullness (tamas), such as BhG 14.8 and 18.39, are not used to judge anyone's sleep or rest.",
         "Presenting deep sleep as the goal the texts point to, or promising the bliss the Māṇḍūkya describes.",
         "Breathing or meditation instructions framed as something to do in bed to get to sleep.",
-        "Any mention of sleeping pills, supplements or medicine, for or against."
+        "Any mention of sleeping pills, supplements or medicine, for or against.",
+        "Dhammapada verses on waking well or on the wakeful having no fear (Dhp 296, 39, 157) are not used: they speak of mindfulness and could be read as promises about sleep; Dhp 29 and 226 speak of heedfulness, never of staying up."
       ]
     },
     {
@@ -610,6 +636,21 @@
           "tid": "tea:anapanasati-sutta:mn118:8",
           "point": "The Buddha praises an assembly without chatter or idle talk, settled on what is essential: rare, and worth travelling far to see.",
           "angle": "The sutta's picture of good company is quiet: people gathered without chatter, settled on what matters, and praised as rare."
+        },
+        {
+          "tid": "tea:dhammapada:328",
+          "point": "If one finds a wise companion of good conduct, the Dhammapada says, one should go with them, glad and mindful, overcoming all dangers.",
+          "angle": "The verse sets a measure for company, not a number: one wise companion, walked with gladly. It says nothing about crowds."
+        },
+        {
+          "tid": "tea:dhammapada:76",
+          "point": "Attend on a wise person who points out one's faults, the Dhammapada says, as if pointing out hidden treasure; it goes better, not worse.",
+          "angle": "Friendship in this verse is not flattery. The friend it values is the one who tells the truth, and it calls that treasure."
+        },
+        {
+          "tid": "tea:dhammapada:305",
+          "point": "Sitting alone, sleeping alone, walking alone, unwearied, taming oneself alone, the Dhammapada says, one would find delight at the forest's edge.",
+          "angle": "This is chosen solitude, the monk's way, and the verse finds delight in it. It does not call unchosen loneliness the same thing."
         },
         {
           "tid": "tea:tattvartha-sutra:7.11",
@@ -759,6 +800,21 @@
           "tid": "tea:visuddhimagga:20.p633",
           "point": "Formations appear ever new and short-lived, the Visuddhimagga says: like a dewdrop at sunrise, a bubble on water, a line drawn on water.",
           "angle": "The old job, the old city, the person of ten years ago: the text's images are dew, bubble and a line on water. Short-lived, and ever new."
+        },
+        {
+          "tid": "tea:dhammapada:62",
+          "point": "'I have sons, I have wealth': so the fool frets, the Dhammapada says. Even oneself is not one's own; how then sons, how wealth?",
+          "angle": "A life described by what it holds: children, house, title. The verse asks a harder question: if even oneself is not one's own, what is?"
+        },
+        {
+          "tid": "tea:dhammapada:279",
+          "point": "'All things are not-self (anattā)': seeing this with wisdom, the Dhammapada says, one turns away from suffering; this is the path to purity.",
+          "angle": "Here the Buddhist texts part from the Upaniṣads outright. No lasting self is found, not even beneath the roles, and the verse calls that seeing a path."
+        },
+        {
+          "tid": "tea:dhammapada:276",
+          "point": "You yourselves must make the effort, the Dhammapada says; the Tathāgatas only declare the way.",
+          "angle": "No teacher, text or account can make the effort in someone else's place. The verse hands it back to the one reading."
         },
         {
           "tid": "tea:tattvartha-sutra:2.7",

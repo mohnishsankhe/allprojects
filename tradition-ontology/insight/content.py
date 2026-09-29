@@ -119,8 +119,7 @@ def rules_draft(bucket_id: str, fmt: str, scene_idx: int, item: dict) -> dict:
     elif fmt == "ig_carousel":
         parts = [scene, "An old text has a word for this.", point, f"Source: {src}", angle, close]
     elif fmt == "short_video":
-        parts = [f"[on screen: {scene}] {scene}", f"[on screen: {src}] There is an old text that says it plainly. {point}",
-                 f"{angle}", f"[on screen: {close}] {close}"]
+        parts = _short_video_parts(scene, point, angle, src, close, item["tid"])
     elif fmt == "long_video":
         c = ontology.citation(item["tid"])
         parts = [f"1. The scene: {scene}", f"2. The teaching: {point} ({src})",
@@ -134,6 +133,36 @@ def rules_draft(bucket_id: str, fmt: str, scene_idx: int, item: dict) -> dict:
     if fmt == "ig_carousel":
         body["caption"] = f"{scene} {point} {angle} Source: {src}."
     return body
+
+
+BRIDGES = ["Notice what the text does and does not say. It describes what happens in the mind; it promises nothing.",
+           "Read it slowly. It is not advice from outside you. It is a description you can check against your own day.",
+           "The old texts are often this plain. They name the thing, and leave the seeing to the reader."]
+
+
+def _words(t: str) -> int:
+    return len(re.sub(r"\[on screen:[^\]]*\]", "", t).split())
+
+
+def _short_video_parts(scene, point, angle, src, close, tid) -> list[str]:
+    """45–60 s script: 110–160 spoken words (on-screen cues excluded), built only from the pool item and the
+    ontology's own paraphrase, plus one fixed bridge sentence that makes no claim."""
+    c = ontology.citation(tid)
+    head = [f"[on screen: {scene}] {scene}", f"[on screen: {src}] There is an old text that says it plainly. {point}"]
+    tail = [angle, f"[on screen: {close}] {close}"]
+    body, n = [], _words(" ".join(head + tail))
+    for sent in re.split(r"(?<=[.!?])\s+", c.get("paraphrase") or ""):
+        if sent and n + len(sent.split()) <= 150:
+            body.append(sent)
+            n += len(sent.split())
+        if n >= 115:
+            break
+    parts = head + ([f"Here is what the passage says, closely: {' '.join(body)}"] if body else []) + tail
+    b = int(hashlib.sha1(tid.encode()).hexdigest(), 16) % len(BRIDGES)
+    while _words(" ".join(parts)) < 110 and b < len(BRIDGES) * 2:
+        parts.insert(-1, BRIDGES[b % len(BRIDGES)])
+        b += 1
+    return parts
 
 
 def _ai_label(fmt: str) -> str:
@@ -198,6 +227,8 @@ def rules_check(store, body: dict) -> dict:
         problems.append("a part is over the character limit")
     if lim.get("max_words_per_part") and any(len(p.split()) > lim["max_words_per_part"] for p in body["parts"]):
         problems.append("a slide is over the word limit")
+    if lim.get("caption_max_words") and len((body.get("caption") or "").split()) > lim["caption_max_words"]:
+        problems.append("caption over the word limit")
     if lim.get("total_words"):
         w = len(re.sub(r"\[on screen:[^\]]*\]", "", " ".join(body["parts"])).split())
         if not (lim["total_words"][0] <= w <= lim["total_words"][1]):
