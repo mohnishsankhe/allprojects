@@ -58,8 +58,50 @@ def teachings() -> dict:
     return out
 
 
+def _parse_ref(ref: str):
+    """'1.2.1' -> ((1,2,1),(1,2,1)); '1.3.5-9' -> ((1,3,5),(1,3,9)); '2.8.1-5' likewise; None if not numeric."""
+    import re as _re
+    m = _re.fullmatch(r"((?:\d+\.)*)(\d+)(?:-(\d+))?", ref or "")
+    if not m:
+        return None
+    head = tuple(int(x) for x in m.group(1).split(".") if x)
+    a = int(m.group(2))
+    b = int(m.group(3)) if m.group(3) else a
+    return head + (a,), head + (b,)
+
+
+@lru_cache(maxsize=1)
+def _by_slug() -> dict:
+    out = {}
+    for t in teachings().values():
+        slug, _, ref = t["id"][4:].partition(":")
+        rr = _parse_ref(ref)
+        if rr:
+            out.setdefault(slug, []).append((rr, t["id"]))
+    return out
+
+
+def _covering(tid: str) -> Optional[dict]:
+    """Best verified teaching of the same source whose ref range covers a verse-level ref (mechanical, never cross-source)."""
+    slug, _, ref = tid[4:].partition(":")
+    want = _parse_ref(ref)
+    if not want or want[0] != want[1]:
+        return None
+    best = None
+    for (lo, hi), cand in _by_slug().get(slug, []):
+        if len(lo) == len(want[0]) and lo[:-1] == want[0][:-1] and lo[-1] <= want[0][-1] <= hi[-1]:
+            t = teachings()[cand]
+            if t["level"] in CITABLE_LEVELS and not t["retired"]:
+                span = hi[-1] - lo[-1]
+                if best is None or span < best[0]:
+                    best = (span, t)
+    return best[1] if best else None
+
+
 def teaching(tid: str) -> Optional[dict]:
     t = teachings().get(tid)
+    if t is None or (t["level"] not in CITABLE_LEVELS and not t.get("superseded_by")):
+        t = _covering(tid) or t
     # follow a superseded skeleton entry to the verified entry that replaced it
     seen = set()
     while t and t.get("superseded_by") and t["superseded_by"] not in seen:
@@ -151,5 +193,5 @@ def table(name: str):
 
 
 def reset_caches() -> None:
-    for f in (sources, restricted_practices, teachings, diagnosis, practices, table):
+    for f in (sources, restricted_practices, teachings, _by_slug, diagnosis, practices, table):
         f.cache_clear()
