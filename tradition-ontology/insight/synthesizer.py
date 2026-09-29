@@ -318,7 +318,8 @@ def rules_synthesis(maps: list[dict]) -> dict:
     rec_diffs = _self_question(maps) + rec_diffs
     names = [f"{m['name']}, in the {m['lens_label']} texts" for m in maps]
     summary = ("You described " + ("a pattern" if len(maps) == 1 else f"{len(maps)} patterns")
-               + " that the texts name: " + "; ".join(names) + ". Each is shown below with your own words and the texts' description.")
+               + " that the texts name: " + "; ".join(names) + ". " + ("It is" if len(maps) == 1 else "Each is")
+               + " shown below with your own words and the texts' description.")
     return {"summary": summary, "lenses": lenses, "reconciliation": {"points": rec_points, "differences": rec_diffs[:6]}}
 
 
