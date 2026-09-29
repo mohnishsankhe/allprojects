@@ -163,4 +163,11 @@ print('gentle user_facing:', report['gentle_user_facing'])
 print('errors:', len(errors), '| warnings:', len(warnings))
 for x in errors: print('ERR', x)
 for x in warnings: print('WARN', x)
+if not errors:
+    # the P1 refresh (new texts) and the orchestrator overrides must survive every rebuild
+    import subprocess as _sp
+    for _f in ("overrides.py", "refresh_p1.py", "overrides.py"):
+        _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _f)
+        if os.path.exists(_p):
+            _sp.run([sys.executable, _p] + (["--write"] if _f == "refresh_p1.py" else []), check=True)
 sys.exit(1 if errors else 0)

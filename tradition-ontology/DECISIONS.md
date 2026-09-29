@@ -466,3 +466,15 @@ Conservative choices made without asking, with reasons. Newest last.
   - "ill will", "good will" and "free will" are nouns, not the hypothetical modal.
 - **Tried and reverted:** a small near-synonym table (e.g. attention → mind). Developer recall fell and a self-test broke.
 - **Known limit.** The rules engine matches words, not meaning: "my attention wanders" shares only one stem with "my mind wanders off", which is corroboration only. Paraphrase is the model engine's job, through its blind recheck. The offline engine will therefore say "not enough to connect" more often. That is honest, and the release report will state the rate.
+
+## 2026-09-29 23:46 IST — Practice layer refresh: 30 new entries; the VBT is never "gentle"
+- **Added from the newly verified texts:**
+  - vedic-yogic: VBT attention dhāraṇās, YS 1.37 and 1.39, BhG 17.15;
+  - Buddhist: Dhp 21–27, 33–36, 3–5, 231–234 and 50/252; Vism IX recalling the good in one who wronged you;
+  - Jain: the TS 9.7 reflections, 7.5, 7.8, 7.9–10, and noticing ārta (9.30–34).
+- **Repaired:** YS 1.12, 1.32, 1.33 and 2.33 cited Vyāsa on 2.1, which is restricted because it glosses tapas. They now cite YS 1.14.
+- **Orchestrator override** (layers/_gen/practices/overrides.py): every Vijñāna Bhairava practice is needs-teacher, not gentle. The text itself says its teaching is to be kept secret and given only within the teacher's circle (VBT 157–159), and the conservative reading respects that rule of transmission. 7 entries were changed.
+- **Result:** 69 usable practices, **38 of them gentle**, across all three lenses.
+- **Rebuild safety.** layers/_gen/practices/build.py now runs overrides → refresh_p1 → overrides. The overrides also restore the user_facing convention: false only for manual exclusion. A full rebuild reproduces the layer exactly, with 0 differences on 84 entries.
+- **Not added:** VBT 71/73 (resting in joy). No marker fits, and GK 3.45 and BhG 18.38 treat savouring pleasure the other way. YS 1.27–29 (Oṃ) and dharma-dhyāna (TS 9.27) are needs-teacher.
+- **Next:** a judge checks every gentle practice's steps against its cites, as part of the practice-safety gate.

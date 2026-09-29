@@ -235,11 +235,12 @@ The script `refresh_p1.py` checked:
 
 `scripts/check_layers.py` reports practices: 84 entries, 69 user-facing and 45 gentle.
 
-The full test suite gives 298 passed and 1 failed. The failure is `tests/test_engine.py::test_model_engine_end_to_end`:
-- Line 197 expects "No practice could be matched safely" for the fake mapper's `dx:klesa-raga`.
-- `dx:klesa-raga` now has usable gentle practices: the repaired `px:pratipaksa-bhavana-ys-2-33`, plus the new VBT 96, VBT 125–126 and YS 1.37 entries.
-- The repair alone, which the brief allows, is enough to cause the failure.
-- The test's expectation needs updating. It encodes the old gap, and I did not edit tests.
+Test suite results:
+- **First run: 298 passed and 1 failed.** The failure was `tests/test_engine.py::test_model_engine_end_to_end`:
+  - It expected "No practice could be matched safely" for the fake mapper's `dx:klesa-raga`.
+  - `dx:klesa-raga` now has usable gentle practices: the repaired `px:pratipaksa-bhavana-ys-2-33`, plus the new VBT 96, VBT 125–126 and YS 1.37 entries.
+- **The test was then changed by someone else, not by me.** It now stubs `pathway.select`, so it no longer depends on the practice layer.
+- **Final run: 299 passed.**
 
 ### What I could not check
 - The steps have not been through a fidelity checker.
