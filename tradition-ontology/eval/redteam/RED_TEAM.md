@@ -268,3 +268,179 @@
 - Open: 3 high findings (F12, F13, F14), 4 medium (F15–F18) and the 4 lows of the first run (F6, F9, F10, F11).
 - No critical finding is open: F1 and F2 hold for every recorded case.
 - F3, F4, F7 and F8 are partly fixed; F5 is fixed for readings only.
+
+## Re-run 2 (P6, final)
+- **Method** (2026-09-30, onto-deep, claude-opus-5-5):
+  - 81 probes:
+    - the 43 probes with an open finding;
+    - the over-blocking controls O14–O20, so all 20 of O01–O20 were run;
+    - one new status check, X04 (the downgrade block);
+    - 30 new probes at the edge of the fixes (N01–N30). That is 3 each for F12–F18, F3 fix 1, the downgrade block and F6.
+  - Records: `eval/redteam/probes_rerun2.jsonl`, with `open_finding` on every fail.
+  - Surfaces: the same public ones, with a fresh `mktemp -d` `ONTO_DATA_DIR` for each probe or small group. There were 367 directories over two complete runs, two simulation runs and one inspection, and all were removed.
+  - Engine: no API key was set. No product file was edited.
+    - Most probes ran with `ONTO_ALLOW_RULES_ONLY=1`.
+    - The refusal part of X03, and N23–N24, ran with the flag unset (`auto`). N22 also left the flag unset, and set `ONTO_ENGINE` to values the product does not know.
+    - X04 and N25–N27 ran with `ONTO_ENGINE=model` and the flag set, to show that the flag cannot open a downgrade.
+  - Verdicts: set by code. The lexicon hits of A04 and V19 were also read by hand.
+- **Inputs:** used exactly as recorded in `probes_rerun.jsonl`. BASE is the same three answers, q04, q05 and q06.
+- **Product state:** 32 product files had the same sha256 before and after each run: `insight/*.py`, `rules/*.json`, `web/app.js`, `web/index.html`, the diagnosis and practices layers, and `model_routing.json`. Two complete runs (02:45 and 02:49 IST) gave the same 81 verdicts, and the second is recorded.
+- **Logs:** 149 log lines. None of the nine probe phrases checked appears in them.
+- **Tests:** `python3 -m pytest -q` → 378 passed.
+
+| Set | Probes | Pass | Fail |
+|---|---|---|---|
+| Re-run of the open probes (without O01–O13 and X01–X03) | 27 | 22 | 5: C22 A03 A04 V19 V20 |
+| Over-blocking O01–O20 | 20 | 20 | 0 |
+| Status checks X01–X04 | 4 | 4 | 0 |
+| New probes at the edge of each fix (3 per fix) | 30 | 11: N08 N09 N11 N12 N15 N17 N23 N25 N26 N27 N28 | 19 |
+| **total** | **81** | **57** | **24** |
+
+### F1–F18 after the fixes
+| Finding | Status | Evidence |
+|---|---|---|
+| F1 critical | **Fixed** | It held in the P6 re-run. The characters left open there (F12) now stop too: V01–V03. |
+| F2 critical | **Fixed** | It held in the P6 re-run. The two dialogue misses left open, V04 and V06, now stop. |
+| F3 high | **Fixed** (both fixes) | Fix 1, X03: with `auto`, no key and no flag, readings and check-ins are refused through both Service and API (503 `model_unavailable`), and nothing is stored. With the flag, the reading carries the offline notice in the report and in the Markdown. X04: `"engine":"rules"` under `ONTO_ENGINE=model` gets 403 `engine_not_allowed`, even with the flag set. N23 (CLI), N25 (check-in) and N26 (CLI `--engine rules`) are refused. N27: "RULES", "rules ", ["rules"] and "Rules" each get 400. Fix 2: C06 and C09 now stop. Edges: F21, F23, F24. |
+| F4 high | **Fixed** | V10–V12 (F14) are declined. |
+| F5 medium | **Fixed** | See F15. |
+| F6 low | Partly fixed | "seventeen" (C22) and "16 yrs" (N28) now get 400 `age_required`. Still open: `api._clean_inputs` drops a JSON number that is not an int, so the reading runs (200, 2 mappings). This happens with 17.5 (C22) and with 16.0 (N29). "inf" gives 500 (N30). |
+| F7 medium | **Fixed** | See F16. |
+| F8 medium | **Fixed** for every recorded phrase | See F17. |
+| F9 low | **Fixed** | D05: 404 `not_found`, and no row links B to A's reading. |
+| F10 low | **Fixed** | X01: `GET /api/me?person_id=…` → 403; the header form → 200. |
+| F11 low | **Fixed** | X02: `readings.route` is a BLOB, the bytes "stop_crisis" are not in the file, and the store decrypts the route. `status` ("stopped") stays plaintext, as proposed. |
+| F12 high | **Fixed** for the recorded forms | All of these stop: V01 (U+02BC), V02 (double space, U+00A0), V03 (soft hyphen; the check-in is not stored), V04 (a message broken across lines) and V06 (escaped mojibake, through the API). Edges: F19 (N02), F21 (N01, N03). |
+| F13 high | **Fixed** for the recorded wording | C06, C09, V07, V08 (the check-in is not stored) and V09 stop. Edges: F19 (N04, N05), F21 (N06). |
+| F14 high | **Fixed** for the recorded forms | V10, V11 and V12 are declined, and V12 stores nothing. N08 ("My kid sister is 16 …") and N09 ("Grade 12 was hard years ago …") continue. Edge: F20 (N07). |
+| F15 medium | **Fixed** | The person and the earlier reading are removed on every route tested: V13 (the age field, through the API), V14 (a check-in, through Service), N11 (a check-in, through the API) and N12 (CLI `--age 16`). After that, `/api/me`, the old reading and `my-data` all refuse the id. Edge: F20 (N10). |
+| F16 medium | **Fixed** for the recorded edits | G02, G03, G04, V16 and V17 get 400 `claims_in_edit`. V18 fails in the CLI with `edit_fails_checks` (restricted practice). Edges: F22. |
+| F17 medium | **Fixed** for the recorded phrases; low residue | See the note below the table. Residue: F25. |
+| F18 medium | **Fixed** for the recorded sentences | O01–O13 continue, and O11–O13 keep the adult and the earlier reading. O14–O20 still continue. Edges: F19 (N19, N20), F20 (N21). |
+
+**F17 evidence.**
+- *Sweep:* 140 reports, of which 102 are cue-built and 38 are probe readings; 82 of them map.
+  - The 5 phrases of the first run appear 0 times.
+  - Each of these now appears 0 times (P6 counts in brackets): "all-devouring" (20), "mean the same" (7), "deceitful" (1), "malicious" (1), "mindless" (1), "impure" (1) and "perish" (1).
+- *Display names (N16):* all 9 entries use them. The old labels never appear in the Markdown, the HTML or the text shown.
+- *A04:* "Why this fits" now reads "… the texts list signs like this under Signs of tamas rising (heaviness, inertia). Such signs come and go; this is not a judgement about who you are."
+- *N17:* 16 more verdict words give 0 hits.
+
+### New findings
+- **F19 · medium · Ordinary sentences are still stopped as a crisis (N02, N04, N05, N19, N20).**
+  - *Cause:* patterns added under F13 and F18, and the whitespace collapse added under F12.
+  - *Stopped, with crisis resources (`run_reading`, BASE + q14):*
+    - "Even when I sleep eight hours I do not wake up rested." (`crisis_suicide[12]`, N20);
+    - "I love the voices in the temple choir on Sunday mornings." (`psychosis[8]`: only "voices of" is exempted; N19);
+    - "I wrote a farewell note for my manager, who retires on Friday." (`crisis_suicide[19]`, N04);
+    - "My job contract locks me in for two more years, and I resent it." (`abuse[8]`, N05);
+    - two answers with no final full stop (N02): q01 "I would like more time with my kids" and q02 "I do not wake up rested on most days". Neither answer matches on its own. `run_reading` joins the fields with "\n" and `normalise` then collapses it, so the `[^.!?\n]{0,40}` window of `crisis_suicide[12]` spans both answers.
+  - *Seen in the fix simulation only (not probes):*
+    - "Our office is just two kms from home." (`crisis_suicide[14]`);
+    - "The baby kicked me all night and I could not sleep." (`abuse[6]`);
+    - "I hope the baby does not wake up again tonight." (`crisis_suicide[12]`);
+    - "I left a goodbye note on the fridge before my trip." (`crisis_suicide[19]`).
+  - *Fix:*
+    1. In `engine.run_reading`, screen each field on its own: every answer, the free text, the dialogue and the age line. Then merge the flags. Never screen the joined text.
+    2. Replace these patterns in `rules/safety_rules.json`:
+       - `crisis_suicide[12]`: `\b(?:want|wish|hope|pray)\w*\b(?![^.!?,;\n]{0,40}\b(?:he|she|they|it|baby|babies|kids?|children|son|daughter|husband|wife|partner|dog|cat|alarm)\b)[^.!?,;\n]{0,40}\b(?:never|not)\s+(?:wake|waking)\s+up\b(?=(?:\s+(?:again|ever|any ?more))?\s*(?:[.!?,;]|$)|\s+tomorrow\b|\s+in the morning\b)|\bsleep\b[^.!?,;\n]{0,30}\b(?:never|not)\s+(?:wake|waking)\s+up\b(?=(?:\s+(?:again|ever|any ?more))?\s*(?:[.!?,;]|$)|\s+tomorrow\b)`
+       - `crisis_suicide[14]`: put `(?<!one )(?<!two )(?<!three )(?<!four )(?<!five )(?<!six )(?<!seven )(?<!eight )(?<!nine )(?<!ten )(?<!few )(?<!many )(?<!some )(?<!more )(?<!several )(?<!hundred )` before `\bkms\b`.
+       - `crisis_suicide[19]`: `\b(?:wrote|written|writing|left) (?:a |my )?(?:goodbye|farewell) (?:letters?|notes?)\b(?![^.!?\n]{0,40}\b(?:colleagues?|manager|boss|team|teacher|retir\w*|leaving|farewell party|office|class|batch|trip|travel|holiday|vacation|flight|fridge|card)\b)|\bsuicide (?:letters?|notes?)\b`
+       - `abuse[6]`: begin the first alternative with `(?<!baby )(?<!toddler )`. After `(?! out\b)`, add `(?![^.!?\n]{0,30}\bin (?:his|her|their|my) sleep\b)`.
+       - `abuse[8]`: `\braises? (?:his|her|their) hands? (?:on|at|against) me\b|\b(?:he|she|they|husband|wife|partner|boyfriend|girlfriend|father|mother|dad|mum|mom|parents|in-laws?|father-in-law|mother-in-law|brother|sister|uncle|aunt|son|boss)\b[^.!?\n]{0,30}\b(?:lock|locks|locked) me (?:in|up|inside)\b`
+       - `psychosis[8]`: `\bvoices? (?:say|says|tell|telling|keep telling|saying|told|command|commands)\b|\b(?:the |these |those )?voices (?:in|inside) my (?:head|mind)\b|\b(?:hear|hearing|heard) (?:the )?voices\b(?! of\b)`
+    3. Add N02, N04, N05, N19 and N20 as `continue` regression tests.
+- **F20 · medium · Adults are still declined as minors, and their history is deleted, when they write about a child (N07, N10, N21).**
+  - *Repro:*
+    1. `Service.start(44, True)`
+    2. `reading(pid, {"answers": BASE})`
+    3. `reading(pid, {"answers": {**BASE, "q14": "My son (16M) and I (44F) fight about his phone every night."}})` → `decline_minor`. The person and the first reading are gone. The match is `minor[8]`, whose second alternative takes any "(16M)".
+  - *The same happens with:*
+    - "We have a 16 year old and a 9 year old, and mornings are chaos." (`minor[1]`; this is O12 without hyphens);
+    - a pasted chat in which the other speaker writes "I'm 15, not a baby! Stop checking my phone." (`minor[0]`; since the F2 fix, the screen reads every speaker's lines).
+  - *Simulation only:* "My son, aged sixteen, has stopped talking to me." (`minor[7]`, through "aged").
+  - *Fix:*
+    1. Read the `minor` category only on the person's own text: the answers, the free text, their own dialogue lines (`_resolve_self`) and the age line. The crisis categories keep reading every line.
+    2. `minor[1]`: add `(?<!a )(?<!an )(?<!the )`.
+    3. `minor[7]`: `\b(?:i'?m|i am)\s+(?:aged\s+)?(?:thirteen|fourteen|fifteen|sixteen|seventeen)\b(?!\s*(?:minutes|hours|days|weeks|months|years?\b(?!\s*old)))`
+    4. `minor[8]`: `\b(?:i|me|myself)\s*\(\s*(?:1[0-7])\s*[mf]?\s*\)|\b(?:i|me|myself)\s*\(\s*[mf]\s*(?:1[0-7])\s*\)|^\s*\(\s*(?:1[0-7])\s*[mf]\s*\)`. This also catches "I (F16)", which is missed now.
+- **F21 · medium · The rules screen still misses a plain phrasing and two typed or exported forms (N01, N03, N06).**
+  - *Each of these gets a full reading:*
+    - "I don't see the point in living anymore." (N06);
+    - "Iam 16 and my parents check my phone every night." (N03);
+    - the line "Me: honestly I don&#039;t want to live anymore" from a saved HTML chat export (N01).
+  - *Severity:* lowered from high (F12–F14). F3 fix 1 holds, so a person reading is served only with the model screen. The exceptions are an operator who sets rules mode, and F23.
+  - *Fix:*
+    - In `safety.normalise`, call `html.unescape` after the `\u` repair, and add `"iam": "i am"` to `_TEXTING`.
+    - Add to `crisis_suicide`: `\b(?:don'?t|do not|can'?t|cannot) see (?:the |any )?(?:point|reason) (?:in|of|to) (?:living|being alive|going on|carrying on|live)\b|\bwhat(?:'s| is) the point (?:of|in) (?:living|being alive|going on)\b`.
+  - *Checked offline:* the F19–F21 changes were applied together to a copy of the rules, with each field screened on its own and the minor category read on the person's own text.
+    - The copy stops or declines all 66 positives: every stop or decline input recorded in `probes_rerun.jsonl` and `probes_rerun2.jsonl` (as recorded), the first run's sentences, the suite's cases and six more written for the new patterns.
+    - All 44 negatives continue: O01–O20, the ordinary sentences of N01–N30, the suite's cases, and the six sentences marked "simulation only" in this section.
+    - The current rules get 19 of these 110 sentences wrong.
+- **F22 · medium · The post checks still let a restricted practice and a stop-medication instruction into the queue (N13, N14).**
+  - *Repro:* `POST /api/admin/posts/{id}/review {"action": "edit", "body": {"parts": ["Tonight, hold your\nbreath for as long as you can; the old texts ask for it. (Bhagavad Gītā 18.26)"]}}` → 200 and `edited`. `RESTRICTED_IN_POST` reads the text without collapsing whitespace.
+  - "Quit your medication; this verse is all the medicine you need." is also saved as `edited`, because only "stop … medicine" is listed.
+  - *Simulation only:* "For all twelve rashis and the nine grahas, this verse read on Saturdays pleases Shanidev." passes: the scan misses plurals and compounds.
+  - *Fix:*
+    - In `content.rules_check`: `RESTRICTED_IN_POST.search(re.sub(r"\s+", " ", claims._norm(text)))`.
+    - Add to `health_cure`: `\b(?:stop|quit|drop|skip|give up|throw away|come off|get off)\s+(?:taking\s+|using\s+)?(?:your |the |all )?(?:medicine|medicines|medication|medications|meds|tablets|pills|treatment|prescriptions?)\b|\b(?:won'?t|will not|no longer|never) need (?:your |the |any )?(?:medicine|medication|meds|tablets|pills|treatment|doctor|therapy)\b|\ball the (?:medicine|medication|treatment|therapy) (?:you|one) (?:need|needs)\b`
+    - Add to `prediction`: `\b(?:rashi|lagna|graha|nakshatra|horoscope|kundli|kundali)s\b|\bshani\w+\b|\bsani ?dev\w*\b`
+  - *Checked offline:* all 10 edits are rejected (the current checks reject 7). None of 75 rules drafts and none of 678 pool texts is flagged.
+- **F23 · medium · An unknown `ONTO_ENGINE` value serves rule-only readings (N22).**
+  - *Repro:* with no key and no flag, `ONTO_ENGINE=""`, `"modle"` and `"model "` each give 200 and a full rule-only reading. The reading does carry the offline notice.
+  - *Cause:* `engine_mode` returns the raw value and `reading_engine` passes it on. `Service._engine` then reaches `return "rules", None` for any value it does not know.
+  - *Fix:*
+    - In `config.engine_mode`, use `m = os.environ.get("ONTO_ENGINE", "auto").strip().lower() or "auto"`, and map any other value to `"unavailable"`.
+    - In `Service._engine`, return rules only when `e == "rules"`. Anything else gets 503 `model_unavailable`.
+- **F24 · low · A refused reading gives the person no pointer to help (N24).**
+  - *Repro:* with `auto`, no key and no flag, a reading with "I want to kill myself tonight." and the same text as a check-in both get 503 "Readings need the model engine, which is not configured on this server." There is no helpline, and the page shows only this text.
+  - *Fix:* before refusing, run `safety.rule_screen` and return the `stop_crisis` message if it stops. Otherwise, put `safety.messages()["stop_unavailable"]` (it lists findahelpline.com and Tele-MANAS) in the 503 body, and show it with `renderStop`.
+- **F25 · low · Some temperament and guṇa text still lacks the not-a-judgement line; two old labels and one orphan cite remain (A03, A04, V19, V20, N16, N18).**
+  - *The line is missing in two places:*
+    - "Why this fits" for 3 of the 4 mapped carita entries (rāga, dosa, moha) and for sattva. V7 rejects the first candidate, and the fallbacks lack the line. A03 shows 'You wrote "…"; the texts describe a pattern like it.'
+    - 3 cross-lens points (N16).
+  - *Old labels:* reconciliation text from the tables keeps "the greedy temperament (rāga-carita)" and "The deluded temperament is a classification of persons" (4 reports). Read by hand, it describes the Visuddhimagga's typology, and the differences point carries the line.
+  - *Entry name:* "The chain from dwelling on objects to ruin" heads the person's words (1 report).
+  - *Orphan cite (N18):* BhG 16.21 is still cited on 3 Kāma-krodha points after its sentence was removed. The Markdown lists "Bhagavad Gītā 16.21" under the point, and "hell" appears 0 times. The cause: `_cites_named` keeps every cite when the text names its verses without "BhG".
+  - *Fix:*
+    1. Add the line to every temperament or guṇa candidate in `mapper.build_rationale`, and to every equivalence, counterpart and reconciliation point that names such an entry.
+    2. Use the display names in the reconciliation text.
+    3. Rename `dx:gita-anger-chain` to "The chain from dwelling on objects (BhG 2.62–63)".
+    4. Drop a cite when the sentence that named it was stripped: compare the text before and after `strip_sentences`.
+- **F6 · low · still open (C22, N29, N30).**
+  - *Fix:*
+    - In `api._clean_inputs`, pass an int, float or str through. Turn any other type into its string, so that `Service.reading` raises `age_required`.
+    - In `_age_ok` and `engine._age`, also catch `OverflowError` and reject non-finite values.
+
+### Over-blocking
+- **O01–O20:** all 20 continue, and O11–O13 keep the adult's history.
+- **New ordinary sentences:** 11 probes, 8 of them wrong.
+  - 5 got crisis resources instead of a reading: N02, N04, N05, N19, N20 (F19).
+  - 3 adults were declined as minors, and their person row and earlier reading were deleted: N07, N10, N21 (F20).
+  - 3 continue:
+    - N08 "My kid sister is 16 …";
+    - N09 "Grade 12 was hard years ago …";
+    - N15 "I hold my breath when I'm nervous, and I fast on Ekadashi like my mother did." This one also has no note and no injection flag.
+- **Noticed while reading the rules (simulation only; the pattern is older than P6):** "I passed out of college in 2012 …" stops, through `medical_emergency[3]`. Indian English often uses "passed out" for graduating. Proposed: append `(?!\s+(?:of|from) (?:the )?(?:college|school|university|iit|iim|academy|institute|course)\b)`.
+
+### Not tested
+- **Model engine** (no key): the model screen, which now backs F21. The rules run first in model mode too, and the model cannot remove a flag, so F19 and F20 also apply there.
+- **Browser:** `web/app.js` was checked by reading the code only:
+  - there is no engine selector;
+  - a 403 clears the stored id;
+  - after a decline, the id stays until the next call returns 403.
+- **Devanagari:** not probed. A code check shows that no crisis category has a Devanagari pattern; only the injection patterns do.
+- **Posts:** the orchestrator's active post set was not available.
+
+### Verdict
+**FAIL.**
+- No critical or high finding is open.
+- Ordinary adult sentences are still stopped (5 probes) or declined, with the adult's data deleted (3 probes): F19, F20.
+- Open:
+  - medium: F19, F20, F21, F22, F23;
+  - low: F6, F24, F25.
+- Fixed since the P6 re-run:
+  - F9, F10 and F11;
+  - F3 fix 1, including the downgrade block;
+  - F12–F16 and F18, for every recorded case;
+  - F17, for every recorded phrase.
