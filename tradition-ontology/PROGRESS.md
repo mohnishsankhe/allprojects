@@ -108,7 +108,7 @@ Nothing has been relaunched. The fallback check-in (trig_01TAWjatPpGAGwbxcCz6ynA
 | U53-glossary-ultimate (skeleton) | stopped while surveying | nothing written |
 | U54-chinese-schools (skeleton) | stopped at start | nothing written |
 | C-U08, C-U09, C-U10, C-U11 (Phase C sweeps) | stopped | no checks written (drafts only in _gen/, if any) |
-| Gītā ch16-18 merger M (+ thesis) | stopped at start | nothing written; A.jsonl (137) and B.jsonl (136) with notes are complete and waiting |
+| Gītā ch16-18 merger M (+ thesis) | DONE in the insight build (M + F, merged) | — |
 | lojong root reconstruction (Phase D prep) | stopped at start | nothing written |
 
 ## Phase C — Hallucination sweep
@@ -172,7 +172,7 @@ Nothing has been relaunched. The fallback check-in (trig_01TAWjatPpGAGwbxcCz6ynA
 | bhagavad-gita | ch07-09 | done (95) | done (95) | done (97 tea, 449 disagreements; skeleton 40 up · 6 corr · 0 ret) | done: 68 passed · 29 fixed · 0 failed → text-verified | |
 | bhagavad-gita | ch10-12 | done (120) | done (120) | done (125 tea, 498 disagreements; skeleton 33 up · 3 corr · 0 ret) | done: 121 passed · 4 fixed · 0 failed → text-verified | |
 | bhagavad-gita | ch13-15 | done (85) | done (88) | done (88 tea, 545 disagreements; skeleton 23 up · 19 corr · 0 ret) | done: 86 passed · 2 fixed · 0 failed → text-verified | |
-| bhagavad-gita | ch16-18 | done (137) | done (136) | stopped by user — to restart (+ thesis) | | |
+| bhagavad-gita | ch16-18 | done (137) | done (136) | done in the insight build (137 tea incl. thesis; skeleton 51 up · 10 corr · 0 ret) | done: 126 passed · 11 fixed · 0 failed | text-level gates pending |
 | seven-point-mind-training + eight-verses | root reconstruction from OpenPecha lemmata (prep) — stopped by user, to restart | | | | | |
 
 ### Gītā text-level gates (after ch16-18)
