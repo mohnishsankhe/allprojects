@@ -623,3 +623,4 @@ Conservative choices made without asking, with reasons. Newest last.
     - 12 over-blocking and under-blocking regression tests added. **332 tests, all passing.**
   - **run_eval.py** keeps the judge_packets counts of sets not run.
 - **Hidden sets re-run:** 0 automated failures. Adversarial flagged 8/10 (A06 and A07 need no flag: HTML text and the other speaker's lines). No persona or safety sentence is flagged.
+- 2026-09-30 02:03 IST — **Content gate: PASS, 50/50 on (a)–(d)** (CONTENT_JUDGE.md 'Re-run 4 (P6)'). Path: 8/50 → 40/50 → 49/50 → 49/50 → 50/50. Queue: 50 pending (the active set) and 12 rejected (the past failures, kept with reasons). The Kaṭha 1.2.1-2 item was rewritten with the judge's exact text. The calendar's 'to draft' suggestions now use each teaching's own scene, never a random bucket scene (the P5 fault). The 'safe offer' scene was removed from the meaning scenes. Model-engine drafts and the Opus check: NOT RUN (no key).

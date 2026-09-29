@@ -273,3 +273,86 @@ L50 e9c6346a, meaning short_video, KU 1.2.1-2 (d):
 - 49 of 50 active posts pass a–d: 40 from Re-run (P6), 9 from Re-run 2, and 0 of 1 here. The gate needs 50 of 50.
 - Passes per bucket: work 10, overthinking 10, sleep 10, loneliness 10, meaning 9.
 - The one remaining slot is L50 (meaning short_video). Fix KU 1.2.1-2 or redraft it from another item, then judge that one post.
+
+
+## Re-run 4 (P6)
+
+Judge: onto-judge (claude-opus-5-5), 2026-09-29.
+- Packet: `eval/judge/rules/content_review_new2.jsonl`, 1 replacement post (26f34272). It is line 50 of the active packet `eval/judge/rules/content_review.jsonl`. Pool: `buckets.json` 2.3.
+- Verdict and evidence: `eval/judge/content_verdicts_rerun4.jsonl`.
+- "Lnn" means line nn of the active 50-post packet.
+
+Checked by code:
+- The pool item: the scene, link, closing and stops lines equal the Re-run 3 fix text, word for word. The old "safe offer" scene is off the item, and KU 1.2.1-2 is in the meaning pool only.
+- Queue:
+  - 62 posts. The 50 pending ids equal the active packet.
+  - The 12 rejected are every post failed so far: the 10 Re-run (P6) failures, c625b423 (YS 1.3) and e9c6346a (the Re-run 3 KU post).
+  - Queue text equals packet text for all 50.
+  - The new post's parts equal a fresh render from its pool item.
+- Citation: `source_line(tid)` is printed once and exactly. `teaching(tid).id == tid`, and the teaching is citable (sourced). The tid and source line are unique among the 50.
+- claims.scan: 0 hits. Keyword scan: 0 hits. No "you will", and no personal data.
+- 5-gram Jaccard:
+  - Against the 49 others: max 0.156 (L47, shared template lines). Within the meaning bucket: 0.145 (L39).
+  - Every packet `max_similarity` recomputes exactly. Max over all 50: 0.316 (L7/L32, unchanged).
+- Format: 6 beats and 145 spoken words. rules_check passes, and the AI-label reminder is present.
+- The other 49 are unchanged since Re-run 3:
+  - L41-49: the raw lines are byte-for-byte equal to the Re-run 2 packet (`content_review_new10.jsonl` lines 1-9), including every field. That file predates Re-run 3. L46 and L47 `max_similarity` are back at 0.203, because e9c6346a has left the set.
+  - L1-40, by code:
+    - Ids, order, tid and source line match the 40 Re-run (P6) passes.
+    - All 113 fragments quoted in their evidence are present. All 52 length counts in their (e) notes match. All 32 recorded pair similarities recompute exactly.
+    - The Re-run 3 similarities of the rejected e9c6346a against L46 (0.214), L47 (0.213) and L39 (0.135) recompute exactly. Its max over the current 49 equals its recorded 0.214.
+    - A fresh render from `buckets.json` 2.3 reproduces every pool-derived line of all 49. In the 10 L1-40 videos, only the older fixed STOPS and bridge lines differ, and each of those was read in Re-run (P6).
+  - Not run: a byte-for-byte check of L1-40 against the packet judged in Re-run 3, which was not kept.
+
+Checked by reading:
+- The post against the paraphrase, the prepared segments KU 1.2.1 and 1.2.3, and these neighbours in `data/`: KU 1.1.20, 1.1.21-29, 1.2.4-6.
+- Every line, including the new link and the item's own STOPS line, for truth of this passage.
+- The post against the 9 other meaning posts for the same idea, with L39 (Dhp 62) read closely.
+
+Not run: on-screen timing; the model check (rules engine only). The 49 standing posts were not re-judged.
+
+| criterion (1 new post, L50 26f34272) | result |
+|---|---|
+| (a) cites faithfully | pass |
+| (b) no claims | pass |
+| (c) no near-duplicate / same idea | pass |
+| (d) idea-specific | pass |
+| (e) format/voice, note only | fail (not gating) |
+
+L50 26f34272, meaning short_video, KU 1.2.1-2:
+- (a):
+  - The new link's second clause, "it says each of the two binds a person to its own aim", is 1.2.1's *te ubhe nānārthe puruṣaṃ sinītaḥ*. It also restores the "different aims" that the close reading drops.
+  - "The Kaṭha does not sort anyone's list" is a true scope statement. The only list the Kaṭha treats, Yama's offers (1.1.21-29), is refused as a whole, and the good Naciketas asks for is knowledge (1.2.4-6).
+  - The item's STOPS line is true of 1.2.1-2, and unlike the old default it does not deny the fruit that 1.2.1 states.
+- (d):
+  - The Re-run 3 fault is gone: the two worldly offers and "Which is which?" are no longer in the post.
+  - The closing asks the reader to do what the verse credits to the wise (examine each thing and its aim). The close reading gives the verse's own marker ("for getting and keeping").
+  - The link and STOPS say that the text does not sort the list, so no item is labelled the good and no job or life choice is steered.
+- Considered, not failed:
+  - "The good" is left undefined, but no line says any item is the good.
+  - L39 (Dhp 62) also sets a verse against a list and carries "the fool", but its idea and closing (what is one's own) differ from this post's (what each item is for).
+- The scene, link, closing and stops lines are the text this judge proposed in Re-run 3. They were judged here as new text.
+
+(e) notes (not gating):
+- The link's first clause and the STOPS line say the same thing in consecutive beats. This repeat comes from the Re-run 3 fix text. Optional edit, checked by code (139 words, 0 claims, rules_check passes): link → "The Kaṭha says each of the two binds a person to its own aim."
+- The close reading still drops 1.2.1's fruit.
+- Naciketas's refusal of Yama's offers and his wish for knowledge are not told. Telling them would show what the Kaṭha counts as each of the two.
+- The scene is spoken twice (template).
+- `stops` has no word limit in the `buckets.json` note.
+- Outside the 50 posts: the meaning `scenes` list still holds "A choice between the safe offer and the one that feels right.", and `content/calendars/meaning.md` day 13 suggests it with BhG 2.22. That pairs a rebirth verse with a job choice, the P5 L46 fault. Remove the scene before anyone drafts from the calendar.
+
+### Gate verdict: PASS
+| criterion (50 active posts) | pass | fail |
+|---|---|---|
+| (a) cites faithfully | 50 | 0 |
+| (b) no claims | 50 | 0 |
+| (c) no near-duplicates / same idea | 50 | 0 |
+| (d) idea-specific | 50 | 0 |
+| **all of a–d** | **50** | **0** |
+| (e) format/voice, note only | 27 | 23 |
+
+- All 50 active posts pass a–d: 40 from Re-run (P6), 9 from Re-run 2 and 1 here. The gate needs 50 of 50.
+- Passes per bucket: work 10, overthinking 10, sleep 10, loneliness 10, meaning 10.
+- The counts were computed by code from the verdict files, taking each post's latest judging run.
+- The 23 (e) notes do not gate: L1, L3, L4, L7, L9, L15, L16, L19, L20, L21, L23, L24, L25, L28, L30, L32, L40, L42-45, L48, L50.
+- Limit of this verdict: L1-40 were confirmed unchanged by code fingerprints and a re-render from the pool, not byte for byte, because the Re-run 3 packet was not kept.

@@ -1,5 +1,5 @@
 {
- "version": "2.3",
+ "version": "2.4",
  "_note": "Content engine pools (ENGINE_SPEC.md §14), P6 rework. Each teaching_pool item is written for ONE teaching and ONE scene and is used as a whole: 'tid' is the exact verse or passage (ontology.teaching(tid)['id'] == tid, citable); 'point' (<=25 words) is the teaching's own point; 'scene' (<=22 words) is the everyday scene written for it; 'link' (<=30 words) says how the teaching's point reads that scene; 'close_reading' (<=45 words, optional only for a single-line passage fully given in 'point') says what the passage says, from the verified paraphrase; 'closing' (<=12 words) is an invitation to reflect; 'x_link' (<=15 words) replaces 'link' on X when scene+point+link+closing+source line exceed 280 characters; 'difference' (<=20 words, optional) is the one-line self/no-self difference the voice guides ask for where space allows. The bucket 'scenes' list is used only for calendar suggestions. A passage (or its parallel, e.g. DN 22 / MN 10) appears in one pool only. 'never' lists bucket-specific bans on top of rules/forbidden_claims.json, rules/tone.md and rules/content/originality.md.",
  "buckets": [
   {
@@ -897,8 +897,7 @@
     "The first Monday of retirement.",
     "Standing in a quiet temple, not sure what to look for.",
     "A childhood photo, and wondering who that was.",
-    "A move abroad, where no one knows who you used to be.",
-    "A choice between the safe offer and the one that feels right."
+    "A move abroad, where no one knows who you used to be."
    ],
    "never": [
     "Telling a reader who they are ('you are pure awareness', 'you are the eternal self'); say what each text says about the self.",

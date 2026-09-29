@@ -358,6 +358,7 @@ def calendar(store, bucket_id: str, days: int = 30) -> list[dict]:
     for i, d in enumerate([x for x in plan if x["status"] == "to draft"]):
         if i < len(pool) and scenes:
             it = pool[i]
+            scene = it.get("scene") or b["scenes"][scenes[(i * 7) % len(scenes)]]    # the scene written for this teaching
             d.update({"source": source_line(it["tid"]), "tid": it["tid"],
-                      "first_line": f"Scene: {b['scenes'][scenes[(i * 7) % len(scenes)]]} / Teaching: {it['point']}"})
+                      "first_line": f"Scene: {scene} / Teaching: {it['point']}"})
     return plan
