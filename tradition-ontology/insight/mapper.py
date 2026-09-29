@@ -30,6 +30,15 @@ def rules() -> dict:
     return json.loads((config.RULES / "mapping_rules.json").read_text(encoding="utf-8"))
 
 
+def _hypo_text(ctext: str, P: dict) -> str:
+    """Clause text for the hypothetical test: habitual refusals ('my mind won't settle') and past regrets reported as
+    a present habit ('I keep going over what I should have said') are not hypotheses (patterns._hypothetical_exceptions_note)."""
+    t = P["habitual_refusal"].sub(" ", ctext) if "habitual_refusal" in P else ctext
+    if "modal_perfect" in P and "present_habit" in P and P["present_habit"].search(ctext):
+        t = P["modal_perfect"].sub(" ", t)
+    return t
+
+
 @lru_cache(maxsize=1)
 def _P() -> dict:
     """Compiled patterns (IGNORECASE) from mapping_rules.patterns and the rationale lexicons."""
@@ -1104,7 +1113,7 @@ def evaluate(ctx: Ctx, unit: Unit, sent: Sentence, qs: int, qe: int, mk: Optiona
         asp = bool(P["aspirational"].search(ctext))
         if asp:
             ev.caps.append("C_ASPIRATIONAL")
-        elif P["hypothetical_modal"].search(ctext) or P["hypothetical_opener"].search(ctext):
+        elif P["hypothetical_modal"].search(_hypo_text(ctext, P)) or P["hypothetical_opener"].search(ctext):
             ev.code = "R_HYPOTHETICAL"
             return ev
         if P["hedge"].search(ctext):
@@ -1414,7 +1423,7 @@ def build_rationale(R: Reading, eid: str, kept: list, marker_of: dict, other_nam
                 [normalise(m.get("marker", "")) for m in e.get("markers", [])]
     qs = [it.quote for it in kept]
     last = "R_RATIONALE_FORM"
-    for it in sorted(kept, key=lambda i: (n_words(i.quote), -i.w)):
+    for it in sorted(kept, key=lambda i: (-_RANK[i.strength], n_words(i.quote), i.off)):
         mk = marker_of[(it.marker_index)]
         pre = f'You wrote "{it.quote}"; the texts describe this as '
         budget = 45 - n_words(pre) - 1
@@ -1625,9 +1634,9 @@ def _components(ids: set, edges: list) -> list:
     for e in edges:
         parent[f(e["a"])] = f(e["b"])
     comps: dict = {}
-    for i in ids:
+    for i in sorted(ids):
         comps.setdefault(f(i), set()).add(i)
-    return [sorted(c) for c in comps.values()]
+    return sorted(sorted(c) for c in comps.values())
 
 
 _LEVEL = {"high": 3, "moderate": 2, "low": 1}
@@ -1658,7 +1667,7 @@ def finalize_mappings(R: Reading, engine_label: str) -> tuple:
 
     def run(items_by_e):
         out = {}
-        for eid in set(items_by_e) | set(cby):
+        for eid in sorted(set(items_by_e) | set(cby)):
             out[eid] = aggregate(eid, items_by_e.get(eid, []), cby.get(eid, []), cat.entries[eid], ncues.get(eid, 0))
         return out
 
@@ -1671,7 +1680,7 @@ def finalize_mappings(R: Reading, engine_label: str) -> tuple:
         comps = _components(mapped, _edges(cat.entries, mapped)) if mapped else []
         comp_of = {e: i for i, c in enumerate(comps) for e in c}
         bysent: dict = {}
-        for eid in mapped:
+        for eid in sorted(mapped):
             for it in by_e.get(eid, []):
                 bysent.setdefault((it.unit, it.sidx), []).append(it)
         new_by = {e: [] for e in by_e}

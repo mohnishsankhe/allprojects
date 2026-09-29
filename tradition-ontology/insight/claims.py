@@ -33,7 +33,7 @@ def scan(text: str) -> list[dict]:
     return hits
 
 
-def scan_fields(obj, skip_keys: Iterable[str] = ("original", "quote", "evidence", "person_words")) -> list[dict]:
+def scan_fields(obj, skip_keys: Iterable[str] = ("original", "quote", "evidence", "counter_evidence", "person_words", "basis_quote")) -> list[dict]:
     """Scan every string in a nested object except verbatim fields (teaching originals, the person's own words)."""
     skip = set(skip_keys)
     out = []

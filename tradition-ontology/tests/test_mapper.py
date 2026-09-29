@@ -647,3 +647,31 @@ def test_real_layer_exact_cue_maps_and_validates():
     m = next(m for m in out["mappings"] if m["dx_id"] == "dx:klesa-raga")
     assert m["cites"] and set(m["cites"]) <= set(raga["cites"]) | {c for s in layer["dx:klesa-raga"].get("states", []) for c in s["cites"]}
     assert not claims.scan_fields({"why": m["why"]})
+
+
+# ---------------------------------------------------------------------------------------------------- integration shape
+def test_records_validate_against_the_report_schema():
+    schemas = pytest.importorskip("insight.schemas")
+    out = run({"answers": {**M3_A, "q14": NEUTRAL}}, "rules")
+    assert out["mappings"]
+    for m in out["mappings"]:
+        schemas.Mapping.model_validate(m)
+
+
+def test_dialogue_block_inside_free_text_is_detected():
+    free = ("I have been thinking about this for a while and wanted to write it down here for myself in my own words.\n\n"
+            "Asha: You never finish anything you start.\nMe: I never finish anything I start on weekends.\n"
+            "Me: I never finish anything I start at the office.\nMe: I never finish anything I start at home either.")
+    out = run({"free_text": free, "dialogue_speaker": "Me"}, "rules")
+    m = by_id(out)["dx:antaraya-alasya"]
+    assert [e["unit"] for e in m["evidence"]] == ["dialogue:1:t2", "dialogue:1:t3", "dialogue:1:t4"]
+    out2 = run({"free_text": free}, "rules")                    # no speaker label given: Me is an alias, so it resolves
+    assert "dx:antaraya-alasya" in by_id(out2)
+    out3 = run({"free_text": free.replace("Me:", "Raj:")}, "rules")
+    assert "dx:antaraya-alasya" not in by_id(out3) and "R_DIALOGUE_SPEAKER_UNRESOLVED" in codes(out3)
+
+
+def test_output_is_json_serialisable_and_has_no_stray_text_in_the_audit():
+    out = run({"answers": {**M3_A, "q14": "My phone is 555 123 4567 and my email is a.b@c.org. " + NEUTRAL}}, "rules")
+    dump = json.dumps(out)
+    assert "a.b@c.org" not in dump and "555 123 4567" not in dump

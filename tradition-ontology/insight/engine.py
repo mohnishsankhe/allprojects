@@ -28,6 +28,16 @@ INSUFFICIENT = {
 }
 
 
+def _audit_summary(audit: dict) -> dict:
+    """Counts and codes only: the mapper's full audit holds some of the person's words and never leaves the mapper."""
+    from collections import Counter
+    rej = audit.get("rejected") or []
+    return {"unmapped_reason": audit.get("unmapped_reason"),
+            "rejected_by_code": dict(Counter(r.get("code") for r in rej if isinstance(r, dict))),
+            "counter_only_entries": list(audit.get("counter_only_entries") or []),
+            "excluded_entries": [e if isinstance(e, str) else e.get("entry_id") for e in audit.get("excluded_entries") or []]}
+
+
 def build_segments(inputs: dict) -> list[dict]:
     """The person's own words, as quotable segments with their origin. Dialogue: only the person's lines."""
     segs = []
@@ -95,7 +105,7 @@ def run_reading(inputs: dict, engine: str = "rules", client: Optional[ModelClien
     maps = res.get("mappings") or []
     if res.get("notice"):
         report["notices"].append(res["notice"])
-    report["mapping_audit"] = res.get("audit") or {}
+    report["mapping_audit"] = _audit_summary(res.get("audit") or {})
     if not maps:
         why = (res.get("audit") or {}).get("unmapped_reason")
         report["insufficient"] = INSUFFICIENT.get(why, INSUFFICIENT[None])
@@ -169,7 +179,8 @@ def finalize(report: dict, segs: list[dict]) -> None:
     report["citations"] = cits
     report["claim_hits"] = claims.scan_fields({k: v for k, v in report.items()
                                                if k not in ("citations", "safety", "mapping_audit")},
-                                              skip_keys=("original", "quote", "evidence", "counter_evidence", "person_words"))
+                                              skip_keys=("original", "quote", "evidence", "counter_evidence", "person_words",
+                                                         "basis_quote"))
 
 
 def _strip_uncitable(obj) -> None:

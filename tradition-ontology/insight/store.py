@@ -141,8 +141,8 @@ class Store:
         n = 0
         for t in ("readings", "checkins"):
             n += self.db.execute(f"DELETE FROM {t} WHERE created < ?", (cutoff,)).rowcount
-        n += self.db.execute("DELETE FROM persons WHERE created < ? AND id NOT IN (SELECT person_id FROM readings)",
-                             (cutoff,)).rowcount
+        n += self.db.execute("DELETE FROM persons WHERE created < ? AND id NOT IN (SELECT person_id FROM readings) "
+                             "AND id NOT IN (SELECT person_id FROM checkins)", (cutoff,)).rowcount
         self.db.commit()
         return n
 

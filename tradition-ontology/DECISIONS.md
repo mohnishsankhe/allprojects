@@ -362,3 +362,18 @@ Conservative choices made without asking, with reasons. Newest last.
   - "the sense of 'I'", never "ego".
 - **The thesis entry** states only what the six marks point to. It records that the marks do not settle what "abandoning all dharmas" means, and it chooses no tradition's thesis.
 - **Protocol.** This chunk is dual-extracted (A/B/M), so it gets the full Role F check of every entry, not a sample. That is stricter than the insight-build Role J and matches the earlier Gītā chunks.
+
+## 2026-09-29 23:01 IST — P3: mapper, web app and tests in; four fixes after the first end-to-end reading
+- **Built by onto-builder, tests passing:**
+  - the mapper: insight/mapper.py, every rule in mapping_rules.json, validators V1–V13, 99 tests;
+  - the web app: insight/api.py plus web/;
+  - tests for every module, all mocked or offline. The full suite has 299 tests, all passing.
+  The builders' own stricter readings of the mapping rules are kept as reported (e.g. a partial match on marker text needs ≥3 shared content stems). They are all conservative.
+- **Hypothetical-rule fix.** The clause rule treated "won't", "will" and "should" as hypothetical, which rejected the layer's own cues ("my mind won't settle"; "I keep going back over what I should have done"). The fix is narrow, and the exact patterns are in mapping_rules.json → patterns.habitual_refusal, modal_perfect and present_habit:
+  - "won't" or "will not" plus a verb of refusal (settle, stop, switch off …) counts as a present habit;
+  - "should have", "could have" or "would have" counts as regret about the past when a present-habit marker is in the same clause.
+- **The person's words are not stored in the mapping audit.** The mapper's full audit keeps some of them, so the report now keeps only counts and codes.
+- **Claims scan.** It now catches "you will feel calm …" style promises and "soon you will …". The field state.basis_quote (the person's own words) is exempt, like the other quote fields.
+- **Purge.** It no longer deletes a person who still has check-ins.
+- **Recall of the offline rules engine is low**, because most markers have only 1–3 cues. An analyst is adding 4–8 plain first-person cues per marker, never widening a marker's sense, and checking them against a bland baseline of 24 texts. A cue that fires on more than 10% of the baseline is removed. The model engine, when a key exists, adds the blind recheck for paraphrase.
+- **Effort seen by the builders.** One builder saw effort "10" in its context, while its frontmatter says high. Logged in RUNLOG as observed; the frontmatter is unchanged.

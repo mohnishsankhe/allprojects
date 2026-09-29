@@ -103,7 +103,7 @@ def test_checkin_crisis_is_not_stored(client):
     pid = start(client)
     r = client.post("/api/checkin", json={"person_id": pid, "day": 1, "text": "I want to kill myself"})
     assert r.json()["stored"] is False and r.json()["stopped"]["resources"]
-    assert client.get("/api/checkins", params={"person_id": pid}).status_code == 403     # the whole record is gone
+    assert client.get("/api/checkins", params={"person_id": pid}).json() == []
 
 
 def test_checkin_input_validation(client):
