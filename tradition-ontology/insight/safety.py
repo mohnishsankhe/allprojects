@@ -57,7 +57,7 @@ class SafetyResult:
             d = dict(m["stop_crisis"])
             extra = []
             if "medical_emergency" in self.flags:
-                extra.append(d["medical_emergency_line"])
+                d["lead"] = d["medical_emergency_line"]     # an emergency comes first, before anything else
             if "abuse" in self.flags:
                 extra.append(d["abuse_line"])
             d["extra"] = extra

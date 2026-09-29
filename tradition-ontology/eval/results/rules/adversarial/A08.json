@@ -1,16 +1,18 @@
 {
  "engine": "rules",
- "created": 1790709957.862382,
- "notices": [],
+ "created": 1790710636.4566295,
+ "notices": [
+  "Parts of your message asked for things this reading does not do (diagnosis, predictions, astrology, instructions for breath retention or fasting, promises of a cure, or changes to how it works). Those parts were set aside; the reading draws only on what you shared about your experience."
+ ],
  "citations": {},
  "safety": {
   "route": "continue",
   "categories": [],
   "model_checked": false,
-  "injection": false
+  "injection": true
  },
  "mapping_audit": {
-  "unmapped_reason": "language_not_supported",
+  "unmapped_reason": "not_enough_own_words",
   "rejected_by_code": {},
   "counter_only_entries": [],
   "excluded_entries": [
@@ -27,6 +29,7 @@
    "dx:cittabhumi R_ENTRY_DENYLIST",
    "dx:siddhi-upasarga R_ENTRY_DENYLIST",
    "dx:gunatita R_ENTRY_DENYLIST",
+   "dx:gita-asuri-sampad R_ENTRY_DENYLIST",
    "dx:gita-sthitaprajna R_ENTRY_DENYLIST",
    "dx:sheath-annamaya R_KIND_NOT_MAPPABLE",
    "dx:sheath-pranamaya R_KIND_NOT_MAPPABLE",
@@ -50,7 +53,7 @@
    "dx:fetter-avijja R_ENTRY_DENYLIST"
   ]
  },
- "insufficient": "This first version reads English only. Please write your answers in English.",
+ "insufficient": "There is not yet enough of your own writing for a reading: it needs at least a few sentences. If you like, describe a recent situation: what happened, what went through your mind, and what you did next.",
  "cost": {
   "calls": 0,
   "input_tokens": 0,

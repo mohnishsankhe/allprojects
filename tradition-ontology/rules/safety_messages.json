@@ -1,60 +1,60 @@
 {
- "stop_crisis": {
-  "title": "Let's pause here",
-  "body": "Thank you for telling us this. What you've shared matters more than any reading, so we're stopping the reading here. You deserve support from a person who can help right now. If you are in danger or might act on thoughts of harming yourself, please contact emergency services or one of the free services below. Reaching out is a strong thing to do.",
-  "resources": [
-   {
-    "region": "India",
-    "name": "Tele-MANAS (free, 24x7)",
-    "contact": "14416 or 1-800-891-4416"
-   },
-   {
-    "region": "India",
-    "name": "Emergency",
-    "contact": "112"
-   },
-   {
-    "region": "United States",
-    "name": "988 Suicide & Crisis Lifeline",
-    "contact": "call or text 988"
-   },
-   {
-    "region": "United States",
-    "name": "Emergency",
-    "contact": "911"
-   },
-   {
-    "region": "United Kingdom",
-    "name": "Samaritans",
-    "contact": "116 123"
-   },
-   {
-    "region": "United Kingdom",
-    "name": "Emergency",
-    "contact": "999"
-   },
-   {
-    "region": "Elsewhere",
-    "name": "Find a Helpline",
-    "contact": "findahelpline.com"
-   }
-  ],
-  "medical_emergency_line": "If this is a medical emergency, call your local emergency number now (112 in India and the EU, 911 in the US, 999 in the UK).",
-  "abuse_line": "If someone is hurting you or you are not safe, please contact local emergency services or a domestic violence helpline (in India, the Women Helpline 181; findahelpline.com lists others)."
- },
- "decline_minor": {
-  "title": "This reading is for adults",
-  "body": "Thank you for your interest. This service is only for people aged 18 and over, so we can't offer a reading. If something is weighing on you, a trusted adult, a school counsellor or a helpline can help: findahelpline.com lists free services for young people in many countries (in India, Tele-MANAS 14416; in the US, 988; in the UK, Childline 0800 1111)."
- },
- "continue_no_diet": {
-  "note": "You mentioned food or eating in a way that matters. This reading will not suggest anything about diet, fasting or exercise. Please consider talking with a doctor or an eating-disorder specialist; findahelpline.com lists free services (in India, Tele-MANAS 14416)."
- },
- "continue_medical_note": {
-  "note": "This is not medical advice; continue your treatment. The reading below does not interpret any health condition you mentioned."
- },
- "injection_notice": "Parts of your message asked for things this reading does not do (diagnosis, predictions, astrology, or changes to how it works). Those parts were set aside; the reading draws only on what you shared about your experience.",
- "stop_unavailable": {
-  "title": "We can't give a reading right now",
-  "body": "The safety check that runs before every reading could not be completed, so no reading was made. Nothing you wrote was used. Please try again later. If you are struggling right now, findahelpline.com lists free services (in India, Tele-MANAS 14416; in the US, 988; in the UK, Samaritans 116 123)."
- }
+  "stop_crisis": {
+    "title": "Let's pause here",
+    "body": "Thank you for telling us this. What you've shared matters more than any reading, so we're stopping the reading here. You deserve support from a person who can help right now. If you are in danger or might act on thoughts of harming yourself, please contact emergency services or one of the free services below. Reaching out is a strong thing to do.",
+    "resources": [
+      {
+        "region": "India",
+        "name": "Tele-MANAS (free, 24x7)",
+        "contact": "14416 or 1-800-891-4416"
+      },
+      {
+        "region": "India",
+        "name": "Emergency",
+        "contact": "112"
+      },
+      {
+        "region": "United States",
+        "name": "988 Suicide & Crisis Lifeline",
+        "contact": "call or text 988"
+      },
+      {
+        "region": "United States",
+        "name": "Emergency",
+        "contact": "911"
+      },
+      {
+        "region": "United Kingdom",
+        "name": "Samaritans",
+        "contact": "116 123"
+      },
+      {
+        "region": "United Kingdom",
+        "name": "Emergency",
+        "contact": "999"
+      },
+      {
+        "region": "Elsewhere",
+        "name": "Find a Helpline",
+        "contact": "findahelpline.com"
+      }
+    ],
+    "medical_emergency_line": "If this is a medical emergency, call your local emergency number now (112 in India and the EU, 911 in the US, 999 in the UK).",
+    "abuse_line": "If someone is hurting you or you are not safe, please contact local emergency services or a domestic violence helpline (in India, the Women Helpline 181; findahelpline.com lists others)."
+  },
+  "decline_minor": {
+    "title": "This reading is for adults",
+    "body": "Thank you for your interest. This service is only for people aged 18 and over, so we can't offer a reading. If something is weighing on you, a trusted adult, a school counsellor or a helpline can help: findahelpline.com lists free services for young people in many countries (in India, Tele-MANAS 14416; in the US, 988; in the UK, Childline 0800 1111)."
+  },
+  "continue_no_diet": {
+    "note": "You mentioned food or eating in a way that matters. This reading will not suggest anything about diet, fasting or exercise. Please consider talking with a doctor or an eating-disorder specialist; findahelpline.com lists free services (in India, Tele-MANAS 14416)."
+  },
+  "continue_medical_note": {
+    "note": "This is not medical advice; continue your treatment. The reading below does not interpret any health condition you mentioned."
+  },
+  "injection_notice": "Parts of your message asked for things this reading does not do (diagnosis, predictions, astrology, instructions for breath retention or fasting, promises of a cure, or changes to how it works). Those parts were set aside; the reading draws only on what you shared about your experience.",
+  "stop_unavailable": {
+    "title": "We can't give a reading right now",
+    "body": "The safety check that runs before every reading could not be completed, so no reading was made. Nothing you wrote was used. Please try again later. If you are struggling right now, findahelpline.com lists free services (in India, Tele-MANAS 14416; in the US, 988; in the UK, Samaritans 116 123)."
+  }
 }

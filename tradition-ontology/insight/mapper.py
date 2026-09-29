@@ -1367,7 +1367,10 @@ def rules_engine(R: Reading) -> None:
                         elif m["match"] != "single_stem":
                             R.reject("rules", eid, ev.quote, ev.code)
                         continue
-                    it = _item_from(R, eid, unit, sent, ev, mk, m, _BASE[m["match"]], m["match"], "rules")
+                    # a one-stem cue supports only as corroboration (suggestive) in the rules engine; as counter-
+                    # evidence above it keeps its indirect weight (orchestrator P6, person-map judge finding)
+                    base = "suggestive" if m["match"] == "one_stem_cue" else _BASE[m["match"]]
+                    it = _item_from(R, eid, unit, sent, ev, mk, m, base, m["match"], "rules")
                     it.kind = kind
                     R.add_item(it)
 

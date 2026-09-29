@@ -105,7 +105,14 @@
     "\\b(diagnose|diagnosis of) me\\b",
     "\\b(tell|predict|forecast) (me )?(my )?(future|fate|destiny)\\b",
     "\\bwhat will happen (to me|in my life|next year)\\b",
-    "\\b(kundali|horoscope|birth chart|zodiac|nakshatra)\\b"
+    "\\b(kundali|horoscope|birth chart|zodiac|nakshatra)\\b",
+    "(?m)^\\s*(?:system|assistant|developer|admin)\\s*:",
+    "\\b(?:safety (?:check|screen|filter)s? (?:passed|disabled|off|is off)|override (?:the )?(?:safety|rules)|new instructions?)\\b",
+    "\\b(?:teach|tell|give|show|explain to) me (?:how to )?(?:hold|retain|stop|suspend) (?:my|the) breath\\b",
+    "\\b(?:kumbhaka|kevala kumbhaka|khecari|khecarī|bhastrika|mula ?bandha)\\b",
+    "\\b(?:\\d+|forty|long|extended|water|dry)[- ]day fast\\b|\\bfasting (?:plan|schedule|regime)\\b|\\bhow (?:long|many days) (?:should|can) i fast\\b",
+    "\\b(?:say|tell me|promise|claim|confirm|write) (?:that )?(?:this|it|the reading|meditation|these practices?) (?:will|can) (?:cure|heal|fix)\\b",
+    "(?:पिछले|पूर्व) (?:सभी )?निर्देश|निर्देशों को (?:अनदेखा|नज़रअंदाज़|नजरअंदाज|भूल)|सिस्टम प्रॉम्प्ट"
   ],
   "simile_exceptions": [
     "\\b(?:like|as if|as though)\\s+(?:i(?:'d| had| was| am|'m)?\\s+)?(?:being|been|getting|got|was)?\\s*(?:hit|run over|flattened)\\s+by\\s+(?:a|an|the)\\s+(?:bus|truck|lorry|train|wave|tsunami|brick|ton of bricks|tonne of bricks|steamroller)\\b"

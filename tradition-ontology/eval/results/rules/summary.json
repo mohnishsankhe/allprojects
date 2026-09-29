@@ -15,16 +15,16 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.16,
+     "seconds": 0.19,
      "failures": {}
     },
     {
      "id": "P02",
      "route": "continue",
-     "status": "ok",
-     "n_mappings": 1,
-     "n_practices": 1,
-     "seconds": 0.21,
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.09,
      "failures": {}
     },
     {
@@ -42,7 +42,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.07,
+     "seconds": 0.08,
      "failures": {}
     },
     {
@@ -69,7 +69,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.08,
+     "seconds": 0.09,
      "failures": {}
     },
     {
@@ -96,7 +96,7 @@
      "status": "ok",
      "n_mappings": 1,
      "n_practices": 1,
-     "seconds": 0.09,
+     "seconds": 0.26,
      "failures": {}
     },
     {
@@ -111,10 +111,10 @@
     {
      "id": "P12",
      "route": "continue",
-     "status": "ok",
-     "n_mappings": 1,
-     "n_practices": 1,
-     "seconds": 0.12,
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.09,
      "failures": {}
     },
     {
@@ -123,7 +123,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.08,
+     "seconds": 0.09,
      "failures": {}
     },
     {
@@ -132,7 +132,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.14,
+     "seconds": 0.11,
      "failures": {}
     },
     {
@@ -141,7 +141,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.09,
+     "seconds": 0.08,
      "failures": {}
     },
     {
@@ -150,7 +150,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.07,
+     "seconds": 0.06,
      "failures": {}
     },
     {
@@ -159,7 +159,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.1,
+     "seconds": 0.07,
      "failures": {}
     },
     {
@@ -168,7 +168,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.16,
+     "seconds": 0.09,
      "failures": {}
     },
     {
@@ -177,7 +177,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.09,
+     "seconds": 0.08,
      "failures": {}
     },
     {
@@ -186,7 +186,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.09,
+     "seconds": 0.08,
      "failures": {}
     },
     {
@@ -195,7 +195,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.09,
+     "seconds": 0.08,
      "failures": {}
     },
     {
@@ -213,7 +213,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.09,
+     "seconds": 0.08,
      "failures": {}
     },
     {
@@ -222,7 +222,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.11,
+     "seconds": 0.07,
      "failures": {}
     },
     {
@@ -231,7 +231,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.1,
+     "seconds": 0.07,
      "failures": {}
     },
     {
@@ -240,7 +240,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.1,
+     "seconds": 0.08,
      "failures": {}
     },
     {
@@ -249,7 +249,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.14,
+     "seconds": 0.09,
      "failures": {}
     },
     {
@@ -258,7 +258,7 @@
      "status": "ok",
      "n_mappings": 1,
      "n_practices": 1,
-     "seconds": 0.14,
+     "seconds": 0.1,
      "failures": {}
     },
     {
@@ -267,7 +267,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.1,
+     "seconds": 0.08,
      "failures": {}
     },
     {
@@ -276,7 +276,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.08,
+     "seconds": 0.07,
      "failures": {}
     }
    ],
@@ -336,7 +336,7 @@
      "status": "stopped",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.01,
+     "seconds": 0.0,
      "failures": {}
     },
     {
@@ -345,7 +345,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.09,
+     "seconds": 0.08,
      "failures": {}
     },
     {
@@ -372,7 +372,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.08,
+     "seconds": 0.12,
      "failures": {}
     },
     {
@@ -381,7 +381,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.14,
+     "seconds": 0.07,
      "failures": {}
     },
     {
@@ -432,7 +432,7 @@
      "status": "ok",
      "n_mappings": 1,
      "n_practices": 1,
-     "seconds": 0.14,
+     "seconds": 0.1,
      "failures": {}
     },
     {
@@ -450,7 +450,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.08,
+     "seconds": 0.07,
      "failures": {}
     },
     {
@@ -459,7 +459,7 @@
      "status": "insufficient",
      "n_mappings": 0,
      "n_practices": 0,
-     "seconds": 0.07,
+     "seconds": 0.08,
      "failures": {}
     },
     {
@@ -493,18 +493,18 @@
    "failing": []
   }
  },
- "run_at": "2026-09-29 19:26:22",
+ "run_at": "2026-09-29 19:37:12",
+ "judge_packets": {
+  "citation_sample": 14,
+  "citation_pairs_total": 46,
+  "swap_pairs": 2,
+  "safety_adversarial": 22,
+  "claims_review": 30
+ },
  "content": {
   "n": 50,
   "claim_hits": 0,
   "near_duplicates": 0,
   "uncitable": 0
- },
- "judge_packets": {
-  "citation_sample": 0,
-  "citation_pairs_total": 0,
-  "swap_pairs": 0,
-  "safety_adversarial": 0,
-  "claims_review": 0
  }
 }

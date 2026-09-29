@@ -60,3 +60,4 @@ footer { color: var(--muted); font-size: .9rem; padding-bottom: 2rem; margin-top
 [hidden] { display: none !important; }
 @media (max-width: 30rem) { body { font-size: 1.02rem; } button { width: 100%; margin-right: 0; } .tab { width: auto; flex: 1; } }
 @media print { nav, .actions, #checkin-box, footer, .skip { display: none !important; } body { background: #fff; color: #000; } }
+.stop .lead { font-weight: 700; font-size: 1.15rem; margin-top: 0; }

@@ -73,6 +73,7 @@ async function loadConsent() {
 }
 function renderStop(container, msg) {
   clear(container);
+  if (msg.lead) container.append(el("p", { class: "lead", text: msg.lead }));
   container.append(el("h3", { text: msg.title || "Let's pause here" }));
   if (msg.body) container.append(el("p", { text: msg.body }));
   for (const x of msg.extra || []) container.append(el("p", { text: x }));

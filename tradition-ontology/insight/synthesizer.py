@@ -16,7 +16,10 @@ from __future__ import annotations
 import json
 from typing import Optional
 
-from . import claims, config, ontology
+import re
+from functools import lru_cache
+
+from . import claims, config, mapper, ontology
 from .llm import LLMError, Ledger, ModelClient, wrap_user_text
 
 LENS_OF = {"vedic-yogic": "vedic", "ascetic-buddhist": "ascetic", "ascetic-jain": "ascetic"}
@@ -56,8 +59,7 @@ def _direct_point(m: dict, entry: dict) -> Optional[dict]:
         return None
     text = _clean(f"Your words “{q}” {FIT.get(m.get('confidence'), 'may fit')} what {TRAD_NAME[entry['lens']]} call "
                   f"{entry['name']}. {dtext}")
-    return {"text": text, "cites": sorted(set(dcites) | set(m.get("cites") or [])), "evidence_refs": refs,
-            "dx_id": entry["id"], "via": None}
+    return {"text": text, "cites": sorted(set(dcites)), "evidence_refs": refs, "dx_id": entry["id"], "via": None}
 
 
 def _best_equivalences(entry: dict, other_lens: str, dx: dict, mapped: set) -> list[dict]:
@@ -66,11 +68,29 @@ def _best_equivalences(entry: dict, other_lens: str, dx: dict, mapped: set) -> l
         t = dx.get(e.get("id"))
         if not t or LENS_OF.get(t.get("lens")) != other_lens or not e.get("cites"):
             continue
+        if mapper.denylist_status(t):      # never read a person's words through an entry that is never assigned
+            continue
         if e.get("grade") not in GRADE_RANK:
             continue
         out.append({**e, "_t": t, "_mapped": t["id"] in mapped})
     out.sort(key=lambda e: (not e["_mapped"], GRADE_RANK[e["grade"]], e["id"]))
     return out
+
+
+@lru_cache(maxsize=1)
+def _catalog():
+    return mapper.build_catalog(ontology.diagnosis())
+
+
+def _grounded(eid: str, quotes: list) -> bool:
+    """Evidence never transfers: a cross-lens point needs the target entry's OWN markers to match the person's words."""
+    for mk in _catalog().markers.get(eid) or []:
+        for q in quotes:
+            toks = mapper.tokenize(mapper.normalise(q))
+            r = mapper.tier_a(toks, 0, len(toks), mk)
+            if r and r.get("match") in ("exact_cue", "cue_window", "cue_partial"):
+                return True
+    return False
 
 
 def _equiv_point(m: dict, entry: dict, e: dict) -> Optional[dict]:
@@ -79,10 +99,65 @@ def _equiv_point(m: dict, entry: dict, e: dict) -> Optional[dict]:
     tdef, tcites = _definition(t)
     if not refs or not tcites:
         return None
+    if not _grounded(t["id"], [ev["quote"] for ev in m.get("evidence") or []]):
+        return None
     text = _clean(f"Read through {TRAD_NAME[t['lens']]}, your words “{q}” come closest to what they call {t['name']} "
                   f"({GRADE_WORDS[e['grade']]} for {entry['name']}). {tdef}")
-    return {"text": text, "cites": sorted(set(e["cites"]) | set(tcites)), "evidence_refs": refs,
-            "dx_id": t["id"], "via": entry["id"]}
+    return {"text": text, "cites": sorted(set(tcites)), "evidence_refs": refs, "dx_id": t["id"], "via": entry["id"]}
+
+
+ABBR = {"yoga-sutra": ["YS"], "yoga-bhasya": ["YB", "Vyāsa", "YBh"], "bhagavad-gita": ["BhG", "Gītā", "BG"],
+        "tattvartha-sutra": ["TS"], "satipatthana-sutta": ["MN 10", "MN10"], "mahasatipatthana-sutta": ["DN 22", "DN22"],
+        "anapanasati-sutta": ["MN 118", "MN118"], "dhammapada": ["Dhp"], "visuddhimagga": ["Vism"],
+        "mandukya-karika": ["GK", "Kārikā"], "mandukya-upanisad": ["MāU", "MU", "Māṇḍūkya"],
+        "katha-upanisad": ["KU", "KaU", "Kaṭha"], "taittiriya-upanisad": ["TaittU", "TU", "Taittirīya"],
+        "prajnaparamita-hrdaya": ["Heart"], "chandogya-upanisad": ["ChU"], "brhadaranyaka-upanisad": ["BAU", "BĀU", "BU"],
+        "vijnana-bhairava-tantra": ["VBT"], "hatha-yoga-pradipika": ["HYP"], "samannaphala-sutta": ["DN 2", "DN2"]}
+ROMAN = {1: "I", 2: "II", 3: "III", 4: "IV", 5: "V", 6: "VI", 7: "VII", 8: "VIII", 9: "IX", 10: "X", 11: "XI",
+         12: "XII", 13: "XIII", 14: "XIV", 15: "XV", 16: "XVI", 17: "XVII", 18: "XVIII", 19: "XIX", 20: "XX",
+         21: "XXI", 22: "XXII", 23: "XXIII"}
+
+
+def _norm_ref(x: str) -> str:
+    return re.sub(r"\s+", "", x).replace(":", ".").replace("–", "-").lower()
+
+
+def _mentioned(tid: str, text: str) -> bool:
+    """Is this cite's verse actually named in the text (e.g. 'YS 2.7', 'MN 10:36', 'Vism XIV', 'TS 8.2, 8.9')?"""
+    slug, _, ref = tid[4:].partition(":")
+    abbrs = ABBR.get(slug)
+    if not abbrs or not any(a in text for a in abbrs):
+        return False
+    t = _norm_ref(text)
+    if slug == "visuddhimagga":
+        ch, _, page = ref.partition(".p")
+        rom = ROMAN.get(int(ch)) if ch.isdigit() else None
+        return bool((rom and re.search(rf"Vism\.?\s+{rom}\b", text)) or (page and re.search(rf"p\.?\s?{page.split('/')[0]}\b", text)))
+    if re.match(r"(mn|dn)\d+[:.]", ref):                     # 'mn10:36' is named as 'MN 10:36'
+        return re.search(re.escape(_norm_ref(ref).split("-")[0]) + r"(?![\d])", t) is not None
+    lo = _norm_ref(ref).split("-")[0]
+    return bool(lo) and re.search(rf"(?<![\d.]){re.escape(lo)}(?![\d])", t) is not None
+
+
+def _cites_named(cites: list, text: str) -> list:
+    return [c for c in cites if _mentioned(c, text)]
+
+
+def _counterpart_point(m: dict, entry: dict, e: dict) -> Optional[dict]:
+    """When the other tradition's own markers do not match the words: show that tradition's counterpart to the PATTERN
+    (from the cited equivalence), and say plainly that the person's words were matched to the first entry, not to it.
+    Evidence never transfers; the point is about the texts, anchored to the quote that mapped the first entry."""
+    t = e["_t"]
+    tdef, tcites = _definition(t)
+    _, refs = _first_quote(m)
+    if not (refs and tcites and tdef) or e.get("grade") not in ("exact", "same-under-standpoint", "partial"):
+        return None
+    tn = TRAD_NAME[t["lens"]]
+    text = _clean(f"{tn[0].upper() + tn[1:]} have their own account of a pattern like the one above: "
+                  f"{t['name']} ({GRADE_WORDS[e['grade']]} for {entry['name']}). {tdef} Your words were matched to "
+                  f"{entry['name']}, not to this; it is shown so that both readings are in view.")
+    return {"text": text, "cites": sorted(set(tcites)), "evidence_refs": refs, "dx_id": t["id"], "via": entry["id"],
+            "counterpart_only": True}
 
 
 def _corr_rows() -> list[dict]:
@@ -133,10 +208,14 @@ def _rec_from_rows(maps: list[dict], dx: dict, mapped_ids: set) -> tuple[list, l
             text = _clean(f"{agree.rstrip('.') or 'The texts name a closely related pattern'}. Under the one-truth "
                           f"principle, {BASIS_WORDS[basis]}: the match is {GRADE_WORDS.get(r.get('grade'), 'partial')}, "
                           f"not an identity.")
-            points.append({"text": text, "basis": basis, "cites": cites, "evidence_refs": refs, "row": key})
+            named = _cites_named(cites, text)          # each text carries only the verses it actually names
+            if named:
+                points.append({"text": text, "basis": basis, "cites": named, "evidence_refs": refs, "row": key})
         if differ and cites and refs:
-            diffs.append({"text": _clean(differ), "cites": cites, "evidence_refs": refs, "row": key,
-                          "members": sorted(mem)})
+            dtext = _clean(differ)
+            named = _cites_named(cites, dtext)
+            if named:
+                diffs.append({"text": dtext, "cites": named, "evidence_refs": refs, "row": key, "members": sorted(mem)})
     return points, diffs
 
 
@@ -158,8 +237,10 @@ def _rec_from_equivalences(maps: list[dict], dx: dict, mapped_ids: set, seen_pai
                 continue
             seen_pairs.add(pair)
             _, refs = _first_quote(m)
-            diffs.append({"text": _clean(f"{entry['name']} and {e['_t']['name']} are {GRADE_WORDS[e['grade']]}. {e['note']}"),
-                          "cites": list(e["cites"]), "evidence_refs": refs, "pair": list(pair)})
+            dtext = _clean(f"{entry['name']} and {e['_t']['name']} are {GRADE_WORDS[e['grade']]}. {e['note']}")
+            named = _cites_named(list(e["cites"]), dtext)     # only the verses the note actually names
+            if named:
+                diffs.append({"text": dtext, "cites": named, "evidence_refs": refs, "pair": list(pair)})
     return diffs
 
 
@@ -200,7 +281,7 @@ def rules_synthesis(maps: list[dict]) -> dict:
             per_trad.add(e["_t"]["lens"])
             if e["_mapped"]:
                 continue   # the other lens already speaks directly about that entry
-            ep = _equiv_point(m, entry, e)
+            ep = _equiv_point(m, entry, e) or _counterpart_point(m, entry, e)
             if ep and not any(x.get("dx_id") == ep["dx_id"] for x in lenses[other]["points"]):
                 lenses[other]["points"].append(ep)
     for k, lens in lenses.items():

@@ -1,6 +1,6 @@
 {
  "engine": "rules",
- "created": 1790709954.7293956,
+ "created": 1790710633.651187,
  "notices": [
   "There are not yet enough gentle practices in the texts' own terms that match what you described, so the pathway below is short."
  ],
@@ -141,7 +141,7 @@
  "mapping_audit": {
   "unmapped_reason": null,
   "rejected_by_code": {
-   "R_BELOW_FLOOR": 5
+   "R_BELOW_FLOOR": 3
   },
   "counter_only_entries": [
    "dx:antaraya-anavasthitatva"
@@ -160,6 +160,7 @@
    "dx:cittabhumi R_ENTRY_DENYLIST",
    "dx:siddhi-upasarga R_ENTRY_DENYLIST",
    "dx:gunatita R_ENTRY_DENYLIST",
+   "dx:gita-asuri-sampad R_ENTRY_DENYLIST",
    "dx:gita-sthitaprajna R_ENTRY_DENYLIST",
    "dx:sheath-annamaya R_KIND_NOT_MAPPABLE",
    "dx:sheath-pranamaya R_KIND_NOT_MAPPABLE",
@@ -244,9 +245,8 @@
   "vedic": {
    "points": [
     {
-     "text": "Read through the Vedic and yogic texts, your words “i want to go straight back to it” come closest to what they call Daurmanasya (dejection) (a partial match for Ārta-dhyāna (sorrowful dwelling)). Dejection is agitation of the mind from the thwarting of a wish (icchā-vighāta).",
+     "text": "The Vedic and yogic texts have their own account of a pattern like the one above: Daurmanasya (dejection) (a partial match for Ārta-dhyāna (sorrowful dwelling)). Dejection is agitation of the mind from the thwarting of a wish (icchā-vighāta). Your words were matched to Ārta-dhyāna (sorrowful dwelling), not to this; it is shown so that both readings are in view.",
      "cites": [
-      "tea:tattvartha-sutra:9.31",
       "tea:yoga-bhasya:1.31",
       "tea:yoga-sutra:1.31"
      ],
@@ -254,7 +254,8 @@
       "intake:q03#s0:0"
      ],
      "dx_id": "dx:companion-daurmanasya",
-     "via": "dx:jain-arta-dhyana"
+     "via": "dx:jain-arta-dhyana",
+     "counterpart_only": true
     }
    ]
   },
@@ -264,8 +265,7 @@
      "text": "Your words “i want to go straight back to it” fit only loosely what the Jain texts call Ārta-dhyāna (sorrowful dwelling). Meditation (dhyāna) is of four kinds: sorrowful (ārta), cruel (raudra), virtuous (dharmya) and pure (śukla) (TS 9.28); the last two are causes of liberation (TS 9.29).",
      "cites": [
       "tea:tattvartha-sutra:9.28",
-      "tea:tattvartha-sutra:9.29",
-      "tea:tattvartha-sutra:9.31"
+      "tea:tattvartha-sutra:9.29"
      ],
      "evidence_refs": [
       "intake:q03#s0:0"
@@ -287,11 +287,7 @@
      "tea:bhagavad-gita:1.28",
      "tea:bhagavad-gita:2.1",
      "tea:bhagavad-gita:2.7",
-     "tea:tattvartha-sutra:9.28",
      "tea:tattvartha-sutra:9.30",
-     "tea:tattvartha-sutra:9.31",
-     "tea:tattvartha-sutra:9.32",
-     "tea:tattvartha-sutra:9.33",
      "tea:satipatthana-sutta:mn10:2"
     ],
     "evidence_refs": [
@@ -306,15 +302,8 @@
     "cites": [
      "tea:yoga-sutra:1.31",
      "tea:yoga-bhasya:1.31",
-     "tea:bhagavad-gita:1.28",
-     "tea:bhagavad-gita:2.1",
      "tea:bhagavad-gita:2.7",
-     "tea:tattvartha-sutra:9.28",
-     "tea:tattvartha-sutra:9.30",
-     "tea:tattvartha-sutra:9.31",
-     "tea:tattvartha-sutra:9.32",
-     "tea:tattvartha-sutra:9.33",
-     "tea:satipatthana-sutta:mn10:2"
+     "tea:tattvartha-sutra:9.28"
     ],
     "evidence_refs": [
      "intake:q03#s0:0"
@@ -334,7 +323,7 @@
     "px_id": "px:anupreksa-ts-9-7",
     "name": "The reflections (anuprekṣā, TS 9.7)",
     "lens": "ascetic-jain",
-    "why": "You wrote “i want to go straight back to it”. The texts pair what they call Ārta-dhyāna (sorrowful dwelling) with this practice.",
+    "why": "You wrote “i want to go straight back to it”. This reading suggests the practice below for what the texts call Ārta-dhyāna (sorrowful dwelling); the practice comes from the texts cited with it, and the pairing is this reading's, not theirs.",
     "for": [
      "dx:jain-arta-dhyana"
     ],

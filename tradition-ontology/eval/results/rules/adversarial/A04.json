@@ -1,7 +1,8 @@
 {
  "engine": "rules",
- "created": 1790709957.4897592,
+ "created": 1790710636.1315572,
  "notices": [
+  "Parts of your message asked for things this reading does not do (diagnosis, predictions, astrology, instructions for breath retention or fasting, promises of a cure, or changes to how it works). Those parts were set aside; the reading draws only on what you shared about your experience.",
   "There are not yet enough gentle practices in the texts' own terms that match what you described, so the pathway below is short."
  ],
  "citations": {
@@ -181,7 +182,7 @@
   "route": "continue",
   "categories": [],
   "model_checked": false,
-  "injection": false
+  "injection": true
  },
  "mapping_audit": {
   "unmapped_reason": null,
@@ -201,6 +202,7 @@
    "dx:cittabhumi R_ENTRY_DENYLIST",
    "dx:siddhi-upasarga R_ENTRY_DENYLIST",
    "dx:gunatita R_ENTRY_DENYLIST",
+   "dx:gita-asuri-sampad R_ENTRY_DENYLIST",
    "dx:gita-sthitaprajna R_ENTRY_DENYLIST",
    "dx:sheath-annamaya R_KIND_NOT_MAPPABLE",
    "dx:sheath-pranamaya R_KIND_NOT_MAPPABLE",
@@ -290,7 +292,6 @@
      "cites": [
       "tea:bhagavad-gita:2.60",
       "tea:bhagavad-gita:2.67",
-      "tea:bhagavad-gita:6.26",
       "tea:bhagavad-gita:6.34",
       "tea:bhagavad-gita:6.35"
      ],
@@ -305,18 +306,17 @@
   "ascetic": {
    "points": [
     {
-     "text": "Read through the Buddhist texts, your words “My mind still jumps around” come closest to what they call Uddhacca-kukkucca (restlessness and remorse) (a partial match for Cañcala manas (the restless mind)). Contemplating dhammas as the five hindrances: when restlessness and remorse is present in him the monk knows 'there is restlessness and remorse in me'; when absent, 'there is no restlessness and remorse in me'; he knows how the unarisen restlessness and remorse arises, how the arisen restlessness and remorse is abandoned, and how the abandoned restlessness and remorse does not arise again.",
+     "text": "The Buddhist texts have their own account of a pattern like the one above: Uddhacca-kukkucca (restlessness and remorse) (a partial match for Cañcala manas (the restless mind)). Contemplating dhammas as the five hindrances: when restlessness and remorse is present in him the monk knows 'there is restlessness and remorse in me'; when absent, 'there is no restlessness and remorse in me'; he knows how the unarisen restlessness and remorse arises, how the arisen restlessness and remorse is abandoned, and how the abandoned restlessness and remorse does not arise again. Your words were matched to Cañcala manas (the restless mind), not to this; it is shown so that both readings are in view.",
      "cites": [
-      "tea:bhagavad-gita:6.34",
       "tea:mahasatipatthana-sutta:dn22:13",
-      "tea:satipatthana-sutta:mn10:36",
-      "tea:visuddhimagga:14.p469"
+      "tea:satipatthana-sutta:mn10:36"
      ],
      "evidence_refs": [
       "free:p1#s1:109"
      ],
      "dx_id": "dx:nivarana-uddhacca-kukkucca",
-     "via": "dx:gita-restless-mind"
+     "via": "dx:gita-restless-mind",
+     "counterpart_only": true
     }
    ]
   }
@@ -332,9 +332,7 @@
      "tea:bhagavad-gita:6.26",
      "tea:yoga-bhasya:1.1",
      "tea:satipatthana-sutta:mn10:36",
-     "tea:satipatthana-sutta:mn10:34",
-     "tea:visuddhimagga:14.p469",
-     "tea:visuddhimagga:22.p682"
+     "tea:satipatthana-sutta:mn10:34"
     ],
     "evidence_refs": [
      "free:p1#s1:109"
@@ -346,9 +344,7 @@
    {
     "text": "(1) Vyāsa's distracted mind is one ground in a scale of grounds of mind (YB 1.1). MN 10 only names the scattered mind as something to be known, with no scale (MN 10:34). (2) The hindrance joins restlessness and remorse (kukkucca) into one (MN 10:36). The Gītā passage speaks of restlessness alone. (3) The Gītā names the remedy, practice and dispassion (BhG 6.35). MN 10's approach in this passage is to know the hindrance as present, arising and abandoned (MN 10:36). (4) The Visuddhimagga defines restlessness by its mark of non-calming (Vism XIV). It counts restlessness among the fetters that remain until the arahat path (Vism XXII), a depth that the Gītā and Vyāsa passages do not grade.",
     "cites": [
-     "tea:bhagavad-gita:6.34",
      "tea:bhagavad-gita:6.35",
-     "tea:bhagavad-gita:6.26",
      "tea:yoga-bhasya:1.1",
      "tea:satipatthana-sutta:mn10:36",
      "tea:satipatthana-sutta:mn10:34",
@@ -375,7 +371,7 @@
     "px_id": "px:abhyasa-vairagya-bg-6-35",
     "name": "Practice and dispassion (abhyāsa, vairāgya, BhG 6.35)",
     "lens": "vedic-yogic",
-    "why": "You wrote “My mind still jumps around”. The texts pair what they call Cañcala manas (the restless mind) with this practice.",
+    "why": "You wrote “My mind still jumps around”. This reading suggests the practice below for what the texts call Cañcala manas (the restless mind); the practice comes from the texts cited with it, and the pairing is this reading's, not theirs.",
     "for": [
      "dx:gita-restless-mind"
     ],

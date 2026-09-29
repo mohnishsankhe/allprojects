@@ -536,7 +536,7 @@
     "endorsement": "\\b(?:and\\s+)?(?:she|he|they|it)(?:'s|'re| is| are)\\s+(?:right|correct|true)\\b|\\bi\\s+(?:have to\\s+|must\\s+|do\\s+)?(?:agree|admit)\\b|\\bwhich is true\\b",
     "sarcasm_strong": "(?:^|\\s)/s\\b|\\byeah,?\\s+right\\b|\\bas if\\s*!|\\bnot!|\\bjk\\b|\\bjust kidding\\b|\\b(?:i'm|i am)\\s+(?:just\\s+)?(?:kidding|joking)\\b|\\bsarcas(?:m|tic)\\w*|🙄|\\*\\s*eye\\s*-?rolls?\\s*\\*|\\beye\\s*-?roll\\w*|\\boh\\s+(?:sure|great|wonderful|perfect|joy)\\b|\\bsure,?\\s+because\\b|\\bbecause that (?:always )?works\\b",
     "sarcasm_weak": "\\b(?:lol|lmao|rofl|ha ha)\\b|\\bh[ae](?:h[ae])+\\b|[😂🤣😅😜😉😏🙃]|\\b\\w*?([a-z])\\1{2,}\\w*\\b",
-    "aspirational": "\\bi(?:'m|'d| am| would)?\\s+(?:wish|want|like|hope|need|trying|try)\\b(?:\\s+(?:that\\s+)?i)?(?:\\s+to)?\\s+(?:could\\s+)?(?:stop|quit|be less|be more|not be|not get|wasn't|weren't|didn't|did not|was not|were not|get rid of|reduce|control|overcome|let go of|work on|change)\\b",
+    "aspirational": "\\bi(?:'m|'d| am| would)?\\s+(?:wish|want|like|hope|need|trying|try)\\b(?:\\s+(?:that\\s+)?i)?(?:\\s+to)?\\s+(?:could\\s+)?(?:stop|quit|be less|be more|not be|not get|wasn't|weren't|didn't|did not|was not|were not|get rid of|reduce|control|overcome|let go of|work on|change)\\b|\\b(?:i|what i)\\s+(?:actually |really )?(?:want|would like|'d like|need|am trying|hope)\\s+to\\s+(?:look at|work on|understand|explore|figure out|learn about|talk about)\\b",
     "hypothetical_modal": "\\b(?:would|wouldn't|should|shouldn't|ought to|gonna|won't)\\b|(?<=\\w)'d\\b(?!\\s+(?:been|had|gone|done|seen|never|already|just|always|like|love|rather)\\b)|(?<=\\w)'ll\\b|(?<!my )(?<!no )(?<!own )(?<!the )\\bwill\\b(?!\\s*power)|\\bcould\\b(?!\\s*(?:n't|not)\\b)|\\b(?:am|'m|is|are|'re)\\s+going to\\s+(?:be|get|have|do|feel|make|start|stop|lose|end up|try)\\b",
     "hypothetical_opener": "^\\W*(?:suppose|supposing|imagine|what if|hypothetically|in theory|let'?s say|say that)\\b|\\bif i (?:were|was|had|could)\\b|\\bin case\\b|\\bimagine (?:if|that)\\b",
     "if_modal_sentence": "\\bif\\b.*\\b(?:would|wouldn't|could|might)\\b|\\bif\\b.*(?<=\\w)'d\\b|\\b(?:would|could|might)\\b.*\\bif\\b|(?<=\\w)'d\\b.*\\bif\\b",
@@ -552,7 +552,7 @@
       "\\b(?:sometimes|occasionally|at times|now and then|once in a while|from time to time)\\b"
     ],
     "hedge": "\\b(?:i guess|i suppose|maybe|perhaps|probably|possibly|kind of|kinda|sort of|sorta|a (?:little )?bit|a little|slightly|somewhat|i think|not sure(?: if)?|might|may)\\b",
-    "low_frequency": "\\b(?:only\\s+)?once\\b(?!\\s+(?:i|i'm|i've|it|the|my|we|you|he|she|they|a|in|again)\\b)|\\b(?:one time|rarely|seldom|hardly ever|not (?:that |very )?often|occasionally|every now and then|once in a (?:while|blue moon))\\b",
+    "low_frequency": "\\b(?:only\\s+)?once\\b(?!\\s+(?:i|i'm|i've|it|the|my|we|you|he|she|they|a|in|again)\\b)|\\b(?:one time|rarely|seldom|hardly ever|not (?:that |very )?often|occasionally|every now and then|once in a (?:while|blue moon))\\b|\\b(?:now and (?:then|again)|once in a while|from time to time|every so often)\\b",
     "f1": "\\b(?:always|constantly|continually|all the time|every (?:single )?(?:day|night|morning|evening|time|week|month|weekend)|each (?:day|time|night)|whenever|every time|again and again|over and over|repeatedly|non-?stop|for (?:hours|days|weeks|months|years|ages)|all (?:day|night|week|evening)|the whole (?:day|night|time|evening)|(?:can't|cannot|can not|couldn't) stop|keeps? (?:on )?\\w+ing|kept (?:on )?\\w+ing|never (?:able|manage)\\w*|most (?:days|nights|mornings|evenings)|daily|nightly|too (?:much|often)|so (?:much|often)|at least \\w+ times)\\b",
     "f3": "\\b(?:so that i|so i|and then|then i|which (?:means|makes)|until|to the point|so much that|so badly that|even (?:though|when|if|after)|no matter|despite|instead of|rather than|because of (?:this|that|it)|before i|after i|end up|ends up|ended up)\\b",
     "temporal_present": "\\b(?:now|right now|these days|nowadays|lately|recently|today|tonight|this (?:morning|evening|week|month|year)|yesterday|currently|still|every (?:day|morning|evening|night)|each (?:day|night)|daily|nightly)\\b|\\b(?:i'm|i am)\\s+\\w+ing\\b",
@@ -560,7 +560,8 @@
     "habitual_refusal": "\\b(?:won't|will not|wouldn't|would not)\\s+(?:just\\s+)?(?:stop|settle|stay|stay put|go away|leave me alone|leave me|let (?:me|it) go|let go|quiet(?:en)?(?: down)?|calm down|switch off|shut off|shut up|rest|listen|slow down|be still|sit still|focus|stop racing)\\b",
     "modal_perfect": "\\b(?:should|shouldn't|could|couldn't|would|wouldn't|might)\\s+(?:not\\s+)?have\\s+\\w+",
     "present_habit": "\\b(?:keep|keeps|kept going|always|every (?:day|night|evening|morning|time|week)|again and again|over and over|go(?:ing)? (?:back )?over|replay(?:ing)?|still|these days|most (?:days|nights))\\b",
-    "_hypothetical_exceptions_note": "Orchestrator fix (DECISIONS 2026-09-29): hypothetical_modal rejected the layer's own cues ('my mind won't settle', 'I keep going back over what I should have done'). Before the clause-level hypothetical test, spans matching habitual_refusal are removed (refusal/habit, not hypothesis), and modal_perfect spans are removed when present_habit is in the same clause (regret about the past, reported as a present habit). Everything else in hypothetical_modal still applies."
+    "_hypothetical_exceptions_note": "Orchestrator fix (DECISIONS 2026-09-29): hypothetical_modal rejected the layer's own cues ('my mind won't settle', 'I keep going back over what I should have done'). Before the clause-level hypothetical test, spans matching habitual_refusal are removed (refusal/habit, not hypothesis), and modal_perfect spans are removed when present_habit is in the same clause (regret about the past, reported as a present habit). Everything else in hypothetical_modal still applies.",
+    "_p6_note": "Orchestrator P6 (person-map judge): low-frequency phrases ('now and then', 'occasionally' …) cap an item; saying what one wants to look at/work on/explore is aspirational (capped), not evidence of the pattern. In the rules engine a one-stem cue is suggestive (corroboration only), stricter than strength.levels."
   },
   "subject_rule": {
     "_why": "Only statements about the person count. Reported speech and descriptions of others are excluded.",
@@ -1184,6 +1185,10 @@
     "graded_status": {
       "pattern": "anantanubandh|apratyakhyan|pratyakhyan|samjvalan|sanjvalan",
       "reason": "each Jain grade of a passion is defined by what it obstructs (right faith, partial vows, full vows, perfect conduct): assigning one is a judgment of spiritual status"
+    },
+    "character_verdict": {
+      "pattern": "asuri|demonic",
+      "reason": "Orchestrator P6 (judge finding): the Gītā's demonic endowment (BhG 16) is a verdict on character with a stated fate (16.5, 16.19–20). A reading never assigns it, and never reads a person's words through it (synthesizer skips denylisted equivalence targets)."
     }
   },
   "temperament_rule": {

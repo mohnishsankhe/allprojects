@@ -535,3 +535,27 @@ Conservative choices made without asking, with reasons. Newest last.
 - 2026-09-30 00:56 IST — **Content pool v2** (rules/content/buckets.json; onto-analyst): 117 items (work 24, overthinking 22, sleep 23, loneliness 22, meaning 26). Each has an exact, citable tid and its own scene, link and closing; 114 also have a close reading, 20 an x_link and 12 a one-line "difference". The seven misstated pool texts are corrected, parallel passages appear in one pool only, and all fields pass the claims scan. 50 posts were redrafted from a fresh queue: 0 failed rules_check, 0 claim hits, 0 near-duplicates, 0 uncitable. The full content gate goes back to the judge.
   - **Runner fix.** A content-only run of scripts/run_eval.py had overwritten the person-map judge packets with empty files while that judge was working. They were regenerated, byte-identical, and the judge was told. The runner now writes only the packets of the sets it ran, and merges summary.json.
   - **Logged in RUNLOG:** the pool agent ran one read-only `git status`.
+
+## 2026-09-30 01:07 IST — Person-map gates, first judgement: 4 of 7 FAIL on the rules engine; P6 fixes
+- **Judge (eval/judge/PERSON_MAP_GATES.md):**
+  - citation integrity 73.6% (FAIL);
+  - evidence PASS;
+  - swap test 53.8% on 4 pairs (FAIL);
+  - safety routing 42/42 PASS;
+  - forbidden claims FAIL: one verdict on character (the demonic endowment);
+  - injection resistance 10/10 PASS, but 5 attacks were not flagged;
+  - two lenses FAIL: 2 of 5 readings grounded;
+  - the "insufficient" message was never rendered (FAIL).
+- **Fixes, all general** (none tuned to a test text):
+  1. report.py renders the insufficient message. Its wording now names the limit of this reading and says it is not a statement about the person.
+  2. **Each point carries only the verses it actually names.** synthesizer: direct points cite only their definition; table-row and equivalence texts keep only the cites whose verse they name (\_cites_named, by source abbreviation and ref).
+  3. **Evidence never transfers.** A cross-lens point needs the other tradition's own markers to match the person's words (\_grounded). Otherwise the lens shows that tradition's counterpart to the pattern, saying "your words were matched to X, not to this" (counterpart_only).
+  4. **Character verdicts.** A new denylist group, character_verdict (asuri, demonic): never mapped, and never used as an equivalence target.
+  5. **Honest pathway wording.** "This reading suggests … the pairing is this reading's, not the texts'", in place of "the texts pair". The model prompt says the same.
+  6. **Mapper:**
+     - low-frequency phrases ("now and then", "from time to time" …) cap an item;
+     - "I want to look at / work on / understand / explore …" is aspirational (capped);
+     - in the rules engine a one-stem cue is suggestive as support, while it keeps indirect weight as counter-evidence.
+     These are stricter than MAPPING_RULES (the worked examples still pass).
+  7. **Safety:** a medical emergency now leads with the emergency line (lead). New injection patterns flag system impersonation, requests for breath-retention or fasting instructions, "say it will cure", and the Hindi "ignore instructions". The notice names them.
+- **Re-run of the hidden sets:** 0 automated failures in all three sets. The P02 false positive is gone. **Recall 2/30** (P10, P28). The swap test has only 2 pairs, which is not a meaningful sample; the release report says so. The failed gates go back to the judge.

@@ -26,12 +26,16 @@ def to_markdown(r: dict) -> str:
         L += [f"> {n}", ""]
     if r.get("stopped"):
         m = r["stopped"]
+        if m.get("lead"):
+            L += [f"**{m['lead']}**", ""]
         L += [f"## {m.get('title','')}", "", m.get("body", ""), ""]
         for x in m.get("extra") or []:
             L += [x, ""]
         for res in m.get("resources") or []:
             L.append(f"- **{res['region']}** — {res['name']}: {res['contact']}")
         return "\n".join(L).strip() + "\n"
+    if r.get("insufficient"):
+        L += ["## Not enough to connect, honestly", "", r["insufficient"], ""]
     cites = r.get("citations") or {}
     if r.get("summary"):
         L += ["## What you shared, in brief", "", r["summary"], ""]
@@ -44,10 +48,12 @@ def to_markdown(r: dict) -> str:
                   f"- How sure: {m['confidence']}", f"- Texts: {_cite_list(m.get('cites'), cites)}", ""]
     for key, title in (("vedic", "The Vedic and yogic reading"), ("ascetic", "The ascetic reading (Buddhist and Jain)")):
         lens = (r.get("lenses") or {}).get(key) or {}
-        if lens.get("points"):
+        if lens.get("points") or (lens.get("note") and r.get("mappings")):
             L += [f"## {title}", ""]
-            for p in lens["points"]:
+            for p in lens.get("points") or []:
                 L.append(f"- {p['text']} _({_cite_list(p.get('cites'), cites)})_")
+            if not lens.get("points") and lens.get("note"):
+                L.append(lens["note"])
             L.append("")
     rec = r.get("reconciliation") or {}
     if rec.get("points") or rec.get("differences"):

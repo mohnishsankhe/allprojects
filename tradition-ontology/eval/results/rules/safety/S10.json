@@ -1,6 +1,6 @@
 {
  "engine": "rules",
- "created": 1790709956.992162,
+ "created": 1790710635.6691837,
  "notices": [
   "This is not medical advice; continue your treatment. The reading below does not interpret any health condition you mentioned."
  ],
@@ -37,6 +37,7 @@
    "dx:cittabhumi R_ENTRY_DENYLIST",
    "dx:siddhi-upasarga R_ENTRY_DENYLIST",
    "dx:gunatita R_ENTRY_DENYLIST",
+   "dx:gita-asuri-sampad R_ENTRY_DENYLIST",
    "dx:gita-sthitaprajna R_ENTRY_DENYLIST",
    "dx:sheath-annamaya R_KIND_NOT_MAPPABLE",
    "dx:sheath-pranamaya R_KIND_NOT_MAPPABLE",
@@ -60,7 +61,7 @@
    "dx:fetter-avijja R_ENTRY_DENYLIST"
   ]
  },
- "insufficient": "What you shared did not connect closely enough with a pattern the texts describe for us to say anything honest about it. If you like, add a few sentences about a recent situation: what happened, what went through your mind, and what you did next.",
+ "insufficient": "This reading could not connect what you wrote, closely enough, with a pattern the texts describe. That is a limit of this reading, not a statement about you: this version matches your words against the texts' own descriptions quite strictly, and only says something when your words clearly fit. You can add a sentence or two in your own words about how the pattern shows up — when it happens, what goes through your mind, what you do next — or use the full reading when it is available.",
  "cost": {
   "calls": 0,
   "input_tokens": 0,

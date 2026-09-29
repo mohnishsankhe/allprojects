@@ -46,7 +46,9 @@ def test_full_reading_is_schema_valid_and_clean(fake_mapper):
     rep = engine.run_reading(inputs())
     validate_report(rep)
     assert rep["claim_hits"] == [] and rep["safety"]["route"] == "continue" and rep["engine"] == "rules"
-    assert rep["mappings"] and rep["lenses"]["vedic"]["points"] and rep["lenses"]["ascetic"]["points"]
+    # the ascetic lens speaks only if its own markers match the words (evidence never transfers); else an honest note
+    asc = rep["lenses"]["ascetic"]
+    assert rep["mappings"] and rep["lenses"]["vedic"]["points"] and (asc["points"] or asc.get("note"))
     assert rep["summary"] and rep["cost"]["calls"] == 0
 
 
@@ -195,7 +197,8 @@ def test_model_engine_end_to_end(fake_mapper, monkeypatch):
     assert [s for s, _ in t.calls][0] == "safety_screen"                 # the screen runs first
     assert rep["cost"]["calls"] == 2 and set(rep["cost"]["by_step"]) == {"safety_screen", "synthesis"}
     assert rep["lenses"]["vedic"]["points"][0]["text"].startswith("You wrote")
-    assert rep["lenses"]["ascetic"]["points"]                            # empty model list falls back to the rules result
+    asc = rep["lenses"]["ascetic"]                                       # empty model list falls back to the rules result
+    assert asc["points"] or asc.get("note")
     assert rep["notices"] == ["No practice could be matched safely, so no pathway is suggested."] and rep["claim_hits"] == []
 
 

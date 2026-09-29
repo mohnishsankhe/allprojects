@@ -1,6 +1,15 @@
 """Two-lens synthesis: both lenses speak, every point is tied to the person's words and to citable texts."""
+import pytest
+
 from insight import ontology, synthesizer
 from conftest import client_with, fake_map_person, BENIGN, QUOTE
+
+
+@pytest.fixture(autouse=True)
+def grounded(monkeypatch, request):
+    """Most tests here check structure; they treat cross-lens targets as grounded. test_ungrounded_* switch it off."""
+    if "ungrounded" not in request.node.name:
+        monkeypatch.setattr(synthesizer, "_grounded", lambda eid, quotes: True)
 
 
 def maps():
@@ -129,3 +138,21 @@ def test_model_synthesis_packet_wraps_person_text_as_data():
     synthesizer.synthesize([], maps(), engine="model", client=c)
     user = t.calls[0][1]["messages"][0]["content"]
     assert user.startswith("<user_input>") and "Packet:" in user
+
+
+def test_ungrounded_equivalence_shows_only_the_counterpart_and_says_so():
+    # the real grounding check: the fake quote does not match any ascetic entry's own markers, so evidence does not
+    # transfer: the ascetic lens shows the texts' counterpart to the pattern and says the words were not matched to it
+    res = synthesizer.rules_synthesis(maps())
+    asc = res["lenses"]["ascetic"]
+    assert asc["points"], asc
+    for p in asc["points"]:
+        assert p.get("counterpart_only") and "Your words were matched to" in p["text"] and "come closest" not in p["text"]
+        assert p["text"].startswith(("The Buddhist texts", "The Jain texts"))
+
+
+def test_ungrounded_cites_named_only():
+    t = "Suttas: (MN 10:36; DN 22:13); TS 8.2, 8.9. YS 2.7."
+    assert synthesizer._cites_named(["tea:satipatthana-sutta:mn10:36", "tea:satipatthana-sutta:mn10:3",
+                                     "tea:tattvartha-sutra:8.9", "tea:yoga-sutra:2.4"], t) == \
+        ["tea:satipatthana-sutta:mn10:36", "tea:tattvartha-sutra:8.9"]
