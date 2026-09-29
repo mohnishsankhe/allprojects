@@ -17222,7 +17222,7 @@
      }
     ],
     "reason": "Maṇḍalabrāhmaṇa 4.1 in the e-text reads 'navacakraṃ ṣaḍādhāraṃ trilakṣyaṃ vyomapañcakam', that is nine cakras and SIX ādhāras. The 'sixteen ādhāras' belong to Yogacūḍāmaṇi 3 ('ṣaṭcakraṃ ṣoḍaśādhāraṃ trilakṣyaṃ vyomapañcakam'). The definition is corrected accordingly. The Yogaśikhā's four pīṭhas are confirmed at 1.172-175. All 8 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:3-ascent-through-the-centres (corrected).",
-    "date": "2026-09-29 22:37 IST",
+    "date": "2026-09-29 22:42 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -33514,8 +33514,23 @@
  {
   "id": "cpt:first-jhana",
   "name": "The first jhāna",
-  "category": "consciousness-states",
+  "category": "stages-maps",
   "definitions": [
+   {
+    "lineage": "lin:theravada",
+    "definition": "Vism IV p. 139-147: the first jhāna, on the earth kasiṇa, is 'secluded from sensual desires, secluded from unwholesome states, with applied and sustained thought, rapture and happiness born of seclusion'; it has five factors abandoned (the hindrances) and five possessed (applied thought, sustained thought, rapture, happiness, one-pointedness), is good in three ways (beginning, middle, end) and has ten marks. Absorption lasts a single moment of consciousness.",
+    "rests_on": [
+     "tea:visuddhimagga:4.p139",
+     "tea:visuddhimagga:4.p139/2",
+     "tea:visuddhimagga:4.p142",
+     "tea:visuddhimagga:4.p143/3",
+     "tea:visuddhimagga:4.p145",
+     "tea:visuddhimagga:4.p146",
+     "tea:visuddhimagga:4.p146/2",
+     "tea:visuddhimagga:4.p147",
+     "tea:visuddhimagga:4.p147/2"
+    ]
+   },
    {
     "lineage": "lin:early-buddhism",
     "definition": "Secluded from sensual pleasures and unwholesome states, with applied and sustained thought, rapture and bliss born of seclusion, pervading the body like bath powder kneaded with water (DN 2); remembered by the bodhisatta from childhood (MN 36); lust is abandoned through it (MN 44).",
@@ -33528,11 +33543,41 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:4.p139",
+      "tea:visuddhimagga:4.p139/2",
+      "tea:visuddhimagga:4.p142",
+      "tea:visuddhimagga:4.p143/3",
+      "tea:visuddhimagga:4.p145",
+      "tea:visuddhimagga:4.p146",
+      "tea:visuddhimagga:4.p146/2",
+      "tea:visuddhimagga:4.p147",
+      "tea:visuddhimagga:4.p147/2"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "members": [
+   "vitakka",
+   "vicāra",
+   "pīti",
+   "sukha",
+   "cittekaggatā"
+  ],
   "coverage": [
    "B3",
    "D"
@@ -33549,9 +33594,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:visuddhimagga/selections",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -35187,6 +35234,15 @@
      "tea:bojjhanga-samyutta:46.51",
      "tea:sangarava-sutta:3-16"
     ]
+   },
+   {
+    "lineage": "lin:theravada",
+    "definition": "Vism IV p. 141-146: sensual desire, ill will, sloth and torpor, restlessness and remorse and doubt are the unwholesome states from which the first jhāna is secluded; they are the adversaries and opposites of the jhāna factors (concentration/sensual desire, rapture/ill will, applied thought/sloth and torpor, happiness/restlessness and remorse, sustained thought/doubt); the jhāna does not arise while they are unabandoned. Each obstructs in its own way (p. 146).",
+    "rests_on": [
+     "tea:visuddhimagga:4.p141",
+     "tea:visuddhimagga:4.p143/2",
+     "tea:visuddhimagga:4.p146"
+    ]
    }
   ],
   "verification": {
@@ -35206,6 +35262,21 @@
      ],
      "result": "partially-confirmed",
      "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    },
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:4.p141",
+      "tea:visuddhimagga:4.p143/2",
+      "tea:visuddhimagga:4.p146"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan)."
     }
    ],
    "protocol": "insight-p1-single+spot"
@@ -35216,6 +35287,7 @@
    "thinamiddha",
    "uddhaccakukkucca",
    "vicikicchā",
+   "vyāpāda",
    "thīnamiddha"
   ],
   "coverage": [
@@ -35225,6 +35297,7 @@
   "provenance": {
    "units": [
     "extraction:satipatthana-sutta/all",
+    "extraction:visuddhimagga/selections",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
@@ -35675,12 +35748,40 @@
   "definitions": [
    {
     "lineage": "lin:theravada",
+    "definition": "Vism XXII p. 694: abandoning by substitution of opposites (tad-aṅga-pahāna) is the abandoning of each state by a factor of knowledge that is its opposite; the text pairs, for instance, defining mentality-materiality with personality view, discerning conditions with the view of no cause, seeing arising with the annihilation view, seeing passing away with the eternity view, and lists eighteen principal insights each abandoning one thing (contemplation of impermanence the perception of permanence, and so on).",
+    "rests_on": [
+     "tea:visuddhimagga:22.p694"
+    ]
+   },
+   {
+    "lineage": "lin:theravada",
     "definition": "By substitution of opposites (in insight), by suppression (in concentration), by cutting off (in the path), by tranquillization (in fruition), by escape (nibbāna).",
     "rests_on": [
      "tea:visuddhimagga:22/3"
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:22.p694"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
   "members": [
    "tadaṅga",
    "vikkhambhana",
@@ -35692,17 +35793,13 @@
    "B3",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:visuddhimagga/selections",
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -38441,9 +38538,26 @@
  },
  {
   "id": "cpt:forty-kammatthanas",
-  "name": "The forty meditation subjects",
+  "name": "The forty meditation subjects (kammaṭṭhāna)",
   "category": "stages-maps",
   "definitions": [
+   {
+    "lineage": "lin:theravada",
+    "definition": "Vism III p. 110-114: the forty are ten kasiṇas, ten foulnesses, ten recollections, four divine abidings, four immaterial states, one perception (repulsiveness in nutriment) and one defining (of the four elements). The text decides them in ten ways: by enumeration; by what brings access or absorption (ten bring only access); by kind of jhāna; by transcending (of factors or of object); by increase (only the ten kasiṇas are to be enlarged); by object (twenty-two have a counterpart sign, twelve intrinsic-nature states, six objects not to be described; eight moving objects at the preparatory stage); by plane (the ten foulnesses, body-mindfulness and nutriment-perception do not occur among devas); by taking (nineteen by sight, breathing by touch, the air kasiṇa by sight and touch, eighteen by hearing); by condition; and by suitability to temperament.",
+    "rests_on": [
+     "tea:visuddhimagga:3.p110/2",
+     "tea:visuddhimagga:3.p111",
+     "tea:visuddhimagga:3.p111/2",
+     "tea:visuddhimagga:3.p111/3",
+     "tea:visuddhimagga:3.p112",
+     "tea:visuddhimagga:3.p112/2",
+     "tea:visuddhimagga:3.p113",
+     "tea:visuddhimagga:3.p113/2",
+     "tea:visuddhimagga:3.p114",
+     "tea:visuddhimagga:3.p114/2",
+     "tea:visuddhimagga:3.p114/3"
+    ]
+   },
    {
     "lineage": "lin:theravada",
     "definition": "Ten kasiṇas, ten foulnesses, ten recollections, four divine abidings, four formless states, one perception (repulsiveness of nutriment) and one defining (of the four elements); ten lead only to access, thirty to absorption.",
@@ -38453,6 +38567,38 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:3.p110/2",
+      "tea:visuddhimagga:3.p111",
+      "tea:visuddhimagga:3.p111/2",
+      "tea:visuddhimagga:3.p111/3",
+      "tea:visuddhimagga:3.p112",
+      "tea:visuddhimagga:3.p112/2",
+      "tea:visuddhimagga:3.p113",
+      "tea:visuddhimagga:3.p113/2",
+      "tea:visuddhimagga:3.p114",
+      "tea:visuddhimagga:3.p114/2",
+      "tea:visuddhimagga:3.p114/3"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Counts are as the text gives them.",
   "members": [
    "10 kasiṇa",
    "10 asubha",
@@ -38466,12 +38612,6 @@
    "B3",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "relations": [
    {
     "rel": "contrasts-with",
@@ -38481,9 +38621,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:visuddhimagga/selections",
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -39667,6 +39809,16 @@
   "category": "ethics",
   "definitions": [
    {
+    "lineage": "lin:theravada",
+    "definition": "Vism IX p. 295, 318-319: loving-kindness, compassion, gladness and equanimity; each has a mark, function, manifestation, proximate cause, success and failure, a common and a special purpose, and a near and a far enemy (see prc:brahmavihara-bhavana). The beginner starts with loving-kindness, reflecting first on the danger in hate and the benefit of patience.",
+    "rests_on": [
+     "tea:visuddhimagga:9.p295",
+     "tea:visuddhimagga:9.p318",
+     "tea:visuddhimagga:9.p318/2",
+     "tea:visuddhimagga:9.p319"
+    ]
+   },
+   {
     "lineage": "lin:early-buddhism",
     "definition": "Love, compassion, rejoicing and equanimity pervading all directions without measure (DN 13; MN 62); a divine abiding here (Snp 1.8); the path to the Brahmā world (DN 13) and a basis for liberation of mind (MN 43).",
     "rests_on": [
@@ -39676,20 +39828,38 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:9.p295",
+      "tea:visuddhimagga:9.p318",
+      "tea:visuddhimagga:9.p318/2",
+      "tea:visuddhimagga:9.p319"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
-  "coverage": [
-   "B3",
-   "D"
-  ],
   "members": [
    "mettā",
    "karuṇā",
    "muditā",
    "upekkhā"
+  ],
+  "coverage": [
+   "B3",
+   "D"
   ],
   "relations": [
    {
@@ -39704,9 +39874,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:visuddhimagga/selections",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -44936,6 +45108,14 @@
   "category": "obstacles",
   "definitions": [
    {
+    "lineage": "lin:theravada",
+    "definition": "Vism XVII p. 569-570: clinging to sensual pleasures, to views, to rites and observances, and to a doctrine of self; 'clinging' is firm grasping; the text gives their meaning, the summary from the Dhammasaṅgaṇī, and the three orders (arising, abandoning, teaching).",
+    "rests_on": [
+     "tea:visuddhimagga:17.p569",
+     "tea:visuddhimagga:17.p570"
+    ]
+   },
+   {
     "lineage": "lin:early-buddhism",
     "definition": "Clinging to sensual pleasures, views, rules and observances, and a doctrine of self (SN 12.2; MN 11).",
     "rests_on": [
@@ -44944,26 +45124,44 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:17.p569",
+      "tea:visuddhimagga:17.p570"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
-  "coverage": [
-   "B3",
-   "D"
-  ],
   "members": [
    "kāmupādāna",
    "diṭṭhupādāna",
    "sīlabbatupādāna",
    "attavādupādāna"
   ],
+  "coverage": [
+   "B3",
+   "D"
+  ],
   "provenance": {
    "units": [
+    "extraction:visuddhimagga/selections",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -81893,7 +82091,7 @@
      }
     ],
     "reason": "Every example in the definition was text-located. ŚB 14.6.11.2 has 'indho vai nāmaiṣa … taṃ vā etam indhaṃ santam indra ity ācakṣate paro'kṣeṇaiva paro'kṣapriyā iva hi devāḥ pratyakṣadviṣaḥ'. AB 3.43 has 'tam agnistomaṃ santam agniṣṭoma ity ācakṣate parokṣeṇa parokṣapriyā iva hi devāḥ', and also 3.33 and 7.30. The svāpyaya → svapna pun, however, is ŚB 10.5.2.19, not 10.5.2.20, as the correction of tea:satapatha-brahmana:10.5.2.20 records. Correction: that locator becomes 10.5.2.19 in the definition; the wording is otherwise unchanged.",
-    "date": "2026-09-29 22:37 IST",
+    "date": "2026-09-29 22:42 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    }
   ],
@@ -91828,6 +92026,96 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:remedies-for-resentment-vism",
+  "name": "Remedies for resentment in the development of loving-kindness (Vism IX)",
+  "category": "obstacles",
+  "definitions": [
+   {
+    "lineage": "lin:theravada",
+    "definition": "Vism IX p. 298-306 gives the ordered remedies: return to loving-kindness for the earlier persons; recall the Buddha's advice; recall a calm quality in the person or compassion; admonish oneself in verse; reflect on ownership of kamma; recall the Teacher's earlier patience; reflect on the beginningless round; reflect on the benefits of loving-kindness; analyse into elements; share gifts.",
+    "rests_on": [
+     "tea:visuddhimagga:9.p298",
+     "tea:visuddhimagga:9.p298/2",
+     "tea:visuddhimagga:9.p299",
+     "tea:visuddhimagga:9.p299/2",
+     "tea:visuddhimagga:9.p300",
+     "tea:visuddhimagga:9.p300/2",
+     "tea:visuddhimagga:9.p301",
+     "tea:visuddhimagga:9.p301/2",
+     "tea:visuddhimagga:9.p302",
+     "tea:visuddhimagga:9.p302/2",
+     "tea:visuddhimagga:9.p303",
+     "tea:visuddhimagga:9.p303/2",
+     "tea:visuddhimagga:9.p304",
+     "tea:visuddhimagga:9.p305",
+     "tea:visuddhimagga:9.p305/2",
+     "tea:visuddhimagga:9.p305/3",
+     "tea:visuddhimagga:9.p306",
+     "tea:visuddhimagga:9.p306/2"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:9.p298",
+      "tea:visuddhimagga:9.p298/2",
+      "tea:visuddhimagga:9.p299",
+      "tea:visuddhimagga:9.p299/2",
+      "tea:visuddhimagga:9.p300",
+      "tea:visuddhimagga:9.p300/2",
+      "tea:visuddhimagga:9.p301",
+      "tea:visuddhimagga:9.p301/2",
+      "tea:visuddhimagga:9.p302",
+      "tea:visuddhimagga:9.p302/2",
+      "tea:visuddhimagga:9.p303",
+      "tea:visuddhimagga:9.p303/2",
+      "tea:visuddhimagga:9.p304",
+      "tea:visuddhimagga:9.p305",
+      "tea:visuddhimagga:9.p305/2",
+      "tea:visuddhimagga:9.p305/3",
+      "tea:visuddhimagga:9.p306",
+      "tea:visuddhimagga:9.p306/2"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "members": [
+   "repeat mettā to earlier persons",
+   "the Buddha's advice (saw simile, seven things)",
+   "recall the person's calm quality or compassion",
+   "self-admonition in verse",
+   "ownership of kamma",
+   "the Teacher's former patience",
+   "the beginningless round",
+   "benefits of mettā",
+   "analysis into elements",
+   "sharing gifts"
+  ],
+  "notes": "New sense-specific concept for the Visuddhimagga's own list; see prc:patigha-vinodana-vism.",
+  "provenance": {
+   "units": [
+    "extraction:visuddhimagga/selections"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -108403,6 +108691,19 @@
   "definitions": [
    {
     "lineage": "lin:theravada",
+    "definition": "Vism III p. 101-114: the six temperaments (cariyā) are the greedy, the hating, the deluded, the faithful, the intelligent and the speculative (fourteen counted by some with combinations, but in brief six). Faith is near-kin to greed, understanding to hate, speculation to delusion. The text gives five means of discerning temperament (posture, work, eating, seeing, the arising of states), then what suits each (lodging and the rest), and which of the forty subjects suit each; it cautions that its discernment of marks is by the teachers' opinion and not essential (p. 107), and that the assignment of subjects is by direct opposition and extreme suitability (p. 114).",
+    "rests_on": [
+     "tea:visuddhimagga:3.p101/2",
+     "tea:visuddhimagga:3.p102",
+     "tea:visuddhimagga:3.p102/2",
+     "tea:visuddhimagga:3.p104/2",
+     "tea:visuddhimagga:3.p107/2",
+     "tea:visuddhimagga:3.p114/3",
+     "tea:visuddhimagga:3.p114/4"
+    ]
+   },
+   {
+    "lineage": "lin:theravada",
     "definition": "Greedy, hating, deluded, faithful, intelligent and speculative; each has suitable subjects, dwellings and postures; faith parallels greed, intelligence hatred, speculation delusion.",
     "rests_on": [
      "tea:visuddhimagga:3/6",
@@ -108418,6 +108719,33 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:3.p101/2",
+      "tea:visuddhimagga:3.p102",
+      "tea:visuddhimagga:3.p102/2",
+      "tea:visuddhimagga:3.p104/2",
+      "tea:visuddhimagga:3.p107/2",
+      "tea:visuddhimagga:3.p114/3",
+      "tea:visuddhimagga:3.p114/4"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
   "members": [
    "rāga-carita",
    "dosa-carita",
@@ -108426,21 +108754,18 @@
    "buddhi-carita",
    "vitakka-carita"
   ],
+  "notes": "The marks themselves are recorded in phn:vism-carita-raga etc.",
   "coverage": [
    "B3",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:visuddhimagga/selections",
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -117048,6 +117373,15 @@
   "category": "obstacles",
   "definitions": [
    {
+    "lineage": "lin:theravada",
+    "definition": "Vism XXII p. 682-684: the ten fetters, so called because they bind beings to aggregates, to the fruit of kamma and to suffering; five higher (lust for fine-material and immaterial existence, conceit, restlessness, ignorance) and five lower (personality view, doubt, adherence to rites and observances, sensual lust, ill will). The text says personality view, doubt, adherence to rites and observances, and the sensual lust and ill will that lead to states of loss are cut by the first path knowledge; the remaining gross sensual lust and ill will by the second; the subtle by the third; the five higher by the fourth.",
+    "rests_on": [
+     "tea:visuddhimagga:22.p682",
+     "tea:visuddhimagga:22.p683",
+     "tea:visuddhimagga:22.p684"
+    ]
+   },
+   {
     "lineage": "lin:early-buddhism",
     "definition": "Identity view, doubt, clinging to rules and vows, sensual lust, ill will (the five lower), lust for form, lust for the formless, conceit, restlessness, ignorance (the five higher); abandoned stage by stage (MN 64; MN 2).",
     "rests_on": [
@@ -117058,11 +117392,58 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:22.p682",
+      "tea:visuddhimagga:22.p683",
+      "tea:visuddhimagga:22.p684"
+     ],
+     "result": "corrected",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan). Corrected: Vism XXII p. 684: \"apāyagamanīyā ca kāmarāga-paṭighā ... paṭhamañāṇavajjhā; sesā kāmarāgapaṭighā oḷārikā dutiyañāṇavajjhā; sukhumā tatiyañāṇavajjhā\". The entity called the first-path kind \"coarse\" and the second-path kind \"gross\", which misstates the division."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "correction_log": [
+   {
+    "field": "definitions",
+    "old": [
+     {
+      "lineage": "lin:theravada",
+      "definition": "Vism XXII p. 682-684: the ten fetters, so called because they bind beings to aggregates, to the fruit of kamma and to suffering; five higher (lust for fine-material and immaterial existence, conceit, restlessness, ignorance) and five lower (personality view, doubt, adherence to rites and observances, sensual lust, ill will). The text says personality view, doubt, adherence and the coarse sensual lust and ill will that lead to loss are cut by the first path knowledge, the gross by the second, the subtle by the third, the five higher by the fourth.",
+      "rests_on": [
+       "tea:visuddhimagga:22.p682",
+       "tea:visuddhimagga:22.p683",
+       "tea:visuddhimagga:22.p684"
+      ]
+     }
+    ],
+    "new": [
+     {
+      "lineage": "lin:theravada",
+      "definition": "Vism XXII p. 682-684: the ten fetters, so called because they bind beings to aggregates, to the fruit of kamma and to suffering; five higher (lust for fine-material and immaterial existence, conceit, restlessness, ignorance) and five lower (personality view, doubt, adherence to rites and observances, sensual lust, ill will). The text says personality view, doubt, adherence to rites and observances, and the sensual lust and ill will that lead to states of loss are cut by the first path knowledge; the remaining gross sensual lust and ill will by the second; the subtle by the third; the five higher by the fourth.",
+      "rests_on": [
+       "tea:visuddhimagga:22.p682",
+       "tea:visuddhimagga:22.p683",
+       "tea:visuddhimagga:22.p684"
+      ]
+     }
+    ],
+    "reason": "Vism XXII p. 684: \"apāyagamanīyā ca kāmarāga-paṭighā ... paṭhamañāṇavajjhā; sesā kāmarāgapaṭighā oḷārikā dutiyañāṇavajjhā; sukhumā tatiyañāṇavajjhā\". The entity called the first-path kind \"coarse\" and the second-path kind \"gross\", which misstates the division.",
+    "by": "J",
+    "date": "2026-09-29"
+   }
+  ],
   "coverage": [
    "B3",
    "D"
@@ -117091,9 +117472,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:visuddhimagga/selections",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }

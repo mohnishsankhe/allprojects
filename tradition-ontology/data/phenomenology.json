@@ -8211,7 +8211,7 @@
     "old": "4",
     "new": "prose 2",
     "reason": "The effects of the sounds close the second prose section of the e-text Haṃsa (Adyar §§18-21). All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:4-effects-of-the-sounds (corrected).",
-    "date": "2026-09-29 22:37 IST",
+    "date": "2026-09-29 22:42 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -8266,7 +8266,7 @@
     "old": "4",
     "new": "prose 2",
     "reason": "The ten sounds are in the second prose section of the e-text Haṃsa, which has vv. 1-3 and prose sections 1-2 but no '4' (Adyar §§15-17). All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:4-ten-sounds (corrected).",
-    "date": "2026-09-29 22:37 IST",
+    "date": "2026-09-29 22:42 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -16512,7 +16512,7 @@
     "old": "1.60-68",
     "new": "1.68-69 (prose closing khaṇḍa 7)",
     "reason": "The list of saṃyamas and their powers is the prose after v. 1.68 that closes khaṇḍa 7. E-text 1.60-68 deal with curing diseases by breath. All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:sandilya-upanisad:1.60-68 (corrected).",
-    "date": "2026-09-29 22:37 IST",
+    "date": "2026-09-29 22:42 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -17724,7 +17724,7 @@
     "old": "10.5.2.20",
     "new": "10.5.2.19-20",
     "reason": "The two halves of the description are in adjacent kaṇḍikās. The breaths going into the self in sleep is ŚB 10.5.2.19: 'sa yadā svapity athainam ete prāṇāḥ svā apiyanti tasmāt svāpyayaḥ … taṃ svapna ity ācakṣate'. Knowing nothing by mind, speech, smell, sight or hearing is 10.5.2.20: 'sa etaiḥ suptaḥ na kasya cana veda na manasā saṅkalpayati …'. Correction: ref 10.5.2.19-20, the same range fix as for tea:satapatha-brahmana:10.5.2.20.",
-    "date": "2026-09-29 22:37 IST",
+    "date": "2026-09-29 22:42 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    }
   ],
@@ -20826,6 +20826,418 @@
   }
  },
  {
+  "id": "phn:vism-carita-buddhi",
+  "lineage": "lin:theravada",
+  "source": "src:visuddhimagga",
+  "ref": "3.p102-3.p114",
+  "stage": "beginner",
+  "kind": "state",
+  "name": "The intelligent temperament (buddhicarita)",
+  "description": "The text's marks of the intelligent person (buddhicarita). Affinity: understanding is near-kin to hate (see the hating temperament). Posture, work, eating, seeing: like the hating person, being akin. States that mostly occur: being easy to admonish, having good friends, moderation in eating, mindfulness and clear comprehension, devotion to wakefulness, a sense of urgency at what should stir it, and right striving in one so stirred. What suits him: the text says there is nothing unsuitable ('this is unsuitable') in lodging and the rest. Subjects that suit him: mindfulness of death, the recollection of peace, the defining of the four elements and the perception of repulsiveness in nutriment (four).",
+  "rests_on": [
+   "tea:visuddhimagga:3.p101/2",
+   "tea:visuddhimagga:3.p102",
+   "tea:visuddhimagga:3.p104/2",
+   "tea:visuddhimagga:3.p105",
+   "tea:visuddhimagga:3.p105/2",
+   "tea:visuddhimagga:3.p106",
+   "tea:visuddhimagga:3.p106/2",
+   "tea:visuddhimagga:3.p106/3",
+   "tea:visuddhimagga:3.p106/4",
+   "tea:visuddhimagga:3.p107",
+   "tea:visuddhimagga:3.p107/2",
+   "tea:visuddhimagga:3.p109/3",
+   "tea:visuddhimagga:3.p114/3"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:3.p101/2",
+      "tea:visuddhimagga:3.p102",
+      "tea:visuddhimagga:3.p104/2",
+      "tea:visuddhimagga:3.p105",
+      "tea:visuddhimagga:3.p105/2",
+      "tea:visuddhimagga:3.p106",
+      "tea:visuddhimagga:3.p106/2",
+      "tea:visuddhimagga:3.p106/3",
+      "tea:visuddhimagga:3.p106/4",
+      "tea:visuddhimagga:3.p107",
+      "tea:visuddhimagga:3.p107/2",
+      "tea:visuddhimagga:3.p109/3",
+      "tea:visuddhimagga:3.p114/3"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan). The text's III p.107 caution is attached in notes."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Caution in the text itself (Vism III, p. 107): this way of discerning temperament in every detail comes neither in the Pali nor in the Commentary but only by the teachers' opinion, so it is not to be relied on as essential; the postures and the rest described for the greedy can also be done by others who dwell diligently, and in a person of mixed temperament the marks do not all appear; a teacher with knowledge of others' minds knows the temperament, or the pupil is asked.",
+  "provenance": {
+   "units": [
+    "extraction:visuddhimagga/selections"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:vism-carita-dosa",
+  "lineage": "lin:theravada",
+  "source": "src:visuddhimagga",
+  "ref": "3.p102-3.p114",
+  "stage": "beginner",
+  "kind": "state",
+  "name": "The hating temperament (dosacarita)",
+  "description": "The text's marks of the hating person (dosacarita). Affinity: understanding (paññā, the intelligent temperament) is near-kin: hate does not cling to an object, nor does understanding; hate turns away from beings, understanding from formations. Posture: he walks as if digging with the toe-tips, puts the foot down abruptly, lifts it abruptly, and his footprint is dragged along (anukaḍḍhita); his manner of standing is rigid; lying down he is hurried, lays out the bed anyhow, throws himself down with a frown, and when woken rises quickly and answers as if angry. Work: sweeping he grips the broom hard, is hurried, throws sand up on both sides with a harsh noise, leaving it unclean and uneven; in work he is firm, rigid and uneven; his robe is too tight and untidy. Eating: he likes rough and sour food; eating, he makes a mouthful that fills the mouth, tastes nothing much, eats in a hurry, and is displeased at getting something unpleasant. Seeing: on seeing even a slightly unpleasing sight he looks as if tired and does not look long, is offended by a small fault, does not take note of a real virtue, and departs as if wishing to be rid of it, not looking back. States that mostly occur: anger, grudge, contempt, domineering, envy, avarice. What suits him (Vism III): a lodging neither too high nor too low, with shade and water, well finished with painting and flower designs, bright even floor, pleasing bed and stool, fragrant, that at a glance gives gladness; a safe, clean, level path; one bed and stool; the best cloth robes, light, well dyed; a well-shaped, polished, spotless bowl; a safe, level alms-route not too near nor too far; an alms-village where people receive him with respect; pleasant, well-dressed servers; food of good colour, smell and taste; lying down or sitting; a colour kasiṇa of very pure colour. Subjects that suit him: the four divine abidings and the four colour kasiṇas (eight).",
+  "rests_on": [
+   "tea:visuddhimagga:3.p101/2",
+   "tea:visuddhimagga:3.p102",
+   "tea:visuddhimagga:3.p104/2",
+   "tea:visuddhimagga:3.p105",
+   "tea:visuddhimagga:3.p105/2",
+   "tea:visuddhimagga:3.p106",
+   "tea:visuddhimagga:3.p106/2",
+   "tea:visuddhimagga:3.p106/3",
+   "tea:visuddhimagga:3.p106/4",
+   "tea:visuddhimagga:3.p107",
+   "tea:visuddhimagga:3.p107/2",
+   "tea:visuddhimagga:3.p108/2",
+   "tea:visuddhimagga:3.p109",
+   "tea:visuddhimagga:3.p114/3",
+   "tea:visuddhimagga:3.p114/4"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:3.p101/2",
+      "tea:visuddhimagga:3.p102",
+      "tea:visuddhimagga:3.p104/2",
+      "tea:visuddhimagga:3.p105",
+      "tea:visuddhimagga:3.p105/2",
+      "tea:visuddhimagga:3.p106",
+      "tea:visuddhimagga:3.p106/2",
+      "tea:visuddhimagga:3.p106/3",
+      "tea:visuddhimagga:3.p106/4",
+      "tea:visuddhimagga:3.p107",
+      "tea:visuddhimagga:3.p107/2",
+      "tea:visuddhimagga:3.p108/2",
+      "tea:visuddhimagga:3.p109",
+      "tea:visuddhimagga:3.p114/3",
+      "tea:visuddhimagga:3.p114/4"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan). The text's III p.107 caution is attached in notes."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Caution in the text itself (Vism III, p. 107): this way of discerning temperament in every detail comes neither in the Pali nor in the Commentary but only by the teachers' opinion, so it is not to be relied on as essential; the postures and the rest described for the greedy can also be done by others who dwell diligently, and in a person of mixed temperament the marks do not all appear; a teacher with knowledge of others' minds knows the temperament, or the pupil is asked.",
+  "provenance": {
+   "units": [
+    "extraction:visuddhimagga/selections"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:vism-carita-moha",
+  "lineage": "lin:theravada",
+  "source": "src:visuddhimagga",
+  "ref": "3.p102-3.p114",
+  "stage": "beginner",
+  "kind": "state",
+  "name": "The deluded temperament (mohacarita)",
+  "description": "The text's marks of the deluded person (mohacarita). Affinity: the speculative temperament (vitakka) is near-kin: delusion is unsettled through confusion, thinking through varied thinking; delusion wavers for lack of depth, thinking through quick imagining. Posture: he walks in a bewildered gait, puts the foot down as if startled, lifts it as if startled, and his footprint is abruptly pressed (sahasānupīḷita); his manner of standing is confused; lying down he lays out the bed badly, sprawls, mostly face down, and when woken makes a grunt and rises sluggishly. Work: sweeping he holds the broom loosely and turns it round and stirs things up, leaving it unclean and uneven; unskilful, confused, uneven and unfinished in work; his robe is loose and confused. Eating: he has no fixed taste; eating, he makes an untidy small mouthful, drops food in the bowl, smears his mouth, and eats with a distracted mind thinking of this and that. Seeing: on seeing whatever it is he depends on others: he blames when he hears another blame, praises when he hears another praise, but himself, through ignorance, is indifferent. States that mostly occur: sloth, torpor, restlessness, worry, doubt, holding tight, hard to let go. What suits him (Vism III): a lodging facing an open direction, unconfined, where directions are seen open; walking; not a small object (a confined place lets the mind fall further into confusion) but a large kasiṇa; the rest as for the hating person. Subject that suits him: mindfulness of breathing.",
+  "rests_on": [
+   "tea:visuddhimagga:3.p101/2",
+   "tea:visuddhimagga:3.p102",
+   "tea:visuddhimagga:3.p104/2",
+   "tea:visuddhimagga:3.p105",
+   "tea:visuddhimagga:3.p105/2",
+   "tea:visuddhimagga:3.p106",
+   "tea:visuddhimagga:3.p106/2",
+   "tea:visuddhimagga:3.p106/3",
+   "tea:visuddhimagga:3.p106/4",
+   "tea:visuddhimagga:3.p107",
+   "tea:visuddhimagga:3.p107/2",
+   "tea:visuddhimagga:3.p109/2",
+   "tea:visuddhimagga:3.p114/3",
+   "tea:visuddhimagga:3.p114/4"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:3.p101/2",
+      "tea:visuddhimagga:3.p102",
+      "tea:visuddhimagga:3.p104/2",
+      "tea:visuddhimagga:3.p105",
+      "tea:visuddhimagga:3.p105/2",
+      "tea:visuddhimagga:3.p106",
+      "tea:visuddhimagga:3.p106/2",
+      "tea:visuddhimagga:3.p106/3",
+      "tea:visuddhimagga:3.p106/4",
+      "tea:visuddhimagga:3.p107",
+      "tea:visuddhimagga:3.p107/2",
+      "tea:visuddhimagga:3.p109/2",
+      "tea:visuddhimagga:3.p114/3",
+      "tea:visuddhimagga:3.p114/4"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan). The text's III p.107 caution is attached in notes."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Caution in the text itself (Vism III, p. 107): this way of discerning temperament in every detail comes neither in the Pali nor in the Commentary but only by the teachers' opinion, so it is not to be relied on as essential; the postures and the rest described for the greedy can also be done by others who dwell diligently, and in a person of mixed temperament the marks do not all appear; a teacher with knowledge of others' minds knows the temperament, or the pupil is asked.",
+  "provenance": {
+   "units": [
+    "extraction:visuddhimagga/selections"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:vism-carita-raga",
+  "lineage": "lin:theravada",
+  "source": "src:visuddhimagga",
+  "ref": "3.p102-3.p114",
+  "stage": "beginner",
+  "kind": "state",
+  "name": "The greedy temperament (rāgacarita)",
+  "description": "The text's marks of the greedy person (rāgacarita), as given in Vism III. Affinity: faith (saddhā) is near-kin, since as greed is sticky and seeks sensual objects so faith seeks virtues. Posture: walking naturally he goes gracefully, puts the foot down slowly and evenly, lifts it evenly, and his footprint is 'raised' (ukkuṭika); his manner of standing is pleasing and sweet-looking; lying down he is unhurried, lays out the bed evenly, lies down slowly with limbs gathered in a pleasing way, and when woken rises quickly and answers slowly as if in doubt. Work: sweeping he takes a good broom, is unhurried, does not scatter the sand, spreads it like a carpet of flowers, clean and even; the same in washing and dyeing robes; skilful, gentle, even and careful; his robe is neither too tight nor too loose, pleasing and neat. Eating: he likes rich and sweet food; eating, he makes a moderate round mouthful, tastes the various flavours unhurried, and is glad at getting something nice. Seeing: on seeing even a slightly pleasing sight he looks long as if amazed, clings to even a small virtue, does not take note of a real fault, and departs reluctantly, looking back. States that mostly occur: deceit, craftiness, conceit, evil wishes, great wishes, discontent, ostentation, fickleness. What suits him (Vism III): a lodging that is dusty, dilapidated, ugly, so that merely to look at it brings loathing; rough, frayed robes; an ugly bowl; a disagreeable alms-route; rough and ugly food; walking or standing; an impure-coloured colour kasiṇa as object. Subjects that suit him: the ten foulnesses and mindfulness of the body (eleven), by way of direct opposition.",
+  "rests_on": [
+   "tea:visuddhimagga:3.p101/2",
+   "tea:visuddhimagga:3.p102",
+   "tea:visuddhimagga:3.p104/2",
+   "tea:visuddhimagga:3.p105",
+   "tea:visuddhimagga:3.p105/2",
+   "tea:visuddhimagga:3.p106",
+   "tea:visuddhimagga:3.p106/2",
+   "tea:visuddhimagga:3.p106/3",
+   "tea:visuddhimagga:3.p106/4",
+   "tea:visuddhimagga:3.p107",
+   "tea:visuddhimagga:3.p107/2",
+   "tea:visuddhimagga:3.p107/3",
+   "tea:visuddhimagga:3.p108",
+   "tea:visuddhimagga:3.p114/3",
+   "tea:visuddhimagga:3.p114/4"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:3.p101/2",
+      "tea:visuddhimagga:3.p102",
+      "tea:visuddhimagga:3.p104/2",
+      "tea:visuddhimagga:3.p105",
+      "tea:visuddhimagga:3.p105/2",
+      "tea:visuddhimagga:3.p106",
+      "tea:visuddhimagga:3.p106/2",
+      "tea:visuddhimagga:3.p106/3",
+      "tea:visuddhimagga:3.p106/4",
+      "tea:visuddhimagga:3.p107",
+      "tea:visuddhimagga:3.p107/2",
+      "tea:visuddhimagga:3.p107/3",
+      "tea:visuddhimagga:3.p108",
+      "tea:visuddhimagga:3.p114/3",
+      "tea:visuddhimagga:3.p114/4"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan). The text's III p.107 caution is attached in notes."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Caution in the text itself (Vism III, p. 107): this way of discerning temperament in every detail comes neither in the Pali nor in the Commentary but only by the teachers' opinion, so it is not to be relied on as essential; the postures and the rest described for the greedy can also be done by others who dwell diligently, and in a person of mixed temperament the marks do not all appear; a teacher with knowledge of others' minds knows the temperament, or the pupil is asked. The subjects named are corpse-contemplations and body-parts contemplations, recorded here by name only (summary-only; see the practices file).",
+  "provenance": {
+   "units": [
+    "extraction:visuddhimagga/selections"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:vism-carita-saddha",
+  "lineage": "lin:theravada",
+  "source": "src:visuddhimagga",
+  "ref": "3.p102-3.p114",
+  "stage": "beginner",
+  "kind": "state",
+  "name": "The faithful temperament (saddhācarita)",
+  "description": "The text's marks of the faithful person (saddhācarita). Affinity: faith is near-kin to greed (see the greedy temperament). Posture, work, eating, seeing: the text says the faithful and the rest are to be known by following the same as the greedy and the rest, being akin (so the faithful person's postures and the rest are like those of the greedy person). States that mostly occur: generosity, desire to see the noble ones, desire to hear the good Dhamma, abundant gladness, uncraftiness, undeceitfulness, confidence in places that inspire it. What suits him: everything said for the hating person suits, and among objects the places of recollection. Subjects that suit him: the first six recollections (Buddha, Dhamma, Saṅgha, virtue, generosity, deities).",
+  "rests_on": [
+   "tea:visuddhimagga:3.p101/2",
+   "tea:visuddhimagga:3.p102",
+   "tea:visuddhimagga:3.p104/2",
+   "tea:visuddhimagga:3.p105",
+   "tea:visuddhimagga:3.p105/2",
+   "tea:visuddhimagga:3.p106",
+   "tea:visuddhimagga:3.p106/2",
+   "tea:visuddhimagga:3.p106/3",
+   "tea:visuddhimagga:3.p106/4",
+   "tea:visuddhimagga:3.p107",
+   "tea:visuddhimagga:3.p107/2",
+   "tea:visuddhimagga:3.p109/3",
+   "tea:visuddhimagga:3.p114/3"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:3.p101/2",
+      "tea:visuddhimagga:3.p102",
+      "tea:visuddhimagga:3.p104/2",
+      "tea:visuddhimagga:3.p105",
+      "tea:visuddhimagga:3.p105/2",
+      "tea:visuddhimagga:3.p106",
+      "tea:visuddhimagga:3.p106/2",
+      "tea:visuddhimagga:3.p106/3",
+      "tea:visuddhimagga:3.p106/4",
+      "tea:visuddhimagga:3.p107",
+      "tea:visuddhimagga:3.p107/2",
+      "tea:visuddhimagga:3.p109/3",
+      "tea:visuddhimagga:3.p114/3"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan). The text's III p.107 caution is attached in notes."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Caution in the text itself (Vism III, p. 107): this way of discerning temperament in every detail comes neither in the Pali nor in the Commentary but only by the teachers' opinion, so it is not to be relied on as essential; the postures and the rest described for the greedy can also be done by others who dwell diligently, and in a person of mixed temperament the marks do not all appear; a teacher with knowledge of others' minds knows the temperament, or the pupil is asked.",
+  "provenance": {
+   "units": [
+    "extraction:visuddhimagga/selections"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:vism-carita-vitakka",
+  "lineage": "lin:theravada",
+  "source": "src:visuddhimagga",
+  "ref": "3.p102-3.p114",
+  "stage": "beginner",
+  "kind": "state",
+  "name": "The speculative temperament (vitakkacarita)",
+  "description": "The text's marks of the speculative person (vitakkacarita). Affinity: near-kin to delusion (see the deluded temperament). Posture, work, eating, seeing: like the deluded person, being akin. States that mostly occur: talkativeness, fondness for company, dislike of undertaking wholesome work, an unsettled mind, 'smoking by night, blazing by day', and rushing hither and thither. What suits him: a lodging that opens toward a direction where parks, groves, ponds, villages and mountains are seen does not suit him, because it causes the mind to run about; he should live in a deep, forest-hidden lodging like a cave; a large object is not suitable, a small one is; the rest as for the greedy person. Subject that suits him: mindfulness of breathing.",
+  "rests_on": [
+   "tea:visuddhimagga:3.p101/2",
+   "tea:visuddhimagga:3.p102",
+   "tea:visuddhimagga:3.p104/2",
+   "tea:visuddhimagga:3.p105",
+   "tea:visuddhimagga:3.p105/2",
+   "tea:visuddhimagga:3.p106",
+   "tea:visuddhimagga:3.p106/2",
+   "tea:visuddhimagga:3.p106/3",
+   "tea:visuddhimagga:3.p106/4",
+   "tea:visuddhimagga:3.p107",
+   "tea:visuddhimagga:3.p107/2",
+   "tea:visuddhimagga:3.p110",
+   "tea:visuddhimagga:3.p114/3"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:3.p101/2",
+      "tea:visuddhimagga:3.p102",
+      "tea:visuddhimagga:3.p104/2",
+      "tea:visuddhimagga:3.p105",
+      "tea:visuddhimagga:3.p105/2",
+      "tea:visuddhimagga:3.p106",
+      "tea:visuddhimagga:3.p106/2",
+      "tea:visuddhimagga:3.p106/3",
+      "tea:visuddhimagga:3.p106/4",
+      "tea:visuddhimagga:3.p107",
+      "tea:visuddhimagga:3.p107/2",
+      "tea:visuddhimagga:3.p110",
+      "tea:visuddhimagga:3.p114/3"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan). The text's III p.107 caution is attached in notes."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Caution in the text itself (Vism III, p. 107): this way of discerning temperament in every detail comes neither in the Pali nor in the Commentary but only by the teachers' opinion, so it is not to be relied on as essential; the postures and the rest described for the greedy can also be done by others who dwell diligently, and in a person of mixed temperament the marks do not all appear; a teacher with knowledge of others' minds knows the temperament, or the pupil is asked.",
+  "provenance": {
+   "units": [
+    "extraction:visuddhimagga/selections"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "phn:vism-counterpart-sign-breath",
   "lineage": "lin:theravada",
   "source": "src:visuddhimagga",
@@ -20919,28 +21331,50 @@
   "id": "phn:vism-learning-sign",
   "lineage": "lin:theravada",
   "source": "src:visuddhimagga",
-  "ref": "IV, PTS p. 125",
-  "stage": "parikamma → uggaha",
-  "kind": "vision",
-  "description": "The learning sign: the kasiṇa disk appears to the mind with eyes closed as clearly as with eyes open, still showing the device's faults.",
+  "ref": "4.p125",
+  "stage": "beginner",
+  "kind": "sign",
+  "name": "The learning sign of the earth kasiṇa",
+  "description": "Vism IV p. 125: the learning sign (uggahanimitta) has arisen when the disk, adverted to with the eyes closed, comes into focus as it did with the eyes open. From then on the meditator develops it in his own dwelling; as he keeps attending, the hindrances are suppressed, the defilements subside, the mind is concentrated by access concentration and the counterpart sign arises.",
   "rests_on": [
+   "tea:visuddhimagga:4.p125",
    "tea:visuddhimagga:4"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:4.p125"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "alt_description": [
+   "The learning sign: the kasiṇa disk appears to the mind with eyes closed as clearly as with eyes open, still showing the device's faults."
   ],
   "coverage": [
    "B3",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:visuddhimagga/selections",
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -20976,6 +21410,55 @@
   }
  },
  {
+  "id": "phn:vism-piti-five-kinds",
+  "lineage": "lin:theravada",
+  "source": "src:visuddhimagga",
+  "ref": "4.p143-4.p144",
+  "stage": "intermediate",
+  "kind": "state",
+  "name": "The five kinds of rapture (pīti)",
+  "description": "Rapture (pīti) in the first jhāna is fivefold, as the text describes: minor rapture (khuddikā) can only raise the hairs of the body; momentary rapture (khaṇikā) comes at moments like flashes of lightning; showering rapture (okkantikā) breaks over the body again and again like waves on a seashore; uplifting rapture (ubbegā) is strong, lifting the body until it leaps into the air (illustrated by the elder Mahā-Tissa of Puṇṇavallika and by the girl of Vattakālaka village); pervading rapture (pharaṇā) suffuses the whole body like a full bladder or a cave flooded with water. Growing and maturing, rapture fulfils tranquillity (of body and of consciousness), tranquillity fulfils happiness (bodily and mental), and happiness fulfils threefold concentration (momentary, access, absorption). The pervading rapture that becomes the root of absorption is the rapture meant in the first jhāna.",
+  "rests_on": [
+   "tea:visuddhimagga:4.p143/3",
+   "tea:visuddhimagga:4.p143/4",
+   "tea:visuddhimagga:4.p144",
+   "tea:visuddhimagga:4.p144/2"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:4.p143/3",
+      "tea:visuddhimagga:4.p143/4",
+      "tea:visuddhimagga:4.p144",
+      "tea:visuddhimagga:4.p144/2"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "The leaping stories are given as illustrations in the text; the text does not present leaping as an aim.",
+  "provenance": {
+   "units": [
+    "extraction:visuddhimagga/selections"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "phn:vism-supernormal-powers",
   "lineage": "lin:theravada",
   "source": "src:visuddhimagga",
@@ -21002,6 +21485,53 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:vism-ten-imperfections-insight",
+  "lineage": "lin:theravada",
+  "source": "src:visuddhimagga",
+  "ref": "20.p633-20.p638",
+  "stage": "intermediate",
+  "kind": "difficulty",
+  "name": "The ten imperfections of insight (vipassanūpakkilesa)",
+  "description": "The text says ten imperfections arise for one who has begun insight with the young insight of the knowledge of arising and passing away, in a clansman who practises rightly and is earnest (not in a noble disciple who has penetrated, nor in one who has practised wrongly, given up the subject or is lazy): illumination (obhāsa), knowledge (ñāṇa), rapture (pīti), tranquillity (passaddhi), happiness (sukha), resolve (adhimokkha), exertion (paggaha), establishment of mindfulness (upaṭṭhāna), equanimity (upekkhā) and delight (nikanti). The meditator who thinks 'such a thing never arose in me before; surely I have reached the path, the fruit', takes what is not the path for the path and the fruit; the course of insight is lost (ukkantā) and he sets aside his own subject and sits savouring the delight. They are called imperfections because they are grounds of imperfection (upakkilesavatthu), not because they are unwholesome; delight is both an imperfection and a ground of imperfection. They are thirty by way of grasping (view, conceit, craving on each). The unskilled meditator wavers at each and regards it as 'this is mine, this I am, this is my self'; the skilful one sees it as impermanent, conditioned, dependently arisen, of a nature to end and not-self, and so does not waver; then he defines the path and the not-path.",
+  "rests_on": [
+   "tea:visuddhimagga:20.p633",
+   "tea:visuddhimagga:20.p637",
+   "tea:visuddhimagga:20.p638"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:20.p633",
+      "tea:visuddhimagga:20.p637",
+      "tea:visuddhimagga:20.p638"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "Recorded as the text's own list of what arises in insight practice; no reader is diagnosed or predicted.",
+  "provenance": {
+   "units": [
+    "extraction:visuddhimagga/selections"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },

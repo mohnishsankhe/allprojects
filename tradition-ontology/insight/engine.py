@@ -15,6 +15,19 @@ from . import claims, ontology, safety, specificity
 from .llm import Ledger, ModelClient
 
 
+INSUFFICIENT = {
+    None: ("What you shared did not connect closely enough with a pattern the texts describe for us to say anything "
+           "honest about it. If you like, add a few sentences about a recent situation: what happened, what went "
+           "through your mind, and what you did next."),
+    "not_enough_own_words": ("There is not yet enough of your own writing for a reading (it needs at least a few "
+                             "sentences). If you like, describe a recent situation: what happened, what went through "
+                             "your mind, and what you did next."),
+    "dialogue_speaker_unresolved": ("To use a pasted conversation, please tell us which speaker label is you "
+                                    "(for example 'Me'). We never guess."),
+    "language_not_supported": "This first version reads English only. Please write your answers in English.",
+}
+
+
 def build_segments(inputs: dict) -> list[dict]:
     """The person's own words, as quotable segments with their origin. Dialogue: only the person's lines."""
     segs = []
@@ -77,17 +90,19 @@ def run_reading(inputs: dict, engine: str = "rules", client: Optional[ModelClien
         report["cost"] = ledger.totals()
         return report
 
-    # 2. mapping
-    maps, map_note = mapper.map_person(segs, engine=engine, client=client, ledger=ledger)
-    if map_note:
-        report["notices"].append(map_note)
+    # 2. mapping (rules/mapping_rules.json; the reading gate of 25 own words is applied inside the mapper)
+    res = mapper.map_person(inputs, scr, engine=engine, client=client, ledger=ledger)
+    maps = res.get("mappings") or []
+    if res.get("notice"):
+        report["notices"].append(res["notice"])
+    report["mapping_audit"] = res.get("audit") or {}
     if not maps:
-        report["insufficient"] = ("What you shared was not enough for us to connect it, honestly, with a pattern the texts "
-                                  "describe. If you like, add a few sentences about a recent situation: what happened, "
-                                  "what went through your mind, and what you did next.")
+        why = (res.get("audit") or {}).get("unmapped_reason")
+        report["insufficient"] = INSUFFICIENT.get(why, INSUFFICIENT[None])
         report["cost"] = ledger.totals()
         return report
     report["mappings"] = maps
+    report["groups"] = res.get("groups") or []
 
     # 3. two-lens synthesis
     syn, syn_note = synthesizer.synthesize(segs, maps, engine=engine, client=client, ledger=ledger, premium=premium)
@@ -121,15 +136,25 @@ def collect_cites(obj) -> set:
     return out
 
 
+LENS_EMPTY_NOTE = {
+    "vedic": ("Among the teachings checked so far, the Vedic and yogic texts do not describe what you wrote closely "
+              "enough, in their own terms, for this reading to say more."),
+    "ascetic": ("Among the teachings checked so far, the Buddhist and Jain texts do not describe what you wrote closely "
+                "enough, in their own terms, for this reading to say more."),
+}
+
+
 def finalize(report: dict, segs: list[dict]) -> None:
     """Resolve citations; drop uncitable ones; enforce specificity and the claim scan on every insight."""
     quotes = {}
     for m in report.get("mappings") or []:
         for e in m.get("evidence") or []:
             quotes[e["qid"]] = e["quote"]
-    for lens in (report.get("lenses") or {}).values():
+    for key, lens in (report.get("lenses") or {}).items():
         kept, _ = specificity.filter_insights(lens.get("points") or [], quotes)
         lens["points"] = [p for p in kept if not claims.scan(p["text"])]
+        if not lens["points"] and not lens.get("note"):
+            lens["note"] = LENS_EMPTY_NOTE[key]
     rec = report.get("reconciliation") or {}
     for key in ("points", "differences"):
         kept, _ = specificity.filter_insights(rec.get(key) or [], quotes)
@@ -142,7 +167,9 @@ def finalize(report: dict, segs: list[dict]) -> None:
         except KeyError:
             pass
     report["citations"] = cits
-    report["claim_hits"] = claims.scan_fields({k: v for k, v in report.items() if k not in ("citations", "safety")})
+    report["claim_hits"] = claims.scan_fields({k: v for k, v in report.items()
+                                               if k not in ("citations", "safety", "mapping_audit")},
+                                              skip_keys=("original", "quote", "evidence", "counter_evidence", "person_words"))
 
 
 def _strip_uncitable(obj) -> None:
@@ -153,7 +180,7 @@ def _strip_uncitable(obj) -> None:
                 obj[k] = [t for t in v if isinstance(t, str) and ontology.citable(t)]
             elif k in ("why", "summary", "text", "plan", "checkin_prompt") and isinstance(v, str):
                 obj[k] = claims.strip_sentences(v)
-            elif k not in ("citations", "evidence", "original", "stopped", "safety"):
+            elif k not in ("citations", "evidence", "counter_evidence", "original", "stopped", "safety", "mapping_audit"):
                 _strip_uncitable(v)
     elif isinstance(obj, list):
         for v in obj:

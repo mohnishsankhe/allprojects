@@ -321,3 +321,13 @@ Conservative choices made without asking, with reasons. Newest last.
 - **Level tag for means.** A means or instruction (e.g. Oṃ meditation, manonigraha) is tagged conventional, not ultimate. This follows principles.md: conventional covers the path itself. Mixed verses keep "ultimate".
 - **18 sense-specific -gk/-mu ids** have the same sense as their base ids in data/. They were kept, since they resolve, and folding them into the base ids is listed in NEXT_STEPS. The same goes for trm:kasaya-gk: the Advaita gloss on data trm:kasaya should move to it.
 - **Kārikā 2.22** shares a segment with 2.23, so a citation of 2.22 will not resolve. Nothing user-facing cites it (checked by check_layers). Listed in NEXT_STEPS.
+
+## 2026-09-29 22:42 IST — Visuddhimagga selections judge: below 95%, so all 183 entries were checked
+- The random sample was 15 of 19 faithful (78.9%). All 183 entries were checked individually: 35 fixed and 5 entities corrected. Merged: text-verified teachings now number 1,686. The diagnosis layer now has 99 of 102 entries usable, and the practice layer 29 usable, 14 of them gentle.
+- **Temperament caution.** The seven entries giving the marks of temperament (III pp.104–107) now carry the text's own caution: this is said "only following the teachers' opinion" and is not to be relied on as essential. This supports the mapping rule that temperament tops out at moderate and is never stated as "you are a … type".
+- **3.p116** is flagged restricted: the pupils' declarations include stopping the breath until death and grinding the body away.
+- Listed in NEXT_STEPS:
+  - skeleton 3/11 is misfiled (it is p.118, ch. IV);
+  - there are no chapter entries;
+  - four e-text readings were kept literally;
+  - trm:vicara is a homonym (Pali "sustained thought" vs Advaita "inquiry").

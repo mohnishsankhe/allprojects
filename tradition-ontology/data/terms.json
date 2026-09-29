@@ -9598,8 +9598,17 @@
   "id": "trm:ahirika",
   "term": "ahirika",
   "language": "Pali",
-  "literal": "shamelessness",
   "definitions": [
+   {
+    "lineage": "lin:theravada",
+    "definition": "Vism XIV p. 468: the mark is absence of disgust at bodily misconduct and the like, or lack of conscience.",
+    "sources": [
+     "src:visuddhimagga"
+    ],
+    "rests_on": [
+     "tea:visuddhimagga:14.p468"
+    ]
+   },
    {
     "lineage": "lin:theravada",
     "definition": "Lack of moral shame; one of the four universal unwholesome factors.",
@@ -9608,21 +9617,39 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:14.p468"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "literal": "shamelessness",
   "coverage": [
    "B3",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:visuddhimagga/selections",
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -21095,8 +21122,17 @@
   "id": "trm:anottappa",
   "term": "anottappa",
   "language": "Pali",
-  "literal": "fearlessness of wrongdoing",
   "definitions": [
+   {
+    "lineage": "lin:theravada",
+    "definition": "Vism XIV p. 468: the mark is absence of dread of bodily misconduct and the like, or lack of fear.",
+    "sources": [
+     "src:visuddhimagga"
+    ],
+    "rests_on": [
+     "tea:visuddhimagga:14.p468"
+    ]
+   },
    {
     "lineage": "lin:theravada",
     "definition": "Lack of moral dread; a universal unwholesome factor.",
@@ -21105,21 +21141,39 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:14.p468"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "literal": "fearlessness of wrongdoing",
   "coverage": [
    "B3",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:visuddhimagga/selections",
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -60052,8 +60106,19 @@
   "id": "trm:carita",
   "term": "carita (cariyā)",
   "language": "Pali",
-  "literal": "temperament",
   "definitions": [
+   {
+    "lineage": "lin:theravada",
+    "definition": "The six temperaments (greedy, hating, deluded, faithful, intelligent, speculative); 'cariyā', 'pakati' and 'ussannatā' are one in meaning; discerned by posture, work, eating, seeing and the arising of states, with the text's caution that this is by the teachers' opinion (Vism III p. 101-107).",
+    "sources": [
+     "src:visuddhimagga"
+    ],
+    "rests_on": [
+     "tea:visuddhimagga:3.p101/2",
+     "tea:visuddhimagga:3.p104/2",
+     "tea:visuddhimagga:3.p107/2"
+    ]
+   },
    {
     "lineage": "lin:theravada",
     "definition": "The six temperaments — greedy, hating, deluded, faithful, intelligent, speculative — determining suitable meditation subjects.",
@@ -60065,6 +60130,30 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:3.p101/2",
+      "tea:visuddhimagga:3.p104/2",
+      "tea:visuddhimagga:3.p107/2"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "literal": "temperament, conduct",
   "concepts": [
    "cpt:six-temperaments"
   ],
@@ -60072,17 +60161,13 @@
    "B3",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:visuddhimagga/selections",
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -103791,8 +103876,18 @@
   "id": "trm:kalyanamitta",
   "term": "kalyāṇamitta",
   "language": "Pali",
-  "literal": "good friend",
   "definitions": [
+   {
+    "lineage": "lin:theravada",
+    "definition": "The teacher who gives the meditation subject; described by a verse (dear, respected, esteemed (bhāvanīya), a speaker, patient with speech, able to speak on the profound, does not urge to what is unfit); the Buddha the best (Vism III p. 98).",
+    "sources": [
+     "src:visuddhimagga"
+    ],
+    "rests_on": [
+     "tea:visuddhimagga:3.p98/2",
+     "tea:visuddhimagga:3.p98/3"
+    ]
+   },
    {
     "lineage": "lin:theravada",
     "definition": "The teacher who gives the meditation subject, endowed with the seven qualities; the Buddha is the best good friend.",
@@ -103802,6 +103897,63 @@
     "rests_on": [
      "tea:visuddhimagga:3/5"
     ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:3.p98/2",
+      "tea:visuddhimagga:3.p98/3"
+     ],
+     "result": "corrected",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan). Corrected: \"bhāvanīyo\" in the verse (Vism III p. 98) means esteemed / worthy of regard, not \"able to be developed\"; same correction as tea:visuddhimagga:3.p98/2."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "literal": "good friend",
+  "correction_log": [
+   {
+    "field": "definitions",
+    "old": [
+     {
+      "lineage": "lin:theravada",
+      "definition": "The teacher who gives the meditation subject; described by a verse (dear, respected, able to be developed, a speaker, patient with speech, able to speak on the profound, does not urge to what is unfit); the Buddha the best (Vism III p. 98).",
+      "sources": [
+       "src:visuddhimagga"
+      ],
+      "rests_on": [
+       "tea:visuddhimagga:3.p98/2",
+       "tea:visuddhimagga:3.p98/3"
+      ]
+     }
+    ],
+    "new": [
+     {
+      "lineage": "lin:theravada",
+      "definition": "The teacher who gives the meditation subject; described by a verse (dear, respected, esteemed (bhāvanīya), a speaker, patient with speech, able to speak on the profound, does not urge to what is unfit); the Buddha the best (Vism III p. 98).",
+      "sources": [
+       "src:visuddhimagga"
+      ],
+      "rests_on": [
+       "tea:visuddhimagga:3.p98/2",
+       "tea:visuddhimagga:3.p98/3"
+      ]
+     }
+    ],
+    "reason": "\"bhāvanīyo\" in the verse (Vism III p. 98) means esteemed / worthy of regard, not \"able to be developed\"; same correction as tea:visuddhimagga:3.p98/2.",
+    "by": "J",
+    "date": "2026-09-29"
    }
   ],
   "related": [
@@ -103814,17 +103966,13 @@
    "B3",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:visuddhimagga/selections",
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -153301,6 +153449,17 @@
   "language": "Pali",
   "definitions": [
    {
+    "lineage": "lin:theravada",
+    "definition": "The five: sensual desire, ill will, sloth and torpor, restlessness and remorse, doubt; the adversaries and opposites of the jhāna factors (Vism IV p. 141); so called by way of covering, hindering and concealing consciousness (Vism XXII p. 684).",
+    "sources": [
+     "src:visuddhimagga"
+    ],
+    "rests_on": [
+     "tea:visuddhimagga:4.p141",
+     "tea:visuddhimagga:22.p684"
+    ]
+   },
+   {
     "lineage": "lin:early-buddhism",
     "definition": "The five hindrances named in MN 10:36 as the first field of the contemplation of dhammas: sensual desire, ill will, dullness and drowsiness, restlessness and remorse, doubt.",
     "sources": [
@@ -153354,6 +153513,20 @@
      "protocol": "insight-p1-single+spot",
      "queries": [],
      "evidence": [
+      "tea:visuddhimagga:22.p684",
+      "tea:visuddhimagga:4.p141"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan)."
+    },
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
       "tea:satipatthana-sutta:mn10:36"
      ],
      "result": "partially-confirmed",
@@ -153362,11 +153535,11 @@
    ],
    "protocol": "insight-p1-single+spot"
   },
+  "literal": "hindrance",
   "coverage": [
    "B3",
    "D"
   ],
-  "literal": "hindrance",
   "related": [
    "trm:nivarana",
    "trm:samyojana"
@@ -153386,6 +153559,7 @@
   ],
   "provenance": {
    "units": [
+    "extraction:visuddhimagga/selections",
     "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas",
     "skeleton:U37-abhidhamma-visuddhimagga",
@@ -170513,6 +170687,18 @@
   "language": "Pali",
   "definitions": [
    {
+    "lineage": "lin:theravada",
+    "definition": "Rapture: so called because it refreshes; mark endearing, function refreshing body and mind or pervading, manifestation elation; fivefold: minor, momentary, showering, uplifting, pervading (Vism IV p. 143-144).",
+    "sources": [
+     "src:visuddhimagga"
+    ],
+    "rests_on": [
+     "tea:visuddhimagga:4.p143/3",
+     "tea:visuddhimagga:4.p143/4",
+     "tea:visuddhimagga:4.p144/2"
+    ]
+   },
+   {
     "lineage": "lin:early-buddhism",
     "definition": "Step 5 'experiencing rapture' (MN 118:19); in the awakening-factor sequence the unworldly (nirāmisā) rapture that arises in one whose energy is aroused (mn118:33).",
     "sources": [
@@ -170560,6 +170746,21 @@
      "checked_by": "J",
      "protocol": "insight-p1-single+spot",
      "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:4.p143/3",
+      "tea:visuddhimagga:4.p143/4",
+      "tea:visuddhimagga:4.p144/2"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan)."
+    },
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
      "evidence": [],
      "result": "partially-confirmed",
      "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
@@ -170567,11 +170768,11 @@
    ],
    "protocol": "insight-p1-single+spot"
   },
+  "literal": "rapture",
   "coverage": [
    "B3",
    "D"
   ],
-  "literal": "rapture, joy",
   "cross_language": [
    {
     "language": "Sanskrit",
@@ -170588,6 +170789,7 @@
   ],
   "provenance": {
    "units": [
+    "extraction:visuddhimagga/selections",
     "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas",
     "skeleton:U37-abhidhamma-visuddhimagga"
@@ -230533,10 +230735,18 @@
  {
   "id": "trm:sukha",
   "term": "sukha",
-  "language": "Sanskrit",
-  "native": "सुख",
-  "literal": "pleasure, happiness",
+  "language": "Pali",
   "definitions": [
+   {
+    "lineage": "lin:theravada",
+    "definition": "Happiness: so called because it makes easy and gulps down or digs out bodily and mental affliction; mark gratification, function enhancing the associated states, manifestation aiding; distinguished from rapture as the gladness at getting a desirable object versus the experiencing of what is got (Vism IV p. 145).",
+    "sources": [
+     "src:visuddhimagga"
+    ],
+    "rests_on": [
+     "tea:visuddhimagga:4.p145"
+    ]
+   },
    {
     "lineage": "lin:epic-teaching",
     "definition": "Bhagavad Gītā 1–3: Pleasure and pain come from sense-contacts (2.14) and are to be made the same (2.38); for one without peace there is no happiness (2.66).",
@@ -230626,27 +230836,24 @@
     ]
    }
   ],
-  "related": [
-   "trm:duhkha",
-   "trm:santi",
-   "trm:piti",
-   "trm:brahma-samsparsa"
-  ],
-  "concepts": [
-   "cpt:samatva",
-   "cpt:special-qualities-of-self"
-  ],
-  "coverage": [
-   "A3",
-   "D",
-   "A5",
-   "B3"
-  ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
    "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:4.p145"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan)."
+    },
     {
      "phase": "D",
      "date": "2026-09-29",
@@ -230691,8 +230898,27 @@
      "result": "confirmed",
      "note": "Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
     }
-   ]
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "literal": "happiness, ease",
+  "native": "सुख",
+  "related": [
+   "trm:duhkha",
+   "trm:santi",
+   "trm:piti",
+   "trm:brahma-samsparsa"
+  ],
+  "concepts": [
+   "cpt:samatva",
+   "cpt:special-qualities-of-self"
+  ],
+  "coverage": [
+   "A3",
+   "D",
+   "A5",
+   "B3"
+  ],
   "cross_language": [
    {
     "language": "Sanskrit",
@@ -230702,6 +230928,7 @@
   ],
   "provenance": {
    "units": [
+    "extraction:visuddhimagga/selections",
     "extraction:bhagavad-gita/ch01-03",
     "skeleton:U11-nyaya-vaisesika",
     "skeleton:U36-pali-suttas",
@@ -263394,8 +263621,19 @@
  {
   "id": "trm:vicara",
   "term": "vicāra",
-  "language": "Sanskrit",
+  "language": "Pali",
   "definitions": [
+   {
+    "lineage": "lin:theravada",
+    "definition": "Sustained thought: roving, continued moving about; its mark is continued pondering of the object, function keeping the conascent states on it, manifestation the binding of consciousness to it; subtler, like the ringing of the bell, the bird gliding on outspread wings (Vism IV p. 142-143).",
+    "sources": [
+     "src:visuddhimagga"
+    ],
+    "rests_on": [
+     "tea:visuddhimagga:4.p142",
+     "tea:visuddhimagga:4.p143"
+    ]
+   },
    {
     "lineage": "lin:advaita-vedanta",
     "definition": "Inquiry: discriminating reflection, guided by scripture and the wise, into what one is and what the world is; the second gatekeeper and the lamp by which the real is seen.",
@@ -263442,6 +263680,29 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:4.p142",
+      "tea:visuddhimagga:4.p143"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "literal": "sustained thought",
   "cross_language": [
    {
     "language": "Pali",
@@ -263471,16 +263732,10 @@
    "B3",
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "native": "विचार",
-  "literal": "inquiry, reflection",
   "provenance": {
    "units": [
+    "extraction:visuddhimagga/selections",
     "skeleton:U06-other-gitas",
     "skeleton:U10-yoga",
     "skeleton:U36-pali-suttas",
@@ -263488,6 +263743,7 @@
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -267781,8 +268037,19 @@
   "id": "trm:vipassanupakkilesa",
   "term": "vipassanūpakkilesa",
   "language": "Pali",
-  "literal": "imperfection of insight",
   "definitions": [
+   {
+    "lineage": "lin:theravada",
+    "definition": "The ten imperfections of insight named in Vism XX (illumination, knowledge, rapture, tranquillity, happiness, resolve, exertion, establishment, equanimity, delight): imperfections because grounds of imperfection, not because they are unwholesome; the meditator is to see them as impermanent and not-self and not take them as the path (Vism XX p. 633-638).",
+    "sources": [
+     "src:visuddhimagga"
+    ],
+    "rests_on": [
+     "tea:visuddhimagga:20.p633",
+     "tea:visuddhimagga:20.p637",
+     "tea:visuddhimagga:20.p638"
+    ]
+   },
    {
     "lineage": "lin:theravada",
     "definition": "Ten experiences that arise with tender insight (illumination, knowledge, rapture, tranquillity, bliss, resolution, exertion, assurance, equanimity, attachment) and are mistaken for the path.",
@@ -267794,21 +268061,41 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:20.p633",
+      "tea:visuddhimagga:20.p637",
+      "tea:visuddhimagga:20.p638"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "literal": "imperfections of insight",
   "coverage": [
    "B3",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:visuddhimagga/selections",
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -270912,6 +271199,17 @@
   "language": "Pali",
   "definitions": [
    {
+    "lineage": "lin:theravada",
+    "definition": "Applied thought: thinking, directing (ūhana); its mark is directing consciousness onto the object, function striking and threshing, manifestation leading consciousness onto the object; like the striking of a bell, the first stirring like a bird spreading its wings (Vism IV p. 142-143).",
+    "sources": [
+     "src:visuddhimagga"
+    ],
+    "rests_on": [
+     "tea:visuddhimagga:4.p142",
+     "tea:visuddhimagga:4.p143"
+    ]
+   },
+   {
     "lineage": "lin:early-buddhism",
     "definition": "Thought directed to an object; thoughts of sensuality, ill will and cruelty versus renunciation, good will and harmlessness (MN 19); verbal formation (MN 44); a factor of the first jhāna; removed by the five methods (MN 20).",
     "sources": [
@@ -270937,16 +271235,32 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:visuddhimagga:4.p142",
+      "tea:visuddhimagga:4.p143"
+     ],
+     "result": "confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan)."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "literal": "thinking, applied thought",
   "coverage": [
    "B3",
    "D"
   ],
-  "literal": "thought, applied thought",
   "cross_language": [
    {
     "language": "Sanskrit",
@@ -270971,10 +271285,12 @@
   ],
   "provenance": {
    "units": [
+    "extraction:visuddhimagga/selections",
     "skeleton:U36-pali-suttas",
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
