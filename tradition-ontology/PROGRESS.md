@@ -45,14 +45,14 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U30-ayurveda-rasa | done | 5 lin · 69 src · 97 tch · 259 tea (71 originals) · 181 trm · 112 cpt · 32 prc · 15 dsp · 68 restricted | report saved |
 | U31-sound-arts | done | 4 lin · 76 src · 81 tch · 148 tea · 119 trm · 38 cpt · 19 prc · 12 dsp | report saved |
 | U32-jyotisa | done | 5 lin · 92 src · 78 tch · 125 tea (116 spot-checked) · 164 trm · 83 cpt · 23 prc · 11 dsp | report saved |
-| U33-sramana | running | | |
+| U33-sramana | done | 4 lin · 66 src · 28 tch · 180 tea (opponents' reports flagged) · 106 trm · 66 cpt · 9 prc · 10 dsp | report saved |
 | U34-jain-canon | running | | |
 | U35-jain-philosophy | running | | |
 | U36-pali-suttas | running | | |
 | U37-abhidhamma-visuddhimagga | running | | |
 | U38-early-schools | running | | |
 | U39-mahayana-sutras | running (resumed) | | |
-| U40-madhyamaka | paused (weekly limit; resume when a slot frees) | | |
+| U40-madhyamaka | running (resumed) | | |
 | U41-yogacara-pramana | paused (weekly limit; resume when a slot frees) | | |
 | U42-chan-zen | queued | | |
 | U43-pure-land | queued | | |

@@ -1,0 +1,1 @@
+{"kind": "equivalence", "entity": "trm:tirthankara", "change": "trm:tirthankara ≡ trm:tirthakara (exact)", "reason": "The two are variant forms of the same Sanskrit word for the Jina; the Pāśupata homonym stays a separate definition on trm:tirthakara.", "principle": "P2-standpoint", "rests_on": ["tea:tattvartha-sutra:6.24"], "by": "U34-jain-canon"}
