@@ -123,7 +123,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | bhagavad-gita | ch07-09 | done (95) | done (95) | done (97 tea, 449 disagreements; skeleton 40 up · 6 corr · 0 ret) | done: 68 passed · 29 fixed · 0 failed → text-verified | |
 | bhagavad-gita | ch10-12 | done (120) | done (120) | done (125 tea, 498 disagreements; skeleton 33 up · 3 corr · 0 ret) | done: 121 passed · 4 fixed · 0 failed → text-verified | |
 | bhagavad-gita | ch13-15 | done (85) | done (88) | done (88 tea, 545 disagreements; skeleton 23 up · 19 corr · 0 ret) | running | |
-| bhagavad-gita | ch16-18 | done (137) | running | | | |
+| bhagavad-gita | ch16-18 | done (137) | done (136) | running (+ thesis) | | |
 
 ### Gītā text-level gates (after ch16-18)
 - One consistency pass across all 18 chapters: citta/cetas → "thought (citta/cetas)" (ch. 6.18–23 still read "mind (citta)"), reflexive ātman, adhyātma gloss; one policy for the level tag 'bridging' vs 'unmarked'; resolve forward links to later chapters (13.x uses this edition's numbering); errata pass for the edition's glitches (DECISIONS 2026-09-28); then the quality gates (misreading hunter, hallucination hunter, reconciliation auditor, reviewer 5%) and the thesis entry by the ch16-18 merger.

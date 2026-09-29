@@ -23,3 +23,4 @@
 - 2026-09-29 17:51 IST  U48 skeleton done (REPORT saved; decisions logged). U52 launched.
 - 2026-09-29 18:02 IST  Gītā ch13-15 M done (88 tea); ch. 13 vulgate→edition shift added to merge.py for skeleton shards (DECISIONS). ch16-18 A done (137). Launched ch13-15 F and C-U09. Merge + atlas.
 - 2026-09-29 18:05 IST  C-U07 sweep done (470: 453 conf · 11 partial · 6 corr · 0 nf). C-U10 launched.
+- 2026-09-29 18:06 IST  Gītā ch16-18 B done (136). M (with tea:bhagavad-gita:thesis) launched.
