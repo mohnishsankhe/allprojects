@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A Cōḻa king whose elephant was cut down
 **Realization — the tradition's account:** A Cōḻa king whose elephant was cut down by Eṟipattar; later, finding among the heads of slain enemies one with matted hair — a devotee's — he entered the fire in remorse.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 21:52 IST._

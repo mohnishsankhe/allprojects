@@ -14,4 +14,4 @@ White patches of the skin, recoloured by the dark plant.
 _Notes: rests_on: tea:atharvaveda-saunaka:1.23-24_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 21:52 IST._

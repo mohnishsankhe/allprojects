@@ -11,4 +11,4 @@ Foremost nun in wearing coarse robes; her verses tell of the deaths of her famil
 _Notes: AN 1 Etadaggavagga (the 'foremost' lists)_
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

@@ -24,4 +24,4 @@ Another strand places it later (with one taste) or holds that the yogas and grou
 _Notes: Low confidence: which masters held which correlation (Gampopa's disciples, Lama Zhang, Phagmodrupa, later Karmapas) should be checked in Moonbeams before this entry is relied on. Relevant to U51's banding of pth:mahamudra-four-yogas._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._

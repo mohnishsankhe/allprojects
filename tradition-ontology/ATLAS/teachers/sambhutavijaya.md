@@ -10,4 +10,4 @@
 Elder who with Bhadrabāhu succeeded Yaśobhadra; teacher of Sthūlabhadra.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._

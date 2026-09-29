@@ -23,4 +23,4 @@ _Notes: Distinguished from Svāyambhuva Manu, to whom the Manusmṛti is ascribe
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — Located: ChU 3.11.4 and 8.15.1 ('prajāpatir manave manuḥ prajābhyaḥ') and BĀU 1.4.10 ('ahaṃ manur abhavam').
 - 2026-09-29 text-locate: confirmed — local:gita/gita BhG 4.1 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._

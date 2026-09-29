@@ -24,4 +24,4 @@ Summary only: meditation on the navel fire (caṇḍālī) in the central channe
 - analogous: [Raising Kuṇḍalinī through the six centres (Śākta)](kundalini-yoga-sakta.md) — A feminine inner power in the central channel in both; frames and goals differ.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._

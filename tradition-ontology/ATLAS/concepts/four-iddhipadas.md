@@ -14,4 +14,4 @@
 - part-of → [The thirty-seven qualities conducive to awakening (bodhipakkhiyā dhammā)](thirty-seven-wings.md) — rests on [51.20](../texts/iddhipada-samyutta.md#tea-iddhipada-samyutta-51-20)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

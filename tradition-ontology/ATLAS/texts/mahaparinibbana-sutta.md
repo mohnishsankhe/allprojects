@@ -147,7 +147,7 @@ To the wanderer Subhadda: in whatever teaching and training the noble eightfold 
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, karma-liberation_
 
-concepts: [The noble eightfold path](../concepts/noble-eightfold-path.md), [The four stages of awakening and the eight noble persons](../concepts/four-stages-of-awakening.md) · teachers: [Subhadda the wanderer](../teachers/subhadda-paribbajaka.md)
+concepts: [The noble eightfold path (ariya aṭṭhaṅgika magga)](../concepts/noble-eightfold-path.md), [The four stages of awakening and the eight noble persons](../concepts/four-stages-of-awakening.md) · teachers: [Subhadda the wanderer](../teachers/subhadda-paribbajaka.md)
 
 ### 6.1-6.3 <a id="tea-mahaparinibbana-sutta-6-1-6-3"></a>
 `skeleton` · confidence high
@@ -182,4 +182,4 @@ terms: [parinibbāna](../terms/parinibbana.md), [jhāna](../terms/jhana.md) · c
 _Notes: SuttaCentral uid dn16; Mahāsaṅgīti title 'Mahāparinibbānasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._

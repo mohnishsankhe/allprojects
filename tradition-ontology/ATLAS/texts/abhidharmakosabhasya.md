@@ -228,4 +228,4 @@ terms: [santati-pariṇāma-viśeṣa](../terms/santati-parinama-visesa.md), [b�
 
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._

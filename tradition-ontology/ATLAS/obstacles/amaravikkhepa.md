@@ -12,4 +12,4 @@ Refusing to declare anything from fear of false speech, of grasping, of cross-ex
   - [Sandaka Sutta](../texts/sandaka-sutta.md) — ref: MN 76 §30; rests_on: ["tea:sandaka-sutta:21-33"]
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._

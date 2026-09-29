@@ -19,4 +19,4 @@
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:8.17, tea:bhagavad-gita:9.7, tea:bhagavad-gita:9.8 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:12.4.2-6, tea:bhagavata-purana:3.11 — All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._

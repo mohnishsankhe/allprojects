@@ -16,4 +16,4 @@ Delusion (moha) is the root; lust is wind, greed phlegm, anger bile; jealousy, p
 - partial: [The six enemies (ariṣaḍvarga)](ari-sadvarga.md) — overlapping list of passions, here cast as bodily humours with delusion at the root
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._

@@ -28,4 +28,4 @@ terms: [śama](../terms/sama.md), [śānta-rasa](../terms/santa-rasa.md) · teac
 
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._

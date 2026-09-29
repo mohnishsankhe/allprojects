@@ -21,4 +21,4 @@ The great reviver of the Jonang: recognized as the rebirth of Kunga Drolchok, he
 **Realization — the tradition's account:** Regarded as the rebirth of Kunga Drolchok; after his death he was recognized as reborn in Mongolia as Zanabazar, the first Jebtsundamba Khutughtu.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime, skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime, skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._

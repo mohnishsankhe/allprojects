@@ -13,8 +13,8 @@
 
 ## Relations (interpretation layer)
 - contrasts-with → [Austerity / creative heat (tapas)](tapas.md): the self-mortification rejected in SN 56.11 and MN 36 — rests on [13-20](../texts/kassapasihanada-sutta.md#tea-kassapasihanada-sutta-13-20), [44-56](../texts/mahasihanada-sutta.md#tea-mahasihanada-sutta-44-56)
-- same-as-under-standpoint → [The noble eightfold path](noble-eightfold-path.md) (seeker) — rests on [13-20](../texts/kassapasihanada-sutta.md#tea-kassapasihanada-sutta-13-20), [44-56](../texts/mahasihanada-sutta.md#tea-mahasihanada-sutta-44-56)
+- same-as-under-standpoint → [The noble eightfold path (ariya aṭṭhaṅgika magga)](noble-eightfold-path.md) (seeker) — rests on [13-20](../texts/kassapasihanada-sutta.md#tea-kassapasihanada-sutta-13-20), [44-56](../texts/mahasihanada-sutta.md#tea-mahasihanada-sutta-44-56)
 - same-as-under-standpoint → [The middle way as true examination of dharmas (Kāśyapaparivarta, Samādhirāja)](middle-way-mahayana.md): the same middle between 'is' and 'is not' — rests on [15.7](../texts/mulamadhyamakakarika.md#tea-mulamadhyamakakarika-15-7)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._

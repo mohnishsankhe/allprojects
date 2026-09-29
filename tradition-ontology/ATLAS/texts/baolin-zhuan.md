@@ -15,4 +15,4 @@
 Hongzhou-era genealogy (801) that established the list of 28 Indian patriarchs, each with a transmission verse, ending with Bodhidharma, and so connected Huineng's Baolin temple to the Buddha.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

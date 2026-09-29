@@ -21,4 +21,4 @@ _Notes: Division and contents recalled from memory; the Kashmiri manuscript edit
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Ṛgvedakhilāni, catalog:GRETIL-dev:rgveda_-_khila, text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/1_rv/rgveda_-_khila.md, https://en.wikipedia.org/wiki/Khilani — Extant; Scheftelowitz, Die Apokryphen des Ṛgveda (Breslau 1906), from a Kashmiri manuscript — confirmed. The local GRETIL text (Scheftelowitz-based) has 5 adhyāyas; the Śrī Sūkta is Khila 2.6, the Medhā Sūkta Khila 4.8 and the Śivasaṅkalpa verses Khila 4.11 — all located.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 21:52 IST._

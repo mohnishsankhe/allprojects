@@ -19,4 +19,4 @@
 **Related:** [uparāga](uparaga.md), [citiśakti](citisakti.md), [vijñapti-mātra](vijnaptimatra.md), [bimba](bimba.md), [jīva](jiva.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U41-yogacara-pramana, skeleton:U15-dvaita, skeleton:U19-kashmir-saivism, skeleton:U13-advaita. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U41-yogacara-pramana, skeleton:U15-dvaita, skeleton:U19-kashmir-saivism, skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._

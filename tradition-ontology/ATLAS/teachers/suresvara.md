@@ -20,4 +20,4 @@ Disciple of Śaṅkara, author of the Naiṣkarmyasiddhi and of the Vārttikas o
 _Notes: Identity with Maṇḍana: the tradition's account (Śaṅkaradigvijaya). Most modern scholars (Hiriyanna, Kuppuswami Sastri) hold them distinct because their doctrines differ (e.g. on prasaṅkhyāna and on works)._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._

@@ -34,4 +34,4 @@ Vīraśaivism is a Śaiva sampradāya within Sanātana dharma, agreeing with the
 _Notes: Modern debate recorded only as the tradition's internal dispute; no side is endorsed._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._

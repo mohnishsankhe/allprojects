@@ -9,4 +9,4 @@
 Kabīr's son (or adopted son) in the legends, himself a devotee to whom some verses are ascribed; the proverb 'Kabīr's line sank when the son Kamāl was born' is quoted against him.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._

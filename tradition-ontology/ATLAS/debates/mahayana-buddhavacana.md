@@ -49,4 +49,4 @@ No: the Buddha's word is what is found in the sūtras and vinaya as recited; the
 _Notes: U41 contribution (Yogācāra arguments); U39 owns the entry._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._

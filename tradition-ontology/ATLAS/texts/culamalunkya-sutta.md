@@ -34,10 +34,10 @@ Why undeclared? Because it is unbeneficial, not the basis of the holy life, and 
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: dispute, teacher-transmission_
 
-concepts: [The undeclared questions](../concepts/undeclared-questions.md), [The four noble truths](../concepts/four-noble-truths.md) · disputes: [Should the questions about the eternity and extent of the world, soul and body, and the Tathāgata after death be answered?](../debates/avyakata.md)
+concepts: [The undeclared questions](../concepts/undeclared-questions.md), [The four noble truths (cattāri ariyasaccāni)](../concepts/four-noble-truths.md) · disputes: [Should the questions about the eternity and extent of the world, soul and body, and the Tathāgata after death be answered?](../debates/avyakata.md)
 
 
 _Notes: SuttaCentral uid mn63; Mahāsaṅgīti title 'Cūḷamālukyasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

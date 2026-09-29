@@ -13,4 +13,4 @@
 Sadāśiva Brahmendra's verses on the conduct and inner state of the avadhūta knower of the self.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._

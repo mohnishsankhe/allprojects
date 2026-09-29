@@ -154,4 +154,4 @@ concepts: [Graded teaching fitted to the hearer](../concepts/graded-teaching.md)
 _Notes: Chapter 4 title confirmed from the GRETIL colophon; the other chapter titles from memory (moderate). Commentary: Ajitamitra's Ratnāvalīṭīkā (D4159)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._

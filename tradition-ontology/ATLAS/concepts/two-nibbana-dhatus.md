@@ -14,4 +14,4 @@
 - part-of → [Nibbāna](nibbana.md) — rests on [44](../texts/itivuttaka.md#tea-itivuttaka-44)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

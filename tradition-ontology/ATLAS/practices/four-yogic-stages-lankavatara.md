@@ -12,4 +12,4 @@ Mount to mind-only and stop imagining external objects; rest in suchness and pas
   - [Bhāvanākrama](../texts/bhavanakrama.md) — ref: I; rests_on: ["tea:bhavanakrama:1.cittamatra"]
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._

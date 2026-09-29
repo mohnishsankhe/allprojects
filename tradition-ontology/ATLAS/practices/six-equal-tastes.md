@@ -11,4 +11,4 @@ Meeting thoughts, afflictions, gods and demons, suffering, illness and death as 
   - [The Six Cycles of Equal Taste](../texts/six-equal-tastes.md) — ref: 1; rests_on: ["tea:six-equal-tastes:1"]
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._

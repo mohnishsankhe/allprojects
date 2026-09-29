@@ -16,4 +16,4 @@ Venerate the syllable Om as the udgītha, the highest essence, and the udgītha 
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — All 2 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 1.1-1.12; BĀU 1.3). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 21:52 IST._

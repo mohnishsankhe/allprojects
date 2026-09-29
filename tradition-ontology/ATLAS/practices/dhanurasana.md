@@ -16,4 +16,4 @@ In the Haṭhapradīpikā the big toes are held with the hands and drawn up to t
 _Notes: The two texts describe different forms under one name._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 21:52 IST._

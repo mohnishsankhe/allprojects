@@ -24,10 +24,10 @@ When the mind is obsessed by sensual lust it is like water mixed with dye; by il
 
 _level: unmarked · standpoint: experiential · path: meditation · stage: all · types: consciousness-mind_
 
-concepts: [The five hindrances](../concepts/five-hindrances.md) · obstacles: [The five hindrances (nīvaraṇa)](../obstacles/five-hindrances.md) · teachers: [Saṅgārava](../teachers/sangarava.md)
+concepts: [The five hindrances (pañca nīvaraṇāni)](../concepts/five-hindrances.md) · obstacles: [The five hindrances (nīvaraṇa)](../obstacles/five-hindrances.md) · teachers: [Saṅgārava](../teachers/sangarava.md)
 
 
 _Notes: SuttaCentral uid sn46.55; Mahāsaṅgīti title 'Saṅgāravasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

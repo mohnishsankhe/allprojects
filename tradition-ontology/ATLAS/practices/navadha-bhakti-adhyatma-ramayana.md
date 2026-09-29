@@ -16,4 +16,4 @@ Practising the nine means taught to Śabarī, beginning with holy company and en
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press) — Rests on tea:adhyatma-ramayana:3.10.22-27; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._

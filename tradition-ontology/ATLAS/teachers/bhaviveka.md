@@ -22,4 +22,4 @@ Madhyamaka master who introduced Dignāga's formal inference into Madhyamaka, cr
 _Notes: Xuanzang's story from memory (moderate); the later works under the name Bhavya are assigned by scholars to other authors._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._

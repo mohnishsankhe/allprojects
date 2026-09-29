@@ -13,4 +13,4 @@ The feet hidden between the knees and thighs and the anus placed on the feet (GS
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 1.37; rests_on: ["tea:hatha-yoga-pradipika:1.37"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 21:52 IST._

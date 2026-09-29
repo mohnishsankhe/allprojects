@@ -65,4 +65,4 @@ concepts: [Stillness (cummā iruttal)](../concepts/cumma-iruttal.md) · practice
 _Notes: Section names and counts recalled, not checked; not in the local e-text set._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 21:52 IST._

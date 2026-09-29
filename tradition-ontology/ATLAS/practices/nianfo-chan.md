@@ -16,4 +16,4 @@ Reciting Amitābha's name as a Chan practice, sometimes with the critical phrase
 - The deluded recite the Buddha's name seeking birth in the West; the awakened purify their own minds (Platform Sūtra); joint practice was later debated (dsp:chan-and-nianfo). — [Platform Sūtra of the Sixth Patriarch (Liuzu tanjing)](../texts/platform-sutra.md) 6.8
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

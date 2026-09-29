@@ -28,4 +28,4 @@ Maṇḍana makes contemplation necessary for all; Śaṅkara only for the less-
 **The traditions' own objections:** Maṇḍana (and the Bhāmatī) hold that verbal knowledge is by nature mediate for everyone; Śaṅkara's school holds that it is by nature immediate when the object is the self.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._

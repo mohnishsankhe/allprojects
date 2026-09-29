@@ -17,4 +17,4 @@ The root of the series leading to birth and pain: taking the non-self as self, d
 - partial: [Ignorance (avidyā)](avidya.md) — Yoga's avidyā (YS 2.5) has an overlapping list of misapprehensions.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 21:52 IST._

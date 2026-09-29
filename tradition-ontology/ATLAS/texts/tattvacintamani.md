@@ -120,4 +120,4 @@ terms: [ākāṅkṣā](../terms/akanksa.md), [yogyatā](../terms/yogyata.md), [
 _Notes: The whole text survives in print; only the Śabdakhaṇḍa (partial) and the Vyāptipañcaka section were found digitized locally. Commentaries: Pakṣadhara's Āloka, Raghunātha's Dīdhiti, Mathurānātha's Rahasya, and many others._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 21:52 IST._

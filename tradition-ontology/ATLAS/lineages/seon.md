@@ -46,10 +46,10 @@ Korean Chan: introduced from Tang China from the 9th century as the Nine Mountai
 [Awareness of arising thoughts](../practices/awareness-of-arising-thoughts.md), [Long sitting without lying down (changzuo buwo / jangjwa bulwa)](../practices/changzuo-buwo.md), [The four great vows (inward form)](../practices/four-great-vows.md), [Huatou / hwadu (observing the critical phrase)](../practices/huatou.md), [Turning the light around (huiguang fanzhao / hoegwang banjo)](../practices/huiguang-fanzhao.md), [Kinhin (walking meditation)](../practices/kinhin.md), [Kōan introspection (sanzen, kōan practice)](../practices/koan-introspection.md), [Monastic life under the pure rules](../practices/qinggui-monastic-life.md), [Samu / puqing (communal work)](../practices/samu.md), [The Śūraṅgama mantra](../practices/surangama-mantra.md), [Sūtra and dhāraṇī chanting in Zen liturgy](../practices/sutra-chanting-zen.md), [Ten methods of practising no-mind](../practices/ten-methods-of-no-mind.md), [Turning the hearing back (Avalokiteśvara's perfect penetration)](../practices/turning-hearing-inward.md), [Zazen / zuochan (seated meditation)](../practices/zazen.md)
 
 ## Path maps
-`pth:jinul-sudden-gradual`
+[Jinul's sudden awakening and gradual cultivation (tono chŏmsu)](../paths/jinul-sudden-gradual.md)
 
 ## Debates
 [Is Chan a special transmission outside the scriptural teachings, or one with them?](../debates/chan-and-the-teachings.md), [Sudden awakening followed by gradual cultivation (Jinul) or sudden awakening with sudden cultivation (Seongcheol)?](../debates/seon-sudden-cultivation-debate.md), [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

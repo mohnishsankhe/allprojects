@@ -16,4 +16,4 @@ An austerity of living on minimal food practised by the bodhisatta and described
 - By this conduct and these austerities the bodhisatta did not attain superhuman distinction of knowledge and vision; he took solid food again (MN 12; MN 36). — [Mahāsīhanāda Sutta](../texts/mahasihanada-sutta.md) MN 12 (44–56); MN 36 (20–33)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

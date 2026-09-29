@@ -24,4 +24,4 @@ Given only at initiation by a living master: the attention is withdrawn from the
 - partial: [Attention to the inner sound (nādānusandhāna) in the haṭha texts](nadanusandhana.md) — Both are absorption in the inner sound; surat-śabd yoga adds the master's form, the names and the regional cosmology.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._

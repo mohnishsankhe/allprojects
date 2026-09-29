@@ -16,4 +16,4 @@
 _Notes: In Dharmaśāstra the word also names a class of forest hermits._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._

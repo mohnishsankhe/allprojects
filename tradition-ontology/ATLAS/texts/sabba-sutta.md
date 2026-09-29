@@ -26,7 +26,7 @@ What is the all? The eye and forms, the ear and sounds, the nose and odours, the
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind, ultimate_
 
-terms: [sabba](../terms/sabba.md), [āyatana](../terms/ayatana.md) · concepts: [The twelve sense bases](../concepts/twelve-ayatanas.md)
+terms: [sabba](../terms/sabba.md), [āyatana](../terms/ayatana.md) · concepts: [The six internal and external sense bases (chaḷ ajjhattikabāhirāyatanāni)](../concepts/twelve-ayatanas.md)
 
 ### 1.7-1.11 <a id="tea-sabba-sutta-1-7-1-11"></a>
 `skeleton` · confidence high
@@ -35,10 +35,10 @@ Whoever would say 'rejecting this all I shall make known another all' would only
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-concepts: [The twelve sense bases](../concepts/twelve-ayatanas.md)
+concepts: [The six internal and external sense bases (chaḷ ajjhattikabāhirāyatanāni)](../concepts/twelve-ayatanas.md)
 
 
 _Notes: SuttaCentral uid sn35.23; Mahāsaṅgīti title 'Sabbasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

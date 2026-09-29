@@ -25,7 +25,7 @@ There is a path — the noble eightfold path — by which one sees for oneself t
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, practice_
 
-terms: [tapas](../terms/tapas.md), [samāna](../terms/samana.md) · concepts: [The middle way](../concepts/middle-way.md), [The noble eightfold path](../concepts/noble-eightfold-path.md) · disputes: [Is suffering ended by burning off past kamma through austerity, and which action is most blameworthy?](../debates/austerity-and-past-kamma.md)
+terms: [tapas](../terms/tapas.md), [samāna](../terms/samana.md) · concepts: [The middle way](../concepts/middle-way.md), [The noble eightfold path (ariya aṭṭhaṅgika magga)](../concepts/noble-eightfold-path.md) · disputes: [Is suffering ended by burning off past kamma through austerity, and which action is most blameworthy?](../debates/austerity-and-past-kamma.md)
 
 ### 14 <a id="tea-kassapasihanada-sutta-14"></a>
 `skeleton` · confidence high · _restricted: summary only_
@@ -40,4 +40,4 @@ concepts: [Ājīvika austerities](../concepts/ajivika-austerities.md) · practic
 _Notes: SuttaCentral uid dn8; Mahāsaṅgīti title 'Mahāsīhanādasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._

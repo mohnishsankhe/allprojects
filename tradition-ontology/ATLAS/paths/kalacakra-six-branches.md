@@ -23,4 +23,4 @@
 RESTRICTED: completion-stage energy practice — summary and the tradition's own warnings only; no methods, postures, durations or retention details. Tāranātha takes the branches in pairs: the first pair makes the empty forms appear, the middle pair brings the winds into the central channel, the last pair produces bliss and immutable bliss.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 21:52 IST._

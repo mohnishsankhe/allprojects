@@ -12,4 +12,4 @@ Illness from excessive, unbalanced striving: heat rising to the head, cold legs,
   - [Idle Talk on a Night Boat (Yasenkanna)](../texts/yasenkanna.md) — ref: zen-sickness; rests_on: ["tea:yasenkanna:zen-sickness"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

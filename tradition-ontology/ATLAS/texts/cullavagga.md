@@ -127,8 +127,8 @@ A century after the parinibbāna the Vajjian monks of Vesālī proclaim ten poin
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: teacher-transmission, dispute_
 
-concepts: [The Second Council](../concepts/second-council.md) · teachers: [Yasa Kākaṇḍakaputta](../teachers/yasa-kakandakaputta.md), [Revata of Soreyya](../teachers/revata.md), [Sabbakāmī](../teachers/sabbakami.md) · disputes: [Are the ten practices of the Vajjian monks (including accepting gold and silver) allowable?](../debates/ten-points-vesali.md)
+concepts: [The Second Council](../concepts/second-council.md) · teachers: [Yasa Kākaṇḍakaputta](../teachers/yasa-kakandakaputta.md), [Revata](../teachers/revata.md), [Sabbakāmī](../teachers/sabbakami.md) · disputes: [Are the ten practices of the Vajjian monks (including accepting gold and silver) allowable?](../debates/ten-points-vesali.md)
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

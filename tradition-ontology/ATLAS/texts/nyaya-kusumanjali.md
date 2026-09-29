@@ -103,4 +103,4 @@ terms: [īśvara](../terms/isvara.md)
 _Notes: Commentaries include Vardhamāna's Prakāśa; verse numbers used in this unit are from memory and marked low._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 21:52 IST._

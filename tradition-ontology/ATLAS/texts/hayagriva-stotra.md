@@ -14,4 +14,4 @@
 Deśika's hymn to Hayagrīva, the horse-headed form of the Lord as the giver of knowledge.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 21:52 IST._

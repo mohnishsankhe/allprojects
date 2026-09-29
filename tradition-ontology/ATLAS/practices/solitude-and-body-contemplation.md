@@ -12,4 +12,4 @@ To settle the mind in concentration one withdraws from worldly company and discu
   - [Bodhicaryāvatāra](../texts/bodhicaryavatara.md) — ref: 8.1-89; rests_on: ["tea:bodhicaryavatara:8.1-4"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._

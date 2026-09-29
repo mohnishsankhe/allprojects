@@ -15,4 +15,4 @@ The Śrauta manual of the Kauṣītaki/Śāṅkhāyana Ṛgveda, in 18 adhyāyas
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Śāṅkhāyanaśrautasūtra, catalog:GRETIL-dev:sankhayana-srautasutra, https://en.wikipedia.org/wiki/%C5%9Arauta — Extant (GRETIL, DCS); the Śāṅkhāyana/Kauṣītaki Ṛgveda Śrautasūtra. The 18-adhyāya count was not re-counted.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._

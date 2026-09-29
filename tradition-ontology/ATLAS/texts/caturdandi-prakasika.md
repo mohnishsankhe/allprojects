@@ -14,4 +14,4 @@
 Veṅkaṭamakhin's treatise that sets out the scheme of seventy-two parent scales (melakarta), the basis of later Karṇāṭaka rāga classification.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._

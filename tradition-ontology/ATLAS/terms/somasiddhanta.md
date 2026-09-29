@@ -16,4 +16,4 @@
 _Notes: Etymology as 'Śiva with Umā (sa-umā)' is traditional/uncertain._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 21:52 IST._

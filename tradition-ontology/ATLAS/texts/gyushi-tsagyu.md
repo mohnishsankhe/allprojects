@@ -74,4 +74,4 @@ concepts: [The tree of healing (the three trees of the Root Tantra)](../concepts
 
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._

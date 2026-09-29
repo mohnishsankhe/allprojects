@@ -14,4 +14,4 @@
 Śivadāsa Sena's commentary on the Caraka Saṃhitā (15th c.).
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._

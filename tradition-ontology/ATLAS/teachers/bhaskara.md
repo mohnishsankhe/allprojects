@@ -18,4 +18,4 @@ _Notes: Often described as a tridaṇḍin (Vaiṣṇava-style renouncer) — lo
 
 - 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Bh%C4%81skara_(Bhedabheda_Vedanta), https://iep.utm.edu/bhedabheda-vedanta/ — Least-sure item: a Bhedābheda Vedāntin (8th–9th c.) who held that knowledge and works combine and wrote a partly surviving Gītā commentary. The position given for him in dsp:gita-primary-teaching matches this.
 
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._

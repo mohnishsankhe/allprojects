@@ -43,4 +43,4 @@ _Notes: The GRETIL e-text numbers the 'speech in the north' passage 7.7 (sentenc
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Kauṣītakibrāhmaṇa, catalog:GRETIL-dev:kausitaki-brahmana, https://en.wikipedia.org/wiki/Sankhyayana_Brahmana, https://vedicheritage.gov.in/brahmanas/kausitaki-shankhyayana-brahmana/, https://en.wikipedia.org/wiki/Brahmana — Extant (GRETIL, DCS); 30 adhyāyas confirmed (GRETIL e-text; Vedic Heritage Portal: 30 adhyāyas, 226 khaṇḍas). The entry's low-confidence 'c. 8th–6th c. BCE' falls in the general Brāhmaṇa-period range (Wikipedia 'Brahmana': c. 900–700 BCE). The portal's 2500 BCE figure is not a scholarly dating. Note that the 'speech in the north' passage is KB 7.7 in both local editions (see the check on tea:kausitaki-brahmana:7.6).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._

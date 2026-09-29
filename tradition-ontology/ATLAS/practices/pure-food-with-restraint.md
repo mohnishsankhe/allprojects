@@ -11,4 +11,4 @@ Eating food that is pure — of desirable colour, taste, smell and touch, sprink
   - [Vaiśeṣika Sūtra](../texts/vaisesika-sutra.md) — ref: 6.1.8–12; 6.2.6–10 (Candrānanda); rests_on: ["tea:vaisesika-sutra:6.1.8-12", "tea:vaisesika-sutra:6.2.6-10"]
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 21:52 IST._

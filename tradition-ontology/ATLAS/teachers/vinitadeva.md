@@ -17,4 +17,4 @@
 Nālandā commentator on Dharmakīrti's shorter treatises and on Vasubandhu's Twenty and Thirty Verses.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._

@@ -16,4 +16,4 @@ The legs stretched on the ground like a staff, the tips of the feet held with th
   - [Triśikhibrāhmaṇa Upaniṣad](../texts/trisikhibrahmana-upanisad.md) — ref: 34-52; rests_on: ["tea:trisikhibrahmana-upanisad:34-52"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 21:52 IST._

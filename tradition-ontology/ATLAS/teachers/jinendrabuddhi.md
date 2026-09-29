@@ -17,4 +17,4 @@ Commentator on Dignāga's Pramāṇasamuccaya, whose Viśālāmalavatī preserve
 
 - 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/jinendrabuddhi — Low-confidence entry confirmed: a Buddhist grammarian of the 8th c. (Nyāsa c. 800–850), matching the entry's 8th–9th c.
 
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._

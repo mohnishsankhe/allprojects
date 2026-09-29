@@ -11,4 +11,4 @@
 Digambara lay scholar whose Hindi (Ḍhūṇḍhārī) commentary on Amṛtacandra's Samayasāra-kalaśas was the text through which Banārsīdās came to the Samayasāra; author (by tradition) of the Pañcādhyāyī and of the Lāṭīsaṃhitā and Adhyātmakamalamārtaṇḍa.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._

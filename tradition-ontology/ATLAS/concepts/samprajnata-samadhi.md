@@ -14,4 +14,4 @@
 - leads-to → [Samādhi beyond object-awareness (asamprajñāta)](asamprajnata-samadhi.md) — rests on [1.18](../texts/yoga-sutra.md#tea-yoga-sutra-1-18), [1.20](../texts/yoga-bhasya.md#tea-yoga-bhasya-1-20)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 21:52 IST._

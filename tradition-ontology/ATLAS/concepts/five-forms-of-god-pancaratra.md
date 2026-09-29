@@ -16,4 +16,4 @@
 _Notes: The fivefold list is standard in Pāñcarātra and Śrīvaiṣṇava writing; a single verse stating all five is not anchored here. U14 records the Viśiṣṭādvaita version._
 
 ---
-_Contributed by: skeleton:U14-visistadvaita, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U14-visistadvaita, skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._

@@ -13,4 +13,4 @@
 Sangye Lingpa's vast treasure cycle of Padmasambhava practice (revealed 1364), a principal source of Nyingma guru sādhanas.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._

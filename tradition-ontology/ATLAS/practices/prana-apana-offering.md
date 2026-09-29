@@ -20,4 +20,4 @@ _Notes: Summary only; the Gītā prescribes no retention measures._
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.29, tea:bhagavad-gita:4.30 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 21:52 IST._

@@ -14,4 +14,4 @@ Disciple of Shandao and author of the Shi jingtu qunyi lun, answering Yogācāra
 **Realization — the tradition's account:** A Faxiang scholar who doubted the nianfo; on Shandao's advice he practised for three years before attaining the samādhi and seeing the Buddha's golden form (Song gaoseng zhuan, as recalled).
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._

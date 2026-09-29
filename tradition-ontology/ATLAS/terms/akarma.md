@@ -23,4 +23,4 @@ _Notes: The Gītā returns to action and inaction at 4.16–18 (outside this chu
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.16, tea:bhagavad-gita:4.17, tea:bhagavad-gita:4.18, tea:bhagavad-gita:4.20 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 18:15 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 21:52 IST._

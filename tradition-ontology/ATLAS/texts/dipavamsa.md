@@ -27,4 +27,4 @@ concepts: [The eighteen schools and their lists](../concepts/eighteen-schools.md
 
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._

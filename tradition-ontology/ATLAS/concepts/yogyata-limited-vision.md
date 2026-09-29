@@ -14,4 +14,4 @@
 - part-of → [Intrinsic fitness (svarūpa-yogyatā)](svarupa-yogyata.md): the limits of vision follow from intrinsic fitness — rests on [4.3.15](../texts/brahma-sutra-bhasya-madhva.md#tea-brahma-sutra-bhasya-madhva-4-3-15)
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 21:52 IST._

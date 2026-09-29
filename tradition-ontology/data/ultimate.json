@@ -437,6 +437,50 @@
    }
   },
   {
+   "id": "ult:anandamayi-sangha",
+   "lineage": "lin:anandamayi-sangha",
+   "names": [
+    {
+     "name": "God (Bhagavān, Hari)"
+    },
+    {
+     "name": "the Self (ātman)",
+     "term": "trm:atman"
+    }
+   ],
+   "descriptions": [
+    "There is only One; all forms of God and all paths are that One."
+   ],
+   "negations": [],
+   "relation_to_self": "Self-realization is realizing that One as one's own Self.",
+   "relation_to_world": "Everything that happens is God's play; nothing is apart from the One.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Devotees hold Anandamayi Ma herself to be a manifestation of the Divine; the one-truth reading fits her teaching but not every devotee's view of her person.",
+   "rests_on": [
+    "tea:matr-vani:only-one",
+    "tea:matr-vani:hari-katha"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:aradhya-saiva",
    "lineage": "lin:aradhya-saiva",
    "names": [
@@ -755,6 +799,51 @@
    "provenance": {
     "units": [
      "skeleton:U42-chan-zen"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:baps",
+   "lineage": "lin:baps",
+   "names": [
+    {
+     "name": "Parabrahman (Svāminārāyaṇa)",
+     "term": "trm:parabrahman"
+    },
+    {
+     "name": "Akṣarabrahman",
+     "term": "trm:aksarabrahman"
+    }
+   ],
+   "descriptions": [
+    "Two distinct eternal entities: Parabrahman the supreme, and Akṣarabrahman his ideal devotee and abode, manifest in the guru."
+   ],
+   "negations": [],
+   "relation_to_self": "The liberated soul becomes brahmarūpa (like Akṣara) and eternally serves Parabrahman.",
+   "relation_to_world": "The world is real, created by Parabrahman through Akṣara and māyā.",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The Ahmedabad and Vadtal dioceses reject the identification of Akṣara with Guṇātītānanda and his successors; see dsp:akshar-purushottam.",
+   "rests_on": [
+    "tea:swamini-vato:brahmarupa",
+    "tea:swaminarayan-bhasyam:akshar-purushottam"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
     ],
     "phases": [
      "skeleton"
@@ -1147,6 +1236,49 @@
    }
   },
   {
+   "id": "ult:bihar-school",
+   "lineage": "lin:bihar-school",
+   "names": [
+    {
+     "name": "Śiva–Śakti; consciousness and energy"
+    },
+    {
+     "name": "the Self",
+     "term": "trm:atman"
+    }
+   ],
+   "descriptions": [
+    "Consciousness (Śiva) and energy (Śakti) unite when kuṇḍalinī reaches sahasrāra."
+   ],
+   "negations": [],
+   "relation_to_self": "The awakened consciousness is one's own Self.",
+   "relation_to_world": "The world is manifest energy (Śakti).",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The school presents much of its teaching as practical method; its metaphysics follows tantra and Vedānta without a single fixed doctrine.",
+   "rests_on": [
+    "tea:kundalini-tantra-satyananda:union"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:bon",
    "lineage": "lin:bon",
    "names": [
@@ -1227,6 +1359,47 @@
    "provenance": {
     "units": [
      "skeleton:U37-abhidhamma-visuddhimagga"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:brahma-kumaris",
+   "lineage": "lin:brahma-kumaris",
+   "names": [
+    {
+     "name": "Śiva (Shiv Baba), the Supreme Soul",
+     "term": "trm:shiv-baba"
+    }
+   ],
+   "descriptions": [
+    "The Supreme Soul is an incorporeal point of light, the Ocean of knowledge, peace and love; he is not omnipresent."
+   ],
+   "negations": [],
+   "relation_to_self": "Souls are eternal points of light, distinct from the Supreme Soul; they are his children.",
+   "relation_to_world": "The world drama is real and repeats every 5,000 years.",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Explicitly denies God's omnipresence and the identity of soul and God; rejects the Advaita reading.",
+   "rests_on": [
+    "tea:sakar-murli:supreme-soul",
+    "tea:sakar-murli:soul-point-of-light"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
     ],
     "phases": [
      "skeleton"
@@ -1856,6 +2029,50 @@
    "provenance": {
     "units": [
      "skeleton:U34-jain-canon"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:divine-life-society",
+   "lineage": "lin:divine-life-society",
+   "names": [
+    {
+     "name": "Brahman",
+     "term": "trm:brahman"
+    },
+    {
+     "name": "Saccidānanda",
+     "term": "trm:saccidananda"
+    }
+   ],
+   "descriptions": [
+    "Brahman as existence-consciousness-bliss, reached by the synthesis of all yogas."
+   ],
+   "negations": [],
+   "relation_to_self": "The Self is Brahman (Advaita).",
+   "relation_to_world": "The world is māyā from the standpoint of the ultimate; to be served as God in practice.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "DLS also worships personal deities and teaches devotion; its Advaita is practised within a synthesis.",
+   "rests_on": [
+    "tea:bliss-divine-sivananda:yoga-of-synthesis"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
     ],
     "phases": [
      "skeleton"
@@ -2898,6 +3115,44 @@
    }
   },
   {
+   "id": "ult:himalayan-institute",
+   "lineage": "lin:himalayan-institute",
+   "names": [
+    {
+     "name": "Brahman; the Self",
+     "term": "trm:brahman"
+    }
+   ],
+   "descriptions": [
+    "The Absolute of Advaita, approached by yoga science (recalled; low confidence)."
+   ],
+   "negations": [],
+   "relation_to_self": "The Self is Brahman.",
+   "relation_to_world": "The world is appearance to be understood through practice.",
+   "personal_or_impersonal": "impersonal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Low-confidence summary; Swami Rama's books combine Advaita, Śrīvidyā and yoga.",
+   "rests_on": [],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:hongzhou",
    "lineage": "lin:hongzhou",
    "names": [
@@ -2939,6 +3194,102 @@
    "provenance": {
     "units": [
      "skeleton:U42-chan-zen"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:inchegiri",
+   "lineage": "lin:inchegiri",
+   "names": [
+    {
+     "name": "Parabrahman, the Absolute",
+     "term": "trm:parabrahman"
+    },
+    {
+     "name": "'I am' (consciousness)",
+     "term": "trm:i-am-sense"
+    }
+   ],
+   "descriptions": [
+    "The Absolute is prior to consciousness; the sense 'I am' is the first appearance, the door to it.",
+    "Nisargadatta: 'I am' is not the ultimate; the Absolute is beyond being and non-being."
+   ],
+   "negations": [],
+   "relation_to_self": "What one is, is the Absolute; the 'I am' is an appearance in it, dependent on the body.",
+   "relation_to_world": "The world is an appearance in consciousness, which itself appears in the Absolute.",
+   "personal_or_impersonal": "impersonal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The lineage keeps devotional practice (bhajans, name-mantra) alongside a teaching that negates even consciousness; the one-truth reading must not drop the claim that the Absolute is beyond consciousness.",
+   "rests_on": [
+    "tea:i-am-that:hold-on-to-i-am",
+    "tea:prior-to-consciousness:absolute-prior"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:integral-yoga",
+   "lineage": "lin:integral-yoga",
+   "names": [
+    {
+     "name": "Sachchidananda",
+     "term": "trm:saccidananda"
+    },
+    {
+     "name": "the Supermind",
+     "term": "trm:supermind"
+    },
+    {
+     "name": "the Divine Mother"
+    }
+   ],
+   "descriptions": [
+    "The Absolute is Sachchidananda, which has involved itself in matter; the Supermind (Truth-Consciousness) is its creative power.",
+    "Both the materialist's denial of spirit and the ascetic's denial of matter are rejected."
+   ],
+   "negations": [],
+   "relation_to_self": "The psychic being is the evolving divine spark in the individual; the Self is one with the Divine.",
+   "relation_to_world": "The world is real, a manifestation of the Divine, to be transformed rather than escaped.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Explicitly rejects Śaṅkara's reading of the world as illusion; reconciliation with Advaita must record that rejection.",
+   "rests_on": [
+    "tea:life-divine:1.3",
+    "tea:life-divine:2.6",
+    "tea:life-divine:1.14"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
     ],
     "phases": [
      "skeleton"
@@ -3867,6 +4218,50 @@
    }
   },
   {
+   "id": "ult:kanji-swami",
+   "lineage": "lin:kanji-swami",
+   "names": [
+    {
+     "name": "the pure soul (śuddhātman)",
+     "term": "trm:atman"
+    },
+    {
+     "name": "the siddha state"
+    }
+   ],
+   "descriptions": [
+    "The soul in its niścaya nature is pure knowing, untouched by karma; there is no creator God."
+   ],
+   "negations": [],
+   "relation_to_self": "Each soul is eternally distinct, and in its true nature already pure (niścaya).",
+   "relation_to_world": "Six real substances (dravya) with their own modifications; no substance acts on another.",
+   "personal_or_impersonal": "impersonal",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "As a Jain school it denies a single creator or a single world-soul; the one-truth reading applies only to the common nature of all souls, and the tradition would reject any identity of souls.",
+   "rests_on": [
+    "tea:pravacana-ratnakara:bhutartha",
+    "tea:samayasara:11"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:kapalika",
    "lineage": "lin:kapalika",
    "names": [
@@ -4286,6 +4681,93 @@
    }
   },
   {
+   "id": "ult:krishnamacharya",
+   "lineage": "lin:krishnamacharya",
+   "names": [
+    {
+     "name": "Īśvara / Nārāyaṇa",
+     "term": "trm:isvara"
+    }
+   ],
+   "descriptions": [
+    "Krishnamacharya, a Śrīvaiṣṇava, taught devotion to the Lord (Īśvara-praṇidhāna) as the summit of yoga (recalled; low confidence)."
+   ],
+   "negations": [],
+   "relation_to_self": "The seer (puruṣa) distinct from the mind, devoted to the Lord.",
+   "relation_to_world": "The world real, the field of practice.",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Most of the lineage's students taught āsana without a fixed metaphysics; this view represents Krishnamacharya himself only.",
+   "rests_on": [],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:kriya-yoga",
+   "lineage": "lin:kriya-yoga",
+   "names": [
+    {
+     "name": "God (Parambrahma), the Eternal Father",
+     "term": "trm:parabrahman"
+    },
+    {
+     "name": "Kūṭastha Caitanya (Christ consciousness)",
+     "term": "trm:kutastha"
+    },
+    {
+     "name": "Aum, the Word"
+    }
+   ],
+   "descriptions": [
+    "Sri Yukteswar: God is the one eternal substance, from whom the Word (Aum) and creation proceed.",
+    "Yogananda: Self-realization is knowing in body, mind and soul one's oneness with the omnipresence of God."
+   ],
+   "negations": [],
+   "relation_to_self": "The soul is an individualized reflection of Spirit; Self-realization reveals oneness with God.",
+   "relation_to_world": "Creation is God's dream and light; the cycle of yugas shapes human understanding.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The lineage harmonizes Hindu and Christian scripture; a one-truth reading suits it but it would keep God's personal aspect and the guru's role.",
+   "rests_on": [
+    "tea:holy-science:1",
+    "tea:autobiography-of-a-yogi:26"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:kubjika",
    "lineage": "lin:kubjika",
    "names": [
@@ -4329,6 +4811,50 @@
    "provenance": {
     "units": [
      "skeleton:U24-kali-kaula"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:lakshmanjoo",
+   "lineage": "lin:lakshmanjoo",
+   "names": [
+    {
+     "name": "Paramaśiva",
+     "term": "trm:paramasiva"
+    },
+    {
+     "name": "caitanya",
+     "term": "trm:caitanya"
+    }
+   ],
+   "descriptions": [
+    "Consciousness is the Self (Śiva Sūtra 1.1 as he taught it); Śiva with his energy of freedom (svātantrya) manifests the universe."
+   ],
+   "negations": [],
+   "relation_to_self": "The individual is Śiva who has forgotten himself; recognition restores it.",
+   "relation_to_world": "The universe is real as the manifestation of Śiva's own energy.",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Follows Kashmir Śaivism's rejection of the world's unreality (cf. U19's view).",
+   "rests_on": [
+    "tea:siva-sutras-lakshmanjoo:1.1"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
     ],
     "phases": [
      "skeleton"
@@ -4921,6 +5447,53 @@
    }
   },
   {
+   "id": "ult:mahima-dharma",
+   "lineage": "lin:mahima-dharma",
+   "names": [
+    {
+     "name": "Alekha (the unwritable)",
+     "term": "trm:alekha"
+    },
+    {
+     "name": "Śūnya Brahman",
+     "term": "trm:sunya"
+    },
+    {
+     "name": "Mahimā (Glory)"
+    }
+   ],
+   "descriptions": [
+    "God is formless, beyond writing and description, the void (śūnya) that is full."
+   ],
+   "negations": [],
+   "relation_to_self": "All beings belong to Alekha; devotion and surrender to him.",
+   "relation_to_world": "The world is his creation; images are false.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The tradition rejects image worship and would reject being assimilated to Jagannātha worship.",
+   "rests_on": [
+    "tea:stuti-cintamani:alekha"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:mahisasaka",
    "lineage": "lin:mahisasaka",
    "names": [
@@ -5373,6 +5946,53 @@
    }
   },
   {
+   "id": "ult:narayana-guru",
+   "lineage": "lin:narayana-guru",
+   "names": [
+    {
+     "name": "Aṟivu (knowledge-consciousness)",
+     "term": "trm:arivu"
+    },
+    {
+     "name": "the Karu (core)"
+    },
+    {
+     "name": "God (Daivam)"
+    }
+   ],
+   "descriptions": [
+    "Knowledge alone is: knower, knowing and known are one aṟivu (Ātmopadeśa Śatakam)."
+   ],
+   "negations": [],
+   "relation_to_self": "The Self is that knowledge; the one God of all humans.",
+   "relation_to_world": "The world is superimposed on the one reality (Darśana Mālā, adhyāropa and apavāda).",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "His social teaching (one caste, one religion) is an ethical corollary of non-duality, not a separate doctrine.",
+   "rests_on": [
+    "tea:atmopadesa-satakam:1",
+    "tea:darsana-mala:structure"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:natha",
    "lineage": "lin:natha",
    "names": [
@@ -5544,6 +6164,51 @@
    "provenance": {
     "units": [
      "skeleton:U18-saiva-siddhanta"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:neem-karoli",
+   "lineage": "lin:neem-karoli",
+   "names": [
+    {
+     "name": "Rāma"
+    },
+    {
+     "name": "God"
+    },
+    {
+     "name": "'sab ek' (all one)"
+    }
+   ],
+   "descriptions": [
+    "All is one; God is to be loved and remembered in every being."
+   ],
+   "negations": [],
+   "relation_to_self": "Every being is to be seen as God and served.",
+   "relation_to_world": "The world is God's; serve it.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "No doctrinal system; devotion to Rāma and Hanumān is central.",
+   "rests_on": [
+    "tea:miracle-of-love:sab-ek"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
     ],
     "phases": [
      "skeleton"
@@ -6148,6 +6813,49 @@
    "provenance": {
     "units": [
      "skeleton:U10-yoga"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:plum-village",
+   "lineage": "lin:plum-village",
+   "names": [
+    {
+     "name": "nirvāṇa",
+     "term": "trm:nirvana"
+    },
+    {
+     "name": "the ultimate dimension"
+    }
+   ],
+   "descriptions": [
+    "The ultimate dimension (nirvāṇa) is not separate from the historical dimension, as water is not separate from waves; it is the extinction of notions such as birth and death, being and non-being."
+   ],
+   "negations": [],
+   "relation_to_self": "No separate self; interbeing.",
+   "relation_to_world": "Things inter-are; the world is to be touched deeply in the present moment.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "As a Buddhist tradition it does not posit a creator or a substantial absolute; the one-truth reading would be accepted only as 'the ultimate dimension', not as a Self or God.",
+   "rests_on": [
+    "tea:heart-of-understanding:cloud-in-paper"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
     ],
     "phases": [
      "skeleton"
@@ -6821,6 +7529,119 @@
    }
   },
   {
+   "id": "ult:ramakrishna-order",
+   "lineage": "lin:ramakrishna-order",
+   "names": [
+    {
+     "name": "Brahman",
+     "term": "trm:brahman"
+    },
+    {
+     "name": "the Divine Mother (Kālī, Śakti)",
+     "term": "trm:sakti"
+    },
+    {
+     "name": "Saccidānanda",
+     "term": "trm:saccidananda"
+    }
+   ],
+   "descriptions": [
+    "Brahman and Śakti are one, like fire and its power to burn; at rest it is called Brahman, in creating, preserving and destroying it is called Śakti.",
+    "God is with form and without form, and beyond both; the vijñānī sees that Brahman has become the universe and its beings.",
+    "Vivekananda: each soul is potentially divine."
+   ],
+   "negations": [
+    "Brahman cannot be described: the salt doll that went to measure the ocean dissolved in it"
+   ],
+   "relation_to_self": "The Self is Brahman; the individual is Śiva (jīva is Śiva), so service to beings is worship.",
+   "relation_to_world": "The world is the Mother's play (līlā); to the jñānī it is māyā, to the vijñānī it is Brahman itself.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The order would reject a reading that ranks form below formless: Ramakrishna held both true. It welcomes the one-truth reading ('as many faiths, so many paths').",
+   "rests_on": [
+    "tea:ramakrsna-kathamrta:brahman-sakti-identity",
+    "tea:ramakrsna-kathamrta:vijnana",
+    "tea:ramakrsna-kathamrta:yata-mat-tata-path",
+    "tea:raja-yoga-vivekananda:preface"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:ramana",
+   "lineage": "lin:ramana",
+   "names": [
+    {
+     "name": "the Self (ātman)",
+     "term": "trm:atman"
+    },
+    {
+     "name": "the Heart (hṛdaya)",
+     "term": "trm:hrdaya"
+    },
+    {
+     "name": "Ulladu (that which is; sat)",
+     "term": "trm:ulladu"
+    },
+    {
+     "name": "Arunachala (Śiva)"
+    }
+   ],
+   "descriptions": [
+    "Existence-consciousness-bliss, the one Self that shines as 'I-I' when the ego subsides.",
+    "The Heart is the Self, the source from which the I-thought rises."
+   ],
+   "negations": [
+    "not the body, the senses, the vital breath, the mind or the ignorance of sleep (Nāṉ Yār)"
+   ],
+   "relation_to_self": "Identical: the Self is what one truly is; the ego is a false knot of consciousness and the body.",
+   "relation_to_world": "The world appears when the mind rises and disappears in deep sleep; it has no reality apart from the Self. Taught by level: for beginners creation is admitted; the final truth is non-origination.",
+   "personal_or_impersonal": "impersonal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Ramana also spoke of God and guru as the Self and worshipped Arunachala as Śiva; the tradition would reject treating his teaching as mere philosophy apart from silence and grace.",
+   "rests_on": [
+    "tea:upadesa-saram:20-21",
+    "tea:upadesa-saram:23-25",
+    "tea:nan-yar:not-the-body",
+    "tea:ulladu-narpadu:mangalam.1",
+    "tea:talks-with-ramana:ajata"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:ramanandi",
    "lineage": "lin:ramanandi",
    "names": [
@@ -7269,6 +8090,49 @@
    "provenance": {
     "units": [
      "skeleton:U27-sant-baul"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:sahaja-yoga",
+   "lineage": "lin:sahaja-yoga",
+   "names": [
+    {
+     "name": "the all-pervading divine power (paramacaitanya)",
+     "term": "trm:paramacaitanya"
+    },
+    {
+     "name": "the Ādi Śakti"
+    }
+   ],
+   "descriptions": [
+    "An all-pervading divine power felt as a cool breeze after realization (claims of the tradition)."
+   ],
+   "negations": [],
+   "relation_to_self": "Self-realization is the union of individual attention with the spirit via kuṇḍalinī.",
+   "relation_to_world": "The world is sustained by the divine power.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The tradition identifies its founder with the Ādi Śakti; a one-truth reading would not be accepted if it denied that claim.",
+   "rests_on": [
+    "tea:meta-modern-era:self-realisation"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
     ],
     "phases": [
      "skeleton"
@@ -8216,6 +9080,50 @@
    }
   },
   {
+   "id": "ult:sfzc",
+   "lineage": "lin:sfzc",
+   "names": [
+    {
+     "name": "Big Mind"
+    },
+    {
+     "name": "buddha-nature",
+     "term": "trm:buddha-nature"
+    }
+   ],
+   "descriptions": [
+    "Big Mind, including everything; buddha-nature expressed in the posture of zazen."
+   ],
+   "negations": [],
+   "relation_to_self": "No separate self; 'I' is a swinging door moved by breath.",
+   "relation_to_world": "Things as it is; practice is enlightenment.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "Zen would reject treating 'Big Mind' as a substantial absolute.",
+   "rests_on": [
+    "tea:zen-mind-beginners-mind:breathing",
+    "tea:zen-mind-beginners-mind:posture"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:shangpa-kagyu",
    "lineage": "lin:shangpa-kagyu",
    "names": [
@@ -8342,6 +9250,50 @@
    "provenance": {
     "units": [
      "skeleton:U22-tamil-siddha"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:siddha-yoga-muktananda",
+   "lineage": "lin:siddha-yoga-muktananda",
+   "names": [
+    {
+     "name": "Śiva / Consciousness",
+     "term": "trm:caitanya"
+    },
+    {
+     "name": "the Self"
+    }
+   ],
+   "descriptions": [
+    "God dwells within you as you; the universe is the play of Consciousness (Citi)."
+   ],
+   "negations": [],
+   "relation_to_self": "The Self is God; the guru's grace awakens this recognition.",
+   "relation_to_world": "The world is the play of Consciousness.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Draws on Kashmir Śaivism; the guru is venerated as the embodiment of grace.",
+   "rests_on": [
+    "tea:where-are-you-going:honor-your-self",
+    "tea:play-of-consciousness:blue-pearl"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
     ],
     "phases": [
      "skeleton"
@@ -8897,6 +9849,50 @@
    "provenance": {
     "units": [
      "skeleton:U34-jain-canon"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:swaminarayan",
+   "lineage": "lin:swaminarayan",
+   "names": [
+    {
+     "name": "Parabrahman Puruṣottama",
+     "term": "trm:purusottama"
+    },
+    {
+     "name": "Svāminārāyaṇa (for followers)"
+    }
+   ],
+   "descriptions": [
+    "God is Puruṣottama, eternally possessing a divine form, residing in Akṣaradhāma, the all-doer and source of the other four eternal realities."
+   ],
+   "negations": [],
+   "relation_to_self": "Jīvas are eternally distinct from God, to be liberated by devotion and dwell in his service.",
+   "relation_to_world": "The world (from māyā) is real and God's creation.",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Denies that God is formless or that the soul becomes God; the one-truth reading would be accepted only as God's sovereignty over all.",
+   "rests_on": [
+    "tea:vacanamrta:five-eternal-entities",
+    "tea:vacanamrta:god-always-with-form"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
     ],
     "phases": [
      "skeleton"
@@ -9482,6 +10478,49 @@
    "provenance": {
     "units": [
      "skeleton:U36-pali-suttas"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:transcendental-meditation",
+   "lineage": "lin:transcendental-meditation",
+   "names": [
+    {
+     "name": "Being",
+     "term": "trm:brahman"
+    },
+    {
+     "name": "pure consciousness (transcendental consciousness)"
+    }
+   ],
+   "descriptions": [
+    "Being is the absolute, unmanifest, eternal field of pure consciousness underlying all creation."
+   ],
+   "negations": [],
+   "relation_to_self": "The Self is Being; in unity consciousness everything is perceived in terms of the Self.",
+   "relation_to_world": "The world is the expression of Being; in God consciousness it is perceived in its finest values.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The movement presents Being in its own vocabulary; the Advaita reading it claims is its own account.",
+   "rests_on": [
+    "tea:science-of-being-and-art-of-living:being"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
     ],
     "phases": [
      "skeleton"
@@ -10086,6 +11125,50 @@
    "provenance": {
     "units": [
      "skeleton:U44-indian-vajrayana"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:vallalar",
+   "lineage": "lin:vallalar",
+   "names": [
+    {
+     "name": "Aruṭperuñjōti (the Vast Grace-Light)",
+     "term": "trm:arutperunjothi"
+    },
+    {
+     "name": "Taṉipperuṅkaruṇai (the unique great compassion)"
+    }
+   ],
+   "descriptions": [
+    "God is the One Grace-Light, formless and beyond all religions, to be worshipped as light."
+   ],
+   "negations": [],
+   "relation_to_self": "Souls are God's own; compassion to them is the way to God's grace.",
+   "relation_to_world": "The world is real; the body can be transformed into an imperishable body of light (tradition's account).",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Vallalar rejected all sectarian religions including Śaivism in his late teaching; a one-truth reading suits his universalism but he himself spoke of a single true path (sanmārgam).",
+   "rests_on": [
+    "tea:tiruvarutpa:4615",
+    "tea:jivakarunya-olukkam:hunger"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "recent": true,
+   "coverage": [
+    "H"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U52-recent-teachers"
     ],
     "phases": [
      "skeleton"

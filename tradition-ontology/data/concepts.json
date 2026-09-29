@@ -4374,6 +4374,81 @@
   }
  },
  {
+  "id": "cpt:anapanasati-fulfilment-chain",
+  "name": "The fulfilment chain of mindfulness of breathing (MN 118)",
+  "category": "stages-maps",
+  "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "MN 118:15 announces and MN 118:16-43 explains a chain: mindfulness of breathing, developed and cultivated, fulfils the four establishments of mindfulness (via the four tetrads, 23-28); these fulfil the seven awakening factors (29-40); these fulfil knowledge and liberation (41-43).",
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:15",
+     "tea:anapanasati-sutta:mn118:28",
+     "tea:anapanasati-sutta:mn118:40",
+     "tea:anapanasati-sutta:mn118:43"
+    ]
+   }
+  ],
+  "members": [
+   "ānāpānassati",
+   "cattāro satipaṭṭhānā",
+   "satta bojjhaṅgā",
+   "vijjāvimutti"
+  ],
+  "relations": [
+   {
+    "rel": "leads-to",
+    "target": "cpt:four-satipatthanas",
+    "note": "mindfulness of breathing fulfils the four establishments (tetrad 1 = body, 2 = feelings, 3 = mind, 4 = dhammas)",
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:15",
+     "tea:anapanasati-sutta:mn118:28"
+    ]
+   },
+   {
+    "rel": "leads-to",
+    "target": "cpt:seven-bojjhangas",
+    "note": "the four establishments fulfil the seven awakening factors",
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:29",
+     "tea:anapanasati-sutta:mn118:40"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:anapanasati-sutta:mn118:26/2",
+      "tea:anapanasati-sutta:mn118:35",
+      "tea:anapanasati-sutta:mn118:42",
+      "tea:anapanasati-sutta:thesis"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:anapanasati-sutta/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "cpt:anatta",
   "name": "Not-self (anattā)",
   "category": "self",
@@ -16553,7 +16628,7 @@
      }
     ],
     "reason": "Maṇḍalabrāhmaṇa 4.1 in the e-text reads 'navacakraṃ ṣaḍādhāraṃ trilakṣyaṃ vyomapañcakam', that is nine cakras and SIX ādhāras. The 'sixteen ādhāras' belong to Yogacūḍāmaṇi 3 ('ṣaṭcakraṃ ṣoḍaśādhāraṃ trilakṣyaṃ vyomapañcakam'). The definition is corrected accordingly. The Yogaśikhā's four pīṭhas are confirmed at 1.172-175. All 8 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:3-ascent-through-the-centres (corrected).",
-    "date": "2026-09-29 18:14 IST",
+    "date": "2026-09-29 21:51 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -33941,13 +34016,14 @@
  },
  {
   "id": "cpt:five-hindrances",
-  "name": "The five hindrances",
+  "name": "The five hindrances (pañca nīvaraṇāni)",
   "category": "obstacles",
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
-    "definition": "Sensual desire, ill will, dullness and drowsiness, restlessness and remorse, doubt — abandoned before the first jhāna (DN 2; MN 39), fed and starved by attention (SN 46.51), like muddied water (SN 46.55).",
+    "definition": "Sensual desire, ill will, dullness and drowsiness, restlessness and remorse, doubt: the first field of dhamma-contemplation, known as present or absent, with the arising, abandoning and non-recurrence of each known (MN 10:36).",
     "rests_on": [
+     "tea:satipatthana-sutta:mn10:36",
      "tea:samannaphala-sutta:67-74",
      "tea:satipatthana-sutta:36-37",
      "tea:bojjhanga-samyutta:46.51",
@@ -33956,27 +34032,45 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:satipatthana-sutta:mn10:36"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "members": [
+   "kāmacchanda",
+   "byāpāda",
+   "thinamiddha",
+   "uddhaccakukkucca",
+   "vicikicchā",
+   "thīnamiddha"
+  ],
   "coverage": [
    "B3",
    "D"
   ],
-  "members": [
-   "kāmacchanda",
-   "byāpāda",
-   "thīnamiddha",
-   "uddhaccakukkucca",
-   "vicikicchā"
-  ],
   "provenance": {
    "units": [
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -36220,6 +36314,54 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:five-upadanakkhandha",
+  "name": "The five aggregates of clinging (pañcupādānakkhandhā)",
+  "category": "self",
+  "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "Form, feeling, perception, formations, consciousness: the second field of dhamma-contemplation, each known with its arising and passing away (MN 10:38).",
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:38"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "members": [
+   "rūpa",
+   "vedanā",
+   "saññā",
+   "saṅkhārā",
+   "viññāṇa"
+  ],
+  "provenance": {
+   "units": [
+    "extraction:satipatthana-sutta/all"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -40992,9 +41134,27 @@
  },
  {
   "id": "cpt:four-noble-truths",
-  "name": "The four noble truths",
+  "name": "The four noble truths (cattāri ariyasaccāni)",
   "category": "karma-rebirth",
   "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "DN 22:17-21: as the fifth field of dhamma-contemplation the four truths are known 'as they really are', and each is expanded: suffering as birth, ageing, death, sorrow, lamentation, pain, displeasure, despair, the disliked, the lost, the unobtained, in brief the five aggregates of clinging; origin as threefold craving arising and settling in the dear-looking and pleasant-looking; cessation as the complete fading and ceasing of that craving, in the same places; the way as the noble eightfold path.",
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:17",
+     "tea:mahasatipatthana-sutta:dn22:18",
+     "tea:mahasatipatthana-sutta:dn22:19",
+     "tea:mahasatipatthana-sutta:dn22:20",
+     "tea:mahasatipatthana-sutta:dn22:21"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "Suffering, its origin, its cessation, the way to its cessation; the fifth field of dhamma-contemplation, each known 'as it really is' (MN 10:44).",
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:44"
+    ]
+   },
    {
     "lineage": "lin:early-buddhism",
     "definition": "Suffering, its origin (craving), its cessation, and the path (the noble eightfold path) (SN 56.11); to be fully understood, abandoned, realised and developed; what the Buddha declares because it is beneficial (MN 63; SN 56.31); all wholesome states are included in them as footprints in an elephant's (MN 28).",
@@ -41030,11 +41190,47 @@
     ]
    }
   ],
+  "members": [
+   "dukkha",
+   "dukkhasamudaya",
+   "dukkhanirodha",
+   "dukkhanirodhagāminī paṭipadā"
+  ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:mahasatipatthana-sutta:dn22:17",
+      "tea:mahasatipatthana-sutta:dn22:21",
+      "tea:mahasatipatthana-sutta:thesis"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    },
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:satipatthana-sutta:mn10:44"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -41042,20 +41238,17 @@
    "I1",
    "B4"
   ],
-  "members": [
-   "dukkha",
-   "dukkhasamudaya",
-   "dukkhanirodha",
-   "dukkhanirodhagāminī paṭipadā"
-  ],
   "notes": "U38 contribution to a shared concept.",
   "provenance": {
    "units": [
+    "extraction:mahasatipatthana-sutta/all",
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas",
     "skeleton:U38-early-schools",
     "skeleton:U39-mahayana-sutras"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -42332,9 +42525,30 @@
  },
  {
   "id": "cpt:four-satipatthanas",
-  "name": "The four establishments of mindfulness",
-  "category": "stages-maps",
+  "name": "The four establishments of mindfulness (cattāro satipaṭṭhānā)",
+  "category": "mind",
   "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "Contemplation of body, feelings, mind and dhammas, the one-way path for purification and realisation of nibbāna (MN 10:2-3), taught in twenty-one sections.",
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:2",
+     "tea:satipatthana-sutta:mn10:3",
+     "tea:satipatthana-sutta:mn10:46"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "In MN 118 they are fulfilled by mindfulness of breathing (each tetrad of the sixteen steps is one foundation: body, feelings, mind, dhammas) and, developed, they fulfil the seven awakening factors (MN 118:23-40); a monk community 'devoted to their development' is described at mn118:13.",
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:13",
+     "tea:anapanasati-sutta:mn118:24",
+     "tea:anapanasati-sutta:mn118:25",
+     "tea:anapanasati-sutta:mn118:26",
+     "tea:anapanasati-sutta:mn118:27",
+     "tea:anapanasati-sutta:mn118:40"
+    ]
+   },
    {
     "lineage": "lin:early-buddhism",
     "definition": "Contemplating body, feelings, mind and dhammas, ardent, clearly comprehending and mindful, having removed covetousness and grief for the world (MN 10); fulfilled by mindfulness of breathing and fulfilling the awakening factors (MN 118); one's own pasture (SN 47.6).",
@@ -42348,20 +42562,60 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:satipatthana-sutta:mn10:14",
+      "tea:satipatthana-sutta:mn10:2",
+      "tea:satipatthana-sutta:mn10:30",
+      "tea:satipatthana-sutta:mn10:36",
+      "tea:satipatthana-sutta:mn10:44",
+      "tea:satipatthana-sutta:mn10:8",
+      "tea:satipatthana-sutta:thesis"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    },
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:anapanasati-sutta:mn118:13",
+      "tea:anapanasati-sutta:mn118:35",
+      "tea:anapanasati-sutta:thesis"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
-  "coverage": [
-   "B3",
-   "D"
-  ],
   "members": [
+   "kāye kāyānupassanā",
+   "vedanāsu vedanānupassanā",
+   "citte cittānupassanā",
+   "dhammesu dhammānupassanā",
    "kāyānupassanā",
    "vedanānupassanā",
    "cittānupassanā",
    "dhammānupassanā"
+  ],
+  "coverage": [
+   "B3",
+   "D"
   ],
   "relations": [
    {
@@ -42375,9 +42629,12 @@
   ],
   "provenance": {
    "units": [
+    "extraction:satipatthana-sutta/all",
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -74506,9 +74763,16 @@
  },
  {
   "id": "cpt:noble-eightfold-path",
-  "name": "The noble eightfold path",
-  "category": "stages-maps",
+  "name": "The noble eightfold path (ariya aṭṭhaṅgika magga)",
+  "category": "ethics",
   "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "DN 22:21: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration, each defined; right mindfulness is defined as the four establishments of mindfulness and right concentration as the four jhānas.",
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:21"
+    ]
+   },
    {
     "lineage": "lin:early-buddhism",
     "definition": "Right view, intention, speech, action, livelihood, effort, mindfulness and concentration (SN 45.8); contained in the three trainings (MN 44); right view comes first and each factor has a mundane and a supramundane form (MN 117); where it is found, the four kinds of ascetic are found (DN 16).",
@@ -74521,16 +74785,6 @@
     ]
    }
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
-  "coverage": [
-   "B3",
-   "D"
-  ],
   "members": [
    "sammādiṭṭhi",
    "sammāsaṅkappa",
@@ -74540,6 +74794,31 @@
    "sammāvāyāma",
    "sammāsati",
    "sammāsamādhi"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:mahasatipatthana-sutta:dn22:21"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "coverage": [
+   "B3",
+   "D"
   ],
   "relations": [
    {
@@ -74561,9 +74840,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:mahasatipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -79039,7 +79320,7 @@
      }
     ],
     "reason": "Every example in the definition was text-located. ŚB 14.6.11.2 has 'indho vai nāmaiṣa … taṃ vā etam indhaṃ santam indra ity ācakṣate paro'kṣeṇaiva paro'kṣapriyā iva hi devāḥ pratyakṣadviṣaḥ'. AB 3.43 has 'tam agnistomaṃ santam agniṣṭoma ity ācakṣate parokṣeṇa parokṣapriyā iva hi devāḥ', and also 3.33 and 7.30. The svāpyaya → svapna pun, however, is ŚB 10.5.2.19, not 10.5.2.20, as the correction of tea:satapatha-brahmana:10.5.2.20 records. Correction: that locator becomes 10.5.2.19 in the definition; the wording is otherwise unchanged.",
-    "date": "2026-09-29 18:14 IST",
+    "date": "2026-09-29 21:51 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    }
   ],
@@ -98564,13 +98845,24 @@
  },
  {
   "id": "cpt:seven-bojjhangas",
-  "name": "The seven factors of awakening",
+  "name": "The seven awakening factors (satta bojjhaṅgā)",
   "category": "stages-maps",
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
-    "definition": "Mindfulness, investigation of dhammas, energy, rapture, tranquillity, concentration, equanimity; arising in sequence from the establishments of mindfulness and fulfilling true knowledge and liberation (MN 118); nourished and starved by attention (SN 46.51); to be applied according to whether the mind is sluggish or restless (SN 46.53).",
+    "definition": "MN 118:30-36: aroused in sequence while the four establishments are practised: mindfulness, investigation of dhammas, energy, rapture, tranquillity, concentration, equanimity, each arising in dependence on the one before; developed supported by seclusion, dispassion and cessation and ripening in relinquishment, they fulfil knowledge and liberation (mn118:42-43).",
     "rests_on": [
+     "tea:anapanasati-sutta:mn118:30",
+     "tea:anapanasati-sutta:mn118:36",
+     "tea:anapanasati-sutta:mn118:42",
+     "tea:anapanasati-sutta:mn118:43"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "Mindfulness, investigation of dhammas, energy, rapture, tranquillity, concentration, equanimity: the fourth field of dhamma-contemplation (MN 10:42).",
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:42",
      "tea:sabbasava-sutta:12-21",
      "tea:anapanasati-sutta:15.2-15.4",
      "tea:anapanasati-sutta:29-43",
@@ -98579,24 +98871,53 @@
     ]
    }
   ],
+  "members": [
+   "sati",
+   "dhammavicaya",
+   "vīriya",
+   "pīti",
+   "passaddhi",
+   "samādhi",
+   "upekkhā",
+   "viriya"
+  ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:anapanasati-sutta:mn118:35",
+      "tea:anapanasati-sutta:mn118:42",
+      "tea:anapanasati-sutta:thesis"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    },
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
    "D"
-  ],
-  "members": [
-   "sati",
-   "dhammavicaya",
-   "viriya",
-   "pīti",
-   "passaddhi",
-   "samādhi",
-   "upekkhā"
   ],
   "relations": [
    {
@@ -98618,9 +98939,12 @@
   ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -125434,9 +125758,16 @@
  },
  {
   "id": "cpt:twelve-ayatanas",
-  "name": "The twelve sense bases",
+  "name": "The six internal and external sense bases (chaḷ ajjhattikabāhirāyatanāni)",
   "category": "mind",
   "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "Eye-forms, ear-sounds, nose-smells, tongue-tastes, body-tangibles, mind-dhammas: the third field of dhamma-contemplation, with the fetter that arises dependent on each pair (MN 10:40).",
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:40"
+    ]
+   },
    {
     "lineage": "lin:early-buddhism",
     "definition": "The six internal bases (eye, ear, nose, tongue, body, mind) and six external (forms, sounds, odours, tastes, tangibles, mental objects) — 'the all' (SN 35.23); with the six consciousnesses the eighteen elements (MN 115).",
@@ -125448,10 +125779,23 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -125473,9 +125817,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }

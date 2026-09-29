@@ -13,4 +13,4 @@ Mental turbidity; yoga arises only for one whose mind is unclouded; its removal 
   - [Pañcārthabhāṣya](../texts/pancarthabhasya.md) — ref: on PS 5.29; rests_on: ["tea:pancarthabhasya:5.29"]
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 21:52 IST._

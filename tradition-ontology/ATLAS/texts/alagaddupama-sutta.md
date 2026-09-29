@@ -73,7 +73,7 @@ Formerly and now, what I teach is suffering and the cessation of suffering.
 
 _level: unmarked · standpoint: seeker · path: general · stage: all · types: karma-liberation, teacher-transmission_
 
-concepts: [The four noble truths](../concepts/four-noble-truths.md) · disputes: [Should the questions about the eternity and extent of the world, soul and body, and the Tathāgata after death be answered?](../debates/avyakata.md)
+concepts: [The four noble truths (cattāri ariyasaccāni)](../concepts/four-noble-truths.md) · disputes: [Should the questions about the eternity and extent of the world, soul and body, and the Tathāgata after death be answered?](../debates/avyakata.md)
 
 ### 40-41 <a id="tea-alagaddupama-sutta-40-41"></a>
 `skeleton` · confidence high
@@ -88,4 +88,4 @@ terms: [khandha](../terms/khandha.md) · concepts: [Not-self (anattā)](../conce
 _Notes: SuttaCentral uid mn22; Mahāsaṅgīti title 'Alagaddūpamasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

@@ -63,4 +63,4 @@ concepts: [The ten wonders (accheraga) of this era](../concepts/ten-accheras.md)
 _Notes: Not available locally; the Ājīvika austerity list is recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._

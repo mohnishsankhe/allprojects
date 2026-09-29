@@ -12,4 +12,4 @@ Son of a Bhārgava brahmin who behaved like a dullard (jaḍa) because he rememb
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet) 10.8-9 — MkP 10.8-9 'sumatir nāma ... brāhmaṇo bhārgavaḥ kaścit sutam āha ... jaḍarūpiṇam' located.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._

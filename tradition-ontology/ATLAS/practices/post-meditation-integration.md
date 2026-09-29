@@ -12,4 +12,4 @@ Between sessions appearances are regarded as illusion and dream, thoughts recogn
   - [The Three Integrations (Shangpa)](../texts/three-integrations.md) — ref: 1; rests_on: ["tea:three-integrations:1"]
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._

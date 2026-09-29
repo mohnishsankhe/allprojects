@@ -17,4 +17,4 @@
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:devi-mahatmya:10, tea:devi-mahatmya:6-10 — All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._

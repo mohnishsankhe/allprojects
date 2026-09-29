@@ -21,8 +21,8 @@ Mindfulness of breathing firmly established gives the concentration on which ins
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-practices: [Mindfulness of breathing (ānāpānasati)](../practices/anapanasati.md), [Ledi Sayadaw's lay insight method](../practices/ledi-vipassana.md) · teachers: [Ledi Sayadaw](../teachers/ledi-sayadaw.md)
+practices: [Mindfulness of breathing (ānāpānassati)](../practices/anapanasati.md), [Ledi Sayadaw's lay insight method](../practices/ledi-vipassana.md) · teachers: [Ledi Sayadaw](../teachers/ledi-sayadaw.md)
 
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._

@@ -12,4 +12,4 @@ Freeing oneself from the eight fetters — disgust, doubt, fear, shame, loathing
   - [Kaulajñānanirṇaya](../texts/kaulajnananirnaya.md) — ref: 11.26-29; rests_on: ["tea:kaulajnananirnaya:11.26-29"]
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._

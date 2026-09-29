@@ -23,8 +23,8 @@ The noble eightfold path defined: right view is knowledge of the four truths; ri
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: practice, ethics_
 
-terms: [sammādiṭṭhi](../terms/samma-ditthi.md), [sammāsaṅkappa](../terms/samma-sankappa.md), [sammāvācā](../terms/samma-vaca.md), [sammākammanta](../terms/samma-kammanta.md), [sammāājīva](../terms/samma-ajiva.md), [sammāvāyāma](../terms/samma-vayama.md), [sammāsati](../terms/samma-sati.md), [sammāsamādhi](../terms/samma-samadhi.md) · concepts: [The noble eightfold path](../concepts/noble-eightfold-path.md)
+terms: [sammādiṭṭhi](../terms/samma-ditthi.md), [sammāsaṅkappa](../terms/samma-sankappa.md), [sammāvācā](../terms/samma-vaca.md), [sammākammanta](../terms/samma-kammanta.md), [sammāājīva](../terms/samma-ajiva.md), [sammāvāyāma](../terms/samma-vayama.md), [sammāsati](../terms/samma-sati.md), [sammāsamādhi](../terms/samma-samadhi.md) · concepts: [The noble eightfold path (ariya aṭṭhaṅgika magga)](../concepts/noble-eightfold-path.md)
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

@@ -16,4 +16,4 @@ Sanskrit poet of the Gīta Govinda, the song-poem of Rādhā and Kṛṣṇa's l
 _Notes: Birthplace disputed between Bengal (Kenduli, Birbhum), Odisha (Kenduli Sasan near Purī) and Mithilā. Two hymns attributed to him are in the Sikh Ādi Granth (context only). Distinct from the later Jayadeva of the Candrāloka._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 21:52 IST._

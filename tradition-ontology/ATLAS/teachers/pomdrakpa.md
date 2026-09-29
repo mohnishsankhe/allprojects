@@ -12,4 +12,4 @@ Karma Kagyu master, disciple of Drogön Rechen (himself a disciple of Düsum Khy
 _Notes: Low confidence on the name form, dates and relationship._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._

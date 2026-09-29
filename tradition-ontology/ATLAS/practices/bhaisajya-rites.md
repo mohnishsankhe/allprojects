@@ -15,4 +15,4 @@ Healing by recitation of the hymns with plants, water, amulets, fire and the sun
 _Notes: Summary only; the Kauśika Sūtra gives the rite details (U02)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 21:52 IST._

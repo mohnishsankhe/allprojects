@@ -191,7 +191,7 @@ The compendium of categories groups the unwholesome (taints, floods, bonds, bodi
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ethics, consciousness-mind_
 
-terms: [bodhipakkhiya dhammā](../terms/bodhipakkhiya.md), [āsava](../terms/asava.md), [anusaya](../terms/anusaya.md), [saṃyojana](../terms/samyojana.md) · obstacles: [The effluents (āsava)](../obstacles/four-asavas.md), [The seven latent tendencies (anusaya)](../obstacles/seven-anusayas.md), [The ten defilements (kilesa-vatthu)](../obstacles/ten-kilesas.md)
+terms: [bodhipakkhiya dhammā](../terms/bodhipakkhiya.md), [āsava](../terms/asava.md), [anusaya](../terms/anusaya.md), [saṁyojana](../terms/samyojana.md) · obstacles: [The effluents (āsava)](../obstacles/four-asavas.md), [The seven latent tendencies (anusaya)](../obstacles/seven-anusayas.md), [The ten defilements (kilesa-vatthu)](../obstacles/ten-kilesas.md)
 
 ### 8 <a id="tea-abhidhammatthasangaha-8"></a>
 `skeleton` · confidence high
@@ -242,4 +242,4 @@ concepts: [The four paths and four fruits](../concepts/four-paths-and-fruits.md)
 _Notes: No local e-text; chapter structure from the author's knowledge (high confidence). Colophon details (Mūlasoma) moderate/low._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._

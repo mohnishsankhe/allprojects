@@ -16,4 +16,4 @@
 _Notes: Scholarly metadata only (not used in interpretation): cognate of Avestan zaotar._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 21:52 IST._

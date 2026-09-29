@@ -17,4 +17,4 @@ Pāṇḍe Rājamalla's unfinished Sanskrit treatise on substance and on right v
 _Notes: Title present in the local catalogue (catalog:JainDB:पंचाध्यायी); catalogue confirms extant digitized text, not author or date. (catalogue gives no author)._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._

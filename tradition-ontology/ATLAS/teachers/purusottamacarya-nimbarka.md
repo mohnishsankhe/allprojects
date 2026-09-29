@@ -11,4 +11,4 @@
 Nimbārka scholar, author of the Vedāntaratnamañjūṣā on the Daśaślokī and the Śrutyantasuradruma on the Kṛṣṇastavarāja.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._

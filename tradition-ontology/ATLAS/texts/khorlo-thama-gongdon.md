@@ -20,4 +20,4 @@ A compilation of writings by Jamgön Kongtrul and Mipham on the third turning an
 
 - 2026-09-29 catalog: confirmed — catalog:OpenPecha:P000144 "'khor lo mtha' ma'i dgongs don gces btus" (authors: Kongtrul, Mipham) — catalogue hit proves a digitized edition exists, not author or date
 
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._

@@ -18,7 +18,7 @@ Developing the body contemplations of MN 10 together with the four jhānas as pe
   - [Vibhaṅga](../texts/vibhanga.md) — ref: 7; rests_on: ["tea:vibhanga:7"]
 
 ## Equivalents (interpretation layer)
-- partial: [Reflection on the parts of the body (paṭikūlamanasikāra)](patikulamanasikara.md) — the sutta contemplation of the thirty-two parts (U36)
+- partial: [Attention to the repulsiveness of the body (paṭikūlamanasikāra)](patikulamanasikara.md) — the sutta contemplation of the thirty-two parts (U36)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._

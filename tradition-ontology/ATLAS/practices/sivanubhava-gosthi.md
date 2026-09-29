@@ -13,4 +13,4 @@ Devotees gather to speak from and test their experience of Śiva in dialogue, as
 **Sequences:** [The six stages (ṣaṭsthala) of the Vīraśaiva path](../paths/virasaiva-satsthala.md)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._

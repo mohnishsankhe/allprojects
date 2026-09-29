@@ -18,4 +18,4 @@ _Notes: Recent (post-1800); no initiatory lineage — lineage field records the 
 
 - 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Anasakti_Yoga — Confirmed; 1869–1948.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._

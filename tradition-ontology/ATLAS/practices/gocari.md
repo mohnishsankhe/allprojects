@@ -14,4 +14,4 @@ The mendicant goes from house to house taking a little food 'like a bee from flo
   - [Mūlācāra](../texts/mulacara.md) — ref: 1.2-3; rests_on: ["tea:mulacara:1.2-3"]
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._

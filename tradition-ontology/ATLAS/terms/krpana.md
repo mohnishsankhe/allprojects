@@ -15,4 +15,4 @@
 **Related:** [kārpaṇya](karpanya.md), [karmaphala](karmaphala.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:15 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 21:52 IST._

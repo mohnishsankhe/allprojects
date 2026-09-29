@@ -38,4 +38,4 @@ _Notes: Chapter range of the names themselves given from memory (moderate). Disa
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_13.json (BORI Critical Edition text) 13.14.3 Taṇḍi; 13.14.45 Upamanyu; 13.16.74, 13.17.13 nāmasahasra, catalog:raw_etexts:shiva_sahasranama — Section located at CE 13.14-17 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._

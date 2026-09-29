@@ -23,4 +23,4 @@
 Beas-line version. Sant Mat itself holds that the absorption of other yogas ends at Sahasdal Kanwal or Trikuṭī (B4 here); it would reject any alignment of those regions with liberation.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._

@@ -198,4 +198,4 @@ _Notes: Vulgate range from memory (moderate)._
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) chapter lengths 321(43) 322(52) 323(57) 324(39) 325(4) 326(124) 327(107) 328(53) 332(26) 336(82) 337(69) 338(25) match the published CE list, local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/ — Section located at CE 12.321-339 as entered; speakers and topic confirmed by keyword search. Vulgate 12.334–351 confirmed by the web source (Nīlakaṇṭha numbering). Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._

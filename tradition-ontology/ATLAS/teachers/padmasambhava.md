@@ -17,4 +17,4 @@ The 'Lotus-born', the second Buddha of the Nyingma. Tradition: born from a lotus
 **Realization — the tradition's account:** Attained the vidyādhara level of immortality and the rainbow body of great transference; appears in eight manifestations.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._

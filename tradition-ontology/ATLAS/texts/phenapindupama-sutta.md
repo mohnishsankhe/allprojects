@@ -24,7 +24,7 @@ As a lump of foam on the Ganges, a water bubble in the rain, a mirage in the hot
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, death-dying_
 
-concepts: [The five aggregates](../concepts/five-aggregates.md), [The three marks](../concepts/three-marks.md) · practices: [Contemplation of the aggregates](../practices/khandha-anupassana.md)
+concepts: [The five aggregates](../concepts/five-aggregates.md), [The three marks](../concepts/three-marks.md) · practices: [Contemplation of the five aggregates of clinging](../practices/khandha-anupassana.md)
 
 ### 9.1-9.5 <a id="tea-phenapindupama-sutta-9-1-9-5"></a>
 `skeleton` · confidence moderate
@@ -41,4 +41,4 @@ concepts: [The five aggregates](../concepts/five-aggregates.md)
 _Notes: SuttaCentral uid sn22.95; Mahāsaṅgīti title 'Pheṇapiṇḍūpamasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

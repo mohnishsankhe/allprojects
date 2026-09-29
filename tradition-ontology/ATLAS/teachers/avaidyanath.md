@@ -10,4 +10,4 @@
 Mahant of the Gorakhnāth Maṭh, Gorakhpur, in the later 20th century.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._

@@ -15,4 +15,4 @@ Taking the ascetic's garb, marks and feats for holiness; the yogī dyes his clot
 - partial: [Renunciation without knowledge or for gain](ascetic-hypocrisy.md) — The Sant critique targets all sectarian garb, not only false ascetics.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._

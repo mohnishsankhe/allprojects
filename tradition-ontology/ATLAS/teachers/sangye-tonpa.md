@@ -12,4 +12,4 @@ Fifth of the Shangpa 'seven jewels' (counting Vajradhara and Niguma), after whom
 _Notes: The counting of the 'seven jewels' (Vajradhara, Niguma, Khyungpo Naljor, Mokchokpa, Kyergangpa, Nyentön, Sangye Tönpa) is from memory._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._

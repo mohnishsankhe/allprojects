@@ -21,4 +21,4 @@
 **Related:** [xin (mind)](xin.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen, skeleton:U39-mahayana-sutras, skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen, skeleton:U39-mahayana-sutras, skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._

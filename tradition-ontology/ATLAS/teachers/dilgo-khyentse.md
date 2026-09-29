@@ -9,4 +9,4 @@
 Nyingma master and treasure revealer, holder of the Longchen Nyingthig and Rimé lineages, later head of the Nyingma school; transmitted the Rinchen Terdzö many times.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._

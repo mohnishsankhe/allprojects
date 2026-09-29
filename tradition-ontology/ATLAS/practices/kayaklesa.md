@@ -15,4 +15,4 @@ Enduring hardship in the body — difficult postures, exposure to sun and cold, 
 - Only according to capacity and without disturbing the mind; the aim is detachment from the body, not injury to it. — [Tattvārthasūtra](../texts/tattvartha-sutra.md) 6.24
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._

@@ -18,4 +18,4 @@ A lost commentary by the 'revered Upavarṣa', cited by Śabara for the view tha
 _Notes: Title is descriptive; no original title survives. Evidence: Śabara on MS 1.1.5; Śaṅkara, BSBh 3.3.53._
 
 ---
-_Contributed by: skeleton:U12-mimamsa, skeleton:U13-advaita. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._

@@ -20,4 +20,4 @@ _Notes: Recalled only; flagged for the hallucination sweep._
 
 - 2026-09-29 websearch: partially-confirmed — https://www.scribd.com/doc/216717532/Sri-Rama-Gita-Tattvasarayana-of-Vasistha, https://sanskritdocuments.org/doc_giitaa/allgita.html — Exists: 18 chapters, nearly 1,000 verses, in the second pāda of the Tattvasārāyaṇa's Upāsanākāṇḍa. This confirms the recalled 18 chapters and the kāṇḍa. The Rāma-to-Hanumān frame was not confirmed: the sources describe the whole Tattvasārāyaṇa as a Dakṣiṇāmūrti-Brahmā dialogue ascribed to Vasiṣṭha.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._

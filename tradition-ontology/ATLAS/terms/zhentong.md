@@ -16,4 +16,4 @@
 **Related:** [rang stong](rangtong.md), [dbu ma chen po (Uma Chenpo)](uma-chenpo.md), [tathāgatagarbha](tathagatagarbha.md), [rnam kun mchog ldan gyi stong nyid](namkun-chokden.md)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._

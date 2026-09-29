@@ -24,4 +24,4 @@ _Notes: The tradition reads the interrogative 'ka' (who?) as a name of Prajāpat
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/1_rv/rgveda_mandala_10.md (GRETIL, Van Nooten–Holland/Aufrecht), text:sources_raw/DharmicData/Rigveda/rigveda_mandala_10.json (Anukramaṇī seer/deity/metre headers), text:sources_raw/raw_etexts/vedaH/yajur/taittirIya/mUlam/saMh — Hymn located in the local Śākala text. 10 verses; seer Hiraṇyagarbha Prājāpatya, deity Ka (Prajāpati). Verse 10 not decomposed in the Padapāṭha (SBE 32). VS 23.1 and TS 4.1.8 parallels located.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 21:52 IST._

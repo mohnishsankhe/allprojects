@@ -13,4 +13,4 @@ A hymn to Kṛṣṇa attributed to Nimbārka, stating the school's doctrine in 
 **Commentaries on this text:** [Śrutyantasuradruma](srutyanta-suradruma.md)
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._

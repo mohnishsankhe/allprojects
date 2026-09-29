@@ -24,7 +24,7 @@ Mindfulness of the body is developed through breathing, the postures, clear comp
 
 _level: conventional · standpoint: seeker · path: meditation, body-breath · stage: all · types: practice, body-layers_
 
-concepts: [The thirty-two parts of the body](../concepts/thirty-two-parts.md) · practices: [Mindfulness directed to the body (kāyagatāsati)](../practices/kayagatasati.md), [Reflection on the parts of the body (paṭikūlamanasikāra)](../practices/patikulamanasikara.md), [Reflection on the elements (dhātumanasikāra)](../practices/dhatumanasikara.md), [The nine charnel-ground contemplations](../practices/navasivathika.md), [Mindfulness of the postures](../practices/iriyapatha.md), [Clear comprehension (sampajañña)](../practices/sampajanna.md)
+concepts: [The thirty-two parts of the body](../concepts/thirty-two-parts.md) · practices: [Mindfulness directed to the body (kāyagatāsati)](../practices/kayagatasati.md), [Attention to the repulsiveness of the body (paṭikūlamanasikāra)](../practices/patikulamanasikara.md), [Attention to the elements (dhātumanasikāra)](../practices/dhatumanasikara.md), [The nine charnel-ground contemplations (navasivathikā)](../practices/navasivathika.md), [Contemplation of the postures (iriyāpatha)](../practices/iriyapatha.md), [Acting with clear comprehension (sampajāna)](../practices/sampajanna.md)
 
 ### 18-22 <a id="tea-kayagatasati-sutta-18-22"></a>
 `skeleton` · confidence high
@@ -57,4 +57,4 @@ concepts: [The six direct knowledges](../concepts/six-abhinnas.md) · practices:
 _Notes: SuttaCentral uid mn119; Mahāsaṅgīti title 'Kāyagatāsatisutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

@@ -40,4 +40,4 @@ terms: [praṇava](../terms/pranava.md), [sarva-śabda-vācyatva](../terms/sarva
 _Notes: Disambiguated from the Kerala Tantrasārasaṅgraha (Viṣanārāyaṇīya). Chapter count and opening verses checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 21:52 IST._

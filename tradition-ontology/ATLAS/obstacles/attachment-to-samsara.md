@@ -13,4 +13,4 @@ Wishing for the happiness of any rebirth in saṃsāra, which prevents renunciat
   - [Three Principal Aspects of the Path (lam gtso rnam gsum)](../texts/three-principal-aspects.md) — ref: 3; rests_on: ["tea:three-principal-aspects:3"]
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._

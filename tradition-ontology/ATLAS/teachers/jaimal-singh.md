@@ -11,4 +11,4 @@
 Sikh soldier and disciple of Soamiji who settled at Beas (1891) and founded the Beas line.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._

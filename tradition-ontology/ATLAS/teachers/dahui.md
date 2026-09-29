@@ -18,4 +18,4 @@ Heir of Yuanwu who systematised 'Chan of observing the phrase' (kanhua Chan): co
 **Realization — the tradition's account:** On hearing Yuanwu quote 'a warm breeze comes from the south, and the palace pavilion grows slightly cool' he had a breakthrough, later deepened on the case 'being and non-being are like wisteria clinging to a tree' (tradition's account).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

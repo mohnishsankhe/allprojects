@@ -12,4 +12,4 @@ Grasping at bliss, clarity or non-thought leads to rebirth in the desire, form o
   - [Samten Ngalso (bsam gtan ngal gso, Finding Rest in Meditation)](../texts/samten-ngalso.md) — ref: ch.3; rests_on: ["tea:samten-ngalso:ch3"]
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._

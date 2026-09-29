@@ -17,4 +17,4 @@ _Notes: Linked in BhG ch. 1–3 at 1.1, 1.2, 1.24, 1.47, 2.1, 2.9._
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:ch11, tea:bhagavad-gita:11.9, tea:bhagavad-gita:11.35, tea:bhagavad-gita:11.50 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 6.2.9-11, local:gita/gita BhG 18.75 — Divine sight granted by Vyāsa (6.2.10) and "vyāsaprasādāt" (18.75) located.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 21:52 IST._

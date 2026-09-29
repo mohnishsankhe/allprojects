@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [The lists of avatāras](avatara-lists.md) (Śākta (the Goddess as source of the avatāras)): Vaiṣṇava traditions reject the subordination of the avatāras to the Goddess — rests on [10.9-12](../texts/todala-tantra.md#tea-todala-tantra-10-9-12)
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 21:52 IST._

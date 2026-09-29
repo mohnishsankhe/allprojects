@@ -18,4 +18,4 @@
 **Related:** [kīrtana](kirtana.md), [abhaṅga](abhanga.md)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti, skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U26-regional-bhakti, skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._

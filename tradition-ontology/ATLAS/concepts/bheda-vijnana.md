@@ -14,4 +14,4 @@
 - contrasts-with → [Discriminating knowledge (viveka, vivekakhyāti)](viveka-khyati.md): Parallel discrimination of seer and seen in Yoga, but the Jain knower is an agent with changing modes. — rests on [50](../texts/istopadesa.md#tea-istopadesa-50)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._

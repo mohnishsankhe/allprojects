@@ -5,7 +5,7 @@
 **Family:** vedic
 **Alternate names:** Trika (in the broad sense used by Abhinavagupta and modern writers), Kāśmīra Śaiva darśana, Īśvarādvayavāda (Utpaladeva's name for the non-duality of the Lord, Śivadṛṣṭivṛtti ch. 2), Pratyabhijñā (by metonymy), Svātantryavāda, Ābhāsavāda
 **Parent:** [Mantramārga (the Path of Mantras)](mantramarga.md)
-**Sub-lineages:** [Spanda (the doctrine of vibration)](spanda.md), [Pratyabhijñā (the philosophy of recognition)](pratyabhijna.md), [Trika ('the Triad')](trika.md), [Krama (the 'Sequence'; Mahānaya, Mahārtha)](krama.md), [Mata (the 'Doctrine'; the Mata scriptures)](mata.md), `lin:lakshmanjoo`
+**Sub-lineages:** [Spanda (the doctrine of vibration)](spanda.md), [Pratyabhijñā (the philosophy of recognition)](pratyabhijna.md), [Trika ('the Triad')](trika.md), [Krama (the 'Sequence'; Mahānaya, Mahārtha)](krama.md), [Mata (the 'Doctrine'; the Mata scriptures)](mata.md), [Swami Lakshmanjoo's transmission of Kashmir Śaivism](lakshmanjoo.md)
 **Founders:** [Vasugupta](../teachers/vasugupta.md), [Somānanda](../teachers/somananda.md)
 **Key teachers:** [Vasugupta](../teachers/vasugupta.md), [Bhaṭṭa Kallaṭa](../teachers/kallata.md), [Somānanda](../teachers/somananda.md), [Utpaladeva](../teachers/utpaladeva.md), [Lakṣmaṇagupta](../teachers/laksmanagupta.md), [Abhinavagupta](../teachers/abhinavagupta.md), [Kṣemarāja](../teachers/ksemaraja.md), [Yogarāja](../teachers/yogaraja.md), [Jayaratha](../teachers/jayaratha.md), [Bhāskara (author of the Śivasūtravārttika)](../teachers/bhaskara-kashmir.md), [Rājānaka Rāmakaṇṭha (author of the Spandavivṛti)](../teachers/rajanaka-ramakantha.md), [Utpala Vaiṣṇava](../teachers/utpala-vaisnava.md), [Śivopādhyāya](../teachers/sivopadhyaya.md), [Lal Ded (Lalleśvarī, Lallā)](../teachers/lal-ded.md), [Rūpa Bhavānī](../teachers/rupa-bhavani.md), [Sāhib Kaul](../teachers/sahib-kaul.md), [Bhāskarakaṇṭha](../teachers/bhaskarakantha.md), `tch:lakshmanjoo`
 **Regions:** Kashmir (Srinagar valley), Jālandhara (seat of Abhinavagupta's Kaula teacher Śambhunātha), South India / Cola country (Maheśvarānanda's Krama, c. 1300)
@@ -34,7 +34,7 @@ The non-dual Śaiva exegetical tradition of Kashmir (9th-11th c. classical perio
 **Transmissions given:** 
   - [Śrīvidyā](srividya.md) — what: prakāśa-vimarśa metaphysics and Spanda/Pratyabhijñā exegesis used by Śrīvidyā commentators (e.g. Jayaratha's Vāmakeśvarīmatavivaraṇa; Maheśvarānanda)
   - [Alaṅkāraśāstra and Nāṭyaśāstra (poetics, dramaturgy and the theory of rasa)](alankara.md) — what: Abhinavagupta's aesthetics (rasa as relished consciousness; śānta rasa)
-  - `lin:lakshmanjoo` — what: the oral and textual lineage continued in the 20th c. by Swami Lakshmanjoo
+  - [Swami Lakshmanjoo's transmission of Kashmir Śaivism](lakshmanjoo.md) — what: the oral and textual lineage continued in the 20th c. by Swami Lakshmanjoo
 
 ## The ultimate in this lineage
 `skeleton` · confidence high
@@ -64,4 +64,4 @@ The non-dual Śaiva exegetical tradition of Kashmir (9th-11th c. classical perio
 _Notes: 'Kashmir Śaivism' is a modern umbrella name; the tradition itself speaks of Trika, Ṣaḍardha, Pratyabhijñā, Spanda, Krama, Kula. Parent set to the Mantramārga because its scriptures are Bhairava tantras of the Mantramārga; its Kaula side derives from the Kulamārga (lin:kaula)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._

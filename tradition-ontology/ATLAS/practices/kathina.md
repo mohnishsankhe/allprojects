@@ -15,4 +15,4 @@ After the rains, cloth offered by laity is made into a robe for one monastic on 
 _Notes: Common to all the Vinayas; details and counts differ by school._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._

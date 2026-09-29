@@ -39,4 +39,4 @@ concepts: [Unestablished consciousness](../concepts/unestablished-consciousness.
 _Notes: SuttaCentral uid sn22.87; Mahāsaṅgīti title 'Vakkalisutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

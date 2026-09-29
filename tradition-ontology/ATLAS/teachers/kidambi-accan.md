@@ -10,4 +10,4 @@
 Disciple of Rāmānuja who, the tradition says, cooked for him when attempts were made to poison his food; ancestor of the Kiḍāmbi family of teachers in Deśika's line.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 21:52 IST._

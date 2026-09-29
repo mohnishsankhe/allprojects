@@ -116,7 +116,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -279,7 +279,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -532,7 +532,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -660,7 +660,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -774,7 +774,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -895,7 +895,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -978,7 +978,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -1090,146 +1090,168 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
   "id": "pth:anapanasati-sixteen-steps",
   "name": "The sixteen steps of mindfulness of breathing (MN 118)",
   "lineage": "lin:early-buddhism",
-  "lineages": [
-   "lin:early-buddhism",
-   "lin:theravada"
-  ],
   "stages": [
    {
     "order": 1,
     "name": "step 1",
-    "gloss": "knowing long breaths",
-    "description": "Tetrad 1 (body): knowing long breaths; see prc:anapanasati-step-01.",
-    "ref": "MN 118 (18–22)",
+    "gloss": "long breath (dīghaṁ assasāmī)",
+    "description": "Breathing in long he knows 'I breathe in long'; breathing out long he knows 'I breathe out long' (knowing, pajānāti).",
+    "ref": "MN 118:18",
     "band": "B3"
    },
    {
     "order": 2,
     "name": "step 2",
-    "gloss": "knowing short breaths",
-    "description": "Tetrad 1 (body): knowing short breaths; see prc:anapanasati-step-02.",
-    "ref": "MN 118 (18–22)",
+    "gloss": "short breath (rassaṁ assasāmī)",
+    "description": "Breathing in short he knows 'I breathe in short'; breathing out short he knows 'I breathe out short'.",
+    "ref": "MN 118:18",
     "band": "B3"
    },
    {
     "order": 3,
     "name": "step 3",
-    "gloss": "experiencing the whole body",
-    "description": "Tetrad 1 (body): experiencing the whole body; see prc:anapanasati-step-03.",
-    "ref": "MN 118 (18–22)",
+    "gloss": "experiencing the whole body (sabbakāyapaṭisaṁvedī)",
+    "description": "He trains: 'I shall breathe in (out) experiencing the whole body'.",
+    "ref": "MN 118:18",
     "band": "B3"
    },
    {
     "order": 4,
     "name": "step 4",
-    "gloss": "calming the bodily formation",
-    "description": "Tetrad 1 (body): calming the bodily formation; see prc:anapanasati-step-04.",
-    "ref": "MN 118 (18–22)",
+    "gloss": "calming the bodily formation (passambhayaṁ kāyasaṅkhāraṁ)",
+    "description": "He trains: 'I shall breathe in (out) calming the bodily formation'.",
+    "ref": "MN 118:18",
     "band": "B3"
    },
    {
     "order": 5,
     "name": "step 5",
-    "gloss": "experiencing rapture",
-    "description": "Tetrad 2 (feelings): experiencing rapture; see prc:anapanasati-step-05.",
-    "ref": "MN 118 (18–22)",
+    "gloss": "experiencing rapture (pītipaṭisaṁvedī)",
+    "description": "He trains: 'I shall breathe in (out) experiencing rapture'.",
+    "ref": "MN 118:19",
     "band": "B4"
    },
    {
     "order": 6,
     "name": "step 6",
-    "gloss": "experiencing bliss",
-    "description": "Tetrad 2 (feelings): experiencing bliss; see prc:anapanasati-step-06.",
-    "ref": "MN 118 (18–22)",
+    "gloss": "experiencing pleasure (sukhapaṭisaṁvedī)",
+    "description": "He trains: 'I shall breathe in (out) experiencing pleasure'.",
+    "ref": "MN 118:19",
     "band": "B4"
    },
    {
     "order": 7,
     "name": "step 7",
-    "gloss": "experiencing the mental formation",
-    "description": "Tetrad 2 (feelings): experiencing the mental formation; see prc:anapanasati-step-07.",
-    "ref": "MN 118 (18–22)",
+    "gloss": "experiencing the mental formation (cittasaṅkhārapaṭisaṁvedī)",
+    "description": "He trains: 'I shall breathe in (out) experiencing the mental formation'.",
+    "ref": "MN 118:19",
     "band": "B4"
    },
    {
     "order": 8,
     "name": "step 8",
-    "gloss": "calming the mental formation",
-    "description": "Tetrad 2 (feelings): calming the mental formation; see prc:anapanasati-step-08.",
-    "ref": "MN 118 (18–22)",
+    "gloss": "calming the mental formation (passambhayaṁ cittasaṅkhāraṁ)",
+    "description": "He trains: 'I shall breathe in (out) calming the mental formation'.",
+    "ref": "MN 118:19",
     "band": "B4"
    },
    {
     "order": 9,
     "name": "step 9",
-    "gloss": "experiencing the mind",
-    "description": "Tetrad 3 (mind): experiencing the mind; see prc:anapanasati-step-09.",
-    "ref": "MN 118 (18–22)",
+    "gloss": "experiencing the mind (cittapaṭisaṁvedī)",
+    "description": "He trains: 'I shall breathe in (out) experiencing the mind'.",
+    "ref": "MN 118:20",
     "band": "B4"
    },
    {
     "order": 10,
     "name": "step 10",
-    "gloss": "gladdening the mind",
-    "description": "Tetrad 3 (mind): gladdening the mind; see prc:anapanasati-step-10.",
-    "ref": "MN 118 (18–22)",
+    "gloss": "gladdening the mind (abhippamodayaṁ cittaṁ)",
+    "description": "He trains: 'I shall breathe in (out) gladdening the mind'.",
+    "ref": "MN 118:20",
     "band": "B4"
    },
    {
     "order": 11,
     "name": "step 11",
-    "gloss": "concentrating the mind",
-    "description": "Tetrad 3 (mind): concentrating the mind; see prc:anapanasati-step-11.",
-    "ref": "MN 118 (18–22)",
+    "gloss": "concentrating the mind (samādahaṁ cittaṁ)",
+    "description": "He trains: 'I shall breathe in (out) concentrating the mind'.",
+    "ref": "MN 118:20",
     "band": "B4"
    },
    {
     "order": 12,
     "name": "step 12",
-    "gloss": "liberating the mind",
-    "description": "Tetrad 3 (mind): liberating the mind; see prc:anapanasati-step-12.",
-    "ref": "MN 118 (18–22)",
+    "gloss": "liberating the mind (vimocayaṁ cittaṁ)",
+    "description": "He trains: 'I shall breathe in (out) liberating the mind'.",
+    "ref": "MN 118:20",
     "band": "B5"
    },
    {
     "order": 13,
     "name": "step 13",
-    "gloss": "contemplating impermanence",
-    "description": "Tetrad 4 (dhammas): contemplating impermanence; see prc:anapanasati-step-13.",
-    "ref": "MN 118 (18–22)",
+    "gloss": "contemplating impermanence (aniccānupassī)",
+    "description": "He trains: 'I shall breathe in (out) contemplating impermanence'.",
+    "ref": "MN 118:21",
     "band": "B5"
    },
    {
     "order": 14,
     "name": "step 14",
-    "gloss": "contemplating fading away",
-    "description": "Tetrad 4 (dhammas): contemplating fading away; see prc:anapanasati-step-14.",
-    "ref": "MN 118 (18–22)",
+    "gloss": "contemplating fading away (virāgānupassī)",
+    "description": "He trains: 'I shall breathe in (out) contemplating fading away (dispassion)'.",
+    "ref": "MN 118:21",
     "band": "B6"
    },
    {
     "order": 15,
     "name": "step 15",
-    "gloss": "contemplating cessation",
-    "description": "Tetrad 4 (dhammas): contemplating cessation; see prc:anapanasati-step-15.",
-    "ref": "MN 118 (18–22)",
+    "gloss": "contemplating cessation (nirodhānupassī)",
+    "description": "He trains: 'I shall breathe in (out) contemplating cessation'.",
+    "ref": "MN 118:21",
     "band": "B6"
    },
    {
     "order": 16,
     "name": "step 16",
-    "gloss": "contemplating relinquishment",
-    "description": "Tetrad 4 (dhammas): contemplating relinquishment; see prc:anapanasati-step-16.",
-    "ref": "MN 118 (18–22)",
+    "gloss": "contemplating relinquishment (paṭinissaggānupassī)",
+    "description": "He trains: 'I shall breathe in (out) contemplating relinquishment'.",
+    "ref": "MN 118:21",
     "band": "B7"
    }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:anapanasati-sutta:thesis"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "The four tetrads are body (1-4), feelings (5-8), mind (9-12), dhammas (13-16) (mn118:24-27). The sutta does not number the steps. Bands are the pre-existing interpretive assignments, kept unchanged.",
+  "lineages": [
+   "lin:early-buddhism",
+   "lin:theravada"
   ],
   "sources": [
    {
@@ -1255,22 +1277,20 @@
    }
   ],
   "summary": "Four tetrads of breathing that fulfil the four establishments of mindfulness, the seven factors of awakening and true knowledge and liberation (MN 118; SN 54).",
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "coverage": [
    "B3",
    "F"
   ],
-  "notes": "Bands are an interpretation: the text itself does not map the steps onto stages; the fourth tetrad is contemplation leading to relinquishment.",
+  "alt_notes": [
+   "Bands are an interpretation: the text itself does not map the steps onto stages; the fourth tetrad is contemplation leading to relinquishment."
+  ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   },
@@ -1287,7 +1307,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -1462,7 +1482,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -1565,7 +1585,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -1691,7 +1711,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -1810,7 +1830,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -1928,7 +1948,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -2054,7 +2074,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -2171,7 +2191,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -2435,7 +2455,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -2569,7 +2589,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -2721,107 +2741,98 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
   "id": "pth:bojjhanga-sequence",
   "name": "The seven factors of awakening arising in sequence (MN 118)",
   "lineage": "lin:early-buddhism",
-  "lineages": [
-   "lin:early-buddhism",
-   "lin:theravada"
-  ],
   "stages": [
    {
     "order": 1,
     "name": "sati-sambojjhaṅga",
     "gloss": "mindfulness",
-    "description": "When the four establishments of mindfulness are practised, unremitting mindfulness is established — the first factor.",
-    "ref": "MN 118",
-    "band": "B3",
-    "rests_on": [
-     "tea:anapanasati-sutta:29-43"
-    ]
+    "description": "unmuddled mindfulness is established while he abides contemplating (body, feelings, mind or dhammas)",
+    "ref": "MN 118:30",
+    "band": "B3"
    },
    {
     "order": 2,
     "name": "dhammavicaya-sambojjhaṅga",
     "gloss": "investigation of dhammas",
-    "description": "Arises from the preceding factor when the four establishments of mindfulness are developed; supported by seclusion, dispassion and cessation, ripening in relinquishment.",
-    "ref": "MN 118",
-    "band": "B4",
-    "rests_on": [
-     "tea:anapanasati-sutta:29-43"
-    ]
+    "description": "arises as he investigates that dhamma with wisdom, examines it and undertakes scrutiny",
+    "ref": "MN 118:31",
+    "band": "B4"
    },
    {
     "order": 3,
     "name": "vīriya-sambojjhaṅga",
     "gloss": "energy",
-    "description": "Arises from the preceding factor when the four establishments of mindfulness are developed; supported by seclusion, dispassion and cessation, ripening in relinquishment.",
-    "ref": "MN 118",
-    "band": "B4",
-    "rests_on": [
-     "tea:anapanasati-sutta:29-43"
-    ]
+    "description": "arises in one investigating thus: energy aroused and unflagging",
+    "ref": "MN 118:32",
+    "band": "B4"
    },
    {
     "order": 4,
     "name": "pīti-sambojjhaṅga",
     "gloss": "rapture",
-    "description": "Arises from the preceding factor when the four establishments of mindfulness are developed; supported by seclusion, dispassion and cessation, ripening in relinquishment.",
-    "ref": "MN 118",
-    "band": "B4",
-    "rests_on": [
-     "tea:anapanasati-sutta:29-43"
-    ]
+    "description": "arises in one whose energy is aroused: unworldly rapture",
+    "ref": "MN 118:33",
+    "band": "B4"
    },
    {
     "order": 5,
     "name": "passaddhi-sambojjhaṅga",
     "gloss": "tranquillity",
-    "description": "Arises from the preceding factor when the four establishments of mindfulness are developed; supported by seclusion, dispassion and cessation, ripening in relinquishment.",
-    "ref": "MN 118",
-    "band": "B4",
-    "rests_on": [
-     "tea:anapanasati-sutta:29-43"
-    ]
+    "description": "arises in one whose mind is rapt: body and mind become tranquil",
+    "ref": "MN 118:34",
+    "band": "B4"
    },
    {
     "order": 6,
     "name": "samādhi-sambojjhaṅga",
     "gloss": "concentration",
-    "description": "Arises from the preceding factor when the four establishments of mindfulness are developed; supported by seclusion, dispassion and cessation, ripening in relinquishment.",
-    "ref": "MN 118",
-    "band": "B4",
-    "rests_on": [
-     "tea:anapanasati-sutta:29-43"
-    ]
+    "description": "arises in one whose body is tranquil and who is happy: the mind is concentrated",
+    "ref": "MN 118:35",
+    "band": "B4"
    },
    {
     "order": 7,
-    "name": "upekkhā-sambojjhaṅga",
+    "name": "upekkha-sambojjhaṅga",
     "gloss": "equanimity",
-    "description": "Arises from the preceding factor when the four establishments of mindfulness are developed; supported by seclusion, dispassion and cessation, ripening in relinquishment.",
-    "ref": "MN 118",
-    "band": "B4",
-    "rests_on": [
-     "tea:anapanasati-sutta:29-43"
-    ]
-   },
-   {
-    "order": 8,
-    "name": "vijjā-vimutti",
-    "gloss": "true knowledge and liberation",
-    "description": "The seven factors, developed and cultivated, fulfil true knowledge and liberation.",
-    "ref": "MN 118",
-    "band": "B7",
-    "rests_on": [
-     "tea:anapanasati-sutta:15.2-15.4",
-     "tea:anapanasati-sutta:29-43"
-    ]
+    "description": "arises as he looks on with equanimity at the mind thus concentrated",
+    "ref": "MN 118:36",
+    "band": "B4"
    }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:anapanasati-sutta:mn118:35",
+      "tea:anapanasati-sutta:mn118:42",
+      "tea:anapanasati-sutta:thesis"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "The order and the dependence of each factor on the previous is the text's own (mn118:30-36). Bands are the pre-existing interpretive assignments, kept unchanged.",
+  "lineages": [
+   "lin:early-buddhism",
+   "lin:theravada"
   ],
   "sources": [
    {
@@ -2855,21 +2866,19 @@
     "rests_on": []
    }
   ],
-  "notes": "A sequence stated by the sutta itself ('each arises from the preceding'); the factors are also developed together.",
+  "alt_notes": [
+   "A sequence stated by the sutta itself ('each arises from the preceding'); the factors are also developed together."
+  ],
   "coverage": [
    "F"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U51-path-maps"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   },
@@ -2886,7 +2895,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -2990,7 +2999,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -3118,7 +3127,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -3192,7 +3201,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -3287,7 +3296,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -3415,7 +3424,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -3498,7 +3507,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -3638,7 +3647,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -3747,7 +3756,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -3826,7 +3835,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -3938,7 +3947,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -4074,7 +4083,178 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
+  }
+ },
+ {
+  "id": "pth:dogen-practice-realization",
+  "name": "Dōgen's unity of practice and realization and the way-ring of continuous practice (shushō ittō; gyōji dōkan)",
+  "lineage": "lin:soto",
+  "lineages": [
+   "lin:soto",
+   "lin:zen"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "hosshin 発心",
+    "gloss": "arousing the mind (of the way)",
+    "description": "The first of the four phases of the way-ring; for Dōgen it is not before the others but circles with them without gap.",
+    "ref": "Gyōji",
+    "band": "B0",
+    "rests_on": [
+     "tea:gyoji:dokan"
+    ],
+    "band_note": "B0 by what it names; Dōgen denies that it precedes the others (way-ring)."
+   },
+   {
+    "order": 2,
+    "name": "shugyō 修行 — shikan taza",
+    "gloss": "practice — just sitting",
+    "description": "Practice is practice-in-realization (shō-jō no shu): the beginner's wholehearted practice of the way is the whole of original realization; just sit, thinking not-thinking.",
+    "ref": "Bendōwa; Fukanzazengi; Zuimonki",
+    "band": "B6",
+    "rests_on": [
+     "tea:bendowa:practice-realization",
+     "tea:fukanzazengi:non-thinking",
+     "tea:shobogenzo-zuimonki:just-sitting",
+     "tea:gyoji:dokan"
+    ],
+    "band_note": "B6 in Dōgen's own terms ('practice on top of realization'), not as a preparatory stage (B2-B4); it is listed before awakening because Dōgen lists it so."
+   },
+   {
+    "order": 3,
+    "name": "bodai 菩提",
+    "gloss": "awakening",
+    "description": "'That the myriad things come forward and verify the self is awakening'; awakening is like the moon in water — the moon does not get wet, the water is not broken.",
+    "ref": "Genjōkōan; Gyōji",
+    "band": "B5",
+    "rests_on": [
+     "tea:genjokoan:to-study-the-self",
+     "tea:genjokoan:moon-in-water",
+     "tea:gyoji:dokan"
+    ],
+    "band_note": "Banded B5 by what it names; for Dōgen it is not after practice."
+   },
+   {
+    "order": 4,
+    "name": "nehan 涅槃",
+    "gloss": "nirvāṇa",
+    "description": "The fourth phase of the ring, returning without gap to arousing the mind; 'when the myriad dharmas are without self there is no delusion, no awakening, no buddhas, no beings'.",
+    "ref": "Gyōji; Genjōkōan",
+    "band": "B7",
+    "rests_on": [
+     "tea:gyoji:dokan",
+     "tea:genjokoan:opening"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:bendowa",
+    "ref": "practice-realization",
+    "rests_on": [
+     "tea:bendowa:practice-realization"
+    ]
+   },
+   {
+    "source": "src:fukanzazengi",
+    "ref": "whole",
+    "rests_on": [
+     "tea:fukanzazengi:complete",
+     "tea:fukanzazengi:non-thinking"
+    ]
+   },
+   {
+    "source": "src:genjokoan",
+    "ref": "whole",
+    "rests_on": [
+     "tea:genjokoan:opening",
+     "tea:genjokoan:to-study-the-self",
+     "tea:genjokoan:fan"
+    ]
+   },
+   {
+    "source": "src:gyoji",
+    "ref": "opening",
+    "rests_on": [
+     "tea:gyoji:dokan"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:practice-and-realization",
+   "cpt:zazen-redefined"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:ten-oxherding-pictures",
+    "grade": "contested",
+    "standpoint": "",
+    "note": "Both are Zen maps, but Dōgen rejects treating practice as a means to a later awakening, which the pictures' sequence suggests.",
+    "rests_on": [
+     "tea:bendowa:practice-realization"
+    ],
+    "principle": "P2-standpoint"
+   },
+   {
+    "target": "pth:jinul-sudden-gradual",
+    "grade": "contested",
+    "standpoint": "",
+    "note": "Jinul puts cultivation after awakening; Dōgen makes them one — 'practice on top of realization' is close to Jinul's order, but Dōgen denies any sequence.",
+    "rests_on": [
+     "tea:bendowa:practice-realization",
+     "tea:susim-kyol:1006b15"
+    ],
+    "principle": "P2-standpoint"
+   },
+   {
+    "target": "pth:dzogchen-four-visions",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Both traditions deny that practice produces what is already complete ('the Way is fundamentally complete'; the all-creating king has nothing to do).",
+    "rests_on": [
+     "tea:fukanzazengi:complete",
+     "tea:kunjed-gyalpo:44"
+    ],
+    "principle": "P2-standpoint"
+   }
+  ],
+  "disputes": [
+   "dsp:sudden-or-gradual"
+  ],
+  "tradition_objection": "Dōgen denies that this is a ladder: 'to think practice and realization are not one is a non-Buddhist view'; the four phases form a ring without the slightest gap, and the Way 'is fundamentally complete — why depend on practice and realization?', yet 'if there is the slightest gap, heaven and earth are far apart'. The bands therefore do not describe an order of attainment; they only record which band each named phase would occupy on other maps.",
+  "notes": "The four phases are from the Gyōji fascicle (text not available locally; moderate confidence on wording). Bands are deliberately non-monotonic (B0, B6, B5, B7) to show that Dōgen places 'practice' where other maps place post-awakening cultivation.",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:soto",
+    "lin:zen"
+   ],
+   "schools": [
+    "lin:chan"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -4193,7 +4373,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -4286,7 +4466,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -4393,7 +4573,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -4546,7 +4726,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -4715,7 +4895,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -4799,7 +4979,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -5050,7 +5230,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -5131,7 +5311,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -5238,7 +5418,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -5327,7 +5507,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -5547,7 +5727,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -5622,7 +5802,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -5788,7 +5968,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -5900,7 +6080,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -6072,7 +6252,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -6199,7 +6379,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -6303,7 +6483,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -6401,7 +6581,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -6607,7 +6787,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -6700,7 +6880,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -6838,7 +7018,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -6981,7 +7161,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -7186,7 +7366,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -7268,7 +7448,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -7449,7 +7629,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -7576,7 +7756,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -7694,7 +7874,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -7820,7 +8000,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -7924,7 +8104,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -8062,7 +8242,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -8207,7 +8387,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -8295,7 +8475,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -8615,7 +8795,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -8754,7 +8934,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -9004,7 +9184,156 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
+  }
+ },
+ {
+  "id": "pth:jinul-sudden-gradual",
+  "name": "Jinul's sudden awakening and gradual cultivation (tono chŏmsu)",
+  "lineage": "lin:seon",
+  "lineages": [
+   "lin:seon",
+   "lin:jogye"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "seeking buddha in one's own mind",
+    "gloss": "the turning",
+    "description": "The three realms burn like a house on fire; to escape transmigration nothing is better than seeking buddha, and buddha is the mind — not outside, not apart from this body.",
+    "ref": "Susim kyŏl 1005c21",
+    "band": "B0",
+    "rests_on": [
+     "tea:susim-kyol:1005c21"
+    ]
+   },
+   {
+    "order": 2,
+    "name": "tono 頓悟 (haeo 解悟)",
+    "gloss": "sudden awakening (understanding-awakening)",
+    "description": "When a good friend points the way and in one thought one turns back the light and sees one's original nature — empty, calm, numinous knowing — it lacks nothing.",
+    "ref": "Susim kyŏl 1006c11, 1007a01-a21",
+    "band": "B5",
+    "rests_on": [
+     "tea:susim-kyol:1006c11",
+     "tea:susim-kyol:1007a01",
+     "tea:susim-kyol:1007a08",
+     "tea:susim-kyol:1007a21"
+    ],
+    "band_note": "B5; Jinul (after Zongmi) calls this an understanding-awakening, distinct from the realization-awakening at the end."
+   },
+   {
+    "order": 3,
+    "name": "chŏmsu 漸修",
+    "gloss": "gradual cultivation",
+    "description": "Habit-energies cannot be removed at once, so relying on awakening one cultivates gradually, like an infant growing up: noticing thoughts as they arise ('do not fear thoughts arising, only fear being slow to notice'); the dual cultivation of samādhi and prajñā as substance and function of the self-nature; for the penetrated, effortless 'just thus'.",
+    "ref": "Susim kyŏl 1006c11, 1007c21, 1008a06, 1008a11",
+    "band": "B6",
+    "rests_on": [
+     "tea:susim-kyol:1006c11",
+     "tea:susim-kyol:1007c21",
+     "tea:susim-kyol:1008a06",
+     "tea:susim-kyol:1008a11"
+    ]
+   },
+   {
+    "order": 4,
+    "name": "chŭng 證 (chŭngo 證悟)",
+    "gloss": "realization",
+    "description": "'All sages first awaken, then cultivate, and through cultivation realize'; phenomena are exhausted step by step as the frozen pond melts; powers appear only through gradual cultivation and are not to be used.",
+    "ref": "Susim kyŏl 1006b15-b28",
+    "band": "B7",
+    "rests_on": [
+     "tea:susim-kyol:1006b15",
+     "tea:susim-kyol:1006b28"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:susim-kyol",
+    "ref": "T48n2020",
+    "rests_on": [
+     "tea:susim-kyol:1006b15",
+     "tea:susim-kyol:1006c11"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:sudden-and-gradual",
+   "cpt:samadhi-prajna-unity",
+   "cpt:alert-calm-balance",
+   "cpt:numinous-awareness"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:zongmi-ten-stages-of-awakening",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Jinul adopts Zongmi's 'sudden awakening followed by gradual cultivation' and cites his frozen-pond simile.",
+    "rests_on": [
+     "tea:susim-kyol:1006b15",
+     "tea:chanyuan-zhuquanji-duxu:409b21"
+    ]
+   },
+   {
+    "target": "pth:ten-oxherding-pictures",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Seeing the ox then taming it.",
+    "rests_on": [
+     "tea:ten-oxherding-pictures:3",
+     "tea:susim-kyol:1006c11"
+    ],
+    "principle": "P4-stage"
+   },
+   {
+    "target": "pth:kashmir-four-upayas",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Immediate recognition for some, graded means for others.",
+    "rests_on": [
+     "tea:tantraloka:2",
+     "tea:susim-kyol:1006b15"
+    ],
+    "principle": "P4-stage"
+   }
+  ],
+  "disputes": [
+   "dsp:sudden-or-gradual"
+  ],
+  "tradition_objection": "Jinul says the gates are in essence only two, sudden awakening and gradual cultivation; even 'sudden awakening, sudden cultivation' of the highest faculties rests on cultivation in past lives; principle is awakened to all at once and only phenomena are removed step by step — so the awakening itself is not a rung of a gradual ladder.",
+  "notes": "Rests entirely on the Susim kyŏl (T48n2020, verified in CBETA by U42). Jinul's shortcut approach of investigating the hwadu (kyŏngjŏl mun, from the Kanhwa kyŏrŭi ron) is not included: that text is not available locally.",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:jogye",
+    "lin:seon"
+   ],
+   "schools": [
+    "lin:chan"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -9104,7 +9433,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -9320,7 +9649,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -9442,7 +9771,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -9563,7 +9892,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -9727,7 +10056,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -9827,7 +10156,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -9929,7 +10258,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -10030,7 +10359,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -10140,7 +10469,192 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
+  }
+ },
+ {
+  "id": "pth:kukai-ten-abodes-of-mind",
+  "name": "Kūkai's ten abodes of mind (jūjūshin)",
+  "lineage": "lin:shingon",
+  "lineages": [
+   "lin:shingon"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "ishō teiyō shin 異生羝羊心",
+    "gloss": "the mind of the ordinary person like a ram",
+    "description": "Driven by appetite for food and sex like a goat.",
+    "ref": "Jūjūshinron fasc. 1",
+    "band": null,
+    "rests_on": [
+     "tea:jujushinron:ten-abodes"
+    ],
+    "band_note": "Starting condition, unbanded."
+   },
+   {
+    "order": 2,
+    "name": "gudō jisai shin 愚童持齋心",
+    "gloss": "the mind of the foolish child keeping fasts",
+    "description": "The first stirring of ethics (worldly moral teaching).",
+    "ref": "Jūjūshinron fasc. 2",
+    "band": "B1",
+    "rests_on": [
+     "tea:jujushinron:ten-abodes"
+    ]
+   },
+   {
+    "order": 3,
+    "name": "yōdō mui shin 嬰童無畏心",
+    "gloss": "the fearless mind of the infant",
+    "description": "Religion aimed at birth in heaven (the non-Buddhist and heavenly vehicles).",
+    "ref": "Jūjūshinron fasc. 3",
+    "band": "B2",
+    "rests_on": [
+     "tea:jujushinron:ten-abodes"
+    ]
+   },
+   {
+    "order": 4,
+    "name": "yuiun muga shin 唯蘊無我心",
+    "gloss": "the mind that knows only aggregates, no self",
+    "description": "The śrāvaka vehicle.",
+    "ref": "Jūjūshinron fasc. 4",
+    "band": null,
+    "rests_on": [
+     "tea:jujushinron:ten-abodes"
+    ],
+    "band_note": "Doxographical rank of a vehicle; unbanded (cf. pth:nyingma-nine-vehicles)."
+   },
+   {
+    "order": 5,
+    "name": "batsugō inshu shin 拔業因種心",
+    "gloss": "the mind that uproots the seed of karma",
+    "description": "The pratyekabuddha vehicle.",
+    "ref": "Jūjūshinron fasc. 5",
+    "band": null,
+    "rests_on": [
+     "tea:jujushinron:ten-abodes"
+    ],
+    "band_note": "Doxographical; unbanded."
+   },
+   {
+    "order": 6,
+    "name": "taen daijō shin 他縁大乘心",
+    "gloss": "the Mahāyāna mind concerned with others",
+    "description": "Hossō (Yogācāra).",
+    "ref": "Jūjūshinron fasc. 6",
+    "band": null,
+    "rests_on": [
+     "tea:jujushinron:ten-abodes"
+    ],
+    "band_note": "Doxographical; unbanded."
+   },
+   {
+    "order": 7,
+    "name": "kakushin fushō shin 覺心不生心",
+    "gloss": "the mind awakened to the unborn",
+    "description": "Sanron (Madhyamaka).",
+    "ref": "Jūjūshinron fasc. 7",
+    "band": null,
+    "rests_on": [
+     "tea:jujushinron:ten-abodes"
+    ],
+    "band_note": "Doxographical; unbanded."
+   },
+   {
+    "order": 8,
+    "name": "ichidō mui shin 一道無爲心",
+    "gloss": "the mind of the one way without action",
+    "description": "Tendai.",
+    "ref": "Jūjūshinron fasc. 8",
+    "band": null,
+    "rests_on": [
+     "tea:jujushinron:ten-abodes"
+    ],
+    "band_note": "Doxographical; unbanded."
+   },
+   {
+    "order": 9,
+    "name": "gokumu jishō shin 極無自性心",
+    "gloss": "the mind of the ultimate absence of own-nature",
+    "description": "Kegon.",
+    "ref": "Jūjūshinron fasc. 9",
+    "band": null,
+    "rests_on": [
+     "tea:jujushinron:ten-abodes"
+    ],
+    "band_note": "Doxographical; unbanded."
+   },
+   {
+    "order": 10,
+    "name": "himitsu shōgon shin 秘密莊嚴心",
+    "gloss": "the secret, adorned mind",
+    "description": "Shingon: the mind as the maṇḍala; becoming a buddha in this very body.",
+    "ref": "Jūjūshinron fasc. 10",
+    "band": "B7",
+    "rests_on": [
+     "tea:jujushinron:ten-abodes"
+    ],
+    "band_note": "B7 as the text's goal (sokushin jōbutsu)."
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:jujushinron",
+    "ref": "fascicles 1-10",
+    "rests_on": [
+     "tea:jujushinron:ten-abodes"
+    ]
+   },
+   {
+    "source": "src:hizo-hoyaku",
+    "ref": "whole (condensed version)",
+    "rests_on": []
+   }
+  ],
+  "concepts": [
+   "cpt:ten-abodes-of-mind"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:nyingma-nine-vehicles",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Both rank the Buddhist vehicles in an ascending doxography culminating in the author's own tantric vehicle.",
+    "rests_on": [],
+    "principle": "P5-neyartha"
+   }
+  ],
+  "tradition_objection": "Kūkai reads the ten both 'vertically' (as ascending stages, the first nine exoteric and the tenth esoteric) and 'horizontally' (all nine as aspects contained within the tenth, the maṇḍala); the ladder is a classification of teachings by depth (P5), not a practitioner's required sequence.",
+  "notes": "From memory: the ten names are well known, but the text is not available locally (Taishō vol. 77). Banded only where the abode describes a practitioner's ethical or religious condition (2, 3) or the goal (10); the abodes that rank Buddhist schools are left unbanded, following U45's pth:nyingma-nine-vehicles.",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:shingon"
+   ],
+   "schools": [
+    "lin:shingon"
+   ],
+   "families": [],
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -10236,7 +10750,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -10417,7 +10931,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -10546,7 +11060,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -10625,7 +11139,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -10740,7 +11254,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -11012,7 +11526,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -11097,7 +11611,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -11203,7 +11717,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -11347,7 +11861,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -11472,7 +11986,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -11547,7 +12061,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -11695,7 +12209,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -11869,7 +12383,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -12145,7 +12659,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -12241,7 +12755,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -12419,7 +12933,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -12494,7 +13008,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -12579,7 +13093,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -12708,7 +13222,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -12783,7 +13297,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -12982,7 +13496,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -13072,7 +13586,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -13187,7 +13701,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -13340,7 +13854,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -13471,7 +13985,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -13577,7 +14091,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -13706,7 +14220,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -13822,7 +14336,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -13951,7 +14465,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -14056,7 +14570,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -14163,7 +14677,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -14263,7 +14777,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -14353,7 +14867,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -14486,7 +15000,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -14759,7 +15273,111 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
+  }
+ },
+ {
+  "id": "pth:noble-eightfold-path-dn22",
+  "name": "The noble eightfold path as defined in DN 22",
+  "lineage": "lin:early-buddhism",
+  "stages": [
+   {
+    "order": 1,
+    "name": "sammādiṭṭhi",
+    "gloss": "right view",
+    "description": "knowledge of suffering, origin, cessation and the way",
+    "ref": "DN 22:21"
+   },
+   {
+    "order": 2,
+    "name": "sammāsaṅkappa",
+    "gloss": "right intention",
+    "description": "renunciation, non-ill-will, non-harming",
+    "ref": "DN 22:21"
+   },
+   {
+    "order": 3,
+    "name": "sammāvācā",
+    "gloss": "right speech",
+    "description": "abstaining from false, divisive, harsh speech and idle chatter",
+    "ref": "DN 22:21"
+   },
+   {
+    "order": 4,
+    "name": "sammākammanta",
+    "gloss": "right action",
+    "description": "abstaining from killing, taking what is not given, sexual misconduct",
+    "ref": "DN 22:21"
+   },
+   {
+    "order": 5,
+    "name": "sammāājīva",
+    "gloss": "right livelihood",
+    "description": "giving up wrong livelihood, making a living rightly",
+    "ref": "DN 22:21"
+   },
+   {
+    "order": 6,
+    "name": "sammāvāyāma",
+    "gloss": "right effort",
+    "description": "fourfold: prevent, abandon, arouse, maintain",
+    "ref": "DN 22:21"
+   },
+   {
+    "order": 7,
+    "name": "sammāsati",
+    "gloss": "right mindfulness",
+    "description": "the four establishments of mindfulness",
+    "ref": "DN 22:21"
+   },
+   {
+    "order": 8,
+    "name": "sammāsamādhi",
+    "gloss": "right concentration",
+    "description": "the four jhānas",
+    "ref": "DN 22:21"
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "notes": "The order is the order in which DN 22:21 lists and defines the factors; the sutta does not say they are practised in sequence. No interpretive bands assigned.",
+  "provenance": {
+   "units": [
+    "extraction:mahasatipatthana-sutta/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:early-buddhism"
+   ],
+   "schools": [
+    "lin:early-buddhism"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -14922,7 +15540,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -15043,7 +15661,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -15159,7 +15777,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -15263,7 +15881,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -15364,7 +15982,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -15472,7 +16090,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -15597,7 +16215,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -15676,7 +16294,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -15817,7 +16435,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -15905,7 +16523,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -16038,7 +16656,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -16118,7 +16736,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -16234,7 +16852,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -16368,7 +16986,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -16515,7 +17133,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -16642,7 +17260,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -16726,7 +17344,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -16839,7 +17457,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -17032,7 +17650,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -17109,7 +17727,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -17303,7 +17921,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -17430,7 +18048,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -17565,7 +18183,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -17690,7 +18308,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -17864,7 +18482,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -17991,7 +18609,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -18128,7 +18746,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -18242,7 +18860,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -18371,7 +18989,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -18539,7 +19157,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -18657,7 +19275,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -18747,7 +19365,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -18838,7 +19456,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -18933,7 +19551,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -19144,7 +19762,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -19232,7 +19850,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -19371,7 +19989,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -19462,7 +20080,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -19533,7 +20151,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -20402,7 +21020,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -20523,7 +21141,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -20660,7 +21278,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -20817,7 +21435,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -21125,7 +21743,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -21244,7 +21862,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -21348,7 +21966,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -21489,7 +22107,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -21626,7 +22244,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -21764,7 +22382,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -21878,7 +22496,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -22009,7 +22627,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -22192,7 +22810,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -22455,7 +23073,232 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
+  }
+ },
+ {
+  "id": "pth:ten-oxherding-pictures",
+  "name": "Kuoan's ten oxherding pictures (Shiniu tu)",
+  "lineage": "lin:chan",
+  "lineages": [
+   "lin:chan",
+   "lin:linji",
+   "lin:rinzai",
+   "lin:zen",
+   "lin:seon"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "xun niu 尋牛",
+    "gloss": "searching for the ox",
+    "description": "The herdsman searches through the wild grasses; the preface: the ox has never been lost — by turning his back on awakening he became estranged.",
+    "ref": "picture 1",
+    "band": "B0",
+    "rests_on": [
+     "tea:ten-oxherding-pictures:1"
+    ]
+   },
+   {
+    "order": 2,
+    "name": "jian ji 見跡",
+    "gloss": "seeing the traces",
+    "description": "Through the sūtras and teachings he sees the footprints: the many vessels are all gold, but he has not yet entered the gate.",
+    "ref": "picture 2",
+    "band": "B2",
+    "rests_on": [
+     "tea:ten-oxherding-pictures:2"
+    ],
+    "band_note": "B2: understanding through sūtras and teachings, 'not yet entered the gate'."
+   },
+   {
+    "order": 3,
+    "name": "jian niu 見牛",
+    "gloss": "seeing the ox",
+    "description": "Hearing a sound he glimpses the ox itself: it is not elsewhere, it was always there.",
+    "ref": "picture 3",
+    "band": "B5",
+    "rests_on": [
+     "tea:ten-oxherding-pictures:3"
+    ],
+    "band_note": "B5: the first glimpse of one's own nature (kenshō)."
+   },
+   {
+    "order": 4,
+    "name": "de niu 得牛",
+    "gloss": "catching the ox",
+    "description": "He seizes it, but it is wild and old habits pull it back; he must use the whip.",
+    "ref": "picture 4",
+    "band": "B6",
+    "rests_on": [
+     "tea:ten-oxherding-pictures:4"
+    ],
+    "band_note": "B6: after seeing, old habits still pull the ox back to the grasses."
+   },
+   {
+    "order": 5,
+    "name": "mu niu 牧牛",
+    "gloss": "herding the ox",
+    "description": "With rope and whip at hand the ox becomes gentle; thoughts arise one after another, but awakening makes them true.",
+    "ref": "picture 5",
+    "band": "B6",
+    "rests_on": [
+     "tea:ten-oxherding-pictures:5"
+    ]
+   },
+   {
+    "order": 6,
+    "name": "qi niu gui jia 騎牛歸家",
+    "gloss": "riding the ox home",
+    "description": "The struggle over, he rides home playing the flute.",
+    "ref": "picture 6",
+    "band": "B6",
+    "rests_on": [
+     "tea:ten-oxherding-pictures:6"
+    ]
+   },
+   {
+    "order": 7,
+    "name": "wang niu cun ren 忘牛存人",
+    "gloss": "ox forgotten, the person remains",
+    "description": "At home the ox is forgotten; whip and rope lie idle; he sits alone at ease.",
+    "ref": "picture 7",
+    "band": "B6",
+    "rests_on": [
+     "tea:ten-oxherding-pictures:7"
+    ],
+    "band_note": "B6: the object gone, the subject still remains."
+   },
+   {
+    "order": 8,
+    "name": "ren niu ju wang 人牛俱忘",
+    "gloss": "person and ox both forgotten",
+    "description": "Whip, rope, person and ox are all empty — an empty circle.",
+    "ref": "picture 8",
+    "band": "B7",
+    "rests_on": [
+     "tea:ten-oxherding-pictures:8"
+    ],
+    "band_note": "B7: the empty circle — ordinary and holy both vanish."
+   },
+   {
+    "order": 9,
+    "name": "fan ben huan yuan 返本還源",
+    "gloss": "returning to the origin",
+    "description": "Returning to the source: the rivers flow and the flowers are red of themselves.",
+    "ref": "picture 9",
+    "band": "B7",
+    "rests_on": [
+     "tea:ten-oxherding-pictures:9"
+    ],
+    "band_note": "B7: seeing things as they are (the rivers flow, the flowers are red) without striving."
+   },
+   {
+    "order": 10,
+    "name": "ru chan chui shou 入鄽垂手",
+    "gloss": "entering the marketplace with helping hands",
+    "description": "Bare-chested and barefoot he enters the marketplace with wine gourd and staff; the withered trees burst into bloom.",
+    "ref": "picture 10",
+    "band": "B8",
+    "rests_on": [
+     "tea:ten-oxherding-pictures:10"
+    ],
+    "band_note": "B8: return to the world to benefit others."
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:ten-oxherding-pictures",
+    "ref": "pictures 1-10 with verses and Ciyuan's prefaces",
+    "rests_on": [
+     "tea:ten-oxherding-pictures:1",
+     "tea:ten-oxherding-pictures:2",
+     "tea:ten-oxherding-pictures:3",
+     "tea:ten-oxherding-pictures:4",
+     "tea:ten-oxherding-pictures:5",
+     "tea:ten-oxherding-pictures:6",
+     "tea:ten-oxherding-pictures:7",
+     "tea:ten-oxherding-pictures:8",
+     "tea:ten-oxherding-pictures:9",
+     "tea:ten-oxherding-pictures:10"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:oxherding-stages",
+   "cpt:post-awakening-practice",
+   "cpt:sudden-and-gradual"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:puming-ten-oxherding-pictures",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Puming's series ends in the empty circle (Kuoan's 8); Kuoan adds returning to the source and entering the marketplace.",
+    "rests_on": [
+     "tea:puming-oxherding-pictures:1-10",
+     "tea:ten-oxherding-pictures:10"
+    ]
+   },
+   {
+    "target": "pth:dongshan-five-ranks",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Another Chan map ending in return to the world of distinctions.",
+    "rests_on": [],
+    "principle": "P4-stage"
+   },
+   {
+    "target": "pth:jinul-sudden-gradual",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Seeing the ox then taming it matches 'sudden awakening, gradual cultivation'.",
+    "rests_on": [
+     "tea:ten-oxherding-pictures:3",
+     "tea:ten-oxherding-pictures:4",
+     "tea:susim-kyol:1006b15"
+    ],
+    "principle": "P4-stage"
+   }
+  ],
+  "disputes": [
+   "dsp:sudden-or-gradual"
+  ],
+  "tradition_objection": "The first preface says the ox was never lost: the pictures describe the ending of an estrangement, not the gaining of something new; Chan teachers use them as skilful means (P6), not as a fixed ladder.",
+  "notes": "Kuoan Shiyuan (廓庵師遠, 12th c., Linji/Yangqi line), with prefaces by Ciyuan; Xuzangjing X1269 (Kuoan's series) is the text used by U42's teachings. Distinguish from Puming's whitening-ox series (pth:puming-ten-oxherding-pictures).",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:chan",
+    "lin:linji",
+    "lin:rinzai",
+    "lin:seon",
+    "lin:zen"
+   ],
+   "schools": [
+    "lin:chan"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -22536,7 +23379,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -22621,7 +23464,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -22696,7 +23539,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -22851,7 +23694,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -23027,7 +23870,168 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
+  }
+ },
+ {
+  "id": "pth:tiantai-six-identities",
+  "name": "Zhiyi's six identities (liuji 六即)",
+  "lineage": "lin:tiantai",
+  "lineages": [
+   "lin:tiantai",
+   "lin:tendai"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "liji 理即",
+    "gloss": "identity in principle",
+    "description": "One moment of mind is the principle of the tathāgatagarbha — empty, provisional and middle — present in all beings unknowing.",
+    "ref": "Mohe zhiguan T1911 10b12-10c21",
+    "band": null,
+    "rests_on": [
+     "tea:mohe-zhiguan:10b12",
+     "tea:mohe-zhiguan:10b15",
+     "tea:mohe-zhiguan:10c21"
+    ],
+    "band_note": "Starting condition (the ground in all beings), unbanded; Zhiyi's point is that it is already 'identical' with bodhi."
+   },
+   {
+    "order": 2,
+    "name": "mingziji 名字即",
+    "gloss": "verbal identity",
+    "description": "Hearing from a good friend or the sūtras of the one real bodhi and understanding in words that all dharmas are buddha-dharma; faith in the dharma-nature.",
+    "ref": "Mohe zhiguan T1911 10b12-10c21",
+    "band": "B0",
+    "rests_on": [
+     "tea:mohe-zhiguan:10b12",
+     "tea:mohe-zhiguan:10b15",
+     "tea:mohe-zhiguan:10c21"
+    ]
+   },
+   {
+    "order": 3,
+    "name": "guanxingji 觀行即",
+    "gloss": "identity in contemplative practice",
+    "description": "Mind and speech in accord; contemplation unceasing, though not yet in accord with principle (later Tiantai: the five grades of disciples).",
+    "ref": "Mohe zhiguan T1911 10b12-10c21",
+    "band": "B3",
+    "rests_on": [
+     "tea:mohe-zhiguan:10b12",
+     "tea:mohe-zhiguan:10b15",
+     "tea:mohe-zhiguan:10c21"
+    ]
+   },
+   {
+    "order": 4,
+    "name": "xiangsiji 相似即",
+    "gloss": "identity of resemblance",
+    "description": "The more one contemplates the clearer, like an archer nearing the target; purification of the six senses; ignorance subdued; wisdom resembling the middle way (later: the ten faiths).",
+    "ref": "Mohe zhiguan T1911 10b12-10c21",
+    "band": "B4",
+    "rests_on": [
+     "tea:mohe-zhiguan:10b12",
+     "tea:mohe-zhiguan:10b15",
+     "tea:mohe-zhiguan:10c21"
+    ],
+    "band_note": "B4: resembling, not yet true, wisdom — the analogue of the path of preparation."
+   },
+   {
+    "order": 5,
+    "name": "fenzhenji 分真即",
+    "gloss": "identity of partial truth",
+    "description": "Ignorance first broken, buddha-nature seen, the treasury opened (the abode of arousing the mind), and so on through forty-one stages to equal awakening; manifesting bodies to save beings.",
+    "ref": "Mohe zhiguan T1911 10b12-10c21",
+    "band": "B5",
+    "rests_on": [
+     "tea:mohe-zhiguan:10b12",
+     "tea:mohe-zhiguan:10b15",
+     "tea:mohe-zhiguan:10c21"
+    ],
+    "band_note": "B5 at its first moment; its further stages up to equal awakening are B6 (with B8 activity: manifesting bodies for beings)."
+   },
+   {
+    "order": 6,
+    "name": "jiujingji 究竟即",
+    "gloss": "ultimate identity",
+    "description": "Equal awakening turns into wondrous awakening; wisdom's light complete; the great nirvāṇa, nothing more to cut.",
+    "ref": "Mohe zhiguan T1911 10b12-10c21",
+    "band": "B7",
+    "rests_on": [
+     "tea:mohe-zhiguan:10b12",
+     "tea:mohe-zhiguan:10b15",
+     "tea:mohe-zhiguan:10c21"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:mohe-zhiguan",
+    "ref": "T1911 10b12-11a06",
+    "rests_on": [
+     "tea:mohe-zhiguan:10b12",
+     "tea:mohe-zhiguan:10b15",
+     "tea:mohe-zhiguan:10c21"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:six-identities"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:yingluo-fifty-two-stages",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Zhiyi maps the perfect teaching's stages onto the six identities: resemblance = ten faiths; partial truth = the forty-one stages from the first abode to equal awakening; ultimate = wondrous awakening.",
+    "rests_on": [
+     "tea:mohe-zhiguan:10b15",
+     "tea:pusa-yingluo-benye-jing:1012b25"
+    ]
+   },
+   {
+    "target": "pth:five-paths",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Resemblance ~ preparation; partial truth begins with the first seeing of buddha-nature.",
+    "rests_on": [
+     "tea:mohe-zhiguan:10b15",
+     "tea:abhidharmasamuccaya:2.1.five-paths"
+    ],
+    "principle": "P4-stage"
+   }
+  ],
+  "tradition_objection": "Zhiyi's point is identity (ji 即): every stage, even the ordinary person's, is identical with bodhi in principle, and the stages exist only to prevent both discouragement and arrogance ('beginning with the ordinary removes doubt; ending with the sage removes arrogance'); he says the six identities are used only for the perfect teaching.",
+  "notes": "All six names and their explanations verified in the local CBETA text of the Mohe zhiguan (T1911, 10b12-10c24); the text reads 分真即 (partial truth), not the later 分證即. Zhiyi also correlates the Dazhidulun's five bodhis with these stages (10c25ff.).",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:tendai",
+    "lin:tiantai"
+   ],
+   "schools": [
+    "lin:tendai",
+    "lin:tiantai"
+   ],
+   "families": [],
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -23152,7 +24156,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -23293,7 +24297,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -23451,7 +24455,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -23578,7 +24582,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -23681,7 +24685,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -23788,7 +24792,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -23927,7 +24931,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -24012,7 +25016,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -24143,7 +25147,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -24257,7 +25261,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -24348,7 +25352,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -24475,7 +25479,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -24595,7 +25599,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -24740,7 +25744,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -24853,7 +25857,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -24968,7 +25972,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -25136,7 +26140,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -25277,7 +26281,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -25415,7 +26419,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -25511,7 +26515,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -25596,7 +26600,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -25703,7 +26707,182 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
+  }
+ },
+ {
+  "id": "pth:yingluo-fifty-two-stages",
+  "name": "The fifty-two stages of the bodhisattva path (ten faiths + forty-two stages of worthies and sages)",
+  "lineage": "lin:mahayana",
+  "lineages": [
+   "lin:mahayana",
+   "lin:tiantai",
+   "lin:huayan",
+   "lin:chan"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "shixin 十信",
+    "gloss": "the ten faiths",
+    "description": "Preliminary to the forty-two: practised for one to ten kalpas before entering the abodes; they can still regress.",
+    "ref": "T1485 1014b29",
+    "band": "B0",
+    "rests_on": [
+     "tea:pusa-yingluo-benye-jing:1014b29"
+    ],
+    "band_note": "B0 as faith; later Tiantai puts them at the 'resemblance' identity (B4)."
+   },
+   {
+    "order": 2,
+    "name": "shizhu 十住",
+    "gloss": "the ten abodes (nature of habituation, xizhongxing)",
+    "description": "From the abode of arousing the mind to the abode of consecration; the first of the 'three worthy' groups.",
+    "ref": "T1485 1012b25, 1012c07",
+    "band": "B2",
+    "rests_on": [
+     "tea:pusa-yingluo-benye-jing:1012b25",
+     "tea:pusa-yingluo-benye-jing:1014b29"
+    ],
+    "band_note": "B2 in the sūtra's own scheme (worthies, not yet sages); in Zhiyi's perfect teaching the first abode is already the first seeing of buddha-nature (B5)."
+   },
+   {
+    "order": 3,
+    "name": "shixing 十行",
+    "gloss": "the ten practices (innate-disposition nature, xingzhongxing)",
+    "description": "From the practice of joy onward.",
+    "ref": "T1485 1012b25, 1012c11",
+    "band": "B2",
+    "rests_on": [
+     "tea:pusa-yingluo-benye-jing:1012b25"
+    ]
+   },
+   {
+    "order": 4,
+    "name": "shi huixiang 十迴向",
+    "gloss": "the ten dedications (nature of the path, daozhongxing)",
+    "description": "Dedicating merit; the last group of worthies before the sagely grounds.",
+    "ref": "T1485 1012b25",
+    "band": "B4",
+    "rests_on": [
+     "tea:pusa-yingluo-benye-jing:1012b25"
+    ],
+    "band_note": "B4: the threshold group before the grounds (the analogue of preparation)."
+   },
+   {
+    "order": 5,
+    "name": "shidi 十地",
+    "gloss": "the ten grounds (sagely nature, shengzhongxing)",
+    "description": "The ten bodhisattva grounds; entry into the sages.",
+    "ref": "T1485 1012b25",
+    "band": "B5",
+    "rests_on": [
+     "tea:pusa-yingluo-benye-jing:1012b25"
+    ],
+    "band_note": "B5 at the first ground, B6 for grounds 2-10."
+   },
+   {
+    "order": 6,
+    "name": "dengjue 等覺",
+    "gloss": "equal awakening",
+    "description": "The forty-first stage, equal to buddhahood but for a last trace.",
+    "ref": "T1485 1012b25",
+    "band": "B6",
+    "rests_on": [
+     "tea:pusa-yingluo-benye-jing:1012b25"
+    ]
+   },
+   {
+    "order": 7,
+    "name": "miaojue 妙覺",
+    "gloss": "wondrous awakening",
+    "description": "The forty-second ground, the mind of quiescence, clear like space; buddhahood.",
+    "ref": "T1485 1015c09",
+    "band": "B7",
+    "rests_on": [
+     "tea:pusa-yingluo-benye-jing:1015c09"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:pusa-yingluo-benye-jing",
+    "ref": "T1485",
+    "rests_on": [
+     "tea:pusa-yingluo-benye-jing:1012b25",
+     "tea:pusa-yingluo-benye-jing:1014b29",
+     "tea:pusa-yingluo-benye-jing:1015c09"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:fifty-two-stages",
+   "cpt:ten-bhumis",
+   "cpt:bodhisattva-path"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:ten-bhumis",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Stage 5 is the ten grounds.",
+    "rests_on": [
+     "tea:pusa-yingluo-benye-jing:1012b25"
+    ]
+   },
+   {
+    "target": "pth:surangama-fifty-five-stages",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "The Śūraṅgama's fifty-five stages add the dry-wisdom ground and the four aids to the same sequence.",
+    "rests_on": []
+   },
+   {
+    "target": "pth:tiantai-six-identities",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Zhiyi places these stages within the six identities.",
+    "rests_on": [
+     "tea:mohe-zhiguan:10b15"
+    ]
+   }
+  ],
+  "notes": "Group names and the six natures verified in CBETA T1485 (1012b25-26; 1014b29-c01; 1015c09). The sūtra counts forty-two stages of worthies and sages with the ten faiths as preliminary; 'fifty-two' is the common East Asian count including the faiths. Tiantai (perfect teaching) and Huayan place the first seeing earlier (at the first abode) than this sūtra's own scheme; the bands follow the sūtra's division into worthies (abodes, practices, dedications) and sages (grounds).",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 4,
+   "lineages": [
+    "lin:chan",
+    "lin:huayan",
+    "lin:mahayana",
+    "lin:tiantai"
+   ],
+   "schools": [
+    "lin:chan",
+    "lin:huayan",
+    "lin:mahayana",
+    "lin:tiantai"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -25922,7 +27101,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -26022,7 +27201,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -26136,7 +27315,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -26375,7 +27554,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -26483,7 +27662,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -26687,7 +27866,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -26805,7 +27984,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -26895,7 +28074,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -27026,7 +28205,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -27128,7 +28307,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -27233,7 +28412,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -27330,7 +28509,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -27425,7 +28604,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -27516,7 +28695,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
   }
  },
  {
@@ -27605,7 +28784,205 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:14 IST"
+   "computed": "2026-09-29 21:51 IST"
+  }
+ },
+ {
+  "id": "pth:zongmi-ten-stages-of-awakening",
+  "name": "Zongmi's ten phases of awakening (悟十重) in the Chan Preface",
+  "lineage": "lin:heze",
+  "lineages": [
+   "lin:heze",
+   "lin:huayan",
+   "lin:chan"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "dunwu 頓悟 (jiewu 解悟)",
+    "gloss": "sudden (understanding-)awakening",
+    "description": "Meeting a good friend, one understands the original enlightened true mind; the four elements are not self, the aggregates empty; faith in one's own suchness and the Three Jewels.",
+    "ref": "Chanyuan zhuquanji duxu T2015 409b21-410a04",
+    "band": "B5",
+    "rests_on": [
+     "tea:chanyuan-zhuquanji-duxu:409b21",
+     "tea:chanyuan-zhuquanji-duxu:409c09"
+    ],
+    "band_note": "B5 as the understanding-awakening; the phases after it are all 'cultivation after awakening' (B6)."
+   },
+   {
+    "order": 2,
+    "name": "fa beizhi yuan 發悲智願",
+    "gloss": "arousing compassion, wisdom and vows",
+    "description": "Pledging to realize bodhi.",
+    "ref": "Chanyuan zhuquanji duxu T2015 409b21-410a04",
+    "band": "B6",
+    "rests_on": [
+     "tea:chanyuan-zhuquanji-duxu:409b21",
+     "tea:chanyuan-zhuquanji-duxu:409c09"
+    ],
+    "band_note": "B0 in kind (arousing the mind) but placed by Zongmi after awakening, within cultivation (B6)."
+   },
+   {
+    "order": 3,
+    "name": "suifen xiuxi 隨分修習",
+    "gloss": "practice according to capacity",
+    "description": "Giving, precepts, patience, vigour and calming-and-contemplation; the root of faith grows.",
+    "ref": "Chanyuan zhuquanji duxu T2015 409b21-410a04",
+    "band": "B6",
+    "rests_on": [
+     "tea:chanyuan-zhuquanji-duxu:409b21",
+     "tea:chanyuan-zhuquanji-duxu:409c09"
+    ],
+    "band_note": "B1-B3 in kind; after awakening (B6)."
+   },
+   {
+    "order": 4,
+    "name": "da putixin xianfa 大菩提心顯發",
+    "gloss": "the great mind of awakening manifests",
+    "description": "The great bodhicitta becomes manifest.",
+    "ref": "Chanyuan zhuquanji duxu T2015 409b21-410a04",
+    "band": "B6",
+    "rests_on": [
+     "tea:chanyuan-zhuquanji-duxu:409b21",
+     "tea:chanyuan-zhuquanji-duxu:409c09"
+    ]
+   },
+   {
+    "order": 5,
+    "name": "zhi faxing 知法性",
+    "gloss": "knowing the dharma-nature",
+    "description": "Knowing the dharma-nature to be free of stinginess and the rest.",
+    "ref": "Chanyuan zhuquanji duxu T2015 409b21-410a04",
+    "band": "B6",
+    "rests_on": [
+     "tea:chanyuan-zhuquanji-duxu:409b21",
+     "tea:chanyuan-zhuquanji-duxu:409c09"
+    ],
+    "band_note": "Phases 5 and 6 are not clearly separated in the digital rendering of the chart."
+   },
+   {
+    "order": 6,
+    "name": "suishun xiu liudu, wofa shuangwang 隨順修六度 我法雙亡",
+    "gloss": "the perfections in accord; self and dharmas both forgotten",
+    "description": "Practising the six perfections in accord with the dharma-nature; by samādhi and prajñā self and dharmas are forgotten — always empty, always illusory.",
+    "ref": "Chanyuan zhuquanji duxu T2015 409b21-410a04",
+    "band": "B6",
+    "rests_on": [
+     "tea:chanyuan-zhuquanji-duxu:409b21",
+     "tea:chanyuan-zhuquanji-duxu:409c09"
+    ]
+   },
+   {
+    "order": 7,
+    "name": "yu se zizai 於色自在",
+    "gloss": "freedom with respect to form",
+    "description": "All interfused.",
+    "ref": "Chanyuan zhuquanji duxu T2015 409b21-410a04",
+    "band": "B6",
+    "rests_on": [
+     "tea:chanyuan-zhuquanji-duxu:409b21",
+     "tea:chanyuan-zhuquanji-duxu:409c09"
+    ]
+   },
+   {
+    "order": 8,
+    "name": "yu xin zizai 於心自在",
+    "gloss": "freedom with respect to mind",
+    "description": "Illuminating everything.",
+    "ref": "Chanyuan zhuquanji duxu T2015 409b21-410a04",
+    "band": "B6",
+    "rests_on": [
+     "tea:chanyuan-zhuquanji-duxu:409b21",
+     "tea:chanyuan-zhuquanji-duxu:409c09"
+    ]
+   },
+   {
+    "order": 9,
+    "name": "jiujing jue 究竟覺",
+    "gloss": "ultimate awakening",
+    "description": "Means fulfilled, one thought in accord; the first arising of mind awakened, free of subtle thought.",
+    "ref": "Chanyuan zhuquanji duxu T2015 409b21-410a04",
+    "band": "B7",
+    "rests_on": [
+     "tea:chanyuan-zhuquanji-duxu:409b21",
+     "tea:chanyuan-zhuquanji-duxu:409c09"
+    ]
+   },
+   {
+    "order": 10,
+    "name": "da jue zun 大覺尊",
+    "gloss": "the Great Awakened Honoured One",
+    "description": "No separate initial awakening; one with the pure mind-source, responding in countless ways and abiding in the dharma-realm; seeing all beings as equally awakened.",
+    "ref": "Chanyuan zhuquanji duxu T2015 409b21-410a04",
+    "band": "B7",
+    "rests_on": [
+     "tea:chanyuan-zhuquanji-duxu:409b21",
+     "tea:chanyuan-zhuquanji-duxu:409c09"
+    ],
+    "band_note": "B7, with the B8 aspect of responsive activity (應用塵沙)."
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:chanyuan-zhuquanji-duxu",
+    "ref": "fasc. 2 (chart of delusion and awakening)",
+    "rests_on": [
+     "tea:chanyuan-zhuquanji-duxu:409b21",
+     "tea:chanyuan-zhuquanji-duxu:409c09"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:ten-phases-of-delusion-and-awakening",
+   "cpt:sudden-and-gradual",
+   "cpt:numinous-awareness"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:jinul-sudden-gradual",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Jinul condenses Zongmi's sequence into sudden awakening, gradual cultivation and realization.",
+    "rests_on": [
+     "tea:susim-kyol:1006b15",
+     "tea:chanyuan-zhuquanji-duxu:409b21"
+    ]
+   }
+  ],
+  "notes": "Zongmi pairs ten phases of delusion (from the original enlightened mind, through non-awakening, to the reception of karmic results) with ten phases of awakening that overturn them in reverse order. The phase names used here are descriptive labels drawn from the chart's text as read in CBETA (T2015); they are not a fixed list of titles, and the division of phases 5-6 is uncertain.",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:chan",
+    "lin:heze",
+    "lin:huayan"
+   ],
+   "schools": [
+    "lin:chan",
+    "lin:huayan"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 21:51 IST"
   }
  }
 ]

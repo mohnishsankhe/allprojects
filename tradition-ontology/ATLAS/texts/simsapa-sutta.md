@@ -25,10 +25,10 @@ The leaves in the Buddha's hand are few compared with those in the siṃsapā gr
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: teacher-transmission_
 
-concepts: [The four noble truths](../concepts/four-noble-truths.md) · disputes: [Should the questions about the eternity and extent of the world, soul and body, and the Tathāgata after death be answered?](../debates/avyakata.md)
+concepts: [The four noble truths (cattāri ariyasaccāni)](../concepts/four-noble-truths.md) · disputes: [Should the questions about the eternity and extent of the world, soul and body, and the Tathāgata after death be answered?](../debates/avyakata.md)
 
 
 _Notes: SuttaCentral uid sn56.31; Mahāsaṅgīti title 'Sīsapāvanasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

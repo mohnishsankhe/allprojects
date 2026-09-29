@@ -14,4 +14,4 @@ The elder who, by the Theravāda chronicles and commentaries, presided over the 
 _Notes: Account from the Dīpavaṃsa, Mahāvaṃsa and Samantapāsādikā; U37 owns the Kathāvatthu._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._

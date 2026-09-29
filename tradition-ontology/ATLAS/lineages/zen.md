@@ -43,10 +43,10 @@ Japanese Chan: the Rinzai, Sōtō and Ōbaku lineages established from the late 
 [Receiving the Brahmajāla bodhisattva precepts](../practices/bodhisattva-precepts-fanwang.md), [Seeing the conditioned as a dream (Diamond verse)](../practices/contemplating-conditioned-as-dream.md), [The four great vows (inward form)](../practices/four-great-vows.md), [Reciting the Heart Sūtra and its mantra](../practices/heart-mantra-recitation.md), [Jukai (receiving the precepts)](../practices/jukai.md), [Kinhin (walking meditation)](../practices/kinhin.md), [Niō Zen (guardian-king Zen)](../practices/nio-zen.md), [Ōryōki (formal monastic meal)](../practices/oryoki.md), [Monastic life under the pure rules](../practices/qinggui-monastic-life.md), [Samu / puqing (communal work)](../practices/samu.md), [Sesshin (intensive retreat)](../practices/sesshin.md), [The Śūraṅgama mantra](../practices/surangama-mantra.md), [Susokukan (counting the breath)](../practices/susokukan.md), [Sūtra and dhāraṇī chanting in Zen liturgy](../practices/sutra-chanting-zen.md), [Takuhatsu (alms round)](../practices/takuhatsu.md), [Giving without support](../practices/unsupported-giving.md), [Zazen / zuochan (seated meditation)](../practices/zazen.md)
 
 ## Path maps
-`pth:dogen-practice-realization`, [The Hakuin-line kōan curriculum](../paths/hakuin-koan-curriculum.md)
+[Dōgen's unity of practice and realization and the way-ring of continuous practice (shushō ittō; gyōji dōkan)](../paths/dogen-practice-realization.md), [The Hakuin-line kōan curriculum](../paths/hakuin-koan-curriculum.md)
 
 ## Debates
 _none recorded_
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

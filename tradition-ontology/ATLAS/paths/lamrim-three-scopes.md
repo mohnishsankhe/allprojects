@@ -25,4 +25,4 @@
 Atiśa's Bodhipathapradīpa defines the three persons (v2-5); Tsongkhapa's Lamrim Chenmo gives the full stages. The first two stages are 'the foundation'; each scope begins with its own turning of mind, which is why the bands return to B0 three times.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 21:52 IST._

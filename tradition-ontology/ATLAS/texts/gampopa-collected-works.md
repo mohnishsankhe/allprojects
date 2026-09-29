@@ -55,4 +55,4 @@ concepts: [The union of the Kadam and Mahāmudrā streams](../concepts/union-of-
 _Notes: Locators for passages cited from it are not known here; teachings use topic anchors._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._

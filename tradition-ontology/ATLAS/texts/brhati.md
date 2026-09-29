@@ -19,4 +19,4 @@ Prabhākara's commentary on Śabara's bhāṣya, the root text of the Prābhāka
 **Commentaries on this text:** [Ṛjuvimalā](rjuvimala.md)
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 21:52 IST._

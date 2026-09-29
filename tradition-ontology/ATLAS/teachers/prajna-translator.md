@@ -13,4 +13,4 @@
 Monk from Kapiśa (active 780s-810) who translated the 40-fascicle Gaṇḍavyūha (T293, 795-798), whose last fascicle gives Samantabhadra's ten great vows.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._

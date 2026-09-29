@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [Liberation while living (jīvanmukti)](jivanmukti.md): liberation while living, in the idiom of conquering death
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 21:52 IST._

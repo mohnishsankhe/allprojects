@@ -15,4 +15,4 @@
 - part-of → [The thirty-one planes of existence](thirty-one-planes.md): the commentarial systematisation owned by U37 — rests on [35-43](../texts/mahasihanada-sutta.md#tea-mahasihanada-sutta-35-43)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U47-sakya-kadam-gelug, skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U47-sakya-kadam-gelug, skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._

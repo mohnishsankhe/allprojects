@@ -14,4 +14,4 @@
 - contrasts-with → [Inner and outer limbs](antaranga-bahiranga.md): Patañjali's eight limbs have no tarka
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 21:52 IST._

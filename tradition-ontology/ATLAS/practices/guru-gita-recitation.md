@@ -3,8 +3,8 @@
 `prc:guru-gita-recitation` · `sourced` · confidence high
 
 **Category:** mantra-sound
-**Convergence:** 2 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), `lin:siddha-yoga-muktananda`
-**Taught in:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), `lin:siddha-yoga-muktananda`
+**Convergence:** 2 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Siddha Yoga (Nityananda and Muktananda)](../lineages/siddha-yoga-muktananda.md)
+**Taught in:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Siddha Yoga (Nityananda and Muktananda)](../lineages/siddha-yoga-muktananda.md)
 
 Reciting or chanting the Guru Gītā, prescribed in the text for success, protection and liberation at death; in recent times chanted daily in Muktananda's ashrams.
 **Stage:** all
@@ -19,4 +19,4 @@ Reciting or chanting the Guru Gītā, prescribed in the text for success, protec
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/kAvyam/padyam/peterFreund/stotram/guru_gita.md (Ganeshpuri recension) — Rests on tea:guru-gita:173-181; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._

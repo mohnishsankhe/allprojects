@@ -13,4 +13,4 @@ Regarding the aggregates as self in twenty ways (MN 44); the first fetter, aband
   - [Nakulapitā Sutta](../texts/nakulapita-sutta.md) — ref: 2-18; rests_on: ["tea:nakulapita-sutta:2-18"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

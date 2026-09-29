@@ -18,4 +18,4 @@ Bopadeva's short non-Pāṇinian grammar, much used in Bengal.
 
 - 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/mugdhabodha, https://www.wisdomlib.org/definition/bopadeva — Confirmed: Bopadeva, 13th c., of Maharashtra (Wisdomlib), matching the entry.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._

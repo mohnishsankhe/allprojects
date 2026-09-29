@@ -12,4 +12,4 @@ All conceptions — even meditations on sun, moon and fire and on the gods — k
   - [Akulavīratantra](../texts/akulavira-tantra.md) — ref: a.7-10; rests_on: ["tea:akulavira-tantra:a.7-10"]
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._

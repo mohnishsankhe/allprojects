@@ -41,4 +41,4 @@ It teaches difference: read 'sa ātmā atat tvam asi', 'you are not that', repea
 _Notes: A focused exegetical dispute within U50's dsp:souls-one-or-distinct. The Advaita and Viśiṣṭādvaita sides are summarized from general knowledge; source refs for them are chapter-level._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 21:52 IST._

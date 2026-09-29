@@ -26,7 +26,7 @@ The Śākta tantric culture of Kāmarūpa (Assam) and Bengal: the Kālikā Purā
   - [Kaula (the Kula tradition)](kaula.md) — what: Kaula ritual (pañcatattva, bhāvas); evidence: Kaulāvalīnirṇaya, Kulārṇava cited in the digests
   - [The Purāṇic tradition (paurāṇika)](puranic.md) — what: the Satī myth and the pīṭhas; Kāmākhyā; evidence: Kālikā Purāṇa, Devī Bhāgavata
 **Transmissions given:** 
-  - `lin:ramakrishna-order` — what: Ramakrishna's Kālī devotion and his tantric sādhana under the Bhairavī Brāhmaṇī (recent)
+  - [Ramakrishna Order (Ramakrishna Math and Ramakrishna Mission)](ramakrishna-order.md) — what: Ramakrishna's Kālī devotion and his tantric sādhana under the Bhairavī Brāhmaṇī (recent)
   - [Bāul](baul.md) — what: shared songs and body-centred esoteric vocabulary (contested)
 
 ## The ultimate in this lineage
@@ -55,4 +55,4 @@ The Śākta tantric culture of Kāmarūpa (Assam) and Bengal: the Kālikā Purā
 [Should blood offerings (bali) be made to the Goddess?](../debates/blood-sacrifice.md), [Is this world a 'frame of illusion' to be seen through, or a 'mansion of mirth' to be enjoyed in the Lord?](../debates/world-illusion-or-mansion-of-mirth.md)
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 21:52 IST._

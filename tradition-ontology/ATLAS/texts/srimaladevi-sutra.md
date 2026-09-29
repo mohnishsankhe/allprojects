@@ -62,7 +62,7 @@ The śrāvaka and pratyekabuddha vehicles enter the great vehicle; the one vehic
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: all · types: karma-liberation, dispute_
 
-terms: [ekayāna](../terms/ekayana.md), [avidyāvāsabhūmi](../terms/avidyavasabhumi.md), [arhat](../terms/arhat.md) · concepts: [The one vehicle (ekayāna)](../concepts/one-vehicle.md), [The arhat's nirvāṇa is not final](../concepts/arhat-nirvana-not-final.md) · teachers: [Śrīmālā](../teachers/srimala.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Is the one vehicle the final truth and the three vehicles a skillful means — or are the three vehicles real and the 'one vehicle' spoken with an intention?](../debates/one-vehicle-or-three.md), [Can all beings attain buddhahood, or are there beings (icchantikas, those without lineage) who never will?](../debates/can-all-beings-attain-buddhahood.md)
+terms: [ekāyana](../terms/ekayana.md), [avidyāvāsabhūmi](../terms/avidyavasabhumi.md), [arhat](../terms/arhat.md) · concepts: [The one vehicle (ekayāna)](../concepts/one-vehicle.md), [The arhat's nirvāṇa is not final](../concepts/arhat-nirvana-not-final.md) · teachers: [Śrīmālā](../teachers/srimala.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Is the one vehicle the final truth and the three vehicles a skillful means — or are the three vehicles real and the 'one vehicle' spoken with an intention?](../debates/one-vehicle-or-three.md), [Can all beings attain buddhahood, or are there beings (icchantikas, those without lineage) who never will?](../debates/can-all-beings-attain-buddhahood.md)
 
 ### 7 <a id="tea-srimaladevi-sutra-7"></a>
 `skeleton` · confidence high
@@ -100,7 +100,7 @@ Of the four noble truths three are impermanent and conditioned; only the truth o
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate_
 
-concepts: [The four noble truths](../concepts/four-noble-truths.md) · teachers: [Śrīmālā](../teachers/srimala.md), [Gotama Buddha](../teachers/gotama-buddha.md)
+concepts: [The four noble truths (cattāri ariyasaccāni)](../concepts/four-noble-truths.md) · teachers: [Śrīmālā](../teachers/srimala.md), [Gotama Buddha](../teachers/gotama-buddha.md)
 
 ### 12 <a id="tea-srimaladevi-sutra-12"></a>
 `skeleton` · confidence high
@@ -128,4 +128,4 @@ terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [prabhāsvara-citta](../
 _Notes: Chapter list and key lines (221c16, 222a23, 222b05, 222b28) read locally in T353._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._

@@ -20,4 +20,4 @@ Gazing at red flowers, cloth or a coloured disk, the meditator repeats its name 
 _Notes: Device details from memory (Vism V not read locally)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._

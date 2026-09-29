@@ -10,4 +10,4 @@
 Author of the Nayatrayapradīpa (c. 10th–11th c.?) setting out the superiority of the mantra way.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._

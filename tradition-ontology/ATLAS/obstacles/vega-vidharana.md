@@ -13,4 +13,4 @@ Holding back or forcing the natural urges is the cause of many diseases (Ca Sū 
   - [Aṣṭāṅga Hṛdaya](../texts/astanga-hrdaya.md) — ref: Sū 4.1, 4.22; rests_on: ["tea:astanga-hrdaya:su.4.1", "tea:astanga-hrdaya:su.4.22-26"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._

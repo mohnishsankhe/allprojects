@@ -17,4 +17,4 @@ Kāṇha's (Kṛṣṇācārya's) 'Jewel Garland of Yoga', the classic Indian co
 _Notes: Sanskrit edited by Snellgrove with the Hevajra (1959); not local._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._

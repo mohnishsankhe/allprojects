@@ -15,4 +15,4 @@
 Śīlāṅka's Sanskrit commentary on the Ācārāṅga; with his commentary on the Sūtrakṛtāṅga, the only surviving Sanskrit commentaries on the first two Aṅgas before Abhayadeva.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._

@@ -1,6 +1,6 @@
-# Lineages (323)
+# Lineages (347)
 
-skeleton: 292 · sourced: 31
+skeleton: 316 · sourced: 31
 
 - [Abhayagiri fraternity (Abhayagiri-vāsins)](abhayagiri.md) — `skeleton`
 - [Adhyātma movement (Adhyātma-mata)](adhyatma-jain.md) — `skeleton`
@@ -26,7 +26,10 @@ skeleton: 292 · sourced: 31
 - [Bhāmatī school (Bhāmatī-prasthāna)](bhamati.md) — `skeleton`
 - [Bhāṭṭa Mīmāṃsā](bhatta-mimamsa.md) — `skeleton`
 - [Bhūta stream (tantras for spirits)](bhuta-tantra.md) — `skeleton`
+- [Bihar School of Yoga (Satyananda Yoga)](bihar-school.md) — `skeleton` _(recent)_
+- [Bochasanwasi Akshar Purushottam Swaminarayan Sanstha (BAPS)](baps.md) — `skeleton` _(recent)_
 - [Borān kammaṭṭhāna (old meditation; the yogāvacara tradition)](boran-kammatthana.md) — `skeleton`
+- [Brahma Kumaris (Prajapita Brahma Kumaris Ishwariya Vishwa Vidyalaya)](brahma-kumaris.md) — `skeleton` _(recent)_
 - [Brahma saṃhati (Dāmodarīyā)](brahma-samhati.md) — `skeleton`
 - [Buddhist epistemology and logic (pramāṇa school)](pramana-buddhist.md) — `skeleton`
 - [Bön (Yungdrung Bön)](bon.md) — `skeleton`
@@ -52,6 +55,7 @@ skeleton: 292 · sourced: 31
 - [Dharmottarīya](dharmottariya.md) — `skeleton`
 - [Digambara](digambara.md) — `skeleton`
 - [Dilun school (Chinese 'Daśabhūmika treatise' school)](dilun.md) — `skeleton`
+- [Divine Life Society (Sivananda)](divine-life-society.md) — `skeleton` _(recent)_
 - [Drikung Kagyu](drikung-kagyu.md) — `skeleton`
 - [Drukpa Kagyu](drukpa-kagyu.md) — `skeleton`
 - [Drāviḍa Saṅgha](dravida-sangha.md) — `skeleton`
@@ -81,9 +85,12 @@ skeleton: 292 · sourced: 31
 - [Haridāsī sampradāya (Sakhī sampradāya)](haridasi.md) — `skeleton`
 - [Haṭha Yoga (the haṭha and rājayoga textual tradition)](hatha-yoga.md) — `skeleton`
 - [Heze school](heze.md) — `skeleton`
+- [Himalayan Institute (Swami Rama)](himalayan-institute.md) — `skeleton` _(recent)_
 - [Hongzhou school](hongzhou.md) — `skeleton`
 - [Hossō school (Japanese Faxiang)](hosso.md) — `skeleton`
 - [Huanglong branch (of the Linji house)](huanglong.md) — `skeleton`
+- [Inchegiri Navnāth Sampradāya](inchegiri.md) — `skeleton` _(recent)_
+- [Integral Yoga of Sri Aurobindo and the Mother](integral-yoga.md) — `skeleton` _(recent)_
 - [Jaiminīya (Talavakāra) śākhā (Sāmaveda)](sakha-jaiminiya.md) — `sourced`
 - [Jainism (Jaina dharma)](jainism.md) — `skeleton`
 - [Jangpa (byang lugs), the Northern school of Tibetan medicine](jangpa-medicine.md) — `skeleton`
@@ -107,6 +114,7 @@ skeleton: 292 · sourced: 31
 - [Kadam Mengakpa (oral-instruction tradition)](kadam-mengakpa.md) — `skeleton`
 - [Kadam Shungpawa (textual tradition)](kadam-shungpa.md) — `skeleton`
 - [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](kagyu.md) — `skeleton`
+- [Kanji Swami's Digambara Adhyātma movement (Songadh)](kanji-swami.md) — `skeleton` _(recent)_
 - [Kapiṣṭhala-Kaṭha śākhā (Black Yajurveda)](sakha-kapisthala-katha.md) — `sourced`
 - [Karma Kagyu (Kamtsang Kagyu)](karma-kagyu.md) — `skeleton`
 - [Kartābhajā](kartabhaja.md) — `skeleton` _(recent)_
@@ -119,6 +127,8 @@ skeleton: 292 · sourced: 31
 - [Kerala tantra (temple-tantra tradition of Kerala)](kerala-tantra.md) — `skeleton`
 - [Kharatara Gaccha](kharatara-gaccha.md) — `skeleton`
 - [Krama (the 'Sequence'; Mahānaya, Mahārtha)](krama.md) — `skeleton`
+- [Krishnamacharya lineage (modern postural yoga of Mysore and Chennai)](krishnamacharya.md) — `skeleton` _(recent)_
+- [Kriyā Yoga lineage (Lahiri Mahasaya and successors)](kriya-yoga.md) — `skeleton` _(recent)_
 - [Kubjikā tradition (Paścimāmnāya, the 'Western Transmission')](kubjika.md) — `skeleton`
 - [Kāla saṃhati](kala-samhati.md) — `skeleton`
 - [Kālacakra tradition in India](kalacakra.md) — `skeleton`
@@ -137,6 +147,7 @@ skeleton: 292 · sourced: 31
 - [Lü school (Vinaya school, Nanshan lineage)](lu-zong.md) — `skeleton`
 - [Lākula](lakula.md) — `skeleton`
 - [Madhyamaka](madhyamaka.md) — `skeleton`
+- [Mahimā Dharma](mahima-dharma.md) — `skeleton` _(recent)_
 - [Mahānubhāva panth](mahanubhava.md) — `skeleton`
 - [Mahāsi Sayadaw tradition (the 'new Burmese method')](mahasi.md) — `skeleton` _(recent)_
 - [Mahāsāṃghika](mahasanghika.md) — `skeleton`
@@ -161,6 +172,7 @@ skeleton: 292 · sourced: 31
 - [Mūlasarvāstivāda](mulasarvastivada.md) — `skeleton`
 - [Nairukta school (the Vedic etymologists)](nairukta.md) — `sourced`
 - [Navya-Nyāya](navya-nyaya.md) — `skeleton`
+- [Neem Karoli Baba's devotees (Kainchi and Vrindavan)](neem-karoli.md) — `skeleton` _(recent)_
 - [New Bön (Bön Sar)](bon-sar.md) — `skeleton`
 - [Ngor (Ngorpa) Sakya](ngor.md) — `skeleton`
 - [Nikā saṃhati](nika-samhati.md) — `skeleton`
@@ -177,6 +189,7 @@ skeleton: 292 · sourced: 31
 - [Pañcācārya (Pañcapīṭha) tradition](pancacarya.md) — `skeleton`
 - [Peling (the treasure tradition of Pema Lingpa)](peling.md) — `skeleton`
 - [Phagdru Kagyu](phagdru-kagyu.md) — `skeleton`
+- [Plum Village tradition (Thích Nhất Hạnh)](plum-village.md) — `skeleton` _(recent)_
 - [Prajñaptivāda](prajnaptivada.md) — `skeleton`
 - [Pratyabhijñā (the philosophy of recognition)](pratyabhijna.md) — `skeleton`
 - [Prābhākara Mīmāṃsā](prabhakara-mimamsa.md) — `skeleton`
@@ -192,6 +205,7 @@ skeleton: 292 · sourced: 31
 - [Pūrvaśaila](purvasaila.md) — `skeleton`
 - [Radha Soami Satsang Beas](radha-soami-satsang-beas.md) — `skeleton` _(recent)_
 - [Radhasoami Satsang, Agra lines (Soamibagh, Peepal Mandi / Huzuri Bhawan, Dayalbagh)](radhasoami-agra.md) — `skeleton` _(recent)_
+- [Ramakrishna Order (Ramakrishna Math and Ramakrishna Mission)](ramakrishna-order.md) — `skeleton` _(recent)_
 - [Rasa Śāstra (the science of mercury) and the Raseśvara-darśana](rasa-sastra.md) — `skeleton`
 - [Rasik Rāma-bhakti (Rasik sampradāya of the Rāmānandīs)](rasik-ramanandi.md) — `skeleton`
 - [Ravidāsī (Ravidassia) tradition](ravidasi.md) — `skeleton` _(recent)_
@@ -205,8 +219,11 @@ skeleton: 292 · sourced: 31
 - [Rāmsnehī sampradāya](ramsnehi.md) — `skeleton`
 - [Rāmānandī sampradāya](ramanandi.md) — `skeleton`
 - [Rāṇāyanīya śākhā (Sāmaveda)](sakha-ranayaniya.md) — `sourced`
+- [Sahaja Yoga (Nirmala Srivastava)](sahaja-yoga.md) — `skeleton` _(recent)_
 - [Sakya](sakya.md) — `skeleton`
+- [Samarasa Suddha Sanmārgam (Vallalar)](vallalar.md) — `skeleton` _(recent)_
 - [Samaya school of Śrīvidyā (Samayācāra)](samaya-srividya.md) — `skeleton`
+- [San Francisco Zen Center (Shunryu Suzuki's Sōtō lineage in America)](sfzc.md) — `skeleton` _(recent)_
 - [Sant Mat (Radhasoami and its successor lines)](sant-mat.md) — `skeleton` _(recent)_
 - [Sant tradition (nirguṇa bhakti of North India)](sant.md) — `skeleton`
 - [Santmat Satsang of Maharshi Mehi (Bihar)](santmat-maharshi-mehi.md) — `skeleton` _(recent)_
@@ -223,15 +240,20 @@ skeleton: 292 · sourced: 31
 - [Shije (zhi byed), 'Pacification [of suffering]'](shije.md) — `skeleton`
 - [Shinshū Takada-ha](shinshu-takada-ha.md) — `skeleton`
 - [Shinshū Ōtani-ha](shinshu-otani-ha.md) — `skeleton`
+- [Shree Shree Anandamayee Sangha](anandamayi-sangha.md) — `skeleton` _(recent)_
 - [Shugseb Kagyu](shugseb-kagyu.md) — `skeleton`
 - [Siddha medicine (cittā maruttuvam)](siddha-medicine.md) — `skeleton`
+- [Siddha Yoga (Nityananda and Muktananda)](siddha-yoga-muktananda.md) — `skeleton` _(recent)_
 - [Sowa Rigpa (gso ba rig pa), the Tibetan science of healing](sowa-rigpa.md) — `skeleton`
 - [Spanda (the doctrine of vibration)](spanda.md) — `skeleton`
+- [Sree Narayana Guru's movement](narayana-guru.md) — `skeleton` _(recent)_
 - [Sthavira (the Elders' group of the first schism)](sthavira.md) — `skeleton`
 - [Sthānakavāsī](sthanakavasi.md) — `skeleton`
 - [Suan Mokkh (Buddhadāsa's tradition)](suan-mokkh.md) — `skeleton` _(recent)_
 - [Sunlun Sayadaw tradition](sunlun.md) — `skeleton` _(recent)_
+- [Svāminārāyaṇa Sampradāya](swaminarayan.md) — `skeleton` _(recent)_
 - [Svātantrika-Madhyamaka](svatantrika.md) — `skeleton`
+- [Swami Lakshmanjoo's transmission of Kashmir Śaivism](lakshmanjoo.md) — `skeleton` _(recent)_
 - [Sāhebdhanī sampradāya](sahebdhani.md) — `skeleton` _(recent)_
 - [Sāṃkhya](samkhya.md) — `skeleton`
 - [Sōtō Zen](soto.md) — `skeleton`
@@ -254,11 +276,13 @@ skeleton: 292 · sourced: 31
 - [The school of Dhanvantari (Dhānvantara-sampradāya, the surgeons' line)](dhanvantari-sampradaya.md) — `skeleton`
 - [The school of Ātreya (Ātreya-sampradāya, the physicians' line)](atreya-sampradaya.md) — `skeleton`
 - [The Tamil Siddhars (cittar)](tamil-siddha.md) — `skeleton`
+- [The teaching of Ramana Maharshi (Sri Ramanasramam)](ramana.md) — `skeleton` _(recent)_
 - [The White Lotus school of Mao Ziyuan (Bailian zong)](bailian-zong.md) — `skeleton`
 - [The Yavana school of horā](yavana-jataka.md) — `skeleton`
 - [The Āḻvārs (Tamil Vaiṣṇava saint-poets) and their hymn tradition](alvar.md) — `skeleton`
 - [The śramaṇa movement](sramana.md) — `skeleton`
 - [Theravāda](theravada.md) — `skeleton`
+- [Transcendental Meditation movement (Maharishi Mahesh Yogi)](transcendental-meditation.md) — `skeleton` _(recent)_
 - [Trika ('the Triad')](trika.md) — `skeleton`
 - [Tristuti Gaccha](tristuti-gaccha.md) — `skeleton` _(recent)_
 - [Trophu Kagyu](trophu-kagyu.md) — `skeleton`

@@ -34,4 +34,4 @@ concepts: [Śramaṇa and brāhmaṇa](../concepts/sramana-brahmana-contrast.md)
 _Notes: Section numbers follow SuttaCentral (bilara) segmentation; checked against the local e-text. Verse segment numbers are SuttaCentral's._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._

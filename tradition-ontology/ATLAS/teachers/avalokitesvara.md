@@ -12,4 +12,4 @@ The bodhisattva of compassion: in Lotus ch. 25 he rescues all who call his name 
 _Notes: Gender: male in Indian and Tibetan iconography; female forms (Guanyin) prevalent in East Asia from c. 10th c._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._

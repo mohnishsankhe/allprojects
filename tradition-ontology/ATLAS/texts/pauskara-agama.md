@@ -18,4 +18,4 @@ A Śaiva upāgama of the Pārameśvara (the Kāmika's 'Puṣkara'), whose jñān
 _Notes: Do not confuse with src:pauskara-samhita (Pāñcarātra)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._

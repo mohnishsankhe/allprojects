@@ -15,4 +15,4 @@ Kṛṣṇācārya's 'Ornament of Spring' on the inner yoga of Cakrasaṃvara (t
 _Notes: Sanskrit edited (Sarnath 1990) — not local._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._

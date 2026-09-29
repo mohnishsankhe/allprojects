@@ -9,4 +9,4 @@
 First of the 'three Zur' who organized the Nyingma kama (Mahāyoga and Anuyoga) transmission and founded Ugpalung.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._

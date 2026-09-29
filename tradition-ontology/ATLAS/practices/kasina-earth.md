@@ -21,4 +21,4 @@ Gazing at a prepared disk of dawn-coloured clay (or a ploughed field/threshing f
 - analogous: [The five element-concentrations (pañca-dhāraṇā) in the haṭha texts](element-dharanas.md) — concentration on the elements in the Yoga/haṭha catalogue; different theory and goal
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._

@@ -15,4 +15,4 @@
 _Notes: Her teacher is named in tradition as Siddha Śrīkaṇṭha (Sed Bayu) - low confidence, not given as an id._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._

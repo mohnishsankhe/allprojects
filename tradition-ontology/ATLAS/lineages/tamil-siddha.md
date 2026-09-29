@@ -28,7 +28,7 @@ A loose, non-institutional stream of Tamil perfected ones (cittar) — yogins, p
   - [Rasa Śāstra (the science of mercury) and the Raseśvara-darśana](rasa-sastra.md) — what: mercurial and mineral alchemy (vātam, racam, pāṣāṇam); direction disputed; evidence: shared vocabulary; scholarly hypothesis; see brw:rasa-sastra-tamil-siddha
 **Transmissions given:** 
   - [Siddha medicine (cittā maruttuvam)](siddha-medicine.md) — what: Siddha medicine is taught as the Siddhars' science of the body (kāya kaṟpam, humours, metals)
-  - `lin:vallalar` — what: Ramalinga Swamigal (Vallalar) inherits the Siddhar critique of caste and ritual, the 'deathless body' and the harmony (camaracam) of Vedānta and Siddhānta
+  - [Samarasa Suddha Sanmārgam (Vallalar)](vallalar.md) — what: Ramalinga Swamigal (Vallalar) inherits the Siddhar critique of caste and ritual, the 'deathless body' and the harmony (camaracam) of Vedānta and Siddhānta
   - `lin:varma-kalai` — what: the vital-point (varmam) lore is ascribed to Agastya and the Siddhars
 
 ## The ultimate in this lineage
@@ -59,4 +59,4 @@ A loose, non-institutional stream of Tamil perfected ones (cittar) — yogins, p
 _Notes: Family 'vedic' follows the coverage-map grouping (A7, Śaiva lineages); it does not settle the Siddhars' own rejection of Vedic ritual and caste (see dsp:siddhar-veda-and-scripture). Parent left null: the tradition has Śaiva (Tirumantiram), Nāth and alchemical roots but no single institutional parent._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 21:52 IST._

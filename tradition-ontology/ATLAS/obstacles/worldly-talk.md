@@ -12,4 +12,4 @@ Stories of women (as objects of lust), wealth, unbelievers and enemies are not t
   - [Nārada Bhakti Sūtra](../texts/narada-bhakti-sutra.md) — ref: 63; rests_on: ["tea:narada-bhakti-sutra:63-65"]
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 21:52 IST._

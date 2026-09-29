@@ -17,4 +17,4 @@ Sucarita Miśra's commentary on the Ślokavārttika.
   - kind: original; name: Ślokavārttika with Kāśikā, parts 1 and 3, digital texts in sanskrit/raw_etexts (GitHub mirror); licence: unknown
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 21:52 IST._

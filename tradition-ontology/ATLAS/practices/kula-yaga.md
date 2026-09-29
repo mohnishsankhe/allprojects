@@ -16,4 +16,4 @@ The secret Kaula ritual of Tantrāloka 29, in which worship with a consort and t
 _Notes: Restricted (sexual rite)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._

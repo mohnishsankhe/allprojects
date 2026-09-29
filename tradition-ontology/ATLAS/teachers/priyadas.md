@@ -13,4 +13,4 @@ Vṛndāvana poet who wrote the Bhaktirasabodhinī (1712), the commentary that t
 _Notes: Affiliation recalled as Gauḍīya; verify._
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._

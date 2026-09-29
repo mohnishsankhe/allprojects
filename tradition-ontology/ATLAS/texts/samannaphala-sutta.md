@@ -158,7 +158,7 @@ Guarding the doors of the senses without grasping at signs and features; mindful
 
 _level: conventional · standpoint: seeker · path: meditation · stage: beginner · types: practice_
 
-terms: [indriyasaṃvara](../terms/indriya-samvara.md), [sampajañña](../terms/sampajanna.md), [santuṭṭhi](../terms/santutthi.md) · practices: [Sense restraint (indriyasaṃvara)](../practices/indriya-samvara.md), [Clear comprehension (sampajañña)](../practices/sampajanna.md)
+terms: [indriyasaṃvara](../terms/indriya-samvara.md), [sampajañña](../terms/sampajanna.md), [santuṭṭhi](../terms/santutthi.md) · practices: [Sense restraint (indriyasaṃvara)](../practices/indriya-samvara.md), [Acting with clear comprehension (sampajāna)](../practices/sampajanna.md)
 
 ### 67-74 <a id="tea-samannaphala-sutta-67-74"></a>
 `skeleton` · confidence high
@@ -167,7 +167,7 @@ Resorting to a secluded dwelling, sitting cross-legged with mindfulness establis
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice, consciousness-mind_
 
-terms: [nīvaraṇa](../terms/nivarana.md) · concepts: [The five hindrances](../concepts/five-hindrances.md) · obstacles: [The five hindrances (nīvaraṇa)](../obstacles/five-hindrances.md)
+terms: [nīvaraṇa](../terms/nivarana.md) · concepts: [The five hindrances (pañca nīvaraṇāni)](../concepts/five-hindrances.md) · obstacles: [The five hindrances (nīvaraṇa)](../obstacles/five-hindrances.md)
 
 ### 75-82 <a id="tea-samannaphala-sutta-75-82"></a>
 `skeleton` · confidence high
@@ -203,7 +203,7 @@ He directs the mind to the knowledge of the destruction of the effluents: he kno
 
 _level: ultimate · standpoint: experiential · path: knowledge · stage: realized (arahatta) · types: karma-liberation, powers-experiences_
 
-terms: [āsava](../terms/asava.md), [āsavakkhaya](../terms/asavakkhaya.md), [arahant](../terms/arahant.md) · concepts: [The three true knowledges (tevijjā)](../concepts/three-vijjas.md), [The four noble truths](../concepts/four-noble-truths.md) · obstacles: [The effluents (āsava)](../obstacles/four-asavas.md)
+terms: [āsava](../terms/asava.md), [āsavakkhaya](../terms/asavakkhaya.md), [arahant](../terms/arahant.md) · concepts: [The three true knowledges (tevijjā)](../concepts/three-vijjas.md), [The four noble truths (cattāri ariyasaccāni)](../concepts/four-noble-truths.md) · obstacles: [The effluents (āsava)](../obstacles/four-asavas.md)
 
 ### 99-102 <a id="tea-samannaphala-sutta-99-102"></a>
 `skeleton` · confidence high
@@ -218,4 +218,4 @@ terms: [kamma](../terms/kamma.md), [dhammacakkhu](../terms/dhammacakkhu.md) · t
 _Notes: SuttaCentral uid dn2; Mahāsaṅgīti title 'Sāmaññaphalasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._

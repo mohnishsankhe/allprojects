@@ -36,4 +36,4 @@ _none recorded_
 _Notes: Chinzei doctrinal positions stated in general terms only; exact formulations to be checked._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._

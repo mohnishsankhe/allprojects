@@ -15,4 +15,4 @@
 Nāgeśa Bhaṭṭa's sub-commentary on Kaiyaṭa's Pradīpa, the standard reading of the Mahābhāṣya in the later Pāṇinian schools.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._

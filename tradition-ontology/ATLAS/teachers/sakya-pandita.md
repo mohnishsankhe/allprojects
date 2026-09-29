@@ -20,4 +20,4 @@ Fourth of the five Sakya founders, the most learned Tibetan of his age in the fi
 _Notes: Contribution of U41 (pramāṇa side); U47 owns._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._

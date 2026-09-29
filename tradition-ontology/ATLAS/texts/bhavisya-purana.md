@@ -22,4 +22,4 @@ The 'Purāṇa of the future': sun worship and the Magas, dharma and saṃskāra
 
 - 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Bhavishya_Purana, local:sources_raw/raw_etexts/purANam/mAdhva-app/matsya-purANam.md (chs. 1-176) 53.31 — No local e-text found in the catalogue. Web: four parvans; the Pratisarga-parvan's 'prophecies' regarded as 18th-19th c.; the Uttara-parvan is the Bhaviṣyottara. Matsya 53.31 (Aghora-kalpa, the Sun's glory told to Manu) confirmed locally.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._

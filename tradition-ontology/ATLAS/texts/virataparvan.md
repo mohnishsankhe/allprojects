@@ -24,4 +24,4 @@ The book of Virāṭa: the thirteenth year of exile spent in disguise at Virā�
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_4.json (BORI Critical Edition text) book 4: 67 chapters — Book 4 has exactly 67 chapters in the local Critical Edition text, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._

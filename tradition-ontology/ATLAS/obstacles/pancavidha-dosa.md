@@ -12,4 +12,4 @@ Innate faults, those arising from place and time, those determined by worldly an
   - [Siddhāntarahasya](../texts/siddhantarahasya.md) — ref: 2-3; rests_on: ["tea:siddhantarahasya:2-3"]
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._

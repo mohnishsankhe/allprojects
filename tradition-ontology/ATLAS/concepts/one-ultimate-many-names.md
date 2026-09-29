@@ -20,4 +20,4 @@ _Notes: Text-layer statements that bear directly on ult:the-one (ṚV 1.164.46).
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text), local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915) — Rests on tea:uddhava-gita:11.9.31, tea:uddhava-gita:11.14.1-3, tea:moksopaya:3.5.3-7, tea:moksopaya:3.66.10-14, tea:moksopaya:6.195.1-4, tea:ganesa-gita:1.21-24; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._

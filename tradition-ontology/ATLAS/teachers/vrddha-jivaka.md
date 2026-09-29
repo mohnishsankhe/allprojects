@@ -11,4 +11,4 @@
 The disciple who received and set down Mārīca Kaśyapa's teaching on children's medicine (Kāśyapa Saṃhitā).
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._

@@ -19,4 +19,4 @@
 **Related:** [digambara](digambara.md), [jinakalpa](jinakalpa.md), [parigraha](parigraha.md)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._

@@ -17,4 +17,4 @@ Sixth and last patriarch. In the tradition's account an illiterate firewood sell
 **Realization — the tradition's account:** On hearing 'one should produce a mind that abides nowhere' from the Diamond Sūtra he 'greatly awakened that all dharmas are not apart from the self-nature' and exclaimed that the self-nature is originally pure, unborn, complete, unmoving and able to produce all dharmas (Platform Sūtra 4.13).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

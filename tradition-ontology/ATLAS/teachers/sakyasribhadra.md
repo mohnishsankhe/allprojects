@@ -13,4 +13,4 @@ Kashmiri mahāpaṇḍita who came to Tibet in 1204 and fully ordained Sakya Pa�
 _Notes: U44 also references this id; Sakya contribution._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U38-early-schools, skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U38-early-schools, skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._

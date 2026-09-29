@@ -32,4 +32,4 @@
 _Notes: Haridāsī sense only; not the Sahajiyā or Nāth sense._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts, skeleton:U44-indian-vajrayana, skeleton:U27-sant-baul, skeleton:U46-kagyu, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts, skeleton:U44-indian-vajrayana, skeleton:U27-sant-baul, skeleton:U46-kagyu, skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._

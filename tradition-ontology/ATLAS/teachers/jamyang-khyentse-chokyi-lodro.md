@@ -13,4 +13,4 @@ Twentieth-century Rimé master of Dzongsar, recognized as an activity-emanation 
 _Notes: Catalogue: OpenPecha P000139 is a biography of him._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._

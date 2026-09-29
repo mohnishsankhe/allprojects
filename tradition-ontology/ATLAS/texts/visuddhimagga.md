@@ -368,7 +368,7 @@ Mindfulness of breathing is attended to by stages: counting, connection (followi
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-terms: [ānāpānasati](../terms/anapanasati.md) · practices: [Mindfulness of breathing (ānāpānasati)](../practices/anapanasati.md)
+terms: [ānāpānassati](../terms/anapanasati.md) · practices: [Mindfulness of breathing (ānāpānassati)](../practices/anapanasati.md)
 
 ### 8 <a id="tea-visuddhimagga-8-5"></a>
 `skeleton` · confidence high
@@ -379,7 +379,7 @@ The counterpart sign of the breath does not appear alike to all: to some it appe
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences, practice_
 
-terms: [paṭibhāga-nimitta](../terms/patibhaga-nimitta.md) · concepts: [The three signs (nimitta)](../concepts/three-nimittas.md) · practices: [Mindfulness of breathing (ānāpānasati)](../practices/anapanasati.md)
+terms: [paṭibhāga-nimitta](../terms/patibhaga-nimitta.md) · concepts: [The three signs (nimitta)](../concepts/three-nimittas.md) · practices: [Mindfulness of breathing (ānāpānassati)](../practices/anapanasati.md)
 
 ### 8 <a id="tea-visuddhimagga-8-6"></a>
 `skeleton` · confidence high
@@ -390,7 +390,7 @@ Mindfulness of breathing, developed through its sixteen bases, can carry the med
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: practice, karma-liberation_
 
-concepts: [Reviewing knowledge (paccavekkhaṇa-ñāṇa)](../concepts/reviewing-knowledge.md) · practices: [Mindfulness of breathing (ānāpānasati)](../practices/anapanasati.md)
+concepts: [Reviewing knowledge (paccavekkhaṇa-ñāṇa)](../concepts/reviewing-knowledge.md) · practices: [Mindfulness of breathing (ānāpānassati)](../practices/anapanasati.md)
 
 ### 8 <a id="tea-visuddhimagga-8-7"></a>
 `skeleton` · confidence moderate
@@ -399,7 +399,7 @@ A further benefit of mindfulness of breathing: for one who has developed it, eve
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: death-dying, practice_
 
-practices: [Mindfulness of breathing (ānāpānasati)](../practices/anapanasati.md)
+practices: [Mindfulness of breathing (ānāpānassati)](../practices/anapanasati.md)
 
 ### 8 <a id="tea-visuddhimagga-8-8"></a>
 `skeleton` · confidence high
@@ -828,7 +828,7 @@ Change-of-lineage knowledge takes nibbāna as object and passes from the worldli
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: realized · types: karma-liberation_
 
-terms: [gotrabhū](../terms/gotrabhu.md), [saṃyojana](../terms/samyojana.md), [magga](../terms/magga.md) · concepts: [The four paths and four fruits](../concepts/four-paths-and-fruits.md)
+terms: [gotrabhū](../terms/gotrabhu.md), [saṁyojana](../terms/samyojana.md), [magga](../terms/magga.md) · concepts: [The four paths and four fruits](../concepts/four-paths-and-fruits.md)
 
 ### 22 <a id="tea-visuddhimagga-22-2"></a>
 `skeleton` · confidence high
@@ -898,4 +898,4 @@ terms: [vibhajjavāda](../terms/vibhajjavada.md) · teachers: [Buddhaghosa](../t
 _Notes: Chapter titles and PTS page ranges checked in the local e-text (running heads)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._

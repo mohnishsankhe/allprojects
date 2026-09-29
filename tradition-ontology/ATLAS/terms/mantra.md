@@ -32,4 +32,4 @@
 _Notes: Scholarly metadata only (not used in interpretation): cognate of Avestan maθra._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U12-mimamsa, skeleton:U39-mahayana-sutras, skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts, skeleton:U44-indian-vajrayana, skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism, skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U12-mimamsa, skeleton:U39-mahayana-sutras, skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts, skeleton:U44-indian-vajrayana, skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism, skeleton:U22-tamil-siddha. Generated 2026-09-29 21:52 IST._

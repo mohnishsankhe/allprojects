@@ -14,4 +14,4 @@
 Bhaṭṭāra Haricandra's early commentary on the Caraka Saṃhitā, known from fragments and citations.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._

@@ -19,4 +19,4 @@
 _Notes: The hallucination sweep should check list (1) against printed sources (e.g. the Abhidhāna Cintāmaṇi, Zvelebil's 'The Poets of the Powers') and record the variant lists it finds._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 21:52 IST._

@@ -19,4 +19,4 @@ Kṛṣṇa describes, for each of the eighteen powers, a concentration of the m
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — BhP 11.15.10 (the first concentration, for aṇimā) to 11.15.31 (the powers come to the one practising these dhāraṇās) verified; procedures not reproduced.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._

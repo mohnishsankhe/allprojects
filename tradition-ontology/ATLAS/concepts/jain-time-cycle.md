@@ -17,4 +17,4 @@
 _Notes: Contribution from the canon and purāṇas; the systematic cosmology is U35's._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._

@@ -14,4 +14,4 @@ A Sanskrit treatise defending the wearing of the liṅga on the body (liṅgadh�
   - kind: original; name: Muktabodha digital library e-text M00333 (print 1905, with commentary by Śivakumāraśāstrin)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._

@@ -15,4 +15,4 @@ The domestic-rite manual of the Bhāradvāja Taittirīyas.
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Bhāradvājagṛhyasūtra — Low-confidence entry confirmed as extant (DCS).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._

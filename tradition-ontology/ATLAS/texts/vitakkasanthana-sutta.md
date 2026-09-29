@@ -41,4 +41,4 @@ terms: [vitakka](../terms/vitakka.md)
 _Notes: SuttaCentral uid mn20; Mahāsaṅgīti title 'Vitakkasaṇṭhānasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

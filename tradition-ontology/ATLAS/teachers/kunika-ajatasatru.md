@@ -9,4 +9,4 @@
 King of Magadha, son of Śreṇika, who visits Mahāvīra in state in the Aupapātika and wars against Ceṭaka of Vaiśālī in the Nirayāvalikā.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._

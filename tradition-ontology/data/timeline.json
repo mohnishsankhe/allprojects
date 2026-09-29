@@ -1327,7 +1327,7 @@
   "to": -543,
   "text": "born 623 BCE, awakened 588 BCE, parinibbāna 543 BCE (Theravāda Buddhist-era reckoning; Buddhist Era counted from 544/543 BCE)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:nirukta",
@@ -1727,7 +1727,7 @@
   "to": -400,
   "text": "c. 5th c. BCE; the parinibbāna is placed c. 486 BCE on the 'corrected long chronology' or c. 400 BCE (±20) on the 'short chronology' now preferred by many scholars",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:pali-tipitaka",
@@ -7030,6 +7030,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:mohe-zhiguan",
+  "label": "Mohe zhiguan (The Great Calming and Contemplation)",
+  "account": "scholarly",
+  "from": 594,
+  "to": 594,
+  "text": "lectured 594 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:niutou-farong",
   "label": "Niutou Farong 牛頭法融",
   "account": "tradition",
@@ -10676,6 +10686,16 @@
   "from": 830,
   "to": 841,
   "text": "c. 830s",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:jujushinron",
+  "label": "Himitsu mandara jūjūshinron (Treatise on the Ten Abodes of Mind of the Secret Maṇḍala)",
+  "account": "scholarly",
+  "from": 830,
+  "to": 830,
+  "text": "c. 830 CE",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -32620,6 +32640,26 @@
   "level": "sourced"
  },
  {
+  "entity": "lin:swaminarayan",
+  "label": "Svāminārāyaṇa Sampradāya",
+  "account": "scholarly",
+  "from": 1801,
+  "to": null,
+  "text": "founded in Gujarat in the first decades of the 19th c.; Ahmedabad and Vadtal dioceses from 1826",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:swaminarayan",
+  "label": "Svāminārāyaṇa Sampradāya",
+  "account": "tradition",
+  "from": 1801,
+  "to": null,
+  "text": "Sahajānanda Svāmī (Svāminārāyaṇa) succeeded Rāmānanda Svāmī as head of the Uddhava Sampradāya in 1801/02",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:crystal-mirror-tenets",
   "label": "Crystal Mirror of Tenets (grub mtha' shel gyi me long)",
   "account": "scholarly",
@@ -32798,6 +32838,16 @@
   "text": "1824–1883 CE",
   "confidence": "high",
   "level": "sourced"
+ },
+ {
+  "entity": "lin:mahima-dharma",
+  "label": "Mahimā Dharma",
+  "account": "tradition",
+  "from": 1826,
+  "to": null,
+  "text": "Mahimā Svāmī is held to have appeared at Puri in the 1820s and to have done austerities in the Kapilas hills before preaching",
+  "confidence": "low",
+  "level": "skeleton"
  },
  {
   "entity": "tch:rai-salig-ram",
@@ -33080,6 +33130,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:inchegiri",
+  "label": "Inchegiri Navnāth Sampradāya",
+  "account": "scholarly",
+  "from": 1850,
+  "to": null,
+  "text": "documented from Gurulingajangam (Nimbargi) Maharaj (d. 1885) and Bhausaheb Maharaj (1843–1914) of Inchegiri",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:panju-sah",
   "label": "Pāñju Śāh",
   "account": "scholarly",
@@ -33240,6 +33300,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:mahima-dharma",
+  "label": "Mahimā Dharma",
+  "account": "scholarly",
+  "from": 1860,
+  "to": null,
+  "text": "preaching from the 1860s; Mahimā Svāmī died at Joranda in 1876",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:sasanavamsa",
   "label": "Sāsanavaṃsa",
   "account": "scholarly",
@@ -33290,6 +33360,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:kriya-yoga",
+  "label": "Kriyā Yoga lineage (Lahiri Mahasaya and successors)",
+  "account": "scholarly",
+  "from": 1861,
+  "to": null,
+  "text": "documented from Lahiri Mahasaya's initiations in Varanasi (from 1861); Yogoda Satsanga 1917, Self-Realization Fellowship 1920",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:sheja-kunkhyab",
   "label": "The Treasury of Knowledge (shes bya kun khyab mdzod)",
   "account": "scholarly",
@@ -33317,6 +33397,26 @@
   "to": 1903,
   "text": "1863–1903 CE",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:vallalar",
+  "label": "Samarasa Suddha Sanmārgam (Vallalar)",
+  "account": "scholarly",
+  "from": 1865,
+  "to": null,
+  "text": "Sangam founded 1865 (renamed 1872); Sathya Dharma Salai (free feeding) 1867; Sathya Gnana Sabai 1872",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:vallalar",
+  "label": "Samarasa Suddha Sanmārgam (Vallalar)",
+  "account": "tradition",
+  "from": 1865,
+  "to": 1874,
+  "text": "the fire of the Sathya Dharma Salai lit in 1867 is held never to have gone out; Vallalar entered his room at Mettukuppam on 30 January 1874 and merged into the Grace-Light",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -33770,6 +33870,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:ramakrishna-order",
+  "label": "Ramakrishna Order (Ramakrishna Math and Ramakrishna Mission)",
+  "account": "scholarly",
+  "from": 1886,
+  "to": null,
+  "text": "Baranagar monastery 1886; Ramakrishna Mission Association 1897; Belur Math 1898–99; Math and Mission registered as separate bodies in 1901 and 1909",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:ramakrishna-order",
+  "label": "Ramakrishna Order (Ramakrishna Math and Ramakrishna Mission)",
+  "account": "tradition",
+  "from": 1886,
+  "to": null,
+  "text": "Ramakrishna's disciples took monastic vows at Baranagar after his passing (1886); the Mission was founded by Vivekananda on 1 May 1897",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:luang-pu-dune",
   "label": "Luang Pu Dune Atulo",
   "account": "scholarly",
@@ -33777,6 +33897,26 @@
   "to": 1983,
   "text": "1888–1983",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:narayana-guru",
+  "label": "Sree Narayana Guru's movement",
+  "account": "scholarly",
+  "from": 1888,
+  "to": null,
+  "text": "SNDP Yogam 1903; Sivagiri Mutt 1904; Advaita Ashram, Aluva 1913; Narayana Gurukula 1923",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:narayana-guru",
+  "label": "Sree Narayana Guru's movement",
+  "account": "tradition",
+  "from": 1888,
+  "to": null,
+  "text": "the movement dates its beginning to the Guru's consecration of a Śiva image at Aruvippuram on Śivarātri 1888",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -33907,6 +34047,26 @@
   "to": 1977,
   "text": "1896–1977",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:ramana",
+  "label": "The teaching of Ramana Maharshi (Sri Ramanasramam)",
+  "account": "scholarly",
+  "from": 1896,
+  "to": 1950,
+  "text": "teaching activity 1896–1950; Sri Ramanasramam at the foot of Arunachala from 1922",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:ramana",
+  "label": "The teaching of Ramana Maharshi (Sri Ramanasramam)",
+  "account": "tradition",
+  "from": 1896,
+  "to": null,
+  "text": "Ramana's awakening in Madurai in July 1896 and arrival at Arunachala on 1 September 1896",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -34160,6 +34320,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:baps",
+  "label": "Bochasanwasi Akshar Purushottam Swaminarayan Sanstha (BAPS)",
+  "account": "scholarly",
+  "from": 1907,
+  "to": null,
+  "text": "founded by Shastriji Maharaj in 1907 after he left the Vadtal diocese (1905)",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:ks-krishnamurti",
   "label": "K. S. Krishnamurti",
   "account": "scholarly",
@@ -34196,6 +34366,16 @@
   "from": 1910,
   "to": 1991,
   "text": "1910-1991",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:integral-yoga",
+  "label": "Integral Yoga of Sri Aurobindo and the Mother",
+  "account": "scholarly",
+  "from": 1910,
+  "to": null,
+  "text": "Sri Aurobindo in Pondicherry from 1910; the Arya 1914–1921; ashram 1926; Auroville 1968",
   "confidence": "high",
   "level": "skeleton"
  },
@@ -34510,6 +34690,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:anandamayi-sangha",
+  "label": "Shree Shree Anandamayee Sangha",
+  "account": "scholarly",
+  "from": 1926,
+  "to": null,
+  "text": "devotional circle from the 1920s in Dhaka (Ramna ashram 1929); Sangha registered 1950",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:integral-yoga",
+  "label": "Integral Yoga of Sri Aurobindo and the Mother",
+  "account": "tradition",
+  "from": 1926,
+  "to": null,
+  "text": "the ashram dates its foundation from 24 November 1926, the 'Day of Siddhi'",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:anasakti-yoga",
   "label": "Anāsakti Yoga of M. K. Gandhi",
   "account": "scholarly",
@@ -34590,6 +34790,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:lakshmanjoo",
+  "label": "Swami Lakshmanjoo's transmission of Kashmir Śaivism",
+  "account": "scholarly",
+  "from": 1930,
+  "to": 1991,
+  "text": "Lakshmanjoo's teaching c. 1930s–1991",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:haramoni",
   "label": "Hārāmaṇi",
   "account": "scholarly",
@@ -34650,6 +34860,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:krishnamacharya",
+  "label": "Krishnamacharya lineage (modern postural yoga of Mysore and Chennai)",
+  "account": "scholarly",
+  "from": 1933,
+  "to": null,
+  "text": "Krishnamacharya's teaching at the Mysore palace yogaśālā from 1933, in Chennai from the 1950s; his students' schools from the 1960s",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:amritananda-natha-sarasvati",
   "label": "Amṛtānandanātha Sarasvatī (of Devīpuram)",
   "account": "scholarly",
@@ -34680,12 +34900,52 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:kanji-swami",
+  "label": "Kanji Swami's Digambara Adhyātma movement (Songadh)",
+  "account": "scholarly",
+  "from": 1934,
+  "to": null,
+  "text": "Svādhyāya Mandir, Songadh 1937–38; Paramāgama Mandir 1974",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:dalai-lama-14",
   "label": "Tenzin Gyatso, Fourteenth Dalai Lama",
   "account": "scholarly",
   "from": 1935,
   "to": null,
   "text": "b. 1935 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:divine-life-society",
+  "label": "Divine Life Society (Sivananda)",
+  "account": "scholarly",
+  "from": 1936,
+  "to": null,
+  "text": "founded by Sivananda at Rishikesh in 1936",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:brahma-kumaris",
+  "label": "Brahma Kumaris (Prajapita Brahma Kumaris Ishwariya Vishwa Vidyalaya)",
+  "account": "scholarly",
+  "from": 1936,
+  "to": null,
+  "text": "Om Mandali, Hyderabad (Sindh), 1936–37; to Karachi 1938; Mount Abu from 1950",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:brahma-kumaris",
+  "label": "Brahma Kumaris (Prajapita Brahma Kumaris Ishwariya Vishwa Vidyalaya)",
+  "account": "tradition",
+  "from": 1936,
+  "to": null,
+  "text": "in 1936 the Supreme Soul Śiva began to speak through Lekhraj Kripalani (Brahmā Bābā)",
   "confidence": "high",
   "level": "skeleton"
  },
@@ -34820,6 +35080,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:siddha-yoga-muktananda",
+  "label": "Siddha Yoga (Nityananda and Muktananda)",
+  "account": "tradition",
+  "from": 1947,
+  "to": null,
+  "text": "Muktananda received śaktipāta from Bhagavan Nityananda on 15 August 1947",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:thanissaro-bhikkhu",
   "label": "Ṭhānissaro Bhikkhu",
   "account": "scholarly",
@@ -34910,6 +35180,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:transcendental-meditation",
+  "label": "Transcendental Meditation movement (Maharishi Mahesh Yogi)",
+  "account": "scholarly",
+  "from": 1955,
+  "to": null,
+  "text": "Maharishi began teaching in 1955; Spiritual Regeneration Movement 1958",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:handbook-for-mankind",
   "label": "Handbook for Mankind (Khu Mue Manut)",
   "account": "scholarly",
@@ -34917,6 +35197,26 @@
   "to": 1956,
   "text": "1956",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:siddha-yoga-muktananda",
+  "label": "Siddha Yoga (Nityananda and Muktananda)",
+  "account": "scholarly",
+  "from": 1956,
+  "to": null,
+  "text": "Gurudev Siddha Peeth 1956; SYDA Foundation 1976",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:sfzc",
+  "label": "San Francisco Zen Center (Shunryu Suzuki's Sōtō lineage in America)",
+  "account": "scholarly",
+  "from": 1959,
+  "to": null,
+  "text": "Suzuki in San Francisco from 1959; SFZC incorporated 1962; Tassajara 1967",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -34960,6 +35260,56 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:bihar-school",
+  "label": "Bihar School of Yoga (Satyananda Yoga)",
+  "account": "scholarly",
+  "from": 1963,
+  "to": null,
+  "text": "International Yoga Fellowship 1963; Bihar School of Yoga, Munger, 1964; Bihar Yoga Bharati 1994",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:neem-karoli",
+  "label": "Neem Karoli Baba's devotees (Kainchi and Vrindavan)",
+  "account": "scholarly",
+  "from": 1964,
+  "to": null,
+  "text": "Kainchi Dham 1964; the saint died 1973",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:plum-village",
+  "label": "Plum Village tradition (Thích Nhất Hạnh)",
+  "account": "scholarly",
+  "from": 1966,
+  "to": null,
+  "text": "Order of Interbeing 1966; Plum Village 1982",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:sahaja-yoga",
+  "label": "Sahaja Yoga (Nirmala Srivastava)",
+  "account": "scholarly",
+  "from": 1970,
+  "to": null,
+  "text": "teaching from 1970",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:sahaja-yoga",
+  "label": "Sahaja Yoga (Nirmala Srivastava)",
+  "account": "tradition",
+  "from": 1970,
+  "to": null,
+  "text": "on 5 May 1970 at Nargol, Shri Mataji opened the 'collective Sahasrāra' of humanity",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:ajahn-mun-biography",
   "label": "Venerable Ācariya Mun Bhūridatta Thera: A Spiritual Biography",
   "account": "scholarly",
@@ -34977,6 +35327,16 @@
   "to": 1971,
   "text": "1971",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:himalayan-institute",
+  "label": "Himalayan Institute (Swami Rama)",
+  "account": "scholarly",
+  "from": 1971,
+  "to": null,
+  "text": "Himalayan Institute founded 1971 (Honesdale from 1977)",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {

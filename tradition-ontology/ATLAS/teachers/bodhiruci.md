@@ -18,4 +18,4 @@ North Indian monk in Luoyang (arrived 508) who translated the ten-fascicle Laṅ
 _Notes: Distinct from the Tang translator Bodhiruci (d. 727) who compiled the Ratnakūṭa (T310)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._

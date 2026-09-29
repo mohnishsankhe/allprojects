@@ -29,4 +29,4 @@ Sakya Paṇḍita: a Mahāmudrā of mere thoughtlessness without the wisdom of e
 **The traditions' own objections:** The Gelug denies that non-conceptuality can be produced by merely stopping thought; teachers of direct-introduction methods (outside this unit) would object that analysis is not required for every practitioner.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._

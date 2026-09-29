@@ -33,7 +33,7 @@ The three aggregates of training are not included in the eightfold path, but the
 
 _level: unmarked · standpoint: analytic · path: general · stage: all · types: practice_
 
-concepts: [The three trainings (tisso sikkhā)](../concepts/three-trainings.md), [The noble eightfold path](../concepts/noble-eightfold-path.md) · teachers: [Dhammadinnā](../teachers/dhammadinna.md)
+concepts: [The three trainings (tisso sikkhā)](../concepts/three-trainings.md), [The noble eightfold path (ariya aṭṭhaṅgika magga)](../concepts/noble-eightfold-path.md) · teachers: [Dhammadinnā](../teachers/dhammadinna.md)
 
 ### 14.2 <a id="tea-culavedalla-sutta-14-2"></a>
 `skeleton` · confidence high
@@ -77,4 +77,4 @@ terms: [nibbāna](../terms/nibbana.md) · concepts: [Nibbāna](../concepts/nibba
 _Notes: SuttaCentral uid mn44; Mahāsaṅgīti title 'Cūḷavedallasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

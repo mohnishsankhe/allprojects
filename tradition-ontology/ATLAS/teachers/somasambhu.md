@@ -11,4 +11,4 @@
 Abbot of a Śaiva monastery in central India (the Golagī maṭha tradition is usually named — moderate confidence), author of the most influential Siddhānta ritual manual, the Somaśambhupaddhati (Kriyākāṇḍakramāvalī), completed 1095/96.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._

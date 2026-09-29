@@ -85,4 +85,4 @@ _Notes: 53: definitions and gift-rules of the eighteen Purāṇas and some Upapu
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:raw_etexts:matsya-purANam, catalog:raw_etexts:matsya_purana, catalog:DCS:Matsyapurāṇa, https://en.wikipedia.org/wiki/Kurma_Purana — Extant and digitized: mAdhva-app (chs. 1-176) and a full local e-text the unit did not use (peterFreund, 291 chapters incl. the anukramaṇikā; mahādānas 274-289); DCS. Matsya 53.50-51 (the Fish to Manu, 14,000) confirmed. Web: c. 250-500 CE core (Doniger).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._

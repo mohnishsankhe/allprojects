@@ -66,4 +66,4 @@ The esoteric Mahāyāna of India that teaches the swift path to buddhahood by ma
 [Was the newly arrived Kālacakra to be accepted as authoritative, and the other tantras read in its light?](../debates/acceptance-of-the-kalacakra.md), [Are the tantras the word of the Buddha and a legitimate Buddhist path?](../debates/legitimacy-of-tantra.md), [Is the mantra way superior to the perfection way?](../debates/mantra-and-paramita-ways.md), [How is another family's revelation to be placed — as a lower stage of one's own, as a deliberate delusion, as a subdued power, or as a partial standpoint?](../debates/ranking-of-other-revelations.md), [Are ritual, consecration and contrived meditation needed, or is the innate realized directly?](../debates/ritual-or-innate.md), [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._

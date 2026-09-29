@@ -21,4 +21,4 @@
 **Related:** [diṭṭhi](ditthi.md), [śāśvatavāda](sasvatavada.md), [nāstika](nastika.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana, skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana, skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._

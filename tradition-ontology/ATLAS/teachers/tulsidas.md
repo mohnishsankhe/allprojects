@@ -34,4 +34,4 @@ Poet-saint of Rāma (c. 1532–1623; tradition 1497–1623), a brahmin abandoned
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/rAmacharitamAnasa/ — Author of the Rāmcaritmānas passages (local Gita Press text).
 
-_Contributed by: skeleton:U26-regional-bhakti, skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U26-regional-bhakti, skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._

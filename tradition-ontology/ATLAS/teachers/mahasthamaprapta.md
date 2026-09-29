@@ -11,4 +11,4 @@ The bodhisattva of great strength, attendant of Amitābha with Avalokiteśvara; 
 _Notes: U43 contribution: Hōnen was regarded in his circle as a manifestation of Seishi (Eshinni's dream); Shinran composed hymns on Seishi's penetration through recollection._
 
 ---
-_Contributed by: skeleton:U43-pure-land, skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U43-pure-land, skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._

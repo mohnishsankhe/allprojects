@@ -14,4 +14,4 @@
 _Notes: Recorded faithfully with both kinds of statement; see dsp:women-caste-liberation (U50) and dsp:bhikkhuni-order._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

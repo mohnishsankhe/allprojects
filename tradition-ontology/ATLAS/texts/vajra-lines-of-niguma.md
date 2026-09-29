@@ -28,4 +28,4 @@ concepts: [Niguma's six dharmas](../concepts/niguma-six-dharmas.md) · practices
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._

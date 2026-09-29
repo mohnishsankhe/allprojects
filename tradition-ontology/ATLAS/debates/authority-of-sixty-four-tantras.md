@@ -28,4 +28,4 @@
 _Notes: Doctrine of Śrī Vidyā and Kaula belongs to U23/U24; recorded here because the catalogues of 64 are U08's scope._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._

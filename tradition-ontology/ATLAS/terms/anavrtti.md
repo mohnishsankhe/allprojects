@@ -22,4 +22,4 @@ _Notes: New term id (the word of 8.23 and 8.26). Where a verse states non-return
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:8.15, tea:bhagavad-gita:8.16, tea:bhagavad-gita:8.21, tea:bhagavad-gita:8.23, tea:bhagavad-gita:8.26 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 18:15 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 21:52 IST._

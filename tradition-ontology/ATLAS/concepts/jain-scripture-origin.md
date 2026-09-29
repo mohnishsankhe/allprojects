@@ -14,4 +14,4 @@
 - contrasts-with → [The authorless Veda (apauruṣeyatva)](apauruseyatva.md): unlike the authorless Veda of the Mīmāṃsakas, Jain scripture has a knowing speaker, the omniscient — rests on [92](../texts/avasyaka-niryukti.md#tea-avasyaka-niryukti-92)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._

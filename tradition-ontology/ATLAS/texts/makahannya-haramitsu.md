@@ -18,4 +18,4 @@ Commentary on the Heart Sūtra: the five aggregates are five instances of prajñ
 _Notes: Not held locally; paraphrases from memory, no original quoted._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

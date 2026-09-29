@@ -16,4 +16,4 @@
 **Related:** [viśeṣaṇa](visesana.md)
 
 ---
-_Contributed by: skeleton:U14-visistadvaita, skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U14-visistadvaita, skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 21:52 IST._

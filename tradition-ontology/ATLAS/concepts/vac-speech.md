@@ -13,4 +13,4 @@
 - leads-to → [The four quarters of speech](four-quarters-of-speech.md): The four quarters are the Saṃhitā's analysis of speech. — rests on [1.164.45](../texts/rgveda.md#tea-rgveda-1-164-45)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 21:52 IST._

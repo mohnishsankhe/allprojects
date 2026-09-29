@@ -16,4 +16,4 @@ A short commentary on the Parātrīśikā ascribed to a Somānanda (a later auth
   - kind: original; name: Kashmir Series of Texts and Studies (KSTS), Srinagar 74 (1947)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._

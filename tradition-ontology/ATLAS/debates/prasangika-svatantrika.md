@@ -69,4 +69,4 @@ All the Indian parties agree that nothing arises from self, other, both or neith
 _Notes: Per the brief, the Tibetan construction of the categories Prāsaṅgika/Svātantrika is recorded as metadata (see the historical_debates entry marked metadata and each side's 'tibetan_classification'); Indian authors are placed under lin:madhyamaka / lin:yogacara-madhyamaka rather than under the Tibetan category lineages._
 
 ---
-_Contributed by: skeleton:U50-debates, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U50-debates, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._

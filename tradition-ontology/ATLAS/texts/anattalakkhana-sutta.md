@@ -56,7 +56,7 @@ Therefore any kind of form whatever, past, future or present, internal or extern
 
 _level: ultimate · standpoint: seeker · path: knowledge · stage: all · types: practice, ultimate_
 
-concepts: [Not-self (anattā)](../concepts/anatta.md) · practices: [Contemplation of the aggregates](../practices/khandha-anupassana.md)
+concepts: [Not-self (anattā)](../concepts/anatta.md) · practices: [Contemplation of the five aggregates of clinging](../practices/khandha-anupassana.md)
 
 ### 11-12 <a id="tea-anattalakkhana-sutta-11-12"></a>
 `skeleton` · confidence high
@@ -71,4 +71,4 @@ terms: [nibbidā](../terms/nibbida.md), [virāga](../terms/viraga.md), [vimutti]
 _Notes: SuttaCentral uid sn22.59; Mahāsaṅgīti title 'Anattalakkhaṇasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

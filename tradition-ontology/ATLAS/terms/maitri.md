@@ -28,4 +28,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.13 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch10-12, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka, skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch10-12, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka, skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._

@@ -18,4 +18,4 @@ Khaṇḍadeva's extensive commentary on the Mīmāṃsā Sūtra (covering the e
 _Notes: The alternative title Bhāṭṭakaustubha is from memory (low confidence); the digital text consulted is titled Mīmāṃsākaustubha._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 21:52 IST._

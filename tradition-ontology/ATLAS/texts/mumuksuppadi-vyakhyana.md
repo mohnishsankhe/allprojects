@@ -15,4 +15,4 @@
 Maṇavāḷa Māmuni's commentary on the Mumukṣuppaṭi.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 21:52 IST._

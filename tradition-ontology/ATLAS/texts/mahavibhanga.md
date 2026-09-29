@@ -33,7 +33,7 @@ At Vesālī, after the Buddha praised the meditation on foulness, monks devoted 
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics, death-dying, practice_
 
-concepts: [The offences entailing defeat](../concepts/parajika.md) · practices: [Contemplation of the unlovely (aśubhā-bhāvanā)](../practices/asubha-bhavana.md), [Mindfulness of breathing (ānāpānasati)](../practices/anapanasati.md)
+concepts: [The offences entailing defeat](../concepts/parajika.md) · practices: [Contemplation of the unlovely (aśubhā-bhāvanā)](../practices/asubha-bhavana.md), [Mindfulness of breathing (ānāpānassati)](../practices/anapanasati.md)
 
 ### pj4.1.1 <a id="tea-mahavibhanga-pj4-1-1"></a>
 `skeleton` · confidence moderate
@@ -46,4 +46,4 @@ terms: [uttarimanussadhamma](../terms/uttarimanussadhamma.md) · concepts: [The 
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

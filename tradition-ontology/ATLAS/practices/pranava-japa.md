@@ -36,4 +36,4 @@ Repeating Oṃ, the designator of the Lord (YS 1.27), while contemplating its me
 - partial: [Meditation on Oṃ with fixation in the heart](omkara-dhyana-hrd.md) — Pāśupata meditation on Oṃkāra in the heart (U17)
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U10-yoga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U10-yoga. Generated 2026-09-29 21:52 IST._

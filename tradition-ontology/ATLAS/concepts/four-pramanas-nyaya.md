@@ -15,4 +15,4 @@
 - contrasts-with → [The two means of knowledge (Vaiśeṣika)](two-pramanas-vaisesika.md) — rests on [9.18-19](../texts/vaisesika-sutra.md#tea-vaisesika-sutra-9-18-19)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 21:52 IST._

@@ -17,4 +17,4 @@
 - contrasts-with → [The all-base (kun gzhi) distinguished from the dharmakāya](kunzhi-and-dharmakaya.md): the ground is not the saṃsāric all-base — rests on [ch2](../texts/tsigdon-dzod.md#tea-tsigdon-dzod-ch2)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._

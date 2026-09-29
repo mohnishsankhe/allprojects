@@ -34,4 +34,4 @@ Jot Nirañjan rules the first region (Sahasdal Kanwal) and belongs to Kāl's dom
 **Candidate readings:** P4-stage: Sant Mat's own reading — those who reached only the first region named its lord supreme; rejected by Nāths and Nirañjanīs; P1-level: nirañjana as the absolute (stainless) vs Nirañjan as the ruler of the created worlds (cosmic function); rejected by the Kabīr Panth, for whom Kāl is not the Sat Puruṣ in any aspect; Homonymy: the name denotes different things in different lineages (so no single question); weakened if, as some scholars suggest, the Kabīr Panth myth deliberately answers the Nāth/Nirañjanī theology (scholarly suggestion, metadata only)
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._

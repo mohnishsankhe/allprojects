@@ -19,4 +19,4 @@ Suśruta: in the Āyurveda treatises the knowers of the field are taught as eter
 **Candidate readings:** P2-standpoint: Suśruta speaks of the embodied, treatable self; Caraka of the self in itself; textual: the Suśruta sentence is compressed and its reading depends on the commentary
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._

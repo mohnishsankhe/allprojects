@@ -52,4 +52,4 @@ concepts: [The 363 rival views](../concepts/363-views.md) · teachers: [Akalaṅ
 _Notes: The names Akalaṅka lists are not recalled reliably and are not given here (gap)._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._

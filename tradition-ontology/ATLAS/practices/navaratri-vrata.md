@@ -21,4 +21,4 @@ Nine nights of worship of the Goddess in autumn and spring, with recitation, wor
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/purANAni/upapurANAni/devIbhAgavatapurANam.md (1927 ed., Rāmateja Śarmā) 3.26 — DM (MkP 92) and DBhP 3.26 (Navarātra with kumārī-pūjā; local eBhārati text) located. All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._

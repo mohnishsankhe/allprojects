@@ -20,4 +20,4 @@ Hymns of nine poets forming the ninth Tirumuṟai — Tirumāḷikaittēvar, Cē
 _Notes: The nine names are given at moderate confidence; identification of Karuvūrttēvar with the Siddhar Karuvūrār is traditional._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 21:52 IST._

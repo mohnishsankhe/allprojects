@@ -16,4 +16,4 @@ Grammarian (Mugdhabodha) who wrote works on the Bhāgavata (the Muktāphala and 
 
 - 2026-09-29 websearch: confirmed — https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1113123.html — Web: grammarian, protégé of Hemādri at the Yādava court of Devagiri (latter 13th c.), author of the Muktāphala and Harilīlāmṛta; the claim that he wrote the Bhāgavata was made by its opponents and is rejected (e.g. Madhva used the text earlier).
 
-_Contributed by: skeleton:U07-puranas, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 21:52 IST._

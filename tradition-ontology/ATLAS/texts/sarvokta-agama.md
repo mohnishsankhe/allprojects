@@ -16,4 +16,4 @@ No. 25 of the 28 Śaiva Siddhānta mūlāgamas (Rudrabheda). According to the K�
 _Notes: Kiraṇa 10.15/10.22: 'Siṃha/Nārasiṃha' of Saumyeśa, received by Nṛsiṃha — evidently the same slot. Śrīkaṇṭhīya: 'Nārasiṃhaka'. In the Kāmika's image of the scriptures as Sadāśiva's body it is the sacred thread (pūrva 1.93–101). Lists checked by the Phase-B author against local e-texts: Kāmika pūrva 1.30–92 (sources_raw/raw_etexts/AgamAH/shaivam/Kamikagama.md (Kāmika Pūrvabhāga, Madras 1909 Grantha ed. as transcribed)), Kiraṇa vidyāpāda 10.3–27 (sources_raw/raw_etexts/AgamAH/shaivam/kiranagama.md (Kiraṇa vidyāpāda, South Indian printed text as transcribed)) and the Śrīkaṇṭhīya list quoted by Jayaratha on TĀ 1.18 (sources_raw/raw_etexts/AgamAH/shaivam/tantrAlokaH_viveka-vyAkhyA-sahitaH-1.md (Tantrāloka with Jayaratha's Viveka, KSTS vol. 1))._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._

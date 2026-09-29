@@ -31,4 +31,4 @@
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.14, tea:bhagavad-gita:7.15, tea:bhagavad-gita:7.19, tea:bhagavad-gita:7.20, tea:bhagavad-gita:9.32 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:15.4 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U14-visistadvaita, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch13-15, skeleton:U03-principal-upanisads, skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U14-visistadvaita, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch13-15, skeleton:U03-principal-upanisads, skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._

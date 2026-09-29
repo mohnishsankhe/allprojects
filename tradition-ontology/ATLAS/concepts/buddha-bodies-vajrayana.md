@@ -15,4 +15,4 @@
 - same-as-under-standpoint → [The bodies of the Buddha (sūtra layer)](three-bodies-sutra.md) (Mahāyāna and Vajrayāna counts): The tantric count includes the Mahāyāna three bodies and adds the essence (and great-bliss) body. — rests on [v64-68](../texts/dohakosa-queen-saraha.md#tea-dohakosa-queen-saraha-v64-68)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._

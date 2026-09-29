@@ -16,4 +16,4 @@ Summary only: Jñāneśvar's commentary on the Gītā's seated meditation descri
 - The text's own cautions are not recorded at this skeleton stage; to be extracted from Jñāneśvarī 6 (see REPORT gaps). — [Jñāneśvarī (Bhāvārthadīpikā)](../texts/jnanesvari.md) ch.6
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._

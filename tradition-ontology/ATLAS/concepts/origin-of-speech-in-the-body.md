@@ -17,4 +17,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/shixA/sAdhAraNI/paniniya_shiksha.md (60 verses) — The definition's cited passages were all checked in this sweep and support it: tea:paniniya-siksa:6-9 (confirmed).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._

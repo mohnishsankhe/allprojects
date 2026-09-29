@@ -32,4 +32,4 @@ This does not settle which deity is supreme; see dsp:supremacy-visnu-or-siva.
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/mixed/peterFreund/purANam/padma_purana_III.md 236.18-21, local:sources_raw/raw_etexts/purANam/mAdhva-app/matsya-purANam.md (chs. 1-176) 53.68-69, local:sources_raw/dcs/corpus/GRETIL/sa_garuDapurANa.txt (Venkateshwara ed.) 3.1.50-56 — All sides located, including the Padma, which the unit could only cite second-hand: Padma Uttarakhaṇḍa 236.18-21 (local peterFreund e-text) gives exactly the six-per-guṇa scheme; Matsya 53.68-69; GP 3.1.50-56; KūP 1.11.279.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._

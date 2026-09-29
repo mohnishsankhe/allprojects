@@ -32,4 +32,4 @@ concepts: [The eighty-four postures](../concepts/eighty-four-asanas.md)
 _Notes: Known mainly through J. Birch's studies (recalled). Author name, count of postures and provenance low confidence._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 21:52 IST._

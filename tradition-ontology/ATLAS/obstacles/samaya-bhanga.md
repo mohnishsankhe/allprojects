@@ -17,4 +17,4 @@ Damaging the commitments to teacher, vajra brothers and sisters and practice rui
   - [Kiraṇatantra](../texts/kirana-tantra.md) — ref: 6.10-13; rests_on: ["tea:kirana-tantra:6.10-13"]
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon, skeleton:U24-kali-kaula, skeleton:U46-kagyu, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U45-nyingma-bon, skeleton:U24-kali-kaula, skeleton:U46-kagyu, skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._

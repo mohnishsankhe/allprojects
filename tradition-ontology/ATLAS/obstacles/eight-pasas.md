@@ -16,4 +16,4 @@ The eight fetters beginning with disgust, whose destruction is liberation while 
 _Notes: Only 'beginning with disgust' is checked; the full list is the common Kaula one (Kulārṇava), recalled from memory._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._

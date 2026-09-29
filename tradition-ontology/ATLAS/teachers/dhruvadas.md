@@ -11,4 +11,4 @@
 Rādhāvallabha poet-theologian (late 16th – 17th c.), author of the forty-two līlās (Bayālīs Līlā).
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._

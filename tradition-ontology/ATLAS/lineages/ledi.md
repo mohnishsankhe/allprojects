@@ -41,7 +41,7 @@ Lineage stemming from the Burmese scholar-monk Ledi Sayadaw (1846–1923), who w
 [Ledi Sayadaw](../teachers/ledi-sayadaw.md), [Saya Thetgyi](../teachers/saya-thetgyi.md)
 
 ## Practices
-[Mindfulness of breathing (ānāpānasati)](../practices/anapanasati.md), [Ledi Sayadaw's lay insight method](../practices/ledi-vipassana.md)
+[Mindfulness of breathing (ānāpānassati)](../practices/anapanasati.md), [Ledi Sayadaw's lay insight method](../practices/ledi-vipassana.md)
 
 ## Path maps
 _none recorded_
@@ -50,4 +50,4 @@ _none recorded_
 [Is the Abhidhammatthavibhāvinī-ṭīkā a reliable guide to the Abhidhamma?](../debates/ledi-vibhavini.md)
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._

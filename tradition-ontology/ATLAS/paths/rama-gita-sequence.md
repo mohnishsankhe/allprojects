@@ -23,4 +23,4 @@ Assembled by U06 from the order stated in the Rāma Gītā; the text adds that u
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press) — Stage refs verified: AR 7.5.7, 7.5.15-17, 7.5.24-27, 7.5.42-52, 7.5.54 ('prārabdham aśnann abhimānavarjitaḥ') and 7.5.56 (water in the ocean, milk in milk, space in space).
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._

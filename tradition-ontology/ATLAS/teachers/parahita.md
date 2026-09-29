@@ -11,4 +11,4 @@ Kashmiri scholar credited with a commentary on the Śūnyatāsaptati (D3868) and
 _Notes: Attribution of D3868 to Parahita from memory; to check._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._

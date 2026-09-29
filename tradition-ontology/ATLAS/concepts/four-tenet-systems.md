@@ -16,4 +16,4 @@
 _Notes: Contribution to the U41 concept; sources: src:precious-garland-of-tenets, src:drubta-chenmo._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._

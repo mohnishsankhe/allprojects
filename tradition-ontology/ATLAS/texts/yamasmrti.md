@@ -17,4 +17,4 @@ _Notes: Local copies: gretil 4_dharma/smrti/yamasmrti*, brhadyamasmrti, laghuyam
 
 - 2026-09-28 catalog: confirmed — catalog:GRETIL-dev:yamasmrti, catalog:GRETIL-dev:brhadyamasmrti_182_verses, catalog:DCS:Vṛddhayamasmṛti — Low-confidence entry confirmed: the 78-, 99- and 182-verse versions and a South Indian recension are in GRETIL, as the entry says.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._

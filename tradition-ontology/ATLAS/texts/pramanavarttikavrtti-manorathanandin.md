@@ -15,4 +15,4 @@ Manorathanandin's concise complete commentary on the Pramāṇavārttika, the on
   - kind: original; name: R. Sāṅkṛtyāyana 1938–40 — local SARIT e-text
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._

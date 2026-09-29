@@ -18,4 +18,4 @@
 - analogous: [prakṛti-prabhāsvara-citta](prakrti-prabhasvara-citta.md) — Both name an unobscured knowing nature of mind; the Chan term comes through Zongmi's Heze and Huayan synthesis, not from the Indian luminous-mind passages.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

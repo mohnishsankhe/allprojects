@@ -18,4 +18,4 @@ Someśvara Bhaṭṭa's commentary on Kumārila's Tantravārttika, known as Rā�
 _Notes: Distinct from Jayatīrtha's Dvaita Nyāyasudhā (src:nyayasudha)._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 21:52 IST._

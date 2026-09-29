@@ -42,10 +42,10 @@ Effluents abandoned by restraining the sense faculties; by wisely using robes, a
 
 _level: conventional · standpoint: seeker · path: meditation · stage: beginner · types: practice_
 
-concepts: [The seven factors of awakening](../concepts/seven-bojjhangas.md) · practices: [Sense restraint (indriyasaṃvara)](../practices/indriya-samvara.md), [Reflection before, during and after action; wise use of requisites](../practices/paccavekkhana.md)
+concepts: [The seven awakening factors (satta bojjhaṅgā)](../concepts/seven-bojjhangas.md) · practices: [Sense restraint (indriyasaṃvara)](../practices/indriya-samvara.md), [Reflection before, during and after action; wise use of requisites](../practices/paccavekkhana.md)
 
 
 _Notes: SuttaCentral uid mn2; Mahāsaṅgīti title 'Sabbāsavasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

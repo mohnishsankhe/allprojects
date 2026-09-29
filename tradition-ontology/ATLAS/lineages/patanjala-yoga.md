@@ -36,8 +36,8 @@ The Yoga darśana of Patañjali's Yoga Sūtra (four pādas, 195 sūtras) and its
   - [Advaita Vedānta](advaita-vedanta.md) — what: Pātañjala definitions and methods used by Advaita authors (the Vivaraṇa ascribed to Śaṅkara; later Advaita manuals quoting the Yoga Sūtra)
   - [Jainism (Jaina dharma)](jainism.md) — what: Jain yoga works (Haribhadra, Hemacandra) engage and adapt Patañjali's yoga
   - [The Purāṇic tradition (paurāṇika)](puranic.md) — what: Purāṇic yoga chapters teach an eight-limbed yoga in Pātañjala terms
-  - `lin:ramakrishna-order` — what: Vivekananda's Rāja Yoga (1896) presents the Yoga Sūtras (recent)
-  - `lin:krishnamacharya` — what: modern teaching of the Yoga Sūtras alongside āsana practice (recent)
+  - [Ramakrishna Order (Ramakrishna Math and Ramakrishna Mission)](ramakrishna-order.md) — what: Vivekananda's Rāja Yoga (1896) presents the Yoga Sūtras (recent)
+  - [Krishnamacharya lineage (modern postural yoga of Mysore and Chennai)](krishnamacharya.md) — what: modern teaching of the Yoga Sūtras alongside āsana practice (recent)
 
 ## The ultimate in this lineage
 `skeleton` · confidence high
@@ -67,4 +67,4 @@ The Yoga darśana of Patañjali's Yoga Sūtra (four pādas, 195 sūtras) and its
 _Notes: Status 'living': the classical commentarial school continued into the 18th–20th c. (Nāgeśa, Nārāyaṇatīrtha, Sadāśiva Brahmendra; Hariharānanda Āraṇya's Kāpil Maṭh, recent) and the Yoga Sūtra is widely taught in modern lineages._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 21:52 IST._

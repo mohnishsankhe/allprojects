@@ -14,4 +14,4 @@ A Daśanāmī (Sarasvatī) renouncer, pupil of Rāmacandra Sadānanda Sarasvatī
 _Notes: Not Swami Sivananda of Rishikesh (tch:sivananda)._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 21:52 IST._

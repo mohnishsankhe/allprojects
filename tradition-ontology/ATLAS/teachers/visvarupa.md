@@ -15,4 +15,4 @@ Author of the Bālakrīḍā on Yājñavalkya; tradition identifies him with Sur
 
 - 2026-09-28 websearch: confirmed — https://www.hindupedia.com/en/Vi%C5%9Bvarupa, https://www.wisdomlib.org/hinduism/essay/yajnavalkya-smriti-vyavaharadhyaya-study/d/doc628169.html — Low-confidence entry confirmed: author of the Bālakrīḍā. Some scholars and the tradition identify him with Sureśvara (fl. c. 788–820), which fits c. 9th c.; the identification is debated, as the entry says.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._

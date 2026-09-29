@@ -9,4 +9,4 @@
 Son of Dharamdās, first of the forty-two ācāryas (vaṃś) of the Dharamdāsī Kabīr Panth.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._

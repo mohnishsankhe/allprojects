@@ -38,7 +38,7 @@ The lay insight lineage of Saya Thetgyi, Sayagyi U Ba Khin (1899–1971) and S. 
 [S. N. Goenka](../teachers/goenka.md), [Saya Thetgyi](../teachers/saya-thetgyi.md), [Sayagyi U Ba Khin](../teachers/u-ba-khin.md), [Webu Sayadaw](../teachers/webu-sayadaw.md)
 
 ## Practices
-[Mindfulness of breathing (ānāpānasati)](../practices/anapanasati.md), [Body scanning (observation of sensations)](../practices/body-scanning.md), [Loving-kindness (mettā-bhāvanā)](../practices/metta-bhavana.md), [The ten-day Vipassana course (Goenka)](../practices/ten-day-vipassana-course.md)
+[Mindfulness of breathing (ānāpānassati)](../practices/anapanasati.md), [Body scanning (observation of sensations)](../practices/body-scanning.md), [Loving-kindness (mettā-bhāvanā)](../practices/metta-bhavana.md), [The ten-day Vipassana course (Goenka)](../practices/ten-day-vipassana-course.md)
 
 ## Path maps
 _none recorded_
@@ -47,4 +47,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._

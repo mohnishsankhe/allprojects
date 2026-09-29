@@ -1,6 +1,6 @@
-# Obstacles (611)
+# Obstacles (614)
 
-skeleton: 545 · sourced: 66
+skeleton: 539 · sourced: 75
 
 - ['I and mine' as māyā](maya-i-and-mine.md) — `skeleton`
 - ['I' and 'mine' (yāṉ, eṉatu)](yan-enatu.md) — `skeleton`
@@ -99,6 +99,8 @@ skeleton: 545 · sourced: 66
 - [Contraction (saṅkoca)](sankoca.md) — `skeleton`
 - [Contraction of knowledge (jñāna-saṅkoca)](jnana-sankoca.md) — `skeleton`
 - [Contrary habitual notion (viparīta-bhāvanā)](viparita-bhavana.md) — `skeleton`
+- [Covetousness and displeasure (abhijjhādomanassa)](abhijjhadomanassa.md) — `sourced`
+- [Craving (taṇhā)](tanha.md) — `sourced`
 - [Craving (tṛṣṇā)](trsna.md) — `sourced`
 - [Craving of the tongue](rasa-lolupata.md) — `sourced`
 - [Curses from a former birth](purvajanma-sapa.md) — `skeleton`
@@ -138,14 +140,14 @@ skeleton: 545 · sourced: 66
 - [Distress, narrowness (aṃhas)](amhas.md) — `skeleton`
 - [Dongshan's three leaks](three-leaks.md) — `skeleton`
 - [Doubt (saṃśaya)](samsaya.md) — `sourced`
-- [Doubt (vicikicchā)](vicikiccha.md) — `skeleton`
+- [Doubt (vicikicchā)](vicikiccha.md) — `sourced`
 - [Doubt about the means of knowledge (pramāṇa-saṃśaya)](pramana-samsaya.md) — `skeleton`
 - [Doubt about the object (prameya-saṃśaya, asambhāvanā)](prameya-samsaya.md) — `skeleton`
 - [Doubt and scruple (śaṅkā), especially about purity](sanka.md) — `skeleton`
 - [Doubting the Buddha's wisdom](doubt-of-buddha-wisdom.md) — `skeleton`
 - [Dualistic grasping (gzung 'dzin)](dualistic-grasping.md) — `skeleton`
 - [Dullness (styāna)](styana.md) — `skeleton`
-- [Dullness and drowsiness (thīnamiddha)](thina-middha.md) — `skeleton`
+- [Dullness and drowsiness (thinamiddha)](thina-middha.md) — `sourced`
 - [Dullness and scattering (hunchen, sanluan / diaoju)](torpor-and-scattering.md) — `skeleton`
 - [Eel-wriggling evasion](amaravikkhepa.md) — `skeleton`
 - [Ego-clinging (bdag 'dzin)](dakdzin.md) — `skeleton`
@@ -218,7 +220,7 @@ skeleton: 545 · sourced: 66
 - [Ignorance as inner darkness](avidya-sakta.md) — `skeleton`
 - [Ignorance veiling knowledge (ajñāna)](ajnana.md) — `skeleton`
 - [Ignorance, desire and action (avidyā-kāma-karma)](avidya-kama-karma.md) — `skeleton`
-- [Ill will (byāpāda)](byapada.md) — `skeleton`
+- [Ill will (byāpāda)](byapada.md) — `sourced`
 - [Illness (vyādhi)](vyadhi.md) — `skeleton`
 - [Imbalance of the faculties](imbalance-of-faculties.md) — `skeleton`
 - [Imbalance of the three humours](humour-imbalance-siddha.md) — `skeleton`
@@ -340,7 +342,7 @@ skeleton: 545 · sourced: 66
 - [Relying on favourable planets or on rites alone](reliance-on-timing-or-rites-alone.md) — `skeleton`
 - [Renunciation without knowledge or for gain](ascetic-hypocrisy.md) — `sourced`
 - [Restlessness (fetter)](uddhacca.md) — `skeleton`
-- [Restlessness and remorse (uddhaccakukkucca)](uddhacca-kukkucca.md) — `skeleton`
+- [Restlessness and remorse (uddhaccakukkucca)](uddhacca-kukkucca.md) — `sourced`
 - [Restlessness of mind](manas-cancalya.md) — `sourced`
 - [Revealing what must be hidden](revealing-the-secret.md) — `skeleton`
 - [Rlung disorders](rlung-disorder.md) — `skeleton`
@@ -357,7 +359,7 @@ skeleton: 545 · sourced: 66
 - [Self-grasping as the root of faults](self-grasping-pramana.md) — `skeleton`
 - [Self-power calculation (hakarai)](self-power-calculation.md) — `skeleton`
 - [Semblance of devotional emotion (ratyābhāsa)](ratyabhasa.md) — `skeleton`
-- [Sensual desire (kāmacchanda)](kamacchanda.md) — `skeleton`
+- [Sensual desire (kāmacchanda)](kamacchanda.md) — `sourced`
 - [Sensual lust (fetter)](kamaraga.md) — `skeleton`
 - [Sexual association, as the renunciant texts frame it (strī-saṅga)](yosit-sanga.md) — `sourced`
 - [Shame before people and family honour (lok-lāj)](loka-lajja.md) — `skeleton`
@@ -414,6 +416,7 @@ skeleton: 545 · sourced: 66
 - [The fault of Mars (kuja-doṣa)](kuja-dosa.md) — `skeleton`
 - [The faults of poetry (kāvya-doṣa)](kavya-dosas.md) — `skeleton`
 - [The faults that burn beings (bhūtadāhīya doṣa)](bhutadahiya-dosas.md) — `sourced`
+- [The fetter (saṁyojana) arising dependent on a sense base and its object](samyojana-arising-with-sense-base.md) — `sourced`
 - [The fetters of death (mṛtyu-pāśa)](mrtyu-pasa.md) — `skeleton`
 - [The fetters of Varuṇa (pāśa)](varuna-pasa.md) — `skeleton`
 - [The fifteen evils rooted in wealth](fifteen-evils-of-wealth.md) — `sourced`
@@ -430,7 +433,7 @@ skeleton: 545 · sourced: 66
 - [The five faults removed by the buddha-nature teaching](five-faults-rgv.md) — `skeleton`
 - [The five great sins (mahāpātaka)](mahapataka.md) — `sourced`
 - [The five higher fetters](five-higher-fetters.md) — `skeleton`
-- [The five hindrances (nīvaraṇa)](five-hindrances.md) — `skeleton`
+- [The five hindrances (nīvaraṇa)](five-hindrances.md) — `sourced`
 - [The five kinds of faults removed by brahmasambandha](pancavidha-dosa.md) — `skeleton`
 - [The five lower fetters](five-lower-fetters.md) — `skeleton`
 - [The five malas](five-malas.md) — `skeleton`

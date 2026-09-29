@@ -15,4 +15,4 @@
 Pith instructions arranged in numbered sets (groups of six) for practitioners of every capacity.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._

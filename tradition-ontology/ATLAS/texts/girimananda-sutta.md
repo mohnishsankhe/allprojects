@@ -24,10 +24,10 @@ The ten perceptions: impermanence (of the aggregates), not-self (of the sense ba
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice, death-dying_
 
-practices: [The ten perceptions (Girimānanda)](../practices/dasa-sanna.md), [Perception of impermanence](../practices/anicca-sanna.md), [Mindfulness of breathing (ānāpānasati)](../practices/anapanasati.md), [Reflection on the parts of the body (paṭikūlamanasikāra)](../practices/patikulamanasikara.md) · teachers: [Girimānanda](../teachers/girimananda.md)
+practices: [The ten perceptions (Girimānanda)](../practices/dasa-sanna.md), [Perception of impermanence](../practices/anicca-sanna.md), [Mindfulness of breathing (ānāpānassati)](../practices/anapanasati.md), [Attention to the repulsiveness of the body (paṭikūlamanasikāra)](../practices/patikulamanasikara.md) · teachers: [Girimānanda](../teachers/girimananda.md)
 
 
 _Notes: SuttaCentral uid an10.60; Mahāsaṅgīti title 'Girimānandasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

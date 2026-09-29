@@ -16,4 +16,4 @@ One of the successive redactions of the Śūnyasampādane, rearranging and exten
 _Notes: Recorded as a redaction of src:sunyasampadane via part_of. Order of redactions as commonly given; dates low confidence._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._

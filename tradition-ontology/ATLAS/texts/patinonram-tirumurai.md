@@ -18,4 +18,4 @@ Forty works by twelve poets: Kāraikkāl Ammaiyār's three poems, Cēramāṉ Pe
 _Notes: Paṭṭiṉattup Piḷḷaiyār of this book is often distinguished by scholars from the later Siddhar Paṭṭiṉattār (tch:pattinattar, U22); the tradition often identifies them._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 21:52 IST._

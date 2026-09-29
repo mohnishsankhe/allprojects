@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. An oil-presser who kept the temple lamps b
 **Realization — the tradition's account:** An oil-presser who kept the temple lamps burning; ruined, he tried to fill the lamps with his own blood, and Śiva stopped him.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 21:52 IST._

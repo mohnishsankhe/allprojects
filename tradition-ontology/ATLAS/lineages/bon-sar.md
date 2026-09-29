@@ -33,4 +33,4 @@ _none recorded_
 _Notes: Optional (Bön). Reconstructed from general knowledge; names of founders and texts omitted rather than guessed (see REPORT.md gaps)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._

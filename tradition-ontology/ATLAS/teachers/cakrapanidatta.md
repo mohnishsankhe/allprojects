@@ -13,4 +13,4 @@
 Bengali physician, author of the Āyurvedadīpikā on Caraka, the Bhānumatī on Suśruta and the Cikitsāsaṅgraha (Cakradatta).
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._

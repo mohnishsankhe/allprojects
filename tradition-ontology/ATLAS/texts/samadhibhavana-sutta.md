@@ -24,10 +24,10 @@ Four developments of concentration: the four jhānas lead to a pleasant abiding 
 
 _level: unmarked · standpoint: seeker · path: meditation · stage: advanced · types: practice, powers-experiences_
 
-concepts: [The four developments of concentration](../concepts/four-samadhi-bhavana.md) · practices: [Perception of light](../practices/aloka-sanna.md), [Contemplation of the aggregates](../practices/khandha-anupassana.md)
+concepts: [The four developments of concentration](../concepts/four-samadhi-bhavana.md) · practices: [Perception of light](../practices/aloka-sanna.md), [Contemplation of the five aggregates of clinging](../practices/khandha-anupassana.md)
 
 
 _Notes: SuttaCentral uid an4.41; Mahāsaṅgīti title 'Samādhibhāvanāsutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

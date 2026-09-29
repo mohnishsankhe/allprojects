@@ -11,4 +11,4 @@
 Zamorin prince-poet of Calicut who wrote the Kṛṣṇagīti on the model of the Gīta Govinda, basis of the Kṛṣṇanāṭṭam of Guruvāyūr.
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 21:52 IST._

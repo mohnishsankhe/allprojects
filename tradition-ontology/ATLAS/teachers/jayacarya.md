@@ -8,4 +8,4 @@
 Fourth ācārya of the Terāpanth (1803–1881), who organized its institutions, instituted the annual festival of the code (Maryādā Mahotsava) and wrote a Rajasthani verse rendering of the Bhagavatī.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._

@@ -29,4 +29,4 @@ Chinese pilgrim-translator who studied the Yog훮c훮rabh큰mi at N훮land훮 under �
 _Notes: Contribution of U41._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U39-mahayana-sutras, skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U39-mahayana-sutras, skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._

@@ -18,4 +18,4 @@
 **Related:** [sammuti](sammuti.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U11-nyaya-vaisesika, skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U11-nyaya-vaisesika, skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._

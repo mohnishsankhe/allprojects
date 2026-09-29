@@ -12,4 +12,4 @@ Before a theatre is used and before performances, the gods who protect each part
   - [Nāṭyaśāstra](../texts/natyasastra.md) — ref: 3; rests_on: ["tea:natyasastra:3"]
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._

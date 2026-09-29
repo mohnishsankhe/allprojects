@@ -13,4 +13,4 @@
 - contrasts-with → [The internal instrument (antaḥkaraṇa)](antahkarana.md): Caraka counts only manas and buddhi here; no fourfold inner organ — rests on [sa.1.18-23](../texts/caraka-samhita.md#tea-caraka-samhita-sa-1-18-23)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._

@@ -19,4 +19,4 @@ A Śrīvidyā tantra 'spoken by Īśvara' in twenty-six paṭalas, on the Bālā
 _Notes: Bhāskararāya refers to the Jñānārṇava for the derivation of the twelve forms of the vidyā (Saubhāgyabhāskara). Not the Jain Jñānārṇava (src:jnanarnava)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._

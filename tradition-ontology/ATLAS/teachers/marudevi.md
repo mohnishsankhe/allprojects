@@ -8,4 +8,4 @@
 Mother of Ṛṣabha; in the Śvetāmbara account the first soul of this era to attain liberation, reaching omniscience and nirvāṇa on elephant-back as she saw her son's samavasaraṇa.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._

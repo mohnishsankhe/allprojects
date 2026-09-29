@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [Poetic genius (pratibhā, śakti)](pratibha-poetic.md) (P2): same word; the grammarian's universal intuition and the poet's genius — rests on [1.3](../texts/kavyaprakasa.md#tea-kavyaprakasa-1-3)
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._

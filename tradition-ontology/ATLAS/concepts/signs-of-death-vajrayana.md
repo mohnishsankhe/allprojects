@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [The signs of approaching death (ariṣṭa)](signs-of-death.md) (death omens across traditions): Death omens are catalogued in other systems too. — rests on [70-79](../texts/sekoddesa.md#tea-sekoddesa-70-79)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._

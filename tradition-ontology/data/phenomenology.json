@@ -8006,7 +8006,7 @@
     "old": "4",
     "new": "prose 2",
     "reason": "The effects of the sounds close the second prose section of the e-text Haṃsa (Adyar §§18-21). All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:4-effects-of-the-sounds (corrected).",
-    "date": "2026-09-29 18:14 IST",
+    "date": "2026-09-29 21:51 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -8061,7 +8061,7 @@
     "old": "4",
     "new": "prose 2",
     "reason": "The ten sounds are in the second prose section of the e-text Haṃsa, which has vv. 1-3 and prose sections 1-2 but no '4' (Adyar §§15-17). All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:4-ten-sounds (corrected).",
-    "date": "2026-09-29 18:14 IST",
+    "date": "2026-09-29 21:51 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -12881,6 +12881,87 @@
   }
  },
  {
+  "id": "phn:mn10-citta-sixteen-states",
+  "lineage": "lin:early-buddhism",
+  "source": "src:satipatthana-sutta",
+  "ref": "mn10:34",
+  "kind": "state",
+  "stage": "unmarked",
+  "description": "The sixteen conditions of the mind the monk is to know (MN 10:34): with lust, without lust, with hatred, without hatred, with delusion, without delusion, contracted, scattered, exalted, unexalted, surpassable, unsurpassable, concentrated, unconcentrated, liberated, unliberated.",
+  "rests_on": [
+   "tea:satipatthana-sutta:mn10:34"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:satipatthana-sutta/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "phn:mn118-bojjhanga-chain-signs",
+  "lineage": "lin:early-buddhism",
+  "source": "src:anapanasati-sutta",
+  "ref": "mn118:33-36",
+  "kind": "state",
+  "stage": "unmarked",
+  "description": "As stated in MN 118:33-36: unworldly rapture arises in one whose energy is aroused; for one whose mind is rapt, body and mind become tranquil; for one whose body is tranquil and who is happy, the mind is concentrated; he looks on with equanimity at the mind so concentrated.",
+  "rests_on": [
+   "tea:anapanasati-sutta:mn118:33",
+   "tea:anapanasati-sutta:mn118:34",
+   "tea:anapanasati-sutta:mn118:35",
+   "tea:anapanasati-sutta:mn118:36"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:anapanasati-sutta/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "phn:momentary-rapture",
   "lineage": "lin:theravada",
   "source": "src:visuddhimagga",
@@ -16204,7 +16285,7 @@
     "old": "1.60-68",
     "new": "1.68-69 (prose closing khaṇḍa 7)",
     "reason": "The list of saṃyamas and their powers is the prose after v. 1.68 that closes khaṇḍa 7. E-text 1.60-68 deal with curing diseases by breath. All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:sandilya-upanisad:1.60-68 (corrected).",
-    "date": "2026-09-29 18:14 IST",
+    "date": "2026-09-29 21:51 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -17416,7 +17497,7 @@
     "old": "10.5.2.20",
     "new": "10.5.2.19-20",
     "reason": "The two halves of the description are in adjacent kaṇḍikās. The breaths going into the self in sleep is ŚB 10.5.2.19: 'sa yadā svapity athainam ete prāṇāḥ svā apiyanti tasmāt svāpyayaḥ … taṃ svapna ity ācakṣate'. Knowing nothing by mind, speech, smell, sight or hearing is 10.5.2.20: 'sa etaiḥ suptaḥ na kasya cana veda na manasā saṅkalpayati …'. Correction: ref 10.5.2.19-20, the same range fix as for tea:satapatha-brahmana:10.5.2.20.",
-    "date": "2026-09-29 18:14 IST",
+    "date": "2026-09-29 21:51 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    }
   ],

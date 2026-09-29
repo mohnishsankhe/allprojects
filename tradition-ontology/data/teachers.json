@@ -4043,15 +4043,32 @@
    "lin:theravada",
    "lin:chan"
   ],
-  "summary": "The Buddha's cousin and personal attendant for twenty-five years, foremost in learning, memory, attentiveness and service; interceded for women's going forth (Cv 10.1); recited the Dhamma at the First Council; many suttas are his teaching (MN 52, MN 108, SN 22.83, AN 4.170).",
-  "historicity": "historical",
-  "gender": "male",
+  "summary": "Named in MN 118:1 among the well-known senior disciples present at Sāvatthī.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "alt_summary": [
+   "The Buddha's cousin and personal attendant for twenty-five years, foremost in learning, memory, attentiveness and service; interceded for women's going forth (Cv 10.1); recited the Dhamma at the First Council; many suttas are his teaching (MN 52, MN 108, SN 22.83, AN 4.170).",
+   "In the Chan account the second patriarch, who received the Dharma from Mahākāśyapa (the 'knock down the flagpole' exchange, Wumenguan case 22). (U42 contributes the Chan patriarchal role only.)"
+  ],
+  "historicity": "historical",
+  "gender": "male",
   "coverage": [
    "B3",
    "B4"
@@ -4071,18 +4088,17 @@
   "alt_names": [
    "Ānanda (Anan 阿難)"
   ],
-  "alt_summary": [
-   "In the Chan account the second patriarch, who received the Dharma from Mahākāśyapa (the 'knock down the flagpole' exchange, Wumenguan case 22). (U42 contributes the Chan patriarchal role only.)"
-  ],
   "alt_notes": [
    "Position in the Chan list of 28 Indian patriarchs as given in the Platform Sūtra (Zongbao ed., T2008, read locally at prepared ref 13.11) and the Jingde chuandeng lu juan 1–3. The list goes back to the Baolin zhuan (801); scholars regard the Chan biographies of these figures as legendary. Number 2."
   ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas",
     "skeleton:U42-chan-zen"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -5470,15 +5486,31 @@
    "lin:early-buddhism",
    "lin:theravada"
   ],
-  "summary": "The Buddha's Sakyan cousin, foremost in the divine eye; practised with Nandiya and Kimbila (MN 31, MN 128); his eight thoughts of a great person (AN 8.30); present at the Buddha's parinibbāna (DN 16) and, by commentarial account, entrusted with the Aṅguttara.",
-  "historicity": "historical",
-  "gender": "male",
+  "summary": "Named in MN 118:1 among the well-known senior disciples present at Sāvatthī.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "alt_summary": [
+   "The Buddha's Sakyan cousin, foremost in the divine eye; practised with Nandiya and Kimbila (MN 31, MN 128); his eight thoughts of a great person (AN 8.30); present at the Buddha's parinibbāna (DN 16) and, by commentarial account, entrusted with the Aṅguttara."
+  ],
+  "historicity": "historical",
+  "gender": "male",
   "coverage": [
    "B3"
   ],
@@ -5488,9 +5520,11 @@
   "notes": "AN 1 Etadaggavagga (the 'foremost' lists). Distinct from the later Abhidhamma author tch:anuruddha-acariya.",
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -34263,15 +34297,59 @@
    "lin:early-buddhism",
    "lin:theravada"
   ],
-  "summary": "Siddhattha Gotama of the Sakyan clan, the Buddha of this age: after going forth and six years of striving he awakened under the Bodhi tree at Uruvelā, taught the middle way and the four noble truths at Isipatana, founded the Saṅgha of monks and nuns, taught for forty-five years in the middle Ganges region and attained final nibbāna at Kusinārā at eighty. He calls himself the Tathāgata; the texts present him as the rediscoverer of an ancient path (SN 12.65) and the seventh Buddha of ninety-one aeons (DN 14).",
-  "historicity": "historical",
-  "gender": "male",
+  "summary": "The Blessed One who, at Sāvatthī on the full-moon night ending the rains, praises the assembly and teaches mindfulness of breathing.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:anapanasati-sutta:mn118:4"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    },
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:mahasatipatthana-sutta:dn22:1"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    },
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "alt_summary": [
+   "In DN 22 the Blessed One (Bhagavā) teaches the monks at Kammāsadhamma among the Kurus the four establishments of mindfulness, with the four noble truths expanded.",
+   "In MN 10 the Blessed One (Bhagavā) is the speaker: staying among the Kurus at Kammāsadhamma, he addresses the monks and teaches the four establishments of mindfulness.",
+   "Siddhattha Gotama of the Sakyan clan, the Buddha of this age: after going forth and six years of striving he awakened under the Bodhi tree at Uruvelā, taught the middle way and the four noble truths at Isipatana, founded the Saṅgha of monks and nuns, taught for forty-five years in the middle Ganges region and attained final nibbāna at Kusinārā at eighty. He calls himself the Tathāgata; the texts present him as the rediscoverer of an ancient path (SN 12.65) and the seventh Buddha of ninety-one aeons (DN 14)."
+  ],
+  "historicity": "historical",
+  "gender": "male",
   "coverage": [
    "B3"
   ],
@@ -34337,9 +34415,13 @@
   "notes": "Scholarly datings are metadata only; the tradition's account is kept apart.",
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
+    "extraction:mahasatipatthana-sutta/all",
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -59963,6 +60045,41 @@
   }
  },
  {
+  "id": "tch:mahacunda",
+  "name": "Mahācunda",
+  "lineages": [
+   "lin:early-buddhism"
+  ],
+  "summary": "Named in MN 118:1 among the well-known senior disciples present at Sāvatthī.",
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:anapanasati-sutta/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "tch:mahadaisa",
   "name": "Mahadaisā (Mahadamba)",
   "lineages": [
@@ -60145,20 +60262,36 @@
  },
  {
   "id": "tch:mahakaccana",
-  "name": "Mahākaccāna",
+  "name": "Mahākaccāna (Mahākaccāyana)",
   "lineages": [
    "lin:early-buddhism",
    "lin:theravada"
   ],
-  "summary": "Foremost in expanding in detail what the Buddha said in brief (MN 18, MN 133, MN 138); from Avanti; tradition ascribes the Nettippakaraṇa and Peṭakopadesa to him.",
-  "historicity": "historical",
-  "gender": "male",
+  "summary": "Named in MN 118:1 among the well-known senior disciples present at Sāvatthī.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "alt_summary": [
+   "Foremost in expanding in detail what the Buddha said in brief (MN 18, MN 133, MN 138); from Avanti; tradition ascribes the Nettippakaraṇa and Peṭakopadesa to him."
+  ],
+  "historicity": "historical",
+  "gender": "male",
   "coverage": [
    "B3"
   ],
@@ -60181,9 +60314,11 @@
   "notes": "AN 1 Etadaggavagga (the 'foremost' lists)",
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -60219,6 +60354,41 @@
   }
  },
  {
+  "id": "tch:mahakappina",
+  "name": "Mahākappina",
+  "lineages": [
+   "lin:early-buddhism"
+  ],
+  "summary": "Named in MN 118:1 among the well-known senior disciples present at Sāvatthī.",
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:anapanasati-sutta/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "tch:mahakassapa",
   "name": "Mahākassapa",
   "lineages": [
@@ -60226,15 +60396,32 @@
    "lin:theravada",
    "lin:chan"
   ],
-  "summary": "Foremost in the ascetic practices (dhutaṅga); a brahmin (Pippali) who renounced with his wife Bhaddā Kāpilānī; exchanged robes with the Buddha (SN 16.11); convened and presided over the First Council at Rājagaha (Cv 11); verses at Thag 18.1.",
-  "historicity": "historical",
-  "gender": "male",
+  "summary": "Named in MN 118:1 among the well-known senior disciples present at Sāvatthī.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "alt_summary": [
+   "Foremost in the ascetic practices (dhutaṅga); a brahmin (Pippali) who renounced with his wife Bhaddā Kāpilānī; exchanged robes with the Buddha (SN 16.11); convened and presided over the First Council at Rājagaha (Cv 11); verses at Thag 18.1.",
+   "In the Chan account, the first patriarch, who smiled when the Buddha held up a flower on Vulture Peak and received the 'treasury of the true Dharma eye, the wondrous mind of nirvāṇa' (Wumenguan case 6). (U42 contributes the Chan patriarchal role only.)"
+  ],
+  "historicity": "historical",
+  "gender": "male",
   "coverage": [
    "B3",
    "B4"
@@ -60247,18 +60434,17 @@
    "tch:gotama-buddha"
   ],
   "notes": "AN 1 Etadaggavagga (the 'foremost' lists)",
-  "alt_summary": [
-   "In the Chan account, the first patriarch, who smiled when the Buddha held up a flower on Vulture Peak and received the 'treasury of the true Dharma eye, the wondrous mind of nirvāṇa' (Wumenguan case 6). (U42 contributes the Chan patriarchal role only.)"
-  ],
   "alt_notes": [
    "Position in the Chan list of 28 Indian patriarchs as given in the Platform Sūtra (Zongbao ed., T2008, read locally at prepared ref 13.11) and the Jingde chuandeng lu juan 1–3. The list goes back to the Baolin zhuan (801); scholars regard the Chan biographies of these figures as legendary. Number 1."
   ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas",
     "skeleton:U42-chan-zen"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -60270,15 +60456,31 @@
    "lin:early-buddhism",
    "lin:theravada"
   ],
-  "summary": "Foremost in analytical knowledge; questioner of Sāriputta in MN 43 and SN 12.67.",
-  "historicity": "historical",
-  "gender": "male",
+  "summary": "Named in MN 118:1 among the well-known senior disciples present at Sāvatthī.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "alt_summary": [
+   "Foremost in analytical knowledge; questioner of Sāriputta in MN 43 and SN 12.67."
+  ],
+  "historicity": "historical",
+  "gender": "male",
   "coverage": [
    "B3"
   ],
@@ -60288,9 +60490,11 @@
   "notes": "AN 1 Etadaggavagga (the 'foremost' lists)",
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -66764,15 +66968,31 @@
    "lin:early-buddhism",
    "lin:theravada"
   ],
-  "summary": "The left-hand chief disciple, foremost in psychic power; Kolita, Sāriputta's friend, converted with him; the Buddha instructed him against drowsiness (AN 7.61); visits to heavens and hells in the Vimānavatthu and Petavatthu; by the commentarial account killed by bandits shortly before the Buddha's death.",
-  "historicity": "historical",
-  "gender": "male",
+  "summary": "Named in MN 118:1 among the well-known senior disciples present at Sāvatthī.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "alt_summary": [
+   "The left-hand chief disciple, foremost in psychic power; Kolita, Sāriputta's friend, converted with him; the Buddha instructed him against drowsiness (AN 7.61); visits to heavens and hells in the Vimānavatthu and Petavatthu; by the commentarial account killed by bandits shortly before the Buddha's death."
+  ],
+  "historicity": "historical",
+  "gender": "male",
   "coverage": [
    "B3"
   ],
@@ -66794,9 +67014,11 @@
   "notes": "AN 1 Etadaggavagga (the 'foremost' lists)",
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -87054,28 +87276,46 @@
  },
  {
   "id": "tch:revata",
-  "name": "Revata of Soreyya",
+  "name": "Revata",
   "lineages": [
    "lin:early-buddhism",
    "lin:theravada"
   ],
-  "summary": "A senior elder consulted on the ten points who questioned Sabbakāmī at the Second Council (Cv 12).",
+  "summary": "Named in MN 118:1 among the well-known senior disciples present at Sāvatthī.",
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "alt_summary": [
+   "A senior elder consulted on the ten points who questioned Sabbakāmī at the Second Council (Cv 12)."
+  ],
   "historicity": "historical",
   "gender": "male",
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "coverage": [
    "B3"
   ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -93612,15 +93852,32 @@
    "lin:early-buddhism",
    "lin:theravada"
   ],
-  "summary": "The Buddha's right-hand chief disciple, foremost in wisdom; a brahmin (Upatissa) from Nālaka, formerly a pupil of Sañjaya, converted by Assaji's verse 'ye dhammā hetuppabhavā'; expounder of MN 9, 28, 43, 141, DN 33–34 and many Nikāya discourses, and by tradition of the Paṭisambhidāmagga and Niddesa; he died shortly before the Buddha (SN 47.13).",
-  "historicity": "historical",
-  "gender": "male",
+  "summary": "Named in MN 118:1 among the well-known senior disciples present at Sāvatthī.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
+  "alt_summary": [
+   "The Buddha's right-hand chief disciple, foremost in wisdom; a brahmin (Upatissa) from Nālaka, formerly a pupil of Sañjaya, converted by Assaji's verse 'ye dhammā hetuppabhavā'; expounder of MN 9, 28, 43, 141, DN 33–34 and many Nikāya discourses, and by tradition of the Paṭisambhidāmagga and Niddesa; he died shortly before the Buddha (SN 47.13).",
+   "In the Abhidhamma tradition's account, the disciple to whom the Buddha taught the method of the Abhidhamma each day at Lake Anotatta and who taught it to his pupils; the numerical sequence of the Paṭṭhāna is credited to him (Atthasālinī)."
+  ],
+  "historicity": "historical",
+  "gender": "male",
   "coverage": [
    "B3"
   ],
@@ -93667,18 +93924,17 @@
    ]
   },
   "notes": "AN 1 Etadaggavagga (the 'foremost' lists)",
-  "alt_summary": [
-   "In the Abhidhamma tradition's account, the disciple to whom the Buddha taught the method of the Abhidhamma each day at Lake Anotatta and who taught it to his pupils; the numerical sequence of the Paṭṭhāna is credited to him (Atthasālinī)."
-  ],
   "alt_notes": [
    "U37 contributes only the Abhidhamma-transmission account; U36 owns the full entry."
   ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas",
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -119273,7 +119529,7 @@
      "confidence": "moderate"
     },
     "reason": "Web: Viṣṇucitta, author of the Viṣṇucittīya on the Viṣṇu Purāṇa, c. 12th c., pupil of Piḷḷāṉ (a direct disciple of Rāmānuja). The entry had no date ('dating not checked'); a dating is supplied.",
-    "date": "2026-09-29 18:14 IST",
+    "date": "2026-09-29 21:51 IST",
     "by": "sourcing:U07-puranas"
    }
   ],

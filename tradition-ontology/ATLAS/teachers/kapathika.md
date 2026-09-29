@@ -8,4 +8,4 @@
 A sixteen-year-old brahmin student who questioned the Buddha on preserving and awakening to truth (MN 95).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

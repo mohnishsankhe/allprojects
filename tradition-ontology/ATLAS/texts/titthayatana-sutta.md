@@ -42,10 +42,10 @@ The Dhamma taught by the Buddha is irrefutable and uncensured by wise ascetics: 
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation, body-layers_
 
-concepts: [The six elements](../concepts/six-dhatus.md), [The four noble truths](../concepts/four-noble-truths.md)
+concepts: [The six elements](../concepts/six-dhatus.md), [The four noble truths (cattāri ariyasaccāni)](../concepts/four-noble-truths.md)
 
 
 _Notes: SuttaCentral uid an3.61; Mahāsaṅgīti title 'Titthāyatanasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._

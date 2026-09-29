@@ -13,4 +13,4 @@ Wisdom from hearing grasps the meaning of scripture; wisdom from reflection disc
   - [Śikṣāsamuccaya](../texts/siksasamuccaya.md) — ref: k20; rests_on: ["tea:siksasamuccaya:k20"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._

@@ -11,4 +11,4 @@
 Founder of the Huanglong branch; posed the 'three barriers' (Buddha's hand, donkey's leg, birth-conditions).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

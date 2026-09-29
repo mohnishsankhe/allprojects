@@ -35,4 +35,4 @@ _none recorded_
 
 - 2026-09-28 websearch: confirmed — https://groups.google.com/g/bvparishat/c/VQTo-u4dYqA — Confirmed: Maitrāyaṇī Saṃhitā recited by a few Brahmins of Nashik (reports of near-extinction of the traditional style). Gujarat not confirmed in the sources found (entry: 'as reported').
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 21:52 IST._

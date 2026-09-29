@@ -15,4 +15,4 @@
 _Notes: BJ 13 content from memory; not spot-checked. Scholarly account: sunaphā, anaphā, durudharā and kemadruma are Greek-derived terms._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._

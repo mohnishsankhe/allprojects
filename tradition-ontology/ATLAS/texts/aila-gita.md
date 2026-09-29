@@ -21,4 +21,4 @@ Purūravas' lament of disenchantment after long infatuation with the celestial U
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — Purūravas's song BhP 11.26.4-24 confirmed (11.26.25 closes it).
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._

@@ -12,4 +12,4 @@
 Twelfth-century South Indian Saiddhāntika, author of the Siddhāntasārāvalī and the Prāyaścittasamuccaya (and reportedly a commentary on the Somaśambhupaddhati — low confidence).
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._

@@ -16,7 +16,7 @@ Zongmi's preface (c. 833) to his lost anthology of Chan writings: correlates thr
 **Editions / translations:** 
   - kind: original; name: CBETA XML P5, Taishō T48n2015 (Chanyuan zhuquanji duxu 禪源諸詮集都序); local copy sources_raw/cbeta/T/T48/T48n2015.xml; licence: CBETA (CC BY-NC-SA 3.0 TW) — quotation with attribution
 
-## Teachings (4: skeleton 4)
+## Teachings (6: skeleton 6)
 
 ### 402c28 <a id="tea-chanyuan-zhuquanji-duxu-402c28"></a>
 `skeleton` · confidence high
@@ -39,6 +39,28 @@ Zongmi's account of transmission: the six patriarchs transmitted the mind-seal s
 _level: conventional · standpoint: seeker · path: general · stage: all · types: teacher-transmission_
 
 concepts: [Mind-to-mind transmission](../concepts/mind-to-mind-transmission.md), [Empty and calm, numinous awareness](../concepts/numinous-awareness.md) · teachers: [Guifeng Zongmi 圭峰宗密](../teachers/zongmi.md), [Heze Shenhui 荷澤神會](../teachers/shenhui.md)
+
+### 409b21 <a id="tea-chanyuan-zhuquanji-duxu-409b21"></a>
+`skeleton` · confidence high
+
+After the ten phases of delusion, Zongmi sets out cultivation and realization after awakening, also in ten phases, turning the deluded into the true. Delusion arose from the subtle to the coarse; awakening removes it in reverse order from the coarse to the subtle, because coarse obstructions yield to shallow wisdom and subtle delusions only to deep wisdom; so the ten later phases overturn the ten earlier ones.
+
+> 次辨悟後修證。還有十重翻妄即真。無別法故。
+
+_level: bridging · standpoint: seeker · path: knowledge, meditation · stage: all (wu shi chong 悟十重) · types: practice, consciousness-mind_
+
+teachers: [Guifeng Zongmi 圭峰宗密](../teachers/zongmi.md)
+
+### 409c09-410a04 <a id="tea-chanyuan-zhuquanji-duxu-409c09"></a>
+`skeleton` · confidence moderate
+
+The ten phases of awakening (as laid out in Zongmi's chart): (1) a being meets a good friend who reveals the original enlightened true mind; having heard it in former lives he now understands and awakens — the four elements are not self, the five aggregates empty — and has faith in his own suchness and the virtues of the Three Jewels; (2) he arouses compassion, wisdom and vows, pledging to realize bodhi; (3) according to his capacity he practises giving, precepts, patience, vigour and calming-and-contemplation, and the root of faith grows; (4) the great mind of awakening manifests; (5-6) knowing the dharma-nature to be free of stinginess and the rest, he practises the six perfections in accord with it, and by the power of samādhi and prajñā self and dharmas are both forgotten — no self, no other, always empty, always illusory; (7) freedom with respect to form, all interfused; (8) freedom with respect to mind, illuminating everything; (9) means fulfilled, one thought in accord, the first arising of the mind awakened with no initial mark, free of subtle thought — ultimate awakening; (10) the mind being without thought, there is no separate initial awakening: one with the root, pure mind-source, responding in countless ways, abiding in the dharma-realm — the Great Awakened Honoured One, the original buddha, not newly made, who sees all beings as equally awakened.
+
+> 一謂有眾生遇善知識。開示上說本覺真心。
+
+_level: bridging · standpoint: seeker · path: knowledge, meditation · stage: all (wu shi chong 悟十重) · types: practice, karma-liberation_
+
+teachers: [Guifeng Zongmi 圭峰宗密](../teachers/zongmi.md)
 
 ### T48n2015 p.402a10-a19 <a id="tea-chanyuan-zhuquanji-duxu-402a10"></a>
 `skeleton` · confidence high
@@ -66,4 +88,4 @@ teachers: [Guifeng Zongmi 圭峰宗密](../teachers/zongmi.md) · disputes: [Is 
 _Notes: Zongmi is owned by U54 (Huayan); this entry contributes the Chan side. One of the four texts of the Korean curriculum (Doseo)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

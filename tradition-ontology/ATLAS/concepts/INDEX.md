@@ -1,6 +1,6 @@
-# Concepts (2944)
+# Concepts (2946)
 
-sourced: 327 · skeleton: 2617
+sourced: 335 · skeleton: 2611
 
 - ['A man is born into the world he has made'](self-made-world.md) — `sourced`
 - ['Atat tvam asi' — Dvaita's reading of Chāndogya 6.8.7](atat-tvam-asi.md) — `skeleton`
@@ -1438,6 +1438,7 @@ sourced: 327 · skeleton: 2617
 - [The five acts in the Pāñcarātra](five-acts-pancaratra.md) — `skeleton`
 - [The five afflictions (kleśa)](five-klesas.md) — `skeleton`
 - [The five aggregates](five-aggregates.md) — `skeleton`
+- [The five aggregates of clinging (pañcupādānakkhandhā)](five-upadanakkhandha.md) — `sourced`
 - [The five augmenting conditions of reciting (Shandao)](five-augmenting-conditions.md) — `skeleton`
 - [The five auspicious events (pañca-kalyāṇaka)](five-kalyanakas.md) — `skeleton`
 - [The five auspicious āgamas and the Samaya way](subhagama-pancaka.md) — `skeleton`
@@ -1473,7 +1474,7 @@ sourced: 327 · skeleton: 2617
 - [The five great daily sacrifices](five-great-sacrifices.md) — `sourced`
 - [The five great men (pañcamahāpuruṣa)](pancamahapurusa-yogas.md) — `skeleton`
 - [The five grounds of monastic judgment](five-vyavaharas.md) — `skeleton`
-- [The five hindrances](five-hindrances.md) — `skeleton`
+- [The five hindrances (pañca nīvaraṇāni)](five-hindrances.md) — `sourced`
 - [The Five Houses of Chan](five-houses.md) — `skeleton`
 - [The five images (pañcabera)](pancabera.md) — `skeleton`
 - [The five impurities (mala)](pasupata-five-impurities.md) — `skeleton`
@@ -1600,7 +1601,7 @@ sourced: 327 · skeleton: 2617
 - [The four empties](four-empties.md) — `skeleton`
 - [The four errors (viparyāsa)](four-viparyasas.md) — `skeleton`
 - [The four essential points for analysing selflessness](four-point-analysis.md) — `skeleton` _(recent)_
-- [The four establishments of mindfulness](four-satipatthanas.md) — `skeleton`
+- [The four establishments of mindfulness (cattāro satipaṭṭhānā)](four-satipatthanas.md) — `sourced`
 - [The four eternal realities (Mahānubhāva)](four-realities-mahanubhava.md) — `skeleton`
 - [The four expositions (anuyoga)](four-anuyogas.md) — `skeleton`
 - [The four formless attainments](formless-attainments.md) — `skeleton`
@@ -1647,7 +1648,7 @@ sourced: 327 · skeleton: 2617
 - [The four Māheśvara schools of the doxographers](mahesvara-four-schools.md) — `skeleton`
 - [The four mārgas of the samayācāryas](four-margas.md) — `skeleton`
 - [The four negations of the holy life (MN 76)](four-negations-of-holy-life.md) — `skeleton`
-- [The four noble truths](four-noble-truths.md) — `skeleton`
+- [The four noble truths (cattāri ariyasaccāni)](four-noble-truths.md) — `sourced`
 - [The four notions (self, being, soul, person)](four-notions.md) — `skeleton`
 - [The four nutriments](four-aharas.md) — `skeleton`
 - [The four objects of meditation](four-dhyeyas.md) — `skeleton`
@@ -1728,6 +1729,7 @@ sourced: 327 · skeleton: 2617
 - [The fourth jhāna](fourth-jhana.md) — `skeleton`
 - [The fourth state (cauthā pad) in Sant usage](cautha-pad.md) — `skeleton`
 - [The fruition of karma: birth, life-span, experience](vipaka-jati-ayus-bhoga.md) — `skeleton`
+- [The fulfilment chain of mindfulness of breathing (MN 118)](anapanasati-fulfilment-chain.md) — `sourced`
 - [The funeral as the hymns present it](vedic-funeral-sequence.md) — `skeleton`
 - [The gacchas of the Mūrtipūjakas](gaccha-system.md) — `skeleton`
 - [The garbha empty and not empty](empty-and-not-empty-garbha.md) — `skeleton`
@@ -1969,7 +1971,7 @@ sourced: 327 · skeleton: 2617
 - [The nine ways of Bön (theg pa rim dgu)](bon-nine-ways.md) — `skeleton`
 - [The ninety-six principles](ninety-six-tattvas.md) — `sourced`
 - [The Nityās as the lunar days and time](nityas-as-time.md) — `skeleton`
-- [The noble eightfold path](noble-eightfold-path.md) — `skeleton`
+- [The noble eightfold path (ariya aṭṭhaṅgika magga)](noble-eightfold-path.md) — `sourced`
 - [The noble persons in the Abhidharma](noble-persons-abhidharma.md) — `skeleton`
 - [The noble search](noble-search.md) — `skeleton`
 - [The nominal and the non-nominal ultimate](paryaya-paramartha.md) — `skeleton`
@@ -2162,6 +2164,7 @@ sourced: 327 · skeleton: 2617
 - [The servant's stance (dāsya)](dasya-bhava.md) — `skeleton`
 - [The seven (nine) realities (tattva)](jain-tattvas.md) — `skeleton`
 - [The seven aids to meditation (sādhana-saptaka)](sadhana-saptaka.md) — `skeleton`
+- [The seven awakening factors (satta bojjhaṅgā)](seven-bojjhangas.md) — `sourced`
 - [The seven blisses of the breath](seven-anandas.md) — `skeleton`
 - [The seven bodily constituents (lus zungs bdun)](seven-bodily-constituents.md) — `skeleton`
 - [The seven body-constituents (uṭal tātukkaḷ)](seven-udal-thathukkal.md) — `skeleton`
@@ -2170,7 +2173,6 @@ sourced: 327 · skeleton: 2617
 - [The seven deities of the Tantrasamuccaya](seven-deities-of-tantrasamuccaya.md) — `skeleton`
 - [The seven dhātus (tissues)](seven-dhatus.md) — `skeleton`
 - [The seven divine dharmas of the Kadam](seven-divine-dharmas-kadam.md) — `skeleton`
-- [The seven factors of awakening](seven-bojjhangas.md) — `skeleton`
 - [The seven hells](seven-hells.md) — `skeleton`
 - [The seven jewels of the Shangpa](seven-jewels-of-shangpa.md) — `skeleton`
 - [The seven kinds of dream](seven-kinds-of-dream.md) — `skeleton`
@@ -2247,6 +2249,7 @@ sourced: 327 · skeleton: 2617
 - [The six fundamentals (ṣaṭpada) of Śrīmad Rājacandra](six-fundamentals.md) — `skeleton`
 - [The six impediments to a universal (jātibādhaka)](jatibadhakas.md) — `skeleton`
 - [The six intermediate states (bar do drug)](six-bardos.md) — `skeleton`
+- [The six internal and external sense bases (chaḷ ajjhattikabāhirāyatanāni)](twelve-ayatanas.md) — `sourced`
 - [The six Kadam treatises (bka' gdams gzhung drug)](kadam-six-texts.md) — `skeleton`
 - [The six kinds of arhat and falling back](six-kinds-of-arhat.md) — `skeleton`
 - [The six kinds of devotion](sadvidha-bhakti.md) — `skeleton`
@@ -2580,7 +2583,6 @@ sourced: 327 · skeleton: 2617
 - [The twelve objects of knowledge (prameya)](twelve-prameyas.md) — `skeleton`
 - [The twelve panths (bārah panth)](twelve-panths.md) — `skeleton`
 - [The twelve reflections (anuprekṣā)](twelve-anupreksas.md) — `skeleton`
-- [The twelve sense bases](twelve-ayatanas.md) — `skeleton`
 - [The twelve signs](twelve-rasis.md) — `skeleton`
 - [The twelve topics (lakṣaṇas) of the Mīmāṃsā Sūtra](twelve-laksanas.md) — `skeleton`
 - [The twelve Upāṅgas](twelve-upangas.md) — `skeleton`

@@ -21,8 +21,8 @@ The sixteen steps of mindfulness with breathing form four tetrads corresponding 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-practices: [Mindfulness of breathing (ānāpānasati)](../practices/anapanasati.md)
+practices: [Mindfulness of breathing (ānāpānassati)](../practices/anapanasati.md)
 
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._

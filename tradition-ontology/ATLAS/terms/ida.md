@@ -19,4 +19,4 @@
 **Related:** [piṅgalā](pingala.md), [suṣumnā](susumna.md), [candra / śaśin / soma](candra.md)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 21:52 IST._

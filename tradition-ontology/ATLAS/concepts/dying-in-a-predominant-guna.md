@@ -19,4 +19,4 @@ _Notes: Merged from extractor A's cpt:dying-in-a-predominant-guna and extractor 
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:14.14, tea:bhagavad-gita:14.15, tea:bhagavad-gita:14.16, tea:bhagavad-gita:14.18 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:15 IST._
+_Contributed by: extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 21:52 IST._

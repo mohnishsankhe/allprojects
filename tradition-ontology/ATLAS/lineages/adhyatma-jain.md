@@ -23,7 +23,7 @@ A seventeenth-century lay mystical movement of north-Indian Jains centred on Ban
   - [Digambara](digambara.md) — what: Kundakunda's Samayasāra read through Amṛtacandra's Ātmakhyāti and its kalaśa verses, with Pāṇḍe Rājamalla's vernacular commentary; later the Gommaṭasāra's guṇasthāna teaching; evidence: Banārsīdās's own account in the Ardhakathānaka and the preface of the Samayasāra Nāṭaka (recalled)
 **Transmissions given:** 
   - [Terāpantha (Digambara)](terapantha-digambara.md) — what: the anti-bhaṭṭāraka, study-centred ethos and the Hindi Adhyātma literature (tradition's account; the scholarly account also links the two)
-  - `lin:kanji-swami` — what: the niścaya-centred reading of the Samayasāra and the vernacular Adhyātma literature (Samayasāra Nāṭaka, Mokṣamārga Prakāśaka), revived in the 20th c. (recent)
+  - [Kanji Swami's Digambara Adhyātma movement (Songadh)](kanji-swami.md) — what: the niścaya-centred reading of the Samayasāra and the vernacular Adhyātma literature (Samayasāra Nāṭaka, Mokṣamārga Prakāśaka), revived in the 20th c. (recent)
 
 ## The ultimate in this lineage
 `skeleton` · confidence moderate
@@ -53,4 +53,4 @@ A seventeenth-century lay mystical movement of north-Indian Jains centred on Ban
 _Notes: Owned by U35. Membership of Dyānatrāy, Bhūdhardās and Daulatrām in the movement is by affinity of their Hindi Adhyātma writing (moderate/low confidence); Ṭoḍarmal is normally counted in the Digambara Terāpantha._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._

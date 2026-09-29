@@ -12,4 +12,4 @@ Recitation of the Hanumān Cālīsā (often on Tuesdays and Saturdays) and worsh
   - [Hanumān Cālīsā](../texts/hanuman-calisa.md) — ref: doha1; rests_on: ["tea:hanuman-calisa:doha1", "tea:hanuman-calisa:caupai"]
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._

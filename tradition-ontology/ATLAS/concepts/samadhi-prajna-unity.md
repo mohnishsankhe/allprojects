@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [Calm and insight](samatha-vipassana.md): Chan's dinghui corresponds to calm and insight but denies their sequence ('do not say samādhi first produces prajñā'). — rests on [7.1](../texts/platform-sutra.md#tea-platform-sutra-7-1)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

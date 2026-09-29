@@ -20,4 +20,4 @@ _Notes: Local copies: raw_etexts/kalpaH/nirNaya-sindhuH (OCR)._
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:raw_etexts:nirNaya-sindhuH_ocr, catalog:eBharati:nirNayasindhuH, https://www.wisdomlib.org/definition/nirnayasindhu — Extant; composed by Kamalākara in 1612 (Wisdomlib), matching the entry.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._

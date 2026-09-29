@@ -12,4 +12,4 @@ One of the sixty-three Nāyaṉmārs. A Pallava king who gave up the throne and 
 **Realization — the tradition's account:** A Pallava king who gave up the throne and went on pilgrimage, singing a veṇpā at each shrine (the Kṣēttirat Tiruveṇpā).
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 21:52 IST._

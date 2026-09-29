@@ -21,4 +21,4 @@
 In the Āgamas the four pādas are also the four sections of an Āgama (vidyā/jñāna, kriyā, yoga, caryā). Tirumūlar teaches that each pāda contains the others in miniature (caryā-in-caryā … jñāna-in-jñāna), so the four are not strictly exclusive stages. The first three yield the lower liberations (sālokya, sāmīpya, sārūpya) and ripen the soul; only jñāna gives sāyujya.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 21:52 IST._

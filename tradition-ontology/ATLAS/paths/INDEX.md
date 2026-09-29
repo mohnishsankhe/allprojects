@@ -1,6 +1,6 @@
-# Path maps (205)
+# Path maps (213)
 
-sourced: 37 · skeleton: 168
+sourced: 40 · skeleton: 173
 
 - [Action, then knowledge or devotion (Uddhava Gītā 11.20)](uddhava-gita-three-yogas.md) — `sourced`
 - [Advayatāraka: targets, voids and tāraka](advayataraka-voids.md) — `sourced`
@@ -11,6 +11,7 @@ sourced: 37 · skeleton: 168
 - [Darśana: the eight-limbed yoga](darsana-eight-limbs.md) — `sourced`
 - [Dattātreya's yoga for Alarka (MkP 38-43)](markandeya-dattatreya-yoga.md) — `sourced`
 - [Dhyānabindu / Yogacūḍāmaṇi: the six-limbed yoga](dhyanabindu-six-limbs.md) — `sourced`
+- [Dōgen's unity of practice and realization and the way-ring of continuous practice (shushō ittō; gyōji dōkan)](dogen-practice-realization.md) — `skeleton`
 - [From dharma to liberation (Rāmcaritmānas 3.16)](manas-dharma-to-moksa.md) — `skeleton`
 - [From direct knowledge to liberation (Dvaita)](dvaita-moksa-krama.md) — `skeleton`
 - [From hearing the name to buddhahood (Larger Sūtra)](larger-sutra-birth-to-buddhahood.md) — `skeleton`
@@ -27,11 +28,14 @@ sourced: 37 · skeleton: 168
 - [Hearing to nirvikalpa samādhi with eight auxiliaries (Vedāntasāra)](vedantasara-samadhi-auxiliaries.md) — `skeleton`
 - [Hemacandra's four kinds of mind and the no-mind state (Yogaśāstra 12)](hemacandra-four-minds.md) — `skeleton`
 - [Higher status and definite goodness (Ratnāvalī)](ratnavali-two-goods.md) — `skeleton`
+- [Jinul's sudden awakening and gradual cultivation (tono chŏmsu)](jinul-sudden-gradual.md) — `skeleton`
 - [Jōdo-shū: settled mind, practice undertaken, manner of practice](jodo-shu-anjin-kigyo-sagyo.md) — `skeleton`
 - [Kapila's sequence of devotion (Bhāgavata 3.25-29)](kapila-gita-bhakti-sequence.md) — `sourced`
 - [Kapila's yoga with a support (BhP 3.28)](kapila-yoga-bhagavata.md) — `sourced`
 - [Keśidhvaja's yoga (VP 6.7)](visnu-purana-yoga.md) — `sourced`
 - [Kumārila's way to release (Bhāṭṭa)](kumarila-moksa.md) — `skeleton`
+- [Kuoan's ten oxherding pictures (Shiniu tu)](ten-oxherding-pictures.md) — `skeleton`
+- [Kūkai's ten abodes of mind (jūjūshin)](kukai-ten-abodes-of-mind.md) — `skeleton`
 - [Learning, childlikeness, silence (BAU 3.5.1)](panditya-balya-mauna.md) — `sourced`
 - [Maharshi Mehi's graded practice](maharshi-mehi-four-practices.md) — `skeleton` _(recent)_
 - [Mahā Upaniṣad: seven stages of ignorance and seven of knowledge](maha-fourteen-bhumikas.md) — `sourced`
@@ -70,6 +74,7 @@ sourced: 37 · skeleton: 168
 - [The eleven stages of the lay follower (Śvetāmbara canonical list)](upasaka-pratimas-svetambara.md) — `skeleton`
 - [The fifteen limbs of the Aparokṣānubhūti (pañcadaśāṅga-yoga)](aparoksanubhuti-fifteen-limbs.md) — `skeleton`
 - [The fifty-five stages of the Śūraṅgama](surangama-fifty-five-stages.md) — `skeleton`
+- [The fifty-two stages of the bodhisattva path (ten faiths + forty-two stages of worthies and sages)](yingluo-fifty-two-stages.md) — `skeleton`
 - [The final sequence of the Kaivalya-pāda (YS 4.25–34)](yoga-sutra-kaivalya-sequence.md) — `skeleton`
 - [The five golden dharmas of the Shangpa (the tree)](shangpa-five-golden-dharmas.md) — `skeleton`
 - [The five limbs of puraścaraṇa (mastery of a mantra)](purascarana-five-limbs.md) — `skeleton`
@@ -127,6 +132,7 @@ sourced: 37 · skeleton: 168
 - [The nine successive abidings (anupubbavihāra): four jhānas, four formless attainments, cessation](jhana-formless-cessation.md) — `skeleton`
 - [The nine vehicles (theg pa rim pa dgu)](nyingma-nine-vehicles.md) — `skeleton`
 - [The nine ways of Bön](bon-nine-ways.md) — `skeleton`
+- [The noble eightfold path as defined in DN 22](noble-eightfold-path-dn22.md) — `sourced`
 - [The Nyāya path to liberation (apavarga)](nyaya-path-to-apavarga.md) — `skeleton`
 - [The order of approach in the Tiruppāvai (as read by the Śrīvaiṣṇava commentators)](tiruppavai-approach.md) — `skeleton`
 - [The order of the aṅgas in the Rajasthani Sant anthologies](sant-anga-sequence.md) — `skeleton`
@@ -146,7 +152,7 @@ sourced: 37 · skeleton: 168
 - [The sequence of the Bodhicaryāvatāra](bodhicaryavatara-sequence.md) — `skeleton`
 - [The sequence of the renunciation rite](sannyasa-rite-sequence.md) — `sourced`
 - [The seven attentions to the first absorption (Śrāvakabhūmi)](sravakabhumi-seven-attentions.md) — `skeleton`
-- [The seven factors of awakening arising in sequence (MN 118)](bojjhanga-sequence.md) — `skeleton`
+- [The seven factors of awakening arising in sequence (MN 118)](bojjhanga-sequence.md) — `sourced`
 - [The seven means of the 'yoga of the pot' (ghaṭastha-yoga) in the Gheraṇḍa Saṃhitā](gheranda-seven-limbs.md) — `skeleton`
 - [The seven modes of conduct (Kulārṇava)](kaula-seven-acaras.md) — `skeleton`
 - [The seven points of mind training](seven-points-mind-training.md) — `skeleton`
@@ -163,7 +169,7 @@ sourced: 37 · skeleton: 168
 - [The six-limbed yoga of the Maitrī Upaniṣad (ṣaḍaṅga-yoga)](maitri-six-limbs.md) — `skeleton`
 - [The sixteen contemplations of the Contemplation Sūtra](sixteen-contemplations.md) — `skeleton`
 - [The sixteen insight knowledges (soḷasa ñāṇa)](sixteen-insight-knowledges.md) — `skeleton`
-- [The sixteen steps of mindfulness of breathing (MN 118)](anapanasati-sixteen-steps.md) — `skeleton`
+- [The sixteen steps of mindfulness of breathing (MN 118)](anapanasati-sixteen-steps.md) — `sourced`
 - [The stages of love from prema to mahābhāva (Ujjvalanīlamaṇi)](ujjvalanilamani-prema-ladder.md) — `skeleton`
 - [The stages of Mahāmudrā meditation (Moonbeams; 9th Karmapa)](moonbeams-mahamudra-stages.md) — `skeleton`
 - [The stages of meditation (Kamalaśīla)](bhavanakrama-stages.md) — `skeleton`
@@ -205,5 +211,7 @@ sourced: 37 · skeleton: 168
 - [Who crosses māyā: the Nārada Bhakti Sūtra's sequence (NBS 46–50)](narada-bhakti-sutra-crossing-maya.md) — `skeleton`
 - [Yoga Yājñavalkya: the eight limbs](yoga-yajnavalkya-eight-limbs.md) — `skeleton`
 - [Yogacūḍāmaṇi: the twelvefold ladder](yogacudamani-twelvefold-ladder.md) — `sourced`
+- [Zhiyi's six identities (liuji 六即)](tiantai-six-identities.md) — `skeleton`
+- [Zongmi's ten phases of awakening (悟十重) in the Chan Preface](zongmi-ten-stages-of-awakening.md) — `skeleton`
 - [Śāṇḍilya: the eight-limbed yoga](sandilya-eight-limbs.md) — `sourced`
 - [Ṣaṭcakranirūpaṇa: the ascent of kuṇḍalinī through the six centres](satcakra-ascent.md) — `skeleton`

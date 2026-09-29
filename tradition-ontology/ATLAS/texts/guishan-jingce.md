@@ -17,4 +17,4 @@ Guishan Lingyou's exhortation to monks: the body is impermanent, those who eat t
 _Notes: Transmitted in the Zimen jingxun (T2023) and used in the Korean novice curriculum; not read locally for this entry._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

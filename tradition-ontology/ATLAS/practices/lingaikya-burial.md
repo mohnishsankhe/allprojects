@@ -15,4 +15,4 @@ The dead devotee, having become one with the liṅga, is buried seated with the 
 _Notes: Community practice from general knowledge; verify the details (posture, rites) in Phase C._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._

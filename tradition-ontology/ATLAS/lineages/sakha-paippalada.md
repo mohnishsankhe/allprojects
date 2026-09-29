@@ -36,4 +36,4 @@ _none recorded_
 
 - 2026-09-28 websearch: confirmed — https://www.atharvavedapaippalada.uzh.ch/en/stateOfArt.html — Confirmed: living in Odisha (palm-leaf manuscripts and reciters), formerly known from the Kashmiri manuscript.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 21:52 IST._

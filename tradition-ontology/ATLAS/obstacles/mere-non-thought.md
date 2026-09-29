@@ -12,4 +12,4 @@ Cultivating the mere absence of recollection and attention without correct analy
   - [Bhāvanākrama](../texts/bhavanakrama.md) — ref: III; rests_on: ["tea:bhavanakrama:3"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._

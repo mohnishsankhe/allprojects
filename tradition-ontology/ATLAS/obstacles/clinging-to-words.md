@@ -12,4 +12,4 @@ Seeking the meaning in the phrase, reciting texts without understanding, or conv
   - [Blue Cliff Record (Biyan lu)](../texts/biyan-lu.md) — ref: 12; rests_on: ["tea:biyan-lu:12"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

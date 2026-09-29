@@ -16,4 +16,4 @@ The Dādūpanthī anthology of 'five voices' — Dādū, Kabīr, Nāmdev, Ravid�
   - kind: original; name: W. M. Callewaert, The Millennium Kabīr Vāṇī (2000) uses Pañcvāṇī manuscripts; licence: copyrighted
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._

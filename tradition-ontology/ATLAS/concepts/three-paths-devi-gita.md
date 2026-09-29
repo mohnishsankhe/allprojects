@@ -17,4 +17,4 @@
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/3_purana/devigita.md (GRETIL Devīgītā = DBhP 7.31-40) — DBhP 7.37.2-3: 'mārgās trayo me vikhyātā ... karmayogo jñānayogo bhaktiyogaś ca'; devotion is 'sulabhatvān mānasatvāt kāyacittādyapīḍanāt'.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._

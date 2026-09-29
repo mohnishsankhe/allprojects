@@ -1,6 +1,6 @@
-# Texts (3695)
+# Texts (3698)
 
-skeleton: 3119 · sourced: 576
+skeleton: 3122 · sourced: 576
 
 - ['Jam dpal las bzhi 'khor lo gsang ba'i rgyud (Mañjuśrī: Secret Tantra of the Wheel of the Four Activities, Tōh 838)](jampal-lezhi-khorlo.md) — `skeleton`
 - ['Jig rten mchod bstod sgrub pa rtsa ba'i rgyud (Root Tantra of Worldly Offering and Praise, Tōh 844)](jigten-chotod.md) — `skeleton`
@@ -976,6 +976,7 @@ skeleton: 3119 · sourced: 576
 - [Hevajra Tantra](hevajra-tantra.md) — `skeleton`
 - [Hevajrapiṇḍārthaṭīkā](hevajrapindarthatika.md) — `skeleton`
 - [Highway of the Conquerors: root text of the Gelug/Kagyu Mahāmudrā (dge ldan bka' brgyud rin po che'i phyag chen rtsa ba rgyal ba'i gzhung lam)](gyalwai-shunglam.md) — `skeleton`
+- [Himitsu mandara jūjūshinron (Treatise on the Ten Abodes of Mind of the Secret Maṇḍala)](jujushinron.md) — `skeleton`
 - [Hiraṇyagarbha Sūkta (Ṛgveda 10.121)](hiranyagarbha-sukta.md) — `sourced`
 - [Hiraṇyakeśi (Satyāṣāḍha) Śrautasūtra](hiranyakesi-srautasutra.md) — `sourced`
 - [Hiraṇyakeśi Dharmasūtra](hiranyakesi-dharmasutra.md) — `sourced`
@@ -1585,6 +1586,7 @@ skeleton: 3119 · sourced: 576
 - [Mitākṣarā of Vijñāneśvara](mitaksara.md) — `sourced`
 - [Mkha' 'gro ma me lce 'bar ba'i rgyud (Tantra of the Ḍākinī's Blazing Tongue of Flame, Tōh 842)](khandroma-melce-barwa.md) — `skeleton`
 - [Mohavicchedanī](mohavicchedani.md) — `skeleton`
+- [Mohe zhiguan (The Great Calming and Contemplation)](mohe-zhiguan.md) — `skeleton`
 - [Mokṣadharma (Mokṣadharmaparvan)](moksadharma.md) — `sourced`
 - [Mokṣakārikā](moksakarika.md) — `skeleton`
 - [Mokṣakārikāvṛtti](moksakarikavrtti.md) — `skeleton`
@@ -2107,6 +2109,7 @@ skeleton: 3119 · sourced: 576
 - [Puruṣanirṇaya](purusanirnaya.md) — `skeleton`
 - [Puruṣottamasahasranāma](purusottama-sahasranama.md) — `skeleton`
 - [Puruṣārthasiddhyupāya](purusarthasiddhyupaya.md) — `skeleton`
+- [Pusa yingluo benye jing (Sūtra of the Original Acts that Adorn the Bodhisattva)](pusa-yingluo-benye-jing.md) — `skeleton`
 - [Puttamaṃsa Sutta](puttamamsa-sutta.md) — `skeleton`
 - [Puṇṇovāda Sutta](punnovada-sutta.md) — `skeleton`
 - [Puṣpacūlikā](puspaculika.md) — `skeleton`

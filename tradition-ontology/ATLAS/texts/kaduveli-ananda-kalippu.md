@@ -265,4 +265,4 @@ terms: [yama](../terms/yama.md) · concepts: [Siddhar ethics](../concepts/siddha
 _Notes: Checked in the local e-text._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 21:52 IST._

@@ -12,4 +12,4 @@ The opposite of vigour: laziness, attachment to what is base, and despondency wi
   - [Bodhicaryāvatāra](../texts/bodhicaryavatara.md) — ref: 7.2; rests_on: ["tea:bodhicaryavatara:7.2"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._

@@ -15,4 +15,4 @@ Ravigupta's compendium of medicine, translated into Tibetan and other Central As
 _Notes: Ravigupta's Buddhist affiliation is a scholarly inference._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._

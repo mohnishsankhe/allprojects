@@ -17,4 +17,4 @@ Worship of the goddess Padmāvatī, attendant of Pārśvanātha, with offerings,
 _Notes: Restricted: summary only (the kalpa includes rites for worldly ends); no mantra, yantra or rite recorded._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._

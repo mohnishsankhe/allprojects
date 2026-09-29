@@ -15,4 +15,4 @@
 **Related:** [Mahācīna](mahacina.md), [Tārā](tara.md)
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 21:52 IST._

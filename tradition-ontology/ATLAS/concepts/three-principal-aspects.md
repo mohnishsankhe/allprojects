@@ -15,4 +15,4 @@
 - corresponds-to-in-map → [The four attachments to be parted from](four-attachments.md): the Sakya four lines name the same three plus dharma practice — rests on [2](../texts/parting-from-four-attachments.md#tea-parting-from-four-attachments-2), [3](../texts/three-principal-aspects.md#tea-three-principal-aspects-3)
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._

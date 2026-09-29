@@ -15,4 +15,4 @@
 - partial: [nāḍī](nadi.md) — channel/vessel in the medical sense
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._

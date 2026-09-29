@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [The nature and rank of Śrī](sri-tattva.md): Caṭṭaimuṉi's Meru of 43 triangles is the Śrīcakra; Vālai is Bālā Tripurasundarī of Śrīvidyā — rests on [1](../texts/sattaimuni-nanam.md#tea-sattaimuni-nanam-1)
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 21:52 IST._

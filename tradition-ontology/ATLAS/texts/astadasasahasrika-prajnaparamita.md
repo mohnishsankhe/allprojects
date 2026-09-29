@@ -15,4 +15,4 @@ The Perfection of Wisdom in 18,000 lines, a Large-Sūtra recension close to the 
   - kind: original; name: parivartas 55-82 (Conze's ms), GRETIL; licence: GRETIL (reference use); url: https://gretil.sub.uni-goettingen.de/gretil.html#Buddh
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._

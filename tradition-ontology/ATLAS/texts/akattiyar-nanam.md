@@ -16,4 +16,4 @@ Wisdom (ñāṉam) verses ascribed to Agastya on the inner yoga and knowledge of
 _Notes: Title and ascription recalled at low confidence; many such works circulate in 19th–20th c. printed editions and palm-leaf manuscripts with varying titles and verse counts. Summary only; no preparations._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 21:52 IST._

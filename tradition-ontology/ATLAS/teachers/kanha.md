@@ -19,4 +19,4 @@ U44 contribution (the siddha of the eighty-four): No. 17 of the eighty-four sidd
 _Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U21-natha-aghora. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._

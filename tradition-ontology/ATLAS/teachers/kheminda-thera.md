@@ -10,4 +10,4 @@ Sri Lankan monk, co-translator of the Vimuttimagga (The Path of Freedom, 1961) a
 _Notes: Role in the Mahāsi controversy recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._

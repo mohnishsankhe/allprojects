@@ -1005,7 +1005,7 @@ Further, they are taught as fivefold: fetters and the rest. The fetters are nine
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: [saṃyojana](../terms/samyojana.md) · obstacles: [The nine fetters (Abhidharma list)](../obstacles/nine-samyojanas.md)
+terms: [saṁyojana](../terms/samyojana.md) · obstacles: [The nine fetters (Abhidharma list)](../obstacles/nine-samyojanas.md)
 
 ### 5.43-45 <a id="tea-abhidharmakosa-5-43-45"></a>
 `skeleton` · confidence high
@@ -1014,7 +1014,7 @@ The fetters of the lower part are five: by two one does not pass beyond desire, 
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: [saṃyojana](../terms/samyojana.md) · obstacles: [The ten fetters (saṃyojana)](../obstacles/ten-fetters.md)
+terms: [saṁyojana](../terms/samyojana.md) · obstacles: [The ten fetters (saṃyojana)](../obstacles/ten-fetters.md)
 
 ### 5.47-50 <a id="tea-abhidharmakosa-5-47-50"></a>
 `skeleton` · confidence high
@@ -1067,7 +1067,7 @@ The four truths are suffering, its origin, cessation and the path, taught in the
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: karma-liberation_
 
-terms: [duḥkha](../terms/duhkha.md), [sāsrava](../terms/sasrava.md) · concepts: [The four noble truths](../concepts/four-noble-truths.md)
+terms: [duḥkha](../terms/duhkha.md), [sāsrava](../terms/sasrava.md) · concepts: [The four noble truths (cattāri ariyasaccāni)](../concepts/four-noble-truths.md)
 
 ### 6.4 <a id="tea-abhidharmakosa-6-4"></a>
 `skeleton` · confidence high
@@ -1496,4 +1496,4 @@ terms: [saddharma](../terms/saddharma.md) · concepts: [The two aspects of the t
 
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._

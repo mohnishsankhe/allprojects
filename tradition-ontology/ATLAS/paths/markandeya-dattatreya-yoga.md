@@ -24,4 +24,4 @@
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:markandeya-purana:38.6-16, tea:markandeya-purana:39.1-35, tea:markandeya-purana:40.1-13, tea:markandeya-purana:40.14-28, tea:markandeya-purana:40.29-41, tea:markandeya-purana:42.1-17 — Stage refs located (MkP 38.6-16, 41.2-26, 39, 40.1-41, 42.15-16); for 39.1-26 see the peterFreund e-text (the Sansknet file has a lacuna). All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._

@@ -38,7 +38,7 @@ And what is that middle way? It is this noble eightfold path: right view, right 
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: practice_
 
-terms: [ariya aṭṭhaṅgika magga](../terms/ariya-atthangika-magga.md) · concepts: [The noble eightfold path](../concepts/noble-eightfold-path.md), [The middle way](../concepts/middle-way.md)
+terms: [ariya aṭṭhaṅgika magga](../terms/ariya-atthangika-magga.md) · concepts: [The noble eightfold path (ariya aṭṭhaṅgika magga)](../concepts/noble-eightfold-path.md), [The middle way](../concepts/middle-way.md)
 
 ### 4.1-4.10 <a id="tea-dhammacakkappavattana-sutta-4-1-4-10"></a>
 `skeleton` · confidence high
@@ -49,7 +49,7 @@ The noble truth of suffering: birth, ageing, illness and death are suffering; un
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation_
 
-terms: [dukkha](../terms/dukkha.md), [samudaya](../terms/samudaya.md), [nirodha](../terms/nirodha.md), [magga](../terms/magga.md), [taṇhā](../terms/tanha.md), [ariyasacca](../terms/ariya-sacca.md) · concepts: [The four noble truths](../concepts/four-noble-truths.md)
+terms: [dukkha](../terms/dukkha.md), [samudaya](../terms/samudaya.md), [nirodha](../terms/nirodha.md), [magga](../terms/magga.md), [taṇhā](../terms/tanha.md), [ariyasacca](../terms/ariya-sacca.md) · concepts: [The four noble truths (cattāri ariyasaccāni)](../concepts/four-noble-truths.md)
 
 ### 5-8 <a id="tea-dhammacakkappavattana-sutta-5-8"></a>
 `skeleton` · confidence high
@@ -58,7 +58,7 @@ Regarding each truth, vision, knowledge, wisdom, true knowledge and light arose 
 
 _level: unmarked · standpoint: experiential · path: knowledge · stage: realized · types: karma-liberation_
 
-terms: [pariññā](../terms/parinna.md), [pahāna](../terms/pahana.md), [sacchikiriyā](../terms/sacchikiriya.md), [bhāvanā](../terms/bhavana.md) · concepts: [Three turnings and twelve aspects](../concepts/three-turnings-twelve-aspects.md), [The four noble truths](../concepts/four-noble-truths.md)
+terms: [pariññā](../terms/parinna.md), [pahāna](../terms/pahana.md), [sacchikiriyā](../terms/sacchikiriya.md), [bhāvanā](../terms/bhavana.md) · concepts: [Three turnings and twelve aspects](../concepts/three-turnings-twelve-aspects.md), [The four noble truths (cattāri ariyasaccāni)](../concepts/four-noble-truths.md)
 
 ### 10.1-10.3 <a id="tea-dhammacakkappavattana-sutta-10-1-10-3"></a>
 `skeleton` · confidence high
@@ -95,4 +95,4 @@ concepts: [The first teaching and the first disciples](../concepts/first-teachin
 _Notes: SuttaCentral uid sn56.11; Mahāsaṅgīti title 'Dhammacakkappavattanasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

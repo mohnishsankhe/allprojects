@@ -14,4 +14,4 @@ Milarepa's close disciple, called his 'moon-like' son (Gampopa being the 'sun-li
 **Realization — the tradition's account:** Proud of the learning he brought from India, he was humbled by Milarepa's display (sheltering inside a yak horn); Milarepa's Life is framed as told to him.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._

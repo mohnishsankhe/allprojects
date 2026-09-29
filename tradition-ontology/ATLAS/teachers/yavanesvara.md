@@ -11,4 +11,4 @@
 The 'lord of the Yavanas' who, by the Yavanajātaka's own closing account (as read by Pingree), rendered a Greek horoscopic text into Sanskrit prose in 149/150 CE.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._

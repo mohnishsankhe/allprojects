@@ -10,4 +10,4 @@
 Nephew of Rāmānuja, called his 'triple staff' (tridaṇḍa), entrusted with the administration of the Śrīraṅgam temple.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 21:52 IST._

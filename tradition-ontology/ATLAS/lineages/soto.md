@@ -44,10 +44,10 @@ The Japanese Caodong lineage founded by Dōgen (1200–1253) after training with
 [Dokusan / sanzen (private interview)](../practices/dokusan.md), [Jukai (receiving the precepts)](../practices/jukai.md), [Ōryōki (formal monastic meal)](../practices/oryoki.md), [Sesshin (intensive retreat)](../practices/sesshin.md), [Shikantaza (just sitting)](../practices/shikantaza.md), [Silent illumination (mozhao)](../practices/silent-illumination.md), [Zazen / zuochan (seated meditation)](../practices/zazen.md)
 
 ## Path maps
-`pth:dogen-practice-realization`
+[Dōgen's unity of practice and realization and the way-ring of continuous practice (shushō ittō; gyōji dōkan)](../paths/dogen-practice-realization.md)
 
 ## Debates
 [Do insentient things (walls, tiles, grasses) have buddha-nature or preach the Dharma?](../debates/buddha-nature-of-insentient.md), [Kōan introspection and kenshō (Rinzai) or just sitting as practice-realization (Sōtō)?](../debates/rinzai-or-soto.md), [Is there a permanent mind-nature that leaves the perishing body at death?](../debates/srenika-heresy.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

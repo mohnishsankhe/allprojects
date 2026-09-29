@@ -12,4 +12,4 @@ The primary object of Mahāsi sitting practice: the movement of the abdomen, not
   - [Practical Insight Meditation: Basic and Progressive Stages](../texts/practical-insight-meditation.md) — ref: basic; rests_on: ["tea:practical-insight-meditation:basic"]
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._

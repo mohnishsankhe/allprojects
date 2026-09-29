@@ -20,4 +20,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:14.12, tea:bhagavad-gita:14.13, tea:bhagavad-gita:14.22, tea:bhagavad-gita:15.4 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 21:52 IST._

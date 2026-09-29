@@ -23,4 +23,4 @@
 Tradition's account: Hakuin's system. Scholarly account: systematised by his heirs (Tōrei, Gasan, Inzan, Takujū); the named five-fold classification is a later formulation. Low confidence on order and names beyond the first barrier.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

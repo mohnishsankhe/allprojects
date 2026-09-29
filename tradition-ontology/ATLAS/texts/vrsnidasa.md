@@ -14,4 +14,4 @@
 The twelfth Upāṅga: twelve princes of the Vṛṣṇi (Yādava) clan, such as Niṣadha, who became monks under Ariṣṭanemi.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._

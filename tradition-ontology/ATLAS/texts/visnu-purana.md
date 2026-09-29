@@ -414,4 +414,4 @@ _Notes: Book 6 ch. 6-7: Keśidhvaja teaches Khāṇḍikya yoga; Book 2 ch. 13-1
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:raw_etexts:viShNu-purANam, catalog:DCS:Viṣṇupurāṇa, local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa), local:sources_raw/raw_etexts/purANam/mAdhva-app/matsya-purANam.md (chs. 1-176) 53.16-17, https://en.wikipedia.org/wiki/Vishnu_Purana — Extant and digitized (local VP with Viṣṇucittīya and Ātmaprakāśa, 6 aṃśas and exactly 126 chapters: 22+16+18+24+38+8; also DCS, GRETIL-dev, peterFreund). Parāśara-Maitreya frame (VP 1.1.1-12) and Matsya 53.16-17 (Vārāha-kalpa, 23,000) confirmed. Scholarly dates vary widely (estimates 400 BCE-900 CE); the entry's 'first half of the 1st millennium CE (estimates vary widely)' is within them.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._

@@ -14,4 +14,4 @@ What is to be abandoned: pain in twenty-one kinds (body, six senses, six objects
 _Notes: The number is confirmed; the member list is from later manuals (recalled)._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 21:52 IST._

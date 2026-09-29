@@ -14,4 +14,4 @@
 **Related:** [vārī](vari.md), [pālkhī](palkhi.md)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._

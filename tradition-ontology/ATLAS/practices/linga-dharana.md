@@ -18,4 +18,4 @@ The iṣṭaliṅga, kept in a small casket (karaḍige) on a cord, is worn on t
 - The text treats the liṅga's accidental fall with the utmost gravity (recorded as restricted). — [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) 6.27
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._

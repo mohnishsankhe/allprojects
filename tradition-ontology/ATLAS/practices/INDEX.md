@@ -1,6 +1,6 @@
 # Practices (1525)
 
-skeleton: 1302 · sourced: 223
+skeleton: 1274 · sourced: 251
 
 - [A-tri meditation](a-tri-meditation.md) — `skeleton`
 - [Abandoning the body to go to birth (sheshen wangsheng) — restricted](shashen-wangsheng.md) — `skeleton`
@@ -9,6 +9,7 @@ skeleton: 1302 · sourced: 223
 - [Abiding in the Unborn](abiding-in-the-unborn.md) — `skeleton`
 - [Abstaining from meat (Mahāyāna)](vegetarian-discipline.md) — `skeleton`
 - [Act of truth (saccakiriyā)](saccakiriya.md) — `skeleton`
+- [Acting with clear comprehension (sampajāna)](sampajanna.md) — `sourced`
 - [Aghamarṣaṇa (sin-effacing recitation)](aghamarsana.md) — `sourced`
 - [Agnicayana (building the fire-altar)](agnicayana.md) — `sourced`
 - [Agnihotra (daily fire-offering)](agnihotra.md) — `sourced`
@@ -44,7 +45,9 @@ skeleton: 1302 · sourced: 223
 - [Atiśa's daily conduct of a bodhisattva](kadam-daily-conduct.md) — `skeleton`
 - [Attainment of fruition (phala-samāpatti)](phala-samapatti.md) — `skeleton`
 - [Attending to the initial and final points (ādyantakoṭinibhālana)](adyantakoti-nibhalana.md) — `skeleton`
+- [Attention to the elements (dhātumanasikāra)](dhatumanasikara.md) — `sourced`
 - [Attention to the inner sound (nādānusandhāna) in the haṭha texts](nadanusandhana.md) — `sourced`
+- [Attention to the repulsiveness of the body (paṭikūlamanasikāra)](patikulamanasikara.md) — `sourced`
 - [Attributeless devotion](nirguna-bhakti.md) — `sourced`
 - [Austerity (tapas)](tapas.md) — `sourced`
 - [Austerity of body, speech and mind](threefold-tapas.md) — `skeleton`
@@ -121,7 +124,6 @@ skeleton: 1302 · sourced: 223
 - [Chöd: the visualized offering of the body (lus sbyin)](chod.md) — `skeleton`
 - [Circumambulation (pradakṣiṇa)](pradaksina.md) — `skeleton`
 - [Circumambulation of Vraja (vraja-parikramā)](vraja-parikrama.md) — `skeleton`
-- [Clear comprehension (sampajañña)](sampajanna.md) — `skeleton`
 - [Clear-light yoga](clear-light-yoga.md) — `skeleton`
 - [Closing the doors of the senses with the intellect](indriya-dvara-pidhana.md) — `skeleton`
 - [Closing the senses (ṣaṇmukhī)](shanmukhi-mudra.md) — `sourced`
@@ -150,24 +152,25 @@ skeleton: 1302 · sourced: 223
 - [Contemplating the body's impurity](body-foulness-contemplation.md) — `sourced`
 - [Contemplating the Lord in his manifestations (vibhūti)](vibhuti-cintana.md) — `skeleton`
 - [Contemplation 'I am you' (identity with the Goddess)](aham-bhavana-devi.md) — `skeleton`
-- [Contemplation of dhammas (dhammānupassanā)](dhammanupassana.md) — `skeleton`
-- [Contemplation of feelings (vedanānupassanā)](vedananupassana.md) — `skeleton`
-- [Contemplation of mind (cittānupassanā)](cittanupassana.md) — `skeleton`
+- [Contemplation of dhammas (dhammānupassanā)](dhammanupassana.md) — `sourced`
+- [Contemplation of feelings (vedanānupassanā)](vedananupassana.md) — `sourced`
+- [Contemplation of mind (cittānupassanā)](cittanupassana.md) — `sourced`
 - [Contemplation of oneself as the reflection of Nārāyaṇa](bimba-pratibimba-dhyana.md) — `skeleton`
 - [Contemplation of Parting from the Four Attachments](parting-four-attachments-contemplation.md) — `skeleton`
-- [Contemplation of the aggregates](khandha-anupassana.md) — `skeleton`
 - [Contemplation of the bleeding corpse (lohitaka)](asubha-bleeding.md) — `skeleton`
 - [Contemplation of the bloated corpse (uddhumātaka)](asubha-bloated.md) — `skeleton`
-- [Contemplation of the body (kāyānupassanā)](kayanupassana.md) — `skeleton`
+- [Contemplation of the body (kāyānupassanā)](kayanupassana.md) — `sourced`
 - [Contemplation of the body as the Śrīcakra](sricakra-bhavana.md) — `sourced`
 - [Contemplation of the body as the Śrīcakra (Bhāvanā Upaniṣad)](bhavana-sricakra-deha.md) — `skeleton`
 - [Contemplation of the cut up corpse (vicchiddaka)](asubha-cut-up.md) — `skeleton`
 - [Contemplation of the festering corpse (vipubbaka)](asubha-festering.md) — `skeleton`
+- [Contemplation of the five aggregates of clinging](khandha-anupassana.md) — `sourced`
 - [Contemplation of the gnawed corpse (vikkhāyitaka)](asubha-gnawed.md) — `skeleton`
 - [Contemplation of the Goddess as kuṇḍalinī](lalita-kundalini-dhyana.md) — `skeleton`
 - [Contemplation of the hacked and scattered corpse (hatavikkhittaka)](asubha-hacked-and-scattered.md) — `skeleton`
 - [Contemplation of the inner liṅga of light](pranalinga-anusandhana.md) — `skeleton`
 - [Contemplation of the livid corpse (vinīlaka)](asubha-livid.md) — `skeleton`
+- [Contemplation of the postures (iriyāpatha)](iriyapatha.md) — `sourced`
 - [Contemplation of the scattered corpse (vikkhittaka)](asubha-scattered.md) — `skeleton`
 - [Contemplation of the skeleton corpse (aṭṭhika)](asubha-skeleton.md) — `skeleton`
 - [Contemplation of the three natures](three-nature-contemplation.md) — `skeleton`
@@ -548,11 +551,10 @@ skeleton: 1302 · sourced: 223
 - [Mind training (blo sbyong)](lojong.md) — `skeleton`
 - [Mind-training transference at death (the five powers)](lojong-at-death.md) — `skeleton`
 - [Mindfulness directed to the body (kāyagatāsati)](kayagatasati.md) — `skeleton`
-- [Mindfulness of breathing (ānāpānasati)](anapanasati.md) — `skeleton`
+- [Mindfulness of breathing (ānāpānassati)](anapanasati.md) — `sourced`
 - [Mindfulness of breathing (Śrāvakabhūmi)](anapanasmrti-sravakabhumi.md) — `skeleton`
 - [Mindfulness of breathing in six phases (Abhidharmakośa)](anapanasmrti-sixfold.md) — `skeleton`
 - [Mindfulness of death (maraṇassati)](maranassati.md) — `skeleton`
-- [Mindfulness of the postures](iriyapatha.md) — `skeleton`
 - [Moderate diet (mitāhāra) in the haṭha texts](mitahara.md) — `sourced`
 - [Moderation in eating](bhojane-mattannuta.md) — `skeleton`
 - [Moderation in food, sleep, recreation and effort](moderation-in-food-and-sleep.md) — `skeleton`
@@ -767,8 +769,6 @@ skeleton: 1302 · sourced: 223
 - [Reflection (manana)](manana.md) — `sourced`
 - [Reflection (manana) by reasoning](manana-nyaya.md) — `skeleton`
 - [Reflection before, during and after action; wise use of requisites](paccavekkhana.md) — `skeleton`
-- [Reflection on the elements (dhātumanasikāra)](dhatumanasikara.md) — `skeleton`
-- [Reflection on the parts of the body (paṭikūlamanasikāra)](patikulamanasikara.md) — `skeleton`
 - [Refuge and prostration](refuge-and-prostration.md) — `skeleton`
 - [Refuge with prostrations](refuge-prostrations.md) — `skeleton`
 - [Refusing flesh (pulāl maṟuttal)](pulal-maruttal.md) — `skeleton`
@@ -1039,7 +1039,7 @@ skeleton: 1302 · sourced: 223
 - [The four dhyānas](four-dhyanas.md) — `skeleton`
 - [The four dhyānas of the Laṅkāvatāra](four-dhyanas-lankavatara.md) — `skeleton`
 - [The four dissolutions (Aṣṭāvakra Gītā)](laya-astavakra.md) — `sourced`
-- [The four establishments of mindfulness (satipaṭṭhāna)](satipatthana.md) — `skeleton`
+- [The four establishments of mindfulness (satipaṭṭhāna)](satipatthana.md) — `sourced`
 - [The four formless attainments](formless-attainments.md) — `skeleton`
 - [The four great vows (inward form)](four-great-vows.md) — `skeleton`
 - [The four immeasurables (apramāṇa)](four-immeasurables.md) — `skeleton`
@@ -1095,7 +1095,7 @@ skeleton: 1302 · sourced: 223
 - [The Navapada Olī (āyambil fast)](navapada-oli.md) — `skeleton`
 - [The Navarātri observance](navaratri-vrata.md) — `sourced`
 - [The neither-one-nor-many reasoning](neither-one-nor-many-reasoning.md) — `skeleton`
-- [The nine charnel-ground contemplations](navasivathika.md) — `skeleton`
+- [The nine charnel-ground contemplations (navasivathikā)](navasivathika.md) — `sourced`
 - [The nine forms of devotion (navadhā bhakti)](navadha-bhakti.md) — `sourced`
 - [The nine means of devotion (Adhyātma Rāmāyaṇa)](navadha-bhakti-adhyatma-ramayana.md) — `sourced`
 - [The nine stages of settling the mind (navākārā cittasthiti)](nine-mental-abidings.md) — `skeleton`
@@ -1484,22 +1484,22 @@ skeleton: 1302 · sourced: 223
 - [Ālocanā (confession to the teacher)](alocana.md) — `skeleton`
 - [Āmbhasī dhāraṇā (water-concentration)](ambhasi-dharana.md) — `skeleton`
 - [Ānupūrvī (permuted recitation)](anupurvi.md) — `skeleton`
-- [Ānāpānasati step 10: gladdening the mind (abhippamodayaṁ cittaṁ)](anapanasati-step-10.md) — `skeleton`
-- [Ānāpānasati step 11: concentrating the mind (samādahaṁ cittaṁ)](anapanasati-step-11.md) — `skeleton`
-- [Ānāpānasati step 12: liberating the mind (vimocayaṁ cittaṁ)](anapanasati-step-12.md) — `skeleton`
-- [Ānāpānasati step 13: contemplating impermanence (aniccānupassī)](anapanasati-step-13.md) — `skeleton`
-- [Ānāpānasati step 14: contemplating fading away (virāgānupassī)](anapanasati-step-14.md) — `skeleton`
-- [Ānāpānasati step 15: contemplating cessation (nirodhānupassī)](anapanasati-step-15.md) — `skeleton`
-- [Ānāpānasati step 16: contemplating relinquishment (paṭinissaggānupassī)](anapanasati-step-16.md) — `skeleton`
-- [Ānāpānasati step 1: long breath (dīghaṁ assasāmī)](anapanasati-step-01.md) — `skeleton`
-- [Ānāpānasati step 2: short breath (rassaṁ assasāmī)](anapanasati-step-02.md) — `skeleton`
-- [Ānāpānasati step 3: experiencing the whole body (sabbakāyapaṭisaṁvedī)](anapanasati-step-03.md) — `skeleton`
-- [Ānāpānasati step 4: calming the bodily formation (passambhayaṁ kāyasaṅkhāraṁ)](anapanasati-step-04.md) — `skeleton`
-- [Ānāpānasati step 5: experiencing rapture (pītipaṭisaṁvedī)](anapanasati-step-05.md) — `skeleton`
-- [Ānāpānasati step 6: experiencing bliss (sukhapaṭisaṁvedī)](anapanasati-step-06.md) — `skeleton`
-- [Ānāpānasati step 7: experiencing the mental formation (cittasaṅkhārapaṭisaṁvedī)](anapanasati-step-07.md) — `skeleton`
-- [Ānāpānasati step 8: calming the mental formation (passambhayaṁ cittasaṅkhāraṁ)](anapanasati-step-08.md) — `skeleton`
-- [Ānāpānasati step 9: experiencing the mind (cittapaṭisaṁvedī)](anapanasati-step-09.md) — `skeleton`
+- [Ānāpānasati step 10: gladdening the mind (abhippamodayaṁ cittaṁ)](anapanasati-step-10.md) — `sourced`
+- [Ānāpānasati step 11: concentrating the mind (samādahaṁ cittaṁ)](anapanasati-step-11.md) — `sourced`
+- [Ānāpānasati step 12: liberating the mind (vimocayaṁ cittaṁ)](anapanasati-step-12.md) — `sourced`
+- [Ānāpānasati step 13: contemplating impermanence (aniccānupassī)](anapanasati-step-13.md) — `sourced`
+- [Ānāpānasati step 14: contemplating fading away (virāgānupassī)](anapanasati-step-14.md) — `sourced`
+- [Ānāpānasati step 15: contemplating cessation (nirodhānupassī)](anapanasati-step-15.md) — `sourced`
+- [Ānāpānasati step 16: contemplating relinquishment (paṭinissaggānupassī)](anapanasati-step-16.md) — `sourced`
+- [Ānāpānasati step 1: long breath (dīghaṁ assasāmī)](anapanasati-step-01.md) — `sourced`
+- [Ānāpānasati step 2: short breath (rassaṁ assasāmī)](anapanasati-step-02.md) — `sourced`
+- [Ānāpānasati step 3: experiencing the whole body (sabbakāyapaṭisaṁvedī)](anapanasati-step-03.md) — `sourced`
+- [Ānāpānasati step 4: calming the bodily formation (passambhayaṁ kāyasaṅkhāraṁ)](anapanasati-step-04.md) — `sourced`
+- [Ānāpānasati step 5: experiencing rapture (pītipaṭisaṁvedī)](anapanasati-step-05.md) — `sourced`
+- [Ānāpānasati step 6: experiencing pleasure (sukhapaṭisaṁvedī)](anapanasati-step-06.md) — `sourced`
+- [Ānāpānasati step 7: experiencing the mental formation (cittasaṅkhārapaṭisaṁvedī)](anapanasati-step-07.md) — `sourced`
+- [Ānāpānasati step 8: calming the mental formation (passambhayaṁ cittasaṅkhāraṁ)](anapanasati-step-08.md) — `sourced`
+- [Ānāpānasati step 9: experiencing the mind (cittapaṭisaṁvedī)](anapanasati-step-09.md) — `sourced`
 - [Ātmārtha-pūjā (daily private worship of Śiva)](atmartha-puja.md) — `skeleton`
 - [Āyambil (plain-food fast)](ayambil.md) — `skeleton`
 - [Ōryōki (formal monastic meal)](oryoki.md) — `skeleton`

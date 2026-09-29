@@ -24,10 +24,10 @@ Noble right concentration is unification of mind supported by the other seven pa
 
 _level: unmarked · standpoint: analytic · path: general · stage: advanced · types: practice_
 
-terms: [sammāsamādhi](../terms/samma-samadhi.md), [sammādiṭṭhi](../terms/samma-ditthi.md), [lokuttara](../terms/lokuttara.md) · concepts: [The noble eightfold path](../concepts/noble-eightfold-path.md), [The ten factors of the arahant](../concepts/ten-samatta.md)
+terms: [sammāsamādhi](../terms/samma-samadhi.md), [sammādiṭṭhi](../terms/samma-ditthi.md), [lokuttara](../terms/lokuttara.md) · concepts: [The noble eightfold path (ariya aṭṭhaṅgika magga)](../concepts/noble-eightfold-path.md), [The ten factors of the arahant](../concepts/ten-samatta.md)
 
 
 _Notes: SuttaCentral uid mn117; Mahāsaṅgīti title 'Mahācattārīsakasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

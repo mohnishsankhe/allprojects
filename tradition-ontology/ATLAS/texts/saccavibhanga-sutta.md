@@ -24,10 +24,10 @@ Sāriputta is like one who gives birth, Moggallāna like one who nurses the newb
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation, teacher-transmission_
 
-concepts: [The four noble truths](../concepts/four-noble-truths.md) · teachers: [Sāriputta](../teachers/sariputta.md), [Mahāmoggallāna](../teachers/moggallana.md)
+concepts: [The four noble truths (cattāri ariyasaccāni)](../concepts/four-noble-truths.md) · teachers: [Sāriputta](../teachers/sariputta.md), [Mahāmoggallāna](../teachers/moggallana.md)
 
 
 _Notes: SuttaCentral uid mn141; Mahāsaṅgīti title 'Saccavibhaṅgasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

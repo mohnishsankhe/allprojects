@@ -43,4 +43,4 @@ terms: [shinian](../terms/shinian.md) · practices: [The morning ten recitations
 _Notes: Read locally (T47n1968)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._

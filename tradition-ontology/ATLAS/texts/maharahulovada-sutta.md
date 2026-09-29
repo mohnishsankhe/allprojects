@@ -24,7 +24,7 @@ The internal and external earth, water, fire, air and space elements are to be s
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: body-layers_
 
-concepts: [The four great elements](../concepts/four-elements.md) · practices: [Reflection on the elements (dhātumanasikāra)](../practices/dhatumanasikara.md) · teachers: [Rāhula](../teachers/rahula.md)
+concepts: [The four great elements](../concepts/four-elements.md) · practices: [Attention to the elements (dhātumanasikāra)](../practices/dhatumanasikara.md) · teachers: [Rāhula](../teachers/rahula.md)
 
 ### 13-17 <a id="tea-maharahulovada-sutta-13-17"></a>
 `skeleton` · confidence high
@@ -33,7 +33,7 @@ Meditate like the earth, water, fire, air and space, which are not troubled by t
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-practices: [Reflection on the elements (dhātumanasikāra)](../practices/dhatumanasikara.md) · teachers: [Rāhula](../teachers/rahula.md)
+practices: [Attention to the elements (dhātumanasikāra)](../practices/dhatumanasikara.md) · teachers: [Rāhula](../teachers/rahula.md)
 
 ### 18-24 <a id="tea-maharahulovada-sutta-18-24"></a>
 `skeleton` · confidence high
@@ -51,10 +51,10 @@ Mindfulness of breathing, developed in sixteen steps, is of great fruit; develop
 
 _level: conventional · standpoint: seeker · path: meditation, body-breath · stage: all · types: practice, death-dying_
 
-practices: [Mindfulness of breathing (ānāpānasati)](../practices/anapanasati.md) · teachers: [Rāhula](../teachers/rahula.md)
+practices: [Mindfulness of breathing (ānāpānassati)](../practices/anapanasati.md) · teachers: [Rāhula](../teachers/rahula.md)
 
 
 _Notes: SuttaCentral uid mn62; Mahāsaṅgīti title 'Mahārāhulovādasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

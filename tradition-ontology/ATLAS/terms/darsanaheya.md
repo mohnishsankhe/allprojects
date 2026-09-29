@@ -14,4 +14,4 @@
 **Related:** [bhāvanāheya](bhavanaheya.md), [darśanamārga](darsanamarga.md)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._

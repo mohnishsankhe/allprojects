@@ -14,4 +14,4 @@
 Nāgeśa Bhaṭṭa's large systematic work on grammatical philosophy: the powers of words (abhidhā, lakṣaṇā, vyañjanā), sentence meaning, sphoṭa and the levels of speech.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._

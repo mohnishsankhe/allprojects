@@ -14,4 +14,4 @@
 Indian master of the kriyā, caryā and yoga tantras (8th c.), author of commentaries on the Mahāvairocana and the Tattvasaṃgraha (Tantrārthāvatāra); invited to Tibet under Trisong Detsen but declined, sending a letter.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._

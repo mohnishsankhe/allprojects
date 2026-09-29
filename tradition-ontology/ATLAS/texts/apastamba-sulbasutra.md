@@ -18,4 +18,4 @@ The Āpastamba rules for measuring and constructing the altars (praśna 30 of th
 
 - 2026-09-28 catalog: confirmed — catalog:raw_etexts:Apastamba_Shulba_Sutra, catalog:GRETIL-dev:apastama-sulbasutra, https://hindupedia.com/en/Apastamba — Extant; praśna 30 of the Kalpasūtra.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._

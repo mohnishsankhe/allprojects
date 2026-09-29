@@ -18,4 +18,4 @@
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:visnu-purana:1.22.56-57, tea:visnu-purana:6.7.61-63 — All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas, skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._

@@ -13,4 +13,4 @@
 Tendai preacher of the Agui line, close to Hōnen, author of the Yuishinshō which Shinran copied and commented on.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._

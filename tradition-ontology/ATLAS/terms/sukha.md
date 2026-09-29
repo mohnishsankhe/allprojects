@@ -28,4 +28,4 @@
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.4, tea:bhagavad-gita:12.13, tea:bhagavad-gita:12.18 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.7, tea:bhagavad-gita:13.21, tea:bhagavad-gita:14.6, tea:bhagavad-gita:14.9, tea:bhagavad-gita:14.27 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U37-abhidhamma-visuddhimagga, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:15 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U37-abhidhamma-visuddhimagga, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 21:52 IST._

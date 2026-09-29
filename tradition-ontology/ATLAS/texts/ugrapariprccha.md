@@ -28,4 +28,4 @@ concepts: [The bodhisattva path](../concepts/bodhisattva-path.md) · practices: 
 _Notes: T322/T323 in local CBETA T12._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._

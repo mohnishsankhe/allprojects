@@ -13,4 +13,4 @@ A ritual on a square ground with coconut, betel leaves and lamps, performed by t
 _Notes: Details from secondary accounts; low confidence._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._

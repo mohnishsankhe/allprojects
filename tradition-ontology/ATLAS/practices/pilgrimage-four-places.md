@@ -13,4 +13,4 @@ Visiting with a faithful heart the places of the Buddha's birth, awakening, firs
   - [Mahāparinibbāna Sutta](../texts/mahaparinibbana-sutta.md) — ref: 5.8; rests_on: ["tea:mahaparinibbana-sutta:5.8"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

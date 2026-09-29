@@ -9,4 +9,4 @@
 Byagghapajja, a Koliyan householder taught the four sources of welfare now and hereafter (AN 8.54).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

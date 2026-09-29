@@ -38,4 +38,4 @@ _Notes: The epic side's reference is recalled with low confidence; the Ājīvika
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh13.json (BORI critical edition), catalog:SC:dn2 "Sāmaññaphalasutta", local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — Mokṣopāya side verified (2.4.8-18, 2.6.1-6, 2.8.1-5; beings became Viṣṇu and others by effort, 2.4.14, 2.7.31). The low-confidence epic side is confirmed at MBh CE 13.6.7-8, the seed-and-field analogy of the Vasiṣṭha-Brahmā dialogue. The Ājīvika report is at DN 2 (dn2:20.6, 'niyatisaṅgatibhāvapariṇatā').
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._

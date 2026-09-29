@@ -20,4 +20,4 @@
 The HYP's form of the four stages (pth:hatha-four-stages, U51) keyed to the knots and the inner sounds. Banding is an interpretation: ārambha as one-pointed absorption in sound (B3), ghaṭa and paricaya as absorption with support (B4), niṣpatti = rājayoga = jīvanmukti (B7). The text has no separate 'seeing' stage (B5/B6); do not force one.
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 21:52 IST._

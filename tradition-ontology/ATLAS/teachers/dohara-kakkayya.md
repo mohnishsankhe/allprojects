@@ -10,4 +10,4 @@
 A leather-worker śaraṇa of 'untouchable' birth honoured among the devotees.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._

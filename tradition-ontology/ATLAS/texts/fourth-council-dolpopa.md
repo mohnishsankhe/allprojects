@@ -38,4 +38,4 @@ terms: [bka' bsdu bzhi pa](../terms/kadu-zhipa.md), [kṛta-yuga](../terms/krta-
 
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._

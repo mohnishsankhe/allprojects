@@ -14,4 +14,4 @@ Forgetting the Lord is supreme anguish for the devotee (NBS 19); the Āḻvārs 
   - [Periyāḻvār Tirumoḻi](../texts/periyalvar-tirumoli.md) — ref: 4.10.1; rests_on: ["tea:periyalvar-tirumoli:4.10.1"]
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 21:52 IST._

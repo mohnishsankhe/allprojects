@@ -37,7 +37,7 @@ The reformist Thai tradition of Buddhadāsa Bhikkhu (1906–1993) and his forest
 [Buddhadāsa Bhikkhu](../teachers/buddhadasa.md)
 
 ## Practices
-[Mindfulness of breathing (ānāpānasati)](../practices/anapanasati.md)
+[Mindfulness of breathing (ānāpānassati)](../practices/anapanasati.md)
 
 ## Path maps
 _none recorded_
@@ -46,4 +46,4 @@ _none recorded_
 [Does dependent origination describe rebirth across three lives, or a process in present experience?](../debates/dependent-origination-three-lives-or-present.md)
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._

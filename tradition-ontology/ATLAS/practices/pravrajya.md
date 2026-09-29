@@ -15,4 +15,4 @@ Leaving home: shaving the head, taking robes, the refuges and the ten novice pre
 _Notes: Common to all the Vinayas; details and counts differ by school._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._

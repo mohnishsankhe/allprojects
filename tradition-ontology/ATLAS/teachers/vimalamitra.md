@@ -17,4 +17,4 @@ Indian paṇḍita invited to Tibet under Trisong Detsen; he translated the Guhy
 **Realization — the tradition's account:** Attained the great transference rainbow body ('ja' lus 'pho ba chen po).
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._

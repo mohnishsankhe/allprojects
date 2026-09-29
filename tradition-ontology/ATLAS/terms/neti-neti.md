@@ -17,4 +17,4 @@
 **Related:** [tattvābhyāsa](tattvabhyasa.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U03-principal-upanisads, skeleton:U13-advaita. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U03-principal-upanisads, skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._

@@ -12,4 +12,4 @@
 Author of the Vinayasūtra; with Śākyaprabha counted in Tibet as one of the 'two supreme ones' of the Vinaya.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._

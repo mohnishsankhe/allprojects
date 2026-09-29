@@ -21,4 +21,4 @@
 **Related:** [vicāraṇā](vicarana.md), [mokṣadvārapāla](moksa-dvarapala.md), [vitakka](vitakka.md)
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U10-yoga, skeleton:U36-pali-suttas, skeleton:U35-jain-philosophy, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U10-yoga, skeleton:U36-pali-suttas, skeleton:U35-jain-philosophy, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._

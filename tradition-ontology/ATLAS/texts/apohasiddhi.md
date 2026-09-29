@@ -29,4 +29,4 @@ terms: [apoha](../terms/apoha.md) · concepts: [Exclusion (apoha) as the meaning
 
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._

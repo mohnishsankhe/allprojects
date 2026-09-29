@@ -11,4 +11,4 @@
 Kashmiri author of the Kāvyaprakāśa, the most influential synthesis of poetics along the lines of Ānandavardhana and Abhinavagupta.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._

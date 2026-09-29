@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [Clear light (prabhāsvara)](clear-light-vajrayana.md) (direct pointing-out vs. completion-stage yoga): The siddhas' 'clear light of one's own mind' and the Ārya school's fourth empty are described in the same words (prabhāsvara); the first is pointed out directly, the second reached through the dissolution of winds. — rests on [v12](../texts/ganga-mahamudra.md#tea-ganga-mahamudra-v12), [2.5](../texts/pancakrama.md#tea-pancakrama-2-5)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._

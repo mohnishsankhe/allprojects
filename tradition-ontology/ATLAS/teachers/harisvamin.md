@@ -13,4 +13,4 @@ Commentator on the Śatapatha Brāhmaṇa (partly surviving).
 
 - 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit — Low-confidence entry confirmed: his commentary on the Śatapatha was completed in Kali 3740 = 638 CE, i.e. 7th c. (search summary; edition with Sāyaṇa and Harisvāmin).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._

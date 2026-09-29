@@ -14,4 +14,4 @@ Bhagavad Gītā 1–3: The turbulent senses forcibly carry off the mind even of 
   - [Anugītā](../texts/anugita.md) — ref: 14.30; rests_on: ["tea:anugita:14.30"]
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._

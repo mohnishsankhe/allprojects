@@ -11,4 +11,4 @@
 Pupil of Dharasena and co-author of the Ṣaṭkhaṇḍāgama, of which he wrote the opening (Satprarūpaṇā); the gods are said to have straightened his uneven teeth, hence the name.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._

@@ -18,4 +18,4 @@ Nāgeśa Bhaṭṭa's treatise on the interpretive metarules (paribhāṣā) by 
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:GRETIL-dev:nagesa_paribhasendusekhara, https://content.www.wellcomecollection.org/concepts/q9rxa6fe — Extant. Nāgeśa Bhaṭṭa, active 1670–1750 (Wellcome authority record); written at Benares early in the 18th c.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._

@@ -11,4 +11,4 @@ An earlier commentator whose exposition Śabara reproduces on MS 1.1.3–5 ('the
 _Notes: Identity disputed (Upavarṣa? Bodhāyana? Bhavadāsa?). Scholarly literature calls this passage the Vṛttikāragrantha._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 21:52 IST._

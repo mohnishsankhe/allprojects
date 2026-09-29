@@ -11,4 +11,4 @@
 A Tamil–Sanskrit (Maṇipravāḷa) prose account of the sixty-three illustrious persons, following Guṇabhadra's Uttarapurāṇa (low confidence).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._

@@ -280,7 +280,7 @@ The person of middling scope contemplates the sufferings of saṃsāra in genera
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: karma-liberation, world-fate_
 
-concepts: [The three kinds of suffering (Buddhist)](../concepts/three-sufferings.md), [The four noble truths](../concepts/four-noble-truths.md) · practices: [Meditation on the stages of the path](../practices/lamrim-meditation.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
+concepts: [The three kinds of suffering (Buddhist)](../concepts/three-sufferings.md), [The four noble truths (cattāri ariyasaccāni)](../concepts/four-noble-truths.md) · practices: [Meditation on the stages of the path](../practices/lamrim-meditation.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
 
 ### middle.three-trainings <a id="tea-lamrim-chenmo-middle-three-trainings"></a>
 `skeleton` · confidence high
@@ -331,4 +331,4 @@ concepts: [The three refuges](../concepts/three-refuges.md) · practices: [Going
 _Notes: Not local. Refs in this unit are section names (scope/topic), not page or folio numbers._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._

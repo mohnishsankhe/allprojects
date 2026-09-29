@@ -13,4 +13,4 @@
 Eulogy of the Pāśupata ācārya Bhāva Bṛhaspati, who came to Somanātha and, under Kumārapāla, directed the restoration of the temple.
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 21:52 IST._

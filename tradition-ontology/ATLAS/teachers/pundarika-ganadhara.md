@@ -9,4 +9,4 @@
 The first gaṇadhara of Ṛṣabha, who (Śvetāmbara tradition) attained liberation on Mount Śatruñjaya, the holiest Śvetāmbara pilgrimage hill (Puṇḍarīkagiri).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._

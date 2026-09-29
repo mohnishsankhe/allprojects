@@ -30,4 +30,4 @@ concepts: [Instruction to the dying](../concepts/dying-instruction.md) · practi
 _Notes: SuttaCentral uid mn143; Mahāsaṅgīti title 'Anāthapiṇḍikovādasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

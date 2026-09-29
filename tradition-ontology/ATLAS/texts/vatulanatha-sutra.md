@@ -27,4 +27,4 @@ _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: 
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry. Number of sūtras (c. 13) from the commentary's reference to 'thirteen discourses' - low._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._

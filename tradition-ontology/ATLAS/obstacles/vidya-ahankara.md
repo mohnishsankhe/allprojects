@@ -11,4 +11,4 @@ The proud who ponder many books go to a bad end; knowledge is not had by million
   - [Akulavīratantra](../texts/akulavira-tantra.md) — ref: b.76-78; rests_on: ["tea:akulavira-tantra:b.76-78"]
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._

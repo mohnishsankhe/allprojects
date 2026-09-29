@@ -19,4 +19,4 @@ One foot set firmly on the other thigh and the other thigh on the other foot (HY
 _Notes: Listed in the Yoga-bhāṣya on YS 2.46. U10's paraphrase of that list omits vīrāsana; the unit recalls 'padmāsanaṃ vīrāsanaṃ bhadrāsanaṃ svastikaṃ …' — check the bhāṣya. Yoga Yājñavalkya ch. 3 is recalled (low confidence) to describe eight postures: svastika, gomukha, padma, vīra, siṃha, bhadra, mukta, mayūra._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 21:52 IST._

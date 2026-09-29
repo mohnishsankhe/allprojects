@@ -9,4 +9,4 @@
 The woman to whom Yājñavalkya teaches the eight-limbed yoga in the Yoga Yājñavalkya; the text presents her as a learned woman (and, in some readings, as his wife). Her identity with the Upaniṣadic Gārgī Vācaknavī (tch:gargi-vacaknavi) is not settled.
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 21:52 IST._

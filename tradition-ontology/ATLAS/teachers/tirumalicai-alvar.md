@@ -19,4 +19,4 @@ Author of the Nāṉmukaṉ Tiruvantāti and the Tiruccanta Viruttam; the Āḻv
 _Notes: Aṃśa of the discus Sudarśana in the tradition's list (low confidence)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 21:52 IST._

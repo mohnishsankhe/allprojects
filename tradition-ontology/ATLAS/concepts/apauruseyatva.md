@@ -15,4 +15,4 @@
 - opposes → [Īśvara (the Lord)](isvara.md): a creator-author of the Veda is rejected — rests on [sambandhaksepaparihara.42-47](../texts/slokavarttika.md#tea-slokavarttika-sambandhaksepaparihara-42-47)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U12-mimamsa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U12-mimamsa. Generated 2026-09-29 21:52 IST._

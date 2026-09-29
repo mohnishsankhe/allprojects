@@ -23,4 +23,4 @@ A special devotion (bhakti) to Īśvara, offering all actions to the supreme tea
 - partial: `prc:bhakti` — Vyāsa defines praṇidhāna as a special bhakti; in Yoga its fruit is samādhi, not union with the Lord
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 21:52 IST._

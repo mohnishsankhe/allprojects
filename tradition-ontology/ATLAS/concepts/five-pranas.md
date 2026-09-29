@@ -18,4 +18,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/maitri-upanisad/segments.j — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 1.5.3; PrU 3.5-7; ChU 3.13; ChU 5.19-23). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 21:52 IST._

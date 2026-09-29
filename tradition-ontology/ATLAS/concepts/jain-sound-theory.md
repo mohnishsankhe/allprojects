@@ -13,4 +13,4 @@
 - opposes → [The authorless Veda (apauruṣeyatva)](apauruseyatva.md): Against the Mīmāṃsā doctrine of eternal sound and an authorless Veda. — rests on [5.24](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-5-24)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._

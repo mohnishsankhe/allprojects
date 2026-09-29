@@ -116,4 +116,4 @@ _Notes: Local copy: raw_etexts/shixA/sAdhAraNI/paniniya_shiksha.md (verse number
 - 2026-09-28 catalog+text-locate: confirmed — catalog:raw_etexts:paniniya_shiksha, text:sources_raw/raw_etexts/shixA/sAdhAraNI/paniniya_shiksha.md — Extant; verse numbers 32–33, 52, 54–55 confirmed in the local text; the text calls itself the work of Dākṣīputra Pāṇini (vv. 40, 56).
 - 2026-09-28 catalog+text-locate: confirmed — catalog:raw_etexts:paniniya_shiksha — Extant (60 verses locally). Verses 3, 6–9, 13, 25, 31–33, 41–42, 52 and 56–57 were text-located. Pāṇini is spoken of in the third person at v. 40 ('dākṣīputraḥ pāṇininā') and vv. 56–59, which supports the entry's scholarly note.
 
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-29 21:52 IST._

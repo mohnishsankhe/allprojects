@@ -20,4 +20,4 @@
 _Notes: Homonym: in haṭha/tantric Hindu anatomy svādhiṣṭhāna is the second cakra (other units' definitions)._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads. Generated 2026-09-29 21:52 IST._

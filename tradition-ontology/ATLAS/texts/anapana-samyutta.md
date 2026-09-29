@@ -23,7 +23,7 @@ One thing developed and cultivated is of great fruit and benefit: mindfulness of
 
 _level: conventional · standpoint: seeker · path: meditation, body-breath · stage: all · types: practice_
 
-practices: [Mindfulness of breathing (ānāpānasati)](../practices/anapanasati.md)
+practices: [Mindfulness of breathing (ānāpānassati)](../practices/anapanasati.md)
 
 ### 54.9 <a id="tea-anapana-samyutta-54-9"></a>
 `skeleton` · confidence high
@@ -32,8 +32,8 @@ At Vesālī the Buddha praised the meditation on foulness and went into seclusio
 
 _level: conventional · standpoint: seeker · path: meditation, body-breath · stage: all · types: practice, death-dying_
 
-practices: [Contemplation of the unlovely (aśubhā-bhāvanā)](../practices/asubha-bhavana.md), [Mindfulness of breathing (ānāpānasati)](../practices/anapanasati.md)
+practices: [Contemplation of the unlovely (aśubhā-bhāvanā)](../practices/asubha-bhavana.md), [Mindfulness of breathing (ānāpānassati)](../practices/anapanasati.md)
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

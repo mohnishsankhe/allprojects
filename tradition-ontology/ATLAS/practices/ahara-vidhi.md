@@ -21,4 +21,4 @@ Eat in the measure the fire can digest in due time; eat what is wholesome — wh
 _Notes: 'Diet by guṇa' in Āyurveda means chiefly the twenty physical qualities; the Gītā's sāttvika/rājasa/tāmasa foods belong to U05._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._

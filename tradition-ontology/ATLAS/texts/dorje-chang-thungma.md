@@ -64,4 +64,4 @@ terms: [vikalpa](../terms/vikalpa.md), [dharmakāya](../terms/dharmakaya.md) · 
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._

@@ -92,7 +92,7 @@ At Ṛṣivadana the Buddha tells the five monks that there are two extremes for
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: karma-liberation, teacher-transmission_
 
-concepts: [The four noble truths](../concepts/four-noble-truths.md)
+concepts: [The four noble truths (cattāri ariyasaccāni)](../concepts/four-noble-truths.md)
 
 ### 3.335 <a id="tea-mahavastu-3-335"></a>
 `skeleton` · confidence high
@@ -107,4 +107,4 @@ concepts: [The five aggregates](../concepts/five-aggregates.md) · disputes: [Is
 
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._

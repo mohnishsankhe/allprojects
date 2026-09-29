@@ -14,4 +14,4 @@ Described by Hemacandra only as a wonder, reached (if at all) by long breath-pra
 - It may not succeed even with great effort over a long time, and it is merely a marvel. — [Yogaśāstra (Hemacandra)](../texts/yogasastra-hemacandra.md) 6.1
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._

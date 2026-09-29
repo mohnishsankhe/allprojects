@@ -18,4 +18,4 @@ U21 contribution: powers, the nether regions and alchemy, even when obtained, ar
   - [Prabhuliṅgalīle (Cāmarasa)](../texts/prabhulingalile.md) — ref: Gorakṣa episode; rests_on: ["tea:prabhulingalile:episode-goraksa"]
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U23-sakta-srividya, skeleton:U19-kashmir-saivism, skeleton:U20-virasaiva. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U23-sakta-srividya, skeleton:U19-kashmir-saivism, skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._

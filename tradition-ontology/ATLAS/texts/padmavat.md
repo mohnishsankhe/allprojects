@@ -14,4 +14,4 @@ Malik Muhammad Jāyasī's Avadhi epic (1540), in which King Ratansen takes the y
 _Notes: Sufi-context literature, context only._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._

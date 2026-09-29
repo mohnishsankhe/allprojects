@@ -51,7 +51,7 @@ The Buddha teaches the dharma to beings with reference to one vehicle only, the 
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: all · types: ultimate, teacher-transmission_
 
-terms: [ekayāna](../terms/ekayana.md), [triyāna](../terms/triyana.md), [buddhayāna](../terms/buddhayana.md), [upāyakauśalya](../terms/upaya-kausalya.md), [pañcakaṣāya](../terms/pancakasaya.md) · concepts: [The one vehicle (ekayāna)](../concepts/one-vehicle.md), [The three vehicles](../concepts/three-vehicles.md), [Skillful means (upāyakauśalya)](../concepts/skillful-means.md) · obstacles: [The five turbidities (pañcakaṣāya)](../obstacles/five-turbidities.md) · disputes: [Is the one vehicle the final truth and the three vehicles a skillful means — or are the three vehicles real and the 'one vehicle' spoken with an intention?](../debates/one-vehicle-or-three.md), [Can all beings attain buddhahood, or are there beings (icchantikas, those without lineage) who never will?](../debates/can-all-beings-attain-buddhahood.md)
+terms: [ekāyana](../terms/ekayana.md), [triyāna](../terms/triyana.md), [buddhayāna](../terms/buddhayana.md), [upāyakauśalya](../terms/upaya-kausalya.md), [pañcakaṣāya](../terms/pancakasaya.md) · concepts: [The one vehicle (ekayāna)](../concepts/one-vehicle.md), [The three vehicles](../concepts/three-vehicles.md), [Skillful means (upāyakauśalya)](../concepts/skillful-means.md) · obstacles: [The five turbidities (pañcakaṣāya)](../obstacles/five-turbidities.md) · disputes: [Is the one vehicle the final truth and the three vehicles a skillful means — or are the three vehicles real and the 'one vehicle' spoken with an intention?](../debates/one-vehicle-or-three.md), [Can all beings attain buddhahood, or are there beings (icchantikas, those without lineage) who never will?](../debates/can-all-beings-attain-buddhahood.md)
 
 ### 2 <a id="tea-saddharmapundarika-2-3"></a>
 `skeleton` · confidence high
@@ -80,7 +80,7 @@ The parable of the burning house: a rich man's old house catches fire while his 
 
 _level: bridging · standpoint: divine · path: knowledge · stage: all · types: karma-liberation, teacher-transmission_
 
-terms: [upāyakauśalya](../terms/upaya-kausalya.md), [ekayāna](../terms/ekayana.md) · concepts: [The seven parables of the Lotus](../concepts/lotus-seven-parables.md), [Skillful means (upāyakauśalya)](../concepts/skillful-means.md), [The one vehicle (ekayāna)](../concepts/one-vehicle.md) · disputes: [Is the one vehicle the final truth and the three vehicles a skillful means — or are the three vehicles real and the 'one vehicle' spoken with an intention?](../debates/one-vehicle-or-three.md)
+terms: [upāyakauśalya](../terms/upaya-kausalya.md), [ekāyana](../terms/ekayana.md) · concepts: [The seven parables of the Lotus](../concepts/lotus-seven-parables.md), [Skillful means (upāyakauśalya)](../concepts/skillful-means.md), [The one vehicle (ekayāna)](../concepts/one-vehicle.md) · disputes: [Is the one vehicle the final truth and the three vehicles a skillful means — or are the three vehicles real and the 'one vehicle' spoken with an intention?](../debates/one-vehicle-or-three.md)
 
 ### 3 <a id="tea-saddharmapundarika-3-2"></a>
 `skeleton` · confidence high
@@ -270,4 +270,4 @@ practices: [Lotus repentance and Samantabhadra visualization](../practices/lotus
 _Notes: Locator convention: chapter numbers of Kumārajīva's 28-chapter version (mapping K→Skt: 1-11 same; K12 = Skt 11 (second half); K13-21 = Skt 12-20; K22 = Skt 27; K23-25 = Skt 22-24; K26 = Skt 21; K27-28 = Skt 25-26). Sanskrit chapter colophons checked locally._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._

@@ -16,4 +16,4 @@
 **Related:** [dhātu](dhatu.md)
 
 ---
-_Contributed by: skeleton:U32-jyotisa, skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U32-jyotisa, skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._

@@ -33,4 +33,4 @@ _none recorded_
 _Notes: As with lin:satyakaravada, the classification is largely Tibetan doxographic; Ratnākaraśānti presents his view as the meaning of Madhyamaka too, and later Tibetan authors (Jonang) read the Maitreya texts in a related way._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._

@@ -22,4 +22,4 @@ No: all the unconditioned is unreal — space is absence of resistance, nirvā�
 _Notes: Related dispute from the Theravāda side: dsp:kv-unconditioned-dhammas (U37, the Kathāvatthu debate); this entry records the cross-school debate — candidate for dedupe/merge at synthesis._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._

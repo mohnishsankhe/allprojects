@@ -17,4 +17,4 @@ _Notes: The meaning of 'offering prāṇas into prāṇas' is not spelled out in
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.30 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 18:15 IST._
+_Contributed by: extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 21:52 IST._

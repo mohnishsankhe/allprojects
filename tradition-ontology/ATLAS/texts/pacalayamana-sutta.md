@@ -24,10 +24,10 @@ To overcome drowsiness Moggallāna should not attend to the perception that brin
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice_
 
-practices: [Perception of light](../practices/aloka-sanna.md), [Walking meditation (caṅkama)](../practices/cankama.md) · obstacles: [Dullness and drowsiness (thīnamiddha)](../obstacles/thina-middha.md) · teachers: [Mahāmoggallāna](../teachers/moggallana.md)
+practices: [Perception of light](../practices/aloka-sanna.md), [Walking meditation (caṅkama)](../practices/cankama.md) · obstacles: [Dullness and drowsiness (thinamiddha)](../obstacles/thina-middha.md) · teachers: [Mahāmoggallāna](../teachers/moggallana.md)
 
 
 _Notes: SuttaCentral uid an7.61; Mahāsaṅgīti title 'Pacalāyamānasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

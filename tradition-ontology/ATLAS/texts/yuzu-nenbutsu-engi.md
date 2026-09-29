@@ -25,4 +25,4 @@ terms: [yūzū nenbutsu](../terms/yuzu-nenbutsu.md) · concepts: [Interfusion of
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._

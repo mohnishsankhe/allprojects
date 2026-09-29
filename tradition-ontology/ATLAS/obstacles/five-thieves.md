@@ -16,4 +16,4 @@ Lust, anger, greed, attachment and pride, which rob the house of the body; the g
 - partial: [Six enemies (ṣaḍ-ripu)](six-enemies.md) — Five of the six enemies (envy omitted).
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._

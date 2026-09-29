@@ -18,4 +18,4 @@ Candrakīrti's auto-commentary on the Madhyamakāvatāra, quoting many sūtras a
   - kind: original; name: local Sanskrit e-text of chs. 1–5 (madhyamakAvatAra.txt) — apparently a modern Sanskrit rendering
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._

@@ -13,4 +13,4 @@
 Harihara's ragaḷe life of Akka Mahādēvi: her devotion to Cennamallikārjuna, departure from the king's household, arrival at Kalyāṇa and journey to Śrīśaila.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._

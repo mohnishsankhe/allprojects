@@ -16,4 +16,4 @@ Telugu singer-saint of Tiruvaiyāru (1767–1847), devotee of Rāma, composer of
 _Notes: Born before 1800; not flagged recent._
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti, skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U26-regional-bhakti, skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._

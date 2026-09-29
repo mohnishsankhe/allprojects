@@ -14,4 +14,4 @@
 Advayavajra's 'Ten Verses on Reality' on mahāmudrā as neither sākāra nor nirākāra, with Sahajavajra's commentary (Tattvadaśakaṭīkā, Tōh 2254).
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._

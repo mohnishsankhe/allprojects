@@ -13,4 +13,4 @@ Water is sucked in through the mouth with a hissing sound and expelled through t
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 1.59-60; rests_on: ["tea:gheranda-samhita:1.59-60"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 21:52 IST._

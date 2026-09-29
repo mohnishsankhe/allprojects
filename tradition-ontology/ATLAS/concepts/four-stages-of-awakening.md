@@ -16,4 +16,4 @@
 - same-as-under-standpoint → [The four paths and four fruits](four-paths-and-fruits.md) (analytic): the Abhidhamma presentation of path and fruit (U37) — rests on [5.27](../texts/mahaparinibbana-sutta.md#tea-mahaparinibbana-sutta-5-27)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._

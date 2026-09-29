@@ -12,4 +12,4 @@ Unpurified or improperly prepared sulphur, mica, orpiment, realgar, pyrite, copp
   - [Rasaratnasamuccaya](../texts/rasaratnasamuccaya.md) — ref: 5.47-48, 5.73; rests_on: ["tea:rasaratnasamuccaya:5.47-73"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._

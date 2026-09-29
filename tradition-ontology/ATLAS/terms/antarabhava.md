@@ -22,4 +22,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools, skeleton:U44-indian-vajrayana, skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools, skeleton:U44-indian-vajrayana, skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._

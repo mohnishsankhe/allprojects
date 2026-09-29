@@ -21,4 +21,4 @@
 - leads-to → [Nirvāṇa in Madhyamaka](nirvana-in-madhyamaka.md): elaboration ceases in emptiness (MMK 18.5) — rests on [18.5](../texts/mulamadhyamakakarika.md#tea-mulamadhyamakakarika-18-5)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._

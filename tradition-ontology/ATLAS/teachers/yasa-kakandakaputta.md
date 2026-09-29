@@ -11,4 +11,4 @@ The elder who objected to the ten points of the Vajjian monks and called the Sec
 **Realization — the tradition's account:** Finding the Vajjiputtaka monks of Vesālī accepting gold and silver, he objected, was expelled by them, and gathered the elders (Revata, Sabbakāmī and others) for the council that rejected the ten points.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._

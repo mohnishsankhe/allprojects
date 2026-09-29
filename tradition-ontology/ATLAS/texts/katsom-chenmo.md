@@ -61,4 +61,4 @@ terms: [gcod (chöd)](../terms/chod.md), [prajñāpāramitā](../terms/prajnapar
 
 - 2026-09-29 catalog: confirmed — catalog:OpenPecha:P000053 "shes rab kyi pha rol tu phyin pa zab mo gcod kyi man ngag gi gzhung bka' tshoms chen mo" (author field: ma gcig lab kyi sgron ma) — catalogue hit proves a digitized edition exists, not author or date
 
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._

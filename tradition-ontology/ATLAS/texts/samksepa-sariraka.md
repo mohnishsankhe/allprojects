@@ -38,4 +38,4 @@ concepts: [Superimposition and retraction (adhyāropa-apavāda)](../concepts/adh
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._

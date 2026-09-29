@@ -10,4 +10,4 @@
 For jyotiṣa, the ancient sage whose saṃhitā on omens and lunar mansions (Vṛddhagargasaṃhitā) is the principal older source of Varāhamihira's saṃhitā; Varāhamihira says he will relate the portents that Garga taught to Atri (BS 45.1).
 
 ---
-_Contributed by: skeleton:U32-jyotisa, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U32-jyotisa, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 21:52 IST._

@@ -28,4 +28,4 @@ _Notes: One of the Bhāgavata's nine forms of devotion (prc:navadha-bhakti, U07)
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:11.14, tea:bhagavad-gita:11.35, tea:bhagavad-gita:11.39, tea:bhagavad-gita:11.40, tea:bhagavad-gita:11.44 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch10-12, skeleton:U25-alvar-bhakti-theory, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._
+_Contributed by: extraction:bhagavad-gita/ch10-12, skeleton:U25-alvar-bhakti-theory, skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._

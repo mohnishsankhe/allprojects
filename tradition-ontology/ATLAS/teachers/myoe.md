@@ -13,4 +13,4 @@
 Kegon (Huayan) monk of Kōzan-ji, known for strict precepts, dream records and the 'mantra of light'; after reading the Senchakushū he wrote the Zaijarin (1212) charging Hōnen with discarding the aspiration for awakening.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._

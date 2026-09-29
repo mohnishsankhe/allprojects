@@ -15,4 +15,4 @@
 **Related:** [ajñānabhūmikā](ajnana-bhumika.md), [manorājya](manorajya.md)
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._

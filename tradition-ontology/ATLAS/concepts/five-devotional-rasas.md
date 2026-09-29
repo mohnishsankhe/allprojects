@@ -15,4 +15,4 @@
 - contrasts-with → `cpt:nine-rasas-natyasastra`: the classical aesthetic rasas are worldly; Rūpa's are directed to Kṛṣṇa
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._

@@ -13,4 +13,4 @@ Fixing the mind on a white letter A in a sphere of light, then dissolving the su
 _Notes: Optional (Bön)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._

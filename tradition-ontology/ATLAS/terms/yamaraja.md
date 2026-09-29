@@ -16,4 +16,4 @@
 _Notes: Also: Yama, Dharmarāja_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._

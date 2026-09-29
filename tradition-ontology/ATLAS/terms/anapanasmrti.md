@@ -12,7 +12,7 @@
 - Chinese: annabanna nian 安那般那念 — exact
 
 ## Equivalents (interpretation layer)
-- exact: [ānāpānasati](anapanasati.md) — Sanskrit and Pali forms of the same canonical term; school definitions differ (see the per-lineage definitions).
+- exact: [ānāpānassati](anapanasati.md) — Sanskrit and Pali forms of the same canonical term; school definitions differ (see the per-lineage definitions).
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._

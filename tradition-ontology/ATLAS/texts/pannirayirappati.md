@@ -15,4 +15,4 @@
 A commentary on the Tiruvāymoḻi by Vādikesari Aḻagiya Maṇavāḷa Jīyar, giving word-by-word meanings.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 21:52 IST._

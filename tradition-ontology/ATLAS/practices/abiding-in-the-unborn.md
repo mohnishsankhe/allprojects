@@ -12,4 +12,4 @@ Bankei's teaching: without special practice or kōan struggle, simply do not tur
   - [Sermons of Bankei (Bankei zenji seppō)](../texts/bankei-zenji-seppo.md) — ref: unborn; rests_on: ["tea:bankei-zenji-seppo:unborn", "tea:bankei-zenji-seppo:no-koan"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

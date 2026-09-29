@@ -15,4 +15,4 @@
 - contrasts-with → [Māyā in the principal Upaniṣads](maya.md): Advaita's māyā is indeterminable and sublated by knowledge; the Śākta māyā is the real power of the Goddess — rests on [98](../texts/saundarya-lahari.md#tea-saundarya-lahari-98), [35](../texts/saundarya-lahari.md#tea-saundarya-lahari-35)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._

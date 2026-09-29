@@ -13,4 +13,4 @@
 Founder of the Oxhead school on Mount Niutou; in the tradition's account visited by Daoxin, after which birds no longer brought him flowers. Credited with the Xinming and the Jueguan lun.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

@@ -17,4 +17,4 @@
 Scholar-yogin who synthesized Mahāmudrā, the Six Yogas and Dzogchen (the Karma Nyingthig); author of the Profound Inner Meaning, the Aspiration Prayer of Mahāmudrā, Distinguishing Consciousness and Wisdom and the Treatise on Buddha-Nature; recognized as a child by Orgyenpa.
 
 ---
-_Contributed by: skeleton:U46-kagyu, skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U46-kagyu, skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._

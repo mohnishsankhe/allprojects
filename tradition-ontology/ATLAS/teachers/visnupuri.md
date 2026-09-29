@@ -14,4 +14,4 @@ Compiler of the Bhaktiratnāvalī, an anthology of Bhāgavata verses on devotion
 _Notes: Region (Tirhut) and date recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._

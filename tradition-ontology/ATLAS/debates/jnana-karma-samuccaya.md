@@ -87,4 +87,4 @@ _Notes: A sub-debate of dsp:works-knowledge-grace (owned by U50); both sides are
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press) — Both sides verified in the Rāma Gītā (objection 7.5.11-13, reply 7.5.14-23, the Taittirīya and Bṛhadāraṇyaka quotations at 7.5.21). Bhāskara's samuccaya position is standard, but it was not checked in his text (owned by U13).
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._

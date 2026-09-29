@@ -24,4 +24,4 @@ Prahlāda questions a sage who lives like a python (ajagara), accepting whatever
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.172.2-12 Prahrāda; 12.172.25-37 ājagara vow — Section located at CE 12.172 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._

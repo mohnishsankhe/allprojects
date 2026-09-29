@@ -16,4 +16,4 @@ Rāmatoṣaṇa Vidyālaṅkāra's vast Bengali compilation of tantric material 
   - kind: original; name: Muktabodha Digital Library e-text M00060, M00061, M00070-M00073
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 21:52 IST._

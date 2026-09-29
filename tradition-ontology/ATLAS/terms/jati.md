@@ -1,12 +1,13 @@
 # jāti
 
-`trm:jati` · `skeleton` · confidence high
+`trm:jati` · `sourced` · confidence high
 
-**Language:** Sanskrit
+**Language:** Pali
 **Native script:** जाति
 **Literal:** birth; class; universal; futile rejoinder
 
 ## Definitions by tradition
+- [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md): DN 22:18: the being-born of beings in their various orders, coming to be, manifestation of the aggregates, acquisition of the sense bases.
 - [Nyāya](../lineages/nyaya.md): (1) In debate: a futile rejoinder based merely on similarity or dissimilarity (NS 1.2.18), of twenty-four kinds (NS 5.1.1). (2) The universal, 'that whose nature is to produce sameness' (NS 2.2.71), part of a word's meaning (NS 2.2.68).
 - [Vaiśeṣika](../lineages/vaisesika.md): The universal (synonym of sāmānya), e.g. substance-hood; genuine universals are limited by six impediments (Udayana).
 - [Pañcācārya (Pañcapīṭha) tradition](../lineages/pancacarya.md): The SSM tells the māheśvara to give up the dharmas of his jāti and family that oppose steadfastness in the liṅga (10.30–31), yet prescribes commensality with twice-born of one's own jāti on the path (9.29), and makes brāhmaṇa and outcaste alike for those in the contemplation of Śiva (14.19–20).
@@ -27,4 +28,8 @@
 _Notes: Homonym: other units define jāti as birth or social class._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U20-virasaiva, skeleton:U36-pali-suttas, skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa, skeleton:U27-sant-baul, skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._
+**Verification checks**
+
+- 2026-09-29 text: partially-confirmed — Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J.
+
+_Contributed by: extraction:mahasatipatthana-sutta/all, skeleton:U11-nyaya-vaisesika, skeleton:U20-virasaiva, skeleton:U36-pali-suttas, skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa, skeleton:U27-sant-baul, skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._

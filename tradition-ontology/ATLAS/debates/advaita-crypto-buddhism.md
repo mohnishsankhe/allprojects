@@ -51,4 +51,4 @@ Both parties agree on some facts — Advaita and Madhyamaka each use two levels 
 _Notes: Correction to the unit brief: Bhāskara, Madhva/Jayatīrtha, the Padma Purāṇa (as quoted by Jīva), Jīva Gosvāmī and Vedānta Deśika are recorded with texts; the attribution of the explicit 'crypto-Buddhist' label to Yāmuna or Rāmānuja could not be verified and is not asserted; Vijñānabhikṣu is recorded at low confidence._
 
 ---
-_Contributed by: skeleton:U50-debates. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U50-debates. Generated 2026-09-29 21:52 IST._

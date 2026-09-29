@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The four wisdoms](four-wisdoms.md) (P2-standpoint): Yogācāra's four wisdoms read as aspects of the self-nature. — rests on [10.19](../texts/platform-sutra.md#tea-platform-sutra-10-19)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

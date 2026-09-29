@@ -16,4 +16,4 @@ Bhāskararāya's commentary on the Bhāvanā Upaniṣad, reading it as Śrīvidy
 _Notes: Printed with the Mysore 1959 Saundaryalaharī volume (Muktabodha M00672 header)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._

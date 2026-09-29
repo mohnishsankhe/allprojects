@@ -28,4 +28,4 @@ concepts: [Single refuge (ekaśaraṇa)](../concepts/ekasarana.md) · teachers: 
 _Notes: Not the Bengali Gauḍīya Bhaktiratnākara of Narahari Cakravartī, nor Mādhavadeva's Bhakti-ratnāvalī._
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._

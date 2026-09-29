@@ -28,4 +28,4 @@ _Notes: The text's own statements: the body is the field and its knower the kṣ
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.3, tea:bhagavad-gita:13.23 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:15 IST._
+_Contributed by: extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 21:52 IST._

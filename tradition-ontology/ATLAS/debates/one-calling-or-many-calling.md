@@ -27,4 +27,4 @@ Neither should be insisted on; the nenbutsu of the primal vow includes both; one
 **The traditions' own objections:** The historical ichinengi and tanengi parties each held the other in error; their lines did not survive.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._

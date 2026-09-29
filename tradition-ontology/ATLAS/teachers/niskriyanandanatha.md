@@ -10,4 +10,4 @@
 Krama master named in Anantaśaktipāda's commentary on the Vātūlanāthasūtra as having received instruction from the siddhas of Gandhamādana; the Chummāsaṅketaprakāśa is ascribed to him.
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._

@@ -20,4 +20,4 @@ Going for refuge to the Buddha, Dharma and Saṅgha, understood as the non-learn
 _Notes: Contribution of U47 (Sakya/Kadam/Gelug presentation)._
 
 ---
-_Contributed by: skeleton:U38-early-schools, skeleton:U36-pali-suttas, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U38-early-schools, skeleton:U36-pali-suttas, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._

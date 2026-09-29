@@ -10,4 +10,4 @@
 King-monk of Gugé (Ngari) who, to restore pure Buddhism, sent young Tibetans to Kashmir and invited Indian masters; the tradition tells that, captured by the Garlok, he refused to be ransomed and asked that the gold be used to invite Atiśa.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._

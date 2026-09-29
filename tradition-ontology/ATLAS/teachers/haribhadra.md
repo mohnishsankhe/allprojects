@@ -31,4 +31,4 @@
 _Notes: Several different authors named Haribhadra existed; the ascription of some of the 1,444 works is doubtful._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._

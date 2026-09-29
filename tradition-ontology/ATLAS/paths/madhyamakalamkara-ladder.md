@@ -15,4 +15,4 @@
 A ladder of doctrinal understanding rather than a meditative map; left unbanded.
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._

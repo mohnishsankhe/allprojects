@@ -34,8 +34,8 @@ The textual tradition of haṭha ('force') yoga, from the Amṛtasiddhi (c. 11th
   - [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](natha.md) — what: the practice manuals used by Nāth yogīs
   - `lin:dasanami` — what: haṭha practice among Daśanāmī ascetics
   - [Rāmānandī sampradāya](ramanandi.md) — what: haṭha practice among Rāmānandī ascetics (the Jogapradīpikā)
-  - `lin:krishnamacharya` — what: the texts and practices behind modern postural yoga (recent)
-  - `lin:bihar-school` — what: HYP, GS and the kuṇḍalinī texts as the textual base of the school (recent)
+  - [Krishnamacharya lineage (modern postural yoga of Mysore and Chennai)](krishnamacharya.md) — what: the texts and practices behind modern postural yoga (recent)
+  - [Bihar School of Yoga (Satyananda Yoga)](bihar-school.md) — what: HYP, GS and the kuṇḍalinī texts as the textual base of the school (recent)
 
 ## The ultimate in this lineage
 `skeleton` · confidence moderate
@@ -65,4 +65,4 @@ The textual tradition of haṭha ('force') yoga, from the Amṛtasiddhi (c. 11th
 _Notes: U28 owns this lineage. Sectarian home: not a single sect — the texts are Śaiva (HYP, SS), Vaiṣṇava (DYŚ, GS), Vedic-orthodox (VS, YY), Śākta (ṢCN) and at the start Buddhist (Amṛtasiddhi). Family set to 'vedic' following the convention of the other Hindu tantric lineages; the Buddhist origin is recorded in transmissions_received._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 21:52 IST._

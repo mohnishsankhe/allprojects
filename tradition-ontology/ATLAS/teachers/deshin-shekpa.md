@@ -10,4 +10,4 @@
 Invited by the Yongle emperor to Nanjing (1407); by the tradition's account the emperor, seeing the ḍākinī-woven crown above the Karmapa's head, had a material replica made — the black crown of the ceremony.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._

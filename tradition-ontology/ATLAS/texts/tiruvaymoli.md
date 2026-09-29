@@ -178,4 +178,4 @@ practices: [Devotional singing of the Lord's names and deeds (kīrtana, saṅkī
 _Notes: Structure: 10 centums (pattu) × 10 decads (tiruvāymoḻi), mostly 11 verses each (10 + a phalaśruti). Commentaries (U14 entries): Ārāyirappaṭi (Tirukkurukaippirāṉ Piḷḷāṉ), Oṉpatiṉāyirappaṭi (Nañjīyar), Irupattunālāyirappaṭi (Periyavāccāṉ Piḷḷai), Īṭu Muppattāṟāyirappaṭi (Vaṭakku Tiruvīti Piḷḷai, from Nampiḷḷai's lectures), Paṉṉīrāyirappaṭi (Vādikesari Aḻagiya Maṇavāḷa Jīyar); Sanskrit: Deśika's Dramiḍopaniṣat-tātparya-ratnāvalī and Dramiḍopaniṣat-sāra; Maṇavāḷa Māmuni's Tiruvāymoḻi Nūṟṟantāti. Tiruvāymoḻi refs are centum.decad.verse (patt.tiruvāymoḻi.pācuram)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 21:52 IST._

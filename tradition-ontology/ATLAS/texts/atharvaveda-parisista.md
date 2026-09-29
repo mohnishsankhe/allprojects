@@ -18,4 +18,4 @@ _Notes: Number and contents recalled from memory; to be checked._
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Atharvavedapariśiṣṭa, catalog:GRETIL-dev:atharvavedaparisistas, text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/2_paris/atharvavedaparisistas.md — Extant. The Pariśiṣṭa text itself states 'tatra dvāsaptatiḥ pariśiṣṭāni bhavanti kauśikoktāni' (AVPariś 49.4.9 — seventy-two), and Pariśiṣṭa 49 is a Caraṇavyūha — both facts recalled with low confidence in the entry are confirmed.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 21:52 IST._

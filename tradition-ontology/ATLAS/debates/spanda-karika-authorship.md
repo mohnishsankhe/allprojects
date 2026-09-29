@@ -23,4 +23,4 @@ Bhāskara (Vārttika 1.5: Kallaṭa explained three sections of the Śiva Sūtra
 _Notes: Scholarly opinion is also divided; recorded as metadata on src:spanda-karika._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._

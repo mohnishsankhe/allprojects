@@ -19,4 +19,4 @@
 - causes → [Apūrva (the unseen potency of ritual action)](apurva.md): the injunction presupposes the apūrva — rests on [2.1.5](../texts/sabara-bhasya.md#tea-sabara-bhasya-2-1-5)
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 21:52 IST._

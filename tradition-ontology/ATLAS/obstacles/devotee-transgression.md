@@ -11,4 +11,4 @@ Overstepping or disrespecting Śiva's devotees or the guru, which destroys life,
   - [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) — ref: 3.67–77; 11.23; rests_on: ["tea:siddhantasikhamani:3.67-77", "tea:siddhantasikhamani:11.22-24"]
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._

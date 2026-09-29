@@ -24,4 +24,4 @@
 _Notes: Not the haṭha tongue-practice of the same name._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism, skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism, skeleton:U22-tamil-siddha. Generated 2026-09-29 21:52 IST._

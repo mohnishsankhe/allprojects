@@ -23,4 +23,4 @@ Seated in mahābandha with the breath filled and held by the throat seal, the ha
 - The best yogins keep this vedha secret. — [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) 3.24
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 21:52 IST._

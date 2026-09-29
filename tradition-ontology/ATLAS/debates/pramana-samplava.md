@@ -24,4 +24,4 @@ No (vyavasthā): perception grasps only unique particulars and inference only un
 **Candidate readings:** P2-standpoint: the disagreement follows from different ontologies of the object (enduring thing with universals vs. momentary particular).
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 21:52 IST._

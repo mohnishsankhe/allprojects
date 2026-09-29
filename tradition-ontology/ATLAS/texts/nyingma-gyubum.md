@@ -18,4 +18,4 @@ The canon of Old Tantras not (or only partly) admitted to the Kangyur: the tantr
 _Notes: Not local. Volume counts omitted deliberately (see REPORT.md)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._

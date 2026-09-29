@@ -1,6 +1,6 @@
-# Teachers (2772)
+# Teachers (2774)
 
-skeleton: 2387 · sourced: 385
+skeleton: 2378 · sourced: 396
 
 - [A. C. Bhaktivedanta Swami Prabhupāda](bhaktivedanta-swami.md) — `skeleton` _(recent)_
 - [Abhayadatta](abhayadatta.md) — `skeleton`
@@ -97,7 +97,7 @@ skeleton: 2387 · sourced: 385
 - [Aniruddhadeva](aniruddhadeva.md) — `skeleton`
 - [Annambhaṭṭa](annambhatta.md) — `skeleton`
 - [Annamācārya (Tāḷḷapāka Annamayya)](annamacarya.md) — `skeleton`
-- [Anuruddha](anuruddha.md) — `skeleton`
+- [Anuruddha](anuruddha.md) — `sourced`
 - [Anuruddha (ācariya)](anuruddha-acariya.md) — `skeleton`
 - [Anurādha](anuradha.md) — `skeleton`
 - [Anāthapiṇḍika](anathapindika.md) — `skeleton`
@@ -683,7 +683,7 @@ skeleton: 2387 · sourced: 385
 - [Gorampa Sönam Senge](gorampa.md) — `skeleton`
 - [Gorura](gorura.md) — `skeleton`
 - [Gorā Kumbhār](gora-kumbhar.md) — `skeleton`
-- [Gotama Buddha](gotama-buddha.md) — `skeleton`
+- [Gotama Buddha](gotama-buddha.md) — `sourced`
 - [Gotama Rāhūgaṇa](gotama-rahugana.md) — `sourced`
 - [Govinda (author of the Rasahṛdayatantra)](govinda-rasahrdaya.md) — `skeleton`
 - [Govinda Bhagavatpāda](govinda-bhagavatpada.md) — `skeleton`
@@ -1253,16 +1253,18 @@ skeleton: 2387 · sourced: 385
 - [Mahimabhaṭṭa](mahimabhatta.md) — `skeleton`
 - [Mahinda](mahinda.md) — `skeleton`
 - [Mahipa](mahipa.md) — `skeleton`
+- [Mahācunda](mahacunda.md) — `sourced`
 - [Mahādeva (of the five points)](mahadeva.md) — `skeleton`
 - [Mahādeva Vedāntin](mahadeva-vedantin.md) — `skeleton`
 - [Mahādevabhaṭṭa](mahadevabhatta.md) — `skeleton`
 - [Mahāgiri](mahagiri.md) — `skeleton`
-- [Mahākaccāna](mahakaccana.md) — `skeleton`
-- [Mahākassapa](mahakassapa.md) — `skeleton`
-- [Mahākoṭṭhita](mahakotthita.md) — `skeleton`
+- [Mahākaccāna (Mahākaccāyana)](mahakaccana.md) — `sourced`
+- [Mahākappina](mahakappina.md) — `sourced`
+- [Mahākassapa](mahakassapa.md) — `sourced`
+- [Mahākoṭṭhita](mahakotthita.md) — `sourced`
 - [Mahākāla](mahakala.md) — `skeleton`
 - [Mahāmati](mahamati.md) — `skeleton`
-- [Mahāmoggallāna](moggallana.md) — `skeleton`
+- [Mahāmoggallāna](moggallana.md) — `sourced`
 - [Mahānāma (author of the Mahāvaṃsa)](mahanama-mahavamsa.md) — `skeleton`
 - [Mahānāma (author of the Saddhammappakāsinī)](mahanama-saddhammappakasini.md) — `skeleton`
 - [Mahānāma (of the five monks)](mahanama-thera.md) — `skeleton`
@@ -1803,8 +1805,8 @@ skeleton: 2387 · sourced: 385
 - [Rechungpa Dorje Drakpa](rechungpa.md) — `skeleton`
 - [Rendawa Shönu Lodrö](rendawa.md) — `skeleton`
 - [Rennyo](rennyo.md) — `skeleton`
+- [Revata](revata.md) — `sourced`
 - [Revata (teacher of Buddhaghosa)](revata-buddhaghosa.md) — `skeleton`
-- [Revata of Soreyya](revata.md) — `skeleton`
 - [Revaṇanātha](revananatha.md) — `skeleton`
 - [Reṇukācārya (Revaṇasiddha)](renukacarya.md) — `skeleton`
 - [Rigdzin Chökyi Drakpa](rigdzin-chokyi-drakpa.md) — `skeleton`
@@ -2107,7 +2109,7 @@ skeleton: 2387 · sourced: 385
 - [Sāmanta Candraśekhara](samanta-candrasekhara.md) — `skeleton` _(recent)_
 - [Sāmaśravas](samasravas.md) — `sourced`
 - [Sāramati](saramati.md) — `skeleton`
-- [Sāriputta](sariputta.md) — `skeleton`
+- [Sāriputta](sariputta.md) — `sourced`
 - [Sāriputta of Polonnaruwa](sariputta-polonnaruwa.md) — `skeleton`
 - [Sārparājñī](sarparajni.md) — `sourced`
 - [Sāti Kevaṭṭaputta](sati-kevattaputta.md) — `skeleton`
@@ -2592,7 +2594,7 @@ skeleton: 2387 · sourced: 385
 - [Ādivaṇ Śaṭhakopa Jīyar](adivan-sathakopa-jiyar.md) — `skeleton`
 - [Ākāśagarbha](akasagarbha.md) — `skeleton`
 - [Ālekhana](alekhana.md) — `skeleton`
-- [Ānanda](ananda.md) — `skeleton`
+- [Ānanda](ananda.md) — `sourced`
 - [Ānanda (author of the Mūlaṭīkā)](ananda-mulatika.md) — `skeleton`
 - [Ānanda (father of Somānanda)](ananda-tryambaka.md) — `skeleton`
 - [Ānanda (lay disciple)](ananda-upasaka.md) — `skeleton`

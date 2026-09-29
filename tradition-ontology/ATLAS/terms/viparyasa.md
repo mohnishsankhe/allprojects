@@ -23,4 +23,4 @@
 **Related:** [kleśa](klesa.md), [avidyā](avidya.md)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka, skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka, skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._

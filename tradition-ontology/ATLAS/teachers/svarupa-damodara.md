@@ -10,4 +10,4 @@
 Caitanya's intimate secretary at Purī, whose notebook (kaḍacā) is quoted in the Caitanya Caritāmṛta's opening verses.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._

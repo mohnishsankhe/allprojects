@@ -15,4 +15,4 @@ The domestic-rite manual of the Vādhūla school.
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:raw_etexts:vadhula_grihya_sutra, https://www.academia.edu/41662879/On_the_Grhyasutra_of_the_Vadhula_School — Low-confidence entry confirmed as extant (raw_etexts; studied in 'On the Gṛhyasūtra of the Vādhūla school').
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._

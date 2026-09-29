@@ -15,4 +15,4 @@
 _Notes: The Indian nomenclature varies across authors (e.g. five- or six-fold lists); the Tibetan fourfold scheme and the father/mother/non-dual labels are later and are labeled as such._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._

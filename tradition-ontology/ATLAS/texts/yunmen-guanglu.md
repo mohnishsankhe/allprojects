@@ -17,4 +17,4 @@ Sayings of Yunmen Wenyan: one-word barriers, 'every day is a good day', 'a dried
   - kind: original; name: CBETA XML P5, Taishō T47n1988 (Yunmen guanglu 雲門匡真禪師廣錄); local copy sources_raw/cbeta/T/T47/T47n1988.xml; licence: CBETA (CC BY-NC-SA 3.0 TW) — quotation with attribution
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

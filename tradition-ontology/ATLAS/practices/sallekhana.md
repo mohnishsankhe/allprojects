@@ -28,4 +28,4 @@ At the approach of death that cannot be averted (calamity, famine, old age, incu
 _Notes: Restricted: summary and the texts' own conditions and warnings only; no procedure, durations or stages recorded._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._

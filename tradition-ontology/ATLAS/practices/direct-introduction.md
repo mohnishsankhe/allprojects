@@ -14,4 +14,4 @@ The master points out awareness directly — by word, gesture, symbol or a sudde
   - [Zhang Zhung Nyengyü (zhang zhung snyan rgyud, the Oral Transmission of Zhang Zhung)](../texts/zhang-zhung-nyengyu.md) — ref: secret cycle; rests_on: ["tea:zhang-zhung-nyengyu:secret-cycle"]
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._

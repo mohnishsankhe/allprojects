@@ -12,9 +12,9 @@ Mindfulness whose object is the in- and out-breath, prescribed for the discursiv
 
 ## Equivalents (interpretation layer)
 - partial: [Mindfulness of breathing in six phases (Abhidharmakośa)](anapanasmrti-sixfold.md) — the Sarvāstivāda sixfold breath practice (counting etc.)
-- partial: [Mindfulness of breathing (ānāpānasati)](anapanasati.md) — the Pāli sixteen-step practice
+- partial: [Mindfulness of breathing (ānāpānassati)](anapanasati.md) — the Pāli sixteen-step practice
 
 _Notes: Internal details beyond the checked lines (object, temperament, limit at the third dhyāna) recalled._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._

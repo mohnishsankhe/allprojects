@@ -18,4 +18,4 @@ Oldest core book of the Niśvāsa: early Śaiva initiation, worship and observan
 _Notes: The Kāmika's list of the Niśvāsa's eight upabhedas includes Niśvāsottara, Niśvāsamukhodaya, Niśvāsanayana and Guhya, which match these books by name._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._

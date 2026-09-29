@@ -10,4 +10,4 @@ An earlier authority on longevity named by Varāhamihira with Maya, the Yavanas 
 _Notes: Known only from citations in Varāhamihira and his commentators._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._

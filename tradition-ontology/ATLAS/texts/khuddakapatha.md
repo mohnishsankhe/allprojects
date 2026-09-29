@@ -46,7 +46,7 @@ In this body there are head hairs, body hairs, nails, teeth, skin, flesh, sinews
 
 _level: conventional · standpoint: analytic · path: meditation · stage: all · types: body-layers, practice_
 
-concepts: [The thirty-two parts of the body](../concepts/thirty-two-parts.md) · practices: [Reflection on the parts of the body (paṭikūlamanasikāra)](../practices/patikulamanasikara.md)
+concepts: [The thirty-two parts of the body](../concepts/thirty-two-parts.md) · practices: [Attention to the repulsiveness of the body (paṭikūlamanasikāra)](../practices/patikulamanasikara.md)
 
 ### 4 <a id="tea-khuddakapatha-4"></a>
 `skeleton` · confidence high
@@ -55,7 +55,7 @@ The novice's questions: what is one? — all beings subsist on nutriment; two �
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: beginner · types: teacher-transmission_
 
-concepts: [The four noble truths](../concepts/four-noble-truths.md), [The five aggregates](../concepts/five-aggregates.md), [The seven factors of awakening](../concepts/seven-bojjhangas.md)
+concepts: [The four noble truths (cattāri ariyasaccāni)](../concepts/four-noble-truths.md), [The five aggregates](../concepts/five-aggregates.md), [The seven awakening factors (satta bojjhaṅgā)](../concepts/seven-bojjhangas.md)
 
 ### 7 <a id="tea-khuddakapatha-7"></a>
 `skeleton` · confidence moderate
@@ -68,4 +68,4 @@ concepts: [Offerings for the departed](../concepts/offering-to-the-departed.md),
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

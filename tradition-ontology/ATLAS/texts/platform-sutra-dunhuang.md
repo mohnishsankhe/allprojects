@@ -136,4 +136,4 @@ concepts: [Buddha-nature in Chan, Seon and Zen](../concepts/buddha-nature-chan.m
 _Notes: Same work as src:platform-sutra in an earlier recension; kept as a separate id because the prepared segments and the wording differ (e.g. Huineng's verse 'buddha-nature is always pure' instead of 'originally there is not one thing')._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

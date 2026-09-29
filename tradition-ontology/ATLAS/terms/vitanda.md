@@ -18,4 +18,4 @@
 **Related:** [vāda](vada.md), [pratijñā](pratijna.md)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U30-ayurveda-rasa, skeleton:U15-dvaita, skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U30-ayurveda-rasa, skeleton:U15-dvaita, skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._

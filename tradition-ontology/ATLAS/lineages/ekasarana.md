@@ -52,4 +52,4 @@ _none recorded_
 [Was Dāmodaradeva a disciple of Śaṅkaradeva, or an independent founder?](../debates/damodaradeva-independence.md), [Is exclusive devotion through the name, without Vedic rites, images or brahmin priests, a valid dharma?](../debates/ekasarana-and-brahmin-orthodoxy.md), [Must the devotee of Kṛṣṇa abstain from worshipping other deities (and from animal sacrifice to them)?](../debates/ekasarana-and-other-deities.md)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._

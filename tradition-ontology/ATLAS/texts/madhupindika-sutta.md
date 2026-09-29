@@ -35,7 +35,7 @@ Dependent on the eye and forms eye-consciousness arises; the meeting of the thre
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: [papañca](../terms/papanca.md), [phassa](../terms/phassa.md), [vedanā](../terms/vedana.md), [saññā](../terms/sanna.md), [vitakka](../terms/vitakka.md) · concepts: [Proliferation (papañca)](../concepts/papanca.md) · teachers: [Mahākaccāna](../teachers/mahakaccana.md)
+terms: [papañca](../terms/papanca.md), [phassa](../terms/phassa.md), [vedanā](../terms/vedana.md), [saññā](../terms/sanna.md), [vitakka](../terms/vitakka.md) · concepts: [Proliferation (papañca)](../concepts/papanca.md) · teachers: [Mahākaccāna (Mahākaccāyana)](../teachers/mahakaccana.md)
 
 ### 16-22 <a id="tea-madhupindika-sutta-16-22"></a>
 `skeleton` · confidence high
@@ -44,10 +44,10 @@ Mahākaccāna's full analysis for each of the six senses: where there is eye, fo
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-concepts: [Proliferation (papañca)](../concepts/papanca.md) · teachers: [Mahākaccāna](../teachers/mahakaccana.md)
+concepts: [Proliferation (papañca)](../concepts/papanca.md) · teachers: [Mahākaccāna (Mahākaccāyana)](../teachers/mahakaccana.md)
 
 
 _Notes: SuttaCentral uid mn18; Mahāsaṅgīti title 'Madhupiṇḍikasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

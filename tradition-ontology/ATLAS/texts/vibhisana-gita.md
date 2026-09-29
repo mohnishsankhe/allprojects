@@ -33,4 +33,4 @@ teachers: [Rāma (Dāśarathi)](../teachers/rama.md), [Vibhīṣaṇa](../teache
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/rAmacharitamAnasa/06_lankAkANDa.md — Caupāīs 1-6 before dohā 80 ('rāvanu rathī biratha raghubīrā'), then dohās 80 ka-kha (and ga); confirmed.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._

@@ -21,4 +21,4 @@ Taking the child out to see the sun in the fourth month.
 
 - sources: MDh 2.34 has 'caturthe māsi kartavyaṃ śiśor niṣkramaṇaṃ gṛhāt', inside the cited 2.26–35, so the practice and its timing are confirmed. Āśvalāyana GS book 1 has no niṣkramaṇa rite: it goes from jātakarma (1.15) to annaprāśana (1.16), caula (1.17) and godāna (1.18). Keśava's Kauśika-paddhati (after KauśS 7.9 [58].18) has 'caturthe māsi niṣkramaṇam'. The Nirṇayasindhu (pariccheda 3, pūrvārdha) and the Dharmasindhu (pariccheda 3) give it among the saṃskāras, and Vyāsa's list of sixteen quoted in the Nirṇayasindhu has 'niṣkramo'. Correction: the Manu ref is narrowed to 2.34 and ĀśGS is replaced by the Nirṇayasindhu.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._

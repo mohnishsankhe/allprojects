@@ -14,4 +14,4 @@ Indian master said to have given away his own flesh out of compassion; by tradit
 _Notes: Distinct from other Dharmarakṣitas (translators); historicity uncertain._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._

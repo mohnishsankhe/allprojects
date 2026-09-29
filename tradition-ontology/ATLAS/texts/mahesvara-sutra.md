@@ -21,4 +21,4 @@ _Notes: Not to be confused with Vasugupta's Śiva Sūtra (src:siva-sutra, Kashmi
 
 - 2026-09-28 websearch: confirmed — https://www.themathesontrust.org/library/shiva-sutras, https://www.indica.today/long-reads/glory-shri-kameshwara-nandikesvara-maheshvara-sutras/ — Confirmed: fourteen phoneme sūtras, traditionally the beats of Śiva's drum, commented on in the Nandikeśvara-kāśikā. Their use for pratyāhāras is standard.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._

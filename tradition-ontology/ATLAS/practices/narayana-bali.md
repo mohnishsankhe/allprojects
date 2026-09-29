@@ -15,4 +15,4 @@ An offering to Nārāyaṇa for one who died a bad or untimely death, allowing t
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:garuda-purana:2.5.39-40 — GP 2.5.39 ('yadi nārāyaṇo baliḥ') located. All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._

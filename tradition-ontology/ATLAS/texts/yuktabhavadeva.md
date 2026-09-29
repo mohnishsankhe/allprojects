@@ -19,4 +19,4 @@ A 17th-c. compendium that integrates haṭha practices — postures, cleansing, 
   - kind: original; name: Yuktabhavadeva of Bhavadeva Miśra, ed. M. L. Gharote & V. K. Jha (Lonavla 2002); licence: copyright
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 21:52 IST._

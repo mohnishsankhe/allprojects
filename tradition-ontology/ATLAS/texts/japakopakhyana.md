@@ -24,4 +24,4 @@ Bhīṣma teaches the path and destiny of the reciter (jāpaka) of the Veda/Sāv
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.189.3ff jāpaka; 12.192.2 Ikṣvāku; 12.192.11 Sāvitrī; Kāla/Mṛtyu/Yama 12.192, local:sources_raw/raw_etexts/mixed/sarit-markdown/mahabharata-devanagari.md (vulgate) colophon "jāpakopākhyānam" — Section located at CE 12.189-193 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._

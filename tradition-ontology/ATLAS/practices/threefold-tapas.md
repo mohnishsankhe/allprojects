@@ -16,4 +16,4 @@ Bodily austerity: worship of gods, the twice-born, teachers and the wise; purity
 - Austerity done with foolish obstinacy, by torturing oneself or to harm another, is tāmasic. — [Bhagavad Gītā](../texts/bhagavad-gita.md) 17.19
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._

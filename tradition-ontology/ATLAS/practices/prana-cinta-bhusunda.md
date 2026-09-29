@@ -18,4 +18,4 @@ _Notes: Summary only; no counts or durations are recorded. The YV presents it as
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — MU 6.25-26 (prāṇavicāra, prāṇasamādhi) verified; prāṇa and apāna, 6.26.3-7.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._

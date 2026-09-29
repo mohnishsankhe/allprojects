@@ -18,4 +18,4 @@ Basava (Basavaṇṇa, Basaveśvara), minister at the Kalacuri court of Bijjala 
 _Notes: Parents in the hagiographies: Mādarasa and Mādalāmbike (moderate). In the Pañcācārya account he is a great devotee within an older stream; in the śaraṇa account the founder. A Jaina narrative of Bijjala's reign gives a hostile account of these events (low confidence)._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._

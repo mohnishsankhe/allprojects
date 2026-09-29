@@ -11,4 +11,4 @@
 Song monk of Hangzhou who formed the Jingxing she (Society of Pure Conduct) of officials and monks modelled on Huiyuan's, writing out the Huayan chapter on pure conduct in his blood; last of the seven patriarchs in the Fozu tongji and fourth successor in the Lebang wenlei.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._

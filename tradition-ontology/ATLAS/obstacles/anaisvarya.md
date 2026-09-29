@@ -11,4 +11,4 @@ Kauṇḍinya's definition of bondage and his fifth impurity.
   - [Pañcārthabhāṣya](../texts/pancarthabhasya.md) — ref: on PS 1.1; 5.29; rests_on: ["tea:pancarthabhasya:1.1/3", "tea:pancarthabhasya:5.29"]
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 21:52 IST._

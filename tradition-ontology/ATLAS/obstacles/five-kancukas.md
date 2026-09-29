@@ -12,4 +12,4 @@ Limited agency (kalā), limited knowledge (vidyā), attachment (rāga), time (k�
   - [Paramārthasāra](../texts/paramarthasara.md) — ref: 16-17; rests_on: ["tea:paramarthasara:16-17"]
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._

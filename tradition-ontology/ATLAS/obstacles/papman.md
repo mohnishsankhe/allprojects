@@ -17,4 +17,4 @@ Evil pierced the senses in the gods' contest, so that one speaks, sees and think
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — All 7 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 1.3; ChU 1.2; ChU 8.4; ChU 5.24.3; ChU 4.14.3; ChU 8.1.5; ChU 5.24). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 21:52 IST._

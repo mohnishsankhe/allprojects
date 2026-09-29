@@ -19,4 +19,4 @@ _Notes: New concept, merged from extractor A's cpt:mahad-brahma-as-womb and extr
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:14.3, tea:bhagavad-gita:14.4 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:15 IST._
+_Contributed by: extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 21:52 IST._

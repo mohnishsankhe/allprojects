@@ -25,4 +25,4 @@
 Chapter numbers per the usual 21-chapter division (verify). Refuge (ch.8) follows the contemplations in the text though banded as entry. Stages 9–11 are the five paths (U51's pth:five-paths) as the Jewel Ornament presents them.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._

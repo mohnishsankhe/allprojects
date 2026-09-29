@@ -10,4 +10,4 @@ The charioteer of the bodhisatta's renunciation, later an obstinate monk on whom
 _Notes: The Channa of SN 22.90 and MN 144 is identified with him by some commentaries; not asserted here._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

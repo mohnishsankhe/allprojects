@@ -28,4 +28,4 @@ Bhagavad Gītā 1–3: Aversion (dveṣa), set together with passion in each sen
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:11.55, tea:bhagavad-gita:12.13, tea:bhagavad-gita:12.17 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.7, tea:bhagavad-gita:14.22 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U10-yoga, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:15 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U10-yoga, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 21:52 IST._

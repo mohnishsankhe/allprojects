@@ -16,4 +16,4 @@
 Padmasambhava's instruction-series cycle, entrusted to Princess Pemasal and revealed as treasure by Pema Ledrel Tsal; Longchenpa received it and composed the Khandro Yangtig on it.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._

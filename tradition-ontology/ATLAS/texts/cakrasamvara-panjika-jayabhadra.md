@@ -15,4 +15,4 @@ The earliest surviving commentary on the Laghuśaṃvara, by Jayabhadra of Vikra
 _Notes: Sanskrit edited by S. Sugiki (2001) — not local; Tōh number not confirmed._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._

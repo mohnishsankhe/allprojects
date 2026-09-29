@@ -13,4 +13,4 @@
 - contrasts-with → `cpt:vivarta`: Advaita's apparent transformation; the Kashmir Śaivas hold manifestation to be real and free — rests on [2](../texts/pratyabhijnahrdayam.md#tea-pratyabhijnahrdayam-2)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._

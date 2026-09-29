@@ -24,7 +24,7 @@ As the footprints of all walking creatures fit into an elephant's footprint, all
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation_
 
-concepts: [The four noble truths](../concepts/four-noble-truths.md) · teachers: [Sāriputta](../teachers/sariputta.md)
+concepts: [The four noble truths (cattāri ariyasaccāni)](../concepts/four-noble-truths.md) · teachers: [Sāriputta](../teachers/sariputta.md)
 
 ### 6-27 <a id="tea-mahahatthipadopama-sutta-6-27"></a>
 `skeleton` · confidence high
@@ -33,7 +33,7 @@ The internal and external earth, water, fire and air elements are simply element
 
 _level: ultimate · standpoint: analytic · path: knowledge, meditation · stage: all · types: body-layers, practice_
 
-terms: [mahābhūta](../terms/mahabhuta.md), [pathavīdhātu](../terms/pathavi-dhatu.md) · concepts: [The four great elements](../concepts/four-elements.md) · practices: [Reflection on the elements (dhātumanasikāra)](../practices/dhatumanasikara.md)
+terms: [mahābhūta](../terms/mahabhuta.md), [pathavīdhātu](../terms/pathavi-dhatu.md) · concepts: [The four great elements](../concepts/four-elements.md) · practices: [Attention to the elements (dhātumanasikāra)](../practices/dhatumanasikara.md)
 
 ### 28.5-28.6 <a id="tea-mahahatthipadopama-sutta-28-5-28-6"></a>
 `skeleton` · confidence high
@@ -50,4 +50,4 @@ terms: [paṭiccasamuppāda](../terms/paticcasamuppada.md), [dhamma](../terms/dh
 _Notes: SuttaCentral uid mn28; Mahāsaṅgīti title 'Mahāhatthipadopamasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

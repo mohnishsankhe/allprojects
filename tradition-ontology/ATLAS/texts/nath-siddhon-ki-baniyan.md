@@ -13,4 +13,4 @@ A collection of Hindi sayings of Nāth siddhas other than Gorakh — Carpaṭ, C
   - kind: original; name: ed. Hazārīprasād Dvivedī (Kashi: Nagari Pracharini Sabha, 1957)
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._

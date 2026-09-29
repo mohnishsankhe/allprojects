@@ -15,4 +15,4 @@ Buddhaguhya's summary of the Mahāvairocana Sūtra.
   - kind: translation; name: Derge Tengyur, Tōh 2662 (confirmed in the local Derge catalogue); licence: public domain; url: local: sources_raw/derge-tengyur
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._

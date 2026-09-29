@@ -30,4 +30,4 @@ concepts: [Sixteen kinds of āśrama followers](../concepts/sixteen-kinds-of-asr
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md (line 27113, collection no. 117), catalog:eBharati:AshramopaniShat, https://en.wikipedia.org/wiki/Sannyasa_Upanishads — No. 117 of the e-text; the colophon 'ityātharvaṇīyāśramopaniṣat' confirms the Atharvan attribution. The sixteen kinds are located. The entry's dating field is empty; for information, Olivelle dates the text to the 3rd c. CE (Wikipedia). It is also in Schrader's 1912 critical edition. Outside the Muktikā, as the entry says.
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 21:52 IST._

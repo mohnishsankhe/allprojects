@@ -21,4 +21,4 @@ _Notes: The commentators take it as the aggregate of body and organs._
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.7 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:15 IST._
+_Contributed by: extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 21:52 IST._

@@ -634,7 +634,7 @@ visṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ
 
 _level: unmarked · standpoint: experiential · path: general · stage: unmarked · types: narrative, consciousness-mind_
 
-terms: [śoka](../terms/soka.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Sañjaya](../teachers/sanjaya.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](../debates/bhagavad-gita-arjuna-should-fight.md)
+terms: [soka](../terms/soka.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Sañjaya](../teachers/sanjaya.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](../debates/bhagavad-gita-arjuna-should-fight.md)
 
 ### 2.1 <a id="tea-bhagavad-gita-2-1"></a>
 `text-verified` · confidence high
@@ -739,7 +739,7 @@ rājyaṃ surāṇāmapi cādhipatyam
 
 _level: conventional · standpoint: experiential · path: general · stage: unmarked · types: consciousness-mind, ethics_
 
-terms: [śoka](../terms/soka.md), [indriya](../terms/indriya.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](../debates/bhagavad-gita-arjuna-should-fight.md)
+terms: [soka](../terms/soka.md), [indriya](../terms/indriya.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](../debates/bhagavad-gita-arjuna-should-fight.md)
 
 ### 2.9 <a id="tea-bhagavad-gita-2-9"></a>
 `text-verified` · confidence high
@@ -776,7 +776,7 @@ gatāsūnagatāsūṃśca nānuśocanti paṇḍitāḥ
 
 _level: ultimate · standpoint: seeker · path: knowledge · stage: all · types: ultimate, death-dying_
 
-terms: [śoka](../terms/soka.md), [paṇḍita](../terms/pandita.md), [Prājña](../terms/prajna.md) · concepts: [The self](../concepts/the-self.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](../debates/bhagavad-gita-arjuna-should-fight.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
+terms: [soka](../terms/soka.md), [paṇḍita](../terms/pandita.md), [Prājña](../terms/prajna.md) · concepts: [The self](../concepts/the-self.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](../debates/bhagavad-gita-arjuna-should-fight.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
 
 ### 2.11-30 <a id="tea-bhagavad-gita-2-11-30"></a>
 `sourced` · confidence high
@@ -981,7 +981,7 @@ tasmādevaṃ viditvainaṃ nānuśocitumarhasi
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: all · types: ultimate, death-dying_
 
-terms: [avyakta](../terms/avyakta.md), [acintya](../terms/acintya.md), [śoka](../terms/soka.md) · concepts: [The eternal, unslayable embodied one (dehin / śarīrin)](../concepts/imperishable-embodied-self.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+terms: [avyakta](../terms/avyakta.md), [acintya](../terms/acintya.md), [soka](../terms/soka.md) · concepts: [The eternal, unslayable embodied one (dehin / śarīrin)](../concepts/imperishable-embodied-self.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 2.26 <a id="tea-bhagavad-gita-2-26"></a>
 `text-verified` · confidence moderate
@@ -993,7 +993,7 @@ tathāpi tvaṃ mahābāho naivaṃ śocitumarhasi
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: death-dying_
 
-terms: [śoka](../terms/soka.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+terms: [soka](../terms/soka.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 2.26-28 <a id="tea-bhagavad-gita-2-26-28"></a>
 `sourced` · confidence high
@@ -1014,7 +1014,7 @@ tasmādaparihārye'rthe na tvaṃ śocitumarhasi
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: death-dying, karma-liberation_
 
-terms: [śoka](../terms/soka.md) · concepts: [Rebirth](../concepts/rebirth.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+terms: [soka](../terms/soka.md) · concepts: [Rebirth](../concepts/rebirth.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 2.28 <a id="tea-bhagavad-gita-2-28"></a>
 `text-verified` · confidence high
@@ -1052,7 +1052,7 @@ tasmātsarvāṇi bhūtāni na tvaṃ śocitumarhasi
 
 _level: bridging · standpoint: substance · path: knowledge · stage: all · types: ultimate, death-dying_
 
-terms: [dehin](../terms/dehin.md), [śoka](../terms/soka.md) · concepts: [The eternal, unslayable embodied one (dehin / śarīrin)](../concepts/imperishable-embodied-self.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](../debates/bhagavad-gita-arjuna-should-fight.md)
+terms: [dehin](../terms/dehin.md), [soka](../terms/soka.md) · concepts: [The eternal, unslayable embodied one (dehin / śarīrin)](../concepts/imperishable-embodied-self.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](../debates/bhagavad-gita-arjuna-should-fight.md)
 
 ### 2.31 <a id="tea-bhagavad-gita-2-31"></a>
 `text-verified` · confidence high
@@ -9171,7 +9171,7 @@ Chapter 1 sets the scene and the crisis. 1.1: Dhṛtarāṣṭra asks Sañjaya w
 
 _level: conventional · standpoint: ethical-social · path: general · stage: unmarked · types: narrative, ethics_
 
-terms: [dharma](../terms/dharma.md), [kuladharma](../terms/kuladharma.md), [varṇasaṅkara](../terms/varnasankara.md), [śoka](../terms/soka.md), [viṣāda](../terms/visada.md), [kṛpā](../terms/krpa.md) · concepts: [Family dharma (kula-dharma)](../concepts/kuladharma.md), [Mixture of the varṇas (varṇa-saṅkara)](../concepts/varnasankara.md) · teachers: [Dhṛtarāṣṭra](../teachers/dhrtarastra.md), [Sañjaya](../teachers/sanjaya.md), [Duryodhana](../teachers/duryodhana.md), [Droṇa](../teachers/drona.md), [Bhīṣma (Devavrata, Gāṅgeya)](../teachers/bhisma.md), [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](../debates/bhagavad-gita-arjuna-should-fight.md)
+terms: [dharma](../terms/dharma.md), [kuladharma](../terms/kuladharma.md), [varṇasaṅkara](../terms/varnasankara.md), [soka](../terms/soka.md), [viṣāda](../terms/visada.md), [kṛpā](../terms/krpa.md) · concepts: [Family dharma (kula-dharma)](../concepts/kuladharma.md), [Mixture of the varṇas (varṇa-saṅkara)](../concepts/varnasankara.md) · teachers: [Dhṛtarāṣṭra](../teachers/dhrtarastra.md), [Sañjaya](../teachers/sanjaya.md), [Duryodhana](../teachers/duryodhana.md), [Droṇa](../teachers/drona.md), [Bhīṣma (Devavrata, Gāṅgeya)](../teachers/bhisma.md), [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](../debates/bhagavad-gita-arjuna-should-fight.md)
 
 ### ch10 <a id="tea-bhagavad-gita-ch10"></a>
 `text-verified` · confidence high
@@ -9307,4 +9307,4 @@ _Notes: Chapter titles are the traditional colophon titles (they vary slightly b
 
 - 2026-09-29 text-locate: confirmed — catalog:GRETIL-dev:bhagavadgita, local:sources_raw/DharmicData/Mahabharata/mahabharata_book_6.json (BORI Critical Edition text) 6.23.1 dharmakṣetre ... ; 6.40.78 yatra yogeśvaraḥ ...; 6.22/6.41 are battle narrative, local:sources_raw/gita/data/verse.json (701 entries incl. extra 13.0 verse), https:/ — CE Bhīṣmaparvan 23–40 holds exactly 700 verses, starting at dharmakṣetre and ending at yatra yogeśvaraḥ; the local vulgate corpus has 701 with the extra verse heading ch. 13, as the entry says. Dating accounts kept as entered (scholarly range is within published estimates).
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._

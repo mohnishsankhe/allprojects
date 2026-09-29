@@ -13,4 +13,4 @@ The restless mind that wanders while the lips recite, runs after the senses like
   - [Sundar Vilās](../texts/sundar-vilas.md) — ref: on the mind; rests_on: ["tea:sundar-vilas:man-ko-ang"]
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._

@@ -113,4 +113,4 @@ concepts: [The oxherding stages](../concepts/oxherding-stages.md) · teachers: [
 _Notes: Not held locally (Xuzangjing X64). The path map pth:ten-oxherding-pictures is owned by U51; this unit supplies the source and teachings._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

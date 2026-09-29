@@ -14,4 +14,4 @@ The feet turned up between the knees and thighs, the heels covered with the uptu
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 1.53-54; rests_on: ["tea:hatha-yoga-pradipika:1.53-54"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 21:52 IST._

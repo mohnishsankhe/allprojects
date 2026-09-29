@@ -12,4 +12,4 @@
 Kerala astronomer (a Somayājin Nambūtiri), author of the Tantrasaṅgraha (1500) and a large commentary on the Āryabhaṭīya; pupil of Dāmodara, son of Parameśvara.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._

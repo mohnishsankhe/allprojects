@@ -13,4 +13,4 @@ Marpa's son and intended heir, who died young after a fall from a horse; by the 
 _Notes: The claim that transference into another body ended with him is the tradition's account (low)._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._

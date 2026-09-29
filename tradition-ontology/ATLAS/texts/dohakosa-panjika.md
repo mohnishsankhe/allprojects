@@ -17,4 +17,4 @@ The Sanskrit commentary on Saraha's Dohākoṣa ascribed to Advayavajra, which p
 _Notes: The ascription of Tōh 2256 to Advayavajra is from memory._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._

@@ -15,4 +15,4 @@ Founder of the Drukpa Kagyu at Ralung (1180) and Druk (1189); disciple of Lingje
 **Realization — the tradition's account:** At Namdruk he heard thunder and saw nine dragons rise into the sky, and named his lineage Drukpa, 'of the Dragon'.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._

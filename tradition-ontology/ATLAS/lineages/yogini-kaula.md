@@ -54,4 +54,4 @@ _none recorded_
 _Notes: Sub-lineage created by U21 (Matsyendra's own Kaula school); U24 owns lin:kaula._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._

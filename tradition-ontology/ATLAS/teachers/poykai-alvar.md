@@ -16,4 +16,4 @@ First of the three 'first Āḻvārs' (Mutal Āḻvārkaḷ); author of the Muta
 _Notes: Counted by tradition as a descent (aṃśa) of the Lord's conch Pāñcajanya (low confidence; lists vary)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 21:52 IST._

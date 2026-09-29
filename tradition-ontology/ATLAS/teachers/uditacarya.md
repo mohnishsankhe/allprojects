@@ -11,4 +11,4 @@
 Pāśupata teacher of the Mathurā pillar inscription of 380 CE, described as tenth in succession from Kuśika; he installed two liṅgas named after his teachers (Kapileśvara and Upamiteśvara) in a teachers' shrine.
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 21:52 IST._

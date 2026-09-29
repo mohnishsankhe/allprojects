@@ -98,4 +98,4 @@ _Notes: Commentaries: Sāyaṇa; Bhaṭṭa Bhāskara._
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Taittirīyabrāhmaṇa, catalog:raw_etexts:brAhmaNam (TB 1–3), https://en.wikipedia.org/wiki/Taittiriya_Shakha, https://en.wikipedia.org/wiki/Brahmana — Extant; 3 kāṇḍas of 8, 8 and 12 prapāṭhakas (the local Taittirīya files have 8 + 8 + 9, plus the three Kāṭhaka prapāṭhakas 3.10–12 filed separately). Wikipedia (Taittiriya Shakha): chapters 3.10–12 are often treated as a separate 'Kāṭhakam'. The date estimate is in the general Brāhmaṇa range. Contents cited in the summary are text-located (see teachings 1.1.3, 3.10.11, 3.11.8, 3.12.9).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._

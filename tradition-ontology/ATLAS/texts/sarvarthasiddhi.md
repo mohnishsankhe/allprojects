@@ -87,4 +87,4 @@ terms: [mokṣa-mārga](../terms/moksa-marga.md), [arhat](../terms/arhat.md) · 
 _Notes: Registry id. The maṅgala verse 'mokṣamārgasya netāraṃ…' is printed at its head (some Digambaras treat it as the sūtra's own invocation)._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._

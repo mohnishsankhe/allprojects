@@ -13,4 +13,4 @@
 - causes → [The three vehicles](three-vehicles.md) — rests on [2/2](../texts/saddharmapundarika.md#tea-saddharmapundarika-2-2)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._

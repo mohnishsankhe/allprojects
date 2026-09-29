@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. Cuntarar's mother.
 **Realization — the tradition's account:** Cuntarar's mother.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 21:52 IST._

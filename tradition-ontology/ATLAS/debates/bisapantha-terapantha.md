@@ -22,4 +22,4 @@ Offer only non-living substances (rice, dry fruits), standing; reject the bhaṭ
 **The traditions' own objections:** The Terāpantha holds worship of attendant deities to be wrong faith, a point no reconciliation of method covers.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._

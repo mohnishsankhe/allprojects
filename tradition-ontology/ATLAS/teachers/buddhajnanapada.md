@@ -18,4 +18,4 @@ Founder of the Jñānapāda school of the Guhyasamāja (late 8th c.); trained un
 _Notes: Place names and teachers recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._

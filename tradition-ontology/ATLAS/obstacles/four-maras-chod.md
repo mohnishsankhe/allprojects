@@ -16,4 +16,4 @@ The obstructive māra (sense objects that provoke attachment and aversion), the 
 - partial: [The four Māras](four-maras.md) — same name, different set: the classical four are the aggregates, afflictions, death and the divine son
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._

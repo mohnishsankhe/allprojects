@@ -14,4 +14,4 @@
 A ritual manual for the worship of Rāma attributed to Rāmānanda, with a lineage list (guruparamparā) tracing the Rāmānandīs back through Rāghavānanda.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._

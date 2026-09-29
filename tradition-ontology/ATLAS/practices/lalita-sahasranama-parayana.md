@@ -17,4 +17,4 @@ Daily recitation of the thousand names, often with the introductory and concludi
 - The concluding section restricts the hymn to devotees of Lalitā (as summarized; low confidence). — [Lalitā Sahasranāma](../texts/lalita-sahasranama.md) uttarabhaga
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._

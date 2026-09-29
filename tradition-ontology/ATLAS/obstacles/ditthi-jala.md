@@ -13,4 +13,4 @@ Speculative views about past and future, in sixty-two grounds, in which every th
   - [Brahmajāla Sutta](../texts/brahmajala-sutta.md) — ref: DN 1 §3.72; rests_on: ["tea:brahmajala-sutta:3.72-3.73", "tea:brahmajala-sutta:3.32-3.71"]
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._

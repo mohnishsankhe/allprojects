@@ -14,4 +14,4 @@ Instructions of Padampa Sangye for pacifying suffering: renunciation and devotio
 **Sequences:** [Pacification (zhi byed) arranged along the five paths](../paths/shije-five-paths.md)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._

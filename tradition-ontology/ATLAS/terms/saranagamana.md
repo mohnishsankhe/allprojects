@@ -17,4 +17,4 @@
 - partial: [tisaraṇa](tisarana.md) — Going for refuge / the three refuges.
 
 ---
-_Contributed by: skeleton:U38-early-schools, skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U38-early-schools, skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._

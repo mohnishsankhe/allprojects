@@ -12,4 +12,4 @@
 Disciple of Gampopa (and before him of Sachen Kunga Nyingpo in the Lamdre), founder of Densa Thil; eight of his disciples founded the 'eight lesser' Kagyu schools.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._

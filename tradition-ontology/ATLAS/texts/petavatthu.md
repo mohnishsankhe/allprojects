@@ -14,4 +14,4 @@
 Stories of the hungry ghosts (peta): beings suffering the results of miserliness and wrongdoing, and the transfer of merit (dakkhiṇā) by relatives that relieves them.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

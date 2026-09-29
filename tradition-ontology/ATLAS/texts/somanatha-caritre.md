@@ -12,4 +12,4 @@
 Rāghavāṅka's poem on the Śaiva devotee Ādayya of Puligere and his contest with the Jainas.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._

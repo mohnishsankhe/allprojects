@@ -9,4 +9,4 @@
 Disciple of Nāthamuni to whom, the tradition says, the teaching of yoga (yogarahasya) was entrusted; Yāmuna was directed to him but arrived after his death.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 21:52 IST._

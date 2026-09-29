@@ -16,4 +16,4 @@ Candrakīrti's commentary on Nāgārjuna's Seventy Verses on Emptiness.
   - kind: translation; name: Tibetan translation, Derge Tengyur D3867 (stong nyid bdun cu pa'i 'grel pa) — catalog:Derge-Tengyur:D3867
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._

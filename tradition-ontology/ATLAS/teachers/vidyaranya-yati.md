@@ -10,4 +10,4 @@
 The renunciant to whom the Śrīvidyārṇava Tantra is ascribed; tradition sometimes identifies him with Mādhava Vidyāraṇya of Śṛṅgeri (tch:vidyaranya), which scholars doubt.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._

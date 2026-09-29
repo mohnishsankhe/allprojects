@@ -19,4 +19,4 @@
 _Notes: U05's definition (the epic Sāṃkhya usage); the Buddhist sense is defined by the Buddhist units._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

@@ -18,4 +18,4 @@ Bhagavad Gītā 13.9: seeing again and again (anudarśana) the evil (doṣa) of 
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.8-12, tea:bhagavad-gita:13.9 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch13-15, skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._
+_Contributed by: extraction:bhagavad-gita/ch13-15, skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._

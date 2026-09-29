@@ -101,4 +101,4 @@ P1: Śaṅkara uses the language of transformation for the empirical world and n
 _Notes: Scholarly observation (metadata only): the term vivarta is used by Bhartṛhari before its Advaita use._
 
 ---
-_Contributed by: skeleton:U50-debates. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U50-debates. Generated 2026-09-29 21:52 IST._

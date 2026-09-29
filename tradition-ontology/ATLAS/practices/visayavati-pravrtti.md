@@ -14,4 +14,4 @@ Concentrating on the tip of the nose, tip, middle and root of the tongue, or the
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 1.35; rests_on: ["tea:yoga-bhasya:1.35"]
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 21:52 IST._

@@ -21,4 +21,4 @@
 Bands are the interpretation layer; rests_on as in sources. Caraka presents these as simultaneous means flowing from tattvasmṛti rather than a strict sequence; the order follows the text's lists.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._

@@ -15,4 +15,4 @@ A short treatise defending the sphoṭa against the Mīmāṃsakas, distinct fro
 _Notes: Recalled as printed in the Trivandrum Sanskrit Series; details to verify._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._

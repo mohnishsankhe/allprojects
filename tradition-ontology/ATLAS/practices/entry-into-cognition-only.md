@@ -22,4 +22,4 @@ Having gathered merit and knowledge and reflected on the teachings, the bodhisat
 - Even the thought 'all this is cognition-only' is an apprehension that places something before oneself; one who holds it does not yet abide in cognition-only. — [Triṃśikā (Triṃśikāvijñaptikārikā)](../texts/trimsika.md) 27
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._

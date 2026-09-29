@@ -12,4 +12,4 @@ Once a year manuscripts and books are cleaned, displayed and worshipped: Śvetā
   - [Śrutāvatāra of Indranandi](../texts/srutavatara-indranandi.md) — ref: whole; rests_on: ["tea:srutavatara-indranandi:whole"]
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._

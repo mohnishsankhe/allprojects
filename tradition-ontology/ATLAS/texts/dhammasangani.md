@@ -103,7 +103,7 @@ Lists the ten fetters of the Abhidhamma: sensual lust, aversion, conceit, view, 
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: advanced · types: ethics, karma-liberation_
 
-terms: [saṃyojana](../terms/samyojana.md) · obstacles: [The ten fetters in the Abhidhamma list](../obstacles/ten-fetters-abhidhamma.md)
+terms: [saṁyojana](../terms/samyojana.md) · obstacles: [The ten fetters in the Abhidhamma list](../obstacles/ten-fetters-abhidhamma.md)
 
 ### 2.3.2 <a id="tea-dhammasangani-2-3-2-2"></a>
 `skeleton` · confidence high
@@ -164,4 +164,4 @@ terms: [parāmāsa](../terms/paramasa.md), [diṭṭhi](../terms/ditthi.md)
 _Notes: Division headings and the mātikā counts checked in the local bilara-data text (ds1.1–ds2.4.2)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._

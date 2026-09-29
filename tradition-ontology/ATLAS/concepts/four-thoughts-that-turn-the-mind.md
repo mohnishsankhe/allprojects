@@ -18,4 +18,4 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon, skeleton:U47-sakya-kadam-gelug, skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U45-nyingma-bon, skeleton:U47-sakya-kadam-gelug, skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._

@@ -32,4 +32,4 @@
 **Related:** [rūpakāya](rupakaya.md), [sāṃbhogika-kāya](sambhogakaya.md), [nairmāṇika-kāya](nirmanakaya.md), [svābhāvika-kāya](svabhavikakaya.md)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U43-pure-land, skeleton:U45-nyingma-bon, skeleton:U44-indian-vajrayana, skeleton:U40-madhyamaka, skeleton:U46-kagyu, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U43-pure-land, skeleton:U45-nyingma-bon, skeleton:U44-indian-vajrayana, skeleton:U40-madhyamaka, skeleton:U46-kagyu, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._

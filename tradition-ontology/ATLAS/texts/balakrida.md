@@ -19,4 +19,4 @@ The oldest surviving commentary on the Yājñavalkyasmṛti.
 
 - 2026-09-28 websearch: confirmed — https://www.hindupedia.com/en/Vi%C5%9Bvarupa, https://www.wisdomlib.org/hinduism/essay/yajnavalkya-smriti-vyavaharadhyaya-study/d/doc628169.html — Confirmed as the oldest surviving commentary on the Yājñavalkyasmṛti (Bālakrīḍā, published; Olivelle's Vacanamālā sub-commentary). Viśvarūpa is identified by some with Sureśvara (fl. 788–820), which fits c. 9th c.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._

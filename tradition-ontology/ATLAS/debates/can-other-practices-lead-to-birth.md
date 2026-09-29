@@ -25,4 +25,4 @@ They lead only to the transformed land (19th vow).
 _Notes: Positions of Chōsai and Benchō given in general terms only (low confidence)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._

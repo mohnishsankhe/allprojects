@@ -25,4 +25,4 @@ Summary only: the Siddhars' mastery of the breath, imaged as binding the 'horse 
 _Notes: Restricted as a retention-based practice; the texts' claims are recorded as claims._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 21:52 IST._

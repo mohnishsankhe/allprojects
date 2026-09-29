@@ -12,4 +12,4 @@ Offering libations of the consecrated special water into the central point of th
   - [Lalitā Sahasranāma](../texts/lalita-sahasranama.md) — ref: 178; rests_on: ["tea:lalita-sahasranama:177-180"]
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._

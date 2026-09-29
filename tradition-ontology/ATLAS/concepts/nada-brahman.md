@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [Word-brahman (śabdabrahman)](sabda-brahman.md) (the path of sound (P3)) — rests on [1.3.1-2](../texts/sangita-ratnakara.md#tea-sangita-ratnakara-1-3-1-2), [1.12-13](../texts/saradatilaka.md#tea-saradatilaka-1-12-13)
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._

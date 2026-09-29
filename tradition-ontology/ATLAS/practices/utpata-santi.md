@@ -16,4 +16,4 @@ When portents of sky, atmosphere or earth appear, the king has pacification perf
 - Some teachers hold that heavenly portents are not calmed by pacification. — [Bṛhat Saṃhitā](../texts/brhat-samhita.md) 45.5
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._

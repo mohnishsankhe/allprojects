@@ -29,4 +29,4 @@ _Notes: Seer attributions follow the Sarvānukramaṇī as printed in the hymn h
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition) — MBh CE 12.279-287 (to Janaka, 287.1, 287.45).
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 1.1.12-25 — VP 1.1.12-26 located: Vasiṣṭha stops Parāśara's rite to burn the rākṣasas (1.1.15-20) and grants a boon (1.1.25).
 
-_Contributed by: skeleton:U07-puranas, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U32-jyotisa, skeleton:U02-brahmana-vedanga, skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U32-jyotisa, skeleton:U02-brahmana-vedanga, skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._

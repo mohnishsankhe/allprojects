@@ -12,4 +12,4 @@ Meditation on the no-self of persons, on the no-self of dharmas, on suchness, an
 **Sequences:** [The four dhyānas of the Laṅkāvatāra](../paths/lankavatara-four-dhyanas.md)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._

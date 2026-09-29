@@ -18,4 +18,4 @@
 _Notes: U05's definition (the early usage); the Pāñcarātra Saṃhitās are covered by U08._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._

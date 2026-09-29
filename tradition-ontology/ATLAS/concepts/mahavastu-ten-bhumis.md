@@ -14,4 +14,4 @@
 - contrasts-with → [The ten grounds (bhūmi) of the Daśabhūmika](ten-bhumis.md): The Daśabhūmika's ten grounds (Pramuditā …) have different names and contents; any historical link is a scholarly hypothesis. — rests on [1.76](../texts/mahavastu.md#tea-mahavastu-1-76)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._

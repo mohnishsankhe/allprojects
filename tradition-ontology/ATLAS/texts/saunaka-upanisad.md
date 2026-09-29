@@ -27,4 +27,4 @@ _Notes: Veda affiliation: uncertain_
 
 - editions: Existence confirmed as one of the four texts in Belvalkar's 1925 edition, from manuscripts described by Schrader (1908). The web summary adds that three of the four (Chāgaleya, Ārṣeya, Śaunaka) are incomplete or corrupt. Contents, Veda affiliation and date could not be checked, as the entry already says. Corrected: the edition 'Sanskrit text with Śaṅkara's bhāṣya (Advaita-Śāradā e-text)' is wrong.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 21:52 IST._

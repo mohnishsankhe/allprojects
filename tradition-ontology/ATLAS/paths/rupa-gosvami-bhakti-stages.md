@@ -21,4 +21,4 @@
 Verse verified locally (GRETIL Haribhaktirasāmṛtasindhu 1.4.15-16: ādau śraddhā tataḥ sādhusaṅgo 'tha bhajanakriyā / tato 'narthanivṛttiḥ syāt tato niṣṭhā rucis tataḥ // athāsaktis tato bhāvas tataḥ premābhyudañcati / sādhakānām ayaṃ premṇaḥ prādurbhāve bhavet kramaḥ). Rūpa says this is 'the sequence for practitioners' (sādhakānām); those graced otherwise may skip it.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 21:52 IST._

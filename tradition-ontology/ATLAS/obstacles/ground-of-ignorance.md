@@ -11,4 +11,4 @@ The beginningless subtle ignorance remaining in arhats and pratyekabuddhas, remo
   - [Śrīmālādevīsiṃhanāda-sūtra](../texts/srimaladevi-sutra.md) — ref: ch. 5; rests_on: ["tea:srimaladevi-sutra:5"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._

@@ -16,4 +16,4 @@ Training in the three bardos: inner heat and illusory body in life, dream yoga i
 **Sequences:** [The order of the Six Yogas of Nāropa](../paths/six-yogas-of-naropa-sequence.md)
 
 ---
-_Contributed by: skeleton:U46-kagyu, skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U46-kagyu, skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._

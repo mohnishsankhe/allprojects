@@ -12,4 +12,4 @@ Forgetting one's nature and identifying with body, senses, vital breath and inne
   - [Tattvārthadīpanibandha (with Vallabha's Prakāśa)](../texts/tattvarthadipanibandha.md) — ref: 1; rests_on: ["tea:tattvarthadipanibandha:1/2"]
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._

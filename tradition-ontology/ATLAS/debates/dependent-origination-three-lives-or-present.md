@@ -29,4 +29,4 @@ The Vibhaṅga's Abhidhamma method already shows the links within one moment of 
 **The traditions' own objections:** Commentarial Theravāda insists that the across-lives reading, with literal rebirth, is not optional; Buddhadāsa rejected making it the primary meaning.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._

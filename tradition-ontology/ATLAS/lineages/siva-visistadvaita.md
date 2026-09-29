@@ -50,4 +50,4 @@ _none recorded_
 [Are the Śaiva (and Pāñcarātra) Āgamas equal in authority to the Veda?](../debates/authority-of-the-agamas.md), [Did Śrīkaṇṭha teach qualified non-dualism as final, or as a step toward Advaita?](../debates/srikantha-advaita-or-visistadvaita.md)
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._

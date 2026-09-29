@@ -13,4 +13,4 @@ The 'Roman' siddhānta, known from the Pañcasiddhāntikā; the tradition later 
 _Notes: Known chiefly through Varāhamihira's Pañcasiddhāntikā._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._

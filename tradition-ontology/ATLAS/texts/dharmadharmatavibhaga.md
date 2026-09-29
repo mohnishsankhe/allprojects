@@ -43,4 +43,4 @@ concepts: [Transformation of the basis (āśraya-parāvṛtti)](../concepts/asra
 _Notes: One of the 'five Dharmas of Maitreya' in the Tibetan list (Abhisamayālaṃkāra, Mahāyānasūtrālaṃkāra, Madhyāntavibhāga, Dharmadharmatāvibhāga, Ratnagotravibhāga). Chinese tradition instead attributes the Yogācārabhūmi to Maitreya and the Ratnagotravibhāga to Sāramati. The account of Maitrīpa's rediscovery (with the Ratnagotravibhāga) is the Tibetan tradition's; not in Chinese._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._

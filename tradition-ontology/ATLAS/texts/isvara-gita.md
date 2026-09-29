@@ -94,4 +94,4 @@ terms: [pāśupatayoga](../terms/pasupata-yoga.md), [bhasma](../terms/bhasma.md)
 
 - 2026-09-29 catalog+websearch: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/kUrma-purANam.md, catalog:DCS:Kūrmapurāṇa, https://en.wikipedia.org/wiki/Ishvara_Gita, https://en.wikipedia.org/wiki/Kurma_Purana — The local e-text's colophons of uparivibhāga chs. 1-11 read '(īśvaragītāsu)'; ch. 2.12 starts the following section. Scholarly: the Kūrma's core c. early 8th c. CE with later revision, within the entry's 6th-9th c.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._

@@ -22,4 +22,4 @@
 _Notes: The Buddhist Sahajiyā 'sahaja' of the siddhas (U44, same concept id expected) is the scholarly-hypothesized ancestor of the Bengali usage (brw:mahasiddha-to-vaisnava-sahajiya); the Sant usage comes via the Nāths (brw:natha-to-sant)._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts, skeleton:U27-sant-baul, skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts, skeleton:U27-sant-baul, skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._

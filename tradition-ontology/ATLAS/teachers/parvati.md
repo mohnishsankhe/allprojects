@@ -14,4 +14,4 @@
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press), local:sources_raw/raw_etexts/kAvyam/padyam/peterFreund/stotram/guru_gita.md (Ganeshpuri recension) — Questioner in AR 1.1.13-15 and in the Guru Gītā.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._

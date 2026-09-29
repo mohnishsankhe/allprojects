@@ -16,4 +16,4 @@ Tāranātha's history of the Tārā tantra and its Indian lineage-holders.
   - kind: translation; name: D. Templeman, The Origin of the Tārā Tantra (1981)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._

@@ -15,4 +15,4 @@ Before the bond teacher and disciple test each other; qualities to seek and faul
 - A broken pledge is a fault for both teacher and disciple. — [Gurupañcāśikā](../texts/gurupancasika.md) 6
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._

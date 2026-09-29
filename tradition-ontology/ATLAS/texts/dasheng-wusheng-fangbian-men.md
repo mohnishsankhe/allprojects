@@ -30,4 +30,4 @@ disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature �
 _Notes: Dunhuang (T85 no. 2834); not held locally. Details of the five means from memory — low confidence._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

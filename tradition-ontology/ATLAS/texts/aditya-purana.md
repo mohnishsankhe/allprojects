@@ -16,4 +16,4 @@ An Upapurāṇa named in the lists and quoted in digests; no complete text confi
 
 - 2026-09-29 websearch: confirmed — https://www.wisdomlib.org/hinduism/book/studies-in-the-upapuranas/d/doc1471604.html, local:sources_raw/raw_etexts/purANam/mAdhva-app/matsya-purANam.md (chs. 1-176) 53.63 — Web: one of the earliest Upapurāṇas, quoted by numerous nibandha authors, known mainly from these quotations (Hazra); named by Al-Biruni. Matsya 53.63 confirmed locally.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._

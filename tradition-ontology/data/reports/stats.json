@@ -1,73 +1,73 @@
 {
- "generated": "2026-09-29 18:14 IST",
+ "generated": "2026-09-29 21:51 IST",
  "entities": {
   "sources": {
    "sourced": 576,
    "recent": 123,
-   "skeleton": 3119,
-   "total": 3695
+   "skeleton": 3122,
+   "total": 3698
   },
   "lineages": {
    "sourced": 31,
-   "recent": 27,
-   "skeleton": 292,
-   "total": 323
+   "recent": 51,
+   "skeleton": 316,
+   "total": 347
   },
   "teachers": {
-   "sourced": 385,
+   "sourced": 396,
    "recent": 210,
-   "skeleton": 2387,
-   "total": 2772
+   "skeleton": 2378,
+   "total": 2774
   },
   "teachings": {
    "sourced": 2402,
-   "text-verified": 599,
-   "skeleton": 8299,
+   "text-verified": 712,
+   "skeleton": 8309,
    "unverified": 1,
    "recent": 100,
-   "total": 11300
+   "total": 11423
   },
   "terms": {
-   "skeleton": 4771,
-   "sourced": 10,
+   "skeleton": 4719,
+   "sourced": 80,
    "recent": 20,
-   "total": 4781
+   "total": 4799
   },
   "concepts": {
-   "skeleton": 2617,
-   "sourced": 327,
+   "skeleton": 2611,
+   "sourced": 335,
    "recent": 22,
-   "total": 2944
+   "total": 2946
   },
   "ultimate": {
-   "skeleton": 203,
+   "skeleton": 227,
    "sourced": 5,
-   "recent": 11,
-   "total": 208
+   "recent": 35,
+   "total": 232
   },
   "obstacles": {
-   "skeleton": 545,
-   "sourced": 66,
+   "skeleton": 539,
+   "sourced": 75,
    "recent": 2,
-   "total": 611
+   "total": 614
   },
   "practices": {
-   "skeleton": 1302,
-   "sourced": 223,
+   "skeleton": 1274,
+   "sourced": 251,
    "recent": 30,
    "total": 1525
   },
   "paths": {
-   "skeleton": 168,
-   "sourced": 37,
+   "skeleton": 173,
+   "sourced": 40,
    "recent": 6,
-   "total": 205
+   "total": 213
   },
   "phenomenology": {
    "skeleton": 644,
-   "sourced": 96,
+   "sourced": 98,
    "recent": 19,
-   "total": 740
+   "total": 742
   },
   "disputes": {
    "sourced": 49,
@@ -89,7 +89,7 @@
   "not-found": 1
  },
  "queue": 418,
- "interpretation_log": 2314,
- "conflicts": 3141,
- "dangling_refs": 190
+ "interpretation_log": 2360,
+ "conflicts": 3206,
+ "dangling_refs": 430
 }

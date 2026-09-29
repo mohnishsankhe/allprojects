@@ -845,6 +845,50 @@
   }
  },
  {
+  "id": "trm:abhijjhadomanassa",
+  "term": "abhijjhādomanassa",
+  "language": "Pali",
+  "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "What the monk puts away with regard to the world while abiding in each of the four contemplations (MN 10).",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:3"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:satipatthana-sutta/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "trm:abhijna",
   "term": "abhijñā",
   "language": "Sanskrit",
@@ -14737,6 +14781,16 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "MN 118:10: a monk who, with the five lower fetters ended, is reborn spontaneously, attains final nibbāna there and is not liable to return from that world.",
+    "sources": [
+     "src:anapanasati-sutta"
+    ],
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:10"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "One who has abandoned the five lower fetters and is reborn spontaneously in the pure abodes, attaining nibbāna there without returning (MN 64; MN 10).",
     "sources": [
      "src:itivuttaka",
@@ -14751,10 +14805,23 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -14770,9 +14837,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -14831,6 +14900,50 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:anagamita",
+  "term": "anāgāmitā",
+  "language": "Pali",
+  "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "The second of the two fruits expected of one who develops the four satipaṭṭhānas, where there is a residue of clinging (MN 10:46).",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:46"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:satipatthana-sutta/all"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -16102,9 +16215,21 @@
  },
  {
   "id": "trm:anapanasati",
-  "term": "ānāpānasati",
+  "term": "ānāpānassati",
   "language": "Pali",
   "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "Mindfulness of in-breathing and out-breathing: practised in sixteen steps in four tetrads (MN 118:17-21); developed and cultivated it is of great fruit and benefit and fulfils the four establishments of mindfulness, which fulfil the seven awakening factors, which fulfil knowledge and liberation (mn118:15).",
+    "sources": [
+     "src:anapanasati-sutta"
+    ],
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:15",
+     "tea:anapanasati-sutta:mn118:17",
+     "tea:anapanasati-sutta:mn118:18"
+    ]
+   },
    {
     "lineage": "lin:early-buddhism",
     "definition": "Mindfulness of in- and out-breathing in sixteen steps, which fulfils the four establishments of mindfulness, the seven factors of awakening, and true knowledge and liberation (MN 118; SN 54.1).",
@@ -16139,10 +16264,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:anapanasati-sutta:mn118:26/2"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -16162,10 +16302,12 @@
   ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas",
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -17889,6 +18031,50 @@
   }
  },
  {
+  "id": "trm:anissita",
+  "term": "anissita",
+  "language": "Pali",
+  "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "The monk 'abides independent and clings to nothing in the world' (refrain, MN 10:5 and after).",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:5"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:satipatthana-sutta/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "trm:anitya",
   "term": "anitya",
   "language": "Sanskrit",
@@ -18280,6 +18466,16 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "The first of the two fruits, in this very life (MN 10:46).",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:46"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "Final knowledge (arahantship) in this life, one of the two fruits of satipaṭṭhāna (MN 10).",
     "sources": [
      "src:mahasatipatthana-sutta",
@@ -18315,10 +18511,23 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -18333,6 +18542,7 @@
   "native": "अन्न",
   "provenance": {
    "units": [
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas",
     "extraction:bhagavad-gita/ch01-03",
     "skeleton:U03-principal-upanisads"
@@ -25467,6 +25677,16 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "MN 118:9: a monk with the taints destroyed, who has lived the holy life, done what was to be done, laid down the burden, reached his own goal, destroyed the fetters of becoming, and is liberated by right knowledge.",
+    "sources": [
+     "src:anapanasati-sutta"
+    ],
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:9"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "One whose effluents are destroyed, who has lived the holy life and done what was to be done (DN 2); has ten factors (MN 117).",
     "sources": [
      "src:samannaphala-sutta"
@@ -25489,10 +25709,23 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -25518,10 +25751,12 @@
   ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas",
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -26670,6 +26905,16 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "DN 22:21: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration, each defined in the sutta.",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:21"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "Right view, intention, speech, action, livelihood, effort, mindfulness and concentration (SN 45.8), the middle way that avoids sensual indulgence and self-mortification (SN 56.11); grouped into the trainings of virtue, concentration and wisdom (MN 44).",
     "sources": [
      "src:dhammacakkappavattana-sutta"
@@ -26680,10 +26925,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:mahasatipatthana-sutta:dn22:21"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -26703,9 +26963,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:mahasatipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -26715,6 +26977,30 @@
   "term": "ariyasacca",
   "language": "Pali",
   "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "DN 22:17-21 gives the four in short form (17) and then expands each: suffering (18), its origin (19), its cessation (20), the way (21).",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:17",
+     "tea:mahasatipatthana-sutta:dn22:18",
+     "tea:mahasatipatthana-sutta:dn22:19",
+     "tea:mahasatipatthana-sutta:dn22:20",
+     "tea:mahasatipatthana-sutta:dn22:21"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "The four known 'as it really is': this is suffering; this is the origin of suffering; this is the cessation of suffering; this is the way leading to the cessation of suffering (MN 10:44).",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:44"
+    ]
+   },
    {
     "lineage": "lin:early-buddhism",
     "definition": "The four noble truths (suffering, its origin, its cessation, the path), to be respectively fully understood, abandoned, realised and developed (SN 56.11); what the Buddha declared because it is beneficial (SN 56.31).",
@@ -26727,10 +27013,39 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:mahasatipatthana-sutta:dn22:17",
+      "tea:mahasatipatthana-sutta:dn22:21"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    },
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:satipatthana-sutta:mn10:44"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -26752,9 +27067,12 @@
   ],
   "provenance": {
    "units": [
+    "extraction:mahasatipatthana-sutta/all",
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -31692,6 +32010,50 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:atapi",
+  "term": "ātāpī",
+  "language": "Pali",
+  "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "One of the three qualities (with sampajāna, satimā) with which the monk abides contemplating in each foundation (MN 10). Not glossed in the sutta.",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:3"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:satipatthana-sutta/all"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -38315,6 +38677,16 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "The six internal and external bases (eye and forms, ear and sounds, nose and smells, tongue and tastes, body and tangibles, mind and dhammas), with the fetter that arises dependent on each pair (MN 10:40).",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:40"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "The six internal (eye … mind) and six external (forms … mental objects) bases, 'the all' (SN 35.23); also the formless 'spheres' and 'that sphere' of Ud 8.1.",
     "sources": [
      "src:sabba-sutta",
@@ -38370,10 +38742,23 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -38413,6 +38798,7 @@
   "notes": "Homonym of the Buddhist technical term āyatana (sense-base).",
   "provenance": {
    "units": [
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas",
     "skeleton:U17-pasupata-kapalika",
     "skeleton:U37-abhidhamma-visuddhimagga",
@@ -38420,6 +38806,7 @@
     "skeleton:U38-early-schools"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -44370,6 +44757,16 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "Second of the three cravings (DN 22:19).",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:19"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "Craving for continued existence, one of the three cravings (SN 56.11); those who hold back delight in becoming (Iti 49).",
     "sources": [
      "src:itivuttaka"
@@ -44380,10 +44777,23 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -44395,9 +44805,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:mahasatipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -48303,6 +48715,27 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "The seven factors of awakening; in MN 118:30-36 they are aroused in sequence when the four establishments are practised, and developed with the four qualifiers of seclusion, dispassion, cessation and ripening in relinquishment they fulfil knowledge and liberation (mn118:42-43).",
+    "sources": [
+     "src:anapanasati-sutta"
+    ],
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:30",
+     "tea:anapanasati-sutta:mn118:42"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "The seven: mindfulness, investigation of dhammas, energy, rapture, tranquillity, concentration, equanimity; known as present or absent, how the unarisen arises, how the arisen comes to fulfilment by development (MN 10:42).",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:42"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "The seven factors: mindfulness, investigation of dhammas, energy, rapture, tranquillity, concentration, equanimity (MN 118; SN 46.51–53).",
     "sources": [
      "src:anapanasati-sutta"
@@ -48313,10 +48746,37 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:anapanasati-sutta:mn118:35",
+      "tea:anapanasati-sutta:mn118:42"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    },
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -48342,9 +48802,12 @@
   ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -51983,14 +52446,37 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "The second of the five hindrances (MN 10:36).",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:36"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "The second hindrance, fed by attention to the sign of the repulsive and starved by the liberation of mind by love (SN 46.51)."
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -52003,9 +52489,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -57574,6 +58062,16 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "Knowing the mind as with or without lust, hatred, delusion; contracted or scattered; exalted or unexalted; surpassable or unsurpassable; concentrated or unconcentrated; liberated or unliberated (MN 10:34).",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:34"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "Knowing the mind as with or without lust, hatred, delusion, contracted or scattered, exalted, concentrated, liberated (MN 10). One of the thirty-seven qualities conducive to awakening (DN 16.3.50; MN 149): a member of the four establishments of mindfulness.",
     "sources": [
      "src:satipatthana-sutta"
@@ -57585,10 +58083,23 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
-   "confidence": "high",
+   "level": "sourced",
+   "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -57603,9 +58114,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -57615,6 +58128,16 @@
   "term": "cittasaṅkhāra",
   "language": "Pali",
   "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "Steps 7 and 8: 'experiencing the mental formation' and 'calming the mental formation' (MN 118:19). Not glossed in the sutta.",
+    "sources": [
+     "src:anapanasati-sutta"
+    ],
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:19"
+    ]
+   },
    {
     "lineage": "lin:early-buddhism",
     "definition": "Perception and feeling (MN 44), experienced and calmed in the second tetrad of mindfulness of breathing (MN 118).",
@@ -57627,10 +58150,23 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
-   "confidence": "high",
+   "level": "sourced",
+   "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -57642,9 +58178,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -62675,6 +63213,20 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "Contemplation of dhammas in five sections in MN 10: the five hindrances, five aggregates of clinging, six sense bases, seven awakening factors and four noble truths.",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:36",
+     "tea:satipatthana-sutta:mn10:38",
+     "tea:satipatthana-sutta:mn10:40",
+     "tea:satipatthana-sutta:mn10:42",
+     "tea:satipatthana-sutta:mn10:44"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "Contemplating the hindrances, aggregates, sense bases, awakening factors and the four truths (MN 10; DN 22). One of the thirty-seven qualities conducive to awakening (DN 16.3.50; MN 149): a member of the four establishments of mindfulness.",
     "sources": [
      "src:satipatthana-sutta"
@@ -62685,10 +63237,26 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:satipatthana-sutta:mn10:36",
+      "tea:satipatthana-sutta:mn10:44"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -62703,9 +63271,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -62872,14 +63442,37 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "Investigation-of-dhammas awakening factor: aroused when, abiding thus mindful, he investigates that dhamma with wisdom, examines it and undertakes a scrutiny of it (MN 118:31).",
+    "sources": [
+     "src:anapanasati-sutta"
+    ],
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:31"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "Investigating states with wisdom; nourished by attending to wholesome and unwholesome states (SN 46.51). One of the thirty-seven qualities conducive to awakening (DN 16.3.50; MN 149): a member of the seven factors of awakening."
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -62894,9 +63487,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -67883,6 +68478,50 @@
   }
  },
  {
+  "id": "trm:domanassa",
+  "term": "domanassa",
+  "language": "Pali",
+  "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "DN 22:18: mental pain, mental unpleasantness, unpleasant feeling born of mental contact.",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:18"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:mahasatipatthana-sutta/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "trm:don-spirit",
   "term": "gdon (dön)",
   "language": "Tibetan",
@@ -70208,6 +70847,16 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "DN 22:18: birth, ageing, death, sorrow, lamentation, pain, displeasure, despair, association with the disliked, separation from the liked, not getting what one wants are suffering; in brief the five aggregates of clinging are suffering. Also the narrow sense: bodily unpleasant feeling born of bodily contact.",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:18"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "The first noble truth: birth, ageing, illness, death, union with the disliked, separation from the liked, not getting what one wants — in brief the five aggregates of clinging (SN 56.11); also one of the three marks, applying to all formations (AN 3.136).",
     "sources": [
      "src:anattalakkhana-sutta",
@@ -70236,10 +70885,23 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -70273,10 +70935,12 @@
   ],
   "provenance": {
    "units": [
+    "extraction:mahasatipatthana-sutta/all",
     "skeleton:U36-pali-suttas",
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -72771,9 +73435,20 @@
  },
  {
   "id": "trm:ekayana",
-  "term": "ekayāna",
-  "language": "Sanskrit",
+  "term": "ekāyana",
+  "language": "Pali",
   "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "In MN 10 the path (magga) of the four satipaṭṭhānas is called ekāyana, for the purification of beings, overcoming sorrow and lamentation, ending pain and displeasure, reaching the right method and realising nibbāna. The sutta does not gloss the word; its rendering is disputed.",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:2",
+     "tea:satipatthana-sutta:mn10:47"
+    ]
+   },
    {
     "lineage": "lin:mahayana",
     "definition": "The single buddha-vehicle: the three vehicles are its skillful presentation (Lotus 2-3); the śrāvaka and pratyekabuddha vehicles enter the great vehicle (Śrīmālā 5).",
@@ -72795,7 +73470,28 @@
     ]
    }
   ],
-  "literal": "the one vehicle",
+  "verification": {
+   "level": "sourced",
+   "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:satipatthana-sutta:mn10:2"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "literal": "one-going",
   "cross_language": [
    {
     "language": "Tibetan",
@@ -72817,20 +73513,16 @@
    "B4",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "native": "एकायन",
   "notes": "The Chāndogya (7.1.2) lists an 'ekāyana' among Nārada's studies; the identification is the tradition's.",
   "provenance": {
    "units": [
+    "extraction:satipatthana-sutta/all",
     "skeleton:U39-mahayana-sutras",
     "skeleton:U08-agama-catalogue"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -85607,6 +86299,50 @@
   }
  },
  {
+  "id": "trm:jara",
+  "term": "jarā",
+  "language": "Pali",
+  "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "DN 22:18: decrepitude, broken teeth, grey hair, wrinkled skin, decline of life-span, maturing of the faculties.",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:18"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:mahasatipatthana-sutta/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "trm:jaramarana",
   "term": "jarāmaraṇa",
   "language": "Pali",
@@ -85765,10 +86501,18 @@
  {
   "id": "trm:jati",
   "term": "jāti",
-  "language": "Sanskrit",
-  "native": "जाति",
-  "literal": "birth; class; universal; futile rejoinder",
+  "language": "Pali",
   "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "DN 22:18: the being-born of beings in their various orders, coming to be, manifestation of the aggregates, acquisition of the sense bases.",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:18"
+    ]
+   },
    {
     "lineage": "lin:nyaya",
     "definition": "(1) In debate: a futile rejoinder based merely on similarity or dissimilarity (NS 1.2.18), of twenty-four kinds (NS 5.1.1). (2) The universal, 'that whose nature is to produce sameness' (NS 2.2.71), part of a word's meaning (NS 2.2.68).",
@@ -85882,6 +86626,27 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "native": "जाति",
+  "literal": "birth; class; universal; futile rejoinder",
   "concepts": [
    "cpt:twenty-four-jatis",
    "cpt:jatibadhakas",
@@ -85898,12 +86663,6 @@
    "B3",
    "A9"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "cross_language": [
    {
     "language": "Sanskrit",
@@ -85916,6 +86675,7 @@
   ],
   "provenance": {
    "units": [
+    "extraction:mahasatipatthana-sutta/all",
     "skeleton:U11-nyaya-vaisesika",
     "skeleton:U20-virasaiva",
     "skeleton:U36-pali-suttas",
@@ -85925,6 +86685,7 @@
     "skeleton:U31-sound-arts"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -86207,6 +86968,16 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "DN 22:21 describes four as the content of right concentration: (1) secluded from sensual pleasures and unwholesome states, with thought and sustained thought, rapture and pleasure born of seclusion; (2) thought and sustained thought stilled, inner confidence, unification of mind, rapture and pleasure born of concentration; (3) rapture faded, equanimous, mindful, clearly comprehending, pleasure felt with the body; (4) pleasure and pain abandoned, neither painful nor pleasant, purity of mindfulness through equanimity.",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:21"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "The four meditative absorptions: the first with applied and sustained thought, rapture and bliss born of seclusion; the second with rapture and bliss born of concentration; the third with bliss and equanimity; the fourth with purity of mindfulness through equanimity (DN 2; SN 45.8); remembered by the bodhisatta as 'the path to awakening' (MN 36); a basis for destroying the effluents (AN 9.36).",
     "sources": [
      "src:anguttara-nikaya",
@@ -86241,10 +87012,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
-   "confidence": "high",
+   "level": "sourced",
+   "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:mahasatipatthana-sutta:dn22:21"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -86284,10 +87070,12 @@
   ],
   "provenance": {
    "units": [
+    "extraction:mahasatipatthana-sutta/all",
     "skeleton:U36-pali-suttas",
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -93527,14 +94315,37 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "The first of the five hindrances in MN 10:36; known as present or absent, and how unarisen arises, arisen is abandoned, abandoned does not arise again.",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:36"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "The first hindrance, fed by unwise attention to the sign of the beautiful and starved by attention to the sign of foulness (SN 46.51)."
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -93547,9 +94358,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -94041,6 +94854,50 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:kamatanha",
+  "term": "kāmataṇhā",
+  "language": "Pali",
+  "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "First of the three cravings (DN 22:19).",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:19"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:mahasatipatthana-sutta/all"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -99861,6 +100718,17 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "Contemplation of the body in the body in fourteen sections in MN 10: breath, postures, clear comprehension, repulsiveness, elements and nine charnel-ground contemplations.",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:4",
+     "tea:satipatthana-sutta:mn10:31"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "Contemplating the body in the body — breathing, postures, clear comprehension, the parts, the elements, the charnel-ground stages (MN 10). One of the thirty-seven qualities conducive to awakening (DN 16.3.50; MN 149): a member of the four establishments of mindfulness.",
     "sources": [
      "src:satipatthana-sutta"
@@ -99871,10 +100739,27 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:satipatthana-sutta:mn10:14",
+      "tea:satipatthana-sutta:mn10:30",
+      "tea:satipatthana-sutta:mn10:8"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -99889,9 +100774,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -99939,6 +100826,16 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "Step 4 of the sixteen is 'calming the bodily formation (passambhayaṁ kāyasaṅkhāraṁ)' (MN 118:18). The sutta does not gloss the term here.",
+    "sources": [
+     "src:anapanasati-sutta"
+    ],
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:18"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "In-and-out breathing (MN 44), calmed in the fourth step of mindfulness of breathing (MN 118).",
     "sources": [
      "src:anapanasati-sutta",
@@ -99953,10 +100850,23 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
-   "confidence": "high",
+   "level": "sourced",
+   "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -99968,9 +100878,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -120425,6 +121337,50 @@
   }
  },
  {
+  "id": "trm:marana",
+  "term": "maraṇa",
+  "language": "Pali",
+  "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "DN 22:18: the passing away and dissolution of beings from their order, the breaking up of the aggregates, the laying down of the body, the cutting off of the life faculty.",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:18"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:mahasatipatthana-sutta/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "trm:maranam-apavarga",
   "term": "maraṇam evāpavargaḥ",
   "language": "Sanskrit",
@@ -135438,6 +136394,62 @@
   }
  },
  {
+  "id": "trm:niramisa",
+  "term": "nirāmisa",
+  "language": "Pali",
+  "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "The counterpart of sāmisa in MN 10:32; also qualifies rapture (pīti nirāmisā) in MN 118:33.",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:32"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "Qualifies the rapture that arises in one whose energy is aroused (pīti nirāmisā, MN 118:33). Not glossed in the sutta.",
+    "sources": [
+     "src:anapanasati-sutta"
+    ],
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:33"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "literal": "without flesh / without bait",
+  "provenance": {
+   "units": [
+    "extraction:satipatthana-sutta/all",
+    "extraction:anapanasati-sutta/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "trm:niranjana",
   "term": "nirañjana",
   "language": "Sanskrit",
@@ -136721,10 +137733,18 @@
  {
   "id": "trm:nirodha",
   "term": "nirodha",
-  "language": "Sanskrit",
-  "native": "निरोध",
-  "literal": "restraint, stilling, cessation",
+  "language": "Pali",
   "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "DN 22:20: the complete fading away and cessation (asesavirāganirodha) of that same craving, its giving up, relinquishment, release, non-reliance.",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:20"
+    ]
+   },
    {
     "lineage": "lin:patanjala-yoga",
     "definition": "The stilling of the mind's activities, achieved by practice and dispassion (1.2, 1.12); as a transformation it is the mind's being joined to the moment of stilling as impressions of stilling overpower those of emergence (3.9); Nāgeśa calls it a supersensible effort of restraint that dissolves the activities.",
@@ -136774,6 +137794,27 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "native": "निरोध",
+  "literal": "restraint, stilling, cessation",
   "cross_language": [
    {
     "language": "Pali",
@@ -136798,12 +137839,6 @@
    "A9",
    "A6"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "related": [
    "trm:nibbana",
    "trm:sannavedayitanirodha"
@@ -136815,12 +137850,14 @@
   ],
   "provenance": {
    "units": [
+    "extraction:mahasatipatthana-sutta/all",
     "skeleton:U10-yoga",
     "skeleton:U36-pali-suttas",
     "skeleton:U25-alvar-bhakti-theory",
     "skeleton:U16-bhedabheda"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -139563,6 +140600,16 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "The five hindrances named in MN 10:36 as the first field of the contemplation of dhammas: sensual desire, ill will, dullness and drowsiness, restlessness and remorse, doubt.",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:36"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "The five hindrances — sensual desire, ill will, dullness and drowsiness, restlessness and remorse, doubt — which obstruct the mind, like debt, disease, prison, slavery and a desert crossing (DN 2), or like dyed, boiling, mossy, windswept and muddy water (SN 46.55).",
     "sources": [
      "src:samannaphala-sutta"
@@ -139593,10 +140640,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:satipatthana-sutta:mn10:36"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -139622,11 +140684,13 @@
   ],
   "provenance": {
    "units": [
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas",
     "skeleton:U37-abhidhamma-visuddhimagga",
     "skeleton:U38-early-schools"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -150510,6 +151574,50 @@
   }
  },
  {
+  "id": "trm:parideva",
+  "term": "parideva",
+  "language": "Pali",
+  "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "DN 22:18: wailing and lamenting in one struck by some misfortune or painful state.",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:18"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:mahasatipatthana-sutta/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "trm:parigraha",
   "term": "parigraha",
   "language": "Sanskrit",
@@ -152834,14 +153942,37 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "Tranquillity awakening factor: aroused when, for one whose mind is rapt, body and mind become tranquil (MN 118:34).",
+    "sources": [
+     "src:anapanasati-sutta"
+    ],
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:34"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "Tranquillity of body and mind (MN 118); to be developed when the mind is restless (SN 46.53). One of the thirty-seven qualities conducive to awakening (DN 16.3.50; MN 149): a member of the seven factors of awakening."
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -152856,9 +153987,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -154106,6 +155239,50 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:patinissagga",
+  "term": "paṭinissagga",
+  "language": "Pali",
+  "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "Step 16: 'contemplating relinquishment (paṭinissaggānupassī)' (MN 118:21).",
+    "sources": [
+     "src:anapanasati-sutta"
+    ],
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:21"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:anapanasati-sutta/all"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -155912,6 +157089,17 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "Step 5 'experiencing rapture' (MN 118:19); in the awakening-factor sequence the unworldly (nirāmisā) rapture that arises in one whose energy is aroused (mn118:33).",
+    "sources": [
+     "src:anapanasati-sutta"
+    ],
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:19",
+     "tea:anapanasati-sutta:mn118:33"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "Rapture born of seclusion or concentration, factor of the first two jhānas (DN 2); the fourth factor of awakening; arises from gladness and leads to tranquillity (SN 12.23).",
     "sources": [
      "src:bojjhanga-samyutta",
@@ -155936,10 +157124,23 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -155962,10 +157163,12 @@
   ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas",
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -155977,14 +157180,37 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "Rapture awakening factor: aroused when unworldly rapture arises in one whose energy is aroused (MN 118:33).",
+    "sources": [
+     "src:anapanasati-sutta"
+    ],
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:33"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "Spiritual rapture arising in one who has aroused energy (MN 118). One of the thirty-seven qualities conducive to awakening (DN 16.3.50; MN 149): a member of the seven factors of awakening."
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -155999,9 +157225,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -156308,6 +157536,51 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:piyarupa-satarupa",
+  "term": "piyarūpa sātarūpa",
+  "language": "Pali",
+  "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "The 'places' where craving arises and takes root, and where it is abandoned and ceases (DN 22:19-20); the text lists the six sense bases, six objects, six consciousnesses, six contacts, six feelings, six perceptions, six volitions, six cravings, six thoughts and six sustained thoughts.",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:19",
+     "tea:mahasatipatthana-sutta:dn22:20"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:mahasatipatthana-sutta/all"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -180718,6 +181991,16 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "MN 118:11: a monk who, with three fetters ended and lust, hatred and delusion weakened, will come to this world only once and make an end of suffering.",
+    "sources": [
+     "src:anapanasati-sutta"
+    ],
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:11"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "One who, with the three fetters abandoned and lust, hatred and delusion attenuated, returns to this world only once more.",
     "sources": [
      "src:cullavagga"
@@ -180728,10 +182011,23 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -180747,9 +182043,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -183510,14 +184808,39 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "Concentration awakening factor: aroused when, for one whose body is tranquil and who is happy, the mind is concentrated (MN 118:35).",
+    "sources": [
+     "src:anapanasati-sutta"
+    ],
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:35"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "The concentration of one tranquil and happy (MN 118). One of the thirty-seven qualities conducive to awakening (DN 16.3.50; MN 149): a member of the seven factors of awakening."
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:anapanasati-sutta:mn118:35"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -183532,9 +184855,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -186944,6 +188269,51 @@
   }
  },
  {
+  "id": "trm:samisa",
+  "term": "sāmisa",
+  "language": "Pali",
+  "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "In MN 10:32 feelings are known as worldly (sāmisa) or unworldly (nirāmisa); not glossed in the sutta.",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:32"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "literal": "with flesh / with bait",
+  "provenance": {
+   "units": [
+    "extraction:satipatthana-sutta/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "trm:samiti",
   "term": "samiti",
   "language": "Sanskrit",
@@ -187553,6 +188923,16 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "DN 22:21: the noble disciple abandons wrong livelihood and makes a living by right livelihood.",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:21"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "Abandoning wrong livelihood (SN 45.8) — for lay followers the five wrong trades (AN 5.177). One of the thirty-seven qualities conducive to awakening (DN 16.3.50; MN 149): a member of the noble eightfold path.",
     "sources": [
      "src:magga-samyutta",
@@ -187565,10 +188945,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:mahasatipatthana-sutta:dn22:21"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -187583,9 +188978,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:mahasatipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -187632,6 +189029,16 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "DN 22:21: knowledge of suffering, of its origin, of its cessation and of the way leading to its cessation.",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:21"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "Knowledge of the four truths (SN 45.8); understanding the wholesome and its roots (MN 9); mundane and supramundane, and first of the factors (MN 117). One of the thirty-seven qualities conducive to awakening (DN 16.3.50; MN 149): a member of the noble eightfold path.",
     "sources": [
      "src:kaccanagotta-sutta",
@@ -187650,10 +189057,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:mahasatipatthana-sutta:dn22:21"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -187668,9 +189090,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:mahasatipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -187680,6 +189104,16 @@
   "term": "sammākammanta",
   "language": "Pali",
   "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "DN 22:21: abstaining from killing living beings, from taking what is not given, and from sexual misconduct.",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:21"
+    ]
+   },
    {
     "lineage": "lin:early-buddhism",
     "definition": "Abstaining from killing, stealing and sexual misconduct (SN 45.8). One of the thirty-seven qualities conducive to awakening (DN 16.3.50; MN 149): a member of the noble eightfold path.",
@@ -187692,10 +189126,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:mahasatipatthana-sutta:dn22:21"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -187710,9 +189159,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:mahasatipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -187722,6 +189173,16 @@
   "term": "sammāsamādhi",
   "language": "Pali",
   "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "DN 22:21: the four jhānas, each described.",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:21"
+    ]
+   },
    {
     "lineage": "lin:early-buddhism",
     "definition": "The four jhānas (SN 45.8); unification supported by the other seven factors (MN 117); five-factored (AN 5.28). One of the thirty-seven qualities conducive to awakening (DN 16.3.50; MN 149): a member of the noble eightfold path.",
@@ -187738,10 +189199,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:mahasatipatthana-sutta:dn22:21"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -187756,9 +189232,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:mahasatipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -187768,6 +189246,16 @@
   "term": "sammāsaṅkappa",
   "language": "Pali",
   "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "DN 22:21: intention of renunciation (nekkhamma), of non-ill-will and of non-harming.",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:21"
+    ]
+   },
    {
     "lineage": "lin:early-buddhism",
     "definition": "Intention of renunciation, non-ill-will and harmlessness (SN 45.8; MN 19). One of the thirty-seven qualities conducive to awakening (DN 16.3.50; MN 149): a member of the noble eightfold path.",
@@ -187782,10 +189270,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:mahasatipatthana-sutta:dn22:21"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -187800,9 +189303,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:mahasatipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -187812,6 +189317,16 @@
   "term": "sammāsati",
   "language": "Pali",
   "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "DN 22:21: the monk abides contemplating body in body, feelings in feelings, mind in mind, dhammas in dhammas, ardent, clearly comprehending and mindful, having put away covetousness and displeasure for the world (that is, the four establishments of mindfulness).",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:21"
+    ]
+   },
    {
     "lineage": "lin:early-buddhism",
     "definition": "The four establishments of mindfulness (SN 45.8). One of the thirty-seven qualities conducive to awakening (DN 16.3.50; MN 149): a member of the noble eightfold path.",
@@ -187824,10 +189339,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:mahasatipatthana-sutta:dn22:21"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -187842,9 +189372,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:mahasatipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -187854,6 +189386,16 @@
   "term": "sammāvācā",
   "language": "Pali",
   "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "DN 22:21: abstaining from false speech, divisive speech, harsh speech and idle chatter.",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:21"
+    ]
+   },
    {
     "lineage": "lin:early-buddhism",
     "definition": "Abstaining from false, divisive, harsh speech and idle chatter (SN 45.8); speaking only the true and beneficial at the right time (MN 58). One of the thirty-seven qualities conducive to awakening (DN 16.3.50; MN 149): a member of the noble eightfold path.",
@@ -187868,10 +189410,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:mahasatipatthana-sutta:dn22:21"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -187886,9 +189443,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:mahasatipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -187898,6 +189457,16 @@
   "term": "sammāvāyāma",
   "language": "Pali",
   "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "DN 22:21: generating desire, making effort, arousing energy, exerting the mind, striving for the non-arising of unarisen evil unwholesome states, the abandoning of arisen ones, the arising of unarisen wholesome states, and the persistence and fulfilment of arisen wholesome states.",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:21"
+    ]
+   },
    {
     "lineage": "lin:early-buddhism",
     "definition": "The four right strivings (SN 45.8). One of the thirty-seven qualities conducive to awakening (DN 16.3.50; MN 149): a member of the noble eightfold path.",
@@ -187910,10 +189479,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:mahasatipatthana-sutta:dn22:21"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -187928,9 +189512,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:mahasatipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -188436,6 +190022,17 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "In MN 10 the monk 'acts with clear comprehension (sampajānakārī)' in going and returning, looking, bending, eating, excreting, sleeping, speaking and keeping silent; it is also one of the qualities of every satipaṭṭhāna practice.",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:3",
+     "tea:satipatthana-sutta:mn10:8"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "Acting with full awareness when going and returning, looking, bending, eating, speaking and keeping silent (DN 2; MN 10).",
     "sources": [
      "src:anapanasati-sutta",
@@ -188461,10 +190058,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:satipatthana-sutta:mn10:8"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -188483,10 +190095,12 @@
   ],
   "provenance": {
    "units": [
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas",
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -191215,9 +192829,19 @@
  },
  {
   "id": "trm:samyojana",
-  "term": "saṃyojana",
+  "term": "saṁyojana",
   "language": "Pali",
   "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "In MN 10:40 the fetter that arises dependent on a sense base and its object; known as present, how unarisen arises, how arisen is abandoned, how abandoned does not arise again.",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:40"
+    ]
+   },
    {
     "lineage": "lin:early-buddhism",
     "definition": "The ten fetters: five lower (identity view, doubt, clinging to rules and vows, sensual lust, ill will) and five higher (lust for form, lust for the formless, conceit, restlessness, ignorance) (MN 64)."
@@ -191245,10 +192869,23 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -191274,11 +192911,13 @@
   ],
   "provenance": {
    "units": [
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas",
     "skeleton:U37-abhidhamma-visuddhimagga",
     "skeleton:U38-early-schools"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -196766,6 +198405,17 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "In MN 10 mindfulness is established in front (parimukhaṁ satiṁ upaṭṭhapetvā) for the breath practice, and 'mindfulness that there is a body (…feelings, mind, dhammas)' is established just for knowledge and recollection (ñāṇamatta, paṭissatimatta).",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:4",
+     "tea:satipatthana-sutta:mn10:5"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "Mindfulness established in the four satipaṭṭhānas (MN 10); the faculty of mindfulness (SN 48.10); the first factor of awakening, always useful (SN 46.53); dams the currents of the world (Snp 5.2).",
     "sources": [
      "src:bojjhanga-samyutta",
@@ -196796,10 +198446,23 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -196834,10 +198497,12 @@
   ],
   "provenance": {
    "units": [
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas",
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -196903,14 +198568,37 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "Mindfulness awakening factor: when a monk abides contemplating (body, feelings, mind or dhammas), unmuddled mindfulness is established; at that time this factor is aroused, developed and goes to fulfilment by development (MN 118:30).",
+    "sources": [
+     "src:anapanasati-sutta"
+    ],
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:30"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "Mindfulness established, always useful (MN 118; SN 46.53). One of the thirty-seven qualities conducive to awakening (DN 16.3.50; MN 149): a member of the seven factors of awakening."
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -196925,9 +198613,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -197011,6 +198701,18 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "Four contemplations, of body, feelings, mind and dhammas, each practised ardent, clearly comprehending and mindful, having put away covetousness and displeasure for the world; the path of purification and realisation of nibbāna (MN 10).",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:2",
+     "tea:satipatthana-sutta:mn10:3",
+     "tea:satipatthana-sutta:mn10:46"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "The four establishments of mindfulness — contemplating body, feelings, mind and dhammas, ardent, clearly comprehending, mindful, having removed covetousness and grief (MN 10); the direct path to purification and nibbāna; one's own pasture (SN 47.6).",
     "sources": [
      "src:satipatthana-sutta"
@@ -197033,10 +198735,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:satipatthana-sutta:mn10:2"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -197059,10 +198776,12 @@
   ],
   "provenance": {
    "units": [
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas",
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -204017,6 +205736,64 @@
   }
  },
  {
+  "id": "trm:sivathika",
+  "term": "sivathikā",
+  "language": "Pali",
+  "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "The charnel ground, where the monk, as if he saw (seyyathāpi passeyya) a body thrown away there in one of nine stages of decay, compares his own body with it (MN 10:14-30).",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:14",
+     "tea:satipatthana-sutta:mn10:30"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "old: The place where the monk imagines seeing a discarded body, in nine stages of decay, and compares his own body with it (MN 10:14-30).",
+      "new: The charnel ground, where the monk, as if he saw (seyyathāpi passeyya) a body thrown away there in one of nine stages of decay, compares his own body with it (MN 10:14-30)."
+     ],
+     "result": "corrected",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Definition corrected by J: 'imagines' imposed one reading of 'seyyathāpi passeyya' (as if he were to see); the text does not decide between seeing and imagining."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "correction_log": [
+   {
+    "field": "definitions[].definition",
+    "old": "The place where the monk imagines seeing a discarded body, in nine stages of decay, and compares his own body with it (MN 10:14-30).",
+    "new": "The charnel ground, where the monk, as if he saw (seyyathāpi passeyya) a body thrown away there in one of nine stages of decay, compares his own body with it (MN 10:14-30).",
+    "reason": "'imagines' imposed one reading of 'seyyathāpi passeyya' (as if he were to see); the text does not decide between seeing and imagining",
+    "by": "J",
+    "date": "2026-09-29"
+   }
+  ],
+  "provenance": {
+   "units": [
+    "extraction:satipatthana-sutta/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "trm:sivatva",
   "term": "śivatva / śivasāmya",
   "language": "Sanskrit",
@@ -205725,11 +207502,19 @@
  },
  {
   "id": "trm:soka",
-  "term": "śoka",
-  "language": "Sanskrit",
-  "native": "शोक",
-  "literal": "grief, sorrow",
+  "term": "soka",
+  "language": "Pali",
   "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "DN 22:18: sorrowing, grieving, inner sorrow in one struck by some misfortune or painful state.",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:18"
+    ]
+   },
    {
     "lineage": "lin:epic-teaching",
     "definition": "Bhagavad Gītā 1–3: Arjuna, overwhelmed by grief, casts aside his bow (1.47) and sees nothing that would dispel his grief (2.8); Kṛṣṇa: the wise do not grieve (2.11), and since the embodied one is imperishable and death certain for the born, Arjuna should not grieve (2.25–30).",
@@ -205747,6 +207532,27 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "native": "शोक",
+  "literal": "grief, sorrow",
   "related": [
    "trm:visada",
    "trm:moha"
@@ -205758,14 +207564,9 @@
    "A3",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:mahasatipatthana-sutta/all",
     "extraction:bhagavad-gita/ch01-03"
    ],
    "phases": [
@@ -205980,6 +207781,16 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "MN 118:12: a monk who, with three fetters ended, is not liable to fall into the lower worlds, is fixed in destiny and heads for awakening.",
+    "sources": [
+     "src:anapanasati-sutta"
+    ],
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:12"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "One who possesses the noble eightfold path (SN 55.5), has the eye of Dhamma, has abandoned identity view, doubt and clinging to rules and vows, and is no longer bound for the lower realms (DN 16).",
     "sources": [
      "src:mahaparinibbana-sutta",
@@ -205992,10 +207803,23 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -206016,9 +207840,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -217117,6 +218943,17 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "DN 22:19: the craving that leads to renewed becoming, accompanied by delight and passion, delighting here and there; threefold: kāma-, bhava-, vibhava-taṇhā. It arises and settles wherever in the world there is the dear-looking and pleasant-looking (eye, ear, nose, tongue, body, mind; their objects; consciousnesses; contacts; feelings; perceptions; volitions; cravings; thoughts; sustained thoughts). It is abandoned and ceases in the same places (dn22:20).",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:19",
+     "tea:mahasatipatthana-sutta:dn22:20"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "Craving for sensual pleasures, for becoming and for non-becoming, which leads to renewed existence (SN 56.11); the six classes of craving for the six objects (SN 12.2); the taking up of the burden (SN 22.22).",
     "sources": [
      "src:bhara-sutta",
@@ -217145,10 +218982,23 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -217189,10 +219039,12 @@
   ],
   "provenance": {
    "units": [
+    "extraction:mahasatipatthana-sutta/all",
     "skeleton:U36-pali-suttas",
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -221291,19 +223143,42 @@
  },
  {
   "id": "trm:thina-middha",
-  "term": "thīnamiddha",
+  "term": "thinamiddha",
   "language": "Pali",
   "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "The third of the five hindrances (MN 10:36).",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:36"
+    ]
+   },
    {
     "lineage": "lin:early-buddhism",
     "definition": "The third hindrance, fed by discontent, lethargy and sleepiness after meals and starved by arousal and exertion (SN 46.51; AN 7.61)."
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -221316,9 +223191,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -227909,14 +229786,37 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "The fourth of the five hindrances (MN 10:36).",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:36"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "The fourth hindrance, fed by unsettledness of mind and starved by peace of mind (SN 46.51)."
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -227929,9 +229829,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -229680,6 +231582,16 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "The five: form, feeling, perception, formations, consciousness; the monk knows each with its arising and passing away (MN 10:38).",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:38"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "The aggregates as affected by the effluents and subject to clinging (SN 22.48); in brief, they are suffering (SN 56.11) and identity (sakkāya) (MN 44).",
     "sources": [
      "src:bhara-sutta",
@@ -229694,10 +231606,23 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -229710,9 +231635,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -230148,6 +232075,50 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:upadisesa",
+  "term": "upādisesa",
+  "language": "Pali",
+  "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "In MN 10:46 the condition under which non-return (anāgāmitā) is the second of the two expected fruits.",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:46"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:satipatthana-sutta/all"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -231929,6 +233900,50 @@
   }
  },
  {
+  "id": "trm:upayasa",
+  "term": "upāyāsa",
+  "language": "Pali",
+  "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "DN 22:18: distress and despair in one struck by some misfortune or painful state.",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:18"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:mahasatipatthana-sutta/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "trm:upayoga",
   "term": "upayoga",
   "language": "Sanskrit",
@@ -232047,14 +234062,38 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "Equanimity awakening factor: aroused when he looks on with equanimity at the mind thus concentrated (MN 118:36, 39).",
+    "sources": [
+     "src:anapanasati-sutta"
+    ],
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:36",
+     "tea:anapanasati-sutta:mn118:39"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "Looking on with equanimity at the concentrated mind (MN 118). One of the thirty-seven qualities conducive to awakening (DN 16.3.50; MN 149): a member of the seven factors of awakening."
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -232069,9 +234108,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -238820,6 +240861,16 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "Knowing pleasant, painful and neither-painful-nor-pleasant feeling, each as worldly (sāmisa) or unworldly (nirāmisa) (MN 10:32).",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:32"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "Knowing pleasant, painful and neutral feelings, worldly and unworldly (MN 10). One of the thirty-seven qualities conducive to awakening (DN 16.3.50; MN 149): a member of the four establishments of mindfulness.",
     "sources": [
      "src:satipatthana-sutta"
@@ -238831,10 +240882,23 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
-   "confidence": "high",
+   "level": "sourced",
+   "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -238849,9 +240913,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -239499,6 +241565,16 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "Third of the three cravings (DN 22:19).",
+    "sources": [
+     "src:mahasatipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:mahasatipatthana-sutta:dn22:19"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "Craving for annihilation, the third craving (SN 56.11); those repelled by becoming who delight in non-becoming 'overreach' (Iti 49).",
     "sources": [
      "src:itivuttaka"
@@ -239509,10 +241585,23 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -239525,9 +241614,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:mahasatipatthana-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -239922,6 +242013,16 @@
   "definitions": [
    {
     "lineage": "lin:early-buddhism",
+    "definition": "The fifth of the five hindrances (MN 10:36).",
+    "sources": [
+     "src:satipatthana-sutta"
+    ],
+    "rests_on": [
+     "tea:satipatthana-sutta:mn10:36"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
     "definition": "The fifth hindrance and second fetter, fed by things that are the basis for doubt and starved by wise attention to wholesome and unwholesome states (SN 46.51)."
    },
    {
@@ -239937,10 +242038,23 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -239953,10 +242067,12 @@
   ],
   "provenance": {
    "units": [
+    "extraction:satipatthana-sutta/all",
     "skeleton:U36-pali-suttas",
     "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -240768,6 +242884,54 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:vijja-vimutti",
+  "term": "vijjāvimutti",
+  "language": "Pali",
+  "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "The fruit of the seven awakening factors developed and cultivated, and so the last link of the chain that begins with mindfulness of breathing (MN 118:15, 41-43).",
+    "sources": [
+     "src:anapanasati-sutta"
+    ],
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:15",
+     "tea:anapanasati-sutta:mn118:41",
+     "tea:anapanasati-sutta:mn118:43"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:anapanasati-sutta:mn118:42"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:anapanasati-sutta/all"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -244652,19 +246816,42 @@
  },
  {
   "id": "trm:viriya-sambojjhanga",
-  "term": "viriyasambojjhaṅga",
+  "term": "vīriyasambojjhaṅga",
   "language": "Pali",
   "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "Energy awakening factor: aroused when, in one investigating thus, energy is aroused and unflagging (MN 118:32).",
+    "sources": [
+     "src:anapanasati-sutta"
+    ],
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:32"
+    ]
+   },
    {
     "lineage": "lin:early-buddhism",
     "definition": "Unflagging energy; nourished by the elements of arousal, exertion and endeavour (SN 46.51). One of the thirty-seven qualities conducive to awakening (DN 16.3.50; MN 149): a member of the seven factors of awakening."
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
   },
   "coverage": [
    "B3",
@@ -244679,9 +246866,11 @@
   ],
   "provenance": {
    "units": [
+    "extraction:anapanasati-sutta/all",
     "skeleton:U36-pali-suttas"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -247356,6 +249545,52 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:vossagga-parinami",
+  "term": "vossaggapariṇāmī",
+  "language": "Pali",
+  "definitions": [
+   {
+    "lineage": "lin:early-buddhism",
+    "definition": "The fourth of four qualifiers of each awakening factor when developed for knowledge and liberation: supported by seclusion, dispassion, cessation, and ripening in relinquishment (MN 118:42). Not glossed in the sutta.",
+    "sources": [
+     "src:anapanasati-sutta"
+    ],
+    "rests_on": [
+     "tea:anapanasati-sutta:mn118:42"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "checked_by": "J",
+     "protocol": "insight-p1-single+spot",
+     "queries": [],
+     "evidence": [
+      "tea:anapanasati-sutta:mn118:42"
+     ],
+     "result": "partially-confirmed",
+     "note": "Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line."
+    }
+   ],
+   "protocol": "insight-p1-single+spot"
+  },
+  "provenance": {
+   "units": [
+    "extraction:anapanasati-sutta/all"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },

@@ -17,4 +17,4 @@
 _Notes: The Taittirīya Āraṇyaka already calls the wind-girdled Vedic seers śramaṇas (tea:taittiriya-aranyaka:2.7.1) and the Bṛhadāraṇyaka mentions the śramaṇa (tea:brhadaranyaka-upanisad:4.3.22)._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._

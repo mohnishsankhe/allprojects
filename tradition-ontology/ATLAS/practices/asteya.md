@@ -16,4 +16,4 @@ Freedom from desire for what is not one's own (YBh 2.30).
 **Sequences:** [Patañjali's eight limbs of yoga (aṣṭāṅga-yoga)](../paths/yoga-sutra-eight-limbs.md)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 21:52 IST._

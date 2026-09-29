@@ -11,4 +11,4 @@ Daughter of Emperor Asoka and a bhikkhunī who, by the chronicles, brought the b
 _Notes: Known from the Dīpavaṃsa and Mahāvaṃsa (not in the canon)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

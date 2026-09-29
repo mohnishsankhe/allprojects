@@ -18,4 +18,4 @@ Summary only (restricted: includes prolonged fasting). Going naked; licking the 
 - The same verse: not worth a sixteenth of well-taught dharma. — [Uttarādhyayana Sūtra](../texts/uttaradhyayana-sutra.md) 9.44
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._

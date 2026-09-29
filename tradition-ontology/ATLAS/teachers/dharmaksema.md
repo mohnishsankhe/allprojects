@@ -16,4 +16,4 @@
 Indian monk (385-433) in the Northern Liang capital Guzang who translated the 40-fascicle Mahāparinirvāṇa (421), the Golden Light, the Karuṇāpuṇḍarīka, the Mahāmegha and the Upāsakaśīla.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._

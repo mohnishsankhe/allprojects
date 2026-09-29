@@ -16,4 +16,4 @@ Concern with the eight worldly concerns of this life, which makes even ethics, s
 - partial: [The eight worldly concerns](eight-worldly-concerns.md) — the eight concerns are its content
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._

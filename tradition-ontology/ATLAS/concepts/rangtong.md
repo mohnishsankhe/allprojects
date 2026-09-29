@@ -16,4 +16,4 @@
 - same-as-under-standpoint → [Own-nature and its absence](svabhava-and-nihsvabhavata.md) (rangtong Madhyamaka): the self-emptiness of the rangtong Madhyamaka is the Madhyamaka's absence of own-nature applied to all phenomena — rests on [madhyamaka-ultimate](../texts/legs-bshad-snying-po.md#tea-legs-bshad-snying-po-madhyamaka-ultimate)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._

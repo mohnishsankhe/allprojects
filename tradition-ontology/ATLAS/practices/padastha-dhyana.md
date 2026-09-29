@@ -17,4 +17,4 @@ Meditation on letters and mantras: the sixteen vowels on a lotus at the navel, t
 - Mantras are to be meditated on for purification and liberation; using them to harm, attract or subjugate is evil meditation. — [Jñānārṇava](../texts/jnanarnava.md) asad-dhyana
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._

@@ -11,4 +11,4 @@
 Magistrate and writer who revived Gauḍīya learning in the 19th c. (Jaiva Dharma and many works) and identified Māyāpur as Caitanya's birthplace.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._

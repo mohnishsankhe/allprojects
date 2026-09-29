@@ -12,4 +12,4 @@ States arising as each aggregate is penetrated in meditation — visions, lights
   - [Śūraṅgama-sūtra (Chinese Shoulengyan jing, T945)](../texts/surangama-sutra.md) — ref: juan 9-10; rests_on: ["tea:surangama-sutra:9-10"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._

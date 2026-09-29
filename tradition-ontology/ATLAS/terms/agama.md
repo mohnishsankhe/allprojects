@@ -27,4 +27,4 @@
 _Notes: A widely quoted etymology (ā-gata from Śiva's mouth, gata to Girijā, mata by Vāsudeva) is of uncertain source and not recorded as a definition here._
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U10-yoga, skeleton:U17-pasupata-kapalika, skeleton:U08-agama-catalogue, skeleton:U38-early-schools, skeleton:U41-yogacara-pramana, skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U10-yoga, skeleton:U17-pasupata-kapalika, skeleton:U08-agama-catalogue, skeleton:U38-early-schools, skeleton:U41-yogacara-pramana, skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._

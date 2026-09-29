@@ -13,4 +13,4 @@ Attachment to the agreeable, arising from false knowledge and from the notion of
   - [Vaiśeṣika Sūtra](../texts/vaisesika-sutra.md) — ref: 6.2.12–16; rests_on: ["tea:vaisesika-sutra:6.2.12-16"]
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 21:52 IST._

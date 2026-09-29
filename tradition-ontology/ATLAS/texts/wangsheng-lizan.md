@@ -77,4 +77,4 @@ terms: [benyuan](../terms/benyuan.md), [chengming](../terms/chengming.md), [shin
 _Notes: Preface read locally (T47n1980 438c–439c; 447c)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._

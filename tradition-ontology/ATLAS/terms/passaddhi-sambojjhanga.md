@@ -1,11 +1,12 @@
 # passaddhisambojjhaṅga
 
-`trm:passaddhi-sambojjhanga` · `skeleton` · confidence high
+`trm:passaddhi-sambojjhanga` · `sourced` · confidence high
 
 **Language:** Pali
 **Literal:** awakening factor of tranquillity
 
 ## Definitions by tradition
+- [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md): Tranquillity awakening factor: aroused when, for one whose mind is rapt, body and mind become tranquil (MN 118:34).
 - [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md): Tranquillity of body and mind (MN 118); to be developed when the mind is restless (SN 46.53). One of the thirty-seven qualities conducive to awakening (DN 16.3.50; MN 149): a member of the seven factors of awakening.
 
 ## Forms in other languages
@@ -14,4 +15,8 @@
 **Related:** [bodhipakkhiyā dhammā](bodhipakkhiya-dhamma.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+**Verification checks**
+
+- 2026-09-29 text: partially-confirmed — Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J.
+
+_Contributed by: extraction:anapanasati-sutta/all, skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

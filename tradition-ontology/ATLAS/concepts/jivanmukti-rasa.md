@@ -13,4 +13,4 @@
 - contrasts-with → [Liberation while living (jīvanmukti)](jivanmukti.md): Advaita's jīvanmukti depends on knowledge, not on bodily immortality — rests on [rasesvara.26-29](../texts/sarvadarsanasangraha.md#tea-sarvadarsanasangraha-rasesvara-26-29)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._

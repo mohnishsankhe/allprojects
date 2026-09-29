@@ -1,22 +1,21 @@
 {
- "total_distinct": 190,
+ "total_distinct": 430,
  "by_prefix": {
-  "lin": 35,
-  "tch": 9,
-  "src": 9,
-  "tea": 80,
-  "pth": 4,
+  "lin": 24,
+  "tch": 111,
+  "src": 108,
+  "tea": 120,
   "brw": 1,
   "prc": 11,
-  "trm": 11,
-  "cpt": 24,
+  "trm": 21,
+  "cpt": 28,
   "obs": 5,
   "dsp": 1
  },
  "top": [
   {
    "id": "lin:tiantai",
-   "refs": 118,
+   "refs": 126,
    "e.g.": [
     "src:mahaprajnaparamita-sutra",
     "src:prajnaparamita-hrdaya",
@@ -25,7 +24,7 @@
   },
   {
    "id": "lin:tendai",
-   "refs": 60,
+   "refs": 63,
    "e.g.": [
     "src:renwang-jing",
     "src:saddharmapundarika",
@@ -34,7 +33,7 @@
   },
   {
    "id": "lin:huayan",
-   "refs": 54,
+   "refs": 60,
    "e.g.": [
     "src:avatamsaka-sutra",
     "src:dasabhumika-sutra",
@@ -52,7 +51,7 @@
   },
   {
    "id": "lin:jagannatha",
-   "refs": 34,
+   "refs": 35,
    "e.g.": [
     "src:gita-govinda",
     "src:krsnagiti",
@@ -66,6 +65,15 @@
     "src:astasahasrika-prajnaparamita",
     "src:gandavyuha",
     "src:saddharmapundarika"
+   ]
+  },
+  {
+   "id": "lin:shingon",
+   "refs": 27,
+   "e.g.": [
+    "src:adhyardhasatika-prajnaparamita",
+    "src:prajnaparamita-hrdaya",
+    "src:renwang-jing"
    ]
   },
   {
@@ -87,12 +95,12 @@
    ]
   },
   {
-   "id": "lin:shingon",
-   "refs": 22,
+   "id": "lin:dasanami",
+   "refs": 17,
    "e.g.": [
-    "src:adhyardhasatika-prajnaparamita",
-    "src:prajnaparamita-hrdaya",
-    "src:renwang-jing"
+    "lin:sannyasa",
+    "src:mathamnaya",
+    "src:mathamnaya-upanisad"
    ]
   },
   {
@@ -102,15 +110,6 @@
     "lin:dvaita",
     "lin:sangita",
     "src:harikathamrtasara"
-   ]
-  },
-  {
-   "id": "lin:dasanami",
-   "refs": 13,
-   "e.g.": [
-    "lin:sannyasa",
-    "src:mathamnaya",
-    "src:mathamnaya-upanisad"
    ]
   },
   {
@@ -132,12 +131,12 @@
    ]
   },
   {
-   "id": "pth:ten-oxherding-pictures",
-   "refs": 11,
+   "id": "tch:zhiyi",
+   "refs": 12,
    "e.g.": [
-    "lin:chan",
-    "tea:ten-oxherding-pictures:1",
-    "tea:ten-oxherding-pictures:2"
+    "src:jingtu-shiyi-lun",
+    "src:mohe-zhiguan",
+    "src:wu-fangbian-nianfo-men"
    ]
   },
   {
@@ -159,30 +158,12 @@
    ]
   },
   {
-   "id": "tch:zhiyi",
-   "refs": 8,
-   "e.g.": [
-    "src:jingtu-shiyi-lun",
-    "src:wu-fangbian-nianfo-men",
-    "tea:jingtu-shiyi-lun:77b23"
-   ]
-  },
-  {
    "id": "lin:folk-natha-siddha",
    "refs": 7,
    "e.g.": [
     "lin:natha",
     "src:gopicand-bharthari-gatha",
     "tch:bhartrhari-natha"
-   ]
-  },
-  {
-   "id": "lin:ramakrishna-order",
-   "refs": 7,
-   "e.g.": [
-    "lin:advaita-vedanta",
-    "lin:kalikula",
-    "lin:patanjala-yoga"
    ]
   },
   {
@@ -213,48 +194,12 @@
    ]
   },
   {
-   "id": "lin:siddha-yoga-muktananda",
-   "refs": 5,
-   "e.g.": [
-    "prc:guru-gita-recitation",
-    "src:guru-gita",
-    "tch:muktananda"
-   ]
-  },
-  {
-   "id": "pth:jinul-sudden-gradual",
-   "refs": 5,
-   "e.g.": [
-    "lin:seon",
-    "tea:guishan-yulu:577c04",
-    "tea:susim-kyol:1006b15"
-   ]
-  },
-  {
-   "id": "pth:dogen-practice-realization",
-   "refs": 5,
-   "e.g.": [
-    "lin:soto",
-    "lin:zen",
-    "tea:fukanzazengi:complete"
-   ]
-  },
-  {
    "id": "tea:bhagavad-gita:18.57",
    "refs": 5,
    "e.g.": [
     "tea:bhagavad-gita:12.6-7",
     "tea:bhagavad-gita:3.30",
     "tea:bhagavad-gita:9.27"
-   ]
-  },
-  {
-   "id": "lin:integral-yoga",
-   "refs": 4,
-   "e.g.": [
-    "src:essays-on-the-gita",
-    "src:secret-of-the-veda",
-    "tch:sri-aurobindo"
    ]
   },
   {
@@ -285,12 +230,11 @@
    ]
   },
   {
-   "id": "lin:vallalar",
+   "id": "tch:lakshmanjoo",
    "refs": 3,
    "e.g.": [
-    "brw:tamil-siddha-to-vallalar",
-    "cpt:samarasa",
-    "lin:tamil-siddha"
+    "lin:kashmir-saivism",
+    "lin:lakshmanjoo"
    ]
   },
   {
@@ -312,6 +256,22 @@
    ]
   },
   {
+   "id": "tch:sivananda",
+   "refs": 3,
+   "e.g.": [
+    "lin:divine-life-society",
+    "tch:chinmayananda"
+   ]
+  },
+  {
+   "id": "tch:satyananda",
+   "refs": 3,
+   "e.g.": [
+    "lin:bihar-school",
+    "lin:divine-life-society"
+   ]
+  },
+  {
    "id": "cpt:four-immeasurables",
    "refs": 3,
    "e.g.": [
@@ -321,34 +281,11 @@
    ]
   },
   {
-   "id": "lin:kriya-yoga",
+   "id": "tch:kukai",
    "refs": 2,
    "e.g.": [
-    "src:holy-science",
-    "tch:sri-yukteswar"
-   ]
-  },
-  {
-   "id": "lin:krishnamacharya",
-   "refs": 2,
-   "e.g.": [
-    "lin:hatha-yoga",
-    "lin:patanjala-yoga"
-   ]
-  },
-  {
-   "id": "lin:ramana",
-   "refs": 2,
-   "e.g.": [
-    "lin:advaita-vedanta",
-    "tch:ramana-maharshi"
-   ]
-  },
-  {
-   "id": "lin:lakshmanjoo",
-   "refs": 2,
-   "e.g.": [
-    "lin:kashmir-saivism"
+    "src:jujushinron",
+    "tea:jujushinron:ten-abodes"
    ]
   },
   {
@@ -367,11 +304,169 @@
    ]
   },
   {
-   "id": "lin:kanji-swami",
+   "id": "lin:truc-lam",
    "refs": 2,
    "e.g.": [
-    "lin:adhyatma-jain",
-    "lin:digambara"
+    "lin:chan",
+    "lin:plum-village"
+   ]
+  },
+  {
+   "id": "tch:bhausaheb-maharaj",
+   "refs": 2,
+   "e.g.": [
+    "lin:inchegiri"
+   ]
+  },
+  {
+   "id": "tch:anandamayi-ma",
+   "refs": 2,
+   "e.g.": [
+    "lin:anandamayi-sangha"
+   ]
+  },
+  {
+   "id": "tch:krishnamacharya",
+   "refs": 2,
+   "e.g.": [
+    "lin:krishnamacharya"
+   ]
+  },
+  {
+   "id": "tch:lahiri-mahasaya",
+   "refs": 2,
+   "e.g.": [
+    "lin:kriya-yoga"
+   ]
+  },
+  {
+   "id": "tch:mirra-alfassa",
+   "refs": 2,
+   "e.g.": [
+    "lin:integral-yoga"
+   ]
+  },
+  {
+   "id": "tch:swami-rama",
+   "refs": 2,
+   "e.g.": [
+    "lin:himalayan-institute"
+   ]
+  },
+  {
+   "id": "tch:neem-karoli-baba",
+   "refs": 2,
+   "e.g.": [
+    "lin:neem-karoli"
+   ]
+  },
+  {
+   "id": "tch:thich-nhat-hanh",
+   "refs": 2,
+   "e.g.": [
+    "lin:plum-village"
+   ]
+  },
+  {
+   "id": "tch:shunryu-suzuki",
+   "refs": 2,
+   "e.g.": [
+    "lin:sfzc"
+   ]
+  },
+  {
+   "id": "tch:swaminarayan",
+   "refs": 2,
+   "e.g.": [
+    "lin:swaminarayan"
+   ]
+  },
+  {
+   "id": "tch:gunatitanand-swami",
+   "refs": 2,
+   "e.g.": [
+    "lin:baps",
+    "lin:swaminarayan"
+   ]
+  },
+  {
+   "id": "src:vacanamrta",
+   "refs": 2,
+   "e.g.": [
+    "lin:baps",
+    "lin:swaminarayan"
+   ]
+  },
+  {
+   "id": "src:swamini-vato",
+   "refs": 2,
+   "e.g.": [
+    "lin:baps",
+    "lin:swaminarayan"
+   ]
+  },
+  {
+   "id": "tch:shastriji-maharaj",
+   "refs": 2,
+   "e.g.": [
+    "lin:baps"
+   ]
+  },
+  {
+   "id": "tch:narayana-guru",
+   "refs": 2,
+   "e.g.": [
+    "lin:narayana-guru"
+   ]
+  },
+  {
+   "id": "tch:ramalinga-swamigal",
+   "refs": 2,
+   "e.g.": [
+    "lin:vallalar"
+   ]
+  },
+  {
+   "id": "tch:mahima-swami",
+   "refs": 2,
+   "e.g.": [
+    "lin:mahima-dharma"
+   ]
+  },
+  {
+   "id": "lin:pancasakha",
+   "refs": 2,
+   "e.g.": [
+    "brw:buddhist-sunya-in-odia-vaisnava",
+    "lin:mahima-dharma"
+   ]
+  },
+  {
+   "id": "tch:lekhraj-kripalani",
+   "refs": 2,
+   "e.g.": [
+    "lin:brahma-kumaris"
+   ]
+  },
+  {
+   "id": "tch:maharishi-mahesh-yogi",
+   "refs": 2,
+   "e.g.": [
+    "lin:transcendental-meditation"
+   ]
+  },
+  {
+   "id": "tch:nirmala-srivastava",
+   "refs": 2,
+   "e.g.": [
+    "lin:sahaja-yoga"
+   ]
+  },
+  {
+   "id": "tch:kanji-swami",
+   "refs": 2,
+   "e.g.": [
+    "lin:kanji-swami"
    ]
   },
   {
@@ -587,24 +682,10 @@
    ]
   },
   {
-   "id": "lin:divine-life-society",
+   "id": "tch:guanding",
    "refs": 1,
    "e.g.": [
-    "lin:advaita-vedanta"
-   ]
-  },
-  {
-   "id": "tch:lakshmanjoo",
-   "refs": 1,
-   "e.g.": [
-    "lin:kashmir-saivism"
-   ]
-  },
-  {
-   "id": "lin:bihar-school",
-   "refs": 1,
-   "e.g.": [
-    "lin:hatha-yoga"
+    "src:mohe-zhiguan"
    ]
   },
   {
@@ -622,17 +703,1242 @@
    ]
   },
   {
-   "id": "lin:truc-lam",
-   "refs": 1,
-   "e.g.": [
-    "lin:chan"
-   ]
-  },
-  {
    "id": "brw:atimarga-to-mantramarga; brw:pasupata-to-mantramarga",
    "refs": 1,
    "e.g.": [
     "lin:tantra-movement"
+   ]
+  },
+  {
+   "id": "tch:sarada-devi",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramakrishna-order"
+   ]
+  },
+  {
+   "id": "tch:brahmananda-rakhal",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramakrishna-order"
+   ]
+  },
+  {
+   "id": "tch:saradananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramakrishna-order"
+   ]
+  },
+  {
+   "id": "tch:turiyananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramakrishna-order"
+   ]
+  },
+  {
+   "id": "tch:abhedananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramakrishna-order"
+   ]
+  },
+  {
+   "id": "tch:nikhilananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramakrishna-order"
+   ]
+  },
+  {
+   "id": "tch:prabhavananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramakrishna-order"
+   ]
+  },
+  {
+   "id": "src:ramakrsna-kathamrta",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramakrishna-order"
+   ]
+  },
+  {
+   "id": "src:ramakrsna-lilaprasanga",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramakrishna-order"
+   ]
+  },
+  {
+   "id": "src:raja-yoga-vivekananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramakrishna-order"
+   ]
+  },
+  {
+   "id": "src:karma-yoga-vivekananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramakrishna-order"
+   ]
+  },
+  {
+   "id": "src:bhakti-yoga-vivekananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramakrishna-order"
+   ]
+  },
+  {
+   "id": "src:jnana-yoga-vivekananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramakrishna-order"
+   ]
+  },
+  {
+   "id": "src:chicago-addresses-vivekananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramakrishna-order"
+   ]
+  },
+  {
+   "id": "src:complete-works-of-vivekananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramakrishna-order"
+   ]
+  },
+  {
+   "id": "src:sri-sri-mayer-katha",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramakrishna-order"
+   ]
+  },
+  {
+   "id": "tch:ganapati-muni",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramana"
+   ]
+  },
+  {
+   "id": "tch:muruganar",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramana"
+   ]
+  },
+  {
+   "id": "tch:annamalai-swami",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramana"
+   ]
+  },
+  {
+   "id": "tch:hwl-poonja",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramana"
+   ]
+  },
+  {
+   "id": "src:nan-yar",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramana"
+   ]
+  },
+  {
+   "id": "src:upadesa-saram",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramana"
+   ]
+  },
+  {
+   "id": "src:ulladu-narpadu",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramana"
+   ]
+  },
+  {
+   "id": "src:vicara-sangraham",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramana"
+   ]
+  },
+  {
+   "id": "src:arunacala-aksaramanamalai",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramana"
+   ]
+  },
+  {
+   "id": "src:ekatma-pancakam",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramana"
+   ]
+  },
+  {
+   "id": "src:ramana-gita",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramana"
+   ]
+  },
+  {
+   "id": "src:talks-with-ramana",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramana"
+   ]
+  },
+  {
+   "id": "src:guru-vacaka-kovai",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramana"
+   ]
+  },
+  {
+   "id": "src:sad-darsanam",
+   "refs": 1,
+   "e.g.": [
+    "lin:ramana"
+   ]
+  },
+  {
+   "id": "tch:nimbargi-maharaj",
+   "refs": 1,
+   "e.g.": [
+    "lin:inchegiri"
+   ]
+  },
+  {
+   "id": "tch:gurudev-ranade",
+   "refs": 1,
+   "e.g.": [
+    "lin:inchegiri"
+   ]
+  },
+  {
+   "id": "tch:siddharameshwar-maharaj",
+   "refs": 1,
+   "e.g.": [
+    "lin:inchegiri"
+   ]
+  },
+  {
+   "id": "tch:nisargadatta-maharaj",
+   "refs": 1,
+   "e.g.": [
+    "lin:inchegiri"
+   ]
+  },
+  {
+   "id": "tch:ranjit-maharaj",
+   "refs": 1,
+   "e.g.": [
+    "lin:inchegiri"
+   ]
+  },
+  {
+   "id": "src:master-of-self-realization",
+   "refs": 1,
+   "e.g.": [
+    "lin:inchegiri"
+   ]
+  },
+  {
+   "id": "src:i-am-that",
+   "refs": 1,
+   "e.g.": [
+    "lin:inchegiri"
+   ]
+  },
+  {
+   "id": "src:prior-to-consciousness",
+   "refs": 1,
+   "e.g.": [
+    "lin:inchegiri"
+   ]
+  },
+  {
+   "id": "tch:bholanath",
+   "refs": 1,
+   "e.g.": [
+    "lin:anandamayi-sangha"
+   ]
+  },
+  {
+   "id": "tch:bhaiji",
+   "refs": 1,
+   "e.g.": [
+    "lin:anandamayi-sangha"
+   ]
+  },
+  {
+   "id": "tch:gurupriya-devi",
+   "refs": 1,
+   "e.g.": [
+    "lin:anandamayi-sangha"
+   ]
+  },
+  {
+   "id": "src:matr-vani",
+   "refs": 1,
+   "e.g.": [
+    "lin:anandamayi-sangha"
+   ]
+  },
+  {
+   "id": "src:sad-vani",
+   "refs": 1,
+   "e.g.": [
+    "lin:anandamayi-sangha"
+   ]
+  },
+  {
+   "id": "tch:chidananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:divine-life-society"
+   ]
+  },
+  {
+   "id": "tch:krishnananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:divine-life-society"
+   ]
+  },
+  {
+   "id": "tch:venkatesananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:divine-life-society"
+   ]
+  },
+  {
+   "id": "tch:vishnudevananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:divine-life-society"
+   ]
+  },
+  {
+   "id": "tch:satchidananda-yogiraj",
+   "refs": 1,
+   "e.g.": [
+    "lin:divine-life-society"
+   ]
+  },
+  {
+   "id": "src:twenty-important-spiritual-instructions",
+   "refs": 1,
+   "e.g.": [
+    "lin:divine-life-society"
+   ]
+  },
+  {
+   "id": "src:bliss-divine-sivananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:divine-life-society"
+   ]
+  },
+  {
+   "id": "src:kundalini-yoga-sivananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:divine-life-society"
+   ]
+  },
+  {
+   "id": "src:japa-yoga-sivananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:divine-life-society"
+   ]
+  },
+  {
+   "id": "src:science-of-pranayama-sivananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:divine-life-society"
+   ]
+  },
+  {
+   "id": "tch:niranjanananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:bihar-school"
+   ]
+  },
+  {
+   "id": "tch:satyasangananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:bihar-school"
+   ]
+  },
+  {
+   "id": "src:yoga-nidra-satyananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:bihar-school"
+   ]
+  },
+  {
+   "id": "src:kundalini-tantra-satyananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:bihar-school"
+   ]
+  },
+  {
+   "id": "src:asana-pranayama-mudra-bandha",
+   "refs": 1,
+   "e.g.": [
+    "lin:bihar-school"
+   ]
+  },
+  {
+   "id": "src:meditations-from-the-tantras",
+   "refs": 1,
+   "e.g.": [
+    "lin:bihar-school"
+   ]
+  },
+  {
+   "id": "tch:bks-iyengar",
+   "refs": 1,
+   "e.g.": [
+    "lin:krishnamacharya"
+   ]
+  },
+  {
+   "id": "tch:pattabhi-jois",
+   "refs": 1,
+   "e.g.": [
+    "lin:krishnamacharya"
+   ]
+  },
+  {
+   "id": "tch:tkv-desikachar",
+   "refs": 1,
+   "e.g.": [
+    "lin:krishnamacharya"
+   ]
+  },
+  {
+   "id": "tch:indra-devi",
+   "refs": 1,
+   "e.g.": [
+    "lin:krishnamacharya"
+   ]
+  },
+  {
+   "id": "src:yoga-makaranda",
+   "refs": 1,
+   "e.g.": [
+    "lin:krishnamacharya"
+   ]
+  },
+  {
+   "id": "src:yogasanagalu",
+   "refs": 1,
+   "e.g.": [
+    "lin:krishnamacharya"
+   ]
+  },
+  {
+   "id": "src:yoga-rahasya-krishnamacharya",
+   "refs": 1,
+   "e.g.": [
+    "lin:krishnamacharya"
+   ]
+  },
+  {
+   "id": "src:yoga-kurunta",
+   "refs": 1,
+   "e.g.": [
+    "lin:krishnamacharya"
+   ]
+  },
+  {
+   "id": "src:heart-of-yoga-desikachar",
+   "refs": 1,
+   "e.g.": [
+    "lin:krishnamacharya"
+   ]
+  },
+  {
+   "id": "src:light-on-yoga",
+   "refs": 1,
+   "e.g.": [
+    "lin:krishnamacharya"
+   ]
+  },
+  {
+   "id": "src:yoga-mala-jois",
+   "refs": 1,
+   "e.g.": [
+    "lin:krishnamacharya"
+   ]
+  },
+  {
+   "id": "tch:mahavatar-babaji",
+   "refs": 1,
+   "e.g.": [
+    "lin:kriya-yoga"
+   ]
+  },
+  {
+   "id": "tch:paramahansa-yogananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:kriya-yoga"
+   ]
+  },
+  {
+   "id": "tch:pranabananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:kriya-yoga"
+   ]
+  },
+  {
+   "id": "tch:panchanan-bhattacharya",
+   "refs": 1,
+   "e.g.": [
+    "lin:kriya-yoga"
+   ]
+  },
+  {
+   "id": "tch:rajarsi-janakananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:kriya-yoga"
+   ]
+  },
+  {
+   "id": "tch:daya-mata",
+   "refs": 1,
+   "e.g.": [
+    "lin:kriya-yoga"
+   ]
+  },
+  {
+   "id": "src:autobiography-of-a-yogi",
+   "refs": 1,
+   "e.g.": [
+    "lin:kriya-yoga"
+   ]
+  },
+  {
+   "id": "src:god-talks-with-arjuna",
+   "refs": 1,
+   "e.g.": [
+    "lin:kriya-yoga"
+   ]
+  },
+  {
+   "id": "src:lahiri-mahasaya-diaries",
+   "refs": 1,
+   "e.g.": [
+    "lin:kriya-yoga"
+   ]
+  },
+  {
+   "id": "src:srf-lessons",
+   "refs": 1,
+   "e.g.": [
+    "lin:kriya-yoga"
+   ]
+  },
+  {
+   "id": "tch:nolini-kanta-gupta",
+   "refs": 1,
+   "e.g.": [
+    "lin:integral-yoga"
+   ]
+  },
+  {
+   "id": "tch:satprem",
+   "refs": 1,
+   "e.g.": [
+    "lin:integral-yoga"
+   ]
+  },
+  {
+   "id": "src:life-divine",
+   "refs": 1,
+   "e.g.": [
+    "lin:integral-yoga"
+   ]
+  },
+  {
+   "id": "src:synthesis-of-yoga",
+   "refs": 1,
+   "e.g.": [
+    "lin:integral-yoga"
+   ]
+  },
+  {
+   "id": "src:savitri-aurobindo",
+   "refs": 1,
+   "e.g.": [
+    "lin:integral-yoga"
+   ]
+  },
+  {
+   "id": "src:the-mother-aurobindo",
+   "refs": 1,
+   "e.g.": [
+    "lin:integral-yoga"
+   ]
+  },
+  {
+   "id": "src:letters-on-yoga",
+   "refs": 1,
+   "e.g.": [
+    "lin:integral-yoga"
+   ]
+  },
+  {
+   "id": "src:mothers-agenda",
+   "refs": 1,
+   "e.g.": [
+    "lin:integral-yoga"
+   ]
+  },
+  {
+   "id": "src:uttarpara-speech",
+   "refs": 1,
+   "e.g.": [
+    "lin:integral-yoga"
+   ]
+  },
+  {
+   "id": "src:record-of-yoga",
+   "refs": 1,
+   "e.g.": [
+    "lin:integral-yoga"
+   ]
+  },
+  {
+   "id": "tch:swami-ram-kashmir",
+   "refs": 1,
+   "e.g.": [
+    "lin:lakshmanjoo"
+   ]
+  },
+  {
+   "id": "tch:mahtab-kak",
+   "refs": 1,
+   "e.g.": [
+    "lin:lakshmanjoo"
+   ]
+  },
+  {
+   "id": "tch:jaideva-singh",
+   "refs": 1,
+   "e.g.": [
+    "lin:lakshmanjoo"
+   ]
+  },
+  {
+   "id": "tch:john-hughes",
+   "refs": 1,
+   "e.g.": [
+    "lin:lakshmanjoo"
+   ]
+  },
+  {
+   "id": "src:kashmir-shaivism-secret-supreme",
+   "refs": 1,
+   "e.g.": [
+    "lin:lakshmanjoo"
+   ]
+  },
+  {
+   "id": "src:siva-sutras-lakshmanjoo",
+   "refs": 1,
+   "e.g.": [
+    "lin:lakshmanjoo"
+   ]
+  },
+  {
+   "id": "src:vijnana-bhairava-lakshmanjoo",
+   "refs": 1,
+   "e.g.": [
+    "lin:lakshmanjoo"
+   ]
+  },
+  {
+   "id": "tch:nityananda-ganeshpuri",
+   "refs": 1,
+   "e.g.": [
+    "lin:siddha-yoga-muktananda"
+   ]
+  },
+  {
+   "id": "tch:chidvilasananda",
+   "refs": 1,
+   "e.g.": [
+    "lin:siddha-yoga-muktananda"
+   ]
+  },
+  {
+   "id": "src:cidakasa-gita",
+   "refs": 1,
+   "e.g.": [
+    "lin:siddha-yoga-muktananda"
+   ]
+  },
+  {
+   "id": "src:play-of-consciousness",
+   "refs": 1,
+   "e.g.": [
+    "lin:siddha-yoga-muktananda"
+   ]
+  },
+  {
+   "id": "src:where-are-you-going",
+   "refs": 1,
+   "e.g.": [
+    "lin:siddha-yoga-muktananda"
+   ]
+  },
+  {
+   "id": "tch:bengali-baba",
+   "refs": 1,
+   "e.g.": [
+    "lin:himalayan-institute"
+   ]
+  },
+  {
+   "id": "tch:swami-veda-bharati",
+   "refs": 1,
+   "e.g.": [
+    "lin:himalayan-institute"
+   ]
+  },
+  {
+   "id": "tch:rajmani-tigunait",
+   "refs": 1,
+   "e.g.": [
+    "lin:himalayan-institute"
+   ]
+  },
+  {
+   "id": "src:living-with-the-himalayan-masters",
+   "refs": 1,
+   "e.g.": [
+    "lin:himalayan-institute"
+   ]
+  },
+  {
+   "id": "src:science-of-breath-swami-rama",
+   "refs": 1,
+   "e.g.": [
+    "lin:himalayan-institute"
+   ]
+  },
+  {
+   "id": "src:path-of-fire-and-light",
+   "refs": 1,
+   "e.g.": [
+    "lin:himalayan-institute"
+   ]
+  },
+  {
+   "id": "tch:siddhi-ma",
+   "refs": 1,
+   "e.g.": [
+    "lin:neem-karoli"
+   ]
+  },
+  {
+   "id": "tch:ram-dass",
+   "refs": 1,
+   "e.g.": [
+    "lin:neem-karoli"
+   ]
+  },
+  {
+   "id": "tch:dada-mukerjee",
+   "refs": 1,
+   "e.g.": [
+    "lin:neem-karoli"
+   ]
+  },
+  {
+   "id": "src:miracle-of-love",
+   "refs": 1,
+   "e.g.": [
+    "lin:neem-karoli"
+   ]
+  },
+  {
+   "id": "src:be-here-now",
+   "refs": 1,
+   "e.g.": [
+    "lin:neem-karoli"
+   ]
+  },
+  {
+   "id": "src:by-his-grace",
+   "refs": 1,
+   "e.g.": [
+    "lin:neem-karoli"
+   ]
+  },
+  {
+   "id": "tch:thanh-quy-chan-that",
+   "refs": 1,
+   "e.g.": [
+    "lin:plum-village"
+   ]
+  },
+  {
+   "id": "tch:chan-khong",
+   "refs": 1,
+   "e.g.": [
+    "lin:plum-village"
+   ]
+  },
+  {
+   "id": "src:miracle-of-mindfulness",
+   "refs": 1,
+   "e.g.": [
+    "lin:plum-village"
+   ]
+  },
+  {
+   "id": "src:heart-of-understanding",
+   "refs": 1,
+   "e.g.": [
+    "lin:plum-village"
+   ]
+  },
+  {
+   "id": "src:interbeing-fourteen-mindfulness-trainings",
+   "refs": 1,
+   "e.g.": [
+    "lin:plum-village"
+   ]
+  },
+  {
+   "id": "src:five-mindfulness-trainings",
+   "refs": 1,
+   "e.g.": [
+    "lin:plum-village"
+   ]
+  },
+  {
+   "id": "src:old-path-white-clouds",
+   "refs": 1,
+   "e.g.": [
+    "lin:plum-village"
+   ]
+  },
+  {
+   "id": "src:transformation-at-the-base",
+   "refs": 1,
+   "e.g.": [
+    "lin:plum-village"
+   ]
+  },
+  {
+   "id": "src:peace-is-every-step",
+   "refs": 1,
+   "e.g.": [
+    "lin:plum-village"
+   ]
+  },
+  {
+   "id": "tch:gyokujun-so-on",
+   "refs": 1,
+   "e.g.": [
+    "lin:sfzc"
+   ]
+  },
+  {
+   "id": "tch:kishizawa-ian",
+   "refs": 1,
+   "e.g.": [
+    "lin:sfzc"
+   ]
+  },
+  {
+   "id": "tch:richard-baker",
+   "refs": 1,
+   "e.g.": [
+    "lin:sfzc"
+   ]
+  },
+  {
+   "id": "src:zen-mind-beginners-mind",
+   "refs": 1,
+   "e.g.": [
+    "lin:sfzc"
+   ]
+  },
+  {
+   "id": "src:not-always-so",
+   "refs": 1,
+   "e.g.": [
+    "lin:sfzc"
+   ]
+  },
+  {
+   "id": "src:branching-streams-flow-in-the-darkness",
+   "refs": 1,
+   "e.g.": [
+    "lin:sfzc"
+   ]
+  },
+  {
+   "id": "src:crooked-cucumber",
+   "refs": 1,
+   "e.g.": [
+    "lin:sfzc"
+   ]
+  },
+  {
+   "id": "tch:ramanand-swami",
+   "refs": 1,
+   "e.g.": [
+    "lin:swaminarayan"
+   ]
+  },
+  {
+   "id": "tch:gopalanand-swami",
+   "refs": 1,
+   "e.g.": [
+    "lin:swaminarayan"
+   ]
+  },
+  {
+   "id": "tch:muktanand-swami-swaminarayan",
+   "refs": 1,
+   "e.g.": [
+    "lin:swaminarayan"
+   ]
+  },
+  {
+   "id": "tch:brahmanand-swami-swaminarayan",
+   "refs": 1,
+   "e.g.": [
+    "lin:swaminarayan"
+   ]
+  },
+  {
+   "id": "tch:shatanand-muni",
+   "refs": 1,
+   "e.g.": [
+    "lin:swaminarayan"
+   ]
+  },
+  {
+   "id": "src:siksapatri",
+   "refs": 1,
+   "e.g.": [
+    "lin:swaminarayan"
+   ]
+  },
+  {
+   "id": "src:satsangi-jivana",
+   "refs": 1,
+   "e.g.": [
+    "lin:swaminarayan"
+   ]
+  },
+  {
+   "id": "tch:bhagatji-maharaj",
+   "refs": 1,
+   "e.g.": [
+    "lin:baps"
+   ]
+  },
+  {
+   "id": "tch:yogiji-maharaj",
+   "refs": 1,
+   "e.g.": [
+    "lin:baps"
+   ]
+  },
+  {
+   "id": "tch:pramukh-swami-maharaj",
+   "refs": 1,
+   "e.g.": [
+    "lin:baps"
+   ]
+  },
+  {
+   "id": "tch:mahant-swami-maharaj",
+   "refs": 1,
+   "e.g.": [
+    "lin:baps"
+   ]
+  },
+  {
+   "id": "tch:bhadreshdas",
+   "refs": 1,
+   "e.g.": [
+    "lin:baps"
+   ]
+  },
+  {
+   "id": "src:swaminarayan-bhasyam",
+   "refs": 1,
+   "e.g.": [
+    "lin:baps"
+   ]
+  },
+  {
+   "id": "tch:thycaud-ayyavu",
+   "refs": 1,
+   "e.g.": [
+    "lin:narayana-guru"
+   ]
+  },
+  {
+   "id": "tch:nataraja-guru",
+   "refs": 1,
+   "e.g.": [
+    "lin:narayana-guru"
+   ]
+  },
+  {
+   "id": "tch:nitya-chaitanya-yati",
+   "refs": 1,
+   "e.g.": [
+    "lin:narayana-guru"
+   ]
+  },
+  {
+   "id": "tch:kumaran-asan",
+   "refs": 1,
+   "e.g.": [
+    "lin:narayana-guru"
+   ]
+  },
+  {
+   "id": "src:atmopadesa-satakam",
+   "refs": 1,
+   "e.g.": [
+    "lin:narayana-guru"
+   ]
+  },
+  {
+   "id": "src:darsana-mala",
+   "refs": 1,
+   "e.g.": [
+    "lin:narayana-guru"
+   ]
+  },
+  {
+   "id": "src:jati-mimamsa",
+   "refs": 1,
+   "e.g.": [
+    "lin:narayana-guru"
+   ]
+  },
+  {
+   "id": "src:daiva-dasakam",
+   "refs": 1,
+   "e.g.": [
+    "lin:narayana-guru"
+   ]
+  },
+  {
+   "id": "src:jati-nirnayam",
+   "refs": 1,
+   "e.g.": [
+    "lin:narayana-guru"
+   ]
+  },
+  {
+   "id": "src:anukampa-dasakam",
+   "refs": 1,
+   "e.g.": [
+    "lin:narayana-guru"
+   ]
+  },
+  {
+   "id": "tch:toluvur-velayutha-mudaliar",
+   "refs": 1,
+   "e.g.": [
+    "lin:vallalar"
+   ]
+  },
+  {
+   "id": "src:tiruvarutpa",
+   "refs": 1,
+   "e.g.": [
+    "lin:vallalar"
+   ]
+  },
+  {
+   "id": "src:jivakarunya-olukkam",
+   "refs": 1,
+   "e.g.": [
+    "lin:vallalar"
+   ]
+  },
+  {
+   "id": "tch:govinda-baba-mahima",
+   "refs": 1,
+   "e.g.": [
+    "lin:mahima-dharma"
+   ]
+  },
+  {
+   "id": "tch:bhima-bhoi",
+   "refs": 1,
+   "e.g.": [
+    "lin:mahima-dharma"
+   ]
+  },
+  {
+   "id": "src:stuti-cintamani",
+   "refs": 1,
+   "e.g.": [
+    "lin:mahima-dharma"
+   ]
+  },
+  {
+   "id": "src:brahma-nirupana-gita",
+   "refs": 1,
+   "e.g.": [
+    "lin:mahima-dharma"
+   ]
+  },
+  {
+   "id": "tch:jagadamba-sarasvati",
+   "refs": 1,
+   "e.g.": [
+    "lin:brahma-kumaris"
+   ]
+  },
+  {
+   "id": "tch:dadi-prakashmani",
+   "refs": 1,
+   "e.g.": [
+    "lin:brahma-kumaris"
+   ]
+  },
+  {
+   "id": "tch:dadi-janki",
+   "refs": 1,
+   "e.g.": [
+    "lin:brahma-kumaris"
+   ]
+  },
+  {
+   "id": "tch:dadi-gulzar",
+   "refs": 1,
+   "e.g.": [
+    "lin:brahma-kumaris"
+   ]
+  },
+  {
+   "id": "src:sakar-murli",
+   "refs": 1,
+   "e.g.": [
+    "lin:brahma-kumaris"
+   ]
+  },
+  {
+   "id": "src:avyakt-murli",
+   "refs": 1,
+   "e.g.": [
+    "lin:brahma-kumaris"
+   ]
+  },
+  {
+   "id": "tch:brahmananda-sarasvati-jyotirmath",
+   "refs": 1,
+   "e.g.": [
+    "lin:transcendental-meditation"
+   ]
+  },
+  {
+   "id": "src:science-of-being-and-art-of-living",
+   "refs": 1,
+   "e.g.": [
+    "lin:transcendental-meditation"
+   ]
+  },
+  {
+   "id": "src:maharishi-gita-commentary",
+   "refs": 1,
+   "e.g.": [
+    "lin:transcendental-meditation"
+   ]
+  },
+  {
+   "id": "src:meta-modern-era",
+   "refs": 1,
+   "e.g.": [
+    "lin:sahaja-yoga"
+   ]
+  },
+  {
+   "id": "tch:champaben",
+   "refs": 1,
+   "e.g.": [
+    "lin:kanji-swami"
+   ]
+  },
+  {
+   "id": "tch:hukamchand-bharill",
+   "refs": 1,
+   "e.g.": [
+    "lin:kanji-swami"
+   ]
+  },
+  {
+   "id": "tch:phoolchand-siddhantashastri",
+   "refs": 1,
+   "e.g.": [
+    "lin:kanji-swami"
+   ]
+  },
+  {
+   "id": "src:pravacana-ratnakara",
+   "refs": 1,
+   "e.g.": [
+    "lin:kanji-swami"
+   ]
+  },
+  {
+   "id": "src:bahenshri-vacanamrta",
+   "refs": 1,
+   "e.g.": [
+    "lin:kanji-swami"
+   ]
+  },
+  {
+   "id": "src:jaipur-khaniya-tattvacarca",
+   "refs": 1,
+   "e.g.": [
+    "lin:kanji-swami"
    ]
   },
   {
@@ -647,13 +1953,6 @@
    "refs": 1,
    "e.g.": [
     "tch:utpala-vaisnava"
-   ]
-  },
-  {
-   "id": "tch:sivananda",
-   "refs": 1,
-   "e.g.": [
-    "tch:chinmayananda"
    ]
   },
   {
@@ -1280,164 +2579,325 @@
    ]
   },
   {
-   "id": "obs:klesas",
+   "id": "tea:ramakrsna-kathamrta:brahman-sakti-identity",
    "refs": 1,
    "e.g.": [
-    "obs:bhutadahiya-dosas"
+    "ult:ramakrishna-order"
    ]
   },
   {
-   "id": "obs:tirodhana-sakti",
+   "id": "tea:ramakrsna-kathamrta:vijnana",
    "refs": 1,
    "e.g.": [
-    "obs:tirobhava"
+    "ult:ramakrishna-order"
    ]
   },
   {
-   "id": "prc:kriya-yoga (thins them, 2.2)",
+   "id": "tea:ramakrsna-kathamrta:yata-mat-tata-path",
    "refs": 1,
    "e.g.": [
-    "obs:five-klesas"
+    "ult:ramakrishna-order"
    ]
   },
   {
-   "id": "prc:dhyana (removes their gross activities, 2.11)",
+   "id": "tea:raja-yoga-vivekananda:preface",
    "refs": 1,
    "e.g.": [
-    "obs:five-klesas"
+    "ult:ramakrishna-order"
    ]
   },
   {
-   "id": "obs:klesa",
+   "id": "trm:ulladu",
    "refs": 1,
    "e.g.": [
-    "obs:five-klesas"
+    "ult:ramana"
    ]
   },
   {
-   "id": "obs:three-bonds",
+   "id": "tea:upadesa-saram:20-21",
    "refs": 1,
    "e.g.": [
-    "obs:three-malas"
+    "ult:ramana"
    ]
   },
   {
-   "id": "prc:khecari-mudra (restricted)",
+   "id": "tea:upadesa-saram:23-25",
    "refs": 1,
    "e.g.": [
-    "obs:bindu-pata"
+    "ult:ramana"
    ]
   },
   {
-   "id": "prc:rasayana (delays old age; does not abolish death in Āyurveda)",
+   "id": "tea:nan-yar:not-the-body",
    "refs": 1,
    "e.g.": [
-    "obs:svabhavika-roga"
+    "ult:ramana"
    ]
   },
   {
-   "id": "obs:asavas",
+   "id": "tea:ulladu-narpadu:mangalam.1",
    "refs": 1,
    "e.g.": [
-    "obs:four-asavas"
+    "ult:ramana"
    ]
   },
   {
-   "id": "cpt:emptiness-of-emptiness (understanding that emptiness too is empty)",
+   "id": "tea:talks-with-ramana:ajata",
    "refs": 1,
    "e.g.": [
-    "obs:sunyata-drsti"
+    "ult:ramana"
    ]
   },
   {
-   "id": "prc:self-inquiry",
+   "id": "trm:i-am-sense",
    "refs": 1,
    "e.g.": [
-    "prc:vicara-yoga-vasistha"
+    "ult:inchegiri"
    ]
   },
   {
-   "id": "prc:bhakti",
+   "id": "tea:i-am-that:hold-on-to-i-am",
    "refs": 1,
    "e.g.": [
-    "prc:isvara-pranidhana"
+    "ult:inchegiri"
    ]
   },
   {
-   "id": "prc:sravana-manana-nididhyasana",
+   "id": "tea:prior-to-consciousness:absolute-prior",
    "refs": 1,
    "e.g.": [
-    "prc:manana-nyaya"
+    "ult:inchegiri"
    ]
   },
   {
-   "id": "prc:yoga-nidra",
+   "id": "tea:matr-vani:only-one",
    "refs": 1,
    "e.g.": [
-    "prc:tunkamal-tunkal"
+    "ult:anandamayi-sangha"
    ]
   },
   {
-   "id": "prc:vassa",
+   "id": "tea:matr-vani:hari-katha",
    "refs": 1,
    "e.g.": [
-    "prc:caturmasa"
+    "ult:anandamayi-sangha"
    ]
   },
   {
-   "id": "pth:yingluo-fifty-two-stages",
+   "id": "tea:bliss-divine-sivananda:yoga-of-synthesis",
    "refs": 1,
    "e.g.": [
-    "pth:ten-bhumis"
+    "ult:divine-life-society"
    ]
   },
   {
-   "id": "tea:pusa-yingluo-benye-jing:1012b25",
+   "id": "tea:kundalini-tantra-satyananda:union",
    "refs": 1,
    "e.g.": [
-    "pth:ten-bhumis"
+    "ult:bihar-school"
    ]
   },
   {
-   "id": "src:naisadhiyacarita",
+   "id": "tea:holy-science:1",
    "refs": 1,
    "e.g.": [
-    "dsp:bliss-in-liberation"
+    "ult:kriya-yoga"
    ]
   },
   {
-   "id": "src:laksmidhara (a Samaya author setting out views he goes on to answer)",
+   "id": "tea:autobiography-of-a-yogi:26",
    "refs": 1,
    "e.g.": [
-    "dsp:siva-sakti-primacy"
+    "ult:kriya-yoga"
    ]
   },
   {
-   "id": "src:rissho-ankoku-ron",
+   "id": "trm:supermind",
    "refs": 1,
    "e.g.": [
-    "dsp:exclusive-nenbutsu-controversy"
+    "ult:integral-yoga"
    ]
   },
   {
-   "id": "tea:discrimination-of-the-three-vows:ch.3",
+   "id": "tea:life-divine:1.3",
    "refs": 1,
    "e.g.": [
-    "dsp:sudden-or-gradual"
+    "ult:integral-yoga"
    ]
   },
   {
-   "id": "src:singalaka-sutta",
+   "id": "tea:life-divine:2.6",
    "refs": 1,
    "e.g.": [
-    "brw:singalaka-agama-parallel"
+    "ult:integral-yoga"
    ]
   },
   {
-   "id": "lin:pancasakha",
+   "id": "tea:life-divine:1.14",
    "refs": 1,
    "e.g.": [
-    "brw:buddhist-sunya-in-odia-vaisnava"
+    "ult:integral-yoga"
+   ]
+  },
+  {
+   "id": "tea:siva-sutras-lakshmanjoo:1.1",
+   "refs": 1,
+   "e.g.": [
+    "ult:lakshmanjoo"
+   ]
+  },
+  {
+   "id": "tea:where-are-you-going:honor-your-self",
+   "refs": 1,
+   "e.g.": [
+    "ult:siddha-yoga-muktananda"
+   ]
+  },
+  {
+   "id": "tea:play-of-consciousness:blue-pearl",
+   "refs": 1,
+   "e.g.": [
+    "ult:siddha-yoga-muktananda"
+   ]
+  },
+  {
+   "id": "tea:miracle-of-love:sab-ek",
+   "refs": 1,
+   "e.g.": [
+    "ult:neem-karoli"
+   ]
+  },
+  {
+   "id": "tea:heart-of-understanding:cloud-in-paper",
+   "refs": 1,
+   "e.g.": [
+    "ult:plum-village"
+   ]
+  },
+  {
+   "id": "trm:buddha-nature",
+   "refs": 1,
+   "e.g.": [
+    "ult:sfzc"
+   ]
+  },
+  {
+   "id": "tea:zen-mind-beginners-mind:breathing",
+   "refs": 1,
+   "e.g.": [
+    "ult:sfzc"
+   ]
+  },
+  {
+   "id": "tea:zen-mind-beginners-mind:posture",
+   "refs": 1,
+   "e.g.": [
+    "ult:sfzc"
+   ]
+  },
+  {
+   "id": "tea:vacanamrta:five-eternal-entities",
+   "refs": 1,
+   "e.g.": [
+    "ult:swaminarayan"
+   ]
+  },
+  {
+   "id": "tea:vacanamrta:god-always-with-form",
+   "refs": 1,
+   "e.g.": [
+    "ult:swaminarayan"
+   ]
+  },
+  {
+   "id": "trm:aksarabrahman",
+   "refs": 1,
+   "e.g.": [
+    "ult:baps"
+   ]
+  },
+  {
+   "id": "tea:swamini-vato:brahmarupa",
+   "refs": 1,
+   "e.g.": [
+    "ult:baps"
+   ]
+  },
+  {
+   "id": "tea:swaminarayan-bhasyam:akshar-purushottam",
+   "refs": 1,
+   "e.g.": [
+    "ult:baps"
+   ]
+  },
+  {
+   "id": "trm:arivu",
+   "refs": 1,
+   "e.g.": [
+    "ult:narayana-guru"
+   ]
+  },
+  {
+   "id": "tea:atmopadesa-satakam:1",
+   "refs": 1,
+   "e.g.": [
+    "ult:narayana-guru"
+   ]
+  },
+  {
+   "id": "tea:darsana-mala:structure",
+   "refs": 1,
+   "e.g.": [
+    "ult:narayana-guru"
+   ]
+  },
+  {
+   "id": "trm:arutperunjothi",
+   "refs": 1,
+   "e.g.": [
+    "ult:vallalar"
+   ]
+  },
+  {
+   "id": "tea:tiruvarutpa:4615",
+   "refs": 1,
+   "e.g.": [
+    "ult:vallalar"
+   ]
+  },
+  {
+   "id": "tea:jivakarunya-olukkam:hunger",
+   "refs": 1,
+   "e.g.": [
+    "ult:vallalar"
+   ]
+  },
+  {
+   "id": "trm:alekha",
+   "refs": 1,
+   "e.g.": [
+    "ult:mahima-dharma"
+   ]
+  },
+  {
+   "id": "tea:stuti-cintamani:alekha",
+   "refs": 1,
+   "e.g.": [
+    "ult:mahima-dharma"
+   ]
+  },
+  {
+   "id": "trm:shiv-baba",
+   "refs": 1,
+   "e.g.": [
+    "ult:brahma-kumaris"
+   ]
+  },
+  {
+   "id": "tea:sakar-murli:supreme-soul",
+   "refs": 1,
+   "e.g.": [
+    "ult:brahma-kumaris"
    ]
   }
  ]

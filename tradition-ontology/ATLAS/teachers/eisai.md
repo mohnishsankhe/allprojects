@@ -15,4 +15,4 @@
 Tendai monk who went to China twice (1168; 1187–1191), received the Huanglong Linji transmission from Xu'an Huaichang, founded Shōfukuji (Hakata) and Kenninji (Kyoto), wrote the Kōzen gokoku ron and Kissa yōjōki, and combined Zen with Tendai and esoteric practice and strict precepts.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

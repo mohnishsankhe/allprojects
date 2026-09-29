@@ -14,4 +14,4 @@
 - contrasts-with → [The seven untenables of Advaita's avidyā](saptavidha-anupapatti.md): the positive doctrine against which Advaita's avidyā is rejected — rests on [1.1.1/7](../texts/sribhasya.md#tea-sribhasya-1-1-1-7)
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 21:52 IST._

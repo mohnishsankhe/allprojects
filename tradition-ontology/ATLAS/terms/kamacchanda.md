@@ -1,17 +1,22 @@
 # kāmacchanda
 
-`trm:kamacchanda` · `skeleton` · confidence high
+`trm:kamacchanda` · `sourced` · confidence high
 
 **Language:** Pali
 **Literal:** sensual desire
 
 ## Definitions by tradition
+- [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md): The first of the five hindrances in MN 10:36; known as present or absent, and how unarisen arises, arisen is abandoned, abandoned does not arise again.
 - [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md): The first hindrance, fed by unwise attention to the sign of the beautiful and starved by attention to the sign of foulness (SN 46.51).
 
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-**Related:** [nīvaraṇa](nivarana.md), [saṃyojana](samyojana.md)
+**Related:** [nīvaraṇa](nivarana.md), [saṁyojana](samyojana.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+**Verification checks**
+
+- 2026-09-29 text: partially-confirmed — Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J.
+
+_Contributed by: extraction:satipatthana-sutta/all, skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

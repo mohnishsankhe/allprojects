@@ -15,4 +15,4 @@ Meditate on the five great combinations — of worlds, lights, knowledge, progen
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/taittiriya-upanisad/segments.jsonl (Advaita-Śāradā mūla Taitiriya.md, vallī.anuvāka.verse) — All 1 Upaniṣad refs cited in the entry are located in the prepared segments (TU 1.3). It rests on 1 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 21:52 IST._

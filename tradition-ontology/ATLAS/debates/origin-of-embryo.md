@@ -19,4 +19,4 @@ Bharadvāja: no — parents would get the children they want, the self could not
 **Explanation:** Ātreya answers each objection by showing that each factor is necessary but not sufficient — the embryo arises from their aggregate, like a house from many materials.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._

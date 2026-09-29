@@ -16,4 +16,4 @@
 The Cālukya king Someśvara III's encyclopaedia of royal pleasures, whose sections on song, instrument and dance (gīta-vinoda etc.) are an important record of music before Śārṅgadeva.
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U13-advaita. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._

@@ -33,4 +33,4 @@ The three vehicles correspond to real differences of lineage; the 'one vehicle' 
 **Queue:** RQ-U39-2
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._

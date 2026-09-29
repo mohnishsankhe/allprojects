@@ -13,4 +13,4 @@ Ten hand-seals shown in the worship of the Śrīcakra, one for each enclosure (s
   - [Vāmakeśvara Tantra (Vāmakeśvarīmata / Nityāṣoḍaśikārṇava)](../texts/vamakesvara-tantra.md) — ref: sricakra; rests_on: ["tea:vamakesvara-tantra:sricakra"]
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._

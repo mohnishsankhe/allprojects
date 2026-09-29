@@ -14,4 +14,4 @@
 One of the five early mind-series translations; the Kunjed Gyalpo's chapter 30 bears the title 'the never-falling victory banner of the nature of Vajrasattva'. Its text is part of the mind-series collection in the Nyingma Gyubum.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._

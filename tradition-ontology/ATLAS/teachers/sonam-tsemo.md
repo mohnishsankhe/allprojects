@@ -14,4 +14,4 @@
 Second of the five Sakya founders, Sachen's son; scholar of the tantras and author of the General Presentation of the Tantra Classes; the tradition says he departed without leaving his body.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._

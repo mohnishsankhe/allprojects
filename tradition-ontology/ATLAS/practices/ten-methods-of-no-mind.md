@@ -12,4 +12,4 @@ Ten alternative methods (awareness, resting, extinguishing mind or objects or bo
   - [Straight Talk on the True Mind (Jinsim jikseol)](../texts/jinsim-jikseol.md) — ref: 1001a18; rests_on: ["tea:jinsim-jikseol:1001a17"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._

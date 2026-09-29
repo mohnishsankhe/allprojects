@@ -9,4 +9,4 @@
 Monk-minister of Trisong Detsen's court and disciple of Vimalamitra who concealed the Vima Nyingthig texts at Zhwa'i Lhakhang; by tradition attained the rainbow body.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._

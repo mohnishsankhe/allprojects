@@ -14,4 +14,4 @@
 Nāthamuni's lost work on logic and the means of knowledge, which later Viśiṣṭādvaita logicians (Vedānta Deśika's Nyāyapariśuddhi) say they follow; known only from citations.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 21:52 IST._

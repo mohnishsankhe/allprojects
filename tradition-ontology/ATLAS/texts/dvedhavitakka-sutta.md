@@ -41,4 +41,4 @@ terms: [vitakka](../terms/vitakka.md)
 _Notes: SuttaCentral uid mn19; Mahāsaṅgīti title 'Dvedhāvitakkasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

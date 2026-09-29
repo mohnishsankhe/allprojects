@@ -15,4 +15,4 @@
 - same-as-under-standpoint → [Dependent origination](dependent-origination.md) (ultimate / analytic): what depends on conditions is called empty — rests on [verse](../texts/anavataptanagarajapariprccha.md#tea-anavataptanagarajapariprccha-verse)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._

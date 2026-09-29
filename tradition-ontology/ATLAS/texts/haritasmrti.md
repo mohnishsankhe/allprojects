@@ -17,4 +17,4 @@ _Notes: The brahmavādinī/sadyovadhū quotation is known through later digests;
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:eBharati:aShTAdashasmRtayaH (contains Hārītasmṛti), catalog:eBharati:dharmashAstrasangrahaH (Laghu-/Vṛddha-Hārīta), https://www.hindupedia.com/en/H%C4%81r%C4%ABta, https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc145658.html, https://en.wikipedia.org/ — The later metrical Hārīta texts exist locally ('iti hārītasmṛtiḥ'; Vṛddha-Hārīta). The old Hārīta Dharmasūtra is known from quotations; Hindupedia describes Hārīta as an early Dharmasūtra author. The brahmavādinī/sadyovadhū quotation the entry names is confirmed as quoted in the Smṛticandrikā's saṃskāra section, per Wisdomlib's Medhātithi on MDh 2.66 (notes) and Wikipedia's Brahmavādinī article. The availability 'partly-lost' agrees.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._

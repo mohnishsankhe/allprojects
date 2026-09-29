@@ -15,4 +15,4 @@
 **Related:** [kārya](karya.md), [karaṇa](karana.md), [yoga](yoga.md), [vidhi](vidhi.md), [duḥkhānta](duhkhanta.md)
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 21:52 IST._

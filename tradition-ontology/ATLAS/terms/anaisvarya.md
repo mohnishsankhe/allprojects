@@ -16,4 +16,4 @@
 **Related:** [aiśvarya](aisvarya.md), [paśutva](pasutva.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U17-pasupata-kapalika. Generated 2026-09-29 21:52 IST._

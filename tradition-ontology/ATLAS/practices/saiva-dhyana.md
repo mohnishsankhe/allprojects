@@ -16,4 +16,4 @@ Meditation on Śiva's form (Śrīkaṇṭha) first, with an object and a seed, a
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:siva-purana:7.2.39.4-9 — ŚiP 7.2.39.4-9 located (the name 'Śrīkaṇṭha' was not found in 7.2.39 by string search; check in Phase D). All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._

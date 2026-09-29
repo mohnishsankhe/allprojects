@@ -18,4 +18,4 @@ The innate apprehension of persons and phenomena as inherently existent — the 
 _Notes: Contribution of U47._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._

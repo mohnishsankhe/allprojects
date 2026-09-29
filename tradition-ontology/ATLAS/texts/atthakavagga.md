@@ -15,4 +15,4 @@ The fourth vagga of the Sutta Nipāta (16 poems): the sage (muni) who clings to 
 **Commentaries on this text:** [Mahāniddesa](mahaniddesa.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

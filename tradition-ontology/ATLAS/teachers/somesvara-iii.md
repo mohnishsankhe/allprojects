@@ -11,4 +11,4 @@
 Western Cālukya king, author of the Mānasollāsa (1131 CE).
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._

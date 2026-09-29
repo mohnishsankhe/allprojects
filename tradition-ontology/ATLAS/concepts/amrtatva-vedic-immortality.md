@@ -13,4 +13,4 @@
 - contrasts-with → [The Vedic afterlife: Yama and the fathers](vedic-afterlife.md): Two strands: immortality as a heavenly world reached by rite and merit, and going beyond death by knowledge (VS 31.18; AVŚ 10.8.44). — rests on [9.113.7-11](../texts/rgveda.md#tea-rgveda-9-113-7-11), [31.18](../texts/vajasaneyi-samhita.md#tea-vajasaneyi-samhita-31-18)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 21:52 IST._

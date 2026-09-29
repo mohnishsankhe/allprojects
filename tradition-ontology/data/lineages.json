@@ -1000,6 +1000,69 @@
   }
  },
  {
+  "id": "lin:anandamayi-sangha",
+  "name": "Shree Shree Anandamayee Sangha",
+  "alt_names": [
+   "Anandamayi Ma's sangha"
+  ],
+  "family": "vedic",
+  "founders": [
+   "tch:anandamayi-ma"
+  ],
+  "key_teachers": [
+   "tch:anandamayi-ma",
+   "tch:bholanath",
+   "tch:bhaiji",
+   "tch:gurupriya-devi"
+  ],
+  "texts": [
+   "src:matr-vani",
+   "src:sad-vani"
+  ],
+  "regions": [
+   "Bengal (Dhaka, formerly)",
+   "Varanasi",
+   "Kankhal (Haridwar)",
+   "Vrindavan"
+  ],
+  "dating": {
+   "scholarly": {
+    "text": "devotional circle from the 1920s in Dhaka (Ramna ashram 1929); Sangha registered 1950",
+    "from": 1926,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "distinctive_positions": [
+   "Anandamayi Ma had no human guru: in the tradition's account she initiated herself (1922).",
+   "Only talk of God is worthwhile; all other talk is futile and painful.",
+   "The supreme duty of human life is to seek Self-realization; all paths and forms of God are accepted.",
+   "Annual week of self-discipline (saṃyama vrata) for devotees."
+  ],
+  "ultimate": "ult:anandamayi-sangha",
+  "summary": "The circle of devotees and ashrams that formed around Anandamayi Ma (1896–1982), a Bengali woman saint without a human guru, teaching devotion, remembrance of God and Self-realization across sects.",
+  "notes": "Created by U52 (not in the registry) to hold Anandamayi Ma, who belongs to no older lineage.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:ancala-gaccha",
   "name": "Añcala Gaccha (Vidhipakṣa)",
   "family": "ascetic",
@@ -1876,6 +1939,77 @@
   "provenance": {
    "units": [
     "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:baps",
+  "name": "Bochasanwasi Akshar Purushottam Swaminarayan Sanstha (BAPS)",
+  "alt_names": [
+   "BAPS",
+   "Akshar-Purushottam school"
+  ],
+  "family": "vedic",
+  "parent": "lin:swaminarayan",
+  "founders": [
+   "tch:shastriji-maharaj"
+  ],
+  "key_teachers": [
+   "tch:gunatitanand-swami",
+   "tch:bhagatji-maharaj",
+   "tch:shastriji-maharaj",
+   "tch:yogiji-maharaj",
+   "tch:pramukh-swami-maharaj",
+   "tch:mahant-swami-maharaj",
+   "tch:bhadreshdas"
+  ],
+  "texts": [
+   "src:vacanamrta",
+   "src:swamini-vato",
+   "src:swaminarayan-bhasyam"
+  ],
+  "regions": [
+   "Gujarat",
+   "worldwide"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "BAPS holds that Akshar-Purushottam upāsanā was Svāminārāyaṇa's own teaching, revealed through Guṇātītānanda Svāmī",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "founded by Shastriji Maharaj in 1907 after he left the Vadtal diocese (1905)",
+    "from": 1907,
+    "to": null
+   },
+   "confidence": "high"
+  },
+  "distinctive_positions": [
+   "Akṣarabrahman is a distinct eternal entity manifest in a living guru (Guṇātītānanda and his successors); the devotee becomes brahmarūpa and worships Parabrahman (Svāminārāyaṇa).",
+   "A Sanskrit commentary on the prasthāna-traya (Svāminārāyaṇa Bhāṣyam) presents Akṣara-Puruṣottama Darśana as a Vedānta school."
+  ],
+  "ultimate": "ult:baps",
+  "summary": "The Svāminārāyaṇa organization founded by Shastriji Maharaj in 1907 on the doctrine that Guṇātītānanda Svāmī was Akṣarabrahman and that a succession of living gurus manifests Akṣara.",
+  "notes": "Created by U52 (not in the registry) to hold the Akshar-Purushottam doctrine as a labelled later development within lin:swaminarayan.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "I2",
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
    ],
    "phases": [
     "skeleton"
@@ -2763,6 +2897,87 @@
   }
  },
  {
+  "id": "lin:bihar-school",
+  "name": "Bihar School of Yoga (Satyananda Yoga)",
+  "alt_names": [
+   "Satyananda Yoga",
+   "International Yoga Fellowship",
+   "Munger school"
+  ],
+  "family": "vedic",
+  "parent": "lin:divine-life-society",
+  "founders": [
+   "tch:satyananda"
+  ],
+  "key_teachers": [
+   "tch:satyananda",
+   "tch:niranjanananda",
+   "tch:satyasangananda"
+  ],
+  "texts": [
+   "src:yoga-nidra-satyananda",
+   "src:kundalini-tantra-satyananda",
+   "src:asana-pranayama-mudra-bandha",
+   "src:meditations-from-the-tantras"
+  ],
+  "regions": [
+   "Munger (Bihar)",
+   "Rikhia (Deoghar, Jharkhand)",
+   "worldwide"
+  ],
+  "dating": {
+   "scholarly": {
+    "text": "International Yoga Fellowship 1963; Bihar School of Yoga, Munger, 1964; Bihar Yoga Bharati 1994",
+    "from": 1963,
+    "to": null
+   },
+   "confidence": "high"
+  },
+  "transmissions_received": [
+   {
+    "from": "lin:divine-life-society",
+    "what": "Satyananda's training under Sivananda (from 1943) and sannyāsa (1947)",
+    "evidence": "Bihar School biographies"
+   },
+   {
+    "from": "lin:hatha-yoga",
+    "what": "HYP, GS and the kuṇḍalinī texts as the textual base",
+    "evidence": "Asana Pranayama Mudra Bandha; Kundalini Tantra"
+   },
+   {
+    "from": "lin:sakta",
+    "what": "tantric practices (nyāsa, kriyā, cakra meditation) adapted by Satyananda",
+    "evidence": "Yoga Nidra (the tradition's account of its origin in nyāsa); Kundalini Tantra"
+   }
+  ],
+  "distinctive_positions": [
+   "Yoga nidrā: a systematic relaxation with a resolve (saṅkalpa), rotation of awareness through the body and visualizations, presented by Satyananda as drawn from tantric nyāsa — a modern practice distinct from the yoganidrā of the haṭha texts and Purāṇas.",
+   "Integrated yoga of the head, heart and hands after Sivananda; kuṇḍalinī and kriyā yoga taught as a graded system.",
+   "Awaken ājñā cakra early so that later awakenings are witnessed safely (Kundalini Tantra; recalled)."
+  ],
+  "ultimate": "ult:bihar-school",
+  "summary": "The yoga school founded by Swami Satyananda Saraswati at Munger in 1963–64, which systematized āsana, prāṇāyāma, tantric meditation and the modern practice of yoga nidrā in widely used manuals.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:bisapantha",
   "name": "Bīsapantha (Digambara)",
   "family": "ascetic",
@@ -2991,6 +3206,76 @@
   "provenance": {
    "units": [
     "skeleton:U37-abhidhamma-visuddhimagga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:brahma-kumaris",
+  "name": "Brahma Kumaris (Prajapita Brahma Kumaris Ishwariya Vishwa Vidyalaya)",
+  "alt_names": [
+   "Om Mandali (early name)",
+   "Brahma Kumaris World Spiritual University"
+  ],
+  "family": "vedic",
+  "founders": [
+   "tch:lekhraj-kripalani"
+  ],
+  "key_teachers": [
+   "tch:lekhraj-kripalani",
+   "tch:jagadamba-sarasvati",
+   "tch:dadi-prakashmani",
+   "tch:dadi-janki",
+   "tch:dadi-gulzar"
+  ],
+  "texts": [
+   "src:sakar-murli",
+   "src:avyakt-murli"
+  ],
+  "regions": [
+   "Hyderabad and Karachi (Sindh) before 1950",
+   "Mount Abu (Rajasthan)",
+   "worldwide"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "in 1936 the Supreme Soul Śiva began to speak through Lekhraj Kripalani (Brahmā Bābā)",
+    "from": 1936,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Om Mandali, Hyderabad (Sindh), 1936–37; to Karachi 1938; Mount Abu from 1950",
+    "from": 1936,
+    "to": null
+   },
+   "confidence": "high"
+  },
+  "distinctive_positions": [
+   "The soul is an eternal point of light seated in the forehead; the Supreme Soul Śiva is also an incorporeal point of light, not omnipresent.",
+   "A 5,000-year world cycle (Golden, Silver, Copper, Iron ages and the present Confluence Age) repeats identically.",
+   "Rāja Yoga as remembrance (yād) of the Supreme Soul, practised with open eyes; celibacy and pure vegetarian food.",
+   "Knowledge given daily in the murlī, spoken by Śiva through Brahmā (tradition's account).",
+   "Leadership mainly by women (the Dadis)."
+  ],
+  "ultimate": "ult:brahma-kumaris",
+  "summary": "The movement begun by Lekhraj Kripalani (Brahmā Bābā, 1876–1969) in Sindh in the 1930s, teaching the soul as a point of light, a 5,000-year cycle of ages, and open-eyed Rāja Yoga meditation, led largely by women.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "I2",
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
    ],
    "phases": [
     "skeleton"
@@ -4788,6 +5073,105 @@
   "provenance": {
    "units": [
     "skeleton:U41-yogacara-pramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:divine-life-society",
+  "name": "Divine Life Society (Sivananda)",
+  "alt_names": [
+   "Sivananda Ashram, Rishikesh",
+   "Yoga-Vedanta Forest Academy"
+  ],
+  "family": "vedic",
+  "parent": "lin:advaita-vedanta",
+  "founders": [
+   "tch:sivananda"
+  ],
+  "key_teachers": [
+   "tch:sivananda",
+   "tch:chidananda",
+   "tch:krishnananda",
+   "tch:venkatesananda",
+   "tch:vishnudevananda",
+   "tch:satchidananda-yogiraj",
+   "tch:satyananda",
+   "tch:chinmayananda"
+  ],
+  "sub_lineages": [
+   "lin:bihar-school"
+  ],
+  "texts": [
+   "src:twenty-important-spiritual-instructions",
+   "src:bliss-divine-sivananda",
+   "src:kundalini-yoga-sivananda",
+   "src:japa-yoga-sivananda",
+   "src:science-of-pranayama-sivananda"
+  ],
+  "regions": [
+   "Rishikesh",
+   "worldwide branches and offshoots"
+  ],
+  "dating": {
+   "scholarly": {
+    "text": "founded by Sivananda at Rishikesh in 1936",
+    "from": 1936,
+    "to": null
+   },
+   "confidence": "high"
+  },
+  "transmissions_received": [
+   {
+    "from": "lin:dasanami",
+    "what": "Sarasvatī-branch sannyāsa (Sivananda took sannyāsa from Viśvānanda Sarasvatī in 1924)",
+    "evidence": "tradition-account; DLS biographies"
+   },
+   {
+    "from": "lin:advaita-vedanta",
+    "what": "Advaita doctrine as the final view",
+    "evidence": "his writings"
+   },
+   {
+    "from": "lin:hatha-yoga",
+    "what": "āsana, prāṇāyāma and kuṇḍalinī teaching drawn from the haṭha texts",
+    "evidence": "Kundalini Yoga (1935); Science of Pranayama"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:bihar-school",
+    "what": "Satyananda's training and sannyāsa (1947)"
+   },
+   {
+    "to": "lin:advaita-vedanta",
+    "what": "Chinmayananda's Vedānta mission (Chinmaya Mission)"
+   }
+  ],
+  "distinctive_positions": [
+   "The Yoga of Synthesis: karma, bhakti, rāja and jñāna yoga practised together ('head, heart and hand').",
+   "Motto: Serve, Love, Give, Purify, Meditate, Realize; 'Be good, do good'.",
+   "Daily discipline: rising at brahmamuhūrta, japa, meditation, study, silence, and a spiritual diary.",
+   "Wide free distribution of short practical books in English."
+  ],
+  "ultimate": "ult:divine-life-society",
+  "summary": "The ashram and society founded at Rishikesh in 1936 by Swami Sivananda, a former physician, teaching a 'yoga of synthesis' on an Advaita basis; many modern teachers of yoga and Vedānta were trained there.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
    ],
    "phases": [
     "skeleton"
@@ -7137,6 +7521,74 @@
   }
  },
  {
+  "id": "lin:himalayan-institute",
+  "name": "Himalayan Institute (Swami Rama)",
+  "alt_names": [
+   "Himalayan International Institute of Yoga Science and Philosophy",
+   "the Himalayan tradition"
+  ],
+  "family": "vedic",
+  "founders": [
+   "tch:swami-rama"
+  ],
+  "key_teachers": [
+   "tch:bengali-baba",
+   "tch:swami-rama",
+   "tch:swami-veda-bharati",
+   "tch:rajmani-tigunait"
+  ],
+  "texts": [
+   "src:living-with-the-himalayan-masters",
+   "src:science-of-breath-swami-rama",
+   "src:path-of-fire-and-light"
+  ],
+  "regions": [
+   "Honesdale (Pennsylvania)",
+   "Rishikesh",
+   "Dehradun"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "the tradition presents itself as an ancient Himalayan lineage of Śaṅkara's order and Śrīvidyā, transmitted to Swami Rama by his master Bengali Baba",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Himalayan Institute founded 1971 (Honesdale from 1977)",
+    "from": 1971,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "distinctive_positions": [
+   "Yoga science as a system: diaphragmatic breathing, systematic relaxation, meditation with mantra and the application of suṣumnā (breath flowing evenly in both nostrils).",
+   "Claimed lineage from Himalayan sages of Śaṅkara's tradition and Śrīvidyā (tradition's account).",
+   "The four primitive urges (food, sleep, sex, self-preservation) to be regulated."
+  ],
+  "ultimate": "ult:himalayan-institute",
+  "summary": "The organization founded by Swami Rama (1925–1996) to teach yoga, meditation and Vedānta as practical science, claiming descent from a Himalayan line of sages.",
+  "notes": "Swami Rama's early life and his claimed tenure as Śaṅkarācārya of Karvīrapīṭha are known only from his own account (tradition's account).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:hongzhou",
   "name": "Hongzhou school",
   "alt_names": [
@@ -7310,6 +7762,194 @@
   "provenance": {
    "units": [
     "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:inchegiri",
+  "name": "Inchegiri Navnāth Sampradāya",
+  "alt_names": [
+   "Inchegiri sampradāya",
+   "Nimbargi–Inchegiri lineage"
+  ],
+  "family": "vedic",
+  "parent": "lin:natha",
+  "founders": [
+   "tch:bhausaheb-maharaj"
+  ],
+  "key_teachers": [
+   "tch:nimbargi-maharaj",
+   "tch:bhausaheb-maharaj",
+   "tch:gurudev-ranade",
+   "tch:siddharameshwar-maharaj",
+   "tch:nisargadatta-maharaj",
+   "tch:ranjit-maharaj"
+  ],
+  "texts": [
+   "src:master-of-self-realization",
+   "src:i-am-that",
+   "src:prior-to-consciousness",
+   "src:dasbodh",
+   "src:amrtanubhava"
+  ],
+  "regions": [
+   "northern Karnataka (Nimbargi, Inchegiri)",
+   "Maharashtra (Bagewadi, Mumbai)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "the tradition traces itself to the nine Nāths and Dattātreya, through Revaṇanātha, to Gurulingajangam Maharaj of Nimbargi",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "documented from Gurulingajangam (Nimbargi) Maharaj (d. 1885) and Bhausaheb Maharaj (1843–1914) of Inchegiri",
+    "from": 1850,
+    "to": null
+   },
+   "confidence": "low"
+  },
+  "transmissions_received": [
+   {
+    "from": "lin:natha",
+    "what": "the claimed descent from the nine Nāths and Dattātreya; the tradition's name 'Navnāth'",
+    "evidence": "tradition-account; not independently documented"
+   },
+   {
+    "from": "lin:varkari",
+    "what": "Marathi sant literature used in teaching (Jñāneśvar's Amṛtānubhava, Tukārām's songs)",
+    "evidence": "tradition-account"
+   },
+   {
+    "from": "lin:ramdasi",
+    "what": "Samartha Rāmdās's Dāsbodh as a core text of Siddharameshwar's teaching",
+    "evidence": "tradition-account"
+   }
+  ],
+  "distinctive_positions": [
+   "Initiation with a name-mantra (nāma) and meditation on it; Bhausaheb Maharaj taught long meditation ('the ant's way').",
+   "Siddharameshwar Maharaj taught the quicker 'bird's way' of understanding (vihaṅgama) alongside meditation.",
+   "Nisargadatta: hold to the bare sense 'I am'; it leads beyond itself to the Absolute that is prior to consciousness.",
+   "Householder teachers: the principal masters were lay people."
+  ],
+  "ultimate": "ult:inchegiri",
+  "summary": "A Marathi–Kannada lineage of householder teachers descending, in the tradition's account, from the nine Nāths; documented from Nimbargi and Bhausaheb Maharaj, through Siddharameshwar to Nisargadatta Maharaj of Mumbai, known worldwide through I Am That.",
+  "notes": "The claimed descent from the Navnāths is the tradition's account; its earlier links are not documented historically.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:integral-yoga",
+  "name": "Integral Yoga of Sri Aurobindo and the Mother",
+  "alt_names": [
+   "Pūrṇa Yoga",
+   "Sri Aurobindo Ashram",
+   "Auroville"
+  ],
+  "family": "vedic",
+  "founders": [
+   "tch:sri-aurobindo",
+   "tch:mirra-alfassa"
+  ],
+  "key_teachers": [
+   "tch:sri-aurobindo",
+   "tch:mirra-alfassa",
+   "tch:nolini-kanta-gupta",
+   "tch:satprem"
+  ],
+  "texts": [
+   "src:life-divine",
+   "src:synthesis-of-yoga",
+   "src:savitri-aurobindo",
+   "src:the-mother-aurobindo",
+   "src:letters-on-yoga",
+   "src:essays-on-the-gita",
+   "src:secret-of-the-veda",
+   "src:mothers-agenda",
+   "src:uttarpara-speech",
+   "src:record-of-yoga"
+  ],
+  "regions": [
+   "Pondicherry (Puducherry)",
+   "Auroville"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "the ashram dates its foundation from 24 November 1926, the 'Day of Siddhi'",
+    "from": 1926,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Sri Aurobindo in Pondicherry from 1910; the Arya 1914–1921; ashram 1926; Auroville 1968",
+    "from": 1910,
+    "to": null
+   },
+   "confidence": "high"
+  },
+  "transmissions_received": [
+   {
+    "from": "lin:upanisadic",
+    "what": "the Upaniṣads read as teaching a Brahman that is both transcendent and the world",
+    "evidence": "The Life Divine; his Upaniṣad translations"
+   },
+   {
+    "from": "lin:epic-teaching",
+    "what": "the Gītā's synthesis of works, knowledge and devotion",
+    "evidence": "Essays on the Gita"
+   },
+   {
+    "from": "lin:vedic-srauta",
+    "what": "a symbolic reading of the Ṛgveda",
+    "evidence": "The Secret of the Veda"
+   },
+   {
+    "from": "lin:sakta",
+    "what": "the Divine Mother and her four powers",
+    "evidence": "The Mother (1928), ch. 6"
+   }
+  ],
+  "distinctive_positions": [
+   "Spirit has involved itself in matter and evolves through it; the goal is not escape from the world but its transformation by the descent of the Supermind.",
+   "Ascent of consciousness through Higher Mind, Illumined Mind, Intuition and Overmind to Supermind; a triple transformation — psychic, spiritual, supramental.",
+   "'All life is Yoga': works, knowledge, devotion and self-perfection integrated; aspiration, rejection and surrender to the Mother's force.",
+   "Rejection of the doctrine that the world is illusion (māyāvāda) and of the ascetic refusal of life."
+  ],
+  "ultimate": "ult:integral-yoga",
+  "summary": "The yoga taught by Sri Aurobindo (1872–1950) and the Mother (Mirra Alfassa, 1878–1973) at Pondicherry, aiming at the transformation of earthly life by a supramental consciousness.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
    ],
    "phases": [
     "skeleton"
@@ -9583,6 +10223,97 @@
   }
  },
  {
+  "id": "lin:kanji-swami",
+  "name": "Kanji Swami's Digambara Adhyātma movement (Songadh)",
+  "alt_names": [
+   "Kanji Panth",
+   "Mumukṣu movement",
+   "Songadh (Sonagadh) school"
+  ],
+  "family": "ascetic",
+  "parent": "lin:digambara",
+  "founders": [
+   "tch:kanji-swami"
+  ],
+  "key_teachers": [
+   "tch:kanji-swami",
+   "tch:champaben",
+   "tch:hukamchand-bharill",
+   "tch:phoolchand-siddhantashastri"
+  ],
+  "texts": [
+   "src:samayasara",
+   "src:samayasara-kalasa",
+   "src:pravacanasara",
+   "src:niyamasara",
+   "src:moksamarga-prakasaka",
+   "src:pravacana-ratnakara",
+   "src:bahenshri-vacanamrta",
+   "src:jaipur-khaniya-tattvacarca"
+  ],
+  "regions": [
+   "Songadh (Saurashtra, Gujarat)",
+   "Jaipur (Todarmal Smarak Trust)",
+   "Gujarat, Maharashtra, Madhya Pradesh",
+   "diaspora"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Kanji Swami's 'change' (parivartana) from Sthānakavāsī monk to Digambara layman at Songadh on Mahāvīra Jayantī, 1934 or 1935 (year recalled with uncertainty)",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Svādhyāya Mandir, Songadh 1937–38; Paramāgama Mandir 1974",
+    "from": 1934,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "transmissions_received": [
+   {
+    "from": "lin:adhyatma-jain",
+    "what": "the niścaya-centred reading of the Samayasāra and the vernacular Adhyātma literature (Banārsīdās's Samayasāra Nāṭaka; Ṭoḍarmal's Mokṣamārga Prakāśaka)",
+    "evidence": "see lin:adhyatma-jain transmissions_given (U35)"
+   },
+   {
+    "from": "lin:sthanakavasi",
+    "what": "Kanji Swami's first monastic formation (dīkṣā 1913)",
+    "evidence": "biographies"
+   }
+  ],
+  "distinctive_positions": [
+   "Right faith (samyag-darśana) through discrimination of self from non-self (bheda-vijñāna) must come first; vows and rituals without it do not lead to liberation.",
+   "Only the niścaya standpoint is real (bhūtārtha); the vyavahāra standpoint is unreal (Samayasāra 11), though it is to be known.",
+   "Every modification of every substance occurs in its fixed sequence (kramabaddha-paryāya).",
+   "The instrumental cause (nimitta) is present but does nothing to another substance; the substance itself is the material cause (upādāna).",
+   "Auspicious dispositions (śubha-bhāva) are also bondage.",
+   "A lay (non-monastic) teacher at the centre; devotion to Sīmandhara Svāmī, the living Tīrthaṅkara of Mahāvideha."
+  ],
+  "ultimate": "ult:kanji-swami",
+  "summary": "The 20th-century lay Digambara movement of Kanji Swami (1890–1980) at Songadh, which revived Kundakunda's Samayasāra with an emphasis on the niścaya standpoint, right faith first, and the doctrines of ordered modifications and inefficacious instrumental causes.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "I3",
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:kapalika",
   "name": "Kāpālika (Somasiddhānta)",
   "alt_names": [
@@ -10713,6 +11444,192 @@
   }
  },
  {
+  "id": "lin:krishnamacharya",
+  "name": "Krishnamacharya lineage (modern postural yoga of Mysore and Chennai)",
+  "alt_names": [
+   "Mysore yogaśālā tradition",
+   "Viniyoga (Desikachar)",
+   "Iyengar Yoga",
+   "Ashtanga Vinyasa Yoga"
+  ],
+  "family": "vedic",
+  "parent": "lin:patanjala-yoga",
+  "founders": [
+   "tch:krishnamacharya"
+  ],
+  "key_teachers": [
+   "tch:krishnamacharya",
+   "tch:bks-iyengar",
+   "tch:pattabhi-jois",
+   "tch:tkv-desikachar",
+   "tch:indra-devi"
+  ],
+  "texts": [
+   "src:yoga-makaranda",
+   "src:yogasanagalu",
+   "src:yoga-rahasya-krishnamacharya",
+   "src:yoga-kurunta",
+   "src:heart-of-yoga-desikachar",
+   "src:light-on-yoga",
+   "src:yoga-mala-jois",
+   "src:yoga-sutra"
+  ],
+  "regions": [
+   "Mysore",
+   "Chennai",
+   "worldwide"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "the lineage claims its practice from Nāthamuni's Yoga Rahasya (received by Krishnamacharya in a vision at Āḻvār Tirunagari) and from Rāmamohana Brahmacārī in the Himalaya",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Krishnamacharya's teaching at the Mysore palace yogaśālā from 1933, in Chennai from the 1950s; his students' schools from the 1960s",
+    "from": 1933,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "transmissions_received": [
+   {
+    "from": "lin:patanjala-yoga",
+    "what": "the Yoga Sūtras as the root text of the lineage's yoga",
+    "evidence": "Krishnamacharya's teaching; Desikachar's Heart of Yoga"
+   },
+   {
+    "from": "lin:hatha-yoga",
+    "what": "āsana, prāṇāyāma, bandha and mudrā from the haṭha texts",
+    "evidence": "Yoga Makaranda cites haṭha texts"
+   },
+   {
+    "from": "lin:visistadvaita",
+    "what": "Śrīvaiṣṇava affiliation and the claimed recovery of Nāthamuni's Yoga Rahasya",
+    "evidence": "tradition-account; the original Yogarahasya is lost (see src:yogarahasya-nathamuni)"
+   }
+  ],
+  "distinctive_positions": [
+   "Āsana practised with coordinated breath in sequenced movement (vinyāsa); prāṇāyāma and meditation in their place in the eight limbs.",
+   "Practice adapted to the individual and the stage of life (viniyoga: śikṣaṇa, rakṣaṇa, adhyātmika krama; cikitsā for the sick) — as taught by Desikachar.",
+   "Claimed textual sources (Nāthamuni's Yoga Rahasya, Vāmana Ṛṣi's Yoga Kuruṇṭa) that are not independently extant: the tradition's account only.",
+   "Yoga taught to women and to non-brāhmaṇas, and in Western countries through his students."
+  ],
+  "ultimate": "ult:krishnamacharya",
+  "summary": "The yoga taught by T. Krishnamacharya (1888–1989) at Mysore and Chennai and carried worldwide by his students (Iyengar, Pattabhi Jois, Desikachar, Indra Devi); the principal source of modern postural yoga, combining Patañjali's framework with breath-linked āsana sequences.",
+  "notes": "Students' schools recorded as metadata here rather than as separate lineages.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:kriya-yoga",
+  "name": "Kriyā Yoga lineage (Lahiri Mahasaya and successors)",
+  "alt_names": [
+   "Kriya Yoga",
+   "Self-Realization Fellowship / Yogoda Satsanga Society (Yogananda's branch)"
+  ],
+  "family": "vedic",
+  "founders": [
+   "tch:lahiri-mahasaya"
+  ],
+  "key_teachers": [
+   "tch:mahavatar-babaji",
+   "tch:lahiri-mahasaya",
+   "tch:sri-yukteswar",
+   "tch:paramahansa-yogananda",
+   "tch:pranabananda",
+   "tch:panchanan-bhattacharya",
+   "tch:rajarsi-janakananda",
+   "tch:daya-mata"
+  ],
+  "texts": [
+   "src:autobiography-of-a-yogi",
+   "src:holy-science",
+   "src:god-talks-with-arjuna",
+   "src:lahiri-mahasaya-diaries",
+   "src:srf-lessons"
+  ],
+  "regions": [
+   "Varanasi",
+   "Serampore and Puri",
+   "Ranchi",
+   "Los Angeles",
+   "worldwide"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Kriyā is held to be the ancient science that Kṛṣṇa taught Arjuna and Patañjali knew, lost and revived by the deathless Mahāvatār Bābājī, who gave it to Lahiri Mahasaya in 1861",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "documented from Lahiri Mahasaya's initiations in Varanasi (from 1861); Yogoda Satsanga 1917, Self-Realization Fellowship 1920",
+    "from": 1861,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "transmissions_received": [
+   {
+    "from": "lin:hatha-yoga",
+    "what": "prāṇāyāma, mudrā and khecarī-related practices as the technical background of kriyā (restricted)",
+    "evidence": "scholarly: shared technical vocabulary; the lineage itself derives kriyā from Bābājī"
+   },
+   {
+    "from": "lin:dasanami",
+    "what": "Sri Yukteswar and Yogananda took sannyāsa in the Giri branch",
+    "evidence": "Autobiography of a Yogi ch. 24"
+   }
+  ],
+  "distinctive_positions": [
+   "Kriyā: a breath-and-energy technique given only at initiation, by which the yogi directs the life current up and down the spine through six centres; the technique is kept secret (restricted here).",
+   "Householder yoga: Lahiri Mahasaya lived as a family man and gave kriyā to people of all castes and creeds.",
+   "The claimed antiquity of kriyā (BhG 4.29, 5.27–28; YS 2.1) and the deathless Bābājī are the tradition's account.",
+   "Sri Yukteswar: the harmony of Hindu and Christian scripture; a 24,000-year cycle of ascending and descending yugas.",
+   "Yogananda: Self-realization as knowing in body, mind and soul one's oneness with God; the SRF line of gurus includes Kṛṣṇa and Jesus."
+  ],
+  "ultimate": "ult:kriya-yoga",
+  "path_maps": [],
+  "summary": "The initiatory lineage of kriyā yoga stemming from Lahiri Mahasaya of Varanasi (initiated, in the tradition's account, by Mahāvatār Bābājī in 1861), carried by Sri Yukteswar and spread worldwide by Paramahansa Yogananda's Autobiography of a Yogi and the Self-Realization Fellowship.",
+  "notes": "Several independent kriyā lines descend from Lahiri's other disciples (e.g. Panchanan Bhattacharya's Arya Mission); only the lineage names are recorded here.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:kubjika",
   "name": "Kubjikā tradition (Paścimāmnāya, the 'Western Transmission')",
   "alt_names": [
@@ -10802,6 +11719,80 @@
   "provenance": {
    "units": [
     "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:lakshmanjoo",
+  "name": "Swami Lakshmanjoo's transmission of Kashmir Śaivism",
+  "alt_names": [
+   "Ishber ashram",
+   "Universal Shaiva Fellowship"
+  ],
+  "family": "vedic",
+  "parent": "lin:kashmir-saivism",
+  "founders": [
+   "tch:lakshmanjoo"
+  ],
+  "key_teachers": [
+   "tch:swami-ram-kashmir",
+   "tch:mahtab-kak",
+   "tch:lakshmanjoo",
+   "tch:jaideva-singh",
+   "tch:john-hughes"
+  ],
+  "texts": [
+   "src:kashmir-shaivism-secret-supreme",
+   "src:siva-sutras-lakshmanjoo",
+   "src:vijnana-bhairava-lakshmanjoo",
+   "src:tantraloka",
+   "src:siva-sutra",
+   "src:vijnana-bhairava-tantra"
+  ],
+  "regions": [
+   "Srinagar (Ishber, Nishat)",
+   "recordings studied worldwide"
+  ],
+  "dating": {
+   "scholarly": {
+    "text": "Lakshmanjoo's teaching c. 1930s–1991",
+    "from": 1930,
+    "to": 1991
+   },
+   "confidence": "moderate"
+  },
+  "transmissions_received": [
+   {
+    "from": "lin:kashmir-saivism",
+    "what": "the oral and textual tradition of Trika, Spanda and Pratyabhijñā as kept by Kashmiri Paṇḍit teachers",
+    "evidence": "tradition-account: from Swami Rām and Mahtab Kak"
+   }
+  ],
+  "distinctive_positions": [
+   "The whole of Abhinavagupta's system taught as living practice: the thirty-six tattvas, the three means and the means-less (anupāya), the seven perceivers, the states of turya.",
+   "Oral explanation of the Tantrāloka, Śiva Sūtras and Vijñāna Bhairava recorded in English and Hindi.",
+   "Recognition of one's own nature as Śiva as the goal, with grace (śaktipāta) as its cause."
+  ],
+  "ultimate": "ult:lakshmanjoo",
+  "summary": "The 20th-century continuation of Kashmir Śaivism in Swami Lakshmanjoo (1907–1991), who taught the texts of Abhinavagupta's school orally at Srinagar and whose recorded lectures and scholarly students carried it abroad.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "H",
+   "A7"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
    ],
    "phases": [
     "skeleton"
@@ -12158,6 +13149,84 @@
   }
  },
  {
+  "id": "lin:mahima-dharma",
+  "name": "Mahimā Dharma",
+  "alt_names": [
+   "Alekha Dharma",
+   "Mahima Dharma of Odisha"
+  ],
+  "family": "vedic",
+  "founders": [
+   "tch:mahima-swami"
+  ],
+  "key_teachers": [
+   "tch:mahima-swami",
+   "tch:govinda-baba-mahima",
+   "tch:bhima-bhoi"
+  ],
+  "texts": [
+   "src:stuti-cintamani",
+   "src:brahma-nirupana-gita"
+  ],
+  "regions": [
+   "Odisha (Joranda, Dhenkanal district)",
+   "adjacent Chhattisgarh and Andhra"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Mahimā Svāmī is held to have appeared at Puri in the 1820s and to have done austerities in the Kapilas hills before preaching",
+    "from": 1826,
+    "to": null
+   },
+   "scholarly": {
+    "text": "preaching from the 1860s; Mahimā Svāmī died at Joranda in 1876",
+    "from": 1860,
+    "to": null
+   },
+   "confidence": "low"
+  },
+  "transmissions_received": [
+   {
+    "from": "lin:pancasakha",
+    "what": "the Odia idiom of śūnya-puruṣa and the formless Brahman",
+    "evidence": "scholarly-hypothesis; shared vocabulary"
+   },
+   {
+    "from": "lin:jagannatha",
+    "what": "negative relation: rejection of image worship, including Jagannātha",
+    "evidence": "the 1881 attempt by adherents on the Puri temple (historical record)"
+   }
+  ],
+  "distinctive_positions": [
+   "God is Alekha ('the unwritable'), the formless Śūnya Brahman or Mahimā (Glory), not to be worshipped in images.",
+   "Rejection of caste, of brāhmaṇa priesthood and of image and temple worship.",
+   "Ascetics wear tree bark, eat once a day before sunset and do not stay two nights in one place (recalled; low confidence).",
+   "Bhīma Bhoi: 'let my life be cast in hell, but let the world be saved'."
+  ],
+  "ultimate": "ult:mahima-dharma",
+  "summary": "The Odia renunciant movement of Mahimā Svāmī (d. 1876) and the blind Kondh poet Bhīma Bhoi, worshipping the formless Alekha and rejecting caste and image worship; centred at Joranda.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "I2",
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:mahisasaka",
   "name": "Mahīśāsaka",
   "alt_names": [
@@ -13359,6 +14428,92 @@
   }
  },
  {
+  "id": "lin:narayana-guru",
+  "name": "Sree Narayana Guru's movement",
+  "alt_names": [
+   "Sivagiri Mutt",
+   "Sree Narayana Dharma Sangham",
+   "Narayana Gurukula"
+  ],
+  "family": "vedic",
+  "parent": "lin:advaita-vedanta",
+  "founders": [
+   "tch:narayana-guru"
+  ],
+  "key_teachers": [
+   "tch:thycaud-ayyavu",
+   "tch:narayana-guru",
+   "tch:nataraja-guru",
+   "tch:nitya-chaitanya-yati",
+   "tch:kumaran-asan"
+  ],
+  "texts": [
+   "src:atmopadesa-satakam",
+   "src:darsana-mala",
+   "src:jati-mimamsa",
+   "src:daiva-dasakam",
+   "src:jati-nirnayam",
+   "src:anukampa-dasakam"
+  ],
+  "regions": [
+   "Kerala (Sivagiri, Varkala; Aluva)",
+   "Tamil Nadu"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "the movement dates its beginning to the Guru's consecration of a Śiva image at Aruvippuram on Śivarātri 1888",
+    "from": 1888,
+    "to": null
+   },
+   "scholarly": {
+    "text": "SNDP Yogam 1903; Sivagiri Mutt 1904; Advaita Ashram, Aluva 1913; Narayana Gurukula 1923",
+    "from": 1888,
+    "to": null
+   },
+   "confidence": "high"
+  },
+  "transmissions_received": [
+   {
+    "from": "lin:advaita-vedanta",
+    "what": "non-dual Vedānta as the Guru's philosophy",
+    "evidence": "Ātmopadeśa Śatakam; Darśana Mālā"
+   },
+   {
+    "from": "lin:tamil-saiva-siddhanta",
+    "what": "Tamil Śaiva and Siddha literature he studied and translated (Tirukkuṟaḷ, Oḻivil Oṭukkam)",
+    "evidence": "his translations"
+   }
+  ],
+  "distinctive_positions": [
+   "One caste, one religion, one God for humankind; humanity itself is the only caste (Jāti Mīmāṃsā).",
+   "Non-dual knowledge (aṟivu) is the one reality; what one does for one's own happiness should also bring happiness to others (Ātmopadeśa Śatakam 24).",
+   "Temples, schools and consecrations opened to those excluded by caste; the mirror installed as object of worship (tradition's account).",
+   "Whatever the religion, it suffices if a person becomes good."
+  ],
+  "ultimate": "ult:narayana-guru",
+  "summary": "The movement of Sree Narayana Guru (1856–1928) of Kerala, a non-dual Vedāntin and poet who worked against caste through temple consecrations, education and organization, teaching 'one caste, one religion, one God'.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "I2",
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:natha",
   "name": "Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)",
   "alt_names": [
@@ -13759,6 +14914,77 @@
   "provenance": {
    "units": [
     "skeleton:U18-saiva-siddhanta"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:neem-karoli",
+  "name": "Neem Karoli Baba's devotees (Kainchi and Vrindavan)",
+  "alt_names": [
+   "Neeb Karori Baba",
+   "Maharaj-ji's satsang"
+  ],
+  "family": "vedic",
+  "founders": [
+   "tch:neem-karoli-baba"
+  ],
+  "key_teachers": [
+   "tch:neem-karoli-baba",
+   "tch:siddhi-ma",
+   "tch:ram-dass",
+   "tch:dada-mukerjee"
+  ],
+  "texts": [
+   "src:miracle-of-love",
+   "src:be-here-now",
+   "src:by-his-grace",
+   "src:hanuman-calisa",
+   "src:ramcaritmanas"
+  ],
+  "regions": [
+   "Kainchi (Uttarakhand)",
+   "Vrindavan",
+   "Western devotee circles"
+  ],
+  "dating": {
+   "scholarly": {
+    "text": "Kainchi Dham 1964; the saint died 1973",
+    "from": 1964,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "transmissions_received": [
+   {
+    "from": "lin:ramanandi",
+    "what": "Rāma–Hanumān devotion, the Hanumān Cālīsā and the Rāmcaritmānas",
+    "evidence": "devotees' accounts"
+   }
+  ],
+  "distinctive_positions": [
+   "Love everyone, serve everyone, remember God, tell the truth.",
+   "Devotion to Hanumān and Rāma; recitation of the Hanumān Cālīsā; feeding people.",
+   "No formal doctrine or initiation system; the teacher's presence and stories of his powers (tradition's account) as the centre."
+  ],
+  "ultimate": "ult:neem-karoli",
+  "summary": "The devotees of Neem Karoli Baba (d. 1973), a Hanumān devotee of North India whose temples and ashrams centre on devotion and service; known in the West through Ram Dass.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
    ],
    "phases": [
     "skeleton"
@@ -15154,6 +16380,100 @@
   }
  },
  {
+  "id": "lin:plum-village",
+  "name": "Plum Village tradition (Thích Nhất Hạnh)",
+  "alt_names": [
+   "Order of Interbeing (Tiếp Hiện)",
+   "Làng Mai"
+  ],
+  "family": "ascetic",
+  "parent": "lin:linji",
+  "founders": [
+   "tch:thich-nhat-hanh"
+  ],
+  "key_teachers": [
+   "tch:thanh-quy-chan-that",
+   "tch:thich-nhat-hanh",
+   "tch:chan-khong"
+  ],
+  "texts": [
+   "src:miracle-of-mindfulness",
+   "src:heart-of-understanding",
+   "src:interbeing-fourteen-mindfulness-trainings",
+   "src:five-mindfulness-trainings",
+   "src:old-path-white-clouds",
+   "src:transformation-at-the-base",
+   "src:peace-is-every-step"
+  ],
+  "regions": [
+   "Vietnam (Từ Hiếu, Huế)",
+   "France (Plum Village, Dordogne)",
+   "worldwide"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Thích Nhất Hạnh is counted in the 42nd generation of the Lâm Tế (Linji) school and the 8th of the Liễu Quán branch",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Order of Interbeing 1966; Plum Village 1982",
+    "from": 1966,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "transmissions_received": [
+   {
+    "from": "lin:linji",
+    "what": "Vietnamese Lâm Tế (Linji) Thiền ordination and dharma lineage via the Liễu Quán branch",
+    "evidence": "tradition-account"
+   },
+   {
+    "from": "lin:yogacara",
+    "what": "the store consciousness and seeds, reformulated in fifty verses",
+    "evidence": "Transformation at the Base / Understanding Our Mind"
+   },
+   {
+    "from": "lin:early-buddhism",
+    "what": "the Ānāpānasati and Satipaṭṭhāna suttas as practice texts",
+    "evidence": "his commentaries on both suttas"
+   },
+   {
+    "from": "lin:truc-lam",
+    "what": "the Vietnamese Trúc Lâm heritage as context",
+    "evidence": "tradition-account"
+   }
+  ],
+  "distinctive_positions": [
+   "Interbeing (tiếp hiện): nothing exists by itself alone; each thing contains all others.",
+   "Mindfulness in daily life: conscious breathing, walking meditation, the bell of mindfulness, short verses (gāthās) for daily acts.",
+   "Engaged Buddhism: practice carried into social suffering and peace work.",
+   "The Five and the Fourteen Mindfulness Trainings as reformulated precepts; non-attachment to views first."
+  ],
+  "ultimate": "ult:plum-village",
+  "summary": "The Vietnamese Thiền tradition of Thích Nhất Hạnh (1926–2022), with the Order of Interbeing and monastic practice centres led from Plum Village in France, teaching mindfulness in daily life and interbeing.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:prabhakara-mimamsa",
   "name": "Prābhākara Mīmāṃsā",
   "alt_names": [
@@ -16523,6 +17843,211 @@
   }
  },
  {
+  "id": "lin:ramakrishna-order",
+  "name": "Ramakrishna Order (Ramakrishna Math and Ramakrishna Mission)",
+  "alt_names": [
+   "Ramakrishna Math",
+   "Ramakrishna Mission",
+   "Vedanta Society (in the West)"
+  ],
+  "family": "vedic",
+  "parent": "lin:vedanta",
+  "founders": [
+   "tch:ramakrishna",
+   "tch:vivekananda"
+  ],
+  "key_teachers": [
+   "tch:ramakrishna",
+   "tch:sarada-devi",
+   "tch:vivekananda",
+   "tch:brahmananda-rakhal",
+   "tch:saradananda",
+   "tch:turiyananda",
+   "tch:abhedananda",
+   "tch:nikhilananda",
+   "tch:prabhavananda"
+  ],
+  "texts": [
+   "src:ramakrsna-kathamrta",
+   "src:ramakrsna-lilaprasanga",
+   "src:raja-yoga-vivekananda",
+   "src:karma-yoga-vivekananda",
+   "src:bhakti-yoga-vivekananda",
+   "src:jnana-yoga-vivekananda",
+   "src:chicago-addresses-vivekananda",
+   "src:complete-works-of-vivekananda",
+   "src:sri-sri-mayer-katha"
+  ],
+  "regions": [
+   "Bengal (Dakshineswar, Belur)",
+   "all India",
+   "Vedanta Societies in North America and Europe"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Ramakrishna's disciples took monastic vows at Baranagar after his passing (1886); the Mission was founded by Vivekananda on 1 May 1897",
+    "from": 1886,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Baranagar monastery 1886; Ramakrishna Mission Association 1897; Belur Math 1898–99; Math and Mission registered as separate bodies in 1901 and 1909",
+    "from": 1886,
+    "to": null
+   },
+   "confidence": "high"
+  },
+  "transmissions_received": [
+   {
+    "from": "lin:advaita-vedanta",
+    "what": "Advaita doctrine; Ramakrishna's nirvikalpa samādhi under the Daśanāmī monk Totāpurī (tradition's account)",
+    "evidence": "tradition-account: Līlāprasaṅga; Kathāmṛta"
+   },
+   {
+    "from": "lin:dasanami",
+    "what": "sannyāsa in the Purī branch of the Daśanāmī order, through Totāpurī's initiation of Ramakrishna; the order's monks bear Daśanāmī names",
+    "evidence": "tradition-account"
+   },
+   {
+    "from": "lin:bengal-assam-sakta",
+    "what": "Kālī worship at Dakshineswar and tantric sādhana under the Bhairavī Brāhmaṇī",
+    "evidence": "tradition-account: Līlāprasaṅga"
+   },
+   {
+    "from": "lin:gaudiya-vaisnava",
+    "what": "Vaiṣṇava devotional moods (dāsya, vātsalya, madhura) that Ramakrishna is said to have practised",
+    "evidence": "tradition-account: Līlāprasaṅga"
+   },
+   {
+    "from": "lin:patanjala-yoga",
+    "what": "Vivekananda's Rāja Yoga presents and comments on the Yoga Sūtras",
+    "evidence": "Rāja Yoga (1896), part 2"
+   }
+  ],
+  "transmissions_given": [
+   {
+    "to": "lin:vedanta",
+    "what": "Vedānta societies and English-language Vedānta teaching in the West (recent)"
+   }
+  ],
+  "distinctive_positions": [
+   "The Divine Mother (Kālī/Śakti) and the impersonal Brahman are one reality, like fire and its power to burn.",
+   "'As many faiths, so many paths' (yata mat tata path): every sincere religion leads to the same God.",
+   "Serving living beings as Śiva (śiva-jñāne jīva-sevā) is worship; the Mission joins renunciation to service.",
+   "Vivekananda's four yogas — work, devotion, meditation (rāja) and knowledge — as paths to manifest the divinity already in every soul.",
+   "Motto: ātmano mokṣārthaṃ jagad hitāya ca — for one's own liberation and for the welfare of the world."
+  ],
+  "ultimate": "ult:ramakrishna-order",
+  "summary": "The monastic order and service mission formed by Ramakrishna's young disciples under Vivekananda after 1886; it teaches Vedānta as understood through Ramakrishna's many-path realization and combines monastic sannyāsa with organized service.",
+  "notes": "Ramakrishna's own sādhanas (Śākta, Vaiṣṇava, Advaita, and, in the tradition's account, Islamic and Christian) are known from the Kathāmṛta and the Līlāprasaṅga; U23/U24 hold his Śākta context.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:ramana",
+  "name": "The teaching of Ramana Maharshi (Sri Ramanasramam)",
+  "alt_names": [
+   "Ramana tradition",
+   "Sri Ramanasramam"
+  ],
+  "family": "vedic",
+  "parent": "lin:advaita-vedanta",
+  "founders": [
+   "tch:ramana-maharshi"
+  ],
+  "key_teachers": [
+   "tch:ramana-maharshi",
+   "tch:ganapati-muni",
+   "tch:muruganar",
+   "tch:annamalai-swami",
+   "tch:hwl-poonja"
+  ],
+  "texts": [
+   "src:nan-yar",
+   "src:upadesa-saram",
+   "src:ulladu-narpadu",
+   "src:vicara-sangraham",
+   "src:arunacala-aksaramanamalai",
+   "src:ekatma-pancakam",
+   "src:ramana-gita",
+   "src:talks-with-ramana",
+   "src:guru-vacaka-kovai",
+   "src:sad-darsanam"
+  ],
+  "regions": [
+   "Tiruvannamalai (Arunachala), Tamil Nadu"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Ramana's awakening in Madurai in July 1896 and arrival at Arunachala on 1 September 1896",
+    "from": 1896,
+    "to": null
+   },
+   "scholarly": {
+    "text": "teaching activity 1896–1950; Sri Ramanasramam at the foot of Arunachala from 1922",
+    "from": 1896,
+    "to": 1950
+   },
+   "confidence": "high"
+  },
+  "transmissions_received": [
+   {
+    "from": "lin:advaita-vedanta",
+    "what": "Advaita prakaraṇa texts Ramana read and rendered into Tamil (Vivekacūḍāmaṇi, Dṛg-Dṛśya-Viveka, Ātmabodha)",
+    "evidence": "his Tamil translations"
+   },
+   {
+    "from": "lin:tamil-saiva-siddhanta",
+    "what": "Tamil Śaiva devotional poetry (Periya Purāṇam, Tēvāram) read in his youth; Arunachala as Śiva",
+    "evidence": "tradition-account: his own reminiscences"
+   }
+  ],
+  "distinctive_positions": [
+   "Self-inquiry ('Who am I?'): tracing the I-thought to its source in the Heart is the direct path; the ego so sought vanishes and the Self shines as 'I-I'.",
+   "Ramana named no human guru; the tradition holds his realization came without teacher or scripture, and regards Arunachala itself as his guru.",
+   "Silence (mauna) is the highest teaching; he taught by level, holding non-origination (ajāta) as the final truth.",
+   "Surrender to God or guru and self-inquiry reach the same end.",
+   "No formal initiation or successor was appointed."
+  ],
+  "ultimate": "ult:ramana",
+  "summary": "The teaching that gathered round Ramana Maharshi at Tiruvannamalai (1896–1950): self-inquiry and surrender, taught in silence and in a few short Tamil and Sanskrit works, without formal initiation or succession.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:ramanandi",
   "name": "Rāmānandī sampradāya",
   "alt_names": [
@@ -17412,6 +18937,69 @@
   "provenance": {
    "units": [
     "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:sahaja-yoga",
+  "name": "Sahaja Yoga (Nirmala Srivastava)",
+  "alt_names": [
+   "Sahaja Yoga of Shri Mataji Nirmala Devi"
+  ],
+  "family": "vedic",
+  "founders": [
+   "tch:nirmala-srivastava"
+  ],
+  "key_teachers": [
+   "tch:nirmala-srivastava"
+  ],
+  "texts": [
+   "src:meta-modern-era"
+  ],
+  "regions": [
+   "India",
+   "Europe",
+   "worldwide"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "on 5 May 1970 at Nargol, Shri Mataji opened the 'collective Sahasrāra' of humanity",
+    "from": 1970,
+    "to": null
+   },
+   "scholarly": {
+    "text": "teaching from 1970",
+    "from": 1970,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "distinctive_positions": [
+   "Self-realization is the spontaneous (sahaja) awakening of kuṇḍalinī, a birthright given freely and not for payment; felt as a cool breeze (paramacaitanya) on the hands and above the head (claims of the tradition).",
+   "A subtle system of three channels (left, right, centre) and seven cakras, each with presiding deities.",
+   "Thoughtless awareness (nirvicāra) as the first state after realization.",
+   "The tradition holds its founder to be the Ādi Śakti (tradition's account)."
+  ],
+  "ultimate": "ult:sahaja-yoga",
+  "summary": "The movement founded by Nirmala Srivastava (Shri Mataji Nirmala Devi, 1923–2011) teaching en masse kuṇḍalinī awakening ('Self-realization') and meditation on a subtle system of channels and cakras.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "I2",
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
    ],
    "phases": [
     "skeleton"
@@ -20401,6 +21989,80 @@
   }
  },
  {
+  "id": "lin:sfzc",
+  "name": "San Francisco Zen Center (Shunryu Suzuki's Sōtō lineage in America)",
+  "alt_names": [
+   "SFZC",
+   "Tassajara Zen Mountain Center",
+   "Green Gulch Farm"
+  ],
+  "family": "ascetic",
+  "parent": "lin:soto",
+  "founders": [
+   "tch:shunryu-suzuki"
+  ],
+  "key_teachers": [
+   "tch:gyokujun-so-on",
+   "tch:kishizawa-ian",
+   "tch:shunryu-suzuki",
+   "tch:richard-baker"
+  ],
+  "texts": [
+   "src:zen-mind-beginners-mind",
+   "src:not-always-so",
+   "src:branching-streams-flow-in-the-darkness",
+   "src:crooked-cucumber",
+   "src:shobogenzo",
+   "src:sandokai"
+  ],
+  "regions": [
+   "San Francisco",
+   "Tassajara (California)",
+   "Green Gulch (Marin)"
+  ],
+  "dating": {
+   "scholarly": {
+    "text": "Suzuki in San Francisco from 1959; SFZC incorporated 1962; Tassajara 1967",
+    "from": 1959,
+    "to": null
+   },
+   "confidence": "high"
+  },
+  "transmissions_received": [
+   {
+    "from": "lin:soto",
+    "what": "Sōtō ordination and dharma transmission (Gyokujun So-on); study of Dōgen under Kishizawa Ian",
+    "evidence": "Crooked Cucumber"
+   }
+  ],
+  "distinctive_positions": [
+   "Zazen as just sitting (shikantaza): the posture itself expresses buddha-nature; practice is not a means to a later enlightenment.",
+   "Beginner's mind (shoshin): 'in the beginner's mind there are many possibilities, in the expert's few'.",
+   "Monastic training adapted for lay Western practitioners (Tassajara, the first Sōtō training monastery outside Asia)."
+  ],
+  "ultimate": "ult:sfzc",
+  "summary": "The Sōtō Zen community founded around Shunryu Suzuki (1904–1971) in San Francisco, with the Tassajara training monastery; known through Zen Mind, Beginner's Mind.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "lin:shangpa-kagyu",
   "name": "Shangpa Kagyu",
   "alt_names": [
@@ -20945,6 +22607,94 @@
   "provenance": {
    "units": [
     "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:siddha-yoga-muktananda",
+  "name": "Siddha Yoga (Nityananda and Muktananda)",
+  "alt_names": [
+   "Siddha Yoga Dham",
+   "SYDA Foundation",
+   "Gurudev Siddha Peeth, Ganeshpuri"
+  ],
+  "family": "vedic",
+  "founders": [
+   "tch:muktananda"
+  ],
+  "key_teachers": [
+   "tch:nityananda-ganeshpuri",
+   "tch:muktananda",
+   "tch:chidvilasananda"
+  ],
+  "texts": [
+   "src:cidakasa-gita",
+   "src:play-of-consciousness",
+   "src:where-are-you-going",
+   "src:guru-gita",
+   "src:pratyabhijnahrdayam",
+   "src:siva-sutra"
+  ],
+  "regions": [
+   "Ganeshpuri (Maharashtra)",
+   "South Fallsburg (New York)",
+   "worldwide"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Muktananda received śaktipāta from Bhagavan Nityananda on 15 August 1947",
+    "from": 1947,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Gurudev Siddha Peeth 1956; SYDA Foundation 1976",
+    "from": 1956,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "transmissions_received": [
+   {
+    "from": "lin:kashmir-saivism",
+    "what": "Pratyabhijñā and Śiva Sūtra teaching adopted as the philosophy of Siddha Yoga",
+    "evidence": "Muktananda's writings"
+   },
+   {
+    "from": "lin:dasanami",
+    "what": "Muktananda's sannyāsa in the Sarasvatī branch from Siddhārūḍha Svāmī",
+    "evidence": "tradition-account"
+   },
+   {
+    "from": "lin:sakta",
+    "what": "kuṇḍalinī doctrine and the Guru Gītā",
+    "evidence": "Play of Consciousness"
+   }
+  ],
+  "distinctive_positions": [
+   "Śaktipāta: the guru awakens the disciple's kuṇḍalinī by grace (look, touch, word or thought); the awakened energy then performs the yoga by itself (claims of the tradition).",
+   "'Honor your Self, worship your Self, meditate on your Self; God dwells within you as you.'",
+   "Chanting (the Guru Gītā, Om Namaḥ Śivāya), meditation on So'ham, and service in the ashram.",
+   "Visions of lights culminating in the Blue Pearl (nīla bindu), in Muktananda's own account."
+  ],
+  "ultimate": "ult:siddha-yoga-muktananda",
+  "summary": "The guru tradition of the avadhūta Bhagavan Nityananda of Ganeshpuri (d. 1961) and his disciple Swami Muktananda (1908–1982), centred on śaktipāta initiation and kuṇḍalinī awakening by grace, with Kashmir Śaiva philosophy; continued by Gurumayi Chidvilasananda.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
    ],
    "phases": [
     "skeleton"
@@ -22090,6 +23840,104 @@
   "provenance": {
    "units": [
     "skeleton:U34-jain-canon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:swaminarayan",
+  "name": "Svāminārāyaṇa Sampradāya",
+  "alt_names": [
+   "Swaminarayan Sampradaya",
+   "Uddhava Sampradāya (earlier name)",
+   "Satsang"
+  ],
+  "family": "vedic",
+  "parent": "lin:vedanta",
+  "founders": [
+   "tch:swaminarayan"
+  ],
+  "sub_lineages": [
+   "lin:baps"
+  ],
+  "key_teachers": [
+   "tch:ramanand-swami",
+   "tch:swaminarayan",
+   "tch:gunatitanand-swami",
+   "tch:gopalanand-swami",
+   "tch:muktanand-swami-swaminarayan",
+   "tch:brahmanand-swami-swaminarayan",
+   "tch:shatanand-muni"
+  ],
+  "texts": [
+   "src:vacanamrta",
+   "src:siksapatri",
+   "src:satsangi-jivana",
+   "src:swamini-vato",
+   "src:bhagavata-purana",
+   "src:sribhasya"
+  ],
+  "regions": [
+   "Gujarat",
+   "Kutch",
+   "East Africa, Britain, North America (diaspora)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "Sahajānanda Svāmī (Svāminārāyaṇa) succeeded Rāmānanda Svāmī as head of the Uddhava Sampradāya in 1801/02",
+    "from": 1801,
+    "to": null
+   },
+   "scholarly": {
+    "text": "founded in Gujarat in the first decades of the 19th c.; Ahmedabad and Vadtal dioceses from 1826",
+    "from": 1801,
+    "to": null
+   },
+   "confidence": "high"
+  },
+  "transmissions_received": [
+   {
+    "from": "lin:visistadvaita",
+    "what": "Rāmānuja's Viśiṣṭādvaita named in the Śikṣāpatrī as the accepted doctrine",
+    "evidence": "Śikṣāpatrī (verse on Rāmānuja's doctrine; number not recalled)"
+   },
+   {
+    "from": "lin:bhagavata-early",
+    "what": "ekāntika dharma and Bhāgavata devotion",
+    "evidence": "Vacanāmṛt"
+   },
+   {
+    "from": "lin:visistadvaita",
+    "what": "the Uddhava Sampradāya of Rāmānanda Svāmī (1739–1802; not the 14th-c. Rāmānanda of lin:ramanandi), who in the tradition's account received initiation from Rāmānuja in a dream at Śrīraṅgam",
+    "evidence": "tradition-account (low confidence recall)"
+   }
+  ],
+  "distinctive_positions": [
+   "Five eternal realities: jīva, īśvara, māyā, brahman (Akṣara) and Parabrahman (Puruṣottama).",
+   "God always has a divine human-like form and is manifest on earth; followers hold Svāminārāyaṇa to be Puruṣottama himself (tradition's account).",
+   "Ekāntika dharma: dharma, knowledge of the self (ātma-jñāna), detachment (vairāgya) and devotion together.",
+   "Strict conduct: non-violence, vegetarianism, abstention from alcohol and theft; renunciants avoid wealth and women; separation of men and women in worship.",
+   "The authority of the two ācārya seats (Ahmedabad, Vadtal) established by Svāminārāyaṇa's Lekh (1826)."
+  ],
+  "ultimate": "ult:swaminarayan",
+  "summary": "The Vaiṣṇava sampradāya founded in Gujarat by Sahajānanda Svāmī, 'Svāminārāyaṇa' (1781–1830), teaching devotion to God as Puruṣottama with a Viśiṣṭādvaita-type ontology, strict conduct and temple-centred community.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "I2",
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
    ],
    "phases": [
     "skeleton"
@@ -23375,6 +25223,80 @@
   "provenance": {
    "units": [
     "skeleton:U36-pali-suttas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:transcendental-meditation",
+  "name": "Transcendental Meditation movement (Maharishi Mahesh Yogi)",
+  "alt_names": [
+   "TM",
+   "Bhāvātīta Dhyāna",
+   "Spiritual Regeneration Movement"
+  ],
+  "family": "vedic",
+  "founders": [
+   "tch:maharishi-mahesh-yogi"
+  ],
+  "key_teachers": [
+   "tch:brahmananda-sarasvati-jyotirmath",
+   "tch:maharishi-mahesh-yogi"
+  ],
+  "texts": [
+   "src:science-of-being-and-art-of-living",
+   "src:maharishi-gita-commentary"
+  ],
+  "regions": [
+   "India",
+   "worldwide (Vlodrop, Netherlands; Fairfield, Iowa)"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "the movement presents its knowledge as that of the 'Holy Tradition' of Vedic masters, received through Guru Dev, Swami Brahmānanda Sarasvatī, Śaṅkarācārya of Jyotirmaṭha",
+    "from": null,
+    "to": null
+   },
+   "scholarly": {
+    "text": "Maharishi began teaching in 1955; Spiritual Regeneration Movement 1958",
+    "from": 1955,
+    "to": null
+   },
+   "confidence": "high"
+  },
+  "transmissions_received": [
+   {
+    "from": "lin:advaita-vedanta",
+    "what": "the claimed descent from Śaṅkara's tradition via Brahmānanda Sarasvatī (the 'Holy Tradition' honoured in the initiation pūjā)",
+    "evidence": "tradition-account; Maharishi served Brahmānanda Sarasvatī as a brahmacārī secretary but did not receive sannyāsa or succession in the maṭha"
+   }
+  ],
+  "distinctive_positions": [
+   "An effortless technique of mental repetition of a mantra given by a trained teacher, practised about twenty minutes twice a day, lets the mind settle to transcendental consciousness (the fourth state).",
+   "Seven states of consciousness: waking, dreaming, sleeping, transcendental, cosmic, God and unity consciousness.",
+   "Being is the ultimate reality; action is to be done established in Being (BhG 2.48 as read by Maharishi).",
+   "The mantras are kept confidential and are not recorded here."
+  ],
+  "ultimate": "ult:transcendental-meditation",
+  "summary": "The meditation movement founded by Maharishi Mahesh Yogi (d. 2008), a disciple of Brahmānanda Sarasvatī of Jyotirmaṭha, teaching a mantra technique to reach transcendental consciousness and a map of seven states of consciousness.",
+  "notes": "The claimed lineage ('Holy Tradition') is recorded as the tradition's account only; see dsp:tm-holy-tradition-claim.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "I2",
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
    ],
    "phases": [
     "skeleton"
@@ -24771,6 +26693,84 @@
   "provenance": {
    "units": [
     "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "lin:vallalar",
+  "name": "Samarasa Suddha Sanmārgam (Vallalar)",
+  "alt_names": [
+   "Samarasa Suddha Sanmarga Sathya Sangam",
+   "Vallalar movement",
+   "Sanmārgam"
+  ],
+  "family": "vedic",
+  "founders": [
+   "tch:ramalinga-swamigal"
+  ],
+  "key_teachers": [
+   "tch:ramalinga-swamigal",
+   "tch:toluvur-velayutha-mudaliar"
+  ],
+  "texts": [
+   "src:tiruvarutpa",
+   "src:jivakarunya-olukkam"
+  ],
+  "regions": [
+   "Vadalur and Mettukuppam (Cuddalore district, Tamil Nadu)",
+   "Chennai"
+  ],
+  "dating": {
+   "tradition": {
+    "text": "the fire of the Sathya Dharma Salai lit in 1867 is held never to have gone out; Vallalar entered his room at Mettukuppam on 30 January 1874 and merged into the Grace-Light",
+    "from": 1865,
+    "to": 1874
+   },
+   "scholarly": {
+    "text": "Sangam founded 1865 (renamed 1872); Sathya Dharma Salai (free feeding) 1867; Sathya Gnana Sabai 1872",
+    "from": 1865,
+    "to": null
+   },
+   "confidence": "moderate"
+  },
+  "transmissions_received": [
+   {
+    "from": "lin:tamil-siddha",
+    "what": "the Siddhar critique of caste and ritual, the 'deathless body', camaracam (harmony)",
+    "evidence": "see brw:tamil-siddha-to-vallalar (U22)"
+   },
+   {
+    "from": "lin:tamil-saiva-siddhanta",
+    "what": "the Śaiva devotional idiom of his earlier Tiruvaruṭpā hymns",
+    "evidence": "Tiruvaruṭpā, first five Tirumuṟais"
+   }
+  ],
+  "distinctive_positions": [
+   "God is the Aruṭperuñjōti, the Vast Grace-Light, to be worshipped as light, not in images.",
+   "Compassion to living beings (jīvakāruṇyam) — above all feeding the hungry — is the key to God's grace; killing and eating animals is rejected.",
+   "Rejection of caste, of sectarian religion and of scriptural and ritual distinctions in his later teaching.",
+   "The goal is the deathless life (maraṇamilāp peruvāḻvu), with the body transformed into a body of light (tradition's account)."
+  ],
+  "ultimate": "ult:vallalar",
+  "summary": "The universal 'true path of equality' founded by Ramalinga Swamigal (Vallalar, 1823–1874) at Vadalur: worship of God as Grace-Light, compassion to all beings, free feeding, and rejection of caste and sectarian religion.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "status": "living",
+  "recent": true,
+  "coverage": [
+   "I2",
+   "H"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U52-recent-teachers"
    ],
    "phases": [
     "skeleton"

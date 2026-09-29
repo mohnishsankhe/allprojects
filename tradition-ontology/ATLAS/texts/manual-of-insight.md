@@ -14,4 +14,4 @@
 Mahāsi Sayadaw's large Burmese treatise on the theory and practice of insight meditation, written in 1944–45.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._

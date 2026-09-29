@@ -25,4 +25,4 @@
 _Notes: Also a Yogācāra/pramāṇa term (reflexive awareness) — see U41._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U44-indian-vajrayana, skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U44-indian-vajrayana, skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._

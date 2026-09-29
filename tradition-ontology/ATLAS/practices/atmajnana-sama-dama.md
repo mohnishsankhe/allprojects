@@ -14,4 +14,4 @@ Knowing the self as distinct from body, senses and cognition, cultivated togethe
 **Sequences:** [The Prābhākara way to release (Śālikanātha)](../paths/prabhakara-moksa.md), [Kumārila's way to release (Bhāṭṭa)](../paths/kumarila-moksa.md)
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 21:52 IST._

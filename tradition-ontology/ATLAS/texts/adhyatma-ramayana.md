@@ -120,4 +120,4 @@ teachers: [Śabarī](../teachers/sabari.md) · disputes: [Can women, and people 
 
 - 2026-09-29 catalog+websearch: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press), catalog:eBharati:adhyAtmarAmAyaNam, https://en.wikipedia.org/wiki/Adhyatma_Ramayana — Structure verified exactly: 7 kāṇḍas of 7+9+10+9+5+16+9 = 65 sargas. The Māhātmya colophon reads 'iti śrībrahmāṇḍapurāṇe uttarakhaṇḍe 'dhyātmarāmāyaṇamāhātmyaṃ sampūrṇam'. Wikipedia dates the text to the 13th-15th c. (some say 14th-15th), and tradition also ascribes it to Rāmānanda. The entry's 14th-15th c. is within this.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._

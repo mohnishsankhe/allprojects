@@ -24,4 +24,4 @@ _Notes: New practice for 10.17–41, combining extractor A's prc:vibhuti-cintana
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.7, tea:bhagavad-gita:10.17, tea:bhagavad-gita:10.19, tea:bhagavad-gita:10.20, tea:bhagavad-gita:10.40, tea:bhagavad-gita:10.41 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 18:15 IST._
+_Contributed by: extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 21:52 IST._

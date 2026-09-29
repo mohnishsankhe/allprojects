@@ -23,7 +23,7 @@ The nutriment for sensual desire is unwise attention to the sign of the beautifu
 
 _level: unmarked · standpoint: causal · path: meditation · stage: all · types: practice, consciousness-mind_
 
-terms: [āhāra](../terms/ahara.md), [yoniso manasikāra](../terms/yoniso-manasikara.md) · concepts: [The five hindrances](../concepts/five-hindrances.md), [The seven factors of awakening](../concepts/seven-bojjhangas.md) · obstacles: [The five hindrances (nīvaraṇa)](../obstacles/five-hindrances.md)
+terms: [āhāra](../terms/ahara.md), [yoniso manasikāra](../terms/yoniso-manasikara.md) · concepts: [The five hindrances (pañca nīvaraṇāni)](../concepts/five-hindrances.md), [The seven awakening factors (satta bojjhaṅgā)](../concepts/seven-bojjhangas.md) · obstacles: [The five hindrances (nīvaraṇa)](../obstacles/five-hindrances.md)
 
 ### 46.53 <a id="tea-bojjhanga-samyutta-46-53"></a>
 `skeleton` · confidence high
@@ -32,7 +32,7 @@ When the mind is sluggish it is the wrong time to develop tranquillity, concentr
 
 _level: unmarked · standpoint: seeker · path: meditation · stage: intermediate · types: practice_
 
-terms: [dhammavicaya](../terms/dhammavicaya.md), [viriya](../terms/viriya.md), [pīti](../terms/piti.md), [passaddhi](../terms/passaddhi.md), [samādhi](../terms/samadhi.md), [upekkhā](../terms/upekkha.md), [sati](../terms/sati.md) · concepts: [The seven factors of awakening](../concepts/seven-bojjhangas.md)
+terms: [dhammavicaya](../terms/dhammavicaya.md), [viriya](../terms/viriya.md), [pīti](../terms/piti.md), [passaddhi](../terms/passaddhi.md), [samādhi](../terms/samadhi.md), [upekkhā](../terms/upekkha.md), [sati](../terms/sati.md) · concepts: [The seven awakening factors (satta bojjhaṅgā)](../concepts/seven-bojjhangas.md)
 
 ### 46.54 <a id="tea-bojjhanga-samyutta-46-54"></a>
 `skeleton` · confidence high
@@ -58,4 +58,4 @@ concepts: [The four immeasurables / attitudes across Buddhist, Yoga and Jain tea
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._

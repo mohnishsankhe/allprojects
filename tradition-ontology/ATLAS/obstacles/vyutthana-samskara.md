@@ -14,4 +14,4 @@ Impressions of the outgoing mind that compete with those of stilling (3.9) and o
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 1.50; rests_on: ["tea:yoga-bhasya:1.50"]
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 21:52 IST._

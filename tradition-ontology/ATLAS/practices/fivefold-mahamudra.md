@@ -12,4 +12,4 @@ One session includes all five: arousing bodhicitta, arising as the yidam, guru d
 **Sequences:** [The fivefold Mahāmudrā](../paths/fivefold-mahamudra.md)
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._

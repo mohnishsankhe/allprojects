@@ -18,4 +18,4 @@ The earliest commentary on Madhva's Brahmasūtrabhāṣya, by Trivikrama Paṇ�
 _Notes: A later commentary in the raw_etexts corpus calls Trivikrama 'tattvapradīpikā-kartā'._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 21:52 IST._

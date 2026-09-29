@@ -11,4 +11,4 @@ Love without knowledge of the Lord's greatness, and without happiness in his hap
   - [Nārada Bhakti Sūtra](../texts/narada-bhakti-sutra.md) — ref: 22-24; rests_on: ["tea:narada-bhakti-sutra:20-24"]
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 21:52 IST._

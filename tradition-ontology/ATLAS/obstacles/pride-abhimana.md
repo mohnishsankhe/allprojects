@@ -12,4 +12,4 @@ Claiming attainments not reached (the five thousand who left the Lotus assembly)
   - [Aṣṭasāhasrikā Prajñāpāramitā](../texts/astasahasrika-prajnaparamita.md) — ref: ch. 24; rests_on: ["tea:astasahasrika-prajnaparamita:24"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._

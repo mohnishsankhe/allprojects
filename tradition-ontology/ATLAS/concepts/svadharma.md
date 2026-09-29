@@ -22,4 +22,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/5_artha/kautilya_arthasastra.md (GRETIL, Kangle numbering — The definition's cited passages were all checked in this sweep and support it: tea:manusmrti:10.97 (confirmed); tea:manusmrti:11.234-235 (confirmed); tea:arthasastra:1.3.13-14 (confirmed); tea:apastamba-dharmasutra:2.1.2.2-3 (confirmed).
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
