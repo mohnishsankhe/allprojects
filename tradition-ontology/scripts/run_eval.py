@@ -73,7 +73,7 @@ def check_case(rep: dict, md: str, case: dict) -> dict:
         "claims": gates.forbidden_claims(rep, md),
         "practice_safety": gates.practice_safety(rep),
         "two_lenses": gates.two_lenses(rep),
-        "schema": gates.schema(rep) if not rep.get("stopped") else [],
+        "schema": gates.schema(rep),                 # stops and declines keep the report's shape too
         "citations_resolve": gates.citations_resolve(rep),
         "must_show": gates.must_show(md, exp.get("must_show")),
         "must_not": gates.must_not(md, exp.get("must_not")),

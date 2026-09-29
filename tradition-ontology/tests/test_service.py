@@ -287,3 +287,15 @@ def test_non_finite_ages_are_asked_again(svc, age):
     with pytest.raises(ServiceError) as e:
         svc.start(age, True)
     assert e.value.code == "age_required"
+
+
+def test_declines_and_refusals_keep_the_report_shape(svc, monkeypatch):
+    from insight.schemas import validate_report
+    pid = _started(svc)
+    validate_report(svc.reading(pid, {"answers": {"q14": "I'm 16 and my exams are next month."}})["report"])
+    pid = _started(svc)
+    validate_report(svc.reading(pid, {"age": 16, "answers": {"q01": BENIGN}})["report"])
+    monkeypatch.setenv("ONTO_ENGINE", "auto")
+    monkeypatch.delenv("ONTO_ALLOW_RULES_ONLY", raising=False)
+    pid = _started(svc)
+    validate_report(svc.reading(pid, {"answers": {"q14": "I want to kill myself tonight."}})["report"])

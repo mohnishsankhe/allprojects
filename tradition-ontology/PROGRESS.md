@@ -6,7 +6,7 @@ Budget: 12 working hours. Phase budgets: P0 0:00–0:30 · P1 0:30–3:30 · P2 
 | block | start | end | phases | elapsed at end |
 |---|---|---|---|---|
 | 1 | 2026-09-29 18:27 IST | 2026-09-29 18:40 IST (session usage limit: all 9 running agents failed with HTTP 429) | P0 done; P1 started | 0:13 |
-| 2 | 2026-09-29 21:30 IST | | P1– | |
+| 2 | 2026-09-29 21:30 IST | 2026-09-30 03:27 IST (release report written; stop) | P1–P7 | about 6:20 (0:13 + 6:07); inside the 12-hour budget |
 
 ## Phase status
 | phase | status | notes |
@@ -17,8 +17,8 @@ Budget: 12 working hours. Phase budgets: P0 0:00–0:30 · P1 0:30–3:30 · P2 
 | P3 Build | done | llm, store, safety, claims, specificity, ontology, report, engine, pathway, synthesizer, schemas, service, cli, content, gates, run_eval, mapper, api + web; 378 tests |
 | P4 Content engine | done (rules drafts; 23:20 IST) | 50 posts (10 per bucket, 5 formats) in the review queue, all passing rules checks; 30-day calendar per bucket (content/calendars/); export content/queue.jsonl. Model-engine drafts and the Opus content check: not run (no API key). |
 | P5 Evaluation | done | hidden sets 30/12/10 run offline (rules engine); judges: practice safety PASS, content PASS 50/50, person map 8 of 9 offline gates PASS (swap test FAIL, n=2). Model-engine gates: NOT RUN (no API key). |
-| P6 Fix loop | done | 4 person-map, 4 content and 1 practice re-judges; red team first run, re-run and final check; fixes logged in DECISIONS.md |
-| P7 Release | running (02:35 IST) | RELEASE_REPORT.md: NOT READY (model gates and measured cost NOT RUN; swap test FAIL) |
+| P6 Fix loop | done (03:30 IST) | 5 person-map, 4 content and 1 practice re-judges; red team first run, re-run, Re-run 2 and a replay (PASS); fixes logged in DECISIONS.md; 429 tests |
+| P7 Release | done (03:27 IST) | RELEASE_REPORT.md: **NOT READY**: 8 gates NOT RUN (model engine, no API key; measured cost), 1 FAIL (swap test, n = 2), 2 PASS (engineering; the 50 queued posts). README, RUNBOOK, PRIVACY, SAFETY, COSTS, NEXT_STEPS updated |
 
 ---
 

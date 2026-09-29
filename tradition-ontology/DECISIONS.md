@@ -746,7 +746,7 @@ Conservative choices made without asking, with reasons. Newest last.
 
     Both are covered by unit tests (`test_refused_reading_still_shows_help`, `test_minor_check_reads_only_the_persons_own_lines_but_crisis_reads_all`).
 
-## 2026-09-30 03:40 IST — Judge re-run 5 (spot-check after the last fixes): one regression fixed; latent wording faults fixed; no further rounds
+## 2026-09-30 03:24 IST — Judge re-run 5 (spot-check after the last fixes): one regression fixed; latent wording faults fixed; no further rounds
 - **Result** (eval/judge/PERSON_MAP_GATES.md, "Re-run 5"):
   - 11 of 15 rows PASS;
   - the swap test still FAILS (carried; n = 2);

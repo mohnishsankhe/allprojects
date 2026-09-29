@@ -42,6 +42,13 @@ def _age_ok(age) -> Optional[int]:
     return a if 0 < a < 130 else None
 
 
+def _stop_report(msg: dict, route: str, engine: str) -> dict:
+    """A stop or decline that keeps nothing still has the report's shape (schema-valid): no words, no mappings."""
+    import time
+    return {"engine": engine, "created": time.time(), "stopped": msg,
+            "safety": {"route": route, "categories": [], "model_checked": False, "injection": False}}
+
+
 class Service:
     def __init__(self, store: Optional[Store] = None, client: Optional[ModelClient] = None):
         self.store = store or Store()
@@ -111,8 +118,8 @@ class Service:
             raise ServiceError("age_required", "Please give your age as a number.")
         if a is not None and a < consent_info()["min_age"]:
             self.store.delete_person(pid)             # red team F15: a minor is removed, whatever the route of discovery
-            return {"reading_id": None, "report": {"stopped": safety.messages()["decline_minor"]},
-                    "markdown": report_mod.to_markdown({"stopped": safety.messages()["decline_minor"]})}
+            rep = _stop_report(safety.messages()["decline_minor"], "decline_minor", engine or "none")
+            return {"reading_id": None, "report": rep, "markdown": report_mod.to_markdown(rep)}
         try:
             e, client = self._engine(engine)
         except ServiceError as err:
@@ -125,15 +132,16 @@ class Service:
             if (inputs.get("dialogue") or "").strip() and not any(s_["source"] == "dialogue" for s_ in build_segments(inputs)):
                 own.append(inputs["dialogue"])
             out = self._refused(pid, texts, own, err)
-            rep = {"stopped": out["stopped"], "safety": {"route": out["route"], "categories": [], "model_checked": False}}
+            rep = _stop_report(out["stopped"], out["route"], "none")
             return {"reading_id": None, "report": rep, "markdown": report_mod.to_markdown(rep)}
         rep = run_reading(inputs, engine=e, client=client, premium=premium)
         if (rep.get("safety") or {}).get("route") == "decline_minor":
             # a minor found in the text: nothing is kept, and the person record itself is removed
             self.store.delete_person(pid)
             log.info("minor detected in text: person removed id=%s", pid[:8])
-            return {"reading_id": None, "report": {"stopped": rep.get("stopped"), "safety": rep.get("safety")},
-                    "markdown": report_mod.to_markdown(rep)}
+            kept = _stop_report(rep.get("stopped"), "decline_minor", rep.get("engine") or e)
+            kept["safety"] = rep.get("safety") or kept["safety"]
+            return {"reading_id": None, "report": kept, "markdown": report_mod.to_markdown(kept)}
         status = "stopped" if rep.get("stopped") else ("insufficient" if rep.get("insufficient") else "ok")
         route = (rep.get("safety") or {}).get("route", "")
         # minimisation: after a stop, keep only the route, not the words that triggered it
