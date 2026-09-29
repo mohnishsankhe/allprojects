@@ -377,3 +377,8 @@ Conservative choices made without asking, with reasons. Newest last.
 - **Purge.** It no longer deletes a person who still has check-ins.
 - **Recall of the offline rules engine is low**, because most markers have only 1–3 cues. An analyst is adding 4–8 plain first-person cues per marker, never widening a marker's sense, and checking them against a bland baseline of 24 texts. A cue that fires on more than 10% of the baseline is removed. The model engine, when a key exists, adds the blind recheck for paraphrase.
 - **Effort seen by the builders.** One builder saw effort "10" in its context, while its frontmatter says high. Logged in RUNLOG as observed; the frontmatter is unchanged.
+
+## 2026-09-29 23:07 IST — Vijñāna Bhairava judge: sample 88.2%, so all 167 entries were checked
+- The random sample was 15 of 17 faithful. All 167 entries were checked individually: 22 teachings and 12 practices fixed. Examples: v.11, where Bhairava is the subject; indrajāla, a magic show; and wrong addressees at v.47 and v.58. Merged: text-verified teachings now number 2,303.
+- **v.26 is restricted as a precaution.** Its optatives with the breath-power as subject can be read as an instruction to stop the breath. It was the conservative choice, and the teaching and prc:vbt-dharana-3 both carry the flag; checked after the merge. v.24 and v.25 stay unrestricted: they describe the breath's pause and give no instruction to hold it.
+- **Never user-facing as claims:** the text's own statements of powers, of "no age and no death" (140–141) and of results "in days" (51, 107). The claims scan and the gentle-tier rule already block them. The practice layer takes only plain attention dhāraṇās, gentle by the tier rules.

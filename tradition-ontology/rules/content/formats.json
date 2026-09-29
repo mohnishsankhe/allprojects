@@ -1,0 +1,180 @@
+{
+  "version": "1.0",
+  "_note": "Format limits and required parts for the content engine (ENGINE_SPEC.md §14). insight/content.py reads the 'formats' object: parts, max_chars_per_part, max_words_per_part, caption_max_words, total_words and ai_label_reminder. Other fields guide the drafting model, the checker and the human reviewer. Every draft is for the review queue only; the app never posts.",
+  "common": {
+    "required_parts": {
+      "scene": "One everyday scene taken from the bucket's scene list (buckets.json), in plain present-tense words. No personal data, no real names, places or brands.",
+      "teaching": "ONE teaching from the bucket's teaching_pool, stated through its 'point' (and 'angle' where it fits), in our own plain words based on the ontology's paraphrase.",
+      "citation": "The citation line 'Source Ref' exactly as insight.content.source_line(tid) builds it (title from data/sources.json plus the teaching's ref), for example 'Bhagavad Gītā 2.47' or 'Visuddhimagga 9.p296'. It appears in every format, in brackets after the teaching or on its own line, slide or on-screen card.",
+      "link": "One or two plain sentences on why this teaching speaks to this scene. The link must be the teaching's own point, not a stretch; if the link needs more than two sentences to justify, the pair is wrong.",
+      "closing": "An invitation to reflect (a question, or a line to sit with). Never an action-claim or result: no 'try this and you will…', no 'this helps with…'."
+    },
+    "one_teaching_rule": "One teaching per post. A long video may add at most two supporting teachings from the same bucket pool, each with its own citation line, and every one of them counts as used for the 30-day rule.",
+    "quote_rule": "Quote the original only briefly (at most one verse line or 12 words), transliterated, and always with its citation line. Everything else is paraphrase in our own words.",
+    "tone": "rules/tone.md applies in full: plain, warm, exact; a text term appears once, in brackets after its plain meaning; say 'the Gītā says', never 'you are'.",
+    "differences": "Where the post touches the self, name the tradition's own view; the Buddhist texts deny a lasting self and the Upaniṣads, Gītā, Yoga Sūtra and Jain texts affirm one. Never merge them.",
+    "banned_everywhere": [
+      "any hit in rules/forbidden_claims.json (health, cure, diagnosis, prediction, astrology)",
+      "modern research, psychology, neuroscience or science, even as support",
+      "promises or predictions ('you will…', 'soon…')",
+      "skeleton, unverified or restricted ontology entries",
+      "recommending restricted practices (body-cutting, metals or mercury, extreme breath retention, sexual rites, prolonged fasting)",
+      "personal data of any kind, links, phone numbers, handles or @-mentions",
+      "emojis used as content, exclamation marks, more than two hashtags on X, any hashtags elsewhere unless the reviewer adds them",
+      "the bucket's own 'never' list in buckets.json"
+    ],
+    "hashtags": {
+      "x_post": 2,
+      "x_thread": 2,
+      "ig_carousel": 0,
+      "short_video": 0,
+      "long_video": 0,
+      "_note": "Maximum plain hashtags; none are required. No hashtag stuffing."
+    },
+    "review": "Every draft carries its ai_label reminder into the review queue. A human approves, edits or rejects. Edited text is scanned for forbidden claims when saved (insight/service.py); the reviewer also keeps it within the format limits and the citation line."
+  },
+  "formats": {
+    "x_post": {
+      "platform": "X",
+      "parts": [
+        1,
+        1
+      ],
+      "max_chars_per_part": 280,
+      "char_count_includes": "everything in the post: scene, teaching, citation line, spaces and any hashtag",
+      "required_parts": [
+        "scene",
+        "teaching",
+        "citation",
+        "link",
+        "closing"
+      ],
+      "structure": "scene sentence, then the teaching's point with the citation line in brackets, then the link if it fits; the closing may be the link itself phrased as a question when space is short",
+      "fields": {
+        "parts": "list with one string (the post)",
+        "source": "citation line",
+        "tid": "teaching id",
+        "scene_idx": "index into the bucket's scenes"
+      },
+      "ai_label_reminder": "X: follow X's current rules on synthetic or AI-generated media. This is a text draft written with AI assistance and edited by a human; if any image or video is added, label AI-assisted media where the platform requires it."
+    },
+    "x_thread": {
+      "platform": "X",
+      "parts": [
+        4,
+        7
+      ],
+      "max_chars_per_part": 280,
+      "char_count_includes": "each post in the thread counted separately, including its citation line and spaces",
+      "required_parts": [
+        "scene",
+        "teaching",
+        "citation",
+        "link",
+        "closing"
+      ],
+      "structure": "1: scene. 2: the teaching with its citation line. 3 (optional): what the passage says, read closely, from the ontology's paraphrase. 4: the link. 5 (optional): where the text stops (it describes, it does not promise) or how another tradition differs, citing only if a second teaching is really needed (it then needs its own review). Last: the closing.",
+      "citation_placement": "the citation line appears in the post that states the teaching",
+      "fields": {
+        "parts": "list of 4 to 7 strings, one per post",
+        "source": "citation line",
+        "tid": "teaching id",
+        "scene_idx": "scene index"
+      },
+      "ai_label_reminder": "X: follow X's current rules on synthetic or AI-generated media. Text thread written with AI assistance and edited by a human; label AI-assisted media where the platform requires it if images or video are attached."
+    },
+    "ig_carousel": {
+      "platform": "Instagram",
+      "parts": [
+        6,
+        9
+      ],
+      "max_words_per_part": 30,
+      "caption_max_words": 120,
+      "required_parts": [
+        "scene",
+        "teaching",
+        "citation",
+        "link",
+        "closing"
+      ],
+      "structure": "slide 1: scene. slide 2: a turn toward the text ('An old text has a word for this.'). slide 3: the teaching's point. slide 4: 'Source: <citation line>'. slide 5 (optional, up to slide 8): the link, one idea per slide. last slide: the closing. Caption: scene, teaching, link and 'Source: <citation line>' in plain prose.",
+      "slide_rules": "one idea per slide; no slide over 30 words; the citation line appears on a slide AND in the caption; plain text on a quiet background, no stock photos of people, no images of deities or teachers generated by AI",
+      "fields": {
+        "parts": "list of 6 to 9 slide texts",
+        "caption": "caption text, at most 120 words",
+        "source": "citation line",
+        "tid": "teaching id",
+        "scene_idx": "scene index"
+      },
+      "ai_label_reminder": "Instagram: if slide images are made or altered with AI, use the platform's AI label where its policy requires it; follow Meta's current AI-content rules at posting time."
+    },
+    "short_video": {
+      "platform": "Instagram Reels or YouTube Shorts",
+      "parts": [
+        4,
+        10
+      ],
+      "total_words": [
+        110,
+        160
+      ],
+      "duration_seconds": [
+        45,
+        60
+      ],
+      "word_count_excludes": "on-screen text cues written as [on screen: …]",
+      "on_screen_cue_syntax": "[on screen: text]",
+      "required_parts": [
+        "scene",
+        "teaching",
+        "citation",
+        "link",
+        "closing"
+      ],
+      "structure": "hook: the scene, with an on-screen cue repeating it in a few words. the teaching, with an on-screen cue showing the citation line for at least three seconds. what the passage says, read closely. the link. where the text stops (it describes; it does not promise). closing, with an on-screen cue.",
+      "fields": {
+        "parts": "list of 4 to 10 script beats, each spoken text with optional [on screen: …] cues",
+        "source": "citation line",
+        "tid": "teaching id",
+        "scene_idx": "scene index"
+      },
+      "voice_and_image": "a real human voice or clearly labelled synthetic voice; no synthetic faces presented as real people; no AI images of deities, teachers or sacred sites presented as real",
+      "ai_label_reminder": "Reels and Shorts: disclose AI-generated or AI-altered realistic video, image or voice using the platform's label or disclosure setting where its policy requires it; check the current policy at posting time."
+    },
+    "long_video": {
+      "platform": "YouTube",
+      "parts": [
+        5,
+        7
+      ],
+      "duration_minutes": [
+        8,
+        12
+      ],
+      "required_parts": [
+        "scene",
+        "teaching",
+        "citation",
+        "link",
+        "closing"
+      ],
+      "section_fields": {
+        "title": "short section title",
+        "minutes": "planned length",
+        "points": "2 to 4 plain bullet points",
+        "teachings": "the tid(s) the section rests on, each shown with its citation line"
+      },
+      "structure": "1: the scene (a fuller everyday story, invented and generic). 2: the anchor teaching, with its citation line and a brief quote of the original if useful. 3: what the text says, read closely from the ontology's paraphrase, in its own setting (who speaks, to whom, why). 4: the link to the scene. 5: where the text stops: it describes and does not promise results; and, where relevant, how the other lens (Vedic/yogic or Buddhist/Jain) sees it differently, with at most two supporting teachings from the same pool, each cited. 6 (optional): a second scene from the same bucket's list, showing the same point from another side. last: closing reflection. No practice instructions in posts: the video describes what the text says and stops there.",
+      "part_format": "each part is one string: 'N. Title: points … (citation lines)'",
+      "fields": {
+        "parts": "list of 5 to 7 section strings",
+        "source": "anchor citation line",
+        "tid": "anchor teaching id",
+        "scene_idx": "scene index",
+        "supporting_tids": "optional list of at most 2 tids from the same bucket pool; they count toward the 30-day rule"
+      },
+      "ai_label_reminder": "YouTube: use the altered or synthetic content disclosure where YouTube requires it (realistic AI-made or AI-altered people, places, events or voices); follow the current policy at upload time."
+    }
+  }
+}

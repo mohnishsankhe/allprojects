@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29 22:47 IST",
+ "generated": "2026-09-29 23:06 IST",
  "entities": {
   "sources": {
    "sourced": 576,
@@ -21,23 +21,23 @@
   },
   "teachings": {
    "sourced": 2383,
-   "text-verified": 2136,
-   "skeleton": 7890,
+   "text-verified": 2303,
+   "skeleton": 7777,
    "unverified": 1,
    "recent": 100,
-   "total": 12409
+   "total": 12463
   },
   "terms": {
    "skeleton": 4607,
-   "sourced": 797,
+   "sourced": 817,
    "recent": 20,
-   "total": 5404
+   "total": 5424
   },
   "concepts": {
    "skeleton": 2559,
-   "sourced": 418,
+   "sourced": 427,
    "recent": 22,
-   "total": 2977
+   "total": 2986
   },
   "ultimate": {
    "skeleton": 227,
@@ -47,13 +47,13 @@
   },
   "obstacles": {
    "skeleton": 504,
-   "sourced": 127,
+   "sourced": 130,
    "recent": 2,
-   "total": 631
+   "total": 634
   },
   "practices": {
-   "skeleton": 1242,
-   "sourced": 311,
+   "skeleton": 1130,
+   "sourced": 423,
    "recent": 30,
    "total": 1553
   },
@@ -65,9 +65,9 @@
   },
   "phenomenology": {
    "skeleton": 633,
-   "sourced": 158,
+   "sourced": 163,
    "recent": 19,
-   "total": 791
+   "total": 796
   },
   "disputes": {
    "sourced": 62,
@@ -89,7 +89,7 @@
   "not-found": 1
  },
  "queue": 425,
- "interpretation_log": 2410,
- "conflicts": 3502,
+ "interpretation_log": 2429,
+ "conflicts": 3732,
  "dangling_refs": 429
 }
