@@ -1,0 +1,44 @@
+[
+ {
+  "id": "dx:kasaya-lobha",
+  "marker": "Greed, one of the four passions; TS 7.5 names giving up greed among the supports of the vow of truthfulness.",
+  "cue": "I keep wanting more",
+  "original": true,
+  "reason": "generic: fires on 3/24 bland people (bland-02, bland-17, bland-19)"
+ },
+ {
+  "id": "dx:katha-preyas",
+  "marker": "Choosing what is pleasant now over what is good, for the sake of getting and keeping (KU 1.2.2).",
+  "cue": "I always go for what feels good now",
+  "original": true,
+  "reason": "generic: fires on 7/24 bland people (bland-02, bland-07, bland-11, bland-13, bland-15, bland-20, bland-21)"
+ },
+ {
+  "id": "dx:klesa-abhinivesa",
+  "marker": "The wish 'may I not cease to be, may I go on being', and a dread of dying that comes without being taught.",
+  "cue": "I just want to go on being",
+  "original": true,
+  "reason": "generic: fires on 3/24 bland people (bland-02, bland-17, bland-19)"
+ },
+ {
+  "id": "dx:tanha",
+  "marker": "Delighting now here, now there; arising wherever there is what is dear (DN 22).",
+  "cue": "the more I get the more I want",
+  "original": true,
+  "reason": "generic: fires on 3/24 bland people (bland-02, bland-17, bland-19)"
+ },
+ {
+  "id": "dx:gita-asuri-sampad",
+  "marker": "Hypocrisy, arrogance, conceit, anger, harshness, ignorance (BhG 16.4).",
+  "cue": "I look down on them",
+  "original": true,
+  "reason": "generic: fires on 3/24 bland people (bland-06, bland-15, bland-16)"
+ },
+ {
+  "id": "dx:carita-dosa",
+  "marker": "(added cue)",
+  "cue": "I like to dominate and get my way",
+  "original": false,
+  "reason": "after the orchestrator added 'like' to the stopwords it has fewer than 2 content stems and no longer gives a direct item on its own marker (lint + self-test)"
+ }
+]

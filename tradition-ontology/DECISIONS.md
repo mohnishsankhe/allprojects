@@ -453,3 +453,16 @@ Conservative choices made without asking, with reasons. Newest last.
   - The shared minimum is corrected: the Jain texts count the changing states as the soul's own nature (TS 2.1, 2.7).
 - **In the product.** When a reading maps asmitā (YS 2.6) or Theravāda conceit (māna), it adds one "difference" point. It gives onto-deep's two sentences together, with 22 citable cites: first what the four share, then what each says is left. Nothing states or implies that jīva, puruṣa, ātman and not-self are the same. For Jain māna (pride, a passion) the obstacle row's own text leads. Wired in rules/synthesis_rules.json → self_question.
 - **One-truth table.** The provisional row now names P2-standpoint as held by the Jains, with the qualification. It stays user_facing false. RQ-U50-01 stays queued.
+
+## 2026-09-29 23:42 IST — Cue expansion for the offline rules engine
+- **Added:** 490 plain first-person cues on 102 mappable markers, listed per marker in "cues_added" and applied by layers/_gen/diagnosis/add_cues.py. The diagnosis build now re-runs it automatically, so a rebuild keeps them.
+- **Bland baseline:** 24 synthetic calibration texts (tests/fixtures/bland_baseline.jsonl; not evaluation data), with **0 mappings**.
+- **Removed as generic:** 5 original cues that fired on 3 or more bland texts ("I keep wanting more", "I look down on them" …), and 1 added cue that became too weak. All are in cues_removed.json.
+- **Developer recall:** 8/10 developer texts map their target, up from 0/10 without the new cues. These texts were tuned against, so the figure is optimistic. The real measure is the P5 persona set.
+- **Accepted from the analyst, all conservative:**
+  - the goal states guṇātīta, sthitaprajña, amanībhāva, the Kaṭha's yoga state and the cittabhūmi grounds join entry_denylist.attainment;
+  - more stopwords (what, who, which, one, every, another, else, between, whatever, doing, like), which cut accidental partial matches;
+  - spelling variants for practise/practice and pray/prayer;
+  - "ill will", "good will" and "free will" are nouns, not the hypothetical modal.
+- **Tried and reverted:** a small near-synonym table (e.g. attention → mind). Developer recall fell and a self-test broke.
+- **Known limit.** The rules engine matches words, not meaning: "my attention wanders" shares only one stem with "my mind wanders off", which is corroboration only. Paraphrase is the model engine's job, through its blind recheck. The offline engine will therefore say "not enough to connect" more often. That is honest, and the release report will state the rate.

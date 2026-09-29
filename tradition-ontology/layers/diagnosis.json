@@ -165,18 +165,20 @@
      "my thoughts are simply me",
      "when my mind is troubled, I am troubled",
      "I am whatever my mind concludes",
-     "I take my thoughts to be the real me",
+     "I identify with my thoughts",
+     "I can't separate myself from my thoughts",
      "when my opinions are criticised I feel attacked myself",
-     "I can't tell my thoughts apart from myself",
-     "my changing moods feel like my true self",
-     "I identify completely with whatever I happen to think"
+     "my moods feel like my true self",
+     "an attack on my ideas feels like an attack on me",
+     "I identify completely with whatever my mind concludes"
     ],
     "cues_added": [
-     "I take my thoughts to be the real me",
+     "I identify with my thoughts",
+     "I can't separate myself from my thoughts",
      "when my opinions are criticised I feel attacked myself",
-     "I can't tell my thoughts apart from myself",
-     "my changing moods feel like my true self",
-     "I identify completely with whatever I happen to think"
+     "my moods feel like my true self",
+     "an attack on my ideas feels like an attack on me",
+     "I identify completely with whatever my mind concludes"
     ],
     "cites": [
      "tea:yoga-sutra:2.6",
@@ -315,17 +317,19 @@
      "I keep wanting to go back to that",
      "I remember how good it felt and I want it again",
      "I need whatever gets me that feeling",
-     "when a trip ends I keep replaying it and wanting it again",
-     "I keep going back to the memory of that pleasure",
-     "I chase the feeling I had on that holiday",
-     "remembering how good it was makes me crave it again",
+     "I keep replaying it and wanting it again",
+     "remembering it makes me crave it",
+     "the memory of that pleasure pulls me back to it",
+     "I chase the feeling I had on that trip",
+     "I keep reliving the holiday",
      "I miss that pleasure so much I plan to repeat it"
     ],
     "cues_added": [
-     "when a trip ends I keep replaying it and wanting it again",
-     "I keep going back to the memory of that pleasure",
-     "I chase the feeling I had on that holiday",
-     "remembering how good it was makes me crave it again",
+     "I keep replaying it and wanting it again",
+     "remembering it makes me crave it",
+     "the memory of that pleasure pulls me back to it",
+     "I chase the feeling I had on that trip",
+     "I keep reliving the holiday",
      "I miss that pleasure so much I plan to repeat it"
     ],
     "cites": [
@@ -337,16 +341,18 @@
     "marker": "Vyāsa: attachment seen toward one object does not mean it is absent toward others; it is at work here and waiting elsewhere.",
     "cues": [
      "as soon as one want is met, another takes its place",
-     "when one craving fades another one takes its place",
-     "my wanting just moves from one object to the next",
-     "I drop one attachment and find another waiting",
-     "each craving I satisfy is soon replaced by a new one"
+     "a new craving replaces the last in me",
+     "my cravings just change objects",
+     "my attachment just shifts to a new object",
+     "I drop an attachment and find another waiting",
+     "each craving I satisfy is soon replaced by another"
     ],
     "cues_added": [
-     "when one craving fades another one takes its place",
-     "my wanting just moves from one object to the next",
-     "I drop one attachment and find another waiting",
-     "each craving I satisfy is soon replaced by a new one"
+     "a new craving replaces the last in me",
+     "my cravings just change objects",
+     "my attachment just shifts to a new object",
+     "I drop an attachment and find another waiting",
+     "each craving I satisfy is soon replaced by another"
     ],
     "cites": [
      "tea:yoga-bhasya:2.4"
@@ -515,18 +521,20 @@
      "I can't stand anything that reminds me of it",
      "I want to hit back at whatever hurt me",
      "I resent them because of what happened",
-     "I avoid anyone who reminds me of what happened",
-     "I recoil from everything connected with that old hurt",
-     "the memory of how they hurt me makes me push them away",
-     "I dislike the whole place because of what happened there",
-     "I resent whatever brings back that humiliation"
+     "I recoil from anything that reminds me of it",
+     "I avoid anything that reminds me of it",
+     "I push people away when I remember how they hurt me",
+     "I still resent them for how they hurt me",
+     "the old hurt makes me hostile to anything like it",
+     "I resent anything that brings back that humiliation"
     ],
     "cues_added": [
-     "I avoid anyone who reminds me of what happened",
-     "I recoil from everything connected with that old hurt",
-     "the memory of how they hurt me makes me push them away",
-     "I dislike the whole place because of what happened there",
-     "I resent whatever brings back that humiliation"
+     "I recoil from anything that reminds me of it",
+     "I avoid anything that reminds me of it",
+     "I push people away when I remember how they hurt me",
+     "I still resent them for how they hurt me",
+     "the old hurt makes me hostile to anything like it",
+     "I resent anything that brings back that humiliation"
     ],
     "cites": [
      "tea:yoga-sutra:2.8",
@@ -675,19 +683,20 @@
     "cues": [
      "I dread not existing",
      "the thought of death grips me even though I understand it",
-     "I just want to go on being",
      "I dread the idea of ceasing to exist",
-     "my own death frightens me even though I understand it",
+     "my own death frightens me",
      "a dread of dying grips me on ordinary days",
      "I cling to going on existing whatever happens",
-     "I fear my own death more than anything"
+     "I fear my own death more than anything",
+     "the thought of not existing terrifies me"
     ],
     "cues_added": [
      "I dread the idea of ceasing to exist",
-     "my own death frightens me even though I understand it",
+     "my own death frightens me",
      "a dread of dying grips me on ordinary days",
      "I cling to going on existing whatever happens",
-     "I fear my own death more than anything"
+     "I fear my own death more than anything",
+     "the thought of not existing terrifies me"
     ],
     "cites": [
      "tea:yoga-sutra:2.9",
@@ -1237,17 +1246,17 @@
     "cues": [
      "my mind just won't engage",
      "I sit down to practise and nothing in me will move",
-     "at prayer time my mind refuses any effort",
+     "my mind is unfit for effort at prayer",
      "my mind feels unfit for the effort of meditation",
      "my mind refuses to engage with my studies",
-     "my mind stays rigid and unworkable at practice time",
+     "my mind is rigid and unworkable at practice time",
      "I face my practice and my mind does not budge"
     ],
     "cues_added": [
-     "at prayer time my mind refuses any effort",
+     "my mind is unfit for effort at prayer",
      "my mind feels unfit for the effort of meditation",
      "my mind refuses to engage with my studies",
-     "my mind stays rigid and unworkable at practice time",
+     "my mind is rigid and unworkable at practice time",
      "I face my practice and my mind does not budge"
     ],
     "cites": [
@@ -1330,18 +1339,22 @@
     "cues": [
      "maybe this path works, maybe it doesn't",
      "I can't decide whether any of this is true",
+     "I doubt this spiritual path",
+     "I doubt the teachings",
      "I waver between believing the teaching and doubting it",
-     "I can't settle whether this spiritual path is true",
+     "I doubt whether this spiritual path is true",
      "I doubt whether my practice leads anywhere",
      "I stall in my practice because I'm unsure it's true",
-     "my mind swings between yes and no about the teachings"
+     "my mind swings to and fro about the teachings"
     ],
     "cues_added": [
+     "I doubt this spiritual path",
+     "I doubt the teachings",
      "I waver between believing the teaching and doubting it",
-     "I can't settle whether this spiritual path is true",
+     "I doubt whether this spiritual path is true",
      "I doubt whether my practice leads anywhere",
      "I stall in my practice because I'm unsure it's true",
-     "my mind swings between yes and no about the teachings"
+     "my mind swings to and fro about the teachings"
     ],
     "cites": [
      "tea:yoga-bhasya:1.30"
@@ -1423,17 +1436,23 @@
      "I know what I should practise but I don't do it",
      "I keep letting my practice slide",
      "I keep neglecting my prayers",
-     "I let my meditation lapse for weeks at a time",
-     "I leave my chanting undone day after day",
+     "I keep neglecting my meditation",
+     "I keep skipping my practice",
+     "I keep postponing my practice",
+     "my practice keeps lapsing",
+     "my chanting goes undone",
      "I skip the practice I know supports my progress",
-     "I keep letting my scripture study slide"
+     "I've been meaning to start a practice"
     ],
     "cues_added": [
      "I keep neglecting my prayers",
-     "I let my meditation lapse for weeks at a time",
-     "I leave my chanting undone day after day",
+     "I keep neglecting my meditation",
+     "I keep skipping my practice",
+     "I keep postponing my practice",
+     "my practice keeps lapsing",
+     "my chanting goes undone",
      "I skip the practice I know supports my progress",
-     "I keep letting my scripture study slide"
+     "I've been meaning to start a practice"
     ],
     "cites": [
      "tea:yoga-bhasya:1.30"
@@ -1526,17 +1545,19 @@
      "I feel too heavy to begin",
      "body and mind feel like lead when it's time to sit",
      "I feel leaden and weighed down at practice time",
+     "I'm weighed down at prayer time",
      "I drag my feet and don't start my meditation",
-     "an inertia comes over me whenever I mean to study",
-     "my mind is too weighed down to begin my prayers",
-     "sloth keeps me from ever starting my chanting"
+     "an inertia keeps me from my study",
+     "sloth keeps me from my chanting",
+     "I drag my feet over starting my prayers"
     ],
     "cues_added": [
      "I feel leaden and weighed down at practice time",
+     "I'm weighed down at prayer time",
      "I drag my feet and don't start my meditation",
-     "an inertia comes over me whenever I mean to study",
-     "my mind is too weighed down to begin my prayers",
-     "sloth keeps me from ever starting my chanting"
+     "an inertia keeps me from my study",
+     "sloth keeps me from my chanting",
+     "I drag my feet over starting my prayers"
     ],
     "cites": [
      "tea:yoga-bhasya:1.30"
@@ -1619,18 +1640,20 @@
     "cues": [
      "I can't let go of my pleasures long enough to practise",
      "the pull of things keeps winning",
-     "I can't turn my mind away from pleasant distractions",
+     "I can't turn away from pleasant distractions",
      "my mind reaches greedily for every pleasant thing",
      "my greed for pleasant things keeps me from practising",
-     "I stay hooked on whatever pleases my senses",
-     "the pull of pleasant things beats my wish to practise"
+     "I stay hooked on anything that pleases my senses",
+     "the pull of pleasant things beats my wish to practise",
+     "my greed for pleasures keeps winning"
     ],
     "cues_added": [
-     "I can't turn my mind away from pleasant distractions",
+     "I can't turn away from pleasant distractions",
      "my mind reaches greedily for every pleasant thing",
      "my greed for pleasant things keeps me from practising",
-     "I stay hooked on whatever pleases my senses",
-     "the pull of pleasant things beats my wish to practise"
+     "I stay hooked on anything that pleases my senses",
+     "the pull of pleasant things beats my wish to practise",
+     "my greed for pleasures keeps winning"
     ],
     "cites": [
      "tea:yoga-bhasya:1.30"
@@ -1703,13 +1726,13 @@
     "marker": "Seeing wrongly, as when one moon is seen as two, here in matters of practice.",
     "cues": [
      "I was sure of something about my practice that turned out false",
-     "I misread what is happening in my practice",
+     "I misread the signs in my practice",
      "I take mistaken ideas about meditation as the truth",
      "I keep getting the teaching backwards and acting on it",
      "I feel certain about my practice and then find I'm mistaken"
     ],
     "cues_added": [
-     "I misread what is happening in my practice",
+     "I misread the signs in my practice",
      "I take mistaken ideas about meditation as the truth",
      "I keep getting the teaching backwards and acting on it",
      "I feel certain about my practice and then find I'm mistaken"
@@ -1787,13 +1810,13 @@
      "I practise daily and never reach steady ground",
      "my practice stays at the same shallow level",
      "I never get beyond the first stage of meditation",
-     "after years of sitting I reach no settled stage"
+     "my meditation never deepens into any settled stage"
     ],
     "cues_added": [
      "I practise daily and never reach steady ground",
      "my practice stays at the same shallow level",
      "I never get beyond the first stage of meditation",
-     "after years of sitting I reach no settled stage"
+     "my meditation never deepens into any settled stage"
     ],
     "cites": [
      "tea:yoga-bhasya:1.30"
@@ -1858,16 +1881,16 @@
      "I can't stay where I got to",
      "the steadiness I gain in practice keeps slipping away",
      "I keep losing the ground I gained in meditation",
-     "my mind reaches a still point and falls back again",
      "each time I get steady in prayer I slide back",
-     "I reach a settled state in meditation and cannot keep it"
+     "the progress I make in meditation keeps slipping away",
+     "I lose my footing in practice after a good spell"
     ],
     "cues_added": [
      "the steadiness I gain in practice keeps slipping away",
      "I keep losing the ground I gained in meditation",
-     "my mind reaches a still point and falls back again",
      "each time I get steady in prayer I slide back",
-     "I reach a settled state in meditation and cannot keep it"
+     "the progress I make in meditation keeps slipping away",
+     "I lose my footing in practice after a good spell"
     ],
     "cites": [
      "tea:yoga-bhasya:1.30"
@@ -1993,14 +2016,16 @@
      "a thwarted plan leaves me agitated",
      "I'm disturbed for days when a wish of mine is refused",
      "my mind gets churned up when I don't get my way",
-     "when my plans are blocked I'm shaken for hours"
+     "when my plans are thwarted I'm shaken",
+     "a blocked wish shakes me"
     ],
     "cues_added": [
      "I get upset and rattled whenever my wishes are thwarted",
      "a thwarted plan leaves me agitated",
      "I'm disturbed for days when a wish of mine is refused",
      "my mind gets churned up when I don't get my way",
-     "when my plans are blocked I'm shaken for hours"
+     "when my plans are thwarted I'm shaken",
+     "a blocked wish shakes me"
     ],
     "cites": [
      "tea:yoga-sutra:1.31",
@@ -2310,18 +2335,20 @@
      "I'd be glad if someone else did the harm for me",
      "I keep plotting revenge on them",
      "I'm tempted to lie to get out of trouble",
+     "I'm tempted to steal",
      "the thought of stealing small things tempts me",
      "I approve when others harm the people I dislike",
-     "I want someone else to do the harm for me",
-     "thoughts of hitting back at them rise in me"
+     "I approve of harm done on my behalf",
+     "I rehearse hitting back at them in my head"
     ],
     "cues_added": [
      "I keep plotting revenge on them",
      "I'm tempted to lie to get out of trouble",
+     "I'm tempted to steal",
      "the thought of stealing small things tempts me",
      "I approve when others harm the people I dislike",
-     "I want someone else to do the harm for me",
-     "thoughts of hitting back at them rise in me"
+     "I approve of harm done on my behalf",
+     "I rehearse hitting back at them in my head"
     ],
     "cites": [
      "tea:yoga-sutra:2.34"
@@ -2503,16 +2530,16 @@
     "cues": [
      "things are clear to me",
      "I see and understand plainly",
-     "my understanding feels lit up and clear",
+     "my understanding feels lit up",
      "a brightness of knowing fills me through the day",
      "my perception feels luminous and alert",
-     "I see everything with a bright, clear knowing"
+     "my senses feel luminous"
     ],
     "cues_added": [
-     "my understanding feels lit up and clear",
+     "my understanding feels lit up",
      "a brightness of knowing fills me through the day",
      "my perception feels luminous and alert",
-     "I see everything with a bright, clear knowing"
+     "my senses feel luminous"
     ],
     "cites": [
      "tea:bhagavad-gita:14.11"
@@ -2541,16 +2568,16 @@
     "marker": "Sāttvika happiness: like poison at first and like nectar at the end, born of the clarity of one's own understanding (BhG 18.37).",
     "cues": [
      "it was hard at first but it has become a deep contentment",
-     "the discipline felt like a burden at first and now brings deep joy",
-     "what began as a struggle has turned into a quiet joy",
-     "my happiness comes from understanding things clearly for myself",
-     "the early effort was grim and the reward is a clear mind"
+     "the discipline felt like a burden at first and now brings me deep joy",
+     "my practice began as a struggle and has turned into a quiet joy",
+     "my joy is born of my own understanding",
+     "my early effort was grim and the reward is a clear mind"
     ],
     "cues_added": [
-     "the discipline felt like a burden at first and now brings deep joy",
-     "what began as a struggle has turned into a quiet joy",
-     "my happiness comes from understanding things clearly for myself",
-     "the early effort was grim and the reward is a clear mind"
+     "the discipline felt like a burden at first and now brings me deep joy",
+     "my practice began as a struggle and has turned into a quiet joy",
+     "my joy is born of my own understanding",
+     "my early effort was grim and the reward is a clear mind"
     ],
     "cites": [
      "tea:bhagavad-gita:18.37"
@@ -2633,18 +2660,18 @@
      "I can't stop taking on more",
      "I'm restless and always want the next thing",
      "I keep starting new projects",
-     "I cram my days with one undertaking after another",
+     "I cram my days with undertakings",
      "I pile project upon project",
-     "a restless longing drives me from one task to the next",
+     "a restless longing drives me from task to task",
      "my greed for more keeps me constantly on the go",
-     "I can't sit idle and keep grabbing new tasks"
+     "I can't sit idle"
     ],
     "cues_added": [
-     "I cram my days with one undertaking after another",
+     "I cram my days with undertakings",
      "I pile project upon project",
-     "a restless longing drives me from one task to the next",
+     "a restless longing drives me from task to task",
      "my greed for more keeps me constantly on the go",
-     "I can't sit idle and keep grabbing new tasks"
+     "I can't sit idle"
     ],
     "cites": [
      "tea:bhagavad-gita:14.12"
@@ -2659,14 +2686,14 @@
      "I'm elated by success and crushed by failure",
      "I chase results greedily and push others aside",
      "I'm swept between joy and grief by how my work turns out",
-     "I measure every effort only by what I gain from it"
+     "I measure my effort only by the gain"
     ],
     "cues_added": [
      "I'm eager for the payoff more than the work itself",
      "I'm elated by success and crushed by failure",
      "I chase results greedily and push others aside",
      "I'm swept between joy and grief by how my work turns out",
-     "I measure every effort only by what I gain from it"
+     "I measure my effort only by the gain"
     ],
     "cites": [
      "tea:bhagavad-gita:18.27"
@@ -2676,16 +2703,16 @@
     "marker": "Rājasa happiness: from the meeting of senses and objects, like nectar at first and like poison in the end (BhG 18.38).",
     "cues": [
      "it felt wonderful at first and now it's turned sour",
-     "the thrill is great at first and leaves me empty after",
+     "the thrill fades and leaves me empty",
      "every pleasure I chase turns to regret in the end",
-     "the excitement of buying something fades into regret",
-     "what delights my senses at first ends up souring"
+     "my excitement over buying something fades into regret",
+     "sense pleasures delight me and then disappoint me"
     ],
     "cues_added": [
-     "the thrill is great at first and leaves me empty after",
+     "the thrill fades and leaves me empty",
      "every pleasure I chase turns to regret in the end",
-     "the excitement of buying something fades into regret",
-     "what delights my senses at first ends up souring"
+     "my excitement over buying something fades into regret",
+     "sense pleasures delight me and then disappoint me"
     ],
     "cites": [
      "tea:bhagavad-gita:18.38"
@@ -2794,16 +2821,16 @@
      "everything feels murky and I can't get moving",
      "I keep neglecting what matters",
      "I feel confused and inert",
-     "a darkness settles over my mind and I stay idle",
+     "my mind is dark and inert",
      "I sit around in a fog and ignore my duties",
      "my mind is clouded and I let everything slide",
-     "I'm inactive and careless about what needs doing"
+     "I'm inactive and careless about my duties"
     ],
     "cues_added": [
-     "a darkness settles over my mind and I stay idle",
+     "my mind is dark and inert",
      "I sit around in a fog and ignore my duties",
      "my mind is clouded and I let everything slide",
-     "I'm inactive and careless about what needs doing"
+     "I'm inactive and careless about my duties"
     ],
     "cites": [
      "tea:bhagavad-gita:14.13"
@@ -2815,18 +2842,22 @@
      "I keep putting it off",
      "I dig in my heels and won't budge",
      "I've lost heart and let it drift",
-     "I put off important tasks for weeks on end",
+     "I procrastinate for weeks",
+     "I keep telling myself tomorrow",
+     "I've been meaning to start for months",
      "I'm stubborn and refuse to change how I do things",
      "I delay and delay until the deadline has passed",
-     "I leave the job half done and lose heart",
-     "I procrastinate and sink into gloom"
+     "I procrastinate and sink into gloom",
+     "I postpone important things endlessly"
     ],
     "cues_added": [
-     "I put off important tasks for weeks on end",
+     "I procrastinate for weeks",
+     "I keep telling myself tomorrow",
+     "I've been meaning to start for months",
      "I'm stubborn and refuse to change how I do things",
      "I delay and delay until the deadline has passed",
-     "I leave the job half done and lose heart",
-     "I procrastinate and sink into gloom"
+     "I procrastinate and sink into gloom",
+     "I postpone important things endlessly"
     ],
     "cites": [
      "tea:bhagavad-gita:18.28"
@@ -3005,13 +3036,13 @@
     "cues": [
      "I can't stop thinking about it and now I really want it",
      "the more I dwell on it, the more I want it",
-     "I turn it over in my mind until I crave it",
+     "I turn it over and over until I crave it",
      "brooding on something I saw turns into desire for it",
      "I dwell on the thing I saw until I have to have it"
     ],
     "cues_added": [
      "the more I dwell on it, the more I want it",
-     "I turn it over in my mind until I crave it",
+     "I turn it over and over until I crave it",
      "brooding on something I saw turns into desire for it",
      "I dwell on the thing I saw until I have to have it"
     ],
@@ -3026,14 +3057,14 @@
      "my judgement just went",
      "my anger clouds my judgement completely",
      "in my anger I forget everything I have learned",
-     "once I'm angry my good sense deserts me",
-     "when I can't have what I want I rage and lose my head"
+     "in anger my good sense deserts me",
+     "thwarted desire turns into rage that makes me lose my head"
     ],
     "cues_added": [
      "my anger clouds my judgement completely",
      "in my anger I forget everything I have learned",
-     "once I'm angry my good sense deserts me",
-     "when I can't have what I want I rage and lose my head"
+     "in anger my good sense deserts me",
+     "thwarted desire turns into rage that makes me lose my head"
     ],
     "cites": [
      "tea:bhagavad-gita:2.62",
@@ -3166,15 +3197,15 @@
     "cues": [
      "I did it even though I didn't want to",
      "something takes over and I act against myself",
-     "I act against my own better judgement as if pushed",
-     "I find myself doing the very thing I resolved not to do",
-     "I'm pushed into wrongdoing against my own will",
+     "I act against my own better judgement, pushed by some force",
+     "I break my own resolutions again and again",
+     "something drives me into wrongdoing against my wishes",
      "I give in and act wrongly against my own wishes"
     ],
     "cues_added": [
-     "I act against my own better judgement as if pushed",
-     "I find myself doing the very thing I resolved not to do",
-     "I'm pushed into wrongdoing against my own will",
+     "I act against my own better judgement, pushed by some force",
+     "I break my own resolutions again and again",
+     "something drives me into wrongdoing against my wishes",
      "I give in and act wrongly against my own wishes"
     ],
     "cites": [
@@ -3186,13 +3217,13 @@
     "cues": [
      "no amount is ever enough",
      "it clouds everything I know",
-     "my wanting is never satisfied, whatever I get",
+     "my wanting is never satisfied",
      "my craving burns like a fire that is never full",
      "my desire hides what I know like a fog",
      "my desire blinds me to what I understand"
     ],
     "cues_added": [
-     "my wanting is never satisfied, whatever I get",
+     "my wanting is never satisfied",
      "my craving burns like a fire that is never full",
      "my desire hides what I know like a fog",
      "my desire blinds me to what I understand"
@@ -3321,20 +3352,19 @@
     "marker": "Hypocrisy, arrogance, conceit, anger, harshness, ignorance (BhG 16.4).",
     "cues": [
      "I put on a show of being good",
-     "I look down on them",
      "I spoke harshly and didn't care",
      "I act pious in public and behave differently at home",
      "I speak harshly to people I consider beneath me",
-     "I'm arrogant and sure I know better than everyone",
+     "I'm arrogant and conceited at work",
      "I flaunt my goodness so people admire me",
-     "I'm harsh and conceited with those who work under me"
+     "I'm harsh and conceited with those under me"
     ],
     "cues_added": [
      "I act pious in public and behave differently at home",
      "I speak harshly to people I consider beneath me",
-     "I'm arrogant and sure I know better than everyone",
+     "I'm arrogant and conceited at work",
      "I flaunt my goodness so people admire me",
-     "I'm harsh and conceited with those who work under me"
+     "I'm harsh and conceited with those under me"
     ],
     "cites": [
      "tea:bhagavad-gita:16.4"
@@ -3405,15 +3435,15 @@
      "I can't go on with what I have to do",
      "I no longer know what the right thing is",
      "I sink at the thought of the duty in front of me",
-     "I'm torn about my duty and can't see the right course",
+     "I'm torn about my duty",
      "I collapse inside before a task that feels unbearable",
-     "I lose heart facing what I'm obliged to do"
+     "I lose heart facing my obligations"
     ],
     "cues_added": [
      "I sink at the thought of the duty in front of me",
-     "I'm torn about my duty and can't see the right course",
+     "I'm torn about my duty",
      "I collapse inside before a task that feels unbearable",
-     "I lose heart facing what I'm obliged to do"
+     "I lose heart facing my obligations"
     ],
     "cites": [
      "tea:bhagavad-gita:1.28",
@@ -3425,16 +3455,16 @@
     "cues": [
      "my limbs give way when I think of it",
      "my mind is spinning and I can't stand firm",
-     "my mind whirls when I face what I have to do",
+     "my mind whirls when I face my duty",
      "my mind reels before the duty in front of me",
-     "everything spins inside me when I think of that duty",
-     "I give way inside and my thoughts whirl"
+     "everything spins inside me before that duty",
+     "my thoughts whirl before the task ahead"
     ],
     "cues_added": [
-     "my mind whirls when I face what I have to do",
+     "my mind whirls when I face my duty",
      "my mind reels before the duty in front of me",
-     "everything spins inside me when I think of that duty",
-     "I give way inside and my thoughts whirl"
+     "everything spins inside me before that duty",
+     "my thoughts whirl before the task ahead"
     ],
     "cites": [
      "tea:bhagavad-gita:1.29",
@@ -3445,15 +3475,15 @@
     "marker": "Turning to a teacher: 'teach me, I have come to you' (BhG 2.7).",
     "cues": [
      "I need someone to tell me clearly what to do",
-     "I'm looking for a teacher to show me what is right",
-     "I want to ask someone wise to guide me",
-     "I'm lost and ready to be taught",
+     "I'm searching for a guru to teach me",
+     "I long for someone wise to guide me",
+     "I'm begging someone wise to teach me",
      "I have come to the point of begging for guidance"
     ],
     "cues_added": [
-     "I'm looking for a teacher to show me what is right",
-     "I want to ask someone wise to guide me",
-     "I'm lost and ready to be taught",
+     "I'm searching for a guru to teach me",
+     "I long for someone wise to guide me",
+     "I'm begging someone wise to teach me",
      "I have come to the point of begging for guidance"
     ],
     "cites": [
@@ -3520,18 +3550,22 @@
     "cues": [
      "my mind won't stay put",
      "holding my mind is like holding the wind",
-     "my mind wanders and drifts off when I pray",
-     "my mind runs off to emails and plans in the middle of prayer",
-     "I can't keep my mind on the page for a minute",
-     "my mind jumps about restlessly whatever I'm doing",
-     "my mind darts off in every direction"
+     "my mind wanders off",
+     "my mind keeps drifting off",
+     "my thoughts run off",
+     "my thoughts wander to errands and emails",
+     "my mind jumps about restlessly",
+     "my mind darts off in every direction",
+     "my mind is restless and unsteady"
     ],
     "cues_added": [
-     "my mind wanders and drifts off when I pray",
-     "my mind runs off to emails and plans in the middle of prayer",
-     "I can't keep my mind on the page for a minute",
-     "my mind jumps about restlessly whatever I'm doing",
-     "my mind darts off in every direction"
+     "my mind wanders off",
+     "my mind keeps drifting off",
+     "my thoughts run off",
+     "my thoughts wander to errands and emails",
+     "my mind jumps about restlessly",
+     "my mind darts off in every direction",
+     "my mind is restless and unsteady"
     ],
     "cites": [
      "tea:bhagavad-gita:6.26",
@@ -3544,14 +3578,14 @@
      "my senses pull me away even when I know better",
      "whatever catches my eye drags my mind after it",
      "a sound or a screen pulls my mind away instantly",
-     "the sights around me drag my attention off my work",
-     "my senses carry my good sense away"
+     "passing sights drag my attention off",
+     "my senses drag me after every distraction"
     ],
     "cues_added": [
      "whatever catches my eye drags my mind after it",
      "a sound or a screen pulls my mind away instantly",
-     "the sights around me drag my attention off my work",
-     "my senses carry my good sense away"
+     "passing sights drag my attention off",
+     "my senses drag me after every distraction"
     ],
     "cites": [
      "tea:bhagavad-gita:2.60",
@@ -4578,17 +4612,19 @@
      "in meditation I just drift off into a pleasant blank",
      "I go quiet but it's more like dozing",
      "when I meditate I sink into a cosy blankness",
-     "my meditation turns into a pleasant fog",
+     "my meditation sinks into a pleasant fog",
      "in meditation my mind goes blank and dull",
      "during my practice I slip into a comfortable blank",
-     "at prayer I sink into a warm dullness"
+     "at prayer I sink into a warm dullness",
+     "I sink into a blank when I meditate"
     ],
     "cues_added": [
      "when I meditate I sink into a cosy blankness",
-     "my meditation turns into a pleasant fog",
+     "my meditation sinks into a pleasant fog",
      "in meditation my mind goes blank and dull",
      "during my practice I slip into a comfortable blank",
-     "at prayer I sink into a warm dullness"
+     "at prayer I sink into a warm dullness",
+     "I sink into a blank when I meditate"
     ],
     "cites": [
      "tea:mandukya-karika:3.42",
@@ -4666,16 +4702,16 @@
     "cues": [
      "my mind keeps running after one pleasure or another",
      "I can't keep my mind from scattering",
-     "when I sit still my mind runs out after pleasures",
-     "in meditation my thoughts scatter toward things I enjoy",
-     "my mind chases enjoyments the moment I sit quietly",
-     "my mind scatters among desires and enjoyments"
+     "my mind chases pleasures when I try to be still",
+     "my thoughts scatter toward pleasures when I meditate",
+     "in stillness my mind scatters among desires",
+     "my stillness scatters into daydreams of pleasure"
     ],
     "cues_added": [
-     "when I sit still my mind runs out after pleasures",
-     "in meditation my thoughts scatter toward things I enjoy",
-     "my mind chases enjoyments the moment I sit quietly",
-     "my mind scatters among desires and enjoyments"
+     "my mind chases pleasures when I try to be still",
+     "my thoughts scatter toward pleasures when I meditate",
+     "in stillness my mind scatters among desires",
+     "my stillness scatters into daydreams of pleasure"
     ],
     "cites": [
      "tea:mandukya-karika:3.42"
@@ -4756,15 +4792,15 @@
     "cues": [
      "I'm quiet, but something is still holding on underneath",
      "in meditation I'm calm with a subtle tint of wanting underneath",
-     "my stillness carries a trace of old desires",
+     "my stillness is tinged with old desires",
      "I'm settled in practice with a hidden pull underneath",
-     "my calm is coloured by a hidden residue"
+     "my meditative calm is coloured by a hidden residue"
     ],
     "cues_added": [
      "in meditation I'm calm with a subtle tint of wanting underneath",
-     "my stillness carries a trace of old desires",
+     "my stillness is tinged with old desires",
      "I'm settled in practice with a hidden pull underneath",
-     "my calm is coloured by a hidden residue"
+     "my meditative calm is coloured by a hidden residue"
     ],
     "cites": [
      "tea:mandukya-karika:3.44"
@@ -4824,16 +4860,16 @@
      "I've started chasing that blissful feeling",
      "I linger in the bliss of meditation and go no further",
      "I savour the bliss of stillness and cling to it",
-     "I relish the peace of my practice and stop going deeper",
+     "I relish the peace of my practice and go no deeper",
      "I'm hooked on the blissful feeling I get in meditation",
-     "I settle for savouring the happiness of stillness"
+     "I cling to the bliss of meditation"
     ],
     "cues_added": [
      "I linger in the bliss of meditation and go no further",
      "I savour the bliss of stillness and cling to it",
-     "I relish the peace of my practice and stop going deeper",
+     "I relish the peace of my practice and go no deeper",
      "I'm hooked on the blissful feeling I get in meditation",
-     "I settle for savouring the happiness of stillness"
+     "I cling to the bliss of meditation"
     ],
     "cites": [
      "tea:mandukya-karika:3.45"
@@ -4898,14 +4934,14 @@
     "marker": "Drawing back in fear from the stilling of the mind, as if something would be lost.",
     "cues": [
      "when it gets very still I get scared and pull back",
-     "as my mind grows quiet in meditation, fear pulls me back",
+     "fear stops me as my meditation deepens",
      "deep stillness in meditation frightens me",
      "I'm afraid of losing myself when meditation goes deep",
      "I back away from the inner silence out of fear",
      "fear of vanishing makes me stop when I meditate"
     ],
     "cues_added": [
-     "as my mind grows quiet in meditation, fear pulls me back",
+     "fear stops me as my meditation deepens",
      "deep stillness in meditation frightens me",
      "I'm afraid of losing myself when meditation goes deep",
      "I back away from the inner silence out of fear",
@@ -5020,14 +5056,14 @@
      "my senses bolt like wild horses",
      "my good sense can't rein in my cravings",
      "my desires drag me wherever they please",
-     "my understanding loses control of my senses",
+     "I have no control over my senses",
      "I have no grip on the reins of my mind"
     ],
     "cues_added": [
      "my senses bolt like wild horses",
      "my good sense can't rein in my cravings",
      "my desires drag me wherever they please",
-     "my understanding loses control of my senses",
+     "I have no control over my senses",
      "I have no grip on the reins of my mind"
     ],
     "cites": [
@@ -5039,15 +5075,15 @@
     "cues": [
      "I keep going round in circles and never get anywhere",
      "I go round and round on my spiritual path without arriving",
-     "year after year I circle back to the same place in my practice",
-     "I keep returning to where I began and never reach the goal",
-     "my search goes round in circles and arrives nowhere"
+     "my practice keeps circling without arriving",
+     "my spiritual search keeps returning to where it began",
+     "my spiritual search goes round in circles"
     ],
     "cues_added": [
      "I go round and round on my spiritual path without arriving",
-     "year after year I circle back to the same place in my practice",
-     "I keep returning to where I began and never reach the goal",
-     "my search goes round in circles and arrives nowhere"
+     "my practice keeps circling without arriving",
+     "my spiritual search keeps returning to where it began",
+     "my spiritual search goes round in circles"
     ],
     "cites": [
      "tea:katha-upanisad:1.3.7"
@@ -5147,16 +5183,16 @@
     "marker": "Looking always outward, never at the one who looks.",
     "cues": [
      "I'm always looking out at things, never inward",
-     "I look outward all day and never look within",
+     "I never look within",
      "my gaze is fixed outward on people and things",
-     "my attention is always on what's outside me, never inside",
-     "I never turn around to see the one who is looking"
+     "my attention is always outside me, never inward",
+     "I never turn my gaze inward"
     ],
     "cues_added": [
-     "I look outward all day and never look within",
+     "I never look within",
      "my gaze is fixed outward on people and things",
-     "my attention is always on what's outside me, never inside",
-     "I never turn around to see the one who is looking"
+     "my attention is always outside me, never inward",
+     "I never turn my gaze inward"
     ],
     "cites": [
      "tea:katha-upanisad:2.1.1"
@@ -5166,16 +5202,16 @@
     "marker": "Following outward desires one after another (KU 2.1.2).",
     "cues": [
      "I chase one outside thing after another",
-     "I run after one outward desire after another",
-     "I follow every new desire that comes along",
-     "I go from one purchase to the next",
-     "my days are one outside pursuit after another"
+     "I run after outward desires",
+     "I chase every new desire",
+     "I move from purchase to purchase",
+     "my days are an endless string of outside pursuits"
     ],
     "cues_added": [
-     "I run after one outward desire after another",
-     "I follow every new desire that comes along",
-     "I go from one purchase to the next",
-     "my days are one outside pursuit after another"
+     "I run after outward desires",
+     "I chase every new desire",
+     "I move from purchase to purchase",
+     "my days are an endless string of outside pursuits"
     ],
     "cites": [
      "tea:katha-upanisad:2.1.2"
@@ -5223,20 +5259,21 @@
    {
     "marker": "Choosing what is pleasant now over what is good, for the sake of getting and keeping (KU 1.2.2).",
     "cues": [
-     "I always go for what feels good now",
      "I know what's good for me but I choose the comfortable thing",
-     "I pick the easy pleasure over what is good for me",
-     "I trade what is good in the long run for pleasure now",
+     "I choose pleasure over my own good",
+     "I choose comfort over growth",
+     "I trade long-term good for pleasure now",
      "I reach for the pleasant thing and skip what is beneficial",
-     "I choose the fun option over the worthwhile one every time",
-     "I grab what pleases me now and let the good slide"
+     "I choose the fun option over the worthwhile",
+     "I grab pleasure now and let the good slide"
     ],
     "cues_added": [
-     "I pick the easy pleasure over what is good for me",
-     "I trade what is good in the long run for pleasure now",
+     "I choose pleasure over my own good",
+     "I choose comfort over growth",
+     "I trade long-term good for pleasure now",
      "I reach for the pleasant thing and skip what is beneficial",
-     "I choose the fun option over the worthwhile one every time",
-     "I grab what pleases me now and let the good slide"
+     "I choose the fun option over the worthwhile",
+     "I grab pleasure now and let the good slide"
     ],
     "cites": [
      "tea:katha-upanisad:1.2.2"
@@ -5247,14 +5284,14 @@
     "cues": [
      "I was sure I knew better and ended up where I started",
      "I consider myself wise and repeat the same mistakes",
-     "I pride myself on knowing and still go round in ignorance",
-     "I'm certain I understand and end up back where I began",
+     "I pride myself on knowing and stay ignorant",
+     "I'm certain I understand and end up where I began",
      "I act the expert and stay blind to my ignorance"
     ],
     "cues_added": [
      "I consider myself wise and repeat the same mistakes",
-     "I pride myself on knowing and still go round in ignorance",
-     "I'm certain I understand and end up back where I began",
+     "I pride myself on knowing and stay ignorant",
+     "I'm certain I understand and end up where I began",
      "I act the expert and stay blind to my ignorance"
     ],
     "cites": [
@@ -5384,18 +5421,20 @@
     "cues": [
      "my mind keeps getting lured from one tempting thing to another",
      "I can't settle because something else attracts me",
+     "my mind is lured by pleasures when I meditate",
      "tempting thoughts keep luring my mind off the mantra",
-     "my mind won't settle on one object because of what I desire",
+     "desire keeps my mind from settling on its object",
      "desire for pleasant things pulls my attention from the prayer",
      "sensual thoughts keep drawing me off my meditation",
-     "longing for enjoyable things scatters my focus in practice"
+     "longing for pleasures scatters my focus in meditation"
     ],
     "cues_added": [
+     "my mind is lured by pleasures when I meditate",
      "tempting thoughts keep luring my mind off the mantra",
-     "my mind won't settle on one object because of what I desire",
+     "desire keeps my mind from settling on its object",
      "desire for pleasant things pulls my attention from the prayer",
      "sensual thoughts keep drawing me off my meditation",
-     "longing for enjoyable things scatters my focus in practice"
+     "longing for pleasures scatters my focus in meditation"
     ],
     "cites": [
      "tea:visuddhimagga:4.p146"
@@ -5513,15 +5552,15 @@
      "irritation at the noise breaks up my meditation",
      "resentment keeps breaking my concentration in prayer",
      "my prayer keeps snagging on people I dislike",
-     "hostile thoughts about someone break into my meditation",
-     "my mind bristles at whatever I dislike and can't flow on"
+     "my meditation is broken by hostile thoughts about someone",
+     "in meditation my mind keeps bristling at people I dislike"
     ],
     "cues_added": [
      "irritation at the noise breaks up my meditation",
      "resentment keeps breaking my concentration in prayer",
      "my prayer keeps snagging on people I dislike",
-     "hostile thoughts about someone break into my meditation",
-     "my mind bristles at whatever I dislike and can't flow on"
+     "my meditation is broken by hostile thoughts about someone",
+     "in meditation my mind keeps bristling at people I dislike"
     ],
     "cites": [
      "tea:visuddhimagga:4.p146"
@@ -5532,18 +5571,20 @@
     "cues": [
      "I keep going over how they insulted me",
      "I can't stop thinking about what they did to me",
+     "I dwell on the insult",
      "I replay the insult over and over for days",
-     "I brood about the person who wronged me",
-     "I keep going back to how badly they treated me",
-     "I keep a mental list of every wrong done to me",
-     "I relive the argument in my head for weeks"
+     "I brood over how I was wronged",
+     "I keep going over how badly they treated me",
+     "I relive the argument in my head for weeks",
+     "I cling to the grievance"
     ],
     "cues_added": [
+     "I dwell on the insult",
      "I replay the insult over and over for days",
-     "I brood about the person who wronged me",
-     "I keep going back to how badly they treated me",
-     "I keep a mental list of every wrong done to me",
-     "I relive the argument in my head for weeks"
+     "I brood over how I was wronged",
+     "I keep going over how badly they treated me",
+     "I relive the argument in my head for weeks",
+     "I cling to the grievance"
     ],
     "cites": [
      "tea:dhammapada:3",
@@ -5667,16 +5708,18 @@
     "cues": [
      "my mind feels stuck and won't move",
      "I have no drive at all",
-     "my mind turns stiff and dull in meditation",
+     "my mind is stiff and dull in meditation",
      "torpor and stiffness grip me at prayer",
      "my mind is rigid and unwieldy when I study",
-     "my mind stiffens and drags during chanting"
+     "my mind stiffens and drags during chanting",
+     "my mind goes dull and foggy when I meditate"
     ],
     "cues_added": [
-     "my mind turns stiff and dull in meditation",
+     "my mind is stiff and dull in meditation",
      "torpor and stiffness grip me at prayer",
      "my mind is rigid and unwieldy when I study",
-     "my mind stiffens and drags during chanting"
+     "my mind stiffens and drags during chanting",
+     "my mind goes dull and foggy when I meditate"
     ],
     "cites": [
      "tea:visuddhimagga:4.p146"
@@ -5688,15 +5731,15 @@
      "I keep nodding off when I sit",
      "I'm listless and keep yawning and stretching",
      "during meditation I droop and sink lower and lower",
-     "I get bored halfway through my prayers and stretch lazily",
+     "halfway through my prayers I droop and stretch lazily",
      "my head droops while I recite the mantra",
-     "I sit to study and slowly sink into boredom"
+     "I sink into boredom when I study"
     ],
     "cues_added": [
      "during meditation I droop and sink lower and lower",
-     "I get bored halfway through my prayers and stretch lazily",
+     "halfway through my prayers I droop and stretch lazily",
      "my head droops while I recite the mantra",
-     "I sit to study and slowly sink into boredom"
+     "I sink into boredom when I study"
     ],
     "cites": [
      "tea:visuddhimagga:14.p469"
@@ -5830,13 +5873,15 @@
      "my mind flits about restlessly and can't rest",
      "restless thoughts and regrets churn in me when I sit to pray",
      "I'm agitated inside and my mind hops from worry to worry",
-     "my mind is unsettled and jittery whenever I try to be still"
+     "my mind is unsettled and jittery",
+     "my mind is restless and unpeaceful"
     ],
     "cues_added": [
      "my mind flits about restlessly and can't rest",
      "restless thoughts and regrets churn in me when I sit to pray",
      "I'm agitated inside and my mind hops from worry to worry",
-     "my mind is unsettled and jittery whenever I try to be still"
+     "my mind is unsettled and jittery",
+     "my mind is restless and unpeaceful"
     ],
     "cites": [
      "tea:visuddhimagga:4.p146"
@@ -5847,18 +5892,22 @@
     "cues": [
      "I keep regretting what I did and didn't do",
      "I keep going back over what I should have done",
-     "I go over old mistakes again and again at night",
+     "I keep going over my old mistakes",
      "I torment myself over things I left undone",
      "I keep reliving my mistakes and feeling ashamed",
      "I'm consumed by regret over how I behaved",
-     "I keep going over conversations and what I failed to say"
+     "I keep replaying conversations and regretting my words",
+     "I keep regretting things I said",
+     "I keep regretting what I didn't say"
     ],
     "cues_added": [
-     "I go over old mistakes again and again at night",
+     "I keep going over my old mistakes",
      "I torment myself over things I left undone",
      "I keep reliving my mistakes and feeling ashamed",
      "I'm consumed by regret over how I behaved",
-     "I keep going over conversations and what I failed to say"
+     "I keep replaying conversations and regretting my words",
+     "I keep regretting things I said",
+     "I keep regretting what I didn't say"
     ],
     "cites": [
      "tea:visuddhimagga:14.p470"
@@ -5994,13 +6043,13 @@
      "I can't commit to the practice because I'm not sure of it",
      "doubt about the method stops me from really practising",
      "my doubts about the teaching keep me from practising",
-     "uncertainty about the path keeps me from starting",
+     "doubt keeps me from committing to any practice",
      "I stand at the edge of the practice, stuck in doubt"
     ],
     "cues_added": [
      "doubt about the method stops me from really practising",
      "my doubts about the teaching keep me from practising",
-     "uncertainty about the path keeps me from starting",
+     "doubt keeps me from committing to any practice",
      "I stand at the edge of the practice, stuck in doubt"
     ],
     "cites": [
@@ -6012,18 +6061,20 @@
     "cues": [
      "I keep wavering between teachings",
      "one day I believe it, the next I don't",
-     "I switch between teachers and traditions every few months",
-     "I flip between trusting the teaching and dismissing it",
+     "I keep switching spiritual teachers",
+     "I keep switching traditions",
+     "I flip from trusting the teaching to dismissing it",
      "I'm torn between two spiritual paths and keep changing sides",
-     "one month I'm devoted to the path, the next I drop it",
-     "I waver back and forth about which practice is right"
+     "I trust the spiritual path and then doubt it",
+     "I keep wavering over practices"
     ],
     "cues_added": [
-     "I switch between teachers and traditions every few months",
-     "I flip between trusting the teaching and dismissing it",
+     "I keep switching spiritual teachers",
+     "I keep switching traditions",
+     "I flip from trusting the teaching to dismissing it",
      "I'm torn between two spiritual paths and keep changing sides",
-     "one month I'm devoted to the path, the next I drop it",
-     "I waver back and forth about which practice is right"
+     "I trust the spiritual path and then doubt it",
+     "I keep wavering over practices"
     ],
     "cites": [
      "tea:visuddhimagga:14.p471"
@@ -6227,15 +6278,17 @@
     "marker": "Wavering, taking now one side, now another (Vism XIV).",
     "cues": [
      "I keep wavering about whether this path is true",
-     "I go back and forth about whether the teaching is true",
-     "I keep switching sides about the path I follow",
-     "I trust the teaching one week and doubt it the next",
+     "I waver about the spiritual path",
+     "I keep doubting whether the teaching is true",
+     "I keep switching sides about the spiritual path I follow",
+     "I trust the teaching and then doubt it",
      "my faith in the practice swings from side to side"
     ],
     "cues_added": [
-     "I go back and forth about whether the teaching is true",
-     "I keep switching sides about the path I follow",
-     "I trust the teaching one week and doubt it the next",
+     "I waver about the spiritual path",
+     "I keep doubting whether the teaching is true",
+     "I keep switching sides about the spiritual path I follow",
+     "I trust the teaching and then doubt it",
      "my faith in the practice swings from side to side"
     ],
     "cites": [
@@ -6398,13 +6451,13 @@
     "cues": [
      "I can't let go of wanting it",
      "my desire sticks to it and won't let go",
-     "I stay stuck on wanting that one pleasure",
+     "I stay stuck on wanting that pleasure",
      "the craving grips me and refuses to let go",
      "I cling to that pleasure like glue"
     ],
     "cues_added": [
      "my desire sticks to it and won't let go",
-     "I stay stuck on wanting that one pleasure",
+     "I stay stuck on wanting that pleasure",
      "the craving grips me and refuses to let go",
      "I cling to that pleasure like glue"
     ],
@@ -6496,14 +6549,14 @@
      "I flare up against them every time",
      "my resentment spreads like poison through the day",
      "I turn fierce toward anyone who crosses me",
-     "my anger at one person spills over onto everyone",
-     "a fierce hostility toward them flares up in me"
+     "my anger at one person spills over onto others",
+     "I flare up with fierce hostility toward them"
     ],
     "cues_added": [
      "my resentment spreads like poison through the day",
      "I turn fierce toward anyone who crosses me",
-     "my anger at one person spills over onto everyone",
-     "a fierce hostility toward them flares up in me"
+     "my anger at one person spills over onto others",
+     "I flare up with fierce hostility toward them"
     ],
     "cites": [
      "tea:visuddhimagga:14.p470"
@@ -6732,16 +6785,20 @@
      "I want to be the one everyone looks up to",
      "I secretly rank myself above my colleagues",
      "I want my achievements to be seen and praised",
-     "I hold myself higher than the people around me",
+     "I rate myself above others",
      "I show off to be admired",
-     "I seethe when others get the credit I deserve"
+     "I seethe when others get the credit I deserve",
+     "I seethe when I go unnoticed",
+     "I'm better than the others"
     ],
     "cues_added": [
      "I secretly rank myself above my colleagues",
      "I want my achievements to be seen and praised",
-     "I hold myself higher than the people around me",
+     "I rate myself above others",
      "I show off to be admired",
-     "I seethe when others get the credit I deserve"
+     "I seethe when others get the credit I deserve",
+     "I seethe when I go unnoticed",
+     "I'm better than the others"
     ],
     "cites": [
      "tea:visuddhimagga:14.p469"
@@ -6839,15 +6896,15 @@
     "marker": "Disquiet, like water whipped by wind (Vism XIV).",
     "cues": [
      "even when things are fine, something in me won't settle",
-     "my mind is choppy like water in the wind",
+     "my mind is choppy and whipped up",
      "a disquiet keeps stirring in me",
-     "my thoughts churn like whipped-up water",
+     "my thoughts are churned up",
      "I'm stirred up and agitated inside even at rest"
     ],
     "cues_added": [
-     "my mind is choppy like water in the wind",
+     "my mind is choppy and whipped up",
      "a disquiet keeps stirring in me",
-     "my thoughts churn like whipped-up water",
+     "my thoughts are churned up",
      "I'm stirred up and agitated inside even at rest"
     ],
     "cites": [
@@ -7011,13 +7068,19 @@
      "I grip tightly to what I own and can't part with it",
      "I hoard things and refuse to give them up",
      "I cling to my possessions and can't let them go",
-     "my grasping sticks to whatever I get"
+     "my grasping sticks to anything I get",
+     "I refuse to let it go",
+     "when it's threatened I fight to keep it",
+     "I can't let go of my house"
     ],
     "cues_added": [
      "I grip tightly to what I own and can't part with it",
      "I hoard things and refuse to give them up",
      "I cling to my possessions and can't let them go",
-     "my grasping sticks to whatever I get"
+     "my grasping sticks to anything I get",
+     "I refuse to let it go",
+     "when it's threatened I fight to keep it",
+     "I can't let go of my house"
     ],
     "cites": [
      "tea:visuddhimagga:14.p468"
@@ -7145,13 +7208,13 @@
     "marker": "Ferocity that spreads and burns its own support (Vism XIV).",
     "cues": [
      "my anger burns me more than them",
-     "my rage hurts me more than the person I'm angry at",
+     "my rage hurts me more than the one it's aimed at",
      "my anger burns inside me for days",
      "my fury spreads and scorches me first",
      "my hostility burns me up from inside"
     ],
     "cues_added": [
-     "my rage hurts me more than the person I'm angry at",
+     "my rage hurts me more than the one it's aimed at",
      "my anger burns inside me for days",
      "my fury spreads and scorches me first",
      "my hostility burns me up from inside"
@@ -7165,13 +7228,13 @@
     "cues": [
      "I want to hate them back",
      "I answer hostility with hostility",
-     "when someone is cruel to me I hate them in return",
+     "I hate people in return when they are cruel to me",
      "I meet their hatred with more hatred of my own",
      "I keep stoking my hatred of them"
     ],
     "cues_added": [
      "I answer hostility with hostility",
-     "when someone is cruel to me I hate them in return",
+     "I hate people in return when they are cruel to me",
      "I meet their hatred with more hatred of my own",
      "I keep stoking my hatred of them"
     ],
@@ -7298,16 +7361,16 @@
     "cues": [
      "I can't see my way at all",
      "everything is murky",
-     "my mind is clouded and I miss what is in front of me",
+     "my mind is clouded and blind to things",
      "I stay blind to the true nature of things",
      "a fog over my mind hides how things truly are",
-     "I'm confused about what is really happening to me"
+     "confusion hides the real state of things from me"
     ],
     "cues_added": [
-     "my mind is clouded and I miss what is in front of me",
+     "my mind is clouded and blind to things",
      "I stay blind to the true nature of things",
      "a fog over my mind hides how things truly are",
-     "I'm confused about what is really happening to me"
+     "confusion hides the real state of things from me"
     ],
     "cites": [
      "tea:visuddhimagga:14.p468"
@@ -7320,13 +7383,13 @@
      "I'm tangled in my own confusion",
      "I'm caught in a net of wrong ideas",
      "my confusion traps me and I can't find the way out",
-     "I'm stuck in a web of muddled thinking"
+     "my thinking is caught in a web of muddle"
     ],
     "cues_added": [
      "I'm tangled in my own confusion",
      "I'm caught in a net of wrong ideas",
      "my confusion traps me and I can't find the way out",
-     "I'm stuck in a web of muddled thinking"
+     "my thinking is caught in a web of muddle"
     ],
     "cites": [
      "tea:dhammapada:251"
@@ -7417,18 +7480,17 @@
    {
     "marker": "Delighting now here, now there; arising wherever there is what is dear (DN 22).",
     "cues": [
-     "the more I get the more I want",
      "I jump from one want to the next",
      "I delight in one thing and then crave the next",
-     "my craving moves from one pleasure to another",
-     "my wanting hops from one delight to the next",
-     "I get attached to whatever pleases me"
+     "my craving moves from pleasure to pleasure",
+     "my wanting hops from delight to delight",
+     "I get attached to anything that pleases me"
     ],
     "cues_added": [
      "I delight in one thing and then crave the next",
-     "my craving moves from one pleasure to another",
-     "my wanting hops from one delight to the next",
-     "I get attached to whatever pleases me"
+     "my craving moves from pleasure to pleasure",
+     "my wanting hops from delight to delight",
+     "I get attached to anything that pleases me"
     ],
     "cites": [
      "tea:mahasatipatthana-sutta:dn22:19"
@@ -7439,15 +7501,15 @@
     "cues": [
      "it keeps growing the less I watch it",
      "my craving spreads like a creeper when I'm careless",
-     "the less attention I pay, the more my wanting grows",
+     "my wanting grows fastest when I'm careless",
      "my cravings creep further into my days unnoticed",
-     "left unwatched, my wanting grows and grows"
+     "my unwatched cravings keep spreading"
     ],
     "cues_added": [
      "my craving spreads like a creeper when I'm careless",
-     "the less attention I pay, the more my wanting grows",
+     "my wanting grows fastest when I'm careless",
      "my cravings creep further into my days unnoticed",
-     "left unwatched, my wanting grows and grows"
+     "my unwatched cravings keep spreading"
     ],
     "cites": [
      "tea:dhammapada:334"
@@ -7543,18 +7605,18 @@
     "marker": "Letting life slip by without attending to what matters (Dhp 21).",
     "cues": [
      "I let the days slip by without attending to what matters",
-     "I drift through the weeks without doing what matters",
+     "I drift through my days neglecting the important things",
      "I waste my days on trivial things",
-     "months go by and I never get to what's important",
+     "I let the months slip by unused",
      "I fritter away my time and neglect what counts",
-     "I'm careless with my days and the important things wait"
+     "I'm careless with my days"
     ],
     "cues_added": [
-     "I drift through the weeks without doing what matters",
+     "I drift through my days neglecting the important things",
      "I waste my days on trivial things",
-     "months go by and I never get to what's important",
+     "I let the months slip by unused",
      "I fritter away my time and neglect what counts",
-     "I'm careless with my days and the important things wait"
+     "I'm careless with my days"
     ],
     "cites": [
      "tea:dhammapada:21"
@@ -7621,13 +7683,13 @@
      "I keep losing track of what I'm doing",
      "I do things without noticing",
      "I go through my day on autopilot",
-     "I carry out whole tasks with my mind somewhere else",
+     "I do whole tasks with my mind elsewhere",
      "my awareness is muddled and I do things blindly",
      "I'm only half present in whatever I'm doing"
     ],
     "cues_added": [
      "I go through my day on autopilot",
-     "I carry out whole tasks with my mind somewhere else",
+     "I do whole tasks with my mind elsewhere",
      "my awareness is muddled and I do things blindly",
      "I'm only half present in whatever I'm doing"
     ],
@@ -7684,15 +7746,15 @@
     "cues": [
      "my mind feels shrunk in on itself",
      "my mind feels contracted and withdrawn",
-     "my mind pulls in on itself and narrows",
+     "my mind narrows and shrinks into itself",
      "my mind has shrunk into a small tight space",
-     "my mind is closed up and withdrawn"
+     "my mind is shut up and withdrawn"
     ],
     "cues_added": [
      "my mind feels contracted and withdrawn",
-     "my mind pulls in on itself and narrows",
+     "my mind narrows and shrinks into itself",
      "my mind has shrunk into a small tight space",
-     "my mind is closed up and withdrawn"
+     "my mind is shut up and withdrawn"
     ],
     "cites": [
      "tea:satipatthana-sutta:mn10:34"
@@ -7738,13 +7800,13 @@
      "my mind is scattered all over the place",
      "my mind is scattered in a dozen directions",
      "my thoughts are strewn everywhere",
-     "my mind is in pieces, going everywhere at once",
+     "my mind is in pieces, pulled in all directions",
      "my attention is split and scattered"
     ],
     "cues_added": [
      "my mind is scattered in a dozen directions",
      "my thoughts are strewn everywhere",
-     "my mind is in pieces, going everywhere at once",
+     "my mind is in pieces, pulled in all directions",
      "my attention is split and scattered"
     ],
     "cites": [
@@ -7861,16 +7923,16 @@
     "marker": "Seeing: looks long at even a slightly pleasing sight as if amazed, fastens on small virtues, overlooks real faults, leaves reluctantly.",
     "cues": [
      "I notice the good in things and hate to leave them",
-     "I gaze at lovely things as if amazed",
+     "I gaze at lovely things in amazement",
      "I fasten on small virtues and overlook real faults",
      "I linger over a beautiful sight and leave reluctantly",
-     "I see the best in people and miss their flaws"
+     "I overlook people's real flaws"
     ],
     "cues_added": [
-     "I gaze at lovely things as if amazed",
+     "I gaze at lovely things in amazement",
      "I fasten on small virtues and overlook real faults",
      "I linger over a beautiful sight and leave reluctantly",
-     "I see the best in people and miss their flaws"
+     "I overlook people's real flaws"
     ],
     "cites": [
      "tea:visuddhimagga:3.p106"
@@ -8030,16 +8092,16 @@
     "cues": [
      "I notice the faults first",
      "I'm quick to find what's wrong",
-     "I pick on small faults and ignore what is good",
+     "I pick on small faults and ignore the good",
      "I spot every little flaw and dismiss real merits",
-     "I turn away quickly from anything that displeases me",
-     "I leave places without a backward glance"
+     "I leave without a backward glance",
+     "I discount real virtues"
     ],
     "cues_added": [
-     "I pick on small faults and ignore what is good",
+     "I pick on small faults and ignore the good",
      "I spot every little flaw and dismiss real merits",
-     "I turn away quickly from anything that displeases me",
-     "I leave places without a backward glance"
+     "I leave without a backward glance",
+     "I discount real virtues"
     ],
     "cites": [
      "tea:visuddhimagga:3.p106"
@@ -8052,14 +8114,12 @@
      "I resent it when others do well",
      "I look down on people with contempt",
      "I'm envious when a colleague is praised",
-     "I like to dominate and get my way",
      "I begrudge sharing what I have",
      "resentment smoulders in me for weeks"
     ],
     "cues_added": [
      "I look down on people with contempt",
      "I'm envious when a colleague is praised",
-     "I like to dominate and get my way",
      "I begrudge sharing what I have",
      "resentment smoulders in me for weeks"
     ],
@@ -8183,13 +8243,13 @@
     "cues": [
      "I just go along with what others think",
      "I praise what others praise and blame what they blame",
-     "I echo whatever the people around me say",
+     "I echo the opinions of people around me",
      "I'm indifferent and borrow my views from others",
      "I take my likes and dislikes from the crowd"
     ],
     "cues_added": [
      "I praise what others praise and blame what they blame",
-     "I echo whatever the people around me say",
+     "I echo the opinions of people around me",
      "I'm indifferent and borrow my views from others",
      "I take my likes and dislikes from the crowd"
     ],
@@ -8306,13 +8366,13 @@
      "I like things done gracefully",
      "I handle my tasks gently and evenly",
      "I linger over lovely sights and leave them reluctantly",
-     "I notice small virtues in people and dwell on them",
+     "I dwell on people's small virtues",
      "I arrange things neatly and pleasingly"
     ],
     "cues_added": [
      "I handle my tasks gently and evenly",
      "I linger over lovely sights and leave them reluctantly",
-     "I notice small virtues in people and dwell on them",
+     "I dwell on people's small virtues",
      "I arrange things neatly and pleasingly"
     ],
     "cites": [
@@ -8325,17 +8385,17 @@
     "cues": [
      "I love to hear the teaching",
      "I feel glad when I meet good people",
-     "I give freely with an open hand",
-     "I long to meet holy people and hear them teach",
+     "I'm openhanded and generous",
+     "I seek out holy people",
      "I trust readily where trust is deserved",
-     "I'm glad-hearted and guileless with people",
+     "I'm guileless and glad at heart",
      "I'm drawn to hearing the true teaching"
     ],
     "cues_added": [
-     "I give freely with an open hand",
-     "I long to meet holy people and hear them teach",
+     "I'm openhanded and generous",
+     "I seek out holy people",
      "I trust readily where trust is deserved",
-     "I'm glad-hearted and guileless with people",
+     "I'm guileless and glad at heart",
      "I'm drawn to hearing the true teaching"
     ],
     "cites": [
@@ -8413,13 +8473,13 @@
      "I work briskly and firmly",
      "I spot faults quickly and move on",
      "I don't linger over pleasant sights",
-     "I leave places briskly without looking back"
+     "my work is brisk and firm"
     ],
     "cues_added": [
      "I work briskly and firmly",
      "I spot faults quickly and move on",
      "I don't linger over pleasant sights",
-     "I leave places briskly without looking back"
+     "my work is brisk and firm"
     ],
     "cites": [
      "tea:visuddhimagga:3.p105",
@@ -8554,13 +8614,13 @@
      "I plan all night and rush about all day",
      "I talk a lot and can't stick with anything",
      "I chatter endlessly and crave company",
-     "I scheme all night and rush around all day",
+     "I scheme by night and rush about by day",
      "I dislike steady good habits and drift between projects",
      "I love company and find quiet devotion dull"
     ],
     "cues_added": [
      "I chatter endlessly and crave company",
-     "I scheme all night and rush around all day",
+     "I scheme by night and rush about by day",
      "I dislike steady good habits and drift between projects",
      "I love company and find quiet devotion dull"
     ],
@@ -8618,18 +8678,18 @@
      "my duties leave no room to practise",
      "I'm always travelling",
      "my studies crowd out practice",
-     "family obligations take all the time I set aside for meditation",
+     "family obligations crowd out my meditation",
      "renovating the house crowds out my meditation",
      "constant travel keeps interrupting my meditation",
      "worry about money pulls my mind away from practice",
-     "managing my property takes the hours I need for prayer"
+     "managing my property crowds out my prayers"
     ],
     "cues_added": [
-     "family obligations take all the time I set aside for meditation",
+     "family obligations crowd out my meditation",
      "renovating the house crowds out my meditation",
      "constant travel keeps interrupting my meditation",
      "worry about money pulls my mind away from practice",
-     "managing my property takes the hours I need for prayer"
+     "managing my property crowds out my prayers"
     ],
     "cites": [
      "tea:visuddhimagga:3.p90"
@@ -8755,13 +8815,13 @@
      "the calm in my meditation convinces me I have arrived",
      "I take the joy I feel when meditating as proof of success",
      "I settle into the bright experiences as the goal itself",
-     "I'm sure these lights in meditation mean I've made it"
+     "I take the lights in meditation as a sign I've arrived"
     ],
     "cues_added": [
      "the calm in my meditation convinces me I have arrived",
      "I take the joy I feel when meditating as proof of success",
      "I settle into the bright experiences as the goal itself",
-     "I'm sure these lights in meditation mean I've made it"
+     "I take the lights in meditation as a sign I've arrived"
     ],
     "cites": [
      "tea:visuddhimagga:20.p637"
@@ -8898,18 +8958,20 @@
      "my kindness toward them has turned into clinging",
      "my compassion has become my own misery",
      "I call it equanimity but really I just don't care",
-     "my caring for a friend turns into possessiveness",
-     "helping others leaves me drowning in their sorrow",
-     "my love for them has turned possessive",
+     "my kindness turns possessive",
+     "my compassion drowns me in their sorrow",
+     "my affection has become possessive",
      "my sympathy turns into my own grief",
-     "my joy for others slides into chasing my own pleasures"
+     "my joy for others slides into chasing my own pleasures",
+     "my calm has become plain indifference"
     ],
     "cues_added": [
-     "my caring for a friend turns into possessiveness",
-     "helping others leaves me drowning in their sorrow",
-     "my love for them has turned possessive",
+     "my kindness turns possessive",
+     "my compassion drowns me in their sorrow",
+     "my affection has become possessive",
      "my sympathy turns into my own grief",
-     "my joy for others slides into chasing my own pleasures"
+     "my joy for others slides into chasing my own pleasures",
+     "my calm has become plain indifference"
     ],
     "cites": [
      "tea:visuddhimagga:9.p319"
@@ -9024,7 +9086,9 @@
      "my temper flares and I say things that aren't true",
      "in anger I exaggerate and twist the facts",
      "I lose my temper at the slightest delay",
-     "I shout in anger and say what I don't mean"
+     "I shout in anger and say hurtful things",
+     "I fume about it for hours",
+     "I snap at whoever speaks to me"
     ],
     "cues_added": [
      "I'm angry for days",
@@ -9032,7 +9096,9 @@
      "my temper flares and I say things that aren't true",
      "in anger I exaggerate and twist the facts",
      "I lose my temper at the slightest delay",
-     "I shout in anger and say what I don't mean"
+     "I shout in anger and say hurtful things",
+     "I fume about it for hours",
+     "I snap at whoever speaks to me"
     ],
     "cites": [
      "tea:tattvartha-sutra:8.9",
@@ -9170,19 +9236,21 @@
      "I felt I was above them",
      "I couldn't bear to bow to anyone",
      "I'm too proud to apologise",
-     "I bristle when nobody notices what I've done",
+     "I bristle when I'm overlooked",
      "I can't bear being corrected by someone junior",
-     "I rank myself above everyone I work with",
+     "I rank myself above the people I work with",
      "my pride is wounded when someone else is praised",
-     "I refuse to bow to anyone"
+     "I refuse to bow to anyone",
+     "I tell myself they don't deserve it"
     ],
     "cues_added": [
      "I'm too proud to apologise",
-     "I bristle when nobody notices what I've done",
+     "I bristle when I'm overlooked",
      "I can't bear being corrected by someone junior",
-     "I rank myself above everyone I work with",
+     "I rank myself above the people I work with",
      "my pride is wounded when someone else is praised",
-     "I refuse to bow to anyone"
+     "I refuse to bow to anyone",
+     "I tell myself they don't deserve it"
     ],
     "cites": [
      "tea:tattvartha-sutra:8.9"
@@ -9319,19 +9387,21 @@
      "I hid what I really meant",
      "I said one thing and did another",
      "I hide my real intentions from people",
-     "I tell little lies to cover my tracks",
-     "I show one face at work and another at home",
-     "I pretend to agree and quietly do what I like",
+     "I tell lies to cover my tracks",
+     "I show a false face at work",
+     "I pretend to agree and then go my own way",
      "I twist the truth to get my way",
-     "I smile and agree in meetings and then say the opposite"
+     "I smile and agree in meetings and then say the opposite",
+     "I hide my real wishes from my family"
     ],
     "cues_added": [
      "I hide my real intentions from people",
-     "I tell little lies to cover my tracks",
-     "I show one face at work and another at home",
-     "I pretend to agree and quietly do what I like",
+     "I tell lies to cover my tracks",
+     "I show a false face at work",
+     "I pretend to agree and then go my own way",
      "I twist the truth to get my way",
-     "I smile and agree in meetings and then say the opposite"
+     "I smile and agree in meetings and then say the opposite",
+     "I hide my real wishes from my family"
     ],
     "cites": [
      "tea:tattvartha-sutra:8.9"
@@ -9464,7 +9534,6 @@
    {
     "marker": "Greed, one of the four passions; TS 7.5 names giving up greed among the supports of the vow of truthfulness.",
     "cues": [
-     "I keep wanting more",
      "I can't give anything away",
      "I hoard money and can't bear to part with it",
      "I'm greedy for more money and things",
@@ -9746,14 +9815,14 @@
     "cues": [
      "I haven't made any commitment to stop doing harm",
      "I've taken no vow to refrain from harming",
-     "I tell lies freely and don't hold back",
-     "I take what isn't mine without restraint",
+     "I tell lies freely",
+     "I take others' belongings freely",
      "I don't restrain myself from harming or lying"
     ],
     "cues_added": [
      "I've taken no vow to refrain from harming",
-     "I tell lies freely and don't hold back",
-     "I take what isn't mine without restraint",
+     "I tell lies freely",
+     "I take others' belongings freely",
      "I don't restrain myself from harming or lying"
     ],
     "cites": [
@@ -9891,15 +9960,15 @@
     "cues": [
      "I keep thinking how to get rid of this situation",
      "I keep scheming how to get away from what I dislike",
-     "my mind returns again and again to escaping this unpleasant job",
+     "I fixate on escaping the unpleasant job",
      "I brood over how to be rid of what annoys me",
-     "I keep planning how to get rid of this person"
+     "I keep scheming to be rid of this unpleasant company"
     ],
     "cues_added": [
      "I keep scheming how to get away from what I dislike",
-     "my mind returns again and again to escaping this unpleasant job",
+     "I fixate on escaping the unpleasant job",
      "I brood over how to be rid of what annoys me",
-     "I keep planning how to get rid of this person"
+     "I keep scheming to be rid of this unpleasant company"
     ],
     "cites": [
      "tea:tattvartha-sutra:9.30"
@@ -9910,13 +9979,13 @@
     "cues": [
      "I can't stop thinking about getting back what I lost",
      "my mind fixes on regaining the comfort I had",
-     "I dwell on winning back the good times I lost",
+     "I dwell on regaining the good times I've lost",
      "I keep plotting to recover the pleasure I lost",
      "I pine for my old comforts and scheme to regain them"
     ],
     "cues_added": [
      "my mind fixes on regaining the comfort I had",
-     "I dwell on winning back the good times I lost",
+     "I dwell on regaining the good times I've lost",
      "I keep plotting to recover the pleasure I lost",
      "I pine for my old comforts and scheme to regain them"
     ],

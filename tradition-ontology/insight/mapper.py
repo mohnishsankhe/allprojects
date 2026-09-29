@@ -34,6 +34,7 @@ def _hypo_text(ctext: str, P: dict) -> str:
     """Clause text for the hypothetical test: habitual refusals ('my mind won't settle') and past regrets reported as
     a present habit ('I keep going over what I should have said') are not hypotheses (patterns._hypothetical_exceptions_note)."""
     t = P["habitual_refusal"].sub(" ", ctext) if "habitual_refusal" in P else ctext
+    t = re.sub(r"\b(?:ill|good|free|goodwill|ill-)\s*will\b", " ", t, flags=re.I)   # nouns, not the modal
     if "modal_perfect" in P and "present_habit" in P and P["present_habit"].search(ctext):
         t = P["modal_perfect"].sub(" ", t)
     return t

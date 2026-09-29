@@ -1,70 +1,48 @@
 {
  "bland_people": 24,
  "generic_threshold": "> 10% of 24 (>= 3 people)",
- "lint_failures": {
-  "dx:klesa-raga | when one craving fades another one takes its place": [
-   "not first person"
-  ],
-  "dx:guna-sattva | the discipline felt like a burden at first and now brings deep joy": [
-   "not first person"
-  ],
-  "dx:guna-sattva | what began as a struggle has turned into a quiet joy": [
-   "not first person"
-  ],
-  "dx:guna-sattva | the early effort was grim and the reward is a clear mind": [
-   "not first person"
-  ],
-  "dx:guna-rajas | the excitement of buying something fades into regret": [
-   "not first person"
-  ],
-  "dx:gita-kama-krodha | I act against my own better judgement as if pushed": [
-   "hypothetical: if"
-  ],
-  "dx:gita-kama-krodha | I'm pushed into wrongdoing against my own will": [
-   "hypothetical: will/won't"
-  ],
-  "dx:gita-asuri-sampad | I'm arrogant and sure I know better than everyone": [
-   "generic: everyone"
-  ],
-  "dx:gita-visada | everything spins inside me when I think of that duty": [
-   "hedge: I think"
-  ],
-  "dx:fetter-patigha | my anger at one person spills over onto everyone": [
-   "generic: everyone"
-  ],
-  "dx:carita-raga | I gaze at lovely things as if amazed": [
-   "hypothetical: if"
-  ],
-  "dx:carita-saddha | I'm glad-hearted and guileless with people": [
-   "fewer than 2 content stems: ['guileless']"
-  ],
-  "dx:kasaya-mana | I rank myself above everyone I work with": [
-   "generic: everyone"
-  ]
- },
- "cues_added_total": 452,
+ "lint_failures": {},
+ "partial_risk_warnings": [
+  "dx:antaraya-pramada | I've been meaning to start a practice | ['mean', 'start', 'practic']",
+  "dx:guna-tamas | I've been meaning to start for months | ['mean', 'start', 'month']",
+  "dx:gita-anger-chain | the more I dwell on it, the more I want it | ['dwell', 'want']",
+  "dx:gita-anger-chain | I dwell on the thing I saw until I have to have it | ['dwell', 'saw']",
+  "dx:gita-anger-chain | in my anger I forget everything I have learned | ['anger', 'forget', 'learn']",
+  "dx:gita-visada | I long for someone wise to guide me | ['long', 'wise', 'guid']",
+  "dx:gita-restless-mind | my thoughts run off | ['thought', 'run']",
+  "dx:gk-kasaya | my meditative calm is coloured by a hidden residue | ['medit', 'calm', 'colour', 'hidden', 'residu']",
+  "dx:katha-outward-senses | I never look within | ['look', 'within']",
+  "dx:katha-outward-senses | my attention is always outside me, never inward | ['attent', 'outsid', 'inward']",
+  "dx:nivarana-vicikiccha | my doubts about the teaching keep me from practising | ['doubt', 'teach', 'practic']",
+  "dx:nivarana-vicikiccha | doubt keeps me from committing to any practice | ['doubt', 'commit', 'practic']",
+  "dx:fetter-vicikiccha | I trust the teaching and then doubt it | ['trust', 'teach', 'doubt']",
+  "dx:fetter-kamaraga | my desire sticks to it and won't let go | ['desir', 'stick', 'let']",
+  "dx:fetter-mana | I'm better than the others | ['better', 'other']",
+  "dx:root-lobha | I can't let go of my house | ['let', 'hous']",
+  "dx:citta-sankhitta | my mind feels contracted and withdrawn | ['mind', 'contract', 'withdrawn']",
+  "dx:carita-moha | I echo the opinions of people around me | ['echo', 'opinion', 'around']",
+  "dx:carita-moha | I hold on to my opinions tenaciously | ['hold', 'opinion', 'tenaci']",
+  "dx:carita-saddha | I dwell on people's small virtues | ['dwell', 'small', 'virtu']",
+  "dx:kasaya-maya | I smile and agree in meetings and then say the opposite | ['smile', 'agre', 'meet', 'sai', 'opposit']",
+  "dx:jain-raudra-dhyana | I dwell with relish on getting back at them | ['dwell', 'relish', 'back']"
+ ],
+ "cues_added_total": 489,
  "cues_added_by_kind": {
-  "affliction": 56,
-  "fetter": 26,
-  "guna": 39,
-  "hindrance": 45,
-  "obstacle": 159,
-  "passion": 28,
+  "affliction": 64,
+  "fetter": 29,
+  "guna": 41,
+  "hindrance": 52,
+  "obstacle": 173,
+  "passion": 32,
   "state": 37,
-  "temperament": 62
+  "temperament": 61
  },
  "markers_with_added_cues": 102,
  "added_per_marker_min_max": [
   4,
-  6
+  8
  ],
  "user_facing_mappable_markers_without_added_cues": [
-  "dx:cittabhumi | In the distracted ground, samādhi is subordinate to distraction and do",
-  "dx:cittabhumi | In the one-pointed ground, samādhi lights up what truly is, weakens th",
-  "dx:gunatita | Not hating the play of the guṇas when present, not longing for it when",
-  "dx:gita-sthitaprajna | Unshaken in sorrow, without craving in pleasure, free of passion, fear",
-  "dx:gk-amanibhava | Neither dissolving nor scattering, without movement or appearance (GK ",
-  "dx:katha-yoga-state | The senses and mind at rest, understanding not stirring (KU 2.3.10).",
   "dx:carita-raga | Posture: walks gracefully, putting the foot down and lifting it slowly",
   "dx:carita-raga | Eating: likes rich, sweet food; eats unhurriedly in round mouthfuls, s",
   "dx:carita-dosa | Posture: walks as if digging with his toes, putting the foot down and ",
@@ -73,65 +51,11 @@
   "dx:carita-moha | Eating: has no fixed liking; eats in small uneven mouthfuls, dropping ",
   "dx:jain-arta-dhyana | The mind fixed on pain (TS 9.32)."
  ],
- "self_test_failures": [
-  "dx:carita-saddha | I'm glad-hearted and guileless with people | no direct item",
-  "dx:citta-vikkhitta | my mind is in pieces, going everywhere at once | no direct item",
-  "dx:fetter-patigha | a fierce hostility toward them flares up in me | ['R_OTHER_PERSON']",
-  "dx:gita-anger-chain | once I'm angry my good sense deserts me | ['R_GENERIC']",
-  "dx:gita-visada | everything spins inside me when I think of that duty | no direct item",
-  "dx:gita-visada | I'm lost and ready to be taught | ['R_GENERIC']",
-  "dx:jain-arta-dhyana | I dwell on winning back the good times I lost | ['R_GENERIC']",
-  "dx:klesa-abhinivesa | my own death frightens me even though I understand it | no direct item",
-  "dx:klesa-dvesa | the memory of how they hurt me makes me push them away | ['R_OTHER_PERSON']",
-  "dx:nivarana-byapada | hostile thoughts about someone break into my meditation | ['R_OTHER_PERSON']",
-  "dx:nivarana-thina-middha | I get bored halfway through my prayers and stretch lazily | ['R_GENERIC']",
-  "dx:pamada | months go by and I never get to what's important | no direct item",
-  "dx:root-dosa | my rage hurts me more than the person I'm angry at | ['R_GENERIC']",
-  "dx:root-dosa | when someone is cruel to me I hate them in return | ['R_OTHER_PERSON']",
-  "dx:root-moha | I'm confused about what is really happening to me | ['R_GENERIC']",
-  "dx:root-moha | I'm stuck in a web of muddled thinking | ['R_GENERIC']",
-  "dx:vism-brahmavihara-enemies | helping others leaves me drowning in their sorrow | ['R_OTHER_PERSON']",
-  "dx:vitarka-himsadi | thoughts of hitting back at them rise in me | ['R_OTHER_PERSON']"
- ],
+ "self_test_failures": [],
  "cues_firing_on_bland": {
-  "dx:katha-preyas | I always go for what feels good now": [
-   "bland-02",
-   "bland-07",
-   "bland-11",
-   "bland-13",
-   "bland-15",
-   "bland-20",
-   "bland-21"
-  ],
-  "dx:kasaya-lobha | I keep wanting more": [
-   "bland-02",
-   "bland-17",
-   "bland-19"
-  ],
-  "dx:klesa-abhinivesa | I just want to go on being": [
-   "bland-02",
-   "bland-17",
-   "bland-19"
-  ],
-  "dx:tanha | the more I get the more I want": [
-   "bland-02",
-   "bland-17",
-   "bland-19"
-  ],
-  "dx:gita-asuri-sampad | I look down on them": [
-   "bland-06",
-   "bland-15",
-   "bland-16"
-  ],
   "dx:guna-tamas | I keep putting it off": [
    "bland-04",
    "bland-05"
-  ],
-  "dx:guna-tamas | I keep neglecting what matters": [
-   "bland-07"
-  ],
-  "dx:katha-outward-senses | I go from one purchase to the next": [
-   "bland-08"
   ],
   "dx:antaraya-anavasthitatva | I can't stay where I got to": [
    "bland-13"
@@ -142,8 +66,14 @@
   "dx:root-lobha | it sticks to me": [
    "bland-17"
   ],
+  "dx:klesa-raga | I need whatever gets me that feeling": [
+   "bland-21"
+  ],
   "dx:vism-palibodha | I'm always travelling": [
    "bland-22"
+  ],
+  "dx:kasaya-maya | I said one thing and did another": [
+   "bland-24"
   ],
   "dx:mutthassati | I do things without noticing": [
    "bland-24"
@@ -151,28 +81,20 @@
  },
  "marker_text_firing_on_bland": {},
  "generic_added_cues": [],
- "generic_original_cues": [
-  "dx:kasaya-lobha | I keep wanting more | 3/24",
-  "dx:katha-preyas | I always go for what feels good now | 7/24",
-  "dx:klesa-abhinivesa | I just want to go on being | 3/24",
-  "dx:tanha | the more I get the more I want | 3/24",
-  "dx:gita-asuri-sampad | I look down on them | 3/24"
- ],
- "bland_mappings": {
-  "bland-15": [
-   [
-    "dx:gita-asuri-sampad",
-    "low"
-   ]
-  ]
- },
+ "generic_original_cues": [],
+ "bland_mappings": {},
  "dev": [
   {
    "id": "dev-01",
    "pattern": "attachment to a remembered pleasure",
-   "target_hit_after": false,
+   "target_hit_after": true,
    "target_hit_before": false,
-   "after": [],
+   "after": [
+    [
+     "dx:klesa-raga",
+     "moderate"
+    ]
+   ],
    "before": []
   },
   {
@@ -191,59 +113,78 @@
   {
    "id": "dev-03",
    "pattern": "the wandering mind at study or prayer",
-   "target_hit_after": false,
+   "target_hit_after": true,
    "target_hit_before": false,
-   "after": [],
+   "after": [
+    [
+     "dx:gita-restless-mind",
+     "moderate"
+    ]
+   ],
    "before": []
   },
   {
    "id": "dev-04",
    "pattern": "going back over the past with regret",
-   "target_hit_after": true,
-   "target_hit_before": true,
-   "after": [
-    [
-     "dx:nivarana-uddhacca-kukkucca",
-     "low"
-    ]
-   ],
-   "before": [
-    [
-     "dx:nivarana-uddhacca-kukkucca",
-     "low"
-    ]
-   ]
+   "target_hit_after": false,
+   "target_hit_before": false,
+   "after": [],
+   "before": []
   },
   {
    "id": "dev-05",
    "pattern": "wavering about the path",
-   "target_hit_after": false,
+   "target_hit_after": true,
    "target_hit_before": false,
-   "after": [],
+   "after": [
+    [
+     "dx:nivarana-vicikiccha",
+     "low"
+    ]
+   ],
    "before": []
   },
   {
    "id": "dev-06",
    "pattern": "pride when unnoticed",
-   "target_hit_after": false,
+   "target_hit_after": true,
    "target_hit_before": false,
-   "after": [],
+   "after": [
+    [
+     "dx:fetter-mana",
+     "low"
+    ],
+    [
+     "dx:kasaya-mana",
+     "low"
+    ]
+   ],
    "before": []
   },
   {
    "id": "dev-07",
    "pattern": "putting off what matters",
-   "target_hit_after": false,
+   "target_hit_after": true,
    "target_hit_before": false,
-   "after": [],
+   "after": [
+    [
+     "dx:antaraya-pramada",
+     "low"
+    ]
+   ],
    "before": []
   },
   {
    "id": "dev-08",
    "pattern": "holding on",
-   "target_hit_after": false,
+   "target_hit_after": true,
    "target_hit_before": false,
-   "after": [],
+   "after": [
+    [
+     "dx:root-lobha",
+     "low"
+    ]
+   ],
    "before": []
   },
   {
@@ -268,12 +209,13 @@
    "before": []
   }
  ],
- "dev_recall_after": "3/10",
- "dev_recall_before": "1/10",
+ "dev_recall_after": "8/10",
+ "dev_recall_before": "0/10",
  "dev_confidence_after": {
-  "none": 7,
-  "low": 3
+  "moderate": 2,
+  "low": 6,
+  "none": 2
  },
  "removed_this_run_list": [],
- "removed_total": 0
+ "removed_total": 6
 }

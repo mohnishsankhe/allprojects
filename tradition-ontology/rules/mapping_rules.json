@@ -835,7 +835,18 @@
       "tries",
       "tried",
       "really",
-      "always"
+      "always",
+      "what",
+      "who",
+      "which",
+      "one",
+      "every",
+      "another",
+      "else",
+      "between",
+      "whatever",
+      "doing",
+      "like"
     ],
     "stopwords_note": "Plus specificity.generic_lexicon. Negators are not content stems but are counted for polarity.",
     "derivations": {
@@ -943,6 +954,20 @@
         "forgetful",
         "forgot",
         "forgotten"
+      ],
+      "practice": [
+        "practise",
+        "practising",
+        "practised",
+        "practices",
+        "practicing",
+        "practiced"
+      ],
+      "pray": [
+        "prayer",
+        "prayers",
+        "praying",
+        "prayed"
       ]
     },
     "derivations_note": "Map each variant to its head word before stemming, so 'angry' and 'anger' share a stem. Extend only from words used in the entries' own markers and cues.",
@@ -1141,8 +1166,8 @@
   "entry_denylist": {
     "_how": "Match against the entry id and name, lowercased, diacritics folded. A match makes the entry not mappable (R_ENTRY_DENYLIST) but it stays in the layer. At build time every pattern must match >= 1 entry or be reported as unused, and every excluded entry is listed in the audit, so id drift is caught.",
     "attainment": {
-      "pattern": "samadhi|jhana|turiya|turya|nirodha|ekagra|niruddha|kevala|sotapan|sotapatti|sakadagam|anagam|arahant|arahat|arhat|jivanmukt|siddhi|nirvana|nibbana|moksa|moksha|mukti|kaivalya|dagdha|gunasthana|rupa-?raga|arupa-?raga",
-      "reason": "attainments and spiritual stages are never assigned to anyone from their words, and a person's own claim of one is data, not evidence"
+      "pattern": "samadhi|jhana|turiya|turya|nirodha|ekagra|niruddha|kevala|sotapan|sotapatti|sakadagam|anagam|arahant|arahat|arhat|jivanmukt|siddhi|nirvana|nibbana|moksa|moksha|mukti|kaivalya|dagdha|gunasthana|rupa-?raga|arupa-?raga|gunatita|sthitaprajna|amanibhava|katha-yoga-state|cittabhumi",
+      "reason": "attainments and spiritual stages are never assigned to anyone from their words, and a person's own claim of one is data, not evidence (Orchestrator 2026-09-29: the goal states guṇātīta, sthitaprajña, amanībhāva, the Kaṭha's yoga state and the cittabhūmi grounds are added: they describe goals or grounds never assigned from words.)"
     },
     "universal_by_text": {
       "pattern": "(?:^|[^a-z])(?:avidya|avijja)(?:[^a-z]|$)|sakkaya|satkaya",

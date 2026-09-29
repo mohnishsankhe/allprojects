@@ -138,6 +138,31 @@ BANNED = [
     ("we", re.compile(r"\b(?:we|us|our|ours|we're|we've)\b", re.I)),
     ("punctuation", re.compile(r"[?!\"“”]")),
 ]
+_EVERYDAY_WORDS = """mind thought thoughts work job day days week weeks month months year years night nights hour hours minute
+moment morning evening home house back still want wanted know think see look take give come find start stop end let put
+hold turn leave left sit pray prayer prayers meditate meditation practice practise study read reading book talk say said
+tell ask call help need like love enjoy happy calm quiet peace clear settle settled plan plans next first last new old
+long family friend friends colleague colleagues place right wrong better best what who which one other others real true
+sure run move open close way part show treat bring change follow meet mean ever away around inside whatever whenever
+little small big bad""".split()
+
+
+def everyday_stems(bland_texts: list) -> set:
+    out = {mapper.stem(w) for w in _EVERYDAY_WORDS if mapper.is_content(w)}
+    for t in bland_texts:
+        out |= set(mapper.content_stems(t))
+    return out
+
+
+def partial_risk(cue: str, everyday: set) -> bool:
+    """True if everyday words alone can reach this cue's partial-match threshold (mapper.tier_a: shared stems
+    >= max(2, ceil(0.6 k))). A warning for the author; the bland baseline decides."""
+    st = mapper.content_stems(cue)
+    k = len(st)
+    need = max(2, -(-3 * k // 5))
+    return sum(1 for s in st if s in everyday) >= need
+
+
 _WILL = re.compile(r"\bwill\b|\bwon't\b", re.I)
 _HABIT = re.compile(_R["habitual_refusal"], re.I)
 FIRST = re.compile(r"\b(?:i|i'm|i've|me|my|myself|mine)\b", re.I)
@@ -277,6 +302,10 @@ def main() -> int:
             if m.get("cues_added") and orig != (m.get("cues") or [])[:len(orig)]:
                 lint_fail[f"{e['id']} | order"] = ["original cues are not kept first"]
     rep["lint_failures"] = lint_fail
+    everyday = everyday_stems([text_of(json.loads(l)["answers"]) for l in BLAND.read_text("utf-8").splitlines() if l.strip()])
+    rep["partial_risk_warnings"] = [f"{e['id']} | {c} | {mapper.content_stems(c)}" for e in raw
+                                    for m in e.get("markers") or [] for c in m.get("cues_added") or []
+                                    if partial_risk(c, everyday)]
 
     # counts of added cues per kind / markers covered
     per_kind = collections.Counter()
@@ -390,6 +419,7 @@ def main() -> int:
     for k in show:
         print(k, json.dumps(rep.get(k), ensure_ascii=False))
     print("lint_failures", len(lint_fail), "| self_test_failures", len(self_fail),
+          "| partial_risk_warnings", len(rep["partial_risk_warnings"]),
           "| uf mappable markers without added cues", len(rep["user_facing_mappable_markers_without_added_cues"]))
     for x in dev_rep:
         print(" ", x["id"], x["pattern"], "| before:", x["before"], "| after:", x["after"])

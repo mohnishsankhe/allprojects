@@ -179,3 +179,9 @@ json.dump(report, open(f'{HERE}/build_report.json', 'w', encoding='utf-8'), ensu
 print(json.dumps({k: report[k] for k in ['entries', 'by_kind', 'by_lens', 'equivalences_total', 'reverse_equivalences_added', 'grades', 'cites_distinct', 'cites_resolved_in_data', 'cites_resolved_levels']}, ensure_ascii=False))
 print('not in data:', len(missing), '| px ids:', len(px), '| dropped refs:', len(dropped_refs), '| errors:', len(errors))
 for x in errors[:60]: print('ERR', x)
+
+# The P3 cue expansion (add_cues.py) must survive any rebuild of diagnosis.json.
+import subprocess as _sp, sys as _sys, os as _os
+_ac = _os.path.join(HERE, "add_cues.py")
+if _os.path.exists(_ac):
+    _sp.run([_sys.executable, _ac], check=True)
