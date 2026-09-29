@@ -13,7 +13,7 @@ _A plan for the human editor. The app posts nothing. Each account publishes only
 | 7 | long_video | pending | Yoga Sūtra of Patañjali 2.5 | 1. The scene (about 2 min). Points: Fifteen years in one role, and a letter ends it. Stay with the moment before judging |
 | 8 | x_post | pending | Taittirīya Upaniṣad ch2 | Asked 'who are you?', the answers start with name and job. The Taittirīya describes five selves, each within the last: o |
 | 9 | x_thread | pending | Katha Upaniṣad 1.3.3 | Pulled three ways by work, family and a half-finished plan. |
-| 10 | short_video | pending | Katha Upaniṣad 1.2.1-2 | [on screen: A choice between the safe offer and the one that feels right.] A choice between the safe offer and the one t |
+| 10 | short_video | pending | Katha Upaniṣad 1.2.1-2 | [on screen: A list of what the next ten years should bring, written on a quiet evening.] A list of what the next ten yea |
 | 11 | short_video | to draft | Visuddhimagga 20.p633 | Scene: At a party, someone asks, 'So, what do you do?' / Teaching: Formations appear ever new and short-lived, the Visuddhimagga says: like dew at sunrise, a bubble, a line drawn on water. |
 | 12 | x_post | to draft | Bhagavad Gītā 18.63 | Scene: A friend's life looks further along on the screen. / Teaching: Having taught the most secret knowledge, Kṛṣṇa tells Arjuna: reflect on it fully, then do as you wish. |
 | 13 | ig_carousel | to draft | Bhagavad Gītā 2.22 | Scene: A choice between the safe offer and the one that feels right. / Teaching: As one casts off worn-out clothes for new, the Gītā says, the embodied one passes from worn-out bodies to new ones. |

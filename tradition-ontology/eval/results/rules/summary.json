@@ -493,18 +493,18 @@
    "failing": []
   }
  },
- "run_at": "2026-09-29 20:19:35",
+ "run_at": "2026-09-29 20:23:36",
+ "content": {
+  "n": 50,
+  "claim_hits": 0,
+  "near_duplicates": 0,
+  "uncitable": 0
+ },
  "judge_packets": {
   "citation_sample": 14,
   "citation_pairs_total": 46,
   "swap_pairs": 2,
   "safety_adversarial": 22,
   "claims_review": 30
- },
- "content": {
-  "n": 50,
-  "claim_hits": 0,
-  "near_duplicates": 0,
-  "uncitable": 0
  }
 }

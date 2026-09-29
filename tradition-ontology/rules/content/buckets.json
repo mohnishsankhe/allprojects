@@ -1,5 +1,5 @@
 {
- "version": "2.2",
+ "version": "2.3",
  "_note": "Content engine pools (ENGINE_SPEC.md §14), P6 rework. Each teaching_pool item is written for ONE teaching and ONE scene and is used as a whole: 'tid' is the exact verse or passage (ontology.teaching(tid)['id'] == tid, citable); 'point' (<=25 words) is the teaching's own point; 'scene' (<=22 words) is the everyday scene written for it; 'link' (<=30 words) says how the teaching's point reads that scene; 'close_reading' (<=45 words, optional only for a single-line passage fully given in 'point') says what the passage says, from the verified paraphrase; 'closing' (<=12 words) is an invitation to reflect; 'x_link' (<=15 words) replaces 'link' on X when scene+point+link+closing+source line exceed 280 characters; 'difference' (<=20 words, optional) is the one-line self/no-self difference the voice guides ask for where space allows. The bucket 'scenes' list is used only for calendar suggestions. A passage (or its parallel, e.g. DN 22 / MN 10) appears in one pool only. 'never' lists bucket-specific bans on top of rules/forbidden_claims.json, rules/tone.md and rules/content/originality.md.",
  "buckets": [
   {
@@ -981,10 +981,11 @@
     {
      "tid": "tea:katha-upanisad:1.2.1-2",
      "point": "The good and the pleasant differ, the Kaṭha says; both come to a person, and the wise tell them apart.",
-     "scene": "A choice between the safe offer and the one that feels right.",
-     "link": "Neither comes labelled; the Upaniṣad asks that they be examined first.",
+     "scene": "A list of what the next ten years should bring, written on a quiet evening.",
+     "link": "The Kaṭha does not sort anyone's list; it says each of the two binds a person to its own aim.",
      "close_reading": "Yama tells Naciketas: the good (śreyas) is one thing, the pleasant (preyas) another; both bind a person. Both come to a person; the wise one examines and distinguishes them, and prefers the good. The fool chooses the pleasant for getting and keeping.",
-     "closing": "Which is which?"
+     "closing": "What is each item on the list for?",
+     "stops": "Where the text stops: it names the two and the wise one's preference; it does not say which item on a list is which."
     },
     {
      "tid": "tea:katha-upanisad:1.3.3",

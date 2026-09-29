@@ -199,3 +199,77 @@ The 9 passing posts include the P6 fixes, applied as asked:
 - The gate needs 50 of 50.
 - Passes per bucket: work 10, overthinking 10, sleep 10, loneliness 10, meaning 9.
 - The one remaining fix: retire YS 1.3, redraft L50 from another meaning item, and judge that one post.
+
+
+## Re-run 3 (P6)
+
+Judge: onto-judge (claude-opus-5-5), 2026-09-29.
+- Packet: `eval/judge/rules/content_review_new1.jsonl`, 1 replacement post. It is line 50 of the active packet `eval/judge/rules/content_review.jsonl`. Pool: `buckets.json` 2.2.
+- Verdict, evidence and fix: `eval/judge/content_verdicts_rerun3.jsonl`.
+- "Lnn" means line nn of the active 50-post packet.
+
+Checked by code:
+- Queue: 61 posts. The 50 pending ids equal the active packet. The 11 rejected are the 10 Re-run (P6) failures plus c625b423 (YS 1.3). Queue text equals packet text for all 50.
+- YS 1.3 is in no pool. KU 1.2.1-2 is in the meaning pool only.
+- The new post's queue parts equal a fresh render from its pool item.
+- Citation: `source_line(tid)` is printed once and exactly. `teaching(tid).id == tid`, and the teaching is citable (sourced). The tid and source line are unique among the 50.
+- claims.scan: 0 hits. Keyword scan (health, research, promise, prediction, destiny, calling, purpose, career): 0 hits. No "you will".
+- 5-gram Jaccard against the 49 others: max 0.214 (L46, shared template lines), and 0.135 within the meaning bucket. Max over all 50: 0.316 (L7/L32, unchanged).
+- Format: 6 beats and 123 spoken words; rules_check passes; the AI-label reminder is present.
+- The other 49 are unchanged:
+  - L41-49: post id, tid and text are byte-for-byte equal to the Re-run 2 packet (`content_review_new10.jsonl` lines 1-9). Only the `max_similarity` field of L46 and L47 moved (0.203 to 0.214 and 0.213), because the new L50 shares template lines with them.
+  - L1-40: ids, order, tid and source line match the 40 Re-run (P6) passes. The 113 fragments quoted in their evidence are all present, 24 length counts from their (e) notes match, and 32 recorded pair similarities recompute exactly.
+  - Not run: a byte-for-byte check of L1-40 against the Re-run (P6) packet, which was not kept. 38 of the 40 carry a length or similarity fingerprint; L9 and L35 carry only quoted fragments.
+
+Checked by reading:
+- The post against the paraphrase, the prepared segments KU 1.2.1-1.2.5, and these neighbours in `data/`: KU 1.1.20, 1.1.21-29, 1.2.4-6, 1.2.7-9; `cpt:sreyas-preyas`; `obs:preyas`.
+- Every line, including the bridge and the STOPS line, for truth of this verse.
+- The post against the 9 other meaning posts, for the same idea.
+
+Not run: on-screen timing; the model check (rules engine only). The 49 standing posts were not re-judged.
+
+| criterion (1 new post, L50 e9c6346a) | result |
+|---|---|
+| (a) cites faithfully | pass |
+| (b) no claims | pass |
+| (c) no near-duplicate / same idea | pass |
+| (d) idea-specific | **fail** |
+| (e) format/voice, note only | pass (notes) |
+
+### Failure and exact fix
+L50 e9c6346a, meaning short_video, KU 1.2.1-2 (d):
+- Every line is true of the verse:
+  - The point and close reading match 1.2.1-2 and the prepared text.
+  - "asks that they be examined first" is the normative sense of an indicative verse. The same tolerance was given to L35.
+  - The bridge and the default STOPS claim nothing false.
+- The failure is the fit to the scene. The scene is "A choice between the safe offer and the one that feels right." The closing, "Which is which?", asks which offer is the good and which the pleasant. The verse does not sort two worldly offers:
+  - Choosing for "getting and keeping" (yogakṣema) is the fool's reason (1.2.2), and that is what a safe offer is for.
+  - The pleasant is the wealth, land and long life that Naciketas refuses (1.1.21-29). The good is knowledge (1.2.4-6).
+  - The "pleasant-looking" desires are also what he cast off (1.2.3). So "the one that feels right" is not the good either.
+- Read beside "The fool chooses the pleasant for getting and keeping", the post steers a job choice: the safe offer is foolish, so follow what feels right. That is close to the meaning never-list (life-path and "your calling" framing; no telling a reader to leave work). It is the fault of P5 L46 and P6 L49.
+- Fix: stop pairing KU 1.2.1-2 with the offer scene. Either option below needs the new post judged.
+  - Option 1: rewrite the item. Word counts are within limits and the rendered post was checked by code: 145 words, 0 claims, max Jaccard 0.156. All four lines are new:
+    - scene: "A list of what the next ten years should bring, written on a quiet evening."
+    - link: "The Kaṭha does not sort anyone's list; it says each of the two binds a person to its own aim."
+    - closing: "What is each item on the list for?"
+    - stops: "Where the text stops: it names the two and the wise one's preference; it does not say which item on a list is which."
+  - Option 2: redraft the slot from an unused meaning item.
+
+(e) notes (not gating):
+- The close reading drops "with different aims" and the fruit that 1.2.1 states. An item `stops` line would be more exact than the default.
+- Naciketas is named, but his refusal of Yama's offers is not told.
+- The two Re-run 2 template fixes are now in the code: the difference line is rendered, and no bridge repeats STOPS.
+
+### Gate verdict: FAIL
+| criterion (50 active posts) | pass | fail |
+|---|---|---|
+| (a) cites faithfully | 50 | 0 |
+| (b) no claims | 50 | 0 |
+| (c) no near-duplicates / same idea | 50 | 0 |
+| (d) idea-specific | 49 | 1 |
+| **all of a–d** | **49** | **1** |
+| (e) format/voice, note only | 28 | 22 |
+
+- 49 of 50 active posts pass a–d: 40 from Re-run (P6), 9 from Re-run 2, and 0 of 1 here. The gate needs 50 of 50.
+- Passes per bucket: work 10, overthinking 10, sleep 10, loneliness 10, meaning 9.
+- The one remaining slot is L50 (meaning short_video). Fix KU 1.2.1-2 or redraft it from another item, then judge that one post.
