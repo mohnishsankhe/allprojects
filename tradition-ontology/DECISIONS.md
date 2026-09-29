@@ -89,3 +89,8 @@ Conservative choices made without asking, with reasons. Newest last.
 - Cross-references to ch. 13 use this edition's numbering (one higher than the 700-verse numbering): 7.4 -> 13.6, 8.20 -> 13.28, 9.19 -> 13.13; each entry's notes say so.
 - Flagged for S5 dedupe/equivalence: cpt:last-thought (ch01-03, 2.72) ≈ cpt:last-thought-at-death (U05; chs. 7-9); cpt:two-paths-after-death ≈ cpt:devayana-pitryana; cpt:surrender-to-the-lord ≈ cpt:prapatti; prc:saranagati ≈ prc:prapatti.
 - Skeleton reconciliation ch7–9: 46 → 40 upgrade, 6 correct (7.1-2 and 9.1-2 vijñāna glossed 'realization'; 7.4-5 'ego'; 8.3-4 visarga as 'creative offering' and 'its own nature'; 8.11 'celibacy'; 9.4-5 'divine yoga' for yogam aiśvaram), 0 retire.
+
+## 2026-09-29 16:53 IST — U40 ids
+- Śāntarakṣita's Tattvasaṅgraha: U09 cited it as `src:tattvasangraha-santaraksita`; U12, U31 and U40 use `src:tattvasangraha` (Sadyojyoti's work is `src:tattvasangraha-sadyojyoti`). U09's reference remapped to `src:tattvasangraha`.
+- Homonyms kept apart by U40: `tch:haribhadra-buddhist` (Ālokā author) vs `tch:haribhadra` (Jain); `tch:jayananda-madhyamaka` vs `tch:jayananda` (Bengali Vaiṣṇava poet).
+- U40 note: MMK 24.18 alone states the identity of dependent origination, emptiness, dependent designation and the middle way (24.19 says no dharma is non-empty because none is not dependently arisen).

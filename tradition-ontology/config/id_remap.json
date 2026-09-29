@@ -17,5 +17,8 @@
  },
  "skeleton:U34-jain-canon": {
   "dsp:kevali-bhukti": "dsp:kevalin-eats"
+ },
+ "skeleton:U09-samkhya": {
+  "src:tattvasangraha-santaraksita": "src:tattvasangraha"
  }
 }

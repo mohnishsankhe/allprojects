@@ -52,13 +52,13 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U37-abhidhamma-visuddhimagga | done | 16 lin · 80 src · 53 tch · 222 tea (109 Pali originals read locally) · 190 trm · 58 cpt · 81 prc · 20 dsp | report saved |
 | U38-early-schools | done | 31 lin · 85 src · 47 tch · 197 tea (114 AK kārikās quoted) · 181 trm · 62 cpt · 25 prc · 18 dsp · 50 brw | report saved |
 | U39-mahayana-sutras | done | 2 lin · 98 src · 53 tch · 265 tea (171 located locally, 91 originals) · 139 trm · 87 cpt · 38 prc · 8 dsp | report saved |
-| U40-madhyamaka | running (resumed) | | |
+| U40-madhyamaka | done | 4 lin · 70 src · 30 tch · 228 tea (105 MMK with GRETIL originals; 159 originals) · 124 trm · 76 cpt · 21 prc · 7 dsp | report saved |
 | U41-yogacara-pramana | running (resumed) | | |
 | U42-chan-zen | running | | |
 | U43-pure-land | running | | |
 | U44-indian-vajrayana | running | | |
 | U45-nyingma-bon | running | | |
-| U46-kagyu | queued | | |
+| U46-kagyu | running | | |
 | U47-sakya-kadam-gelug | queued | | |
 | U48-jonang-chod-medicine-rime | queued | | |
 | U49-cross-family | queued | | |
