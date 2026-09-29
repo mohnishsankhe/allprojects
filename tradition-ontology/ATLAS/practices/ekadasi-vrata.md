@@ -19,4 +19,4 @@ Fasting on the eleventh lunar day of both fortnights as the 'vow of Nārāyaṇa
 _Notes: The texts' own exemptions (for the sick, aged, etc.) were not checked; no warnings recorded._
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U06-other-gitas, skeleton:U16-bhedabheda, skeleton:U07-puranas, skeleton:U26-regional-bhakti, skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U06-other-gitas, skeleton:U16-bhedabheda, skeleton:U07-puranas, skeleton:U26-regional-bhakti, skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._

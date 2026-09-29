@@ -17,4 +17,4 @@ Shandao's hymns for the walking pratyutpanna practice, retelling the Contemplati
   - kind: original; name: Taishō T47n1981 (CBETA); licence: CBETA CC BY-NC-SA; url: https://cbetaonline.dila.edu.tw/T1981
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._

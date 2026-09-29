@@ -119,7 +119,7 @@ In the beginning this was brahman; it knew only itself: 'I am brahman' (ahaṃ b
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [brahman](../terms/brahman.md), [ātman](../terms/atman.md), [mahāvākya](../terms/mahavakya.md) · concepts: [The identity of the self and brahman](../concepts/atman-brahman-identity.md), [The four great sayings (mahāvākya)](../concepts/mahavakyas.md) · teachers: [Vāmadeva](../teachers/vamadeva.md), [Manu Vaivasvata](../teachers/manu-vaivasvata.md) · disputes: `dsp:souls-one-or-distinct`, [What does 'tat tvam asi' (Chāndogya Upaniṣad 6.8.7) teach — identity of soul and Brahman, or something else?](../debates/tat-tvam-asi.md)
+terms: [brahman](../terms/brahman.md), [ātman](../terms/atman.md), [mahāvākya](../terms/mahavakya.md) · concepts: [The identity of the self and brahman](../concepts/atman-brahman-identity.md), [The four great sayings (mahāvākya)](../concepts/mahavakyas.md) · teachers: [Vāmadeva](../teachers/vamadeva.md), [Manu Vaivasvata](../teachers/manu-vaivasvata.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md), [What does 'tat tvam asi' (Chāndogya Upaniṣad 6.8.7) teach — identity of soul and Brahman, or something else?](../debates/tat-tvam-asi.md)
 
 ### 1.4.11-15 <a id="tea-brhadaranyaka-upanisad-1-4-11-15"></a>
 `sourced` · confidence moderate
@@ -853,4 +853,4 @@ _Notes: Veda affiliation: White Yajurveda (Kāṇva and Mādhyandina recensions)
 
 - 2026-09-29 catalog+text-locate+websearch: confirmed — catalog:GRETIL-dev:brhadaranyaka-upanisad, text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/dcs/corpus/GRETIL/sa_bRhadAraNyakopaniSadkANva-recension-comm.txt (GRETIL Kāṇva BĀU with Śaṅkara's commentary), t — Confirmed: 6 adhyāyas and 47 brāhmaṇas (6+6+9+6+15+5) in the Kāṇva text. The Mādhyandina location is right: GRETIL ŚB 14.4.2 = BĀU 1.4 ('ātmaivedam agra āsīt puruṣavidhaḥ') and ŚB 14.9.4 ends with the vaṃśa. The horse passages (Kāṇva BĀU 1.1–2) stand elsewhere in the Mādhyandina ŚB. Scholarly dating fits Olivelle's chronology as reported on the web: BĀU and ChU pre-Buddhist, 7th–6th c. BCE; TU, AU and KauU probably pre-Buddhist, 6th–5th c. BCE; the verse Upaniṣads (Kena oldest, then Kaṭha, Īśa, Śvetāśvatara, Muṇḍaka) in the last few centuries BCE; Praśna and Māṇḍūkya not much older than the start of the common era. The tradition's account (śruti, authorless) is kept separately and not checked against scholarship.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._

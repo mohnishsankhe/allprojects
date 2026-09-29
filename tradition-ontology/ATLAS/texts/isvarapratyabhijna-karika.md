@@ -73,7 +73,7 @@ terms: [jñāna](../terms/jnana.md), [kriyā](../terms/kriya.md) · concepts: [T
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind_
 
-teachers: [Utpaladeva](../teachers/utpaladeva.md) · disputes: [Are there only momentary cognitions without an enduring subject, or is there one conscious knower - the Lord - whose powers of cognition, memory and exclusion make experience possible?](../debates/pratyabhijna-vs-buddhist-logicians.md), [Is there a self?](../debates/is-there-a-self.md)
+teachers: [Utpaladeva](../teachers/utpaladeva.md) · disputes: [Are there only momentary cognitions without an enduring subject, or is there one conscious knower - the Lord - whose powers of cognition, memory and exclusion make experience possible?](../debates/pratyabhijna-vs-buddhist-logicians.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 1.3.7 <a id="tea-isvarapratyabhijna-karika-1-3-7"></a>
 `skeleton` · confidence high
@@ -82,7 +82,7 @@ If Maheśvara, containing within himself the infinite forms of the universe, wer
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-terms: [apohana](../terms/apohana.md) · teachers: [Utpaladeva](../teachers/utpaladeva.md) · disputes: [Are there only momentary cognitions without an enduring subject, or is there one conscious knower - the Lord - whose powers of cognition, memory and exclusion make experience possible?](../debates/pratyabhijna-vs-buddhist-logicians.md), [Is there a self?](../debates/is-there-a-self.md)
+terms: [apohana](../terms/apohana.md) · teachers: [Utpaladeva](../teachers/utpaladeva.md) · disputes: [Are there only momentary cognitions without an enduring subject, or is there one conscious knower - the Lord - whose powers of cognition, memory and exclusion make experience possible?](../debates/pratyabhijna-vs-buddhist-logicians.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 1.4.3 <a id="tea-isvarapratyabhijna-karika-1-4-3"></a>
 `skeleton` · confidence high
@@ -91,7 +91,7 @@ The appearance of what is remembered is not possible if memory is separate [from
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: consciousness-mind, dispute_
 
-teachers: [Utpaladeva](../teachers/utpaladeva.md) · disputes: [Are there only momentary cognitions without an enduring subject, or is there one conscious knower - the Lord - whose powers of cognition, memory and exclusion make experience possible?](../debates/pratyabhijna-vs-buddhist-logicians.md), [Is there a self?](../debates/is-there-a-self.md)
+teachers: [Utpaladeva](../teachers/utpaladeva.md) · disputes: [Are there only momentary cognitions without an enduring subject, or is there one conscious knower - the Lord - whose powers of cognition, memory and exclusion make experience possible?](../debates/pratyabhijna-vs-buddhist-logicians.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 1.5.1 <a id="tea-isvarapratyabhijna-karika-1-5-1"></a>
 `skeleton` · confidence high
@@ -100,7 +100,7 @@ The manifestation of things appearing in the present as external is possible onl
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate_
 
-terms: [ābhāsa](../terms/abhasa.md) · concepts: [The doctrine of manifestation (ābhāsavāda)](../concepts/abhasavada.md) · teachers: [Utpaladeva](../teachers/utpaladeva.md) · disputes: `dsp:causation`
+terms: [ābhāsa](../terms/abhasa.md) · concepts: [The doctrine of manifestation (ābhāsavāda)](../concepts/abhasavada.md) · teachers: [Utpaladeva](../teachers/utpaladeva.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 1.5.11 <a id="tea-isvarapratyabhijna-karika-1-5-11"></a>
 `skeleton` · confidence high
@@ -160,7 +160,7 @@ Because He has infinite powers, He makes these things appear thus by his will; t
 
 _level: ultimate · standpoint: cosmic · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [kriyā](../terms/kriya.md), [ābhāsa](../terms/abhasa.md) · teachers: [Utpaladeva](../teachers/utpaladeva.md) · disputes: `dsp:causation`
+terms: [kriyā](../terms/kriya.md), [ābhāsa](../terms/abhasa.md) · teachers: [Utpaladeva](../teachers/utpaladeva.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 3.1.3 <a id="tea-isvarapratyabhijna-karika-3-1-3"></a>
 `skeleton` · confidence high
@@ -234,7 +234,7 @@ Maheśvara alone is the self of all beings, of the form of the universe, full of
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate_
 
-terms: [pūrṇāhantā](../terms/purnahanta.md) · teachers: [Utpaladeva](../teachers/utpaladeva.md) · disputes: `dsp:souls-one-or-distinct`
+terms: [pūrṇāhantā](../terms/purnahanta.md) · teachers: [Utpaladeva](../teachers/utpaladeva.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 4.12-13 <a id="tea-isvarapratyabhijna-karika-4-12-13"></a>
 `skeleton` · confidence high
@@ -276,4 +276,4 @@ teachers: [Utpaladeva](../teachers/utpaladeva.md)
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

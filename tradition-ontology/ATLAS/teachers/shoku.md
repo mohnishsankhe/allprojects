@@ -13,4 +13,4 @@
 Hōnen's disciple (who helped compile the Senchakushū), founder of the Seizan line.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._

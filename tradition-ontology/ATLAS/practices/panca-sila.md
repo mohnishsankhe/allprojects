@@ -16,4 +16,4 @@ Undertaking to abstain from killing, stealing, sexual misconduct, false speech a
 - partial: [The restraints (yama)](yama.md) — four of the five overlap with the yamas of YS 2.30; the Buddhist lists do not include the niyamas
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

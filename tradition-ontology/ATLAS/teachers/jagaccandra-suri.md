@@ -9,4 +9,4 @@
 Founder of the Tapā Gaccha, named for his austerities (1228).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._

@@ -28,4 +28,4 @@ _Notes: Initiatory name and guru's name checked in the Varivasyārahasya colopho
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:eBharati:kaula_anyopaniShat_cha_ekAdasho_bhAgaH, https://en.wikipedia.org/wiki/Bhaskararaya, https://en.wikipedia.org/wiki/Tripura_Upanishad, https://en.wikipedia.org/wiki/Bhavana_Upanishad — Confirmed: Bhāskararāya commented on the Kaula, Tripurā and Bhāvanā Upaniṣads (Wikipedia). The Kaula commentary is printed in Tantrik Texts XI (1922), which has a local eBhāratī copy.
 
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:02 IST._

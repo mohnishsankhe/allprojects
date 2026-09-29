@@ -25,4 +25,4 @@ A separate pradhāna for each puruṣa, all following the pradhāna of the great
 **Candidate readings:** P2-standpoint: cosmic prakṛti (one) vs individual prakṛti as each puruṣa's field of experience (many).
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._

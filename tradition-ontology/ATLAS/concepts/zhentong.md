@@ -17,5 +17,7 @@
 - same-as-under-standpoint → [The garbha empty and not empty](empty-and-not-empty-garbha.md) (Jonang reading of the Ratnagotravibhāga): the Jonang take RGV 1.154-155 literally as the doctrine of other-emptiness — rests on [1.154-155](../texts/ratnagotravibhaga.md#tea-ratnagotravibhaga-1-154-155), [ground](../texts/mountain-doctrine.md#tea-mountain-doctrine-ground)
 - part-of → [The Great Madhyamaka (dbu ma chen po)](great-madhyamaka.md) — rests on [definitive](../texts/mountain-doctrine.md#tea-mountain-doctrine-definitive)
 
+_Notes: Other-emptiness is also held, each in his own form, by Shākya Chokden (Sakya; tch:shakya-chokden), the 8th Situ (tch:situ-panchen) and Jamgön Kongtrul (Rimé); only the Jonang and Rimé definitions are given here._
+
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

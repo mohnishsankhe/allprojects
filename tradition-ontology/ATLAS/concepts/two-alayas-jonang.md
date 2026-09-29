@@ -16,4 +16,4 @@
 - contrasts-with → [The store-consciousness (ālaya-vijñāna)](alaya-vijnana.md): the Yogācāra store-consciousness is only the conventional ālaya for the Jonang — rests on [alaya](../texts/mountain-doctrine.md#tea-mountain-doctrine-alaya)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

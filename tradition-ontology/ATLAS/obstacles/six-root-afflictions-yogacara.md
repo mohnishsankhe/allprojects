@@ -12,4 +12,4 @@ Greed, aversion, delusion, conceit, (wrong) views and doubt.
   - [Triṃśikā (Triṃśikāvijñaptikārikā)](../texts/trimsika.md) — ref: 11-12; rests_on: ["tea:trimsika:10-14"]
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._

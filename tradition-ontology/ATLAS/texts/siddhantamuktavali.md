@@ -36,4 +36,4 @@ terms: [akṣara-brahman](../terms/aksara-brahman.md), [Puruṣottama](../terms/
 
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._

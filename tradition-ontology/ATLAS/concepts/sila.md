@@ -13,4 +13,4 @@
 - part-of → [The three trainings (tisso sikkhā)](three-trainings.md) — rests on [1.7-1.27](../texts/brahmajala-sutta.md#tea-brahmajala-sutta-1-7-1-27), [43-63](../texts/samannaphala-sutta.md#tea-samannaphala-sutta-43-63)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

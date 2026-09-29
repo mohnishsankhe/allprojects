@@ -17,4 +17,4 @@ Lying supine on the ground like a corpse (HYP 1.32; GS 2.19); the Dattātreyayog
 _Notes: Later 'yoga-nidrā' teachings built on this posture belong to recent lineages (U52)._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:02 IST._

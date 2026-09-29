@@ -14,4 +14,4 @@ The standard Siddha work on diagnosis and pathology, compiled from the classical
 _Notes: Compiler recalled as M. Caṇmukavēlu (low confidence)._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._

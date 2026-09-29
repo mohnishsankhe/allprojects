@@ -16,4 +16,4 @@
   - kind: original; name: V. P. Dvivedin (ed.), Sāṃkhyasaṅgrahaḥ, Chowkhamba Sanskrit Series 50, Varanasi 1920; GRETIL e-text; licence: GRETIL (reference/scholarly use only)
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._

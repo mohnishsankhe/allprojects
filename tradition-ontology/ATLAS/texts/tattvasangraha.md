@@ -22,7 +22,7 @@
   - kind: original; name: Tibetan: Derge D4266
 **Commentaries on this text:** [Tattvasaṅgraha-pañjikā](tattvasangraha-panjika.md)
 
-## Teachings (9: skeleton 9)
+## Teachings (10: skeleton 10)
 
 ### 1456 <a id="tea-tattvasangraha-1456"></a>
 `skeleton` · confidence high
@@ -53,6 +53,15 @@ _level: conventional · standpoint: polemical · path: knowledge · stage: inter
 
 concepts: [No other world (paraloka-abhāva)](../concepts/paraloka-denial.md) · teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [Does anything survive the body's death — is there another world and rebirth, or is consciousness a product of the body that ends with it?](../debates/materialism-and-the-other-world.md)
 
+### anumanapariksa-patrasvamin <a id="tea-tattvasangraha-anumanapariksa-patrasvamin"></a>
+`skeleton` · confidence moderate
+
+In the examination of inference Śāntarakṣita sets out and answers the view of the Jain Pātrasvāmin that the single mark of a valid reason is its 'otherwise-impossibility' (anyathānupapannatva): where it is present, what use are the three characteristics? where it is absent, what use are the three?
+
+_level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute_
+
+concepts: [The shared framework of means of knowledge and debate](../concepts/shared-pramana-framework.md) · teachers: [Śāntarakṣita](../teachers/santaraksita.md)
+
 ### atindriyarthadarsipariksa <a id="tea-tattvasangraha-atindriyarthadarsipariksa"></a>
 `skeleton` · confidence moderate
 
@@ -69,7 +78,7 @@ In the examination of the self, the selves of the Naiyāyikas, Mīmāṃsakas, S
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, consciousness-mind_
 
-concepts: [Madhyamaka's critique of the Vedānta](../concepts/madhyamaka-critique-of-vedanta.md) · teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Is there a person (pudgala) that is neither the same as nor different from the aggregates?](../debates/pudgala.md)
+concepts: [Madhyamaka's critique of the Vedānta](../concepts/madhyamaka-critique-of-vedanta.md) · teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Is there a person (pudgala) that is neither the same as nor different from the aggregates?](../debates/pudgala.md)
 
 ### isvarapariksa <a id="tea-tattvasangraha-isvarapariksa"></a>
 `skeleton` · confidence moderate
@@ -111,4 +120,4 @@ teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [Is the u
 _Notes: U12, U31 use this id; U09 used src:tattvasangraha-santaraksita for the same text — dedupe. Verse and chapter totals from memory (moderate)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana, skeleton:U33-sramana, skeleton:U31-sound-arts. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana, skeleton:U33-sramana, skeleton:U31-sound-arts. Generated 2026-09-29 18:02 IST._

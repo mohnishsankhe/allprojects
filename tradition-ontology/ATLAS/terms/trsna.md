@@ -20,4 +20,4 @@
 - exact: [taṇhā](tanha.md) — Sanskrit and Pali forms of the same canonical term; school definitions differ (see the per-lineage definitions).
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U41-yogacara-pramana, skeleton:U05-gita-epic, skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U41-yogacara-pramana, skeleton:U05-gita-epic, skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._

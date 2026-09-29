@@ -384,7 +384,7 @@ Knowledge (vijñāna) is what leads to the supreme Brahman to be reached; the se
 
 _level: ultimate · standpoint: absolute · path: knowledge, meditation · stage: realized · types: ultimate, karma-liberation_
 
-terms: [brahman](../terms/brahman.md), [avidyā](../terms/avidya.md) · disputes: `dsp:souls-one-or-distinct`
+terms: [brahman](../terms/brahman.md), [avidyā](../terms/avidya.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 6.7.100 <a id="tea-visnu-purana-6-7-100"></a>
 `skeleton` · confidence high
@@ -410,4 +410,4 @@ teachers: [Keśidhvaja](../teachers/kesidhvaja.md), [Khāṇḍikya Janaka](../t
 _Notes: Book 6 ch. 6-7: Keśidhvaja teaches Khāṇḍikya yoga; Book 2 ch. 13-16: Bharata and Ṛbhu-Nidāgha. verse number checked in the local e-text of the VP with the Viṣṇucittīya and Ātmaprakāśa commentaries (raw_etexts mAdhva-app)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._

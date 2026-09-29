@@ -24,7 +24,7 @@ Brahman, by transforming itself, is the material cause of the world; this transf
 
 _level: ultimate · standpoint: cosmic · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [avikṛta-pariṇāma](../terms/avikrta-parinama.md) · concepts: [Unmodified transformation (avikṛta-pariṇāma)](../concepts/avikrta-parinama.md), [Brahman's real transformation into the world (pariṇāma)](../concepts/brahma-parinama.md) · teachers: [Vallabhācārya (Śrī Vallabha, Mahāprabhujī)](../teachers/vallabha.md) · disputes: [Does Brahman itself transform into the world, and if so does it change?](../debates/brahma-parinama-vada.md), `dsp:causation`
+terms: [avikṛta-pariṇāma](../terms/avikrta-parinama.md) · concepts: [Unmodified transformation (avikṛta-pariṇāma)](../concepts/avikrta-parinama.md), [Brahman's real transformation into the world (pariṇāma)](../concepts/brahma-parinama.md) · teachers: [Vallabhācārya (Śrī Vallabha, Mahāprabhujī)](../teachers/vallabha.md) · disputes: [Does Brahman itself transform into the world, and if so does it change?](../debates/brahma-parinama-vada.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 3.2 <a id="tea-anubhasya-3-2"></a>
 `skeleton` · confidence low
@@ -39,4 +39,4 @@ terms: [viruddha-dharmāśraya](../terms/viruddha-dharmasraya.md) · concepts: [
 _Notes: The point at which Vallabha's portion ends (c. BS 3.2.33) is commonly stated; verify._
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._

@@ -22,4 +22,4 @@ Sitting upright in full or half lotus on a cushion, hands in the cosmic mudrā (
 - partial: [Samādhi as the eighth limb](samadhi.md) — Chan redefines seated meditation so as not to be a pursuit of absorption states.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

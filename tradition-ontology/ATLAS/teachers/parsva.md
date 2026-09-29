@@ -15,4 +15,4 @@ The twenty-third Tīrthaṅkara, emblem the serpent, son of King Aśvasena and Q
 _Notes: Historicity 'historical' reflects the common scholarly view that Pārśva was a real teacher; the dates are uncertain._
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._

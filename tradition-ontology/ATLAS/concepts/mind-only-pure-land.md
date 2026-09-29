@@ -21,4 +21,4 @@
 _Notes: Pure Land schools (U43) hold a different view of Amitābha's land; see also Ōbaku nenbutsu Zen._
 
 ---
-_Contributed by: skeleton:U43-pure-land, skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U43-pure-land, skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

@@ -20,4 +20,4 @@
 - same-as-under-standpoint → [Surrender (prapatti, śaraṇāgati)](prapatti.md) (devotional): analogous: total reliance on the saviour's vow / surrender to the Lord as the means; the Shinshū 'no calculation' resembles the Tenkalai 'cat' view — rests on [3](../texts/tannisho.md#tea-tannisho-3), [5](../texts/mattosho.md#tea-mattosho-5)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._

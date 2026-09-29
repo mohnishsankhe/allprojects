@@ -13,4 +13,4 @@
 The Victorious Uṣṇīṣa dhāraṇī given to the deva Supratiṣṭhita, destined for evil rebirths, which purifies all evil destinies; inscribed on pillars across Tang China.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._

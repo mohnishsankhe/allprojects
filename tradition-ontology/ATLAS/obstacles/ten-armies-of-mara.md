@@ -11,4 +11,4 @@ Sensual desire, discontent, hunger and thirst, craving, sloth and torpor, fear, 
   - [Sutta Nipāta](../texts/sutta-nipata.md) — ref: 3.2; rests_on: ["tea:sutta-nipata:3.2"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

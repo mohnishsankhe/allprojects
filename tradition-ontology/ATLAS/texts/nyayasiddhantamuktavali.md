@@ -16,7 +16,7 @@
 Viśvanātha's auto-commentary on the Bhāṣāpariccheda, the standard intermediate text of syncretic Nyāya-Vaiśeṣika in Navya-Nyāya idiom (e.g. its inference of a maker from the effecthood of earth, sprouts and the like).
 **Editions / translations:** 
   - kind: original; name: sanskrit/raw_etexts (github.com/sanskrit/raw_etexts) nyAya-shAstram/nyAya_siddhAnta_muktAvaliH_2_Tika.pdf.txt.md (OCR, with Dinakarī and Rāmarudrī); licence: see repository; url: https://github.com/sanskrit/raw_etexts
-**Commentaries on this text:** [Dinakarī](dinakari.md), [Rāmarudrī](ramarudri.md)
+**Commentaries on this text:** [Dinakarī (Muktāvalīprakāśa)](dinakari.md), [Rāmarudrī](ramarudri.md)
 
 ## Teachings (1: skeleton 1)
 
@@ -31,4 +31,4 @@ terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara in Nyāya-Vaiśeṣ
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._

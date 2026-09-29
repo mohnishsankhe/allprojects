@@ -15,4 +15,4 @@ Mānaveda's Sanskrit song-drama on Kṛṣṇa's life, modelled on the Gīta Gov
 _Notes: Lineage placement: Kerala temple performance tradition (lin:kerala-tantra, U08) as nearest available lineage._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:02 IST._

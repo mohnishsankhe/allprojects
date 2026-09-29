@@ -180,4 +180,4 @@ terms: [abhiṣeka](../terms/abhiseka.md) · teachers: [Virūpa](../teachers/vir
 _Notes: Found locally: catalog:Derge-Tengyur:D2284 (title in the index begins 'bla ma dam pa'i zhabs pad la btud de/ /lam 'bras gsung mdo bri bar'). Teaching refs in this unit are Derge folio.line._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._

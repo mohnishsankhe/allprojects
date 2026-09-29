@@ -18,4 +18,4 @@ One of the six 'feet': a commentary on the Saṅgīti-sūtra (parallel to DN 33)
 _Notes: Yaśomitra's list (Sphuṭārthā on AK 1.3, checked locally): Jñānaprasthāna – Kātyāyanīputra; Prakaraṇapāda – Vasumitra; Vijñānakāya – Devaśarman; Dharmaskandha – Śāriputra; Prajñaptiśāstra – Maudgalyāyana; Dhātukāya – Pūrṇa; Saṅgītiparyāya – Mahākauṣṭhila. Chinese attributions differ._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._

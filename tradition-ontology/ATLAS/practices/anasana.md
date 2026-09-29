@@ -18,4 +18,4 @@ Abstaining from food for a fixed period — from one meal or one day to long fas
 _Notes: Restricted: prolonged fasting — summary and the texts' warnings only; no durations or regimens recorded._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._

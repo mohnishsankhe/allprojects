@@ -24,7 +24,7 @@ The monk Sāti held that 'it is this same consciousness that runs and wanders th
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind_
 
-terms: [viññāṇa](../terms/vinnana.md) · teachers: [Sāti Kevaṭṭaputta](../teachers/sati-kevattaputta.md) · disputes: [Is it the same consciousness that runs and wanders through the rounds of rebirth?](../debates/consciousness-transmigrates.md), [Is there a self?](../debates/is-there-a-self.md)
+terms: [viññāṇa](../terms/vinnana.md) · teachers: [Sāti Kevaṭṭaputta](../teachers/sati-kevattaputta.md) · disputes: [Is it the same consciousness that runs and wanders through the rounds of rebirth?](../debates/consciousness-transmigrates.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 8-13 <a id="tea-mahatanhasankhaya-sutta-8-13"></a>
 `skeleton` · confidence high
@@ -66,4 +66,4 @@ terms: [gandhabba](../terms/gandhabba.md) · concepts: [Rebirth](../concepts/reb
 _Notes: SuttaCentral uid mn38; Mahāsaṅgīti title 'Mahātaṇhāsaṅkhayasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

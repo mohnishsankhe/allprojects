@@ -24,4 +24,4 @@ Bṛhaspati asks Prajāpati Manu about the highest knowledge; Manu teaches that 
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.194.2-3 Bṛhaspati asks Manu; speaker 'manu' at 12.195.1, 12.196.1, 12.197.1, 12.198.1, 12.199.1 — Section located at CE 12.194-199 as entered; speakers and topic confirmed by keyword search. (Listed as least sure in the unit REPORT.) Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._

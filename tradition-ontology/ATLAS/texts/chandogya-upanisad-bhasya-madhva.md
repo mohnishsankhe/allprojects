@@ -24,10 +24,10 @@ one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of al
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: dispute, ultimate_
 
-terms: [bheda](../terms/bheda.md), [jīva](../terms/jiva.md) · concepts: ['Atat tvam asi' — Dvaita's reading of Chāndogya 6.8.7](../concepts/atat-tvam-asi.md) · obstacles: [The conceit of identity with God](../obstacles/abheda-buddhi.md), [Arrogance (stabdhatā)](../obstacles/stabdhata.md), [Reliance on bare reasoning](../obstacles/kevala-tarka.md) · disputes: [What does 'tat tvam asi' (Chāndogya Upaniṣad 6.8.7) teach — identity of soul and Brahman, or something else?](../debates/tat-tvam-asi.md), `dsp:souls-one-or-distinct`, `dsp:world-real-or-appearance`
+terms: [bheda](../terms/bheda.md), [jīva](../terms/jiva.md) · concepts: ['Atat tvam asi' — Dvaita's reading of Chāndogya 6.8.7](../concepts/atat-tvam-asi.md) · obstacles: [The conceit of identity with God](../obstacles/abheda-buddhi.md), [Arrogance (stabdhatā)](../obstacles/stabdhata.md), [Reliance on bare reasoning](../obstacles/kevala-tarka.md) · disputes: [What does 'tat tvam asi' (Chāndogya Upaniṣad 6.8.7) teach — identity of soul and Brahman, or something else?](../debates/tat-tvam-asi.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md), [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 
 _Notes: checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions_
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._

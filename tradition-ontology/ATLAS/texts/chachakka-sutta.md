@@ -24,7 +24,7 @@ If anyone says 'the eye is self' that is not tenable, for the arising and passin
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, dispute_
 
-terms: [anattā](../terms/anatta.md) · concepts: [Not-self (anattā)](../concepts/anatta.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [anattā](../terms/anatta.md) · concepts: [Not-self (anattā)](../concepts/anatta.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 28-39 <a id="tea-chachakka-sutta-28-39"></a>
 `skeleton` · confidence high
@@ -39,4 +39,4 @@ terms: [anusaya](../terms/anusaya.md) · obstacles: [The seven latent tendencies
 _Notes: SuttaCentral uid mn148; Mahāsaṅgīti title 'Chachakkasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

@@ -18,4 +18,4 @@
 **Related:** [manas](manas.md), [ālaya-vijñāna](alaya-vijnana.md), [ātma-dṛṣṭi](atma-drsti.md), [ātma-moha](atma-moha.md), [ātma-māna](atma-mana.md), [ātma-sneha](atma-sneha.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._

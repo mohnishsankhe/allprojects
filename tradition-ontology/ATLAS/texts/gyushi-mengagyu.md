@@ -23,7 +23,7 @@ Madness and loss of memory arise from disturbed nyepa, from grief and worry, fro
 
 _level: conventional · standpoint: causal · path: general, ritual · stage: all · types: consciousness-mind, body-layers_
 
-terms: [gdon (dön)](../terms/don-spirit.md) · obstacles: `obs:don-spirit-harm`
+terms: [gdon (dön)](../terms/don-spirit.md) · obstacles: [Spirit harm (gdon)](../obstacles/don-spirit-harm.md)
 
 ### rejuvenation <a id="tea-gyushi-mengagyu-rejuvenation"></a>
 `skeleton` · confidence low
@@ -32,7 +32,7 @@ The closing chapters teach rejuvenation (bcud len) — regimens and essences tha
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: all · types: practice, body-layers_
 
-terms: [bcud len](../terms/chulen.md), [ro tsa](../terms/rotsa.md) · concepts: [Rejuvenation (rasāyana)](../concepts/rasayana.md) · practices: `prc:chulen`
+terms: [bcud len](../terms/chulen.md), [ro tsa](../terms/rotsa.md) · concepts: [Rejuvenation (rasāyana)](../concepts/rasayana.md) · practices: [Essence extraction (bcud len)](../practices/chulen.md)
 
 ### rlung-disorders <a id="tea-gyushi-mengagyu-rlung-disorders"></a>
 `skeleton` · confidence low
@@ -41,8 +41,8 @@ Rlung is the mount of the mind and the mover of the other nyepa; its disorders s
 
 _level: conventional · standpoint: analytic · path: body-breath · stage: all · types: body-layers, consciousness-mind_
 
-terms: [rlung](../terms/lung.md), [srog 'dzin (rlung)](../terms/sogdzin-lung.md) · concepts: [Rlung as the mount of the mind](../concepts/rlung-and-mind.md) · practices: `prc:kunye` · obstacles: `obs:rlung-disorder`
+terms: [rlung](../terms/lung.md), [srog 'dzin (rlung)](../terms/sogdzin-lung.md) · concepts: [Rlung as the mount of the mind](../concepts/rlung-and-mind.md) · practices: [Kunye (bsku mnye) oil massage](../practices/kunye.md) · obstacles: [Rlung disorders](../obstacles/rlung-disorder.md)
 
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

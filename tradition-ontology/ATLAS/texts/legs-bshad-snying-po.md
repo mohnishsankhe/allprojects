@@ -53,10 +53,10 @@ The ultimate truth is the mere absence of inherent existence — a non-affirming
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-terms: [rang stong (rangtong)](../terms/rangtong.md), [prasajya-pratiṣedha](../terms/prasajya-pratisedha.md) · concepts: [Self-emptiness (rang stong)](../concepts/rangtong.md), [The emptiness of emptiness](../concepts/emptiness-of-emptiness.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
+terms: [rang stong](../terms/rangtong.md), [prasajya-pratiṣedha](../terms/prasajya-pratisedha.md) · concepts: [Self-emptiness (rang stong)](../concepts/rangtong.md), [The emptiness of emptiness](../concepts/emptiness-of-emptiness.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
 
 
 _Notes: Shared id with U41 (its Wylie-based slug kept to avoid a duplicate)._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._

@@ -23,8 +23,8 @@ The opening topic refutes the inferences that claim to prove falsity ('the world
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, world-fate_
 
-terms: [mithyātva](../terms/mithyatva.md) · concepts: [The reality of the world (jagat-satyatva)](../concepts/jagat-satyatva.md) · teachers: [Jayatīrtha](../teachers/jayatirtha.md) · disputes: `dsp:world-real-or-appearance`
+terms: [mithyātva](../terms/mithyatva.md) · concepts: [The reality of the world (jagat-satyatva)](../concepts/jagat-satyatva.md) · teachers: [Jayatīrtha](../teachers/jayatirtha.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._

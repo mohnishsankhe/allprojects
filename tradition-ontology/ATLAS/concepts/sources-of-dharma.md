@@ -17,4 +17,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/yajnavalkya-smrti_plain_text.md (GRETIL),  — MDh 2.6 and 2.12 (vedaḥ smṛtiḥ sadācāraḥ svasya ca priyam ātmanaḥ) were found. YS 1.7 adds 'samyaksaṃkalpajaḥ kāmaḥ'. ĀpDh 1.1.1.2 has 'dharmajñasamayaḥ pramāṇam'. Rests on teaching checks confirmed in this sweep: tea:manusmrti:2.6, tea:manusmrti:2.12-13, tea:yajnavalkyasmrti:1.7-8.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

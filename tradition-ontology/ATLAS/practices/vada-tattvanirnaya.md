@@ -13,4 +13,4 @@ Debate aimed only at ascertaining the truth, as between teacher and disciple, fo
 _Notes: The maṭha disputations (e.g. during the Cāturmāsya) are recalled, not verified._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._

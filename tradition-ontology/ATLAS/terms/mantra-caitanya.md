@@ -13,4 +13,4 @@
 - partial: [mantravīrya](mantravirya.md) — the Śaiva 'potency of mantra' (Śiva Sūtra 1.22, 2.3)
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:02 IST._

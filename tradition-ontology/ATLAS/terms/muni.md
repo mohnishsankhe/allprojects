@@ -30,4 +30,4 @@
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.6, tea:bhagavad-gita:5.28, tea:bhagavad-gita:6.3 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.26, tea:bhagavad-gita:10.37, tea:bhagavad-gita:12.19 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U01-vedic-samhitas, extraction:bhagavad-gita/ch01-03, skeleton:U36-pali-suttas, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U35-jain-philosophy, skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, extraction:bhagavad-gita/ch01-03, skeleton:U36-pali-suttas, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U35-jain-philosophy, skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._

@@ -17,4 +17,4 @@ Ascetic practices that torment the body — early-morning (cold) bathing, fastin
 - partial: [Clinging to rules (niyamagraha)](niyamagraha.md) — Brahmānanda explains niyamāgraha (HYP 1.15) as cold bathing at dawn, eating at night, eating only fruit — the same mortifications the Gorakṣa verse (HYP 1.61) forbids.
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:02 IST._

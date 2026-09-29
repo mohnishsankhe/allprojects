@@ -12,4 +12,4 @@
 Keśava Kāśmīrin's sub-commentary on the Vedāntakaustubha, the school's most extensive Brahma Sūtra exposition.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._

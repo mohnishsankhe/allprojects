@@ -41,4 +41,4 @@ U40 contribution (as the Vigrahavyāvartanī's objector puts it): things are est
 _Notes: The identification of NS 2.1.8–19's opponent with Nāgārjuna is a scholarly hypothesis; the Nyāya commentators do not name him._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._

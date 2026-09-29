@@ -34,7 +34,7 @@ The own form of Brahman is pure being, without particulars, beyond speech and mi
 
 _level: ultimate · standpoint: absolute · path: knowledge, meditation · stage: advanced · types: ultimate_
 
-concepts: [Worship of Brahman in the Mahānirvāṇa](../concepts/brahman-worship-mahanirvana.md) · disputes: `dsp:world-real-or-appearance`
+concepts: [Worship of Brahman in the Mahānirvāṇa](../concepts/brahman-worship-mahanirvana.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 3.92 <a id="tea-mahanirvana-tantra-3-92"></a>
 `skeleton` · confidence high
@@ -183,4 +183,4 @@ concepts: [The Kaula/Śākta avadhūta](../concepts/kaula-avadhuta.md)
 
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._

@@ -18,7 +18,7 @@ The Buddha, on Mount Malaya in Laṅkā, answers the bodhisattva Mahāmati: all 
 **Editions / translations:** 
   - kind: original; name: ed. P. L. Vaidya, BST 3 1963 (after B. Nanjio 1923); licence: GRETIL (reference use); url: https://gretil.sub.uni-goettingen.de/gretil.html#Buddh
 
-## Teachings (13: skeleton 13)
+## Teachings (14: skeleton 14)
 
 ### 2 <a id="tea-lankavatara-sutra-2"></a>
 `skeleton` · confidence moderate
@@ -76,9 +76,20 @@ Mahāmati asks whether the tathāgatagarbha — described as luminous, pure, wit
 
 > na hi mahāmate tīrthakarātmavādatulyo mama tathāgatagarbhopadeśaḥ
 
-_level: bridging · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
+_level: bridging · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute, consciousness-mind_
 
-terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [ātman](../terms/atman.md), [nairātmya](../terms/nairatmya.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md), [Buddha-nature called 'self'](../concepts/tathagatagarbha-as-self.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), [Empty of self, or empty of other?](../debates/rangtong-shentong.md), [Is there a self?](../debates/is-there-a-self.md)
+terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [ātman](../terms/atman.md), [nairātmya](../terms/nairatmya.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md), [Buddha-nature called 'self'](../concepts/tathagatagarbha-as-self.md), [Buddha-nature and the Upaniṣadic self: the question of likeness](../concepts/tathagatagarbha-and-atman.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), [Empty of self, or empty of other?](../debates/rangtong-shentong.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
+
+### 2.p33/2 <a id="tea-lankavatara-sutra-2-p33-2"></a>
+`skeleton` · confidence high
+
+The Buddha answers: my teaching of the tathāgatagarbha is not like the tīrthakaras' doctrine of self. The Tathāgatas teach the tathāgatagarbha as a name for emptiness, the limit of reality, nirvāṇa, the unborn, the signless and the wishless, so that the foolish may give up their fear of selflessness; bodhisattvas should not cling to it as a self. As a potter makes many vessels from one lump of clay, the Tathāgatas teach the one selflessness of dharmas by various means — as the 'womb' or as selflessness — and they teach the tathāgatagarbha to attract the tīrthakaras who cling to a self.
+
+> na hi mahāmate tīrthakarātmavādatulyo mama tathāgatagarbhopadeśaḥ
+
+_level: bridging · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind, ultimate_
+
+concepts: [Buddha-nature and the Upaniṣadic self: the question of likeness](../concepts/tathagatagarbha-and-atman.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md)
 
 ### 2.p41 <a id="tea-lankavatara-sutra-2-p41"></a>
 `skeleton` · confidence high
@@ -157,4 +168,4 @@ concepts: [The four yogic stages (Laṅkāvatāra)](../concepts/four-yogic-stage
 _Notes: Locator: chapter.pPAGE (Vaidya's page). Chapter colophons and cited passages read in the local e-text._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._

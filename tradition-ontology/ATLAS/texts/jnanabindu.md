@@ -27,4 +27,4 @@ concepts: [Omniscience (kevala-jñāna)](../concepts/kevala-jnana.md) · teacher
 
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._

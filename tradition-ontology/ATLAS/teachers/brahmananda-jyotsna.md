@@ -15,4 +15,4 @@ Author of the Jyotsnā, the standard Sanskrit commentary on the Haṭhapradīpik
 _Notes: Not the Advaitin Gauḍa Brahmānanda Sarasvatī (tch:brahmananda-sarasvati)._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:02 IST._

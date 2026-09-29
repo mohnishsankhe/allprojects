@@ -11,4 +11,4 @@ Sādhanas of the eight heruka classes, singly or gathered in one maṇḍala (as
   - [Kagye Deshek Düpa (bka' brgyad bde gshegs 'dus pa, the Gathering of the Sugatas of the Eight Pronouncements)](../texts/kagye-deshek-dupa.md) — 
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._

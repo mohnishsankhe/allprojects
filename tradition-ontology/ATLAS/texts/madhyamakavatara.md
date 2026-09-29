@@ -109,7 +109,7 @@ Seeing with wisdom that all afflictions and faults arise from the view of the tr
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: intermediate · types: practice, consciousness-mind_
 
-terms: [satkāyadṛṣṭi](../terms/satkayadrsti.md) · practices: [The sevenfold reasoning (chariot analysis)](../practices/sevenfold-reasoning.md) · obstacles: [The view of the transitory collection](../obstacles/satkayadrsti.md) · teachers: [Candrakīrti](../teachers/candrakirti.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [satkāyadṛṣṭi](../terms/satkayadrsti.md) · practices: [The sevenfold reasoning (chariot analysis)](../practices/sevenfold-reasoning.md) · obstacles: [The view of the transitory collection](../obstacles/satkayadrsti.md) · teachers: [Candrakīrti](../teachers/candrakirti.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 6.151-160 <a id="tea-madhyamakavatara-6-151-160"></a>
 `skeleton` · confidence moderate
@@ -118,7 +118,7 @@ The chariot is not other than its parts, nor identical with them, nor possessing
 
 _level: ultimate · standpoint: analytic · path: knowledge, meditation · stage: intermediate · types: practice, ultimate_
 
-concepts: [The sevenfold analysis of the chariot](../concepts/sevenfold-chariot-analysis.md), [The self as a dependent designation](../concepts/self-as-dependent-designation.md), [Dependent designation (upādāya prajñapti)](../concepts/upadaya-prajnapti.md) · practices: [The sevenfold reasoning (chariot analysis)](../practices/sevenfold-reasoning.md) · teachers: [Candrakīrti](../teachers/candrakirti.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [The sevenfold analysis of the chariot](../concepts/sevenfold-chariot-analysis.md), [The self as a dependent designation](../concepts/self-as-dependent-designation.md), [Dependent designation (upādāya prajñapti)](../concepts/upadaya-prajnapti.md) · practices: [The sevenfold reasoning (chariot analysis)](../practices/sevenfold-reasoning.md) · teachers: [Candrakīrti](../teachers/candrakirti.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 6.179-223 <a id="tea-madhyamakavatara-6-179-223"></a>
 `skeleton` · confidence low
@@ -133,4 +133,4 @@ concepts: [The twenty (sixteen, eighteen) emptinesses](../concepts/twenty-emptin
 _Notes: Chapter structure beyond ch.10 and total verse count from memory (moderate)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._

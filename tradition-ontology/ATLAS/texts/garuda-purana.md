@@ -156,4 +156,4 @@ concepts: [The classification of Purāṇas by the guṇas](../concepts/guna-cla
 _Notes: Ācārakāṇḍa 1.142: the ten avatāras; 1.235-239 (approx.): brahma-jñāna, ātma-jñāna, Gītāsāra, Brahmagītāsāra; Pretakalpa 2.38.5: the seven liberating cities; Brahmakāṇḍa 3.1: its own sāttvika/rājasa/tāmasa grading of the Purāṇas. verse number checked in the GRETIL/Sansknet e-text of the Garuḍa Purāṇa (Venkateshwara ed.; Pretakalpa cited as 2.chapter.verse)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._

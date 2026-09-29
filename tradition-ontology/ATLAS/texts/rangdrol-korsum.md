@@ -13,4 +13,4 @@
 Longchenpa's trilogy on the self-liberation of mind, of reality and of equality (sems nyid, chos nyid, mnyam nyid rang grol), mind-series style instructions with practice guides.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._

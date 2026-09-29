@@ -15,4 +15,4 @@ Knowing oneself as the witness of the elements, body and mind, separating from t
 - The practice of samādhi itself is called bondage from the absolute standpoint (1.15). — [Aṣṭāvakra Gītā](../texts/astavakra-gita.md) 1.15
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._

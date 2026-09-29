@@ -49,4 +49,4 @@ concepts: [The Mahāvidyās as the ten avatāras](../concepts/mahavidya-avatara-
 
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._

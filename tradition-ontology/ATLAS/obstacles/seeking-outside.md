@@ -13,4 +13,4 @@ Seeking buddha, Dharma or liberation outside one's own mind — 'using the buddh
   - [Essentials of the Transmission of Mind (Chuanxin fayao)](../texts/chuanxin-fayao.md) — ref: 379c18; rests_on: ["tea:chuanxin-fayao:379c18"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

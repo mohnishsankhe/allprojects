@@ -12,4 +12,4 @@
 A thousand names of Kṛṣṇa compiled by Vallabha from the Bhāgavata, arranged by its narrative.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._

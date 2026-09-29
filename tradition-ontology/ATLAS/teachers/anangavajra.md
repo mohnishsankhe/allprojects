@@ -11,4 +11,4 @@
 Author of the Prajñopāyaviniścayasiddhi; disciple of Padmavajra per the siddhi-text lineage.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._

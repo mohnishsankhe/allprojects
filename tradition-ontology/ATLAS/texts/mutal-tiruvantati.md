@@ -37,4 +37,4 @@ terms: [saulabhya](../terms/saulabhya.md), [arcā / arcāvatāra](../terms/arca.
 
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:02 IST._

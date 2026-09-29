@@ -24,4 +24,4 @@ The book of Bhīṣma: a cosmography of the earth, Vyāsa's gift of divine sight
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_6.json (BORI Critical Edition text) book 6: 117 chapters — Book 6 has exactly 117 chapters in the local Critical Edition text, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._

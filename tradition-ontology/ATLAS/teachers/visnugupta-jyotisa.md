@@ -10,4 +10,4 @@ Named with Devasvāmin and Siddhasena as having taught a longevity method (BJ 7.
 _Notes: Known only from citations in Varāhamihira and his commentators._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._

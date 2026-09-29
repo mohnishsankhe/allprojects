@@ -55,9 +55,9 @@ The strand of Mahāyāna sūtras and treatises teaching that every sentient bein
 _none recorded_
 
 ## Debates
-[Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), [Can all beings attain buddhahood, or are there beings (icchantikas, those without lineage) who never will?](../debates/can-all-beings-attain-buddhahood.md)
+[Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), [Can all beings attain buddhahood, or are there beings (icchantikas, those without lineage) who never will?](../debates/can-all-beings-attain-buddhahood.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 _Notes: Status 'absorbed': not an independent institutional lineage; the teaching lives on in the Chinese, Korean, Japanese and Tibetan schools listed in transmissions_given._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._

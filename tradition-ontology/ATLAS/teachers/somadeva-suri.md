@@ -14,4 +14,4 @@ Digambara author of the Yaśastilaka (959) including its Upāsakādhyayana, and 
 _Notes: Distinct from tch:somadeva-rasa (another unit's alchemist)._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._

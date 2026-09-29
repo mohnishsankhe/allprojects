@@ -17,4 +17,4 @@
 - same-as-under-standpoint → [The middle way as true examination of dharmas (Kāśyapaparivarta, Samādhirāja)](middle-way-mahayana.md): the same middle between 'is' and 'is not' — rests on [15.7](../texts/mulamadhyamakakarika.md#tea-mulamadhyamakakarika-15-7)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._

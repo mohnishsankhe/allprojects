@@ -12,4 +12,4 @@ Anger destroys the merit accumulated over thousands of aeons; there is no evil e
   - [Bodhicaryāvatāra](../texts/bodhicaryavatara.md) — ref: 6.1-2; rests_on: ["tea:bodhicaryavatara:6.1-2"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._

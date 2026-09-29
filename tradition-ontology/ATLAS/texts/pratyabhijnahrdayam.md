@@ -19,7 +19,7 @@ Kṣemarāja's primer of the Pratyabhijñā in 20 sūtras with his own commentar
   - kind: original; name: Kashmir Series of Texts and Studies (KSTS), Srinagar 3 (1911)
   - kind: translation; name: Jaideva Singh, Pratyabhijñāhṛdayam (1963) - reference only
 
-## Teachings (20: skeleton 20)
+## Teachings (22: skeleton 22)
 
 ### 1 <a id="tea-pratyabhijnahrdayam-1"></a>
 `skeleton` · confidence high
@@ -30,7 +30,7 @@ Consciousness, free, is the cause of the establishment of the universe.
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [citi](../terms/citi.md), [svātantrya](../terms/svatantrya.md) · concepts: [Freedom of consciousness (svātantrya)](../concepts/svatantrya.md) · teachers: [Kṣemarāja](../teachers/ksemaraja.md) · disputes: `dsp:world-real-or-appearance`, `dsp:causation`
+terms: [citi](../terms/citi.md), [svātantrya](../terms/svatantrya.md) · concepts: [Freedom of consciousness (svātantrya)](../concepts/svatantrya.md) · teachers: [Kṣemarāja](../teachers/ksemaraja.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 2 <a id="tea-pratyabhijnahrdayam-2"></a>
 `skeleton` · confidence high
@@ -41,7 +41,7 @@ By her own will she unfolds the universe on her own screen.
 
 _level: ultimate · standpoint: cosmic · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [ābhāsa](../terms/abhasa.md) · concepts: [The doctrine of manifestation (ābhāsavāda)](../concepts/abhasavada.md) · teachers: [Kṣemarāja](../teachers/ksemaraja.md) · disputes: `dsp:world-real-or-appearance`, `dsp:causation`
+terms: [ābhāsa](../terms/abhasa.md) · concepts: [The doctrine of manifestation (ābhāsavāda)](../concepts/abhasavada.md) · teachers: [Kṣemarāja](../teachers/ksemaraja.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 3 <a id="tea-pratyabhijnahrdayam-3"></a>
 `skeleton` · confidence high
@@ -108,6 +108,28 @@ The positions of all philosophies are stages (roles) of it.
 _level: bridging · standpoint: polemical · path: knowledge · stage: all · types: dispute_
 
 concepts: [The hierarchy of revelations](../concepts/scriptural-hierarchy.md) · teachers: [Kṣemarāja](../teachers/ksemaraja.md)
+
+### 8/2 <a id="tea-pratyabhijnahrdayam-8-2"></a>
+`skeleton` · confidence high
+
+(Commentary:) the tenets of all philosophies, from the Cārvākas on, are roles assumed at will by the one self, like an actor's: the Cārvākas take the body qualified by consciousness as the self; the Naiyāyikas and others a self that is practically the intellect, and in liberation practically a void; the Mīmāṃsakas also rest in the intellect; the Buddhists (saugata), who hold the stream of cognitions to be reality, end in the activities of the intellect; some Vedāntins take breath as the self, others rest in the void or in the Lord-principle; the Mādhyamikas likewise; the Pāñcarātrikas cling to the unmanifest; the Sāṃkhyas stand on a level like that of the vijñānākalas; the grammarians rest at the level of Sadāśiva; the Tāntrikas hold the self transcendent, the Kula systems immanent, the Trika both. All these are stages of the one conscious Lord, differing by the degree to which his freedom is concealed or revealed.
+
+> sarveṣāṃ cārvākādidarśanānāṃ sthitayaḥ siddhāntāḥ tasya etasya ātmano naṭasyeva svecchāvagṛhītāḥ kṛtrimā bhūmikāḥ | … viśvottīrṇam ātmatattvam iti tāntrikāḥ | viśvamayam iti kulādyāmnāyaniviṣṭāḥ | viśvottīrṇaṃ viśvamayaṃ ca iti trikādidarśanavidaḥ |
+
+_level: bridging · standpoint: polemical · path: knowledge · stage: all · types: dispute, ultimate_
+
+concepts: [Placing the other schools as lower stages of one's own](../concepts/doxographic-ranking-of-schools.md), [The hierarchy of revelations](../concepts/scriptural-hierarchy.md) · teachers: [Kṣemarāja](../teachers/ksemaraja.md) · disputes: [How is another family's revelation to be placed — as a lower stage of one's own, as a deliberate delusion, as a subdued power, or as a partial standpoint?](../debates/ranking-of-other-revelations.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), `dsp:saguna-nirguna`
+
+### 8/3 <a id="tea-pratyabhijnahrdayam-8-3"></a>
+`skeleton` · confidence high
+
+(Commentary, citing the āgamas:) 'The Buddhists abide in the intellect-principle, the Ārhatas (Jains) in the qualities, the knowers of the Veda in the Person, the Pāñcarātrikas in the unmanifest.'
+
+> buddhitattve sthitā bauddhā guṇeṣv evārhatāḥ sthitāḥ / sthitā vedavidaḥ puṃsi avyakte pāñcarātrikāḥ
+
+_level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute_
+
+concepts: [Placing the other schools as lower stages of one's own](../concepts/doxographic-ranking-of-schools.md) · teachers: [Kṣemarāja](../teachers/ksemaraja.md) · disputes: [How is another family's revelation to be placed — as a lower stage of one's own, as a deliberate delusion, as a subdued power, or as a partial standpoint?](../debates/ranking-of-other-revelations.md)
 
 ### 9 <a id="tea-pratyabhijnahrdayam-9"></a>
 `skeleton` · confidence high
@@ -245,4 +267,4 @@ terms: [pūrṇāhantā](../terms/purnahanta.md), [mantravīrya](../terms/mantra
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

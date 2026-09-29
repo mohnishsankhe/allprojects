@@ -16,4 +16,4 @@ A vow taken for life or a set term: after the virajā fire-offering the ash is t
 - partial: [Bathing in ash (bhasmasnāna)](bhasmasnana.md) — both are ash-observances named pāśupata; the Purāṇas distinguish this Vedic form from the non-Vedic Pāśupata scriptures
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:02 IST._

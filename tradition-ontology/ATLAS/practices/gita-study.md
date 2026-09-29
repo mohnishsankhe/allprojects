@@ -15,4 +15,4 @@ Studying the dialogue is worship of the Lord by the sacrifice of knowledge; hear
 - It is not to be told to one without austerity or devotion, who does not wish to hear, or who speaks ill of the Lord. — [Bhagavad Gītā](../texts/bhagavad-gita.md) 18.67
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._

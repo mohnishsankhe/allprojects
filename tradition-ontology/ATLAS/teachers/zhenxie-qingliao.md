@@ -10,4 +10,4 @@
 Caodong master in the Song, ancestor of Rujing's line; scholars suggest he may be among those Dahui criticised for 'silent illumination'.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

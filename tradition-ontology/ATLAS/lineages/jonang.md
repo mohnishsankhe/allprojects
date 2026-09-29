@@ -52,15 +52,15 @@ A Tibetan school centred on the Kālacakra tantra and on the view of 'other-empt
 [Bamda Gelek Gyatso ('ba' mda' dge legs rgya mtsho)](../teachers/bamda-gelek-gyatso.md), [Buddhaguptanātha](../teachers/buddhaguptanatha.md), [Changsem Gyalwa Yeshe (byang sems rgyal ba ye shes)](../teachers/changsem-gyalwa-yeshe.md), [Bodong Chogle Namgyal (bo dong phyogs las rnam rgyal)](../teachers/chogle-namgyal.md), [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md), [Jamgön Kongtrul Lodrö Thayé ('jam mgon kong sprul blo gros mtha' yas)](../teachers/jamgon-kongtrul.md), [Jonang Lotsawa Lodrö Pal (jo nang lo tsA ba blo gros dpal)](../teachers/jonang-lotsawa-lodro-pal.md), [Jetsün Kunga Drolchok (rje btsun kun dga' grol mchog)](../teachers/kunga-drolchok.md), [Künpang Thukje Tsöndrü (kun spangs thugs rje brtson 'grus)](../teachers/kunpang-thukje-tsondru.md), [Sabzang Mati Paṇchen Lodrö Gyaltsen (sa bzang ma ti paN chen blo gros rgyal mtshan)](../teachers/mati-panchen.md), [Ngawang Lodrö Drakpa (ngag dbang blo gros grags pa)](../teachers/ngawang-lodro-drakpa.md), [Nyabön Kunga Pal (nya dbon kun dga' dpal)](../teachers/nyabon-kunga-pal.md), [Somanātha (zla ba mgon po), the Kashmiri paṇḍita](../teachers/somanatha-kashmiri.md), [Tāranātha (Jetsün Kunga Nyingpo, rje btsun kun dga' snying po)](../teachers/taranatha.md), [Khetsün Yönten Gyatso (mkhas btsun yon tan rgya mtsho) of Jonang](../teachers/yonten-gyatso-jonang.md), [Yumo Mikyö Dorje (yu mo mi bskyod rdo rje)](../teachers/yumo-mikyo-dorje.md), [Öndör Gegeen Zanabazar, the first Jebtsundamba Khutughtu](../teachers/zanabazar.md)
 
 ## Practices
-_none recorded_
+[The preliminaries of the Jonang vajra-yoga](../practices/jonang-kalacakra-preliminaries.md)
 
 ## Path maps
 `pth:kalacakra-six-branches`
 
 ## Debates
-[Which turning of the dharma-wheel is of definitive meaning (nītārtha): the teaching of emptiness (second) or the 'well-distinguished' teaching of the three natures and of buddha-nature (third)?](../debates/which-turning-is-definitive.md)
+[Is the Kālacakra an authentic Buddhist tantra — and, for the Jonang, the definitive one?](../debates/kalacakra-authenticity.md), [Which turning of the dharma-wheel is of definitive meaning (nītārtha): the teaching of emptiness (second) or the 'well-distinguished' teaching of the three natures and of buddha-nature (third)?](../debates/which-turning-is-definitive.md)
 
-_Notes: Historical metadata (scholarly account): the conversion of Takten Phuntsok Ling (renamed Ganden Phuntsok Ling) and the sealing of Jonang printing blocks are usually dated c. 1650–1658, after Tāranātha's death; the reasons given in the sources are both doctrinal and political (Tāranātha's patrons were the Tsang rulers defeated in 1642). Exact years: moderate confidence._
+_Notes: Historical metadata (scholarly account): the conversion of Takten Phuntsok Ling (renamed Ganden Phuntsok Ling) and the sealing of Jonang printing blocks are usually dated c. 1650–1658, after Tāranātha's death; the reasons given in the sources are both doctrinal and political (Tāranātha's patrons were the Tsang rulers defeated in 1642). Exact years: moderate confidence. Forms of other-emptiness were also held outside the Jonang — by the Sakya scholar Shākya Chokden (tch:shakya-chokden, who accepted both self- and other-emptiness Madhyamaka as valid), the 8th Situ (tch:situ-panchen) and Jamgön Kongtrul (tch:jamgon-kongtrul); these are referenced, not merged into the Jonang view._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

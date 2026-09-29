@@ -21,4 +21,4 @@
 **Related:** [agotra](agotra.md), [prakṛtistha-gotra](prakrtistha-gotra.md), [samudānīta-gotra](samudanita-gotra.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U39-mahayana-sutras, skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U39-mahayana-sutras, skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._

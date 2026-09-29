@@ -10,4 +10,4 @@
 Śiva's consort, the questioner in the Adhyātma Rāmāyaṇa (her doubt why the supreme Rāma grieved for Sītā, 1.1.13-15) and in the Guru Gītā; in Śākta texts identified with the Goddess who herself teaches (Devī Gītā, Bhagavatī Gītā).
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:02 IST._

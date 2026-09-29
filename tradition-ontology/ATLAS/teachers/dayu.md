@@ -9,4 +9,4 @@
 Heir of Guizong; at his words Linji awoke and exclaimed 'there isn't much to Huangbo's buddha-dharma'.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

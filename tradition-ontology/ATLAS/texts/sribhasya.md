@@ -53,7 +53,7 @@ The great prior view (mahāpūrvapakṣa), stated by Rāmānuja on behalf of the
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: ultimate, dispute_
 
-teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: `dsp:world-real-or-appearance`, `dsp:saguna-nirguna`, [Is Advaita's avidyā — beginningless, indescribable, located in and concealing Brahman — tenable?](../debates/avidya-saptavidha-anupapatti.md)
+teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), `dsp:saguna-nirguna`, [Is Advaita's avidyā — beginningless, indescribable, located in and concealing Brahman — tenable?](../debates/avidya-saptavidha-anupapatti.md)
 
 ### 1.1.1/5 <a id="tea-sribhasya-1-1-1-5"></a>
 `skeleton` · confidence high
@@ -71,7 +71,7 @@ Consciousness (anubhūti) is not the self: it belongs to someone and is of somet
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: [aham-artha](../terms/aham-artha.md), [dharmabhūta-jñāna](../terms/dharmabhuta-jnana.md) · concepts: [The 'I' is the self (aham-artha)](../concepts/aham-artha.md), [Attributive consciousness (dharmabhūta-jñāna)](../concepts/dharmabhuta-jnana.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: `dsp:souls-one-or-distinct`
+terms: [aham-artha](../terms/aham-artha.md), [dharmabhūta-jñāna](../terms/dharmabhuta-jnana.md) · concepts: [The 'I' is the self (aham-artha)](../concepts/aham-artha.md), [Attributive consciousness (dharmabhūta-jñāna)](../concepts/dharmabhuta-jnana.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 1.1.1/7 <a id="tea-sribhasya-1-1-1-7"></a>
 `skeleton` · confidence high
@@ -80,7 +80,7 @@ Avidyā as the Advaitins conceive it is untenable in seven ways (saptavidha-anup
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, ultimate_
 
-terms: [saptavidha-anupapatti](../terms/saptavidha-anupapatti.md), [avidyā](../terms/avidya.md) · concepts: [The seven untenables of Advaita's avidyā](../concepts/saptavidha-anupapatti.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is Advaita's avidyā — beginningless, indescribable, located in and concealing Brahman — tenable?](../debates/avidya-saptavidha-anupapatti.md), `dsp:world-real-or-appearance`
+terms: [saptavidha-anupapatti](../terms/saptavidha-anupapatti.md), [avidyā](../terms/avidya.md) · concepts: [The seven untenables of Advaita's avidyā](../concepts/saptavidha-anupapatti.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is Advaita's avidyā — beginningless, indescribable, located in and concealing Brahman — tenable?](../debates/avidya-saptavidha-anupapatti.md), [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 1.1.1/8 <a id="tea-sribhasya-1-1-1-8"></a>
 `skeleton` · confidence high
@@ -152,7 +152,7 @@ Brahman is the material cause (prakṛti) as well as the efficient cause, for on
 
 _level: ultimate · standpoint: causal · path: knowledge · stage: all · types: ultimate, world-fate_
 
-concepts: [Brahman's real transformation into the world (pariṇāma)](../concepts/brahma-parinama.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is Brahman (God) the material cause of the world, or only its efficient cause?](../debates/brahman-material-cause.md), `dsp:causation`
+concepts: [Brahman's real transformation into the world (pariṇāma)](../concepts/brahma-parinama.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is Brahman (God) the material cause of the world, or only its efficient cause?](../debates/brahman-material-cause.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 2.1.9 <a id="tea-sribhasya-2-1-9"></a>
 `skeleton` · confidence moderate
@@ -170,7 +170,7 @@ The world as effect is non-different from Brahman its cause (tad-ananyatvam), as
 
 _level: ultimate · standpoint: causal · path: knowledge · stage: all · types: ultimate, world-fate, dispute_
 
-concepts: [Brahman's real transformation into the world (pariṇāma)](../concepts/brahma-parinama.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: `dsp:world-real-or-appearance`, `dsp:causation`
+concepts: [Brahman's real transformation into the world (pariṇāma)](../concepts/brahma-parinama.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 2.2.35 <a id="tea-sribhasya-2-2-35"></a>
 `skeleton` · confidence moderate
@@ -215,7 +215,7 @@ The self is a part (aṃśa) of Brahman — not a piece cut off, but as an attri
 
 _level: ultimate · standpoint: substance · path: knowledge · stage: all · types: ultimate_
 
-terms: [prakāra](../terms/prakara.md), [viśeṣaṇa](../terms/visesana.md) · concepts: [Qualified non-dualism (viśiṣṭādvaita)](../concepts/qualified-non-dualism.md), [Inseparable existence (apṛthak-siddhi)](../concepts/aprthak-siddhi.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: `dsp:souls-one-or-distinct`
+terms: [prakāra](../terms/prakara.md), [viśeṣaṇa](../terms/visesana.md) · concepts: [Qualified non-dualism (viśiṣṭādvaita)](../concepts/qualified-non-dualism.md), [Inseparable existence (apṛthak-siddhi)](../concepts/aprthak-siddhi.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 3.2 <a id="tea-sribhasya-3-2"></a>
 `skeleton` · confidence high
@@ -296,7 +296,7 @@ Reaching the highest light, the self manifests its own true nature (svena rūpe�
 
 _level: ultimate · standpoint: experiential · path: devotion, knowledge · stage: realized · types: karma-liberation_
 
-terms: [svarūpa-āvirbhāva](../terms/svarupa-avirbhava.md), [mokṣa](../terms/moksa.md) · concepts: [Liberation (mokṣa) in Dvaita](../concepts/moksa.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: `dsp:souls-one-or-distinct`
+terms: [svarūpa-āvirbhāva](../terms/svarupa-avirbhava.md), [mokṣa](../terms/moksa.md) · concepts: [Liberation (mokṣa) in Dvaita](../concepts/moksa.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 4.4/2 <a id="tea-sribhasya-4-4-2"></a>
 `skeleton` · confidence moderate
@@ -338,4 +338,4 @@ terms: [brahman](../terms/brahman.md), [bhakti](../terms/bhakti.md), [Śriyaḥp
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._

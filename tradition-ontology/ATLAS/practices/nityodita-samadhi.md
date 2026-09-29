@@ -12,4 +12,4 @@ In the emergence from samādhi, while its impressions remain, reflecting again a
   - [Pratyabhijñāhṛdaya](../texts/pratyabhijnahrdayam.md) — ref: 19; rests_on: ["tea:pratyabhijnahrdayam:19"]
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

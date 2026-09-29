@@ -13,4 +13,4 @@ A noble person enters the fruition of his attainment, with nibbāna as object, r
   - [Abhidhammatthasaṅgaha](../texts/abhidhammatthasangaha.md) — ref: 9; rests_on: ["tea:abhidhammatthasangaha:9/3"]
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._

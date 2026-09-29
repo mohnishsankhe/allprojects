@@ -12,4 +12,4 @@ Bhagavad Gītā 1–3: One who restrains the organs of action but sits dwelling 
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 3.6; rests_on: ["tea:bhagavad-gita:3.6"]
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:45 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:02 IST._

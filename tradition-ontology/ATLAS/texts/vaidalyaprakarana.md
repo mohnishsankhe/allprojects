@@ -21,4 +21,4 @@ A 'grinding to powder' of the sixteen categories of the Nyāya school (means of 
 _Notes: Number of sūtras (73) from memory, low confidence._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._

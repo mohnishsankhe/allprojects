@@ -22,4 +22,4 @@ The last of the great Teṅkalai teachers: disciple of Tiruvāymoḻi Piḷḷai
 **Realization — the tradition's account:** After he expounded the Īṭu for a year before Raṅganātha at Śrīraṅgam (1432 in the tradition's reckoning), the Lord appeared as a child and recited the verse 'śrīśaileśa-dayāpātram', taking him as his own teacher.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._

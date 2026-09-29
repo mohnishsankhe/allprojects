@@ -267,6 +267,210 @@
   }
  },
  {
+  "id": "dsp:advaita-crypto-buddhism",
+  "question": "Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?",
+  "coverage_ref": "G5",
+  "coverage": [
+   "G"
+  ],
+  "sides": [
+   {
+    "lineage": "lin:bhedabheda",
+    "position": "Bhāskara: the doctrine of māyā — disputed, cut off from its root and 'sung by the Mahāyāna Buddhists' — leads people astray.",
+    "texts": [
+     {
+      "source": "src:brahma-sutra-bhasya-bhaskara",
+      "ref": "1.4.25"
+     }
+    ],
+    "rests_on": [
+     "tea:brahma-sutra-bhasya-bhaskara:1.4.25"
+    ]
+   },
+   {
+    "lineage": "lin:dvaita",
+    "position": "Madhva and Jayatīrtha: the māyā-teacher and the Mādhyamika are both to be ignored — what is the void for the voidist is Brahman for the māyā-teacher; both ultimates are attributeless and defined only by exclusion; the voidists' saṃvṛti is the māyā-teachers' māyā, alike beginningless, indeterminable, concealing and projecting. Liberation cannot come from knowing the void.",
+    "texts": [
+     {
+      "source": "src:anuvyakhyana",
+      "ref": "2.2.241-242; 3.3.155; 4.2.40-48"
+     },
+     {
+      "source": "src:nyayasudha",
+      "ref": "on 4.2.46"
+     }
+    ],
+    "rests_on": [
+     "tea:anuvyakhyana:2.2.241-242",
+     "tea:nyayasudha:4.2.46",
+     "tea:anuvyakhyana:3.3.155",
+     "tea:anuvyakhyana:4.2.40-48"
+    ]
+   },
+   {
+    "lineage": "lin:puranic",
+    "position": "The Padma Purāṇa (Uttarakhaṇḍa), in Śiva's list of heretical teachings: 'māyāvāda is a false teaching, called Buddhism in disguise; I taught it in the Kali age in the form of a brāhmaṇa'.",
+    "texts": [
+     {
+      "source": "src:padma-purana",
+      "ref": "Uttarakhaṇḍa (as quoted in Paramātmasandarbha 71)"
+     }
+    ],
+    "rests_on": [
+     "tea:padma-purana:uttara-khanda.mayavada"
+    ]
+   },
+   {
+    "lineage": "lin:gaudiya-vaisnava",
+    "position": "Jīva Gosvāmī: the doctrine that the world is false and the Lord's lordship imagined by ignorance is the view the Gītā (16.8) calls godless; it conflicts with the Lord's word and is rightly called māyāvāda, which the Padma Purāṇa calls Buddhism in disguise. Caitanya (as the Gauḍīya texts present him) rejects Śaṅkara's commentary as hiding the sūtras' direct sense.",
+    "texts": [
+     {
+      "source": "src:paramatma-sandarbha",
+      "ref": "anuccheda 71"
+     },
+     {
+      "source": "src:caitanya-caritamrta",
+      "ref": "Madhya 6"
+     }
+    ],
+    "rests_on": [
+     "tea:paramatma-sandarbha:71",
+     "tea:caitanya-caritamrta:2.6"
+    ]
+   },
+   {
+    "lineage": "lin:visistadvaita",
+    "position": "Vedānta Deśika opens the Śatadūṣaṇī urging followers of Rāmānuja's path to 'strive on every side for victory over the crypto-Buddhists (pracchanna-bauddha)'.",
+    "texts": [
+     {
+      "source": "src:satadusani",
+      "ref": "opening verse(s)"
+     }
+    ],
+    "rests_on": [
+     "tea:satadusani:opening"
+    ],
+    "notes": "Whether Yāmuna or Rāmānuja themselves use the label 'pracchanna-bauddha' is not verified here (see REPORT)."
+   },
+   {
+    "lineage": "lin:samkhya",
+    "position": "Vijñānabhikṣu: the māyā doctrine of the 'modern' Vedāntins is not the Brahmasūtra's teaching; with the Padma Purāṇa he counts it among heterodox (crypto-Buddhist) teachings.",
+    "texts": [
+     {
+      "source": "src:samkhya-pravacana-bhasya",
+      "ref": "introduction (low confidence)"
+     }
+    ],
+    "rests_on": [
+     "tea:samkhya-pravacana-bhasya:intro"
+    ]
+   },
+   {
+    "lineage": "lin:advaita-vedanta",
+    "position": "Advaita is not Buddhism: Śaṅkara refutes all three Buddhist doctrines — the realist, the idealist and the void — and dismisses the void as contradicted by every means of knowledge; against the idealist he upholds external objects and the undeniable, self-established witness; memory proves one enduring knower. The non-dual reality free of knower, known and knowing 'was not spoken by the Buddha': the Buddhist denial of external objects is only near to non-duality, which is to be known from the Upaniṣads alone. Brahman is being (sat) and consciousness, the self that no one can deny — not a void and not a momentary cognition.",
+    "texts": [
+     {
+      "source": "src:brahma-sutra-bhasya-sankara",
+      "ref": "2.2.18-32"
+     },
+     {
+      "source": "src:mandukya-karika",
+      "ref": "4.99"
+     },
+     {
+      "source": "src:mandukya-karika-bhasya-sankara",
+      "ref": "4.99"
+     },
+     {
+      "source": "src:chandogya-upanisad",
+      "ref": "6.2.1-2"
+     }
+    ],
+    "rests_on": [
+     "tea:brahma-sutra-bhasya-sankara:2.2.25",
+     "tea:brahma-sutra-bhasya-sankara:2.2.28",
+     "tea:brahma-sutra-bhasya-sankara:2.2.31",
+     "tea:brahma-sutra-bhasya-sankara:2.2.32",
+     "tea:brahma-sutra:2.2.28",
+     "tea:brahma-sutra:2.2.29",
+     "tea:mandukya-karika:4.99",
+     "tea:mandukya-karika-bhasya-sankara:4.99",
+     "tea:brahma-sutra-bhasya-sankara:1.1.1/2",
+     "tea:chandogya-upanisad:6.2.1-2"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "Caitanya and Sārvabhauma Bhaṭṭācārya at Purī",
+    "date": "tradition: early 16th c. CE",
+    "participants": [
+     "tch:caitanya",
+     "tch:sarvabhauma-bhattacarya"
+    ],
+    "accounts": "Caitanya-caritāmṛta Madhya 6 (the Gauḍīya tradition's account)",
+    "outcome_by_tradition": "Gauḍīya: Sārvabhauma, after expounding Śaṅkara's reading for seven days, accepted Caitanya's and became his devotee."
+   }
+  ],
+  "doctrinal_vs_historical": {
+   "note": "Kept separate as the brief requires. The doctrinal charge (sides above) is that Advaita's teaching is Buddhist in substance. The historical question — borrowings of argument, simile and vocabulary between Madhyamaka/Yogācāra and Gauḍapāda's Māṇḍūkya-kārikā — belongs to the borrowings layer and is recorded there (U49), not decided here.",
+   "borrowings": [
+    "brw:madhyamaka-to-gaudapada",
+    "brw:yogacara-to-gaudapada",
+    "brw:mandukya-madhyamaka-prapancopasama"
+   ],
+   "rests_on": [
+    "tea:mandukya-karika:4.1",
+    "tea:mandukya-karika:4.22",
+    "tea:mandukya-karika:4.47",
+    "tea:mandukya-karika:2.32"
+   ]
+  },
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Not yet reconciled: the critics hold that Advaita's attributeless Brahman and māyā equal the Buddhists' void and saṃvṛti; Advaita holds that Brahman as being-consciousness and the undeniable witness are exactly what the Buddhists deny.",
+   "detail": "Both parties agree on some facts — Advaita and Madhyamaka each use two levels of truth, and Gauḍapāda uses Buddhist-like language — but disagree whether the difference in what is called ultimate (sat-cit vs śūnyatā) is decisive (Advaita: MK-bhāṣya 4.99; BSBh 2.2.31) or merely verbal (Jayatīrtha, Nyāyasudhā 4.2.46). The Buddhists' own view of the Upaniṣadic self is recorded in dsp:is-there-a-self (Madhyamakahṛdaya 8; Tattvasaṅgraha).",
+   "tradition_objections": "Advaita rejects the charge (BSBh 2.2.18-32; MK-bhāṣya 4.99: 'this was not spoken by the Buddha'). The critics reject the reply: Jayatīrtha says the marks of māyā and saṃvṛti are the same; Jīva Gosvāmī reads Gītā 16.8 as describing māyāvāda. Buddhist authors (Bhāviveka, Śāntarakṣita) themselves refute the Vedāntic self and would not accept Advaita as Buddhist either.",
+   "rests_on": [
+    "tea:mandukya-karika-bhasya-sankara:4.99",
+    "tea:brahma-sutra-bhasya-sankara:2.2.31",
+    "tea:nyayasudha:4.2.46",
+    "tea:anuvyakhyana:2.2.241-242",
+    "tea:paramatma-sandarbha:71",
+    "tea:madhyamakahrdaya:8/2"
+   ]
+  },
+  "candidate_readings": [
+   "P8-six-marks: read by opening and close, repetition, novelty, fruit, praise and reasoning, the purport of Śaṅkara's commentaries is the Upaniṣadic Brahman as existent (sat), which the Buddhist texts deny — Advaita's own claim; the critics apply the same marks to find māyā/void as the purport.",
+   "P1-level: both systems use a two-truths frame; the charge concerns what is placed at the ultimate — the critics treat 'attributeless' as equivalent to 'void', Advaita and the Buddhists both reject that equivalence.",
+   "P6-upaya (the Padma Purāṇa's own framing): māyāvāda as a teaching given at the Lord's command to delude the asuras — a Purāṇic account the Advaitins do not accept as describing their teaching."
+  ],
+  "queue_ref": "RQ-U50-05",
+  "disputes": [
+   "dsp:gaudiya-critique-of-advaita",
+   "dsp:madhyamaka-nihilism-charge",
+   "dsp:world-real-or-appearance",
+   "dsp:is-there-a-self",
+   "dsp:external-objects"
+  ],
+  "notes": "Correction to the unit brief: Bhāskara, Madhva/Jayatīrtha, the Padma Purāṇa (as quoted by Jīva), Jīva Gosvāmī and Vedānta Deśika are recorded with texts; the attribution of the explicit 'crypto-Buddhist' label to Yāmuna or Rāmānuja could not be verified and is not asserted; Vijñānabhikṣu is recorded at low confidence.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U50-debates"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "dsp:affiliation-of-tirukkural",
   "question": "To which tradition does the Tirukkuṟaḷ belong — Jain, Śaiva, Vaiṣṇava, Buddhist, or none?",
   "coverage_ref": "I2",
@@ -7026,6 +7230,416 @@
   }
  },
  {
+  "id": "dsp:causation",
+  "question": "Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?",
+  "coverage_ref": "G2",
+  "coverage": [
+   "G"
+  ],
+  "sides": [
+   {
+    "lineage": "lin:samkhya",
+    "position": "The effect exists in its material cause before it is produced (satkārya): because what does not exist cannot be produced; because a definite material cause is taken for a definite effect; because not everything arises from everything; because a capable cause produces only what it is capable of; because the effect has the nature of its cause. Production is manifestation.",
+    "texts": [
+     {
+      "source": "src:samkhya-karika",
+      "ref": "9"
+     },
+     {
+      "source": "src:samkhya-sutra",
+      "ref": "1.114-121"
+     }
+    ],
+    "rests_on": [
+     "tea:samkhya-karika:9",
+     "tea:samkhya-sutra:1.114-121"
+    ]
+   },
+   {
+    "lineage": "lin:patanjala-yoga",
+    "position": "Past and future exist in their own form, differing in their time-paths; change is transformation of property, time-mark and state in an enduring substrate; the instrumental cause does not set the material causes going but only removes the obstruction, as a farmer breaches a dyke.",
+    "texts": [
+     {
+      "source": "src:yoga-sutra",
+      "ref": "3.13; 4.3; 4.12"
+     },
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "4.12"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-sutra:4.12",
+     "tea:yoga-bhasya:4.12",
+     "tea:yoga-sutra:3.13",
+     "tea:yoga-sutra:4.3"
+    ]
+   },
+   {
+    "lineage": "lin:nyaya",
+    "position": "The effect is a new thing, non-existent before production (asatkārya, ārambhavāda): before it is produced the fruit is not existent in the Sāṃkhya sense, for existence and non-existence are opposed; it comes about from inherent, non-inherent and instrumental causes and is the counterpositive of its prior absence. Nor does existence arise from non-existence as such (the sprout from the destroyed seed).",
+    "texts": [
+     {
+      "source": "src:nyaya-sutra",
+      "ref": "4.1.14-18; 4.1.48-50"
+     },
+     {
+      "source": "src:tarkasangraha",
+      "ref": "kāraṇa"
+     }
+    ],
+    "rests_on": [
+     "tea:nyaya-sutra:4.1.48-50",
+     "tea:nyaya-sutra:4.1.14-18",
+     "tea:tarkasangraha:karana"
+    ]
+   },
+   {
+    "lineage": "lin:vaisesika",
+    "position": "From the absence of the cause follows the absence of the effect, not the reverse; a thing before it is produced is non-existent (prior absence) — the effect is a newly made whole.",
+    "texts": [
+     {
+      "source": "src:vaisesika-sutra",
+      "ref": "1.2.1-2; 9.1.1-12"
+     }
+    ],
+    "rests_on": [
+     "tea:vaisesika-sutra:1.2.1-2",
+     "tea:vaisesika-sutra:9.1-12"
+    ]
+   },
+   {
+    "lineage": "lin:advaita-vedanta",
+    "position": "The effect is non-different from its cause, 'a verbal handle, a name' — as pots are only clay (CU 6.1.4; BS 2.1.14). Brahman is both material and efficient cause; the world is its apparent transformation (vivarta), not a real modification (vikāra): the snake is only the rope. From the highest standpoint nothing whatever is born.",
+    "texts": [
+     {
+      "source": "src:chandogya-upanisad",
+      "ref": "6.1.4-6"
+     },
+     {
+      "source": "src:brahma-sutra-bhasya-sankara",
+      "ref": "1.4.23; 2.1.14"
+     },
+     {
+      "source": "src:vedantasara",
+      "ref": "apavāda"
+     },
+     {
+      "source": "src:mandukya-karika",
+      "ref": "3.48; 4.22"
+     }
+    ],
+    "rests_on": [
+     "tea:chandogya-upanisad:6.1.4-6",
+     "tea:brahma-sutra:2.1.14",
+     "tea:brahma-sutra-bhasya-sankara:2.1.14",
+     "tea:brahma-sutra-bhasya-sankara:1.4.23",
+     "tea:vedantasara:apavada",
+     "tea:mandukya-karika:3.48",
+     "tea:mandukya-karika:4.22"
+    ]
+   },
+   {
+    "lineage": "lin:visistadvaita",
+    "position": "Brahman is both the material and the efficient cause; the world is non-different from Brahman as pots from clay, but the effect is a real state of Brahman, whose body is the sentient and non-sentient; real transformation (pariṇāma) touches Brahman's body, not its essence.",
+    "texts": [
+     {
+      "source": "src:sribhasya",
+      "ref": "1.4.23; 2.1.15"
+     }
+    ],
+    "rests_on": [
+     "tea:sribhasya:1.4.23",
+     "tea:sribhasya:2.1.15"
+    ],
+    "disputes": [
+     "dsp:brahman-material-cause"
+    ]
+   },
+   {
+    "lineage": "lin:bhedabheda",
+    "position": "Brahman makes itself into the world by real transformation of its power (ātmakṛteḥ pariṇāmāt); the effect is real, both different and non-different from its cause (Bhāskara; Nimbārka).",
+    "texts": [
+     {
+      "source": "src:brahma-sutra-bhasya-bhaskara",
+      "ref": "1.4.26; 2.1.14"
+     },
+     {
+      "source": "src:vedanta-parijata-saurabha",
+      "ref": "1.4.26"
+     }
+    ],
+    "rests_on": [
+     "tea:brahma-sutra:1.4.27",
+     "tea:brahma-sutra-bhasya-bhaskara:1.4.26",
+     "tea:brahma-sutra-bhasya-bhaskara:2.1.14",
+     "tea:vedanta-parijata-saurabha:1.4.26"
+    ],
+    "disputes": [
+     "dsp:brahma-parinama-vada"
+    ]
+   },
+   {
+    "lineage": "lin:pustimarga",
+    "position": "Brahman, transforming itself, is the material cause of the world, yet this transformation involves no change in Brahman (avikṛta-pariṇāma).",
+    "texts": [
+     {
+      "source": "src:anubhasya",
+      "ref": "1.4.26"
+     }
+    ],
+    "rests_on": [
+     "tea:anubhasya:1.4.26"
+    ]
+   },
+   {
+    "lineage": "lin:dvaita",
+    "position": "Viṣṇu is the independent cause who creates, maintains, dissolves and controls; the world is real and its material is prakṛti, dependent on him; the doctrine of apparent transformation is refuted, since the witness establishes what is real.",
+    "texts": [
+     {
+      "source": "src:brahma-sutra-bhasya-madhva",
+      "ref": "1.1.2"
+     },
+     {
+      "source": "src:anuvyakhyana",
+      "ref": "1.4.95-98"
+     },
+     {
+      "source": "src:tattvasankhyana",
+      "ref": "10-11"
+     }
+    ],
+    "rests_on": [
+     "tea:brahma-sutra-bhasya-madhva:1.1.2",
+     "tea:anuvyakhyana:1.4.95-98",
+     "tea:tattvasankhyana:10-11"
+    ]
+   },
+   {
+    "lineage": "lin:kashmir-saivism",
+    "position": "Things that appear in the present as external are possible only if they already exist within consciousness; the Lord, by his will and infinite powers, makes them appear (ābhāsa) — this is his creatorhood. Consciousness, free, is the cause of the universe, which she unfolds on her own screen: a real self-manifestation, not an illusion.",
+    "texts": [
+     {
+      "source": "src:isvarapratyabhijna-karika",
+      "ref": "1.5.1; 2.4.1"
+     },
+     {
+      "source": "src:pratyabhijnahrdayam",
+      "ref": "sūtras 1-2"
+     }
+    ],
+    "rests_on": [
+     "tea:isvarapratyabhijna-karika:1.5.1",
+     "tea:isvarapratyabhijna-karika:2.4.1",
+     "tea:pratyabhijnahrdayam:1",
+     "tea:pratyabhijnahrdayam:2"
+    ]
+   },
+   {
+    "lineage": "lin:saiva-siddhanta",
+    "position": "The world, spoken of as 'he, she and it', undergoes origination, maintenance and dissolution, so it has an agent; it resolves into and re-emerges from its cause — Śiva as efficient cause working through real māyā as material.",
+    "texts": [
+     {
+      "source": "src:sivananabodham",
+      "ref": "sūtra 1"
+     }
+    ],
+    "rests_on": [
+     "tea:sivananabodham:1"
+    ],
+    "disputes": [
+     "dsp:is-siva-the-material-cause"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
+    "position": "Formations occur through ignorance and the other conditions; the wheel of becoming has no maker such as a Brahmā: things arise dependently, neither from a self-made nor an other-made cause.",
+    "texts": [
+     {
+      "source": "src:visuddhimagga",
+      "ref": "ch. 17"
+     },
+     {
+      "source": "src:kaccanagotta-sutta",
+      "ref": "SN 12.15"
+     }
+    ],
+    "rests_on": [
+     "tea:visuddhimagga:17/3",
+     "tea:kaccanagotta-sutta:2-3"
+    ]
+   },
+   {
+    "lineage": "lin:madhyamaka",
+    "position": "No existent whatever is ever found arisen from itself, from another, from both, or without a cause (MMK 1.1); the effect is neither made of the conditions nor of non-conditions; dependent arising is itself emptiness, and emptiness, dependent origination and the middle way have one meaning.",
+    "texts": [
+     {
+      "source": "src:mulamadhyamakakarika",
+      "ref": "1.1-14; 20.24"
+     },
+     {
+      "source": "src:buddhapalita-vrtti",
+      "ref": "1.1"
+     },
+     {
+      "source": "src:vigrahavyavartani",
+      "ref": "22; 71"
+     },
+     {
+      "source": "src:madhyamakahrdaya",
+      "ref": "ch. 6 (against Sāṃkhya)"
+     }
+    ],
+    "rests_on": [
+     "tea:mulamadhyamakakarika:1.1",
+     "tea:mulamadhyamakakarika:1.14",
+     "tea:mulamadhyamakakarika:20.24",
+     "tea:buddhapalita-vrtti:1.1",
+     "tea:vigrahavyavartani:22",
+     "tea:vigrahavyavartani:71",
+     "tea:madhyamakahrdaya:6"
+    ]
+   },
+   {
+    "lineage": "lin:jainism",
+    "position": "The existent is endowed at once with origination, cessation and persistence: a thing is in some respect existent and in some respect non-existent before its production. Time, own-nature, destiny, former deeds and human effort, each held one-sidedly as the cause, are wrong views; taken together they are right view.",
+    "texts": [
+     {
+      "source": "src:tattvartha-sutra",
+      "ref": "5.30"
+     },
+     {
+      "source": "src:aptamimamsa",
+      "ref": "14"
+     },
+     {
+      "source": "src:sanmati-tarka",
+      "ref": "3.53"
+     }
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:5.30",
+     "tea:aptamimamsa:14",
+     "tea:sanmati-tarka:3.53",
+     "tea:sanmati-tarka:kanda-1"
+    ]
+   },
+   {
+    "lineage": "lin:vyakarana",
+    "position": "Brahman, without beginning or end, whose essence is the Word, appears (vivartate) as objects; the world is the Word-principle's appearing (Bhartṛhari — the earliest use of vivarta as a technical term recorded here).",
+    "texts": [
+     {
+      "source": "src:vakyapadiya",
+      "ref": "1.1"
+     }
+    ],
+    "rests_on": [
+     "tea:vakyapadiya:1.1"
+    ],
+    "disputes": [
+     "dsp:pasyanti-brahman"
+    ]
+   },
+   {
+    "lineage": "lin:upanisadic",
+    "position": "Time, own-nature, fixed order, chance, the elements, the womb and the person are weighed as causes and none suffices; it is the greatness of God in the world by which the wheel of Brahman turns.",
+    "texts": [
+     {
+      "source": "src:svetasvatara-upanisad",
+      "ref": "1.2; 6.1-2"
+     }
+    ],
+    "rests_on": [
+     "tea:svetasvatara-upanisad:1.2",
+     "tea:svetasvatara-upanisad:6.1-2"
+    ],
+    "disputes": [
+     "dsp:fate-or-effort"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "The commentarial exchange on MMK 1.1",
+    "date": "c. 5th–7th c. CE (scholarly, approximate)",
+    "participants": [
+     "tch:buddhapalita",
+     "tch:bhaviveka",
+     "tch:candrakirti"
+    ],
+    "accounts": "Buddhapālita-vṛtti 1.1; Prajñāpradīpa 1.1; Prasannapadā 1.1 (see dsp:prasangika-svatantrika)",
+    "outcome_by_tradition": "Mādhyamikas agree that nothing arises from self, other, both or neither; they differ on how to demonstrate it."
+   },
+   {
+    "name": "Sāṃkhya and its critics on the pre-existent effect (textual)",
+    "date": "c. early centuries CE onward (scholarly, approximate)",
+    "participants": [
+     "tch:isvarakrsna",
+     "tch:gautama-aksapada",
+     "tch:bhaviveka",
+     "tch:badarayana"
+    ],
+    "accounts": "Sāṃkhyakārikā 9; Nyāyasūtra 4.1.48-50; Madhyamakahṛdaya 6; Brahmasūtra 2.1.14-20 and 2.2.1-10",
+    "outcome_by_tradition": "Each tradition holds its own account of causation; Vedānta adopts the non-difference of effect from cause while rejecting Sāṃkhya's unconscious pradhāna."
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P1-level",
+    "P2-standpoint"
+   ],
+   "explanation": "Partly reconciled by the traditions' own devices: Advaita and Madhyamaka accept causal change or dependent arising at the conventional level while denying real origination ultimately (P1), and the Jains hold the pre-existence and the novelty of the effect true from the substance and mode standpoints (P2); the Sāṃkhya–Nyāya and vivarta–ābhāsa disagreements are not yet reconciled.",
+   "detail": "P1: Śaṅkara uses the language of transformation for the empirical world and non-difference/vivarta for the ultimate (BSBh 2.1.14; Vedāntasāra's vikāra–vivarta verse); Nāgārjuna negates the four modes of arising while affirming dependent arising as emptiness (MMK 1.1; VV 71). P2: the Jain triad of origination, cessation and persistence (TS 5.30) and Siddhasena's rule that each single cause held one-sidedly is wrong view (Sanmati 3.53) are the Jains' own reconciliation. What remains: whether the effect's pre-existence is literal (Sāṃkhya) or incoherent (Nyāya); whether the world's appearance is real manifestation of consciousness (Kashmir Śaivism) or indeterminable superimposition (Advaita); whether Brahman's transformation is real (Viśiṣṭādvaita, Bhedābheda, Vallabha) or apparent.",
+   "tradition_objections": "Nyāya rejects satkārya outright (NS 4.1.48-50) and Sāṃkhya asatkārya (SK 9); Viśiṣṭādvaita, Bhedābheda, Vallabha and Dvaita deny that the world's transformation is merely apparent (Śrībhāṣya 2.1.15; Anuvyākhyāna 1.4.95-98); Kashmir Śaivism holds manifestation real, not vivarta; Madhyamaka rejects the Jain 'both' as a mode of arising already negated (MMK 1.1).",
+   "rests_on": [
+    "tea:brahma-sutra-bhasya-sankara:2.1.14",
+    "tea:vedantasara:apavada",
+    "tea:mulamadhyamakakarika:1.1",
+    "tea:vigrahavyavartani:71",
+    "tea:tattvartha-sutra:5.30",
+    "tea:sanmati-tarka:3.53",
+    "tea:samkhya-karika:9",
+    "tea:nyaya-sutra:4.1.48-50",
+    "tea:sribhasya:2.1.15",
+    "tea:isvarapratyabhijna-karika:1.5.1"
+   ]
+  },
+  "candidate_readings": [
+   "P2-standpoint for Sāṃkhya vs Nyāya: satkārya speaks of the material cause's capacity (the substance standpoint), asatkārya of the product as a new whole (the mode standpoint) — rejected by both, each of whom argues the other's thesis is incoherent.",
+   "P1-level for Advaita vs Kashmir Śaivism: both deny change in the ultimate consciousness; they differ on whether the appearance is real self-display (ābhāsa) or indeterminable (vivarta) — the Trika insists on the reality of manifestation, Advaita on its sublatability.",
+   "P1-level for Advaita vs the theistic Vedāntas: transformation (pariṇāma) true empirically, vivarta true ultimately — rejected by Rāmānuja, Nimbārka, Vallabha and Madhva, who deny degrees of reality."
+  ],
+  "queue_ref": "RQ-U50-02",
+  "disputes": [
+   "dsp:brahma-parinama-vada",
+   "dsp:brahman-material-cause",
+   "dsp:is-siva-the-material-cause",
+   "dsp:lord-only-efficient-cause",
+   "dsp:fate-or-effort",
+   "dsp:niyati-or-effort",
+   "dsp:sakti-causal-power",
+   "dsp:being-or-non-being-first",
+   "dsp:sat-or-asat-in-the-beginning",
+   "dsp:cause-of-destruction"
+  ],
+  "notes": "Scholarly observation (metadata only): the term vivarta is used by Bhartṛhari before its Advaita use.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U50-debates"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "dsp:cause-of-destruction",
   "question": "Does the destruction of a conditioned thing have a cause?",
   "sides": [
@@ -7686,6 +8300,97 @@
   "provenance": {
    "units": [
     "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:chod-orthodoxy",
+  "question": "Is Chöd — a practice first taught by a Tibetan woman and concerned with spirits and the gift of the body — authentic Buddhadharma with an Indian source?",
+  "coverage_ref": null,
+  "sides": [
+   {
+    "lineage": "lin:chod",
+    "position": "Chöd is the practical application of the Perfection of Wisdom: its view is that of the sūtras, its instructions come in part from the Indian siddha Padampa Sangye and from Āryadeva the Brahmin's Grand Poem, and Machig is the emanation of the Great Mother. Indian scholars who came to test her accepted it, and it is the one Dharma that went from Tibet to India.",
+    "arguments": [
+     "The root texts are titled instructions of the Perfection of Wisdom and apply its view of emptiness.",
+     "The father lineage runs from Padampa Sangye.",
+     "The tradition's account of the Indian scholars' test and acceptance."
+    ],
+    "texts": [
+     {
+      "source": "src:katsom-chenmo",
+      "ref": "view"
+     },
+     {
+      "source": "src:phungpo-zenkyur-namshe",
+      "ref": "tibet-to-india"
+     },
+     {
+      "source": "src:tsigche-chenmo-aryadeva",
+      "ref": "whole"
+     }
+    ],
+    "rests_on": [
+     "tea:katsom-chenmo:view",
+     "tea:phungpo-zenkyur-namshe:tibet-to-india"
+    ]
+   },
+   {
+    "lineage": null,
+    "party": "Tibetan critics applying the criterion that authentic Dharma must have an Indian original (known here chiefly as reported in the Chöd tradition's own narratives; critics not named with confidence)",
+    "position": "A practice composed in Tibet, lacking an Indian tantra or sūtra as its source and centred on dealings with spirits, cannot be accepted as the Buddha's teaching merely on the authority of a Tibetan founder.",
+    "arguments": [
+     "The general Tibetan criterion that doctrines must be traced to an Indian source.",
+     "Suspicion of practices associated with spirit-dealing and wandering yogins."
+    ],
+    "texts": [],
+    "rests_on": [],
+    "reported_by_opponent": true
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "The Indian scholars' test of Machig (tradition's account)",
+    "date": "late 11th – early 12th c.",
+    "participants": [
+     "tch:machig-labdron"
+    ],
+    "accounts": "Recorded in the Chöd tradition's own biographies of Machig.",
+    "outcome_by_tradition": "The Chöd tradition: the Indians accepted her teaching and took it to India."
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Not yet reconciled; the critics' side is known only through the defending tradition.",
+   "detail": "",
+   "candidate_readings": [
+    "P5-neyartha: authenticity judged by agreement with the definitive Perfection of Wisdom rather than by place of origin (the Chöd tradition's own argument).",
+    "P6-upaya: the spirit-dealing form as skillful means for cutting self-clinging in Tibetan conditions.",
+    "Historical question (origin) and doctrinal question (conformity with the sūtras) treated separately."
+   ],
+   "tradition_objections": "Critics insisting on an Indian original would not accept a doctrinal-conformity criterion alone.",
+   "rests_on": [
+    "tea:katsom-chenmo:view"
+   ]
+  },
+  "coverage": [
+   "B6",
+   "G"
+  ],
+  "notes": "Low confidence on the critics' side; it is recorded so that the debate named in the coverage brief has an entry, and should be sourced before any reconciliation.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -13027,7 +13732,7 @@
    "tradition_objections": "Śaṅkara explicitly rejects the combination of knowledge and works as the means; Rāmānuja and Madhva reject the Advaita reading that knowledge of identity alone liberates; each school holds its reading to be the Gītā's single purport, not one option among several.",
    "rests_on": [
     "tea:bhagavad-gita:3.3",
-    "tea:bhagavad-gita:13.24-25",
+    "tea:bhagavad-gita:13.25-26",
     "tea:bhagavad-gita:6.3-4",
     "tea:bhagavad-gita:12.8-11",
     "tea:bhagavad-gita:2.11",
@@ -13529,6 +14234,105 @@
   "provenance": {
    "units": [
     "skeleton:U07-puranas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:gyushi-buddha-word",
+  "question": "Is the Four Tantras (rgyud bzhi) the word of the Buddha, or a treatise composed in Tibet?",
+  "coverage_ref": null,
+  "sides": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "position": "The Four Tantras is the word of the Medicine Buddha, taught through his emanations Rigpé Yeshe and Yilé Kyé in Tanaduk, brought to Tibet and translated by Vairocana, concealed and recovered as treasure, and only edited by Yuthok; its form ('Thus have I heard…') is that of a tantra.",
+    "arguments": [
+     "The opening setting and dialogue form of a Buddha-spoken tantra.",
+     "The lineage account of translation, concealment (Samye) and recovery (1038).",
+     "Defended by Desi Sangye Gyatso in the Blue Beryl and the history of medicine."
+    ],
+    "texts": [
+     {
+      "source": "src:gyushi-tsagyu",
+      "ref": "1"
+     },
+     {
+      "source": "src:blue-beryl",
+      "ref": "intent"
+     },
+     {
+      "source": "src:khogbug",
+      "ref": "origin"
+     }
+    ],
+    "rests_on": [
+     "tea:gyushi-tsagyu:1",
+     "tea:blue-beryl:intent",
+     "tea:khogbug:origin"
+    ]
+   },
+   {
+    "lineage": "lin:zurkharpa-medicine",
+    "position": "A strand of Tibetan medical scholarship held (or seriously considered) that the Four Tantras was composed in Tibet — by Yuthok — drawing on Indian and other sources, pointing to Tibetan elements in the text and the absence of an Indian original.",
+    "arguments": [
+     "No Sanskrit original or Tengyur counterpart of the whole work.",
+     "Tibetan materia medica, terms and conditions reflected in the text.",
+     "Examined by Zurkhar Lodrö Gyalpo (his final position not asserted here)."
+    ],
+    "texts": [
+     {
+      "source": "src:mepo-zhallung",
+      "ref": "authorship"
+     }
+    ],
+    "rests_on": [
+     "tea:mepo-zhallung:authorship"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "The authenticity debates of Tibetan medicine",
+    "date": "c. 13th–17th c. (as recalled)",
+    "participants": [
+     "tch:zurkhar-lodro-gyalpo",
+     "tch:desi-sangye-gyatso"
+    ],
+    "accounts": "Discussed in Zur-school writings and answered in the Desi's commentaries (details low confidence).",
+    "outcome_by_tradition": "The classical (Desi) tradition affirms Buddha-word status; the question remained discussed."
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Not yet reconciled.",
+   "detail": "Scholarly account (kept apart): compiled in the 12th c. by Yuthok Yönten Gönpo the Younger, with the Aṣṭāṅgahṛdaya as a principal source.",
+   "candidate_readings": [
+    "Buddha-word in the full sense (the tradition's account).",
+    "'Blessed word': a teaching composed through the Buddha's blessing, counted as authoritative scripture though written down or arranged in Tibet (candidate reading; not attested here).",
+    "A Tibetan treatise (bstan bcos) whose authority rests on its efficacy and lineage rather than on origin."
+   ],
+   "tradition_objections": "The classical tradition rejects the reading of the Four Tantras as a Tibetan composition.",
+   "rests_on": [
+    "tea:gyushi-tsagyu:1",
+    "tea:mepo-zhallung:authorship"
+   ]
+  },
+  "coverage": [
+   "B6",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -17141,8 +17945,455 @@
  },
  {
   "id": "dsp:is-there-a-self",
-  "question": "Is there a self?",
+  "question": "Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?",
+  "coverage_ref": "G1",
+  "coverage": [
+   "G",
+   "B1"
+  ],
   "sides": [
+   {
+    "lineage": "lin:nyaya",
+    "position": "There is a self: an eternal, all-pervading substance distinct from body, senses, mind and cognitions; cognition, desire, aversion, effort, pleasure and pain are its qualities and the marks by which it is known. To think 'the self does not exist' is itself a form of the false knowledge that binds.",
+    "arguments": [
+     "Desire, aversion, effort, pleasure, pain and cognition need a substrate; they are the marks (liṅga) of the self (NS 1.1.10).",
+     "One object is grasped by sight and by touch, so the grasper is other than either sense (NS 3.1.1); what the left eye saw the other recognizes (NS 3.1.7).",
+     "Memory and recognition require the same knower at two times; a series of momentary cognitions could not remember what another cognized (NS 3.1.13-14; Uddyotakara; Udayana's Ātmatattvaviveka refutes momentariness first).",
+     "A newborn's joy, fear and grief follow on memory of a former life (NS 3.1.18).",
+     "If the self were the body there would be no sin in burning a body (NS 3.1.4)."
+    ],
+    "texts": [
+     {
+      "source": "src:nyaya-sutra",
+      "ref": "1.1.10; 3.1.1-26"
+     },
+     {
+      "source": "src:nyaya-bhasya",
+      "ref": "1.1.2; 3.1"
+     },
+     {
+      "source": "src:nyaya-varttika",
+      "ref": "3.1.1"
+     },
+     {
+      "source": "src:atmatattvaviveka",
+      "ref": "whole"
+     }
+    ],
+    "rests_on": [
+     "tea:nyaya-sutra:1.1.10",
+     "tea:nyaya-sutra:3.1.1",
+     "tea:nyaya-sutra:3.1.4",
+     "tea:nyaya-sutra:3.1.7",
+     "tea:nyaya-sutra:3.1.13-14",
+     "tea:nyaya-sutra:3.1.18",
+     "tea:nyaya-bhasya:1.1.2",
+     "tea:nyaya-varttika:3.1.1",
+     "tea:atmatattvaviveka:structure",
+     "tea:atmatattvaviveka:ksanabhanga"
+    ]
+   },
+   {
+    "lineage": "lin:vaisesika",
+    "position": "The self is not perceived by ordinary perception but inferred: breathing in and out, the closing and opening of the eyes, life, the movement of the mind, the functioning of the other senses, pleasure, pain, desire, aversion and effort are its marks; the word 'I' applies to it, not to the body; selves are many, since their states differ.",
+    "texts": [
+     {
+      "source": "src:vaisesika-sutra",
+      "ref": "3.1-3.2"
+     },
+     {
+      "source": "src:padarthadharmasangraha",
+      "ref": "ātman section"
+     }
+    ],
+    "rests_on": [
+     "tea:vaisesika-sutra:3.1.1-2",
+     "tea:vaisesika-sutra:3.2.4",
+     "tea:vaisesika-sutra:3.2.9-13",
+     "tea:vaisesika-sutra:3.2.15-17",
+     "tea:padarthadharmasangraha:atman"
+    ]
+   },
+   {
+    "lineage": "lin:mimamsa",
+    "position": "A self distinct from body and cognition exists — the agent who enjoys the fruit of sacrifice in another world; without it the injunctions for heaven would be pointless. Kumārila: the self is known in the notion 'I'; Prabhākara: it shines forth in every cognition as its knower, never as its object.",
+    "texts": [
+     {
+      "source": "src:sabara-bhasya",
+      "ref": "1.1.5 (Vṛttikāra passage)"
+     },
+     {
+      "source": "src:slokavarttika",
+      "ref": "ātmavāda"
+     },
+     {
+      "source": "src:prakaranapancika",
+      "ref": "ch. 8"
+     }
+    ],
+    "rests_on": [
+     "tea:sabara-bhasya:1.1.5/3",
+     "tea:slokavarttika:atmavada.148",
+     "tea:prakaranapancika:8"
+    ],
+    "disputes": [
+     "dsp:self-known-as-object"
+    ]
+   },
+   {
+    "lineage": "lin:samkhya",
+    "position": "Puruṣa exists: aggregates exist for the sake of another; there must be something opposite to what has the three guṇas; there must be a controller, an enjoyer, and one for whose isolation activity takes place. Puruṣas are many, since birth, death and the instruments are allotted to each separately.",
+    "texts": [
+     {
+      "source": "src:samkhya-karika",
+      "ref": "17-18"
+     },
+     {
+      "source": "src:samkhya-sutra",
+      "ref": "1.139-146; 6.1-3"
+     }
+    ],
+    "rests_on": [
+     "tea:samkhya-karika:17",
+     "tea:samkhya-karika:18",
+     "tea:samkhya-sutra:1.139-146",
+     "tea:samkhya-sutra:6.1-3"
+    ]
+   },
+   {
+    "lineage": "lin:patanjala-yoga",
+    "position": "The seer is seeing alone, which appears to conform to the mind's cognitions; the mind is not self-illuminating, because it is seen; if one cognition were grasped by another there would be infinite regress and confusion of memories; a mind that were only momentary cognitions could not be made one-pointed.",
+    "texts": [
+     {
+      "source": "src:yoga-sutra",
+      "ref": "2.20; 4.19-21"
+     },
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "1.32; 4.21"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-sutra:2.20",
+     "tea:yoga-sutra:4.19",
+     "tea:yoga-bhasya:4.21",
+     "tea:yoga-bhasya:1.32"
+    ],
+    "disputes": [
+     "dsp:is-mind-self-luminous",
+     "dsp:citta-momentary-or-enduring"
+    ]
+   },
+   {
+    "lineage": "lin:advaita-vedanta",
+    "position": "The self is the self-evident witness (sākṣin) of all cognitions, never an object and never deniable — no one thinks 'I am not'. Body, senses, breath, mind and intellect, and the agent-enjoyer, are not-self, superimposed on it. Against the Buddhists: memory and recognition ('I saw that, I see this') show one enduring knower; a momentary store-consciousness cannot hold impressions; the witness is not a momentary cognition.",
+    "texts": [
+     {
+      "source": "src:brahma-sutra-bhasya-sankara",
+      "ref": "1.1.1; 2.2.25-31; 3.3.53-54"
+     },
+     {
+      "source": "src:drg-drsya-viveka",
+      "ref": "1"
+     },
+     {
+      "source": "src:vedantasara",
+      "ref": "refutation of mistaken views of the self"
+     }
+    ],
+    "rests_on": [
+     "tea:brahma-sutra-bhasya-sankara:1.1.1/2",
+     "tea:drg-drsya-viveka:1",
+     "tea:brahma-sutra:2.2.25",
+     "tea:brahma-sutra-bhasya-sankara:2.2.25",
+     "tea:brahma-sutra-bhasya-sankara:2.2.28",
+     "tea:brahma-sutra-bhasya-sankara:2.2.31",
+     "tea:brahma-sutra-bhasya-sankara:3.3.54",
+     "tea:vedantasara:refutation"
+    ]
+   },
+   {
+    "lineage": "lin:visistadvaita",
+    "position": "The self is a distinct, eternal, atomic knower, established in the awareness 'I', self-luminous; consciousness is its attribute, which belongs to someone and is of something — not the self itself; each self is a mode of Brahman.",
+    "texts": [
+     {
+      "source": "src:siddhitraya",
+      "ref": "Ātmasiddhi"
+     },
+     {
+      "source": "src:sribhasya",
+      "ref": "1.1.1 (mahāsiddhānta)"
+     }
+    ],
+    "rests_on": [
+     "tea:siddhitraya:atmasiddhi",
+     "tea:sribhasya:1.1.1/6"
+    ]
+   },
+   {
+    "lineage": "lin:jainism",
+    "position": "The soul (jīva) exists; its defining mark is cognitive activity (upayoga); it is the doer and enjoyer of its karma, can be liberated, and is eternal as substance but non-eternal as mode (its states and births). One-sided permanence (as of the Naiyāyikas) and one-sided momentariness (as of the Buddhists) are both refuted.",
+    "texts": [
+     {
+      "source": "src:tattvartha-sutra",
+      "ref": "2.8"
+     },
+     {
+      "source": "src:bhagavati-sutra",
+      "ref": "7.2"
+     },
+     {
+      "source": "src:visesavasyaka-bhasya",
+      "ref": "gaṇadharavāda"
+     },
+     {
+      "source": "src:aptamimamsa",
+      "ref": "pariccheda 3"
+     },
+     {
+      "source": "src:atmasiddhi",
+      "ref": "43"
+     }
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:2.8",
+     "tea:atmasiddhi:43",
+     "tea:bhagavati-sutra:7.2",
+     "tea:visesavasyaka-bhasya:ganadharavada",
+     "tea:aptamimamsa:pariccheda-3",
+     "tea:acaranga-sutra:1.1.1"
+    ]
+   },
+   {
+    "lineage": "lin:saiva-siddhanta",
+    "position": "There is a soul within the body and distinct from it: it says 'not this' of each thing, speaks of 'my body', knows through the senses, and knows on waking that it slept; souls are many, their experience, bondage and release differing.",
+    "texts": [
+     {
+      "source": "src:sivananabodham",
+      "ref": "sūtra 3"
+     },
+     {
+      "source": "src:naresvarapariksa",
+      "ref": "ch. 1-2"
+     }
+    ],
+    "rests_on": [
+     "tea:sivananabodham:3",
+     "tea:naresvarapariksa:1",
+     "tea:naresvarapariksa:2"
+    ]
+   },
+   {
+    "lineage": "lin:pratyabhijna",
+    "position": "Against the Buddhist that only momentary cognitions appear and no permanent seer: memory is impossible if the remembering cognition is separate from the experience; the unity of cognitions at different times is the one conscious subject, Maheśvara, endowed with the powers of knowing, remembering and excluding.",
+    "texts": [
+     {
+      "source": "src:isvarapratyabhijna-karika",
+      "ref": "1.2-1.4"
+     }
+    ],
+    "rests_on": [
+     "tea:isvarapratyabhijna-karika:1.2.1-3",
+     "tea:isvarapratyabhijna-karika:1.3.7",
+     "tea:isvarapratyabhijna-karika:1.4.3"
+    ],
+    "disputes": [
+     "dsp:pratyabhijna-vs-buddhist-logicians"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
+    "position": "Each of the five aggregates is not-self: were it self it would not lead to affliction and one could say 'let it be thus'; what is impermanent and painful is not fit to be regarded 'this is mine, this I am, this is my self'. 'Being' is a designation, as 'chariot' is for assembled parts. Asked 'is there a self? is there no self?' the Buddha was silent: either answer would side with eternalism or annihilationism.",
+    "texts": [
+     {
+      "source": "src:anattalakkhana-sutta",
+      "ref": "SN 22.59"
+     },
+     {
+      "source": "src:samyutta-nikaya",
+      "ref": "SN 5.10; SN 44.10"
+     },
+     {
+      "source": "src:majjhima-nikaya",
+      "ref": "MN 22; MN 38"
+     },
+     {
+      "source": "src:dhammapada",
+      "ref": "277-279"
+     }
+    ],
+    "rests_on": [
+     "tea:anattalakkhana-sutta:2-5",
+     "tea:bhikkhuni-samyutta:5.10",
+     "tea:alagaddupama-sutta:25-27",
+     "tea:abyakata-samyutta:44.10",
+     "tea:dhammapada:277-279",
+     "tea:mahatanhasankhaya-sutta:2-7",
+     "tea:potthapada-sutta:39-53"
+    ]
+   },
+   {
+    "lineage": "lin:theravada",
+    "position": "The person is not found as a real and ultimate fact; 'Nāgasena' and 'chariot' are designations; as the chariot is not found when each part is examined, there is no being in the ultimate sense, only mentality-materiality.",
+    "texts": [
+     {
+      "source": "src:milindapanha",
+      "ref": "the chariot dialogue (locator as in tea:milindapanha:3.1.1)"
+     },
+     {
+      "source": "src:visuddhimagga",
+      "ref": "ch. 18"
+     },
+     {
+      "source": "src:kathavatthu",
+      "ref": "1.1"
+     }
+    ],
+    "rests_on": [
+     "tea:milindapanha:3.1.1",
+     "tea:visuddhimagga:18/2",
+     "tea:kathavatthu:1.1"
+    ],
+    "disputes": [
+     "dsp:kv-puggala"
+    ]
+   },
+   {
+    "lineage": "lin:sautrantika",
+    "position": "Apart from the series of aggregates there is no self; 'self' designates the series. Those outside this teaching are not liberated because they hold 'self' to be a separate entity rather than a designation for the series (Vasubandhu, AKBh ch. 9); only aggregates, conditioned by defilement and karma, enter the womb through the intermediate existence, like a flame.",
+    "texts": [
+     {
+      "source": "src:abhidharmakosabhasya",
+      "ref": "ch. 9 (Pudgalaviniścaya)"
+     },
+     {
+      "source": "src:abhidharmakosa",
+      "ref": "3.18"
+     }
+    ],
+    "rests_on": [
+     "tea:abhidharmakosabhasya:9.p461",
+     "tea:abhidharmakosa:3.18"
+    ]
+   },
+   {
+    "lineage": "lin:pramana-buddhist",
+    "position": "One who sees a self loves it as 'I', thirsts for its happiness, and that thirst hides faults and drives rebirth: the view of self is the root of saṃsāra. The selves of the Naiyāyikas, Mīmāṃsakas, Sāṃkhyas, Jains, Upaniṣadic thinkers and Vātsīputrīyas are examined and refuted; whatever exists is momentary.",
+    "texts": [
+     {
+      "source": "src:pramanavarttika",
+      "ref": "1.219-221 (svārthānumāna numbering as recorded)"
+     },
+     {
+      "source": "src:tattvasangraha",
+      "ref": "Ātmaparīkṣā"
+     },
+     {
+      "source": "src:ksanabhangasiddhi-ratnakirti",
+      "ref": "whole"
+     }
+    ],
+    "rests_on": [
+     "tea:pramanavarttika:1.219-221",
+     "tea:tattvasangraha:atmapariksa",
+     "tea:ksanabhangasiddhi-ratnakirti:1"
+    ],
+    "disputes": [
+     "dsp:momentariness"
+    ]
+   },
+   {
+    "lineage": "lin:madhyamaka",
+    "position": "If the self were the aggregates it would arise and perish; if other than them it would lack their marks. The self is neither the aggregates, nor other than them, nor their possessor — like the chariot sought in seven ways. The Buddhas have taught 'self', have taught 'no-self', and have taught neither self nor no-self; 'I exist' and 'mine exists' are false in the ultimate sense.",
+    "texts": [
+     {
+      "source": "src:mulamadhyamakakarika",
+      "ref": "ch. 18; 27.8"
+     },
+     {
+      "source": "src:madhyamakavatara",
+      "ref": "6.120-165"
+     },
+     {
+      "source": "src:ratnavali",
+      "ref": "1.28"
+     },
+     {
+      "source": "src:catuhsataka",
+      "ref": "ch. 10"
+     },
+     {
+      "source": "src:bodhicaryavatara",
+      "ref": "9.58-77"
+     },
+     {
+      "source": "src:madhyamakahrdaya",
+      "ref": "ch. 8"
+     }
+    ],
+    "rests_on": [
+     "tea:mulamadhyamakakarika:18.1",
+     "tea:mulamadhyamakakarika:18.6",
+     "tea:mulamadhyamakakarika:27.8",
+     "tea:madhyamakavatara:6.120",
+     "tea:madhyamakavatara:6.151-160",
+     "tea:ratnavali:1.28",
+     "tea:catuhsataka:10",
+     "tea:bodhicaryavatara:9.58-60",
+     "tea:madhyamakahrdaya:8/2"
+    ]
+   },
+   {
+    "lineage": "lin:pudgalavada",
+    "position": "A person (pudgala) exists, designated in dependence on the present aggregates, neither the same as nor different from them, inexpressible — as fire in dependence on fuel; it is the bearer of the burden of the aggregates (the middle position; see dsp:pudgala).",
+    "texts": [
+     {
+      "source": "src:abhidharmakosabhasya",
+      "ref": "ch. 9 (as reported)"
+     },
+     {
+      "source": "src:samayabhedoparacanacakra",
+      "ref": "Vātsīputrīya tenets"
+     }
+    ],
+    "rests_on": [
+     "tea:abhidharmakosabhasya:9.p461/3",
+     "tea:samayabhedoparacanacakra:5",
+     "tea:bhara-sutta:2-7"
+    ],
+    "reported_by_opponent": true,
+    "reporting_source": "Vasubandhu (AKBh 9); Vasumitra's Samayabhedoparacanacakra",
+    "disputes": [
+     "dsp:pudgala"
+    ]
+   },
+   {
+    "lineage": "lin:tathagatagarbha",
+    "position": "'Self' in the true sense means the tathāgatagarbha: all beings have buddha-nature; seeing the Tathāgata as impermanent, suffering, non-self and impure is inverted; the dharmakāya has the perfection of self. (Other Mahāyāna texts read this 'self' as a skilful name for emptiness — see dsp:buddha-nature-self-or-emptiness.)",
+    "texts": [
+     {
+      "source": "src:mahaparinirvana-sutra-mahayana",
+      "ref": "chs. 2, 7"
+     },
+     {
+      "source": "src:srimaladevi-sutra",
+      "ref": "ch. 12"
+     },
+     {
+      "source": "src:lankavatara-sutra",
+      "ref": "ch. 2"
+     }
+    ],
+    "rests_on": [
+     "tea:mahaparinirvana-sutra-mahayana:7",
+     "tea:mahaparinirvana-sutra-mahayana:2",
+     "tea:srimaladevi-sutra:12",
+     "tea:lankavatara-sutra:2.p33"
+    ],
+    "disputes": [
+     "dsp:buddha-nature-self-or-emptiness"
+    ]
+   },
    {
     "lineage": "lin:carvaka",
     "position": "(As reported) Only the living body qualified by consciousness; nothing survives it.",
@@ -17164,7 +18415,8 @@
      "tea:sarvadarsanasangraha:1/2",
      "tea:brahma-sutra-bhasya-sankara:3.3.53/2"
     ],
-    "party": "reported_by_opponent"
+    "party": "reported_by_opponent",
+    "contributed_by": "U33-sramana"
    },
    {
     "lineage": "lin:sramana",
@@ -17181,7 +18433,8 @@
     "rests_on": [
      "tea:samannaphala-sutta:26"
     ],
-    "party": "reported_by_opponent"
+    "party": "reported_by_opponent",
+    "contributed_by": "U33-sramana"
    },
    {
     "lineage": "lin:ajnana",
@@ -17198,7 +18451,8 @@
     "rests_on": [
      "tea:sutrakrtanga-vrtti-silanka:1.12"
     ],
-    "party": "reported_by_opponent"
+    "party": "reported_by_opponent",
+    "contributed_by": "U33-sramana"
    },
    {
     "lineage": "lin:advaita-vedanta",
@@ -17214,22 +18468,108 @@
     ],
     "rests_on": [
      "tea:brahma-sutra-bhasya-sankara:3.3.54"
-    ]
+    ],
+    "contributed_by": "U33-sramana"
    }
   ],
-  "notes": "U33 contribution (śramaṇa and Lokāyata sides); U50 owns the dispute.",
-  "coverage": [
-   "B1",
-   "G"
+  "historical_debates": [
+   {
+    "name": "Kathāvatthu 1.1 (Puggalakathā)",
+    "date": "tradition: the Third Council at Pāṭaliputra under Aśoka",
+    "participants": [
+     "tch:moggaliputta-tissa"
+    ],
+    "accounts": "Kathāvatthu 1.1 and its commentary (opponents named as Vajjiputtakas and Sammitīyas)",
+    "outcome_by_tradition": "Theravāda: the person is not found as a real and ultimate fact; the personalists refuted."
+   },
+   {
+    "name": "Mahāvīra and Indrabhūti Gautama (the first gaṇadharavāda)",
+    "date": "tradition: Mahāvīra's lifetime",
+    "participants": [
+     "tch:mahavira",
+     "tch:indrabhuti-gautama"
+    ],
+    "accounts": "Viśeṣāvaśyakabhāṣya, gaṇadharavāda (the tradition's account)",
+    "outcome_by_tradition": "Jain: Indrabhūti, who secretly doubted the soul's existence, was shown that it is known directly in the awareness 'I' and became the first gaṇadhara."
+   },
+   {
+    "name": "Nāgasena and King Milinda: the chariot",
+    "date": "tradition: the reign of Milinda",
+    "participants": [
+     "tch:nagasena",
+     "tch:milinda"
+    ],
+    "accounts": "Milindapañha (the tradition's account)",
+    "outcome_by_tradition": "Theravāda: the king accepts that 'Nāgasena', like 'chariot', is a designation."
+   },
+   {
+    "name": "The Nyāya–Buddhist exchange on the self (textual)",
+    "date": "c. 5th–11th c. CE (scholarly, approximate)",
+    "participants": [
+     "tch:vatsyayana",
+     "tch:uddyotakara",
+     "tch:dharmakirti",
+     "tch:santaraksita",
+     "tch:udayana",
+     "tch:ratnakirti"
+    ],
+    "accounts": "Nyāyabhāṣya and Nyāyavārttika on NS 3.1; Pramāṇavārttika; Tattvasaṅgraha (Ātmaparīkṣā); Ātmatattvaviveka; Ratnakīrti's Kṣaṇabhaṅgasiddhi",
+    "outcome_by_tradition": "Each tradition holds that its own arguments stand; the exchange continued until Buddhism waned in India.",
+    "notes": "A series of written replies across generations, not a single meeting."
+   }
   ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Not yet reconciled: all parties agree that the body, senses and changing cognitions are not the true self, but they disagree whether anything beyond them — an enduring conscious subject — exists.",
+   "detail": "Partial convergences recorded without reconciling: (a) Advaita, Sāṃkhya-Yoga and the Buddhists all deny that the agent-ego or the aggregates are the self; (b) the Jains offer their own standpoint synthesis — the soul permanent as substance, changing as mode (Bhagavatī 7.2; Āptamīmāṃsā 3); (c) Kṣemarāja places every doctrine of the self as a role of the one consciousness at a particular level (Pratyabhijñāhṛdaya 8). None of these is accepted by the other parties.",
+   "tradition_objections": "The Buddhist logicians refute every permanent self, the Upaniṣadic one included (Tattvasaṅgraha, Ātmaparīkṣā); Theravāda and Vasubandhu reject even a person neither same nor different from the aggregates; Nyāya counts denial of the self as false knowledge (NBh 1.1.2); Advaita denies that its witness is the Buddhist's momentary cognition (BSBh 2.2.28); Madhyamaka rejects both 'self' and 'no-self' as fixed views (MMK 18.6).",
+   "rests_on": [
+    "tea:nyaya-bhasya:1.1.2",
+    "tea:anattalakkhana-sutta:2-5",
+    "tea:brahma-sutra-bhasya-sankara:2.2.25",
+    "tea:tattvasangraha:atmapariksa",
+    "tea:bhagavati-sutra:7.2",
+    "tea:pratyabhijnahrdayam:8/2",
+    "tea:mulamadhyamakakarika:18.6"
+   ]
+  },
+  "candidate_readings": [
+   "P1-level: the Buddhist analysis negates a self found among or apart from the aggregates — which Advaita also calls not-self — while Advaita's witness is said never to be an object of such analysis. Rejected by Śāntarakṣita (who refutes the Upaniṣadic self too) and by Advaita (which asserts the self as being-consciousness, not an absence).",
+   "P2-standpoint (the Jains' own synthesis): permanent from the substance standpoint, momentary from the mode standpoint, so the Nyāya and Buddhist theses each state one aspect. Rejected by both Nyāya and the Buddhists as combining incompatible claims.",
+   "P4-stage (Kṣemarāja, PH 8): each doctrine of the self is a role of the one consciousness reached at a given level — body, buddhi, prāṇa, void, prakṛti, Īśvara. An inclusivist ranking that the ranked schools do not accept.",
+   "P5-neyartha: Mahāyāna passages on a 'true self' (tathāgatagarbha) read as provisional by some, definitive by others (see dsp:buddha-nature-self-or-emptiness).",
+   "P6-upaya: the Buddha's silence to Vacchagotta (SN 44.10) and MMK 18.6 ('self' and 'no-self' both taught) read as teaching fitted to the hearer; Nyāya and Advaita do not accept that their self is merely a teaching device."
+  ],
+  "queue_ref": "RQ-U50-01",
+  "disputes": [
+   "dsp:pudgala",
+   "dsp:kv-puggala",
+   "dsp:momentariness",
+   "dsp:pratyabhijna-vs-buddhist-logicians",
+   "dsp:buddha-nature-self-or-emptiness",
+   "dsp:self-known-as-object",
+   "dsp:is-mind-self-luminous",
+   "dsp:citta-momentary-or-enduring",
+   "dsp:atomic-or-pervasive-self",
+   "dsp:consciousness-transmigrates",
+   "dsp:tajjiva-taccharira",
+   "dsp:materialism-and-the-other-world",
+   "dsp:nibbana-atta-or-anatta"
+  ],
+  "notes": "Owned by U50. Cārvāka, Ajñāna and Pakudha sides (as reported by opponents) were contributed by U33 and are included verbatim. The Pudgalavāda middle position is treated fully in dsp:pudgala (U38).",
   "verification": {
    "level": "skeleton",
-   "confidence": "moderate",
+   "confidence": "high",
    "unverified": false,
    "checks": []
   },
+  "alt_notes": [
+   "U33 contribution (śramaṇa and Lokāyata sides); U50 owns the dispute."
+  ],
   "provenance": {
    "units": [
+    "skeleton:U50-debates",
     "skeleton:U33-sramana"
    ],
    "phases": [
@@ -19324,6 +20664,88 @@
   "provenance": {
    "units": [
     "skeleton:U35-jain-philosophy"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:kalacakra-authenticity",
+  "question": "Is the Kālacakra an authentic Buddhist tantra — and, for the Jonang, the definitive one?",
+  "coverage_ref": null,
+  "sides": [
+   {
+    "lineage": "lin:jonang",
+    "position": "The Kālacakra with its bodhisattva commentaries is the pinnacle of the tantras and teaches the definitive meaning — the other-empty ultimate, the emptiness endowed with all supreme aspects.",
+    "arguments": [
+     "The Vimalaprabhā's reading of the tantra in the definitive sense.",
+     "Agreement with the third-turning sūtras (Dolpopa)."
+    ],
+    "texts": [
+     {
+      "source": "src:mountain-doctrine",
+      "ref": "definitive"
+     },
+     {
+      "source": "src:vimalaprabha",
+      "ref": "1"
+     }
+    ],
+    "rests_on": [
+     "tea:mountain-doctrine:definitive",
+     "tea:vimalaprabha:1"
+    ]
+   },
+   {
+    "lineage": "lin:sakya",
+    "position": "(Rendawa, early in his career, as recalled) The Kālacakra's cosmology and some of its doctrines conflict with the Abhidharma and other tantras, so it should not be accepted as an authentic Buddhist tantra.",
+    "arguments": [
+     "Cosmological differences from the Abhidharmakośa.",
+     "Doctrinal peculiarities."
+    ],
+    "texts": [],
+    "rests_on": []
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "Rendawa's critique of the Kālacakra",
+    "date": "late 14th c. (as recalled)",
+    "participants": [
+     "tch:rendawa"
+    ],
+    "accounts": "Reported in Tibetan histories; the Kālacakra was defended by Butön's and the Jonang traditions.",
+    "outcome_by_tradition": "The Kālacakra was accepted by all major schools; Rendawa is said to have moderated his view (low confidence)."
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Not yet reconciled.",
+   "candidate_readings": [
+    "P2-standpoint: the Kālacakra's cosmology as the 'outer' Kālacakra, a presentation for its own purpose, beside the Abhidharma's (compare Kongtrul's threefold cosmology).",
+    "P5-neyartha: the Jonang reading of the Kālacakra as definitive versus other schools' readings."
+   ],
+   "tradition_objections": "",
+   "rests_on": [
+    "tea:sheja-kunkhyab:cosmology"
+   ]
+  },
+  "coverage": [
+   "B6",
+   "G"
+  ],
+  "notes": "Low confidence on Rendawa's arguments and on any later change of view; source before use.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -30582,6 +32004,118 @@
   }
  },
  {
+  "id": "dsp:ranking-of-other-revelations",
+  "question": "How is another family's revelation to be placed — as a lower stage of one's own, as a deliberate delusion, as a subdued power, or as a partial standpoint?",
+  "coverage_ref": "C",
+  "sides": [
+   {
+    "lineage": "lin:pratyabhijna",
+    "position": "All philosophies are roles of the one conscious Lord: the Buddhists rest in the intellect-principle, the Jains in the qualities, the Vedic knowers in the Person, the Pāñcarātrikas in the unmanifest; the Trika alone knows the self as both transcendent and immanent.",
+    "texts": [
+     {
+      "source": "src:pratyabhijnahrdayam",
+      "ref": "8 with commentary"
+     }
+    ],
+    "rests_on": [
+     "tea:pratyabhijnahrdayam:8",
+     "tea:pratyabhijnahrdayam:8/2",
+     "tea:pratyabhijnahrdayam:8/3"
+    ]
+   },
+   {
+    "lineage": "lin:vajrayana",
+    "position": "Maheśvara and the worldly gods are subdued by Vajrapāṇi and given places in the Buddha's maṇḍala; they are worldly powers, not the goal.",
+    "texts": [
+     {
+      "source": "src:sarvatathagatatattvasamgraha",
+      "ref": "part 2"
+     }
+    ],
+    "rests_on": [
+     "tea:sarvatathagatatattvasamgraha:trailokyavijaya"
+    ]
+   },
+   {
+    "lineage": "lin:puranic",
+    "position": "The Buddha and the naked ascetics' teachers are Viṣṇu's deluding descent, sent to lead the enemies of the gods away from the Veda.",
+    "texts": [
+     {
+      "source": "src:visnu-purana",
+      "ref": "3.17-18"
+     },
+     {
+      "source": "src:agni-purana",
+      "ref": "16"
+     }
+    ],
+    "rests_on": [
+     "tea:visnu-purana:3.17-18",
+     "tea:agni-purana:16.1-4"
+    ]
+   },
+   {
+    "lineage": "lin:jainism",
+    "position": "Every other doctrine is a one-sided standpoint; the Jina's word is the aggregate of all the wrong views, each true only when joined with the others.",
+    "texts": [
+     {
+      "source": "src:sanmati-tarka",
+      "ref": "3.47, 3.69"
+     }
+    ],
+    "rests_on": [
+     "tea:sanmati-tarka:3.47",
+     "tea:sanmati-tarka:3.69"
+    ]
+   },
+   {
+    "lineage": "lin:madhyamaka",
+    "position": "Whatever is acceptable in the Vedāntins' teaching is acceptable only as the emptiness the Buddha taught.",
+    "texts": [
+     {
+      "source": "src:madhyamakahrdaya",
+      "ref": "8"
+     }
+    ],
+    "rests_on": [
+     "tea:madhyamakahrdaya:8/2"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Not yet reconciled: each tradition applies stage and standpoint to the others while rejecting its own subordination.",
+   "candidate_readings": [
+    "P4-stage and P2-standpoint applied symmetrically: every ranking is made from within one tradition's standpoint, so the rankings do not conflict as descriptions of their authors' own maps.",
+    "Record as mutual subordination and leave unreconciled, since each tradition's final goal is defined against the others."
+   ],
+   "tradition_objections": "Every tradition named rejects being placed below the others; the Jain many-sidedness itself claims to be the complete view.",
+   "rests_on": [
+    "tea:pratyabhijnahrdayam:8/3",
+    "tea:sanmati-tarka:3.69"
+   ]
+  },
+  "coverage": [
+   "C",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U49-cross-family"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "dsp:reality-of-avijnapti",
   "question": "Is unmanifest matter (avijñapti) a real entity?",
   "sides": [
@@ -34837,6 +36371,412 @@
   "provenance": {
    "units": [
     "skeleton:U10-yoga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:souls-one-or-distinct",
+  "question": "Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?",
+  "coverage_ref": "G4",
+  "coverage": [
+   "G"
+  ],
+  "sides": [
+   {
+    "lineage": "lin:advaita-vedanta",
+    "position": "The individual self is Brahman alone: 'that you are', 'I am Brahman', 'this self is Brahman'. The one Lord is the knower of the field in all fields; the plurality and transmigration of souls belong to adjuncts. Of the three early teachers in the Brahmasūtra, Kāśakṛtsna's view — that the supreme Lord himself abides as the individual self — is the one in accord with scripture.",
+    "texts": [
+     {
+      "source": "src:chandogya-upanisad",
+      "ref": "6.8.7"
+     },
+     {
+      "source": "src:brhadaranyaka-upanisad",
+      "ref": "1.4.10"
+     },
+     {
+      "source": "src:brahma-sutra-bhasya-sankara",
+      "ref": "1.4.19-22"
+     },
+     {
+      "source": "src:gita-bhasya-sankara",
+      "ref": "13.2"
+     },
+     {
+      "source": "src:vedantasara",
+      "ref": "tat tvam asi"
+     }
+    ],
+    "rests_on": [
+     "tea:chandogya-upanisad:6.8.7",
+     "tea:brhadaranyaka-upanisad:1.4.10",
+     "tea:mandukya-upanisad:2",
+     "tea:brahma-sutra-bhasya-sankara:1.4.22",
+     "tea:gita-bhasya-sankara:13.2",
+     "tea:vedantasara:tat-tvam-asi",
+     "tea:brahmajnanavalimala:20"
+    ],
+    "disputes": [
+     "dsp:tat-tvam-asi",
+     "dsp:eka-jiva-aneka-jiva"
+    ]
+   },
+   {
+    "lineage": "lin:dvaita",
+    "position": "Difference is real and eternal — fivefold (pañca-bheda): between the Lord and souls, the Lord and matter, soul and soul, soul and matter, and matter and matter. 'Tat tvam asi' does not teach identity (it is read as 'sa ātmā atat tvam asi', 'you are not that', or of the soul's dependence on and likeness to the Lord); those who, proud with 'I am Brahman', read the Veda as oneness go to darkness. Liberated souls remain distinct and graded.",
+    "texts": [
+     {
+      "source": "src:mahabharata-tatparya-nirnaya",
+      "ref": "1.68-71"
+     },
+     {
+      "source": "src:chandogya-upanisad-bhasya-madhva",
+      "ref": "6.8.7"
+     },
+     {
+      "source": "src:visnutattvavinirnaya",
+      "ref": "ch. 1"
+     },
+     {
+      "source": "src:tattvoddyota",
+      "ref": "opening"
+     },
+     {
+      "source": "src:nyayamrta",
+      "ref": "ch. 2"
+     }
+    ],
+    "rests_on": [
+     "tea:mahabharata-tatparya-nirnaya:1.68-71",
+     "tea:chandogya-upanisad-bhasya-madhva:6.8.7",
+     "tea:visnutattvavinirnaya:1/4",
+     "tea:nyayamrta:2",
+     "tea:tattvoddyota:1",
+     "tea:upadhikhandana:1-2",
+     "tea:mahabharata-tatparya-nirnaya:32.116-117"
+    ],
+    "disputes": [
+     "dsp:tat-tvam-asi",
+     "dsp:gradation-in-liberation"
+    ]
+   },
+   {
+    "lineage": "lin:visistadvaita",
+    "position": "Souls are eternal and many and are modes and body of Brahman, inseparable from him (apṛthak-siddhi). In 'tat tvam asi' both words denote Brahman — 'that' as the cause of the world, 'you' as having the soul as its body; scripture's texts of difference, of non-difference and the mediating texts are all true. The self is a part of Brahman as an attribute is part of what it qualifies; the Gītā's 'never was there a time when I was not, nor you' teaches the eternal plurality of selves.",
+    "texts": [
+     {
+      "source": "src:vedarthasangraha",
+      "ref": "on tat tvam asi; ghaṭaka-śruti"
+     },
+     {
+      "source": "src:sribhasya",
+      "ref": "2.3.43; 4.4"
+     },
+     {
+      "source": "src:gita-bhasya-ramanuja",
+      "ref": "2.12"
+     }
+    ],
+    "rests_on": [
+     "tea:vedarthasangraha:tat-tvam-asi",
+     "tea:vedarthasangraha:ghataka-sruti",
+     "tea:sribhasya:2.3/3",
+     "tea:gita-bhasya-ramanuja:2.12",
+     "tea:sribhasya:4.4"
+    ]
+   },
+   {
+    "lineage": "lin:bhedabheda",
+    "position": "The soul is a part (aṃśa) of Brahman, different from it by its limiting adjuncts and non-different in essence (Bhāskara: difference adventitious).",
+    "texts": [
+     {
+      "source": "src:brahma-sutra-bhasya-bhaskara",
+      "ref": "2.3.43"
+     }
+    ],
+    "rests_on": [
+     "tea:brahma-sutra:2.3.43",
+     "tea:brahma-sutra-bhasya-bhaskara:2.3.43"
+    ],
+    "disputes": [
+     "dsp:aupadhika-vs-svabhavika-bhedabheda"
+    ]
+   },
+   {
+    "lineage": "lin:dvaitadvaita",
+    "position": "Because scripture declares both, the soul is a part of Brahman both different and non-different by nature (svābhāvika), like the snake and its coils; the released soul abides in non-separation from Brahman while remaining a distinct knower.",
+    "texts": [
+     {
+      "source": "src:vedanta-parijata-saurabha",
+      "ref": "2.3.43; 3.2.27; 4.4.4"
+     }
+    ],
+    "rests_on": [
+     "tea:vedanta-parijata-saurabha:2.3.43",
+     "tea:brahma-sutra:3.2.27",
+     "tea:vedanta-parijata-saurabha:4.4.4"
+    ]
+   },
+   {
+    "lineage": "lin:gaudiya-vaisnava",
+    "position": "The souls are the Lord's marginal power, eternally distinct from yet dependent on him — inconceivable difference and non-difference (acintya-bhedābheda).",
+    "texts": [
+     {
+      "source": "src:paramatma-sandarbha",
+      "ref": "jīva section"
+     }
+    ],
+    "rests_on": [
+     "tea:paramatma-sandarbha:jiva-and-world-section"
+    ]
+   },
+   {
+    "lineage": "lin:vedanta",
+    "position": "The Brahmasūtra itself records three earlier views on the passages that identify the self with Brahman: Āśmarathya (identity as the fulfilment of the promise that by knowing one all is known), Auḍulomi (identity when the soul departs in liberation), Kāśakṛtsna (the supreme self abides as the individual self). The soul is called a part 'because of the declarations of difference and otherwise'.",
+    "texts": [
+     {
+      "source": "src:brahma-sutra",
+      "ref": "1.4.20-22; 2.3.43"
+     }
+    ],
+    "rests_on": [
+     "tea:brahma-sutra:1.4.20",
+     "tea:brahma-sutra:1.4.21",
+     "tea:brahma-sutra:1.4.22",
+     "tea:brahma-sutra:2.3.43"
+    ]
+   },
+   {
+    "lineage": "lin:saiva-siddhanta",
+    "position": "The Lord is one with souls and yet other than them, and with them — like the soul with the body, the vowel with the consonants; non-duality means inseparability, not identity; the liberated soul becomes equal to Śiva but remains a soul.",
+    "texts": [
+     {
+      "source": "src:sivananabodham",
+      "ref": "sūtra 2"
+     },
+     {
+      "source": "src:sivananasiddhiyar",
+      "ref": "cupakkam 2"
+     }
+    ],
+    "rests_on": [
+     "tea:sivananabodham:2",
+     "tea:sivananasiddhiyar:cupakkam.2",
+     "tea:civanana-mapatiyam:sutra.2"
+    ],
+    "disputes": [
+     "dsp:liberation-identity-or-equality-with-siva"
+    ]
+   },
+   {
+    "lineage": "lin:kashmir-saivism",
+    "position": "Maheśvara alone is the self of all beings, of the form of the universe, full of the undivided awareness 'I'; the liberated becomes (like) Śiva.",
+    "texts": [
+     {
+      "source": "src:isvarapratyabhijna-karika",
+      "ref": "4.1"
+     },
+     {
+      "source": "src:siva-sutra",
+      "ref": "3.25"
+     }
+    ],
+    "rests_on": [
+     "tea:isvarapratyabhijna-karika:4.1",
+     "tea:siva-sutra:3.25"
+    ]
+   },
+   {
+    "lineage": "lin:vaisesika",
+    "position": "Selves are many, not one: though pleasure, pain and cognition arise alike, their distinct states (bondage, release, experience) show plurality.",
+    "texts": [
+     {
+      "source": "src:vaisesika-sutra",
+      "ref": "3.2.15-17"
+     },
+     {
+      "source": "src:tarkasangraha",
+      "ref": "ātman"
+     }
+    ],
+    "rests_on": [
+     "tea:vaisesika-sutra:3.2.15-17",
+     "tea:tarkasangraha:atman"
+    ]
+   },
+   {
+    "lineage": "lin:patanjala-yoga",
+    "position": "Though the seen has ceased for the one whose purpose is fulfilled, it has not ceased for others, being common to them: puruṣas are many.",
+    "texts": [
+     {
+      "source": "src:yoga-sutra",
+      "ref": "2.22"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-sutra:2.22",
+     "tea:yoga-bhasya:2.22"
+    ]
+   },
+   {
+    "lineage": "lin:epic-teaching",
+    "position": "Asked whether there are many puruṣas or one, the Mokṣadharma reports that the Sāṃkhya-Yoga thinkers hold many, and teaches that all are grounded in the one Puruṣa.",
+    "texts": [
+     {
+      "source": "src:moksadharma",
+      "ref": "12.338"
+     }
+    ],
+    "rests_on": [
+     "tea:moksadharma:12.338"
+    ],
+    "disputes": [
+     "dsp:one-or-many-purusas-epic"
+    ]
+   },
+   {
+    "lineage": "lin:jainism",
+    "position": "Souls are infinitely many, each an independent substance; absolute non-duality is refuted.",
+    "texts": [
+     {
+      "source": "src:aptamimamsa",
+      "ref": "24-27"
+     }
+    ],
+    "rests_on": [
+     "tea:aptamimamsa:24-27"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "Nyāyāmṛta and Advaitasiddhi on the Upaniṣadic identity sentences",
+    "date": "16th–17th c. CE (scholarly, approximate)",
+    "participants": [
+     "tch:vyasatirtha",
+     "tch:madhusudana-sarasvati"
+    ],
+    "accounts": "Nyāyāmṛta ch. 2 denies that 'tat tvam asi' and 'satyaṃ jñānam anantam' convey an impartite (akhaṇḍa) meaning; the Advaitasiddhi replies (see also dsp:world-real-or-appearance).",
+    "outcome_by_tradition": "Each tradition holds its own reading established."
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Not yet reconciled: identity (Advaita), eternal difference (Dvaita) and qualified or natural difference-in-non-difference (Viśiṣṭādvaita, Bhedābheda, Śaiva Siddhānta) are each defended as the purport of the same texts.",
+   "detail": "The Brahmasūtra already records the plurality of readings (1.4.20-22). Advaita holds difference to be empirical; the bhedābheda schools hold difference and non-difference both real; Dvaita holds difference real in every state including release.",
+   "tradition_objections": "Madhva brands the identity reading an asura view (Chāndogya-bhāṣya 6.8.7) and holds the five differences real (MBhTN 1.68-71); Advaita holds difference due to adjuncts only (BSBh 1.4.22); Rāmānuja rejects both identity of essence and absolute difference (Vedārthasaṃgraha).",
+   "rests_on": [
+    "tea:chandogya-upanisad:6.8.7",
+    "tea:chandogya-upanisad-bhasya-madhva:6.8.7",
+    "tea:mahabharata-tatparya-nirnaya:1.68-71",
+    "tea:brahma-sutra-bhasya-sankara:1.4.22",
+    "tea:vedarthasangraha:ghataka-sruti",
+    "tea:brahma-sutra:1.4.20",
+    "tea:brahma-sutra:1.4.22"
+   ]
+  },
+  "candidate_readings": [
+   "P1-level (Advaita's own): difference is real for the empirical self, identity is the ultimate truth — rejected by Madhva, for whom difference is real in every state, and by Rāmānuja, who denies identity of essence.",
+   "P2-standpoint: souls one with the Lord as consciousness (substance standpoint), many as individual centres (mode standpoint) — the bhedābheda schools' own form; rejected by Dvaita as a denial of real difference and by Advaita as a denial of non-duality.",
+   "P3-path (devotional vs knowledge): the devotee's 'I am yours' (dāsoham) and the knower's 'I am that' (so'ham) as two paths — Śāṇḍilya Bhakti Sūtra 29-31 records Kāśyapa (difference), Bādarāyaṇa (identity) and Śāṇḍilya (both); rejected by Dvaita as making difference merely devotional.",
+   "P4-stage: dāsoham ripening into so'ham (see dsp:dasoham-soham) — rejected by Dvaita and Viśiṣṭādvaita, for whom the servant relation is eternal."
+  ],
+  "queue_ref": "RQ-U50-04",
+  "disputes": [
+   "dsp:tat-tvam-asi",
+   "dsp:jiva-brahman-relation-brahma-sutra",
+   "dsp:aupadhika-vs-svabhavika-bhedabheda",
+   "dsp:liberation-identity-or-equality-with-siva",
+   "dsp:one-or-many-purusas",
+   "dsp:one-or-many-purusas-epic",
+   "dsp:eka-jiva-aneka-jiva",
+   "dsp:object-of-bhakti-sbs",
+   "dsp:dasoham-soham",
+   "dsp:gradation-in-liberation",
+   "dsp:state-of-the-liberated-brahma-sutra"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U50-debates"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:source-of-hatha-yoga",
+  "question": "Was haṭha yoga taught by Śiva (Ādinātha) through the Nāth siddhas, or did its earliest methods arise in a Buddhist tantric milieu?",
+  "coverage_ref": "C",
+  "sides": [
+   {
+    "lineage": "lin:hatha-yoga",
+    "position": "Haṭha was taught by Śrī Ādinātha (Śiva) and known by Matsyendra, Gorakṣa and the other great siddhas, from whom Svātmārāma received it.",
+    "texts": [
+     {
+      "source": "src:hatha-yoga-pradipika",
+      "ref": "1.1-9"
+     }
+    ],
+    "rests_on": [
+     "tea:hatha-yoga-pradipika:1.1",
+     "tea:hatha-yoga-pradipika:1.4-9"
+    ]
+   },
+   {
+    "lineage": "lin:mahasiddha",
+    "position": "The Tibetan canon places the Amṛtasiddhi among the siddhas' works, opening with homage to Heruka and ascribed to the great master Virūpa.",
+    "texts": [
+     {
+      "source": "src:amrtasiddhimula",
+      "ref": "Tōh 2285"
+     }
+    ],
+    "rests_on": [
+     "tea:amrtasiddhimula:homage",
+     "tea:amrtasiddhimula:colophon"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Not yet reconciled: a question of origins on which the two traditions' accounts differ.",
+   "candidate_readings": [
+    "Several strands: a Buddhist-milieu bindu yoga (Amṛtasiddhi) and Śaiva/Kaula kuṇḍalinī and khecarī strands, joined in the later haṭha compilations (scholarly account).",
+    "A shared siddha milieu in which the same names (Virūpa/Virūpākṣa, Mīna, Cauraṅgī) belong to both traditions (see cpt:siddha-identifications)."
+   ],
+   "tradition_objections": "The haṭha and Nāth traditions name Ādinātha as the source; the Tibetan tradition names Virūpa; neither refers to the other's account.",
+   "rests_on": [
+    "tea:hatha-yoga-pradipika:1.1",
+    "tea:amrtasiddhimula:colophon"
+   ]
+  },
+  "notes": "Evidence: brw:amrtasiddhi-buddhist-to-hatha, brw:four-empties-and-hatha-voids, brw:vajroli-name-and-bindu-retention, brw:natha-mahasiddha.",
+  "coverage": [
+   "C",
+   "G",
+   "A10"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U49-cross-family"
    ],
    "phases": [
     "skeleton"
@@ -41279,6 +43219,503 @@
   "provenance": {
    "units": [
     "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:world-real-or-appearance",
+  "question": "Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?",
+  "coverage_ref": "G3",
+  "coverage": [
+   "G"
+  ],
+  "sides": [
+   {
+    "lineage": "lin:advaita-vedanta",
+    "position": "The world is mithyā: not real, since it is sublated by the knowledge of Brahman; not unreal, since it appears; indeterminable as either — like the silver seen in shell. Duality is mere māyā; non-duality is the ultimate truth. Three orders are distinguished: the ultimate (Brahman), the empirical (the world, real for all practical purposes — Śaṅkara defends external objects against the Buddhist idealist), and the illusory (dream, rope-snake). Falsity is defended under five definitions against the Dvaita critique.",
+    "texts": [
+     {
+      "source": "src:mandukya-karika",
+      "ref": "1.17; 2.6; 2.31"
+     },
+     {
+      "source": "src:brahma-sutra-bhasya-sankara",
+      "ref": "2.1.14; 2.2.28"
+     },
+     {
+      "source": "src:advaitasiddhi",
+      "ref": "prathama pariccheda (mithyātva)"
+     },
+     {
+      "source": "src:tattvapradipika-citsukha",
+      "ref": "mithyātva"
+     },
+     {
+      "source": "src:drg-drsya-viveka",
+      "ref": "32-37"
+     }
+    ],
+    "rests_on": [
+     "tea:mandukya-karika:1.17",
+     "tea:mandukya-karika:2.31",
+     "tea:mandukya-karika:2.6",
+     "tea:atma-bodha:7",
+     "tea:brahma-sutra-bhasya-sankara:2.1.14",
+     "tea:brahma-sutra-bhasya-sankara:2.2.28",
+     "tea:drg-drsya-viveka:32-37",
+     "tea:advaitasiddhi:1",
+     "tea:tattvapradipika-citsukha:falsity",
+     "tea:brahmajnanavalimala:20",
+     "tea:vedantasara:apavada"
+    ]
+   },
+   {
+    "lineage": "lin:visistadvaita",
+    "position": "The world of souls and matter is real, the body of Brahman. The Advaitin's avidyā is untenable in seven ways — no locus, no power to conceal self-luminous Brahman, no coherent nature, no sense to 'indescribable', no means of knowledge, no remover, no removal; no means of knowledge establishes an undifferentiated reality; consciousness is always someone's and of something.",
+    "texts": [
+     {
+      "source": "src:sribhasya",
+      "ref": "1.1.1 (mahāpūrvapakṣa and mahāsiddhānta); 2.1.15"
+     },
+     {
+      "source": "src:siddhitraya",
+      "ref": "Saṃvitsiddhi"
+     },
+     {
+      "source": "src:vedarthasangraha",
+      "ref": "critique of three schools"
+     }
+    ],
+    "rests_on": [
+     "tea:sribhasya:1.1.1/4",
+     "tea:sribhasya:1.1.1/5",
+     "tea:sribhasya:1.1.1/7",
+     "tea:sribhasya:2.1.15",
+     "tea:siddhitraya:samvitsiddhi",
+     "tea:vedarthasangraha:critique-of-three-schools"
+    ],
+    "disputes": [
+     "dsp:avidya-saptavidha-anupapatti"
+    ]
+   },
+   {
+    "lineage": "lin:dvaita",
+    "position": "The world is real: the witness (sākṣin) establishes it as unsublated; what is sublated produces no effect; even dream-objects are real products of impressions. None of the five Advaita definitions of falsity is coherent, and the inferences from 'perceivable', 'insentient' and 'limited' fail. Reality is twofold: the independent (Viṣṇu) and the dependent (souls and matter) — dependent, but real.",
+    "texts": [
+     {
+      "source": "src:nyayamrta",
+      "ref": "prathama pariccheda"
+     },
+     {
+      "source": "src:anuvyakhyana",
+      "ref": "1.4.90-103"
+     },
+     {
+      "source": "src:prapancamithyatvanumanakhandana",
+      "ref": "whole"
+     },
+     {
+      "source": "src:tattvasankhyana",
+      "ref": "1"
+     },
+     {
+      "source": "src:vadavali",
+      "ref": "1"
+     }
+    ],
+    "rests_on": [
+     "tea:nyayamrta:1",
+     "tea:anuvyakhyana:1.4.90",
+     "tea:anuvyakhyana:1.4.95-98",
+     "tea:anuvyakhyana:1.4.99-103",
+     "tea:tattvasankhyana:1",
+     "tea:prapancamithyatvanumanakhandana:1",
+     "tea:vadavali:1",
+     "tea:mandukya-upanisad-bhasya-madhva:2.9",
+     "tea:mayavadakhandana:1"
+    ],
+    "disputes": [
+     "dsp:nyayamrta-advaitasiddhi"
+    ]
+   },
+   {
+    "lineage": "lin:bhedabheda",
+    "position": "The effect is real and both different and non-different from its cause; those who expound māyā lead people astray (Bhāskara).",
+    "texts": [
+     {
+      "source": "src:brahma-sutra-bhasya-bhaskara",
+      "ref": "1.4.25; 2.1.14"
+     }
+    ],
+    "rests_on": [
+     "tea:brahma-sutra-bhasya-bhaskara:2.1.14",
+     "tea:brahma-sutra-bhasya-bhaskara:1.4.25"
+    ]
+   },
+   {
+    "lineage": "lin:gaudiya-vaisnava",
+    "position": "The world is a real transformation of the Lord's external power; the souls are his marginal power, distinct yet dependent. To call the world false and the Lord's lordship imagined is the māyāvāda that the Gītā (16.8) describes and the Padma Purāṇa calls 'Buddhism in disguise'.",
+    "texts": [
+     {
+      "source": "src:paramatma-sandarbha",
+      "ref": "jīva and world sections; anuccheda 71"
+     },
+     {
+      "source": "src:caitanya-caritamrta",
+      "ref": "1.7"
+     }
+    ],
+    "rests_on": [
+     "tea:paramatma-sandarbha:jiva-and-world-section",
+     "tea:paramatma-sandarbha:71",
+     "tea:caitanya-caritamrta:1.7"
+    ],
+    "disputes": [
+     "dsp:gaudiya-critique-of-advaita"
+    ]
+   },
+   {
+    "lineage": "lin:kashmir-saivism",
+    "position": "The universe is the real self-manifestation of free consciousness on its own screen; māyā is the Lord's power of self-concealment (Māyā-śakti), his supreme freedom — not an indeterminable ignorance. Those who say 'in the beginning this was being' stand at the level of the Īśvara-tattva, and some knowers of the Upaniṣads take prāṇa as the self: partial roles of the one consciousness. (The Vijñāna Bhairava nevertheless teaches contemplating the universe as a magic show as one means to peace.)",
+    "texts": [
+     {
+      "source": "src:pratyabhijnahrdayam",
+      "ref": "sūtras 1-2, 8 with commentary"
+     },
+     {
+      "source": "src:paramarthasara",
+      "ref": "15"
+     },
+     {
+      "source": "src:isvarapratyabhijna-karika",
+      "ref": "1.5.1"
+     },
+     {
+      "source": "src:vijnana-bhairava-tantra",
+      "ref": "102; 133"
+     }
+    ],
+    "rests_on": [
+     "tea:pratyabhijnahrdayam:1",
+     "tea:pratyabhijnahrdayam:2",
+     "tea:pratyabhijnahrdayam:8/2",
+     "tea:paramarthasara:15",
+     "tea:isvarapratyabhijna-karika:1.5.1",
+     "tea:vijnana-bhairava-tantra:133"
+    ]
+   },
+   {
+    "lineage": "lin:sakta",
+    "position": "Māyā is the Goddess's own power; she is the manifest and the unmanifest; her reality is beyond both duality and non-duality (see dsp:maya-sakti-or-avidya).",
+    "texts": [
+     {
+      "source": "src:lalita-sahasranama",
+      "ref": "86-87"
+     },
+     {
+      "source": "src:saundarya-lahari",
+      "ref": "35"
+     },
+     {
+      "source": "src:kularnava-tantra",
+      "ref": "1.110"
+     }
+    ],
+    "rests_on": [
+     "tea:lalita-sahasranama:86-87",
+     "tea:saundarya-lahari:35",
+     "tea:kularnava-tantra:1.110"
+    ],
+    "disputes": [
+     "dsp:maya-sakti-or-avidya",
+     "dsp:world-illusion-or-mansion-of-mirth"
+    ]
+   },
+   {
+    "lineage": "lin:saiva-siddhanta",
+    "position": "The world is real, produced from real māyā by Śiva as efficient cause; 'advaita' in the Śivajñānabodha means non-separateness, not numerical identity; the Advaita and other views are set out and refuted.",
+    "texts": [
+     {
+      "source": "src:sivananabodham",
+      "ref": "1"
+     },
+     {
+      "source": "src:civanana-mapatiyam",
+      "ref": "sūtra 2"
+     },
+     {
+      "source": "src:sivananasiddhiyar",
+      "ref": "parapakkam"
+     }
+    ],
+    "rests_on": [
+     "tea:sivananabodham:1",
+     "tea:civanana-mapatiyam:sutra.2",
+     "tea:sivananasiddhiyar:parapakkam"
+    ]
+   },
+   {
+    "lineage": "lin:samkhya",
+    "position": "The world is real, being produced by faultless causes and never sublated; bondage cannot be due to an unreal avidyā — and a real avidyā would abandon non-dualism.",
+    "texts": [
+     {
+      "source": "src:samkhya-sutra",
+      "ref": "1.20-26; 6.52"
+     }
+    ],
+    "rests_on": [
+     "tea:samkhya-sutra:6.52",
+     "tea:samkhya-sutra:1.20-26"
+    ]
+   },
+   {
+    "lineage": "lin:jainism",
+    "position": "Absolute non-duality is refuted: if all were one there would be no distinction of act and fruit, merit and demerit, this world and the next, knowledge and ignorance, bondage and release.",
+    "texts": [
+     {
+      "source": "src:aptamimamsa",
+      "ref": "24-27"
+     }
+    ],
+    "rests_on": [
+     "tea:aptamimamsa:24-27"
+    ]
+   },
+   {
+    "lineage": "lin:nyaya",
+    "position": "The idealist and illusionist thesis lacks a reason: the notion of dream-objects depends on prior waking experience, as memory does; false cognition presupposes a real object mistaken.",
+    "texts": [
+     {
+      "source": "src:nyaya-sutra",
+      "ref": "4.2.31-37"
+     }
+    ],
+    "rests_on": [
+     "tea:nyaya-sutra:4.2.33-37"
+    ],
+    "disputes": [
+     "dsp:external-objects"
+    ]
+   },
+   {
+    "lineage": "lin:madhyamaka",
+    "position": "All dharmas, the fruits of the path and buddhahood itself are like an illusion, like a dream — appearing conventionally, empty of own-nature; form is emptiness and emptiness form (the Prajñāpāramitā background shared by the Mahāyāna schools).",
+    "texts": [
+     {
+      "source": "src:astasahasrika-prajnaparamita",
+      "ref": "ch. 2"
+     },
+     {
+      "source": "src:prajnaparamita-hrdaya",
+      "ref": "§4"
+     }
+    ],
+    "rests_on": [
+     "tea:astasahasrika-prajnaparamita:2",
+     "tea:prajnaparamita-hrdaya:s4"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "The Nyāyāmṛta–Advaitasiddhi exchange",
+    "date": "early 16th – 17th c. CE (scholarly, approximate)",
+    "participants": [
+     "tch:vyasatirtha",
+     "tch:madhusudana-sarasvati",
+     "tch:vyasa-ramacarya",
+     "tch:brahmananda-sarasvati"
+    ],
+    "accounts": "Vyāsatīrtha's Nyāyāmṛta attacks the Advaita definitions of falsity and the inferences for it; Madhusūdana Sarasvatī's Advaitasiddhi answers it section by section; Vyāsa Rāmācārya's Nyāyāmṛta-taraṅgiṇī defends the Nyāyāmṛta; Brahmānanda Sarasvatī's Laghucandrikā (Gauḍabrahmānandī) defends the Advaitasiddhi; later rejoinders continued (e.g. the Nyāyāmṛta-kaṇṭakoddhāra and the Nyāyāmṛta-āmoda in the Dvaita line).",
+    "outcome_by_tradition": "Each tradition holds that its own side prevailed; neither presents the exchange as closed.",
+    "notes": "The order of the later rejoinders is given from memory (moderate confidence)."
+   },
+   {
+    "name": "Rāmānuja and Yajñamūrti at Śrīraṅgam",
+    "date": "tradition: Rāmānuja's lifetime (11th–12th c. CE)",
+    "participants": [
+     "tch:ramanuja"
+    ],
+    "accounts": "Guruparamparāprabhāvam (Ārāyirappaṭi) — the tradition's account",
+    "outcome_by_tradition": "Śrīvaiṣṇava: after eighteen days the Advaita renouncer Yajñamūrti yielded and became Rāmānuja's disciple."
+   },
+   {
+    "name": "Śaṅkara's debates in the digvijaya narratives",
+    "date": "tradition: Śaṅkara's lifetime",
+    "participants": [
+     "tch:sankara"
+    ],
+    "accounts": "Śaṅkaradigvijaya (the tradition's account)",
+    "outcome_by_tradition": "Advaita: Śaṅkara defeated the dualist and ritualist schools of his time.",
+    "notes": "Named opponents and places vary between the digvijaya texts; see also dsp:works-knowledge-grace for Maṇḍana."
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Not yet reconciled: Advaita's own levels of reality make the world real empirically and false ultimately, but Viśiṣṭādvaita, Dvaita, Śaiva Siddhānta and Kashmir Śaivism reject the very distinction as applied to the world, each for its own reasons.",
+   "detail": "Advaita offers P1 in its own terms (the world is vyāvahārika-sat; BSBh 2.2.28 upholds external objects against the Buddhist idealist). The theistic Vedāntas deny that anything can be empirically real and ultimately false (Śrībhāṣya 1.1.1; Nyāyāmṛta 1). Kashmir Śaivism agrees that the world depends on one consciousness but calls it that consciousness's real self-display and māyā its power, not avidyā — a difference both sides keep.",
+   "tradition_objections": "Rāmānuja's seven untenabilities of avidyā (Śrībhāṣya 1.1.1); Vyāsatīrtha's refutation of the five definitions of falsity (Nyāyāmṛta); Madhva's rejection of vivarta (Anuvyākhyāna 1.4.95-98); the Kashmir Śaiva view of māyā as Śakti (Paramārthasāra 15); Advaita in turn holds that any real second to Brahman contradicts the non-dual texts (MK 1.17; Advaitasiddhi).",
+   "rests_on": [
+    "tea:mandukya-karika:1.17",
+    "tea:brahma-sutra-bhasya-sankara:2.2.28",
+    "tea:advaitasiddhi:1",
+    "tea:sribhasya:1.1.1/7",
+    "tea:nyayamrta:1",
+    "tea:anuvyakhyana:1.4.95-98",
+    "tea:paramarthasara:15",
+    "tea:pratyabhijnahrdayam:8/2"
+   ]
+  },
+  "candidate_readings": [
+   "P1-level (Advaita's own): the world is real at the empirical level and false only from the standpoint of Brahman — rejected by Viśiṣṭādvaita and Dvaita, for whom whatever is, is real, and the empirical/ultimate distinction is not scriptural.",
+   "P2-standpoint: from the side of the one consciousness there is no second, from the side of the embodied soul the world is real — rejected by Madhva and Rāmānuja, who hold the world real from every standpoint, and by Advaita if it implies that the world's reality is ultimate.",
+   "P4-stage: Kṣemarāja ranks the Vedāntins' 'being' at the Īśvara-tattva, and the Vijñāna Bhairava prescribes seeing the world as a magic show as a practice (VBT 102, 133) — a practice-level use of the 'appearance' view that does not settle its truth.",
+   "vivarta vs ābhāsa (Advaita vs Kashmir Śaivism): both deny that the one consciousness changes; they differ whether its appearing is real self-display or indeterminable — kept apart by both."
+  ],
+  "queue_ref": "RQ-U50-03",
+  "disputes": [
+   "dsp:nyayamrta-advaitasiddhi",
+   "dsp:avidya-saptavidha-anupapatti",
+   "dsp:maya-sakti-or-avidya",
+   "dsp:gaudiya-critique-of-advaita",
+   "dsp:bhavarupa-avidya",
+   "dsp:locus-of-avidya",
+   "dsp:drsti-srsti-vada",
+   "dsp:how-the-one-appears-as-many",
+   "dsp:khandana-definability",
+   "dsp:world-illusion-or-mansion-of-mirth",
+   "dsp:external-objects",
+   "dsp:is-siva-the-material-cause",
+   "dsp:brahma-parinama-vada"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U50-debates"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:yoga-buddhism-shared-milieu",
+  "question": "Did Pātañjala Yoga take its shared meditative and ethical vocabulary (the four attitudes, the five faculties, the afflictions, samāpatti, dharmamegha) from Buddhism, or do Yoga, Buddhism and Jainism draw on a common śramaṇa milieu?",
+  "coverage_ref": "C",
+  "sides": [
+   {
+    "lineage": "lin:patanjala-yoga",
+    "position": "Yoga is an ancient teaching (the tradition names Hiraṇyagarbha as its first teacher and Patañjali as its compiler); the Yoga text marks its difference from the Buddhists, rejecting the view that objects are constructions of a single mind; no dependence on Buddhism is acknowledged.",
+    "arguments": [
+     "one object is shared by many minds and does not depend on a single mind (YS 4.15–16)",
+     "the bhāṣya states and refutes the idealist argument (YBh 4.14)"
+    ],
+    "texts": [
+     {
+      "source": "src:yoga-sutra",
+      "ref": "4.14-16"
+     },
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "4.14-15"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-sutra:4.15",
+     "tea:yoga-sutra:4.16",
+     "tea:yoga-bhasya:4.14",
+     "tea:yoga-bhasya:4.15"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
+    "position": "The suttas themselves acknowledge that other wanderers taught the abandoning of the hindrances and the four immeasurables, and that the bodhisatta learned the formless attainments from other teachers; the Buddha's distinctiveness lies in knowing where these culminate and in the liberating insight beyond them.",
+    "arguments": [
+     "'we too teach our disciples thus' (SN 46.54)",
+     "each liberation of mind has a stated culmination only the Tathāgata can explain (SN 46.54)",
+     "the formless attainments learned from Āḷāra and Uddaka were judged insufficient (MN 26)"
+    ],
+    "texts": [
+     {
+      "source": "src:bojjhanga-samyutta",
+      "ref": "46.54"
+     },
+     {
+      "source": "src:ariyapariyesana-sutta",
+      "ref": "15-17"
+     }
+    ],
+    "rests_on": [
+     "tea:bojjhanga-samyutta:46.54",
+     "tea:bojjhanga-samyutta:46.54/2",
+     "tea:ariyapariyesana-sutta:15-17"
+    ]
+   },
+   {
+    "lineage": "lin:jainism",
+    "position": "The five great vows and the four reflections belong to the Jina's teaching; Haribhadra treats the yoga taught by others as one path of qualities under different names, correlating his eight views with the limbs beginning with yama.",
+    "arguments": [
+     "the five vows and the name mahāvrata (TS 7.1–2)",
+     "the four reflections toward classes of beings (TS 7.11)",
+     "the eight views correlated with the eight limbs (YDS 16)"
+    ],
+    "texts": [
+     {
+      "source": "src:tattvartha-sutra",
+      "ref": "7.1-2, 7.11"
+     },
+     {
+      "source": "src:yogadrstisamuccaya",
+      "ref": "16"
+     }
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:7.1",
+     "tea:tattvartha-sutra:7.2",
+     "tea:tattvartha-sutra:7.11",
+     "tea:yogadrstisamuccaya:16"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Not yet reconciled: a historical question on which the traditions' own accounts and the scholarly hypotheses differ; no principle settles history.",
+   "candidate_readings": [
+    "Common milieu: the object-class form of the four attitudes (YS 1.33 = TS 7.11, unlike the Pali formula) and the shared five vows suggest a common śramaṇa stock rather than one-way borrowing.",
+    "Specific borrowing: technical terms of Buddhist Abhidharma (anuśaya, the burnt seed, dharmamegha as a ground-name) may have been taken over by the Yoga authors (scholarly hypothesis).",
+    "P2-standpoint (doctrinal content only): the same practices described from different standpoints — boundless pervasion (Buddhist) versus attitudes suited to classes of beings (Yoga, Jain)."
+   ],
+   "tradition_objections": "The Yoga tradition does not acknowledge dependence on Buddhism; the Buddhist tradition claims its path differs in culmination; the Jain tradition derives its vows from the Jinas.",
+   "rests_on": [
+    "tea:yoga-sutra:1.33",
+    "tea:tattvartha-sutra:7.11",
+    "tea:bojjhanga-samyutta:46.54"
+   ]
+  },
+  "notes": "Borrowing evidence: brw:buddhism-yoga-four-attitudes, brw:buddhism-yoga-five-faculties, brw:buddhism-yoga-klesa-theory, brw:buddhism-yoga-meditation-vocabulary, brw:mahayana-yoga-dharmamegha, brw:jain-four-bhavanas-and-yoga, brw:jain-mahavratas-and-yoga-yamas, brw:four-immeasurables-sramana-common, brw:yoga-refutes-buddhist-idealism.",
+  "coverage": [
+   "C",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U49-cross-family"
    ],
    "phases": [
     "skeleton"

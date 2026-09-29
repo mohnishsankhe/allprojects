@@ -33,7 +33,7 @@ On 'prapañco yadi vidyeta ... māyāmātram idaṃ dvaitam advaitaṃ paramārt
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, world-fate, karma-liberation_
 
-terms: [māyā](../terms/maya.md), [anyathā-jñāna](../terms/anyathajnana.md) · concepts: [The critique of māyā (māyāvāda-khaṇḍana)](../concepts/mayavada-khandana.md), [The reality of the world (jagat-satyatva)](../concepts/jagat-satyatva.md) · obstacles: [Knowing otherwise (wrong cognition)](../obstacles/anyathajnana.md) · disputes: `dsp:world-real-or-appearance`
+terms: [māyā](../terms/maya.md), [anyathā-jñāna](../terms/anyathajnana.md) · concepts: [The critique of māyā (māyāvāda-khaṇḍana)](../concepts/mayavada-khandana.md), [The reality of the world (jagat-satyatva)](../concepts/jagat-satyatva.md) · obstacles: [Knowing otherwise (wrong cognition)](../obstacles/anyathajnana.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 3-7 <a id="tea-mandukya-upanisad-bhasya-madhva-3-7"></a>
 `skeleton` · confidence high
@@ -66,4 +66,4 @@ terms: [praṇava](../terms/pranava.md), [Viṣṇu](../terms/visnu.md) · conce
 _Notes: checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions_
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._

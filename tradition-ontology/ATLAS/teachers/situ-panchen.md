@@ -11,4 +11,4 @@
 Scholar of grammar, medicine and art, editor of the Derge Kangyur (1733), founder of Palpung; revived the Karma Kagyu and favoured the shentong reading.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._

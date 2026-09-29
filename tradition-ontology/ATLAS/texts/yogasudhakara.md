@@ -16,4 +16,4 @@
 A vṛtti on the sūtras ('the speech of the lord of serpents') by Sadāśiva Brahmendra, composed, as its closing verses say, by the grace of the teacher and offered at the teacher's feet.
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:02 IST._

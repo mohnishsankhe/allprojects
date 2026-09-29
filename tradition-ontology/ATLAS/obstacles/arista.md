@@ -13,4 +13,4 @@ Configurations threatening early death or calamity, especially of infants (BJ 6;
   - [Bṛhat Parāśara Horā Śāstra](../texts/brhat-parasara-hora-sastra.md) — ref: 9-10
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._

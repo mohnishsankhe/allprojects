@@ -27,4 +27,4 @@ practices: [Recitation of the Devī Māhātmya (Saptaśatī, Caṇḍī-pāṭha
 _Notes: Recited as a limb (aṅga) of the Durgā Saptaśatī (Devī Māhātmya, U07); U23 records the Śākta liturgy._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._

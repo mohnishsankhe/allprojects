@@ -10,4 +10,4 @@
 Compiler of the Upāyikā, which gives in full the sūtras quoted in the Kośa.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._

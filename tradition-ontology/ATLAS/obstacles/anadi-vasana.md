@@ -12,4 +12,4 @@ Liberation is not reached by mere hearing, because beginningless latent tendenci
   - [Sāṃkhya Sūtra](../texts/samkhya-sutra.md) — ref: 2.3; rests_on: ["tea:samkhya-sutra:2.1-5"]
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._

@@ -15,4 +15,4 @@
 **Related:** [gzhan stong (zhentong)](zhentong.md), [chad stong](chetong.md), [mi 'gyur ba'i bde ba chen po](mingyur-dechen.md)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

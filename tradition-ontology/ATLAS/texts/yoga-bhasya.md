@@ -500,7 +500,7 @@ The seen, though destroyed for the one puruṣa whose purpose is done, is not de
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: world-fate_
 
-terms: [puruṣa](../terms/purusa.md), [saṃyoga](../terms/samyoga.md) · concepts: [Plurality of puruṣas](../concepts/plurality-of-purusas.md) · disputes: `dsp:souls-one-or-distinct`
+terms: [puruṣa](../terms/purusa.md), [saṃyoga](../terms/samyoga.md) · concepts: [Plurality of puruṣas](../concepts/plurality-of-purusas.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 2.23 <a id="tea-yoga-bhasya-2-23"></a>
 `skeleton` · confidence high
@@ -986,7 +986,7 @@ terms: [vāsanā](../terms/vasana.md), [avidyā](../terms/avidya.md) · concepts
 
 _level: unmarked · standpoint: mode · path: knowledge · stage: all · types: world-fate_
 
-terms: [adhvan](../terms/adhvan.md) · concepts: [Past and future exist in their own form](../concepts/existence-of-past-and-future.md) · disputes: `dsp:causation`
+terms: [adhvan](../terms/adhvan.md) · concepts: [Past and future exist in their own form](../concepts/existence-of-past-and-future.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 4.13 <a id="tea-yoga-bhasya-4-13"></a>
 `skeleton` · confidence high
@@ -1022,7 +1022,7 @@ If one mind were grasped by another, by what would the cognition of cognition be
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind_
 
-concepts: [The mind is not self-luminous](../concepts/citta-not-self-luminous.md), [Puruṣa (the conscious self)](../concepts/purusa.md) · disputes: [Is the mind (cognition) self-luminous, or is it seen by a distinct, unchanging seer?](../debates/is-mind-self-luminous.md), [Is there a self?](../debates/is-there-a-self.md)
+concepts: [The mind is not self-luminous](../concepts/citta-not-self-luminous.md), [Puruṣa (the conscious self)](../concepts/purusa.md) · disputes: [Is the mind (cognition) self-luminous, or is it seen by a distinct, unchanging seer?](../debates/is-mind-self-luminous.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 4.23 <a id="tea-yoga-bhasya-4-23"></a>
 `skeleton` · confidence high
@@ -1107,4 +1107,4 @@ concepts: [Īśvara, Hiraṇyagarbha and the transmission of Yoga](../concepts/i
 
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:02 IST._

@@ -20,4 +20,4 @@ Author of the Māṇḍūkya Kārikā; teacher of Govinda, Śaṅkara's teacher,
 _Notes: Also credited (traditional) with Śākta works (Subhagodaya, Śrīvidyāratnasūtras) and an Uttaragītā commentary. Whether he is the same person as the author of the commentary on the Sāṃkhya Kārikā (src:samkhya-karika-bhasya-gaudapada) is doubted by most scholars._
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U23-sakta-srividya. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._

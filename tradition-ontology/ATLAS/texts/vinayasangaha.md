@@ -13,4 +13,4 @@
 Sāriputta of Polonnaruwa's compendium of Vinaya decisions not found in the canonical text itself.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._

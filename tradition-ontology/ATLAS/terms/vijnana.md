@@ -34,4 +34,4 @@ _Notes: The commentators distinguish jñāna and vijñāna variously._
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.2, tea:bhagavad-gita:9.1 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:6.8 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U38-early-schools, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch07-09, skeleton:U40-madhyamaka, extraction:bhagavad-gita/ch04-06, skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U38-early-schools, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch07-09, skeleton:U40-madhyamaka, extraction:bhagavad-gita/ch04-06, skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._

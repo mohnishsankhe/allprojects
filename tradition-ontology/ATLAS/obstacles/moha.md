@@ -40,4 +40,4 @@ _Notes: U05's contribution to a shared obstacle._
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.35, tea:bhagavad-gita:5.15, tea:bhagavad-gita:5.20 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.3, tea:bhagavad-gita:10.4, tea:bhagavad-gita:11.1, tea:bhagavad-gita:11.49 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch07-09, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch07-09, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

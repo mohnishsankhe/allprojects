@@ -13,4 +13,4 @@
 Bengali author of the Nyāyakandalī on the Padārthadharmasaṅgraha, dated 991 CE in its colophon. (Distinct from Śrīdhara Svāmin, the Bhāgavata commentator.)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._

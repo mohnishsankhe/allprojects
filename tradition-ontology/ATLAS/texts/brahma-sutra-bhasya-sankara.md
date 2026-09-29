@@ -17,7 +17,7 @@
 Śaṅkara's commentary on the Brahma Sūtras, opening with the 'adhyāsa-bhāṣya' on superimposition as the root of all empirical dealings; it reads the sūtras as teaching the non-dual Brahman, the unreality of the world apart from Brahman, knowledge alone as the means to liberation, and liberation while living, and it critiques Sāṃkhya, Vaiśeṣika, the Buddhist schools, the Jains, the Pāśupatas and the Pāñcarātra.
 **Commentaries on this text:** [Bhāmatī](bhamati.md), [Nyāyanirṇaya](nyayanirnaya.md), [Pañcapādikā](pancapadika.md), [Ratnaprabhā](ratnaprabha.md)
 
-## Teachings (34: skeleton 34)
+## Teachings (40: skeleton 40)
 
 ### 1.1.1 <a id="tea-brahma-sutra-bhasya-sankara-1-1-1"></a>
 `skeleton` · confidence high
@@ -46,6 +46,17 @@ _level: unmarked · standpoint: analytic · path: knowledge · stage: all · typ
 
 terms: [pramāṇa](../terms/pramana.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: `dsp:works-knowledge-grace`, [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md)
 
+### 1.1.3 <a id="tea-brahma-sutra-bhasya-sankara-1-1-3"></a>
+`skeleton` · confidence high
+
+The great scripture beginning with the Ṛgveda — enlarged by many branches of learning, illumining all things like a lamp, almost omniscient — has Brahman as its source (yoni): such a scripture could arise from none but the omniscient; it issued from that great being without effort, as breath ('the Ṛgveda is the out-breathing of this great being'). Or, alternatively: that scripture is the source, i.e. the means of knowledge, of Brahman — Brahman as the cause of the world's origin is known from scripture alone.
+
+> mahata ṛgvedādeḥ śāstrasyānekavidyāsthānopabṛṃhitasya pradīpavatsarvārthāvadyotinaḥ sarvajñakalpasya yoniḥ kāraṇaṃbrahma /
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: all · types: sound-language, ultimate_
+
+teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md), [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+
 ### 1.1.4 <a id="tea-brahma-sutra-bhasya-sankara-1-1-4"></a>
 `skeleton` · confidence high
 
@@ -73,6 +84,17 @@ _level: ultimate · standpoint: analytic · path: knowledge · stage: all · typ
 
 terms: [ānandamaya-kośa](../terms/anandamaya-kosa.md) · concepts: [The five sheaths (pañca-kośa)](../concepts/five-sheaths.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is 'the one consisting of bliss' (ānandamaya, TU 2.5; BS 1.1.12) the supreme Brahman or a sheath?](../debates/is-anandamaya-brahman.md)
 
+### 1.1.12 (introduction to the ānandamaya section) <a id="tea-brahma-sutra-bhasya-sankara-1-1-12"></a>
+`skeleton` · confidence high
+
+Brahman is known in two forms: as qualified by limiting adjuncts — the distinctions of name and form and their modifications — and as the opposite of that, free of all adjuncts; thousands of Upaniṣadic texts show this twofoldness according as knowledge or ignorance is in view. In the state of ignorance all usage, including that of worshipper and worshipped, applies to Brahman: some meditations on Brahman qualified by attributes are for prosperity, some for gradual liberation, some for the success of rites, and their fruits differ with the attributes meditated on, though the Lord meditated on is one. Thus the one Brahman is taught in the Vedānta both as related to adjuncts, as the object of worship, and as free of adjuncts, as the object of knowledge.
+
+> dvirūpaṃ hi brahmāvagamyate, nāmarūpavikārabhedopādhiviśiṣṭaṃ, tadviparītaṃ ca sarvopādhivivarjitam /
+
+_level: bridging · standpoint: analytic · path: knowledge, devotion, meditation · stage: all · types: ultimate, practice_
+
+teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: `dsp:saguna-nirguna`
+
 ### 1.3.28 <a id="tea-brahma-sutra-bhasya-sankara-1-3-28"></a>
 `skeleton` · confidence high
 
@@ -81,6 +103,17 @@ terms: [ānandamaya-kośa](../terms/anandamaya-kosa.md) · concepts: [The five s
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, sound-language, world-fate_
 
 terms: [sphoṭa](../terms/sphota.md), [varṇa](../terms/varna.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md), [Upavarṣa](../teachers/upavarsa.md) · disputes: [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](../debates/sphota.md)
+
+### 1.3.29 <a id="tea-brahma-sutra-bhasya-sankara-1-3-29"></a>
+`skeleton` · confidence high
+
+The eternity of the Veda has already been established from the fact that no independent author of it is remembered; since the world with its fixed forms — the gods and the rest — arises from the Vedic word, the Vedic word must also be understood to be eternal. A mantra says the sacrificers 'found the speech that had entered the seers', i.e. speech already existing; and Vyāsa's smṛti says that at the beginning the great seers, permitted by the Self-born, obtained through austerity the Vedas with the histories that had disappeared at the end of the age.
+
+> svatantrasya karturasmaraṇādibhiḥ sthite vedasya nityatve
+
+_level: conventional · standpoint: analytic · path: knowledge, sound · stage: all · types: sound-language, teacher-transmission_
+
+teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 1.3.38 <a id="tea-brahma-sutra-bhasya-sankara-1-3-38"></a>
 `skeleton` · confidence moderate
@@ -98,7 +131,7 @@ Of the three teachers' views, Kāśakṛtsna's — that the supreme Lord himself
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, dispute_
 
-terms: [upādhi](../terms/upadhi.md), [jīva](../terms/jiva.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md), [Kāśakṛtsna](../teachers/kasakrtsna.md) · disputes: [What is the relation of the individual self to Brahman, according to the teachers named in BS 1.4.20–22?](../debates/jiva-brahman-relation-brahma-sutra.md), `dsp:souls-one-or-distinct`
+terms: [upādhi](../terms/upadhi.md), [jīva](../terms/jiva.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md), [Kāśakṛtsna](../teachers/kasakrtsna.md) · disputes: [What is the relation of the individual self to Brahman, according to the teachers named in BS 1.4.20–22?](../debates/jiva-brahman-relation-brahma-sutra.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 1.4.23 <a id="tea-brahma-sutra-bhasya-sankara-1-4-23"></a>
 `skeleton` · confidence moderate
@@ -107,7 +140,7 @@ Brahman is both the material cause (like clay for pots) and the efficient cause 
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: ultimate, world-fate_
 
-concepts: [Clay and its products](../concepts/clay-and-pots.md), [Creation in Advaita](../concepts/creation-advaita.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: `dsp:causation`
+concepts: [Clay and its products](../concepts/clay-and-pots.md), [Creation in Advaita](../concepts/creation-advaita.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 2.1.14 <a id="tea-brahma-sutra-bhasya-sankara-2-1-14"></a>
 `skeleton` · confidence high
@@ -116,7 +149,7 @@ The effect (the world) is non-different from its cause (Brahman), a mere name de
 
 _level: bridging · standpoint: causal · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [vācārambhaṇa](../terms/vacarambhana.md), [vyāvahārika](../terms/vyavaharika.md), [upādhi](../terms/upadhi.md), [īśvara](../terms/isvara.md) · concepts: [Apparent transformation (vivarta-vāda)](../concepts/vivarta-vada.md), [The three levels of reality](../concepts/three-levels-of-reality.md), [Īśvara in Advaita](../concepts/isvara-advaita.md), [Dream](../concepts/dream-analogy.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: `dsp:causation`, `dsp:world-real-or-appearance`, `dsp:saguna-nirguna`
+terms: [vācārambhaṇa](../terms/vacarambhana.md), [vyāvahārika](../terms/vyavaharika.md), [upādhi](../terms/upadhi.md), [īśvara](../terms/isvara.md) · concepts: [Apparent transformation (vivarta-vāda)](../concepts/vivarta-vada.md), [The three levels of reality](../concepts/three-levels-of-reality.md), [Īśvara in Advaita](../concepts/isvara-advaita.md), [Dream](../concepts/dream-analogy.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md), [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), `dsp:saguna-nirguna`
 
 ### 2.1.33 <a id="tea-brahma-sutra-bhasya-sankara-2-1-33"></a>
 `skeleton` · confidence moderate
@@ -136,6 +169,39 @@ _level: conventional · standpoint: divine · path: action · stage: all · type
 
 teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
+### 2.2.25 <a id="tea-brahma-sutra-bhasya-sankara-2-2-25"></a>
+`skeleton` · confidence high
+
+The Buddhist who holds that everything is momentary must hold that the perceiver too is momentary; but that is impossible because of memory. Remembering follows an experience and is possible only when the one who experienced and the one who remembers are one agent: everyone has the direct recognition 'I saw that, and now I see this'; if the agents were different one would think 'I remember, another saw'. Even the momentarist takes himself as the one agent of seeing and remembering, and recognizes his cognitions from birth to his last breath as his own. Nor can the unity be explained by similarity, for grasping that one moment is similar to another requires a single grasper of both moments, which the momentarist cannot admit.
+
+> apica darśanasmaraṇayoḥ kartaryekasminpratyakṣaḥ pratyabhijñāpratyayaḥ sarvasya lokasya prasiddho 'hamado 'drākṣamidaṃ paśyāmīti /
+
+_level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind_
+
+teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Is everything that exists momentary?](../debates/momentariness.md), [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
+
+### 2.2.28 <a id="tea-brahma-sutra-bhasya-sankara-2-2-28"></a>
+`skeleton` · confidence high
+
+Against the Buddhist who holds that there is only consciousness (vijñānavāda): the non-existence of external objects cannot be established, because they are perceived — in every cognition an external thing, a pillar, a wall, a pot, a cloth, is apprehended. One who perceives an object through contact of the senses and says 'I do not perceive it and it does not exist' is like one who eats, feels satisfied and says he neither eats nor is satisfied. Even those who deny the external object say that the inner cognizable appears 'as if external', which presupposes the external. The self-established witness (sākṣin) of cognition cannot be denied; and this is not the Buddhist's own self-luminous cognition in other words, since cognition is admitted to arise, perish and be many.
+
+> na khalvabhāvo bāhyasyārthasyādhyavasātuṃ śakyate / kasmāt / upalabdheḥ / upalabhyate hi pratipratyayaṃ bāhyo'rthaḥ stambhaḥ kuḍyaṃ ghaṭaḥ paṭa iti /
+
+_level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind_
+
+teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md), [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), [Are there objects external to cognition?](../debates/external-objects.md)
+
+### 2.2.31 <a id="tea-brahma-sutra-bhasya-sankara-2-2-31"></a>
+`skeleton` · confidence high
+
+The store-consciousness (ālayavijñāna) posited as the seat of latent impressions cannot be their locus, since it too is admitted to be momentary: without one enduring, connected knower, or an unchanging seer of all objects, the deposit of impressions, memory and recognition are impossible. Having refuted both Buddhist positions — that of external objects and that of consciousness only — Śaṅkara says that no effort is made to refute the doctrine of the void (śūnyavāda), since it is contradicted by every means of knowledge: worldly usage, established by all the means of knowledge, cannot be denied without knowing another reality.
+
+> śūnyavādipakṣastu sarvapramāṇavipratiṣiddha iti tannirākaraṇāya nādaraḥ kriyate /
+
+_level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute_
+
+teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Is there a store-consciousness (ālaya-vijñāna) distinct from the six consciousnesses?](../debates/existence-of-alaya.md)
+
 ### 2.2.32 <a id="tea-brahma-sutra-bhasya-sankara-2-2-32"></a>
 `skeleton` · confidence moderate
 
@@ -143,7 +209,7 @@ Having refuted the realist, idealist and void doctrines, Śaṅkara says the Bud
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute_
 
-teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: `dsp:advaita-crypto-buddhism`, [Is there a self?](../debates/is-there-a-self.md)
+teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 2.2.37 <a id="tea-brahma-sutra-bhasya-sankara-2-2-37"></a>
 `skeleton` · confidence high
@@ -219,7 +285,7 @@ Some Lokāyatikas, who see the self in the body alone and deny a self apart from
 
 _level: unmarked · standpoint: polemical · path: general · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: [bhūta-caitanya](../terms/bhuta-caitanya.md), [madaśakti](../terms/madasakti.md), [dehātma-vāda](../terms/dehatmavada.md) · concepts: [Consciousness from the elements (bhūta-caitanya)](../concepts/bhuta-caitanya.md), [The body as the self (dehātmavāda)](../concepts/dehatmavada.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Does anything survive the body's death — is there another world and rebirth, or is consciousness a product of the body that ends with it?](../debates/materialism-and-the-other-world.md)
+terms: [bhūta-caitanya](../terms/bhuta-caitanya.md), [madaśakti](../terms/madasakti.md), [dehātma-vāda](../terms/dehatmavada.md) · concepts: [Consciousness from the elements (bhūta-caitanya)](../concepts/bhuta-caitanya.md), [The body as the self (dehātmavāda)](../concepts/dehatmavada.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Does anything survive the body's death — is there another world and rebirth, or is consciousness a product of the body that ends with it?](../debates/materialism-and-the-other-world.md)
 
 ### 3.3.54 <a id="tea-brahma-sutra-bhasya-sankara-3-3-54"></a>
 `skeleton` · confidence high
@@ -228,7 +294,7 @@ Rather the self is distinct from the body, because consciousness does not exist 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: intermediate · types: consciousness-mind, dispute_
 
-concepts: [Consciousness from the elements (bhūta-caitanya)](../concepts/bhuta-caitanya.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Does anything survive the body's death — is there another world and rebirth, or is consciousness a product of the body that ends with it?](../debates/materialism-and-the-other-world.md)
+concepts: [Consciousness from the elements (bhūta-caitanya)](../concepts/bhuta-caitanya.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Does anything survive the body's death — is there another world and rebirth, or is consciousness a product of the body that ends with it?](../debates/materialism-and-the-other-world.md)
 
 ### 3.4.26 <a id="tea-brahma-sutra-bhasya-sankara-3-4-26"></a>
 `skeleton` · confidence moderate
@@ -341,4 +407,4 @@ concepts: [The identity of the self and brahman](../concepts/atman-brahman-ident
 _Notes: Sub-commentaries: Padmapāda's Pañcapādikā (→ Prakāśātman's Vivaraṇa), Vācaspati's Bhāmatī (→ Amalānanda's Kalpataru → Appayya's Parimala), Ānandagiri's Nyāyanirṇaya, Govindānanda's Ratnaprabhā._
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._

@@ -14,4 +14,4 @@ Lifelong, total abstention from violence, falsehood, stealing, sexual activity a
   - [Tattvārthasūtra](../texts/tattvartha-sutra.md) — ref: 7.2; rests_on: ["tea:tattvartha-sutra:7.2"]
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._

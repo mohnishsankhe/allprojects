@@ -11,4 +11,4 @@ A rite in which the sacrificer gives away all he owns; no fruit is stated, so he
   - [Mīmāṃsā Sūtra](../texts/mimamsa-sutra.md) — ref: 4.3.15; 6.7.1-3; rests_on: ["tea:mimamsa-sutra:4.3.15", "tea:mimamsa-sutra:6.7.1-3"]
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:02 IST._

@@ -17,4 +17,4 @@
 _Notes: Hakuin also uses kikai (氣海, 'sea of qi'); the term comes from Chinese medical and Daoist vocabulary (dantian)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

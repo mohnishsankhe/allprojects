@@ -16,4 +16,4 @@ Munidatta's Sanskrit commentary on the Caryāgīti, quoting dohās of Saraha and
   - kind: translation; name: Derge Tengyur, Tōh 2293 (confirmed in the local Derge catalogue); licence: public domain; url: local: sources_raw/derge-tengyur
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._

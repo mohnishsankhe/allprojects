@@ -16,4 +16,4 @@ King of Ujjain turned renouncer and disciple of Paṭṭiṉattār; his 'Lament 
 _Notes: The identification with Bhartṛhari (tch:bhartrhari) is the tradition's; scholars do not accept it. Story recalled at low–moderate confidence._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._

@@ -15,4 +15,4 @@ Song Chan master, compiler of the Chanyuan qinggui (1103), who founded a Lotus a
 _Notes: Shared with U42._
 
 ---
-_Contributed by: skeleton:U43-pure-land, skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U43-pure-land, skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

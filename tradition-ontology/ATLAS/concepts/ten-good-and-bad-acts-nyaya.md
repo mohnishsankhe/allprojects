@@ -13,4 +13,4 @@
 - corresponds-to-in-map → `cpt:ten-courses-of-action`: Close parallel to the Buddhist ten courses of wholesome and unwholesome action (list of shared vocabulary; no borrowing asserted). — rests on [1.1.2/2](../texts/nyaya-bhasya.md#tea-nyaya-bhasya-1-1-2-2)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._

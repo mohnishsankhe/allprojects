@@ -47,7 +47,7 @@ The world appears real, like silver in the shell, as long as Brahman, the non-du
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: beginner · types: world-fate_
 
-terms: [adhiṣṭhāna](../terms/adhisthana.md), [śukti-rajata](../terms/sukti-rajata.md) · concepts: [Shell and silver](../concepts/shell-silver.md), [The three levels of reality](../concepts/three-levels-of-reality.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: `dsp:world-real-or-appearance`
+terms: [adhiṣṭhāna](../terms/adhisthana.md), [śukti-rajata](../terms/sukti-rajata.md) · concepts: [Shell and silver](../concepts/shell-silver.md), [The three levels of reality](../concepts/three-levels-of-reality.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 15 <a id="tea-atma-bodha-15"></a>
 `skeleton` · confidence low
@@ -60,4 +60,4 @@ terms: [upādhi](../terms/upadhi.md) · concepts: [The five sheaths (pañca-koś
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._

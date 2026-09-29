@@ -9,4 +9,4 @@
 Throne-holder of the Sakya from 1959 to 2017, teacher of the Lamdre in exile and worldwide.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._

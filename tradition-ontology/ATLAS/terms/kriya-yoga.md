@@ -17,4 +17,4 @@
 _Notes: Distinct from the Yoga Sūtra's kriyā-yoga (austerity, study, devotion to Īśvara)._
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U10-yoga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U10-yoga. Generated 2026-09-29 18:02 IST._

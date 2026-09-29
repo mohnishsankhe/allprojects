@@ -11,4 +11,4 @@ Writing out the sūtra and honoring the book with flowers, incense, banners and 
   - [Aṣṭasāhasrikā Prajñāpāramitā](../texts/astasahasrika-prajnaparamita.md) — ref: ch. 3, 32; rests_on: ["tea:astasahasrika-prajnaparamita:3", "tea:astasahasrika-prajnaparamita:32"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._

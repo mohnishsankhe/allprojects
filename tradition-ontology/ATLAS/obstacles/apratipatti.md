@@ -11,4 +11,4 @@ Inability or disinclination to engage in practice even when free of sleep and di
   - [Mādhuryakādambinī](../texts/madhurya-kadambini.md) — ref: 4; rests_on: ["tea:madhurya-kadambini:4"]
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._

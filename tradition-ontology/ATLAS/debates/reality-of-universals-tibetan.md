@@ -31,4 +31,4 @@ Universals (generally characterised phenomena) exist conventionally as permanent
 _Notes: Chapa's position is reported by his critics; see U41 dsp:apoha._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._

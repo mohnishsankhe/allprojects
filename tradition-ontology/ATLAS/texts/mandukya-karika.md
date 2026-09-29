@@ -19,7 +19,7 @@
 Gauḍapāda's 215 verses in four prakaraṇas on the Māṇḍūkya Upaniṣad: Āgama (the three states, their three experiencers and the fourth; Oṃ), Vaitathya (the unreality of the waking world, like dream), Advaita (non-duality; the pot-space illustration; asparśa-yoga and the discipline of the mind), and Alātaśānti (the quenching of the firebrand: non-origination, ajātivāda, argued dialectically).
 **Commentaries on this text:** [Māṇḍūkyopaniṣad-Gauḍapādīyakārikā-bhāṣya (ascribed to Śaṅkara)](mandukya-karika-bhasya-sankara.md)
 
-## Teachings (26: skeleton 26)
+## Teachings (33: skeleton 33)
 
 ### 1.9 <a id="tea-mandukya-karika-1-9"></a>
 `skeleton` · confidence high
@@ -70,7 +70,7 @@ If the world of plurality existed it would no doubt cease; this duality is mere 
 
 _level: bridging · standpoint: absolute · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [māyā](../terms/maya.md), [pāramārthika](../terms/paramarthika.md) · concepts: [Māyā in the principal Upaniṣads](../concepts/maya.md), [The three levels of reality](../concepts/three-levels-of-reality.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: `dsp:world-real-or-appearance`
+terms: [māyā](../terms/maya.md), [pāramārthika](../terms/paramarthika.md) · concepts: [Māyā in the principal Upaniṣads](../concepts/maya.md), [The three levels of reality](../concepts/three-levels-of-reality.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 1.25 <a id="tea-mandukya-karika-1-25"></a>
 `skeleton` · confidence high
@@ -92,7 +92,7 @@ What does not exist at the beginning and the end does not exist in the middle ei
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: world-fate, ultimate_
 
-terms: [mithyā](../terms/mithya.md) · concepts: [Falsity of the world (mithyātva)](../concepts/mithyatva.md), [Dream](../concepts/dream-analogy.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: `dsp:world-real-or-appearance`
+terms: [mithyā](../terms/mithya.md) · concepts: [Falsity of the world (mithyātva)](../concepts/mithyatva.md), [Dream](../concepts/dream-analogy.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 2.17 <a id="tea-mandukya-karika-2-17"></a>
 `skeleton` · confidence high
@@ -123,7 +123,7 @@ As dream and magic are seen, and as a city of the gandharvas (in the sky) is see
 
 _level: bridging · standpoint: absolute · path: knowledge · stage: all · types: world-fate, ultimate_
 
-concepts: [Dream](../concepts/dream-analogy.md), [Falsity of the world (mithyātva)](../concepts/mithyatva.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: `dsp:world-real-or-appearance`
+concepts: [Dream](../concepts/dream-analogy.md), [Falsity of the world (mithyātva)](../concepts/mithyatva.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 2.32 <a id="tea-mandukya-karika-2-32"></a>
 `skeleton` · confidence high
@@ -134,7 +134,7 @@ There is no dissolution, no origination, none bound, none striving, none seeking
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: realized · types: ultimate, karma-liberation_
 
-terms: [ajātivāda](../terms/ajativada.md), [pāramārthika](../terms/paramarthika.md) · concepts: [Non-origination (ajātivāda)](../concepts/ajativada.md), [The three levels of reality](../concepts/three-levels-of-reality.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: `dsp:advaita-crypto-buddhism`
+terms: [ajātivāda](../terms/ajativada.md), [pāramārthika](../terms/paramarthika.md) · concepts: [Non-origination (ajātivāda)](../concepts/ajativada.md), [The three levels of reality](../concepts/three-levels-of-reality.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
 
 ### 3.3 <a id="tea-mandukya-karika-3-3"></a>
 `skeleton` · confidence high
@@ -231,7 +231,7 @@ No jīva is ever born; there is no cause for its birth. This is the highest trut
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate_
 
-terms: [ajātivāda](../terms/ajativada.md) · concepts: [Non-origination (ajātivāda)](../concepts/ajativada.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: `dsp:causation`
+terms: [ajātivāda](../terms/ajativada.md) · concepts: [Non-origination (ajātivāda)](../concepts/ajativada.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 4.1 <a id="tea-mandukya-karika-4-1"></a>
 `skeleton` · confidence high
@@ -242,7 +242,7 @@ I salute the best of men who, by knowledge like the sky and not different from i
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate, teacher-transmission_
 
-teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: `dsp:advaita-crypto-buddhism`
+teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
 
 ### 4.2 <a id="tea-mandukya-karika-4-2"></a>
 `skeleton` · confidence moderate
@@ -260,7 +260,18 @@ We approve the non-origination proclaimed (unwittingly) by the disputants (who r
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: dispute, ultimate_
 
-concepts: [Non-origination (ajātivāda)](../concepts/ajativada.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: `dsp:causation`
+concepts: [Non-origination (ajātivāda)](../concepts/ajativada.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
+
+### 4.19 <a id="tea-mandukya-karika-4-19"></a>
+`skeleton` · confidence high
+
+Inability (of a cause to produce), non-apprehension (of origination) and the violation of sequence (of cause and effect): in these ways non-origination has been made manifest in every way by the awakened (buddhaiḥ).
+
+> aśaktir aparijñānaṃ kramakopo 'tha vā punaḥ / evaṃ hi sarvathā buddhair ajātiḥ paridīpitā
+
+_level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: ultimate, dispute_
+
+terms: [ajātivāda](../terms/ajativada.md) · concepts: [Non-origination (ajātivāda)](../concepts/ajativada.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
 
 ### 4.22 <a id="tea-mandukya-karika-4-22"></a>
 `skeleton` · confidence high
@@ -271,7 +282,18 @@ Nothing whatever is born, either from itself or from another; nothing whatever i
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: all · types: ultimate, dispute_
 
-concepts: [Non-origination (ajātivāda)](../concepts/ajativada.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: `dsp:causation`, `dsp:advaita-crypto-buddhism`
+concepts: [Non-origination (ajātivāda)](../concepts/ajativada.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md), [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
+
+### 4.42 <a id="tea-mandukya-karika-4-42"></a>
+`skeleton` · confidence high
+
+Origination was taught by the awakened (buddhaiḥ) — on account of perception and of conventional practice — for those who hold that things are real and who always fear non-origination.
+
+> upalambhāt samācārād asti vastutvavādinām / jātis tu deśitā buddhair ajātes trasatāṃ sadā
+
+_level: bridging · standpoint: seeker · path: knowledge · stage: beginner · types: ultimate, teacher-transmission_
+
+terms: [ajātivāda](../terms/ajativada.md) · concepts: [Non-origination (ajātivāda)](../concepts/ajativada.md), [Levels of truth across the families (two truths, three levels, niścaya–vyavahāra)](../concepts/levels-of-truth-across-families.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
 
 ### 4.47 <a id="tea-mandukya-karika-4-47"></a>
 `skeleton` · confidence moderate
@@ -280,7 +302,51 @@ As a firebrand in motion appears straight, crooked and so on, so consciousness i
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind, world-fate_
 
-concepts: [Non-origination (ajātivāda)](../concepts/ajativada.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: `dsp:advaita-crypto-buddhism`
+concepts: [Non-origination (ajātivāda)](../concepts/ajativada.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
+
+### 4.73-74 <a id="tea-mandukya-karika-4-73-74"></a>
+`skeleton` · confidence high
+
+What exists by imagined convention (kalpita-saṃvṛti) does not exist in the ultimate sense; what may exist by the convention of dependence on others (paratantra) does not exist ultimately. The unborn is unborn by imagined convention, not even unborn in the ultimate sense; by convention it is (said to be) born through dependence on others and the rest.
+
+> yo 'sti kalpitasaṃvṛtyā paramārthena nāsty asau / paratantrābhisaṃvṛtyā syān nāsti paramārthataḥ // ajaḥ kalpitasaṃvṛtyā paramārthena nāpy ajaḥ / paratantrādiniṣpattyā saṃvṛtyā jāyate tu saḥ
+
+_level: bridging · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate_
+
+terms: [paramārtha](../terms/paramartha.md), [paratantra (asvatantra)](../terms/paratantra.md), [parikalpita](../terms/parikalpita.md) · concepts: [Levels of truth across the families (two truths, three levels, niścaya–vyavahāra)](../concepts/levels-of-truth-across-families.md), [Non-origination (ajātivāda)](../concepts/ajativada.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
+
+### 4.87-88 <a id="tea-mandukya-karika-4-87-88"></a>
+`skeleton` · confidence high
+
+Duality with an object and with apprehension is held to be the worldly (laukika); apprehension without an object is the pure worldly (śuddha-laukika); without object and without apprehension is remembered as the supramundane (lokottara). Knowledge and the knowable (in these three) have always been proclaimed by the awakened.
+
+> savastu sopalambhaṃ ca dvayaṃ laukikam iṣyate / avastu sopalambhaṃ ca śuddhaṃ laukikam iṣyate // avastv anupalambhaṃ ca lokottaram iti smṛtam / jñānaṃ jñeyaṃ ca vijñeyaṃ sadā buddhaiḥ prakīrtitam
+
+_level: bridging · standpoint: analytic · path: knowledge, meditation · stage: all · types: consciousness-mind, ultimate_
+
+concepts: [Levels of truth across the families (two truths, three levels, niścaya–vyavahāra)](../concepts/levels-of-truth-across-families.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
+
+### 4.90 <a id="tea-mandukya-karika-4-90"></a>
+`skeleton` · confidence moderate
+
+What is to be abandoned, known, attained and brought to maturity are to be understood from the foremost vehicle (agrayāna); of these, apart from the knowable (the ultimate), the other three are held to be mere apprehension.
+
+> heyajñeyāpyapākyāni vijñeyāny agrayāṇataḥ / teṣām anyatra vijñeyād upalambhas triṣu smṛtaḥ
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: intermediate · types: practice, ultimate_
+
+terms: [agrayāna](../terms/agrayana.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
+
+### 4.98 <a id="tea-mandukya-karika-4-98"></a>
+`skeleton` · confidence high
+
+All dharmas are free of any covering and pure by nature; they are awakened (buddhāḥ) and liberated from the beginning — so the leaders understand.
+
+> alabdhāvaraṇāḥ sarve dharmāḥ prakṛtinirmalāḥ / ādau buddhās tathā muktā budhyanta iti nāyakāḥ
+
+_level: ultimate · standpoint: absolute · path: knowledge · stage: realized · types: ultimate_
+
+teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
 
 ### 4.99 <a id="tea-mandukya-karika-4-99"></a>
 `skeleton` · confidence high
@@ -291,8 +357,19 @@ The knowledge of the enlightened one, the all-pervading, does not go out to obje
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: dispute, ultimate_
 
-teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: `dsp:advaita-crypto-buddhism`
+teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
+
+### 4.100 <a id="tea-mandukya-karika-4-100"></a>
+`skeleton` · confidence high
+
+Having realized that state which is hard to see, very deep, unborn, the same, pure and without multiplicity, we pay homage to it as best we can.
+
+> durdarśam atigambhīram ajaṃ sāmyaṃ viśāradam / buddhvā padam anānātvaṃ namaskurmo yathābalam
+
+_level: ultimate · standpoint: apophatic · path: knowledge, devotion · stage: realized · types: ultimate_
+
+teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._

@@ -14,4 +14,4 @@ Disciple of Madhva and, in the tradition's account, founder of the Palimaru ma�
 _Notes: Founder-to-maṭha assignment recalled from memory; check against maṭha records._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._

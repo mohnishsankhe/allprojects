@@ -17,4 +17,4 @@ Abhinavagupta's long commentary on Utpaladeva's lost Vivṛti; the fullest philo
   - kind: original; name: Kashmir Series of Texts and Studies (KSTS), Srinagar 60, 62, 65 (1938-1943)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

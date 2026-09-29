@@ -36,7 +36,7 @@ Form is not-self; were form self, it would not lead to affliction and one could 
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate_
 
-terms: [anattā](../terms/anatta.md), [rūpa](../terms/rupa.md) · concepts: [Not-self (anattā)](../concepts/anatta.md), [The five aggregates](../concepts/five-aggregates.md) · teachers: [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [anattā](../terms/anatta.md), [rūpa](../terms/rupa.md) · concepts: [Not-self (anattā)](../concepts/anatta.md), [The five aggregates](../concepts/five-aggregates.md) · teachers: [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 6 <a id="tea-anattalakkhana-sutta-6"></a>
 `skeleton` · confidence high
@@ -71,4 +71,4 @@ terms: [nibbidā](../terms/nibbida.md), [virāga](../terms/viraga.md), [vimutti]
 _Notes: SuttaCentral uid sn22.59; Mahāsaṅgīti title 'Anattalakkhaṇasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

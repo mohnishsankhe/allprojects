@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The six stages (ṣaṭsthala)](satsthala.md) — rests on [10.21-22](../texts/siddhantasikhamani.md#tea-siddhantasikhamani-10-21-22), [13.2](../texts/siddhantasikhamani.md#tea-siddhantasikhamani-13-2)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._

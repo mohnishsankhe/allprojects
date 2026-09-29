@@ -27,4 +27,4 @@ concepts: [The origin of the ten Mahāvidyās in the Satī–Śiva story](../con
 _Notes: Chapter number (8) recalled, not checked; the text is not in the local corpus._
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U24-kali-kaula, skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U24-kali-kaula, skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._

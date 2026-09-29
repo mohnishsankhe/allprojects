@@ -18,4 +18,4 @@ Yāpanīya ācārya and grammarian at the court of the Rāṣṭrakūṭa king A
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/1_gram/panini_astadhyayi.md (GRETIL), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (GRETIL, Sarup ed.) — Text-located: A 3.4.111 'laṅaḥ śākaṭāyanasyaiva'; Nir 1.12 'nāmāny ākhyātajānīti śākaṭāyanaḥ'.
 
-_Contributed by: skeleton:U34-jain-canon, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

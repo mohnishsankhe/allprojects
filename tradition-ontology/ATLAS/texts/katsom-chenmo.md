@@ -26,7 +26,7 @@ Go to frightening, haunted places. Whatever terrifying appearance or fear arises
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: practice_
 
-terms: [gnyan sa](../terms/nyensa.md), [śmaśāna](../terms/smasana.md) · concepts: [Fearsome places (gnyan sa) and charnel grounds](../concepts/nyensa-haunted-places.md) · practices: `prc:chod`, `prc:chod-in-haunted-places` · teachers: [Machig Labdrön (ma gcig lab sgron)](../teachers/machig-labdron.md)
+terms: [gnyan sa](../terms/nyensa.md), [śmaśāna](../terms/smasana.md) · concepts: [Fearsome places (gnyan sa) and charnel grounds](../concepts/nyensa-haunted-places.md) · practices: [Chöd: the visualized offering of the body (lus sbyin)](../practices/chod.md), [Chöd practice in charnel grounds and haunted places](../practices/chod-in-haunted-places.md) · teachers: [Machig Labdrön (ma gcig lab sgron)](../teachers/machig-labdron.md)
 
 ### hope-and-fear <a id="tea-katsom-chenmo-hope-and-fear"></a>
 `skeleton` · confidence low
@@ -44,7 +44,7 @@ What is cut is the root of the mind — the clinging to a self. Demons are not o
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: intermediate · types: consciousness-mind, practice_
 
-terms: [bdag 'dzin](../terms/dakdzin.md), [lha 'dre](../terms/lhadre.md), [gcod yul](../terms/choyul.md) · concepts: [Chöd: cutting ego-clinging at the root](../concepts/chod-cutting-ego-clinging.md), [Gods and demons as the mind's own display](../concepts/gods-and-demons-as-mind.md) · obstacles: `obs:dakdzin` · teachers: [Machig Labdrön (ma gcig lab sgron)](../teachers/machig-labdron.md)
+terms: [bdag 'dzin](../terms/dakdzin.md), [lha 'dre](../terms/lhadre.md), [gcod yul](../terms/choyul.md) · concepts: [Chöd: cutting ego-clinging at the root](../concepts/chod-cutting-ego-clinging.md), [Gods and demons as the mind's own display](../concepts/gods-and-demons-as-mind.md) · obstacles: [Ego-clinging (bdag 'dzin)](../obstacles/dakdzin.md) · teachers: [Machig Labdrön (ma gcig lab sgron)](../teachers/machig-labdron.md)
 
 ### view <a id="tea-katsom-chenmo-view"></a>
 `skeleton` · confidence moderate
@@ -61,4 +61,4 @@ terms: [gcod (chöd)](../terms/chod.md), [prajñāpāramitā](../terms/prajnapar
 
 - 2026-09-29 catalog: confirmed — catalog:OpenPecha:P000053 "shes rab kyi pha rol tu phyin pa zab mo gcod kyi man ngag gi gzhung bka' tshoms chen mo" (author field: ma gcig lab kyi sgron ma) — catalogue hit proves a digitized edition exists, not author or date
 
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

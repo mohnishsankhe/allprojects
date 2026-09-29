@@ -33,7 +33,7 @@ Some people do not know from which direction they have come, or whether their so
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: beginner · types: consciousness-mind, karma-liberation_
 
-terms: [jīva](../terms/jiva.md), [karma](../terms/karma.md) · concepts: [The Jain soul (jīva)](../concepts/jiva-jain.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [jīva](../terms/jiva.md), [karma](../terms/karma.md) · concepts: [The Jain soul (jīva)](../concepts/jiva-jain.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 1.1.2-7 <a id="tea-acaranga-sutra-1-1-2-7"></a>
 `skeleton` · confidence high
@@ -147,4 +147,4 @@ terms: [mahāvrata](../terms/mahavrata.md) · concepts: [The five vows](../conce
 
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._

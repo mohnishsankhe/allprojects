@@ -16,4 +16,4 @@
 Xuanzang's principal disciple and systematizer of Faxiang, counted its first patriarch; author of the great commentaries on the Cheng weishi lun and the Nyāyapraveśa and champion of the five-gotra doctrine.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._

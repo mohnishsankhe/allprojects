@@ -14,4 +14,4 @@
 - part-of → [The six direct knowledges](six-abhinnas.md) — rests on [97-98](../texts/samannaphala-sutta.md#tea-samannaphala-sutta-97-98), [27-33](../texts/bhayabherava-sutta.md#tea-bhayabherava-sutta-27-33)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

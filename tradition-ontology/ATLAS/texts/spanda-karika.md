@@ -323,4 +323,4 @@ concepts: [The doctrine of vibration (spanda)](../concepts/spanda-doctrine.md) Â
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

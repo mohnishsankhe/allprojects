@@ -1,6 +1,6 @@
-# Terms (4762)
+# Terms (4769)
 
-skeleton: 4754 · sourced: 8
+skeleton: 4761 · sourced: 8
 
 - ['byor byed (bad kan)](jorje-beken.md) — `skeleton`
 - ['byung ba lnga](jungwa-nga.md) — `skeleton`
@@ -180,6 +180,7 @@ skeleton: 4754 · sourced: 8
 - [akṣara](aksara.md) — `skeleton`
 - [akṣara-brahman](aksara-brahman.md) — `skeleton`
 - [akṣarasukha](aksara-sukha.md) — `skeleton`
+- [Akṣobhya](aksobhya.md) — `skeleton`
 - [alabdha-bhūmikatva](alabdha-bhumikatva.md) — `skeleton`
 - [alakh](alakh.md) — `skeleton`
 - [alaukika-pratyakṣa](alaukika-pratyaksa.md) — `skeleton`
@@ -455,6 +456,7 @@ skeleton: 4754 · sourced: 8
 - [atiyoga](atiyoga.md) — `skeleton`
 - [atiyāga](atiyaga.md) — `skeleton`
 - [atiśaya](atisaya.md) — `skeleton`
+- [atiśūnya](atisunya.md) — `skeleton`
 - [attaniya](attaniya.md) — `skeleton`
 - [attavāda](attavada.md) — `skeleton`
 - [attā](atta.md) — `skeleton`
@@ -862,6 +864,7 @@ skeleton: 4754 · sourced: 8
 - [caturthābhiṣeka](caturthabhiseka.md) — `skeleton`
 - [caturvidha saṅgha](caturvidha-sangha.md) — `skeleton`
 - [caturviṃśatistava](caturvimsatistava.md) — `skeleton`
+- [caturvyūha](caturvyuha.md) — `skeleton`
 - [catuḥśaraṇa](catuhsarana.md) — `skeleton`
 - [catuḥślokī](catuhsloki.md) — `skeleton`
 - [catuḥṣaṣṭi-tantra](catuhsasti-tantra.md) — `skeleton`
@@ -1297,6 +1300,7 @@ skeleton: 4754 · sourced: 8
 - [gsal stong zung 'jug](salstong-zungjug.md) — `skeleton`
 - [gshen](shen.md) — `skeleton`
 - [gso ba rig pa](sowa-rigpa.md) — `skeleton`
+- [gtar ga](targa.md) — `skeleton`
 - [gter ma](terma.md) — `skeleton`
 - [gter srung](tersung.md) — `skeleton`
 - [gter ston](terton.md) — `skeleton`
@@ -1986,6 +1990,7 @@ skeleton: 4754 · sourced: 8
 - [mahāyāga](mahayaga.md) — `skeleton`
 - [mahāyāna](mahayana.md) — `skeleton`
 - [mahāśay](mahasay.md) — `skeleton`
+- [mahāśūnya](mahasunya.md) — `skeleton`
 - [maitrī](maitri.md) — `skeleton`
 - [majjhimā paṭipadā](majjhima-patipada.md) — `skeleton`
 - [majjā](majja.md) — `skeleton`
@@ -2975,7 +2980,7 @@ skeleton: 4754 · sourced: 8
 - [rang bzhin rdzogs pa chen po](rangzhin-dzogpachenpo.md) — `skeleton`
 - [rang grol](rangdrol.md) — `skeleton`
 - [rang rig ye shes](rangrig-yeshe.md) — `skeleton`
-- [rang stong (rangtong)](rangtong.md) — `skeleton`
+- [rang stong](rangtong.md) — `skeleton`
 - [ras pa (cotton-clad)](repa.md) — `skeleton`
 - [rasa](rasa.md) — `skeleton`
 - [rasa (dhātu)](rasa-dhatu.md) — `skeleton`
@@ -3802,6 +3807,7 @@ skeleton: 4754 · sourced: 8
 - [tājika](tajika.md) — `skeleton`
 - [tāla](tala.md) — `skeleton`
 - [tāmisra](tamisra.md) — `skeleton`
+- [tāntrika](tantrika.md) — `skeleton`
 - [tāpa](tapa.md) — `skeleton`
 - [tāpa-traya](tapatraya.md) — `skeleton`
 - [tāraka](taraka.md) — `skeleton`
@@ -4280,6 +4286,7 @@ skeleton: 4754 · sourced: 8
 - [Yamarāja](yamaraja.md) — `skeleton`
 - [yan lag brgyad](yenlak-gye.md) — `skeleton`
 - [yang gter](yangter.md) — `skeleton`
+- [yantra](yantra.md) — `skeleton`
 - [yaomen](yaomen.md) — `skeleton`
 - [yathākhyāta](yathakhyata.md) — `skeleton`
 - [yathālabdha](yathalabdha.md) — `skeleton`

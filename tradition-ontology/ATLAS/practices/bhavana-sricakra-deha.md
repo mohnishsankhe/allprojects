@@ -17,4 +17,4 @@ Each part of the Śrīcakra and each deity is identified with a constituent of o
 **Sequences:** [The three kinds of worship (Yoginīhṛdaya)](../paths/yoginihrdaya-three-pujas.md)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._

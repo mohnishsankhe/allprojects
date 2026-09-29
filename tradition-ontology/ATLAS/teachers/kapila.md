@@ -25,4 +25,4 @@ _Notes: U05's contribution (the epic account)._
 - 2026-09-29 text-locate+websearch: confirmed — text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md), https://en.wikipedia.org/wiki/Samkhya — Confirmed despite the low confidence. ŚU 5.2 reads 'ṛṣiṃ prasūtaṃ kapilaṃ yas tam agre jñānair bibharti jāyamānaṃ ca paśyet'. Web sources give both readings: Kapila as the Sāṃkhya founder, or kapila as an epithet of Hiraṇyagarbha. The entry keeps them open.
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.337.60, 12.326.64 (kapilaṃ prāhur ācāryāḥ sāṃkhyaniścitaniścayāḥ), 12.260.12, local:gita/gita BhG 10.26 — All cited references located.
 
-_Contributed by: skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U28-hatha-texts, extraction:bhagavad-gita/ch10-12, skeleton:U03-principal-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U28-hatha-texts, extraction:bhagavad-gita/ch10-12, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._

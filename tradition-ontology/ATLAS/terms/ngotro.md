@@ -20,4 +20,4 @@
 _Notes: No standard Sanskrit equivalent; ngo sprod is the Tibetan technical term._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon, skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U45-nyingma-bon, skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._

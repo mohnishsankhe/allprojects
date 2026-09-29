@@ -37,7 +37,7 @@ An emptiness that is nothing whatsoever — the emptiness of annihilation (chad 
 
 _level: ultimate · standpoint: polemical · path: knowledge, meditation · stage: advanced · types: ultimate, practice_
 
-terms: [chad stong](../terms/chetong.md), [rnam kun mchog ldan gyi stong nyid](../terms/namkun-chokden.md) · concepts: [The emptiness endowed with all supreme aspects](../concepts/emptiness-endowed-with-all-supreme-aspects.md) · practices: [The six-branch yoga (ṣaḍaṅgayoga)](../practices/sadanga-yoga.md) · obstacles: `obs:annihilatory-emptiness` · teachers: [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
+terms: [chad stong](../terms/chetong.md), [rnam kun mchog ldan gyi stong nyid](../terms/namkun-chokden.md) · concepts: [The emptiness endowed with all supreme aspects](../concepts/emptiness-endowed-with-all-supreme-aspects.md) · practices: [The six-branch yoga (ṣaḍaṅgayoga)](../practices/sadanga-yoga.md) · obstacles: [Clinging to an emptiness of annihilation (chad stong)](../obstacles/annihilatory-emptiness.md) · teachers: [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
 
 ### definitive <a id="tea-mountain-doctrine-definitive"></a>
 `skeleton` · confidence moderate
@@ -109,7 +109,7 @@ The dharmakāya is the supreme self (bdag dam pa), the perfection of self spoken
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-terms: [dharmakāya](../terms/dharmakaya.md) · concepts: [Buddha-nature called 'self'](../concepts/tathagatagarbha-as-self.md), [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md) · teachers: [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md), [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), [Is there a self?](../debates/is-there-a-self.md)
+terms: [dharmakāya](../terms/dharmakaya.md) · concepts: [Buddha-nature called 'self'](../concepts/tathagatagarbha-as-self.md), [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md) · teachers: [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md), [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### two-truths <a id="tea-mountain-doctrine-two-truths"></a>
 `skeleton` · confidence moderate
@@ -118,10 +118,10 @@ Conventional phenomena are empty of their own nature (rang stong), like a rabbit
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [rang stong (rangtong)](../terms/rangtong.md), [gzhan stong (zhentong)](../terms/zhentong.md), [don dam bden pa](../terms/dondam-denpa.md), [kun rdzob bden pa](../terms/kundzob-denpa.md) · concepts: [The two truths (satyadvaya)](../concepts/two-truths.md), [Self-emptiness (rang stong)](../concepts/rangtong.md), [Other-emptiness (gzhan stong)](../concepts/zhentong.md) · teachers: [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
+terms: [rang stong](../terms/rangtong.md), [gzhan stong (zhentong)](../terms/zhentong.md), [don dam bden pa](../terms/dondam-denpa.md), [kun rdzob bden pa](../terms/kundzob-denpa.md) · concepts: [The two truths (satyadvaya)](../concepts/two-truths.md), [Self-emptiness (rang stong)](../concepts/rangtong.md), [Other-emptiness (gzhan stong)](../concepts/zhentong.md) · teachers: [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
 
 
 _Notes: Not found in the local catalogue (search 'Mountain Doctrine', 'ri chos nges don rgya mtsho' returned only unrelated works); existence and authorship are well known._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

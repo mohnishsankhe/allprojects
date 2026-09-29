@@ -12,4 +12,4 @@ Serving one's parents as worship: Puṇḍalīka's service was so pleasing that 
   - [Pāṇḍuraṅga-māhātmya](../texts/panduranga-mahatmya.md) — ref: pundalika-brick; rests_on: ["tea:panduranga-mahatmya:pundalika-brick"]
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._

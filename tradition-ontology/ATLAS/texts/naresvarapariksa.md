@@ -28,7 +28,7 @@ Against the Buddhists and materialists, there is a permanent soul distinct from 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: intermediate · types: consciousness-mind, dispute_
 
-terms: [paśu](../terms/pasu.md) · teachers: [Sadyojyoti](../teachers/sadyojyoti.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [paśu](../terms/pasu.md) · teachers: [Sadyojyoti](../teachers/sadyojyoti.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 2 <a id="tea-naresvarapariksa-2"></a>
 `skeleton` · confidence low
@@ -37,7 +37,7 @@ Souls are many, not one: their experiences, bondage and release differ, and one 
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: intermediate · types: consciousness-mind, dispute_
 
-disputes: `dsp:souls-one-or-distinct`
+disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 3 <a id="tea-naresvarapariksa-3"></a>
 `skeleton` · confidence moderate
@@ -50,4 +50,4 @@ terms: [pati](../terms/pati.md), [nimitta-kāraṇa](../terms/nimitta-karana.md)
 
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._

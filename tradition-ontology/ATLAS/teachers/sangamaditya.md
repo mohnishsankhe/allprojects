@@ -9,4 +9,4 @@
 Descendant of the Tryambaka siddhas (son of the fifteenth, who married a brāhmaṇa woman) who came wandering to Kashmir; great-great-grandfather of Somānanda (Śivadṛṣṭi 7.115-119).
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

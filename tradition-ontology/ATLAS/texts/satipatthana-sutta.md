@@ -172,4 +172,4 @@ terms: [aññā](../terms/anna.md), [anāgāmī](../terms/anagami.md) · practic
 _Notes: SuttaCentral uid mn10; Mahāsaṅgīti title 'Satipaṭṭhānasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

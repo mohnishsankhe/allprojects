@@ -135,4 +135,4 @@ concepts: [The incarnation of Śiva as Lakulīśa](../concepts/lakulisa-incarnat
 _Notes: Uparibhāga 1-11 is the Īśvara Gītā (src:isvara-gita, U06), followed by the Vyāsa Gītā (chapter range edition-dependent). verse number checked in the local e-text of the Kūrma Purāṇa (raw_etexts mAdhva-app)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._

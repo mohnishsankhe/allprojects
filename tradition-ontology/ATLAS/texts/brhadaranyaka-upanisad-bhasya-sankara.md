@@ -41,8 +41,8 @@ Against the view that knowledge must be combined with works and that the world i
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute_
 
-teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md), [Bhartṛprapañca](../teachers/bhartrprapanca.md) · disputes: [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md), `dsp:world-real-or-appearance`
+teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md), [Bhartṛprapañca](../teachers/bhartrprapanca.md) · disputes: [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md), [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._

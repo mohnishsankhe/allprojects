@@ -11,4 +11,4 @@ Hostility to Viṣṇu and to those devoted to him, through which souls fit for 
   - [Mahābhārata-tātparya-nirṇaya](../texts/mahabharata-tatparya-nirnaya.md) — ref: 1.90; 32.119; rests_on: ["tea:mahabharata-tatparya-nirnaya:1.86-90", "tea:mahabharata-tatparya-nirnaya:32.118-119"]
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._

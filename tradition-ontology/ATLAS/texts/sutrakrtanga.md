@@ -42,7 +42,7 @@ It states and rejects rival views: that only the five elements exist and the sel
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind_
 
-concepts: [The four doctrines of the rivals (samavasaraṇa)](../concepts/four-schools-samavasarana.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [The four doctrines of the rivals (samavasaraṇa)](../concepts/four-schools-samavasarana.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 1.1.1.7-8 <a id="tea-sutrakrtanga-1-1-1-7-8"></a>
 `skeleton` · confidence high
@@ -331,4 +331,4 @@ terms: [aṇuvrata](../terms/anuvrata.md) · concepts: [Pārśva's fourfold rest
 _Notes: Book 1 checked against the local GRETIL text (verse numbers per that e-text); Book 2 not available locally, refs chapter-level from memory._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._

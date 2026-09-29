@@ -18,4 +18,4 @@ Prince of Ayodhyā, hero of the Rāmāyaṇa, called 'dharma embodied' (3.37.13)
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Text-located: the name occurs in the e-text of muktika, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.
 - 2026-09-29 text-locate: confirmed — local:DharmicData Rāmāyaṇa (vulgate) 3.37.13, 2.105.16, 2.109.13, local:raw_etexts goraxapuram (Gita Press) 6.18.33, local:DharmicData MBh CE 12.326.78 — All cited references located (6.18.33 in the local Gita Press text).
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:02 IST._

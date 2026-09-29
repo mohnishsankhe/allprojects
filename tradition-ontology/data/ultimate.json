@@ -2394,14 +2394,14 @@
    "tradition_denies_single_ultimate": false,
    "caveat": "The epic milieu is plural: it records Sāṃkhya, Yoga, Vedic, Pāñcarātra and Pāśupata views (MBh 12.337.59), differing counts of principles, and the question whether puruṣas are many or one (12.338). BhG 12.1–5 holds that worshippers of the unmanifest imperishable and of the Lord in form both reach him, the former with greater difficulty. Each Vedānta school reads the Gītā's ultimate in its own way and rejects the others' readings; the one-truth reading belongs to the interpretation layer, not to the epic's own text.",
    "rests_on": [
-    "tea:bhagavad-gita:13.12",
-    "tea:bhagavad-gita:13.13-17",
+    "tea:bhagavad-gita:13.13",
+    "tea:bhagavad-gita:13.14-18",
     "tea:bhagavad-gita:2.17",
     "tea:bhagavad-gita:2.25",
     "tea:bhagavad-gita:15.16-18",
     "tea:bhagavad-gita:7.4-5",
     "tea:bhagavad-gita:9.4-5",
-    "tea:bhagavad-gita:13.1-2",
+    "tea:bhagavad-gita:13.2-3",
     "tea:bhagavad-gita:12.3-4",
     "tea:bhagavad-gita:12.5",
     "tea:moksadharma:12.294",
@@ -9094,9 +9094,10 @@
    "relation_to_world": "Varies by family: the world as the deity's manifestation or play (non-dual Śaiva/Śākta); as real and produced by māyā under Śiva's agency (Siddhānta); as appearance empty of own nature, yet the maṇḍala of the deity (Buddhist); as real substances (Jain).",
    "personal_or_impersonal": "both",
    "tradition_denies_single_ultimate": true,
-   "caveat": "The tantric movement is not one tradition and has no single view of the ultimate. The Buddhist and Jain tantric traditions reject a single creator or substrate; the Śaiva Siddhānta keeps souls distinct from Śiva; each family ranks the others' goal below its own (see dsp:saiva-buddhist-mutual-subordination). A one-truth reading belongs only to the interpretation layer and each family would object to it.",
+   "caveat": "The tantric movement is not one tradition and has no single view of the ultimate. The Buddhist and Jain tantric traditions reject a single creator or substrate; the Śaiva Siddhānta keeps souls distinct from Śiva; each family ranks the others' goal below its own (see dsp:ranking-of-other-revelations). A one-truth reading belongs only to the interpretation layer and each family would object to it.",
    "rests_on": [
-    "tea:pratyabhijnahrdaya:8",
+    "tea:pratyabhijnahrdayam:8",
+    "tea:pratyabhijnahrdayam:8/3",
     "tea:guhyasamaja-tantra:2.3"
    ],
    "coverage": [

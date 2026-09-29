@@ -34,4 +34,4 @@ _Notes: Related to U50's dsp:women-caste-liberation (liberation) — this entry 
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/1_rv/rgveda_mandala_10.md (GRETIL, Van Nooten–Holland/Aufrecht), text:sources_raw/raw_etexts/vedaH/Rg/shakala/aitareya-brAhmaNam/2/3.md (khaṇḍa marked (19) = AB 2.19) — RV 10.90.12 and AB 2.19 (Kavaṣa) located; DN 27 and Sn 3.9 are standard loci (not re-checked; SuttaCentral ids dn27, snp3.9).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._

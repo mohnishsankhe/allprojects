@@ -16,4 +16,4 @@
   - kind: translation; name: Tibetan translation, Derge Tengyur D3885 (dbu ma'i rgyan gyi 'grel pa) — catalog:Derge-Tengyur:D3885
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._

@@ -49,4 +49,4 @@ The exegetical school of the Guhyasamāja tantra associated with the tantric Nā
 [Are the transgressive statements and practices of the tantras to be taken literally or as intentional language?](../debates/literal-or-symbolic-tantric-conduct.md)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._

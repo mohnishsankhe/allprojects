@@ -16,4 +16,4 @@
 _Notes: Named in several late Kaula tantras (e.g. Yoni and Mātṛkābheda Tantras) as reported in secondary literature; not checked._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._

@@ -9,4 +9,4 @@
 Keeping the yogī's fire burning at the seat or camp, offering to it and distributing its ash (vibhūti) as blessing.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:02 IST._

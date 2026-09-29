@@ -15,4 +15,4 @@ Author of the Kāmasūtra; distinct from Vātsyāyana Pakṣilasvāmin of the Ny
 
 - 2026-09-28 text-locate+websearch: partially-confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/6_kama/vatsyayana_kamasutra.md (GRETIL), http://controversialhistory.blogspot.com/2011/04/dating-vatsyayanas-kamasutra.html — Author of the Kāmasūtra (text held locally). The 'c. 3rd c. CE' date was not confirmed by a scholarly page (the search found only 1st–6th c. ranges). His distinction from Vātsyāyana Pakṣilasvāmin is standard.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

@@ -16,4 +16,4 @@
 **Related:** [ahaṃkāra](ahamkara.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U31-sound-arts. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U31-sound-arts. Generated 2026-09-29 18:02 IST._

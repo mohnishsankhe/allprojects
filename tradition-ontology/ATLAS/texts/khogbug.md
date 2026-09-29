@@ -25,8 +25,8 @@ The history of medicine: the Medicine Buddha's teaching in Tanaduk; physicians i
 
 _level: conventional · standpoint: ethical-social · path: general · stage: all · types: teacher-transmission_
 
-teachers: [Desi Sangye Gyatso (sde srid sangs rgyas rgya mtsho)](../teachers/desi-sangye-gyatso.md), [Vairocana the translator (Pagor Vairocana)](../teachers/vairocana-translator.md), [Yuthok Yönten Gönpo the Elder (g.yu thog rnying ma yon tan mgon po)](../teachers/yuthok-yonten-gonpo-elder.md), [Drapa Ngönshé (grwa pa mngon shes)](../teachers/drapa-ngonshe.md), [Yuthok Yönten Gönpo the Younger (g.yu thog gsar ma yon tan mgon po)](../teachers/yuthok-yonten-gonpo-younger.md) · disputes: `dsp:gyushi-buddha-word`
+teachers: [Desi Sangye Gyatso (sde srid sangs rgyas rgya mtsho)](../teachers/desi-sangye-gyatso.md), [Vairocana the translator (Pagor Vairocana)](../teachers/vairocana-translator.md), [Yuthok Yönten Gönpo the Elder (g.yu thog rnying ma yon tan mgon po)](../teachers/yuthok-yonten-gonpo-elder.md), [Drapa Ngönshé (grwa pa mngon shes)](../teachers/drapa-ngonshe.md), [Yuthok Yönten Gönpo the Younger (g.yu thog gsar ma yon tan mgon po)](../teachers/yuthok-yonten-gonpo-younger.md) · disputes: [Is the Four Tantras (rgyud bzhi) the word of the Buddha, or a treatise composed in Tibet?](../debates/gyushi-buddha-word.md)
 
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

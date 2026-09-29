@@ -32,7 +32,7 @@ Māra asks the nun Vajirā who made this being; she answers: why do you assume '
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: realized · types: ultimate, dispute_
 
-terms: [satta](../terms/satta.md), [sammuti](../terms/sammuti.md) · concepts: [Not-self (anattā)](../concepts/anatta.md), [Convention and the ultimate sense](../concepts/conventional-expression.md) · teachers: [Vajirā](../teachers/vajira-theri.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [satta](../terms/satta.md), [sammuti](../terms/sammuti.md) · concepts: [Not-self (anattā)](../concepts/anatta.md), [Convention and the ultimate sense](../concepts/conventional-expression.md) · teachers: [Vajirā](../teachers/vajira-theri.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 5.10/2 <a id="tea-bhikkhuni-samyutta-5-10-2"></a>
 `skeleton` · confidence high
@@ -47,4 +47,4 @@ concepts: [Convention and the ultimate sense](../concepts/conventional-expressio
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

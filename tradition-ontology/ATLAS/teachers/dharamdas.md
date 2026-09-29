@@ -14,4 +14,4 @@
 Wealthy merchant (of Bāndhavgaṛh) who became Kabīr's chief disciple; the Anurāg Sāgar is Kabīr's teaching to him; his line of forty-two generations of ācāryas leads the Dharamdāsī Kabīr Panth.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._

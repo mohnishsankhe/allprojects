@@ -23,4 +23,4 @@
 _Notes: Distinct from laya-yoga of the haṭha texts._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U06-other-gitas, skeleton:U09-samkhya, skeleton:U21-natha-aghora, skeleton:U13-advaita, skeleton:U04-minor-upanisads, skeleton:U31-sound-arts. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U06-other-gitas, skeleton:U09-samkhya, skeleton:U21-natha-aghora, skeleton:U13-advaita, skeleton:U04-minor-upanisads, skeleton:U31-sound-arts. Generated 2026-09-29 18:02 IST._

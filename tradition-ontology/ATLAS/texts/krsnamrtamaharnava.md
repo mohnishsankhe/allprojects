@@ -48,4 +48,4 @@ terms: [ūrdhvapuṇḍra](../terms/urdhvapundra.md) · practices: [The upright 
 _Notes: Opening and Ekādaśī verses checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._

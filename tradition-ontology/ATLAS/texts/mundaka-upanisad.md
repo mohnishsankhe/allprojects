@@ -239,7 +239,7 @@ Two birds, companions and friends, cling to the same tree; one of them eats the 
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: intermediate · types: ultimate, karma-liberation_
 
-terms: [jīva](../terms/jiva.md), [īśvara](../terms/isvara.md) · concepts: [The two birds on one tree](../concepts/two-birds.md), [The individual living self (jīva)](../concepts/jiva.md), [Īśvara (the Lord)](../concepts/isvara.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md) · disputes: `dsp:souls-one-or-distinct`
+terms: [jīva](../terms/jiva.md), [īśvara](../terms/isvara.md) · concepts: [The two birds on one tree](../concepts/two-birds.md), [The individual living self (jīva)](../concepts/jiva.md), [Īśvara (the Lord)](../concepts/isvara.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 3.1.3 <a id="tea-mundaka-upanisad-3-1-3"></a>
 `sourced` · confidence high
@@ -359,4 +359,4 @@ _Notes: Veda affiliation: Atharvaveda (traditionally the Śaunaka śākhā)_
 
 - 2026-09-29 catalog+text-locate+websearch: confirmed — catalog:raw_etexts:Mundaka, text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Mundaka.md, Śaṅkara numbering), text:sources_raw/raw_etexts/mixed/ebhAratI-sampat/upaniShadaH/dashopaniShadaH/svAmIsharvAnandaH/muNDakopaniShat.md (Śarvānanda edition; 'bhidyate hṛdayagranthiḥ' — Structure confirmed: 9+13 / 10+12 / 10+11 = 65 verses in Śaṅkara's text, and 64 where 2.2.7 is one verse (Śarvānanda edition, eBhāratī). The teacher-line Brahmā → Atharvan → Aṅgir → Satyavāha → Aṅgiras → Śaunaka is at 1.1.1-3. Scholarly dating fits Olivelle's chronology as reported on the web: BĀU and ChU pre-Buddhist, 7th–6th c. BCE; TU, AU and KauU probably pre-Buddhist, 6th–5th c. BCE; the verse Upaniṣads (Kena oldest, then Kaṭha, Īśa, Śvetāśvatara, Muṇḍaka) in the last few centuries BCE; Praśna and Māṇḍūkya not much older than the start of the common era. The tradition's account (śruti, authorless) is kept separately and not checked against scholarship.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._

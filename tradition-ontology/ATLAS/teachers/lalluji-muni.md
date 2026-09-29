@@ -10,4 +10,4 @@
 Sthānakavāsī monk (1856–1936) who became Śrīmad Rājacandra's disciple and founded the Agas ashram.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._

@@ -13,4 +13,4 @@ The feet, turned up, placed on the knees and the hands, turned up, on the seat, 
   - [Triśikhibrāhmaṇa Upaniṣad](../texts/trisikhibrahmana-upanisad.md) — ref: 34-52; rests_on: ["tea:trisikhibrahmana-upanisad:34-52"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:02 IST._

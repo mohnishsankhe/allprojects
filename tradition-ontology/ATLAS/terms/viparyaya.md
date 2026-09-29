@@ -20,4 +20,4 @@
 **Related:** [avidyā](avidya.md), [tamas](tamas.md), [moha](moha.md), [mahāmoha](mahamoha.md), [tāmisra](tamisra.md), [andhatāmisra](andhatamisra.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U35-jain-philosophy, skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U35-jain-philosophy, skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._

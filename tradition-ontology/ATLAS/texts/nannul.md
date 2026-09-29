@@ -14,4 +14,4 @@
 Pavaṇanti's Tamil grammar (c. 13th c.), which became the standard school grammar of Tamil; it opens with a salutation to the Arhat.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._

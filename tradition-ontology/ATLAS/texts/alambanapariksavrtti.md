@@ -15,4 +15,4 @@ Dignāga's autocommentary on the Ālambanaparīkṣā.
   - kind: original; name: Tibetan: Derge D4206
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._

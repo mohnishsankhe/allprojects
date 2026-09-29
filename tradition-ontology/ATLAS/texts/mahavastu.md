@@ -103,8 +103,8 @@ Matter is not self, feeling is not self, perception, formations and consciousnes
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, karma-liberation_
 
-concepts: [The five aggregates](../concepts/five-aggregates.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [The five aggregates](../concepts/five-aggregates.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._

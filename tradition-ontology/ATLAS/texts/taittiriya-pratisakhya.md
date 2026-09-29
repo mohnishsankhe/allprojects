@@ -18,4 +18,4 @@ _Notes: Commentaries: Tribhāṣyaratna (Somayārya), Vaidikābharaṇa._
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:eBharati:kRShNayajurvedIyaprAtishAkhyam, https://en.wikipedia.org/wiki/Pratishakhyas — Extant locally with 24 adhyāyas ('iti caturviṃśo 'dhyāyaḥ … kṛṣṇayajurvedaprātiśākhyaṃ samāptam'). Whitney's edition and translation exist (Wikipedia). The commentaries named in the note were not re-checked.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

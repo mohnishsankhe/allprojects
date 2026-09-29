@@ -16,4 +16,4 @@ Summary only: after the eight limbs, the Goddess describes breath control, the c
 - The Devī Gītā places this yoga after the yamas and niyamas and within devotion to the Goddess; the text is to be taught only to the qualified. — [Devī Gītā](../texts/devi-gita.md) 7.35; 7.40
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._

@@ -24,7 +24,7 @@ Against the Advaitins, consciousness without subject or object is never found; c
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-teachers: [Yāmunācārya](../teachers/yamuna.md) · disputes: `dsp:world-real-or-appearance`
+teachers: [Yāmunācārya](../teachers/yamuna.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### Ātmasiddhi <a id="tea-siddhitraya-atmasiddhi"></a>
 `skeleton` · confidence moderate
@@ -33,7 +33,7 @@ The self is distinct from the body, the senses, the mind, the vital breath and c
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-concepts: [The 'I' is the self (aham-artha)](../concepts/aham-artha.md), [The individual living self (jīva)](../concepts/jiva.md) · teachers: [Yāmunācārya](../teachers/yamuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [The 'I' is the self (aham-artha)](../concepts/aham-artha.md), [The individual living self (jīva)](../concepts/jiva.md) · teachers: [Yāmunācārya](../teachers/yamuna.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### Īśvarasiddhi <a id="tea-siddhitraya-isvarasiddhi"></a>
 `skeleton` · confidence low
@@ -46,4 +46,4 @@ teachers: [Yāmunācārya](../teachers/yamuna.md) · disputes: [Is Īśvara real
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._

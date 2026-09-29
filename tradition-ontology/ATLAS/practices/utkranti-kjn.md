@@ -14,4 +14,4 @@ A practice for leaving the body by driving the breath upward so that the skull s
 - Presented as a 'proof of liberation' for the adept; the texts keep such teachings secret from the untested. — [Kaulajñānanirṇaya](../texts/kaulajnananirnaya.md) 20.1; 14.4-11
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:02 IST._

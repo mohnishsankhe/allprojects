@@ -15,4 +15,4 @@
 A lost commentary on the Mīmāṃsā Sūtra by Bhavadāsa, mentioned by Kumārila (ŚV pratijñā 63) and, according to the Nyāyaratnākara, notable for dividing MS 1.1.4 into two sūtras.
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:02 IST._

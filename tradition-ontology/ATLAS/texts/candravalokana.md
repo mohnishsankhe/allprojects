@@ -66,4 +66,4 @@ terms: [bindu](../terms/bindu.md) · concepts: [The mind as seed](../concepts/mi
 _Notes: Several verses are shared with the Haṭhapradīpikā (e.g. the verse ending 'dambha-mithyā-pralāpaḥ' = HYP 4.114). Date unknown._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:02 IST._

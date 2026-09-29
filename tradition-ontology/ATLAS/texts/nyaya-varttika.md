@@ -44,10 +44,10 @@ Uddyotakara defends the self as distinct from body, senses, mind and cognition a
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, consciousness-mind_
 
-terms: [ātman](../terms/atman.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 
 _Notes: Printed editions exist (e.g. Kashi Sanskrit Series); no local e-text was found in sources_raw._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._

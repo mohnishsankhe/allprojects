@@ -15,4 +15,4 @@
 Vasugupta's disciple, author of the Spandavṛtti and - according to Bhāskara, Rāmakaṇṭha and Bhagavadutpala - of the Spandakārikā itself; his lost Tattvārthacintāmaṇi commented on the last part of the Śiva Sūtra.
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

@@ -21,4 +21,4 @@ Maitreya: medicine is no better than no medicine, since both outcomes occur with
 **The traditions' own objections:** Ātreya rejects Maitreya's conclusion outright as 'wrong thinking' (mithyā).
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:02 IST._

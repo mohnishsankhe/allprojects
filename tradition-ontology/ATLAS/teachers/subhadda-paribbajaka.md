@@ -8,4 +8,4 @@
 The last person ordained by the Buddha, taught that ascetics are found only where the eightfold path is found (DN 16).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

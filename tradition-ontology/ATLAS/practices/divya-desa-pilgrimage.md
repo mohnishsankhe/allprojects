@@ -13,4 +13,4 @@ Lineage contribution (Āḻvārs): the Āḻvārs travelled to the Lord's temple
   - [Tiruccanta Viruttam](../texts/tiruccanta-viruttam.md) — ref: 61; rests_on: ["tea:tiruccanta-viruttam:61"]
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory, skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory, skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._

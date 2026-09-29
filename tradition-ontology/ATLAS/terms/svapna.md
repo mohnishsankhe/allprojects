@@ -23,4 +23,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U41-yogacara-pramana, skeleton:U11-nyaya-vaisesika, skeleton:U19-kashmir-saivism, skeleton:U46-kagyu, skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U41-yogacara-pramana, skeleton:U11-nyaya-vaisesika, skeleton:U19-kashmir-saivism, skeleton:U46-kagyu, skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._

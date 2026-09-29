@@ -111,7 +111,7 @@ False knowledge about the objects of knowledge takes many forms: of the self, 'i
 
 _level: unmarked · standpoint: seeker · path: knowledge · stage: all · types: karma-liberation, dispute_
 
-terms: [mithyājñāna](../terms/mithyajnana.md), [tattvajñāna](../terms/tattvajnana.md), [apavarga](../terms/apavarga.md), [sukha](../terms/sukha.md) · concepts: [The chain from false knowledge to liberation (NS 1.1.2)](../concepts/nyaya-chain-of-liberation.md), [Liberation (apavarga) as the end of pain](../concepts/apavarga-nyaya.md) · obstacles: [False knowledge (mithyājñāna)](../obstacles/mithyajnana-nyaya.md) · disputes: [Does liberation contain bliss (and consciousness)?](../debates/bliss-in-liberation.md), [Is there a self?](../debates/is-there-a-self.md)
+terms: [mithyājñāna](../terms/mithyajnana.md), [tattvajñāna](../terms/tattvajnana.md), [apavarga](../terms/apavarga.md), [sukha](../terms/sukha.md) · concepts: [The chain from false knowledge to liberation (NS 1.1.2)](../concepts/nyaya-chain-of-liberation.md), [Liberation (apavarga) as the end of pain](../concepts/apavarga-nyaya.md) · obstacles: [False knowledge (mithyājñāna)](../obstacles/mithyajnana-nyaya.md) · disputes: [Does liberation contain bliss (and consciousness)?](../debates/bliss-in-liberation.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 1.1.2 <a id="tea-nyaya-bhasya-1-1-2-2"></a>
 `skeleton` · confidence high
@@ -268,4 +268,4 @@ practices: [Repeated study of the science of the self](../practices/jnanagrahana
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._

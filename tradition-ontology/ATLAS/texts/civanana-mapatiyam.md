@@ -23,8 +23,8 @@ Civañāṉa Muṉivar explains 'advaita' in the Civañāṉa Pōtam as 'non-sep
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-concepts: [The Siddhānta's 'advaita' of inseparability](../concepts/siddhanta-advaita.md) · disputes: `dsp:world-real-or-appearance`, [Does the liberated soul become identical with Śiva, or only equal to Śiva (śivasamatva) while remaining distinct?](../debates/liberation-identity-or-equality-with-siva.md)
+concepts: [The Siddhānta's 'advaita' of inseparability](../concepts/siddhanta-advaita.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), [Does the liberated soul become identical with Śiva, or only equal to Śiva (śivasamatva) while remaining distinct?](../debates/liberation-identity-or-equality-with-siva.md)
 
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._

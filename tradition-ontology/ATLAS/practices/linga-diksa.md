@@ -18,4 +18,4 @@ The guru, with assistants, bathes the disciple with water from pots consecrated 
 - The mantra is given secretly (nigūḍham). — [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) 6.21
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._

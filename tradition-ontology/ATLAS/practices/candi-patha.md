@@ -13,4 +13,4 @@ Reciting the thirteen chapters of the Devī Māhātmya (with ancillary hymns in 
   - [Devī Māhātmya](../texts/devi-mahatmya.md) — ref: 11; rests_on: ["tea:devi-mahatmya:11"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._

@@ -14,4 +14,4 @@
 _Notes: The Upaniṣadic scheme of three states and the fourth is contributed by U03; any correspondence is interpretive and not asserted here._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._

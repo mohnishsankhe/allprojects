@@ -34,4 +34,4 @@
 _Notes: The SK itself does not use the word._
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U09-samkhya, skeleton:U23-sakta-srividya, skeleton:U28-hatha-texts, skeleton:U30-ayurveda-rasa, skeleton:U19-kashmir-saivism, skeleton:U20-virasaiva, skeleton:U13-advaita, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads, skeleton:U14-visistadvaita, skeleton:U16-bhedabheda, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U09-samkhya, skeleton:U23-sakta-srividya, skeleton:U28-hatha-texts, skeleton:U30-ayurveda-rasa, skeleton:U19-kashmir-saivism, skeleton:U20-virasaiva, skeleton:U13-advaita, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads, skeleton:U14-visistadvaita, skeleton:U16-bhedabheda, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._

@@ -10,4 +10,4 @@
 Kannada poet of the Amala Basavarāja Cāritra.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._

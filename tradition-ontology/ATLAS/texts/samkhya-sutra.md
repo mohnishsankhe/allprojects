@@ -59,7 +59,7 @@ Bondage is not due to avidyā, for what is unreal cannot bind; if avidyā were r
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute_
 
-terms: [avidyā](../terms/avidya.md) · disputes: `dsp:world-real-or-appearance`
+terms: [avidyā](../terms/avidya.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 1.34-41 <a id="tea-samkhya-sutra-1-34-41"></a>
 `skeleton` · confidence moderate
@@ -153,7 +153,7 @@ There is no production of the non-existent, as of a man's horn; (the effect exis
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: all · types: world-fate, dispute_
 
-terms: [satkāryavāda](../terms/satkaryavada.md), [abhivyakti](../terms/abhivyakti.md) · concepts: [Pre-existence of the effect (satkāryavāda)](../concepts/satkaryavada.md) · disputes: `dsp:causation`
+terms: [satkāryavāda](../terms/satkaryavada.md), [abhivyakti](../terms/abhivyakti.md) · concepts: [Pre-existence of the effect (satkāryavāda)](../concepts/satkaryavada.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 1.139-146 <a id="tea-samkhya-sutra-1-139-146"></a>
 `skeleton` · confidence moderate
@@ -162,7 +162,7 @@ Puruṣa is other than the body and the rest, because aggregates are for another
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, consciousness-mind_
 
-concepts: [Puruṣa (the conscious self)](../concepts/purusa.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [Puruṣa (the conscious self)](../concepts/purusa.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 1.149 <a id="tea-samkhya-sutra-1-149"></a>
 `skeleton` · confidence moderate
@@ -589,7 +589,7 @@ The self exists, since there is no proof of its non-existence; it is other than 
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate_
 
-concepts: [Puruṣa (the conscious self)](../concepts/purusa.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [Puruṣa (the conscious self)](../concepts/purusa.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 6.6-8 <a id="tea-samkhya-sutra-6-6-8"></a>
 `skeleton` · confidence moderate
@@ -672,7 +672,7 @@ The world is real, since it is produced by faultless causes and nothing sublates
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: world-fate, dispute_
 
-disputes: `dsp:world-real-or-appearance`
+disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 6.54 <a id="tea-samkhya-sutra-6-54"></a>
 `skeleton` · confidence moderate
@@ -703,4 +703,4 @@ teachers: [Pañcaśikha](../teachers/pancasikha.md), [Sanandana](../teachers/san
 
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._

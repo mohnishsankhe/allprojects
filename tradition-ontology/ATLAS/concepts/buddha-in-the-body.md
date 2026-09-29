@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [The body as temple](body-as-temple.md) (shared siddha motif): The siddha motif of the body as the true holy place is shared with Nāth, Tamil Siddha and Sant poetry. — rests on [v57-59](../texts/dohakosa-saraha.md#tea-dohakosa-saraha-v57-59)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._

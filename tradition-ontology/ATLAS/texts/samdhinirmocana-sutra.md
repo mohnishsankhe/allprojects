@@ -51,7 +51,7 @@ The appropriating consciousness (ādānavijñāna), also called ālaya and citta
 
 _level: conventional · standpoint: analytic · path: knowledge, meditation · stage: advanced · types: consciousness-mind_
 
-terms: [ādāna-vijñāna](../terms/adana-vijnana.md), [ālayavijñāna](../terms/alayavijnana.md), [bīja](../terms/bija.md) · concepts: [The eight consciousnesses](../concepts/eight-consciousnesses.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ādāna-vijñāna](../terms/adana-vijnana.md), [ālayavijñāna](../terms/alayavijnana.md), [bīja](../terms/bija.md) · concepts: [The eight consciousnesses](../concepts/eight-consciousnesses.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 6 <a id="tea-samdhinirmocana-sutra-6"></a>
 `skeleton` · confidence high
@@ -111,4 +111,4 @@ terms: [dharmakāya](../terms/dharmakaya.md), [āśraya-parāvṛtti](../terms/a
 _Notes: No Sanskrit survives (fragments quoted); Chinese T676 (vol. 16) not local; Tibetan D106 present in sources_raw/derge-kangyur (catalog:Derge-Kangyur:D106) but not read in this phase. Chapter-level refs, Lamotte/Tibetan numbering._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._

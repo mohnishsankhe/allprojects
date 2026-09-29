@@ -32,7 +32,7 @@ The opponent (identified by the commentary as the Vajjiputtaka and Sammitiya per
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: advanced · types: dispute_
 
-terms: [puggala](../terms/puggala.md), [paramattha](../terms/paramattha.md), [pudgala](../terms/pudgala.md) · concepts: [Conventional and ultimate truth (sammuti- and paramattha-sacca)](../concepts/two-truths-theravada.md), [The doctrine of the person (pudgalavāda)](../concepts/pudgala-doctrine.md) · disputes: [Is the person (puggala) found as a real and ultimate fact?](../debates/kv-puggala.md), [Is there a person (pudgala) that is neither the same as nor different from the aggregates?](../debates/pudgala.md), [Is there a self?](../debates/is-there-a-self.md)
+terms: [puggala](../terms/puggala.md), [paramattha](../terms/paramattha.md), [pudgala](../terms/pudgala.md) · concepts: [Conventional and ultimate truth (sammuti- and paramattha-sacca)](../concepts/two-truths-theravada.md), [The doctrine of the person (pudgalavāda)](../concepts/pudgala-doctrine.md) · disputes: [Is the person (puggala) found as a real and ultimate fact?](../debates/kv-puggala.md), [Is there a person (pudgala) that is neither the same as nor different from the aggregates?](../debates/pudgala.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 1.2 <a id="tea-kathavatthu-1-2"></a>
 `skeleton` · confidence high
@@ -214,4 +214,4 @@ terms: [tathāgata](../terms/tathagata.md) · disputes: [Do Buddhas stand in all
 _Notes: 219 kathās counted in the local bilara-data text (kv1.1–kv23.5); the group labels are taken from the first kathā of each vagga in those files (the other files repeat 'Mahāpaṇṇāsaka')._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._

@@ -23,8 +23,8 @@ Zurkhar Lodrö Gyalpo sets out the arguments on whether the Four Tantras is the 
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, teacher-transmission_
 
-teachers: [Zurkhar Lodrö Gyalpo (zur mkhar blo gros rgyal po)](../teachers/zurkhar-lodro-gyalpo.md) · disputes: `dsp:gyushi-buddha-word`
+teachers: [Zurkhar Lodrö Gyalpo (zur mkhar blo gros rgyal po)](../teachers/zurkhar-lodro-gyalpo.md) · disputes: [Is the Four Tantras (rgyud bzhi) the word of the Buddha, or a treatise composed in Tibet?](../debates/gyushi-buddha-word.md)
 
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

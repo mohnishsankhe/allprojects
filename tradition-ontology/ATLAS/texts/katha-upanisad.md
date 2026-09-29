@@ -77,7 +77,7 @@ Third boon: 'There is this doubt about a person who has departed: some say he is
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: intermediate · types: death-dying, dispute_
 
-obstacles: [Doubt (saṃśaya)](../obstacles/samsaya.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+obstacles: [Doubt (saṃśaya)](../obstacles/samsaya.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 1.1.21-29 <a id="tea-katha-upanisad-1-1-21-29"></a>
 `sourced` · confidence high
@@ -519,4 +519,4 @@ _Notes: The Naciketas story has an older ritual form in Taittirīya Brāhmaṇa 
 
 - 2026-09-29 catalog+text-locate+websearch: confirmed — catalog:GRETIL-dev:katha-upanisad, catalog:eBharati:kAThakopaniShat, text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/raw_etexts/vedaH/yajur/taittirIya/mUlam/kAThakam/2.md (TB 3.11; section 8.1 'uśan ha vai vājaśravasaḥ … — Structure confirmed: 29, 25, 17 / 15, 15, 19 = 120 verses in the prepared Śaṅkara text. The older Naciketas story is confirmed at TB 3.11.8: the raw_etexts Kāṭhaka file 2 (= TB 3.11), section 8.1, opens 'uśan ha vai vājaśravasaḥ sarvavedasaṃ dadau | tasya ha naciketā nāma putra āsa'. Scholarly dating fits Olivelle's chronology as reported on the web: BĀU and ChU pre-Buddhist, 7th–6th c. BCE; TU, AU and KauU probably pre-Buddhist, 6th–5th c. BCE; the verse Upaniṣads (Kena oldest, then Kaṭha, Īśa, Śvetāśvatara, Muṇḍaka) in the last few centuries BCE; Praśna and Māṇḍūkya not much older than the start of the common era. The tradition's account (śruti, authorless) is kept separately and not checked against scholarship.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._

@@ -13,4 +13,4 @@ Pupil of Satyakāma who tended his teacher's fires for twelve years; the fires t
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — Located: ChU 4.10.1 (twelve years tending the fires), 4.10.4 (the fires' teaching) and 4.14–4.15.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._

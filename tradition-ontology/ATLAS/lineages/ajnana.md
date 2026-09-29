@@ -43,7 +43,7 @@ The Ajñānikas refused to affirm or deny any proposition about what lies beyond
 _none recorded_
 
 ## Debates
-[Is there a self?](../debates/is-there-a-self.md), [Should one refuse to affirm or deny anything about what lies beyond experience (the other world, fruit of deeds, the perfected one after death)?](../debates/suspension-of-judgment.md)
+[Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Should one refuse to affirm or deny anything about what lies beyond experience (the other world, fruit of deeds, the perfected one after death)?](../debates/suspension-of-judgment.md)
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._

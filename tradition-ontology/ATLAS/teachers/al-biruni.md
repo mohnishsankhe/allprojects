@@ -13,4 +13,4 @@
 Khwārazmian scholar who learned Sanskrit in India and rendered a Pātañjala yoga text with a commentary into Arabic (Kitāb Pātanǧal). He was not a member of the tradition; he is listed under this lineage only as the translator of its text.
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:02 IST._

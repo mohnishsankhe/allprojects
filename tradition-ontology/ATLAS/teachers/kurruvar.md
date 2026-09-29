@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A chieftain who conquered many lands and w
 **Realization — the tradition's account:** A chieftain who conquered many lands and wished to be crowned at Chidambaram; refused by the Tillai priests, who crown only Cōḻas, he prayed, and Śiva placed his feet on his head as his crown.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._

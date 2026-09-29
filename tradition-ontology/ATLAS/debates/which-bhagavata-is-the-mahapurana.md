@@ -28,4 +28,4 @@ The Devī Bhāgavata is the Mahāpurāṇa 'Bhāgavata'; the Viṣṇu Bhāgavat
 **Candidate readings:** P3-path: each is the 'Bhāgavata' for its community of worshippers (Vaiṣṇava, Śākta) - both traditions would reject this as evading the question.; The lists' 'Bhāgavata' predates both extant texts and the title was later claimed by each.; Scholarly metadata: modern scholars date both later than the lists' earliest layers.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._

@@ -14,4 +14,4 @@
 - causes → [Many-sidedness (anekāntavāda)](anekantavada.md): The triple mark grounds many-sided predication (TS 5.32). — rests on [5.30](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-5-30), [5.32](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-5-32)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._

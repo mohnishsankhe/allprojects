@@ -15,4 +15,4 @@ The 'great-souled' teacher whose knowledge of time the Vedāṅga Jyotiṣa sets
 
 - 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/8_jyot/lagadha_rgvedavedangajyotisa.md (GRETIL, Ārca recension), https://en.wikipedia.org/wiki/Vedanga_Jyotisha — Text-located at ṚVJ 2: 'kālajñānaṃ pravakṣyāmi lagadhasya mahātmanaḥ'. Known only from this text (Wikipedia).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

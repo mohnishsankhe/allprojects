@@ -16,4 +16,4 @@ _Notes: Named among the brahmavādinīs of the Bṛhaddevatā. The Śākta (Śr�
 
 - 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/DharmicData/Rigveda/rigveda_mandala_1.json (Anukramaṇī seer/deity/metre headers), https://en.wikipedia.org/wiki/Lopamudra, https://sreenivasaraos.com/tag/hadi-vidya/ — Header: 1–2 Lopāmudrā. Named among Bṛhaddevatā's brahmavādinīs (2.82–84, confirmed). As seer of the hādi form of the Śrīvidyā (Lopāmudrā-vidyā) — confirmed by web sources.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U07-puranas, skeleton:U23-sakta-srividya. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U07-puranas, skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._

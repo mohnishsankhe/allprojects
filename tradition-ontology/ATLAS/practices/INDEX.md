@@ -1,6 +1,6 @@
-# Practices (1510)
+# Practices (1522)
 
-skeleton: 1354 · sourced: 156
+skeleton: 1366 · sourced: 156
 
 - [A-tri meditation](a-tri-meditation.md) — `skeleton`
 - [Abandoning the body to go to birth (sheshen wangsheng) — restricted](shashen-wangsheng.md) — `skeleton`
@@ -117,6 +117,8 @@ skeleton: 1354 · sourced: 156
 - [Cheating death (kālavañcana)](kalavancana.md) — `skeleton`
 - [Cheating death (mṛtyuvañcana)](cheating-death.md) — `skeleton`
 - [Choosing the auspicious moment (muhūrta)](muhurta-selection.md) — `skeleton`
+- [Chöd practice in charnel grounds and haunted places](chod-in-haunted-places.md) — `skeleton`
+- [Chöd: the visualized offering of the body (lus sbyin)](chod.md) — `skeleton`
 - [Circumambulation (pradakṣiṇa)](pradaksina.md) — `skeleton`
 - [Circumambulation of Vraja (vraja-parikramā)](vraja-parikrama.md) — `skeleton`
 - [Clear comprehension (sampajañña)](sampajanna.md) — `skeleton`
@@ -198,6 +200,7 @@ skeleton: 1354 · sourced: 156
 - [Daily home worship of the Lord (tiruvārādhanam)](tiruvaradhana.md) — `skeleton`
 - [Daily nasal oil (nasya / pratimarśa)](nasya-daily.md) — `skeleton`
 - [Daily routine (dinacaryā)](dinacarya.md) — `skeleton`
+- [Daily, seasonal and occasional conduct (spyod lam)](sowa-rigpa-conduct.md) — `skeleton`
 - [Dance as offering (nṛtta)](nrtta-upahara.md) — `skeleton`
 - [Dancing nenbutsu (odori nenbutsu)](odori-nenbutsu.md) — `skeleton`
 - [Dantamūla-dhauti (cleansing the roots of the teeth)](dantamula-dhauti.md) — `skeleton`
@@ -237,6 +240,7 @@ skeleton: 1354 · sourced: 156
 - [Dhyāna: visualization in the āṇava means](dhyana-anava.md) — `skeleton`
 - [Dhāraṇī recitation](dharani-recitation.md) — `skeleton`
 - [Diet by measure, doṣa and quality](ahara-vidhi.md) — `skeleton`
+- [Dietary regimen by nyepa and season](sowa-rigpa-diet.md) — `skeleton`
 - [Direct crossing (thod rgal)](togal.md) — `skeleton`
 - [Direct introduction to awareness (ngo sprod)](direct-introduction.md) — `skeleton`
 - [Discerning conditions (paccaya-pariggaha)](paccaya-pariggaha.md) — `skeleton`
@@ -280,6 +284,7 @@ skeleton: 1354 · sourced: 156
 - [Entering the mind-less state (unmanī-bhāva)](unmani-bhava.md) — `skeleton`
 - [Entry into cognition-only (vijñaptimātratā-praveśa)](entry-into-cognition-only.md) — `skeleton`
 - [Equalizing self and other](equalizing-self-and-other.md) — `skeleton`
+- [Essence extraction (bcud len)](chulen.md) — `skeleton`
 - [Establishing the sacred fires (agnyādhāna)](agnyadhana.md) — `skeleton`
 - [Ever-arisen samādhi (nityodita-samādhi)](nityodita-samadhi.md) — `skeleton`
 - [Examining arising by the four alternatives](four-alternatives-reasoning.md) — `skeleton`
@@ -291,6 +296,7 @@ skeleton: 1354 · sourced: 156
 - [Expiation by confession, remorse, austerity and recitation](prayascitta-confession.md) — `sourced`
 - [Expiatory and yogic recitation of the Raudrī Gāyatrī](raudri-gayatri-japa.md) — `skeleton`
 - [Expulsion and retention of breath (1.34)](pracchardana-vidharana.md) — `skeleton`
+- [External therapies (bloodletting, moxibustion, compresses, baths)](sowa-rigpa-external-therapies.md) — `skeleton`
 - [Extreme reduction of food](ahara-upaccheda.md) — `skeleton`
 - [Fasting (anaśana)](anasana.md) — `skeleton`
 - [Fasting unto death (prāyopaveśa)](prayopavesa.md) — `skeleton`
@@ -433,6 +439,7 @@ skeleton: 1354 · sourced: 156
 - [Kukkuṭāsana (the cockerel)](kukkutasana.md) — `skeleton`
 - [Kula worship (the 'primal sacrifice') as interpreted by Abhinavagupta](kula-yaga.md) — `skeleton`
 - [Kula worship with the five tattvas (pañca-makāra)](pancatattva-puja.md) — `skeleton`
+- [Kunye (bsku mnye) oil massage](kunye.md) — `skeleton`
 - [Kuṇḍalinī yoga of the Devī Gītā](devi-gita-kundalini-dhyana.md) — `skeleton`
 - [Kākī mudrā ('the crow')](kaki-mudra.md) — `skeleton`
 - [Kālajñāna (foreknowing the time of death)](kalajnana.md) — `skeleton`
@@ -491,6 +498,7 @@ skeleton: 1354 · sourced: 156
 - [Mayūrāsana (the peacock)](mayurasana.md) — `skeleton`
 - [Maṇḍala offering](mandala-offering.md) — `skeleton`
 - [Maṇḍūkāsana (the frog)](mandukasana.md) — `skeleton`
+- [Medicine Buddha practice and consecration of medicines (sman sgrub)](medicine-buddha-practice.md) — `skeleton`
 - [Meditation (dhyāna)](dhyana.md) — `sourced`
 - [Meditation (nididhyāsana / dhyāna)](nididhyasana.md) — `sourced`
 - [Meditation as objectless mind (dhyāna)](nirvisaya-dhyana.md) — `skeleton`
@@ -613,6 +621,7 @@ skeleton: 1354 · sourced: 156
 - [Pacification for an inauspicious birth](janma-santi.md) — `skeleton`
 - [Pacification of portents (utpāta-śānti)](utpata-santi.md) — `skeleton`
 - [Pacification of the planets (grahayajña, navagraha-homa)](graha-santi.md) — `skeleton`
+- [Pacification practice (zhi byed)](shije-pacification.md) — `skeleton`
 - [Pacificatory rites (śānti)](santi-karman.md) — `skeleton`
 - [Padastha-dhyāna (meditation on sacred words)](padastha-dhyana.md) — `skeleton`
 - [Padmāsana (the lotus seat)](padmasana.md) — `skeleton`
@@ -1099,6 +1108,7 @@ skeleton: 1354 · sourced: 156
 - [The practice-hut (maṭha, kuṭīra) and the place of practice](yoga-matha.md) — `skeleton`
 - [The prayer of the dying (Īśa 15-18)](prayer-at-death-isa.md) — `sourced`
 - [The preliminaries of performance (pūrvaraṅga)](purvaranga.md) — `skeleton`
+- [The preliminaries of the Jonang vajra-yoga](jonang-kalacakra-preliminaries.md) — `skeleton`
 - [The processing of mercury (rasa-saṃskāra)](rasa-samskara.md) — `skeleton`
 - [The python's way (ājagara-vṛtti)](ajagara-vrtti.md) — `skeleton`
 - [The Pāśupata livelihoods](pasupata-vrtti.md) — `skeleton`
@@ -1169,6 +1179,7 @@ skeleton: 1354 · sourced: 156
 - [The three locks together (bandha-traya)](bandha-traya.md) — `sourced`
 - [The three meritorious acts (sanfu)](three-meritorious-acts.md) — `skeleton`
 - [The three-year retreat](three-year-retreat.md) — `skeleton` _(recent)_
+- [The three-year retreat in Kongtrul's system](three-year-retreat-kongtrul.md) — `skeleton` _(recent)_
 - [The tree-root dweller's practice (rukkhamulikaṅga)](rukkhamulikanga.md) — `skeleton`
 - [The triple-robe wearer's practice (tecivarikaṅga)](tecivarikanga.md) — `skeleton`
 - [The twelve special vows of the monk (bhikṣu-pratimā)](bhiksu-pratima.md) — `skeleton`
@@ -1463,6 +1474,7 @@ skeleton: 1354 · sourced: 156
 - [Yogāsana (the yoga seat)](yogasana.md) — `skeleton`
 - [Yoni mudrā (the womb seal)](yoni-mudra.md) — `skeleton`
 - [Yoni mudrā as a hand-gesture in Śākta worship](yoni-hasta-mudra.md) — `skeleton`
+- [Yuthok Nyingthig: guru yoga and practice of the physicians](yuthok-nyingthig-practice.md) — `skeleton`
 - [Zazen / zuochan (seated meditation)](zazen.md) — `skeleton`
 - [Āgneyī / vaiśvānarī dhāraṇā (fire-concentration)](agneyi-dharana.md) — `skeleton`
 - [Ākāśī dhāraṇā / nabhodhāraṇā (space-concentration)](akasi-dharana.md) — `skeleton`

@@ -32,4 +32,4 @@ _Notes: U05's contribution to a shared practice._
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/taittiriya-upanisad/segmen — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 5.2; TU 1.11.3; ChU 3.17.4; BĀU 5.2.1-3). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, skeleton:U36-pali-suttas, skeleton:U03-principal-upanisads, skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, skeleton:U36-pali-suttas, skeleton:U03-principal-upanisads, skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._

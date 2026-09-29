@@ -18,7 +18,7 @@ The 'Compendium of the Reality of All Tathāgatas', root yoga tantra: Sarvārtha
   - kind: original; name: GRETIL e-text (ed. Yamada / Chandra & Snellgrove facsimile); licence: GRETIL; url: local
   - kind: translation; name: Derge Kangyur, Tōh 479 (confirmed in the local Derge catalogue); licence: public domain; url: local: sources_raw/derge-kangyur
 
-## Teachings (1: skeleton 1)
+## Teachings (2: skeleton 2)
 
 ### 1.five-abhisambodhis <a id="tea-sarvatathagatatattvasamgraha-1-five-abhisambodhis"></a>
 `skeleton` · confidence high
@@ -31,6 +31,15 @@ _level: conventional · standpoint: divine · path: ritual, meditation · stage:
 
 terms: [abhisambodhi](../terms/abhisambodhi.md) · concepts: [The five manifest awakenings](../concepts/five-abhisambodhis.md), [Deity yoga](../concepts/deity-yoga.md) · practices: [The five manifest awakenings](../practices/five-abhisambodhis.md)
 
+### trailokyavijaya <a id="tea-sarvatathagatatattvasamgraha-trailokyavijaya"></a>
+`skeleton` · confidence moderate
+
+In the second part (Trailokyavijaya), Vajrapāṇi, in the wrathful form 'Conqueror of the Three Worlds', is charged by Vairocana with bringing Maheśvara and the other worldly gods into the maṇḍala; Maheśvara resists, is subdued and dies, and is revived (in another world) as a buddha; the gods are then given places and new names in the maṇḍala.
+
+_level: conventional · standpoint: divine · path: ritual · stage: all · types: world-fate, dispute_
+
+concepts: [Subordinating another family's deities or founder](../concepts/taming-of-rival-deities.md) · disputes: [How is another family's revelation to be placed — as a lower stage of one's own, as a deliberate delusion, as a subdued power, or as a partial standpoint?](../debates/ranking-of-other-revelations.md)
+
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._

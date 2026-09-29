@@ -12,4 +12,4 @@ Purifying the breath's path by inhalation, retention and exhalation and their re
   - [Uddhava Gītā](../texts/uddhava-gita.md) — ref: 11.14.33-35; rests_on: ["tea:uddhava-gita:11.14.32-46"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._

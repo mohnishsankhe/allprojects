@@ -15,4 +15,4 @@
 Wandering renunciant master of Kham, speech-incarnation of Jigme Lingpa, famous for simplicity; author of the Words of My Perfect Teacher and the Special Teaching of the Wise and Glorious King; teacher of Mipham and Nyoshul Lungtok.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._

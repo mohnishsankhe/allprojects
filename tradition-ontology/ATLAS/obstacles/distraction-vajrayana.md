@@ -12,4 +12,4 @@ A distracted mind does not realize reality; the jewel is lost in the thicket of 
   - [Mahāmudropadeśa of Tilopa (the Gaṅgā Mahāmudrā)](../texts/ganga-mahamudra.md) — ref: v17-19; rests_on: ["tea:ganga-mahamudra:v17-19"]
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._

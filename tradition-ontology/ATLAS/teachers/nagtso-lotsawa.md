@@ -11,4 +11,4 @@
 Translator sent to invite Atiśa from Vikramaśīla, who accompanied him and translated several of his works (named in the colophon of the Caryāsaṃgrahapradīpa as the monk translator Tsultrim Gyalwa).
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._

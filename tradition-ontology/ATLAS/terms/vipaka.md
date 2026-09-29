@@ -25,4 +25,4 @@
 **Related:** [kamma](kamma.md), [vipāka-vijñāna](vipaka-vijnana.md)
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, skeleton:U36-pali-suttas, skeleton:U41-yogacara-pramana, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, skeleton:U36-pali-suttas, skeleton:U41-yogacara-pramana, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._

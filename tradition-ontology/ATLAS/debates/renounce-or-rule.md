@@ -24,4 +24,4 @@ The same tension recurs in Sulabhā's test of Janaka (dsp:sulabha-janaka) and in
 **The traditions' own objections:** Renunciant traditions hold formal renunciation to be required for the highest liberation and read the persuasion as addressed to one not yet ready.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._

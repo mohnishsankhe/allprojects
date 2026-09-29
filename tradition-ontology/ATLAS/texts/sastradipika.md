@@ -110,4 +110,4 @@ concepts: [The self (ātman)](../concepts/self.md), [For the rite or for the per
 
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:02 IST._

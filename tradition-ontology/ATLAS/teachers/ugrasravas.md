@@ -16,4 +16,4 @@ Son of Lomaharṣaṇa, the bard who retells the Mahābhārata, as heard at Jana
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 1.1.1 (lomaharṣaṇaputra ugraśravāḥ ... naimiṣāraṇye śaunakasya kulapater dvādaśavārṣike satre) — Located as entered.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._

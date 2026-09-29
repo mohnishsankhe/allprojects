@@ -4337,6 +4337,66 @@
   }
  },
  {
+  "id": "phn:chod-fear-in-haunted-places",
+  "lineage": "lin:chod",
+  "source": "src:katsom-chenmo",
+  "ref": "frightening-places",
+  "stage": "practice in haunted places",
+  "kind": "difficulty",
+  "description": "In charnel grounds and haunted places fear, terrifying apparitions and the sense of being attacked by spirits arise; the practice is to look for the one who is afraid and rest in emptiness.",
+  "rests_on": [
+   "tea:katsom-chenmo:frightening-places"
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:chod-signs-of-accomplishment",
+  "lineage": "lin:chod",
+  "source": "src:phungpo-zenkyur-namshe",
+  "ref": "signs",
+  "stage": "accomplished Chöd",
+  "kind": "sign",
+  "description": "Fearlessness in frightening places, spirits becoming friendly, clinging to the body falling away and illnesses pacified.",
+  "rests_on": [
+   "tea:phungpo-zenkyur-namshe:signs"
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:citta-converging",
   "lineage": "lin:thai-forest",
   "source": "src:ajahn-mun-biography",
@@ -7638,7 +7698,7 @@
     "old": "4",
     "new": "prose 2",
     "reason": "The effects of the sounds close the second prose section of the e-text Haṃsa (Adyar §§18-21). All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:4-effects-of-the-sounds (corrected).",
-    "date": "2026-09-29 17:45 IST",
+    "date": "2026-09-29 18:02 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -7693,7 +7753,7 @@
     "old": "4",
     "new": "prose 2",
     "reason": "The ten sounds are in the second prose section of the e-text Haṃsa, which has vv. 1-3 and prose sections 1-2 but no '4' (Adyar §§15-17). All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:4-ten-sounds (corrected).",
-    "date": "2026-09-29 17:45 IST",
+    "date": "2026-09-29 18:02 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -9130,6 +9190,36 @@
   "provenance": {
    "units": [
     "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:jonang-ten-signs",
+  "lineage": "lin:jonang",
+  "source": "src:thongwa-donden-taranatha",
+  "ref": "ten-signs",
+  "stage": "branch of withdrawal (so sor sdud pa)",
+  "kind": "vision",
+  "description": "Ten signs appear in order in the practice of withdrawal by night and by day — smoke, mirage, fireflies, lamp, blaze, moon, sun, darkness, lightning, drop — as empty forms, not to be grasped.",
+  "rests_on": [
+   "tea:thongwa-donden-taranatha:ten-signs"
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -10871,6 +10961,36 @@
   "provenance": {
    "units": [
     "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:machig-realization",
+  "lineage": "lin:chod",
+  "source": "src:phungpo-zenkyur-namshe",
+  "ref": "life",
+  "stage": "Machig's realization",
+  "kind": "state",
+  "description": "While reciting the Perfection of Wisdom, at its teaching on māras, Machig understood its meaning directly and self-clinging fell away (the tradition's account).",
+  "rests_on": [
+   "tea:phungpo-zenkyur-namshe:life"
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -14741,6 +14861,36 @@
   }
  },
  {
+  "id": "phn:rlung-disturbance",
+  "lineage": "lin:sowa-rigpa",
+  "source": "src:gyushi-mengagyu",
+  "ref": "rlung-disorders",
+  "stage": "rlung imbalance",
+  "kind": "difficulty",
+  "description": "Restlessness, sleeplessness, sighing, dizziness and a wandering mind as signs of disturbed rlung, the mount of the mind; Tibetan meditation teachers also warn that forced concentration can disturb rlung (low confidence as to textual source).",
+  "rests_on": [
+   "tea:gyushi-mengagyu:rlung-disorders"
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:rsi-seeing-the-hymns",
   "lineage": "lin:nairukta",
   "source": "src:nirukta",
@@ -15551,7 +15701,7 @@
     "old": "1.60-68",
     "new": "1.68-69 (prose closing khaṇḍa 7)",
     "reason": "The list of saṃyamas and their powers is the prose after v. 1.68 that closes khaṇḍa 7. E-text 1.60-68 deal with curing diseases by breath. All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:sandilya-upanisad:1.60-68 (corrected).",
-    "date": "2026-09-29 17:45 IST",
+    "date": "2026-09-29 18:02 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -16717,13 +16867,44 @@
     "old": "10.5.2.20",
     "new": "10.5.2.19-20",
     "reason": "The two halves of the description are in adjacent kaṇḍikās. The breaths going into the self in sleep is ŚB 10.5.2.19: 'sa yadā svapity athainam ete prāṇāḥ svā apiyanti tasmāt svāpyayaḥ … taṃ svapna ity ācakṣate'. Knowing nothing by mind, speech, smell, sight or hearing is 10.5.2.20: 'sa etaiḥ suptaḥ na kasya cana veda na manasā saṅkalpayati …'. Correction: ref 10.5.2.19-20, the same range fix as for tea:satapatha-brahmana:10.5.2.20.",
-    "date": "2026-09-29 17:45 IST",
+    "date": "2026-09-29 18:02 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    }
   ],
   "provenance": {
    "units": [
     "skeleton:U02-brahmana-vedanga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:sowa-rigpa-signs-of-death",
+  "lineage": "lin:sowa-rigpa",
+  "source": "src:gyushi-shegyu",
+  "ref": "7",
+  "stage": "terminal illness",
+  "kind": "sign",
+  "description": "Distant, near and uncertain signs of death — in body, dreams, pulse and urine — by which the physician judges whether an illness can be treated.",
+  "rests_on": [
+   "tea:gyushi-shegyu:7",
+   "tea:gyushi-chimagyu:1"
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"

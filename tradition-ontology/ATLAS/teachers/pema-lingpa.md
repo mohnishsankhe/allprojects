@@ -12,4 +12,4 @@
 Bhutanese treasure revealer, the fourth 'king' tertön, who by tradition revealed treasures from the Burning Lake holding a lit lamp; his lineages and ritual dances shape Bhutanese Buddhism.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._

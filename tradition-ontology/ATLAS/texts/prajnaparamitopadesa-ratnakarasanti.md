@@ -30,4 +30,4 @@ concepts: [Cognition with or without images](../concepts/sakara-nirakara.md) · 
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._

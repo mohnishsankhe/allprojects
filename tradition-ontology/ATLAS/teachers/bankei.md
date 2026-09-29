@@ -12,4 +12,4 @@ Rinzai master who, after years of harsh practice and illness, realized that all 
 **Realization — the tradition's account:** Gravely ill after years of austerities, he spat a mass of black phlegm against a wall and at that moment realized that all things are perfectly resolved in the Unborn (Bankei's own account in his sermons).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

@@ -11,4 +11,4 @@ Receiving and keeping, reading, reciting, explaining and copying the Lotus Sūtr
   - [Saddharmapuṇḍarīka-sūtra](../texts/saddharmapundarika.md) — ref: ch. 10; rests_on: ["tea:saddharmapundarika:10"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._

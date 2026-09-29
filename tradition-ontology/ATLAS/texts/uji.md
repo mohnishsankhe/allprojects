@@ -30,4 +30,4 @@ terms: [uji (being-time)](../terms/uji.md) · concepts: [Being-time (uji)](../co
 _Notes: Not held locally; paraphrases from memory, no original quoted._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

@@ -17,4 +17,4 @@ Prabhākara's shorter commentary on Śabara, also called Vivaraṇa; not extant.
 **Commentaries on this text:** [Dīpaśikhā](dipasikha.md)
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:02 IST._

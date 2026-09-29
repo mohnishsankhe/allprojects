@@ -45,7 +45,7 @@ Chapter on the Sāṃkhya: the Sāṃkhyas' primal matter and the pre-existence 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute_
 
-terms: [satkāryavāda](../terms/satkaryavada.md) · concepts: [Madhyamaka's critique of the Sāṃkhya](../concepts/madhyamaka-critique-of-samkhya.md) · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: `dsp:causation`
+terms: [satkāryavāda](../terms/satkaryavada.md) · concepts: [Madhyamaka's critique of the Sāṃkhya](../concepts/madhyamaka-critique-of-samkhya.md) · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 8 <a id="tea-madhyamakahrdaya-8"></a>
 `skeleton` · confidence low
@@ -54,7 +54,7 @@ terms: [satkāryavāda](../terms/satkaryavada.md) · concepts: [Madhyamaka's cri
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, ultimate_
 
-concepts: [Madhyamaka's critique of the Vedānta](../concepts/madhyamaka-critique-of-vedanta.md) · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [Madhyamaka's critique of the Vedānta](../concepts/madhyamaka-critique-of-vedanta.md) · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 8/2 <a id="tea-madhyamakahrdaya-8-2"></a>
 `skeleton` · confidence low
@@ -63,7 +63,7 @@ concepts: [Madhyamaka's critique of the Vedānta](../concepts/madhyamaka-critiqu
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute_
 
-concepts: [Madhyamaka's critique of the Vedānta](../concepts/madhyamaka-critique-of-vedanta.md) · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [Madhyamaka's critique of the Vedānta](../concepts/madhyamaka-critique-of-vedanta.md) · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 9 <a id="tea-madhyamakahrdaya-9"></a>
 `skeleton` · confidence low
@@ -78,4 +78,4 @@ concepts: [Madhyamaka's critique of the Mīmāṃsā](../concepts/madhyamaka-cri
 _Notes: Chapter titles and verse total from memory (moderate)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._

@@ -28,7 +28,7 @@ Reality (tattva) is held to be of two kinds, independent and dependent. The inde
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [tattva](../terms/tattva.md), [svatantra](../terms/svatantra.md), [paratantra (asvatantra)](../terms/paratantra.md), [abhāva](../terms/abhava.md), [Viṣṇu](../terms/visnu.md) · concepts: [Independent and dependent reality (svatantra–paratantra)](../concepts/svatantra-paratantra.md), [The division of realities (Tattvasaṅkhyāna scheme)](../concepts/tattva-division-dvaita.md) · disputes: `dsp:world-real-or-appearance`
+terms: [tattva](../terms/tattva.md), [svatantra](../terms/svatantra.md), [paratantra (asvatantra)](../terms/paratantra.md), [abhāva](../terms/abhava.md), [Viṣṇu](../terms/visnu.md) · concepts: [Independent and dependent reality (svatantra–paratantra)](../concepts/svatantra-paratantra.md), [The division of realities (Tattvasaṅkhyāna scheme)](../concepts/tattva-division-dvaita.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 2 <a id="tea-tattvasankhyana-2"></a>
 `skeleton` · confidence high
@@ -79,4 +79,4 @@ terms: [aṣṭa-kartṛtva](../terms/asta-kartrtva.md), [Viṣṇu](../terms/vi
 _Notes: All eleven verses checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions; Jayatīrtha's ṭīkā is src:tattvasankhyana-tika-jayatirtha._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._

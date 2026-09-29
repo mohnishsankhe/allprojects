@@ -13,4 +13,4 @@ A great-grandson of Janaśruta, a generous giver who kept open houses for food; 
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — Located: ChU 4.1.1-4.2 (the lavish giver; the geese, 4.1.2). 'Great-grandson of Janaśruta' follows the usual gloss of 'jānaśrutiḥ pautrāyaṇaḥ'; the text gives only the two names.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._

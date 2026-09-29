@@ -16,4 +16,4 @@ Kashmiri author of the Pradīpa on the Mahābhāṣya.
 
 - 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/kaiyata — Confirmed: Kashmir, 11th c. (Wisdomlib).
 
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts. Generated 2026-09-29 18:02 IST._

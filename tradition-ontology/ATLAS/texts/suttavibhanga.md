@@ -13,4 +13,4 @@
 The 'analysis of the rules': each Pātimokkha rule with the story of the incident that led the Buddha to lay it down, the rule itself, a word-commentary, the variations and the non-offence cases.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

@@ -15,4 +15,4 @@ Daughter of Janaka of Mithilā and Rāma's wife; the Rāmāyaṇa's exemplar of 
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData Rāmāyaṇa (vulgate) 2.117.8-27, 2.118.1 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._

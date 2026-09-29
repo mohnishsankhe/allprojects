@@ -13,4 +13,4 @@
 - part-of → [The internalization of ritual (in its Saṃhitā beginnings)](internalization-of-ritual.md): An instance of the ritual substance understood beyond its outer form. — rests on [10.85.3-4](../texts/rgveda.md#tea-rgveda-10-85-3-4)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._

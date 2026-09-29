@@ -10,4 +10,4 @@ Early teacher cited in the Mīmāṃsā Sūtra: the fruit stated for a rite is r
 _Notes: Disambiguated from other Ātreyas (e.g. of Āyurveda)._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:02 IST._

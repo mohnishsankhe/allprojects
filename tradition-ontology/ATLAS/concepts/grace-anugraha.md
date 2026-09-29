@@ -16,4 +16,4 @@
 _Notes: U18/U19 record Śiva's five acts; this is the Pāñcarātra contribution._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._

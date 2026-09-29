@@ -23,8 +23,8 @@ The three-year retreat is conducted under strict rules of seclusion and conduct,
 
 _level: conventional · standpoint: seeker · path: meditation, ritual · stage: advanced · types: practice, ethics_
 
-practices: `prc:three-year-retreat-kongtrul`, [The six-branch yoga (ṣaḍaṅgayoga)](../practices/sadanga-yoga.md) · teachers: [Jamgön Kongtrul Lodrö Thayé ('jam mgon kong sprul blo gros mtha' yas)](../teachers/jamgon-kongtrul.md)
+practices: [The three-year retreat in Kongtrul's system](../practices/three-year-retreat-kongtrul.md), [The six-branch yoga (ṣaḍaṅgayoga)](../practices/sadanga-yoga.md) · teachers: [Jamgön Kongtrul Lodrö Thayé ('jam mgon kong sprul blo gros mtha' yas)](../teachers/jamgon-kongtrul.md)
 
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

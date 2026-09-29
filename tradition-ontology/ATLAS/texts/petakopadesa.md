@@ -13,4 +13,4 @@
 An older, related hermeneutical treatise on the method of interpreting the teaching (the four truths as the frame), ascribed to Mahākaccāna; canonical in the Burmese Khuddaka Nikāya.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

@@ -17,4 +17,4 @@ In the Nārāyaṇīya the supreme Lord, also present as the ṛṣi Nārāyaṇ
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Text-located: the name occurs in the e-text of mandalabrahmana, paramahamsaparivrajaka, turiyatita, tripadvibhuti-mahanarayana, yogatattva, in the roles the summary gives. Checked: 'sa hovāca nārāyaṇaḥ' (Maṇḍalabrāhmaṇa 1); Ādi-Nārāyaṇa (Paramahaṃsaparivrājaka, Turīyātīta); Mahāviṣṇu (Tripādvibhūti); Hṛṣīkeśa (Yogatattva 4). A mythic or textual figure, so there is no historical dating to check.
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.332.19 (āvām api ca dharmasya gṛhe jātau), 12.326.1 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:02 IST._

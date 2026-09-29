@@ -29,4 +29,4 @@ terms: [piṟavi](../terms/piravi.md) · concepts: [The body in the Āḻvār hy
 
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:02 IST._

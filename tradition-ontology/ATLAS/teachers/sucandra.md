@@ -11,4 +11,4 @@
 King of Śambhala who requested the Kālacakra from the Buddha at Dhānyakaṭaka and wrote it down as the Mūlatantra (the tradition's account); regarded as an emanation of Vajrapāṇi.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._

@@ -9,4 +9,4 @@
 Digambara monk (1872–1955) who revived the order of naked munis in northern India in the 20th c. and ended his life by sallekhanā; called 'cāritra-cakravartin'.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._

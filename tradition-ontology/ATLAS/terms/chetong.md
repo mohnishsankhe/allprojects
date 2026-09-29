@@ -11,7 +11,7 @@
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-**Related:** [rnam kun mchog ldan gyi stong nyid](namkun-chokden.md), [rang stong (rangtong)](rangtong.md)
+**Related:** [rnam kun mchog ldan gyi stong nyid](namkun-chokden.md), [rang stong](rangtong.md)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

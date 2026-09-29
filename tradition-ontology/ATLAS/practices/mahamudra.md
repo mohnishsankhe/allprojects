@@ -25,11 +25,14 @@ Pressing the perineum with the left heel, the right leg stretched out and its fo
 - It is secret in all the tantras; to be practised as the guru teaches. — [Śiva Saṃhitā](../texts/siva-samhita.md) 4.16-20
 - The ten mudrās are to be guarded like a jewel-box and told to no one. — [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) 3.8-9
 
-_Notes: Homonym only of the Buddhist mahāmudrā (Kagyu); no equivalence is asserted. U04's combined entry prc:mahabandha-mahavedha overlaps the next two entries._
+## Equivalents (interpretation layer)
+- contested: [Resting in mahāmudrā (the Indian siddha instruction)](mahamudra-resting-indian.md) — same name, different practice: a bodily seal in haṭha, the resting of mind in its nature in the Buddhist siddhas
+
+_Notes: U49 contribution: cross-family equivalents only (other fields copied unchanged)._
 
 ---
 **Verification checks**
 
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.
 
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U49-cross-family, skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:02 IST._

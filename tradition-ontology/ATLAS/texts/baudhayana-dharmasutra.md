@@ -53,4 +53,4 @@ _Notes: Commentary: Govindasvāmin._
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Baudhāyanadharmasūtra, catalog:GRETIL-dev:baudhayana-dharmasutra, https://en.wikipedia.org/wiki/Baudhayana_sutras, https://en.wikipedia.org/wiki/Gautama_Dharmasutra — Extant, with Govindasvāmin's commentary (eBhāratī). The 'core c. 2nd c. BCE, later books added' dating agrees with the scholarly range (3rd c. BCE–1st c. CE for the four Dharmasūtras; Kane 500–200 BCE).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

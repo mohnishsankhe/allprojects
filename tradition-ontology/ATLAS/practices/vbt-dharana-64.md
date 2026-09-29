@@ -15,4 +15,4 @@ When any sense is obstructed or checked, for one who has entered the non-dual vo
 _Notes: Verses 89 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

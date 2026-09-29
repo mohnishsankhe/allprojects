@@ -60,4 +60,4 @@ concepts: [The two chariots: Yogācāra and Madhyamaka](../concepts/yogacara-mad
 _Notes: Sanskrit lost apart from quotations._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._

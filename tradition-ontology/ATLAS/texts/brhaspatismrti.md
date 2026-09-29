@@ -18,4 +18,4 @@ A lost legal smṛti, reconstructed from quotations in the digests; its treatmen
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:GRETIL-dev:brhaspatismrti, catalog:eBharati:bRhaspatismRtiH, https://archive.org/details/brihaspati-smriti-reconstructed-rangaswami-aiyangar-1941-gos — Confirmed: lost as an independent text and reconstructed from the digests (Jolly; Rangaswami Aiyangar 1941, c. 2,400 verses). A reconstruction is held locally. The date estimate was not checked.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

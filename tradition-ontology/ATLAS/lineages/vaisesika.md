@@ -55,9 +55,9 @@ Vaiśeṣika is the Vedic darśana of categorial analysis and atomism founded on
 [The Vaiśeṣika path to liberation (mokṣa)](../paths/vaisesika-path-to-moksa.md)
 
 ## Debates
-[Is the material world composed of eternal partless atoms?](../debates/atomism.md), [Does liberation contain bliss (and consciousness)?](../debates/bliss-in-liberation.md), [Is sound (the word) eternal?](../debates/eternality-of-sound.md), [When a clay pot is baked, is the change of colour in the atoms or in the whole pot?](../debates/pilupaka-pitharapaka.md), [Are universals (jāti, sāmānya) real?](../debates/reality-of-universals.md)
+[Is the material world composed of eternal partless atoms?](../debates/atomism.md), [Does liberation contain bliss (and consciousness)?](../debates/bliss-in-liberation.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md), [Is sound (the word) eternal?](../debates/eternality-of-sound.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [When a clay pot is baked, is the change of colour in the atoms or in the whole pot?](../debates/pilupaka-pitharapaka.md), [Are universals (jāti, sāmānya) real?](../debates/reality-of-universals.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 _Notes: Status 'absorbed': Vaiśeṣika ontology is still studied, but within Nyāya-Vaiśeṣika manuals._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._

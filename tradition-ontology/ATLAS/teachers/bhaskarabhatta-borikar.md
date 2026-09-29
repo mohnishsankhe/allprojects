@@ -11,4 +11,4 @@
 Mahānubhāva poet (early 14th c.), author of two of the seven classic poems — the Śiśupāla-vadha and the Uddhava-gītā (Ekādaśa-skandha).
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._

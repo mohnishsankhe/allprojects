@@ -15,4 +15,4 @@
 _Notes: Contrast (noted, not linked): BĀU 3.5.1 has the knower give up the desires for sons, wealth and worlds; Caraka makes three desires to be pursued._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:02 IST._

@@ -21,4 +21,4 @@ Recorded as the later tradition's reconciliation (U52 to anchor in the KathƒÅm·π
 **The traditions' own objections:** None recorded; the exchange is remembered as good-humoured.
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._

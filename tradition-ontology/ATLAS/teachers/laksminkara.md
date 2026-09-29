@@ -14,4 +14,4 @@ No. 82 of the eighty-four siddhas (Tōh 2292 order). Princess of Oḍḍiyāna, 
 _Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292. Tōh 2292's 'nI lak+Sha na' at position 82 is taken as Lakṣmīṅkarā (low). The song states a sequence of view, meditation and conduct._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._

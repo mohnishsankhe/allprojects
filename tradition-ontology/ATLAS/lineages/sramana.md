@@ -47,9 +47,9 @@ The śramaṇas (Pali/Prakrit samaṇa) were the renunciant wanderers and asceti
 _none recorded_
 
 ## Debates
-[Ārdraka's debates with rival ascetics (Sūtrakṛtāṅga 2.6)](../debates/ardraka-debates.md), [Should the questions about the eternity and extent of the world, soul and body, and the Tathāgata after death be answered?](../debates/avyakata.md), [Is there a self?](../debates/is-there-a-self.md), [Do good and bad deeds bear fruit (kiriyavāda) or not (akiriyavāda)?](../debates/is-there-fruit-of-action.md), [Do deeds have fruit, and does effort matter — or are experiences fated, caused by God, uncaused, or ended at death?](../debates/kiriyavada-akiriyavada.md), [Does anything survive the body's death — is there another world and rebirth, or is consciousness a product of the body that ends with it?](../debates/materialism-and-the-other-world.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+[Ārdraka's debates with rival ascetics (Sūtrakṛtāṅga 2.6)](../debates/ardraka-debates.md), [Should the questions about the eternity and extent of the world, soul and body, and the Tathāgata after death be answered?](../debates/avyakata.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Do good and bad deeds bear fruit (kiriyavāda) or not (akiriyavāda)?](../debates/is-there-fruit-of-action.md), [Do deeds have fruit, and does effort matter — or are experiences fated, caused by God, uncaused, or ended at death?](../debates/kiriyavada-akiriyavada.md), [Does anything survive the body's death — is there another world and rebirth, or is consciousness a product of the body that ends with it?](../debates/materialism-and-the-other-world.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 _Notes: Jainism (U34) and Buddhism (U36) are śramaṇa traditions but are NOT listed as sub-lineages here, so that the merge does not count them as one root. The Greek report of Megasthenes (Brachmanes and Sarmanes, via Strabo 15.1.59–60) is scholarly metadata only._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._

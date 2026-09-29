@@ -22,4 +22,4 @@ Vasubandhu's commentary on the Daśabhūmika (Shidi jing lun, T1522, tr. Bodhiru
 _Notes: Owned by U39; U41 contributes the lineage link to lin:dilun. D number recalled._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._

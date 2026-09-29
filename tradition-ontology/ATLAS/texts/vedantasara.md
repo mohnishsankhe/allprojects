@@ -14,7 +14,7 @@
 Sadānanda's standard primer: the four preliminaries (qualified student, subject, relation, purpose); superimposition and retraction; ignorance with its two powers, collective and individual, and the three bodies, states and sheaths; quintuplication; a graded refutation of mistaken views of the self; the analysis of 'tat tvam asi' by exclusive-inclusive implication; hearing, reflection, contemplation and samādhi with eight auxiliaries and four obstacles; the jīvanmukta.
 **Commentaries on this text:** [Subodhinī (on the Vedāntasāra)](subodhini-vedantasara.md), [Vidvanmanorañjanī](vidvanmanoranjani.md)
 
-## Teachings (11: skeleton 11)
+## Teachings (12: skeleton 12)
 
 ### adhikarin <a id="tea-vedantasara-adhikarin"></a>
 `skeleton` · confidence high
@@ -65,6 +65,17 @@ _level: conventional · standpoint: seeker · path: knowledge · stage: beginner
 
 terms: [anubandha-catuṣṭaya](../terms/anubandha-catustaya.md), [adhikārin](../terms/adhikarin.md) · concepts: [The four preliminaries (anubandha-catuṣṭaya)](../concepts/anubandha-catustaya.md) · teachers: [Sadānanda (Yogīndra)](../teachers/sadananda.md)
 
+### apavāda section (verse quoted there) <a id="tea-vedantasara-apavada"></a>
+`skeleton` · confidence moderate
+
+Retraction (apavāda) is showing that the unreal world-appearance beginning with ignorance, an apparent transformation (vivarta) of the real, is nothing but the real — as the snake, an apparent transformation of the rope, is only the rope. A verse is quoted: when a thing appears otherwise in reality it is called modification (vikāra); when it appears otherwise not in reality it is called apparent transformation (vivarta). By superimposition and retraction the meanings of the words 'that' and 'you' are also purified.
+
+> सतत्त्वतोऽन्यथा प्रथा विकार इत्युदीरितः । अतत्त्वतोऽन्यथा प्रथा विवर्त इत्युदाहृतः ॥
+
+_level: bridging · standpoint: analytic · path: knowledge · stage: intermediate · types: ultimate, world-fate_
+
+teachers: [Sadānanda (Yogīndra)](../teachers/sadananda.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md), [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
+
 ### jivanmukta <a id="tea-vedantasara-jivanmukta"></a>
 `skeleton` · confidence moderate
 
@@ -90,7 +101,7 @@ A graded series of mistaken views of the self: the most ignorant take the son as
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind_
 
-practices: [Discrimination of the five sheaths (pañca-kośa-viveka)](../practices/panca-kosa-viveka.md) · teachers: [Sadānanda (Yogīndra)](../teachers/sadananda.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+practices: [Discrimination of the five sheaths (pañca-kośa-viveka)](../practices/panca-kosa-viveka.md) · teachers: [Sadānanda (Yogīndra)](../teachers/sadananda.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### samadhi <a id="tea-vedantasara-samadhi"></a>
 `skeleton` · confidence high
@@ -123,4 +134,4 @@ terms: [tat tvam asi](../terms/tat-tvam-asi.md), [jahad-ajahal-lakṣaṇā (bh�
 _Notes: Commentaries: Nṛsiṃha Sarasvatī's Subodhinī (1588), Rāmatīrtha's Vidvanmanorañjanī._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._

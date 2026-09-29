@@ -132,7 +132,7 @@ Desire, aversion, effort, pleasure, pain and cognition are the marks (liṅga) o
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: [ātman](../terms/atman.md), [icchā](../terms/iccha.md), [dveṣa](../terms/dvesa.md), [prayatna](../terms/prayatna.md), [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md), [jñāna](../terms/jnana.md), [liṅga](../terms/linga.md) · concepts: [The marks (liṅga) of the self](../concepts/marks-of-the-self.md), [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md), [icchā](../terms/iccha.md), [dveṣa](../terms/dvesa.md), [prayatna](../terms/prayatna.md), [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md), [jñāna](../terms/jnana.md), [liṅga](../terms/linga.md) · concepts: [The marks (liṅga) of the self](../concepts/marks-of-the-self.md), [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 1.1.11 <a id="tea-nyaya-sutra-1-1-11"></a>
 `skeleton` · confidence high
@@ -568,7 +568,7 @@ terms: [vyakti](../terms/vyakti.md), [ākṛti](../terms/akrti.md), [jāti](../t
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: [ātman](../terms/atman.md), [indriya](../terms/indriya.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md), [indriya](../terms/indriya.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 3.1.4 <a id="tea-nyaya-sutra-3-1-4"></a>
 `skeleton` · confidence high
@@ -579,7 +579,7 @@ terms: [ātman](../terms/atman.md), [indriya](../terms/indriya.md) · concepts: 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: ethics, dispute_
 
-terms: [ātman](../terms/atman.md), [śarīra](../terms/sarira.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md), [śarīra](../terms/sarira.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 3.1.7 <a id="tea-nyaya-sutra-3-1-7"></a>
 `skeleton` · confidence high
@@ -590,7 +590,7 @@ terms: [ātman](../terms/atman.md), [śarīra](../terms/sarira.md) · concepts: 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: [ātman](../terms/atman.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 3.1.13-14 <a id="tea-nyaya-sutra-3-1-13-14"></a>
 `skeleton` · confidence high
@@ -599,7 +599,7 @@ terms: [ātman](../terms/atman.md) · concepts: [The self as a substance with qu
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: [smṛti](../terms/smrti.md), [ātman](../terms/atman.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [smṛti](../terms/smrti.md), [ātman](../terms/atman.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 3.1.18 <a id="tea-nyaya-sutra-3-1-18"></a>
 `skeleton` · confidence high
@@ -610,7 +610,7 @@ terms: [smṛti](../terms/smrti.md), [ātman](../terms/atman.md) · disputes: [I
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: karma-liberation, death-dying_
 
-terms: [ātman](../terms/atman.md), [pretyabhāva](../terms/pretyabhava.md), [smṛti](../terms/smrti.md) · concepts: [Nyāya arguments for previous and future births](../concepts/rebirth-proofs-nyaya.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md), [pretyabhāva](../terms/pretyabhava.md), [smṛti](../terms/smrti.md) · concepts: [Nyāya arguments for previous and future births](../concepts/rebirth-proofs-nyaya.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 3.1.21 <a id="tea-nyaya-sutra-3-1-21"></a>
 `skeleton` · confidence high
@@ -794,7 +794,7 @@ The view that an existent arises from non-existence — because (a sprout) appea
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: world-fate, dispute_
 
-concepts: [New beginning (ārambha): the effect does not pre-exist](../concepts/arambhavada.md) · disputes: `dsp:causation`
+concepts: [New beginning (ārambha): the effect does not pre-exist](../concepts/arambhavada.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 4.1.19-21 <a id="tea-nyaya-sutra-4-1-19-21"></a>
 `skeleton` · confidence high
@@ -837,7 +837,7 @@ terms: [abhāva](../terms/abhava.md) · disputes: [Are things established by the
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: unmarked · types: world-fate, dispute_
 
-terms: [asatkāryavāda](../terms/asatkaryavada.md), [ārambhavāda](../terms/arambhavada.md), [phala](../terms/phala.md) · concepts: [New beginning (ārambha): the effect does not pre-exist](../concepts/arambhavada.md) · disputes: `dsp:causation`
+terms: [asatkāryavāda](../terms/asatkaryavada.md), [ārambhavāda](../terms/arambhavada.md), [phala](../terms/phala.md) · concepts: [New beginning (ārambha): the effect does not pre-exist](../concepts/arambhavada.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 4.1.55 <a id="tea-nyaya-sutra-4-1-55"></a>
 `skeleton` · confidence high
@@ -1129,4 +1129,4 @@ terms: [nigrahasthāna](../terms/nigrahasthana.md) · concepts: [The twenty-two 
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._

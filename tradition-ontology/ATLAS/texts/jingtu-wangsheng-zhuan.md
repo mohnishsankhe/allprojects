@@ -17,4 +17,4 @@ Song collection of biographies of monks born in the Pure Land, from Huiyuan onwa
   - kind: original; name: Taishō T51n2071 (CBETA); licence: CBETA CC BY-NC-SA; url: https://cbetaonline.dila.edu.tw/T2071
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._

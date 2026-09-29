@@ -15,4 +15,4 @@
 - same-as-under-standpoint → [Devotion graded by the guṇas](bhakti-by-gunas.md) (analytic): the guṇa-grading of secondary devotion is the Bhāgavata's grading (BhP 3.29) — rests on [56-57](../texts/narada-bhakti-sutra.md#tea-narada-bhakti-sutra-56-57), [3.29.7-12](../texts/bhagavata-purana.md#tea-bhagavata-purana-3-29-7-12)
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:02 IST._

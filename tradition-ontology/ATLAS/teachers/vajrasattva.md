@@ -9,4 +9,4 @@
 In the Dzogchen transmission the sambhogakāya through whom the teaching passes from Samantabhadra to Garab Dorje; the interlocutor of the Kunjed Gyalpo ('sems dpa' rdo rje'); the deity of purification in the preliminaries (the hundred-syllable mantra).
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._

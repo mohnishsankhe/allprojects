@@ -18,4 +18,4 @@ Holding the mind on the form of the Lord in the heart or before the mind's eye, 
 **Sequences:** [Kapila's yoga with a support (BhP 3.28)](../paths/kapila-yoga-bhagavata.md), [Keśidhvaja's yoga (VP 6.7)](../paths/visnu-purana-yoga.md)
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._

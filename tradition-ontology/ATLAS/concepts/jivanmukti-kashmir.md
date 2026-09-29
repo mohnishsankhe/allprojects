@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [Liberation while living (jīvanmukti)](jivanmukti.md) (liberation while embodied): shared name; the Kashmir Śaivas add that the world is known as one's own real manifestation — rests on [16](../texts/pratyabhijnahrdayam.md#tea-pratyabhijnahrdayam-16)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

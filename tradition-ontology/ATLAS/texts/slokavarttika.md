@@ -47,7 +47,7 @@ Thus the author of the bhāṣya (Śabara), intent on refuting unbelief, has sho
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: consciousness-mind, teacher-transmission_
 
-concepts: [The self (ātman)](../concepts/self.md), [The relation of Pūrva and Uttara Mīmāṃsā](../concepts/purva-uttara-mimamsa.md) · obstacles: [Unbelief (nāstikya) and the 'Lokāyata' reading of Mīmāṃsā](../obstacles/nastikya.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [The self (ātman)](../concepts/self.md), [The relation of Pūrva and Uttara Mīmāṃsā](../concepts/purva-uttara-mimamsa.md) · obstacles: [Unbelief (nāstikya) and the 'Lokāyata' reading of Mīmāṃsā](../obstacles/nastikya.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### codana.47 <a id="tea-slokavarttika-codana-47"></a>
 `skeleton` · confidence high
@@ -265,4 +265,4 @@ concepts: [The injunction of Vedic study and the transmission of the Veda](../co
 
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:02 IST._

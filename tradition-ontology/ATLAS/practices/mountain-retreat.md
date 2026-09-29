@@ -15,4 +15,4 @@ Practice alone in caves and hermitages, renouncing worldly concerns — the mode
 - Extreme austerity (Milarepa's nettle diet) is told as the exemplar's life, not prescribed as method.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._

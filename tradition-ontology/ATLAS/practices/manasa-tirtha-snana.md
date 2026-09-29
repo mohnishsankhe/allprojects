@@ -11,4 +11,4 @@ Cultivating truth, forbearance, sense-control, compassion, straightforwardness, 
   - [Skanda Purāṇa](../texts/skanda-purana.md) — ref: 4.1.6.28-45; rests_on: ["tea:skanda-purana:4.1.6.28-45"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._

@@ -12,4 +12,4 @@ A twentieth-century system presented as a revival of Jain meditation: body-aband
 _Notes: Recent (developed by Ācārya Mahāprajña under Ācārya Tulsī, 1970s); details recalled only in outline. Teachers: tch:mahaprajna, tch:tulsi-acarya (U34 ids)._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._

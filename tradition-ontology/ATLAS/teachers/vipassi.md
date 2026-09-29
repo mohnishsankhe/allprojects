@@ -8,4 +8,4 @@
 The first of the seven Buddhas of DN 14, ninety-one aeons ago, whose life is narrated as the model of a bodhisatta's career.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

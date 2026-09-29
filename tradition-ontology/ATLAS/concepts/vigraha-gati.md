@@ -13,4 +13,4 @@
 - contrasts-with → `cpt:bardo`: The Jain transit lasts at most a few instants; there is no extended intermediate existence. — rests on [2.28](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-2-28), [2.29](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-2-29)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._

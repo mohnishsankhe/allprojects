@@ -1,6 +1,6 @@
-# Debates (437)
+# Debates (447)
 
-skeleton: 400 · sourced: 37
+skeleton: 410 · sourced: 37
 
 - [After understanding the mahāvākya, is repeated meditative contemplation (prasaṅkhyāna) required for liberating knowledge?](prasankhyana.md) — `skeleton`
 - [Are all nouns derived from verbal roots?](do-all-nouns-derive-from-verbs.md) — `sourced`
@@ -29,6 +29,7 @@ skeleton: 400 · sourced: 37
 - [Are the gods eligible for the knowledge of Brahman and for meditations such as the honey-meditation (BS 1.3.26–33)?](eligibility-of-gods.md) — `skeleton`
 - [Are the gods person-like in form (puruṣavidha) or not?](form-of-the-gods.md) — `sourced`
 - [Are the images (ākāra) appearing in cognition real or false?](sakara-nirakara.md) — `skeleton`
+- [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](souls-one-or-distinct.md) — `skeleton`
 - [Are the instruments thirteen or eleven? (a debate among Sāṃkhya teachers)](number-of-instruments-samkhya.md) — `skeleton`
 - [Are the liberated graded in bliss, or equal (or one)?](gradation-in-liberation.md) — `skeleton`
 - [Are the Mahāyāna sūtras the word of the Buddha?](mahayana-buddhavacana.md) — `skeleton`
@@ -85,6 +86,7 @@ skeleton: 400 · sourced: 37
 - [Can those who have committed the five grave offences or slandered the Dharma be born in the Pure Land?](can-grave-offenders-be-born.md) — `skeleton`
 - [Can valid cognition, the means of knowledge and the categories be coherently defined (and so difference established)?](khandana-definability.md) — `skeleton`
 - [Did Mahāvīra marry?](mahavira-marriage.md) — `skeleton`
+- [Did Pātañjala Yoga take its shared meditative and ethical vocabulary (the four attitudes, the five faculties, the afflictions, samāpatti, dharmamegha) from Buddhism, or do Yoga, Buddhism and Jainism draw on a common śramaṇa milieu?](yoga-buddhism-shared-milieu.md) — `skeleton`
 - [Did the Buddha really live in the human world and himself teach?](kv-buddha-in-human-world.md) — `skeleton`
 - [Did the original Jain scripture survive?](canon-survival-jain.md) — `skeleton`
 - [Did the Vīraśaiva/Liṅgāyata tradition begin with Basava and the śaraṇas of twelfth-century Kalyāṇa, or is it a beginningless Śaiva dharma renewed in every age by the five ācāryas?](virasaiva-origins.md) — `skeleton`
@@ -134,6 +136,7 @@ skeleton: 400 · sourced: 37
 - [Does the arhat still have imperfections (the five points of Mahādeva)?](five-points-of-mahadeva.md) — `skeleton`
 - [Does the destruction of a conditioned thing have a cause?](cause-of-destruction.md) — `skeleton`
 - [Does the earth rotate, or do the stars revolve around a fixed earth?](earth-rotation.md) — `skeleton`
+- [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](causation.md) — `skeleton`
 - [Does the funeral hymn enjoin the widow to rise to the living, or (by a variant reading) to enter the fire?](rv-10-18-7-widow-reading.md) — `sourced`
 - [Does the hearing of the Upaniṣadic sentence itself produce immediate knowledge (so that hearing is the principal means), or does the mind perfected by contemplation produce it?](sravana-alone-liberates.md) — `skeleton`
 - [Does the liberated (who reached the Brahma-world by meditation) have a body and senses (BS 4.4.10–12)?](bodies-of-the-liberated.md) — `skeleton`
@@ -159,6 +162,7 @@ skeleton: 400 · sourced: 37
 - [How does the one Brahman appear as many jīvas (and as Īśvara): by limitation, reflection or semblance?](how-the-one-appears-as-many.md) — `skeleton`
 - [How does the unchanging puruṣa 'know' the mind's activities — by a single reflection of consciousness in the buddhi, or by mutual reflection?](reflection-single-or-mutual.md) — `skeleton`
 - [How is a cognition (and its validity) known?](how-cognition-is-known.md) — `skeleton`
+- [How is another family's revelation to be placed — as a lower stage of one's own, as a deliberate delusion, as a subdued power, or as a partial standpoint?](ranking-of-other-revelations.md) — `skeleton`
 - [How long is the road of the dead to Yama's city?](duration-of-the-road-to-yama.md) — `skeleton`
 - [How many gods are there — 3,339, thirty-three, three, or one?](how-many-gods.md) — `sourced`
 - [How many kinds of consciousness are there — six, eight or nine?](number-of-consciousnesses.md) — `skeleton`
@@ -178,6 +182,7 @@ skeleton: 400 · sourced: 37
 - [Is a living master necessary, and how is the true successor known?](sant-mat-living-master-and-succession.md) — `skeleton` _(recent)_
 - [Is a stable, undecaying body required for liberation in life?](is-bodily-immortality-required-for-liberation.md) — `skeleton`
 - [Is a whole (avayavin) something real over and above its parts?](whole-and-parts.md) — `skeleton`
+- [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](advaita-crypto-buddhism.md) — `skeleton`
 - [Is Advaita's avidyā — beginningless, indescribable, located in and concealing Brahman — tenable?](avidya-saptavidha-anupapatti.md) — `skeleton`
 - [Is all activity the function of buddha-nature (Hongzhou), or must numinous knowing be recognised and cultivated (Zongmi)?](hongzhou-all-activity-buddha-nature.md) — `skeleton`
 - [Is Amitābha a reward-body buddha in a reward land, or a transformation body in a land where ordinary beings and sages dwell together?](amitabha-land-reward-or-transformation.md) — `skeleton`
@@ -192,6 +197,7 @@ skeleton: 400 · sourced: 37
 - [Is brahman the persons in the sun, moon and other phenomena, or the self into which the sleeper withdraws?](gargya-ajatasatru-debate.md) — `sourced`
 - [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](buddha-nature-self-or-emptiness.md) — `skeleton`
 - [Is Chan a special transmission outside the scriptural teachings, or one with them?](chan-and-the-teachings.md) — `skeleton`
+- [Is Chöd — a practice first taught by a Tibetan woman and concerned with spirits and the gift of the body — authentic Buddhadharma with an Indian source?](chod-orthodoxy.md) — `skeleton`
 - [Is cognition (the dependent nature) real, or is it empty of own-being like everything else? — Yogācāra and Madhyamaka](yogacara-madhyamaka.md) — `skeleton`
 - [Is complete nudity required of the renunciant (and for liberation)?](monastic-nudity.md) — `skeleton`
 - [Is conceptual analysis part of meditation, or must all thought be stopped?](role-of-analysis-in-meditation.md) — `skeleton`
@@ -251,6 +257,7 @@ skeleton: 400 · sourced: 37
 - [Is the conscious self one or many?](one-or-many-purusas.md) — `skeleton`
 - [Is the difference between Brahman and the soul due to adjuncts, natural, or inconceivable?](aupadhika-vs-svabhavika-bhedabheda.md) — `skeleton`
 - [Is the embryo born of mother, father, self, suitability, nourishment and a mind coming from another world?](origin-of-embryo.md) — `skeleton`
+- [Is the Four Tantras (rgyud bzhi) the word of the Buddha, or a treatise composed in Tibet?](gyushi-buddha-word.md) — `skeleton`
 - [Is the fourth Mahāpurāṇa the Śiva Purāṇa or the Vāyu Purāṇa?](siva-or-vayu-mahapurana.md) — `skeleton`
 - [Is the gopīs' (and Rādhā's) love for Kṛṣṇa paramour love (parakīyā) or wedded love (svakīyā) in truth?](svakiya-parakiya.md) — `skeleton`
 - [Is the Great Perfection the 'sudden' Chan of Moheyan, rejected at Samye, in another guise?](dzogchen-and-chan.md) — `skeleton`
@@ -259,6 +266,7 @@ skeleton: 400 · sourced: 37
 - [Is the killing of animals in Vedic sacrifice dharma?](animal-sacrifice-epic.md) — `skeleton`
 - [Is the killing prescribed in Vedic ritual an injury (hiṃsā) that brings demerit?](vedic-ritual-killing-and-ahimsa.md) — `sourced`
 - [Is the knowledge that liberates a knowledge arising from the scriptural sentence, or a sustained meditation (upāsana) that is bhakti?](is-liberating-knowledge-meditation.md) — `skeleton`
+- [Is the Kālacakra an authentic Buddhist tantra — and, for the Jonang, the definitive one?](kalacakra-authenticity.md) — `skeleton`
 - [Is the Kāpālika way (skull vow, insignia, liquor, consort, Bhairava rites) a path to liberation?](kapalika-path-validity.md) — `skeleton`
 - [Is the Liṅgāyata/Vīraśaiva tradition a religion distinct from 'Hinduism' and the Vedic fold, or a Śaiva sampradāya within it — and are 'Liṅgāyata' and 'Vīraśaiva' one tradition or two?](lingayata-hindu-identity.md) — `skeleton`
 - [Is the Lord who has come into manifestation in a human body only a manifest, human being?](bhagavad-gita-the-lords-embodiment.md) — `skeleton`
@@ -298,10 +306,11 @@ skeleton: 400 · sourced: 37
 - [Is the Veda threefold (trayī), or is the Atharvaveda a Veda of equal (or higher) rank?](atharvaveda-status.md) — `sourced`
 - [Is the Vrātya an exalted cosmic figure or an outsider to be brought into the Vedic fold?](vratya-status.md) — `sourced`
 - [Is the world false (mithyā), and can the Advaita definitions of falsity withstand Vyāsatīrtha's critique? (The Nyāyāmṛta–Advaitasiddhi controversy)](nyayamrta-advaitasiddhi.md) — `skeleton`
+- [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](world-real-or-appearance.md) — `skeleton`
 - [Is the Yoga smṛti refuted by the Vedānta ('etena yogaḥ pratyuktaḥ', Brahma Sūtra 2.1.3)?](vedanta-on-yoga-smrti.md) — `skeleton`
 - [Is there a permanent mind-nature that leaves the perishing body at death?](srenika-heresy.md) — `skeleton`
 - [Is there a person (pudgala) that is neither the same as nor different from the aggregates?](pudgala.md) — `skeleton`
-- [Is there a self?](is-there-a-self.md) — `skeleton`
+- [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](is-there-a-self.md) — `skeleton`
 - [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](sphota.md) — `skeleton`
 - [Is there a store-consciousness (ālaya-vijñāna) distinct from the six consciousnesses?](existence-of-alaya.md) — `skeleton`
 - [Is there a subtle body that transmigrates? (a debate among Sāṃkhya teachers)](is-there-a-subtle-body.md) — `skeleton`
@@ -374,6 +383,7 @@ skeleton: 400 · sourced: 37
 - [Was being (sat) or non-being (asat) first, at the origin of the world?](being-or-non-being-first.md) — `sourced`
 - [Was Dāmodaradeva a disciple of Śaṅkaradeva, or an independent founder?](damodaradeva-independence.md) — `skeleton`
 - [Was Gosāla Mahāvīra's disciple and a false Jina, or an independent Jina in his seventh reanimation?](gosala-mahavira.md) — `skeleton`
+- [Was haṭha yoga taught by Śiva (Ādinātha) through the Nāth siddhas, or did its earliest methods arise in a Buddhist tantric milieu?](source-of-hatha-yoga.md) — `skeleton`
 - [Was Kabīr a disciple of Rāmānanda?](kabir-guru-ramananda.md) — `skeleton`
 - [Was Kabīr a Hindu or a Muslim?](kabir-identity-hindu-or-muslim.md) — `skeleton`
 - [Was Mahāvīra's embryo transferred from Devānandā to Triśalā?](mahavira-embryo-transfer.md) — `skeleton`

@@ -59,4 +59,4 @@ teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · dispu
 _Notes: Other hagiographies (not separately entered): Anantānandagiri's Śaṅkaravijaya, Cidvilāsa's Śaṅkaravijayavilāsa, Vyāsācala's Śaṅkaravijaya, Rājacūḍāmaṇi Dīkṣita's Śaṅkarābhyudaya; the Kāñcī tradition also cites a Bṛhat-Śaṅkaravijaya. Accounts differ on Śaṅkara's place of passing (Kedāra; Kāñcī)._
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:02 IST._

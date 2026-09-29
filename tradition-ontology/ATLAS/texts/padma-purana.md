@@ -17,7 +17,16 @@
 
 A vast Vaiṣṇava-leaning compendium: creation, tīrthas (Puṣkara and others), vratas (Ekādaśī, Kārttika, Māgha), the glory of the Bhāgavata and the Gītā, Rāma narratives, the worship of the name and of the śālagrāma and tulasī, and the guṇa-classification of the eighteen Purāṇas.
 
-## Teachings (2: skeleton 2)
+## Teachings (4: skeleton 4)
+
+### 6.236.7 <a id="tea-padma-purana-6-236-7"></a>
+`skeleton` · confidence low
+
+Śiva tells Pārvatī that the doctrine of illusion (māyāvāda) is a false scripture, called 'Buddhism in disguise' (pracchanna bauddha), and that he himself propounds it in the Kali age in the form of a brahmin.
+
+_level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute_
+
+disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
 
 ### 6.236.18-21 <a id="tea-padma-purana-6-236-18-21"></a>
 `skeleton` · confidence low
@@ -27,6 +36,17 @@ A vast Vaiṣṇava-leaning compendium: creation, tīrthas (Puṣkara and others
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, teacher-transmission_
 
 concepts: [The classification of Purāṇas by the guṇas](../concepts/guna-classification-of-puranas.md) · disputes: [Are some Purāṇas sāttvika and authoritative, others rājasa or tāmasa and to be avoided?](../debates/guna-ranking-of-puranas.md)
+
+### Uttarakhaṇḍa, Śiva to Pārvatī on the heretical (pāṣaṇḍa/tāmasa) teachings (verse numbering varies by edition) <a id="tea-padma-purana-uttara-khanda-mayavada"></a>
+`skeleton` · confidence low
+
+Among the heretical teachings Mahādeva tells the Goddess: the doctrine of māyā (māyāvāda) is a false teaching, said to be Buddhism in disguise (pracchanna-bauddha); it was taught by me, O Goddess, in the Kali age in the form of a brāhmaṇa; in the great scripture of the Vedānta I shall expound this non-Vedic māyāvāda, for the destruction of the worlds.
+
+> मायावादम् असच् छास्त्रं प्रच्छन्नं बौद्धम् उच्यते । मयैवं कथितं देवि कलौ ब्राह्मण-रूपिणा ॥ वेदान्ते तु महा-शास्त्रे मायावादम् अवैदिकम् । मयैव वक्ष्यते देवि जगतां नाश-कारणात् ॥
+
+_level: conventional · standpoint: polemical · path: general · stage: all · types: dispute_
+
+disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
 
 ### nama-aparadha <a id="tea-padma-purana-nama-aparadha"></a>
 `skeleton` · confidence low
@@ -41,4 +61,4 @@ terms: [nāmāparādha](../terms/namaparadha.md) · concepts: [The power of the 
 _Notes: Contains the Bhāgavata-māhātmya (Uttarakhaṇḍa; colophon checked in the local e-text), the Gītā-māhātmya, the Śiva Gītā (U06), the classification of the Purāṇas by the three guṇas (Uttarakhaṇḍa; ch. number edition-dependent, often cited as 236.18-21), and the list of ten offences against the name as cited by Gauḍīya authors._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._

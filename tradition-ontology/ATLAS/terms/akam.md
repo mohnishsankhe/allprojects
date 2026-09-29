@@ -14,4 +14,4 @@
 **Related:** [puṟam](puram.md), [nāyikā-bhāva](nayika-bhava.md), [tūtu](tutu.md), [maṭal](matal.md)
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:02 IST._

@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The five elements (mahābhūta)](five-elements.md) (medicine) — rests on [19](../texts/gyushi-shegyu.md#tea-gyushi-shegyu-19)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

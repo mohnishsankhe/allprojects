@@ -12,4 +12,4 @@ Recognizing 'I am like space, the world a pot', 'I am the ocean, the world its w
   - [Aṣṭāvakra Gītā](../texts/astavakra-gita.md) — ref: 5.1-4; rests_on: ["tea:astavakra-gita:5.1-4"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._

@@ -17,4 +17,4 @@ Dignāga's verses on the three times, closely reworking verses of Bhartṛhari's
 _Notes: The relation to Bhartṛhari is a scholarly finding (Frauwallner); cited as textual parallel._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._

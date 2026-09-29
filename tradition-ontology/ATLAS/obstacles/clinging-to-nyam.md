@@ -15,4 +15,4 @@ Taking experiences, visions or miracles (in dream or waking) as real or as signs
 - partial: [Attachment to powers](siddhi-attachment.md) — attachment to powers is one form of it
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._

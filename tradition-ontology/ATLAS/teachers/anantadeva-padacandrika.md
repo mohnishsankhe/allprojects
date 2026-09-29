@@ -12,4 +12,4 @@ Author of the Padacandrikā, a short commentary on the Yoga Sūtra dedicated to 
 _Notes: Whether he is identical with other authors named Anantadeva (e.g. the 17th-c. Mīmāṃsaka) is not established here; id disambiguated for that reason._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:02 IST._

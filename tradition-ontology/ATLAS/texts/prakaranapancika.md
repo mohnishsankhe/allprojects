@@ -82,7 +82,7 @@ The self is distinct from cognition, senses and body; all-pervading, permanent, 
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: [ātman](../terms/atman.md) · concepts: [The self (ātman)](../concepts/self.md), [Triple manifestation (tripuṭī-pratyakṣa)](../concepts/triputi-pratyaksa.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Is the self known as an object (of the 'I'-cognition), or only as the subject of every cognition?](../debates/self-known-as-object.md)
+terms: [ātman](../terms/atman.md) · concepts: [The self (ātman)](../concepts/self.md), [Triple manifestation (tripuṭī-pratyakṣa)](../concepts/triputi-pratyaksa.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Is the self known as an object (of the 'I'-cognition), or only as the subject of every cognition?](../debates/self-known-as-object.md)
 
 ### 8/2 <a id="tea-prakaranapancika-8-2"></a>
 `skeleton` · confidence high
@@ -115,4 +115,4 @@ concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md
 
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:02 IST._

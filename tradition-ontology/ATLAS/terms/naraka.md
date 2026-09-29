@@ -20,4 +20,4 @@
 **Related:** [svarga](svarga.md), [varṇasaṅkara](varnasankara.md), [pāpa](papa.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U07-puranas, skeleton:U35-jain-philosophy, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U07-puranas, skeleton:U35-jain-philosophy, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._

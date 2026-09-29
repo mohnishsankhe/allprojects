@@ -10,4 +10,4 @@ Awoke on seeing peach blossoms after thirty years of seeking; Guishan confirmed 
 **Realization — the tradition's account:** 'Since once seeing the peach blossoms, until now I have had no more doubt' (Jingde chuandeng lu juan 11).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

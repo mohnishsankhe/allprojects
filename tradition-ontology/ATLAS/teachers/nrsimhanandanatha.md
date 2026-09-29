@@ -11,4 +11,4 @@
 Bhāskararāya's guru, praised at the opening of the Saubhāgyabhāskara and the Varivasyārahasya as the teacher of the vidyās and mantras.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._

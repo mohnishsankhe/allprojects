@@ -23,4 +23,4 @@ Joint practice: Chan and recitation together, as advocated by Yongming Yanshou, 
 **The traditions' own objections:** Pure Land schools (U43) hold rebirth through Amitābha's vow to be the point, not a mind-only reading; some Chan teachers reject mixing the two.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

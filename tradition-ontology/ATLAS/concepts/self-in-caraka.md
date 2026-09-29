@@ -14,4 +14,4 @@
 - opposes → [Not-self (anattā)](anatta.md): Caraka rejects the no-self aggregate view — rests on [sa.1.46-51](../texts/caraka-samhita.md#tea-caraka-samhita-sa-1-46-51)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:02 IST._

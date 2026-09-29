@@ -14,4 +14,4 @@
 _Notes: Members recalled from memory; the practice and activity tantras not listed (gap). Noose of Method and several root tantras are extant in the local Derge Kangyur (Tōh 835; 366-367; 477; 487-488)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._

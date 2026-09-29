@@ -14,4 +14,4 @@ Visiting sacred places: the Goddess's seats listed in the Devī Gītā, and pilg
   - [Avadhūta Gītā](../texts/avadhuta-gita.md) — ref: 8.1; rests_on: ["tea:avadhuta-gita:8.1"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._

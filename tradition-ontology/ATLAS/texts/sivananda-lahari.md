@@ -14,4 +14,4 @@
 A hundred devotional verses to Śiva, including the image of devotion as the seed that clings to its tree and the river that flows to the ocean.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._

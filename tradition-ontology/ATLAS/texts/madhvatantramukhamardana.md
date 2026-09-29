@@ -16,4 +16,4 @@ Appayya Dīkṣita's critique of Madhva's system, examining Madhva's reading of 
 _Notes: An Advaita text listed here because it is a principal document of the controversy with Dvaita._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._

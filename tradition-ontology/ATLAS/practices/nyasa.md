@@ -17,7 +17,10 @@ In the Devī Gītā's daily worship: placing the letters (mātṛkā-nyāsa) and
   - [Mantramahodadhi of Mahīdhara](../texts/mantramahodadhi.md) — 
   - [Somaśambhupaddhati](../texts/somasambhupaddhati.md) — ref: nitya; rests_on: ["tea:somasambhupaddhati:nitya"]
 
+## Equivalents (interpretation layer)
+- analogous: [The body maṇḍala](body-mandala.md) — installing deities or sites on the body (Buddhist body maṇḍala)
+
 _Notes: U06 contribution to a shared practice id._
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U08-agama-catalogue, skeleton:U31-sound-arts, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U49-cross-family, skeleton:U08-agama-catalogue, skeleton:U31-sound-arts, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._

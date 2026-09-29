@@ -12,4 +12,4 @@ In every activity the guru, the deity and illusion are carried onto the path.
 **Sequences:** [The five golden dharmas of the Shangpa (the tree)](../paths/shangpa-five-golden-dharmas.md)
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._

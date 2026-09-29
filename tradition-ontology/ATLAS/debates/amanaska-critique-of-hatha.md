@@ -25,4 +25,4 @@
 _Notes: Related: dsp:kundalini-effort-grace (U50) and dsp:natha-effort-or-sahaja (U21)._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:02 IST._

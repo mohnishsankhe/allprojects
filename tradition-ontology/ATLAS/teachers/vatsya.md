@@ -10,4 +10,4 @@
 In the Kāśyapa Saṃhitā's own account, restored the lost tantra of Vṛddha Jīvaka.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:02 IST._

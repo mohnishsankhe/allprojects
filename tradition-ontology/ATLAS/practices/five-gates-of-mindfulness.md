@@ -16,4 +16,4 @@ Worship of Amitābha with the body; praise with the voice by calling his name; s
 **Sequences:** [Vasubandhu's five gates of practice and five gates of merit](../paths/vasubandhu-five-gates.md)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._

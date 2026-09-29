@@ -50,4 +50,4 @@ The Japanese Caodong lineage founded by Dōgen (1200–1253) after training with
 [Do insentient things (walls, tiles, grasses) have buddha-nature or preach the Dharma?](../debates/buddha-nature-of-insentient.md), [Kōan introspection and kenshō (Rinzai) or just sitting as practice-realization (Sōtō)?](../debates/rinzai-or-soto.md), [Is there a permanent mind-nature that leaves the perishing body at death?](../debates/srenika-heresy.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

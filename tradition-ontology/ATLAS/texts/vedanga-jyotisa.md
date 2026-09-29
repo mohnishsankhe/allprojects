@@ -90,4 +90,4 @@ _Notes: Commentary on the Yājuṣa recension: Somākara. Later jyotiṣa → U3
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:GRETIL-dev:lagadha_rgvedavedangajyotisa, catalog:DCS:Ṛgvedavedāṅgajyotiṣa, catalog:raw_etexts:lagadha_vedanga_jyotish, https://en.wikipedia.org/wiki/Vedanga_Jyotisha, https://archive.org/details/VedangaJyotisa — Extant. Ārca 36 and Yājuṣa 43 verses, Somākara's commentary on the Yājuṣa (Wikipedia; Sastry–Sarma edition); the local Sarma-based Ārca e-text has 35. Wikipedia on dating: the extant text is from the final centuries BCE, perhaps based on a tradition of c. 700–600 BCE, and the solstice data are dated earlier by some. This matches the entry's split account.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

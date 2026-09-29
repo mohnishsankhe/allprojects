@@ -17,4 +17,4 @@ Gestures of the hands made at fixed points of worship, mantra-repetition and med
 - The mudrās are not to be shown in a crowd or to the uninitiated; for seekers of liberation they may be made mentally. — [Śāradātilaka](../texts/saradatilaka.md) 23.114 (commentary)
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U08-agama-catalogue. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:02 IST._

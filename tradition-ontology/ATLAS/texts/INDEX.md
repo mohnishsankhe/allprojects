@@ -696,7 +696,7 @@ skeleton: 3242 · sourced: 453
 - [Dialogues in a Dream (Muchū mondō)](muchu-mondo.md) — `skeleton`
 - [Die to Live](die-to-live.md) — `skeleton` _(recent)_
 - [Difficult Points of the Lamp for the Path (Bodhimārgadīpapañjikā; byang chub lam gyi sgron ma'i dka' 'grel)](bodhimargapradipapanjika.md) — `skeleton`
-- [Dinakarī](dinakari.md) — `skeleton`
+- [Dinakarī (Muktāvalīprakāśa)](dinakari.md) — `skeleton`
 - [Direct Pointers to the Jewel-King Samādhi of Recollecting the Buddha](baowang-sanmei-nianfo-zhizhi.md) — `skeleton`
 - [Discourse on the Inexhaustible Lamp of the Zen School (Shūmon mujintō ron)](shumon-mujinto-ron.md) — `skeleton`
 - [Discourses on Radhasoami Faith](discourses-on-radhasoami-faith.md) — `skeleton` _(recent)_

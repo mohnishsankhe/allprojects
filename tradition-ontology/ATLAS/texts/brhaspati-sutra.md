@@ -59,7 +59,7 @@ terms: [paraloka](../terms/paraloka.md) · concepts: [No other world (paraloka-a
 
 _level: unmarked · standpoint: analytic · path: general · stage: unmarked · types: consciousness-mind, body-layers_
 
-terms: [dehātma-vāda](../terms/dehatmavada.md) · concepts: [The body as the self (dehātmavāda)](../concepts/dehatmavada.md) · teachers: [Bṛhaspati](../teachers/brhaspati.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [dehātma-vāda](../terms/dehatmavada.md) · concepts: [The body as the self (dehātmavāda)](../concepts/dehatmavada.md) · teachers: [Bṛhaspati](../teachers/brhaspati.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### fr-samudaye <a id="tea-brhaspati-sutra-fr-samudaye"></a>
 `skeleton` · confidence high
@@ -87,4 +87,4 @@ terms: [bhūta-catuṣṭaya](../terms/bhuta-catustaya.md), [tattva (Lokāyata)]
 _Notes: Fragment refs (fr-…) are mnemonic labels made by this unit, not an editor's numbering; each teaching names the quoting sources._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._

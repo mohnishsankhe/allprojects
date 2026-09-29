@@ -516,7 +516,7 @@ As by one lump of clay everything made of clay is known — the modification is 
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: intermediate · types: ultimate_
 
-terms: [vācārambhaṇa](../terms/vacarambhana.md), [nāma-rūpa](../terms/nama-rupa.md) · concepts: [Name and form (nāmarūpa)](../concepts/namarupa.md) · practices: [The teaching of being (sad-vidyā)](../practices/sad-vidya.md) · teachers: [Uddālaka Āruṇi](../teachers/uddalaka-aruni.md), [Śvetaketu Āruṇeya](../teachers/svetaketu.md) · disputes: `dsp:causation`, `dsp:world-real-or-appearance`
+terms: [vācārambhaṇa](../terms/vacarambhana.md), [nāma-rūpa](../terms/nama-rupa.md) · concepts: [Name and form (nāmarūpa)](../concepts/namarupa.md) · practices: [The teaching of being (sad-vidyā)](../practices/sad-vidya.md) · teachers: [Uddālaka Āruṇi](../teachers/uddalaka-aruni.md), [Śvetaketu Āruṇeya](../teachers/svetaketu.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md), [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 6.2.1-2 <a id="tea-chandogya-upanisad-6-2-1-2"></a>
 `sourced` · confidence high
@@ -610,7 +610,7 @@ That which is the finest essence — this whole world has it as its self; that i
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [mahāvākya](../terms/mahavakya.md), [ātman](../terms/atman.md), [satya](../terms/satya.md) · concepts: [The four great sayings (mahāvākya)](../concepts/mahavakyas.md), [The identity of the self and brahman](../concepts/atman-brahman-identity.md) · practices: [The teaching of being (sad-vidyā)](../practices/sad-vidya.md) · teachers: [Uddālaka Āruṇi](../teachers/uddalaka-aruni.md), [Śvetaketu Āruṇeya](../teachers/svetaketu.md) · disputes: [What does 'tat tvam asi' (Chāndogya Upaniṣad 6.8.7) teach — identity of soul and Brahman, or something else?](../debates/tat-tvam-asi.md), `dsp:souls-one-or-distinct`
+terms: [mahāvākya](../terms/mahavakya.md), [ātman](../terms/atman.md), [satya](../terms/satya.md) · concepts: [The four great sayings (mahāvākya)](../concepts/mahavakyas.md), [The identity of the self and brahman](../concepts/atman-brahman-identity.md) · practices: [The teaching of being (sad-vidyā)](../practices/sad-vidya.md) · teachers: [Uddālaka Āruṇi](../teachers/uddalaka-aruni.md), [Śvetaketu Āruṇeya](../teachers/svetaketu.md) · disputes: [What does 'tat tvam asi' (Chāndogya Upaniṣad 6.8.7) teach — identity of soul and Brahman, or something else?](../debates/tat-tvam-asi.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 6.9.1-4 <a id="tea-chandogya-upanisad-6-9-1-4"></a>
 `sourced` · confidence high
@@ -916,4 +916,4 @@ _Notes: Forms prapathakas 3-10 of the Chāndogya Brāhmaṇa, whose first two pr
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:DCS:Chāndogyopaniṣad, catalog:GRETIL-dev:Chandogya-upanisad_Chandogyopanisad_mula-text, text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), https://en.wikipedia.org/wiki/Chandogya_Upanishad, https://www.wisdomlib.org/hindui — Confirmed: prapāṭhakas 3–10 of the Chāndogya Brāhmaṇa, whose first two are the Mantra Brāhmaṇa (Wikipedia). 8 prapāṭhakas with 154 khaṇḍas (13+24+19+17+24+16+26+15) in the prepared text. Scholarly dating fits Olivelle's chronology as reported on the web: BĀU and ChU pre-Buddhist, 7th–6th c. BCE; TU, AU and KauU probably pre-Buddhist, 6th–5th c. BCE; the verse Upaniṣads (Kena oldest, then Kaṭha, Īśa, Śvetāśvatara, Muṇḍaka) in the last few centuries BCE; Praśna and Māṇḍūkya not much older than the start of the common era. The tradition's account (śruti, authorless) is kept separately and not checked against scholarship. Web results name the Tāṇḍya school; the Kauthuma–Rāṇāyanīya detail was not checked separately.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._

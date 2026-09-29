@@ -19,4 +19,4 @@ An encyclopedic digest of vows, gifts, times and rites, drawn largely from the P
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:eBharati:chaturvargachintAmaNiH_prathamaH_bhAgaH, https://en.wikipedia.org/wiki/Hemadpant — Extant. Hemādri was chief minister of the Seuna/Yādava kings 1259–1274 (Wikipedia 'Hemadpant'), matching the entry's 1260–1280.
 
-_Contributed by: skeleton:U07-puranas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

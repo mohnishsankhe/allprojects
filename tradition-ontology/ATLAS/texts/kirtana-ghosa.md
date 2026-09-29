@@ -56,4 +56,4 @@ concepts: [Single refuge (ekaśaraṇa)](../concepts/ekasarana.md), [The Lord's 
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._

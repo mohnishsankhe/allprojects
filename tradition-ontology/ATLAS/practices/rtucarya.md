@@ -16,4 +16,4 @@ Adjust diet and conduct to the six seasons: in the 'taking' half (late winter to
 - In winter the strong fire, finding no fuel, consumes the tissues; hence heavy food then (not a general licence). — [Aṣṭāṅga Hṛdaya](../texts/astanga-hrdaya.md) Sū 3.7-8
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:02 IST._

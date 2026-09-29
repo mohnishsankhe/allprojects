@@ -38,7 +38,7 @@ The four elements are the principles; when they are transformed into a body, con
 
 _level: unmarked · standpoint: analytic · path: general · stage: unmarked · types: consciousness-mind, body-layers, dispute_
 
-terms: [bhūta-caitanya](../terms/bhuta-caitanya.md), [madaśakti](../terms/madasakti.md), [dehātma-vāda](../terms/dehatmavada.md) · concepts: [Consciousness from the elements (bhūta-caitanya)](../concepts/bhuta-caitanya.md), [The simile of intoxicating power](../concepts/madasakti-simile.md), [The body as the self (dehātmavāda)](../concepts/dehatmavada.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Does anything survive the body's death — is there another world and rebirth, or is consciousness a product of the body that ends with it?](../debates/materialism-and-the-other-world.md)
+terms: [bhūta-caitanya](../terms/bhuta-caitanya.md), [madaśakti](../terms/madasakti.md), [dehātma-vāda](../terms/dehatmavada.md) · concepts: [Consciousness from the elements (bhūta-caitanya)](../concepts/bhuta-caitanya.md), [The simile of intoxicating power](../concepts/madasakti-simile.md), [The body as the self (dehātmavāda)](../concepts/dehatmavada.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Does anything survive the body's death — is there another world and rebirth, or is consciousness a product of the body that ends with it?](../debates/materialism-and-the-other-world.md)
 
 ### 1/3 <a id="tea-sarvadarsanasangraha-1-3"></a>
 `skeleton` · confidence moderate
@@ -250,4 +250,4 @@ concepts: [The Raseśvara-darśana](../concepts/rasesvara-darsana.md)
 _Notes: U30 contribution only: the Raseśvara chapter (ch. 9). Authorship and dating as given by the owning units._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U30-ayurveda-rasa, skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U33-sramana, skeleton:U31-sound-arts. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U30-ayurveda-rasa, skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U33-sramana, skeleton:U31-sound-arts. Generated 2026-09-29 18:02 IST._

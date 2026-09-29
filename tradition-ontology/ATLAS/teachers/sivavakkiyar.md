@@ -14,4 +14,4 @@ The most iconoclastic Siddhar poet: his Civavākkiyam mocks stone images, temple
 _Notes: The Śrīvaiṣṇava tradition identifies him with Tirumaḻicai Āḻvār in his Śaiva phase; others reject the identification. Not in the popular list of eighteen, but in other lists and in every Siddhar anthology._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._

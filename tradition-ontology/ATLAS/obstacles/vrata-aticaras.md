@@ -14,4 +14,4 @@ Five partial lapses for each vow and virtue (TS 7.24–37), e.g. binding, beatin
   - [Tattvārthasūtra](../texts/tattvartha-sutra.md) — ref: 7.37; rests_on: ["tea:tattvartha-sutra:7.37"]
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._

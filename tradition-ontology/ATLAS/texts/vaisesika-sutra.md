@@ -149,7 +149,7 @@ From the absence of the cause there is absence of the effect; but not absence of
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: unmarked · types: world-fate_
 
-terms: [karaṇa](../terms/karana.md) · concepts: [The three kinds of cause](../concepts/three-causes.md) · disputes: `dsp:causation`
+terms: [karaṇa](../terms/karana.md) · concepts: [The three kinds of cause](../concepts/three-causes.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 1.2.3 <a id="tea-vaisesika-sutra-1-2-3"></a>
 `skeleton` · confidence high
@@ -238,7 +238,7 @@ The sense-objects are well known; the well-known (cognition of) sense-objects is
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: [ātman](../terms/atman.md), [indriya](../terms/indriya.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md), [indriya](../terms/indriya.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 3.2.1 <a id="tea-vaisesika-sutra-3-2-1"></a>
 `skeleton` · confidence high
@@ -271,7 +271,7 @@ Inhalation and exhalation, closing and opening of the eyes, life, the movement o
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind, body-layers_
 
-terms: [ātman](../terms/atman.md), [prāṇa](../terms/prana.md), [icchā](../terms/iccha.md), [dveṣa](../terms/dvesa.md), [prayatna](../terms/prayatna.md), [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md) · concepts: [The marks (liṅga) of the self](../concepts/marks-of-the-self.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md), [prāṇa](../terms/prana.md), [icchā](../terms/iccha.md), [dveṣa](../terms/dvesa.md), [prayatna](../terms/prayatna.md), [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md) · concepts: [The marks (liṅga) of the self](../concepts/marks-of-the-self.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 3.2.9-13 <a id="tea-vaisesika-sutra-3-2-9-13"></a>
 `skeleton` · confidence moderate
@@ -280,7 +280,7 @@ terms: [ātman](../terms/atman.md), [prāṇa](../terms/prana.md), [icchā](../t
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: [ātman](../terms/atman.md), [ahaṅkāra](../terms/ahankara.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md), [ahaṅkāra](../terms/ahankara.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 3.2.15-17 <a id="tea-vaisesika-sutra-3-2-15-17"></a>
 `skeleton` · confidence high
@@ -289,7 +289,7 @@ terms: [ātman](../terms/atman.md), [ahaṅkāra](../terms/ahankara.md) · conce
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: [ātman](../terms/atman.md), [jīvātman](../terms/jivatman.md) · concepts: [The plurality of selves](../concepts/plurality-of-selves.md) · disputes: `dsp:souls-one-or-distinct`, [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md), [jīvātman](../terms/jivatman.md) · concepts: [The plurality of selves](../concepts/plurality-of-selves.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 4.1.1 <a id="tea-vaisesika-sutra-4-1-1"></a>
 `skeleton` · confidence high
@@ -578,4 +578,4 @@ terms: [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md)
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._

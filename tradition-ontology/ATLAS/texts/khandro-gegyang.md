@@ -23,8 +23,8 @@ The Longchen Nyingthig Chöd: with the syllable phaṭ the consciousness leaves 
 
 _level: bridging · standpoint: ritual · path: ritual, meditation, sound · stage: advanced · types: practice_
 
-terms: [khros ma nag mo](../terms/troma-nagmo.md), [lus sbyin](../terms/lujin.md), [dkar 'gyed](../terms/kar-gyed.md), [dmar 'gyed](../terms/mar-gyed.md) · concepts: [The four guests of the Chöd offering](../concepts/four-guests.md), [The Chöd feasts (distributions)](../concepts/chod-feasts.md) · practices: `prc:chod` · teachers: [Jigme Lingpa (rig 'dzin 'jigs med gling pa)](../teachers/jigme-lingpa.md)
+terms: [khros ma nag mo](../terms/troma-nagmo.md), [lus sbyin](../terms/lujin.md), [dkar 'gyed](../terms/kar-gyed.md), [dmar 'gyed](../terms/mar-gyed.md) · concepts: [The four guests of the Chöd offering](../concepts/four-guests.md), [The Chöd feasts (distributions)](../concepts/chod-feasts.md) · practices: [Chöd: the visualized offering of the body (lus sbyin)](../practices/chod.md) · teachers: [Jigme Lingpa (rig 'dzin 'jigs med gling pa)](../teachers/jigme-lingpa.md)
 
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

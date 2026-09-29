@@ -20,4 +20,4 @@
 **Related:** [foxing (buddha-nature)](foxing.md), [benxin (original mind)](benxin.md), [jianxing / kenshō (seeing the nature)](jianxing.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

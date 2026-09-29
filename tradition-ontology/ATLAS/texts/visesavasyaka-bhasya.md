@@ -33,7 +33,7 @@ When the brahmin Indrabhūti comes to Mahāvīra doubting that the soul exists, 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, teacher-transmission_
 
-concepts: [The Jain soul (jīva)](../concepts/jiva-jain.md) · teachers: [Jinabhadra Gaṇi Kṣamāśramaṇa](../teachers/jinabhadra.md), [Mahāvīra (Vardhamāna)](../teachers/mahavira.md), [Indrabhūti Gautama](../teachers/indrabhuti-gautama.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [The Jain soul (jīva)](../concepts/jiva-jain.md) · teachers: [Jinabhadra Gaṇi Kṣamāśramaṇa](../teachers/jinabhadra.md), [Mahāvīra (Vardhamāna)](../teachers/mahavira.md), [Indrabhūti Gautama](../teachers/indrabhuti-gautama.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### ganadharavada <a id="tea-visesavasyaka-bhasya-ganadharavada-2"></a>
 `skeleton` · confidence moderate
@@ -42,7 +42,7 @@ The debates of the gaṇadharas: eleven learned brāhmaṇas came to defeat Mah�
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, teacher-transmission, consciousness-mind_
 
-concepts: [The debates of the eleven gaṇadharas](../concepts/ganadharavada.md) · teachers: [Indrabhūti Gautama](../teachers/indrabhuti-gautama.md), [Agnibhūti](../teachers/agnibhuti.md), [Vāyubhūti](../teachers/vayubhuti.md), [Vyakta](../teachers/vyakta.md), [Sudharman](../teachers/sudharman.md), [Maṇḍika (Maṇḍita)](../teachers/mandika.md), [Mauryaputra](../teachers/mauryaputra.md), [Akampita](../teachers/akampita.md), [Acalabhrātṛ](../teachers/acalabhrata.md), [Metārya](../teachers/metarya.md), [Prabhāsa](../teachers/prabhasa-ganadhara.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+concepts: [The debates of the eleven gaṇadharas](../concepts/ganadharavada.md) · teachers: [Indrabhūti Gautama](../teachers/indrabhuti-gautama.md), [Agnibhūti](../teachers/agnibhuti.md), [Vāyubhūti](../teachers/vayubhuti.md), [Vyakta](../teachers/vyakta.md), [Sudharman](../teachers/sudharman.md), [Maṇḍika (Maṇḍita)](../teachers/mandika.md), [Mauryaputra](../teachers/mauryaputra.md), [Akampita](../teachers/akampita.md), [Acalabhrātṛ](../teachers/acalabhrata.md), [Metārya](../teachers/metarya.md), [Prabhāsa](../teachers/prabhasa-ganadhara.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### kevala-krama <a id="tea-visesavasyaka-bhasya-kevala-krama"></a>
 `skeleton` · confidence low
@@ -55,4 +55,4 @@ concepts: [Omniscience (kevala-jñāna)](../concepts/kevala-jnana.md) · teacher
 
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._

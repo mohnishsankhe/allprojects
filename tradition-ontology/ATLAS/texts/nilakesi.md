@@ -39,10 +39,10 @@ Nīlakēci, once a fierce goddess who received animal sacrifice, is converted by
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, narrative_
 
-disputes: [Is there a self?](../debates/is-there-a-self.md), [Is release won by Śiva's grace and worship, or by the Jina's path of self-discipline? (the Tamil Śaiva–Jain contests)](../debates/tamil-saiva-and-jain-contests.md)
+disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Is release won by Śiva's grace and worship, or by the Jina's path of self-discipline? (the Tamil Śaiva–Jain contests)](../debates/tamil-saiva-and-jain-contests.md)
 
 
 _Notes: Vāmaṉa Muṉivar's commentary Samayadivākaram (14th c.) is the classic gloss._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._

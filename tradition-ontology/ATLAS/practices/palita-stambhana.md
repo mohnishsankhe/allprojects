@@ -13,4 +13,4 @@ A set of meditations on dark nectar in the centres and brahmarandhra, with seclu
   - [Kaulajñānanirṇaya](../texts/kaulajnananirnaya.md) — ref: 7.1-32; rests_on: ["tea:kaulajnananirnaya:7.20-24"]
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:02 IST._

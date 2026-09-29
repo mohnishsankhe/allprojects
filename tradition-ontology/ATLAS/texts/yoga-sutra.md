@@ -824,7 +824,7 @@ Though it has ceased for one whose purpose is accomplished, it has not ceased, b
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: world-fate, karma-liberation_
 
-terms: [dṛśya](../terms/drsya.md), [puruṣa](../terms/purusa.md) · concepts: [Plurality of puruṣas](../concepts/plurality-of-purusas.md), [The seen exists for the seer (bhoga and apavarga)](../concepts/purpose-of-prakrti.md) · disputes: `dsp:souls-one-or-distinct`
+terms: [dṛśya](../terms/drsya.md), [puruṣa](../terms/purusa.md) · concepts: [Plurality of puruṣas](../concepts/plurality-of-purusas.md), [The seen exists for the seer (bhoga and apavarga)](../concepts/purpose-of-prakrti.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 2.23 <a id="tea-yoga-sutra-2-23"></a>
 `skeleton` · confidence high
@@ -1330,7 +1330,7 @@ By this, the transformations of property (dharma), time-mark (lakṣaṇa) and s
 
 _level: unmarked · standpoint: mode · path: knowledge · stage: all · types: world-fate, consciousness-mind_
 
-terms: [pariṇāma](../terms/parinama.md), [dharma-pariṇāma](../terms/dharma-parinama.md), [lakṣaṇa-pariṇāma](../terms/laksana-parinama.md), [avasthā-pariṇāma](../terms/avastha-parinama.md) · concepts: [Transformation of property, time-mark and state](../concepts/dharma-laksana-avastha-parinama.md) · disputes: `dsp:causation`
+terms: [pariṇāma](../terms/parinama.md), [dharma-pariṇāma](../terms/dharma-parinama.md), [lakṣaṇa-pariṇāma](../terms/laksana-parinama.md), [avasthā-pariṇāma](../terms/avastha-parinama.md) · concepts: [Transformation of property, time-mark and state](../concepts/dharma-laksana-avastha-parinama.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 3.14 <a id="tea-yoga-sutra-3-14"></a>
 `skeleton` · confidence high
@@ -1825,7 +1825,7 @@ The instrumental cause does not set the material causes in motion; it only remov
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: all · types: world-fate, karma-liberation_
 
-terms: [prakṛti](../terms/prakrti.md) · concepts: [The store of karma (karmāśaya)](../concepts/karmasaya.md) · disputes: `dsp:causation`
+terms: [prakṛti](../terms/prakrti.md) · concepts: [The store of karma (karmāśaya)](../concepts/karmasaya.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 4.4 <a id="tea-yoga-sutra-4-4"></a>
 `skeleton` · confidence high
@@ -1924,7 +1924,7 @@ The past and the future exist in their own form, because properties differ in th
 
 _level: unmarked · standpoint: mode · path: knowledge · stage: all · types: world-fate_
 
-terms: [adhvan](../terms/adhvan.md), [dharma-pariṇāma](../terms/dharma-parinama.md) · concepts: [Past and future exist in their own form](../concepts/existence-of-past-and-future.md) · disputes: `dsp:causation`
+terms: [adhvan](../terms/adhvan.md), [dharma-pariṇāma](../terms/dharma-parinama.md) · concepts: [Past and future exist in their own form](../concepts/existence-of-past-and-future.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 4.13 <a id="tea-yoga-sutra-4-13"></a>
 `skeleton` · confidence high
@@ -2172,4 +2172,4 @@ terms: [kaivalya](../terms/kaivalya.md), [pratiprasava](../terms/pratiprasava.md
 _Notes: Correction to the task list: the vulgate count is 195 (51/55/55/34), not 196; see structure._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:02 IST._

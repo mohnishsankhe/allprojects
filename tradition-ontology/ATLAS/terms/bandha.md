@@ -21,4 +21,4 @@
 **Related:** [mudrā](mudra.md), [jālandhara (bandha)](jalandhara.md), [uḍḍiyāna (bandha)](uddiyana.md), [mūlabandha](mula-bandha.md), [mokṣa](moksa.md), [aviveka](aviveka.md)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U09-samkhya, skeleton:U12-mimamsa, skeleton:U21-natha-aghora, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U09-samkhya, skeleton:U12-mimamsa, skeleton:U21-natha-aghora, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:02 IST._

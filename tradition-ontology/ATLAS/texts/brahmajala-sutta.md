@@ -68,7 +68,7 @@ Ascetics and brahmins who theorise about the past and the future do so on sixty-
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, ultimate_
 
-terms: [diṭṭhi](../terms/ditthi.md), [sassatavāda](../terms/sassatavada.md), [ucchedavāda](../terms/ucchedavada.md) · concepts: [The sixty-two grounds for views (Brahmajāla)](../concepts/sixty-two-views.md) · obstacles: [Speculative views](../obstacles/ditthi.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [diṭṭhi](../terms/ditthi.md), [sassatavāda](../terms/sassatavada.md), [ucchedavāda](../terms/ucchedavada.md) · concepts: [The sixty-two grounds for views (Brahmajāla)](../concepts/sixty-two-views.md) · obstacles: [Speculative views](../obstacles/ditthi.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 2.1-2.15 <a id="tea-brahmajala-sutta-2-1-2-15"></a>
 `skeleton` · confidence high
@@ -191,4 +191,4 @@ terms: [tathāgata](../terms/tathagata.md), [bhāva](../terms/bhava.md) · conce
 _Notes: SuttaCentral uid dn1; Mahāsaṅgīti title 'Brahmajālasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

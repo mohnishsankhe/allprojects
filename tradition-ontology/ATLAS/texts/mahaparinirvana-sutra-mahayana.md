@@ -29,7 +29,7 @@ The monks claim to cultivate the perceptions of impermanence, suffering, no-self
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-terms: [guṇa-pāramitā](../terms/guna-paramita.md), [viparyāsa](../terms/viparyasa.md) · concepts: [The four inversions and their reversal](../concepts/four-inversions-reversed.md), [The four perfections of the dharmakāya](../concepts/four-guna-paramitas.md), [Buddha-nature called 'self'](../concepts/tathagatagarbha-as-self.md) · obstacles: [The four inversions (and the Mahāyāna double set)](../obstacles/four-viparyasa.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md)
+terms: [guṇa-pāramitā](../terms/guna-paramita.md), [viparyāsa](../terms/viparyasa.md) · concepts: [The four inversions and their reversal](../concepts/four-inversions-reversed.md), [The four perfections of the dharmakāya](../concepts/four-guna-paramitas.md), [Buddha-nature called 'self'](../concepts/tathagatagarbha-as-self.md) · obstacles: [The four inversions (and the Mahāyāna double set)](../obstacles/four-viparyasa.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md)
 
 ### 3 <a id="tea-mahaparinirvana-sutra-mahayana-3"></a>
 `skeleton` · confidence moderate
@@ -60,7 +60,7 @@ terms: [mahākaruṇā](../terms/mahakaruna.md) · practices: [Abstaining from m
 
 _level: ultimate · standpoint: divine · path: knowledge · stage: all · types: ultimate, consciousness-mind_
 
-terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [buddhadhātu](../terms/buddhadhatu.md), [mahātman](../terms/mahatman.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md), [Buddha-nature called 'self'](../concepts/tathagatagarbha-as-self.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), [Is there a self?](../debates/is-there-a-self.md)
+terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [buddhadhātu](../terms/buddhadhatu.md), [mahātman](../terms/mahatman.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md), [Buddha-nature called 'self'](../concepts/tathagatagarbha-as-self.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 9 <a id="tea-mahaparinirvana-sutra-mahayana-9"></a>
 `skeleton` · confidence moderate
@@ -129,10 +129,10 @@ In the Kauṇḍinya chapter the Buddha debates tīrthikas (Vasiṣṭha, Śre�
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: dispute_
 
-concepts: [The four perfections of the dharmakāya](../concepts/four-guna-paramitas.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [The four perfections of the dharmakāya](../concepts/four-guna-paramitas.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 
 _Notes: Locator: juan (fascicle) of T374; Taishō lines in teaching sections (read locally). Not to be confused with the Pali Mahāparinibbāna Sutta (src:mahaparinibbana-sutta)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._

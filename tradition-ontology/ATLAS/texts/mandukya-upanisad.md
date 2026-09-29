@@ -39,7 +39,7 @@ For all this is brahman; this self is brahman; this self has four quarters.
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [brahman](../terms/brahman.md), [ātman](../terms/atman.md), [mahāvākya](../terms/mahavakya.md) · concepts: [The four great sayings (mahāvākya)](../concepts/mahavakyas.md), [The identity of the self and brahman](../concepts/atman-brahman-identity.md), [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md) · disputes: `dsp:souls-one-or-distinct`
+terms: [brahman](../terms/brahman.md), [ātman](../terms/atman.md), [mahāvākya](../terms/mahavakya.md) · concepts: [The four great sayings (mahāvākya)](../concepts/mahavakyas.md), [The identity of the self and brahman](../concepts/atman-brahman-identity.md), [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 3 <a id="tea-mandukya-upanisad-3"></a>
 `sourced` · confidence high
@@ -116,4 +116,4 @@ _Notes: Transmitted with Gauḍapāda's Karika (src:mandukya-karika, owned by U1
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL-dev:mandukya-upanisad, catalog:raw_etexts:Mandukya, catalog:GRETIL-dev:gaudapada_mandukya-upanisadkarika, text:sources_raw/prepared/mandukya-upanisad/segments.jsonl (GRETIL Devanāgarī mirror mandukya-upanisad.md), https://en.wikipedia.org/wiki/Gaudapada, https://en.wikipedia.org/wiki/ — 12 prose sections confirmed. The note that Madhva's school treats the first chapter (Āgama-prakaraṇa) of the Kārikā as śruti fits Wikipedia's Gauḍapāda article: Rāmānuja and Madhva regarded its first chapter as śruti, while Advaita scholars did not. Scholarly dating fits Olivelle's chronology as reported on the web: BĀU and ChU pre-Buddhist, 7th–6th c. BCE; TU, AU and KauU probably pre-Buddhist, 6th–5th c. BCE; the verse Upaniṣads (Kena oldest, then Kaṭha, Īśa, Śvetāśvatara, Muṇḍaka) in the last few centuries BCE; Praśna and Māṇḍūkya not much older than the start of the common era. The tradition's account (śruti, authorless) is kept separately and not checked against scholarship. The entry's -100/200 fits.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._

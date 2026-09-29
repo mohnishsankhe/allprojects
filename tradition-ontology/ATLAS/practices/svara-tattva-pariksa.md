@@ -14,4 +14,4 @@ Within each nostril-flow the five elements (earth, water, fire, air, space) aris
 _Notes: Specific lengths and correspondences are not reproduced; recalled only in outline._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:02 IST._

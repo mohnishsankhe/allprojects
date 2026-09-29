@@ -14,4 +14,4 @@ Author by tradition of the White Yajurveda Gṛhyasūtra.
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Pāraskaragṛhyasūtra, https://en.wikipedia.org/wiki/Grhyasutra — Low-confidence entry confirmed as the traditional author of the Pāraskara Gṛhyasūtra (title of the text).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

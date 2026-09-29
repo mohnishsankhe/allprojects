@@ -13,4 +13,4 @@ The eagle-mount of Viṣṇu to whom Viṣṇu/Kṛṣṇa teaches the Garuḍa 
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.30 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U07-puranas, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 18:02 IST._

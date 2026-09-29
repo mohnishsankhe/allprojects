@@ -12,4 +12,4 @@ Oil in the nose as part of the daily routine, for the head and senses (AHS Sū 2
   - [Aṣṭāṅga Hṛdaya](../texts/astanga-hrdaya.md) — ref: Sū 2.6
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:02 IST._

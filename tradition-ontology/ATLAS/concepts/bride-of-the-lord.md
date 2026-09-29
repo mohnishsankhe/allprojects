@@ -16,4 +16,4 @@
 - same-as-under-standpoint → [The five primary devotional rasas](five-devotional-rasas.md) (devotional): Corresponds to the madhura (amorous) mood of the Gauḍīya rasa scheme; the Sants do not systematize moods. — rests on [pad-dulhini-gavahu-mangalachar](../texts/kabir-granthavali.md#tea-kabir-granthavali-pad-dulhini-gavahu-mangalachar)
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._

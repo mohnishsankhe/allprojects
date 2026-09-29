@@ -11,4 +11,4 @@
 Thai Dhammayut monk (1861–1941), austere meditation master and teacher of Ajahn Mun; with him the founder of the forest tradition.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._

@@ -14,4 +14,4 @@
 - contrasts-with → [The mind (citta) in Yoga](citta.md): Yoga's citta is one mind-stuff with modifications; the Abhidhamma's citta is a series of momentary consciousnesses of many types
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._

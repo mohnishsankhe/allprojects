@@ -17,4 +17,4 @@
 - leads-to → [The state of the liberated (siddha)](siddha-state.md): Omniscience precedes final liberation at the end of life (TS 10.1–5). — rests on [10.1](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-10-1), [10.5](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-10-5)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._

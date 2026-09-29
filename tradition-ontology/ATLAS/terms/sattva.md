@@ -28,4 +28,4 @@ _Notes: Taken as the guṇa sattva or as 'being, the real'; the commentators div
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.36, tea:bhagavad-gita:10.41 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:02 IST._

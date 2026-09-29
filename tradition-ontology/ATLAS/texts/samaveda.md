@@ -40,4 +40,4 @@ _Notes: Verse counts from memory; the Pūrvārcika opens with 'agna ā yāhi vī
 
 - 2026-09-28 catalog+websearch: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/samaveda-samhita.md, text:sources_raw/DharmicData/Samaveda/Samaveda.json (Griffith, 1,794 records), https://en.wikipedia.org/wiki/Kauthuma_Samhita, https://en.wikipedia.org/wiki/Samaveda, https://vedicheritage.gov.in/samhitas/ — Extant. 1,875 mantras (Pūrvārcika 650, Uttarārcika 1,225) confirmed (Kauthuma Samhita article); Griffith's local dataset has 1,794 records (entry: c. 1,800). Non-Ṛgvedic verses: Wikipedia gives 75 (on the 1,549 unique verses), the Vedic Heritage Portal 99 — the entry's 'some 75 … (counts differ)' is acceptable. Witzel dates the Saṃhitā c. 1200–1000 BCE, as in the entry. Pūrvārcika opens with RV 6.16.10 (located). Jaimini as receiver of the Sāmaveda is the tradition's account (Bhāgavata 1.4.21, located).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._

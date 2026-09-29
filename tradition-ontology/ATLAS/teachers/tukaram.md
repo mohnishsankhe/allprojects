@@ -16,4 +16,4 @@ Kuṇbī grocer of Dehu (1608–1650 by the usual tradition) who, ruined by fami
 **Realization — the tradition's account:** Initiated in a dream; Viṭṭhala restored his drowned abhaṅgas; at the end he ascended to Vaikuṇṭha in his body.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._

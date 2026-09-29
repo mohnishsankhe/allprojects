@@ -11,4 +11,4 @@ Summary only: the tradition's account that a Siddhar, at the end, enters samādh
 _Notes: Restricted (ends in death); belief recorded, no procedure._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._

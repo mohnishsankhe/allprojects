@@ -13,4 +13,4 @@
 Son of Ananta; author of the Tājikanīlakaṇṭhī (1587), the standard Tājika text; associated by tradition with the court of Akbar.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._

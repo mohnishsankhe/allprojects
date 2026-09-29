@@ -34,4 +34,4 @@ _none recorded_
 _Notes: A classificatory group: the member schools keep lin:early-buddhism as parent so that each counts as its own root in convergence. Recommend adding lin:sthavira to the merge's UMBRELLAS set._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._

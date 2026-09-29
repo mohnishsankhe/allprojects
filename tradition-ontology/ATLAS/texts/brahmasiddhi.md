@@ -35,7 +35,7 @@ The wise say perception is affirmative (it presents what is), not negating (it d
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: sound-language, dispute_
 
-terms: [pratyakṣa](../terms/pratyaksa.md) · concepts: [Means of valid knowledge (pramāṇa)](../concepts/pramana.md) · teachers: [Maṇḍana Miśra](../teachers/mandana-misra.md) · disputes: `dsp:world-real-or-appearance`
+terms: [pratyakṣa](../terms/pratyaksa.md) · concepts: [Means of valid knowledge (pramāṇa)](../concepts/pramana.md) · teachers: [Maṇḍana Miśra](../teachers/mandana-misra.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 3 <a id="tea-brahmasiddhi-3"></a>
 `skeleton` · confidence low
@@ -68,4 +68,4 @@ teachers: [Maṇḍana Miśra](../teachers/mandana-misra.md) · disputes: [Is li
 _Notes: Commentaries: Vācaspati's Tattvasamīkṣā (lost), Citsukha's Abhiprāyaprakāśikā, Ānandapūrṇa's Bhāvaśuddhi, Śaṅkhapāṇi's vyākhyā (last three low confidence)._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._

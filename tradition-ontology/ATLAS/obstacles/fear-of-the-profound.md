@@ -12,4 +12,4 @@ Being frightened when hearing that all dharmas are empty and like illusions.
   - [Vajracchedikā Prajñāpāramitā](../texts/vajracchedika.md) — ref: §14; rests_on: ["tea:vajracchedika:14"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._

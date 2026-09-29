@@ -12,4 +12,4 @@ Satyakāma's mother, who tells him she does not know his lineage because in her 
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — Located: ChU 4.4.2 ('bahv ahaṃ carantī paricāriṇī yauvane tvām alabhe').
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._

@@ -51,4 +51,4 @@ Manu's sequence with debts first and the Jābāla option 'on the day one becomes
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/sutra/vasistadharmasutra.md (GRETIL), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/sutra/gautama-dharmasutra.md (GRETIL, Stenzler numbering), text:sources_raw/raw_etexts/mixed/gretil_deva — Every text cited for the sides was found: VDh 7.1–3, GDh 3.1–3, ĀpDh 2.9.21.1–2 (with the safety of all four orders), MDh 6.33–37, and MDh 6.87–90. Jābāla Up. 4 has 'yad ahar eva virajet tad ahar eva pravrajet'. For the bādha (only householder) side, GDh 3.36 and BDh 2.6.11.27–28 were checked in the teaching checks.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

@@ -18,4 +18,4 @@ The chief Chedasūtra: in twenty sections it lists the transgressions of monks a
 _Notes: Chedasūtras were traditionally restricted to mature monks; their study by laypeople was discouraged._
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._

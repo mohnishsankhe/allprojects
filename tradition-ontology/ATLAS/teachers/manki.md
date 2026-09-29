@@ -12,4 +12,4 @@ A man who, after losing his young bulls, renounces desire and speaks the Maṅki
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.171.4-8 (his young bulls, damya), 12.171.25 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._

@@ -14,7 +14,7 @@
 
 Śrīharṣa's 'sweets of refutation': a dialectical work (four chapters) that refutes, one after another, the definitions of cognition, valid cognition, the means of knowledge and the categories given by the Naiyāyikas, showing that nothing other than self-luminous consciousness can be defined; the Advaitin may debate on the basis of what the opponent accepts without committing to the reality of the categories.
 
-## Teachings (1: skeleton 1)
+## Teachings (2: skeleton 2)
 
 ### 1 <a id="tea-khandanakhandakhadya-1"></a>
 `skeleton` · confidence moderate
@@ -25,6 +25,15 @@ _level: conventional · standpoint: polemical · path: knowledge · stage: all �
 
 teachers: [Śrīharṣa](../teachers/sriharsa.md) · disputes: [Can valid cognition, the means of knowledge and the categories be coherently defined (and so difference established)?](../debates/khandana-definability.md), [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
 
+### 1/2 <a id="tea-khandanakhandakhadya-1-2"></a>
+`skeleton` · confidence moderate
+
+(Śrīharṣa, answering the charge that his method is the Mādhyamika's:) the Saugata (Mādhyamika) and the Brahma-vādin agree that the world of difference cannot be determined as existent or non-existent; they differ in that the former declares everything, consciousness included, indeterminable, while the Brahma-vādins hold that the universe other than consciousness is different from both being and non-being.
+
+_level: bridging · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, ultimate_
+
+concepts: [Levels of truth across the families (two truths, three levels, niścaya–vyavahāra)](../concepts/levels-of-truth-across-families.md) · teachers: [Śrīharṣa](../teachers/sriharsa.md) · disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
+
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._

@@ -12,4 +12,4 @@
 First kalkin king of Śambhala who united the castes into one vajra family and composed the abridged Kālacakra (Laghutantra), by the tradition's account.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._

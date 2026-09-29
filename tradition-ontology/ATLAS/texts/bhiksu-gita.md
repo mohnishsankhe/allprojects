@@ -17,4 +17,4 @@
 The mendicant's song: neither people, gods, the body, planets, karma nor time cause one's joy and sorrow; the mind alone turns the wheel of saṃsāra; all disciplines culminate in mastery of the mind, and the supreme yoga is its samādhi. It also lists fifteen evils rooted in wealth.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._

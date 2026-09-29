@@ -14,4 +14,4 @@
 Sāmanta Candraśekhara's siddhānta from Odisha, built on naked-eye observation within the traditional framework.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._

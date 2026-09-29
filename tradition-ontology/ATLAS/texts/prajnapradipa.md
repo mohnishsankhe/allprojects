@@ -43,4 +43,4 @@ terms: [svatantra-anumāna](../terms/svatantra-anumana.md), [paramārtha-satya](
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._

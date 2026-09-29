@@ -253,7 +253,7 @@ The Tathāgata does not think 'I have set beings free': there is no being set fr
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [ātman](../terms/atman.md), [pṛthagjana](../terms/prthagjana.md) · teachers: [Subhūti](../teachers/subhuti.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md), [pṛthagjana](../terms/prthagjana.md) · teachers: [Subhūti](../teachers/subhuti.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 26 <a id="tea-vajracchedika-26"></a>
 `skeleton` · confidence high
@@ -339,4 +339,4 @@ concepts: [The nine similes for the conditioned (Vajracchedikā 32)](../concepts
 _Notes: Local check: Sanskrit (Schøyen §§1-16c; Gilgit to the end) and T235 read in sources_raw; the prepared segments in sources_raw/prepared/vajracchedika (T235) were used for Taishō lines._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._

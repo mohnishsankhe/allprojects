@@ -13,4 +13,4 @@ Aspiring to an office, a form of worship or a vision of God beyond one's intrins
   - [Brahmasūtrabhāṣya (Madhva)](../texts/brahma-sutra-bhasya-madhva.md) — ref: 4.3.15; rests_on: ["tea:brahma-sutra-bhasya-madhva:4.3.15"]
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._

@@ -12,4 +12,4 @@ Meditation on Śiva's form (Śrīkaṇṭha) first, with an object and a seed, a
 **Sequences:** [The Vāyavīya's five yogas and the Śaiva path of meditation (ŚiP 7.2.37-39)](../paths/vayaviya-five-yogas.md)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._

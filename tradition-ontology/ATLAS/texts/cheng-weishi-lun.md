@@ -29,7 +29,7 @@ Self and dharmas are refuted: they are mere designations based on the transforma
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: intermediate · types: dispute, ultimate_
 
-teachers: [Xuanzang](../teachers/xuanzang.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+teachers: [Xuanzang](../teachers/xuanzang.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 2 <a id="tea-cheng-weishi-lun-2"></a>
 `skeleton` · confidence moderate
@@ -62,4 +62,4 @@ concepts: [The four wisdoms](../concepts/four-wisdoms.md), [Transformation of th
 _Notes: Owned jointly with U54 (Faxiang). Taishō numbers are recalled, not checked locally (CBETA T30–31 not in sources_raw)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._

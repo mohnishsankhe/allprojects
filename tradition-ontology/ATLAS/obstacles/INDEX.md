@@ -1,12 +1,13 @@
-# Obstacles (597)
+# Obstacles (609)
 
-skeleton: 558 · sourced: 39
+skeleton: 570 · sourced: 39
 
 - ['I and mine' as māyā](maya-i-and-mine.md) — `skeleton`
 - ['I' and 'mine' (yāṉ, eṉatu)](yan-enatu.md) — `skeleton`
 - ['I'-making and 'mine'-making](ahamkara-mamakara.md) — `skeleton`
 - [A hostile or unsuitable mantra (ari-mantra)](hostile-mantra.md) — `skeleton`
 - [Abandoning ritual out of false learning](false-antinomianism.md) — `skeleton`
+- [Abandoning the Dharma (chos spong ba)](abandoning-the-dharma.md) — `skeleton`
 - [Absorption in prakṛti or the bodiless state short of kaivalya](prakrtilaya-short-of-kaivalya.md) — `skeleton`
 - [Absorption into prakṛti mistaken for liberation](prakrtilaya.md) — `skeleton`
 - [Acting with desire for fruits](sakamata.md) — `skeleton`
@@ -51,6 +52,7 @@ skeleton: 558 · sourced: 39
 - [Bad company (duḥsaṅga)](dussanga.md) — `skeleton`
 - [Bad company (kusaṅg)](kusang.md) — `skeleton`
 - [Bad dreams (duḥṣvapna)](duhsvapna.md) — `skeleton`
+- [Bad kan (phlegm) disorders](beken-disorder.md) — `skeleton`
 - [Badness, unwieldiness (dauṣṭhulya)](dausthulya.md) — `skeleton`
 - [Beginningless karma as bondage (avidyā-karma)](karma-bondage.md) — `skeleton`
 - [Beginningless latent tendencies (anādi-vāsanā)](anadi-vasana.md) — `skeleton`
@@ -73,6 +75,7 @@ skeleton: 558 · sourced: 39
 - [Cavilling (asūyā)](asuya.md) — `skeleton`
 - [Censure of other schools](sarvadarsana-ninda.md) — `skeleton`
 - [Choosing the pleasant over the good](preyas.md) — `sourced`
+- [Clinging to an emptiness of annihilation (chad stong)](annihilatory-emptiness.md) — `skeleton`
 - [Clinging to life (abhiniveśa)](abhinivesa.md) — `skeleton`
 - [Clinging to meditative experiences](clinging-to-meditative-experience.md) — `skeleton`
 - [Clinging to meditative experiences and visions](clinging-to-nyam.md) — `skeleton`
@@ -145,6 +148,7 @@ skeleton: 558 · sourced: 39
 - [Dullness and drowsiness (thīnamiddha)](thina-middha.md) — `skeleton`
 - [Dullness and scattering (hunchen, sanluan / diaoju)](torpor-and-scattering.md) — `skeleton`
 - [Eel-wriggling evasion](amaravikkhepa.md) — `skeleton`
+- [Ego-clinging (bdag 'dzin)](dakdzin.md) — `skeleton`
 - [Ego-sense and the roots of engagement (Caraka)](ahankara-and-attachment-caraka.md) — `skeleton`
 - [Elation (harṣa)](harsa.md) — `skeleton`
 - [Enjoyments born of contact (saṃsparśaja bhoga)](samsparsaja-bhoga.md) — `skeleton`
@@ -218,6 +222,7 @@ skeleton: 558 · sourced: 39
 - [Illness (vyādhi)](vyadhi.md) — `skeleton`
 - [Imbalance of the faculties](imbalance-of-faculties.md) — `skeleton`
 - [Imbalance of the three humours](humour-imbalance-siddha.md) — `skeleton`
+- [Imbalance of the three nyepa](nyepa-imbalance.md) — `skeleton`
 - [Impatience, intolerance (amarṣa)](amarsa.md) — `skeleton`
 - [Impressions of emergence (vyutthāna-saṃskāra)](vyutthana-samskara.md) — `skeleton`
 - [Improper breath-control](improper-pranayama.md) — `sourced`
@@ -267,6 +272,7 @@ skeleton: 558 · sourced: 39
 - [Mistaking the all-base for awareness](mistaking-alaya-for-awareness.md) — `skeleton`
 - [Mixed (miscellaneous) practice](mixed-practice.md) — `skeleton`
 - [Mixing of scriptural rules (tantra-saṅkara)](tantra-sankara.md) — `skeleton`
+- [Mkhris pa (bile) disorders](tripa-disorder.md) — `skeleton`
 - [Mortification of the body (kāyakleśa)](kayaklesa.md) — `skeleton`
 - [Māra](mara.md) — `skeleton`
 - [Māra's deeds against the perfection of wisdom](mara-deeds.md) — `skeleton`
@@ -336,10 +342,12 @@ skeleton: 558 · sourced: 39
 - [Restlessness and remorse (uddhaccakukkucca)](uddhacca-kukkucca.md) — `skeleton`
 - [Restlessness of mind](manas-cancalya.md) — `skeleton`
 - [Revealing what must be hidden](revealing-the-secret.md) — `skeleton`
+- [Rlung disorders](rlung-disorder.md) — `skeleton`
 - [Saturn's seven and a half years (sāḍhe-sātī)](sadhesati.md) — `skeleton`
 - [Schism of the Saṅgha (saṅghabheda)](samghabheda.md) — `skeleton`
 - [Secondary sins (upapātaka)](upapataka.md) — `sourced`
 - [Secret teachings (hiji bōmon)](hiji-bomon.md) — `skeleton`
+- [Sectarian bias (phyogs 'dzin; ris su chad pa)](sectarian-bias.md) — `skeleton`
 - [Seduction to wrong: wine, anger, dice, thoughtlessness (dhruti)](dhruti.md) — `skeleton`
 - [Seeing merit and fault](guna-dosa-drsti.md) — `skeleton`
 - [Seeking outside](seeking-outside.md) — `skeleton`
@@ -362,6 +370,7 @@ skeleton: 558 · sourced: 39
 - [Sorrowful and cruel meditation](arta-raudra-dhyana.md) — `skeleton`
 - [Speaking ill of others](paraninda.md) — `skeleton`
 - [Speculative views](ditthi.md) — `skeleton`
+- [Spirit harm (gdon)](don-spirit-harm.md) — `skeleton`
 - [Stain, impurity, fault (kalmaṣa, kilbiṣa, pāpa)](kalmasa.md) — `skeleton`
 - [Subtle laxity (bying ba phra mo)](subtle-laxity.md) — `skeleton`
 - [Suppression of the natural urges](vega-vidharana.md) — `skeleton`
@@ -371,6 +380,7 @@ skeleton: 558 · sourced: 39
 - [Talk of lust, wealth, unbelievers and enemies](worldly-talk.md) — `skeleton`
 - [Ten obstacles (Yogakuṇḍalī)](yogakundali-ten-vighnas.md) — `sourced`
 - [The 'śaṭha' wind of forgetting](satha-vayu.md) — `skeleton`
+- [The adventitious stains (glo bur gyi dri ma)](adventitious-stains.md) — `skeleton`
 - [The attitude of duality](dvaita-bhava.md) — `skeleton`
 - [The cause of attachment (saktihetu)](saktihetu.md) — `skeleton`
 - [The chain of ruin from dwelling on objects](chain-from-dwelling-on-objects.md) — `skeleton`
@@ -439,12 +449,14 @@ skeleton: 558 · sourced: 39
 - [The four defeats (pārājika)](four-parajikas.md) — `skeleton`
 - [The four deviations from emptiness (shor sa bzhi)](four-deviations-mahamudra.md) — `skeleton`
 - [The four floods](four-oghas.md) — `skeleton`
+- [The four hundred and four diseases](four-hundred-four-diseases.md) — `skeleton`
 - [The four instincts (saṃjñā)](four-samjnas.md) — `skeleton`
 - [The four inversions (and the Mahāyāna double set)](four-viparyasa.md) — `skeleton`
 - [The four kinds of clinging (upādāna)](four-upadanas.md) — `skeleton`
 - [The four kinds of idle talk (vikathā)](four-vikathas.md) — `skeleton`
 - [The four kinds of unwanted things (anartha)](anartha-four-kinds.md) — `skeleton`
 - [The four Māras](four-maras.md) — `skeleton`
+- [The four māras of Chöd](four-maras-chod.md) — `skeleton`
 - [The four notions (self, being, soul, person)](four-notions.md) — `skeleton`
 - [The four obstacles to nirvikalpa samādhi](four-obstacles-to-samadhi.md) — `skeleton`
 - [The four passions (kaṣāya)](four-kasayas.md) — `skeleton`

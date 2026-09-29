@@ -9,4 +9,4 @@
 Disciple of Maitrīpa, author of the Tattvadaśakaṭīkā on 'mahāmudrā joined with the pāramitā view'.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._

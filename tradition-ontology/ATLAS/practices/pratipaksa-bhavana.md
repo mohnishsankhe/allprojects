@@ -18,4 +18,4 @@ When harmful thoughts arise, reflect on their opposites: that violence and the r
 - Harmful thoughts have endless suffering and ignorance as their fruit. — [Yoga Sūtra of Patañjali](../texts/yoga-sutra.md) 2.34
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:02 IST._

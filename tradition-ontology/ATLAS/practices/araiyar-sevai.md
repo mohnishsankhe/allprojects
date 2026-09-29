@@ -13,4 +13,4 @@ Hereditary temple singers (araiyars) sing the Āḻvārs' verses with gesture an
 _Notes: Surviving at Śrīraṅgam, Śrīvilliputtūr and Āḻvār Tirunagari (as recalled; moderate)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:02 IST._

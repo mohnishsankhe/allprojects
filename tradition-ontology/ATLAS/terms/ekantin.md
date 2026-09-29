@@ -16,4 +16,4 @@
 **Related:** [ekāntika-dharma](ekantika-dharma.md), [ananya-bhakti](ananya-bhakti.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:02 IST._

@@ -10,4 +10,4 @@
 Twentieth-century author of a Vīraśaiva commentary on the Bhagavad Gītā (1965).
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._

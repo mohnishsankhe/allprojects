@@ -16,4 +16,4 @@ A lost commentary teaching difference-and-non-difference (bhedābheda) and the c
 _Notes: Known only through opponents' reports (Śaṅkara, Sureśvara, Ānandagiri)._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._

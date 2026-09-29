@@ -25,7 +25,7 @@ Chöd practised without the view of emptiness and without compassion becomes a m
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: practice, ethics_
 
-practices: `prc:chod` · obstacles: `obs:four-maras-chod` · teachers: [Machig Labdrön (ma gcig lab sgron)](../teachers/machig-labdron.md)
+practices: [Chöd: the visualized offering of the body (lus sbyin)](../practices/chod.md) · obstacles: [The four māras of Chöd](../obstacles/four-maras-chod.md) · teachers: [Machig Labdrön (ma gcig lab sgron)](../teachers/machig-labdron.md)
 
 ### four-maras <a id="tea-phungpo-zenkyur-namshe-four-maras"></a>
 `skeleton` · confidence moderate
@@ -34,7 +34,7 @@ There are four māras: the obstructive māra — sense-objects that provoke atta
 
 _level: conventional · standpoint: analytic · path: meditation · stage: intermediate · types: consciousness-mind, practice_
 
-terms: [bdud bzhi](../terms/dudzhi.md), [thogs bcas kyi bdud](../terms/thogche-du.md), [thogs med kyi bdud](../terms/thogme-du.md), [dga' brod kyi bdud](../terms/gadro-du.md), [snyems byed kyi bdud](../terms/nyemje-du.md) · concepts: [Chöd: cutting ego-clinging at the root](../concepts/chod-cutting-ego-clinging.md) · obstacles: `obs:four-maras-chod`, `obs:dakdzin` · teachers: [Machig Labdrön (ma gcig lab sgron)](../teachers/machig-labdron.md)
+terms: [bdud bzhi](../terms/dudzhi.md), [thogs bcas kyi bdud](../terms/thogche-du.md), [thogs med kyi bdud](../terms/thogme-du.md), [dga' brod kyi bdud](../terms/gadro-du.md), [snyems byed kyi bdud](../terms/nyemje-du.md) · concepts: [Chöd: cutting ego-clinging at the root](../concepts/chod-cutting-ego-clinging.md) · obstacles: [The four māras of Chöd](../obstacles/four-maras-chod.md), [Ego-clinging (bdag 'dzin)](../obstacles/dakdzin.md) · teachers: [Machig Labdrön (ma gcig lab sgron)](../teachers/machig-labdron.md)
 
 ### guests <a id="tea-phungpo-zenkyur-namshe-guests"></a>
 `skeleton` · confidence moderate
@@ -43,7 +43,7 @@ The body, the object of strongest attachment, is offered in visualization to fou
 
 _level: bridging · standpoint: seeker · path: devotion, meditation, ritual · stage: advanced · types: practice, ethics_
 
-terms: [lus sbyin](../terms/lujin.md), [mgron po bzhi](../terms/dronpo-zhi.md) · concepts: [The four guests of the Chöd offering](../concepts/four-guests.md) · practices: `prc:chod` · teachers: [Machig Labdrön (ma gcig lab sgron)](../teachers/machig-labdron.md)
+terms: [lus sbyin](../terms/lujin.md), [mgron po bzhi](../terms/dronpo-zhi.md) · concepts: [The four guests of the Chöd offering](../concepts/four-guests.md) · practices: [Chöd: the visualized offering of the body (lus sbyin)](../practices/chod.md) · teachers: [Machig Labdrön (ma gcig lab sgron)](../teachers/machig-labdron.md)
 
 ### life <a id="tea-phungpo-zenkyur-namshe-life"></a>
 `skeleton` · confidence moderate
@@ -61,7 +61,7 @@ Signs of accomplishment in Chöd: fear no longer arises in frightening places, s
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences_
 
-practices: `prc:chod` · teachers: [Machig Labdrön (ma gcig lab sgron)](../teachers/machig-labdron.md)
+practices: [Chöd: the visualized offering of the body (lus sbyin)](../practices/chod.md) · teachers: [Machig Labdrön (ma gcig lab sgron)](../teachers/machig-labdron.md)
 
 ### tibet-to-india <a id="tea-phungpo-zenkyur-namshe-tibet-to-india"></a>
 `skeleton` · confidence moderate
@@ -70,7 +70,7 @@ Indian scholars came to Tibet to test Machig; after questioning and demonstratio
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: teacher-transmission, dispute_
 
-concepts: [Chöd as the Dharma that went from Tibet to India (the tradition's account)](../concepts/chod-from-tibet-to-india.md) · teachers: [Machig Labdrön (ma gcig lab sgron)](../teachers/machig-labdron.md) · disputes: `dsp:chod-orthodoxy`
+concepts: [Chöd as the Dharma that went from Tibet to India (the tradition's account)](../concepts/chod-from-tibet-to-india.md) · teachers: [Machig Labdrön (ma gcig lab sgron)](../teachers/machig-labdron.md) · disputes: [Is Chöd — a practice first taught by a Tibetan woman and concerned with spirits and the gift of the body — authentic Buddhadharma with an Indian source?](../debates/chod-orthodoxy.md)
 
 ### transference <a id="tea-phungpo-zenkyur-namshe-transference"></a>
 `skeleton` · confidence low
@@ -79,10 +79,10 @@ Chöd begins by transferring consciousness out through the crown into the sky, i
 
 _level: conventional · standpoint: ritual · path: meditation, ritual · stage: advanced · types: practice, death-dying_
 
-terms: ['pho ba](../terms/phowa.md), [khros ma nag mo](../terms/troma-nagmo.md) · practices: `prc:chod`, [Transference of consciousness ('pho ba)](../practices/phowa.md) · teachers: [Machig Labdrön (ma gcig lab sgron)](../teachers/machig-labdron.md)
+terms: ['pho ba](../terms/phowa.md), [khros ma nag mo](../terms/troma-nagmo.md) · practices: [Chöd: the visualized offering of the body (lus sbyin)](../practices/chod.md), [Transference of consciousness ('pho ba)](../practices/phowa.md) · teachers: [Machig Labdrön (ma gcig lab sgron)](../teachers/machig-labdron.md)
 
 
 _Notes: Compiler(s) not recalled with confidence._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

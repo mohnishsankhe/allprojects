@@ -30,7 +30,7 @@ The world, spoken of as 'he, she and it', undergoes origination, maintenance and
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [pati](../terms/pati.md), [mala](../terms/mala.md) · concepts: [Pati, paśu, pāśa — the Lord, the bound soul, the bonds](../concepts/pati-pasu-pasa.md), [Śiva's five acts (pañcakṛtya)](../concepts/five-acts-of-siva.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), `dsp:causation`
+terms: [pati](../terms/pati.md), [mala](../terms/mala.md) · concepts: [Pati, paśu, pāśa — the Lord, the bound soul, the bonds](../concepts/pati-pasu-pasa.md), [Śiva's five acts (pañcakṛtya)](../concepts/five-acts-of-siva.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 2 <a id="tea-sivananabodham-2"></a>
 `skeleton` · confidence high
@@ -39,7 +39,7 @@ The Lord is one with souls and yet other than them (like the soul with the body,
 
 _level: bridging · standpoint: divine · path: knowledge · stage: all · types: ultimate, karma-liberation_
 
-terms: [iruviṉai](../terms/iruvinai.md), [aruḷ](../terms/arul.md) · concepts: [The Siddhānta's 'advaita' of inseparability](../concepts/siddhanta-advaita.md), [Grace (anugraha) as the Lord's fifth act](../concepts/grace-anugraha.md) · disputes: `dsp:souls-one-or-distinct`
+terms: [iruviṉai](../terms/iruvinai.md), [aruḷ](../terms/arul.md) · concepts: [The Siddhānta's 'advaita' of inseparability](../concepts/siddhanta-advaita.md), [Grace (anugraha) as the Lord's fifth act](../concepts/grace-anugraha.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 3 <a id="tea-sivananabodham-3"></a>
 `skeleton` · confidence moderate
@@ -48,7 +48,7 @@ There is a soul within the body distinct from it: it denies that it is this or t
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: [paśu](../terms/pasu.md) · concepts: [The soul as sadasat](../concepts/soul-as-sadasat.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [paśu](../terms/pasu.md) · concepts: [The soul as sadasat](../concepts/soul-as-sadasat.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 4 <a id="tea-sivananabodham-4"></a>
 `skeleton` · confidence high
@@ -133,4 +133,4 @@ terms: [aṭiyār](../terms/atiyar.md) · concepts: [Liberation while living (j�
 
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._

@@ -12,4 +12,4 @@ In the Yoga Vāsiṣṭha (5.22-29), the asura king who remembers his father Vir
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.216.3ff, 12.217.25 — Located as described.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._

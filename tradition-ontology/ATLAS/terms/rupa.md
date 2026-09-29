@@ -28,4 +28,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:11.3, tea:bhagavad-gita:11.5, tea:bhagavad-gita:11.51 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, extraction:bhagavad-gita/ch10-12, skeleton:U38-early-schools, skeleton:U11-nyaya-vaisesika, skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, extraction:bhagavad-gita/ch10-12, skeleton:U38-early-schools, skeleton:U11-nyaya-vaisesika, skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._

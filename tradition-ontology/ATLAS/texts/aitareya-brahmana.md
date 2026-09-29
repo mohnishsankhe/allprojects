@@ -108,4 +108,4 @@ _Notes: Commentaries: Sāyaṇa; Ṣaḍguruśiṣya (Sukhapradā)._
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Aitareyabrāhmaṇa, catalog:raw_etexts:aitareya-brAhmaNam, https://en.wikipedia.org/wiki/Aitareya_Brahmana, https://en.wikipedia.org/wiki/Brahmana — Text held locally (DCS has 285 khaṇḍas = 8 pañcikās × 5 adhyāyas, as the entry says). Mahidāsa Aitareya is named at ChU 3.16.7 (text-located: 'mahidāsa aitareyaḥ … ṣoḍaśaṃ varṣaśatam ajīvat'). Scholarly dating: Wikipedia gives 1000–500 BCE and the Brāhmaṇa period generally c. 900–700 BCE; the entry's low-confidence 800–600 BCE lies inside these ranges. Sāyaṇa and Ṣaḍguruśiṣya (Sukhapradā) commentaries confirmed as published.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

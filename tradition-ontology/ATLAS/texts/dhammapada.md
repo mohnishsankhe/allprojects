@@ -204,7 +204,7 @@ obstacles: [Māra](../obstacles/mara.md)
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, practice_
 
-terms: [anicca](../terms/anicca.md), [dukkha](../terms/dukkha.md), [anattā](../terms/anatta.md), [tilakkhaṇa](../terms/tilakkhana.md) · concepts: [The three marks](../concepts/three-marks.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [anicca](../terms/anicca.md), [dukkha](../terms/dukkha.md), [anattā](../terms/anatta.md), [tilakkhaṇa](../terms/tilakkhana.md) · concepts: [The three marks](../concepts/three-marks.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 282 <a id="tea-dhammapada-282"></a>
 `skeleton` · confidence high
@@ -252,4 +252,4 @@ terms: [brāhmaṇa](../terms/brahmana.md) · disputes: [Is purity and worth det
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

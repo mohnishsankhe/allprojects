@@ -14,4 +14,4 @@
 _Notes: List from memory of MA's chapter on the qualities of the grounds; to check._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._

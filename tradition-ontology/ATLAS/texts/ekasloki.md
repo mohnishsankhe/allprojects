@@ -14,4 +14,4 @@
 A single verse of question and answer on the light by which one sees: sun, lamp, eye, intellect, and finally the self which is the light of lights.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._

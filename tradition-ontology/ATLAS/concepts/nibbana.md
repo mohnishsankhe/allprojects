@@ -17,4 +17,4 @@
 - contrasts-with → [Parinibbāna (final passing)](parinibbana.md): the arahant's living nibbāna versus the final passing — rests on [67.3-85.9](../texts/kevaddha-sutta.md#tea-kevaddha-sutta-67-3-85-9), [85.10-85.27](../texts/kevaddha-sutta.md#tea-kevaddha-sutta-85-10-85-27)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

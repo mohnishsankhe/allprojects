@@ -10,4 +10,4 @@ Doubt whether the self can possibly be Brahman; removed by reflection.
 **Antidotes:** [Reflection (manana)](../practices/manana.md)
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._

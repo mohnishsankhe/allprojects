@@ -220,7 +220,7 @@ The Cārvākas call the body the self, others the senses, the Bauddhas the intel
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: beginner (piṇḍajñāna-sthala (bhakta)) · types: consciousness-mind, dispute_
 
-concepts: [The self (jīva, aṅga, ātman) in the Vīraśaiva view](../concepts/anga-jiva-virasaiva.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [The self (jīva, aṅga, ātman) in the Vīraśaiva view](../concepts/anga-jiva-virasaiva.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 5.61-67 <a id="tea-siddhantasikhamani-5-61-67"></a>
 `skeleton` · confidence high
@@ -738,7 +738,7 @@ Since this moving and unmoving world arose from Mahādeva, it is not different f
 
 _level: ultimate · standpoint: cosmic · path: knowledge · stage: intermediate (śivajaganmaya-sthala (māheśvara)) · types: ultimate, world-fate_
 
-concepts: [Cosmology: Śiva, Śakti and the world](../concepts/virasaiva-cosmology.md) · disputes: `dsp:world-real-or-appearance`, `dsp:causation`
+concepts: [Cosmology: Śiva, Śakti and the world](../concepts/virasaiva-cosmology.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 10.71-73 <a id="tea-siddhantasikhamani-10-71-73"></a>
 `skeleton` · confidence high
@@ -1234,4 +1234,4 @@ teachers: [Reṇukācārya (Revaṇasiddha)](../teachers/renukacarya.md)
 _Notes: Chapter structure, sthala lists and all SSM refs used by this unit were checked against the local e-text (sources_raw/raw_etexts/mixed/mukta/vIrashaiva/…/siddhAntashikhAmaNi__M00207.md). family 'vedic' follows the coverage-map grouping (A7, Vedic family); it does not settle the tradition's internal debate on Vedic authority (see dsp:virasaiva-veda-agama-authority)._
 
 ---
-_Contributed by: skeleton:U20-virasaiva, skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._

@@ -20,4 +20,4 @@ The two differ only in how the view is generated in another's mind — by autono
 _Notes: Sides contributed by U47; U50 owns the dispute and its reconciliation._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._

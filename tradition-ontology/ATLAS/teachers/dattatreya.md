@@ -23,4 +23,4 @@ _Notes: U26 contribution (Mahānubhāva view) only._
 
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Text-located: the name occurs in the e-text of darsana, avadhuta, jabala, bhiksuka, naradaparivrajaka, sandilya, dattatreya, in the roles the summary gives. Śāṇḍilya 3 (the e-text's ch. 3) gives the etymology: datta, and the son of Atri born of Anasūyā. A mythic or textual figure, so there is no historical dating to check.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U23-sakta-srividya, skeleton:U26-regional-bhakti, skeleton:U21-natha-aghora. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U23-sakta-srividya, skeleton:U26-regional-bhakti, skeleton:U21-natha-aghora. Generated 2026-09-29 18:02 IST._

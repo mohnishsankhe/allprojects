@@ -10,4 +10,4 @@ Elder Vaiṣṇava scholar of Śāntipur whose prayers, the tradition says, call
 **Realization — the tradition's account:** Mahāviṣṇu and Sadāśiva combined; lived to a great age (tradition: 125 years).
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._

@@ -15,4 +15,4 @@
 - partial: [avidyā](avidya.md) — Yoga's avidyā (YS 2.5) is likewise taking the impermanent, impure, painful and non-self as permanent, pure, pleasant and self; Nyāya's list overlaps but belongs to a different account of self.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._

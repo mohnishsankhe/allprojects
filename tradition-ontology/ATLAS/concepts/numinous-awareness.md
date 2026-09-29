@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The luminous mind](luminous-mind.md) (P2-standpoint): Both describe a knowing nature of mind not obscured by defilements; the Chan term derives from Zongmi/Heze, not from the Pali luminous-mind passage; Theravāda does not treat the luminous citta as an ultimate. — rests on [1007a01](../texts/susim-kyol.md#tea-susim-kyol-1007a01)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

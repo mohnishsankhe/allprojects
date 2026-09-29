@@ -26,4 +26,4 @@
 **Related:** [upādāna](upadana.md), [ātman](atman.md)
 
 ---
-_Contributed by: skeleton:U38-early-schools, skeleton:U39-mahayana-sutras, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U38-early-schools, skeleton:U39-mahayana-sutras, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._

@@ -19,4 +19,4 @@
 _Notes: The same compound names the tenth bodhisattva ground (dharmameghā bhūmi) in Mahāyāna; see brw:mahayana-yoga-dharmamegha._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._

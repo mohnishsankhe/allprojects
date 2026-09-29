@@ -230,7 +230,7 @@ Now, O king, the obstacles to knowledge (jñānopasarga), the source of the net 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, ethics_
 
-teachers: [Śākāyanya](../teachers/sakayanya.md), [Bṛhadratha](../teachers/brhadratha.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+teachers: [Śākāyanya](../teachers/sakayanya.md), [Bṛhadratha](../teachers/brhadratha.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 7.9-10 <a id="tea-maitri-upanisad-7-9-10"></a>
 `sourced` · confidence high
@@ -262,4 +262,4 @@ _Notes: Refs follow the common Cowell/van Buitenen numbering; spot-checked secti
 
 - editions: Confirmed: 7 prapāṭhakas, the Maitrāyaṇīya school of the Black Yajurveda, and its place in the Muktikā canon (no. 24, under the Sāmaveda). Wikipedia gives the late 1st millennium BCE or slightly later, with the chronology contested, which fits -200/300 (moderate). Corrected: the first 'original' edition, 'Sanskrit text with Śaṅkara's bhāṣya (Advaita-Śāradā e-text)', is wrong. There is no Advaita-Śāradā file and no Śaṅkara commentary for the Maitrī; the local text is eBhāratī Ebharati-9566, Cowell's recension with Rāmatīrtha's Dīpikā. Cowell's Bibliotheca Indica edition is on archive.org.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._

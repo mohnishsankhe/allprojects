@@ -169,7 +169,7 @@ Is there no liberation outside this (teaching)? No — because others are attach
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: ultimate, karma-liberation, dispute_
 
-concepts: [The doctrine of the person (pudgalavāda)](../concepts/pudgala-doctrine.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Is there a person (pudgala) that is neither the same as nor different from the aggregates?](../debates/pudgala.md)
+concepts: [The doctrine of the person (pudgalavāda)](../concepts/pudgala-doctrine.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Is there a person (pudgala) that is neither the same as nor different from the aggregates?](../debates/pudgala.md)
 
 ### 9.p461/2 <a id="tea-abhidharmakosabhasya-9-p461-2"></a>
 `skeleton` · confidence high
@@ -228,4 +228,4 @@ terms: [santati-pariṇāma-viśeṣa](../terms/santati-parinama-visesa.md), [b�
 
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._

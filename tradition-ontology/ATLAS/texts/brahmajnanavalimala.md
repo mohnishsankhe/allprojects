@@ -24,8 +24,8 @@ Brahman is real, the world is false, the jīva is Brahman alone and not other; b
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate_
 
-terms: [mithyā](../terms/mithya.md), [brahman](../terms/brahman.md), [jīva](../terms/jiva.md) · concepts: [The identity of the self and brahman](../concepts/atman-brahman-identity.md), [The three levels of reality](../concepts/three-levels-of-reality.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: `dsp:world-real-or-appearance`, `dsp:souls-one-or-distinct`
+terms: [mithyā](../terms/mithya.md), [brahman](../terms/brahman.md), [jīva](../terms/jiva.md) · concepts: [The identity of the self and brahman](../concepts/atman-brahman-identity.md), [The three levels of reality](../concepts/three-levels-of-reality.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._

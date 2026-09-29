@@ -16,4 +16,4 @@ South Indian siddha who made several visits to Tibet (five or seven in different
 **Realization — the tradition's account:** A siddha who studied with a great number of Indian masters (fifty-four in one account); some Tibetan accounts identify him with earlier Indian figures (low confidence; not recorded here).
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

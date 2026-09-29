@@ -17,4 +17,4 @@
 _Notes: The compound is standard in Yoga (YS 2.26); the SK uses vijñāna/jñāna, Pañcaśikha 'khyāti'._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._

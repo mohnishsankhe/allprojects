@@ -31,4 +31,4 @@ terms: [sphoṭa](../terms/sphota.md), [varṇa](../terms/varna.md) · concepts:
 _Notes: Kārikā count to verify._
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U12-mimamsa, skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U12-mimamsa, skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._

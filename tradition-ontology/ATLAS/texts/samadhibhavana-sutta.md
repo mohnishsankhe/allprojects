@@ -30,4 +30,4 @@ concepts: [The four developments of concentration](../concepts/four-samadhi-bhav
 _Notes: SuttaCentral uid an4.41; Mahāsaṅgīti title 'Samādhibhāvanāsutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

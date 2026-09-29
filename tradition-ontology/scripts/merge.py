@@ -174,6 +174,34 @@ def load_unit_corrections():
 UNIT_CORR = None
 
 
+GITA13 = re.compile(r"^tea:bhagavad-gita:13\.(\d+)(?:-(\d+))?((?:/\d+)?)$")
+
+
+def _shift13(a, b=None):
+    return f"{int(a) + 1}" + (f"-{int(b) + 1}" if b else "")
+
+
+def gita13_to_edition(x):
+    """Skeleton units cite Gītā ch. 13 in the 700-verse (vulgate) numbering; the text layer follows this edition, whose
+    extra opening verse 13.1 makes 13.N(vulgate) = 13.N+1 (DECISIONS 2026-09-29). Rewrites every such id (and the
+    location of the skeleton's own ch. 13 teachings) to this edition's numbering."""
+    if isinstance(x, str):
+        m = GITA13.match(x)
+        return f"tea:bhagavad-gita:13.{_shift13(m.group(1), m.group(2))}{m.group(3)}" if m else x
+    if isinstance(x, list):
+        return [gita13_to_edition(v) for v in x]
+    if isinstance(x, dict):
+        y = {k: gita13_to_edition(v) for k, v in x.items()}
+        loc = y.get("location")
+        if (isinstance(loc, dict) and y.get("source") == "src:bhagavad-gita" and str(loc.get("chapter")) == "13"
+                and isinstance(loc.get("verse"), str) and re.fullmatch(r"\d+(-\d+)?", loc["verse"])):
+            a, _, b = loc["verse"].partition("-")
+            v = _shift13(a, b or None)
+            y["location"] = dict(loc, verse=v, ref=f"13.{v}", numbering_note=f"700-verse numbering 13.{loc['verse']} shifted to this edition")
+        return y
+    return x
+
+
 def load_all():
     global UNIT_CORR
     if UNIT_CORR is None:
@@ -190,6 +218,7 @@ def load_all():
             table = REMAP.get(unit, {})
             if ent == "interpretation_log":
                 for o in read_jsonl(path):
+                    o = gita13_to_edition(o) if unit.startswith("skeleton:") else o
                     o = remap_ids(o, table) if table else o
                     o.setdefault("by", unit)
                     logs.append(o)
@@ -197,6 +226,9 @@ def load_all():
             if ent not in ENTITIES:
                 continue
             for o in read_jsonl(path):
+                orig_id = o.get("id")
+                if unit.startswith("skeleton:"):
+                    o = gita13_to_edition(o)
                 if table:
                     o2 = remap_ids(o, table)
                     if o2 != o:
@@ -205,7 +237,7 @@ def load_all():
                 if not o.get("id"):
                     conflicts.append({"kind": "no-id", "file": os.path.relpath(path, ROOT)})
                     continue
-                corr = UNIT_CORR.get(unit, {}).get(o["id"])
+                corr = UNIT_CORR.get(unit, {}).get(orig_id) or UNIT_CORR.get(unit, {}).get(o["id"])
                 if corr:
                     fields, note, by = corr
                     for field, val in fields.items():
@@ -240,7 +272,7 @@ def merge_entity(items):
 def apply_decisions(merged_teachings):
     for path in sorted(glob.glob(os.path.join(ROOT, "shards", "extraction", "**", "final", "skeleton_decisions.jsonl"), recursive=True)):
         for d in read_jsonl(path):
-            tid, act = d.get("skeleton_id"), d.get("decision")
+            tid, act = d.get("skeleton_id_edition") or gita13_to_edition(d.get("skeleton_id")), d.get("decision")
             t = merged_teachings.get(tid)
             if not t:
                 continue
@@ -264,7 +296,7 @@ def apply_checks(data):
     for path in sorted(glob.glob(os.path.join(ROOT, "shards", "sourcing", "*", "checks.jsonl"))):
         unit = unit_of(path)
         for c in read_jsonl(path):
-            o = index.get(c.get("id"))
+            o = index.get(gita13_to_edition(c.get("id")))
             if o is None:
                 n["unknown-id"] += 1
                 continue

@@ -13,4 +13,4 @@ A Sanskrit āgama arranged in six chapters (paṭala) by the six sthalas, from b
   - kind: original; name: Muktabodha digital library e-text M00610
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._

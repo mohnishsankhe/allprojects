@@ -30,4 +30,4 @@ practices: [Patience (khanti)](../practices/khanti.md) · teachers: [Puṇṇa o
 _Notes: SuttaCentral uid mn145; Mahāsaṅgīti title 'Puṇṇovādasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

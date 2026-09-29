@@ -49,7 +49,7 @@ The Advaita renouncer Yajñamūrti debated Rāmānuja at Śrīraṅgam for eight
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: teacher-transmission, dispute_
 
-teachers: [Aruḷāḷa Perumāḷ Emperumāṉār](../teachers/arulala-perumal-emperumanar.md), [Rāmānuja](../teachers/ramanuja.md) · disputes: `dsp:world-real-or-appearance`
+teachers: [Aruḷāḷa Perumāḷ Emperumāṉār](../teachers/arulala-perumal-emperumanar.md), [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### Yāmuna <a id="tea-guruparampara-prabhavam-arayirappati-yamuna"></a>
 `skeleton` · confidence moderate
@@ -143,4 +143,4 @@ concepts: [The Lord's devotees as one's masters; service to devotees](../concept
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._

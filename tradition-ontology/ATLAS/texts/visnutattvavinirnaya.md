@@ -55,7 +55,7 @@ The purport of all the scriptures cannot be the identity of soul and Supreme Sel
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-terms: [bheda](../terms/bheda.md), [jīva](../terms/jiva.md) · concepts: ['Atat tvam asi' — Dvaita's reading of Chāndogya 6.8.7](../concepts/atat-tvam-asi.md), [The five differences (pañca-bheda)](../concepts/pancabheda.md) · disputes: [What does 'tat tvam asi' (Chāndogya Upaniṣad 6.8.7) teach — identity of soul and Brahman, or something else?](../debates/tat-tvam-asi.md), `dsp:souls-one-or-distinct`
+terms: [bheda](../terms/bheda.md), [jīva](../terms/jiva.md) · concepts: ['Atat tvam asi' — Dvaita's reading of Chāndogya 6.8.7](../concepts/atat-tvam-asi.md), [The five differences (pañca-bheda)](../concepts/pancabheda.md) · disputes: [What does 'tat tvam asi' (Chāndogya Upaniṣad 6.8.7) teach — identity of soul and Brahman, or something else?](../debates/tat-tvam-asi.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 1 <a id="tea-visnutattvavinirnaya-1-5"></a>
 `skeleton` · confidence high
@@ -88,4 +88,4 @@ terms: [avatāra](../terms/avatara.md), [nirdoṣa](../terms/nirdosa.md), [svaga
 _Notes: Three paricchedas checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._

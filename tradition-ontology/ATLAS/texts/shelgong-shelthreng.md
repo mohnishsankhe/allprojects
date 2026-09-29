@@ -14,4 +14,4 @@
 Deumar Geshe Tenzin Phuntsok's materia medica, describing and identifying the medicinal substances with their tastes, potencies and uses.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

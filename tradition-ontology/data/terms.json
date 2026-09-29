@@ -7328,6 +7328,13 @@
     "rests_on": [
      "tea:vajracchedika:15"
     ]
+   },
+   {
+    "lineage": "lin:advaita-vedanta",
+    "definition": "Used in the Māṇḍūkya-kārikā (4.90) for the teaching from which what is to be abandoned, known, attained and matured is learned; Śaṅkara glosses it as the foremost means.",
+    "rests_on": [
+     "tea:mandukya-karika:4.90"
+    ]
    }
   ],
   "literal": "the foremost vehicle",
@@ -7340,7 +7347,8 @@
   ],
   "coverage": [
    "B4",
-   "D"
+   "D",
+   "C"
   ],
   "verification": {
    "level": "skeleton",
@@ -7348,9 +7356,11 @@
    "unverified": false,
    "checks": []
   },
+  "notes": "U49 contribution: records the Advaita use of a Mahāyāna self-designation (brw:mahayana-vocabulary-in-alatasanti).",
   "provenance": {
    "units": [
-    "skeleton:U39-mahayana-sutras"
+    "skeleton:U39-mahayana-sutras",
+    "skeleton:U49-cross-family"
    ],
    "phases": [
     "skeleton"
@@ -8343,7 +8353,7 @@
     "rests_on": [
      "tea:mahabharata:1.11.12",
      "tea:mahabharata:13.116",
-     "tea:bhagavad-gita:13.7-11",
+     "tea:bhagavad-gita:13.8-12",
      "tea:bhagavad-gita:16.1-3",
      "tea:moksadharma:12.253-256",
      "tea:vyadha-gita:3.199.19-29"
@@ -11314,6 +11324,50 @@
   "provenance": {
    "units": [
     "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:aksobhya",
+  "term": "Akṣobhya",
+  "language": "Sanskrit",
+  "native": "अक्षोभ्य",
+  "literal": "imperturbable",
+  "definitions": [
+   {
+    "lineage": "lin:vajrayana",
+    "definition": "The 'Imperturbable' buddha of the east and of the vajra family; he crowns the head of Ekajaṭā and Mahācīna-Tārā.",
+    "rests_on": []
+   },
+   {
+    "lineage": "lin:kalikula",
+    "definition": "In the Hindu Tārā cult, Akṣobhya (sometimes a serpent) sits on Tārā's head; the Tārā texts name him as her consort.",
+    "rests_on": [
+     "tea:tara-tantra:1.2-4"
+    ]
+   }
+  ],
+  "related": [
+   "trm:tara"
+  ],
+  "concepts": [
+   "cpt:tara-across-families"
+  ],
+  "coverage": [
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U49-cross-family"
    ],
    "phases": [
     "skeleton"
@@ -31586,6 +31640,54 @@
   }
  },
  {
+  "id": "trm:atisunya",
+  "term": "atiśūnya",
+  "language": "Sanskrit",
+  "native": "अतिशून्य",
+  "literal": "very empty / very void",
+  "definitions": [
+   {
+    "lineage": "lin:vajrayana",
+    "definition": "The 'very empty', second of the four empties of the completion stage.",
+    "rests_on": [
+     "tea:pancakrama:2.4"
+    ]
+   },
+   {
+    "lineage": "lin:hatha-yoga",
+    "definition": "The 'very void' reached when the knot of Viṣṇu is pierced in the second stage.",
+    "rests_on": [
+     "tea:hatha-yoga-pradipika:4.72-73"
+    ]
+   }
+  ],
+  "related": [
+   "trm:sunya",
+   "trm:sarvasunya"
+  ],
+  "concepts": [
+   "cpt:sunya-across-families",
+   "cpt:four-empties"
+  ],
+  "coverage": [
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U49-cross-family"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "trm:atitapas",
   "term": "atitapas",
   "language": "Sanskrit",
@@ -48456,8 +48558,8 @@
     ],
     "rests_on": [
      "tea:bhagavad-gita:8.3-4",
-     "tea:bhagavad-gita:13.12",
-     "tea:bhagavad-gita:13.13-17",
+     "tea:bhagavad-gita:13.13",
+     "tea:bhagavad-gita:13.14-18",
      "tea:bhagavad-gita:3.10-16",
      "tea:bhagavad-gita:14.3-4",
      "tea:rajadharma:12.13.4"
@@ -53221,6 +53323,45 @@
   "provenance": {
    "units": [
     "skeleton:U35-jain-philosophy"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:caturvyuha",
+  "term": "caturvyūha",
+  "language": "Sanskrit",
+  "native": "चतुर्व्यूह",
+  "literal": "fourfold arrangement",
+  "definitions": [
+   {
+    "lineage": "lin:patanjala-yoga",
+    "definition": "The fourfold scheme of the Yoga śāstra modelled on medicine — saṃsāra, its cause, liberation, the means (YBh 2.15).",
+    "rests_on": [
+     "tea:yoga-bhasya:2.15"
+    ]
+   },
+   {
+    "lineage": "lin:pancaratra",
+    "definition": "The four emanations (vyūha) of the Lord: Vāsudeva, Saṅkarṣaṇa, Pradyumna, Aniruddha.",
+    "rests_on": []
+   }
+  ],
+  "notes": "Homonym: the same word names a fourfold expository scheme (Yoga, after medicine) and the Pāñcarātra doctrine of four emanations. Recorded so the two are not confused.",
+  "coverage": [
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U49-cross-family"
    ],
    "phases": [
     "skeleton"
@@ -81995,10 +82136,16 @@
      "tea:yoga-sutra:2.44",
      "tea:yoga-bhasya:2.44"
     ]
+   },
+   {
+    "lineage": "lin:tantra-movement",
+    "definition": "The chosen deity of an initiate, whose mantra he receives and with whom he identifies in worship.",
+    "rests_on": []
    }
   ],
   "coverage": [
-   "A5"
+   "A5",
+   "C"
   ],
   "verification": {
    "level": "skeleton",
@@ -82006,9 +82153,19 @@
    "unverified": false,
    "checks": []
   },
+  "cross_language": [
+   {
+    "language": "Tibetan",
+    "form": "yi dam",
+    "native": "ཡི་དམ",
+    "grade": "partial",
+    "note": "the meditational deity bound to the practitioner by pledge"
+   }
+  ],
   "provenance": {
    "units": [
-    "skeleton:U10-yoga"
+    "skeleton:U10-yoga",
+    "skeleton:U49-cross-family"
    ],
    "phases": [
     "skeleton"
@@ -82186,7 +82343,7 @@
     "rests_on": [
      "tea:bhagavad-gita:18.61",
      "tea:bhagavad-gita:4.6",
-     "tea:bhagavad-gita:13.22",
+     "tea:bhagavad-gita:13.23",
      "tea:moksadharma:12.289.3-8"
     ]
    },
@@ -87067,7 +87224,7 @@
     "rests_on": [
      "tea:bhagavad-gita:3.3",
      "tea:bhagavad-gita:4.33",
-     "tea:bhagavad-gita:13.24-25"
+     "tea:bhagavad-gita:13.25-26"
     ]
    },
    {
@@ -102951,8 +103108,8 @@
      "src:bhagavad-gita"
     ],
     "rests_on": [
-     "tea:bhagavad-gita:13.1-2",
-     "tea:bhagavad-gita:13.5-6"
+     "tea:bhagavad-gita:13.2-3",
+     "tea:bhagavad-gita:13.6-7"
     ]
    },
    {
@@ -103009,8 +103166,8 @@
      "src:moksadharma"
     ],
     "rests_on": [
-     "tea:bhagavad-gita:13.1-2",
-     "tea:bhagavad-gita:13.31-33",
+     "tea:bhagavad-gita:13.2-3",
+     "tea:bhagavad-gita:13.32-34",
      "tea:moksadharma:12.294",
      "tea:moksadharma:12.187.39"
     ]
@@ -103076,8 +103233,8 @@
     "standpoint": "analytic (Sāṃkhya enumeration)",
     "note": "the knower of the field of ch. 13 and the puruṣa of 13.19–23 are the same principle described from the side of knowing and of experiencing",
     "rests_on": [
-     "tea:bhagavad-gita:13.1-2",
-     "tea:bhagavad-gita:13.19-23"
+     "tea:bhagavad-gita:13.2-3",
+     "tea:bhagavad-gita:13.20-24"
     ]
    }
   ],
@@ -112547,6 +112704,54 @@
   "provenance": {
    "units": [
     "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:mahasunya",
+  "term": "mahāśūnya",
+  "language": "Sanskrit",
+  "native": "महाशून्य",
+  "literal": "great empty / great void",
+  "definitions": [
+   {
+    "lineage": "lin:vajrayana",
+    "definition": "The 'great empty', third of the four empties.",
+    "rests_on": [
+     "tea:pancakrama:2.4"
+    ]
+   },
+   {
+    "lineage": "lin:hatha-yoga",
+    "definition": "The 'great void', abode of all powers, reached by the breath in the third stage.",
+    "rests_on": [
+     "tea:hatha-yoga-pradipika:4.74-75"
+    ]
+   }
+  ],
+  "related": [
+   "trm:sunya",
+   "trm:sarvasunya"
+  ],
+  "concepts": [
+   "cpt:sunya-across-families",
+   "cpt:four-empties"
+  ],
+  "coverage": [
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U49-cross-family"
    ],
    "phases": [
     "skeleton"
@@ -146093,9 +146298,9 @@
      "src:bhagavad-gita"
     ],
     "rests_on": [
-     "tea:bhagavad-gita:13.22",
+     "tea:bhagavad-gita:13.23",
      "tea:bhagavad-gita:15.16-18",
-     "tea:bhagavad-gita:13.31-33",
+     "tea:bhagavad-gita:13.32-34",
      "tea:bhagavad-gita:6.7-9"
     ]
    },
@@ -155476,7 +155681,7 @@
     ],
     "rests_on": [
      "tea:bhagavad-gita:7.4-5",
-     "tea:bhagavad-gita:13.19-20",
+     "tea:bhagavad-gita:13.20-21",
      "tea:bhagavad-gita:3.27-28",
      "tea:bhagavad-gita:9.7-10"
     ]
@@ -159940,7 +160145,7 @@
      "src:bhagavad-gita"
     ],
     "rests_on": [
-     "tea:bhagavad-gita:13.3-4"
+     "tea:bhagavad-gita:13.4-5"
     ]
    }
   ],
@@ -165533,7 +165738,7 @@
      "src:moksadharma"
     ],
     "rests_on": [
-     "tea:bhagavad-gita:13.19-23",
+     "tea:bhagavad-gita:13.20-24",
      "tea:bhagavad-gita:15.16-18",
      "tea:moksadharma:12.294",
      "tea:moksadharma:12.338"
@@ -168935,7 +169140,7 @@
  },
  {
   "id": "trm:rangtong",
-  "term": "rang stong (rangtong)",
+  "term": "rang stong",
   "language": "Tibetan",
   "native": "རང་སྟོང་",
   "literal": "empty of self / of own-nature",
@@ -174537,13 +174742,28 @@
     "rests_on": [
      "tea:thongwa-donden-taranatha:six-branches"
     ]
+   },
+   {
+    "lineage": "lin:mantramarga",
+    "definition": "The Śaiva six-limbed yoga, which includes reasoning (tarka) as a limb (Mṛgendra's yoga section; Mālinīvijayottara).",
+    "rests_on": [
+     "tea:mrgendra-tantra:yogapada.4-9"
+    ]
+   },
+   {
+    "lineage": "lin:natha",
+    "definition": "Six limbs — posture, breath-control, withdrawal, concentration, meditation, absorption — in the Gorakṣaśataka and Vivekamārtaṇḍa.",
+    "rests_on": [
+     "tea:vivekamartanda:topic.six-limbs"
+    ]
    }
   ],
   "notes": "The Kālacakra six-branch yoga has the same name and a different list (other units).",
   "coverage": [
    "A2",
    "D",
-   "B6"
+   "B6",
+   "C"
   ],
   "verification": {
    "level": "skeleton",
@@ -174560,11 +174780,15 @@
     "note": ""
    }
   ],
+  "concepts": [
+   "cpt:six-limbed-yoga-across-families"
+  ],
   "provenance": {
    "units": [
     "skeleton:U03-principal-upanisads",
     "skeleton:U44-indian-vajrayana",
-    "skeleton:U48-jonang-chod-medicine-rime"
+    "skeleton:U48-jonang-chod-medicine-rime",
+    "skeleton:U49-cross-family"
    ],
    "phases": [
     "skeleton"
@@ -177591,6 +177815,11 @@
     "rests_on": [
      "tea:saradatilaka:23.106-110"
     ]
+   },
+   {
+    "lineage": "lin:jainism",
+    "definition": "In Jain ritual manuals, the consecration and protection of the worshipper's body by placing the syllables of the homage to the five supreme beings on the limbs before worship.",
+    "rests_on": []
    }
   ],
   "verification": {
@@ -177607,11 +177836,14 @@
   "concepts": [],
   "coverage": [
    "E",
-   "A10"
+   "A10",
+   "C"
   ],
+  "notes": "U49 contribution; recalled, to be checked.",
   "provenance": {
    "units": [
-    "skeleton:U29-hatha-practices"
+    "skeleton:U29-hatha-practices",
+    "skeleton:U49-cross-family"
    ],
    "phases": [
     "skeleton"
@@ -178262,7 +178494,7 @@
     ],
     "rests_on": [
      "tea:bhagavad-gita:9.16-19",
-     "tea:bhagavad-gita:13.22"
+     "tea:bhagavad-gita:13.23"
     ]
    }
   ],
@@ -179710,7 +179942,7 @@
     "rests_on": [
      "tea:bhagavad-gita:5.18",
      "tea:bhagavad-gita:6.29",
-     "tea:bhagavad-gita:13.27-28"
+     "tea:bhagavad-gita:13.28-29"
     ]
    },
    {
@@ -213561,6 +213793,18 @@
      "src:guhyagarbha-tantra",
      "src:yonten-dzod"
     ]
+   },
+   {
+    "lineage": "lin:tantra-movement",
+    "definition": "Across the families, a revealed scripture of the mantra path (or, for the Buddhists, also the continuum of ground, path and fruit); the Jains speak rather of kalpas (mantra manuals).",
+    "rests_on": []
+   },
+   {
+    "lineage": "lin:pancaratra",
+    "definition": "The Pāñcarātra calls its revelations saṃhitās or tantras (the Lakṣmī Tantra), spoken by Nārāyaṇa.",
+    "rests_on": [
+     "tea:jayakhya-samhita:1.adhika.1-14"
+    ]
    }
   ],
   "cross_language": [
@@ -213587,13 +213831,15 @@
   "notes": "The 'prabandha' gloss is recalled from GST ch. 18 (Uttaratantra); verse not checked.",
   "coverage": [
    "B6",
-   "D"
+   "D",
+   "C"
   ],
   "provenance": {
    "units": [
     "skeleton:U08-agama-catalogue",
     "skeleton:U44-indian-vajrayana",
-    "skeleton:U45-nyingma-bon"
+    "skeleton:U45-nyingma-bon",
+    "skeleton:U49-cross-family"
    ],
    "phases": [
     "skeleton"
@@ -213747,6 +213993,49 @@
   "provenance": {
    "units": [
     "skeleton:U08-agama-catalogue"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:tantrika",
+  "term": "tāntrika",
+  "language": "Sanskrit",
+  "native": "तान्त्रिक",
+  "definitions": [
+   {
+    "lineage": "lin:tantra-movement",
+    "definition": "A follower of the tantras, as distinguished from the vaidika who follows the Veda alone; also the tantric ritual specialist.",
+    "rests_on": []
+   },
+   {
+    "lineage": "lin:pratyabhijna",
+    "definition": "In Kṣemarāja's scheme the Tāntrikas hold the self to be transcendent, the Kaulas immanent, the Trika both.",
+    "rests_on": [
+     "tea:pratyabhijnahrdayam:8/2"
+    ]
+   }
+  ],
+  "related": [
+   "trm:tantra"
+  ],
+  "concepts": [
+   "cpt:tantra-and-veda"
+  ],
+  "coverage": [
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U49-cross-family"
    ],
    "phases": [
     "skeleton"
@@ -214486,6 +214775,63 @@
   }
  },
  {
+  "id": "trm:targa",
+  "term": "gtar ga",
+  "language": "Tibetan",
+  "literal": "bloodletting",
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "A 'rough' external therapy for hot and blood disorders (summary only; sites and methods not recorded).",
+    "sources": [
+     "src:gyushi-chimagyu"
+    ],
+    "rests_on": [
+     "tea:gyushi-chimagyu:external-therapies"
+    ]
+   }
+  ],
+  "cross_language": [
+   {
+    "language": "Sanskrit",
+    "form": "raktamokṣaṇa",
+    "native": "",
+    "grade": "exact",
+    "note": ""
+   }
+  ],
+  "equivalents": [
+   {
+    "target": "trm:raktamoksana",
+    "grade": "exact",
+    "note": "the same therapy",
+    "rests_on": [
+     "tea:gyushi-chimagyu:external-therapies"
+    ]
+   }
+  ],
+  "related": [],
+  "concepts": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "trm:tariki",
   "term": "tariki",
   "language": "Japanese",
@@ -214620,16 +214966,6 @@
     ]
    },
    {
-    "lineage": "lin:sowa-rigpa",
-    "definition": "A 'rough' external therapy for hot and blood disorders (summary only; sites and methods not recorded).",
-    "sources": [
-     "src:gyushi-chimagyu"
-    ],
-    "rests_on": [
-     "tea:gyushi-chimagyu:external-therapies"
-    ]
-   },
-   {
     "lineage": "lin:upanisadic",
     "definition": "In the Amṛtanāda's six limbs, reasoning not opposed to the āgamas.",
     "sources": [
@@ -214654,8 +214990,7 @@
    "A5",
    "D",
    "A2",
-   "B2",
-   "B6"
+   "B2"
   ],
   "verification": {
    "level": "skeleton",
@@ -214666,32 +215001,11 @@
   "concepts": [
    "cpt:pramana-jain"
   ],
-  "cross_language": [
-   {
-    "language": "Sanskrit",
-    "form": "raktamokṣaṇa",
-    "native": "",
-    "grade": "exact",
-    "note": ""
-   }
-  ],
-  "equivalents": [
-   {
-    "target": "trm:raktamoksana",
-    "grade": "exact",
-    "note": "the same therapy",
-    "rests_on": [
-     "tea:gyushi-chimagyu:external-therapies"
-    ]
-   }
-  ],
-  "related": [],
   "provenance": {
    "units": [
     "skeleton:U11-nyaya-vaisesika",
     "skeleton:U03-principal-upanisads",
     "skeleton:U35-jain-philosophy",
-    "skeleton:U48-jonang-chod-medicine-rime",
     "skeleton:U04-minor-upanisads",
     "skeleton:U31-sound-arts"
    ],
@@ -215644,7 +215958,7 @@
     ],
     "rests_on": [
      "tea:moksadharma:12.294",
-     "tea:bhagavad-gita:13.5-6"
+     "tea:bhagavad-gita:13.6-7"
     ]
    },
    {
@@ -216486,11 +216800,19 @@
     "rests_on": [
      "tea:isibhasiyaim:11"
     ]
+   },
+   {
+    "lineage": "lin:advaita-vedanta",
+    "definition": "Epithet in GK 4.99 of the awakened one whose knowledge does not go out to objects; Śaṅkara explains it as 'pervasive like space' or 'protector'.",
+    "rests_on": [
+     "tea:mandukya-karika:4.99"
+    ]
    }
   ],
   "coverage": [
    "B4",
-   "D"
+   "D",
+   "C"
   ],
   "verification": {
    "level": "skeleton",
@@ -216506,7 +216828,8 @@
   "provenance": {
    "units": [
     "skeleton:U41-yogacara-pramana",
-    "skeleton:U33-sramana"
+    "skeleton:U33-sramana",
+    "skeleton:U49-cross-family"
    ],
    "phases": [
     "skeleton"
@@ -226082,7 +226405,7 @@
      "src:bhagavad-gita"
     ],
     "rests_on": [
-     "tea:bhagavad-gita:13.22"
+     "tea:bhagavad-gita:13.23"
     ]
    }
   ],
@@ -230568,7 +230891,7 @@
     ],
     "rests_on": [
      "tea:bhagavad-gita:6.35",
-     "tea:bhagavad-gita:13.7-11",
+     "tea:bhagavad-gita:13.8-12",
      "tea:bhagavad-gita:18.50-53"
     ]
    },
@@ -247724,6 +248047,64 @@
   "provenance": {
    "units": [
     "skeleton:U36-pali-suttas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:yantra",
+  "term": "yantra",
+  "language": "Sanskrit",
+  "native": "यन्त्र",
+  "literal": "instrument; device that holds or restrains",
+  "definitions": [
+   {
+    "lineage": "lin:tantra-movement",
+    "definition": "A diagram (drawn, engraved or built) in which a deity and its mantra are installed and worshipped; used across the Śākta, Śaiva, Vaiṣṇava and Jain tantric traditions beside or instead of the maṇḍala.",
+    "rests_on": []
+   },
+   {
+    "lineage": "lin:srividya",
+    "definition": "The Śrīcakra: the Goddess's own form as nine interlocking triangles and enclosures.",
+    "rests_on": []
+   },
+   {
+    "lineage": "lin:jainism",
+    "definition": "Engraved diagrams such as the Siddhacakra and the Ṛṣimaṇḍala worshipped in Jain temples and homes.",
+    "rests_on": []
+   }
+  ],
+  "cross_language": [
+   {
+    "language": "Tibetan",
+    "form": "'khrul 'khor",
+    "native": "འཁྲུལ་འཁོར",
+    "grade": "partial",
+    "note": "the Tibetan word renders yantra as 'machine' and names physical yoga exercises (trulkhor), not a worship diagram"
+   }
+  ],
+  "related": [
+   "trm:mandala",
+   "trm:mantra",
+   "trm:siddhacakra"
+  ],
+  "concepts": [
+   "cpt:tantra-common-features"
+  ],
+  "coverage": [
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U49-cross-family"
    ],
    "phases": [
     "skeleton"

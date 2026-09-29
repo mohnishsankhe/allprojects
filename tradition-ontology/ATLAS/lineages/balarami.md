@@ -44,4 +44,4 @@ _none recorded_
 _Notes: Known mainly from 20th-c. ethnographic reports (Sudhir Chakrabarti and others); low confidence._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._

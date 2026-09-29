@@ -39,4 +39,4 @@ practices: [Giving (dāna)](../practices/dana.md), [Going for refuge (Sarvāstiv
 _Notes: SuttaCentral uid dn5; Mahāsaṅgīti title 'Kūṭadantasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

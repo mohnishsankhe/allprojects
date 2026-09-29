@@ -13,4 +13,4 @@ In the Nyingma and Bön the dharmakāya primordial buddha, depicted naked and sk
 **Realization — the tradition's account:** Primordially liberated by recognizing the ground-appearances as his own display, 'without doing even an instant of virtue', and so never entering saṃsāra.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._

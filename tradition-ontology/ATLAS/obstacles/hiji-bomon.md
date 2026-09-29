@@ -11,4 +11,4 @@ Teachings transmitted in secret at night outside the public teaching (as Zenran 
   - [The Letters of Rennyo (Ofumi / Gobunshō)](../texts/rennyo-ofumi.md) — ref: letters; rests_on: ["tea:rennyo-ofumi:heresies"]
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._

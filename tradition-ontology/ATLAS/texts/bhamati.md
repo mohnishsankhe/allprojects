@@ -78,4 +78,4 @@ terms: [vividiṣā](../terms/vividisa.md) · concepts: [Action (karma) in Advai
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._

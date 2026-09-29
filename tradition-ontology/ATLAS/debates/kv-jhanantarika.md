@@ -25,4 +25,4 @@ There is no interval; the Abhidhamma's fivefold scheme already counts a jhāna w
 _Notes: The opponent's thesis is known here only as reported by the Theravāda Kathāvatthu; school attributions come from the commentary and are recalled with moderate/low confidence._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._

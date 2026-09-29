@@ -14,4 +14,4 @@ Kuru king, great-grandson of Arjuna, at whose snake sacrifice Vaiśampāyana rec
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.338.1 [janamejaya], 14.16.1 [ja] — Located as questioner, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._

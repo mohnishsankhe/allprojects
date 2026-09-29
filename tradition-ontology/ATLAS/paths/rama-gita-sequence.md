@@ -19,4 +19,4 @@
 Assembled by U06 from the order stated in the Rāma Gītā; the text adds that until all is seen as Rāma one should worship him (7.5.58). Bands are interpretation-layer (B8 before B7 reflects the text's order: jīvanmukti, then final merging).
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._

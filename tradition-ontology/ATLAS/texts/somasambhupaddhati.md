@@ -40,4 +40,4 @@ concepts: [Śiva's body of mantras](../concepts/mantra-body-of-siva.md) · pract
 _Notes: Existence and author as in the Muktabodha catalogue (sources_raw/raw_etexts/mixed/mukta/muktabodha_metadata.json (Muktabodha catalogue descriptions))._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:02 IST._

@@ -569,7 +569,7 @@ He becomes like Śiva.
 
 _level: bridging · standpoint: experiential · path: knowledge · stage: realized (āṇavopāya (section 3, per Kṣemarāja)) · types: karma-liberation_
 
-terms: [jīvanmukti](../terms/jivanmukti.md) · concepts: [Liberation while living (jīvanmukti) in Kashmir Śaivism](../concepts/jivanmukti-kashmir.md) · disputes: [Does the liberated soul become identical with Śiva, or only equal to Śiva (śivasamatva) while remaining distinct?](../debates/liberation-identity-or-equality-with-siva.md), `dsp:souls-one-or-distinct`
+terms: [jīvanmukti](../terms/jivanmukti.md) · concepts: [Liberation while living (jīvanmukti) in Kashmir Śaivism](../concepts/jivanmukti-kashmir.md) · disputes: [Does the liberated soul become identical with Śiva, or only equal to Śiva (śivasamatva) while remaining distinct?](../debates/liberation-identity-or-equality-with-siva.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 3.26-28 <a id="tea-siva-sutra-3-26-28"></a>
 `skeleton` · confidence high
@@ -744,4 +744,4 @@ terms: [unmīlana / nimīlana samādhi](../terms/unmilana-nimilana.md)
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

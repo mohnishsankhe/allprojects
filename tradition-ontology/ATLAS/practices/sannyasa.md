@@ -20,4 +20,4 @@ _Notes: The rules of the renunciant orders are in the Saṃnyāsa Upaniṣads (U
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/kausitaki-upanisad-sharada/segments.jsonl (Advaita-Śāradā mūla kst.md, Advaita-Śāradā section numbering), text:sources_raw/prepared/mundaka-upanisa — Located: BĀU 3.5.1, 4.4.22; MuU 3.2.6, 1.2.11; KauU 2.15 ('pari vā vrajet' for the father who recovers). All 5 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 3.5.1; BĀU 4.4.22; MuU 3.2.6; MuU 1.2.11; KauU 2.15). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._

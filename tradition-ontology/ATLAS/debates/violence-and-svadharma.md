@@ -34,4 +34,4 @@ The meat-seller: no one lives without harming beings — even farmers and non-vi
 **Candidate readings:** P4-stage (adhikāra): the kṣatriya's duty belongs to his station; the ideal of non-violence to renunciants and ekāntins; P1-level: 'it neither slays nor is slain' (2.19) at the ultimate level, while the conventional duty of the warrior stands; action without ego and attachment does not bind (18.17); allegorical reading of the battle as the inner struggle (Gandhi; recent) — rejected by the classical commentators, who read the war literally
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._

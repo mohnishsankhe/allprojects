@@ -18,4 +18,4 @@
 _Notes: U17 owns lin:atimarga and its own account; this is the Mantramārga's classification._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U08-agama-catalogue. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:02 IST._

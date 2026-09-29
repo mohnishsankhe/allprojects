@@ -12,4 +12,4 @@ In Shandao's parable the river of water is beings' greed and the river of fire t
   - [Commentary on the Contemplation Sūtra (Guanjing shu)](../texts/guanjing-shu.md) — ref: fasc. 4; rests_on: ["tea:guanjing-shu:4.two-rivers"]
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._

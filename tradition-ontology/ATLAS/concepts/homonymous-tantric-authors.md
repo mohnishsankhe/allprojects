@@ -15,4 +15,4 @@
 _Notes: Ids: tch:nagarjuna-siddha, tch:aryadeva-tantric, tch:candrakirti-tantric (tantric) vs. tch:nagarjuna, tch:aryadeva, tch:candrakirti (Madhyamaka, U40)._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._

@@ -46,15 +46,15 @@ The Tibetan science of healing (one of the five major sciences), based on the Fo
 [Bhaiṣajyaguru, the Medicine Buddha (sangs rgyas sman bla)](../teachers/bhaisajyaguru.md), [Desi Sangye Gyatso (sde srid sangs rgyas rgya mtsho)](../teachers/desi-sangye-gyatso.md), [Deumar Geshe Tenzin Phuntsok (de'u dmar dge bshes bstan 'dzin phun tshogs)](../teachers/deumar-geshe-tenzin-phuntsok.md), [Drapa Ngönshé (grwa pa mngon shes)](../teachers/drapa-ngonshe.md), [Jangdak Namgyal Drakzang (byang bdag rnam rgyal grags bzang)](../teachers/jangdak-namgyal-drakzang.md), [Khyenrab Norbu (mkhyen rab nor bu)](../teachers/khyenrab-norbu.md), [Rigpé Yeshe (rig pa'i ye shes), the sage 'Awareness-Wisdom'](../teachers/rigpe-yeshe.md), [Sumtön Yeshe Zung (sum ston ye shes gzungs)](../teachers/sumton-yeshe-zung.md), [Vairocana the translator (Pagor Vairocana)](../teachers/vairocana-translator.md), [Yilé Kyé (yid las skyes), the sage 'Born from Mind'](../teachers/yile-kye.md), [Yuthok Yönten Gönpo the Elder (g.yu thog rnying ma yon tan mgon po)](../teachers/yuthok-yonten-gonpo-elder.md), [Yuthok Yönten Gönpo the Younger (g.yu thog gsar ma yon tan mgon po)](../teachers/yuthok-yonten-gonpo-younger.md), [Zurkhar Lodrö Gyalpo (zur mkhar blo gros rgyal po)](../teachers/zurkhar-lodro-gyalpo.md), [Zurkhar Nyamnyi Dorje (zur mkhar mnyam nyid rdo rje)](../teachers/zurkhar-nyamnyi-dorje.md)
 
 ## Practices
-_none recorded_
+[Essence extraction (bcud len)](../practices/chulen.md), [Kunye (bsku mnye) oil massage](../practices/kunye.md), [Medicine Buddha practice and consecration of medicines (sman sgrub)](../practices/medicine-buddha-practice.md), [Daily, seasonal and occasional conduct (spyod lam)](../practices/sowa-rigpa-conduct.md), [Dietary regimen by nyepa and season](../practices/sowa-rigpa-diet.md), [External therapies (bloodletting, moxibustion, compresses, baths)](../practices/sowa-rigpa-external-therapies.md), [Yuthok Nyingthig: guru yoga and practice of the physicians](../practices/yuthok-nyingthig-practice.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[Is the Four Tantras (rgyud bzhi) the word of the Buddha, or a treatise composed in Tibet?](../debates/gyushi-buddha-word.md)
 
 _Notes: family 'shared': Buddhist in frame (Medicine Buddha, three poisons), Āyurvedic in much of its content, and also used by Bön physicians with their own origin account (not covered here). Decision in REPORT._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

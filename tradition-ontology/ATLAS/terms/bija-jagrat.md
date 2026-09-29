@@ -15,4 +15,4 @@
 **Related:** [ajñānabhūmikā](ajnana-bhumika.md)
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._

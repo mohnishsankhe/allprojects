@@ -14,4 +14,4 @@
 _Notes: Kagyu idiom; not to be confused with Dzogchen's trekchö (khregs chod, U45)._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._

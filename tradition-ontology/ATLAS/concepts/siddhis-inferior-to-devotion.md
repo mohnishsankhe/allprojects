@@ -15,4 +15,4 @@
 - same-as-under-standpoint → [Powers (siddhi) in Vedānta](siddhis-advaita.md) (seeker): warnings that powers obstruct the goal — rests on [7.115-120](../texts/ramcaritmanas.md#tea-ramcaritmanas-7-115-120)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._

@@ -30,4 +30,4 @@ Bhagavad Gītā 7–9: worship of the Lord with mind on nothing else — the kno
 - 2026-09-29 text: corrected — tea:bhagavad-gita:7.17, tea:bhagavad-gita:8.14, tea:bhagavad-gita:8.22, tea:bhagavad-gita:9.13, tea:bhagavad-gita:9.22, tea:bhagavad-gita:9.30, tea:bhagavad-gita:9.31, tea:bhagavad-gita:9.34 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:11.54, tea:bhagavad-gita:11.55, tea:bhagavad-gita:12.2, tea:bhagavad-gita:12.6, tea:bhagavad-gita:12.7 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 17:45 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 18:02 IST._

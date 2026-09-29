@@ -18,4 +18,4 @@ _Notes: The Sanskrit compound dehātmabuddhi is later Vedānta usage; the ChU de
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — All 3 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 8.7-8.9; ChU 8.7-12; ChU 8.7.4-8.9.1). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._

@@ -15,4 +15,4 @@
 - same-as-under-standpoint → [Ajñānavāda (Jain report)](ajnanavada.md) (as reported by opponents): Pali and Jain names for the refusal to affirm — rests on [2.23-2.29](../texts/brahmajala-sutta.md#tea-brahmajala-sutta-2-23-2-29), [1.12.2](../texts/sutrakrtanga.md#tea-sutrakrtanga-1-12-2)
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._

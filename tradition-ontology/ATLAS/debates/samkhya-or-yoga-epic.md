@@ -25,4 +25,4 @@ The reconciliation concerns their soteriological value; it does not claim that t
 **The traditions' own objections:** Classical Sāṃkhya (U09) denies a creator Lord and Yoga affirms a special puruṣa; on that point the schools remain distinct (see dsp:isvara).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._

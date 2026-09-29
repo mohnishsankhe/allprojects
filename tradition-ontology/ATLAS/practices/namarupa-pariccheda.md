@@ -13,4 +13,4 @@ Purification of view: discerning the jhāna factors and their associates (calm v
 **Sequences:** `pth:seven-purifications`, `pth:sixteen-insight-knowledges`
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._

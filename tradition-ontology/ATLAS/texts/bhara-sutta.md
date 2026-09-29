@@ -24,10 +24,10 @@ The burden is the five aggregates of clinging; the bearer of the burden is the p
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: ultimate, dispute_
 
-terms: [puggala](../terms/puggala.md), [upādānakkhandha](../terms/upadanakkhandha.md), [taṇhā](../terms/tanha.md) · concepts: [The five aggregates](../concepts/five-aggregates.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [puggala](../terms/puggala.md), [upādānakkhandha](../terms/upadanakkhandha.md), [taṇhā](../terms/tanha.md) · concepts: [The five aggregates](../concepts/five-aggregates.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 
 _Notes: SuttaCentral uid sn22.22; Mahāsaṅgīti title 'Bhārasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

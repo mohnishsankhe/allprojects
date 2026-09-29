@@ -25,7 +25,7 @@ O Keśava, what can one say? Your creation is beyond telling — a picture drawn
 
 _level: bridging · standpoint: apophatic · path: knowledge, devotion · stage: advanced · types: ultimate, world-fate_
 
-concepts: [Māyā in the principal Upaniṣads](../concepts/maya.md) · teachers: [Tulsīdās](../teachers/tulsidas.md) · disputes: `dsp:world-real-or-appearance`
+concepts: [Māyā in the principal Upaniṣads](../concepts/maya.md) · teachers: [Tulsīdās](../teachers/tulsidas.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### pada 172 (verify) <a id="tea-vinaya-patrika-172"></a>
 `skeleton` · confidence low
@@ -56,4 +56,4 @@ teachers: [Tulsīdās](../teachers/tulsidas.md)
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._

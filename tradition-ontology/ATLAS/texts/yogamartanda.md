@@ -15,4 +15,4 @@ A haṭha text ascribed to Gorakṣa, closely related to the Gorakṣaśataka/Vi
 _Notes: Relation to src:vivekamartanda (U28) to be established; possibly an alternate title of a member of the same family. Low confidence._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:02 IST._

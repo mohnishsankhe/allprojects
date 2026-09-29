@@ -821,4 +821,4 @@ practices: [Seeing the Lord in all beings and bowing to all](../practices/seeing
 _Notes: Chapter range varies by editor: some count the Uddhava Gītā from 11.6 (Uddhava's plea), others from 11.7 (start of the teaching). The avadhūta of 11.7-9 is named in the text only as 'an avadhūta brāhmaṇa'; the tradition identifies him with Dattātreya (cf. BhP 2.7.4, where Yadu and the Haihayas gain yogic powers from Datta). Eknāth's Marathi Eknāthī Bhāgavata is a celebrated commentary on this book._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._

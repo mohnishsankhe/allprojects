@@ -29,4 +29,4 @@ Related to the registry dispute dsp:world-real-or-appearance.
 **The traditions' own objections:** Realist Śākta and Kaula readings (the Kāmakalāvilāsa's real manifestation, the Kaula Upaniṣad's 'the world is the Lord') reject calling the world unreal; Advaita rejects treating māyā as ultimately real power.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._

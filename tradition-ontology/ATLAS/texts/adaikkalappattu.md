@@ -15,4 +15,4 @@
 Deśika's ten Tamil verses of surrender (aḍaikkalam, 'refuge') to Varadarāja of Kāñcī.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._

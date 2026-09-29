@@ -12,4 +12,4 @@ Eating less than one's fill, as external austerity.
   - [Tattvārthasūtra](../texts/tattvartha-sutra.md) — ref: 9.19; rests_on: ["tea:tattvartha-sutra:9.19"]
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._

@@ -15,4 +15,4 @@
 **Related:** [pratyakṣa](pratyaksa.md), [anumāna](anumana.md), [āgama](agama.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._

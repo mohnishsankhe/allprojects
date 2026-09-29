@@ -14,4 +14,4 @@
 A birch-bark Dharmapada in Gāndhārī, divided between Paris and St Petersburg and edited by John Brough (1962); its chapters overlap with the Pali Dhammapada, the Udānavarga and the Patna Dharmapada.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._

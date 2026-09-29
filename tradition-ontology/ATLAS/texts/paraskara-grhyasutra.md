@@ -17,4 +17,4 @@ The domestic-rite manual of the White Yajurveda (also called Kātīya or Vājasa
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Pāraskaragṛhyasūtra, catalog:raw_etexts:paraskara_grihya_sutra, https://en.wikipedia.org/wiki/Grhyasutra — Extant (DCS, raw_etexts); the White Yajurveda Gṛhyasūtra in 3 kāṇḍas (standard).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

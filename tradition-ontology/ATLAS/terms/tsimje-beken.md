@@ -16,4 +16,4 @@
 _Notes: Seats and functions recalled with moderate confidence; correspondence to the Āyurvedic subtype is the usual one._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

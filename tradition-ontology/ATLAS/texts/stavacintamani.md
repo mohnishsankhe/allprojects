@@ -16,4 +16,4 @@ Bhaṭṭa Nārāyaṇa's hymn to Śiva, quoted by Somānanda's commentator as t
 **Commentaries on this text:** [Stavacintāmaṇivṛtti](stavacintamani-vrtti.md)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

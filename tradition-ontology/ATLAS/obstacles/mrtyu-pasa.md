@@ -14,4 +14,4 @@ Death's fetters, from which the long-life rites lift a person 'with divine speec
 _Notes: rests_on: tea:atharvaveda-saunaka:8.1.1-10, tea:rgveda:7.59.12_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._

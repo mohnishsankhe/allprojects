@@ -14,4 +14,4 @@
 - same-as-under-standpoint → `cpt:four-immeasurables` (as cultivations (bhāvanā) of four attitudes toward beings): Same four names and 'vihāra' vocabulary as the Buddhist brahmavihāras (and the Jain four bhāvanās); but YS 1.33 assigns each to a class of object and aims at clarity of mind, and Vyāsa denies that upekṣā is a cultivation — the lists are not simply identical. — rests on [1.33](../texts/yoga-sutra.md#tea-yoga-sutra-1-33), [4.10](../texts/yoga-bhasya.md#tea-yoga-bhasya-4-10)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:02 IST._

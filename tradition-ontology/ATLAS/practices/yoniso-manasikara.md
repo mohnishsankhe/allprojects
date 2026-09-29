@@ -12,4 +12,4 @@ Attending to 'this is suffering … this is the way' rather than to questions ab
   - [Sabbāsava Sutta](../texts/sabbasava-sutta.md) — ref: 3-4; rests_on: ["tea:sabbasava-sutta:3-4"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

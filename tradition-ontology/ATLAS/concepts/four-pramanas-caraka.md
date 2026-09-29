@@ -14,4 +14,4 @@
 - contrasts-with → [Means of valid knowledge (pramāṇa)](pramana.md): Nyāya counts four with analogy and without yukti — rests on [su.11.17-26](../texts/caraka-samhita.md#tea-caraka-samhita-su-11-17-26)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:02 IST._

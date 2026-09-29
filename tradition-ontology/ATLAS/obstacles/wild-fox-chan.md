@@ -12,4 +12,4 @@ Counterfeit Chan that imitates the words and gestures of awakening without insig
   - [Record of Linji (Linji lu)](../texts/linji-lu.md) — ref: 500b22; rests_on: ["tea:linji-lu:500b22"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

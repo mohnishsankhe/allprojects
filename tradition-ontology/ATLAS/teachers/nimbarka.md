@@ -17,4 +17,4 @@ Founder of the Dvaitādvaita school; author of the Vedāntapārijātasaurabha an
 **Realization — the tradition's account:** An incarnation of the Sudarśana discus, born to Aruṇa and Jayantī in the Telugu country; named Nimbārka ('sun on the nimba tree') because he held the sun on a neem tree so that a visiting ascetic could eat before sunset; taught by Nārada on Govardhana.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._

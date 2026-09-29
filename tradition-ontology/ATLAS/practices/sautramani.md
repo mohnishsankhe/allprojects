@@ -15,4 +15,4 @@ A rite to Indra the good protector (sutrāman) with offerings including surā, p
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Yajurveda/vajasneyi_madhyadina_samhita.json — VS 19.1 'svādvīṃ tvā svādunā … indrāya sutrāmṇe pacyasva' opens the sautrāmaṇī — 'VS 19–21' confirmed.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._

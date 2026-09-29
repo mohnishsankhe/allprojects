@@ -18,4 +18,4 @@
 **Related:** [gong'an / kōan (public case)](gongan.md), [kanhua Chan / ganhwa Seon (Chan of observing the phrase)](kanhua-chan.md), [yiqing (feeling of doubt)](yiqing.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

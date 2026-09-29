@@ -12,4 +12,4 @@ The Sants' paired snares of wealth and sexual desire, named as the two forms of 
   - [Kabīr Granthāvalī](../texts/kabir-granthavali.md) — ref: Māyā kau aṅg; Kāmī nar kau aṅg
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._

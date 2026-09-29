@@ -14,4 +14,4 @@
 _Notes: The fuller internalized rites (e.g. the prāṇāgnihotra of the Āraṇyakas) are U02's._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._

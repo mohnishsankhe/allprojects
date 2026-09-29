@@ -17,4 +17,4 @@
 **Related:** [jina](jina.md)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._

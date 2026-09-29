@@ -16,4 +16,4 @@ Maṇikaṇṭha Miśra's pre-Gaṅgeśa work on inference and related topics, r
 _Notes: Low confidence on title details; listed as a gap to check._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._

@@ -33,7 +33,7 @@ God's non-duality with souls means not identity but inseparability: he is one wi
 
 _level: bridging · standpoint: divine · path: knowledge · stage: advanced · types: ultimate_
 
-concepts: [The Siddhānta's 'advaita' of inseparability](../concepts/siddhanta-advaita.md) · disputes: [Does the liberated soul become identical with Śiva, or only equal to Śiva (śivasamatva) while remaining distinct?](../debates/liberation-identity-or-equality-with-siva.md), `dsp:souls-one-or-distinct`
+concepts: [The Siddhānta's 'advaita' of inseparability](../concepts/siddhanta-advaita.md) · disputes: [Does the liberated soul become identical with Śiva, or only equal to Śiva (śivasamatva) while remaining distinct?](../debates/liberation-identity-or-equality-with-siva.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### cupakkam.8 <a id="tea-sivananasiddhiyar-cupakkam-8"></a>
 `skeleton` · confidence moderate
@@ -78,7 +78,7 @@ The opponents' section sets out in their own terms and then refutes the Lokāyat
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: intermediate · types: dispute_
 
-concepts: [The Siddhānta doxography of rival schools](../concepts/four-circles-of-schools.md) · disputes: `dsp:world-real-or-appearance`, [Is there a self?](../debates/is-there-a-self.md)
+concepts: [The Siddhānta doxography of rival schools](../concepts/four-circles-of-schools.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### parapakkam.acivaka <a id="tea-sivananasiddhiyar-parapakkam-acivaka"></a>
 `skeleton` · confidence low
@@ -102,4 +102,4 @@ concepts: [Consciousness from the elements (bhūta-caitanya)](../concepts/bhuta-
 _Notes: Six classical commentaries are traditionally counted (incl. Civañāṉa Muṉivar's and Civākkiraiyōki's) — low confidence._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._

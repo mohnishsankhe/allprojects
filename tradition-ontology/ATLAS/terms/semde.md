@@ -14,4 +14,4 @@
 **Related:** [klong sde](longde.md), [man ngag sde](mengagde.md)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._

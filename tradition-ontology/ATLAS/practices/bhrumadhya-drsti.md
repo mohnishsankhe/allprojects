@@ -31,4 +31,4 @@ _Notes: In 6.13 the Gītā instead prescribes gazing toward the tip of the nose;
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:8.9-10, tea:bhagavad-gita:8.10 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.27, tea:bhagavad-gita:5.28 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06, skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._

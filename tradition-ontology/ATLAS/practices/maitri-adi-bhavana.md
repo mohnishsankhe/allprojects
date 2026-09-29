@@ -14,6 +14,10 @@ Cultivating friendliness to all beings ('may no one do evil, may no one suffer, 
 
 ## Equivalents (interpretation layer)
 - partial: [Cultivating the four attitudes (maitrī, karuṇā, muditā, upekṣā)](four-attitudes.md) — Same four attitudes as Yoga Sūtra 1.33 with different objects.
+- partial: [The four immeasurables (apramāṇa)](four-immeasurables.md) — same four attitudes; the Jain form assigns each to a class of beings, the Buddhist pervades all directions
+- partial: [Development of the four divine abidings](brahmavihara-bhavana.md) — as above
+
+_Notes: U49 contribution: cross-family equivalents only (other fields copied unchanged)._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U49-cross-family. Generated 2026-09-29 18:02 IST._

@@ -13,4 +13,4 @@ Bathing an image or liṅga of Śiva with water, milk and other substances while
 _Notes: Post-Saṃhitā usage (Āgamic/Purāṇic setting); only the Vedic mantra element is U01's._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._

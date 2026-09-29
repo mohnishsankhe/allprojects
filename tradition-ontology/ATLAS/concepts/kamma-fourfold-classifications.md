@@ -14,4 +14,4 @@
 - contrasts-with → [The four kinds of karma](four-kinds-of-karma.md): Yoga Sūtra 4.7's classes of karma by colour (white, black, both, neither)
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._

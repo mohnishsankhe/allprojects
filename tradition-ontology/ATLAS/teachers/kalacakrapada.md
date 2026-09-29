@@ -11,4 +11,4 @@
 The name of the Indian masters (an elder and a younger) credited with bringing the Kālacakra from Śambhala to India in the early 11th c. and teaching it at Nālandā/Vikramaśīla; Tibetan histories connect them with Cilupa and Piṇḍo; details differ by account.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._

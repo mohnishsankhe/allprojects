@@ -28,4 +28,4 @@ P3 reconciles the difference of emphasis in worship. It does not settle the doct
 **The traditions' own objections:** Each school holds its account of Rādhā as literally true, not as a matter of temperament.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._

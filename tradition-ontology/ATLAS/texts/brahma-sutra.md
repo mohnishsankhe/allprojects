@@ -20,7 +20,7 @@ Bādarāyaṇa's aphorisms systematizing the Upaniṣads in four adhyāyas — s
   - kind: original; name: numerous Devanāgarī editions with Śaṅkara's bhāṣya (e.g. Nirṇaya Sāgara); licence: public domain (pre-modern text)
 **Commentaries on this text:** [Ānandabhāṣya](anandabhasya.md), [Aṇubhāṣya (Brahmasūtrāṇubhāṣya)](anubhasya.md), [Aṇubhāṣya (Madhva)](anubhasya-madhva.md), [Anuvyākhyāna](anuvyakhyana.md), [Brahmasūtrabhāṣya of Bhāskara (Bhāskarabhāṣya)](brahma-sutra-bhasya-bhaskara.md), [Brahmasūtrabhāṣya (Madhva)](brahma-sutra-bhasya-madhva.md), [Brahmasūtrabhāṣya of Śaṅkara (Śārīrakamīmāṃsābhāṣya)](brahma-sutra-bhasya-sankara.md), [Yādavaprakāśa's commentary on the Brahma Sūtras (lost)](brahma-sutra-bhasya-yadavaprakasa.md), [Govinda-bhāṣya](govinda-bhasya.md), [Nyāyamuktāvalī (Rāghavendra)](nyayamuktavali-raghavendra.md), [Nyāyarakṣāmaṇi](nyayaraksamani.md), [Nyāyavivaraṇa](nyayavivarana.md), [Siddhāntajāhnavī](siddhanta-jahnavi.md), [Śrībhāṣya](sribhasya.md), [Brahmasūtrabhāṣya of Śrīkaṇṭha (Śrīkaṇṭhabhāṣya)](srikantha-bhasya.md), [Śrīkarabhāṣya](srikarabhasya.md), [Tantradīpikā (Rāghavendra)](tantradipika-raghavendra.md), [Vedāntapārijātasaurabha](vedanta-parijata-saurabha.md), [Vedāntadīpa](vedantadipa.md), [Vedāntasāra (of Rāmānuja)](vedantasara-ramanuja.md), [Vijñānāmṛtabhāṣya](vijnanamrta-bhasya.md)
 
-## Teachings (116: skeleton 116)
+## Teachings (118: skeleton 118)
 
 ### 1.1.1 <a id="tea-brahma-sutra-1-1-1"></a>
 `skeleton` · confidence high
@@ -42,7 +42,7 @@ Brahman is that from which the origin, (sustenance and dissolution) of this (wor
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [brahman](../terms/brahman.md), [taṭastha-lakṣaṇa](../terms/tatastha-laksana.md) · concepts: [Incidental and essential definitions of Brahman](../concepts/tatastha-svarupa-laksana.md), [Brahman (the ultimate ground)](../concepts/brahman.md) · disputes: `dsp:causation`
+terms: [brahman](../terms/brahman.md), [taṭastha-lakṣaṇa](../terms/tatastha-laksana.md) · concepts: [Incidental and essential definitions of Brahman](../concepts/tatastha-svarupa-laksana.md), [Brahman (the ultimate ground)](../concepts/brahman.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 1.1.3 <a id="tea-brahma-sutra-1-1-3"></a>
 `skeleton` · confidence high
@@ -75,7 +75,7 @@ terms: [tātparya-liṅga (ṣaḍ-liṅga)](../terms/tatparya-linga.md) · conc
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, world-fate, ultimate_
 
-terms: [avyakta](../terms/avyakta.md) · teachers: [Bādarāyaṇa](../teachers/badarayana.md) · disputes: [Does scripture (śruti) teach the Sāṃkhya's unconscious pradhāna as the cause of the world?](../debates/is-pradhana-taught-in-sruti.md), `dsp:causation`
+terms: [avyakta](../terms/avyakta.md) · teachers: [Bādarāyaṇa](../teachers/badarayana.md) · disputes: [Does scripture (śruti) teach the Sāṃkhya's unconscious pradhāna as the cause of the world?](../debates/is-pradhana-taught-in-sruti.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 1.1.12 <a id="tea-brahma-sutra-1-1-12"></a>
 `skeleton` · confidence high
@@ -96,6 +96,17 @@ The plenitude (bhūman) (is Brahman), because it is taught as beyond the state o
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate_
 
 concepts: [Brahman (the ultimate ground)](../concepts/brahman.md)
+
+### 1.3.29 <a id="tea-brahma-sutra-1-3-29"></a>
+`skeleton` · confidence high
+
+For this very reason (because the world arises from the Vedic word) the eternity (of the Veda) also (follows).
+
+> ata eva ca nityatvam
+
+_level: conventional · standpoint: analytic · path: knowledge, sound · stage: all · types: sound-language_
+
+disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 1.3.31 <a id="tea-brahma-sutra-1-3-31"></a>
 `skeleton` · confidence high
@@ -172,7 +183,7 @@ teachers: [Bādarāyaṇa](../teachers/badarayana.md) · disputes: [Does scriptu
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: ultimate, dispute_
 
-teachers: [Āśmarathya](../teachers/asmarathya.md) · disputes: [What is the relation of the individual self to Brahman, according to the teachers named in BS 1.4.20–22?](../debates/jiva-brahman-relation-brahma-sutra.md), `dsp:souls-one-or-distinct`
+teachers: [Āśmarathya](../teachers/asmarathya.md) · disputes: [What is the relation of the individual self to Brahman, according to the teachers named in BS 1.4.20–22?](../debates/jiva-brahman-relation-brahma-sutra.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 1.4.21 <a id="tea-brahma-sutra-1-4-21"></a>
 `skeleton` · confidence high
@@ -183,7 +194,7 @@ Auḍulomi (holds that the identity is stated) because (the self) of one who is 
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: ultimate, dispute, karma-liberation_
 
-teachers: [Auḍulomi](../teachers/audulomi.md) · disputes: [What is the relation of the individual self to Brahman, according to the teachers named in BS 1.4.20–22?](../debates/jiva-brahman-relation-brahma-sutra.md), `dsp:souls-one-or-distinct`
+teachers: [Auḍulomi](../teachers/audulomi.md) · disputes: [What is the relation of the individual self to Brahman, according to the teachers named in BS 1.4.20–22?](../debates/jiva-brahman-relation-brahma-sutra.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 1.4.22 <a id="tea-brahma-sutra-1-4-22"></a>
 `skeleton` · confidence high
@@ -194,7 +205,7 @@ Kāśakṛtsna (holds that the identity is stated) because (the supreme self) ab
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, dispute_
 
-teachers: [Kāśakṛtsna](../teachers/kasakrtsna.md) · disputes: [What is the relation of the individual self to Brahman, according to the teachers named in BS 1.4.20–22?](../debates/jiva-brahman-relation-brahma-sutra.md), `dsp:souls-one-or-distinct`
+teachers: [Kāśakṛtsna](../teachers/kasakrtsna.md) · disputes: [What is the relation of the individual self to Brahman, according to the teachers named in BS 1.4.20–22?](../debates/jiva-brahman-relation-brahma-sutra.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 1.4.23 <a id="tea-brahma-sutra-1-4-23"></a>
 `skeleton` · confidence high
@@ -205,7 +216,7 @@ teachers: [Kāśakṛtsna](../teachers/kasakrtsna.md) · disputes: [What is the 
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [brahman](../terms/brahman.md) · concepts: [Creation in Advaita](../concepts/creation-advaita.md), [Clay and its products](../concepts/clay-and-pots.md) · disputes: `dsp:causation`
+terms: [brahman](../terms/brahman.md) · concepts: [Creation in Advaita](../concepts/creation-advaita.md), [Clay and its products](../concepts/clay-and-pots.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 1.4.27 <a id="tea-brahma-sutra-1-4-27"></a>
 `skeleton` · confidence moderate
@@ -214,7 +225,7 @@ Because of self-making (the Self made itself, TU 2.7), through transformation (p
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: world-fate_
 
-terms: [pariṇāma](../terms/parinama.md) · disputes: `dsp:causation`
+terms: [pariṇāma](../terms/parinama.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 2.1.1 <a id="tea-brahma-sutra-2-1-1"></a>
 `skeleton` · confidence high
@@ -225,7 +236,7 @@ If it be objected that (this interpretation) would leave no room for (Kapila's) 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, world-fate_
 
-teachers: [Bādarāyaṇa](../teachers/badarayana.md) · disputes: [Does scripture (śruti) teach the Sāṃkhya's unconscious pradhāna as the cause of the world?](../debates/is-pradhana-taught-in-sruti.md), `dsp:causation`
+teachers: [Bādarāyaṇa](../teachers/badarayana.md) · disputes: [Does scripture (śruti) teach the Sāṃkhya's unconscious pradhāna as the cause of the world?](../debates/is-pradhana-taught-in-sruti.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 2.1.3 <a id="tea-brahma-sutra-2-1-3"></a>
 `skeleton` · confidence high
@@ -254,7 +265,7 @@ The non-difference of these (effects from the cause) (is known) from the words '
 
 _level: bridging · standpoint: causal · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [vācārambhaṇa](../terms/vacarambhana.md), [vivarta](../terms/vivarta.md), [nāma-rūpa](../terms/nama-rupa.md) · concepts: [Apparent transformation (vivarta-vāda)](../concepts/vivarta-vada.md), [Clay and its products](../concepts/clay-and-pots.md) · disputes: `dsp:causation`, `dsp:world-real-or-appearance`
+terms: [vācārambhaṇa](../terms/vacarambhana.md), [vivarta](../terms/vivarta.md), [nāma-rūpa](../terms/nama-rupa.md) · concepts: [Apparent transformation (vivarta-vāda)](../concepts/vivarta-vada.md), [Clay and its products](../concepts/clay-and-pots.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md), [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 2.1.24 <a id="tea-brahma-sutra-2-1-24"></a>
 `skeleton` · confidence moderate
@@ -303,7 +314,7 @@ The inferred (pradhāna) is not (the cause of the world), because orderly arrang
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, world-fate_
 
-teachers: [Bādarāyaṇa](../teachers/badarayana.md) · disputes: [Can an unconscious pradhāna, without a conscious director, bring forth and order the world?](../debates/can-unconscious-pradhana-create.md), `dsp:causation`
+teachers: [Bādarāyaṇa](../teachers/badarayana.md) · disputes: [Can an unconscious pradhāna, without a conscious director, bring forth and order the world?](../debates/can-unconscious-pradhana-create.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 2.2.3 <a id="tea-brahma-sutra-2-2-3"></a>
 `skeleton` · confidence high
@@ -347,7 +358,7 @@ Or (the world may arise from Brahman), just as the great and the long (arise) fr
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute_
 
-disputes: `dsp:causation`
+disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 2.2.12 <a id="tea-brahma-sutra-2-2-12"></a>
 `skeleton` · confidence moderate
@@ -358,7 +369,7 @@ In either case (motion in the atoms being caused or not) there can be no action 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute_
 
-disputes: `dsp:causation`
+disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 2.2.18 <a id="tea-brahma-sutra-2-2-18"></a>
 `skeleton` · confidence high
@@ -369,7 +380,18 @@ Even if the aggregate is (assumed) to have two causes, it cannot be established.
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute_
 
-disputes: [Is there a self?](../debates/is-there-a-self.md), `dsp:advaita-crypto-buddhism`
+disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
+
+### 2.2.25 <a id="tea-brahma-sutra-2-2-25"></a>
+`skeleton` · confidence high
+
+And because of memory (anusmṛti) — (the doctrine that everything is momentary, the perceiver included, is untenable).
+
+> anusmṛteś ca
+
+_level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind_
+
+disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Is everything that exists momentary?](../debates/momentariness.md)
 
 ### 2.2.28 <a id="tea-brahma-sutra-2-2-28"></a>
 `skeleton` · confidence high
@@ -380,7 +402,7 @@ disputes: [Is there a self?](../debates/is-there-a-self.md), `dsp:advaita-crypto
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind_
 
-disputes: `dsp:advaita-crypto-buddhism`, `dsp:world-real-or-appearance`
+disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md), [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 2.2.29 <a id="tea-brahma-sutra-2-2-29"></a>
 `skeleton` · confidence high
@@ -391,7 +413,7 @@ And because of difference in nature (waking cognitions) are not like dreams and 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind_
 
-disputes: `dsp:advaita-crypto-buddhism`, `dsp:world-real-or-appearance`
+disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md), [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 2.2.33 <a id="tea-brahma-sutra-2-2-33"></a>
 `skeleton` · confidence high
@@ -411,7 +433,7 @@ _level: conventional · standpoint: polemical · path: knowledge · stage: all �
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, ultimate_
 
-disputes: [Can the Lord be only the efficient cause of the world, as the Māheśvaras teach? (Brahma Sūtra 2.2.37ff, paśupati-adhikaraṇa)](../debates/lord-only-efficient-cause.md), [Does the Lord act independently of the karma of souls?](../debates/pasupata-isvara-karma.md), [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), `dsp:causation`
+disputes: [Can the Lord be only the efficient cause of the world, as the Māheśvaras teach? (Brahma Sūtra 2.2.37ff, paśupati-adhikaraṇa)](../debates/lord-only-efficient-cause.md), [Does the Lord act independently of the karma of souls?](../debates/pasupata-isvara-karma.md), [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 2.2.42 <a id="tea-brahma-sutra-2-2-42"></a>
 `skeleton` · confidence high
@@ -471,7 +493,7 @@ terms: [upādhi](../terms/upadhi.md) · concepts: [The jīva in Advaita](../conc
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind, ultimate_
 
-terms: [jīva](../terms/jiva.md) · disputes: `dsp:souls-one-or-distinct`
+terms: [jīva](../terms/jiva.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 2.3.50 <a id="tea-brahma-sutra-2-3-50"></a>
 `skeleton` · confidence high
@@ -682,7 +704,7 @@ But because both (difference and non-difference) are declared, (the relation is)
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: ultimate, dispute_
 
-disputes: `dsp:world-real-or-appearance`, `dsp:souls-one-or-distinct`
+disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 3.2.38 <a id="tea-brahma-sutra-3-2-38"></a>
 `skeleton` · confidence high
@@ -751,7 +773,7 @@ Some (hold that the self does not exist apart from the body), because (the self)
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind_
 
-disputes: [Is there a self?](../debates/is-there-a-self.md)
+disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 3.3.54 <a id="tea-brahma-sutra-3-3-54"></a>
 `skeleton` · confidence high
@@ -762,7 +784,7 @@ But not so; (the self is) distinct (from the body), since (consciousness) does n
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind_
 
-disputes: [Is there a self?](../debates/is-there-a-self.md)
+disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 3.4.1 <a id="tea-brahma-sutra-3-4-1"></a>
 `skeleton` · confidence high
@@ -1108,7 +1130,7 @@ concepts: [Liberation (mokṣa) in Advaita](../concepts/liberation-advaita.md)
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: realized · types: karma-liberation, ultimate_
 
-disputes: `dsp:souls-one-or-distinct`
+disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 4.4.5 <a id="tea-brahma-sutra-4-4-5"></a>
 `skeleton` · confidence high
@@ -1194,7 +1216,7 @@ teachers: [Bādarāyaṇa](../teachers/badarayana.md) · disputes: [Does the lib
 
 _level: conventional · standpoint: divine · path: meditation · stage: realized · types: powers-experiences, ultimate_
 
-concepts: [Powers (siddhi) in Vedānta](../concepts/siddhis-advaita.md) · disputes: `dsp:souls-one-or-distinct`
+concepts: [Powers (siddhi) in Vedānta](../concepts/siddhis-advaita.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 4.4.21 <a id="tea-brahma-sutra-4-4-21"></a>
 `skeleton` · confidence moderate
@@ -1220,4 +1242,4 @@ terms: [mokṣa](../terms/moksa.md) · concepts: [Liberation (mokṣa) in Advait
 _Notes: Pāda themes (per Śaṅkara): 1.1 texts with clear marks of Brahman; 1.2 unclear marks, Brahman as object of meditation; 1.3 unclear marks, Brahman as object of knowledge; 1.4 doubtful words (avyakta, ajā) claimed by Sāṃkhya; 2.1 objections from smṛti (Sāṃkhya, Yoga) and reason answered; 2.2 critique of Sāṃkhya, Vaiśeṣika, Buddhists, Jains, Pāśupatas and (per Śaṅkara) Pāñcarātra; 2.3 creation of the elements and nature of the jīva; 2.4 the prāṇas; 3.1 transmigration (for dispassion); 3.2 the states of the self and the nature of Brahman; 3.3 combination of meditations; 3.4 auxiliaries of knowledge and the āśramas; 4.1 repetition and the effects of knowledge; 4.2 departure at death; 4.3 the path of the gods; 4.4 the liberated state. All sūtra numbers in this shard follow Śaṅkara's numbering._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._

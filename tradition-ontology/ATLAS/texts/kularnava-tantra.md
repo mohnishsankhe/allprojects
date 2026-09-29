@@ -64,7 +64,7 @@ Some want non-duality, others want duality; they do not know my reality, which i
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-concepts: [The Kaula ultimate](../concepts/kaula-view-of-ultimate.md) · disputes: `dsp:world-real-or-appearance`
+concepts: [The Kaula ultimate](../concepts/kaula-view-of-ultimate.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 2.7-8 <a id="tea-kularnava-tantra-2-7-8"></a>
 `skeleton` · confidence high
@@ -271,7 +271,7 @@ The yogin who knows the highest is free of attachment, beyond adjuncts and resid
 
 _level: ultimate · standpoint: absolute · path: knowledge, meditation · stage: advanced · types: ultimate, consciousness-mind_
 
-concepts: [The jīva is Śiva (Kaula)](../concepts/jiva-is-siva-kaula.md), [The body as temple](../concepts/body-as-temple.md) · practices: [Inner worship (antaryāga)](../practices/antaryaga.md) · disputes: `dsp:souls-one-or-distinct`
+concepts: [The jīva is Śiva (Kaula)](../concepts/jiva-is-siva-kaula.md), [The body as temple](../concepts/body-as-temple.md) · practices: [Inner worship (antaryāga)](../practices/antaryaga.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 9.44-45 <a id="tea-kularnava-tantra-9-44-45"></a>
 `skeleton` · confidence high
@@ -451,4 +451,4 @@ terms: [kula](../terms/kula.md), [akula](../terms/akula.md), [kaulika](../terms/
 
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._

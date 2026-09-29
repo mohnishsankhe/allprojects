@@ -12,4 +12,4 @@ A formal recital of the whole Bhāgavata over seven days, modelled on Śuka's te
   - [Bhāgavata Māhātmya](../texts/bhagavata-mahatmya.md) — ref: 1-6; rests_on: ["tea:bhagavata-mahatmya:1-6"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._

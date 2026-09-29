@@ -24,4 +24,4 @@ Seeing a cow led to sacrifice, Kapila exclaims at the Vedas; the sage Syūmaraś
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.260.5-12 Kapila, Syūmaraśmi; 12.261.1, 12.262.1 speaker Kapila — Section located at CE 12.260-262 as entered; speakers and topic confirmed by keyword search. The alternative title "Gokapilīya" was not confirmed (not found in the local vulgate colophons nor by web search). Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._

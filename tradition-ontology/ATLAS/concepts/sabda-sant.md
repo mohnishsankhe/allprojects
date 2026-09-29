@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [Word-brahman (śabdabrahman)](sabda-brahman.md) (sound): Both make sound/word the ultimate's own power; the Sant Word is heard within and is not the Veda (which Sant Mat places at Trikuṭī). — rests on [audible-life-stream](../texts/path-of-the-masters.md#tea-path-of-the-masters-audible-life-stream)
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._

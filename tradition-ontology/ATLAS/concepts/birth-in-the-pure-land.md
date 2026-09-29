@@ -18,4 +18,4 @@
 - leads-to → [Non-retrogression of those born in Sukhāvatī](non-retrogression-in-the-pure-land.md) — rests on [79b03](../texts/jingtu-shiyi-lun.md#tea-jingtu-shiyi-lun-79b03)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._

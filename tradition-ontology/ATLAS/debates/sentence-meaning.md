@@ -42,4 +42,4 @@ Words express their meanings only as already connected with one another (anvitā
 **Candidate readings:** P2-standpoint: the two Mīmāṃsā accounts describe the same understanding from the side of words (Prābhākara) and of meanings (Bhāṭṭa); each school denies the other's analysis of the mechanism.; P2-standpoint: the grammarian describes the understanding as it is experienced (one flash), the Mīmāṃsakas the analysis of how it is produced.
 
 ---
-_Contributed by: skeleton:U12-mimamsa, skeleton:U31-sound-arts. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U31-sound-arts. Generated 2026-09-29 18:02 IST._

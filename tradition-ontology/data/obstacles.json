@@ -1,5 +1,60 @@
 [
  {
+  "id": "obs:abandoning-the-dharma",
+  "name": "Abandoning the Dharma (chos spong ba)",
+  "category": "karma-type",
+  "description": "The grave fault of disparaging or rejecting any authentic teaching of the Buddha; the Rimé masters apply it to sectarian disparagement of other traditions.",
+  "lineages": [
+   "lin:rime"
+  ],
+  "antidotes": [
+   "pure perception of all lineages"
+  ],
+  "sources": [
+   {
+    "source": "src:kongtrul-autobiography",
+    "ref": "impartial",
+    "rests_on": [
+     "tea:kongtrul-autobiography:impartial"
+    ]
+   }
+  ],
+  "notes": "The fault is a general Mahāyāna category (saddharma-pratikṣepa); its Rimé application is recalled, the specific passage is not.",
+  "coverage": [
+   "B6",
+   "D",
+   "H"
+  ],
+  "equivalents": [],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:rime"
+   ],
+   "schools": [
+    "lin:rime"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 18:02 IST"
+  }
+ },
+ {
   "id": "obs:abheda-buddhi",
   "name": "The conceit of identity with God",
   "category": "obstacle",
@@ -64,7 +119,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -170,7 +225,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -223,7 +278,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -279,7 +334,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -328,7 +383,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -412,7 +467,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -464,7 +519,68 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
+  }
+ },
+ {
+  "id": "obs:adventitious-stains",
+  "name": "The adventitious stains (glo bur gyi dri ma)",
+  "category": "impurity",
+  "description": "The conventional obscurations covering buddha-nature, which are other than it and separable from it; removing them uncovers qualities that were always present.",
+  "lineages": [
+   "lin:jonang"
+  ],
+  "antidotes": [
+   "prc:sadanga-yoga",
+   "hearing, reflection and meditation on the definitive meaning"
+  ],
+  "sources": [
+   {
+    "source": "src:mountain-doctrine",
+    "ref": "ground",
+    "rests_on": [
+     "tea:mountain-doctrine:ground/3"
+    ]
+   },
+   {
+    "source": "src:ratnagotravibhaga",
+    "ref": "1.154-155",
+    "rests_on": [
+     "tea:ratnagotravibhaga:1.154-155"
+    ]
+   }
+  ],
+  "equivalents": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:jonang"
+   ],
+   "schools": [
+    "lin:jonang"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -522,7 +638,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -591,7 +707,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -747,7 +863,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -809,7 +925,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -868,7 +984,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -931,7 +1047,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -983,7 +1099,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -1117,7 +1233,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -1172,7 +1288,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -1232,7 +1348,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -1288,7 +1404,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -1348,7 +1464,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -1423,7 +1539,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -1473,7 +1589,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -1529,7 +1645,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -1587,7 +1703,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -1638,7 +1754,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -1699,7 +1815,7 @@
     "old": "Fear, anger, sloth, too much sleep and waking, too much food and fasting (Amṛtanāda 27).",
     "new": "Fear, anger, sloth, too much sleep and waking, too much food and fasting (Amṛtanāda 28).",
     "reason": "The verse listing these faults (bhayaṃ krodham athālasyam atisvapnātijāgaram | atyāhāram anāhāraṃ …) is Amṛtanāda 28 in the e-text; v. 27 names the doors. The ref in the description is corrected. All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:amrtanada-upanisad:27 (corrected).",
-    "date": "2026-09-29 17:45 IST",
+    "date": "2026-09-29 18:02 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -1722,7 +1838,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -1776,7 +1892,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -1822,7 +1938,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -1878,7 +1994,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -1956,7 +2072,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -2016,7 +2132,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -2066,7 +2182,70 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
+  }
+ },
+ {
+  "id": "obs:annihilatory-emptiness",
+  "name": "Clinging to an emptiness of annihilation (chad stong)",
+  "category": "meditation-fault",
+  "description": "Taking the ultimate to be a mere nothingness, a non-affirming negation; for the Jonang an extreme that misses the emptiness endowed with all supreme aspects.",
+  "lineages": [
+   "lin:jonang"
+  ],
+  "antidotes": [
+   "recognition of the other-empty ultimate through the vajra-yoga"
+  ],
+  "sources": [
+   {
+    "source": "src:mountain-doctrine",
+    "ref": "annihilatory-emptiness",
+    "rests_on": [
+     "tea:mountain-doctrine:annihilatory-emptiness"
+    ]
+   }
+  ],
+  "equivalents": [
+   {
+    "target": "obs:nihilistic-misreading-of-emptiness",
+    "grade": "contested",
+    "note": "all Madhyamaka schools reject nihilism, but the Jonang count the rangtong ultimate itself as this error, which the rangtong schools deny",
+    "rests_on": [
+     "tea:mountain-doctrine:annihilatory-emptiness",
+     "tea:legs-bshad-snying-po:madhyamaka-ultimate"
+    ]
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:jonang"
+   ],
+   "schools": [
+    "lin:jonang"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -2121,7 +2300,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -2171,7 +2350,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -2311,7 +2490,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -2362,7 +2541,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -2411,7 +2590,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -2508,7 +2687,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -2567,7 +2746,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -2609,7 +2788,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -2662,7 +2841,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -2717,7 +2896,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -2801,7 +2980,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -2850,7 +3029,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -2904,7 +3083,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -2997,7 +3176,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -3067,7 +3246,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -3121,7 +3300,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -3180,7 +3359,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -3254,7 +3433,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -3308,7 +3487,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -3359,7 +3538,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -3411,7 +3590,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -3496,7 +3675,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -3549,7 +3728,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -3605,7 +3784,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -3656,7 +3835,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -3717,7 +3896,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -3759,7 +3938,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -3802,7 +3981,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -3851,7 +4030,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -3937,7 +4116,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -3996,7 +4175,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -4103,7 +4282,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -4192,7 +4371,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -4246,7 +4425,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -4341,7 +4520,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -4395,7 +4574,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -4455,7 +4634,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -4530,7 +4709,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -4643,7 +4822,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -4708,7 +4887,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -4763,7 +4942,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -4816,7 +4995,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -4971,7 +5150,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -5020,7 +5199,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -5080,7 +5259,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -5131,7 +5310,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -5184,7 +5363,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -5272,7 +5451,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -5334,7 +5513,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -5401,7 +5580,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -5478,7 +5657,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -5537,7 +5716,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -5589,7 +5768,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -5638,7 +5817,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -5691,7 +5870,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -5873,7 +6052,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -5917,7 +6096,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -5976,7 +6155,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -6038,7 +6217,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -6098,7 +6277,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -6162,7 +6341,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -6224,7 +6403,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -6279,7 +6458,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -6345,7 +6524,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -6400,7 +6579,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -6453,7 +6632,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -6502,7 +6681,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -6564,7 +6743,62 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
+  }
+ },
+ {
+  "id": "obs:beken-disorder",
+  "name": "Bad kan (phlegm) disorders",
+  "category": "dosa-imbalance",
+  "description": "Disturbance of phlegm: heaviness, dullness, poor digestion, cold and sluggishness; cold in nature.",
+  "lineages": [
+   "lin:sowa-rigpa"
+  ],
+  "antidotes": [
+   "warm, light food",
+   "exercise"
+  ],
+  "sources": [
+   {
+    "source": "src:gyushi-mengagyu",
+    "ref": "chapters on the three nyepa",
+    "rests_on": [
+     "tea:gyushi-mengagyu:rlung-disorders"
+    ]
+   }
+  ],
+  "notes": "Symptom lists simplified and recalled with low confidence.",
+  "equivalents": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:sowa-rigpa"
+   ],
+   "schools": [
+    "lin:sowa-rigpa"
+   ],
+   "families": [
+    "shared"
+   ],
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -6615,7 +6849,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -6685,7 +6919,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -6739,7 +6973,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -6791,7 +7025,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -7007,7 +7241,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -7080,7 +7314,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -7136,7 +7370,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -7196,7 +7430,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -7277,7 +7511,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -7368,7 +7602,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -7449,7 +7683,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -7509,7 +7743,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -7583,7 +7817,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -7653,7 +7887,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -7709,7 +7943,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -7808,7 +8042,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -7870,7 +8104,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -7930,7 +8164,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -8000,7 +8234,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -8057,7 +8291,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -8121,7 +8355,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -8176,7 +8410,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -8231,7 +8465,94 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
+  }
+ },
+ {
+  "id": "obs:dakdzin",
+  "name": "Ego-clinging (bdag 'dzin)",
+  "category": "affliction",
+  "description": "Grasping at a self: in Chöd the real demon and root of the four māras; in Sowa Rigpa the ignorance at the root of the three poisons and of all disease.",
+  "lineages": [
+   "lin:chod",
+   "lin:sowa-rigpa"
+  ],
+  "antidotes": [
+   "prc:chod",
+   "realization of selflessness"
+  ],
+  "names": [
+   {
+    "lineage": "lin:chod",
+    "name": "bdag 'dzin",
+    "term": "trm:dakdzin"
+   },
+   {
+    "lineage": "lin:sowa-rigpa",
+    "name": "bdag 'dzin ma rig pa",
+    "term": "trm:marigpa"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:katsom-chenmo",
+    "ref": "root-of-mind",
+    "rests_on": [
+     "tea:katsom-chenmo:root-of-mind"
+    ]
+   },
+   {
+    "source": "src:gyushi-shegyu",
+    "ref": "8",
+    "rests_on": [
+     "tea:gyushi-shegyu:8"
+    ]
+   }
+  ],
+  "equivalents": [
+   {
+    "target": "obs:self-grasping-pramana",
+    "grade": "same-under-standpoint",
+    "note": "self-grasping as the root of faults",
+    "rests_on": [
+     "tea:katsom-chenmo:root-of-mind"
+    ],
+    "standpoint": "Buddhist analysis of the root affliction"
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:chod",
+    "lin:sowa-rigpa"
+   ],
+   "schools": [
+    "lin:chod",
+    "lin:sowa-rigpa"
+   ],
+   "families": [
+    "ascetic",
+    "shared"
+   ],
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -8350,7 +8671,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -8396,7 +8717,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -8455,7 +8776,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -8516,7 +8837,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -8579,7 +8900,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -8631,7 +8952,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -8680,7 +9001,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -8729,7 +9050,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -8798,7 +9119,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -8872,7 +9193,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -8924,7 +9245,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -8995,7 +9316,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -9059,7 +9380,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -9108,7 +9429,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -9169,7 +9490,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -9229,7 +9550,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -9291,7 +9612,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -9347,7 +9668,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -9417,7 +9738,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -9473,7 +9794,75 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
+  }
+ },
+ {
+  "id": "obs:don-spirit-harm",
+  "name": "Spirit harm (gdon)",
+  "category": "other",
+  "description": "Harm from spirits: in Sowa Rigpa a condition and a class of disease requiring ritual; in Chöd, beings to be fed and repaid rather than fought.",
+  "lineages": [
+   "lin:sowa-rigpa",
+   "lin:chod"
+  ],
+  "antidotes": [
+   "ritual and Dharma practice",
+   "prc:chod"
+  ],
+  "sources": [
+   {
+    "source": "src:gyushi-shegyu",
+    "ref": "9, 12",
+    "rests_on": [
+     "tea:gyushi-shegyu:9",
+     "tea:gyushi-shegyu:12"
+    ]
+   }
+  ],
+  "equivalents": [
+   {
+    "target": "obs:grahabadha",
+    "grade": "partial",
+    "note": "Āyurvedic seizure by spirits",
+    "rests_on": [
+     "tea:gyushi-shegyu:9"
+    ]
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:chod",
+    "lin:sowa-rigpa"
+   ],
+   "schools": [
+    "lin:chod",
+    "lin:sowa-rigpa"
+   ],
+   "families": [
+    "ascetic",
+    "shared"
+   ],
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -9539,7 +9928,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -9629,7 +10018,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -9680,7 +10069,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -9738,7 +10127,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -9790,7 +10179,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -9855,7 +10244,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -9906,7 +10295,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -9972,7 +10361,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -10043,7 +10432,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -10092,7 +10481,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -10235,7 +10624,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -10399,7 +10788,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -10451,7 +10840,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -10526,7 +10915,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -10583,7 +10972,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -10631,7 +11020,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -10681,7 +11070,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -10759,7 +11148,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -10825,7 +11214,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -10901,7 +11290,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -11007,7 +11396,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -11077,7 +11466,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -11148,7 +11537,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -11220,7 +11609,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -11300,7 +11689,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -11363,7 +11752,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -11436,7 +11825,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -11490,7 +11879,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -11556,7 +11945,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -11611,7 +12000,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -11656,7 +12045,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -11723,7 +12112,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -11797,7 +12186,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -11853,7 +12242,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -11919,7 +12308,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -11976,7 +12365,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -12083,7 +12472,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -12139,7 +12528,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -12197,7 +12586,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -12274,7 +12663,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -12330,7 +12719,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -12386,7 +12775,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -12459,7 +12848,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -12587,7 +12976,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -12645,7 +13034,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -12745,7 +13134,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -12804,7 +13193,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -12856,7 +13245,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -12944,7 +13333,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -13006,7 +13395,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -13077,7 +13466,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -13159,7 +13548,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -13221,7 +13610,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -13279,7 +13668,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -13335,7 +13724,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -13390,7 +13779,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -13442,7 +13831,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -13552,7 +13941,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -13607,7 +13996,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -13670,7 +14059,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -13727,7 +14116,63 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
+  }
+ },
+ {
+  "id": "obs:four-hundred-four-diseases",
+  "name": "The four hundred and four diseases",
+  "category": "other",
+  "description": "Diseases counted as 4 × 101: karmic (yield only to Dharma), life-span (require treatment), spirit-caused (require ritual) and superficial (pass by themselves or with diet and behaviour).",
+  "lineages": [
+   "lin:sowa-rigpa"
+  ],
+  "members": [
+   "101 karmic diseases",
+   "101 life-span diseases",
+   "101 spirit diseases",
+   "101 superficial diseases"
+  ],
+  "sources": [
+   {
+    "source": "src:gyushi-shegyu",
+    "ref": "12",
+    "rests_on": [
+     "tea:gyushi-shegyu:12"
+    ]
+   }
+  ],
+  "equivalents": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:sowa-rigpa"
+   ],
+   "schools": [
+    "lin:sowa-rigpa"
+   ],
+   "families": [
+    "shared"
+   ],
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -13812,7 +14257,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -13890,7 +14335,83 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
+  }
+ },
+ {
+  "id": "obs:four-maras-chod",
+  "name": "The four māras of Chöd",
+  "category": "obstacle",
+  "description": "The obstructive māra (sense objects that provoke attachment and aversion), the unobstructive māra (arising thoughts), the māra of elation (attachment to attainments and good fortune) and the māra of conceit (self-fixation), the root of the others.",
+  "lineages": [
+   "lin:chod"
+  ],
+  "members": [
+   "thogs bcas kyi bdud (obstructive)",
+   "thogs med kyi bdud (unobstructive)",
+   "dga' brod kyi bdud (elation)",
+   "snyems byed kyi bdud (conceit)"
+  ],
+  "antidotes": [
+   "prc:chod",
+   "cutting self-fixation by the view of emptiness"
+  ],
+  "names": [
+   {
+    "lineage": "lin:chod",
+    "name": "bdud bzhi",
+    "term": "trm:dudzhi"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:phungpo-zenkyur-namshe",
+    "ref": "four-maras",
+    "rests_on": [
+     "tea:phungpo-zenkyur-namshe:four-maras"
+    ]
+   }
+  ],
+  "equivalents": [
+   {
+    "target": "obs:four-maras",
+    "grade": "partial",
+    "note": "same name, different set: the classical four are the aggregates, afflictions, death and the divine son",
+    "rests_on": [
+     "tea:phungpo-zenkyur-namshe:four-maras"
+    ]
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:chod"
+   ],
+   "schools": [
+    "lin:chod"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -13946,7 +14467,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -14011,7 +14532,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -14082,7 +14603,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -14158,7 +14679,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -14205,7 +14726,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -14276,7 +14797,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -14323,7 +14844,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -14402,7 +14923,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -14469,7 +14990,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -14566,7 +15087,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -14613,7 +15134,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -14680,7 +15201,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -14732,7 +15253,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -14808,7 +15329,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -14863,7 +15384,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -14908,7 +15429,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -14965,7 +15486,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -15025,7 +15546,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -15077,7 +15598,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -15122,7 +15643,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -15192,7 +15713,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -15238,7 +15759,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -15287,7 +15808,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -15316,7 +15837,7 @@
     "rests_on": [
      "tea:bhagavad-gita:14.5",
      "tea:bhagavad-gita:14.6-8",
-     "tea:bhagavad-gita:13.21"
+     "tea:bhagavad-gita:13.22"
     ]
    },
    {
@@ -15381,7 +15902,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -15433,7 +15954,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -15490,7 +16011,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -15542,7 +16063,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -15588,7 +16109,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -15646,7 +16167,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -15712,7 +16233,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -15762,7 +16283,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -15819,7 +16340,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -15902,7 +16423,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -15951,7 +16472,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -15999,7 +16520,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -16092,7 +16613,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -16153,7 +16674,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -16223,7 +16744,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -16290,7 +16811,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -16390,7 +16911,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -16443,7 +16964,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -16506,7 +17027,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -16574,7 +17095,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -16630,7 +17151,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -16720,7 +17241,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -16770,7 +17291,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -16819,7 +17340,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -16951,7 +17472,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -17001,7 +17522,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -17050,7 +17571,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -17099,7 +17620,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -17148,7 +17669,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -17212,7 +17733,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -17272,7 +17793,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -17314,7 +17835,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -17370,7 +17891,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -17426,7 +17947,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -17482,7 +18003,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -17616,7 +18137,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -17672,7 +18193,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -17728,7 +18249,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -17997,7 +18518,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -18049,7 +18570,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -18108,7 +18629,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -18164,7 +18685,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -18220,7 +18741,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -18284,7 +18805,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -18336,7 +18857,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -18394,7 +18915,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -18451,7 +18972,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -18509,7 +19030,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -18571,7 +19092,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -18625,7 +19146,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -18678,7 +19199,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -18742,7 +19263,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -18806,7 +19327,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -18870,7 +19391,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -18922,7 +19443,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -18974,7 +19495,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -19052,7 +19573,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -19098,7 +19619,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -19164,7 +19685,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -19220,7 +19741,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -19284,7 +19805,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -19340,7 +19861,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -19451,7 +19972,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -19519,7 +20040,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -19575,7 +20096,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -19633,7 +20154,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -19681,7 +20202,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -19730,7 +20251,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -19774,7 +20295,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -19834,7 +20355,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -19885,7 +20406,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -19956,7 +20477,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -20006,7 +20527,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -20114,7 +20635,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -20219,7 +20740,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -20269,7 +20790,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -20341,7 +20862,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -20434,7 +20955,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -20515,7 +21036,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -20592,7 +21113,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -20633,7 +21154,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -20723,7 +21244,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -20774,7 +21295,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -20830,7 +21351,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -20885,7 +21406,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -20931,7 +21452,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -20991,7 +21512,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -21042,7 +21563,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -21097,7 +21618,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -21164,7 +21685,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -21252,7 +21773,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -21324,7 +21845,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -21391,7 +21912,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -21447,7 +21968,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -21509,7 +22030,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -21567,7 +22088,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -21650,7 +22171,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -21722,7 +22243,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -21825,7 +22346,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -21916,7 +22437,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -21970,7 +22491,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -22027,7 +22548,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -22079,7 +22600,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -22139,7 +22660,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -22210,7 +22731,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -22270,7 +22791,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -22318,7 +22839,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -22371,7 +22892,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -22433,7 +22954,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -22488,7 +23009,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -22569,7 +23090,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -22655,7 +23176,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -22724,7 +23245,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -23027,7 +23548,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -23079,7 +23600,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -23121,7 +23642,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -23176,7 +23697,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -23245,7 +23766,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -23342,7 +23863,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -23392,7 +23913,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -23449,7 +23970,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -23505,7 +24026,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -23554,7 +24075,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -23638,7 +24159,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -23711,7 +24232,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -23771,7 +24292,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -23856,7 +24377,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -23941,7 +24462,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -23992,7 +24513,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -24042,7 +24563,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -24102,7 +24623,75 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
+  }
+ },
+ {
+  "id": "obs:nyepa-imbalance",
+  "name": "Imbalance of the three nyepa",
+  "category": "dosa-imbalance",
+  "description": "Increase, decrease or disturbance of rlung, mkhris pa or bad kan — alone, in pairs or all together — which is disease.",
+  "lineages": [
+   "lin:sowa-rigpa"
+  ],
+  "members": [
+   "obs:rlung-disorder",
+   "obs:tripa-disorder",
+   "obs:beken-disorder"
+  ],
+  "antidotes": [
+   "prc:sowa-rigpa-diet",
+   "prc:sowa-rigpa-conduct",
+   "medicine",
+   "external therapy"
+  ],
+  "sources": [
+   {
+    "source": "src:gyushi-tsagyu",
+    "ref": "3",
+    "rests_on": [
+     "tea:gyushi-tsagyu:3"
+    ]
+   },
+   {
+    "source": "src:gyushi-shegyu",
+    "ref": "8",
+    "rests_on": [
+     "tea:gyushi-shegyu:8"
+    ]
+   }
+  ],
+  "equivalents": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:sowa-rigpa"
+   ],
+   "schools": [
+    "lin:sowa-rigpa"
+   ],
+   "families": [
+    "shared"
+   ],
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -24159,7 +24748,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -24211,7 +24800,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -24278,7 +24867,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -24345,7 +24934,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -24408,7 +24997,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -24451,7 +25040,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -24507,7 +25096,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -24563,7 +25152,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -24626,7 +25215,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -24705,7 +25294,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -24767,7 +25356,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -24826,7 +25415,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -24930,7 +25519,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -24994,7 +25583,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -25064,7 +25653,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -25127,7 +25716,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -25203,7 +25792,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -25255,7 +25844,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -25320,7 +25909,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -25374,7 +25963,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -25423,7 +26012,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -25483,7 +26072,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -25528,7 +26117,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -25590,7 +26179,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -25648,7 +26237,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -25720,7 +26309,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -25775,7 +26364,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -25825,7 +26414,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -25887,7 +26476,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -25953,7 +26542,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -26014,7 +26603,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -26082,7 +26671,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -26150,7 +26739,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -26334,7 +26923,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -26398,7 +26987,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -26437,7 +27026,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -26476,7 +27065,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -26535,7 +27124,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -26614,7 +27203,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -26662,7 +27251,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -26719,7 +27308,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -26768,7 +27357,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -26825,7 +27414,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -26891,7 +27480,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -26941,7 +27530,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -27003,7 +27592,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -27071,7 +27660,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -27127,7 +27716,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -27185,7 +27774,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -27245,7 +27834,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -27317,7 +27906,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -27371,7 +27960,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -27441,7 +28030,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -27584,7 +28173,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -27647,7 +28236,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -27698,7 +28287,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -27758,7 +28347,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -27810,7 +28399,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -27883,7 +28472,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -27957,7 +28546,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -28006,7 +28595,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -28077,7 +28666,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -28161,7 +28750,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -28224,7 +28813,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -28296,7 +28885,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -28402,7 +28991,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -28464,7 +29053,63 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
+  }
+ },
+ {
+  "id": "obs:rlung-disorder",
+  "name": "Rlung disorders",
+  "category": "dosa-imbalance",
+  "description": "Disturbance of wind: restlessness, sleeplessness, dizziness, wandering thoughts and pains that move; cold in nature; closely linked with the mind.",
+  "lineages": [
+   "lin:sowa-rigpa"
+  ],
+  "antidotes": [
+   "warm nourishing food",
+   "rest",
+   "prc:kunye"
+  ],
+  "sources": [
+   {
+    "source": "src:gyushi-mengagyu",
+    "ref": "chapters on the three nyepa",
+    "rests_on": [
+     "tea:gyushi-mengagyu:rlung-disorders"
+    ]
+   }
+  ],
+  "notes": "Symptom lists simplified and recalled with low confidence.",
+  "equivalents": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:sowa-rigpa"
+   ],
+   "schools": [
+    "lin:sowa-rigpa"
+   ],
+   "families": [
+    "shared"
+   ],
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -28520,7 +29165,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -28572,7 +29217,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -28614,7 +29259,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -28675,7 +29320,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -28757,7 +29402,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -28811,7 +29456,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -28868,7 +29513,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -28934,7 +29579,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -29000,7 +29645,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -29048,7 +29693,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -29100,7 +29745,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -29165,7 +29810,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -29278,7 +29923,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -29342,7 +29987,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -29400,7 +30045,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -29600,7 +30245,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -29668,7 +30313,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -29724,7 +30369,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -29878,7 +30523,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -29945,7 +30590,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -30005,7 +30650,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -30060,7 +30705,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -30165,7 +30810,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -30220,7 +30865,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -30282,7 +30927,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -30334,7 +30979,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -30392,7 +31037,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -30444,7 +31089,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -30492,7 +31137,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -30559,7 +31204,62 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
+  }
+ },
+ {
+  "id": "obs:sectarian-bias",
+  "name": "Sectarian bias (phyogs 'dzin; ris su chad pa)",
+  "category": "other",
+  "description": "Partiality towards one's own school and contempt for others, which the Rimé masters regard as a cause of abandoning the Dharma and of the loss of lineages.",
+  "lineages": [
+   "lin:rime"
+  ],
+  "antidotes": [
+   "receiving and respecting the teachings of all lineages",
+   "studying root texts through their Indian commentaries"
+  ],
+  "sources": [
+   {
+    "source": "src:kongtrul-autobiography",
+    "ref": "impartial",
+    "rests_on": [
+     "tea:kongtrul-autobiography:impartial"
+    ]
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D",
+   "H"
+  ],
+  "equivalents": [],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:rime"
+   ],
+   "schools": [
+    "lin:rime"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -30623,7 +31323,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -30711,7 +31411,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -30763,7 +31463,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -30823,7 +31523,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -30846,7 +31546,7 @@
      "tea:bhagavad-gita:3.27-28",
      "tea:bhagavad-gita:18.13-16",
      "tea:bhagavad-gita:18.17",
-     "tea:bhagavad-gita:13.29-30"
+     "tea:bhagavad-gita:13.30-31"
     ]
    },
    {
@@ -30919,7 +31619,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -30959,7 +31659,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -31064,7 +31764,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -31136,7 +31836,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -31199,7 +31899,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -31254,7 +31954,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -31306,7 +32006,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -31379,7 +32079,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -31509,7 +32209,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -31554,7 +32254,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -31722,7 +32422,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -31781,7 +32481,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -31840,7 +32540,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -31898,7 +32598,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -31960,7 +32660,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -32046,7 +32746,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -32103,7 +32803,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -32176,7 +32876,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -32233,7 +32933,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -32290,7 +32990,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -32350,7 +33050,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -32407,7 +33107,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -32480,7 +33180,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -32532,7 +33232,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -32682,7 +33382,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -32738,7 +33438,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -32795,7 +33495,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -32850,7 +33550,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -32910,7 +33610,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -32973,7 +33673,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -33065,7 +33765,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -33122,7 +33822,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -33187,7 +33887,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -33284,7 +33984,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -33343,7 +34043,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -33394,7 +34094,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -33450,7 +34150,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -33518,7 +34218,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -33569,7 +34269,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -33637,7 +34337,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -33682,7 +34382,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -33743,7 +34443,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -33819,7 +34519,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -33862,7 +34562,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -33936,7 +34636,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -33988,7 +34688,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -34059,7 +34759,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -34183,7 +34883,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -34259,7 +34959,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -34307,7 +35007,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -34380,7 +35080,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -34447,7 +35147,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -34525,7 +35225,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -34602,7 +35302,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -34659,7 +35359,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -34760,7 +35460,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -34814,7 +35514,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -34868,7 +35568,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -34938,7 +35638,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -35025,7 +35725,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -35083,7 +35783,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -35137,7 +35837,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -35191,7 +35891,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -35328,7 +36028,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -35382,7 +36082,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -35442,7 +36142,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -35486,7 +36186,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -35501,6 +36201,7 @@
    "lin:early-buddhism",
    "lin:mahasiddha",
    "lin:vajrayana",
+   "lin:sowa-rigpa",
    "lin:kagyu"
   ],
   "description": "Desire, anger and ignorance, the roots of the three lower realms; in the nine-round purification breath they are expelled with the breath.",
@@ -35525,6 +36226,7 @@
   "alt_description": [
    "In the desire realm passion, aversion and delusion are the three bad roots (AK 5.20); the contemplation of the unlovely counters passion.",
    "U44 contribution: desire, hatred and delusion — which the Vajrayāna transforms into the gnoses (the smith 'forges the three poisons into the dharmakāya'; the nature of anger is the nature of mind).",
+   "In Sowa Rigpa the three poisons — desire, hatred and delusion — arising from ignorance are the causes of rlung, mkhris pa and bad kan respectively.",
    "Kagyu contribution: in clear-light practice one looks without grasping at the three poisons; they are 'purified as body, speech and mind' (Tilopa)."
   ],
   "members": [
@@ -35559,6 +36261,13 @@
     ]
    },
    {
+    "source": "src:gyushi-shegyu",
+    "ref": "8",
+    "rests_on": [
+     "tea:gyushi-shegyu:8"
+    ]
+   },
+   {
     "source": "src:karnatantravajrapada",
     "ref": "303a.7",
     "rests_on": [
@@ -35566,11 +36275,20 @@
     ]
    }
   ],
+  "names": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "name": "dug gsum",
+    "term": "trm:duk-sum"
+   }
+  ],
+  "equivalents": [],
   "provenance": {
    "units": [
     "skeleton:U45-nyingma-bon",
     "skeleton:U38-early-schools",
     "skeleton:U44-indian-vajrayana",
+    "skeleton:U48-jonang-chod-medicine-rime",
     "skeleton:U46-kagyu"
    ],
    "phases": [
@@ -35578,7 +36296,7 @@
    ]
   },
   "convergence": {
-   "count": 8,
+   "count": 9,
    "lineages": [
     "lin:bon",
     "lin:early-buddhism",
@@ -35586,6 +36304,7 @@
     "lin:mahasiddha",
     "lin:nyingma",
     "lin:sarvastivada",
+    "lin:sowa-rigpa",
     "lin:theravada",
     "lin:vajrayana"
    ],
@@ -35596,6 +36315,7 @@
     "lin:mahasiddha",
     "lin:nyingma",
     "lin:sarvastivada",
+    "lin:sowa-rigpa",
     "lin:theravada",
     "lin:vajrayana"
    ],
@@ -35603,7 +36323,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -35660,7 +36380,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -35714,7 +36434,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -35782,7 +36502,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -35869,7 +36589,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -35932,7 +36652,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -35990,7 +36710,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -36075,7 +36795,62 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
+  }
+ },
+ {
+  "id": "obs:tripa-disorder",
+  "name": "Mkhris pa (bile) disorders",
+  "category": "dosa-imbalance",
+  "description": "Disturbance of bile: heat, fever, bitter taste, yellowish colouring, irritability; hot in nature.",
+  "lineages": [
+   "lin:sowa-rigpa"
+  ],
+  "antidotes": [
+   "cooling food and medicine",
+   "rest in cool places"
+  ],
+  "sources": [
+   {
+    "source": "src:gyushi-mengagyu",
+    "ref": "chapters on the three nyepa",
+    "rests_on": [
+     "tea:gyushi-mengagyu:rlung-disorders"
+    ]
+   }
+  ],
+  "notes": "Symptom lists simplified and recalled with low confidence.",
+  "equivalents": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:sowa-rigpa"
+   ],
+   "schools": [
+    "lin:sowa-rigpa"
+   ],
+   "families": [
+    "shared"
+   ],
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -36128,7 +36903,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -36208,7 +36983,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -36295,7 +37070,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -36364,7 +37139,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -36422,7 +37197,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -36493,7 +37268,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -36552,7 +37327,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -36695,7 +37470,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -36753,7 +37528,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -36812,7 +37587,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -36864,7 +37639,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -36934,7 +37709,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -36991,7 +37766,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -37045,7 +37820,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -37091,7 +37866,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -37170,7 +37945,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -37219,7 +37994,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -37279,7 +38054,7 @@
      }
     ],
     "reason": "The upapātaka list is at MDh 11.59–66 in Kullūka numbering (Medhātithi 57–64). It begins 'govadho 'yājyasaṃyājyaṃ pāradāryātmavikrayaḥ | gurumātṛpitṛtyāgaḥ svādhyāyāgnyoḥ sutasya ca' (11.59) and ends '… strīśūdraviṭkṣatravadho nāstikyaṃ copapātakam' (11.66). 11.67 is the separate jātibhraṃśakara category. The description's first examples (cow-killing, neglect of Veda and fires, selling oneself, deserting parents or teacher, adultery) are all in 11.59, outside the cited 11.60–67. Correction: ref 11.59–66 in sources and in the description's parenthesis; no other wording changed.",
-    "date": "2026-09-29 17:45 IST",
+    "date": "2026-09-29 18:02 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    },
    {
@@ -37287,7 +38062,7 @@
     "old": "A long list of lesser offences — killing a cow, neglecting the fires or the Veda, selling oneself, usury, deserting parents or teacher, adultery, killing women, śūdras, vaiśyas or kṣatriyas, unbelief (nāstikya) and others (MDh 11.60–67).",
     "new": "A long list of lesser offences — killing a cow, neglecting the fires or the Veda, selling oneself, usury, deserting parents or teacher, adultery, killing women, śūdras, vaiśyas or kṣatriyas, unbelief (nāstikya) and others (MDh 11.59–66).",
     "reason": "The upapātaka list is at MDh 11.59–66 in Kullūka numbering (Medhātithi 57–64). It begins 'govadho 'yājyasaṃyājyaṃ pāradāryātmavikrayaḥ | gurumātṛpitṛtyāgaḥ svādhyāyāgnyoḥ sutasya ca' (11.59) and ends '… strīśūdraviṭkṣatravadho nāstikyaṃ copapātakam' (11.66). 11.67 is the separate jātibhraṃśakara category. The description's first examples (cow-killing, neglect of Veda and fires, selling oneself, deserting parents or teacher, adultery) are all in 11.59, outside the cited 11.60–67. Correction: ref 11.59–66 in sources and in the description's parenthesis; no other wording changed.",
-    "date": "2026-09-29 17:45 IST",
+    "date": "2026-09-29 18:02 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    }
   ],
@@ -37310,7 +38085,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -37385,7 +38160,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -37445,7 +38220,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -37505,7 +38280,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -37557,7 +38332,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -37620,7 +38395,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -37689,7 +38464,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -37744,7 +38519,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -37807,7 +38582,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -37867,7 +38642,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -37918,7 +38693,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -37974,7 +38749,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -38032,7 +38807,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -38081,7 +38856,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -38144,7 +38919,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -38192,7 +38967,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -38258,7 +39033,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -38364,7 +39139,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -38430,7 +39205,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -38478,7 +39253,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -38580,7 +39355,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -38633,7 +39408,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -38682,7 +39457,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -38765,7 +39540,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -38819,7 +39594,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -38892,7 +39667,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -38962,7 +39737,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -39022,7 +39797,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -39084,7 +39859,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -39144,7 +39919,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -39245,7 +40020,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -39311,7 +40086,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -39369,7 +40144,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -39420,7 +40195,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -39490,7 +40265,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -39554,7 +40329,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -39607,7 +40382,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -39663,7 +40438,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -39718,7 +40493,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -39788,7 +40563,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -39875,7 +40650,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -39962,7 +40737,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -40034,7 +40809,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -40109,7 +40884,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  },
  {
@@ -40162,7 +40937,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:45 IST"
+   "computed": "2026-09-29 18:02 IST"
   }
  }
 ]

@@ -68,4 +68,4 @@ terms: [pada](../terms/pada.md) · concepts: [The Nāth critique of ritual and c
 _Notes: Registry id. Not available locally; sabadī numbers not recalled, so teachings use section-level refs._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:02 IST._

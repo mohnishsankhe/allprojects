@@ -14,4 +14,4 @@
 Vijñānabhikṣu's commentary on the Brahma Sūtras, presenting a Vedānta of non-separation (avibhāga) — a form of difference-and-non-difference — in which Sāṃkhya and Yoga are integrated and Śaṅkara's māyāvāda is rejected.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._

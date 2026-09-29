@@ -15,4 +15,4 @@ Caryā tantra of Vajrapāṇi's consecration, classed with the Mahāvairocana.
   - kind: translation; name: Derge Kangyur, Tōh 496 (confirmed in the local Derge catalogue); licence: public domain; url: local: sources_raw/derge-kangyur
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._

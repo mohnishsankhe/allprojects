@@ -15,4 +15,4 @@ Gazing at the clear sky with an unbroken gaze, becoming still, O Goddess, one at
 _Notes: Verses 84-85 (KSTS 8 / GRETIL numbering). Grouped: v. 84 is absent from the Kaumudī recension's main text and is reported after v. 85 in one manuscript._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

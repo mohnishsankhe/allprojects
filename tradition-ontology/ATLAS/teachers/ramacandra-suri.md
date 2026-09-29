@@ -12,4 +12,4 @@
 Jain monk-poet, disciple of Hemacandra, co-author with Guṇacandra of the Nāṭyadarpaṇa.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:02 IST._

@@ -16,4 +16,4 @@
 Buddhaghosa's commentary on the Pātimokkha ('Crossing over doubt').
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._

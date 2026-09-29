@@ -35,4 +35,4 @@ _Notes: The Gītā's word at 10.22 is the feminine noun cetanā ('sentience, awa
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.22 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch10-12, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools, skeleton:U41-yogacara-pramana, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch10-12, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools, skeleton:U41-yogacara-pramana, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._

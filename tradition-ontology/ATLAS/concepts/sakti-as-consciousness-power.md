@@ -19,4 +19,4 @@
 - same-as-under-standpoint → [Light and reflexive awareness (prakāśa-vimarśa)](prakasa-vimarsa.md) (Śrīvidyā / Kashmir non-dual Śaiva): Śakti is the vimarśa side of the one reality — rests on [1-3](../texts/kamakalavilasa.md#tea-kamakalavilasa-1-3), [1.6](../texts/yoginihrdaya-dipika.md#tea-yoginihrdaya-dipika-1-6)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U24-kali-kaula. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._

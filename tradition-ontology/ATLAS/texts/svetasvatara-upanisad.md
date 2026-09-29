@@ -38,7 +38,7 @@ Time, inherent nature, fixed order (niyati), chance, the elements, the womb, the
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: intermediate · types: world-fate, dispute_
 
-terms: [kāla](../terms/kala.md), [svabhāva](../terms/svabhava.md), [niyati](../terms/niyati.md), [yadṛcchā](../terms/yadrccha.md) · concepts: [The candidate causes of the Śvetāśvatara](../concepts/candidate-causes-svetasvatara.md) · disputes: `dsp:causation`, [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [kāla](../terms/kala.md), [svabhāva](../terms/svabhava.md), [niyati](../terms/niyati.md), [yadṛcchā](../terms/yadrccha.md) · concepts: [The candidate causes of the Śvetāśvatara](../concepts/candidate-causes-svetasvatara.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md), [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### 1.3 <a id="tea-svetasvatara-upanisad-1-3"></a>
 `sourced` · confidence high
@@ -328,7 +328,7 @@ Two birds, companions and friends, cling to the same tree; one eats the sweet fr
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: intermediate · types: ultimate, karma-liberation_
 
-concepts: [The two birds on one tree](../concepts/two-birds.md), [The individual living self (jīva)](../concepts/jiva.md), [Īśvara (the Lord)](../concepts/isvara.md) · disputes: `dsp:souls-one-or-distinct`
+concepts: [The two birds on one tree](../concepts/two-birds.md), [The individual living self (jīva)](../concepts/jiva.md), [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 4.8 <a id="tea-svetasvatara-upanisad-4-8"></a>
 `sourced` · confidence high
@@ -348,7 +348,7 @@ The metres, sacrifices, rites, vows, the past, the future and all that the Vedas
 
 _level: bridging · standpoint: divine · path: knowledge · stage: advanced · types: ultimate, world-fate_
 
-terms: [māyā](../terms/maya.md), [māyin](../terms/mayin.md), [prakṛti](../terms/prakrti.md), [īśvara](../terms/isvara.md) · concepts: [Māyā in the principal Upaniṣads](../concepts/maya.md), [Īśvara (the Lord)](../concepts/isvara.md) · disputes: `dsp:world-real-or-appearance`
+terms: [māyā](../terms/maya.md), [māyin](../terms/mayin.md), [prakṛti](../terms/prakrti.md), [īśvara](../terms/isvara.md) · concepts: [Māyā in the principal Upaniṣads](../concepts/maya.md), [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 4.11-12 <a id="tea-svetasvatara-upanisad-4-11-12"></a>
 `sourced` · confidence moderate
@@ -447,7 +447,7 @@ Some sages say inherent nature (svabhāva) is the cause, others time — they ar
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: intermediate · types: ultimate, dispute_
 
-terms: [svabhāva](../terms/svabhava.md), [kāla](../terms/kala.md), [brahmacakra](../terms/brahmacakra.md) · concepts: [The candidate causes of the Śvetāśvatara](../concepts/candidate-causes-svetasvatara.md), [Īśvara (the Lord)](../concepts/isvara.md) · disputes: `dsp:causation`, [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [svabhāva](../terms/svabhava.md), [kāla](../terms/kala.md), [brahmacakra](../terms/brahmacakra.md) · concepts: [The candidate causes of the Śvetāśvatara](../concepts/candidate-causes-svetasvatara.md), [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md), [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### 6.7-9 <a id="tea-svetasvatara-upanisad-6-7-9"></a>
 `sourced` · confidence high
@@ -575,4 +575,4 @@ _Notes: A commentary on it is attributed to Śaṅkara (attribution doubted). Ve
 
 - 2026-09-29 catalog+text-locate+websearch: confirmed — catalog:GRETIL-dev:svetasvatara-upanisad, text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md), text:sources_raw/dcs/dcs/data/conllu/files/Vājasaneyisaṃhitā (Mādhyandina)/ (VSM 11.1-5 'yuñjānaḥ prathamam manaḥ …'), https://en.wikipedia.org/wiki/Shvetashvatara_U — Confirmed: 6 adhyāyas and 113 verses (16, 17, 21, 22, 14, 23) in the prepared text. The seer's name is at 6.21, and the commentary attributed to Śaṅkara is in the Advaita-Śāradā files. Wikipedia gives c. 4th–1st c. BCE and notes the doubted Śaṅkara attribution. ŚU 2.1-5 = VSM 11.1-5 is confirmed in the DCS Vājasaneyi Saṃhitā.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._

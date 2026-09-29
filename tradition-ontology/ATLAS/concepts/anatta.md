@@ -15,4 +15,4 @@
 - contrasts-with → [The doctrine of the person (pudgalavāda)](pudgala-doctrine.md): the Pudgalavāda 'person' neither identical with nor different from the aggregates (U38) — rests on [23-32](../texts/mahanidana-sutta.md#tea-mahanidana-sutta-23-32), [15-17](../texts/alagaddupama-sutta.md#tea-alagaddupama-sutta-15-17)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

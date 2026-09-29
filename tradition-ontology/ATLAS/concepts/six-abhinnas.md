@@ -17,4 +17,4 @@
 - same-as-under-standpoint → [The Lord's manifestations (vibhūti)](vibhutis.md) (experiential (powers of concentration)): both are powers born of concentration and both texts warn that they obstruct the highest aim; the goals (nibbāna / kaivalya) differ — rests on [3/4](../texts/visuddhimagga.md#tea-visuddhimagga-3-4)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._

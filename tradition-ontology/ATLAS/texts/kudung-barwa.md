@@ -26,4 +26,4 @@ concepts: [The rainbow body ('ja' lus)](../concepts/rainbow-body.md)
 _Notes: Not local. Membership of the Seventeen from memory; content summary minimal._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._

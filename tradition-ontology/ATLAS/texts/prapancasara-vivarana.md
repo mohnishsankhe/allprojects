@@ -15,4 +15,4 @@
 A commentary on the Prapañcasāra ascribed by tradition to Padmapāda, Śaṅkara's disciple.
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U08-agama-catalogue. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:02 IST._

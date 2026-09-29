@@ -10,4 +10,4 @@
 Named in the opening verses of the Jyotsnā as the one at whose urging (abhiyoga) Brahmānanda explained the hidden sense of Gorakṣa's doctrine; the relation is usually taken as teacher and pupil.
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:02 IST._

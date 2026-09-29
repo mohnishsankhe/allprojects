@@ -157,4 +157,4 @@ teachers: [Janaka of Videha](../teachers/janaka.md)
 _Notes: Distinct from the 'Aṣṭāvakrīya' episode of the Mahābhārata (Āraṇyakaparvan 3.132-134; see src:astavakriya-mahabharata), where Aṣṭāvakra defeats Bandin at Janaka's court; the 1896 Pañcadaśagītā collection prints that epic episode as an 'Aṣṭāvakra Gītā' in three chapters. In recent times the text was loved by Vivekananda and read in Ramana Maharshi's circle (recent reception)._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._

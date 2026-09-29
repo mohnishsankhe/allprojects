@@ -15,4 +15,4 @@ Reciting the Saṃhitā word by word, with sandhi undone and compound members ma
 - A mantra wrong in accent or letter does not convey its meaning; as a verbal thunderbolt it harms the sacrificer, as 'Indra-śatru' did through a fault of accent. — [Pāṇinīya Śikṣā](../texts/paniniya-siksa.md) 52
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._

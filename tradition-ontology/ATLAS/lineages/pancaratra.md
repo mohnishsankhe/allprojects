@@ -59,4 +59,4 @@ _none recorded_
 _Notes: family 'vedic' is the project's A/B classification (Brahmanical vs śramaṇa); it is not a claim that this tradition treats the Veda as its final authority._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:02 IST._

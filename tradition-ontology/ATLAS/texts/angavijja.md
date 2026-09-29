@@ -12,4 +12,4 @@
 A large Jain Prakrit manual of prognostication from bodily signs, gestures and circumstances of the questioner.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._

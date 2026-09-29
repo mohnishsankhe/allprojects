@@ -16,4 +16,4 @@ The glory of Kāśī where death brings liberation, its liṅgas and tīrthas, a
 _Notes: 6.28-45 on inner tīrthas checked in the local e-text (numbered 4.1.6.30 etc.)._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._

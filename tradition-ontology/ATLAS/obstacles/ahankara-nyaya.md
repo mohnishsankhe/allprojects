@@ -13,4 +13,4 @@ The mistaken sense of 'I' regarding body and the like, which ceases through know
   - [Nyāyabhāṣya](../texts/nyaya-bhasya.md) — ref: 4.2.2; rests_on: ["tea:nyaya-bhasya:4.2.2"]
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._

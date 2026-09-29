@@ -9,4 +9,4 @@
 The bodhisatta's wife and mother of Rāhula, called 'Rāhula's mother' in the Vinaya (Mv 1.54); the name Yasodharā is commentarial.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

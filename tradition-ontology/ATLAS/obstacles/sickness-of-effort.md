@@ -12,4 +12,4 @@ In the Great Perfection, striving to produce what is already complete — medita
   - [Kunjed Gyalpo (chos thams cad rdzogs pa chen po byang chub kyi sems kun byed rgyal po, the All-Creating King)](../texts/kunjed-gyalpo.md) — ref: ch.31, 44, 45; rests_on: ["tea:kunjed-gyalpo:31", "tea:kunjed-gyalpo:44", "tea:kunjed-gyalpo:45"]
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._

@@ -23,8 +23,8 @@ The physician practises the preliminaries, the guru yoga of Yuthok and the deity
 
 _level: conventional · standpoint: devotional · path: devotion, ritual, meditation · stage: all · types: practice, teacher-transmission_
 
-practices: `prc:yuthok-nyingthig-practice`, `prc:medicine-buddha-practice` · teachers: [Yuthok Yönten Gönpo the Younger (g.yu thog gsar ma yon tan mgon po)](../teachers/yuthok-yonten-gonpo-younger.md)
+practices: [Yuthok Nyingthig: guru yoga and practice of the physicians](../practices/yuthok-nyingthig-practice.md), [Medicine Buddha practice and consecration of medicines (sman sgrub)](../practices/medicine-buddha-practice.md) · teachers: [Yuthok Yönten Gönpo the Younger (g.yu thog gsar ma yon tan mgon po)](../teachers/yuthok-yonten-gonpo-younger.md)
 
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

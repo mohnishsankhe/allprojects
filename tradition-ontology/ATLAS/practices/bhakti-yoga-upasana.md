@@ -19,4 +19,4 @@ Daily, repeated meditation on the Lord (in one of the Upaniṣadic forms, the vi
 - It is long and difficult, obstructed by accumulated sins, and requires the last remembrance at death; hence prapatti is taught for those unable. — [Rahasyatrayasāra](../texts/rahasyatrayasara.md) Adhikārivibhāga
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._

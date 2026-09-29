@@ -17,4 +17,4 @@ A sub-commentary on Jñānagarbha's Satyadvayavibhaṅga ascribed to Śāntarak�
   - kind: translation; name: Tibetan translation, Derge Tengyur D3883 (bden pa gnyis rnam par 'byed pa'i dka' 'grel) — catalog:Derge-Tengyur:D3883
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._

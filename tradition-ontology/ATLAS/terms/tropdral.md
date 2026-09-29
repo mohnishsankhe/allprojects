@@ -18,4 +18,4 @@
 **Related:** [prapañca](prapanca.md), [prapañcopaśama](prapancopasama.md), [catuṣkoṭi](catuskoti.md)
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._

@@ -31,4 +31,4 @@ terms: [kleśāvaraṇa](../terms/klesavarana.md), [jñeyāvaraṇa](../terms/jn
 
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._

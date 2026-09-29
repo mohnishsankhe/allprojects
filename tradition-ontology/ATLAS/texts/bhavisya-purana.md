@@ -18,4 +18,4 @@
 The 'Purāṇa of the future': sun worship and the Magas, dharma and saṃskāras, prophecies of future kings, and (in the Uttara-parvan) the narratives of vows.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._

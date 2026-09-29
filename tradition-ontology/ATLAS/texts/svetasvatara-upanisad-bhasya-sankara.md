@@ -14,4 +14,4 @@
 A commentary on the Śvetāśvatara transmitted under Śaṅkara's name; its authenticity is doubted by modern scholars on grounds of style and citations.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._

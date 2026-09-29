@@ -136,7 +136,7 @@ One who sees a self has lasting love for it as 'I'; from love he thirsts for hap
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: [ātma-dṛṣṭi](../terms/atma-drsti.md), [tṛṣṇā](../terms/trsna.md) · obstacles: [Self-grasping as the root of faults](../obstacles/self-grasping-pramana.md) · teachers: [Dharmakīrti](../teachers/dharmakirti.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātma-dṛṣṭi](../terms/atma-drsti.md), [tṛṣṇā](../terms/trsna.md) · obstacles: [Self-grasping as the root of faults](../obstacles/self-grasping-pramana.md) · teachers: [Dharmakīrti](../teachers/dharmakirti.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 1.253-255 <a id="tea-pramanavarttika-1-253-255"></a>
 `skeleton` · confidence high
@@ -266,4 +266,4 @@ terms: [āgama](../terms/agama.md) · teachers: [Dharmakīrti](../teachers/dharm
 
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._

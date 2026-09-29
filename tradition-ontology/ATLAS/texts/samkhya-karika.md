@@ -110,7 +110,7 @@ The effect exists (in its cause before production): because the non-existent can
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: all · types: world-fate, dispute_
 
-terms: [satkāryavāda](../terms/satkaryavada.md), [asatkāryavāda](../terms/asatkaryavada.md) · concepts: [Pre-existence of the effect (satkāryavāda)](../concepts/satkaryavada.md), [Real transformation (pariṇāmavāda)](../concepts/parinamavada.md) · disputes: `dsp:causation`
+terms: [satkāryavāda](../terms/satkaryavada.md), [asatkāryavāda](../terms/asatkaryavada.md) · concepts: [Pre-existence of the effect (satkāryavāda)](../concepts/satkaryavada.md), [Real transformation (pariṇāmavāda)](../concepts/parinamavada.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 10 <a id="tea-samkhya-karika-10"></a>
 `skeleton` · confidence high
@@ -190,7 +190,7 @@ Puruṣa exists: because aggregates are for the sake of another; because there m
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: ultimate, consciousness-mind_
 
-terms: [puruṣa](../terms/purusa.md), [pārārthya](../terms/pararthya.md), [adhiṣṭhāna](../terms/adhisthana.md), [bhoktṛ](../terms/bhoktr.md), [kaivalya](../terms/kaivalya.md) · concepts: [Puruṣa (the conscious self)](../concepts/purusa.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Is consciousness a product of the combined elements of the body?](../debates/consciousness-from-elements.md)
+terms: [puruṣa](../terms/purusa.md), [pārārthya](../terms/pararthya.md), [adhiṣṭhāna](../terms/adhisthana.md), [bhoktṛ](../terms/bhoktr.md), [kaivalya](../terms/kaivalya.md) · concepts: [Puruṣa (the conscious self)](../concepts/purusa.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Is consciousness a product of the combined elements of the body?](../debates/consciousness-from-elements.md)
 
 ### 18 <a id="tea-samkhya-karika-18"></a>
 `skeleton` · confidence high
@@ -738,4 +738,4 @@ terms: [ṣaṣṭitantra](../terms/sastitantra.md) · concepts: [The sixty topi
 _Notes: Verse numbers and wording used in this unit's SK teachings were checked against the local GRETIL/DCS e-texts in sources_raw/; entries stay at skeleton level until Phase C/D._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._

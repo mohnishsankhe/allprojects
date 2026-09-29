@@ -96,4 +96,4 @@ concepts: [The five kāyas](../concepts/five-kayas.md), [Secrecy and the fit ves
 _Notes: Local: catalog:Derge-Kangyur:D832._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._

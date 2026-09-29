@@ -73,7 +73,7 @@ Absolute non-duality is refuted: if all were one, there would be no distinction 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, ultimate_
 
-concepts: [Jain views of the other darśanas](../concepts/jain-views-of-other-darsanas.md), [Many-sidedness (anekāntavāda)](../concepts/anekantavada.md) · teachers: [Samantabhadra](../teachers/samantabhadra.md) · disputes: `dsp:souls-one-or-distinct`, `dsp:world-real-or-appearance`
+concepts: [Jain views of the other darśanas](../concepts/jain-views-of-other-darsanas.md), [Many-sidedness (anekāntavāda)](../concepts/anekantavada.md) · teachers: [Samantabhadra](../teachers/samantabhadra.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md), [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 104 <a id="tea-aptamimamsa-104"></a>
 `skeleton` · confidence low
@@ -100,10 +100,10 @@ The one-sided views of permanence and of momentariness are both refuted: a merel
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, world-fate_
 
-concepts: [The triple mark of the existent](../concepts/utpada-vyaya-dhrauvya.md), [Many-sidedness (anekāntavāda)](../concepts/anekantavada.md) · teachers: [Samantabhadra](../teachers/samantabhadra.md) · disputes: [Is everything that exists momentary?](../debates/momentariness.md), [Is there a self?](../debates/is-there-a-self.md)
+concepts: [The triple mark of the existent](../concepts/utpada-vyaya-dhrauvya.md), [Many-sidedness (anekāntavāda)](../concepts/anekantavada.md) · teachers: [Samantabhadra](../teachers/samantabhadra.md) · disputes: [Is everything that exists momentary?](../debates/momentariness.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 
 _Notes: Title present in the local catalogue (catalog:JainDB:आप्त-मीमांसा); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._

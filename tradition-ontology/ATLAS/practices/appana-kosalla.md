@@ -12,4 +12,4 @@ Making the basis clean, balancing the faculties (faith with wisdom, energy with 
   - [Visuddhimagga](../texts/visuddhimagga.md) — ref: IV; rests_on: ["tea:visuddhimagga:4/3"]
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._

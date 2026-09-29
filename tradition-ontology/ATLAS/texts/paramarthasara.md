@@ -35,7 +35,7 @@ In the supreme principle - light, full, resting in itself, great bliss, filled w
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate, world-fate_
 
-concepts: [The thirty-six principles (ṣaṭtriṃśat-tattva)](../concepts/thirty-six-tattvas.md), [The reflection doctrine (pratibimbavāda) of the Trika](../concepts/pratibimbavada.md) · teachers: [Abhinavagupta](../teachers/abhinavagupta.md) · disputes: `dsp:world-real-or-appearance`
+concepts: [The thirty-six principles (ṣaṭtriṃśat-tattva)](../concepts/thirty-six-tattvas.md), [The reflection doctrine (pratibimbavāda) of the Trika](../concepts/pratibimbavada.md) · teachers: [Abhinavagupta](../teachers/abhinavagupta.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 15 <a id="tea-paramarthasara-15"></a>
 `skeleton` · confidence high
@@ -44,7 +44,7 @@ The supreme freedom of Maheśa, which accomplishes the impossible, is the goddes
 
 _level: ultimate · standpoint: divine · path: knowledge · stage: all · types: ultimate_
 
-terms: [māyā](../terms/maya.md), [svātantrya](../terms/svatantrya.md) · teachers: [Abhinavagupta](../teachers/abhinavagupta.md) · disputes: `dsp:world-real-or-appearance`
+terms: [māyā](../terms/maya.md), [svātantrya](../terms/svatantrya.md) · teachers: [Abhinavagupta](../teachers/abhinavagupta.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 16-17 <a id="tea-paramarthasara-16-17"></a>
 `skeleton` · confidence high
@@ -71,7 +71,7 @@ The distinctions of cognition, inner controller, breath, cosmic body, body, clas
 
 _level: bridging · standpoint: absolute · path: knowledge · stage: all · types: ultimate, karma-liberation_
 
-terms: [māyā](../terms/maya.md) · teachers: [Abhinavagupta](../teachers/abhinavagupta.md) · disputes: `dsp:world-real-or-appearance`
+terms: [māyā](../terms/maya.md) · teachers: [Abhinavagupta](../teachers/abhinavagupta.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 33 <a id="tea-paramarthasara-33"></a>
 `skeleton` · confidence high
@@ -162,4 +162,4 @@ terms: [śaktipāta](../terms/saktipata.md) · concepts: [The grades of the desc
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

@@ -61,7 +61,7 @@ Here, Śāriputra, form is emptiness and emptiness is form; emptiness is not oth
 
 _level: bridging · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [śūnyatā](../terms/sunyata.md), [rūpa](../terms/rupa.md) · concepts: [Emptiness in the Perfection of Wisdom sūtras](../concepts/emptiness-prajnaparamita.md), [The two truths (satyadvaya)](../concepts/two-truths.md) · teachers: [Avalokiteśvara](../teachers/avalokitesvara.md), [Sāriputta](../teachers/sariputta.md) · disputes: `dsp:world-real-or-appearance`
+terms: [śūnyatā](../terms/sunyata.md), [rūpa](../terms/rupa.md) · concepts: [Emptiness in the Perfection of Wisdom sūtras](../concepts/emptiness-prajnaparamita.md), [The two truths (satyadvaya)](../concepts/two-truths.md) · teachers: [Avalokiteśvara](../teachers/avalokitesvara.md), [Sāriputta](../teachers/sariputta.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### s6 <a id="tea-prajnaparamita-hrdaya-s6"></a>
 `skeleton` · confidence high
@@ -111,4 +111,4 @@ terms: [mantra](../terms/mantra.md), [vidyā](../terms/vidya.md) · concepts: [D
 _Notes: Locator: s1-s10 = sentences of the local shorter-recension e-text (sources_raw/prepared/prajnaparamita-hrdaya-sanskrit-short); long.N = the longer recension._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._

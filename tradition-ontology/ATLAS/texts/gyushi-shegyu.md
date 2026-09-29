@@ -68,7 +68,7 @@ The distant cause of all disease is ignorance — the failure to understand self
 
 _level: bridging · standpoint: causal · path: knowledge, general · stage: all · types: body-layers, karma-liberation, consciousness-mind_
 
-terms: [ma rig pa](../terms/marigpa.md), [dug gsum](../terms/duk-sum.md), [nyes pa (nyepa)](../terms/nyepa.md), [avidyā](../terms/avidya.md) · concepts: [The mental origin of disease: ignorance and the three poisons](../concepts/mental-origin-of-disease.md), [The three nyepa (rlung, mkhris pa, bad kan)](../concepts/three-nyepa.md) · obstacles: [The three poisons](../obstacles/three-poisons.md), `obs:nyepa-imbalance`
+terms: [ma rig pa](../terms/marigpa.md), [dug gsum](../terms/duk-sum.md), [nyes pa (nyepa)](../terms/nyepa.md), [avidyā](../terms/avidya.md) · concepts: [The mental origin of disease: ignorance and the three poisons](../concepts/mental-origin-of-disease.md), [The three nyepa (rlung, mkhris pa, bad kan)](../concepts/three-nyepa.md) · obstacles: [The three poisons](../obstacles/three-poisons.md), [Imbalance of the three nyepa](../obstacles/nyepa-imbalance.md)
 
 ### 9 <a id="tea-gyushi-shegyu-9"></a>
 `skeleton` · confidence low
@@ -77,7 +77,7 @@ The immediate conditions that set off disease are the seasons, spirit influences
 
 _level: conventional · standpoint: causal · path: general · stage: all · types: body-layers_
 
-terms: [gdon (dön)](../terms/don-spirit.md) · obstacles: `obs:don-spirit-harm`
+terms: [gdon (dön)](../terms/don-spirit.md) · obstacles: [Spirit harm (gdon)](../obstacles/don-spirit-harm.md)
 
 ### 12 <a id="tea-gyushi-shegyu-12"></a>
 `skeleton` · confidence low
@@ -86,7 +86,7 @@ Diseases are counted as four hundred and four — a hundred and one each that ar
 
 _level: conventional · standpoint: causal · path: general, ritual · stage: all · types: body-layers, karma-liberation_
 
-obstacles: `obs:four-hundred-four-diseases`
+obstacles: [The four hundred and four diseases](../obstacles/four-hundred-four-diseases.md)
 
 ### 13 <a id="tea-gyushi-shegyu-13"></a>
 `skeleton` · confidence moderate
@@ -95,7 +95,7 @@ Daily conduct: sleep at the right time, oil massage and moderate exercise, clean
 
 _level: conventional · standpoint: ethical-social · path: action, body-breath · stage: all · types: ethics, practice_
 
-practices: `prc:sowa-rigpa-conduct`, `prc:kunye`
+practices: [Daily, seasonal and occasional conduct (spyod lam)](../practices/sowa-rigpa-conduct.md), [Kunye (bsku mnye) oil massage](../practices/kunye.md)
 
 ### 14 <a id="tea-gyushi-shegyu-14"></a>
 `skeleton` · confidence moderate
@@ -104,7 +104,7 @@ Seasonal conduct: the year has six seasons, and in each the nyepa accumulate, ar
 
 _level: conventional · standpoint: ethical-social · path: body-breath · stage: all · types: practice, body-layers_
 
-practices: `prc:sowa-rigpa-conduct`
+practices: [Daily, seasonal and occasional conduct (spyod lam)](../practices/sowa-rigpa-conduct.md)
 
 ### 15 <a id="tea-gyushi-shegyu-15"></a>
 `skeleton` · confidence moderate
@@ -113,7 +113,7 @@ Occasional conduct: the natural urges — such as hunger, thirst, sleep, sneezin
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: all · types: practice, body-layers_
 
-practices: `prc:sowa-rigpa-conduct`
+practices: [Daily, seasonal and occasional conduct (spyod lam)](../practices/sowa-rigpa-conduct.md)
 
 ### 18 <a id="tea-gyushi-shegyu-18"></a>
 `skeleton` · confidence moderate
@@ -122,7 +122,7 @@ In the right measure of food, the stomach is filled half with solid food, a quar
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: all · types: practice_
 
-practices: `prc:sowa-rigpa-diet`
+practices: [Dietary regimen by nyepa and season](../practices/sowa-rigpa-diet.md)
 
 ### 19 <a id="tea-gyushi-shegyu-19"></a>
 `skeleton` · confidence moderate
@@ -162,4 +162,4 @@ concepts: [The qualities of the physician](../concepts/physician-qualities-sowa-
 
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

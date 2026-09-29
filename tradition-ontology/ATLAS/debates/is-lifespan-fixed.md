@@ -20,4 +20,4 @@ Some: whoever dies dies at his time; the time one dies is one's fixed time.
 **The traditions' own objections:** Caraka calls 'there is no untimely death' mere words (Śā 6.28).
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:02 IST._

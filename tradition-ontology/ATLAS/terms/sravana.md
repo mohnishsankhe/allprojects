@@ -20,4 +20,4 @@
 _Notes: Bhakti hearing (of the Lord's names, qualities and deeds), distinct from the Vedāntic śravaṇa of the Upaniṣads recorded by U13/U15._
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U07-puranas, skeleton:U13-advaita, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U07-puranas, skeleton:U13-advaita, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:02 IST._

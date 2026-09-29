@@ -26,4 +26,4 @@ The Siddhānta of the upper stream is Śiva's definitive teaching; the soul rema
 **Candidate readings:** P4-stage: the Kashmirian ranking treats the three classes as graded teachings for graded hearers (cf. Kiraṇa 10.28–31 and Kāmika 1.103: one speaker, many through the hearers).; P2-standpoint: difference and non-difference as standpoints on one reality.
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:02 IST._

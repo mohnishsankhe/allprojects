@@ -38,4 +38,4 @@ terms: [oṃ](../terms/om.md)
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Gopathabrāhmaṇa, catalog:GRETIL-dev:gopatha-brahmana, https://en.wikipedia.org/wiki/Brahmana — Extant. The local text has Pūrvabhāga 1.1–1.5 and Uttarabhāga 2.1–2.6 (5 + 6 prapāṭhakas), as the entry says. 1.1.1 and the praṇava section 1.1.16–30 are text-located. The 'late, parts post-Pāṇinian' dating is the usual scholarly view (not separately web-checked).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

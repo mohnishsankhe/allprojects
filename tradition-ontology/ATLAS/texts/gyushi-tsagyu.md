@@ -61,7 +61,7 @@ Treatment is by four means — diet, behaviour, medicine and external therapy �
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: all · types: practice, body-layers_
 
-concepts: [The four methods of treatment](../concepts/four-methods-of-treatment.md) · practices: `prc:sowa-rigpa-diet`, `prc:sowa-rigpa-conduct`
+concepts: [The four methods of treatment](../concepts/four-methods-of-treatment.md) · practices: [Dietary regimen by nyepa and season](../practices/sowa-rigpa-diet.md), [Daily, seasonal and occasional conduct (spyod lam)](../practices/sowa-rigpa-conduct.md)
 
 ### 6 <a id="tea-gyushi-tsagyu-6"></a>
 `skeleton` · confidence moderate
@@ -74,4 +74,4 @@ concepts: [The tree of healing (the three trees of the Root Tantra)](../concepts
 
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

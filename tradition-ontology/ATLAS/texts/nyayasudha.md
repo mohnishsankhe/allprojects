@@ -26,8 +26,8 @@ Jayatīrtha's great commentary on Madhva's Anuvyākhyāna, the most authoritativ
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: advanced · types: dispute_
 
-terms: [māyā](../terms/maya.md), [anirvacanīya](../terms/anirvacaniya.md) · concepts: [The critique of māyā (māyāvāda-khaṇḍana)](../concepts/mayavada-khandana.md) · teachers: [Jayatīrtha](../teachers/jayatirtha.md) · disputes: `dsp:advaita-crypto-buddhism`
+terms: [māyā](../terms/maya.md), [anirvacanīya](../terms/anirvacaniya.md) · concepts: [The critique of māyā (māyāvāda-khaṇḍana)](../concepts/mayavada-khandana.md) · teachers: [Jayatīrtha](../teachers/jayatirtha.md) · disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
 
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._

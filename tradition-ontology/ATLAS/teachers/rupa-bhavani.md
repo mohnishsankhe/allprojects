@@ -12,4 +12,4 @@
 17th-century Kashmiri Śaiva yoginī and poet in the line of Lal Ded, revered as a saint; her vākhs teach inner realization of Śiva.
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

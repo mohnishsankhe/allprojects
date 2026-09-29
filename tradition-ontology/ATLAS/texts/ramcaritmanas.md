@@ -311,7 +311,7 @@ terms: [kali-yuga](../terms/kali-yuga.md) · concepts: [The dharma of the Kali a
 
 _level: bridging · standpoint: experiential · path: devotion · stage: all · types: ultimate, world-fate_
 
-concepts: [Māyā in the principal Upaniṣads](../concepts/maya.md) · teachers: [Tulsīdās](../teachers/tulsidas.md) · disputes: `dsp:world-real-or-appearance`
+concepts: [Māyā in the principal Upaniṣads](../concepts/maya.md) · teachers: [Tulsīdās](../teachers/tulsidas.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### Ayodhyā-kāṇḍa, closing section (Citrakūṭa and the sandals) <a id="tea-ramcaritmanas-2-bharata"></a>
 `skeleton` · confidence moderate
@@ -335,4 +335,4 @@ concepts: [The vernacular as sacred speech](../concepts/vernacular-as-sacred-spe
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._

@@ -30,7 +30,7 @@ _none recorded_
 _none recorded_
 
 ## Debates
-_none recorded_
+[Is the Four Tantras (rgyud bzhi) the word of the Buddha, or a treatise composed in Tibet?](../debates/gyushi-buddha-word.md)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

@@ -59,4 +59,4 @@ terms: [maṇidvīpa](../terms/manidvipa.md) · concepts: [Maṇidvīpa and Śr�
 _Notes: Devī Gītā = Skandha 7 chs. 31-40 (U06/U23 own src:devi-gita); Maṇidvīpa = Skandha 12 chs. 10-12; Navarātra vow in Skandha 3; Skandha 9 parallels the Brahmavaivarta's Prakṛti-khaṇḍa. No local e-text: chapter locators from memory (moderate/low)._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._

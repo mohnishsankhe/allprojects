@@ -15,4 +15,4 @@
 - partial: [dharma](dharma.md) — aṟam centres on inner purity and non-harm; dharma includes ritual duty
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._

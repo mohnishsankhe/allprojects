@@ -33,4 +33,4 @@ _Notes: Commentary: Mādhava's Parāśaramādhavīya._
 
 - 2026-09-28 catalog: confirmed — catalog:GRETIL-dev:parasara-smrti, catalog:DCS:Parāśarasmṛtiṭīkā — Extant; the Kali-age verse 1.24 is text-located. The date '1st millennium CE (uncertain)' is hedged and not contradicted.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

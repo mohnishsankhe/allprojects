@@ -59,4 +59,4 @@ _none recorded_
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (GRETIL, Sarup ed.), text:sources_raw/prepared/mundaka-upanisad, text:sources_raw/raw_etexts/shixA/sAdhAraNI/paniniya_shiksha.md (60 verses), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_s — All the cited passages were found: Nirukta 1.20 has the later seers who lacked direct vision and compiled the Veda and its limbs ('sākṣātkṛtadharmāṇa ṛṣayo babhūvuḥ … avare … imaṃ granthaṃ samāmnāsiṣur vedaṃ ca vedāṅgāni ca'). MuU 1.1.5 lists the six limbs under the lower knowledge. Pāṇinīya Śikṣā 41–42 has the limbs as the Veda's body and PŚ 52 the verbal thunderbolt; ŚB 1.6.3.10 has 'indraśatru'. The scholarly span (c. 600–100 BCE for the sūtra works) matches the dates in the checked source entries (Yāska, Pāṇini, Kātyāyana, Patañjali). The dating confidence stays low, as the entry itself marks it.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

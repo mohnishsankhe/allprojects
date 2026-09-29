@@ -9,4 +9,4 @@
 Initiation by the living master (or his representative), giving the names for simran and instruction in dhyān and bhajan, after the candidate has kept the vows for a period.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._

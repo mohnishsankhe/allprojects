@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The twenty-four sacred sites](twenty-four-pithas.md): Inner and outer maṇḍala. — rests on [pitha-list](../texts/cakrasamvara-tantra.md#tea-cakrasamvara-tantra-pitha-list)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._

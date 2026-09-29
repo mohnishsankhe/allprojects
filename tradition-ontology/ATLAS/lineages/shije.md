@@ -43,7 +43,7 @@ The 'Pacification' tradition brought to Tibet by the South Indian siddha Padampa
 [Āryadeva the Brahmin (bram ze Ārya de ba)](../teachers/aryadeva-brahmin.md), [Dampa Kunga (dam pa kun dga')](../teachers/dampa-kunga.md), [Kyotön Sönam Lama (skyo ston bsod nams bla ma)](../teachers/kyoton-sonam-lama.md), [Machig Labdrön (ma gcig lab sgron)](../teachers/machig-labdron.md), [Padampa Sangye (pha dam pa sangs rgyas)](../teachers/padampa-sangye.md), [Tselé Natsok Rangdröl](../teachers/tsele-natsok-rangdrol.md)
 
 ## Practices
-_none recorded_
+[Pacification practice (zhi byed)](../practices/shije-pacification.md)
 
 ## Path maps
 _none recorded_
@@ -52,4 +52,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

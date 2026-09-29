@@ -20,4 +20,4 @@ A classic Purāṇa of creation, cosmography, time, manvantaras and dynasties (w
 _Notes: chapter checked in the GRETIL e-text of the Brahmāṇḍa Purāṇa (Venkateshwara ed.)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._

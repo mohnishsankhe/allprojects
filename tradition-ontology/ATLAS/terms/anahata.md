@@ -22,4 +22,4 @@
 _Notes: In haṭha sources anāhata is also the heart-cakra; here the unstruck sound._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism, skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism, skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._

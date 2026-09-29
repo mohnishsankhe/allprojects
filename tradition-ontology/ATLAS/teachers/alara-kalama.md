@@ -11,4 +11,4 @@ A teacher of the bodhisatta who taught the attainment of the sphere of nothingne
 _Notes: Known only through Buddhist texts._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

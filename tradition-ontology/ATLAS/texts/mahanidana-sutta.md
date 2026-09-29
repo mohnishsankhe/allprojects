@@ -44,7 +44,7 @@ Ways of describing a self: as having form or formless, limited or infinite; and 
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-terms: [attā](../terms/atta.md), [vedanā](../terms/vedana.md) · concepts: [Not-self (anattā)](../concepts/anatta.md), [The Tathāgata after death](../concepts/tathagata-after-death.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Should the questions about the eternity and extent of the world, soul and body, and the Tathāgata after death be answered?](../debates/avyakata.md)
+terms: [attā](../terms/atta.md), [vedanā](../terms/vedana.md) · concepts: [Not-self (anattā)](../concepts/anatta.md), [The Tathāgata after death](../concepts/tathagata-after-death.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Should the questions about the eternity and extent of the world, soul and body, and the Tathāgata after death be answered?](../debates/avyakata.md)
 
 ### 33-36 <a id="tea-mahanidana-sutta-33-36"></a>
 `skeleton` · confidence high
@@ -59,4 +59,4 @@ terms: [ubhatobhāgavimutta](../terms/ubhatobhagavimutta.md), [paññāvimutta](
 _Notes: SuttaCentral uid dn15; Mahāsaṅgīti title 'Mahānidānasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

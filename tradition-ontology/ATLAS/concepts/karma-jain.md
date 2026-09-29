@@ -14,4 +14,4 @@
 - contrasts-with → [The store of karma (karmāśaya)](karmasaya.md): Karma here is a material substance, not only a latent impression. — rests on [8.2](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-8-2)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._

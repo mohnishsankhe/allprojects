@@ -876,4 +876,4 @@ _level: conventional · standpoint: devotional · path: sound, devotion · stage
 _Notes: Commentaries: Śrīdhara Svāmin's Bhāvārthadīpikā (src:bhavarthadipika), Madhva's Bhāgavata-tātparya-nirṇaya, Vīrarāghava, Vijayadhvaja, Vallabha's Subodhinī, Sanātana's Bṛhad-vaiṣṇava-toṣaṇī, Jīva's Krama-sandarbha, Viśvanātha's Sārārthadarśinī (owned by U13-U16 where they create them). Contains the Kapila Gītā (3.25-33) and Uddhava Gītā (11.7-29), which U06 owns. verse number checked in the local e-text (sanskrit/raw_etexts, bhAgavata-purANam/wiki; Gita Press-type numbering)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._

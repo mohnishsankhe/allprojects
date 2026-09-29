@@ -15,4 +15,4 @@
 The 8th Karmapa's commentary on Candrakīrti's Madhyamakāvatāra, presenting the Kagyu reading of Prāsaṅgika Madhyamaka (and criticizing positions of other schools).
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._

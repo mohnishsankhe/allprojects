@@ -12,4 +12,4 @@
 A sūtra teaching that the Buddha only appears to conform to worldly life (eating, washing, ageing) while being beyond the world; associated with the Pūrvaśaila (low confidence on the affiliation).
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._

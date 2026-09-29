@@ -42,4 +42,4 @@ terms: [śūnyatā](../terms/sunyata.md), [svabhāva](../terms/svabhava.md) · c
 _Notes: The list of twenty emptinesses was read in the local e-text of Kimura's vol. I-1/2._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._

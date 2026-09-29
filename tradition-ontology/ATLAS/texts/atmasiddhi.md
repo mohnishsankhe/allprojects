@@ -60,7 +60,7 @@ The soul exists, it is eternal, it is the doer of its karma, it is the enjoyer, 
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, karma-liberation_
 
-terms: [ṣaṭpada](../terms/satpada.md) · concepts: [The six fundamentals (ṣaṭpada) of Śrīmad Rājacandra](../concepts/six-fundamentals.md) · teachers: [Śrīmad Rājacandra](../teachers/srimad-rajacandra.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ṣaṭpada](../terms/satpada.md) · concepts: [The six fundamentals (ṣaṭpada) of Śrīmad Rājacandra](../concepts/six-fundamentals.md) · teachers: [Śrīmad Rājacandra](../teachers/srimad-rajacandra.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 142 <a id="tea-atmasiddhi-142"></a>
 `skeleton` · confidence moderate · _recent (post-1800)_
@@ -75,4 +75,4 @@ terms: [sadguru](../terms/sadguru.md) · concepts: [The state of the liberated (
 _Notes: Registry id. Tradition: written in one sitting for Saubhāgbhāī and a few close disciples._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._

@@ -68,7 +68,7 @@ concepts: [Fear of emptiness and its end](../concepts/fear-of-emptiness.md) · t
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, consciousness-mind_
 
-terms: [ahaṃkāra](../terms/ahamkara.md), [mamakāra](../terms/mamakara.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ahaṃkāra](../terms/ahamkara.md), [mamakāra](../terms/mamakara.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 1.35 <a id="tea-ratnavali-1-35"></a>
 `skeleton` · confidence high
@@ -121,7 +121,7 @@ Just as a plantain tree, when split apart with all its parts, is nothing at all,
 
 _level: ultimate · standpoint: analytic · path: knowledge, meditation · stage: all · types: ultimate, body-layers_
 
-concepts: [The self as a dependent designation](../concepts/self-as-dependent-designation.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [The self as a dependent designation](../concepts/self-as-dependent-designation.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 3.12-13 <a id="tea-ratnavali-3-12-13"></a>
 `skeleton` · confidence low
@@ -154,4 +154,4 @@ concepts: [Graded teaching fitted to the hearer](../concepts/graded-teaching.md)
 _Notes: Chapter 4 title confirmed from the GRETIL colophon; the other chapter titles from memory (moderate). Commentary: Ajitamitra's Ratnāvalīṭīkā (D4159)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._

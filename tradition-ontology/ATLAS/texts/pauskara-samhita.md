@@ -18,4 +18,4 @@ One of the three gems of the Pāñcarātra, in which Bhagavān instructs Pauṣk
 _Notes: Distinct from the Śaiva src:pauskara-agama._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:02 IST._

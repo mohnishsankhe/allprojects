@@ -23,8 +23,8 @@ Vacchagotta asks 'is there a self?' and 'is there no self?' and the Buddha is si
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: all · types: dispute, ultimate_
 
-concepts: [The undeclared questions](../concepts/undeclared-questions.md), [Not-self (anattā)](../concepts/anatta.md) · teachers: [Vacchagotta](../teachers/vacchagotta.md), [Ānanda](../teachers/ananda.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Should the questions about the eternity and extent of the world, soul and body, and the Tathāgata after death be answered?](../debates/avyakata.md)
+concepts: [The undeclared questions](../concepts/undeclared-questions.md), [Not-self (anattā)](../concepts/anatta.md) · teachers: [Vacchagotta](../teachers/vacchagotta.md), [Ānanda](../teachers/ananda.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Should the questions about the eternity and extent of the world, soul and body, and the Tathāgata after death be answered?](../debates/avyakata.md)
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

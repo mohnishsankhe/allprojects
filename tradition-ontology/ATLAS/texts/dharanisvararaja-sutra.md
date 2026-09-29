@@ -15,4 +15,4 @@ The Inquiry of Dhāraṇīśvararāja, on the Tathāgata's great compassion and 
 _Notes: Tibetan Toh number not verified locally (gap)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._

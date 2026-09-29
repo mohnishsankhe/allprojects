@@ -209,3 +209,31 @@ Conservative choices made without asking, with reasons. Newest last.
   - Shākya Chokden was Sakya, not Jonang.
   - Chöd is not institutionally a branch of Shije.
   - The Four Tantras have 6 + 31 + 92 + 27 = 156 chapters.
+
+## 2026-09-29 18:01 IST — Gītā ch. 13: skeleton citations shifted to this edition's numbering (fix in scripts/merge.py)
+- **The problem.** The ch13-15 merger found that skeleton units cite ch. 13 in the 700-verse numbering: U05 says so in its note on 13.1-2, and U13 cites Śaṅkara's commentary, which comments on 700 verses. The text layer follows this edition, whose extra opening verse 13.1 makes 13.N(vulgate) = 13.N+1. Seven skeleton ids (13.12, 13.18, 13.21, 13.22, 13.23, 13.26, 13.34) would otherwise have merged into different verses, and the ranges would have pointed one verse off.
+- **The fix.** For shards of phase skeleton only, the merge rewrites every id tea:bhagavad-gita:13.N[-M][/k] to 13.N+1[-M+1][/k]. It also shifts the location of the skeleton's own ch. 13 teachings, with a numbering_note. Extraction shards already use this edition's numbering and are untouched.
+  - Skeleton decisions use the merger's skeleton_id_edition field, falling back to the shifted id.
+  - Sourcing checks on skeleton entries are shifted the same way.
+  - Sourcing corrections are looked up by the id as written in the shard.
+- **Known risk.** A skeleton citation that already used this edition's numbering would now be off by one. None was found: only U05 and U13 cite ch. 13, and both use the 700-verse numbering. Future skeleton and synthesis work must cite ch. 13 in this edition's numbering; synthesis shards are not shifted.
+
+## 2026-09-29 18:01 IST — Gītā ch13-15 merger (M) decisions (reported by the merger; recorded by the orchestrator)
+- **Sentence entries.** 13.6-7 and 13.8-12 are kept: each first verse lacks a verb and the last gives the definition. B's 14.22-25 is not kept, because 14.22 has its own finite verbs; 14.23-25 is written instead. There is no span for 13.4-5 or 15.3-4.
+- **Disputes.**
+  - dsp:bhagavad-gita-ksetrajna-and-the-lord (13.3, 13.23), dsp:bhagavad-gita-jiva-as-amsa (15.7) and dsp:bhagavad-gita-aksara-purusa (15.16-18) are kept, each at low confidence with every side marked recalled; check them against the bhāṣyas in Wave 2.
+  - Links to the registry ids dsp:souls-one-or-distinct and dsp:saguna-nirguna are mapped to these three disputes.
+  - Loci passed to U50: souls-one-or-distinct at 13.3, 13.23 and 15.7; saguna-nirguna at 13.15, 14.27 and 15.16-18.
+- **Id harmonisation.**
+  - cpt:samatva → cpt:equanimity; cpt:ksara-aksara-purusottama → cpt:three-purusas; cpt:jiva-as-amsa → cpt:jiva-as-part-of-brahman.
+  - prc:avyabhicarini-bhakti → prc:ananya-bhakti; prc:prapatti → prc:saranagati.
+  - trm:mahad-brahma → trm:mahat.
+  - Compound terms folded into their base terms: trm:samatva, trm:ahankara, trm:acarya, trm:sanga, trm:parama-dhama.
+- **Homonyms not linked:** trm:mahesvara (māheśvara), trm:asakti (aśakti), trm:dvara (the Pāśupata term), cpt:nine-gated-city at 14.11, and cpt:real-and-unreal at 13.13. Term links were dropped wherever the word is not in the verse.
+- **Tags.** Descriptions are unmarked. A means and its result, and the list 13.8-12, are tagged "all". 14.21-25 is realized, with stage_native guṇātīta. 14.2 is realized. 13.26 is beginner.
+- **For S5.**
+  - Dedupes: trm:ahamkara ≈ trm:ahankara (U05 uses ahamkara); obs:manitva vs obs:mana, obs:mana-pride and obs:abhimana.
+  - Rename data/ cpt:liberation (currently "Liberation (mokṣa) in later Mīmāṃsā") to "Liberation (mokṣa)", keeping the Mīmāṃsā sense as one definition among others.
+- **Errata for the post-ch18 pass.**
+  - Misspellings: śrṛṇu (13.4), viniśicataiḥ (13.5), asakitar (13.10), bhakitar (13.11), liṃgais (14.21), bhakitayogena (14.26), parimārgitavya (15.4, missing its anusvāra).
+  - Layout: speaker headings fused at 13.2, 14.1, 14.21, 14.22 and 15.1; no line breaks in 13.2–15.20; words split across the pāda break at 15.3 and 15.5.

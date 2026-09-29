@@ -25,4 +25,4 @@ My words are dependently arisen and so empty, yet they function, as empty carts 
 **Candidate readings:** P1-level: words function conventionally without own-nature, so the statement works at the conventional level (Nāgārjuna's own answer).; P2-standpoint: from the realist's standpoint a functioning statement must be real; from the Mādhyamika's, function does not require own-nature — two standpoints, not one truth-claim.; No-thesis reading (VV 29): the Mādhyamika only shows the opponent's inconsistencies, so no self-refuting thesis is asserted.
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._

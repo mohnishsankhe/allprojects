@@ -13,4 +13,4 @@
 - corresponds-to-in-map → `pth:mahamudra-four-yogas` (interpretive): the fourth yoga of Mahāmudrā is also called non-meditation — rests on [45](../texts/kunjed-gyalpo.md#tea-kunjed-gyalpo-45)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._

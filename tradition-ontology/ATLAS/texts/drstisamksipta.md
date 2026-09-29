@@ -95,7 +95,7 @@ Deluded about their own mind, outer tīrthikas speak of a self, a primordial nat
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, ultimate_
 
-obstacles: [Dualistic grasping (gzung 'dzin)](../obstacles/dualistic-grasping.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+obstacles: [Dualistic grasping (gzung 'dzin)](../obstacles/dualistic-grasping.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 245b.1 <a id="tea-drstisamksipta-245b-1"></a>
 `skeleton` · confidence high
@@ -112,4 +112,4 @@ concepts: [View, meditation, conduct and fruition](../concepts/view-meditation-c
 _Notes: Tōh 2304._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._

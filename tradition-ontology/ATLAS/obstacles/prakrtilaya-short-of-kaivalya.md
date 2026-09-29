@@ -16,4 +16,4 @@ The bodiless and those merged in prakṛti experience a state 'as if' of kaivaly
 _Notes: Framed as an obstacle by this unit on the basis of YBh 1.15 and 1.19; the sūtra itself only states the cause of their state._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:02 IST._

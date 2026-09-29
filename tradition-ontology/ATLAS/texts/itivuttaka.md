@@ -60,8 +60,8 @@ Held by two kinds of views some gods and humans hold back, some overreach, and t
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, ultimate_
 
-terms: [bhavataṇhā](../terms/bhavatanha.md), [vibhavataṇhā](../terms/vibhavatanha.md) · concepts: [The middle way](../concepts/middle-way.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [bhavataṇhā](../terms/bhavatanha.md), [vibhavataṇhā](../terms/vibhavatanha.md) · concepts: [The middle way](../concepts/middle-way.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

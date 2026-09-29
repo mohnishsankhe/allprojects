@@ -14,4 +14,4 @@
 Nīlakaṇṭha's standard Tājika text in two tantras — the Saṃjñātantra (definitions: aspects, the sixteen yogas, sahamas) and the Varṣatantra (annual revolutions) — with a Praśnatantra.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._

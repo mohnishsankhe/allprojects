@@ -19,4 +19,4 @@ The meditator goes to a corpse of this kind, having informed the senior monk and
 - partial: [Contemplation of the unlovely (aśubhā-bhāvanā)](asubha-bhavana.md) — the sutta practice of foulness (U36); the Visuddhimagga's ten corpse-subjects are one of its forms
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._

@@ -15,4 +15,4 @@ In the fourth stage he lives in the cremation ground, in the open or at the foot
 **Sequences:** [The five stages of the Pāśupata path (avasthā-pañcaka)](../paths/pasupata-five-stages.md)
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:02 IST._

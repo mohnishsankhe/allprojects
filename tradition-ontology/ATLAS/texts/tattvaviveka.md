@@ -53,7 +53,7 @@ A thing's form (rūpa) is of two kinds: that which lasts as long as the thing, a
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: world-fate_
 
-terms: [bheda](../terms/bheda.md), [viśeṣa](../terms/visesa.md) · concepts: [Viśeṣa — the 'substitute for difference' (Madhva)](../concepts/visesa-dvaita.md), [Difference as the nature of things (bheda = svarūpa)](../concepts/bheda-svarupa.md) · disputes: `dsp:causation`
+terms: [bheda](../terms/bheda.md), [viśeṣa](../terms/visesa.md) · concepts: [Viśeṣa — the 'substitute for difference' (Madhva)](../concepts/visesa-dvaita.md), [Difference as the nature of things (bheda = svarūpa)](../concepts/bheda-svarupa.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 13 <a id="tea-tattvaviveka-13"></a>
 `skeleton` · confidence high
@@ -70,4 +70,4 @@ terms: [paratantra (asvatantra)](../terms/paratantra.md), [Hari](../terms/hari.m
 _Notes: All thirteen verses checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._

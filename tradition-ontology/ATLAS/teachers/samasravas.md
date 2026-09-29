@@ -13,4 +13,4 @@ Yājñavalkya's pupil, told to drive home Janaka's thousand cows (BAU 3.1.2).
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — Located: BĀU 3.1.2 ('svam eva brahmacāriṇam uvācaitāḥ somyodaja sāmaśravā3 iti').
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._

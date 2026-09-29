@@ -17,4 +17,4 @@
 Kannada Vīraśaiva poet of Hampi who created the ragaḷe form for lives of the śaraṇas and of the ancient Śaiva devotees (purātanas), and wrote the Girijākalyāṇa.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._

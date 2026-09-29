@@ -12,4 +12,4 @@
 Journalist of Kumarkhali (Grāmbārtā Prakāśikā) and composer of Bāul-style songs as 'Phikir Cāṃd'; acquainted with Lalon.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._

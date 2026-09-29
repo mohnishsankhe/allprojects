@@ -11,4 +11,4 @@
 Digambara teacher at the Candra cave of Girinagar (Girnār) who knew part of the Pūrvas; fearing the loss of scripture he summoned two monks, tested them with defective spells which they corrected, and taught them the Karmaprābhṛta, which they set down as the Ṣaṭkhaṇḍāgama.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._

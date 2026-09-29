@@ -26,8 +26,8 @@ Nārāyaṇa has countless qualities, an eternal form and no defects. Ignorance 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, ultimate_
 
-terms: [upādhi](../terms/upadhi.md), [avidyā](../terms/avidya.md) · concepts: [The critique of māyā (māyāvāda-khaṇḍana)](../concepts/mayavada-khandana.md) · disputes: `dsp:souls-one-or-distinct`
+terms: [upādhi](../terms/upadhi.md), [avidyā](../terms/avidya.md) · concepts: [The critique of māyā (māyāvāda-khaṇḍana)](../concepts/mayavada-khandana.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._

@@ -131,4 +131,4 @@ terms: [manvantara](../terms/manvantara.md), [mamatā](../terms/mamata.md) · co
 _Notes: Recited with ancillary texts (aṅgas): Kavaca, Argalā, Kīlaka before, and the three Rahasyas (Prādhānika, Vaikṛtika, Mūrti) after; the naming of the three caritas' deities as Mahākālī, Mahālakṣmī and Mahāsarasvatī comes from the dhyāna verses and the Rahasyas, not from the 13 chapters themselves. Commentaries include Bhāskararāya's Guptavatī (src:guptavati) and the Śāntanavī. Śākta theology shared with U23. verse number checked in the GRETIL/Sansknet e-text of the MkP (chs. 1-93; Devī Māhātmya = MkP 81-93 in this numbering)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._

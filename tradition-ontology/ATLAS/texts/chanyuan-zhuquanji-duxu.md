@@ -16,7 +16,7 @@ Zongmi's preface (c. 833) to his lost anthology of Chan writings: correlates thr
 **Editions / translations:** 
   - kind: original; name: CBETA XML P5, Taishō T48n2015 (Chanyuan zhuquanji duxu 禪源諸詮集都序); local copy sources_raw/cbeta/T/T48/T48n2015.xml; licence: CBETA (CC BY-NC-SA 3.0 TW) — quotation with attribution
 
-## Teachings (2: skeleton 2)
+## Teachings (4: skeleton 4)
 
 ### 402c28 <a id="tea-chanyuan-zhuquanji-duxu-402c28"></a>
 `skeleton` · confidence high
@@ -40,8 +40,30 @@ _level: conventional · standpoint: seeker · path: general · stage: all · typ
 
 concepts: [Mind-to-mind transmission](../concepts/mind-to-mind-transmission.md), [Empty and calm, numinous awareness](../concepts/numinous-awareness.md) · teachers: [Guifeng Zongmi 圭峰宗密](../teachers/zongmi.md), [Heze Shenhui 荷澤神會](../teachers/shenhui.md)
 
+### T48n2015 p.402a10-a19 <a id="tea-chanyuan-zhuquanji-duxu-402a10"></a>
+`skeleton` · confidence high
+
+The ninth of Zongmi's reasons for harmonising Chan and the teachings: awakening and cultivation, sudden and gradual, seem opposed but accord. Sūtras, treatises and Chan houses variously say: first gradual cultivation, then sudden awakening; first sudden awakening, then gradual cultivation; sudden cultivation giving gradual awakening; both gradual; both sudden; or 'the Dharma has no sudden or gradual — sudden and gradual lie in the faculties'. Each has its meaning. They seem opposed — if awakening is buddhahood without afflictions, why cultivate; if cultivation is still needed, how is it sudden? — but when matched properly, sudden and gradual not only do not conflict, they support one another.
+
+> 九悟修頓漸似反而符者。謂諸經論及諸禪門。或云先因漸修功成。豁然頓悟。或云先須頓悟方可漸修。 … 即頓漸非唯不相乖。反而乃互相資也。
+
+_level: conventional · standpoint: analytic · path: meditation, knowledge · stage: all · types: practice, dispute_
+
+teachers: [Guifeng Zongmi 圭峰宗密](../teachers/zongmi.md) · disputes: `dsp:sudden-or-gradual`
+
+### T48n2015 p.408a02-a15 <a id="tea-chanyuan-zhuquanji-duxu-408a02"></a>
+`skeleton` · confidence high
+
+If one cultivates on the basis of awakening, it is understanding-awakening; if one awakens on the basis of cultivation, it is realization-awakening. Considered over past lives there is only the gradual and no sudden: what is seen suddenly now has been brought forth by many lives of gradual perfuming. 'The Dharma has no sudden or gradual; sudden and gradual lie in the faculties' — this is true. Of the combinations, only 'first sudden awakening, then gradual cultivation' seems contradictory; to remove the doubt: the sun appears at once but frost and dew melt gradually; a child is born at once but its will and strength are established gradually.
+
+> 若因悟而修。即是解悟。若因修而悟。即是證悟。 … 於中唯云先頓悟後漸修。似違反也。欲絕疑者。豈不見日光頓出霜露漸消。
+
+_level: conventional · standpoint: analytic · path: meditation, knowledge · stage: all (解悟 understanding-awakening / 證悟 realization-awakening) · types: practice, dispute_
+
+teachers: [Guifeng Zongmi 圭峰宗密](../teachers/zongmi.md) · disputes: `dsp:sudden-or-gradual`, [Sudden awakening followed by gradual cultivation (Jinul) or sudden awakening with sudden cultivation (Seongcheol)?](../debates/seon-sudden-cultivation-debate.md)
+
 
 _Notes: Zongmi is owned by U54 (Huayan); this entry contributes the Chan side. One of the four texts of the Korean curriculum (Doseo)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

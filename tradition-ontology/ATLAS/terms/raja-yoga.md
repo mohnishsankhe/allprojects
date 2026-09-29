@@ -18,4 +18,4 @@
 **Related:** [haṭha](hatha.md), [samādhi](samadhi.md), [unmanī](unmani.md), [amanaska](amanaska.md)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:02 IST._

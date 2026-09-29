@@ -46,7 +46,7 @@ The 19th-century non-sectarian (ris med) movement of eastern Tibet led by Jamyan
 [Adzom Drukpa Natsok Rangdrol (a 'dzom 'brug pa)](../teachers/adzom-drukpa.md), [Chokgyur Dechen Lingpa (mchog gyur bde chen gling pa)](../teachers/chokgyur-lingpa.md), [Dilgo Khyentse Rinpoche Tashi Paljor (dil mgo mkhyen brtse)](../teachers/dilgo-khyentse.md), [Jamgön Kongtrul Lodrö Thayé ('jam mgon kong sprul blo gros mtha' yas)](../teachers/jamgon-kongtrul.md), [Jamyang Khyentse Chökyi Lodrö ('jam dbyangs mkhyen brtse chos kyi blo gros)](../teachers/jamyang-khyentse-chokyi-lodro.md), [Jamyang Khyentse Wangpo ('jam dbyangs mkhyen brtse'i dbang po)](../teachers/jamyang-khyentse-wangpo.md), [Jamyang Loter Wangpo ('jam dbyangs blo gter dbang po)](../teachers/jamyang-loter-wangpo.md), [Khakhyab Dorje, the fifteenth Karmapa](../teachers/khakhyab-dorje.md), [Khenpo Shenga (Shenphen Chökyi Nangwa, gzhan phan chos kyi snang ba)](../teachers/khenpo-shenga.md), [Mipham Jamyang Namgyal Gyatso ('ju mi pham)](../teachers/mipham.md), [Patrul Rinpoche (dpal sprul o rgyan 'jigs med chos kyi dbang po)](../teachers/patrul-rinpoche.md), [Shechen Gyaltsap Gyurme Pema Namgyal (zhe chen rgyal tshab 'gyur med pad+ma rnam rgyal)](../teachers/shechen-gyaltsap.md), [Tertön Sogyal Lerab Lingpa (gter ston bsod rgyal las rab gling pa)](../teachers/terton-sogyal.md)
 
 ## Practices
-_none recorded_
+[Chöd: the visualized offering of the body (lus sbyin)](../practices/chod.md), [The three-year retreat in Kongtrul's system](../practices/three-year-retreat-kongtrul.md)
 
 ## Path maps
 _none recorded_
@@ -57,4 +57,4 @@ _none recorded_
 _Notes: The tradition itself presents Rimé as an attitude and a programme of preservation, not as a new school; lineage membership stays with the teachers' own schools._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

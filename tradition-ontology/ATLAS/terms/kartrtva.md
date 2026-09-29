@@ -20,4 +20,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.14, tea:bhagavad-gita:5.8, tea:bhagavad-gita:5.9 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch04-06, skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: extraction:bhagavad-gita/ch04-06, skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

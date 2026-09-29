@@ -37,4 +37,4 @@ concepts: [The nature and rank of Śrī](../concepts/sri-tattva.md) · teachers:
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._

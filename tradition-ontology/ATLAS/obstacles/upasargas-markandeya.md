@@ -13,4 +13,4 @@ After the self is seen: longings for ritual rewards, women, heaven, divinity, el
   - [Mārkaṇḍeya Purāṇa](../texts/markandeya-purana.md) — ref: 40.1-13; rests_on: ["tea:markandeya-purana:40.1-13"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._

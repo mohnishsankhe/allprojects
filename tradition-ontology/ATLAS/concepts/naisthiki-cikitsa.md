@@ -13,4 +13,4 @@
 - leads-to → [Liberation (mokṣa) in Caraka](moksa-in-caraka.md) — rests on [sa.1.94-97](../texts/caraka-samhita.md#tea-caraka-samhita-sa-1-94-97)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:02 IST._

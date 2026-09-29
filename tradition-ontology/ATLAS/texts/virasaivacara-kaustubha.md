@@ -14,4 +14,4 @@ A Sanskrit manual of Vīraśaiva conduct (ācāra) for those devoted to its obse
   - kind: original; name: Muktabodha digital library e-text M00683
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._

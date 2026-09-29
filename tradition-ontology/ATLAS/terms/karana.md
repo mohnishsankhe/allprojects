@@ -20,4 +20,4 @@
 **Related:** [antaḥkaraṇa](antahkarana.md), [bāhyakaraṇa](bahyakarana.md), [pati](pati.md), [mudrā](mudra.md), [viparītakaraṇī](viparitakarani.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U17-pasupata-kapalika, skeleton:U28-hatha-texts. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U17-pasupata-kapalika, skeleton:U28-hatha-texts. Generated 2026-09-29 18:02 IST._

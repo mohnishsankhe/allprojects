@@ -13,4 +13,4 @@ Knowing 'I am walking', 'standing', 'sitting', 'lying down' however the body is 
   - [Satipaṭṭhāna Sutta](../texts/satipatthana-sutta.md) — ref: 6-9; rests_on: ["tea:satipatthana-sutta:6-9"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

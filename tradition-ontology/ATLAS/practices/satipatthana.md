@@ -23,4 +23,4 @@ Abiding contemplating the body in the body, feelings in feelings, mind in mind a
 - partial: [The four applications of mindfulness (Kośa method)](smrtyupasthana-abhidharmakosa.md) — the same four contemplations as systematised in the Sarvāstivāda Abhidharmakośa (U38)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

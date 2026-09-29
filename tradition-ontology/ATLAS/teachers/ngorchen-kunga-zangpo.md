@@ -11,4 +11,4 @@
 Founder of Ngor Evaṃ Chöden (1429) and of the Ngor sub-school; great upholder of the Lamdre and of the Vinaya; he travelled three times to Mustang.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._

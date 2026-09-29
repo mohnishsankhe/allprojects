@@ -10,7 +10,7 @@ Learn knowledge from those who have seen the truth by prostrating before them, q
 **Stage:** beginner
 **Signs of progress:** ['no further delusion; seeing all beings in the self and in the Lord (4.35)']
 **Sources:** 
-  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 4.34; 13.7; rests_on: ["tea:bhagavad-gita:4.34", "tea:bhagavad-gita:13.7-11"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 4.34; 13.7; rests_on: ["tea:bhagavad-gita:4.34", "tea:bhagavad-gita:13.8-12"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 4.34; rests_on: ["tea:bhagavad-gita:4.34"]
 
 ---
@@ -18,4 +18,4 @@ Learn knowledge from those who have seen the truth by prostrating before them, q
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.34 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 18:02 IST._

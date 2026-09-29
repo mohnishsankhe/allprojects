@@ -24,7 +24,7 @@ The world is false (mithyā) because it is seen, insentient and limited, like th
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: all · types: world-fate, dispute_
 
-terms: [mithyā](../terms/mithya.md) · concepts: [Falsity of the world (mithyātva)](../concepts/mithyatva.md), [Shell and silver](../concepts/shell-silver.md) · teachers: [Madhusūdana Sarasvatī](../teachers/madhusudana-sarasvati.md) · disputes: `dsp:world-real-or-appearance`
+terms: [mithyā](../terms/mithya.md) · concepts: [Falsity of the world (mithyātva)](../concepts/mithyatva.md), [Shell and silver](../concepts/shell-silver.md) · teachers: [Madhusūdana Sarasvatī](../teachers/madhusudana-sarasvati.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 1 <a id="tea-advaitasiddhi-1-2"></a>
 `skeleton` · confidence moderate
@@ -48,4 +48,4 @@ terms: [akhaṇḍārtha](../terms/akhandartha.md) · concepts: [The great sayin
 _Notes: The debate continued: Rāmācārya's Taraṅgiṇī (Dvaita) answered it; Brahmānanda Sarasvatī's Laghucandrikā (Gauḍa-Brahmānandī) replied to the Taraṅgiṇī._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._

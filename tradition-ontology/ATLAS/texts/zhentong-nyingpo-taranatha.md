@@ -25,7 +25,7 @@ Of the three natures, the imputational (kun btags) does not exist even conventio
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, consciousness-mind_
 
-terms: [pariniṣpanna](../terms/parinispanna.md), [paratantra (asvatantra)](../terms/paratantra.md), [parikalpita](../terms/parikalpita.md), [gzhan stong (zhentong)](../terms/zhentong.md), [rang stong (rangtong)](../terms/rangtong.md) · concepts: [The three natures (sūtra layer)](../concepts/three-natures.md), [Other-emptiness (gzhan stong)](../concepts/zhentong.md) · teachers: [Tāranātha (Jetsün Kunga Nyingpo, rje btsun kun dga' snying po)](../teachers/taranatha.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
+terms: [pariniṣpanna](../terms/parinispanna.md), [paratantra (asvatantra)](../terms/paratantra.md), [parikalpita](../terms/parikalpita.md), [gzhan stong (zhentong)](../terms/zhentong.md), [rang stong](../terms/rangtong.md) · concepts: [The three natures (sūtra layer)](../concepts/three-natures.md), [Other-emptiness (gzhan stong)](../concepts/zhentong.md) · teachers: [Tāranātha (Jetsün Kunga Nyingpo, rje btsun kun dga' snying po)](../teachers/taranatha.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
 
 ### ultimate <a id="tea-zhentong-nyingpo-taranatha-ultimate"></a>
 `skeleton` · confidence moderate
@@ -38,4 +38,4 @@ terms: [rang rig ye shes](../terms/rangrig-yeshe.md), [pariniṣpanna](../terms/
 
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

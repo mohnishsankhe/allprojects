@@ -15,4 +15,4 @@
 _Notes: Sources: src:bsdus-grwa, src:lorig, src:tarig, src:gelug-yigcha, src:abhisamayalamkara, src:madhyamakavatara, src:pramanavarttika, src:abhidharmakosa, src:vinayasutra-gunaprabha._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._

@@ -12,4 +12,4 @@ Repeat and contemplate the one syllable Oṃ: its three measures (a, u, m) and t
 **Sequences:** [Dattātreya's yoga for Alarka (MkP 38-43)](../paths/markandeya-dattatreya-yoga.md)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._

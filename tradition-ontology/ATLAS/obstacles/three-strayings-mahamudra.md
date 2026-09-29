@@ -15,4 +15,4 @@ Attachment to the meditative experiences of bliss, clarity and non-thought, whic
 - partial: [Relishing the taste of meditation without skillful means](attachment-to-meditative-taste.md) — relishing meditative states is the common fault; the Kagyu maps each state to a realm
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._

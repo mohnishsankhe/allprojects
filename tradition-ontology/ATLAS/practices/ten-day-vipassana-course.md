@@ -14,4 +14,4 @@ A residential course in noble silence: taking refuge and the five precepts, surr
   - [The Discourse Summaries (S. N. Goenka)](../texts/discourse-summaries-goenka.md) — ref: day10; rests_on: ["tea:discourse-summaries-goenka:day10"]
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._

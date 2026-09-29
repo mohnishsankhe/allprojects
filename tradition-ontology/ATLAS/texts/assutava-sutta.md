@@ -24,10 +24,10 @@ It would be better for the uninstructed to take the body as self than the mind, 
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind, dispute_
 
-terms: [citta](../terms/citta.md), [mano](../terms/mano.md), [viññāṇa](../terms/vinnana.md) · concepts: [Not-self (anattā)](../concepts/anatta.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [citta](../terms/citta.md), [mano](../terms/mano.md), [viññāṇa](../terms/vinnana.md) · concepts: [Not-self (anattā)](../concepts/anatta.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 
 _Notes: SuttaCentral uid sn12.61; Mahāsaṅgīti title 'Assutavāsutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

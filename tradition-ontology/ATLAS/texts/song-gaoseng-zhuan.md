@@ -17,4 +17,4 @@ Zanning's biographical collection (988), including many Tang Chan masters.
   - kind: original; name: CBETA XML P5, Taishō T50n2061 (T50n2061); local copy sources_raw/cbeta/T/T50/T50n2061.xml; licence: CBETA (CC BY-NC-SA 3.0 TW) — quotation with attribution
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

@@ -14,4 +14,4 @@
 - contrasts-with → [The nine forms of devotion](navadha-bhakti.md): differs from the Bhāgavata's nine forms (hearing, singing, remembering, serving the feet, worship, bowing, servitude, friendship, self-offering) — rests on [3.10.22-27](../texts/adhyatma-ramayana.md#tea-adhyatma-ramayana-3-10-22-27)
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._

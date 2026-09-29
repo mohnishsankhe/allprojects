@@ -10,4 +10,4 @@
 The merchant's son of the Gaṇḍavyūha who, sent by Mañjuśrī, visits over fifty spiritual friends, enters Maitreya's tower and merges with Samantabhadra; model of the seeker in one life (Huayan: the fifty-three stages).
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._

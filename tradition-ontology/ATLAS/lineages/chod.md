@@ -49,15 +49,15 @@ The practice tradition of 'cutting' ego-clinging founded by the Tibetan woman ma
 [Āryadeva the Brahmin (bram ze Ārya de ba)](../teachers/aryadeva-brahmin.md), [Gyalwa Döndrub (rgyal ba don grub)](../teachers/gyalwa-dondrub.md), [Jamgön Kongtrul Lodrö Thayé ('jam mgon kong sprul blo gros mtha' yas)](../teachers/jamgon-kongtrul.md), [Jigme Lingpa (rig 'dzin 'jigs med gling pa)](../teachers/jigme-lingpa.md), [Kyotön Sönam Lama (skyo ston bsod nams bla ma)](../teachers/kyoton-sonam-lama.md), [Machig Labdrön (ma gcig lab sgron)](../teachers/machig-labdron.md), [Padampa Sangye (pha dam pa sangs rgyas)](../teachers/padampa-sangye.md), [Patrul Rinpoche (dpal sprul o rgyan 'jigs med chos kyi dbang po)](../teachers/patrul-rinpoche.md), [Rangjung Dorje, the third Karmapa](../teachers/rangjung-dorje.md), [Thöpa Bhadra (thod pa bha dra)](../teachers/thopa-bhadra.md), [Tönyön Samdrub (thod smyon bsam grub)](../teachers/tonyon-samdrub.md)
 
 ## Practices
-_none recorded_
+[Chöd: the visualized offering of the body (lus sbyin)](../practices/chod.md), [Chöd practice in charnel grounds and haunted places](../practices/chod-in-haunted-places.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[Is Chöd — a practice first taught by a Tibetan woman and concerned with spirits and the gift of the body — authentic Buddhadharma with an Indian source?](../debates/chod-orthodoxy.md)
 
 _Notes: Restricted content: the body-offering is recorded here only as summary with the tradition's own warnings (see prc:chod)._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

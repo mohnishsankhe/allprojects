@@ -19,4 +19,4 @@
 The chapter proceeds 'ataḥ ūrdhvam' (further upward) from centre to centre; ordering is the text's, stage names and bands are U21's.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:02 IST._

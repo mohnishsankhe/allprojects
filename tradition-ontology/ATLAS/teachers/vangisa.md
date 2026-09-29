@@ -10,4 +10,4 @@ The poet-monk, foremost in inspired speech, whose verses fill SN 8 and Thag 21.1
 _Notes: AN 1 Etadaggavagga (the 'foremost' lists)_
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

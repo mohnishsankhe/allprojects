@@ -17,4 +17,4 @@
 _Notes: Known from Tibetan (Kagyu) transmission; not found in the Tengyur texts of Tilopa read locally (Tōh 2281, 2303, 2330). Wording and order recalled; U46 owns the Tibetan context._
 
 ---
-_Contributed by: skeleton:U46-kagyu, skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U46-kagyu, skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._

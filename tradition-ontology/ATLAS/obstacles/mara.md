@@ -17,4 +17,4 @@ The Evil One, who tempts and threatens practitioners and finds his opening in th
   - [Therīgāthā](../texts/therigatha.md) — ref: 6.3; rests_on: ["tea:therigatha:6.3"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

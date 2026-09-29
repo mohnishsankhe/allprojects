@@ -14,4 +14,4 @@
 A 20th-century history of the Jonang tradition and its lineage in Amdo by Ngawang Lodrö Drakpa.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

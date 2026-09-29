@@ -18,4 +18,4 @@ Entry into the order from a guru in stages: the cutting of the top-knot with the
 - The would-be disciple is warned of the hardship of the yogī's life before initiation (as depicted in Hīr). — [Hīr (Wāris Shāh)](../texts/hir-waris-shah.md) Tilla episode
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:02 IST._

@@ -11,4 +11,4 @@
 Bengali pandit who compiled the Prāṇatoṣiṇī, a vast compendium of tantric passages (c. 1820).
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._

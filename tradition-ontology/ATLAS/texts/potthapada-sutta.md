@@ -33,7 +33,7 @@ Asked whether perception is a person's self, the Buddha shows that for any self 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, ultimate_
 
-terms: [avyākata](../terms/avyakata.md), [attā](../terms/atta.md) · concepts: [The undeclared questions](../concepts/undeclared-questions.md) · disputes: [Should the questions about the eternity and extent of the world, soul and body, and the Tathāgata after death be answered?](../debates/avyakata.md), [Is there a self?](../debates/is-there-a-self.md)
+terms: [avyākata](../terms/avyakata.md), [attā](../terms/atta.md) · concepts: [The undeclared questions](../concepts/undeclared-questions.md) · disputes: [Should the questions about the eternity and extent of the world, soul and body, and the Tathāgata after death be answered?](../debates/avyakata.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 39-53 <a id="tea-potthapada-sutta-39-53"></a>
 `skeleton` · confidence high
@@ -42,7 +42,7 @@ Three kinds of acquired self (attapaṭilābha) — gross, mind-made and formles
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: ultimate, sound-language_
 
-terms: [sammuti](../terms/sammuti.md), [attā](../terms/atta.md) · concepts: [Convention and the ultimate sense](../concepts/conventional-expression.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [sammuti](../terms/sammuti.md), [attā](../terms/atta.md) · concepts: [Convention and the ultimate sense](../concepts/conventional-expression.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 53.5 <a id="tea-potthapada-sutta-53-5"></a>
 `skeleton` · confidence high
@@ -59,4 +59,4 @@ terms: [sammuti](../terms/sammuti.md) · concepts: [Convention and the ultimate 
 _Notes: SuttaCentral uid dn9; Mahāsaṅgīti title 'Poṭṭhapādasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

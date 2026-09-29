@@ -42,7 +42,7 @@ Asked his name, Nāgasena says he is known as 'Nāgasena' but that no person is 
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: ultimate, dispute_
 
-terms: [sammuti](../terms/sammuti.md), [paramattha](../terms/paramattha.md), [puggala](../terms/puggala.md) · concepts: [Convention and the ultimate sense](../concepts/conventional-expression.md), [Not-self (anattā)](../concepts/anatta.md) · teachers: [Nāgasena](../teachers/nagasena.md), [Milinda](../teachers/milinda.md), [Vajirā](../teachers/vajira-theri.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [sammuti](../terms/sammuti.md), [paramattha](../terms/paramattha.md), [puggala](../terms/puggala.md) · concepts: [Convention and the ultimate sense](../concepts/conventional-expression.md), [Not-self (anattā)](../concepts/anatta.md) · teachers: [Nāgasena](../teachers/nagasena.md), [Milinda](../teachers/milinda.md), [Vajirā](../teachers/vajira-theri.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 3.1.1/2 <a id="tea-milindapanha-3-1-1-2"></a>
 `skeleton` · confidence high
@@ -59,4 +59,4 @@ terms: [paramattha](../terms/paramattha.md), [sammuti](../terms/sammuti.md) · c
 _Notes: Section numbers follow SuttaCentral (bilara) segmentation; checked against the local e-text._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._

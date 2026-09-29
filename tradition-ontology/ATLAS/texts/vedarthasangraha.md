@@ -33,7 +33,7 @@ Rāmānuja rejects three rival readings of the Upaniṣads: that of Śaṅkara (
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, ultimate_
 
-teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: `dsp:world-real-or-appearance`, [Is Advaita's avidyā — beginningless, indescribable, located in and concealing Brahman — tenable?](../debates/avidya-saptavidha-anupapatti.md)
+teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), [Is Advaita's avidyā — beginningless, indescribable, located in and concealing Brahman — tenable?](../debates/avidya-saptavidha-anupapatti.md)
 
 ### opening prose (the purport of the Upaniṣads) <a id="tea-vedarthasangraha-purport"></a>
 `skeleton` · confidence moderate
@@ -51,7 +51,7 @@ In 'tat tvam asi' both words denote Brahman: 'that' denotes Brahman as the omnis
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, dispute_
 
-terms: [sāmānādhikaraṇya](../terms/samanadhikaranya.md) · concepts: [Co-reference (sāmānādhikaraṇya)](../concepts/samanadhikaranya.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [What does 'tat tvam asi' (Chāndogya Upaniṣad 6.8.7) teach — identity of soul and Brahman, or something else?](../debates/tat-tvam-asi.md), `dsp:souls-one-or-distinct`
+terms: [sāmānādhikaraṇya](../terms/samanadhikaranya.md) · concepts: [Co-reference (sāmānādhikaraṇya)](../concepts/samanadhikaranya.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [What does 'tat tvam asi' (Chāndogya Upaniṣad 6.8.7) teach — identity of soul and Brahman, or something else?](../debates/tat-tvam-asi.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### section on Nārāyaṇa's supremacy <a id="tea-vedarthasangraha-narayana-supreme"></a>
 `skeleton` · confidence moderate
@@ -87,8 +87,8 @@ Scripture has texts of difference (bheda-śruti), texts of non-difference (abhed
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, sound-language_
 
-terms: [ghaṭaka-śruti](../terms/ghataka-sruti.md), [śarīra](../terms/sarira.md) · concepts: [Texts of difference, non-difference and mediation](../concepts/three-kinds-of-sruti.md), [The body–self relation of world and God (śarīra–śarīrin)](../concepts/sarira-sariri-bhava.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: `dsp:souls-one-or-distinct`
+terms: [ghaṭaka-śruti](../terms/ghataka-sruti.md), [śarīra](../terms/sarira.md) · concepts: [Texts of difference, non-difference and mediation](../concepts/three-kinds-of-sruti.md), [The body–self relation of world and God (śarīra–śarīrin)](../concepts/sarira-sariri-bhava.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._

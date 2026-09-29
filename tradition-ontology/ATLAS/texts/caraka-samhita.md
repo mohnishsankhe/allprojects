@@ -214,7 +214,7 @@ If the person did not exist there would be no light and darkness, truth and fals
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-concepts: [The self (ātman) in Caraka](../concepts/self-in-caraka.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [The self (ātman) in Caraka](../concepts/self-in-caraka.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### sa.1.46-51 <a id="tea-caraka-samhita-sa-1-46-51"></a>
 `skeleton` · confidence high
@@ -223,7 +223,7 @@ Some hold that the aggregate of momentary things, without a lord, called sattva,
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-concepts: [The self (ātman) in Caraka](../concepts/self-in-caraka.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [The self (ātman) in Caraka](../concepts/self-in-caraka.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### sa.1.52-55 <a id="tea-caraka-samhita-sa-1-52-55"></a>
 `skeleton` · confidence high
@@ -1534,4 +1534,4 @@ terms: [sattva](../terms/sattva.md) · concepts: [Strength of mind (three grades
 _Notes: Refs in this unit: sthāna abbreviation + chapter.verse (su = Sūtra, ni = Nidāna, vi = Vimāna, sa = Śārīra, in = Indriya, ci = Cikitsā, ka = Kalpa, si = Siddhi); Ci 1 has four pādas (ci.1.4.30 = Cikitsā 1, pāda 4, verse 30)._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:02 IST._

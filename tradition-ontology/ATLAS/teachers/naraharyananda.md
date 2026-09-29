@@ -9,4 +9,4 @@
 One of Rāmānanda's twelve disciples named in the Bhaktamāl; sometimes confused with Tulsīdās's guru Narharidās.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._

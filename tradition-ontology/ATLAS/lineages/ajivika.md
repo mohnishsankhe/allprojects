@@ -55,4 +55,4 @@ The Ājīvikas were a naked ascetic order of Gosāla Maṅkhaliputta and his pre
 _Notes: Everything doctrinal is reported_by_opponent. Scholarly metadata: Aśoka's Barābar caves (12th and 19th regnal years) and Daśaratha's Nāgārjunī caves were dedicated to the Ājīvikas; Pillar Edict 7 names them among the orders supervised by the dhamma-mahāmātras; Tamil inscriptions record a tax on Ājīvikas (ācīvakak-kācu) into the Cōḻa period (exact latest date not recalled — gap)._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._

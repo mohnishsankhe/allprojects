@@ -799,7 +799,7 @@ na caiva na bhaviṣyāmaḥ sarve vayamataḥ param
 
 _level: ultimate · standpoint: substance · path: knowledge · stage: all · types: ultimate, death-dying_
 
-concepts: [The eternal, unslayable embodied one (dehin / śarīrin)](../concepts/imperishable-embodied-self.md), [The self](../concepts/the-self.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: `dsp:souls-one-or-distinct`
+concepts: [The eternal, unslayable embodied one (dehin / śarīrin)](../concepts/imperishable-embodied-self.md), [The self](../concepts/the-self.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 2.13 <a id="tea-bhagavad-gita-2-13"></a>
 `text-verified` · confidence high
@@ -858,7 +858,7 @@ ubhayorapi dṛṣṭo'ntastvanayostattvadarśibhiḥ
 
 _level: bridging · standpoint: substance · path: knowledge · stage: all · types: ultimate_
 
-terms: [sat](../terms/sat.md), [asat](../terms/asat.md), [tattvadarśin](../terms/tattvadarsin.md) · concepts: [The real (sat) and the unreal (asat)](../concepts/real-and-unreal.md), [The self](../concepts/the-self.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: `dsp:world-real-or-appearance`, `dsp:causation`
+terms: [sat](../terms/sat.md), [asat](../terms/asat.md), [tattvadarśin](../terms/tattvadarsin.md) · concepts: [The real (sat) and the unreal (asat)](../concepts/real-and-unreal.md), [The self](../concepts/the-self.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 2.17 <a id="tea-bhagavad-gita-2-17"></a>
 `text-verified` · confidence moderate
@@ -5168,7 +5168,7 @@ By me in my unmanifest form all this world is pervaded; all beings abide in me, 
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate_
 
-concepts: [The two natures of the Lord (aparā and parā prakṛti)](../concepts/two-natures-of-the-lord.md) · disputes: `dsp:world-real-or-appearance`
+concepts: [The two natures of the Lord (aparā and parā prakṛti)](../concepts/two-natures-of-the-lord.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 _Superseded by [9.4](bhagavad-gita.md#tea-bhagavad-gita-9-4)_
 
@@ -7356,7 +7356,7 @@ _level: conventional · standpoint: devotional · path: devotion · stage: all �
 
 terms: [śraddhā](../terms/sraddha.md), [amṛta](../terms/amrta.md), [dharma](../terms/dharma.md), [upāsanā](../terms/upasana.md), [matpara](../terms/matpara.md), [bhakta](../terms/bhakta.md) · concepts: [The qualities of the devotee](../concepts/qualities-of-the-devotee.md), [Devotion (bhakti)](../concepts/bhakti.md)
 
-### 13.1-2 <a id="tea-bhagavad-gita-13-1-2"></a>
+### 13.2-3 <a id="tea-bhagavad-gita-13-2-3"></a>
 `sourced` · confidence high
 
 This body is called the field (kṣetra); one who knows it is called the knower of the field (kṣetrajña) by those who know them; know me also as the knower of the field in all fields; the knowledge of the field and its knower is, in my view, knowledge.
@@ -7365,9 +7365,9 @@ This body is called the field (kṣetra); one who knows it is called the knower 
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, body-layers_
 
-terms: [kṣetra](../terms/ksetra.md), [kṣetrajña](../terms/ksetrajna.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md), [The self](../concepts/the-self.md) · disputes: `dsp:souls-one-or-distinct`
+terms: [kṣetra](../terms/ksetra.md), [kṣetrajña](../terms/ksetrajna.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md), [The self](../concepts/the-self.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
-### 13.3-4 <a id="tea-bhagavad-gita-13-3-4"></a>
+### 13.4-5 <a id="tea-bhagavad-gita-13-4-5"></a>
 `sourced` · confidence high
 
 Hear from me briefly what the field is, of what kind, with what modifications and whence, and who the knower is and what his powers; this has been sung by the seers in many ways, in distinct Vedic metres, and in the well-reasoned and decisive words of the Brahma-sūtra.
@@ -7376,7 +7376,7 @@ _level: conventional · standpoint: analytic · path: knowledge · stage: all ·
 
 terms: [kṣetra](../terms/ksetra.md), [kṣetrajña](../terms/ksetrajna.md), [prasthānatraya](../terms/prasthanatraya.md)
 
-### 13.5-6 <a id="tea-bhagavad-gita-13-5-6"></a>
+### 13.6-7 <a id="tea-bhagavad-gita-13-6-7"></a>
 `sourced` · confidence high
 
 The great elements, ego, understanding and the unmanifest, the ten senses and the one (the mind), and the five objects of the senses; desire, aversion, pleasure, pain, the aggregate (of body and senses), consciousness and steadfastness — this in brief is the field with its modifications.
@@ -7385,7 +7385,7 @@ _level: conventional · standpoint: analytic · path: knowledge · stage: all ·
 
 terms: [kṣetra](../terms/ksetra.md), [avyakta](../terms/avyakta.md), [ahaṃkāra](../terms/ahamkara.md), [buddhi](../terms/buddhi.md), [indriya](../terms/indriya.md), [tattva](../terms/tattva.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md), [The twenty-four principles (epic Sāṃkhya)](../concepts/twenty-four-principles-epic.md)
 
-### 13.7-11 <a id="tea-bhagavad-gita-13-7-11"></a>
+### 13.8-12 <a id="tea-bhagavad-gita-13-8-12"></a>
 `sourced` · confidence high
 
 What is called knowledge: absence of pride and pretence, non-harm, patience, uprightness, service of the teacher, purity, steadiness, self-restraint; dispassion toward sense-objects, absence of ego, seeing the evil of birth, death, old age, disease and pain; non-attachment, not clinging to son, wife and home, constant evenness of mind in the desired and the undesired; unswerving devotion to me with undivided yoga, resorting to solitary places, distaste for the company of crowds; constancy in the knowledge of the self and insight into the goal of knowledge of the truth — this is declared to be knowledge; what is contrary is ignorance.
@@ -7394,7 +7394,7 @@ _level: conventional · standpoint: seeker · path: knowledge, devotion · stage
 
 terms: [ahiṃsā](../terms/ahimsa.md), [vairāgya](../terms/vairagya.md), [ahaṃkāra](../terms/ahamkara.md), [ananya-bhakti](../terms/ananya-bhakti.md) · concepts: [The virtues called knowledge (BhG 13.7–11)](../concepts/twenty-virtues-called-knowledge.md) · practices: [Reflecting on the evil of birth, death, old age, disease and pain](../practices/reflection-on-birth-death-old-age-disease.md), [Approaching the teacher: prostration, inquiry and service](../practices/pranipata-pariprasna-seva.md)
 
-### 13.12 <a id="tea-bhagavad-gita-13-12"></a>
+### 13.13 <a id="tea-bhagavad-gita-13-13"></a>
 `sourced` · confidence high
 
 I will declare that which is to be known, knowing which one attains immortality: the beginningless supreme Brahman, which is said to be neither being nor non-being.
@@ -7405,7 +7405,7 @@ _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced 
 
 terms: [brahman](../terms/brahman.md)
 
-### 13.13-17 <a id="tea-bhagavad-gita-13-13-17"></a>
+### 13.14-18 <a id="tea-bhagavad-gita-13-14-18"></a>
 `sourced` · confidence high
 
 With hands and feet everywhere, eyes, heads and faces everywhere, with ears everywhere, it stands enveloping everything in the world; shining through the functions of all the senses yet free of all senses, unattached yet supporting all, free of the guṇas yet experiencing the guṇas; outside and inside beings, unmoving and moving, too subtle to be known, far and yet near; undivided yet standing as if divided among beings, the supporter of beings, their devourer and creator; the light of lights, said to be beyond darkness, knowledge, the knowable and the goal of knowledge, seated in the heart of all.
@@ -7414,7 +7414,7 @@ _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced 
 
 terms: [brahman](../terms/brahman.md) · concepts: [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md)
 
-### 13.18 <a id="tea-bhagavad-gita-13-18"></a>
+### 13.19 <a id="tea-bhagavad-gita-13-19"></a>
 `sourced` · confidence high
 
 Thus the field, knowledge and the knowable have been briefly told; my devotee, understanding this, attains my state.
@@ -7423,7 +7423,7 @@ _level: bridging · standpoint: divine · path: knowledge, devotion · stage: al
 
 concepts: [Devotion (bhakti)](../concepts/bhakti.md)
 
-### 13.19-20 <a id="tea-bhagavad-gita-13-19-20"></a>
+### 13.20-21 <a id="tea-bhagavad-gita-13-20-21"></a>
 `sourced` · confidence high
 
 Know that prakṛti and puruṣa are both beginningless, and that the modifications and the guṇas arise from prakṛti; prakṛti is said to be the cause in the production of effect, instrument and agency, and puruṣa the cause in the experiencing of pleasure and pain.
@@ -7434,7 +7434,7 @@ _level: ultimate · standpoint: analytic · path: knowledge · stage: all · typ
 
 terms: [prakṛti](../terms/prakrti.md), [puruṣa](../terms/purusa.md), [guṇa](../terms/guna.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md)
 
-### 13.19-23 <a id="tea-bhagavad-gita-13-19-23"></a>
+### 13.20-24 <a id="tea-bhagavad-gita-13-20-24"></a>
 `sourced` · confidence high
 
 Know that prakṛti and puruṣa are both beginningless, and that the modifications and guṇas are born of prakṛti; prakṛti is called the cause in the producing of effect, instrument and agency, puruṣa the cause in the experiencing of pleasure and pain; puruṣa, seated in prakṛti, experiences the guṇas born of prakṛti, and attachment to the guṇas is the cause of his births in good and evil wombs; the supreme Puruṣa in this body is called the witness, the permitter, the supporter, the experiencer, the great Lord and the supreme self; one who thus knows puruṣa and prakṛti with its guṇas is not born again, however he may live.
@@ -7443,7 +7443,7 @@ _level: ultimate · standpoint: analytic · path: knowledge · stage: all · typ
 
 terms: [prakṛti](../terms/prakrti.md), [puruṣa](../terms/purusa.md), [guṇa](../terms/guna.md), [paramātman](../terms/paramatman.md), [upadraṣṭṛ](../terms/upadrastr.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md), [The three guṇas](../concepts/three-gunas.md)
 
-### 13.21 <a id="tea-bhagavad-gita-13-21"></a>
+### 13.22 <a id="tea-bhagavad-gita-13-22"></a>
 `sourced` · confidence high
 
 Puruṣa, seated in prakṛti, experiences the guṇas born of prakṛti; attachment to the guṇas is the cause of its births in good and evil wombs.
@@ -7452,7 +7452,7 @@ _level: bridging · standpoint: causal · path: knowledge · stage: all · types
 
 terms: [puruṣa](../terms/purusa.md), [guṇa](../terms/guna.md) · obstacles: [Bondage by the three guṇas](../obstacles/guna-bondage.md)
 
-### 13.22 <a id="tea-bhagavad-gita-13-22"></a>
+### 13.23 <a id="tea-bhagavad-gita-13-23"></a>
 `sourced` · confidence high
 
 The supreme Puruṣa in this body is called the witness, the permitter, the supporter, the experiencer, the great Lord and the supreme self.
@@ -7463,7 +7463,7 @@ _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced �
 
 terms: [upadraṣṭṛ](../terms/upadrastr.md), [paramātman](../terms/paramatman.md), [īśvara](../terms/isvara.md), [sākṣin](../terms/saksin.md) · concepts: [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md)
 
-### 13.23 <a id="tea-bhagavad-gita-13-23"></a>
+### 13.24 <a id="tea-bhagavad-gita-13-24"></a>
 `sourced` · confidence high
 
 One who thus knows puruṣa and prakṛti together with the guṇas is not born again, however he may be living.
@@ -7472,7 +7472,7 @@ _level: bridging · standpoint: seeker · path: knowledge · stage: all · types
 
 concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md)
 
-### 13.24-25 <a id="tea-bhagavad-gita-13-24-25"></a>
+### 13.25-26 <a id="tea-bhagavad-gita-13-25-26"></a>
 `sourced` · confidence high
 
 Some by meditation see the self in the self by the self; others by the yoga of Sāṃkhya, and others by the yoga of action; still others, not knowing this, worship having heard it from others — they too, devoted to what they have heard, cross beyond death.
@@ -7481,7 +7481,7 @@ _level: bridging · standpoint: seeker · path: meditation, knowledge, action, d
 
 terms: [dhyāna-yoga](../terms/dhyana-yoga.md), [sāṃkhya](../terms/samkhya.md), [karmayoga](../terms/karma-yoga.md) · concepts: [The paths of the Gītā: action, knowledge, meditation and devotion](../concepts/four-yogas-of-the-gita.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
 
-### 13.26 <a id="tea-bhagavad-gita-13-26"></a>
+### 13.27 <a id="tea-bhagavad-gita-13-27"></a>
 `sourced` · confidence high
 
 Whatever being is born, moving or unmoving, know that it arises from the union of the field and the knower of the field.
@@ -7490,7 +7490,7 @@ _level: conventional · standpoint: causal · path: knowledge · stage: all · t
 
 concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md)
 
-### 13.27-28 <a id="tea-bhagavad-gita-13-27-28"></a>
+### 13.28-29 <a id="tea-bhagavad-gita-13-28-29"></a>
 `sourced` · confidence high
 
 One who sees the supreme Lord abiding equally in all beings, the imperishable within the perishing, sees; seeing the Lord established equally everywhere, he does not injure the self by the self and so goes to the supreme goal.
@@ -7499,7 +7499,7 @@ _level: ultimate · standpoint: experiential · path: knowledge · stage: advanc
 
 terms: [īśvara](../terms/isvara.md), [samadarśin](../terms/samadarsin.md) · concepts: [Evenness of mind (samatva)](../concepts/equanimity.md)
 
-### 13.29-30 <a id="tea-bhagavad-gita-13-29-30"></a>
+### 13.30-31 <a id="tea-bhagavad-gita-13-30-31"></a>
 `sourced` · confidence high
 
 One who sees that all actions are performed by prakṛti alone and that the self is not the doer, sees; when one sees the separate existence of beings as resting in the One and their expansion from that alone, one attains Brahman.
@@ -7508,7 +7508,7 @@ _level: bridging · standpoint: analytic · path: knowledge · stage: advanced �
 
 practices: [Seeing that the guṇas act: non-doership](../practices/guna-witnessing.md) · obstacles: [The sense of 'I am the doer' (kartṛtva-abhimāna)](../obstacles/sense-of-doership.md)
 
-### 13.31-33 <a id="tea-bhagavad-gita-13-31-33"></a>
+### 13.32-34 <a id="tea-bhagavad-gita-13-32-34"></a>
 `sourced` · confidence high
 
 This imperishable supreme self, being beginningless and without guṇas, though dwelling in the body neither acts nor is tainted; as all-pervading space is not tainted because of its subtlety, so the self present everywhere in the body is not tainted; as the one sun illumines this whole world, so the knower of the field illumines the whole field.
@@ -7517,7 +7517,7 @@ _level: ultimate · standpoint: substance · path: knowledge · stage: advanced 
 
 terms: [paramātman](../terms/paramatman.md), [kṣetrajña](../terms/ksetrajna.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md), [The self](../concepts/the-self.md)
 
-### 13.34 <a id="tea-bhagavad-gita-13-34"></a>
+### 13.35 <a id="tea-bhagavad-gita-13-35"></a>
 `sourced` · confidence high
 
 Those who with the eye of knowledge know the difference between the field and the knower of the field, and the liberation of beings from prakṛti, go to the supreme.
@@ -7696,7 +7696,7 @@ An eternal portion of me, having become a living being in the world of the livin
 
 _level: ultimate · standpoint: divine · path: knowledge · stage: all · types: ultimate, body-layers_
 
-terms: [aṃśa](../terms/amsa.md), [jīva](../terms/jiva.md), [manas](../terms/manas.md), [indriya](../terms/indriya.md) · concepts: [The self](../concepts/the-self.md) · disputes: `dsp:souls-one-or-distinct`
+terms: [aṃśa](../terms/amsa.md), [jīva](../terms/jiva.md), [manas](../terms/manas.md), [indriya](../terms/indriya.md) · concepts: [The self](../concepts/the-self.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 15.8-9 <a id="tea-bhagavad-gita-15-8-9"></a>
 `sourced` · confidence high
@@ -8199,7 +8199,7 @@ By devotion he knows me in truth — how great I am and who I am; then, having k
 
 _level: ultimate · standpoint: devotional · path: devotion, knowledge · stage: realized · types: karma-liberation, ultimate_
 
-concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md), [Devotion (bhakti)](../concepts/bhakti.md) · disputes: `dsp:souls-one-or-distinct`, [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
+concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md), [Devotion (bhakti)](../concepts/bhakti.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
 
 ### 18.56 <a id="tea-bhagavad-gita-18-56"></a>
 `sourced` · confidence high
@@ -8453,4 +8453,4 @@ _Notes: Chapter titles are the traditional colophon titles (they vary slightly b
 
 - 2026-09-29 text-locate: confirmed — catalog:GRETIL-dev:bhagavadgita, local:sources_raw/DharmicData/Mahabharata/mahabharata_book_6.json (BORI Critical Edition text) 6.23.1 dharmakṣetre ... ; 6.40.78 yatra yogeśvaraḥ ...; 6.22/6.41 are battle narrative, local:sources_raw/gita/data/verse.json (701 entries incl. extra 13.0 verse), https:/ — CE Bhīṣmaparvan 23–40 holds exactly 700 verses, starting at dharmakṣetre and ending at yatra yogeśvaraḥ; the local vulgate corpus has 701 with the extra verse heading ch. 13, as the entry says. Dating accounts kept as entered (scholarly range is within published estimates).
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._

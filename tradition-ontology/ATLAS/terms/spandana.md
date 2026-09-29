@@ -16,4 +16,4 @@
 _Notes: Distinct from Kashmir Śaivism's spanda (vibration)._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:02 IST._

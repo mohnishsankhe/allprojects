@@ -11,4 +11,4 @@
 Diamond-Sūtra scholar who burned his commentaries after awakening when Longtan blew out his candle; known for the stick ('thirty blows').
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

@@ -97,4 +97,4 @@ teachers: [Dattātreya](../teachers/dattatreya.md)
 _Notes: Avadhūta Gītā 8.2-4 reproduce Bhāgavata Purāṇa 11.11.29-31 (the qualities of the sage) almost verbatim. Chapter 8 differs in tone from 1-7; whether it is a later addition is not settled here (see REPORT)._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._

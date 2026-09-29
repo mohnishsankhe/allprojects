@@ -34,7 +34,7 @@ The self, being subtle, is not perceived (by ordinary perception) but inferred f
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: [ātman](../terms/atman.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md), [The plurality of selves](../concepts/plurality-of-selves.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md), [The plurality of selves](../concepts/plurality-of-selves.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### guṇa section (buddhi) <a id="tea-padarthadharmasangraha-buddhi"></a>
 `skeleton` · confidence moderate
@@ -112,4 +112,4 @@ terms: [padārtha](../terms/padartha.md), [īśvara](../terms/isvara.md), [niḥ
 _Notes: Commentaries: Vyomaśiva's Vyomavatī, Śrīdhara's Nyāyakandalī, Udayana's Kiraṇāvalī, and later ones._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._

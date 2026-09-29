@@ -12,4 +12,4 @@ The form of Śiva who, wandering on Mount Kailāsa when the Śaiva secrets had b
 _Notes: Distinct from tch:srikantha (the Śaiva Vedāntin) and tch:srikanthabhatta (Bhāskara's teacher)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

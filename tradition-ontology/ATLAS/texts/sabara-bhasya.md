@@ -95,7 +95,7 @@ concepts: [Knownness (jñātatā) and the inference of cognition](../concepts/jn
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: consciousness-mind, dispute_
 
-terms: [ātman](../terms/atman.md) · concepts: [The self (ātman)](../concepts/self.md) · teachers: [the Vṛttikāra (cited by Śabara)](../teachers/vrttikara-mimamsa.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md) · concepts: [The self (ātman)](../concepts/self.md) · teachers: [the Vṛttikāra (cited by Śabara)](../teachers/vrttikara-mimamsa.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 1.1.5/4 <a id="tea-sabara-bhasya-1-1-5-4"></a>
 `skeleton` · confidence high
@@ -179,4 +179,4 @@ terms: [devatā](../terms/devata.md), [vigraha](../terms/vigraha.md) · concepts
 
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:02 IST._

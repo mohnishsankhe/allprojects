@@ -124,7 +124,7 @@ At Purī, the Advaita teacher Sārvabhauma expounds Śaṅkara's reading of the 
 
 _level: unmarked · standpoint: polemical · path: knowledge, devotion · stage: all · types: dispute_
 
-teachers: [Kṛṣṇadāsa Kavirāja](../teachers/krsnadasa-kaviraja.md), [Śrī Kṛṣṇa Caitanya (Viśvambhara Miśra, Nimāi, Gaurāṅga, Mahāprabhu)](../teachers/caitanya.md), [Vāsudeva Sārvabhauma Bhaṭṭācārya](../teachers/sarvabhauma-bhattacarya.md) · disputes: [Is the ultimate an attributeless Brahman to be realised by 'that thou art', or the personal Bhagavān reached by devotion? (Caitanya against the Advaita renouncers)](../debates/gaudiya-critique-of-advaita.md), `dsp:saguna-nirguna`, `dsp:advaita-crypto-buddhism`
+teachers: [Kṛṣṇadāsa Kavirāja](../teachers/krsnadasa-kaviraja.md), [Śrī Kṛṣṇa Caitanya (Viśvambhara Miśra, Nimāi, Gaurāṅga, Mahāprabhu)](../teachers/caitanya.md), [Vāsudeva Sārvabhauma Bhaṭṭācārya](../teachers/sarvabhauma-bhattacarya.md) · disputes: [Is the ultimate an attributeless Brahman to be realised by 'that thou art', or the personal Bhagavān reached by devotion? (Caitanya against the Advaita renouncers)](../debates/gaudiya-critique-of-advaita.md), `dsp:saguna-nirguna`, [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
 
 ### 2.8 <a id="tea-caitanya-caritamrta-2-8"></a>
 `skeleton` · confidence high
@@ -231,4 +231,4 @@ terms: [divyonmāda](../terms/divyonmada.md) · concepts: [Caitanya's three stat
 
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._

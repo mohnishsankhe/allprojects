@@ -21,4 +21,4 @@ The faults of concentration: laziness, forgetting the object, laxity and excitem
 _Notes: Contribution of U47._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U47-sakya-kadam-gelug, skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U47-sakya-kadam-gelug, skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._

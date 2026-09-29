@@ -16,4 +16,4 @@
 **Related:** [puruṣa](purusa.md), [dṛśya](drsya.md), [sākṣin](saksin.md)
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U09-samkhya. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._

@@ -12,4 +12,4 @@ Pilgrimage around the sites of Kṛṣṇa's play in Braj (Govardhana, Rādhāku
   - [Upadeśāmṛta](../texts/upadesamrta.md) — ref: 9-11; rests_on: ["tea:upadesamrta:9-11"]
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._

@@ -14,7 +14,7 @@ The seven factors of awakening: their nutriments and the nutriments of the hindr
 **Editions / translations:** 
   - kind: original; name: Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 (World Tipiṭaka edition, based on the Sixth Council text), as published by SuttaCentral in bilara-data (root/pli/ms); local copy in sources_raw/bilara-data; licence: CC0 / public domain as published by SuttaCentral; url: https://suttacentral.net/sn46
 
-## Teachings (2: skeleton 2)
+## Teachings (4: skeleton 4)
 
 ### 46.51 <a id="tea-bojjhanga-samyutta-46-51"></a>
 `skeleton` · confidence high
@@ -34,6 +34,28 @@ _level: unmarked · standpoint: seeker · path: meditation · stage: intermediat
 
 terms: [dhammavicaya](../terms/dhammavicaya.md), [viriya](../terms/viriya.md), [pīti](../terms/piti.md), [passaddhi](../terms/passaddhi.md), [samādhi](../terms/samadhi.md), [upekkhā](../terms/upekkha.md), [sati](../terms/sati.md) · concepts: [The seven factors of awakening](../concepts/seven-bojjhangas.md)
 
+### 46.54 <a id="tea-bojjhanga-samyutta-46-54"></a>
+`skeleton` · confidence high
+
+Wanderers of other sects tell the monks at Haliddavasana: 'The ascetic Gotama teaches his disciples to abandon the five hindrances, the defilements of mind that weaken wisdom, and to dwell pervading one direction, then all directions, with a mind of love, of compassion, of rejoicing and of equanimity. We too teach our disciples thus. What then is the difference between his teaching and ours?'
+
+> Mayampi kho, āvuso, sāvakānaṁ evaṁ dhammaṁ desema
+
+_level: conventional · standpoint: polemical · path: meditation, action · stage: all · types: ethics, practice, dispute_
+
+terms: [brahmavihāra](../terms/brahmavihara.md) · concepts: [The four immeasurables / attitudes across Buddhist, Yoga and Jain teaching](../concepts/four-immeasurables-across-families.md), [The four divine abidings (brahmavihāra)](../concepts/four-brahmaviharas.md) · disputes: [Did Pātañjala Yoga take its shared meditative and ethical vocabulary (the four attitudes, the five faculties, the afflictions, samāpatti, dharmamegha) from Buddhism, or do Yoga, Buddhism and Jainism draw on a common śramaṇa milieu?](../debates/yoga-buddhism-shared-milieu.md)
+
+### 46.54/2 <a id="tea-bojjhanga-samyutta-46-54-2"></a>
+`skeleton` · confidence high
+
+The Buddha's answer: ask them how each liberation of mind is developed, what is its destination, culmination, fruit and end — they cannot answer. The liberation of mind by love culminates in the beautiful (subha); by compassion, in the sphere of infinite space; by rejoicing, in the sphere of infinite consciousness; by equanimity, in the sphere of nothingness — for a monk who has not penetrated a higher liberation.
+
+> Subhaparamāhaṁ, bhikkhave, mettācetovimuttiṁ vadāmi, idhapaññassa bhikkhuno uttarivimuttiṁ appaṭivijjhato
+
+_level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice, karma-liberation_
+
+concepts: [The four immeasurables / attitudes across Buddhist, Yoga and Jain teaching](../concepts/four-immeasurables-across-families.md) · disputes: [Did Pātañjala Yoga take its shared meditative and ethical vocabulary (the four attitudes, the five faculties, the afflictions, samāpatti, dharmamegha) from Buddhism, or do Yoga, Buddhism and Jainism draw on a common śramaṇa milieu?](../debates/yoga-buddhism-shared-milieu.md)
+
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

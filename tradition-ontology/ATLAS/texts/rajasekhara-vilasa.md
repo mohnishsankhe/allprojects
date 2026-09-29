@@ -13,4 +13,4 @@
 A seventeenth-century Kannada campū narrating a Śaiva devotional legend, a classic of later Vīraśaiva poetry.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._

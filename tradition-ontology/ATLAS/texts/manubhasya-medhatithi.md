@@ -19,4 +19,4 @@ The oldest surviving commentary on Manu, applying Mīmāṃsā reasoning to its 
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Medh%C4%81tithi, https://sites.utexas.edu/sanskrit/resources/dharmasastra/medhatithi/ — Confirmed: the oldest surviving commentary on Manu. Lingat dates it to the 9th or early 10th c. at the latest, matching the entry's 850–1000. The argument against widow-burning is recorded under dsp:widow-anvarohana.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

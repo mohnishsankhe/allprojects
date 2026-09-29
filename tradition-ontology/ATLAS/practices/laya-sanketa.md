@@ -14,4 +14,4 @@ Laya-yoga is the dissolution of the mind brought about by any of the 'signals' �
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 4.65-66; rests_on: ["tea:hatha-yoga-pradipika:4.65-66"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U28-hatha-texts. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U28-hatha-texts. Generated 2026-09-29 18:02 IST._

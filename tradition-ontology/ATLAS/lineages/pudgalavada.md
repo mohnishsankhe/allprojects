@@ -45,7 +45,7 @@ _none recorded_
 _none recorded_
 
 ## Debates
-[Does the destruction of a conditioned thing have a cause?](../debates/cause-of-destruction.md), [Is there an intermediate existence between death and rebirth?](../debates/kv-antarabhava.md), [Is the person (puggala) found as a real and ultimate fact?](../debates/kv-puggala.md), [Is there a person (pudgala) that is neither the same as nor different from the aggregates?](../debates/pudgala.md)
+[Does the destruction of a conditioned thing have a cause?](../debates/cause-of-destruction.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Is there an intermediate existence between death and rebirth?](../debates/kv-antarabhava.md), [Is the person (puggala) found as a real and ultimate fact?](../debates/kv-puggala.md), [Is there a person (pudgala) that is neither the same as nor different from the aggregates?](../debates/pudgala.md)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._

@@ -13,4 +13,4 @@ The mysterious founder of the Kartābhajā, who appeared as a youth in a betel g
 **Realization — the tradition's account:** Caitanya, who had disappeared at Puri, reappeared in Bengal as Āulcānd to reveal the secret sahaja religion to the poor and low-caste.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._

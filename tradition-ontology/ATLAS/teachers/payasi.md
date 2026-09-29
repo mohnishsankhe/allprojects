@@ -10,4 +10,4 @@ A chieftain (rājañña) of Setavyā in Kosala who held that there is no other w
 _Notes: Listed under lin:carvaka as a holder of the materialist view in a Buddhist narrative; the text gives no school name._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._

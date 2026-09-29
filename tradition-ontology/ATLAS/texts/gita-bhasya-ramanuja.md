@@ -28,7 +28,7 @@ The Lord declares that he, Arjuna and the kings never were not and never will no
 
 _level: ultimate · standpoint: divine · path: knowledge · stage: all · types: ultimate, dispute_
 
-concepts: [The individual living self (jīva)](../concepts/jiva.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: `dsp:souls-one-or-distinct`
+concepts: [The individual living self (jīva)](../concepts/jiva.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 3 <a id="tea-gita-bhasya-ramanuja-3"></a>
 `skeleton` · confidence low
@@ -117,4 +117,4 @@ terms: [Śriyaḥpati / Śrīman Nārāyaṇa](../terms/sriyahpati.md), [saulabh
 
 - 2026-09-29 catalog: confirmed — catalog:GRETIL:rAmAnuja-bhagavadgItAbhASya, local:sources_raw/gita/data/commentary.json (Sri Ramanujacharya) — Extant and digitized; attribution accepted. Traditional 1017–1137 and scholarly 11th–12th c. ranges are the usual ones.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._

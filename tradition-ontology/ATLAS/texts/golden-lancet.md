@@ -19,4 +19,4 @@ Shākya Chokden's work of questions on Sakya Paṇḍita's Discrimination of the
 _Notes: Exact title, genre and the ban are recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._

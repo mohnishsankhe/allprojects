@@ -10,4 +10,4 @@ Temple musicians and devotees sing the founders' padas in fixed rāgas and style
 **Stage:** all
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._

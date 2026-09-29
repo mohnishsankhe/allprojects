@@ -131,6 +131,8 @@
 {"kind": "scalar", "id": "src:padarthadarsa", "field": "genre", "kept": "ṭīkā", "other": "commentary"}
 {"kind": "scalar", "id": "src:kramadipika", "field": "genre", "kept": "commentary", "other": "ritual manual (paddhati)"}
 {"kind": "scalar", "id": "src:bhasvati", "field": "genre", "kept": "ṭīkā", "other": "karaṇa"}
+{"kind": "scalar", "id": "src:dinakari", "field": "title", "kept": "Dinakarī (Muktāvalīprakāśa)", "other": "Dinakarī"}
+{"kind": "scalar", "id": "src:dinakari", "field": "genre", "kept": "commentary", "other": "ṭīkā"}
 {"kind": "scalar", "id": "src:upavarsa-vrtti", "field": "title", "kept": "Upavarṣa's vṛtti (lost)", "other": "Vṛtti of Upavarṣa on the Mīmāṃsā (lost)"}
 {"kind": "scalar", "id": "src:bhavanaviveka", "field": "availability", "kept": "unknown", "other": "digitized-original"}
 {"kind": "scalar", "id": "src:vibhramaviveka", "field": "availability", "kept": "unknown", "other": "digitized-original"}
@@ -468,6 +470,8 @@
 {"kind": "scalar", "id": "tea:brahma-sutra:3.4.2", "field": "reported_by_opponent", "kept": false, "other": true}
 {"kind": "scalar", "id": "tea:brahma-sutra:4.3.12", "field": "reported_by_opponent", "kept": false, "other": true}
 {"kind": "scalar", "id": "tea:brahma-sutra:4.4.5", "field": "reported_by_opponent", "kept": false, "other": true}
+{"kind": "scalar", "id": "tea:lankavatara-sutra:2.p33", "field": "speaker", "kept": "the Buddha", "other": "Mahāmati"}
+{"kind": "scalar", "id": "tea:lankavatara-sutra:2.p33", "field": "addressee", "kept": "Mahāmati", "other": "the Buddha"}
 {"kind": "scalar", "id": "trm:rta", "field": "literal", "kept": "what is fitting; the true course", "other": "cosmic order, truth"}
 {"kind": "scalar", "id": "trm:satya", "field": "literal", "kept": "what is; truth", "other": "truth, the real"}
 {"kind": "scalar", "id": "trm:satya", "field": "literal", "kept": "what is; truth", "other": "truthfulness"}
@@ -1132,9 +1136,6 @@
 {"kind": "scalar", "id": "trm:pranava", "field": "term", "kept": "praṇava", "other": "praṇava (oṃ)"}
 {"kind": "scalar", "id": "trm:sadanga-yoga", "field": "term", "kept": "ṣaḍaṅga yoga", "other": "ṣaḍaṅgayoga"}
 {"kind": "scalar", "id": "trm:tarka", "field": "literal", "kept": "hypothetical reasoning", "other": "reasoning; inductive reasoning"}
-{"kind": "scalar", "id": "trm:tarka", "field": "term", "kept": "tarka", "other": "gtar ga"}
-{"kind": "scalar", "id": "trm:tarka", "field": "language", "kept": "Sanskrit", "other": "Tibetan"}
-{"kind": "scalar", "id": "trm:tarka", "field": "literal", "kept": "hypothetical reasoning", "other": "bloodletting"}
 {"kind": "scalar", "id": "trm:tarka", "field": "literal", "kept": "hypothetical reasoning", "other": "reasoning"}
 {"kind": "scalar", "id": "trm:samadhi", "field": "language", "kept": "Sanskrit", "other": "Pali"}
 {"kind": "scalar", "id": "trm:samadhi", "field": "literal", "kept": "composure, absorption", "other": "concentration, collectedness"}
@@ -2360,7 +2361,6 @@
 {"kind": "scalar", "id": "trm:lodok-namzhi", "field": "term", "kept": "blo ldog rnam bzhi", "other": "blo ldog rnam bzhi (four thoughts that turn the mind)"}
 {"kind": "scalar", "id": "trm:lodok-namzhi", "field": "literal", "kept": "the four thoughts that turn the mind", "other": "four mind-turnings"}
 {"kind": "scalar", "id": "trm:shentong", "field": "term", "kept": "gzhan stong", "other": "gzhan stong (other-emptiness)"}
-{"kind": "scalar", "id": "trm:rangtong", "field": "term", "kept": "rang stong (rangtong)", "other": "rang stong"}
 {"kind": "scalar", "id": "trm:rangtong", "field": "native", "kept": "རང་སྟོང་", "other": "རང་སྟོང"}
 {"kind": "scalar", "id": "trm:rangtong", "field": "literal", "kept": "empty of self / of own-nature", "other": "empty of self"}
 {"kind": "scalar", "id": "trm:aprameya", "field": "literal", "kept": "immeasurable; not an object of the means of knowledge", "other": "immeasurable"}
@@ -2496,6 +2496,7 @@
 {"kind": "scalar", "id": "cpt:viraha-bhakti", "field": "name", "kept": "Devotion in separation", "other": "Devotion in separation (viraha)"}
 {"kind": "scalar", "id": "cpt:kali-yuga-dharma", "field": "category", "kept": "ethics", "other": "cosmology-time"}
 {"kind": "scalar", "id": "cpt:kali-yuga-dharma", "field": "category", "kept": "ethics", "other": "cosmology-time"}
+{"kind": "scalar", "id": "cpt:bhukti-and-mukti", "field": "name", "kept": "Enjoyment and liberation as the twofold goal (bhukti-mukti)", "other": "Enjoyment and liberation (bhukti–mukti; siddhi and mokṣa) as twin aims"}
 {"kind": "scalar", "id": "cpt:grades-of-initiates", "field": "name", "kept": "The grades of Śaiva initiates", "other": "Grades of initiates"}
 {"kind": "scalar", "id": "cpt:kinds-of-diksa", "field": "name", "kept": "Kinds of initiation", "other": "Kinds of initiation (dīkṣā) in the Āgamas"}
 {"kind": "scalar", "id": "cpt:kinds-of-diksa", "field": "name", "kept": "Kinds of initiation", "other": "Kinds of dīkṣā"}
@@ -2703,6 +2704,7 @@
 {"kind": "scalar", "id": "obs:four-viparyasas", "field": "name", "kept": "The four perversions (viparyāsa)", "other": "The four errors"}
 {"kind": "scalar", "id": "obs:four-viparyasas", "field": "category", "kept": "affliction", "other": "obstacle"}
 {"kind": "scalar", "id": "obs:nine-samyojanas", "field": "name", "kept": "The nine fetters (Abhidharma list)", "other": "The nine fetters"}
+{"kind": "scalar", "id": "obs:three-poisons", "field": "name", "kept": "The three poisons", "other": "The three roots of bad (greed, hatred, delusion)"}
 {"kind": "scalar", "id": "obs:three-poisons", "field": "name", "kept": "The three poisons", "other": "The three roots of bad (greed, hatred, delusion)"}
 {"kind": "scalar", "id": "obs:three-poisons", "field": "name", "kept": "The three poisons", "other": "The three roots of bad (greed, hatred, delusion)"}
 {"kind": "scalar", "id": "obs:svabhava-graha", "field": "name", "kept": "Grasping at inherent existence (true-grasping)", "other": "Grasping at own-nature (inherent existence)"}
@@ -3057,6 +3059,7 @@
 {"kind": "scalar", "id": "dsp:sentence-meaning", "field": "question", "kept": "How does a sentence convey its meaning: by the connection of word-meanings already expressed (abhihitānvaya) or by words that express meanings already connected (anvitābhidhāna)?", "other": "How does a sentence convey its meaning?"}
 {"kind": "scalar", "id": "dsp:apoha", "field": "coverage_ref", "kept": "B4", "other": "A5"}
 {"kind": "scalar", "id": "dsp:mala-substance-or-ignorance", "field": "question", "kept": "Is the root impurity (āṇava mala) a real substance removable only by ritual initiation, or is it ignorance - a contraction of consciousness - removed by knowledge?", "other": "Is the root impurity (āṇava mala) a real substance removable only by ritual initiation, or is it ignorance removed by knowledge?"}
+{"kind": "scalar", "id": "dsp:is-there-a-self", "field": "question", "kept": "Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?", "other": "Is there a self?"}
 {"kind": "scalar", "id": "dsp:kevalin-eats", "field": "question", "kept": "Does the omniscient (kevalin) take food?", "other": "Does the omniscient (kevalin) take food and undergo hunger and the other hardships?"}
 {"kind": "scalar", "id": "dsp:kevalin-eats", "field": "queue_ref", "kept": "RQ-U34-01", "other": "RQ-U35-kevali-bhukti"}
 {"kind": "scalar", "id": "dsp:mahayana-buddhavacana", "field": "coverage_ref", "kept": "G", "other": "B4"}
@@ -3084,6 +3087,8 @@
 {"kind": "scalar", "id": "brw:ramanandi-to-sant", "field": "what", "kept": "The name of Rām as the saving Name; the claim of initiation of Kabīr, Ravidās, Pīpā, Sen and Dhannā by Rāmānanda", "other": "Rāmānanda counted guru of Kabīr, Raidās, Pīpā, Sena and Dhanna; the Rām-nām"}
 {"kind": "scalar", "id": "brw:ramanandi-to-sant", "field": "era", "kept": "15th–16th c.", "other": "15th c."}
 {"kind": "scalar", "id": "brw:varkari-to-sant", "field": "what", "kept": "Nāmdev's Hindi padas and his example as a low-caste devotee saved by the Name", "other": "Nāmdev's Hindi songs and example revered by Kabīr and later northern Sants"}
+{"kind": "scalar", "id": "brw:ayurveda-to-sowa-rigpa", "field": "what", "kept": "The Aṣṭāṅgahṛdaya and its three-doṣa medicine, translated into Tibetan (in the Tengyur); scholars trace much of the Four Tantras (rGyud bzhi) to it.", "other": "The Aṣṭāṅgahṛdaya's medicine — the eight branches, the three doṣas with five subtypes each, the seven constituents and three wastes, the six tastes and potencies, daily and seasonal regimen, rejuvenation and virility — which reappears, with Buddhist causation and other additions, in the Four Tantras."}
+{"kind": "scalar", "id": "brw:ayurveda-to-sowa-rigpa", "field": "era", "kept": "c. 8th–12th c.", "other": "8th–12th c. (translations; compilation of the Four Tantras)"}
 {"kind": "scalar", "id": "brw:pramana-buddhist-to-jain-logic", "field": "what", "kept": "The framework of Buddhist logic — inference for oneself and for others, fallacies of thesis and reason — adopted and argued against in Jain logic (Nyāyāvatāra; Akalaṅka's replies to Dharmakīrti).", "other": "The two-means framework reinterpreted (pratyakṣa/parokṣa), the debate over the triple-marked reason (answered by 'anyathānupapatti' as the sole mark), and the genres of logic manuals."}
 {"kind": "scalar", "id": "brw:pramana-buddhist-to-jain-logic", "field": "era", "kept": "c. 6th–8th c.", "other": "6th–10th c."}
 {"kind": "scalar", "id": "brw:yogacara-to-yogacara-madhyamaka", "field": "what", "kept": "Mind-only as the account of conventional reality, adopted as the step before the emptiness of mind.", "other": "Mind-only accepted as the conventional truth and as a stage of meditation before the imageless (Śāntarakṣita, Kamalaśīla)."}

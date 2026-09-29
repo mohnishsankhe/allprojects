@@ -21,4 +21,4 @@
 _Notes: Contribution from U08; U18 owns the Siddhānta concept._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U06-other-gitas, skeleton:U08-agama-catalogue, skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U06-other-gitas, skeleton:U08-agama-catalogue, skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._

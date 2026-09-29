@@ -20,4 +20,4 @@
 **Related:** [Prājña](prajna.md), [pāramitā](paramita.md)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

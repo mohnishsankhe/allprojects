@@ -24,10 +24,10 @@
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, karma-liberation_
 
-terms: [upādāna](../terms/upadana.md), [attavāda](../terms/attavada.md) · concepts: [The four kinds of clinging](../concepts/four-upadanas.md) · obstacles: [The four kinds of clinging (upādāna)](../obstacles/four-upadanas.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [upādāna](../terms/upadana.md), [attavāda](../terms/attavada.md) · concepts: [The four kinds of clinging](../concepts/four-upadanas.md) · obstacles: [The four kinds of clinging (upādāna)](../obstacles/four-upadanas.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 
 _Notes: SuttaCentral uid mn11; Mahāsaṅgīti title 'Cūḷasīhanādasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

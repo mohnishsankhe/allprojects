@@ -30,4 +30,4 @@ concepts: [Precepts in Chan and Zen](../concepts/chan-precepts.md) · teachers: 
 _Notes: Not held locally (T80 no. 2543)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

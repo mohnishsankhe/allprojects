@@ -480,7 +480,7 @@ There is no self; only the aggregates, conditioned by defilements and karma, ent
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, death-dying, karma-liberation_
 
-terms: [skandha](../terms/skandha.md), [antarābhava](../terms/antarabhava.md), [kleśa](../terms/klesa.md), [karma](../terms/karma.md) · concepts: [Intermediate existence (antarābhava)](../concepts/antarabhava.md), [The doctrine of the person (pudgalavāda)](../concepts/pudgala-doctrine.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Is there a person (pudgala) that is neither the same as nor different from the aggregates?](../debates/pudgala.md)
+terms: [skandha](../terms/skandha.md), [antarābhava](../terms/antarabhava.md), [kleśa](../terms/klesa.md), [karma](../terms/karma.md) · concepts: [Intermediate existence (antarābhava)](../concepts/antarabhava.md), [The doctrine of the person (pudgalavāda)](../concepts/pudgala-doctrine.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Is there a person (pudgala) that is neither the same as nor different from the aggregates?](../debates/pudgala.md)
 
 ### 3.19 <a id="tea-abhidharmakosa-3-19"></a>
 `skeleton` · confidence high
@@ -1496,4 +1496,4 @@ terms: [saddharma](../terms/saddharma.md) · concepts: [The two aspects of the t
 
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._

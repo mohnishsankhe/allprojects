@@ -210,7 +210,7 @@ You are mind, you are space, you are air and the charioteer of air (fire), you a
 
 _level: ultimate · standpoint: cosmic · path: knowledge · stage: all · types: ultimate, world-fate_
 
-concepts: [Māyā as the Goddess's power](../concepts/maya-as-sakti.md), [Pūrva-Kaula and Uttara-Kaula (Lakṣmīdhara)](../concepts/purva-uttara-kaula.md) · disputes: [Is māyā the Goddess's real power (śakti), or an indeterminable ignorance that knowledge sublates?](../debates/maya-sakti-or-avidya.md), `dsp:causation`
+concepts: [Māyā as the Goddess's power](../concepts/maya-as-sakti.md), [Pūrva-Kaula and Uttara-Kaula (Lakṣmīdhara)](../concepts/purva-uttara-kaula.md) · disputes: [Is māyā the Goddess's real power (śakti), or an indeterminable ignorance that knowledge sublates?](../debates/maya-sakti-or-avidya.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 36-40 <a id="tea-saundarya-lahari-36-40"></a>
 `skeleton` · confidence high
@@ -281,4 +281,4 @@ _level: conventional · standpoint: devotional · path: devotion, sound · stage
 _Notes: Verse numbers checked against the GRETIL e-text (Brown ed.). Commentaries: Lakṣmīdhara (Lakṣmīdharā), Kaivalyāśrama (Saubhāgyavardhinī), Kāmeśvarasūri (Aruṇāmodinī) and many others._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._

@@ -24,4 +24,4 @@ Bhṛgu answers Bharadvāja on the creation of the world from the Mind-born (Mā
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.176.1 Bharadvāja asks; 12.180.1 Bhṛgu speaks; 12.181.10 — Section located at CE 12.175-185 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._

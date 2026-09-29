@@ -59,9 +59,9 @@ The non-dual Śaiva exegetical tradition of Kashmir (9th-11th c. classical perio
 `pth:kashmir-four-upayas`
 
 ## Debates
-[What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md), [Is Śiva the material cause of the world, or only its efficient cause?](../debates/is-siva-the-material-cause.md), [How many principles (tattvas) are there?](../debates/number-of-tattvas.md)
+[Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md), [Is Śiva the material cause of the world, or only its efficient cause?](../debates/is-siva-the-material-cause.md), [How many principles (tattvas) are there?](../debates/number-of-tattvas.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md), [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 _Notes: 'Kashmir Śaivism' is a modern umbrella name; the tradition itself speaks of Trika, Ṣaḍardha, Pratyabhijñā, Spanda, Krama, Kula. Parent set to the Mantramārga because its scriptures are Bhairava tantras of the Mantramārga; its Kaula side derives from the Kulamārga (lin:kaula)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

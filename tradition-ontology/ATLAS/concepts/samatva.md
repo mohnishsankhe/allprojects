@@ -16,4 +16,4 @@
 _Notes: Merger: probably the same as the skeleton's cpt:equanimity ('Evenness of mind (samatva)', BhG 2.48); both extractors used this id, so it is kept; flagged for the de-duplication pass._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:45 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:02 IST._

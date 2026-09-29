@@ -11,4 +11,4 @@
 The cobbler śaraṇa whose son's marriage to the daughter of the brāhmaṇa Madhuvarasa precipitated the orthodox reaction and the upheaval at Kalyāṇa; both fathers were put to death by the king's order in the tradition's account.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._

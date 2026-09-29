@@ -61,7 +61,7 @@ Chapter refuting the self: a permanent self could neither act nor be harmed, so 
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, consciousness-mind_
 
-teachers: [Āryadeva](../teachers/aryadeva.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+teachers: [Āryadeva](../teachers/aryadeva.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 12.1 <a id="tea-catuhsataka-12-1"></a>
 `skeleton` · confidence moderate
@@ -98,4 +98,4 @@ concepts: [Having no thesis](../concepts/no-thesis.md), [The four-cornered negat
 _Notes: Titles of chs. 8, 9, 10, 13, 14, 16 confirmed from colophons in the local e-text; the others from memory._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._

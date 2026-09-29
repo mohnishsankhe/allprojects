@@ -16,4 +16,4 @@
 Gö Lotsawa Zhönnu Pel's commentary on the Ratnagotravibhāga, relating buddha-nature to Mahāmudrā and the sūtra-based Mahāmudrā of Gampopa.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._

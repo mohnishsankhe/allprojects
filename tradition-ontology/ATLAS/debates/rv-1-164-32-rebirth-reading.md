@@ -29,4 +29,4 @@ Yāska records both readings without forbidding either. Scholarly metadata: mode
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (Sarup ed., GRETIL) — Both sides located in Nirukta 2.8 (parivrājakas vs nairuktas, with the word-by-word rain gloss).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._

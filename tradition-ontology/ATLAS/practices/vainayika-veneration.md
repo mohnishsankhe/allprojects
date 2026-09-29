@@ -17,4 +17,4 @@
 _Notes: Lineage recorded as the reporting tradition; no vainayika school is otherwise known._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._

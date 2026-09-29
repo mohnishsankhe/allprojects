@@ -28880,6 +28880,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:dinakari",
+  "label": "Dinakarī (Muktāvalīprakāśa)",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1700,
+  "text": "c. 17th century CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:tarkasangraha",
   "label": "Tarkasaṅgraha",
   "account": "scholarly",

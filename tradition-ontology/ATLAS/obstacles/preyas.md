@@ -16,4 +16,4 @@ The fool chooses the pleasant (preyas) for the sake of getting and keeping; the 
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse) — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (KU 1.2.2; KU 1.2.6; KU 1.1.21-29; KU 1.2.1-6). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._

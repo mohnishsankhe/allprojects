@@ -15,4 +15,4 @@ A short text on śākta contemplation ascribed to 'Somānanda'; since it praises
   - kind: original; name: Kashmir Series of Texts and Studies (KSTS), Srinagar 74 (1947), with the Parātrīśikātātparyadīpikā
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

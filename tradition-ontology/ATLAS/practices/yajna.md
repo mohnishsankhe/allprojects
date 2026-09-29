@@ -41,4 +41,4 @@ _Notes: U05's contribution; Vedic ritual is covered by U01–U02._
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.12, tea:bhagavad-gita:4.23, tea:bhagavad-gita:4.24, tea:bhagavad-gita:4.25, tea:bhagavad-gita:4.26, tea:bhagavad-gita:4.27, tea:bhagavad-gita:4.28, tea:bhagavad-gita:4.29, tea:bhagavad-gita:4.30, tea:bhagavad-gita:4.31, tea:bhagavad-gita:4.32, tea:bhagavad-gita:4.33, tea:bhagavad — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, skeleton:U12-mimamsa. Generated 2026-09-29 17:45 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, skeleton:U12-mimamsa. Generated 2026-09-29 18:02 IST._

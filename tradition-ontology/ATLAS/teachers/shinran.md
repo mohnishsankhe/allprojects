@@ -24,4 +24,4 @@ Hōnen's disciple who, laicised and exiled to Echigo in 1207, called himself 'Gu
 **Realization — the tradition's account:** After twenty years as a hall monk on Mt Hiei he secluded himself in the Rokkakudō for a hundred days; on the ninety-fifth dawn Prince Shōtoku (Kannon) appeared in a dream, and he went to Hōnen (Eshinni's letters; Godenshō). He 'abandoned the miscellaneous practices and took refuge in the primal vow' in 1201 (Kyōgyōshinshō postscript).
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._

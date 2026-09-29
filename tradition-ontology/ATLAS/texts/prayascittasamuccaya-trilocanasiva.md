@@ -15,4 +15,4 @@ Trilocanaśiva's compendium of expiations (prāyaścitta) for initiated Śaivas 
   - kind: original; name: ed. R. Sathyanarayanan (IFP, 1998) — moderate confidence
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._

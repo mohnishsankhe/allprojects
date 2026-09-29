@@ -10,4 +10,4 @@ Named in the Gītā only as Saumadatti, 'the son of Somadatta', among the leader
 _Notes: Saumadatti = Bhūriśravas is the epic identification. Linked in BhG ch. 1–3 at 1.8._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:45 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:02 IST._

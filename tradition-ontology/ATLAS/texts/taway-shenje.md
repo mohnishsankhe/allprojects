@@ -44,7 +44,7 @@ In Tibet three views are held to be Madhyamaka: the Madhyamaka of the eternalist
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, ultimate_
 
-concepts: [Self-emptiness (rang stong)](../concepts/rangtong.md), [Other-emptiness (gzhan stong)](../concepts/zhentong.md) · teachers: [Gorampa Sönam Senge](../teachers/gorampa.md), [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md), [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) · disputes: [What does Madhyamaka reasoning negate: inherent existence only, or all four extremes including existence itself?](../debates/object-of-negation-madhyamaka.md), [Empty of self, or empty of other?](../debates/rangtong-shentong.md), [Prāsaṅgika against Svātantrika](../debates/prasangika-svatantrika.md)
+teachers: [Gorampa Sönam Senge](../teachers/gorampa.md) · disputes: [What does Madhyamaka reasoning negate: inherent existence only, or all four extremes including existence itself?](../debates/object-of-negation-madhyamaka.md), [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
 
 ### ultimate-not-object <a id="tea-taway-shenje-ultimate-not-object"></a>
 `skeleton` · confidence moderate
@@ -57,4 +57,4 @@ teachers: [Gorampa Sönam Senge](../teachers/gorampa.md) · disputes: [Is the ul
 
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._

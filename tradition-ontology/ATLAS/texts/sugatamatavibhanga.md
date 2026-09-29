@@ -16,4 +16,4 @@ Jitāri's verses with auto-commentary distinguishing the Buddhist tenet systems 
   - kind: translation; name: Tibetan translation, Derge Tengyur D3900 (bhāṣya) — catalog:Derge-Tengyur:D3900
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._

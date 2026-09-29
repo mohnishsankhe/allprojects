@@ -16,4 +16,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/kalpaH/ApastambaH/apastamba_shrauta_sutra.md — The definition's cited passages were all checked in this sweep and support it: tea:apastamba-srautasutra:24.1.30-33 (confirmed).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

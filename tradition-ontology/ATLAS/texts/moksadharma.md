@@ -147,7 +147,7 @@ Pañcaśikha, Āsuri's disciple, examines for Janadeva Janaka the views of what 
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, death-dying_
 
-concepts: [The self](../concepts/the-self.md) · teachers: [Pañcaśikha](../teachers/pancasikha.md), [Janadeva Janaka](../teachers/janadeva-janaka.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [The self](../concepts/the-self.md) · teachers: [Pañcaśikha](../teachers/pancasikha.md), [Janadeva Janaka](../teachers/janadeva-janaka.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 12.215.15 <a id="tea-moksadharma-12-215-15"></a>
 `sourced` · confidence high
@@ -156,7 +156,7 @@ Prahlāda to Indra: by their own nature (svabhāva) all states come into being a
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation, dispute_
 
-terms: [svabhāva](../terms/svabhava.md) · teachers: [Prahlāda](../teachers/prahlada.md) · disputes: [What moves events — fate, time, nature, the Lord, karma, or human effort?](../debates/fate-or-effort.md), `dsp:causation`
+terms: [svabhāva](../terms/svabhava.md) · teachers: [Prahlāda](../teachers/prahlada.md) · disputes: [What moves events — fate, time, nature, the Lord, karma, or human effort?](../debates/fate-or-effort.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 12.217.25 <a id="tea-moksadharma-12-217-25"></a>
 `sourced` · confidence high
@@ -428,7 +428,7 @@ Asked whether there are many puruṣas or one, Vaiśampāyana says the Sāṃkhy
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, ultimate_
 
-terms: [puruṣa](../terms/purusa.md) · disputes: [Are the puruṣas many, or is there one Puruṣa? (MBh 12.294–296, 12.338)](../debates/one-or-many-purusas-epic.md), `dsp:souls-one-or-distinct`
+terms: [puruṣa](../terms/purusa.md) · disputes: [Are the puruṣas many, or is there one Puruṣa? (MBh 12.294–296, 12.338)](../debates/one-or-many-purusas-epic.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 12.340-353 <a id="tea-moksadharma-12-340-353"></a>
 `sourced` · confidence low
@@ -447,4 +447,4 @@ _Notes: Vulgate range given from memory (moderate)._
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.168.8 (Senajit), 12.353.9 (last verse of the book), https://link.springer.com/article/10.1007/s10781-016-9293-z — CE 12.168–353 confirmed as the closing section of the Śāntiparvan (186 chapters). The vulgate range 12.174–365 was not verified (the local vulgate file follows a different, 375-chapter Śāntiparvan numbering).
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._

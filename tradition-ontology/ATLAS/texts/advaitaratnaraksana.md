@@ -13,4 +13,4 @@
 Madhusūdana's defence of Advaita against dualist (Nyāya and Vaiṣṇava) objections, on the authority of scripture for non-difference.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._

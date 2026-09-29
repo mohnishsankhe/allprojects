@@ -18,4 +18,4 @@
 An image (a tree), not a ladder; the order is the image's, and the flowers are deity practices.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._

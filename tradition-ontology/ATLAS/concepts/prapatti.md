@@ -20,4 +20,4 @@
 - same-as-under-standpoint → [Surrender to the Lord (śaraṇāgati / prapatti)](surrender-to-the-lord.md) (devotional): the Gītā's 'take refuge in me alone' (18.66) — rests on [6.10.10](../texts/tiruvaymoli.md#tea-tiruvaymoli-6-10-10), [18.66](../texts/bhagavad-gita.md#tea-bhagavad-gita-18-66)
 
 ---
-_Contributed by: skeleton:U14-visistadvaita, skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U14-visistadvaita, skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._

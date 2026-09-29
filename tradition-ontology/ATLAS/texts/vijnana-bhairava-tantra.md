@@ -784,7 +784,7 @@ For one who meditates on the universe as a magic show (indrajāla), or as spread
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: [māyā](../terms/maya.md) · practices: [Vijñāna Bhairava dhāraṇā 77: The world as a magic show or a painting](../practices/vbt-dharana-77.md) · disputes: `dsp:world-real-or-appearance`
+terms: [māyā](../terms/maya.md) · practices: [Vijñāna Bhairava dhāraṇā 77: The world as a magic show or a painting](../practices/vbt-dharana-77.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 103 <a id="tea-vijnana-bhairava-tantra-103"></a>
 `skeleton` · confidence moderate
@@ -1056,7 +1056,7 @@ terms: [nirādhāra](../terms/niradhara.md) · practices: [Vijñāna Bhairava dh
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: unmarked · types: practice, consciousness-mind, ultimate_
 
-terms: [māyā](../terms/maya.md) · practices: [Vijñāna Bhairava dhāraṇā 107: 'What reality has a magic show?'](../practices/vbt-dharana-107.md) · disputes: `dsp:world-real-or-appearance`
+terms: [māyā](../terms/maya.md) · practices: [Vijñāna Bhairava dhāraṇā 107: 'What reality has a magic show?'](../practices/vbt-dharana-107.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 134 <a id="tea-vijnana-bhairava-tantra-134"></a>
 `skeleton` · confidence moderate
@@ -1209,4 +1209,4 @@ terms: [haṃsa](../terms/hamsa.md), [ajapā](../terms/ajapa.md) · practices: [
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

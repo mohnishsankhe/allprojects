@@ -21,4 +21,4 @@
 **Related:** [Viṣṇu](visnu.md), [Vāsudeva](vasudeva.md), [Nara-Nārāyaṇa](nara-narayana.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic, skeleton:U14-visistadvaita, skeleton:U25-alvar-bhakti-theory, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic, skeleton:U14-visistadvaita, skeleton:U25-alvar-bhakti-theory, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:02 IST._

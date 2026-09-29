@@ -15,4 +15,4 @@ A real object (above all the four truths) is cultivated until, at its culminatio
 - Vividness alone does not make a cognition valid: those overcome by desire, grief, fear, madness or dream also see unreal things as if before them. — [Pramāṇavārttika](../texts/pramanavarttika.md) 2.282
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._

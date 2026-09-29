@@ -15,4 +15,4 @@
 **Related:** [niyati](niyati.md), [svabhāva](svabhava.md)
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._

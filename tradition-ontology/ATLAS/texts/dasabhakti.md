@@ -14,4 +14,4 @@
 Ten devotional hymns (to the Siddhas, scripture, conduct, the yogins, the ācāryas, nirvāṇa and others) used in Digambara liturgy; the Sanskrit set is ascribed to Pūjyapāda.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._

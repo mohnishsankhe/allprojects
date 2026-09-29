@@ -9,4 +9,4 @@
 Sylheti Bāul singer-poet, called Bāul Samrāṭ, whose songs join mystic longing and social protest.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._

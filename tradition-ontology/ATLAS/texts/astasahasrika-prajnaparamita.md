@@ -80,7 +80,7 @@ Subhūti tells the gods that beings are like an illusion, like a dream; all dhar
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [māyopama](../terms/mayopama.md), [nirvāṇa](../terms/nirvana.md) · concepts: [Emptiness in the Perfection of Wisdom sūtras](../concepts/emptiness-prajnaparamita.md) · disputes: `dsp:world-real-or-appearance`
+terms: [māyopama](../terms/mayopama.md), [nirvāṇa](../terms/nirvana.md) · concepts: [Emptiness in the Perfection of Wisdom sūtras](../concepts/emptiness-prajnaparamita.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 2 <a id="tea-astasahasrika-prajnaparamita-2-2"></a>
 `skeleton` · confidence high
@@ -267,4 +267,4 @@ concepts: [The sūtra as object of worship](../concepts/cult-of-the-book.md) · 
 _Notes: Locator convention: parivarta 1-32 of Vaidya's ed.; Vaidya page numbers in teaching sections. Title and chapter colophons checked in the local GRETIL e-text (catalog:GRETIL-dev astasahasrika_prajnaparamita)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._

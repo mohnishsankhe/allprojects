@@ -32,4 +32,4 @@ The Mīmāṃsā–Vedānta disagreement remains: it concerns what the Veda requ
 
 - 2026-09-28 text-locate+websearch: partially-confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (Sarup ed., GRETIL), https://elisafreschi.com/tag/sabara/ — Yāska's three views located (Nirukta 7.6–7). Śabara side: the locus left at chapter level in the entry can be specified — Śabara on Mīmāṃsā Sūtra 9.1 (devatādhikaraṇa, adhikaraṇa 4) discusses that the deity does not prompt the rite (na devatā prayojikā); the fuller 'gods are not embodied' argument was not seen in the sources found. Brahma Sūtra 1.3.26–33 is the standard devatādhikaraṇa (not re-checked).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._

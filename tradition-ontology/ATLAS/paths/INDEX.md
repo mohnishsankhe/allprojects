@@ -1,6 +1,6 @@
-# Path maps (175)
+# Path maps (176)
 
-skeleton: 149 · sourced: 26
+skeleton: 150 · sourced: 26
 
 - [Action, then knowledge or devotion (Uddhava Gītā 11.20)](uddhava-gita-three-yogas.md) — `skeleton`
 - [Advayatāraka: targets, voids and tāraka](advayataraka-voids.md) — `sourced`
@@ -67,6 +67,7 @@ skeleton: 149 · sourced: 26
 - [The five golden dharmas of the Shangpa (the tree)](shangpa-five-golden-dharmas.md) — `skeleton`
 - [The five limbs of puraścaraṇa (mastery of a mantra)](purascarana-five-limbs.md) — `skeleton`
 - [The five means of YS 1.20 as a sequence (YBh 1.20)](yoga-sutra-five-means.md) — `skeleton`
+- [The five paths of Pacification (Tsele Natsok Rangdrol's arrangement)](shije-five-paths.md) — `skeleton`
 - [The five ranks of merit (Dongshan)](dongshan-five-ranks-of-merit.md) — `skeleton`
 - [The five ranks of the real and the apparent (Dongshan / Caoshan)](dongshan-five-ranks.md) — `skeleton`
 - [The five stages of cognition-only practice (Cheng weishi lun)](cheng-weishi-lun-five-stages.md) — `skeleton`

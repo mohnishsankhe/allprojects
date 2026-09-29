@@ -34,4 +34,4 @@ _none recorded_
 _Notes: Known here only through the Theravāda commentary (reported by an opponent). Created by U37 to name the opponents of Kathāvatthu debates; U38 owns lin:mahasanghika._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._

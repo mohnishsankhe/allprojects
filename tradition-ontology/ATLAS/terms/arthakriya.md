@@ -17,4 +17,4 @@
 **Related:** [svalakṣaṇa](svalaksana.md), [paramārthasat](paramarthasat.md), [tathya-saṃvṛti](tathya-samvrti.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._

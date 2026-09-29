@@ -15,4 +15,4 @@
 _Notes: A variant quoted in the Parātrīśikāvivaraṇa places Kula before Mata._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

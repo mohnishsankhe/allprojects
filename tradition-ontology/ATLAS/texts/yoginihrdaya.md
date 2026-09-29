@@ -59,7 +59,7 @@ When the supreme Śakti, of her own will taking the form of the universe, behold
 
 _level: ultimate · standpoint: cosmic · path: knowledge · stage: advanced · types: world-fate, ultimate_
 
-concepts: [The Śrī Yantra (Śrīcakra)](../concepts/sri-yantra.md), [The union of Śiva and Śakti (śiva-śakti-aikya, sāmarasya)](../concepts/siva-sakti-union.md), [Light and reflexive awareness (prakāśa-vimarśa)](../concepts/prakasa-vimarsa.md) · disputes: `dsp:causation`
+concepts: [The Śrī Yantra (Śrīcakra)](../concepts/sri-yantra.md), [The union of Śiva and Śakti (śiva-śakti-aikya, sāmarasya)](../concepts/siva-sakti-union.md), [Light and reflexive awareness (prakāśa-vimarśa)](../concepts/prakasa-vimarsa.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 1.13 <a id="tea-yoginihrdaya-1-13"></a>
 `skeleton` · confidence high
@@ -168,4 +168,4 @@ concepts: [The three kinds of worship (parā, parāparā, aparā)](../concepts/t
 _Notes: Verse numbers from the Benares edition as transcribed by Muktabodha._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._

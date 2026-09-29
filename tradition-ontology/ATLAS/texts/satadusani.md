@@ -13,7 +13,18 @@
 
 Deśika's polemic against Advaita, planned as a hundred refutations (vāda) of which about sixty-six survive, attacking the attributeless Brahman, the unreality of the world, avidyā and liberation while living.
 
-## Teachings (1: skeleton 1)
+## Teachings (2: skeleton 2)
+
+### opening verse(s) (maṅgala) <a id="tea-satadusani-opening"></a>
+`skeleton` · confidence moderate
+
+Following the ancient path seen by Yatirāja (Rāmānuja), or resorting to a doctrine close to it, O wise ones, reciting this (work) as it has been stated, like parrots, strive on every side for victory over the crypto-Buddhists (pracchanna-bauddha).
+
+> प्राचीमुपेत्य पदवीं यतिराजदृष्टां तत्सन्निकृष्टमपि वा मतमाश्रयन्तः । प्राज्ञा यथोदितमिदं शुकवत्पठन्तः प्रच्छन्नबौद्धविजये परितो यतध्वम्
+
+_level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, teacher-transmission_
+
+teachers: [Vedānta Deśika](../teachers/vedanta-desika.md) · disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
 
 ### vāda on liberation while living <a id="tea-satadusani-jivanmukti"></a>
 `skeleton` · confidence low
@@ -26,4 +37,4 @@ concepts: [Liberation while living (jīvanmukti)](../concepts/jivanmukti.md) · 
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._

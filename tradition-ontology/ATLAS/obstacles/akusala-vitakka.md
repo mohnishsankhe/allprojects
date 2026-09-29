@@ -12,4 +12,4 @@ Thoughts of sensuality, ill will and cruelty (MN 19), connected with desire, hat
   - [Vitakkasaṇṭhāna Sutta](../texts/vitakkasanthana-sutta.md) — ref: 2-8; rests_on: ["tea:vitakkasanthana-sutta:2-8"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

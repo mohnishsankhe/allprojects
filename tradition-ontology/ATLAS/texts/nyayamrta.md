@@ -25,7 +25,7 @@ The world is real: the five Advaita definitions of falsity (mithyātva) are refu
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: world-fate, dispute_
 
-concepts: [The reality of the world (jagat-satyatva)](../concepts/jagat-satyatva.md), [The critique of māyā (māyāvāda-khaṇḍana)](../concepts/mayavada-khandana.md) · teachers: [Vyāsatīrtha](../teachers/vyasatirtha.md) · disputes: `dsp:world-real-or-appearance`, [Is the world false (mithyā), and can the Advaita definitions of falsity withstand Vyāsatīrtha's critique? (The Nyāyāmṛta–Advaitasiddhi controversy)](../debates/nyayamrta-advaitasiddhi.md)
+concepts: [The reality of the world (jagat-satyatva)](../concepts/jagat-satyatva.md), [The critique of māyā (māyāvāda-khaṇḍana)](../concepts/mayavada-khandana.md) · teachers: [Vyāsatīrtha](../teachers/vyasatirtha.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), [Is the world false (mithyā), and can the Advaita definitions of falsity withstand Vyāsatīrtha's critique? (The Nyāyāmṛta–Advaitasiddhi controversy)](../debates/nyayamrta-advaitasiddhi.md)
 
 ### 2 <a id="tea-nyayamrta-2"></a>
 `skeleton` · confidence high
@@ -34,7 +34,7 @@ The Upaniṣadic sentences ('satyaṃ jñānam anantam', 'tat tvam asi') do not 
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-concepts: ['Atat tvam asi' — Dvaita's reading of Chāndogya 6.8.7](../concepts/atat-tvam-asi.md), [The five differences (pañca-bheda)](../concepts/pancabheda.md) · teachers: [Vyāsatīrtha](../teachers/vyasatirtha.md) · disputes: [What does 'tat tvam asi' (Chāndogya Upaniṣad 6.8.7) teach — identity of soul and Brahman, or something else?](../debates/tat-tvam-asi.md), `dsp:souls-one-or-distinct`, [Is the world false (mithyā), and can the Advaita definitions of falsity withstand Vyāsatīrtha's critique? (The Nyāyāmṛta–Advaitasiddhi controversy)](../debates/nyayamrta-advaitasiddhi.md)
+concepts: ['Atat tvam asi' — Dvaita's reading of Chāndogya 6.8.7](../concepts/atat-tvam-asi.md), [The five differences (pañca-bheda)](../concepts/pancabheda.md) · teachers: [Vyāsatīrtha](../teachers/vyasatirtha.md) · disputes: [What does 'tat tvam asi' (Chāndogya Upaniṣad 6.8.7) teach — identity of soul and Brahman, or something else?](../debates/tat-tvam-asi.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md), [Is the world false (mithyā), and can the Advaita definitions of falsity withstand Vyāsatīrtha's critique? (The Nyāyāmṛta–Advaitasiddhi controversy)](../debates/nyayamrta-advaitasiddhi.md)
 
 ### 3 <a id="tea-nyayamrta-3"></a>
 `skeleton` · confidence high
@@ -58,4 +58,4 @@ concepts: [Liberation (mokṣa) in Dvaita](../concepts/moksa.md), [Graded bliss 
 _Notes: Four paricchedas, their opening sections and concluding sentences checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._

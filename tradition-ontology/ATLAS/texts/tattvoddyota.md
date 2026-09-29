@@ -26,8 +26,8 @@ The liberated soul in question is different (from Brahman), because it is libera
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, karma-liberation_
 
-terms: [bheda](../terms/bheda.md), [anirvacanīya](../terms/anirvacaniya.md), [mokṣa](../terms/moksa.md) · concepts: [Eternal distinction in liberation](../concepts/difference-in-liberation.md), [The critique of māyā (māyāvāda-khaṇḍana)](../concepts/mayavada-khandana.md) · disputes: `dsp:souls-one-or-distinct`
+terms: [bheda](../terms/bheda.md), [anirvacanīya](../terms/anirvacaniya.md), [mokṣa](../terms/moksa.md) · concepts: [Eternal distinction in liberation](../concepts/difference-in-liberation.md), [The critique of māyā (māyāvāda-khaṇḍana)](../concepts/mayavada-khandana.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._

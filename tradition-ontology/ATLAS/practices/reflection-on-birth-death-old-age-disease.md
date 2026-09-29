@@ -9,7 +9,7 @@
 Constantly seeing the faults of birth, death, old age, disease and sorrow, one of the marks called knowledge (13.8).
 **Stage:** all
 **Sources:** 
-  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 13.8; rests_on: ["tea:bhagavad-gita:13.7-11"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 13.8; rests_on: ["tea:bhagavad-gita:13.8-12"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._

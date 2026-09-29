@@ -86,7 +86,7 @@ The jīvas are not different from the self, nor is the world different from it: 
 
 _level: bridging · standpoint: cosmic · path: knowledge · stage: all · types: ultimate, world-fate, dispute_
 
-terms: [vivarta](../terms/vivarta.md), [pariṇāma](../terms/parinama.md) · disputes: `dsp:causation`, `dsp:world-real-or-appearance`
+terms: [vivarta](../terms/vivarta.md), [pariṇāma](../terms/parinama.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md), [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 1.2.14-17 <a id="tea-sangita-ratnakara-1-2-14-17"></a>
 `skeleton` · confidence high
@@ -195,4 +195,4 @@ obstacles: [The twenty-five faults of singers](../obstacles/gayaka-dosas.md)
 _Notes: Wording and locator checked in Phase B against a local e-text in sources_raw/; still a skeleton entry (not fidelity-checked)._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:02 IST._

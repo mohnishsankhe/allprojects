@@ -16,4 +16,4 @@ A sādhana-section tantra of the Mañjuśrī (enlightened body; Yamāntaka) clas
 _Notes: Existence and title local (catalog:Derge-Kangyur:D838); the assignment to the Eight Herukas (bka' brgyad) is the unit's reading from memory of the Nyingma classification._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._

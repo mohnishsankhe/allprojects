@@ -58,7 +58,7 @@ Are souls eternal or not eternal? In one respect eternal, in another not: as sub
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind, ultimate_
 
-concepts: [Many-sidedness (anekāntavāda)](../concepts/anekantavada.md), [The Jain soul (jīva)](../concepts/jiva-jain.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [Many-sidedness (anekāntavāda)](../concepts/anekantavada.md), [The Jain soul (jīva)](../concepts/jiva-jain.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 9.33 <a id="tea-bhagavati-sutra-9-33"></a>
 `skeleton` · confidence high
@@ -183,4 +183,4 @@ terms: [namaskāra-mantra](../terms/namaskara-mantra.md), [parameṣṭhin](../t
 _Notes: Not available locally; from memory._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._

@@ -14,4 +14,4 @@ Jat householder Sant of Haryana who at ten met Kabīr in person and thereafter d
 **Realization — the tradition's account:** Kabīr appeared to him in the fields at the age of ten and showed him Satlok.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._

@@ -24,4 +24,4 @@ _Notes: Chapter 9 names the practice without further method; its other Gītā oc
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.28, tea:bhagavad-gita:4.33, tea:bhagavad-gita:4.34 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:9.15 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 17:45 IST._
+_Contributed by: extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 18:02 IST._

@@ -12,4 +12,4 @@ Practising in life the recognitions to be made after death: resting in the clear
   - [Yeshe Lama (ye shes bla ma, the Supreme Wisdom)](../texts/yeshe-lama.md) — ref: bardo; rests_on: ["tea:yeshe-lama:bardo"]
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._

@@ -13,4 +13,4 @@
 Hossō (Faxiang) monk and reformer, devoted to Maitreya, Kannon and Śākyamuni, who drafted the Kōfukuji petition of 1205 against the exclusive nenbutsu.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._

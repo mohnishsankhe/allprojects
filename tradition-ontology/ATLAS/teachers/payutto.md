@@ -13,4 +13,4 @@
 Thai scholar-monk (b. 1938), author of Buddhadhamma, a systematic exposition of the canon, and of a critique of the Dhammakāya teaching that nibbāna is a self.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._

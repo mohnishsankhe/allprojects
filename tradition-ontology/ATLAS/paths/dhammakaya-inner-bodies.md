@@ -16,4 +16,4 @@
 From secondary knowledge only (no primary text read); the number of bodies (18 in some accounts) not asserted. Bands are U37's interpretive placement; the tradition's own claim that these bodies are the paths is recorded, not endorsed.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._

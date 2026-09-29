@@ -26,4 +26,4 @@ The powers arising from yoga are obstacles for one practising the highest yoga, 
 
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text.
 
-_Contributed by: skeleton:U07-puranas, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._

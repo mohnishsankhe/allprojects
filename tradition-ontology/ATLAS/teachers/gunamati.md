@@ -14,4 +14,4 @@
 Yogācāra master of Valabhī reported by Xuanzang, teacher of Sthiramati and one of the ten masters of the Cheng weishi lun.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._

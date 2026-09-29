@@ -26,8 +26,8 @@ The doctrine in question is not to be taken up, since it teaches what is otherwi
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, ultimate_
 
-terms: [māyāvāda](../terms/mayavada.md), [avidyā](../terms/avidya.md) · concepts: [The critique of māyā (māyāvāda-khaṇḍana)](../concepts/mayavada-khandana.md) · disputes: `dsp:world-real-or-appearance`, `dsp:souls-one-or-distinct`
+terms: [māyāvāda](../terms/mayavada.md), [avidyā](../terms/avidya.md) · concepts: [The critique of māyā (māyāvāda-khaṇḍana)](../concepts/mayavada-khandana.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._

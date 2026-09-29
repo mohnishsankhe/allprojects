@@ -15,4 +15,4 @@
 - part-of → [The thirty-six principles (ṣaṭtriṃśat-tattva)](thirty-six-tattvas.md): Śaiva schemes of thirty-six principles include these twenty-five as their lower principles (the Śaiva account; interpretive link) — rests on [3](../texts/samkhya-karika.md#tea-samkhya-karika-3)
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._

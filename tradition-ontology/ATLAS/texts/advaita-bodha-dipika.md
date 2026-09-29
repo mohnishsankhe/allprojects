@@ -11,4 +11,4 @@
 A late catechetical Advaita treatise attributed to Karapātra Svāmī, known through its Tamil rendering in Ramaṇa Maharṣi's circle.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._

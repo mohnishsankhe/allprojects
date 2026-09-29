@@ -27,4 +27,4 @@ The great 5th-century commentator of the Mahāvihāra, author of the Visuddhimag
 **Realization — the tradition's account:** The Cūḷavaṃsa tells that he was a brahmin versed in the Vedas, converted by the elder Revata, and that the gods twice hid his Visuddhimagga so that he wrote it three times, each copy identical — proof that he was fit to render the commentaries; the Burmese Buddhaghosuppatti adds further legends.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._

@@ -24,10 +24,10 @@ The Four Tantras are the word of the Medicine Buddha; the commentary settles dis
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: teacher-transmission, dispute_
 
-teachers: [Desi Sangye Gyatso (sde srid sangs rgyas rgya mtsho)](../teachers/desi-sangye-gyatso.md) · disputes: `dsp:gyushi-buddha-word`
+teachers: [Desi Sangye Gyatso (sde srid sangs rgyas rgya mtsho)](../teachers/desi-sangye-gyatso.md) · disputes: [Is the Four Tantras (rgyud bzhi) the word of the Buddha, or a treatise composed in Tibet?](../debates/gyushi-buddha-word.md)
 
 
 _Notes: Not found in the local catalogue under 'Blue Beryl' or 'bai durya sngon po'._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

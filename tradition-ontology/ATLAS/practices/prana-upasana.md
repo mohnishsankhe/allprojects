@@ -18,4 +18,4 @@ Venerate breath as the eldest and best, as brahman (KauU 2.1-2; ChU 4.10.4), as 
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/kausitaki-upanisad-sharada — All 8 Upaniṣad refs cited in the entry are located in the prepared segments (KauU 2.1-2; ChU 4.10.4; KauU 3.2; BĀU 6.1.14; ChU 5.2; ChU 5.1-2; BĀU 6.1; PrU 2). It rests on 6 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._

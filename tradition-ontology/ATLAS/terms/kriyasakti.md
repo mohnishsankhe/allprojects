@@ -16,4 +16,4 @@
 **Related:** [dṛkśakti](drksakti.md), [manojavitva](manojavitva.md), [kāmarūpitva](kamarupitva.md), [vikaraṇadharmitva](vikaranadharmitva.md)
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U23-sakta-srividya. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._

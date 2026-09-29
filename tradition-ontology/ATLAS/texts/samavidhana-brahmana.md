@@ -16,4 +16,4 @@ A Kauthuma Sāmaveda manual of the application (vidhāna) of sāman chants outsi
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Sāmavidhānabrāhmaṇa, https://vedicheritage.gov.in/brahmanas/samavidhana-brahmana/ — Extant; 3 prapāṭhakas (DCS; Vedic Heritage Portal: 3 prapāṭhakas with 8, 8 and 9 khaṇḍas). A manual of the magical and expiatory uses of sāmans, as the entry says.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

@@ -10,4 +10,4 @@
 One of two claimants recognized as the seventeenth Karmapa (recognized by the Tai Situpa and endorsed by the Dalai Lama); left Tibet in 2000.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._

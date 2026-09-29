@@ -50,4 +50,4 @@ _Notes: The same figure and the same maxim recur in Bhāgavata Purāṇa 11.8.22
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.168.46-52 'piṅgalā' (12.168.52 the saying) — Section located at CE 12.168 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._

@@ -16,4 +16,4 @@ Comparing one's body with a corpse in its stages of decay — bloated, devoured,
 _Notes: A contemplation (imagined or seen); the texts do not prescribe any bodily act. Charnel-ground dwelling appears among the ascetic practices (see prc:dhutanga)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

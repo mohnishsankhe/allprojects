@@ -48,7 +48,7 @@ The well-educated Cārvāka says: let there be one knower lasting as long as the
 
 _level: unmarked · standpoint: polemical · path: general · stage: unmarked · types: consciousness-mind, death-dying, dispute_
 
-terms: [suśikṣita-cārvāka](../terms/susiksita-carvaka.md) · concepts: [The well-educated Cārvākas](../concepts/susiksita-carvaka.md), [No other world (paraloka-abhāva)](../concepts/paraloka-denial.md) · disputes: [Does anything survive the body's death — is there another world and rebirth, or is consciousness a product of the body that ends with it?](../debates/materialism-and-the-other-world.md), [Is there a self?](../debates/is-there-a-self.md)
+terms: [suśikṣita-cārvāka](../terms/susiksita-carvaka.md) · concepts: [The well-educated Cārvākas](../concepts/susiksita-carvaka.md), [No other world (paraloka-abhāva)](../concepts/paraloka-denial.md) · disputes: [Does anything survive the body's death — is there another world and rebirth, or is consciousness a product of the body that ends with it?](../debates/materialism-and-the-other-world.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### āhnika 1 <a id="tea-nyayamanjari-1-veda-raksa"></a>
 `skeleton` · confidence low
@@ -77,4 +77,4 @@ disputes: [The status of the Veda: authorless, God-authored, or rejected?](../de
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._

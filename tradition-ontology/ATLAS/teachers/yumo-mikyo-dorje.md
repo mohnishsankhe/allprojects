@@ -12,4 +12,4 @@
 Eleventh-century Tibetan Kālacakra master, counted by the Jonang as the first Tibetan in their lineage of the six-branch yoga; a student of the Kashmiri paṇḍita Somanātha; the Four Clear Lamps are attributed to him.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

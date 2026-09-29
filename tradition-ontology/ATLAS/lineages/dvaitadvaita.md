@@ -49,7 +49,7 @@ The Vaiṣṇava Vedānta of Nimbārka: Brahman as Kṛṣṇa with Rādhā, and
 _none recorded_
 
 ## Debates
-[Is the individual self atomic or all-pervading?](../debates/atomic-or-pervasive-self.md), [Is the difference between Brahman and the soul due to adjuncts, natural, or inconceivable?](../debates/aupadhika-vs-svabhavika-bhedabheda.md), [Is the Haridāsī (Sakhī) sampradāya a branch of the Nimbārka sampradāya or an independent tradition?](../debates/haridasi-nimbarka-affiliation.md), [What is Rādhā's status — scriptural basis, relation to Kṛṣṇa, and place in worship?](../debates/status-of-radha.md), [Is the gopīs' (and Rādhā's) love for Kṛṣṇa paramour love (parakīyā) or wedded love (svakīyā) in truth?](../debates/svakiya-parakiya.md)
+[Is the individual self atomic or all-pervading?](../debates/atomic-or-pervasive-self.md), [Is the difference between Brahman and the soul due to adjuncts, natural, or inconceivable?](../debates/aupadhika-vs-svabhavika-bhedabheda.md), [Is the Haridāsī (Sakhī) sampradāya a branch of the Nimbārka sampradāya or an independent tradition?](../debates/haridasi-nimbarka-affiliation.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md), [What is Rādhā's status — scriptural basis, relation to Kṛṣṇa, and place in worship?](../debates/status-of-radha.md), [Is the gopīs' (and Rādhā's) love for Kṛṣṇa paramour love (parakīyā) or wedded love (svakīyā) in truth?](../debates/svakiya-parakiya.md)
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._

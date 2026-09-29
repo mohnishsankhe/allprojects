@@ -14,4 +14,4 @@ Pāñcarātra saṃhitā framed as Śrī's questions; a ritual authority for som
   - kind: original; name: ed. Seetha Padmanabhan, Tirupati 1969
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:02 IST._

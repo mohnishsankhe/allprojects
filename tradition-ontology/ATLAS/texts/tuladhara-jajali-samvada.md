@@ -24,4 +24,4 @@ The proud ascetic Jājali is sent to the merchant Tulādhāra of Vārāṇasī, 
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.253.1 tulādhārasya vākyāni ... jājalinā saha; 12.256.1 speaker Tulādhāra — Section located at CE 12.253-256 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._

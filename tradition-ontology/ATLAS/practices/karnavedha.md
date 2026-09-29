@@ -21,4 +21,4 @@ Piercing the child's ears, a later addition to the lists.
 
 - sources: Neither cited source has the rite: MDh 2.26–35 does not mention karṇavedha, and ĀśGS book 1 has no ear-piercing. The practice itself, and the entry's claim that it is a later addition to the lists, are confirmed. The Nirṇayasindhu (pariccheda 3, pūrvārdha) has the section 'ṣaṣṭhādimāse karṇavedhaḥ' and quotes Vyāsa's sixteen saṃskāras, including 'karṇavedho vratādeśo'. The Dharmasindhu (pariccheda 3, §43) has 'atha karṇavedhaḥ' with its times. Wikipedia's Karṇavedha article agrees. Correction: the sources are replaced by the two digests, both of which are in this unit.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

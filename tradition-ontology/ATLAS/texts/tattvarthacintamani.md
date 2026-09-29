@@ -14,4 +14,4 @@
 Kallaṭa's commentary on the last section of the Śiva Sūtra (Bhāskara, Vārttika 1.5); lost.
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

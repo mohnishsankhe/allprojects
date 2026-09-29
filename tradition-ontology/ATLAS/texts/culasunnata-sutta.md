@@ -30,4 +30,4 @@ terms: [suññatā](../terms/sunnata.md), [animitta](../terms/animitta.md) · co
 _Notes: SuttaCentral uid mn121; Mahāsaṅgīti title 'Cūḷasuññatasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

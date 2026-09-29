@@ -11,4 +11,4 @@ Abbot of Menri in exile (Dolanji), spiritual head of Bön.
 _Notes: Optional (Bön)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._

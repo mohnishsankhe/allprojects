@@ -58,7 +58,7 @@ The Lord is the knower of the field in all fields; the appearance of the embodie
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: ultimate, consciousness-mind_
 
-terms: [avidyā](../terms/avidya.md), [jīva](../terms/jiva.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Where does ignorance (avidyā) reside — in the individual self (jīva) or in Brahman?](../debates/locus-of-avidya.md), `dsp:souls-one-or-distinct`
+terms: [avidyā](../terms/avidya.md), [jīva](../terms/jiva.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Where does ignorance (avidyā) reside — in the individual self (jīva) or in Brahman?](../debates/locus-of-avidya.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 18.66 <a id="tea-gita-bhasya-sankara-18-66"></a>
 `skeleton` · confidence moderate
@@ -88,4 +88,4 @@ concepts: [Action (karma) in Advaita](../concepts/karma-in-advaita.md), [The pat
 
 - dating: Text and attribution confirmed. Dating label corrected: 788–820 CE is the older scholarly convention, not the maṭhas' account. The traditional account of some cardinal maṭhas (notably Kāñcī) is 509–477 BCE. Modern scholarship puts Śaṅkara c. 700–750 (Nakamura). The two accounts are kept separate. (U13's tch:sankara uses a similar "788–820 = traditional reckoning" framing; flag for the U13 sweep and reconciliation.)
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._

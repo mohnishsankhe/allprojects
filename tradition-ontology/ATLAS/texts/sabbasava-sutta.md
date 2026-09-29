@@ -33,7 +33,7 @@ Unwise attention asks: did I exist in the past? what was I? shall I exist in the
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind_
 
-concepts: [The ten fetters](../concepts/ten-fetters.md) · obstacles: [Identity view (sakkāyadiṭṭhi)](../obstacles/sakkaya-ditthi.md), [Doubt (vicikicchā)](../obstacles/vicikiccha.md), [Clinging to rules and observances](../obstacles/silabbata-paramasa.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [The ten fetters](../concepts/ten-fetters.md) · obstacles: [Identity view (sakkāyadiṭṭhi)](../obstacles/sakkaya-ditthi.md), [Doubt (vicikicchā)](../obstacles/vicikiccha.md), [Clinging to rules and observances](../obstacles/silabbata-paramasa.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 12-21 <a id="tea-sabbasava-sutta-12-21"></a>
 `skeleton` · confidence high
@@ -48,4 +48,4 @@ concepts: [The seven factors of awakening](../concepts/seven-bojjhangas.md) · p
 _Notes: SuttaCentral uid mn2; Mahāsaṅgīti title 'Sabbāsavasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

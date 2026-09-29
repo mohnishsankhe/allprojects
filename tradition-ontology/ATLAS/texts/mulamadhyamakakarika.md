@@ -44,7 +44,7 @@ No existents whatsoever are ever found anywhere that have arisen from themselves
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: unmarked · types: ultimate_
 
-terms: [anutpāda](../terms/anutpada.md), [catuṣkoṭi](../terms/catuskoti.md) · concepts: [Non-arising by the four alternatives](../concepts/non-arising-four-alternatives.md), [The four-cornered negation (catuṣkoṭi)](../concepts/catuskoti.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: `dsp:causation`, [Prāsaṅgika against Svātantrika](../debates/prasangika-svatantrika.md)
+terms: [anutpāda](../terms/anutpada.md), [catuṣkoṭi](../terms/catuskoti.md) · concepts: [Non-arising by the four alternatives](../concepts/non-arising-four-alternatives.md), [The four-cornered negation (catuṣkoṭi)](../concepts/catuskoti.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md), [Prāsaṅgika against Svātantrika](../debates/prasangika-svatantrika.md)
 
 ### 1.2 <a id="tea-mulamadhyamakakarika-1-2"></a>
 `skeleton` · confidence high
@@ -88,7 +88,7 @@ Therefore the effect is neither made of the conditions nor made of what are not 
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: unmarked · types: ultimate_
 
-terms: [pratyaya](../terms/pratyaya.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: `dsp:causation`
+terms: [pratyaya](../terms/pratyaya.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 2.1 <a id="tea-mulamadhyamakakarika-2-1"></a>
 `skeleton` · confidence high
@@ -264,7 +264,7 @@ By what could an entity established prior to seeing, hearing and feeling be made
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: ultimate, dispute_
 
-terms: [ātman](../terms/atman.md), [prajñapti](../terms/prajnapti.md) · concepts: [The self as a dependent designation](../concepts/self-as-dependent-designation.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md), [prajñapti](../terms/prajnapti.md) · concepts: [The self as a dependent designation](../concepts/self-as-dependent-designation.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 9.12 <a id="tea-mulamadhyamakakarika-9-12"></a>
 `skeleton` · confidence high
@@ -297,7 +297,7 @@ By fire and fuel the whole relation of the self and the grasped (aggregates) is 
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: ultimate, dispute_
 
-terms: [ātman](../terms/atman.md), [upādāna](../terms/upadana.md) · concepts: [The self as a dependent designation](../concepts/self-as-dependent-designation.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md), [upādāna](../terms/upadana.md) · concepts: [The self as a dependent designation](../concepts/self-as-dependent-designation.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 11.1 <a id="tea-mulamadhyamakakarika-11-1"></a>
 `skeleton` · confidence high
@@ -330,7 +330,7 @@ Some hold that suffering is made by oneself, by another, by both or without caus
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: ultimate, karma-liberation_
 
-terms: [duḥkha](../terms/duhkha.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: `dsp:causation`
+terms: [duḥkha](../terms/duhkha.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 12.10 <a id="tea-mulamadhyamakakarika-12-10"></a>
 `skeleton` · confidence high
@@ -462,7 +462,7 @@ If the person transmigrates, it is not found when sought in five ways among the 
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: ultimate, karma-liberation_
 
-terms: [pudgala](../terms/pudgala.md) · concepts: [The fivefold analysis (of self or Tathāgata)](../concepts/fivefold-analysis.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a person (pudgala) that is neither the same as nor different from the aggregates?](../debates/pudgala.md), [Is there a self?](../debates/is-there-a-self.md)
+terms: [pudgala](../terms/pudgala.md) · concepts: [The fivefold analysis (of self or Tathāgata)](../concepts/fivefold-analysis.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a person (pudgala) that is neither the same as nor different from the aggregates?](../debates/pudgala.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 16.9 <a id="tea-mulamadhyamakakarika-16-9"></a>
 `skeleton` · confidence high
@@ -583,7 +583,7 @@ If the self were the aggregates, it would be subject to arising and passing away
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: unmarked · types: ultimate, consciousness-mind_
 
-terms: [ātman](../terms/atman.md), [skandha](../terms/skandha.md) · concepts: [The self as a dependent designation](../concepts/self-as-dependent-designation.md), [Analysis by identity and difference](../concepts/identity-difference-analysis.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md), [skandha](../terms/skandha.md) · concepts: [The self as a dependent designation](../concepts/self-as-dependent-designation.md), [Analysis by identity and difference](../concepts/identity-difference-analysis.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 18.2 <a id="tea-mulamadhyamakakarika-18-2"></a>
 `skeleton` · confidence high
@@ -638,7 +638,7 @@ The Buddhas have made known 'self', have taught 'no-self', and have taught that 
 
 _level: bridging · standpoint: apophatic · path: knowledge · stage: all · types: ultimate, teacher-transmission_
 
-terms: [ātman](../terms/atman.md), [nairātmya](../terms/nairatmya.md) · concepts: [Graded teaching fitted to the hearer](../concepts/graded-teaching.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md), [nairātmya](../terms/nairatmya.md) · concepts: [Graded teaching fitted to the hearer](../concepts/graded-teaching.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 18.7 <a id="tea-mulamadhyamakakarika-18-7"></a>
 `skeleton` · confidence high
@@ -726,7 +726,7 @@ The effect is not produced by the assemblage nor by what is not an assemblage; w
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: unmarked · types: ultimate_
 
-teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: `dsp:causation`
+teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 21.14 <a id="tea-mulamadhyamakakarika-21-14"></a>
 `skeleton` · confidence high
@@ -1155,7 +1155,7 @@ Thus the self is neither other than the grasped nor identical with it; there is 
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: unmarked · types: ultimate, consciousness-mind_
 
-terms: [ātman](../terms/atman.md), [upādāna](../terms/upadana.md) · concepts: [The self as a dependent designation](../concepts/self-as-dependent-designation.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md), [upādāna](../terms/upadana.md) · concepts: [The self as a dependent designation](../concepts/self-as-dependent-designation.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 27.29 <a id="tea-mulamadhyamakakarika-27-29"></a>
 `skeleton` · confidence high
@@ -1183,4 +1183,4 @@ terms: [dṛṣṭi](../terms/drsti.md), [karuṇā](../terms/karuna.md) · conc
 _Notes: Chapter titles confirmed from the Prasannapadā colophons in the local Vaidya/Tripathi e-text (ch.12 colophon reads 'duḥkhaparīkṣā'). Chapter verse counts (GRETIL): 14,25,9,9,8,10,34,13,12,16,8,10,8,8,11,10,33,12,6,24,21,16,25,40,24,12,30._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._

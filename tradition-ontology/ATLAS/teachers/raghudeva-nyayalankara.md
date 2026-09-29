@@ -12,4 +12,4 @@
 Navya-Naiyāyika to whom a set of vāda treatises (Muktivāda, Īśvaravāda, Prāgabhāvavāda, Ākāṅkṣāvāda, Sāmagrīvāda and others) is attributed in their modern edition.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._

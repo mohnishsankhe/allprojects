@@ -13,5 +13,10 @@ The fire rite: preparation of the fire and offerings to the Goddess and her reti
   - [Paraśurāma Kalpasūtra](../texts/parasurama-kalpasutra.md) — ref: khaṇḍa 9
 **Sequences:** [The Śrīvidyā sequence of initiation and worship (Paraśurāma Kalpasūtra)](../paths/srividya-krama-diksa.md)
 
+## Equivalents (interpretation layer)
+- analogous: [Tantric fire offering (homa)](homa-vajrayana.md) — tantric fire offering in Śākta and Buddhist forms
+
+_Notes: U49 contribution: cross-family equivalents only (other fields copied unchanged)._
+
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U49-cross-family. Generated 2026-09-29 18:02 IST._

@@ -41,8 +41,8 @@ The external therapies — bloodletting, moxibustion, hot and cold compresses, m
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: all · types: practice_
 
-terms: [tarka](../terms/tarka.md), [me btsa'](../terms/metsa.md), [bsku mnye](../terms/kunye.md) · practices: `prc:sowa-rigpa-external-therapies`, `prc:kunye`
+terms: [gtar ga](../terms/targa.md), [me btsa'](../terms/metsa.md), [bsku mnye](../terms/kunye.md) · practices: [External therapies (bloodletting, moxibustion, compresses, baths)](../practices/sowa-rigpa-external-therapies.md), [Kunye (bsku mnye) oil massage](../practices/kunye.md)
 
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

@@ -39,4 +39,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.6, tea:bhagavad-gita:12.12 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U15-dvaita, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, skeleton:U07-puranas, skeleton:U09-samkhya, skeleton:U28-hatha-texts, skeleton:U42-chan-zen, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch10-12, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka, skeleton:U04-minor-upanisads, skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, skeleton:U07-puranas, skeleton:U09-samkhya, skeleton:U28-hatha-texts, skeleton:U42-chan-zen, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch10-12, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka, skeleton:U04-minor-upanisads, skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._

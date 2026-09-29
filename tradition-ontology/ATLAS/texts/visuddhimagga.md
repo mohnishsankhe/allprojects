@@ -647,7 +647,7 @@ Because formations and the rest occur through ignorance and the other causes, th
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: karma-liberation, dispute_
 
-terms: [anattā](../terms/anatta.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [anattā](../terms/anatta.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### 17 <a id="tea-visuddhimagga-17-4"></a>
 `skeleton` · confidence high
@@ -680,7 +680,7 @@ As 'chariot' is a mere term for axles, wheels, frame and pole assembled in a cer
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, consciousness-mind_
 
-terms: [nāmarūpa](../terms/namarupa.md), [sammuti](../terms/sammuti.md), [paramattha](../terms/paramattha.md) · concepts: [Conventional and ultimate truth (sammuti- and paramattha-sacca)](../concepts/two-truths-theravada.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [nāmarūpa](../terms/namarupa.md), [sammuti](../terms/sammuti.md), [paramattha](../terms/paramattha.md) · concepts: [Conventional and ultimate truth (sammuti- and paramattha-sacca)](../concepts/two-truths-theravada.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 19 <a id="tea-visuddhimagga-19"></a>
 `skeleton` · confidence high
@@ -898,4 +898,4 @@ terms: [vibhajjavāda](../terms/vibhajjavada.md) · teachers: [Buddhaghosa](../t
 _Notes: Chapter titles and PTS page ranges checked in the local e-text (running heads)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._

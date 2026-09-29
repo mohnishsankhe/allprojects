@@ -111,7 +111,7 @@ Beings with inverted views see the permanent as impermanent, the blissful as suf
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-terms: [guṇa-pāramitā](../terms/guna-paramita.md), [viparyāsa](../terms/viparyasa.md) · concepts: [The four perfections of the dharmakāya](../concepts/four-guna-paramitas.md), [The four inversions and their reversal](../concepts/four-inversions-reversed.md) · obstacles: [The four inversions (and the Mahāyāna double set)](../obstacles/four-viparyasa.md) · teachers: [Śrīmālā](../teachers/srimala.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), [Is there a self?](../debates/is-there-a-self.md)
+terms: [guṇa-pāramitā](../terms/guna-paramita.md), [viparyāsa](../terms/viparyasa.md) · concepts: [The four perfections of the dharmakāya](../concepts/four-guna-paramitas.md), [The four inversions and their reversal](../concepts/four-inversions-reversed.md) · obstacles: [The four inversions (and the Mahāyāna double set)](../obstacles/four-viparyasa.md) · teachers: [Śrīmālā](../teachers/srimala.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 13 <a id="tea-srimaladevi-sutra-13"></a>
 `skeleton` · confidence high
@@ -128,4 +128,4 @@ terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [prabhāsvara-citta](../
 _Notes: Chapter list and key lines (221c16, 222a23, 222b05, 222b28) read locally in T353._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._

@@ -17,4 +17,4 @@ The śrauta (solemn-rite) sūtra of the Vaikhānasa school.
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Vaikhānasaśrautasūtra — Low-confidence entry confirmed as extant (DCS; Caland's 1941 edition).
 
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

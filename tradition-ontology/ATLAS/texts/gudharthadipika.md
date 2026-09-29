@@ -45,4 +45,4 @@ concepts: [The paths of the Gītā: action, knowledge, meditation and devotion](
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:DCS:Gūḍhārthadīpikā, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/bhagavadgItA/vedavyAsaH/bhagavadgItA-vyAkhyAchatuShTayopetA.md (intro verses 2-11), https://en.wikipedia.org/wiki/Madhus%C5%ABdana_Sarasvat%C4%AB — Extant and digitized. Scholarly estimates for Madhusūdana range c. 1490–1632 (Wikipedia gives c. 1490–1580); the entry's 16th–17th c. (1540–1650) overlaps these; the upper bound may be slightly late.
 
-_Contributed by: skeleton:U13-advaita, skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._

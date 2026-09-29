@@ -13,4 +13,4 @@
 An alchemical work attributed to Nāgārjuna. RESTRICTED: summary only.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:02 IST._

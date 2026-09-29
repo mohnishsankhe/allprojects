@@ -48,7 +48,7 @@ terms: [Lakṣmī (Śrī, Ramā)](../terms/laksmi.md), [svarūpa-yogyatā](../te
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, karma-liberation, world-fate_
 
-terms: [pañca-bheda](../terms/pancabheda.md), [bheda](../terms/bheda.md), [svagata-bheda](../terms/svagata-bheda.md), [tāratamya](../terms/taratamya.md) · concepts: [The five differences (pañca-bheda)](../concepts/pancabheda.md), [The reality of the world (jagat-satyatva)](../concepts/jagat-satyatva.md), [Eternal distinction in liberation](../concepts/difference-in-liberation.md), [Gradation of souls (tāratamya)](../concepts/taratamya.md) · disputes: `dsp:souls-one-or-distinct`, `dsp:world-real-or-appearance`
+terms: [pañca-bheda](../terms/pancabheda.md), [bheda](../terms/bheda.md), [svagata-bheda](../terms/svagata-bheda.md), [tāratamya](../terms/taratamya.md) · concepts: [The five differences (pañca-bheda)](../concepts/pancabheda.md), [The reality of the world (jagat-satyatva)](../concepts/jagat-satyatva.md), [Eternal distinction in liberation](../concepts/difference-in-liberation.md), [Gradation of souls (tāratamya)](../concepts/taratamya.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md), [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 1.72-74 <a id="tea-mahabharata-tatparya-nirnaya-1-72-74"></a>
 `skeleton` · confidence high
@@ -160,7 +160,7 @@ The others, born as portions of the gods, quickly regained oneness with their ow
 
 _level: unmarked · standpoint: cosmic · path: knowledge · stage: all · types: world-fate, karma-liberation, dispute_
 
-terms: [andhatamas](../terms/andhatamas.md) · concepts: [Blinding darkness (andhatamas)](../concepts/andhatamas.md) · obstacles: [The conceit of identity with God](../obstacles/abheda-buddhi.md) · disputes: `dsp:souls-one-or-distinct`, `dsp:world-real-or-appearance`
+terms: [andhatamas](../terms/andhatamas.md) · concepts: [Blinding darkness (andhatamas)](../concepts/andhatamas.md) · obstacles: [The conceit of identity with God](../obstacles/abheda-buddhi.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md), [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 32.118-119 <a id="tea-mahabharata-tatparya-nirnaya-32-118-119"></a>
 `skeleton` · confidence high
@@ -199,4 +199,4 @@ _Notes: Chapter structure and the verses cited checked against the Devanāgarī 
 
 - 2026-09-29 catalog: confirmed — catalog:GRETIL:mAdhva-mahAbhAratatAtparyanirNaya, catalog:GRETIL-dev:madhva_mahabharatatatparyanirnaya — Extant and digitized; Madhva's work as entered.
 
-_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._

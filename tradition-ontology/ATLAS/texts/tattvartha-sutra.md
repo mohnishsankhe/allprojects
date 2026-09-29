@@ -1448,7 +1448,7 @@ The existent is endowed with origination, cessation and persistence.
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [sat](../terms/sat.md), [utpāda-vyaya-dhrauvya](../terms/utpada-vyaya-dhrauvya.md) · concepts: [The triple mark of the existent](../concepts/utpada-vyaya-dhrauvya.md), [Many-sidedness (anekāntavāda)](../concepts/anekantavada.md) · teachers: [Umāsvāti](../teachers/umasvati.md) · disputes: [Is everything that exists momentary?](../debates/momentariness.md), `dsp:causation`
+terms: [sat](../terms/sat.md), [utpāda-vyaya-dhrauvya](../terms/utpada-vyaya-dhrauvya.md) · concepts: [The triple mark of the existent](../concepts/utpada-vyaya-dhrauvya.md), [Many-sidedness (anekāntavāda)](../concepts/anekantavada.md) · teachers: [Umāsvāti](../teachers/umasvati.md) · disputes: [Is everything that exists momentary?](../debates/momentariness.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 5.31 <a id="tea-tattvartha-sutra-5-31"></a>
 `skeleton` · confidence high
@@ -2849,4 +2849,4 @@ terms: [kāla](../terms/kala.md) · concepts: [The six substances (ṣaḍ-dravy
 _Notes: Śvetāmbara numbering differs from the Digambara (e.g. sallekhanā is Dig 7.22 = Śv 7.17; hiṃsā is Dig 7.13 = Śv 7.8, since the Śv sūtra text lacks Dig 7.4–8; nayas Dig 1.33 = Śv 1.34–35; 'kālaś ca' Dig 5.39 ≈ Śv 5.38 'kālaś cety eke'). Śv numbers given from memory. Title present in the local catalogue (catalog:JainDB:तत्त्वार्थसूत्र--आचार्य-उमास्वामी); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._

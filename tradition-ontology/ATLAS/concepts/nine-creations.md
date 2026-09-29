@@ -13,4 +13,4 @@
 - part-of → [Primary and secondary creation](sarga-and-visarga.md)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._

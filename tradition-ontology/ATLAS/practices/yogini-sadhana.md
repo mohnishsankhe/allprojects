@@ -9,4 +9,4 @@
 Rites to win the favour of yoginīs for powers, set out in the Kaula and eastern digests (Tantrasāra, third pariccheda). Restricted: named only.
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._

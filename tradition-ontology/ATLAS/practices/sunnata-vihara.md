@@ -13,4 +13,4 @@ Attending to a single perception (forest, earth, the formless spheres, the signl
   - [Mahāsuññata Sutta](../texts/mahasunnata-sutta.md) — ref: 3-11; rests_on: ["tea:mahasunnata-sutta:3-11"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

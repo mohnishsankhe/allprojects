@@ -9,4 +9,4 @@
 The bodhisattva 'womb of space', before whom bodhisattvas confess root downfalls (Ākāśagarbha-sūtra); his mantra-recitation (gumonji) was practiced by Kūkai.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._

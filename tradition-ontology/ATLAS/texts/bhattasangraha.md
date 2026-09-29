@@ -15,4 +15,4 @@
 Rāghavendra Tīrtha's commentary on Jaimini's Mīmāṃsā Sūtras following Kumārila's (Bhāṭṭa) school, read in harmony with Dvaita.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._

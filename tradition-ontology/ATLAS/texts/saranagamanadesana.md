@@ -15,4 +15,4 @@ Atiśa's short teaching on refuge in the Three Jewels.
   - kind: original; name: Derge Tengyur (Esukhia digital edition, public domain) — local in sources_raw/derge-tengyur, Tōh 3953; licence: public domain; url: https://github.com/Esukhia/derge-tengyur
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._

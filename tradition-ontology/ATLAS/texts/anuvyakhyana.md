@@ -37,7 +37,7 @@ What is sublated produces no effect; and for us even the dream is not false, sin
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: consciousness-mind_
 
-terms: [vāsanā](../terms/vasana.md) · concepts: [Dream as real creation](../concepts/dream-dvaita.md) · disputes: `dsp:world-real-or-appearance`
+terms: [vāsanā](../terms/vasana.md) · concepts: [Dream as real creation](../concepts/dream-dvaita.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 1.4.95-98 <a id="tea-anuvyakhyana-1-4-95-98"></a>
 `skeleton` · confidence high
@@ -46,7 +46,7 @@ That the witness (sākṣin) establishes what is real is fully agreed by both pa
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: consciousness-mind, world-fate, dispute_
 
-terms: [sākṣin](../terms/saksin.md), [vivarta](../terms/vivarta.md) · concepts: [The witness (sākṣin)](../concepts/saksin.md), [The reality of the world (jagat-satyatva)](../concepts/jagat-satyatva.md) · disputes: `dsp:world-real-or-appearance`, `dsp:causation`
+terms: [sākṣin](../terms/saksin.md), [vivarta](../terms/vivarta.md) · concepts: [The witness (sākṣin)](../concepts/saksin.md), [The reality of the world (jagat-satyatva)](../concepts/jagat-satyatva.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 1.4.99-103 <a id="tea-anuvyakhyana-1-4-99-103"></a>
 `skeleton` · confidence high
@@ -55,7 +55,7 @@ That something is unsublated at all times is known by the witness alone. Time is
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: consciousness-mind_
 
-terms: [sākṣin](../terms/saksin.md), [kāla](../terms/kala.md) · concepts: [The witness (sākṣin)](../concepts/saksin.md), [Time (kāla)](../concepts/kala.md), [Deep sleep in Dvaita](../concepts/deep-sleep-dvaita.md) · disputes: `dsp:world-real-or-appearance`
+terms: [sākṣin](../terms/saksin.md), [kāla](../terms/kala.md) · concepts: [The witness (sākṣin)](../concepts/saksin.md), [Time (kāla)](../concepts/kala.md), [Deep sleep in Dvaita](../concepts/deep-sleep-dvaita.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 2.2.236-240 <a id="tea-anuvyakhyana-2-2-236-240"></a>
 `skeleton` · confidence high
@@ -64,7 +64,7 @@ If the property-bearer, the counter-positive and their difference are grasped to
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, consciousness-mind_
 
-terms: [bheda](../terms/bheda.md) · concepts: [Difference as the nature of things (bheda = svarūpa)](../concepts/bheda-svarupa.md) · disputes: `dsp:world-real-or-appearance`
+terms: [bheda](../terms/bheda.md) · concepts: [Difference as the nature of things (bheda = svarūpa)](../concepts/bheda-svarupa.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ### 2.2.241-242 <a id="tea-anuvyakhyana-2-2-241-242"></a>
 `skeleton` · confidence high
@@ -75,7 +75,7 @@ The māyā-teacher and the Mādhyamika are both to be ignored by those who seek 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: advanced · types: dispute_
 
-terms: [māyāvāda](../terms/mayavada.md) · concepts: [The critique of māyā (māyāvāda-khaṇḍana)](../concepts/mayavada-khandana.md) · disputes: `dsp:advaita-crypto-buddhism`
+terms: [māyāvāda](../terms/mayavada.md) · concepts: [The critique of māyā (māyāvāda-khaṇḍana)](../concepts/mayavada-khandana.md) · disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
 
 ### 3.3.155 <a id="tea-anuvyakhyana-3-3-155"></a>
 `skeleton` · confidence moderate
@@ -84,7 +84,7 @@ Liberation cannot come in any way from knowing the void or from meditating on th
 
 _level: unmarked · standpoint: polemical · path: knowledge, meditation · stage: advanced · types: karma-liberation, dispute_
 
-concepts: [Liberation (mokṣa) in Dvaita](../concepts/moksa.md) · disputes: `dsp:advaita-crypto-buddhism`
+concepts: [Liberation (mokṣa) in Dvaita](../concepts/moksa.md) · disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
 
 ### 4.2.40-48 <a id="tea-anuvyakhyana-4-2-40-48"></a>
 `skeleton` · confidence high
@@ -93,7 +93,7 @@ The voidists call liberation the attributeless, self-shining, unconditioned void
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, karma-liberation_
 
-terms: [māyāvāda](../terms/mayavada.md), [māyā](../terms/maya.md) · concepts: [The critique of māyā (māyāvāda-khaṇḍana)](../concepts/mayavada-khandana.md) · disputes: `dsp:advaita-crypto-buddhism`
+terms: [māyāvāda](../terms/mayavada.md), [māyā](../terms/maya.md) · concepts: [The critique of māyā (māyāvāda-khaṇḍana)](../concepts/mayavada-khandana.md) · disputes: [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
 
 ### 4.4.13 <a id="tea-anuvyakhyana-4-4-13"></a>
 `skeleton` · confidence moderate
@@ -117,4 +117,4 @@ terms: [Vāyu](../terms/vayu.md), [Mukhyaprāṇa](../terms/mukhyaprana.md) · c
 _Notes: Verses cited here checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions; the raw_etexts copy is incomplete in 2.4 and 3.1._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._

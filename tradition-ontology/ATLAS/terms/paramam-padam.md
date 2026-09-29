@@ -16,4 +16,4 @@
 _Notes: The Kaṭha Upaniṣad (1.3.9) names it the end of the road (reference only)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._

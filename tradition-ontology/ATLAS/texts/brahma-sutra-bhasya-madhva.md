@@ -93,7 +93,7 @@ Brahman is that from which come the creation, maintenance, dissolution, control,
 
 _level: ultimate · standpoint: divine · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [aṣṭa-kartṛtva](../terms/asta-kartrtva.md), [brahman](../terms/brahman.md), [Hari](../terms/hari.md) · concepts: [God's eightfold agency (aṣṭa-kartṛtva)](../concepts/asta-kartrtva.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), `dsp:causation`
+terms: [aṣṭa-kartṛtva](../terms/asta-kartrtva.md), [brahman](../terms/brahman.md), [Hari](../terms/hari.md) · concepts: [God's eightfold agency (aṣṭa-kartṛtva)](../concepts/asta-kartrtva.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 3.1.8 <a id="tea-brahma-sutra-bhasya-madhva-3-1-8"></a>
 `skeleton` · confidence high
@@ -111,7 +111,7 @@ The liberated have true desires only in the sense that their desires are not sep
 
 _level: ultimate · standpoint: divine · path: devotion, knowledge · stage: realized (mukta) · types: karma-liberation_
 
-terms: [mokṣa](../terms/moksa.md), [paratantra (asvatantra)](../terms/paratantra.md) · concepts: [Liberation (mokṣa) in Dvaita](../concepts/moksa.md), [Eternal distinction in liberation](../concepts/difference-in-liberation.md) · disputes: `dsp:souls-one-or-distinct`
+terms: [mokṣa](../terms/moksa.md), [paratantra (asvatantra)](../terms/paratantra.md) · concepts: [Liberation (mokṣa) in Dvaita](../concepts/moksa.md), [Eternal distinction in liberation](../concepts/difference-in-liberation.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 4.2.17 <a id="tea-brahma-sutra-bhasya-madhva-4-2-17"></a>
 `skeleton` · confidence high
@@ -153,4 +153,4 @@ terms: [sālokya](../terms/salokya.md), [sārūpya](../terms/sarupya.md), [sām�
 _Notes: Opening verse and 1.1.1–1.1.2, 3.1.8, 4.2.16–17, 4.3.10–15, 4.4.19 checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._

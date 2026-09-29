@@ -12,4 +12,4 @@ A Sanskrit compendium of the 'beginningless' Vīraśaiva dharma that opens with 
   - kind: original; name: Muktabodha digital library e-text M00615 (print 1905)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._

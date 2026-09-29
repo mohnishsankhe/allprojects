@@ -15,4 +15,4 @@
 - same-as-under-standpoint → [Samādhi with full awareness (samprajñāta)](samprajnata-samadhi.md): the Yoga Sūtra's samādhi with vitarka and vicāra shares vocabulary; the two traditions do not identify their states — rests on [75-82](../texts/samannaphala-sutta.md#tea-samannaphala-sutta-75-82), [31-33](../texts/mahasaccaka-sutta.md#tea-mahasaccaka-sutta-31-33)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

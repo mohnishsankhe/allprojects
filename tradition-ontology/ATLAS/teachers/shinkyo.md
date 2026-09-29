@@ -11,4 +11,4 @@
 Ippen's successor who organised the itinerant followers into the Ji-shū order and wrote its regulations.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._

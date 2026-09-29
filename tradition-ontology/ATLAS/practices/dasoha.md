@@ -13,4 +13,4 @@ Giving what one earns by kāyaka to the jaṅgamas and the community in the spir
 **Sequences:** `pth:virasaiva-satsthala`
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._

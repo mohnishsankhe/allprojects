@@ -14,4 +14,4 @@
 _Notes: Commentators ascribe the theory to the Sāṃmitīyas._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._

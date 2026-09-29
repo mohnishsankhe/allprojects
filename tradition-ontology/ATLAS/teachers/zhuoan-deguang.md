@@ -10,4 +10,4 @@
 Heir of Dahui who sent a certificate of transmission to Dainichi Nōnin's envoys (1189).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

@@ -33,4 +33,4 @@ _Notes: U01 contribution: Vyāsa as divider of the Veda. Other units contribute 
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Text-located: the name occurs in the e-text of sukarahasya, rudrahrdaya, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 6.2.1-11, 12.337.53-54, local:gita/gita BhG 10.13, 10.37 — Roles located; the Apāntaratamas identification is at 12.337.54. Semi-legendary historicity and tradition dating as entered.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, skeleton:U10-yoga, extraction:bhagavad-gita/ch10-12, skeleton:U07-puranas, skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, skeleton:U10-yoga, extraction:bhagavad-gita/ch10-12, skeleton:U07-puranas, skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:02 IST._

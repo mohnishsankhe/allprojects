@@ -11,4 +11,4 @@
 A text relating afflictions shown by the birth-asterism quarter to specific sins of former births and prescribing expiations (a genre also found in the Purāṇas).
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._

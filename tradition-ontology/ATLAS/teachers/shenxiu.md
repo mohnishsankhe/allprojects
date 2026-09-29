@@ -14,4 +14,4 @@
 Senior disciple of Hongren and founder of the Northern school; invited to the court by Empress Wu (701) and honoured as 'Dharma lord of the two capitals'. In the Platform Sūtra he writes the verse 'the body is the bodhi tree, the mind like a bright mirror's stand; wipe it constantly' and later sends Zhicheng to Huineng, praising Huineng's 'wisdom without a teacher'.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

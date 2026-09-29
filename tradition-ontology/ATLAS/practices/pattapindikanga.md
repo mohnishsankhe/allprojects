@@ -12,4 +12,4 @@ One of the thirteen ascetic practices: the bowl-food eater's practice, undertake
   - [Visuddhimagga](../texts/visuddhimagga.md) — ref: II; rests_on: ["tea:visuddhimagga:2"]
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._

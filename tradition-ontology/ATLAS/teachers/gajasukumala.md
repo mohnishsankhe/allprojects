@@ -9,4 +9,4 @@
 Younger brother of Kṛṣṇa who became a monk under Ariṣṭanemi; meditating in a cremation ground, he kept equanimity while the brāhmaṇa Somila placed burning coals in a clay rim on his head, and attained liberation that night (Antakṛddaśā).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._

@@ -17,4 +17,4 @@ Summary: resting the mind in the central channel and steadying it in the drop at
 **Sequences:** [The five stages of the Pañcakrama (Ārya Guhyasamāja)](../paths/pancakrama-five-stages.md), [The order of the Six Yogas of Nāropa](../paths/six-yogas-of-naropa-sequence.md)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._

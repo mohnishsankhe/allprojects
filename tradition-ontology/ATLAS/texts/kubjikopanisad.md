@@ -13,4 +13,4 @@ A late 'Upaniṣad' of the Kubjikā cult in the Atharvaveda corpus, on Kubjikā'
   - kind: original; name: T. Goudriaan and J. A. Schoterman, The Kubjikā Upaniṣad (1994)
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._

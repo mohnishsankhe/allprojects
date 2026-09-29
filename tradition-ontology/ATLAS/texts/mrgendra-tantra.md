@@ -66,4 +66,4 @@ concepts: [Powers (siddhi) and the sādhaka in the Mantramārga](../concepts/sid
 _Notes: Local GRETIL e-text consulted: sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/4_rellit/saiva/mrgendragama.md (GRETIL, input by D. Goodall). The Kāmika's own list of its three upabhedas (Vaktra, Bhairavottara, Nārasiṃha) does not name the Mṛgendra; whether 'Nārasiṃha' corresponds is not established._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:02 IST._

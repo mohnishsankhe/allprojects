@@ -21,4 +21,4 @@ Gorampa classes Dolpopa's other-emptiness as 'Madhyamaka of the eternalist extre
 _Notes: Sides contributed by U47 (Gelug; Sakya incl. Shākya Chokden); U50 owns, U48 gives the Jonang side._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._

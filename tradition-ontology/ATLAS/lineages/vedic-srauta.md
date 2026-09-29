@@ -66,4 +66,4 @@ The lineages that recite and ritually employ the four Vedic Saṃhitās — Ṛg
 
 - 2026-09-28 text-locate+websearch: confirmed — https://en.wikipedia.org/wiki/Rigveda, https://en.wikipedia.org/wiki/Yajurveda, https://en.wikipedia.org/wiki/Samaveda, https://en.wikipedia.org/wiki/Atharvaveda, text:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md — Recognized as the Vedic śrauta/recitation tradition. Scholarly dating (RV c. 1500–1000, other Saṃhitās c. 1200–800 BCE) agrees with Witzel's ranges; the tradition's account (Vyāsa divides the Veda in the Dvāpara) located at Viṣṇu Purāṇa 3.4.6–7. Distinctive positions are backed by teachings verified in the local texts (RV 1.164.45–46, 10.90.16 = 1.164.50, 10.129, Nirukta 1.20).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._

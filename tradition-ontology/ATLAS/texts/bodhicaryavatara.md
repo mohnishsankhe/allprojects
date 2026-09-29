@@ -352,7 +352,7 @@ I am not the teeth, hair or nails, not bone, blood, mucus, phlegm, pus or lymph;
 
 _level: ultimate · standpoint: analytic · path: knowledge, meditation · stage: intermediate · types: practice, body-layers_
 
-practices: [Analytical meditation on emptiness](../practices/analytical-meditation-on-emptiness.md) · teachers: [Śāntideva](../teachers/santideva.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+practices: [Analytical meditation on emptiness](../practices/analytical-meditation-on-emptiness.md) · teachers: [Śāntideva](../teachers/santideva.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 9.73 <a id="tea-bodhicaryavatara-9-73"></a>
 `skeleton` · confidence high
@@ -409,4 +409,4 @@ concepts: [The awakening mind (bodhicitta) in the Madhyamaka manuals](../concept
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._

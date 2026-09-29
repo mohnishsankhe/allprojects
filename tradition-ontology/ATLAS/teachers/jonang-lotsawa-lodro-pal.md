@@ -10,4 +10,4 @@
 Translator in Dolpopa's circle who, with Mati Paṇchen, prepared the Jonang translation of the Kālacakra tantra and the Vimalaprabhā.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

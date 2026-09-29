@@ -15,4 +15,4 @@ When things are remembered, or a place is seen, one should let the mind go from 
 _Notes: Verses 119 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

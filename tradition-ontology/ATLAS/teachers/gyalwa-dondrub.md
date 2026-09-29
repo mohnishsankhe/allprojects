@@ -9,4 +9,4 @@
 Son of Machig Labdrön and a holder of her Chöd lineage; several teachings in the Complete Explanation are framed as answers to his questions (low confidence).
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._

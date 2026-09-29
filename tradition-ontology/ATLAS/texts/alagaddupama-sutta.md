@@ -53,7 +53,7 @@ Six grounds for views: regarding form, feeling, perception, formations, what is 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-terms: [anattā](../terms/anatta.md), [attā](../terms/atta.md) · concepts: [Not-self (anattā)](../concepts/anatta.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [anattā](../terms/anatta.md), [attā](../terms/atta.md) · concepts: [Not-self (anattā)](../concepts/anatta.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 25-27 <a id="tea-alagaddupama-sutta-25-27"></a>
 `skeleton` · confidence high
@@ -62,7 +62,7 @@ If there were a self there would be what belongs to a self; since neither self n
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, dispute_
 
-terms: [attaniya](../terms/attaniya.md), [anattā](../terms/anatta.md) · concepts: [Not-self (anattā)](../concepts/anatta.md), [The three marks](../concepts/three-marks.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [attaniya](../terms/attaniya.md), [anattā](../terms/anatta.md) · concepts: [Not-self (anattā)](../concepts/anatta.md), [The three marks](../concepts/three-marks.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 37.5 <a id="tea-alagaddupama-sutta-37-5"></a>
 `skeleton` · confidence high
@@ -88,4 +88,4 @@ terms: [khandha](../terms/khandha.md) · concepts: [Not-self (anattā)](../conce
 _Notes: SuttaCentral uid mn22; Mahāsaṅgīti title 'Alagaddūpamasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._

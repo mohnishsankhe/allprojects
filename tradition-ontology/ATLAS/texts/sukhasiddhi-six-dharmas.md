@@ -14,4 +14,4 @@
 Sukhasiddhi's instructions transmitted in the Shangpa, parallel to Niguma's six dharmas.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._

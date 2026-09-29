@@ -21,4 +21,4 @@
 _Notes: Homonym of the Vedic śrauta Mahāvrata rite, which is unrelated._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U17-pasupata-kapalika, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U17-pasupata-kapalika, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._

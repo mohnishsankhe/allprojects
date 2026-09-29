@@ -15,4 +15,4 @@
 - part-of → [Practice and dispassion (abhyāsa and vairāgya)](abhyasa-vairagya.md): stilling is achieved by these means — rests on [1.12](../texts/yoga-sutra.md#tea-yoga-sutra-1-12)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:02 IST._

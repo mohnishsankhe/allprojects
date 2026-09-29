@@ -27,4 +27,4 @@ BS 5.14–15: Brahmā granted the asura Rāhu that he would be nourished by the 
 **The traditions' own objections:** A literal Purāṇic reading would keep Rāhu as the physical eclipser; later authors (Brahmagupta is reported to have defended the smṛti view on social grounds) — report unverified here.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._

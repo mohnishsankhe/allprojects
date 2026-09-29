@@ -48,7 +48,7 @@ A cause is what invariably precedes an effect; an effect is the counterpositive 
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: unmarked · types: world-fate_
 
-terms: [karaṇa](../terms/karana.md), [samavāyikāraṇa](../terms/samavayikarana.md), [asamavāyikāraṇa](../terms/asamavayikarana.md), [nimittakāraṇa](../terms/nimittakarana.md), [prāgabhāva](../terms/pragabhava.md) · concepts: [The three kinds of cause](../concepts/three-causes.md), [New beginning (ārambha): the effect does not pre-exist](../concepts/arambhavada.md) · disputes: `dsp:causation`
+terms: [karaṇa](../terms/karana.md), [samavāyikāraṇa](../terms/samavayikarana.md), [asamavāyikāraṇa](../terms/asamavayikarana.md), [nimittakāraṇa](../terms/nimittakarana.md), [prāgabhāva](../terms/pragabhava.md) · concepts: [The three kinds of cause](../concepts/three-causes.md), [New beginning (ārambha): the effect does not pre-exist](../concepts/arambhavada.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### closing verse <a id="tea-tarkasangraha-colophon"></a>
 `skeleton` · confidence high
@@ -197,7 +197,7 @@ The self is the substrate of cognition; it is of two kinds, the supreme self and
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: ultimate, consciousness-mind_
 
-terms: [ātman](../terms/atman.md), [paramātman](../terms/paramatman.md), [jīvātman](../terms/jivatman.md), [īśvara](../terms/isvara.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md), [The plurality of selves](../concepts/plurality-of-selves.md), [Īśvara in Nyāya-Vaiśeṣika](../concepts/isvara-nyaya.md) · disputes: `dsp:souls-one-or-distinct`
+terms: [ātman](../terms/atman.md), [paramātman](../terms/paramatman.md), [jīvātman](../terms/jivatman.md), [īśvara](../terms/isvara.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md), [The plurality of selves](../concepts/plurality-of-selves.md), [Īśvara in Nyāya-Vaiśeṣika](../concepts/isvara-nyaya.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### universal, particularity, inherence <a id="tea-tarkasangraha-samanya-visesa-samavaya"></a>
 `skeleton` · confidence high
@@ -234,4 +234,4 @@ terms: [ākāśa](../terms/akasa.md), [kāla](../terms/kala.md), [dik](../terms/
 _Notes: Teaching refs for this prose manual are topic names, not section numbers (editions number sections differently)._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._

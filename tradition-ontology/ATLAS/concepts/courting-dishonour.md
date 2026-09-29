@@ -13,4 +13,4 @@
 - part-of → [The rule (vidhi): observance and its aids](pasupata-vidhi.md) — rests on [1.1/6](../texts/pancarthabhasya.md#tea-pancarthabhasya-1-1-6)
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:02 IST._

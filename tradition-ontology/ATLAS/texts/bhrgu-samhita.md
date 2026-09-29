@@ -14,4 +14,4 @@
 The collection of horoscope-readings ascribed to the sage Bhṛgu, held in family collections in North India, which the tradition says contains the charts of all persons.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._

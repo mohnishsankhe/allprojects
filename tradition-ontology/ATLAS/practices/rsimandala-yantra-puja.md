@@ -11,4 +11,4 @@ Recitation of the Ṛṣimaṇḍala hymn and worship of its yantra — the seed
 _Notes: Restricted: summary only; the mantra is not recorded._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._

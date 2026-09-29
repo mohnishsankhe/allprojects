@@ -17,4 +17,4 @@ The Śrauta manual of the Kauthuma Sāmaveda singers (udgātṛ).
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Lāṭyāyanaśrautasūtra, catalog:eBharati:shrautasUtram (lATyAyana, agnisvAmI), https://en.wikipedia.org/wiki/%C5%9Arauta — Extant (DCS; eBhāratī with Agnisvāmin's commentary); the Kauthuma Sāmaveda Śrautasūtra.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._

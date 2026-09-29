@@ -12,4 +12,4 @@ In Musang's assemblies, reciting the Buddha's name with a drawn-out voice to the
   - [Record of the Dharma Jewel through the Generations (Lidai fabao ji)](../texts/lidai-fabao-ji.md) — ref: 185a13; rests_on: ["tea:lidai-fabao-ji:185a13"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._

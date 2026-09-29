@@ -15,4 +15,4 @@ One should contemplate: 'within me there is no inner organ, mind and so on'; thr
 _Notes: Verses 94 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._

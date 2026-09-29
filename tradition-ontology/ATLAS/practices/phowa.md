@@ -25,4 +25,4 @@ Summary: at death (after training in life) consciousness is sent through the cro
 _Notes: RESTRICTED: no method recorded. Also one of the Six Yogas (other units)._
 
 ---
-_Contributed by: skeleton:U46-kagyu, skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U46-kagyu, skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._

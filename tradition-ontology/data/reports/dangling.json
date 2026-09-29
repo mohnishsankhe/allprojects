@@ -1,17 +1,17 @@
 {
- "total_distinct": 253,
+ "total_distinct": 223,
  "by_prefix": {
-  "lin": 34,
+  "lin": 35,
   "tch": 9,
-  "src": 7,
-  "tea": 91,
-  "pth": 30,
-  "brw": 2,
-  "dsp": 11,
-  "prc": 21,
-  "obs": 13,
+  "src": 9,
+  "pth": 29,
+  "tea": 84,
+  "brw": 1,
+  "dsp": 5,
+  "prc": 11,
   "trm": 11,
-  "cpt": 24
+  "cpt": 24,
+  "obs": 5
  },
  "top": [
   {
@@ -51,39 +51,12 @@
    ]
   },
   {
-   "id": "dsp:world-real-or-appearance",
-   "refs": 64,
-   "e.g.": [
-    "tea:bhagavad-gita:2.16",
-    "tea:chandogya-upanisad:6.1.4-6",
-    "tea:svetasvatara-upanisad:4.9-10"
-   ]
-  },
-  {
    "id": "lin:tendai",
    "refs": 60,
    "e.g.": [
     "src:renwang-jing",
     "src:saddharmapundarika",
     "src:wuliangyi-jing"
-   ]
-  },
-  {
-   "id": "dsp:causation",
-   "refs": 57,
-   "e.g.": [
-    "tea:chandogya-upanisad:6.1.4-6",
-    "tea:svetasvatara-upanisad:1.2",
-    "tea:svetasvatara-upanisad:6.1-2"
-   ]
-  },
-  {
-   "id": "dsp:souls-one-or-distinct",
-   "refs": 53,
-   "e.g.": [
-    "tea:brhadaranyaka-upanisad:1.4.10",
-    "tea:chandogya-upanisad:6.8.7",
-    "tea:mundaka-upanisad:3.1.1-2"
    ]
   },
   {
@@ -97,11 +70,20 @@
   },
   {
    "id": "dsp:saguna-nirguna",
-   "refs": 42,
+   "refs": 44,
    "e.g.": [
     "tea:bhagavad-gita:12.1",
     "tea:svetasvatara-upanisad:6.11",
     "tea:svetasvatara-upanisad:6.7-9"
+   ]
+  },
+  {
+   "id": "dsp:sudden-or-gradual",
+   "refs": 36,
+   "e.g.": [
+    "tea:astavakra-gita:1.14-15",
+    "tea:avatamsaka-sutra:16",
+    "tea:varaha-upanisad:4.34-42"
    ]
   },
   {
@@ -129,15 +111,6 @@
     "src:astasahasrika-prajnaparamita",
     "src:gandavyuha",
     "src:saddharmapundarika"
-   ]
-  },
-  {
-   "id": "dsp:sudden-or-gradual",
-   "refs": 33,
-   "e.g.": [
-    "tea:astavakra-gita:1.14-15",
-    "tea:avatamsaka-sutra:16",
-    "tea:varaha-upanisad:4.34-42"
    ]
   },
   {
@@ -205,20 +178,11 @@
   },
   {
    "id": "pth:five-paths",
-   "refs": 18,
+   "refs": 19,
    "e.g.": [
     "lin:madhyamaka",
     "lin:mahayana",
     "lin:yogacara"
-   ]
-  },
-  {
-   "id": "dsp:advaita-crypto-buddhism",
-   "refs": 16,
-   "e.g.": [
-    "tea:brahma-sutra:2.2.18",
-    "tea:brahma-sutra:2.2.28",
-    "tea:brahma-sutra:2.2.29"
    ]
   },
   {
@@ -276,21 +240,21 @@
    ]
   },
   {
+   "id": "lin:dasanami",
+   "refs": 13,
+   "e.g.": [
+    "lin:sannyasa",
+    "src:mathamnaya",
+    "src:mathamnaya-upanisad"
+   ]
+  },
+  {
    "id": "src:kathavatthu / src:pancappakarana-atthakatha",
    "refs": 13,
    "e.g.": [
     "dsp:kv-arahant-falling-away",
     "dsp:kv-puggala",
     "dsp:kv-sabbam-atthi"
-   ]
-  },
-  {
-   "id": "lin:dasanami",
-   "refs": 12,
-   "e.g.": [
-    "lin:sannyasa",
-    "src:mathamnaya",
-    "src:mathamnaya-upanisad"
    ]
   },
   {
@@ -348,21 +312,21 @@
    ]
   },
   {
+   "id": "pth:kalacakra-six-branches",
+   "refs": 11,
+   "e.g.": [
+    "lin:jonang",
+    "lin:kalacakra",
+    "lin:vajrayana"
+   ]
+  },
+  {
    "id": "pth:yoga-sutra-samadhi-ladder",
    "refs": 10,
    "e.g.": [
     "lin:patanjala-yoga",
     "tea:yoga-sutra:1.17",
     "tea:yoga-sutra:1.18"
-   ]
-  },
-  {
-   "id": "pth:kalacakra-six-branches",
-   "refs": 10,
-   "e.g.": [
-    "lin:jonang",
-    "lin:kalacakra",
-    "lin:vajrayana"
    ]
   },
   {
@@ -492,15 +456,6 @@
    ]
   },
   {
-   "id": "prc:chod",
-   "refs": 6,
-   "e.g.": [
-    "tea:katsom-chenmo:frightening-places",
-    "tea:phungpo-zenkyur-namshe:guests",
-    "tea:phungpo-zenkyur-namshe:transference"
-   ]
-  },
-  {
    "id": "lin:siddha-yoga-muktananda",
    "refs": 5,
    "e.g.": [
@@ -582,15 +537,6 @@
    ]
   },
   {
-   "id": "prc:sowa-rigpa-conduct",
-   "refs": 4,
-   "e.g.": [
-    "tea:gyushi-shegyu:13",
-    "tea:gyushi-shegyu:14",
-    "tea:gyushi-tsagyu:5"
-   ]
-  },
-  {
    "id": "lin:folk-goddess",
    "refs": 3,
    "e.g.": [
@@ -651,24 +597,6 @@
     "tea:bhagavad-gita:12.16",
     "tea:bhagavad-gita:12.18",
     "tea:bhagavad-gita:12.18-19"
-   ]
-  },
-  {
-   "id": "prc:kunye",
-   "refs": 3,
-   "e.g.": [
-    "tea:gyushi-chimagyu:external-therapies",
-    "tea:gyushi-mengagyu:rlung-disorders",
-    "tea:gyushi-shegyu:13"
-   ]
-  },
-  {
-   "id": "dsp:gyushi-buddha-word",
-   "refs": 3,
-   "e.g.": [
-    "tea:blue-beryl:intent",
-    "tea:khogbug:origin",
-    "tea:mepo-zhallung:authorship"
    ]
   },
   {
@@ -848,6 +776,14 @@
    ]
   },
   {
+   "id": "tea:bhagavad-gita:13.3",
+   "refs": 2,
+   "e.g.": [
+    "tea:bhagavad-gita:10.20",
+    "tea:gita-bhasya-sankara:13.2"
+   ]
+  },
+  {
    "id": "tea:bhagavad-gita:14.24",
    "refs": 2,
    "e.g.": [
@@ -880,51 +816,11 @@
    ]
   },
   {
-   "id": "obs:dakdzin",
-   "refs": 2,
-   "e.g.": [
-    "tea:katsom-chenmo:root-of-mind",
-    "tea:phungpo-zenkyur-namshe:four-maras"
-   ]
-  },
-  {
-   "id": "obs:four-maras-chod",
-   "refs": 2,
-   "e.g.": [
-    "tea:phungpo-zenkyur-namshe:cautions",
-    "tea:phungpo-zenkyur-namshe:four-maras"
-   ]
-  },
-  {
-   "id": "prc:sowa-rigpa-diet",
-   "refs": 2,
-   "e.g.": [
-    "tea:gyushi-shegyu:18",
-    "tea:gyushi-tsagyu:5"
-   ]
-  },
-  {
-   "id": "obs:don-spirit-harm",
-   "refs": 2,
-   "e.g.": [
-    "tea:gyushi-mengagyu:mental-disorders",
-    "tea:gyushi-shegyu:9"
-   ]
-  },
-  {
    "id": "tea:bhagavad-gita:14.23",
    "refs": 2,
    "e.g.": [
     "tea:bhagavad-gita:3.28",
     "tea:bhagavad-gita:9.9"
-   ]
-  },
-  {
-   "id": "tea:bhagavad-gita:13.13",
-   "refs": 2,
-   "e.g.": [
-    "tea:bhagavad-gita:11.37",
-    "tea:bhagavad-gita:9.19"
    ]
   },
   {
@@ -981,34 +877,6 @@
    ]
   },
   {
-   "id": "tea:buddhacarita:12.17-22",
-   "refs": 1,
-   "e.g.": [
-    "src:buddhacarita"
-   ]
-  },
-  {
-   "id": "tea:buddhacarita:12.33-37",
-   "refs": 1,
-   "e.g.": [
-    "src:buddhacarita"
-   ]
-  },
-  {
-   "id": "tea:buddhacarita:12.63-65",
-   "refs": 1,
-   "e.g.": [
-    "src:buddhacarita"
-   ]
-  },
-  {
-   "id": "tea:buddhacarita:12.69-82",
-   "refs": 1,
-   "e.g.": [
-    "src:buddhacarita"
-   ]
-  },
-  {
    "id": "lin:divine-life-society",
    "refs": 1,
    "e.g.": [
@@ -1048,13 +916,6 @@
    "refs": 1,
    "e.g.": [
     "lin:chan"
-   ]
-  },
-  {
-   "id": "brw:vedic-ritual-forms-to-tantra",
-   "refs": 1,
-   "e.g.": [
-    "lin:tantra-movement"
    ]
   },
   {
@@ -1268,13 +1129,6 @@
    ]
   },
   {
-   "id": "tea:bhagavad-gita:13.3",
-   "refs": 1,
-   "e.g.": [
-    "tea:bhagavad-gita:10.20"
-   ]
-  },
-  {
    "id": "tea:chandogya-upanisad:7.1.2",
    "refs": 1,
    "e.g.": [
@@ -1331,13 +1185,6 @@
    ]
   },
   {
-   "id": "tea:bhagavad-gita:13.2",
-   "refs": 1,
-   "e.g.": [
-    "tea:gita-bhasya-sankara:13.2"
-   ]
-  },
-  {
    "id": "tea:rgveda:1.141.1-3",
    "refs": 1,
    "e.g.": [
@@ -1380,94 +1227,17 @@
    ]
   },
   {
-   "id": "obs:annihilatory-emptiness",
+   "id": "src:buddhacarita (a Buddhist author's presentation)",
    "refs": 1,
    "e.g.": [
-    "tea:mountain-doctrine:annihilatory-emptiness"
+    "tea:buddhacarita:12.17-22"
    ]
   },
   {
-   "id": "prc:chod-in-haunted-places",
+   "id": "src:tattvasangraha (Buddhist report of a Jain view)",
    "refs": 1,
    "e.g.": [
-    "tea:katsom-chenmo:frightening-places"
-   ]
-  },
-  {
-   "id": "dsp:chod-orthodoxy",
-   "refs": 1,
-   "e.g.": [
-    "tea:phungpo-zenkyur-namshe:tibet-to-india"
-   ]
-  },
-  {
-   "id": "pth:shije-five-paths",
-   "refs": 1,
-   "e.g.": [
-    "tea:zhije-lamnga-tsele:five-paths"
-   ]
-  },
-  {
-   "id": "obs:nyepa-imbalance",
-   "refs": 1,
-   "e.g.": [
-    "tea:gyushi-shegyu:8"
-   ]
-  },
-  {
-   "id": "obs:four-hundred-four-diseases",
-   "refs": 1,
-   "e.g.": [
-    "tea:gyushi-shegyu:12"
-   ]
-  },
-  {
-   "id": "obs:rlung-disorder",
-   "refs": 1,
-   "e.g.": [
-    "tea:gyushi-mengagyu:rlung-disorders"
-   ]
-  },
-  {
-   "id": "prc:chulen",
-   "refs": 1,
-   "e.g.": [
-    "tea:gyushi-mengagyu:rejuvenation"
-   ]
-  },
-  {
-   "id": "prc:sowa-rigpa-external-therapies",
-   "refs": 1,
-   "e.g.": [
-    "tea:gyushi-chimagyu:external-therapies"
-   ]
-  },
-  {
-   "id": "prc:yuthok-nyingthig-practice",
-   "refs": 1,
-   "e.g.": [
-    "tea:yuthok-nyingthig:medicine-and-dharma"
-   ]
-  },
-  {
-   "id": "prc:medicine-buddha-practice",
-   "refs": 1,
-   "e.g.": [
-    "tea:yuthok-nyingthig:medicine-and-dharma"
-   ]
-  },
-  {
-   "id": "obs:sectarian-bias",
-   "refs": 1,
-   "e.g.": [
-    "tea:kongtrul-autobiography:impartial"
-   ]
-  },
-  {
-   "id": "prc:three-year-retreat-kongtrul",
-   "refs": 1,
-   "e.g.": [
-    "tea:kongtrul-retreat-manual:curriculum"
+    "tea:tattvasangraha:anumanapariksa-patrasvamin"
    ]
   },
   {
@@ -1828,13 +1598,6 @@
    ]
   },
   {
-   "id": "tea:pratyabhijnahrdaya:8",
-   "refs": 1,
-   "e.g.": [
-    "ult:tantra-movement"
-   ]
-  },
-  {
    "id": "obs:klesas",
    "refs": 1,
    "e.g.": [
@@ -1965,6 +1728,13 @@
    "refs": 1,
    "e.g.": [
     "brw:singalaka-agama-parallel"
+   ]
+  },
+  {
+   "id": "lin:pancasakha",
+   "refs": 1,
+   "e.g.": [
+    "brw:buddhist-sunya-in-odia-vaisnava"
    ]
   }
  ]

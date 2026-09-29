@@ -36,4 +36,4 @@ _Notes: Sūtra affiliations and regions from memory; to be checked._
 
 - 2026-09-28 websearch: confirmed — https://www.sanskritimagazine.com/vedic-shakhas-summary-classification-vedic-knowledge-passed/, https://vedicheritage.gov.in/samhitas/samaveda-samhitas/ranayaniya-samhita/ — Confirmed (entry low confidence): Rāṇāyanīya reported in Karnataka (Havyaka community), Maharashtra and also Odisha; close to the Kauthuma.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:45 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._
