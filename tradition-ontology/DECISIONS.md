@@ -284,3 +284,12 @@ Conservative choices made without asking, with reasons. Newest last.
   - existing ids were reused without checking their sense — obs:kasaya is the Gauḍapāda meditation fault, not the Jain passions; trm:ajiva is the Pali "livelihood";
   - commentarial glosses went into paraphrases unlabelled.
 - Fix for the rest of P1: extractors must check the data/ sense of every reused id and label every commentarial gloss. Both rules are sent to the running extractors and written into the Role S brief.
+
+## 2026-09-29 22:24 IST — Practice layer (layers/practices.json, 54 entries) and the user_facing convention
+- **Tiers:** 28 gentle, 21 needs-teacher, 5 never-recommend. The tier calls, all the stricter option where unsure, are recorded as made:
+  - never-recommend: maraṇasati, asubha, kāyagatāsati (a repulsiveness contemplation), āhāre paṭikūlasaññā, and the TS 7.1 vows (the great vow includes total celibacy);
+  - needs-teacher: bhakti-yoga (BhG 14.26); approaching a teacher (BhG 4.34); ātma-anātma-viveka (BhG 2.11–30 answers grief on a battlefield and leads on to the duty to fight); Oṃ meditation (MāU 8–12); Gauḍapāda's manonigraha and GK 3.43 (asparśa-yoga); KU 1.3.13; the analytic insight contemplations (MN 10:38, :44); YS 3.51.
+  - The ānāpānasati first tetrad is gentle: it is knowing the natural breath. The step "stilling the bodily process" is left out of its steps, so it can never be read as holding the breath.
+- **user_facing convention (one rule for both layers).** Citation status is computed at load time by the app: each citation is kept only if it resolves to a sourced or text-verified, non-restricted teaching. The field user_facing:false is kept only for manual exclusion; it no longer records a transient citation state, so the analyst's 34 false flags were reset to true.
+- **Stricter rule for practices.** A practice is usable only if EVERY one of its warnings still has a citable citation, so a practice is never shown with part of its texts' cautions missing. Pathways use gentle-tier practices only.
+- **Current state:** 22 practices usable, 13 of them gentle. This rises as the Yoga Sūtra, Visuddhimagga, Māṇḍūkya and Dhammapada judges promote their texts.

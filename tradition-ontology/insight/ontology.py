@@ -176,6 +176,12 @@ def practices() -> dict:
         return {}
     out = {}
     for e in json.loads(p.read_text(encoding="utf-8")):
+        if e.get("user_facing") is False:
+            continue
+        # stricter than the diagnosis layer: every warning must stay citable, or the practice is not usable
+        # (a practice is never shown with part of its texts' cautions missing)
+        if any(not _filter_cites(w.get("cites")) for w in e.get("warnings") or []):
+            continue
         c = _clean_entry(e)
         if c:
             out[c["id"]] = c

@@ -1,0 +1,2674 @@
+[
+ {
+  "id": "px:abhyasa-vairagya-ys-1-12",
+  "name": "Practice and dispassion (abhyāsa-vairāgya, YS 1.12)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [
+   "prc:abhyasa",
+   "prc:vairagya"
+  ],
+  "tradition": "lin:patanjala-yoga",
+  "summary": "YS 1.12: the activities of the mind (vṛtti) are stilled by practice (abhyāsa) and dispassion (vairāgya). Vyāsa: the river of the mind flows both ways; dispassion dams the stream toward objects, and practice in discriminative seeing opens the stream toward discrimination. Practice is the effort toward stability, the calm flow of a mind without activities (1.13 with Vyāsa); it becomes firmly grounded when cultivated for a long time, without interruption and with devotion (1.14). Dispassion is the consciousness of mastery of one who is free of thirst for objects seen or heard of (1.15); Vyāsa: the mind sees the faults of objects by the strength of reflection.",
+  "steps": [
+   "Sit in a posture that is steady and comfortable (YS 2.46).",
+   "Make the effort toward stability: let the mind settle into a calm flow (YS 1.13 with Vyāsa).",
+   "When the mind turns toward an object it thirsts for, seen or heard of, see the object's faults and let the thirst go (YS 1.15 with Vyāsa).",
+   "Return to the effort toward stability without strain; relax effort, as the sūtra says of posture (YS 2.47).",
+   "Close gently, and take the practice up again on the following days without interruption (YS 1.14)."
+  ],
+  "targets": [
+   "dx:vrtti-pramana",
+   "dx:vrtti-viparyaya",
+   "dx:vrtti-vikalpa",
+   "dx:vrtti-nidra",
+   "dx:vrtti-smrti",
+   "dx:antaraya-styana",
+   "dx:antaraya-samsaya",
+   "dx:antaraya-pramada",
+   "dx:antaraya-alasya",
+   "dx:antaraya-avirati",
+   "dx:antaraya-bhranti-darsana",
+   "dx:antaraya-alabdha-bhumikatva",
+   "dx:antaraya-anavasthitatva",
+   "dx:cittabhumi"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "Practice becomes firm only when cultivated for a long time, without interruption and with devotion; the sūtra does not present it as quick.",
+    "cites": [
+     "tea:yoga-sutra:1.14"
+    ]
+   },
+   {
+    "text": "Vyāsa lists austerity and celibacy among what makes practice firm; those belong to other tiers and are not part of these steps.",
+    "cites": [
+     "tea:yoga-bhasya:1.14"
+    ]
+   },
+   {
+    "text": "Nearest general caution in the Yoga Sūtra family (the sūtra's own passage gives none): Vyāsa says discipline is to be practised only so far as it does not disturb the mind's clarity (tac ca cittaprasādanam abādhamānam anenāsevyam; said of austerity).",
+    "cites": [
+     "tea:yoga-bhasya:2.1"
+    ]
+   },
+   {
+    "text": "The posture is to be steady and comfortable (sthira-sukha); it is accomplished by relaxing effort, so that the limbs do not tremble.",
+    "cites": [
+     "tea:yoga-sutra:2.46",
+     "tea:yoga-sutra:2.47",
+     "tea:yoga-bhasya:2.47"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Sitting quietly and bringing the mind back from its objects; the steps use no breath control, austerity or vows.",
+  "cites": [
+   "tea:yoga-sutra:1.12",
+   "tea:yoga-bhasya:1.12",
+   "tea:yoga-bhasya:1.11",
+   "tea:yoga-sutra:1.13",
+   "tea:yoga-bhasya:1.13",
+   "tea:yoga-sutra:1.14",
+   "tea:yoga-sutra:1.15",
+   "tea:yoga-bhasya:1.15"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:ekatattva-abhyasa-ys-1-32",
+  "name": "Practice on a single principle (ekatattva-abhyāsa, YS 1.32)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [
+   "prc:ekatattva-abhyasa"
+  ],
+  "tradition": "lin:patanjala-yoga",
+  "summary": "YS 1.32: to counter them (the distractions of 1.30 and their companions of 1.31) there is practice on a single principle. Vyāsa: to counter distraction the mind should practise resting on a single principle (ekatattvāvalambana); when the mind is drawn back from everything and concentrated on one object, it becomes one-pointed. Neither the sūtra nor this gloss names the object.",
+  "steps": [
+   "Sit in a posture that is steady and comfortable (YS 2.46).",
+   "Choose one object and let the mind rest on it alone (YS 1.32 with Vyāsa: ekatattvāvalambana).",
+   "When the mind goes to other things, draw it back from them and set it again on the one object (Vyāsa on 1.32).",
+   "Keep the effort light: the effort toward stability is itself the practice (YS 1.13).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:antaraya-styana",
+   "dx:antaraya-samsaya",
+   "dx:antaraya-pramada",
+   "dx:antaraya-alasya",
+   "dx:antaraya-avirati",
+   "dx:antaraya-bhranti-darsana",
+   "dx:antaraya-alabdha-bhumikatva",
+   "dx:antaraya-anavasthitatva",
+   "dx:companion-duhkha",
+   "dx:companion-daurmanasya",
+   "dx:companion-angamejayatva",
+   "dx:companion-svasa-prasvasa"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "Nearest general caution in the Yoga Sūtra family (the sūtra's own passage gives none): Vyāsa says discipline is to be practised only so far as it does not disturb the mind's clarity (tac ca cittaprasādanam abādhamānam anenāsevyam; said of austerity).",
+    "cites": [
+     "tea:yoga-bhasya:2.1"
+    ]
+   },
+   {
+    "text": "The posture is to be steady and comfortable (sthira-sukha); it is accomplished by relaxing effort, so that the limbs do not tremble.",
+    "cites": [
+     "tea:yoga-sutra:2.46",
+     "tea:yoga-sutra:2.47",
+     "tea:yoga-bhasya:2.47"
+    ]
+   },
+   {
+    "text": "Vyāsa's gloss says only 'one principle'; the product does not choose a sacred object or mantra for the user, and a mantra practice would need a teacher.",
+    "cites": [
+     "tea:yoga-bhasya:1.32"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Resting attention on one object and bringing it back; no breath control, vows or austerity.",
+  "cites": [
+   "tea:yoga-sutra:1.32",
+   "tea:yoga-bhasya:1.32",
+   "tea:yoga-sutra:1.13"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:maitri-bhavana-ys-1-33",
+  "name": "Friendliness, compassion, gladness and equanimity (YS 1.33)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [
+   "prc:four-attitudes"
+  ],
+  "tradition": "lin:patanjala-yoga",
+  "summary": "YS 1.33: the mind becomes clear (citta-prasādana) by cultivating friendliness toward the happy, compassion toward the suffering, gladness toward the virtuous and equanimity (upekṣā) toward the non-virtuous. Vyāsa: by such cultivation white dharma arises; then the mind becomes clear, and the clear mind, one-pointed, attains steadiness.",
+  "steps": [
+   "Sit in a posture that is steady and comfortable (YS 2.46).",
+   "Bring to mind those who are happy, and cultivate friendliness (maitrī) toward them (YS 1.33).",
+   "Bring to mind those who are suffering, and cultivate compassion (karuṇā) toward them (YS 1.33).",
+   "Bring to mind those who are virtuous, and cultivate gladness (muditā) at their virtue (YS 1.33).",
+   "Bring to mind those who act without virtue, and hold equanimity (upekṣā) toward them (YS 1.33).",
+   "Close gently; Vyāsa says the mind so cultivated becomes clear (YB 1.33)."
+  ],
+  "targets": [
+   "dx:companion-duhkha",
+   "dx:companion-daurmanasya",
+   "dx:companion-angamejayatva",
+   "dx:companion-svasa-prasvasa"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "The sūtra pairs each attitude with its own object: equanimity, not friendliness, toward the non-virtuous.",
+    "cites": [
+     "tea:yoga-sutra:1.33",
+     "tea:yoga-bhasya:1.33"
+    ]
+   },
+   {
+    "text": "Nearest general caution in the Yoga Sūtra family (the sūtra's own passage gives none): Vyāsa says discipline is to be practised only so far as it does not disturb the mind's clarity (tac ca cittaprasādanam abādhamānam anenāsevyam; said of austerity).",
+    "cites": [
+     "tea:yoga-bhasya:2.1"
+    ]
+   },
+   {
+    "text": "The posture is to be steady and comfortable (sthira-sukha); it is accomplished by relaxing effort, so that the limbs do not tremble.",
+    "cites": [
+     "tea:yoga-sutra:2.46",
+     "tea:yoga-sutra:2.47",
+     "tea:yoga-bhasya:2.47"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Cultivating kindness and related attitudes in reflection; no breath control, vows or austerity.",
+  "cites": [
+   "tea:yoga-sutra:1.33",
+   "tea:yoga-bhasya:1.33"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:kriya-yoga-ys-2-1",
+  "name": "The yoga of action: austerity, self-study, devotion to Īśvara (kriyā-yoga, YS 2.1)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [
+   "prc:kriya-yoga",
+   "prc:tapas",
+   "prc:svadhyaya",
+   "prc:isvara-pranidhana"
+  ],
+  "tradition": "lin:patanjala-yoga",
+  "summary": "YS 2.1: austerity (tapas), self-study (svādhyāya) and devotion to Īśvara (īśvara-praṇidhāna) are the yoga of action. YS 2.2: it is for cultivating samādhi and for thinning the afflictions (kleśa). Vyāsa: yoga does not succeed for one without austerity; self-study is the repetition of purifying words such as Oṃ or the study of texts on liberation; devotion to Īśvara is offering all actions to the supreme teacher, or renouncing their fruit. Vyāsa introduces it as the yoga for one whose mind is not yet concentrated.",
+  "steps": [],
+  "targets": [
+   "dx:klesa-avidya",
+   "dx:klesa-asmita",
+   "dx:klesa-raga",
+   "dx:klesa-dvesa",
+   "dx:klesa-abhinivesa"
+  ],
+  "stage": "beginner",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "Vyāsa: austerity is to be practised only so far as it does not disturb the mind's clarity.",
+    "cites": [
+     "tea:yoga-bhasya:2.1"
+    ]
+   }
+  ],
+  "safety_tier": "needs-teacher",
+  "tier_reason": "Includes austerity (tapas), which the product never prescribes on its own (the ontology marks prc:tapas restricted); self-study and devotion can be read about here, but the combined discipline is taken up with a teacher.",
+  "cites": [
+   "tea:yoga-sutra:2.1",
+   "tea:yoga-bhasya:2.1",
+   "tea:yoga-sutra:2.2",
+   "tea:yoga-bhasya:2.2"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:dhyana-ys-2-11",
+  "name": "Meditation that abandons the afflictions' activities (dhyāna, YS 2.11)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [
+   "prc:dhyana"
+  ],
+  "tradition": "lin:patanjala-yoga",
+  "summary": "YS 2.11: the activities (vṛtti) of the afflictions are to be abandoned by meditation (dhyāna). Vyāsa: the gross activities, first thinned by kriyā-yoga, are abandoned by reflection (prasaṃkhyāna), by meditation, until they are made subtle like burnt seeds; as the gross dirt of cloth is shaken off first and the fine dirt removed afterwards with effort and means, so the gross activities have small opponents and the subtle ones great opponents.",
+  "steps": [],
+  "targets": [
+   "dx:klesa-avidya",
+   "dx:klesa-asmita",
+   "dx:klesa-raga",
+   "dx:klesa-dvesa",
+   "dx:klesa-abhinivesa"
+  ],
+  "stage": "intermediate",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "Vyāsa: the subtle activities have 'great opponents' and are removed only with effort and means; the text does not present this as quick.",
+    "cites": [
+     "tea:yoga-bhasya:2.11"
+    ]
+   }
+  ],
+  "safety_tier": "needs-teacher",
+  "tier_reason": "Vyāsa places this meditation after kriyā-yoga (which includes austerity) has thinned the afflictions; it is a sustained meditative discipline, not a beginner's exercise. Stricter tier when unsure.",
+  "cites": [
+   "tea:yoga-sutra:2.11",
+   "tea:yoga-bhasya:2.11"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:pratipaksa-bhavana-ys-2-33",
+  "name": "Cultivating the opposite (pratipakṣa-bhāvanā, YS 2.33–34)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [
+   "prc:pratipaksa-bhavana"
+  ],
+  "tradition": "lin:patanjala-yoga",
+  "summary": "YS 2.33: when one is oppressed by harmful thoughts (vitarka), one should cultivate their opposites. YS 2.34: harmful thoughts such as violence, whether done, caused to be done or approved, preceded by greed, anger or delusion, mild, middling or intense, have endless suffering and ignorance as their fruit; reflecting thus is the cultivation of the opposite. Vyāsa gives the yogin's reflection: having taken refuge in yoga, to take back the harmful thoughts one has given up would be like a dog returning to its vomit. The restraints the harmful thoughts oppose are non-harming, truthfulness, non-stealing, celibacy and non-possessiveness (2.30). Vyāsa on 2.4: afflictions struck down by the cultivation of the opposite become thin (tanu).",
+  "steps": [
+   "Sit in a posture that is steady and comfortable (YS 2.46).",
+   "When a harmful thought arises, to harm, to lie, to take what is not given, name it as a harmful thought (vitarka) (YS 2.33 with Vyāsa).",
+   "See how it stands: done, caused to be done, or approved; rooted in greed, anger or delusion; mild, middling or intense (YS 2.34).",
+   "Reflect that such thoughts bear endless suffering and ignorance as their fruit (YS 2.34).",
+   "Turn the mind toward the restraint the thought opposes, such as non-harming or truthfulness (YS 2.33; 2.30).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:klesa-avidya",
+   "dx:klesa-asmita",
+   "dx:klesa-raga",
+   "dx:klesa-dvesa",
+   "dx:klesa-abhinivesa",
+   "dx:vitarka-himsadi"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "Nearest general caution in the Yoga Sūtra family (the sūtra's own passage gives none): Vyāsa says discipline is to be practised only so far as it does not disturb the mind's clarity (tac ca cittaprasādanam abādhamānam anenāsevyam; said of austerity).",
+    "cites": [
+     "tea:yoga-bhasya:2.1"
+    ]
+   },
+   {
+    "text": "Vyāsa's illustrations of the fruit of violence include births in hells (YB 2.34); the steps keep only the sūtra's own reflection.",
+    "cites": [
+     "tea:yoga-bhasya:2.34"
+    ]
+   },
+   {
+    "text": "The posture is to be steady and comfortable (sthira-sukha); it is accomplished by relaxing effort, so that the limbs do not tremble.",
+    "cites": [
+     "tea:yoga-sutra:2.46",
+     "tea:yoga-sutra:2.47",
+     "tea:yoga-bhasya:2.47"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "A reflection on one's own thoughts and their fruit; no breath control, vows or austerity.",
+  "cites": [
+   "tea:yoga-sutra:2.33",
+   "tea:yoga-bhasya:2.33",
+   "tea:yoga-sutra:2.34",
+   "tea:yoga-bhasya:2.34",
+   "tea:yoga-sutra:2.30",
+   "tea:yoga-bhasya:2.4"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:viveka-khyati-ys-2-26",
+  "name": "Unwavering discriminative discernment (viveka-khyāti, YS 2.26)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [
+   "prc:viveka-khyati"
+  ],
+  "tradition": "lin:patanjala-yoga",
+  "summary": "YS 2.26: unwavering discriminative discernment (viveka-khyāti) is the means of avoidance. Vyāsa: it is the cognition of the difference between sattva and puruṣa; while false knowledge has not ceased it wavers; when false knowledge becomes like a burnt, barren seed, the flow of discriminative cognition becomes stainless, and this is the path to liberation. YS 2.28: through practising the limbs of yoga, as impurity dwindles, the light of knowledge grows up to discriminative discernment.",
+  "steps": [],
+  "targets": [
+   "dx:klesa-avidya",
+   "dx:klesa-asmita",
+   "dx:klesa-abhinivesa"
+  ],
+  "stage": "advanced",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "Vyāsa: while false knowledge has not ceased, this discernment wavers (plavate).",
+    "cites": [
+     "tea:yoga-bhasya:2.26"
+    ]
+   },
+   {
+    "text": "It comes through practising the limbs of yoga as impurity dwindles; it is not a starting point.",
+    "cites": [
+     "tea:yoga-sutra:2.28",
+     "tea:yoga-bhasya:2.28"
+    ]
+   }
+  ],
+  "safety_tier": "needs-teacher",
+  "tier_reason": "An advanced discernment that, in the sūtra, grows out of practising all the limbs of yoga (2.28); an analytic insight discipline, not a self-guided exercise.",
+  "cites": [
+   "tea:yoga-sutra:2.26",
+   "tea:yoga-bhasya:2.26",
+   "tea:yoga-sutra:2.28",
+   "tea:yoga-bhasya:2.28"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:sanga-smaya-akarana-ys-3-51",
+  "name": "Neither attachment nor pride when invited by the high ones (YS 3.51)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [],
+  "tradition": "lin:patanjala-yoga",
+  "summary": "YS 3.51: when invited by those in high places (sthānin), one should form neither attachment nor pride, for undesirable consequences would recur. Vyāsa: of four kinds of yogin, it is the one at the 'honey stage' (madhubhūmika) whom the gods invite with heavenly pleasures; he should reflect on the faults of attachment, and should not take pride in being sought even by the gods, for pride makes him think himself secure, carelessness (pramāda) finds its opening and rouses the afflictions again.",
+  "steps": [],
+  "targets": [
+   "dx:siddhi-upasarga"
+  ],
+  "stage": "advanced",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "Vyāsa: pride in being sought out lets carelessness find its opening and rouse the afflictions again.",
+    "cites": [
+     "tea:yoga-bhasya:3.51"
+    ]
+   }
+  ],
+  "safety_tier": "needs-teacher",
+  "tier_reason": "Belongs to an advanced stage (the madhubhūmika yogin) and to the context of powers (siddhi); the product does not guide practice toward powers or visions.",
+  "cites": [
+   "tea:yoga-sutra:3.51",
+   "tea:yoga-bhasya:3.51"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:abhyasa-vairagya-bg-6-35",
+  "name": "Practice and dispassion (abhyāsa, vairāgya, BhG 6.35)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [
+   "prc:abhyasa-vairagya",
+   "prc:abhyasa",
+   "prc:vairagya"
+  ],
+  "tradition": "lin:epic-teaching",
+  "summary": "BhG 6.34–35: Arjuna says the mind is restless, turbulent, strong and obstinate, as hard to restrain as the wind; Kṛṣṇa answers that the mind is without doubt hard to restrain and restless, but it is held by practice (abhyāsa) and dispassion (vairāgya). 6.36: yoga is hard to attain for one whose self is unrestrained, but one whose self is under control and who strives can attain it through the right means.",
+  "steps": [
+   "Sit on a firm seat in a clean place, neither too high nor too low (BhG 6.11), body, head and neck in line and still (6.13).",
+   "Practice (abhyāsa): wherever the restless mind wanders off, restrain it from there and bring it back (6.26).",
+   "Dispassion (vairāgya): recall that enjoyments born of contact have a beginning and an end and are wombs of sorrow; the wise one does not delight in them (5.22).",
+   "Come to rest little by little (śanaiḥ śanaiḥ), not all at once (6.25).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:gita-restless-mind"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "Moderation: yoga is not for one who eats too much, nor for one who does not eat at all, nor for one who sleeps too much or keeps always awake; it is for one measured in food, recreation, effort, sleep and waking.",
+    "cites": [
+     "tea:bhagavad-gita:6.16",
+     "tea:bhagavad-gita:6.17"
+    ]
+   },
+   {
+    "text": "The Gītā asks that yoga be practised with resolve and with an undejected mind (anirviṇṇa-cetas).",
+    "cites": [
+     "tea:bhagavad-gita:6.23"
+    ]
+   },
+   {
+    "text": "The Gītā itself grants that the mind is hard to restrain; it is held over time by practice, not at once.",
+    "cites": [
+     "tea:bhagavad-gita:6.35",
+     "tea:bhagavad-gita:6.36"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Sitting quietly, bringing the mind back and reflecting on the passing of pleasures; no breath control, fasting or austerity.",
+  "cites": [
+   "tea:bhagavad-gita:6.34",
+   "tea:bhagavad-gita:6.35",
+   "tea:bhagavad-gita:6.36",
+   "tea:bhagavad-gita:6.26",
+   "tea:bhagavad-gita:6.25",
+   "tea:bhagavad-gita:5.22",
+   "tea:bhagavad-gita:6.11",
+   "tea:bhagavad-gita:6.13"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:returning-the-mind-bg-6-26",
+  "name": "Bringing the wandering mind back (BhG 6.26)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [
+   "prc:dhyana-yoga-gita"
+  ],
+  "tradition": "lin:epic-teaching",
+  "summary": "BhG 6.26: wherever the restless, unsteady mind wanders off, from there one should restrain it and bring it back under control in the self alone. It belongs to the Gītā's meditation (6.10–32): a clean place and a firm seat neither too high nor too low (6.11), the mind made one-pointed with thought and senses restrained (6.12), body, head and neck held in line and still (6.13), coming to rest little by little, held by steadiness (6.25).",
+  "steps": [
+   "Sit on a firm seat in a clean place, neither too high nor too low (BhG 6.11), body, head and neck in line and still (6.13).",
+   "Make the mind one-pointed, with thought and the senses restrained (6.12).",
+   "Whenever the mind wanders off, notice where it has gone and bring it back from there (6.26).",
+   "Let it come to rest little by little, held by steadiness (6.25).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:gita-restless-mind"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "Moderation: yoga is not for one who eats too much, nor for one who does not eat at all, nor for one who sleeps too much or keeps always awake; it is for one measured in food, recreation, effort, sleep and waking.",
+    "cites": [
+     "tea:bhagavad-gita:6.16",
+     "tea:bhagavad-gita:6.17"
+    ]
+   },
+   {
+    "text": "The Gītā asks that yoga be practised with resolve and with an undejected mind (anirviṇṇa-cetas).",
+    "cites": [
+     "tea:bhagavad-gita:6.23"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Sitting still and returning the mind to its place; no breath control, fasting or austerity.",
+  "cites": [
+   "tea:bhagavad-gita:6.26",
+   "tea:bhagavad-gita:6.11",
+   "tea:bhagavad-gita:6.12",
+   "tea:bhagavad-gita:6.13",
+   "tea:bhagavad-gita:6.25"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:indriya-samyama-bg-2-58-61",
+  "name": "Withdrawing the senses like a tortoise (indriya-saṃyama, BhG 2.58–61)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [
+   "prc:indriya-samyama",
+   "prc:indriya-nigraha"
+  ],
+  "tradition": "lin:epic-teaching",
+  "summary": "BhG 2.58: when, like a tortoise drawing in its limbs on all sides, one withdraws the senses from their objects, one's wisdom is firmly established. 2.61: restraining them all, let him sit yoked (yukta āsīta), intent on me; he whose senses are under control has firm wisdom. 2.64: one who moves among sense-objects with senses free from passion and aversion, under the self's control, attains serenity (prasāda). 3.41: first restraining the senses, slay desire, the destroyer of knowledge and discernment.",
+  "steps": [
+   "Sit comfortably and still.",
+   "As a tortoise draws in its limbs, draw the senses back from their objects on all sides (BhG 2.58).",
+   "Restraining them all, sit yoked (yukta āsīta) (2.61).",
+   "Afterwards, moving among sense-objects, let the senses move free of passion and aversion, under the self's control (2.64).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:gita-anger-chain",
+   "dx:gita-kama-krodha",
+   "dx:gita-sthitaprajna"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "The turbulent senses forcibly carry off the mind even of a discerning person who strives.",
+    "cites": [
+     "tea:bhagavad-gita:2.60"
+    ]
+   },
+   {
+    "text": "Objects fall away from one who abstains from them (nirāhāra), but the taste (rasa) for them remains: the restraint taught here is of the senses, not going without food.",
+    "cites": [
+     "tea:bhagavad-gita:2.59"
+    ]
+   },
+   {
+    "text": "Moderation: yoga is not for one who eats too much, nor for one who does not eat at all, nor for one who sleeps too much or keeps always awake; it is for one measured in food, recreation, effort, sleep and waking.",
+    "cites": [
+     "tea:bhagavad-gita:6.16",
+     "tea:bhagavad-gita:6.17"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Attention to the senses while sitting quietly; the Gītā's restraint is of the senses, not a fast (2.59).",
+  "cites": [
+   "tea:bhagavad-gita:2.58",
+   "tea:bhagavad-gita:2.61",
+   "tea:bhagavad-gita:2.64",
+   "tea:bhagavad-gita:3.41",
+   "tea:bhagavad-gita:2.59",
+   "tea:bhagavad-gita:2.60"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:bearing-the-surge-bg-5-23",
+  "name": "Withstanding the surge of desire and anger (BhG 5.23)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [
+   "prc:titiksa",
+   "prc:conquering-desire"
+  ],
+  "tradition": "lin:epic-teaching",
+  "summary": "BhG 5.23: one who is able, here, before release from the body, to withstand the surge (vega) that arises from desire (kāma) and anger (krodha): he is yoked, he is a happy person. The verse before gives the ground: enjoyments born of contact are wombs of sorrow, with a beginning and an end (5.22); and 2.14: the contacts of the senses give cold and heat, pleasure and pain, they come and go and are impermanent; endure them (titikṣasva).",
+  "steps": [
+   "Sit comfortably.",
+   "When a surge (vega) of desire or anger rises, recognise it as the surge the Gītā names (BhG 5.23).",
+   "Bear it (soḍhum) without acting from it: contacts that give pleasure and pain come and go and are impermanent; endure them (5.23; 2.14).",
+   "Recall that enjoyments born of contact have a beginning and an end (5.22).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:gita-kama-krodha"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "The turbulent senses forcibly carry off the mind even of a discerning person who strives.",
+    "cites": [
+     "tea:bhagavad-gita:2.60"
+    ]
+   },
+   {
+    "text": "The Gītā asks that yoga be practised with resolve and with an undejected mind (anirviṇṇa-cetas).",
+    "cites": [
+     "tea:bhagavad-gita:6.23"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Bearing a passing impulse without acting from it, with reflection; no breath control, fasting or austerity.",
+  "cites": [
+   "tea:bhagavad-gita:5.23",
+   "tea:bhagavad-gita:5.22",
+   "tea:bhagavad-gita:2.14"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:guna-witnessing-bg-14-19-23",
+  "name": "Seeing that the guṇas act (BhG 14.19–23)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [
+   "prc:guna-witnessing"
+  ],
+  "tradition": "lin:epic-teaching",
+  "summary": "BhG 14.19: when the seer sees no agent other than the guṇas and knows what is higher than the guṇas, he attains my state. 14.22–23: illumination, activity and delusion, he does not hate them when they have arisen nor long for them when they have ceased; seated as one indifferent (udāsīnavat), he is not shaken by the guṇas, and knowing only 'the guṇas are operating', he stands firm and does not waver. 3.27: actions are done by the guṇas of prakṛti; one deluded by the sense of 'I' thinks 'I am the doer'.",
+  "steps": [
+   "Sit comfortably.",
+   "Notice which quality is present: illumination (prakāśa), activity (pravṛtti) or delusion (moha) (BhG 14.22).",
+   "Do not hate it now that it has arisen, nor long for it when it has gone (14.22).",
+   "Sit as one indifferent (udāsīnavat), not shaken, knowing only 'the guṇas are operating' (14.23).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:guna-sattva",
+   "dx:guna-rajas",
+   "dx:guna-tamas",
+   "dx:gunatita"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "This seeing does not cancel action: 'perform your allotted action, for action is better than inaction'.",
+    "cites": [
+     "tea:bhagavad-gita:3.8"
+    ]
+   },
+   {
+    "text": "Moderation: yoga is not for one who eats too much, nor for one who does not eat at all, nor for one who sleeps too much or keeps always awake; it is for one measured in food, recreation, effort, sleep and waking.",
+    "cites": [
+     "tea:bhagavad-gita:6.16",
+     "tea:bhagavad-gita:6.17"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Quiet reflection on passing states without hating or longing; no breath control, fasting or austerity.",
+  "cites": [
+   "tea:bhagavad-gita:14.19",
+   "tea:bhagavad-gita:14.22",
+   "tea:bhagavad-gita:14.23",
+   "tea:bhagavad-gita:3.27"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:bhakti-yoga-bg-14-26",
+  "name": "The unswerving yoga of devotion (bhakti-yoga, BhG 14.26)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [
+   "prc:ananya-bhakti"
+  ],
+  "tradition": "lin:epic-teaching",
+  "summary": "BhG 14.26: he who serves (sevate) me with the unswerving yoga of devotion (avyabhicāra bhakti-yoga), having gone fully beyond these guṇas, becomes fit for becoming brahman. For one who cannot yet hold the mind fixed on the Lord, the Gītā gives graded means: the yoga of practice (abhyāsa-yoga); if not that, work for the Lord; if not that, giving up the fruit of all actions (12.9–11).",
+  "steps": [],
+  "targets": [
+   "dx:guna-sattva",
+   "dx:guna-rajas",
+   "dx:guna-tamas",
+   "dx:gunatita"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "The Gītā itself grades the approach for one who cannot yet fix the mind on the Lord: practice, then work for the Lord, then giving up the fruit of actions.",
+    "cites": [
+     "tea:bhagavad-gita:12.9",
+     "tea:bhagavad-gita:12.10",
+     "tea:bhagavad-gita:12.11"
+    ]
+   },
+   {
+    "text": "The teaching is not to be spoken to one without austerity, without devotion, or who does not wish to hear.",
+    "cites": [
+     "tea:bhagavad-gita:18.67"
+    ]
+   }
+  ],
+  "safety_tier": "needs-teacher",
+  "tier_reason": "Devotion here is an unswerving, whole-life orientation to the Lord that the product cannot set up in steps and does not prescribe; stricter tier when unsure. 12.9–11 is the text's own graded path for one who cannot yet do it.",
+  "cites": [
+   "tea:bhagavad-gita:14.26",
+   "tea:bhagavad-gita:12.9",
+   "tea:bhagavad-gita:12.10",
+   "tea:bhagavad-gita:12.11"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:approach-a-teacher-bg-4-34",
+  "name": "Approaching those who have seen the truth (BhG 4.34)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [
+   "prc:pranipata-pariprasna-seva"
+  ],
+  "tradition": "lin:epic-teaching",
+  "summary": "BhG 4.34: learn that knowledge by prostration (praṇipāta), by thorough questioning (paripraśna) and by service (sevā); the knowers who have seen the truth (tattva-darśin) will teach you knowledge. 4.42: having cut with the sword of knowledge this doubt born of ignorance and lodged in the heart, resort to yoga. Arjuna's own turn (2.7): his mind bewildered about dharma, he asks for what is better: 'I am your disciple; instruct me, who have taken refuge in you.'",
+  "steps": [],
+  "targets": [
+   "dx:antaraya-samsaya",
+   "dx:gita-visada"
+  ],
+  "stage": "beginner",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "The Gītā names who teaches: knowers who have seen the truth (jñānin, tattva-darśin), not anyone who offers.",
+    "cites": [
+     "tea:bhagavad-gita:4.34"
+    ]
+   }
+  ],
+  "safety_tier": "needs-teacher",
+  "tier_reason": "The practice is the relationship with a teacher itself; the product cannot supply, vet or stand in for a teacher, and prostration and service belong inside that relationship.",
+  "cites": [
+   "tea:bhagavad-gita:4.34",
+   "tea:bhagavad-gita:4.42",
+   "tea:bhagavad-gita:2.7"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:atma-anatma-viveka-bg-2-11-30",
+  "name": "The embodied one and the body (BhG 2.11–30)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [],
+  "tradition": "lin:epic-teaching",
+  "summary": "BhG 2.11–30: Kṛṣṇa's first teaching to the grieving Arjuna. The wise grieve neither for those whose life has gone nor for those whose life has not gone (2.11); as the embodied one passes through childhood, youth and old age, so it attains another body (2.13); the contacts of the senses come and go, endure them (2.14); of what is not there is no being, of what is there is no non-being (2.16); the embodied one is unborn, eternal, not slain when the body is slain (2.20); therefore one ought not to grieve for any beings (2.30).",
+  "steps": [],
+  "targets": [
+   "dx:gita-visada"
+  ],
+  "stage": "intermediate",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "It is spoken to a disciple who has asked for instruction and taken refuge (2.7); Kṛṣṇa first notes that Arjuna grieves while speaking words of wisdom (2.11).",
+    "cites": [
+     "tea:bhagavad-gita:2.7",
+     "tea:bhagavad-gita:2.11"
+    ]
+   }
+  ],
+  "safety_tier": "needs-teacher",
+  "tier_reason": "The teaching answers grief over death on a battlefield, and its argument goes on to Arjuna's duty to fight (2.31). Given as a self-guided exercise to someone in grief it could be heard as 'do not grieve for your dead'; it needs a teacher's framing. Stricter tier.",
+  "cites": [
+   "tea:bhagavad-gita:2.11",
+   "tea:bhagavad-gita:2.13",
+   "tea:bhagavad-gita:2.14",
+   "tea:bhagavad-gita:2.16",
+   "tea:bhagavad-gita:2.20",
+   "tea:bhagavad-gita:2.30",
+   "tea:bhagavad-gita:2.31"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:sreyas-preyas-viveka-ku-1-2-2",
+  "name": "Telling the good from the pleasant (śreyas and preyas, KU 1.2.1–2)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [],
+  "tradition": "lin:upanisadic",
+  "summary": "KU 1.2.1–2: the good (śreyas) is one thing, the pleasant (preyas) another; both bind a person with different aims. Good comes to one who takes the good; one who chooses the pleasant misses the goal. Both come to a person; the wise one examines them all round and distinguishes them; the wise prefers the good to the pleasant, the dull one chooses the pleasant for the sake of getting and keeping (yoga-kṣema).",
+  "steps": [
+   "Sit comfortably.",
+   "Bring to mind a choice in front of you now: the Upaniṣad says both the good and the pleasant come to a person (KU 1.2.2).",
+   "Go round both sides and tell them apart: which is the good (śreyas), which only the pleasant (preyas) (1.2.2).",
+   "Notice where the pull is 'for the sake of getting and keeping' (yoga-kṣema) (1.2.2).",
+   "Let the preference for the good be weighed, as the Upaniṣad's wise one prefers it (1.2.2).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:katha-preyas"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "The Upaniṣad calls the path sharp as a razor's edge and hard to cross, and bids one understand by approaching the excellent ones.",
+    "cites": [
+     "tea:katha-upanisad:1.3.14"
+    ]
+   },
+   {
+    "text": "One who has not ceased from bad conduct, who is not calm or collected, whose mind is not at peace, cannot attain the self by knowledge.",
+    "cites": [
+     "tea:katha-upanisad:1.2.24"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "A reflection on a present choice; no breath control, fasting or austerity.",
+  "cites": [
+   "tea:katha-upanisad:1.2.1",
+   "tea:katha-upanisad:1.2.2"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:inward-turned-gaze-ku-2-1-1",
+  "name": "Turning the sight inward (āvṛtta-cakṣus, KU 2.1.1)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [
+   "prc:adhyatma-yoga",
+   "prc:pratyahara"
+  ],
+  "tradition": "lin:upanisadic",
+  "summary": "KU 2.1.1: the self-existent pierced the openings of the senses outward; therefore one looks outward, not within. A certain wise one, desiring immortality, turned his sight inward (āvṛtta-cakṣus) and saw the self within (pratyag-ātman).",
+  "steps": [
+   "Sit comfortably.",
+   "Notice, as the verse says, that the senses face outward and the looking goes outward (KU 2.1.1).",
+   "Turn the sight back (āvṛtta-cakṣus): let attention turn from the outer objects toward what is within (pratyak) (2.1.1).",
+   "Stay heedful (apramatta); the Upaniṣad says this holding of the senses comes and goes (2.3.11).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:katha-outward-senses"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "The verse says only that 'a certain wise one' saw the self; it does not promise that turning the sight inward brings this seeing.",
+    "cites": [
+     "tea:katha-upanisad:2.1.1"
+    ]
+   },
+   {
+    "text": "The Upaniṣad says this understanding is not reached by reasoning, and that unless taught by another there is no way to it.",
+    "cites": [
+     "tea:katha-upanisad:1.2.8",
+     "tea:katha-upanisad:1.2.9"
+    ]
+   },
+   {
+    "text": "Yoga, the firm holding of the senses, comes and goes; one must stay heedful (apramatta).",
+    "cites": [
+     "tea:katha-upanisad:2.3.11"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Quiet attention turned from outer objects; no breath control, fasting or austerity.",
+  "cites": [
+   "tea:katha-upanisad:2.1.1"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:katha-inward-withdrawal-1-3-13",
+  "name": "Restraining speech into mind and mind into the self (KU 1.3.13)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [
+   "prc:adhyatma-yoga"
+  ],
+  "tradition": "lin:upanisadic",
+  "summary": "KU 1.3.13: the discerning one should restrain speech in the mind, restrain that in the self that is knowledge (jñāna ātman), restrain knowledge in the great self, and restrain that in the peaceful self (śānta ātman). It follows the chariot image: the self is the lord of the chariot, the body the chariot, the intellect the charioteer, the mind the reins (1.3.3); for one without discernment the senses are like bad horses (1.3.5). KU 2.3.10–11: when the five senses stand still with the mind and the intellect does not stir, that is the highest state; this firm holding of the senses is called yoga.",
+  "steps": [],
+  "targets": [
+   "dx:katha-unrestrained-senses",
+   "dx:katha-yoga-state"
+  ],
+  "stage": "advanced",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "Sharp as the edge of a razor, hard to cross, difficult to tread is that path, so the sages say.",
+    "cites": [
+     "tea:katha-upanisad:1.3.14"
+    ]
+   },
+   {
+    "text": "Unless taught by another there is no way to it.",
+    "cites": [
+     "tea:katha-upanisad:1.2.8",
+     "tea:katha-upanisad:1.2.9"
+    ]
+   },
+   {
+    "text": "Yoga comes and goes; one must stay heedful (apramatta).",
+    "cites": [
+     "tea:katha-upanisad:2.3.11"
+    ]
+   }
+  ],
+  "safety_tier": "needs-teacher",
+  "tier_reason": "A graded inward withdrawal toward the 'highest state' (2.3.10); past its first step it is an advanced yogic discipline, and the Upaniṣad calls the path a razor's edge (1.3.14) and says it must be taught by another (1.2.8–9). Stricter tier.",
+  "cites": [
+   "tea:katha-upanisad:1.3.13",
+   "tea:katha-upanisad:1.3.3",
+   "tea:katha-upanisad:1.3.5",
+   "tea:katha-upanisad:1.3.6",
+   "tea:katha-upanisad:2.3.10",
+   "tea:katha-upanisad:2.3.11"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:bhrgu-inquiry-tu-3",
+  "name": "Bhṛgu's inquiry into brahman (TU 3.1–6)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [
+   "prc:tapas-inquiry-bhrgu"
+  ],
+  "tradition": "lin:upanisadic",
+  "summary": "TU 3.1.1: Bhṛgu Vāruṇi approached his father Varuṇa: 'Sir, teach me brahman.' Varuṇa named food, breath, sight, hearing, mind and speech, and said: that from which these beings are born, by which they live, into which they go and enter, seek to know that; that is brahman. Bhṛgu performed tapas and knew in turn food (3.2.1), breath (3.3.1), mind (3.4.1), understanding (3.5.1) and bliss (3.6.1) as brahman, going back to his teacher after each; at each of the first four returns Varuṇa answers: seek to know brahman by tapas; tapas is brahman. This is the knowledge of Bhṛgu taught by Varuṇa (3.6.1).",
+  "steps": [],
+  "targets": [
+   "dx:sheath-annamaya",
+   "dx:sheath-pranamaya",
+   "dx:sheath-manomaya",
+   "dx:sheath-vijnanamaya",
+   "dx:sheath-anandamaya"
+  ],
+  "stage": "intermediate",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "Each finding is taken back to the teacher before the next step.",
+    "cites": [
+     "tea:taittiriya-upanisad:3.2.1"
+    ]
+   },
+   {
+    "text": "The text's means is tapas: 'seek to know brahman by tapas'.",
+    "cites": [
+     "tea:taittiriya-upanisad:3.2.1"
+    ]
+   }
+  ],
+  "safety_tier": "needs-teacher",
+  "tier_reason": "The inquiry is carried out by tapas and under a teacher to whom the student returns at each stage; the product does not prescribe austerity (prc:tapas is restricted in the ontology).",
+  "cites": [
+   "tea:taittiriya-upanisad:3.1.1",
+   "tea:taittiriya-upanisad:3.2.1",
+   "tea:taittiriya-upanisad:3.3.1",
+   "tea:taittiriya-upanisad:3.4.1",
+   "tea:taittiriya-upanisad:3.5.1",
+   "tea:taittiriya-upanisad:3.6.1"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:omkara-upasana-mau-8-12",
+  "name": "Meditation on Oṃ and its measures (MāU 8–12)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [
+   "prc:pranava-upasana"
+  ],
+  "tradition": "lin:upanisadic",
+  "summary": "MāU 8–12: this self, with respect to the syllable, is Oṃ; its measures are the quarters: A is waking (vaiśvānara), U is dream (taijasa), M is deep sleep (prājña); the fourth is without measure (amātra), beyond dealings, the stilling of the world, auspicious, non-dual. Thus Oṃ is the self; whoever knows this enters the self by the self. Gauḍapāda: know Oṃ quarter by quarter, and fix the mind on Oṃ (GK 1.24–25).",
+  "steps": [],
+  "targets": [
+   "dx:state-jagrat",
+   "dx:state-svapna",
+   "dx:state-susupta",
+   "dx:state-turiya"
+  ],
+  "stage": "intermediate",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "Nearest general caution in the Upaniṣadic family (the Māṇḍūkya gives none): unless taught by another there is no way to this understanding; it is not reached by reasoning.",
+    "cites": [
+     "tea:katha-upanisad:1.2.8",
+     "tea:katha-upanisad:1.2.9"
+    ]
+   }
+  ],
+  "safety_tier": "needs-teacher",
+  "tier_reason": "Meditation on the praṇava and on the fourth (turīya) is received from a teacher in the Upaniṣadic tradition; the product does not give mantra practice by itself. Stricter tier when unsure.",
+  "cites": [
+   "tea:mandukya-upanisad:8",
+   "tea:mandukya-upanisad:9",
+   "tea:mandukya-upanisad:10",
+   "tea:mandukya-upanisad:11",
+   "tea:mandukya-upanisad:12",
+   "tea:mandukya-karika:1.24",
+   "tea:mandukya-karika:1.25"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:manonigraha-gk-3-40-46",
+  "name": "Gauḍapāda's restraint of the mind (manonigraha, GK 3.40–46)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [
+   "prc:asparsa-yoga"
+  ],
+  "tradition": "lin:advaita-vedanta",
+  "summary": "GK 3.40: the fearlessness of all yogins, the end of sorrow, awakening and imperishable peace depend on restraining the mind. 3.41: that restraint is to be achieved without weariness, like emptying the ocean drop by drop with the tip of a kuśa blade. 3.42–44: by the right means restrain the mind scattered among desires and enjoyments, and also the mind quite at ease in dullness (laya); rouse the mind when it sinks, calm it when scattered, recognise it when it holds latent passion (kaṣāya), and do not disturb it when it has reached the even state. 3.45: do not relish the happiness there; be unattached by discernment. 3.46: when the mind neither sinks nor is scattered, unmoving and without appearance, it is brahman.",
+  "steps": [],
+  "targets": [
+   "dx:gk-laya",
+   "dx:gk-viksepa",
+   "dx:gk-kasaya",
+   "dx:gk-rasasvada",
+   "dx:gk-asparsa-fear",
+   "dx:gk-amanibhava"
+  ],
+  "stage": "advanced",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "The contactless yoga is hard to see for all yogins; yogins fear it, seeing fear in the fearless.",
+    "cites": [
+     "tea:mandukya-karika:3.39"
+    ]
+   },
+   {
+    "text": "The restraint is to be achieved without weariness (aparikhedataḥ).",
+    "cites": [
+     "tea:mandukya-karika:3.41"
+    ]
+   },
+   {
+    "text": "Do not relish the happiness that arises there.",
+    "cites": [
+     "tea:mandukya-karika:3.45"
+    ]
+   }
+  ],
+  "safety_tier": "needs-teacher",
+  "tier_reason": "Gauḍapāda gives this discipline for the 'contactless yoga' (asparśa-yoga), which he says is hard to see for all yogins and which yogins fear (3.39); its later steps are advanced. Stricter tier.",
+  "cites": [
+   "tea:mandukya-karika:3.40",
+   "tea:mandukya-karika:3.41",
+   "tea:mandukya-karika:3.42",
+   "tea:mandukya-karika:3.43",
+   "tea:mandukya-karika:3.44",
+   "tea:mandukya-karika:3.45",
+   "tea:mandukya-karika:3.46"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:recollecting-suffering-and-the-unborn-gk-3-43",
+  "name": "Recollecting that all is suffering and all is unborn (GK 3.43)",
+  "lens": "vedic-yogic",
+  "ontology_refs": [
+   "prc:asparsa-yoga"
+  ],
+  "tradition": "lin:advaita-vedanta",
+  "summary": "GK 3.43: recollecting that all is suffering (duḥkham sarvam), one should turn the mind back from desires and enjoyments; recollecting that all is unborn (ajam sarvam), one no longer sees anything born. It is Gauḍapāda's means (upāya, 3.42) for the mind scattered among desires and enjoyments, within his restraint of the mind (3.40–46).",
+  "steps": [],
+  "targets": [
+   "dx:gk-viksepa"
+  ],
+  "stage": "intermediate",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "Within this discipline the restraint is to be achieved without weariness, like emptying the ocean drop by drop.",
+    "cites": [
+     "tea:mandukya-karika:3.41"
+    ]
+   },
+   {
+    "text": "When the mind has reached the even state it is not to be disturbed.",
+    "cites": [
+     "tea:mandukya-karika:3.44"
+    ]
+   }
+  ],
+  "safety_tier": "needs-teacher",
+  "tier_reason": "The verse is part of Gauḍapāda's contactless yoga (3.39–46), and its second recollection rests on the Kārikā's teaching that nothing is born, which is taught rather than self-guided. Stricter tier when unsure.",
+  "cites": [
+   "tea:mandukya-karika:3.43",
+   "tea:mandukya-karika:3.42"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:sati-sampajanna-mn10-8",
+  "name": "Acting with situational awareness (sampajañña, MN 10:8)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [
+   "prc:sampajanna",
+   "prc:iriyapatha",
+   "prc:kayanupassana"
+  ],
+  "tradition": "lin:early-buddhism",
+  "summary": "MN 10:8: a mendicant acts with situational awareness when going out and coming back; when looking ahead and aside; when bending and extending the limbs; when bearing robe and bowl; when eating, drinking, chewing and tasting; when urinating and defecating; when walking, standing, sitting, sleeping, waking, speaking and keeping silent. MN 10:6: when walking they know 'I am walking', and so for standing, sitting and lying down. The refrain (MN 10:5): mindfulness is established to the extent needed for knowledge and mindfulness; they meditate independent, not grasping at anything in the world.",
+  "steps": [
+   "Choose one ordinary activity for this session, such as walking, eating or drinking (MN 10:8 lists these).",
+   "While doing it, know what you are doing: going and coming back, looking ahead and aside, bending and stretching the limbs (MN 10:8).",
+   "When the posture changes, walking, standing, sitting or lying down, know it: 'I am walking', 'I am sitting' (MN 10:6).",
+   "Keep mindfulness only to the extent needed for knowledge and mindfulness, not grasping at anything (MN 10:5).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:mutthassati"
+  ],
+  "stage": "beginner",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text applies it to all activities and gives no length"
+  },
+  "warnings": [
+   {
+    "text": "The sutta's condition for every contemplation: one meditates 'keen, aware and mindful, rid of covetousness and displeasure for the world'.",
+    "cites": [
+     "tea:satipatthana-sutta:mn10:3"
+    ]
+   },
+   {
+    "text": "Nearest general caution in the same discourse family: 'There is no development of mindfulness of breathing for someone who is unmindful and lacks awareness' (said of breathing mindfulness).",
+    "cites": [
+     "tea:anapanasati-sutta:mn118:26"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Awareness of ordinary movement and posture; no breath control, fasting or austerity.",
+  "cites": [
+   "tea:satipatthana-sutta:mn10:8",
+   "tea:satipatthana-sutta:mn10:6",
+   "tea:satipatthana-sutta:mn10:5",
+   "tea:satipatthana-sutta:mn10:9"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:satipatthana-citta-contemplation-mn10-34",
+  "name": "Observing the mind (cittānupassanā, MN 10:34)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [
+   "prc:cittanupassana"
+  ],
+  "tradition": "lin:early-buddhism",
+  "summary": "MN 10:34 (and DN 22:12): a mendicant understands mind with greed as 'mind with greed' and mind without greed as 'mind without greed'; likewise mind with and without hate, with and without delusion; constricted and scattered mind; expansive and unexpansive; not supreme and supreme; immersed and not immersed in samādhi; freed and unfreed. The refrain (MN 10:35): they observe the mind's liability to originate and to vanish; mindfulness is established that the mind exists, to the extent needed for knowledge and mindfulness; they meditate independent, not grasping at anything in the world.",
+  "steps": [
+   "Sit comfortably.",
+   "Know the mind as it is: a mind with greed as 'mind with greed', a mind without greed as 'mind without greed' (MN 10:34).",
+   "In the same way know a mind with or without hate, and with or without delusion (MN 10:34).",
+   "Know a constricted mind as 'constricted' and a scattered mind as 'scattered' (MN 10:34).",
+   "Only know it: watch it arise and vanish, independent, not grasping at anything (MN 10:35).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:root-lobha",
+   "dx:root-dosa",
+   "dx:root-moha",
+   "dx:citta-sankhitta",
+   "dx:citta-vikkhitta"
+  ],
+  "stage": "beginner",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "The sutta's condition for every contemplation: one meditates 'keen, aware and mindful, rid of covetousness and displeasure for the world'.",
+    "cites": [
+     "tea:satipatthana-sutta:mn10:3"
+    ]
+   },
+   {
+    "text": "Nearest general caution in the same discourse family: 'There is no development of mindfulness of breathing for someone who is unmindful and lacks awareness' (said of breathing mindfulness).",
+    "cites": [
+     "tea:anapanasati-sutta:mn118:26"
+    ]
+   },
+   {
+    "text": "The steps stop at the first four pairs; the later pairs (expansive, supreme, immersed in samādhi, freed) name meditative attainments.",
+    "cites": [
+     "tea:satipatthana-sutta:mn10:34"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Knowing one's state of mind as it is, sitting quietly; no breath control, fasting or austerity.",
+  "cites": [
+   "tea:satipatthana-sutta:mn10:34",
+   "tea:satipatthana-sutta:mn10:35",
+   "tea:mahasatipatthana-sutta:dn22:12"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:satipatthana-nivarana-contemplation-mn10-36",
+  "name": "Observing the five hindrances (MN 10:36)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [
+   "prc:dhammanupassana"
+  ],
+  "tradition": "lin:early-buddhism",
+  "summary": "MN 10:36 (and DN 22:13): when sensual desire is in them, a mendicant understands 'I have sensual desire in me'; when it is not, they understand 'I don't have sensual desire in me'. They understand how it arises, how, when it has arisen, it is given up, and how, once given up, it does not arise again in the future. So too for ill will, dullness and drowsiness, restlessness and remorse, and doubt.",
+  "steps": [
+   "Sit comfortably.",
+   "When sensual desire is present, understand 'I have sensual desire in me'; when it is absent, understand 'I don't have sensual desire in me' (MN 10:36).",
+   "Understand how it arises, how once arisen it is given up, and how once given up it does not arise again (MN 10:36).",
+   "Go through ill will, dullness and drowsiness, restlessness and remorse, and doubt in the same way (MN 10:36; DN 22:13).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:nivarana-kamacchanda",
+   "dx:nivarana-byapada",
+   "dx:nivarana-thina-middha",
+   "dx:nivarana-uddhacca-kukkucca",
+   "dx:nivarana-vicikiccha"
+  ],
+  "stage": "beginner",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "The sutta's condition for every contemplation: one meditates 'keen, aware and mindful, rid of covetousness and displeasure for the world'.",
+    "cites": [
+     "tea:satipatthana-sutta:mn10:3"
+    ]
+   },
+   {
+    "text": "Nearest general caution in the same discourse family: 'There is no development of mindfulness of breathing for someone who is unmindful and lacks awareness' (said of breathing mindfulness).",
+    "cites": [
+     "tea:anapanasati-sutta:mn118:26"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Noticing what is present in the mind and how it comes and goes; no breath control, fasting or austerity.",
+  "cites": [
+   "tea:satipatthana-sutta:mn10:36",
+   "tea:satipatthana-sutta:mn10:37",
+   "tea:mahasatipatthana-sutta:dn22:13"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:satipatthana-ayatana-contemplation-mn10-40",
+  "name": "Observing the sense fields and their fetter (MN 10:40)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [
+   "prc:dhammanupassana"
+  ],
+  "tradition": "lin:early-buddhism",
+  "summary": "MN 10:40: a mendicant understands the eye, sights, and the fetter that arises dependent on both; they understand how the fetter not yet arisen comes to arise, how the arisen fetter comes to be given up, and how the given-up fetter does not arise again in the future. So too for the ear and sounds, the nose and smells, the tongue and tastes, the body and touches, the mind and ideas.",
+  "steps": [
+   "Sit comfortably.",
+   "Understand the eye, sights, and the fetter that arises dependent on both (MN 10:40).",
+   "Understand how a fetter not yet arisen comes to arise, how an arisen one is given up, and how once given up it does not arise again (MN 10:40).",
+   "Go through the ear and sounds, nose and smells, tongue and tastes, body and touches, mind and ideas in the same way (MN 10:40).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:fetter-silabbata-paramasa",
+   "dx:fetter-kamaraga",
+   "dx:fetter-patigha",
+   "dx:fetter-ruparaga",
+   "dx:fetter-aruparaga",
+   "dx:fetter-mana",
+   "dx:fetter-uddhacca",
+   "dx:fetter-avijja"
+  ],
+  "stage": "beginner",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "The sutta's condition for every contemplation: one meditates 'keen, aware and mindful, rid of covetousness and displeasure for the world'.",
+    "cites": [
+     "tea:satipatthana-sutta:mn10:3"
+    ]
+   },
+   {
+    "text": "Nearest general caution in the same discourse family: 'There is no development of mindfulness of breathing for someone who is unmindful and lacks awareness' (said of breathing mindfulness).",
+    "cites": [
+     "tea:anapanasati-sutta:mn118:26"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Attention to the senses and to what arises with them, sitting quietly; no breath control, fasting or austerity.",
+  "cites": [
+   "tea:satipatthana-sutta:mn10:40",
+   "tea:satipatthana-sutta:mn10:41"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:khandha-contemplation-mn10-38",
+  "name": "Observing the five grasping aggregates (MN 10:38)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [
+   "prc:khandha-anupassana"
+  ],
+  "tradition": "lin:early-buddhism",
+  "summary": "MN 10:38: a mendicant contemplates: 'Such is form, such is the origin of form, such is the disappearance of form. Such is feeling … perception … choices … consciousness, such is its origin, such is its disappearance.'",
+  "steps": [],
+  "targets": [
+   "dx:fetter-sakkaya-ditthi"
+  ],
+  "stage": "intermediate",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "The sutta's condition for every contemplation: one meditates 'keen, aware and mindful, rid of covetousness and displeasure for the world'.",
+    "cites": [
+     "tea:satipatthana-sutta:mn10:3"
+    ]
+   }
+  ],
+  "safety_tier": "needs-teacher",
+  "tier_reason": "An insight contemplation (vipassanā) of the five aggregates, their origin and disappearance; the product leaves analytic insight work to a teacher. Stricter tier when unsure.",
+  "cites": [
+   "tea:satipatthana-sutta:mn10:38",
+   "tea:satipatthana-sutta:mn10:39"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:four-truths-contemplation-mn10-44",
+  "name": "Observing the four noble truths (MN 10:44; DN 22:17–21)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [
+   "prc:dhammanupassana"
+  ],
+  "tradition": "lin:early-buddhism",
+  "summary": "MN 10:44: a mendicant truly understands 'This is suffering' … 'This is the origin of suffering' … 'This is the cessation of suffering' … 'This is the practice that leads to the cessation of suffering.' DN 22 expands each: rebirth, old age and death, sorrow and pain, union with the disliked and separation from the liked are suffering (22:18); its origin is the craving that leads to future lives, craving for sensual pleasures, for continued existence and for non-existence (22:19).",
+  "steps": [],
+  "targets": [
+   "dx:tanha"
+  ],
+  "stage": "advanced",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "The sutta's condition for every contemplation: one meditates 'keen, aware and mindful, rid of covetousness and displeasure for the world'.",
+    "cites": [
+     "tea:satipatthana-sutta:mn10:3"
+    ]
+   }
+  ],
+  "safety_tier": "needs-teacher",
+  "tier_reason": "True understanding of the four truths is the culmination of the path, and DN 22's exposition dwells on old age and death; summary only. Stricter tier.",
+  "cites": [
+   "tea:satipatthana-sutta:mn10:44",
+   "tea:mahasatipatthana-sutta:dn22:18",
+   "tea:mahasatipatthana-sutta:dn22:19"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:anapanasati-first-tetrad",
+  "name": "Mindfulness of breathing, first tetrad (MN 118:17–18)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [
+   "prc:anapanasati",
+   "prc:anapanasati-step-01",
+   "prc:anapanasati-step-02",
+   "prc:anapanasati-step-03",
+   "prc:anapanasati-step-04"
+  ],
+  "tradition": "lin:early-buddhism",
+  "summary": "MN 118:17–18: gone to a wilderness, the root of a tree or an empty hut, a mendicant sits down cross-legged, sets the body straight and brings mindfulness to the present. Just mindful, they breathe in; mindful, they breathe out. Breathing in heavily (long) they know it; breathing in lightly (short) they know it; likewise breathing out. They train: 'I'll breathe in and out experiencing the whole body'; 'I'll breathe in and out stilling the bodily process.' Developed and cultivated, mindfulness of breathing fulfils the four kinds of mindfulness meditation (118:15).",
+  "steps": [
+   "Sit comfortably with the body straight, and bring mindfulness to the present (MN 118:17; the text has cross-legged).",
+   "Just mindful, breathe in; mindful, breathe out. Let the breath be as it is; the sutta only asks that you know it (MN 118:17).",
+   "Breathing in long, know 'I breathe in long'; breathing in short, know 'I breathe in short'; likewise breathing out (MN 118:18).",
+   "Train: 'I'll breathe in and out experiencing the whole body' (MN 118:18).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:carita-moha",
+   "dx:carita-vitakka"
+  ],
+  "stage": "beginner",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "Nearest general caution in the same discourse family: 'There is no development of mindfulness of breathing for someone who is unmindful and lacks awareness' (said of breathing mindfulness).",
+    "cites": [
+     "tea:anapanasati-sutta:mn118:26"
+    ]
+   },
+   {
+    "text": "The sutta asks only that one know the breath as it is, long or short; it does not ask one to hold, count or force it. The fourth step, 'stilling the bodily process', is left out of these steps so that it is never taken as holding the breath.",
+    "cites": [
+     "tea:anapanasati-sutta:mn118:18"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Knowing the natural breath, as the sutta's first steps ask; no counting, retention or forcing. The Visuddhimagga calls this subject weighty and asks for strong mindfulness (Vism VIII, PTS p.284), so the steps stop before the fourth step.",
+  "cites": [
+   "tea:anapanasati-sutta:mn118:15",
+   "tea:anapanasati-sutta:mn118:17",
+   "tea:anapanasati-sutta:mn118:18"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:aloka-sanna-dn2-68",
+  "name": "Perceiving light against dullness and drowsiness (DN 2:68)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [
+   "prc:aloka-sanna"
+  ],
+  "tradition": "lin:early-buddhism",
+  "summary": "DN 2:68: giving up dullness and drowsiness, one meditates with a mind rid of dullness and drowsiness, perceiving light (āloka-saññī), mindful and aware, cleansing the mind of dullness and drowsiness. It stands in the sutta's account of giving up the five hindrances, after ethics, sense restraint, mindfulness and contentment, with the practitioner seated, body straight, mindfulness brought to the present (DN 2:67).",
+  "steps": [
+   "Sit with the body straight and bring mindfulness to the present (DN 2:67).",
+   "Give attention to the perception of light (āloka-saññā) (DN 2:68).",
+   "Stay mindful and aware (sato sampajāno) (DN 2:68).",
+   "Let the mind be cleansed of dullness and drowsiness in this way (DN 2:68).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:nivarana-thina-middha"
+  ],
+  "stage": "beginner",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "The sutta sets this cleansing after ethics, sense restraint, mindfulness and situational awareness, and contentment.",
+    "cites": [
+     "tea:samannaphala-sutta:67-74"
+    ]
+   },
+   {
+    "text": "Nearest general caution in the same discourse family: 'There is no development of mindfulness of breathing for someone who is unmindful and lacks awareness' (said of breathing mindfulness).",
+    "cites": [
+     "tea:anapanasati-sutta:mn118:26"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Attention to the perception of light while mindful; no breath control, fasting or austerity.",
+  "cites": [
+   "tea:samannaphala-sutta:67-74"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:metta-bhavana-vism-9",
+  "name": "Developing loving-kindness (mettā-bhāvanā, Vism IX)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [
+   "prc:metta-bhavana"
+  ],
+  "tradition": "lin:theravada",
+  "summary": "Dhp 5: hatred is never laid to rest by hate; it is laid to rest by non-hatred; this is an ancient teaching. Vism IX: the beginner, in a secluded place, seated comfortably, first reviews the danger in hate and the advantage in patience (p.295); begins with himself as the example, 'May I be happy and free from suffering', since as he wants happiness and shrinks from pain so do other beings (p.296–297); then extends it to a respected, dear person, then to a very dear friend, a neutral person and a hostile person, making the mind soft and workable toward each before going on (p.297). Mettā's mark is promoting welfare; it succeeds when ill will subsides (p.318).",
+  "steps": [
+   "Sit comfortably in a quiet place (Vism IX p.295).",
+   "First consider the danger in hate and the advantage in patience (p.295).",
+   "Begin with yourself as the example: 'May I be happy and free from suffering'; as you want happiness and shrink from pain, so do others (p.296–297).",
+   "Extend the same wish to a person you respect and hold dear: 'May this good person be happy and free from suffering' (p.297).",
+   "Then, one by one, to a very dear friend, a neutral person and a hostile person, letting the mind grow soft toward each before moving on (p.297).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:nivarana-byapada",
+   "dx:root-dosa"
+  ],
+  "stage": "beginner",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "Do not begin with a disliked person, a very dear friend, a neutral person or an enemy; do not develop it specifically toward the opposite sex, nor toward the dead.",
+    "cites": [
+     "tea:visuddhimagga:9.p296"
+    ]
+   },
+   {
+    "text": "If resentment arises when the hostile person is brought to mind, go back to the earlier persons, enter mettā again and again, and return to that person repeatedly.",
+    "cites": [
+     "tea:visuddhimagga:9.p298"
+    ]
+   },
+   {
+    "text": "Mettā fails when selfish affection (sineha) arises; greed is its near enemy and ill will its far enemy.",
+    "cites": [
+     "tea:visuddhimagga:9.p318",
+     "tea:visuddhimagga:9.p319"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Kindness developed in reflection, sitting quietly; no breath control, fasting or austerity.",
+  "cites": [
+   "tea:dhammapada:5",
+   "tea:visuddhimagga:9.p295",
+   "tea:visuddhimagga:9.p296",
+   "tea:visuddhimagga:9.p297",
+   "tea:visuddhimagga:9.p318"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:brahmavihara-bhavana-vism-9",
+  "name": "Developing the divine abidings (brahmavihāra, Vism IX)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [
+   "prc:brahmavihara-bhavana",
+   "prc:metta-bhavana",
+   "prc:karuna-bhavana",
+   "prc:mudita-bhavana",
+   "prc:upekkha-bhavana"
+  ],
+  "tradition": "lin:theravada",
+  "summary": "Vism IX sets out loving-kindness (mettā), compassion (karuṇā), gladness (muditā) and equanimity (upekkhā). Mettā begins with oneself as the example and goes on to a dear, a very dear, a neutral and a hostile person (p.296–297). Compassion begins with someone seen in misfortune (p.314); gladness with a very dear companion, or a dear person seen or heard to be happy (p.316). Each has a mark, a near enemy and a far enemy (p.318–319). Vism III gives the four divine abidings as suited to the hate temperament (p.114).",
+  "steps": [
+   "Sit comfortably in a quiet place (Vism IX p.295).",
+   "Mettā: begin with yourself as the example, then a respected person, a dear friend, a neutral person and a hostile person: 'May they be happy and free from suffering' (p.296–297).",
+   "Compassion (karuṇā): bring to mind someone in misfortune and hardship, and let compassion arise toward them (p.314).",
+   "Gladness (muditā): bring to mind a dear person seen or heard to be happy, and rejoice: 'How glad this being is!' (p.316).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:carita-dosa",
+   "dx:vism-brahmavihara-enemies"
+  ],
+  "stage": "beginner",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "Equanimity (upekkhā) and the formless states are not to be taken up by a beginner.",
+    "cites": [
+     "tea:visuddhimagga:3.p114"
+    ]
+   },
+   {
+    "text": "For compassion and gladness, as for mettā, a person of the opposite sex and the dead are 'not the field' (akhetta).",
+    "cites": [
+     "tea:visuddhimagga:9.p314",
+     "tea:visuddhimagga:9.p316"
+    ]
+   },
+   {
+    "text": "The Vism's first object for compassion is a destitute person in great hardship, described in bodily detail; the steps keep only 'someone in misfortune'.",
+    "cites": [
+     "tea:visuddhimagga:9.p314"
+    ]
+   },
+   {
+    "text": "Each abiding has its failure: selfish affection for mettā, sorrow for compassion, merriment for gladness; the near enemies are greed, worldly grief and worldly joy.",
+    "cites": [
+     "tea:visuddhimagga:9.p318",
+     "tea:visuddhimagga:9.p319"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Kindness, compassion and gladness developed in reflection; equanimity is left out because Vism III says it is not for the beginner.",
+  "cites": [
+   "tea:visuddhimagga:9.p296",
+   "tea:visuddhimagga:9.p297",
+   "tea:visuddhimagga:9.p314",
+   "tea:visuddhimagga:9.p316",
+   "tea:visuddhimagga:9.p318",
+   "tea:visuddhimagga:9.p319",
+   "tea:visuddhimagga:3.p114"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:six-recollections-vism-7",
+  "name": "The six recollections (Vism VII)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [
+   "prc:buddhanussati",
+   "prc:dhammanussati",
+   "prc:sanghanussati",
+   "prc:silanussati",
+   "prc:caganussati",
+   "prc:devatanussati"
+  ],
+  "tradition": "lin:theravada",
+  "summary": "Vism VII describes six recollections: of the Buddha, the Dhamma, the Saṅgha, one's own virtue, one's own generosity, and the deities, with the deities as witnesses to one's own faith and other qualities (p.197). For the Buddha: one with firm confidence, gone into a suitable secluded place, recollects his qualities: 'That Blessed One is accomplished, fully enlightened, endowed with clear vision and virtuous conduct, sublime, knower of worlds, incomparable leader of persons to be tamed, teacher of gods and humans, enlightened and blessed', going through them one by one with the reason for each (p.198).",
+  "steps": [
+   "Sit comfortably in a quiet, secluded place (Vism VII p.198).",
+   "Recall the Buddha's qualities with the traditional words: 'That Blessed One is accomplished, fully enlightened, endowed with clear vision and virtuous conduct, sublime, knower of worlds, incomparable leader of persons to be tamed, teacher of gods and humans, enlightened and blessed' (p.198).",
+   "Go through the qualities one by one, recalling the reason for each: 'for this reason and this he is accomplished …' (p.198).",
+   "The text has the Dhamma, the Saṅgha and one's own virtue recollected in the same way (p.197).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:carita-saddha"
+  ],
+  "stage": "beginner",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "These recollections succeed fully only in noble disciples; an ordinary person whose virtue is pure may also attend to them.",
+    "cites": [
+     "tea:visuddhimagga:7.p227"
+    ]
+   },
+   {
+    "text": "The Vism's recollection of generosity begins with an undertaking not to eat without giving; that undertaking is not part of these steps.",
+    "cites": [
+     "tea:visuddhimagga:7.p223"
+    ]
+   },
+   {
+    "text": "In the Visuddhimagga's frame the meditator receives the subject from a good friend (kalyāṇamitta) who gives meditation subjects, after dedicating himself to the Buddha or to the teacher.",
+    "cites": [
+     "tea:visuddhimagga:3.p115"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Recollection of qualities in quiet reflection; the diet-like undertaking in the Vism's account of recollecting generosity is not included.",
+  "cites": [
+   "tea:visuddhimagga:7.p197",
+   "tea:visuddhimagga:7.p198",
+   "tea:visuddhimagga:7.p227"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:upasamanussati-vism-8",
+  "name": "Recollection of peace (upasamānussati, Vism VIII)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [
+   "prc:upasamanussati"
+  ],
+  "tradition": "lin:theravada",
+  "summary": "Vism VIII p.293: one who wishes to develop it, gone into solitude, recollects the qualities of nibbāna, the stilling of all suffering, in the words of the sutta: 'Among all things, conditioned or unconditioned, dispassion is declared the best: the disillusionment of vanity, the elimination of thirst, the uprooting of reliance, the termination of the round, the destruction of craving, fading away, cessation, nibbāna.' Because these qualities are profound, it reaches access concentration, not absorption (p.294).",
+  "steps": [
+   "Sit comfortably in a quiet, secluded place (Vism VIII p.293).",
+   "Recall the sutta's words: 'Among all things, conditioned or unconditioned, dispassion is declared the best' (p.293).",
+   "Dwell on its qualities one by one: the disillusionment of vanity, the elimination of thirst, the uprooting of reliance, the termination of the round, the destruction of craving, fading away, cessation (p.293).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:carita-buddhi"
+  ],
+  "stage": "beginner",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "Like the six recollections, it succeeds fully only in the noble disciple; an ordinary person who values peace may also attend to it, since even hearing of peace brings the mind confidence.",
+    "cites": [
+     "tea:visuddhimagga:8.p294"
+    ]
+   },
+   {
+    "text": "In the Visuddhimagga's frame the meditator receives the subject from a good friend (kalyāṇamitta) who gives meditation subjects, after dedicating himself to the Buddha or to the teacher.",
+    "cites": [
+     "tea:visuddhimagga:3.p115"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Recollection of the qualities of peace in quiet reflection; no breath control, fasting or austerity.",
+  "cites": [
+   "tea:visuddhimagga:8.p293",
+   "tea:visuddhimagga:8.p294"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:maranasati-vism-8",
+  "name": "Mindfulness of death (maraṇasati, Vism VIII)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [
+   "prc:maranassati"
+  ],
+  "tradition": "lin:theravada",
+  "summary": "Vism VIII p.229–230: mindfulness of death is the recollection of death, the cutting off of the life faculty. One who wishes to develop it, in solitude, exercises wise attention: 'Death will take place, the life faculty will be cut off', or 'Death, death'. Vism III gives it among the subjects suited to the intelligent temperament (p.114).",
+  "steps": [],
+  "targets": [
+   "dx:carita-buddhi"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "Vism VIII: with unwise attention, recollecting the death of a loved one brings sorrow, as in a mother recalling the death of her dear child; recollecting one's own death brings fear (santāsa).",
+    "cites": [
+     "tea:visuddhimagga:8.p230"
+    ]
+   }
+  ],
+  "safety_tier": "never-recommend",
+  "tier_reason": "A contemplation of death; the product never recommends death contemplation.",
+  "cites": [
+   "tea:visuddhimagga:8.p229",
+   "tea:visuddhimagga:8.p230",
+   "tea:visuddhimagga:3.p114"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:asubha-bhavana-vism-6",
+  "name": "Contemplation of foulness (asubha, Vism VI)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [
+   "prc:asubha-bhavana"
+  ],
+  "tradition": "lin:theravada",
+  "summary": "Vism VI p.178: the ten kinds of foulness are the bloated, the livid, the festering, the cut up, the gnawed, the scattered, the hacked and scattered, the bleeding, the worm-infested corpse, and the skeleton. Vism III gives the ten foulnesses and mindfulness of the body as suited to the greed temperament (p.114).",
+  "steps": [],
+  "targets": [
+   "dx:carita-raga"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "Vism VI: a foulness object may be haunted by wild beasts or non-human beings, with danger to life; a body of the opposite sex may appear beautiful and endanger the holy life.",
+    "cites": [
+     "tea:visuddhimagga:6.p180"
+    ]
+   }
+  ],
+  "safety_tier": "never-recommend",
+  "tier_reason": "Contemplation of corpses and decay; the product never recommends it.",
+  "cites": [
+   "tea:visuddhimagga:6.p178",
+   "tea:visuddhimagga:3.p114"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:kayagatasati-32-parts-vism-8",
+  "name": "Mindfulness of the body: the thirty-two parts (Vism VIII)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [
+   "prc:kayagatasati",
+   "prc:patikulamanasikara"
+  ],
+  "tradition": "lin:theravada",
+  "summary": "Vism VIII p.240–243: mindfulness occupied with the body, taught as attention to repulsiveness (paṭikūla-manasikāra) of the parts 'head hairs, body hairs … urine'; the beginner approaches a good friend and learns it, and the teacher explains a sevenfold skill in learning (verbally, mentally, by colour, shape, direction, location and delimitation) and a tenfold skill in attention. Vism III gives it as suited to the greed temperament (p.114).",
+  "steps": [],
+  "targets": [
+   "dx:carita-raga"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "The beginner should approach a good friend and learn this subject from him, with the sevenfold skill in learning and the tenfold skill in attention.",
+    "cites": [
+     "tea:visuddhimagga:8.p241"
+    ]
+   }
+  ],
+  "safety_tier": "never-recommend",
+  "tier_reason": "A repulsiveness contemplation of the body (paṭikūla), in the same family as foulness and food-repulsiveness, which the product never recommends; the Vism itself has it learned from a teacher.",
+  "cites": [
+   "tea:visuddhimagga:8.p240",
+   "tea:visuddhimagga:8.p241",
+   "tea:visuddhimagga:8.p243",
+   "tea:visuddhimagga:3.p114"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:ahare-patikulasanna-vism-11",
+  "name": "Perception of repulsiveness in nutriment (Vism XI)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [
+   "prc:ahare-patikulasanna"
+  ],
+  "tradition": "lin:theravada",
+  "summary": "Vism XI p.341–342: the perception arising as the apprehending of the repulsive aspect in physical food; one reviews its repulsiveness in ten aspects: as to going, seeking, using, secretion, receptacle, what is uncooked, what is cooked, fruit, outflow and smearing. Vism III gives it among subjects suited to the intelligent temperament (p.114).",
+  "steps": [],
+  "targets": [
+   "dx:carita-buddhi"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "Vism XI says the perception of repulsiveness is what stands out in this subject (p.347); it is a subject taken from a teacher in the Vism's frame.",
+    "cites": [
+     "tea:visuddhimagga:11.p347",
+     "tea:visuddhimagga:3.p115"
+    ]
+   }
+  ],
+  "safety_tier": "never-recommend",
+  "tier_reason": "A food-repulsiveness contemplation; the product never recommends any practice that works on attitudes to food.",
+  "cites": [
+   "tea:visuddhimagga:11.p341",
+   "tea:visuddhimagga:11.p342",
+   "tea:visuddhimagga:3.p114"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:catudhatuvavatthana-vism-11",
+  "name": "Defining the four elements (catudhātuvavatthāna, Vism XI)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [
+   "prc:catudhatuvavatthana",
+   "prc:dhatumanasikara"
+  ],
+  "tradition": "lin:theravada",
+  "summary": "Vism XI p.347–348: defining the four elements; in brief, as given in the Mahāsatipaṭṭhāna for one of quick understanding, the meditator reviews this very body, however placed, by elements: 'In this body there are the earth element, the water element, the fire element and the air element.' Vism III gives it among subjects suited to the intelligent temperament (p.114).",
+  "steps": [],
+  "targets": [
+   "dx:carita-buddhi"
+  ],
+  "stage": "intermediate",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "In the Visuddhimagga's frame the meditator receives the subject from a good friend (kalyāṇamitta) who gives meditation subjects, after dedicating himself to the Buddha or to the teacher.",
+    "cites": [
+     "tea:visuddhimagga:3.p115"
+    ]
+   }
+  ],
+  "safety_tier": "needs-teacher",
+  "tier_reason": "An analytic contemplation of the body by elements, with detailed methods and similes in the Vism; analytic systems are left to a teacher.",
+  "cites": [
+   "tea:visuddhimagga:11.p347",
+   "tea:visuddhimagga:11.p348",
+   "tea:visuddhimagga:3.p114"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:colour-kasina-vism-5",
+  "name": "The colour kasiṇas (Vism V)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [
+   "prc:kasina-blue",
+   "prc:kasina-yellow",
+   "prc:kasina-red",
+   "prc:kasina-white"
+  ],
+  "tradition": "lin:theravada",
+  "summary": "Vism V p.172–173: one who learns the blue kasiṇa apprehends the sign in blue, whether in flowers, in cloth or in a colour element; the yellow, red and white kasiṇas are given in the same way (p.173–174). Vism III gives the four colour kasiṇas as suited to the hate temperament (p.114).",
+  "steps": [],
+  "targets": [
+   "dx:carita-dosa"
+  ],
+  "stage": "intermediate",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "In the Visuddhimagga's frame the meditator receives the subject from a good friend (kalyāṇamitta) who gives meditation subjects, after dedicating himself to the Buddha or to the teacher.",
+    "cites": [
+     "tea:visuddhimagga:3.p115"
+    ]
+   }
+  ],
+  "safety_tier": "needs-teacher",
+  "tier_reason": "Kasiṇa practice (a prepared disk or coloured object, the learning sign and counterpart sign) belongs with a teacher.",
+  "cites": [
+   "tea:visuddhimagga:5.p172",
+   "tea:visuddhimagga:5.p173",
+   "tea:visuddhimagga:5.p174",
+   "tea:visuddhimagga:3.p114"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:pathavi-kasina-vism-4",
+  "name": "The earth kasiṇa (Vism IV)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [
+   "prc:kasina-earth",
+   "prc:kasina"
+  ],
+  "tradition": "lin:theravada",
+  "summary": "Vism IV p.123–125: after the meal, in a secluded place, seated comfortably, the meditator apprehends the sign in earth, made or not made, bounded, the size of a winnowing basket or a saucer; he develops it with the eyes opened moderately, as one looks at one's face in a mirror, not reviewing the colour nor attending to the characteristic, but setting the mind on the name, 'earth, earth'.",
+  "steps": [],
+  "targets": [
+   "dx:nivarana-kamacchanda",
+   "dx:nivarana-byapada",
+   "dx:nivarana-thina-middha",
+   "dx:nivarana-uddhacca-kukkucca",
+   "dx:nivarana-vicikiccha"
+  ],
+  "stage": "intermediate",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "Vism IV: opening the eyes too wide tires them and the disk becomes too obvious; opening them too little makes the mind sluggish; either way the sign does not arise.",
+    "cites": [
+     "tea:visuddhimagga:4.p125"
+    ]
+   },
+   {
+    "text": "In the Visuddhimagga's frame the meditator receives the subject from a good friend (kalyāṇamitta) who gives meditation subjects, after dedicating himself to the Buddha or to the teacher.",
+    "cites": [
+     "tea:visuddhimagga:3.p115"
+    ]
+   }
+  ],
+  "safety_tier": "needs-teacher",
+  "tier_reason": "Kasiṇa practice with a prepared disk and the signs belongs with a teacher.",
+  "cites": [
+   "tea:visuddhimagga:4.p123",
+   "tea:visuddhimagga:4.p125"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:namarupa-pariccheda-vism-18",
+  "name": "Defining mentality-materiality (nāmarūpa-pariccheda, Vism XVIII)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [
+   "prc:namarupa-pariccheda"
+  ],
+  "tradition": "lin:theravada",
+  "summary": "Vism XVIII p.587: purification of view (diṭṭhi-visuddhi) is the correct seeing of mentality-materiality; it is undertaken after the two root purifications, purity of virtue and purity of mind. Vism XXII p.694: by defining mentality-materiality the identity view (sakkāya-diṭṭhi) is abandoned by substitution of opposites.",
+  "steps": [],
+  "targets": [
+   "dx:fetter-sakkaya-ditthi"
+  ],
+  "stage": "advanced",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "The insight purifications are undertaken after purity of virtue and purity of mind (the eight attainments with access).",
+    "cites": [
+     "tea:visuddhimagga:18.p587"
+    ]
+   }
+  ],
+  "safety_tier": "needs-teacher",
+  "tier_reason": "An analytic insight stage that the Vism places after purity of virtue and of mind; not self-guided.",
+  "cites": [
+   "tea:visuddhimagga:18.p587",
+   "tea:visuddhimagga:22.p694"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:paccaya-pariggaha-vism-19",
+  "name": "Discerning conditions (paccaya-pariggaha, Vism XIX)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [
+   "prc:paccaya-pariggaha"
+  ],
+  "tradition": "lin:theravada",
+  "summary": "Vism XIX p.598: the knowledge established by overcoming doubt about the three periods of time through discerning the conditions of that same mentality-materiality is purification by overcoming doubt (kaṅkhāvitaraṇa-visuddhi). Vism XXII p.694: by discerning conditions the views of no cause and of wrong cause, and the stain of doubt, are abandoned.",
+  "steps": [],
+  "targets": [
+   "dx:nivarana-vicikiccha",
+   "dx:fetter-vicikiccha"
+  ],
+  "stage": "advanced",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "It builds on purification of view (the defining of mentality-materiality), which itself follows purity of virtue and of mind.",
+    "cites": [
+     "tea:visuddhimagga:19.p598",
+     "tea:visuddhimagga:18.p587"
+    ]
+   }
+  ],
+  "safety_tier": "needs-teacher",
+  "tier_reason": "An analytic insight stage that follows the defining of mentality-materiality; not self-guided.",
+  "cites": [
+   "tea:visuddhimagga:19.p598",
+   "tea:visuddhimagga:22.p694"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:maggamagga-vavatthana-vism-20",
+  "name": "Defining the path and what is not the path (Vism XX)",
+  "lens": "ascetic-buddhist",
+  "ontology_refs": [],
+  "tradition": "lin:theravada",
+  "summary": "Vism XX p.633: ten corruptions of insight (illumination, knowledge, rapturous happiness, tranquillity, bliss, resolution, exertion, assurance, equanimity and attachment) arise in one who has begun insight. p.638: seeing each as 'this is not mine, this is not I, this is not my self', he is not shaken by them, and defines: illumination and the rest are not the path; insight knowledge that is free from corruptions and keeps to its course is the path.",
+  "steps": [],
+  "targets": [
+   "dx:vism-vipassanupakkilesa"
+  ],
+  "stage": "advanced",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "The danger named is taking what is not the path for the path (amagge maggasaññā).",
+    "cites": [
+     "tea:visuddhimagga:22.p694"
+    ]
+   }
+  ],
+  "safety_tier": "needs-teacher",
+  "tier_reason": "Belongs to an advanced insight stage and concerns experiences that arise only after insight has begun; not self-guided.",
+  "cites": [
+   "tea:visuddhimagga:20.p633",
+   "tea:visuddhimagga:20.p638",
+   "tea:visuddhimagga:22.p694"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:maitri-pramoda-karunya-madhyastha-ts-7-11",
+  "name": "Friendliness, delight, compassion and equanimity (TS 7.11)",
+  "lens": "ascetic-jain",
+  "ontology_refs": [
+   "prc:maitri-adi-bhavana"
+  ],
+  "tradition": "lin:jainism",
+  "summary": "TS 7.11: friendliness (maitrī), delight (pramoda), compassion (kāruṇya) and equanimity (mādhyastha) are to be cultivated toward, respectively, all living beings, those superior in virtue, the afflicted, and the undisciplined (avinaya). They stand in the sūtra's section on the vows and the contemplations that make them steady (7.1–12).",
+  "steps": [
+   "Sit comfortably.",
+   "Cultivate friendliness (maitrī) toward all living beings (TS 7.11).",
+   "Cultivate delight (pramoda) toward those who surpass you in virtue (TS 7.11).",
+   "Cultivate compassion (kāruṇya) toward those who are afflicted (TS 7.11).",
+   "Hold equanimity (mādhyastha) toward the undisciplined (TS 7.11).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:jain-raudra-dhyana"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "The sūtra pairs each attitude with its own object: equanimity, not argument or friendliness, toward the undisciplined.",
+    "cites": [
+     "tea:tattvartha-sutra:7.11"
+    ]
+   },
+   {
+    "text": "In the sūtra these attitudes serve the steadiness of the vows; the vows themselves are not taken through the product.",
+    "cites": [
+     "tea:tattvartha-sutra:7.3",
+     "tea:tattvartha-sutra:7.1"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Cultivating kindness and related attitudes in reflection; no vows, fasting or austerity.",
+  "cites": [
+   "tea:tattvartha-sutra:7.11",
+   "tea:tattvartha-sutra:7.3"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:anupreksa-ts-9-7",
+  "name": "The reflections (anuprekṣā, TS 9.7)",
+  "lens": "ascetic-jain",
+  "ontology_refs": [
+   "prc:anupreksa"
+  ],
+  "tradition": "lin:jainism",
+  "summary": "TS 9.7: the reflections are the repeated contemplation (anucintana) of impermanence, helplessness (no refuge), the cycle of births, aloneness, otherness (of self and body), impurity (of the body), inflow, stopping, shedding, the universe, the rarity of enlightenment, and the well-taught nature of dharma. TS 9.2: with the controls, carefulnesses, virtues, conquest of hardships and conduct, they bring about the stopping of karmic inflow (saṃvara).",
+  "steps": [
+   "Sit comfortably.",
+   "Reflect repeatedly on impermanence (anitya), as the sūtra names it (TS 9.7).",
+   "Reflect on aloneness (ekatva) and on otherness (anyatva): the self is other than the body (TS 9.7).",
+   "Reflect on the rarity of enlightenment (bodhi-durlabha) (TS 9.7).",
+   "Reflect on the well-taught nature of dharma (dharma-svākhyātatva) (TS 9.7).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:kasaya-krodha",
+   "dx:kasaya-mana",
+   "dx:kasaya-maya",
+   "dx:kasaya-lobha",
+   "dx:jain-arta-dhyana"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "Nearest general caution in the Tattvārtha (the sūtra gives none for this practice): reflection must not turn into sorrowful brooding (ārta-dhyāna), which the sūtra defines as dwelling on removing the disagreeable, keeping the agreeable, on pain, and hankering for future enjoyment (nidāna).",
+    "cites": [
+     "tea:tattvartha-sutra:9.30-33"
+    ]
+   },
+   {
+    "text": "The steps keep five of the sūtra's twelve reflections; the impurity of the body and helplessness are left out on purpose.",
+    "cites": [
+     "tea:tattvartha-sutra:9.7"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Repeated reflection; the steps keep five of the twelve and leave out the reflections on the body's impurity (a repulsiveness contemplation) and on helplessness, which the tradition reads as helplessness before death.",
+  "cites": [
+   "tea:tattvartha-sutra:9.7",
+   "tea:tattvartha-sutra:9.2"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:dharmya-dhyana-ts-9-36",
+  "name": "Virtuous meditation (dharmya-dhyāna, TS 9.36)",
+  "lens": "ascetic-jain",
+  "ontology_refs": [
+   "prc:dharma-dhyana"
+  ],
+  "tradition": "lin:jainism",
+  "summary": "TS 9.36: virtuous meditation is for the examination (vicaya) of the Jina's command (ājñā), of the harm of wrong ways (apāya), of the fruition of karma (vipāka) and of the structure of the universe (saṃsthāna). TS 9.28–29: meditation is sorrowful (ārta), cruel (raudra), virtuous (dharmya) and pure (śukla); the latter two are causes of liberation. TS 9.27: meditation is the stopping of the mind's wandering by fixing it on one object, for one with the best bodily frame, lasting up to one muhūrta.",
+  "steps": [],
+  "targets": [
+   "dx:jain-arta-dhyana",
+   "dx:jain-raudra-dhyana"
+  ],
+  "stage": "intermediate",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "text: TS 9.27 limits meditation (dhyāna) to within one muhūrta; the product sets no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "The sūtra ties meditation (dhyāna) to one with the best bodily frame and limits it to within one muhūrta.",
+    "cites": [
+     "tea:tattvartha-sutra:9.27"
+    ]
+   }
+  ],
+  "safety_tier": "needs-teacher",
+  "tier_reason": "A doctrinal meditation (the four examinations need the tradition's teaching on karma and the universe), and the sūtra ties dhyāna to the best bodily frame (9.27); left to a teacher.",
+  "cites": [
+   "tea:tattvartha-sutra:9.36",
+   "tea:tattvartha-sutra:9.28",
+   "tea:tattvartha-sutra:9.29",
+   "tea:tattvartha-sutra:9.27"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:tattvartha-sraddhana-ts-1-2",
+  "name": "Conviction in the realities (tattvārtha-śraddhāna, TS 1.2)",
+  "lens": "ascetic-jain",
+  "ontology_refs": [],
+  "tradition": "lin:jainism",
+  "summary": "TS 1.2: right view (samyag-darśana) is conviction (śraddhāna) in the realities (tattva) as they are in their meaning. TS 1.3: it arises either by nature (nisarga) or through instruction (adhigama). TS 1.4: the realities are soul (jīva), non-soul (ajīva), inflow (āsrava), bondage (bandha), stopping (saṃvara), shedding (nirjarā) and liberation (mokṣa).",
+  "steps": [
+   "Sit comfortably.",
+   "Recall the seven realities as the sūtra lists them: soul, non-soul, inflow, bondage, stopping, shedding and liberation (TS 1.4).",
+   "Consider each as it is in its meaning (tattvārtha) (TS 1.2).",
+   "Where a point is unclear, keep it as a question for study or for a teacher: right view arises by nature or through instruction (TS 1.3).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:jain-mithyadarsana"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "The sūtra says right view arises by nature or through instruction; study alone is not presented as enough.",
+    "cites": [
+     "tea:tattvartha-sutra:1.3"
+    ]
+   },
+   {
+    "text": "Nearest general caution in the Tattvārtha (the sūtra gives none for this practice): reflection must not turn into sorrowful brooding (ārta-dhyāna), which the sūtra defines as dwelling on removing the disagreeable, keeping the agreeable, on pain, and hankering for future enjoyment (nidāna).",
+    "cites": [
+     "tea:tattvartha-sutra:9.30-33"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Study of the sūtra's list of realities; no vows, fasting or austerity.",
+  "cites": [
+   "tea:tattvartha-sutra:1.2",
+   "tea:tattvartha-sutra:1.3",
+   "tea:tattvartha-sutra:1.4"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:uttama-ksama-ts-9-6",
+  "name": "Supreme forbearance (uttama-kṣamā, TS 9.6)",
+  "lens": "ascetic-jain",
+  "ontology_refs": [],
+  "tradition": "lin:jainism",
+  "summary": "TS 9.6: supreme forbearance (uttama-kṣamā), humility, straightforwardness, purity, truthfulness, restraint, austerity, renunciation, non-possession and celibacy are the dharma; TS 9.2 counts the dharma among the means that stop karmic inflow (saṃvara). The sūtra names the virtue but gives no method. The Daśavaikālika states the pairing with the passions: conquer anger by calm, pride by gentleness, deceit by straightforwardness, greed by contentment.",
+  "steps": [
+   "Sit comfortably.",
+   "Recall the virtue as the sūtra names it: supreme forbearance (uttama-kṣamā), the first of the ten forms of dharma (TS 9.6).",
+   "Recall that the sūtra counts these virtues among the means that stop the inflow of karma (TS 9.2).",
+   "When anger is present, meet it with calm: 'conquer anger by calm' (Daśavaikālika 8.36–38).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:kasaya-krodha"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "The sūtra gives only the name; the steps are recollection of the sūtra's words and the Daśavaikālika's pairing, not a method from the sūtra.",
+    "cites": [
+     "tea:tattvartha-sutra:9.6",
+     "tea:dasavaikalika-sutra:8.36-38"
+    ]
+   },
+   {
+    "text": "Nearest general caution in the Tattvārtha (the sūtra gives none for this practice): reflection must not turn into sorrowful brooding (ārta-dhyāna), which the sūtra defines as dwelling on removing the disagreeable, keeping the agreeable, on pain, and hankering for future enjoyment (nidāna).",
+    "cites": [
+     "tea:tattvartha-sutra:9.30-33"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Recollecting a virtue and meeting anger with calm; the steps leave out the other members of the ten (austerity, celibacy) that belong to other tiers.",
+  "cites": [
+   "tea:tattvartha-sutra:9.6",
+   "tea:tattvartha-sutra:9.2",
+   "tea:dasavaikalika-sutra:8.36-38"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:uttama-mardava-ts-9-6",
+  "name": "Supreme humility (uttama-mārdava, TS 9.6)",
+  "lens": "ascetic-jain",
+  "ontology_refs": [],
+  "tradition": "lin:jainism",
+  "summary": "TS 9.6 names humility (mārdava, 'softness') second among the ten forms of dharma, which TS 9.2 counts among the means that stop karmic inflow. The sūtra gives no method. The Daśavaikālika: pride destroys humility; conquer pride by gentleness.",
+  "steps": [
+   "Sit comfortably.",
+   "Recall the virtue as the sūtra names it: humility (mārdava), one of the ten forms of dharma (TS 9.6).",
+   "Recall that the sūtra counts these virtues among the means that stop the inflow of karma (TS 9.2).",
+   "When pride is present, meet it with gentleness: 'conquer pride by gentleness' (Daśavaikālika 8.36–38).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:kasaya-mana"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "The sūtra gives only the name; the steps are recollection of the sūtra's words and the Daśavaikālika's pairing, not a method from the sūtra.",
+    "cites": [
+     "tea:tattvartha-sutra:9.6",
+     "tea:dasavaikalika-sutra:8.36-38"
+    ]
+   },
+   {
+    "text": "Nearest general caution in the Tattvārtha (the sūtra gives none for this practice): reflection must not turn into sorrowful brooding (ārta-dhyāna), which the sūtra defines as dwelling on removing the disagreeable, keeping the agreeable, on pain, and hankering for future enjoyment (nidāna).",
+    "cites": [
+     "tea:tattvartha-sutra:9.30-33"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Recollecting a virtue and meeting pride with gentleness; nothing from the other tiers.",
+  "cites": [
+   "tea:tattvartha-sutra:9.6",
+   "tea:tattvartha-sutra:9.2",
+   "tea:dasavaikalika-sutra:8.36-38"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:uttama-arjava-ts-9-6",
+  "name": "Supreme straightforwardness (uttama-ārjava, TS 9.6)",
+  "lens": "ascetic-jain",
+  "ontology_refs": [],
+  "tradition": "lin:jainism",
+  "summary": "TS 9.6 names straightforwardness (ārjava) third among the ten forms of dharma, which TS 9.2 counts among the means that stop karmic inflow. The sūtra gives no method. The Daśavaikālika: deceit destroys friendship; conquer deceit by straightforwardness.",
+  "steps": [
+   "Sit comfortably.",
+   "Recall the virtue as the sūtra names it: straightforwardness (ārjava), one of the ten forms of dharma (TS 9.6).",
+   "Recall that the sūtra counts these virtues among the means that stop the inflow of karma (TS 9.2).",
+   "When the pull to deceive is present, meet it with straightforwardness: 'conquer deceit by straightforwardness' (Daśavaikālika 8.36–38).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:kasaya-maya"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "The sūtra gives only the name; the steps are recollection of the sūtra's words and the Daśavaikālika's pairing, not a method from the sūtra.",
+    "cites": [
+     "tea:tattvartha-sutra:9.6",
+     "tea:dasavaikalika-sutra:8.36-38"
+    ]
+   },
+   {
+    "text": "Nearest general caution in the Tattvārtha (the sūtra gives none for this practice): reflection must not turn into sorrowful brooding (ārta-dhyāna), which the sūtra defines as dwelling on removing the disagreeable, keeping the agreeable, on pain, and hankering for future enjoyment (nidāna).",
+    "cites": [
+     "tea:tattvartha-sutra:9.30-33"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Recollecting a virtue and meeting deceit with straightforwardness; nothing from the other tiers.",
+  "cites": [
+   "tea:tattvartha-sutra:9.6",
+   "tea:tattvartha-sutra:9.2",
+   "tea:dasavaikalika-sutra:8.36-38"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:uttama-sauca-ts-9-6",
+  "name": "Supreme purity (uttama-śauca, TS 9.6)",
+  "lens": "ascetic-jain",
+  "ontology_refs": [],
+  "tradition": "lin:jainism",
+  "summary": "TS 9.6 names purity (śauca) fourth among the ten forms of dharma, which TS 9.2 counts among the means that stop karmic inflow. The sūtra gives no method; the ontology's reading of śauca here as purity from greed follows the commentaries (it is not bodily washing). The Daśavaikālika pairs greed with contentment rather than with śauca: greed destroys everything; conquer greed by contentment.",
+  "steps": [
+   "Sit comfortably.",
+   "Recall the virtue as the sūtra names it: purity (śauca), one of the ten forms of dharma (TS 9.6).",
+   "Recall that the sūtra counts these virtues among the means that stop the inflow of karma (TS 9.2).",
+   "When greed is present, meet it with contentment: 'conquer greed by contentment' (Daśavaikālika 8.36–38).",
+   "Close gently."
+  ],
+  "targets": [
+   "dx:kasaya-lobha"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": [
+    5,
+    10
+   ],
+   "sessions_per_day": 1,
+   "basis": "product default for a beginner; the text gives no length"
+  },
+  "warnings": [
+   {
+    "text": "The sūtra gives only the name; the pairing with greed is the commentaries' reading of śauca, and the Daśavaikālika names contentment, not śauca, against greed.",
+    "cites": [
+     "tea:tattvartha-sutra:9.6",
+     "tea:dasavaikalika-sutra:8.36-38"
+    ]
+   },
+   {
+    "text": "Nearest general caution in the Tattvārtha (the sūtra gives none for this practice): reflection must not turn into sorrowful brooding (ārta-dhyāna), which the sūtra defines as dwelling on removing the disagreeable, keeping the agreeable, on pain, and hankering for future enjoyment (nidāna).",
+    "cites": [
+     "tea:tattvartha-sutra:9.30-33"
+    ]
+   }
+  ],
+  "safety_tier": "gentle",
+  "tier_reason": "Recollecting a virtue and meeting greed with contentment; nothing from the other tiers, and no bodily cleansing.",
+  "cites": [
+   "tea:tattvartha-sutra:9.6",
+   "tea:tattvartha-sutra:9.2",
+   "tea:dasavaikalika-sutra:8.36-38"
+  ],
+  "user_facing": true
+ },
+ {
+  "id": "px:vrata-ts-7-1",
+  "name": "The vows (vrata, TS 7.1–2)",
+  "lens": "ascetic-jain",
+  "ontology_refs": [
+   "prc:anuvratas",
+   "prc:mahavratas"
+  ],
+  "tradition": "lin:jainism",
+  "summary": "TS 7.1: abstention from violence, falsehood, stealing, unchastity and possessiveness is the vow (vrata). TS 7.2: in part it is the small vow (aṇuvrata); wholly it is the great vow (mahāvrata). TS 7.3: for their steadiness there are five contemplations each. TS 7.13: violence is the severing of life-forces through careless activity (pramatta-yoga).",
+  "steps": [],
+  "targets": [
+   "dx:jain-avirati",
+   "dx:jain-pramada"
+  ],
+  "stage": "all",
+  "duration": {
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
+  },
+  "warnings": [
+   {
+    "text": "The great vow is the whole abstention, including total celibacy; the small vow is partial. Neither is a self-guided exercise.",
+    "cites": [
+     "tea:tattvartha-sutra:7.2"
+    ]
+   }
+  ],
+  "safety_tier": "never-recommend",
+  "tier_reason": "Taking vows, including the vow concerning unchastity (total celibacy in the great vow), is never prompted by the product; vows are taken within the tradition before a teacher. The attitudes of TS 7.11 are offered instead as a gentle practice.",
+  "cites": [
+   "tea:tattvartha-sutra:7.1",
+   "tea:tattvartha-sutra:7.2",
+   "tea:tattvartha-sutra:7.3",
+   "tea:tattvartha-sutra:7.13"
+  ],
+  "user_facing": true
+ }
+]
