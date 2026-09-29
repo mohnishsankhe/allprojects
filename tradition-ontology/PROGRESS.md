@@ -1,3 +1,26 @@
+# Ontology Insight Generator — build to release-ready (supersedes the earlier ontology-build plan)
+
+Budget: 12 working hours. Phase budgets: P0 0:00–0:30 · P1 0:30–3:30 · P2 3:30–5:00 · P3 5:00–8:30 · P4 8:30–9:30 · P5 9:30–10:30 · P6 10:30–11:30 · P7 11:30–12:00.
+
+## Work blocks (TZ=Asia/Kolkata)
+| block | start | end | phases | elapsed at end |
+|---|---|---|---|---|
+| 1 | 2026-09-29 18:28 IST | | P0– | |
+
+## Phase status
+| phase | status | notes |
+|---|---|---|
+| P0 Audit | running | |
+| P1 Ontology sufficiency | queued | |
+| P2 Engine design | queued | |
+| P3 Build | queued | |
+| P4 Content engine | queued | |
+| P5 Evaluation | queued | |
+| P6 Fix loop | queued | |
+| P7 Release | queued | |
+
+---
+
 # Progress
 
 Resume point for "continue". Update after every lineage (unit) and every text.

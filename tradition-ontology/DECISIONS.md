@@ -255,3 +255,16 @@ Conservative choices made without asking, with reasons. Newest last.
 - At about 18:17 IST the user stopped all ten running agents: skeleton U51–U54, Phase C sweeps U08–U11, the Gītā ch16-18 merger, and the lojong root reconstruction.
 - Conservative reading: this is a deliberate pause. None is resumed or relaunched, and the self-scheduled check-in that would launch more agents is disabled, not deleted.
 - Partial output is kept as it stands; the two partial skeleton shards (U51, U52) validate with 0 errors. PROGRESS.md lists exactly what each item had written, so "continue" can restart them.
+
+## 2026-09-29 18:28 IST — New brief: the Ontology Insight Generator (supersedes the ontology-build plan)
+- The user's new brief supersedes all earlier instructions for this folder. The ten agents paused at 18:17 IST are not restarted. Their partial output stays as it is, and the rest of the ontology coverage goes to NEXT_STEPS.md.
+- **No Anthropic API key.** The environment has no ANTHROPIC_API_KEY; only the Claude Code session's own ingress (ANTHROPIC_BASE_URL) exists, and that belongs to this session, not to the product. Conservative choice, as the brief itself directs:
+  - the product is built to use a key from the environment (.env, never committed);
+  - every gate that needs live model calls is marked "not run", and the release is reported as not ready;
+  - deterministic gates (schema, tests, the rule-based safety layer, citation resolution, the claim scan) are run for real;
+  - nothing is faked. Any simulated or dry-run evidence is labelled as such and never counted as a pass.
+- **Python packages.** fastapi, uvicorn, anthropic, pytest and httpx were installed with pip; cryptography 41 was already present.
+
+## 2026-09-29 18:34 IST — Subagent routing fallback, and the P1 extraction protocol
+- The onto-* definitions exist in .claude/agents/ for future sessions. In this session each role runs as a general-purpose agent with the model set by the Agent tool (opus for deep, analyst and judge; sonnet for builder, extractor and drafter). The prompt makes it follow its onto-* role file. Effort cannot be set per call here. Logged in RUNLOG, and reported in RELEASE_REPORT as a deviation.
+- P1 uses the brief's own protocol: single extraction by onto-extractor, then a judge spot-check of 10% plus every low-confidence entry. This is written into config/briefs/extraction.md as "Insight-build protocol" (Roles S and J). A batch is accepted only if at least 95% of the random sample is faithful; otherwise every entry is checked. Entries promoted this way carry verification.protocol "insight-p1-single+spot".

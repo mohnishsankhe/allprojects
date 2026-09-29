@@ -74,3 +74,48 @@ Rules from `CLAUDE.md`, `config/principles.md`, `config/data_model.md` apply. Ne
 4. Validate `final/`; final reply ≤4 lines.
 
 ## Quality gates per text (after all chunks are final) — see config/briefs/quality_gates.md
+
+## Insight-build protocol (P1, from 2026-09-29): single extraction + judge spot-check
+The Insight Generator brief replaces double extraction for its core texts with: **onto-extractor extracts each text once;
+onto-judge spot-checks 10% of entries plus every low-confidence one.** Entries promoted this way carry
+`verification.protocol: "insight-p1-single+spot"`, so they stay distinguishable from double-extracted text.
+
+### Role S — single extractor (onto-extractor)
+- Inputs: the segments `sources_raw/prepared/<slug>/segments.jsonl` + `META.json` (only your refs), and the skeleton
+  teachings of this source (`data/teachings/<slug>.jsonl`, level skeleton or sourced).
+- Output: `shards/extraction/<slug>/<chunk>/single/` containing `teachings.jsonl`, the entity files you need
+  (`terms`, `concepts`, `practices`, `obstacles`, `phenomenology`, `paths`, `disputes`, `teachers`), and
+  `skeleton_decisions.jsonl`. Drafts and scripts go only in `…/<chunk>/_gen/S/`.
+- Every segment gets at least one whole-segment teaching, as in Role A/B step 2. Differences:
+  - `original.text` is copied from the segment BY CODE, never retyped;
+  - `extraction` is `{"method":"single","extractors":["S"]}`;
+  - `verification` is `{"level":"sourced","confidence":"high|moderate|low","protocol":"insight-p1-single+spot"}`.
+- Confidence must be honest. Mark `low` wherever the verse is obscure, the construal is disputed, or your paraphrase
+  had to choose between readings: the judge checks every low entry.
+- Commentaries: where the prepared segment carries a commentary (e.g. Vyāsa on the Yoga Sūtra), add one teaching per
+  segment for the commentary, id `tea:<commentary-slug>:<ref>`, whose `original` is an exact substring of the
+  commentary (the key sentence or sentences) and whose paraphrase covers the commentary's main points on that sūtra.
+- Chapter entries `tea:<slug>:ch<N>` as in Role A/B step 3. There is no six-marks notes file, except for a text completed
+  in one chunk: then write `tea:<slug>:thesis` as in Role M step 4.
+- Entities: as Role A/B step 5. For practices, quote the text's own warnings verbatim (`warnings[]` with ref). Restricted
+  practices stay summary-only.
+- skeleton_decisions: one line per skeleton teaching of this source in your range:
+  `{"skeleton_id","decision":"upgrade|correct|retire","replaced_by","reason"}`.
+- Validate with `python3 scripts/validate_shard.py shards/extraction/<slug>/<chunk>/single` and reach 0 errors.
+
+### Role J — judge spot-check and promotion (onto-judge)
+1. By code: every `original.text` in `single/teachings.jsonl` must equal its segment's text, or be an exact substring of
+   it for commentary excerpts. Any mismatch is fixed from the segment and logged.
+2. Sample, with a fixed seed: 10% of teachings, at least 5 and stratified across the chunk, plus EVERY `low`-confidence
+   entry and every entry touching a restricted practice. Check each against the segment for faithful paraphrase (no
+   added doctrine, no commentator's reading as plain sense, no modern psychology), tags, type, and linked ids (they exist
+   and are the right sense; watch homonyms). Record a line in `fidelity.jsonl` for each: id, verdict, fix, evidence.
+3. Acceptance: if at least 95% of the random 10% sample is faithful as written, the batch is accepted. Fix every
+   unfaithful entry found, including those among the low-confidence ones. If the sample is below 95%, check EVERY entry
+   before promoting.
+4. Write `final/` with the same files as `single/`:
+   - teachings get `verification.level: "text-verified"`, `protocol: "insight-p1-single+spot"`, and
+     `fidelity: {"checked_by":"J","date":…, "mode":"sampled"|"individually-checked"}`;
+   - entities are not raised in level; they get a `verification.checks` record.
+   Copy `skeleton_decisions.jsonl` across, checking that every `replaced_by` exists.
+5. Validate `final/` to 0 errors. Return REPORT.md content in the reply (counts, sample result, fixes, open points).
