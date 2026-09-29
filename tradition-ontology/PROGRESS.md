@@ -49,7 +49,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U34-jain-canon | running | | |
 | U35-jain-philosophy | running | | |
 | U36-pali-suttas | running | | |
-| U37-abhidhamma-visuddhimagga | running | | |
+| U37-abhidhamma-visuddhimagga | done | 16 lin · 80 src · 53 tch · 222 tea (109 Pali originals read locally) · 190 trm · 58 cpt · 81 prc · 20 dsp | report saved |
 | U38-early-schools | running | | |
 | U39-mahayana-sutras | running (resumed) | | |
 | U40-madhyamaka | running (resumed) | | |
@@ -85,6 +85,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 
 - C-U01: tea:atharvaveda-saunaka:2.32 paraphrase imports 'visible and invisible' and 'with a stone' from AVŚ 2.31; trm:samana — no Saṃhitā occurrence found (BĀU 1.5.3 has it); src:jnanayajna 'c. 11th c.' and src:vedadipa 'c. 1589' unsupported; use GRETIL (not DharmicData) for RV verse text.
 - S4 note: prc:mahamrtyunjaya-japa has method summaries from U01 (Vedic) and U32 (jyotiṣa remedy) — merge must keep both as per-lineage content, not let one replace the other. U32 kuja-dosa and kāla-sarpa entries have no classical verse located (recent/unsourced — sweep first).
+- C/Phase D note (U37): the 'sixteen insight knowledges' are a later systematization (Vism has 9 within the 6th purification, Abhidhammatthasaṅgaha 10); the heart-base is commentarial (Paṭṭhāna names only 'the matter in dependence on which'). prc:nesajjikanga flagged restricted.
 - S5 dedupe candidates (reported by units): U04 prc:mahabandha-mahavedha → U29 prc:mahabandha + prc:mahavedha; U24 cpt:satkarma (tantric six acts) ≠ U28 cpt:satkarma-doctrine (haṭha six acts) — never merge; U28/U29 overlapping HYP/GS range teachings (≈53) — Phase D decides; U10's YBh 2.46 paraphrase may omit vīrāsana; cpt:vyoma-pancaka (U04) = cpt:five-vyomas (U21); cpt:three-laksyas categories differ U04/U21; prc:viparitakarani (U28/U29) vs prc:viparita-karani (U21); prc:sanmukhi-mudra vs prc:shanmukhi-mudra (U04); tea overlaps on U04's Śākta Upaniṣad range teachings vs U23's verse teachings (fidelity pass decides levels).
 
 ## Gap hunter (after C)
@@ -94,7 +95,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | bhagavad-gita | ch01-03 | done (165) | done (165) | done (165 tea, 554 disagreements; skeleton 72 up · 1 corr · 0 ret) | done: 151 passed · 14 fixed · 0 failed → text-verified | |
 | bhagavad-gita | ch04-06 | done (123) | done (125) | done (124 tea, 534 disagreements; skeleton 63 up · 4 corr · 0 ret) | done: 109 passed · 15 fixed · 0 failed → text-verified | |
 | bhagavad-gita | ch07-09 | done (95) | done (95) | running | | |
-| bhagavad-gita | ch10-12 | | | | | |
+| bhagavad-gita | ch10-12 | running | | | | |
 | bhagavad-gita | ch13-15 | | | | | |
 | bhagavad-gita | ch16-18 | | | | | |
 
