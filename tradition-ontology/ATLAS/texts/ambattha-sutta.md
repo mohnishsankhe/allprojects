@@ -30,4 +30,4 @@ terms: [vijjācaraṇa](../terms/vijjacarana.md) · disputes: [Is purity and wor
 _Notes: SuttaCentral uid dn3; Mahāsaṅgīti title 'Ambaṭṭhasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

@@ -20,4 +20,4 @@
 _Notes: Class structure is common to all Vinayas; totals differ mainly in the śaikṣa rules. Only the Dharmaguptaka and Theravāda totals are given with confidence._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._

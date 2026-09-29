@@ -106,7 +106,7 @@ The supreme tree of non-dual mind spreads through all three realms; it holds the
 
 _level: bridging · standpoint: seeker · path: knowledge, action · stage: all · types: ethics_
 
-terms: [karuṇā](../terms/karuna.md), [śūnyatā](../terms/sunyata.md) · concepts: [The union of wisdom and means (prajñopāya)](../concepts/union-of-wisdom-and-means.md) · teachers: [Saraha](../teachers/saraha.md)
+terms: [kāruṇya](../terms/karuna.md), [śūnyatā](../terms/sunyata.md) · concepts: [The union of wisdom and means (prajñopāya)](../concepts/union-of-wisdom-and-means.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v134-136 <a id="tea-dohakosa-saraha-v134-136"></a>
 `skeleton` · confidence moderate · [AI-translated]
@@ -139,7 +139,7 @@ Whoever enters emptiness devoid of compassion does not find the supreme path; ye
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: all · types: karma-liberation, ethics_
 
-terms: [śūnyatā](../terms/sunyata.md), [karuṇā](../terms/karuna.md), [Prājña](../terms/prajna.md), [upāya](../terms/upaya.md) · concepts: [The union of wisdom and means (prajñopāya)](../concepts/union-of-wisdom-and-means.md) · teachers: [Saraha](../teachers/saraha.md)
+terms: [śūnyatā](../terms/sunyata.md), [kāruṇya](../terms/karuna.md), [Prājña](../terms/prajna.md), [upāya](../terms/upaya.md) · concepts: [The union of wisdom and means (prajñopāya)](../concepts/union-of-wisdom-and-means.md) · teachers: [Saraha](../teachers/saraha.md)
 
 ### v17-19 <a id="tea-dohakosa-saraha-v17-19"></a>
 `skeleton` · confidence high · [AI-translated]
@@ -462,4 +462,4 @@ teachers: [Saraha](../teachers/saraha.md)
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._

@@ -14,4 +14,4 @@
 Aṅkīyā nāṭ on Kṛṣṇa's carrying off of Rukmiṇī. Performed as bhāonā with a sūtradhāra who sings, dances and explains.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._

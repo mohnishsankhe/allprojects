@@ -14,4 +14,4 @@ Tang master of Muzhou (Zhejiang) called 'the later Shandao', who taught children
 _Notes: The coin episode is widely told; recalled, moderate._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._

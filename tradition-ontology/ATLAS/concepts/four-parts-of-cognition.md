@@ -14,4 +14,4 @@
 - contrasts-with → [Reflexive awareness (svasaṃvedana)](svasamvedana.md): Dignāga's three-aspect cognition is the basis
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._

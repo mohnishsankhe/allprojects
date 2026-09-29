@@ -15,4 +15,4 @@ Summary: sets of physical movements combined with breath holding (in the Karṇa
 - Taught only orally in retreat settings; not to be learned from books.
 
 ---
-_Contributed by: skeleton:U46-kagyu, skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U46-kagyu, skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._

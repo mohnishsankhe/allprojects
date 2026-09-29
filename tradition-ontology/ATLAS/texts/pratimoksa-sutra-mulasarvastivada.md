@@ -15,4 +15,4 @@ The recitation text of the Mūlasarvāstivāda monk's rules, recited in Tibetan 
   - kind: original; name: A. C. Banerjee (1954; Gilgit manuscript), GRETIL e-text
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._

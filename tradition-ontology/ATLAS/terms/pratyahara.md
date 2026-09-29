@@ -22,4 +22,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U10-yoga, skeleton:U28-hatha-texts, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U44-indian-vajrayana, skeleton:U04-minor-upanisads, skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U10-yoga, skeleton:U28-hatha-texts, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U44-indian-vajrayana, skeleton:U04-minor-upanisads, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

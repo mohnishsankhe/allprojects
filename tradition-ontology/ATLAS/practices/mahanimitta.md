@@ -17,4 +17,4 @@ Divination from the year, dreams, bodily marks, portents, signs of the body and 
 _Notes: Category 'ritual' is the nearest fit for a divinatory lore._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:04 IST._

@@ -17,4 +17,4 @@
 **Related:** [sākṣin](saksin.md), [apauruṣeya](apauruseya.md), [prāmāṇya](pramanya.md), [bādhaka-jñāna](badhaka-jnana.md), [kāraṇa-doṣa](karana-dosa.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U12-mimamsa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U12-mimamsa. Generated 2026-09-29 22:04 IST._

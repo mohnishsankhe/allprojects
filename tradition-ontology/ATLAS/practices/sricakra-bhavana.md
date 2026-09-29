@@ -17,4 +17,4 @@ The body's openings, channels, winds and faculties contemplated as the enclosure
 
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:bhavana-upanisad:1-5 (partially-confirmed).
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 22:04 IST._

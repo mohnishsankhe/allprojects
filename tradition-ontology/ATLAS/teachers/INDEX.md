@@ -1,6 +1,6 @@
-# Teachers (2774)
+# Teachers (2775)
 
-skeleton: 2378 · sourced: 396
+skeleton: 2377 · sourced: 398
 
 - [A. C. Bhaktivedanta Swami Prabhupāda](bhaktivedanta-swami.md) — `skeleton` _(recent)_
 - [Abhayadatta](abhayadatta.md) — `skeleton`
@@ -138,7 +138,7 @@ skeleton: 2378 · sourced: 396
 - [Auḍulomi](audulomi.md) — `skeleton`
 - [Avaidyanāth](avaidyanath.md) — `skeleton` _(recent)_
 - [Avalokitavrata](avalokitavrata.md) — `skeleton`
-- [Avalokiteśvara](avalokitesvara.md) — `skeleton`
+- [Avalokiteśvara](avalokitesvara.md) — `sourced`
 - [Aviddhakarṇa](aviddhakarna.md) — `skeleton`
 - [Ayampula](ayampula.md) — `skeleton`
 - [Ayāsya Āṅgirasa](ayasya-angirasa.md) — `sourced`
@@ -2318,7 +2318,7 @@ skeleton: 2378 · sourced: 396
 - [Varadarāja (Kṛṣṇadāsa)](varadaraja.md) — `skeleton`
 - [Vardhamāna Upādhyāya](vardhamana-upadhyaya.md) — `skeleton`
 - [Vareṇya](varenya.md) — `sourced`
-- [Varuṇa (as teacher)](varuna.md) — `sourced`
+- [Varuṇa](varuna.md) — `sourced`
 - [Varuṇaśiva](varunasiva.md) — `skeleton`
 - [Varāha (the Boar avatāra)](varaha.md) — `sourced`
 - [Varāhamihira](varahamihira.md) — `skeleton`
@@ -2749,6 +2749,7 @@ skeleton: 2378 · sourced: 396
 - [Śāntinātha](santinatha.md) — `skeleton`
 - [Śāntipa (Ratnākaraśānti)](ratnakarasanti.md) — `skeleton`
 - [Śāradātanaya](saradatanaya.md) — `skeleton`
+- [Śāriputra](sariputra.md) — `sourced`
 - [Śārṅgadeva](sarngadeva.md) — `skeleton`
 - [Śārṅgadhara (anthologist)](sarngadhara-anthologist.md) — `skeleton`
 - [Śārṅgadhara (author of the medical Saṃhitā)](sarngadhara-vaidya.md) — `skeleton`

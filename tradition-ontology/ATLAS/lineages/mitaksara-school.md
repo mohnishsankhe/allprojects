@@ -38,4 +38,4 @@ _Notes: The later statutory codification of Hindu law is outside the scope of th
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/dcs/corpus/GRETIL/sa_vijJAnezvara-mitAkSarA.txt (GRETIL Mitākṣarā, Acharya 1949), https://en.wikipedia.org/wiki/Y%C4%81j%C3%B1avalkya_Sm%E1%B9%9Bti — Both distinctive positions are in the GRETIL Mitākṣarā. Ownership by birth is stated in the partition section on YS 2.114ff: 'tasmāt paitṛke paitāmahe ca dravye janmanaiva svatvam'. The sapiṇḍa definition is on YS 1.52 (asapiṇḍām): 'sapiṇḍatā ca ekaśarīrāvayavānvayena bhavati'. The dating of Vijñāneśvara (late 11th–early 12th c.) matches the tch:vijnanesvara and src:mitaksara checks.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

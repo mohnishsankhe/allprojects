@@ -17,4 +17,4 @@
 _Notes: The three cities = three bodies is stated in the Bahvṛca Upaniṣad (4); other triads vary by commentator._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._

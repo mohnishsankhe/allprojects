@@ -12,4 +12,4 @@
 A verse life of Cēkkiḻār attributed to Umāpati Civācāriyār: his ministry under the Cōḻa king and the composition of the Periya Purāṇam.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._

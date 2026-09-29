@@ -1,12 +1,13 @@
 # vairāgya
 
-`trm:vairagya` · `skeleton` · confidence high
+`trm:vairagya` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Native script:** वैराग्य
-**Literal:** dispassion
+**Literal:** detachment
 
 ## Definitions by tradition
+- [Jainism (Jaina dharma)](../lineages/jainism.md): The other purpose of that reflection (7.12).
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): Dispassion: the consciousness of mastery of one free of thirst for seen and scriptural objects (1.15); the higher is freedom from thirst for the guṇas (1.16); dispassion even toward the highest powers leads to kaivalya (3.50).
 - [Sāṃkhya](../lineages/samkhya.md): A sāttvika disposition of buddhi (SK 23); by itself it leads to absorption into prakṛti (SK 45), not to liberation; Gauḍapāda distinguishes external dispassion (from seeing the faults of objects) and internal (seeing even pradhāna as like a dream). The Sāṃkhya Sūtra makes it a support of meditation (3.36).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Dispassion, which with practice restrains the mind (BhG 6.35); dispassion toward sense-objects is a mark of knowledge (13.8).
@@ -28,7 +29,8 @@
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:tattvartha-sutra:7.12 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:6.35 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.9 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, skeleton:U09-samkhya, skeleton:U05-gita-epic, skeleton:U07-puranas, extraction:bhagavad-gita/ch04-06, skeleton:U13-advaita, extraction:bhagavad-gita/ch13-15, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U10-yoga, skeleton:U09-samkhya, skeleton:U05-gita-epic, skeleton:U07-puranas, extraction:bhagavad-gita/ch04-06, skeleton:U13-advaita, extraction:bhagavad-gita/ch13-15, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._

@@ -18,4 +18,4 @@ Mitra Miśra's encyclopaedic digest in many 'illuminations' (prakāśa) — on s
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:GRETIL-dev:mitramisra_viramitrodaya_samayaprakasa, catalog:raw_etexts:viramitrodaya_theerthaprakasha, https://en.wikipedia.org/wiki/V%C4%ABramitrodaya — Extant (prakāśas held locally). Written by Mitra Miśra of Gopācala for Vīrasiṃhadeva of Orchha (r. 1605–1626/27), c. 1610–1640 (Wikipedia), matching the entry.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

@@ -16,4 +16,4 @@
 **Related:** [bhakti](bhakti.md), [prema](prema.md)
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:04 IST._

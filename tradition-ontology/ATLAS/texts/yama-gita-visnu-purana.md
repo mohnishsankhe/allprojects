@@ -35,4 +35,4 @@ teachers: [Yama (Mṛtyu)](../teachers/yama.md)
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915) — VP 3.7 (Yama's whisper at 3.7.14, told by the Kaliṅga brāhmaṇa). The Gītāsaṅgraha prints it as 'viṣṇupurāṇāntargatā yamagītā', the first of its three Yama Gītās.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._

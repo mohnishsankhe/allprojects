@@ -16,4 +16,4 @@ Do not hold back the arisen urges of urine, faeces, semen, flatus, vomiting, sne
 - All diseases arise from forcing or suppressing the urges. — [Aṣṭāṅga Hṛdaya](../texts/astanga-hrdaya.md) Sū 4.22
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

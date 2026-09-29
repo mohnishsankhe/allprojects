@@ -151,4 +151,4 @@ concepts: [Secrecy and the fit vessel](../concepts/secrecy-and-fit-vessel.md), [
 _Notes: Local: catalog:Derge-Kangyur:D828; colophon read._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._

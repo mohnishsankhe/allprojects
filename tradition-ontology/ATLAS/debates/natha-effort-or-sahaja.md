@@ -34,4 +34,4 @@ The Akulavīra still counts the 'made' path as a Kaula path (B.43) and the Amara
 _Notes: A Nāth-internal form of dsp:kundalini-effort-grace (U50), to which it should be linked._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._

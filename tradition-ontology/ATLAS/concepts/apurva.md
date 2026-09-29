@@ -16,4 +16,4 @@
 - contrasts-with → [Īśvara (the Lord)](isvara.md): Jaimini: dharma itself gives the fruit, not a lord (as reported in BS 3.2.40) — rests on [3.2.40](../texts/brahma-sutra.md#tea-brahma-sutra-3-2-40)
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:04 IST._

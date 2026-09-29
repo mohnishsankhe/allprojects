@@ -12,4 +12,4 @@ Delusion and other defects that make human testimony about what is beyond the se
   - [Ślokavārttika](../texts/slokavarttika.md) — ref: codanā 62; rests_on: ["tea:slokavarttika:codana.62"]
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:04 IST._

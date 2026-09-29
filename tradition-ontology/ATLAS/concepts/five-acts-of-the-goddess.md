@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [Śiva's five acts (pañcakṛtya)](five-acts-of-siva.md) (Śākta): the same five acts, ascribed to the Goddess — rests on [63-64](../texts/lalita-sahasranama.md#tea-lalita-sahasranama-63-64), [24](../texts/saundarya-lahari.md#tea-saundarya-lahari-24)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._

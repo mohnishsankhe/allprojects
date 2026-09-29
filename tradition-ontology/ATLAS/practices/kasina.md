@@ -12,4 +12,4 @@ Perceiving a totality — earth, water, fire, air, blue, yellow, red, white, spa
   - [Aṅguttara Nikāya](../texts/anguttara-nikaya.md) — ref: 10.25; rests_on: ["tea:anguttara-nikaya:10.25"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

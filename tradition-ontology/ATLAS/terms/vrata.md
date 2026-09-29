@@ -1,12 +1,13 @@
 # vrata
 
-`trm:vrata` · `skeleton` · confidence high
+`trm:vrata` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Native script:** व्रत
-**Literal:** ordinance; vow
+**Literal:** vow
 
 ## Definitions by tradition
+- [Jainism (Jaina dharma)](../lineages/jainism.md): Abstention from violence, falsehood, stealing, unchastity and possessiveness (7.1); small or great (7.2).
 - [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): The binding ordinance of a god (Varuṇa 'of firm vratas'), and a vow undertaken by a person ('Agni, lord of vows, I shall undertake the vow', VS 1.5).
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): A religious vow for a set period or day (fast, vigil, worship, gifts), with its story and fruit (e.g. Ekādaśī, Śivarātri, Navarātra, Kātyāyanī vrata).
 - [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md): The primary observance of ash-bathing, lying in ash, the sixfold offering, muttering and circumambulation.
@@ -23,4 +24,8 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U07-puranas, skeleton:U17-pasupata-kapalika, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U02-brahmana-vedanga, skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:tattvartha-sutra:7.1, tea:tattvartha-sutra:7.2 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
+
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U01-vedic-samhitas, skeleton:U07-puranas, skeleton:U17-pasupata-kapalika, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U02-brahmana-vedanga, skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._

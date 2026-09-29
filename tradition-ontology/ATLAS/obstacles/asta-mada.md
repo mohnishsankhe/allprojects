@@ -12,4 +12,4 @@ A list of prides named in the vacanas — commonly of birth, wealth, beauty, you
 _Notes: Membership reconstructed; lists vary — verify._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._

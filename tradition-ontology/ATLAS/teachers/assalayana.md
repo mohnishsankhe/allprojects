@@ -8,4 +8,4 @@
 A young brahmin chosen to defend the brahmins' claims against the Buddha (MN 93).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

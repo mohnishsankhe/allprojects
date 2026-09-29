@@ -20,4 +20,4 @@ Founder of the Navadvīpa school of Navya-Nyāya; his Dīdhiti on the Tattvacint
 _Notes: The tradition tells of his defeating Pakṣadhara in debate in Mithilā (low confidence)._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._

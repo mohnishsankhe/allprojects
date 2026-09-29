@@ -22,4 +22,4 @@ Cultivating friendliness toward the happy, compassion toward the suffering, glad
 - partial: [Development of the four divine abidings](brahmavihara-bhavana.md) — Same four attitudes and 'vihāra' vocabulary (YBh 4.10) as the Buddhist brahmavihāras; objects and aim differ (YS 1.33 assigns each to a class of object)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 22:04 IST._

@@ -11,4 +11,4 @@ Rigid adherence to (unsuitable) observances such as early-morning bathing or fas
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 1.15; rests_on: ["tea:hatha-yoga-pradipika:1.15"]
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._

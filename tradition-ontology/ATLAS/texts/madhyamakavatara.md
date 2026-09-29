@@ -28,7 +28,7 @@ Candrakīrti's 'Entry into the Middle Way', a supplement to Nāgārjuna's treati
 
 _level: conventional · standpoint: causal · path: knowledge, devotion · stage: all · types: karma-liberation, teacher-transmission_
 
-terms: [karuṇā](../terms/karuna.md), [bodhicitta](../terms/bodhicitta.md) · concepts: [The awakening mind (bodhicitta) in the Madhyamaka manuals](../concepts/bodhicitta.md), [Great compassion as the root](../concepts/mahakaruna.md) · teachers: [Candrakīrti](../teachers/candrakirti.md)
+terms: [kāruṇya](../terms/karuna.md), [bodhicitta](../terms/bodhicitta.md) · concepts: [The awakening mind (bodhicitta) in the Madhyamaka manuals](../concepts/bodhicitta.md), [Great compassion as the root](../concepts/mahakaruna.md) · teachers: [Candrakīrti](../teachers/candrakirti.md)
 
 ### 1.2 <a id="tea-madhyamakavatara-1-2"></a>
 `skeleton` · confidence moderate
@@ -133,4 +133,4 @@ concepts: [The twenty (sixteen, eighteen) emptinesses](../concepts/twenty-emptin
 _Notes: Chapter structure beyond ch.10 and total verse count from memory (moderate)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._

@@ -11,4 +11,4 @@
 Hōnen's disciple associated with the 'one-calling' teaching (ichinengi): birth is settled in a single moment of faith, one calling; his line (Ichinen-gi) died out.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._

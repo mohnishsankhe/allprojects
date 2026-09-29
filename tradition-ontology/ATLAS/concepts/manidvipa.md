@@ -16,4 +16,4 @@
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/purANAni/upapurANAni/devIbhAgavatapurANam.md (1927 ed., Rāmateja Śarmā) 12.10-12 — DBhP 12.10-12 (local eBhārati) and Lalitopākhyāna 3.31-37 located. All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._

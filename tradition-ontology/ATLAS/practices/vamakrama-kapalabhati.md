@@ -16,4 +16,4 @@ Breathing in through iḍā and out through piṅgalā, then in through piṅgal
 - One should not do it forcefully. — [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) 1.57
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._

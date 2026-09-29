@@ -15,4 +15,4 @@ Kambalapāda's nine verses on the Prajñāpāramitā in tantric perspective.
   - kind: original; name: GRETIL e-text; licence: GRETIL; url: local
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._

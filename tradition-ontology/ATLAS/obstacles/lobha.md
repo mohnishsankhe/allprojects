@@ -20,4 +20,4 @@ Bhagavad Gītā 1–3: In Arjuna's argument, greed strikes down the minds of the
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:14.12, tea:bhagavad-gita:14.17 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 22:04 IST._

@@ -12,4 +12,4 @@ Eating too much; first of the six destroyers (HYP 1.15); listed among things to 
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 1.15; rests_on: ["tea:hatha-yoga-pradipika:1.15"]
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._

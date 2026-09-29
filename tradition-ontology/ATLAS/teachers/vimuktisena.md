@@ -12,4 +12,4 @@
 Early commentator on the Abhisamayālaṃkāra; classed by Tibetan doxographers among the Yogācāra-Svātantrika.
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._

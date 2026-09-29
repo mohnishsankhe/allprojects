@@ -24,4 +24,4 @@ _Notes: Also Vājasaneyi Saṃhitā 31.1–16 (with the six 'Uttaranārāyaṇa'
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/1_rv/rgveda_mandala_10.md (GRETIL, Van Nooten–Holland/Aufrecht), text:sources_raw/DharmicData/Rigveda/rigveda_mandala_10.json (Anukramaṇī seer/deity/metre headers), text:sources_raw/DharmicData/Yajurveda/vajasneyi_madhyadina_s — Hymn located in the local Śākala text. 16 verses; seer Nārāyaṇa. Parallels located: VS 31.1–16 with 31.17–22 (Uttaranārāyaṇa), AVŚ 19.6 (seer Nārāyaṇa), Taittirīya Āraṇyaka 3 (local text; anuvāka 12 per standard citation).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:04 IST._

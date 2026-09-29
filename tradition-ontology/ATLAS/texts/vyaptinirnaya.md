@@ -15,4 +15,4 @@ Ratnakīrti's treatise on pervasion.
   - kind: original; name: A. Thakur 1957/1975 — local SARIT markdown e-text (sources_raw/raw_etexts/mixed/sarit-markdown)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._

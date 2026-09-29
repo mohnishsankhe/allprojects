@@ -89,4 +89,4 @@ _Notes: Chanted daily in the Siddha Yoga tradition of Muktananda (recent) and wi
 
 - 2026-09-29 catalog+websearch: confirmed — local:sources_raw/raw_etexts/kAvyam/padyam/peterFreund/stotram/guru_gita.md (Ganeshpuri recension), catalog:eBharati:gurugItA, https://en.wikipedia.org/wiki/Guru_Gita, https://groups.google.com/g/bvparishat/c/JtoUtT-i61c — A Śiva-Pārvatī dialogue claimed for the Skanda Purāṇa's Uttarakhaṇḍa; researchers report they cannot find it in printed Skanda editions. Recensions run from about 100 to over 400 verses; Muktananda chose 182 for chanting (the local Ganeshpuri text numbers to 186 including preliminaries). Consistent with the entry.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._

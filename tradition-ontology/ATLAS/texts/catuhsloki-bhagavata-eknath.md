@@ -15,4 +15,4 @@
 Eknāth's Marathi ovī commentary on the four 'seed' verses of the Bhāgavata (2.9.32–35), in which the Lord teaches Brahmā that he alone was before creation and remains after it.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._

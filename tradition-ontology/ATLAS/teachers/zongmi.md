@@ -12,4 +12,4 @@
 Fifth Huayan patriarch who considered himself an heir of Shenhui's Heze line; classified the Chan schools, taught sudden awakening followed by gradual cultivation and the mind's 'empty and calm knowing', and criticised Hongzhou. (Owned by U54; U42 contributes the Chan role.)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._

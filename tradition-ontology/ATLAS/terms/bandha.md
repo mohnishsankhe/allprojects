@@ -1,12 +1,13 @@
 # bandha
 
-`trm:bandha` · `skeleton` · confidence high
+`trm:bandha` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Native script:** बन्ध
-**Literal:** lock, binding
+**Literal:** bondage
 
 ## Definitions by tradition
+- [Jainism (Jaina dharma)](../lineages/jainism.md): The soul's taking in of material particles fit for karma because of its passions (8.2); its causes are wrong view, non-abstinence, carelessness, passions and activity (8.1); its kinds are nature, duration, intensity and quantity (8.3).
 - [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md): A lock that contains the breath: mūla (root), uḍḍiyāna (abdominal) and jālandhara (throat), together the 'three locks' practised by the great Siddhas (HYP 3.74–76); applied at the end of inhalation and of retention (2.45–46).
 - [Sāṃkhya](../lineages/samkhya.md): Bondage comes from error (SK 44) and belongs to prakṛti, which binds herself by seven forms (SK 62–63); it is threefold — to prakṛti, to the modifications, and through gifts (Tattvasamāsa and Kramadīpikā).
 - [Bhāṭṭa Mīmāṃsā](../lineages/bhatta-mimamsa.md): The self's threefold connection with the world: the body (seat of experience), the senses (its instruments) and the objects (what is experienced) (Śāstradīpikā).
@@ -21,4 +22,8 @@
 **Related:** [mudrā](mudra.md), [jālandhara (bandha)](jalandhara.md), [uḍḍiyāna (bandha)](uddiyana.md), [mūlabandha](mula-bandha.md), [mokṣa](moksa.md), [aviveka](aviveka.md)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U09-samkhya, skeleton:U12-mimamsa, skeleton:U21-natha-aghora, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads. Generated 2026-09-29 21:52 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:tattvartha-sutra:8.1, tea:tattvartha-sutra:8.2, tea:tattvartha-sutra:8.3 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
+
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U28-hatha-texts, skeleton:U09-samkhya, skeleton:U12-mimamsa, skeleton:U21-natha-aghora, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads. Generated 2026-09-29 22:04 IST._

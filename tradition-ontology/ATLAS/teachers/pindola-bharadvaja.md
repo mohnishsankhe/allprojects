@@ -10,4 +10,4 @@ Foremost among lion-roarers; rebuked by the Buddha for displaying psychic power 
 _Notes: AN 1 Etadaggavagga (the 'foremost' lists)_
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

@@ -16,4 +16,4 @@
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:matsya-purana:274-289, tea:narada-purana:2.1-5, tea:skanda-purana:4.1.6.28-45, tea:visnu-purana:3.8.9 — The teachings it rests on were located; tea:visnu-purana:3.8.9 has a partial or corrected result (see its check).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._

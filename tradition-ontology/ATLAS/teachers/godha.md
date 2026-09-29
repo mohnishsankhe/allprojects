@@ -16,4 +16,4 @@ _Notes: Seer attributions follow the Sarvānukramaṇī as printed in the hymn h
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Rigveda/rigveda_mandala_10.json (Anukramaṇī seer/deity/metre headers) — Header: 1–6a Māndhātṛ Yauvanāśva; 6b–7 ṛṣikā Godhā — confirmed.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:04 IST._

@@ -28,4 +28,4 @@ concepts: [Jain views of the other darśanas](../concepts/jain-views-of-other-da
 _Notes: Attribution of individual padas varies between collections (low confidence on any given pada)._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

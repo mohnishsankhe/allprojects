@@ -4,10 +4,10 @@
   "lin": 24,
   "tch": 111,
   "src": 108,
-  "tea": 120,
+  "tea": 118,
   "brw": 1,
   "prc": 11,
-  "trm": 21,
+  "trm": 23,
   "cpt": 28,
   "obs": 5,
   "dsp": 1
@@ -2026,13 +2026,6 @@
    ]
   },
   {
-   "id": "tea:taittiriya-upanisad:3.10.6",
-   "refs": 1,
-   "e.g.": [
-    "tea:taittiriya-brahmana:2.8.8.1"
-   ]
-  },
-  {
    "id": "tea:katha-upanisad:1.1.1-29",
    "refs": 1,
    "e.g.": [
@@ -2271,13 +2264,6 @@
    ]
   },
   {
-   "id": "tea:katha-upanisad:1.3.10",
-   "refs": 1,
-   "e.g.": [
-    "tea:bhagavad-gita:3.42"
-   ]
-  },
-  {
    "id": "tea:chandogya-upanisad:6.1.3",
    "refs": 1,
    "e.g.": [
@@ -2366,6 +2352,20 @@
    "refs": 1,
    "e.g.": [
     "tea:bhagavad-gita:11.19"
+   ]
+  },
+  {
+   "id": "trm:mahas",
+   "refs": 1,
+   "e.g.": [
+    "tea:taittiriya-upanisad:3.10.3"
+   ]
+  },
+  {
+   "id": "trm:mahas exists neither in data/ nor in the shard.",
+   "refs": 1,
+   "e.g.": [
+    "tea:taittiriya-upanisad:3.10.3"
    ]
   },
   {

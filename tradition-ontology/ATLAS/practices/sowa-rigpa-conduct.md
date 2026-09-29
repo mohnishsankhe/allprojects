@@ -17,4 +17,4 @@ Regular sleep, oil massage and moderate exercise; moral conduct and gentle speec
 - same-under-standpoint: [Not suppressing the natural urges](vega-adharana.md) (medical regimen) — not suppressing urges
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._

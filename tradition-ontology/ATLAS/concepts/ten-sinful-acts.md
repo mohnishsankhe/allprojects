@@ -14,4 +14,4 @@
 - same-as-under-standpoint → `cpt:ten-courses-of-action` (list-identity): identical list to the Buddhist ten unwholesome courses of action — rests on [su.2.20-22](../texts/astanga-hrdaya.md#tea-astanga-hrdaya-su-2-20-22)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

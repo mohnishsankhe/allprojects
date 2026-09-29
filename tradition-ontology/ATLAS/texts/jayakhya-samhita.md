@@ -42,4 +42,4 @@ terms: [śuddha-sṛṣṭi](../terms/suddha-srsti.md) · concepts: [Pure and ot
 _Notes: Chapter count and frame checked in sources_raw/raw_etexts/mixed/mukta/pAncharAtra/unknown/jayAkhyasaMhitA__M00123.md (Jayākhya Saṃhitā, Krishnamacharya's GOS ed. as transcribed)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._

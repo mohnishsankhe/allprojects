@@ -8,4 +8,4 @@
 Caitanya's lifelong companion at Navadvīpa and Purī, identified in the tradition with Rādhā's śakti; one of the Pañca-tattva.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._

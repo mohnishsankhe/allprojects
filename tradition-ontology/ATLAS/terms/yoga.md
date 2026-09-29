@@ -1,12 +1,13 @@
 # yoga
 
-`trm:yoga` · `skeleton` · confidence high
+`trm:yoga` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Native script:** योग
-**Literal:** yoking; (from yuj 'to concentrate', per Vyāsa and Bhoja) concentration
+**Literal:** activity
 
 ## Definitions by tradition
+- [Jainism (Jaina dharma)](../lineages/jainism.md): In the Tattvārtha Sūtra, activity (karma) of body, speech and mind (6.1); it is inflow (6.2).
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): The stilling of the activities of the mind (YS 1.2); Vyāsa: 'yoga is samādhi', a property of the mind at all its levels, counting as yoga only in the one-pointed and stilled mind.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: Equanimity is called yoga (2.48); yoga is skill in actions (2.50); the understanding 'according to yoga' (2.39); one attains yoga when the understanding stands immovable in samādhi (2.53); karmayoga is the commitment of the yogins (3.3).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): In the Gītā: evenness of mind in success and failure (2.48), skill in action (2.50), and the disconnection from union with sorrow (6.23); also the discipline of action as distinct from sāṃkhya (3.3). In the Mokṣadharma, the path relying on direct perception and a Lord, as against Sāṃkhya (12.289.3–7).
@@ -37,8 +38,9 @@
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:tattvartha-sutra:6.1, tea:tattvartha-sutra:6.2 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 - 2026-09-29 text: corrected — tea:bhagavad-gita:4.1, tea:bhagavad-gita:4.2, tea:bhagavad-gita:4.3, tea:bhagavad-gita:5.4, tea:bhagavad-gita:5.5, tea:bhagavad-gita:6.2, tea:bhagavad-gita:6.10, tea:bhagavad-gita:6.20, tea:bhagavad-gita:6.23, tea:bhagavad-gita:6.33, tea:bhagavad-gita:6.46 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.7, tea:bhagavad-gita:11.8, tea:bhagavad-gita:11.47, tea:bhagavad-gita:12.6, tea:bhagavad-gita:10.17, tea:bhagavad-gita:10.18, tea:bhagavad-gita:11.4, tea:bhagavad-gita:11.9, tea:bhagavad-gita:12.9, tea:bhagavad-gita:12.11 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.11, tea:bhagavad-gita:13.25, tea:bhagavad-gita:14.26 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U17-pasupata-kapalika, skeleton:U30-ayurveda-rasa, skeleton:U02-brahmana-vedanga, skeleton:U06-other-gitas, skeleton:U07-puranas, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch13-15, skeleton:U35-jain-philosophy, skeleton:U11-nyaya-vaisesika, skeleton:U22-tamil-siddha. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U10-yoga, extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U17-pasupata-kapalika, skeleton:U30-ayurveda-rasa, skeleton:U02-brahmana-vedanga, skeleton:U06-other-gitas, skeleton:U07-puranas, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch13-15, skeleton:U35-jain-philosophy, skeleton:U11-nyaya-vaisesika, skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._

@@ -8,4 +8,4 @@
 The sage to whom Īśvara teaches the mindless yoga in the Amanaska (recalled).
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._

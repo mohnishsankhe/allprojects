@@ -11,4 +11,4 @@
 Burmese meditation master (U Nārada, 1868–1955) who revived satipaṭṭhāna practice in the early 20th century and taught Mahāsi Sayadaw.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._

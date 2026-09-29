@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [Provisional and definitive meaning in Madhyamaka](neyartha-nitartha-madhyamaka.md): the graded teaching grounds the provisional/definitive distinction — rests on [4.94-96](../texts/ratnavali.md#tea-ratnavali-4-94-96)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._

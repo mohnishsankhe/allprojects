@@ -33,4 +33,4 @@ He should stand up and fight, without grief, as his own dharma, with equanimity 
 _Notes: A text-internal debate, recorded as the Gītā presents it in chapters 1–3 only; no reconciliation is attempted at extraction. Arjuna's acceptance comes only at the end of the Gītā (18.73, outside this chunk). In ch. 1–3 Kṛṣṇa does not answer the family-dharma argument point by point; at 3.24 he says that if he did not act he would be the maker of saṅkara. The broader epic debate (killing in battle as svadharma vs non-violence as the highest dharma) is dsp:violence-and-svadharma. Merged from A (dsp:should-arjuna-fight) and B (same id as here)._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 22:04 IST._

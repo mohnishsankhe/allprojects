@@ -13,4 +13,4 @@ The Lokottaravāda rules of monastic etiquette and daily conduct.
   - kind: original; name: Taishō University study group digital edition, GRETIL
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._

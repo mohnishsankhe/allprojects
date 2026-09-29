@@ -11,4 +11,4 @@
 A Pāśupata work, apparently a gloss on Kauṇḍinya's Pañcārthabhāṣya, known only by name.
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 22:04 IST._

@@ -26,4 +26,4 @@ concepts: [The nine Nāths (nava-nātha)](../concepts/nine-nathas.md) · teacher
 _Notes: Author recalled as Dhuṇḍisuta Mālu (Narahari Mālu); year recalled, not checked._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._

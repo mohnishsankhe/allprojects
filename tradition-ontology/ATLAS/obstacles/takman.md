@@ -14,4 +14,4 @@ Recurrent fever, sent away to distant peoples by Atharvavedic charms.
 _Notes: rests_on: tea:atharvaveda-saunaka:5.22_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:04 IST._

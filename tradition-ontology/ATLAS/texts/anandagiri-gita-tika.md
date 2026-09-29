@@ -23,4 +23,4 @@ _Notes: Descriptive title (the work is sometimes called Gītābhāṣyavivecana;
 
 - 2026-09-29 catalog+websearch: confirmed — local:sources_raw/gita/data/commentary.json (Sri Anandgiri), https://www.wisdomlib.org/hinduism/essay/tarkasangraha-by-anandagiri-critical-study/d/doc1598893.html — Extant and digitized; Ānandagiri (= Ānandajñāna) flourished in the 13th c. The descriptive title remains unconfirmed, as the entry notes.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._

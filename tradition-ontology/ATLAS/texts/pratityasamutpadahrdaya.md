@@ -20,4 +20,4 @@ Seven verses with an explanation arranging the twelve links of dependent origina
   - kind: translation; name: Chinese: Yinyuan xin lun song 因緣心論頌, T1654 — catalog:CBETA:T32n1654
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._

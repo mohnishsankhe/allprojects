@@ -22,4 +22,4 @@ Drawing the belly back (paścimatāna) above and below the navel, so that the br
 - It is to be received from the guru and practised in a solitary, settled place. — [Śiva Saṃhitā](../texts/siva-samhita.md) 4.52
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._

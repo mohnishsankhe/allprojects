@@ -16,4 +16,4 @@
 Śaṅkaradeva's chief disciple and successor (tradition 1489–1596), a Śākta until a debate with Śaṅkaradeva over a goat sacrifice converted him; lifelong celibate, poet of the Nām-ghoṣā, many bargīts, the jhumurā plays and the Assamese Bhakti-ratnāvalī.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._

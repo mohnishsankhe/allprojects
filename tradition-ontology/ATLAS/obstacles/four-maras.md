@@ -16,4 +16,4 @@ Māra as the aggregates, the defilements, death, and the divine son Māra.
 _Notes: Standard Mahāyāna list (e.g. in the Lalitavistara and Mahāprajñāpāramitā-śāstra); exact sūtra locus not asserted._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U45-nyingma-bon, skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U45-nyingma-bon, skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

@@ -13,4 +13,4 @@ Meditating on the letter A as the unborn gate of all dharmas (Mahāvairocana), t
   - [Mañjuśrīnāmasaṃgīti](../texts/manjusrinamasamgiti.md) — ref: 28-29; rests_on: ["tea:manjusrinamasamgiti:28-29"]
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._

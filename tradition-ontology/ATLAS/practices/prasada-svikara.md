@@ -13,4 +13,4 @@ Eating only what has first been offered to the liṅga, and receiving the prasā
 **Sequences:** [The six stages (ṣaṭsthala) of the Vīraśaiva path](../paths/virasaiva-satsthala.md), [The 101 sthalas of the Siddhāntaśikhāmaṇi (ekottaraśata-sthala)](../paths/siddhantasikhamani-101-sthalas.md)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._

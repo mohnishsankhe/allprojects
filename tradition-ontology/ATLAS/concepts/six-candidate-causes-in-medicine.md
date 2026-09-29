@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The candidate causes of the Śvetāśvatara](candidate-causes-svetasvatara.md): the list of candidate causes in Śvetāśvatara Upaniṣad 1.2 — rests on [sa.1.10-11](../texts/susruta-samhita.md#tea-susruta-samhita-sa-1-10-11)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

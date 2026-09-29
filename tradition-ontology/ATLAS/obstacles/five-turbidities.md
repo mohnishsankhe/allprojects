@@ -14,4 +14,4 @@ Degeneracy of the aeon, beings, defilements, views and lifespan, in which the Bu
   - [Collection on the Land of Peace and Bliss (Anle ji)](../texts/anle-ji.md) — ref: 13c10; rests_on: ["tea:anle-ji:13c05-22"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._

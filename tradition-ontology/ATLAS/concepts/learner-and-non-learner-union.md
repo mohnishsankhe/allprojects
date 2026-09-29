@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The three and four kāyas in the Kagyu](four-kayas.md): non-learner's union = buddhahood
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

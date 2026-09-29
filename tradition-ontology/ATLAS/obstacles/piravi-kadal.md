@@ -13,4 +13,4 @@ The round of births, pictured as an ocean of sorrow, from which the Āḻvārs a
   - [Tiruviruttam](../texts/tiruviruttam.md) — ref: 1; rests_on: ["tea:tiruviruttam:1"]
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:04 IST._

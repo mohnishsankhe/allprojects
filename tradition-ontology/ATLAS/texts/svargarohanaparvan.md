@@ -24,4 +24,4 @@ The book of the ascent to heaven: Yudhiṣṭhira's vision of hell and heaven, t
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_18.json (BORI Critical Edition text) book 18: 5 chapters — Book 18 has exactly 5 chapters in the local Critical Edition text, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._

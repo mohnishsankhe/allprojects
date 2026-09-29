@@ -13,4 +13,4 @@ The renunciant's offering: visualizing one's consciousness as a wrathful ḍāki
 **Sequences:** [The preliminaries according to the Words of My Perfect Teacher](../paths/kunzang-lamai-shelung-ngondro.md)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._

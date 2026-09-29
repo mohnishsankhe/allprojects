@@ -48,4 +48,4 @@ concepts: [Meditation sickness (zenbyō) and its cure](../concepts/meditation-si
 _Notes: Not held locally; paraphrases from memory._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._

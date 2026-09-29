@@ -150,4 +150,4 @@ Partial convergences recorded without reconciling: (a) Advaita, Sāṃkhya-Yoga 
 _Notes: Owned by U50. Cārvāka, Ajñāna and Pakudha sides (as reported by opponents) were contributed by U33 and are included verbatim. The Pudgalavāda middle position is treated fully in dsp:pudgala (U38)._
 
 ---
-_Contributed by: skeleton:U50-debates, skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U50-debates, skeleton:U33-sramana. Generated 2026-09-29 22:04 IST._

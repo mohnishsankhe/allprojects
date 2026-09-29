@@ -9,4 +9,4 @@
 Astronomer of Sawai Jai Singh II who rendered Arabic versions of Ptolemy (Samrāṭ Siddhānta, 1732) and Euclid into Sanskrit.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._

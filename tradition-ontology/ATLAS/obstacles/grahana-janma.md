@@ -12,4 +12,4 @@ Those born during a solar or lunar eclipse face disease, hardship, poverty and f
   - [Bṛhat Parāśara Horā Śāstra](../texts/brhat-parasara-hora-sastra.md) — ref: 91.1-4; rests_on: ["tea:brhat-parasara-hora-sastra:91.1-4"]
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._

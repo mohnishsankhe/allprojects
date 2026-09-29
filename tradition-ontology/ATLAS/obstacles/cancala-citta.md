@@ -12,4 +12,4 @@ The mind agitated by objects wanders in saṃsāra; restlessness is 'being', ste
   - [Jñānakārikā](../texts/jnanakarika.md) — ref: 2.12-14; rests_on: ["tea:jnanakarika:2.12-14"]
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._

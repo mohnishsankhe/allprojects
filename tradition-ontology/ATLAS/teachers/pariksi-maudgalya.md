@@ -10,4 +10,4 @@ Speaker: the person and his diseases are born of the self, the conscious princip
 _Notes: Refs checked against the DCS e-text of the Caraka Saṃhitā._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

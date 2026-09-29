@@ -16,4 +16,4 @@
 Vimalamitra's instruction-series cycle, concealed by Nyang Tingdzin Zangpo and recovered in the 11th c.; it contains the 'last testaments' of the vidyādharas, pith instructions and practice guides, and forms the first part of the Nyingthig Yabzhi.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._

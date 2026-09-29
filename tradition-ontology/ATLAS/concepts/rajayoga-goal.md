@@ -15,4 +15,4 @@
 - same-as-under-standpoint → [Samādhi beyond object-awareness (asamprajñāta)](asamprajnata-samadhi.md) (Brahmānanda's Pātañjala reading): an identification made by the commentator, not by the root text — rests on [1.1](../texts/hatha-yoga-pradipika-jyotsna.md#tea-hatha-yoga-pradipika-jyotsna-1-1)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._

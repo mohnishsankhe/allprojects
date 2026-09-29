@@ -14,4 +14,4 @@
 - contrasts-with → [Devotion in separation](viraha-bhakti.md): the Rādhāvallabha eternal play admits no real separation — rests on [passim](../texts/hita-caurasi.md#tea-hita-caurasi-passim)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._

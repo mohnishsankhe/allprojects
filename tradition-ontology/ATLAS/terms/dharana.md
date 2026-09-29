@@ -32,4 +32,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:8.12 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U07-puranas, skeleton:U10-yoga, skeleton:U28-hatha-texts, extraction:bhagavad-gita/ch07-09, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U17-pasupata-kapalika, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism, skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U10-yoga, skeleton:U28-hatha-texts, extraction:bhagavad-gita/ch07-09, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U17-pasupata-kapalika, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism, skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._

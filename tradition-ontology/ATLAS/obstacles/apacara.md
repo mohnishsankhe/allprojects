@@ -10,4 +10,4 @@ Faults of conduct in the Lord's presence and in worship, listed in Vaiṣṇava 
 **Antidotes:** [Prāyaścitta (expiation)](../practices/prayascitta.md)
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._

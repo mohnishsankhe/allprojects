@@ -19,4 +19,4 @@
 **Related:** [bāhyakaraṇa](bahyakarana.md), [karaṇa](karana.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U13-advaita, skeleton:U22-tamil-siddha, skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U13-advaita, skeleton:U22-tamil-siddha, skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._

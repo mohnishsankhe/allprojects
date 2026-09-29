@@ -10,4 +10,4 @@
 Drikung master and treasure revealer (16th–17th c.) who joined Drikung Mahāmudrā with Dzogchen (the Drikung Yangzab).
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

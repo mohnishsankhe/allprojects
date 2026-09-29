@@ -17,4 +17,4 @@ Founder of the Pratyabhijñā philosophy with the Śivadṛṣṭi; he traced hi
 **Realization — the tradition's account:** Heir of a line of siddhas born of the mind of Durvāsas, descended through the fifteenth who married, whose son came to Kashmir.
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._

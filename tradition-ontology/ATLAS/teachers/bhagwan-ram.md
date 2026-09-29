@@ -12,4 +12,4 @@
 Aghora teacher of Varanasi who founded the Śrī Sarveśvarī Samūh (1961) and a leprosy service ashram, taught Aghora as naturalness, service and the rejection of caste and social evils, and travelled abroad; he died in 1992.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._

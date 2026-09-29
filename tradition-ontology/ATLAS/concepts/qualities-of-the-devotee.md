@@ -23,4 +23,4 @@ _Notes: Chs. 10–12 contribution, combining extractor A's cpt:priya-bhakta-laks
 
 - 2026-09-29 text: corrected — tea:bhagavad-gita:12.13, tea:bhagavad-gita:12.14, tea:bhagavad-gita:12.15, tea:bhagavad-gita:12.16, tea:bhagavad-gita:12.17, tea:bhagavad-gita:12.18, tea:bhagavad-gita:12.19, tea:bhagavad-gita:12.20, tea:bhagavad-gita:11.55, tea:bhagavad-gita:12.13-14, tea:bhagavad-gita:12.18-19 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 
-_Contributed by: extraction:bhagavad-gita/ch10-12, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:bhagavad-gita/ch10-12, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:04 IST._

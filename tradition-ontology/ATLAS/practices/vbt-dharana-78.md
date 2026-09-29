@@ -15,4 +15,4 @@ One should not put the mind in pain, nor in pleasure; O Bhairavī, let it be kno
 _Notes: Verses 103 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._

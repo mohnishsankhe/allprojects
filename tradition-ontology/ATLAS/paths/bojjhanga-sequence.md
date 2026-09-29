@@ -23,4 +23,4 @@ The order and the dependence of each factor on the previous is the text's own (m
 
 - 2026-09-29 text: partially-confirmed — tea:anapanasati-sutta:mn118:35, tea:anapanasati-sutta:mn118:42, tea:anapanasati-sutta:thesis — Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line.
 
-_Contributed by: extraction:anapanasati-sutta/all, skeleton:U51-path-maps. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:anapanasati-sutta/all, skeleton:U51-path-maps. Generated 2026-09-29 22:04 IST._

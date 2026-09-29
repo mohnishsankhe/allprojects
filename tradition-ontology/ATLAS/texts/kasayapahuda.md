@@ -26,8 +26,8 @@ The work declares its source: in the fifth Pūrva, in its tenth section (vastu),
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation, teacher-transmission_
 
-terms: [kaṣāya](../terms/kasaya.md), [pūrva](../terms/purva.md) · concepts: [The fourteen Pūrvas](../concepts/fourteen-purvas.md), [The loss of the canon (Digambara account)](../concepts/loss-of-scripture-digambara.md) · obstacles: [Attachment and aversion (pejja-dosa, rāga-dveṣa)](../obstacles/pejja-dosa.md), [The four passions (kaṣāya)](../obstacles/four-kasayas.md) · teachers: [Guṇadhara](../teachers/gunadhara.md)
+terms: [kaṣāya](../terms/kasaya.md), [pūrva](../terms/purva.md) · concepts: [The fourteen Pūrvas](../concepts/fourteen-purvas.md), [The loss of the canon (Digambara account)](../concepts/loss-of-scripture-digambara.md) · obstacles: [Attachment and aversion (pejja-dosa, rāga-dveṣa)](../obstacles/pejja-dosa.md), [The four passions (krodha, māna, māyā, lobha) with their four varieties](../obstacles/four-kasayas.md) · teachers: [Guṇadhara](../teachers/gunadhara.md)
 
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

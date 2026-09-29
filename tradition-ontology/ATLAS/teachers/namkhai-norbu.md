@@ -9,4 +9,4 @@
 Dzogchen master and scholar who taught Dzogchen internationally (the Dzogchen Community) and wrote on Bön and Zhang Zhung history.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._

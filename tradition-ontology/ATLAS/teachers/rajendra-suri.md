@@ -8,4 +8,4 @@
 Mūrtipūjaka reformer (1827–1906), reviver of the Tristuti Gaccha and compiler of the Abhidhāna Rājendra, a Prakrit–Sanskrit encyclopedia of the canon.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

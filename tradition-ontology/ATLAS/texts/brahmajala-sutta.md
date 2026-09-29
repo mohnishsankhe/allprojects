@@ -191,4 +191,4 @@ terms: [tathāgata](../terms/tathagata.md), [bhāva](../terms/bhava.md) · conce
 _Notes: SuttaCentral uid dn1; Mahāsaṅgīti title 'Brahmajālasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

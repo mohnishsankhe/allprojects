@@ -18,4 +18,4 @@ The dharma of lay Śaiva devotees: liṅga worship, gifts to Śaiva ascetics, vo
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:Muktabodha:shivadharma__M00209, catalog:Muktabodha:shivadharmashAstra__M00211, local:sources_raw/raw_etexts/purANam/mAdhva-app/kUrma-purANam.md 1.1.18, https://www.researchgate.net/publication/311857302_Sivadharma_Manuscripts_from_Nepal_and_the_Making_of_a_Saiva_Corpus — Extant and digitized (local Muktabodha e-texts M00209-M00211: Śivadharma, Śivadharmaśāstra, 'nandiprokta'). KūP 1.1.18 'śivadharmākhyaṃ sākṣān nandīśabhāṣitam' confirmed. Web: the earlier works of the Śivadharma corpus possibly from c. the 6th c.; Nepalese (also Kashmiri, Bengali, South Indian) transmission.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._

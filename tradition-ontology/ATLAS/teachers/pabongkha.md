@@ -12,4 +12,4 @@
 Influential 20th-c. Gelug teacher whose 1921 lamrim teaching became Liberation in the Palm of Your Hand; his exclusive devotion to a protector deity is controversial within the Gelug.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._

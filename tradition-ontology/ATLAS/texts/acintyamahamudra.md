@@ -78,4 +78,4 @@ terms: [prabhāsvara](../terms/prabhasvara.md), [rig pa](../terms/rigpa.md) · c
 _Notes: Tōh 2305. Only the first sections were read in detail._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

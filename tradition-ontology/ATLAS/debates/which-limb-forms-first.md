@@ -22,4 +22,4 @@ Dhanvantari, approved by Ātreya: all limbs form at once, since all things are m
 _Notes: Suśruta has a parallel list of opinions (Śā 3) — recalled, not checked._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

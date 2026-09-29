@@ -21,4 +21,4 @@ Caraka and Vāgbhaṭa: the doṣas are three; blood is among the seven dhātus 
 **Explanation:** In the surgical standpoint blood is counted with the doṣas because it is vitiated and let out; in the internal-medicine standpoint it is a dhātu vitiated only through the doṣas — as Suśruta also says.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

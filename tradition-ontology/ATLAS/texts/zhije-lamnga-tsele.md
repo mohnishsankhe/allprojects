@@ -32,4 +32,4 @@ concepts: [Pacification of suffering (zhi byed)](../concepts/shije-pacification.
 
 - 2026-09-29 catalog: confirmed — catalog:OpenPecha:P000270 "… grub thob dam pa sangs rgyas nas brgyud pa'i dam chos sdug bsngal zhi byed kyi lam lnga'i khrid yig" (author field: rtse le sna tshogs rang grol) — catalogue hit proves a digitized edition exists, not author or date
 
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._

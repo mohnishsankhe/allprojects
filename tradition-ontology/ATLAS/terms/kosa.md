@@ -12,7 +12,7 @@
 - Tamil: kōcam கோசம் — exact
 
 ## Equivalents (interpretation layer)
-**Related:** [annamaya (annarasamaya)](annamaya.md), [prāṇamaya](pranamaya.md), [manomaya](manomaya.md), [vijñānamaya](vijnanamaya.md), [ānandamaya](anandamaya.md)
+**Related:** [annamaya](annamaya.md), [prāṇamaya](pranamaya.md), [manomaya](manomaya.md), [vijñānamaya](vijnanamaya.md), [ānandamaya](anandamaya.md)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._

@@ -15,4 +15,4 @@
 _Notes: Disambiguated from trm:vibhava (Pāñcarātra 'vibhava', the Lord's descents); U16's aesthetic use of trm:vibhava belongs here._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._

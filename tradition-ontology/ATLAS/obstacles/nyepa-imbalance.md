@@ -14,4 +14,4 @@ Increase, decrease or disturbance of rlung, mkhris pa or bad kan — alone, in p
   - [The Explanatory Tantra (bshad rgyud) of the Four Tantras](../texts/gyushi-shegyu.md) — ref: 8; rests_on: ["tea:gyushi-shegyu:8"]
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._

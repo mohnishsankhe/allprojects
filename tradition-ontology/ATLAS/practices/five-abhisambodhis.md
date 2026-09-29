@@ -13,4 +13,4 @@ Yoga-tantra generation: penetrating one's own mind (OṂ cittaprativedhaṃ karo
 **Sequences:** [The path of the two stages (Indian Vajrayāna)](../paths/vajrayana-two-stages.md)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._

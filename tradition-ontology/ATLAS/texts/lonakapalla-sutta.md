@@ -31,4 +31,4 @@ terms: [kamma](../terms/kamma.md), [vipāka](../terms/vipaka.md) · concepts: [T
 _Notes: SuttaCentral uid an3.100; Mahāsaṅgīti title 'Loṇakapallasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

@@ -15,4 +15,4 @@
 Dhanika's commentary on his brother Dhanañjaya's Daśarūpaka, arguing that rasa is apprehended through the sentence's purport (tātparya) and not by a separate power of suggestion.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._

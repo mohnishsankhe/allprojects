@@ -31,4 +31,4 @@ terms: [saddhā](../terms/saddha.md) · concepts: [How a teacher is to be tested
 _Notes: SuttaCentral uid mn47; Mahāsaṅgīti title 'Vīmaṁsakasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

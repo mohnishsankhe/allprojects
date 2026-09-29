@@ -15,4 +15,4 @@
 - causes → [Mixture of the varṇas (varṇa-saṅkara)](varnasankara.md): their loss leads to varṇa-mixture (Arjuna's argument) — rests on [1.40](../texts/bhagavad-gita.md#tea-bhagavad-gita-1-40), [1.41](../texts/bhagavad-gita.md#tea-bhagavad-gita-1-41)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 22:04 IST._

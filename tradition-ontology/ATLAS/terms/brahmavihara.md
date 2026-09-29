@@ -13,7 +13,7 @@
 - Sanskrit: brahmavihāra  — exact
 
 ## Equivalents (interpretation layer)
-**Related:** [mettā](metta.md), [karuṇā](karuna.md), [muditā](mudita.md), [upekkhā](upekkha.md), [appamaññā](appamanna.md)
+**Related:** [mettā](metta.md), [kāruṇya](karuna.md), [muditā](mudita.md), [upekkhā](upekkha.md), [appamaññā](appamanna.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._

@@ -18,4 +18,4 @@
 **Related:** [sammādiṭṭhi](samma-ditthi.md), [sassatavāda](sassatavada.md), [ucchedavāda](ucchedavada.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._

@@ -36,4 +36,4 @@ concepts: [The relation of Pūrva and Uttara Mīmāṃsā](../concepts/purva-utt
 
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:04 IST._

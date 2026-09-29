@@ -80,4 +80,4 @@ obstacles: [The eight worldly concerns](../obstacles/eight-worldly-concerns.md) 
 
 - 2026-09-29 catalog: confirmed — catalog:OpenPecha:P000062 "pha dam pa sangs rgyas kyi 'da' ka zhal chems ding ri brgya rtsa ma" (author field: pha dam pa sangs rgyas) — catalogue hit proves a digitized edition exists, not author or date
 
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._

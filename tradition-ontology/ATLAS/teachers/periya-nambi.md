@@ -12,4 +12,4 @@
 Disciple of Yāmuna who gave Rāmānuja the five sacraments (pañcasaṃskāra) at Madhurāntakam; the tradition says he was blinded and died under the Cōḻa persecution.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:04 IST._

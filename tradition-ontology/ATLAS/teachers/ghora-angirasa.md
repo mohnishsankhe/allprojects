@@ -13,4 +13,4 @@ Teacher who taught Kṛṣṇa, son of Devakī, the doctrine of the person as sa
 
 - 2026-09-29 text-locate+websearch: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239031.html — Located: ChU 3.17.6 ('ghora āṅgirasaḥ kṛṣṇāya devakīputrāyoktvovāca').
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._

@@ -9,4 +9,4 @@
 Chinese master who came to Japan (1246) and founded Kenchōji in Kamakura, introducing strict Song-style monastic Zen.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._

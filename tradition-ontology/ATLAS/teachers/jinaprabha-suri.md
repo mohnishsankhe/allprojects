@@ -12,4 +12,4 @@
 Kharatara Gaccha ācārya, author of the Vividhatīrthakalpa and of works on the Sūrimantra; the tradition tells of his wonders at the court of Muhammad bin Tughluq.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

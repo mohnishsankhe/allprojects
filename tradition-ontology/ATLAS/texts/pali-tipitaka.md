@@ -20,4 +20,4 @@ The three 'baskets' of the Theravāda canon — Vinaya (monastic discipline), Su
 _Notes: The Fifth Council (Mandalay 1871, under King Mindon) inscribed the Tipiṭaka on 729 marble slabs at the Kuthodaw Pagoda; the Sixth Council (Yangon 1954–56) produced the Chaṭṭha Saṅgāyana text on which the Mahāsaṅgīti edition is based (recent events; recorded as metadata)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

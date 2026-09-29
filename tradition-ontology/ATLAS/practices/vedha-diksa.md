@@ -14,4 +14,4 @@ The rarest initiation, in which the guru's power pierces the disciple's centres;
 - It is not to be given to anyone at all; such a guru and such a disciple are both rare. — [Kulārṇava Tantra](../texts/kularnava-tantra.md) 14.66
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:04 IST._

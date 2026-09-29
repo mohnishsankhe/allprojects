@@ -14,4 +14,4 @@
 Author of the Abhidhammatthasaṅgaha, the Nāmarūpapariccheda and (perhaps) the Paramatthavinicchaya.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._

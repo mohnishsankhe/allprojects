@@ -16,4 +16,4 @@ Repeating the Rāma mantra received at initiation (Rāmānandī: the six-syllabl
 - partial: [Repetition of the divine name on beads (nāma-japa)](nama-japa.md) — the same practice with Rāma's name/mantra
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._

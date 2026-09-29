@@ -14,4 +14,4 @@ South Indian (Cola country) teacher of the Krama (Mahārtha) around 1300, discip
 _Notes: Teacher's name Mahāprakāśa and alias Gorakṣa from memory (low)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._

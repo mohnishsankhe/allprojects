@@ -11,4 +11,4 @@ Domestic worship of Śiva, Viṣṇu, Devī, Sūrya and Gaṇeśa (one at the ce
 _Notes: Tradition's account; the attribution to Śaṅkara is not supported by his accepted works._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._

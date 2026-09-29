@@ -17,4 +17,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/sutra/apastamba-dharmasutra.md (GRETIL), text:so — MDh 6.87 ('brahmacārī gṛhasthaś ca vānaprastho yatis tathā') and 6.88–90 were found. ĀpDh 2.9.21.1 names the four as gārhasthya, ācāryakula, mauna and vānaprasthya, which fits the member 'saṃnyāsa (maunam, parivrājya)'. GDh 3.1 and VDh 7.1–3 were also found. Rests on teaching checks confirmed in this sweep: tea:manusmrti:6.87-90, tea:apastamba-dharmasutra:2.9.21.1-2, tea:gautama-dharmasutra:3.1-3, tea:vasistha-dharmasutra:7.1-3.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

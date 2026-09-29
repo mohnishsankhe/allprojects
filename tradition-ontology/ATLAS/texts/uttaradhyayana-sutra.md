@@ -86,7 +86,7 @@ Though a man should conquer thousands upon thousands of valiant foes in battle, 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice, ethics_
 
-terms: [jina](../terms/jina.md), [kaṣāya](../terms/kasaya.md) · obstacles: [The four passions (kaṣāya)](../obstacles/four-kasayas.md)
+terms: [jina](../terms/jina.md), [kaṣāya](../terms/kasaya.md) · obstacles: [The four passions (krodha, māna, māyā, lobha) with their four varieties](../obstacles/four-kasayas.md)
 
 ### 9.44 <a id="tea-uttaradhyayana-sutra-9-44"></a>
 `skeleton` · confidence high
@@ -258,7 +258,7 @@ The eight kinds of karma: knowledge-obscuring, perception-obscuring, feeling-pro
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
 
-terms: [karma](../terms/karma.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md)
+terms: [karma](../terms/karma.md) · concepts: [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md)
 
 ### 34 <a id="tea-uttaradhyayana-sutra-34"></a>
 `skeleton` · confidence high
@@ -280,4 +280,4 @@ terms: [siddha](../terms/siddha.md), [siddhaśilā](../terms/siddhasila.md) · c
 
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 22:04 IST._

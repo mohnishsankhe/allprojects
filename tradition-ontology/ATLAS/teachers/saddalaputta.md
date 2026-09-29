@@ -8,4 +8,4 @@
 A wealthy Ājīvika potter of Polāsapura, lay follower of Gosāla, who became a follower of Mahāvīra after being asked who makes his pots (Uvāsagadasāo 7).
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:04 IST._

@@ -56,8 +56,8 @@ Through association with the five sheaths the pure self appears as though made o
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: beginner · types: body-layers_
 
-terms: [upādhi](../terms/upadhi.md) · concepts: [The five sheaths (pañca-kośa)](../concepts/five-sheaths.md), [Crystal and red flower](../concepts/crystal-and-flower.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md)
+terms: [upādhi](../terms/upadhi.md) · concepts: [The five sheaths (pañca-kośa) as defined in Taittirīya Upaniṣad 2.1-2.5](../concepts/five-sheaths.md), [Crystal and red flower](../concepts/crystal-and-flower.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md)
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._

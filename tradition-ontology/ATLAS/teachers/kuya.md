@@ -11,4 +11,4 @@
 Wandering holy man (hijiri) who recited Amida's name in the streets and markets of Kyoto, dug wells, built bridges and buried the unclaimed dead; the statue at Rokuharamitsu-ji shows six small Amidas issuing from his mouth. Ippen took him as his model ('casting off').
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._

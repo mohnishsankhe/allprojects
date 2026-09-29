@@ -13,4 +13,4 @@ Recollecting the qualities of nibbāna — the disillusionment of vanity, elimin
   - [Visuddhimagga](../texts/visuddhimagga.md) — ref: VIII; rests_on: ["tea:visuddhimagga:8/8"]
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._

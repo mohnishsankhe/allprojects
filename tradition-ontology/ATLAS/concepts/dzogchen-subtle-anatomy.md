@@ -13,4 +13,4 @@
 - contrasts-with → [Channels, winds and essences in Anuyoga](vajra-body-anuyoga.md): Dzogchen's anatomy of wisdom differs from the completion stage's channels, winds and drops
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._

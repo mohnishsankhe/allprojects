@@ -10,4 +10,4 @@
 Disciple of Lalon and composer of Bāul songs; wrote a verse life of Lalon (low confidence).
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._

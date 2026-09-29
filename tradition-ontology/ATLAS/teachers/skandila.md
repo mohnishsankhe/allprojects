@@ -9,4 +9,4 @@
 Presided over the council (vācanā) at Mathurā (c. 827–840 years after the nirvāṇa) that restored the canon after a famine; the 'Māthurī' recension.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

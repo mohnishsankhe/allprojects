@@ -18,4 +18,4 @@ Summary: the transference of one's consciousness into a dead body, which it revi
 - analogous: [Entering another body (parapura-praveśa)](parakaya-pravesa.md) — the Hindu yogic power of entering another body (the Śaṅkara legend, YS 3.38); the Kagyu presents it as a transference practice for others' benefit
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

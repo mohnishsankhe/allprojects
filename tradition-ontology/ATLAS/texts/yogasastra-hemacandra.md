@@ -88,7 +88,7 @@ To strengthen meditation one should cultivate friendliness — 'may no one do ev
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice, ethics_
 
-terms: [maitrī](../terms/maitri.md), [pramoda](../terms/pramoda.md), [karuṇā](../terms/karuna.md), [mādhyasthya](../terms/madhyasthya.md) · concepts: [Friendliness, joy, compassion and impartiality](../concepts/four-bhavanas-maitri.md) · practices: [The four attitudes (maitrī, pramoda, kāruṇya, mādhyasthya)](../practices/maitri-adi-bhavana.md) · teachers: [Hemacandra](../teachers/hemacandra.md)
+terms: [maitrī](../terms/maitri.md), [pramoda](../terms/pramoda.md), [kāruṇya](../terms/karuna.md), [mādhyasthya](../terms/madhyasthya.md) · concepts: [Friendliness, joy, compassion and impartiality](../concepts/four-bhavanas-maitri.md) · practices: [The four attitudes (maitrī, pramoda, kāruṇya, mādhyasthya)](../practices/maitri-adi-bhavana.md) · teachers: [Hemacandra](../teachers/hemacandra.md)
 
 ### 4.124-134 <a id="tea-yogasastra-hemacandra-4-124-134"></a>
 `skeleton` · confidence moderate
@@ -218,4 +218,4 @@ terms: [audāsīnya](../terms/audasinya.md), [unmanībhāva](../terms/unmanibhav
 
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

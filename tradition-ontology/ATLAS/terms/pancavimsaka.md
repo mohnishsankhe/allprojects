@@ -16,4 +16,4 @@
 **Related:** [ṣaḍviṃśaka](sadvimsaka.md), [budhyamāna](budhyamana.md), [puruṣa](purusa.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._

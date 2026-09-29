@@ -31,4 +31,4 @@ concepts: [The eight great chariots of practice lineages](../concepts/eight-char
 _Notes: Volume counts differ by edition (commonly 12 or 18); not recorded._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._

@@ -39,4 +39,4 @@ terms: [kaivalya](../terms/kaivalya.md), [maṅgaḷāśāsana](../terms/mangala
 _Notes: Distinct from the Śaiva Tiruppallāṇṭu of Cēntaṉār (src:tiruppallantu, U18)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:04 IST._

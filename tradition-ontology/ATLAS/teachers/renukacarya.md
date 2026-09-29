@@ -17,4 +17,4 @@ The first of the five ācāryas: the gaṇa Reṇuka who, cursed for leaping ove
 _Notes: Seat: Vīra-siṃhāsana at Rambhāpurī (low confidence on the siṃhāsana name)._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._

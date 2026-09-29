@@ -35,4 +35,4 @@ concepts: [Methods as means (prakriyā principle)](../concepts/prakriya-principl
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._

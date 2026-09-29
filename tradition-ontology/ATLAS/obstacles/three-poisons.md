@@ -18,4 +18,4 @@ Desire, anger and ignorance, the roots of the three lower realms; in the nine-ro
   - [Karṇatantravajrapada (the Vajra Verses of the Whispered Lineage)](../texts/karnatantravajrapada.md) — ref: 303a.7; rests_on: ["tea:karnatantravajrapada:303a.7"]
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon, skeleton:U38-early-schools, skeleton:U44-indian-vajrayana, skeleton:U48-jonang-chod-medicine-rime, skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U45-nyingma-bon, skeleton:U38-early-schools, skeleton:U44-indian-vajrayana, skeleton:U48-jonang-chod-medicine-rime, skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

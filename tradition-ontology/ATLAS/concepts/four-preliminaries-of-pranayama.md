@@ -15,4 +15,4 @@
 - part-of → [The seven means of the yoga of the pot (Gheraṇḍa)](ghatastha-seven-sadhanas.md): Preliminaries of prāṇāyāma, the fifth of the Gheraṇḍa's seven means. — rests on [5.1-2](../texts/gheranda-samhita.md#tea-gheranda-samhita-5-1-2), [1.9-11](../texts/gheranda-samhita.md#tea-gheranda-samhita-1-9-11)
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._

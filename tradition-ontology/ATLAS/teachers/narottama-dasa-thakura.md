@@ -11,4 +11,4 @@
 Second-generation leader from Kheturi whose Bengali songs (Prema-bhakti-candrikā, Prārthanā) shaped Gauḍīya practice; organiser of the Kheturi festival that unified the Bengal community.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._

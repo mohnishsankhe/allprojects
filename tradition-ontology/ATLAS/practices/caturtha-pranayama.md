@@ -16,4 +16,4 @@ A breath-stilling that goes beyond the external and internal spheres, reached gr
 _Notes: Marked restricted as a form of breath suspension; no method given._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 22:04 IST._

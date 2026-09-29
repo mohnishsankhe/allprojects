@@ -13,4 +13,4 @@
 - contrasts-with → [The four grades of aspirant](four-grades-of-aspirant.md) — rests on [5.10-14](../texts/siva-samhita.md#tea-siva-samhita-5-10-14)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._

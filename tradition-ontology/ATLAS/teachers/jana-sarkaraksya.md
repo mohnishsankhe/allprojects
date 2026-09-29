@@ -13,4 +13,4 @@ One of the five great householders and great Vedic scholars who asked 'what is o
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — Located: ChU 5.11.1 and 5.15 (space, the 'trunk').
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._

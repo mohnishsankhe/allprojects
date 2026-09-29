@@ -27,4 +27,4 @@ concepts: [Descent of power / grace (śaktipāta)](../concepts/saktipata.md), [S
 
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._

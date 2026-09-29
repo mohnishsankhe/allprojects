@@ -16,4 +16,4 @@
 - contrasts-with → [Puruṣa (the conscious self)](purusa.md): each puruṣa is pure consciousness; plurality is of puruṣas, not of kinds of consciousness — rests on [2.22](../texts/yoga-sutra.md#tea-yoga-sutra-2-22)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga. Generated 2026-09-29 22:04 IST._

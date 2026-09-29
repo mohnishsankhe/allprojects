@@ -32,4 +32,4 @@ The perfection way is itself a complete path to buddhahood over three incalculab
 **The traditions' own objections:** The Vajrayāna holds the mantra way strictly superior, not merely different; the siddhas decline to rank systems at all.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._

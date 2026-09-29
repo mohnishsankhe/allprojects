@@ -13,4 +13,4 @@ The meditation object is prescribed by temperament: the unattractive for the lus
   - [Śrāvakabhūmi](../texts/sravakabhumi.md) — ref: second yogasthāna; rests_on: ["tea:sravakabhumi:2.carita", "tea:sravakabhumi:2.alambana"]
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._

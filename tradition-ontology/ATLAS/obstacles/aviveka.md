@@ -13,4 +13,4 @@ The failure to discriminate puruṣa from prakṛti, cause of their conjunction 
   - [Sāṃkhya Sūtra](../texts/samkhya-sutra.md) — ref: 6.12-17; rests_on: ["tea:samkhya-sutra:6.12-17"]
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:04 IST._

@@ -11,4 +11,4 @@
 Lay practitioner who studied with Shitou and Mazu; 'supernatural power and wondrous function: carrying water and hauling firewood'.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._

@@ -16,4 +16,4 @@
 A royal commentary on the Bījak, 'the destroyer of hypocrisy', which reads Kabīr's critique of outward religion within a Vaiṣṇava Rāma-bhakti frame.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._

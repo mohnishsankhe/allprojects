@@ -14,4 +14,4 @@ Contentment with whatever robes, alms-food and lodging are obtained, and delight
 **Sequences:** [The path in the Abhidharmakośa (Sarvāstivāda-Vaibhāṣika)](../paths/abhidharmakosa-path.md)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._

@@ -16,4 +16,4 @@
 _Notes: The tradition of each side rejects identity: recorded as a question of likeness, not as an equivalence. See dsp:buddha-nature-self-or-emptiness and brw:tathagatagarbha-and-atman._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 22:04 IST._

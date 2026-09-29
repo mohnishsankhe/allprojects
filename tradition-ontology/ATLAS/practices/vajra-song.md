@@ -12,4 +12,4 @@ Spontaneous or traditional vajra songs sung by teachers and practitioners, often
   - [The Hundred Thousand Songs of Milarepa](../texts/milarepa-gurbum.md) — ref: 1; rests_on: ["tea:milarepa-gurbum:1"]
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

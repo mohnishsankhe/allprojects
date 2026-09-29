@@ -25,4 +25,4 @@ Having gathered the prerequisites, one sits in the eight-featured posture, takes
 - partial: [Calm abiding (Kamalaśīla)](samatha-bhavanakrama.md) — Kamalaśīla's presentation, on which the lamrim draws
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._

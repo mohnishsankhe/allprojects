@@ -575,4 +575,4 @@ _Notes: A commentary on it is attributed to Śaṅkara (attribution doubted). Ve
 
 - 2026-09-29 catalog+text-locate+websearch: confirmed — catalog:GRETIL-dev:svetasvatara-upanisad, text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md), text:sources_raw/dcs/dcs/data/conllu/files/Vājasaneyisaṃhitā (Mādhyandina)/ (VSM 11.1-5 'yuñjānaḥ prathamam manaḥ …'), https://en.wikipedia.org/wiki/Shvetashvatara_U — Confirmed: 6 adhyāyas and 113 verses (16, 17, 21, 22, 14, 23) in the prepared text. The seer's name is at 6.21, and the commentary attributed to Śaṅkara is in the Advaita-Śāradā files. Wikipedia gives c. 4th–1st c. BCE and notes the doubted Śaṅkara attribution. ŚU 2.1-5 = VSM 11.1-5 is confirmed in the DCS Vājasaneyi Saṃhitā.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._

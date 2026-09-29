@@ -15,4 +15,4 @@
 **Related:** [ṣaṭkarma](satkarma.md), [śāmbhavī (mudrā)](sambhavi.md), [dṛṣṭi](drsti.md)
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._

@@ -9,4 +9,4 @@
 Buddhist emperor (r. 502–549) who, in the tradition's account, asked Bodhidharma about the merit of his temple-building and was told 'no merit'.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._

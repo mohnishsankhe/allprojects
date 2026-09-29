@@ -15,4 +15,4 @@ Seeking or displaying supernatural attainments — entering other bodies, powers
 - same-under-standpoint: [Powers as obstacles in samādhi (upasarga)](siddhis-as-upasarga.md) (powers as distraction)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

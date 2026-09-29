@@ -14,4 +14,4 @@ The tantra of one of Ātreya's six disciples (Ca Sū 1.31-33); lost, known only 
 _Notes: Existence of the tantra is stated by Caraka; that citations survive is recalled, not checked._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

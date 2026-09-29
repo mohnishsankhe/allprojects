@@ -156,4 +156,4 @@ terms: [śūnyatā](../terms/sunyata.md), [anutpāda](../terms/anutpada.md), [kl
 _Notes: Local: catalog:Derge-Tengyur:D3902. Shared id with U40._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._

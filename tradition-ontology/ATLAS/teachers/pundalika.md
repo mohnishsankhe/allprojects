@@ -11,4 +11,4 @@ The devotee of Paṇḍharpūr whose service to his parents brought Kṛṣṇa 
 **Realization — the tradition's account:** Kṛṣṇa himself came to see him because of his devotion to his parents.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._

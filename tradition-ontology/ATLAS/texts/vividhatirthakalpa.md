@@ -14,4 +14,4 @@
 Jinaprabhasūri's 14th-c. collection of accounts of Jain pilgrimage places (Śatruñjaya, Girnār, Mathurā, Pāvā and many others), their legends and their history.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

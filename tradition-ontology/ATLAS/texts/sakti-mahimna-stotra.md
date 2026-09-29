@@ -15,4 +15,4 @@ A hymn on the greatness of Śakti ascribed to Durvāsas.
 _Notes: From memory; check._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._

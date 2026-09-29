@@ -31,4 +31,4 @@ _Notes: Identity with the minister Mādhava is the tradition's; scholars debate 
 - 2026-09-29 websearch: confirmed — https://www.wisdomlib.org/definition/jivanmuktiviveka, https://www.celextel.org/articles-and-summary/jivanmukti-viveka-summary/ — Confirmed: the Jīvanmuktiviveka treats vividiṣā- and vidvat-saṃnyāsa, and vāsanākṣaya, manonāśa and tattvajñāna, drawing on the Saṃnyāsa Upaniṣads and the Yoga Vāsiṣṭha.
 - 2026-09-29 websearch: confirmed — https://www.advaita-vedanta.org/archives/advaita-l/2007-October/019507.html, https://www.vedantahub.org/jivanmukti-viveka/ — The Jīvanmuktiviveka builds its account of vāsanākṣaya and manonāśa on quotations from the (Laghu) Yoga Vāsiṣṭha.
 
-_Contributed by: skeleton:U13-advaita, skeleton:U12-mimamsa, skeleton:U32-jyotisa, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U12-mimamsa, skeleton:U32-jyotisa, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

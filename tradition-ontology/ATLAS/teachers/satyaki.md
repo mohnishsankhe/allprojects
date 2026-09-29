@@ -10,4 +10,4 @@ Pāṇḍava warrior named Yuyudhāna in 1.4 and Sātyaki, 'the unconquered', in
 _Notes: Yuyudhāna = Sātyaki is the epic identification. Linked in BhG ch. 1–3 at 1.4, 1.17._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 22:04 IST._

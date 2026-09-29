@@ -8,4 +8,4 @@
 Pre-Kumārila Mīmāṃsaka whom the Nyāyaratnākara names among those who had made Mīmāṃsā 'Lokāyata' (ŚV pratijñā 10) — by the commentators' account, by denying that obligatory and prohibited acts bear fruit. His work is lost.
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:04 IST._

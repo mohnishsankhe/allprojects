@@ -46,4 +46,4 @@ _none recorded_
 _Notes: Sub-lineage created by U21. Founding year and institutional names as commonly reported; to be sourced._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._

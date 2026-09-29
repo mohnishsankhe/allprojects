@@ -15,4 +15,4 @@ Summary: a gathering of consecrated yogins and yoginīs with offerings, song (ca
 - Open only to those with consecration and pledges ('endowed with sign and pledge'). — [Dohākoṣa-upadeśagīti of Saraha (the 'Queen Dohā')](../texts/dohakosa-queen-saraha.md) v41
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._

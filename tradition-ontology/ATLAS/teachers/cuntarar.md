@@ -14,4 +14,4 @@ Third Tēvāram poet (Tirumuṟai 7); exemplar of the friend's path (sakhā-mār
 **Realization — the tradition's account:** An Ādiśaiva boy of Tirunāvalūr adopted by the chieftain Naracinka Muṉaiyaraiyar; on his wedding day an old brahmin produced a deed showing Cuntarar's grandfather had pledged his line as the brahmin's slaves; followed to Tiruveṇṇeynallūr, the old man vanished into the temple — Śiva himself — and Cuntarar sang 'Pittā' ('Madman!'). Śiva later acted as his messenger to his wife Paravai. With Cēramāṉ Perumāḷ he rode to Kailāsa on a white elephant sent by Śiva.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._

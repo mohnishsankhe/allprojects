@@ -14,4 +14,4 @@ Non-virtue, non-knowledge, passion and powerlessness, the tāmasa form of buddhi
   - [Sāṃkhya Kārikā](../texts/samkhya-karika.md) — ref: 44-45; rests_on: ["tea:samkhya-karika:44", "tea:samkhya-karika:45"]
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:04 IST._

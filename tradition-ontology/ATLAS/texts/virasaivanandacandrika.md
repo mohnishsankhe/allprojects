@@ -14,4 +14,4 @@ A large Sanskrit compendium of Vīraśaiva doctrine and practice that opens by s
   - kind: original; name: Muktabodha digital library e-text M00611 (print 1936)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._

@@ -17,4 +17,4 @@
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:devi-bhagavata-purana:3.3-6, tea:devi-mahatmya:1, tea:devi-mahatmya:1/2, tea:devi-mahatmya:10, tea:devi-mahatmya:11, tea:devi-mahatmya:2-4 — All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._

@@ -16,4 +16,4 @@
 **Related:** [Turīya](turiya.md), [avadhūta](avadhuta.md)
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._

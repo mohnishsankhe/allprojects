@@ -53,4 +53,4 @@ A seventeenth-century lay mystical movement of north-Indian Jains centred on Ban
 _Notes: Owned by U35. Membership of Dyānatrāy, Bhūdhardās and Daulatrām in the movement is by affinity of their Hindi Adhyātma writing (moderate/low confidence); Ṭoḍarmal is normally counted in the Digambara Terāpantha._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

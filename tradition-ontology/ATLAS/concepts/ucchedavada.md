@@ -16,4 +16,4 @@
 - same-as-under-standpoint → [No other world (paraloka-abhāva)](paraloka-denial.md) (causal): the Pali 'annihilation' and the Lokāyata 'no other world' state one position from two sides (death of the person / absence of a world beyond) — rests on [23](../texts/samannaphala-sutta.md#tea-samannaphala-sutta-23), [fr-paraloka](../texts/brhaspati-sutra.md#tea-brhaspati-sutra-fr-paraloka)
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:04 IST._

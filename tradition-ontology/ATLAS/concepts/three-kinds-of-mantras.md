@@ -17,4 +17,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (GRETIL, Sarup ed.) — Nirukta 7.1 has 'tās trividhā ṛcaḥ parokṣakṛtāḥ pratyakṣakṛtā ādhyātmikyaś ca'. Rests on teaching checks confirmed in this sweep: tea:nirukta:7.1.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

@@ -31,4 +31,4 @@ concepts: [The criterion of the Dhamma](../concepts/criterion-of-dhamma.md) · t
 _Notes: SuttaCentral uid an8.53; Mahāsaṅgīti title 'Saṅkhittasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

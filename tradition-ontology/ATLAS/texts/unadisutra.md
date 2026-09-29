@@ -17,4 +17,4 @@ _Notes: Ascribed by some to Śākaṭāyana, by others to Pāṇini or later aut
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Unadi-Sutras — Confirmed: the rules deriving nominal bases with 'uṇ' and following affixes, which validate Śākaṭāyana's view that all nouns come from verbal roots. Authorship is variously ascribed (Śākaṭāyana and others), as the entry's note says.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

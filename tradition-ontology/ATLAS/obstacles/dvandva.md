@@ -30,4 +30,4 @@ _Notes: Chs. 7–9 contribution, combining extractor A's obs:dvandva and extract
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.22, tea:bhagavad-gita:5.3, tea:bhagavad-gita:6.7 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:14.23-25, tea:bhagavad-gita:14.24, tea:bhagavad-gita:14.25, tea:bhagavad-gita:15.5 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06, skeleton:U17-pasupata-kapalika, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06, skeleton:U17-pasupata-kapalika, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 22:04 IST._

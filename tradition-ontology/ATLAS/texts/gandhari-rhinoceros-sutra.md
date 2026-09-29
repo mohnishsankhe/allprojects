@@ -12,4 +12,4 @@
 The Gāndhārī version of the Khaggavisāṇa-sutta (Sutta Nipāta 1.3), 'wander alone like the rhinoceros', edited by Richard Salomon (2000).
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._

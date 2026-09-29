@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The hierarchy of senses, mind, understanding and what is beyond them](senses-mind-intellect-hierarchy.md) (the Nārāyaṇīya): the vyūhas are correlated with jīva, mind and ego in the Nārāyaṇīya — rests on [12.326.38](../texts/narayaniya.md#tea-narayaniya-12-326-38), [12.327.26](../texts/narayaniya.md#tea-narayaniya-12-327-26), [12.332.13-18](../texts/narayaniya.md#tea-narayaniya-12-332-13-18)
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._

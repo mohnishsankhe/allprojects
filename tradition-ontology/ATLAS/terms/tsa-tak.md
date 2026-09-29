@@ -15,4 +15,4 @@
 - partial: [nāḍīparīkṣā](nadi-pariksa.md) — Āyurvedic pulse examination is a later development; the Tibetan system is independent in detail
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._

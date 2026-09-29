@@ -88,4 +88,4 @@ teachers: [Guifeng Zongmi 圭峰宗密](../teachers/zongmi.md) · disputes: [Is 
 _Notes: Zongmi is owned by U54 (Huayan); this entry contributes the Chan side. One of the four texts of the Korean curriculum (Doseo)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._

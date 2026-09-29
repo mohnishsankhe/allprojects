@@ -12,4 +12,4 @@
 Disciple of Ātreya whose tantra was read out to the assembly (Ca Sū 1.31-33); the partly surviving Bhela Saṃhitā bears his name.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

@@ -42,4 +42,4 @@ All three renunciant codes, Vedic included, share the prohibition, which shows i
 _Notes: DN 1 and the Pali texts are owned by U36; the Uttarādhyayana by U34._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._

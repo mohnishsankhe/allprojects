@@ -19,4 +19,4 @@ A qualified guru gives a mantra — chosen and tested for the disciple — to a 
 - partial: [Initiation (dīkṣā) in the Kaula way](diksa.md) — mantra-initiation within the wider initiation rites
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._

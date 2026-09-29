@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [The two truths (satyadvaya)](two-truths.md) (interpretive): the name conventionally, its emptiness ultimately — rests on [13](../texts/vajracchedika.md#tea-vajracchedika-13)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._

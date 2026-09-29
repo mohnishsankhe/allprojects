@@ -17,4 +17,4 @@ Good one-pointedness of mind in four levels, with five, four, five and four fact
 - The attainment of non-perception in the fourth dhyāna is entered by ordinary beings who mistake it for liberation. — [Abhidharmakośa (Abhidharmakośakārikā)](../texts/abhidharmakosa.md) 2.42
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._

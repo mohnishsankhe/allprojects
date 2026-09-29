@@ -20,4 +20,4 @@ A courtesan of Videha whose sudden disenchantment while waiting for clients make
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.168.46-52 — Located as described.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition) — BhP 11.8.22-44 and MBh CE 12.168.46-52.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

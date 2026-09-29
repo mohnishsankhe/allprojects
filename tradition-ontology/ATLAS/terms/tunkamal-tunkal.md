@@ -14,4 +14,4 @@
 - analogous: `trm:yoga-nidra` — both name a sleep-like state with awareness; texts and traditions differ
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._

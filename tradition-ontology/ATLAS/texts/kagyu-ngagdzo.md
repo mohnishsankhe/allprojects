@@ -15,4 +15,4 @@
 Jamgön Kongtrul's collection of the empowerments and practices of the Marpa Kagyu tantric cycles; one of his Five Treasuries.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime, skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime, skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

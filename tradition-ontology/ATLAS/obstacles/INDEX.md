@@ -1,6 +1,6 @@
-# Obstacles (614)
+# Obstacles (617)
 
-skeleton: 539 · sourced: 75
+skeleton: 537 · sourced: 80
 
 - ['I and mine' as māyā](maya-i-and-mine.md) — `skeleton`
 - ['I' and 'mine' (yāṉ, eṉatu)](yan-enatu.md) — `skeleton`
@@ -177,6 +177,7 @@ skeleton: 539 · sourced: 75
 - [Faults the yogin must avoid (Amṛtanāda)](amrtanada-faults.md) — `sourced`
 - [Faulty pronunciation and barbarous speech](faulty-pronunciation.md) — `sourced`
 - [Fear (bhaya)](bhaya.md) — `sourced`
+- [Fear from making a gap (Taittirīya 2.7.1)](bhaya-antara.md) — `sourced`
 - [Fear of Time (death)](kala-bhaya.md) — `skeleton`
 - [Fear on hearing the profound teaching](fear-of-the-profound.md) — `skeleton`
 - [Fever (takman)](takman.md) — `skeleton`
@@ -424,6 +425,7 @@ skeleton: 539 · sourced: 75
 - [The five (wrong) views](five-views.md) — `skeleton`
 - [The five accompaniments of distraction](viksepa-sahabhuva.md) — `skeleton`
 - [The five afflictions (kleśa)](five-klesas.md) — `skeleton`
+- [The five causes of bondage](bandha-hetus-five.md) — `sourced`
 - [The five causes of bondage](five-causes-of-bondage.md) — `skeleton`
 - [The five deadly acts (ānantarya)](five-anantarya-karmas.md) — `skeleton`
 - [The five dwellings of Kali](kali-five-places.md) — `sourced`
@@ -464,7 +466,7 @@ skeleton: 539 · sourced: 75
 - [The four māras of Chöd](four-maras-chod.md) — `skeleton`
 - [The four notions (self, being, soul, person)](four-notions.md) — `skeleton`
 - [The four obstacles to nirvikalpa samādhi](four-obstacles-to-samadhi.md) — `skeleton`
-- [The four passions (kaṣāya)](four-kasayas.md) — `skeleton`
+- [The four passions (krodha, māna, māyā, lobha) with their four varieties](four-kasayas.md) — `sourced`
 - [The four perversions (vipallāsa)](four-vipallasas.md) — `skeleton`
 - [The four perversions (viparyāsa)](four-viparyasas.md) — `skeleton`
 - [The four tāmasa dispositions](tamasa-bhavas.md) — `skeleton`
@@ -487,8 +489,8 @@ skeleton: 539 · sourced: 75
 - [The net of views (diṭṭhijāla)](ditthi-jala.md) — `skeleton`
 - [The nine fetters (Abhidharma list)](nine-samyojanas.md) — `skeleton`
 - [The nine obstacles (antarāya), distractions of mind](nine-antarayas.md) — `skeleton`
-- [The nine quasi-passions (nokaṣāya)](nine-nokasayas.md) — `skeleton`
 - [The ninety-eight latent defilements (anuśaya)](ninety-eight-anusayas.md) — `skeleton`
+- [The non-passions (akaṣāya/nokaṣāya): nine](nine-nokasayas.md) — `sourced`
 - [The obscurations of afflictions and of the knowable](two-obscurations.md) — `skeleton`
 - [The obstacles at the start of practice (Dattātreyayogaśāstra)](dys-obstacles.md) — `skeleton`
 - [The obstacles to samādhi in the Aparokṣānubhūti](aparoksanubhuti-samadhi-obstacles.md) — `skeleton`
@@ -574,6 +576,7 @@ skeleton: 539 · sourced: 75
 - [The two nooses of dharma and adharma](dharma-adharma-pasa.md) — `skeleton`
 - [The unbearable offence (asahya-apacāra)](asahya-apacara.md) — `skeleton`
 - [The unruly mind](man-sant.md) — `skeleton`
+- [The unyoked mind (ayukta manas)](ayukta-manas.md) — `sourced`
 - [The upasargas of the Mārkaṇḍeya](upasargas-markandeya.md) — `sourced`
 - [The urges to be restrained](dharaniya-vegas.md) — `skeleton`
 - [The view of annihilation (uccheda-diṭṭhi)](uccheda-ditthi.md) — `skeleton`

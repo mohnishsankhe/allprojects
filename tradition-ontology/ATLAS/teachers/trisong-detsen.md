@@ -10,4 +10,4 @@
 Tibetan emperor (reigned c. 755-797) who invited Śāntarakṣita, Padmasambhava and Vimalamitra, founded Samye and made Buddhism the state religion; for the Nyingma an emanation of Mañjuśrī and a principal disciple and treasure recipient of Padmasambhava.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._

@@ -9,4 +9,4 @@
 The smith of Pāvā who served the Buddha his last meal (DN 16); the teaching on purity of AN 10.176 was given to a Cunda the smith of Pāvā.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

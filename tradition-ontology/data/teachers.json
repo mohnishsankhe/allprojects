@@ -9007,7 +9007,29 @@
    "lin:tiantai",
    "lin:chan"
   ],
-  "summary": "The bodhisattva of compassion: in Lotus ch. 25 he rescues all who call his name from fire, water, bandits and bondage and takes whatever form will teach them (33 forms); he speaks the Heart Sūtra; in the Kāraṇḍavyūha he empties the hells and gives the six-syllable mantra; attendant of Amitābha in Sukhāvatī; in the Gaṇḍavyūha a spiritual friend on Mount Potalaka; in the Śūraṅgama his penetration through hearing is chosen as best. Guanyin, Kannon, Chenrezig.",
+  "summary": "The bodhisattva who, coursing in the deep perfection of wisdom, sees the five aggregates as empty and speaks the teaching to Śāriputra (Heart Sūtra 2.2-2.8).",
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "src:prajnaparamita-hrdaya"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "alt_summary": [
+   "The bodhisattva of compassion: in Lotus ch. 25 he rescues all who call his name from fire, water, bandits and bondage and takes whatever form will teach them (33 forms); he speaks the Heart Sūtra; in the Kāraṇḍavyūha he empties the hells and gives the six-syllable mantra; attendant of Amitābha in Sukhāvatī; in the Gaṇḍavyūha a spiritual friend on Mount Potalaka; in the Śūraṅgama his penetration through hearing is chosen as best. Guanyin, Kannon, Chenrezig."
+  ],
   "alt_names": [
    "Guanshiyin / Guanyin 觀世音",
    "Guanzizai 觀自在",
@@ -9030,17 +9052,13 @@
   "coverage": [
    "B4"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:prajnaparamita-hrdaya/all",
     "skeleton:U39-mahayana-sutras"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -14979,26 +14997,23 @@
    "lin:jyotisa",
    "lin:nadi-jyotisa"
   ],
-  "teachers": [
-   "tch:varuna",
-   "tch:vikhanas",
-   "tch:manu-svayambhuva"
-  ],
-  "historicity": "mythic",
-  "gender": "male",
-  "summary": "Son of Varuṇa who asks his father to teach him brahman and, by repeated tapas, realizes in turn that food, breath, mind, understanding and bliss are brahman (TU 3.1-6: 'the knowledge of Bhṛgu and Varuṇa').",
-  "notes": "Contribution of lin:upanisadic; other units record the Purāṇic and astrological Bhṛgu.",
-  "coverage": [
-   "A2",
-   "A3",
-   "A1",
-   "A13"
-  ],
+  "summary": "Son and pupil of Varuṇa in Taittirīya 3, who knows brahman successively as food, breath, mind, understanding and bliss.",
   "verification": {
    "level": "sourced",
    "confidence": "high",
-   "unverified": false,
+   "protocol": "insight-p1-single+spot",
    "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "src:taittiriya-upanisad"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    },
     {
      "phase": "D",
      "date": "2026-09-29",
@@ -15072,8 +15087,31 @@
      "note": "Located as described.",
      "by": "sourcing:U05-gita-epic"
     }
-   ]
+   ],
+   "unverified": false
   },
+  "teachers": [
+   "tch:varuna",
+   "tch:vikhanas",
+   "tch:manu-svayambhuva"
+  ],
+  "historicity": "mythic",
+  "gender": "male",
+  "alt_summary": [
+   "Son of Varuṇa who asks his father to teach him brahman and, by repeated tapas, realizes in turn that food, breath, mind, understanding and bliss are brahman (TU 3.1-6: 'the knowledge of Bhṛgu and Varuṇa').",
+   "Disciple of Vikhanas to whom the Vaikhānasa tradition ascribes several adhikāras on temple ritual (Kriyādhikāra, Khilādhikāra, Prakīrṇādhikāra and others).",
+   "Seer who recites Manu's teaching in the Manusmṛti (1.59–60), one of Manu's ten mind-born sons (1.35); as Bhṛgu Vāruṇi, son of Varuṇa, he journeys through the other world in ŚB 11.6.1 and JB 1.42–44 (and learns Brahman in TU 3).",
+   "Ancient seer who answers Bharadvāja on creation, the elements, the self, the varṇas and the āśramas (12.175–185).",
+   "Eponymous ancestor of the Bhārgava priests; with the Aṅgirases the source of the Atharvaveda (Bhṛgvaṅgirasaḥ); in the Ṛgveda the Bhṛgus are among those who brought fire to men.",
+   "Named by the Lord as his manifestation among the great seers (maharṣi) (BhG 10.25)."
+  ],
+  "notes": "Contribution of lin:upanisadic; other units record the Purāṇic and astrological Bhṛgu.",
+  "coverage": [
+   "A2",
+   "A3",
+   "A1",
+   "A13"
+  ],
   "works": [
    {
     "source": "src:kriyadhikara",
@@ -15107,19 +15145,12 @@
   "alt_notes": [
    "Contribution from U08 (Vaikhānasa role)."
   ],
-  "alt_summary": [
-   "Disciple of Vikhanas to whom the Vaikhānasa tradition ascribes several adhikāras on temple ritual (Kriyādhikāra, Khilādhikāra, Prakīrṇādhikāra and others).",
-   "Seer who recites Manu's teaching in the Manusmṛti (1.59–60), one of Manu's ten mind-born sons (1.35); as Bhṛgu Vāruṇi, son of Varuṇa, he journeys through the other world in ŚB 11.6.1 and JB 1.42–44 (and learns Brahman in TU 3).",
-   "Ancient seer who answers Bharadvāja on creation, the elements, the self, the varṇas and the āśramas (12.175–185).",
-   "Eponymous ancestor of the Bhārgava priests; with the Aṅgirases the source of the Atharvaveda (Bhṛgvaṅgirasaḥ); in the Ṛgveda the Bhṛgus are among those who brought fire to men.",
-   "Named by the Lord as his manifestation among the great seers (maharṣi) (BhG 10.25).",
-   "The seer to whom the Bhṛgu Saṃhitā — held to contain the horoscopes of all persons — and the Bhṛgusūtra on house results are ascribed."
-  ],
   "students": [
    "tch:bharadvaja"
   ],
   "provenance": {
    "units": [
+    "extraction:taittiriya-upanisad/kosa",
     "skeleton:U03-principal-upanisads",
     "skeleton:U08-agama-catalogue",
     "skeleton:U02-brahmana-vedanga",
@@ -93846,6 +93877,44 @@
   }
  },
  {
+  "id": "tch:sariputra",
+  "name": "Śāriputra",
+  "lineages": [
+   "lin:mahayana"
+  ],
+  "alt_names": [
+   "Śāriputta (Pali)"
+  ],
+  "summary": "The disciple addressed by Avalokiteśvara in the Heart Sūtra (2.3, 2.4; s4, s6).",
+  "historicity": "unknown",
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "src:prajnaparamita-hrdaya"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:prajnaparamita-hrdaya/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "tch:sariputta",
   "name": "Sāriputta",
   "lineages": [
@@ -115316,25 +115385,28 @@
  },
  {
   "id": "tch:varuna",
-  "name": "Varuṇa (as teacher)",
+  "name": "Varuṇa",
   "lineages": [
    "lin:upanisadic",
    "lin:epic-teaching"
   ],
-  "students": [
-   "tch:bhrgu"
-  ],
-  "historicity": "mythic",
-  "gender": "male",
-  "summary": "The god Varuṇa as father-teacher of Bhṛgu: gives the definition of brahman as that from which beings are born, by which they live and into which they enter, and sends him to seek it by tapas (TU 3.1).",
-  "coverage": [
-   "A2"
-  ],
+  "summary": "Father and teacher of Bhṛgu in Taittirīya 3, who sets him to seek brahman by tapas.",
   "verification": {
    "level": "sourced",
    "confidence": "high",
-   "unverified": false,
+   "protocol": "insight-p1-single+spot",
    "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "src:taittiriya-upanisad"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    },
     {
      "phase": "D",
      "date": "2026-09-29",
@@ -115361,13 +115433,24 @@
      "note": "Located: TU 3.1.1 (the definition 'yato vā imāni bhūtāni jāyante …') and 3.2–3.5.",
      "by": "sourcing:U03-principal-upanisads"
     }
-   ]
+   ],
+   "unverified": false
   },
+  "students": [
+   "tch:bhrgu"
+  ],
+  "historicity": "mythic",
+  "gender": "male",
   "alt_summary": [
+   "The god Varuṇa as father-teacher of Bhṛgu: gives the definition of brahman as that from which beings are born, by which they live and into which they enter, and sends him to seek it by tapas (TU 3.1).",
    "Named by Kṛṣṇa among his manifestations ('of the water-dwellers I am Varuṇa'), and by Arjuna in his praise of the Lord (Bhagavad Gītā 10.29, 11.39)."
+  ],
+  "coverage": [
+   "A2"
   ],
   "provenance": {
    "units": [
+    "extraction:taittiriya-upanisad/kosa",
     "skeleton:U03-principal-upanisads",
     "extraction:bhagavad-gita/ch10-12"
    ],
@@ -119529,7 +119612,7 @@
      "confidence": "moderate"
     },
     "reason": "Web: Viṣṇucitta, author of the Viṣṇucittīya on the Viṣṇu Purāṇa, c. 12th c., pupil of Piḷḷāṉ (a direct disciple of Rāmānuja). The entry had no date ('dating not checked'); a dating is supplied.",
-    "date": "2026-09-29 21:51 IST",
+    "date": "2026-09-29 22:03 IST",
     "by": "sourcing:U07-puranas"
    }
   ],

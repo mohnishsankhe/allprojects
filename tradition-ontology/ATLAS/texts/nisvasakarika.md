@@ -17,4 +17,4 @@ A large South Indian scripture transmitted under the Niśvāsa's name (named amo
 _Notes: Muktabodha describes the Dīkṣottara (M00279) as 'the Dīkṣottara of the Niśvāsakārikā'. sources_raw/raw_etexts/mixed/mukta/muktabodha_metadata.json (Muktabodha catalogue descriptions)_
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._

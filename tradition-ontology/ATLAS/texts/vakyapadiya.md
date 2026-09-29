@@ -340,4 +340,4 @@ teachers: [Vyāḍi](../teachers/vyadi.md), [Patañjali (the grammarian)](../tea
 _Notes: Vākyapadīya numbering follows K. A. Subramania Iyer's edition; W. Rau's edition numbers kāṇḍa 1 differently after about v. 30, so the locator may need conversion. Not present in the local sources_raw mirror at Phase B._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._

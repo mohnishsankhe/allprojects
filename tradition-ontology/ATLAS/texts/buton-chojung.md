@@ -19,4 +19,4 @@ Butön Rinchen Drub's history of the dharma in India and Tibet (1322), with the 
 _Notes: Butön belonged to the Zhalu tradition, often grouped with the Sakya; lineage attribution is a convenience._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._

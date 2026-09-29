@@ -23,4 +23,4 @@ Indian translator in southern China whose versions of the Mahāyānasaṃgraha a
 _Notes: Contribution of U41; U39 and U54 also emit this id._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U39-mahayana-sutras, skeleton:U38-early-schools, skeleton:U09-samkhya. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U39-mahayana-sutras, skeleton:U38-early-schools, skeleton:U09-samkhya. Generated 2026-09-29 22:04 IST._

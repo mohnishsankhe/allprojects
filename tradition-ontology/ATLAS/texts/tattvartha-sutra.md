@@ -20,7 +20,7 @@ The first Sanskrit summa of Jain doctrine: ten chapters of aphorisms covering th
   - kind: original; name: Digambara root text, nikkyjain Jain database (local: sources_raw/prepared/tattvartha-sutra); licence: public domain root text
 **Commentaries on this text:** [Sarvārthasiddhi](sarvarthasiddhi.md), [Tattvārthādhigamabhāṣya](tattvartha-bhasya.md), [Tattvārtharājavārttika](tattvartha-rajavarttika.md), [Tattvārthaślokavārttika](tattvartha-slokavarttika.md), [Tattvārthavṛtti (Śrutasāgara)](tattvartha-vrtti-srutasagara.md)
 
-## Teachings (257: skeleton 257)
+## Teachings (281: skeleton 205, text-verified 76)
 
 ### 1.1 <a id="tea-tattvartha-sutra-1-1"></a>
 `skeleton` · confidence high
@@ -353,81 +353,90 @@ _level: unmarked · standpoint: analytic · path: knowledge · stage: all · typ
 terms: [naya](../terms/naya.md), [naigama](../terms/naigama.md), [saṃgraha-naya](../terms/sangraha-naya.md), [vyavahāra (the third of the seven nayas)](../terms/vyavahara-naya-seven.md), [ṛjusūtra](../terms/rjusutra.md), [śabda-naya](../terms/sabda-naya.md), [samabhirūḍha](../terms/samabhirudha.md), [evambhūta](../terms/evambhuta.md) · concepts: [The doctrine of standpoints (nayavāda)](../concepts/nayavada.md) · teachers: [Umāsvāti](../teachers/umasvati.md) · disputes: [How many standpoints (nayas) are there?](../debates/number-of-nayas.md)
 
 ### 2.1 <a id="tea-tattvartha-sutra-2-1"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-The soul's own states (bhāva) are the subsidential, the destructional, the mixed, the rising and the inherent.
+The states (bhāva) of the soul (jīva) are the subsidential (aupaśamika), the destructional (kṣāyika) and the mixed (miśra); and the rising (audayika) and the inherent (pāriṇāmika). These are the soul's own nature (svatattva).
 
 > aupaśamikakṣāyikau bhāvau miśraśca jīvasya svatattvamaudayikapāriṇāmikau ca
 
-_level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind, karma-liberation_
+_level: conventional · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: [aupaśamika](../terms/aupasamika.md), [kṣāyika](../terms/ksayika.md), [kṣāyopaśamika](../terms/ksayopasamika.md), [audayika](../terms/audayika.md), [pāriṇāmika](../terms/parinamika.md) · concepts: [The five states of the soul (bhāva)](../concepts/five-bhavas.md), [The Jain soul (jīva)](../concepts/jiva-jain.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [bhāva](../terms/bhava.md), [aupaśamika](../terms/aupasamika.md), [kṣāyika](../terms/ksayika.md), [kṣāyopaśamika](../terms/ksayopasamika.md), [audayika](../terms/audayika.md), [pāriṇāmika](../terms/parinamika.md) · concepts: [The five states of the soul (Tattvārtha 2.1-2.7)](../concepts/five-bhavas.md), [The Jain soul (jīva)](../concepts/jiva-jain.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+
+### 2.1-7 <a id="tea-tattvartha-sutra-2-1-7"></a>
+`text-verified` · confidence high
+
+The section on the soul's states (2.1-2.7): five states are named (2.1) with two, nine, eighteen, twenty-one and three divisions (2.2); the subsidential (2.3), destructional (2.4), mixed (2.5), rising (2.6, which includes the four passions) and inherent (2.7) states are then enumerated.
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
+
+concepts: [The five states of the soul (Tattvārtha 2.1-2.7)](../concepts/five-bhavas.md)
 
 ### 2.2 <a id="tea-tattvartha-sutra-2-2"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-They have two, nine, eighteen, twenty-one and three divisions respectively.
+The five states have, respectively, two, nine, eighteen, twenty-one and three divisions.
 
 > dvinavāṣṭādaśaikaviṃśatitribhedā yathākramam
 
-_level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
+_level: conventional · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
 
-concepts: [The five states of the soul (bhāva)](../concepts/five-bhavas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [bhāva](../terms/bhava.md) · concepts: [The five states of the soul (Tattvārtha 2.1-2.7)](../concepts/five-bhavas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 2.3 <a id="tea-tattvartha-sutra-2-3"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-[The subsidential states are] right view and conduct.
+The subsidential state consists of right view (samyaktva) and conduct (cāritra).
 
 > samyaktvacāritre
 
-_level: unmarked · standpoint: analytic · path: knowledge · stage: intermediate · types: karma-liberation_
+_level: conventional · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: [aupaśamika](../terms/aupasamika.md), [samyaktva](../terms/samyaktva.md) · concepts: [The five states of the soul (bhāva)](../concepts/five-bhavas.md), [Right view (samyaktva)](../concepts/samyaktva.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [bhāva](../terms/bhava.md), [aupaśamika](../terms/aupasamika.md), [samyaktva](../terms/samyaktva.md), [cāritra](../terms/caritra.md) · concepts: [The five states of the soul (Tattvārtha 2.1-2.7)](../concepts/five-bhavas.md), [Right view (samyaktva)](../concepts/samyaktva.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 2.4 <a id="tea-tattvartha-sutra-2-4"></a>
-`skeleton` · confidence high
+`text-verified` · confidence moderate
 
-And [the destructional states include] knowledge, perception, giving, gain, enjoyment, repeated enjoyment and energy (besides right view and conduct).
+Knowledge, perception, giving, gain, enjoyment, repeated enjoyment and energy (jñāna, darśana, dāna, lābha, bhoga, upabhoga, vīrya) — and (ca) — are the destructional states.
 
 > jñānadarśanadānalābhabhogopabhogavīryāṇi ca
 
-_level: ultimate · standpoint: substance · path: knowledge · stage: realized · types: karma-liberation, consciousness-mind_
+_level: conventional · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: [kṣāyika](../terms/ksayika.md), [ananta-catuṣṭaya](../terms/ananta-catustaya.md) · concepts: [The five states of the soul (bhāva)](../concepts/five-bhavas.md), [The soul's infinite fourfold (ananta-catuṣṭaya)](../concepts/ananta-catustaya.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [bhāva](../terms/bhava.md), [kṣāyika](../terms/ksayika.md), [ananta-catuṣṭaya](../terms/ananta-catustaya.md) · concepts: [The five states of the soul (Tattvārtha 2.1-2.7)](../concepts/five-bhavas.md), [The soul's infinite fourfold (ananta-catuṣṭaya)](../concepts/ananta-catustaya.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 2.5 <a id="tea-tattvartha-sutra-2-5"></a>
-`skeleton` · confidence high
+`text-verified` · confidence moderate
 
-The mixed states are four kinds of knowledge, three of wrong knowledge, three of perception, five attainments, right view, conduct and restraint-cum-non-restraint.
+The mixed states (of destruction and subsidence) are: four kinds of knowledge (jñāna), three of non-knowledge (ajñāna), three of perception (darśana), five attainments (labdhi), right view (samyaktva), conduct (cāritra) and restraint-with-non-restraint (saṃyamāsaṃyama); by 2.2 they number eighteen.
 
-> jñānājñānadarśana labdhayaścatustritri pañcabhedāḥ samyaktvacāritra saṃyamāsaṃyamāśca
+> jñānājñānadarśana labdhayaś‍catustritri pañcabhedāḥ samyaktvacāritra saṃyamāsaṃyamāś‍ca
 
-_level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
+_level: conventional · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: [kṣāyopaśamika](../terms/ksayopasamika.md) · concepts: [The five states of the soul (bhāva)](../concepts/five-bhavas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [bhāva](../terms/bhava.md), [kṣāyopaśamika](../terms/ksayopasamika.md) · concepts: [The five states of the soul (Tattvārtha 2.1-2.7)](../concepts/five-bhavas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 2.6 <a id="tea-tattvartha-sutra-2-6"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-The rising states are the destinies (4), passions (4), sexes (3), wrong view, ignorance, non-restraint, non-perfection and the soul-colourings (leśyā, 6).
+The rising states (audayika) are: destinies (gati, 4), passions (kaṣāya, 4), sexes (liṅga, 3), wrong view (mithyādarśana), non-knowledge (ajñāna), non-restraint (asaṃyata), non-perfection (asiddha) and the colourings (leśyā, 6); that is twenty-one.
 
-> gatikaṣāyaliṃga-mithyādarśanājñānāsaṃyatāsiddhaleśyāścatuścatustryaikaikaikaika-ṣaḍbhedāḥ
+> gatikaṣāyaliṃga-mithyādarśanājñānāsaṃyatāsiddhaleśyāś‍catuś‍catustryaikaikaikaika-ṣaḍbhedāḥ
 
-_level: conventional · standpoint: mode · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
+_level: conventional · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: [audayika](../terms/audayika.md), [gati](../terms/gati.md), [kaṣāya](../terms/kasaya.md), [mithyātva](../terms/mithyatva.md), [leśyā](../terms/lesya.md) · concepts: [The five states of the soul (bhāva)](../concepts/five-bhavas.md), [The six soul-colourings (leśyā)](../concepts/six-lesyas.md), [The four destinies (gati)](../concepts/four-gatis.md) · obstacles: [The four passions (kaṣāya)](../obstacles/four-kasayas.md), [Wrong view (mithyātva)](../obstacles/mithyatva.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [bhāva](../terms/bhava.md), [audayika](../terms/audayika.md), [kaṣāya](../terms/kasaya.md), [leśyā](../terms/lesya.md), [mithyātva](../terms/mithyatva.md), [gati](../terms/gati.md) · concepts: [The five states of the soul (Tattvārtha 2.1-2.7)](../concepts/five-bhavas.md), [The six soul-colourings (leśyā)](../concepts/six-lesyas.md), [The four destinies (gati)](../concepts/four-gatis.md) · obstacles: [The four passions (krodha, māna, māyā, lobha) with their four varieties](../obstacles/four-kasayas.md), [Wrong view (mithyātva)](../obstacles/mithyatva.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 2.7 <a id="tea-tattvartha-sutra-2-7"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-And [the inherent states are] being a soul, capability [for liberation] and incapability.
+And (ca) the inherent states (pāriṇāmika) are being a soul (jīvatva), capability of liberation (bhavyatva) and incapability of it (abhavyatva).
 
 > jīvabhavyābhavyatvāni ca
 
-_level: ultimate · standpoint: substance · path: knowledge · stage: all · types: consciousness-mind, karma-liberation_
+_level: conventional · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: [pāriṇāmika](../terms/parinamika.md), [jīva](../terms/jiva.md), [bhavya](../terms/bhavya.md), [abhavya](../terms/abhavya.md) · concepts: [The five states of the soul (bhāva)](../concepts/five-bhavas.md), [Capable and incapable souls](../concepts/bhavya-abhavya.md) · teachers: [Umāsvāti](../teachers/umasvati.md) · disputes: [Can every soul eventually be liberated, or are some souls by nature never to be liberated?](../debates/can-every-soul-be-liberated.md)
+terms: [bhāva](../terms/bhava.md), [pāriṇāmika](../terms/parinamika.md), [jīva](../terms/jiva.md), [bhavya](../terms/bhavya.md), [abhavya](../terms/abhavya.md) · concepts: [The five states of the soul (Tattvārtha 2.1-2.7)](../concepts/five-bhavas.md), [Capable and incapable souls](../concepts/bhavya-abhavya.md) · teachers: [Umāsvāti](../teachers/umasvati.md) · disputes: [Can every soul eventually be liberated, or are some souls by nature never to be liberated?](../debates/can-every-soul-be-liberated.md)
 
 ### 2.8 <a id="tea-tattvartha-sutra-2-8"></a>
 `skeleton` · confidence high
@@ -757,7 +766,7 @@ Those born by spontaneous arising, those in their last body (carama-deha) with t
 
 _level: unmarked · standpoint: causal · path: general · stage: all · types: death-dying, karma-liberation_
 
-terms: [āyu-karma](../terms/ayu-karma.md), [carama-śarīra](../terms/carama-sarira.md) · concepts: [Death, lifespan-binding and rebirth in Jainism](../concepts/jain-death-transition.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [āyus](../terms/ayu-karma.md), [carama-śarīra](../terms/carama-sarira.md) · concepts: [Death, lifespan-binding and rebirth in Jainism](../concepts/jain-death-transition.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 3.1 <a id="tea-tattvartha-sutra-3-1"></a>
 `skeleton` · confidence high
@@ -1539,70 +1548,81 @@ _level: unmarked · standpoint: mode (paryayarthika) · path: knowledge · stage
 terms: [pariṇāma](../terms/parinama.md) · concepts: [Substance, quality and mode](../concepts/dravya-guna-paryaya.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 6.1 <a id="tea-tattvartha-sutra-6-1"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-Activity (yoga) is the action of body, speech and mind.
+Activity (yoga) is the action (karma) of body, speech and mind.
 
 > kāya-vāṅmanaḥ karma-yogaḥ
 
-_level: unmarked · standpoint: causal · path: action · stage: all · types: karma-liberation_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
 
-terms: [yoga](../terms/yoga.md) · concepts: [Inflow (āsrava)](../concepts/asrava.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [yoga](../terms/yoga.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 6.2 <a id="tea-tattvartha-sutra-6-2"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-That is inflow (āsrava).
+That (yoga, activity) is inflow (āsrava).
 
 > sa āsravaḥ
 
-_level: unmarked · standpoint: causal · path: action · stage: all · types: karma-liberation_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
 
-terms: [āsrava](../terms/asrava.md), [yoga](../terms/yoga.md) · concepts: [Inflow (āsrava)](../concepts/asrava.md), [The seven (nine) realities (tattva)](../concepts/jain-tattvas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [āsrava](../terms/asrava.md), [yoga](../terms/yoga.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [The seven (nine) realities (tattva)](../concepts/jain-tattvas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 6.3 <a id="tea-tattvartha-sutra-6-3"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-Auspicious [activity] is [the inflow] of merit, inauspicious of demerit.
+Auspicious (śubha) activity is the inflow of merit (puṇya); inauspicious activity is that of demerit (pāpa).
 
 > śubhaḥ puṇyasyāśubhaḥ pāpasya
 
-_level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation, ethics_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation, ethics_
 
-terms: [puṇya](../terms/punya.md), [pāpa](../terms/papa.md) · concepts: [Inflow (āsrava)](../concepts/asrava.md), [Merit and demerit](../concepts/punya-papa.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [āsrava](../terms/asrava.md), [puṇya](../terms/punya.md), [pāpa](../terms/papa.md), [yoga](../terms/yoga.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [Merit and demerit](../concepts/punya-papa.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 6.4 <a id="tea-tattvartha-sutra-6-4"></a>
-`skeleton` · confidence high
+`text-verified` · confidence moderate
 
-[Inflow] of one with passions leads to lasting (sāmparāyika) [bondage], of one without passions to transient (īryāpatha) [bondage].
+The inflow of one with passions (sakaṣāya) is sāmparāyika ("pertaining to saṃparāya", the passage to another life); that of one without passions (akaṣāya) is īryāpatha ("of the path of movement").
 
 > sakaṣāyākaṣāyayoḥ sāmparāyikeryāpathayoḥ
 
-_level: unmarked · standpoint: causal · path: action · stage: all · types: karma-liberation_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
 
-terms: [sāmparāyika](../terms/samparayika.md), [īryāpatha](../terms/iryapatha.md), [kaṣāya](../terms/kasaya.md) · concepts: [Inflow (āsrava)](../concepts/asrava.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [āsrava](../terms/asrava.md), [kaṣāya](../terms/kasaya.md), [sāmparāyika](../terms/samparayika.md), [īryāpatha](../terms/iryapatha.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md) · obstacles: [The four passions (krodha, māna, māyā, lobha) with their four varieties](../obstacles/four-kasayas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 6.5 <a id="tea-tattvartha-sutra-6-5"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-The divisions of the former are the senses (5), passions (4), non-vows (5) and actions (25).
+The divisions of the former (the sāmparāyika inflow) are five, four, five and twenty-five: the senses (indriya), the passions (kaṣāya), the non-vows (avrata) and the actions (kriyā).
 
 > indriya-kaṣāyāvrata-kriyāḥ paṃca-catuḥ-paṃca-paṃcaviṃśati-saṃkhyāḥ pūrvasya bhedāḥ
 
-_level: unmarked · standpoint: analytic · path: action · stage: all · types: karma-liberation_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
 
-terms: [kaṣāya](../terms/kasaya.md), [avirati](../terms/avirati-jain.md) · concepts: [Inflow (āsrava)](../concepts/asrava.md) · obstacles: [The four passions (kaṣāya)](../obstacles/four-kasayas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [āsrava](../terms/asrava.md), [indriya](../terms/indriya.md), [kaṣāya](../terms/kasaya.md), [avirati](../terms/avirati.md), [kriyā](../terms/kriya.md), [avirati](../terms/avirati-jain.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md) · obstacles: [The four passions (krodha, māna, māyā, lobha) with their four varieties](../obstacles/four-kasayas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 6.6 <a id="tea-tattvartha-sutra-6-6"></a>
-`skeleton` · confidence high
+`text-verified` · confidence moderate
 
-Its differences arise from intensity or mildness, intention or its absence, substratum and energy.
+The differences within it arise from intensity (tīvra) or mildness (manda), doing knowingly or unknowingly (jñāta-ajñāta), the disposition (bhāva), the substratum (adhikaraṇa) and the energy (vīrya).
 
 > tīvra-maṃda-jñātājñāta-bhāvādhikaraṇa-vīrya-viśeṣebhyastadviśeṣaḥ
 
-_level: unmarked · standpoint: causal · path: action · stage: all · types: karma-liberation, ethics_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation, ethics_
 
-concepts: [Inflow (āsrava)](../concepts/asrava.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [āsrava](../terms/asrava.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+
+### 6.7 <a id="tea-tattvartha-sutra-6-7"></a>
+`text-verified` · confidence high
+
+The substratum (adhikaraṇa) is soul (jīva) and non-soul (ajīva).
+
+> adhikaraṇaṃ jīvājīvāḥ
+
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
+
+terms: [āsrava](../terms/asrava.md), [jīva](../terms/jiva.md), [ajīva](../terms/ajiva-jain.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md)
 
 ### 6.7-9 <a id="tea-tattvartha-sutra-6-7-9"></a>
 `skeleton` · confidence high
@@ -1613,84 +1633,119 @@ The substrata [of injury] are souls and non-souls; the first is of 108 kinds (de
 
 _level: unmarked · standpoint: analytic · path: action · stage: all · types: karma-liberation, ethics_
 
-concepts: [Inflow (āsrava)](../concepts/asrava.md), [Non-violence in Jainism](../concepts/ahimsa-jain.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [Non-violence in Jainism](../concepts/ahimsa-jain.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+
+_Superseded by [6.7](tattvartha-sutra.md#tea-tattvartha-sutra-6-7)_
+
+### 6.8 <a id="tea-tattvartha-sutra-6-8"></a>
+`text-verified` · confidence moderate
+
+The first (the soul-substratum) is divided, in order, by three (saṃrambha, samārambha, ārambha: the stages of undertaking), three (yoga: body, speech, mind), three (done, caused, approved: kṛta, kārita, anumata) and four (the passions: kaṣāya), each singly.
+
+> ādyaṃ saṃrambha-samārambhārambhayoga kṛta-kāritānumata-kaṣāya-viśeṣaistristristri-ścatuścaikaśaḥ
+
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
+
+terms: [āsrava](../terms/asrava.md), [kaṣāya](../terms/kasaya.md), [yoga](../terms/yoga.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md) · obstacles: [The four passions (krodha, māna, māyā, lobha) with their four varieties](../obstacles/four-kasayas.md)
+
+### 6.9 <a id="tea-tattvartha-sutra-6-9"></a>
+`text-verified` · confidence moderate
+
+The latter (the non-soul substratum) is divided, in order, by two, four, two and three: formation (nirvartanā), placing (nikṣepa), combining (saṃyoga) and release (nisarga).
+
+> nirvartanā-nikṣepa-saṃyoga-nisargā dvicaturdvi-tribhedāḥ param
+
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
+
+terms: [āsrava](../terms/asrava.md), [ajīva](../terms/ajiva-jain.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md)
 
 ### 6.10 <a id="tea-tattvartha-sutra-6-10"></a>
-`skeleton` · confidence high
+`text-verified` · confidence moderate
 
-Spite, concealment, envy, obstruction, disrespect and slander of knowledge [and perception] cause the knowledge- and perception-obscuring [karmas].
+Spite (pradoṣa), concealment (nihnava), envy (mātsarya), obstruction (antarāya), disrespect (āsādana) and injury (upaghāta) with regard to them (tat: knowledge and perception) are the inflow of the knowledge-obscuring and perception-obscuring karmas (jñāna-āvaraṇa, darśana-āvaraṇa).
 
 > tatpradoṣa-nihnava-mātsaryāntarāyāsādanopaghātā jñāna-darśanāvaraṇayoḥ
 
-_level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation, ethics_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation, ethics_
 
-terms: [jñānāvaraṇīya](../terms/jnanavaraniya.md), [darśanāvaraṇīya](../terms/darsanavaraniya.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [āsrava](../terms/asrava.md), [jñānāvaraṇa](../terms/jnanavaraniya.md), [darśanāvaraṇa](../terms/darsanavaraniya.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 6.11 <a id="tea-tattvartha-sutra-6-11"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-Pain, grief, torment, weeping, killing and lamenting, in oneself, another or both, cause the unpleasant-feeling karma.
+Pain (duḥkha), grief (śoka), torment (tāpa), weeping (ākrandana), killing (vadha) and lamentation (paridevana), in oneself, another or both, are the inflow of unpleasant feeling karma (asadvedya).
 
 > duḥkha-śoka-tāpākrandana-vadha-paridevanānyātma-parobhaya-sthānānyasadvedyasya
 
-_level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation, ethics_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation, ethics_
 
-terms: [vedanīya](../terms/vedaniya.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [āsrava](../terms/asrava.md), [vedanīya](../terms/vedaniya.md), [dukkha](../terms/dukkha.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 6.12 <a id="tea-tattvartha-sutra-6-12"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-Compassion for beings and for vow-holders, giving, restraint with attachment and the like, forbearance and purity cause the pleasant-feeling karma.
+Compassion for living beings and for vow-holders (bhūta-vratī-anukampā), giving (dāna), restraint with attachment and the like (sarāga-saṃyama-ādi-yoga), forbearance (kṣānti) and purity (śauca) are the inflow of pleasant feeling karma (sadvedya).
 
 > bhūta-vratyanukampādāna-sarāga-saṃyamādi-yogaḥ kṣāṃtiḥ śaucamiti sadvedyasya
 
-_level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation, ethics_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation, ethics_
 
-terms: [vedanīya](../terms/vedaniya.md), [dāna](../terms/dana.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [āsrava](../terms/asrava.md), [vedanīya](../terms/vedaniya.md), [dāna](../terms/dana.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 6.13 <a id="tea-tattvartha-sutra-6-13"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-Speaking ill of the omniscient, the scripture, the order, the dharma and the gods causes view-deluding karma.
+Speaking ill (avarṇavāda) of the omniscient one (kevalin), the scripture (śruta), the community (saṅgha), the dharma and the gods is the inflow of view-deluding karma (darśana-moha).
 
 > kevali-śruta-saṃgha-dharmadevāvarṇavādo darśanamohasya
 
-_level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
 
-terms: [darśana-mohanīya](../terms/darsana-mohaniya.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [āsrava](../terms/asrava.md), [mohanīya](../terms/mohaniya.md), [darśana-mohanīya](../terms/darsana-mohaniya.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 6.14 <a id="tea-tattvartha-sutra-6-14"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-Intense states arising from the rise of the passions cause conduct-deluding karma.
+Intense states of mind (tīvra pariṇāma) arising from the rise of the passions (kaṣāya-udaya) are the inflow of conduct-deluding karma (cāritra-moha).
 
 > kaṣāyodayāttīvra-pariṇāmaścāritra-mohasya
 
-_level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
 
-terms: [cāritra-mohanīya](../terms/caritra-mohaniya.md), [kaṣāya](../terms/kasaya.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [āsrava](../terms/asrava.md), [mohanīya](../terms/mohaniya.md), [cāritra-mohanīya](../terms/caritra-mohaniya.md), [kaṣāya](../terms/kasaya.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md) · obstacles: [The four passions (krodha, māna, māyā, lobha) with their four varieties](../obstacles/four-kasayas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 6.15 <a id="tea-tattvartha-sutra-6-15"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-Much violent undertaking and possessiveness [cause] the hellish lifespan.
+Having much undertaking (ārambha) and much possessiveness (parigraha) is the inflow of the lifespan karma of hell-beings (nāraka-āyus).
 
 > bahvārambha-parigrahatvaṃ nārakasyāyuṣaḥ
 
-_level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation, ethics_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation, ethics_
 
-terms: [āyu-karma](../terms/ayu-karma.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md), [The four destinies (gati)](../concepts/four-gatis.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [āsrava](../terms/asrava.md), [āyus](../terms/ayu-karma.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md), [The four destinies (gati)](../concepts/four-gatis.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 6.16 <a id="tea-tattvartha-sutra-6-16"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-Deceit [causes] the animal lifespan.
+Deceit (māyā) is the inflow of the lifespan karma of animals (tairyagyona).
 
 > māyā tairyagyonasya
 
-_level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation, ethics_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation, ethics_
 
-terms: [āyu-karma](../terms/ayu-karma.md), [māyā](../terms/maya-kasaya.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [āsrava](../terms/asrava.md), [āyus](../terms/ayu-karma.md), [māyā](../terms/maya-kasaya.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md) · obstacles: [The four passions (krodha, māna, māyā, lobha) with their four varieties](../obstacles/four-kasayas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+
+### 6.17 <a id="tea-tattvartha-sutra-6-17"></a>
+`text-verified` · confidence high
+
+Having little undertaking (ārambha) and little possessiveness (parigraha) is the inflow of the human lifespan karma (mānuṣa).
+
+> alpārambha parigrahatvaṃ mānuṣasya
+
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
+
+terms: [āsrava](../terms/asrava.md), [āyus](../terms/ayu-karma.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md)
 
 ### 6.17-18 <a id="tea-tattvartha-sutra-6-17-18"></a>
 `skeleton` · confidence high
@@ -1701,18 +1756,42 @@ Little violent undertaking and possessiveness, and natural gentleness, [cause] t
 
 _level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation, ethics_
 
-terms: [āyu-karma](../terms/ayu-karma.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [āyus](../terms/ayu-karma.md) · concepts: [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+
+_Superseded by [6.17](tattvartha-sutra.md#tea-tattvartha-sutra-6-17)_
+
+### 6.18 <a id="tea-tattvartha-sutra-6-18"></a>
+`text-verified` · confidence high
+
+And natural gentleness (svabhāva-mārdava) too.
+
+> svabhāva-mārdavaṃ ca
+
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
+
+terms: [āsrava](../terms/asrava.md), [āyus](../terms/ayu-karma.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md)
 
 ### 6.19 <a id="tea-tattvartha-sutra-6-19"></a>
-`skeleton` · confidence high
+`text-verified` · confidence low
 
-Lack of vows and virtue [is a cause] of all [lifespans].
+Being without virtuous conduct and vows (niḥśīla-vratatva) is also (the inflow) of all (sarveṣām).
 
 > niḥśīla-vratatvaṃ ca sarveṣām
 
-_level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
 
-terms: [āyu-karma](../terms/ayu-karma.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [āsrava](../terms/asrava.md), [āyus](../terms/ayu-karma.md), [vrata](../terms/vrata.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+
+### 6.20 <a id="tea-tattvartha-sutra-6-20"></a>
+`text-verified` · confidence high
+
+Restraint with attachment (sarāga-saṃyama), restraint-with-non-restraint (saṃyamāsaṃyama), involuntary shedding (akāma-nirjarā) and the austerities of the ignorant (bāla-tapas) are the inflow of the divine lifespan karma (daiva).
+
+> sarāgasaṃyama-saṃyamā-saṃyamākāmanirjarābālatapāṃsi daivasya
+
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
+
+terms: [āsrava](../terms/asrava.md), [āyus](../terms/ayu-karma.md), [nirjarā](../terms/nirjara.md), [tapas](../terms/tapas.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md)
 
 ### 6.20-21 <a id="tea-tattvartha-sutra-6-20-21"></a>
 `skeleton` · confidence high
@@ -1723,7 +1802,31 @@ Restraint with attachment, partial restraint, involuntary shedding and the auste
 
 _level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation_
 
-terms: [āyu-karma](../terms/ayu-karma.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [āyus](../terms/ayu-karma.md) · concepts: [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+
+_Superseded by [6.20](tattvartha-sutra.md#tea-tattvartha-sutra-6-20)_
+
+### 6.21 <a id="tea-tattvartha-sutra-6-21"></a>
+`text-verified` · confidence high
+
+And right view (samyaktva) too.
+
+> samyaktvaṃ ca
+
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
+
+terms: [āsrava](../terms/asrava.md), [āyus](../terms/ayu-karma.md), [samyaktva](../terms/samyaktva.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md)
+
+### 6.22 <a id="tea-tattvartha-sutra-6-22"></a>
+`text-verified` · confidence high
+
+Crookedness of activity (yoga-vakratā) and deception (visaṃvādana) are the inflow of inauspicious body-making karma (aśubha nāma).
+
+> yogavakratā visaṃvādanaṃ cāśubhasya nāmnaḥ
+
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
+
+terms: [āsrava](../terms/asrava.md), [nāma](../terms/nama-karma.md), [yoga](../terms/yoga.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md)
 
 ### 6.22-23 <a id="tea-tattvartha-sutra-6-22-23"></a>
 `skeleton` · confidence high
@@ -1734,183 +1837,205 @@ Crookedness of activity and deception [cause] inauspicious body-making (nāma) k
 
 _level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation, ethics_
 
-terms: [nāma-karma](../terms/nama-karma.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [nāma](../terms/nama-karma.md) · concepts: [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+
+_Superseded by [6.22](tattvartha-sutra.md#tea-tattvartha-sutra-6-22)_
+
+### 6.23 <a id="tea-tattvartha-sutra-6-23"></a>
+`text-verified` · confidence high
+
+The opposite of these is the inflow of auspicious body-making karma (śubha nāma).
+
+> tadviparītaṃ śubhasya
+
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
+
+terms: [āsrava](../terms/asrava.md), [nāma](../terms/nama-karma.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md)
 
 ### 6.24 <a id="tea-tattvartha-sutra-6-24"></a>
-`skeleton` · confidence high
+`text-verified` · confidence moderate
 
-Purity of view, humility, faultless keeping of vows and virtues, constant application to knowledge, fear of worldly existence, giving and austerity according to one's power, caring for ascetics' concentration, service, devotion to the arhats, the teachers, the learned and the scripture, not neglecting the essential duties, making the path shine, and affection for co-religionists — [these sixteen] cause the karma of becoming a Tīrthaṅkara.
+Purity of view, being endowed with humility, faultless keeping of virtue and vows, constant use of knowledge, constant dread of saṃsāra (saṃvega), giving and austerity according to one's power, calming and concentration of ascetics (sādhu-samādhi), rendering service, devotion to the arhats, teachers, the learned and the scripture (pravacana), not neglecting the essential duties, making the path shine, and affection for the teaching (pravacana-vatsalatva): these are the inflow of the karma of the Tīrthaṅkara state.
 
 > darśanaviśuddhirvinayasampannatā-śīla-vrateṣvanatīcāro'bhīkṣṇa-jñānopayogasaṃvegau śaktitastyāga-tapasī sādhusamādhirvaiyāvṛtya-karaṇamarhadācārya-bahuśruta-pravacana-bhaktirāvaśyakāparihāṇirmārga-prabhāvanā-pravacanavatsalatvamiti tīrthakaratvasya
 
-_level: conventional · standpoint: causal · path: action, devotion · stage: advanced · types: karma-liberation, ethics, teacher-transmission_
+_level: conventional · standpoint: causal · path: knowledge, action, devotion · stage: all · types: karma-liberation, ethics, teacher-transmission_
 
-terms: [tīrthaṅkara-nāma-karma](../terms/tirthankara-nama-karma.md), [tīrthaṅkara](../terms/tirthankara.md), [āvaśyaka](../terms/avasyaka.md) · concepts: [The sixteen causes of Tīrthaṅkarahood](../concepts/sixteen-causes-of-tirthankarahood.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [āsrava](../terms/asrava.md), [tīrthakaratva (Tīrthaṅkara-nāma)](../terms/tirthankara-nama-karma.md), [saṃvega](../terms/samvega.md), [tīrthaṅkara](../terms/tirthankara.md), [āvaśyaka](../terms/avasyaka.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md), [The sixteen causes of Tīrthaṅkarahood](../concepts/sixteen-causes-of-tirthankarahood.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 6.25 <a id="tea-tattvartha-sutra-6-25"></a>
-`skeleton` · confidence high
+`text-verified` · confidence moderate
 
-Censuring others and praising oneself, hiding others' virtues and proclaiming one's own [non-existent ones] cause low status (gotra).
+Censuring others and praising oneself, and concealing others' real virtues and proclaiming one's own (unreal) ones are the inflow of low-status karma (nīca gotra).
 
 > parātma-nindā-praśaṃse sadasad guṇocchādanodbhāvane ca nīcairgotrasya
 
-_level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation, ethics_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation, ethics_
 
-terms: [gotra-karma](../terms/gotra-karma.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md) · obstacles: [The eight prides (mada)](../obstacles/eight-madas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [āsrava](../terms/asrava.md), [gotra](../terms/gotra-karma.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md) · obstacles: [The eight prides (mada)](../obstacles/eight-madas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 6.26 <a id="tea-tattvartha-sutra-6-26"></a>
-`skeleton` · confidence high
+`text-verified` · confidence moderate
 
-The reverse, with humility and freedom from pride, [cause] high status.
+The reverse of these, humility of conduct (nīcair-vṛtti) and absence of pride (anutseka), are the inflow of the latter (high status, ucca gotra).
 
 > tadviparyayo nīcairvṛttyanutsekau cottarasya
 
-_level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation, ethics_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation, ethics_
 
-terms: [gotra-karma](../terms/gotra-karma.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [āsrava](../terms/asrava.md), [gotra](../terms/gotra-karma.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 6.27 <a id="tea-tattvartha-sutra-6-27"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-Creating obstacles [to others] causes the obstructive (antarāya) karma.
+Causing obstruction (vighna-karaṇa) is the inflow of obstructive karma (antarāya).
 
 > vighnakaraṇamantarāyasya
 
-_level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
 
-terms: [antarāya-karma](../terms/antaraya-karma.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [āsrava](../terms/asrava.md), [antarāya](../terms/antaraya-karma.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 7.1 <a id="tea-tattvartha-sutra-7-1"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-Abstention from violence, falsehood, stealing, unchastity and possessiveness is the vow (vrata).
+Abstention (virati) from violence (hiṃsā), falsehood (anṛta), stealing (steya), unchastity (abrahma) and possessiveness (parigraha) is the vow (vrata).
 
 > hiṃsā'nṛta-steyābrahma-parigrahebhyo viratirvratam
 
-_level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics_
+_level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics, practice_
 
-terms: [vrata](../terms/vrata.md), [ahiṃsā](../terms/ahimsa.md), [satya](../terms/satya.md), [asteya](../terms/asteya.md), [brahmacarya](../terms/brahmacarya.md), [aparigraha](../terms/aparigraha.md) · concepts: [The five vows](../concepts/five-vratas.md) · practices: [The great vows of the ascetic](../practices/mahavratas.md), [The small vows and lay vows](../practices/anuvratas.md) · obstacles: [The five sins](../obstacles/five-papas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [vrata](../terms/vrata.md), [hiṃsā](../terms/himsa.md), [asteya](../terms/asteya.md), [brahmacarya](../terms/brahmacarya.md), [aparigraha](../terms/aparigraha.md), [satya](../terms/satya.md), [ahiṃsā](../terms/ahimsa.md) · concepts: [The vows and their contemplations (Tattvārtha 7.1-7.12)](../concepts/vow-bhavanas.md), [The five vows](../concepts/five-vratas.md) · practices: [The five vows (Tattvārtha 7.1-7.8)](../practices/five-vows-jain.md), [The great vows of the ascetic](../practices/mahavratas.md), [The small vows and lay vows](../practices/anuvratas.md) · obstacles: [The five sins](../obstacles/five-papas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+
+### 7.1-12 <a id="tea-tattvartha-sutra-7-1-12"></a>
+`text-verified` · confidence high
+
+The section on vows and reflections (7.1-7.12): the vow is abstention from violence, falsehood, stealing, unchastity and possessiveness (1); small and great (2); five contemplations each for steadiness (3-8); reflection on the harm of the faults and on the suffering in them (9-10); the four states of friendliness, delight, compassion and equanimity (11); and reflection on the nature of the world and body for dread of saṃsāra and detachment (12).
+
+_level: conventional · standpoint: ethical-social · path: action, meditation · stage: all · types: ethics, practice_
+
+concepts: [The vows and their contemplations (Tattvārtha 7.1-7.12)](../concepts/vow-bhavanas.md)
 
 ### 7.2 <a id="tea-tattvartha-sutra-7-2"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-[Abstention] in part is the small [vow], in full the great [vow].
+In part (deśa) it is the small vow (aṇuvrata); wholly (sarvataḥ) it is the great vow (mahāvrata).
 
 > deśa sarvato'ṇu-mahatī
 
-_level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics_
+_level: conventional · standpoint: ethical-social · path: action · stage: intermediate · types: ethics, practice_
 
-terms: [aṇuvrata](../terms/anuvrata.md), [mahāvrata](../terms/mahavrata.md) · concepts: [The five vows](../concepts/five-vratas.md), [The twelve vows of the householder](../concepts/twelve-lay-vows.md) · practices: [The great vows of the ascetic](../practices/mahavratas.md), [The small vows and lay vows](../practices/anuvratas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [aṇuvrata](../terms/anuvrata.md), [mahāvrata](../terms/mahavrata.md), [vrata](../terms/vrata.md) · concepts: [The vows and their contemplations (Tattvārtha 7.1-7.12)](../concepts/vow-bhavanas.md), [The five vows](../concepts/five-vratas.md), [The twelve vows of the householder](../concepts/twelve-lay-vows.md) · practices: [The five vows (Tattvārtha 7.1-7.8)](../practices/five-vows-jain.md), [The great vows of the ascetic](../practices/mahavratas.md), [The small vows and lay vows](../practices/anuvratas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 7.3 <a id="tea-tattvartha-sutra-7-3"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-For their steadiness there are five contemplations (bhāvanā) for each.
+For their steadiness (sthairya) there are five contemplations (bhāvanā) each.
 
 > tatsthairyārthaṃ bhāvanāḥ pañca-pañca
 
-_level: conventional · standpoint: seeker · path: action, meditation · stage: all · types: ethics, practice_
+_level: conventional · standpoint: ethical-social · path: action, meditation · stage: all · types: ethics, practice_
 
-terms: [bhāvanā](../terms/bhavana.md) · concepts: [The twenty-five contemplations supporting the vows](../concepts/vow-bhavanas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [bhāvanā](../terms/bhavana.md), [vrata](../terms/vrata.md) · concepts: [The vows and their contemplations (Tattvārtha 7.1-7.12)](../concepts/vow-bhavanas.md) · practices: [The five vows (Tattvārtha 7.1-7.8)](../practices/five-vows-jain.md), [The contemplations for steadiness of the vows (Tattvārtha 7.4-7.8)](../practices/vow-bhavanas-practice.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 7.4 <a id="tea-tattvartha-sutra-7-4"></a>
-`skeleton` · confidence high
+`text-verified` · confidence moderate
 
-[For non-violence:] restraint of speech and mind, care in walking, care in picking up and putting down, and eating and drinking what has been inspected in daylight.
+For non-violence: restraint of speech (vāg-gupti), restraint of mind (mano-gupti), careful walking (īryā-samiti), careful picking up and putting down (ādāna-nikṣepaṇa-samiti), and looking at food and drink (ālokita-pāna-bhojana): these five.
 
 > vāṅmanoguptīryādānanikṣepaṇa-samityālokita-pāna-bhojanāni pañca
 
-_level: conventional · standpoint: seeker · path: action · stage: all · types: ethics, practice_
+_level: conventional · standpoint: ethical-social · path: action · stage: intermediate · types: ethics, practice_
 
-terms: [bhāvanā](../terms/bhavana.md), [ahiṃsā](../terms/ahimsa.md), [gupti](../terms/gupti.md), [samiti](../terms/samiti.md) · concepts: [The twenty-five contemplations supporting the vows](../concepts/vow-bhavanas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [bhāvanā](../terms/bhavana.md), [ahiṃsā](../terms/ahimsa.md), [gupti](../terms/gupti.md), [samiti](../terms/samiti.md) · concepts: [The vows and their contemplations (Tattvārtha 7.1-7.12)](../concepts/vow-bhavanas.md) · practices: [The contemplations for steadiness of the vows (Tattvārtha 7.4-7.8)](../practices/vow-bhavanas-practice.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 7.5 <a id="tea-tattvartha-sutra-7-5"></a>
-`skeleton` · confidence high
+`text-verified` · confidence moderate
 
-[For truthfulness:] giving up anger, greed, fear and jesting, and speaking after reflection.
+For truthfulness: giving up anger (krodha), greed (lobha), fear (bhīrutva) and laughter (hāsya), and speaking in conformity (anuvīci-bhāṣaṇa): these five.
 
 > krodha-lobha-bhīrutva-hāsya-pratyākhyānānyanuvīci-bhāṣaṇaṃ ca pañca
 
-_level: conventional · standpoint: seeker · path: action · stage: all · types: ethics, practice_
+_level: conventional · standpoint: ethical-social · path: action · stage: intermediate · types: ethics, practice_
 
-terms: [bhāvanā](../terms/bhavana.md), [satya](../terms/satya.md) · concepts: [The twenty-five contemplations supporting the vows](../concepts/vow-bhavanas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [bhāvanā](../terms/bhavana.md), [satya](../terms/satya.md), [krodha](../terms/krodha.md), [lobha](../terms/lobha.md) · concepts: [The vows and their contemplations (Tattvārtha 7.1-7.12)](../concepts/vow-bhavanas.md) · practices: [The contemplations for steadiness of the vows (Tattvārtha 7.4-7.8)](../practices/vow-bhavanas-practice.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 7.6 <a id="tea-tattvartha-sutra-7-6"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-[For non-stealing:] living in empty or abandoned dwellings, not obstructing others, purity of alms, and not quarrelling with co-religionists.
+For non-stealing: living in an empty dwelling (śūnyāgāra), in an abandoned dwelling (vimocitāvāsa), not obstructing others (para-uparodha-akaraṇa), purity of alms (bhaikṣya-śuddhi) and no dispute with fellow-practitioners of the dharma (sadharma-avisaṃvāda): these five.
 
 > śūnyāgāra-vimocitāvāsa-paroparodhākaraṇa-bhaikṣyaśuddhi-sadharmāvi-saṃvādāḥ pañca
 
-_level: conventional · standpoint: seeker · path: action · stage: all · types: ethics, practice_
+_level: conventional · standpoint: ethical-social · path: action · stage: intermediate · types: ethics, practice_
 
-terms: [bhāvanā](../terms/bhavana.md), [asteya](../terms/asteya.md) · concepts: [The twenty-five contemplations supporting the vows](../concepts/vow-bhavanas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [bhāvanā](../terms/bhavana.md), [asteya](../terms/asteya.md) · concepts: [The vows and their contemplations (Tattvārtha 7.1-7.12)](../concepts/vow-bhavanas.md) · practices: [The contemplations for steadiness of the vows (Tattvārtha 7.4-7.8)](../practices/vow-bhavanas-practice.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 7.7 <a id="tea-tattvartha-sutra-7-7"></a>
-`skeleton` · confidence high
+`text-verified` · confidence moderate
 
-[For chastity:] giving up listening to talk arousing attachment to women, looking at their attractive limbs, recalling past pleasures, rich and stimulating food, and adorning one's own body.
+For chastity: giving up listening to talk that awakens attachment to women (strī-rāga-kathā-śravaṇa), looking at their charming limbs, recalling former enjoyment, stimulating and favoured foods (vṛṣya-iṣṭa-rasa) and adorning one's own body: these five.
 
 > strīrāgakathā śravaṇa-tanmanoharāṃga nirīkṣaṇa pūrva-ratānusmaraṇa-vṛṣyeṣṭarasa-svaśarīrasaṃskāratyāgāḥ pañca
 
-_level: conventional · standpoint: seeker · path: action · stage: all · types: ethics, practice_
+_level: conventional · standpoint: ethical-social · path: action · stage: intermediate · types: ethics, practice_
 
-terms: [bhāvanā](../terms/bhavana.md), [brahmacarya](../terms/brahmacarya.md) · concepts: [The twenty-five contemplations supporting the vows](../concepts/vow-bhavanas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [bhāvanā](../terms/bhavana.md), [brahmacarya](../terms/brahmacarya.md) · concepts: [The vows and their contemplations (Tattvārtha 7.1-7.12)](../concepts/vow-bhavanas.md) · practices: [The contemplations for steadiness of the vows (Tattvārtha 7.4-7.8)](../practices/vow-bhavanas-practice.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 7.8 <a id="tea-tattvartha-sutra-7-8"></a>
-`skeleton` · confidence high
+`text-verified` · confidence moderate
 
-[For non-possession:] giving up attachment and aversion toward pleasant and unpleasant objects of the five senses.
+For non-possession: giving up attachment (rāga) and aversion (dveṣa) towards pleasant and unpleasant objects of the senses (manojña-amanojña-indriya-viṣaya): these five (the commentaries: one for each sense).
 
 > manojñāmanojñendriya-viṣaya-rāga-dveṣa varjanāni pañca
 
-_level: conventional · standpoint: seeker · path: action · stage: all · types: ethics, practice_
+_level: conventional · standpoint: ethical-social · path: action · stage: intermediate · types: ethics, practice_
 
-terms: [bhāvanā](../terms/bhavana.md), [aparigraha](../terms/aparigraha.md) · concepts: [The twenty-five contemplations supporting the vows](../concepts/vow-bhavanas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [bhāvanā](../terms/bhavana.md), [aparigraha](../terms/aparigraha.md), [indriya](../terms/indriya.md), [viṣaya](../terms/visaya.md) · concepts: [The vows and their contemplations (Tattvārtha 7.1-7.12)](../concepts/vow-bhavanas.md) · practices: [The contemplations for steadiness of the vows (Tattvārtha 7.4-7.8)](../practices/vow-bhavanas-practice.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 7.9 <a id="tea-tattvartha-sutra-7-9"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-In violence and the rest one should see harm and blame in this world and the next.
+In violence and the rest (the five faults of 7.1) one is to see danger (apāya) and blame (avadya) in this world and the next.
 
 > hiṃsādiṣvihāmutrāpāyāvadyadarśanam
 
-_level: conventional · standpoint: seeker · path: action, meditation · stage: all · types: ethics, practice_
+_level: conventional · standpoint: ethical-social · path: action, meditation · stage: intermediate · types: ethics, practice_
 
-concepts: [The twenty-five contemplations supporting the vows](../concepts/vow-bhavanas.md) · obstacles: [The five sins](../obstacles/five-papas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [hiṃsā](../terms/himsa.md), [vrata](../terms/vrata.md) · concepts: [The vows and their contemplations (Tattvārtha 7.1-7.12)](../concepts/vow-bhavanas.md) · practices: [Reflection for dread of saṃsāra and detachment (Tattvārtha 7.9-7.12)](../practices/samvega-vairagya-reflection.md) · obstacles: [The five sins](../obstacles/five-papas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 7.10 <a id="tea-tattvartha-sutra-7-10"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-Or [see them as] nothing but suffering.
+Or (vā) (one is to see them as) only suffering (duḥkha).
 
 > duḥkhameva vā
 
-_level: conventional · standpoint: seeker · path: meditation · stage: all · types: ethics, practice_
+_level: conventional · standpoint: ethical-social · path: action, meditation · stage: intermediate · types: ethics, practice_
 
-concepts: [The twenty-five contemplations supporting the vows](../concepts/vow-bhavanas.md) · obstacles: [The five sins](../obstacles/five-papas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [dukkha](../terms/dukkha.md), [vrata](../terms/vrata.md) · concepts: [The vows and their contemplations (Tattvārtha 7.1-7.12)](../concepts/vow-bhavanas.md) · practices: [Reflection for dread of saṃsāra and detachment (Tattvārtha 7.9-7.12)](../practices/samvega-vairagya-reflection.md) · obstacles: [The five sins](../obstacles/five-papas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 7.11 <a id="tea-tattvartha-sutra-7-11"></a>
-`skeleton` · confidence high
+`text-verified` · confidence moderate
 
-[Cultivate] friendliness toward all beings, joy toward the more virtuous, compassion toward the afflicted and impartiality toward the unruly.
+Friendliness (maitrī), delight (pramoda), compassion (kāruṇya) and equanimity (mādhyastha) are to be cultivated towards, respectively, all living beings (sattva), those superior in virtue (guṇādhika), the afflicted (kliśyamāna) and the undisciplined (avinaya).
 
 > maitrī-pramoda-kāruṇya-mādhyasthāni ca sattva-guṇādhika-kliśyamānāvinayeṣu
 
-_level: conventional · standpoint: seeker · path: meditation, action · stage: all · types: ethics, practice_
+_level: conventional · standpoint: ethical-social · path: meditation, action · stage: all · types: ethics, practice_
 
-terms: [maitrī](../terms/maitri.md), [pramoda](../terms/pramoda.md), [karuṇā](../terms/karuna.md), [mādhyasthya](../terms/madhyasthya.md) · concepts: [Friendliness, joy, compassion and impartiality](../concepts/four-bhavanas-maitri.md) · practices: [The four attitudes (maitrī, pramoda, kāruṇya, mādhyasthya)](../practices/maitri-adi-bhavana.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [maitrī](../terms/maitri.md), [pramoda](../terms/pramoda.md), [kāruṇya](../terms/karuna.md), [bhāvanā](../terms/bhavana.md), [mādhyasthya](../terms/madhyasthya.md) · concepts: [The vows and their contemplations (Tattvārtha 7.1-7.12)](../concepts/vow-bhavanas.md), [Friendliness, joy, compassion and impartiality](../concepts/four-bhavanas-maitri.md) · practices: [Friendliness, delight, compassion and equanimity (Tattvārtha 7.11)](../practices/jain-four-bhavanas.md), [The four attitudes (maitrī, pramoda, kāruṇya, mādhyasthya)](../practices/maitri-adi-bhavana.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 7.12 <a id="tea-tattvartha-sutra-7-12"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-[Contemplate] the nature of the world and of the body, for the sake of dread [of saṃsāra] and detachment.
+Or (vā) the nature (svabhāva) of the world (jagat) and of the body (kāya) is to be reflected on, for the sake of dread of saṃsāra (saṃvega) and detachment (vairāgya).
 
 > jagatkāya-svabhāvau vā saṃvegavairāgyārtham
 
-_level: conventional · standpoint: seeker · path: meditation · stage: all · types: ethics, practice_
+_level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice, ethics_
 
-terms: [saṃvega](../terms/samvega.md), [vairāgya](../terms/vairagya.md) · concepts: [The twelve reflections (anuprekṣā)](../concepts/twelve-anupreksas.md) · practices: [Anuprekṣā (the twelve reflections)](../practices/anupreksa.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [saṃvega](../terms/samvega.md), [vairāgya](../terms/vairagya.md) · concepts: [The vows and their contemplations (Tattvārtha 7.1-7.12)](../concepts/vow-bhavanas.md), [The twelve reflections (anuprekṣā)](../concepts/twelve-anupreksas.md) · practices: [Reflection for dread of saṃsāra and detachment (Tattvārtha 7.9-7.12)](../practices/samvega-vairagya-reflection.md), [Anuprekṣā (the twelve reflections)](../practices/anupreksa.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 7.13 <a id="tea-tattvartha-sutra-7-13"></a>
 `skeleton` · confidence high
@@ -2100,125 +2225,136 @@ _level: conventional · standpoint: ethical-social · path: action · stage: all
 terms: [dāna](../terms/dana.md) · practices: [Giving (dāna) and sharing with ascetics](../practices/dana-jain.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 8.1 <a id="tea-tattvartha-sutra-8-1"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-Wrong view, non-abstinence, carelessness, passions and activity are the causes of bondage.
+Wrong view (mithyādarśana), non-abstinence (avirati), carelessness (pramāda), the passions (kaṣāya) and activity (yoga) are the causes of bondage (bandha).
 
 > mithyādarśanāvirati-pramāda-kaṣāya-yogā bandhahetavaḥ
 
-_level: unmarked · standpoint: causal · path: action · stage: all · types: karma-liberation_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
 
-terms: [mithyātva](../terms/mithyatva.md), [avirati](../terms/avirati-jain.md), [pramāda](../terms/pramada-jain.md), [kaṣāya](../terms/kasaya.md), [yoga](../terms/yoga.md), [bandha](../terms/bandha.md) · concepts: [The five causes of bondage](../concepts/causes-of-bondage.md), [Bondage (bandha)](../concepts/bandha.md) · obstacles: [The five causes of bondage](../obstacles/five-causes-of-bondage.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [bandha](../terms/bandha.md), [mithyātva](../terms/mithyatva.md), [avirati](../terms/avirati.md), [pramāda](../terms/pramada.md), [kaṣāya](../terms/kasaya.md), [yoga](../terms/yoga.md), [avirati](../terms/avirati-jain.md), [pramāda](../terms/pramada-jain.md) · concepts: [Bondage (bandha) in the Tattvārtha Sūtra](../concepts/bandha.md), [The five causes of bondage](../concepts/causes-of-bondage.md) · obstacles: [The four passions (krodha, māna, māyā, lobha) with their four varieties](../obstacles/four-kasayas.md), [The five causes of bondage](../obstacles/bandha-hetus-five.md), [The five causes of bondage](../obstacles/five-causes-of-bondage.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 8.2 <a id="tea-tattvartha-sutra-8-2"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-Because of its passions the soul takes in material particles fit to become karma: that is bondage.
+Because it has passions (sakaṣāyatvāt), the soul (jīva) takes in the material particles (pudgala) that are fit to be karma: that is bondage (bandha).
 
 > sakaṣāyatvājjīvaḥ karmaṇo yogyān pudgalānādatte sa baṃdhaḥ
 
-_level: unmarked · standpoint: causal · path: action · stage: all · types: karma-liberation_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
 
-terms: [bandha](../terms/bandha.md), [karma](../terms/karma.md), [kaṣāya](../terms/kasaya.md), [pudgala](../terms/pudgala.md), [vargaṇā](../terms/vargana.md) · concepts: [Bondage (bandha)](../concepts/bandha.md), [Karma as matter](../concepts/karma-jain.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [bandha](../terms/bandha.md), [kaṣāya](../terms/kasaya.md), [pudgala](../terms/pudgala.md), [jīva](../terms/jiva.md), [karma](../terms/karma.md), [vargaṇā](../terms/vargana.md) · concepts: [Bondage (bandha) in the Tattvārtha Sūtra](../concepts/bandha.md), [Karma as matter](../concepts/karma-jain.md) · obstacles: [The four passions (krodha, māna, māyā, lobha) with their four varieties](../obstacles/four-kasayas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 8.3 <a id="tea-tattvartha-sutra-8-3"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-Its kinds are [bondage] of nature, duration, intensity (fruition) and quantity (space-points).
+Its kinds are bondage of nature (prakṛti), duration (sthiti), intensity or fruition (anubhava) and quantity (pradeśa).
 
 > prakṛti sthityanubhava-pradeśāstadvidhayaḥ
 
-_level: unmarked · standpoint: analytic · path: action · stage: all · types: karma-liberation_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
 
-terms: [prakṛti-bandha](../terms/prakrti-bandha.md), [sthiti-bandha](../terms/sthiti-bandha.md), [anubhāga-bandha](../terms/anubhaga-bandha.md), [pradeśa-bandha](../terms/pradesa-bandha.md) · concepts: [The four aspects of bondage](../concepts/four-aspects-of-bandha.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [bandha](../terms/bandha.md), [prakṛti-bandha](../terms/prakrti-bandha.md), [sthiti-bandha](../terms/sthiti-bandha.md), [anubhava-bandha](../terms/anubhaga-bandha.md), [pradeśa-bandha](../terms/pradesa-bandha.md) · concepts: [Bondage (bandha) in the Tattvārtha Sūtra](../concepts/bandha.md), [The four kinds of bondage (Tattvārtha 8.3)](../concepts/four-aspects-of-bandha.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 8.4 <a id="tea-tattvartha-sutra-8-4"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-The first [nature-bondage] is knowledge-obscuring, perception-obscuring, feeling, deluding, lifespan, body-making, status and obstructive [karma].
+The first (bondage of nature) is: knowledge-obscuring (jñāna-āvaraṇa), perception-obscuring (darśana-āvaraṇa), feeling (vedanīya), deluding (mohanīya), lifespan (āyus), body-making (nāma), status (gotra) and obstructive (antarāya).
 
 > ādyo jñāna-darśanāvaraṇavedanīya-mohanīyāyurnāma-gotrāntarāyāḥ
 
-_level: unmarked · standpoint: analytic · path: action · stage: all · types: karma-liberation_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
 
-terms: [jñānāvaraṇīya](../terms/jnanavaraniya.md), [darśanāvaraṇīya](../terms/darsanavaraniya.md), [vedanīya](../terms/vedaniya.md), [mohanīya](../terms/mohaniya.md), [āyu-karma](../terms/ayu-karma.md), [nāma-karma](../terms/nama-karma.md), [gotra-karma](../terms/gotra-karma.md), [antarāya-karma](../terms/antaraya-karma.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [prakṛti-bandha](../terms/prakrti-bandha.md), [jñānāvaraṇa](../terms/jnanavaraniya.md), [darśanāvaraṇa](../terms/darsanavaraniya.md), [vedanīya](../terms/vedaniya.md), [mohanīya](../terms/mohaniya.md), [āyus](../terms/ayu-karma.md), [nāma](../terms/nama-karma.md), [gotra](../terms/gotra-karma.md), [antarāya](../terms/antaraya-karma.md) · concepts: [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 8.5 <a id="tea-tattvartha-sutra-8-5"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-They have five, nine, two, twenty-eight, four, forty-two, two and five subdivisions respectively.
+They have, respectively, five, nine, two, twenty-eight, four, forty-two, two and five subdivisions.
 
 > pañca-nava-dvayaṣṭāviṃśati-catur-dvicatvāriṃśad-dvi-pañca-bhedā-yathākramam
 
-_level: unmarked · standpoint: analytic · path: action · stage: all · types: karma-liberation_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
 
-concepts: [The eight kinds of karma](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [prakṛti-bandha](../terms/prakrti-bandha.md) · concepts: [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 8.6 <a id="tea-tattvartha-sutra-8-6"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-[Knowledge-obscuring karma obscures] sensory, scriptural, clairvoyant, mind-reading and omniscient knowledge.
+The knowledge-obscuring karma obscures the five knowledges: sensory (mati), scriptural (śruta), clairvoyant (avadhi), mind-reading (manaḥparyaya) and omniscient (kevala).
 
 > matiśrutāvadhi-manaḥparyaya kevalānām
 
-_level: unmarked · standpoint: analytic · path: action · stage: all · types: karma-liberation_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
 
-terms: [jñānāvaraṇīya](../terms/jnanavaraniya.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md), [The five kinds of knowledge](../concepts/five-jnanas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [jñānāvaraṇa](../terms/jnanavaraniya.md), [jñāna](../terms/jnana.md) · concepts: [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md), [The five kinds of knowledge](../concepts/five-jnanas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 8.7 <a id="tea-tattvartha-sutra-8-7"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-[Perception-obscuring karma obscures] visual, non-visual, clairvoyant and omniscient perception, and [produces] sleep, deep sleep, drowsiness, heavy drowsiness and somnambulism.
+The perception-obscuring karma has nine: the obscurations of visual (cakṣus), non-visual (acakṣus), clairvoyant (avadhi) and omniscient (kevala) perception, and sleep (nidrā), deep sleep (nidrānidrā), drowsiness (pracalā), heavy drowsiness (pracalāpracalā) and somnambulism (styānagṛddhi).
 
 > cakṣuracakṣuravadhikevalānāṃ nidrā-nidrānidrā-pracalā-pracalāpracalā-styānagṛddhayaśca
 
-_level: unmarked · standpoint: analytic · path: action · stage: all · types: karma-liberation, consciousness-mind_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: [darśanāvaraṇīya](../terms/darsanavaraniya.md), [nidrā](../terms/nidra.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [darśanāvaraṇa](../terms/darsanavaraniya.md), [nidrā](../terms/nidra.md) · concepts: [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 8.8 <a id="tea-tattvartha-sutra-8-8"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-[Feeling karma is] pleasant and unpleasant.
+Feeling karma (vedanīya) is of two kinds: pleasant (sat) and unpleasant (asat).
 
 > sadasadvedye
 
-_level: unmarked · standpoint: analytic · path: action · stage: all · types: karma-liberation_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
 
-terms: [vedanīya](../terms/vedaniya.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [vedanīya](../terms/vedaniya.md) · concepts: [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 8.9 <a id="tea-tattvartha-sutra-8-9"></a>
-`skeleton` · confidence high
+`text-verified` · confidence moderate
 
-Deluding karma is of three, two, nine and sixteen kinds: view-deluding (right view, wrong view, and both), and conduct-deluding — the quasi-passions (laughter, liking, disliking, grief, fear, disgust, and the female, male and neuter sex-drives) and the passions (anger, pride, deceit and greed, each as life-long 'endless-binding', as preventing partial renunciation, as preventing full renunciation, and as smouldering).
+Deluding karma (mohanīya) is named as view-deluding (darśana-mohanīya), conduct-deluding (cāritra-mohanīya), non-passion-felt (akaṣāya-vedanīya) and passion-felt (kaṣāya-vedanīya), with three, two, nine and sixteen kinds respectively. View-deluding: right view (samyaktva), wrong view (mithyātva) and both (tad-ubhaya). Conduct-deluding: non-passion and passion (akaṣāya, kaṣāya). Non-passions: laughter, liking, disliking, grief, fear, disgust, and the female, male and neuter sex-drive (vedas). The passions are the four, anger (krodha), pride (māna), deceit (māyā) and greed (lobha), each with four varieties (vikalpa) named anantānubandhī ("bound to the endless"), apratyākhyāna ("non-renunciation"), pratyākhyāna ("renunciation") and saṃjvalana ("flaring together"); these glosses give only the literal sense of the names.
 
 > darśanacāritra-mohanīyākaṣāya-kaṣāyavedanīyākhyāstridvi-nava-ṣoḍaśabhedāḥ samyaktva-mithyātva-tadubhayānyakaṣāya-kaṣāyau hāsyaratyarati-śoka-bhaya-jugupsā-strī-punnapuṃsaka-vedā anantānubaṃdhya-pratyākhyāna-pratyākhyāna-saṃjvalana-vikalpāścaikaśaḥ krodha-māna-māyā-lobhāḥ
 
-_level: unmarked · standpoint: analytic · path: action · stage: all · types: karma-liberation_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
 
-terms: [mohanīya](../terms/mohaniya.md), [darśana-mohanīya](../terms/darsana-mohaniya.md), [cāritra-mohanīya](../terms/caritra-mohaniya.md), [nokaṣāya](../terms/nokasaya.md), [anantānubandhin](../terms/anantanubandhin.md), [apratyākhyānāvaraṇa](../terms/apratyakhyanavarana.md), [pratyākhyānāvaraṇa](../terms/pratyakhyanavarana.md), [saṃjvalana](../terms/samjvalana.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md), [The passions and their sixteen grades](../concepts/four-kasayas-sixteen.md) · obstacles: [The four passions (kaṣāya)](../obstacles/four-kasayas.md), [The nine quasi-passions (nokaṣāya)](../obstacles/nine-nokasayas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [mohanīya](../terms/mohaniya.md), [kaṣāya](../terms/kasaya.md), [nokaṣāya](../terms/nokasaya.md), [krodha](../terms/krodha.md), [māna](../terms/mana.md), [māyā](../terms/maya-kasaya.md), [lobha](../terms/lobha.md), [anantānubandhin](../terms/anantanubandhin.md), [apratyākhyāna](../terms/apratyakhyanavarana.md), [pratyākhyāna (pratyākhyānāvaraṇa)](../terms/pratyakhyanavarana.md), [saṃjvalana](../terms/samjvalana.md), [darśana-mohanīya](../terms/darsana-mohaniya.md) · concepts: [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md), [The four passions and their sixteen varieties (Tattvārtha 8.9)](../concepts/four-kasayas-sixteen.md) · obstacles: [The four passions (krodha, māna, māyā, lobha) with their four varieties](../obstacles/four-kasayas.md), [The non-passions (akaṣāya/nokaṣāya): nine](../obstacles/nine-nokasayas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 8.10 <a id="tea-tattvartha-sutra-8-10"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-[Lifespan karma is] hellish, animal, human and divine.
+Lifespan karma (āyus) is of four kinds: hellish (nāraka), animal (tairyagyona), human (mānuṣa) and divine (daiva).
 
 > nārakatairyagyona-mānuṣa-daivāni
 
-_level: unmarked · standpoint: analytic · path: action · stage: all · types: karma-liberation, death-dying_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation, death-dying_
 
-terms: [āyu-karma](../terms/ayu-karma.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md), [The four destinies (gati)](../concepts/four-gatis.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [āyus](../terms/ayu-karma.md) · concepts: [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md), [The four destinies (gati)](../concepts/four-gatis.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 8.11 <a id="tea-tattvartha-sutra-8-11"></a>
-`skeleton` · confidence high
+`text-verified` · confidence moderate
 
-[Body-making karma determines] destiny, class, body, limbs, formation, binding, aggregation, shape, joints, touch, taste, smell, colour, the migratory form, the neither-heavy-nor-light, self-injuring and other-injuring limbs, heat-light, cool light, breath and gait; individual body, mobility, attractiveness, sweet voice, auspiciousness, subtlety, completion, stability, impressiveness and fame — each with its opposite — and Tīrthaṅkarahood.
+Body-making karma (nāma) includes: destiny (gati), class (jāti), body (śarīra), limbs (aṅga, upāṅga), formation (nirmāṇa), binding (bandhana), aggregation (saṅghāta), shape (saṃsthāna), joints (saṃhanana), touch, taste, smell and colour, the migratory form (ānupūrvya), the neither-heavy-nor-light (agurulaghu), self-injuring (upaghāta), other-injuring (paraghāta), heat (ātapa), light (udyota), breath (ucchvāsa) and gait (vihāyogati); and, in pairs with their opposites, individual body (pratyeka-śarīra) and mobility (trasa), attractiveness (subhaga), sweet voice (susvara), auspiciousness (śubha), subtlety (sūkṣma), completion (paryāpti), stability (sthira), impressiveness (ādeya), fame (yaśas-kīrti); and the Tīrthaṅkara state (tīrthakaratva).
 
 > gati-jāti-śarīrāṅgopāṅganirmāṇa-baṃdhana-saṃghāta-saṃsthāna-saṃhanana-sparśa-rasa-gaṃdha-varṇānupūrvyāgurulaghūpaghāta-paraghātātapodyotocchvāsa-vihāyogatayaḥ pratyeka-śarīra-trasa-subhaga-susvara-śubha-sūkṣma-paryāpti-sthirādeya yaśaḥ kīrti-setarāṇi tīrthakaratvaṃ ca
 
-_level: unmarked · standpoint: analytic · path: action · stage: all · types: karma-liberation, body-layers_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation, body-layers_
 
-terms: [nāma-karma](../terms/nama-karma.md), [tīrthaṅkara-nāma-karma](../terms/tirthankara-nama-karma.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [nāma](../terms/nama-karma.md), [tīrthakaratva (Tīrthaṅkara-nāma)](../terms/tirthankara-nama-karma.md) · concepts: [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+
+### 8.12 <a id="tea-tattvartha-sutra-8-12"></a>
+`text-verified` · confidence high
+
+Status karma (gotra) is high (ucca) and low (nīca).
+
+> uccairnīcaiśca
+
+_level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
+
+terms: [gotra](../terms/gotra-karma.md) · concepts: [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md)
 
 ### 8.12-13 <a id="tea-tattvartha-sutra-8-12-13"></a>
 `skeleton` · confidence high
@@ -2229,7 +2365,31 @@ terms: [nāma-karma](../terms/nama-karma.md), [tīrthaṅkara-nāma-karma](../te
 
 _level: unmarked · standpoint: analytic · path: action · stage: all · types: karma-liberation_
 
-terms: [gotra-karma](../terms/gotra-karma.md), [antarāya-karma](../terms/antaraya-karma.md) · concepts: [The eight kinds of karma](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [gotra](../terms/gotra-karma.md), [antarāya](../terms/antaraya-karma.md) · concepts: [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+
+_Superseded by [8.12](tattvartha-sutra.md#tea-tattvartha-sutra-8-12)_
+
+### 8.13 <a id="tea-tattvartha-sutra-8-13"></a>
+`text-verified` · confidence high
+
+The obstructive karma (antarāya) obstructs giving (dāna), gain (lābha), enjoyment (bhoga), repeated enjoyment (upabhoga) and energy (vīrya).
+
+> dāna-lābha-bhogopabhoga-vīryāṇām
+
+_level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
+
+terms: [antarāya](../terms/antaraya-karma.md) · concepts: [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md)
+
+### 8.14 <a id="tea-tattvartha-sutra-8-14"></a>
+`text-verified` · confidence high
+
+The maximum duration (sthiti) of the first three (knowledge-obscuring, perception-obscuring, feeling) and of the obstructive karma is thirty koṭākoṭi of sāgaropama (ocean-measures).
+
+> āditastisṛṇā-maṃtarāyasya ca triṃśatsāgaropamakoṭīkoṭyaḥ parā sthitiḥ
+
+_level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
+
+terms: [sthiti-bandha](../terms/sthiti-bandha.md) · concepts: [The four kinds of bondage (Tattvārtha 8.3)](../concepts/four-aspects-of-bandha.md)
 
 ### 8.14-17 <a id="tea-tattvartha-sutra-8-14-17"></a>
 `skeleton` · confidence high
@@ -2240,7 +2400,53 @@ The maximum durations are thirty koṭākoṭi ocean-measures for the first thre
 
 _level: unmarked · standpoint: analytic · path: action · stage: all · types: karma-liberation_
 
-terms: [sthiti-bandha](../terms/sthiti-bandha.md), [sāgaropama](../terms/sagaropama.md) · concepts: [The four aspects of bondage](../concepts/four-aspects-of-bandha.md), [The eight kinds of karma](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [sthiti-bandha](../terms/sthiti-bandha.md), [sāgaropama](../terms/sagaropama.md) · concepts: [The four kinds of bondage (Tattvārtha 8.3)](../concepts/four-aspects-of-bandha.md), [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+
+_Superseded by [8.14](tattvartha-sutra.md#tea-tattvartha-sutra-8-14)_
+
+### 8.15 <a id="tea-tattvartha-sutra-8-15"></a>
+`text-verified` · confidence high
+
+Of deluding karma (mohanīya) the maximum duration is seventy (koṭākoṭi of sāgaropama).
+
+> saptati-rmohanīyasya
+
+_level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
+
+terms: [sthiti-bandha](../terms/sthiti-bandha.md), [mohanīya](../terms/mohaniya.md) · concepts: [The four kinds of bondage (Tattvārtha 8.3)](../concepts/four-aspects-of-bandha.md)
+
+### 8.16 <a id="tea-tattvartha-sutra-8-16"></a>
+`text-verified` · confidence high
+
+Of body-making (nāma) and status (gotra) the maximum duration is twenty (koṭākoṭi of sāgaropama).
+
+> viṃśatirnāma-gotrayoḥ
+
+_level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
+
+terms: [sthiti-bandha](../terms/sthiti-bandha.md), [nāma](../terms/nama-karma.md), [gotra](../terms/gotra-karma.md) · concepts: [The four kinds of bondage (Tattvārtha 8.3)](../concepts/four-aspects-of-bandha.md)
+
+### 8.17 <a id="tea-tattvartha-sutra-8-17"></a>
+`text-verified` · confidence high
+
+Of lifespan (āyus) the maximum duration is thirty-three sāgaropama.
+
+> trayastriṃśatsāgaropamāṇyāyuṣaḥ
+
+_level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
+
+terms: [sthiti-bandha](../terms/sthiti-bandha.md), [āyus](../terms/ayu-karma.md) · concepts: [The four kinds of bondage (Tattvārtha 8.3)](../concepts/four-aspects-of-bandha.md)
+
+### 8.18 <a id="tea-tattvartha-sutra-8-18"></a>
+`text-verified` · confidence high
+
+The minimum duration of feeling karma (vedanīya) is twelve muhūrtas.
+
+> aparā dvādaśa muhūrtā vedanīyasya
+
+_level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
+
+terms: [sthiti-bandha](../terms/sthiti-bandha.md), [vedanīya](../terms/vedaniya.md) · concepts: [The four kinds of bondage (Tattvārtha 8.3)](../concepts/four-aspects-of-bandha.md)
 
 ### 8.18-20 <a id="tea-tattvartha-sutra-8-18-20"></a>
 `skeleton` · confidence high
@@ -2251,51 +2457,86 @@ The minimum durations are twelve muhūrtas for feeling, eight for body-making an
 
 _level: unmarked · standpoint: analytic · path: action · stage: all · types: karma-liberation_
 
-terms: [sthiti-bandha](../terms/sthiti-bandha.md), [antarmuhūrta](../terms/antarmuhurta.md) · concepts: [The four aspects of bondage](../concepts/four-aspects-of-bandha.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [sthiti-bandha](../terms/sthiti-bandha.md), [antarmuhūrta](../terms/antarmuhurta.md) · concepts: [The four kinds of bondage (Tattvārtha 8.3)](../concepts/four-aspects-of-bandha.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+
+_Superseded by [8.18](tattvartha-sutra.md#tea-tattvartha-sutra-8-18)_
+
+### 8.19 <a id="tea-tattvartha-sutra-8-19"></a>
+`text-verified` · confidence high
+
+Of body-making and status the minimum duration is eight (muhūrtas).
+
+> nāma-gotrayoraṣṭau
+
+_level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
+
+terms: [sthiti-bandha](../terms/sthiti-bandha.md), [nāma](../terms/nama-karma.md), [gotra](../terms/gotra-karma.md) · concepts: [The four kinds of bondage (Tattvārtha 8.3)](../concepts/four-aspects-of-bandha.md)
+
+### 8.20 <a id="tea-tattvartha-sutra-8-20"></a>
+`text-verified` · confidence high
+
+Of the others (the remaining karmas) the minimum duration is less than a muhūrta (antar-muhūrta).
+
+> śeṣāṇāmantarmuhūrtā
+
+_level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
+
+terms: [sthiti-bandha](../terms/sthiti-bandha.md) · concepts: [The four kinds of bondage (Tattvārtha 8.3)](../concepts/four-aspects-of-bandha.md)
 
 ### 8.21 <a id="tea-tattvartha-sutra-8-21"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-Fruition (vipāka) is the experiencing [of karma].
+Fruition (vipāka) is experiencing (anubhava).
 
 > vipāko'nubhavaḥ
 
-_level: unmarked · standpoint: causal · path: action · stage: all · types: karma-liberation_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
 
-terms: [vipāka](../terms/vipaka.md), [anubhāga-bandha](../terms/anubhaga-bandha.md) · concepts: [The four aspects of bondage](../concepts/four-aspects-of-bandha.md), [The processes of karma](../concepts/karma-processes.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [anubhava-bandha](../terms/anubhaga-bandha.md), [anubhava](../terms/anubhava.md), [vipāka](../terms/vipaka.md) · concepts: [The four kinds of bondage (Tattvārtha 8.3)](../concepts/four-aspects-of-bandha.md), [Fruition and shedding of karma (Tattvārtha 8.21-8.23)](../concepts/karma-fruition-and-shedding.md), [The processes of karma](../concepts/karma-processes.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 8.22 <a id="tea-tattvartha-sutra-8-22"></a>
-`skeleton` · confidence high
+`text-verified` · confidence moderate
 
-It is according to the name [of each karma].
+That (fruition) is in accordance with the name of the karma (yathā-nāma).
 
 > sa yathānām
 
-_level: unmarked · standpoint: causal · path: action · stage: all · types: karma-liberation_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
 
-terms: [vipāka](../terms/vipaka.md) · concepts: [The processes of karma](../concepts/karma-processes.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [anubhava-bandha](../terms/anubhaga-bandha.md), [vipāka](../terms/vipaka.md) · concepts: [The four kinds of bondage (Tattvārtha 8.3)](../concepts/four-aspects-of-bandha.md), [Fruition and shedding of karma (Tattvārtha 8.21-8.23)](../concepts/karma-fruition-and-shedding.md), [The processes of karma](../concepts/karma-processes.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 8.23 <a id="tea-tattvartha-sutra-8-23"></a>
-`skeleton` · confidence high
+`text-verified` · confidence high
 
-After that [fruition, the karma] is shed.
+And from that (fruition) comes shedding (nirjarā).
 
 > tataśca nirjarā
 
-_level: unmarked · standpoint: causal · path: action · stage: all · types: karma-liberation_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
 
-terms: [nirjarā](../terms/nirjara.md) · concepts: [Shedding (nirjarā)](../concepts/nirjara.md), [The processes of karma](../concepts/karma-processes.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [nirjarā](../terms/nirjara.md) · concepts: [Fruition and shedding of karma (Tattvārtha 8.21-8.23)](../concepts/karma-fruition-and-shedding.md), [Shedding (nirjarā)](../concepts/nirjara.md), [The processes of karma](../concepts/karma-processes.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 8.24 <a id="tea-tattvartha-sutra-8-24"></a>
-`skeleton` · confidence high
+`text-verified` · confidence low
 
-The material particles of karma — subtle, occupying the same space [as the soul], lasting, of infinite times infinite units — bind on every side to all the soul's space-points, according to its activity, and are the cause of its forms.
+The (karma) particles, caused by (or having) the names (nāma-pratyayāḥ), from all sides, according to the particular activity (yoga-viśeṣāt), are subtle, remaining in the one space (the soul's), in all the soul's space-points (pradeśa), with infinite times infinite space-points.
 
 > nāma-pratyayāḥ sarvato yoga-viśeṣāt-sūkṣmaikakṣetrāvagāha-sthitāḥ sarvātma-pradeśeṣvanantānanta-pradeśāḥ
 
-_level: unmarked · standpoint: analytic · path: action · stage: all · types: karma-liberation, body-layers_
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation, body-layers_
 
-terms: [pradeśa-bandha](../terms/pradesa-bandha.md), [vargaṇā](../terms/vargana.md), [pradeśa](../terms/pradesa.md) · concepts: [The four aspects of bondage](../concepts/four-aspects-of-bandha.md), [Karma as matter](../concepts/karma-jain.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [pradeśa-bandha](../terms/pradesa-bandha.md), [pudgala](../terms/pudgala.md), [yoga](../terms/yoga.md), [vargaṇā](../terms/vargana.md), [pradeśa](../terms/pradesa.md) · concepts: [The four kinds of bondage (Tattvārtha 8.3)](../concepts/four-aspects-of-bandha.md), [Karma as matter](../concepts/karma-jain.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+
+### 8.25 <a id="tea-tattvartha-sutra-8-25"></a>
+`text-verified` · confidence moderate
+
+Pleasant feeling (sad-vedya), auspicious lifespan, auspicious body-making and auspicious status (śubha-āyus, nāma, gotra) are merit (puṇya).
+
+> sadvedyaśubhāyurnāma-gotrāṇi puṇyam
+
+_level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
+
+terms: [puṇya](../terms/punya.md) · concepts: [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md)
 
 ### 8.25-26 <a id="tea-tattvartha-sutra-8-25-26"></a>
 `skeleton` · confidence high
@@ -2307,6 +2548,19 @@ Pleasant feeling and the auspicious kinds of lifespan, body-making and status ar
 _level: conventional · standpoint: analytic · path: action · stage: all · types: karma-liberation, ethics_
 
 terms: [puṇya](../terms/punya.md), [pāpa](../terms/papa.md) · concepts: [Merit and demerit](../concepts/punya-papa.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+
+_Superseded by [8.25](tattvartha-sutra.md#tea-tattvartha-sutra-8-25)_
+
+### 8.26 <a id="tea-tattvartha-sutra-8-26"></a>
+`text-verified` · confidence high
+
+Other than this is demerit (pāpa).
+
+> ato'nyatpāpam
+
+_level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
+
+terms: [pāpa](../terms/papa.md) · concepts: [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md)
 
 ### 9.1 <a id="tea-tattvartha-sutra-9-1"></a>
 `skeleton` · confidence high
@@ -2449,7 +2703,7 @@ Intelligence and ignorance [arise] from knowledge-obscuring karma; lack of visio
 
 _level: unmarked · standpoint: causal · path: action · stage: all · types: karma-liberation_
 
-concepts: [The twenty-two hardships (parīṣaha)](../concepts/twenty-two-parisahas.md), [The eight kinds of karma](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+concepts: [The twenty-two hardships (parīṣaha)](../concepts/twenty-two-parisahas.md), [The eight karma types (Tattvārtha 8.4-8.13)](../concepts/eight-karmas.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 9.17 <a id="tea-tattvartha-sutra-9-17"></a>
 `skeleton` · confidence high
@@ -2768,7 +3022,7 @@ terms: [mokṣa](../terms/moksa.md), [nirjarā](../terms/nirjara.md), [bandha](.
 
 _level: ultimate · standpoint: substance · path: general · stage: realized · types: karma-liberation, ultimate_
 
-terms: [siddha](../terms/siddha.md), [bhavya](../terms/bhavya.md), [kevala-jñāna](../terms/kevala-jnana.md), [kevala-darśana](../terms/kevala-darsana.md) · concepts: [The state of the liberated (siddha)](../concepts/siddha-state.md), [The five states of the soul (bhāva)](../concepts/five-bhavas.md), [The soul's infinite fourfold (ananta-catuṣṭaya)](../concepts/ananta-catustaya.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
+terms: [siddha](../terms/siddha.md), [bhavya](../terms/bhavya.md), [kevala-jñāna](../terms/kevala-jnana.md), [kevala-darśana](../terms/kevala-darsana.md) · concepts: [The state of the liberated (siddha)](../concepts/siddha-state.md), [The five states of the soul (Tattvārtha 2.1-2.7)](../concepts/five-bhavas.md), [The soul's infinite fourfold (ananta-catuṣṭaya)](../concepts/ananta-catustaya.md) · teachers: [Umāsvāti](../teachers/umasvati.md)
 
 ### 10.5 <a id="tea-tattvartha-sutra-10-5"></a>
 `skeleton` · confidence high
@@ -2825,6 +3079,20 @@ _level: conventional · standpoint: analytic · path: general · stage: realized
 
 terms: [siddha](../terms/siddha.md), [pratyekabuddha](../terms/pratyekabuddha-jain.md) · concepts: [The state of the liberated (siddha)](../concepts/siddha-state.md) · teachers: [Umāsvāti](../teachers/umasvati.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
+### ch6 <a id="tea-tattvartha-sutra-ch6"></a>
+`text-verified` · confidence high
+
+Chapter 6 (6.1-6.27) on inflow (āsrava): activity of body, speech and mind is inflow (1-2); auspicious and inauspicious (3); the sāmparāyika inflow of one with passions and the īryāpatha inflow of one without (4); the divisions of the former (5); what makes inflow differ (6); its substratum, soul and non-soul, with their divisions (7-9); then the causes of inflow of each karma type (10-27): knowledge- and perception-obscuring (10), feeling (11-12), deluding (13-14), lifespan (15-21), body-making including the Tīrthaṅkara state (22-24), status (25-26), obstructive (27).
+
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
+
+### ch8 <a id="tea-tattvartha-sutra-ch8"></a>
+`text-verified` · confidence high
+
+Chapter 8 (8.1-8.26) on bondage (bandha): the five causes (1); bondage is the soul's taking in of karma-particles because of its passions (2); the four kinds (3); the eight karma types with their subdivisions (4-13), including the deluding karma with its passions and their four varieties (9); the durations (14-20); fruition, its accordance with the name, and shedding (21-23); how the particles bind (24); merit and demerit (25-26).
+
+_level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
+
 ### sv-1.34-35 <a id="tea-tattvartha-sutra-sv-1-34-35"></a>
 `skeleton` · confidence moderate
 
@@ -2849,4 +3117,4 @@ terms: [kāla](../terms/kala.md) · concepts: [The six substances (ṣaḍ-dravy
 _Notes: Śvetāmbara numbering differs from the Digambara (e.g. sallekhanā is Dig 7.22 = Śv 7.17; hiṃsā is Dig 7.13 = Śv 7.8, since the Śv sūtra text lacks Dig 7.4–8; nayas Dig 1.33 = Śv 1.34–35; 'kālaś ca' Dig 5.39 ≈ Śv 5.38 'kālaś cety eke'). Śv numbers given from memory. Title present in the local catalogue (catalog:JainDB:तत्त्वार्थसूत्र--आचार्य-उमास्वामी); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

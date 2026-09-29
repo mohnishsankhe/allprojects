@@ -10,4 +10,4 @@ The Licchavi householder of Vaiśālī, a bodhisattva of inconceivable skillful 
 **Realization — the tradition's account (as a figure of the sūtras):** Had served past buddhas, obtained the acceptance of dharmas, eloquence and dhāraṇī (Vimalakīrti 2.1)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._

@@ -13,4 +13,4 @@
 - is-a → [Brahman's real transformation into the world (pariṇāma)](brahma-parinama.md) — rests on [1.4.26](../texts/anubhasya.md#tea-anubhasya-1-4-26)
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._

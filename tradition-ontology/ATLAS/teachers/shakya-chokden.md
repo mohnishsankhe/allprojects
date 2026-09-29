@@ -13,4 +13,4 @@
 Sakya 'Golden Paṇḍita' (paṇ chen), student of Rongtön; critic of Tsongkhapa who later developed a distinctive position valuing both 'self-empty' Madhyamaka for cutting conceptual elaboration and 'other-empty' Yogācāra (Alīkākāra) for meditative experience; the tradition says his works were suppressed under the Fifth Dalai Lama's government.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._

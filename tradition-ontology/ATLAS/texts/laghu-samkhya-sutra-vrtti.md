@@ -16,4 +16,4 @@ A short commentary on the Sāṃkhya Sūtra ascribed to the grammarian Nāgeśa 
 _Notes: Recalled with low confidence; verify title and ascription._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:04 IST._

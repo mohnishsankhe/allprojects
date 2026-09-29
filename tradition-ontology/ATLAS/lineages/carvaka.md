@@ -52,4 +52,4 @@ _none recorded_
 _Notes: The Mahābhārata's Cārvāka (12.39) is a rākṣasa in mendicant's disguise who teaches no doctrine; the link between that figure and the school's name is not made by the epic. Bṛhaspati is recorded under the registry id tch:brhaspati (the tradition identifies the teacher with the preceptor of the gods); split if the merge prefers to keep the Lokāyata author apart._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:04 IST._

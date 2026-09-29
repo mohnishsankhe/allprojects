@@ -17,4 +17,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md) — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 6.3.3; ChU 6.4; ChU 6.5; ŚU 4.5). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._

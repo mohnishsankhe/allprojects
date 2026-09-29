@@ -14,4 +14,4 @@ Vikramaśīla scholar, author of the chief Sanskrit commentary on the Bodhicary�
 _Notes: Tibetan accounts name him one of the gate-keeper scholars (dvārapaṇḍita) of Vikramaśīla — to check._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._

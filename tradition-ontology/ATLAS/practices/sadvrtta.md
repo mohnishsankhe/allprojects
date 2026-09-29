@@ -14,4 +14,4 @@ Follow, with constant mindfulness, the conduct of the good: honour gods, teacher
   - [Aṣṭāṅga Hṛdaya](../texts/astanga-hrdaya.md) — ref: Sū 2.20-47; rests_on: ["tea:astanga-hrdaya:su.2.20-22", "tea:astanga-hrdaya:su.2.23-30", "tea:astanga-hrdaya:su.2.45-47"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

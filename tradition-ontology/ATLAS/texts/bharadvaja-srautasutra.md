@@ -15,4 +15,4 @@ The Śrauta manual of the Bhāradvāja branch of the Taittirīya school.
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Bhāradvājaśrautasūtra, catalog:eBharati:bhAradvAjashrautasUtram, https://en.wikipedia.org/wiki/%C5%9Arauta — Low-confidence entry confirmed as extant (DCS, eBhāratī); the Bhāradvāja branch of the Taittirīya school.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

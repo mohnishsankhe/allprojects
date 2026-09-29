@@ -14,4 +14,4 @@ Queen of Mālava who attained self-knowledge by her own inquiry and powers throu
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — MU 6.81.12 'mālavānāṃ pure śrīmāñ śikhidhvaja' (queen of Mālava), cūḍālāprabodha 6.82, kumbha 6.90, madanikā 6.110.36.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._

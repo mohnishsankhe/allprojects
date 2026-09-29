@@ -15,4 +15,4 @@
 Heir of Mazu, credited by the tradition with founding independent Chan monasteries and the monastic rule; 'a day without work, a day without food'; his fox kōan.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._

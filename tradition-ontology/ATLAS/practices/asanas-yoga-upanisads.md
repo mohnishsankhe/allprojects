@@ -19,4 +19,4 @@ Lists vary: four chief postures (siddha, padma, siṃha, bhadra — Yogatattva, 
 
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Counts confirmed in the e-text: Varāha 5.15-16 (eleven, 'ekādaśāsanāni'), Triśikhi 34-52 (seventeen), Darśana 3.1-2 (nine), Yogatattva 29 and Dhyānabindu 43 (four chief). All 5 teachings it rests on exist and were located in the e-text.
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 22:04 IST._

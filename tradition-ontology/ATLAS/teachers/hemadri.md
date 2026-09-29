@@ -21,4 +21,4 @@ _Notes: Identified by scholars with the Yādava minister and author of the Catur
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Hemadpant — Confirmed: chief minister of the Yādava kings 1259–1274 (Wikipedia 'Hemadpant').
 - 2026-09-29 websearch: confirmed — https://esamskriti.com/e/History/Great-Indian-Leaders/Hemadri-Pandit,-forgotten-scholar-of-the-13th-century-1.aspx — Web: minister (prime minister c. 1259-1274) of the Yādava kings of Devagiri, author of the Caturvargacintāmaṇi.
 
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U26-regional-bhakti, skeleton:U07-puranas, skeleton:U25-alvar-bhakti-theory, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U26-regional-bhakti, skeleton:U07-puranas, skeleton:U25-alvar-bhakti-theory, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

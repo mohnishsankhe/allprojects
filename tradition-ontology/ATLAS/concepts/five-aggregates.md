@@ -14,9 +14,9 @@
 - [Pudgalavāda](../lineages/pudgalavada.md): The basis on which the person is designated, neither identical with it nor different.
 
 ## Relations (interpretation layer)
-- contrasts-with → [The five sheaths (pañca-kośa)](five-sheaths.md): both analyse the person into five, but the aggregates are not layers of a self — rests on [40-41](../texts/alagaddupama-sutta.md#tea-alagaddupama-sutta-40-41), [2-8](../texts/culavedalla-sutta.md#tea-culavedalla-sutta-2-8)
+- contrasts-with → [The five sheaths (pañca-kośa) as defined in Taittirīya Upaniṣad 2.1-2.5](five-sheaths.md): both analyse the person into five, but the aggregates are not layers of a self — rests on [40-41](../texts/alagaddupama-sutta.md#tea-alagaddupama-sutta-40-41), [2-8](../texts/culavedalla-sutta.md#tea-culavedalla-sutta-2-8)
 
 _Notes: U38 contribution to a shared concept._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._

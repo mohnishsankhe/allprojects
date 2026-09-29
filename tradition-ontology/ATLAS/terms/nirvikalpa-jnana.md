@@ -19,4 +19,4 @@
 **Related:** [pṛṣṭhalabdha-jñāna](prsthalabdha-jnana.md), [lokottara-jñāna](lokottara-jnana.md), [bhūtapratyavekṣā](bhutapratyaveksa.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._

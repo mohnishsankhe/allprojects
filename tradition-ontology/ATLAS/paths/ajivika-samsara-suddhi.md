@@ -21,4 +21,4 @@
 Reported by opponents only. It is a fixed course that every being runs, not a path of practice; the classes are grades of beings. Bands are assigned only to the culmination (B7); the earlier classes are left unbanded because the doctrine denies that effort moves one along them.
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:04 IST._

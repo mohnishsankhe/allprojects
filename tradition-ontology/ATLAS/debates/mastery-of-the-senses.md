@@ -27,4 +27,4 @@ The sūtra and bhāṣya: supreme mastery is that, when the mind is stilled, the
 **Explanation:** Vyāsa himself grades the views, calling the last 'supreme' (paramā): they are lower and higher stages of sense-mastery (P4).
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 22:04 IST._

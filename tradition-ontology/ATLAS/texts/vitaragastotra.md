@@ -24,8 +24,8 @@ Obeying your command is higher than worshipping you; your command, kept or broke
 
 _level: conventional · standpoint: devotional · path: devotion, action · stage: all · types: practice, karma-liberation_
 
-terms: [āsrava](../terms/asrava.md), [saṃvara](../terms/samvara.md) · concepts: [Inflow (āsrava)](../concepts/asrava.md), [Stopping (saṃvara)](../concepts/samvara.md) · teachers: [Hemacandra](../teachers/hemacandra.md)
+terms: [āsrava](../terms/asrava.md), [saṃvara](../terms/samvara.md) · concepts: [Inflow (āsrava) in the Tattvārtha Sūtra](../concepts/asrava.md), [Stopping (saṃvara)](../concepts/samvara.md) · teachers: [Hemacandra](../teachers/hemacandra.md)
 
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

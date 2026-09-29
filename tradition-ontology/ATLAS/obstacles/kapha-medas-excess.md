@@ -12,4 +12,4 @@ An excess of fat (medas) or phlegm (śleṣman) calls for the six acts before br
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 2.21; 2.36; rests_on: ["tea:hatha-yoga-pradipika:2.21", "tea:hatha-yoga-pradipika:2.36-37"]
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._

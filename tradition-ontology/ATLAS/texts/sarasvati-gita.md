@@ -35,4 +35,4 @@ _level: conventional · standpoint: ritual · path: ritual, general · stage: al
 
 - dating: CE 3.184: Sarasvatī questioned by Tārkṣya (184.1-4) confirmed. The copied Mokṣadharma dating clause is replaced (Āraṇyakaparvan).
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._

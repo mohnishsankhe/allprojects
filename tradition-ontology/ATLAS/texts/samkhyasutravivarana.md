@@ -14,4 +14,4 @@ An anonymous commentary on the Tattvasamāsa, opening with Kapila teaching the t
   - kind: original; name: V. P. Dvivedin (ed.), Sāṃkhyasaṅgrahaḥ, Chowkhamba Sanskrit Series 50, Varanasi 1920; GRETIL e-text; licence: GRETIL (reference/scholarly use only)
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:04 IST._

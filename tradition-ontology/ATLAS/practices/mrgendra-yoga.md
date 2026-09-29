@@ -18,4 +18,4 @@ Breath-control (propelling, drawing in, holding), withdrawal of the mind from ob
 _Notes: Breath-retention is named only; no counts or durations are recorded (restricted content policy)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._

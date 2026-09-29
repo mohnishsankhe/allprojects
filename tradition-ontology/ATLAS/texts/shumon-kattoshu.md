@@ -15,4 +15,4 @@ Rinzai kōan collection (1689) of 272 cases used in training.
 _Notes: Number of cases from memory — low confidence._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._

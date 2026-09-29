@@ -19,4 +19,4 @@
 **Related:** [vaṇṇa](vanna.md), [veda](veda.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch01-03, skeleton:U12-mimamsa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch01-03, skeleton:U12-mimamsa. Generated 2026-09-29 22:04 IST._

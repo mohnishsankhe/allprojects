@@ -22,4 +22,4 @@ _Notes: Tradition reports that Skandasvāmin worked with Nārāyaṇa and Udgīt
 
 - 2026-09-28 websearch: confirmed — https://www.hindupedia.com/en/Skandasv%C4%81min, https://ia803200.us.archive.org/15/items/commentators-of-the-rgveda-a-recapitulation/COMMENTATORS%20OF%20THE%20RGVEDA%20-%20A%20Recapitulation.pdf, https://www.exoticindiaart.com/book/details/rgveda-with-four-commentaries-skandasvamin-udgitha-venkata- — Confirmed: pre-Sāyaṇa Ṛgveda commentary, c. 625–630 CE (entry: 7th c.); per Veṅkaṭamādhava the bhāṣya was written jointly — Skandasvāmin to the 4th aṣṭaka, Nārāyaṇa and Udgītha the rest; partly surviving.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:04 IST._

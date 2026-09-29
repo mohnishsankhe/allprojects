@@ -16,4 +16,4 @@
 - contrasts-with → [Pūrva-Kaula and Uttara-Kaula (Lakṣmīdhara)](purva-uttara-kaula.md) — rests on [34-35](../texts/laksmidhara.md#tea-laksmidhara-34-35)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._

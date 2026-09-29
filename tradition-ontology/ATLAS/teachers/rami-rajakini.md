@@ -9,4 +9,4 @@
 The washerwoman whom the Sahajiyā Caṇḍīdās loved; revered by Sahajiyās as the model female partner, to whom some songs are attributed.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._

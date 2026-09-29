@@ -30,4 +30,4 @@
 **Related:** [pratyakṣa](pratyaksa.md), [āgama](agama.md), [pūrvavat](purvavat.md), [śeṣavat](sesavat.md), [sāmānyatodṛṣṭa](samanyatodrsta.md), [vīta](vita.md), [avīta](avita.md), [trairūpya](trairupya.md), [svārthānumāna](svarthanumana.md), [parārthānumāna](pararthanumana.md), [svatantra-anumāna](svatantra-anumana.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U41-yogacara-pramana, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, skeleton:U33-sramana, skeleton:U40-madhyamaka, skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U41-yogacara-pramana, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, skeleton:U33-sramana, skeleton:U40-madhyamaka, skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._

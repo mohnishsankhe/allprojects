@@ -15,4 +15,4 @@
 - contrasts-with → [The six kinds of samādhi (Gheraṇḍa)](six-samadhis-gheranda.md): Set by Kabīr against yogic absorption obtained by force (closing eyes, stopping ears, torturing the body). — rests on [sahaj-sadho-sahaj-samadhi-bhali](../texts/kabir-granthavali.md#tea-kabir-granthavali-sahaj-sadho-sahaj-samadhi-bhali)
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._

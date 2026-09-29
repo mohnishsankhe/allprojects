@@ -19,4 +19,4 @@ Gujarati jeweller, poet and lay teacher (1867–1901), author of the Ātmasiddhi
 _Notes: Affinity with the Adhyātma current (he taught from the Samayasāra and Banārsīdās's Nāṭaka) rather than formal membership._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

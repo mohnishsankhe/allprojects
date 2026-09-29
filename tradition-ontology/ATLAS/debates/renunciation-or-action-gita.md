@@ -80,4 +80,4 @@ _Notes: Chs. 4–6 contribution to the dispute of this id (ch01-03 records 3.1�
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.1, tea:bhagavad-gita:5.2, tea:bhagavad-gita:5.5, tea:bhagavad-gita:5.13, tea:bhagavad-gita:5.4, tea:bhagavad-gita:6.1, tea:bhagavad-gita:5.3, tea:bhagavad-gita:5.6, tea:bhagavad-gita:6.2, tea:bhagavad-gita:6.3, tea:bhagavad-gita:6.4 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._

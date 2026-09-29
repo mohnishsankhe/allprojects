@@ -33,8 +33,8 @@ In a former birth as Marīci, grandson of Ṛṣabha, the future Mahāvīra left
 
 _level: conventional · standpoint: causal · path: general · stage: all · types: karma-liberation, narrative_
 
-terms: [gotra-karma](../terms/gotra-karma.md) · obstacles: [The eight prides (mada)](../obstacles/eight-madas.md) · teachers: [Mahāvīra (Vardhamāna)](../teachers/mahavira.md), [Ṛṣabha (Ṛṣabhanātha, Ādinātha)](../teachers/rsabha.md) · disputes: [Was Mahāvīra's embryo transferred from Devānandā to Triśalā?](../debates/mahavira-embryo-transfer.md)
+terms: [gotra](../terms/gotra-karma.md) · obstacles: [The eight prides (mada)](../obstacles/eight-madas.md) · teachers: [Mahāvīra (Vardhamāna)](../teachers/mahavira.md), [Ṛṣabha (Ṛṣabhanātha, Ādinātha)](../teachers/rsabha.md) · disputes: [Was Mahāvīra's embryo transferred from Devānandā to Triśalā?](../debates/mahavira-embryo-transfer.md)
 
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

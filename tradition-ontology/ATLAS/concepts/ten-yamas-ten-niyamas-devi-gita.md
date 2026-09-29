@@ -17,4 +17,4 @@
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/3_purana/devigita.md (GRETIL Devīgītā = DBhP 7.31-40) — Rests on tea:devi-gita:7.35.1-8; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._

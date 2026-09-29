@@ -33,4 +33,4 @@ Varṇa and the rules of purity bind all; marriage across varṇa in the pratilo
 _Notes: Contributes the Vīraśaiva sides to the wider dsp:women-caste-liberation (owned by U50)._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._

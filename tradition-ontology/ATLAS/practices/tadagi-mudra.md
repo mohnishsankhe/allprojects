@@ -13,4 +13,4 @@ In paścimatāna, the belly is drawn back and hollowed so that it is shaped like
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 3.61; rests_on: ["tea:gheranda-samhita:3.61"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._

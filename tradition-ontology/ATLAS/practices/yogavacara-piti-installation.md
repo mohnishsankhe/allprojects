@@ -12,4 +12,4 @@ After preliminary rites and a formal request to the teacher, the meditator induc
   - [The Yogāvacara's Manual](../texts/yogavacaras-manual.md) — ref: intro; rests_on: ["tea:yogavacaras-manual:intro"]
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._

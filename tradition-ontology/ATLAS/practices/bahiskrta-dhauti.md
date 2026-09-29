@@ -16,4 +16,4 @@ RESTRICTED — summary only: described as filling the belly with air by kākī m
 - The great bahiṣkṛta-dhauti does not arise until one can hold (the air) for a long period. — [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) 1.25
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._

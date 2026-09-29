@@ -21,4 +21,4 @@ The ceremonial bath (snāna) ending studentship, after which the graduate (snāt
 
 - sources: Samāvartana is not in the cited MDh 2.26–35 or ĀśGS book 1. It is at MDh 3.4 ('guruṇānumataḥ snātvā samāvṛtto yathāvidhi | udvaheta dvijo bhāryām'), after 3.1–3 on the length of studentship. In the Āśvalāyana GS it is at 3.8–9 ('atha etāny upakalpayīta samāvartamāno …'). Correction: sources MDh 3.1-4 and ĀśGS 3.8-9.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

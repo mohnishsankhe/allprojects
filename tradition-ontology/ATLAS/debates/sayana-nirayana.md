@@ -27,4 +27,4 @@ Sāyana: the seasons, the solstices and the sun's courses follow the equinox, an
 _Notes: Positions summarized from memory; texts to be located in Phase C/D._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._

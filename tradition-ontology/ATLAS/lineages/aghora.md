@@ -55,4 +55,4 @@ _none recorded_
 _Notes: family 'vedic' follows the coverage-map grouping (A7, Śaiva lineages); it does not settle the tradition's own rejection of Vedic ritual authority (see dsp:natha-varna-and-ritual (Aghora shares the Nāth position)) nor its overlap with the Buddhist Mahāsiddhas (C; brw:natha-mahasiddha). Tradition's dates for Kīnārām are recorded as the tradition gives them; they are not independently confirmed._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._

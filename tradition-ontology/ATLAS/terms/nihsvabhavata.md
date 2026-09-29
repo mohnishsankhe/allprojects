@@ -21,4 +21,4 @@
 **Related:** [svabhāva](svabhava.md), [śūnyatā](sunyata.md), [lakṣaṇa-niḥsvabhāvatā](laksana-nihsvabhavata.md), [utpatti-niḥsvabhāvatā](utpatti-nihsvabhavata.md), [paramārtha-niḥsvabhāvatā](paramartha-nihsvabhavata.md)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._

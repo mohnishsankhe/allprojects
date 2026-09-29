@@ -34,4 +34,4 @@ _none recorded_
 _Notes: Scope overlaps U54 (Faxiang) and U55 (Japan); created here because no unit owns it._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._

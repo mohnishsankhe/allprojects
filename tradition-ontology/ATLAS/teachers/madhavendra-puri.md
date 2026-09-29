@@ -12,4 +12,4 @@ Renouncer revered by the Gauḍīyas as the 'seed' of the love-devotion that Cai
 _Notes: His lament 'ayi dīna-dayārdra nātha …' is quoted in CC 2.4 (verse number to verify)._
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._

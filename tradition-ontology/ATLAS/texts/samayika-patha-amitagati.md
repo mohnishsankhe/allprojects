@@ -14,4 +14,4 @@
 Amitagati's 32 verses recited in the equanimity practice, opening with the wish to hold friendship for beings, joy in the virtuous, compassion for the afflicted and equanimity toward the perverse.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

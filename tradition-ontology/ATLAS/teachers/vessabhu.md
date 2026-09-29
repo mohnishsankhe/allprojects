@@ -8,4 +8,4 @@
 The third of the seven Buddhas of DN 14 (thirty-one aeons ago).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

@@ -11,4 +11,4 @@
 Rūpa's ten-act drama of Kṛṣṇa's pastimes in Vraja, Mathurā and Dvārakā, ending in Rādhā's reunion with him (1537 CE per the text).
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._

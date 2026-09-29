@@ -21,4 +21,4 @@ Answers the Kumāras' question how the mind and the guṇas can be separated: th
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915) — BhP 11.13.15 (Uddhava asks in what form the Lord taught Sanaka) to 11.13.42 (Haṃsa returns to his abode) confirmed; the Gītāsaṅgraha prints exactly these 28 verses as the Haṃsa Gītā ('haṃsagatādhyāya').
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._

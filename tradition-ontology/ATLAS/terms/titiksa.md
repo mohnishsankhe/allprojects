@@ -17,4 +17,4 @@
 **Related:** [mātrā-sparśa](matrasparsa.md), [samatva](samatva.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._

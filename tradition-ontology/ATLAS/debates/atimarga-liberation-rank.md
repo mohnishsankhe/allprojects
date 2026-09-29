@@ -24,4 +24,4 @@ This records the Mantramārga's inclusivist ranking as a stage-reading; it does 
 **The traditions' own objections:** The Pāśupata tradition would reject being ranked below another path: its sūtra calls all other paths bad paths (PS 4.16-18) and its end of suffering final.
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 22:04 IST._

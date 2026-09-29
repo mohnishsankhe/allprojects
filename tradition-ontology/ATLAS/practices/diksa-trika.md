@@ -13,4 +13,4 @@ Initiation in its many forms - samaya, putraka, abbreviated, by the balance, of 
   - [Parātrīśikā](../texts/paratrisika.md) — ref: 25; rests_on: ["tea:paratrisika:25"]
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._

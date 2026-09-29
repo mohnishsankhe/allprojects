@@ -16,4 +16,4 @@
 **Related:** [jāṭharāgni](jatharagni.md), [bhūtāgni](bhutagni.md), [dhātvagni](dhatvagni.md), [pitta](pitta.md)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U01-vedic-samhitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:04 IST._

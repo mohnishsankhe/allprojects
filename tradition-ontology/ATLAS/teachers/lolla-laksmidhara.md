@@ -15,4 +15,4 @@ Commentator on the Saundaryalaharī (the Lakṣmīdharā) and on the Subhagodaya
 _Notes: Distinct from Lakṣmīdhara Bhaṭṭa, author of the Kṛtyakalpataru (tch:laksmidhara in U02/U07), and from Lakṣmīdhara Kavi of the Advaitamakaranda (tch:laksmidhara-kavi), though some identify him with the latter. U08 attached the Saundaryalaharī commentary to tch:laksmidhara — needs deduplication._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._

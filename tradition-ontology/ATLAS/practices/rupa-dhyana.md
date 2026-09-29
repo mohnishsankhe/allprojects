@@ -22,4 +22,4 @@ Holding the mind on the form of the Lord in the heart or before the mind's eye, 
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:2.2.8-14, tea:bhagavata-purana:3.28.12-33, tea:visnu-purana:6.7.75-90 — BhP 2.2.8-14, 3.28.12-33, VP 6.7.75-90 (6.7.87) located. All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas, skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._

@@ -21,4 +21,4 @@ _Notes: Chs. 10–12 contribution (extractor B; extractor A links the verses by 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.7, tea:bhagavad-gita:10.17, tea:bhagavad-gita:10.18, tea:bhagavad-gita:11.4, tea:bhagavad-gita:11.8, tea:bhagavad-gita:11.9, tea:bhagavad-gita:11.47 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.12, tea:bhagavad-gita:9.4, tea:bhagavad-gita:9.5, tea:bhagavad-gita:9.6 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 22:04 IST._

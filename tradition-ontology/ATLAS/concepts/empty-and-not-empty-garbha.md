@@ -14,4 +14,4 @@
 - contrasts-with → [Emptiness in the Perfection of Wisdom sūtras](emptiness-prajnaparamita.md): emptiness restricted to the stains — rests on [1.154-155](../texts/ratnagotravibhaga.md#tea-ratnagotravibhaga-1-154-155)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._

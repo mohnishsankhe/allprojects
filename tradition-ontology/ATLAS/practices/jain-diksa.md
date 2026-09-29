@@ -14,4 +14,4 @@ The candidate, with family consent, renounces possessions in a public ceremony, 
 **Sequences:** [From lay follower to naked monk (Digambara ladder)](../paths/digambara-pratimas-to-muni.md)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

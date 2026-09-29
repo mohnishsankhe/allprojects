@@ -20,4 +20,4 @@
 NOT a sequence: six alternative routes to the one samādhi that the GS calls rājayoga and 'the mark of liberation' (7.17). 'order' is the text's order of exposition only. All banded B4 (absorption), with the text's claim of liberation (B7) noted. Verse refs of 7.7–16 recalled from structure.
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._

@@ -15,4 +15,4 @@
 _Notes: List read from the section headings of the local Vaidya e-text (sections 3-56)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._

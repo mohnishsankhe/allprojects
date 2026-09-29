@@ -15,4 +15,4 @@
 - contested: [yajña](yajna.md) — same word; the Buddha redefines sacrifice and rejects animal offerings; the Vedic tradition holds its own account
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

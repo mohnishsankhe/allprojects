@@ -16,4 +16,4 @@
 one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); a short devotional poem in the yamaka style (repeated syllable-groups with different meanings) retelling the story of Kṛṣṇa and the Pāṇḍavas.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._

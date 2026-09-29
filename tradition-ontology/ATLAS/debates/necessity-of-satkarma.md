@@ -32,4 +32,4 @@ The number of acts (six or eight) is a matter of enumeration of variants, not do
 **The traditions' own objections:** The 'some teachers' of HYP 2.37 reject the acts outright; the reconciliation records that they would not accept them even conditionally.
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._

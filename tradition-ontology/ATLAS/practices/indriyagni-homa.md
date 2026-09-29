@@ -15,4 +15,4 @@ Bhagavad Gītā 4.26: offering the sense objects, beginning with sound, into the
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.26 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 22:04 IST._

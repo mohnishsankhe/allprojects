@@ -14,4 +14,4 @@ Pāñcarātra saṃhitā named after Viṣvaksena, the commander of Viṣṇu's 
   - kind: original; name: ed. Lakshmi Narasimha Bhatt, Tirupati 1972; GRETIL e-text
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._

@@ -14,4 +14,4 @@ Vaikhānasa scholar ('Śrīnivāsamakhin', titled Vedāntadeśika), of the Kauś
 _Notes: Self-description checked in sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/4_rellit/vaisn/srinivasamakhi_vedantadesika_dasavidhahetunirupana.md (GRETIL, input by U. Hüsken) (DHN 1.15–20). Date not established here._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._

@@ -14,4 +14,4 @@ False knowledge, demerit, the cause of attachment, falling away, and the root of
   - [Pañcārthabhāṣya](../texts/pancarthabhasya.md) — ref: on PS 5.29; rests_on: ["tea:pancarthabhasya:5.29"]
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 22:04 IST._

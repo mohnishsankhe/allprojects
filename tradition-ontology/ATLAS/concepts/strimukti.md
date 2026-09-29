@@ -16,4 +16,4 @@
 - causes → [Monastic nudity and clothing](monastic-nudity.md): the Digambara denial rests largely on the requirement of nudity — rests on [sutta.23](../texts/astapahuda.md#tea-astapahuda-sutta-23), [strimukti](../texts/prameyakamalamartanda.md#tea-prameyakamalamartanda-strimukti)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

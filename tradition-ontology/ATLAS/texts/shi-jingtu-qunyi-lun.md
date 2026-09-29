@@ -56,4 +56,4 @@ terms: [nianfo sanmei](../terms/nianfo-sanmei.md) · concepts: [Seeing the Buddh
 _Notes: Passages read locally (T47n1960)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._

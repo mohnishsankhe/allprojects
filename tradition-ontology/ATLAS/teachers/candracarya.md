@@ -10,4 +10,4 @@ The teacher who, according to the closing verses of the Vākyapadīya's second b
 _Notes: Some identify him with the Buddhist grammarian Candragomin; the identification is doubtful._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._

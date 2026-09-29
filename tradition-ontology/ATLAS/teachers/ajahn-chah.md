@@ -17,4 +17,4 @@ Thai forest master (1918–1992) of Wat Nong Pah Pong in Ubon Ratchathani, who m
 _Notes: A Mahānikāya monk, not Dhammayut._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._

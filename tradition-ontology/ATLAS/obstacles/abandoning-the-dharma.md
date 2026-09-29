@@ -14,4 +14,4 @@ The grave fault of disparaging or rejecting any authentic teaching of the Buddha
 _Notes: The fault is a general Mahāyāna category (saddharma-pratikṣepa); its Rimé application is recalled, the specific passage is not._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._

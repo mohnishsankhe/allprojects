@@ -10,4 +10,4 @@
 Tamil scholar and Śaiva Siddhānta advocate, leader of the 'pure Tamil' movement; argued for an early date of Māṇikkavācakar and led the 1921 fixing of the Tiruvaḷḷuvar era.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._

@@ -15,4 +15,4 @@ Buddhaguhya's introduction to the meaning of the Tattvasaṃgraha.
 _Notes: Tōh 2501 from memory._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._

@@ -17,4 +17,4 @@
 The triad comes from Shandao's question 'how to settle the mind, undertake practice and carry it out' (T1980 438c01-02, read locally); the later stages are the general Pure Land sequence.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._

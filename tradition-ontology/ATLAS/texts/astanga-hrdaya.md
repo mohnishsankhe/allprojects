@@ -301,4 +301,4 @@ disputes: [Should a medical text be accepted because a sage composed it, and mus
 
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

@@ -13,4 +13,4 @@
 Founder of the Tsalpa Kagyu and of Tshal Gungthang; disciple of Gomtsul; author of the Ultimate Supreme Path of Mahāmudrā; also a political figure in the Lhasa region.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

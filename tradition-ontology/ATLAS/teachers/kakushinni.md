@@ -11,4 +11,4 @@
 Shinran's youngest daughter who cared for him in Kyoto and established the Ōtani mausoleum (1272), the origin of the Honganji, as its caretaker.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._

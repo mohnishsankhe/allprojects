@@ -16,4 +16,4 @@
 Vyāsa Rāmācārya's commentary on the Nyāyāmṛta, defending it against Madhusūdana Sarasvatī's Advaitasiddhi; Brahmānanda Sarasvatī's Laghucandrikā replies to it.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._

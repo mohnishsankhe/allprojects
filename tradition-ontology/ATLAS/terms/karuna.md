@@ -1,12 +1,13 @@
-# karuṇā
+# kāruṇya
 
-`trm:karuna` · `skeleton` · confidence high
+`trm:karuna` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Native script:** करुणा
 **Literal:** compassion
 
 ## Definitions by tradition
+- [Jainism (Jaina dharma)](../lineages/jainism.md): Cultivated towards the afflicted (7.11).
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): Compassion cultivated toward the suffering, one of the four attitudes that clarify the mind (1.33, YBh 1.33). Saṃyama on it yields its strength (3.23).
 - [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md): The second brahmavihāra, abandoning cruelty (MN 62; DN 13).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: Compassionate (karuṇa): a mark of the devotee dear to the Lord (12.13).
@@ -31,6 +32,7 @@ _Notes: Shared slug with the Sanskrit term._
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:tattvartha-sutra:7.11 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.13 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch10-12, skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U44-indian-vajrayana, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U10-yoga, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch10-12, skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U44-indian-vajrayana, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._

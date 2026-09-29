@@ -16,4 +16,4 @@ Summary only (restricted). Having trained in the liturgy, the practitioner goes 
 - Not to be undertaken before the teacher permits and before one has stability; practised with self-clinging it increases fear and harm. — [The Great Bundle of Precepts: the profound Chöd instruction of the Perfection of Wisdom (shes rab kyi pha rol tu phyin pa zab mo gcod kyi man ngag gi gzhung bka' tshoms chen mo)](../texts/katsom-chenmo.md) frightening-places (thematic)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._

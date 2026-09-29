@@ -12,4 +12,4 @@ Ancient king cursed to be a python; he seizes Bhīma and is freed when Yudhiṣ�
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 3.176.13, 3.177.6, 3.178.45 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._

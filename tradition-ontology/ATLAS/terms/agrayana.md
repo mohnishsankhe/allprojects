@@ -17,4 +17,4 @@
 _Notes: U49 contribution: records the Advaita use of a Mahāyāna self-designation (brw:mahayana-vocabulary-in-alatasanti)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U49-cross-family. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U49-cross-family. Generated 2026-09-29 22:04 IST._

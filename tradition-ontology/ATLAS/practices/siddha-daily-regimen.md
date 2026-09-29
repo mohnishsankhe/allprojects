@@ -14,4 +14,4 @@ Rules by which disease does not approach: eat only after the previous meal is di
 _Notes: Tēraiyar's specific rules recalled only in outline (low)._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._

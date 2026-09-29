@@ -13,4 +13,4 @@ Siddhar associated with Madurai: the Siddhar shrine in the Mīṉākṣī temple
 _Notes: The link between the Tiruviḷaiyāṭal episode and this Siddhar is recalled at low confidence. Counted in the popular list of the eighteen Siddhars (see cpt:eighteen-siddhars); the samādhi place given follows that list and is recalled at low confidence._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._

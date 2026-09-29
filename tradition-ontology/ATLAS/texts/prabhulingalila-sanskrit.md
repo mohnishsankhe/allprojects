@@ -14,4 +14,4 @@ A Sanskrit verse rendering of the Prabhuliṅgalīle narrative of Allama Prabhu.
 _Notes: Translator not identified here._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._

@@ -12,4 +12,4 @@ Wisdom arises in three stages — from hearing the teaching, from reflecting on 
   - [Pramāṇavārttika](../texts/pramanavarttika.md) — ref: 2.281-285; rests_on: ["tea:pramanavarttika:2.281-285"]
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._

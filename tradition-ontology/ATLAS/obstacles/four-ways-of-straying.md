@@ -12,4 +12,4 @@ Straying into emptiness as the basic nature of knowables, straying on the path (
 _Notes: Member list from memory (with the 'three deviations', gol sa gsum, into the three realms)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._

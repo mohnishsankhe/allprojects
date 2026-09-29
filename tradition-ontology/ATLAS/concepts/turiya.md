@@ -20,4 +20,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering), text:sources_raw/prepared/mandukya-upanisad/segments.jsonl (GRETIL Devanāgarī mirror mandukya-upanisad.md) — All 3 Upaniṣad refs cited in the entry are located in the prepared segments (MāU 7; MāU 12; MaiU 7.11). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._

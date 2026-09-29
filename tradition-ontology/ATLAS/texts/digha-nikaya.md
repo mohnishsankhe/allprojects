@@ -17,4 +17,4 @@ The 'long discourses': 34 suttas, including the Brahmajāla (62 views), Sāmañ�
 **Commentaries on this text:** [Sumaṅgalavilāsinī](sumangalavilasini.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

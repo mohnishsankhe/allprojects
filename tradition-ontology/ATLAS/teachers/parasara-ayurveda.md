@@ -13,4 +13,4 @@ One of Ātreya's six disciples, each of whom composed his own tantra and read it
 _Notes: Whether this is the same person as the homonymous sage of other traditions is not settled; kept separate._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

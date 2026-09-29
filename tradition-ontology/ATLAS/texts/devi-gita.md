@@ -161,4 +161,4 @@ terms: [hṛllekhā](../terms/hrllekha.md) · practices: [Meditation on the guru
 
 - dating: Location and structure confirmed: GRETIL marks DBhP 7.31-40, and the Gītāsaṅgraha prints 7.32-40 as 9 chapters. The scholarly date is wrong. C. Mackenzie Brown finds it hard to place the text before the 13th c.; it may be as late as the 16th, and Wikipedia gives c. 15th c. The entry's c. 11th-13th c. is corrected accordingly.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._

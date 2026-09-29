@@ -15,4 +15,4 @@ Relating to the Lord as a trusted friend. Eighth of the Bhāgavata's nine forms;
 _Notes: One of the Bhāgavata's nine forms of devotion (prc:navadha-bhakti, U07). Exemplar: Arjuna, whom Kṛṣṇa calls 'my devotee and friend' (BhG 4.3). The Gauḍīya sakhya-rasa (trm:sakhya-rasa, U16) systematises it._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:04 IST._

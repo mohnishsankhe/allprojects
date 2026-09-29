@@ -15,4 +15,4 @@ Against laziness: desire-to-act, effort, faith and pliancy; against forgetting t
 _Notes: Contribution of U47 (Sakya/Kadam/Gelug presentation)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._

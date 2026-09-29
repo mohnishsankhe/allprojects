@@ -21,4 +21,4 @@ Contemplation of the Goddess rising from the base through the cakras, piercing t
 - The mind's steady flow toward the meaning comes only by the guru's grace, not by scripture alone. — [Setubandha](../texts/setubandha.md) yh2.84
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._

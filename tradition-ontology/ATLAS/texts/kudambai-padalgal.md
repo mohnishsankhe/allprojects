@@ -166,4 +166,4 @@ concepts: [The self in the Siddhar songs (āṉmā, uyir)](../concepts/tamil-sid
 _Notes: Count and wording checked in the local e-text (Project Madurai series I). The spelling kutampai / kuṭampai both occur; the refrain is 'kutampāy'._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._

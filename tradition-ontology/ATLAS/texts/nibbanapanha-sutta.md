@@ -42,4 +42,4 @@ concepts: [The noble eightfold path (ariya aṭṭhaṅgika magga)](../concepts/
 _Notes: SuttaCentral uid sn38.1; Mahāsaṅgīti title 'Nibbānapañhāsutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

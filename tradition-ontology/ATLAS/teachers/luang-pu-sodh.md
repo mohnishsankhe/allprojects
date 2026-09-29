@@ -11,4 +11,4 @@ Thai abbot of Wat Paknam Bhasicharoen (1884–1959), founder of the Dhammakāya 
 **Realization — the tradition's account:** The tradition holds that in 1917 he penetrated to the Dhammakāya after resolving not to rise until he had seen the Dhamma the Buddha saw.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._

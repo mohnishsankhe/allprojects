@@ -13,4 +13,4 @@ Doing the enjoined acts with the thought of offering them to Śrī Govinda (Āpa
   - [Arthasaṅgraha](../texts/arthasangraha.md) — ref: conclusion; rests_on: ["tea:arthasangraha:upasamhara"]
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:04 IST._

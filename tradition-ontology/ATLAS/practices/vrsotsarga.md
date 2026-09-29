@@ -15,4 +15,4 @@ On the eleventh day a consecrated bull is set free for the dead; without it the 
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:garuda-purana:2.5.39-40 — GP 2.5.39-40 located. All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._

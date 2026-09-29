@@ -11,4 +11,4 @@
 Lay follower of Rennyo from Etchū, remembered as an exemplary myōkōnin for his 'twenty-one resolutions' and austere devotion.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._

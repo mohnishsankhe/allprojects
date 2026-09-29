@@ -33,4 +33,4 @@ Both sides accept that merit (puṇya) differs from the shedding of karma (nirja
 **The traditions' own objections:** Opponents deny that life-saving compassion is merely worldly; Terāpanthīs deny that it is spiritual dharma. The reconciliation claims only that they speak of different levels, not that either side accepts the other's classification.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

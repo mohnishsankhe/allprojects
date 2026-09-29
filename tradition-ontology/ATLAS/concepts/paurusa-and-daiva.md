@@ -17,4 +17,4 @@
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — Rests on tea:moksopaya:2.4.8-18, tea:moksopaya:2.6.1-6, tea:moksopaya:2.8.1-5; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._

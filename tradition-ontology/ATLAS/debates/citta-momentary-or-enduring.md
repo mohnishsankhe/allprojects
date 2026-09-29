@@ -27,4 +27,4 @@ All conditioned things, cognition included, are momentary; continuity is that of
 _Notes: Related to dsp:is-there-a-self (U50)._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 22:04 IST._

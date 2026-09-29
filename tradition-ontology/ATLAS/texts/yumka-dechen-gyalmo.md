@@ -14,4 +14,4 @@
 The inner ḍākinī sādhana of the Longchen Nyingthig centred on Yeshe Tsogyal as Queen of Great Bliss.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._

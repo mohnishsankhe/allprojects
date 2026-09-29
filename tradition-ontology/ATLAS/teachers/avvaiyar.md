@@ -10,4 +10,4 @@
 The poetess to whom the Vināyakar akaval, a Siddha-revered hymn of the inner yoga, is ascribed; several Tamil poetesses of different centuries bear the name.
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._

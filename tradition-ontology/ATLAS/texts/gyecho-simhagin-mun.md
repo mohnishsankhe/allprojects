@@ -17,4 +17,4 @@ Jinul's rules of conduct for novices, part of the Korean novice curriculum (Chim
   - kind: original; name: CBETA XML P5, Taishō T48n2019B (T48n2019B); local copy sources_raw/cbeta/T/T48/T48n2019B.xml; licence: CBETA (CC BY-NC-SA 3.0 TW) — quotation with attribution
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._

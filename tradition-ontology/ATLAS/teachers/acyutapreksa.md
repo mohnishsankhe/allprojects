@@ -13,4 +13,4 @@ The ascetic at Uḍupi from whom Madhva took renunciation; the Sumadhvavijaya ca
 _Notes: The earlier names of his line (the 'Haṃsa paramparā' back to Nārāyaṇa as Haṃsa and Brahmā) are not listed; see lin:dvaita notes._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._

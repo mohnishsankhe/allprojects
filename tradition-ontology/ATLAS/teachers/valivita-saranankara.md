@@ -11,4 +11,4 @@
 Sri Lankan monk (1698–1778) who led the 18th-century revival and, after higher ordination was restored by Siamese monks in 1753, became the first Saṅgharāja of the Siyam Nikāya.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._

@@ -19,4 +19,4 @@ Padmāsana with the arms crossed behind the back holding the big toes (HYP 1.44;
 _Notes: The Triśikhibrāhmaṇa lists baddhapadma separately from padma._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._

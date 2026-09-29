@@ -16,4 +16,4 @@ The surviving Sanskrit works of Jñānaśrīmitra of Vikramaśīla, preserved in
   - kind: original; name: A. Thakur, Patna 1959 — local SARIT markdown e-text (sources_raw/raw_etexts/mixed/sarit-markdown)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._

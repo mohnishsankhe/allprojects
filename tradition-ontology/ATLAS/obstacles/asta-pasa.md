@@ -16,4 +16,4 @@ Disgust, doubt, fear, shame, loathing, family, conduct and caste; the one bound 
 - partial: [Doubt and scruple (śaṅkā), especially about purity](sanka.md) — doubt (śaṅkā) is one of the eight; U19 records it as a bond in the Trika
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U24-kali-kaula. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U24-kali-kaula. Generated 2026-09-29 22:04 IST._

@@ -19,4 +19,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.18, tea:bhagavad-gita:15.15 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U01-vedic-samhitas, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 22:04 IST._

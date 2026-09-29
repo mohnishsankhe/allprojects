@@ -19,4 +19,4 @@
 Each sthala is paired with one of six liṅgas (ācāra, guru, śiva, cara/jaṅgama, prasāda, mahā) and six forms of devotion (śraddhā, niṣṭhā, avadhāna, anubhava, ānanda, samarasa; cf. cpt:sadvidha-bhakti). The first three are 'action-predominant', the last three 'knowledge-predominant' (SŚ 12.2-3). The vacanakāras (Basava, Allama, Cennabasava) use the same six stages in Kannada.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 22:04 IST._

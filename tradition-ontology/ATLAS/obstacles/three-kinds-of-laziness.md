@@ -12,4 +12,4 @@ Idleness, discouragement (self-deprecation) and attachment to unworthy activitie
   - [The Jewel Ornament of Liberation](../texts/jewel-ornament-of-liberation.md) — ref: ch.15; rests_on: ["tea:jewel-ornament-of-liberation:ch.15"]
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

@@ -16,4 +16,4 @@
 **Related:** [jīva](jiva.md), [svaprakāśa](svaprakasa.md), [sākṣin](saksin.md)
 
 ---
-_Contributed by: skeleton:U14-visistadvaita, skeleton:U13-advaita, skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U14-visistadvaita, skeleton:U13-advaita, skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._

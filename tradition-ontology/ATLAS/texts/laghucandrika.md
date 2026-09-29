@@ -19,4 +19,4 @@ Brahmānanda Sarasvatī's commentary on Madhusūdana Sarasvatī's Advaitasiddhi,
 _Notes: An Advaita text listed here as part of the Nyāyāmṛta–Advaitasiddhi exchange. A larger commentary (Gurucandrikā) by the same author is recalled at low confidence and not given an entry._
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._

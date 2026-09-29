@@ -49,4 +49,4 @@ One of the 'eight lesser' Kagyu schools founded by disciples of Phagmodrupa; est
 _Notes: Parent set to the Kagyu umbrella (not Phagdru) so that the school counts as its own root; its descent from Phagmodrupa is recorded under transmissions_received._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

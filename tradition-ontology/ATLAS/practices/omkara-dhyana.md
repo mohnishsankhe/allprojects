@@ -16,4 +16,4 @@ Repeat and contemplate the one syllable Oṃ: its three measures (a, u, m) and t
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:markandeya-purana:42.1-17 — All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._

@@ -12,4 +12,4 @@ A tranquil sage who, questioned by King Nahuṣa, names six teachers: Piṅgalā
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition) — MBh CE 12.171.58-61 (questioned by Nahuṣa).
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._

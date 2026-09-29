@@ -16,4 +16,4 @@ A short verse text on the nature of the soul as knower, many-sided and to be rea
 _Notes: Title present in the local catalogue (catalog:JainDB:स्वरूप-संबोधन--अकलंक-देव); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

@@ -82,7 +82,7 @@ Love and compassion are each of three kinds: with beings as object, with phenome
 
 _level: bridging · standpoint: seeker · path: devotion, meditation · stage: intermediate · types: ethics_
 
-terms: [karuṇā](../terms/karuna.md), [maitrī](../terms/maitri.md) · concepts: [Love and compassion without grasping (Vimalakīrti 6)](../concepts/four-immeasurables-mahayana.md)
+terms: [kāruṇya](../terms/karuna.md), [maitrī](../terms/maitri.md) · concepts: [Love and compassion without grasping (Vimalakīrti 6)](../concepts/four-immeasurables-mahayana.md)
 
 ### ch.8 <a id="tea-jewel-ornament-of-liberation-ch-8"></a>
 `skeleton` · confidence moderate
@@ -172,4 +172,4 @@ concepts: [The six topics of the Jewel Ornament](../concepts/jewel-ornament-six-
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

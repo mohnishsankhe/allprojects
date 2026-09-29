@@ -19,4 +19,4 @@ The 'minor collection', a miscellany of verse and prose books ranging from the o
 _Notes: The count of books and the inclusion of Netti, Peṭakopadesa and Milindapañha differ between editions; the Thai edition has varied over time._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

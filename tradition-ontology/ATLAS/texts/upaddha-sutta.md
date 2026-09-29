@@ -30,4 +30,4 @@ terms: [kalyāṇamittatā](../terms/kalyanamittata.md) · concepts: [Good frien
 _Notes: SuttaCentral uid sn45.2; Mahāsaṅgīti title 'Upaḍḍhasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

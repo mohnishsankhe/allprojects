@@ -18,4 +18,4 @@
 **Related:** [agnihotra](agnihotra.md), [prāṇa](prana.md), [āntara agnihotra](antara-agnihotra.md)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U04-minor-upanisads, skeleton:U03-principal-upanisads. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U04-minor-upanisads, skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._

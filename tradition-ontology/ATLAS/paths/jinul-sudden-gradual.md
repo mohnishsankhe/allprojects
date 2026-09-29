@@ -16,4 +16,4 @@
 Rests entirely on the Susim kyŏl (T48n2020, verified in CBETA by U42). Jinul's shortcut approach of investigating the hwadu (kyŏngjŏl mun, from the Kanhwa kyŏrŭi ron) is not included: that text is not available locally.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 22:04 IST._

@@ -14,4 +14,4 @@ Examining whether a thing arises from itself, from another, from both or without
   - [Buddhapālita-Mūlamadhyamakavṛtti](../texts/buddhapalita-vrtti.md) — ref: 1.1; rests_on: ["tea:buddhapalita-vrtti:1.1"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._

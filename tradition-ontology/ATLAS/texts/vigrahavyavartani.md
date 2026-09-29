@@ -126,4 +126,4 @@ concepts: [Emptiness (śūnyatā) in Madhyamaka](../concepts/sunyata.md), [The m
 _Notes: Sanskrit not in the local corpus (edition details from memory); Chinese confirmed in the local CBETA catalogue._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._

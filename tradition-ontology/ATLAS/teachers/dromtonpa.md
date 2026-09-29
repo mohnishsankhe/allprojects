@@ -13,4 +13,4 @@ Lay disciple and chief successor of Atiśa, whom the tradition regards as an ema
 **Realization — the tradition's account:** Regarded as an emanation of Avalokiteśvara; the Son Teachings of the Book of Kadam recount his previous lives.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._

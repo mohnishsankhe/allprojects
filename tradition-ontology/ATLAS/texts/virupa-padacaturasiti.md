@@ -15,4 +15,4 @@ Virūpa's 'Eighty-four Lines'.
   - kind: translation; name: Derge Tengyur, Tōh 2283 (confirmed in the local Derge catalogue); licence: public domain; url: local: sources_raw/derge-tengyur
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._

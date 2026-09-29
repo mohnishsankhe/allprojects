@@ -27,4 +27,4 @@ Only the scope of each side's claim is reconciled; the Brahma saṃhati's later 
 **The traditions' own objections:** Ekaśaraṇa rejects rites and other-deity worship even as preparation for devotion; orthodox opponents rejected initiation of all castes.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._

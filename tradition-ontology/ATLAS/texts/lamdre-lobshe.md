@@ -16,4 +16,4 @@ The restricted, esoteric form of the Lamdre with its detailed instruction manual
 _Notes: Compiler and edition details recalled, not checked._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._

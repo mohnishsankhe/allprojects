@@ -12,4 +12,4 @@ The Lord dislikes pride and loves humility (NBS 27); pride, hypocrisy and the li
   - [Nārada Bhakti Sūtra](../texts/narada-bhakti-sutra.md) — ref: 27; 64; rests_on: ["tea:narada-bhakti-sutra:27", "tea:narada-bhakti-sutra:63-65"]
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:04 IST._

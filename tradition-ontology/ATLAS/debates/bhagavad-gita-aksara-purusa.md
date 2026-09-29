@@ -26,4 +26,4 @@ _Notes: The text's own statement: there are two puruṣas in the world, the peri
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:15.16, tea:bhagavad-gita:15.17, tea:bhagavad-gita:15.18 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 22:04 IST._

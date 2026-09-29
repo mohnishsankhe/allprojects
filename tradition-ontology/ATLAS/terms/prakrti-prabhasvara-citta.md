@@ -17,4 +17,4 @@
 - partial: [pabhassara citta](pabhassara-citta.md) — The Mahāsāṃghika 'naturally luminous mind' and the Pali 'luminous mind' (AN 1.51–52) — the schools read the luminosity differently.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._

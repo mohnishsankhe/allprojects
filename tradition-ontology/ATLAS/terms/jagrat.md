@@ -16,4 +16,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._

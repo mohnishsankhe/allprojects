@@ -13,4 +13,4 @@ The seeming identity of the power of seeing with the seer (2.6, YBh 2.6).
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 2.6; rests_on: ["tea:yoga-bhasya:2.6"]
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 22:04 IST._

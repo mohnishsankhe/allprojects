@@ -14,4 +14,4 @@ Truthfulness, freedom from anger, abstinence from alcohol and sex, non-violence,
   - [Aṣṭāṅga Hṛdaya](../texts/astanga-hrdaya.md) — ref: Utt 39.179-181; rests_on: ["tea:astanga-hrdaya:utt.39.178-181"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

@@ -13,4 +13,4 @@ With concentration from four-elements meditation or jhāna, the body is seen to 
 **Sequences:** [The Pa-Auk sequence of calm and insight](../paths/pa-auk-path.md)
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._

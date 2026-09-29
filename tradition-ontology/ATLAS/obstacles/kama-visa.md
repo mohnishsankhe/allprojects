@@ -12,4 +12,4 @@ From the seed comes desire, which is creation, and from desire poison, which is 
   - [Candrāvalokana](../texts/candravalokana.md) — ref: p.3; rests_on: ["tea:candravalokana:p.3"]
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._

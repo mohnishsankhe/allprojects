@@ -46,4 +46,4 @@ Recognition and memory require an enduring knower; universal momentariness canno
 _Notes: U41 contribution. dsp:are-things-momentary (U09) appears to duplicate this id; flagged for dedupe._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._

@@ -40,4 +40,4 @@ Recorded as a partial reconciliation of scope only: the two sides legislate for 
 _Notes: Related to the fixed dispute dsp:women-caste-liberation (U50)._
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._

@@ -14,4 +14,4 @@ Performing the daily and occasional rites and one's duties without desire for th
   - [Sādhanapañcaka (Upadeśapañcaka)](../texts/sadhana-pancaka.md) — ref: 1; rests_on: ["tea:sadhana-pancaka:1"]
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._

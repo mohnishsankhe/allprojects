@@ -13,4 +13,4 @@
 - is-a → [Brahman's real transformation into the world (pariṇāma)](brahma-parinama.md) — rests on [jiva-and-world-section](../texts/paramatma-sandarbha.md#tea-paramatma-sandarbha-jiva-and-world-section)
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._

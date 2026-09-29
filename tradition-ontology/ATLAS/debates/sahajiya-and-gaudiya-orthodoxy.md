@@ -36,4 +36,4 @@ Caitanya himself returned as Āulcānd to reveal the secret sahaja religion to t
 _Notes: Related: dsp:svakiya-parakiya (U16, internal Gauḍīya debate on the divine līlā)._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._

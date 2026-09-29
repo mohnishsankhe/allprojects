@@ -20,4 +20,4 @@ _Notes: The ch01-03 merge linked 2.72 ('even at the time of the end') to cpt:las
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.30, tea:bhagavad-gita:8.5, tea:bhagavad-gita:8.6, tea:bhagavad-gita:8.7, tea:bhagavad-gita:8.10, tea:bhagavad-gita:8.13 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._

@@ -1,12 +1,13 @@
 # maitrī
 
-`trm:maitri` · `skeleton` · confidence high
+`trm:maitri` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Native script:** मैत्री
 **Literal:** friendliness
 
 ## Definitions by tradition
+- [Jainism (Jaina dharma)](../lineages/jainism.md): Cultivated towards all living beings (7.11).
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): Friendliness cultivated toward the happy, one of the four attitudes that clarify the mind (1.33, YBh 1.33). Saṃyama on it yields its strength (3.23).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: Friendliness: the devotee dear to the Lord is friendly (maitra) and compassionate (12.13).
 - [Jainism (Jaina dharma)](../lineages/jainism.md): In Jainism friendliness toward all beings — 'may no one do evil, may no one suffer, may the world be freed' (TS 7.11; YŚ 4.118).
@@ -21,11 +22,12 @@
 
 ## Equivalents (interpretation layer)
 - exact: [mettā](metta.md) — Sanskrit and Pali forms of the same canonical term; school definitions differ (see the per-lineage definitions).
-**Related:** [karuṇā](karuna.md)
+**Related:** [kāruṇya](karuna.md)
 
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:tattvartha-sutra:7.11 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.13 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch10-12, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka, skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U10-yoga, extraction:bhagavad-gita/ch10-12, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka, skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._

@@ -13,4 +13,4 @@
 - is-a → [Difference-and-non-difference (bhedābheda) of Brahman, souls and world](bhedabheda.md) — rests on [2.3.43](../texts/brahma-sutra-bhasya-bhaskara.md#tea-brahma-sutra-bhasya-bhaskara-2-3-43)
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._

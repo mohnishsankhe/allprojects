@@ -9,4 +9,4 @@
 Calcutta astronomer-almanac maker whose ayanāṃśa (the Citrāpakṣa, with Spica at 180°) was adopted for the Indian national ephemeris after the Calendar Reform Committee of the 1950s.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._

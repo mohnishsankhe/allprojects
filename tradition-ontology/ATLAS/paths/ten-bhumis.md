@@ -25,4 +25,4 @@
 Names as in the Daśabhūmika (Skt.). The Saṃdhinirmocana pairs the ten grounds with ten perfections (six + means, vow, power, knowledge) and adds a buddha-ground; stage 11 is that ground.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 22:04 IST._

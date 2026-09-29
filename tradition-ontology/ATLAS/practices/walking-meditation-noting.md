@@ -12,4 +12,4 @@ Walking slowly back and forth, noting the phases of each step (lifting, pushing,
   - [Practical Insight Meditation: Basic and Progressive Stages](../texts/practical-insight-meditation.md) — ref: walking; rests_on: ["tea:practical-insight-meditation:walking"]
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._

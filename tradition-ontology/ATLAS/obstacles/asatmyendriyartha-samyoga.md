@@ -11,4 +11,4 @@ Excessive, deficient or wrong contact of the senses with sounds, touches, sights
   - [Caraka Saṃhitā](../texts/caraka-samhita.md) — ref: Sū 11.37-43; rests_on: ["tea:caraka-samhita:su.11.37-43"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

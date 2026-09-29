@@ -26,4 +26,4 @@
 _Notes: Also: vibhūti_
 
 ---
-_Contributed by: skeleton:U20-virasaiva, skeleton:U17-pasupata-kapalika, skeleton:U07-puranas, skeleton:U30-ayurveda-rasa, skeleton:U06-other-gitas, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U17-pasupata-kapalika, skeleton:U07-puranas, skeleton:U30-ayurveda-rasa, skeleton:U06-other-gitas, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._

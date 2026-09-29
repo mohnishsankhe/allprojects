@@ -13,4 +13,4 @@ Serving the deity with faith, relishing the Bhāgavata with the like-minded, ass
   - [Bhaktirasāmṛtasindhu](../texts/bhaktirasamrtasindhu.md) — ref: 1.2; rests_on: ["tea:bhaktirasamrtasindhu:1.2/2"]
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._

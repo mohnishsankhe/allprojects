@@ -11,4 +11,4 @@
 Telugu-born scholar at the Mughal court (Shāh Jahān) and in Vārāṇasī, author of the Rasagaṅgādhara and devotional poems (Gaṅgālaharī).
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._

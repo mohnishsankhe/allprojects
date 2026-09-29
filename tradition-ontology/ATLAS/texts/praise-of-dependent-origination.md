@@ -47,4 +47,4 @@ concepts: [Dependent origination](../concepts/dependent-origination.md), [The tw
 
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._

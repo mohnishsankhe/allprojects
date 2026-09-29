@@ -12,4 +12,4 @@ No. 33 of the eighty-four siddhas (Tōh 2292 order). A gambler who lost everythi
 _Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292. Identification with Abhayadatta's Tandhepa is by position only (low)._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._

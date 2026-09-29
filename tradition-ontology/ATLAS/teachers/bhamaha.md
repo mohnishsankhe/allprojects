@@ -11,4 +11,4 @@
 Author of the Kāvyālaṅkāra, the earliest surviving independent treatise on poetics after Bharata; founder of the 'figure' (alaṅkāra) school.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._

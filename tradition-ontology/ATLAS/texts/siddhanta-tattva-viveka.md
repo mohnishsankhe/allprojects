@@ -14,4 +14,4 @@
 Kamalākara's siddhānta defending the Saura school and engaging Perso-Arabic astronomy.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._

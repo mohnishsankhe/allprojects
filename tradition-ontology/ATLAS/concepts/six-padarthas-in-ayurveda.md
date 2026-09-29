@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The six (later seven) categories of Vaiśeṣika](seven-padarthas-vaisesika.md): Vaiśeṣika's six (later seven) categories; Caraka names the same six — rests on [su.1.48-52](../texts/caraka-samhita.md#tea-caraka-samhita-su-1-48-52)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

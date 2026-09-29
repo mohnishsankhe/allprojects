@@ -19,4 +19,4 @@
 **Related:** [sāmānya](samanya.md), [mahābhūta](mahabhuta.md), [aviśeṣa](avisesa.md), [svagata-bheda](svagata-bheda.md), [bheda](bheda.md)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U15-dvaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._

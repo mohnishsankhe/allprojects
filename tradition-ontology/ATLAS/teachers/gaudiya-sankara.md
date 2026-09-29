@@ -12,4 +12,4 @@ Author of a commentary (vṛttikā) on Brahmānanda's Tārārahasya, as attribut
 _Notes: Known only from the catalogue attribution (M00096); date unknown._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:04 IST._

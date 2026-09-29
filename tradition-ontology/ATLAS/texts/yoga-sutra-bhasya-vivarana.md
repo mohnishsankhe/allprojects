@@ -18,4 +18,4 @@
 A sub-commentary on Vyāsa's bhāṣya, first printed in 1952 (Madras Government Oriental Series), notable for its extended reasoning about Īśvara (1.23–28) and for the controversy over its ascription to Śaṅkara.
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 22:04 IST._

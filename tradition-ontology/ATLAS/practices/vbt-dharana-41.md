@@ -15,4 +15,4 @@ One should remember the whole world, or one's own body, as filled with one's own
 _Notes: Verses 65 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._

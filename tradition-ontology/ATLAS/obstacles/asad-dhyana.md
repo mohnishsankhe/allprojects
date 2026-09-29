@@ -12,4 +12,4 @@ Meditation and mantra used to harm, attract, subjugate or kill others, or medita
   - [Jñānārṇava](../texts/jnanarnava.md) — ref: asad-dhyana; rests_on: ["tea:jnanarnava:asad-dhyana"]
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

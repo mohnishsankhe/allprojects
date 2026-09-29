@@ -73,7 +73,7 @@ Anger, pride, deceit and greed increase evil; one who desires his own good shoul
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: ethics, practice_
 
-terms: [kaṣāya](../terms/kasaya.md) · obstacles: [The four passions (kaṣāya)](../obstacles/four-kasayas.md)
+terms: [kaṣāya](../terms/kasaya.md) · obstacles: [The four passions (krodha, māna, māyā, lobha) with their four varieties](../obstacles/four-kasayas.md)
 
 ### 10 <a id="tea-dasavaikalika-sutra-10"></a>
 `skeleton` · confidence high
@@ -86,4 +86,4 @@ terms: [sādhu (Jain mendicant)](../terms/sadhu.md), [muni](../terms/muni.md)
 
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

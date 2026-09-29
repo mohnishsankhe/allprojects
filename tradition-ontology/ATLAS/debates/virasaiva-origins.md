@@ -30,4 +30,4 @@ The tradition was inaugurated by Basava with Allama Prabhu, Cennabasava, Akka Ma
 _Notes: Scholarly account (labeled): the śaraṇa movement is datable to the 12th c.; the Sanskrit Pañcācārya literature is attested later and its dating is debated; some scholars also point to pre-Basava Kannada Śaiva devotees (Dēvara Dāsimayya, Ēkānta Rāmayya) and to Kālāmukha antecedents._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._

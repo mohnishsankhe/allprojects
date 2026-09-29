@@ -19,4 +19,4 @@ _Notes: Commentators read ātmaupamya as regarding others' pleasure and pain as 
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:6.32 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 22:04 IST._

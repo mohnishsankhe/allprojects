@@ -42,4 +42,4 @@ The Ācārāṅga's graded allowance (three robes to none) and the Keśin–Gaut
 **The traditions' own objections:** The Digambaras reject the Śvetāmbara texts cited and deny that a clothed person can reach the higher stages; the Śvetāmbaras deny that nudity is required. The reconciliation claims only a shared ranking of the naked mode, not agreement on liberation.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

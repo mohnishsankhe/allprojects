@@ -15,4 +15,4 @@ Placing the mind in outer space - eternal, supportless, void, pervasive, free of
 _Notes: Verses 128 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._

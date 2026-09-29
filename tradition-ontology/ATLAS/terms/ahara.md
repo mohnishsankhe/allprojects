@@ -18,4 +18,4 @@
 **Related:** [pathya](pathya.md)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic, skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic, skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

@@ -13,4 +13,4 @@ Five practices all directed to Amitābha: reciting the Pure Land sūtras, contem
 **Sequences:** [Jōdo-shū: settled mind, practice undertaken, manner of practice](../paths/jodo-shu-anjin-kigyo-sagyo.md)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._

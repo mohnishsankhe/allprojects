@@ -15,4 +15,4 @@ RESTRICTED. A secret Bāul practice concerning four bodily substances ('moons');
 - Secret; never to be attempted without a guru; ruin follows otherwise. — [Bāul gān (the corpus of Bāul songs of other masters)](../texts/baul-gan.md) 
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._

@@ -384,7 +384,7 @@ The mind becomes clear by cultivating friendliness, compassion, gladness and equ
 
 _level: conventional · standpoint: ethical-social · path: meditation · stage: all · types: ethics, practice_
 
-terms: [maitrī](../terms/maitri.md), [karuṇā](../terms/karuna.md), [muditā](../terms/mudita.md), [upekṣā](../terms/upeksa.md), [citta-prasādana](../terms/citta-prasadana.md), [bhāvanā](../terms/bhavana.md) · concepts: [The four attitudes (maitrī, karuṇā, muditā, upekṣā)](../concepts/four-attitudes.md) · practices: [Cultivating the four attitudes (maitrī, karuṇā, muditā, upekṣā)](../practices/four-attitudes.md)
+terms: [maitrī](../terms/maitri.md), [kāruṇya](../terms/karuna.md), [muditā](../terms/mudita.md), [upekṣā](../terms/upeksa.md), [citta-prasādana](../terms/citta-prasadana.md), [bhāvanā](../terms/bhavana.md) · concepts: [The four attitudes (maitrī, karuṇā, muditā, upekṣā)](../concepts/four-attitudes.md) · practices: [Cultivating the four attitudes (maitrī, karuṇā, muditā, upekṣā)](../practices/four-attitudes.md)
 
 ### 1.34 <a id="tea-yoga-sutra-1-34"></a>
 `skeleton` · confidence high
@@ -1440,7 +1440,7 @@ terms: [sopakrama](../terms/sopakrama.md), [nirupakrama](../terms/nirupakrama.md
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences, ethics_
 
-terms: [maitrī](../terms/maitri.md), [karuṇā](../terms/karuna.md), [muditā](../terms/mudita.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [The four attitudes (maitrī, karuṇā, muditā, upekṣā)](../concepts/four-attitudes.md) · practices: [Saṃyama](../practices/samyama.md), [Cultivating the four attitudes (maitrī, karuṇā, muditā, upekṣā)](../practices/four-attitudes.md)
+terms: [maitrī](../terms/maitri.md), [kāruṇya](../terms/karuna.md), [muditā](../terms/mudita.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [The four attitudes (maitrī, karuṇā, muditā, upekṣā)](../concepts/four-attitudes.md) · practices: [Saṃyama](../practices/samyama.md), [Cultivating the four attitudes (maitrī, karuṇā, muditā, upekṣā)](../practices/four-attitudes.md)
 
 ### 3.24 <a id="tea-yoga-sutra-3-24"></a>
 `skeleton` · confidence high
@@ -2172,4 +2172,4 @@ terms: [kaivalya](../terms/kaivalya.md), [pratiprasava](../terms/pratiprasava.md
 _Notes: Correction to the task list: the vulgate count is 195 (51/55/55/34), not 196; see structure._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 22:04 IST._

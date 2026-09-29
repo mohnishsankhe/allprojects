@@ -6039,7 +6039,7 @@ pitṛ़ṇāmaryamā cāsmi yamaḥ saṃyamatāmaham
 
 _level: unmarked · standpoint: divine · path: devotion, meditation · stage: unmarked · types: ultimate_
 
-terms: [pitṛ](../terms/pitr.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Varuṇa (as teacher)](../teachers/varuna.md)
+terms: [pitṛ](../terms/pitr.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Varuṇa](../teachers/varuna.md)
 
 ### 10.30 <a id="tea-bhagavad-gita-10-30"></a>
 `text-verified` · confidence high
@@ -6803,7 +6803,7 @@ punaśca bhūyo'pi namo namaste
 
 _level: unmarked · standpoint: devotional · path: devotion · stage: unmarked · types: ultimate, practice_
 
-terms: [prajāpati](../terms/prajapati.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · practices: [Obeisance and adoration (vandana)](../practices/vandana.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Varuṇa (as teacher)](../teachers/varuna.md), [Prajāpati (as teacher)](../teachers/prajapati.md)
+terms: [prajāpati](../terms/prajapati.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · practices: [Obeisance and adoration (vandana)](../practices/vandana.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Varuṇa](../teachers/varuna.md), [Prajāpati (as teacher)](../teachers/prajapati.md)
 
 ### 11.40 <a id="tea-bhagavad-gita-11-40"></a>
 `text-verified` · confidence high
@@ -7231,7 +7231,7 @@ Kṛṣṇa: one who hates no being (adveṣṭṛ), who is friendly (maitra) an
 
 _level: unmarked · standpoint: devotional · path: devotion · stage: advanced · types: ethics_
 
-terms: [maitrī](../terms/maitri.md), [karuṇā](../terms/karuna.md), [nirmama](../terms/nirmama.md), [ahaṅkāra](../terms/ahankara.md), [kṣamā](../terms/ksama.md), [samatva](../terms/samatva.md), [dveṣa](../terms/dvesa.md) · concepts: [The qualities of the devotee](../concepts/qualities-of-the-devotee.md), [Evenness of mind (samatva)](../concepts/equanimity.md) · obstacles: [Aversion (dveṣa)](../obstacles/dvesa.md), [The sense of 'mine' (mamatva)](../obstacles/mamatva.md), [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md)
+terms: [maitrī](../terms/maitri.md), [kāruṇya](../terms/karuna.md), [nirmama](../terms/nirmama.md), [ahaṅkāra](../terms/ahankara.md), [kṣamā](../terms/ksama.md), [samatva](../terms/samatva.md), [dveṣa](../terms/dvesa.md) · concepts: [The qualities of the devotee](../concepts/qualities-of-the-devotee.md), [Evenness of mind (samatva)](../concepts/equanimity.md) · obstacles: [Aversion (dveṣa)](../obstacles/dvesa.md), [The sense of 'mine' (mamatva)](../obstacles/mamatva.md), [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md)
 
 ### 12.13-14 <a id="tea-bhagavad-gita-12-13-14"></a>
 `text-verified` · confidence moderate
@@ -7243,7 +7243,7 @@ santuṣṭaḥ satataṃ yogī yatātmā dṛḍhaniścayaḥ|mayyarpitamanobud
 
 _level: unmarked · standpoint: devotional · path: devotion · stage: advanced · types: ethics, practice_
 
-terms: [maitrī](../terms/maitri.md), [karuṇā](../terms/karuna.md), [nirmama](../terms/nirmama.md), [ahaṅkāra](../terms/ahankara.md), [kṣamā](../terms/ksama.md), [samatva](../terms/samatva.md), [dveṣa](../terms/dvesa.md), [saṃtoṣa](../terms/santosa.md), [manas](../terms/manas.md), [buddhi](../terms/buddhi.md), [bhakta](../terms/bhakta.md), [yogin](../terms/yogin.md) · concepts: [The qualities of the devotee](../concepts/qualities-of-the-devotee.md), [Evenness of mind (samatva)](../concepts/equanimity.md), [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md) · obstacles: [Aversion (dveṣa)](../obstacles/dvesa.md), [The sense of 'mine' (mamatva)](../obstacles/mamatva.md), [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md)
+terms: [maitrī](../terms/maitri.md), [kāruṇya](../terms/karuna.md), [nirmama](../terms/nirmama.md), [ahaṅkāra](../terms/ahankara.md), [kṣamā](../terms/ksama.md), [samatva](../terms/samatva.md), [dveṣa](../terms/dvesa.md), [saṃtoṣa](../terms/santosa.md), [manas](../terms/manas.md), [buddhi](../terms/buddhi.md), [bhakta](../terms/bhakta.md), [yogin](../terms/yogin.md) · concepts: [The qualities of the devotee](../concepts/qualities-of-the-devotee.md), [Evenness of mind (samatva)](../concepts/equanimity.md), [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md) · obstacles: [Aversion (dveṣa)](../obstacles/dvesa.md), [The sense of 'mine' (mamatva)](../obstacles/mamatva.md), [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md)
 
 ### 12.13-20 <a id="tea-bhagavad-gita-12-13-20"></a>
 `sourced` · confidence high
@@ -9307,4 +9307,4 @@ _Notes: Chapter titles are the traditional colophon titles (they vary slightly b
 
 - 2026-09-29 text-locate: confirmed — catalog:GRETIL-dev:bhagavadgita, local:sources_raw/DharmicData/Mahabharata/mahabharata_book_6.json (BORI Critical Edition text) 6.23.1 dharmakṣetre ... ; 6.40.78 yatra yogeśvaraḥ ...; 6.22/6.41 are battle narrative, local:sources_raw/gita/data/verse.json (701 entries incl. extra 13.0 verse), https:/ — CE Bhīṣmaparvan 23–40 holds exactly 700 verses, starting at dharmakṣetre and ending at yatra yogeśvaraḥ; the local vulgate corpus has 701 with the extra verse heading ch. 13, as the entry says. Dating accounts kept as entered (scholarly range is within published estimates).
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._

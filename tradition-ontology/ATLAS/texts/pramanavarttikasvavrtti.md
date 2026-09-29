@@ -17,4 +17,4 @@ Dharmakīrti's own prose commentary on the first (svārthānumāna) chapter of t
 **Commentaries on this text:** [Pramāṇavārttikasvavṛttiṭīkā](pramanavarttikasvavrttitika.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._

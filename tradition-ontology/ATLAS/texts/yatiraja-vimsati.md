@@ -14,4 +14,4 @@
 Maṇavāḷa Māmuni's twenty Sanskrit verses to Rāmānuja (Yatirāja), confessing faults and seeking refuge in him.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:04 IST._

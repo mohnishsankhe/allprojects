@@ -11,4 +11,4 @@ Giving without resting on the notion of any object, sign, giver or recipient; it
   - [Vajracchedikā Prajñāpāramitā](../texts/vajracchedika.md) — ref: §4, §14; rests_on: ["tea:vajracchedika:4", "tea:vajracchedika:14/3"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._

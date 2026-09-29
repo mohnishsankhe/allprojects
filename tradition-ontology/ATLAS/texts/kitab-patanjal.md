@@ -18,4 +18,4 @@ An Arabic rendering, recast as questions and answers, of a Pātañjala yoga text
 _Notes: Arabic title and manuscript details recalled, not checked._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 22:04 IST._

@@ -12,4 +12,4 @@ The deep-rooted habit of taking oneself to be body and mind, persisting after un
   - [Brahmasūtrabhāṣya of Śaṅkara (Śārīrakamīmāṃsābhāṣya)](../texts/brahma-sutra-bhasya-sankara.md) — ref: 4.1.2; rests_on: ["tea:brahma-sutra-bhasya-sankara:4.1.2"]
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._

@@ -16,4 +16,4 @@
 _Notes: The assignment of goddesses to directions differs between texts; only the Kulārṇava's fivefold list is verse-checked here._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:04 IST._

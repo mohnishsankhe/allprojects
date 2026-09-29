@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [Buddha-nature (tathāgatagarbha, buddhadhātu)](buddha-nature.md) (Laṅkāvatāra): one base seen as defiled (ālaya) and as pure (garbha) — rests on [6.p90](../texts/lankavatara-sutra.md#tea-lankavatara-sutra-6-p90)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._

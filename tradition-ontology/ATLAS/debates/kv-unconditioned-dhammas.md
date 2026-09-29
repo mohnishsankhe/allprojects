@@ -24,4 +24,4 @@ Only nibbāna is unconditioned; if these were unconditioned they would be a refu
 _Notes: The opponent's thesis is known here only as reported by the Theravāda Kathāvatthu; school attributions come from the commentary and are recalled with moderate/low confidence. The Sarvāstivāda counts three unconditioned (space and two cessations) — relevant to U38._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._

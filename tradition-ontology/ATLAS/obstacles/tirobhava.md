@@ -15,4 +15,4 @@ The first of Śrī's five acts, by which the soul's true nature is concealed; en
 - analogous: `obs:tirodhana-sakti` — the Śaiva concealing power (U18/U19)
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._

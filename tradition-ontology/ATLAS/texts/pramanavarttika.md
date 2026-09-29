@@ -85,7 +85,7 @@ The proof (of his authority) is the cultivation of compassion. If it is objected
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation, death-dying, dispute_
 
-terms: [karuṇā](../terms/karuna.md), [abhyāsa](../terms/abhyasa.md), [punarbhava](../terms/punarbhava.md) · concepts: [The proof of rebirth (Pramāṇavārttika)](../concepts/proof-of-rebirth-dharmakirti.md) · teachers: [Dharmakīrti](../teachers/dharmakirti.md) · disputes: [Does consciousness arise from the body alone, so that death is the end?](../debates/mind-body-rebirth.md)
+terms: [kāruṇya](../terms/karuna.md), [abhyāsa](../terms/abhyasa.md), [punarbhava](../terms/punarbhava.md) · concepts: [The proof of rebirth (Pramāṇavārttika)](../concepts/proof-of-rebirth-dharmakirti.md) · teachers: [Dharmakīrti](../teachers/dharmakirti.md) · disputes: [Does consciousness arise from the body alone, so that death is the end?](../debates/mind-body-rebirth.md)
 
 ### 1.126-133 <a id="tea-pramanavarttika-1-126-133"></a>
 `skeleton` · confidence high
@@ -96,7 +96,7 @@ Compassion and the like, arising from cultivation, proceed by their own momentum
 
 _level: conventional · standpoint: causal · path: meditation, action · stage: all · types: practice, ethics_
 
-terms: [karuṇā](../terms/karuna.md), [abhyāsa](../terms/abhyasa.md) · concepts: [The Buddha as a person of valid cognition](../concepts/buddha-as-pramana.md) · practices: [Cultivation of compassion over many lives](../practices/cultivation-of-compassion-pramana.md) · teachers: [Dharmakīrti](../teachers/dharmakirti.md)
+terms: [kāruṇya](../terms/karuna.md), [abhyāsa](../terms/abhyasa.md) · concepts: [The Buddha as a person of valid cognition](../concepts/buddha-as-pramana.md) · practices: [Cultivation of compassion over many lives](../practices/cultivation-of-compassion-pramana.md) · teachers: [Dharmakīrti](../teachers/dharmakirti.md)
 
 ### 1.137-140 <a id="tea-pramanavarttika-1-137-140"></a>
 `skeleton` · confidence high
@@ -266,4 +266,4 @@ terms: [āgama](../terms/agama.md) · teachers: [Dharmakīrti](../teachers/dharm
 
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._

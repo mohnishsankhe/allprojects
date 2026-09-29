@@ -18,4 +18,4 @@ The oldest surviving grammar of the Prakrits (Mahārāṣṭrī, Paiśācī, Mā
 
 - 2026-09-28 websearch: confirmed — https://archive.org/details/prkitaprakasaorp00vara, https://en.wikipedia.org/wiki/Vararuchi — Confirmed: the oldest Prakrit grammar, ascribed to Vararuci, with Bhāmaha's commentary Manoramā (Cowell's edition; Wikipedia).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

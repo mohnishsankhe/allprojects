@@ -9,4 +9,4 @@
 Huanglong-branch master at Mount Tiantai who gave Eisai the Linji transmission (1191).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._

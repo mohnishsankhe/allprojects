@@ -19,4 +19,4 @@
 _Notes: Homonym of Yoga's citta-vṛtti._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U17-pasupata-kapalika, skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U17-pasupata-kapalika, skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._

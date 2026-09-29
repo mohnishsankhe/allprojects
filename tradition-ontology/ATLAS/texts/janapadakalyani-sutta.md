@@ -30,4 +30,4 @@ practices: [Mindfulness directed to the body (kāyagatāsati)](../practices/kaya
 _Notes: SuttaCentral uid sn47.20; Mahāsaṅgīti title 'Janapadakalyāṇīsutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

@@ -33,4 +33,4 @@ _none recorded_
 [By which method is the length of life to be computed?](../debates/ayurdaya-methods.md), [Do exalted malefic planets make a king?](../debates/exalted-malefics-rajayoga.md)
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._

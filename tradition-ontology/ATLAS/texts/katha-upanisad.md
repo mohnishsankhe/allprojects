@@ -21,7 +21,7 @@ Naciketas, given to Death by his father, receives three boons from Yama: his fat
   - kind: translation; name: Swami Paramananda, The Upanishads (Isa, Katha, Kena), Project Gutenberg #3283; licence: public domain; url: https://www.gutenberg.org/ebooks/3283
 **Commentaries on this text:** [Kāṭhakopaniṣad-bhāṣya (Madhva)](katha-upanisad-bhasya-madhva.md), [Kaṭhopaniṣadbhāṣya of Śaṅkara](katha-upanisad-bhasya-sankara.md)
 
-## Teachings (52: sourced 52)
+## Teachings (65: sourced 47, text-verified 18)
 
 ### 1.1.1-4 <a id="tea-katha-upanisad-1-1-1-4"></a>
 `sourced` · confidence high
@@ -194,13 +194,37 @@ _level: conventional · standpoint: ethical-social · path: action, meditation �
 terms: [samādhi](../terms/samadhi.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
 
 ### 1.3.1 <a id="tea-katha-upanisad-1-3-1"></a>
-`sourced` · confidence high
+`text-verified` · confidence moderate
 
-The two who drink what is right (ṛta) in the world of good deeds, entered into the cave, into the highest place — the knowers of brahman call them shadow and light, as do those who keep the five fires and those who have piled the Nāciketa fire three times.
+The two who drink what is right (ṛta) in the world of good deeds have entered the cave, in the highest place; those who know brahman call them shade and light, and so do those who keep the five fires and those who have performed the Nāciketa fire three times.
 
-_level: bridging · standpoint: analytic · path: knowledge · stage: intermediate · types: ultimate_
+> ṛtaṃ pibantau sukṛtasya loke guhāṃ praviṣṭau parame parārdhe | chāyātapau brahmavido vadanti pañcāgnayo ye ca triṇāciketāḥ
 
-terms: [guhā](../terms/guha.md) · concepts: [The two birds on one tree](../concepts/two-birds.md), [The individual living self (jīva)](../concepts/jiva.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
+_level: bridging · standpoint: analytic · path: knowledge · stage: intermediate · types: consciousness-mind, ultimate_
+
+terms: [ṛta](../terms/rta.md), [guhā](../terms/guha.md) · concepts: [The two birds on one tree](../concepts/two-birds.md), [The individual living self (jīva)](../concepts/jiva.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
+
+### 1.3.2 <a id="tea-katha-upanisad-1-3-2"></a>
+`text-verified` · confidence low
+
+May we be capable (śakemahi) of the Nāciketa (fire), which is the bridge for those who sacrifice, and of that which is the imperishable, highest brahman, the fearless farther shore for those who wish to cross over. (The complement of the verb, whether to build or to know, is not stated.)
+
+> yaḥ seturījānānāmakṣaraṃ brahma yatparam | abhayaṃ titīrṣatāṃ pāraṃ nāciketaṃ śakemahi
+
+_level: conventional · standpoint: seeker · path: general · stage: all · types: practice, ultimate_
+
+terms: [abhaya](../terms/abhaya.md), [brahman](../terms/brahman.md)
+
+### 1.3.3 <a id="tea-katha-upanisad-1-3-3"></a>
+`text-verified` · confidence high
+
+Know the self (ātman) as the lord of the chariot (rathin) and the body as the chariot; know the intellect (buddhi) as the charioteer (sārathi) and the mind (manas) as the reins (pragraha).
+
+> ātmānaṃ rathinaṃ viddhi śarīraṃ rathameva tu | buddhiṃ tu sārathiṃ viddhi manaḥ pragrahameva ca
+
+_level: conventional · standpoint: seeker · path: knowledge, meditation · stage: all · types: consciousness-mind, body-layers_
+
+terms: [ātman](../terms/atman.md), [buddhi](../terms/buddhi.md), [manas](../terms/manas.md), [sārathi](../terms/sarathi.md), [pragraha](../terms/pragraha.md), [ratha](../terms/ratha.md) · concepts: [The chariot simile of Kaṭha Upaniṣad 1.3](../concepts/katha-chariot-simile.md)
 
 ### 1.3.3-4 <a id="tea-katha-upanisad-1-3-3-4"></a>
 `sourced` · confidence high
@@ -213,6 +237,30 @@ _level: conventional · standpoint: seeker · path: meditation, knowledge · sta
 
 terms: [buddhi](../terms/buddhi.md), [manas](../terms/manas.md), [ātman](../terms/atman.md) · concepts: [The chariot image (Kaṭha)](../concepts/chariot-image.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
 
+_Superseded by [1.3.3](katha-upanisad.md#tea-katha-upanisad-1-3-3)_
+
+### 1.3.4 <a id="tea-katha-upanisad-1-3-4"></a>
+`text-verified` · confidence high
+
+The senses (indriya) they call the horses, and the objects of sense (viṣaya) the roads on which the horses range. The wise call the self joined with body, senses and mind the enjoyer (bhoktṛ).
+
+> indriyāṇi hayānāhurviṣayāṃsteṣu gocarān | ātmendriyamanoyuktaṃ bhoktetyāhurmanīṣiṇaḥ
+
+_level: conventional · standpoint: seeker · path: knowledge, meditation · stage: all · types: consciousness-mind, body-layers_
+
+terms: [indriya](../terms/indriya.md), [viṣaya](../terms/visaya.md), [bhoktṛ](../terms/bhokta.md), [ātman](../terms/atman.md), [manas](../terms/manas.md) · concepts: [The chariot simile of Kaṭha Upaniṣad 1.3](../concepts/katha-chariot-simile.md)
+
+### 1.3.5 <a id="tea-katha-upanisad-1-3-5"></a>
+`text-verified` · confidence high
+
+For one who lacks discriminating understanding (avijñānavān) and whose mind is always unyoked, the senses do not obey, like the bad horses of a charioteer.
+
+> yastvavijñānavānbhavatyayuktena manasā sadā | tasyendriyāṇyavaśyāni duṣṭāśvā iva sāratheḥ
+
+_level: conventional · standpoint: seeker · path: general · stage: beginner · types: practice, consciousness-mind_
+
+terms: [indriya](../terms/indriya.md), [manas](../terms/manas.md) · concepts: [The chariot simile of Kaṭha Upaniṣad 1.3](../concepts/katha-chariot-simile.md) · obstacles: [The unyoked mind (ayukta manas)](../obstacles/ayukta-manas.md)
+
 ### 1.3.5-9 <a id="tea-katha-upanisad-1-3-5-9"></a>
 `sourced` · confidence high
 
@@ -221,6 +269,63 @@ For one who lacks understanding, whose mind is never yoked, the senses are uncon
 _level: conventional · standpoint: seeker · path: meditation, knowledge · stage: all · types: practice, karma-liberation_
 
 terms: [saṃsāra](../terms/samsara.md), [vijñāna](../terms/vijnana.md), [manas](../terms/manas.md) · concepts: [The chariot image (Kaṭha)](../concepts/chariot-image.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
+
+_Superseded by [1.3.5](katha-upanisad.md#tea-katha-upanisad-1-3-5)_
+
+### 1.3.6 <a id="tea-katha-upanisad-1-3-6"></a>
+`text-verified` · confidence high
+
+For one who has discriminating understanding (vijñānavān) and whose mind is always yoked, the senses obey, like the good horses of a charioteer.
+
+> yastu vijñānavānbhavati yuktena manasā sadā | tasyendriyāṇi vaśyāni sadaśvā iva sāratheḥ
+
+_level: conventional · standpoint: seeker · path: general · stage: all · types: practice, consciousness-mind_
+
+terms: [indriya](../terms/indriya.md), [manas](../terms/manas.md) · concepts: [The chariot simile of Kaṭha Upaniṣad 1.3](../concepts/katha-chariot-simile.md) · practices: [Keeping the mind yoked (yukta manas)](../practices/yukta-manas.md)
+
+### 1.3.7 <a id="tea-katha-upanisad-1-3-7"></a>
+`text-verified` · confidence high
+
+One who lacks discriminating understanding, is without (a yoked) mind (amanaska) and is always impure does not reach that state (tat padam) and goes to saṃsāra.
+
+> yastvavijñānavānbhavatyamanaskaḥ sadāśuciḥ | na sa tatpadamāpnoti saṃsāraṃ cādhigacchati
+
+_level: conventional · standpoint: seeker · path: general · stage: all · types: karma-liberation, consciousness-mind_
+
+terms: [saṃsāra](../terms/samsara.md) · concepts: [The chariot simile of Kaṭha Upaniṣad 1.3](../concepts/katha-chariot-simile.md) · obstacles: [The unyoked mind (ayukta manas)](../obstacles/ayukta-manas.md)
+
+### 1.3.8 <a id="tea-katha-upanisad-1-3-8"></a>
+`text-verified` · confidence high
+
+One who has discriminating understanding, is possessed of (a yoked) mind and is always pure reaches that state, from which one is not born again.
+
+> yastu vijñānavānbhavati samanaskaḥ sadā śuciḥ | sa tu tatpadamāpnoti yasmādbhūyo na jāyate
+
+_level: conventional · standpoint: seeker · path: general · stage: all · types: karma-liberation, consciousness-mind_
+
+terms: [saṃsāra](../terms/samsara.md) · concepts: [The chariot simile of Kaṭha Upaniṣad 1.3](../concepts/katha-chariot-simile.md) · practices: [Keeping the mind yoked (yukta manas)](../practices/yukta-manas.md)
+
+### 1.3.9 <a id="tea-katha-upanisad-1-3-9"></a>
+`text-verified` · confidence high
+
+The man whose charioteer is discriminating understanding (vijñāna) and who holds the reins of the mind reaches the end of the road, that highest place (paramaṃ padam) of Viṣṇu.
+
+> vijñānasārathiryastu manaḥpragrahavānnaraḥ | so'dhvanaḥ pāramāpnoti tadviṣṇoḥ paramaṃ padam
+
+_level: conventional · standpoint: seeker · path: general · stage: all · types: karma-liberation, consciousness-mind_
+
+terms: [vijñāna](../terms/vijnana.md), [manas](../terms/manas.md) · concepts: [The chariot simile of Kaṭha Upaniṣad 1.3](../concepts/katha-chariot-simile.md) · practices: [Keeping the mind yoked (yukta manas)](../practices/yukta-manas.md)
+
+### 1.3.10 <a id="tea-katha-upanisad-1-3-10"></a>
+`text-verified` · confidence high
+
+Higher than the senses are the objects; higher than the objects is the mind; higher than the mind is the intellect (buddhi); higher than the intellect is the great self (mahān ātmā).
+
+> indriyebhyaḥ parā hyarthā arthebhyaśca paraṃ manaḥ | manasastu parā buddhirbuddherātmā mahānparaḥ
+
+_level: bridging · standpoint: analytic · path: knowledge, meditation · stage: intermediate · types: consciousness-mind, ultimate_
+
+terms: [indriya](../terms/indriya.md), [viṣaya](../terms/visaya.md), [manas](../terms/manas.md), [buddhi](../terms/buddhi.md), [ātman](../terms/atman.md), [mahat](../terms/mahat.md) · concepts: [The ascending order beyond the senses (Kaṭha 1.3.10-11)](../concepts/katha-ascending-order.md)
 
 ### 1.3.10-11 <a id="tea-katha-upanisad-1-3-10-11"></a>
 `sourced` · confidence high
@@ -231,43 +336,71 @@ _level: bridging · standpoint: analytic · path: knowledge, meditation · stage
 
 terms: [mahat](../terms/mahat.md), [avyakta](../terms/avyakta.md), [puruṣa](../terms/purusa.md), [buddhi](../terms/buddhi.md) · concepts: [The ladder of principles (Kaṭha)](../concepts/hierarchy-of-principles-katha.md), [Puruṣa (the conscious self)](../concepts/purusa.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
 
+_Superseded by [1.3.10](katha-upanisad.md#tea-katha-upanisad-1-3-10)_
+
+### 1.3.11 <a id="tea-katha-upanisad-1-3-11"></a>
+`text-verified` · confidence moderate
+
+Higher than the great (mahat) is the unmanifest (avyakta); higher than the unmanifest is the person (puruṣa); nothing is higher than the person: that is the limit, that is the highest goal.
+
+> mahataḥ paramavyaktamavyaktātpuruṣaḥ paraḥ | puruṣānna paraṃ kiñcitsā kāṣṭhā sā parā gatiḥ
+
+_level: bridging · standpoint: analytic · path: knowledge, meditation · stage: intermediate · types: consciousness-mind, ultimate_
+
+terms: [mahat](../terms/mahat.md), [avyakta](../terms/avyakta.md), [puruṣa](../terms/purusa.md) · concepts: [The ascending order beyond the senses (Kaṭha 1.3.10-11)](../concepts/katha-ascending-order.md)
+
 ### 1.3.12 <a id="tea-katha-upanisad-1-3-12"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Hidden in all beings, this self does not shine forth; it is seen by those of subtle sight through a sharp and subtle intellect.
+This self, hidden in all beings, does not shine forth; it is seen by seers of the subtle through a sharp, subtle intellect.
 
-_level: ultimate · standpoint: seeker · path: knowledge, meditation · stage: advanced · types: ultimate_
+> eṣa sarveṣu bhūteṣu gūḍho'tmā na prakāśate | dṛśyate tvagnyayā buddhyā sūkṣmayā sūkṣmadarśibhiḥ
 
-terms: [buddhi](../terms/buddhi.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
+_level: ultimate · standpoint: seeker · path: knowledge, meditation · stage: advanced · types: ultimate, consciousness-mind_
+
+terms: [ātman](../terms/atman.md), [buddhi](../terms/buddhi.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
 
 ### 1.3.13 <a id="tea-katha-upanisad-1-3-13"></a>
-`sourced` · confidence high
+`text-verified` · confidence moderate
 
-The wise one should restrain speech in the mind, restrain that in the self that is knowledge, knowledge in the great self, and that in the peaceful self.
+The discerning one should restrain speech in the mind, restrain that in the self that is knowledge (jñāna ātman), restrain knowledge in the great self, and restrain that in the peaceful self (śānta ātman).
 
-_level: bridging · standpoint: seeker · path: meditation · stage: advanced · types: practice_
+> yacchedvāṅmanasī prājñastadyacchejjñāna ātmani | jñānamātmani mahati niyacchettadyacchecchānta ātmani
 
-terms: [mahat](../terms/mahat.md) · practices: [Yoga of the inner self (Kaṭha)](../practices/adhyatma-yoga.md), [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
+_level: bridging · standpoint: seeker · path: meditation · stage: advanced · types: practice, consciousness-mind_
+
+terms: [ātman](../terms/atman.md), [manas](../terms/manas.md), [mahat](../terms/mahat.md) · practices: [Restraining speech in the mind, and the mind in ever finer selves (Kaṭha 1.3.13)](../practices/vak-manas-niyamana.md), [Yoga of the inner self (Kaṭha)](../practices/adhyatma-yoga.md), [Sense-withdrawal (pratyāhāra) in the haṭha texts](../practices/pratyahara.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
 
 ### 1.3.14 <a id="tea-katha-upanisad-1-3-14"></a>
-`sourced` · confidence high
+`text-verified` · confidence moderate
 
-Arise, awake; having obtained the boons, understand them. Sharp as a razor's edge, hard to cross, difficult is that path, say the sages.
+Arise, awake; having obtained the boons (varān; or "the excellent ones"), understand. Sharp as the edge of a razor, hard to cross, difficult to tread is that path, so the sages say.
 
-> uttiṣṭhata jāgrata prāpya varān nibodhata | kṣurasya dhārā niśitā duratyayā durgaṃ pathas tat kavayo vadanti
+> uttiṣṭhata jāgrata prāpya varānnibodhata | kṣurasya dhārā niśitā duratyayā durgaṃ pathastatkavayo vadanti
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: practice_
 
 obstacles: [Heedlessness (pramāda)](../obstacles/pramada.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
 
 ### 1.3.15 <a id="tea-katha-upanisad-1-3-15"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Knowing that which is soundless, touchless, formless, imperishable, likewise tasteless, eternal, odourless, without beginning or end, beyond the great, stable — one is freed from the mouth of death.
+Having discerned that which is soundless, touchless, formless, imperishable, likewise tasteless, eternal, odourless, without beginning or end, beyond the great, fixed, one is freed from the mouth of death.
+
+> aśabdamasparśamarūpamavyayaṃ tathārasaṃ nityamagandhavacca yat | anādyanantaṃ mahataḥ paraṃ dhruvaṃ nicāyya taṃ mṛtyumukhātpramucyate
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate, karma-liberation_
 
-concepts: ['Not so, not so' (neti neti)](../concepts/neti-neti.md), [Liberation (mokṣa) in Dvaita](../concepts/moksa.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
+terms: [mṛtyu](../terms/mrtyu.md), [brahman](../terms/brahman.md) · concepts: ['Not so, not so' (neti neti)](../concepts/neti-neti.md), [Liberation (mokṣa) in Dvaita](../concepts/moksa.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
+
+### 1.3.16 <a id="tea-katha-upanisad-1-3-16"></a>
+`text-verified` · confidence moderate
+
+The wise one who tells or hears this ancient story of Naciketas, told by Death, is exalted in the world of brahman.
+
+> nāciketamupākhyānaṃ mṛtyuproktaṃ sanātanam | uktvā śrutvā ca medhāvī brahmaloke mahīyate
+
+_level: conventional · standpoint: ritual · path: sound, ritual · stage: all · types: sound-language_
 
 ### 1.3.16-17 <a id="tea-katha-upanisad-1-3-16-17"></a>
 `sourced` · confidence moderate
@@ -277,6 +410,17 @@ The wise one who tells and hears this ancient story of Naciketas told by Death i
 _level: conventional · standpoint: ritual · path: sound, ritual · stage: all · types: sound-language_
 
 teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
+
+_Superseded by [1.3.16](katha-upanisad.md#tea-katha-upanisad-1-3-16)_
+
+### 1.3.17 <a id="tea-katha-upanisad-1-3-17"></a>
+`text-verified` · confidence moderate
+
+Whoever, being pure, makes this supreme secret heard (śrāvayet) in an assembly of brahmins or at the time of the rite for the ancestors (śrāddha): that makes for the endless (ānantya). The last words are repeated to close the section.
+
+> ya imaṃ paramaṃ guhyaṃ śrāvayedbrahmasaṃsadi | prayataḥ śrāddhakāle vā tadānantyāya kalpate || tadānantyāya kalpata iti
+
+_level: conventional · standpoint: ritual · path: sound, ritual · stage: all · types: sound-language_
 
 ### 2.1.1 <a id="tea-katha-upanisad-2-1-1"></a>
 `sourced` · confidence high
@@ -511,6 +655,13 @@ _level: conventional · standpoint: experiential · path: knowledge, meditation 
 
 terms: [yoga](../terms/yoga.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md)
 
+### ch1.3 <a id="tea-katha-upanisad-ch1-3"></a>
+`text-verified` · confidence high
+
+The third vallī (1.3.1–17) opens with the two who enter the cave and the bridge to the fearless (1–2); then gives the chariot simile (3–4) and its lesson on the unyoked and yoked mind, with the outcomes of saṃsāra or the highest step (5–9); the ordered ascent from senses to the person (10–11); the hidden self seen only by the subtle intellect and the graded restraint (12–13); the call to arise and the path like a razor's edge (14); the description of that which is beyond (15); and the fruit of reciting the story (16–17).
+
+_level: conventional · standpoint: seeker · path: knowledge, meditation · stage: intermediate · types: consciousness-mind, practice, ultimate_
+
 
 _Notes: The Naciketas story has an older ritual form in Taittirīya Brāhmaṇa 3.11.8 (moderate confidence on the ref). Veda affiliation: Black Yajurveda, Katha śākhā_
 
@@ -519,4 +670,4 @@ _Notes: The Naciketas story has an older ritual form in Taittirīya Brāhmaṇa 
 
 - 2026-09-29 catalog+text-locate+websearch: confirmed — catalog:GRETIL-dev:katha-upanisad, catalog:eBharati:kAThakopaniShat, text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/raw_etexts/vedaH/yajur/taittirIya/mUlam/kAThakam/2.md (TB 3.11; section 8.1 'uśan ha vai vājaśravasaḥ … — Structure confirmed: 29, 25, 17 / 15, 15, 19 = 120 verses in the prepared Śaṅkara text. The older Naciketas story is confirmed at TB 3.11.8: the raw_etexts Kāṭhaka file 2 (= TB 3.11), section 8.1, opens 'uśan ha vai vājaśravasaḥ sarvavedasaṃ dadau | tasya ha naciketā nāma putra āsa'. Scholarly dating fits Olivelle's chronology as reported on the web: BĀU and ChU pre-Buddhist, 7th–6th c. BCE; TU, AU and KauU probably pre-Buddhist, 6th–5th c. BCE; the verse Upaniṣads (Kena oldest, then Kaṭha, Īśa, Śvetāśvatara, Muṇḍaka) in the last few centuries BCE; Praśna and Māṇḍūkya not much older than the start of the common era. The tradition's account (śruti, authorless) is kept separately and not checked against scholarship.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._

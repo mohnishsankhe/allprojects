@@ -30,4 +30,4 @@ concepts: [The Great Perfection (rdzogs pa chen po)](../concepts/great-perfectio
 _Notes: Wording checked in Kunjed Gyalpo ch.31 (local D828 f.38b)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._

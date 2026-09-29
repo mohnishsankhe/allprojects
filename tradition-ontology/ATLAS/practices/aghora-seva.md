@@ -9,4 +9,4 @@
 Care of leprosy patients and the destitute as the practice of Aghora, as taught by Aghoreśvar Bhagavān Rām and the Śrī Sarveśvarī Samūh.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._

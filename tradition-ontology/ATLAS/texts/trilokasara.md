@@ -13,4 +13,4 @@
 Nemicandra's Prakrit account of the three worlds (Digambara cosmology and cosmography).
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

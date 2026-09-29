@@ -30,4 +30,4 @@ practices: [Night rite in the great cremation ground (literary)](../practices/ve
 _Notes: Listed under the Kāpālikas because scholarship discusses Bhairavācārya among portraits of skull-and-cremation-ground Śaiva ascetics; the text itself calls him a great Śaiva (mahāśaiva), not a Kāpālika._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 22:04 IST._

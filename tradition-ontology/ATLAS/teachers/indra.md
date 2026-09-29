@@ -16,4 +16,4 @@ Lord of the gods: lives 101 years as Prajāpati's student and alone goes beyond 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.22 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/kena-upanisad/segments.jsonl (Advaita-Śāradā mūla Kena_pada.md, Śaṅkara numbering), text:sources_raw/prepared/kausitaki-upanisad-sharada/segments.jsonl ( — Located: ChU 8.7-12 (Maghavan, 101 years), Kena 3.11-4.3 (meets Umā; first knew it as brahman) and KauU 3.1-9 (teaches Pratardana).
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch10-12, skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch10-12, skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._

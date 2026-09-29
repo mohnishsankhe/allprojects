@@ -15,4 +15,4 @@
 _Notes: The root texts give no warnings about such powers comparable to YS 3.37; none are recorded here._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._

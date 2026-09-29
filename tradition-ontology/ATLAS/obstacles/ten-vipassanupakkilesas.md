@@ -14,4 +14,4 @@ Experiences arising with tender insight into rise and fall that are mistaken for
   - [The Progress of Insight (Visuddhiñāṇakathā)](../texts/progress-of-insight.md) — ref: 4; rests_on: ["tea:progress-of-insight:4"]
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._

@@ -19,4 +19,4 @@ _Notes: Chs. 7–9 contribution, combining extractor A's entry and extractor B's
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:8.16, tea:bhagavad-gita:8.17, tea:bhagavad-gita:8.18, tea:bhagavad-gita:8.19 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._

@@ -33,10 +33,10 @@ The monk who abides pervading the four directions, above, below and all around w
 
 _level: conventional · standpoint: seeker · path: meditation, devotion · stage: intermediate · types: practice, world-fate_
 
-terms: [brahmavihāra](../terms/brahmavihara.md), [mettā](../terms/metta.md), [karuṇā](../terms/karuna.md), [muditā](../terms/mudita.md), [upekkhā](../terms/upekkha.md), [appamaññā](../terms/appamanna.md) · concepts: [The four divine abidings (brahmavihāra)](../concepts/four-brahmaviharas.md) · practices: [Development of the four divine abidings](../practices/brahmavihara-bhavana.md), [Loving-kindness (mettā-bhāvanā)](../practices/metta-bhavana.md) · disputes: [Do the paths taught by the brahmins of the three Vedas lead to union with Brahmā?](../debates/tevijja-union-with-brahma.md)
+terms: [brahmavihāra](../terms/brahmavihara.md), [mettā](../terms/metta.md), [kāruṇya](../terms/karuna.md), [muditā](../terms/mudita.md), [upekkhā](../terms/upekkha.md), [appamaññā](../terms/appamanna.md) · concepts: [The four divine abidings (brahmavihāra)](../concepts/four-brahmaviharas.md) · practices: [Development of the four divine abidings](../practices/brahmavihara-bhavana.md), [Loving-kindness (mettā-bhāvanā)](../practices/metta-bhavana.md) · disputes: [Do the paths taught by the brahmins of the three Vedas lead to union with Brahmā?](../debates/tevijja-union-with-brahma.md)
 
 
 _Notes: SuttaCentral uid dn13; Mahāsaṅgīti title 'Tevijjasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

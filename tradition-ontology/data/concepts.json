@@ -4230,9 +4230,19 @@
  },
  {
   "id": "cpt:ananda-mimamsa",
-  "name": "The calculus of bliss (ānanda-mīmāṃsā)",
-  "category": "ultimate",
+  "name": "The scale of bliss (ānanda-mīmāṃsā, Taittirīya 2.8)",
+  "category": "consciousness-states",
   "definitions": [
+   {
+    "lineage": "lin:upanisadic",
+    "definition": "Human bliss at its best, then a hundredfold ascent through gandharvas, fathers, gods, Indra, Bṛhaspati and Prajāpati to the bliss of brahman; each step is also the bliss of a learned man untouched by desire.",
+    "rests_on": [
+     "tea:taittiriya-upanisad:2.8.1",
+     "tea:taittiriya-upanisad:2.8.2",
+     "tea:taittiriya-upanisad:2.8.3",
+     "tea:taittiriya-upanisad:2.8.4"
+    ]
+   },
    {
     "lineage": "lin:upanisadic",
     "definition": "A graded measure of bliss: the fullest human bliss multiplied a hundredfold at each step through classes of beings up to the bliss of brahman (TU 2.8; BAU 4.3.33 with a different list), with the refrain that the learned one untouched by desire has each of these.",
@@ -4243,18 +4253,39 @@
    }
   ],
   "members": [
+   "mānuṣa",
+   "manuṣya-gandharva",
+   "deva-gandharva",
+   "pitṛ",
+   "ājānaja-deva",
+   "karma-deva",
+   "deva",
+   "indra",
+   "bṛhaspati",
+   "prajāpati",
+   "brahman",
    "TU 2.8: human; human gandharvas; divine gandharvas; fathers of long-lasting world; gods by birth; gods by works; gods; Indra; Bṛhaspati; Prajāpati; brahman",
    "BAU 4.3.33: human; fathers who have won their world; gandharva world; gods by works; gods by birth; Prajāpati's world; brahman's world (moderate)"
-  ],
-  "coverage": [
-   "A2",
-   "D"
   ],
   "verification": {
    "level": "sourced",
    "confidence": "high",
-   "unverified": false,
+   "protocol": "insight-p1-single+spot",
    "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:taittiriya-upanisad:2.8.1",
+      "tea:taittiriya-upanisad:2.8.2",
+      "tea:taittiriya-upanisad:2.8.3",
+      "tea:taittiriya-upanisad:2.8.4"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    },
     {
      "phase": "C",
      "date": "2026-09-29",
@@ -4270,13 +4301,20 @@
      "note": "Both lists are located. TU 2.8.1-4 runs human → human gandharvas → divine gandharvas → fathers → ājānaja gods → karma gods → gods → Indra → Bṛhaspati → Prajāpati → brahman, with 'śrotriyasya cākāmahatasya' at each step. BĀU 4.3.33 has a different list, with the clause only from the ājānadevas upward. All 2 Upaniṣad refs cited in the entry are located in the prepared segments (TU 2.8; BĀU 4.3.33). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.",
      "by": "sourcing:U03-principal-upanisads"
     }
-   ]
+   ],
+   "unverified": false
   },
+  "coverage": [
+   "A2",
+   "D"
+  ],
   "provenance": {
    "units": [
+    "extraction:taittiriya-upanisad/kosa",
     "skeleton:U03-principal-upanisads"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -7208,9 +7246,22 @@
  },
  {
   "id": "cpt:asrava",
-  "name": "Inflow (āsrava)",
+  "name": "Inflow (āsrava) in the Tattvārtha Sūtra",
   "category": "karma-rebirth",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Activity of body, speech and mind is inflow; auspicious activity brings merit, inauspicious demerit; with passions it is sāmparāyika, without passions īryāpatha (the commentators: lasting and transient); the sāmparāyika kind has the divisions of senses (5), passions (4), non-vows (5) and actions (25); the causes of the inflow of each karma type are given at 6.10-6.27.",
+    "rests_on": [
+     "tea:tattvartha-sutra:6.1",
+     "tea:tattvartha-sutra:6.2",
+     "tea:tattvartha-sutra:6.3",
+     "tea:tattvartha-sutra:6.4",
+     "tea:tattvartha-sutra:6.5",
+     "tea:tattvartha-sutra:6.10",
+     "tea:tattvartha-sutra:6.27"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "The activity of body, speech and mind is the channel of inflow; auspicious activity brings merit, inauspicious demerit; with passions it binds lastingly, without passions only transiently (TS 6.1–6).",
@@ -7223,6 +7274,31 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:6.1",
+      "tea:tattvartha-sutra:6.10",
+      "tea:tattvartha-sutra:6.2",
+      "tea:tattvartha-sutra:6.27",
+      "tea:tattvartha-sutra:6.3",
+      "tea:tattvartha-sutra:6.4",
+      "tea:tattvartha-sutra:6.5"
+     ],
+     "result": "corrected",
+     "note": "Corrected by J: Definition: \"lasting/transient\" replaced by sāmparāyika/īryāpatha, glosses labelled as the commentators'."
+    }
+   ],
+   "unverified": false
+  },
   "members": [
    "senses (5)",
    "passions (4)",
@@ -7232,17 +7308,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -9823,9 +9895,17 @@
  },
  {
   "id": "cpt:bandha",
-  "name": "Bondage (bandha)",
+  "name": "Bondage (bandha) in the Tattvārtha Sūtra",
   "category": "karma-rebirth",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Because of the passions the soul takes in material particles fit to become karma; that is bondage. Causes: wrong view, non-abstinence, carelessness, passions, activity.",
+    "rests_on": [
+     "tea:tattvartha-sutra:8.1",
+     "tea:tattvartha-sutra:8.2"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Because of its passions the soul takes in matter fit for karma: that is bondage (TS 8.2).",
@@ -9835,20 +9915,36 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:8.1",
+      "tea:tattvartha-sutra:8.2"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -12168,6 +12264,63 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:bhrgu-inquiry-sequence",
+  "name": "Bhṛgu's five identifications of brahman (Taittirīya 3.1-3.6)",
+  "category": "stages-maps",
+  "definitions": [
+   {
+    "lineage": "lin:upanisadic",
+    "definition": "Bhṛgu, told to seek that from which beings are born, by which they live and into which they enter, knows brahman as food, then breath, then mind, then understanding, then bliss; after each he is told to seek by tapas; the sequence ends with the vidyā established in the highest space.",
+    "rests_on": [
+     "tea:taittiriya-upanisad:3.1.1",
+     "tea:taittiriya-upanisad:3.2.1",
+     "tea:taittiriya-upanisad:3.3.1",
+     "tea:taittiriya-upanisad:3.4.1",
+     "tea:taittiriya-upanisad:3.5.1",
+     "tea:taittiriya-upanisad:3.6.1"
+    ]
+   }
+  ],
+  "members": [
+   "anna",
+   "prāṇa",
+   "manas",
+   "vijñāna",
+   "ānanda"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:taittiriya-upanisad:3.1.1",
+      "tea:taittiriya-upanisad:3.2.1",
+      "tea:taittiriya-upanisad:3.3.1",
+      "tea:taittiriya-upanisad:3.4.1",
+      "tea:taittiriya-upanisad:3.5.1",
+      "tea:taittiriya-upanisad:3.6.1"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:taittiriya-upanisad/kosa"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -16628,7 +16781,7 @@
      }
     ],
     "reason": "Maṇḍalabrāhmaṇa 4.1 in the e-text reads 'navacakraṃ ṣaḍādhāraṃ trilakṣyaṃ vyomapañcakam', that is nine cakras and SIX ādhāras. The 'sixteen ādhāras' belong to Yogacūḍāmaṇi 3 ('ṣaṭcakraṃ ṣoḍaśādhāraṃ trilakṣyaṃ vyomapañcakam'). The definition is corrected accordingly. The Yogaśikhā's four pīṭhas are confirmed at 1.172-175. All 8 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:3-ascent-through-the-centres (corrected).",
-    "date": "2026-09-29 21:51 IST",
+    "date": "2026-09-29 22:03 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -19626,6 +19779,58 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:cosmic-emergence-from-atman",
+  "name": "Emergence from the self (Taittirīya 2.1.1)",
+  "category": "cosmology-time",
+  "definitions": [
+   {
+    "lineage": "lin:upanisadic",
+    "definition": "From the self space, from space wind, then fire, water, earth, plants, food, the person; also (2.6.1) the one who desired to be many performed tapas, created all and entered it.",
+    "rests_on": [
+     "tea:taittiriya-upanisad:2.1.1/3",
+     "tea:taittiriya-upanisad:2.6.1/2"
+    ]
+   }
+  ],
+  "members": [
+   "ākāśa",
+   "vāyu",
+   "agni",
+   "āpaḥ",
+   "pṛthivī",
+   "oṣadhi",
+   "anna",
+   "puruṣa"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:taittiriya-upanisad:2.1.1/3",
+      "tea:taittiriya-upanisad:2.6.1/2"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:taittiriya-upanisad/kosa"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -27678,9 +27883,25 @@
  },
  {
   "id": "cpt:eight-karmas",
-  "name": "The eight kinds of karma",
+  "name": "The eight karma types (Tattvārtha 8.4-8.13)",
   "category": "karma-rebirth",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Knowledge-obscuring (5), perception-obscuring (9), feeling (2), deluding (28), lifespan (4), body-making (42), status (2), obstructive (5): ninety-seven subdivisions by this count.",
+    "rests_on": [
+     "tea:tattvartha-sutra:8.4",
+     "tea:tattvartha-sutra:8.5",
+     "tea:tattvartha-sutra:8.6",
+     "tea:tattvartha-sutra:8.7",
+     "tea:tattvartha-sutra:8.8",
+     "tea:tattvartha-sutra:8.9",
+     "tea:tattvartha-sutra:8.10",
+     "tea:tattvartha-sutra:8.11",
+     "tea:tattvartha-sutra:8.12",
+     "tea:tattvartha-sutra:8.13"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Knowledge-obscuring (5 subtypes), perception-obscuring (9), feeling (2), deluding (28), lifespan (4), body-making (42, expanded to 93), status (2) and obstructive (5) — 97 (or 148) in all (TS 8.4–13); each has its own causes (TS 6.10–27).",
@@ -27694,6 +27915,14 @@
    }
   ],
   "members": [
+   "jñānāvaraṇa",
+   "darśanāvaraṇa",
+   "vedanīya",
+   "mohanīya",
+   "āyus",
+   "nāma",
+   "gotra",
+   "antarāya",
    "jñānāvaraṇīya (5)",
    "darśanāvaraṇīya (9)",
    "vedanīya (2)",
@@ -27703,20 +27932,44 @@
    "gotra (2)",
    "antarāya (5)"
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:8.10",
+      "tea:tattvartha-sutra:8.11",
+      "tea:tattvartha-sutra:8.12",
+      "tea:tattvartha-sutra:8.13",
+      "tea:tattvartha-sutra:8.4",
+      "tea:tattvartha-sutra:8.5",
+      "tea:tattvartha-sutra:8.6",
+      "tea:tattvartha-sutra:8.7",
+      "tea:tattvartha-sutra:8.8",
+      "tea:tattvartha-sutra:8.9"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -30496,6 +30749,99 @@
   }
  },
  {
+  "id": "cpt:emptiness-of-the-aggregates",
+  "name": "Emptiness of the aggregates (Heart Sūtra)",
+  "category": "self",
+  "names": [
+   {
+    "lineage": "lin:mahayana",
+    "name": "pañca-skandha-śūnyatā"
+   }
+  ],
+  "definitions": [
+   {
+    "lineage": "lin:mahayana",
+    "definition": "Avalokiteśvara sees the five aggregates (form, feeling, perception, formations, consciousness) as empty (of own-being in the Sanskrit-short text); form is emptiness and emptiness is form, and likewise for the other four; all dharmas have the mark of emptiness, unarisen and unceased, and in emptiness there are no aggregates, sense-bases, realms, links of dependent origination, four truths, knowledge or attainment.",
+    "rests_on": [
+     "tea:prajnaparamita-hrdaya:2.2",
+     "tea:prajnaparamita-hrdaya:2.3",
+     "tea:prajnaparamita-hrdaya:2.4",
+     "tea:prajnaparamita-hrdaya:s3",
+     "tea:prajnaparamita-hrdaya:s4",
+     "tea:prajnaparamita-hrdaya:s6",
+     "tea:prajnaparamita-hrdaya:s7"
+    ]
+   },
+   {
+    "lineage": "lin:mahayana",
+    "definition": "In the shorter Sanskrit recension: Avalokiteśvara sees the five aggregates as empty of own-being (svabhāva-śūnya); form is emptiness and emptiness form, and likewise vedanā, saṃjñā, saṃskāra and vijñāna; all dharmas have the mark of emptiness, unarisen, unceased; in emptiness there are no aggregates, sense-bases, realms, links, truths, knowledge or attainment.",
+    "rests_on": [
+     "tea:prajnaparamita-hrdaya:s3",
+     "tea:prajnaparamita-hrdaya:s4",
+     "tea:prajnaparamita-hrdaya:s5",
+     "tea:prajnaparamita-hrdaya:s6",
+     "tea:prajnaparamita-hrdaya:s7"
+    ]
+   }
+  ],
+  "members": [
+   "rūpa",
+   "vedanā",
+   "saṃjñā",
+   "saṃskāra",
+   "vijñāna"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:prajnaparamita-hrdaya:2.2",
+      "tea:prajnaparamita-hrdaya:2.3",
+      "tea:prajnaparamita-hrdaya:2.4",
+      "tea:prajnaparamita-hrdaya:s3",
+      "tea:prajnaparamita-hrdaya:s4",
+      "tea:prajnaparamita-hrdaya:s6",
+      "tea:prajnaparamita-hrdaya:s7"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    },
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:prajnaparamita-hrdaya:s3",
+      "tea:prajnaparamita-hrdaya:s4",
+      "tea:prajnaparamita-hrdaya:s5",
+      "tea:prajnaparamita-hrdaya:s6",
+      "tea:prajnaparamita-hrdaya:s7"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "provenance": {
+   "units": [
+    "extraction:prajnaparamita-hrdaya/all",
+    "extraction:prajnaparamita-hrdaya-sanskrit-short/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "cpt:emptiness-prajnaparamita",
   "name": "Emptiness in the Perfection of Wisdom sūtras",
   "category": "ultimate",
@@ -32989,9 +33335,22 @@
  },
  {
   "id": "cpt:five-bhavas",
-  "name": "The five states of the soul (bhāva)",
+  "name": "The five states of the soul (Tattvārtha 2.1-2.7)",
   "category": "self",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Subsidential (2), destructional (9), mixed (18), rising (21, including four passions) and inherent (3): the soul's own nature (svatattva).",
+    "rests_on": [
+     "tea:tattvartha-sutra:2.1",
+     "tea:tattvartha-sutra:2.2",
+     "tea:tattvartha-sutra:2.3",
+     "tea:tattvartha-sutra:2.4",
+     "tea:tattvartha-sutra:2.5",
+     "tea:tattvartha-sutra:2.6",
+     "tea:tattvartha-sutra:2.7"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "The soul's states are subsidential, destructional, mixed, rising and inherent, with 2, 9, 18, 21 and 3 divisions (TS 2.1–7); at liberation all cease except perfect right view, knowledge, perception and siddhahood (10.3–4).",
@@ -33007,24 +33366,46 @@
   "members": [
    "aupaśamika",
    "kṣāyika",
-   "kṣāyopaśamika",
+   "miśra",
    "audayika",
-   "pāriṇāmika"
+   "pāriṇāmika",
+   "kṣāyopaśamika"
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:2.1",
+      "tea:tattvartha-sutra:2.2",
+      "tea:tattvartha-sutra:2.3",
+      "tea:tattvartha-sutra:2.4",
+      "tea:tattvartha-sutra:2.5",
+      "tea:tattvartha-sutra:2.6",
+      "tea:tattvartha-sutra:2.7"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -35832,9 +36213,13 @@
  },
  {
   "id": "cpt:five-sheaths",
-  "name": "The five sheaths (pañca-kośa)",
-  "category": "body-energy",
+  "name": "The five sheaths (pañca-kośa) as defined in Taittirīya Upaniṣad 2.1-2.5",
+  "category": "self",
   "names": [
+   {
+    "lineage": "lin:upanisadic",
+    "name": "pañca ātmānaḥ (five selves) — annamaya, prāṇamaya, manomaya, vijñānamaya, ānandamaya"
+   },
    {
     "lineage": "lin:upanisadic",
     "name": "annarasamaya ... ānandamaya ātman",
@@ -35842,6 +36227,19 @@
    }
   ],
   "definitions": [
+   {
+    "lineage": "lin:upanisadic",
+    "definition": "Five selves, each \"made of\" (-maya) something, each person-shaped, each within the previous and filling it, with the refrain \"tasyaiṣa eva śārīra ātmā yaḥ pūrvasya\" (its embodied self is this very one, the one of the former; the construal is disputed): the self made of the essence of food (2.1.1); of breath (head prāṇa, wings vyāna and apāna, self ākāśa, support earth; 2.2.1); of mind (head yajus, wings ṛc and sāman, self ādeśa, support Atharvāṅgiras; 2.3.1); of understanding (head śraddhā, wings ṛta and satya, self yoga, support mahas; 2.4.1); of bliss (head priya, wings moda and pramoda, self ānanda, support brahman; 2.5.1). The knower, departing, approaches all five (2.8.5, 3.10.5). The word kośa does not occur in the text.",
+    "rests_on": [
+     "tea:taittiriya-upanisad:2.1.1",
+     "tea:taittiriya-upanisad:2.2.1",
+     "tea:taittiriya-upanisad:2.3.1",
+     "tea:taittiriya-upanisad:2.4.1",
+     "tea:taittiriya-upanisad:2.5.1",
+     "tea:taittiriya-upanisad:2.8.5",
+     "tea:taittiriya-upanisad:3.10.5"
+    ]
+   },
    {
     "lineage": "lin:upanisadic",
     "definition": "TU 2.1-5 teaches five selves, each within and filling the one before and each person-shaped: made of the essence of food, of breath, of mind, of understanding and of bliss, with brahman as the tail and foundation of the last; TU 3 reaches the same five as successive understandings of brahman. The TU calls them selves 'made of' (-maya); the name 'sheath' (kośa) for them is later Vedānta usage.",
@@ -35868,28 +36266,50 @@
    }
   ],
   "members": [
-   "annamaya (food)",
-   "prāṇamaya (breath)",
-   "manomaya (mind)",
-   "vijñānamaya (understanding)",
-   "ānandamaya (bliss)",
    "annamaya",
    "prāṇamaya",
    "manomaya",
    "vijñānamaya",
-   "ānandamaya"
+   "ānandamaya",
+   "annamaya (food)",
+   "prāṇamaya (breath)",
+   "manomaya (mind)",
+   "vijñānamaya (understanding)",
+   "ānandamaya (bliss)"
   ],
-  "notes": "Correction to the task list: TU 2.1-5 is right; the word kośa is absent from TU 2 (checked locally).",
-  "coverage": [
-   "A2",
-   "D",
-   "A7"
+  "relations": [
+   {
+    "rel": "part-of",
+    "target": "cpt:bhrgu-inquiry-sequence",
+    "note": "Bhṛgu's identifications of brahman (3.2-3.6) follow the same five names in the same order.",
+    "rests_on": [
+     "tea:taittiriya-upanisad:3.2.1",
+     "tea:taittiriya-upanisad:3.6.1"
+    ]
+   }
   ],
   "verification": {
    "level": "sourced",
    "confidence": "high",
-   "unverified": false,
+   "protocol": "insight-p1-single+spot",
    "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:taittiriya-upanisad:2.1.1",
+      "tea:taittiriya-upanisad:2.2.1",
+      "tea:taittiriya-upanisad:2.3.1",
+      "tea:taittiriya-upanisad:2.4.1",
+      "tea:taittiriya-upanisad:2.5.1",
+      "tea:taittiriya-upanisad:2.8.5",
+      "tea:taittiriya-upanisad:3.10.5"
+     ],
+     "result": "corrected",
+     "note": "Corrected by J: Definition: \"the later being the embodied self of the earlier\" replaced by the text's refrain with its construal marked as disputed (see teachings 2.3.1-2.6.1)."
+    },
     {
      "phase": "C",
      "date": "2026-09-29",
@@ -35904,15 +36324,24 @@
      "note": "The note's claim is confirmed: in TU 2 the five are selves 'made of' (-maya) food, breath, mind, understanding and bliss. The word kośa does not occur anywhere in TU 2; in the whole prepared TU it occurs only at 1.4.1 ('brahmaṇaḥ kośo 'si'). All 3 Upaniṣad refs cited in the entry are located in the prepared segments (TU 2.1-5; TU 3; TU 2). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.",
      "by": "sourcing:U03-principal-upanisads"
     }
-   ]
+   ],
+   "unverified": false
   },
+  "notes": "Correction to the task list: TU 2.1-5 is right; the word kośa is absent from TU 2 (checked locally).",
+  "coverage": [
+   "A2",
+   "D",
+   "A7"
+  ],
   "provenance": {
    "units": [
+    "extraction:taittiriya-upanisad/kosa",
     "skeleton:U03-principal-upanisads",
     "skeleton:U13-advaita",
     "skeleton:U22-tamil-siddha"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -37774,9 +38203,21 @@
  },
  {
   "id": "cpt:four-aspects-of-bandha",
-  "name": "The four aspects of bondage",
+  "name": "The four kinds of bondage (Tattvārtha 8.3)",
   "category": "karma-rebirth",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Nature (prakṛti), duration (sthiti), intensity/fruition (anubhava) and quantity (pradeśa); nature is the eight karma types (8.4), duration is given for each (8.14-8.20), fruition is experiencing and follows the name (8.21-8.22), quantity concerns the particles in all the soul's space-points (8.24).",
+    "rests_on": [
+     "tea:tattvartha-sutra:8.3",
+     "tea:tattvartha-sutra:8.4",
+     "tea:tattvartha-sutra:8.14",
+     "tea:tattvartha-sutra:8.21",
+     "tea:tattvartha-sutra:8.22",
+     "tea:tattvartha-sutra:8.24"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Bondage is of nature (which karma), duration (how long), intensity (how strong its fruit) and quantity (how many particles) (TS 8.3); activity determines nature and quantity, passion determines duration and intensity (commentaries).",
@@ -37792,23 +38233,44 @@
   "members": [
    "prakṛti",
    "sthiti",
-   "anubhāga",
-   "pradeśa"
+   "anubhava",
+   "pradeśa",
+   "anubhāga"
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:8.14",
+      "tea:tattvartha-sutra:8.21",
+      "tea:tattvartha-sutra:8.22",
+      "tea:tattvartha-sutra:8.24",
+      "tea:tattvartha-sutra:8.3",
+      "tea:tattvartha-sutra:8.4"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -39945,9 +40407,18 @@
  },
  {
   "id": "cpt:four-kasayas-sixteen",
-  "name": "The passions and their sixteen grades",
-  "category": "obstacles",
+  "name": "The four passions and their sixteen varieties (Tattvārtha 8.9)",
+  "category": "karma-rebirth",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Anger, pride, deceit and greed, each with four varieties: anantānubandhī, apratyākhyāna, pratyākhyāna, saṃjvalana; sixteen in all, forming the conduct-deluding karma of the passions.",
+    "rests_on": [
+     "tea:tattvartha-sutra:8.9",
+     "tea:tattvartha-sutra:6.14",
+     "tea:tattvartha-sutra:2.6"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Anger, pride, deceit and greed, each in four grades — endless-binding (blocking right view), blocking partial renunciation, blocking full renunciation, and smouldering (blocking perfect conduct) — with nine quasi-passions (TS 8.9).",
@@ -39964,20 +40435,37 @@
    "× anantānubandhin, apratyākhyāna, pratyākhyāna, saṃjvalana",
    "nine nokaṣāyas"
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:2.6",
+      "tea:tattvartha-sutra:6.14",
+      "tea:tattvartha-sutra:8.9"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -57209,6 +57697,50 @@
   }
  },
  {
+  "id": "cpt:karma-fruition-and-shedding",
+  "name": "Fruition and shedding of karma (Tattvārtha 8.21-8.23)",
+  "category": "karma-rebirth",
+  "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Fruition is experiencing; it accords with the name of the karma; from it comes shedding (nirjarā).",
+    "rests_on": [
+     "tea:tattvartha-sutra:8.21",
+     "tea:tattvartha-sutra:8.22",
+     "tea:tattvartha-sutra:8.23"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:8.21",
+      "tea:tattvartha-sutra:8.22",
+      "tea:tattvartha-sutra:8.23"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:tattvartha-sutra/karma-passions"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "cpt:karma-in-advaita",
   "name": "Action (karma) in Advaita",
   "category": "karma-rebirth",
@@ -57767,6 +58299,123 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:katha-ascending-order",
+  "name": "The ascending order beyond the senses (Kaṭha 1.3.10-11)",
+  "category": "self",
+  "definitions": [
+   {
+    "lineage": "lin:upanisadic",
+    "definition": "Above the senses are the objects, above them the mind, above it the intellect, above it the great self (mahān ātmā), above it the unmanifest (avyakta), above it the person (puruṣa); nothing is higher than the person, who is the limit and the highest goal.",
+    "rests_on": [
+     "tea:katha-upanisad:1.3.10",
+     "tea:katha-upanisad:1.3.11"
+    ]
+   }
+  ],
+  "members": [
+   "indriya",
+   "artha",
+   "manas",
+   "buddhi",
+   "mahān ātmā",
+   "avyakta",
+   "puruṣa"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:katha-upanisad:1.3.10",
+      "tea:katha-upanisad:1.3.11"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:katha-upanisad/chariot"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
+  "id": "cpt:katha-chariot-simile",
+  "name": "The chariot simile of Kaṭha Upaniṣad 1.3",
+  "category": "mind",
+  "names": [
+   {
+    "lineage": "lin:upanisadic",
+    "name": "rathakalpanā (the chariot image)"
+   }
+  ],
+  "definitions": [
+   {
+    "lineage": "lin:upanisadic",
+    "definition": "The self is the lord of the chariot, the body the chariot, the intellect (buddhi) the charioteer, the mind (manas) the reins, the senses (indriya) the horses and the objects (viṣaya) their roads (1.3.3-4). With an unyoked mind the senses are unruly like bad horses and one goes to saṃsāra; with a yoked mind they are obedient like good horses and one reaches the highest place of Viṣṇu, from which there is no rebirth (1.3.5-9).",
+    "rests_on": [
+     "tea:katha-upanisad:1.3.3",
+     "tea:katha-upanisad:1.3.4",
+     "tea:katha-upanisad:1.3.5",
+     "tea:katha-upanisad:1.3.6",
+     "tea:katha-upanisad:1.3.7",
+     "tea:katha-upanisad:1.3.8",
+     "tea:katha-upanisad:1.3.9"
+    ]
+   }
+  ],
+  "members": [
+   "ātman (rathin)",
+   "śarīra (ratha)",
+   "buddhi (sārathi)",
+   "manas (pragraha)",
+   "indriya (haya)",
+   "viṣaya (gocara)"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:katha-upanisad:1.3.3",
+      "tea:katha-upanisad:1.3.4",
+      "tea:katha-upanisad:1.3.5",
+      "tea:katha-upanisad:1.3.6",
+      "tea:katha-upanisad:1.3.7",
+      "tea:katha-upanisad:1.3.8",
+      "tea:katha-upanisad:1.3.9"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:katha-upanisad/chariot"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -79320,7 +79969,7 @@
      }
     ],
     "reason": "Every example in the definition was text-located. ŚB 14.6.11.2 has 'indho vai nāmaiṣa … taṃ vā etam indhaṃ santam indra ity ācakṣate paro'kṣeṇaiva paro'kṣapriyā iva hi devāḥ pratyakṣadviṣaḥ'. AB 3.43 has 'tam agnistomaṃ santam agniṣṭoma ity ācakṣate parokṣeṇa parokṣapriyā iva hi devāḥ', and also 3.33 and 7.30. The svāpyaya → svapna pun, however, is ŚB 10.5.2.19, not 10.5.2.20, as the correction of tea:satapatha-brahmana:10.5.2.20 records. Correction: that locator becomes 10.5.2.19 in the definition; the wording is otherwise unchanged.",
-    "date": "2026-09-29 21:51 IST",
+    "date": "2026-09-29 22:03 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    }
   ],
@@ -136711,9 +137360,21 @@
  },
  {
   "id": "cpt:vow-bhavanas",
-  "name": "The twenty-five contemplations supporting the vows",
+  "name": "The vows and their contemplations (Tattvārtha 7.1-7.12)",
   "category": "ethics",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Five vows (abstention from violence, falsehood, stealing, unchastity, possessiveness), small or great; five contemplations for each; reflection on harm and suffering; friendliness, delight, compassion and equanimity; reflection on the nature of world and body for dread of saṃsāra and detachment.",
+    "rests_on": [
+     "tea:tattvartha-sutra:7.1",
+     "tea:tattvartha-sutra:7.2",
+     "tea:tattvartha-sutra:7.3",
+     "tea:tattvartha-sutra:7.9",
+     "tea:tattvartha-sutra:7.11",
+     "tea:tattvartha-sutra:7.12"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Five contemplations for each vow steady it (TS 7.3–8), with the reflections on the harm and suffering of the sins (7.9–10) and on world and body for dread and detachment (7.12).",
@@ -136726,20 +137387,47 @@
     ]
    }
   ],
+  "members": [
+   "ahiṃsā",
+   "satya",
+   "asteya",
+   "brahmacarya",
+   "aparigraha"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:7.1",
+      "tea:tattvartha-sutra:7.11",
+      "tea:tattvartha-sutra:7.12",
+      "tea:tattvartha-sutra:7.2",
+      "tea:tattvartha-sutra:7.3",
+      "tea:tattvartha-sutra:7.9"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }

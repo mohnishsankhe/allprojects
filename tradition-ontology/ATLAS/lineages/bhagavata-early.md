@@ -64,4 +64,4 @@ _Notes: Owned by U05. Scholarly (labeled) observation: the three 'immortal steps
 
 - 2026-09-29 catalog+websearch: confirmed — https://en.wikipedia.org/wiki/Heliodorus_pillar, https://en.wikipedia.org/wiki/Hathibada_Ghosundi_inscriptions, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/vedAngAni/vyAkaraNam/aShTAdhyAyI-kAshikA.md ("vāsudevārjunābhyāṃ vun 4.3.98"), local:sources_raw/DharmicData/Mahabharata (BORI CE text) 1 — Least-sure inscriptional metadata confirmed: Heliodorus pillar c. 113 BCE (donor a bhāgavata; the three immortal precepts dama, cāga and apramāda, paralleled at MBh 11.7.19 and 5.43.14, both located). Ghosuṇḍī and Nānāghāṭ (1st c. BCE) name Saṃkarṣaṇa and Vāsudeva. Pāṇini 4.3.98 (vāsudevaka) located locally. The Sātvata/ekāntin dharma of the Nārāyaṇīya is located at 12.336.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._

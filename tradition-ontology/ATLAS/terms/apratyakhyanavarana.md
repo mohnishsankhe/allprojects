@@ -1,12 +1,13 @@
-# apratyākhyānāvaraṇa
+# apratyākhyāna
 
-`trm:apratyakhyanavarana` · `skeleton` · confidence moderate
+`trm:apratyakhyanavarana` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Native script:** अप्रत्याख्यानावरण
-**Literal:** obstructing partial renunciation
+**Literal:** non-renunciation
 
 ## Definitions by tradition
+- [Jainism (Jaina dharma)](../lineages/jainism.md): The second variety of each passion (8.9); not defined in the sūtra.
 - [Jainism (Jaina dharma)](../lineages/jainism.md): The grade of passions that prevents taking even the lay vows (TS 8.9).
 
 ## Forms in other languages
@@ -14,4 +15,8 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:tattvartha-sutra:8.9 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
+
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

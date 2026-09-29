@@ -13,4 +13,4 @@ Bondage to prakṛti (absorption from taking the eight prakṛtis as highest), t
   - [Kramadīpikā](../texts/kramadipika.md) — ref: 20; rests_on: ["tea:kramadipika:20"]
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:04 IST._

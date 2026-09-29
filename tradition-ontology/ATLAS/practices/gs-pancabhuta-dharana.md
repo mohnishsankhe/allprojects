@@ -14,4 +14,4 @@ Holding the mind with the breath on earth (heart, yellow, square, la), water (th
 _Notes: The fixed durations in the text are not reproduced._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._

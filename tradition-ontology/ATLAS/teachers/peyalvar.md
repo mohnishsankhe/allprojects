@@ -17,4 +17,4 @@ Third of the 'first Āḻvārs'; author of the Mūṉṟām Tiruvantāti, which 
 _Notes: Aṃśa of the sword Nandaka in the tradition's list (low confidence)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:04 IST._

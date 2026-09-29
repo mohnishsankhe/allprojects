@@ -21,4 +21,4 @@
 **Related:** [sāmīpya](samipya.md), [sārūpya](sarupya.md), [sāyujya ('yoga')](sayujya.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U06-other-gitas, skeleton:U07-puranas, skeleton:U04-minor-upanisads, skeleton:U18-saiva-siddhanta, skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U06-other-gitas, skeleton:U07-puranas, skeleton:U04-minor-upanisads, skeleton:U18-saiva-siddhanta, skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._

@@ -16,4 +16,4 @@
 Gyaltsab Darma Rinchen's commentary on the Ratnagotravibhāga (the 'Dar ṭīk'), reading the buddha-element as the emptiness of the mind — the naturally abiding lineage — in the manner of Tsongkhapa's Madhyamaka.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._

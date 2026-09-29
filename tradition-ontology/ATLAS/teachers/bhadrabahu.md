@@ -22,4 +22,4 @@ The last 'scripture-omniscient' (śrutakevalin), who knew all fourteen Pūrvas. 
 _Notes: Scholars distinguish a later Bhadrabāhu (II) to whom the niryuktis may belong._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

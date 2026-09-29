@@ -30,4 +30,4 @@ Maṇḍana: ignorance is non-apprehension and misapprehension residing in the j
 **Candidate readings:** P1-level/P6-upaya: both are empirical-level explanations of the one error (traditional compendia).; Historical reading: Śaṅkara's usage is phenomenological (adhyāsa), the Vivaraṇa's is causal-explanatory; they answer different questions.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._

@@ -20,4 +20,4 @@ _Notes: The Upaniṣads (Muṇḍaka 3.1.1, Śvetāśvatara 4.6) read the birds 
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Advaita-Ś — Located: MuU 3.1.1-2 and ŚU 4.6-7, both = RV 1.164.20 ('dvā suparṇā sayujā sakhāyā', found in DCS); KU 1.3.1 ('chāyātapau'). All 3 Upaniṣad refs cited in the entry are located in the prepared segments (MuU 3.1.1-2; ŚU 4.6-7; KU 1.3.1). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U03-principal-upanisads. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._

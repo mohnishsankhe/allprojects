@@ -13,4 +13,4 @@ The pains of death ('the wind-knife') scatter the unpractised mind; the presence
   - [The Dharma Gate of the Merits of the Samādhi of Contemplating the Ocean-like Marks of Amitābha](../texts/guannian-famen.md) — ref: 24b29-c02; rests_on: ["tea:guannian-famen:24b21-c04"]
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._

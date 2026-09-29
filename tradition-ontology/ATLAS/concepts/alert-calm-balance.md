@@ -15,4 +15,4 @@
 - opposes → [Dullness and scattering (hunchen, sanluan / diaoju)](../obstacles/torpor-and-scattering.md) — rests on [390c04](../texts/yongjia-ji.md#tea-yongjia-ji-390c04)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._

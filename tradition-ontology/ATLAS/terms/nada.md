@@ -26,4 +26,4 @@
 _Notes: Nāda doctrine at large → U31/U28._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U31-sound-arts, skeleton:U04-minor-upanisads, skeleton:U02-brahmana-vedanga, skeleton:U08-agama-catalogue, skeleton:U23-sakta-srividya, skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U31-sound-arts, skeleton:U04-minor-upanisads, skeleton:U02-brahmana-vedanga, skeleton:U08-agama-catalogue, skeleton:U23-sakta-srividya, skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._

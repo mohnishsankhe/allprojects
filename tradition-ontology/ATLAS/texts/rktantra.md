@@ -17,4 +17,4 @@ _Notes: Attribution varies in the tradition (Śākaṭāyana or Audavraji) — n
 
 - 2026-09-28 websearch: confirmed — https://vedicheritage.gov.in/brahmanas/, https://vedicheritage.gov.in/vedangas/shiksha/ — Low-confidence entry confirmed: the Vedic Heritage Portal (Śikṣā) names the Ṛktantra as the Prātiśākhya of the Sāmaveda. The entry does not assert the attribution; the tradition varies between Śākaṭāyana and Audavraji. No local copy.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

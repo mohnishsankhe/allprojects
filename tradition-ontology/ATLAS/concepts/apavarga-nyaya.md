@@ -16,4 +16,4 @@
 - same-as-under-standpoint → [Liberation (mokṣa) in Vaiśeṣika](moksa-vaisesika.md) (causal): the same state described through adṛṣṭa and the body — rests on [5.2.19-20](../texts/vaisesika-sutra.md#tea-vaisesika-sutra-5-2-19-20)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._

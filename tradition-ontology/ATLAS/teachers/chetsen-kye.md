@@ -12,4 +12,4 @@ Translator named in the colophon of the Dupa Do as having translated it, with Dh
 _Notes: Name and role taken from the local colophon of Tōh 829._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._

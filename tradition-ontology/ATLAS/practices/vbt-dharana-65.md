@@ -15,4 +15,4 @@ For one who repeats the letter 'a' without the point (bindu) and without visarga
 _Notes: Verses 90 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._

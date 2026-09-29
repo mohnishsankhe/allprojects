@@ -11,4 +11,4 @@
 A Nāth siddha (Carpaṭi in HYP 1.6) to whom Hindi sayings are ascribed (Nāth Siddhoṁ kī Bāniyāṁ); in Chamba tradition the guru of the founder-king of Chamba; also named among alchemical siddhas; one of the Marathi nine Nāths (Carpaṭnāth).
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts, skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts, skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

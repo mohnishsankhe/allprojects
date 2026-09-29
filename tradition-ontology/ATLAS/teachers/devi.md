@@ -14,4 +14,4 @@ The supreme Goddess, appearing as Bhuvaneśvarī, who teaches Himālaya and the 
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/3_purana/devigita.md (GRETIL Devīgītā = DBhP 7.31-40), local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915) — Speaker of the Devī Gītā; Bhuvaneśvarī named at DBhP 7.31.50.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._

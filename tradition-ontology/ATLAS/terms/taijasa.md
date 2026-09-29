@@ -18,4 +18,4 @@
 **Related:** [Viśva](visva.md), [Prājña](prajna.md), [ahaṃkāra](ahamkara.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U03-principal-upanisads, skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U03-principal-upanisads, skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._

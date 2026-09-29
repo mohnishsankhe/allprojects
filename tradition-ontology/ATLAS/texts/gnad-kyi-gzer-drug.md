@@ -28,4 +28,4 @@ concepts: [Tilopa's six words of advice](../concepts/tilopa-six-words.md) · pra
 _Notes: The instruction is widely quoted in the Kagyu; the source text and its exact Tibetan wording were not found locally. U44 (Tilopa) may hold a parallel entry._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

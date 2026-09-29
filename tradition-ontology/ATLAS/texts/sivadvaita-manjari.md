@@ -12,4 +12,4 @@ A Sanskrit Śivādvaita treatise, printed with related Vīraśaiva works (the ca
   - kind: original; name: Muktabodha digital library e-text M00607 (print 1909)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._

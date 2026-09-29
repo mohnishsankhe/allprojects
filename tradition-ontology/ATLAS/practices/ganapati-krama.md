@@ -14,4 +14,4 @@ Worship of Mahāgaṇapati with his five enclosures to remove obstacles before t
 **Sequences:** [The Śrīvidyā sequence of initiation and worship (Paraśurāma Kalpasūtra)](../paths/srividya-krama-diksa.md)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._

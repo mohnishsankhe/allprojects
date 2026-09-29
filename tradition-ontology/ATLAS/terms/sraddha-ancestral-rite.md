@@ -15,4 +15,4 @@
 _Notes: Id disambiguated from śraddhā (faith)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

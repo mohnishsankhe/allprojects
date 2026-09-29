@@ -10,4 +10,4 @@
 Thai forest master (1902–1994), pupil of Ajahn Mun, abbot of Wat Hin Mark Peng.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._

@@ -40,4 +40,4 @@ terms: [ātman](../terms/atman.md) · concepts: [The self as a substance with qu
 _Notes: Commented on by Raghunātha Śiromaṇi (Dīdhiti) and Mathurānātha. The alternative title is recalled, not checked._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._

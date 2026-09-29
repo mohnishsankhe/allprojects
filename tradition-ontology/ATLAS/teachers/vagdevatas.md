@@ -12,4 +12,4 @@ The eight goddesses of speech — Vaśinī, Kāmeśvarī, Modinī, Vimalā, Aru�
 _Notes: Names as in PKS 3.20 (checked)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._

@@ -13,4 +13,4 @@
 Nampūr Varadarājar, disciple of Nañjīyar, whose lectures on the Tiruvāymoḻi at Śrīraṅgam drew great crowds and were recorded as the Īṭu; called Lokācārya, a title passed to Piḷḷai Lokācārya.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:04 IST._

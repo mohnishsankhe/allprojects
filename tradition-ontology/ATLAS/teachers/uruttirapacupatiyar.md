@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A brahmin who stood in a tank day and nigh
 **Realization — the tradition's account:** A brahmin who stood in a tank day and night reciting the Śrī Rudram until Śiva granted him release.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._

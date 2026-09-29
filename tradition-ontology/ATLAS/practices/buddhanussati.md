@@ -15,4 +15,4 @@ Recollecting 'the Blessed One is an arahant, fully awakened, accomplished in kno
   - [Visuddhimagga](../texts/visuddhimagga.md) — ref: VII; rests_on: ["tea:visuddhimagga:7"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._

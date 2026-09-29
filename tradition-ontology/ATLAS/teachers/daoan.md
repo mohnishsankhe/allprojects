@@ -11,4 +11,4 @@
 Leading Chinese monk of the 4th c., cataloguer and organiser of monastic rules, teacher of Huiyuan; he himself vowed to be born in Maitreya's Tuṣita heaven.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._

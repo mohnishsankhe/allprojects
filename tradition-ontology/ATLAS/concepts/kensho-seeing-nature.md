@@ -15,4 +15,4 @@
 - corresponds-to-in-map → [The five paths (Yogācāra presentation)](five-paths-yogacara.md): Corresponds to the path of seeing (darśanamārga) of the five paths; band B5 (first direct seeing) in the interpretation layer. — rests on [4.13](../texts/platform-sutra.md#tea-platform-sutra-4-13)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._

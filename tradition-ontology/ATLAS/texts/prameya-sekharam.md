@@ -14,4 +14,4 @@
 One of Piḷḷai Lokācārya's eighteen 'secret' works (rahasya).
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:04 IST._

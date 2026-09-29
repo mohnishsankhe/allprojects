@@ -60,4 +60,4 @@ terms: [pakva / apakva deha](../terms/pakva-deha.md) · concepts: [Ripe and unri
 _Notes: The ha/ṭha verse is quoted in Brahmānanda's Jyotsnā (on HYP 1.1) as from the Siddhasiddhāntapaddhati; scholars (J. Birch) locate it in the Yogabīja — recalled, check._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._

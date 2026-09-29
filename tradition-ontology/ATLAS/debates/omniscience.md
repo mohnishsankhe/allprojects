@@ -55,4 +55,4 @@ What matters is not that the Buddha knows everything (e.g. the number of insects
 _Notes: The ŚV codanā section names 'the Buddha and others' (v. 130); I found no verse there naming Mahāvīra, though Jain authors reply to Kumārila. Opposing sides summarized from general knowledge (moderate/low)._
 
 ---
-_Contributed by: skeleton:U12-mimamsa, skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._

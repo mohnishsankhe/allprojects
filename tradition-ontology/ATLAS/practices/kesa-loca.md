@@ -15,4 +15,4 @@ At initiation and periodically thereafter the ascetic plucks out the hair of hea
 - Undertaken as austerity without attachment; done for show it is the 'poison' kind of performance (Yogabindu). — [Yogabindu](../texts/yogabindu.md) anusthana
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

@@ -48,4 +48,4 @@ One of the Five Houses of Chan, named from Dongshan Liangjie and Caoshan Benji i
 [Kōan (critical-phrase) introspection or silent illumination?](../debates/koan-or-silent-illumination.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._

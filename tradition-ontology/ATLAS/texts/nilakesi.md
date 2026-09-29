@@ -45,4 +45,4 @@ disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious s
 _Notes: Vāmaṉa Muṉivar's commentary Samayadivākaram (14th c.) is the classic gloss._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 22:04 IST._

@@ -12,4 +12,4 @@ Author of the Śaśilekhā commentary on the Aṣṭāṅgasaṅgraha; in some a
 _Notes: Pupil relation recalled only._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

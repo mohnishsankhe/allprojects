@@ -84,4 +84,4 @@ terms: [rūpastha](../terms/rupastha.md), [rūpātīta](../terms/rupatita.md) ·
 _Notes: Registry id. Distinct from the Śākta Jñānārṇava-tantra (src:jnanarnava-tantra). Title present in the local catalogue (catalog:JainDB:ज्ञानार्णव--शुभचंद्राचार्य); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

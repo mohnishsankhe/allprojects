@@ -19,4 +19,4 @@ Sāriputta's graduated lists of ten items under ten headings (to be developed, u
 _Notes: SuttaCentral uid dn34; Mahāsaṅgīti title 'Dasuttarasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A general who, when Śiva came as a Māvra
 **Realization — the tradition's account:** A general who, when Śiva came as a Māvratī ascetic on his daughter's wedding day and asked for her hair, cut it off at once and gave it.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._

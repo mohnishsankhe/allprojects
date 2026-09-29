@@ -37,4 +37,4 @@ The Nāradaparivrājaka itself says that renouncing without dispassion causes a 
 
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md, catalog:raw_etexts:manusmrti, text:sources_raw/dcs/corpus/GRETIL/sa_bAdarAyaNa-brahmasUtra-comm.txt — The external refs were checked locally: Manusmṛti 6.35-37 on the three debts (SARIT e-text), and Brahmasūtra 3.4.18-20 with Śaṅkara citing the Jābāla at 3.4.20 (GRETIL). All 5 teachings it rests on exist and were located in the e-text.
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 22:04 IST._

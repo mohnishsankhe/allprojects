@@ -13,4 +13,4 @@ Daily or occasional recitation of hymns to the Jinas, especially the Bhaktāmara
   - [Uvasaggaharaṃ-stotra](../texts/uvasaggaharam-stotra.md) — ref: 1; rests_on: ["tea:uvasaggaharam-stotra:1"]
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

@@ -11,4 +11,4 @@
 One of the 'three brothers' of the Kadam, Dromtönpa's attendant, source of the oral-instruction (man ngag) Kadam line.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._

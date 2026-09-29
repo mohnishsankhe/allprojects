@@ -13,4 +13,4 @@ Giving whose merit depends on the giver (faith etc.), the thing and the field (d
   - [Samayabhedoparacanacakra](../texts/samayabhedoparacanacakra.md) — ref: Dharmaguptaka and Mahīśāsaka tenets
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._

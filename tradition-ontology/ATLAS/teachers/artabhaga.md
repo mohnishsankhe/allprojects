@@ -13,4 +13,4 @@ Questions Yājñavalkya on the eight graspers and over-graspers and on what rema
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — Located: BĀU 3.2.1-13 ('jāratkārava ārtabhāgaḥ'; 'karma haiva tad ūcatuḥ', 3.2.13).
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._

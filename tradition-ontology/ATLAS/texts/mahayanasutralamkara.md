@@ -176,4 +176,4 @@ terms: [vajropama-samādhi](../terms/vajropama-samadhi.md), [āśraya-parāvṛt
 _Notes: One of the 'five Dharmas of Maitreya' in the Tibetan list (Abhisamayālaṃkāra, Mahāyānasūtrālaṃkāra, Madhyāntavibhāga, Dharmadharmatāvibhāga, Ratnagotravibhāga). Chinese tradition instead attributes the Yogācārabhūmi to Maitreya and the Ratnagotravibhāga to Sāramati._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._

@@ -19,4 +19,4 @@ _Notes: U05's contribution; Yama as Naciketas's teacher in the Kaṭha Upaniṣa
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 3.281.12, 12.192.1, 12.193.3 — Located as described.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md, local:sources_raw/dcs/corpus/GRETIL/sa_narasiMhapurANa.txt, local:sources_raw/dcs/corpus/GRETIL/sa_agnipurANa.txt — VP 3.7.14; NrP 8; Agni 381.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U06-other-gitas, extraction:bhagavad-gita/ch10-12, skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U06-other-gitas, extraction:bhagavad-gita/ch10-12, skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._

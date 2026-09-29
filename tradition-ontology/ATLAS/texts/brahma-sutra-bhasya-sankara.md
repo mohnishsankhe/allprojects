@@ -82,7 +82,7 @@ After commenting on the sūtras as though the 'one consisting of bliss' were Bra
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, body-layers, dispute_
 
-terms: [ānandamaya-kośa](../terms/anandamaya-kosa.md) · concepts: [The five sheaths (pañca-kośa)](../concepts/five-sheaths.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is 'the one consisting of bliss' (ānandamaya, TU 2.5; BS 1.1.12) the supreme Brahman or a sheath?](../debates/is-anandamaya-brahman.md)
+terms: [ānandamaya-kośa](../terms/anandamaya-kosa.md) · concepts: [The five sheaths (pañca-kośa) as defined in Taittirīya Upaniṣad 2.1-2.5](../concepts/five-sheaths.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is 'the one consisting of bliss' (ānandamaya, TU 2.5; BS 1.1.12) the supreme Brahman or a sheath?](../debates/is-anandamaya-brahman.md)
 
 ### 1.1.12 (introduction to the ānandamaya section) <a id="tea-brahma-sutra-bhasya-sankara-1-1-12"></a>
 `skeleton` · confidence high
@@ -407,4 +407,4 @@ concepts: [The identity of the self and brahman](../concepts/atman-brahman-ident
 _Notes: Sub-commentaries: Padmapāda's Pañcapādikā (→ Prakāśātman's Vivaraṇa), Vācaspati's Bhāmatī (→ Amalānanda's Kalpataru → Appayya's Parimala), Ānandagiri's Nyāyanirṇaya, Govindānanda's Ratnaprabhā._
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U33-sramana. Generated 2026-09-29 22:04 IST._

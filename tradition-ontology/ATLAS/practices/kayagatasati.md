@@ -21,4 +21,4 @@ Developing the body contemplations of MN 10 together with the four jhānas as pe
 - partial: [Attention to the repulsiveness of the body (paṭikūlamanasikāra)](patikulamanasikara.md) — the sutta contemplation of the thirty-two parts (U36)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._

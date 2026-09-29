@@ -17,4 +17,4 @@
 Hemacandra introduces chapter 12 as the reality established by his own experience (12.1), after eleven chapters drawn from scripture. The four minds are also named in the Amanaska tradition of 'no-mind'; no borrowing claim is made here.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 22:04 IST._

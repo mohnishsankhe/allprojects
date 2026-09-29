@@ -16,4 +16,4 @@ Dharmottara's examination of the means of knowledge (two versions in the Tengyur
 _Notes: Tengyur attribution to Dharmottara recalled; title checked in the local Derge list._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._

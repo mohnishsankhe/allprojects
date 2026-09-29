@@ -18,4 +18,4 @@ Maskarin's commentary on the Gautama Dharmasūtra.
 
 - 2026-09-28 catalog: confirmed — catalog:GRETIL-dev:gautama_dharmasutra_adhyayas_1-3_with_maskari-s_chomm, catalog:eBharati:gautamadharmasUtram (maskariH) — Low-confidence entry confirmed as extant (GRETIL, adhyāyas 1–3; eBhāratī full edition).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

@@ -93,4 +93,4 @@ terms: [aruḷ](../terms/arul.md) · practices: [Recitation of the Divya Praband
 _Notes: Scholarly dating uses verse 13 ('Venus has risen, Jupiter has set') for astronomical estimates (8th–9th c.); tradition places Āṇṭāḷ in the early Kali age. Sung throughout South India in the month of Mārkaḻi._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:04 IST._

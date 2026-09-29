@@ -8,4 +8,4 @@
 Ancient authority on drama, music and dance, named in the Nāṭyaśāstra's list of Bharata's sons and cited by Abhinavagupta and Śārṅgadeva; his works are lost.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._

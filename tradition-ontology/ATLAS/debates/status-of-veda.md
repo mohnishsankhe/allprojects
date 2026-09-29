@@ -103,4 +103,4 @@ Within the Vedic schools Vedānta takes a middle course — breathed out by Brah
 _Notes: Cārvāka, Ajita and Bhūridatta sides and the Nyāya reply (NS 2.1.58-59) contributed by U33 are included verbatim._
 
 ---
-_Contributed by: skeleton:U50-debates, skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U50-debates, skeleton:U33-sramana. Generated 2026-09-29 22:04 IST._

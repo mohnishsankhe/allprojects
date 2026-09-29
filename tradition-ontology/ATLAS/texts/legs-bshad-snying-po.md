@@ -59,4 +59,4 @@ terms: [rang stong](../terms/rangtong.md), [prasajya-pratiṣedha](../terms/pras
 _Notes: Shared id with U41 (its Wylie-based slug kept to avoid a duplicate)._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._

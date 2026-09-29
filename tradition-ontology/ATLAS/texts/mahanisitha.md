@@ -14,4 +14,4 @@
 A Chedasūtra accepted by the Mūrtipūjakas: on confession and atonement, the merit of the Namaskāra mantra, and exemplary stories; it says of itself that it was restored by Haribhadra from a damaged manuscript. Sthānakavāsīs and Terāpanthīs reject it.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

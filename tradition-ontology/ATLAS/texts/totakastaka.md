@@ -13,4 +13,4 @@
 Eight verses in the toṭaka metre in praise of Śaṅkara as guru ('bhava śaṅkara deśika me śaraṇam'), ascribed to his disciple Toṭaka.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._

@@ -19,7 +19,7 @@
 
 ## Equivalents (interpretation layer)
 - exact: [tīrthakara](tirthakara.md) — the same word in its variant form; the Pāśupata use of 'tīrthakara' for their own teachers is a different referent
-**Related:** [jina](jina.md), [arhat](arhat.md), [kevalin](kevalin.md), [caturvidha saṅgha](caturvidha-sangha.md), [tīrthaṅkara-nāma-karma](tirthankara-nama-karma.md)
+**Related:** [jina](jina.md), [arhat](arhat.md), [kevalin](kevalin.md), [caturvidha saṅgha](caturvidha-sangha.md), [tīrthakaratva (Tīrthaṅkara-nāma)](tirthankara-nama-karma.md)
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

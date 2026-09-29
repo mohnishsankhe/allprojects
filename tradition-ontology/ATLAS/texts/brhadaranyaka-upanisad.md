@@ -536,7 +536,7 @@ The calculus of bliss: the bliss of a prosperous, healthy man who rules others a
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [ānanda](../terms/ananda.md), [kāma](../terms/kama.md) · concepts: [The calculus of bliss (ānanda-mīmāṃsā)](../concepts/ananda-mimamsa.md), [Bliss (ānanda) as brahman](../concepts/ananda.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md), [Janaka of Videha](../teachers/janaka.md)
+terms: [ānanda](../terms/ananda.md), [kāma](../terms/kama.md) · concepts: [The scale of bliss (ānanda-mīmāṃsā, Taittirīya 2.8)](../concepts/ananda-mimamsa.md), [Bliss (ānanda) as brahman](../concepts/ananda.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md), [Janaka of Videha](../teachers/janaka.md)
 
 ### 4.3.35-38 <a id="tea-brhadaranyaka-upanisad-4-3-35-38"></a>
 `sourced` · confidence moderate
@@ -853,4 +853,4 @@ _Notes: Veda affiliation: White Yajurveda (Kāṇva and Mādhyandina recensions)
 
 - 2026-09-29 catalog+text-locate+websearch: confirmed — catalog:GRETIL-dev:brhadaranyaka-upanisad, text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/dcs/corpus/GRETIL/sa_bRhadAraNyakopaniSadkANva-recension-comm.txt (GRETIL Kāṇva BĀU with Śaṅkara's commentary), t — Confirmed: 6 adhyāyas and 47 brāhmaṇas (6+6+9+6+15+5) in the Kāṇva text. The Mādhyandina location is right: GRETIL ŚB 14.4.2 = BĀU 1.4 ('ātmaivedam agra āsīt puruṣavidhaḥ') and ŚB 14.9.4 ends with the vaṃśa. The horse passages (Kāṇva BĀU 1.1–2) stand elsewhere in the Mādhyandina ŚB. Scholarly dating fits Olivelle's chronology as reported on the web: BĀU and ChU pre-Buddhist, 7th–6th c. BCE; TU, AU and KauU probably pre-Buddhist, 6th–5th c. BCE; the verse Upaniṣads (Kena oldest, then Kaṭha, Īśa, Śvetāśvatara, Muṇḍaka) in the last few centuries BCE; Praśna and Māṇḍūkya not much older than the start of the common era. The tradition's account (śruti, authorless) is kept separately and not checked against scholarship.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._

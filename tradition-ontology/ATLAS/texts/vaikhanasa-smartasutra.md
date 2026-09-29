@@ -20,4 +20,4 @@ The domestic and dharma sūtra of the Vaikhānasas (Taittirīya branch) ascribed
 **Commentaries on this text:** [Tātparyacintāmaṇi](tatparyacintamani.md)
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._

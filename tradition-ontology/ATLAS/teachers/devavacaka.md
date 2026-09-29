@@ -10,4 +10,4 @@
 Author of the Nandī Sūtra (c. 5th c. CE); sometimes identified with Devarddhigaṇi.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

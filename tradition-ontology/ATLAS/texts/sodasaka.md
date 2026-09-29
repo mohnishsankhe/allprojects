@@ -15,4 +15,4 @@
 Haribhadra's sixteen sets of sixteen verses on religious practice, including the four kinds of performance (from affection, devotion, scripture, and without attachment) and the eight defects of mind in practice.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

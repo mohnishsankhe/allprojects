@@ -14,4 +14,4 @@
 Jigme Lingpa's mind-treasure cycle received in visions of Longchenpa: preliminaries, the guru sādhana Rigdzin Düpa, the ḍākinī practice Yumka Dechen Gyalmo, the Palchen Düpa, and Dzogchen instructions including the Yeshe Lama.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._

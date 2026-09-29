@@ -23,4 +23,4 @@ _Notes: U22 contribution; whether the list intends the epic poet or a Tamil name
 - 2026-09-29 text-locate: confirmed — local:DharmicData Rāmāyaṇa (vulgate) 1.1.2, 1.2.15, 1.2.18 — Located as described.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — MU 1.1: Brahmā grants Bharadvāja a boon and sends him to his teacher Vālmīki (1.1.7-11), who tells the Mokṣopāya (1.1.5 'bharadvājāya'). The entry's summary fits.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U22-tamil-siddha. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._

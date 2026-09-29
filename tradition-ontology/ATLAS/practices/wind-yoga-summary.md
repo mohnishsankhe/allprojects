@@ -15,4 +15,4 @@ Summary only: Tilopa's 'holding the key points of wind' with gazes and methods o
 - Saraha criticizes forcing winds and head practices out of pride (King Dohā v22–24). — [Dohākoṣa-nāma-caryāgīti of Saraha (the 'King Dohā')](../texts/dohakosa-king-saraha.md) v24
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._

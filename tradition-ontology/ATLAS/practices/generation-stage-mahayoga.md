@@ -13,4 +13,4 @@ From the three samādhis (suchness, all-illuminating compassion, the seed syllab
   - [Guhyagarbha Tantra (dpal gsang ba'i snying po de kho na nyid rnam par nges pa)](../texts/guhyagarbha-tantra.md) — ref: ch.1-2; rests_on: ["tea:guhyagarbha-tantra:1", "tea:guhyagarbha-tantra:2"]
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._

@@ -26,4 +26,4 @@ The Kālacakra with its bodhisattva commentaries is the pinnacle of the tantras 
 _Notes: Low confidence on Rendawa's arguments and on any later change of view; source before use._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._

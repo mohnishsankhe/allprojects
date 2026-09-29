@@ -17,4 +17,4 @@ Cultivating merit and aspiring to birth while doubting the Buddha's inconceivabl
 - partial: [Doubt (vicikicchā)](vicikiccha.md) — doubt as a hindrance vs doubt of the Buddha's vow specifically
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._

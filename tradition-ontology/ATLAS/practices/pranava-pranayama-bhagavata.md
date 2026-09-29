@@ -16,4 +16,4 @@ Purifying the breath's path by inhalation, retention and exhalation and their re
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — BhP 11.14.33-35 verified, including 'daśakṛtvas triṣavaṇaṃ māsād arvāg jitānilaḥ' (11.14.35); no extreme retention is prescribed.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._

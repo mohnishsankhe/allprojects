@@ -17,4 +17,4 @@ Meditation that repeatedly investigates the object with discernment and reasonin
 - partial: [Analytical meditation on emptiness](analytical-meditation-on-emptiness.md) — the special case with emptiness as object
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._

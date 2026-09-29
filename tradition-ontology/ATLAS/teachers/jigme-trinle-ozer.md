@@ -12,4 +12,4 @@ Principal disciple of Jigme Lingpa who spread the Longchen Nyingthig in eastern 
 _Notes: Lived past 1800 but his formation and main activity began before; not flagged recent (decision logged)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._

@@ -11,4 +11,4 @@
 Kashmiri master who recited the Sarvāstivāda Vinaya for Kumārajīva's translation (404); he died before it was finished.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._

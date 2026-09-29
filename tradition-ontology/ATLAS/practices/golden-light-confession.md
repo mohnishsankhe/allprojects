@@ -11,4 +11,4 @@ Confessing all evil done in ignorance before the buddhas, as heard from the gold
   - [Suvarṇaprabhāsottama-sūtra](../texts/suvarnaprabhasa.md) — ref: ch. 3-4; rests_on: ["tea:suvarnaprabhasa:4"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._

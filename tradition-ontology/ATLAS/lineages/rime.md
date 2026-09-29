@@ -57,4 +57,4 @@ _none recorded_
 _Notes: The tradition itself presents Rimé as an attitude and a programme of preservation, not as a new school; lineage membership stays with the teachers' own schools._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._

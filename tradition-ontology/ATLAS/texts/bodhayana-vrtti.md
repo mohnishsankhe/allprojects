@@ -15,4 +15,4 @@ An extensive commentary (vṛtti) on the Brahma Sūtras, known only from Rāmān
 _Notes: Cited at the opening of Rāmānuja's Śrībhāṣya. Some later tradition identifies Bodhāyana with Upavarṣa; not settled._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._

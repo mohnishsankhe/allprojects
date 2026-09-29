@@ -32,4 +32,4 @@ _Notes: Commentary: Asahāya (revised by Kalyāṇabhaṭṭa). Numbering 'm1' =
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Nāradasmṛti, catalog:GRETIL-dev:narada-smrti, https://sacred-texts.com/hin/sbe33/sbe3302.htm — Extant (GRETIL, Lariviere's edition, with the Mātṛkā). The date is contested: Jolly (SBE 33) gives the 5th–6th c., as the entry does; other sources give the 2nd/3rd–5th c.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

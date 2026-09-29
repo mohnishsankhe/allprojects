@@ -58,4 +58,4 @@ terms: [iddhipāda](../terms/iddhipada.md) · concepts: [Basis of power (iddhip�
 _Notes: SuttaCentral uid dn26; Mahāsaṅgīti title 'Cakkavattisutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

@@ -34,7 +34,7 @@ When the unobstructed power of love arises for beings who suffer through not rea
 
 _level: bridging · standpoint: seeker · path: devotion, meditation · stage: advanced · types: ethics, ultimate_
 
-terms: [karuṇā](../terms/karuna.md), [śūnyatā](../terms/sunyata.md)
+terms: [kāruṇya](../terms/karuna.md), [śūnyatā](../terms/sunyata.md)
 
 ### four-yogas <a id="tea-aspiration-prayer-of-mahamudra-four-yogas"></a>
 `skeleton` · confidence low
@@ -90,4 +90,4 @@ concepts: [View, meditation, conduct and fruition](../concepts/view-meditation-c
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

@@ -17,4 +17,4 @@
 The five are practised together in each session, not as successive stages; the bands say what kind of practice each element is, not a sequence. Dedication is left unbanded.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

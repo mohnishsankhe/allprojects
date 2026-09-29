@@ -79,4 +79,4 @@ _Notes: Chapter numbering differs between editions (the offering chapter is ofte
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:DCS:Kālikāpurāṇa, local:sources_raw/raw_etexts/purANam/mAdhva-app/kUrma-purANam.md 1.1.19, https://en.wikipedia.org/wiki/Kalika_Purana — Extant and digitized (DCS). KūP 1.1.19 'kālikāhvayam' confirmed. Web: Kāmarūpa, Kāmākhyā; c. 10th c. (other views 8th-9th or late 11th-12th) - consistent with the entry's low-confidence 10th-11th c.
 
-_Contributed by: skeleton:U24-kali-kaula, skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U24-kali-kaula, skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._

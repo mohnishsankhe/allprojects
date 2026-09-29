@@ -119,3 +119,4 @@ onto-judge spot-checks 10% of entries plus every low-confidence one.** Entries p
    - entities are not raised in level; they get a `verification.checks` record.
    Copy `skeleton_decisions.jsonl` across, checking that every `replaced_by` exists.
 5. Validate `final/` to 0 errors. Return REPORT.md content in the reply (counts, sample result, fixes, open points).
+- **Mandatory for Role S (from the P1 judge findings):** before linking any existing id (trm:, cpt:, obs:, prc:), read its data/ entry and confirm its sense matches the text; homonyms get a new sense-specific id (e.g. trm:ajiva-jain). A gloss or construal that comes from a commentary goes in `notes` labelled as the commentators' reading, never into the paraphrase as the text's plain sense.

@@ -14,4 +14,4 @@ A woman teacher of self-knowledge in the Mārkaṇḍeya. Her lullaby opens 'śu
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet) 25.10-18 — MkP 25.10-18 located; the popular 'śuddho 'si buddho 'si' verse is absent from this edition, as stated.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._

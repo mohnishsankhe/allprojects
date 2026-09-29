@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The non-difference of saṃsāra and nirvāṇa](samsara-nirvana-nondifference.md) (tantra vs. sūtra): MMK 25.19–20 as the sūtra counterpart — rests on [25.19-20](../texts/mulamadhyamakakarika.md#tea-mulamadhyamakakarika-25-19-20), [structure](../texts/three-continua-ngorchen.md#tea-three-continua-ngorchen-structure)
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._

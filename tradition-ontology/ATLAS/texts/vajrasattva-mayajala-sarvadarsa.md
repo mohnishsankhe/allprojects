@@ -16,4 +16,4 @@ A Māyājāla tantra of the Old Tantra section, 'the mirror of all secrets'.
 _Notes: Existence local (catalog:Derge-Kangyur:D833); content summary minimal._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._

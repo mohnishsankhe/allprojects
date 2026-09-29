@@ -77,4 +77,4 @@ concepts: [The three vows (sdom gsum)](../concepts/three-vows.md) · teachers: [
 
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._

@@ -32,4 +32,4 @@ teachers: [Vasubandhu](../teachers/vasubandhu.md) · disputes: [Are the Mahāyā
 _Notes: Structure recalled; chapter contents to be checked._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._

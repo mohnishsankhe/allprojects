@@ -10,4 +10,4 @@
 Senior Mahāsi-tradition teacher (1921–2016), abbot of Paṇḍitārāma, Yangon, known for rigorous retreats; author of In This Very Life.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._

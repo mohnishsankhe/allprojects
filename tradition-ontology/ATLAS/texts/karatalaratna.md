@@ -16,4 +16,4 @@ Bhāviveka's 'Jewel in the Hand', preserved only in Xuanzang's Chinese, proving 
   - kind: translation; name: Taishō T1578 (Xuanzang, 7th c.) — catalog:CBETA:T30n1578
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._

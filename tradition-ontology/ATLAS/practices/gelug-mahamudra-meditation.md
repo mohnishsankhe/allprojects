@@ -15,4 +15,4 @@ After preliminaries and guru yoga, one takes the mind itself — its mere clarit
 - partial: [Mahāmudrā (the great seal)](mahamudra.md) — the Kagyu Mahāmudrā practice; the Gelug root text says both converge in one intent
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._

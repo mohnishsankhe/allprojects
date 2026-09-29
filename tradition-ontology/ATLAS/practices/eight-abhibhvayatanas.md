@@ -12,4 +12,4 @@ Mastering visual objects, small and great, beautiful and ugly, and the four colo
   - [Abhidharmakośa (Abhidharmakośakārikā)](../texts/abhidharmakosa.md) — ref: 8.35-36; rests_on: ["tea:abhidharmakosa:8.35-36"]
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._

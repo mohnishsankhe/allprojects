@@ -14,4 +14,4 @@ Infatuation with what one has — the inner essence of possessiveness ('possessi
   - [Uttarādhyayana Sūtra](../texts/uttaradhyayana-sutra.md) — ref: 9.14; rests_on: ["tea:uttaradhyayana-sutra:9.14"]
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

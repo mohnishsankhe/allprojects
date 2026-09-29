@@ -12,4 +12,4 @@ Mantra, wearing of herbs and gems, auspicious rites, offerings, gifts, oblations
   - [Caraka Saṃhitā](../texts/caraka-samhita.md) — ref: Sū 11.54; Ni 7.16; Vi 8.87; rests_on: ["tea:caraka-samhita:su.11.54", "tea:caraka-samhita:ni.7.10-23"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

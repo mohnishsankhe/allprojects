@@ -11,4 +11,4 @@
 'The awakening of Mīna': a Bengali version of the story of Gorakṣa rescuing Mīnanātha from the Kadalī kingdom.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._

@@ -825,4 +825,4 @@ _Notes: Chapter range varies by editor: some count the Uddhava Gītā from 11.6 
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, catalog:DCS:Bhāgavatapurāṇa — Uddhava's plea begins BhP 11.6.40 (to 11.6.49), Kṛṣṇa's reply opens 11.7.1 and the book closes at 11.29.49; the avadhūta section, Haṃsa, Bhikṣu and Aila Gītās sit where the structure says. Scholarly date (c. 9th-10th c.) is the usual Bhāgavata estimate; tradition account kept separate.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._

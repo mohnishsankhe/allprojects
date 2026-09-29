@@ -13,4 +13,4 @@ Engaging in the observance without realization: 'like a kingdom seized by its su
   - [Dohākoṣa-upadeśagīti of Saraha (the 'Queen Dohā')](../texts/dohakosa-queen-saraha.md) — ref: v19-20; rests_on: ["tea:dohakosa-queen-saraha:v19-20"]
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._

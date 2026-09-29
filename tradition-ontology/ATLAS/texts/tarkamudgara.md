@@ -15,4 +15,4 @@ Jayānanda's 'Hammer of Logic' verses criticizing the use of pramāṇa-based au
   - kind: translation; name: Tibetan translation, Derge Tengyur D3869 (rtog ge tho ba'i tshig le'ur byas pa) — catalog:Derge-Tengyur:D3869
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._

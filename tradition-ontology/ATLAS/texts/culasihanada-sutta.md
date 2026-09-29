@@ -30,4 +30,4 @@ terms: [upādāna](../terms/upadana.md), [attavāda](../terms/attavada.md) · co
 _Notes: SuttaCentral uid mn11; Mahāsaṅgīti title 'Cūḷasīhanādasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

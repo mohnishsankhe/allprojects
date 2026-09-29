@@ -19,4 +19,4 @@ The palms pressed to the ground, the sides of the navel resting on the elbows, t
 _Notes: Yoga Yājñavalkya ch. 3 is recalled (low confidence) to describe eight postures: svastika, gomukha, padma, vīra, siṃha, bhadra, mukta, mayūra._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._

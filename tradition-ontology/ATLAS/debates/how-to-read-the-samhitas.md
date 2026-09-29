@@ -41,4 +41,4 @@ Sri Aurobindo (recent): the hymns are a symbolic record of inner spiritual exper
 
 - 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (Sarup ed., GRETIL), https://en.wikipedia.org/wiki/List_of_works_by_Madhvacharya, https://en.wikipedia.org/wiki/Rigvedadi_Bhashya_Bhumika — Yāska's schools located (ārṣa, vaiyākaraṇa, yājñika, nairukta, ātmapravāda at Nirukta 13.8–9; parivrājakas/nairuktas at 2.8). Other sides rest on sources confirmed above (Sāyaṇa upodghāta partially).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:04 IST._

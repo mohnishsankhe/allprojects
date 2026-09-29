@@ -52,4 +52,4 @@ _Notes: Commentary: Halāyudha's Mṛtasañjīvanī (10th c.). Local copy: Kāvy
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:raw_etexts:KavyamalaVol_91-ChandasSastraOfPingala1938, https://en.wikipedia.org/wiki/Pingala, https://en.wikipedia.org/wiki/Yamatarajabhanasalagah, https://en.wikipedia.org/wiki/Halayudha — Extant locally (Kāvyamālā 91 with Halāyudha's Mṛtasañjīvanī), in 8 adhyāyas. The chapter contents were checked (1: gaṇas; 2–3: Vedic metres; 8: prastāra). The scholarly date 'last centuries BCE' agrees with Wikipedia (Piṅgala c. 3rd/2nd c. BCE; other estimates 600–200 BCE). Halāyudha is 10th c.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

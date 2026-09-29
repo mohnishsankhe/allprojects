@@ -19,4 +19,4 @@
 _Notes: The same compound ('prapañcopaśamaṃ śivam') describes the fourth in Māṇḍūkya Upaniṣad 7 (see brw:mandukya-madhyamaka-prapancopasama)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U03-principal-upanisads. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._

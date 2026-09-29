@@ -19,4 +19,4 @@
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:15.14 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/mandukya-upanisad/segments — All 3 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 5.11-18; MāU 3; BĀU 5.9). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 22:04 IST._

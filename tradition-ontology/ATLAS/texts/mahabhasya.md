@@ -119,4 +119,4 @@ concepts: [Why grammar is studied](../concepts/purposes-of-grammar.md) · teache
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:GRETIL-dev:patanjali_vyakaranamahabhasya, catalog:eBharati:mahAbhAShyam — Extant. All Paspaśā passages cited in the summary are text-located. The mid-2nd c. BCE date (Puṣyamitra) is the standard scholarly dating (see tch:patanjali-grammarian). The '85 āhnikas' count was not re-counted.
 
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts, skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts, skeleton:U33-sramana. Generated 2026-09-29 22:04 IST._

@@ -32,4 +32,4 @@ concepts: [The threefold consciousness (Rāma-hṛdaya)](../concepts/threefold-c
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press) — Colophon 'bālakāṇḍe śrīrāmahṛdayaṃ nāma prathamaḥ sargaḥ' and 1.1.53 'etat te 'bhihitaṃ devi śrīrāmahṛdayaṃ' verified; Sītā speaks 1.1.32-43 and Rāma 1.1.44-52.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._

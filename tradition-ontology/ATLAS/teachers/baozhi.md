@@ -9,4 +9,4 @@
 Wonder-working monk at the Liang court who, in the tradition's account, told Emperor Wu that Bodhidharma was Avalokiteśvara transmitting the buddha-mind seal (Biyan lu case 1).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._

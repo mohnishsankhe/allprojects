@@ -16,4 +16,4 @@
 The text names the three in the order parā, aparā, parāparā; the ascending order here follows the Dīpikā's grading (aparā lowest, parā highest). Knowing this code makes one liberated while living (YH 3.1).
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._

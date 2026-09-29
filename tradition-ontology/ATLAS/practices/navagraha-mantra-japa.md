@@ -14,4 +14,4 @@ Repetition of the mantra proper to an afflicting planet — the Vedic verses ass
 _Notes: Recitation counts per planet are given in later manuals; not recorded here (uncertain)._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._

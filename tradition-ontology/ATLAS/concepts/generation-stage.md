@@ -13,4 +13,4 @@
 - leads-to → [The completion stage](completion-stage.md) — rests on [1.2](../texts/pancakrama.md#tea-pancakrama-1-2)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._

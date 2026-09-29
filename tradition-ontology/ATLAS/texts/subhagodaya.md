@@ -31,4 +31,4 @@ concepts: [The union of Śiva and Śakti (śiva-śakti-aikya, sāmarasya)](../co
 _Notes: Quoted in Lakṣmīdhara on SL 11 (checked); Lakṣmīdhara refers to his own commentary on it._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._

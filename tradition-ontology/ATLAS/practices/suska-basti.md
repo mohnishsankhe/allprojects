@@ -13,4 +13,4 @@ Done on the ground in paścimatāna, moving (the belly) slowly and contracting a
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 1.48-49; rests_on: ["tea:gheranda-samhita:1.48-49"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._

@@ -26,4 +26,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:14.14, tea:bhagavad-gita:15.16, tea:bhagavad-gita:15.17, tea:bhagavad-gita:15.18 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U07-puranas, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch13-15, skeleton:U35-jain-philosophy, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U07-puranas, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch13-15, skeleton:U35-jain-philosophy, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

@@ -15,4 +15,4 @@ Short yoginī tantra of Mahāmāyā (Heruka form) associated with Kukkuripa; tra
   - kind: translation; name: Derge Kangyur, Tōh 425 (confirmed in the local Derge catalogue); licence: public domain; url: local: sources_raw/derge-kangyur
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._

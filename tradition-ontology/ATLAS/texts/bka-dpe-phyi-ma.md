@@ -237,4 +237,4 @@ concepts: [The seal of secrecy (bka' rgya)](../concepts/seal-of-secrecy.md)
 _Notes: Tōh 2332. Title rendering tentative; the text calls itself sealed three times (bka' rgya lan gsum)._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

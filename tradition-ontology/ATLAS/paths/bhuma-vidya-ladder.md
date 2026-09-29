@@ -40,4 +40,4 @@ Bands are interpretation-layer: the fifteen rungs are meditative venerations (B2
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — The rungs are located in order: name 7.1, speech 7.2, mind 7.3, intention 7.4, thought 7.5, meditation 7.6, understanding 7.7, strength 7.8, food 7.9, water 7.10, heat 7.11, space 7.12, memory 7.13, hope 7.14, breath 7.15. Then truth 7.16 → understanding 7.17 → thinking 7.18 → faith 7.19 → steadfastness 7.20 → action 7.21 → happiness 7.22 → plenitude 7.23-24, and the teachings of 'I' and the self at 7.25. All 26 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 7; ChU 7.1; ChU 7.2; ChU 7.3; ChU 7.4; ChU 7.5; ChU 7.6; ChU 7.7; ChU 7.8; ChU 7.9; ChU 7.10; ChU 7.11 …). It rests on 6 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._

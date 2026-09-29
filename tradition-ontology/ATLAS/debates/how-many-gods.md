@@ -41,4 +41,4 @@ _Notes: Whether the Padapāṭha's Śākalya is Vidagdha Śākalya is disputed (
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/1_rv/rgveda_mandala_1.md (GRETIL, Van Nooten–Holland/Aufrecht), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/1_rv/rgveda_mandala_3.md (GRETIL, Van Nooten–Holland/Aufrecht), text:sources_raw/raw_ete — All loci located: 33 gods (RV 1.139.11), 3,339 (3.9.9), three deities (Nirukta 7.5), one Self (7.4), Yājñavalkya–Śākalya 'trayaś ca trī ca śatā trayaś ca trī ca sahasrā' (BĀU 3.9.1).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:04 IST._

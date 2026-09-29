@@ -17,4 +17,4 @@ A short late Kaula tantra of eastern India on the worship of the yoni as the God
 _Notes: Chapter count from memory of Schoterman's edition; not locally available._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:04 IST._

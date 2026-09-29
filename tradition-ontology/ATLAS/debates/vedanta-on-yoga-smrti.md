@@ -27,4 +27,4 @@ Not reconciled: the reality and independence of pradhāna and the plurality of p
 **The traditions' own objections:** Classical Yoga (Vyāsa, Vācaspati in his Yoga commentary) does not concede that its dualism is refuted; Advaita does not concede that it is true.
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 22:04 IST._

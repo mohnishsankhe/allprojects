@@ -18,4 +18,4 @@
 **Related:** [vivekakhyāti](vivekakhyati.md), [aviveka](aviveka.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U36-pali-suttas, skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U36-pali-suttas, skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._

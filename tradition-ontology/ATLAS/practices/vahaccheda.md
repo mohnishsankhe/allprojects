@@ -11,4 +11,4 @@ Arresting the left and right currents of breath at the heart, as taught by Kṣe
   - [Pratyabhijñāhṛdaya](../texts/pratyabhijnahrdayam.md) — ref: 18; rests_on: ["tea:pratyabhijnahrdayam:18"]
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._

@@ -15,4 +15,4 @@ The domestic-rite manual of the Śāṅkhāyana Ṛgvedins.
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Śāṅkhāyanagṛhyasūtra, catalog:GRETIL-dev:sankhayana-grhyasutra, https://en.wikipedia.org/wiki/Grhyasutra — Extant (GRETIL, DCS).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

@@ -16,4 +16,4 @@
 An Advaita scholar who, in the tradition's account, debated Madhva for many days at Viṣṇumaṅgala (Kasaragod) and became his disciple. He wrote the Tattvapradīpa, the first commentary on Madhva's Brahmasūtrabhāṣya, and the Vāyustuti praising Vāyu's three avatāras; his son Nārāyaṇa Paṇḍitācārya wrote the Sumadhvavijaya.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._

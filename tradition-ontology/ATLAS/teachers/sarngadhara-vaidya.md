@@ -13,4 +13,4 @@ Author of the Śārṅgadhara Saṃhitā, a handbook of pharmacy with the classi
 _Notes: Identity with the anthologist of the Śārṅgadharapaddhati (tch:sarngadhara-anthologist) is debated._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

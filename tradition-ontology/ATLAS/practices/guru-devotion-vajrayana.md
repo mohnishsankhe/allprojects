@@ -16,4 +16,4 @@ After mutual examination, the disciple regards the guru as inseparable from Vajr
 - The disciple who despises his master despises all buddhas and meets only suffering. — [Gurupañcāśikā](../texts/gurupancasika.md) 10
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._

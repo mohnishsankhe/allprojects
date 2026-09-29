@@ -16,4 +16,4 @@ Laziness, forgetting the instruction, sinking and agitation, non-application (of
 _Notes: Contribution of U47._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._

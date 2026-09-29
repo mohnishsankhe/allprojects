@@ -30,4 +30,4 @@ concepts: [Bridal love: the devotee as the heroine (nāyikā-bhāva)](../concept
 _Notes: The three-voice division (1–10 own voice, 11–20 mother, 21–30 heroine) is as recalled; check._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:04 IST._

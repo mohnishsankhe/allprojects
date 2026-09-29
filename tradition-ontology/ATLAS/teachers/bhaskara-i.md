@@ -13,4 +13,4 @@
 Expositor of the Āryabhaṭa school: Mahābhāskarīya, Laghubhāskarīya and the commentary on the Āryabhaṭīya (629 CE).
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._

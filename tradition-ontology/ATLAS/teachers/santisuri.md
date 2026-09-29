@@ -10,4 +10,4 @@
 Early 11th-c. Śvetāmbara scholar and debater, author of the Śiṣyahitā commentary on the Uttarādhyayana.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

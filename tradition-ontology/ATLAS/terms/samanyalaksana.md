@@ -21,4 +21,4 @@
 **Related:** [svalakṣaṇa](svalaksana.md), [apoha](apoha.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U11-nyaya-vaisesika, skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U11-nyaya-vaisesika, skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._

@@ -23,4 +23,4 @@
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:11.3 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.28 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15, skeleton:U31-sound-arts, skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15, skeleton:U31-sound-arts, skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._

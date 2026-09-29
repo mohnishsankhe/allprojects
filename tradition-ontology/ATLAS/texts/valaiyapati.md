@@ -11,4 +11,4 @@
 One of the five great Tamil epics, a Jain work now lost except for about seventy verses quoted in anthologies and commentaries.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

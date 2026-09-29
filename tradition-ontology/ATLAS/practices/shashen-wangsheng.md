@@ -17,4 +17,4 @@ Summary only: the rebirth biographies record people who ended their lives (for e
 _Notes: Body-harming: restricted. No method recorded. Explicit warnings by later Pure Land teachers against the act were not verified and are listed as a gap._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._

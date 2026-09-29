@@ -15,4 +15,4 @@ Standing above a well or a great pit and gazing down, for one whose mind is free
 _Notes: Verses 115 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._

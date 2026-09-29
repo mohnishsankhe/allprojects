@@ -14,4 +14,4 @@ Tibetan yogin, first trained in Bön and Dzogchen, who travelled to India and Ne
 **Realization — the tradition's account:** He met Niguma in a charnel ground (Sosaling), where she appeared in the sky as a dark-skinned ḍākinī; she taught him in dreams and waking, and bade that the teachings pass to one disciple at a time for seven generations.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

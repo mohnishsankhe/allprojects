@@ -13,4 +13,4 @@
 The collection of Jamgön Kongtrul's own miscellaneous writings; one of his Five Treasuries.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._

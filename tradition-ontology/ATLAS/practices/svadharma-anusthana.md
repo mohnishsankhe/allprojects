@@ -15,4 +15,4 @@ Look to one's own dharma and do not waver: for a kṣatriya, fight a battle that
 - Abandoning one's own dharma incurs sin and disgrace (2.33–36); another's dharma brings fear (3.35). — [Bhagavad Gītā](../texts/bhagavad-gita.md) 2.33-36; 3.35
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 22:04 IST._

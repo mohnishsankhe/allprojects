@@ -43,4 +43,4 @@ concepts: [Kinds of initiation](../concepts/kinds-of-diksa.md) · teachers: [Bha
 
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._

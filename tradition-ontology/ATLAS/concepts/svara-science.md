@@ -13,4 +13,4 @@
 - part-of → [Sun, moon and fire in the body](sun-moon-fire.md) — rests on [topic.three-flows](../texts/siva-svarodaya.md#tea-siva-svarodaya-topic-three-flows)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._

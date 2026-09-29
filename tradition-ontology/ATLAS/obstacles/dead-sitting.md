@@ -13,4 +13,4 @@ Quietist sitting without the life of doubt or insight — 'heretical silent-illu
   - [Gateless Barrier (Wumen guan)](../texts/wumenguan.md) — ref: zenzhen; rests_on: ["tea:wumenguan:zenzhen"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._

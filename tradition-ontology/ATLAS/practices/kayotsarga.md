@@ -15,4 +15,4 @@ Standing upright (or sitting) motionless with arms hanging, eyes on the tip of t
   - [Yogaśāstra (Hemacandra)](../texts/yogasastra-hemacandra.md) — ref: 4.124-134; rests_on: ["tea:yogasastra-hemacandra:4.124-134"]
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

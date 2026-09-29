@@ -12,4 +12,4 @@ A king grieving for his son, consoled by a brāhmaṇa who cites Piṅgalā (12.
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.168.8, 12.168.12 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._

@@ -277,3 +277,10 @@ Conservative choices made without asking, with reasons. Newest last.
 - **Homonyms kept apart:** Gauḍapāda's kaṣāya vs the Jain kaṣāya; avirati, pramāda and smṛti vs sati; Jain māyā vs Vedānta māyā.
 - **Left out on purpose:** the Jain yoga-cause of bondage, the leśyās, the 22 parīṣahas (fasting risk), and the breath-control passages (YS 1.34, BhG 4.29, 5.27).
 - **Citation resolution (scripts/ and insight/ontology.py).** A verse-level citation resolves to a verified teaching whose ref range covers that verse in the same source (e.g. tea:katha-upanisad:1.2.1 → an entry for 1.2.1-3). This is mechanical and never crosses sources. An entry whose citations are all still skeleton stays out of user-facing output.
+
+## 2026-09-29 22:03 IST — Judge result on the short core texts: sample below 95%, so every entry was checked
+- Tattvārtha (karma and passions), Taittirīya (sheaths), Kaṭha (chariot) and both Heart Sūtra versions: the random sample was 19 of 28 faithful as written (67.9%). The protocol required a full check: all 155 teachings were checked individually and 40 were fixed; 97 entities checked, 9 fixed. All are now text-verified in "individually-checked" mode.
+- Two causes:
+  - existing ids were reused without checking their sense — obs:kasaya is the Gauḍapāda meditation fault, not the Jain passions; trm:ajiva is the Pali "livelihood";
+  - commentarial glosses went into paraphrases unlabelled.
+- Fix for the rest of P1: extractors must check the data/ sense of every reused id and label every commentarial gloss. Both rules are sent to the running extractors and written into the Role S brief.

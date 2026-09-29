@@ -11,4 +11,4 @@
 Author of the Bṛhatkalpa Bhāṣya; a Saṅghadāsagaṇi is also author of the Vasudevahiṇḍī (whether the same person is uncertain).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

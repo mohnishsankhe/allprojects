@@ -15508,6 +15508,56 @@
   }
  },
  {
+  "id": "trm:ananda-mimamsa",
+  "term": "ānanda-mīmāṃsā",
+  "language": "Sanskrit",
+  "literal": "inquiry into bliss",
+  "definitions": [
+   {
+    "lineage": "lin:upanisadic",
+    "definition": "The scale of Taittirīya 2.8: one human bliss (of a young, good, learned, strongest man owning the whole earth), each step a hundred times the last, through the human gandharvas, divine gandharvas, fathers, born-gods, karma-gods, gods, Indra, Bṛhaspati, Prajāpati to brahman; each step is also the bliss of a śrotriya not struck by desire.",
+    "sources": [
+     "src:taittiriya-upanisad"
+    ],
+    "rests_on": [
+     "tea:taittiriya-upanisad:2.8.1",
+     "tea:taittiriya-upanisad:2.8.2",
+     "tea:taittiriya-upanisad:2.8.3",
+     "tea:taittiriya-upanisad:2.8.4"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:taittiriya-upanisad:2.8.1",
+      "tea:taittiriya-upanisad:2.8.2",
+      "tea:taittiriya-upanisad:2.8.3",
+      "tea:taittiriya-upanisad:2.8.4"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:taittiriya-upanisad/kosa"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "trm:ananda-tandava",
   "term": "ānanda-tāṇḍava",
   "language": "Sanskrit",
@@ -15601,7 +15651,19 @@
   "id": "trm:anandamaya",
   "term": "ānandamaya",
   "language": "Sanskrit",
+  "literal": "made of bliss",
   "definitions": [
+   {
+    "lineage": "lin:upanisadic",
+    "definition": "The innermost of the five selves, within the understanding-made self and filling it; person-shaped; head priya, right wing moda, left wing pramoda, self ānanda, tail and support brahman (2.5.1).",
+    "sources": [
+     "src:taittiriya-upanisad"
+    ],
+    "rests_on": [
+     "tea:taittiriya-upanisad:2.5.1",
+     "tea:taittiriya-upanisad:2.5.1/2"
+    ]
+   },
    {
     "lineage": "lin:upanisadic",
     "definition": "Made of bliss: the innermost of the five selves, whose tail and foundation is brahman (TU 2.5).",
@@ -15613,6 +15675,26 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:taittiriya-upanisad:2.5.1",
+      "tea:taittiriya-upanisad:2.5.1/2"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "related": [
    "trm:kosa"
   ],
@@ -15623,17 +15705,13 @@
    "A2",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:taittiriya-upanisad/kosa",
     "skeleton:U03-principal-upanisads"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -15752,9 +15830,18 @@
   "id": "trm:anantanubandhin",
   "term": "anantānubandhin",
   "language": "Sanskrit",
-  "native": "अनन्तानुबन्धिन्",
   "literal": "endless-binding",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The first of the four varieties of each passion (8.9); the sūtra does not define it; the commentarial line reads it as the passion that binds for endless saṃsāra.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:8.9"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "The most intense grade of the passions, which obstructs right view and binds to endless rebirth (TS 8.9).",
@@ -15763,23 +15850,39 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:8.9"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "अनन्तानुबन्धिन्",
   "concepts": [
    "cpt:four-kasayas-sixteen"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -18555,9 +18658,21 @@
  },
  {
   "id": "trm:annamaya",
-  "term": "annamaya (annarasamaya)",
+  "term": "annamaya",
   "language": "Sanskrit",
+  "literal": "made of food",
   "definitions": [
+   {
+    "lineage": "lin:upanisadic",
+    "definition": "The first self: the person made of the essence of food (annarasamaya), the outermost, person-shaped; head, wings, self and tail-support indicated as \"this\" (Taittirīya 2.1.1).",
+    "sources": [
+     "src:taittiriya-upanisad"
+    ],
+    "rests_on": [
+     "tea:taittiriya-upanisad:2.1.1",
+     "tea:taittiriya-upanisad:2.1.1/3"
+    ]
+   },
    {
     "lineage": "lin:upanisadic",
     "definition": "Made of (the essence of) food: the outermost self, the person formed from food (TU 2.1).",
@@ -18569,6 +18684,26 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:taittiriya-upanisad:2.1.1",
+      "tea:taittiriya-upanisad:2.1.1/3"
+     ],
+     "result": "corrected",
+     "note": "Corrected by J: Definition: removed \"Its embodied self is the prāṇamaya self (2.3.1)\", one construal of a disputed refrain stated as fact."
+    }
+   ],
+   "unverified": false
+  },
   "related": [
    "trm:kosa"
   ],
@@ -18579,17 +18714,13 @@
    "A2",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:taittiriya-upanisad/kosa",
     "skeleton:U03-principal-upanisads"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -19377,11 +19508,21 @@
  },
  {
   "id": "trm:antaraya-karma",
-  "term": "antarāya-karma",
+  "term": "antarāya",
   "language": "Sanskrit",
-  "native": "अन्तरायकर्म",
-  "literal": "obstructive karma",
+  "literal": "antarāya",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Obstructive karma: obstructs giving, gain, enjoyment, repeated enjoyment and energy (8.13); inflow at 6.27.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:6.27",
+     "tea:tattvartha-sutra:8.13"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Karma obstructing giving, gain, enjoyment and energy (TS 8.13, 6.27).",
@@ -19392,6 +19533,27 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:6.27",
+      "tea:tattvartha-sutra:8.13"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "अन्तरायकर्म",
   "concepts": [
    "cpt:eight-karmas"
   ],
@@ -19399,17 +19561,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -19923,11 +20081,21 @@
  },
  {
   "id": "trm:anubhaga-bandha",
-  "term": "anubhāga-bandha",
+  "term": "anubhava-bandha",
   "language": "Sanskrit",
-  "native": "अनुभागबन्ध",
-  "literal": "bondage of intensity",
+  "literal": "anubhava-bandha",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Bondage of intensity, i.e. fruition (vipāka) = experiencing, according to the name (8.21-8.22).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:8.21",
+     "tea:tattvartha-sutra:8.22"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "The strength of the karma's fruition, depending on the intensity of passion (TS 8.21–22).",
@@ -19937,23 +20105,40 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:8.21",
+      "tea:tattvartha-sutra:8.22"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "अनुभागबन्ध",
   "concepts": [
    "cpt:four-aspects-of-bandha"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -22333,9 +22518,18 @@
   "id": "trm:anuvrata",
   "term": "aṇuvrata",
   "language": "Sanskrit",
-  "native": "अणुव्रत",
   "literal": "small vow",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The vow kept in part (7.2).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:7.2"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "The five vows kept partially by the householder (TS 7.2, 7.20).",
@@ -22345,6 +22539,26 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:7.2"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "अणुव्रत",
   "cross_language": [
    {
     "language": "Prakrit",
@@ -22359,17 +22573,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -24951,11 +25161,20 @@
  },
  {
   "id": "trm:apratyakhyanavarana",
-  "term": "apratyākhyānāvaraṇa",
+  "term": "apratyākhyāna",
   "language": "Sanskrit",
-  "native": "अप्रत्याख्यानावरण",
-  "literal": "obstructing partial renunciation",
+  "literal": "non-renunciation",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The second variety of each passion (8.9); not defined in the sūtra.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:8.9"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "The grade of passions that prevents taking even the lay vows (TS 8.9).",
@@ -24964,23 +25183,39 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:8.9"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "अप्रत्याख्यानावरण",
   "concepts": [
    "cpt:four-kasayas-sixteen"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -30405,8 +30640,21 @@
   "id": "trm:asrava",
   "term": "āsrava",
   "language": "Sanskrit",
-  "literal": "outflow, influx",
+  "literal": "inflow",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Activity (yoga) of body, speech and mind; auspicious for merit and inauspicious for demerit (6.1-6.3); with passions it is sāmparāyika, without passions īryāpatha (6.4; the commentators explain these as lasting and transient).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:6.1",
+     "tea:tattvartha-sutra:6.2",
+     "tea:tattvartha-sutra:6.3",
+     "tea:tattvartha-sutra:6.4"
+    ]
+   },
    {
     "lineage": "lin:sarvastivada",
     "definition": "Outflow: in the Kośa's list three — of desire, of existence and of ignorance; so called because they make beings stay in saṃsāra and flow out through the six wounds of the senses.",
@@ -30429,6 +30677,28 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:6.1",
+      "tea:tattvartha-sutra:6.2",
+      "tea:tattvartha-sutra:6.3",
+      "tea:tattvartha-sutra:6.4"
+     ],
+     "result": "corrected",
+     "note": "Corrected by J: Definition: \"lasting/transient\" replaced by the sūtra's own terms sāmparāyika/īryāpatha (the glosses are the commentators')."
+    }
+   ],
+   "unverified": false
+  },
   "cross_language": [
    {
     "language": "Pali",
@@ -30460,12 +30730,6 @@
    "trm:yoga",
    "trm:samvara"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "equivalents": [
    {
     "target": "trm:asava",
@@ -30487,10 +30751,12 @@
   ],
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U38-early-schools",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -34941,9 +35207,19 @@
   "id": "trm:audayika",
   "term": "audayika",
   "language": "Sanskrit",
-  "native": "औदयिक",
-  "literal": "arising from the rise [of karma]",
+  "literal": "audayika",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The rising state (2.1): twenty-one (2.6), including the four passions.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:2.1",
+     "tea:tattvartha-sutra:2.6"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "States produced by the fruition of karma: destinies, passions, sexes, wrong view, ignorance, non-restraint, non-perfection, leśyās (TS 2.6).",
@@ -34953,23 +35229,40 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:2.1",
+      "tea:tattvartha-sutra:2.6"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "औदयिक",
   "concepts": [
    "cpt:five-bhavas"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -35109,9 +35402,19 @@
   "id": "trm:aupasamika",
   "term": "aupaśamika",
   "language": "Sanskrit",
-  "native": "औपशमिक",
-  "literal": "subsidential",
+  "literal": "aupaśamika",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The subsidential state (2.1): right view and conduct (2.3).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:2.1",
+     "tea:tattvartha-sutra:2.3"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "A state arising from the temporary subsidence of (deluding) karma — right view and conduct (TS 2.3).",
@@ -35121,23 +35424,40 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:2.1",
+      "tea:tattvartha-sutra:2.3"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "औपशमिक",
   "concepts": [
    "cpt:five-bhavas"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -38978,11 +39298,22 @@
  },
  {
   "id": "trm:ayu-karma",
-  "term": "āyu-karma",
+  "term": "āyus",
   "language": "Sanskrit",
-  "native": "आयुकर्म",
-  "literal": "lifespan karma",
+  "literal": "āyus",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Lifespan karma: hellish, animal, human, divine (8.10); inflows at 6.15-6.21.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:6.15",
+     "tea:tattvartha-sutra:6.20",
+     "tea:tattvartha-sutra:8.10"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Karma fixing the lifespan in one of four destinies; bound once in a life (TS 8.10).",
@@ -38995,6 +39326,28 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:6.15",
+      "tea:tattvartha-sutra:6.20",
+      "tea:tattvartha-sutra:8.10"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "आयुकर्म",
   "cross_language": [
    {
     "language": "Prakrit",
@@ -39009,17 +39362,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -40108,9 +40457,20 @@
   "id": "trm:bandha",
   "term": "bandha",
   "language": "Sanskrit",
-  "native": "बन्ध",
-  "literal": "lock, binding",
+  "literal": "bondage",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The soul's taking in of material particles fit for karma because of its passions (8.2); its causes are wrong view, non-abstinence, carelessness, passions and activity (8.1); its kinds are nature, duration, intensity and quantity (8.3).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:8.1",
+     "tea:tattvartha-sutra:8.2",
+     "tea:tattvartha-sutra:8.3"
+    ]
+   },
    {
     "lineage": "lin:hatha-yoga",
     "definition": "A lock that contains the breath: mūla (root), uḍḍiyāna (abdominal) and jālandhara (throat), together the 'three locks' practised by the great Siddhas (HYP 3.74–76); applied at the end of inhalation and of retention (2.45–46).",
@@ -40177,6 +40537,28 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:8.1",
+      "tea:tattvartha-sutra:8.2",
+      "tea:tattvartha-sutra:8.3"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "बन्ध",
   "related": [
    "trm:mudra",
    "trm:jalandhara",
@@ -40193,12 +40575,6 @@
    "cpt:four-aspects-of-bandha",
    "cpt:jain-tattvas"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "coverage": [
    "A10",
    "D",
@@ -40216,6 +40592,7 @@
   "equivalents": [],
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U28-hatha-texts",
     "skeleton:U09-samkhya",
     "skeleton:U12-mimamsa",
@@ -40224,6 +40601,7 @@
     "skeleton:U04-minor-upanisads"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -43421,6 +43799,52 @@
   }
  },
  {
+  "id": "trm:bhargavi-varuni-vidya",
+  "term": "bhārgavī vāruṇī vidyā",
+  "language": "Sanskrit",
+  "literal": "the knowledge of Bhṛgu taught by Varuṇa",
+  "definitions": [
+   {
+    "lineage": "lin:upanisadic",
+    "definition": "The knowledge that brahman is food, then breath, mind, understanding and finally bliss, reached by tapas at each step, established in the highest space (3.6.1).",
+    "sources": [
+     "src:taittiriya-upanisad"
+    ],
+    "rests_on": [
+     "tea:taittiriya-upanisad:3.1.1",
+     "tea:taittiriya-upanisad:3.6.1"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:taittiriya-upanisad:3.1.1",
+      "tea:taittiriya-upanisad:3.6.1"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:taittiriya-upanisad/kosa"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "trm:bharita",
   "term": "bharita",
   "language": "Sanskrit",
@@ -44213,9 +44637,23 @@
   "id": "trm:bhavana",
   "term": "bhāvanā",
   "language": "Sanskrit",
-  "native": "भावना",
-  "literal": "cultivation, causing to be",
+  "literal": "contemplation",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Five contemplations for each vow, for its steadiness (7.3-7.8).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:7.3",
+     "tea:tattvartha-sutra:7.4",
+     "tea:tattvartha-sutra:7.5",
+     "tea:tattvartha-sutra:7.6",
+     "tea:tattvartha-sutra:7.7",
+     "tea:tattvartha-sutra:7.8"
+    ]
+   },
    {
     "lineage": "lin:patanjala-yoga",
     "definition": "Cultivation: of the meaning of the praṇava (1.28), of the four attitudes (1.33), of the opposites of harmful thoughts (2.33); Vyāsa: equanimity toward the wicked is not a cultivation (YBh 3.23).",
@@ -44329,6 +44767,31 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:7.3",
+      "tea:tattvartha-sutra:7.4",
+      "tea:tattvartha-sutra:7.5",
+      "tea:tattvartha-sutra:7.6",
+      "tea:tattvartha-sutra:7.7",
+      "tea:tattvartha-sutra:7.8"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "भावना",
   "cross_language": [
    {
     "language": "Pali",
@@ -44363,12 +44826,6 @@
    "B2",
    "B6"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "related": [
    "trm:sabdi-bhavana",
    "trm:arthi-bhavana",
@@ -44404,6 +44861,7 @@
   ],
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U10-yoga",
     "skeleton:U12-mimamsa",
     "skeleton:U23-sakta-srividya",
@@ -45672,6 +46130,50 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:bhokta",
+  "term": "bhoktṛ",
+  "language": "Sanskrit",
+  "literal": "enjoyer",
+  "definitions": [
+   {
+    "lineage": "lin:upanisadic",
+    "definition": "The self joined with body, senses and mind, called the enjoyer by the wise (1.3.4).",
+    "sources": [
+     "src:katha-upanisad"
+    ],
+    "rests_on": [
+     "tea:katha-upanisad:1.3.4"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:katha-upanisad:1.3.4"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:katha-upanisad/chariot"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -58229,6 +58731,83 @@
   }
  },
  {
+  "id": "trm:cittavarana",
+  "term": "cittāvaraṇa",
+  "language": "Sanskrit",
+  "literal": "obscuration or hindrance of mind",
+  "definitions": [
+   {
+    "lineage": "lin:mahayana",
+    "definition": "What the bodhisattva who relies on the perfection of wisdom does not have (s8); Chinese 心無罣礙 (2.5).",
+    "sources": [
+     "src:prajnaparamita-hrdaya"
+    ],
+    "rests_on": [
+     "tea:prajnaparamita-hrdaya:2.5",
+     "tea:prajnaparamita-hrdaya:s8"
+    ]
+   },
+   {
+    "lineage": "lin:mahayana",
+    "definition": "What is absent in the bodhisattva who relies on the perfection of wisdom, so that he is fearless and goes beyond inversions (s8).",
+    "sources": [
+     "src:prajnaparamita-hrdaya"
+    ],
+    "rests_on": [
+     "tea:prajnaparamita-hrdaya:s8"
+    ]
+   }
+  ],
+  "cross_language": [
+   {
+    "language": "Chinese",
+    "form": "罣礙 (guà'ài)",
+    "grade": "exact",
+    "note": "心無罣礙, \"the mind has no hindrance\""
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:prajnaparamita-hrdaya:2.5",
+      "tea:prajnaparamita-hrdaya:s8"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    },
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:prajnaparamita-hrdaya:s8"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "provenance": {
+   "units": [
+    "extraction:prajnaparamita-hrdaya/all",
+    "extraction:prajnaparamita-hrdaya-sanskrit-short/all"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "trm:cittaviprayukta-samskara",
   "term": "cittaviprayukta-saṃskāra",
   "language": "Sanskrit",
@@ -60983,11 +61562,22 @@
  },
  {
   "id": "trm:darsanavaraniya",
-  "term": "darśanāvaraṇīya",
+  "term": "darśanāvaraṇa",
   "language": "Sanskrit",
-  "native": "दर्शनावरणीय",
-  "literal": "perception-obscuring",
+  "literal": "darśanāvaraṇa",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Perception-obscuring karma, nine subdivisions including five kinds of sleep (8.4, 8.7).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:6.10",
+     "tea:tattvartha-sutra:8.4",
+     "tea:tattvartha-sutra:8.7"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Karma veiling perception and producing the five kinds of sleep (TS 8.7).",
@@ -60998,23 +61588,41 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:6.10",
+      "tea:tattvartha-sutra:8.4",
+      "tea:tattvartha-sutra:8.7"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "दर्शनावरणीय",
   "concepts": [
    "cpt:eight-karmas"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -77548,11 +78156,22 @@
  },
  {
   "id": "trm:gotra-karma",
-  "term": "gotra-karma",
+  "term": "gotra",
   "language": "Sanskrit",
-  "native": "गोत्रकर्म",
-  "literal": "status karma",
+  "literal": "gotra",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Status karma: high and low (8.12); inflows at 6.25-6.26.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:6.25",
+     "tea:tattvartha-sutra:6.26",
+     "tea:tattvartha-sutra:8.12"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Karma determining high or low status (TS 8.12, 6.25–26).",
@@ -77564,23 +78183,41 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:6.25",
+      "tea:tattvartha-sutra:6.26",
+      "tea:tattvartha-sutra:8.12"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "गोत्रकर्म",
   "concepts": [
    "cpt:eight-karmas"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -84223,9 +84860,18 @@
   "id": "trm:iryapatha",
   "term": "īryāpatha",
   "language": "Sanskrit",
-  "native": "ईर्यापथ",
-  "literal": "path-of-motion [inflow]",
+  "literal": "transient (inflow)",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The inflow of one without passions (6.4).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:6.4"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Inflow of one without passions (stages 11–13), which does not stay bound beyond an instant (TS 6.4).",
@@ -84234,6 +84880,26 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:6.4"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "ईर्यापथ",
   "cross_language": [
    {
     "language": "Prakrit",
@@ -84247,17 +84913,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -90107,11 +90769,22 @@
  },
  {
   "id": "trm:jnanavaraniya",
-  "term": "jñānāvaraṇīya",
+  "term": "jñānāvaraṇa",
   "language": "Sanskrit",
-  "native": "ज्ञानावरणीय",
-  "literal": "knowledge-obscuring",
+  "literal": "jñānāvaraṇa",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Knowledge-obscuring karma, five subdivisions (8.4-8.6); its inflow is spite, concealment and so on regarding knowledge (6.10).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:6.10",
+     "tea:tattvartha-sutra:8.4",
+     "tea:tattvartha-sutra:8.6"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Karma veiling the five kinds of knowledge (TS 8.4, 8.6).",
@@ -90122,23 +90795,41 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:6.10",
+      "tea:tattvartha-sutra:8.4",
+      "tea:tattvartha-sutra:8.6"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "ज्ञानावरणीय",
   "concepts": [
    "cpt:eight-karmas"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -99122,11 +99813,20 @@
  },
  {
   "id": "trm:karuna",
-  "term": "karuṇā",
+  "term": "kāruṇya",
   "language": "Sanskrit",
-  "native": "करुणा",
   "literal": "compassion",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Cultivated towards the afflicted (7.11).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:7.11"
+    ]
+   },
    {
     "lineage": "lin:patanjala-yoga",
     "definition": "Compassion cultivated toward the suffering, one of the four attitudes that clarify the mind (1.33, YBh 1.33). Saṃyama on it yields its strength (3.23).",
@@ -99218,6 +99918,37 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:7.11"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:12.13"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "करुणा",
   "cross_language": [
    {
     "language": "Pali",
@@ -99260,24 +99991,6 @@
    "B4",
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": [
-    {
-     "phase": "D",
-     "date": "2026-09-29",
-     "method": "text",
-     "queries": [],
-     "evidence": [
-      "tea:bhagavad-gita:12.13"
-     ],
-     "result": "confirmed",
-     "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
-    }
-   ]
-  },
   "related": [
    "trm:brahmavihara",
    "trm:maitri"
@@ -99285,6 +99998,7 @@
   "notes": "Shared slug with the Sanskrit term.",
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U10-yoga",
     "skeleton:U36-pali-suttas",
     "extraction:bhagavad-gita/ch10-12",
@@ -99411,8 +100125,22 @@
   "id": "trm:kasaya",
   "term": "kaṣāya",
   "language": "Sanskrit",
-  "literal": "astringent",
+  "literal": "passion (literally: what stains, colours)",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Anger, pride, deceit and greed (8.9); among the rising states of the soul (2.6), a cause of bondage (8.1), the reason for the soul's taking in karma-particles (8.2), and the ground of conduct-deluding karma (6.14, 8.9); each has four varieties (8.9).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:2.6",
+     "tea:tattvartha-sutra:6.14",
+     "tea:tattvartha-sutra:8.1",
+     "tea:tattvartha-sutra:8.2",
+     "tea:tattvartha-sutra:8.9"
+    ]
+   },
    {
     "lineage": "lin:ayurveda",
     "definition": "One of the six tastes (Ca Sū 1.65; AHS Sū 1.14); for which doṣas it pacifies or provokes see Ca Sū 1.66.",
@@ -99461,6 +100189,29 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:2.6",
+      "tea:tattvartha-sutra:6.14",
+      "tea:tattvartha-sutra:8.1",
+      "tea:tattvartha-sutra:8.2",
+      "tea:tattvartha-sutra:8.9"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "cross_language": [
    {
     "language": "Prakrit",
@@ -99482,21 +100233,17 @@
    "B2",
    "A2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "native": "कषाय",
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U30-ayurveda-rasa",
     "skeleton:U13-advaita",
     "skeleton:U35-jain-philosophy",
     "skeleton:U04-minor-upanisads"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -104508,9 +105255,18 @@
   "id": "trm:krodha",
   "term": "krodha",
   "language": "Sanskrit",
-  "native": "क्रोध",
   "literal": "anger",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "One of the four passions (8.9); it has four varieties.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:8.9"
+    ]
+   },
    {
     "lineage": "lin:epic-teaching",
     "definition": "Bhagavad Gītā 1–3: Anger: arises from desire and gives rise to delusion (2.62–63); the sage of steady thought is free from it (2.56); named with desire as the enemy born of rajas (3.37).",
@@ -104550,15 +105306,22 @@
     ]
    }
   ],
-  "related": [
-   "trm:kama",
-   "trm:moha"
-  ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
-   "unverified": false,
+   "protocol": "insight-p1-single+spot",
    "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:8.9"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    },
     {
      "phase": "D",
      "date": "2026-09-29",
@@ -104573,8 +105336,14 @@
      "result": "confirmed",
      "note": "Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
     }
-   ]
+   ],
+   "unverified": false
   },
+  "native": "क्रोध",
+  "related": [
+   "trm:kama",
+   "trm:moha"
+  ],
   "concepts": [
    "cpt:descent-from-sense-objects-to-ruin",
    "cpt:kama-as-the-enemy"
@@ -104585,6 +105354,7 @@
   ],
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "extraction:bhagavad-gita/ch01-03",
     "skeleton:U05-gita-epic",
     "extraction:bhagavad-gita/ch04-06"
@@ -105997,9 +106767,20 @@
   "id": "trm:ksayika",
   "term": "kṣāyika",
   "language": "Sanskrit",
-  "native": "क्षायिक",
-  "literal": "destructional",
+  "literal": "kṣāyika",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The destructional state (2.1): nine (2.2), the seven named in 2.4 and (by ca) right view and conduct.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:2.1",
+     "tea:tattvartha-sutra:2.2",
+     "tea:tattvartha-sutra:2.4"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "A state arising from the destruction of karma — knowledge, perception, giving, gain, enjoyment, energy, right view and conduct (TS 2.4).",
@@ -106009,23 +106790,41 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:2.1",
+      "tea:tattvartha-sutra:2.2",
+      "tea:tattvartha-sutra:2.4"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "क्षायिक",
   "concepts": [
    "cpt:five-bhavas"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -106034,9 +106833,19 @@
   "id": "trm:ksayopasamika",
   "term": "kṣāyopaśamika",
   "language": "Sanskrit",
-  "native": "क्षायोपशमिक",
-  "literal": "destructional-subsidential; mixed",
+  "literal": "kṣāyopaśamika",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The mixed (miśra) state (2.1): eighteen (2.2, 2.5); the word kṣāyopaśamika is the later name.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:2.1",
+     "tea:tattvartha-sutra:2.5"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "A state arising from partial destruction and partial subsidence of karma — most ordinary knowledge and perception (TS 2.5).",
@@ -106047,23 +106856,40 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:2.1",
+      "tea:tattvartha-sutra:2.5"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "क्षायोपशमिक",
   "concepts": [
    "cpt:five-bhavas"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -111549,8 +112375,19 @@
  {
   "id": "trm:lobha",
   "term": "lobha",
-  "language": "Pali",
+  "language": "Sanskrit",
+  "literal": "greed",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "One of the four passions (8.9); it has four varieties.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:8.9"
+    ]
+   },
    {
     "lineage": "lin:early-buddhism",
     "definition": "The first unwholesome root (MN 9); a source for the origination of kamma (AN 3.34).",
@@ -111622,10 +112459,21 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
-   "unverified": false,
+   "protocol": "insight-p1-single+spot",
    "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:8.9"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    },
     {
      "phase": "D",
      "date": "2026-09-29",
@@ -111638,7 +112486,8 @@
      "result": "confirmed",
      "note": "Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
     }
-   ]
+   ],
+   "unverified": false
   },
   "coverage": [
    "B3",
@@ -111646,7 +112495,6 @@
    "A3",
    "A6"
   ],
-  "literal": "greed",
   "cross_language": [
    {
     "language": "Sanskrit",
@@ -111664,6 +112512,7 @@
   "concepts": [],
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U36-pali-suttas",
     "skeleton:U05-gita-epic",
     "extraction:bhagavad-gita/ch01-03",
@@ -116765,9 +117614,18 @@
   "id": "trm:mahavrata",
   "term": "mahāvrata",
   "language": "Sanskrit",
-  "native": "महाव्रत",
   "literal": "great vow",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The vow kept wholly (7.2).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:7.2"
+    ]
+   },
    {
     "lineage": "lin:patanjala-yoga",
     "definition": "The restraints when unlimited by class, place, time or occasion (2.31, YBh 2.31).",
@@ -116810,6 +117668,26 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:7.2"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "महाव्रत",
   "cross_language": [
    {
     "language": "Prakrit",
@@ -116827,12 +117705,6 @@
    "A5",
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "related": [
    "trm:kapalavrata",
    "trm:mahavratin"
@@ -116840,11 +117712,13 @@
   "notes": "Homonym of the Vedic śrauta Mahāvrata rite, which is unrelated.",
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U10-yoga",
     "skeleton:U17-pasupata-kapalika",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -117371,9 +118245,18 @@
   "id": "trm:maitri",
   "term": "maitrī",
   "language": "Sanskrit",
-  "native": "मैत्री",
   "literal": "friendliness",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Cultivated towards all living beings (7.11).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:7.11"
+    ]
+   },
    {
     "lineage": "lin:patanjala-yoga",
     "definition": "Friendliness cultivated toward the happy, one of the four attitudes that clarify the mind (1.33, YBh 1.33). Saṃyama on it yields its strength (3.23).",
@@ -117429,6 +118312,37 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:7.11"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:12.13"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "मैत्री",
   "cross_language": [
    {
     "language": "Pali",
@@ -117462,24 +118376,6 @@
    "A5",
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": [
-    {
-     "phase": "D",
-     "date": "2026-09-29",
-     "method": "text",
-     "queries": [],
-     "evidence": [
-      "tea:bhagavad-gita:12.13"
-     ],
-     "result": "confirmed",
-     "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
-    }
-   ]
-  },
   "related": [
    "trm:karuna"
   ],
@@ -117495,6 +118391,7 @@
   ],
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U10-yoga",
     "extraction:bhagavad-gita/ch10-12",
     "skeleton:U35-jain-philosophy",
@@ -118012,8 +118909,19 @@
  {
   "id": "trm:mana",
   "term": "māna",
-  "language": "Pali",
+  "language": "Sanskrit",
+  "literal": "pride",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "One of the four passions (8.9); it has four varieties.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:8.9"
+    ]
+   },
    {
     "lineage": "lin:early-buddhism",
     "definition": "Conceit — 'I am better, equal, worse' (Snp 4.9); the eighth fetter, abandoned only at arahantship.",
@@ -118057,10 +118965,23 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
-   "unverified": false,
-   "checks": []
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:8.9"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
   },
   "coverage": [
    "B3",
@@ -118068,7 +118989,6 @@
    "A6",
    "A9"
   ],
-  "literal": "conceit",
   "cross_language": [
    {
     "language": "Sanskrit",
@@ -118081,12 +119001,14 @@
   ],
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U36-pali-suttas",
     "skeleton:U37-abhidhamma-visuddhimagga",
     "skeleton:U16-bhedabheda",
     "skeleton:U25-alvar-bhakti-theory"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -119764,7 +120686,19 @@
   "id": "trm:manomaya",
   "term": "manomaya",
   "language": "Sanskrit",
+  "literal": "made of mind",
   "definitions": [
+   {
+    "lineage": "lin:upanisadic",
+    "definition": "The self within the breath-made self and filling it; person-shaped; head yajus, right wing ṛc, left wing sāman, self ādeśa, tail Atharvāṅgiras (2.3.1).",
+    "sources": [
+     "src:taittiriya-upanisad"
+    ],
+    "rests_on": [
+     "tea:taittiriya-upanisad:2.3.1",
+     "tea:taittiriya-upanisad:2.3.1/2"
+    ]
+   },
    {
     "lineage": "lin:upanisadic",
     "definition": "Made of mind: the self within the breath-self (TU 2.3); also the person made of mind in the heart (TU 1.6; BAU 5.6; ChU 3.14.2).",
@@ -119776,6 +120710,26 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:taittiriya-upanisad:2.3.1",
+      "tea:taittiriya-upanisad:2.3.1/2"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "related": [
    "trm:kosa"
   ],
@@ -119786,17 +120740,13 @@
    "A2",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:taittiriya-upanisad/kosa",
     "skeleton:U03-principal-upanisads"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -123425,9 +124375,18 @@
   "id": "trm:maya-kasaya",
   "term": "māyā",
   "language": "Sanskrit",
-  "native": "माया",
   "literal": "deceit",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "One of the four passions (8.9); it has four varieties.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:8.9"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "In Jain usage the passion of deceit or crookedness, cause of animal rebirth (TS 6.16) and one of the three thorns.",
@@ -123436,6 +124395,26 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:8.9"
+     ],
+     "result": "corrected",
+     "note": "Corrected by J: Renamed to trm:maya-kasaya: trm:maya in data is the Vedic/Vedānta māyā (creative power, illusion); the Jain passion of deceit has its own id trm:maya-kasaya."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "माया",
   "cross_language": [
    {
     "language": "Prakrit",
@@ -123450,17 +124429,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -125719,9 +126694,20 @@
   "id": "trm:mohaniya",
   "term": "mohanīya",
   "language": "Sanskrit",
-  "native": "मोहनीय",
-  "literal": "deluding",
+  "literal": "mohanīya",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Deluding karma: view-deluding and conduct-deluding, of 3+2+9+16 kinds (8.9); inflows at 6.13-6.14.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:6.13",
+     "tea:tattvartha-sutra:6.14",
+     "tea:tattvartha-sutra:8.9"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "The chief karma, deluding view and conduct; its destruction comes first on the way to omniscience (TS 8.9, 10.1).",
@@ -125732,23 +126718,41 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:6.13",
+      "tea:tattvartha-sutra:6.14",
+      "tea:tattvartha-sutra:8.9"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "मोहनीय",
   "concepts": [
    "cpt:eight-karmas"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -130771,11 +131775,22 @@
  },
  {
   "id": "trm:nama-karma",
-  "term": "nāma-karma",
+  "term": "nāma",
   "language": "Sanskrit",
-  "native": "नामकर्म",
-  "literal": "body-making karma",
+  "literal": "nāma",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Body-making karma, forty-two subdivisions (8.11); inflows at 6.22-6.24.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:6.22",
+     "tea:tattvartha-sutra:6.23",
+     "tea:tattvartha-sutra:8.11"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Karma determining destiny, class, body, form, and all bodily particulars, including Tīrthaṅkarahood (TS 8.11).",
@@ -130786,23 +131801,41 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:6.22",
+      "tea:tattvartha-sutra:6.23",
+      "tea:tattvartha-sutra:8.11"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "नामकर्म",
   "concepts": [
    "cpt:eight-karmas"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -137256,9 +138289,19 @@
   "id": "trm:nirjara",
   "term": "nirjarā",
   "language": "Sanskrit",
-  "native": "निर्जरा",
-  "literal": "wearing away; shedding",
+  "literal": "shedding",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "After fruition the karma is shed (8.23); involuntary shedding (akāma-nirjarā) is named as a cause of divine lifespan (6.20).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:6.20",
+     "tea:tattvartha-sutra:8.23"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "The falling away of bound karma, either on fruition (savipāka) or before its time through austerity (avipāka) (TS 8.23, 9.3).",
@@ -137271,6 +138314,27 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:6.20",
+      "tea:tattvartha-sutra:8.23"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "निर्जरा",
   "cross_language": [
    {
     "language": "Prakrit",
@@ -137285,17 +138349,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -152361,9 +153421,19 @@
   "id": "trm:parinamika",
   "term": "pāriṇāmika",
   "language": "Sanskrit",
-  "native": "पारिणामिक",
-  "literal": "inherent",
+  "literal": "pāriṇāmika",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The inherent state (2.1): being a soul, capability and incapability of liberation (2.7).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:2.1",
+     "tea:tattvartha-sutra:2.7"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "States belonging to the soul by its own nature, independent of karma: being a soul, capability and incapability for liberation (TS 2.7).",
@@ -152373,23 +153443,40 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:2.1",
+      "tea:tattvartha-sutra:2.7"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "पारिणामिक",
   "concepts": [
    "cpt:five-bhavas"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -158120,9 +159207,18 @@
   "id": "trm:pradesa-bandha",
   "term": "pradeśa-bandha",
   "language": "Sanskrit",
-  "native": "प्रदेशबन्ध",
-  "literal": "bondage of quantity",
+  "literal": "pradeśa-bandha",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Bondage of quantity: the particles bind on every side, in all the soul's space-points (8.24).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:8.24"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "The mass of karmic particles bound to the soul's space-points, depending on activity (TS 8.24).",
@@ -158132,23 +159228,39 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:8.24"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "प्रदेशबन्ध",
   "concepts": [
    "cpt:four-aspects-of-bandha"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -158439,6 +159551,52 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:pragraha",
+  "term": "pragraha",
+  "language": "Sanskrit",
+  "literal": "reins, bridle",
+  "definitions": [
+   {
+    "lineage": "lin:upanisadic",
+    "definition": "The reins of the chariot; in Kaṭha 1.3.3 the mind (manas) is said to be the reins, and the one who holds them is the man who reaches the goal (1.3.9).",
+    "sources": [
+     "src:katha-upanisad"
+    ],
+    "rests_on": [
+     "tea:katha-upanisad:1.3.3",
+     "tea:katha-upanisad:1.3.9"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:katha-upanisad:1.3.3",
+      "tea:katha-upanisad:1.3.9"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:katha-upanisad/chariot"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -159945,9 +161103,19 @@
   "id": "trm:prakrti-bandha",
   "term": "prakṛti-bandha",
   "language": "Sanskrit",
-  "native": "प्रकृतिबन्ध",
-  "literal": "bondage of nature",
+  "literal": "prakṛti-bandha",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Bondage of nature: the eight karma types (8.3, 8.4).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:8.3",
+     "tea:tattvartha-sutra:8.4"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "The kind of karma bound — which of the eight types (TS 8.3–4).",
@@ -159956,23 +161124,40 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:8.3",
+      "tea:tattvartha-sutra:8.4"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "प्रकृतिबन्ध",
   "concepts": [
    "cpt:four-aspects-of-bandha"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -161314,9 +162499,18 @@
   "id": "trm:pramoda",
   "term": "pramoda",
   "language": "Sanskrit",
-  "native": "प्रमोद",
-  "literal": "joy [in others' virtue]",
+  "literal": "delight",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Cultivated towards those superior in virtue (7.11).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:7.11"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Delight at the qualities of those more virtuous (TS 7.11); Jain counterpart of muditā.",
@@ -161326,6 +162520,26 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:7.11"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "प्रमोद",
   "cross_language": [
    {
     "language": "Prakrit",
@@ -161339,17 +162553,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -162086,7 +163296,19 @@
   "id": "trm:pranamaya",
   "term": "prāṇamaya",
   "language": "Sanskrit",
+  "literal": "made of breath",
   "definitions": [
+   {
+    "lineage": "lin:upanisadic",
+    "definition": "The self within the food-made self and filling it; person-shaped; head prāṇa, right wing vyāna, left wing apāna, self ākāśa, tail and support earth (2.2.1).",
+    "sources": [
+     "src:taittiriya-upanisad"
+    ],
+    "rests_on": [
+     "tea:taittiriya-upanisad:2.2.1",
+     "tea:taittiriya-upanisad:2.2.1/2"
+    ]
+   },
    {
     "lineage": "lin:upanisadic",
     "definition": "Made of breath: the self within the food-self, with prāṇa as head (TU 2.2).",
@@ -162098,6 +163320,26 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:taittiriya-upanisad:2.2.1",
+      "tea:taittiriya-upanisad:2.2.1/2"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "related": [
    "trm:kosa"
   ],
@@ -162108,17 +163350,13 @@
    "A2",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:taittiriya-upanisad/kosa",
     "skeleton:U03-principal-upanisads"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -166178,11 +167416,20 @@
  },
  {
   "id": "trm:pratyakhyanavarana",
-  "term": "pratyākhyānāvaraṇa",
+  "term": "pratyākhyāna (pratyākhyānāvaraṇa)",
   "language": "Sanskrit",
-  "native": "प्रत्याख्यानावरण",
-  "literal": "obstructing full renunciation",
+  "literal": "renunciation",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The third variety of each passion (8.9); not defined in the sūtra.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:8.9"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "The grade of passions that prevents the great vows (TS 8.9).",
@@ -166191,23 +167438,39 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:8.9"
+     ],
+     "result": "corrected",
+     "note": "Corrected by J: Renamed to trm:pratyakhyanavarana: trm:pratyakhyana in data is the formal resolve of renunciation (one of the six essential duties); the passion variety of TS 8.9 has its own id."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "प्रत्याख्यानावरण",
   "concepts": [
    "cpt:four-kasayas-sixteen"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -168510,6 +169773,52 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:puccha-pratistha",
+  "term": "pucchaṃ pratiṣṭhā",
+  "language": "Sanskrit",
+  "literal": "tail, support",
+  "definitions": [
+   {
+    "lineage": "lin:upanisadic",
+    "definition": "The last member of each person-shaped self (earth for the breath-made self; brahman for the bliss-made self).",
+    "sources": [
+     "src:taittiriya-upanisad"
+    ],
+    "rests_on": [
+     "tea:taittiriya-upanisad:2.2.1/2",
+     "tea:taittiriya-upanisad:2.5.1/2"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:taittiriya-upanisad:2.2.1/2",
+      "tea:taittiriya-upanisad:2.5.1/2"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:taittiriya-upanisad/kosa"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -174613,6 +175922,50 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:ratha",
+  "term": "ratha",
+  "language": "Sanskrit",
+  "literal": "chariot",
+  "definitions": [
+   {
+    "lineage": "lin:upanisadic",
+    "definition": "The chariot of the simile: the body (śarīra), 1.3.3.",
+    "sources": [
+     "src:katha-upanisad"
+    ],
+    "rests_on": [
+     "tea:katha-upanisad:1.3.3"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:katha-upanisad:1.3.3"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:katha-upanisad/chariot"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -188536,9 +189889,18 @@
   "id": "trm:samjvalana",
   "term": "saṃjvalana",
   "language": "Sanskrit",
-  "native": "संज्वलन",
   "literal": "smouldering",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The fourth variety of each passion (8.9); not defined in the sūtra.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:8.9"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "The subtlest grade of passions, which remains even in the monk and blocks perfect conduct (TS 8.9).",
@@ -188547,23 +189909,39 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:8.9"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "संज्वलन",
   "concepts": [
    "cpt:four-kasayas-sixteen"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -190169,9 +191547,18 @@
   "id": "trm:samparayika",
   "term": "sāmparāyika",
   "language": "Sanskrit",
-  "native": "साम्परायिक",
-  "literal": "lasting [bondage]",
+  "literal": "lasting (inflow)",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The inflow of one with passions (6.4).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:6.4"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Inflow of one with passions, producing bondage of duration (TS 6.4).",
@@ -190180,23 +191567,39 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:6.4"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "साम्परायिक",
   "concepts": [
    "cpt:asrava"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -191832,9 +193235,19 @@
   "id": "trm:samvega",
   "term": "saṃvega",
   "language": "Sanskrit",
-  "native": "संवेग",
-  "literal": "ardor, urgency",
+  "literal": "dread (of saṃsāra)",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "One purpose of reflecting on the nature of the world and body (7.12); also named at 6.24 as a cause of Tīrthaṅkara karma.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:6.24",
+     "tea:tattvartha-sutra:7.12"
+    ]
+   },
    {
     "lineage": "lin:patanjala-yoga",
     "definition": "Ardor in practice, mild, middling or intense; for the intensely ardent samādhi is near (1.21–22).",
@@ -191856,6 +193269,27 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:6.24",
+      "tea:tattvartha-sutra:7.12"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "संवेग",
   "cross_language": [
    {
     "language": "Pali",
@@ -191877,18 +193311,14 @@
    "A5",
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U10-yoga",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -196533,6 +197963,52 @@
   }
  },
  {
+  "id": "trm:sarathi",
+  "term": "sārathi",
+  "language": "Sanskrit",
+  "literal": "charioteer",
+  "definitions": [
+   {
+    "lineage": "lin:upanisadic",
+    "definition": "The charioteer of the chariot; the intellect (buddhi, 1.3.3) or discriminating understanding (vijñāna, 1.3.9).",
+    "sources": [
+     "src:katha-upanisad"
+    ],
+    "rests_on": [
+     "tea:katha-upanisad:1.3.3",
+     "tea:katha-upanisad:1.3.9"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:katha-upanisad:1.3.3",
+      "tea:katha-upanisad:1.3.9"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:katha-upanisad/chariot"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "trm:sarga",
   "term": "sarga",
   "language": "Sanskrit",
@@ -200720,6 +202196,50 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:satyam-jnanam-anantam",
+  "term": "satyaṃ jñānam anantaṃ brahma",
+  "language": "Sanskrit",
+  "literal": "brahman is truth, knowledge, the infinite",
+  "definitions": [
+   {
+    "lineage": "lin:upanisadic",
+    "definition": "The characterization of brahman in the verse of Taittirīya 2.1.1.",
+    "sources": [
+     "src:taittiriya-upanisad"
+    ],
+    "rests_on": [
+     "tea:taittiriya-upanisad:2.1.1/2"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:taittiriya-upanisad:2.1.1/2"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:taittiriya-upanisad/kosa"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -210735,9 +212255,21 @@
   "id": "trm:sthiti-bandha",
   "term": "sthiti-bandha",
   "language": "Sanskrit",
-  "native": "स्थितिबन्ध",
-  "literal": "bondage of duration",
+  "literal": "sthiti-bandha",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Bondage of duration: the maximum and minimum durations of each type (8.14-8.20).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:8.14",
+     "tea:tattvartha-sutra:8.15",
+     "tea:tattvartha-sutra:8.17",
+     "tea:tattvartha-sutra:8.18"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "How long the bound karma remains before fruition (TS 8.14–20).",
@@ -210748,23 +212280,42 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:8.14",
+      "tea:tattvartha-sutra:8.15",
+      "tea:tattvartha-sutra:8.17",
+      "tea:tattvartha-sutra:8.18"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "स्थितिबन्ध",
   "concepts": [
    "cpt:four-aspects-of-bandha"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -214568,6 +216119,75 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:svabhava-sunya",
+  "term": "svabhāva-śūnya",
+  "language": "Sanskrit",
+  "literal": "empty of own-being",
+  "definitions": [
+   {
+    "lineage": "lin:mahayana",
+    "definition": "The aggregates are seen as svabhāva-śūnya by Avalokiteśvara (s3).",
+    "sources": [
+     "src:prajnaparamita-hrdaya"
+    ],
+    "rests_on": [
+     "tea:prajnaparamita-hrdaya:s3"
+    ]
+   },
+   {
+    "lineage": "lin:mahayana",
+    "definition": "In the Sanskrit-short text (s3) Avalokiteśvara sees the five aggregates as svabhāva-śūnya, empty of own-being. The Chinese (2.2) says only that the aggregates are empty (空).",
+    "sources": [
+     "src:prajnaparamita-hrdaya"
+    ],
+    "rests_on": [
+     "tea:prajnaparamita-hrdaya:s3",
+     "tea:prajnaparamita-hrdaya:2.2"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:prajnaparamita-hrdaya:s3"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    },
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:prajnaparamita-hrdaya:2.2",
+      "tea:prajnaparamita-hrdaya:s3"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "provenance": {
+   "units": [
+    "extraction:prajnaparamita-hrdaya-sanskrit-short/all",
+    "extraction:prajnaparamita-hrdaya/all"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -223977,11 +225597,21 @@
  },
  {
   "id": "trm:tirthankara-nama-karma",
-  "term": "tīrthaṅkara-nāma-karma",
+  "term": "tīrthakaratva (Tīrthaṅkara-nāma)",
   "language": "Sanskrit",
-  "native": "तीर्थङ्करनामकर्म",
-  "literal": "karma of Tīrthaṅkarahood",
+  "literal": "the state of being a Tīrthaṅkara",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "A body-making karma (8.11) whose inflow is the sixteen practices named in 6.24.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:6.24",
+     "tea:tattvartha-sutra:8.11"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "The auspicious body-making karma that makes a soul a founder of the teaching-ford, bound through sixteen causes (TS 6.24, 8.11).",
@@ -223991,23 +225621,40 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:6.24",
+      "tea:tattvartha-sutra:8.11"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "तीर्थङ्करनामकर्म",
   "concepts": [
    "cpt:sixteen-causes-of-tirthankarahood"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -236704,9 +238351,18 @@
   "id": "trm:vairagya",
   "term": "vairāgya",
   "language": "Sanskrit",
-  "native": "वैराग्य",
-  "literal": "dispassion",
+  "literal": "detachment",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The other purpose of that reflection (7.12).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:7.12"
+    ]
+   },
    {
     "lineage": "lin:patanjala-yoga",
     "definition": "Dispassion: the consciousness of mastery of one free of thirst for seen and scriptural objects (1.15); the higher is freedom from thirst for the guṇas (1.16); dispassion even toward the highest powers leads to kaivalya (3.50).",
@@ -236823,6 +238479,48 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:7.12"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:6.35"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:13.9"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "वैराग्य",
   "cross_language": [
    {
     "language": "Pali",
@@ -236850,35 +238548,6 @@
    "A2",
    "B4"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": [
-    {
-     "phase": "D",
-     "date": "2026-09-29",
-     "method": "text",
-     "queries": [],
-     "evidence": [
-      "tea:bhagavad-gita:6.35"
-     ],
-     "result": "confirmed",
-     "note": "Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
-    },
-    {
-     "phase": "D",
-     "date": "2026-09-29",
-     "method": "text",
-     "queries": [],
-     "evidence": [
-      "tea:bhagavad-gita:13.9"
-     ],
-     "result": "confirmed",
-     "note": "Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
-    }
-   ]
-  },
   "equivalents": [],
   "related": [
    "trm:raga",
@@ -236887,6 +238556,7 @@
   ],
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U10-yoga",
     "skeleton:U09-samkhya",
     "skeleton:U05-gita-epic",
@@ -240964,9 +242634,20 @@
   "id": "trm:vedaniya",
   "term": "vedanīya",
   "language": "Sanskrit",
-  "native": "वेदनीय",
-  "literal": "feeling-producing",
+  "literal": "vedanīya",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Feeling karma, pleasant and unpleasant (8.8); inflows at 6.11-6.12.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:6.11",
+     "tea:tattvartha-sutra:6.12",
+     "tea:tattvartha-sutra:8.8"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Karma producing pleasant and unpleasant feeling (TS 8.8).",
@@ -240978,23 +242659,41 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:6.11",
+      "tea:tattvartha-sutra:6.12",
+      "tea:tattvartha-sutra:8.8"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "वेदनीय",
   "concepts": [
    "cpt:eight-karmas"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -243264,7 +244963,19 @@
   "id": "trm:vijnanamaya",
   "term": "vijñānamaya",
   "language": "Sanskrit",
+  "literal": "made of understanding",
   "definitions": [
+   {
+    "lineage": "lin:upanisadic",
+    "definition": "The self within the mind-made self and filling it; person-shaped; head śraddhā, right wing ṛta, left wing satya, self yoga, tail mahas (2.4.1).",
+    "sources": [
+     "src:taittiriya-upanisad"
+    ],
+    "rests_on": [
+     "tea:taittiriya-upanisad:2.4.1",
+     "tea:taittiriya-upanisad:2.4.1/2"
+    ]
+   },
    {
     "lineage": "lin:upanisadic",
     "definition": "Made of understanding: the self within the mind-self, with faith as head and yoga as trunk (TU 2.4); the person made of understanding among the breaths (BAU 4.3.7).",
@@ -243276,6 +244987,26 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:taittiriya-upanisad:2.4.1",
+      "tea:taittiriya-upanisad:2.4.1/2"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "related": [
    "trm:kosa"
   ],
@@ -243286,17 +245017,13 @@
    "A2",
    "D"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:taittiriya-upanisad/kosa",
     "skeleton:U03-principal-upanisads"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -249598,9 +251325,19 @@
   "id": "trm:vrata",
   "term": "vrata",
   "language": "Sanskrit",
-  "native": "व्रत",
-  "literal": "ordinance; vow",
+  "literal": "vow",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Abstention from violence, falsehood, stealing, unchastity and possessiveness (7.1); small or great (7.2).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:7.1",
+     "tea:tattvartha-sutra:7.2"
+    ]
+   },
    {
     "lineage": "lin:vedic-srauta",
     "definition": "The binding ordinance of a god (Varuṇa 'of firm vratas'), and a vow undertaken by a person ('Agni, lord of vows, I shall undertake the vow', VS 1.5).",
@@ -249680,6 +251417,27 @@
     "definition": "In jyotiṣa, vows and fasts kept on the weekday or tithi of an afflicting planet or deity as part of the remedies (later horā and muhūrta practice)."
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:7.1",
+      "tea:tattvartha-sutra:7.2"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "व्रत",
   "concepts": [
    "cpt:vrata-divine-ordinance",
    "cpt:five-vratas"
@@ -249707,14 +251465,9 @@
    "B2",
    "A13"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U01-vedic-samhitas",
     "skeleton:U07-puranas",
     "skeleton:U17-pasupata-kapalika",
@@ -249724,6 +251477,7 @@
     "skeleton:U32-jyotisa"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -255758,9 +257512,19 @@
   "id": "trm:yoga",
   "term": "yoga",
   "language": "Sanskrit",
-  "native": "योग",
-  "literal": "yoking; (from yuj 'to concentrate', per Vyāsa and Bhoja) concentration",
+  "literal": "activity",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "In the Tattvārtha Sūtra, activity (karma) of body, speech and mind (6.1); it is inflow (6.2).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:6.1",
+     "tea:tattvartha-sutra:6.2"
+    ]
+   },
    {
     "lineage": "lin:patanjala-yoga",
     "definition": "The stilling of the activities of the mind (YS 1.2); Vyāsa: 'yoga is samādhi', a property of the mind at all its levels, counting as yoga only in the one-pointed and stilled mind.",
@@ -255991,48 +257755,23 @@
     ]
    }
   ],
-  "related": [
-   "trm:nirodha",
-   "trm:samadhi",
-   "trm:samatva",
-   "trm:kausala",
-   "trm:buddhi-yoga",
-   "trm:karma-yoga",
-   "trm:samkhya",
-   "trm:dhyana-yoga",
-   "trm:sayujya",
-   "trm:yukta",
-   "trm:samnyasa",
-   "trm:yogesvara"
-  ],
-  "concepts": [
-   "cpt:yoga-as-nirodha",
-   "cpt:samatva",
-   "cpt:twofold-nistha",
-   "cpt:four-yogas-of-the-gita",
-   "cpt:pasupata-yoga",
-   "cpt:yoga-in-caraka",
-   "cpt:yoga-in-dharmasastra",
-   "cpt:asrava",
-   "cpt:haribhadra-five-yogas",
-   "cpt:yoga-vaisesika",
-   "cpt:nyaya-yoga-discipline"
-  ],
-  "coverage": [
-   "A5",
-   "A3",
-   "D",
-   "A11",
-   "A4",
-   "A2",
-   "B2",
-   "A7"
-  ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
-   "unverified": false,
+   "protocol": "insight-p1-single+spot",
    "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:6.1",
+      "tea:tattvartha-sutra:6.2"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    },
     {
      "phase": "D",
      "date": "2026-09-29",
@@ -256087,8 +257826,47 @@
      "result": "confirmed",
      "note": "Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
     }
-   ]
+   ],
+   "unverified": false
   },
+  "native": "योग",
+  "related": [
+   "trm:nirodha",
+   "trm:samadhi",
+   "trm:samatva",
+   "trm:kausala",
+   "trm:buddhi-yoga",
+   "trm:karma-yoga",
+   "trm:samkhya",
+   "trm:dhyana-yoga",
+   "trm:sayujya",
+   "trm:yukta",
+   "trm:samnyasa",
+   "trm:yogesvara"
+  ],
+  "concepts": [
+   "cpt:yoga-as-nirodha",
+   "cpt:samatva",
+   "cpt:twofold-nistha",
+   "cpt:four-yogas-of-the-gita",
+   "cpt:pasupata-yoga",
+   "cpt:yoga-in-caraka",
+   "cpt:yoga-in-dharmasastra",
+   "cpt:asrava",
+   "cpt:haribhadra-five-yogas",
+   "cpt:yoga-vaisesika",
+   "cpt:nyaya-yoga-discipline"
+  ],
+  "coverage": [
+   "A5",
+   "A3",
+   "D",
+   "A11",
+   "A4",
+   "A2",
+   "B2",
+   "A7"
+  ],
   "cross_language": [
    {
     "language": "Pali",
@@ -256110,6 +257888,7 @@
   "equivalents": [],
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U10-yoga",
     "extraction:bhagavad-gita/ch01-03",
     "skeleton:U05-gita-epic",

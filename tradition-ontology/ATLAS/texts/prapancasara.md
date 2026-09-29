@@ -30,4 +30,4 @@ _level: conventional · standpoint: cosmic · path: sound · stage: all · types
 _Notes: Chapter count not recorded (uncertain). Mantra theory itself belongs to U31._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._

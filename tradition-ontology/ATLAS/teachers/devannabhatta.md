@@ -15,4 +15,4 @@ Author of the Smṛticandrikā.
 
 - 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/smriticandrika, https://www.hindupedia.com/en/Devannabhatta — Low-confidence entry confirmed: author of the Smṛticandrikā, 13th c. (Wisdomlib; another estimate 1150–1200).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

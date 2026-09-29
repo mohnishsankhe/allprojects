@@ -19,4 +19,4 @@
 Pan-Buddhist frame (Pali, Sarvāstivāda, Mahāyāna and Tibetan lamrim all use it). Stage 4 (vimutti) is the fruit named in the recurrent DN 16 talk; the local Pali root text was checked for that quotation.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 22:04 IST._

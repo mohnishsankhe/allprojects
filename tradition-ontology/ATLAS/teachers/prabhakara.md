@@ -17,4 +17,4 @@ Founder of the Prābhākara school ('Guru'): author of the Bṛhatī and the los
 _Notes: 'teachers' records the tradition's claim only; the story of the title is from memory (low). Śālikanātha as a direct pupil is the tradition's view._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:04 IST._

@@ -18,4 +18,4 @@ _Notes: The multiples are recalled from living practice literature (moderate con
 
 - 2026-09-28 websearch: confirmed — https://vak1969.com/2013/02/01/introduction-to-rudram-2/, https://sivakameswari.org/the-importance-of-sri-maha-rudram/ — Multiples confirmed: Ekādaśa-rudra (11 Namaka with the 11 Camaka anuvākas), Laghu-rudra 121, Mahā-rudra 1,331, Ati-rudra 14,641.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:04 IST._

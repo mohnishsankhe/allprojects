@@ -14,4 +14,4 @@
 The Punnāṭa monk Jinasena's purāṇa of the Hari lineage (783 CE): the life of the twenty-second Tīrthaṅkara Neminātha and of his cousin Kṛṣṇa (a vāsudeva) and Balarāma, the destruction of Dvārakā and the Pāṇḍavas' renunciation.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

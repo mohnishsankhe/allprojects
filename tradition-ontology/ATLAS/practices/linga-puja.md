@@ -16,4 +16,4 @@ Worship of Śiva in the formless liṅga (including liṅgas made of earth for t
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:linga-purana:1.3.1, tea:siva-purana:1.5.10-13 — ŚiP 1.5.10-13, LiP 1.3.1 located; 'liṅgas made of earth' and the offering details are general and were not located verse by verse. The teachings it rests on were located; tea:siva-purana:1.5.10-13 has a partial or corrected result (see its check).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._

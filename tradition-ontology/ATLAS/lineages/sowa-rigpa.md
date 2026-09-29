@@ -57,4 +57,4 @@ _none recorded_
 _Notes: family 'shared': Buddhist in frame (Medicine Buddha, three poisons), Āyurvedic in much of its content, and also used by Bön physicians with their own origin account (not covered here). Decision in REPORT._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._

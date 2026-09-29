@@ -13,4 +13,4 @@
 - contrasts-with → [The two paths after death (bright and dark)](two-paths-after-death.md): the Upaniṣadic/Gītā paths after death are by knowledge and time of death; horā reads the destination from the chart — rests on [25.15](../texts/brhat-jataka.md#tea-brhat-jataka-25-15), [8.23-26](../texts/bhagavad-gita.md#tea-bhagavad-gita-8-23-26)
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._

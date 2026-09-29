@@ -31,4 +31,4 @@ concepts: [The eight worldly conditions](../concepts/eight-lokadhamma.md) · obs
 _Notes: SuttaCentral uid an8.6; Mahāsaṅgīti title 'Dutiyalokadhammasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

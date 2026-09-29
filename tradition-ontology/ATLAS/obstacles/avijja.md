@@ -14,4 +14,4 @@ Not knowing the four truths; the first link of dependent origination, an effluen
 - partial: [Ignorance (avidyā)](avidya.md) — same word; not the Advaita notion of a cosmic ignorance
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

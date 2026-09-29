@@ -14,4 +14,4 @@ King of the mountains and father of Pārvatī, who asks the Goddess for the yoga
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915) — Asks for yoga with devotion and knowledge ('himālaya uvāca', Devī Gītā 7.32 opening).
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._

@@ -21,4 +21,4 @@
 YS 2.28: by practising the limbs impurity dwindles and the light of knowledge grows up to discriminative discernment (viveka-khyāti); the limbs therefore lead into pth:yoga-sutra-samadhi-ladder. The limbs are not all strictly sequential in the bhāṣya (yama and niyama are kept throughout); the order of the list is the sūtra's.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 22:04 IST._

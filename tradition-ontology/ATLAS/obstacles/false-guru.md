@@ -13,4 +13,4 @@ Gurus who rob disciples of wealth, know only petty spells, or give 'what is othe
   - [Kunzang Lamai Shelung (kun bzang bla ma'i zhal lung, the Words of My Perfect Teacher)](../texts/kunzang-lamai-shelung.md) — ref: 1.6; rests_on: ["tea:kunzang-lamai-shelung:1.6"]
 
 ---
-_Contributed by: skeleton:U24-kali-kaula, skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U24-kali-kaula, skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._

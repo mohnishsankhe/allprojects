@@ -10,4 +10,4 @@
 Soamiji's younger brother, associated with the Soamibagh line.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._

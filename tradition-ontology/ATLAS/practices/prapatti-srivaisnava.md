@@ -26,4 +26,4 @@ Taking refuge, once and for all, at the feet of Nārāyaṇa with Śrī as the s
 - exact: [Taking refuge in the Lord alone (śaraṇāgati)](saranagati.md) — the same six-limbed surrender of the Pāñcarātra (U08)
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:04 IST._

@@ -12,4 +12,4 @@ Reverence toward knowledge, right view, conduct and the worthy, expressed in res
   - [Tattvārthasūtra](../texts/tattvartha-sutra.md) — ref: 9.23; rests_on: ["tea:tattvartha-sutra:9.23"]
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

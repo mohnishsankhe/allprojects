@@ -14,4 +14,4 @@
 Karma Lingpa's treasure cycle of the hundred peaceful and wrathful deities, including the instructions on the six bardos, the signs of death, the purification of the dead and the 'Great Liberation through Hearing'.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._

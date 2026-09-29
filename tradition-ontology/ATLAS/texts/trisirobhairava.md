@@ -13,4 +13,4 @@ A Trika tantra (the 'three-headed Bhairava') cited by Abhinavagupta and Jayarath
 _Notes: Known from citations (e.g. Jayaratha on the Tantrāloka)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._

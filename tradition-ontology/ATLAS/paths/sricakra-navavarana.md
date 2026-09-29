@@ -23,4 +23,4 @@
 The texts present the enclosures as the order of worship (from outer to inner); the Bhāvanā Upaniṣad maps them onto body and mind and makes the centre the non-duality of knower and known. Reading the order as stages of attainment, and the bands, are interpretive (low confidence). Names of the cakras and yoginī classes from memory.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._

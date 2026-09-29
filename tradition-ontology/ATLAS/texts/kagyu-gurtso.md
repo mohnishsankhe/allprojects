@@ -16,4 +16,4 @@ An anthology of vajra songs (mgur) of the Kagyu masters from Vajradhara and Tilo
   - kind: translation; name: Nālandā Translation Committee, The Rain of Wisdom (1980)
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

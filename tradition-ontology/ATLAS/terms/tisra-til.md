@@ -13,4 +13,4 @@
 - partial: [ājñā](ajna.md) — Located at the brow like the ājñā cakra, but Sant Mat places it above the six lower cakras as the door out of the body.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._

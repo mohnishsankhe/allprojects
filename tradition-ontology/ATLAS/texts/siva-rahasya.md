@@ -18,4 +18,4 @@ _Notes: Minimal parent entry created by U06._
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:Muktabodha:shivarahasya_part_1__M00666, https://en.wikipedia.org/wiki/Shivarahasya_Purana — A Śaiva itihāsa in 12 aṃśas, about 100,000 verses, with the Ṛbhu Gītā as the 6th. Part 1 (Ganesh Shastri and Sundaresvara Shastri ed., 1913) is local, so availability could read digitized-original.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._

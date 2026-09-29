@@ -18,4 +18,4 @@ Thinking of Brahman, speaking of it, awakening one another to it and being wholl
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — Rests on tea:moksopaya:3.22.23-26; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._

@@ -11,4 +11,4 @@ The intercalary (adhika) or 'impure' month, in which sacraments, marriages, cons
   - [Kālamādhava (Kālanirṇaya)](../texts/kalamadhava.md) — ref: adhikamāsa section
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._

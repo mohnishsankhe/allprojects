@@ -20,4 +20,4 @@ One (Bhadrakāpya) — not other than water; two (Śākunteya) — eliminating a
 **The traditions' own objections:** Ātreya explicitly denies that alkali and the unmanifest are tastes and that tastes are innumerable.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

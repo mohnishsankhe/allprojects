@@ -16,4 +16,4 @@ No. 42 of the eighty-four siddhas (Tōh 2292 order). King of Oḍḍiyāna (Samb
 _Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292. Homonyms: the king of Oḍḍiyāna who received the Guhyasamāja from the Buddha, the siddha, and the adoptive father of Padmasambhava are distinguished in Tibetan histories; this entry does not settle their identity._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._

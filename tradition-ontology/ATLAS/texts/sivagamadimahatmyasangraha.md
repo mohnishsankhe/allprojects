@@ -16,4 +16,4 @@ Jñānaprakāśa's collection of passages on the greatness and authority of the 
 _Notes: Existence and author as in the Muktabodha catalogue (sources_raw/raw_etexts/mixed/mukta/muktabodha_metadata.json (Muktabodha catalogue descriptions))._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._

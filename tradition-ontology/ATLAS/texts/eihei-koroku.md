@@ -15,4 +15,4 @@
 Dōgen's Chinese-language Dharma-hall discourses, informal talks, verses and kōan comments, compiled by his disciples.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._

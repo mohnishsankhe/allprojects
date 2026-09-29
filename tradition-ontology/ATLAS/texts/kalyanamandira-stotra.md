@@ -15,4 +15,4 @@
 A 44-verse hymn to Pārśvanātha recited daily and used protectively; the Śvetāmbaras ascribe it to Siddhasena Divākara (the hymn said to have made Pārśva's image emerge from the liṅga at Ujjain), the Digambaras to Kumudacandra.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

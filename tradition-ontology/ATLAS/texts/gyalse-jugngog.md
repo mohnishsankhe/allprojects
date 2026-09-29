@@ -16,4 +16,4 @@ Gyaltsab Je's commentary on Śāntideva's Bodhicaryāvatāra.
   - kind: original; name: Tibetan: collected works (gsung 'bum), several xylograph and modern editions
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._

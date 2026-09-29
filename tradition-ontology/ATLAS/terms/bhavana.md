@@ -1,12 +1,13 @@
 # bhāvanā
 
-`trm:bhavana` · `skeleton` · confidence high
+`trm:bhavana` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Native script:** भावना
-**Literal:** cultivation, causing to be
+**Literal:** contemplation
 
 ## Definitions by tradition
+- [Jainism (Jaina dharma)](../lineages/jainism.md): Five contemplations for each vow, for its steadiness (7.3-7.8).
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): Cultivation: of the meaning of the praṇava (1.28), of the four attitudes (1.33), of the opposites of harmful thoughts (2.33); Vyāsa: equanimity toward the wicked is not a cultivation (YBh 3.23).
 - [Bhāṭṭa Mīmāṃsā](../lineages/bhatta-mimamsa.md): The operation of the one who brings about, expressed by the verbal suffix: verbal (śābdī) bhāvanā — the prompting power of the injunctive — and objective (ārthī) bhāvanā — the person's activity toward the result; each expects what (sādhya), by what (karaṇa) and how (itikartavyatā).
 - [Śrīvidyā](../lineages/srividya.md): Contemplative identification: the body as Śrīcakra and worship as non-difference (Bhāvanā Upaniṣad); its firmness brings the power of command (PKS 1.13); the Goddess is 'reached by bhāvanā' (LSN 41).
@@ -31,4 +32,8 @@
 _Notes: Shared slug with the Sanskrit term; this is the early-Buddhist contribution._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U12-mimamsa, skeleton:U23-sakta-srividya, skeleton:U36-pali-suttas, skeleton:U07-puranas, skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U35-jain-philosophy, skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:tattvartha-sutra:7.3, tea:tattvartha-sutra:7.4, tea:tattvartha-sutra:7.5, tea:tattvartha-sutra:7.6, tea:tattvartha-sutra:7.7, tea:tattvartha-sutra:7.8 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
+
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U10-yoga, skeleton:U12-mimamsa, skeleton:U23-sakta-srividya, skeleton:U36-pali-suttas, skeleton:U07-puranas, skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U35-jain-philosophy, skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

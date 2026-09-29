@@ -36,4 +36,4 @@ _Notes: Scholarly note (metadata only): most modern scholars treat the Vāyu as 
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 3.6.21, local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 12.7.23; 12.13.4, local:sources_raw/raw_etexts/purANam/mAdhva-app/matsya-purANam.md (chs. 1-1 — All cited refs located: VP 3.6.21 and BhP 12.7.23 ('śaiva'), BhP 12.13.4 (Śaiva 24,000), Matsya 53.18 (Vāyavīya with Rudra's glory, 24,000), Nārada 1.95 (the Vāyu anukramaṇī, fourth), KūP 1.1.13-15. The Devī Bhāgavata list (1.3.3-12, local) also counts the Vāyu (24,600).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._

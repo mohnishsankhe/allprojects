@@ -27,4 +27,4 @@ terms: [padārtha](../terms/padartha.md), [abhāva](../terms/abhava.md) · conce
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._

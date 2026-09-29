@@ -25,4 +25,4 @@ practices: [The dog-vow and the cow-vow](../practices/kukkuravata-govata.md)
 _Notes: Section numbers follow SuttaCentral (bilara) segmentation; checked against the local e-text._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:04 IST._

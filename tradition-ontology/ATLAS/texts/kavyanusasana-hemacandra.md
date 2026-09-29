@@ -14,4 +14,4 @@
 Hemacandra's Jain manual of poetics with his own commentaries (Alaṅkāracūḍāmaṇi, Viveka), largely following Mammaṭa and Abhinavagupta on rasa.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._

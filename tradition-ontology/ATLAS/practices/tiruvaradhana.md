@@ -11,4 +11,4 @@ Worship of the Lord's image (arcā) at home each day, with purification, meditat
   - [Nityagrantha](../texts/nityagrantha.md) — ref: 1; rests_on: ["tea:nityagrantha:1"]
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:04 IST._

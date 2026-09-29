@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [The temple as the deity's body](temple-as-body.md): both treat a sacred whole as the Lord's body
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._

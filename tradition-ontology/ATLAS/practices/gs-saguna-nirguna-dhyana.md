@@ -12,4 +12,4 @@ With the gaze at the nose-tip, meditating on the centres in their colours (with 
 **Sequences:** [The six-limbed yoga of the Gorakṣaśataka](../paths/goraksasataka-six-limbs.md)
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._

@@ -12,4 +12,4 @@ A Sanskrit ritual manual (paddhati) of Vīraśaiva worship containing a complete
   - kind: original; name: Muktabodha digital library e-text M00604, M00605
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._

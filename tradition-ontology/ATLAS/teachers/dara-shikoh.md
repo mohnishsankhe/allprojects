@@ -15,4 +15,4 @@ Mughal prince (1615–1659) who with pandits translated some fifty Upaniṣads i
 
 - 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Sirr-i-Akbar, https://prepp.in/question/which-mughal-prince-translated-the-upanishads-into-persian-in-1657-645d3073e8610180957f42b1 — Confirmed: Mughal prince (1615-1659) who translated about fifty Upaniṣads into Persian (Sirr-i Akbar, 1657).
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 22:04 IST._

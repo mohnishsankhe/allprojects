@@ -80,4 +80,4 @@ teachers: [Śiva](../teachers/siva.md)
 
 - 2026-09-29 catalog+websearch: confirmed — local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), https://www.wisdomlib.org/hinduism/essay/shiva-gita-study, https://sandeepa.in/2022/03/17/siva-gita-chapter-3-instruction-on-viraja-vow-slokas-1-slokas-37-uttara-khanda-padma-purana/ — 16 chapters verified; colophons of chs. 1, 3, 4 and 5 read 'śrīpadmapurāṇe (uparibhāge) śivagītāsu'. Content checked for chs. 1, 3, 7, 8-11, 13-16 (see the teaching checks). Printed and online versions place it in the Padma Purāṇa's Uttarakhaṇḍa, a Śiva-Rāma dialogue in the Daṇḍaka forest. No scholarly date was found.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._

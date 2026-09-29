@@ -24,4 +24,4 @@ _Notes: Also credited (traditional) with Śākta works (Subhagodaya, Śrīvidyā
 
 - 2026-09-29 websearch: confirmed — https://archive.org/details/UttaraGitaWithCommentary, https://www.wisdomlib.org/definition/uttaragita — Of eight commentary manuscripts on the Uttara Gītā, five are ascribed to Gauḍapāda; identity with the Kārikā author is doubtful, as the entry says.
 
-_Contributed by: skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._

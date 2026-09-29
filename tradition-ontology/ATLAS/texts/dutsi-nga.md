@@ -16,4 +16,4 @@ A short text of the nectar (bdud rtsi, enlightened qualities) class of the Eight
 _Notes: Existence and title local (catalog:Derge-Kangyur:D841); the assignment to the Eight Herukas (bka' brgyad) is the unit's reading from memory of the Nyingma classification._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._

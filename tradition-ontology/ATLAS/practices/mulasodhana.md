@@ -16,4 +16,4 @@ The anus is washed with water again and again, using a stalk of turmeric or the 
 - partial: [Cakrī (the 'wheel' act)](cakri-karma.md) — Both cleanse the anus with the finger; the Haṭharatnāvalī names its act cakrī.
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._

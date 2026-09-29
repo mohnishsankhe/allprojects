@@ -29,4 +29,4 @@ The Dharamdāsī Kabīr Panth locates authority in a hereditary line of forty-tw
 _Notes: Details of the Agra lines' positions are recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._

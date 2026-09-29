@@ -1,12 +1,13 @@
 # āsrava
 
-`trm:asrava` · `skeleton` · confidence high
+`trm:asrava` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Native script:** आस्रव
-**Literal:** outflow, influx
+**Literal:** inflow
 
 ## Definitions by tradition
+- [Jainism (Jaina dharma)](../lineages/jainism.md): Activity (yoga) of body, speech and mind; auspicious for merit and inauspicious for demerit (6.1-6.3); with passions it is sāmparāyika, without passions īryāpatha (6.4; the commentators explain these as lasting and transient).
 - [Sarvāstivāda](../lineages/sarvastivada.md): Outflow: in the Kośa's list three — of desire, of existence and of ignorance; so called because they make beings stay in saṃsāra and flow out through the six wounds of the senses.
 - [Jainism (Jaina dharma)](../lineages/jainism.md): The influx of karmic matter into the soul through the activity (yoga) of body, speech and mind (TS 6.1–2).
 
@@ -21,4 +22,8 @@
 **Related:** [ogha](ogha.md), [anusaya](anusaya.md), [yoga](yoga.md), [saṃvara](samvara.md)
 
 ---
-_Contributed by: skeleton:U38-early-schools, skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+**Verification checks**
+
+- 2026-09-29 text: corrected — tea:tattvartha-sutra:6.1, tea:tattvartha-sutra:6.2, tea:tattvartha-sutra:6.3, tea:tattvartha-sutra:6.4 — Corrected by J: Definition: "lasting/transient" replaced by the sūtra's own terms sāmparāyika/īryāpatha (the glosses are the commentators').
+
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U38-early-schools, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

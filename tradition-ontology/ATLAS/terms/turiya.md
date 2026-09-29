@@ -23,4 +23,4 @@
 _Notes: The Māṇḍūkya Upaniṣad's turīya (the fourth state) is contributed by U03; any link between the two is interpretive and not asserted here._
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U01-vedic-samhitas, skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U23-sakta-srividya, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U01-vedic-samhitas, skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U23-sakta-srividya, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-29 22:04 IST._

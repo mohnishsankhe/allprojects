@@ -31,4 +31,4 @@ Rejected even conventionally: mind does not see mind, as a sword's edge does not
 **Candidate readings:** P1-level: self-awareness as conventional description only, never ultimately (Śāntarakṣita).; P2-standpoint: epistemological (pramāṇa) standpoint vs. soteriological analysis of the self.; P6-upaya: accepted as a device for refuting external objects, then discarded.
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._

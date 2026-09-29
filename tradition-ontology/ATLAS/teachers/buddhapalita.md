@@ -17,4 +17,4 @@ Commentator on the Mūlamadhyamakakārikā whose method of drawing out the oppon
 _Notes: Tāranātha details from memory, low confidence._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._

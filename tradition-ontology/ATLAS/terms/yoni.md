@@ -22,4 +22,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.22, tea:bhagavad-gita:14.3, tea:bhagavad-gita:14.4, tea:bhagavad-gita:14.15 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U24-kali-kaula, extraction:bhagavad-gita/ch13-15, skeleton:U23-sakta-srividya. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U24-kali-kaula, extraction:bhagavad-gita/ch13-15, skeleton:U23-sakta-srividya. Generated 2026-09-29 22:04 IST._

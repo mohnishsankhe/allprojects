@@ -25,4 +25,4 @@
 Later scholastic tradition (Chinese: 'three wise and four good roots'; Tibetan: the five paths) groups stages 1–5 as the accumulation/preparation phases. Bands are the interpretation layer (see interpretation_log).
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._

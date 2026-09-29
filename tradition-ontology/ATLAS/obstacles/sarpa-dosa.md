@@ -12,4 +12,4 @@ In the Kerala tradition, affliction traced to harming serpents or neglecting the
   - [Praśnamārga](../texts/prasna-marga.md) — ref: later chapters; rests_on: ["tea:prasna-marga:15"]
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._

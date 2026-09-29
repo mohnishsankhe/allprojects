@@ -10,4 +10,4 @@
 Śiva as 'Great Time', Kālī's consort in the Kālīkula (Toḍala 1.3); speaker of the Karpūrādistotra and revealer of Kālī tantras in the tradition's account.
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:04 IST._

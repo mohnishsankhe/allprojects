@@ -16,4 +16,4 @@
 _Notes: The number 75 is a later (East Asian / Tibetan scholastic) count from the Kośa; the Kośa itself does not state the total._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._

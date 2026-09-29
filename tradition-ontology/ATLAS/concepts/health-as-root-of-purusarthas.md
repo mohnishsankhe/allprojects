@@ -13,4 +13,4 @@
 - contrasts-with → [Liberation in life in a stable body (Rasa)](jivanmukti-rasa.md): Rasa Śāstra makes the undecaying body itself the condition of liberation — rests on [1.24-29](../texts/rasahrdayatantra.md#tea-rasahrdayatantra-1-24-29)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

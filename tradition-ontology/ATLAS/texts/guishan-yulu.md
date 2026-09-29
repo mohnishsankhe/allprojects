@@ -31,4 +31,4 @@ terms: [dunwu (sudden awakening)](../terms/dunwu.md), [jianxiu (gradual cultivat
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._

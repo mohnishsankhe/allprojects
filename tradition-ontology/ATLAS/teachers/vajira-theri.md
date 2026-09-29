@@ -8,4 +8,4 @@
 A nun who answered Māra with the chariot simile: 'a being' is a convention for the heap of aggregates (SN 5.10).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

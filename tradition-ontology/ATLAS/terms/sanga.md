@@ -22,4 +22,4 @@
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.10, tea:bhagavad-gita:13.22, tea:bhagavad-gita:14.6, tea:bhagavad-gita:14.7, tea:bhagavad-gita:15.3, tea:bhagavad-gita:15.5, tea:bhagavad-gita:15.4 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.20, tea:bhagavad-gita:4.23, tea:bhagavad-gita:5.10, tea:bhagavad-gita:5.11 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 22:04 IST._

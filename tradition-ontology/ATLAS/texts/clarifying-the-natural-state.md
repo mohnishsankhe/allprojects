@@ -18,4 +18,4 @@ Dakpo Tashi Namgyal's concise guidance manual of Mahāmudrā (preliminaries, śa
 _Notes: Tibetan title not certain._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

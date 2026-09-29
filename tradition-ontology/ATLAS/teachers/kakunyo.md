@@ -15,4 +15,4 @@
 Shinran's great-grandson who made the Ōtani mausoleum into the temple Honganji and claimed for it the orthodox transmission (Shinran–Nyoshin–Kakunyo); author of the Godenshō.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._

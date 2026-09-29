@@ -17,4 +17,4 @@
 **Related:** [vajrasattva](vajrasattva.md), [ādibuddha](adibuddha.md)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U46-kagyu, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U46-kagyu, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._

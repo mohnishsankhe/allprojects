@@ -23,4 +23,4 @@
 **Related:** [manonmanī](manonmani.md), [amanaska](amanaska.md)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads, skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads, skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._

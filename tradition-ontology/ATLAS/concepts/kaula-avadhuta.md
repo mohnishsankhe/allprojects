@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The avadhūta](avadhuta.md) (Kaula) — rests on [8.221](../texts/mahanirvana-tantra.md#tea-mahanirvana-tantra-8-221)
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:04 IST._

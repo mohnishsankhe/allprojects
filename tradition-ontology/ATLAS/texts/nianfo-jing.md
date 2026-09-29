@@ -19,4 +19,4 @@ A Tang anthology arguing the superiority of recollecting the Buddha over other p
 _Notes: Header read locally; content summary low confidence._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._

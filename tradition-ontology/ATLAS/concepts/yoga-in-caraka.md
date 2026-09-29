@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [Yoga as the stilling of the mind's activities (citta-vṛtti-nirodha)](yoga-as-nirodha.md): Patañjali's definition of yoga; Caraka defines it by the cessation of feeling — rests on [sa.1.137-139](../texts/caraka-samhita.md#tea-caraka-samhita-sa-1-137-139)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

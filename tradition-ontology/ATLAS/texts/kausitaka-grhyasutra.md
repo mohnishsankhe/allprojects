@@ -15,4 +15,4 @@ A domestic-rite manual of the Kauṣītaki Ṛgvedins.
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Kauṣītakagṛhyasūtra, catalog:raw_etexts:kaushitaka_grihya_sutra, catalog:eBharati:kauShItakagRhyasUtram — Low-confidence entry confirmed as extant (DCS, raw_etexts, eBhāratī).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

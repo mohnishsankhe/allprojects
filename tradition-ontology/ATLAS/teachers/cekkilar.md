@@ -14,4 +14,4 @@ Minister of the Cōḻa king Kulōttuṅka II (Anapāyaṉ), author of the Periy
 **Realization — the tradition's account:** Seeing the king delight in the Jain epic Cīvakacintāmaṇi, he turned him to the lives of Śiva's devotees; at Chidambaram Śiva gave him the first word 'ulakelām' and he completed the work in a year.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._

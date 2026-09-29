@@ -18,4 +18,4 @@ A hymn to the dharma-realm ascribed to Nāgārjuna: the buddha-element present i
   - kind: translation; name: Chinese: Zan fajie song 讚法界頌, T1675 — catalog:CBETA:T32n1675
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._

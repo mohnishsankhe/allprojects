@@ -16,4 +16,4 @@ Gāgā Bhaṭṭa's Bhāṭṭa treatise on Mīmāṃsā topics, written in a Na
   - kind: original; name: digital text (Karnataka Samskrit University contribution); licence: unknown
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:04 IST._

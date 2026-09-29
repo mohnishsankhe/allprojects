@@ -13,4 +13,4 @@ A Bengali poem of the Gopīcandra cycle on the king's renunciation under Hāḍi
 _Notes: Author recalled as Śukur Mahammad (uncertain); left out of 'authors' until sourced._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._

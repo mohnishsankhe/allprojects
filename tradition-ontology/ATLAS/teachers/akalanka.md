@@ -18,4 +18,4 @@ Digambara logician who gave Jain epistemology its classical form (the convention
 **Realization — the tradition's account:** Victory in debate over the Buddhists at Kāñcī, where Tārā spoke from behind a curtain until he exposed her (legend).
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

@@ -12,4 +12,4 @@ Aghora ascetic of Varanasi, guru of Kīnārām, regarded in the tradition as Dat
 **Realization — the tradition's account:** A form of Dattātreya (tradition).
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:04 IST._

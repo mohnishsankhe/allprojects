@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The three natures (sūtra layer)](three-natures.md) (Yogācāra): emptiness is the perfected nature — rests on [25](../texts/trimsika.md#tea-trimsika-25)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._

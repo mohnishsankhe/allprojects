@@ -14,4 +14,4 @@ The worship of Tārā/Nīlasarasvatī according to the Mahācīna mode taught to
 - The Buddha's instruction begins with purity, the paśu disposition, solitude, restraint and breath-yoga. — [Rudrayāmala (Uttaratantra)](../texts/rudrayamala.md) 17.136-140
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:04 IST._

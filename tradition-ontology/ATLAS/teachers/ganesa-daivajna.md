@@ -12,4 +12,4 @@
 Son and pupil of Keśava, of Nandigrāma; author of the Grahalāghava (1520), the basis of many almanacs.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._

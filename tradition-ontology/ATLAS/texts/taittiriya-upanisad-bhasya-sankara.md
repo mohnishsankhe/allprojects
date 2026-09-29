@@ -32,8 +32,8 @@ The five sheaths are taught progressively, each inner one presented as the self 
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: body-layers, ultimate_
 
-terms: [pañcakośa](../terms/pancakosa.md) · concepts: [The five sheaths (pañca-kośa)](../concepts/five-sheaths.md), [Superimposition and retraction (adhyāropa-apavāda)](../concepts/adhyaropa-apavada.md), [The method of pointing out Arundhatī (arundhatī-nyāya)](../concepts/arundhati-method.md) · practices: [Discrimination of the five sheaths (pañca-kośa-viveka)](../practices/panca-kosa-viveka.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md)
+terms: [pañcakośa](../terms/pancakosa.md) · concepts: [The five sheaths (pañca-kośa) as defined in Taittirīya Upaniṣad 2.1-2.5](../concepts/five-sheaths.md), [Superimposition and retraction (adhyāropa-apavāda)](../concepts/adhyaropa-apavada.md), [The method of pointing out Arundhatī (arundhatī-nyāya)](../concepts/arundhati-method.md) · practices: [Discrimination of the five sheaths (pañca-kośa-viveka)](../practices/panca-kosa-viveka.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md)
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._

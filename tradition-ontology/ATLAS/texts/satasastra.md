@@ -18,4 +18,4 @@ The 'Hundred Treatise' ascribed to Āryadeva, with the commentary of Vasu, trans
   - kind: translation; name: Taishō T1569 — catalog:CBETA:T30n1569
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._

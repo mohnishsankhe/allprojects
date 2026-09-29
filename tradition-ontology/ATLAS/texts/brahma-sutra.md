@@ -86,7 +86,7 @@ The one consisting of bliss (ānandamaya) (is the supreme self), because of repe
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: ultimate, body-layers_
 
-terms: [ānandamaya-kośa](../terms/anandamaya-kosa.md) · concepts: [The five sheaths (pañca-kośa)](../concepts/five-sheaths.md) · disputes: [Is 'the one consisting of bliss' (ānandamaya, TU 2.5; BS 1.1.12) the supreme Brahman or a sheath?](../debates/is-anandamaya-brahman.md)
+terms: [ānandamaya-kośa](../terms/anandamaya-kosa.md) · concepts: [The five sheaths (pañca-kośa) as defined in Taittirīya Upaniṣad 2.1-2.5](../concepts/five-sheaths.md) · disputes: [Is 'the one consisting of bliss' (ānandamaya, TU 2.5; BS 1.1.12) the supreme Brahman or a sheath?](../debates/is-anandamaya-brahman.md)
 
 ### 1.3.8 <a id="tea-brahma-sutra-1-3-8"></a>
 `skeleton` · confidence moderate
@@ -1242,4 +1242,4 @@ terms: [mokṣa](../terms/moksa.md) · concepts: [Liberation (mokṣa) in Advait
 _Notes: Pāda themes (per Śaṅkara): 1.1 texts with clear marks of Brahman; 1.2 unclear marks, Brahman as object of meditation; 1.3 unclear marks, Brahman as object of knowledge; 1.4 doubtful words (avyakta, ajā) claimed by Sāṃkhya; 2.1 objections from smṛti (Sāṃkhya, Yoga) and reason answered; 2.2 critique of Sāṃkhya, Vaiśeṣika, Buddhists, Jains, Pāśupatas and (per Śaṅkara) Pāñcarātra; 2.3 creation of the elements and nature of the jīva; 2.4 the prāṇas; 3.1 transmigration (for dispassion); 3.2 the states of the self and the nature of Brahman; 3.3 combination of meditations; 3.4 auxiliaries of knowledge and the āśramas; 4.1 repetition and the effects of knowledge; 4.2 departure at death; 4.3 the path of the gods; 4.4 the liberated state. All sūtra numbers in this shard follow Śaṅkara's numbering._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._

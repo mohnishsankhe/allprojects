@@ -12,4 +12,4 @@
 A woman śaraṇa remembered as a sweeper, whose vacanas affirm devotion over outward observance.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._

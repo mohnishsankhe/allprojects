@@ -18,4 +18,4 @@ A verse treatise ascribed to Nāgārjuna explaining the awakening mind in its ul
   - kind: translation; name: Tibetan translation, Derge Tengyur D1801 (second version) — catalog:Derge-Tengyur:D1801
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._

@@ -160,4 +160,4 @@ _Notes: Ācārakāṇḍa 1.142: the ten avatāras; 1.235-239 (approx.): brahma-
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL:garuDapurANa, catalog:DCS:Garuḍapurāṇa, local:sources_raw/dcs/corpus/GRETIL/sa_garuDapurANa.txt (Venkateshwara ed.), https://en.wikipedia.org/wiki/Garuda_Purana — Extant and digitized (GRETIL/Sansknet Venkateshwara text with exactly 240 + 49 + 29 chapters; eBhārati; peterFreund; DCS). Web: surviving versions c. 800-1000 CE with later sections; Pretakhaṇḍa; Brahmakāṇḍa as a Mādhva section of the Venkateshwara edition. 19,000 (BhP 12.13.8; Matsya 53.53-54) confirmed. The transmission 'through Kaśyapa and the sages' was not checked.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._

@@ -43,4 +43,4 @@ terms: [marma](../terms/marma.md) · practices: [Withdrawal through the eighteen
 _Notes: Distinct from the Yoga Vāsiṣṭha (src:yoga-vasistha). Chapter structure not recalled: low confidence._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._

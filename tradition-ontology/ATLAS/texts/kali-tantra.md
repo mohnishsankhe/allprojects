@@ -13,4 +13,4 @@ An eastern Kālī tantra on the worship of Dakṣiṇakālī; its meditation ver
 _Notes: Printed in Bengal (19th c.); not in the local corpus. Chapter structure not recalled. Its meditation verse is recorded as quoted: tea:tantrasara-krsnananda:2.syama-dhyana._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:04 IST._

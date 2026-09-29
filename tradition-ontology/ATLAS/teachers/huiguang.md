@@ -11,4 +11,4 @@
 Chinese Vinaya and Dilun master, founder of the southern branch of the Dilun school.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._

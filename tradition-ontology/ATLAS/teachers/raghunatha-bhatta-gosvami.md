@@ -9,4 +9,4 @@
 Son of Tapana Miśra of Vārāṇasī; lived in Vṛndāvana as a sweet-voiced reciter of the Bhāgavata; wrote no treatise (tradition).
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._

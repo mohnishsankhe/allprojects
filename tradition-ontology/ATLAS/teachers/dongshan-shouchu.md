@@ -10,4 +10,4 @@
 Heir of Yunmen; answered 'three pounds of flax' to 'what is buddha?' (Biyan lu 12; Wumenguan 18). Distinct from Dongshan Liangjie.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._

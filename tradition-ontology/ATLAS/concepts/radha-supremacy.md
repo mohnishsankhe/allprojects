@@ -13,4 +13,4 @@
 - contrasts-with → [Rādhā as Kṛṣṇa's pleasure-power and supreme devotee](radha-hladini-sakti.md): Gauḍīya theology makes Rādhā Kṛṣṇa's bliss-power; the Rādhāvallabhīs make her the supreme object of worship with Kṛṣṇa as her devotee — rests on [1](../texts/radha-sudhanidhi.md#tea-radha-sudhanidhi-1)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._

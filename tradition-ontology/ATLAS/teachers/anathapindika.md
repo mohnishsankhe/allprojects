@@ -11,4 +11,4 @@ The merchant Sudatta of Sāvatthī who bought Jeta's Grove for the Saṅgha; for
 _Notes: AN 1 Etadaggavagga (the 'foremost' lists)_
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

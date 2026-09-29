@@ -10,4 +10,4 @@
 Physician to the Thirteenth Dalai Lama and first head of the Mentsikhang (institute of medicine and astrology) founded in Lhasa in 1916.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._

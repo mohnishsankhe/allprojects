@@ -46,4 +46,4 @@ concepts: [The four siddhāntas of the Pāñcarātra](../concepts/four-siddhanta
 _Notes: eBhāratī e-text consulted locally (padmasaMhitA.md)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._

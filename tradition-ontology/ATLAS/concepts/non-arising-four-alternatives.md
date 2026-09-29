@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [Non-origination (ajātivāda)](ajativada.md): Gauḍapāda's non-origination uses the same fourfold negation; the grounds differ (unborn Brahman vs. emptiness) — rests on [1.1](../texts/mulamadhyamakakarika.md#tea-mulamadhyamakakarika-1-1)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._

@@ -16,4 +16,4 @@
 _Notes: Its sense 'meaning' (of a word) is used in the Vedāṅgas (Nirukta 2.1: 'attend always to the meaning')._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

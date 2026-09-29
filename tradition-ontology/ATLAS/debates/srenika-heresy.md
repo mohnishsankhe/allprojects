@@ -27,4 +27,4 @@ Dōgen: body and mind are one, nature and form are not two; the Śreṇika view 
 **Queue:** RQ-U42-srenika
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._

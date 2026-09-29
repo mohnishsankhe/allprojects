@@ -16,4 +16,4 @@ RESTRICTED. A secret, guru-given practice of the couple and of the body's substa
 - The practice is secret and must not be revealed to the unqualified. — [Bāul gān (the corpus of Bāul songs of other masters)](../texts/baul-gan.md) 
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:04 IST._

@@ -13,4 +13,4 @@
 - contrasts-with → [Īśvara (the Lord)](isvara.md): the Nyingma deny a creator god; the 'all-creator' is awareness — rests on [4](../texts/kunjed-gyalpo.md#tea-kunjed-gyalpo-4)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._

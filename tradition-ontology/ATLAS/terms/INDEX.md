@@ -1,6 +1,6 @@
-# Terms (4799)
+# Terms (4809)
 
-skeleton: 4719 · sourced: 80
+skeleton: 4672 · sourced: 137
 
 - ['byor byed (bad kan)](jorje-beken.md) — `skeleton`
 - ['byung ba lnga](jungwa-nga.md) — `skeleton`
@@ -222,7 +222,7 @@ skeleton: 4719 · sourced: 80
 - [anadhyāya](anadhyaya.md) — `skeleton`
 - [anaiśvarya](anaisvarya.md) — `skeleton`
 - [ananta-catuṣṭaya](ananta-catustaya.md) — `skeleton`
-- [anantānubandhin](anantanubandhin.md) — `skeleton`
+- [anantānubandhin](anantanubandhin.md) — `sourced`
 - [ananya-bhakti](ananya-bhakti.md) — `skeleton`
 - [ananya-prayojana](ananya-prayojana.md) — `skeleton`
 - [ananyagatitva](ananyagatitva.md) — `skeleton`
@@ -254,7 +254,7 @@ skeleton: 4719 · sourced: 80
 - [anivṛtāvyākṛta](anivrtavyakrta.md) — `skeleton`
 - [aniyata](aniyata-vinaya.md) — `skeleton`
 - [anjin](anjin.md) — `skeleton`
-- [annamaya (annarasamaya)](annamaya.md) — `skeleton`
+- [annamaya](annamaya.md) — `sourced`
 - [annamaya-kośa](annamaya-kosa.md) — `skeleton`
 - [anottappa](anottappa.md) — `skeleton`
 - [antakāla](antakala.md) — `skeleton`
@@ -268,7 +268,7 @@ skeleton: 4719 · sourced: 80
 - [antarābhava](antarabhava.md) — `skeleton`
 - [antarātman](antaratman.md) — `skeleton`
 - [antarāya](antaraya.md) — `skeleton`
-- [antarāya-karma](antaraya-karma.md) — `skeleton`
+- [antarāya](antaraya-karma.md) — `sourced`
 - [antaḥkaraṇa](antahkarana.md) — `skeleton`
 - [antima-smṛti](antima-smrti.md) — `skeleton`
 - [antyeṣṭi](antyesti.md) — `skeleton`
@@ -277,7 +277,7 @@ skeleton: 4719 · sourced: 80
 - [anubandha-catuṣṭaya](anubandha-catustaya.md) — `skeleton`
 - [anubhava](anubhava.md) — `skeleton`
 - [Anubhava Maṇṭapa](anubhava-mantapa.md) — `skeleton`
-- [anubhāga-bandha](anubhaga-bandha.md) — `skeleton`
+- [anubhava-bandha](anubhaga-bandha.md) — `sourced`
 - [anubhāva](anubhava-alankara.md) — `skeleton`
 - [anubhūti](anubhuti.md) — `skeleton`
 - [anudātta](anudatta.md) — `skeleton`
@@ -374,7 +374,7 @@ skeleton: 4719 · sourced: 80
 - [apratisaṃkhyānirodha](apratisamkhyanirodha.md) — `skeleton`
 - [apratiṣṭhita-citta](apratisthita-citta.md) — `skeleton`
 - [apratiṣṭhita-nirvāṇa](apratisthita-nirvana.md) — `skeleton`
-- [apratyākhyānāvaraṇa](apratyakhyanavarana.md) — `skeleton`
+- [apratyākhyāna](apratyakhyanavarana.md) — `sourced`
 - [aprākṛta](aprakrta.md) — `skeleton`
 - [aprāpti](aprapti.md) — `skeleton`
 - [apunarbandhaka](apunarbandhaka.md) — `skeleton`
@@ -470,12 +470,12 @@ skeleton: 4719 · sourced: 80
 - [atyāśrama](atyasrama.md) — `skeleton`
 - [atyāśramin](atyasramin.md) — `skeleton`
 - [aucitya](aucitya.md) — `skeleton`
-- [audayika](audayika.md) — `skeleton`
+- [audayika](audayika.md) — `sourced`
 - [auddhatya](auddhatya.md) — `skeleton`
 - [audārika-śarīra](audarika-sarira.md) — `skeleton`
 - [audāsīnya](audasinya.md) — `skeleton`
 - [aughaṛ (oghaṛ)](aughar.md) — `skeleton`
-- [aupaśamika](aupasamika.md) — `skeleton`
+- [aupaśamika](aupasamika.md) — `sourced`
 - [aupādhika-bhedābheda](aupadhika-bhedabheda.md) — `skeleton`
 - [autpattika-sambandha](autpattika-sambandha.md) — `skeleton`
 - [avaccheda](avaccheda.md) — `skeleton`
@@ -558,7 +558,7 @@ skeleton: 4719 · sourced: 80
 - [aṇu (Ājīvaka)](anu-ajivika.md) — `skeleton`
 - [aṇu / aṇīyān](anu.md) — `skeleton`
 - [aṇutva](anutva.md) — `skeleton`
-- [aṇuvrata](anuvrata.md) — `skeleton`
+- [aṇuvrata](anuvrata.md) — `sourced`
 - [aṇṭam–piṇṭam](anda-pinda.md) — `skeleton`
 - [aṉpu](anpu.md) — `skeleton`
 - [aṉupāṉam](anupanam.md) — `skeleton`
@@ -593,7 +593,7 @@ skeleton: 4719 · sourced: 80
 - [bala](bala.md) — `skeleton`
 - [bali](bali.md) — `skeleton`
 - [balā dṛṣṭi](bala-drsti.md) — `skeleton`
-- [bandha](bandha.md) — `skeleton`
+- [bandha](bandha.md) — `sourced`
 - [bandhu](bandhu.md) — `skeleton`
 - [bang (the staff, blow)](bang.md) — `skeleton`
 - [baotu](baotu.md) — `skeleton`
@@ -679,6 +679,7 @@ skeleton: 4719 · sourced: 80
 - [bhogopabhoga-parimāṇa](bhogopabhoga-parimana.md) — `skeleton`
 - [bhogāyatana](bhogayatana.md) — `skeleton`
 - [bhojakatva](bhojakatva.md) — `skeleton`
+- [bhoktṛ](bhokta.md) — `sourced`
 - [bhoktṛ](bhoktr.md) — `skeleton`
 - [bhrama (bhram)](bhrama.md) — `skeleton`
 - [bhrājaka pitta](bhrajaka-pitta.md) — `skeleton`
@@ -694,6 +695,7 @@ skeleton: 4719 · sourced: 80
 - [bhāonā](bhaona.md) — `skeleton`
 - [bhārahāra](bharahara.md) — `skeleton`
 - [bhāratavarṣa](bharatavarsa.md) — `skeleton`
+- [bhārgavī vāruṇī vidyā](bhargavi-varuni-vidya.md) — `sourced`
 - [bhāruḍ](bharud.md) — `skeleton`
 - [bhāva](bhava.md) — `skeleton`
 - [bhāva (house)](bhava-jyotisa.md) — `skeleton`
@@ -702,7 +704,7 @@ skeleton: 4719 · sourced: 80
 - [bhāva-bhakti](bhava-bhakti.md) — `skeleton`
 - [bhāvakatva](bhavakatva.md) — `skeleton`
 - [bhāvaliṅga](bhavalinga.md) — `skeleton`
-- [bhāvanā](bhavana.md) — `skeleton`
+- [bhāvanā](bhavana.md) — `sourced`
 - [bhāvanā-mārga](bhavana-marga.md) — `skeleton`
 - [bhāvanāheya](bhavanaheya.md) — `skeleton`
 - [bhāvanāmārga](bhavanamarga.md) — `skeleton`
@@ -932,6 +934,7 @@ skeleton: 4719 · sourced: 80
 - [cittotpāda](cittotpada.md) — `skeleton`
 - [cittākāśa](cittakasa.md) — `skeleton`
 - [cittānupassanā](cittanupassana.md) — `sourced`
+- [cittāvaraṇa](cittavarana.md) — `sourced`
 - [citśakti](cit-sakti.md) — `skeleton`
 - [civam](civam.md) — `skeleton`
 - [codanā](codana.md) — `skeleton`
@@ -989,7 +992,7 @@ skeleton: 4719 · sourced: 80
 - [darśana-samānākāra](darsana-samanakara.md) — `skeleton`
 - [darśanaheya](darsanaheya.md) — `skeleton`
 - [darśanamārga](darsanamarga.md) — `skeleton`
-- [darśanāvaraṇīya](darsanavaraniya.md) — `skeleton`
+- [darśanāvaraṇa](darsanavaraniya.md) — `sourced`
 - [darśanī](darsani.md) — `skeleton`
 - [Das Lakṣaṇa (Daśalakṣaṇa Parva)](das-laksana.md) — `skeleton`
 - [daurmanasya](daurmanasya.md) — `skeleton`
@@ -1289,7 +1292,7 @@ skeleton: 4719 · sourced: 80
 - [gorakh-dhandhā](gorakh-dhandha.md) — `skeleton`
 - [goshō no ichidaiji](gosho-no-ichidaiji.md) — `skeleton`
 - [gotra](gotra.md) — `skeleton`
-- [gotra-karma](gotra-karma.md) — `skeleton`
+- [gotra](gotra-karma.md) — `sourced`
 - [gotrabhū](gotrabhu.md) — `skeleton`
 - [graha](graha.md) — `skeleton`
 - [grahayajña (grahamakha)](grahayajna.md) — `skeleton`
@@ -1506,7 +1509,7 @@ skeleton: 4719 · sourced: 80
 - [jñānaśakti](jnanasakti.md) — `skeleton`
 - [jñānin](jnanin.md) — `skeleton`
 - [jñānāgni](jnanagni.md) — `skeleton`
-- [jñānāvaraṇīya](jnanavaraniya.md) — `skeleton`
+- [jñānāvaraṇa](jnanavaraniya.md) — `sourced`
 - [jñātatā](jnatata.md) — `skeleton`
 - [jñāyaka-bhāva](jnayaka-bhava.md) — `skeleton`
 - [jāgarita / jāgrat](jagrat.md) — `skeleton`
@@ -1609,7 +1612,6 @@ skeleton: 4719 · sourced: 80
 - [kartā](karta.md) — `skeleton`
 - [kartṛ](kartr.md) — `skeleton`
 - [kartṛtva](kartrtva.md) — `skeleton`
-- [karuṇā](karuna.md) — `skeleton`
 - [karṣaṇa](karsana.md) — `skeleton`
 - [kasiṇa](kasina.md) — `skeleton`
 - [kathā](katha.md) — `skeleton`
@@ -1629,7 +1631,7 @@ skeleton: 4719 · sourced: 80
 - [kaṇṭha-kūpa](kantha-kupa.md) — `skeleton`
 - [kaṇṭhī](kanthi.md) — `skeleton`
 - [kaṟpam](karpam.md) — `skeleton`
-- [kaṣāya](kasaya.md) — `skeleton`
+- [kaṣāya](kasaya.md) — `sourced`
 - [kaṭapayādi](katapayadi.md) — `skeleton`
 - [kaṭhina](kathina.md) — `skeleton`
 - [kaṭu](katu.md) — `skeleton`
@@ -1699,7 +1701,7 @@ skeleton: 4719 · sourced: 80
 - [kriyātantra](kriyatantra.md) — `skeleton`
 - [kriyāyoga](kriya-yoga.md) — `skeleton`
 - [kriyāśakti](kriyasakti.md) — `skeleton`
-- [krodha](krodha.md) — `skeleton`
+- [krodha](krodha.md) — `sourced`
 - [krāthana](krathana.md) — `skeleton`
 - [Krīm Kuṇḍ](krim-kund.md) — `skeleton`
 - [krīḍā](krida.md) — `skeleton`
@@ -1789,6 +1791,7 @@ skeleton: 4719 · sourced: 80
 - [kārma mala](karma-mala.md) — `skeleton`
 - [kārmaṇa-śarīra](karmana-sarira.md) — `skeleton`
 - [kārpaṇya](karpanya.md) — `skeleton`
+- [kāruṇya](karuna.md) — `sourced`
 - [kārya](karya.md) — `skeleton`
 - [kārya-hetu](karya-hetu.md) — `skeleton`
 - [kātal](katal.md) — `skeleton`
@@ -1848,8 +1851,8 @@ skeleton: 4719 · sourced: 80
 - [kṣobha](ksobha.md) — `skeleton`
 - [kṣullaka / ailaka](ksullaka.md) — `skeleton`
 - [kṣānti](ksanti.md) — `skeleton`
-- [kṣāyika](ksayika.md) — `skeleton`
-- [kṣāyopaśamika](ksayopasamika.md) — `skeleton`
+- [kṣāyika](ksayika.md) — `sourced`
+- [kṣāyopaśamika](ksayopasamika.md) — `sourced`
 - [kṣīṇa-moha](ksina-moha.md) — `skeleton`
 - [labdhi](labdhi.md) — `skeleton`
 - [lagna](lagna.md) — `skeleton`
@@ -1896,7 +1899,7 @@ skeleton: 4719 · sourced: 80
 - [liṅgācāra](lingacara.md) — `skeleton`
 - [liṅgāyata](lingayata.md) — `skeleton`
 - [liṅgāṅga-sāmarasya](linganga-samarasya.md) — `skeleton`
-- [lobha](lobha.md) — `skeleton`
+- [lobha](lobha.md) — `sourced`
 - [lohavedha](lohavedha.md) — `skeleton`
 - [lok-lāj](loka-lajja.md) — `skeleton`
 - [loka](loka.md) — `skeleton`
@@ -1992,7 +1995,7 @@ skeleton: 4719 · sourced: 80
 - [mahāvidyā](mahavidya.md) — `skeleton`
 - [Mahāvidyā-bhairava](mahavidya-bhairava.md) — `skeleton`
 - [mahāviśvāsa](mahavisvasa.md) — `skeleton`
-- [mahāvrata](mahavrata.md) — `skeleton`
+- [mahāvrata](mahavrata.md) — `sourced`
 - [mahāvratin / mahāvratadhara](mahavratin.md) — `skeleton`
 - [mahāvākya](mahavakya.md) — `skeleton`
 - [mahāyajña](mahayajna.md) — `skeleton`
@@ -2005,7 +2008,7 @@ skeleton: 4719 · sourced: 80
 - [mahāyāna](mahayana.md) — `skeleton`
 - [mahāśay](mahasay.md) — `skeleton`
 - [mahāśūnya](mahasunya.md) — `skeleton`
-- [maitrī](maitri.md) — `skeleton`
+- [maitrī](maitri.md) — `sourced`
 - [majjhimā paṭipadā](majjhima-patipada.md) — `skeleton`
 - [majjā](majja.md) — `skeleton`
 - [makara](makara-rasi.md) — `skeleton`
@@ -2025,7 +2028,7 @@ skeleton: 4719 · sourced: 80
 - [mano-daṇḍa](manodanda.md) — `skeleton`
 - [mano-vijñāna](manovijnana.md) — `skeleton`
 - [manojavitva](manojavitva.md) — `skeleton`
-- [manomaya](manomaya.md) — `skeleton`
+- [manomaya](manomaya.md) — `sourced`
 - [manomaya-kośa](manomaya-kosa.md) — `skeleton`
 - [manomayakāya](manomayakaya.md) — `skeleton`
 - [manomūrcchā](manomurccha.md) — `skeleton`
@@ -2118,7 +2121,7 @@ skeleton: 4719 · sourced: 80
 - [mkhris pa](tripa.md) — `skeleton`
 - [mofa](mofa.md) — `skeleton`
 - [moha](moha.md) — `skeleton`
-- [mohanīya](mohaniya.md) — `skeleton`
+- [mohanīya](mohaniya.md) — `sourced`
 - [mokṣa](moksa.md) — `skeleton`
 - [mokṣa-mārga](moksa-marga.md) — `skeleton`
 - [mokṣabhāgīya](moksabhagiya.md) — `skeleton`
@@ -2162,7 +2165,7 @@ skeleton: 4719 · sourced: 80
 - [māhātmya](mahatmya.md) — `skeleton`
 - [māhātmya-jñāna](mahatmya-jnana.md) — `skeleton`
 - [mālinī](malini.md) — `skeleton`
-- [māna](mana.md) — `skeleton`
+- [māna](mana.md) — `sourced`
 - [mānas rog](manasa-roga.md) — `skeleton`
 - [mānasa japa](manasa-japa.md) — `skeleton`
 - [mānasa-pratyakṣa](manasa-pratyaksa.md) — `skeleton`
@@ -2192,7 +2195,7 @@ skeleton: 4719 · sourced: 80
 - [māyin](mayin.md) — `skeleton`
 - [māyopama](mayopama.md) — `skeleton`
 - [māyā](maya.md) — `skeleton`
-- [māyā](maya-kasaya.md) — `skeleton`
+- [māyā](maya-kasaya.md) — `sourced`
 - [māyādeha](mayadeha.md) — `skeleton`
 - [māyāvāda](mayavada.md) — `skeleton`
 - [māyīya mala](mayiya-mala.md) — `skeleton`
@@ -2329,7 +2332,7 @@ skeleton: 4719 · sourced: 80
 - [nirguṇa](nirguna.md) — `skeleton`
 - [nirguṇa bhakti](nirguna-bhakti.md) — `skeleton`
 - [nirhetuka-kṛpā](nirhetuka-krpa.md) — `skeleton`
-- [nirjarā](nirjara.md) — `skeleton`
+- [nirjarā](nirjara.md) — `sourced`
 - [nirmama](nirmama.md) — `skeleton`
 - [nirmita](nirmita.md) — `skeleton`
 - [nirmālya](nirmalya.md) — `skeleton`
@@ -2421,7 +2424,7 @@ skeleton: 4719 · sourced: 80
 - [nām-dān](nam-dan.md) — `skeleton` _(recent)_
 - [nām-prasaṅga](nam-prasanga.md) — `skeleton`
 - [nāma](nama.md) — `skeleton`
-- [nāma-karma](nama-karma.md) — `skeleton`
+- [nāma](nama-karma.md) — `sourced`
 - [nāma-pārāyaṇa](nama-parayana.md) — `skeleton`
 - [nāma-rūpa](nama-rupa.md) — `skeleton`
 - [nāmadheya](namadheya.md) — `skeleton`
@@ -2716,10 +2719,11 @@ skeleton: 4719 · sourced: 80
 - [prabhāsvara-citta](prabhasvara-citta.md) — `skeleton`
 - [prabhāva](prabhava.md) — `skeleton`
 - [pradeśa](pradesa.md) — `skeleton`
-- [pradeśa-bandha](pradesa-bandha.md) — `skeleton`
+- [pradeśa-bandha](pradesa-bandha.md) — `sourced`
 - [pradhvaṃsābhāva](pradhvamsabhava.md) — `skeleton`
 - [pradhāna](pradhana.md) — `skeleton`
 - [Pradyumna](pradyumna.md) — `skeleton`
+- [pragraha](pragraha.md) — `sourced`
 - [praiṣa](praisa.md) — `skeleton`
 - [prajñapti](prajnapti.md) — `skeleton`
 - [prajñaptisat](prajnaptisat.md) — `skeleton`
@@ -2738,7 +2742,7 @@ skeleton: 4719 · sourced: 80
 - [prakāśāvaraṇa](prakasavarana.md) — `skeleton`
 - [prakīrṇaka](prakirnaka.md) — `skeleton`
 - [prakṛti](prakrti.md) — `skeleton`
-- [prakṛti-bandha](prakrti-bandha.md) — `skeleton`
+- [prakṛti-bandha](prakrti-bandha.md) — `sourced`
 - [prakṛti-prabhāsvara-citta](prakrti-prabhasvara-citta.md) — `skeleton`
 - [prakṛti-vikṛti](prakrti-vikrti.md) — `skeleton`
 - [prakṛtilaya](prakrtilaya.md) — `skeleton`
@@ -2749,7 +2753,7 @@ skeleton: 4719 · sourced: 80
 - [pramatta-saṃyata](pramatta-samyata.md) — `skeleton`
 - [prameya](prameya.md) — `skeleton`
 - [pramiti](pramiti.md) — `skeleton`
-- [pramoda](pramoda.md) — `skeleton`
+- [pramoda](pramoda.md) — `sourced`
 - [pramuditā](pramudita.md) — `skeleton`
 - [pramā](prama.md) — `skeleton`
 - [pramāda](pramada.md) — `skeleton`
@@ -2809,7 +2813,7 @@ skeleton: 4719 · sourced: 80
 - [pratyāhāra](pratyahara.md) — `skeleton`
 - [pratyāhāra (grammar)](pratyahara-grammar.md) — `skeleton`
 - [pratyākhyāna](pratyakhyana.md) — `skeleton`
-- [pratyākhyānāvaraṇa](pratyakhyanavarana.md) — `skeleton`
+- [pratyākhyāna (pratyākhyānāvaraṇa)](pratyakhyanavarana.md) — `sourced`
 - [pratyātmāryajñāna](pratyatmaryajnana.md) — `skeleton`
 - [pratīka](pratika.md) — `skeleton`
 - [pratīka-upāsanā](pratika-upasana.md) — `skeleton`
@@ -2867,7 +2871,7 @@ skeleton: 4719 · sourced: 80
 - [prāṇa (vāyu)](prana-vayu-jain.md) — `skeleton`
 - [prāṇaliṅga](pranalinga.md) — `skeleton`
 - [prāṇaliṅgi](pranalingi.md) — `skeleton`
-- [prāṇamaya](pranamaya.md) — `skeleton`
+- [prāṇamaya](pranamaya.md) — `sourced`
 - [prāṇamaya-kośa](pranamaya-kosa.md) — `skeleton`
 - [prāṇaspanda](prana-spanda.md) — `skeleton`
 - [prāṇaspanda](pranaspanda.md) — `skeleton`
@@ -2877,6 +2881,7 @@ skeleton: 4719 · sourced: 80
 - [prīti](priti.md) — `skeleton`
 - [pubbekata-vāda](pubbekatavada.md) — `skeleton`
 - [pubbenivāsānussati](pubbenivasanussati.md) — `skeleton`
+- [pucchaṃ pratiṣṭhā](puccha-pratistha.md) — `sourced`
 - [pudgala](pudgala.md) — `skeleton`
 - [pudgala-nairātmya](pudgala-nairatmya.md) — `skeleton`
 - [puggala](puggala.md) — `skeleton`
@@ -2933,7 +2938,7 @@ skeleton: 4719 · sourced: 80
 - [pāramī](parami.md) — `skeleton`
 - [pāratantrya](paratantrya.md) — `skeleton`
 - [pārimāṇḍalya](parimandala.md) — `skeleton`
-- [pāriṇāmika](parinamika.md) — `skeleton`
+- [pāriṇāmika](parinamika.md) — `sourced`
 - [pārthivī dhāraṇā](parthivi-dharana.md) — `skeleton`
 - [pārājika](parajika.md) — `skeleton`
 - [pārārthya](pararthya.md) — `skeleton`
@@ -3015,6 +3020,7 @@ skeleton: 4719 · sourced: 80
 - [rasābhāsa](rasabhasa.md) — `skeleton`
 - [rasāsvāda](rasasvada.md) — `skeleton`
 - [rasāyana](rasayana.md) — `skeleton`
+- [ratha](ratha.md) — `sourced`
 - [rathantara](rathantara.md) — `skeleton`
 - [rati (kṛṣṇa-rati)](rati.md) — `skeleton`
 - [ratna](ratna.md) — `skeleton`
@@ -3308,6 +3314,7 @@ skeleton: 4719 · sourced: 80
 - [satya-puruṣa (Sat Puruṣ)](satya-purusa.md) — `skeleton`
 - [satyadvaya](satyadvaya.md) — `skeleton`
 - [satyaloka](satyaloka.md) — `skeleton`
+- [satyaṃ jñānam anantaṃ brahma](satyam-jnanam-anantam.md) — `sourced`
 - [satyā buddhiḥ](satya-buddhi.md) — `skeleton`
 - [satyākāra](satyakara.md) — `skeleton`
 - [satī-pati-bhāva](sati-pati-bhava.md) — `skeleton`
@@ -3342,7 +3349,7 @@ skeleton: 4719 · sourced: 80
 - [saṃhitā (branch of jyotiṣa)](samhita-jyotisa.md) — `skeleton`
 - [saṃhitā (Pāñcarātra)](samhita-pancaratra.md) — `skeleton`
 - [saṃhitāpāṭha](samhitapatha.md) — `skeleton`
-- [saṃjvalana](samjvalana.md) — `skeleton`
+- [saṃjvalana](samjvalana.md) — `sourced`
 - [saṃjñin](samjnin.md) — `skeleton`
 - [saṃjñā](samjna.md) — `skeleton`
 - [saṃjñāna](samjnana.md) — `skeleton`
@@ -3369,7 +3376,7 @@ skeleton: 4719 · sourced: 80
 - [saṃvarappadhāna](samvara-padhana.md) — `skeleton`
 - [saṃvatsara](samvatsara.md) — `skeleton`
 - [saṃvatsarī](samvatsari.md) — `skeleton`
-- [saṃvega](samvega.md) — `skeleton`
+- [saṃvega](samvega.md) — `sourced`
 - [saṃvit](samvit.md) — `skeleton`
 - [saṃvādi-bhrama](samvadi-bhrama.md) — `skeleton`
 - [saṃvṛti-bodhicitta](samvrti-bodhicitta.md) — `skeleton`
@@ -3496,7 +3503,7 @@ skeleton: 4719 · sourced: 80
 - [sthirā dṛṣṭi](sthira-drsti.md) — `skeleton`
 - [sthitadhī](sthitadhi.md) — `skeleton`
 - [sthitaprajña](sthitaprajna.md) — `skeleton`
-- [sthiti-bandha](sthiti-bandha.md) — `skeleton`
+- [sthiti-bandha](sthiti-bandha.md) — `sourced`
 - [sthitisthāpaka](sthitisthapaka.md) — `skeleton`
 - [sthān](sthana-mahanubhava.md) — `skeleton`
 - [sthāna](sthana-mimamsa.md) — `skeleton`
@@ -3540,6 +3547,7 @@ skeleton: 4719 · sourced: 80
 - [svabhāva](svabhava.md) — `skeleton`
 - [svabhāva-hetu](svabhava-hetu.md) — `skeleton`
 - [svabhāva-pratibandha](svabhava-pratibandha.md) — `skeleton`
+- [svabhāva-śūnya](svabhava-sunya.md) — `sourced`
 - [svacittadṛśya](svacittadrsya.md) — `skeleton`
 - [svadharma](svadharma.md) — `skeleton`
 - [svadhā](svadha.md) — `skeleton`
@@ -3622,7 +3630,7 @@ skeleton: 4719 · sourced: 80
 - [sāmarthya-yoga](samarthyayoga.md) — `skeleton`
 - [sāmaññaphala](samannaphala.md) — `skeleton`
 - [sāmisa](samisa.md) — `sourced`
-- [sāmparāyika](samparayika.md) — `skeleton`
+- [sāmparāyika](samparayika.md) — `sourced`
 - [sāmya](samya.md) — `skeleton`
 - [sāmyāvasthā](samyavastha.md) — `skeleton`
 - [sāmācārī](samacari.md) — `skeleton`
@@ -3634,6 +3642,7 @@ skeleton: 4719 · sourced: 80
 - [sāmāyika](samayika.md) — `skeleton`
 - [sāmīpya](samipya.md) — `skeleton`
 - [sāra](sara.md) — `skeleton`
+- [sārathi](sarathi.md) — `sourced`
 - [sārūpya](sarupya.md) — `skeleton`
 - [sārṣṭi](sarsti.md) — `skeleton`
 - [sāsana](sasana.md) — `skeleton`
@@ -3843,8 +3852,8 @@ skeleton: 4719 · sourced: 80
 - [tāyin](tayin.md) — `skeleton`
 - [tīrtha](tirtha.md) — `skeleton`
 - [tīrthakara](tirthakara.md) — `skeleton`
+- [tīrthakaratva (Tīrthaṅkara-nāma)](tirthankara-nama-karma.md) — `sourced`
 - [tīrthaṅkara](tirthankara.md) — `skeleton`
-- [tīrthaṅkara-nāma-karma](tirthankara-nama-karma.md) — `skeleton`
 - [tīsrā til](tisra-til.md) — `skeleton` _(recent)_
 - [tūtu](tutu.md) — `skeleton`
 - [tūṅkāmal tūṅkutal](tunkamal-tunkal.md) — `skeleton`
@@ -3986,7 +3995,7 @@ skeleton: 4719 · sourced: 80
 - [vaimānika](vaimanika.md) — `skeleton`
 - [vainayikavāda](vainayikavada.md) — `skeleton`
 - [Vairocana](vairocana.md) — `skeleton`
-- [vairāgya](vairagya.md) — `skeleton`
+- [vairāgya](vairagya.md) — `sourced`
 - [vaitaraṇī](vaitarani.md) — `skeleton`
 - [vaiyāvṛttya](vaiyavrttya.md) — `skeleton`
 - [vaiśvānara](vaisvanara.md) — `skeleton`
@@ -4032,7 +4041,7 @@ skeleton: 4719 · sourced: 80
 - [veda](veda.md) — `skeleton`
 - [vedanā](vedana.md) — `skeleton`
 - [vedanānupassanā](vedananupassana.md) — `sourced`
-- [vedanīya](vedaniya.md) — `skeleton`
+- [vedanīya](vedaniya.md) — `sourced`
 - [vedavāda](vedavada.md) — `skeleton`
 - [vedha-dīkṣā](vedha-diksa.md) — `skeleton`
 - [vedi](vedi.md) — `skeleton`
@@ -4079,7 +4088,7 @@ skeleton: 4719 · sourced: 80
 - [vijñapti-mātratā](vijnaptimatrata.md) — `skeleton`
 - [vijñāna](vijnana.md) — `skeleton`
 - [vijñāna-pariṇāma](vijnana-parinama.md) — `skeleton`
-- [vijñānamaya](vijnanamaya.md) — `skeleton`
+- [vijñānamaya](vijnanamaya.md) — `sourced`
 - [vijñānamaya-kośa](vijnanamaya-kosa.md) — `skeleton`
 - [vijñānākala](vijnanakala.md) — `skeleton`
 - [vikalpa](vikalpa.md) — `skeleton`
@@ -4182,7 +4191,7 @@ skeleton: 4719 · sourced: 80
 - [viṣṭi (bhadrā)](visti.md) — `skeleton`
 - [Viṭṭhala](vitthala.md) — `skeleton`
 - [vossaggapariṇāmī](vossagga-parinami.md) — `sourced`
-- [vrata](vrata.md) — `skeleton`
+- [vrata](vrata.md) — `sourced`
 - [vratacaryā](vratacarya.md) — `skeleton`
 - [vrātya](vratya.md) — `skeleton`
 - [vyabhicāribhāva (sañcāribhāva)](vyabhicari-bhava.md) — `skeleton`
@@ -4338,7 +4347,7 @@ skeleton: 4719 · sourced: 80
 - [yixing](yixing.md) — `skeleton`
 - [yixing sanmei (one-practice samādhi)](yixing-sanmei.md) — `skeleton`
 - [yizhi men](yizhi-men.md) — `skeleton`
-- [yoga](yoga.md) — `skeleton`
+- [yoga](yoga.md) — `sourced`
 - [yoga](yoga-pali.md) — `skeleton`
 - [yoga (in jyotiṣa)](yoga-jyotisa.md) — `skeleton`
 - [yoga-dṛṣṭi](yoga-drsti.md) — `skeleton`
@@ -4486,9 +4495,10 @@ skeleton: 4719 · sourced: 80
 - [āmnāya](amnaya.md) — `skeleton`
 - [āmnāya-maṭha](amnaya-matha.md) — `skeleton`
 - [ānanda](ananda.md) — `skeleton`
+- [ānanda-mīmāṃsā](ananda-mimamsa.md) — `sourced`
 - [ānanda-tāratamya](ananda-taratamya.md) — `skeleton`
 - [ānanda-tāṇḍava](ananda-tandava.md) — `skeleton`
-- [ānandamaya](anandamaya.md) — `skeleton`
+- [ānandamaya](anandamaya.md) — `sourced`
 - [ānandamaya-kośa](anandamaya-kosa.md) — `skeleton`
 - [ānantarya](anantarya.md) — `skeleton`
 - [ānantarya-samādhi](anantarya-samadhi.md) — `skeleton`
@@ -4540,7 +4550,7 @@ skeleton: 4719 · sourced: 80
 - [āsava](asava.md) — `skeleton`
 - [āsavakkhaya](asavakkhaya.md) — `skeleton`
 - [āsaṃjñika](asamjnika.md) — `skeleton`
-- [āsrava](asrava.md) — `skeleton`
+- [āsrava](asrava.md) — `sourced`
 - [āsurī sampad](asuri-sampad.md) — `skeleton`
 - [ātatāyin](atatayin.md) — `skeleton`
 - [ātivāhika](ativahika.md) — `skeleton`
@@ -4583,9 +4593,9 @@ skeleton: 4719 · sourced: 80
 - [āyambil (ācāmla)](ayambil.md) — `skeleton`
 - [āyatana](ayatana.md) — `sourced`
 - [āyu](ayu.md) — `skeleton`
-- [āyu-karma](ayu-karma.md) — `skeleton`
 - [āyurdāya](ayurdaya.md) — `skeleton`
 - [āyurveda](ayurveda.md) — `skeleton`
+- [āyus](ayu-karma.md) — `sourced`
 - [āyus](ayus.md) — `skeleton`
 - [āyuṣya](ayusya.md) — `skeleton`
 - [āśauca](asauca.md) — `skeleton`
@@ -4599,7 +4609,7 @@ skeleton: 4719 · sourced: 80
 - [āṉmā](anma.md) — `skeleton`
 - [ēṭaṇai](etanai.md) — `skeleton`
 - [īhā](iha.md) — `skeleton`
-- [īryāpatha](iryapatha.md) — `skeleton`
+- [īryāpatha](iryapatha.md) — `sourced`
 - [īśvara](isvara.md) — `skeleton`
 - [īśvara-praṇidhāna](isvara-pranidhana.md) — `skeleton`
 - [īśvara-tattva](isvara-tattva.md) — `skeleton`

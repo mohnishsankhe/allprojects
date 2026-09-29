@@ -16,4 +16,4 @@ The earliest known commentary on the Abhisamayālaṃkāra, aligning it with the
   - kind: original; name: Sanskrit ch. 1 ed. Pensa 1967
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._

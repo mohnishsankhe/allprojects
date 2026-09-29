@@ -15,4 +15,4 @@ Kriyā tantra of questions by Subāhu on the conduct and obstacles of the mantra
 _Notes: Tōh 805 from memory; the local catalogue has no title under 805._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._

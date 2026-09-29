@@ -23,4 +23,4 @@ _Notes: Chs. 13–15 contribution, from extractor A's entry (cpt:jiva-as-part-of
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:15.7 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch13-15, skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:bhagavad-gita/ch13-15, skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._

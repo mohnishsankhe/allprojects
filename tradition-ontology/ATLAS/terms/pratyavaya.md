@@ -16,4 +16,4 @@
 **Related:** [nitya-karma](nitya-karma.md), [adharma](adharma.md), [buddhiyoga](buddhi-yoga.md)
 
 ---
-_Contributed by: skeleton:U12-mimamsa, extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U12-mimamsa, extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 22:04 IST._

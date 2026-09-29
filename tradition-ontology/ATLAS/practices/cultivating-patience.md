@@ -12,4 +12,4 @@ Seeing that anger destroys the merit of aeons, one cultivates patience by reflec
   - [Bodhicaryāvatāra](../texts/bodhicaryavatara.md) — ref: ch.6; rests_on: ["tea:bodhicaryavatara:6.1-2", "tea:bodhicaryavatara:6.10", "tea:bodhicaryavatara:6.21"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._

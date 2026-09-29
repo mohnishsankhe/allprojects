@@ -13,4 +13,4 @@ From the frog posture, holding the head with the elbows and lying back like a fr
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 2.35; rests_on: ["tea:gheranda-samhita:2.35"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._

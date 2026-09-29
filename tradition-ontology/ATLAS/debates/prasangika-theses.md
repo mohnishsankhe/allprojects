@@ -22,4 +22,4 @@ In ultimate analysis the Mādhyamika holds no thesis at all, following Vigrahavy
 **The traditions' own objections:** The Gelug holds Gorampa's 'others' perspective' reduces the Madhyamaka to having nothing to teach; the Sakya holds the Gelug's own conventional theses retain grasping.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._

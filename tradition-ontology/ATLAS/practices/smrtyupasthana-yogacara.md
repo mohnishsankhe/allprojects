@@ -12,4 +12,4 @@ Mindfulness of body, feeling, mind and dharmas, cultivated for entry into the fo
   - [Madhyāntavibhāga](../texts/madhyantavibhaga.md) — ref: 4.1; rests_on: ["tea:madhyantavibhaga:4.1"]
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._

@@ -24,4 +24,4 @@ The Vṛttikāra: the self is known to itself (svasaṃvedya) and cannot be show
 **Candidate readings:** P2-standpoint: 'self-known' (Vṛttikāra), 'object of the I-notion' (Kumārila) and 'subject in every cognition' (Prabhākara) may describe the same self-awareness from different analyses; Kumārila's side is recorded from memory and should be checked.
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:04 IST._

@@ -153,4 +153,4 @@ terms: [sālokya](../terms/salokya.md), [sārūpya](../terms/sarupya.md), [sām�
 _Notes: Opening verse and 1.1.1–1.1.2, 3.1.8, 4.2.16–17, 4.3.10–15, 4.4.19 checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._

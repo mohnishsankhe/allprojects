@@ -29,4 +29,4 @@ The later Śvetāmbara synthesis treats each view as true from a standpoint; the
 **The traditions' own objections:** Jinabhadra's followers held the sequential view as the literal teaching of scripture; the Digambaras hold simultaneity; neither accepts the others as equal.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

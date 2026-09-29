@@ -15,4 +15,4 @@
 _Notes: Ca Ci 15 checked in the local Devanāgarī e-text only._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:04 IST._

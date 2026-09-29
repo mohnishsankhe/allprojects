@@ -26,4 +26,4 @@ terms: [mofa](../terms/mofa.md) · concepts: [The three ages of the Dharma (true
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:04 IST._

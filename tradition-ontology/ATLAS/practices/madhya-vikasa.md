@@ -12,4 +12,4 @@ The bliss of consciousness is gained by the unfolding of the centre - the centra
   - [Pratyabhijñāhṛdaya](../texts/pratyabhijnahrdayam.md) — ref: 17; rests_on: ["tea:pratyabhijnahrdayam:17"]
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._

@@ -12,4 +12,4 @@
 Korean prince-monk in Sichuan; taught 'no remembering, no thinking, no forgetting' as precepts, samādhi and wisdom, opening his assemblies with drawn-out recitation of the Buddha's name (Lidai fabao ji).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._

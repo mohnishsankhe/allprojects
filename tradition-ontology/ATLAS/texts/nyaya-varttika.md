@@ -50,4 +50,4 @@ terms: [ātman](../terms/atman.md) · disputes: [Is there a self (ātman, puru�
 _Notes: Printed editions exist (e.g. Kashi Sanskrit Series); no local e-text was found in sources_raw._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._

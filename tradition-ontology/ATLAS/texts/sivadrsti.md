@@ -71,4 +71,4 @@ teachers: [Śrīkaṇṭha(nātha)](../teachers/srikanthanatha.md), [Durvāsas](
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry. Contents of chs. 3-6 summarized generally (low)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._

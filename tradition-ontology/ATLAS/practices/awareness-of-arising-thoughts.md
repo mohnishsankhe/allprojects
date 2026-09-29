@@ -16,4 +16,4 @@
 - Wumen lists 'being aware of thoughts as they arise' among Chan faults ('toying with spirits') when taken as an end. — [Gateless Barrier (Wumen guan)](../texts/wumenguan.md) zenzhen
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:04 IST._

@@ -13,4 +13,4 @@
 A short Perfection of Wisdom addressed to Śakra (Kauśika).
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:04 IST._

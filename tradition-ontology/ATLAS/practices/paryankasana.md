@@ -15,4 +15,4 @@ Named among the examples of posture in Vyāsa's bhāṣya on YS 2.46 ('posture i
 _Notes: Name certain; form per commentators not recalled with confidence. The Jain and Buddhist 'paryaṅka/pallaṅka' is the cross-legged meditation seat; whether the bhāṣya's paryaṅka is the same posture is not settled here._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._

@@ -9,4 +9,4 @@
 Translator of the royal period, disciple of Padmasambhava and Vimalamitra, a principal early holder of the Mahāyoga and Anuyoga transmissions and co-translator of the Guhyagarbha.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._

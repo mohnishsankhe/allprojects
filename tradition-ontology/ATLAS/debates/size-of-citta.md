@@ -22,4 +22,4 @@ The teacher (ācārya): the mind is all-pervading; only its activity contracts a
 _Notes: Who 'the ācārya' and 'others' are is not identified here (gap)._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 22:04 IST._

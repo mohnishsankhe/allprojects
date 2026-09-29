@@ -48,4 +48,4 @@ _none recorded_
 _Notes: The commentary on the Siddhāntaśikhāmaṇi (Tattvapradīpikā) already speaks of the 'world-famous Pañcācārya lineage' (e-text M00207, ch. 6 commentary). Seat names (siṃhāsana) are recorded on the teacher entries at low confidence._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._

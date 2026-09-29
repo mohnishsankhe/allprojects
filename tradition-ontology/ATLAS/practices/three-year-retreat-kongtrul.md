@@ -15,4 +15,4 @@ A closed retreat of about three years under strict rules, in which retreatants c
 _Notes: Duration formula and curriculum order recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._

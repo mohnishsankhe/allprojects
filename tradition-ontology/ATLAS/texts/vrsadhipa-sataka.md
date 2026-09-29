@@ -13,4 +13,4 @@
 A Telugu century of verses by Pālkuriki Sōmanātha in praise of Basava as Nandin (Vṛṣādhipa) incarnate.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._

@@ -21,4 +21,4 @@
 The sequence HYP 1.56 states (āsana, kumbhaka, mudrā, nādānusandhāna), practised 'until the fruit, rājayoga' (1.67). The yamas/niyamas (B1) are not a separate limb in the HYP. Banding by U28.
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._

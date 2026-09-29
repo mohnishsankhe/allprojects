@@ -11,4 +11,4 @@
 Author of the Paddhati, a sub-commentary on the Vṛtti to the first book of the Vākyapadīya.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:04 IST._

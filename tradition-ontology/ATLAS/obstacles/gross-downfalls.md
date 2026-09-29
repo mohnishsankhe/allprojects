@@ -11,4 +11,4 @@ Secondary breaches of the tantric vow, listed after the root downfalls in the Ad
   - [Advayavajrasaṃgraha](../texts/advayavajrasamgraha.md) — ref: §2
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._

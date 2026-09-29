@@ -12,4 +12,4 @@
 Eldest of the four sibling-saints and Jñāneśvar's guru; initiated into the Nāth path by Gahinīnāth, he passed it to Jñāneśvar and bade him write the Jñāneśvarī and then an independent work (Amṛtānubhava). His own abhaṅgas are few. Samādhi at Tryambakeśvar.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._

@@ -13,4 +13,4 @@
 Burmese lay meditation teacher (U Po Thet, 1873–1945), a farmer taught by Ledi Sayadaw, who taught insight through awareness of sensation to laypeople and was the teacher of U Ba Khin.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._

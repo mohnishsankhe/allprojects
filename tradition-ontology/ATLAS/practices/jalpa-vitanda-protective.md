@@ -14,4 +14,4 @@ Using contentious debate — including quibbles and futile rejoinders, or pure r
 - Quibbles, futile rejoinders and points of defeat are defined so that they can be avoided in one's own speech and exposed in the opponent's (NBh 1.1.1); vitaṇḍā without any purpose collapses into prattle. — [Nyāyabhāṣya](../texts/nyaya-bhasya.md) 1.1.1
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._

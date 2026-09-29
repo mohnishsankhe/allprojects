@@ -16,4 +16,4 @@
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:1.3.1-5, tea:bhagavata-purana:2.10.1-2, tea:visnu-purana:1.2, tea:visnu-purana:1.5.19-25 — All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._

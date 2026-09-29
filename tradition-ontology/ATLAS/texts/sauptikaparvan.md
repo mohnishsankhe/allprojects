@@ -24,4 +24,4 @@ The book of the night raid: Aśvatthāman's massacre of the sleeping Pāñcālas
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_10.json (BORI Critical Edition text) book 10: 18 chapters — Book 10 has exactly 18 chapters in the local Critical Edition text, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:04 IST._

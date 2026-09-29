@@ -14,4 +14,4 @@ The fifth gaṇadhara, whose doubt was whether beings are reborn in the same kin
 **Realization — the tradition's account:** Attained omniscience twelve years after Mahāvīra's nirvāṇa and liberation eight years later (Śvetāmbara account; moderate confidence).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

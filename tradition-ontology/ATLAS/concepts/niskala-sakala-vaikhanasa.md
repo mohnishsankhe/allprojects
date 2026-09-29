@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [The five forms of God (para, vyūha, vibhava, antaryāmin, arcā)](five-forms-of-god-pancaratra.md): both link degrees of the divine form to kinds of worship; neither tradition equates the schemes — rests on [11.147-152](../texts/kriyadhikara.md#tea-kriyadhikara-11-147-152)
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._

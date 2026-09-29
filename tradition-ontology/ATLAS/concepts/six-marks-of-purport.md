@@ -16,4 +16,4 @@
 _Notes: The versified list 'upakramopasaṃhārāv abhyāso 'pūrvatā phalam / arthavādopapattī ca liṅgaṃ tātparyanirṇaye' is cited by Vedānta authors (e.g. Madhva at BSBh 1.1.4, who ascribes it to a 'Bṛhatsaṃhitā'); I did not find it as a list in the Mīmāṃsā texts consulted._
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U12-mimamsa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U12-mimamsa. Generated 2026-09-29 22:04 IST._

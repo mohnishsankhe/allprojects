@@ -12,4 +12,4 @@
 Seventeenth-century Kannada Vīraśaiva poet of campū works including the Rājaśēkharavilāsa and the Vṛṣabhēndravijaya.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._

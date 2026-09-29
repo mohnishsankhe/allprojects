@@ -14,4 +14,4 @@
 - leads-to → [Divine grace (prasāda)](grace.md): without knowledge there is no abundant grace — rests on [1.1.1/4](../texts/brahma-sutra-bhasya-madhva.md#tea-brahma-sutra-bhasya-madhva-1-1-1-4)
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:04 IST._

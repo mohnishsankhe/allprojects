@@ -19,4 +19,4 @@ Prince of Ayodhyā, hero of the Rāmāyaṇa, called 'dharma embodied' (3.37.13)
 - 2026-09-29 text-locate: confirmed — local:DharmicData Rāmāyaṇa (vulgate) 3.37.13, 2.105.16, 2.109.13, local:raw_etexts goraxapuram (Gita Press) 6.18.33, local:DharmicData MBh CE 12.326.78 — All cited references located (6.18.33 in the local Gita Press text).
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text), local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press) — Student of Vasiṣṭha (MU), teacher in the Rāma-hṛdaya (AR 1.1.44-52) and the Rāma Gītā (AR 7.5). One precision: the MU says Rāma was 'ūnaṣoḍaśa', not yet sixteen (in his sixteenth year), at the time of his dispassion (1.4.1, 1.7.2).
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U04-minor-upanisads. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U04-minor-upanisads. Generated 2026-09-29 22:04 IST._

@@ -15,4 +15,4 @@
 _Notes: See also U33's treatment of the same scheme (trm:samavasarana-vada)._
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

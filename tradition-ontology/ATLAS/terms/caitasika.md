@@ -16,4 +16,4 @@
 **Related:** [citta](citta.md), [sarvatraga caitasika](sarvatraga-caitasika.md), [upakleśa](upaklesa.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:04 IST._

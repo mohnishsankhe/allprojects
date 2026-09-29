@@ -21,4 +21,4 @@ The body of instructions on inner heat (gtum mo), illusory body (sgyu lus), drea
 _Notes: The practices are restricted: this ontology records summaries and the texts' warnings only._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

@@ -14,4 +14,4 @@ Mīmāṃsaka whose distinct account of how validity is known (through the after
 _Notes: Modern literature numbers several Murāris inconsistently (II/III); low confidence on dating and on the second work._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:04 IST._

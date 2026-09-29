@@ -12,4 +12,4 @@
 Maithili court poet of Mithila (c. 1352–1448) whose songs of Rādhā and Kṛṣṇa (and of Śiva) Caitanya relished.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:04 IST._

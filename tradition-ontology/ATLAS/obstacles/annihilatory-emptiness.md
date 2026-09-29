@@ -15,4 +15,4 @@ Taking the ultimate to be a mere nothingness, a non-affirming negation; for the 
 - contested: [Misreading emptiness as nothingness](nihilistic-misreading-of-emptiness.md) — all Madhyamaka schools reject nihilism, but the Jonang count the rangtong ultimate itself as this error, which the rangtong schools deny
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._

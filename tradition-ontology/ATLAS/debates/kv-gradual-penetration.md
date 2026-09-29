@@ -25,4 +25,4 @@ Each path penetrates all four truths in a single moment of knowledge.
 _Notes: The opponent's thesis is known here only as reported by the Theravāda Kathāvatthu; school attributions come from the commentary and are recalled with moderate/low confidence. Bears on dsp:sudden-or-gradual (U50)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._

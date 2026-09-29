@@ -13,4 +13,4 @@
 Umāpati's long praise-poem on Śiva's grace working through the soul's states from bondage to release.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:04 IST._

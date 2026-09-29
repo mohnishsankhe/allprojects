@@ -14,4 +14,4 @@ A proud (dṛpta) learned brahmin who offers to explain brahman to Ajātaśatru,
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/kausitaki-upanisad-sharada/segments.jsonl (Advaita-Śāradā mūla kst.md, Advaita-Śāradā section numbering) — Located: BĀU 2.1.1 ('dṛptabālākir hānūcāno gārgya āsa') and KauU 4.1 ('gārgyo ha vai bālākir anūcānaḥ saṃspaṣṭa āsa').
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:04 IST._

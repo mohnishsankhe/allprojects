@@ -16,4 +16,4 @@
 - same-as-under-standpoint → [Niguma's six dharmas](niguma-six-dharmas.md) (Kagyu/Shangpa): parallel sets from two ḍākinī lineages; the Shangpa insists on their distinct transmission — rests on [1](../texts/vajra-lines-of-niguma.md#tea-vajra-lines-of-niguma-1), [1](../texts/saddharmopadesa-tilopa.md#tea-saddharmopadesa-tilopa-1)
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:04 IST._

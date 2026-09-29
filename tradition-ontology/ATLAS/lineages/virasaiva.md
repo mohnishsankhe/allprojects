@@ -56,4 +56,4 @@ The Vīraśaiva or Liṅgāyata tradition of Karnataka and neighbouring regions 
 _Notes: family 'vedic' follows the coverage-map grouping (A7); whether the tradition stands within or outside the Vedic/Hindu fold is itself a recorded internal debate (dsp:lingayata-hindu-identity)._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._

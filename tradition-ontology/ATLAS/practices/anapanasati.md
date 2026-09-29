@@ -33,4 +33,4 @@ Place and posture: gone to the forest, the root of a tree or an empty hut, the m
 - 2026-09-29 text: partially-confirmed — tea:anapanasati-sutta:mn118:26/2, tea:anapanasati-sutta:thesis — Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line.
 - 2026-09-29 text: partially-confirmed — Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J.
 
-_Contributed by: extraction:anapanasati-sutta/all, extraction:satipatthana-sutta/all, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:anapanasati-sutta/all, extraction:satipatthana-sutta/all, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:04 IST._

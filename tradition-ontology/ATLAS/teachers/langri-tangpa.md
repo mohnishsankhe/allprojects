@@ -13,4 +13,4 @@
 Kadam master, disciple of Potowa, founder of Langtang monastery (1093) and author of the Eight Verses of Mind Training; the tradition says his face was always sad from contemplating the suffering of beings.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._

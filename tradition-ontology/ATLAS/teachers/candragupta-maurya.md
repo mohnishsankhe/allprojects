@@ -11,4 +11,4 @@
 Founder of the Maurya empire. Digambara tradition (and inscriptions at Śravaṇabeḷagoḷa) says he renounced, followed Bhadrabāhu south and died by sallekhanā on Candragiri; Hemacandra's Śvetāmbara account also makes him end his life as a Jain.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:04 IST._

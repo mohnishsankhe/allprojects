@@ -8,4 +8,4 @@
 A brahmin who asked whether the Buddha was a god, gandhabba, yakkha or human (AN 4.36).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

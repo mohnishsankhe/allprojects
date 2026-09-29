@@ -21,4 +21,4 @@ Pūrṇānanda's digest of tantric worship in prakāśas; its sixth prakāśa ('
 _Notes: Sixth prakāśa = src:sat-cakra-nirupana (U28 owns that id)._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula, skeleton:U28-hatha-texts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U24-kali-kaula, skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._

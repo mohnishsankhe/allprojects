@@ -21,4 +21,4 @@ Siddha medicine was revealed by Śiva through Nandi to the Siddhars and set down
 **Queue:** RQ-U22-siddha-ayurveda
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._

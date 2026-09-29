@@ -17,4 +17,4 @@ Nāropa's commentary on the Sekoddeśa, an Indian synthesis of Kālacakra consec
 _Notes: Sanskrit edited by M. E. Carelli (GOS 90, 1941) — only the root verses are local._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._

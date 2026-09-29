@@ -14,4 +14,4 @@ Following the four life-stages with pure intention, and the common duties — fa
 _Notes: The list of common duties is recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:04 IST._

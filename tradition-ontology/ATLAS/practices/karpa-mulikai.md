@@ -14,4 +14,4 @@ Summary only: the use of particular herbs regarded as rejuvenating (the traditio
 _Notes: Herb names recalled at moderate confidence; the full list of kaṟpa herbs is not reconstructed._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:04 IST._

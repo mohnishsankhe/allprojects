@@ -16,4 +16,4 @@
 _Notes: The six-limb list is from memory (Praśna Mārga ch. 1) and is low confidence._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._

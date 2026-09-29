@@ -16,4 +16,4 @@
 _Notes: The Mīmāṃsā definition summarizes the school's general position; specific sūtras on time as a subsidiary not extracted here._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:04 IST._

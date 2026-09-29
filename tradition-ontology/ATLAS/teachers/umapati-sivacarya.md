@@ -31,4 +31,4 @@ Chidambaram priest (Tillai dīkṣitar) turned disciple of Maṟaiñāṉa Campa
 _Notes: Contribution from U08 (Sanskrit Āgama works); Tamil works are U18's._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._

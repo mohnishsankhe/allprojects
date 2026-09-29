@@ -1,12 +1,13 @@
 # lobha
 
-`trm:lobha` · `skeleton` · confidence high
+`trm:lobha` · `sourced` · confidence high
 
-**Language:** Pali
+**Language:** Sanskrit
 **Native script:** लोभ
 **Literal:** greed
 
 ## Definitions by tradition
+- [Jainism (Jaina dharma)](../lineages/jainism.md): One of the four passions (8.9); it has four varieties.
 - [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md): The first unwholesome root (MN 9); a source for the origination of kamma (AN 3.34).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Greed, the third gate of hell (BhG 16.21); a sign of increased rajas (14.12).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: The Kauravas' minds are overcome by greed (1.38); Arjuna laments being ready to kill his own people out of greed for the pleasures of kingship (1.45).
@@ -23,6 +24,7 @@
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:tattvartha-sutra:8.9 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:14.12, tea:bhagavad-gita:14.17 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, skeleton:U37-abhidhamma-visuddhimagga, extraction:bhagavad-gita/ch13-15, skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U36-pali-suttas, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, skeleton:U37-abhidhamma-visuddhimagga, extraction:bhagavad-gita/ch13-15, skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._

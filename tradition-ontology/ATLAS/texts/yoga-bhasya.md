@@ -266,7 +266,7 @@ One should cultivate friendliness toward all beings who are happy, compassion to
 
 _level: conventional · standpoint: ethical-social · path: meditation · stage: all · types: ethics, practice_
 
-terms: [maitrī](../terms/maitri.md), [karuṇā](../terms/karuna.md), [muditā](../terms/mudita.md), [upekṣā](../terms/upeksa.md), [citta-prasādana](../terms/citta-prasadana.md) · concepts: [The four attitudes (maitrī, karuṇā, muditā, upekṣā)](../concepts/four-attitudes.md) · practices: [Cultivating the four attitudes (maitrī, karuṇā, muditā, upekṣā)](../practices/four-attitudes.md)
+terms: [maitrī](../terms/maitri.md), [kāruṇya](../terms/karuna.md), [muditā](../terms/mudita.md), [upekṣā](../terms/upeksa.md), [citta-prasādana](../terms/citta-prasadana.md) · concepts: [The four attitudes (maitrī, karuṇā, muditā, upekṣā)](../concepts/four-attitudes.md) · practices: [Cultivating the four attitudes (maitrī, karuṇā, muditā, upekṣā)](../practices/four-attitudes.md)
 
 ### 1.35 <a id="tea-yoga-bhasya-1-35"></a>
 `skeleton` · confidence high
@@ -779,7 +779,7 @@ Friendliness, compassion and gladness are three cultivations (bhāvanā): cultiv
 
 _level: conventional · standpoint: ethical-social · path: meditation · stage: advanced · types: ethics, powers-experiences_
 
-terms: [maitrī](../terms/maitri.md), [karuṇā](../terms/karuna.md), [muditā](../terms/mudita.md), [upekṣā](../terms/upeksa.md) · concepts: [The four attitudes (maitrī, karuṇā, muditā, upekṣā)](../concepts/four-attitudes.md) · practices: [Cultivating the four attitudes (maitrī, karuṇā, muditā, upekṣā)](../practices/four-attitudes.md)
+terms: [maitrī](../terms/maitri.md), [kāruṇya](../terms/karuna.md), [muditā](../terms/mudita.md), [upekṣā](../terms/upeksa.md) · concepts: [The four attitudes (maitrī, karuṇā, muditā, upekṣā)](../concepts/four-attitudes.md) · practices: [Cultivating the four attitudes (maitrī, karuṇā, muditā, upekṣā)](../practices/four-attitudes.md)
 
 ### 3.26 <a id="tea-yoga-bhasya-3-26"></a>
 `skeleton` · confidence high
@@ -1107,4 +1107,4 @@ concepts: [Īśvara, Hiraṇyagarbha and the transmission of Yoga](../concepts/i
 
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 22:04 IST._

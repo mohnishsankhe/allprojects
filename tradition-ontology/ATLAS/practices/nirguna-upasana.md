@@ -12,4 +12,4 @@ For those unable to inquire: meditating on the attributeless Brahman as 'I am Br
   - [Dṛg-Dṛśya Viveka (Vākyasudhā)](../texts/drg-drsya-viveka.md) — ref: 20; rests_on: ["tea:drg-drsya-viveka:20"]
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._

@@ -20,4 +20,4 @@ Rāmānuja: the sūtras state an objection (2.2.42–43) and answer it (2.2.44�
 **Candidate readings:** Both agree that the individual soul is not created; they differ on whether the Pāñcarātra teaches its creation.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:04 IST._

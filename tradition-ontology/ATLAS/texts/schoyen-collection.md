@@ -12,4 +12,4 @@
 Thousands of fragments said to come from the Bamiyan area, including Mahāsāṃghika-Lokottaravāda Vinaya fragments, Āgama sūtras and early Mahāyāna sūtras (low confidence on the contents).
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:04 IST._

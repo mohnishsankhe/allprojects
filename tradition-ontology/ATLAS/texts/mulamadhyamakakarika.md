@@ -1177,10 +1177,10 @@ I bow to Gautama, who out of compassion taught the true Dharma for the abandonme
 
 _level: ultimate · standpoint: devotional · path: knowledge, devotion · stage: all · types: ultimate, teacher-transmission_
 
-terms: [dṛṣṭi](../terms/drsti.md), [karuṇā](../terms/karuna.md) · concepts: [Emptiness is not a view](../concepts/emptiness-not-a-view.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md), [Gotama Buddha](../teachers/gotama-buddha.md)
+terms: [dṛṣṭi](../terms/drsti.md), [kāruṇya](../terms/karuna.md) · concepts: [Emptiness is not a view](../concepts/emptiness-not-a-view.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md), [Gotama Buddha](../teachers/gotama-buddha.md)
 
 
 _Notes: Chapter titles confirmed from the Prasannapadā colophons in the local Vaidya/Tripathi e-text (ch.12 colophon reads 'duḥkhaparīkṣā'). Chapter verse counts (GRETIL): 14,25,9,9,8,10,34,13,12,16,8,10,8,8,11,10,33,12,6,24,21,16,25,40,24,12,30._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:04 IST._

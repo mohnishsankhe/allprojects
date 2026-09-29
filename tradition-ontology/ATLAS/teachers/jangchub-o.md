@@ -11,4 +11,4 @@
 Grand-nephew of Yeshe Ö, monk-ruler of Gugé who invited Atiśa and requested the Lamp for the Path.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._

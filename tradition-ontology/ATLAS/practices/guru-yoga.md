@@ -22,4 +22,4 @@ Visualizing the guru as Vajradhara (in the Karma Kagyu, the Karmapa), supplicati
 _Notes: Shared id with U45._
 
 ---
-_Contributed by: skeleton:U46-kagyu, skeleton:U45-nyingma-bon, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U46-kagyu, skeleton:U45-nyingma-bon, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._

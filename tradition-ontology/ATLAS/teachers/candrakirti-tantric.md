@@ -15,4 +15,4 @@ Author of the Pradīpoddyotana on the Guhyasamāja; the tradition identifies him
 _Notes: Homonym: tch:candrakirti (the Madhyamaka author, U40) is kept separate by the scholarly account; the tradition identifies them._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._

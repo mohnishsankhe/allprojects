@@ -15,4 +15,4 @@
 Vallabha's younger son and the organiser of the Puṣṭimārga: completed the Aṇubhāṣya, wrote the Vidvanmaṇḍana and Śṛṅgārarasamaṇḍana, elaborated the eightfold daily service (aṣṭayāma sevā), founded the aṣṭachāp of eight poet-singers and emphasised Rādhā (Svāminī); his seven sons founded the seven 'houses'.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:04 IST._

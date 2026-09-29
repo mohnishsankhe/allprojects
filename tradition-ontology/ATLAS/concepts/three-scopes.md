@@ -19,4 +19,4 @@
 - corresponds-to-in-map → [The three principal aspects of the path](three-principal-aspects.md): renunciation ~ middling scope, bodhicitta ~ great scope — rests on [3](../texts/three-principal-aspects.md#tea-three-principal-aspects-3), [6](../texts/three-principal-aspects.md#tea-three-principal-aspects-6)
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:04 IST._

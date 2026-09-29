@@ -58,4 +58,4 @@ concepts: [Funeral rites (antyeṣṭi)](../concepts/funeral-rites.md) · practi
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Āśvalāyanagṛhyasūtra, catalog:GRETIL-dev:asvalayana-grhyasutra, https://sacred-texts.com/hin/sbe01/sbe01019.htm — Extant; 4 adhyāyas (GRETIL; SBE). The cited sūtras 1.1.2, 1.7.1, 1.19.1–7 and book 4 are text-located. The low-confidence date estimate (5th–3rd c. BCE) was not web-checked.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:04 IST._

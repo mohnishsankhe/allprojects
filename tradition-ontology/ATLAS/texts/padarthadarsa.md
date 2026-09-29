@@ -29,4 +29,4 @@ terms: [japa](../terms/japa.md), [vācika japa](../terms/vacika-japa.md), [upā�
 _Notes: Wording and locator checked in Phase B against a local e-text in sources_raw/; still a skeleton entry (not fidelity-checked)._
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U08-agama-catalogue. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U08-agama-catalogue. Generated 2026-09-29 22:04 IST._

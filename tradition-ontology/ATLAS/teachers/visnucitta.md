@@ -22,4 +22,4 @@ Disciple of Rāmānuja and Piḷḷāṉ, author of the Viṣṇucittīya on the
 
 - dating: Web: Viṣṇucitta, author of the Viṣṇucittīya on the Viṣṇu Purāṇa, c. 12th c., pupil of Piḷḷāṉ (a direct disciple of Rāmānuja). The entry had no date ('dating not checked'); a dating is supplied.
 
-_Contributed by: skeleton:U14-visistadvaita, skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U14-visistadvaita, skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._

@@ -12,4 +12,4 @@ Flowing by its own momentum, rooted even in the wise; the wish 'may I not cease,
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 2.9; rests_on: ["tea:yoga-bhasya:2.9"]
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 22:04 IST._

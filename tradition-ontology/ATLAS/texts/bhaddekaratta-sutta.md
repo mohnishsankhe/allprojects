@@ -32,4 +32,4 @@ terms: [vipassanā](../terms/vipassana.md) · concepts: [One fortunate night](..
 _Notes: SuttaCentral uid mn131; Mahāsaṅgīti title 'Bhaddekarattasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:04 IST._

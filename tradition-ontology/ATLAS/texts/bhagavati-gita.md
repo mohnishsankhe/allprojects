@@ -22,4 +22,4 @@ _Notes: Existence recalled with low confidence; contents not verified._
 
 - 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Mahabhagavata_Purana, https://www.wisdomlib.org/hinduism/book/studies-in-the-upapuranas/d/doc1471590.html, https://en.banglapedia.org/index.php?title=Purana — Mahābhāgavata Purāṇa chs. 15-19, called Bhagavatīgītopaniṣad: a dialogue of Pārvatī and her father Himavat on yoga, knowledge and bhakti. The recalled chapter numbers are right.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._

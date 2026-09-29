@@ -15,4 +15,4 @@ Allama Prabhu (Prabhudēva), the mystic of the void (śūnya, bayalu) whose enig
 **Realization — the tradition's account:** Harihara: a temple drummer of Baḷḷigāve who, grieving the death of Kāmalate, came upon a buried shrine where the yogi Animiṣa placed a liṅga in his hand and passed away, and he awoke. Cāmarasa: Śiva's own descent, unmoved by Māyā sent by Pārvatī, whose body passes untouched by Gorakṣa's sword. He ended in Kadaḷi at Śrīśaila, merging into the liṅga.
 
 ---
-_Contributed by: skeleton:U20-virasaiva, skeleton:U28-hatha-texts. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U28-hatha-texts. Generated 2026-09-29 22:04 IST._

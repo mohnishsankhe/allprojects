@@ -16,4 +16,4 @@ Daily worship of one's own liṅga held on the left palm (karapīṭha) with wat
 - Never abandon liṅga-worship, even at the loss of possessions or life. — [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) 10.22
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:04 IST._

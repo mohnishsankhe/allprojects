@@ -16,4 +16,4 @@ Abhinavagupta's commentary on the Kashmirian recension of the Bhagavad Gītā, r
   - kind: original; name: ed. Lakṣmaṇa Raina Brahmacārī (Swami Lakshmanjoo), 1933 (catalogue data)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:04 IST._

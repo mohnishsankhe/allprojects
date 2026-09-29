@@ -21,4 +21,4 @@ Cutting the root of one's own mind and leaving awareness naked; letting the mudd
 - Arising intent obscures clear light; guarding vows conceptually degenerates the pledge. — [Mahāmudropadeśa of Tilopa (the Gaṅgā Mahāmudrā)](../texts/ganga-mahamudra.md) v22-23
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:04 IST._

@@ -16,4 +16,4 @@ With the mouth shaped like a crow's beak (kākī) air is slowly drunk, moved in 
 - Vātasāra is most secret. — [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) 1.16
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:04 IST._

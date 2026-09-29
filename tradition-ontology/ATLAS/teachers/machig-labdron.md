@@ -17,4 +17,4 @@ Tibetan woman master (11th–12th c.) who founded the Chöd practice lineage. A 
 **Realization — the tradition's account:** She is an emanation of the Great Mother Prajñāpāramitā and of Tārā; in her previous life she was an Indian paṇḍita (named Mönlam Drub in the accounts, low confidence) whose consciousness passed to Tibet; she attained realization while reading the chapter on māras in the Perfection of Wisdom; Indian scholars who came to test her accepted her teaching and carried Chöd to India.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:04 IST._

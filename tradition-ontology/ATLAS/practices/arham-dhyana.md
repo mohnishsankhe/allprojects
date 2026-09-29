@@ -12,4 +12,4 @@ Meditating on the seed-syllable 'arhaṃ' — visualised shining in the heart or
   - [Yogaśāstra (Hemacandra)](../texts/yogasastra-hemacandra.md) — ref: 7.9-28; rests_on: ["tea:yogasastra-hemacandra:7.9-28"]
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:04 IST._

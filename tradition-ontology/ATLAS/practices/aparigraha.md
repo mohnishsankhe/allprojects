@@ -22,4 +22,4 @@ Not appropriating objects, seeing the faults of acquiring, keeping, losing, atta
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.21, tea:bhagavad-gita:6.10 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 22:04 IST._

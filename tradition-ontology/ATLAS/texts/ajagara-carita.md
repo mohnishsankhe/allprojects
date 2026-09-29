@@ -35,4 +35,4 @@ _Notes: Compare the python among the avadhūta's teachers (BhP 11.8.1-4) and Pra
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition) — CE 12.172 (37 verses): the dialogue of Prahrāda and the ājagara sage, 172.2-3; 172.37 names 'ajagaracaritaṃ vratam'.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:04 IST._

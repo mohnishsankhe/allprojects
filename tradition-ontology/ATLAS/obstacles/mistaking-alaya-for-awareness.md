@@ -12,4 +12,4 @@ Resting in a blank, indifferent, thoughtless state — the all-base (kun gzhi) �
   - [Tsigdön Dzöd (tshig don rin po che'i mdzod, the Treasury of Words and Meanings)](../texts/tsigdon-dzod.md) — ref: topic 2; rests_on: ["tea:tsigdon-dzod:ch2"]
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:04 IST._

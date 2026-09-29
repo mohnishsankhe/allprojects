@@ -16,4 +16,4 @@ A minor Upapurāṇa of tīrthas and dharma.
 
 - 2026-09-29 catalog: confirmed — catalog:raw_etexts:kapila_purana, local:sources_raw/raw_etexts/purANam/mAdhva-app/kUrma-purANam.md 1.1.19 — Extant and digitized (local raw_etexts kapila_purana.md). KūP 1.1.19 'kāpilam' confirmed. The local text opens with Śalyajit asking about the holy kṣetras of Utkala - consistent with 'tīrthas and dharma'.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 21:52 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:04 IST._
