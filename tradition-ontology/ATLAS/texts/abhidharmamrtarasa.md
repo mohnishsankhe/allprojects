@@ -15,4 +15,4 @@
 A short Abhidharma compendium attributed to Ghoṣaka, covering giving and morality, the realms, karma, the path and meditation.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._

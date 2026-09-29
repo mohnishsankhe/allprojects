@@ -20,4 +20,4 @@ The canonical scriptures of the Śvetāmbara Jains: the twelve-limbed 'basket of
   - kind: original; name: Āgamodaya Samiti editions with commentaries (Surat / Bombay, 1915–1920s); licence: public domain (pre-1928)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._

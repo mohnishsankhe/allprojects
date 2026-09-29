@@ -13,4 +13,4 @@
 - contrasts-with → [Pure lands and buddha-fields](pure-lands.md): a pure land 'here' vs. pure lands elsewhere; both taught — rests on [1.14](../texts/vimalakirtinirdesa.md#tea-vimalakirtinirdesa-1-14), [1](../texts/sukhavativyuha-smaller.md#tea-sukhavativyuha-smaller-1)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._

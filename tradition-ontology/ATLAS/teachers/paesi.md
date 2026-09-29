@@ -12,4 +12,4 @@ King of Śvetavikā who doubted the soul, tested it by experiments on condemned 
 _Notes: Parallels King Pāyāsi of the Pali Pāyāsi Sutta (DN 23)._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._

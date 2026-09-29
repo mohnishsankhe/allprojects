@@ -13,4 +13,4 @@ Kāl (Nirañjan, the negative power) keeps souls bound in the three worlds by ka
   - [The Path of the Masters](../texts/path-of-the-masters.md) — ref: saints and incarnations; rests_on: ["tea:path-of-the-masters:saints-and-avataras"]
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._

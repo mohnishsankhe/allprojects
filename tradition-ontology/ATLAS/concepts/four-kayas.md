@@ -15,4 +15,4 @@
 - is-a → [The bodies of the Buddha (sūtra layer)](three-bodies-sutra.md): the tantric reading of the sūtra doctrine of buddha-bodies
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._

@@ -13,4 +13,4 @@ Purifying the mind by walking and sitting through the day and the first and last
   - [Gaṇakamoggallāna Sutta](../texts/ganakamoggallana-sutta.md) — ref: 3-14; rests_on: ["tea:ganakamoggallana-sutta:3-14"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

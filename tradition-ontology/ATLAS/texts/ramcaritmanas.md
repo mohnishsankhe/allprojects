@@ -335,4 +335,4 @@ concepts: [The vernacular as sacred speech](../concepts/vernacular-as-sacred-spe
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._

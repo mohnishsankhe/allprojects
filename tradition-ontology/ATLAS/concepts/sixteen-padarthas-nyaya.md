@@ -15,4 +15,4 @@
 - contrasts-with → [The six (later seven) categories of Vaiśeṣika](seven-padarthas-vaisesika.md): Nyāya's sixteen are topics of inquiry; the Vaiśeṣika categories are kinds of reals; NBh 1.1.9 admits the latter as further prameyas. — rests on [1.1.9](../texts/nyaya-bhasya.md#tea-nyaya-bhasya-1-1-9)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:15 IST._

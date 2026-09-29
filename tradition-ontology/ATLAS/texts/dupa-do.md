@@ -21,4 +21,4 @@ The principal Anuyoga scripture ('the sūtra'), in 75 chapters: it teaches the n
 _Notes: Colophon read locally (catalog:Derge-Kangyur:D829); content summary from memory._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._

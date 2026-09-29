@@ -20,4 +20,4 @@
 _Notes: The Bhāgavata's nine forms (7.5.23: hearing, singing, remembering ...) are a different list._
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._

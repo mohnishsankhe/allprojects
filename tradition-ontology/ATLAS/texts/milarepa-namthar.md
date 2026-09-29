@@ -84,4 +84,4 @@ concepts: [Buddhahood in one life and one body](../concepts/buddhahood-in-one-li
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._

@@ -119,4 +119,4 @@ _Notes: Veda affiliation: Ṛgveda, Aitareya (Sakala/Asvalayana) tradition_
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL-dev:aitareya-upanisad_aitareyopanisad_rv, text:sources_raw/prepared/aitareya-upanisad/segments.jsonl (Advaita-Śāradā mūla Aitareya.md, adhyāya.khaṇḍa.verse), https://en.wikipedia.org/wiki/Aitareya_Upanishad, https://vedicheritage.gov.in/aranyakas/aitareyaranyaka/, https://www.wisdomli — Confirmed: AĀ 2.4–6 (the Vedic Heritage Portal and Wikipedia), 33 sections (4+5+14 / 6 / 4 in the prepared text) and the traditional attribution to Mahidāsa Aitareya. Wikipedia reports Olivelle's pre-Buddhist 6th–5th c. BCE date, which matches the entry.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:15 IST._

@@ -14,4 +14,4 @@
 The earliest Kannada prose work: nineteen stories of monks who endured hardships and died in meditation, linked to the Bhagavatī Ārādhanā (restricted theme where sallekhanā is described: summary only).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._

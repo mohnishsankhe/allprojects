@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [The formation of the body in the womb](embryology-garbha.md) (embryology): both teach conception from seed, blood and a transmigrating consciousness; stages differ — rests on [2](../texts/gyushi-shegyu.md#tea-gyushi-shegyu-2)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:15 IST._

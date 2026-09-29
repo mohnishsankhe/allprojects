@@ -17,4 +17,4 @@ Making a light mental note of every object as it arises — 'rising', 'falling',
 - Lights, rapture and other experiences at the stage of arising and passing are to be noted, not taken for attainment. — [The Progress of Insight (Visuddhiñāṇakathā)](../texts/progress-of-insight.md) 4
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._

@@ -19,4 +19,4 @@ The Chinese 'numerical discourses', parallel to the Aṅguttara Nikāya; its sch
 _Notes: lineages lists Mahāsāṃghika only as the most-cited proposal._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._

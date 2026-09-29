@@ -28,4 +28,4 @@ terms: [śūraṅgama-samādhi](../terms/surangama-samadhi.md)
 _Notes: Distinct from the Chinese Śūraṅgama Sūtra (src:surangama-sutra)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._

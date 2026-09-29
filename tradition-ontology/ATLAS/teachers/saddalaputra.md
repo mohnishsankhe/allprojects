@@ -10,4 +10,4 @@
 A potter of Polāsapura, formerly a lay follower of Gośāla, converted by Mahāvīra's argument about his pots (if effort were nothing, why punish a man who smashes them?) (Upāsakadaśā 7).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._

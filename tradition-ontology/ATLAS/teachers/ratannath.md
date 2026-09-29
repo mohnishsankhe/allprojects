@@ -8,4 +8,4 @@
 Nāth yogī remembered in Punjab and among Muslims of the north-west as Hājī Ratan; a centre of his cult was at Peshawar.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:15 IST._

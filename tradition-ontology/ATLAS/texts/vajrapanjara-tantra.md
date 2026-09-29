@@ -16,4 +16,4 @@ The 'Vajra Tent', an explanatory tantra of the Hevajra (and of Mahākāla practi
   - kind: translation; name: Derge Kangyur, Tōh 419 (confirmed in the local Derge catalogue); licence: public domain; url: local: sources_raw/derge-kangyur
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._

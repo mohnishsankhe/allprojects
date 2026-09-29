@@ -13,4 +13,4 @@ He trains: 'I shall breathe in (out) liberating the mind'. Step 12 of the sixtee
 **Sequences:** [The sixteen steps of mindfulness of breathing (MN 118)](../paths/anapanasati-sixteen-steps.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

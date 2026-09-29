@@ -15,4 +15,4 @@ The public form of the Lamdre, taught to large gatherings: the Three Visions (pr
   - kind: original; name: Tibetan: Lam 'bras tshogs bshad collections (Sakya, Ngor, Dehra Dun reprints)
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._

@@ -21,4 +21,4 @@ The first shaving of the beard at about sixteen, with a gift of a cow.
 
 - sources: The practice is confirmed, but the cited refs are wrong. Keśānta is not in MDh 2.26–35; it is at MDh 2.65: 'keśāntaḥ ṣoḍaśe varṣe brāhmaṇasya vidhīyate | rājanyabandhor dvāviṃśe vaiśyasya dvyadhike mataḥ'. ĀśGS names godāna among the rites for the northern course at 1.4.1 and gives the godāna rite at 1.18. The Mānava and Vārāha GS have 'ṣoḍaśe varṣe godānam'. Correction: the refs are Manu 2.65 and ĀśGS 1.18.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

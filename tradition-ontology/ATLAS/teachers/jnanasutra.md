@@ -13,4 +13,4 @@
 Disciple of Śrī Siṃha and teacher of Vimalamitra in the instruction-series lineage; his testament is the Four Ways of Leaving as It Is.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._

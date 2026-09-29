@@ -67,4 +67,4 @@ practices: [Giving body, enjoyments and merit](../practices/giving-body-enjoymen
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._

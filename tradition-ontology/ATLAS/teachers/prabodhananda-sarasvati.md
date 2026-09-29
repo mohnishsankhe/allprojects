@@ -13,4 +13,4 @@ Gauḍīya ascetic poet of Vṛndāvana to whom the Gauḍīyas ascribe the Rād
 _Notes: U26 contribution only (the authorship dispute)._
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._

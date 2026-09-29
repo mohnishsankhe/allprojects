@@ -9,4 +9,4 @@
 Dzogchen master and treasure revealer of Kham, disciple of Jamyang Khyentse Wangpo and Patrul Rinpoche.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._

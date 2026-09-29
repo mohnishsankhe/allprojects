@@ -37,4 +37,4 @@ _Notes: Regions from memory; to be checked._
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Shakha, https://vedicheritage.gov.in/brahmanas/kausitaki-shankhyayana-brahmana/ — Confirmed (entry low confidence): Kauṣītaki learnt by Nambūtiris of Kerala; Śāṅkhāyana reported in Gujarat (and Rajasthan, where a revived/last-surviving line is reported).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._

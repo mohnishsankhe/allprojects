@@ -19,4 +19,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.1, tea:bhagavad-gita:13.13, tea:bhagavad-gita:13.14, tea:bhagavad-gita:13.15, tea:bhagavad-gita:13.16, tea:bhagavad-gita:13.17, tea:bhagavad-gita:13.18, tea:bhagavad-gita:13.19 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:15 IST._

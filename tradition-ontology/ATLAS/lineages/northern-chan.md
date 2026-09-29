@@ -44,4 +44,4 @@ _none recorded_
 [Who is the true Sixth Patriarch — was the Northern school collateral?](../debates/huatai-true-lineage.md), [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._

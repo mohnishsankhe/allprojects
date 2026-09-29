@@ -15,4 +15,4 @@ Founder of the Hongzhou school; taught that 'this very mind is buddha', 'neither
 **Realization — the tradition's account:** Sitting in meditation to become a buddha, he was asked by Huairang, who polished a tile, 'can polishing a tile make a mirror? can sitting in meditation make a buddha?' and awoke on hearing the instruction (Jingde chuandeng lu juan 5).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._

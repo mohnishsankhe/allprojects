@@ -13,4 +13,4 @@ Commentator on the Sarvānukramaṇī (Vedārthadīpikā) and the Aitareya Brāh
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Anukrama%E1%B9%87%C4%AB, https://archive.org/details/in.gov.ignca.8098 — Low-confidence entry confirmed: author of the Vedārthadīpikā on the Sarvānukramaṇī (12th c.) and the Sukhapradā on the Aitareya Brāhmaṇa (published).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

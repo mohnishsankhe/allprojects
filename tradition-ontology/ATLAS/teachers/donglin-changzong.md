@@ -10,4 +10,4 @@
 Heir of Huanglong at Mount Lu, teacher of the poet Su Shi (Su Dongpo), whose awakening verse on the valley stream Dōgen cites.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._

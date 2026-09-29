@@ -22,4 +22,4 @@ Shinjin is the true cause (shinjin shōin); the nenbutsu is the expression of gr
 **Candidate readings:** P2-standpoint: from the practice side the nenbutsu, from the entrusting side shinjin — Hōnen's 'believe with one calling, practise with the whole life'; Shinran's own claim that the name and shinjin are inseparable (the name as the cause, shinjin as the condition, or the reverse)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._

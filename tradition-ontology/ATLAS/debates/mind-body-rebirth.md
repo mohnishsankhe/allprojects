@@ -25,4 +25,4 @@ No: breath, senses and cognition do not arise from the body alone without a prio
 **Candidate readings:** P2-standpoint: the Lokāyata speaks only of what perception establishes; Dharmakīrti argues from the causal requirement of a homogeneous prior cause — the disagreement concerns the admissibility of inference.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:15 IST._

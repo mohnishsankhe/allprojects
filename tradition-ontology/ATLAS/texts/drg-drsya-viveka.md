@@ -61,4 +61,4 @@ terms: [pāramārthika](../terms/paramarthika.md), [vyāvahārika](../terms/vyav
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:15 IST._

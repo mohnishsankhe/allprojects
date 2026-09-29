@@ -22,4 +22,4 @@ Wearing an ascetic's garb or talking of yoga without practice (HYP 1.65–66; DY
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.8 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, extraction:bhagavad-gita/ch13-15, skeleton:U26-regional-bhakti, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, extraction:bhagavad-gita/ch13-15, skeleton:U26-regional-bhakti, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._

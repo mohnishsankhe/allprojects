@@ -13,4 +13,4 @@
 Modern Chinese master whose letters spread Pure Land practice among lay people: faithfully fulfil one's social duties, avoid evil and do good, believe in cause and effect, and hold the name with faith and vow; established Lingyan shan as a recitation monastery; counted the thirteenth patriarch.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._

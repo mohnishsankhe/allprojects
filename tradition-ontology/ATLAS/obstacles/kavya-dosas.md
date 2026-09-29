@@ -12,4 +12,4 @@ Faults of word, sentence, meaning and rasa that diminish poetry — rasa's soul 
   - [Kāvyaprakāśa of Mammaṭa](../texts/kavyaprakasa.md) — ref: 7
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._

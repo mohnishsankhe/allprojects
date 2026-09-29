@@ -27,4 +27,4 @@ The guṇas bind the embodied one: sattva by attachment to happiness and knowled
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.13, tea:bhagavad-gita:7.14 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.22, tea:bhagavad-gita:14.5, tea:bhagavad-gita:14.6, tea:bhagavad-gita:14.7, tea:bhagavad-gita:14.8, tea:bhagavad-gita:14.9, tea:bhagavad-gita:14.20 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:15 IST._

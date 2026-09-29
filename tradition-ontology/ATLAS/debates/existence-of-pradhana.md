@@ -29,4 +29,4 @@ No: a single permanent cause cannot produce successive, momentary effects; the a
 **Candidate readings:** P2-standpoint: substance (dravyārthika) vs mode (paryāyārthika) — enduring prakṛti vs changing modifications; both traditions reject this: Sāṃkhya holds the modifications real transformations of one substance, Buddhists deny any enduring substrate.
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:15 IST._

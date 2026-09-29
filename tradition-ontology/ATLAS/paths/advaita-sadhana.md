@@ -25,4 +25,4 @@
 Uses existing U03/U13 teachings. Stage 9 (the liberated one's life) is placed before videhamukti because it belongs to the living knower.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:15 IST._

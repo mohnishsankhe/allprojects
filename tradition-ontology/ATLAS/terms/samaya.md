@@ -29,4 +29,4 @@
 **Related:** [samayācāra](samayacara.md), [samayin](samayin.md), [kaula](kaula.md), [samaya-dīkṣā](samaya-diksa.md), [sva-samaya](sva-samaya.md)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U24-kali-kaula, skeleton:U44-indian-vajrayana, skeleton:U45-nyingma-bon, skeleton:U35-jain-philosophy, skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism, skeleton:U34-jain-canon, skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U24-kali-kaula, skeleton:U44-indian-vajrayana, skeleton:U45-nyingma-bon, skeleton:U35-jain-philosophy, skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism, skeleton:U34-jain-canon, skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._

@@ -12,4 +12,4 @@ No. 43 of the eighty-four siddhas (Tōh 2292 order). A food seller who fed a yog
 _Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292. States the order: realization first, the 'mad' observance only after it._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._

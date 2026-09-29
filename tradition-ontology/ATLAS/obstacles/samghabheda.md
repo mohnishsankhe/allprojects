@@ -11,4 +11,4 @@ Dividing the community by a rival teacher and path (wheel-schism) or by separate
   - [Abhidharmakośa (Abhidharmakośakārikā)](../texts/abhidharmakosa.md) — ref: 4.98-102; rests_on: ["tea:abhidharmakosa:4.98-100", "tea:abhidharmakosa:4.101-102"]
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._

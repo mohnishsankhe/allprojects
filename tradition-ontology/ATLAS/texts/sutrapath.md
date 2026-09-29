@@ -56,4 +56,4 @@ terms: [aṭana](../terms/atana.md), [bhikṣā](../terms/bhiksa.md), [ahiṃsā
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._

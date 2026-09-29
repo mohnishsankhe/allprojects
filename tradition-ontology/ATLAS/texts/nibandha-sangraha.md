@@ -15,4 +15,4 @@
 Ḍalhaṇa's commentary on the Suśruta Saṃhitā (12th c.), the standard commentary; it reports Nāgārjuna as the text's redactor.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._

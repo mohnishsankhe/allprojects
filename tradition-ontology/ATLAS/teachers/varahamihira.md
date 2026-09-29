@@ -22,4 +22,4 @@ The great compiler of all three branches of jyotiṣa: Pañcasiddhāntikā (sidd
 **Realization — the tradition's account:** Received a boon of grace from the Sun (savitṛ-labdha-vara-prasāda) at Kāpitthaka.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:15 IST._

@@ -29,4 +29,4 @@ Jinul adopts Zongmi's framework while honouring Hongzhou masters as awakened.
 **The traditions' own objections:** Zongmi explicitly judged the Hongzhou view deficient; the Linji tradition descending from Mazu rejected Zongmi's classification.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._

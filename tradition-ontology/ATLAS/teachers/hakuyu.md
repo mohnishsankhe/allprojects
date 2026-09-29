@@ -9,4 +9,4 @@
 Hermit of the Kyoto hills who, in Hakuin's account, taught him the naikan and soft-butter methods to cure his Zen sickness.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._

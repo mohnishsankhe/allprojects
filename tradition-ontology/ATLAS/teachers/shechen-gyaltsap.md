@@ -13,4 +13,4 @@ Nyingma master of Shechen, student of Mipham and teacher of Dilgo Khyentse, auth
 _Notes: Catalogue holds works under his name (OpenPecha P000010, P000011, P000159, P000160)._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:15 IST._

@@ -18,4 +18,4 @@
 _Notes: U38 contribution to a shared concept._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U38-early-schools, skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U38-early-schools, skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._

@@ -11,4 +11,4 @@ Disciple and successor of Kīnārām at Krīm Kuṇḍ (tradition).
 _Notes: The full succession list of Krīm Kuṇḍ heads is not reproduced (gap); only names recalled with some confidence are given._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:15 IST._

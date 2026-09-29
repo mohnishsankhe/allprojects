@@ -61,4 +61,4 @@ practices: [The four practices of Bodhidharma](../practices/four-practices-bodhi
 _Notes: Local texts: Shaoshi liumen T2009 (third gate, 二種入), Jingde chuandeng lu T2076 juan 30, and the summary in Xu gaoseng zhuan T2060 juan 16. Teaching refs use the Shaoshi liumen Taishō lines._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._

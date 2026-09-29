@@ -104,4 +104,4 @@ teachers: [Munidatta](../teachers/munidatta.md)
 _Notes: Old-Bengali original not local; Munidatta's commentary in Tibetan read in part (song 1 by Lūipa, songs by Kukkuripa and Kāṇha located)._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._

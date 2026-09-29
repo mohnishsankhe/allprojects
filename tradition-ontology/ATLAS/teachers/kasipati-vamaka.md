@@ -10,4 +10,4 @@ Put to the sages the question whether the person and his diseases arise from the
 _Notes: Refs checked against the DCS e-text of the Caraka Saṃhitā._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._

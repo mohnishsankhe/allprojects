@@ -20,4 +20,4 @@
 Assigning B5 to the discernment of ultimate realities (before the paths) is an interpretive choice: it is 'seeing' in the Visuddhimagga's sense of purification of view, not stream-entry.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._

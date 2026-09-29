@@ -14,4 +14,4 @@ Arranging heaps on a maṇḍala plate as Mount Meru, the continents and all tre
 **Sequences:** [The preliminaries according to the Words of My Perfect Teacher](../paths/kunzang-lamai-shelung-ngondro.md)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon, skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon, skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._

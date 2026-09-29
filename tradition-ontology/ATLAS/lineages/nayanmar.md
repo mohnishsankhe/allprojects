@@ -50,4 +50,4 @@ The Tamil Śaiva devotional movement of the sixty-three saints (Nāyaṉmārs) a
 _Notes: Sub-lineage created by U18. The living tradition counts the Nāyaṉmārs within Śaiva Siddhānta; scholars note that the hymnists predate the Tamil systematization and were absorbed into it retrospectively (the Tēvāram's theology is devotional, not scholastic)._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:15 IST._

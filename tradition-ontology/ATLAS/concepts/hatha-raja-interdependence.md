@@ -14,4 +14,4 @@
 - contrasts-with → [Tāraka and amanaska yoga](taraka-amanaska.md): the Amanaska rejects laborious haṭha methods as means to the mindless state; see dsp:amanaska-critique-of-hatha — rests on [2.topic.critique](../texts/amanaska.md#tea-amanaska-2-topic-critique)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:15 IST._

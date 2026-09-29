@@ -14,4 +14,4 @@
 - contrasts-with → [Apūrva (the unseen potency of ritual action)](apurva.md): Mīmāṃsā's apūrva — rests on [6.2.1-2](../texts/vaisesika-sutra.md#tea-vaisesika-sutra-6-2-1-2)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:15 IST._

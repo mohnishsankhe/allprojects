@@ -17,4 +17,4 @@
 RESTRICTED map: stages only, no method. Verse refs recalled (moderate-low). Banding by U28; the return of kuṇḍalinī to her seat is part of the practice and not banded.
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:15 IST._

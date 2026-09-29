@@ -32,4 +32,4 @@ Jain doxographers report that the Śaiva bharaṭas take the vow without regard 
 _Notes: Relates to the registry debate dsp:women-caste-liberation (U50)._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:15 IST._

@@ -17,4 +17,4 @@ The 'middle-length discourses': 152 suttas on the whole range of the teaching �
 **Commentaries on this text:** [Papañcasūdanī](papancasudani.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

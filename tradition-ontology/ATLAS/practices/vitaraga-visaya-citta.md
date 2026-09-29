@@ -12,4 +12,4 @@ Letting the mind take as its support the mind of one free of passion (1.37, YBh 
   - [Yoga Sūtra of Patañjali](../texts/yoga-sutra.md) — ref: 1.37; rests_on: ["tea:yoga-sutra:1.37"]
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:15 IST._

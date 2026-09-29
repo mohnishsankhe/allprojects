@@ -21,4 +21,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:8.16 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U03-principal-upanisads, skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U03-principal-upanisads, skeleton:U13-advaita. Generated 2026-09-29 18:15 IST._

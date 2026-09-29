@@ -14,4 +14,4 @@
 - same-as-under-standpoint → `cpt:tridosa` (physiology): functionally the Āyurvedic tridoṣa; the Siddha tradition claims its own origin (see dsp:siddha-ayurveda-relation) — rests on [941](../texts/tirukkural.md#tea-tirukkural-941)
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._

@@ -110,4 +110,4 @@ practices: [Relying on the spiritual teacher](../practices/reliance-on-spiritual
 _Notes: Local: catalog:Derge-Tengyur:D3951._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._

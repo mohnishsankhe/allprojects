@@ -30,4 +30,4 @@ terms: [paṭiccasamuppāda](../terms/paticcasamuppada.md) · concepts: [Depende
 _Notes: SuttaCentral uid sn12.65; Mahāsaṅgīti title 'Nagarasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

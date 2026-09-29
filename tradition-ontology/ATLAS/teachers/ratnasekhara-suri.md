@@ -13,4 +13,4 @@
 _Notes: Identity with other Ratnaśekharas (e.g. the author of the Sirisirivālakahā) not established._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._

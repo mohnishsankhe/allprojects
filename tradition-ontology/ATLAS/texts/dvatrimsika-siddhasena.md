@@ -15,4 +15,4 @@
 Siddhasena Divākara's 'thirty-two hymns of thirty-two verses' (twenty-one survive): praises of Mahāvīra and critical surveys of the other darśanas (Vaiśeṣika, Sāṃkhya, Buddhist and others) and of Vedic teaching.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._

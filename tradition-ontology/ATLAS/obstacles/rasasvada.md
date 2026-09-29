@@ -16,4 +16,4 @@ Enjoying the bliss of absorption (savikalpa) and resting there, which prevents g
 _Notes: Partial parallel: Vedāntasāra's rasāsvāda (there: relishing the bliss of savikalpa samādhi) — same word, different object (list of obstacles to nirvikalpa samādhi; U13). Viśvanātha adds apratipatti._
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._

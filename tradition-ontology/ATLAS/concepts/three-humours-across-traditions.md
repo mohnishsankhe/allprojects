@@ -18,4 +18,4 @@
 _Notes: The Tibetan tradition's own debate on whether the Four Tantras are the Buddha's word is recorded by U48 as dsp:gyushi-buddha-word; the borrowing is brw:ayurveda-to-sowa-rigpa._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:15 IST._

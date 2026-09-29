@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [Powers as obstacles (the warnings)](siddhis-as-obstacles.md) (seeker): the Kagyu warning corresponds to the general warning that powers are obstacles when grasped — rests on [276a.5](../texts/bka-dpe-phyi-ma.md#tea-bka-dpe-phyi-ma-276a-5)
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._

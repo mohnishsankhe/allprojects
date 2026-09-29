@@ -14,4 +14,4 @@
 - contrasts-with → [Whether the omniscient eats (kevali-bhukti)](kevalibhukti.md): the Digambara list excludes the kevalin's eating; the Śvetāmbara list does not — rests on [6](../texts/niyamasara.md#tea-niyamasara-6), [whole](../texts/kevalibhukti-prakarana.md#tea-kevalibhukti-prakarana-whole)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._

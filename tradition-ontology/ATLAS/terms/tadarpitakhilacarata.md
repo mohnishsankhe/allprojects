@@ -13,4 +13,4 @@
 - partial: [īśvarārpaṇa](isvararpana.md) — the Gītā and Mīmāṃsā-Vedānta offering of acts to Īśvara; NBS makes the offering a mark of love, not a purificatory means
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:15 IST._

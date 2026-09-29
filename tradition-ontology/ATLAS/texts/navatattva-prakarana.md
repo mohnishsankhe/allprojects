@@ -12,4 +12,4 @@
 A short Prakrit Śvetāmbara primer on the nine realities (jīva, ajīva, puṇya, pāpa, āsrava, saṃvara, bandha, nirjarā, mokṣa) memorised by students.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._

@@ -15,4 +15,4 @@ The exemplar of the power of the last thought (anta-smṛti) and of the avadhūt
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 5.8.26-27; 5.10.1, local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 2.13 — BhP 5.8.26-27 and 5.10.1 (Rahūgaṇa), VP 2.13 located.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

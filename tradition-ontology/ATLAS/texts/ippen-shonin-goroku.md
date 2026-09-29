@@ -26,4 +26,4 @@ terms: [sutete koso](../terms/sutete-koso.md) · concepts: [The name as itself b
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._

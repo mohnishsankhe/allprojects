@@ -12,4 +12,4 @@
 The Chinese parallel to the Pali Aṭṭhakavagga of the Sutta Nipāta, with a prose frame story for each poem.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._

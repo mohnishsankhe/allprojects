@@ -34,4 +34,4 @@
 **Related:** [bodhisattva](bodhisattva.md), [praṇidhāna](pranidhana.md), [bodhipraṇidhicitta](bodhipranidhicitta.md), [bodhiprasthānacitta](bodhiprasthanacitta.md), [saṃvṛti-bodhicitta](samvrti-bodhicitta.md), [paramārtha-bodhicitta](paramartha-bodhicitta.md), [cittotpāda](cittotpada.md)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana, skeleton:U43-pure-land, skeleton:U47-sakya-kadam-gelug, skeleton:U44-indian-vajrayana, skeleton:U45-nyingma-bon, skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana, skeleton:U43-pure-land, skeleton:U47-sakya-kadam-gelug, skeleton:U44-indian-vajrayana, skeleton:U45-nyingma-bon, skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._

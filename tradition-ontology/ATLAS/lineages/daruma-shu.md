@@ -35,4 +35,4 @@ _none recorded_
 [Are precepts and practice needed once one has awakened?](../debates/daruma-shu-precepts.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._

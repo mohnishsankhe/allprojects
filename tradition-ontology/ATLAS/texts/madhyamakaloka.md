@@ -19,4 +19,4 @@ Kamalaśīla's 'Light of the Middle Way', a long treatise proving by reasoning a
 _Notes: Nature of the GRETIL Sanskrit (original or partial) to be checked._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._

@@ -13,4 +13,4 @@
 - part-of → [Ground-appearances and how delusion arises](ground-appearances-and-delusion.md)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._

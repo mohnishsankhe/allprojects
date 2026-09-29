@@ -14,4 +14,4 @@
 Deśika's great poem (mahākāvya) on the life of Kṛṣṇa; the tradition says Appayya Dīkṣita wrote a commentary on it.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:15 IST._

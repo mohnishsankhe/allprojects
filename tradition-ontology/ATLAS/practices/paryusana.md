@@ -17,4 +17,4 @@ An eight-day period at the height of the rains (Bhādrapada) of fasting accordin
 - One who does not forgive and ask forgiveness is not a true follower of the discipline: 'the essence of monkhood is calm'. — [Kalpa Sūtra (Paryuṣaṇākalpa)](../texts/kalpa-sutra-jain.md) samacari
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._

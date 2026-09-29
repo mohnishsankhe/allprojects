@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A brahmin who wove flower garlands for Śi
 **Realization — the tradition's account:** A brahmin who wove flower garlands for Śiva; friend of Campantar, he attained Śiva at Campantar's wedding.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:15 IST._

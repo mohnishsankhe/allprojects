@@ -38,4 +38,4 @@ Eight only: 'amala' is a name of the purified eighth consciousness, not a ninth 
 _Notes: The Pramāṇa school's six-consciousness usage is a Tibetan doxographic observation, recorded under cpt:eight-consciousnesses._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:15 IST._

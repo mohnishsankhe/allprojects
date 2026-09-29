@@ -14,4 +14,4 @@
 - contrasts-with → [The three guṇas](three-gunas.md): the six are 'aprākṛta'; the Lord is nirguṇa with respect to prakṛti's three guṇas — rests on [2.53-62](../texts/ahirbudhnya-samhita.md#tea-ahirbudhnya-samhita-2-53-62)
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:15 IST._

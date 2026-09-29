@@ -13,4 +13,4 @@ Holding the mind to one principle to counter the obstacles and their accompanime
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 1.32; rests_on: ["tea:yoga-bhasya:1.32"]
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:15 IST._

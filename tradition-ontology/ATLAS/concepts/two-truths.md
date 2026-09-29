@@ -29,4 +29,4 @@
 _Notes: The Madhyamaka systematization belongs to U40._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U47-sakya-kadam-gelug, skeleton:U39-mahayana-sutras, skeleton:U48-jonang-chod-medicine-rime, skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U47-sakya-kadam-gelug, skeleton:U39-mahayana-sutras, skeleton:U48-jonang-chod-medicine-rime, skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._

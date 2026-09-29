@@ -17,4 +17,4 @@
 **Related:** [bhūtapratyavekṣā](bhutapratyaveksa.md)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U40-madhyamaka, skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U40-madhyamaka, skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._

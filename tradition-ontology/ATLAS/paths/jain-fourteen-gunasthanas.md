@@ -29,4 +29,4 @@
 Stage names follow the Gommaṭasāra Jīvakāṇḍa 9-10 (and the Ṣaṭkhaṇḍāgama); the Śvetāmbara lists agree in substance. The guṇasthānas are classes of soul-state by the operation of mohanīya karma and activity, not only a practice ladder: a soul may fall from 11 (and from 4 via 2). Beyond 14 the liberated soul (siddha) is outside the guṇasthānas.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:15 IST._

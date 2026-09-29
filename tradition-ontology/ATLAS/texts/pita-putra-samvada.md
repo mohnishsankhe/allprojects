@@ -24,4 +24,4 @@ A son named Medhāvin tells his Vedic father that the world is struck by death a
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.169.3 Medhāvin; 12.169.9-20 mṛtyu verses — Section located at CE 12.169 as entered; speakers and topic confirmed by keyword search. The title is descriptive (the chapter is the dialogue of Medhāvin and his father). Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._

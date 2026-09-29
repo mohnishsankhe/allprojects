@@ -17,4 +17,4 @@
 - part-of → [The five co-causes (kāla, svabhāva, niyati, pūrvakṛta, puruṣakāra)](five-causes-jain.md) (Jain anekānta): in the Jain synthesis niyati is one of five co-causes — rests on [3.53](../texts/sanmati-tarka.md#tea-sanmati-tarka-3-53)
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._

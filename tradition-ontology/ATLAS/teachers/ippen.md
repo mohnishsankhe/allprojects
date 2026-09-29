@@ -16,4 +16,4 @@ Wandering holy man who gave up home and possessions ('the saint who casts off'),
 _Notes: The count of talismans follows the Ippen Hijiri-e as usually reported (moderate)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._

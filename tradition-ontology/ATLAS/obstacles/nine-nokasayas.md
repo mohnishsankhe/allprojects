@@ -12,4 +12,4 @@ Laughter, liking, disliking, grief, fear, disgust and the three sexual drives, w
   - [Tattvārthasūtra](../texts/tattvartha-sutra.md) — ref: 8.9; rests_on: ["tea:tattvartha-sutra:8.9"]
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._

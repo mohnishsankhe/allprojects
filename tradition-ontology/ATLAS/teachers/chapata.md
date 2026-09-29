@@ -11,4 +11,4 @@
 Burmese monk who studied in Sri Lanka in the late 12th century and returned to Pagan; credited with the Saṅkhepavaṇṇanā on the Abhidhammatthasaṅgaha.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._

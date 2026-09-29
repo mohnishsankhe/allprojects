@@ -13,4 +13,4 @@ Keeping the Medicine Buddha's name, reciting the sūtra, lighting lamps and hang
 _Notes: The number of lamps and days of the rite are given in the Chinese versions; not recorded here._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._

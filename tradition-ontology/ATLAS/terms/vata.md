@@ -22,4 +22,4 @@
 **Related:** [Vāyu](vayu.md), [prāṇa](prana.md)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._

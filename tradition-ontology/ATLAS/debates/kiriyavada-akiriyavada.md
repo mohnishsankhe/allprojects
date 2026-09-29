@@ -33,4 +33,4 @@ The Buddha teaches the doctrine of kamma and of effort: kamma is intention, deed
 _Notes: The six teachers are owned by U33; this record states the Buddhist side from the Nikāyas._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

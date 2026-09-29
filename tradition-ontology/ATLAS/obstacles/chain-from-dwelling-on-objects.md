@@ -13,4 +13,4 @@ Dwelling on objects breeds attachment; attachment desire; desire anger; anger de
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 2.62–63; rests_on: ["tea:bhagavad-gita:2.62-63"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._

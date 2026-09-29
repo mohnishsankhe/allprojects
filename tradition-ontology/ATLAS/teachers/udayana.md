@@ -20,4 +20,4 @@ Called simply 'the Ācārya' by later Naiyāyikas; the great defender of Īśvar
 _Notes: Hagiographic tradition (low confidence): denied entry to the Jagannātha temple at Puri, he is said to have addressed the Lord: 'Drunk with lordship you disregard me; when the Buddhists come, your existence depends on me.'_
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:15 IST._

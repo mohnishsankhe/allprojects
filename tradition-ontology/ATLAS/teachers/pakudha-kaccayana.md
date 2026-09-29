@@ -12,4 +12,4 @@ One of the six famous teachers. DN 2 reports his doctrine of seven bodies (kāya
 _Notes: Doctrine reported_by_opponent. The Pali commentary's report that he avoided cold water is recalled with low confidence. His seven bodies reappear merged with niyati in Ja 545 and in the fourth 'negation' of MN 76._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._

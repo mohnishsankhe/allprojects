@@ -21,4 +21,4 @@ _Notes: List verified in the local Bhāgavata e-text (11.7.33-34). The six teach
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition) — List verified at BhP 11.7.33-34 (24 names); Bodhya's six at MBh CE 12.171.61. All six appear among the 24, with sāraṅga as the bee (madhukṛt).
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._

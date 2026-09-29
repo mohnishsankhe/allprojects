@@ -29,4 +29,4 @@ concepts: [The Lord's subjection to his devotees (bhakta-parādhīnatā)](../con
 
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:15 IST._

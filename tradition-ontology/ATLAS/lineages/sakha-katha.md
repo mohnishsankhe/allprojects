@@ -36,4 +36,4 @@ _none recorded_
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Kāṭhakasaṃhitā, catalog:eBharati:kAThakagRhyasUtram, catalog:eBharati:laugAxigRhyasUtrANi, https://en.wikipedia.org/wiki/Shakha — Confirmed: Kāṭhaka Saṃhitā extant in manuscript (DCS); Kāṭhaka/Laugākṣi Gṛhya Sūtra extant; Kashmiri connection standard. Status 'absorbed' is a classification choice.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._

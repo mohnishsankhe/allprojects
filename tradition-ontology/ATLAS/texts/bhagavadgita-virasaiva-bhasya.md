@@ -15,4 +15,4 @@ A twentieth-century commentary on the Bhagavad Gītā from the Vīraśaiva stand
   - kind: original; name: Muktabodha digital library e-text M00330 (print 1965)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:15 IST._

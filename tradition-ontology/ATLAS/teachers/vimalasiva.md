@@ -14,4 +14,4 @@ Saiddhāntika author of the Vimalāvatī on ritual, who took a lifelong vow of r
 _Notes: From the Muktabodha catalogue description (sources_raw/raw_etexts/mixed/mukta/muktabodha_metadata.json (Muktabodha catalogue descriptions))._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:15 IST._

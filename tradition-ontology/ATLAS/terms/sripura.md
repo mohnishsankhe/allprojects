@@ -17,4 +17,4 @@
 _Notes: Also: Śrīnagara_
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

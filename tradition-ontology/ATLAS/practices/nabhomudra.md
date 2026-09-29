@@ -15,4 +15,4 @@ Wherever one is and whatever one is doing, the tongue is kept turned upward and 
   - [Vivekamārtaṇḍa](../texts/vivekamartanda.md) — rests_on: ["tea:vivekamartanda:topic.mudras"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:15 IST._

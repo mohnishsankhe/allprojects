@@ -42,4 +42,4 @@ teachers: [Mañjuśrīmitra](../teachers/manjusrimitra.md)
 _Notes: Local: catalog:Derge-Tengyur:D2591; the identification with 'rdo la gser zhun' confirmed by the phrase 'rdo la gser bzhin' at f.4b.4._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._

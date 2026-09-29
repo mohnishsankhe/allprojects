@@ -13,4 +13,4 @@ King of Mithilā who claims to be liberated while ruling and is tested by the as
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.308.4, 12.308.24 — Located as described (he names Pañcaśikha as his teacher in 12.308).
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._

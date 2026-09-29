@@ -14,4 +14,4 @@
 _Notes: Temple locations and dates are historical metadata (moderate confidence); the yoginī name-lists are not reproduced._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:15 IST._

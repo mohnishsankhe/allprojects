@@ -14,4 +14,4 @@ Author of the Haṭharatnāvalī, a 17th-c. manual that engages critically with 
 _Notes: Title 'mahāyogīndra' and South Indian origin are low-confidence recollections._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:15 IST._

@@ -28,4 +28,4 @@ This is the tradition's own naya analysis of the first schism (moderate confiden
 **The traditions' own objections:** The tradition still counts Jamāli a nihnava because he denied the Jina's word; the reconciliation does not make his secession acceptable.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._

@@ -13,4 +13,4 @@
 A brāhmaṇa converted by Prabhava's disciples; successor of Prabhava, who according to tradition composed the Daśavaikālika from the Pūrvas for his son Manaka, who had only six months to live.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._

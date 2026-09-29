@@ -15,4 +15,4 @@ A soma rite of 'the drink of strength', with a chariot race, granting pre-eminen
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Yajurveda/vajasneyi_madhyadina_samhita.json — VS 9 opens with the vājapeya formulas ('deva savitaḥ prasuva yajñam …'), matching 'VS 9 (as usually located)'.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._

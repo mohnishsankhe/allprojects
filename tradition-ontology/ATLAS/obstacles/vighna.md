@@ -10,4 +10,4 @@ Beings and forces that obstruct worship; at the start of rites they are driven a
 **Antidotes:** [Ritual worship of the deity (pūjā, arcana)](../practices/puja.md)
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:15 IST._

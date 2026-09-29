@@ -17,4 +17,4 @@ Digambara poet-philosopher who first set out many-sidedness and the sevenfold pr
 **Realization — the tradition's account:** The image of Candraprabha emerged from the liṅga at Vārāṇasī as he sang the hymn to the eighth Tīrthaṅkara.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._

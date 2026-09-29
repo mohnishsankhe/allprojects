@@ -117,4 +117,4 @@ _Notes: Checked against the local critical text: the famous 'greatest wonder' (a
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_3.json (BORI Critical Edition text) 3.297.26ff Yakṣa's questions; 3.298 Dharma revealed — Section located at CE 3.297-298 as entered; speakers and topic confirmed by keyword search. Vulgate location (Vanaparvan 311–313, Gita Press numbering) supported by the web citation of 3.313.116; the local vulgate file (another edition) has the Yakṣa chapter as Āraṇyaparvan adhyāya 314. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._

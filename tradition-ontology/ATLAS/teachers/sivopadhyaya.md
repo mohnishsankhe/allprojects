@@ -11,4 +11,4 @@
 18th-century Kashmiri commentator who completed the commentary on the Vijñāna Bhairava from v. 24, where Kṣemarāja's breaks off.
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:15 IST._

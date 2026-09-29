@@ -15,4 +15,4 @@ RESTRICTED. Coded Bāul teaching on the breath as the vehicle of the Man ('catch
 - Without the guru the seeker catches only wind. — [Lālan-gīti (the songs of Lalon Fakir)](../texts/lalon-giti.md) 'dhar cor hāoyār ghare'
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._

@@ -88,4 +88,4 @@ terms: [khandha](../terms/khandha.md) · concepts: [Not-self (anattā)](../conce
 _Notes: SuttaCentral uid mn22; Mahāsaṅgīti title 'Alagaddūpamasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

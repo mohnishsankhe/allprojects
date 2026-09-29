@@ -13,4 +13,4 @@
 - part-of → [The two stages (generation and completion)](two-stages.md): Union is the culmination of the completion stage. — rests on [5.20](../texts/pancakrama.md#tea-pancakrama-5-20)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._

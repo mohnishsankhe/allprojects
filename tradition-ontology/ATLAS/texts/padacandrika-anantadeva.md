@@ -30,4 +30,4 @@ terms: [nirodha](../terms/nirodha.md), [citta](../terms/citta.md) · concepts: [
 _Notes: Date not established (gap)._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:15 IST._

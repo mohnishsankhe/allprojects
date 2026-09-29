@@ -11,4 +11,4 @@ Saint of Dvārakā counted third of the five Kṛṣṇas; by Mahānubhāva trad
 _Notes: Distinct from the Vārkarī yogī Cāṅgadev (tch:cangadeva-vatesvar)._
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._

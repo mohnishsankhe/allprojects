@@ -15,4 +15,4 @@
 Kallinātha's commentary on the Saṅgītaratnākara, written at the Vijayanagara court, relating the treatise to the practice of his time.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._

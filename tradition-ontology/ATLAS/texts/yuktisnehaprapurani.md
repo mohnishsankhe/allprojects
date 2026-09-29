@@ -15,4 +15,4 @@
 Rāmakṛṣṇa Bhaṭṭa's commentary on the tarkapāda of the Śāstradīpikā (with the Siddhāntacandrikā).
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:15 IST._

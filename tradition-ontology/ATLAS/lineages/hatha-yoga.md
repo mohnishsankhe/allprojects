@@ -65,4 +65,4 @@ The textual tradition of haṭha ('force') yoga, from the Amṛtasiddhi (c. 11th
 _Notes: U28 owns this lineage. Sectarian home: not a single sect — the texts are Śaiva (HYP, SS), Vaiṣṇava (DYŚ, GS), Vedic-orthodox (VS, YY), Śākta (ṢCN) and at the start Buddhist (Amṛtasiddhi). Family set to 'vedic' following the convention of the other Hindu tantric lineages; the Buddhist origin is recorded in transmissions_received._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:15 IST._

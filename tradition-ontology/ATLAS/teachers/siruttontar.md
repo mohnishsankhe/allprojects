@@ -12,4 +12,4 @@ One of the sixty-three Nāyaṉmārs. General of the Pallava king who led the ca
 **Realization — the tradition's account:** General of the Pallava king who led the capture of Vātāpi; retiring to serve devotees, he was visited by Śiva as a Bhairava ascetic who asked for a meal cooked from an only son of five; he and his wife Veṇkāṭṭu Naṅkai cooked their son Cīrāḷaṉ; the ascetic bade them call the boy to eat with him, and the boy came running, alive.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:15 IST._

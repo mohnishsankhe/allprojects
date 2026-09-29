@@ -17,4 +17,4 @@ Vacanas signed Kūḍalacennasaṅgamadēva, honoured in the tradition for their
 _Notes: aṅkita (signature): Kūḍalacennasaṅgamadēva. Cited by incipit; edition numbering to be fixed in Phase D._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:15 IST._

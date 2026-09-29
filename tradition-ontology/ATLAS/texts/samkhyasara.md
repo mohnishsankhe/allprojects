@@ -41,4 +41,4 @@ concepts: [Discriminating knowledge (viveka, vivekakhyāti)](../concepts/viveka-
 
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:15 IST._

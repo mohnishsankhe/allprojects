@@ -27,4 +27,4 @@ No: only the parts (ultimately momentary particulars) are real; the 'whole' is a
 **Candidate readings:** P2-standpoint: the Jain distinction of a standpoint of the enduring whole (dravyārthika) from one of parts and modes (paryāyārthika) would treat the two as partial views.; P1-level: Buddhist two-truth doctrine allows wholes conventional (not ultimate) reality.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:15 IST._

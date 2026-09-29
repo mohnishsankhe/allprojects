@@ -36,4 +36,4 @@ _level: conventional · standpoint: causal · path: knowledge · stage: all · t
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.270.13-24 Vṛtra, Uśanas; 12.271.3-6 Sanatkumāra; 12.271.33 — Section located at CE 12.270-271 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition), local:sources_raw/raw_etexts/purANam/vaiShNavam/mahAbhAratam/gp/epub_no_img/ (Gita Press vulgate, chapter colophons) — CE 12.270-271 confirmed: Uśanas questions the fallen Vṛtra, and Sanatkumāra teaches Viṣṇu's greatness (271.3-6). Vulgate colophons 'vṛtragītāsu' (12.279-280).
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._

@@ -15,4 +15,4 @@
 A record of visions attained in nenbutsu samādhi — the ground, the jewel trees, the ponds and the Buddha's form of the Pure Land — which Hōnen is said to have kept private.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._

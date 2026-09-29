@@ -20,4 +20,4 @@ Six temperaments in brief; counting combinations would be endless (Visuddhimagga
 **The traditions' own objections:** Other points where Buddhaghosa rejects 'some' teachers' views remain to be collated (Dhammapāla's sub-commentary names Upatissa for several).
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._

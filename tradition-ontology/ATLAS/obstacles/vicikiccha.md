@@ -12,4 +12,4 @@ The fifth hindrance and second fetter: doubt about the teacher, the teaching and
   - [Sabbāsava Sutta](../texts/sabbasava-sutta.md) — ref: 5-11; rests_on: ["tea:sabbasava-sutta:5-11"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

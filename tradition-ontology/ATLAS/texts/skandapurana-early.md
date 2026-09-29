@@ -20,4 +20,4 @@ _Notes: Distinct from the printed Skanda Mahāpurāṇa; strong Pāśupata and V
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:raw_etexts:skandapurana (sarit), local:sources_raw/raw_etexts/purANam/skanda-purANam/8_ambikA-khaNDaH, https://www.universiteitleiden.nl/en/research/research-projects/humanities/the-skandapur%C4%81%E1%B9%87a-project, https://research.rug.nl/en/publications/towards-a-critical-edition-of-the-s — Confirmed: Nepalese palm-leaf manuscripts incl. the oldest dated Purāṇa manuscript (810 CE); critical edition begun at Groningen by Adriaensen, Bakker and Isaacson (vol. I, 1998). Also digitized locally (raw_etexts skanda-purANam/8_ambikA-khaNDaH and sarit skandapurana, opening 'namaḥ paramadevāya traiguṇyavijitātmane'); the entry's availability is right.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

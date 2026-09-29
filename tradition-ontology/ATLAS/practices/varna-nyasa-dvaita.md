@@ -16,4 +16,4 @@ Placing on one's body the fifty letters as the fifty forms of Viṣṇu (Aja, Ā
 - partial: [Placing letters and syllables on the body (nyāsa)](nyasa.md) — Dvaita's nyāsa places forms of Viṣṇu, not Śākta or Śaiva deities.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:15 IST._

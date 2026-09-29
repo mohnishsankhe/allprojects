@@ -19,4 +19,4 @@ Teaches that contemplating the mind alone comprehends all practices; reinterpret
 _Notes: Dunhuang text (T85 no. 2833) not held locally; the Poxiang lun version is in Shaoshi liumen T2009 (local, not yet read for this entry)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._

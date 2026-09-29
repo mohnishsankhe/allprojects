@@ -8,4 +8,4 @@
 Vāseṭṭha's companion in MN 98 / Snp 3.9 and DN 13.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

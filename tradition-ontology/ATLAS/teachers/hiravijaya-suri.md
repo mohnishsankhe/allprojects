@@ -9,4 +9,4 @@
 Tapā Gaccha leader (1527–1596) who visited Akbar at Fatehpur Sikri (1582) and obtained edicts restricting animal slaughter during Paryuṣaṇa.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._

@@ -13,4 +13,4 @@
 The first of the five 'king' treasure revealers; revealed the Kagye Deshek Düpa, the Copper Island biography of Padmasambhava, and wrote an early history of the Dharma.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._

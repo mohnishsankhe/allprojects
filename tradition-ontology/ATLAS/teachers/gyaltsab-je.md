@@ -19,4 +19,4 @@ One of Tsongkhapa's two chief disciples, formerly a leading Sakya scholar; Tsong
 _Notes: Contribution of U41._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:15 IST._

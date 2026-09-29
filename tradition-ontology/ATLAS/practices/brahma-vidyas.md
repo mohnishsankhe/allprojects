@@ -13,4 +13,4 @@ Specific forms of meditation on Brahman taught in the Upaniṣads (such as the D
 _Notes: The count of thirty-two and the list are recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:15 IST._

@@ -13,4 +13,4 @@ Son of King Uttānapāda; slighted by his stepmother, he went to the forest as a
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 4.8.54, local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 1.11.43-44 — BhP 4.8.54 (Nārada's mantra) and VP 1.11.43-44 (Marīci, Atri and the sages instruct him) located.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

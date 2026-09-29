@@ -22,4 +22,4 @@ The text also gives the eight (or six) limbs as the general frame, and saviṣay
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:siva-purana:7.2.37.12-20, tea:siva-purana:7.2.37.6-11, tea:siva-purana:7.2.39.4-9 — Stage refs located: ŚiP 7.2.37.8 (mantra-yoga), 37.9 (sparśa, bhāva), 37.10 (abhāva), 37.11 (mahā-yoga), 37.12-13 (eligibility). All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

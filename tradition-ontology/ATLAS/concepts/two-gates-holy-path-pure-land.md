@@ -17,4 +17,4 @@
 - corresponds-to-in-map → [The easy path and the difficult path](easy-and-difficult-practice.md): Daochuo's two gates restate Nāgārjuna's two paths in terms of the age — rests on [13c05-22](../texts/anle-ji.md#tea-anle-ji-13c05-22), [41b02-06](../texts/dasabhumika-vibhasa.md#tea-dasabhumika-vibhasa-41b02-06)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._

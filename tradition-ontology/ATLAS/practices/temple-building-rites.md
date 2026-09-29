@@ -15,4 +15,4 @@ Examination and taking possession of the site, ploughing (karṣaṇa), sproutin
 _Notes: U58 owns Vāstu/Śilpa; here the ritual frame._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:15 IST._

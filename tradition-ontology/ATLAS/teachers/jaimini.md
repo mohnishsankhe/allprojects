@@ -24,4 +24,4 @@ _Notes: The Purāṇic Jaimini (Sāmaveda transmitter, narrator of the Jaimini A
 - 2026-09-28 catalog: confirmed — catalog:DCS:Jaiminīyabrāhmaṇa — Confirmed as the eponym of the Jaiminīya Sāmaveda school, whose Brāhmaṇa is extant. The other identifications are labelled as tradition.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 3.4.9, local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet) 1.1 — VP 3.4.9 (Jaimini for the Sāmaveda) and MkP 1.1 located.
 
-_Contributed by: skeleton:U12-mimamsa, skeleton:U13-advaita, skeleton:U01-vedic-samhitas, skeleton:U07-puranas, skeleton:U32-jyotisa, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U13-advaita, skeleton:U01-vedic-samhitas, skeleton:U07-puranas, skeleton:U32-jyotisa, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

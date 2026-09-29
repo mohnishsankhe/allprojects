@@ -161,4 +161,4 @@ _Notes: Distinct from the 'Aṣṭāvakrīya' episode of the Mahābhārata (Āra
 
 - 2026-09-29 catalog+websearch: confirmed — local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/prepared/astavakra-gita/segments.jsonl (GRETIL e-text), catalog:eBharati:aShTAvakragItA, https://en.wikipedia.org/wiki/Ashtavakra_Gita — Chapter verse counts verified exactly in the 1915 Gītāsaṅgraha (20,25,14,6,4,4,5,4,8,8,8,8,7,4,20,11,20,100,8,14 = 298) plus a 6-verse 21st 'chapter' (the saṅkhyākrama). Dating: Brockington places it in the 8th c. (a follower of Śaṅkara) or the 14th c.; an outlier dates it much earlier. The entry's range matches.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._

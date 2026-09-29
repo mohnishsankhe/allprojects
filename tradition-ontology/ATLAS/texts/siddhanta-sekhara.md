@@ -14,4 +14,4 @@
 Śrīpati's siddhānta of the Brāhma school.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:15 IST._

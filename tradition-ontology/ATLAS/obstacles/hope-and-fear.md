@@ -14,4 +14,4 @@ The poison of hope and fear intoxicates the yogin's mind and binds the innate gn
   - [Kunjed Gyalpo (chos thams cad rdzogs pa chen po byang chub kyi sems kun byed rgyal po, the All-Creating King)](../texts/kunjed-gyalpo.md) — ref: ch.9; rests_on: ["tea:kunjed-gyalpo:9"]
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U46-kagyu, skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U46-kagyu, skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._

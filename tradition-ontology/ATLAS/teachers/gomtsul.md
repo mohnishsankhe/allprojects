@@ -12,4 +12,4 @@
 Gampopa's nephew and successor at Daklha Gampo; teacher of Lama Zhang.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._

@@ -16,4 +16,4 @@ Before samādhi, contemplating the world as Oṃ; dissolving A (the waking viśv
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press) — Rests on tea:rama-gita:7.5.48-52; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._

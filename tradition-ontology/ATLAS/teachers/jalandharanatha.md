@@ -15,4 +15,4 @@ A siddha counted among the nine Nāths; in the Bengali Gopīcandra cycle he is H
 _Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._

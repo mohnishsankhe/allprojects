@@ -16,4 +16,4 @@
 
 - 2026-09-29 text-locate: confirmed — MDh 10.5–65 (anuloma/pratiloma groups) and 10.64–65 (rise over seven generations) were found; MDh 10.24 gives the causes of saṅkara. Rests on teaching checks confirmed in this sweep: tea:manusmrti:10.64-65.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

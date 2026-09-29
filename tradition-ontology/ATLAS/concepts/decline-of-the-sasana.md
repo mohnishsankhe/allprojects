@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [The decline of the dispensation](sasana-decline.md) (cosmic): the commentarial doctrine of the decline of the Sāsana (U37) — rests on [10.1.6](../texts/cullavagga.md#tea-cullavagga-10-1-6)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

@@ -67,4 +67,4 @@ terms: [pēcāta mantiram](../terms/pecata-mantiram.md), [guru](../terms/guru.md
 _Notes: Checked in the local e-text. The ascription to the author of the Tirumantiram is the tradition's; scholars treat such works as later Siddhar compositions under his name._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._

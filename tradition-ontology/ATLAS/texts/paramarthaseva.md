@@ -15,4 +15,4 @@ Puṇḍarīka's short treatise on the 'ultimate service', the six-branch yoga.
   - kind: translation; name: Derge Tengyur, Tōh 1348 (confirmed in the local Derge catalogue); licence: public domain; url: local: sources_raw/derge-tengyur
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._

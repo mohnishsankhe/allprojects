@@ -13,4 +13,4 @@ A Sanskrit anthology of over three hundred sādhanas of Buddhist deities (Tārā
   - kind: original; name: ed. B. Bhattacharya, GOS 26, 41 (1925–28)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._

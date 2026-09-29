@@ -17,4 +17,4 @@
 - analogous: [avayava](avayava.md) — Nyāya's five-membered proof and the Buddhist triple-marked reason both formalize inference; the Buddhists reduce the members and put the force in the reason's marks.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:15 IST._

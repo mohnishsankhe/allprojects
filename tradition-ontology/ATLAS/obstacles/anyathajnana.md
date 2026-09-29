@@ -12,4 +12,4 @@ Misapprehension — the real sense of 'dvaita' in the Māṇḍūkya for Madhva:
   - [Māṇḍūkyopaniṣad-bhāṣya (Madhva)](../texts/mandukya-upanisad-bhasya-madhva.md) — ref: 2.9; rests_on: ["tea:mandukya-upanisad-bhasya-madhva:2.9"]
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:15 IST._

@@ -17,4 +17,4 @@ The domestic-rite manual of the Hiraṇyakeśin Taittirīyas.
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Hiraṇyakeśigṛhyasūtra, catalog:raw_etexts:hiranyakeshi_grihya_sutra — Low-confidence entry confirmed as extant.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

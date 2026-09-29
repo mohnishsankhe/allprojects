@@ -10,4 +10,4 @@
 Abbot of Baizhangshan who compiled the imperial edition of the Pure Rules (1335–1338).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._

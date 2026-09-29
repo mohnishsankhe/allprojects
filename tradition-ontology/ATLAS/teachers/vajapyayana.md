@@ -8,4 +8,4 @@
 Ancient grammarian cited in Kātyāyana's vārttikas and the Mahābhāṣya (on P 1.2.64) as holding that a word denotes the universal form (ākṛti).
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._

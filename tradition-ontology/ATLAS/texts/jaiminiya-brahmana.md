@@ -34,4 +34,4 @@ _Notes: Known from South Indian manuscripts; the Jaiminīya school survives in K
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Jaiminīyabrāhmaṇa, https://vedicheritage.gov.in/brahmanas/jaiminiya-brhamana/, https://en.wikipedia.org/wiki/Brahmana — Extant (DCS: 3 kāṇḍas). The Bhṛgu story at 1.42–44 is text-located. The date estimate is within the general Brāhmaṇa range; the 'Agnihotra 1.1–65' range was not checked in detail.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

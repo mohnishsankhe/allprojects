@@ -15,4 +15,4 @@
 - contrasts-with → [Latent tendencies (vāsanā)](vasana.md): YBh 3.18: impressions that cause memory and afflictions are vāsanā; those that cause fruition are merit and demerit — rests on [3.18](../texts/yoga-bhasya.md#tea-yoga-bhasya-3-18)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:15 IST._

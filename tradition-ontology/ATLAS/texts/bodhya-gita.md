@@ -37,4 +37,4 @@ _Notes: The six are a subset of the avadhūta's twenty-four teachers in Bhāgava
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition), local:sources_raw/raw_etexts/purANam/vaiShNavam/mahAbhAratam/gp/epub_no_img/ (Gita Press vulgate, chapter colophons) — CE 12.171.58-61 confirmed; vulgate colophon 'bodhyagītāyām' (12.178).
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._

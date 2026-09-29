@@ -12,4 +12,4 @@ The trouble a badly placed planet brings in its period or transit — the ripeni
   - [Bṛhat Parāśara Horā Śāstra](../texts/brhat-parasara-hora-sastra.md) — ref: 2.3; 84.2; rests_on: ["tea:brhat-parasara-hora-sastra:2.3", "tea:brhat-parasara-hora-sastra:84.1-3"]
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:15 IST._

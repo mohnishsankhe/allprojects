@@ -25,4 +25,4 @@ _Notes: U06 contribution to a shared practice id (principal source: Bṛhadāra�
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — All 5 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 2.3.6; BĀU 3.9.26; BĀU 4.2.4; BĀU 4.4.22; BĀU 4.5.15). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press) — Rests on tea:rama-gita:7.5.17-23, tea:rama-gita:7.5.34-41; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U09-samkhya. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U09-samkhya. Generated 2026-09-29 18:15 IST._

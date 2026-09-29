@@ -14,4 +14,4 @@ A work ascribed to Cennabasava on the body, the senses and the inner instruments
 _Notes: Content summary reconstructed from general memory; verify._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:15 IST._

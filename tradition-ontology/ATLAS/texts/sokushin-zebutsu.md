@@ -18,4 +18,4 @@ Rejects reading Mazu's 'this very mind is buddha' as the Śreṇika view of an e
 _Notes: Not held locally; paraphrases from memory, no original quoted._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._

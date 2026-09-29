@@ -15,4 +15,4 @@
 Jinadāsa's prose commentary on the Āvaśyaka and its niryukti, one of the richest collections of Jain narratives (lives of the Jinas, Mahāvīra's austerities and hardships, stories of exemplary monks and laymen).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._

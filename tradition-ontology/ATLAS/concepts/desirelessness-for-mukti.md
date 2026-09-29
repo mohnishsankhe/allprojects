@@ -15,4 +15,4 @@
 - contrasts-with → [Four kinds of liberation (sālokya, sārūpya, sāmīpya, sāyujya)](four-kinds-of-mukti.md): the four liberations are not sought — rests on [1](../texts/nam-ghosa.md#tea-nam-ghosa-1), [heci-dana-dega](../texts/tukaram-gatha.md#tea-tukaram-gatha-heci-dana-dega)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._

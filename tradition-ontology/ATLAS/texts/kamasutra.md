@@ -51,4 +51,4 @@ _Notes: Only the trivarga teaching is recorded here; the text's other contents a
 
 - 2026-09-28 catalog+text-locate: partially-confirmed — catalog:DCS:Kāmasūtra, catalog:GRETIL-dev:vatsyayana_kamasutra, http://controversialhistory.blogspot.com/2011/04/dating-vatsyayanas-kamasutra.html — Extant; 7 adhikaraṇas (the local GRETIL file shows 35 chapter headings, with book 7 merged). The trivarga passages 1.2 are text-located. The 'c. 3rd c. CE' date was not confirmed by a scholarly page; the search found only a broad 1st–6th c. range. Kept as partial.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

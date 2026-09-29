@@ -27,4 +27,4 @@
 Order and glosses from memory (moderate); verse numbers low. The text says haṭha-yoga combined with this is for the unripe; for the ripe this alone suffices (vv. c. 143–144). Bands are interpretive.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:15 IST._

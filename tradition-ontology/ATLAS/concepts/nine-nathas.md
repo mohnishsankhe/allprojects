@@ -15,4 +15,4 @@
 _Notes: Members = the Marathi list only; variant lists are a gap to be filled from sources._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:15 IST._

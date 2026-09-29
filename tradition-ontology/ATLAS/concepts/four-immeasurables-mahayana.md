@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [The four divine abidings (brahmavihāra)](four-brahmaviharas.md) (Mahāyāna): the immeasurables of U36 practiced with insight into emptiness — rests on [6.1](../texts/vimalakirtinirdesa.md#tea-vimalakirtinirdesa-6-1)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._

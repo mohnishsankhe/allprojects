@@ -14,4 +14,4 @@ _Notes: Position in the pupil lists recalled from memory (low)._
 
 - 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md, https://www.wisdomlib.org/definition/caranavyuha — Located: Paila gives Saṃhitās 'indrapramitaye … bāṣkalāya ca' (Viṣṇu Purāṇa 3.4.16), Bāṣkala divides his in four (3.4.17) — his place in Paila's line (low confidence in the entry) is confirmed; Bāṣkala śākhā named in the Caraṇavyūha.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._

@@ -18,4 +18,4 @@
 **Related:** [Hari-sarvottama (sarvottamatva)](hari-sarvottama.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, skeleton:U31-sound-arts. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._

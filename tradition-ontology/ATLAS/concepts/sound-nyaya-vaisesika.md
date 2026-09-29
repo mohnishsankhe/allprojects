@@ -15,4 +15,4 @@
 _Notes: The wave / kadamba-bud models are recalled from later manuals._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:15 IST._

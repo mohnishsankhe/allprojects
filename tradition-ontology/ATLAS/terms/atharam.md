@@ -16,4 +16,4 @@
 - partial: [cakra](cakra.md) — the six ātāras correspond to the six cakras
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._

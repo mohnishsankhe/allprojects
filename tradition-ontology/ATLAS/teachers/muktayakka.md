@@ -12,4 +12,4 @@
 The woman śaraṇa who, grieving her brother Ajagaṇṇa, was met by Allama; their exchange on grief, speech and silence is a chapter of the Śūnyasampādane.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:15 IST._

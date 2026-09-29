@@ -13,4 +13,4 @@ Channels clogged with impurities prevent the breath from entering the central ch
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 5.35-36; rests_on: ["tea:gheranda-samhita:5.35-36"]
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:15 IST._

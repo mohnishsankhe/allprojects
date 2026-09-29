@@ -19,4 +19,4 @@ The longer prose-and-verse compendium of the eight limbs from which (or alongsid
 _Notes: Chapter count recalled (Sū 40, Śā 12, Ni 16, Ci 24, Ka 8, Utt 50) — not checked._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._

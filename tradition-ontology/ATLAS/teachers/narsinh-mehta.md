@@ -14,4 +14,4 @@ Nāgar brahmin poet of Junāgaḍh (15th c.), the first great Gujarati poet: tau
 **Realization — the tradition's account:** Śiva showed him the rāsa-līlā; Kṛṣṇa placed a garland on him before the king.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._

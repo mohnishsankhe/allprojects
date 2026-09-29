@@ -8,4 +8,4 @@
 A Sakyan lay follower, the Buddha's cousin, to whom the six recollections (AN 6.10, AN 11.11–12) were taught.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

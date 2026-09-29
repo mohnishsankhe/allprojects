@@ -17,4 +17,4 @@ He deliberately shakes his limbs as if struck by a wind-disorder.
 - Undertaken only after knowledge has been gained, impurity reduced and the teacher's permission obtained; the feigned acts must not conflict with the restraints (non-harming, celibacy etc.). — [Pañcārthabhāṣya](../texts/pancarthabhasya.md) on PS 3.12-3.16
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:15 IST._

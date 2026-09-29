@@ -20,4 +20,4 @@ Voluntary austerities undertaken for effacement: refuse-rag robes, three robes o
 _Notes: Second warning from memory._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga, skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga, skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

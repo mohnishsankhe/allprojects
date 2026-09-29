@@ -33,4 +33,4 @@ terms: [Viṣṇu](../terms/visnu.md), [sarva-śabda-vācyatva](../terms/sarvasa
 _Notes: Disambiguated from src:anubhasya (Vallabha's Aṇubhāṣya, owned by U16). Often described as 32 verses; the local copy numbers 30 — checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:15 IST._

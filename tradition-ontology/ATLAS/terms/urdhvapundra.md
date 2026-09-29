@@ -17,4 +17,4 @@
 **Related:** [Ekādaśī (Hari-dina, Nārāyaṇa-dina)](ekadasi.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U04-minor-upanisads, skeleton:U14-visistadvaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U04-minor-upanisads, skeleton:U14-visistadvaita. Generated 2026-09-29 18:15 IST._

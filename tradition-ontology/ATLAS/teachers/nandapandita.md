@@ -15,4 +15,4 @@ Commentator on the Viṣṇusmṛti.
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Vishnu_Smriti — Low-confidence entry confirmed: Nandapaṇḍita of Vārāṇasī wrote the Vaijayantī in 1622 (Wikipedia 'Vishnu Smriti'), within the entry's 1580–1630.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

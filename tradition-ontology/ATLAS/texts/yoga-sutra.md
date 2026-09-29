@@ -2172,4 +2172,4 @@ terms: [kaivalya](../terms/kaivalya.md), [pratiprasava](../terms/pratiprasava.md
 _Notes: Correction to the task list: the vulgate count is 195 (51/55/55/34), not 196; see structure._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:15 IST._

@@ -46,4 +46,4 @@ terms: [pāramī](../terms/parami.md), [dāna](../terms/dana.md), [sīla](../ter
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

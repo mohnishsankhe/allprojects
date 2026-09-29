@@ -16,4 +16,4 @@ Disciple of Dao'an who settled on Lushan (Donglin si) and never again crossed th
 **Realization — the tradition's account:** Over his thirty years on Lushan he saw the sage forms three times in the first eleven years without speaking of it; at the end, rising from samādhi, he saw Amitābha filling space with Avalokiteśvara and Mahāsthāmaprāpta, and was told he would be born in seven days (Fozu tongji 26).
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._

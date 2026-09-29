@@ -22,4 +22,4 @@ Eldest son of Vaṭakku Tiruvīti Piḷḷai, named after Nampiḷḷai (Lokāc�
 **Realization — the tradition's account:** The Teṅkalai tradition holds that Raṅganātha himself, in the form of a teacher, instructed him, and that he taught the secret doctrine openly out of compassion.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:15 IST._

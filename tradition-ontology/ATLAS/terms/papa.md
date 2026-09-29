@@ -26,4 +26,4 @@
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.28 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.3 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch07-09, skeleton:U33-sramana, extraction:bhagavad-gita/ch10-12, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch07-09, skeleton:U33-sramana, extraction:bhagavad-gita/ch10-12, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._

@@ -19,4 +19,4 @@
 - contrasts-with → [Varṇa — the four classes, as the tradition states it](varna-social-order.md): the saints deny that birth decides access to God; not all of them reject varṇa as a social order — rests on [9.caste](../texts/jnanesvari.md#tea-jnanesvari-9-caste), [bare-deva-kunbi](../texts/tukaram-gatha.md#tea-tukaram-gatha-bare-deva-kunbi)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._

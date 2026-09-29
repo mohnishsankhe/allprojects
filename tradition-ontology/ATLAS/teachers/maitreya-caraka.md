@@ -10,4 +10,4 @@ Objected that medicine is ineffective, since some treated patients die and some 
 _Notes: Refs checked against the DCS e-text of the Caraka Saṃhitā._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._

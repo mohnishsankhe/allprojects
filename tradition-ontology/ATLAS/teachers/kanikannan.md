@@ -11,4 +11,4 @@ Disciple of Tirumaḻicai Āḻvār whose banishment from Kāñcī occasioned th
 **Realization — the tradition's account:** He refused to sing the Pallava king's praises, saying his tongue was for the Lord alone, and was banished.
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:15 IST._

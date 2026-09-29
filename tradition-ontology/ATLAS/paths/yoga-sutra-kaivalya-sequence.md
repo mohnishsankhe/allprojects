@@ -19,4 +19,4 @@
 Bands are interpretation-layer assignments by U10 (see interpretation_log). B8 (activity after liberation) is not assigned: the Yoga texts do not describe the liberated yogin's activity beyond YBh 4.30's 'liberated while living'; dharmamegha is placed at B6, not at the B8 example given in data_model.md, because in Yoga it precedes the cessation of afflictions and kaivalya.
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:15 IST._

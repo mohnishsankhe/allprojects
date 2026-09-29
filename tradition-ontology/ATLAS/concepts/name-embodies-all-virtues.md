@@ -17,4 +17,4 @@
 - same-as-under-standpoint → [The power of the divine name](power-of-the-name.md) (devotional): analogous doctrines of the saving power of a divine / buddha name; the Pure Land grounds it in a buddha's vow, the Hindu traditions in the identity of name and named — rests on [3](../texts/senchakushu.md#tea-senchakushu-3), [2.praise-gate](../texts/wangsheng-lun-zhu.md#tea-wangsheng-lun-zhu-2-praise-gate)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._

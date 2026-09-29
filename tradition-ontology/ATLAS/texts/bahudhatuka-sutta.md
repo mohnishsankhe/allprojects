@@ -30,4 +30,4 @@ concepts: [The possible and the impossible](../concepts/possible-and-impossible.
 _Notes: SuttaCentral uid mn115; Mahāsaṅgīti title 'Bahudhātukasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

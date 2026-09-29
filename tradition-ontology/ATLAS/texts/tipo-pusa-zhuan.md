@@ -17,4 +17,4 @@ The Chinese 'Life of the Bodhisattva Āryadeva', ascribed to Kumārajīva: Ārya
   - kind: translation; name: Taishō T2048 — catalog:CBETA:T50n2048
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._

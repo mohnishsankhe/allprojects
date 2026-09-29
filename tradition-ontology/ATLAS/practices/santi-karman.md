@@ -11,4 +11,4 @@ Rites appeasing portents, planets and harmful powers with the peace hymns.
   - [Atharvaveda Saṃhitā (Śaunaka)](../texts/atharvaveda-saunaka.md) — ref: 19.9; rests_on: ["tea:atharvaveda-saunaka:19.9.1-3"]
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._

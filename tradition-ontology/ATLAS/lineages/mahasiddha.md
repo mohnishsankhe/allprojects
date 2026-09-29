@@ -56,4 +56,4 @@ The Indian tantric adepts (siddhas) of c. 8th–12th c. — the eighty-four of A
 [Who is Matsyendranātha — a Śaiva siddha, a form of the bodhisattva Karuṇāmaya, or the Buddhist siddha Lūipa?](../debates/identity-of-matsyendra.md), [Are the transgressive statements and practices of the tantras to be taken literally or as intentional language?](../debates/literal-or-symbolic-tantric-conduct.md), [Is the mantra way superior to the perfection way?](../debates/mantra-and-paramita-ways.md), [Are ritual, consecration and contrived meditation needed, or is the innate realized directly?](../debates/ritual-or-innate.md), [Was haṭha yoga taught by Śiva (Ādinātha) through the Nāth siddhas, or did its earliest methods arise in a Buddhist tantric milieu?](../debates/source-of-hatha-yoga.md)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._

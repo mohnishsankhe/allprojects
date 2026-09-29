@@ -13,4 +13,4 @@ Giving what one earns by kāyaka to the jaṅgamas and the community in the spir
 **Sequences:** [The six stages (ṣaṭsthala) of the Vīraśaiva path](../paths/virasaiva-satsthala.md)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:15 IST._

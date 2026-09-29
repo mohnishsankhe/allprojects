@@ -18,4 +18,4 @@ Candramati's Vaiśeṣika treatise of ten categories — substance, quality, mot
 _Notes: Taishō no. 2138 (from memory, to be checked); CBETA has the Chinese text._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:15 IST._

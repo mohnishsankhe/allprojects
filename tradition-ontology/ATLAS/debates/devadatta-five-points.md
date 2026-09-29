@@ -24,4 +24,4 @@
 **The traditions' own objections:** Devadatta's followers did not accept the ruling (the first schism, Cv 7).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

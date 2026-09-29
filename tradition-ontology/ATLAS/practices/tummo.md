@@ -23,4 +23,4 @@ Summary: a completion-stage yoga of the channels, winds and drops in which inner
 - analogous: [Piercing the six centres (ṣaṭcakra-bheda) — summary only](satcakra-bhedana.md) (subtle-body technique) — both raise an inner fire/energy through a central channel; the Buddhist practice aims at clear light and bliss-emptiness, not the union of Kuṇḍalinī and Śiva — the traditions keep them distinct
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._

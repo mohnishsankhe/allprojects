@@ -29,4 +29,4 @@ The Mahāyāna is the Buddha's word: the non-arising it teaches and the extincti
 **Candidate readings:** P6-upaya / P4-stage: the Buddha taught different vehicles to hearers of different capacity (RĀ 4.94–96; the Mahāyāna reading).; P5-neyartha: the Mahāyāna treats the śrāvaka teaching of extinction as agreeing in meaning with non-arising (RĀ 4.86).
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._

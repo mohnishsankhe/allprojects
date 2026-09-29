@@ -14,4 +14,4 @@ Disturbance of bile: heat, fever, bitter taste, yellowish colouring, irritabilit
 _Notes: Symptom lists simplified and recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:15 IST._

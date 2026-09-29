@@ -12,4 +12,4 @@ Sleep, drowsiness, fear, anger, sloth and procrastination are to be abandoned by
   - [Viduranīti (Vidura's counsel)](../texts/viduraniti.md) — ref: 5.33.66; rests_on: ["tea:viduraniti:5.33.66"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._

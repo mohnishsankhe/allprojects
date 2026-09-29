@@ -69,4 +69,4 @@ _Notes: Owned by U05. 'Lineage' here names a teaching milieu (a body of texts an
 
 - 2026-09-29 text-locate: partially-confirmed — local:sources_raw/gita/data/verse.json BhG 4.1-3, local:sources_raw/DharmicData/Mahabharata (BORI CE text) 12.211.6-18, 12.337.60, 11.7.13-20, https://link.springer.com/article/10.1007/s10781-016-9293-z — The texts, dialogues, teachers and transmission statements it lists are confirmed in the local critical text. As the entry itself says, "epic teaching" is a descriptive grouping (a milieu), not a recognized school or order, so its "founder" (Vyāsa) and "status" are the unit's construction and cannot be confirmed as such. Dating accounts kept as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._

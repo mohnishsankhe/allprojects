@@ -12,4 +12,4 @@
 Author of the Vedāntakalpataru on the Bhāmatī and of the Śāstradarpaṇa; 13th-century Advaitin at the Yādava court.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:15 IST._

@@ -30,4 +30,4 @@ terms: [khanti](../terms/khanti.md), [mettā](../terms/metta.md) · practices: [
 _Notes: SuttaCentral uid mn21; Mahāsaṅgīti title 'Kakacūpamasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

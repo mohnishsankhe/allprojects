@@ -9,4 +9,4 @@
 Bengali Śākta pandit and guru, author of the Tantratattva (translated as 'Principles of Tantra'), and teacher of Sir John Woodroffe (Arthur Avalon), through whom many Kaula and Kālī texts were printed.
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:15 IST._

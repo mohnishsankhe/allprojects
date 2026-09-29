@@ -171,4 +171,4 @@ practices: [Singing the Gīta Govinda (aṣṭapadī)](../practices/astapadi-sin
 _Notes: Liturgical use: sung daily before Jagannātha at Purī (by tradition confirmed by an order of Gajapati Pratāparudra, c. 1499, that the temple singers sing only the Gīta Govinda — recalled with moderate confidence); sung in Kerala temples as aṣṭapadī (sopāna saṅgītam) and in South Indian bhajana; relished by Caitanya (Caitanya Caritāmṛta); two of Jayadeva's hymns (not from the Gīta Govinda) are in the Sikh Ādi Granth (context only). Canto-title list: moderate/low confidence. Not to be confused with the later Jayadeva (Pīyūṣavarṣa) of the Candrāloka and Prasannarāghava._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:15 IST._

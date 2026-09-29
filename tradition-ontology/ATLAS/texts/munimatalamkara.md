@@ -17,4 +17,4 @@ Abhayākaragupta's comprehensive late Indian summa of Mahāyāna doctrine and th
   - kind: translation; name: Tibetan translation, Derge Tengyur D3903 (thub pa'i dgongs pa'i rgyan) — catalog:Derge-Tengyur:D3903
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._

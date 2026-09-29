@@ -16,4 +16,4 @@ Sleep at night; day-sleep is wholesome in summer and for the exhausted, weak, ol
 - Sleep untimely or in excess takes away happiness and life like another night of doom; day-sleep in the wrong season causes many kapha disorders. — [Caraka Saṃhitā](../texts/caraka-samhita.md) Sū 21.37, 21.44-49
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._

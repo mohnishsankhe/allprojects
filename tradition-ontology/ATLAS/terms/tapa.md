@@ -17,4 +17,4 @@
 _Notes: Distinct from trm:tapas (austerity)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:15 IST._

@@ -13,4 +13,4 @@
 Nyangral Nyima Özer's history of the Dharma in India and Tibet, with the early Nyingma accounts of the royal period.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._

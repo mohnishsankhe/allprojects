@@ -13,4 +13,4 @@
 Treasure revealer of the Zhitro Gongpa Rangdrol cycle, including the Bardo Thödol, found on Mount Gampodar.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._

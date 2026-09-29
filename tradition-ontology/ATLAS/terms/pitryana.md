@@ -18,4 +18,4 @@
 **Related:** [devayāna](devayana.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U13-advaita. Generated 2026-09-29 18:15 IST._

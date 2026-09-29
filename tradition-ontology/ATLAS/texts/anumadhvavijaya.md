@@ -29,4 +29,4 @@ concepts: [Vāyu's three avatāras: Hanumān, Bhīma, Madhva](../concepts/vayu-t
 _Notes: Appended to the Sumadhvavijaya in the raw_etexts copy; ascription to Nārāyaṇa Paṇḍitācārya is from memory. checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions_
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:15 IST._

@@ -9,4 +9,4 @@
 Founder of the Dayalbagh colony at Agra (1915), joining Radhasoami practice with industry, education and community life.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._

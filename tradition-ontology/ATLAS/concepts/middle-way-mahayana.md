@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The middle way](middle-way.md) (Mahāyāna reading): the early middle way between extremes (U36) extended to all dharmas — rests on [56-60](../texts/kasyapaparivarta.md#tea-kasyapaparivarta-56-60)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._

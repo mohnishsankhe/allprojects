@@ -29,4 +29,4 @@ KJN 7.26 reads 'mano-rodhaṃ na kartavyaṃ yadā jñātaṃ hi kaulikam'; the 
 **The traditions' own objections:** Not recorded; the Pātañjala tradition would require that release not be claimed before the mind is actually still.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:15 IST._

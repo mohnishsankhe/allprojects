@@ -11,4 +11,4 @@ Early commentator on the Nāṭyaśāstra, known through Abhinavagupta's report:
 _Notes: His views are known only through opponents' reports (Abhinavabhāratī, Kāvyaprakāśa)._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._

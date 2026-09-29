@@ -81,4 +81,4 @@ _Notes: Commentary: Sāyaṇa; Śaṅkara on the Upaniṣad portion._
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Aitareya-Āraṇyaka, catalog:raw_etexts:AraNyakam, https://hindupedia.com/en/Aitareya_Ara%E1%B9%87yaka, https://sacred-texts.com/hin/sbe01/sbe01019.htm — Extant. Five āraṇyakas; books 1–3 are ascribed to Mahidāsa Aitareya, 4 (the Mahānāmnī verses) to Āśvalāyana and 5 to Śaunaka (Hindupedia; SBE 1 introduction), matching the entry. AA 2.2.1, 2.3.2, 3.1.1, 3.2.3/5/6 text-located. The date estimate was not separately checked.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

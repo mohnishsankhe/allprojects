@@ -101,4 +101,4 @@ _Notes: Avadhūta Gītā 8.2-4 reproduce Bhāgavata Purāṇa 11.11.29-31 (the q
 
 - 2026-09-29 catalog+websearch: confirmed — local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/prepared/avadhuta-gita/segments.jsonl, https://en.wikipedia.org/wiki/Avadhuta_Gita — 8 chapters of 76,40,46,25,32,27,15,28 = 289 verses, verified exactly in the 1915 Gītāsaṅgraha. 8.28 names 'dattātreyāvadhūta' as maker, and the 8th-chapter colophon names the Svāmī-Kārttika dialogue. Wikipedia (after Abhayananda) puts it in the 9th-10th c., which fits the entry's 'late first or early second millennium'.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._

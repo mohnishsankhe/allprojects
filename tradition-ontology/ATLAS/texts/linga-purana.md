@@ -112,4 +112,4 @@ _Notes: 1.3: aliṅga and liṅga; 1.7-9: Pāśupata yoga, eight limbs, ten obst
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:raw_etexts:linga-purANam, catalog:DCS:Liṅgapurāṇa, local:sources_raw/raw_etexts/purANam/mAdhva-app/matsya-purANam.md (chs. 1-176) 53.37-38, https://en.wikipedia.org/wiki/Linga_Purana — Extant and digitized (local mAdhva-app: Pūrvabhāga 108 and Uttarabhāga 55 chapters exactly; DCS; eBhārati). Matsya 53.37-38 (Maheśvara in the fire-liṅga, Agni-kalpa, 11,000) confirmed. Web date 5th-10th c.; entry 6th-10th consistent. Pāśupata-yoga passages (1.7.54, 1.88.30, 2.55.26) located.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

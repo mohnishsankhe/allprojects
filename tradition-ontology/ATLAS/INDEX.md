@@ -1,6 +1,6 @@
 # Tradition Ontology — Atlas
 
-_Generated 2026-09-29 18:14 IST._
+_Generated 2026-09-29 18:15 IST._
 
 Every page shows each entry's verification level: `skeleton` (from model knowledge, unchecked), `sourced` (existence and basic facts confirmed externally), `text-verified` (extracted from the text and fidelity-checked); **[unverified]** marks items the hallucination sweep could not confirm (kept, never deleted).
 

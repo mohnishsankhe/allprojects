@@ -14,4 +14,4 @@
 Tibetan scholar (1392-1481), author of the Blue Annals and of a commentary on the Ratnagotravibhāga linking it with Mahāmudrā.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._

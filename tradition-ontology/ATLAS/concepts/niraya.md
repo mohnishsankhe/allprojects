@@ -13,4 +13,4 @@
 - part-of → [The five destinations](five-gati.md) — rests on [2-29](../texts/devaduta-sutta.md#tea-devaduta-sutta-2-29)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

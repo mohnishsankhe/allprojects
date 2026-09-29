@@ -15,4 +15,4 @@
 **Related:** [kānphaṭa](kanphata.md)
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:15 IST._

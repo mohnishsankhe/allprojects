@@ -11,4 +11,4 @@ Foremost nun among Dhamma teachers; her answers to Visākha in MN 44 were approv
 _Notes: AN 1 Etadaggavagga (the 'foremost' lists)_
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

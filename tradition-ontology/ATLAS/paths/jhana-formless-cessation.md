@@ -26,4 +26,4 @@
 The canonical list is AN 9.32 (Pali root checked locally); each attainment can also be a basis for insight (AN 9.36). The Buddha passed through all nine, up and down, at his final nibbāna (DN 16 6.8-6.9). The Abhidhamma's fivefold jhāna scheme splits the second jhāna (cpt:five-jhanas-abhidhamma).
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:15 IST._

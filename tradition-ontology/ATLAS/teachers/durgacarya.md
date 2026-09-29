@@ -14,4 +14,4 @@ Commentator on the Nirukta; date uncertain.
 
 - 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/durgacarya — Low-confidence entry confirmed: the commentator on the Nirukta; the commentary is dated before 1200 CE (Wisdomlib).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

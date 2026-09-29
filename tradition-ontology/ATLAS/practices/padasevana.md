@@ -20,4 +20,4 @@ Serving, touching, contemplating and dwelling at the Lord's feet — in the temp
 _Notes: One of the Bhāgavata's nine forms of devotion (prc:navadha-bhakti, U07). Exemplar: Lakṣmī._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:15 IST._

@@ -13,4 +13,4 @@
 The Inquiry of Gaganagañja (in the Mahāsaṃnipāta); cited in the Ratnagotravibhāga for the simile of space, wind and water for the mind's nature and the defilements.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._

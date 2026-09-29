@@ -30,4 +30,4 @@ _none recorded_
 [Does the arhat still have imperfections (the five points of Mahādeva)?](../debates/five-points-of-mahadeva.md)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._

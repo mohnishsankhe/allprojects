@@ -13,4 +13,4 @@ The annual festival begun by hoisting the flag, with daily processions of the fe
   - [Mahotsavavidhi (of Aghoraśiva)](../texts/mahotsavavidhi.md) — ref: whole
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:15 IST._

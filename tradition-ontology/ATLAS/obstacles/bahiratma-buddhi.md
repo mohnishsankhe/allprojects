@@ -12,4 +12,4 @@ The outer self's error of taking the body and external things as oneself (Samād
   - [Samādhitantra](../texts/samadhitantra.md) — ref: 5; rests_on: ["tea:samadhitantra:5"]
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._

@@ -14,4 +14,4 @@
 - causes → [The simile of the ball of string](ball-of-thread.md): illustrated by the simile — rests on [20](../texts/samannaphala-sutta.md#tea-samannaphala-sutta-20)
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._

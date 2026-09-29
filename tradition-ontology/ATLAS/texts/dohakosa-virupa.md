@@ -17,4 +17,4 @@ Virūpa's Treasury of Songs; its lineage runs Virūpa, Kāṇha, Śabdakāra?, P
 _Notes: Colophon lineage read locally: bir+Wa pa, nag po pa, slob dpon sgra mkhan zhabs, slob dpon pu ra pa, shrI bai ro tsa na._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._

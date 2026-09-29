@@ -16,4 +16,4 @@ Siddhattha Gotama of the Sakyan clan, the Buddha of this age: after going forth 
 _Notes: Scholarly datings are metadata only; the tradition's account is kept apart._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

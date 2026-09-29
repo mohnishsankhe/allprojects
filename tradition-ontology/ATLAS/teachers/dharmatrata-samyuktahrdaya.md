@@ -12,4 +12,4 @@
 Gandhāran master who enlarged Dharmaśrī's Abhidharmahṛdaya with Vibhāṣā material; distinct from the Vibhāṣā master of the same name.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._

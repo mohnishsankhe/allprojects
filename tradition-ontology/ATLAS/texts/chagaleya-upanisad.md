@@ -28,4 +28,4 @@ _Notes: Veda affiliation: uncertain_
 
 - editions: Existence confirmed (Belvalkar 1925; a Sanskrit e-text on sanskritdocuments.org). The chariot image fits a web retelling of the Kavaṣa Ailūṣa story: the Vālakhilyas teach that a body without the self is like a chariot without its driver. That source does not name the Upaniṣad, so the content stays low-confidence. Veda affiliation is not established. Corrected: the edition 'Sanskrit text with Śaṅkara's bhāṣya (Advaita-Śāradā e-text)' is wrong.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:15 IST._

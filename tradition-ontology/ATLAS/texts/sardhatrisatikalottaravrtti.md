@@ -15,4 +15,4 @@
 Bhaṭṭa Rāmakaṇṭha's commentary on the 350-verse Kālottara.
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:15 IST._

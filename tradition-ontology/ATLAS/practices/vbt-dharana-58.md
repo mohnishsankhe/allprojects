@@ -15,4 +15,4 @@ Remaining on a seat or a bed, contemplating one's own body as without support, w
 _Notes: Verses 82 (KSTS 8 / GRETIL numbering). Kaumudī reads 'bhūtāśaya'._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:15 IST._

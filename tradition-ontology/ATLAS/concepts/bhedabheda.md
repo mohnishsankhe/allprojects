@@ -20,4 +20,4 @@
 - contrasts-with → [Inseparable existence (apṛthak-siddhi)](aprthak-siddhi.md): Viśiṣṭādvaita's inseparable body–soul relation; Rāmānuja criticised both forms of bhedābheda
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._

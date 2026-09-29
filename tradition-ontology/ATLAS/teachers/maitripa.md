@@ -23,4 +23,4 @@ U44 contribution: Indian scholar-siddha (c. 1007–1085), disciple of Śavaripa 
 _Notes: Contribution of U41; U44/U46 own the entry._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:15 IST._

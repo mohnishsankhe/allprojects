@@ -24,4 +24,4 @@ _Notes: Summary only: the texts' counts and grades of retention are not reproduc
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:3.28.1-11, tea:markandeya-purana:39.1-35, tea:siva-purana:7.2.37.21-30, tea:visnu-purana:6.7.36-45 — ŚiP 7.2.37.21-30 (7.2.37.25 'na drutaṃ na vilambitam'), VP 6.7.40-42, BhP 3.28.9-11, MkP 39 (+ peterFreund 39.1-26) and MkP 39.47-53 located. Kept at summary level (no counts or grades). All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

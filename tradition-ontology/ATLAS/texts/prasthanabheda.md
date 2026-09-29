@@ -13,4 +13,4 @@
 Madhusūdana's classification of the branches of learning (Vedas, Vedāṅgas, darśanas, Purāṇas, arts) as all converging, directly or indirectly, on the Lord and on Advaita.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:15 IST._

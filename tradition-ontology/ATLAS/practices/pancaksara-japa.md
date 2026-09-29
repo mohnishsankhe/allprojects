@@ -26,4 +26,4 @@ Repetition of 'namaḥ śivāya' (six-syllabled with Oṃ) received at initiatio
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:siva-purana:7.2.12-13 — All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U20-virasaiva, skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha, skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha, skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

@@ -19,4 +19,4 @@ Vijñāneśvara's commentary on the Yājñavalkyasmṛti, written at the Cāluky
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:GRETIL:vijJAnezvara-mitAkSarA, https://en.wikipedia.org/wiki/Y%C4%81j%C3%B1avalkya_Sm%E1%B9%9Bti — Extant (GRETIL). Vijñāneśvara wrote under the Cālukya Vikramāditya VI at Kalyāṇa, late 11th–early 12th c. This is standard and consistent with Wikipedia's Yājñavalkya article.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

@@ -49,4 +49,4 @@ _none recorded_
 _Notes: Sub-lineage created by U37 for the commentarial orthodoxy; parent lin:theravada (owned by U36). The rival fraternities were the Abhayagiri and (later) the Jetavana._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._

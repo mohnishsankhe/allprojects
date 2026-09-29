@@ -19,4 +19,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U23-sakta-srividya, skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U23-sakta-srividya, skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._

@@ -15,4 +15,4 @@ The surviving body of Shije instructions and lineage material of Padampa Sangye'
 _Notes: Modern reproduction recalled as 'The Tradition of Pha Dampa Sangyas' (Thimphu, 1979, 5 vols.); low confidence._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:15 IST._

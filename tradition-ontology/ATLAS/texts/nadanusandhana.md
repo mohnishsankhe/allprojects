@@ -40,4 +40,4 @@ practices: [Attention to the inner sound (nādānusandhāna) in the haṭha text
 _Notes: Distinct from the Nādabindu Upaniṣad and from the nāda chapter of the Haṭhapradīpikā. Date and provenance unknown to this unit. The e-texts are corrupt in places._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:15 IST._

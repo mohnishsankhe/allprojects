@@ -49,4 +49,4 @@ _none recorded_
 _Notes: Created by U26 because the coverage map lists Mīrābāī among 'other lineages' (A9); it is not a formal sampradāya. See REPORT.md._
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._

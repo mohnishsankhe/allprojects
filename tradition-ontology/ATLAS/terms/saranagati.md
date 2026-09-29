@@ -23,4 +23,4 @@
 **Related:** [prapatti](prapatti.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U08-agama-catalogue, skeleton:U14-visistadvaita, skeleton:U25-alvar-bhakti-theory, skeleton:U07-puranas, skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U08-agama-catalogue, skeleton:U14-visistadvaita, skeleton:U25-alvar-bhakti-theory, skeleton:U07-puranas, skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._

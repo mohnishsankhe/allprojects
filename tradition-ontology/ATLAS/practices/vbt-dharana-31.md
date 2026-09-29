@@ -15,4 +15,4 @@ Having meditated on the power (śakti), [first] thick and [then] feeble, in the 
 _Notes: Verses 55 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:15 IST._

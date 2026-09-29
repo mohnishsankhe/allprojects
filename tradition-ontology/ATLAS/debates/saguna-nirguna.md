@@ -73,4 +73,4 @@ Each reconciler ranks: Advaita puts nirguṇa above saguṇa (the latter vyāvah
 **Queue:** RQ-U50-13
 
 ---
-_Contributed by: skeleton:U50-debates. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U50-debates. Generated 2026-09-29 18:15 IST._

@@ -16,4 +16,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/aitareya-upanisad/segments.jsonl (Advaita-Śāradā mūla Aitareya.md, adhyāya.khaṇḍa.verse) — All 1 Upaniṣad refs cited in the entry are located in the prepared segments (AU 2.1.1-4). It rests on 1 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:15 IST._

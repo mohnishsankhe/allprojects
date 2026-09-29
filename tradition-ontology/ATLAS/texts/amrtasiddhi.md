@@ -70,4 +70,4 @@ concepts: [Bindu and its retention](../concepts/bindu-natha.md) · practices: [M
 _Notes: Chapter count and attribution recalled, not checked: low confidence on details. U49 documents the Buddhist→haṭha borrowing._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:15 IST._

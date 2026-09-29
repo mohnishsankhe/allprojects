@@ -33,4 +33,4 @@ disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal an
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — BhP 10.87 (50 verses): Parīkṣit's question how the śrutis describe the attributeless (10.87.1) and the Vedas' hymn from 10.87.14; confirmed.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._

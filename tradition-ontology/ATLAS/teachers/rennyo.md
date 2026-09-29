@@ -13,4 +13,4 @@
 Eighth head of Honganji who, through his letters (Ofumi), congregational meetings (kō) and the practice of enshrining the six-character name, made the small Honganji the largest Buddhist body in Japan; he taught to rely on Amida single-heartedly in the one great matter of the afterlife and to say the nenbutsu in gratitude, while keeping the laws of the land and respecting other deities; revered as the restorer of Shinshū.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._

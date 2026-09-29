@@ -88,4 +88,4 @@ Platform Sūtra 7.3 ('the Dharma has no sudden or gradual; people are sharp or d
 _Notes: The Tibetan and Dunhuang accounts of Samye differ and are both recorded; neither is adopted._
 
 ---
-_Contributed by: skeleton:U50-debates. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U50-debates. Generated 2026-09-29 18:15 IST._

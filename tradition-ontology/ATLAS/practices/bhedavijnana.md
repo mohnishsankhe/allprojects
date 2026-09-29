@@ -21,4 +21,4 @@ Repeatedly discerning that the knowing self is other than body, karma, passions 
 - analogous: [Cultivating discriminative discernment (viveka-khyāti)](viveka-khyati.md) — Discrimination of seer and seen in Yoga; the Jain knower is an agent with modes.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._

@@ -12,4 +12,4 @@ Expelling stale air in three sets of three exhalations — through one nostril, 
 _Notes: Owned by U45 (brief). Which nostril and colour correspond to which poison differs between Nyingma, Bön and Kagyu instructions and between men and women; not specified here._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._

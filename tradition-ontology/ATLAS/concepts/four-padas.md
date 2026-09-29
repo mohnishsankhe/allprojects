@@ -21,4 +21,4 @@
 _Notes: U49 contribution: the four-quarter division is shared by Śaiva Āgamas and Pāñcarātra saṃhitās (brw:saiva-siddhanta-pancaratra)._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U49-cross-family, skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U49-cross-family, skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._

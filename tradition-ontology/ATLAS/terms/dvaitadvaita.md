@@ -14,4 +14,4 @@
 - exact: [svābhāvika-bhedābheda](svabhavika-bhedabheda.md) — the school uses both names
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._

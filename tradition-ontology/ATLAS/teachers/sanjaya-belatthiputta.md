@@ -14,4 +14,4 @@ One of the six famous teachers, the type of the 'eel-wriggler'. DN 2 reports tha
 _Notes: The Vinaya (Mv 1.23) says only 'Sañjaya the wanderer'; the identification with Sañjaya Belaṭṭhiputta of DN 2 is the commentaries' and is questioned by some scholars. Do not confuse with tch:sanjaya (the Mahābhārata's narrator)._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._

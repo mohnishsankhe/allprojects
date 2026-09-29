@@ -15,4 +15,4 @@
 One of the first seven Tibetan monks; sent to India, he received the mind and space series from Śrī Siṃha, translated the five early mind-series scriptures and (with Śrī Siṃha) the Kunjed Gyalpo; exiled through court intrigue to Gyalmo Rong, he taught Yudra Nyingpo there.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:15 IST._

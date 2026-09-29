@@ -16,4 +16,4 @@ Eight forms of Gaṇeśa, each overcoming a demon that embodies a vice, and Gā�
 
 - 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Mudgala_Purana — Web: Gāṇapatya Upapurāṇa of eight Gaṇeśa incarnations (Vakratuṇḍa ... Dhūmravarṇa), each subduing a demon of a vice (envy, pride, delusion, greed, anger, lust ...). No local e-text.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

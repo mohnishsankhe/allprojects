@@ -10,4 +10,4 @@
 Kālāmukha pontiff of the Kōḍiya-maṭha at Balligāve, praised in 12th-c. inscriptions for learning and influence (details to be checked).
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:15 IST._

@@ -12,4 +12,4 @@ No. 59 of the eighty-four siddhas (Tōh 2292 order). A pastry-maker who offered 
 _Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292. The last line is not understood._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._

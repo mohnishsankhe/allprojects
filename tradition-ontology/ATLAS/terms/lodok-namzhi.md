@@ -18,4 +18,4 @@
 **Related:** [sngon 'gro](ngondro.md)
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._

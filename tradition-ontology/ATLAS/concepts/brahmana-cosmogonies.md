@@ -18,4 +18,4 @@ _Notes: The boar, tortoise, fish and dwarf appear here before their later Purā�
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (GRETIL Mādhyandina ŚB, kāṇḍas 1–11, 13–14), text:sources_raw/dcs/dcs/data/conllu/files/Taittirīyabrāhmaṇa (DCS, anuvāka level), https://en.wikipedia.org/wiki/Varaha, text:sources_raw/dcs/dcs/data/conllu/files/Aitare — The definition's cited passages were all checked in this sweep and support it: tea:satapatha-brahmana:11.1.6.1-3 (confirmed); tea:satapatha-brahmana:6.1.1.1-5 (confirmed); tea:taittiriya-brahmana:1.1.3.5-6 (partially-confirmed); tea:satapatha-brahmana:7.5.1.5 (confirmed); tea:satapatha-brahmana:1.8.1.1-10 (confirmed); tea:aitareya-brahmana:5.32 (confirmed). The boar cosmogony is confirmed at the anuvāka level only (TB 1.1.3; the kaṇḍikā 5–6 could not be fixed, see tea:taittiriya-brahmana:1.1.3.5-6). The other accounts are text-located.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

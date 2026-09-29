@@ -13,4 +13,4 @@ Vyāsa's pupil who received the Atharvaveda ('the fierce sage of the Atharvāṅ
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki/01/004.md, text:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md — Located: 'atharvāṅgirasām āsīt sumantur dāruṇo muniḥ' (Bhāgavata 1.4.22) — the entry's quotation 'the fierce sage of the Atharvāṅgirasas' is exact.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._

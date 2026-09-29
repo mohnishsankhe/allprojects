@@ -16,4 +16,4 @@ Chögyal Phagpa's compact survey of Buddhist cosmology, the path and the history
   - kind: original; name: Tibetan: collected works (gsung 'bum), several xylograph and modern editions
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._

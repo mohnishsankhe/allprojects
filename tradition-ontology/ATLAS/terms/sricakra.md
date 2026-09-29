@@ -17,4 +17,4 @@
 **Related:** [āvaraṇa](avarana.md), [bindu](bindu.md), [trikoṇa](trikona.md), [bhūpura](bhupura.md), [navayoni](navayoni.md), [śrīmeru](srimeru.md)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:15 IST._

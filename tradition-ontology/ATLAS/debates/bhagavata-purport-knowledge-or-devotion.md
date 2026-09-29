@@ -33,4 +33,4 @@ Devotion: bhakti is the supreme dharma (1.2.6); devotees refuse the five liberat
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) — All cited verses located (BhP 1.2.6, 1.2.11, 1.3.28, 1.3.30-33, 2.9.32-35, 3.29.13, 11.2.42, 11.14.14, 11.14.20, 12.5.11, 12.13.12). The school positions are summarized at the level of each school's known stance, not checked against the commentaries.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

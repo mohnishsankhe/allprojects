@@ -141,4 +141,4 @@ concepts: [The Sāṃkhya line of teachers](../concepts/samkhya-parampara.md), [
 _Notes: Teaching refs follow Ṣimānanda's 25-sūtra division as printed in the GRETIL 'four versions' file._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:15 IST._

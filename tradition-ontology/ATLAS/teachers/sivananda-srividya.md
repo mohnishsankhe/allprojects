@@ -10,4 +10,4 @@
 Commentator on the Nityāṣoḍaśikārṇava (Ṛjuvimarśinī). Not the 20th-c. Swami Sivananda.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:15 IST._

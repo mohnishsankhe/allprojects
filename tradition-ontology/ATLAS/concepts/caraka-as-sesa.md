@@ -14,4 +14,4 @@
 _Notes: Scholarly account keeps the three authors distinct (labelled in tch:caraka)._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._

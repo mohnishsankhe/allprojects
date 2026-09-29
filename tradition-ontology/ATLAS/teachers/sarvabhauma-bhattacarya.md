@@ -9,4 +9,4 @@
 Logician and Advaita teacher at Purī who, after a seven-day Vedānta discussion, became Caitanya's devotee (CC 2.6).
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._

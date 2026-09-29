@@ -18,4 +18,4 @@ Taking what is not the self as self and what is not one's own as 'mine' - the se
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:markandeya-purana:25.10-18, tea:markandeya-purana:38.6-16, tea:visnu-purana:6.7.11-12 — VP 6.7.11-12, 6.7.25; MkP 38.6-16 (38.12 axe of knowledge sharpened on good company) located. All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

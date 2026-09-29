@@ -302,4 +302,4 @@ _Notes: Adhyāya 40 is the Īśa Upaniṣad (src:isa-upanisad, owned by U03). Wo
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Vājasaneyisaṃhitā (Mādhyandina), text:sources_raw/DharmicData/Yajurveda/vajasneyi_madhyadina_samhita.json, text:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md, https://www.wisdomlib.org/definition/yajnavalkya — Extant; 40 adhyāyas; the local DharmicData text counts 1,965 kaṇḍikās (the usual printed figure 1,975 — small parsing differences); VS 16 Śatarudrīya, 31 Puruṣa, 32, 34.1–6, 36, 40 Īśa located; 9–10 vājapeya/rājasūya, 19 sautrāmaṇī, 37–39 pravargya openings located. Revelation to Yājñavalkya by the Sun as a horse: Viṣṇu Purāṇa 3.5.15–29 (located). Date c. 1000–700 BCE within the scholarly range.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._

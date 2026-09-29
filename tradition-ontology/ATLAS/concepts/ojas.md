@@ -16,4 +16,4 @@
 _Notes: The terms para/apara ojas are Cakrapāṇi's gloss on Ca Sū 30.7-9 (recalled)._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._

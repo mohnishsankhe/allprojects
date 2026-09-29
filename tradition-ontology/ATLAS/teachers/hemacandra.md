@@ -31,4 +31,4 @@ _Notes: His Yogaśāstra and philosophical works are covered by U35._
 
 - 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/history/book/glimpses-of-history-of-sanskrit-literature/d/doc1546773.html — Confirmed as the Śvetāmbara author of the Siddhahemaśabdānuśāsana (post-Pāṇinian grammar survey). His other work belongs to other units.
 
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon, skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon, skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._

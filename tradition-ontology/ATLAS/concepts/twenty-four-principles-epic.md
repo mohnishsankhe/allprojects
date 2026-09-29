@@ -20,4 +20,4 @@ _Notes: The epic's lists vary between dialogues (e.g. 'eight prakṛtis and sixt
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.6, tea:bhagavad-gita:13.7, tea:bhagavad-gita:13.6-7 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch13-15, skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch13-15, skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._

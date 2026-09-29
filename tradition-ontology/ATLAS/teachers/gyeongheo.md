@@ -10,4 +10,4 @@
 Reviver of Korean Seon at the end of the Joseon dynasty, famed for unconventional conduct.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._

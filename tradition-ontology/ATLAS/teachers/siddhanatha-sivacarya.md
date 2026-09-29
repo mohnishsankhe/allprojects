@@ -10,4 +10,4 @@
 Father of Śivayogi Śivācārya, praised as 'crest-jewel of the Vīraśaivas' and a determiner of Śiva-siddhānta (SSM 1.17–20).
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:15 IST._

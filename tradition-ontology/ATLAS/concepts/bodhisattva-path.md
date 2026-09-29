@@ -13,4 +13,4 @@
 - contrasts-with → [The four stages of awakening and the eight noble persons](four-stages-of-awakening.md): the arhat's path; Mahāyāna sūtras call its nirvāṇa not final — rests on [7](../texts/saddharmapundarika.md#tea-saddharmapundarika-7), [5](../texts/srimaladevi-sutra.md#tea-srimaladevi-sutra-5)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._

@@ -14,4 +14,4 @@
 - same-under-standpoint: [bhakti](bhakti.md) (Śrīvaiṣṇava commentarial) — as glossed by the commentators: knowledge become love
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:15 IST._

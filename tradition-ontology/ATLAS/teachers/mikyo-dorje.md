@@ -14,4 +14,4 @@
 The great scholar Karmapa: author of the Chariot of the Dakpo Kagyu Siddhas (Madhyamaka), the Four-Session Guru Yoga, and compiler of the Kagyu Gurtso; defended the Kagyu view against Gelug critics.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._

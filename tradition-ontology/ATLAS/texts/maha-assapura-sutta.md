@@ -31,4 +31,4 @@ terms: [hiri](../terms/hiri.md), [ottappa](../terms/ottappa.md) · practices: [M
 _Notes: SuttaCentral uid mn39; Mahāsaṅgīti title 'Mahāassapurasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

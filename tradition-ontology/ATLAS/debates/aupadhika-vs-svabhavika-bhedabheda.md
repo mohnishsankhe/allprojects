@@ -41,4 +41,4 @@ Jīva: the relation is inconceivable (acintya) — neither adjunct-made nor comp
 **Queue:** RQ-U16-1
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._

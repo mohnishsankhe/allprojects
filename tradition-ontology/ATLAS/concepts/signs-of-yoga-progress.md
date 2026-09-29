@@ -18,4 +18,4 @@
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md) — All 1 Upaniṣad refs cited in the entry are located in the prepared segments (ŚU 2.11). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.
 - 2026-09-29 text-locate: confirmed — rests_on: tea:markandeya-purana:39.62-65 — All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

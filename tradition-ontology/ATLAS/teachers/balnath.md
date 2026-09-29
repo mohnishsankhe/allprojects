@@ -11,4 +11,4 @@ Nāth yogī associated with Tilla Jogian (Gorakh Ṭillā) in the Salt Range; in
 _Notes: Distinct from the Himachali folk deity Bābā Bālaknāth (U59), with whom he is sometimes confused._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:15 IST._

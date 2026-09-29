@@ -13,4 +13,4 @@ A Janaka king devoted to ritual action (karma), expelled by Keśidhvaja; asked b
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 6.6-6.7 — VP 6.6.10 (expelled by Keśidhvaja), 6.6.20-45 (the expiation episode), 6.7.103-104 located.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

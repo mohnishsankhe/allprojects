@@ -106,4 +106,4 @@ A partial agreement cutting across the sides: Mīmāṃsā, Vedānta (BS 1.1.3; 
 _Notes: Cārvāka, Jain (Sūtrakṛtāṅga) and early Buddhist (Bhūridatta Jātaka) sides contributed by U33 are included verbatim._
 
 ---
-_Contributed by: skeleton:U50-debates, skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U50-debates, skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._

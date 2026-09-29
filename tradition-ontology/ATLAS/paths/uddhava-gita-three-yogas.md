@@ -20,4 +20,4 @@ Branching map: stage 2 has two alternatives by disposition.
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — Stage refs verified: BhP 11.20.7-9, 11.20.11 and 11.20.17. Stage 3's 'the human body is the boat' is 11.20.17, as cited.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._

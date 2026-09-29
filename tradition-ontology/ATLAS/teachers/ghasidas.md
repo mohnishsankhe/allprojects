@@ -10,4 +10,4 @@
 Founder of the Satnāmī panth of Chhattisgarh among the Camārs: rejected images and caste, enjoined vegetarianism and abstinence, and taught the true name.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._

@@ -14,4 +14,4 @@ The sage to whom the Nāṭyaśāstra is ascribed: Brahmā taught him the Nāṭ
 **Realization — the tradition's account:** Received the Nāṭyaveda from Brahmā, who composed it by yoga from the four Vedas.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._

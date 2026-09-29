@@ -20,4 +20,4 @@ A commentary explaining each of the thousand names of Viṣṇu, transmitted und
 
 - 2026-09-29 websearch: confirmed — https://link.springer.com/article/10.1007/s11407-025-09405-9, https://archive.org/details/Vishnu.Sahasranama.with.the.Bhasya.of.Sankaracharya — Exists; attribution disputed (see the 2025 study), as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._

@@ -20,4 +20,4 @@ _Notes: U16 contribution recalled with low confidence; locate in the Tattvārtha
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — Rests on tea:uddhava-gita:11.22.1-9; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._

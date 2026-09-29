@@ -20,4 +20,4 @@ Disciplined practice of notes, rāga and rhythm, offered to the deity and attend
 - partial: [Attention to the inner sound (nādānusandhāna) in the haṭha texts](nadanusandhana.md) — the yogic listening to the inner (unstruck) sound; the music treatises teach the struck sound as the easier way
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._

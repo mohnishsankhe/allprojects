@@ -37,4 +37,4 @@ _none recorded_
 
 - 2026-09-28 text-locate+websearch: confirmed — https://en.wikipedia.org/wiki/Taittiriya_Shakha, text:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md — Confirmed: most widespread Black Yajurveda tradition, strongest in South India; complete Saṃhitā, Brāhmaṇa, Āraṇyaka; name-legend Viṣṇu Purāṇa 3.5.13 (located).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._

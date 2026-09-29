@@ -16,4 +16,4 @@ Arcaṭa's commentary on the Hetubindu (Sanskrit extant), with Durvekamiśra's �
   - kind: original; name: Tibetan: Derge D4234
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:15 IST._

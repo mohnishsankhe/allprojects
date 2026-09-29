@@ -9,4 +9,4 @@
 The fisherman's son who held that the same consciousness transmigrates, rebuked by the Buddha (MN 38).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

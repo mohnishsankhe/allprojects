@@ -24,4 +24,4 @@ An Advaita commentary on the whole Yoga Vāsiṣṭha, printed with the Nirṇay
 
 - dating: Extant (printed with the Nirṇaya Sāgara vulgate, local). The closing colophon names Ānandabodhendra Sarasvatī (a pupil in the line of Sarvajña Sarasvatī). Its final verse dates the work to 'ṛturasaturagamahī 1766 śaka', i.e. c. 1844 CE; Dasgupta places him in the 19th c. The entry had no dating, so one is added.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._

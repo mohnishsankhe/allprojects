@@ -14,4 +14,4 @@
 - part-of → [The twenty (sixteen, eighteen) emptinesses](twenty-emptinesses.md): one of the listed emptinesses — rests on [6.179-223](../texts/madhyamakavatara.md#tea-madhyamakavatara-6-179-223)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._

@@ -28,4 +28,4 @@ _Notes: Not the technical saṃyama of Yoga Sūtra 3.4._
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.26, tea:bhagavad-gita:4.27, tea:bhagavad-gita:4.39, tea:bhagavad-gita:5.27, tea:bhagavad-gita:6.24 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 18:15 IST._

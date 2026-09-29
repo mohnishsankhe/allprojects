@@ -31,4 +31,4 @@ _Notes: U05's contribution to a shared obstacle._
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.10, tea:bhagavad-gita:10.11 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.12, tea:bhagavad-gita:14.8, tea:bhagavad-gita:14.9, tea:bhagavad-gita:14.16, tea:bhagavad-gita:14.17 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:15 IST._

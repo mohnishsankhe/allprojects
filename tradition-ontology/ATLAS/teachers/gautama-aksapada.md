@@ -15,4 +15,4 @@ The sage to whom the Nyāya Sūtra is attributed, the founder of Nyāya. The com
 _Notes: Popular legends explain 'Akṣapāda' ('eyes in the feet'); not recorded here because the versions could not be checked._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:15 IST._

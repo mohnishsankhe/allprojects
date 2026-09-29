@@ -19,4 +19,4 @@
 RESTRICTED: direct crossing (thod rgal) is a restricted practice; only the names of the four visions and the texts' own framing are recorded — no postures, gazes, lamps or other method details. Stage names are the standard ones (moderate-to-high confidence); precise textual loci in the Seventeen Tantras are not given (chapter-level refs only).
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:15 IST._

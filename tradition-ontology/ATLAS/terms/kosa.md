@@ -15,4 +15,4 @@
 **Related:** [annamaya (annarasamaya)](annamaya.md), [prāṇamaya](pranamaya.md), [manomaya](manomaya.md), [vijñānamaya](vijnanamaya.md), [ānandamaya](anandamaya.md)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._

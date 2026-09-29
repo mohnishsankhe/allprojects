@@ -13,4 +13,4 @@ Holding emptiness itself as a thesis or entity; the Victors called those who do 
   - [Prasannapadā](../texts/prasannapada.md) — ref: 13.8; rests_on: ["tea:prasannapada:13.8"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._

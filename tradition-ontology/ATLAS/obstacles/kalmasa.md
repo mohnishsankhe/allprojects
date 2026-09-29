@@ -24,4 +24,4 @@ Bhagavad Gītā 4–6: impurities are destroyed by sacrifice (4.30); the worst s
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.21, tea:bhagavad-gita:4.30, tea:bhagavad-gita:4.36, tea:bhagavad-gita:5.10, tea:bhagavad-gita:5.17, tea:bhagavad-gita:5.25, tea:bhagavad-gita:6.27, tea:bhagavad-gita:6.28, tea:bhagavad-gita:6.45 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 18:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 18:15 IST._

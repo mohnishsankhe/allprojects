@@ -15,4 +15,4 @@
 - leads-to → [Exchanging self and other](exchanging-self-and-other.md): cultivated first (ādau) in BCA 8.90 — rests on [8.90-91](../texts/bodhicaryavatara.md#tea-bodhicaryavatara-8-90-91)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._

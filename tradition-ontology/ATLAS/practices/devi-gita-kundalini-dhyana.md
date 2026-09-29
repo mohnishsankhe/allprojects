@@ -20,4 +20,4 @@ Summary only: after the eight limbs, the Goddess describes breath control, the c
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/3_purana/devigita.md (GRETIL Devīgītā = DBhP 7.31-40) — Restricted practice: the entry stays summary-only, with no procedures, counts or retentions, and the warnings are the text's own (7.40.34 restricts the teaching). Location DBhP 7.35 verified (Gītāsaṅgraha ch. 4, closing 'iti yogavidhiḥ kṛtsnaḥ').
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._

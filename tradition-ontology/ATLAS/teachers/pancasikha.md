@@ -20,4 +20,4 @@ _Notes: Mahābhārata chapter (Śāntiparvan, c. 12.211–212 in the critical ed
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.211.6-18 (kāpileya, kapilā 12.211.14, āsuri 12.211.10), 12.308.24, 12.308.163 — Located as described.
 
-_Contributed by: skeleton:U09-samkhya, skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._

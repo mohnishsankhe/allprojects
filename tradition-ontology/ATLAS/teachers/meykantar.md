@@ -16,4 +16,4 @@ Founder of the Tamil Siddhānta school; author of the Civañāṉa Pōtam; head 
 **Realization — the tradition's account:** Born to a childless Vēḷāḷa couple after they bathed at Tiruveṇkāṭu as Campantar's hymn instructed, and named after its Lord; as a child he was taught by the sage Parañcōti from Kailāsa, who named him Meykaṇṭār, 'he who saw the truth'. He gathered 49 disciples; the learned family priest Aruṇanti, who came to test the child, became his foremost disciple.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:15 IST._

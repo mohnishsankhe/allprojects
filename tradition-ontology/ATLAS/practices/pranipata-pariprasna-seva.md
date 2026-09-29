@@ -18,4 +18,4 @@ Learn knowledge from those who have seen the truth by prostrating before them, q
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.34 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 18:15 IST._

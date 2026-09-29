@@ -9,4 +9,4 @@
 Master who joined Karma Kagyu Mahāmudrā and the Great Perfection, and whose disciples founded the Palyul tradition.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._

@@ -13,4 +13,4 @@
 - part-of → [The councils (saṃgīti)](councils.md): the councils as remembered by the several schools (U38) — rests on [12.1-12.2](../texts/cullavagga.md#tea-cullavagga-12-1-12-2)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

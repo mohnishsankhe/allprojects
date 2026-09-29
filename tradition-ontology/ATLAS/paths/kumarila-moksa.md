@@ -18,4 +18,4 @@
 The order is logical rather than strictly temporal (stages 1-4 run concurrently). Band B5 for self-knowledge is at most 'analogous': Kumārila does not treat it as a liberating insight.
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:15 IST._

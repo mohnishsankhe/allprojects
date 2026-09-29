@@ -14,4 +14,4 @@
 Founder of the Fayan house in Nanjing; used Huayan categories; wrote the Ten Guidelines criticising faults of Chan teachers.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._

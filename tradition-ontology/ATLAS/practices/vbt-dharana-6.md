@@ -15,4 +15,4 @@
 _Notes: Verses 29 (KSTS 8 / GRETIL numbering). Grammatically continues v. 28 (the accusative depends on 'cintayet'); Ānandabhaṭṭa: 'he shows this very thing with the sixth'._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:15 IST._

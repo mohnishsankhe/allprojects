@@ -17,4 +17,4 @@ Jinul's posthumously published (1215) treatise defending the hwadu shortcut agai
 _Notes: Not held locally._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._

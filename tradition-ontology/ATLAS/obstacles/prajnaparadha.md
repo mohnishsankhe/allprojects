@@ -13,4 +13,4 @@ The unwholesome act done when intellect, resolve and memory lapse: the provoker 
   - [Caraka Saṃhitā](../texts/caraka-samhita.md) — ref: Śā 1.98-109; rests_on: ["tea:caraka-samhita:sa.1.98-109", "tea:caraka-samhita:su.7.51-55", "tea:caraka-samhita:ni.7.10-23", "tea:caraka-samhita:vi.3.20-23"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._

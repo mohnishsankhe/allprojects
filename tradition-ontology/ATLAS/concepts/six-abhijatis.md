@@ -15,4 +15,4 @@
 - part-of → [Purification through transmigration (saṃsāra-suddhi)](samsara-suddhi.md): the classes are grades within the fixed round — rests on [1-9](../texts/chalabhijati-sutta.md#tea-chalabhijati-sutta-1-9)
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._

@@ -27,4 +27,4 @@
 **Related:** [Taijasa](taijasa.md), [Turīya](turiya.md), [sthitaprajña](sthitaprajna.md), [prajñāna](prajnana.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, extraction:bhagavad-gita/ch01-03, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U39-mahayana-sutras, skeleton:U44-indian-vajrayana, skeleton:U40-madhyamaka, skeleton:U02-brahmana-vedanga, skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U15-dvaita, extraction:bhagavad-gita/ch01-03, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U39-mahayana-sutras, skeleton:U44-indian-vajrayana, skeleton:U40-madhyamaka, skeleton:U02-brahmana-vedanga, skeleton:U13-advaita. Generated 2026-09-29 18:15 IST._

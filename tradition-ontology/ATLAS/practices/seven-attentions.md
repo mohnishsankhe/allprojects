@@ -12,4 +12,4 @@ The yogin frees himself from desire for sense-pleasures by (1) discerning the co
 **Sequences:** [The seven attentions to the first absorption (Śrāvakabhūmi)](../paths/sravakabhumi-seven-attentions.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:15 IST._

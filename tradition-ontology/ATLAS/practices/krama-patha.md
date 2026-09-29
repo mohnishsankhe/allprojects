@@ -14,4 +14,4 @@ Reciting overlapping pairs of words (ab, bc, cd …) so that both the words and 
 - A mantra wrong in accent or letter does not convey its meaning; as a verbal thunderbolt it harms the sacrificer, as 'Indra-śatru' did through a fault of accent. — [Pāṇinīya Śikṣā](../texts/paniniya-siksa.md) 52
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._

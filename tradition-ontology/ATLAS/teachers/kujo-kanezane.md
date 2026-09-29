@@ -11,4 +11,4 @@
 Regent and diarist (Gyokuyō) who received precepts from Hōnen and at whose request the Senchakushū was written (1198).
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._

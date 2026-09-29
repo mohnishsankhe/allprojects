@@ -34,4 +34,4 @@ _none recorded_
 _Notes: Known largely through the reports of its rivals (Mahāvaṃsa, Cūḷavaṃsa) — treat characterizations as reported by opponents. Created by U37._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._

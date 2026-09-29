@@ -11,4 +11,4 @@ Singing the Tēvāram and other Tirumuṟai hymns in their melodic modes during 
   - [Tēvāram](../texts/tevaram.md) — ref: 1.1.1; rests_on: ["tea:tevaram:1.1.1"]
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:15 IST._

@@ -11,4 +11,4 @@
 The bodhisattva who, empowered by the buddhas, expounds the ten grounds in the Daśabhūmika.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._

@@ -31,4 +31,4 @@ concepts: [The meaning of 'haṭha'](../concepts/meaning-of-hatha.md) · teacher
 _Notes: The two kinds of haṭha are recalled with moderate-low confidence (check). Not the Āyurvedic Śārṅgadhara Saṃhitā (src:sarngadhara-samhita)._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:15 IST._

@@ -27,4 +27,4 @@ concepts: [The wheel of reasons (hetucakra)](../concepts/hetucakra.md), [The thr
 
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:15 IST._

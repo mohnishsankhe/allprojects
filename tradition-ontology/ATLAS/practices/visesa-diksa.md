@@ -11,4 +11,4 @@ The 'special' initiation that qualifies the initiate for the regular worship of 
   - [Somaśambhupaddhati](../texts/somasambhupaddhati.md) — ref: dīkṣā; rests_on: ["tea:somasambhupaddhati:diksa"]
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:15 IST._

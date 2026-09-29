@@ -12,4 +12,4 @@ Insulting, mocking, striking or deceiving women angers the Kula yoginīs and blo
   - [Kaulāvalīnirṇaya](../texts/kaulavalinirnaya.md) — ref: 10.87-88; rests_on: ["tea:kaulavalinirnaya:10.87-88"]
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:15 IST._

@@ -16,4 +16,4 @@
 _Notes: The verse ('śrī-viṣṇoḥ śravaṇe parīkṣid abhavat ...') is recalled as cited in the Bhaktirasāmṛtasindhu (Eastern division) or the Padyāvalī; exact location not recalled, so no teaching id is created._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:15 IST._

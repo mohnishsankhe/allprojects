@@ -28,4 +28,4 @@ The three worlds are cognition only (vijñapti-mātra); objects appear without e
 **Candidate readings:** P1-level: Yogācāra's 'mind-only' as a claim about the ultimate, Yoga's realism about the conventional (Yoga would reject the two-level frame).; P4-stage: Yogācāra texts present mind-only as a stage of meditative insight.; Leave distinct: YBh 4.14–23 is an explicit refutation.
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:15 IST._

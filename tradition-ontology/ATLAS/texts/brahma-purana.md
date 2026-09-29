@@ -42,4 +42,4 @@ _Notes: Chapters c. 234-245 contain Sāṃkhya-yoga dialogues (e.g. 240.96; 243.
 
 - structure: Extant and digitized (GRETIL e-text of 246 chapters, local; also DCS). Closing Sāṃkhya-yoga chapters (240.96; 243.20) and Karāla-Janaka material (241, 245) located. Scholarly date agrees with Hazra (extant text not before the 10th c.; the Konārka section after 1241). Correction: Schreiner and Söhnen did not publish a critical edition; their 'Sanskrit Indices and Text of the Brahmapurāṇa' (1987) supplies the text behind the GRETIL file (and a 'Summary of contents', 1989).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

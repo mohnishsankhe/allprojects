@@ -880,4 +880,4 @@ _Notes: Commentaries: Śrīdhara Svāmin's Bhāvārthadīpikā (src:bhavarthadip
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:raw_etexts:bhagavata-purANam, catalog:DCS:Bhāgavatapurāṇa, https://en.wikipedia.org/wiki/Bhagavata_Purana, https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1113123.html — Extant and digitized (local wiki and mAdhva-app texts; DCS; peterFreund). 12 skandhas; 335 chapters (the wiki has 334 files - one chapter of skandha 7 missing); 18,000 by its own count (12.13.9). Frame and dating confirmed: final redaction usually 9th-10th c., Tamil south, Āḻvār milieu (Hardy; Sheridan 500-1000). Vopadeva allegation confirmed as a reported and rejected claim.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

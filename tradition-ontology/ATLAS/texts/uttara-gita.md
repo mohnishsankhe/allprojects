@@ -42,4 +42,4 @@ _Notes: Distinct from the Anugītā (Mahābhārata 14.16-50), which is also a po
 
 - 2026-09-29 websearch: confirmed — https://archive.org/details/UttaraGitaWithCommentary, https://www.wisdomlib.org/definition/uttaragita, https://www.exoticindiaart.com/book/details/uttara-gita-idk878/ — Confirmed: 3 chapters, a Kṛṣṇa-Arjuna dialogue on Brahman with yogic anatomy (iḍā, piṅgalā, suṣumnā). Traditional scholars take it from the Aśvamedhikaparvan; it is absent from the critical edition. Of eight commentary manuscripts, five are ascribed to Gauḍapāda. Verse counts not checked.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._

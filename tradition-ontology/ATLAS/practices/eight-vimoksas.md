@@ -12,4 +12,4 @@ Two deliverances with the unlovely as object (in the first two dhyānas), the de
   - [Abhidharmakośa (Abhidharmakośakārikā)](../texts/abhidharmakosa.md) — ref: 8.32-33; rests_on: ["tea:abhidharmakosa:8.32-33"]
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._

@@ -23,4 +23,4 @@
 Order as in the Karṇatantravajrapada and bka' dpe phyi ma (inner heat → illusory body → dream → clear light → union), with bardo and transference as the fallbacks at death (unbanded). Restricted practices: the map records stages only.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._

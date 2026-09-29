@@ -30,4 +30,4 @@ _Notes: U06 contribution to a shared practice id._
 
 - 2026-09-29 text-locate: partially-confirmed — local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/3_purana/devigita.md (GRETIL Devīgītā = DBhP 7.31-40), local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915) — Inner worship is ranked above outer in the Devī Gītā at DBhP 7.39.43-46 (GRETIL): outer worship lasts until one is qualified for the inner, which is dissolution in awareness. It is not at 7.40, which prescribes mental worship (7.40.12) before the outer rite.
 
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U24-kali-kaula, skeleton:U06-other-gitas, skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U24-kali-kaula, skeleton:U06-other-gitas, skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:15 IST._

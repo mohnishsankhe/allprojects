@@ -14,4 +14,4 @@ The Larger Sūtra's account of the evils of this world and their painful and bur
 _Notes: Openings of the five sections read locally in T360; content summarised from their opening lines._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._

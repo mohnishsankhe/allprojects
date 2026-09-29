@@ -14,4 +14,4 @@
 Disciple (and adopted son, in tradition) of Rāmānuja who, at his direction, wrote the first commentary on the Tiruvāymoḻi, the Ārāyirappaṭi ('Six Thousand'); a link in the teacher-line the Vaṭakalai follow.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:15 IST._

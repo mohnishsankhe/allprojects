@@ -29,4 +29,4 @@ TM 724 itself frames the body's care instrumentally ('firm true knowledge cannot
 **The traditions' own objections:** Siddhars who seek the deathless body as the goal itself (the alchemical stream, Bogar) would not accept that it is only a means; Paṭṭiṉattār's contempt for the body is not merely a higher-stage view.
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._

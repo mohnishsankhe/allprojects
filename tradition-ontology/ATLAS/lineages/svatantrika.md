@@ -52,4 +52,4 @@ _none recorded_
 [Is consciousness ultimately real while external objects are not (mind-only), or is mind too empty?](../debates/madhyamaka-yogacara.md), [Is the ultimate one, or divisible (e.g. into a concordant/nominal and an actual ultimate)?](../debates/paryaya-paramartha-division.md), [Do śrāvakas and pratyekabuddhas realize the emptiness (selflessness) of phenomena?](../debates/sravaka-realization-of-emptiness.md)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._

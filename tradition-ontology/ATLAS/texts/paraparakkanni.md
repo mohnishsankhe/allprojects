@@ -35,4 +35,4 @@ concepts: [Siddhar ethics](../concepts/siddhar-ethics.md) · teachers: [Tāyumā
 
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._

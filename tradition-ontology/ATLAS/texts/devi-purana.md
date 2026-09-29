@@ -16,4 +16,4 @@ The Goddess's battles and worship, vows and festivals, with early tantric ritual
 
 - 2026-09-29 websearch: partially-confirmed — https://www.wisdomlib.org/hinduism/book/studies-in-the-upapuranas/d/doc1471588.html — Exists as a separate Śākta Upapurāṇa (Hazra's Studies in the Upapurāṇas: 128 chapters, the Goddess as Vindhyavāsinī; Bengal manuscripts). 'Early' and 'eastern India' are consistent with Hazra but its date was not confirmed here; no local e-text found, so 'digitized-original' is unverified.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

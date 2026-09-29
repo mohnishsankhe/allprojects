@@ -18,4 +18,4 @@ Xuanzang's Chinese translation (660-663) of sixteen Perfection of Wisdom texts i
 _Notes: T220 (vols. 5-7) not in the local CBETA subset._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._

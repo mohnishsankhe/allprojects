@@ -13,4 +13,4 @@ The nuns' Vinaya of the Lokottaravāda, including the eight weighty rules and th
   - kind: original; name: G. Roth (Patna 1970), GRETIL e-text
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._

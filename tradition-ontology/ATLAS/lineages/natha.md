@@ -64,4 +64,4 @@ The Nāth tradition traces itself to Ādinātha (Śiva), Matsyendranātha and Go
 _Notes: family 'vedic' follows the coverage-map grouping (A7, Śaiva lineages); it does not settle the tradition's own rejection of Vedic ritual authority (see dsp:natha-varna-and-ritual) nor its overlap with the Buddhist Mahāsiddhas (C; brw:natha-mahasiddha)._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:15 IST._

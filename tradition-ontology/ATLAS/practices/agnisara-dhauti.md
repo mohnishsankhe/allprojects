@@ -16,4 +16,4 @@ The navel-knot is pressed back toward the spine repeatedly (the count is not rep
 - This dhauti is most secret and never to be revealed. — [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) 1.21
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:15 IST._

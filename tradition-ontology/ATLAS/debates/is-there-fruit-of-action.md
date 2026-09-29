@@ -40,4 +40,4 @@ The true kiriyavāda knows influx, bondage and the wearing away of karma; the ak
 **Queue:** RQ-U33-2
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._

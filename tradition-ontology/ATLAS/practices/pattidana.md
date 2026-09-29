@@ -13,4 +13,4 @@ Giving food and drink, especially to the Saṅgha, in the name of dead relatives
   - [Kathāvatthu](../texts/kathavatthu.md) — ref: 7.6; rests_on: ["tea:kathavatthu:7.6"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._

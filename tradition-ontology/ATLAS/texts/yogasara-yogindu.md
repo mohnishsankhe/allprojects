@@ -28,4 +28,4 @@ terms: [paramātman](../terms/paramatman.md) · concepts: [The three selves: out
 _Notes: Title present in the local catalogue (catalog:JainDB:योगसार--योगींदुदेव); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._

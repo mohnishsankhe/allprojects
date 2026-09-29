@@ -24,4 +24,4 @@
 Each stage is traditionally held for an increasing number of months (one month for the first, two for the second, and so on; moderate confidence). Continues into mendicant initiation and the guṇasthānas (pth:jain-fourteen-gunasthanas). Compare U35's pth:jain-eleven-pratimas.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._

@@ -10,4 +10,4 @@
 Śvetāmbara nun (mahattarā, senior nun) whose recitation of a verse Haribhadra could not understand led to his conversion; he honoured her as his spiritual mother.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._

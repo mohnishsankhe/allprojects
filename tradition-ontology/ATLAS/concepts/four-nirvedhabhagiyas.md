@@ -14,4 +14,4 @@
 - corresponds-to-in-map → `cpt:five-paths`: Mahāyāna places them as the path of preparation (prayoga-mārga) of the five paths. — rests on [6.17-19](../texts/abhidharmakosa.md#tea-abhidharmakosa-6-17-19)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._

@@ -20,4 +20,4 @@ The principal mode of rasāyana: after preliminary rites, with shaved head, stea
 _Notes: Marked restricted because the full regimen involves prolonged seclusion, purgation and special diet, and some formulations include metals and gems (e.g. Ci 1.4.22)._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._

@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The saving regard of the teacher (ācārya-abhimāna)](acarya-abhimana.md) (teacher and disciple): the disciple's sole reliance on the teacher (niṣṭhā) and the teacher's saving regard (abhimāna) are two sides of the Śrīvaiṣṇava teaching that Madhurakavi's devotion founds — rests on [2](../texts/kanninun-ciruttampu.md#tea-kanninun-ciruttampu-2), [6](../texts/srivacana-bhusanam.md#tea-srivacana-bhusanam-6)
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:15 IST._

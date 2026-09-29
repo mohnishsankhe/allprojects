@@ -14,4 +14,4 @@ Knowing pleasant, painful and neutral feelings as they are, worldly or unworldly
 **Sequences:** [The three trainings (tisso sikkhā / triśikṣā): virtue, concentration, wisdom](../paths/three-trainings.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

@@ -22,4 +22,4 @@
 
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Low-confidence path, checked. Nāradaparivrājaka 5 gives the six kinds and grades them by the worlds reached (ātura/kuṭīcaka the earthly world, bahūdaka svarga, haṃsa tapoloka, paramahaṃsa satyaloka, turīyātīta and avadhūta kaivalya in the Self). The ordering is textual. All 5 teachings it rests on exist and were located in the e-text.
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 18:15 IST._

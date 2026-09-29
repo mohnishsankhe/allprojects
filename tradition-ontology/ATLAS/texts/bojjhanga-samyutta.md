@@ -58,4 +58,4 @@ concepts: [The four immeasurables / attitudes across Buddhist, Yoga and Jain tea
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

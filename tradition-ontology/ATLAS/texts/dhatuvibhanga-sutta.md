@@ -48,4 +48,4 @@ terms: [maññanā](../terms/mannana.md), [muni](../terms/muni.md) · concepts: 
 _Notes: SuttaCentral uid mn140; Mahāsaṅgīti title 'Dhātuvibhaṅgasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

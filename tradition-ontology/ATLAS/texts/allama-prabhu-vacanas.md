@@ -38,4 +38,4 @@ obstacles: [Gold, woman and land (honnu, heṇṇu, maṇṇu)](../obstacles/hon
 _Notes: aṅkita (signature): Guhēśvara. Cited by incipit; edition numbering to be fixed in Phase D._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:15 IST._

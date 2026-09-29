@@ -15,4 +15,4 @@
 _Notes: Located in the Padārthādarśa on Śāradātilaka paṭala 2 (checked in the local e-text; verse anchors not fixed). Procedures not recorded._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._

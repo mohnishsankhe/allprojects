@@ -16,4 +16,4 @@ Living in constant awareness of the Lord without forced austerities: eyes open, 
 - Everyone speaks of sahaj but no one knows it: it is not ease or laxity. — [Kabīr Granthāvalī](../texts/kabir-granthavali.md) Sahaj kau aṅg
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._

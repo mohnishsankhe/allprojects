@@ -30,4 +30,4 @@ terms: [papañca](../terms/papanca.md), [nippapañca](../terms/nippapanca.md) ·
 _Notes: SuttaCentral uid an8.30; Mahāsaṅgīti title 'Anuruddhamahāvitakkasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

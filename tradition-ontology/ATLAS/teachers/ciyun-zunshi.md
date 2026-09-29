@@ -14,4 +14,4 @@
 Song Tiantai master who composed Pure Land repentance liturgies and the widely used 'ten recitations' method for lay people each morning.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._

@@ -31,4 +31,4 @@ teachers: [Vasugupta](../teachers/vasugupta.md), [Bhaṭṭa Kallaṭa](../teach
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:15 IST._

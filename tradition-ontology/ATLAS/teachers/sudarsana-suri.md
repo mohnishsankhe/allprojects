@@ -13,4 +13,4 @@
 Author of the Śrutaprakāśikā on the Śrībhāṣya; the tradition says he perished when Śrīraṅgam was sacked and that Vedānta Deśika saved his manuscript and his sons.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:15 IST._

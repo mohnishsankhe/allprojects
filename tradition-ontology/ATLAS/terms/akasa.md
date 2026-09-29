@@ -26,4 +26,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.33 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch13-15, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch13-15, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._

@@ -14,4 +14,4 @@ Twelfth patriarch in the Chan list; the tradition also credits him with the Awak
 _Notes: Position in the Chan list of 28 Indian patriarchs as given in the Platform Sūtra (Zongbao ed., T2008, read locally at prepared ref 13.11) and the Jingde chuandeng lu juan 1–3. The list goes back to the Baolin zhuan (801); scholars regard the Chan biographies of these figures as legendary. Number 12._
 
 ---
-_Contributed by: skeleton:U42-chan-zen, skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U42-chan-zen, skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._

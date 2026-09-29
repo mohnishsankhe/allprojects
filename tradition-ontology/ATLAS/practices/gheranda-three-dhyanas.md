@@ -15,4 +15,4 @@ Gross: visualize a jewel island in an ocean of nectar in the heart with the chos
 - Subtle meditation is secret, hard even for the gods to obtain (a warning of secrecy). — [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) 6.21
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:15 IST._

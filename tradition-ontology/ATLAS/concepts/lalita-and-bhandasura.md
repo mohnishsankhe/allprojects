@@ -17,4 +17,4 @@
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:lalitopakhyana:3.11-12, tea:lalitopakhyana:3.14-30 — All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

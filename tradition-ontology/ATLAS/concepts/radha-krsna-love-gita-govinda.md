@@ -16,4 +16,4 @@
 _Notes: The traditions' own warning that the Lord's love-play is not to be imitated by those who are not lords (BhP 10.33.30–31) is the standard caution attached to hearing such poetry (tea:bhagavata-purana:10.33.30-31)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:15 IST._

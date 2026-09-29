@@ -54,4 +54,4 @@ _none recorded_
 _Notes: Family 'vedic' follows the coverage-map grouping (A7, Śaiva lineages); it does not settle the Siddhars' own rejection of Vedic ritual and caste (see dsp:siddhar-veda-and-scripture). Summary only by design (coverage map A7/A11). Recent institutional forms (government colleges, the 20th-c. textbooks) are flagged recent where they appear._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._

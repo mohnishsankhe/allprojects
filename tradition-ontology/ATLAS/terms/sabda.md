@@ -25,4 +25,4 @@
 _Notes: Philosophical senses (śabda-brahman, testimony) belong to U31/U11/U12._
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U02-brahmana-vedanga, skeleton:U41-yogacara-pramana, skeleton:U27-sant-baul. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U02-brahmana-vedanga, skeleton:U41-yogacara-pramana, skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._

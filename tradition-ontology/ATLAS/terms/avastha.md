@@ -18,4 +18,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U22-tamil-siddha, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U22-tamil-siddha, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:15 IST._

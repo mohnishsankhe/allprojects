@@ -18,4 +18,4 @@ Belief contrary to the realities, the first and root cause of bondage; five kind
 _Notes: U33 contribution; U35 owns the Jain account._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._

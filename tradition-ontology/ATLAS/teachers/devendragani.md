@@ -10,4 +10,4 @@
 Author of the Sukhabodhā commentary on the Uttarādhyayana (1073), with its Prakrit narratives.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._

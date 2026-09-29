@@ -32,4 +32,4 @@ _Notes: Whether this is the Sāṃkhya pradhāna is debated (Brahma Sūtra 1.4.1
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.1, tea:bhagavad-gita:12.3, tea:bhagavad-gita:12.5 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.6, tea:bhagavad-gita:13.6-7 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch07-09, skeleton:U09-samkhya, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch07-09, skeleton:U09-samkhya, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-29 18:15 IST._

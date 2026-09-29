@@ -30,4 +30,4 @@ terms: [neyārtha](../terms/neyartha.md), [tathāgatagarbha](../terms/tathagatag
 _Notes: Butön is usually counted with the Shalu tradition (Zhalupa); lineage ids here are approximate._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:15 IST._

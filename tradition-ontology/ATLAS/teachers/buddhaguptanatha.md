@@ -10,4 +10,4 @@
 An Indian yogin and traveller of the 16th century from whom Tāranātha received the seven instruction lineages and many siddha transmissions (the tradition's account).
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:15 IST._

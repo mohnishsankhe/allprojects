@@ -15,4 +15,4 @@ The noose by which one is long bound; cut by the sword of knowledge 'I am awaren
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/prepared/astavakra-gita/segments.jsonl (GRETIL e-text) — Rests on tea:astavakra-gita:1.14-15; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._

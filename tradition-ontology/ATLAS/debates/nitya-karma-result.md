@@ -28,4 +28,4 @@ Obligatory rites, done without desire, purify the mind and so prepare for knowle
 _Notes: The Prābhākara and Advaita sides are from general knowledge (low)._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:15 IST._

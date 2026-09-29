@@ -19,4 +19,4 @@ _Notes: Prolonged fasts (e.g. month-long regimens) are restricted content and ar
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:10.22.4, tea:devi-mahatmya:12, tea:narada-purana:2.1-5 — Refs located; restricted prolonged fasts are left undescribed, as required. All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

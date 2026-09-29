@@ -12,4 +12,4 @@
 Author of the Pañcārthabhāṣya, the only surviving commentary on the Pāśupata Sūtra, which frames the teaching as five categories and five stages. Sometimes identified with the tīrthakara Rāśīkara (uncertain).
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:15 IST._

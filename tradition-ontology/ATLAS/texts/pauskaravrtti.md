@@ -15,4 +15,4 @@
 Jñānaprakāśa's commentary on the Pauṣkara's jñānapāda (manuscript with the Daśakārya and Prāsādaṣaṭślokī).
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:15 IST._

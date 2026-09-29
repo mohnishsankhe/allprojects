@@ -17,4 +17,4 @@ Jayānanda's sub-commentary on Candrakīrti's Madhyamakāvatāra, the only India
   - kind: translation; name: Tibetan translation, Derge Tengyur D3870 (dbu ma la 'jug pa'i 'grel bshad) — catalog:Derge-Tengyur:D3870
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._

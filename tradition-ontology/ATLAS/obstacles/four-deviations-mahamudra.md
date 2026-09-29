@@ -13,4 +13,4 @@ Deviating from the essence of emptiness (not recognizing it), into 'sealing' (la
   - [Moonbeams of Mahāmudrā](../texts/moonbeams-of-mahamudra.md) — ref: pt.2; rests_on: ["tea:moonbeams-of-mahamudra:pt.2/5"]
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._

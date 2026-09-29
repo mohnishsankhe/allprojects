@@ -11,4 +11,4 @@
 Fakir (a palanquin-bearer by some accounts) who was Lalon's guru; named in the signature (bhaṇitā) of Lalon's songs.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._

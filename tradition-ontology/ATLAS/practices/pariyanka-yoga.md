@@ -14,4 +14,4 @@ A yoga of the third tantra of the Tirumantiram involving union with a consort; r
 - Restricted practice: no method recorded. The text places it within guru-directed yoga (specific warnings not verified). — [Tirumantiram](../texts/tirumantiram.md) tantra 3
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:15 IST._

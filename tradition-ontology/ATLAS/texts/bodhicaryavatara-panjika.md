@@ -18,4 +18,4 @@ Prajñākaramati's commentary on the Bodhicaryāvatāra, especially detailed on 
   - kind: translation; name: Tibetan translation, Derge Tengyur D3872 (byang chub kyi spyod pa la 'jug pa'i dka' 'grel) — catalog:Derge-Tengyur:D3872
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._

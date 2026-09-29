@@ -13,4 +13,4 @@
 The first tantra composed by a disciple of Ātreya (Ca Sū 1.32); survives only as redacted by Caraka and Dṛḍhabala in the Caraka Saṃhitā.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._

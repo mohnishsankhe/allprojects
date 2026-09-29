@@ -14,4 +14,4 @@ Siddhar poet of forty stanzas in veiled imagery of the root, the six supports an
 _Notes: Nothing is recalled of his life. The name means 'weeping-eyed'; whether the poet is a man or a woman is not settled here._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._

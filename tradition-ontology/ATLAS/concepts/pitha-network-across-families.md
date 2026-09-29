@@ -19,4 +19,4 @@
 - contrasts-with → [The Śākta seats (51 / 52 pīṭhas)](sakta-pithas.md): the later Purāṇic network of 51 seats from Satī's body has another origin story
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:15 IST._

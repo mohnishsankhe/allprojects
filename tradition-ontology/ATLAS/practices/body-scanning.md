@@ -17,4 +17,4 @@ Moving attention systematically through the body, part by part, from head to fee
 - Practise only within a course under an authorized teacher; do not mix with other techniques (the tradition's own rule). — [The Art of Living: Vipassana Meditation as Taught by S. N. Goenka](../texts/art-of-living-hart.md) code-of-discipline
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._

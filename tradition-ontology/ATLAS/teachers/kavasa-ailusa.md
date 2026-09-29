@@ -17,4 +17,4 @@ _Notes: Seer attributions follow the Sarvānukramaṇī as printed in the hymn h
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Rigveda/rigveda_mandala_10.json (Anukramaṇī seer/deity/metre headers), text:sources_raw/raw_etexts/vedaH/Rg/shakala/aitareya-brAhmaNam/2/3.md (khaṇḍa marked (19) = AB 2.19) — Headers: 'kavaṣa ailūṣaḥ' for 10.30–34 (10.34 'akṣo maujavān vā'). The Aitareya Brāhmaṇa episode is AB 2.19 (confirmed, see tea:aitareya-brahmana:2.19).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._

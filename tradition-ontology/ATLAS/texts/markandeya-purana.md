@@ -164,4 +164,4 @@ _Notes: Chs. 10-15: Sumati ('Jaḍa') on death, the road of Yama and the hells, 
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL:mArkaNDeyapurANa1-93, catalog:raw_etexts:markandeya_purana, local:sources_raw/raw_etexts/purANam/mAdhva-app/matsya-purANam.md (chs. 1-176) 53.25-26, https://en.wikipedia.org/wiki/Markandeya_Purana, https://en.wikipedia.org/wiki/Devi_Mahatmya — Extant and digitized (GRETIL/Sansknet chs. 1-93; peterFreund full; GRETIL-dev). Web: 137 chapters in the extant manuscripts; Devī Māhātmya chs. 81-93; core c. 250 CE, Devī Māhātmya c. 550 CE - within the entry's ranges. Matsya 53.25-26 (the birds, 9,000) confirmed. The alternative numbering '78-90 in some editions' was not verified.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

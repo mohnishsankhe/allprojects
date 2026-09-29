@@ -24,4 +24,4 @@ terms: [kihō ittai](../terms/kiho-ittai.md) · concepts: [Oneness of person and
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._

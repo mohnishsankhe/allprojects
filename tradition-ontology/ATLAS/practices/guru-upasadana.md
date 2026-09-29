@@ -18,4 +18,4 @@ Having become disgusted with the worlds won by action, go 'fuel in hand' to a te
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/kausitaki-upanisad-sharada/segments.jsonl (Advaita-Śāradā mūla kst.md, Advaita-Śāradā section numbering), text:sources_raw/prepared/mundaka-upanisad/segm — All 10 Upaniṣad refs cited in the entry are located in the prepared segments (MuU 1.2.12; PrU 1.2; ChU 4.4-9; ChU 8.7-12; ChU 8.15; MuU 1.2.12-13; PrU 1.1-2; ChU 4.4-4.9; ChU 8.7-8.12; KauU 1.1). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:15 IST._

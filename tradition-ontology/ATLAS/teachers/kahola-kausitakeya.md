@@ -12,4 +12,4 @@ Asks Yājñavalkya the same question as Uṣasta and is told of the self beyond 
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — Located: BĀU 3.5.1 ('kaholaḥ kauṣītakeyaḥ'; 'putraiṣaṇāyāś ca vittaiṣaṇāyāś ca lokaiṣaṇāyāś ca vyutthāya').
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:15 IST._

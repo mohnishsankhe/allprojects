@@ -19,4 +19,4 @@
 **Related:** [horā](hora.md), [siddhānta (gaṇita-skandha)](siddhanta-jyotisa.md), [saṃhitā (branch of jyotiṣa)](samhita-jyotisa.md), [muhūrta](muhurta.md)
 
 ---
-_Contributed by: skeleton:U32-jyotisa, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U32-jyotisa, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

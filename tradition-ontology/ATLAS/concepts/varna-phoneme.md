@@ -16,4 +16,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/shixA/sAdhAraNI/paniniya_shiksha.md (60 verses), text:sources_raw/prepared/chandogya-upanisad (Advaita Śāradā mūla), text:sources_raw/raw_etexts/vedaH/Rg/shakala/AraNyakam/3/2.md (AA 3.2, one khaṇḍa per line) — The definition's cited passages were all checked in this sweep and support it: tea:paniniya-siksa:3 (confirmed); tea:paniniya-siksa:13 (confirmed); tea:chandogya-upanisad:2.22.3-5 (confirmed); tea:aitareya-aranyaka:3.2.5 (confirmed).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

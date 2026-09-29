@@ -17,4 +17,4 @@
 **Related:** [jāti](jati.md)
 
 ---
-_Contributed by: skeleton:U12-mimamsa, skeleton:U11-nyaya-vaisesika, skeleton:U31-sound-arts. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U11-nyaya-vaisesika, skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._

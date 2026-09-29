@@ -13,4 +13,4 @@
 Nṛsiṃhāśrama's treatise on the principal topics of Advaita in the Vivaraṇa manner.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:15 IST._

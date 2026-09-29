@@ -13,4 +13,4 @@ Bön master credited with the practice manual of the Zhang Zhung Nyengyü and wi
 _Notes: Optional (Bön)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._

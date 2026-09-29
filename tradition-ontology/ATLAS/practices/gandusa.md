@@ -12,4 +12,4 @@ Holding oil or decoctions in the mouth as part of the daily routine (AHS Sū 2.6
   - [Aṣṭāṅga Hṛdaya](../texts/astanga-hrdaya.md) — ref: Sū 2.6
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._

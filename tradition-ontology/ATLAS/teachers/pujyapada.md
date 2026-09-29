@@ -20,4 +20,4 @@ Digambara ācārya, grammarian and philosopher: author of the Sarvārthasiddhi (
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Pujyapada — Confirmed: Digambara monk, author of the Jainendra-vyākaraṇa, c. 510–600 CE (Wikipedia).
 
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

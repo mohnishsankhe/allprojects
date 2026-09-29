@@ -25,4 +25,4 @@ The Mādhyamika refutes the opponent's theses by consequences without advancing 
 **Candidate readings:** P6-upaya: the Madhyamaka's thesis-less refutation as a skilful means aimed at the opponent's clinging.; P1-level: absence of a thesis 'ultimately' while using conventional language.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:15 IST._

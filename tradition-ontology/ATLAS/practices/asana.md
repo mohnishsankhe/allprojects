@@ -31,4 +31,4 @@ _Notes: Vīrāsana appears in some editions' list of YBh 2.46._
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:6.11, tea:bhagavad-gita:6.12, tea:bhagavad-gita:6.13 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch04-06, skeleton:U09-samkhya, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch04-06, skeleton:U09-samkhya, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._

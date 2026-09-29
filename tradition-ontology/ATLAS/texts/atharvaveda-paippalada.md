@@ -25,4 +25,4 @@ _Notes: Teachings from this recension are not recorded here (no verse-level reca
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Atharvaveda (Paippalāda), https://www.atharvavedapaippalada.uzh.ch/en/stateOfArt.html, https://vedicheritage.gov.in/samhitas/atharvaveda-samhitas/paippalada-samhita/ — Confirmed: 20 kāṇḍas; long known from a single Kashmiri birch-bark manuscript in Śāradā script; Oriya palm-leaf manuscripts and living tradition found in Odisha (D. Bhattacharyya, 1959).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._

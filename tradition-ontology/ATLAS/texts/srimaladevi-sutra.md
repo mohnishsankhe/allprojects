@@ -128,4 +128,4 @@ terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [prabhāsvara-citta](../
 _Notes: Chapter list and key lines (221c16, 222a23, 222b05, 222b28) read locally in T353._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._

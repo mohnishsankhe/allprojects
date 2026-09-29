@@ -14,4 +14,4 @@ The first human teacher of the Great Perfection. Born in Oḍḍiyāna to a nun-
 **Realization — the tradition's account:** Realized the Great Perfection from birth; dissolved his body into light and dropped his testament in a golden casket from the sky.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._

@@ -15,4 +15,4 @@
 A late Śvetāmbara verse manual on the ascent through the fourteen guṇasthānas and the meditations proper to each.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._

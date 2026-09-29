@@ -15,4 +15,4 @@ Abhayākaragupta's 'Garland of Perfected Yogas': twenty-six maṇḍalas with th
   - kind: original; name: GRETIL e-text (ch. 1); licence: GRETIL; url: local
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:15 IST._

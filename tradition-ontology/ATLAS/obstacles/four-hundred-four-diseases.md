@@ -12,4 +12,4 @@ Diseases counted as 4 × 101: karmic (yield only to Dharma), life-span (require 
   - [The Explanatory Tantra (bshad rgyud) of the Four Tantras](../texts/gyushi-shegyu.md) — ref: 12; rests_on: ["tea:gyushi-shegyu:12"]
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:15 IST._

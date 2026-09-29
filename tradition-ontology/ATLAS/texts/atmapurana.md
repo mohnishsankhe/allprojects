@@ -13,4 +13,4 @@
 Śaṅkarānanda's long verse retelling of the teaching of the Upaniṣads in narrative form.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:15 IST._

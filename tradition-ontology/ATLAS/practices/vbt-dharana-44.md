@@ -18,4 +18,4 @@ One should cast the mind, full of pleasure, into the middle between 'fire' (vahn
 _Notes: Verses 68 (KSTS 8 / GRETIL numbering). 'Fire' and 'poison' are technical terms the commentators read in terms of the contraction and expansion of power (interpretation). Restricted: summary of what the verse says only; the text gives no method and none is supplied here. The tradition treats such practices as requiring initiation and a qualified teacher._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:15 IST._

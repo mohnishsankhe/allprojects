@@ -27,4 +27,4 @@ terms: [dhyāna (nididhyāsana)](../terms/dhyana.md), [bhāvanā](../terms/bhava
 
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._

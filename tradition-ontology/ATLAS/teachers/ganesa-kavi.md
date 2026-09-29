@@ -10,4 +10,4 @@
 Author of the Jātakālaṅkāra (1613); distinct from Gaṇeśa Daivajña.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:15 IST._

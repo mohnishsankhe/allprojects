@@ -9,4 +9,4 @@
 Founder of Gongkar Dorjeden monastery and of the Dzong sub-school of the Sakya.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._

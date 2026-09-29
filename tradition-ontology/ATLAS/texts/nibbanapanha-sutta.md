@@ -42,4 +42,4 @@ concepts: [The noble eightfold path](../concepts/noble-eightfold-path.md) · tea
 _Notes: SuttaCentral uid sn38.1; Mahāsaṅgīti title 'Nibbānapañhāsutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

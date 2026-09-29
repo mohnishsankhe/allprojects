@@ -15,4 +15,4 @@
 Haribhadra's sūtra work on the general and particular dharma of householders and ascetics, beginning with the virtues of one who follows the path (mārgānusārin).
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._

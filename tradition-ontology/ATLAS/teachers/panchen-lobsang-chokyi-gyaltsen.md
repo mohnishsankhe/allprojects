@@ -17,4 +17,4 @@
 Abbot of Tashi Lhunpo and teacher of the Fifth Dalai Lama, the first to bear the title Panchen Lama (counted as the First or, counting back to Khedrup Je, the Fourth); author of the Gelug Mahāmudrā root text, the Offering to the Spiritual Master and the Easy Path.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._

@@ -14,4 +14,4 @@ The teacher of the Caraka Saṃhitā: out of friendliness and compassion for all
 _Notes: Caraka has Ātreya learn from Bharadvāja (implied by Sū 1.26-30); the Bhāvaprakāśa has Ātreya go to Indra himself. Bhikṣu Ātreya of Ca Sū 25.24 is a different speaker. Whether Kṛṣṇātreya (a śālākya authority in later sources) is the same person is disputed._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._

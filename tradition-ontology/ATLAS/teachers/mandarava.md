@@ -9,4 +9,4 @@
 Indian princess of Zahor, consort of Padmasambhava, with whom he attained the vidyādhara level of immortality in the Māratika cave; a long-life deity in Nyingma practice.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._

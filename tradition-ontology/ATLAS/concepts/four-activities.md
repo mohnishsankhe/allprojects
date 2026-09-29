@@ -15,4 +15,4 @@
 _Notes: The Mañjuśrī sādhana tantra of the wheel of the four activities (src:jampal-lezhi-khorlo) is named for them._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._

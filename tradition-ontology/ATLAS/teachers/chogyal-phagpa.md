@@ -13,4 +13,4 @@
 Fifth of the five Sakya founders, Sakya Paṇḍita's nephew; imperial preceptor to Kublai Khan, who gave him authority over Tibet; created the 'Phags-pa script' for the Yuan empire and wrote the Explanation of the Knowable.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._

@@ -135,4 +135,4 @@ _Notes: Recited with ancillary texts (aṅgas): Kavaca, Argalā, Kīlaka before,
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:DCS:Devīmāhātmya, local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet) 81-93, local:sources_raw/raw_etexts/purANam/durgA-saptashatI/goraxapura-pAThaH/raw/source.html (Gita Press Durgā Saptaśatī), https://en.wikipedia.org/wiki/Devi_Mahatmya — Extant and digitized (MkP 81-93 in GRETIL/Sansknet; Gita Press Durgā Saptaśatī local; DCS). The 13 chapters contain exactly 588 numbered verses in the Sansknet text, as the entry says; Medhas named at 81.9. Web: DM in MkP chs. 81-93, c. 550 CE (entry 5th-6th c.).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

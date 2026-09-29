@@ -21,4 +21,4 @@
 The order is a reconstruction from separate sūtras (the texts do not number stages). Bands are interpretive; stage 7 is given B8 because the Bhāṣya calls the detached dweller 'liberated' while embodied, before final release (B7).
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:15 IST._

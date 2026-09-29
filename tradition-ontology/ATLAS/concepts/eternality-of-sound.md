@@ -13,4 +13,4 @@
 - contrasts-with → [The sphoṭa (the meaning-bearing word)](sphota.md): the eternal word is the letters, not a sphoṭa — rests on [1.1.5/4](../texts/sabara-bhasya.md#tea-sabara-bhasya-1-1-5-4)
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:15 IST._

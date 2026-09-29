@@ -11,4 +11,4 @@
 Digambara ācārya of Karnataka ('poet-emperor of two languages'), author of the Bhairava-Padmāvatī-kalpa and other mantra works.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._

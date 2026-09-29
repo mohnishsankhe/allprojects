@@ -50,4 +50,4 @@ The reconciliation removes the charge only for those who accept that conventiona
 _Notes: The Advaita and Mīmāṃsā sides are given from U40's knowledge of those texts (moderate); U13 and U12 own those lineages._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._

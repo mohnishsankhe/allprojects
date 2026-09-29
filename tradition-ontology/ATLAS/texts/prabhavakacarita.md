@@ -14,4 +14,4 @@
 Prabhācandrasūri's lives of twenty-two influential Śvetāmbara teachers (prabhāvakas), from Vajrasvāmin to Hemacandra (1277 CE).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._

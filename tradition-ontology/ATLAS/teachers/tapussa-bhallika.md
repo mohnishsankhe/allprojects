@@ -10,4 +10,4 @@ Two merchants who offered the newly awakened Buddha food and became the first la
 _Notes: Two persons in one entry, as the texts always pair them._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

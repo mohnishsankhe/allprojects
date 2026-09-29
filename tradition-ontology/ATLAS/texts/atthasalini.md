@@ -68,4 +68,4 @@ teachers: [Moggaliputta Tissa](../teachers/moggaliputta-tissa.md) · disputes: [
 _Notes: Cūḷavaṃsa reports that Buddhaghosa wrote an 'Atthasālinī' in India before coming to Lanka; the extant text cites the Visuddhimagga (tradition's account vs. text's evidence noted)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._

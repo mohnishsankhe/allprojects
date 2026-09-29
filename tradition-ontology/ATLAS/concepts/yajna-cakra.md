@@ -17,4 +17,4 @@
 _Notes: The commentators divide on brahman and akṣara in 3.15 (most: the Veda and the imperishable supreme)._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:15 IST._

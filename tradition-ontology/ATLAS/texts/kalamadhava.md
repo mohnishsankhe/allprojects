@@ -16,4 +16,4 @@ Mādhavācārya's treatise determining the right times for rites — the year, m
 _Notes: The tradition identifies Mādhavācārya with Vidyāraṇya; the identification is disputed._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:15 IST._

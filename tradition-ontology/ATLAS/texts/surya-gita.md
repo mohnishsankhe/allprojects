@@ -34,4 +34,4 @@ _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced 
 
 - attribution: 5 chapters and the Tattvasārāyaṇa Karmakāṇḍa placement are verified (ch. 5 colophon 'tattvasārāyaṇakarmakāṇḍoktaśrīsūryagītāyām'). But the Sun is not Brahmā's teacher here. Brahmā puts his question to Dakṣiṇāmūrti ('ity ukto vidhinā devo dakṣiṇāmūrtir īśvaraḥ'). Dakṣiṇāmūrti answers by relating the Sūrya Gītā: the Sun teaches his charioteer Aruṇa ('sūryo 'bravīd idaṃ śiṣyam aruṇaṃ nija-sārathim'; the speakers are 'aruṇa uvāca' and 'sūrya uvāca').
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._

@@ -13,4 +13,4 @@ Checking one's mind-stream three times by day and three by night, proclaiming on
 _Notes: The pebble anecdote of Ben Gungyal is recalled from lojong and lamrim literature, not tied here to a verse._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._

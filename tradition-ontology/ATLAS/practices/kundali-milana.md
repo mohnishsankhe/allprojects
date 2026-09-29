@@ -12,4 +12,4 @@ The asterisms and signs of bride and groom are compared under the eight heads (v
   - [Muhūrtacintāmaṇi](../texts/muhurta-cintamani.md) — ref: 6.21-; rests_on: ["tea:muhurta-cintamani:6.21"]
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:15 IST._

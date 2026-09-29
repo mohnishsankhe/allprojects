@@ -1496,4 +1496,4 @@ terms: [saddharma](../terms/saddharma.md) · concepts: [The two aspects of the t
 
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._

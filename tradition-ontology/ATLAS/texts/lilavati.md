@@ -14,4 +14,4 @@
 The arithmetic of Bhāskara II, the first part of the Siddhānta Śiromaṇi; a standard school text for centuries.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:15 IST._

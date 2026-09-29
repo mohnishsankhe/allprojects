@@ -14,4 +14,4 @@
 Tōlāmoḻittēvar's Tamil Jain epic (one of the five minor epics) on Tivittaṉ (Tripṛṣṭha), the first vāsudeva of this era, and his brother Vijaya, drawn from the Jain universal history; admired for its style.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:15 IST._

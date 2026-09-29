@@ -98,4 +98,4 @@ terms: [haṃsa](../terms/hamsa.md), [so'ham](../terms/soham.md), [ajapā](../te
 _Notes: Colophon in the e-text reads 'matsyendranāthaviracitaṃ ...'; the text calls its author Mīnanātha, son of Umā and Śaṅkara (v. 7). Date uncertain._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:15 IST._

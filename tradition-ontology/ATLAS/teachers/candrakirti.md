@@ -23,4 +23,4 @@ Author of the Prasannapadā and the Madhyamakāvatāra, who defended Buddhapāli
 _Notes: Scholarly account: 7th c.; the tantric commentator of the same name (Pradīpoddyotana) is regarded by scholars as a later author._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._

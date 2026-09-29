@@ -14,4 +14,4 @@ The contacts of the senses give cold and heat, pleasure and pain; they come and 
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 2.14, 2.15; rests_on: ["tea:bhagavad-gita:2.14", "tea:bhagavad-gita:2.15"]
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:15 IST._

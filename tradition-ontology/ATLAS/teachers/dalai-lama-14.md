@@ -9,4 +9,4 @@
 Present Dalai Lama (b. 1935); Gelug teacher of the lamrim, the Three Principal Aspects and mind training worldwide. (Entry owned by U52; U47 adds the lineage link.)
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._

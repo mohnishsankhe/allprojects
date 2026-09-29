@@ -14,4 +14,4 @@ Compassion is cultivated first, seeing all beings as tormented by the three kind
 _Notes: Order (friends, neutral, enemies) from memory of Bhāvanākrama I._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._

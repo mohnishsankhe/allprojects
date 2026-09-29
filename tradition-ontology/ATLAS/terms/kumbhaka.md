@@ -17,4 +17,4 @@
 **Related:** [kevala kumbhaka](kevala-kumbhaka.md), [prāṇāyāma](pranayama.md)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:15 IST._

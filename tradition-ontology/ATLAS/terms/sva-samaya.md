@@ -17,4 +17,4 @@
 **Related:** [para-samaya](para-samaya.md), [samaya](samaya.md)
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._

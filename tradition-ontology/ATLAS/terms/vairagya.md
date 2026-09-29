@@ -31,4 +31,4 @@
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:6.35 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.9 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, skeleton:U09-samkhya, skeleton:U05-gita-epic, skeleton:U07-puranas, extraction:bhagavad-gita/ch04-06, skeleton:U13-advaita, extraction:bhagavad-gita/ch13-15, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U09-samkhya, skeleton:U05-gita-epic, skeleton:U07-puranas, extraction:bhagavad-gita/ch04-06, skeleton:U13-advaita, extraction:bhagavad-gita/ch13-15, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:15 IST._

@@ -21,4 +21,4 @@
 **Related:** [satkāryavāda](satkaryavada.md), [vivarta](vivarta.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, skeleton:U13-advaita, skeleton:U35-jain-philosophy, skeleton:U14-visistadvaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, skeleton:U13-advaita, skeleton:U35-jain-philosophy, skeleton:U14-visistadvaita. Generated 2026-09-29 18:15 IST._

@@ -19,4 +19,4 @@ _Notes: The Śvetāmbara account makes Marudevī the first liberated soul of thi
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 1.3.13; 5.5.1; 5.6.9 — BhP 1.3.13 (eighth avatāra, son of Nābhi and Merudevī), 5.5.1, 5.6.9 located.
 
-_Contributed by: skeleton:U34-jain-canon, skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

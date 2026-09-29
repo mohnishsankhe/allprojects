@@ -17,4 +17,4 @@ A mantra wrong in accent or sound fails and harms the sacrificer (PŚ 52; ŚB 1.
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (GRETIL Mādhyandina ŚB, kāṇḍas 1–11, 13–14), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/1_gram/patanjali_vyakaranamahabhasya.md (GRETIL, Kielhorn pagination) — PŚ 52 (the mantra faulty in accent becomes a verbal thunderbolt), ŚB 1.6.3.10 (indraśatru), ŚB 3.2.1.23–24 ('he 'lavo he 'lava') and the Mahābhāṣya Paspaśā ('tasmād brāhmaṇena na mlecchitavai') were all found. This rests on tea:paniniya-siksa:52 and tea:mahabhasya:paspasa/3.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

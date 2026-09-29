@@ -13,4 +13,4 @@ Karnatic composer and Śrīvidyā initiate whose Kamalāmbā Navāvaraṇa songs
 _Notes: His initiation into Śrīvidyā by a yogin at Kāśī is the tradition's account (not detailed here)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U31-sound-arts. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._

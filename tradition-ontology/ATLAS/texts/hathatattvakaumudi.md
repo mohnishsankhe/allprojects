@@ -69,4 +69,4 @@ concepts: [Voluntary departure from the body (utkrānti)](../concepts/utkranti.m
 _Notes: Chapter titles checked against the local eBhāratī e-text (colophons)._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:15 IST._

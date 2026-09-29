@@ -16,4 +16,4 @@ Proof of relation (sambandha), with the author's vṛtti.
   - kind: original; name: Kashmir Series of Texts and Studies (KSTS), Srinagar 34 (1921)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:15 IST._

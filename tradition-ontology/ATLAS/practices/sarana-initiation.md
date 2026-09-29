@@ -12,4 +12,4 @@ Initiation by a sattrādhikār: the disciple takes refuge in the four real thing
   - [Kathā-gurucarit](../texts/katha-gurucarit.md) — ref: open-refuge; rests_on: ["tea:katha-gurucarit:open-refuge"]
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._

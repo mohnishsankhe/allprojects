@@ -20,4 +20,4 @@ The most influential commentator on the Bhāgavata and the Viṣṇu Purāṇa (
 - 2026-09-29 websearch: confirmed — https://www.wisdomlib.org/history/book/studies-in-indian-literary-history/d/doc1474985.html — Confirmed, including the c. 1350–1450 date.
 - 2026-09-29 websearch: confirmed — https://www.researchgate.net/publication/343846329_Why_Sridhara_Svami_The_Makings_of_a_Successful_Sanskrit_Commentary, https://www.wisdomlib.org/history/book/studies-in-indian-literary-history/d/doc1474985.html — Web: Bhāvārthadīpikā composed mid-14th to mid-15th c.; commentaries on the Viṣṇu Purāṇa and Gītā; the entry's c. 1350-1450 is right.
 
-_Contributed by: skeleton:U07-puranas, skeleton:U16-bhedabheda, skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U16-bhedabheda, skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-29 18:15 IST._

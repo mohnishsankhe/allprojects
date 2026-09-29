@@ -11,4 +11,4 @@ The consort of Cakrasaṃvara as yidam (Vajrayoginī / Vajravārāhī, often in 
   - [Karṇatantravajrapada (the Vajra Verses of the Whispered Lineage)](../texts/karnatantravajrapada.md) — ref: 303a.1; rests_on: ["tea:karnatantravajrapada:303a.1/2"]
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._

@@ -16,4 +16,4 @@
 - causes → [Hot and cold disorders](hot-and-cold-disorders.md) — rests on [27](../texts/gyushi-shegyu.md#tea-gyushi-shegyu-27)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:15 IST._

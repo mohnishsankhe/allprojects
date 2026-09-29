@@ -17,4 +17,4 @@ The literatus Yuan Hongdao's ten-chapter synthesis of Pure Land with Huayan and 
   - kind: original; name: Taishō T47n1976 (CBETA); licence: CBETA CC BY-NC-SA; url: https://cbetaonline.dila.edu.tw/T1976
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._

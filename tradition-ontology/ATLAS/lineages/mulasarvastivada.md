@@ -53,4 +53,4 @@ _none recorded_
 _Notes: Parent set to Sarvāstivāda for convergence purposes; the tradition regards it as the root of which the others are branches. Scholarly views differ (identity, a later compilation, or a separate group)._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._

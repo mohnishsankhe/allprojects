@@ -23,4 +23,4 @@
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:1.2.16-21 — Stage refs BhP 1.2.16-21 located verse by verse. All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

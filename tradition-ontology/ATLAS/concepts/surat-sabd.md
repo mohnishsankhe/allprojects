@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [The ten inner sounds](ten-inner-sounds.md): Both teach absorption through successive inner sounds; the Sant Mat sounds are assigned to regions and the goal is beyond sound. — rests on [the-regions-and-their-sounds](../texts/sar-bachan.md#tea-sar-bachan-the-regions-and-their-sounds)
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._

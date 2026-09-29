@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [The inner and outer lineages of teachers](santana-lineages.md): the Siddhānta's inner lineage from Nandi
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._

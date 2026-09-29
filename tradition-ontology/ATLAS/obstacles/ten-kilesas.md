@@ -15,4 +15,4 @@ Greed, hatred, delusion, conceit, views, doubt, sloth, restlessness, shamelessne
 - partial: [The five afflictions (kleśa)](five-klesas.md) — Yoga's five afflictions overlap (ignorance, I-am-ness/conceit, attachment, aversion, clinging to life)
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._

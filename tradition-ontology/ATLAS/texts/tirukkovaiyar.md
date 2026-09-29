@@ -28,4 +28,4 @@ _level: unmarked · standpoint: devotional · path: devotion · stage: all · ty
 _Notes: Classical commentary by Pērāciriyar (moderate confidence)._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:15 IST._

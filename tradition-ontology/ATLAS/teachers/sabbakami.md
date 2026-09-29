@@ -8,4 +8,4 @@
 The most senior elder (by tradition a pupil of Ānanda) who judged the ten points at the Second Council (Cv 12).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:15 IST._

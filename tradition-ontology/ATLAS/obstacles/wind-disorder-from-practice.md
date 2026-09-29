@@ -15,4 +15,4 @@ Forcing the breath and wind practices without the proper application, or without
 - analogous: [Improper breath-control](improper-pranayama.md) — the haṭha warning that faulty breath control causes illness
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._

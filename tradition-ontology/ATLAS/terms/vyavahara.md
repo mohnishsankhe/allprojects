@@ -17,4 +17,4 @@
 **Related:** [saṃvṛti-satya](samvrti-satya.md)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._

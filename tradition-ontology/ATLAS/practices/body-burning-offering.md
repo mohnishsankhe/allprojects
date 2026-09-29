@@ -17,4 +17,4 @@ The Lotus's Bhaiṣajyarāja chapter praises a past bodhisattva who burned his b
 _Notes: Restricted category: no method recorded._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._

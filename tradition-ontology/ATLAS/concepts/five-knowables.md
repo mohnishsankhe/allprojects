@@ -15,4 +15,4 @@
 _Notes: Known through Vasubandhu's citation (AKBh 9) — an opponent's report._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._

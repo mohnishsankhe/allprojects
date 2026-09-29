@@ -15,4 +15,4 @@ A phonetic manual attached to the Atharvaveda tradition.
 
 - 2026-09-28 catalog: confirmed — catalog:raw_etexts:manduki_shiksha, catalog:eBharati:mANDUkIshixA — Extant locally under the Atharvaveda Śikṣās, as the entry says.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

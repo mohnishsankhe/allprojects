@@ -78,4 +78,4 @@ terms: [varṇa](../terms/varna.md), [svadharma](../terms/svadharma.md) · conce
 
 - 2026-09-29 catalog+websearch: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.7-12.36 (Yudhiṣṭhira's wish to renounce; speeches of Arjuna 12.8, Bhīma 12.10, Nakula 12.12, Sahadeva 12.13, Draupadī 12.14, Vyāsa 12.23ff), https://press.uchicago.edu/ucp/books/book/chicago/M/bo238499 — Exists; CE Śāntiparvan section 12.1–128 as in the BORI edition (Fitzgerald translation volume). Upaparvan boundary 128/129 not independently re-derived from the local text (no parvan labels in the JSON).
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._

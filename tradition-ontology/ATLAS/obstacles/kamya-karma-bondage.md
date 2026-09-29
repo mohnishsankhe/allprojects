@@ -13,4 +13,4 @@ Desire-prompted (kāmya) acts produce fruits that require further bodies; the se
   - [Prakaraṇapañcikā](../texts/prakaranapancika.md) — ref: ch. 8; rests_on: ["tea:prakaranapancika:8/3"]
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:15 IST._

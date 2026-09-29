@@ -15,4 +15,4 @@ A Chinese-composed sūtra that narrates the flower sermon on Vulture Peak and th
 _Notes: Existence of the text is well established (Xuzangjing X1); its date and use are from memory — low confidence._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._

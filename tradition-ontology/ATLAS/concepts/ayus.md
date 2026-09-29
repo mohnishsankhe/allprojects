@@ -14,4 +14,4 @@
 - part-of → [The tripod: mind, self and body](tripod-of-life.md): life is the conjunction the tripod describes — rests on [su.1.46-47](../texts/caraka-samhita.md#tea-caraka-samhita-su-1-46-47)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._

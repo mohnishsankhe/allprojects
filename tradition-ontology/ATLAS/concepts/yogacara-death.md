@@ -14,4 +14,4 @@
 _Notes: Recalled from the Yogācārabhūmi (manobhūmi) and Xuanzang's Verses on the Eight Consciousnesses (Bashi guiju song: 'last to go, first to come'); refs not located in this pass._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:15 IST._

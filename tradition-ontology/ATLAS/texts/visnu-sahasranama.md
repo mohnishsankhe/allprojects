@@ -54,4 +54,4 @@ _Notes: Commentaries attributed to Śaṅkara (src:visnu-sahasranama-bhasya-sank
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_13.json (BORI Critical Edition text) 13.135.14 viśvaṃ viṣṇur vaṣaṭkāro; 142 verses, catalog:raw_etexts:vishnu_sahasranama — Section located at CE 13.135 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:15 IST._

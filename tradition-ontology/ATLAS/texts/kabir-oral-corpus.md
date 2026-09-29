@@ -457,4 +457,4 @@ terms: [ulaṭbāṃsī](../terms/ulatbamsi.md) · concepts: [Reversed speech (u
 _Notes: Created by this unit as the honest home for teachings whose attribution is popular rather than critical; each teaching notes whether the verse is also found in the Bījak or Granthāvalī when recalled._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._

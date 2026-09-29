@@ -25,4 +25,4 @@ _Notes: Both sides as the Gītā itself states them; the first side is known onl
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.20, tea:bhagavad-gita:7.21, tea:bhagavad-gita:7.22, tea:bhagavad-gita:9.23, tea:bhagavad-gita:7.23, tea:bhagavad-gita:9.24, tea:bhagavad-gita:9.25 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 18:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 18:15 IST._

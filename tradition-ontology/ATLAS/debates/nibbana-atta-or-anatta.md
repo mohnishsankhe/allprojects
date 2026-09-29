@@ -23,4 +23,4 @@ All dhammas, including nibbāna, are not-self; nibbāna is the unconditioned ele
 **Candidate readings:** P1-level: 'self' used as a name for the unconditioned (experiential language) versus 'self' as a metaphysical entity (denied); P5-neyartha: positive language about nibbāna as provisional
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._

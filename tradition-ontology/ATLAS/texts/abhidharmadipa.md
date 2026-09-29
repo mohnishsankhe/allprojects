@@ -15,4 +15,4 @@ A Vaibhāṣika verse treatise with auto-commentary that follows the Kośa's pla
   - kind: original; name: P. S. Jaini (Patna 1959), GRETIL e-text
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._

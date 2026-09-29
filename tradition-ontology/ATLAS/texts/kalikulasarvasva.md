@@ -13,4 +13,4 @@ An eastern Kālīkula tantra cited in the Bengal digests on the worship of Kāl�
 _Notes: Existence recalled; contents not recalled with confidence. Verify in Phase C._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:15 IST._

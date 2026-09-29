@@ -16,4 +16,4 @@
 Thai reformist monk (1906–1993), founder of Suan Mokkh (1932), who taught voidness of self, present-moment dependent origination and mindfulness with breathing, and engaged in dialogue with other religions.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._

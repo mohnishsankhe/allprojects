@@ -14,4 +14,4 @@ Against the passion-producing notion of a body as a beautiful whole ('woman', 'm
 - analogous: [Contemplation of the unlovely (aśubhā-bhāvanā)](asubha-bhavana.md) — Buddhist contemplation of the unattractive (e.g. the parts of the body); similar content, different doctrinal frame (Nyāya affirms the self).
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:15 IST._

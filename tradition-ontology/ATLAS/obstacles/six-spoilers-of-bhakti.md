@@ -13,4 +13,4 @@ Overeating or over-collecting, over-endeavour, idle talk, rigid attachment to (o
   - [Upadeśāmṛta](../texts/upadesamrta.md) — ref: 2; rests_on: ["tea:upadesamrta:2"]
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._

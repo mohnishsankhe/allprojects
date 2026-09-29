@@ -15,4 +15,4 @@
 Rajjab's anthology of verses from many saints (Sant and others) arranged by spiritual topic (aṅg), showing the Dādūpanthī sense of a single teaching running through all the saints.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._

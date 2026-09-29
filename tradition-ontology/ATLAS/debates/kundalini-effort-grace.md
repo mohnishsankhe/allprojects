@@ -56,4 +56,4 @@ P4: Tantrāloka 1.168-170, ch. 2 and 13.300-301; Kulārṇava's graded initiatio
 _Notes: Restricted practices (kuṇḍalinī-arousal methods, khecarī, śakticālana, vajrolī) are referenced by summary only. The recent Siddha Yoga claim of śaktipāta initiation (Muktananda) belongs to U52 and is not recorded here._
 
 ---
-_Contributed by: skeleton:U50-debates. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U50-debates. Generated 2026-09-29 18:15 IST._

@@ -20,4 +20,4 @@
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 6 teachings it rests on exist and were located in the e-text.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/prepared/avadhuta-gita/segments.jsonl — Rests on tea:uddhava-gita:11.7.24-30, tea:uddhava-gita:11.9.3-4, tea:avadhuta-gita:8.5-9; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U21-natha-aghora. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U21-natha-aghora. Generated 2026-09-29 18:15 IST._

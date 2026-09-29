@@ -20,4 +20,4 @@ _Notes: The three-sons account (Tryambaka, Āmardaka, Śrīnātha, plus Ardhatry
 
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Text-located: the name occurs in the e-text of jabala, naradaparivrajaka, gopalatapani (uttara), in the roles the summary gives. Durvāsas and the gopīs is in the Gopālottaratāpinī (e-text no. 99). A mythic or textual figure, so there is no historical dating to check.
 
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U23-sakta-srividya, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U23-sakta-srividya, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:15 IST._

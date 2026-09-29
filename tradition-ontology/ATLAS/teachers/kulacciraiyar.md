@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. Minister of the Pāṇṭiya king Neṭum�
 **Realization — the tradition's account:** Minister of the Pāṇṭiya king Neṭumāṟaṉ who, with the queen Maṅkaiyarkkaraciyār, invited Campantar to Madurai and served devotees of every birth.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:15 IST._

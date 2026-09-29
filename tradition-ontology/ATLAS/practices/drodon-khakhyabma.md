@@ -12,4 +12,4 @@ Refuge and bodhicitta; Avalokiteśvara visualized above oneself and all beings; 
   - [The Benefit of Beings Pervading Space (Thangtong Gyalpo's Avalokiteśvara practice)](../texts/drodon-khakhyabma.md) — ref: 1; rests_on: ["tea:drodon-khakhyabma:1"]
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._

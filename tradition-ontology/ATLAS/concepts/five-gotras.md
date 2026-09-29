@@ -14,4 +14,4 @@
 - contrasts-with → [The one vehicle (ekayāna)](one-vehicle.md) — rests on [2.p27](../texts/lankavatara-sutra.md#tea-lankavatara-sutra-2-p27), [2/2](../texts/saddharmapundarika.md#tea-saddharmapundarika-2-2)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:15 IST._

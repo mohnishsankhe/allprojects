@@ -17,4 +17,4 @@ Vijñānabhikṣu's digest of the doctrine of the Yoga Sūtras as he expounds it
 _Notes: Structure and contents not recalled in detail (gap)._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:15 IST._

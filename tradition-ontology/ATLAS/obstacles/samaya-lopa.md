@@ -15,4 +15,4 @@ Breaking the initiate's observances; for those without lineage and proud of mere
 - partial: [Breaking the samaya](samaya-bhanga.md) — the Śrīvidyā statement of the Mantramārga fault of breaking initiatory rules
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:15 IST._

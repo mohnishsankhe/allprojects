@@ -55,4 +55,4 @@ The 8th-century synthesis in which Śāntarakṣita and Kamalaśīla combined Ma
 _Notes: Parent set to lin:svatantrika following the Tibetan doxographical classification that the registry names follow; the Indian authors did not call themselves Svātantrika._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._

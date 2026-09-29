@@ -14,4 +14,4 @@
 The 8th Karmapa's guru yoga, practised in four sessions a day, supplicating the Karmapa as the embodiment of all lineage gurus and receiving the four empowerments.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:15 IST._

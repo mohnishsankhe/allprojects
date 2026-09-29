@@ -37,4 +37,4 @@ _none recorded_
 
 - 2026-09-28 text-locate+websearch: confirmed — https://en.wikipedia.org/wiki/Madhyandina_Shakha, text:sources_raw/DharmicData/Yajurveda/vajasneyi_madhyadina_samhita.json, text:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md — Confirmed: dominant White Yajurveda recension of North India with Kātyāyana and Pāraskara sūtras; VS 40 = Īśa Upaniṣad (located); Sun-as-horse legend in Viṣṇu Purāṇa 3.5 (located; the cited range 3.5.26–29 matches the local verses 3.5.27–29).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._

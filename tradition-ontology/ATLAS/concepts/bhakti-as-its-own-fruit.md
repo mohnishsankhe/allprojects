@@ -15,4 +15,4 @@
 - same-as-under-standpoint → [Love of God as the fifth and highest goal](prema-as-fifth-goal.md) (devotional): Gauḍīya prema as the fifth aim beyond liberation states the same claim within a rasa theology — rests on [25-26](../texts/narada-bhakti-sutra.md#tea-narada-bhakti-sutra-25-26), [29](../texts/tiruppavai.md#tea-tiruppavai-29)
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:15 IST._

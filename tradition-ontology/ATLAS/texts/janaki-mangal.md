@@ -15,4 +15,4 @@
 Awadhi maṅgal song on the marriage of Sītā and Rāma. One of the twelve works generally accepted as Tulsīdās's.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._

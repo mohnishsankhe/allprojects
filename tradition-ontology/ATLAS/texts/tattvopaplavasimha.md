@@ -102,4 +102,4 @@ terms: [avicārita-ramaṇīya](../terms/avicaritaramaniya.md) · concepts: [The
 
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:15 IST._

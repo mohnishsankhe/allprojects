@@ -18,4 +18,4 @@ Turning all merit toward awakening for all beings, ideally without apprehending 
 - Dedication made with apprehension of signs is 'poisoned, with a thorn'. — [Aṣṭasāhasrikā Prajñāpāramitā](../texts/astasahasrika-prajnaparamita.md) ch. 6 (Vaidya p. 77)
 
 ---
-_Contributed by: skeleton:U43-pure-land, skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U43-pure-land, skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka. Generated 2026-09-29 18:15 IST._

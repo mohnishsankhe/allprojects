@@ -38,4 +38,4 @@ _Notes: The name 'Ṣaḍja Gītā' is recalled from the vulgate tradition (low)
 - part_of: CE 12.161 confirmed. The vulgate colophon reads 'āpaddharmaparvaṇi ṣaḍjagītāyām' (vulgate 12.167). So the text belongs to the Āpaddharma section (CE 12.129-167), not the Mokṣadharma: part_of is corrected to U05's src:apaddharma. The copied dating clause about the Mokṣadharma is removed.
 - dating: CE 12.161 confirmed. The vulgate colophon reads 'āpaddharmaparvaṇi ṣaḍjagītāyām' (vulgate 12.167). So the text belongs to the Āpaddharma section (CE 12.129-167), not the Mokṣadharma: part_of is corrected to U05's src:apaddharma. The copied dating clause about the Mokṣadharma is removed.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:15 IST._

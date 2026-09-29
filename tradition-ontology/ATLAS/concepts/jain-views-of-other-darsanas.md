@@ -15,4 +15,4 @@
 _Notes: Relevant to principles P2 and P3; the Jain tradition does not thereby accept that the other darśanas are equally true._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:15 IST._

@@ -12,4 +12,4 @@
 Siddhar poet named from his refrain addressing 'akappēy', the demon that is one's own mind.
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:15 IST._

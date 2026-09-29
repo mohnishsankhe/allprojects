@@ -21,4 +21,4 @@ _Notes: 'Janaka' is a dynastic name; other units record other Janakas (e.g., tch
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Text-located: the name occurs in the e-text of jabala, yajnavalkya, maha, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — Aṣṭāvakra Gītā ch. 2 ('janaka uvāca'); MU 5.8-10 (Siddha Gītā, Janaka's reflections).
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U06-other-gitas, extraction:bhagavad-gita/ch01-03, skeleton:U02-brahmana-vedanga, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U06-other-gitas, extraction:bhagavad-gita/ch01-03, skeleton:U02-brahmana-vedanga, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:15 IST._

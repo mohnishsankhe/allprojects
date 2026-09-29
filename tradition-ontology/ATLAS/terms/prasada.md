@@ -28,4 +28,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:11.25, tea:bhagavad-gita:11.31, tea:bhagavad-gita:11.44, tea:bhagavad-gita:11.45, tea:bhagavad-gita:11.47 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U15-dvaita, extraction:bhagavad-gita/ch01-03, skeleton:U20-virasaiva, skeleton:U05-gita-epic, skeleton:U17-pasupata-kapalika, extraction:bhagavad-gita/ch10-12, skeleton:U03-principal-upanisads, skeleton:U27-sant-baul. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U15-dvaita, extraction:bhagavad-gita/ch01-03, skeleton:U20-virasaiva, skeleton:U05-gita-epic, skeleton:U17-pasupata-kapalika, extraction:bhagavad-gita/ch10-12, skeleton:U03-principal-upanisads, skeleton:U27-sant-baul. Generated 2026-09-29 18:15 IST._

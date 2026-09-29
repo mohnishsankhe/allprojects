@@ -16,4 +16,4 @@ Foods the haṭha texts forbid to the yogin: the bitter, sour, pungent, salty an
   - [Gorakṣaśataka](../texts/goraksasataka.md) — ref: 50; rests_on: ["tea:goraksasataka:49-50"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:15 IST._

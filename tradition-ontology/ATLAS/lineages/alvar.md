@@ -59,4 +59,4 @@ The Āḻvārs — twelve in the tradition's standard list — are the Tamil sai
 _Notes: Status 'absorbed': the Āḻvārs were not an order; their hymns live on inside Śrīvaiṣṇava temple and home worship (lin:visistadvaita, lin:vadakalai, lin:tenkalai). Some lists count ten Āḻvārs, omitting Āṇṭāḷ (held to be Bhūdevī herself) and Madhurakavi (who sang only of Nammāḻvār)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:15 IST._

@@ -45,4 +45,4 @@ _none recorded_
 [Is all activity the function of buddha-nature (Hongzhou), or must numinous knowing be recognised and cultivated (Zongmi)?](../debates/hongzhou-all-activity-buddha-nature.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._

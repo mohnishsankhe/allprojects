@@ -134,11 +134,20 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | bhagavad-gita | ch04-06 | done (123) | done (125) | done (124 tea, 534 disagreements; skeleton 63 up · 4 corr · 0 ret) | done: 109 passed · 15 fixed · 0 failed → text-verified | |
 | bhagavad-gita | ch07-09 | done (95) | done (95) | done (97 tea, 449 disagreements; skeleton 40 up · 6 corr · 0 ret) | done: 68 passed · 29 fixed · 0 failed → text-verified | |
 | bhagavad-gita | ch10-12 | done (120) | done (120) | done (125 tea, 498 disagreements; skeleton 33 up · 3 corr · 0 ret) | done: 121 passed · 4 fixed · 0 failed → text-verified | |
-| bhagavad-gita | ch13-15 | done (85) | done (88) | done (88 tea, 545 disagreements; skeleton 23 up · 19 corr · 0 ret) | running | |
+| bhagavad-gita | ch13-15 | done (85) | done (88) | done (88 tea, 545 disagreements; skeleton 23 up · 19 corr · 0 ret) | done: 86 passed · 2 fixed · 0 failed → text-verified | |
 | bhagavad-gita | ch16-18 | done (137) | done (136) | running (+ thesis) | | |
+| seven-point-mind-training + eight-verses | root reconstruction from OpenPecha lemmata (prep) — running | | | | | |
 
 ### Gītā text-level gates (after ch16-18)
 - One consistency pass across all 18 chapters: citta/cetas → "thought (citta/cetas)" (ch. 6.18–23 still read "mind (citta)"), reflexive ātman, adhyātma gloss; one policy for the level tag 'bridging' vs 'unmarked'; resolve forward links to later chapters (13.x uses this edition's numbering); errata pass for the edition's glitches (DECISIONS 2026-09-28); then the quality gates (misreading hunter, hallucination hunter, reconciliation auditor, reviewer 5%) and the thesis entry by the ch16-18 merger.
+- From ch13-15 F:
+  - cetas is now 'thought' in ch13-15; align ch10-12 final (11.51, 12.5, 12.7, trm:cetas).
+  - Repoint dsp:saguna-nirguna's skeleton span 15.16-18 to the verse entries.
+  - Give dsp:souls-one-or-distinct's epic side rests_on (13.3, 13.23, 15.7).
+  - Fix the vulgate numbering in cpt:twenty-virtues-called-knowledge's name (13.8–12 here).
+  - Names that go beyond the verse: cpt:asvattha-tree ('of saṃsāra'), cpt:vaisvanara.
+  - trm:lobha's language conflict.
+  - One policy for the 'ultimate' and 'bridging' level tags.
 - From ch10-12 F:
   - cetas is rendered "awareness (cetas)" in ch10-12 but "thought (cetas)" in ch04-09 — fix one rendering;
   - the 'ultimate' level tag is used for praise of the Lord as paraṃ brahma (10.12, 10.15, 11.18, 11.37, 11.38, 12.3), while similar descriptions are 'unmarked' — one policy;

@@ -17,4 +17,4 @@ The Śrauta consecration of a king, during which the story of Śunaḥśepa is r
 - 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Yajurveda/vajasneyi_madhyadina_samhita.json — VS 9.35ff. and 10 (consecration waters 'apo devā madhumatīr agṛbhṇan … rājasvaś citānāḥ') located — 'VS 9–10' confirmed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/dcs/dcs/data/conllu/files/Aitareyabrāhmaṇa (DCS, pañcikā.khaṇḍa) — AB 7.13–18 is the Śunaḥśepa narrative recited at the Rājasūya. This rests on confirmed teaching checks: tea:aitareya-brahmana:7.13-18.
 
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._

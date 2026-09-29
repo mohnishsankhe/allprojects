@@ -17,4 +17,4 @@ RESTRICTED. The Ṣaṭcakranirūpaṇa describes rousing kuṇḍalinī by a me
 - Only by the method learned from the guru (the text's condition). — [Ṣaṭcakranirūpaṇa](../texts/sat-cakra-nirupana.md) 50
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:15 IST._

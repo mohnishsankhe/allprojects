@@ -37,4 +37,4 @@ Turning away from objects by seeing the faults of acquiring, guarding, losing, a
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:6.35 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.8-12, tea:bhagavad-gita:13.9, tea:bhagavad-gita:15.3 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U22-tamil-siddha, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U22-tamil-siddha, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:15 IST._

@@ -18,4 +18,4 @@ Two hymns on Time (kāla) as the first god: the seven-reined, thousand-eyed hors
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/atharvaveda-samhita_saunaka_rechension_unachchented_teXt.md (GRETIL, Roth–Whitney numbering), text:sources_raw/DharmicData/AtharvaVeda/atharvaveda_kaanda_19.json (sūkta headers: seer/deity) — AVŚ 19.53–54 located (header: kālaḥ, seer Bhṛgu).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._

@@ -10,4 +10,4 @@
 Advaita teacher (1916–1993), disciple of Sivananda and Tapovan Maharaj, founder of the Chinmaya Mission, who taught the prasthāna-traya and prakaraṇas in English.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:15 IST._

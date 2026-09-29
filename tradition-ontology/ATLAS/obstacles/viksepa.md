@@ -18,4 +18,4 @@ The mind's running to external things; it should be calmed again (GK 3.44).
 _Notes: The Madhyāntavibhāga list is paraphrased from 5.12–13 (checked in the e-text) without the bhāṣya's glosses._
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U41-yogacara-pramana, skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U41-yogacara-pramana, skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._

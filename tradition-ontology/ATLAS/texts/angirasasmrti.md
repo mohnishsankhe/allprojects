@@ -17,4 +17,4 @@ _Notes: Local copy: gretil 4_dharma/smrti/angirasasmrti._
 
 - 2026-09-28 catalog: confirmed — catalog:GRETIL:AGgirasasmRti, catalog:GRETIL-dev:angirasasmrti_plain_text_version, catalog:raw_etexts:AngIrasa-smRtiH — Low-confidence entry confirmed as extant (GRETIL).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

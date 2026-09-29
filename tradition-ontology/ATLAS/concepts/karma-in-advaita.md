@@ -13,4 +13,4 @@
 - leads-to → [The fourfold means (sādhana-catuṣṭaya)](sadhana-catustaya.md): purified by duties the student acquires the four means — rests on [adhikarin](../texts/vedantasara.md#tea-vedantasara-adhikarin)
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:15 IST._

@@ -26,4 +26,4 @@ The welcome belongs to those of various practices; the person of shinjin is sett
 **The traditions' own objections:** Jōdo-shū does not accept that its practitioners are of the nineteenth vow.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._

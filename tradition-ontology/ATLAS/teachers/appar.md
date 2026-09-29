@@ -14,4 +14,4 @@ One of the three Tēvāram poets (Tirumuṟai 4–6), a former Jain monk (Taruma
 **Realization — the tradition's account:** Raised a Śaiva and cared for by his sister Tilakavati, he became a Jain monk; struck by an incurable colic he returned to Tilakavati at Tiruvatikai, received the sacred ash, and sang his first hymn, and the pain left him. The Jain-influenced Pallava king had him shut in a lime-kiln, fed poison, trampled by an elephant and thrown into the sea tied to a stone; he survived each by singing Śiva's names, floated ashore, and the king turned Śaiva. He died at Tiruppukalūr merging with Śiva.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:15 IST._

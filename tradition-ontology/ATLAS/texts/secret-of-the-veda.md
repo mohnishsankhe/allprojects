@@ -21,4 +21,4 @@ _Notes: Recent (post-1800); an interpretation from outside the recitation lineag
 
 - 2026-09-28 websearch: confirmed — https://motherandsriaurobindo.in/Sri-Aurobindo/books/the-secret-of-the-veda/, https://archive.org/details/the-secret-of-the-veda-sri-aurobindo — Confirmed. Precision: the 'Secret of the Veda' series itself ran in the Arya August 1914 – July 1916; the book (CWSA 15) collects his Veda writings in the Arya 1914–1920 ('Selected Hymns', 'Hymns of the Atris'), so '1914–1920' fits the book, not the series alone.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._

@@ -12,4 +12,4 @@ Nothing unoffered is used: food, clothes and all things are first offered to the
   - [Siddhāntarahasya](../texts/siddhantarahasya.md) — ref: 4-8; rests_on: ["tea:siddhantarahasya:4-8"]
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._

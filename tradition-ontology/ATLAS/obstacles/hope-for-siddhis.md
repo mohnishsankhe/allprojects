@@ -11,4 +11,4 @@ The mind that hopes and asks for accomplishments, removed by knowing that they a
   - [Lamdre root text: the Vajra Verses (lam 'bras bu dang bcas pa'i gdams ngag)](../texts/lamdre.md) — ref: 140b.5-6; rests_on: ["tea:lamdre:140b.5-6"]
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._

@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [Omens of death (ariṣṭa)](death-omens.md): both teach omens of death — rests on [1](../texts/chitak-rangdrol.md#tea-chitak-rangdrol-1)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._

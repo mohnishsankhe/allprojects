@@ -21,4 +21,4 @@
 _Notes: Also: sumeru_
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U07-puranas, skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U07-puranas, skeleton:U38-early-schools. Generated 2026-09-29 18:15 IST._

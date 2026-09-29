@@ -14,4 +14,4 @@
 - obstructs → [Isolation (kaivalya)](kaivalya.md) — rests on [2.25](../texts/yoga-sutra.md#tea-yoga-sutra-2-25)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:15 IST._

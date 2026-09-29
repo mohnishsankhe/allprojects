@@ -13,4 +13,4 @@
 Vṛnda's collection of tried formulations arranged on the order of the Mādhava Nidāna.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._

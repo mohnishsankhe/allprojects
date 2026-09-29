@@ -15,4 +15,4 @@
 - corresponds-to-in-map → [The nine ways of Bön (theg pa rim dgu)](bon-nine-ways.md): both traditions order their teaching in nine vehicles; the contents differ — rests on [nine-ways](../texts/zijid.md#tea-zijid-nine-ways), [nine-vehicles](../texts/dudjom-chojung.md#tea-dudjom-chojung-nine-vehicles)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:15 IST._

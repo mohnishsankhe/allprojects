@@ -16,4 +16,4 @@ Vasubandhu's own prose commentary on the Twenty Verses, opening with the thesis 
   - kind: original; name: Tibetan: Derge D4057
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:15 IST._

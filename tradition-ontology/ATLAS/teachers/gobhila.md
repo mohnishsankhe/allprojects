@@ -14,4 +14,4 @@ Author by tradition of the Kauthuma Sāmaveda Gṛhyasūtra.
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Gobhilagṛhyasūtra, https://www.wisdomlib.org/definition/pushpasutra — Low-confidence entry confirmed as the traditional author of the Gobhila Gṛhyasūtra; the Puṣpasūtra is also ascribed to him (Wisdomlib).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

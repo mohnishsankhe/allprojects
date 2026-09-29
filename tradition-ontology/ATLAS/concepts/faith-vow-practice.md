@@ -17,4 +17,4 @@
 - contrasts-with → [Shinjin — true entrusting](shinjin.md): Chinese 'faith' is the practitioner's; Shinran's shinjin is given — rests on [shin.cause](../texts/kyogyoshinsho.md#tea-kyogyoshinsho-shin-cause), [faith-vow-practice](../texts/amituo-jing-yaojie.md#tea-amituo-jing-yaojie-faith-vow-practice)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:15 IST._

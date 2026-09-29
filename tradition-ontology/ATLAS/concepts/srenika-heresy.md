@@ -14,4 +14,4 @@
 - contrasts-with → [Buddha-nature in Chan, Seon and Zen](buddha-nature-chan.md): Chan distinguishes buddha-nature from an eternal self. — rests on [437c19](../texts/jingde-chuandeng-lu.md#tea-jingde-chuandeng-lu-437c19), [srenika](../texts/bendowa.md#tea-bendowa-srenika)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._

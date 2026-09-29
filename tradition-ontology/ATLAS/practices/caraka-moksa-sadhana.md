@@ -17,4 +17,4 @@ Serving the good and avoiding the wicked; vows, fasts and restraints; study of t
 - analogous: [The four establishments of mindfulness (satipaṭṭhāna)](satipatthana.md) — mindfulness in all postures and activities and contemplation of the body's parts
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._

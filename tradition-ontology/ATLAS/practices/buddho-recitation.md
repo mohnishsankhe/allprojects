@@ -15,4 +15,4 @@ Silent repetition of 'buddho' — alone or 'bud-' with the in-breath and '-dho' 
 - partial: [Recollection of the Buddha](buddhanussati.md) — a form of recollection of the Buddha used as a concentration word
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:15 IST._

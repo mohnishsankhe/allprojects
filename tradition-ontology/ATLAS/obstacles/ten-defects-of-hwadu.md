@@ -14,4 +14,4 @@ Ways of going wrong with 'wu': taking it as being or non-being, reasoning about 
   - [Mirror for Seon Students (Seon'ga gwigam)](../texts/seonga-gwigam.md) — 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:15 IST._

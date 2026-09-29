@@ -21,4 +21,4 @@ The application of perfected mercury to the body to make it stable, ageless and 
 - Without the guru's grace and permission the work is fruitless; the unfit gain nothing and lose their wealth. — [Rasārṇava](../texts/rasarnava.md) 1.54-59; RRS 6.8-10
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:15 IST._

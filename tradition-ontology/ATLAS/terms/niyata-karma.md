@@ -17,4 +17,4 @@
 _Notes: The commentators take it as obligatory (daily) rites or one's appointed duty._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:15 IST._

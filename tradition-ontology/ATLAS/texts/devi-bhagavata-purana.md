@@ -63,4 +63,4 @@ _Notes: Devī Gītā = Skandha 7 chs. 31-40 (U06/U23 own src:devi-gita); Maṇid
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:eBharati:devIbhAgavatapurANam, https://en.wikipedia.org/wiki/Devi_Bhagavata_Purana — Extant and digitized: a local e-text exists (eBhārati, 1927 ed. by Rāmateja Śarmā), contrary to the unit's 'no e-text'; its four teachings were located there. Web: 12 skandhas, 318 chapters, 18,000 verses; dated 11th-12th c. (other estimates 9th-14th) - within the entry's range. Devī Gītā at 7.31-40 (colophons 'devīgītāyām') and Maṇidvīpa at 12.10-12 confirmed locally.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:15 IST._

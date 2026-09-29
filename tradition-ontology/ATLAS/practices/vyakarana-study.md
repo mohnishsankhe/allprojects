@@ -14,4 +14,4 @@ Learning the Pāṇinian grammar with its commentaries so as to use only correct
 **Sequences:** [The grammarians' path of the Word (śabdapūrva-yoga)](../paths/vyakarana-sabdapurva-yoga.md)
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:15 IST._

@@ -15,4 +15,4 @@ A compilation in two śatakas ascribed to Gorakṣa, the first corresponding to 
   - kind: original; name: printed with a Hindi commentary (Bombay: Khemraj Shrikrishnadas; editor recalled as Mahīdhara Śarmā — to be checked)
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:15 IST._

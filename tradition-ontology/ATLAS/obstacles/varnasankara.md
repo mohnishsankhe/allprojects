@@ -18,4 +18,4 @@ _Notes: Recorded faithfully; critiques belong to other units._
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/5_artha/kautilya_arthasastra.md (GRETIL, Kangle numbering), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering — Arthaśāstra 1.3.14–15 has 'svadharmaḥ svargāyānantyāya ca | tasyātikrame lokaḥ saṅkarād ucchidyeta'. MDh 10.24 ('vyabhicāreṇa varṇānām avedyāvedanena ca | svakarmaṇāṃ ca tyāgena jāyante varṇasaṅkarāḥ') and 10.61 (the realm with such people soon perishes) were also found. Recorded as the tradition states it.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

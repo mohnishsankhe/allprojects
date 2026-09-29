@@ -15,4 +15,4 @@ Faults against the gods' ordinances and against fellow men — one's own, bodily
 _Notes: rests_on: tea:rgveda:7.86.5, tea:rgveda:7.89.5, tea:rgveda:5.85.7-8, tea:rgveda:2.28.5_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:15 IST._

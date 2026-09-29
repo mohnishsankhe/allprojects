@@ -13,4 +13,4 @@ Disciple of Eknāth credited with completing the Bhāvārtha Rāmāyaṇa after 
 _Notes: Name as recalled; verify._
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:15 IST._

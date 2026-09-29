@@ -40,4 +40,4 @@ _Notes: Date and verse numbers not verified; the opening story is widely quoted.
 
 - 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/mixed/ebhAratI-sampat/sAhityam/sAhityetihAsaH/em__kRShNamAchAryaH_em__shrInivAsAchAryaH/hisTarI-oph-klAsikal-saMskRt-liTarechar.md, https://www.indica.today/long-reads/glory-shri-kameshwara-nandikesvara-maheshvara-sutras/ — Low-confidence entry confirmed. The text is reproduced in Krishnamachariar's History (v. 1 'nṛttāvasāne naṭarājarājo …'), where it is also noted to be printed with Upamanyu's commentary in the Nirṇayasāgara Mahābhāṣya. It reads the sūtras metaphysically ('akāro brahmarūpaḥ …'), as the entry says. The date remains unverified.
 
-_Contributed by: skeleton:U31-sound-arts, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

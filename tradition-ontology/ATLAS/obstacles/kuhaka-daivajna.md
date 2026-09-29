@@ -11,4 +11,4 @@ One who predicts by trickery, feigned possession, concealment or eavesdropping: 
   - [Bṛhat Saṃhitā](../texts/brhat-samhita.md) — ref: 2.15; rests_on: ["tea:brhat-samhita:2.15"]
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:15 IST._

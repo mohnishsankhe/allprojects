@@ -13,4 +13,4 @@
 - part-of → [The sevenfold analysis of the chariot](sevenfold-chariot-analysis.md): a condensed form of the chariot reasoning — rests on [insight.selflessness-of-person](../texts/lamrim-chenmo.md#tea-lamrim-chenmo-insight-selflessness-of-person)
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:15 IST._

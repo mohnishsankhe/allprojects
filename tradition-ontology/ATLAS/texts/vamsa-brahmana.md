@@ -17,4 +17,4 @@ _Notes: Local copy: vedaH/misc/vamsha_brahmana.md._
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:raw_etexts:vamsha_brahmana, https://vedicheritage.gov.in/brahmanas/vansha-brahmana/ — Extant locally. The Vedic Heritage Portal describes one short chapter giving the teacher–pupil succession of the Sāmaveda.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:15 IST._

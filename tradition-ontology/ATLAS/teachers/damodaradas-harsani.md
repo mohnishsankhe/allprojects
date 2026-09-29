@@ -9,4 +9,4 @@
 Vallabha's first disciple, initiated with brahmasambandha the morning after the Gokul revelation (tradition).
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:15 IST._
