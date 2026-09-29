@@ -80,6 +80,8 @@ def _why_text(p: dict, why: list) -> str:
 
 def sequence(chosen: list[dict]) -> list[dict]:
     """14 days: start with one practice, add the next ones gradually, keep sessions short."""
+    if not chosen:
+        return []
     days = []
     starts = [1, 4, 8, 11][: len(chosen)]
     for d in range(1, 15):

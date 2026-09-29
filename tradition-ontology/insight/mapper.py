@@ -822,9 +822,10 @@ def tier_a(toks: list, lo: int, hi: int, mk: Marker) -> Optional[dict]:
     seq = [(i, stem(toks[i].t)) for i in range(lo, hi) if not toks[i].punct]
     if not seq:
         return None
-    stems_in = {}
-    for j, (_, s) in enumerate(seq):
-        stems_in.setdefault(s, []).append(j)
+    stems_in = {}          # content stems only (a stopword such as "on" must not match the stem of "one")
+    for j, (i, s) in enumerate(seq):
+        if is_content(toks[i].t):
+            stems_in.setdefault(s, []).append(j)
     best = None
 
     def offer(m):
@@ -873,7 +874,9 @@ def tier_a(toks: list, lo: int, hi: int, mk: Marker) -> Optional[dict]:
     ms = mk.stems
     if len(ms) >= 2:
         shared = [s for s in ms if s in stems_in]
-        if len(shared) >= 2:
+        # stricter than "2 content stems of the marker text": at least 3, and at least 60% of the marker's stems
+        # (two everyday words such as "work" and "take" must not put a bland sentence on a marker)
+        if len(shared) >= max(3, math.ceil(0.6 * len(ms))):
             offer({"match": "cue_partial", "cue_index": None, "pos": [seq[stems_in[s][0]][0] for s in shared],
                    "shared": len(shared), "cue_neg": mk.neg, "stems": set()})
         elif len(shared) == 1:
@@ -894,7 +897,7 @@ class Ev:
     qs: int = 0
     qe: int = 0
     quote: str = ""
-    clause_neg: bool = False
+    clause_neg: int = 0          # number of negators in the clause(s) holding the quote
     present: bool = False
     match: Optional[dict] = None
 
@@ -1110,8 +1113,7 @@ def evaluate(ctx: Ctx, unit: Unit, sent: Sentence, qs: int, qe: int, mk: Optiona
             ev.caps.append("C_LOW_FREQUENCY")
         if P["temporal_present"].search(ctext):
             ev.present = True
-        if neg_positions(toks, lo, hi):
-            ev.clause_neg = True
+        ev.clause_neg += len(neg_positions(toks, lo, hi))
         if counter_code is None:
             if P["past_resolved"].search(ctext) and not P["present_override"].search(ctext):
                 counter_code = "R_PAST_RESOLVED"
@@ -1310,6 +1312,12 @@ def _clause_quote(unit: Unit, ca: int, cb: int, ma: int, mb: int) -> tuple:
     return words[lo][0], words[hi][1]
 
 
+# The rules file lists exact_cue, cue_window, cue_partial and one_stem_cue for the rules engine; a single shared word
+# (single_stem, suggestive) would only put bland sentences on display as "evidence", so it is scored (Tier A, used
+# before a blind recheck) but not emitted as an item by the rules engine.
+RULES_EMIT_SINGLE_STEM = False
+
+
 def rules_engine(R: Reading) -> None:
     C = R.cat
     for unit in R.units:
@@ -1326,7 +1334,7 @@ def rules_engine(R: Reading) -> None:
                 for (eid, mi) in sorted(cand):
                     mk = next(m for m in C.markers[eid] if m.index == mi)
                     m = tier_a(info.toks, lo, hi, mk)
-                    if not m:
+                    if not m or (m["match"] == "single_stem" and not RULES_EMIT_SINGLE_STEM):
                         continue
                     ma = info.toks[min(m["pos"])].s
                     mb = info.toks[max(m["pos"])].e
@@ -1376,7 +1384,7 @@ def v7(text: str, unit_texts: list, entry_texts: list, own_names: set, other_nam
     if P["lex_certainty"].search(t):
         return "R_RATIONALE_CERTAINTY"
     for g in P["lex_unsupported_generalisation"].finditer(t):
-        adv = g.group(1).lower()
+        adv = g.group(0).split()[1].lower() if g.group(0).lower().startswith("you ") else g.group(0).lower()
         if not any(re.search(r"\b" + adv + r"\b", q.lower()) for q in quotes):
             return "R_RATIONALE_UNSUPPORTED"
     for h in claims.scan(t):
@@ -1695,7 +1703,7 @@ def finalize_mappings(R: Reading, engine_label: str) -> tuple:
         mapped = mapped2
     # log the floor failures
     for eid, a in aggs.items():
-        if a.code:
+        if a.code and (any(i.w >= 0.6 for i in a.kept) or a.counters):
             R.reject("rules" if any("rules" in i.engines for i in a.kept) else "model", eid, "", a.code)
     # temperament / guna predominance
     for kind, code in (("temperament", "R_TEMPERAMENT_TIE"), ("guna", "R_GUNA_NO_PREDOMINANCE")):
@@ -2058,7 +2066,10 @@ def _process_candidates(R: Reading, cands: list) -> None:
                 continue
             base = _BASE[match["match"]] if match else None
             label = match["match"] if match else None
-            need = match is None or base != "direct" or ev.clause_neg
+            # a negator in the clause makes the recheck mandatory, unless the match is lexical and every negator in the
+            # clause is the cue's own (parity already checked): the worked example M1 keeps its direct cue_window item
+            explained = bool(match) and match["match"] in _LEX and ev.clause_neg == match["cue_neg"]
+            need = match is None or base != "direct" or (ev.clause_neg > 0 and not explained)
             if need:
                 rc = _recheck(R, mk, unit, sent, ev.quote)
                 if rc is None or not rc["ok"]:

@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>A reflective reading</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to the main content</a>
+  <header>
+    <h1>A reflective reading</h1>
+    <p class="lede">What you write, read through traditional Indian texts. Not therapy, not medical advice, no predictions.</p>
+    <nav aria-label="Sections">
+      <button type="button" class="tab" data-view="reading" aria-current="page">Reading</button>
+      <button type="button" class="tab" data-view="data">My data</button>
+      <button type="button" class="tab" data-view="admin">Admin</button>
+    </nav>
+  </header>
+
+  <main id="main" tabindex="-1">
+    <p id="status" class="status" role="status" aria-live="polite"></p>
+
+    <!-- Reading: consent, intake, report -->
+    <section id="view-reading" aria-labelledby="h-reading">
+      <h2 id="h-reading" class="sr-only">Reading</h2>
+
+      <section id="step-consent" aria-labelledby="h-consent">
+        <h2 id="h-consent">Before we begin</h2>
+        <div id="consent-text"></div>
+        <form id="consent-form" novalidate>
+          <div class="field">
+            <label for="age">How old are you?</label>
+            <input id="age" name="age" type="number" inputmode="numeric" min="1" max="129" required autocomplete="off">
+          </div>
+          <div class="check">
+            <input id="consent-box" type="checkbox">
+            <label for="consent-box" id="consent-label"></label>
+          </div>
+          <p class="error" id="consent-error" role="alert"></p>
+          <button type="submit" class="primary">Continue</button>
+        </form>
+      </section>
+
+      <section id="step-intake" hidden aria-labelledby="h-intake">
+        <h2 id="h-intake">Tell us in your own words</h2>
+        <p>Every question is optional. Write as much or as little as you like, in English. A reading needs a few sentences of your own writing.</p>
+        <form id="intake-form" novalidate>
+          <div id="questions"></div>
+          <div class="field">
+            <label for="free-text">Anything else, in your own words</label>
+            <textarea id="free-text" rows="5" maxlength="6000"></textarea>
+          </div>
+          <details>
+            <summary>Or paste a conversation you were part of</summary>
+            <div class="field">
+              <label for="dialogue">Conversation (one line per turn, like "Me: ...")</label>
+              <textarea id="dialogue" rows="6" maxlength="6000"></textarea>
+            </div>
+            <div class="field">
+              <label for="speaker">Which speaker is you? (we never guess)</label>
+              <input id="speaker" type="text" maxlength="40" autocomplete="off">
+              <p class="hint">Only your lines are read. The other lines are context only.</p>
+            </div>
+          </details>
+          <div class="field">
+            <label for="engine">Reading engine</label>
+            <select id="engine">
+              <option value="">Server default</option>
+              <option value="rules">Rules (offline)</option>
+              <option value="model">Model</option>
+            </select>
+          </div>
+          <p class="error" id="intake-error" role="alert"></p>
+          <button type="submit" class="primary" id="intake-submit">Make my reading</button>
+        </form>
+      </section>
+
+      <section id="step-report" hidden aria-labelledby="h-report">
+        <h2 id="h-report" tabindex="-1">Your reading</h2>
+        <div id="stop-box" class="stop" role="alert" hidden></div>
+        <div id="report"></div>
+        <div class="actions" id="report-actions" hidden>
+          <button type="button" id="dl-md">Download as Markdown</button>
+          <button type="button" id="print">Print</button>
+          <button type="button" id="again">Start a new reading</button>
+        </div>
+        <section id="checkin-box" hidden aria-labelledby="h-checkin">
+          <h3 id="h-checkin">Daily check-in</h3>
+          <form id="checkin-form" novalidate>
+            <div class="field">
+              <label for="ck-day">Day (1 to 14)</label>
+              <input id="ck-day" type="number" min="1" max="60" value="1" inputmode="numeric">
+            </div>
+            <div class="field">
+              <label for="ck-text">In one or two lines: what did you do, and what did you notice?</label>
+              <textarea id="ck-text" rows="3" maxlength="2000"></textarea>
+            </div>
+            <button type="submit">Save check-in</button>
+          </form>
+          <div id="ck-result" role="status" aria-live="polite"></div>
+          <div id="ck-stop" class="stop" role="alert" hidden></div>
+        </section>
+      </section>
+    </section>
+
+    <!-- My data -->
+    <section id="view-data" hidden aria-labelledby="h-data">
+      <h2 id="h-data">My data</h2>
+      <p>Everything held about you is here. It is stored encrypted and deleted after the retention period.</p>
+      <p id="data-empty" hidden>No session yet. Begin a reading first.</p>
+      <div class="actions">
+        <button type="button" id="data-view-btn">View</button>
+        <button type="button" id="data-export">Export as JSON</button>
+        <button type="button" id="data-delete" class="danger">Delete everything</button>
+      </div>
+      <div id="data-confirm" class="confirm" hidden role="alertdialog" aria-labelledby="data-confirm-t">
+        <p id="data-confirm-t">This removes every reading and check-in and your record. It cannot be undone.</p>
+        <button type="button" id="data-confirm-yes" class="danger">Yes, delete everything</button>
+        <button type="button" id="data-confirm-no">Cancel</button>
+      </div>
+      <div id="data-out"></div>
+    </section>
+
+    <!-- Admin -->
+    <section id="view-admin" hidden aria-labelledby="h-admin">
+      <h2 id="h-admin">Admin</h2>
+      <form id="admin-form" novalidate>
+        <div class="field">
+          <label for="admin-token">Admin token (kept in memory only)</label>
+          <input id="admin-token" type="password" autocomplete="off">
+        </div>
+        <button type="submit" class="primary">Open review queue</button>
+      </form>
+      <div id="admin-body" hidden>
+        <h3>Review queue</h3>
+        <div class="field">
+          <label for="post-status">Show</label>
+          <select id="post-status">
+            <option value="pending">Pending</option>
+            <option value="approved">Approved</option>
+            <option value="edited">Edited</option>
+            <option value="rejected">Rejected</option>
+            <option value="">All</option>
+          </select>
+        </div>
+        <div id="posts"></div>
+        <h3>Draft new posts</h3>
+        <form id="draft-form" novalidate>
+          <div class="field"><label for="draft-bucket">Bucket</label><select id="draft-bucket"></select></div>
+          <div class="field"><label for="draft-format">Format</label><select id="draft-format"></select></div>
+          <div class="field"><label for="draft-n">How many (1 to 20)</label><input id="draft-n" type="number" min="1" max="20" value="3"></div>
+          <button type="submit">Draft</button>
+        </form>
+        <p class="hint">Nothing is ever posted by this app. Every draft waits here for a person.</p>
+        <h3>Costs</h3>
+        <div id="costs"></div>
+        <h3>30-day calendar</h3>
+        <button type="button" id="cal-btn">Show calendar for the chosen bucket</button>
+        <div id="calendar"></div>
+      </div>
+    </section>
+  </main>
+  <footer><p>This service reads only the traditional texts held in its ontology. It gives no diagnosis, cure, health claim or prediction.</p></footer>
+  <script src="/static/app.js"></script>
+</body>
+</html>

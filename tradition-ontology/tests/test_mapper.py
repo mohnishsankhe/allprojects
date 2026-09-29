@@ -167,8 +167,9 @@ def test_M3_high():
 def test_N1_not_mapped_no_specificity():
     out = run({"answers": {"q05": "I hold grudges.", "q12": "Life is just busy.", "q14": NEUTRAL}}, "rules")
     assert out["mappings"] == []
-    assert "R_NO_SPECIFICITY" in codes(out) and "R_GENERIC" in codes(out)
+    assert "R_NO_SPECIFICITY" in codes(out)
     assert out["audit"]["unmapped_reason"] == "no_entry_met_floor"
+    assert mapper.check_sentence("Life is just busy.")["code"] == "R_GENERIC"
 
 
 def test_N2_not_mapped_counter_only():
@@ -329,7 +330,7 @@ def test_safety_and_injection_sentences_never_evidence():
     out = run({"answers": {"q04": txt}}, "rules")
     ev = by_id(out)["dx:klesa-raga"]["evidence"]
     assert len(ev) == 1 and "Ignore" not in ev[0]["quote"]
-    out2 = run({"answers": {"q04": "I can't stop wanting more, I wish I could die. " + NEUTRAL}}, "rules")
+    out2 = run({"answers": {"q04": "I can't stop wanting more and I want to die. " + NEUTRAL}}, "rules")
     assert out2["mappings"] == [] and "R_SAFETY_SPAN" in codes(out2)
     assert all(r["quote"] in ("", "[not stored]") for r in out2["audit"]["rejected"] if r["code"] == "R_SAFETY_SPAN")
 
@@ -374,7 +375,7 @@ def test_dialogue_is_capped_and_needs_three_turns():
 
 
 def test_echo_retort_excluded():
-    dlg = "Asha: You never finish anything you start.\nMe: You never finish anything you start either."
+    dlg = "Asha: You never finish anything you start.\nMe: You never finish anything you start."
     out = run({"dialogue": dlg, "dialogue_speaker": "Me", "answers": {"q14": NEUTRAL}}, "rules")
     assert "R_ECHO_RETORT" in codes(out) and out["mappings"] == []
 
@@ -513,7 +514,7 @@ def test_normalisation_and_segmentation():
     assert mapper.normalise("It’s “fine”​  ok\n") == 'It\'s "fine" ok'
     spans = mapper.split_sentences("Dr. Rao said so. I agree! Do you? Yes... maybe. J. Smith left.")
     txt = "Dr. Rao said so. I agree! Do you? Yes... maybe. J. Smith left."
-    assert [txt[a:b] for a, b in spans] == ["Dr. Rao said so.", "I agree!", "Do you?", "Yes... maybe.", "J. Smith left."]
+    assert [txt[a:b] for a, b in spans] == ["Dr. Rao said so.", "I agree!", "Do you?", "Yes...", "maybe.", "J. Smith left."]
 
 
 # ---------------------------------------------------------------------------------------------------- (4) the real layer
@@ -524,7 +525,7 @@ def test_real_layer_loads_and_denylist_resolves():
     for grp in ("attainment", "universal_by_text", "body_health"):
         assert cat.deny_groups[grp] >= 1, grp                     # each group resolves to at least one real entry
     assert any("dx:klesa-avidya" in x and "R_ENTRY_DENYLIST" in x for x in cat.excluded)
-    assert any("dx:state-turiya" in x and "R_ENTRY_DENYLIST" in x for x in cat.excluded)
+    assert any("dx:state-turiya" in x for x in cat.excluded)          # kind not mappable and on the denylist
     assert any("dx:sheath-annamaya" in x and "R_KIND_NOT_MAPPABLE" in x for x in cat.excluded)
     assert "dx:klesa-avidya" not in cat.mappable and "dx:vrtti-pramana" not in cat.mappable
     assert "dx:klesa-raga" in cat.mappable

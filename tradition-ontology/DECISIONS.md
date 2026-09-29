@@ -352,3 +352,13 @@ Conservative choices made without asking, with reasons. Newest last.
   - config/data_model.md puts dharmamegha at B8, but YS 4.29 puts it before kaivalya;
   - the eight-limbs stages in paths.json lost their rests_on;
   - diagnosis.json cites GK 3.35, 3.42 and 3.43 and TS 9.30–33 as ids that data/ does not have.
+
+## 2026-09-29 22:56 IST — Gītā ch16–18 merge (Role M) accepted; Role F checks every entry
+- The merger's decisions stand as reported in shards/extraction/bhagavad-gita/ch16-18/REPORT.md:
+  - sentence entries 16.1-3, 17.5-6 and 18.51-53; A's 16.13-16 is not kept;
+  - id harmonisation (e.g. obs:manitva, not the Buddhist fetter obs:mana);
+  - homonyms deliberately not linked (trm:mana, trm:dosa, trm:gati, trm:adhisthana …);
+  - 18.66 is not linked to prapatti; its reading is recorded in the notes as recalled;
+  - "the sense of 'I'", never "ego".
+- **The thesis entry** states only what the six marks point to. It records that the marks do not settle what "abandoning all dharmas" means, and it chooses no tradition's thesis.
+- **Protocol.** This chunk is dual-extracted (A/B/M), so it gets the full Role F check of every entry, not a sample. That is stricter than the insight-build Role J and matches the earlier Gītā chunks.
