@@ -426,3 +426,21 @@ Conservative choices made without asking, with reasons. Newest last.
   After re-merging, 166 of 166 restricted entries are clean (no digits, step words or result claims). Shards are untouched, and teachings' originals keep the texts' own words. The atlas has been rebuilt.
 - **Still open (NEXT_STEPS).** Some older skeleton *teachings* about restricted practices may carry step-level paraphrase. The app never cites them (restricted teachings are not citable), but the ontology needs a sweep for them.
 - 2026-09-29 23:17 IST — **Teachings too.** merge.py now also redacts unchecked (skeleton or sourced) teachings about restricted practices whose paraphrase gives method, such as pressing, contracting, holding the breath, inserting, measures or sequences. The paraphrase becomes "<name>: a restricted practice, recorded as a summary only; the method is not kept", with a correction_log entry (by merge.redact_restricted) that keeps the old text's first 300 characters for audit. 27 teachings were redacted. Text-verified teachings are left as the judges checked them (one names "hold the breath at will" as the text's claim, not as method).
+
+## 2026-09-29 23:18 IST — Tattvārtha ch9–10 (+5.16, 5.30) judge: sample 3/6, so all 60 were checked, 27 fixed; tables rebuilt
+- **Renderings fixed as policy** for the Jain dhyānas:
+  - ārta "pained", raudra "fierce", dharmya "of dharma", śukla "white";
+  - vedanā "feeling", with "painful feeling" labelled as the commentators' reading.
+  No psychology words (checked by code).
+- **Other fixes:**
+  - 9.11 no longer takes a side in the sectarian dispute over the jina's parīṣahas;
+  - restricted counts removed (9.17, 9.19, cpt:twelve-tapas);
+  - four links to words the sūtras do not use are removed;
+  - many unlabelled commentary glosses are now labelled.
+  The duplicates 2.1 and 2.7 are dropped; the karma-passions versions stand.
+- **Layers after the merge.** All 102 diagnosis entries are usable, and 35 practices (19 of them gentle). A table cite still pointed at the superseded range tea:tattvartha-sutra:9.30-33; it now cites 9.30–9.33 individually (layers/_gen/tables/spec_obstacles.py). After the rebuild, 16/16 obstacle rows are user-facing (readings still hold out oc:avirati and oc:pramada-pamada), along with 6/8 one-truth rows and 53/77 path-map rows.
+- **NEXT_STEPS:**
+  - trm:aloka and trm:nidana each hold two words under one id; trm:bhava has no Jain sense;
+  - data/'s older renderings of ārta ("sorrowful", "brooding") differ from the verified shard; the verified ones are used;
+  - Jain parīṣaha and tapas concepts in data/ still list the hardships with counts (not method, but to be reviewed);
+  - the skeleton upgrades whose brackets carry commentarial glosses need relabelling.

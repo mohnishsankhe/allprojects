@@ -1191,9 +1191,12 @@
      "term": "ārta-dhyāna (sorrowful dwelling)",
      "cites": [
       "tea:tattvartha-sutra:9.28",
-      "tea:tattvartha-sutra:9.30-33"
+      "tea:tattvartha-sutra:9.30",
+      "tea:tattvartha-sutra:9.31",
+      "tea:tattvartha-sutra:9.32",
+      "tea:tattvartha-sutra:9.33"
      ],
-     "user_facing": false
+     "user_facing": true
     }
    ],
    "lenses": [
@@ -1230,21 +1233,15 @@
     "tea:bhagavad-gita:2.1",
     "tea:bhagavad-gita:2.7",
     "tea:tattvartha-sutra:9.28",
-    "tea:tattvartha-sutra:9.30-33",
+    "tea:tattvartha-sutra:9.30",
+    "tea:tattvartha-sutra:9.31",
+    "tea:tattvartha-sutra:9.32",
+    "tea:tattvartha-sutra:9.33",
     "tea:satipatthana-sutta:mn10:2"
    ],
    "pending_members": [],
-   "user_facing": false,
-   "blocked_by": [
-    {
-     "cite": "tea:tattvartha-sutra:9.28",
-     "why": "skeleton"
-    },
-    {
-     "cite": "tea:tattvartha-sutra:9.30-33",
-     "why": "skeleton"
-    }
-   ]
+   "user_facing": true,
+   "blocked_by": []
   },
   {
    "id": "oc:vitarka-raudra",
@@ -1273,7 +1270,7 @@
       "tea:tattvartha-sutra:9.35",
       "tea:tattvartha-sutra:9.28"
      ],
-     "user_facing": false
+     "user_facing": true
     }
    ],
    "lenses": [
@@ -1305,17 +1302,8 @@
     "tea:tattvartha-sutra:9.28"
    ],
    "pending_members": [],
-   "user_facing": false,
-   "blocked_by": [
-    {
-     "cite": "tea:tattvartha-sutra:9.35",
-     "why": "skeleton"
-    },
-    {
-     "cite": "tea:tattvartha-sutra:9.28",
-     "why": "skeleton"
-    }
-   ]
+   "user_facing": true,
+   "blocked_by": []
   },
   {
    "id": "oc:siddhi-upakkilesa-rasasvada",

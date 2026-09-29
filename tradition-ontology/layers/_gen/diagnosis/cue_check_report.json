@@ -1,0 +1,306 @@
+{
+ "bland_people": 24,
+ "generic_threshold": "> 10% of 24 (>= 3 people)",
+ "lint_failures": {},
+ "cues_added_total": 0,
+ "cues_added_by_kind": {
+  "affliction": 0,
+  "fetter": 0,
+  "guna": 0,
+  "hindrance": 0,
+  "obstacle": 0,
+  "passion": 0,
+  "state": 0,
+  "temperament": 0
+ },
+ "markers_with_added_cues": 0,
+ "added_per_marker_min_max": null,
+ "user_facing_mappable_markers_without_added_cues": [
+  "dx:klesa-asmita | Taking the mind that thinks, judges and feels — its moods and its know",
+  "dx:klesa-raga | Wanting a pleasure again, or the means to it, because it is remembered",
+  "dx:klesa-raga | Vyāsa: attachment seen toward one object does not mean it is absent to",
+  "dx:klesa-dvesa | Pushing against a pain, or whatever brings it, because it is remembere",
+  "dx:klesa-abhinivesa | The wish 'may I not cease to be, may I go on being', and a dread of dy",
+  "dx:antaraya-styana | The mind will not take up the work; it is unfit for effort.",
+  "dx:antaraya-samsaya | Knowing that touches both sides at once: 'it may be so, it may not be ",
+  "dx:antaraya-pramada | Not doing the practice one knows supports samādhi.",
+  "dx:antaraya-alasya | Not starting, because body and mind feel heavy.",
+  "dx:antaraya-avirati | The mind's greed for contact with objects, keeping it from turning awa",
+  "dx:antaraya-bhranti-darsana | Seeing wrongly, as when one moon is seen as two, here in matters of pr",
+  "dx:antaraya-alabdha-bhumikatva | Not reaching any settled ground of samādhi.",
+  "dx:antaraya-anavasthitatva | Losing a ground once gained; the mind does not stay where it reached.",
+  "dx:companion-daurmanasya | The mind shaken because a wish was blocked.",
+  "dx:cittabhumi | In the distracted ground, samādhi is subordinate to distraction and do",
+  "dx:cittabhumi | In the one-pointed ground, samādhi lights up what truly is, weakens th",
+  "dx:vitarka-himsadi | Thoughts of harming, lying, stealing and the rest arising — whether on",
+  "dx:guna-sattva | When light, knowledge, arises in all the gates of the body, sattva has",
+  "dx:guna-sattva | The sāttvika doer: free of attachment, not boasting of 'I', full of st",
+  "dx:guna-sattva | Sāttvika happiness: like poison at first and like nectar at the end, b",
+  "dx:guna-rajas | When rajas grows: greed, busy activity, the undertaking of actions, un",
+  "dx:guna-rajas | The rājasa doer: passionate, eager for the fruit of action, greedy, ha",
+  "dx:guna-rajas | Rājasa happiness: from the meeting of senses and objects, like nectar ",
+  "dx:guna-tamas | When tamas grows: darkness, inactivity, heedlessness, delusion (BhG 14",
+  "dx:guna-tamas | The tāmasa doer: unsteady, coarse, obstinate, deceitful, malicious, la",
+  "dx:guna-tamas | Tāmasa steadiness: the kind by which one does not let go of sleep, fea",
+  "dx:gunatita | Not hating the play of the guṇas when present, not longing for it when",
+  "dx:gita-anger-chain | Turning an object over and over in the mind until attachment and desir",
+  "dx:gita-anger-chain | Anger born of desire, then clouding: losing track of what one knows, a",
+  "dx:gita-kama-krodha | Acting wrongly against one's own wish, as if pushed by force (BhG 3.36",
+  "dx:gita-kama-krodha | A fire that cannot be filled, covering knowledge as smoke covers fire ",
+  "dx:gita-kama-krodha | The surge (vega) born of desire and anger; one who can bear it here, b",
+  "dx:gita-asuri-sampad | Hypocrisy, arrogance, conceit, anger, harshness, ignorance (BhG 16.4).",
+  "dx:gita-visada | Sinking before a duty that seems unbearable, not knowing what is right",
+  "dx:gita-visada | The body giving way with the mind whirling, as the text narrates it (B",
+  "dx:gita-visada | Turning to a teacher: 'teach me, I have come to you' (BhG 2.7).",
+  "dx:gita-restless-mind | The mind moving off wherever it will, restless and unsteady (BhG 6.26,",
+  "dx:gita-restless-mind | The senses dragging the mind after objects, carrying understanding awa",
+  "dx:gita-sthitaprajna | Unshaken in sorrow, without craving in pleasure, free of passion, fear",
+  "dx:gk-laya | In stilling the mind, sinking into a pleasant blankness, as in sleep.",
+  "dx:gk-viksepa | The mind running out among desires and enjoyments.",
+  "dx:gk-kasaya | The mind neither sunk nor scattered, yet not free: something still col",
+  "dx:gk-rasasvada | Enjoying the happiness of stillness and settling for it.",
+  "dx:gk-asparsa-fear | Drawing back in fear from the stilling of the mind, as if something wo",
+  "dx:gk-amanibhava | Neither dissolving nor scattering, without movement or appearance (GK ",
+  "dx:katha-unrestrained-senses | The senses running like vicious horses because understanding does not ",
+  "dx:katha-unrestrained-senses | Going round without arriving (KU 1.3.7).",
+  "dx:katha-outward-senses | Looking always outward, never at the one who looks.",
+  "dx:katha-outward-senses | Following outward desires one after another (KU 2.1.2).",
+  "dx:katha-preyas | Choosing what is pleasant now over what is good, for the sake of getti",
+  "dx:katha-preyas | Thinking oneself wise while going round in ignorance (KU 1.2.5).",
+  "dx:katha-yoga-state | The senses and mind at rest, understanding not stirring (KU 2.3.10).",
+  "dx:nivarana-kamacchanda | The mind lured by sensual desire among various objects does not settle",
+  "dx:nivarana-byapada | Hindered by ill will toward the object, the mind does not flow on with",
+  "dx:nivarana-byapada | 'He abused me, he struck me, he beat me, he robbed me' — in those who ",
+  "dx:nivarana-thina-middha | Overcome by stiffness and torpor the mind is unwieldy (Vism IV).",
+  "dx:nivarana-thina-middha | Sinking, drooping, nodding off; bored, stretching lazily (Vism XIV).",
+  "dx:nivarana-uddhacca-kukkucca | Seized by restlessness and remorse, the mind is unpeaceful and flits a",
+  "dx:nivarana-uddhacca-kukkucca | Regret afterwards: sorrowing over what one did and did not do (Vism XI",
+  "dx:nivarana-uddhacca-kukkucca | DN 2: while the five hindrances are not abandoned, the monk regards th",
+  "dx:nivarana-vicikiccha | Stricken by doubt, the mind does not take up the way to jhāna (Vism IV",
+  "dx:nivarana-vicikiccha | Wavering, taking now one side, now another (Vism XIV).",
+  "dx:fetter-vicikiccha | Wavering, taking now one side, now another (Vism XIV).",
+  "dx:fetter-silabbata-paramasa | Holding that keeping a rule or observance is itself what purifies (Vis",
+  "dx:fetter-kamaraga | Greed that sticks to its object and will not let go (Vism XIV).",
+  "dx:fetter-patigha | Ferocity toward its object, spreading like poison (Vism XIV).",
+  "dx:fetter-mana | Holding oneself high, wanting to be displayed (Vism XIV).",
+  "dx:fetter-uddhacca | Disquiet, like water whipped by wind (Vism XIV).",
+  "dx:root-lobha | Grasping that sticks and will not let go (Vism XIV).",
+  "dx:root-lobha | There is no fire like lust (Dhp 202, 251).",
+  "dx:root-dosa | Ferocity that spreads and burns its own support (Vism XIV).",
+  "dx:root-dosa | Hatred is never appeased by hatred; by non-hatred it is appeased (Dhp ",
+  "dx:root-moha | Blindness of mind; the object's nature hidden (Vism XIV).",
+  "dx:root-moha | There is no net like delusion (Dhp 251).",
+  "dx:tanha | Delighting now here, now there; arising wherever there is what is dear",
+  "dx:tanha | Growing like a creeper in one who lives heedlessly (Dhp 334).",
+  "dx:pamada | Letting life slip by without attending to what matters (Dhp 21).",
+  "dx:mutthassati | Mindfulness muddled, not clearly knowing what one is doing (MN 118).",
+  "dx:citta-sankhitta | The text names the state and asks only that it be known as it is: 'he ",
+  "dx:citta-vikkhitta | The text names the state and asks only that it be known as it is: 'he ",
+  "dx:carita-raga | Posture: walks gracefully, putting the foot down and lifting it slowly",
+  "dx:carita-raga | Work: sweeps carefully and evenly without scattering the sand, as if s",
+  "dx:carita-raga | Eating: likes rich, sweet food; eats unhurriedly in round mouthfuls, s",
+  "dx:carita-raga | Seeing: looks long at even a slightly pleasing sight as if amazed, fas",
+  "dx:carita-raga | States that often occur: deceit, fraud, pride, evil wishes, great wish",
+  "dx:carita-dosa | Posture: walks as if digging with his toes, putting the foot down and ",
+  "dx:carita-dosa | Work: grips the broom tightly and sweeps hurriedly, throwing up sand o",
+  "dx:carita-dosa | Eating: likes rough, sour food; eats hurriedly in mouth-filling lumps ",
+  "dx:carita-dosa | Seeing: does not look long at even a slightly unpleasing sight, as if ",
+  "dx:carita-dosa | States that often occur: anger, resentment, contempt, domineering, env",
+  "dx:carita-moha | Posture: walks with an unsteady gait, putting the foot down and liftin",
+  "dx:carita-moha | Work: holds the broom loosely and sweeps turning it this way and that,",
+  "dx:carita-moha | Eating: has no fixed liking; eats in small uneven mouthfuls, dropping ",
+  "dx:carita-moha | Seeing: depends on others — hearing others blame he blames, hearing th",
+  "dx:carita-moha | States that often occur: stiffness, torpor, restlessness, remorse, dou",
+  "dx:carita-saddha | Posture, work, eating and seeing: like the greedy temperament, being a",
+  "dx:carita-saddha | States that often occur: generosity with an open hand, wanting to see ",
+  "dx:carita-buddhi | Posture, work, eating and seeing: like the hating temperament, being a",
+  "dx:carita-buddhi | States that often occur: being easy to correct, good friendship, moder",
+  "dx:carita-vitakka | Posture, work, eating and seeing: like the deluded temperament, being ",
+  "dx:carita-vitakka | States that often occur: much talking, fondness for company, dislike o",
+  "dx:vism-palibodha | Ties that take up the time and mind a meditator needs: a dwelling, sup",
+  "dx:vism-vipassanupakkilesa | Taking lights, joy, calm and the like for arrival and settling into th",
+  "dx:vism-brahmavihara-enemies | Kindness sliding into attachment; compassion into one's own grief; gla",
+  "dx:kasaya-krodha | Anger, one of the four passions; TS 7.5 names giving up anger among th",
+  "dx:kasaya-mana | Pride, one of the four passions, named with its four grades (TS 8.9).",
+  "dx:kasaya-maya | Deceit, crookedness, one of the four passions, named with its four gra",
+  "dx:kasaya-lobha | Greed, one of the four passions; TS 7.5 names giving up greed among th",
+  "dx:jain-nokasaya | Laughter, liking, disliking, grief, fear or disgust arising as the ris",
+  "dx:jain-avirati | Not holding back from harming, falsehood, stealing, unchastity and pos",
+  "dx:jain-arta-dhyana | The mind fixed again and again on getting rid of what is unpleasant (T",
+  "dx:jain-arta-dhyana | The mind fixed on getting back what is pleasant and lost (TS 9.31).",
+  "dx:jain-arta-dhyana | The mind fixed on pain (TS 9.32).",
+  "dx:jain-arta-dhyana | The mind fixed on future enjoyments (TS 9.33).",
+  "dx:jain-raudra-dhyana | The mind dwelling on harming, lying, stealing, or guarding what one en"
+ ],
+ "self_test_failures": [],
+ "cues_firing_on_bland": {
+  "dx:katha-preyas | I always go for what feels good now": [
+   "bland-02",
+   "bland-07",
+   "bland-11",
+   "bland-13",
+   "bland-15",
+   "bland-20",
+   "bland-21"
+  ],
+  "dx:kasaya-lobha | I keep wanting more": [
+   "bland-02",
+   "bland-17",
+   "bland-19"
+  ],
+  "dx:klesa-abhinivesa | I just want to go on being": [
+   "bland-02",
+   "bland-17",
+   "bland-19"
+  ],
+  "dx:tanha | the more I get the more I want": [
+   "bland-02",
+   "bland-17",
+   "bland-19"
+  ],
+  "dx:gita-asuri-sampad | I look down on them": [
+   "bland-06",
+   "bland-15",
+   "bland-16"
+  ],
+  "dx:guna-tamas | I keep putting it off": [
+   "bland-04",
+   "bland-05"
+  ],
+  "dx:guna-tamas | I keep neglecting what matters": [
+   "bland-07"
+  ],
+  "dx:antaraya-anavasthitatva | I can't stay where I got to": [
+   "bland-13"
+  ],
+  "dx:gita-kama-krodha | something takes over and I act against myself": [
+   "bland-17"
+  ],
+  "dx:root-lobha | it sticks to me": [
+   "bland-17"
+  ],
+  "dx:vism-palibodha | I'm always travelling": [
+   "bland-22"
+  ],
+  "dx:mutthassati | I do things without noticing": [
+   "bland-24"
+  ]
+ },
+ "marker_text_firing_on_bland": {},
+ "generic_added_cues": [],
+ "generic_original_cues": [
+  "dx:kasaya-lobha | I keep wanting more | 3/24",
+  "dx:katha-preyas | I always go for what feels good now | 7/24",
+  "dx:klesa-abhinivesa | I just want to go on being | 3/24",
+  "dx:tanha | the more I get the more I want | 3/24",
+  "dx:gita-asuri-sampad | I look down on them | 3/24"
+ ],
+ "bland_mappings": {
+  "bland-15": [
+   [
+    "dx:gita-asuri-sampad",
+    "low"
+   ]
+  ]
+ },
+ "dev": [
+  {
+   "id": "dev-01",
+   "pattern": "attachment to a remembered pleasure",
+   "target_hit_after": false,
+   "target_hit_before": false,
+   "after": [],
+   "before": []
+  },
+  {
+   "id": "dev-02",
+   "pattern": "lasting anger",
+   "target_hit_after": false,
+   "target_hit_before": false,
+   "after": [],
+   "before": []
+  },
+  {
+   "id": "dev-03",
+   "pattern": "the wandering mind at study or prayer",
+   "target_hit_after": false,
+   "target_hit_before": false,
+   "after": [],
+   "before": []
+  },
+  {
+   "id": "dev-04",
+   "pattern": "going back over the past with regret",
+   "target_hit_after": true,
+   "target_hit_before": true,
+   "after": [
+    [
+     "dx:nivarana-uddhacca-kukkucca",
+     "low"
+    ]
+   ],
+   "before": [
+    [
+     "dx:nivarana-uddhacca-kukkucca",
+     "low"
+    ]
+   ]
+  },
+  {
+   "id": "dev-05",
+   "pattern": "wavering about the path",
+   "target_hit_after": false,
+   "target_hit_before": false,
+   "after": [],
+   "before": []
+  },
+  {
+   "id": "dev-06",
+   "pattern": "pride when unnoticed",
+   "target_hit_after": false,
+   "target_hit_before": false,
+   "after": [],
+   "before": []
+  },
+  {
+   "id": "dev-07",
+   "pattern": "putting off what matters",
+   "target_hit_after": false,
+   "target_hit_before": false,
+   "after": [],
+   "before": []
+  },
+  {
+   "id": "dev-08",
+   "pattern": "holding on",
+   "target_hit_after": false,
+   "target_hit_before": false,
+   "after": [],
+   "before": []
+  },
+  {
+   "id": "dev-09",
+   "pattern": "concealment",
+   "target_hit_after": false,
+   "target_hit_before": false,
+   "after": [],
+   "before": []
+  },
+  {
+   "id": "dev-10",
+   "pattern": "dullness at practice",
+   "target_hit_after": false,
+   "target_hit_before": false,
+   "after": [],
+   "before": []
+  }
+ ],
+ "dev_recall_after": "1/10",
+ "dev_recall_before": "1/10",
+ "dev_confidence_after": {
+  "none": 9,
+  "low": 1
+ },
+ "removed_this_run_list": [],
+ "removed_total": 0
+}

@@ -216,21 +216,8 @@
     "tea:tattvartha-sutra:5.16",
     "tea:tattvartha-sutra:5.30"
    ],
-   "user_facing": false,
-   "blocked_by": [
-    {
-     "cite": "tea:tattvartha-sutra:10.2",
-     "why": "skeleton"
-    },
-    {
-     "cite": "tea:tattvartha-sutra:5.16",
-     "why": "skeleton"
-    },
-    {
-     "cite": "tea:tattvartha-sutra:5.30",
-     "why": "skeleton"
-    }
-   ]
+   "user_facing": true,
+   "blocked_by": []
   },
   {
    "id": "ot:provisional-self-question",
@@ -270,10 +257,6 @@
    ],
    "user_facing": false,
    "blocked_by": [
-    {
-     "cite": "tea:tattvartha-sutra:5.16",
-     "why": "skeleton"
-    },
     {
      "cite": "tea:mulamadhyamakakarika:18.6",
      "why": "skeleton"
