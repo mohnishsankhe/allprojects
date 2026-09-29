@@ -69,7 +69,15 @@ class Service:
 
     # --- reading -----------------------------------------------------------------------------
     def _engine(self, engine: Optional[str]) -> tuple[str, Optional[ModelClient]]:
-        e = engine or config.engine_mode()
+        configured = config.reading_engine()
+        e = engine or configured
+        if e == "rules" and configured != "rules":
+            # a caller may ask for the model engine, but never step down from it: the model safety screen would be skipped
+            if configured == "unavailable":
+                raise ServiceError("model_unavailable", "Readings need the model engine, which is not configured on this server.", 503)
+            raise ServiceError("engine_not_allowed", "This server does not make rule-only readings.", 403)
+        if e == "unavailable":
+            raise ServiceError("model_unavailable", "Readings need the model engine, which is not configured on this server.", 503)
         if e == "model":
             client = self.client or ModelClient()
             if not client.available():
@@ -84,6 +92,9 @@ class Service:
         if "age" not in inputs and "age" in answers:
             inputs["age"] = answers.pop("age")
         a = _age_ok(inputs.get("age"))
+        if a is None and inputs.get("age") not in (None, ""):
+            # red team F6: an age that is not a number ("seventeen", "16 yrs") is asked again, never read as "no age"
+            raise ServiceError("age_required", "Please give your age as a number.")
         if a is not None and a < consent_info()["min_age"]:
             self.store.delete_person(pid)             # red team F15: a minor is removed, whatever the route of discovery
             return {"reading_id": None, "report": {"stopped": safety.messages()["decline_minor"]},

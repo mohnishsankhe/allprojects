@@ -197,3 +197,47 @@ def test_review_rules(svc, store):
         svc.review("missing", "approve")
     assert e.value.status == 404
     assert svc.review(pid, "approve", "good") == {"ok": True}
+
+
+# --- red team F3 fix 1, F6, F11: no silent rule-only readings, no downgrade, ages in words, encrypted route -------------
+def test_auto_without_key_refuses_readings_unless_allowed(svc, monkeypatch):
+    pid = _started(svc)
+    monkeypatch.setenv("ONTO_ENGINE", "auto")
+    monkeypatch.delenv("ONTO_ALLOW_RULES_ONLY", raising=False)
+    for eng in (None, "rules"):
+        with pytest.raises(ServiceError) as e:
+            svc.reading(pid, {"answers": {"q01": BENIGN}}, engine=eng)
+        assert e.value.code == "model_unavailable" and e.value.status == 503
+    with pytest.raises(ServiceError) as e:
+        svc.checkin(pid, None, 1, "I sat for five minutes today.")
+    assert e.value.code == "model_unavailable"
+    monkeypatch.setenv("ONTO_ALLOW_RULES_ONLY", "1")
+    assert svc.reading(pid, {"answers": {"q01": BENIGN}})["report"]["engine"] == "rules"
+
+
+def test_a_caller_cannot_step_down_from_the_model_engine(svc, monkeypatch):
+    pid = _started(svc)
+    monkeypatch.setenv("ONTO_ENGINE", "model")
+    with pytest.raises(ServiceError) as e:
+        svc.reading(pid, {"answers": {"q01": BENIGN}}, engine="rules")
+    assert e.value.code == "engine_not_allowed" and e.value.status == 403
+    with pytest.raises(ServiceError) as e:
+        svc.checkin(pid, None, 1, "I sat for five minutes today.", engine="rules")
+    assert e.value.code == "engine_not_allowed"
+
+
+def test_an_age_in_words_is_asked_again_not_read_as_no_age(svc):
+    pid = _started(svc)
+    for bad in ("seventeen", "16 yrs", "thirty", "abc"):
+        with pytest.raises(ServiceError) as e:
+            svc.reading(pid, {"age": bad, "answers": {"q01": BENIGN}})
+        assert e.value.code == "age_required"
+    assert svc.reading(pid, {"age": "34", "answers": {"q01": BENIGN}})["reading_id"]
+
+
+def test_the_route_is_not_stored_in_plain_text(svc, store):
+    pid = _started(svc)
+    rid = svc.reading(pid, {"free_text": "I want to kill myself tonight."})["reading_id"]
+    raw = store.db.execute("SELECT route FROM readings WHERE id=?", (rid,)).fetchone()["route"]
+    assert b"stop_crisis" not in (raw if isinstance(raw, bytes) else str(raw).encode())
+    assert store.get_reading(rid)["route"] == "stop_crisis"

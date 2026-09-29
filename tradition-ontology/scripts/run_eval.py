@@ -89,6 +89,7 @@ def main() -> int:
     ap.add_argument("--queue-dir", help="ONTO_DATA_DIR of the queue to export (default: the configured data dir)")
     ap.add_argument("--seed", default="20260929")
     a = ap.parse_args()
+    os.environ["ONTO_ENGINE"] = a.engine        # an evaluation run is an explicit operator choice of engine (config.reading_engine)
     if a.engine == "model" and not os.environ.get("ANTHROPIC_API_KEY"):
         print("model engine needs ANTHROPIC_API_KEY: live gates are NOT RUN", file=sys.stderr)
         return 3

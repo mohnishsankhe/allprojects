@@ -44,27 +44,27 @@ def test_full_flow_consent_start_reading_report_checkin_export_delete(client, fa
     assert rid and body["markdown"].startswith("# Your reading") and body["report"]["mappings"]
     assert body["report"]["claim_hits"] == []
 
-    md = client.get(f"/api/reading/{rid}", params={"person_id": pid})
+    md = client.get(f"/api/reading/{rid}", headers={"x-person-id": pid})
     assert md.status_code == 200 and md.text == body["markdown"] and "markdown" in md.headers["content-type"]
-    html = client.get(f"/api/reading/{rid}", params={"person_id": pid, "format": "html"})
+    html = client.get(f"/api/reading/{rid}", params={"format": "html"}, headers={"x-person-id": pid})
     assert "<h1>Your reading</h1>" in html.text and "text/html" in html.headers["content-type"]
-    js = client.get(f"/api/reading/{rid}", params={"person_id": pid, "format": "json"}).json()
+    js = client.get(f"/api/reading/{rid}", params={"format": "json"}, headers={"x-person-id": pid}).json()
     assert js["mappings"][0]["dx_id"] == "dx:klesa-raga"
-    assert client.get(f"/api/reading/{rid}", params={"person_id": pid, "format": "pdf"}).status_code == 400
+    assert client.get(f"/api/reading/{rid}", params={"format": "pdf"}, headers={"x-person-id": pid}).status_code == 400
 
     c = client.post("/api/checkin", json={"person_id": pid, "reading_id": rid, "day": 2, "text": "I did five minutes and it wandered."})
     assert c.status_code == 200 and c.json()["stored"] is True
-    cs = client.get("/api/checkins", params={"person_id": pid}).json()
+    cs = client.get("/api/checkins", headers={"x-person-id": pid}).json()
     assert len(cs) == 1 and cs[0]["day"] == 2
 
-    me = client.get("/api/me", params={"person_id": pid}).json()
+    me = client.get("/api/me", headers={"x-person-id": pid}).json()
     assert me["person"]["id"] == pid and len(me["readings"]) == 1 and len(me["checkins"]) == 1
 
-    d = client.delete("/api/me", params={"person_id": pid})
+    d = client.delete("/api/me", headers={"x-person-id": pid})
     assert d.status_code == 200 and d.json()["deleted"] is True and d.json()["rows"] == 2
-    gone = client.get("/api/me", params={"person_id": pid})
+    gone = client.get("/api/me", headers={"x-person-id": pid})
     assert gone.status_code == 403 and gone.json()["error"] == "no_consent"
-    assert client.get(f"/api/reading/{rid}", params={"person_id": pid}).status_code == 403
+    assert client.get(f"/api/reading/{rid}", headers={"x-person-id": pid}).status_code == 403
 
 
 def test_person_id_may_come_from_a_header(client):
@@ -95,7 +95,7 @@ def test_crisis_reading_shows_resources_and_keeps_no_words(client):
     r = client.post("/api/reading", json={"person_id": pid, "inputs": {"age": 40, "free_text": "I want to end my life, nothing helps."}})
     rep = r.json()["report"]
     assert rep["stopped"] and "14416" in json.dumps(rep["stopped"]["resources"])
-    me = client.get("/api/me", params={"person_id": pid}).json()
+    me = client.get("/api/me", headers={"x-person-id": pid}).json()
     assert "end my life" not in json.dumps(me)
 
 
@@ -103,7 +103,7 @@ def test_checkin_crisis_is_not_stored(client):
     pid = start(client)
     r = client.post("/api/checkin", json={"person_id": pid, "day": 1, "text": "I want to kill myself"})
     assert r.json()["stored"] is False and r.json()["stopped"]["resources"]
-    assert client.get("/api/checkins", params={"person_id": pid}).json() == []
+    assert client.get("/api/checkins", headers={"x-person-id": pid}).json() == []
 
 
 def test_checkin_input_validation(client):
@@ -177,7 +177,7 @@ def test_unexpected_error_is_500_internal_and_logs_only_the_type(client, monkeyp
     monkeypatch.setattr(service.Service, "checkins", boom)
     pid = start(client)
     with caplog.at_level(logging.DEBUG):
-        r = client.get("/api/checkins", params={"person_id": pid})
+        r = client.get("/api/checkins", headers={"x-person-id": pid})
     assert r.status_code == 500 and r.json() == {"error": "internal"}
     assert "default-src 'self'" in r.headers["content-security-policy"]
     logged = " ".join(rec.getMessage() for rec in caplog.records)
@@ -309,7 +309,7 @@ def test_admin_purge_removes_old_person_data(client, admin):
     pid = start(client)
     client.post("/api/checkin", json={"person_id": pid, "day": 1, "text": "did it"})
     assert client.post("/api/admin/purge", headers=h, json={"days": 0}).json()["purged"] >= 1
-    assert client.get("/api/checkins", params={"person_id": pid}).status_code == 403     # the whole record is gone
+    assert client.get("/api/checkins", headers={"x-person-id": pid}).status_code == 403     # the whole record is gone
 
 
 # --- the page ------------------------------------------------------------------------------------------
@@ -329,3 +329,14 @@ def test_page_script_never_writes_html_from_text():
         assert bad not in js, bad
     assert "sessionStorage" in js and "textContent" in js
     assert not re.search(r"https?://", js)
+
+
+def test_person_id_is_never_taken_from_the_url(client):
+    pid = start(client)
+    assert client.get(f"/api/me?person_id={pid}").status_code == 403       # red team F10
+    assert client.get("/api/me", headers={"x-person-id": pid}).status_code == 200
+
+
+def test_the_public_page_offers_no_engine_choice():
+    assert 'id="engine"' not in (WEB / "index.html").read_text("utf-8")
+    assert "body.engine" not in (WEB / "app.js").read_text("utf-8")

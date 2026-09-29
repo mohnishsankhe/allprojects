@@ -46,7 +46,8 @@ RELEASE_REPORT.md has the gate status.
   - a secret store for ONTO_DATA_KEY and ONTO_ADMIN_TOKEN;
   - a daily purge job;
   - log retention;
-  - `ONTO_ENGINE=model` in production. In `auto` mode with no key the model screen does not run.
+  - `ONTO_ENGINE=model` in production. In `auto` mode with no key, readings are refused (503); never set
+    `ONTO_ALLOW_RULES_ONLY=1` or `ONTO_ENGINE=rules` on a public deployment.
 
 ## 3. Ontology (Tradition Ontology)
 - **Skeleton citations the layers or tables still need:**

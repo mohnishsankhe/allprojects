@@ -133,7 +133,6 @@ $("intake-form").addEventListener("submit", async (ev) => {
   const err = $("intake-error");
   err.textContent = "";
   const body = { person_id: pid(), inputs: gatherInputs() };
-  if ($("engine").value) body.engine = $("engine").value;
   if (new TextEncoder().encode(JSON.stringify(body)).length > MAX_BYTES) {
     err.textContent = "That is too much text for one reading. Please shorten some answers."; return;
   }

@@ -34,7 +34,10 @@ python3 -m insight.cli questions                     # the CLI mirrors the web a
 **Engines.**
 - `ONTO_ENGINE=rules` is deterministic and offline, and needs no key.
 - `ONTO_ENGINE=model` uses the Claude API and needs `ANTHROPIC_API_KEY`.
-- `auto` (the default) uses the model engine when a key is set, otherwise the rules engine.
+- `auto` (the default) uses the model engine when a key is set. With no key it **refuses person readings and
+  check-ins** (503), because the rules screen alone misses indirect crisis wording. Set `ONTO_ALLOW_RULES_ONLY=1`
+  (development, evaluation) or `ONTO_ENGINE=rules` to allow rule-only readings; never on a public deployment.
+- The public page offers no engine choice, and a caller can never step down from the model engine to rules (403).
 
 **Other settings:** see RUNBOOK.md.
 

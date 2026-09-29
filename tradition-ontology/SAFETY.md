@@ -13,6 +13,10 @@ patterns and wording are in `rules/safety_rules.json` and `rules/safety_messages
   - If the model screen fails, the reading stops with `stop_unavailable`. It fails closed; it never falls back to a
     reading.
 - Daily check-ins go through the same screen.
+- **No silent rule-only readings.** With `ONTO_ENGINE=auto` and no API key, person readings and check-ins are
+  refused (503) unless an operator sets `ONTO_ALLOW_RULES_ONLY=1` for development or evaluation. A request can never
+  step down from the model engine to rules, and the public page offers no engine choice. Every rule-only reading says
+  it was made offline and that the model check did not run.
 
 ## 2. Routes (highest precedence first)
 | Route | When | What the person sees |
@@ -39,7 +43,8 @@ patterns and wording are in `rules/safety_rules.json` and `rules/safety_messages
 
 ## 4. Known limits (v1)
 - The rules screen is English-only and keyword-based. It can miss indirect wording. The model screen covers
-  paraphrase, but only when the model engine is on and an API key is set.
+  paraphrase, but only when the model engine is on and an API key is set; that is why readings are refused when
+  `auto` has no key.
 - Crisis resources are listed for India, the US and the UK, plus a global directory. Check the numbers before each
   release (RUNBOOK.md).
 - The product is a reflective reading of traditional texts. It is not a clinical service, and it says so on every

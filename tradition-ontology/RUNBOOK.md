@@ -3,9 +3,10 @@
 ## Configuration (environment or `.env`; `.env` is git-ignored)
 | Variable | Default | Meaning |
 |---|---|---|
-| `ANTHROPIC_API_KEY` | none | Needed for the model engine. Without it the app runs the rules engine only |
+| `ANTHROPIC_API_KEY` | none | Needed for the model engine. Without it, `auto` refuses person readings and check-ins (503) |
 | `ONTO_ANTHROPIC_BASE_URL` | `https://api.anthropic.com` | The API base URL. The app never reads `ANTHROPIC_BASE_URL` |
-| `ONTO_ENGINE` | `auto` | `rules`, `model` or `auto`. **Any public deployment must run `model` with a key.** With `auto` and no key, only the rules engine runs and the model safety screen does not; every such reading says so. |
+| `ONTO_ENGINE` | `auto` | `rules`, `model` or `auto`. **Any public deployment must run `model` with a key.** With `auto` and no key, person readings and check-ins are refused (503). `rules` is for development and evaluation only; every rule-only reading says it was made offline. A request can never step down from the model engine to rules (403). |
+| `ONTO_ALLOW_RULES_ONLY` | unset | `1` lets `auto` with no key serve rule-only readings (development, evaluation). Never set it on a public deployment |
 | `ONTO_DATA_DIR` | `~/.onto-insight` | Where the encrypted database and key file live (mode 0700). Keep it outside the repository |
 | `ONTO_DATA_KEY` | a key file in the data directory | A Fernet key (urlsafe base64). Set it in production and keep it in a secret store |
 | `ONTO_RETENTION_DAYS` | `90` | How long personal data is kept |

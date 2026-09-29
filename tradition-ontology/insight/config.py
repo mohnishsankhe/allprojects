@@ -57,3 +57,20 @@ def engine_mode() -> str:
     if m == "auto":
         return "model" if os.environ.get(routing()["api_key_env"]) else "rules"
     return m
+
+
+def rules_only_allowed() -> bool:
+    """ONTO_ALLOW_RULES_ONLY=1 lets `auto` with no key serve rule-only person readings (development and evaluation)."""
+    return os.environ.get("ONTO_ALLOW_RULES_ONLY", "") == "1"
+
+
+def reading_engine() -> str:
+    """The engine for person readings and check-ins: 'model', 'rules' or 'unavailable'.
+
+    Red team F3 fix 1: with `auto` and no key, readings are refused ('unavailable') unless rule-only readings are
+    allowed explicitly, because the rules screen alone misses indirect crisis wording. `ONTO_ENGINE=rules` is an
+    explicit operator choice, for development and evaluation only (RUNBOOK)."""
+    m = engine_mode()
+    if m == "rules" and os.environ.get("ONTO_ENGINE", "auto").lower() == "auto" and not rules_only_allowed():
+        return "unavailable"
+    return m

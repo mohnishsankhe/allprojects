@@ -37,7 +37,10 @@ consent + age gate ─► intake (build own-words units) ─► SAFETY SCREEN �
 - `ONTO_ENGINE`:
   - `rules`: deterministic and offline;
   - `model`: Claude API;
-  - `auto`: model if `ANTHROPIC_API_KEY` is set, else rules.
+  - `auto`: model if `ANTHROPIC_API_KEY` is set. With no key, person readings and check-ins are refused
+    (`model_unavailable`, 503) unless `ONTO_ALLOW_RULES_ONLY=1` (red team F3 fix 1; `config.reading_engine`).
+    Content drafts, which a human reviews, still fall back to rules.
+  - A request may ask for the model engine but never step down from it to rules (`engine_not_allowed`, 403).
 - Every engine passes the **same validators**.
 - `config/model_routing.json` sets the model and effort per step:
 

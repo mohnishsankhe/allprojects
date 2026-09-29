@@ -92,17 +92,22 @@ class Store:
                      cost: Optional[dict] = None) -> str:
         rid = uuid.uuid4().hex
         self.db.execute("INSERT INTO readings VALUES (?,?,?,?,?,?,?,?,?)",
-                        (rid, pid, time.time(), status, route, engine, self.enc(inputs),
+                        (rid, pid, time.time(), status, self.enc(route), engine, self.enc(inputs),
                          self.enc(report) if report is not None else None, json.dumps(cost or {})))
         self.db.commit()
         return rid
+
+    def _route(self, v: Any) -> Any:
+        # red team F11: the safety route is stored encrypted, so a stop against a person id cannot be read without the key;
+        # rows written before this change hold it as plain text
+        return self.dec(bytes(v)) if isinstance(v, (bytes, memoryview)) else v
 
     def get_reading(self, rid: str) -> Optional[dict]:
         r = self.db.execute("SELECT * FROM readings WHERE id=?", (rid,)).fetchone()
         if not r:
             return None
         return {"id": r["id"], "person_id": r["person_id"], "created": r["created"], "status": r["status"],
-                "route": r["route"], "engine": r["engine"], "inputs": self.dec(r["input_enc"]),
+                "route": self._route(r["route"]), "engine": r["engine"], "inputs": self.dec(r["input_enc"]),
                 "report": self.dec(r["report_enc"]), "cost": json.loads(r["cost_json"] or "{}")}
 
     # --- check-ins ----------------------------------------------------------------------

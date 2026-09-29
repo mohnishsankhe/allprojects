@@ -85,7 +85,8 @@ async def _json_body(request: Request, limit: int = MAX_BODY) -> dict:
 
 
 def _pid(request: Request, body: Optional[dict] = None) -> str:
-    pid = (body or {}).get("person_id") or request.query_params.get("person_id") or request.headers.get("x-person-id") or ""
+    # red team F10: never from the URL, where it would reach access logs
+    pid = (body or {}).get("person_id") or request.headers.get("x-person-id") or ""
     if not isinstance(pid, str) or len(pid) > 64:
         raise _err("bad_request", "The person id is not valid.")
     return pid

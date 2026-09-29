@@ -678,3 +678,15 @@ Conservative choices made without asking, with reasons. Newest last.
     - the no-diet note is reworded for devotional fasters as well ("if eating or fasting has become hard to manage, or you plan a long fast without food or water, please talk with a doctor first");
     - SAFETY.md and ENGINE_SPEC.md now list the planned long water or dry fast as a no-diet trigger.
   - Hidden sets re-run: 0 automated failures apart from the logged A05 route deviation. 8/10 adversarial flagged (A06, HTML, and A07, the other speaker's lines, need none). 0/42 personas and safety cases flagged. **372 tests, all passing.**
+
+## 2026-09-30 02:28 IST — Last red-team items before the final check (conservative option taken)
+- **F3 fix 1, adopted as the red team wrote it.** Before, a notice on each offline reading was the only guard. A server started with `auto` and no key would still quietly serve rule-only readings, whose screen misses indirect crisis wording. The conservative option is to refuse.
+  - `config.reading_engine()`: `auto` with no key → person readings and check-ins return 503 `model_unavailable`, unless `ONTO_ALLOW_RULES_ONLY=1` (development, evaluation). `ONTO_ENGINE=rules` stays an explicit operator choice for development and evaluation. Content drafts, which a person reviews, still fall back to rules.
+- **Found while doing it (not in the red team's list):** a public caller could send `"engine": "rules"`, and the web page offered a "Rules (offline)" choice. On a model deployment, that skipped the Opus safety screen.
+  - `Service._engine` now refuses any step down from the configured engine (403 `engine_not_allowed`). A caller may still ask for the model engine.
+  - The engine selector is removed from the public page.
+  - `scripts/run_eval.py` sets `ONTO_ENGINE` to the engine it evaluates.
+- **F6 (low), closed.** An age that is present but is not a number ("seventeen", "16 yrs") now returns `age_required`. Before, it was read as "no age" and a full reading followed.
+- **F10 (low), closed.** The person id is never taken from the URL, only from the body or the `X-Person-Id` header. The tests now use the header.
+- **F11 (low), closed.** `readings.route` is stored encrypted (Fernet), and rows written before this change are still read. The plain-text columns keep only the coarse status.
+- Regression tests were added for each. **378 tests, all passing.**
